@@ -17204,6 +17204,7 @@ QuestInfoList = {
   },
   [7627] = {
     Title = "Recrutamento de Escavadores",
+    IconName = "ico_ep.bmp",
     Description = {
       "Agora que vocÛ fez o favor para Ian, estß na hora de saber sobre a ·ltima exploraþÒo!"
     },
@@ -17239,6 +17240,7 @@ QuestInfoList = {
   },
   [7641] = {
     Title = "Recrutamento de Escavadores",
+    IconName = "ico_ep.bmp",
     Description = {
       "A partir de agora, vocÛ tem acesso liberado para as outras ßreas de Verus. Para garantir o acesso, Ú necessßrio falar com um dos Guardas da entrada e confirmar a sua equipe de escavaþÒo!"
     },
@@ -17246,6 +17248,7 @@ QuestInfoList = {
   },
   [7642] = {
     Title = "Registro de Mem¾rias",
+    IconName = "ico_ep.bmp",
     Description = {
       "Investigue a ßrea do Instituto WISH de Pesquisa ao norte da Praþa Central de Verus. Qualquer descoberta pequena serß importante para reportar ao time de escavaþÒo de Atnad."
     },
@@ -17253,6 +17256,7 @@ QuestInfoList = {
   },
   [7643] = {
     Title = "Registro de Mem¾rias",
+    IconName = "ico_ep.bmp",
     Description = {
       "VocÛ encontrou um tipo de peþa misteriosa no Instituto WISH de Pesquisa. ╔ bom reportar a descoberta para o time de escavaþÒo de Atnad."
     },
@@ -17260,6 +17264,7 @@ QuestInfoList = {
   },
   [7644] = {
     Title = "Registro de Mem¾rias",
+    IconName = "ico_ep.bmp",
     Description = {
       "O registro de mem¾ria s¾ funciona com o reprodutor em posse da CapitÒ Arquien. Dirija-se atÚ a sede do Grupo do ╔den e peþa pelo ^CD3278Reprodutor de Registro^000000."
     },
@@ -17267,6 +17272,7 @@ QuestInfoList = {
   },
   [7645] = {
     Title = "Registro de Mem¾rias",
+    IconName = "ico_ep.bmp",
     Description = {
       "VocÛ precisarß coletar 5 registros de mem¾ria para preencher todo o conte·do do Reprodutor. Os registros de mem¾ria podem ser encontrados vasculhando os papÚis espalhados no Instituto WISH de Pesquisa. Leve todos os registros de mem¾ria para a CapitÒ Arquien, em Verus."
     },
@@ -17274,6 +17280,7 @@ QuestInfoList = {
   },
   [7646] = {
     Title = "Registro de Mem¾rias",
+    IconName = "ico_ep.bmp",
     Description = {
       "Ouþa o conte·do do registro de mem¾rias no Reprodutor ao lado da CapitÒ Arquien, nÒo esqueþa de conversar com ela depois."
     },
@@ -17281,6 +17288,7 @@ QuestInfoList = {
   },
   [7647] = {
     Title = "Registro de Mem¾rias",
+    IconName = "ico_ep.bmp",
     Description = {
       "Reporte suas descobertas ao arque¾logo Ian Atnad."
     },
@@ -17288,6 +17296,7 @@ QuestInfoList = {
   },
   [7648] = {
     Title = "Registro de Mem¾rias",
+    IconName = "ico_ep.bmp",
     Description = {
       "Dirija-se ao abrigo subterrÔneo no Laborat¾rio OPTATIO de Experimentos e colete 5 Registros de Mem¾rias para a CapitÒ Arquien."
     },
@@ -27601,7 +27610,7 @@ QuestInfoList = {
     Title = "Investigando o Passado",
     IconName = "ico_ep.bmp",
     Description = {
-      "Parece que vocÛ precisa ter acesso ao elevador antes de usß-lo. Dirija-se ao Quartal General da CorporaþÒo Rekenber em Lighthalzen e converse com Leitner na mesa Ó esquerda do hall de entrada."
+      "Parece que vocÛ precisa ter acesso ao elevador antes de usß-lo. Dirija-se ao Quartel General da CorporaþÒo Rekenber em Lighthalzen e converse com Leitner na mesa Ó esquerda do hall de entrada."
     },
     Summary = "Registre-se com Leitner."
   },
@@ -27609,7 +27618,7 @@ QuestInfoList = {
     Title = "Investigando o Passado",
     IconName = "ico_ep.bmp",
     Description = {
-      "Registro concluÝdo! Retorne ao Planalto de El Mes para usar o elevador que leva direto para Verus."
+      "Registro concluÝdo! Retorne ao Desfiladeiro de Elmes para usar o elevador que leva direto para Verus."
     },
     Summary = "Fale com Elisha."
   },
@@ -27622,42 +27631,42 @@ QuestInfoList = {
     Summary = "Fale com Scarlet."
   },
   [11366] = {
-    Title = "Fale com Scarlet.",
+    Title = "Investigando o Passado",
     IconName = "ico_ep.bmp",
     Description = {
-      "30 Placas de Ferro Usadas"
+      "Algo parece ter dado errado com o elevador! Colete 30 Placas de Ferro Usadas para resolver esse problema!"
     },
-    Summary = "Investigando o Passado"
+    Summary = "30 Placas de Ferro Usadas"
   },
   [11367] = {
-    Title = "Algo parece ter dado errado com o elevador! Colete 30 Placas de Ferro Usadas para resolver esse problema!",
+    Title = "Investigando o Passado",
     IconName = "ico_ep.bmp",
     Description = {
-      "Investigue a Fonte."
+      "Du Lian parece ter se impressionado com essa estranha Fonte no meio de Verus..."
     },
-    Summary = "Investigando o Passado"
+    Summary = "Investigue a Fonte."
   },
   [11368] = {
-    Title = "Du Lian parece ter se impressionado com essa estranha Fonte no meio de Verus...",
+    Title = "Investigando o Passado",
     IconName = "ico_ep.bmp",
     Description = {
-      "Investigue as Miudezas."
+      "VocÛ nÒo encontrou nada na fonte. Verifique as miudezas ali perto."
     },
-    Summary = "Investigando o Passado"
+    Summary = "Investigue as Miudezas."
   },
   [11369] = {
-    Title = "VocÛ nÒo encontrou nada na fonte. Verifique as miudezas ali perto.",
+    Title = "Investigando o Passado",
     IconName = "ico_ep.bmp",
     Description = {
-      "Investigue a ┴rvore."
+      "Este local Ú bom para plantas? Verifique a ßrvore logo ali."
     },
-    Summary = "Investigando o Passado"
+    Summary = "Investigue a ┴rvore."
   },
   [11370] = {
     Title = "Investigando o Passado",
     IconName = "ico_ep.bmp",
     Description = {
-      "Aquela casa estranha tem uma placa de aviso bem peculiar pendurado na porta."
+      "Aquela casa estranha tem uma placa de aviso bem peculiar pendurada na porta."
     },
     Summary = "Examine o Aviso."
   },
@@ -27697,7 +27706,7 @@ QuestInfoList = {
     Title = "Investigando o Passado",
     IconName = "ico_ep.bmp",
     Description = {
-      "Magi estß investigando a entrada da ßrea destruÝda, ela estß um pouco mais afastada do portal."
+      "Maggi estß investigando a entrada da ßrea destruÝda, ela estß um pouco mais afastada do portal."
     },
     Summary = "Fale com Maggi."
   },
@@ -27738,6 +27747,7 @@ QuestInfoList = {
   },
   [11381] = {
     Title = "Investigando o Passado",
+    IconName = "ico_ep.bmp",
     Description = {
       "Os arque¾logos de Verus disseram que existe um abrigo subterrÔneo no centro desse lugar. ╔ melhor investigarmos."
     },
@@ -27745,6 +27755,7 @@ QuestInfoList = {
   },
   [11382] = {
     Title = "Investigando o Passado",
+    IconName = "ico_ep.bmp",
     Description = {
       "Fruit quer que vocÛ investigue o abrigo subterrÔneo. Parece que alguÚm ficarß encarregado de te guiar pelo lugar!"
     },
@@ -27752,6 +27763,7 @@ QuestInfoList = {
   },
   [11383] = {
     Title = "Investigando o Passado",
+    IconName = "ico_ep.bmp",
     Description = {
       "O lugar Ú fedido e cheio de zumbis, mas Ú melhor se acalmar e investigar o abrigo para saber se existe algo que valha a pena recuperar."
     },
@@ -27759,6 +27771,7 @@ QuestInfoList = {
   },
   [11384] = {
     Title = "Investigando o Passado",
+    IconName = "ico_ep.bmp",
     Description = {
       "O grupo encontrou a guia... e tambÚm uma sala com energia peculiar..."
     },
@@ -27766,6 +27779,7 @@ QuestInfoList = {
   },
   [11385] = {
     Title = "Investigando o Passado",
+    IconName = "ico_ep.bmp",
     Description = {
       "Parece que a porta da sala leva para um t·nel subterrÔneo do abrigo. ╔ melhor seguir as orientaþ§es da guia."
     },
@@ -27773,6 +27787,7 @@ QuestInfoList = {
   },
   [11386] = {
     Title = "Investigando o Passado",
+    IconName = "ico_ep.bmp",
     Description = {
       "Parece que existe mais uma porta para outra sala, vamos investigar."
     },
@@ -27780,6 +27795,7 @@ QuestInfoList = {
   },
   [11387] = {
     Title = "Entre no portal.",
+    IconName = "ico_ep.bmp",
     Description = {
       "Converse com Du Lian."
     },
@@ -27787,6 +27803,7 @@ QuestInfoList = {
   },
   [11388] = {
     Title = "A misteriosa porta estß te levando para mais uma sala... quantas salas existem afinal?",
+    IconName = "ico_ep.bmp",
     Description = {
       "Continue entrando nos portais."
     },
@@ -27794,6 +27811,7 @@ QuestInfoList = {
   },
   [11389] = {
     Title = "A porta para voltar ao abrigo estß travada... e agora? O jeito Ú seguir o conselho da guia Verity e adentrar-se cada vez mais nas salas desse lugar misterioso...",
+    IconName = "ico_ep.bmp",
     Description = {
       "Continue entrando nos portais."
     },
@@ -34944,7 +34962,7 @@ QuestInfoList = {
   [13197] = {
     Title = "Brigan Mensal",
     Description = {
-      "Krotzel estß preocupada com seu Rep¾rter de SobrevivÛncia, Ú melhor procurar por ela!"
+      "Krotzel estß preocupada com seu Rep¾rter de SobrevivÛncia, Ú melhor procurar por ele!"
     },
     Summary = "Fale com o Jornalista Exausto, Grizzly Grylls."
   },
@@ -41481,6 +41499,14 @@ NpcSpr = [=[4_M_RACHMAN1]]
     },
     Summary = "Marinheiro Domi"
   },
+  [17312] = {
+    Title = "Festival do Macarr?o",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Se voc? estiver interesse em outro macarr?o, recomendo o <NAVI>[Nike]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>. Voc? n?o vai se decepcionar."
+    },
+    Summary = "Fale com Nike"
+  },
   [17313] = {
     Title = "Cozinhar MacarrÒo",
     Description = {
@@ -41522,6 +41548,14 @@ NpcSpr = [=[4_M_RACHMAN1]]
       "VocÛ concluiu a missÒo dißria de hoje. Ap¾s o amanhecer, vocÛ pode visitar <NAVI>[Marinheiro Domi]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI> novamente."
     },
     Summary = "Reinicio Ós 04:00 (UTC-3)"
+  },
+  [17319] = {
+    Title = "Festival do Macarr?o",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Voc? poderia perguntar ao <NAVI>[meu amigo]<INFO>lasagna,150,98,0,101,0,</INFO></NAVI>, que mora ao meu lado, como chegar ? Caverna?"
+    },
+    Summary = "Fale com Chipol"
   },
   [17328] = {
     Title = "[Feito] Cozinhar MacarrÒo",
@@ -66444,5 +66478,155 @@ NpcSpr = [=[4_M_RACHMAN1]]
       ""
     },
     Summary = "Reseta ap¾s 20 horas"
+  },
+  [16096] = {
+    Title = "IlusÒo da Tartaruga",
+    Description = {
+      "Enquanto conversava com Eilvar, vocÛ chegou a um lugar desconhecido. Converse com a garota na sua frente."
+    },
+    Summary = "Fale com a Garota"
+  },
+  [16097] = {
+    Title = "IlusÒo da Tartaruga",
+    Description = {
+      "A garota apontou alguns lugares. Vamos encontrar os rastros do Arque¾logo Leiphen na vila das boas tartarugas."
+    },
+    Summary = "Homem Impaciente"
+  },
+  [16098] = {
+    Title = "IlusÒo da Tartaruga",
+    Description = {
+      "A garota apontou alguns lugares. Vamos encontrar os rastros do Arque¾logo Leiphen na vila das boas tartarugas."
+    },
+    Summary = "Soldado bravo"
+  },
+  [16099] = {
+    Title = "IlusÒo da Tartaruga",
+    Description = {
+      "A garota apontou alguns lugares. Vamos encontrar os vestÝgios do Arque¾logo Leiphen no Palßcio Tartaruga."
+    },
+    Summary = "Moþa debilitada"
+  },
+  [16100] = {
+    Title = "IlusÒo da Tartaruga",
+    Description = {
+      "Hß mais um lugar para procurar. Vamos encontrar os vestÝgios do Arque¾logo Leiphen no Palßcio Tartaruga."
+    },
+    Summary = "Ache Leiphen"
+  },
+  [16101] = {
+    Title = "IlusÒo da Tartaruga",
+    Description = {
+      "Elimine 10 de cada tartaruga: Batedores e Solidificadores Ominosos e entregue 10 Carnes Estragadas para Leiphen."
+    },
+    Summary = "10 Carnes Estragadas"
+  },
+  [16102] = {
+    Title = "IlusÒo da Tartaruga",
+    Description = {
+      "Elimine 10 de cada tartaruga: Aquecedores e Congeladores Ominosos para Leiphen."
+    },
+    Summary = "Volte a Leiphen"
+  },
+  [16103] = {
+    Title = "IlusÒo da Tartaruga",
+    Description = {
+      "Vamos falar com os aos alde§es aqui, conforme solicitado por Leiphen."
+    },
+    Summary = "Moþa debilitada"
+  },
+  [16104] = {
+    Title = "IlusÒo da Tartaruga",
+    Description = {
+      "Vamos correr para a garota na entrada da Vila das Boas Tartarugas."
+    },
+    Summary = "Fale com a Garota"
+  },
+  [16105] = {
+    Title = "Promessa",
+    Description = {
+      "VocÛ fez uma promessa para Nalin. Volte amanhÒ na IlusÒo da Tartaruga para cumprir com o que prometeu."
+    },
+    Summary = "Volte amanhÒ"
+  },
+  [16106] = {
+    Title = "NÒo vou esquecer!",
+    Description = {
+      "Vamos ao Palßcio das Tartarugas para encontrar o Arque¾logo Leiphen para reviver a mem¾ria da garota."
+    },
+    Summary = "Fale com Ierpen no sombrio Guyanggung"
+  },
+  [16107] = {
+    Title = "NÒo vou esquecer!",
+    Description = {
+      "Vamos voltar para a garota junto com o Arque¾logo Leiphen."
+    },
+    Summary = "Fale com a Garota"
+  },
+  [16108] = {
+    Title = "[Espera] NÒo vou esquecer!",
+    Description = {
+      "Esta missÒo Ú uma missÒo dißria, e vocÛ pode recebÛ-la novamente quando o tempo de espera expirar."
+    },
+    Summary = "Volte amanhÒ"
+  },
+  [16109] = {
+    Title = "EspÝrito Obsessor",
+    Description = {
+      "Vamos caþar 10 Agressores Ominosos e entregar 5 Metais CorroÝdos."
+    },
+    Summary = "5 Metais CorroÝdos"
+  },
+  [16110] = {
+    Title = "[Espera] EspÝrito Obsessor",
+    Description = {
+      "Esta missÒo Ú uma missÒo dißria, e vocÛ pode recebÛ-la novamente quando o tempo de espera expirar."
+    },
+    Summary = "Volte amanhÒ"
+  },
+  [16111] = {
+    Title = "Fome eterna",
+    Description = {
+      "Elimine 10 de cada tartaruga: Batedores e Solidificadores Ominosos e entregue 10 Carnes Estragadas para a Moþa debilitada."
+    },
+    Summary = "10 Carnes Estragadas"
+  },
+  [16112] = {
+    Title = "Fome eterna",
+    Description = {
+      "Elimine 10 de cada tartaruga: Aquecedores e Congeladores Ominosos para a Moþa debilitada."
+    },
+    Summary = "Moþa debilitada"
+  },
+  [16113] = {
+    Title = "[Espera] Fome eterna",
+    Description = {
+      "Esta missÒo Ú uma missÒo dißria, e vocÛ pode recebÛ-la novamente quando o tempo de espera expirar."
+    },
+    Summary = "Volte amanhÒ"
+  },
+  [16114] = {
+    Title = "IlusÒo da Tartaruga",
+    Description = {""},
+    Summary = "Fale com Eilvar"
+  },
+  [16115] = {
+    Title = "IlusÒo da Tartaruga",
+    Description = {""},
+    Summary = "Fale com a Garota"
+  },
+  [16116] = {
+    Title = "IlusÒo da Tartaruga",
+    Description = {
+      "Fale com a garota no meio da solitßria vila das boas tartarugas novamente."
+    },
+    Summary = "Fale com a Garota"
+  },
+  [16117] = {
+    Title = "IlusÒo da Tartaruga",
+    Description = {
+      "Fale com a garota no meio da solitßria vila das boas tartarugas novamente."
+    },
+    Summary = "Fale com a garota"
   }
 }

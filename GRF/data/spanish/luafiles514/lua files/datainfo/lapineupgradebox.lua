@@ -10891,80 +10891,6 @@ tblLapineUpgradeBox = {
       },
       NeedSource_String = "Egir's Magic Box"
     },
-    Charleston_Parts_W = {
-      ItemID = 23706,
-      NeedRefineMin = 0,
-      NeedOptionNumMin = 0,
-      NotSocketEnchantItem = true,
-      TargetItems = {
-        {
-          "Pilebuncker",
-          1549
-        },
-        {
-          "Pilebuncker_S",
-          16030
-        },
-        {
-          "Pilebuncker_T",
-          16032
-        },
-        {
-          "Pilebuncker_P",
-          16031
-        },
-        {
-          "Robot's_Arm",
-          16033
-        },
-        {
-          "Tornado_Axe",
-          28101
-        },
-        {
-          "Giant_Blade",
-          21011
-        }
-      },
-      NeedSource_String = "Corporal"
-    },
-    Charleston_Parts_R = {
-      ItemID = 23707,
-      NeedRefineMin = 0,
-      NeedOptionNumMin = 0,
-      NotSocketEnchantItem = true,
-      TargetItems = {
-        {
-          "Pilebuncker",
-          1549
-        },
-        {
-          "Pilebuncker_S",
-          16030
-        },
-        {
-          "Pilebuncker_T",
-          16032
-        },
-        {
-          "Pilebuncker_P",
-          16031
-        },
-        {
-          "Robot's_Arm",
-          16033
-        },
-        {
-          "Tornado_Axe",
-          28101
-        },
-        {
-          "Giant_Blade",
-          21011
-        }
-      },
-      NeedSource_String = "Certeiro"
-    },
     Loki_Coin_4 = {
       ItemID = 102676,
       NeedRefineMin = 0,
@@ -11666,6 +11592,68 @@ tblLapineUpgradeBox = {
         }
       },
       NeedSource_String = "Arma Ilusoria"
+    },
+    Turtle_Is_Box_IL = {
+      ItemID = 100417,
+      NeedRefineMin = 4,
+      NeedRefineMax = 9,
+      NeedOptionNumMin = 0,
+      NotSocketEnchantItem = false,
+      TargetItems = {
+        {
+          "Huuma_Bird_Wing_IL",
+          13338
+        },
+        {"War_Axe_IL", 1326},
+        {
+          "Immaterial_Sword_IL",
+          13469
+        },
+        {
+          "Iron_Driver_IL",
+          16065
+        },
+        {
+          "Pole_Axe_IL",
+          32005
+        },
+        {
+          "Fancy_Flower_IL",
+          19247
+        }
+      },
+      NeedSource_String = "Illusion Equipment"
+    },
+    S_Turtle_Is_Box_IL = {
+      ItemID = 100418,
+      NeedRefineMin = 4,
+      NeedRefineMax = 11,
+      NeedOptionNumMin = 0,
+      NotSocketEnchantItem = false,
+      TargetItems = {
+        {
+          "Huuma_Bird_Wing_IL",
+          13338
+        },
+        {"War_Axe_IL", 1326},
+        {
+          "Immaterial_Sword_IL",
+          13469
+        },
+        {
+          "Iron_Driver_IL",
+          16065
+        },
+        {
+          "Pole_Axe_IL",
+          32005
+        },
+        {
+          "Fancy_Flower_IL",
+          19247
+        }
+      },
+      NeedSource_String = "Illusion Equipment"
     }
   },
   get_lapine_box = function(in_box_id)

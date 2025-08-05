@@ -11745,6 +11745,68 @@ tblLapineUpgradeBox = {
         }
       },
       NeedSource_String = "Arma Ilusional"
+    },
+    Turtle_Is_Box_IL = {
+      ItemID = 100417,
+      NeedRefineMin = 4,
+      NeedRefineMax = 9,
+      NeedOptionNumMin = 0,
+      NotSocketEnchantItem = false,
+      TargetItems = {
+        {
+          "Huuma_Bird_Wing_IL",
+          13338
+        },
+        {"War_Axe_IL", 1326},
+        {
+          "Immaterial_Sword_IL",
+          13469
+        },
+        {
+          "Iron_Driver_IL",
+          16065
+        },
+        {
+          "Pole_Axe_IL",
+          32005
+        },
+        {
+          "Fancy_Flower_IL",
+          19247
+        }
+      },
+      NeedSource_String = "Illusion Equipment"
+    },
+    S_Turtle_Is_Box_IL = {
+      ItemID = 100418,
+      NeedRefineMin = 4,
+      NeedRefineMax = 11,
+      NeedOptionNumMin = 0,
+      NotSocketEnchantItem = false,
+      TargetItems = {
+        {
+          "Huuma_Bird_Wing_IL",
+          13338
+        },
+        {"War_Axe_IL", 1326},
+        {
+          "Immaterial_Sword_IL",
+          13469
+        },
+        {
+          "Iron_Driver_IL",
+          16065
+        },
+        {
+          "Pole_Axe_IL",
+          32005
+        },
+        {
+          "Fancy_Flower_IL",
+          19247
+        }
+      },
+      NeedSource_String = "Illusion Equipment"
     }
   },
   get_lapine_box = function(in_box_id)

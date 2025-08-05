@@ -802,7 +802,7 @@ EquipmentPropertiesOrder = {
           [1] = MonsterClass.Normal,
           [2] = Unit.User
         },
-        sym = SymbolPreset.DecSign,
+        sym = SymbolPreset.IncSign,
         rndOpt = EnumVAR.CLASS_DAMAGE_NORMAL_USER[1]
       },
       [19] = {
@@ -815,7 +815,7 @@ EquipmentPropertiesOrder = {
           [1] = MonsterClass.Boss,
           [2] = Unit.User
         },
-        sym = SymbolPreset.DecSign,
+        sym = SymbolPreset.IncSign,
         rndOpt = EnumVAR.CLASS_DAMAGE_BOSS_USER[1]
       },
       [20] = {

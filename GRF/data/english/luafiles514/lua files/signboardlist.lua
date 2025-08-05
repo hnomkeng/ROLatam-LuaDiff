@@ -4289,14 +4289,6 @@ SignBoardList = {
     ICONID = 1,
     FILEPATH = "information\\over_store.bmp"
   },
-  [539] = {
-    MAPNAME = "verus04",
-    CELLX = 165,
-    CELLY = 217,
-    HEIGHT = 0,
-    ICONID = 1,
-    FILEPATH = "information\\over_mkwp.bmp"
-  },
   [540] = {
     MAPNAME = "pay_d03_i",
     CELLX = 160,
@@ -4881,14 +4873,6 @@ SignBoardList = {
     MAPNAME = "harboro1",
     CELLX = 288,
     CELLY = 212,
-    HEIGHT = 0,
-    ICONID = 1,
-    FILEPATH = "information\\over_gldstg.bmp"
-  },
-  [611] = {
-    MAPNAME = "verus04",
-    CELLX = 117,
-    CELLY = 243,
     HEIGHT = 0,
     ICONID = 1,
     FILEPATH = "information\\over_gldstg.bmp"
@@ -6003,16 +5987,6 @@ SignBoardList = {
     ICONID = 3,
     FILEPATH = "information\\over_nmtrade.bmp",
     CONTENTS = "  Componentes",
-    CHARCOLOR = "#0x00FFFFFF"
-  },
-  [757] = {
-    MAPNAME = "verus04",
-    CELLX = 68,
-    CELLY = 115,
-    HEIGHT = 10,
-    ICONID = 3,
-    FILEPATH = "information\\over_store.bmp",
-    CONTENTS = "  Encantamento",
     CHARCOLOR = "#0x00FFFFFF"
   },
   [758] = {

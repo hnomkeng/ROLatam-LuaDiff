@@ -17168,6 +17168,7 @@ QuestInfoList = {
   },
   [7627] = {
     Title = "Last Exploration",
+    IconName = "ico_ep.bmp",
     Description = {
       "Ask Ian Artnard about his last exploration effort."
     },
@@ -17203,6 +17204,7 @@ QuestInfoList = {
   },
   [7641] = {
     Title = "Access Permitted",
+    IconName = "ico_ep.bmp",
     Description = {
       "Access approved for restricted areas 'Laboratories' and 'Research Facilities'.Free access to laboratories and research facilities is possible from now on."
     },
@@ -17210,6 +17212,7 @@ QuestInfoList = {
   },
   [7642] = {
     Title = "Explore Research facilities",
+    IconName = "ico_ep.bmp",
     Description = {
       "Look around and search for things of special investigation and research value in the Research facilities area. Report even small but significant things to Ian Atnad"
     },
@@ -17217,6 +17220,7 @@ QuestInfoList = {
   },
   [7643] = {
     Title = "Mysterious Piece",
+    IconName = "ico_ep.bmp",
     Description = {
       "Found some kind of component in the Research facilities. Report to Ian Atnad."
     },
@@ -17224,6 +17228,7 @@ QuestInfoList = {
   },
   [7644] = {
     Title = "Record Player",
+    IconName = "ico_ep.bmp",
     Description = {
       "Record player is needed to know the contents of Memory Record. Commander Arquien of the Paradise Squad knows the whereabouts of the record player."
     },
@@ -17231,6 +17236,7 @@ QuestInfoList = {
   },
   [7645] = {
     Title = "Piece of Memory Record",
+    IconName = "ico_ep.bmp",
     Description = {
       "At least 5 pieces are needed to play Memory Record intact. Collect the rest of the Memory Records in the Research facilities and take them to Commander Arquien who came to the Verus excavation site."
     },
@@ -17238,6 +17244,7 @@ QuestInfoList = {
   },
   [7646] = {
     Title = "Play Memory Record",
+    IconName = "ico_ep.bmp",
     Description = {
       "Converse with Commander Arquien after playing Memory Record"
     },
@@ -17245,6 +17252,7 @@ QuestInfoList = {
   },
   [7647] = {
     Title = "Report Memory Record",
+    IconName = "ico_ep.bmp",
     Description = {
       "Report to Ian Atnad about what you found out about the Memory Records"
     },
@@ -17252,6 +17260,7 @@ QuestInfoList = {
   },
   [7648] = {
     Title = "Memory Records of the Laboratories",
+    IconName = "ico_ep.bmp",
     Description = {
       "Collect 5 'Memory Records of the laboratories' in the underground facility of the laboratories and take them to Arquien to find out the content."
     },
@@ -27875,6 +27884,7 @@ QuestInfoList = {
   },
   [11381] = {
     Title = "Vestige",
+    IconName = "ico_ep.bmp",
     Description = {
       "Apparently there is an incredible device in the center. Go and investigate."
     },
@@ -27882,6 +27892,7 @@ QuestInfoList = {
   },
   [11382] = {
     Title = "Vestige",
+    IconName = "ico_ep.bmp",
     Description = {
       "Receive request to investigate underground bunker from Fruit. There seems to be a guide in the area so look for him."
     },
@@ -27889,6 +27900,7 @@ QuestInfoList = {
   },
   [11383] = {
     Title = "Vestige",
+    IconName = "ico_ep.bmp",
     Description = {
       "See if there are things worth recovering in the underground bunker."
     },
@@ -27896,6 +27908,7 @@ QuestInfoList = {
   },
   [11384] = {
     Title = "Vestige",
+    IconName = "ico_ep.bmp",
     Description = {
       "Fond a room with a peculiar energy. Go in."
     },
@@ -27903,6 +27916,7 @@ QuestInfoList = {
   },
   [11385] = {
     Title = "Vestige",
+    IconName = "ico_ep.bmp",
     Description = {
       "Found a suspicious door in the room. Go in."
     },
@@ -27910,6 +27924,7 @@ QuestInfoList = {
   },
   [11386] = {
     Title = "Vestige",
+    IconName = "ico_ep.bmp",
     Description = {
       "Arrived at a strange space. There seems to be a way to go back so go."
     },
@@ -27917,6 +27932,7 @@ QuestInfoList = {
   },
   [11387] = {
     Title = "Vestige",
+    IconName = "ico_ep.bmp",
     Description = {
       "Arrived at a strange room. Converse with company."
     },
@@ -27924,6 +27940,7 @@ QuestInfoList = {
   },
   [11388] = {
     Title = "Vestige",
+    IconName = "ico_ep.bmp",
     Description = {
       "The way back is blocked. Keep going to the interior."
     },
@@ -27931,6 +27948,7 @@ QuestInfoList = {
   },
   [11389] = {
     Title = "Vestige",
+    IconName = "ico_ep.bmp",
     Description = {
       "Picked up a strange note. A peculiar message is written."
     },
@@ -42297,6 +42315,14 @@ Talk to Kar=],
     },
     Summary = "Go to Domi"
   },
+  [17312] = {
+    Title = "Noodles Festival",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "If you are interested in another noodle for lasagna, I recommend <NAVI>[Nike]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>. You will not be disappointed."
+    },
+    Summary = "Nike, the Noodle Expert"
+  },
   [17313] = {
     Title = "Ingredients for Noodles",
     Description = {
@@ -42341,6 +42367,14 @@ Talk to Kar=],
     },
     Summary = "Reset at 04.00 AM",
     CoolTimeQuest = 1
+  },
+  [17319] = {
+    Title = "Noodles Festival",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Could you please ask <NAVI>[my friend]<INFO>lasagna,150,98,0,101,0,</INFO></NAVI>, who lives next door to me, how to get to Nyailgul?"
+    },
+    Summary = "Chipol"
   },
   [17328] = {
     Title = "Coupon: Noodle Event Completed",
@@ -68329,5 +68363,155 @@ Talk to Kar=],
     NpcNavi = "geffen",
     NpcPosX = 40,
     NpcPosY = 141
+  },
+  [16096] = {
+    Title = "Illusion of Abyss (Turtle Island)",
+    Description = {
+      "While talking to Eilvar, you arrived at an unknown place. Talk to the girl in front of you."
+    },
+    Summary = "Talk to the Girl"
+  },
+  [16097] = {
+    Title = "Illusion of Abyss (Turtle Island)",
+    Description = {
+      "The girl pointed out some places. Let's find Archaeologist Leiphen's tracks in the village of the good turtles."
+    },
+    Summary = "Impatient Man"
+  },
+  [16098] = {
+    Title = "Illusion of Abyss (Turtle Island)",
+    Description = {
+      "The girl pointed out some places. Let's find Archaeologist Leiphen's tracks in the village of the good turtles."
+    },
+    Summary = "Brave Soldier"
+  },
+  [16099] = {
+    Title = "Illusion of Abyss (Turtle Island)",
+    Description = {
+      "The girl pointed out some places. Let's find Archaeologist Leiphen's remains at the Turtle Palace."
+    },
+    Summary = "Weakened girl"
+  },
+  [16100] = {
+    Title = "Illusion of Abyss (Turtle Island)",
+    Description = {
+      "There's one more place to look. Let's find Archaeologist Leiphen's remains at the Turtle Palace."
+    },
+    Summary = "Find Leiphen"
+  },
+  [16101] = {
+    Title = "Illusion of Abyss (Turtle Island)",
+    Description = {
+      "Eliminate 10 of each turtle: Ominous Beaters and Solidifiers and deliver 10 Spoiled Meats to Leiphen."
+    },
+    Summary = "10 Carnes Estragadas"
+  },
+  [16102] = {
+    Title = "Illusion of Abyss (Turtle Island)",
+    Description = {
+      "Eliminate 10 of each turtle: Ominous Heaters and Freezers for Leiphen."
+    },
+    Summary = "Go back to Leiphen"
+  },
+  [16103] = {
+    Title = "Illusion of Abyss (Turtle Island)",
+    Description = {
+      "Let's talk to the villagers here, as requested by Leiphen."
+    },
+    Summary = "Weakened girl"
+  },
+  [16104] = {
+    Title = "Illusion of Abyss (Turtle Island)",
+    Description = {
+      "Let's run to the girl at the entrance to the Good Turtle Village."
+    },
+    Summary = "Talk to the Girl"
+  },
+  [16105] = {
+    Title = "Promise",
+    Description = {
+      "You made a promise to Nalin. Come back tomorrow to the Turtle Illusion to fulfill your promise."
+    },
+    Summary = "Come back tomorrow"
+  },
+  [16106] = {
+    Title = "I won't Forget!",
+    Description = {
+      "Let's go to the Turtle Palace to find Archaeologist Leiphen to revive the girl's memory."
+    },
+    Summary = "Talk to Ierpen in the Guyanggung"
+  },
+  [16107] = {
+    Title = "I won't Forget!",
+    Description = {
+      "Let's go back to the girl together with Archaeologist Leiphen."
+    },
+    Summary = "Talk to the Girl"
+  },
+  [16108] = {
+    Title = "I won't Forget!",
+    Description = {
+      "This quest is a daily quest, and you can receive it again when the cooldown timer expires."
+    },
+    Summary = "Come back tomorrow"
+  },
+  [16109] = {
+    Title = "Obsessive Spirit",
+    Description = {
+      "Let's hunt 10 Ominous Assaulters and deliver 5 Corroded Metals."
+    },
+    Summary = "5 Corroded Metals"
+  },
+  [16110] = {
+    Title = "[Wait] Obsessive Spirit",
+    Description = {
+      "This quest is a daily quest, and you can receive it again when the cooldown timer expires."
+    },
+    Summary = "Come back tomorrow"
+  },
+  [16111] = {
+    Title = "Eternal Hunger",
+    Description = {
+      "Eliminate 10 of each turtle: Ominous Beaters and Solidifiers and deliver 10 Spoiled Meat to the weakened Lady."
+    },
+    Summary = "10 Spoiled Meat"
+  },
+  [16112] = {
+    Title = "Eternal Hunger",
+    Description = {
+      "Eliminate 10 of each turtle: Ominous Heaters and Freezers for the weakened Girl."
+    },
+    Summary = "Weakened girl"
+  },
+  [16113] = {
+    Title = "[Wait] Eternal Hunger",
+    Description = {
+      "This quest is a daily quest, and you can receive it again when the cooldown timer expires."
+    },
+    Summary = "Come back tomorrow"
+  },
+  [16114] = {
+    Title = "Illusion of Abyss (Turtle Island)",
+    Description = {""},
+    Summary = "Talk to Eilvar"
+  },
+  [16115] = {
+    Title = "Illusion of Abyss (Turtle Island)",
+    Description = {""},
+    Summary = "Talk to the Girl"
+  },
+  [16116] = {
+    Title = "Illusion of Abyss (Turtle Island)",
+    Description = {
+      "Talk to the girl in the middle of the lonely good turtle village again."
+    },
+    Summary = "Talk to the Girl"
+  },
+  [16117] = {
+    Title = "Illusion of Abyss (Turtle Island)",
+    Description = {
+      "Talk to the girl in the middle of the lonely good turtle village again."
+    },
+    Summary = "Talk to the Girl"
   }
 }

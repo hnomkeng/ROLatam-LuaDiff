@@ -17169,6 +17169,7 @@ QuestInfoList = {
   },
   [7627] = {
     Title = "La ·ltima exploraci¾n",
+    IconName = "ico_ep.bmp",
     Description = {
       "Preg·ntale a Ian Atnad por su ·ltimo intento de exploraci¾n."
     },
@@ -17204,6 +17205,7 @@ QuestInfoList = {
   },
   [7641] = {
     Title = "Acceso autorizado",
+    IconName = "ico_ep.bmp",
     Description = {
       "Se autoriz¾ el acceso a las zonas restringidas ôLaboratoriosö e ôInstalaciones de investigaci¾nö. A partir de ahora, serß posible acceder libremente a los laboratorios y a las instalaciones de investigaci¾n."
     },
@@ -17211,6 +17213,7 @@ QuestInfoList = {
   },
   [7642] = {
     Title = "Exploraci¾n de las instalaciones de investigaci¾n",
+    IconName = "ico_ep.bmp",
     Description = {
       "Mira a tu alrededor y busca cosas de especial interÚs para la investigaci¾n dentro de las instalaciones de investigaci¾n. Informa a Ian Atnad incluso los hallazgos peque±os pero importantes."
     },
@@ -17218,6 +17221,7 @@ QuestInfoList = {
   },
   [7643] = {
     Title = "La pieza misteriosa",
+    IconName = "ico_ep.bmp",
     Description = {
       "Encontraste un tipo de componente en las instalaciones de investigaci¾n. Informa a Ian Atnad."
     },
@@ -17225,6 +17229,7 @@ QuestInfoList = {
   },
   [7644] = {
     Title = "Reproductor de recuerdos",
+    IconName = "ico_ep.bmp",
     Description = {
       "Se necesita un reproductor para conocer el contenido del Registro de recuerdos. La comandante Arquien del Grupo de EdÚn conoce la ubicaci¾n del reproductor."
     },
@@ -17232,6 +17237,7 @@ QuestInfoList = {
   },
   [7645] = {
     Title = "Las piezas del Registro de recuerdos",
+    IconName = "ico_ep.bmp",
     Description = {
       "Se necesitan al menos 5 piezas para reproducir el Registro de recuerdos de manera intacta. Termina de recolectar los demßs Registros de recuerdos de las instalaciones de investigaci¾n y llÚvalos a la comandante Arquien, quien vino a la instalaci¾n de Verus."
     },
@@ -17239,6 +17245,7 @@ QuestInfoList = {
   },
   [7646] = {
     Title = "Reproducci¾n del Registro de recuerdos",
+    IconName = "ico_ep.bmp",
     Description = {
       "Habla con la comandante Arquien despuÚs de reproducir el Registro de recuerdos."
     },
@@ -17246,6 +17253,7 @@ QuestInfoList = {
   },
   [7647] = {
     Title = "Informe sobre el Registro de recuerdos",
+    IconName = "ico_ep.bmp",
     Description = {
       "Comunica a Ian Atnad lo que averiguaste sobre los Registros de recuerdos."
     },
@@ -17253,6 +17261,7 @@ QuestInfoList = {
   },
   [7648] = {
     Title = "Registros de recuerdos de los laboratorios",
+    IconName = "ico_ep.bmp",
     Description = {
       "Recolecta 5 Registros de recuerdos de los laboratorios en sus instalaciones subterrßneas y llÚvalos a Arquien para que revele su contenido."
     },
@@ -27876,6 +27885,7 @@ QuestInfoList = {
   },
   [11381] = {
     Title = "Vestigio",
+    IconName = "ico_ep.bmp",
     Description = {
       "Aparentemente hay un dispositivo asombroso en el centro. Ve a investigar."
     },
@@ -27883,6 +27893,7 @@ QuestInfoList = {
   },
   [11382] = {
     Title = "Vestigio",
+    IconName = "ico_ep.bmp",
     Description = {
       "Fruit te solicit¾ que investigues el refugio subterrßneo. Parece que hay un guÝa en la zona, asÝ que b·scalo."
     },
@@ -27890,6 +27901,7 @@ QuestInfoList = {
   },
   [11383] = {
     Title = "Vestigio",
+    IconName = "ico_ep.bmp",
     Description = {
       "Averigua si hay cosas que valgan la pena recuperar en el refugio subterrßneo."
     },
@@ -27897,6 +27909,7 @@ QuestInfoList = {
   },
   [11384] = {
     Title = "Vestigio",
+    IconName = "ico_ep.bmp",
     Description = {
       "Hallaste una sala con una energÝa particular. Entra."
     },
@@ -27904,6 +27917,7 @@ QuestInfoList = {
   },
   [11385] = {
     Title = "Vestigio",
+    IconName = "ico_ep.bmp",
     Description = {
       "Encontraste una puerta sospechosa en la sala. Entra."
     },
@@ -27911,6 +27925,7 @@ QuestInfoList = {
   },
   [11386] = {
     Title = "Vestigio",
+    IconName = "ico_ep.bmp",
     Description = {
       "Llegamos a un espacio extra±o. Parece que hay una manera de regresar, asÝ que puedes ir."
     },
@@ -27918,6 +27933,7 @@ QuestInfoList = {
   },
   [11387] = {
     Title = "Vestigio",
+    IconName = "ico_ep.bmp",
     Description = {
       "Llegaste a una sala extra±a. Conversa con tu compa±ero."
     },
@@ -27925,6 +27941,7 @@ QuestInfoList = {
   },
   [11388] = {
     Title = "Vestigio",
+    IconName = "ico_ep.bmp",
     Description = {
       "El camino de regreso estß bloqueado. Sigue caminando hacia el interior."
     },
@@ -27932,6 +27949,7 @@ QuestInfoList = {
   },
   [11389] = {
     Title = "Vestigio",
+    IconName = "ico_ep.bmp",
     Description = {
       "Recogiste una nota extra±a. Tiene un mensaje particular."
     },
@@ -42304,6 +42322,14 @@ Talk to Kar=],
     },
     Summary = "Ve con Domi."
   },
+  [17312] = {
+    Title = "Festival de Fideos",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Si te interesa otro tipo de fideos para lasa±a, te recomiendo <NAVI>[Nike]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>. No te decepcionarßs."
+    },
+    Summary = "Habla con Nike"
+  },
   [17313] = {
     Title = "Ingredientes para los fideos",
     Description = {
@@ -42348,6 +42374,14 @@ Talk to Kar=],
     },
     Summary = "Se reinicia a las 4:00.",
     CoolTimeQuest = 1
+  },
+  [17319] = {
+    Title = "Festival de Fideos",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "┐PodrÝas preguntarle a <NAVI>[mi amigo]<INFO>lasagna,150,98,0,101,0,</INFO></NAVI>, que vive al lado, c¾mo llegar a Nyailgul?"
+    },
+    Summary = "Habla con Chipol"
   },
   [17328] = {
     Title = "Cup¾n: Evento Fideos completado",
@@ -68338,5 +68372,155 @@ Talk to Kar=],
     NpcNavi = "geffen",
     NpcPosX = 40,
     NpcPosY = 141
+  },
+  [16096] = {
+    Title = "Ilusi¾n de tortuga",
+    Description = {
+      "Mientras hablabas con Eilvar, llegaste a un lugar desconocido. Habla con la chica que tienes delante."
+    },
+    Summary = "Habla con la chica"
+  },
+  [16097] = {
+    Title = "Ilusi¾n de tortuga",
+    Description = {
+      "La chica se±al¾ algunos lugares. Busquemos las huellas del arque¾logo Leiphen en la aldea de las tortugas buenas."
+    },
+    Summary = "Hombre impaciente"
+  },
+  [16098] = {
+    Title = "Ilusi¾n de tortuga",
+    Description = {
+      "La chica se±al¾ algunos lugares. Busquemos las huellas del arque¾logo Leiphen en la aldea de las tortugas buenas."
+    },
+    Summary = "Soldado valiente"
+  },
+  [16099] = {
+    Title = "Ilusi¾n de tortuga",
+    Description = {
+      "La chica se±al¾ algunos lugares. Busquemos los restos del arque¾logo Leiphen en el Palacio de la Tortuga."
+    },
+    Summary = "Chica debilitada"
+  },
+  [16100] = {
+    Title = "Ilusi¾n de tortuga",
+    Description = {
+      "Hay un lugar mßs donde buscar. Busquemos los restos del arque¾logo Leiphen en el Palacio de la Tortuga."
+    },
+    Summary = "Comprar Leiphen"
+  },
+  [16101] = {
+    Title = "Ilusi¾n de tortuga",
+    Description = {
+      "Elimina 10 de cada tortuga: Batidores Ominosos y Solidificadores y entrega 10 Carnes Estropeadas a Leiphen."
+    },
+    Summary = "10 carnes en mal estado"
+  },
+  [16102] = {
+    Title = "Ilusi¾n de tortuga",
+    Description = {
+      "Elimina 10 de cada tortuga: Calentadores y congeladores siniestros para Leiphen."
+    },
+    Summary = "Regreso a Leiphen"
+  },
+  [16103] = {
+    Title = "Ilusi¾n de tortuga",
+    Description = {
+      "Hablemos con los aldeanos aquÝ, como lo solicit¾ Leiphen."
+    },
+    Summary = "Chica debilitada"
+  },
+  [16104] = {
+    Title = "Ilusi¾n de tortuga",
+    Description = {
+      "Corramos hacia la chica que estß en la entrada de la Aldea de la Buena Tortuga."
+    },
+    Summary = "Habla con la chica"
+  },
+  [16105] = {
+    Title = "Promesa",
+    Description = {
+      "Le hiciste una promesa a Nalin. Regresa ma±ana a la Ilusi¾n de la Tortuga para cumplirla."
+    },
+    Summary = "Vuelve ma±ana"
+  },
+  [16106] = {
+    Title = "No lo olvidarÚ!",
+    Description = {
+      "Vayamos al Palacio de la Tortuga para encontrar al arque¾logo Leiphen para revivir la memoria de la ni±a."
+    },
+    Summary = "Fale com Ierpen no sombrio Guyanggung"
+  },
+  [16107] = {
+    Title = "No lo olvidarÚ!",
+    Description = {
+      "Volvamos a la ni±a junto con el arque¾logo Leiphen."
+    },
+    Summary = "Habla con la chica"
+  },
+  [16108] = {
+    Title = "[Esperar] No lo olvidarÚ!",
+    Description = {
+      "Esta misi¾n es una misi¾n diaria y puedes recibirla nuevamente cuando expire el tiempo de recuperaci¾n."
+    },
+    Summary = "Vuelve ma±ana"
+  },
+  [16109] = {
+    Title = "EspÝritu obsesivo",
+    Description = {
+      "Vamos a cazar 10 asaltantes siniestros y entregar 5 metales corroÝdos."
+    },
+    Summary = "5 Metales corroidos"
+  },
+  [16110] = {
+    Title = "[Esperar] EspÝritu obsesivo",
+    Description = {
+      "Esta misi¾n es una misi¾n diaria y puedes recibirla nuevamente cuando expire el tiempo de recuperaci¾n."
+    },
+    Summary = "Vuelve ma±ana"
+  },
+  [16111] = {
+    Title = "Hambre eterna",
+    Description = {
+      "Elimina 10 de cada tortuga: Batidores Ominosos y Solidificadores y entrega 10 Carnes Podridas a la Dama debilitada."
+    },
+    Summary = "10 Carnes Podridas"
+  },
+  [16112] = {
+    Title = "Hambre eterna",
+    Description = {
+      "Elimina 10 de cada tortuga: Calentadores y Congeladores Ominosos para la Chica debilitada."
+    },
+    Summary = "Chica debilitada"
+  },
+  [16113] = {
+    Title = "[Esperar] Hambre eterna",
+    Description = {
+      "Esta misi¾n es una misi¾n diaria y puedes recibirla nuevamente cuando expire el tiempo de recuperaci¾n."
+    },
+    Summary = "Vuelve ma±ana"
+  },
+  [16114] = {
+    Title = "Ilusi¾n de tortuga",
+    Description = {""},
+    Summary = "Habla con Eilvar"
+  },
+  [16115] = {
+    Title = "Ilusi¾n de tortuga",
+    Description = {""},
+    Summary = "Habla con la chica"
+  },
+  [16116] = {
+    Title = "Ilusi¾n de tortuga",
+    Description = {
+      "Habla con la chica en medio de la solitaria aldea de las tortugas buenas de nuevo."
+    },
+    Summary = "Habla con la chica"
+  },
+  [16117] = {
+    Title = "Ilusi¾n de tortuga",
+    Description = {
+      "Habla con la chica en medio de la solitaria aldea de las tortugas buenas de nuevo."
+    },
+    Summary = "Habla con la chica"
   }
 }

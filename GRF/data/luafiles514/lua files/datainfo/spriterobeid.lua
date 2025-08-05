@@ -267,5 +267,16 @@ SPRITE_ROBE_IDs = {
   ROBE_Glutton_Cerberus = 267,
   ROBE_C_CLB_DT_TS_Wing = 268,
   ROBE_Giant_Mad_Bunny_TW_LT = 269,
-  ROBE_C_Starrysky_Fountainpen = 270
+  ROBE_C_Starrysky_Fountainpen = 270,
+  ROBE_C_S_Beelzebub_Wing = 271,
+  ROBE_C_Pitaya_V_Bag = 272,
+  ROBE_C_Dimensional_Sword = 273,
+  ROBE_C_Immortal_H_Spear = 274,
+  ROBE_C_Immortal_H_Spear_J = 275,
+  ROBE_C_Qualifier_1st = 276,
+  ROBE_C_Qualifier_2nd = 277,
+  ROBE_C_Qualifier_3rd = 278,
+  ROBE_C_Melon_Cream_Soda = 279,
+  ROBE_C_Sorcerer_Cape = 280,
+  ROBE_Huse_Luk_R_Wing_LT = 281
 }
