@@ -18591,6 +18591,14 @@ tbl = {
       group = 0
     }
   },
+  [17042] = {
+    {
+      id = 12663,
+      prob = 0,
+      name = "Disfarce de Poring 10",
+      group = 0
+    }
+  },
   [17043] = {
     {
       id = 12664,
@@ -26277,6 +26285,254 @@ tbl = {
       group = 0
     }
   },
+  [23234] = {
+    {
+      id = 25274,
+      prob = 1,
+      name = "Bilhete de Corrida",
+      group = 0
+    },
+    {
+      id = 6870,
+      prob = 2,
+      name = "Pergaminho de Arma +13",
+      group = 1
+    },
+    {
+      id = 6876,
+      prob = 2,
+      name = "Pergaminho de Armadura +13",
+      group = 1
+    },
+    {
+      id = 6584,
+      prob = 4,
+      name = "Pergaminho de Arma +12",
+      group = 1
+    },
+    {
+      id = 6585,
+      prob = 4,
+      name = "Pergaminho de Armadura +12",
+      group = 1
+    },
+    {
+      id = 6443,
+      prob = 8,
+      name = "├ôleo Removedor Especial",
+      group = 1
+    },
+    {
+      id = 6993,
+      prob = 10,
+      name = "Pergaminho de Arma +10",
+      group = 1
+    },
+    {
+      id = 6994,
+      prob = 10,
+      name = "Pergaminho de Armadura +10",
+      group = 1
+    },
+    {
+      id = 23229,
+      prob = 25,
+      name = "Unknown Item",
+      group = 1
+    },
+    {
+      id = 22996,
+      prob = 25,
+      name = "[Evento] Neuralizador",
+      group = 1
+    },
+    {
+      id = 6228,
+      prob = 25,
+      name = "Pergaminho de Arma +9",
+      group = 1
+    },
+    {
+      id = 6232,
+      prob = 25,
+      name = "Pergaminho de Armadura +9",
+      group = 1
+    },
+    {
+      id = 6423,
+      prob = 40,
+      name = "Ira do Deus do Mar 10",
+      group = 1
+    },
+    {
+      id = 6229,
+      prob = 50,
+      name = "Pergaminho de Arma +8",
+      group = 1
+    },
+    {
+      id = 6233,
+      prob = 50,
+      name = "Pergaminho de Armadura +8",
+      group = 1
+    },
+    {
+      id = 6230,
+      prob = 100,
+      name = "Pergaminho de Arma +7",
+      group = 1
+    },
+    {
+      id = 6234,
+      prob = 100,
+      name = "Pergaminho de Armadura +7",
+      group = 1
+    },
+    {
+      id = 616,
+      prob = 100,
+      name = "Velho ├ülbum de Cartas",
+      group = 1
+    },
+    {
+      id = 2345,
+      prob = 100,
+      name = "Coura├ºa da F├║ria Flamejante [1]",
+      group = 1
+    },
+    {
+      id = 2349,
+      prob = 100,
+      name = "Coura├ºa da Liberdade Celestial [1]",
+      group = 1
+    },
+    {
+      id = 2347,
+      prob = 100,
+      name = "Coura├ºa da Submiss├úo Oce├ónica [1]",
+      group = 1
+    },
+    {
+      id = 2351,
+      prob = 100,
+      name = "Coura├ºa da Perseveran├ºa Continental [1]",
+      group = 1
+    },
+    {
+      id = 12105,
+      prob = 310,
+      name = "Kit de Domestica├º├úo 2",
+      group = 1
+    },
+    {
+      id = 12623,
+      prob = 310,
+      name = "Caixa das Melhores Armas",
+      group = 1
+    },
+    {
+      id = 12515,
+      prob = 750,
+      name = "[Evento] Po├º├úo M├®dia de Vida 5",
+      group = 1
+    },
+    {
+      id = 12516,
+      prob = 750,
+      name = "[Evento] Po├º├úo Menor de Vida 10",
+      group = 1
+    },
+    {
+      id = 12263,
+      prob = 750,
+      name = "[Evento] Manual de Combate",
+      group = 1
+    },
+    {
+      id = 12264,
+      prob = 750,
+      name = "[Evento] Goma de Mascar",
+      group = 1
+    },
+    {
+      id = 603,
+      prob = 1000,
+      name = "Velha Caixa Azul 10",
+      group = 1
+    },
+    {
+      id = 11572,
+      prob = 1000,
+      name = "[Evento] Po├º├úo Azul 30",
+      group = 1
+    },
+    {
+      id = 617,
+      prob = 1000,
+      name = "Velha Caixa Roxa 5",
+      group = 1
+    },
+    {
+      id = 12550,
+      prob = 1000,
+      name = "Caixa de Veneno Mortal (30)",
+      group = 1
+    },
+    {
+      id = 22543,
+      prob = 10000,
+      name = "[Evento] Po├º├úo da F├║ria Selvagem 3",
+      group = 1
+    },
+    {
+      id = 22544,
+      prob = 10000,
+      name = "[Evento] Po├º├úo do Despertar 3",
+      group = 1
+    },
+    {
+      id = 22542,
+      prob = 10000,
+      name = "[Evento] Po├º├úo da Concentra├º├úo 3",
+      group = 1
+    },
+    {
+      id = 11573,
+      prob = 10000,
+      name = "[Evento] Po├º├úo Branca Compacta 10",
+      group = 1
+    },
+    {
+      id = 11574,
+      prob = 10000,
+      name = "[Evento] Po├º├úo Amarela Compacta 10",
+      group = 1
+    },
+    {
+      id = 11568,
+      prob = 10000,
+      name = "[Evento] Po├º├úo Vermelha Compacta 10",
+      group = 1
+    },
+    {
+      id = 11565,
+      prob = 10000,
+      name = "[Evento] Po├º├úo Branca 3",
+      group = 1
+    },
+    {
+      id = 11566,
+      prob = 10600,
+      name = "[Evento] Po├º├úo Amarela 3",
+      group = 1
+    },
+    {
+      id = 11570,
+      prob = 10800,
+      name = "[Evento] Po├º├úo Vermelha 3",
+      group = 1
+    }
+  },
   [23276] = {
     {
       id = 23898,
@@ -29581,7 +29837,7 @@ tbl = {
     {
       id = 31059,
       prob = 300,
-      name = "Quepe do Marinheiro",
+      name = "[Visual] Quepe do Marinheiro",
       group = 6
     },
     {
@@ -29593,7 +29849,7 @@ tbl = {
     {
       id = 19856,
       prob = 300,
-      name = "Ta├ºa Colegial",
+      name = "[Visual] Ta├ºa Colegial",
       group = 6
     },
     {
@@ -29635,7 +29891,7 @@ tbl = {
     {
       id = 31519,
       prob = 150,
-      name = "L├ímen Fotog├¬nico",
+      name = "[Visual] L├ímen Fotog├¬nico",
       group = 6
     }
   },
@@ -30489,7 +30745,7 @@ tbl = {
     {
       id = 31059,
       prob = 300,
-      name = "Quepe do Marinheiro",
+      name = "[Visual] Quepe do Marinheiro",
       group = 6
     },
     {
@@ -30501,7 +30757,7 @@ tbl = {
     {
       id = 19856,
       prob = 300,
-      name = "Ta├ºa Colegial",
+      name = "[Visual] Ta├ºa Colegial",
       group = 6
     },
     {
@@ -30537,7 +30793,7 @@ tbl = {
     {
       id = 31519,
       prob = 150,
-      name = "L├ímen Fotog├¬nico",
+      name = "[Visual] L├ímen Fotog├¬nico",
       group = 6
     }
   },
@@ -40555,9 +40811,9 @@ tbl = {
       group = 6
     },
     {
-      id = 7621,
+      id = 6833,
       prob = 1000,
-      name = "Amuleto de Siegfried 3",
+      name = "[Limitado] Amuleto de Siegfried 3",
       group = 6
     },
     {
@@ -40791,9 +41047,9 @@ tbl = {
       group = 6
     },
     {
-      id = 7621,
+      id = 6833,
       prob = 1000,
-      name = "Amuleto de Siegfried 3",
+      name = "[Limitado] Amuleto de Siegfried 3",
       group = 6
     },
     {
@@ -40986,6 +41242,350 @@ tbl = {
       id = 25464,
       prob = 0,
       name = "Passaporte 10",
+      group = 0
+    }
+  },
+  [105112] = {
+    {
+      id = 25464,
+      prob = 0,
+      name = "Passaporte 20",
+      group = 0
+    },
+    {
+      id = 104450,
+      prob = 0,
+      name = "Caixa de Visuais LATAM",
+      group = 0
+    },
+    {
+      id = 104903,
+      prob = 0,
+      name = "[Evento] Artefato Oval Insurgente 5",
+      group = 0
+    },
+    {
+      id = 12263,
+      prob = 0,
+      name = "[Evento] Manual de Combate 5",
+      group = 0
+    },
+    {
+      id = 12264,
+      prob = 0,
+      name = "[Evento] Goma de Mascar 5",
+      group = 0
+    },
+    {
+      id = 12516,
+      prob = 0,
+      name = "[Evento] Po├º├úo Menor de Vida 10",
+      group = 0
+    },
+    {
+      id = 23012,
+      prob = 0,
+      name = "[Evento] Po├º├úo Menor de Mana 10",
+      group = 0
+    },
+    {
+      id = 23899,
+      prob = 0,
+      name = "[Evento] Bolinho Divino 10",
+      group = 0
+    },
+    {
+      id = 100333,
+      prob = 0,
+      name = "[Evento] Po├º├úo Infinita 10",
+      group = 0
+    },
+    {
+      id = 23898,
+      prob = 0,
+      name = "[Evento] Po├º├úo Ilimitada 10",
+      group = 0
+    },
+    {
+      id = 6959,
+      prob = 0,
+      name = "Cupom de Roupa",
+      group = 0
+    },
+    {
+      id = 17042,
+      prob = 0,
+      name = "Caixa com Disfarce de Poring 5",
+      group = 0
+    },
+    {
+      id = 12107,
+      prob = 0,
+      name = "M├íscara Embrulhada 2",
+      group = 0
+    },
+    {
+      id = 23216,
+      prob = 0,
+      name = "VIP (10 dias)",
+      group = 0
+    }
+  },
+  [105113] = {
+    {
+      id = 25464,
+      prob = 0,
+      name = "Passaporte 50",
+      group = 0
+    },
+    {
+      id = 104450,
+      prob = 0,
+      name = "Caixa de Visuais LATAM",
+      group = 0
+    },
+    {
+      id = 104903,
+      prob = 0,
+      name = "[Evento] Artefato Oval Insurgente 10",
+      group = 0
+    },
+    {
+      id = 12263,
+      prob = 0,
+      name = "[Evento] Manual de Combate 10",
+      group = 0
+    },
+    {
+      id = 12264,
+      prob = 0,
+      name = "[Evento] Goma de Mascar 10",
+      group = 0
+    },
+    {
+      id = 12516,
+      prob = 0,
+      name = "[Evento] Po├º├úo Menor de Vida 20",
+      group = 0
+    },
+    {
+      id = 23012,
+      prob = 0,
+      name = "[Evento] Po├º├úo Menor de Mana 20",
+      group = 0
+    },
+    {
+      id = 23899,
+      prob = 0,
+      name = "[Evento] Bolinho Divino 20",
+      group = 0
+    },
+    {
+      id = 100333,
+      prob = 0,
+      name = "[Evento] Po├º├úo Infinita 20",
+      group = 0
+    },
+    {
+      id = 23898,
+      prob = 0,
+      name = "[Evento] Po├º├úo Ilimitada 20",
+      group = 0
+    },
+    {
+      id = 6959,
+      prob = 0,
+      name = "Cupom de Roupa",
+      group = 0
+    },
+    {
+      id = 17042,
+      prob = 0,
+      name = "Caixa com Disfarce de Poring 10",
+      group = 0
+    },
+    {
+      id = 12107,
+      prob = 0,
+      name = "M├íscara Embrulhada 3",
+      group = 0
+    },
+    {
+      id = 23216,
+      prob = 0,
+      name = "VIP (10 dias)",
+      group = 0
+    }
+  },
+  [105114] = {
+    {
+      id = 25464,
+      prob = 0,
+      name = "Passaporte 100",
+      group = 0
+    },
+    {
+      id = 104450,
+      prob = 0,
+      name = "Caixa de Visuais LATAM",
+      group = 0
+    },
+    {
+      id = 104903,
+      prob = 0,
+      name = "[Evento] Artefato Oval Insurgente 15",
+      group = 0
+    },
+    {
+      id = 12263,
+      prob = 0,
+      name = "[Evento] Manual de Combate 20",
+      group = 0
+    },
+    {
+      id = 12264,
+      prob = 0,
+      name = "[Evento] Goma de Mascar 20",
+      group = 0
+    },
+    {
+      id = 12516,
+      prob = 0,
+      name = "[Evento] Po├º├úo Menor de Vida 30",
+      group = 0
+    },
+    {
+      id = 23012,
+      prob = 0,
+      name = "[Evento] Po├º├úo Menor de Mana 30",
+      group = 0
+    },
+    {
+      id = 23899,
+      prob = 0,
+      name = "[Evento] Bolinho Divino 20",
+      group = 0
+    },
+    {
+      id = 100333,
+      prob = 0,
+      name = "[Evento] Po├º├úo Infinita 30",
+      group = 0
+    },
+    {
+      id = 23898,
+      prob = 0,
+      name = "[Evento] Po├º├úo Ilimitada 30",
+      group = 0
+    },
+    {
+      id = 6959,
+      prob = 0,
+      name = "Cupom de Roupa",
+      group = 0
+    },
+    {
+      id = 17042,
+      prob = 0,
+      name = "Caixa com Disfarce de Poring 15",
+      group = 0
+    },
+    {
+      id = 12107,
+      prob = 0,
+      name = "M├íscara Embrulhada 4",
+      group = 0
+    },
+    {
+      id = 23216,
+      prob = 0,
+      name = "VIP (10 dias)",
+      group = 0
+    }
+  },
+  [105115] = {
+    {
+      id = 25464,
+      prob = 0,
+      name = "Passaporte 150",
+      group = 0
+    },
+    {
+      id = 104450,
+      prob = 0,
+      name = "Caixa de Visuais LATAM",
+      group = 0
+    },
+    {
+      id = 104903,
+      prob = 0,
+      name = "[Evento] Artefato Oval Insurgente 20",
+      group = 0
+    },
+    {
+      id = 12263,
+      prob = 0,
+      name = "[Evento] Manual de Combate 30",
+      group = 0
+    },
+    {
+      id = 12264,
+      prob = 0,
+      name = "[Evento] Goma de Mascar 30",
+      group = 0
+    },
+    {
+      id = 12516,
+      prob = 0,
+      name = "[Evento] Po├º├úo Menor de Vida 50",
+      group = 0
+    },
+    {
+      id = 23012,
+      prob = 0,
+      name = "[Evento] Po├º├úo Menor de Mana 50",
+      group = 0
+    },
+    {
+      id = 23899,
+      prob = 0,
+      name = "[Evento] Bolinho Divino 30",
+      group = 0
+    },
+    {
+      id = 100333,
+      prob = 0,
+      name = "[Evento] Po├º├úo Infinita 50",
+      group = 0
+    },
+    {
+      id = 23898,
+      prob = 0,
+      name = "[Evento] Po├º├úo Ilimitada 50",
+      group = 0
+    },
+    {
+      id = 6959,
+      prob = 0,
+      name = "Cupom de Roupa",
+      group = 0
+    },
+    {
+      id = 17042,
+      prob = 0,
+      name = "Caixa com Disfarce de Poring 20",
+      group = 0
+    },
+    {
+      id = 12107,
+      prob = 0,
+      name = "M├íscara Embrulhada 5",
+      group = 0
+    },
+    {
+      id = 23216,
+      prob = 0,
+      name = "VIP (10 dias)",
       group = 0
     }
   },
@@ -42269,7 +42869,7 @@ tbl = {
     {
       id = 12470,
       prob = 0,
-      name = "Unknown Item 60",
+      name = "[Evento] Pergaminho do Vento 60",
       group = 0
     },
     {
@@ -42287,7 +42887,7 @@ tbl = {
     {
       id = 12525,
       prob = 0,
-      name = "Unknown Item 60",
+      name = "[Evento] Pergaminho de Assumptio 60",
       group = 0
     },
     {

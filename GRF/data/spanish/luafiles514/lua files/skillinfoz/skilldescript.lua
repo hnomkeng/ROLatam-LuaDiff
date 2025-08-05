@@ -9525,7 +9525,7 @@ SKILL_DESCRIPT = {
     "[Nv 10]: ^7777771.300%^000000 l ^77777738^000000"
   },
   [SKID.NC_AXETORNADO] = {
-    "Tornado de Hacha ^777777(Axe Tornado)^000000",
+    "Furia del Huracßn ^777777(Axe Tornado)^000000",
     "Nv. mßx.: 5",
     "Habilidad requerida: ^777777Entrenamiento con hacha 1^000000",
     "Forma de habilidad: ^777777Activa/Da±o^000000",

@@ -10819,7 +10819,7 @@ QuestInfoList = {
   [5367] = {
     Title = "Transport Necessities",
     Description = {
-      "Received request to transport goods to Zone Z-2 then go to ^0000FF Mechanician Al^000000 and deliver a message saying,"
+      "Received request to transport goods to Zone Z-2 then go to ^0000FF Mechanician Al^000000 and deliver a message saying, \"You idiots!! Stop wasting material with stupid machines!!\""
     },
     Summary = "You stupid idiots!! There's not enough material so stop making machines so much!!."
   },
@@ -17035,7 +17035,7 @@ QuestInfoList = {
     Description = {
       "Use the Juperos dungeon to move to the newly discovered area. Don't forget to register with the Central Command Center upon your arrival."
     },
-    Summary = "Register as an Artnard Excavation Team member."
+    Summary = "Register as an Atnad Excavation Team member."
   },
   [7610] = {
     Title = "Registered Excavator",
@@ -35425,6 +35425,13 @@ QuestInfoList = {
     },
     Summary = "Sending Wuhari regards."
   },
+  [14124] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Someone stole the animals Jade was raising last night. Go investigate what happened and report back."
+    },
+    Summary = "To Jade's House"
+  },
   [14125] = {
     Title = "Surveying the area",
     Description = {
@@ -35459,6 +35466,13 @@ QuestInfoList = {
       "Wuhari received the report, but stated that it will take some time to analyze the report. Try talking to him a bit later. Don't bother someone when he is studying."
     },
     Summary = "Time for analysis."
+  },
+  [14132] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "First, we should investigate the pen where the animals were kept."
+    },
+    Summary = "Investigate the Pen"
   },
   [14133] = {
     Title = "Another favor",
@@ -36081,6 +36095,574 @@ QuestInfoList = {
     },
     Summary = "GIve the Boss hat"
   },
+  [14292] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "The pen was vandalized by humans. Among the chaotic animal footprints on the ground, unusual human footprints are visible. Let's follow the trail."
+    },
+    Summary = "Investigate Suspicious Marks"
+  },
+  [14293] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Fortunately, the suspicious marks lead steadily northeast. Let's follow the trail."
+    },
+    Summary = "Investigate Suspicious Marks"
+  },
+  [14294] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Footprints are clearly visible in the mud. Let's continue following the trail."
+    },
+    Summary = "Investigate Suspicious Marks"
+  },
+  [14295] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Along with the suspicious footprints, I found a receipt issued from Al De Baran. Maybe we can find clues about the culprit in Al De Baran?"
+    },
+    Summary = "To Al De Baran"
+  },
+  [14296] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "These muddy footprints must be Frank's doing! Where is he? Probably repairing boats at the eastern dock! Tell him I'm coming for him."
+    },
+    Summary = "Find Frank"
+  },
+  [14297] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Where else would a stranger new to this city go in the middle of the night? Go to the inn."
+    },
+    Summary = "To the Inn"
+  },
+  [14298] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "The innkeeper was very firm. Seems difficult to get info from them. Let's find someone else who can help."
+    },
+    Summary = "Look Around"
+  },
+  [14299] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "If you want to know the suspicious person's whereabouts, gather ingredients for a facial solution thatÔÇÖs good for wrinkles for me: 1 Alcohol, 22 Harpy Claws, 33 Short Legs, 44 Coral, 55 Goat Horns. Exact quantities!"
+    },
+    Summary = "Run the Errand"
+  },
+  [14300] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "The person you're looking for is on the 2nd floor. They probably just woke up, so go check."
+    },
+    Summary = "Go to the 2nd Floor"
+  },
+  [14301] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "We finally found the culprit, but they're in bad shape. They canÔÇÖt move until the transport cart arrives, so report back to the Clan Master first."
+    },
+    Summary = "Report to the Master"
+  },
+  [14302] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Mr. Jade seems suspicious. We need to revisit his house and investigate secretly... Go."
+    },
+    Summary = "Reinvestigate Jade's House"
+  },
+  [14303] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Mr. Jade is busy with paperwork. Take this chance to investigate. That suspicious person in Al De Baran said he fed the animals something strange. Look for the feed bin first."
+    },
+    Summary = "Investigate Surroundings"
+  },
+  [14304] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "I found suspicious documents in a feed bin near the pen. Say goodbye to Mr. Jade and report to the Clan Master."
+    },
+    Summary = "Report to Master"
+  },
+  [14305] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "This document seems to contain a recipe for a drug mixed into the feed... ThereÔÇÖs an expert in Juno, so show it to her? Her name is Aidiya. I heard sheÔÇÖs at some school."
+    },
+    Summary = "To Juno"
+  },
+  [14306] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "To identify what was fed to the animals, we need samples. WeÔÇÖre short on materials to make samples. Gather these from the document: 20 Poison Fangs, 20 Poison Powders, 80 Mycelia, 3 Ments, 1 Bitter Grass."
+    },
+    Summary = "Experiment Materials"
+  },
+  [14307] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "To identify what was fed to the animals, we need samples. WeÔÇÖre short on materials to make samples. Gather these from the document: 20 Poison Fangs, 20 Poison Powders, 50 Sharp Leaves, 80 Mycelia, 3 Ments, 1 Bitter Grass, and 1 Dark Rune."
+    },
+    Summary = "Experiment Materials"
+  },
+  [14308] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "The drug mixed in the feed made animals behave abnormally. Report to the Clan Master."
+    },
+    Summary = "Report to Master"
+  },
+  [14309] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "We need to hear why Mr. Jade fed them this drug. Deliver a summons to Mr. Jade."
+    },
+    Summary = "Deliver Summons"
+  },
+  [14310] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Now that Mr. Jade has been summoned, go back to Al De Baran and bring the thief."
+    },
+    Summary = "To Al De Baran"
+  },
+  [14311] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "The culprit disappeared while I was briefly away. Report to the Master."
+    },
+    Summary = "Report to Master"
+  },
+  [14312] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "We must eliminate remnants of the 'Rune-Midgard Liberation Front' hiding in Izlude to stop their plans!!"
+    },
+    Summary = "Eliminate Remnants"
+  },
+  [14313] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "All remnants of the 'Rune-Midgard Liberation Front' have been eliminated. Return and report to the Sword Clan Master."
+    },
+    Summary = "Report to Master"
+  },
+  [14314] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Zoologists need Novus for vaccine research. Capture about 70. Also defeat 30 Enraged Anacondaqs and 100 Gallions."
+    },
+    Summary = "Capture Novus"
+  },
+  [14315] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Zoologists need Tatacho for vaccine research. Capture about 70. Also defeat 150 Infected Dark Pinguicula."
+    },
+    Summary = "Capture Tatacho"
+  },
+  [14316] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "IÔÇÖm exhausted after finishing the request. Need to rest for about a week."
+    },
+    Summary = "Resets after 7 days at 04:00",
+    CoolTimeQuest = 1
+  },
+  [14317] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Deliver the small box to Mr. Otto at Hugel Inn, the light box to Mr. Slider behind the hotel in Einbroch, and the documents to Pocket B in Abyss Valley. Start with nearby Abyss Valley. Fighting!"
+    },
+    Summary = "Simple Delivery"
+  },
+  [14318] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Consider this a request and bring me: 35 Tubes, 77 Rusty Screws, 20 Harpy Claws, 1 Steel. Hurry. IÔÇÖm in a rush. Seriously."
+    },
+    Summary = "Simple Errand"
+  },
+  [14319] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Deliver this box to Pocket A in Einbroch. Handle the box carefully."
+    },
+    Summary = "Additional Delivery"
+  },
+  [14320] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "I received the two boxes, but parts are missing. Gather: 1 Dewy Moss, 3 Fluorescent Liquids, 35 Toxic Gases, 20 Rusty Screws. Can you do it?"
+    },
+    Summary = "Missing Parts"
+  },
+  [14321] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Deliver this box to Mr. Link in Lighthalzen. He works in a place full of chemicals. Be careful not to shake it."
+    },
+    Summary = "To Lighthalzen"
+  },
+  [14322] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Ah, the person who assembled this mustÔÇÖve been in a hurry. Many parts are missing. Bring me: 99 Mycelia, 1 WitchÔÇÖs Star Sand, 2 Oridecon Hammers."
+    },
+    Summary = "Missing Parts"
+  },
+  [14323] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Ah, many parts are missing. Bring me: 99 Mycelia, 1 WitchÔÇÖs Star Sand, 2 Oridecon Hammers, 33 Old Iron Plates. A lot, right?"
+    },
+    Summary = "Missing Parts"
+  },
+  [14324] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Could you deliver this box to Mr. Otto in Hugel? IÔÇÖd go myself, but... I heard heÔÇÖs at the inn lately."
+    },
+    Summary = "To Hugel"
+  },
+  [14325] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Mr. Otto in Hugel suddenly attacked me but failed and fled. Return and report to the Clan Master."
+    },
+    Summary = "Report to Master"
+  },
+  [14326] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Go to Izlude and eliminate remnants of the 'Rune-Midgard Liberation Front'! We must stop their plans!"
+    },
+    Summary = "Eliminate Remnants"
+  },
+  [14327] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "All remnants of the 'Rune-Midgard Liberation Front' are eliminated. Report back to the Crossbow Clan Master."
+    },
+    Summary = "Report to Master"
+  },
+  [14328] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "I heard the manuscript was stuffed inside a teddy bear. Recover all 111 pages of the manuscript written in Pus."
+    },
+    Summary = "Recover Manuscript"
+  },
+  [14329] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "I heard the lost manuscript was taken by Blue Lichtens in a tower in another dimension. Recover all 111 pages of the manuscript written in Pus."
+    },
+    Summary = "Recover Manuscript"
+  },
+  [14330] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Reports say Prontera's walls were recently damaged. Start inspecting the closer southern section first. The Head Stonemason requested this, so inspect thoroughly and report."
+    },
+    Summary = "Inspect Walls"
+  },
+  [14331] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Found a damaged spot. Investigate other areas."
+    },
+    Summary = "Inspect Walls"
+  },
+  [14332] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Found a damaged spot. Now inspect the eastern walls."
+    },
+    Summary = "Inspect Walls"
+  },
+  [14333] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Found a damaged spot. Investigate other areas."
+    },
+    Summary = "Inspect Walls"
+  },
+  [14334] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Found a damaged spot. Now inspect the western walls."
+    },
+    Summary = "Inspect Walls"
+  },
+  [14335] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Found a damaged spot. Investigate other areas."
+    },
+    Summary = "Inspect Walls"
+  },
+  [14336] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "All damaged spots found. Return and report to the Master."
+    },
+    Summary = "Report to Master"
+  },
+  [14337] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Explain the wall damage to the Head Stonemason. If he needs help, assist as much as possible."
+    },
+    Summary = "To Head Stonemason"
+  },
+  [14338] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "We might need to repair the walls, so gather stones: 99 Stone Hearts, 1 Shiny Stone, 99 Stones, 3 Diamonds (3 carats)."
+    },
+    Summary = "Needed Stones"
+  },
+  [14339] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "We might need to repair the walls, so gather stones: 99 Stone Hearts, 1 Shiny Stone, 99 Stones, 3 Diamonds (3 carats), 50 Stone Fragments."
+    },
+    Summary = "Needed Stones"
+  },
+  [14340] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "ThereÔÇÖs a chemist in Al De Baran who handles potions well. Go get some neutralizer."
+    },
+    Summary = "To Al De Baran"
+  },
+  [14341] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Gather neutralizer ingredients: 1 Empty Potion Bottle, 123 Sticky Liquids, 5 Frame Hearts. Hurry, please? The Head Stonemason might throw meÔÇöwait, no."
+    },
+    Summary = "Neutralizer Ingredients"
+  },
+  [14342] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Gather neutralizer ingredients: 1 Empty Potion Bottle, 123 Sticky Liquids, 5 Frame Hearts, 3 Dark Runes, 13 Darkness Spores. Hurry, please? The Head Stonemason might throw meÔÇöwait, no."
+    },
+    Summary = "Neutralizer Ingredients"
+  },
+  [14343] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Deliver this super-strong neutralizer to the Head Stonemason. HeÔÇÖll know how to use it."
+    },
+    Summary = "To Head Stonemason"
+  },
+  [14344] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "To track the culprit, we need two more things: 1 Alcohol and 3 Cursed Rubies. DonÔÇÖt ask, just bring them."
+    },
+    Summary = "Additional Materials"
+  },
+  [14345] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Spray this super-strong neutralizer on the damaged spots. Reactions will occurÔÇöuse that to track and capture the culprit."
+    },
+    Summary = "Spray Neutralizer"
+  },
+  [14346] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "After spraying, something appeared in the smoke. Spray other areas."
+    },
+    Summary = "Spray Neutralizer"
+  },
+  [14347] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "After spraying, something appeared in the smoke. Spray other areas."
+    },
+    Summary = "Spray Neutralizer"
+  },
+  [14348] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "After spraying, something appeared in the smoke. Spray other areas."
+    },
+    Summary = "Spray Neutralizer"
+  },
+  [14349] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "After spraying, something appeared in the smoke. Spray other areas."
+    },
+    Summary = "Spray Neutralizer"
+  },
+  [14350] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "After spraying, something appeared in the smoke. Spray other areas."
+    },
+    Summary = "Spray Neutralizer"
+  },
+  [14351] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "The culprit seems linked to Sundar Mandar. Investigate there."
+    },
+    Summary = "To Sundar Mandar"
+  },
+  [14352] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "I saw suspicious people heading toward Pharos Lighthouse recently. Try looking there."
+    },
+    Summary = "To Pharos Lighthouse"
+  },
+  [14353] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Kim might know something? That woman knows everything about people here. Head south down there."
+    },
+    Summary = "Find Kim"
+  },
+  [14354] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Strange? I never heard about guards being stationed in Sundar Mandar recently. That guard is suspicious! Meet them again. I think they might be the culprit...?"
+    },
+    Summary = "Back to the Guard"
+  },
+  [14355] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "The suspicious person fled. Report the situation to the Clan Master."
+    },
+    Summary = "Report to Master"
+  },
+  [14356] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Eliminate remnants of the 'Rune-Midgard Liberation Front' hiding in Izlude to stop their plans!"
+    },
+    Summary = "To Izlude"
+  },
+  [14357] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "All remnants of the 'Rune-Midgard Liberation Front' are eliminated. Report to the Arc Wand Clan Master."
+    },
+    Summary = "Report to Master"
+  },
+  [14358] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "The Head Stonemason requested stones for wall repairs: 100 Stone Hearts, 3 Diamonds (1 carat), 133 Very Hard Stones. Very Hard Stones drop from Stalactic Golems. Ensure exact quantities."
+    },
+    Summary = "Collect Stones"
+  },
+  [14359] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "The Head Stonemason requested stones for wall repairs: 150 Stone Hearts, 3 Diamonds (1 carat), 133 Very Hard Stones. Very Hard Stones drop from Bradium Golems. Ensure exact quantities."
+    },
+    Summary = "Collect Stones"
+  },
+  [14360] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "A house in Morroc reportedly has ghosts. Investigate and resolve it."
+    },
+    Summary = "To Morroc"
+  },
+  [14361] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "I investigated the haunted house in Morroc but found nothing conclusive. Report back to the Master."
+    },
+    Summary = "Report to Master"
+  },
+  [14362] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Investigate thoroughly in the Land of the Dead. On the way, stop in Comodo to meet a grandchild who missed their grandfatherÔÇÖs last words and fulfill their request."
+    },
+    Summary = "To Comodo"
+  },
+  [14363] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Go to the Land of the Dead, meet my grandfather, hear the rest of his last words, and return. ItÔÇÖs urgent, please hurry."
+    },
+    Summary = "Grandfather's Last Words"
+  },
+  [14364] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "I buried my inheritance in seven spots on ComodoÔÇÖs beach. Dig them up and deliver them to the kind flower shop girl in Morroc."
+    },
+    Summary = "Deliver Inheritance"
+  },
+  [14365] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Dug up a Red Gem. Dig elsewhere."
+    },
+    Summary = "Obtain Treasure"
+  },
+  [14366] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Dug up a Scarlet Gem. Dig elsewhere."
+    },
+    Summary = "Obtain Treasure"
+  },
+  [14367] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Dug up a Yellow Gem. Dig elsewhere."
+    },
+    Summary = "Obtain Treasure"
+  },
+  [14368] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Dug up a Green Gem. Dig elsewhere."
+    },
+    Summary = "Obtain Treasure"
+  },
+  [14369] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Dug up a Transparent Gem. Dig elsewhere."
+    },
+    Summary = "Obtain Treasure"
+  },
+  [14370] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Dug up a Blue Gem. Dig elsewhere."
+    },
+    Summary = "Obtain Treasure"
+  },
+  [14371] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Dug up a Purple Gem. Deliver all seven gems to the girl in Morroc. Since I donÔÇÖt know who she is, return to Morroc and ask around. Who could it be?"
+    },
+    Summary = "To Morroc"
+  },
+  [14372] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "I want to make a bouquet for Grandpa Edward as thanks. I need 3 Everlasting Roses, 1 Singing Flower, 1 Illusion Flower, 1 Yggdrasil Seed, and 15 Soft Grass Blades to make it beautiful."
+    },
+    Summary = "Bouquet Materials"
+  },
   [14373] = {
     Title = "Finding sculptor",
     Description = {
@@ -36291,6 +36873,97 @@ QuestInfoList = {
     },
     Summary = "Bring Chocoins to Bitta in Einbroch"
   },
+  [14405] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Deliver this bouquet to Grandpa Edward."
+    },
+    Summary = "To Land of the Dead"
+  },
+  [14406] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "There was a big commotion at the graveyard recently. Strange groans were heard afterward. Investigate there for clues."
+    },
+    Summary = "To the Graveyard"
+  },
+  [14407] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Find someone who can break this binding curse on me. I vaguely heard \"Lutie\" mentioned, but IÔÇÖm not sure. Someone here must know where! Find them quickly! Hurry!"
+    },
+    Summary = "Find the Shaman"
+  },
+  [14408] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Breaking the curse requires a sacrifice. Bring Holy Water x14, Cursed Ruby x3, Old Magic Circle x13, and an Ice Heart. Just bring them."
+    },
+    Summary = "Sacrifice Needed"
+  },
+  [14409] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Breaking the curse requires a sacrifice. Bring Holy Water x14, Cursed Ruby x3, Old Magic Circle x13, Rusty Kitchen Knife x1, and a Burning Heart. Just bring them."
+    },
+    Summary = "Sacrifice Needed"
+  },
+  [14410] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "The curse is broken. Fulfill your wish."
+    },
+    Summary = "Curse Broken"
+  },
+  [14411] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "The curse on the summoner is broken, but summoned ghosts canÔÇÖt be undone. Return to Lily in Morroc and explain."
+    },
+    Summary = "To Morroc"
+  },
+  [14412] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "GaronÔÇÖs friend is suspicious. Meet and investigate them."
+    },
+    Summary = "To Comodo"
+  },
+  [14413] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Report to the Master about what you heard in the Land of the Dead and GaronÔÇÖs escaped friend."
+    },
+    Summary = "Report to Master"
+  },
+  [14414] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "Eliminate remnants of the 'Rune-Midgard Liberation Front' hiding in Izlude to stop their plans!"
+    },
+    Summary = "Eliminate Remnants"
+  },
+  [14415] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "All remnants of the 'Rune-Midgard Liberation Front' are eliminated. Report to the Golden Mace Clan Master."
+    },
+    Summary = "Report to Master"
+  },
+  [14416] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "For research on how the dead are summoned, capture Roods. About 70 should suffice. Also, defeat 50 Wrath Injustices."
+    },
+    Summary = "Capture Monsters"
+  },
+  [14417] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "For research on how the dead are summoned, capture Wandering Ones. About 30 should suffice. Also, defeat 50 Quick Rori Roris."
+    },
+    Summary = "Capture Monsters"
+  },
   [14450] = {
     Title = "",
     Description = {""},
@@ -36370,6 +37043,30 @@ QuestInfoList = {
     Title = "",
     Description = {""},
     Summary = ""
+  },
+  [14466] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "IÔÇÖm exhausted after finishing the request. Need to rest for about a week."
+    },
+    Summary = "Resets after 7 days at 04:00",
+    CoolTimeQuest = 1
+  },
+  [14467] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "IÔÇÖm exhausted after finishing the request. Need to rest for about a week."
+    },
+    Summary = "Resets after 7 days at 04:00",
+    CoolTimeQuest = 1
+  },
+  [14468] = {
+    Title = "The Remnants' Hideout",
+    Description = {
+      "IÔÇÖm exhausted after finishing the request. Need to rest for about a week."
+    },
+    Summary = "Resets after 7 days at 04:00",
+    CoolTimeQuest = 1
   },
   [14469] = {
     Title = "Look around the Walther Family",
@@ -39066,124 +39763,155 @@ QuestInfoList = {
     },
     Summary = "Return to Engel after the timer has expired."
   },
-  [16101] = {
-    Title = "Kiel Hyre Academy",
+  [16096] = {
+    Title = "Illusion of Abyss (Turtle Island)",
     Description = {
-      "Bring the bottle of Culinary Wine to Lecollane in the Kiel Hyre Academy south east of here."
+      "While talking to Eilvar, you arrived at an unknown place. Talk to the girl in front of you."
     },
-    Summary = ""
+    Summary = "Talk to the Girl"
+  },
+  [16097] = {
+    Title = "Illusion of Abyss (Turtle Island)",
+    Description = {
+      "The girl pointed out some places. Let's find Archaeologist Leiphen's tracks in the village of the good turtles."
+    },
+    Summary = "Impatient Man"
+  },
+  [16098] = {
+    Title = "Illusion of Abyss (Turtle Island)",
+    Description = {
+      "The girl pointed out some places. Let's find Archaeologist Leiphen's tracks in the village of the good turtles."
+    },
+    Summary = "Brave Soldier"
+  },
+  [16099] = {
+    Title = "Illusion of Abyss (Turtle Island)",
+    Description = {
+      "The girl pointed out some places. Let's find Archaeologist Leiphen's remains at the Turtle Palace."
+    },
+    Summary = "Weakened girl"
+  },
+  [16100] = {
+    Title = "Illusion of Abyss (Turtle Island)",
+    Description = {
+      "There's one more place to look. Let's find Archaeologist Leiphen's remains at the Turtle Palace."
+    },
+    Summary = "Find Leiphen"
+  },
+  [16101] = {
+    Title = "Illusion of Abyss (Turtle Island)",
+    Description = {
+      "Eliminate 10 of each turtle: Ominous Beaters and Solidifiers and deliver 10 Spoiled Meats to Leiphen."
+    },
+    Summary = "10 Carnes Estragadas"
   },
   [16102] = {
-    Title = "Kiel Hyre Academy",
+    Title = "Illusion of Abyss (Turtle Island)",
     Description = {
-      "Elly might need some help. Talk to her."
+      "Eliminate 10 of each turtle: Ominous Heaters and Freezers for Leiphen."
     },
-    Summary = ""
+    Summary = "Go back to Leiphen"
   },
   [16103] = {
-    Title = "Kiel Hyre Academy",
+    Title = "Illusion of Abyss (Turtle Island)",
     Description = {
-      "Find the ingredients for Elly's cookies. You can get Wine from a pub in Juno, Cacaos from Yoyos, and flour and eggs from the Toast Stand in Juno."
+      "Let's talk to the villagers here, as requested by Leiphen."
     },
-    Summary = ""
+    Summary = "Weakened girl"
   },
   [16104] = {
-    Title = "Kiel Hyre Academy",
+    Title = "Illusion of Abyss (Turtle Island)",
     Description = {
-      "Go to the Windmill Owner in the Lighthalzen slums to get flour and eggs for Cezu."
+      "Let's run to the girl at the entrance to the Good Turtle Village."
     },
-    Summary = ""
+    Summary = "Talk to the Girl"
   },
   [16105] = {
-    Title = "Kiel Hyre Academy",
+    Title = "Promise",
     Description = {
-      "Bring the Delivery Package back to Cezu in Juno."
+      "You made a promise to Nalin. Come back tomorrow to the Turtle Illusion to fulfill your promise."
     },
-    Summary = ""
+    Summary = "Come back tomorrow"
   },
   [16106] = {
-    Title = "Kiel Hyre Academy",
+    Title = "I won't Forget!",
     Description = {
-      "Bring the Delivery Package to Elly at the Kiel Hyre Academy."
+      "Let's go to the Turtle Palace to find Archaeologist Leiphen to revive the girl's memory."
     },
-    Summary = ""
+    Summary = "Talk to Ierpen in the Guyanggung"
   },
   [16107] = {
-    Title = "Kiel Hyre Academy",
+    Title = "I won't Forget!",
     Description = {
-      "Wait for Elly to finish baking the cookies."
+      "Let's go back to the girl together with Archaeologist Leiphen."
     },
-    Summary = ""
+    Summary = "Talk to the Girl"
   },
   [16108] = {
-    Title = "Kiel Hyre Academy",
+    Title = "I won't Forget!",
     Description = {
-      "Bring the Well-baked cookies to Elly's Grandfather at Kiel Hyre's cottage one map north of the Academy."
+      "This quest is a daily quest, and you can receive it again when the cooldown timer expires."
     },
-    Summary = ""
+    Summary = "Come back tomorrow"
   },
   [16109] = {
-    Title = "Kiel Hyre Academy",
+    Title = "Obsessive Spirit",
     Description = {
-      "Go back to Elly and tell her that her Grandfather is not at the cottage."
+      "Let's hunt 10 Ominous Assaulters and deliver 5 Corroded Metals."
     },
-    Summary = ""
+    Summary = "5 Corroded Metals"
   },
   [16110] = {
-    Title = "Kiel Hyre Academy",
+    Title = "[Wait] Obsessive Spirit",
     Description = {
-      "Go back to Kiel Hyre's cottage again. Elly gave you a Cottage Key that should allow you to get through a side door."
+      "This quest is a daily quest, and you can receive it again when the cooldown timer expires."
     },
-    Summary = ""
+    Summary = "Come back tomorrow"
   },
   [16111] = {
-    Title = "Kiel Hyre Academy",
+    Title = "Eternal Hunger",
     Description = {
-      "You find a folded note that says '6 Forward, 3 Left, 3 Forward, 4 Left.'"
+      "Eliminate 10 of each turtle: Ominous Beaters and Solidifiers and deliver 10 Spoiled Meat to the weakened Lady."
     },
-    Summary = ""
+    Summary = "10 Spoiled Meat"
   },
   [16112] = {
-    Title = "Kiel Hyre Academy",
+    Title = "Eternal Hunger",
     Description = {
-      "You found a letter address to Elly. You had better bring it back to her."
+      "Eliminate 10 of each turtle: Ominous Heaters and Freezers for the weakened Girl."
     },
-    Summary = ""
+    Summary = "Weakened girl"
   },
   [16113] = {
-    Title = "Kiel Hyre Academy",
+    Title = "[Wait] Eternal Hunger",
     Description = {
-      "Continue your conversation with Elly."
+      "This quest is a daily quest, and you can receive it again when the cooldown timer expires."
     },
-    Summary = ""
+    Summary = "Come back tomorrow"
   },
   [16114] = {
-    Title = "Kiel Hyre Academy",
-    Description = {
-      "Search the cottage's study for signs that Elly's grandfather may have left for her. Go to the dormitory behind the Kiel Hyre Academy when you find something in the cottage."
-    },
-    Summary = ""
+    Title = "Illusion of Abyss (Turtle Island)",
+    Description = {""},
+    Summary = "Talk to Eilvar"
   },
   [16115] = {
-    Title = "Kiel Hyre Academy",
-    Description = {
-      "You found a blank piece of paper with the Kiel Hyre Foundation Seal on it. It's strange that there would be a seal on a blank paper..."
-    },
-    Summary = ""
+    Title = "Illusion of Abyss (Turtle Island)",
+    Description = {""},
+    Summary = "Talk to the Girl"
   },
   [16116] = {
-    Title = "Kiel Hyre Academy",
+    Title = "Illusion of Abyss (Turtle Island)",
     Description = {
-      "You have found a strange poem by using the blue ink on the blank paper written by the ^0000fflittle lost devil^000000. What could it possibly mean?"
+      "Talk to the girl in the middle of the lonely good turtle village again."
     },
-    Summary = ""
+    Summary = "Talk to the Girl"
   },
   [16117] = {
-    Title = "Mysterious World Map",
+    Title = "Illusion of Abyss (Turtle Island)",
     Description = {
-      "Find something to help loosen the map from the wall."
+      "Talk to the girl in the middle of the lonely good turtle village again."
     },
-    Summary = ""
+    Summary = "Talk to the Girl"
   },
   [16118] = {
     Title = "Hidden poem",
@@ -42376,6 +43104,71 @@ Talk to Kar=],
     },
     Summary = "Chipol"
   },
+  [17320] = {
+    Title = "Noodle Festival",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Find the <NAVI>[Fisherman]<INFO>malangdo,209,110,0,101,0,</INFO></NAVI>."
+    },
+    Summary = "Talk to the Fisherman"
+  },
+  [17321] = {
+    Title = "Noodle Festival",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "The fisherman asked you to meet <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>."
+    },
+    Summary = "Talk to Nike"
+  },
+  [17322] = {
+    Title = "Noodle Festival",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Let's report the situation to the <NAVI>[Festival Director]<INFO>malangdo,140,164,0,101,0,</INFO></NAVI>."
+    },
+    Summary = "Talk to the Director"
+  },
+  [17323] = {
+    Title = "Noodle Festival",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Bring 1x Fish Tail, 1x Squid Ink, 1x Smooth Noodles and 1x Pig Potato. - <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>"
+    },
+    Summary = "Collect the items"
+  },
+  [17324] = {
+    Title = "Noodle Festival",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Traveler, please deliver this pasta <NAVI>[at this location]<INFO>malangdo,168,219,101,0,</INFO></NAVI>."
+    },
+    Summary = "Talk to Po"
+  },
+  [17325] = {
+    Title = "Noodle Festival",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Now that we're done, let's go back to talk to <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>."
+    },
+    Summary = "Talk to Nike"
+  },
+  [17326] = {
+    Title = "Chef's Kiss",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Bring 1x Fish Tail, 5x Squid Ink, 5x Smooth Noodles and 5x Pig Potato. - <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>"
+    },
+    Summary = "Collect the items"
+  },
+  [17327] = {
+    Title = "[Wait] Chef's Kiss",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "You've helped enough for today! Please come back with the same altruistic energy tomorrow! - <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>"
+    },
+    Summary = "Come back tomorrow.",
+    CoolTimeQuest = 1
+  },
   [17328] = {
     Title = "Coupon: Noodle Event Completed",
     Description = {
@@ -42396,6 +43189,14 @@ Talk to Kar=],
       "You caught all the bad noodles. If you have completed all 4 events of the day, go to <NAVI>[Coupon Reception]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI> and stamp the coupon."
     },
     Summary = "Helper Domi done"
+  },
+  [17331] = {
+    Title = "Noodle Festival",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "If you've completed all of today's activities, find the <NAVI>[Festival Organizer]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI>."
+    },
+    Summary = "To the Organizer"
   },
   [17332] = {
     Title = "Coupon: Hat Exchange",
@@ -68363,155 +69164,5 @@ Talk to Kar=],
     NpcNavi = "geffen",
     NpcPosX = 40,
     NpcPosY = 141
-  },
-  [16096] = {
-    Title = "Illusion of Abyss (Turtle Island)",
-    Description = {
-      "While talking to Eilvar, you arrived at an unknown place. Talk to the girl in front of you."
-    },
-    Summary = "Talk to the Girl"
-  },
-  [16097] = {
-    Title = "Illusion of Abyss (Turtle Island)",
-    Description = {
-      "The girl pointed out some places. Let's find Archaeologist Leiphen's tracks in the village of the good turtles."
-    },
-    Summary = "Impatient Man"
-  },
-  [16098] = {
-    Title = "Illusion of Abyss (Turtle Island)",
-    Description = {
-      "The girl pointed out some places. Let's find Archaeologist Leiphen's tracks in the village of the good turtles."
-    },
-    Summary = "Brave Soldier"
-  },
-  [16099] = {
-    Title = "Illusion of Abyss (Turtle Island)",
-    Description = {
-      "The girl pointed out some places. Let's find Archaeologist Leiphen's remains at the Turtle Palace."
-    },
-    Summary = "Weakened girl"
-  },
-  [16100] = {
-    Title = "Illusion of Abyss (Turtle Island)",
-    Description = {
-      "There's one more place to look. Let's find Archaeologist Leiphen's remains at the Turtle Palace."
-    },
-    Summary = "Find Leiphen"
-  },
-  [16101] = {
-    Title = "Illusion of Abyss (Turtle Island)",
-    Description = {
-      "Eliminate 10 of each turtle: Ominous Beaters and Solidifiers and deliver 10 Spoiled Meats to Leiphen."
-    },
-    Summary = "10 Carnes Estragadas"
-  },
-  [16102] = {
-    Title = "Illusion of Abyss (Turtle Island)",
-    Description = {
-      "Eliminate 10 of each turtle: Ominous Heaters and Freezers for Leiphen."
-    },
-    Summary = "Go back to Leiphen"
-  },
-  [16103] = {
-    Title = "Illusion of Abyss (Turtle Island)",
-    Description = {
-      "Let's talk to the villagers here, as requested by Leiphen."
-    },
-    Summary = "Weakened girl"
-  },
-  [16104] = {
-    Title = "Illusion of Abyss (Turtle Island)",
-    Description = {
-      "Let's run to the girl at the entrance to the Good Turtle Village."
-    },
-    Summary = "Talk to the Girl"
-  },
-  [16105] = {
-    Title = "Promise",
-    Description = {
-      "You made a promise to Nalin. Come back tomorrow to the Turtle Illusion to fulfill your promise."
-    },
-    Summary = "Come back tomorrow"
-  },
-  [16106] = {
-    Title = "I won't Forget!",
-    Description = {
-      "Let's go to the Turtle Palace to find Archaeologist Leiphen to revive the girl's memory."
-    },
-    Summary = "Talk to Ierpen in the Guyanggung"
-  },
-  [16107] = {
-    Title = "I won't Forget!",
-    Description = {
-      "Let's go back to the girl together with Archaeologist Leiphen."
-    },
-    Summary = "Talk to the Girl"
-  },
-  [16108] = {
-    Title = "I won't Forget!",
-    Description = {
-      "This quest is a daily quest, and you can receive it again when the cooldown timer expires."
-    },
-    Summary = "Come back tomorrow"
-  },
-  [16109] = {
-    Title = "Obsessive Spirit",
-    Description = {
-      "Let's hunt 10 Ominous Assaulters and deliver 5 Corroded Metals."
-    },
-    Summary = "5 Corroded Metals"
-  },
-  [16110] = {
-    Title = "[Wait] Obsessive Spirit",
-    Description = {
-      "This quest is a daily quest, and you can receive it again when the cooldown timer expires."
-    },
-    Summary = "Come back tomorrow"
-  },
-  [16111] = {
-    Title = "Eternal Hunger",
-    Description = {
-      "Eliminate 10 of each turtle: Ominous Beaters and Solidifiers and deliver 10 Spoiled Meat to the weakened Lady."
-    },
-    Summary = "10 Spoiled Meat"
-  },
-  [16112] = {
-    Title = "Eternal Hunger",
-    Description = {
-      "Eliminate 10 of each turtle: Ominous Heaters and Freezers for the weakened Girl."
-    },
-    Summary = "Weakened girl"
-  },
-  [16113] = {
-    Title = "[Wait] Eternal Hunger",
-    Description = {
-      "This quest is a daily quest, and you can receive it again when the cooldown timer expires."
-    },
-    Summary = "Come back tomorrow"
-  },
-  [16114] = {
-    Title = "Illusion of Abyss (Turtle Island)",
-    Description = {""},
-    Summary = "Talk to Eilvar"
-  },
-  [16115] = {
-    Title = "Illusion of Abyss (Turtle Island)",
-    Description = {""},
-    Summary = "Talk to the Girl"
-  },
-  [16116] = {
-    Title = "Illusion of Abyss (Turtle Island)",
-    Description = {
-      "Talk to the girl in the middle of the lonely good turtle village again."
-    },
-    Summary = "Talk to the Girl"
-  },
-  [16117] = {
-    Title = "Illusion of Abyss (Turtle Island)",
-    Description = {
-      "Talk to the girl in the middle of the lonely good turtle village again."
-    },
-    Summary = "Talk to the Girl"
   }
 }

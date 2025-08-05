@@ -11735,7 +11735,7 @@ tbl = {
     {
       id = 14587,
       prob = 1,
-      name = "Weapon Repair Question 5",
+      name = "Weapon Repair Scroll 5",
       group = 0
     },
     {
@@ -12945,7 +12945,7 @@ tbl = {
     {
       id = 14587,
       prob = 1,
-      name = "Weapon Repair Question 10",
+      name = "Weapon Repair Scroll 10",
       group = 0
     },
     {
@@ -18588,6 +18588,14 @@ tbl = {
       id = 12663,
       prob = 1,
       name = "Transformation Scroll (Poring)",
+      group = 0
+    }
+  },
+  [17042] = {
+    {
+      id = 12663,
+      prob = 0,
+      name = "Transformation Scroll (Poring) 10",
       group = 0
     }
   },
@@ -26277,6 +26285,254 @@ tbl = {
       group = 0
     }
   },
+  [23234] = {
+    {
+      id = 25274,
+      prob = 1,
+      name = "Racing Ticket",
+      group = 0
+    },
+    {
+      id = 6870,
+      prob = 2,
+      name = "Weapon Scroll +13",
+      group = 1
+    },
+    {
+      id = 6876,
+      prob = 2,
+      name = "Armor Scroll +13",
+      group = 1
+    },
+    {
+      id = 6584,
+      prob = 4,
+      name = "Weapon Scroll +12",
+      group = 1
+    },
+    {
+      id = 6585,
+      prob = 4,
+      name = "Armor Scroll +12",
+      group = 1
+    },
+    {
+      id = 6443,
+      prob = 8,
+      name = "Silit Pong Bottle",
+      group = 1
+    },
+    {
+      id = 6993,
+      prob = 10,
+      name = "Weapon Scroll +10",
+      group = 1
+    },
+    {
+      id = 6994,
+      prob = 10,
+      name = "Armor Scroll +10",
+      group = 1
+    },
+    {
+      id = 23229,
+      prob = 25,
+      name = "Unknown Item",
+      group = 1
+    },
+    {
+      id = 22996,
+      prob = 25,
+      name = "[Event] Neuralizer",
+      group = 1
+    },
+    {
+      id = 6228,
+      prob = 25,
+      name = "Safe to 9 Weapon Certificate",
+      group = 1
+    },
+    {
+      id = 6232,
+      prob = 25,
+      name = "Safe to 9 Armor Certificate",
+      group = 1
+    },
+    {
+      id = 6423,
+      prob = 40,
+      name = "Seagod's Anger 10",
+      group = 1
+    },
+    {
+      id = 6229,
+      prob = 50,
+      name = "Safe to 8 Weapon Certificate",
+      group = 1
+    },
+    {
+      id = 6233,
+      prob = 50,
+      name = "Safe to 8 Armor Certificate",
+      group = 1
+    },
+    {
+      id = 6230,
+      prob = 100,
+      name = "Safe to 7 Weapon Certificate",
+      group = 1
+    },
+    {
+      id = 6234,
+      prob = 100,
+      name = "Safe to 7 Armor Certificate",
+      group = 1
+    },
+    {
+      id = 616,
+      prob = 100,
+      name = "Old Card Album",
+      group = 1
+    },
+    {
+      id = 2345,
+      prob = 100,
+      name = "Lucius's Fierce Armor of Volcano [1]",
+      group = 1
+    },
+    {
+      id = 2349,
+      prob = 100,
+      name = "Aebecee's Raging Typhoon Armor [1]",
+      group = 1
+    },
+    {
+      id = 2347,
+      prob = 100,
+      name = "Saphien's Armor of Ocean [1]",
+      group = 1
+    },
+    {
+      id = 2351,
+      prob = 100,
+      name = "Claytos Cracking Earth Armor [1]",
+      group = 1
+    },
+    {
+      id = 12105,
+      prob = 310,
+      name = "Taming Gift Set 2",
+      group = 1
+    },
+    {
+      id = 12623,
+      prob = 310,
+      name = "High Weapon Box",
+      group = 1
+    },
+    {
+      id = 12515,
+      prob = 750,
+      name = "[Event] Medium Life Potion 5",
+      group = 1
+    },
+    {
+      id = 12516,
+      prob = 750,
+      name = "[Event] Minor Life Potion 10",
+      group = 1
+    },
+    {
+      id = 12263,
+      prob = 750,
+      name = "[Event] Combat Manual",
+      group = 1
+    },
+    {
+      id = 12264,
+      prob = 750,
+      name = "[Event] Bubble Gum",
+      group = 1
+    },
+    {
+      id = 603,
+      prob = 1000,
+      name = "Old Blue Box 10",
+      group = 1
+    },
+    {
+      id = 11572,
+      prob = 1000,
+      name = "[Event] Blue Potion 30",
+      group = 1
+    },
+    {
+      id = 617,
+      prob = 1000,
+      name = "Old Purple Box 5",
+      group = 1
+    },
+    {
+      id = 12550,
+      prob = 1000,
+      name = "Poison Bottle 30 Box",
+      group = 1
+    },
+    {
+      id = 22543,
+      prob = 10000,
+      name = "[Event]Berserk Potion 3",
+      group = 1
+    },
+    {
+      id = 22544,
+      prob = 10000,
+      name = "[Event] Awakening Potion 3",
+      group = 1
+    },
+    {
+      id = 22542,
+      prob = 10000,
+      name = "[Event] Concentration Potion 3",
+      group = 1
+    },
+    {
+      id = 11573,
+      prob = 10000,
+      name = "[Event] White Slim Potion 10",
+      group = 1
+    },
+    {
+      id = 11574,
+      prob = 10000,
+      name = "[Event] Yellow Slim Potion 10",
+      group = 1
+    },
+    {
+      id = 11568,
+      prob = 10000,
+      name = "[Event] Red Slim Potion 10",
+      group = 1
+    },
+    {
+      id = 11565,
+      prob = 10000,
+      name = "[Event] White Potion 3",
+      group = 1
+    },
+    {
+      id = 11566,
+      prob = 10600,
+      name = "[Event] Yellow Potion 3",
+      group = 1
+    },
+    {
+      id = 11570,
+      prob = 10800,
+      name = "[Event] Red Potion 3",
+      group = 1
+    }
+  },
   [23276] = {
     {
       id = 23898,
@@ -27511,7 +27767,7 @@ tbl = {
     {
       id = 23548,
       prob = 3000,
-      name = "Ice cream 3",
+      name = "Snow Candy 3",
       group = 1
     },
     {
@@ -29563,7 +29819,7 @@ tbl = {
     {
       id = 15174,
       prob = 100,
-      name = "Roupa de Borracha [1]",
+      name = "Surfer Swimsuit [1]",
       group = 6
     },
     {
@@ -29581,7 +29837,7 @@ tbl = {
     {
       id = 31059,
       prob = 300,
-      name = "Sailor Hat",
+      name = "[Costume] Sailor Hat",
       group = 6
     },
     {
@@ -29593,7 +29849,7 @@ tbl = {
     {
       id = 19856,
       prob = 300,
-      name = "Collegiate Cup",
+      name = "[Costume] Red Bean Shaved Ice Hat",
       group = 6
     },
     {
@@ -29611,7 +29867,7 @@ tbl = {
     {
       id = 9569,
       prob = 1750,
-      name = "Traditional pasta",
+      name = "Feast Noodle",
       group = 6
     },
     {
@@ -29635,7 +29891,7 @@ tbl = {
     {
       id = 31519,
       prob = 150,
-      name = "Photogenic L├ímen",
+      name = "[Costume] Slurp Slurp Hat",
       group = 6
     }
   },
@@ -30471,7 +30727,7 @@ tbl = {
     {
       id = 15174,
       prob = 100,
-      name = "Roupa de Borracha [1]",
+      name = "Surfer Swimsuit [1]",
       group = 6
     },
     {
@@ -30489,7 +30745,7 @@ tbl = {
     {
       id = 31059,
       prob = 300,
-      name = "Sailor Hat",
+      name = "[Costume] Sailor Hat",
       group = 6
     },
     {
@@ -30501,7 +30757,7 @@ tbl = {
     {
       id = 19856,
       prob = 300,
-      name = "Collegiate Cup",
+      name = "[Costume] Red Bean Shaved Ice Hat",
       group = 6
     },
     {
@@ -30519,7 +30775,7 @@ tbl = {
     {
       id = 9569,
       prob = 1750,
-      name = "Traditional pasta",
+      name = "Feast Noodle",
       group = 6
     },
     {
@@ -30537,7 +30793,7 @@ tbl = {
     {
       id = 31519,
       prob = 150,
-      name = "Photogenic L├ímen",
+      name = "[Costume] Slurp Slurp Hat",
       group = 6
     }
   },
@@ -35513,7 +35769,7 @@ tbl = {
     {
       id = 23548,
       prob = 2244,
-      name = "Ice cream 3",
+      name = "Snow Candy 3",
       group = 6
     }
   },
@@ -40555,9 +40811,9 @@ tbl = {
       group = 6
     },
     {
-      id = 7621,
+      id = 6833,
       prob = 1000,
-      name = "Token of Siegfried 3",
+      name = "[Limited] Token of Siegfried 3",
       group = 6
     },
     {
@@ -40791,9 +41047,9 @@ tbl = {
       group = 6
     },
     {
-      id = 7621,
+      id = 6833,
       prob = 1000,
-      name = "Token of Siegfried 3",
+      name = "[Limited] Token of Siegfried 3",
       group = 6
     },
     {
@@ -40986,6 +41242,350 @@ tbl = {
       id = 25464,
       prob = 0,
       name = "Passport 10",
+      group = 0
+    }
+  },
+  [105112] = {
+    {
+      id = 25464,
+      prob = 0,
+      name = "Passport 20",
+      group = 0
+    },
+    {
+      id = 104450,
+      prob = 0,
+      name = "LATAM Costume Box",
+      group = 0
+    },
+    {
+      id = 104903,
+      prob = 0,
+      name = "[Event] Rebel Oval Artifact 5",
+      group = 0
+    },
+    {
+      id = 12263,
+      prob = 0,
+      name = "[Event] Combat Manual 5",
+      group = 0
+    },
+    {
+      id = 12264,
+      prob = 0,
+      name = "[Event] Bubble Gum 5",
+      group = 0
+    },
+    {
+      id = 12516,
+      prob = 0,
+      name = "[Event] Minor Life Potion 10",
+      group = 0
+    },
+    {
+      id = 23012,
+      prob = 0,
+      name = "[Event] Small Mana Potion 10",
+      group = 0
+    },
+    {
+      id = 23899,
+      prob = 0,
+      name = "[Event] Almighty 10",
+      group = 0
+    },
+    {
+      id = 100333,
+      prob = 0,
+      name = "[Event] Infinity Drink 10",
+      group = 0
+    },
+    {
+      id = 23898,
+      prob = 0,
+      name = "[Event] Unlimited Potion 10",
+      group = 0
+    },
+    {
+      id = 6959,
+      prob = 0,
+      name = "Clothing Coupon",
+      group = 0
+    },
+    {
+      id = 17042,
+      prob = 0,
+      name = "Poring Disguise Box 5",
+      group = 0
+    },
+    {
+      id = 12107,
+      prob = 0,
+      name = "Wrapped Mask 2",
+      group = 0
+    },
+    {
+      id = 23216,
+      prob = 0,
+      name = "VIP [10 Days]",
+      group = 0
+    }
+  },
+  [105113] = {
+    {
+      id = 25464,
+      prob = 0,
+      name = "Passport 50",
+      group = 0
+    },
+    {
+      id = 104450,
+      prob = 0,
+      name = "LATAM Costume Box",
+      group = 0
+    },
+    {
+      id = 104903,
+      prob = 0,
+      name = "[Event] Rebel Oval Artifact 10",
+      group = 0
+    },
+    {
+      id = 12263,
+      prob = 0,
+      name = "[Event] Combat Manual 10",
+      group = 0
+    },
+    {
+      id = 12264,
+      prob = 0,
+      name = "[Event] Bubble Gum 10",
+      group = 0
+    },
+    {
+      id = 12516,
+      prob = 0,
+      name = "[Event] Minor Life Potion 20",
+      group = 0
+    },
+    {
+      id = 23012,
+      prob = 0,
+      name = "[Event] Small Mana Potion 20",
+      group = 0
+    },
+    {
+      id = 23899,
+      prob = 0,
+      name = "[Event] Almighty 20",
+      group = 0
+    },
+    {
+      id = 100333,
+      prob = 0,
+      name = "[Event] Infinity Drink 20",
+      group = 0
+    },
+    {
+      id = 23898,
+      prob = 0,
+      name = "[Event] Unlimited Potion 20",
+      group = 0
+    },
+    {
+      id = 6959,
+      prob = 0,
+      name = "Clothing Coupon",
+      group = 0
+    },
+    {
+      id = 17042,
+      prob = 0,
+      name = "Poring Disguise Box 10",
+      group = 0
+    },
+    {
+      id = 12107,
+      prob = 0,
+      name = "Wrapped Mask 3",
+      group = 0
+    },
+    {
+      id = 23216,
+      prob = 0,
+      name = "VIP [10 Days]",
+      group = 0
+    }
+  },
+  [105114] = {
+    {
+      id = 25464,
+      prob = 0,
+      name = "Passport 100",
+      group = 0
+    },
+    {
+      id = 104450,
+      prob = 0,
+      name = "LATAM Costume Box",
+      group = 0
+    },
+    {
+      id = 104903,
+      prob = 0,
+      name = "[Event] Rebel Oval Artifact 15",
+      group = 0
+    },
+    {
+      id = 12263,
+      prob = 0,
+      name = "[Event] Combat Manual 20",
+      group = 0
+    },
+    {
+      id = 12264,
+      prob = 0,
+      name = "[Event] Bubble Gum 20",
+      group = 0
+    },
+    {
+      id = 12516,
+      prob = 0,
+      name = "[Event] Minor Life Potion 30",
+      group = 0
+    },
+    {
+      id = 23012,
+      prob = 0,
+      name = "[Event] Small Mana Potion 30",
+      group = 0
+    },
+    {
+      id = 23899,
+      prob = 0,
+      name = "[Event] Almighty 20",
+      group = 0
+    },
+    {
+      id = 100333,
+      prob = 0,
+      name = "[Event] Infinity Drink 30",
+      group = 0
+    },
+    {
+      id = 23898,
+      prob = 0,
+      name = "[Event] Unlimited Potion 30",
+      group = 0
+    },
+    {
+      id = 6959,
+      prob = 0,
+      name = "Clothing Coupon",
+      group = 0
+    },
+    {
+      id = 17042,
+      prob = 0,
+      name = "Poring Disguise Box 15",
+      group = 0
+    },
+    {
+      id = 12107,
+      prob = 0,
+      name = "Wrapped Mask 4",
+      group = 0
+    },
+    {
+      id = 23216,
+      prob = 0,
+      name = "VIP [10 Days]",
+      group = 0
+    }
+  },
+  [105115] = {
+    {
+      id = 25464,
+      prob = 0,
+      name = "Passport 150",
+      group = 0
+    },
+    {
+      id = 104450,
+      prob = 0,
+      name = "LATAM Costume Box",
+      group = 0
+    },
+    {
+      id = 104903,
+      prob = 0,
+      name = "[Event] Rebel Oval Artifact 20",
+      group = 0
+    },
+    {
+      id = 12263,
+      prob = 0,
+      name = "[Event] Combat Manual 30",
+      group = 0
+    },
+    {
+      id = 12264,
+      prob = 0,
+      name = "[Event] Bubble Gum 30",
+      group = 0
+    },
+    {
+      id = 12516,
+      prob = 0,
+      name = "[Event] Minor Life Potion 50",
+      group = 0
+    },
+    {
+      id = 23012,
+      prob = 0,
+      name = "[Event] Small Mana Potion 50",
+      group = 0
+    },
+    {
+      id = 23899,
+      prob = 0,
+      name = "[Event] Almighty 30",
+      group = 0
+    },
+    {
+      id = 100333,
+      prob = 0,
+      name = "[Event] Infinity Drink 50",
+      group = 0
+    },
+    {
+      id = 23898,
+      prob = 0,
+      name = "[Event] Unlimited Potion 50",
+      group = 0
+    },
+    {
+      id = 6959,
+      prob = 0,
+      name = "Clothing Coupon",
+      group = 0
+    },
+    {
+      id = 17042,
+      prob = 0,
+      name = "Poring Disguise Box 20",
+      group = 0
+    },
+    {
+      id = 12107,
+      prob = 0,
+      name = "Wrapped Mask 5",
+      group = 0
+    },
+    {
+      id = 23216,
+      prob = 0,
+      name = "VIP [10 Days]",
       group = 0
     }
   },
@@ -42269,7 +42869,7 @@ tbl = {
     {
       id = 12470,
       prob = 0,
-      name = "Unknown Item 60",
+      name = "[Event] Wind Walk Scroll 60",
       group = 0
     },
     {
@@ -42287,7 +42887,7 @@ tbl = {
     {
       id = 12525,
       prob = 0,
-      name = "Unknown Item 60",
+      name = "[Event] Assumptio Scroll 60",
       group = 0
     },
     {
@@ -42301,7 +42901,7 @@ tbl = {
     {
       id = 14591,
       prob = 0,
-      name = "Scroll for fiefdoms 35",
+      name = "WoE Teleport Scroll 35",
       group = 0
     },
     {
@@ -42315,7 +42915,7 @@ tbl = {
     {
       id = 14591,
       prob = 0,
-      name = "Scroll for fiefdoms 100",
+      name = "WoE Teleport Scroll 100",
       group = 0
     },
     {

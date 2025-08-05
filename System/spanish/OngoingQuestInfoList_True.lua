@@ -10821,7 +10821,7 @@ QuestInfoList = {
   [5367] = {
     Title = "Necesidades de transporte",
     Description = {
-      "Lleg¾ una solicitud de transportar mercancÝa al ßrea Z-2, luego ir con el ^0000FFMecßnico Al^000000 y entregar un mensaje que dice:"
+      "Lleg¾ una solicitud de transportar mercancÝa al ßrea Z-2, luego ir con el ^0000FFMecßnico Al^000000 y entregar un mensaje que dice: íIdiotas! ííDejen de malgastar material en mßquinas est·pidas!!"
     },
     Summary = "ííIdiotas est·pidos!! No hay suficiente material, íííasÝ que dejen de fabricar tantas mßquinas!!!"
   },
@@ -17231,7 +17231,7 @@ QuestInfoList = {
     Title = "Reproductor de recuerdos",
     IconName = "ico_ep.bmp",
     Description = {
-      "Se necesita un reproductor para conocer el contenido del Registro de recuerdos. La comandante Arquien del Grupo de EdÚn conoce la ubicaci¾n del reproductor."
+      "Se necesita un tocadiscos para conocer el contenido del Registro de recuerdos. La comandante Arquien del Grupo de EdÚn conoce la ubicaci¾n del ^CD3278Tocadiscos^000000."
     },
     Summary = "Habla con Arquien."
   },
@@ -35426,6 +35426,13 @@ QuestInfoList = {
     },
     Summary = "Dale los saludos a Wuhari."
   },
+  [14124] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Alguien rob¾ los animales que Jade criaba anoche. Ve a investigar quÚ pas¾ e inf¾rmame."
+    },
+    Summary = "A la Casa de Jade"
+  },
   [14125] = {
     Title = "Inspecci¾n de la zona",
     Description = {
@@ -35460,6 +35467,13 @@ QuestInfoList = {
       "Wuhari recibi¾ el informe, pero dijo que tomarß un tiempo analizarlo. Intenta hablar con Úl un poco mßs tarde. No se debe molestar a nadie cuando estß investigando."
     },
     Summary = "Tiempo para el anßlisis."
+  },
+  [14132] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Primero, deberÝamos investigar el corral donde estaban los animales."
+    },
+    Summary = "Investigar el Corral"
   },
   [14133] = {
     Title = "Otro favor",
@@ -36082,6 +36096,574 @@ QuestInfoList = {
     },
     Summary = "Dale el sombrero al jefe."
   },
+  [14292] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "El corral fue vandalizado por humanos. Entre las huellas ca¾ticas de animales en el suelo, se ven huellas humanas inusuales. Sigamos el rastro."
+    },
+    Summary = "Investigar Marcas Sospechosas"
+  },
+  [14293] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Afortunadamente, las marcas sospechosas van hacia el noreste. Sigamos el rastro."
+    },
+    Summary = "Investigar Marcas Sospechosas"
+  },
+  [14294] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Las huellas son claramente visibles en el barro. Sigamos el rastro."
+    },
+    Summary = "Investigar Marcas Sospechosas"
+  },
+  [14295] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Junto con las huellas sospechosas, encontrÚ un recibo de Al De Baran. Quizßs encontremos pistas sobre el culpable allß."
+    },
+    Summary = "A Al De Baran"
+  },
+  [14296] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "íEstas huellas embarradas deben ser de Frank! ┐D¾nde estß? íProbablemente reparando botes en el muelle este! Dile que voy por Úl."
+    },
+    Summary = "Encontrar a Frank"
+  },
+  [14297] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "┐Ad¾nde mßs irÝa un extra±o nuevo en la ciudad a media noche? Ve a la posada."
+    },
+    Summary = "A la Posada"
+  },
+  [14298] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "El posadero fue muy firme. Parece difÝcil obtener informaci¾n. Busquemos a alguien mßs que pueda ayudar."
+    },
+    Summary = "Mirar Alrededor"
+  },
+  [14299] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Si quieres saber d¾nde estß la persona sospechosa, consÝgueme ingredientes para una soluci¾n facial para arrugas: 1 Alcohol, 22 Garras de ArpÝa, 33 Patas Cortas, 44 Corales, 55 Cuernos de Cabra. íCantidades exactas!"
+    },
+    Summary = "Hacer el Recado"
+  },
+  [14300] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "La persona que buscas estß en el 2do piso. Probablemente acaba de despertar, asÝ que ve a revisar."
+    },
+    Summary = "Ir al 2do Piso"
+  },
+  [14301] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Finalmente encontramos al culpable, pero estß malherido. No puede moverse hasta que llegue el carro de transporte, asÝ que rep¾rtale primero al Maestro del Clan."
+    },
+    Summary = "Reportar al Maestro"
+  },
+  [14302] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "El Sr. Jade parece sospechoso. Debemos volver a su casa e investigar en secreto... Ve."
+    },
+    Summary = "Reinvestigar Casa de Jade"
+  },
+  [14303] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "El Sr. Jade estß ocupado con papeles. Aprovecha para investigar. Esa persona sospechosa en Al De Baran dijo que les dio algo extra±o a los animales. Busca el comedero primero."
+    },
+    Summary = "Investigar Alrededores"
+  },
+  [14304] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "EncontrÚ documentos sospechosos en un comedero cerca del corral. DespÝdete del Sr. Jade y rep¾rtale al Maestro del Clan."
+    },
+    Summary = "Reportar al Maestro"
+  },
+  [14305] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Este documento parece contener una receta de una droga mezclada en el alimento... Hay una experta en Juno, ┐muÚstraselo? Se llama Aidiya. EscuchÚ que estß en alguna escuela."
+    },
+    Summary = "A Juno"
+  },
+  [14306] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Para identificar lo que comieron los animales, necesitamos muestras. Faltan materiales. Consigue del documento: 20 Colmillos Venenosos, 20 Polvos Venenosos, 80 Micelios, 3 Ments, 1 Hierba Amarga."
+    },
+    Summary = "Materiales para Experimento"
+  },
+  [14307] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Para identificar lo que comieron los animales, necesitamos muestras. Faltan materiales. Consigue del documento: 20 Colmillos Venenosos, 20 Polvos Venenosos, 50 Hojas Afiladas, 80 Micelios, 3 Ments, 1 Hierba Amarga y 1 Runa Oscura."
+    },
+    Summary = "Materiales para Experimento"
+  },
+  [14308] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "La droga mezclada en el alimento hizo que los animales se comportaran anormalmente. Rep¾rtale al Maestro del Clan."
+    },
+    Summary = "Reportar al Maestro"
+  },
+  [14309] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Debemos saber por quÚ el Sr. Jade les dio esta droga. EntrÚgale una citaci¾n al Sr. Jade."
+    },
+    Summary = "Entregar Citaci¾n"
+  },
+  [14310] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Ahora que el Sr. Jade fue citado, vuelve a Al De Baran y trae al ladr¾n."
+    },
+    Summary = "A Al De Baran"
+  },
+  [14311] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "El culpable desapareci¾ mientras estaba fuera brevemente. Rep¾rtale al Maestro."
+    },
+    Summary = "Reportar al Maestro"
+  },
+  [14312] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "íDebemos eliminar a los remanentes del \"Frente de Liberaci¾n Runemidgats\" escondidos en Izlude para detener sus planes!"
+    },
+    Summary = "Eliminar Remanentes"
+  },
+  [14313] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Todos los remanentes del \"Frente de Liberaci¾n Runemidgats\" fueron eliminados. Vuelve e inf¾rmale al Maestro del Clan Espada."
+    },
+    Summary = "Reportar al Maestro"
+  },
+  [14314] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Los zo¾logos necesitan Novus para investigaci¾n de vacunas. Captura unos 70. Ademßs, derrota 30 Anacondaqs Furiosos y 100 Gallions."
+    },
+    Summary = "Capturar Novus"
+  },
+  [14315] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Los zo¾logos necesitan Tatacho para investigaci¾n de vacunas. Captura unos 70. Ademßs, derrota 150 Finguicula Oscuros Infectados."
+    },
+    Summary = "Capturar Tatacho"
+  },
+  [14316] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Estoy agotado despuÚs de terminar la solicitud. Necesito descansar una semana."
+    },
+    Summary = "Reinicia despuÚs de 7 dÝas a las 04:00",
+    CoolTimeQuest = 1
+  },
+  [14317] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Entrega la caja peque±a al Sr. Otto en la Posada Hugel, la caja ligera al Sr. Slider detrßs del hotel en Einbroch, y los documentos a Pocket B en Valle Abisal. Comienza con el cercano Valle Abisal. íAdelante!"
+    },
+    Summary = "Entrega Sencilla"
+  },
+  [14318] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Considera esto una solicitud y trßeme: 35 Tubos, 77 Tornillos Oxidados, 20 Garras de ArpÝa, 1 Acero. Ap·rate. Tengo prisa. En serio."
+    },
+    Summary = "Recado Sencillo"
+  },
+  [14319] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Entrega esta caja a Pocket A en Einbroch. Manipula la caja con cuidado."
+    },
+    Summary = "Entrega Adicional"
+  },
+  [14320] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "RecibÝ las dos cajas, pero faltan partes. Consigue: 1 Musgo con RocÝo, 3 LÝquidos Fluorescentes, 35 Gases T¾xicos, 20 Tornillos Oxidados. ┐Puedes hacerlo?"
+    },
+    Summary = "Partes Faltantes"
+  },
+  [14321] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Entrega esta caja al Sr. Link en Lighthalzen. Trabaja en un lugar lleno de quÝmicos. Ten cuidado de no agitarla."
+    },
+    Summary = "A Lighthalzen"
+  },
+  [14322] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Ah, quien ensambl¾ esto debi¾ tener prisa. Faltan muchas partes. Trßeme: 99 Micelios, 1 Arena Estelar de Bruja, 2 Martillos de Oridec¾n."
+    },
+    Summary = "Partes Faltantes"
+  },
+  [14323] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Ah, faltan muchas partes. Trßeme: 99 Micelios, 1 Arena Estelar de Bruja, 2 Martillos de Oridec¾n, 33 Planchas de Hierro Viejas. ┐Mucho, verdad?"
+    },
+    Summary = "Partes Faltantes"
+  },
+  [14324] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "┐PodrÝas entregar esta caja al Sr. Otto en Hugel? IrÝa yo, pero... EscuchÚ que estß en la posada ·ltimamente."
+    },
+    Summary = "A Hugel"
+  },
+  [14325] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "El Sr. Otto en Hugel me atac¾ de repente pero fall¾ y huy¾. Vuelve e inf¾rmale al Maestro del Clan."
+    },
+    Summary = "Reportar al Maestro"
+  },
+  [14326] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "íVe a Izlude y elimina a los remanentes del \"Frente de Liberaci¾n Runemidgats\"! íDebemos detener sus planes!"
+    },
+    Summary = "Eliminar Remanentes"
+  },
+  [14327] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Todos los remanentes del \"Frente de Liberaci¾n Runemidgats\" fueron eliminados. Rep¾rtale al Maestro del Clan Ballesta."
+    },
+    Summary = "Reportar al Maestro"
+  },
+  [14328] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "EscuchÚ que el manuscrito estaba dentro de un oso de peluche. Recupera las 111 pßginas del manuscrito escritas en Pus."
+    },
+    Summary = "Recuperar Manuscrito"
+  },
+  [14329] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "EscuchÚ que Lichtens Azules en una torre de otra dimensi¾n se llevaron el manuscrito perdido. Recupera las 111 pßginas del manuscrito escritas en Pus."
+    },
+    Summary = "Recuperar Manuscrito"
+  },
+  [14330] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Reportes dicen que los muros de Prontera fueron da±ados recientemente. Comienza inspeccionando la secci¾n sur cercana. El Maestro Cantero lo solicit¾, asÝ que inspecciona minuciosamente e informa."
+    },
+    Summary = "Inspeccionar Muros"
+  },
+  [14331] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "EncontrÚ un punto da±ado. Investiga otras ßreas."
+    },
+    Summary = "Inspeccionar Muros"
+  },
+  [14332] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "EncontrÚ un punto da±ado. Ahora inspecciona los muros este."
+    },
+    Summary = "Inspeccionar Muros"
+  },
+  [14333] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "EncontrÚ un punto da±ado. Investiga otras ßreas."
+    },
+    Summary = "Inspeccionar Muros"
+  },
+  [14334] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "EncontrÚ un punto da±ado. Ahora inspecciona los muros oeste."
+    },
+    Summary = "Inspeccionar Muros"
+  },
+  [14335] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "EncontrÚ un punto da±ado. Investiga otras ßreas."
+    },
+    Summary = "Inspeccionar Muros"
+  },
+  [14336] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Se encontraron todos los puntos da±ados. Vuelve e inf¾rmale al Maestro."
+    },
+    Summary = "Reportar al Maestro"
+  },
+  [14337] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "ExplÝcale el da±o del muro al Maestro Cantero. Si necesita ayuda, asiste en lo posible."
+    },
+    Summary = "Al Maestro Cantero"
+  },
+  [14338] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Quizßs necesitemos reparar los muros, asÝ que consigue piedras: 99 Corazones de Piedra, 1 Piedra Brillante, 99 Piedras, 3 Diamantes (3 quilates)."
+    },
+    Summary = "Piedras Necesarias"
+  },
+  [14339] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Quizßs necesitemos reparar los muros, asÝ que consigue piedras: 99 Corazones de Piedra, 1 Piedra Brillante, 99 Piedras, 3 Diamantes (3 quilates), 50 Fragmentos de Piedra."
+    },
+    Summary = "Piedras Necesarias"
+  },
+  [14340] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Hay un quÝmico en Al De Baran que maneja pociones. Ve por un neutralizador."
+    },
+    Summary = "A Al De Baran"
+  },
+  [14341] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Consigue ingredientes para el neutralizador: 1 Frasco de Poci¾n VacÝo, 123 LÝquidos Pegajosos, 5 Corazones de Frame. ┐Ap·rate, por favor? El Maestro Cantero podrÝa lanzarmeùespera, no."
+    },
+    Summary = "Ingredientes del Neutralizador"
+  },
+  [14342] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Consigue ingredientes para el neutralizador: 1 Frasco de Poci¾n VacÝo, 123 LÝquidos Pegajosos, 5 Corazones de Frame, 3 Runas Oscuras, 13 Esporas de Oscuridad. ┐Ap·rate, por favor? El Maestro Cantero podrÝa lanzarmeùespera, no."
+    },
+    Summary = "Ingredientes del Neutralizador"
+  },
+  [14343] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Entrega este neutralizador s·per fuerte al Maestro Cantero. ╔l sabrß usarlo."
+    },
+    Summary = "Al Maestro Cantero"
+  },
+  [14344] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Para rastrear al culpable, necesitamos dos cosas mßs: 1 Alcohol y 3 RubÝes Malditos. No preguntes, solo trßelos."
+    },
+    Summary = "Materiales Adicionales"
+  },
+  [14345] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "RocÝa este neutralizador s·per fuerte en las zonas da±adas. Ocurrirßn reaccionesù·salas para rastrear y capturar al culpable."
+    },
+    Summary = "Rociar Neutralizador"
+  },
+  [14346] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "DespuÚs de rociar, algo apareci¾ en el humo. RocÝa otras ßreas."
+    },
+    Summary = "Rociar Neutralizador"
+  },
+  [14347] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "DespuÚs de rociar, algo apareci¾ en el humo. RocÝa otras ßreas."
+    },
+    Summary = "Rociar Neutralizador"
+  },
+  [14348] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "DespuÚs de rociar, algo apareci¾ en el humo. RocÝa otras ßreas."
+    },
+    Summary = "Rociar Neutralizador"
+  },
+  [14349] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "DespuÚs de rociar, algo apareci¾ en el humo. RocÝa otras ßreas."
+    },
+    Summary = "Rociar Neutralizador"
+  },
+  [14350] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "DespuÚs de rociar, algo apareci¾ en el humo. RocÝa otras ßreas."
+    },
+    Summary = "Rociar Neutralizador"
+  },
+  [14351] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "El culpable parece vinculado a Sundar Mandar. Investiga allß."
+    },
+    Summary = "A Sundar Mandar"
+  },
+  [14352] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Vi personas sospechosas yendo al Faro Pharos recientemente. Intenta buscar allß."
+    },
+    Summary = "Al Faro Pharos"
+  },
+  [14353] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Kim podrÝa saber algo. Esa mujer sabe todo de la gente aquÝ. Ve al sur."
+    },
+    Summary = "Encontrar a Kim"
+  },
+  [14354] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "┐Extra±o? íNunca escuchÚ sobre guardias en Sundar Mandar! Ese guardia es sospechoso. EncuÚntralo de nuevo. íCreo que podrÝa ser el culpable!"
+    },
+    Summary = "De Vuelta con el Guardia"
+  },
+  [14355] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "La persona sospechosa huy¾. Informa la situaci¾n al Maestro del Clan."
+    },
+    Summary = "Reportar al Maestro"
+  },
+  [14356] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "íElimina a los remanentes del \"Frente de Liberaci¾n Runemidgats\" escondidos en Izlude para detener sus planes!"
+    },
+    Summary = "A Izlude"
+  },
+  [14357] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Todos los remanentes del \"Frente de Liberaci¾n Runemidgats\" fueron eliminados. Rep¾rtale al Maestro del Clan Arco Varita."
+    },
+    Summary = "Reportar al Maestro"
+  },
+  [14358] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "El Maestro Cantero solicit¾ piedras para reparar muros: 100 Corazones de Piedra, 3 Diamantes (1 quilate), 133 Piedras Muy Duras. Las Piedras Muy Duras las sueltan G¾lems Estalßcticos. Asegura cantidades exactas."
+    },
+    Summary = "Recolectar Piedras"
+  },
+  [14359] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "El Maestro Cantero solicit¾ piedras para reparar muros: 150 Corazones de Piedra, 3 Diamantes (1 quilate), 133 Piedras Muy Duras. Las Piedras Muy Duras las sueltan G¾lems de Bradium. Asegura cantidades exactas."
+    },
+    Summary = "Recolectar Piedras"
+  },
+  [14360] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Una casa en Morroc report¾ fantasmas. Investiga y resuÚlvelo."
+    },
+    Summary = "A Morroc"
+  },
+  [14361] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "InvestiguÚ la casa embrujada en Morroc pero no encontrÚ nada concluyente. Vuelve e inf¾rmale al Maestro."
+    },
+    Summary = "Reportar al Maestro"
+  },
+  [14362] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Investiga a fondo en la Tierra de los Muertos. De paso, detente en Comodo para encontrar a un nieto que perdi¾ las ·ltimas palabras de su abuelo y cumple su solicitud."
+    },
+    Summary = "A Comodo"
+  },
+  [14363] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Ve a la Tierra de los Muertos, encuentra a mi abuelo, escucha el resto de sus ·ltimas palabras y regresa. Es urgente, por favor ap·rate."
+    },
+    Summary = "┌ltimas Palabras del Abuelo"
+  },
+  [14364] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "EnterrÚ mi herencia en siete puntos de la playa de Comodo. Exhßvalos y entrÚgaselos a la amable chica de la florerÝa en Morroc."
+    },
+    Summary = "Entregar Herencia"
+  },
+  [14365] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "DesenterrÚ una Gema Roja. Excava en otro lugar."
+    },
+    Summary = "Obtener Tesoro"
+  },
+  [14366] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "DesenterrÚ una Gema Escarlata. Excava en otro lugar."
+    },
+    Summary = "Obtener Tesoro"
+  },
+  [14367] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "DesenterrÚ una Gema Amarilla. Excava en otro lugar."
+    },
+    Summary = "Obtener Tesoro"
+  },
+  [14368] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "DesenterrÚ una Gema Verde. Excava en otro lugar."
+    },
+    Summary = "Obtener Tesoro"
+  },
+  [14369] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "DesenterrÚ una Gema Transparente. Excava en otro lugar."
+    },
+    Summary = "Obtener Tesoro"
+  },
+  [14370] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "DesenterrÚ una Gema Azul. Excava en otro lugar."
+    },
+    Summary = "Obtener Tesoro"
+  },
+  [14371] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "DesenterrÚ una Gema P·rpura. Entrega las siete gemas a la chica en Morroc. Como no sÚ quiÚn es, vuelve a Morroc y pregunta. ┐QuiÚn podrÝa ser?"
+    },
+    Summary = "A Morroc"
+  },
+  [14372] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Quiero hacer un ramo para el abuelo Edward como agradecimiento. Necesito 3 Rosas Eternas, 1 Flor Cantarina, 1 Flor de Ilusi¾n, 1 Semilla de Yggdrasil y 15 Hojas de Hierba Suaves para hacerlo hermoso."
+    },
+    Summary = "Materiales del Ramo"
+  },
   [14373] = {
     Title = "B·squeda del escultor",
     Description = {
@@ -36292,6 +36874,97 @@ QuestInfoList = {
     },
     Summary = "Lleva las Chocomonedas a Bitta en Einbroch."
   },
+  [14405] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Entrega este ramo al abuelo Edward."
+    },
+    Summary = "A la Tierra de los Muertos"
+  },
+  [14406] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Hubo un gran alboroto en el cementerio recientemente. Luego se escucharon gemidos extra±os. Investiga allß por pistas."
+    },
+    Summary = "Al Cementerio"
+  },
+  [14407] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "íEncuentra a alguien que pueda romper esta maldici¾n que me ata! EscuchÚ \"Lutie\" vagamente, pero no estoy seguro. íAlguien aquÝ debe saber d¾nde! íEncuÚntralo rßpido! íAp·rate!"
+    },
+    Summary = "Encontrar al Chamßn"
+  },
+  [14408] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Romper la maldici¾n requiere un sacrificio. Trae: Agua Bendita x14, RubÝ Maldito x3, CÝrculo Mßgico Viejo x13 y un Coraz¾n de Hielo. Solo trßelos."
+    },
+    Summary = "Sacrificio Necesario"
+  },
+  [14409] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Romper la maldici¾n requiere un sacrificio. Trae: Agua Bendita x14, RubÝ Maldito x3, CÝrculo Mßgico Viejo x13, Cuchillo de Cocina Oxidado x1 y un Coraz¾n Ardiente. Solo trßelos."
+    },
+    Summary = "Sacrificio Necesario"
+  },
+  [14410] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "La maldici¾n estß rota. Cumple tu deseo."
+    },
+    Summary = "Maldici¾n Rota"
+  },
+  [14411] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "La maldici¾n del invocador estß rota, pero los fantasmas invocados no se pueden deshacer. Vuelve con Lily en Morroc y explÝcale."
+    },
+    Summary = "A Morroc"
+  },
+  [14412] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "El amigo de Garon es sospechoso. EncuÚntralo e investiga."
+    },
+    Summary = "A Comodo"
+  },
+  [14413] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Inf¾rmale al Maestro sobre lo que escuchaste en la Tierra de los Muertos y el amigo fugado de Garon."
+    },
+    Summary = "Reportar al Maestro"
+  },
+  [14414] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "íElimina a los remanentes del \"Frente de Liberaci¾n Runemidgats\" escondidos en Izlude para detener sus planes!"
+    },
+    Summary = "Eliminar Remanentes"
+  },
+  [14415] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Todos los remanentes del \"Frente de Liberaci¾n Runemidgats\" fueron eliminados. Rep¾rtale al Maestro del Clan Maza Dorada."
+    },
+    Summary = "Reportar al Maestro"
+  },
+  [14416] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Para investigar c¾mo se invocan los muertos, captura Roods. Unos 70 bastarßn. Ademßs, derrota 50 Injusticias Furiosas."
+    },
+    Summary = "Capturar Monstruos"
+  },
+  [14417] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Para investigar c¾mo se invocan los muertos, captura Errantes. Unos 30 bastarßn. Ademßs, derrota 50 Rori Roris Rßpidos."
+    },
+    Summary = "Capturar Monstruos"
+  },
   [14450] = {
     Title = "",
     Description = {""},
@@ -36371,6 +37044,30 @@ QuestInfoList = {
     Title = "",
     Description = {""},
     Summary = ""
+  },
+  [14466] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Estoy agotado despuÚs de terminar la solicitud. Necesito descansar una semana."
+    },
+    Summary = "Reinicia despuÚs de 7 dÝas a las 04:00",
+    CoolTimeQuest = 1
+  },
+  [14467] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Estoy agotado despuÚs de terminar la solicitud. Necesito descansar una semana."
+    },
+    Summary = "Reinicia despuÚs de 7 dÝas a las 04:00",
+    CoolTimeQuest = 1
+  },
+  [14468] = {
+    Title = "El Escondite de los Remanentes",
+    Description = {
+      "Estoy agotado despuÚs de terminar la solicitud. Necesito descansar una semana."
+    },
+    Summary = "Reinicia despuÚs de 7 dÝas a las 04:00",
+    CoolTimeQuest = 1
   },
   [14469] = {
     Title = "Busca a la familia Walther",
@@ -39073,124 +39770,155 @@ QuestInfoList = {
     },
     Summary = "Regresa con Engel cuando termine el tiempo de espera."
   },
-  [16101] = {
-    Title = "Academia Kiel Hyre",
+  [16096] = {
+    Title = "Ilusi¾n de tortuga",
     Description = {
-      "Lleva la botella de Vino culinario a Lecollane, que estß en la Academia Kiel Hyre al sureste de aquÝ."
+      "Mientras hablabas con Eilvar, llegaste a un lugar desconocido. Habla con la chica que tienes delante."
     },
-    Summary = ""
+    Summary = "Habla con la chica"
+  },
+  [16097] = {
+    Title = "Ilusi¾n de tortuga",
+    Description = {
+      "La chica se±al¾ algunos lugares. Busquemos las huellas del arque¾logo Leiphen en la aldea de las tortugas buenas."
+    },
+    Summary = "Hombre impaciente"
+  },
+  [16098] = {
+    Title = "Ilusi¾n de tortuga",
+    Description = {
+      "La chica se±al¾ algunos lugares. Busquemos las huellas del arque¾logo Leiphen en la aldea de las tortugas buenas."
+    },
+    Summary = "Soldado valiente"
+  },
+  [16099] = {
+    Title = "Ilusi¾n de tortuga",
+    Description = {
+      "La chica se±al¾ algunos lugares. Busquemos los restos del arque¾logo Leiphen en el Palacio de la Tortuga."
+    },
+    Summary = "Chica debilitada"
+  },
+  [16100] = {
+    Title = "Ilusi¾n de tortuga",
+    Description = {
+      "Hay un lugar mßs donde buscar. Busquemos los restos del arque¾logo Leiphen en el Palacio de la Tortuga."
+    },
+    Summary = "Comprar Leiphen"
+  },
+  [16101] = {
+    Title = "Ilusi¾n de tortuga",
+    Description = {
+      "Elimina 10 de cada tortuga: Batidores Ominosos y Solidificadores y entrega 10 Carnes Estropeadas a Leiphen."
+    },
+    Summary = "10 carnes en mal estado"
   },
   [16102] = {
-    Title = "Academia Kiel Hyre",
+    Title = "Ilusi¾n de tortuga",
     Description = {
-      "Elly podrÝa necesitar ayuda. Habla con ella."
+      "Elimina 10 de cada tortuga: Calentadores y congeladores siniestros para Leiphen."
     },
-    Summary = ""
+    Summary = "Regreso a Leiphen"
   },
   [16103] = {
-    Title = "Academia Kiel Hyre",
+    Title = "Ilusi¾n de tortuga",
     Description = {
-      "Encuentra los ingredientes para las galletas de Elly. Puedes conseguir el Vino en una cantina en Juno, el Cacao de los monstruos Yoyo, y la Harina y Huevos en el puesto de tostadas de Juno."
+      "Hablemos con los aldeanos aquÝ, como lo solicit¾ Leiphen."
     },
-    Summary = ""
+    Summary = "Chica debilitada"
   },
   [16104] = {
-    Title = "Academia Kiel Hyre",
+    Title = "Ilusi¾n de tortuga",
     Description = {
-      "Ve a ver al due±o del molino en los barrios bajos de Lighthalzen para conseguir la Harina y Huevos para Cezu."
+      "Corramos hacia la chica que estß en la entrada de la Aldea de la Buena Tortuga."
     },
-    Summary = ""
+    Summary = "Habla con la chica"
   },
   [16105] = {
-    Title = "Academia Kiel Hyre",
+    Title = "Promesa",
     Description = {
-      "Lleva el paquete de entrega a Cezu en Juno."
+      "Le hiciste una promesa a Nalin. Regresa ma±ana a la Ilusi¾n de la Tortuga para cumplirla."
     },
-    Summary = ""
+    Summary = "Vuelve ma±ana"
   },
   [16106] = {
-    Title = "Academia Kiel Hyre",
+    Title = "No lo olvidarÚ!",
     Description = {
-      "Lleva el paquete de entrega a Elly en la Academia Kiel Hyre."
+      "Vayamos al Palacio de la Tortuga para encontrar al arque¾logo Leiphen para revivir la memoria de la ni±a."
     },
-    Summary = ""
+    Summary = "Fale com Ierpen no sombrio Guyanggung"
   },
   [16107] = {
-    Title = "Academia Kiel Hyre",
+    Title = "No lo olvidarÚ!",
     Description = {
-      "Espera a que Elly termine de hornear las galletas."
+      "Volvamos a la ni±a junto con el arque¾logo Leiphen."
     },
-    Summary = ""
+    Summary = "Habla con la chica"
   },
   [16108] = {
-    Title = "Academia Kiel Hyre",
+    Title = "[Esperar] No lo olvidarÚ!",
     Description = {
-      "Lleva las galletas bien horneadas al abuelo de Elly, que estß en la caba±a de Kiel Hyre, un mapa al norte de la Academia."
+      "Esta misi¾n es una misi¾n diaria y puedes recibirla nuevamente cuando expire el tiempo de recuperaci¾n."
     },
-    Summary = ""
+    Summary = "Vuelve ma±ana"
   },
   [16109] = {
-    Title = "Academia Kiel Hyre",
+    Title = "EspÝritu obsesivo",
     Description = {
-      "Vuelve con Elly y dile que su abuelo no estß en la caba±a."
+      "Vamos a cazar 10 asaltantes siniestros y entregar 5 metales corroÝdos."
     },
-    Summary = ""
+    Summary = "5 Metales corroidos"
   },
   [16110] = {
-    Title = "Academia Kiel Hyre",
+    Title = "[Esperar] EspÝritu obsesivo",
     Description = {
-      "Vuelve de nuevo a la caba±a de Kiel Hyre. Elly te dio una llave de caba±a que te permitirß atravesar una puerta lateral."
+      "Esta misi¾n es una misi¾n diaria y puedes recibirla nuevamente cuando expire el tiempo de recuperaci¾n."
     },
-    Summary = ""
+    Summary = "Vuelve ma±ana"
   },
   [16111] = {
-    Title = "Academia Kiel Hyre",
+    Title = "Hambre eterna",
     Description = {
-      "Encuentras una nota doblada que dice ô6 adelante, 3 izquierda, 3 adelante y 4 izquierdaö."
+      "Elimina 10 de cada tortuga: Batidores Ominosos y Solidificadores y entrega 10 Carnes Podridas a la Dama debilitada."
     },
-    Summary = ""
+    Summary = "10 Carnes Podridas"
   },
   [16112] = {
-    Title = "Academia Kiel Hyre",
+    Title = "Hambre eterna",
     Description = {
-      "Encontraste una carta dirigida a Elly. Serß mejor que se la lleves."
+      "Elimina 10 de cada tortuga: Calentadores y Congeladores Ominosos para la Chica debilitada."
     },
-    Summary = ""
+    Summary = "Chica debilitada"
   },
   [16113] = {
-    Title = "Academia Kiel Hyre",
+    Title = "[Esperar] Hambre eterna",
     Description = {
-      "Contin·a tu conversaci¾n con Elly."
+      "Esta misi¾n es una misi¾n diaria y puedes recibirla nuevamente cuando expire el tiempo de recuperaci¾n."
     },
-    Summary = ""
+    Summary = "Vuelve ma±ana"
   },
   [16114] = {
-    Title = "Academia Kiel Hyre",
-    Description = {
-      "Explora la caba±a en busca de pistas que el abuelo de Elly pudo haberle dejado. Cuando encuentres algo en la caba±a, ve al dormitorio detrßs de la Academia Kiel Hyre."
-    },
-    Summary = ""
+    Title = "Ilusi¾n de tortuga",
+    Description = {""},
+    Summary = "Habla con Eilvar"
   },
   [16115] = {
-    Title = "Academia Kiel Hyre",
-    Description = {
-      "Encontraste un papel en blanco con el sello de la Fundaci¾n Kiel Hyre. Es extra±o que haya un sello en un papel en blancoà"
-    },
-    Summary = ""
+    Title = "Ilusi¾n de tortuga",
+    Description = {""},
+    Summary = "Habla con la chica"
   },
   [16116] = {
-    Title = "Academia Kiel Hyre",
+    Title = "Ilusi¾n de tortuga",
     Description = {
-      "Escribiste sobre el papel en blanco con la tinta azul y encontraste un extra±o poema que escrito por el ^0000fflittle Peque±o diablo perdido^000000. ┐QuÚ puede significar?"
+      "Habla con la chica en medio de la solitaria aldea de las tortugas buenas de nuevo."
     },
-    Summary = ""
+    Summary = "Habla con la chica"
   },
   [16117] = {
-    Title = "El misterioso mapamundi",
+    Title = "Ilusi¾n de tortuga",
     Description = {
-      "Busca algo que te ayude a despegar el mapa de la pared."
+      "Habla con la chica en medio de la solitaria aldea de las tortugas buenas de nuevo."
     },
-    Summary = ""
+    Summary = "Habla con la chica"
   },
   [16118] = {
     Title = "Poema oculto",
@@ -42383,6 +43111,71 @@ Talk to Kar=],
     },
     Summary = "Habla con Chipol"
   },
+  [17320] = {
+    Title = "Festival de Fideos",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Encuentra al <NAVI>[Pescador]<INFO>malangdo,209,110,0,101,0,</INFO></NAVI>."
+    },
+    Summary = "Habla con el Pescador"
+  },
+  [17321] = {
+    Title = "Festival de Fideos",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "El pescador te pidi¾ que te encuentres con <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>."
+    },
+    Summary = "Habla con Nike"
+  },
+  [17322] = {
+    Title = "Festival de Fideos",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Vamos a reportar la situaci¾n al <NAVI>[Director del Festival]<INFO>malangdo,140,164,0,101,0,</INFO></NAVI>."
+    },
+    Summary = "Habla con el Director"
+  },
+  [17323] = {
+    Title = "Festival de Fideos",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Consigue 1x Cola de Pescado, 1x Tinta de Pulpo, 1x Espagueti y 1x Alb¾ndiga. - <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>"
+    },
+    Summary = "Re·ne los objetos"
+  },
+  [17324] = {
+    Title = "Festival de Fideos",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Viajero, por favor entrega estos fideos <NAVI>[en ese lugar]<INFO>malangdo,168,219,101,0,</INFO></NAVI>."
+    },
+    Summary = "Habla con Po"
+  },
+  [17325] = {
+    Title = "Festival de Fideos",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Ahora que terminamos, volvamos a hablar con <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>."
+    },
+    Summary = "Habla con Nike"
+  },
+  [17326] = {
+    Title = "Especial de la Casa",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Consigue 1x Cola de Pescado, 5x Tinta de Pulpo, 5x Espagueti y 5x Alb¾ndiga. - <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>"
+    },
+    Summary = "Re·ne los objetos"
+  },
+  [17327] = {
+    Title = "[Espera] Especial de la Casa",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "íYa ayudaste mucho por hoy! íPor favor ven con la misma energÝa altruista ma±ana! - <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>"
+    },
+    Summary = "Regresa ma±ana.¡",
+    CoolTimeQuest = 1
+  },
   [17328] = {
     Title = "Cup¾n: Evento Fideos completado",
     Description = {
@@ -42403,6 +43196,14 @@ Talk to Kar=],
       "Recolectaste todos los fideos malos. Si completaste los 4 eventos del dÝa, ve a la <NAVI>[Recepci¾n de cupones]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI> y sella el cup¾n."
     },
     Summary = "Ayudante Domi completado."
+  },
+  [17331] = {
+    Title = "Festival de Fideos",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Si completaste todas las actividades de hoy, encuentra al <NAVI>[Organizador del Festival]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI>."
+    },
+    Summary = "Con el Organizador"
   },
   [17332] = {
     Title = "Cup¾n: Intercambio de sombreros",
@@ -68372,155 +69173,5 @@ Talk to Kar=],
     NpcNavi = "geffen",
     NpcPosX = 40,
     NpcPosY = 141
-  },
-  [16096] = {
-    Title = "Ilusi¾n de tortuga",
-    Description = {
-      "Mientras hablabas con Eilvar, llegaste a un lugar desconocido. Habla con la chica que tienes delante."
-    },
-    Summary = "Habla con la chica"
-  },
-  [16097] = {
-    Title = "Ilusi¾n de tortuga",
-    Description = {
-      "La chica se±al¾ algunos lugares. Busquemos las huellas del arque¾logo Leiphen en la aldea de las tortugas buenas."
-    },
-    Summary = "Hombre impaciente"
-  },
-  [16098] = {
-    Title = "Ilusi¾n de tortuga",
-    Description = {
-      "La chica se±al¾ algunos lugares. Busquemos las huellas del arque¾logo Leiphen en la aldea de las tortugas buenas."
-    },
-    Summary = "Soldado valiente"
-  },
-  [16099] = {
-    Title = "Ilusi¾n de tortuga",
-    Description = {
-      "La chica se±al¾ algunos lugares. Busquemos los restos del arque¾logo Leiphen en el Palacio de la Tortuga."
-    },
-    Summary = "Chica debilitada"
-  },
-  [16100] = {
-    Title = "Ilusi¾n de tortuga",
-    Description = {
-      "Hay un lugar mßs donde buscar. Busquemos los restos del arque¾logo Leiphen en el Palacio de la Tortuga."
-    },
-    Summary = "Comprar Leiphen"
-  },
-  [16101] = {
-    Title = "Ilusi¾n de tortuga",
-    Description = {
-      "Elimina 10 de cada tortuga: Batidores Ominosos y Solidificadores y entrega 10 Carnes Estropeadas a Leiphen."
-    },
-    Summary = "10 carnes en mal estado"
-  },
-  [16102] = {
-    Title = "Ilusi¾n de tortuga",
-    Description = {
-      "Elimina 10 de cada tortuga: Calentadores y congeladores siniestros para Leiphen."
-    },
-    Summary = "Regreso a Leiphen"
-  },
-  [16103] = {
-    Title = "Ilusi¾n de tortuga",
-    Description = {
-      "Hablemos con los aldeanos aquÝ, como lo solicit¾ Leiphen."
-    },
-    Summary = "Chica debilitada"
-  },
-  [16104] = {
-    Title = "Ilusi¾n de tortuga",
-    Description = {
-      "Corramos hacia la chica que estß en la entrada de la Aldea de la Buena Tortuga."
-    },
-    Summary = "Habla con la chica"
-  },
-  [16105] = {
-    Title = "Promesa",
-    Description = {
-      "Le hiciste una promesa a Nalin. Regresa ma±ana a la Ilusi¾n de la Tortuga para cumplirla."
-    },
-    Summary = "Vuelve ma±ana"
-  },
-  [16106] = {
-    Title = "No lo olvidarÚ!",
-    Description = {
-      "Vayamos al Palacio de la Tortuga para encontrar al arque¾logo Leiphen para revivir la memoria de la ni±a."
-    },
-    Summary = "Fale com Ierpen no sombrio Guyanggung"
-  },
-  [16107] = {
-    Title = "No lo olvidarÚ!",
-    Description = {
-      "Volvamos a la ni±a junto con el arque¾logo Leiphen."
-    },
-    Summary = "Habla con la chica"
-  },
-  [16108] = {
-    Title = "[Esperar] No lo olvidarÚ!",
-    Description = {
-      "Esta misi¾n es una misi¾n diaria y puedes recibirla nuevamente cuando expire el tiempo de recuperaci¾n."
-    },
-    Summary = "Vuelve ma±ana"
-  },
-  [16109] = {
-    Title = "EspÝritu obsesivo",
-    Description = {
-      "Vamos a cazar 10 asaltantes siniestros y entregar 5 metales corroÝdos."
-    },
-    Summary = "5 Metales corroidos"
-  },
-  [16110] = {
-    Title = "[Esperar] EspÝritu obsesivo",
-    Description = {
-      "Esta misi¾n es una misi¾n diaria y puedes recibirla nuevamente cuando expire el tiempo de recuperaci¾n."
-    },
-    Summary = "Vuelve ma±ana"
-  },
-  [16111] = {
-    Title = "Hambre eterna",
-    Description = {
-      "Elimina 10 de cada tortuga: Batidores Ominosos y Solidificadores y entrega 10 Carnes Podridas a la Dama debilitada."
-    },
-    Summary = "10 Carnes Podridas"
-  },
-  [16112] = {
-    Title = "Hambre eterna",
-    Description = {
-      "Elimina 10 de cada tortuga: Calentadores y Congeladores Ominosos para la Chica debilitada."
-    },
-    Summary = "Chica debilitada"
-  },
-  [16113] = {
-    Title = "[Esperar] Hambre eterna",
-    Description = {
-      "Esta misi¾n es una misi¾n diaria y puedes recibirla nuevamente cuando expire el tiempo de recuperaci¾n."
-    },
-    Summary = "Vuelve ma±ana"
-  },
-  [16114] = {
-    Title = "Ilusi¾n de tortuga",
-    Description = {""},
-    Summary = "Habla con Eilvar"
-  },
-  [16115] = {
-    Title = "Ilusi¾n de tortuga",
-    Description = {""},
-    Summary = "Habla con la chica"
-  },
-  [16116] = {
-    Title = "Ilusi¾n de tortuga",
-    Description = {
-      "Habla con la chica en medio de la solitaria aldea de las tortugas buenas de nuevo."
-    },
-    Summary = "Habla con la chica"
-  },
-  [16117] = {
-    Title = "Ilusi¾n de tortuga",
-    Description = {
-      "Habla con la chica en medio de la solitaria aldea de las tortugas buenas de nuevo."
-    },
-    Summary = "Habla con la chica"
   }
 }

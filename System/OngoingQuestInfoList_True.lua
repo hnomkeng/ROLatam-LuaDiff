@@ -11043,62 +11043,62 @@ QuestInfoList = {
   [5342] = {
     Title = "Ajude-a",
     Description = {
-      "Receber solicitaþÒo para ajudar a ^0000FF Dra. Fresa^000000 a trabalhar sozinha no Bunker Sayhu."
+      "VocÛ recebeu uma solicitaþÒo para ajudar a ^0000FFDra. Fresa^000000 que estß trabalhando sozinha no Bunker."
     }
   },
   [5343] = {
     Title = "N║ de funcionßrios",
     Description = {
-      "Receber solicitaþÒo da Dra. Fresa para ajudar na realizaþÒo de um levantamento atual do n·mero de funcionßrios da ^0000FF Bioengenharia^000000."
+      "Dra. Fresa pediu para vocÛ ajudar na realizaþÒo de um levantamento do n·mero atual de funcionßrios da ^0000FFBioengenharia^000000."
     },
     Summary = "Bioengenheiro"
   },
   [5344] = {
     Title = "N║ de funcionßrios",
     Description = {
-      "Receber solicitaþÒo da Dra. Fresa para ajudar a realizar um levantamento atual do n·mero de funcionßrios dos ^0000FF MecÔnicos^000000."
+      "Dra. Fresa pediu para vocÛ ajudar a realizar um levantamento do n·mero atual de funcionßrios dos ^0000FFMecÔnicos^000000."
     },
     Summary = "MecÔnico"
   },
   [5345] = {
     Title = "N║ de funcionßrios",
     Description = {
-      "Receber solicitaþÒo da Dra. Fresa para ajudar a realizar um levantamento atual do n·mero de funcionßrios dos gerentes de instalaþ§es^0000FF^000000."
+      "Dra. Fresa pediu para vocÛ ajudar a realizar um levantamento do n·mero atual de funcionßrios dos ^0000FFGerentes de instalaþ§es^000000."
     },
     Summary = "Gerente de instalaþ§es"
   },
   [5346] = {
     Title = "N║ de funcionßrios",
     Description = {
-      "Receber solicitaþÒo da Dra. Fresa para ajudar a realizar um levantamento atual do n·mero de funcionßrios dos ^0000FF Chemical Substance Specialists^000000."
+      "Dra. Fresa pediu para vocÛ ajudar a realizar um levantamento do n·mero atual de funcionßrios ^0000FFEspecialistas em substÔncias quÝmicas^000000."
     },
     Summary = "Especialista em substÔncias quÝmicas"
   },
   [5347] = {
     Title = "N║ de funcionßrios",
     Description = {
-      "Receba o n·mero atual de bioengenheiros do Bioengineer Touring. Informe ao ^0000FF Dr. Fresa^000000."
+      "VocÛ recebeu o n·mero atual de bioengenheiros do Bioengenheiro Touring. Informe a ^0000FF Dra. Fresa^000000."
     },
     Summary = "Reportar para a Dra. Fresa"
   },
   [5348] = {
     Title = "N║ de funcionßrios Completo",
     Description = {
-      "Receba o n·mero atual de MecÔnicos do MecÔnico Al. Informe ao ^0000FF Dr. Fresa^000000."
+      "VocÛ recebeu o n·mero atual de MecÔnicos do MecÔnico Al. Informe a ^0000FF Dra. Fresa^000000."
     },
     Summary = "Reportar para a Dra. Fresa"
   },
   [5349] = {
     Title = "N║ de funcionßrios Completo",
     Description = {
-      "Receber o n·mero atual de gerentes de instalaþ§es da RemodelaþÒo do gerente de instalaþ§es. Informe ao ^0000FF Dr. Fresa^000000."
+      "VocÛ recebeu o n·mero atual de gerentes de instalaþ§es do Gerente Remodeling. Informe a ^0000FF Dra. Fresa^000000."
     },
     Summary = "Reportar para a Dra. Fresa"
   },
   [5350] = {
     Title = "N║ de funcionßrios Completo",
     Description = {
-      "Receba o n·mero atual de especialistas em substÔncias quÝmicas do especialista em substÔncias quÝmicas Karsten. Informe ao ^0000FF Dr. Fresa^000000."
+      "VocÛ recebeu o n·mero atual de especialistas em substÔncias quÝmicas do especialista em substÔncias quÝmicas Karsten. Informe a ^0000FF Dra. Fresa^000000."
     },
     Summary = "Reportar para a Dra. Fresa"
   },
@@ -11155,26 +11155,26 @@ QuestInfoList = {
   [5359] = {
     Title = "Colheita de uvas",
     Description = {
-      "Aparentemente, uma Grape Box pode conter 30 cachos de uvas. Colha 30 cachos de uvas frescas na fazenda."
+      "Aparentemente, uma Caixa de uvas pode conter 30 cachos de uvas. Colha 30 cachos de uvas frescas na fazenda."
     },
     Summary = "30 cachos de uvas frescas"
   },
   [5360] = {
     Title = "Entrega de Uvas",
     Description = {
-      "Entregue uvas recÚm-colhidas ao ^0000ff MecÔnico Al^000000."
+      "Entregue uvas recÚm-colhidas ao ^0000ffMecÔnico Al^000000."
     }
   },
   [5361] = {
     Title = "Entrega de Uvas",
     Description = {
-      "Entregar uvas recÚm-colhidas para ^0000ff Gerente de instalaþ§es RemodelaþÒo^000000."
+      "Entregar uvas recÚm-colhidas para ^0000ffGerente de instalaþ§es Remodeling^000000."
     }
   },
   [5362] = {
     Title = "Entrega de Uvas",
     Description = {
-      "Entregue uvas recÚm-colhidas para ^0000ff Chemical Substance Specialist Karsten^000000."
+      "Entregue uvas recÚm-colhidas para o ^0000ffQuÝmico Karsten^000000."
     }
   },
   [5363] = {
@@ -11187,13 +11187,13 @@ QuestInfoList = {
   [5364] = {
     Title = "Convuls§es SupressÒo do paciente",
     Description = {
-      "Receber solicitaþÒo da enfermeira para suprimir pacientes na clÝnica temporßria que estejam apresentando sintomas de convulsÒo."
+      "A enfermeira solicitou que vocÛ suprima pacientes na clÝnica temporßria que estejam apresentando sintomas de convulsÒo."
     }
   },
   [5365] = {
     Title = "NotÝcias urgentes",
     Description = {
-      "Informe ao ^0000FF Dr. Fresa ^000000 sobre a notÝcia do aumento drßstico de pacientes com sintomas de convulsÒo."
+      "Informe a ^0000FFDra. Fresa ^000000 sobre a notÝcia do aumento drßstico de pacientes com sintomas de convulsÒo."
     }
   },
   [5366] = {
@@ -11206,7 +11206,7 @@ QuestInfoList = {
   [5367] = {
     Title = "Necessidades de transporte",
     Description = {
-      "Recebeu a solicitaþÒo para transportar mercadorias para a Zona Z-2, entÒo vß atÚ ^0000FFMechanic Al^000000 e entregue uma mensagem dizendo,"
+      "VocÛ recebeu a solicitaþÒo para transportar mercadorias para a Zona Z-2, entÒo vß atÚ ^0000FFMecÔnico Al^000000 e entregue uma mensagem dizendo, \"NÒo temos materiais, parem de construir mais mßquinas!\""
     },
     Summary = "Seus idiotas est·pidos!!! NÒo hß material suficiente, entÒo parem de fazer tantas mßquinas!!!"
   },
@@ -35084,6 +35084,13 @@ QuestInfoList = {
     },
     Summary = "Enviando saudaþ§es a Wuhari."
   },
+  [14124] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "AlguÚm roubou os animais que Jade criava ontem Ó noite. Vß investigar o que aconteceu e retorne."
+    },
+    Summary = "Para a Casa do Jade"
+  },
   [14125] = {
     Title = "Levantamento da ßrea",
     Description = {
@@ -35118,6 +35125,13 @@ QuestInfoList = {
       "Wuhari recebeu a pesquisa, mas informou que isso pode levar algum tempo para ser analisado. Tente falar com ele novamente mais tarde. NÒo atrapalhe alguÚm que estß estudando."
     },
     Summary = "Tempo para anßlise."
+  },
+  [14132] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Primeiro, devemos investigar o curral onde os animais estavam."
+    },
+    Summary = "Investigar o Curral"
   },
   [14133] = {
     Title = "Outro favor",
@@ -35733,6 +35747,574 @@ QuestInfoList = {
     },
     Summary = "DÛ o chapÚu do chefe"
   },
+  [14292] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "O curral foi vandalizado por humanos. Entre as pegadas ca¾ticas de animais no chÒo, pegadas humanas incomuns sÒo visÝveis. Vamos seguir o rastro."
+    },
+    Summary = "VestÝgios Suspeitos"
+  },
+  [14293] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Felizmente, as marcas suspeitas levam firmemente para o nordeste. Vamos seguir o rastro."
+    },
+    Summary = "VestÝgios Suspeitos"
+  },
+  [14294] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Pegadas sÒo claramente visÝveis na lama. Vamos continuar seguindo o rastro."
+    },
+    Summary = "VestÝgios Suspeitos"
+  },
+  [14295] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Junto com as pegadas suspeitas, encontrei um recibo emitido de Al De Baran. Talvez possamos encontrar pistas sobre o culpado em Al De Baran?"
+    },
+    Summary = "Para Al De Baran"
+  },
+  [14296] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Essas pegadas lamacentas devem ser do Frank! Onde ele estß? Provavelmente reparando barcos no cais leste! Diga que estou indo atrßs dele."
+    },
+    Summary = "Encontrar Frank"
+  },
+  [14297] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Para onde mais um estranho novo na cidade iria no meio da noite? Vß para a Estalagem."
+    },
+    Summary = "Para a Estalagem"
+  },
+  [14298] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "O dono da Estalagem foi muito firme. Parece difÝcil obter informaþ§es dele. Vamos encontrar outra pessoa que possa ajudar."
+    },
+    Summary = "Olhar ao Redor"
+  },
+  [14299] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Se quer saber o paradeiro da pessoa suspeita, junte ingredientes para uma soluþÒo facial boa para rugas para mim: 1x ┴lcool, 22x Garra de Harpia, 33x Tranþa Curta, 44x Coral, 55x Chifre de Bode. Quantidades exatas!"
+    },
+    Summary = "Fazer o Recado"
+  },
+  [14300] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "A pessoa que vocÛ procura estß no 2║ andar. Ela provavelmente acabou de acordar, entÒo vß verificar."
+    },
+    Summary = "Ir ao 2║ Andar"
+  },
+  [14301] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Finalmente encontramos o culpado, mas ele estß mal. NÒo pode se mover atÚ o carro de transporte chegar, entÒo primeiro relate ao Mestre do ClÒ."
+    },
+    Summary = "Mestre do ClÒ Real"
+  },
+  [14302] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "O Sr. Jade parece suspeito. Precisamos revisitar sua casa e investigar secretamente... Vß."
+    },
+    Summary = "Reinvestigar Jade"
+  },
+  [14303] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "O Sr. Jade estß ocupado com papelada. Aproveite para investigar. Aquela pessoa suspeita em Al De Baran disse que deu algo estranho aos animais. Procure primeiro o comedouro."
+    },
+    Summary = "Investigar Arredores"
+  },
+  [14304] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Encontrei documentos suspeitos em um comedouro perto do curral. Despeþa-se do Sr. Jade e relate ao Mestre do ClÒ."
+    },
+    Summary = "Mestre do ClÒ Real"
+  },
+  [14305] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Este documento parece conter uma receita de uma droga misturada na raþÒo... Hß uma especialista em Juno, entÒo mostre a ela? O nome dela Ú Aidiya. Ouvi dizer que estß em alguma escola."
+    },
+    Summary = "Para Juno"
+  },
+  [14306] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Para identificar o que foi dado aos animais, precisamos de amostras. Estamos sem materiais. Colete do documento: 20x Canino Venenoso, 20x Poeira T¾xica, 80x BactÚrias, 3x Menta, 1x Erva Amarga."
+    },
+    Summary = "Traga os itens"
+  },
+  [14307] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Para identificar o que foi dado aos animais, precisamos de amostras. Estamos sem materiais. Colete do documento: 20x Canino Venenoso, 20x Poeira T¾xica, 80x BactÚrias, 3x Menta, 1x Erva Amarga e 1x Runa Sombria."
+    },
+    Summary = "Traga os itens"
+  },
+  [14308] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "A droga misturada na raþÒo fez os animais se comportarem anormalmente. Relate ao Mestre do ClÒ."
+    },
+    Summary = "Mestre do ClÒ Real"
+  },
+  [14309] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Precisamos ouvir por que o Sr. Jade deu essa droga. Entregue uma intimaþÒo ao Sr. Jade."
+    },
+    Summary = "Entregar IntimaþÒo"
+  },
+  [14310] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Agora que o Sr. Jade foi intimado, volte a Al De Baran e traga o ladrÒo."
+    },
+    Summary = "Para Al De Baran"
+  },
+  [14311] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "O culpado desapareceu enquanto eu estava brevemente fora. Relate ao Mestre."
+    },
+    Summary = "Mestre do ClÒ Real"
+  },
+  [14312] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Devemos eliminar remanescentes da \"Frente de LibertaþÒo Rune-Midgard\" escondidos em Izlude para parar seus planos!!"
+    },
+    Summary = "Eliminar Remanescentes"
+  },
+  [14313] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Todos os remanescentes da \"Frente de LibertaþÒo Rune-Midgard\" foram eliminados. Volte e relate Ó Mestra do ClÒ Espada Escarlate."
+    },
+    Summary = "Mestre do ClÒ Real"
+  },
+  [14314] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Zo¾logos precisam de Novus para pesquisa de vacinas. Capture cerca de 70. AlÚm disso, derrote 30 Anacondas Ferozes e 100 Gallions."
+    },
+    Summary = "Pegue 70 Novus"
+  },
+  [14315] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Zo¾logos precisam de Tatacho para pesquisa de vacinas. Capture cerca de 70. AlÚm disso, derrote 150 Pinguicula Sombria."
+    },
+    Summary = "Pegue 70 Tatacho"
+  },
+  [14316] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Estou exausto ap¾s terminar o pedido. Preciso descansar cerca de uma semana."
+    },
+    Summary = "Volte em 1 semana",
+    CoolTimeQuest = 1
+  },
+  [14317] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Entregue a caixa pequena ao Sr. Otßvio na Estalagem Hugel, a caixa leve ao Sr. Slider atrßs do hotel em Einbroch e os documentos ao Ciclano no Vale Abissal. Comece pelo pr¾ximo Vale Abissal. Forþa!"
+    },
+    Summary = "Para Ciclano"
+  },
+  [14318] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Considere isto um pedido e traga: 35x Tubo FlexÝvel, 77x Parafuso Enferrujado, 20x Garras de Harpia, 1x Aþo. Rßpido. Estou com pressa. SÚrio."
+    },
+    Summary = "Traga os itens"
+  },
+  [14319] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Entregue esta caixa ao Fulano em Einbroch. Manuseie com cuidado."
+    },
+    Summary = "Para Fulano"
+  },
+  [14320] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Recebi as duas caixas, mas faltam peþas. Colete: 1x Musco Encharcado, 3x LÝquidos Fluorescentes, 35x Gases T¾xicos, 20x Parafusos Enferrujados. Pode fazer isso?"
+    },
+    Summary = "Traga os itens"
+  },
+  [14321] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Entregue esta caixa ao Sr. Link em Lighthalzen. Ele trabalha em um lugar cheio de quÝmicos. Cuidado para nÒo sacudir."
+    },
+    Summary = "Para Lighthalzen"
+  },
+  [14322] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Ah, quem montou isso devia estar com pressa. Muitas peþas faltam. Traga: 99x BactÚrias, 1x Areia Estelar de Bruxa, 2x Martelos de Oridecon."
+    },
+    Summary = "Traga os itens"
+  },
+  [14323] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Ah, faltam muitas peþas. Traga: 99x BactÚrias, 1x Areia Estelar de Bruxa, 2x Martelos de Oridecon e 33 Placa de Ferro Usada. Muito, nÚ?"
+    },
+    Summary = "Traga os itens"
+  },
+  [14324] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Pode entregar esta caixa ao Sr. Otßvio em Hugel? Eu iria, mas... Ouvi dizer que estß na Estalagem ultimamente."
+    },
+    Summary = "Para Hugel"
+  },
+  [14325] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "O Sr. Otßvio em Hugel me atacou de repente, mas falhou e fugiu. Volte e relate ao Mestre do ClÒ."
+    },
+    Summary = "Mestre do ClÒ Real"
+  },
+  [14326] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Vß para Izlude e elimine remanescentes da \"Frente de LibertaþÒo Rune-Midgard\"! Devemos parar seus planos!"
+    },
+    Summary = "Eliminar Remanescentes"
+  },
+  [14327] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Todos os remanescentes da \"Frente de LibertaþÒo Rune-Midgard\" foram eliminados. Relate ao Mestre do ClÒ Balestra Esmeralda."
+    },
+    Summary = "Mestre do ClÒ Real"
+  },
+  [14328] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Ouvi que o manuscrito estava enfiado em um Ursinho. Recupere todas as 111 Manuscrito Feito de Pus."
+    },
+    Summary = "111 Manuscritos"
+  },
+  [14329] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Ouvi que Lichterns Azuis em uma torre noutra dimensÒo levaram o manuscrito perdido. Recupere todas as 111x Manuscrito Feito de Pus."
+    },
+    Summary = "111 Manuscritos"
+  },
+  [14330] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Relatos dizem que as muralhas de Prontera foram danificadas. Comece inspecionando a seþÒo sul pr¾xima. O Mestre Pedreiro pediu isso, entÒo inspecione minuciosamente e relate."
+    },
+    Summary = "Inspecionar Muralhas"
+  },
+  [14331] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Encontrei um ponto danificado. Investigue outras ßreas."
+    },
+    Summary = "Inspecionar Muralhas"
+  },
+  [14332] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Encontrei um ponto danificado. Agora inspecione as muralhas leste."
+    },
+    Summary = "Inspecionar Muralhas"
+  },
+  [14333] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Encontrei um ponto danificado. Investigue outras ßreas."
+    },
+    Summary = "Inspecionar Muralhas"
+  },
+  [14334] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Encontrei um ponto danificado. Agora inspecione as muralhas oeste."
+    },
+    Summary = "Inspecionar Muralhas"
+  },
+  [14335] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Encontrei um ponto danificado. Investigue outras ßreas."
+    },
+    Summary = "Inspecionar Muralhas"
+  },
+  [14336] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Todos os pontos danificados encontrados. Volte e relate ao Mestre."
+    },
+    Summary = "Mestre do ClÒ Real"
+  },
+  [14337] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Explique os danos da muralha ao Mestre Pedreiro. Se ele precisar de ajuda, assista o mßximo possÝvel."
+    },
+    Summary = "Ao Mestre Pedreiro"
+  },
+  [14338] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Talvez precisemos reparar as muralhas, entÒo junte pedras: 99x Coraþ§es de Pedra, 1x Pedra Brilhante, 99x Pedras, 3 Diamantes de 3 Quilates."
+    },
+    Summary = "Pedras Necessßrias"
+  },
+  [14339] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Talvez precisemos reparar as muralhas, entÒo junte pedras: 99x Coraþ§es de Pedra, 1x Pedra Brilhante, 99x Pedras, 3 Diamantes de 3 Quilates, 50x Fragmentos de Pedra."
+    },
+    Summary = "Pedras Necessßrias"
+  },
+  [14340] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Hß um quÝmico em Al De Baran que manuseia poþ§es bem. Vß pegar um neutralizador."
+    },
+    Summary = "Para Al De Baran"
+  },
+  [14341] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Junte ingredientes para o neutralizador: 1x Garrafa de PoþÒo, 123x LÝquidos Pegajosos, 5x CoraþÒo Flamejante. Rßpido, por favor? O Mestre Pedreiro pode me jogarùespera, nÒo."
+    },
+    Summary = "Traga os itens"
+  },
+  [14342] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Junte ingredientes para o neutralizador: 1x Garrafa de PoþÒo, 123x LÝquidos Pegajosos, 5x CoraþÒo Flamejante, 3x Runas Sombrias, 13x Esporo Venenoso. Rßpido, por favor? O Mestre Pedreiro pode me jogarùespera, nÒo."
+    },
+    Summary = "Traga os itens"
+  },
+  [14343] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Entregue este neutralizador superforte ao Mestre Pedreiro. Ele saberß usar."
+    },
+    Summary = "Ao Mestre Pedreiro"
+  },
+  [14344] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Para rastrear o culpado, precisamos de mais duas coisas: 1x ┴lcool e 3x Rubi Amaldiþoado. NÒo pergunte, apenas traga."
+    },
+    Summary = "Traga os itens"
+  },
+  [14345] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Borrifar este neutralizador superforte nos pontos danificados. Reaþ§es ocorrerÒo - use isso para rastrear e capturar o culpado."
+    },
+    Summary = "Borrifar"
+  },
+  [14346] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Ap¾s borrifar, algo apareceu na fumaþa. Borrife outras ßreas."
+    },
+    Summary = "Borrifar"
+  },
+  [14347] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Ap¾s borrifar, algo apareceu na fumaþa. Borrife outras ßreas."
+    },
+    Summary = "Borrifar"
+  },
+  [14348] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Ap¾s borrifar, algo apareceu na fumaþa. Borrife outras ßreas."
+    },
+    Summary = "Borrifar"
+  },
+  [14349] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Ap¾s borrifar, algo apareceu na fumaþa. Borrife outras ßreas."
+    },
+    Summary = "Borrifar"
+  },
+  [14350] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Ap¾s borrifar, algo apareceu na fumaþa. Borrife outras ßreas."
+    },
+    Summary = "Borrifar"
+  },
+  [14351] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "O culpado parece vinculado a Sundar Mandar. Investigue lß."
+    },
+    Summary = "Para Sundar Mandar"
+  },
+  [14352] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Vi pessoas suspeitas indo para o Farol Pharos recentemente. Tente buscar lß."
+    },
+    Summary = "Para o Farol Pharos"
+  },
+  [14353] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Kim pode saber algo. Essa mulher sabe tudo sobre as pessoas aqui. Vß para o sul."
+    },
+    Summary = "Encontre Kim"
+  },
+  [14354] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Estranho? Nunca ouvi sobre guardas em Sundar Mandar! Aquele guarda Ú suspeito. Encontre-o novamente. Acho que pode ser o culpado!"
+    },
+    Summary = "Ao Guarda"
+  },
+  [14355] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "A pessoa suspeita fugiu. Informe a situaþÒo ao Mestre do ClÒ."
+    },
+    Summary = "Mestre do ClÒ Real"
+  },
+  [14356] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Elimine remanescentes da \"Frente de LibertaþÒo Rune-Midgard\" escondidos em Izlude para detÛ-los!"
+    },
+    Summary = "Para Izlude"
+  },
+  [14357] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Todos os remanescentes da \"Frente de LibertaþÒo Rune-Midgard\" foram eliminados. Relate ao Mestre do ClÒ Cajado Celeste."
+    },
+    Summary = "Mestre do ClÒ Real"
+  },
+  [14358] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "O Mestre Pedreiro solicitou pedras para reparos: 100x Coraþ§es de Pedra, 3x Diamantes de 1 Quilate, 133x Pedras RÝdigas. Pedras RÝdigas sÒo obtidas de G¾lems Estalßctiticos. Garanta quantidades exatas."
+    },
+    Summary = "Coletar Pedras"
+  },
+  [14359] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "O Mestre Pedreiro solicitou pedras para reparos: 150x Coraþ§es de Pedra, 3x Diamantes de 1 Quilate, 133x Pedras RÝdigas. Pedras RÝdigas sÒo obtidas de G¾lems de Bradium. Garanta quantidades exatas."
+    },
+    Summary = "Coletar Pedras"
+  },
+  [14360] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Uma casa em Morroc relatou fantasmas. Investigue e resolva."
+    },
+    Summary = "Para Morroc"
+  },
+  [14361] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Investiguei a casa assombrada em Morroc mas nÒo encontrei nada conclusivo. Volte e informe ao Mestre."
+    },
+    Summary = "Mestre do ClÒ Real"
+  },
+  [14362] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Investigue a fundo na Terra dos Mortos. No caminho, pare em Comodo para encontrar um neto que perdeu as ·ltimas palavras do av¶ e cumpra seu pedido."
+    },
+    Summary = "Para Comodo"
+  },
+  [14363] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Vß para a Terra dos Mortos, encontre meu av¶, ouþa o resto de suas ·ltimas palavras e retorne. ╔ urgente, por favor apresse."
+    },
+    Summary = "Para Nifflheim"
+  },
+  [14364] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Enterrei minha heranþa em sete pontos na praia de Comodo. Cave-os e entregue Ó gentil garota da floricultura em Morroc."
+    },
+    Summary = "Hora de cavar"
+  },
+  [14365] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Cavei uma Gema Vermelha. Cave em outro lugar."
+    },
+    Summary = "Tesouro obtido"
+  },
+  [14366] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Cavei uma Gema Escarlate. Cave em outro lugar."
+    },
+    Summary = "Tesouro obtido"
+  },
+  [14367] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Cavei uma Gema Amarela. Cave em outro lugar."
+    },
+    Summary = "Tesouro obtido"
+  },
+  [14368] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Cavei uma Gema Verde. Cave em outro lugar."
+    },
+    Summary = "Tesouro obtido"
+  },
+  [14369] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Cavei uma Gema Transparente. Cave em outro lugar."
+    },
+    Summary = "Tesouro obtido"
+  },
+  [14370] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Cavei uma Gema Azul. Cave em outro lugar."
+    },
+    Summary = "Tesouro obtido"
+  },
+  [14371] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Cavei uma Gema P·rpura. Entregue todas as sete gemas Ó garota em Morroc. Como nÒo sei quem Ú, volte a Morroc e pergunte. Quem poderia ser?"
+    },
+    Summary = "Para Morroc"
+  },
+  [14372] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Quero fazer um buquÛ para o av¶ Edward em agradecimento. Preciso de 3x Rosa Eterna, 1x Flor Cantante, 1x Flor das Ilus§es, 1x Semente de Yggdrasil e 15x Grama para ficar bonito."
+    },
+    Summary = "Traga os itens"
+  },
   [14373] = {
     Title = "Encontrando o escultor",
     Description = {
@@ -35939,6 +36521,97 @@ QuestInfoList = {
     },
     Summary = "Traga Chocoins para Bitta em Einbroch"
   },
+  [14405] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Entregue este buquÛ ao av¶ Edward."
+    },
+    Summary = "Para Nifflheim"
+  },
+  [14406] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Houve um grande alvoroþo no cemitÚrio recentemente. Depois ouviram-se gemidos estranhos. Investigue lß por pistas."
+    },
+    Summary = "Para o CemitÚrio"
+  },
+  [14407] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Encontre alguÚm que possa quebrar esta maldiþÒo que me prende! Ouvi \"Lutie\" mencionado vagamente, mas nÒo tenho certeza. AlguÚm aqui deve saber onde! Encontre rßpido! Apresse-se!"
+    },
+    Summary = "Encontrar o XamÒ"
+  },
+  [14408] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Quebrar a maldiþÒo requer um sacrifÝcio. Traga: 14x ┴gua Benta, 3x Rubi Amaldiþoado, 13x Pergaminho Antigo e 1x CoraþÒo Glacial."
+    },
+    Summary = "Traga os itens"
+  },
+  [14409] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Quebrar a maldiþÒo requer um sacrifÝcio. Traga: 14x ┴gua Benta, 3x Rubi Amaldiþoado, 13x Pergaminho Antigo, 1x Faca Enferrujada e 1x CoraþÒo Incandescente."
+    },
+    Summary = "Traga os itens"
+  },
+  [14410] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "A maldiþÒo estß quebrada. Realize seu desejo."
+    },
+    Summary = "MaldiþÒo Quebrada"
+  },
+  [14411] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "A maldiþÒo no invocador estß quebrada, mas fantasmas invocados nÒo podem ser desfeitos. Volte para Lily em Morroc e explicar."
+    },
+    Summary = "Para Morroc"
+  },
+  [14412] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "O amigo de Garon Ú suspeito. Encontre-o e investigue."
+    },
+    Summary = "Para Comodo"
+  },
+  [14413] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Informe ao Mestre sobre o que ouviu na Terra dos Mortos e o amigo fugido de Garon."
+    },
+    Summary = "Mestre do ClÒ Real"
+  },
+  [14414] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Elimine remanescentes da \"Frente de LibertaþÒo Rune-Midgard\" escondidos em Izlude para detÛ-los!"
+    },
+    Summary = "Eliminar Remanescentes"
+  },
+  [14415] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Todos os remanescentes da \"Frente de LibertaþÒo Rune-Midgard\" foram eliminados. Relate ao Mestre do ClÒ Maþa Dourada."
+    },
+    Summary = "Mestre do ClÒ Real"
+  },
+  [14416] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Para pesquisar como os mortos sÒo invocados, capture Ludes. Cerca de 70 bastam. AlÚm disso, derrote 50 Injustiþado Feroz."
+    },
+    Summary = "Pegue 30 Ludes"
+  },
+  [14417] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Para pesquisar como os mortos sÒo invocados, capture Andarilho. Cerca de 30 bastam. AlÚm disso, derrote 50 Loli Ruri ┴gil."
+    },
+    Summary = "Pegue 30 Andarilhos"
+  },
   [14450] = {
     Title = "",
     Description = {""},
@@ -36018,6 +36691,30 @@ QuestInfoList = {
     Title = "",
     Description = {""},
     Summary = ""
+  },
+  [14466] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Estou exausto ap¾s terminar o pedido. Preciso descansar cerca de uma semana."
+    },
+    Summary = "Volte em 1 semana",
+    CoolTimeQuest = 1
+  },
+  [14467] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Estou exausto ap¾s terminar o pedido. Preciso descansar cerca de uma semana."
+    },
+    Summary = "Volte em 1 semana",
+    CoolTimeQuest = 1
+  },
+  [14468] = {
+    Title = "Esconderijo dos Remanescentes",
+    Description = {
+      "Estou exausto ap¾s terminar o pedido. Preciso descansar cerca de uma semana."
+    },
+    Summary = "Volte em 1 semana",
+    CoolTimeQuest = 1
   },
   [14469] = {
     Title = "Sondando os Walter",
@@ -38686,107 +39383,155 @@ QuestInfoList = {
     },
     Summary = "Retorne Ó Engel depois que o cron¶metro expirar."
   },
-  [16101] = {
-    Title = "Academia Kiel Hyre",
+  [16096] = {
+    Title = "IlusÒo da Tartaruga",
     Description = {
-      "Leve a garrafa de Culinary Wine para Lecollane na Kiel Hyre Academy, a sudeste daqui."
-    }
+      "Enquanto conversava com Eilvar, vocÛ chegou a um lugar desconhecido. Converse com a garota na sua frente."
+    },
+    Summary = "Fale com a Garota"
+  },
+  [16097] = {
+    Title = "IlusÒo da Tartaruga",
+    Description = {
+      "A garota apontou alguns lugares. Vamos encontrar os rastros do Arque¾logo Leiphen na vila das boas tartarugas."
+    },
+    Summary = "Homem Impaciente"
+  },
+  [16098] = {
+    Title = "IlusÒo da Tartaruga",
+    Description = {
+      "A garota apontou alguns lugares. Vamos encontrar os rastros do Arque¾logo Leiphen na vila das boas tartarugas."
+    },
+    Summary = "Soldado bravo"
+  },
+  [16099] = {
+    Title = "IlusÒo da Tartaruga",
+    Description = {
+      "A garota apontou alguns lugares. Vamos encontrar os vestÝgios do Arque¾logo Leiphen no Palßcio Tartaruga."
+    },
+    Summary = "Moþa debilitada"
+  },
+  [16100] = {
+    Title = "IlusÒo da Tartaruga",
+    Description = {
+      "Hß mais um lugar para procurar. Vamos encontrar os vestÝgios do Arque¾logo Leiphen no Palßcio Tartaruga."
+    },
+    Summary = "Ache Leiphen"
+  },
+  [16101] = {
+    Title = "IlusÒo da Tartaruga",
+    Description = {
+      "Elimine 10 de cada tartaruga: Batedores e Solidificadores Ominosos e entregue 10 Carnes Estragadas para Leiphen."
+    },
+    Summary = "10 Carnes Estragadas"
   },
   [16102] = {
-    Title = "Academia Kiel Hyre",
+    Title = "IlusÒo da Tartaruga",
     Description = {
-      "A Elly pode precisar de ajuda. Fale com ela."
-    }
+      "Elimine 10 de cada tartaruga: Aquecedores e Congeladores Ominosos para Leiphen."
+    },
+    Summary = "Volte a Leiphen"
   },
   [16103] = {
-    Title = "Academia Kiel Hyre",
+    Title = "IlusÒo da Tartaruga",
     Description = {
-      "Encontre os ingredientes para os biscoitos de Elly. VocÛ pode obter vinho em um pub em Juno, Cacaos em Yoyos e farinha e ovos no Toast Stand em Juno."
-    }
+      "Vamos falar com os aos alde§es aqui, conforme solicitado por Leiphen."
+    },
+    Summary = "Moþa debilitada"
   },
   [16104] = {
-    Title = "Academia Kiel Hyre",
+    Title = "IlusÒo da Tartaruga",
     Description = {
-      "Vß atÚ o Windmill Owner (proprietßrio do moinho de vento) nas favelas de Lighthalzen para obter farinha e ovos para Cezu."
-    }
+      "Vamos correr para a garota na entrada da Vila das Boas Tartarugas."
+    },
+    Summary = "Fale com a Garota"
   },
   [16105] = {
-    Title = "Academia Kiel Hyre",
+    Title = "Promessa",
     Description = {
-      "Leve o pacote de entrega de volta para Cezu em Juno."
-    }
+      "VocÛ fez uma promessa para Nalin. Volte amanhÒ na IlusÒo da Tartaruga para cumprir com o que prometeu."
+    },
+    Summary = "Volte amanhÒ"
   },
   [16106] = {
-    Title = "Academia Kiel Hyre",
+    Title = "NÒo vou esquecer!",
     Description = {
-      "Leve o pacote de entrega para Elly na Kiel Hyre Academy."
-    }
+      "Vamos ao Palßcio das Tartarugas para encontrar o Arque¾logo Leiphen para reviver a mem¾ria da garota."
+    },
+    Summary = "Fale com Ierpen no sombrio Guyanggung"
   },
   [16107] = {
-    Title = "Academia Kiel Hyre",
+    Title = "NÒo vou esquecer!",
     Description = {
-      "Aguarde atÚ que Elly termine de assar os biscoitos."
-    }
+      "Vamos voltar para a garota junto com o Arque¾logo Leiphen."
+    },
+    Summary = "Fale com a Garota"
   },
   [16108] = {
-    Title = "Academia Kiel Hyre",
+    Title = "[Espera] NÒo vou esquecer!",
     Description = {
-      "Leve os biscoitos bem assados para o av¶ de Elly na casa de campo de Kiel Hyre, um mapa ao norte da Academia."
-    }
+      "Esta missÒo Ú uma missÒo dißria, e vocÛ pode recebÛ-la novamente quando o tempo de espera expirar."
+    },
+    Summary = "Volte amanhÒ"
   },
   [16109] = {
-    Title = "Academia Kiel Hyre",
+    Title = "EspÝrito Obsessor",
     Description = {
-      "Volte para Elly e diga a ela que o av¶ nÒo estß na casa de campo."
-    }
+      "Vamos caþar 10 Agressores Ominosos e entregar 5 Metais CorroÝdos."
+    },
+    Summary = "5 Metais CorroÝdos"
   },
   [16110] = {
-    Title = "Academia Kiel Hyre",
+    Title = "[Espera] EspÝrito Obsessor",
     Description = {
-      "Volte para a casa de campo de Kiel Hyre novamente. Elly lhe deu uma Cottage Key que deve permitir que vocÛ passe por uma porta lateral."
-    }
+      "Esta missÒo Ú uma missÒo dißria, e vocÛ pode recebÛ-la novamente quando o tempo de espera expirar."
+    },
+    Summary = "Volte amanhÒ"
   },
   [16111] = {
-    Title = "Academia Kiel Hyre",
+    Title = "Fome eterna",
     Description = {
-      "VocÛ encontra uma nota dobrada que diz '6 Forward, 3 Left, 3 Forward, 4 Left'."
-    }
+      "Elimine 10 de cada tartaruga: Batedores e Solidificadores Ominosos e entregue 10 Carnes Estragadas para a Moþa debilitada."
+    },
+    Summary = "10 Carnes Estragadas"
   },
   [16112] = {
-    Title = "Academia Kiel Hyre",
+    Title = "Fome eterna",
     Description = {
-      "VocÛ encontrou uma carta endereþada Ó Elly. ╔ melhor levß-la de volta para ela."
-    }
+      "Elimine 10 de cada tartaruga: Aquecedores e Congeladores Ominosos para a Moþa debilitada."
+    },
+    Summary = "Moþa debilitada"
   },
   [16113] = {
-    Title = "Academia Kiel Hyre",
+    Title = "[Espera] Fome eterna",
     Description = {
-      "Continue sua conversa com Elly."
-    }
+      "Esta missÒo Ú uma missÒo dißria, e vocÛ pode recebÛ-la novamente quando o tempo de espera expirar."
+    },
+    Summary = "Volte amanhÒ"
   },
   [16114] = {
-    Title = "Academia Kiel Hyre",
-    Description = {
-      "Procure no escrit¾rio da casa de campo sinais que o av¶ de Elly possa ter deixado para ela. Vß para o dormit¾rio atrßs da Kiel Hyre Academy quando encontrar algo no chalÚ."
-    }
+    Title = "IlusÒo da Tartaruga",
+    Description = {""},
+    Summary = "Fale com Eilvar"
   },
   [16115] = {
-    Title = "Academia Kiel Hyre",
-    Description = {
-      "VocÛ encontrou um pedaþo de papel em branco com o selo da FundaþÒo Kiel Hyre. ╔ estranho que haja um selo em um papel em branco..."
-    }
+    Title = "IlusÒo da Tartaruga",
+    Description = {""},
+    Summary = "Fale com a Garota"
   },
   [16116] = {
-    Title = "Academia Kiel Hyre",
+    Title = "IlusÒo da Tartaruga",
     Description = {
-      "VocÛ encontrou um estranho poema usando a tinta azul no papel em branco escrito pelo ^0000fflittle lost devil^000000. O que ele poderia significar?"
-    }
+      "Fale com a garota no meio da solitßria vila das boas tartarugas novamente."
+    },
+    Summary = "Fale com a Garota"
   },
   [16117] = {
-    Title = "Mapa do mundo misterioso",
+    Title = "IlusÒo da Tartaruga",
     Description = {
-      "Encontre algo que ajude a soltar o mapa da parede."
-    }
+      "Fale com a garota no meio da solitßria vila das boas tartarugas novamente."
+    },
+    Summary = "Fale com a garota"
   },
   [16118] = {
     Title = "Poema oculto",
@@ -41467,35 +42212,35 @@ NpcSpr = [=[4_M_RACHMAN1]]
   [17307] = {
     Title = "Festival do MacarrÒo",
     Description = {
-      "<NAVI>[Gerente do Festival]<INFO>lasagna,83,197,0,101,0,</INFO></NAVI> levarß seu personagem para a caverna do mar de Lasagna!"
+      "<NAVI>[Diretor do Festival]<INFO>malangdo,133,168,0,101,0,</INFO></NAVI> levarß seu personagem para a caverna do mar de Lasagna!"
     },
-    Summary = "Fale com o Gerente do Festival"
+    Summary = "Fale com o Ocean¾grafo"
   },
   [17308] = {
     Title = "Festival do MacarrÒo",
     Description = {
-      "Traga 1 Alm¶ndega, 1 MacarrÒo Gravatinha, 1 MacarrÒo Parafuso e 1 MacarrÒo Espaguete para o <NAVI>[Ocean¾grafo]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>"
+      "Traga 1 Alm¶ndega, 1 MacarrÒo Gravatinha, 1 MacarrÒo Parafuso e 1 MacarrÒo Espaguete para o <NAVI>[Diretor do Festival]<INFO>malangdo,133,168,0,101,0,</INFO></NAVI>"
     },
     Summary = "Traga os itens"
   },
   [17309] = {
     Title = "Cozinhar MacarrÒo",
     Description = {
-      "Encontre o <NAVI>[Chef Orochi]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI> no Festival do MacarrÒo."
+      "Encontre o <NAVI>[Chef Orochi]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI> no Festival do MacarrÒo."
     },
     Summary = "Chef Orochi"
   },
   [17310] = {
     Title = "Colheita de Melancia",
     Description = {
-      "Encontre o <NAVI>[Fazendeiro Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI> no Festival do MacarrÒo."
+      "Encontre o <NAVI>[Fazendeiro Rami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI> no Festival do MacarrÒo."
     },
     Summary = "Fazendeiro Rami"
   },
   [17311] = {
     Title = "MacarrÒo Estragado",
     Description = {
-      "Encontre o <NAVI>[Marinheiro Domi]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI> no Festival do MacarrÒo."
+      "Encontre o <NAVI>[Marinheiro Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI> no Festival do MacarrÒo."
     },
     Summary = "Marinheiro Domi"
   },
@@ -41510,42 +42255,42 @@ NpcSpr = [=[4_M_RACHMAN1]]
   [17313] = {
     Title = "Cozinhar MacarrÒo",
     Description = {
-      "<NAVI>[Chef Orochi]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI> pediu 5 MacarrÒo Gravatinha, 5 MacarrÒo Espaguete, 5 MacarrÒo Parafuso e 3 Alm¶ndegas."
+      "<NAVI>[Chef Orochi]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI> pediu 5 MacarrÒo Gravatinha, 5 MacarrÒo Espaguete, 5 MacarrÒo Parafuso e 3 Alm¶ndegas."
     },
     Summary = "Traga os itens"
   },
   [17314] = {
     Title = "[Espera] Cozinhar MacarrÒo",
     Description = {
-      "VocÛ concluiu a missÒo dißria de hoje. Ap¾s o amanhecer, vocÛ pode visitar <NAVI>[Chef Orochi]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI> novamente."
+      "VocÛ concluiu a missÒo dißria de hoje. Ap¾s o amanhecer, vocÛ pode visitar <NAVI>[Chef Orochi]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI> novamente."
     },
     Summary = "Reinicio Ós 04:00 (UTC-3)"
   },
   [17315] = {
     Title = "Colheita de Melancia",
     Description = {
-      "<NAVI>[Fazendeiro Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI> pediu a caþa de algumas Melancias e trazer 10 Leques do Festival."
+      "<NAVI>[Fazendeiro Rami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI> pediu a caþa de algumas Melancias e trazer 10 Leques do Festival."
     },
     Summary = "10 Leques do Festival"
   },
   [17316] = {
     Title = "[Espera] Colheita de Melancia",
     Description = {
-      "VocÛ concluiu a missÒo dißria de hoje. Ap¾s o amanhecer, vocÛ pode visitar <NAVI>[Moderator Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI> novamente."
+      "VocÛ concluiu a missÒo dißria de hoje. Ap¾s o amanhecer, vocÛ pode visitar <NAVI>[Fazendeiro Rami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI> novamente."
     },
     Summary = "Reinicio Ós 04:00 (UTC-3)"
   },
   [17317] = {
     Title = "MacarrÒo Estragado",
     Description = {
-      "<NAVI>[Marinheiro Domi]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI> pediu que vocÛ traga 10 Macarr§es Podres."
+      "<NAVI>[Marinheiro Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI> pediu que vocÛ traga 10 Macarr§es Podres."
     },
     Summary = "10 MacarrÒo Podre"
   },
   [17318] = {
     Title = "[Espera] MacarrÒo Estragado",
     Description = {
-      "VocÛ concluiu a missÒo dißria de hoje. Ap¾s o amanhecer, vocÛ pode visitar <NAVI>[Marinheiro Domi]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI> novamente."
+      "VocÛ concluiu a missÒo dißria de hoje. Ap¾s o amanhecer, vocÛ pode visitar <NAVI>[Marinheiro Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI> novamente."
     },
     Summary = "Reinicio Ós 04:00 (UTC-3)"
   },
@@ -41557,26 +42302,99 @@ NpcSpr = [=[4_M_RACHMAN1]]
     },
     Summary = "Fale com Chipol"
   },
+  [17320] = {
+    Title = "Festival do MacarrÒo",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Encontre o <NAVI>[Pescador]<INFO>malangdo,209,110,0,101,0,</INFO></NAVI>."
+    },
+    Summary = "Fale com o Pescador"
+  },
+  [17321] = {
+    Title = "Festival do MacarrÒo",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "O pescador pediu que vocÛ se encontre com <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>."
+    },
+    Summary = "Fale com Nike"
+  },
+  [17322] = {
+    Title = "Festival do MacarrÒo",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Vamos reportar a situaþÒo ao <NAVI>[Diretor do Festival]<INFO>malangdo,140,164,0,101,0,</INFO></NAVI>."
+    },
+    Summary = "Fale com o Diretor"
+  },
+  [17323] = {
+    Title = "Festival do MacarrÒo",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Traga 1x Cauda de Peixe, 1x Tinta de Polvo, 1x MacarrÒo Espaguete e 1x Alm¶ndega. - <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>"
+    },
+    Summary = "Colete os itens"
+  },
+  [17324] = {
+    Title = "Festival do MacarrÒo",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Viajante, por favor, entregue esse macarrÒo <NAVI>[nesse local]<INFO>malangdo,168,219,101,0,</INFO></NAVI>."
+    },
+    Summary = "Fale com Po"
+  },
+  [17325] = {
+    Title = "Festival do MacarrÒo",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Agora que terminamos, vamos voltara falar com <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>."
+    },
+    Summary = "Fale com Nike"
+  },
+  [17326] = {
+    Title = "Especial da Casa",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Traga 1x Cauda de Peixe, 5x Tinta de Polvo, 5x MacarrÒo Espaguete e 5x Alm¶ndega. - <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>"
+    },
+    Summary = "Colete os itens"
+  },
+  [17327] = {
+    Title = "[Espera] Especial da Casa",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "VocÛ jß ajudou muito por hoje! Por favor, venha com a mesma energia altruÝsta amanhÒ! - <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>"
+    },
+    Summary = "Volte amanhÒ.¡",
+    CoolTimeQuest = 1
+  },
   [17328] = {
     Title = "[Feito] Cozinhar MacarrÒo",
     Description = {
-      "Se vocÛ completou todas as atividades de hoje, encontre o <NAVI>[Organizador]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI> para confirar sua presenþa no festival!"
+      "Se vocÛ completou todas as atividades de hoje, encontre o <NAVI>[Organizador]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI> para confirar sua presenþa no festival!"
     },
     Summary = "Fale com o Organizador"
   },
   [17329] = {
     Title = "[Feito] Colheita de Melancia",
     Description = {
-      "Se vocÛ completou todas as atividades de hoje, encontre o <NAVI>[Organizador]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI> para confirar sua presenþa no festival!"
+      "Se vocÛ completou todas as atividades de hoje, encontre o <NAVI>[Organizador]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI> para confirar sua presenþa no festival!"
     },
     Summary = "Fale com o Organizador"
   },
   [17330] = {
     Title = "[Feito] MacarrÒo Estragado",
     Description = {
-      "Se vocÛ completou todas as atividades de hoje, encontre o <NAVI>[Organizador]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI> para confirar sua presenþa no festival!"
+      "Se vocÛ completou todas as atividades de hoje, encontre o <NAVI>[Organizador]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI> para confirar sua presenþa no festival!"
     },
     Summary = "Fale com o Organizador"
+  },
+  [17331] = {
+    Title = "Festival do MacarrÒo",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Se vocÛ completou todas as atividades de hoje, encontre o <NAVI>[Organizador do Festival]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI>."
+    },
+    Summary = "Ao Organizador"
   },
   [17332] = {
     Title = "Visual do MacarrÒo",
@@ -66478,155 +67296,5 @@ NpcSpr = [=[4_M_RACHMAN1]]
       ""
     },
     Summary = "Reseta ap¾s 20 horas"
-  },
-  [16096] = {
-    Title = "IlusÒo da Tartaruga",
-    Description = {
-      "Enquanto conversava com Eilvar, vocÛ chegou a um lugar desconhecido. Converse com a garota na sua frente."
-    },
-    Summary = "Fale com a Garota"
-  },
-  [16097] = {
-    Title = "IlusÒo da Tartaruga",
-    Description = {
-      "A garota apontou alguns lugares. Vamos encontrar os rastros do Arque¾logo Leiphen na vila das boas tartarugas."
-    },
-    Summary = "Homem Impaciente"
-  },
-  [16098] = {
-    Title = "IlusÒo da Tartaruga",
-    Description = {
-      "A garota apontou alguns lugares. Vamos encontrar os rastros do Arque¾logo Leiphen na vila das boas tartarugas."
-    },
-    Summary = "Soldado bravo"
-  },
-  [16099] = {
-    Title = "IlusÒo da Tartaruga",
-    Description = {
-      "A garota apontou alguns lugares. Vamos encontrar os vestÝgios do Arque¾logo Leiphen no Palßcio Tartaruga."
-    },
-    Summary = "Moþa debilitada"
-  },
-  [16100] = {
-    Title = "IlusÒo da Tartaruga",
-    Description = {
-      "Hß mais um lugar para procurar. Vamos encontrar os vestÝgios do Arque¾logo Leiphen no Palßcio Tartaruga."
-    },
-    Summary = "Ache Leiphen"
-  },
-  [16101] = {
-    Title = "IlusÒo da Tartaruga",
-    Description = {
-      "Elimine 10 de cada tartaruga: Batedores e Solidificadores Ominosos e entregue 10 Carnes Estragadas para Leiphen."
-    },
-    Summary = "10 Carnes Estragadas"
-  },
-  [16102] = {
-    Title = "IlusÒo da Tartaruga",
-    Description = {
-      "Elimine 10 de cada tartaruga: Aquecedores e Congeladores Ominosos para Leiphen."
-    },
-    Summary = "Volte a Leiphen"
-  },
-  [16103] = {
-    Title = "IlusÒo da Tartaruga",
-    Description = {
-      "Vamos falar com os aos alde§es aqui, conforme solicitado por Leiphen."
-    },
-    Summary = "Moþa debilitada"
-  },
-  [16104] = {
-    Title = "IlusÒo da Tartaruga",
-    Description = {
-      "Vamos correr para a garota na entrada da Vila das Boas Tartarugas."
-    },
-    Summary = "Fale com a Garota"
-  },
-  [16105] = {
-    Title = "Promessa",
-    Description = {
-      "VocÛ fez uma promessa para Nalin. Volte amanhÒ na IlusÒo da Tartaruga para cumprir com o que prometeu."
-    },
-    Summary = "Volte amanhÒ"
-  },
-  [16106] = {
-    Title = "NÒo vou esquecer!",
-    Description = {
-      "Vamos ao Palßcio das Tartarugas para encontrar o Arque¾logo Leiphen para reviver a mem¾ria da garota."
-    },
-    Summary = "Fale com Ierpen no sombrio Guyanggung"
-  },
-  [16107] = {
-    Title = "NÒo vou esquecer!",
-    Description = {
-      "Vamos voltar para a garota junto com o Arque¾logo Leiphen."
-    },
-    Summary = "Fale com a Garota"
-  },
-  [16108] = {
-    Title = "[Espera] NÒo vou esquecer!",
-    Description = {
-      "Esta missÒo Ú uma missÒo dißria, e vocÛ pode recebÛ-la novamente quando o tempo de espera expirar."
-    },
-    Summary = "Volte amanhÒ"
-  },
-  [16109] = {
-    Title = "EspÝrito Obsessor",
-    Description = {
-      "Vamos caþar 10 Agressores Ominosos e entregar 5 Metais CorroÝdos."
-    },
-    Summary = "5 Metais CorroÝdos"
-  },
-  [16110] = {
-    Title = "[Espera] EspÝrito Obsessor",
-    Description = {
-      "Esta missÒo Ú uma missÒo dißria, e vocÛ pode recebÛ-la novamente quando o tempo de espera expirar."
-    },
-    Summary = "Volte amanhÒ"
-  },
-  [16111] = {
-    Title = "Fome eterna",
-    Description = {
-      "Elimine 10 de cada tartaruga: Batedores e Solidificadores Ominosos e entregue 10 Carnes Estragadas para a Moþa debilitada."
-    },
-    Summary = "10 Carnes Estragadas"
-  },
-  [16112] = {
-    Title = "Fome eterna",
-    Description = {
-      "Elimine 10 de cada tartaruga: Aquecedores e Congeladores Ominosos para a Moþa debilitada."
-    },
-    Summary = "Moþa debilitada"
-  },
-  [16113] = {
-    Title = "[Espera] Fome eterna",
-    Description = {
-      "Esta missÒo Ú uma missÒo dißria, e vocÛ pode recebÛ-la novamente quando o tempo de espera expirar."
-    },
-    Summary = "Volte amanhÒ"
-  },
-  [16114] = {
-    Title = "IlusÒo da Tartaruga",
-    Description = {""},
-    Summary = "Fale com Eilvar"
-  },
-  [16115] = {
-    Title = "IlusÒo da Tartaruga",
-    Description = {""},
-    Summary = "Fale com a Garota"
-  },
-  [16116] = {
-    Title = "IlusÒo da Tartaruga",
-    Description = {
-      "Fale com a garota no meio da solitßria vila das boas tartarugas novamente."
-    },
-    Summary = "Fale com a Garota"
-  },
-  [16117] = {
-    Title = "IlusÒo da Tartaruga",
-    Description = {
-      "Fale com a garota no meio da solitßria vila das boas tartarugas novamente."
-    },
-    Summary = "Fale com a garota"
   }
 }
