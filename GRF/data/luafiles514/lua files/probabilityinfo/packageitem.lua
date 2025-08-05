@@ -38483,7 +38483,13 @@ tbl = {
     {
       id = 7620,
       prob = 0,
-      name = "Oridecon Enriquecido 420",
+      name = "Oridecon Enriquecido 40",
+      group = 0
+    },
+    {
+      id = 6635,
+      prob = 0,
+      name = "B├¬n├º├úo do Ferreiro 5",
       group = 0
     }
   },

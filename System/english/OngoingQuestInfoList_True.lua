@@ -37354,7 +37354,7 @@ QuestInfoList = {
     Description = {
       "Please go to the place beyond this notebook and see if Nun Gem and the others in my group are safe."
     },
-    Summary = "Find Nun Gem"
+    Summary = "Find Sister Gem"
   },
   [14657] = {
     Title = "Illusion of Vampire",
@@ -37427,7 +37427,7 @@ QuestInfoList = {
     Summary = "Talk to Grimm"
   },
   [14667] = {
-    Title = "Send Back",
+    Title = "Eternal Rest",
     IconName = "ico_dq.bmp",
     Description = {
       "These poor souls need rest. Please send all the dead back to the earth. Eliminate all 3 kinds, 10 per kind."
@@ -37435,7 +37435,7 @@ QuestInfoList = {
     Summary = "Restless Dead"
   },
   [14668] = {
-    Title = "[Wait] Send Back",
+    Title = "[Wait] Eternal Rest",
     IconName = "ico_dq.bmp",
     Description = {
       "Thank you for your hard work. You should get some rest. Please come back after dawn.  - <NAVI>[Gem]<INFO>gef_d01_i,113,230,0,101,0</INFO></NAVI>"
@@ -37447,7 +37447,9 @@ QuestInfoList = {
     Title = "Sweet Dreams",
     IconName = "ico_dq.bmp",
     Description = {
-      "Maybe Sweet Nightmares' mane is the source of nightmares. I want to study it. Please bring me 20 Wavy Manes, and also hunt 10 Sweet Nightmares, so I can examine possible changes in dreaming patterns."
+      "Maybe Sweet Nightmares' mane is the source of nightmares.",
+      "I want to study it.",
+      "Please bring me 20 Wavy Manes, and also hunt 10 Sweet Nightmares, so I can examine possible changes in dreaming patterns."
     },
     Summary = "20 Wavy Manes"
   },

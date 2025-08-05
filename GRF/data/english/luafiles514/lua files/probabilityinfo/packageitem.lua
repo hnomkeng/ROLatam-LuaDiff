@@ -38483,7 +38483,13 @@ tbl = {
     {
       id = 7620,
       prob = 0,
-      name = "Enriched Oridecon 420",
+      name = "Enriched Oridecon 40",
+      group = 0
+    },
+    {
+      id = 6635,
+      prob = 0,
+      name = "Blacksmith Blessing 5",
       group = 0
     }
   },

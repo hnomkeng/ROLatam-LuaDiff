@@ -35417,9 +35417,9 @@ QuestInfoList = {
   [14183] = {
     Title = "1║ Item",
     Description = {
-      "Material: 2 Ripple, 2 Omen of Tempest, 2 Drifting Air, 2 Freya's Jewel, 2 Cat Tread, 1 Dusk Glow e 1 Dawn Essence / Encontre o aluno de Feynman e ouþa informaþ§es sobre os monstros a serem derrotados no Valkyrie Realm"
+      "Material: 2 Murm·rio, 2 Pressßgio de Tempestade, 2 Ar Silencioso, 2 Lßgrimas de Freya, 2 Passos de Gato, 1 Crep·sculo Vermelho e 1 EssÛncia do Alvorecer/ Encontre o aluno de Feynman e ouþa informaþ§es sobre os monstros a serem derrotados no Feudo das ValquÝrias"
     },
-    Summary = "Item e monstro"
+    Summary = "Itens e monstro"
   },
   [14184] = {
     Title = "Pr¾xima etapa",
@@ -35431,28 +35431,28 @@ QuestInfoList = {
   [14185] = {
     Title = "2║ Item",
     Description = {
-      "Material: 2 Silver Ornament, 2 Snow Crystal, 2 Feather of Angel Wing, 2 Sputum of Bird, 2 Root of Stone, 1 Cold Moonlight e 1 Hazy Starlight / Conheþa o aluno de Feynman e ouþa informaþ§es sobre monstros para derrotar em Britoniah"
+      "Materiais: 2 Ornamento de Prata, 2 Floco de Neve, 2 Pena de Asas Angelicais, 2 Saliva de Ave, 2 Raiz de Montanha, 1 Luar GÚlido e 1 ConstelaþÒo Obscura / Conheþa o aluno de Feynman e ouþa informaþ§es sobre monstros para derrotar no Feudo de Britoniah."
     },
-    Summary = "Item e monstro"
+    Summary = "Itens e monstro"
   },
   [14186] = {
     Title = "Pr¾ximo julgamento?",
     Description = {
-      "Depois de muitas reviravoltas, criamos as escamas da cobra branca. Eu me pergunto que tipo de prova nos aguardarß em seguida. Vamos perguntar a Feynman."
+      "Depois de muitas reviravoltas, criamos o Bracelete de Cobra Branca. Eu me pergunto que tipo de prova nos aguardarß em seguida. Vamos perguntar a Feynman."
     },
     Summary = "Para Feynman"
   },
   [14187] = {
     Title = "3║ Item",
     Description = {
-      "50 Flame Hearts e 150 Dwarf's Sweat, que podem ser obtidos abrindo a caixa de tesouro na masmorra da guilda."
+      "50 Coraþ§es Flamejantes e 150 Frascos de Suor, que podem ser obtidos abrindo a caixa de tesouro na masmorra da guilda."
     },
     Summary = "Itens necessßrios"
   },
   [14188] = {
     Title = "Pr¾xima penitÛncia?",
     Description = {
-      "Depois de todo o trabalho ßrduo, criamos o Treasure Dwarf. Vamos falar com Feynman, pois gostaria de saber qual serß a pr¾xima penitÛncia."
+      "Depois de todo o trabalho ßrduo, criamos a Bigorna dos An§es. Vamos falar com Feynman, pois gostaria de saber qual serß a pr¾xima penitÛncia."
     },
     Summary = "Para Feynman"
   },
@@ -37033,9 +37033,9 @@ QuestInfoList = {
   [14661] = {
     Title = "IlusÒo do Vampiro",
     Description = {
-      "NÒo estamos sozinhos aqui. Se vocÛ estß procurando um grupo, vocÛ deve se apressar."
+      "NÒo estamos sozinhos aqui. Se vocÛ estß procurando por alguÚm, deve se apressar."
     },
-    Summary = "Encontre o Assistente"
+    Summary = "Encontre Jojo"
   },
   [14662] = {
     Title = "IlusÒo do Vampiro",
@@ -37061,9 +37061,9 @@ QuestInfoList = {
   [14665] = {
     Title = "IlusÒo do Vampiro",
     Description = {
-      "Preciso de um tempo. Viajante, por favor, visitem nosso grupo."
+      "Preciso de um tempo. Viajante, por favor, volte para seus amigos."
     },
-    Summary = "Para IrmÒ Gemma"
+    Summary = "Vß para a IrmÒ Gemma"
   },
   [14666] = {
     Title = "IlusÒo do Vampiro",
@@ -37110,7 +37110,7 @@ QuestInfoList = {
     Title = "Coleta de Sangue",
     IconName = "ico_dq.bmp",
     Description = {
-      "Preciso de 10 Sangues Coagulados e 10 Seivas de Cogumelo. TambÚm gostaria que eliminasse 5 Mattiliar e 5 Cogumelos Explosivos."
+      "Preciso de 10 Sangues Coagulados e 10 Seivas de Cogumelo. TambÚm gostaria que eliminasse 5 Mattiliar e 5 Cogumelos Brilhantes."
     },
     Summary = "10 Sangue e Seiva"
   },
@@ -37754,21 +37754,21 @@ QuestInfoList = {
     Summary = "Matar 20 mercenßrios Byorgue"
   },
   [15050] = {
-    Title = "Memorial Dungeon: Airship Assault",
+    Title = "InvasÒo ao Aeroplano",
     Description = {
       "A entrada na masmorra Ú proibida ap¾s 23 horas da entrada. A entrada Ú possÝvel ap¾s o prazo escrito abaixo."
     },
     Summary = "A reentrada dentro de 23 horas nÒo Ú permitida"
   },
   [15051] = {
-    Title = "Memorial Dungeon: Airship Assault",
+    Title = "InvasÒo ao Aeroplano",
     Description = {
       "A reentrada Ú possÝvel por 5 minutos ap¾s a entrada na masmorra. A entrada Ú possÝvel a partir da data limite descrita abaixo."
     },
-    Summary = "Reentrada possÝvel dentro de 5 minutos ap¾s a entrada"
+    Summary = "Todos a bordo! O aeroplano vai decolar! VocÛ tem 5 minutos para entrar na cabine."
   },
   [15052] = {
-    Title = "Memorial Dungeon: Airship Assault",
+    Title = "InvasÒo ao Aeroplano",
     Description = {
       "A masmorra foi liberada em 5 minutos ap¾s a entrada, portanto, a entrada na masmorra estß proibida por 23 horas."
     },
@@ -37965,17 +37965,17 @@ QuestInfoList = {
     Title = "Combatendo o gelo com fogo",
     IconName = "ico_dq.bmp",
     Description = {
-      "Colete Dry Twigs para descongelar Zeith e Vrid na Ice Cave."
+      "Colete Galhos mortos para descongelar Zeith e Vrid na Caverna de Gelo."
     },
-    Summary = "Colete 10 galhos secos."
+    Summary = "Colete 10 galhos mortos."
   },
   [15111] = {
-    Title = "Caþa aos furiosos TitÒs de Gelo",
+    Title = "Caþa aos furiosos TitÒs de Cristal",
     IconName = "ico_dq.bmp",
     Description = {
-      "Vrid quer quebrar o gelo com gelo. Caþar 10 Furious Ice Titans."
+      "Vrid quer quebrar o gelo com gelo. Cace 10 TitÒs de Cristal."
     },
-    Summary = "Caþa aos 10 Furious Ice Titans."
+    Summary = "Cace 10 TitÒs de Cristal."
   },
   [15112] = {
     Title = "Abordagem direta",
@@ -37989,7 +37989,7 @@ QuestInfoList = {
     Title = "Abordagem direta",
     IconName = "ico_dq.bmp",
     Description = {
-      "Vamos quebrar o gelo batendo nele. Bata primeiro no gelo ao redor de Vrid."
+      "Vamos quebrar o gelo batendo nele. Agora bata no gelo ao redor de Vrid."
     },
     Summary = "Bata em Vrid para quebrar o gelo ao redor dele."
   },
@@ -37998,7 +37998,7 @@ QuestInfoList = {
     Description = {
       "Vrid e Zeith querem se vingar do estranho lagarto que os congelou. Elimine Ktullanux no centro da caverna."
     },
-    Summary = "Eliminar Awakened Ktullanux."
+    Summary = "Eliminar Ktullanux de Cristal."
   },
   [15115] = {
     Title = "[Espera] Vrid e Zeith",
@@ -38012,28 +38012,28 @@ QuestInfoList = {
     Title = "Elimine a ilusÒo do congelamento"
   },
   [15117] = {
-    Title = "Caþa ao Gazetis Furioso",
+    Title = "Caþa aos furiosos Gazeti de Cristal",
     IconName = "ico_dq.bmp",
     Description = {
-      "Vrid quer quebrar o gelo com gelo. Caþar 10 Furious Gazetis."
+      "Vrid quer quebrar o gelo com gelo. Cace 10 Gazeti de Cristal."
     },
-    Summary = "Hunt 10 Furious Gazetis."
+    Summary = "Cace 10 Gazeti de Cristal"
   },
   [15118] = {
-    Title = "Caþa aos Snowiers Furiosos",
+    Title = "Caþa aos Yeti de Cristal",
     IconName = "ico_dq.bmp",
     Description = {
-      "Vrid quer quebrar o gelo com gelo. Caþar 10 Furious Snowiers."
+      "Vrid quer quebrar o gelo com gelo. Cace 10 Yeti de Cristal."
     },
-    Summary = "Caþa aos 10 Snowiers Furiosos."
+    Summary = "Cace 10 Yeti de Cristal"
   },
   [15119] = {
-    Title = "Caþa Ós Geadas DifÝceis",
+    Title = "Caþa aos Cristais de Gelo",
     IconName = "ico_dq.bmp",
     Description = {
-      "Vrid quer quebrar o gelo com gelo. Caþar 10 Hard Icicles."
+      "Vrid quer quebrar o gelo com gelo. Cace 10 Cristais de Gelo."
     },
-    Summary = "Caþar 10 Geadas Duras."
+    Summary = "Cace 10 Cristais de Gelo."
   },
   [15125] = {
     Title = "Precisando de feijÒo-caupi",
