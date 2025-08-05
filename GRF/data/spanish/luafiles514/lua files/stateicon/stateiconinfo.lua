@@ -2855,7 +2855,29 @@ StateIconList[EFST_IDs.EFST_LAUDAAGNUS] = {
     }
   }
 }
-StateIconList[EFST_IDs.EFST_INFINITY_DRINK] = {haveTimeLimit = 1, posTimeLimitStr = 2}
+StateIconList[EFST_IDs.EFST_INFINITY_DRINK] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "Poci¾n Infinita",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "Aumentar HP y SP Maximo"
+    },
+    {
+      "Aumenta Da±o CRIT , Da±o de ataque al Alcance,"
+    },
+    {
+      "Aumenta todo Ataque Mßgico"
+    },
+    {
+      "Conjuro no es Cancelado"
+    }
+  }
+}
 StateIconList[EFST_IDs.EFST_BITESCAR] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 2,

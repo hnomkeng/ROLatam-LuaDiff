@@ -17209,7 +17209,7 @@ tbl = {
     {
       id = 5325,
       prob = 10,
-      name = "Ojos robotizados",
+      name = "Ojos robotizados [1]",
       group = 1
     },
     {
@@ -18275,7 +18275,7 @@ tbl = {
     {
       id = 5325,
       prob = 40,
-      name = "Ojos robotizados",
+      name = "Ojos robotizados [1]",
       group = 1
     },
     {
@@ -41313,9 +41313,9 @@ tbl = {
       group = 0
     },
     {
-      id = 17042,
+      id = 12663,
       prob = 0,
-      name = "Transform Poring Caja de 10 unidades 5",
+      name = "Perg. de Transformaci├│n (Poring) 50",
       group = 0
     },
     {
@@ -41399,9 +41399,9 @@ tbl = {
       group = 0
     },
     {
-      id = 17042,
+      id = 12663,
       prob = 0,
-      name = "Transform Poring Caja de 10 unidades 10",
+      name = "Perg. de Transformaci├│n (Poring) 100",
       group = 0
     },
     {
@@ -41485,9 +41485,9 @@ tbl = {
       group = 0
     },
     {
-      id = 17042,
+      id = 12663,
       prob = 0,
-      name = "Transform Poring Caja de 10 unidades 15",
+      name = "Perg. de Transformaci├│n (Poring) 150",
       group = 0
     },
     {
@@ -41571,9 +41571,9 @@ tbl = {
       group = 0
     },
     {
-      id = 17042,
+      id = 12663,
       prob = 0,
-      name = "Transform Poring Caja de 10 unidades 20",
+      name = "Perg. de Transformaci├│n (Poring) 200",
       group = 0
     },
     {
@@ -41805,9 +41805,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 105078,
       prob = 1,
-      name = "[Evento] Artefacto Ovalado Ardiente 11",
+      name = "[Evento] Artefato Oval Fantasmag├│rico 11",
       group = 0
     }
   },
@@ -41819,9 +41819,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 105078,
       prob = 1,
-      name = "[Evento] Artefacto Ovalado Ardiente",
+      name = "[Evento] Artefato Oval Fantasmag├│rico",
       group = 0
     }
   },
@@ -41945,9 +41945,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 105078,
       prob = 1,
-      name = "[Evento] Artefacto Ovalado Ardiente 11",
+      name = "[Evento] Artefato Oval Fantasmag├│rico 11",
       group = 0
     }
   },
@@ -41959,9 +41959,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 105078,
       prob = 1,
-      name = "[Evento] Artefacto Ovalado Ardiente",
+      name = "[Evento] Artefato Oval Fantasmag├│rico",
       group = 0
     }
   },
@@ -42039,9 +42039,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 105078,
       prob = 1,
-      name = "[Evento] Artefacto Ovalado Ardiente 11",
+      name = "[Evento] Artefato Oval Fantasmag├│rico 11",
       group = 0
     }
   },
@@ -42053,9 +42053,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 105078,
       prob = 1,
-      name = "[Evento] Artefacto Ovalado Ardiente",
+      name = "[Evento] Artefato Oval Fantasmag├│rico",
       group = 0
     }
   },
@@ -42461,9 +42461,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 105078,
       prob = 1,
-      name = "[Evento] Artefacto Ovalado Ardiente 11",
+      name = "[Evento] Artefato Oval Fantasmag├│rico 11",
       group = 0
     }
   },
@@ -42829,7 +42829,7 @@ tbl = {
     {
       id = 12496,
       prob = 0,
-      name = "Unknown Item 50",
+      name = "[Evento] Seguro de vida 50",
       group = 0
     },
     {
@@ -42849,7 +42849,7 @@ tbl = {
     {
       id = 12496,
       prob = 0,
-      name = "Unknown Item 100",
+      name = "[Evento] Seguro de vida 100",
       group = 0
     },
     {

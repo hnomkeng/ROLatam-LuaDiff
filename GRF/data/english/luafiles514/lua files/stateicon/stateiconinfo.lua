@@ -2828,7 +2828,29 @@ StateIconList[EFST_IDs.EFST_LAUDAAGNUS] = {
     }
   }
 }
-StateIconList[EFST_IDs.EFST_INFINITY_DRINK] = {haveTimeLimit = 1, posTimeLimitStr = 2}
+StateIconList[EFST_IDs.EFST_INFINITY_DRINK] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "Infinity Drink",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "Increase MaxHP and MaxSP"
+    },
+    {
+      "Increase CRIT Damage and Ranged Attack Damage,"
+    },
+    {
+      "Increase Magical Attack"
+    },
+    {
+      "Casting cannot be cancelled"
+    }
+  }
+}
 StateIconList[EFST_IDs.EFST_BITESCAR] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 2,

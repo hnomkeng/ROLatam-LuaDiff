@@ -41313,9 +41313,9 @@ tbl = {
       group = 0
     },
     {
-      id = 17042,
+      id = 12663,
       prob = 0,
-      name = "Poring Disguise Box 5",
+      name = "Transformation Scroll (Poring) 50",
       group = 0
     },
     {
@@ -41399,9 +41399,9 @@ tbl = {
       group = 0
     },
     {
-      id = 17042,
+      id = 12663,
       prob = 0,
-      name = "Poring Disguise Box 10",
+      name = "Transformation Scroll (Poring) 100",
       group = 0
     },
     {
@@ -41485,9 +41485,9 @@ tbl = {
       group = 0
     },
     {
-      id = 17042,
+      id = 12663,
       prob = 0,
-      name = "Poring Disguise Box 15",
+      name = "Transformation Scroll (Poring) 150",
       group = 0
     },
     {
@@ -41571,9 +41571,9 @@ tbl = {
       group = 0
     },
     {
-      id = 17042,
+      id = 12663,
       prob = 0,
-      name = "Poring Disguise Box 20",
+      name = "Transformation Scroll (Poring) 200",
       group = 0
     },
     {
@@ -41805,9 +41805,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 105078,
       prob = 1,
-      name = "[Event] Burning Oval Artifact 11",
+      name = "[Event] Phantasmagorical Oval Artifact 11",
       group = 0
     }
   },
@@ -41819,9 +41819,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 105078,
       prob = 1,
-      name = "[Event] Burning Oval Artifact",
+      name = "[Event] Phantasmagorical Oval Artifact",
       group = 0
     }
   },
@@ -41945,9 +41945,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 105078,
       prob = 1,
-      name = "[Event] Burning Oval Artifact 11",
+      name = "[Event] Phantasmagorical Oval Artifact 11",
       group = 0
     }
   },
@@ -41959,9 +41959,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 105078,
       prob = 1,
-      name = "[Event] Burning Oval Artifact",
+      name = "[Event] Phantasmagorical Oval Artifact",
       group = 0
     }
   },
@@ -42039,9 +42039,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 105078,
       prob = 1,
-      name = "[Event] Burning Oval Artifact 11",
+      name = "[Event] Phantasmagorical Oval Artifact 11",
       group = 0
     }
   },
@@ -42053,9 +42053,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 105078,
       prob = 1,
-      name = "[Event] Burning Oval Artifact",
+      name = "[Event] Phantasmagorical Oval Artifact",
       group = 0
     }
   },
@@ -42461,9 +42461,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 105078,
       prob = 1,
-      name = "[Event] Burning Oval Artifact 11",
+      name = "[Event] Phantasmagorical Oval Artifact 11",
       group = 0
     }
   },
@@ -42829,7 +42829,7 @@ tbl = {
     {
       id = 12496,
       prob = 0,
-      name = "Unknown Item 50",
+      name = "[Event] Life Insurance 50",
       group = 0
     },
     {
@@ -42849,7 +42849,7 @@ tbl = {
     {
       id = 12496,
       prob = 0,
-      name = "Unknown Item 100",
+      name = "[Event] Life Insurance 100",
       group = 0
     },
     {
