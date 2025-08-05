@@ -21918,7 +21918,7 @@
         "ko": ">> ItemName : %s /  수량 : %d / 판매기간 : %d월:%d일:%d시:%d분 ~ %d월:%d일:%d시:%d분",
         "en": ">> ItemName: %s / Quantity: %d / Sales Period: %d month:%d day:%d hour:%d minute ~ %d month:%d day:%d hour:%d minute",
         "pt": ">> ItemName: %s / Quantidade: %d / Per?odo de vendas: %d m?s:%d dia:%d hora:%d minuto ~ %d m?s:%d dia:%d hora:%d minuto",
-        "es": ">> Nombre del art?culo: %s / Cantidad: %d / Periodo de venta: %d mes:%d d?a:%d hora:%d minuto ~ %d mes:%d d?a:%d hora:%d minuto"
+        "es": ">> Nombre del art?culo: %s / Cantidad: %d / Período de venta: %d mes:%d d?a:%d hora:%d minuto ~ %d mes:%d d?a:%d hora:%d minuto"
     },
     "MSI_ACCOUNT_LIMITED_SALE_ITEM_SOLD_OUT": {
         "ko": "Sold Out",
@@ -25239,13 +25239,13 @@
         "ko": ">> ItemName : {0} / 수량 : {1} / 판매기간 : {2}월:{3}일:{4}시:{5}분 ~ {6}년:{7}월:{8}일:{9}시:{10}분",
         "en": ">> ItemName : {0} / {1} ea / Sales period. {3}/{2} {4:02}:{5:02} ~ {7}/{8}/{6} {9:02}:{10:02}",
         "pt": ">> ItemName: {0} / {1} ea / Per?odo de vendas. {3}/{2} {4:02}:{5:02} ~ {8}/{7}/{6} {9:02}:{10:02}",
-        "es": ">> Nombre de objeto: {0} / {1} cada uno / Per?odo de venta. {3}/{2} {4:02}:{5:02} ~ {8}/{7}/{6} {9:02}:{10:02}"
+        "es": ">> Nombre de objeto: {0} / {1} cada uno / Período de venta. {3}/{2} {4:02}:{5:02} ~ {8}/{7}/{6} {9:02}:{10:02}"
     },
     "MSI_ACCOUNT_LIMITED_SALE_ITEM_START_DATE_OVERSEA": {
         "ko": "판매기간 : {0}월 {1}일 {2}시 {3}분",
         "en": "Sales period : {0}/{1} {2:02}:{3:02}",
         "pt": "Per?odo de vendas: {1}/{0} {2:02}:{3:02}",
-        "es": "Per?odo de venta: {1}/{0} {2:02}:{3:02}"
+        "es": "Período de venta: {1}/{0} {2:02}:{3:02}"
     },
     "MSI_ACCOUNT_LIMITED_SALE_ITEM_NEXT_NEWDATE_OVERSEA": {
         "ko": "~ {0}년 {1}월 {2}일 {3}시 {4}분",
