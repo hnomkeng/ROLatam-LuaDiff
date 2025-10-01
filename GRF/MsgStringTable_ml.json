@@ -14163,7 +14163,7 @@
     },
     "MSI_CLAN_NUM_MEMBER": {
         "ko": "조합원수",
-        "en": "The number of members",
+        "en": "Members",
         "pt": "Membros",
         "es": "El número de miembros"
     },
@@ -16750,7 +16750,7 @@
         "ko": "이동제한이 있는 아이템입니다.",
         "en": "Item limitations",
         "pt": "Limitações do item",
-        "es": "Limitaciones de los objeto"
+        "es": "Limitaciones del objeto"
     },
     "MSI_CREATE_CHARACTER": {
         "ko": "캐릭터를 생성해주세요!",
@@ -17169,7 +17169,7 @@
     "MSI_PET_RELATION_SHIP_UNKNOWN": {
         "ko": "확인 전",
         "en": "^777777Not confirmed^000000",
-        "pt": "^777777N?o confirmada^000000",
+        "pt": "^777777Não confirmada^000000",
         "es": "^777777No confirmado^000000"
     },
     "MSI_PARTYNAME": {
@@ -17270,21 +17270,21 @@
     },
     "MSI_MACRO_DETECTOR_NOTICE1": {
         "ko": "안녕하세요. 불법프로그램 단속중입니다.",
-        "en": "Hello. Checking for illegal programs.",
-        "pt": "Hello. Checking for illegal programs.",
-        "es": "Hola. Comprobando si hay programas ilegales."
+        "en": "Checking for illegal programs.",
+        "pt": "Verificação de programa ilegal.",
+        "es": "Comprobando programas ilegales."
     },
     "MSI_MACRO_DETECTOR_NOTICE2": {
         "ko": "지정된 시간내에 아래의 문자를 입력해주세요.",
-        "en": "Please enter the below characters within the designated time.",
-        "pt": "Please enter the below characters within the designated time.",
-        "es": "Introduce los siguientes caracteres dentro del tiempo designado."
+        "en": "Enter the characters within the time.",
+        "pt": "Digite o texto dentro do tempo.",
+        "es": "Introduzca los caracteres dentro del tiempo."
     },
     "MSI_MACRO_DETECTOR_NOTICE3": {
-        "ko": "3회 오류시 운영정책에 의거하여 영구블록됩니다.",
-        "en": "If failed 3 times, your account will be blocked permanently under the account policy.",
-        "pt": "If failed 3 times, your account will be blocked permanently under the account policy.",
-        "es": "De acuerdo a la política de cuentas, si fallas 3 veces, tu cuenta se bloqueará permanentemente."
+        "ko": "6회 오류시 운영정책에 의거하여 영구블록됩니다.",
+        "en": "If failed 6 times, you will be sanctioned.",
+        "pt": "Se falhar 6 vezes, terá punição.",
+        "es": "Si falla 6 veces, recibirá una sanción."
     },
     "MSI_MACRO_DETECTOR_REMAIN_COUNT": {
         "ko": "남은 횟수 : %d",
@@ -20635,15 +20635,15 @@
     },
     "MSI_QUESTWND_HIGHER": {
         "ko": "▲",
-        "en": "▲",
-        "pt": "▲",
-        "es": "▲"
+        "en": "+",
+        "pt": "+",
+        "es": "+"
     },
     "MSI_QUESTWND_LOWER": {
         "ko": "▼",
-        "en": "▼",
-        "pt": "▼",
-        "es": "▼"
+        "en": "-",
+        "pt": "-",
+        "es": "-"
     },
     "MSI_FRIEND_ALREADY_FRIEND": {
         "ko": "이미 친구입니다",
@@ -23942,9 +23942,9 @@
     },
     "MSI_MACRO_CHECK_REMOVE_INVALID_AID": {
         "ko": "대상을 찾을 수 없습니다.",
-        "en": "Target not found",
-        "pt": "Destino n?o encontrado.",
-        "es": "Objetivo no encontrado."
+        "en": "The target cannot be found.",
+        "pt": "O usuário não foi encontrado.",
+        "es": "No se encontró el usuario."
     },
     "MSI_NEWSEIGEMODE_SKILL": {
         "ko": "^0054FF[능력치보정] % d.%d %%^000000",
@@ -24345,44 +24345,44 @@
     "MSI_MACRO_USER_REPORT": {
         "ko": "유저 신고하기",
         "en": "Report User",
-        "pt": "Denunciar usu?rio",
-        "es": "Reportar usuario"
+        "pt": "Reportar Usuário",
+        "es": "Denunciar Usuario"
     },
     "MSI_MACRO_USER_REPORT_COUNTLIMIT": {
         "ko": "일일 신고 횟수를 초과하여 더 이상 신고할 수 없습니다.",
-        "en": "You have exceeded the daily report limit and cannot report any more.",
-        "pt": "Voc? excedeu o limite de relat?rios di?rios e n?o pode mais denunciar.",
-        "es": "Has superado el l?mite de reportes diarios y no puedes reportar m?s."
+        "en": "You have exceeded your daily report limit and can no longer report.",
+        "pt": "Você ultrapassou o limite diário de reportes e não pode mais reportar.",
+        "es": "Ha superado el límite de informes diarios y no puedes seguir denunciando."
     },
     "MSI_MACRO_USER_REPORT_SUCCESS": {
         "ko": "%s님을 신고 하였습니다.",
         "en": "You have reported %s.",
-        "pt": "Voc? denunciou %s.",
-        "es": "Has reportado %s."
+        "pt": "Você reportou %s.",
+        "es": "Has denunciado %s"
     },
     "MSI_MACRO_USER_REPORT_COOLTIME": {
         "ko": "대상은 다른 플레이어의 신고가 진행중입니다.",
         "en": "The target is currently being reported by another player.",
-        "pt": "O alvo est? sendo denunciado por outro jogador.",
-        "es": "El objetivo est? siendo reportado por otro jugador."
+        "pt": "Esse usuário já está sendo reportado por outro jogador.",
+        "es": "El usuario está siendo denunciado por otro jugador."
     },
     "MSI_MACRO_USER_REPORT_EFST_ACTIVATED": {
         "ko": "대상은 신고에 보호중인 상태 입니다.",
-        "en": "The target is currently protected by reports.",
-        "pt": "O alvo est? protegido por relat?rios.",
-        "es": "El objetivo est? protegido por reportes."
+        "en": "The target is currently protected from reports.",
+        "pt": "Esse usuário está imune a reportes.",
+        "es": "El usuario está actualmente protegido de los informes."
     },
     "MSI_MACRO_USER_REPORT_PENALTY_COUNTMAX": {
         "ko": "대상은 일일 신고 누적 횟수를 초과하여 더 이상 신고 할 수 없습니다.",
-        "en": "You have exceeded the daily report limit and cannot report any more.",
-        "pt": "Voc? excedeu o limite de relat?rios di?rios e n?o pode mais denunciar.",
-        "es": "Has superado el l?mite de reportes diarios y no puedes reportar m?s."
+        "en": "You have exceeded your daily report limit and can no longer report.",
+        "pt": "Este usuário ultrapassou o limite diário de reportes e não pode mais ser reportado.",
+        "es": "Has superado el límite de reporte diarios y no puede seguir reportando."
     },
     "MSI_MACRO_USER_REPORT_REPORTED": {
         "ko": "다른 플레이어에게 신고를 받았습니다.",
         "en": "You have been reported by another player.",
-        "pt": "Voc? foi denunciado por outro jogador.",
-        "es": "Otro jugador te ha reportado."
+        "pt": "Alguém reportou você.",
+        "es": "Has sido denunciado por otro jugador."
     },
     "MSI_DECOM_NUM": {
         "ko": "%d 개 분해",
@@ -24518,9 +24518,9 @@
     },
     "MSI_MACRO_USER_REPORT_NOT_USE_AREA": {
         "ko": "신고가 불가능한 지역입니다.",
-        "en": "This is an area where reporting is not possible.",
-        "pt": "Esta ? uma ?rea onde o relat?rio n?o ? poss?vel.",
-        "es": "En este ?rea no es posible informar."
+        "en": "Reporting is not possible in this area.",
+        "pt": "Não é possível reportar nesse mapa.",
+        "es": "No es posible denunciar en esta area"
     },
     "MSI_GRAPHIC_SETTING_RENDER_SYSTEM": {
         "ko": "그래픽 API",
@@ -25244,8 +25244,8 @@
     "MSI_ACCOUNT_LIMITED_SALE_ITEM_START_DATE_OVERSEA": {
         "ko": "판매기간 : {0}월 {1}일 {2}시 {3}분",
         "en": "Sales period : {0}/{1} {2:02}:{3:02}",
-        "pt": "Período de vendas: {1}/{0} {2:02}:{3:02}",
-        "es": "Período de venta: {1}/{0} {2:02}:{3:02}"
+        "pt": "Período de vendas:{1}/{0} {2:02}:{3:02}",
+        "es": "Período de venta:{1}/{0} {2:02}:{3:02}"
     },
     "MSI_ACCOUNT_LIMITED_SALE_ITEM_NEXT_NEWDATE_OVERSEA": {
         "ko": "~ {0}년 {1}월 {2}일 {3}시 {4}분",
@@ -25955,5 +25955,133 @@
         "en": "This account cannot log in. For more details, please contact customer support.",
         "pt": "Esta conta não pode fazer login. Para mais detalhes, entre em contato com a central de suporte.",
         "es": "Esta cuenta no puede iniciar sesión. Para más detalles, comuníquese con el servicio de atención al cliente."
+    },
+    "MSI_MACRO_REPORT_1": {
+        "ko": "유저 신고",
+        "en": "Report User",
+        "unknown_3": "Reportar usuário",
+        "unknown_4": "Denunciar usuario",
+        "pt": "Reporte",
+        "es": "Denuncia"
+    },
+    "MSI_MACRO_REPORT_2": {
+        "ko": "신고 내용을 입력하세요.",
+        "en": "Please enter your report details.",
+        "unknown_3": "O que aconteceu?",
+        "unknown_4": "Por favor, informe los datos de su denuncia.",
+        "pt": "O que aconteceu?",
+        "es": "Por favor, informe los datos de su denuncia."
+    },
+    "MSI_MACRO_REPORT_3": {
+        "ko": "불법 프로그램 의심 신고",
+        "en": "Suspected program",
+        "unknown_3": "Programa ilegal",
+        "unknown_4": "Denunciar sospechados programas ilegales",
+        "pt": "Programa ilegal",
+        "es": "Programa sospechoso"
+    },
+    "MSI_MACRO_REPORT_4": {
+        "ko": "버그 및 시스템 악용",
+        "en": "Bugs and system exploits",
+        "unknown_3": "Abuso de bug",
+        "unknown_4": "Bugs y vulnerabilidades del sistema",
+        "pt": "Abuso de bug",
+        "es": "Abuso de bugs"
+    },
+    "MSI_MACRO_REPORT_5": {
+        "ko": "부적절한 명칭 사용",
+        "en": "Use of inappropriate names",
+        "unknown_3": "Nome inapropriado",
+        "unknown_4": "Uso de nombres inapropiados",
+        "pt": "Nome inapropriado",
+        "es": "Uso de nombres inapropiados"
+    },
+    "MSI_MACRO_REPORT_6": {
+        "ko": "기능 악용 시 제재를 받을 수 있습니다.",
+        "en": "False reports may result in penalty.",
+        "unknown_3": "Reportes mentirosos serão punidos.",
+        "unknown_4": "El abuso de funciones puede dar lugar a sanciones",
+        "pt": "Reportes mentirosos serão punidos.",
+        "es": "Se penalizaran denuncias falsas."
+    },
+    "MSI_REPORT": {
+        "ko": "신고",
+        "en": "Report",
+        "unknown_3": "Reportar",
+        "unknown_4": "Denunciar",
+        "pt": "Reportar",
+        "es": "Denunciar"
+    },
+    "MSI_PREVIEW_EQUIP_SIT": {
+        "ko": "앉기",
+        "en": "Sit",
+        "pt": "Sentado",
+        "es": "Sentado"
+    },
+    "MSI_PREVIEW_EQUIP_MOVE": {
+        "ko": "걷기",
+        "en": "Walk",
+        "pt": "Andando",
+        "es": "Caminando"
+    },
+    "MSI_PREVIEW_EQUIP_ATTACK": {
+        "ko": "공격",
+        "en": "Attack",
+        "pt": "Atacando",
+        "es": "Atacando"
+    },
+    "MSI_PREVIEW_EQUIP_ATTACK_WAIT": {
+        "ko": "대기",
+        "en": "Wait",
+        "pt": "Esperando",
+        "es": "Esperando"
+    },
+    "MSI_PREVIEW_EQUIP_DEAD": {
+        "ko": "사망",
+        "en": "Death",
+        "pt": "Morto",
+        "es": "Muerto"
+    },
+    "MSI_PREVIEW_EQUIP_PICKUP": {
+        "ko": "줍기",
+        "en": "Pickup",
+        "pt": "Pegando",
+        "es": "Atrapando"
+    },
+    "MSI_BROADCASTING_SPECIAL_ITEM_OBTAIN_WITH_ITEM_LINK": {
+        "ko": "[%s]님이 [%s](으)로부터 %s 를 획득 했습니다.",
+        "en": "[%s] has obtained [%s] from %s.",
+        "pt": "[%s] obteve %s de [%s].",
+        "es": "[%s] obtuvo %s de [%s]."
+    },
+    "MSI_BROADCASTING_SPECIAL_ITEM_OBTAIN2_WITH_ITEM_LINK": {
+        "ko": "%s, 축하드립니다. %s 를 얻으셨습니다!",
+        "en": "Congratulations, %s. You have obtained %s!",
+        "pt": "Parabéns, %s! Você conseguiu conseguiu %s!",
+        "es": "¡Felicidades, %s! ¡Has conseguido %s!"
+    },
+    "MSI_BROADCASTING_REFINING_SUCCESS_LEVEL_9_WITH_ITEM_LINK": {
+        "ko": "[%s] 님이 제련을 성공하여, %s 아이템을 획득하였습니다.",
+        "en": "[%s] successfully refined the item %s.",
+        "pt": "[%s] refinou o item %s.",
+        "es": "[%s] refinó con éxito y adquirió el ítem %s."
+    },
+    "MSI_BROADCASTING_REFINING_FAIL_LEVEL_9_WITH_ITEM_LINK": {
+        "ko": "[%s] 님이 %s 아이템의 제련에 실패하였습니다.",
+        "en": "[%s] failed to refine the item %s.",
+        "pt": "[%s] não refinou o item %s.",
+        "es": "[%s] falló al refinar el ítem %s."
+    },
+    "MSI_BROADCASTING_GRADE_ENCHANT_SUCCESS_WITH_ITEM_LINK": {
+        "ko": "[%s] 님이 등급강화를 성공하여, %s 아이템을 획득하였습니다.",
+        "en": "[%s] successfully upgraded the item %s.",
+        "pt": "[%s] subiu o rank do item %s.",
+        "es": "[%s] mejoró el grado con éxito y adquirió el ítem %s."
+    },
+    "MSI_BROADCASTING_GRADE_ENCHANT_FAIL_WITH_ITEM_LINK": {
+        "ko": "[%s] 님이 %s 아이템의 등급강화에 실패하였습니다.",
+        "en": "[%s] failed to upgrade the item %s.",
+        "pt": "[%s] não subiu o rank do item %s.",
+        "es": "[%s] falló al mejorar el grado del ítem %s."
     }
 }

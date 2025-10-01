@@ -1,15 +1,31 @@
 tb_cashshop_banner = {
-  [1] = {
-    "01_Cashshop_Banner.bmp",
-    "https://ro.gnjoylatam.com/en/event/augustroulette"
-  },
-  [2] = {
-    "03_Cashshop_Banner.bmp",
-    "https://ro.gnjoylatam.com/pt/news/event/22?type=ACTIVE"
-  }
+	[1] = {
+		"01_Cashshop_Banner.bmp",
+		"https://ro.gnjoylatam.com/en/event/octoberroulette"
+	},
+	[2] = {
+		"02_Cashshop_Banner.bmp",
+		"https://ro.gnjoylatam.com/en/event/boosterevent"
+	},
+	[3] = {
+		"03_Cashshop_Banner.bmp",
+		"https://ro.gnjoylatam.com/en/news/event/34?type=ACTIVE"
+	},
+	[4] = {
+		"04_Cashshop_Banner.bmp",
+		"https://ro.gnjoylatam.com/en/news/notice/169"
+	},
+	[5] = {
+		"05_Cashshop_Banner.bmp",
+		"https://ro.gnjoylatam.com/en/news/event/36?type=ACTIVE"
+	},
+	[6] = {
+		"06_Cashshop_Banner.bmp",
+		"https://ro.gnjoylatam.com/en/news/notice/161"
+	}
 }
 function set_cashshop_banner()
-  for key, value in ipairs(tb_cashshop_banner) do
-    add_cashshop_banner(value[1], value[2])
-  end
+	for key, value in ipairs(tb_cashshop_banner) do
+		add_cashshop_banner(value[1], value[2])
+	end
 end

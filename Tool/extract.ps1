@@ -9,7 +9,7 @@ foreach($f in (Get-Content $l | ForEach-Object { $_.Trim() })) {
 		
 		$outputPath = Join-Path $directory "$baseName.lua"
 
-		java -jar unlac.jar --rawstring $f > $outputPath
+		java -jar unluac-2023.jar --rawstring -o $outputPath $f
 	}
 	catch {
 		Write-Output "Error $f"

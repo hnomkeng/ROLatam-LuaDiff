@@ -1,12 +1,12 @@
 OffsetItemPos.Direction = {
-  FRONT = 0,
-  FRONTLEFT = 1,
-  LEFT = 2,
-  BACKLEFT = 3,
-  BACK = 4,
-  BACKRIGHT = 5,
-  RIGHT = 6,
-  FRONTRIGHT = 7
+	FRONT = 0,
+	FRONTLEFT = 1,
+	LEFT = 2,
+	BACKLEFT = 3,
+	BACK = 4,
+	BACKRIGHT = 5,
+	RIGHT = 6,
+	FRONTRIGHT = 7
 }
 OffsetItemPos.Sex = {MALE = 1, FEMALE = 2}
 OffsetItemPos.AddOffsetForDoram(1717, OffsetItemPos.Direction.FRONT, {y = -15})
