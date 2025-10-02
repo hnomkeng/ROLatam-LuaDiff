@@ -1,0 +1,717 @@
+{
+    "wJwiAw": {
+        "en": "Butler Aidin",
+        "pt": "Mordomo Aidin",
+        "es": "Mayordomo Aidin"
+    },
+    "wZwiAw": {
+        "en": "- You're carrying too many items to proceed with this quest. -",
+        "pt": "- Você está carregando itens demais para continuar com essa missão. -",
+        "es": "-Llevas demasiados objetos para continuar con esta misión.-"
+    },
+    "wpwiAw": {
+        "en": "You're overweight. You can't proceed any further. Please lighten your weight first.",
+        "pt": "Você está sobrecarregado. Você não pode continuar. Alivie a sua carga antes.",
+        "es": "Llevas mucho peso. No puedes continuar. Primero disminuye el peso que llevas."
+    },
+    "w5wiAw": {
+        "en": "[Butler Aidin]\nHm, where's that Merchant who accepted my request earlier? Have they been attacked by Spores or something? (Anxiously pacing about)",
+        "pt": "[Mordomo Aidin]\nHum, cadê o Mercador que aceitou o meu pedido antes? Ele foi atacado por Esporos ou algo assim? (Andando de um lado para o outro ansiosamente)",
+        "es": "[Mayordomo Aidin]\n¿Dónde está el Comerciante que aceptó mi solicitud? ¿Habrá sido víctima de un ataque de esporas o algo así? (Camina ansiosamente)."
+    },
+    "xJwiAw": {
+        "en": "[Butler Aidin]\n{0}, did you come to check requests?",
+        "pt": "[Mordomo Aidin]\n{0}, você veio verificar os pedidos?",
+        "es": "[Mayordomo Aidin]\n{0}, ¿viniste a ver las solicitudes?"
+    },
+    "xZwiAw": {
+        "en": "[Butler Aidin]\nOh, you have a request that's closed already.\nThe Sailor Skeletons have already been subjugated.\nI'll complete that mission for you.\nAnd here, let me give you a small reward, too.",
+        "pt": "[Mordomo Aidin]\nAh, você tem um pedido que já foi concluído.\nOs Esqueletos Marinheiros já foram subjugados.\nVou completar essa missão para você.\nE aqui, deixe-me dar a você uma pequena recompensa também.",
+        "es": "[Mayordomo Aidin]\nAh, tienes una solicitud que ya cerró.\nLos esqueletos marineros ya fueron subyugados.\nCompletaré esa misión por ti.\nY permíteme darte una pequeña recompensa, también."
+    },
+    "xpwiAw": {
+        "en": "^000101Accept the Wormtail Hunt request.^000000",
+        "pt": "^000101Aceitar o pedido de Caça ao Rabo de Verme.^000000",
+        "es": "^000101Aceptar la solicitud de cacería de Colas de gusano.^000000"
+    },
+    "x5wiAw": {
+        "en": "^999999This request is already in progress.^000000",
+        "pt": "^999999Esse pedido já está em andamento.^000000",
+        "es": "^999999Esta solicitud ya está en curso.^000000"
+    },
+    "yJwiAw": {
+        "en": "^000101Accept the Boa Hunt request.^000000",
+        "pt": "^000101Aceitar o pedido de Caça à Jiboia.^000000",
+        "es": "^000101Aceptar la solicitud de cacería de Boas.^000000"
+    },
+    "yZwiAw": {
+        "en": "^999999This request is already in progress.^000000",
+        "pt": "^999999Esse pedido já está em andamento.^000000",
+        "es": "^999999Esta solicitud ya está en curso.^000000"
+    },
+    "ypwiAw": {
+        "en": "^000101Accept the Spore Hunt request.^000000",
+        "pt": "^000101Aceitar o pedido de Caça ao Esporo.^000000",
+        "es": "^000101Acepta la solicitud de cacería de Esporas.^000000"
+    },
+    "y5wiAw": {
+        "en": "^999999This request is already in progress.^000000",
+        "pt": "^999999Esse pedido já está em andamento.^000000",
+        "es": "^999999Esta solicitud ya está en curso.^000000"
+    },
+    "zJwiAw": {
+        "en": "^999999This request is already in progress.^000000",
+        "pt": "^999999Esse pedido já está em andamento.^000000",
+        "es": "^999999Esta solicitud ya está en curso.^000000"
+    },
+    "zZwiAw": {
+        "en": "Quit.",
+        "pt": "Sair.",
+        "es": "Salir."
+    },
+    "zpwiAw": {
+        "en": "^0000FFAccept completed quest reward.^000000",
+        "pt": "^0000FFAceitar a recompensa da missão concluída.^000000",
+        "es": "^0000FFAceptar el premio de la misión completada.^000000"
+    },
+    "z5wiAw": {
+        "en": "[Butler Aidin]\nNo problem. Please feel free to come back anytime.",
+        "pt": "[Mordomo Aidin]\nSem problema. Por favor, fique à vontade para voltar quando quiser.",
+        "es": "[Mayordomo Aidin]\nNo hay problema. No dudes en volver cuando quieras."
+    },
+    "0JwiAw": {
+        "en": "[Butler Aidin]\nThis request is from a supply transport unit that's currently on its way to Prontera. It's being slowed down by Wormtails around Alberta.",
+        "pt": "[Mordomo Aidin]\nEste pedido é de uma unidade de transporte de suprimentos que está a caminho de Prontera. Ela está sendo atrapalhado por Rabos de Verme em Alberta.",
+        "es": "[Mayordomo Aidin]\nEsta solicitud es de una unidad de transporte de recursos que está de camino a Prontera. Las Colas de gusano cerca de Alberta le están estorbando el paso."
+    },
+    "0ZwiAw": {
+        "en": "[Butler Aidin]\nIf you hunt ^0000FF20 Wormtails^000000, it'll reward you accordingly. Would you like to accept this request?",
+        "pt": "[Mordomo Aidin]\nSe você caçar ^0000FF20 Rabos de Verme^000000, vou te recompensar de acordo. Gostaria de aceitar esse pedido?",
+        "es": "[Mayordomo Aidin]\nSi cazas ^0000FF20 Colas de gusano^000000, recibirás un premio. ¿Quieres aceptar esta solicitud?"
+    },
+    "0pwiAw": {
+        "en": "No",
+        "pt": "Não",
+        "es": "No."
+    },
+    "05wiAw": {
+        "en": "Yes",
+        "pt": "Sim",
+        "es": "Sí."
+    },
+    "1JwiAw": {
+        "en": "^0000FFAccepted the Wormtail Hunt request.^000000",
+        "pt": "^0000FFPedido de Caça ao Rabo de Verme aceito.^000000",
+        "es": "^0000FFAceptaste la solicitud de cacería de Colas de gusano.^000000"
+    },
+    "1ZwiAw": {
+        "en": "^FF0000You can't accept the same request twice.^000000",
+        "pt": "^FF0000Você não pode aceitar o mesmo pedido duas vezes.^000000",
+        "es": "^FF0000No puedes aceptar la misma solicitud dos veces.^000000"
+    },
+    "1pwiAw": {
+        "en": "[Butler Aidin]\nThis request is from mushroom gatherers around Alberta. They're being threatened by Boas in the area recently.",
+        "pt": "[Mordomo Aidin]\nEste pedido é de coletores de cogumelos de Alberta. Eles estão sendo ameaçados por Jiboias na área recentemente.",
+        "es": "[Mayordomo Aidin]\nEsta solicitud proviene de los recolectores de hongos de Alberta. Últimamente, la zona está bajo la amenaza de Boas."
+    },
+    "15wiAw": {
+        "en": "[Butler Aidin]\nIf you hunt ^0000FF20 Boas^000000, they'll reward you accordingly. Would you like to accept this request?",
+        "pt": "[Mordomo Aidin]\nSe você caçar ^0000FF20 Jiboias^000000, vou te recompensar de acordo. Gostaria de aceitar esse pedido?",
+        "es": "[Mayordomo Aidin]\nSi cazas ^0000FF20 Boas^000000, recibirás un premio. ¿Quieres aceptar esta solicitud?"
+    },
+    "2JwiAw": {
+        "en": "^0000FFAccepted the Boa Hunt request.^000000",
+        "pt": "^0000FFMissão de Caça à Jiboia aceita.^000000",
+        "es": "^0000FFAceptaste la solicitud de cacería de Boas.^000000"
+    },
+    "2ZwiAw": {
+        "en": "[Butler Aidin]\nThis request is from food ingredient transporters. Their food often gets contaminated by Spores' spores on its way to Prontera.",
+        "pt": "[Mordomo Aidin]\nEste pedido é de transportadores de ingredientes de comida. As comidas costumam ficar contaminadas pelos Esporos a caminho de Prontera.",
+        "es": "[Mayordomo Aidin]\nEsta solicitud proviene de transportistas de ingredientes para comidas. A menudo, las Esporas contaminan su comida de camino a Prontera."
+    },
+    "2pwiAw": {
+        "en": "[Butler Aidin]\nIf you hunt ^0000FF20 Spores^000000, they'll reward you accordingly. Would you like to accept this request?",
+        "pt": "[Mordomo Aidin]\nSe você caçar ^0000FF20 Esporos^000000, vou te recompensar de acordo. Gostaria de aceitar esse pedido?",
+        "es": "[Mayordomo Aidin]\nSi cazas ^0000FF20 Esporas^000000, recibirás un premio. ¿Quieres aceptar esta solicitud?"
+    },
+    "25wiAw": {
+        "en": "^0000FFAccepted the Spore Hunt request.^000000",
+        "pt": "^0000FFPedido de Caça ao Esporo aceito.^000000",
+        "es": "^0000FFAceptaste la solicitud de cacería de Esporas.^000000"
+    },
+    "3JwiAw": {
+        "en": "[Butler Aidin]\nMaster Salim Hamid wants to make use of a Sunken Ship near Alberta. But first, the monsters inside it need to be cleared out.",
+        "pt": "[Mordomo Aidin]\nO Mestre Salim Hamid quer usar um Navio Naufragado perto de Alberta. Mas antes, os monstros nele devem ser derrotados.",
+        "es": "[Mayordomo Aidin]\nEl maestro SalimHamid quiere aprovechar un barco hundido cerca de Alberta. Pero, primero, hay que eliminar los monstruos en su interior."
+    },
+    "3ZwiAw": {
+        "en": "[Butler Aidin]\nIf you hunt ^0000FF10 Sailor Skeletons^000000, he'll reward you accordingly. Would you like to accept this request?",
+        "pt": "[Mordomo Aidin]\nSe você caçar ^0000FF10 Esqueletos Marinheiros^000000, vou te recompensar de acordo. Gostaria de aceitar esse pedido?",
+        "es": "[Mayordomo Aidin]\nSi cazas ^0000FF10 Esqueletos marineros^000000, recibirás un premio. ¿Quieres aceptar esta solicitud?"
+    },
+    "3pwiAw": {
+        "en": "^0000FFAccepted the Sailor Skeleton Hunt request.^000000",
+        "pt": "^0000FFPedido de Caça ao Esqueleto Marinheiro aceito.^000000",
+        "es": "^0000FFAceptaste la solicitud de cacería de Esqueletos marineros.^000000"
+    },
+    "35wiAw": {
+        "en": "^FF0000This request requires Level 18 or above.^000000",
+        "pt": "^FF0000Esse pedido requer Nível 18 ou superior.^000000",
+        "es": "^FF0000Esta solicitud requiere que seas nivel 18 o superior.^000000"
+    },
+    "4JwiAw": {
+        "en": "^000088Get the Wormtail Hunt reward^000000",
+        "pt": "^000088Pegar a recompensa de Caça ao Rabo de Verme^000000",
+        "es": "^000088Obtener el premio de cacería de Colas de gusano.^000000"
+    },
+    "4ZwiAw": {
+        "en": "^999999No such quest completed.^000000",
+        "pt": "^999999Essa missão não foi concluída.^000000",
+        "es": "^999999No se completó la misión.^000000"
+    },
+    "4pwiAw": {
+        "en": "^000088Get the Boa Hunt reward^000000",
+        "pt": "^000088Pegar a recompensa de Caça à Jiboia^000000",
+        "es": "^000088Obtener el premio de cacería de Boas.^000000"
+    },
+    "45wiAw": {
+        "en": "^999999No such quest completed.^000000",
+        "pt": "^999999Essa missão não foi concluída.^000000",
+        "es": "^999999No se completó la misión.^000000"
+    },
+    "5JwiAw": {
+        "en": "^000088Get the Spore Hunt reward^000000",
+        "pt": "^000088Pegar a recompensa de Caça ao Esporo^000000",
+        "es": "^000088Obtener el premio de cacería de Esporas.^000000"
+    },
+    "5ZwiAw": {
+        "en": "^999999No such quest completed.^000000",
+        "pt": "^999999Essa missão não foi concluída.^000000",
+        "es": "^999999No se completó la misión.^000000"
+    },
+    "5pwiAw": {
+        "en": "^000088Get the Sailor Skeleton Hunt reward^000000",
+        "pt": "^000088Pegar a recompensa de Caça ao Esqueleto Marinheiro^000000",
+        "es": "^000088Obtener el premio de cacería de Esqueletos marineros.^000000"
+    },
+    "55wiAw": {
+        "en": "^999999No such quest completed.^000000",
+        "pt": "^999999Essa missão não foi concluída.^000000",
+        "es": "^999999No se completó la misión.^000000"
+    },
+    "6JwiAw": {
+        "en": "Quit",
+        "pt": "Sair",
+        "es": "Salir."
+    },
+    "6ZwiAw": {
+        "en": "[Butler Aidin]\nUnderstood. Please come back when you complete the request.",
+        "pt": "[Mordomo Aidin]\nEntendi. Por favor, volte após concluir o pedido.",
+        "es": "[Mayordomo Aidin]\nEntiendo. Vuelve cuando hayas completado la solicitud."
+    },
+    "6pwiAw": {
+        "en": "[Butler Aidin]\nGood job! Is there anything else I can help you with?",
+        "pt": "[Mordomo Aidin]\nBom trabalho! Tem mais alguma coisa com que eu possa ajudar?",
+        "es": "[Mayordomo Aidin]\n¡Buen trabajo! ¿Necesitas ayuda con algo más?"
+    },
+    "65wiAw": {
+        "en": "^0000FFReceived EXP, JEXP, and some Free Tickets for Kafra Storage.^000000",
+        "pt": "^0000FFEXP, EXPC e Vales-Armazéns da Kafra recebidos.^000000",
+        "es": "^0000FFRecibiste EXP, EXP de clase y algunos boletos gratis para el Almacén de Kafra.^000000"
+    },
+    "7JwiAw": {
+        "en": "[Butler Aidin]\nYou've passed Level 20. I can only give you one-third of your original reward. From now on, I suggest you go to the ^0000FFEden Group^000000 to pick up requests.",
+        "pt": "[Mordomo Aidin]\nVocê passou do Nível 20. Eu só posso te dar um terço da sua recompensa original. A partir de agora, sugiro que você vá até o ^0000FFGrupo do Éden^000000 para escolher pedidos.",
+        "es": "[Mayordomo Aidin]\nSuperaste el nivel 20. Solo puedo darte un tercio del premio original. A partir de ahora, acude al ^0000FFGrupo de Edén^000000 para aceptar solicitudes."
+    },
+    "7ZwiAw": {
+        "en": "^0000FFPassed Level 20. Only received one-third of the original EXP and JEXP reward, without Free Tickets for Kafra Storage.^000000",
+        "pt": "^0000FFPassou do Nível 20. Apenas um terço de EXP, EXPC e Vales-Armazéns da Kafra foram recebidos.^000000",
+        "es": "^0000FFSuperaste el nivel 20. Solo recibiste un tercio del premio original de EXP y EXP de clase, sin boletos gratis para el Almacén de Kafra.^000000"
+    },
+    "7pwiAw": {
+        "en": "[Butler Aidin]\nI don't think you've completed this request yet. Anything else?",
+        "pt": "[Mordomo Aidin]\nAcredito que você ainda não concluiu essa missão. Algo mais?",
+        "es": "[Mayordomo Aidin]\nCreo que aún no completaste esta solicitud. ¿Necesitas algo más?"
+    },
+    "75wiAw": {
+        "en": "[Butler Aidin]\nI'll see you again, {0}.",
+        "pt": "[Mordomo Aidin]\nNos veremos de novo, {0}.",
+        "es": "[Mayordomo Aidin]\nTe veré de nuevo, {0}."
+    },
+    "8JwiAw": {
+        "en": "Salim Hamid",
+        "pt": "Salim Hamid",
+        "es": "Salim Hamid"
+    },
+    "8ZwiAw": {
+        "en": "[Salim Hamid]\nFinally, you've become a member of the Merchant Guild! Excellent!",
+        "pt": "[Salim Hamid]\nFinalmente, você se tornou um membro da Guilda dos Mercadores! Excelente!",
+        "es": "[SalimHamid]\nPor fin eres miembro del gremio de Comerciantes. ¡Excelente!"
+    },
+    "8pwiAw": {
+        "en": "[Salim Hamid]\nNow that you're a Merchant, how'd you like to review what you've learned about before you head out into that wide and vast world out there?",
+        "pt": "[Salim Hamid]\nAgora que você é Mercador, gostaria de revisar o que aprendeu antes de partir para esse mundo amplo e vasto?",
+        "es": "[SalimHamid]\nAhora que eres Comerciante, ¿quieres repasar lo que aprendiste antes de adentrarte en el amplio y vasto mundo que hay ahí fuera?"
+    },
+    "85wiAw": {
+        "en": "What can I get in return?",
+        "pt": "O que receberei em troca?",
+        "es": "¿Qué puedo obtener a cambio?"
+    },
+    "9JwiAw": {
+        "en": "[Salim Hamid]\nWell, a small reward. 25 Free Tickets of Kafra Storage, to be exact. If you're not interested in them, you can skip this process and move right onto Butler Aidin's Hunt requests.",
+        "pt": "[Salim Hamid]\nBem, uma pequena recompensa. 25 Vales-Armazéns da Kafra, precisamente. Se não estiver interessado neles, você pode pular esse processo e ir direto para os pedidos de Caça do Mordomo Aidin.",
+        "es": "[SalimHamid]\nBueno, un pequeño premio. 25 boletos gratis para el Almacén de Kafra, para ser exactos. Si no te interesan, puedes saltar este proceso y pasar directamente a las solicitudes de cacería del mayordomoAidin."
+    },
+    "9ZwiAw": {
+        "en": "Skip.",
+        "pt": "Pular.",
+        "es": "Saltar."
+    },
+    "9pwiAw": {
+        "en": "Let's do it!",
+        "pt": "Vamos lá!",
+        "es": "¡Hagámoslo!"
+    },
+    "95wiAw": {
+        "en": "[Salim Hamid]\nNo problem. You can take this class anytime you want. Just come back later.",
+        "pt": "[Salim Hamid]\nSem problema. Você pode fazer essa aula quando quiser. É só voltar mais tarde.",
+        "es": "[SalimHamid]\nNo hay problema. Puedes tomar esta clase cuando quieras. Vuelve más tarde."
+    },
+    "+JwiAw": {
+        "en": "[Salim Hamid]\nYou've made a good choice! Now, please talk to me again when you're ready.",
+        "pt": "[Salim Hamid]\nVocê fez uma boa escolha! Agora, por favor, fale comigo novamente quando estiver tudo pronto.",
+        "es": "[SalimHamid]\n¡Buena elección! Vuelve a hablar conmigo cuando tengas todo listo."
+    },
+    "+ZwiAw": {
+        "en": "[Salim Hamid]\nAlright, {0}, you've learned about the main stats for the Merchant, right?",
+        "pt": "[Salim Hamid]\nTudo bem, {0}, você aprendeu sobre os principais atributos do Mercador, certo?",
+        "es": "[SalimHamid]\nMuy bien, {0}, ya aprendiste las estadísticas principales del Comerciante, ¿verdad?"
+    },
+    "+pwiAw": {
+        "en": "[Salim Hamid]\nMm? Don't you remember? Hah hah. Don't worry. That's why I'm here. Select the stat you want, and I'll help jog your memory.",
+        "pt": "[Salim Hamid]\nHum? Não se lembra? Haha. Não se preocupe. É por isso que estou aqui. Selecione o atributo que quiser, e eu vou te ajudar a lembrar.",
+        "es": "[SalimHamid]\n¿Mm? ¿No te acuerdas? Ja, ja. No te preocupes. Por eso estoy aquí. Selecciona una estadística y te ayudaré a refrescar la memoria."
+    },
+    "+5wiAw": {
+        "en": "I know everything.",
+        "pt": "Eu sei tudo.",
+        "es": "Lo sé todo."
+    },
+    "/JwiAw": {
+        "en": "STR",
+        "pt": "FOR",
+        "es": "FUE"
+    },
+    "/ZwiAw": {
+        "en": "DEX",
+        "pt": "DES",
+        "es": "DES"
+    },
+    "/pwiAw": {
+        "en": "LUK",
+        "pt": "SOR",
+        "es": "SUE"
+    },
+    "/5wiAw": {
+        "en": "INT",
+        "pt": "INT",
+        "es": "INT"
+    },
+    "AJ0iAw": {
+        "en": "VIT",
+        "pt": "VIT",
+        "es": "VIT"
+    },
+    "AZ0iAw": {
+        "en": "AGI",
+        "pt": "AGI",
+        "es": "AGI"
+    },
+    "Ap0iAw": {
+        "en": "[Salim Hamid]\nOooh, are you sure?",
+        "pt": "[Salim Hamid]\nAh, tem certeza?",
+        "es": "[SalimHamid]\nOhhh, ¿de verdad?"
+    },
+    "A50iAw": {
+        "en": "Actually... no.",
+        "pt": "Na verdade... não.",
+        "es": "En realidad… no."
+    },
+    "BJ0iAw": {
+        "en": "That's right!",
+        "pt": "Isso mesmo!",
+        "es": "¡Así es!"
+    },
+    "BZ0iAw": {
+        "en": "[Salim Hamid]\nYou're such a brilliant student, {0}! I'm so proud of you!",
+        "pt": "[Salim Hamid]\nVocê é um estudante brilhante, {0}! Estou muito orgulhoso de você!",
+        "es": "[SalimHamid]\n¡Qué estudiante brillante, {0}! Me enorgulleces."
+    },
+    "Bp0iAw": {
+        "en": "[Salim Hamid]\nTo us Merchants, STR is a stat we need to build up for our combat capabilities in the distant future.",
+        "pt": "[Salim Hamid]\nPara nós, Mercadores, FOR é um atributo que precisamos desenvolver para nossas capacidades de combate em um futuro distante.",
+        "es": "[SalimHamid]\nPara los Comerciantes, la FUE es una estadística crucial para mejorar en el combate a futuro."
+    },
+    "B50iAw": {
+        "en": "[Salim Hamid]\nIt also affects our Carrying Limit. Unless you're planning to dedicate yourself to crafting, STR is indispensable.",
+        "pt": "[Salim Hamid]\nEle também afeta a nossa Capacidade de Carga. A menos que você esteja planejando se dedicar à criação, FOR é indispensável.",
+        "es": "[SalimHamid]\nTambién afecta el límite de carga. A menos que pienses dedicarte a las artesanías, la FUE es indispensable."
+    },
+    "CJ0iAw": {
+        "en": "[Salim Hamid]\nTo us Merchants, DEX is necessary for both fighting and crafting.",
+        "pt": "[Salim Hamid]\nPara nós, Mercadores, a DES é necessária tanto para combate quanto para criação.",
+        "es": "[SalimHamid]\nPara los Comerciantes, la DES es necesaria para luchar y fabricar."
+    },
+    "CZ0iAw": {
+        "en": "[Salim Hamid]\nIt affects your crafting success chance, HIT, and ATK adjustments that you'll need as an Advanced class. Whichever path you take, you can't do without DEX.",
+        "pt": "[Salim Hamid]\nEla afeta sua chance de sucesso na criação, Precisão e ajustes de ATQ que você precisará como uma classe Avançada. Seja qual for o caminho que você escolher, não pode seguir sem DES.",
+        "es": "[SalimHamid]\nAfecta tu probabilidad de éxito en la fabricación, la PREC y los ajustes de ATQ que necesitarás como clase avanzada. Sea cual sea el camino que tomes, no puedes prescindir de la DES."
+    },
+    "Cp0iAw": {
+        "en": "[Salim Hamid]\nTo us Merchant, LUK is pretty useful for both fighting and crafting.",
+        "pt": "[Salim Hamid]\nPara nós, Mercadores, a SOR é bastante útil tanto para combate quanto para criação.",
+        "es": "[SalimHamid]\nPara los Comerciantes, la SUE es bastante útil para luchar y fabricar."
+    },
+    "C50iAw": {
+        "en": "[Salim Hamid]\nIt affects your crafting success chance, Perfect Dodge, and CRIT. You might need it more than the others when you Advance later.",
+        "pt": "[Salim Hamid]\nEla afeta sua chance de sucesso na criação, Esquiva Perfeita e Crítico. Você pode precisar dela mais do que tudo quando avançar mais tarde.",
+        "es": "[SalimHamid]\nAfecta tu probabilidad de éxito en la fabricación, la Evasión perfecta y tu CRÍT. Quizás la necesites más que las otras cuando avances más adelante."
+    },
+    "DJ0iAw": {
+        "en": "[Salim Hamid]\nTo us Merchant, INT is necessary for both fighting and crafting.",
+        "pt": "[Salim Hamid]\nPara nós, Mercadores, a INT é necessária tanto para combate quanto para criação.",
+        "es": "[SalimHamid]\nPara los Comerciantes, la INT es necesaria para luchar y fabricar."
+    },
+    "DZ0iAw": {
+        "en": "[Salim Hamid]\nIt affects your crafting success chance, though to an extent. It also increases MATK, which affects your combat capabilities as a certain Advanced class.",
+        "pt": "[Salim Hamid]\nEla afeta sua chance de sucesso na criação, embora até certo ponto. Ela também aumenta o ATQM, o que afeta suas capacidades de combate numa certa classe Avançada.",
+        "es": "[SalimHamid]\nAfecta tu posibilidad de éxito en la fabricación hasta cierto punto. También aumenta el ATQM, que afecta tu habilidad de combate en algunas clases avanzadas."
+    },
+    "Dp0iAw": {
+        "en": "[Salim Hamid]\nNote that it can be absolutely useless, depending on your Advanced class or character build.",
+        "pt": "[Salim Hamid]\nNote que isso pode ser totalmente inútil, dependendo da sua classe Avançada ou construção de personagem.",
+        "es": "[SalimHamid]\nTen en cuenta que puede ser absolutamente inútil, según tu clase avanzada o la construcción de tu personaje."
+    },
+    "D50iAw": {
+        "en": "[Salim Hamid]\nVIT is necessary for our survival.",
+        "pt": "[Salim Hamid]\nVIT é necessária para a nossa sobrevivência.",
+        "es": "[SalimHamid]\nLa VIT es necesaria para la supervivencia."
+    },
+    "EJ0iAw": {
+        "en": "[Salim Hamid]\nNot only does it increase your HP, but it also affects the amount of HP you can recover through potions.",
+        "pt": "[Salim Hamid]\nIsso não só aumenta seu HP, mas também afeta a quantidade de HP que você pode recuperar por meio de poções.",
+        "es": "[SalimHamid]\nNo solo aumenta tus HP, sino que también afecta la cantidad de HP que puedes recuperar mediante pociones."
+    },
+    "EZ0iAw": {
+        "en": "[Salim Hamid]\nWhen you have high VIT, you can take some punishment even if you're ambushed by monsters.",
+        "pt": "[Salim Hamid]\nQuando você tem VIT alta, pode apanhar um pouco sem problema mesmo se for emboscado por monstros.",
+        "es": "[SalimHamid]\nCuando tienes una VIT alta, puedes soportar incluso la emboscada de unos monstruos."
+    },
+    "Ep0iAw": {
+        "en": "[Salim Hamid]\nTo us Merchants, AGI is necessary for fighting and survival.",
+        "pt": "[Salim Hamid]\nPara nós, Mercadores, a AGI é necessária tanto para combate quanto para criação.",
+        "es": "[SalimHamid]\nPara los Comerciantes, la AGI es necesaria para luchar y sobrevivir."
+    },
+    "E50iAw": {
+        "en": "[Salim Hamid]\nAGI directly affects two stats: FLEE and ASPD. If you want to specialize in fighting and survivability,",
+        "pt": "[Salim Hamid]\nAGI afeta diretamente dois atributos: Esquiva e VelATQ. Se você quer se especializar em combate e sobrevivência,",
+        "es": "[SalimHamid]\nLa AGI afecta directamente dos estadísticas: EVA y VELA. Si quieres especializarte en lucha y supervivencia,"
+    },
+    "FJ0iAw": {
+        "en": "[Salim Hamid]\nthen you shouldn't skimp on AGI. But that's up to you. Ho ho ho!",
+        "pt": "[Salim Hamid]\nnão deve economizar em AGI. Mas isso é com você. Hohoho!",
+        "es": "[SalimHamid]\nentonces no deberías escatimar en la AGI. Pero eso depende de ti. ¡Jo, jo, jo!"
+    },
+    "FZ0iAw": {
+        "en": "[Salim Hamid]\nAnything else you want to know?",
+        "pt": "[Salim Hamid]\nO que mais você quer saber?",
+        "es": "[SalimHamid]\n¿Quieres saber algo más?"
+    },
+    "Fp0iAw": {
+        "en": "[Salim Hamid]\nOkay, then let's take a simple test. Please review the stat information you've just learned, and let me know when you're ready for the test.",
+        "pt": "[Salim Hamid]\nCerto, então vamos fazer um teste simples. Por favor, revise as informações sobre atributos que você acabou de aprender e me avise quando estiver tudo pronto para o teste.",
+        "es": "[SalimHamid]\nBien, entonces hagamos una prueba simple. Repasa la información sobre estadísticas que aprendiste y avísame cuando tengas todo listo para la prueba."
+    },
+    "F50iAw": {
+        "en": "[Salim Hamid]\nAlright, then let's start the test.",
+        "pt": "[Salim Hamid]\nCerto, vamos começar o teste.",
+        "es": "[SalimHamid]\nMuy bien, empecemos la prueba."
+    },
+    "GJ0iAw": {
+        "en": "[Salim Hamid]\nQuestion 1:\nWhich stat affects your crafting success chance, Perfect Dodge, and CRIT?",
+        "pt": "[Salim Hamid]\nPergunta 1:\nQual atributo afeta chance de sucesso na criação, Esquiva Perfeita e Crítico?",
+        "es": "[SalimHamid]\nPregunta 1:\n¿Qué estadística afecta tu probabilidad de éxito en la fabricación, la Evasión perfecta y CRÍT?"
+    },
+    "GZ0iAw": {
+        "en": "[Salim Hamid]\nQuestion 2:\nWhich stat affects your Carrying Limit and combat capabilities?",
+        "pt": "[Salim Hamid]\nPergunta 2:\nQual atributo afeta Capacidade de Carga e capacidades de combate?",
+        "es": "[SalimHamid]\nPregunta 2:\n¿Qué estadística afecta el límite de carga y tus habilidades de combate?"
+    },
+    "Gp0iAw": {
+        "en": "[Salim Hamid]\nQuestion 3:\nWhich stat affects your crafting success chance, as well as HIT and ATK adjustments?",
+        "pt": "[Salim Hamid]\nPergunta 3:\nQual atributo afeta chance de sucesso na criação, Precisão e ajustes de ATQ?",
+        "es": "[SalimHamid]\nPregunta 3:\n¿Qué estadística afecta tu probabilidad de éxito en la fabricación y la PREC y los ajustes de ATQ?"
+    },
+    "G50iAw": {
+        "en": "[Salim Hamid]\nQuestion 4:\nWhich stat affects your crafting success chance and increases your MATK, which affects your combat capabilities as a certain Advanced class?",
+        "pt": "[Salim Hamid]\nPergunta 4:\nQual atributo afeta sua chance de sucesso na criação e aumenta seu ATQM, que afeta suas capacidades de combate numa determinada classe Avançada?",
+        "es": "[SalimHamid]\nPregunta 4:\n¿Qué estadística afecta tu probabilidad de éxito en la fabricación y aumenta tu ATQM, que afecta tus habilidades de combate en algunas clases avanzadas?"
+    },
+    "HJ0iAw": {
+        "en": "[Salim Hamid]\nQuestion 5:\nWhich stat affects your FLEE and ASPD?",
+        "pt": "[Salim Hamid]\nPergunta 5:\nQual atributo afeta Esquiva e VelATQ?",
+        "es": "[SalimHamid]\nPregunta 5:\n¿Qué estadística afecta tu EVA y VELA?"
+    },
+    "HZ0iAw": {
+        "en": "[Salim Hamid]\nQuestion 6:\nWhich stat increases HP and potion effectiveness?",
+        "pt": "[Salim Hamid]\nPergunta 6:\nQual atributo aumenta o HP e a eficácia das poções?",
+        "es": "[SalimHamid]\nPregunta 6:\n¿Qué estadística aumenta los HP y la eficacia de las pociones?"
+    },
+    "Hp0iAw": {
+        "en": "[Salim Hamid]\nGood job! You've answered all the questions correctly!",
+        "pt": "[Salim Hamid]\nBom trabalho! Você respondeu todas as perguntas corretamente!",
+        "es": "[SalimHamid]\n¡Buen trabajo! ¡Respondiste correctamente todas las preguntas!"
+    },
+    "H50iAw": {
+        "en": "[Salim Hamid]\nI'll give you 10 Free Tickets for Kafra Storage as a prize. I'll give you another prize if you also do well in our next class. So let me know when you're ready.",
+        "pt": "[Salim Hamid]\nVou te dar 10 Vales-Armazéns da Kafra como prêmio. Darei outro prêmio se você for bem na nossa próxima aula. Então, me avisa quando estiver pronto.",
+        "es": "[SalimHamid]\nTe daré 10 boletos gratis para el Almacén de Kafra como recompensa. Te daré otra recompensa si te va bien en nuestra próxima lección. Avísame cuando tengas todo listo."
+    },
+    "IJ0iAw": {
+        "en": "Uh-oh.\nYou've missed {0} questions. It saddens me that you're unable to answer the most basic of questions.",
+        "pt": "Ih.\nVocê errou {0} questões. Fico triste que você não conseguiu responder às perguntas mais básicas.",
+        "es": "Ay, no.\nTe equivocaste en {0}preguntas. Me entristece que seas incapaz de responder las preguntas más básicas."
+    },
+    "IZ0iAw": {
+        "en": "[Salim Hamid]\nPlease take a moment to clear your mind, and then try again.",
+        "pt": "[Salim Hamid]\nPor favor, tire um momento para colocar a cabeça no lugar e tente novamente.",
+        "es": "[SalimHamid]\nTómate un momento para despejar la mente y vuelve a intentarlo."
+    },
+    "Ip0iAw": {
+        "en": "This time, we'll review the Merchant skills.",
+        "pt": "Desta vez, vamos revisar as habilidades do Mercador.",
+        "es": "Esta vez, repasaremos las habilidades de la clase Comerciante."
+    },
+    "I50iAw": {
+        "en": "[Salim Hamid]\nWhich skill do you want to review?",
+        "pt": "[Salim Hamid]\nQual habilidade você quer revisar?",
+        "es": "[SalimHamid]\n¿Qué habilidad quieres repasar?"
+    },
+    "JJ0iAw": {
+        "en": "I already know everything.",
+        "pt": "Eu já sei tudo.",
+        "es": "Ya sé todo."
+    },
+    "JZ0iAw": {
+        "en": "Overcharge/Discount",
+        "pt": "Superfaturar/Desconto",
+        "es": "Sobrecosto/Descuento."
+    },
+    "Jp0iAw": {
+        "en": "Enlarge Weight Limit/Push Cart/Vending",
+        "pt": "Aumentar Capacidade de Carga/Usar Carrinho/Comércio",
+        "es": "Ampliar límite de peso/Carretilla/Venta."
+    },
+    "J50iAw": {
+        "en": "Item Appraisal",
+        "pt": "Identificar Item",
+        "es": "Valoración de objetos."
+    },
+    "KJ0iAw": {
+        "en": "Mammonite",
+        "pt": "Mammonita",
+        "es": "Mamonita."
+    },
+    "KZ0iAw": {
+        "en": "[Salim Hamid]\nAre you sure?",
+        "pt": "[Salim Hamid]\nTem certeza?",
+        "es": "[SalimHamid]\n¿De verdad?"
+    },
+    "Kp0iAw": {
+        "en": "Yes, I am.",
+        "pt": "Sim, tenho.",
+        "es": "Sí, de verdad."
+    },
+    "K50iAw": {
+        "en": "No. Please tell me.",
+        "pt": "Não. Por favor, me diga.",
+        "es": "No. Por favor, dime."
+    },
+    "LJ0iAw": {
+        "en": "[Salim Hamid]\nOh, are you?",
+        "pt": "[Salim Hamid]\nAh, é mesmo?",
+        "es": "[SalimHamid]\nAh, ¿sí?"
+    },
+    "LZ0iAw": {
+        "en": "[Salim Hamid]\nOvercharge and Discount are Passive skills, meaning you, {0}, don't have to think about using them every time you trade with merchant NPCs. You know this, right?",
+        "pt": "[Salim Hamid]\nSuperfaturar e Desconto são habilidades passivas, o que significa que você, {0}, não precisa pensar em usá-las toda vez que negociar com mercadores NPCs. Você sabe disso, né?",
+        "es": "[SalimHamid]\nSobrecosto y Descuento son habilidades pasivas, lo que significa que tú, {0}, no tienes que pensar en usarlas cada vez que comercies con NPC Comerciantes. Lo sabes, ¿verdad?"
+    },
+    "Lp0iAw": {
+        "en": "[Salim Hamid]\nOvercharge enables you to sell items to NPC shops at a premium, depending on its level.",
+        "pt": "[Salim Hamid]\nSuperfaturar permite que você venda itens para lojas de NPC com um preço alto, dependendo do nível.",
+        "es": "[SalimHamid]\nSobrecosto te permite vender objetos a las tiendas de los NPC a un precio mayor, según su nivel."
+    },
+    "L50iAw": {
+        "en": "[Salim Hamid]\nDiscount works the same way, but in reverse. You can buy items from NPC shops at lower prices.",
+        "pt": "[Salim Hamid]\nDesconto funciona da mesma maneira, mas ao contrário. Você pode comprar itens de lojas de NPCs por preços menores.",
+        "es": "[SalimHamid]\nDescuento funciona igual, pero a la inversa. Puedes comprar objetos en las tiendas de los NPC a precios más bajos."
+    },
+    "MJ0iAw": {
+        "en": "[Salim Hamid]\nAs you already may know, these skills only work when you trade with Merchant NPCs, not Guild ones.",
+        "pt": "[Salim Hamid]\nComo você deve saber, essas habilidades só funcionam quando você negocia com Mercadores NPCs, não com os de Guildas.",
+        "es": "[SalimHamid]\nComo ya sabrás, estas habilidades solo funcionan cuando comercias con NPC Comerciantes, no con los del gremio."
+    },
+    "MZ0iAw": {
+        "en": "[Salim Hamid]\nFirst, ^0000FFEnlarge Weight Limit^000000 literally ^0000FFincreases your basic Weight Limit^000000. It's also a Passive skill that's always in effect once learned.",
+        "pt": "[Salim Hamid]\nPrimeiro, ^0000FFAumentar Capacidade de Carga^000000 literalmente ^0000FFaumenta a sua Capacidade de Carga básica^000000. Também é uma habilidade passiva que depois de ser aprendida permanece ativa.",
+        "es": "[SalimHamid]\nEn primer lugar, ^0000FFAmpliar límite de peso^000000 literalmente ^0000FFaumenta el límite de peso básico^000000. También es una habilidad pasiva que siempre tiene efecto una vez aprendida."
+    },
+    "Mp0iAw": {
+        "en": "[Salim Hamid]\nWhen you increase Enlarge Weight Limit to a certain level, you get to learn ^0000FFPush Cart^000000, which enables you to equip ^0000FFa cart that provides an additional inventory^000000.",
+        "pt": "[Salim Hamid]\nAo atingir um certo nível de Aumentar Capacidade de Carga, você aprende ^0000FFUsar Carrinho^000000, que permite equipar ^0000FFum carrinho que fornece um inventário adicional^000000.",
+        "es": "[SalimHamid]\nCuando aumentas Ampliar límite de peso hasta un cierto nivel, aprendes ^0000FFCarretilla^000000, que te permite equipar ^0000FFuna carreta que proporciona espacio adicional de inventario^000000."
+    },
+    "M50iAw": {
+        "en": "[Salim Hamid]\nPush Cart helps you carry much more items than you can without it, but it also slows down your MSPD.",
+        "pt": "[Salim Hamid]\nUsar Carrinho ajuda a carregar muito mais itens do que você conseguiria sem ele, mas também diminui a sua velocidade de movimento.",
+        "es": "[SalimHamid]\nCarretilla te ayuda a llevar muchos más objetos, pero también ralentiza tu VELM."
+    },
+    "NJ0iAw": {
+        "en": "[Salim Hamid]\nWhen you increase Push Cart to a certain level, you get to learn ^0000FFVending^000000, which enables you to open a shop where you sit, selling your items at the prices you want, just like NPCs do.",
+        "pt": "[Salim Hamid]\nAo atingir um certo nível de Usar Carrinho, você aprende ^0000FFComércio^000000, que permite abrir uma loja onde estiver, vendendo seus itens pelos preços que quiser, assim como os NPCs fazem.",
+        "es": "[SalimHamid]\nCuando subes Carretilla a un cierto nivel, aprendes ^0000FFVenta^000000, que te permite abrir una tienda en la que vendes tus objetos al precio que quieras, igual que hacen los NPC."
+    },
+    "NZ0iAw": {
+        "en": "[Salim Hamid]\nOnce you learn Vending, you don't have to manually advertise your items in the Chat window. You can just select the price and quantity of the items you want to sell, open a shop where you sit, and mind other business.",
+        "pt": "[Salim Hamid]\nDepois de aprender Comércio, você não precisa anunciar seus itens na Janela de Chat manualmente. Você pode apenas selecionar o preço e a quantidade dos itens que deseja vender, abrir uma loja onde estiver e ir fazer outras coisas.",
+        "es": "[SalimHamid]\nUna vez que aprendas Venta, no tendrás que publicar manualmente tus objetos en la ventana Chat. Solo selecciona el precio y la cantidad de los objetos que deseas vender, abre una tienda y ocúpate de otros asuntos."
+    },
+    "Np0iAw": {
+        "en": "[Salim Hamid]\nThis skill is at the height of being a Merchant.",
+        "pt": "[Salim Hamid]\nEssa habilidade é o auge de ser um Mercador.",
+        "es": "[SalimHamid]\nEsta habilidad es la cumbre de ser Comerciante."
+    },
+    "N50iAw": {
+        "en": "[Salim Hamid]\nItem Appraisal is not necessary, but useful to have.",
+        "pt": "[Salim Hamid]\nIdentificar Item não é necessário, mas útil de se ter.",
+        "es": "[SalimHamid]\nValoración de objetos no es necesaria, pero es útil."
+    },
+    "OJ0iAw": {
+        "en": "[Salim Hamid]\nIf you can't afford Magnifiers sold at the shops or want to spare its inventory slot for something else,",
+        "pt": "[Salim Hamid]\nSe você não pode comprar Lentes de Aumento vendidas nas lojas ou quer poupar seu espaço de inventário para outra coisa,",
+        "es": "[SalimHamid]\nSi no puedes pagar las Lupas de las tiendas o quieres reservar espacio en el inventario para otra cosa,"
+    },
+    "OZ0iAw": {
+        "en": "[Salim Hamid]\nyou can learn this skill to identify equipment dropped from monsters anytime, anywhere.",
+        "pt": "[Salim Hamid]\npoderá aprender essa habilidade para identificar equipamentos deixados por monstros a qualquer hora e em qualquer lugar",
+        "es": "[SalimHamid]\naprende esta habilidad para identificar el equipamiento que sueltan los monstruos en cualquier momento y lugar."
+    },
+    "Op0iAw": {
+        "en": "[Salim Hamid]\nMammonite lets you deliver a powerful blow to your enemy at the cost of all your Zeny.",
+        "pt": "[Salim Hamid]\nMammonita permite que você dê um golpe poderoso no seu inimigo ao custo de todos os seus zenys.",
+        "es": "[SalimHamid]\nLa Mamonita te permite asestar un golpe potente a tu enemigo a cambio de todos tus zeny."
+    },
+    "O50iAw": {
+        "en": "[Salim Hamid]\nThe higher its level, the more damage it inflicts but with more Zeny.",
+        "pt": "[Salim Hamid]\nQuanto maior o seu nível, mais dano causa, mas gastando mais Zenys.",
+        "es": "[SalimHamid]\nCuanto mayor sea su nivel, más daño inflige, pero cuesta más zeny."
+    },
+    "PJ0iAw": {
+        "en": "[Salim Hamid]\n{0}, I hope you'll become so rich that you can use this skill whenever you want. Ho ho ho!",
+        "pt": "[Salim Hamid]\n{0}, eu espero que você enriqueça para que consiga usar essa habilidade sempre que quiser. Hohoho!",
+        "es": "[SalimHamid]\n{0}, espero que tengas tanto dinero que puedas usar esta habilidad cuando quieras. ¡Jo, jo, jo!"
+    },
+    "PZ0iAw": {
+        "en": "[Salim Hamid]\nOkay, I'm not going to ask you about skills. You can easily check their descriptions through your Skill window.",
+        "pt": "[Salim Hamid]\nTá, eu não vou te perguntar sobre as habilidades. Você pode facilmente ver as descrições delas na sua Janela de Habilidades.",
+        "es": "[SalimHamid]\nBueno, no voy a preguntarte sobre habilidades. Puedes ver las descripciones en la ventana de habilidades."
+    },
+    "Pp0iAw": {
+        "en": "[Salim Hamid]\nFor your information, we Merchants can reset our skills and stats through <NAVI>[Hypnotist]<INFO>izlude,127 175</INFO></NAVI> in Izlude without special restriction. But you can't do that with other Jobs.",
+        "pt": "[Salim Hamid]\nPara a sua informação, nós, Mercadores, podemos redefinir nossas habilidades e nossos atributos com o <NAVI>[Hipnotizadora]<INFO>izlude,127 175</INFO></NAVI> em Izlude sem nenhuma restrição especial. Mas você não pode fazer isso com outras Classes.",
+        "es": "[SalimHamid]\nLos Comerciantes podemos restablecer nuestras habilidades y estadísticas con la <NAVI>[Hipnotizadora]<INFO>izlude,127 175</INFO></NAVI> en Izlude sin restricción especial. Pero eso no se puede hacer con otras clases."
+    },
+    "P50iAw": {
+        "en": "[Salim Hamid]\nThat means you're free to experiment with them as long as you want. Not after you Advance to a 2nd class, of course, though.",
+        "pt": "[Salim Hamid]\nIsso significa que você está livre para experimentar o quanto quiser. Mas não antes de você avançar para uma 2ª classe, é claro.",
+        "es": "[SalimHamid]\nEso significa que eres libre de experimentar con ellas todo el tiempo que quieras. Aunque no después de avanzar a la segunda clase, claro."
+    },
+    "QJ0iAw": {
+        "en": "^0000FFReceived 15 Free Tickets for Kafra Storage.^000000",
+        "pt": "^0000FF15 Vales-Armazéns da Kafra recebidos.^000000",
+        "es": "^0000FFRecibiste 15 boletos gratis para el Almacén de Kafra.^000000"
+    },
+    "QZ0iAw": {
+        "en": "[Salim Hamid]\nOh, by the way, are you busy right now?",
+        "pt": "[Salim Hamid]\nAh, por acaso, você está fazendo algo agora?",
+        "es": "[SalimHamid]\nPor cierto, ¿tienes algo que hacer ahora?"
+    },
+    "Qp0iAw": {
+        "en": "[Salim Hamid]\nI keep getting requests from the Merchant Guild, but I don't have anyone to take care of them.",
+        "pt": "[Salim Hamid]\nContinuo recebendo pedidos da Guilda dos Mercadores, mas não tenho ninguém para cuidar deles.",
+        "es": "[SalimHamid]\nSigo recibiendo solicitudes del gremio de Comerciantes, pero no tengo a nadie que se pueda ocupar."
+    },
+    "Q50iAw": {
+        "en": "[Salim Hamid]\nPractice makes perfect, right? How'd you like to put your knowledge into practice?",
+        "pt": "[Salim Hamid]\nA prática leva à perfeição, certo? Como você gostaria de colocar seu conhecimento em prática?",
+        "es": "[SalimHamid]\nLa práctica hace al maestro, ¿verdad? ¿Te gustaría poner en práctica tus conocimientos?"
+    },
+    "RJ0iAw": {
+        "en": "[Salim Hamid]\n{0}, please take care of the requests from the Merchant Guild. My butler next to me are in charge of them.",
+        "pt": "[Salim Hamid]\n{0}, por favor, atenda aos pedidos da Guilda dos Mercadores. O mordomo ao meu lado é o responsável por eles.",
+        "es": "[SalimHamid]\n{0}, ocúpate de las solicitudes del gremio de Comerciantes. El mayordomo a mi lado se encarga de ellas."
+    },
+    "RZ0iAw": {
+        "en": "[Salim Hamid]\nThat Academy student should be here by now. Where are they? *Sigh...*",
+        "pt": "[Salim Hamid]\nAquele estudante da Academia já deveria estar aqui. Cadê? *Suspiro*",
+        "es": "[SalimHamid]\nEse estudiante de la Academia ya debería estar aquí. ¿Dónde está? *Suspira*"
+    },
+    "Rp0iAw": {
+        "en": "[Salim Hamid]\nMm? Oh, you're a fresh-faced Novice, aren't you? What brings you here? Are you lost?",
+        "pt": "[Salim Hamid]\nHum? Ah, você é um Aprendiz novo, não é? O que te traz aqui? Você se perdeu?",
+        "es": "[SalimHamid]\n¿Mm? Oh, eres Principiante, ¿no? ¿Qué te trae por aquí? ¿Te perdiste?"
+    },
+    "R50iAw": {
+        "en": "[Salim Hamid]\nAh, I'm waiting for someone. But I guess they're taking their time.",
+        "pt": "[Salim Hamid]\nAh, eu estou esperando alguém. Mas eu acho que a pessoa se atrasou.",
+        "es": "[SalimHamid]\nAh, estoy esperando a alguien. Pero supongo que se está tomando su tiempo."
+    },
+    "SJ0iAw": {
+        "en": "[Salim Hamid]\nIf you came to become a Merchant, please talk to the Merchant Guildman over there. He'll be happy to help you.",
+        "pt": "[Salim Hamid]\nSe você veio para se tornar Mercador, por favor, fale com o Mercador da Guilda ali. Ele vai ficar feliz em te ajudar.",
+        "es": "[SalimHamid]\nSi viniste para convertirte en Comerciante, habla con el gremialista de Comerciantes de allí. Estará encantado de ayudarte."
+    },
+    "SZ0iAw": {
+        "en": "[Salim Hamid]\nOoh, good job finding this Forge!",
+        "pt": "[Salim Hamid]\nAh, bom trabalho em achar essa forja!",
+        "es": "[SalimHamid]\nOhh, encontraste esta forja. ¡Buen trabajo!"
+    },
+    "Sp0iAw": {
+        "en": "[Salim Hamid]\nFrom now on, the ^0000FFMerchant Guildman^000000 over there will help you change your job, {0}. Please follow his instructions to become a Merchant. Good luck.",
+        "pt": "[Salim Hamid]\nDe agora em diante, o ^0000FFFuncionário da Guilda^000000 ali vai te ajudar a trocar a sua classe, {0}. Por favor, siga as instruções dele para se tornar Mercador. Boa sorte.",
+        "es": "[SalimHamid]\nA partir de ahora, el ^0000FFgremialista de Comerciantes^000000 de allí te ayudará a cambiar de clase, {0}. Sigue sus instrucciones para convertirte en Comerciante. Buena suerte."
+    },
+    "S50iAw": {
+        "en": "[Salim Hamid]\nOh, and {0}, please come back to me afterward. I may need your help with something.",
+        "pt": "[Salim Hamid]\nAh, e {0}, por favor, volte para falar comigo depois. Talvez eu precise da sua ajuda com alguma coisa.",
+        "es": "[SalimHamid]\nAh, {0}, vuelve a verme después. Puede que necesite tu ayuda con algo."
+    },
+    "TJ0iAw": {
+        "en": "[Salim Hamid]\nThe ^0000FFMerchant Guildman^000000 over there will help you change your job, {0}. Please follow his instructions to become a Merchant. Good luck.",
+        "pt": "[Salim Hamid]\nO ^0000FFFuncionário da Guilda^000000 ali vai te ajudar a trocar a sua classe, {0}. Por favor, siga as instruções dele para se tornar Mercador. Boa sorte.",
+        "es": "[SalimHamid]\nEl ^0000FFgremialista de Comerciantes^000000 de allí te ayudará a cambiar de clase, {0}. Sigue sus instrucciones para convertirte en Comerciante. Buena suerte."
+    },
+    "TZ0iAw": {
+        "en": "[Salim Hamid]\nAnd {0}, please come back to me afterward. I may need your help with something.",
+        "pt": "[Salim Hamid]\nE {0}, por favor, volte para falar comigo depois. Talvez eu precise da sua ajuda com alguma coisa.",
+        "es": "[SalimHamid]\nY, {0}, vuelve a verme después. Puede que necesite tu ayuda con algo."
+    },
+    "Tp0iAw": {
+        "en": "[Salim Hamid]\nI'd better finish some of this bookkeeping before the Academy students arrive.",
+        "pt": "[Salim Hamid]\nMelhor eu terminar minhas contas antes que os estudantes da Academia cheguem.",
+        "es": "[SalimHamid]\nSerá mejor que termine estas cuentas antes de que lleguen los estudiantes de la Academia."
+    }
+}

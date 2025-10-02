@@ -1,0 +1,3207 @@
+{
+    "AJKUBg": {
+        "en": "Guildsman",
+        "pt": "Mercenário",
+        "es": "Gremialista"
+    },
+    "AZKUBg": {
+        "en": "You seem to have come this far because of a special event.",
+        "pt": "Parece que você chegou até aqui por causa de um evento especial.",
+        "es": "Parece que llegaste hasta aquí gracias a un evento especial."
+    },
+    "ApKUBg": {
+        "en": "^4D4DFF You can summon a service npc for job change.",
+        "pt": "^4D4DFFVocê pode invocar um NPC de Mudança de classe^000000",
+        "es": "^4D4DFF Puedes invocar a un NPC de servicio para el cambio de clase."
+    },
+    "A5KUBg": {
+        "en": "Summon a service npc for a job change.",
+        "pt": "Invocar NPC de Mudança de Classe",
+        "es": "Invoca a un NPC de servicio para u cambio de clase."
+    },
+    "BJKUBg": {
+        "en": "refuse.",
+        "pt": "Recusar",
+        "es": "Rechazar."
+    },
+    "BZKUBg": {
+        "en": "^4D4DFF You can summon a service npc for job change.\nThe 3rd job change can be done in each job guild.^000000",
+        "pt": "^4D4DFFVocê pode invocar um NPC de Mudança de classe^000000\nClasses 3 precisam completar a missão tradicionalmente.",
+        "es": "^4D4DFF Puedes invocar a un NPC de servicio para el cambio de clase.\nEl tercer cambio de clase se puede hacer en cada gremio de clase.^000000"
+    },
+    "BpKUBg": {
+        "en": "[Ferocious-looking guy]\nHm? You....?\nI sense that you're different than most people...",
+        "pt": "[Homem Ríspido]\nHm? Você....?\nSinto que você é diferente da maioria das pessoas...",
+        "es": "[Tipo de aspecto feroz]\n¿Eh? ¿Tú…?\nSiento que eres diferente a la mayoría de la gente…"
+    },
+    "B5KUBg": {
+        "en": "[Ferocious-looking guy]\nI've never met anyone as intimidating as you! For some reason, I don't like you. I think you should leave!",
+        "pt": "[Homem Ríspido]\nVocê está me pressionando... E não estou gostando disso em você! Dê o fora!",
+        "es": "[Tipo de aspecto feroz]\n¡Nunca había conocido a nadie tan intimidante como tú! Por alguna razón, no me caes bien. ¡Creo que tienes que irte!"
+    },
+    "CJKUBg": {
+        "en": "[Ferocious-looking guy]\nYou can't change your job if you have any unused skill points from the 1st job. You better go and use those up first.",
+        "pt": "[Homem Ríspido]\nVocê deve gastar todos os seus Pontos de Habilidades restantes primeiro.",
+        "es": "[Tipo de aspecto feroz]\nNo puedes cambiar de clase si tienes puntos de habilidad sin usar de la primera clase. Mejor ve y úsalos primero."
+    },
+    "CZKUBg": {
+        "en": "[Ferocious-looking guy]\nOh, stop making that face. Can you really be in that much pain?",
+        "pt": "[Homem Ríspido]\nVocê não parece estar dando tudo de si...",
+        "es": "[Tipo de aspecto feroz]\nAy, deja de poner esa cara. ¿En serio sientes tanto dolor?"
+    },
+    "CpKUBg": {
+        "en": "[Ferocious-looking guy]\nWah wah wah, you're hurting, I can see that. Look, I'll restore HP and SP. Happy?",
+        "pt": "[Homem Ríspido]\nEu vou completar seu HP e SP, mas lembre-se de se concentrar!",
+        "es": "[Tipo de aspecto feroz]\nBua, bua, bua, estás sufriendo, puedo verlo. Mira, restauraré los HP y los SP. ¿Con eso estás feliz?"
+    },
+    "C5KUBg": {
+        "en": "[Ferocious-looking guy]\nIs it that hard to stay alive?\nWhy don't you try harder next time? You can't force yourself too hard to become an Assassin...",
+        "pt": "[Homem Ríspido]\nSe você acha que está muito difícil... \nVocê pode parar por aqui...",
+        "es": "[Tipo de aspecto feroz]\n¿Tan difícil es mantenerte con vida?\n¿Por qué no te esfuerzas más la próxima vez? No puedes forzarte de más para convertirte en Asesino…"
+    },
+    "DJKUBg": {
+        "en": "I will become an Assassin no matter what!",
+        "pt": "Não! Eu não vou desistir!",
+        "es": "¡Me convertiré en Asesino pase lo que pase!"
+    },
+    "DZKUBg": {
+        "en": "Oh man, I gotta take a break.",
+        "pt": "Acho que preciso dar uma pausa...",
+        "es": "Esto es demasiado, tengo que descansar."
+    },
+    "DpKUBg": {
+        "en": "[Ferocious-looking guy]\nOh...\nWell then,\ngo for it!",
+        "pt": "[Homem Ríspido]\nAh...\nBem, então,\nvamos lá!",
+        "es": "[Tipo de aspecto feroz]\nAh…\nPues bien,\n¡adelante!"
+    },
+    "D5KUBg": {
+        "en": "[Ferocious-looking guy]\nTake a break? Oh alright, have it your way. When you feel like you're ready to become an Assassin, come back.",
+        "pt": "[Homem Ríspido]\nUma pausa? Ah, tudo bem, faça como quiser. Quando você sentir que merece se tornar um de nós, volte.",
+        "es": "[Tipo de aspecto feroz]\n¿Descansar? Está bien, como quieras. Cuando sientas que ya tienes lo necesario para convertirte en Asesino, vuelve."
+    },
+    "EJKUBg": {
+        "en": "[Ferocious-looking guy]\nYou'll have to walk if you want to get back to town. Oh, and don't forget to save your spawn point, alright?",
+        "pt": "[Homem Ríspido]\nHmm.. Você vai precisar andar até Morroc, então não se esqueça de salvar lá.",
+        "es": "[Tipo de aspecto feroz]\nTendrás que caminar si quieres volver al pueblo. Ah, y no olvides guardar tu punto de aparición, ¿sí?"
+    },
+    "EZKUBg": {
+        "en": "[Assassin Expert 'Huey']\nHey, what happened...? How come you didn't bring the ^006699Necklace of Oblivion^000000? You're supposed to carry that with you, so where is it?",
+        "pt": "[Kakashi]\nO que aconteceu? Aonde está o ^006699Colar do Oblívio^000000 que lhe foi dado?",
+        "es": "[Huey, el experto Asesino]\nOye, ¿qué pasó…? ¿Cómo es que no trajiste el ^006699Collar de olvido^000000? Se supone que debes llevarlo siempre, ¿dónde está?"
+    },
+    "EpKUBg": {
+        "en": "[Assassin Expert 'Huey']\nYou get better get that ^006699Necklace of Oblivion^000000 again before the guildmaster finds out! Hurry, and do your best to get it!",
+        "pt": "[Kakashi]\nEu tenho certeza de que você recebeu um ^006699Colar do Oblívio^000000... Você perdeu!?",
+        "es": "[Huey, el experto Asesino]\n¡Será mejor que vuelvas a conseguir ese ^006699Collar de olvido^000000 antes de que se entere el maestro del gremio! ¡Date prisa y haz todo lo posible por conseguirlo!"
+    },
+    "E5KUBg": {
+        "en": "[Assassin Expert 'Huey']\nWhen you finally succeed in getting it, bring it to me! ^666666*Sigh...*^000000",
+        "pt": "[Kakashi]\nQuando você achá-lo, traga-o para mim! ^666666*Suspiro*^000000",
+        "es": "[Huey, el experto Asesino]\n¡Cuando por fin lo consigas, tráemelo! ^666666*Suspira…*^000000"
+    },
+    "FJKUBg": {
+        "en": "Please get off of that creature you're riding on\nthen come to find me again...",
+        "pt": "Por favor, remova sua montaria\ne volte novamente.",
+        "es": "Bájate de la criatura que estás montando\ny luego ven a verme..."
+    },
+    "FZKUBg": {
+        "en": "[Assassin Expert 'Huey']\nWell well well, you got it. Congratulations! But since it's been clearly scratched, I can't accept it. You'll never become an Assassin!",
+        "pt": "[Kakashi]\nBem, você conseguiu. Parabéns! Mas como o Colar do Oblívio está arranhado, não posso mudar sua classe. Você nunca se tornará um de nós!",
+        "es": "[Huey, el experto Asesino]\nVaya, vaya, vaya, lo conseguiste. ¡Felicitaciones! Pero como está claramente rayado, no puedo aceptarlo. ¡Nunca te convertirás en Asesino!"
+    },
+    "FpKUBg": {
+        "en": "[Assassin Expert 'Huey']\nHahahah~! I'm just joking, don't take it seriously. But I do need to check this necklace with the guildmaster first.",
+        "pt": "[Kakashi]\nHahahah~! Estou apenas brincando, não leve a sério.",
+        "es": "[Huey, el experto Asesino]\n¡Ja, ja, ja~! Solo es una broma, no te lo tomes en serio. Pero primero necesito comprobar este Collar con el maestro del gremio."
+    },
+    "F5KUBg": {
+        "en": "[Assassin Expert 'Huey']\n...",
+        "pt": "[Kakashi]\n...",
+        "es": "[Huey, el experto Asesino]\n…"
+    },
+    "GJKUBg": {
+        "en": "[Assassin Expert 'Huey']\n...\n......",
+        "pt": "[Kakashi]\n...\n......",
+        "es": "[Huey, el experto Asesino]\n…\n......"
+    },
+    "GZKUBg": {
+        "en": "[Assassin Expert 'Huey']\nAlright!\nYou've been approved!",
+        "pt": "[Kakashi]\nMuito bem!\nVocê pode mudar de classe!",
+        "es": "[Huey, el experto Asesino]\n¡Muy bien!\n¡Te aprobaron!"
+    },
+    "GpKUBg": {
+        "en": "[Assassin Expert 'Huey']\nNow! Do your best to be a great Assassin! Travel with faith and kill with dignity. Come by anytime and pay us a visit. Once again, congratulations.",
+        "pt": "[Kakashi]\nAgora, não se esqueça de que isso foi uma escolha sua, e toda escolha é uma mudança. Passe por aqui quando quiser... Agora você é um de nós...",
+        "es": "[Huey, el experto Asesino]\n¡Bien! ¡Haz tu mejor esfuerzo para ser un excelente Asesino! Viaja con fe y asesina con dignidad. Ven a visitarnos cuando quieras. Una vez más, felicitaciones."
+    },
+    "G5KUBg": {
+        "en": "[Ferocious-looking guy]\nEh?\nWhat do you want?",
+        "pt": "[Homem Ríspido]\nHmm? \nO que você procura neste lugar isolado?",
+        "es": "[Tipo de aspecto feroz]\n¿Eh?\n¿Qué quieres?"
+    },
+    "HJKUBg": {
+        "en": "[Ferocious-looking guy]\nI see you're carrying a ^006699Necklace of Oblivion^000000... You want to become an Assassin, don't you? Let me check it...",
+        "pt": "[Homem Ríspido]\nVejo que você carrega um ^006699Colar do Oblívio^000000... Você quer se tornar um Mercenário, não é? Deixe-me ver...",
+        "es": "[Tipo de aspecto feroz]\nVeo que estás usando un ^006699Collar de olvido^000000… Quieres convertirte en Asesino, ¿verdad? Déjame verlo…"
+    },
+    "HZKUBg": {
+        "en": "[Ferocious-looking guy]\n...",
+        "pt": "[Homem Ríspido]\n...",
+        "es": "[Tipo de aspecto feroz]\n…"
+    },
+    "HpKUBg": {
+        "en": "[Ferocious-looking guy]\n...\n......",
+        "pt": "[Homem Ríspido]\n...\n......",
+        "es": "[Tipo de aspecto feroz]\n…\n......"
+    },
+    "H5KUBg": {
+        "en": "[Ferocious-looking guy]\nWait a second...\nWhy you no good BASTARD! THIS IS A FAKE!",
+        "pt": "[Homem Ríspido]\nEste Colar do Oblívio é FALSO...\nO verdadeiro é conseguido através das duras provas dos Testes dos Mercenários.",
+        "es": "[Tipo de aspecto feroz]\nEspera un segundo…\n¡No eres una persona honesta, INFELIZ! ¡ESTO ES FALSO!"
+    },
+    "IJKUBg": {
+        "en": "[Ferocious-looking guy]\nHow dare you think of trying to trick me with a fake! Are you stupid or what!? I should kill you...",
+        "pt": "[Homem Ríspido]\nComo ousa pensar em tentar me enganar com uma farsa? Você é idiota ou o quê? Eu deveria te matar...",
+        "es": "[Tipo de aspecto feroz]\n¡Cómo te atreves a intentar engañarme con algo falso! ¿¡Eres idiota o qué!? Debería matarte…"
+    },
+    "IZKUBg": {
+        "en": "[Ferocious-looking guy]\nWhat brings you here?\nI don't think I like the way you're looking at me... Punk.",
+        "pt": "[Homem Ríspido]\nHmm? O que você está fazendo num lugar isolado como este?\n...Não me diga que veio até aqui sem querer...",
+        "es": "[Tipo de aspecto feroz]\n¿Qué te trae por aquí?\nCreo que no me gusta cómo me miras… Punk."
+    },
+    "IpKUBg": {
+        "en": "[Ferocious-looking guy]\nHey Newbie. You should really get out of here as soon as you can. I can't guarantee your safety.",
+        "pt": "[Homem Ríspido]\nNão sei como você chegou vivo até aqui, mas não posso garantir sua segurança. Saia daqui.",
+        "es": "[Tipo de aspecto feroz]\nHola, principiante. Deberías irte de aquí lo antes posible. No puedo garantizar tu seguridad."
+    },
+    "I5KUBg": {
+        "en": "[Ferocious-looking guy]\nWhat brings a man of the sword to this place? Why don't you try smashing stuff somewhere else, ya lunkhead.",
+        "pt": "[Homem Ríspido]\nOra, veja só... Um membro da Cavalaria, aqui, neste recanto imundo... Por que você não volta para Prontera e vai afiar sua espada em um espantalho, hein? Huahauhauuha",
+        "es": "[Tipo de aspecto feroz]\n¿Qué trae a un hombre hábil con la espada a este lugar? ¿Por qué no vas a romper cosas en otro lugar, cabeza hueca?"
+    },
+    "JJKUBg": {
+        "en": "[Ferocious-looking guy]\nNow what would a magic user be doing here?",
+        "pt": "[Homem Ríspido]\nO que temos aqui? Ahhh.. você usa a magia, é isso? Que covardia...",
+        "es": "[Tipo de aspecto feroz]\n¿Por qué un usuario de la magia vendría a este lugar?"
+    },
+    "JZKUBg": {
+        "en": "[Ferocious-looking guy]\nThere's a library in Prontera and Juno where you're welcome, so why don't you make like a magic trick and disappear?",
+        "pt": "[Homem Ríspido]\nHá uma biblioteca em Prontera e Juno onde você é bem-vindo, então por que você não faz um truque de mágica e desaparece?",
+        "es": "[Tipo de aspecto feroz]\nHay una biblioteca en Prontera y Juno en donde seguro te recibirían con gusto, ¿así que por qué no haces un truco de magia y desapareces?"
+    },
+    "JpKUBg": {
+        "en": "[Ferocious-looking guy]\nWell well well.\nLook at that purdy bow.",
+        "pt": "[Homem Ríspido]\nArco e flecha?\nQue piada!",
+        "es": "[Tipo de aspecto feroz]\nVaya, vaya.\nMira ese Arco tan lindo."
+    },
+    "J5KUBg": {
+        "en": "[Ferocious-looking guy]\nThere aren't many Bowmen with the gall to even come close to this place. Well, what do you think you're doin' here?!",
+        "pt": "[Homem Ríspido]\nNão temos nenhum concurso de Tiro-ao-Alvo aqui pra você...\nXô, vai embora.",
+        "es": "[Tipo de aspecto feroz]\nNo hay muchos Arqueros que se atrevan a acercarse a este lugar. Bueno, ¡¿qué crees que estás haciendo aquí?!"
+    },
+    "KJKUBg": {
+        "en": "[Ferocious-looking guy]\nI thought something smelled funny. What's a servant of God doing in this place? You don't belong here.",
+        "pt": "[Homem Ríspido]\nVocês dizem que Deus está em todos os lugares, não? Pois eu lhe garanto que Deus não está nessas lâminas sujas de sangue. Vá embora.",
+        "es": "[Tipo de aspecto feroz]\nCreí haber olido algo raro. ¿Qué hace un sirviente de los dioses en este lugar? Tú no perteneces aquí."
+    },
+    "KZKUBg": {
+        "en": "[Ferocious-looking guy]\nWe don't like greedy people around these parts. You better sell your stuff somewhere else, Moneybags.",
+        "pt": "[Homem Ríspido]\nHmm.. Seu bolso parece estar pesado com todas essas coisas valiosas... Se quiser pode me dar algumas... Não que você ou a sua garganta tenham muita escolha...",
+        "es": "[Tipo de aspecto feroz]\nAquí no nos gusta la gente codiciosa. Será mejor que vendas tus cosas en otro sitio, ricachón."
+    },
+    "KpKUBg": {
+        "en": "[Ferocious-looking guy]\nYou look like you don't have a care in the world. Well, I hope you enjoy your rest while you stay here. It's okay, since the Rogue and Assassin Guilds have always gotten along pretty well.",
+        "pt": "[Homem Ríspido]\nEspero que você sinta-se confortável enquanto estiver aqui. A Guilda dos Mercenários e a dos Arruaceiros sempre se deram muito bem...",
+        "es": "[Tipo de aspecto feroz]\nParece como si no tuvieras ninguna preocupación en el mundo. Bueno, espero que disfrutes tu descanso mientras estés aquí. No hay problema, ya que los gremios de Pícaros y Asesinos siempre se han llevado bastante bien."
+    },
+    "K5KUBg": {
+        "en": "[Ferocious-looking guy]\nBy the way...\nHave you ever seen\na girl named Markie?",
+        "pt": "[Homem Ríspido]\nA propósito...\nVocê já viu\numa garota chamada Marky?",
+        "es": "[Tipo de aspecto feroz]\nPor cierto…\n¿Has visto alguna vez\na una chica llamada Markie?"
+    },
+    "LJKUBg": {
+        "en": "[Ferocious-looking guy]\nMarkie...\nWe promised that we'd be together forever. ^666666*Sigh...*^000000 I don't even think she remembers that promise anymore. Then again, we were pretty young back then...",
+        "pt": "[Homem Ríspido]\nMarku...\nPrometemos que ficaríamos juntos para sempre. ^666666*Suspiro*^000000 Acho que ela nem se lembra mais dessa promessa. Mas, novamente, éramos muito jovens naquela época...",
+        "es": "[Tipo de aspecto feroz]\nMarkie…\nPrometimos que estaríamos juntos para siempre. ^666666*Suspira…*^000000 Ni siquiera creo que siga recordando esa promesa. Pero, en ese momento, éramos muy jóvenes…"
+    },
+    "LZKUBg": {
+        "en": "[Assassin Expert 'Huey']\nHey, I remember you~\nWasn't your name, umm, I remember 'cause it sounded funny to me...",
+        "pt": "[Kakashi]\nEi, eu me lembro de você!\nSeu nome era... hmm... eu me lembro porque era engraçado...",
+        "es": "[Huey, el experto Asesino]\nOye, yo te recuerdo~.\nEse no era tu nombre, ehhh, lo recuerdo porque me sonaba gracioso…"
+    },
+    "LpKUBg": {
+        "en": "[Assassin Expert 'Huey']\n:+:{0}:+:, right? No wait, just {0}. Yeah, how's it goin'?",
+        "pt": "[Kakashi]\n:+:{0}:+:, certo? Não, espere... é apenas {0}. Sim, como está indo?",
+        "es": "[Huey, el experto Asesino]\n:+:{0}: +:, ¿verdad? No, espera, solo {0}. Sí, ¿cómo te va?"
+    },
+    "L5KUBg": {
+        "en": "[Assassin Expert 'Huey']\nUnfortunately, I don't have any requests for you at this time from the guild. Just keep focusing on your training. Till then, see ya.",
+        "pt": "[Kakashi]\nInfelizmente, não tenho nenhuma solicitação da guilda para você neste momento. Continue se concentrando em seu treinamento. Até lá, até mais.",
+        "es": "[Huey, el experto Asesino]\nPor desgracia, no tengo ninguna solicitud del gremio para ti en este momento. Sigue concentrándote en tu entrenamiento. Nos vemos."
+    },
+    "MJKUBg": {
+        "en": "[Ferocious-looking guy]\nYou can't change your job if you still have unused skill points from First Job. You better use up those skill points first.",
+        "pt": "[Homem Ríspido]\nVocê deve gastar todos os seus Pontos de Habilidades restantes primeiro.",
+        "es": "[Tipo de aspecto feroz]\nNo puedes cambiar de clase si aún tienes puntos de habilidad sin usar de la primera clase. Será mejor que uses primero esos puntos de habilidad."
+    },
+    "MZKUBg": {
+        "en": "[Ferocious-looking guy]\nHmm...\nA Thief...?",
+        "pt": "[Homem Ríspido]\nHmm...\nVocê é...?",
+        "es": "[Tipo de aspecto feroz]\nMmm…\n¿Un Ladrón…?"
+    },
+    "MpKUBg": {
+        "en": "[Ferocious-looking guy]\nAnd a well-experienced Thief since I can't seem to find my wallet. We do need people like you, you know.",
+        "pt": "[Homem Ríspido]\nParece ser bastante experiente. Precisamos de pessoas como você.",
+        "es": "[Tipo de aspecto feroz]\nY un Ladrón con experiencia parece, ya que no encuentro mi billetera. Necesitamos más gente como tú."
+    },
+    "M5KUBg": {
+        "en": "[Ferocious-looking guy]\nSo how about taking the next step and becoming an Assassin?",
+        "pt": "[Homem Ríspido]\nEntão, que tal dar o próximo passo e entrar para a Guilda dos Mercenários?",
+        "es": "[Tipo de aspecto feroz]\n¿Y si das el siguiente paso y te conviertes en Asesino?"
+    },
+    "NJKUBg": {
+        "en": "Yes. I've picked my last pocket.",
+        "pt": "Sim, foi para isso que eu treinei.",
+        "es": "Sí. Ya robé mi último bolsillo."
+    },
+    "NZKUBg": {
+        "en": "What's the requirements?",
+        "pt": "Quais são os pré-requisitos?",
+        "es": "¿Cuáles son los requisitos?"
+    },
+    "NpKUBg": {
+        "en": "Maybe later, I need to steal some things first.",
+        "pt": "Talvez mais tarde, preciso roubar algumas coisas primeiro.",
+        "es": "Tal vez, más tarde; necesito robar algunas cosas primero."
+    },
+    "N5KUBg": {
+        "en": "[Ferocious-looking guy]\nIt's been a while since I've received a guest. I'm sending\nyou to the office.",
+        "pt": "[Homem Ríspido]\nBem, vamos ver se você treinou o bastante, vou te mandar para o interior desta Fortaleza.",
+        "es": "[Tipo de aspecto feroz]\nHacía tiempo que no tenía invitados. Te enviaré\na la oficina."
+    },
+    "OJKUBg": {
+        "en": "[Ferocious-looking guy]\nRequirements? Well, first you need to be a Thief. Second, you need to be at least Thief job level 40.",
+        "pt": "[Homem Ríspido]\nPrimeiro, ser um Gatuno com, pelo menos, Nível de Classe 40.",
+        "es": "[Tipo de aspecto feroz]\n¿Requisitos? Bueno, primero, debes ser Ladrón. Segundo, debes tener al menos un nivel de clase 40 de Ladrón."
+    },
+    "OZKUBg": {
+        "en": "[Ferocious-looking guy]\nAnd third, you need to pass a test to become an Assassin. You got\nall that? If you're sure of your ability as a Thief, you won't have to worry.",
+        "pt": "[Homem Ríspido]\nE, em terceiro lugar, você precisa passar em um teste para se tornar um Mercenário. \nEntendeu tudo? \nSe estiver confiante em suas habilidades como Gatuno, \nnão terá com o que se preocupar.",
+        "es": "[Tipo de aspecto feroz]\nY, tercero, debes pasar una prueba para convertirte en Asesino. ¿Entendiste\ntodo? Si confías en tus habilidades como Ladrón, no tendrás de qué preocuparte."
+    },
+    "OpKUBg": {
+        "en": "[Ferocious-looking guy]\nHmm...\nAlright then.\nBut come back when\nyou think you're ready.",
+        "pt": "[Homem Ríspido]\nSério? \nBem, \nnão é para qualquer \num mesmo...",
+        "es": "[Tipo de aspecto feroz]\nMmm…\nDe acuerdo.\nPero vuelve cuando\ncreas que tienes lo necesario."
+    },
+    "O5KUBg": {
+        "en": "[Ferocious-looking guy]\nHuh. You're not qualified to become an Assassin yet. There are requirements you need to meet first, you know.",
+        "pt": "[Homem Ríspido]\nEr... Você não preenche os pré-requisitos para se tornar Mercenário.",
+        "es": "[Tipo de aspecto feroz]\nMm. Aún no calificas para convertirte en Asesino. Hay requisitos que tienes que cumplir primero, ya sabes."
+    },
+    "PJKUBg": {
+        "en": "[Ferocious-looking guy]\nWell, keep training. You need to be at least job level 40, got it? But if you're above job level 40, that will probably be even better.",
+        "pt": "[Homem Ríspido]\nClaro que não há nenhum mal em se treinar além do nível 40... Pode até mesmo ser uma vantagem...",
+        "es": "[Tipo de aspecto feroz]\nBueno, sigue entrenando. Debes tener al menos un nivel de clase 40, ¿entiendes? Pero si ya pasaste el nivel de clase 40, probablemente, sería aún mejor."
+    },
+    "PZKUBg": {
+        "en": "[Assassin 'Khai']\nUmm?!",
+        "pt": "[Kain]\nHã?!",
+        "es": "[Asesino Khai]\n¡¿Eehh?!"
+    },
+    "PpKUBg": {
+        "en": "[Assassin 'Khai']\nCome closer. I prefer to talk to people face to face. It really irritates me if I have to raise my voice, just so you can hear me.\nI feel irritated when somebody talks to me behind my back.",
+        "pt": "[Kain]\nEu não gosto quando as pessoas ficam atrás de mim...\nVenha para a minha frente, vamos falar cara-a-cara.",
+        "es": "[Asesino Khai]\nAcércate. Prefiero hablar con la gente cara a cara. Me irrita tanto tener que levantar la voz para que me oigan.\nMe irrito cuando alguien habla a mis espaldas."
+    },
+    "P5KUBg": {
+        "en": "[Assassin 'Khai']\nEhhh?\nDidn't you just\npass me a minute ago?",
+        "pt": "[Kain]\n...\nHã?\nVocê não acabou de passar por aqui?",
+        "es": "[Asesino Khai]\n¿Ehhh?\n¿No acabas de\npasar hace un minuto?"
+    },
+    "QJKUBg": {
+        "en": "[Assassin 'Khai']\nEh...?!\nYou failed?\nEven on the\nwriting test?\nBwahahahahaha!",
+        "pt": "[Kain]\nAh..! \nVocê não passou no teste!?! \nNem no teste escrito!??!\nPutz!\nWahahahahahah!!!!",
+        "es": "[Asesino Khai]\n¡¿Eh…?!\n¿Fallaste?\n¿También\nla prueba de redacción?\n¡Muajajajajajaja!"
+    },
+    "QZKUBg": {
+        "en": "[Assassin 'Khai']\nWell...\nIt's been a long time since\nI've met such a big failure.",
+        "pt": "[Kain]\nTsctsctsc... Era de se esperar mesmo, uma criança como você...\nAcho que você bebeu demais daquelas poções... Devem ter alterado o seu cérebro... \nHahahahaha!!",
+        "es": "[Asesino Khai]\nBueno…\nHa pasado mucho tiempo desde que\nconocí a un fracaso tan grande."
+    },
+    "QpKUBg": {
+        "en": "[Assassin 'Khai']\nHAH!\nHahahahah~!\nOh, you're killing me....",
+        "pt": "[Kain]\nHAH!\nHahahahah~!\nAi, eu preciso respirar....",
+        "es": "[Asesino Khai]\n¡JA!\n¡Ja, ja, ja, ja~!\nAy, me matas de risa…"
+    },
+    "Q5KUBg": {
+        "en": "[Assassin 'Khai']\nSorry for laughing, but this is hilarious! Hahaha~ So do you want me to give you some hints?",
+        "pt": "[Kain]\nDesculpe, eu não devia estar rindo de você.. Quer umas dicas para te ajudar?",
+        "es": "[Asesino Khai]\nPerdón por reírme, ¡pero esto es divertidísimo! Ja, ja, ja~. ¿Quieres que te dé algunas pistas?"
+    },
+    "RJKUBg": {
+        "en": "I beg you, give me hints.",
+        "pt": "...Sim...",
+        "es": "Te lo ruego, dame pistas."
+    },
+    "RZKUBg": {
+        "en": "Don't laugh at me! Now, give me hints!",
+        "pt": "Pare de rir e me ajude!",
+        "es": "¡No te rías de mí! ¡Bien, dame pistas!"
+    },
+    "RpKUBg": {
+        "en": "...Shut up, I don't need your help!",
+        "pt": "...Eu não preciso da sua ajuda!",
+        "es": "¡Cállate, no necesito tu ayuda!"
+    },
+    "R5KUBg": {
+        "en": "[Assassin 'Khai']\nHaaahahahaha!!!\nWell well, aren't we honest. You're not even an Assassin yet, but you're killing me, I tell you, killing me!",
+        "pt": "[Kain]\nA..Ahahahah!!!\nOra, ora, mas que honestidade. Você nem é um Mercenário ainda, mas está me matando, eu te digo, me matando!",
+        "es": "[Asesino Khai]\n¡Ja, ja, ja, ja, ja, ja!\nVaya, vaya, pero cuánta sinceridad. Ni siquiera eres Asesino todavía, pero me estás matando, te digo, ¡matando de risa!"
+    },
+    "SJKUBg": {
+        "en": "[The Anonymous One]\nHo ho ho...",
+        "pt": "[Ninguém]\n.....Hahahahahhaha!",
+        "es": "[El Anónimo]\nJo, jo, jo…"
+    },
+    "SZKUBg": {
+        "en": "[Assassin 'Khai']\nDid you hear that Anonymous one?! 'I beg you, give me hints.' Hahahah!",
+        "pt": "[Kain]\nHahahahaha!!! Ei, Ninguém! É hilário, não?!",
+        "es": "[Asesino Khai]\n¡¿Oíste al Anónimo?! Te lo ruego, dame pistas. ¡Ja, ja, ja!"
+    },
+    "SpKUBg": {
+        "en": "[The Anonymous One]\nYes.\nThis one is quite hilarious\nin a pathetic sort of way.",
+        "pt": "[Ninguém]\nSim.\nEste é bastante hilário\nde uma forma patética.",
+        "es": "[El Anónimo]\nSí.\nTú me diviertes mucho,\npero de una forma patética."
+    },
+    "S5KUBg": {
+        "en": "[Assassin 'Khai']\nHahahahahahah!\nSoooooo, you wanted\nsome hints, right?",
+        "pt": "[Kain]\nHahahahahahah!\nEntãoooooo, você queria\nalgumas dicas, certo?",
+        "es": "[Asesino Khai]\n!Ja, ja, ja, ja, ja, ja, ja, ja!\nYyyyy… querías\nalgunas pistas, ¿verdad?"
+    },
+    "TJKUBg": {
+        "en": "[Assassin 'Khai']\n...",
+        "pt": "[Kain]\n...",
+        "es": "[Asesino Khai]\n…"
+    },
+    "TZKUBg": {
+        "en": "[Assassin 'Khai']\n...\n......",
+        "pt": "[Kain]\n...\n......",
+        "es": "[Asesino Khai]\n…\n......"
+    },
+    "TpKUBg": {
+        "en": "[Assassin 'Khai']\n...\n......\n.........",
+        "pt": "[Kain]\n...\n......\n.........",
+        "es": "[Asesino Khai]\n…\n......\n........."
+    },
+    "T5KUBg": {
+        "en": "[Assassin 'Khai']\n...\n......\n.........\n............",
+        "pt": "[Kain]\n...\n......\n.........\n............",
+        "es": "[Asesino Khai]\n…\n......\n.........\n............"
+    },
+    "UJKUBg": {
+        "en": "[Assassin 'Khai']\n...\n......\n.........\n............\n...............",
+        "pt": "[Kain]\n...\n......\n.........\n............\n...............",
+        "es": "[Asesino Khai]\n…\n......\n.........\n............\n..............."
+    },
+    "UZKUBg": {
+        "en": "[Assassin 'Khai']\nNah.\nI changed my mind!\nI'm not gonna give you any hints after all. Hee hee hee~",
+        "pt": "[Kain]\nNão.\nMudei de ideia!\nAfinal, não vou lhe dar nenhuma dica. Hee hee hee~",
+        "es": "[Asesino Khai]\nNo.\n¡Cambié de opinión!\nAl final, no te daré ninguna pista. Je, je, je~."
+    },
+    "UpKUBg": {
+        "en": "[Assassin 'Khai']",
+        "pt": "[Kain]",
+        "es": "[Asesino Khai]"
+    },
+    "U5KUBg": {
+        "en": "Huh. You must have a lot of self confidence to be a Thief nowadays.",
+        "pt": "Hmm... Vejo que tem você dignidade, diferente da maioria...",
+        "es": "Mm. Hay que tener mucha confianza en uno mismo para ser Ladrón hoy en día."
+    },
+    "VJKUBg": {
+        "en": "[Assassin 'Khai']\nYeah yeah, I understand. Everyone messes up from time to time. Sorry for laughing at your mistakes.",
+        "pt": "[Kain]\nOk, todo mundo erra algum dia na vida... Me perdoe por ter rido de você.",
+        "es": "[Asesino Khai]\nSí, sí, lo entiendo. Todos metemos la pata de vez en cuando. Perdón por reírme de tus errores."
+    },
+    "VZKUBg": {
+        "en": "Hmm. I like your attitude. You should keep your pride as a Thief. Sorry for laughing at your mistakes. I think you'll do better next time.",
+        "pt": "Me perdoe por ter rido de você. Um erro não é o fim do mundo, anime-se!",
+        "es": "Mmm. Me gusta tu actitud. Siempre debes conservar tu orgullo como Ladrón. Perdón por reírme de tus errores. Creo que te irá mejor la próxima vez."
+    },
+    "VpKUBg": {
+        "en": "[Assassin 'Khai']\nI'm not allowed to give you hints, I can tell you more about being an Assassin...",
+        "pt": "[Kain]\nEu não vou te dar as respostas, mas vou lembrá-lo de certas coisas sobre Mercenários.",
+        "es": "[Asesino Khai]\nNo se me permite darte pistas, pero puedo contarte más sobre ser Asesino…"
+    },
+    "V5KUBg": {
+        "en": "[Assassin 'Khai']\nAbove all else, we value our dignity. We're Assassins, after all and people will need us.",
+        "pt": "[Kain]\nAcima de tudo, valorizamos nossa dignidade. Somos Mercenários, afinal, e as pessoas precisarão de nós.",
+        "es": "[Asesino Khai]\nPor encima de todo, valoramos nuestra dignidad. Somos Asesinos después de todo, y la gente nos necesita."
+    },
+    "WJKUBg": {
+        "en": "[Assassin 'Khai']\nIf people are close to you in some way, they might not understand what I'm saying. We're born to be loners due to our nature.",
+        "pt": "[Kain]\nSe você tem amigos ou uma pessoa amada... Pode ser bom... Mas na nossa essência, nós somos lobos solitários... Com nossas presas sujas de sangue...",
+        "es": "[Asesino Khai]\nSi tienes personas cercanas a ti, quizá no entiendan lo que te estoy diciendo. Nacemos para vivir en soledad debido a nuestra naturaleza."
+    },
+    "WZKUBg": {
+        "en": "[Assassin 'Khai']\nImagine if a lover or a friend saw the blood on your hands. There's a chance that they might not stay with you.",
+        "pt": "[Kain]\nEscolhas são mudanças, e a nossa escolha é o caminho do derramamento de sangue...",
+        "es": "[Asesino Khai]\nImagina que un amante o un amigo viera la sangre en tus manos. Existe la posibilidad de que nunca más quieran quedarse a tu lado."
+    },
+    "WpKUBg": {
+        "en": "[Assassin 'Khai']\nSometimes it gets lonely but it's not that bad. At least I can do what I want to do, you know, and do things my way.",
+        "pt": "[Kain]\nPor isso é importante se acostumar a estar só... Nem todos aceitam as nossas mudanças.. Nem todos suportam o cheiro da morte em nossas roupas...",
+        "es": "[Asesino Khai]\nA veces, la soledad es abrumadora, pero no es tan malo. Al menos puedo hacer lo que quiero, ya sabes, y hacer las cosas a mi manera."
+    },
+    "W5KUBg": {
+        "en": "[Assassin 'Khai']\nWell, that's all I can tell you for now. Does being an Assassin\nseem depressing to you?",
+        "pt": "[Kain]\nIsso tudo pode te assustar, mas é o que nos torna Mercenários.",
+        "es": "[Asesino Khai]\nBueno, eso es todo lo que puedo decirte por ahora. ¿Ser Asesino\nte parece deprimente?"
+    },
+    "XJKUBg": {
+        "en": "[Assassin 'Khai']\n...Hm.",
+        "pt": "[Kain]\n...Hm.",
+        "es": "[Asesino Khai]\n…Mmm."
+    },
+    "XZKUBg": {
+        "en": "[Assassin 'Khai']\nRight, that's the spirit. Don't ever let anyone else look down\non you. We're Assassins...",
+        "pt": "[Kain]\nBom. Esse é o espirito, não deixe ninguém manchar sua dignidade.\nNós somos os Mercenários, as Sombras da Morte.",
+        "es": "[Asesino Khai]\nCorrecto, ese es el espíritu. No dejes que nadie\nte haga sentir menos. Somos Asesinos…"
+    },
+    "XpKUBg": {
+        "en": "[Assassin 'Khai']\nI apologize for laughing at you earlier. I want you to remember to keep that sense of pride and dignity as an Assassin.",
+        "pt": "[Kain]\nEu ando muito preocupado com o tipo de pessoa que escolhe ser um Mercenário... Ela não parecem ter consciência do que é este classe...",
+        "es": "[Asesino Khai]\nMe disculpo por haberme reído de ti hace rato. Quiero que recuerdes que debes mantener ese sentimiento de orgullo y dignidad como Asesino."
+    },
+    "X5KUBg": {
+        "en": "[Assassin 'Khai']\nAlong with keeping your pride,\nI want that you respect the blood that may stain your Katar or Dagger.",
+        "pt": "[Kain]\nSe você realmente se tornar um Mercenário, mantenha seu orgulho como um!\nEsteja ciente do sangue nas suas armas e roupas, e do peso dele.",
+        "es": "[Asesino Khai]\nAdemás de mantener tu orgullo,\nquiero que respetes la sangre que pueda manchar tu Katar o tu Daga."
+    },
+    "YJKUBg": {
+        "en": "...Got you.",
+        "pt": "Eu farei isso.",
+        "es": "…Entiendo."
+    },
+    "YZKUBg": {
+        "en": "...I'm confused.",
+        "pt": "...Não entendi.",
+        "es": "…Me confundiste."
+    },
+    "YpKUBg": {
+        "en": "[Assassin 'Khai']\nYeah, I can trust you now. Let me give you some important tips.",
+        "pt": "[Kain]\nPosso ver pela seriedade da sua voz que você entendeu tudo que eu disse. Vou lhe dar algumas dicas para o teste escrito.",
+        "es": "[Asesino Khai]\nSí, ahora puedo confiar en ti. Permíteme darte algunos consejos importantes."
+    },
+    "Y5KUBg": {
+        "en": "[Assassin 'Khai']\nFirst of all, Grimtooth is ...A skill specifically for the Katar. Therefore, it doesn't require any skills related to Dagger weapons.",
+        "pt": "[Kain]\nAntes de tudo, lembre-se que 'Tocaia' é uma habilidade de Katar, logo, não funcionará com Adagas.",
+        "es": "[Asesino Khai]\nEn primer lugar, Colmillo umbrío es… una habilidad específica para el Katar. Por lo tanto, no requiere ninguna habilidad relacionada con la Daga."
+    },
+    "ZJKUBg": {
+        "en": "[Assassin 'Khai']\nDouble attack ...Haven't you tried it? It allows you to attack an enemy twice at a time.",
+        "pt": "[Kain]\nAtaque Duplo ... Você ainda não experimentou? É uma habilidade passiva, que não consome SP e permite que você ataque um inimigo duas vezes ao mesmo tempo.",
+        "es": "[Asesino Khai]\nDoble ataque… ¿ya lo probaste? Te permite atacar a un enemigo dos veces a la vez."
+    },
+    "ZZKUBg": {
+        "en": "[Assassin 'Khai']\nRed Blood is an elemental stone, Blue Gemstone doesn't have to do the Assassin job at all!",
+        "pt": "[Kain]\nSangue Escarlate é de propriedade Fogo, e eu nunca vi um Mercenário usar uma Gema Azul!",
+        "es": "[Asesino Khai]\nLa Sangre roja es una piedra elemental, ¡la Gema azul no tiene por qué hacer el trabajo de Asesino en absoluto!"
+    },
+    "ZpKUBg": {
+        "en": "[Assassin 'Khai']\nHave you ever seen Mages hunt Elder willow using the Cold Bolt skill? Water overpowers Fire. Water puts Fire under control, and Wind puts water under control.",
+        "pt": "[Kain]\nA Água apaga o Fogo... Por isso sempre vemos aqueles Magos matando Salgueiros Anciões com Lanças de Gelo. Porém a Água é facilmente levada pelo Vento...",
+        "es": "[Asesino Khai]\n¿Alguna vez viste a Magos cazar Sauces ancianos usando la habilidad Flecha de hielo? El Agua supera al Fuego. El Agua controla el Fuego y el Viento controla al Agua."
+    },
+    "Z5KUBg": {
+        "en": "[Assassin 'Khai']\nAs long as you stick close to the shadows, by walls and things like that, Cloaking will hide you from sight perfectly! Unless some bastard uses a certain detecting skill, you know.",
+        "pt": "[Kain]\nSe ficar perto de paredes, dá para usar 'Furtividade'. O problema é que essa habilidade pode ser cancelada por magias de detecção.",
+        "es": "[Asesino Khai]\nMientras te mantengas cerca de las sombras, junto a muros y cosas así, la habilidad de Secretismo te ocultará de la vista sin problemas. A menos que algún malnacido use cierta habilidad de detección, ya sabes."
+    },
+    "aJKUBg": {
+        "en": "[Assassin 'Khai']\n'Sharpened Legbone of Ghoul' possesses the Undead property.",
+        "pt": "[Kain]\nO 'Osso Afiado de Carniçal' tem propriedade Maldito.",
+        "es": "[Asesino Khai]\nEl Fémur afilado de Necrófago posee la propiedad Muerto viviente."
+    },
+    "aZKUBg": {
+        "en": "[Assassin 'Khai']\nWhat kind of weapon have you used so far? Damascus? Gladius? Stiletto? Or Main Gauche? What is that you're carrying now?",
+        "pt": "[Kain]\nQue tipo de arma você usou até agora? Damasco? Gladius? Stiletto? Ou Main Gauche? Como essa categoria de arma se chama?",
+        "es": "[Asesino Khai]\n¿Qué tipo de arma has utilizado hasta ahora? ¿Damasco? ¿Gladius? ¿Stiletto? ¿O Daga de paradas? ¿Qué es eso que llevas?"
+    },
+    "apKUBg": {
+        "en": "[Assassin 'Khai']\nIt's possible to get a slotted Katar from Desert Wolf. Well, just keep that in mind. You will need this information someday.",
+        "pt": "[Kain]\nÉ possível obter uma Katar com slots extras com o Lobo do Deserto. Bem, tenha isso em mente. Você precisará dessas informações algum dia.",
+        "es": "[Asesino Khai]\nEs posible conseguir un Katar con ranuras de Lobo del desierto. Bueno, solo tenlo en cuenta. Algún día, necesitarás esta información."
+    },
+    "a5KUBg": {
+        "en": "[Assassin 'Khai']\nYou can gain a slotted Jur from a buddy living in a dark and damp place under the ground. Well, I have no idea why that dude has that weapon... Maybe he needs it to dig a hole?",
+        "pt": "[Kain]\nVocê pode ganhar um Jur com slot de um monstro que vive nas minas abandonadas de Mjolnir... o nome dele é Martin.",
+        "es": "[Asesino Khai]\nPuedes conseguir un Jur con ranuras de un compañero que viva en un lugar oscuro y húmedo bajo tierra. Bueno, no tengo ni idea de por qué ese tipo tiene esa arma… ¿Quizás la necesita para cavar un hoyo?"
+    },
+    "bJKUBg": {
+        "en": "[Assassin 'Khai']\nAnd...\nI've always wanted a frog as a pet. But it's impossible!",
+        "pt": "[Kain]\nE...\nEu sempre quis ter um Sapo de Rodda como mascote. Mas isso é impossível!",
+        "es": "[Asesino Khai]\nY…\nSiempre he querido tener una rana como mascota. ¡Pero es imposible!"
+    },
+    "bZKUBg": {
+        "en": "[Assassin 'Khai']\nAs far as I know, a Goblin carrying a hammer possesses the Earth property. Keep in mind that Fire overcomes the Earth property.",
+        "pt": "[Kain]\nO Goblin que carrega um machado é do elemento Terra... E a terra pode ser queimada pelo fogo.",
+        "es": "[Asesino Khai]\nQue yo sepa, un Duende que lleva un martillo posee la propiedad Tierra. Ten en cuenta que el Fuego supera la propiedad Tierra."
+    },
+    "bpKUBg": {
+        "en": "[Assassin 'Khai']\nYou know elemental weapons? The names of Blacksmiths are engraved on them usually...",
+        "pt": "[Kain]\nVocê conhece as Armas Elementais? Geralmente, os nomes dos Ferreiros estão gravados nelas...",
+        "es": "[Asesino Khai]\n¿Conoces las armas elementales? Suelen llevar grabados los nombres de sus Herreros…"
+    },
+    "b5KUBg": {
+        "en": "[Assassin 'Khai']\nSell an Elder Willow Card to a Mage as soon as you can. They are mad about the card for some reason. Doesn't it increase the INT of a character? Hmmm...",
+        "pt": "[Kain]\nVenda uma carta do Salgueiro Ancião para um Mago assim que puder. Ela aumenta a INT, atributo importantíssimo para a classe...",
+        "es": "[Asesino Khai]\nVende una Carta de Sauce anciano a un Mago en cuanto puedas. Por alguna razón, mueren por esa Carta. ¿No aumenta la INT de un personaje? Mmmm…"
+    },
+    "cJKUBg": {
+        "en": "[Assassin 'Khai']\nFor us, Dodge and Attack is more important than defense. Don't ever think about wearing a helm. It's heavy, uncomfortable and will even block your sight.",
+        "pt": "[Kain]\nPara nós, a esquiva e o ataque são mais importantes do que a defesa. Jamais pense em usar um elmo. Ele é pesado, desconfortável e até bloqueia sua visão.",
+        "es": "[Asesino Khai]\nPara nosotros, la evasión y el ataque son más importantes que la defensa. Ni se te ocurra ponerte un casco. Es pesado, incómodo y te obstruirá la vista."
+    },
+    "cZKUBg": {
+        "en": "[Assassin 'Khai']\n'Increase Dodge' allows you to have +3% flee rate per skill lvl.",
+        "pt": "[Kain]\n'Perícia em Esquiva' aumenta 3 pontos de Esquiva por nível da habilidade.",
+        "es": "[Asesino Khai]\nAumento de evasión te permite tener probabilidad de EVA+3% por nivel de habilidad."
+    },
+    "cpKUBg": {
+        "en": "[Assassin 'Khai']\nAs I have told you repeatedly: Katar class weapons (Jamadhar/Jur/Katar etc) are two-handed!",
+        "pt": "[Kain]\nNo caso de armas como Jamadhar, Jur, Katar e etc, UMA arma ocupa as suas DUAS mãos.",
+        "es": "[Asesino Khai]\nComo te he dicho en repetidas ocasiones: ¡Las armas de clase Katar (Jamadhar/Jur/Katar, etc.) son de dos manos!"
+    },
+    "c5KUBg": {
+        "en": "[Assassin 'Khai']\nCity of desert... I miss my hometown, Morroc. I haven't been there for a long time. I feel like I became a Thief a few days ago. Time flies so fast...",
+        "pt": "[Kain]\nCidade do deserto... Sinto falta de minha cidade natal, Morroc. Não vou lá há muito tempo. Parece que me tornei um Gatuno há poucos dias. O tempo voa tão rápido...",
+        "es": "[Asesino Khai]\nCiudad del desierto… Extraño mi pueblo natal, Morroc. Hace mucho que no voy. Siento que me convertí en Ladrón hace apenas unos días. El tiempo pasa tan rápido…"
+    },
+    "dJKUBg": {
+        "en": "[Assassin 'Khai']\nHeh. I remember my Thief quest. I was so damn nervous when I broke into the farm to get Mushrooms...",
+        "pt": "[Kain]\nVocê se lembra de quando foi pra Morroc e teve que roubar Cogumelos Venenoso e Cogumelos Borrachentos para se tornar um Gatuno?",
+        "es": "[Asesino Khai]\nJe. Recuerdo mi misión de Ladrón. Tenía tantos nervios cuando entré en la granja por esos hongos…"
+    },
+    "dZKUBg": {
+        "en": "[Assassin 'Khai']\nInsects detect hiding/cloaking skills. Their feelers never fail to find targets.",
+        "pt": "[Kain]\nInsetos conseguem detectar alvos em Esconderijo e Furtividade.",
+        "es": "[Asesino Khai]\nLos Insectos detectan habilidades como Ocultamiento y Secretismo. Sus antenas nunca fallan en hallar objetivos."
+    },
+    "dpKUBg": {
+        "en": "[Assassin 'Khai']\nI've heard that the Baphomet Jr. Card adds +3 points to Agility and +1 point on Critical Attack...",
+        "pt": "[Kain]\nOuvi dizer que a Carta Bafomé Jr. garante AGI+3 e CRIT +1...",
+        "es": "[Asesino Khai]\nHe oído que la carta de Baphomet Jr. agrega puntos de agilidad+3 y punto de ataque crítico+1…"
+    },
+    "d5KUBg": {
+        "en": "[Assassin 'Khai']\nYeah, we Assassins specialize in training Agility. We can gain a bonus of 10 Agility points even before mastering job level. The problem is it won't go up anymore after that, you know.",
+        "pt": "[Kain]\nQuando você alcançar Nível de Classe 50, como Mercenário, terá 10 pontos a mais de Agilidade.",
+        "es": "[Asesino Khai]\nSí, los Asesinos nos especializamos en entrenar la agilidad. Podemos ganar una bonificación de 10puntos de agilidad incluso antes de dominar el nivel de clase. El problema es que no subirá más después de eso."
+    },
+    "eJKUBg": {
+        "en": "[Assassin 'Khai']\n^666666*Phew*^000000 That's all I can tell you, though that's a lot of hints. I don't doubt that I told you almost everything.",
+        "pt": "[Kain]\n^666666*Ufa*^000000 Isso é tudo o que posso lhe dizer, embora sejam muitas dicas. Não duvido que eu tenha lhe contado quase tudo.",
+        "es": "[Asesino Khai]\n^666666*Fiu*^000000 Es todo lo que puedo decirte, aunque son muchas pistas. No dudaría que te haya contado casi todo."
+    },
+    "eZKUBg": {
+        "en": "[Assassin 'Khai']\nWell then, go ask to take the test again with 'The Anonymous.'",
+        "pt": "[Kain]\nBem, então, peça para fazer o teste novamente com ''Ninguém''.",
+        "es": "[Asesino Khai]\nMuy bien, ve a pedir que te dejen hacer la prueba otra vez con Anónimo."
+    },
+    "epKUBg": {
+        "en": "[Assassin 'Khai']\n^666666*Sigh...*^000000\nHow can you not understand the concept of dignity? You just showed some to me just now!",
+        "pt": "[Kain]\n^666666*Suspiro...*^000000\nComo você pode não entender o conceito de dignidade? Você acabou de mostrar um pouco de dignidade para mim agora mesmo!",
+        "es": "[Asesino Khai]\n^666666*Suspira…*^000000\n¿Cómo es que no entiendes el concepto de dignidad? ¡Acabas de mostrarme que lo tenías hace un momento!"
+    },
+    "e5KUBg": {
+        "en": "[Assassin 'Khai']\nOh, I get it. It wasn't pride you were showing, you were just being a jerk!",
+        "pt": "[Kain]\nAh, entendi. Não era orgulho que você estava demonstrando, você estava apenas sendo besta!",
+        "es": "[Asesino Khai]\nAh, ya entiendo. No era orgullo lo que mostrabas, ¡solo estabas siendo idiota!"
+    },
+    "fJKUBg": {
+        "en": "[Assassin 'Khai']\nGrrrrr...\nWARP PORTAL!",
+        "pt": "[Kain]\nGrrrrr...\nPORTAL!",
+        "es": "[Asesino Khai]\nGrrrrr…\n¡PORTAL DE TELETRANSPORTE!"
+    },
+    "fZKUBg": {
+        "en": "[Assassin 'Khai']\nOh, you must be an Assassin trainee. You are here to become\nan Assassin, aren't you?",
+        "pt": "[Kain]\nAh, você está aqui para se tornar\na classe dos Mercenários, não é?",
+        "es": "[Asesino Khai]\nAh, debes ser aprendiz de Asesino. Viniste para convertirte\nen Asesino, ¿no?"
+    },
+    "fpKUBg": {
+        "en": "Yes, I am.",
+        "pt": "Sim, estou.",
+        "es": "Sí, a eso vine."
+    },
+    "f5KUBg": {
+        "en": "...No, I'm not.",
+        "pt": "...Não, não estou.",
+        "es": "No, no vine a eso."
+    },
+    "gJKUBg": {
+        "en": "[Assassin 'Khai']\nOkay, good. Let's fill out the application form. Please sign your name and include your job level.",
+        "pt": "[Kain]\nMuito bem, ótimo. Vamos preencher o formulário de inscrição. Por favor, assine seu nome e inclua seu nível de classe.",
+        "es": "[Asesino Khai]\nBueno, está bien. Completemos el formulario de solicitud. Firma con tu nombre e incluye tu nivel de clase."
+    },
+    "gZKUBg": {
+        "en": "[Assassin 'Khai']\nLet's see.\nYour name is\n{0}...\nJob level {1}...",
+        "pt": "[Kain]\nVamos ver.\nSeu nome é...\n{0}...\nNível de classe {1}...",
+        "es": "[Asesino Khai]\nVeamos.\nTu nombre es\n{0}…\nNivel de clase {1}…"
+    },
+    "gpKUBg": {
+        "en": "[Assassin 'Khai']\nWait, Job level {0}?! I can see you've been training pretty hard! My bosses will like this~",
+        "pt": "[Kain]\nEspere, nível de classe {0}?! Vejo que você tem treinado bastante! Meus chefes vão gostar disso~",
+        "es": "[Asesino Khai]\nEspera, ¡¿nivel de clase{0}?! ¡Veo que has estado entrenando mucho! A mis jefes les gustará esto~."
+    },
+    "g5KUBg": {
+        "en": "[Assassin 'Khai']\nDid you finish the form? Alright, go ahead and give it to me. Give me a second and I'll transport you to the Test Hall.",
+        "pt": "[Kain]\nVocê terminou o formulário? Tudo bem, vá em frente e entregue-o a mim. Dê-me um segundo e eu te levarei para o salão de testes.",
+        "es": "[Asesino Khai]\n¿Ya completaste el formulario? Muy bien, adelante, dámelo. Dame un segundo y te transportaré a la sala de pruebas."
+    },
+    "hJKUBg": {
+        "en": "[Assassin 'Khai']\nAlright then,\nbest of luck to you!",
+        "pt": "[Kain]\nMuito bem, então,\nboa sorte para você!",
+        "es": "[Asesino Khai]\nMuy bien,\n¡mucha suerte!"
+    },
+    "hZKUBg": {
+        "en": "[Assassin 'Khai']\nWell, you passed\nthe requirements.\nNot bad at all.",
+        "pt": "[Kain]\nBem, você passou\nos requisitos.\nNada mal.",
+        "es": "[Asesino Khai]\nBien, pasaste\nlos requisitos.\nNo está nada mal."
+    },
+    "hpKUBg": {
+        "en": "[Assassin 'Khai']\nGo ahead and give\nme the form when you're\ndone filling it out.\nAlright, thanks.",
+        "pt": "[Kain]\nVá em frente e me dê\no formulário quando terminar de\nterminar de preenchê-lo.\nTudo bem, obrigado.",
+        "es": "[Asesino Khai]\nAdelante,\ndame el formulario cuando\nhayas terminado de completarlo.\nDe acuerdo, gracias."
+    },
+    "h5KUBg": {
+        "en": "[Assassin 'Khai']\nI'll transport you\nto the Test Hall.\nBest of luck~",
+        "pt": "[Kain]\nVou mandar você para\na sala de testes.\nBoa sorte!",
+        "es": "[Asesino Khai]\nTe teletransportaré\na la sala de pruebas.\nMucha suerte~."
+    },
+    "iJKUBg": {
+        "en": "[Assassin 'Khai']\nWho the\nhell are you?\n...Guards!",
+        "pt": "[Kain]\nQuem\ndiabos é você?\n...Atenção, Mercenários!",
+        "es": "[Asesino Khai]\n¿Quién demonios\neres tú?\n¡Guardias!"
+    },
+    "iZKUBg": {
+        "en": "[Assassin 'Khai']\nHuh...?\nWhat, are you trying to trick me or something? Don't you wanna be an Assassin?",
+        "pt": "[Kain]\nHã...?\nO que foi, está tentando me enganar ou algo assim? Você não quer ser da classe dos Mercenários?",
+        "es": "[Asesino Khai]\n¿Eh…?\n¿Qué? ¿Intentas engañarme o algo? ¿No quieres ser Asesino?"
+    },
+    "ipKUBg": {
+        "en": "No.",
+        "pt": "Não.",
+        "es": "No."
+    },
+    "i5KUBg": {
+        "en": "Yes, I want to be an Assassin.",
+        "pt": "Sim, eu quero mudar de classe.",
+        "es": "Sí, quiero ser Asesino."
+    },
+    "jJKUBg": {
+        "en": "[Assassin 'Khai']\nEh, get outta here.\nStop wastin' my time...",
+        "pt": "[Kain]\nGrrr, saia daqui.\nPare de desperdiçar meu tempo...",
+        "es": "[Asesino Khai]\nEh, vete de aquí.\nDeja de hacerme perder el tiempo…"
+    },
+    "jZKUBg": {
+        "en": "[Assassin 'Khai']\n...\nWhat the hell?\nOkay, then.",
+        "pt": "[Kain]\n...\nMas que diabos?\nTudo bem, então.",
+        "es": "[Asesino Khai]\n…\n¿Qué demonios?\nDe acuerdo."
+    },
+    "jpKUBg": {
+        "en": "[Assassin 'Khai']\nFill out the application form with your name and job level.",
+        "pt": "[Kain]\nPreencha o formulário de inscrição com seu nome e nível de classe.",
+        "es": "[Asesino Khai]\nCompleta el formulario de solicitud con tu nombre y nivel de clase."
+    },
+    "j5KUBg": {
+        "en": "[Assassin 'Khai']\n{0}?\nThat's your name?\nIt sounds funny.\nLet's see... Job Level {1}...",
+        "pt": "[Kain]\n{0}?\nEsse é seu nome?\nQue engraçado.\nVamos ver... nível de classe {1}...",
+        "es": "[Asesino Khai]\n¿{0}?\n¿Ese es tu nombre?\nSuena gracioso.\nVeamos… Nivel de clase{1}…"
+    },
+    "kJKUBg": {
+        "en": "[Assassin 'Khai']\nHo? Job Level {0}?! You must have been training really hard. The bosses will like that for sure...",
+        "pt": "[Kain]\nHã? Nível de classe {0}?! Você deve ter treinado muito. Os chefes vão gostar disso, com certeza...",
+        "es": "[Asesino Khai]\n¿Eh? ¡¿Nivel de clase{0}?! Debes haber estado entrenando mucho. Esto seguro les gustará a los jefes…"
+    },
+    "kZKUBg": {
+        "en": "[Assassin 'Khai']\nAre you done filling out the form? Alright, give it to me so I can send you to the Test Hall. Good luck~",
+        "pt": "[Kain]\nVocê já terminou de preencher o formulário? Tudo bem, entregue-o a mim para que eu possa te enviar à sala de testes. Boa sorte!",
+        "es": "[Asesino Khai]\n¿Ya terminaste de completar el formulario? Muy bien, dámelo para que pueda enviarte a la sala de pruebas. Buena suerte~."
+    },
+    "kpKUBg": {
+        "en": "[Assassin 'Khai']\nNot bad. You fulfilled our requirements. Not bad at all. Now are you done filling out the form?",
+        "pt": "[Kain]\nNada mal. Você cumpriu nossas exigências. Nada mal mesmo. Agora você já terminou de preencher o formulário?",
+        "es": "[Asesino Khai]\nNada mal. Cumpliste nuestros requisitos. No está nada mal. ¿Ya terminaste de completar el formulario?"
+    },
+    "k5KUBg": {
+        "en": "[Assassin 'Khai']\nThen give me the form so that I can send you to the Test Hall, alright?\nGood luck...",
+        "pt": "[Kain]\nEntão me dê o formulário para que eu possa te enviar à sala de testes, certo?\nBoa sorte...",
+        "es": "[Asesino Khai]\nEntonces, dame el formulario para que pueda enviarte a la sala de pruebas, ¿sí?\nBuena suerte…"
+    },
+    "lJKUBg": {
+        "en": "[Assassin 'Khai']\nHow the hell did\nyou get in here?\nGet out!",
+        "pt": "[Kain]\nComo diabos você entrou aqui?\nvocê entrou aqui?\nSaia daqui!",
+        "es": "[Asesino Khai]\n¿Cómo demonios\nentraste aquí?\n¡Fuera!"
+    },
+    "lZKUBg": {
+        "en": "[The Anonymous One]\nWelcome, guest.\nMwahaha, it's useless\nto try to find or see me...",
+        "pt": "[Ninguém]\nSaudações, viajante\nMwahaha, é inútil\ntentar me encontrar ou me ver...",
+        "es": "[El Anónimo]\n¡Qué bueno tenerte aquí.\nMuajajaja, es inútil\nintentar encontrarme o verme…"
+    },
+    "lpKUBg": {
+        "en": "[The Anonymous One]\nI am perfectly hidden!\nTo become undetectable can only be done by the greatest Assassins!",
+        "pt": "[Ninguém]\nEstou perfeitamente escondido!\nTornar-se indetectável só pode ser feito pelos maiores Mercenários!",
+        "es": "[El Anónimo]\n¡Mi camuflaje es perfecto!\n¡Solo los mejores Asesinos pueden volverse indetectables!"
+    },
+    "l5KUBg": {
+        "en": "[The Anonymous One]\nAren't you scared that you can't see me? I could kill you at any time and it would be so easy...",
+        "pt": "[Ninguém]\nVocê não tem medo de não poder me ver? Eu poderia te matar a qualquer momento e seria tão fácil...",
+        "es": "[El Anónimo]\n¿No tienes miedo de no poder verme? Podría matarte en cualquier momento y sería tan fácil…"
+    },
+    "mJKUBg": {
+        "en": "I think I crapped my pants!",
+        "pt": "Estou com medo!",
+        "es": "¡Creo que acabo de hacerme encima!"
+    },
+    "mZKUBg": {
+        "en": "You're all talk. I challenge you!",
+        "pt": "Você não me amedronta.",
+        "es": "Puro palabrerío. ¡Te desafío!"
+    },
+    "mpKUBg": {
+        "en": "[The Anonymous One]\nNow I see that\nyou're nothing\nbut a wimp.",
+        "pt": "[Ninguém]\nAgora vejo que\nvocê é apenas\numa pessoa covarde.",
+        "es": "[El Anónimo]\nAhora veo que\nsolo eres\ncobarde."
+    },
+    "m5KUBg": {
+        "en": "[The Anonymous One]\nBwahahahahahah!\nStop cowering in fear!\nIt's making me laugh!",
+        "pt": "[Ninguém]\nMwahahahahahah!\nPare de se encolher de medo!\nIsso está me fazendo rir!",
+        "es": "[El Anónimo]\n¡Muajajajajajaja!\n¡Deja de acobardarte!\n¡Me haces reír!"
+    },
+    "nJKUBg": {
+        "en": "[The Anonymous One]\nSo...\nYou wish for\na challenge?\nFrom me?!",
+        "pt": "[Ninguém]\nEntão...\nVocê não\ntem medo\nde mim?!",
+        "es": "[El Anónimo]\nEntonces…\n¿Buscas\ndesafiarme?\n¡¿A mí?!"
+    },
+    "nZKUBg": {
+        "en": "[The Anonymous One]\nA river of blood follows my every footstep. I am nameless, for the sting of my blades is all anyone needs to know.",
+        "pt": "[Ninguém]\nEu mato pessoas a mando da Guilda. Eu sou a arma que carrego, a arma que mata... Eu não preciso de um nome.",
+        "es": "[El Anónimo]\nUn río de sangre sigue mis pasos. No tengo nombre, pues la estocada de mis cuchillas es todo lo necesitan saber sobre mí."
+    },
+    "npKUBg": {
+        "en": "[The Anonymous One]\nI am here to test your knowledge, as well as your capacity for heartlessness. Those are both necessary to become an Assassin.",
+        "pt": "[Ninguém]\nEstou aqui para testar seu conhecimento, bem como sua capacidade de não ter coração. Ambos são necessários para virar a classe dos Mercenários.",
+        "es": "[El Anónimo]\nEstoy aquí para poner a prueba tus conocimientos, así como tu inhumanidad. Ambos son necesarios para convertirse en Asesino."
+    },
+    "n5KUBg": {
+        "en": "[The Anonymous One]\nFor your challenge, you must\nanswer my questions correctly. Very difficult questions that only an Assassin can answer.",
+        "pt": "[Ninguém]\nPara o seu desafio, você deve responder corretamente às minhas perguntas. \nPerguntas muito difíceis que somente um verdadeiro Mercenário pode responder.",
+        "es": "[El Anónimo]\nPara tu desafío, debes\nresponder mis preguntas correctamente. Preguntas muy difíciles que solo un Asesino puede responder."
+    },
+    "oJKUBg": {
+        "en": "[The Anonymous One]\nAlthough I am heartless,\nI am not necessarily cruel. Before we proceed, is there anything you wish to know?",
+        "pt": "[Ninguém]\nEmbora eu seja insensível, não sou necessariamente cruel. \nAntes de prosseguirmos, há algo que você queira saber?",
+        "es": "[El Anónimo]\nAunque no tengo corazón,\nno soy necesariamente cruel. Antes de continuar, ¿hay algo que quieras saber?"
+    },
+    "oZKUBg": {
+        "en": "...Skills?",
+        "pt": "...Habilidades?",
+        "es": "¿Habilidades?"
+    },
+    "opKUBg": {
+        "en": "...Stats?",
+        "pt": "...Atributos?",
+        "es": "¿Estadísticas?"
+    },
+    "o5KUBg": {
+        "en": "Hmpf, I know it all.",
+        "pt": "Eu não tenho nenhuma pergunta.",
+        "es": "Ja, lo sé todo."
+    },
+    "pJKUBg": {
+        "en": "[The Anonymous One]\nSkills...?\nAlthough skills can have circumstantial applications, I will tell you about the basic concepts.",
+        "pt": "[Ninguém]\nHabilidades...?\nO quanto uma habilidade é eficiente ou não pode depender dos seus Atributos.",
+        "es": "[El Anónimo]\n¿Habilidades…?\nAunque las habilidades pueden tener aplicaciones circunstanciales, le hablaré de los conceptos básicos."
+    },
+    "pZKUBg": {
+        "en": "[The Anonymous One]\nFirst, ^3355FFKatar Mastery^000000. This skill increases the damage of Katar class weapons. The higher the skill level, the more damage is increased.",
+        "pt": "[Ninguém]\nPrimeiro, ^3355FFPerícia com Katar^000000. Essa habilidade aumenta o dano das armas do tipo Katar. Quanto mais alto for o nível da habilidade, maior será o dano aumentado.",
+        "es": "[El Anónimo]\nEn primer lugar, ^3355FFMaestría de Katar^000000. Esta habilidad aumenta el daño de las armas de clase Katar. Cuanto mayor sea el nivel de habilidad, mayor será el daño."
+    },
+    "ppKUBg": {
+        "en": "[The Anonymous One]\n^3355FFLeft Hand Mastery^000000 and ^3355FFRight Hand Mastery^000000. Assassins can equip different weapons in each hand when using Dagger class weapons.",
+        "pt": "[Ninguém]\n^3355FFPerícia com Mão Esquerda^000000 e ^3355FFPerícia com Mão Direita^000000. Os Mercenários podem equipar armas diferentes em cada mão ao usar armas do tipo Adaga.",
+        "es": "[El Anónimo]\n^3355FFMaestría de la mano izquierda^000000 y ^3355FFMaestría de la mano derecha^000000. Los Asesinos pueden equipar diferentes armas en cada mano cuando usan armas de la clase Daga."
+    },
+    "p5KUBg": {
+        "en": "[The Anonymous One]\nBut it is obviously more difficult to handle 2 weapons at a time than using just one. The Left and Right Hand Mastery skills increase the damage when using two Daggers.",
+        "pt": "[Ninguém]\nPorém, segurar duas armas não é algo fácil, e você perde metade do Poder de Ataque. Com essas habilidades, você compensa essa perda. Elas não mudam em nada o dano de armas de tipo Katar.",
+        "es": "[El Anónimo]\nPero, obviamente, es más difícil manejar 2armas a la vez que utilizar solo una. Las habilidades de Maestría de la mano izquierda y de la mano derecha aumentan el daño al usar dos Dagas."
+    },
+    "qJKUBg": {
+        "en": "[The Anonymous One]\nHowever, if you don't want to use two Daggers, you won't need this skill. You will see how 'Left Hand Mastery' works as soon as you reach 'Right Hand Mastery' Level 2.",
+        "pt": "[Ninguém]\nNo entanto, se você não quiser usar duas adagas, não precisará dessa habilidade. Você verá como funciona a ''Perícia com Mão Esquerda'' assim que atingir o nível 2 da ''Perícia com Mão Direita''.",
+        "es": "[El Anónimo]\nSin embargo, si no quieres usar dos Dagas, no necesitarás esta habilidad. Verás cómo funciona Maestría de la mano izquierda en cuanto alcances Maestría de la mano derecha nivel2."
+    },
+    "qZKUBg": {
+        "en": "[The Anonymous One]\n^3355FFSonic Blow^000000 allows you to strike an enemy 8 times at once. This skill only works with Katar weapons because of the speed it requires.",
+        "pt": "[Ninguém]\n^3355FFLâminas Destruidoras^000000 permite que você atinja um inimigo 8 vezes de uma só vez. Essa habilidade só funciona com armas Katar devido à velocidade que exige.",
+        "es": "[El Anónimo]\n^3355FFImpacto sónico^000000 te permite golpear a un enemigo 8veces a la vez. Esta habilidad solo funciona con armas tipo Katar debido a la velocidad que requiere."
+    },
+    "qpKUBg": {
+        "en": "[The Anonymous One]\nOf course, the damage is affected by STR and weapon damage. You'll understand how this skill works when you reach Level 4 Katar Mastery.",
+        "pt": "[Ninguém]\nEla pode ser aprendida depois de investir pontos em ''Perícia com Katar'' até o nível 4.",
+        "es": "[El Anónimo]\nPor supuesto, el daño se ve afectado por la FUE y el daño del arma. Entenderás cómo funciona esta habilidad cuando alcances Maestría de Katar nivel 4."
+    },
+    "q5KUBg": {
+        "en": "[The Anonymous One]\n^3355FFGrimtooth^000000 allows you to attack enemies while hiding under the ground. As you master it, you'll be able to attack foes from a distance.",
+        "pt": "[Ninguém]\n^3355FFTocaia^000000 permite que você ataque inimigos enquanto se esconde embaixo da terra. Ao dominá-la, você poderá atacar inimigos à distância.",
+        "es": "[El Anónimo]\n^3355FFColmillo umbrío^000000 te permite atacar enemigos mientras te escondes bajo el suelo. A medida que domines este habilidad, podrás atacar a los enemigos a distancia."
+    },
+    "rJKUBg": {
+        "en": "[The Anonymous One]\nSince it's a ranged attack, it can be very useful when you're surrounded by enemies.",
+        "pt": "[Ninguém]\nComo é um ataque em área, pode ser muito útil quando há muitos inimigos ao seu redor.",
+        "es": "[El Anónimo]\nComo es un ataque a distancia, puede ser muy útil cuando te rodean los enemigos."
+    },
+    "rZKUBg": {
+        "en": "[The Anonymous One]\nBecause you're required to perfectly hide yourself to use this skill, you must first learn Level 2 Cloaking before you can learn Grimtooth.",
+        "pt": "[Ninguém]\nPara usar 'Tocaia', você deve primeiro aprender Furtividade nível 2 e Lâminas Destruidoras nível 5.",
+        "es": "[El Anónimo]\nYa que, para usar esta habilidad, tienes que esconderte perfectamente, primero, debes aprender Secretismo nivel2 y luego aprender Colmillo umbrío."
+    },
+    "rpKUBg": {
+        "en": "[The Anonymous One]\nTo learn ^3355FFCloaking^000000, you must learn Level 2 Hiding. Then you will be able to move while hiding if you are close to a wall.",
+        "pt": "[Ninguém]\nPara aprender ^3355FFFurtividade^000000, você precisa aprender o nível 2 de Esconderijo. Assim, você poderá se mover enquanto se esconde se estiver perto de uma parede.",
+        "es": "[El Anónimo]\nPara aprender ^3355FFSecretismo^000000, debes aprender Ocultamiento nivel2. Así podrás moverte mientras te escondes si estás cerca de una pared."
+    },
+    "r5KUBg": {
+        "en": "[The Anonymous One]\nThe ^3355FFEnchant Poison^000000 skill allows you to enchant poison on the weapon you're using. This will temporarily give the weapon the Poison property.",
+        "pt": "[Ninguém]\nA habilidade ^3355FFEnvenenar Arma ^000000 permite que você encante veneno na arma que estiver usando. Isso dará temporariamente à arma a propriedade veneno.",
+        "es": "[El Anónimo]\nLa habilidad ^3355FFVeneno de encantamiento^000000 te permite conjurar veneno en el arma que estés usando. Esto dará temporalmente al arma la propiedad Veneno."
+    },
+    "sJKUBg": {
+        "en": "[The Anonymous One]\nThis will also make your attacks poison the enemy by chance. You can also use this skill to enchant the weapons of your party members...",
+        "pt": "[Ninguém]\nIsso também fará com que seus ataques envenenem o inimigo. Você também pode usar essa habilidade para encantar as armas dos membros do seu grupo...",
+        "es": "[El Anónimo]\nEsto también hará que tus ataques envenenen al enemigo de acuerdo con una probabilidad. También puedes usar esta habilidad para hechizar las armas de los miembros de tu grupo…"
+    },
+    "sZKUBg": {
+        "en": "[The Anonymous One]\n^3355FFPoison React^000000 shields the user from attacks with the Poison property, and can be used on other people as well. However, you must learn Level 3 Enchant Poison first.",
+        "pt": "[Ninguém]\n^3355FFRefletir Veneno^000000 protege o usuário de ataques com a propriedade veneno e pode ser usado em outras pessoas também. No entanto, você deve aprender primeiro o nível 3 de Envenenar Arma.",
+        "es": "[El Anónimo]\n^3355FFReacción venenosa^000000 protege al usuario de los ataques con la propiedad Veneno y también puede utilizarse con otras personas. Sin embargo, primero, debes aprender Veneno de encantamiento nivel3."
+    },
+    "spKUBg": {
+        "en": "[The Anonymous One]\n^3355FFVenom Dust^000000 consumes a Red Gemstone to contaminate an area with poison. The duration of contamination increases with the level of this skill.",
+        "pt": "[Ninguém]\n^3355FFNévoa Tóxica^000000 consome uma Gema Vermelha para contaminar uma área com veneno. A duração da contaminação aumenta com o nível dessa habilidade.",
+        "es": "[El Anónimo]\n^3355FFPolvo de veneno^000000 consume una Gema roja para contaminar una zona con veneno. La duración de la contaminación aumenta con el nivel de esta habilidad."
+    },
+    "s5KUBg": {
+        "en": "[The Anonymous One]\nYou can learn the Venom Dust skill after you learn Level 5 Enchant Poison.",
+        "pt": "[Ninguém]\nVocê pode aprender a habilidade Névoa Tóxica depois de aprender o nível 5 de Envenenar Arma.",
+        "es": "[El Anónimo]\nPuedes aprender la habilidad Polvo de veneno después de aprender Veneno de encantamiento nivel 5."
+    },
+    "tJKUBg": {
+        "en": "[The Anonymous One]\n^3355FFVenom Splasher^000000 is a skill that, after it is used on a target, will cause it to explode when its HP is less than a certain amount after three seconds.",
+        "pt": "[Ninguém]\n^3355FFExplosão Tóxica^000000 é uma habilidade que, após ser usada em um alvo, fará com que ele exploda após alguns segundos.",
+        "es": "[El Anónimo]\n^3355FFLanzavenenos^000000 es una habilidad que, tras usarla en un objetivo, hará que este explote cuando sus HP sean inferiores a una cantidad determinada tras tres segundos."
+    },
+    "tZKUBg": {
+        "en": "[The Anonymous One]\nWhen the target explodes, the enemies in the vicinity are also damaged. This is an essential skill for Assassins. It requires Level 5 Poison React and Level 5 Venom Dust.",
+        "pt": "[Ninguém]\nQuando o alvo explode, os inimigos nas proximidades também são atingidos. Essa é uma habilidade essencial para os Mercenários. Requer nível 5 de Refletir Veneno e nível 5 de Névoa Tóxica.",
+        "es": "[El Anónimo]\nCuando el objetivo explota, los enemigos cercanos también resultan dañados. Esta es una habilidad fundamental para los Asesinos. Requiere Reacción venenosa nivel5 y Polvo de veneno nivel 5."
+    },
+    "tpKUBg": {
+        "en": "[The Anonymous One]\nNow...\nThat's all I have to tell you\nabout Assassin skills.",
+        "pt": "[Ninguém]\nAgora...\nIsso é tudo o que tenho a lhe dizer\nsobre as habilidades de Mercenário.",
+        "es": "[El Anónimo]\nBien…\nEso es todo lo que tengo que decirte\nsobre las habilidades de Asesinos."
+    },
+    "t5KUBg": {
+        "en": "[The Anonymous One]\nHmm, Stats...\nFor Assassins, Agility, or AGI, is the most important stat.",
+        "pt": "[Ninguém]\nHmm, atributos...\nPara os Mercenários, a Agilidade, ou AGI, é o atributo mais importante.",
+        "es": "[El Anónimo]\nMmm, estadísticas…\nPara los Asesinos, la agilidad o AGI es la estadística más importante."
+    },
+    "uJKUBg": {
+        "en": "[The Anonymous One]\nFor the sake of assassination, STR is probably the second most important stat. But that is only my recommendation.",
+        "pt": "[Ninguém]\nCom o objetivo de assassinar, a FOR é provavelmente o segundo atributo mais importante. Mas essa é apenas a minha sugestão.",
+        "es": "[El Anónimo]\nPara asesinar, la FUE probablemente es la segunda estadística más importante. Pero esa es solo mi recomendación."
+    },
+    "uZKUBg": {
+        "en": "[The Anonymous One]\nI cannot give you better advice than that in regards to Stats. You should research and see which stats suit you, and decide what kind of Assassin you want to be.",
+        "pt": "[Ninguém]\nNão posso lhe dar um conselho melhor do que esses. Você deve pesquisar e ver quais atributos lhe agradam e decidir que tipo de Mercenário você quer ser.",
+        "es": "[El Anónimo]\nNo puedo darte un consejo mejor que ese en lo que respecta a las estadísticas. Deberías investigar y ver qué estadísticas te convienen y decidir qué tipo de Asesino quieres ser."
+    },
+    "upKUBg": {
+        "en": "[The Anonymous One]\nKnow everything do you?!\nI'll be the judge of that!",
+        "pt": "[Ninguém]\nNem-Nem-Nenhuma PERGUNTA?!?!\nVocê não quer nem ouvir mais uma explicação minha!?!?",
+        "es": "[El Anónimo]\n¡¿Ya lo sabes todo?!\n¡Yo juzgaré eso!"
+    },
+    "u5KUBg": {
+        "en": "[The Anonymous One]\nHmpf. It is now time to test your knowledge. You are not allowed to miss more than one question.",
+        "pt": "[Ninguém]\nBem, quero ver... Aposto que vai se arrepender da sua resposta... Prepare-se para o meu teste...",
+        "es": "[El Anónimo]\nPff… Ha llegado el momento de poner a prueba tus conocimientos. No está permitido fallar en más de una pregunta."
+    },
+    "vJKUBg": {
+        "en": "[The Anonymous One]\nIn other words, if you want to pass this test, you must give me 9 correct answers out of 10 questions. I won't let you know which answer you got wrong...",
+        "pt": "[Ninguém]\nSe quiser passar neste teste, você deve me dar 9 respostas corretas em 10 perguntas. Não vou lhe dizer qual resposta você errou...",
+        "es": "[El Anónimo]\nEn otras palabras, si quieres pasar esta prueba, debes tener 9respuestas correctas de 10preguntas. No te diré qué respuesta has respondido mal…"
+    },
+    "vZKUBg": {
+        "en": "[The Anonymous One]\nAre you ready?\nPrepare yourself!",
+        "pt": "[Ninguém]\nVocê acha que consegue?\nPrepare-se!",
+        "es": "[El Anónimo]\n¿Tienes todo listo?\n¡Prepárate!"
+    },
+    "vpKUBg": {
+        "en": "[The Anonymous One]\n1. Choose skill that is not required to learn Grimtooth.",
+        "pt": "[Ninguém]\n1. Qual dessas habilidades não é pré-requisito para 'Tocaia'?",
+        "es": "[El Anónimo]\n1. Elige una habilidad que no sea necesaria para aprender Colmillo umbrío."
+    },
+    "v5KUBg": {
+        "en": "Cloaking level 2",
+        "pt": "Furtividade nível 2",
+        "es": "Secretismo nivel 2."
+    },
+    "wJKUBg": {
+        "en": "Sonic Blow level 5",
+        "pt": "Lâminas Destruidoras nível 5",
+        "es": "Impacto sónico nivel 5."
+    },
+    "wZKUBg": {
+        "en": "Katar Mastery level 4",
+        "pt": "Perícia com Katar nível 4",
+        "es": "Maestría de Katar nivel 4."
+    },
+    "wpKUBg": {
+        "en": "Right hand Mastery level 2",
+        "pt": "Perícia com Mão Direita nível 2",
+        "es": "Maestría de la mano derecha nivel 2."
+    },
+    "w5KUBg": {
+        "en": "[The Anonymous One]\n2. What property does Enchant Poison possess?",
+        "pt": "[Ninguém]\n2. Ao usar a habilidade 'Envenenar Arma', sua arma se torna de qual propriedade?",
+        "es": "[El Anónimo]\n2. ¿Qué propiedad posee Veneno de encantamiento?"
+    },
+    "xJKUBg": {
+        "en": "Poison",
+        "pt": "Veneno",
+        "es": "Veneno"
+    },
+    "xZKUBg": {
+        "en": "Earth",
+        "pt": "Terra",
+        "es": "Tierra"
+    },
+    "xpKUBg": {
+        "en": "Fire",
+        "pt": "Fogo",
+        "es": "Fuego"
+    },
+    "x5KUBg": {
+        "en": "Wind",
+        "pt": "Vento",
+        "es": "Viento"
+    },
+    "yJKUBg": {
+        "en": "[The Anonymous One]\n3. How does Level 4 Right Hand Mastery work?",
+        "pt": "[Ninguém]\n3. Qual o efeito de Nível 4 de 'Perícia com a Mão Direita' no dano da mão direita, ao usar duas armas?",
+        "es": "[El Anónimo]\n3. ¿Cómo funciona la Maestría de la mano derecha nivel 4?"
+    },
+    "yZKUBg": {
+        "en": "Recover 80% of damage decrease",
+        "pt": "Recupera 80% do dano normal",
+        "es": "Recupera el 80% de la reducción de daño."
+    },
+    "ypKUBg": {
+        "en": "Recover 90% of damage decrease",
+        "pt": "Recupera 90% do dano normal",
+        "es": "Recupera el 90% de la reducción de daño."
+    },
+    "y5KUBg": {
+        "en": "Increase 90% of damage",
+        "pt": "Recupera 150% do dano normal",
+        "es": "Aumenta el daño un 90%."
+    },
+    "zJKUBg": {
+        "en": "Increase 108% of damage",
+        "pt": "Recupera 210% do dano normal",
+        "es": "Aumenta el daño un 108%."
+    },
+    "zZKUBg": {
+        "en": "[The Anonymous One]\n4. What is the item required for using Venom Dust?",
+        "pt": "[Ninguém]\n4. Que item é consumido pela habilidade 'Névoa Toxica'?",
+        "es": "[El Anónimo]\n4. ¿Cuál es el objeto necesario para utilizar Polvo de veneno?"
+    },
+    "zpKUBg": {
+        "en": "Red Blood",
+        "pt": "Sangue Escarlate",
+        "es": "Sangre roja."
+    },
+    "z5KUBg": {
+        "en": "Blue Gemstone",
+        "pt": "Gema Azul",
+        "es": "Gema azul."
+    },
+    "0JKUBg": {
+        "en": "Yellow Gemstone",
+        "pt": "Gema Amarela",
+        "es": "Gema amarilla."
+    },
+    "0ZKUBg": {
+        "en": "Red Gemstone",
+        "pt": "Gema Vermelha",
+        "es": "Gema roja."
+    },
+    "0pKUBg": {
+        "en": "[The Anonymous One]\n5. Which skill can you learn when you reach Level 5 Enchant Poison?",
+        "pt": "[Ninguém]\n5. Que habilidade você pode aprender depois de saber 'Envenenar Arma' Nvl 5?",
+        "es": "[El Anónimo]\n5. ¿Qué habilidad puedes aprender cuando alcanzas Veneno de encantamiento nivel 5?"
+    },
+    "05KUBg": {
+        "en": "Envenom",
+        "pt": "Envenenamento.",
+        "es": "Envenenamiento."
+    },
+    "1JKUBg": {
+        "en": "Sonic Blow",
+        "pt": "Lâminas Destruidoras.",
+        "es": "Impacto sónico."
+    },
+    "1ZKUBg": {
+        "en": "Venom Splasher",
+        "pt": "Explosão Tóxica.",
+        "es": "Lanzavenenos."
+    },
+    "1pKUBg": {
+        "en": "Venom Dust",
+        "pt": "Névoa Tóxica.",
+        "es": "Polvo de veneno."
+    },
+    "15KUBg": {
+        "en": "[The Anonymous One]\n6. Among the following skills, which allows you to walk while invisible?",
+        "pt": "[Ninguém]\n6. Qual dessas habilidade permite que você ande sem ser visto?",
+        "es": "[El Anónimo]\n6. De las siguientes habilidades, ¿cuál te permite caminar siendo invisible?"
+    },
+    "2JKUBg": {
+        "en": "Hiding",
+        "pt": "Perícia de Esquiva.",
+        "es": "Ocultamiento."
+    },
+    "2ZKUBg": {
+        "en": "Back Slide",
+        "pt": "Recuar.",
+        "es": "Retroceso."
+    },
+    "2pKUBg": {
+        "en": "Cloaking",
+        "pt": "Furtividade.",
+        "es": "Secretismo."
+    },
+    "25KUBg": {
+        "en": "Sand Attack",
+        "pt": "Chutar Areia.",
+        "es": "Ataque de arena."
+    },
+    "3JKUBg": {
+        "en": "[The Anonymous One]\n7. Choose the condition that is unrelated to Venom Splasher.",
+        "pt": "[Ninguém]\n7. Das 3 opções, qual não é uma condição para que a 'Bomba Tóxica' funcione?",
+        "es": "[El Anónimo]\n7. Elige la condición que no esté relacionada con Lanzavenenos."
+    },
+    "3ZKUBg": {
+        "en": "Poisoned target.",
+        "pt": "A vítima deve estar envenenada.",
+        "es": "Objetivo envenenado."
+    },
+    "3pKUBg": {
+        "en": "Red Gemstone.",
+        "pt": "Ter uma Gema Vermelha.",
+        "es": "Gema roja."
+    },
+    "35KUBg": {
+        "en": "Remaing HP of Target.",
+        "pt": "A vítima deve ter menos de 2/3 do HP.",
+        "es": "HP restante del objetivo."
+    },
+    "4JKUBg": {
+        "en": "[The Anonymous One]\n8. Which monster is weak to a weapon with Vadon card (adds 20% damage on Fire property monster)?",
+        "pt": "[Ninguém]\n8. Com uma arma que tenha a carta Vadon (20% mais dano em monstro de fogo), que monstro recebe dano extra?",
+        "es": "[El Anónimo]\n8. ¿Qué monstruo es débil ante un arma con la carta de Vadon (agrega un 20% de daño al monstruo con la propiedad Fuego)?"
+    },
+    "4ZKUBg": {
+        "en": "Steel Chonchon",
+        "pt": "Chonchon de Aço",
+        "es": "Chonchon de acero."
+    },
+    "4pKUBg": {
+        "en": "Deviruchi",
+        "pt": "Deviruchi",
+        "es": "Deviruchi."
+    },
+    "45KUBg": {
+        "en": "Elder Willow",
+        "pt": "Salgueiro Ancião",
+        "es": "Sauce anciano."
+    },
+    "5JKUBg": {
+        "en": "Baphomet",
+        "pt": "Bafomé",
+        "es": "Baphomet."
+    },
+    "5ZKUBg": {
+        "en": "[The Anonymous One]\n9. How much SP does\nDouble Attack need?",
+        "pt": "[Ninguém]\n9. Quanta SP é consumida quando utiliza-se Ataque Duplo com uma Adaga?",
+        "es": "[El Anónimo]\n9. ¿Cuántos SP\nse necesitan para Doble ataque?"
+    },
+    "5pKUBg": {
+        "en": "15",
+        "pt": "15",
+        "es": "15"
+    },
+    "55KUBg": {
+        "en": "It's a passive skill, so SP use is 0.",
+        "pt": "0 por ser uma habilidade passiva.",
+        "es": "Es una habilidad pasiva, por lo que el uso de SP es 0."
+    },
+    "6JKUBg": {
+        "en": "It's passive skill, so SP use is 10.",
+        "pt": "Sempre 10 por que é uma habilidade passiva.",
+        "es": "Es una habilidad pasiva, por lo que el uso de SP es 10."
+    },
+    "6ZKUBg": {
+        "en": "54",
+        "pt": "54",
+        "es": "54"
+    },
+    "6pKUBg": {
+        "en": "[The Anonymous One]\n10. What is the best elemental Main Gauche weapon for hunting in Izlude dungeon?",
+        "pt": "[Ninguém]\n10. Qual dessas armas causa mais dano no Túnel Submarino?",
+        "es": "[El Anónimo]\n10. ¿Cuál es la mejor arma elemental de Daga de paradas para cazar en la mazmorra de Izlude?"
+    },
+    "65KUBg": {
+        "en": "Wind Main Gauche",
+        "pt": "Main Gauche de Vento.",
+        "es": "Daga de paradas de Viento."
+    },
+    "7JKUBg": {
+        "en": "Ice Main Gauche",
+        "pt": "Main Gauche de Terra.",
+        "es": "Daga de paradas de Hielo."
+    },
+    "7ZKUBg": {
+        "en": "Earth Main Gauche",
+        "pt": "Main Gauche de Gelo.",
+        "es": "Daga de paradas de Tierra."
+    },
+    "7pKUBg": {
+        "en": "Fire Main Gauche",
+        "pt": "Main Gauche de Fogo.",
+        "es": "Daga de paradas de Fuego."
+    },
+    "75KUBg": {
+        "en": "[The Anonymous One]\n1. Which monster\ndrops a slotted Katar?",
+        "pt": "[Ninguém]\n1. Que monstro você deve matar para conseguir uma Katar com slots extras?",
+        "es": "[El Anónimo]\n1. ¿Qué monstruo\ndeja caer un Katar con ranuras?"
+    },
+    "8JKUBg": {
+        "en": "Thief Bug",
+        "pt": "Besouro Ladrão.",
+        "es": "Bicho ladrón."
+    },
+    "8ZKUBg": {
+        "en": "Peco Peco",
+        "pt": "Pecopeco.",
+        "es": "Peco Peco."
+    },
+    "8pKUBg": {
+        "en": "Desert Wolf",
+        "pt": "Lobo do Deserto.",
+        "es": "Lobo del desierto."
+    },
+    "85KUBg": {
+        "en": "Hammer Cobolt",
+        "pt": "Cobolt.",
+        "es": "Kobold (martillo)."
+    },
+    "9JKUBg": {
+        "en": "[The Anonymous One]\n2. Which monster\ndrops a slotted Jur?",
+        "pt": "[Ninguém]\n2. E para conseguir uma Jur com slots extras?",
+        "es": "[El Anónimo]\n2. ¿Qué monstruo\ndeja caer un Jur con ranuras?"
+    },
+    "9ZKUBg": {
+        "en": "Martin",
+        "pt": "Martin.",
+        "es": "Martin."
+    },
+    "9pKUBg": {
+        "en": "Marionette",
+        "pt": "Marionete",
+        "es": "Marioneta."
+    },
+    "95KUBg": {
+        "en": "Myst",
+        "pt": "Névoa.",
+        "es": "Myst."
+    },
+    "+JKUBg": {
+        "en": "[The Anonymous One]\n3. Which class is allowed to craft elemental weapons?",
+        "pt": "[Ninguém]\n3. Qual classe é capaz de produzir Armas Elementais?",
+        "es": "[El Anónimo]\n3. ¿Qué clase puede fabricar armas elementales?"
+    },
+    "+ZKUBg": {
+        "en": "Merchant",
+        "pt": "Mercadores.",
+        "es": "Comerciante."
+    },
+    "+pKUBg": {
+        "en": "Blacksmith",
+        "pt": "Ferreiros.",
+        "es": "Herrero."
+    },
+    "+5KUBg": {
+        "en": "Thief",
+        "pt": "Gatunos.",
+        "es": "Ladrón."
+    },
+    "/JKUBg": {
+        "en": "Priest",
+        "pt": "Sacerdotes.",
+        "es": "Sacerdote."
+    },
+    "/ZKUBg": {
+        "en": "[The Anonymous One]\n4. Choose the weapon which is not in the Katar class.",
+        "pt": "[Ninguém]\n4. Qual dessas armas não é uma Katar?",
+        "es": "[El Anónimo]\n4. Elige el arma que no pertenezca a la clase Katar."
+    },
+    "/pKUBg": {
+        "en": "Jamadhar",
+        "pt": "Jamadhar.",
+        "es": "Jamadhar."
+    },
+    "/5KUBg": {
+        "en": "Jur",
+        "pt": "Jur.",
+        "es": "Jur."
+    },
+    "AJOUBg": {
+        "en": "Katar",
+        "pt": "Katar.",
+        "es": "Katar."
+    },
+    "AZOUBg": {
+        "en": "Gladius",
+        "pt": "Gladius.",
+        "es": "Gladius."
+    },
+    "ApOUBg": {
+        "en": "[The Anonymous One]\n5. What property do Izlude dungeon monsters posses?",
+        "pt": "[Ninguém]\n5. De que elementos são os monstros do Túnel Submarino?",
+        "es": "[El Anónimo]\n5. ¿Qué propiedad poseen los monstruos de la mazmorras de Izlude?"
+    },
+    "A5OUBg": {
+        "en": "Water",
+        "pt": "Água.",
+        "es": "Agua."
+    },
+    "BJOUBg": {
+        "en": "[The Anonymous One]\n6. Which monster\ncannot be a Cute Pet?",
+        "pt": "[Ninguém]\n6. Qual desses monstros não pode ser um Bichinho de Estimação?",
+        "es": "[El Anónimo]\n6. ¿Qué monstruo\nno puede ser una mascota adorable?"
+    },
+    "BZOUBg": {
+        "en": "Poporing",
+        "pt": "Poporing.",
+        "es": "Poporing."
+    },
+    "BpOUBg": {
+        "en": "Roda Frog",
+        "pt": "Sapo de Rodda.",
+        "es": "Rana Roda."
+    },
+    "B5OUBg": {
+        "en": "Smokie",
+        "pt": "Fumacento.",
+        "es": "Smokie."
+    },
+    "CJOUBg": {
+        "en": "Poison Spore",
+        "pt": "Esporo Venenoso.",
+        "es": "Espora venenosa."
+    },
+    "CZOUBg": {
+        "en": "[The Anonymous One]\n7. Choose a monster that Fire property Daggers work the best on.",
+        "pt": "[Ninguém]\n7. Com uma Adaga de fogo, que monstro recebe dano extra?",
+        "es": "[El Anónimo]\n7. Elige un monstruo con el que funcionen mejor las Dagas con la propiedad Fuego."
+    },
+    "CpOUBg": {
+        "en": "Dagger Goblin",
+        "pt": "Goblin com Adaga.",
+        "es": "Duende con Daga."
+    },
+    "C5OUBg": {
+        "en": "Mace Goblin",
+        "pt": "Goblin com Espetos.",
+        "es": "Duende con Maza"
+    },
+    "DJOUBg": {
+        "en": "Morning Star Goblin",
+        "pt": "Goblin com Martelo.",
+        "es": "Duende del Lucero del alba"
+    },
+    "DZOUBg": {
+        "en": "Hammer Goblin",
+        "pt": "Goblin com Machado.",
+        "es": "Duende con Martillo."
+    },
+    "DpOUBg": {
+        "en": "[The Anonymous One]\n8. Choose the non-elemental Katar from the following:",
+        "pt": "[Ninguém]\n8. Qual dessas Katares não possui um Elemento",
+        "es": "[El Anónimo]\n8. Elige el Katar no elemental de entre los siguientes:"
+    },
+    "D5OUBg": {
+        "en": "Katar of Raging Blaze",
+        "pt": "Katar da Chama Impetuosa.",
+        "es": "Katar del fuego embravecido."
+    },
+    "EJOUBg": {
+        "en": "Katar of Dusty Thornbush",
+        "pt": "Katar da Espinheira Empoeirada.",
+        "es": "Katar del espino polvoriento."
+    },
+    "EZOUBg": {
+        "en": "Sharpened Legbone of Ghoul",
+        "pt": "Osso Afiado de Carniçal.",
+        "es": "Fémur afilado de Necrófago."
+    },
+    "EpOUBg": {
+        "en": "Infiltrator",
+        "pt": "Infiltrador.",
+        "es": "Infiltrado."
+    },
+    "E5OUBg": {
+        "en": "[The Anonymous One]\n9. Which is the uncommon monster?",
+        "pt": "[Ninguém]\n9. Todos estes monstros são do mesmo elemento, exceto um. Qual?",
+        "es": "[El Anónimo]\n9. ¿Cuál es el monstruo poco común?"
+    },
+    "FJOUBg": {
+        "en": "Poring",
+        "pt": "Poring",
+        "es": "Poring."
+    },
+    "FZOUBg": {
+        "en": "Mastering",
+        "pt": "Mastering",
+        "es": "Mastering."
+    },
+    "FpOUBg": {
+        "en": "Ghostring",
+        "pt": "Ghostring",
+        "es": "Ghostring."
+    },
+    "F5OUBg": {
+        "en": "Spore",
+        "pt": "Esporo.",
+        "es": "Espora."
+    },
+    "GJOUBg": {
+        "en": "[The Anonymous One]\n10. Choose the monster\nthat is not Undead.",
+        "pt": "[Ninguém]\n10. Qual desses monstros não é do elemento Maldito?",
+        "es": "[El Anónimo]\n10. Elige el monstruo\nque no sea Muerto viviente."
+    },
+    "GZOUBg": {
+        "en": "Drake",
+        "pt": "Drake.",
+        "es": "Drake."
+    },
+    "GpOUBg": {
+        "en": "Megalodon",
+        "pt": "Megalodon.",
+        "es": "Megalodón."
+    },
+    "G5OUBg": {
+        "en": "Khalitzburg",
+        "pt": "Khalitzburg.",
+        "es": "Khalitzburg."
+    },
+    "HJOUBg": {
+        "en": "[The Anonymous One]\n1. Choose the correct amount of the maximum dodge rate increase from the 'Increase Dodge' skill when at level 10.",
+        "pt": "[Ninguém]\n1. Quanto bônus de Esquiva você tem ao maximizar 'Perícia em Esquiva'?",
+        "es": "[El Anónimo]\n1. Elige la cantidad correcta del aumento de la probabilidad de evasión de la habilidad Aumento de evasión cuando estés en el nivel10."
+    },
+    "HZOUBg": {
+        "en": "30",
+        "pt": "30",
+        "es": "30"
+    },
+    "HpOUBg": {
+        "en": "40",
+        "pt": "40",
+        "es": "40"
+    },
+    "H5OUBg": {
+        "en": "160",
+        "pt": "160",
+        "es": "160"
+    },
+    "IJOUBg": {
+        "en": "20",
+        "pt": "20",
+        "es": "20"
+    },
+    "IZOUBg": {
+        "en": "[The Anonymous One]\n2. Choose a monster which detects hiding/cloaking Thieves and Assassins.",
+        "pt": "[Ninguém]\n2. Qual desses monstros ignora você estar escondido ou furtivo?",
+        "es": "[El Anónimo]\n2. Elige un monstruo que detecte Ladrones y Asesinos ocultos o en secreto."
+    },
+    "IpOUBg": {
+        "en": "Worm Tail",
+        "pt": "Rabo-de-Verme.",
+        "es": "Cola de gusano."
+    },
+    "I5OUBg": {
+        "en": "Andre",
+        "pt": "Andre.",
+        "es": "Andre."
+    },
+    "JJOUBg": {
+        "en": "Mummy",
+        "pt": "Múmia.",
+        "es": "Momia."
+    },
+    "JZOUBg": {
+        "en": "Soldier Skeleton",
+        "pt": "Esqueleto Soldado.",
+        "es": "Esqueleto soldado."
+    },
+    "JpOUBg": {
+        "en": "[The Anonymous One]\n3. Choose a group of weapons that cannot be used by an Assassin at once.",
+        "pt": "[Ninguém]\n3. Qual dessas combinações de armas é impossível?",
+        "es": "[El Anónimo]\n3. Elige un grupo de armas que un Asesino no pueda utilizar al mismo tiempo."
+    },
+    "J5OUBg": {
+        "en": "Main Gaughe + Gladius",
+        "pt": "Main Gauche + Gladius",
+        "es": "Daga de paradas + Gladius."
+    },
+    "KJOUBg": {
+        "en": "Stiletto + Main Gauche",
+        "pt": "Stilleto + Main Gauche",
+        "es": "Stiletto + Daga de paradas."
+    },
+    "KZOUBg": {
+        "en": "Katar + Maingauche",
+        "pt": "Katar + Main Gauche",
+        "es": "Katar + Daga de paradas."
+    },
+    "KpOUBg": {
+        "en": "Hammer + Stiletto",
+        "pt": "Machado Orc + Stilleto",
+        "es": "Martillo + Stiletto."
+    },
+    "K5OUBg": {
+        "en": "[The Anonymous One]\n4. Choose the town where Thieves can change their jobs.",
+        "pt": "[Ninguém]\n4. Para qual cidade você vai para se tornar um Gatuno?",
+        "es": "[El Anónimo]\n4. Elige el pueblo en donde los Ladrones puedan cambiar de clase."
+    },
+    "LJOUBg": {
+        "en": "Prontera",
+        "pt": "Prontera",
+        "es": "Prontera."
+    },
+    "LZOUBg": {
+        "en": "Lutie",
+        "pt": "Lutie",
+        "es": "Lutie."
+    },
+    "LpOUBg": {
+        "en": "Alberta",
+        "pt": "Alberta",
+        "es": "Alberta."
+    },
+    "L5OUBg": {
+        "en": "Morroc",
+        "pt": "Morroc",
+        "es": "Morroc."
+    },
+    "MJOUBg": {
+        "en": "[The Anonymous One]\n5. Choose a card that does not affect the AGI stat.",
+        "pt": "[Ninguém]\n5. Qual dessas cartas não dá bônus à Agilidade?",
+        "es": "[El Anónimo]\n5. Elige una carta que no afecta la estadística AGI."
+    },
+    "MZOUBg": {
+        "en": "Baphomet Jr. card",
+        "pt": "Carta Bafomé Jr.",
+        "es": "Carta de Baphomet Jr."
+    },
+    "MpOUBg": {
+        "en": "Whisper Card",
+        "pt": "Carta Sussurro.",
+        "es": "Carta de Susurro."
+    },
+    "M5OUBg": {
+        "en": "Female Thiefbug card",
+        "pt": "Carta Besouro Ladrão Fêmea.",
+        "es": "Carta de Bicho ladrón (femenino)."
+    },
+    "NJOUBg": {
+        "en": "Male Thiefbug card",
+        "pt": "Carta Besouro Ladrão Macho.",
+        "es": "Carta de Bicho ladrón (masculino)."
+    },
+    "NZOUBg": {
+        "en": "[The Anonymous One]\n6. Choose the correct specialty of the Assassin class.",
+        "pt": "[Ninguém]\n6. Mercenários são conhecidos por qual grande vantagem?",
+        "es": "[El Anónimo]\n6. Elige la especialidad correcta de la clase Asesino."
+    },
+    "NpOUBg": {
+        "en": "Excellent singing talent",
+        "pt": "Sabem cantar bem.",
+        "es": "Excelente talento para el canto."
+    },
+    "N5OUBg": {
+        "en": "Excellent reading talent",
+        "pt": "Sapateiam como ninguém.",
+        "es": "Excelente talento para la lectura."
+    },
+    "OJOUBg": {
+        "en": "Excellent dancing talent",
+        "pt": "São ótimos dançarinos.",
+        "es": "Excelente talento para el baile."
+    },
+    "OZOUBg": {
+        "en": "Excellent dodge ability",
+        "pt": "Se esquivam com facilidade.",
+        "es": "Excelente habilidad para evadir."
+    },
+    "OpOUBg": {
+        "en": "[The Anonymous One]\n7. Choose the maximum AGI bonus an Assassin can get at job level 50.",
+        "pt": "[Ninguém]\n7. No nível 50 de classe, qual é o bônus natural em Agi?",
+        "es": "[El Anónimo]\n7. Elige la bonificación de AGI máxima que puede obtener un Asesino en el nivel de clase 50."
+    },
+    "O5OUBg": {
+        "en": "7",
+        "pt": "7",
+        "es": "7"
+    },
+    "PJOUBg": {
+        "en": "8",
+        "pt": "8",
+        "es": "8"
+    },
+    "PZOUBg": {
+        "en": "9",
+        "pt": "9",
+        "es": "9"
+    },
+    "PpOUBg": {
+        "en": "10",
+        "pt": "10",
+        "es": "10"
+    },
+    "P5OUBg": {
+        "en": "[The Anonymous One]\n8. Choose the item that an Assassin cannot equip.",
+        "pt": "[Ninguém]\n8. Qual desses items não pode ser utilizado por um Mercenário?",
+        "es": "[El Anónimo]\n8. Elige el objeto que un Asesino no puede equipar."
+    },
+    "QJOUBg": {
+        "en": "Dagger",
+        "pt": "Adaga.",
+        "es": "Daga."
+    },
+    "QZOUBg": {
+        "en": "Helm",
+        "pt": "Elmo.",
+        "es": "Yelmo."
+    },
+    "QpOUBg": {
+        "en": "Boots",
+        "pt": "Botas.",
+        "es": "Botas."
+    },
+    "Q5OUBg": {
+        "en": "Brooch",
+        "pt": "Broche.",
+        "es": "Broche."
+    },
+    "RJOUBg": {
+        "en": "[The Anonymous One]\n9. Choose the job change item for Thief.",
+        "pt": "[Ninguém]\n9. Quando um Aprendiz vai se tornar um Gatuno, que tipo de cogumelo ele procura?",
+        "es": "[El Anónimo]\n9. Elige el objeto de cambio de clase para Ladrón."
+    },
+    "RZOUBg": {
+        "en": "Orange Gooey Mushroom",
+        "pt": "Cogumelo Borrachento.",
+        "es": "Hongo gomoso naranja."
+    },
+    "RpOUBg": {
+        "en": "Red Gooey Mushroom",
+        "pt": "Cogumelo Comestíveis.",
+        "es": "Hongo gomoso rojo."
+    },
+    "R5OUBg": {
+        "en": "Orange Net Mushroom",
+        "pt": "Cogumelo Venenoso.",
+        "es": "Hongo de red naranja."
+    },
+    "SJOUBg": {
+        "en": "Orange Hair Mushroom",
+        "pt": "Shitake.",
+        "es": "Hongo de melena naranja."
+    },
+    "SZOUBg": {
+        "en": "[The Anonymous One]\n10. Choose a card that would typically benefit an Assassin the least.",
+        "pt": "[Ninguém]\n10. Qual dessas cartas não é muito útil à um Mercenário?",
+        "es": "[El Anónimo]\n10. Elige una carta que normalmente beneficiaría menos a la clase Asesino."
+    },
+    "SpOUBg": {
+        "en": "Whisper card",
+        "pt": "Carta Sussurro",
+        "es": "Carta de Susurro."
+    },
+    "S5OUBg": {
+        "en": "Elder Willow card",
+        "pt": "Carta Salgueiro Ancião",
+        "es": "Carta de Sauce anciano."
+    },
+    "TJOUBg": {
+        "en": "Soldier Skeleton card",
+        "pt": "Carta Soldado Esqueleto",
+        "es": "Carta de Esqueleto soldado."
+    },
+    "TZOUBg": {
+        "en": "Cobold card",
+        "pt": "Carta Cobolt",
+        "es": "Carta de Kobold."
+    },
+    "TpOUBg": {
+        "en": "[The Anonymous One]\nHmpf.\nSomehow, you\nhave shown me\ngreat effort.",
+        "pt": "[Ninguém]\nHmmm... Você sobreviveu até o fim do teste pelo menos. Hehehehhe",
+        "es": "[El Anónimo]\nPff…\nDe alguna manera,\nme demostraste\nun gran esfuerzo."
+    },
+    "T5OUBg": {
+        "en": "[The Anonymous One]\nLet's see...\nYou scored\n{0} percent...",
+        "pt": "[Ninguém]\nA sua pontuação foi {0}.....",
+        "es": "[El Anónimo]\nVeamos…\nObtuviste\n{0}por ciento…"
+    },
+    "UJOUBg": {
+        "en": "Well done.\nYou pass.",
+        "pt": "... Bom trabalho, você passou no teste.",
+        "es": "Bien hecho.\n¡Pasaste!"
+    },
+    "UZOUBg": {
+        "en": "[The Anonymous One]\nHowever, another test awaits you. When you go inside the next area, you will receive your instructions...",
+        "pt": "[Ninguém]\nMas não pense que chegou ao fim... Essa aqui foi a parte fácil.\nVá para a próxima sala para fazer o teste seguinte.",
+        "es": "[El Anónimo]\nSin embargo, te espera otra prueba. Cuando entres en la siguiente zona, recibirás las instrucciones…"
+    },
+    "UpOUBg": {
+        "en": "That means you fail!",
+        "pt": "Huauauauua!!! Você não passou no teste!",
+        "es": "¡Eso significa que no pasaste!"
+    },
+    "U5OUBg": {
+        "en": "[The Anonymous One]\nHow could you expect to be an Assassin with this score? Keep training and come back when you're ready.",
+        "pt": "[Ninguém]\nComo você pretende ser um Mercenário com esse tipo de conhecimento?\nEstude mais... Huauauauauua",
+        "es": "[El Anónimo]\n¿Cómo puedes esperar ser Asesino con esta puntuación? Sigue entrenando y vuelve cuando te hayas preparado bien."
+    },
+    "VJOUBg": {
+        "en": "[The Anonymous One]\nI would ask 'Khai,' the one who processed your application, for advice.",
+        "pt": "[Ninguém]\nSe você realmente precisa de ajuda, aqui está uma dica: Fale com o Kain, aquele cara na entrada.",
+        "es": "[El Anónimo]\nYo pediría consejo a Khai, quien procesó tu solicitud."
+    },
+    "VZOUBg": {
+        "en": "[The Anonymous One]\nYou may also use this code: ^880000iro.ragnarokonline.com^000000. Somehow, those words are linked to a vast body of otherworldly knowledge...",
+        "pt": "[Ninguém]\nOu tente acessar ^880000ro.gnjoylatam.com^000000 ....\nEu ouvi dizer que é lá que o nosso mundo se molda...",
+        "es": "[El Anónimo]\nTambién puedes utilizar este código: ^880000ro.gnjoylatam.com^000000. De alguna manera, esas palabras están vinculadas a un vasto compilado de conocimiento de otro mundo…"
+    },
+    "VpOUBg": {
+        "en": "[The Anonymous One]\nHaving problems\npassing a simple test?\nYou should have\nknown better.",
+        "pt": "[Ninguém]\nEstá tendo problemas para\npara passar em um teste simples?\nVocê deveria ter\nsaber melhor.",
+        "es": "[El Anónimo]\n¿Tienes problemas\npara pasar una simple prueba?\nDeberías haber\nestudiado más."
+    },
+    "V5OUBg": {
+        "en": "Help me, how do I pass?",
+        "pt": "Me ajude! Como eu passo do teste?",
+        "es": "Ayúdame, ¿cómo apruebo?"
+    },
+    "WJOUBg": {
+        "en": "I challenge you again!",
+        "pt": "Eu o desafio novamente!",
+        "es": "¡Te desafío de nuevo!"
+    },
+    "WZOUBg": {
+        "en": "[The Anonymous One]\nWell, that's a damn good question. But you're banished from the Assassin Guild, so it's no concern of mine...",
+        "pt": "[Ninguém]\nBem, essa é uma pergunta muito boa. Mas você deve falar com o Kain, aquele cara na entrada.",
+        "es": "[El Anónimo]\nBueno, esa es una muy buena pregunta. Pero te desterraron del gremio de Asesinos, así que no es asunto mío…"
+    },
+    "WpOUBg": {
+        "en": "[The Anonymous One]\nSo I see...\nNow go, but do not fear. I will be by your side as you learn the outcome of your choice...",
+        "pt": "[Ninguém]\nVocê sobreviveu até o fim do teste pelo menos.\nMas não pense que chegou ao fim... Essa aqui foi a parte fácil.",
+        "es": "[El Anónimo]\nYa veo…\nVete ya, pero no temas. Estaré a tu lado mientras conoces el resultado de tu decisión…"
+    },
+    "W5OUBg": {
+        "en": "[The Anonymous One]\nNow, we shall test you once more! Keep in mind, you must answer 9 questions out of 10 correctly. Remember I am doing you a favor...",
+        "pt": "[Ninguém]\nHuhuhu... Você não desiste mesmo, hein? Lembre-se de que você deve responder corretamente a 9 das 10 perguntas...",
+        "es": "[El Anónimo]\nAhora ¡te pondremos a prueba una vez más! Ten en cuenta que debes responder correctamente 9 de 10 preguntas. Recuerda que te estoy haciendo un favor…"
+    },
+    "XJOUBg": {
+        "en": "[The Anonymous One]\nYou must answer 9 questions out of 10 correctly. If you miss more then one question, you can never become an Assassin.",
+        "pt": "[Ninguém]\nRepetindo: Você deve responder corretamente a 9 perguntas de 10. Se errar mais de uma pergunta, você nunca poderá se tornar um de nós.",
+        "es": "[El Anónimo]\nDebes responder correctamente 9 de 10 preguntas. Si fallas en más de una pregunta, nunca podrás convertirte en Asesino."
+    },
+    "XZOUBg": {
+        "en": "[The Anonymous One]\nOkay,\nare you ready?\nGood luck.",
+        "pt": "[Ninguém]\nOk,\nvocê se preparou?\nBoa sorte.",
+        "es": "[El Anónimo]\nDe acuerdo,\n¿quieres comenzar?\nBuena suerte."
+    },
+    "XpOUBg": {
+        "en": "[The Anonymous One]\n1. Choose the skill that is not required to learn Grimtooth.",
+        "pt": "[Ninguém]\n1. Qual dessas habilidades não é pré-requisito para 'Tocaia'?",
+        "es": "[El Anónimo]\n1. Elige la habilidad que no sea necesaria para aprender Colmillo umbrío."
+    },
+    "X5OUBg": {
+        "en": "Level 2 Cloaking",
+        "pt": "Furtividade nível 2",
+        "es": "Secretismo nivel 2."
+    },
+    "YJOUBg": {
+        "en": "Level 5 Sonic Blow",
+        "pt": "Lâminas Destruidoras nível 5",
+        "es": "Impacto sónico nivel 5."
+    },
+    "YZOUBg": {
+        "en": "Level 4 Katar Mastery",
+        "pt": "Perícia com Katar nível 4",
+        "es": "Maestría de Katar nivel 4."
+    },
+    "YpOUBg": {
+        "en": "Level 2 Right hand Mastery",
+        "pt": "Perícia com Mão Direita nível 2",
+        "es": "Maestría de la mano derecha nivel 2."
+    },
+    "Y5OUBg": {
+        "en": "[The Anonymous One]\n3. How does Level 4 'Right hand Mastery' work?",
+        "pt": "[Ninguém]\n3. Qual o efeito de Nível 4 de 'Perícia com a Mão Direita' no dano com a mão direita, ao usar duas armas?",
+        "es": "[El Anónimo]\n3. ¿Cómo funciona Maestría de la mano derecha nivel 4?"
+    },
+    "ZJOUBg": {
+        "en": "Recover 80% of damage decrement",
+        "pt": "Recupera 80% do dano normal",
+        "es": "Recupera el 80% de la reducción de daño."
+    },
+    "ZZOUBg": {
+        "en": "Recover 90% of damage decrement",
+        "pt": "Recupera 90% do dano normal",
+        "es": "Recupera el 90% de la reducción de daño."
+    },
+    "ZpOUBg": {
+        "en": "Increase 108% of damage!!",
+        "pt": "Recupera 150% do dano normal",
+        "es": "¡¡Aumenta el daño un 108%!!"
+    },
+    "Z5OUBg": {
+        "en": "[The Anonymous One]\n6. Among the following skills, which allows you to become invisible while moving?",
+        "pt": "[Ninguém]\n6. Qual dessas habilidades permite que você ande invisível?",
+        "es": "[El Anónimo]\n6. De las siguientes habilidades, ¿cuál te permite volverte invisible mientras te mueves?"
+    },
+    "aJOUBg": {
+        "en": "[The Anonymous One]\n7. From the following, choose the thing unrelated to using Venom Splasher.",
+        "pt": "[Ninguém]\n7. Das condições abaixo, qual não é requisito para que a 'Explosão Tóxica' funcione?",
+        "es": "[El Anónimo]\n7. De las siguientes opciones, elige lo que no esté relacionado con el uso de Lanzavenenos."
+    },
+    "aZOUBg": {
+        "en": "Remaining HP of Target.",
+        "pt": "HP restante do alvo.",
+        "es": "HP restante del objetivo."
+    },
+    "apOUBg": {
+        "en": "[The Anonymous One]\n8. Which monster is weak to a weapon with Vadon card (adds 20% damage on Fire monster)?",
+        "pt": "[Ninguém]\n8. Com uma arma que tenha a Carta Vadon, que monstro recebe o bônus de dano contra Fogo?",
+        "es": "[El Anónimo]\n8. ¿Qué monstruo es débil contra un arma con la carta de Vadon (agrega un 20% de daño a monstruos de tipo Fuego)?"
+    },
+    "a5OUBg": {
+        "en": "[The Anonymous One]\n9. How much SP does\nDouble Attack use?",
+        "pt": "[Ninguém]\n9. Quanto de SP o\nAtaque Duplo usa?",
+        "es": "[El Anónimo]\n9. ¿Cuántos SP\n¿Uso de Doble ataque?"
+    },
+    "bJOUBg": {
+        "en": "It's a passive skill and doesn't use SP.",
+        "pt": "Habilidade passiva que não usa SP.",
+        "es": "Es una habilidad pasiva y no usa SP."
+    },
+    "bZOUBg": {
+        "en": "It's a passive skill, so it uses 10 SP.",
+        "pt": "Habilidade passiv que usa 10 de SP.",
+        "es": "Es una habilidad pasiva, por lo que utiliza 10 SP."
+    },
+    "bpOUBg": {
+        "en": "[The Anonymous One]\n10. What is the best elemental Main Gauche to use when hunting in Izlude dungeon?",
+        "pt": "[Ninguém]\n10. Qual dessas armas armas causa mais dano no Túnel Submarino?",
+        "es": "[El Anónimo]\n10. ¿Cuál es la mejor arma elemental de Daga de paradas para usar al cazar en la mazmorra de Izlude?"
+    },
+    "b5OUBg": {
+        "en": "[The Anonymous One]\n1. Which monster drops\na slotted Katar?",
+        "pt": "[Ninguém]\n1. Que monstro você deve matar para\nconseguir um Katar com slots extras?",
+        "es": "[El Anónimo]\n1. ¿Qué monstruo deja caer\nun Katar con ranuras?"
+    },
+    "cJOUBg": {
+        "en": "Hammer Cobold",
+        "pt": "Kobold",
+        "es": "Kobold (martillo)."
+    },
+    "cZOUBg": {
+        "en": "[The Anonymous One]\n2. Which monster\na slotted Jur?",
+        "pt": "[Ninguém]\n2. Qual monstro derruba\nJur com Slot?",
+        "es": "[El Anónimo]\n2. ¿Qué monstruo\nun Jur con ranuras?"
+    },
+    "cpOUBg": {
+        "en": "[The Anonymous One]\n4. Choose a weapon which is not Katar class.",
+        "pt": "[Ninguém]\n4. Qual dessas armas não é um Katar?",
+        "es": "[El Anónimo]\n4. Elige un arma que no sea de la clase Katar."
+    },
+    "c5OUBg": {
+        "en": "[The Anonymous One]\n5. What property do Izlude dungeon monsters possess?",
+        "pt": "[Ninguém]\n5. De que propriedade são os monstros do Túnel Submarino?",
+        "es": "[El Anónimo]\n5. ¿Qué propiedad poseen los monstruos de la mazmorra de Izlude?"
+    },
+    "dJOUBg": {
+        "en": "[The Anonymous One]\n7. Choose a monster that Fire property daggers work the best on.",
+        "pt": "[Ninguém]\n7. Com uma Adaga de Fogo, que monstro recebe dano extra?",
+        "es": "[El Anónimo]\n7. Elige un monstruo contra el que las Dagas con la propiedad Fuego funcionan mejor."
+    },
+    "dZOUBg": {
+        "en": "[The Anonymous One]\n8. Choose the non-elemental Katar.",
+        "pt": "[Ninguém]\n8. Qual desses Katares não possui propriedade elemental?",
+        "es": "[El Anónimo]\n8. Elige el Katar no elemental."
+    },
+    "dpOUBg": {
+        "en": "[The Anonymous One]\n1. When the 'Increase Dodge' skill is at Level 10, by how much is the maximum dodge rate increased?",
+        "pt": "[Ninguém]\n1. Quantos bônus de Esquiva você terá ao maximizar 'Perícia em Esquiva'?",
+        "es": "[El Anónimo]\n1. Cuando la habilidad Aumento de evasión está en el nivel10, ¿en cuánto aumenta la probabilidad máxima de evasión?"
+    },
+    "d5OUBg": {
+        "en": "[The Anonymous One]\n2. Choose the monster which detects hiding/cloaking Thief/Assassin.",
+        "pt": "[Ninguém]\n2. Qual desses monstros ignora o estado de Esconderijo/Furtividade?",
+        "es": "[El Anónimo]\n2. Elige el monstruo que detecta Ocultamiento/Secretismo del Ladrón/Asesino."
+    },
+    "eJOUBg": {
+        "en": "[The Anonymous One]\n3. Choose the group of weapons that cannot be used by an Assassin at the same time.",
+        "pt": "[Ninguém]\n3. Qual dessas combinações de armas é impossível equipar?",
+        "es": "[El Anónimo]\n3. Elige el grupo de armas que un Asesino no puede usar al mismo tiempo."
+    },
+    "eZOUBg": {
+        "en": "[The Anonymous One]\n4. Choose the town where the Thief job change resides.",
+        "pt": "[Ninguém]\n4. Qual é a cidade da mudança de classe para Gatuno?",
+        "es": "[El Anónimo]\n4. Elige el pueblo donde reside el cambio de clase a Ladrón."
+    },
+    "epOUBg": {
+        "en": "[The Anonymous One]\n5. Choose the card that does not affect the AGI stat.",
+        "pt": "[Ninguém]\n5. Qual dessas cartas não dá bônus de Agilidade?",
+        "es": "[El Anónimo]\n5. Elige la carta que no afecta la estadística AGI."
+    },
+    "e5OUBg": {
+        "en": "[The Anonymous One]\n6. Choose the specialty that applies to Assassins.",
+        "pt": "[Ninguém]\n6. Mercenários são conhecidos por qual grande vantagem?",
+        "es": "[El Anónimo]\n6. Elige la especialidad que se aplica a los Asesinos."
+    },
+    "fJOUBg": {
+        "en": "Excellent acting talent",
+        "pt": "Excelente talento para atuar",
+        "es": "Excelente talento para actuar."
+    },
+    "fZOUBg": {
+        "en": "[The Anonymous One]\n7. Choose the maximum AGI bonus that an Assassin can get at job level 50.",
+        "pt": "[Ninguém]\n7. No nível 50 de classe, qual o bônus máximo de AGI?",
+        "es": "[El Anónimo]\n7. Elige la bonificación de AGI máxima que puede obtener un Asesino en el nivel de clase50."
+    },
+    "fpOUBg": {
+        "en": "[The Anonymous One]\n9. Choose the\njob change item\nfor a Thief.",
+        "pt": "[Ninguém]\n9. Quando um Aprendiz vai se\ntornar Gatuno, \nque tipo de cogumelo ele procura?",
+        "es": "[El Anónimo]\n9. Elige el\nobjeto de cambio de clase\npara un Ladrón."
+    },
+    "f5OUBg": {
+        "en": "[The Anonymous One]\n10. Choose a card that would benefit Assassins the least.",
+        "pt": "[Ninguém]\n10. Qual dessas cartas não é muito útil para um Mercenário?",
+        "es": "[El Anónimo]\n10. Elige una carta que beneficiaría menos a la clase Asesino."
+    },
+    "gJOUBg": {
+        "en": "[The Anonymous One]\nYou showed\ngreat effort...",
+        "pt": "[Ninguém]\nVocê demostrou\nter conhecimento...",
+        "es": "[El Anónimo]\nMostraste\nun gran esfuerzo…"
+    },
+    "gZOUBg": {
+        "en": "[The Anonymous One]\nLet's see...\nYou scored\n{0} points...",
+        "pt": "[Ninguém]\nVamos ver...\nVocê marcou\n{0} pontos...",
+        "es": "[El Anónimo]\nVeamos…\nObtuviste\n{0} puntos…"
+    },
+    "gpOUBg": {
+        "en": "[The Anonymous One]\nYou didn't fail this time! But you're not done just yet. You have another test ahead of you. Once you proceed, you will be informed about your next trial.",
+        "pt": "[Ninguém]\nVocê não falhou desta vez! Mas ainda não terminou. Vá para a próxima sala para fazer o teste seguinte.",
+        "es": "[El Anónimo]\n¡Esta vez no fallaste! Pero aún no has terminado. Tienes otra prueba por delante. Una vez que decidas seguir, se te informará sobre tu próxima prueba."
+    },
+    "g5OUBg": {
+        "en": "You failed!",
+        "pt": "Você falhou!",
+        "es": "¡No pasaste!"
+    },
+    "hJOUBg": {
+        "en": "[The Anonymous One]\nYou're too underqualified. How can you even think about becoming an Assassin?!",
+        "pt": "[Ninguém]\nComo você pretende ser um de nós com esse tipo de conhecimento?",
+        "es": "[El Anónimo]\nNo tienes lo necesario. ¡¿Cómo puedes siquiera pensar en convertirte en Asesino?!"
+    },
+    "hZOUBg": {
+        "en": "[The Anonymous One]\nI'm surprised that you were even able to become a Thief. Go away, and come back only when you know what the hell you're doing.",
+        "pt": "[Ninguém]\nEstou surpreso que você tenha sido capaz de virar uma Classe 1! Vá embora e só volte quando souber piscar e respirar ao mesmo tempo.",
+        "es": "[El Anónimo]\nMe sorprende que hayas sido capaz de convertirte en Ladrón. Vete y vuelve solo cuando sepas qué demonios estás haciendo."
+    },
+    "hpOUBg": {
+        "en": "[The Anonymous One]\nHmpf, if you really don't have a clue, I will give you a little advice.",
+        "pt": "[Ninguém]\nHmpf, se você realmente não tem a menor ideia, vou lhe dar um pequeno conselho.",
+        "es": "[El Anónimo]\nUgh, si realmente no tienes ni idea, te daré un pequeño consejo."
+    },
+    "h5OUBg": {
+        "en": "[The Anonymous One]\nGo ask 'Khai,' the guy who takes care of your test application, maybe he will help you.",
+        "pt": "[Ninguém]\nVá perguntar ao 'Kakashi', o cara que cuida da sua inscrição para o teste. Talvez ele te ajude.",
+        "es": "[El Anónimo]\nPregúntale a Khai, el chico que se encarga de tu solicitud para la prueba, quizá te ayude."
+    },
+    "iJOUBg": {
+        "en": "[The Anonymous One]\nYou may also wish to take advantage of the ancient code, ^3355FFiro.ragnarokonline.com^000000. Supposedly, those words are linked to a vast body of otherworldly knowledge...",
+        "pt": "[Ninguém]\nTalvez você queira ler o antigo manuscrito: ^3355FFro.gnjoylatam.com^000000. Eu ouvi dizer que o nosso mundo se molda a partir dele...",
+        "es": "[El Anónimo]\nTambién puedes aprovechar el código antiguo, ^3355FFro.gnjoylatam.com^000000. Supuestamente, esas palabras están vinculadas a un vasto compilado de conocimiento de otro mundo…"
+    },
+    "iZOUBg": {
+        "en": "[The Anonymous One]\n...I will keep watching you.",
+        "pt": "[Ninguém]\nAhahahah... Estarei de olho em você.",
+        "es": "[El Anónimo]\n…te seguiré observando."
+    },
+    "ipOUBg": {
+        "en": "Standby Room",
+        "pt": "Sala de Espera",
+        "es": "Sala de espera"
+    },
+    "i5OUBg": {
+        "en": "Standby Room",
+        "pt": "Sala de Espera",
+        "es": "Sala de espera"
+    },
+    "jJOUBg": {
+        "en": "roomclear",
+        "pt": "roomclear",
+        "es": "roomclear"
+    },
+    "jZOUBg": {
+        "en": "Test Guide",
+        "pt": "Guia de Teste",
+        "es": "Test Guía"
+    },
+    "jpOUBg": {
+        "en": "[Barcardi]\nYou can't take the next trial without passing the written test first. You better speak to the Anonymous One...",
+        "pt": "[Bastit]\nComo ousa não fazer todos os testes?\nPor favor, responda às perguntas de Ninguém antes.",
+        "es": "[Barcardi]\nNo puedes hacer la siguiente prueba sin antes pasar la prueba escrita. Será mejor que hables con El Anónimo…"
+    },
+    "j5OUBg": {
+        "en": "[Barcardi]\n{0}...\nYou passed the test..?",
+        "pt": "[Bastit]\n{0}...\nParece que você se saiu bem nas perguntas de Ninguém...",
+        "es": "[Barcardi]\n{0}…\n¿Pasaste la prueba…?"
+    },
+    "kJOUBg": {
+        "en": "[Barcardi]\nTo be honest, I want to grant you the job change without any other condition. Too many pathetic people don't even have the basic knowledge to be Assassins...",
+        "pt": "[Bastit]\nAhh.. se eu pudesse faria de você um Mercenário agora mesmo...\nMas sabe como é, antes precisamos ter certeza de que você é bom o bastante...",
+        "es": "[Barcardi]\nSi hablo con sinceridad, quiero otorgarte el cambio de clase sin ninguna otra condición. Tanta gente patética ni siquiera tiene los conocimientos básicos para ser Asesinos…"
+    },
+    "kZOUBg": {
+        "en": "[Barcardi]\nWe must keep our dignity as Assassins and be truly great! Regrettably, there are too many idiots that don't have any pride.",
+        "pt": "[Bastit]\nAfinal, não queremos uns molengas representando nossa Guilda!\nNós somos as sombras da morte! Precisamos estar sempre atentos...",
+        "es": "[Barcardi]\n¡Debemos mantener nuestra dignidad como Asesinos y demostrar nuestra grandeza! Lamentablemente, hay demasiados idiotas que no tienen orgullo."
+    },
+    "kpOUBg": {
+        "en": "[Barcardi]\nAll Assassins must respect the enemies they slay, the blood that they spill, and above all, maintain their sense of dignity!",
+        "pt": "[Bastit]\nMuitos dos Gatunos que vêm pra cá não entedem o que é ser um Mercenário...",
+        "es": "[Barcardi]\nTodos los Asesinos deben respetar a los enemigos que matan, la sangre que derraman y, sobre todo, ¡mantener su sentido de la dignidad!"
+    },
+    "k5OUBg": {
+        "en": "[Barcardi]\nAlright. This next trial will test your ability to quickly find your target.",
+        "pt": "[Bastit]\nMuito bem. A próxima prova testará sua capacidade de encontrar rapidamente o alvo.",
+        "es": "[Barcardi]\nDe acuerdo. La siguiente prueba pondrá a prueba tu habilidad para encontrar rápidamente a tu objetivo."
+    },
+    "lJOUBg": {
+        "en": "[Barcardi]\nIf you're going to be an Assassin, we need to determine whether or not you can distinguish friend from foe in an instant.",
+        "pt": "[Bastit]\nSe você vai ser um Mercenário, precisamos determinar se você pode ou não distinguir um amigo de um inimigo em um instante.",
+        "es": "[Barcardi]\nSi serás Asesino, debemos determinar si puedes distinguir a un amigo de un enemigo en un instante."
+    },
+    "lZOUBg": {
+        "en": "[Barcardi]\nThe main goal of this test is to find and kill as many monsters named ^008800Job change target^000000 as possible.",
+        "pt": "[Bastit]\nO objetivo principal deste teste é encontrar e matar o maior número possível de monstros chamados ^008800Vítima^000000.",
+        "es": "[Barcardi]\nEl objetivo principal de esta prueba es encontrar y matar a tantos monstruos llamados ^008800Objetivo de cambio de clase^000000 como sea posible."
+    },
+    "lpOUBg": {
+        "en": "[Barcardi]\nYou must kill at least\n6 ^008800Job change target^000000 monsters. They're intermingled among similar looking monsters, so you need to be careful...",
+        "pt": "[Bastit]\nVocê deve matar pelo menos\n6 ^008800Vítimas^000000. Elas estão misturadas entre monstros de aparência semelhante, portanto, você precisa ter cuidado...",
+        "es": "[Barcardi]\nDebes matar al menos a\n6monstruos ^008800Objetivo de cambio de clase^000000. Están mezclados entre monstruos de apariencia similar, así que debes tener cuidado…"
+    },
+    "l5OUBg": {
+        "en": "[Barcardi]\nIf you fail, you'll have to restart this test. Go to the room above\nme to be transported to the Test Hall.",
+        "pt": "[Bastit]\nSe você falhar, terá de reiniciar o teste. \nVá para a sala acima para te enviarem à sala de testes.",
+        "es": "[Barcardi]\nSi fallas, tendrás que volver a iniciar esta prueba. Ve a la sala de arriba\nque te teletransportará a la sala de pruebas."
+    },
+    "mJOUBg": {
+        "en": "[Barcardi]\nOnly one person is allowed to take the test at a time, so if anyone is taking the test, you'll have to wait until that person finishes.",
+        "pt": "[Bastit]\nSomente uma pessoa pode fazer o teste por vez, portanto, se já houver alguém lá dentro, você vai precisar esperar ela terminar.",
+        "es": "[Barcardi]\nSolo una persona a la vez puede hacer la prueba, por lo que, si alguien está haciendo la prueba, tendrás que esperar hasta que esa persona termine."
+    },
+    "mZOUBg": {
+        "en": "[Barcardi]\nHey, don't be too hard\non yourself. Cheer up!",
+        "pt": "[Bastit]\n...Não precisa fazer essa cara! \nNão é tão difícil assim...",
+        "es": "[Barcardi]\nOye, no te culpes\ntanto. Anímate."
+    },
+    "mpOUBg": {
+        "en": "[Barcardi]\nHmm, if you're exhausted, I'm willing to bring you back. Of course, if you leave, you'll have to take the job test over again. So what do you want to do?",
+        "pt": "[Bastit]\nOlha, se você quiser desistir, eu te mando lá pra fora. O que você me diz?",
+        "es": "[Barcardi]\nMmm, si ya te cansaste, con gusto, puedo traerte de vuelta. Claro que, si te vas, tendrás que volver a empezar la prueba de cambio de clase. Entonces, ¿qué quieres hacer?"
+    },
+    "m5OUBg": {
+        "en": "Continue!",
+        "pt": "Eu vou continuar tentando!",
+        "es": "¡Continuar!"
+    },
+    "nJOUBg": {
+        "en": "Quit the job change test for now.",
+        "pt": "...Eu quero desistir.",
+        "es": "Abandonar por ahora la prueba de cambio de clase."
+    },
+    "nZOUBg": {
+        "en": "[Barcardi]\nGood choice!\nRemember, you\nmust find and kill\n6 ^008800Job change target^000000 monsters!\nGood luck!",
+        "pt": "[Bastit]\nÉ isso aí!\nLembre-se, você\ndeve encontrar e matar\n6 ^008800Vítimas^000000!\nBoa sorte!",
+        "es": "[Barcardi]\n¡Buena elección!\n¡Recuerda que\ndebes encontrar y matar\na 6 monstruos ^008800Objetivo de cambio de clase^000000!\n¡Buena suerte!"
+    },
+    "npOUBg": {
+        "en": "[Barcardi]\nAlright...\nI guess you\ncould use a break...",
+        "pt": "[Bastit]\nHmm...\nAdeus... \nCuidado para não se perder...",
+        "es": "[Barcardi]\nMuy bien…\nSupongo que\nsería bueno que descansaras…"
+    },
+    "n5OUBg": {
+        "en": "Job change target",
+        "pt": "Vítima",
+        "es": "Objetivo de cambio de clase"
+    },
+    "oJOUBg": {
+        "en": "You seem to be doing quite well. Keep it up!",
+        "pt": "Força! Falta pouco...",
+        "es": "Parece que te va bastante bien. ¡Sigue así!"
+    },
+    "oZOUBg": {
+        "en": "Okay, you're doing good! Hang in there, you're almost there!",
+        "pt": "Força! Falta pouco...",
+        "es": "¡Bien, lo estás haciendo bien! Resiste, ¡ya casi lo logras!"
+    },
+    "opOUBg": {
+        "en": "Okay, let the test begin!",
+        "pt": "O teste começará em instantes.",
+        "es": "Bien, ¡que empiece la prueba!"
+    },
+    "o5OUBg": {
+        "en": "As you've been told before, find and only kill monsters named 'Job change target!'",
+        "pt": "Mate os monstros chamados 'Vítima'!",
+        "es": "Como ya te han dicho antes, encuentra y mata solo a los monstruos llamados Objetivo de cambio de clase."
+    },
+    "pJOUBg": {
+        "en": "The purpose of this test is to examine your ability to quickly distinguish enemies from other people!",
+        "pt": "Você deve conseguir saber quem é a sua vítima entre os seus aliados!",
+        "es": "¡El objetivo de esta prueba es examinar tu habilidad para distinguir rápidamente a los enemigos de las demás personas!"
+    },
+    "pZOUBg": {
+        "en": "You will have 3 minutes for the test! We will inform you of every minute passed.",
+        "pt": "Você terá 3 minutos para fazer o teste!",
+        "es": "¡Tendrás 3 minutos para hacer la prueba! Te informaremos cuando pase cada minuto."
+    },
+    "ppOUBg": {
+        "en": "Ok, now you've got exactly 3 minutes. Move! Move!",
+        "pt": "Ok, agora você tem exatamente 3 minutos. Vamos lá!",
+        "es": "Muy bien, ahora tienes exactamente 3 minutos. ¡Muévete! ¡Muévete!"
+    },
+    "p5OUBg": {
+        "en": "2 minutes left. As I've told you, get the 'Job change target' monsters!",
+        "pt": "Faltam 2 minutos... Mate aqueles chamados 'Vítima'!",
+        "es": "Quedan 2 minutos. Como ya te había dicho, ¡acaba con los monstruos Objetivo de cambio de clase!"
+    },
+    "qJOUBg": {
+        "en": "1 minute left.",
+        "pt": "Falta 1 minuto!",
+        "es": "Queda 1 minuto."
+    },
+    "qZOUBg": {
+        "en": "5 seconds left...",
+        "pt": "Você ainda tem 5 segundos...",
+        "es": "Quedan 5 segundos…"
+    },
+    "qpOUBg": {
+        "en": "4 seconds left...",
+        "pt": "Você ainda tem 4 segundos...",
+        "es": "Quedan 4 segundos…"
+    },
+    "q5OUBg": {
+        "en": "3 seconds left...",
+        "pt": "Você ainda tem 3 segundos...",
+        "es": "Quedan 3 segundos…"
+    },
+    "rJOUBg": {
+        "en": "2 seconds left...",
+        "pt": "Você ainda tem 2 segundos...",
+        "es": "Quedan 2 segundos…"
+    },
+    "rZOUBg": {
+        "en": "1 second left.",
+        "pt": "Você ainda tem 1 segundo...",
+        "es": "Queda 1 segundo…"
+    },
+    "rpOUBg": {
+        "en": "Time's up!",
+        "pt": "Acabou o tempo!",
+        "es": "¡Se acabó el tiempo!"
+    },
+    "r5OUBg": {
+        "en": "Well, good job... If you wanted to waste your time. You'll have to try again!",
+        "pt": "Você terá que tentar novamente!",
+        "es": "Hiciste un buen trabajo… Si tu intención era perder el tiempo. ¡Tendrás que volver a intentarlo!"
+    },
+    "sJOUBg": {
+        "en": "Job change creature",
+        "pt": "Vídima",
+        "es": "Criatura que cambia de clase"
+    },
+    "sZOUBg": {
+        "en": "Job change monster",
+        "pt": "Vítina",
+        "es": "Monstruo que cambia de clase"
+    },
+    "spOUBg": {
+        "en": "Job change dummy",
+        "pt": "Vidima",
+        "es": "Objetivo de cambios de clase"
+    },
+    "s5OUBg": {
+        "en": "Battle test target",
+        "pt": "Vitoria",
+        "es": "Objetivo de batalla"
+    },
+    "tJOUBg": {
+        "en": "Warrior test target",
+        "pt": "Vitor",
+        "es": "Obj de cambio de clase"
+    },
+    "tZOUBg": {
+        "en": "Job change targets",
+        "pt": "Arqueiro",
+        "es": "Arquero"
+    },
+    "tpOUBg": {
+        "en": "Jobs change target",
+        "pt": "Espadachim",
+        "es": "Espadachín"
+    },
+    "t5OUBg": {
+        "en": "Please don't hit me",
+        "pt": "Mago",
+        "es": "Hechicero"
+    },
+    "uJOUBg": {
+        "en": "Job change sample",
+        "pt": "Mercador",
+        "es": "Comerciante."
+    },
+    "uZOUBg": {
+        "en": "Not me",
+        "pt": "Sacerdote",
+        "es": "Soy yo"
+    },
+    "upOUBg": {
+        "en": "I got yours right here",
+        "pt": "Não sou eu",
+        "es": "Yo no soy"
+    },
+    "u5OUBg": {
+        "en": "Job changes target",
+        "pt": "Detetive",
+        "es": "Objetivo de cambios de clase"
+    },
+    "vJOUBg": {
+        "en": "Job quest target",
+        "pt": "Eu vejo pessoas mortas",
+        "es": "Objetivo de cambio de clases"
+    },
+    "vZOUBg": {
+        "en": "Job target change",
+        "pt": "Witima",
+        "es": "Objetivos de cambio de clase"
+    },
+    "vpOUBg": {
+        "en": "Hit me",
+        "pt": "Gelobaldo",
+        "es": "Pégame"
+    },
+    "v5OUBg": {
+        "en": "Battle Monster",
+        "pt": "Sr. Bolota",
+        "es": "Sr Gelatina"
+    },
+    "wJOUBg": {
+        "en": "Bouncer",
+        "pt": "Vitina",
+        "es": "Redondo"
+    },
+    "wZOUBg": {
+        "en": "Mungamorp",
+        "pt": "Amostra",
+        "es": "Mungamorp"
+    },
+    "wpOUBg": {
+        "en": "Dew of the Battle field",
+        "pt": "Vavevivovu",
+        "es": "Gota del campo"
+    },
+    "w5OUBg": {
+        "en": "Tear of test",
+        "pt": "Vimita",
+        "es": "Lágrimas de cambio de clase"
+    },
+    "xJOUBg": {
+        "en": "Evil Druid",
+        "pt": "Xuxa Verde",
+        "es": "Evil Druid"
+    },
+    "xZOUBg": {
+        "en": "Doppelganger",
+        "pt": "Erva Verde",
+        "es": "Doble cambio"
+    },
+    "xpOUBg": {
+        "en": "Job ready dummy",
+        "pt": "Viciado em Jellopy",
+        "es": "Viciado en Jellopy"
+    },
+    "x5OUBg": {
+        "en": "Job change ready",
+        "pt": "Bitima",
+        "es": "Job change ready"
+    },
+    "yJOUBg": {
+        "en": "Archer test target",
+        "pt": "Fitima",
+        "es": "Objetivo de arquero"
+    },
+    "yZOUBg": {
+        "en": "Swordman test target",
+        "pt": "Perícia",
+        "es": "Objetivo de espadachín"
+    },
+    "ypOUBg": {
+        "en": "Thief test target",
+        "pt": "Bagunça",
+        "es": "Caos"
+    },
+    "y5OUBg": {
+        "en": "Acolyte test target",
+        "pt": "Não me mate",
+        "es": "No me mates"
+    },
+    "zJOUBg": {
+        "en": "Merchant test target",
+        "pt": "Pivipitipama",
+        "es": "Objetivo de clase"
+    },
+    "zZOUBg": {
+        "en": "{0}! You made a mistake! I'm bringing you back!",
+        "pt": "{0}!! Você cometeu um erro, tente outra vez.",
+        "es": "¡{0}! ¡Te equivocaste! ¡Te traeré de vuelta!"
+    },
+    "zpOUBg": {
+        "en": "{0}, you're trapped. You will be sent back.",
+        "pt": "{0}, você caiu num buraco, tente outra vez.",
+        "es": "{0}, no tienes salida. Te enviarán de vuelta."
+    },
+    "z5OUBg": {
+        "en": "The door to the next room, at coordinates 87 137, has opened.",
+        "pt": "A porta da próxima sala, nas coordenadas 87 137, se abriu.",
+        "es": "La puerta de la sala de al lado, en las coordenadas 87137, se ha abierto."
+    },
+    "0JOUBg": {
+        "en": "Thomas",
+        "pt": "Dante",
+        "es": "Thomas"
+    },
+    "0ZOUBg": {
+        "en": "[Thomas]\nDamn...! You look like you're in a lot of pain. ^666666*Sigh*^000000 Give me a second, let me try to restore your HP and SP...",
+        "pt": "[Dante]\nVocê não parece estar se dando muito bem... ^666666*Suspiro*^000000 Eu vou completar o seu HP e SP, mas não desista!",
+        "es": "[Thomas]\n¡Maldita sea…! Parece que sientes mucho dolor. ^666666*Suspira*^000000 Dame un segundo, déjame intentar restaurar tus HP y tus SP…"
+    },
+    "0pOUBg": {
+        "en": "[Thomas]\nIt looks like you're having a tough time. You're either trying too hard, or not trying hard\nenough, kid.",
+        "pt": "[Dante]\nEsse teste pode ser muito difícil para algumas pessoas...\nO que você quer fazer?",
+        "es": "[Thomas]\nParece que la estás pasando muy mal. O te esfuerzas demasiado o no te esfuerzas\nlo suficiente."
+    },
+    "05OUBg": {
+        "en": "I'm gonna try it again!",
+        "pt": "Eu vou continuar tentando!",
+        "es": "¡Lo intentaré de nuevo!"
+    },
+    "1JOUBg": {
+        "en": "I... I quit!",
+        "pt": "Eu... Eu desisto!",
+        "es": "Yo… renuncio."
+    },
+    "1ZOUBg": {
+        "en": "[Thomas]\nHmm. Well, okay.\nGood luck out there.",
+        "pt": "[Dante]\nHm. Ok.\nBoa sorte lá fora.",
+        "es": "[Thomas]\nMmm. De acuerdo.\nBuena suerte allá afuera."
+    },
+    "1pOUBg": {
+        "en": "[Thomas]\nHuh...\nQuit the test, eh? Well, I guess you don't wanna waste any more of our time.",
+        "pt": "[Dante]\nHã...\nDesistir do teste? Bem, acho que você não quer mais desperdiçar nosso tempo.",
+        "es": "[Thomas]\nMmm…\nAbandonas la prueba, ¿eh? Bueno, supongo que no quieres hacernos perder más tiempo."
+    },
+    "15OUBg": {
+        "en": "[Thomas]\nOh hey, don't forget to save your respawn point in town.",
+        "pt": "[Dante]\nVocê vai precisar andar até a cidade daqui, não se esqueça de salvar lá. Boa sorte!",
+        "es": "[Thomas]\nAh, oye, no olvides guardar tu punto de reaparición en el pueblo."
+    },
+    "2JOUBg": {
+        "en": "{0} got scared and quit the test...Who's Next?!",
+        "pt": "{0} se assustou e abandonou o teste... Próximo!",
+        "es": "{0} se asustó y abandonó la prueba… ¡¿Quién sigue?!"
+    },
+    "2ZOUBg": {
+        "en": "[Thomas]\nHey, I'm Thomas. I'm in charge of testing your use of the hiding skill. Think you're up to it?",
+        "pt": "[Dante]\nOi, eu sou o Dante. Eu sou o responsável por este teste. Eu vou testar sua capacidade de esquiva.",
+        "es": "[Thomas]\nHola, soy Thomas. Estoy a cargo de probar tu uso de la habilidad Ocultamiento. ¿Crees estar a la altura?"
+    },
+    "2pOUBg": {
+        "en": "[Thomas]\nListen. In this test, you can't kill any monsters. Your goal is to reach 'Barcardi' at the opposite side of this room.",
+        "pt": "[Dante]\nVocê não deve matar nenhum monstro no decorrer deste teste. Você deve encontrar Bastit, que está no canto oposto do quarto.",
+        "es": "[Thomas]\nEscucha. En esta prueba, no puedes matar a ningún monstruo. Tu objetivo es llegar con Barcardi al lado opuesto de esta sala."
+    },
+    "25OUBg": {
+        "en": "[Thomas]\nSo basically, get to the other side of this room and meet 'Barcardi' without killing a single monster. Understand?",
+        "pt": "[Dante]\nEntre você e ela estarão muitos monstros. Você não deve morrer ou fugir do teste, caso isso aconteça, terá que recomeçar.",
+        "es": "[Thomas]\nAsí que, básicamente, llega al otro lado de esta sala y reúnete con Barcardi sin matar a un solo monstruo. ¿Entendido?"
+    },
+    "3JOUBg": {
+        "en": "[Thomas]\nIf you run away, get a nose bleed and pass out or something like that, I'll fail ya'. Enough talk. Let's see what you got.",
+        "pt": "[Dante]\nVamos começar o teste. Boa sorte.",
+        "es": "[Thomas]\nSi huyes, te sangra la nariz, te desmayas o algo así, te desaprobaré. No más palabras. Veamos de qué eres capaz."
+    },
+    "3ZOUBg": {
+        "en": "Mummy",
+        "pt": "Múmia",
+        "es": "Mummy"
+    },
+    "3pOUBg": {
+        "en": "Hydra",
+        "pt": "Hidra",
+        "es": "Hydra"
+    },
+    "35OUBg": {
+        "en": "Hey, what the hell was that?! I told you: No killing monsters!",
+        "pt": "... Você atacou um Monstro, isso é proibido.",
+        "es": "Oye, ¿qué demonios fue eso? Te lo dije: ¡Nada de matar monstruos!"
+    },
+    "4JOUBg": {
+        "en": "I'm bringing you back... *Sigh...*",
+        "pt": "Estou trazendo você de volta... *Suspiro*...",
+        "es": "Te traeré de vuelta… *Suspira…*"
+    },
+    "4ZOUBg": {
+        "en": "Barcardi",
+        "pt": "Bastit",
+        "es": "Barcardi"
+    },
+    "4pOUBg": {
+        "en": "[Barcardi]\nOh! Congratulations!\nYou may now proceed to our Guildmaster's room. Good luck!!",
+        "pt": "[Bastit]\nUau! Parabéns!\nAgora você pode ir para a câmara do nosso Líder. Boa sorte!",
+        "es": "[Barcardi]\n¡Ah! ¡Felicitaciones!\nAhora puedes dirigirte a la sala de nuestro maestro del gremio. ¡¡Buena suerte!!"
+    },
+    "45OUBg": {
+        "en": "{0} has entered 'Guildmaster's room.'",
+        "pt": "{0} entrou na Câmara do Líder da Guilda.",
+        "es": "{0} entró en la sala del maestro del gremio."
+    },
+    "5JOUBg": {
+        "en": "[Guildmaster]\nWelcome. \nThis place is called the 'Guildmaster's room,' the deepest place in the Assassin guild.",
+        "pt": "[Líder da Guilda]\nSaudações.\nEste lugar é chamado de ''Câmara do Líder da Guilda'', o lugar mais profundo da Guilda dos Mercenários.",
+        "es": "[Maestro del gremio]\nHola. \nEste lugar se llama Sala del maestro del gremio; el lugar más profundo del gremio de Asesinos."
+    },
+    "5ZOUBg": {
+        "en": "[Guildmaster]\nI'm going to give you a simple test. Please find your way through this maze and come to me. It is this maze that protects our guild from intruders.",
+        "pt": "[Líder da Guilda]\nPara a proteção do Líder, foi construído um Labirinto Invisível. Isto é um teste, você deve apenas chegar até mim.",
+        "es": "[Maestro del gremio]\nTe haré una prueba sencilla. Encuentra el camino para salir de este laberinto y ven a mí. Este laberinto protege a nuestro gremio de los intrusos."
+    },
+    "5pOUBg": {
+        "en": "[Guildmaster]\nI look forward\nto meeting you\nat the end of maze.",
+        "pt": "[Líder da Guilda]\nEstou ansioso para\npara te ver\nno final do labirinto.",
+        "es": "[Maestro del gremio]\nEspero con ansias\nverte\nal final del laberinto."
+    },
+    "55OUBg": {
+        "en": "...Next volunteer, please come in.",
+        "pt": "...Pode começar o teste.",
+        "es": "…Próximo voluntario, por favor, pasa."
+    },
+    "6JOUBg": {
+        "en": "Guildmaster",
+        "pt": "Líder da Guilda",
+        "es": "Maestro gremial"
+    },
+    "6ZOUBg": {
+        "en": "[Guildmaster]\nWelcome.\nI apologize for\nmaking you go\nthrough the maze.",
+        "pt": "[Líder da Guilda]\nBom trabalho. \nEu sei como \nesse labirinto pode \nser difícil.",
+        "es": "[Maestro del gremio]\nHola.\nPido disculpas por\nhacerte pasar\na través del laberinto."
+    },
+    "6pOUBg": {
+        "en": "[Guildmaster]\nI saw your resume just now. You're well known as a Thief with guts. Rarely do we receive potential Assassins of your stature.",
+        "pt": "[Líder da Guilda]\nEu li relatórios a seu respeito. Você tem fama e coragem. Isso me anima muito, temos poucas pessoas bem treinadas por aqui.",
+        "es": "[Maestro del gremio]\nAcabo de ver tu currículum. Se te conoce por tus agallas como Ladrón. Rara vez, recibimos posibles Asesinos de tu calibre."
+    },
+    "65OUBg": {
+        "en": "[Guildmaster]\nMay I ask you some questions if you don't mind? You don't have to be nervous. Just remember: if you lie, I will kill you.",
+        "pt": "[Líder da Guilda]\nPosso lhe fazer algumas perguntas, se não se importa? Não precisa ter medo. Apenas lembre-se: se você mentir, eu te matarei.",
+        "es": "[Maestro del gremio]\n¿Puedo hacerte algunas preguntas si no te importa? No tienes por qué tener nervios. Solo recuerda esto: si mientes, te mataré."
+    },
+    "7JOUBg": {
+        "en": "[Guildmaster]\nFirst off, what do you think is the priority of an Assassin?",
+        "pt": "[Líder da Guilda]\nPara começar: Qual o seu objetivo como um dos Mercenários?",
+        "es": "[Maestro del gremio]\nEn primer lugar, ¿cuál crees que sea la prioridad de un Asesino?"
+    },
+    "7ZOUBg": {
+        "en": "More power.",
+        "pt": "Mais poder",
+        "es": "Más poder."
+    },
+    "7pOUBg": {
+        "en": "An Assassin's pride.",
+        "pt": "Sentir orgulho",
+        "es": "El orgullo del Asesino."
+    },
+    "75OUBg": {
+        "en": "Endless practice.",
+        "pt": "Ter disciplina",
+        "es": "Practicar sin fin."
+    },
+    "8JOUBg": {
+        "en": "[Guildmaster]\nMore power...\nYes, you may think\nof Assassins as much\nstronger than Thieves.",
+        "pt": "[Líder da Guilda]\nMais poder...\nSim, você pode pensar\nque os Mercenários são muito\nmais fortes do que os Gatunos.",
+        "es": "[Maestro del gremio]\nMás poder…\nSí, quizá pienses\nasí de los Asesinos,\nse dice que son más fuertes que los Ladrones."
+    },
+    "8ZOUBg": {
+        "en": "[Guildmaster]\nHowever, for what reason do you wish for more power? To show off? Personal revenge? For what purpose will you use this power?",
+        "pt": "[Líder da Guilda]\nNo entanto, por qual motivo você deseja mais poder? Para se exibir? Vingança pessoal? Com que finalidade você usará esse poder?",
+        "es": "[Maestro del gremio]\nSin embargo, ¿por qué razón desearías más poder? ¿Para presumir? ¿Por venganza personal? ¿Con qué fin utilizarás este poder?"
+    },
+    "8pOUBg": {
+        "en": "[Guildmaster]\nWhy do you want\nto be stronger\nthan you are now?",
+        "pt": "[Líder da Guilda]\nPor que você quer\nser mais forte\ndo que é agora?",
+        "es": "[Maestro del gremio]\n¿Por qué quieres\nser más fuerte\nque ahora?"
+    },
+    "85OUBg": {
+        "en": "Revenge...!",
+        "pt": "Vingança...!",
+        "es": "¡Venganza…!"
+    },
+    "9JOUBg": {
+        "en": "Money~",
+        "pt": "Dinheiro!",
+        "es": "Dinero~."
+    },
+    "9ZOUBg": {
+        "en": "I want to travel.",
+        "pt": "Eu quero viajar.",
+        "es": "Quiero viajar."
+    },
+    "9pOUBg": {
+        "en": "[Guildmaster]\nRevenge...?\nYes, I understand. All of us hold grudges against someone else eventually.",
+        "pt": "[Líder da Guilda]\nVingança...?\nSim, eu entendo. Todos nós guardamos rancor de alguém, eventualmente.",
+        "es": "[Maestro del gremio]\n¿Venganza…?\nSí, entiendo. Con el tiempo, todos le guardamos rencor a alguien."
+    },
+    "95OUBg": {
+        "en": "[Guildmaster]\nHowever, keep in mind that we are not allowed to be emotionally attached. Carry out your duties without question. That is our way.",
+        "pt": "[Líder da Guilda]\nNo entanto, lembre-se de que não podemos nos apegar emocionalmente. Cumpra seus deveres sem questionar. Esse é o nosso jeito.",
+        "es": "[Maestro del gremio]\nSin embargo, hay que tener en cuenta que no se nos permite apegarnos emocionalmente. Cumple con tu deber sin cuestionarlo. Así lo hacemos."
+    },
+    "+JOUBg": {
+        "en": "[Guildmaster]\nBeing an Assassin means\nto abandon the ego.",
+        "pt": "[Líder da Guilda]\nSer um Mercenário significa\nabandonar o ego.",
+        "es": "[Maestro del gremio]\nSer un Asesino significa\nabandonar el ego."
+    },
+    "+ZOUBg": {
+        "en": "[Guildmaster]\nFinancial reasons...? I won't deny that we all need money to live. But being Assassin means living for a higher purpose.",
+        "pt": "[Líder da Guilda]\nRazões financeiras...? Não vou negar que todos nós precisamos de dinheiro para viver. Mas ser um Mercenário significa viver por um objetivo maior.",
+        "es": "[Maestro del gremio]\n¿Por razones económicas…? No negaré que todos necesitamos dinero para vivir. Pero ser Asesino significa vivir por un propósito mayor."
+    },
+    "+pOUBg": {
+        "en": "[Guildmaster]\nBeing an Assassin means\nto abandon such worldly\nattachments...",
+        "pt": "[Líder da Guilda]\nSer um Mercenário significa\nabandonar esses apegos\nmundanos...",
+        "es": "[Maestro del gremio]\nSer un Asesino significa\nabandonar tan mundanos\napegos terrenales…"
+    },
+    "+5OUBg": {
+        "en": "[Guildmaster]\nGood idea. Traveling around the world will allow you to broaden your experiences.",
+        "pt": "[Líder da Guilda]\nBoa ideia. Viajar pelo mundo permitirá que você amplie suas experiências.",
+        "es": "[Maestro del gremio]\nBuena idea. Viajar por el mundo te permitirá ampliar tus experiencias."
+    },
+    "/JOUBg": {
+        "en": "[Guildmaster]\nMost of us tend to avoid gathering into groups though, but I'm sure you already caught that, yes?",
+        "pt": "[Líder da Guilda]\nNo entanto, a maioria de nós tende a evitar se reunir em grupos, mas tenho certeza de que você já notou isso, certo?",
+        "es": "[Maestro del gremio]\nSin embargo, la mayoría de nosotros tendemos a evitar reunirnos en grupos, pero seguro que eso ya lo habías notado, ¿no?"
+    },
+    "/ZOUBg": {
+        "en": "[Guildmaster]\nIn a way, being an Assassin is to live life in loneliness...",
+        "pt": "[Líder da Guilda]\nDe certa forma, ser um Mercenário é viver a vida na solidão...",
+        "es": "[Maestro del gremio]\nEn cierto modo, ser Asesino es vivir la vida en soledad…"
+    },
+    "/pOUBg": {
+        "en": "[Guildmaster]\nAn Assassin's pride...\nDid other Assassins tell you that...?",
+        "pt": "[Líder da Guilda]\nOrgulho...\nOs outros Mercenários lhe disseram isso...?",
+        "es": "[Maestro del gremio]\nEl orgullo de un Asesino…\n¿Otros Asesinos te dijeron eso…?"
+    },
+    "/5OUBg": {
+        "en": "[Guildmaster]\nPride is certainly important, but pride is worth nothing if you do not have any ability.",
+        "pt": "[Líder da Guilda]\nO orgulho é certamente importante, mas não vale nada se você não tiver nenhuma habilidade.",
+        "es": "[Maestro del gremio]\nSin duda, el orgullo es importante, pero el orgullo no vale nada si no se tiene ninguna habilidad."
+    },
+    "AJSUBg": {
+        "en": "[Guildmaster]\nMost of the Assassins you've met before me are brethren that have shared many difficult times together.",
+        "pt": "[Líder da Guilda]\nA maioria dos Mercenários que você conheceu antes de mim são irmãos que compartilharam muitos momentos difíceis juntos.",
+        "es": "[Maestro del gremio]\nLa mayoría de los Asesinos que conociste antes que yo son hermanos que pasaron juntos por muchos momentos difíciles."
+    },
+    "AZSUBg": {
+        "en": "[Guildmaster]\nI can understand why their pride and dignity would be so important to them. Now, for what reason do you wish to become an Assassin?",
+        "pt": "[Líder da Guilda]\nPosso entender por que seu orgulho e dignidade são tão importantes para eles. Agora, por qual motivo você deseja se tornar um Mercenário?",
+        "es": "[Maestro del gremio]\nPuedo entender por qué su orgullo y dignidad son tan importantes para ellos. ¿Por qué razón quieres convertirte en Asesino?"
+    },
+    "ApSUBg": {
+        "en": "I like the solitude.",
+        "pt": "Gosto da solidão.",
+        "es": "Me gusta la soledad."
+    },
+    "A5SUBg": {
+        "en": "Making money being an Assassin.",
+        "pt": "Ganhar dinheiro.",
+        "es": "Para ganar dinero siendo Asesino."
+    },
+    "BJSUBg": {
+        "en": "They just look interesting.",
+        "pt": "Eles parecem interessantes.",
+        "es": "Solo me parecen interesantes."
+    },
+    "BZSUBg": {
+        "en": "[Guildmaster]\nYou got the point...\nWe are lonely. We will always be alone, even amongst each other...",
+        "pt": "[Líder da Guilda]\nVocê entendeu o ponto...\nSomos solitários. Sempre estaremos sozinhos, mesmo entre nós...",
+        "es": "[Maestro del gremio]\nEntendiste el punto…\nVivimos en soledad. Siempre estaremos solos, incluso entre nosotros mismos…"
+    },
+    "BpSUBg": {
+        "en": "[Guildmaster]\nIn a way, being\nan Assassin equals\nnothing, I would say.",
+        "pt": "[Líder da Guilda]\nDe certa forma, ser\num Mercenário é igual a\nnada, eu diria.",
+        "es": "[Maestro del gremio]\nEn cierto modo, ser\nAsesino equivale a\nnada, diría yo."
+    },
+    "B5SUBg": {
+        "en": "[Guildmaster]\nBut, as I told you before, we have comrades. I recommend having at least one comrade to back up you when you're on a mission.",
+        "pt": "[Líder da Guilda]\nMas, como eu lhe disse antes, temos companheiros. Recomendo que tenha pelo menos um companheiro para te apoiar quando estiver em uma missão.",
+        "es": "[Maestro del gremio]\nPero, como te dije antes, tenemos camaradas. Recomiendo tener al menos un camarada que te respalde cuando estés en una misión."
+    },
+    "CJSUBg": {
+        "en": "[Guildmaster]\nWell, I can't deny it, we do need money to make a living. But don't you think we should pursue something even more important than money?",
+        "pt": "[Líder da Guilda]\nBem, não posso negar, precisamos de dinheiro para ganhar a vida. Mas você não acha que deveríamos buscar algo ainda mais importante do que dinheiro?",
+        "es": "[Maestro del gremio]\nBueno, no puedo negarlo, necesitamos dinero para poder vivir. ¿Pero no crees que deberíamos perseguir algo aún más importante que el dinero?"
+    },
+    "CZSUBg": {
+        "en": "[Guildmaster]\nStyle and appearance is only superficial. It is sad that many people think this way...",
+        "pt": "[Líder da Guilda]\nO estilo e a aparência são apenas superficiais. É triste que muitas pessoas pensem dessa forma...",
+        "es": "[Maestro del gremio]\nEl estilo y la apariencia son solo superficiales. Es triste que mucha gente piense así…"
+    },
+    "CpSUBg": {
+        "en": "[Guildmaster]\nSuch disgraceful Assassins that have lost their true focus are dealt with in our own manner...",
+        "pt": "[Líder da Guilda]\nMuitas pessoas dão má fama aos Mercenários por terem se tornado um só para parecem ameaçadores.",
+        "es": "[Maestro del gremio]\nEsos Asesinos que han perdido su verdadera misión son una vergüenza y nos encargamos de ellos a nuestra manera…"
+    },
+    "C5SUBg": {
+        "en": "[Guildmaster]\nDon't forget...\nAssassins don't toy around. We are not into a style or trend, and we never will be.",
+        "pt": "[Líder da Guilda]\nNão se esqueça...\nOs Mercenários não brincam. Não somos adeptos de um estilo ou tendência, e nunca seremos.",
+        "es": "[Maestro del gremio]\nNo lo olvides…\nLos asesinos no se andan con juegos. No seguimos tendencias ni buscamos estilo y nunca lo haremos."
+    },
+    "DJSUBg": {
+        "en": "[Guildmaster]\nEndless Practice...\nI think you have what it takes. Is there a reason you want to be an Assassin?",
+        "pt": "[Líder da Guilda]\nDisciplina... \nMas o que disciplina tem a ver com Mercenários?",
+        "es": "[Maestro del gremio]\nPracticar sin fin…\nCreo que tienes lo que hace falta. ¿Hay alguna razón por la que quieras ser Asesino?"
+    },
+    "DZSUBg": {
+        "en": "[Guildmaster]\nUnlike the Thief class, the Assassin job doesn't allow self-indulgence. Tell me the\nreason you train endlessly.",
+        "pt": "[Líder da Guilda]\nAlgumas pessoas que se tornam Mercenários estão apenas atrás do poder.\nEntão me diga, o que te deixa insatisfeito como Gatuno?",
+        "es": "[Maestro del gremio]\nA diferencia de la clase Ladrón, la clase de Asesino no permite la autoindulgencia. Dime la\nrazón por la que entrenas sin parar."
+    },
+    "DpSUBg": {
+        "en": "To broaden my skills.",
+        "pt": "Minhas habilidades.",
+        "es": "Para ampliar mis habilidades."
+    },
+    "D5SUBg": {
+        "en": "It's a goal of mine.",
+        "pt": "Meu objetivo.",
+        "es": "Es uno de mis objetivos."
+    },
+    "EJSUBg": {
+        "en": "For spiritual improvement.",
+        "pt": "Meu espírito.",
+        "es": "Para elevar mi espíritu."
+    },
+    "EZSUBg": {
+        "en": "[Guildmaster]\nLearning skills comes naturally with the Assassin job. But don't think of skills as the best value of your training.",
+        "pt": "[Líder da Guilda]\nO aprendizado de habilidades vem naturalmente com a classe de Mercenário. Mas não pense nas habilidades como o melhor valor de seu treinamento.",
+        "es": "[Maestro del gremio]\nAprender habilidades es algo natural para la clase Asesino. Pero no pienses en las habilidades como la máxima finalidad de tu entrenamiento."
+    },
+    "EpSUBg": {
+        "en": "[Guildmaster]\nYou won't be satisfied in becoming an Assassin if you think this...",
+        "pt": "[Líder da Guilda]\nVocê não ficará satisfeito em se tornar um Mercenário se pensar assim...",
+        "es": "[Maestro del gremio]\nNunca tendrás satisfacción al convertirte en Asesino si piensas eso…"
+    },
+    "E5SUBg": {
+        "en": "[Guildmaster]\nIt's a goal of yours, eh? Well, I guess you've got to have goals...",
+        "pt": "[Líder da Guilda]\nÉ um objetivo seu, não é? Bem, acho que você tem que ter objetivos...",
+        "es": "[Maestro del gremio]\nEs uno de tus objetivos, ¿eh? Bueno, supongo que hay que tener objetivos…"
+    },
+    "FJSUBg": {
+        "en": "[Guildmaster]\nI once knew a person who had goals. Long ago, I met someone on assignment who wanted to keep from getting killed before becoming a level 54 knight.",
+        "pt": "[Líder da Guilda]\nEu já conheci uma pessoa que tinha objetivos. Há muito tempo, conheci alguém em uma missão que queria evitar ser morto antes de se tornar um Cavaleiro de nível 54.",
+        "es": "[Maestro del gremio]\nUna vez conocí a una persona que tenía objetivos. Hace tiempo, conocí a alguien en una misión que quería evitar que lo mataran antes de convertirse en Caballero nivel54."
+    },
+    "FZSUBg": {
+        "en": "[Guildmaster]\nIt's to bad I had to kill him before he was level 52... ^666666*Sigh*^000000 Oh well.",
+        "pt": "[Líder da Guilda]\nÉ uma pena que eu tenha tido que matá-lo antes que ele chegasse ao nível 52... ^666666*Suspiro*^000000 Oh, bem.",
+        "es": "[Maestro del gremio]\nFue una lástima que haya tenido que matarlo antes de llegar al nivel52… ^666666*Suspira*^000000 Pero bueno."
+    },
+    "FpSUBg": {
+        "en": "I'm a bit worried about you. I hope you realize that once you become an Assassin, there's no turning back...",
+        "pt": "Estou um pouco preocupado com você. Espero que você perceba que, uma vez que se torna um Mercenário, não há como voltar atrás...",
+        "es": "Me preocupas un poco. Espero que te des cuenta de que, una vez que te conviertas en Asesino, no habrá vuelta atrás…"
+    },
+    "F5SUBg": {
+        "en": "[Guildmaster]\nGood idea...\nThat is a good way to improve yourself. I've seen many people who know how to be strong physically but not in their mental state.",
+        "pt": "[Líder da Guilda]\nBoa ideia...\nEssa é uma boa maneira de melhorar a si mesmo. Já vi muitas pessoas que sabem como ser fortes fisicamente, mas não em seu estado mental.",
+        "es": "[Maestro del gremio]\nBuena idea…\nEs una buena manera de mejorar. He visto a muchas personas que saben ser fuertes físicamente, pero no en su estado mental."
+    },
+    "GJSUBg": {
+        "en": "[Guildmaster]\nI hope you're not a hypocrite. Spiritual discipline is the best way for you to survive.",
+        "pt": "[Líder da Guilda]\nEspero que você não seja hipócrita. A disciplina espiritual é a melhor maneira de você sobreviver.",
+        "es": "[Maestro del gremio]\nEspero que no seas una persona hipócrita. La disciplina espiritual es la mejor manera de sobrevivir."
+    },
+    "GZSUBg": {
+        "en": "[Guildmaster]\nSadly, there are some nit-wits who are eager to be Assassins even though they don't know anything...",
+        "pt": "[Líder da Guilda]\nInfelizmente, há alguns idiotas que estão ansiosos para serem Mercenários, embora não saibam nada...",
+        "es": "[Maestro del gremio]\nLamentablemente, hay algunos imbéciles que mueren por ser Asesinos aunque no sepan nada…"
+    },
+    "GpSUBg": {
+        "en": "[Guildmaster]\nThey cause problems and bring us disgrace. Their activities often result in horrible situations.",
+        "pt": "[Líder da Guilda]\nEles causam problemas e nos trazem desgraça. Suas atividades geralmente resultam em situações horríveis.",
+        "es": "[Maestro del gremio]\nCausan problemas y nos traen desgracia. Sus acciones suelen ocasionar situaciones horribles."
+    },
+    "G5SUBg": {
+        "en": "[Guildmaster]\nBe careful lest you become one of them once you become an Assassin. The responsibility rests solely on your shoulders...",
+        "pt": "[Líder da Guilda]\nTenha cuidado para não se tornar um deles quando se tornar um Mercenário. A responsabilidade recai exclusivamente sobre seus ombros...",
+        "es": "[Maestro del gremio]\nTen cuidado y no te conviertas en uno de ellos cuando te conviertas en Asesino. La responsabilidad recae únicamente sobre tus hombros…"
+    },
+    "HJSUBg": {
+        "en": "[Guildmaster]\nSo if you could become an Assassin right now, what is the first thing you would do?",
+        "pt": "[Líder da Guilda]\nEntão, se você pudesse se tornar um Mercenário agora mesmo, qual seria a primeira coisa que faria?",
+        "es": "[Maestro del gremio]\nSi pudieras convertirte en Asesino ahora mismo, ¿qué es lo primero que harías?"
+    },
+    "HZSUBg": {
+        "en": "I would go hunt right away.",
+        "pt": "Eu vou caçar.",
+        "es": "Iría a cazar de inmediato."
+    },
+    "HpSUBg": {
+        "en": "There are people waiting for me.",
+        "pt": "Existe uma pessoa esperando por mim.",
+        "es": "Hay gente esperándome."
+    },
+    "H5SUBg": {
+        "en": "Check how I can help as an Assassin.",
+        "pt": "Eu vou descobrir mais sobre Mercenários.",
+        "es": "Ver cómo puedo ayudar como Asesino."
+    },
+    "IJSUBg": {
+        "en": "[Guildmaster]\nHunt...\nIs that all...?",
+        "pt": "[Líder da Guilda]\nCaçar...\nSó isso...?",
+        "es": "[Maestro del gremio]\nCazar…\n¿Eso es todo…?"
+    },
+    "IZSUBg": {
+        "en": "I would level up fast.",
+        "pt": "Eu subiria de nível rapidamente.",
+        "es": "Subiría de nivel rápidamente."
+    },
+    "IpSUBg": {
+        "en": "I want to explore my Assassin skills.",
+        "pt": "Quero explorar minhas habilidades de Mercenário.",
+        "es": "Quiero explorar mis habilidades como Asesino."
+    },
+    "I5SUBg": {
+        "en": "I will go where I couldn't go as a Thief.",
+        "pt": "Irei aonde não poderia ir como um gatuno.",
+        "es": "Iré adonde no pude llegar como Ladrón."
+    },
+    "JJSUBg": {
+        "en": "[Guildmaster]\nDon't act recklessly...\nBeing an Assassin never makes you a different person. And don't rely on chance.",
+        "pt": "[Líder da Guilda]\nNão aja de forma imprudente...\nSer um Mercenário nunca faz de você uma pessoa diferente. E não confie no acaso.",
+        "es": "[Maestro del gremio]\nNo actúes imprudentemente…\nSer Asesino nunca te convierte en una persona diferente. Y no confíes en el azar."
+    },
+    "JZSUBg": {
+        "en": "[Guildmaster]\nIt is good for one to examine oneself. I can understand that you will be excited by the great change in your ability.",
+        "pt": "[Líder da Guilda]\nÉ bom que a pessoa examine a si mesma. Entendo que você ficará feliz com a grande mudança de suas habilidades.",
+        "es": "[Maestro del gremio]\nEs bueno que uno se analice a sí mismo. Entiendo que te emocione el gran cambio en tus habilidades."
+    },
+    "JpSUBg": {
+        "en": "[Guildmaster]\nIn the meantime, I hope you won't forget the Assassin mentality.",
+        "pt": "[Líder da Guilda]\nNesse meio tempo, espero que você não se esqueça da mentalidade de Mercenário.",
+        "es": "[Maestro del gremio]\nMientras tanto, espero que no olvides la mentalidad de Asesino."
+    },
+    "J5SUBg": {
+        "en": "[Guildmaster]\nVery well...\nExploring places you've never seen before. But know that being an Assassin never makes you a different person.",
+        "pt": "[Líder da Guilda]\nMuito bem...\nExplorar lugares que você nunca viu antes. Mas saiba que o fato de ser um Mercenário nunca tornará você uma pessoa diferente.",
+        "es": "[Maestro del gremio]\nMuy bien…\nExplorar lugares que nunca has visto. Pero debes saber que ser un Asesino nunca te convierte en una persona diferente."
+    },
+    "KJSUBg": {
+        "en": "[Guildmaster]\nDon't force yourself too much.\nTake your time and travel wisely.",
+        "pt": "[Líder da Guilda]\nNão se force demais.\nTome seu tempo e viaje com sabedoria.",
+        "es": "[Maestro del gremio]\nNo te fuerces demasiado.\nTómate tu tiempo y viaja sabiamente."
+    },
+    "KZSUBg": {
+        "en": "[Guildmaster]\nWho is waiting\nfor you, might I ask?",
+        "pt": "[Líder da Guilda]\nPosso saber\nquem está esperando por você?",
+        "es": "[Maestro del gremio]\n¿Quién te espera?\nSi puedo preguntar."
+    },
+    "KpSUBg": {
+        "en": "My friends.",
+        "pt": "Meus amigos.",
+        "es": "Mis amigos."
+    },
+    "K5SUBg": {
+        "en": "My Guildsmen.",
+        "pt": "Meus membros do Clã.",
+        "es": "Mis compañeros de gremio."
+    },
+    "LJSUBg": {
+        "en": "My lover.",
+        "pt": "Meu amor.",
+        "es": "Mi amante."
+    },
+    "LZSUBg": {
+        "en": "[Guildmaster]\nI see...\nAppreciate them for caring about you, even when you're alone.",
+        "pt": "[Líder da Guilda]\nEntendo...\nTenho certeza de que eles ficarão felizes com esta sua conquista.",
+        "es": "[Maestro del gremio]\nYa veo…\nAgradéceles que se preocupen por ti, incluso cuando no tienes compañía."
+    },
+    "LpSUBg": {
+        "en": "[Guildmaster]\nGreat...\nComrades for whom you would die for...",
+        "pt": "[Líder da Guilda]\nÓtimo...\nSão camaradas pelos quais você morreria...",
+        "es": "[Maestro del gremio]\nGenial…\nCamaradas por quienes morirías…"
+    },
+    "L5SUBg": {
+        "en": "[Guildmaster]\nAs an Assassin, find a job that you can do for them without them knowing..",
+        "pt": "[Líder da Guilda]\nComo um Mercenário, encontre um objetivo que você possa fazer para eles...",
+        "es": "[Maestro del gremio]\nComo Asesino, encuentra un trabajo que puedas hacer por ellos sin que lo sepan…"
+    },
+    "MJSUBg": {
+        "en": "[Guildmaster]\nHaha, the needs of the body are sometimes hard to ignore. It's best to accept that part of human nature.",
+        "pt": "[Líder da Guilda]\nHaha, as necessidades do corpo às vezes são difíceis de ignorar. É melhor aceitar essa parte da natureza humana.",
+        "es": "[Maestro del gremio]\nJa, ja, las necesidades del cuerpo, a veces, son difíciles de ignorar. Es mejor aceptar esa parte de la naturaleza humana."
+    },
+    "MZSUBg": {
+        "en": "[Guildmaster]",
+        "pt": "[Líder da Guilda]",
+        "es": "[Maestro del gremio]"
+    },
+    "MpSUBg": {
+        "en": "But you must never reveal to her the Assassin side of your life. No matter what it takes.",
+        "pt": "Você que se tornar um Mercenário para proteger melhor a pessoa amada... Que o seu amor seja eterno!",
+        "es": "Pero nunca podrás revelarle el lado Asesino de tu vida. Cueste lo que cueste."
+    },
+    "M5SUBg": {
+        "en": "But you must never reveal to him the Assassin side of your life, no matter what it takes.",
+        "pt": "Você que se tornar uma Mercenária para proteger melhor a pessoa amada... Que o seu amor seja eterno!",
+        "es": "Pero nunca debes revelarle el lado Asesino de tu vida, cueste lo que cueste."
+    },
+    "NJSUBg": {
+        "en": "[Guildmaster]\nLove your beloved forever, even if you can't openly express it. Sometimes, life doesn't allow you to find true love more than once.",
+        "pt": "[Líder da Guilda]\nDesejo um amor duradouro, mesmo que não possa expressar isso abertamente. Às vezes, a vida não permite que você encontre o amor verdadeiro mais de uma vez.",
+        "es": "[Maestro del gremio]\nAma a tu pareja para siempre, aunque no puedas expresarlo abiertamente. A veces, la vida no te permite encontrar el amor verdadero más de una vez."
+    },
+    "NZSUBg": {
+        "en": "[Guildmaster]\nThat's most admirable. Is there anything that you would like to ask me about?",
+        "pt": "[Líder da Guilda]\nIsso é muito admirável. Há algo que gostaria de me perguntar?",
+        "es": "[Maestro del gremio]\nEso es muy admirable. ¿Hay algo que quieras preguntarme?"
+    },
+    "NpSUBg": {
+        "en": "Places where Assassins can level up...",
+        "pt": "Os lugares mais fáceis de ganhar nível.",
+        "es": "Lugares donde los Asesinos pueden subir de nivel…"
+    },
+    "N5SUBg": {
+        "en": "Main goals as an Assassin.",
+        "pt": "Principais objetivos dos Mercenários.",
+        "es": "Principales objetivos como Asesino."
+    },
+    "OJSUBg": {
+        "en": "Financial consulting.",
+        "pt": "Como conseguir muito dinheiro.",
+        "es": "Consejos financieros."
+    },
+    "OZSUBg": {
+        "en": "[Guildmaster]\nIt all depends on your mind. Any place could be the best to level up according to your mind state.",
+        "pt": "[Líder da Guilda]\nTudo depende de sua mente. Qualquer lugar pode ser o melhor para subir de nível de acordo com seu estado mental.",
+        "es": "[Maestro del gremio]\nTodo depende de tu mente. Cualquier lugar puede ser el mejor para subir de nivel según tu estado mental."
+    },
+    "OpSUBg": {
+        "en": "[Guildmaster]\nYou must know how to\nsurvive in any situation.",
+        "pt": "[Líder da Guilda]\nVocê deve saber como\nsobreviver em qualquer situação.",
+        "es": "[Maestro del gremio]\nDebes saber cómo\nsobrevivir en cualquier situación."
+    },
+    "O5SUBg": {
+        "en": "[Guildmaster]\nThere are many Assassins out there. Look to them as your trainers, and ask for their opinions.",
+        "pt": "[Líder da Guilda]\nHá muitos Mercenários por aí. Procure-os como seus instrutores e peça suas opiniões.",
+        "es": "[Maestro del gremio]\nHay muchos Asesinos ahí fuera. Considéralos tus entrenadores y pídeles su opinión."
+    },
+    "PJSUBg": {
+        "en": "[Guildmaster]\nI hope you will become an excellent Assassin. And when you reach a certain level, you must guide newbies as your trainers have.",
+        "pt": "[Líder da Guilda]\nEspero que você se torne um excelente Mercenário. E quando chegar a um determinado nível, você deverá orientar os Aprendizes como seus treinadores fizeram.",
+        "es": "[Maestro del gremio]\nEspero que te conviertas en un excelente Asesino. Y, cuando alcances cierto nivel, deberás guiar a los principiantes tal como lo han hecho tus entrenadores."
+    },
+    "PZSUBg": {
+        "en": "[Guildmaster]\nOh my lord...\nAre you planning to become an Assassin in order to make money?",
+        "pt": "[Líder da Guilda]\nCéus...\nEstá planejando se tornar um Mercenário para ganhar dinheiro?",
+        "es": "[Maestro del gremio]\nSanto cielo…\n¿Planeas convertirte en asesino para ganar dinero?"
+    },
+    "PpSUBg": {
+        "en": "[Guildmaster]\nPeople of that nature are unwelcome. If such is your goal, you may wish to reconsider your job...",
+        "pt": "[Líder da Guilda]\nPessoas dessa natureza não são bem-vindas. Se esse é o seu objetivo, talvez queira reconsiderar seu classe...",
+        "es": "[Maestro del gremio]\nLas personas de esa naturaleza no son bienvenidas aquí. Si ese es tu objetivo, quizá sea mejor que reconsideres tu clase…"
+    },
+    "P5SUBg": {
+        "en": "[Guildmaster]\nIt was nice to meet you. You reminded me of the good ol' days.",
+        "pt": "[Líder da Guilda]\nFoi um prazer te conhecer. Você me fez lembrar dos bons e velhos tempos.",
+        "es": "[Maestro del gremio]\nFue un placer conocerte. Me recordaste los viejos tiempos."
+    },
+    "QJSUBg": {
+        "en": "[Guildmaster]\nPlease give me\none second...",
+        "pt": "[Líder da Guilda]\nPor favor, me dê\num segundo...",
+        "es": "[Maestro del gremio]\nPor favor, dame\nun segundo…"
+    },
+    "QZSUBg": {
+        "en": "Those involved with the testing of {0}, please gather before me.",
+        "pt": "Todos que estiveram envolvidos com o teste de {0}, por favor, venham até aqui!",
+        "es": "Aquellos involucrados en las pruebas de {0}, por favor, vengan ante mí."
+    },
+    "QpSUBg": {
+        "en": "[Guildmaster]\nThose involved with the testing of {0}, please gather before me.",
+        "pt": "[Líder da Guilda]\nTodos que estiveram envolvidos com o teste de {0}, por favor, venham até aqui!",
+        "es": "[Maestro del gremio]\nAquellos involucrados en las pruebas de {0}, por favor, vengan ante mí."
+    },
+    "Q5SUBg": {
+        "en": "[Guildmaster]\nThey will\nbe here soon.",
+        "pt": "[Líder da Guilda]\nEles chegarão \nlogo, logo.",
+        "es": "[Maestro del gremio]\nEstará\naquí pronto."
+    },
+    "RJSUBg": {
+        "en": "[The Anonymous One]\nI am here.",
+        "pt": "[Ninguém]\nEstou aqui.",
+        "es": "[El Anónimo]\nEstoy aquí."
+    },
+    "RZSUBg": {
+        "en": "[Guildmaster]\nI would like to listen to your opinion of {0} for the job change test.",
+        "pt": "[Líder da Guilda]\nEu quero saber o que vocês acharam de {0} nos testes.",
+        "es": "[Maestro del gremio]\nMe gustaría conocer tu opinión sobre {0} para la prueba de cambio de clase."
+    },
+    "RpSUBg": {
+        "en": "[The Anonymous One]\nAh yeah...\nI think\n{0}\nis decent.",
+        "pt": "[Ninguém]\nAh, sim...\nAcho que\n{0}\né decente.",
+        "es": "[El Anónimo]\nAh, sí…\nCreo que\n{0}\nes decente."
+    },
+    "R5SUBg": {
+        "en": "[Guildmaster]\nWell...\nThe Anonymous One\nsupports you. How\nabout you, Huey?",
+        "pt": "[Líder da Guilda]\nBem...\nNinguém apoia você. \nE você, Kakashi?\nO que acha?",
+        "es": "[Maestro del gremio]\nBueno…\nEl Anónimo\nte apoya. ¿Y\ntú, Huey?"
+    },
+    "SJSUBg": {
+        "en": "[Huey]\nA rarity.\nYou can tell\nby the job level.",
+        "pt": "[Kakashi]\nUma raridade.\nVocê pode dizer\npelo nível de classe.",
+        "es": "[Huey]\nUna rareza.\nSe puede saber\npor el nivel de clase."
+    },
+    "SZSUBg": {
+        "en": "[Huey]\nI agree with\nthe Anonymous One.",
+        "pt": "[Kakashi]\nConcordo com\nNinguém.",
+        "es": "[Huey]\nEstoy de acuerdo con\nEl Anónimo."
+    },
+    "SpSUBg": {
+        "en": "[Huey]\nAlthough {0} looks too mellow and gentle, kind of like a pussycat, {0} has the stuff.",
+        "pt": "[Kakashi]\nEmbora {0} pareça muito gentil, {0} tem o que é preciso para ser um de nós.",
+        "es": "[Huey]\nAunque {0} parece demasiado suave y gentil, casi como un gatito, {0} tiene lo suyo."
+    },
+    "S5SUBg": {
+        "en": "[Huey]\nIf it's alright with you, I'd like to get back to my job.",
+        "pt": "[Kakashi]\nEu vou voltar logo para a entrada, com licença.",
+        "es": "[Huey]\nSi te parece bien, me gustaría volver a lo que estaba."
+    },
+    "TJSUBg": {
+        "en": "[Guildmaster]\nYes...\nThat is all, Huey.",
+        "pt": "[Líder da Guilda]\nPode ir...\nObrigado, Kakashi.",
+        "es": "[Maestro del gremio]\nSí…\nEso es todo, Huey."
+    },
+    "TZSUBg": {
+        "en": "[Guildmaster]\nSo...\n'Beholder,' what\nis your opinion?",
+        "pt": "[Líder da Guilda]\nEntão...\nQual a opinião\ndo Supervisor?",
+        "es": "[Maestro del gremio]\nEntonces…\nObservador, ¿cuál\nes tu opinión?"
+    },
+    "TpSUBg": {
+        "en": "[Beholder]\nWell, I don't like the course score. But, somehow the whole test was passed. I'm okay with this person.",
+        "pt": "[Supervisor]\nBem, não gostei da pontuação do curso. Mas, de alguma forma, o teste inteiro foi aprovado. Não tenho problemas com essa pessoa.",
+        "es": "[Observador]\nBueno, no me gusta su puntuación en el curso. Pero, de algún modo, superó toda la prueba. No tengo problema con esta persona."
+    },
+    "T5SUBg": {
+        "en": "[Guildmaster]\nHmm...\nIt seems we are all in agreement. Good. I don't have any problem with {0} as well...",
+        "pt": "[Líder da Guilda]\nHmm...\nParece que estamos todos de acordo. Ótimo. Não tenho nenhum problema com {0} também...",
+        "es": "[Maestro del gremio]\nMmm…\nParece que todos estamos de acuerdo. Bien. Yo tampoco tengo ningún problema con {0}…"
+    },
+    "UJSUBg": {
+        "en": "[Guildmaster]\nEven though you're driven by personal revenge, I hope it will go away as you train...",
+        "pt": "[Líder da Guilda]\nMesmo que seus objetivos sejam a vingança pessoal, espero que isso desapareça à medida que você treinar...",
+        "es": "[Maestro del gremio]\nAunque te guía la venganza personal, espero que desaparezca a medida que entrenes…"
+    },
+    "UZSUBg": {
+        "en": "[Guildmaster]\nEven though your main concern for now is being a rich, I'm sure you'll pursue something even greater...",
+        "pt": "[Líder da Guilda]\nMesmo que seus objetivos sejam dinheiro e fama, tenho certeza de que você buscará algo ainda maior...",
+        "es": "[Maestro del gremio]\nAunque tu principal preocupación por ahora sea enriquecerte, no tengo duda de que perseguirás algo aún más grande…"
+    },
+    "UpSUBg": {
+        "en": "[Guildmaster]\nEager to travel all around the world, I hope your real identity is found in your journeys...",
+        "pt": "[Líder da Guilda]\nMesmo que seus objetivos sejam viajar e explorar o mundo, espero que sua verdadeira identidade seja encontrada em suas jornadas...",
+        "es": "[Maestro del gremio]\nCon tus ansias de viajar por todo el mundo, espero que logres encontrar tu verdadera identidad en tus viajes…"
+    },
+    "U5SUBg": {
+        "en": "[Guildmaster]\nYou seem to know a lot about Assassins. I don't think frustration from being alone will be difficult for you...",
+        "pt": "[Líder da Guilda]\nVocê parece saber muito sobre Mercenários. Não acho que a frustração de estar só será difícil para você...",
+        "es": "[Maestro del gremio]\nParece que sabes mucho sobre Asesinos. No creo que la frustración de la soledad sea difícil para ti…"
+    },
+    "VJSUBg": {
+        "en": "[Guildmaster]\nYou have an idiocy about money, but I believe that you should be able to overcome it.",
+        "pt": "[Líder da Guilda]\nVocê tem uma idiotice em relação ao dinheiro, mas acredito que deve ser capaz de superá-la.",
+        "es": "[Maestro del gremio]\nEs una idiotez lo que piensas del dinero, pero creo que deberías poder superarlo."
+    },
+    "VZSUBg": {
+        "en": "[Guildmaster]\nAlthough I do not trust you for now, I will give you a chance...",
+        "pt": "[Líder da Guilda]\nEmbora eu não confie em você por enquanto, vou lhe dar uma chance...",
+        "es": "[Maestro del gremio]\nAunque, por ahora, no confío en ti, te daré una oportunidad…"
+    },
+    "VpSUBg": {
+        "en": "[Guildmaster]\nEven though you're enamored with Assassins superficially, I believe you will realize the real value of the Assassin job sooner or later.",
+        "pt": "[Líder da Guilda]\nMesmo que você tenha um interesse superficial sobre os Mercenários, acredito que, mais cedo ou mais tarde, você perceberá o valor real da classe dos Mercenários.",
+        "es": "[Maestro del gremio]\nAunque los Asesinos te enamoren superficialmente, creo que, tarde o temprano, te darás cuenta del valor real de la clase Asesino."
+    },
+    "V5SUBg": {
+        "en": "[Guildmaster]\nOne of the rare people who seeks better skills, I hope you will realize the importance of spiritual discipline sooner or later.",
+        "pt": "[Líder da Guilda]\nUma das raras pessoas que buscam melhores habilidades, espero que você perceba a importância da disciplina espiritual mais cedo ou mais tarde.",
+        "es": "[Maestro del gremio]\nComo una de las pocas personas que buscan mejorar sus habilidades, espero que, tarde o temprano, te des cuenta de la importancia de la disciplina espiritual."
+    },
+    "WJSUBg": {
+        "en": "[Guildmaster]\nSooner or later, you will find a new goal to which you can devote yourself...",
+        "pt": "[Líder da Guilda]\nMais cedo ou mais tarde, você encontrará um novo objetivo ao qual poderá se dedicar...",
+        "es": "[Maestro del gremio]\nTarde o temprano, encontrarás un nuevo objetivo para perseguir…"
+    },
+    "WZSUBg": {
+        "en": "[Guildmaster]\nI know some people care only about their physical training, but\nI believe you stand out amongst them...",
+        "pt": "[Líder da Guilda]\nSei que algumas pessoas se preocupam apenas com seu treinamento físico, mas\nacredito que você se destaca entre eles...",
+        "es": "[Maestro del gremio]\nSé que algunas personas solo se preocupan por su entrenamiento físico, pero\ncreo que destacas de entre esas personas…"
+    },
+    "WpSUBg": {
+        "en": "[Guildmaster]\nI will now give you a weapon as a present.\nYou can choose a Jur, Katar, Main Gauche, or a Gladius. As a master, I love them all.",
+        "pt": "[Líder da Guilda]\nAgora vou lhe dar uma arma de presente.\nVocê pode escolher uma Jur, Katar, Main Gauche ou Gladius. Como Mestre, gosto de todas elas.",
+        "es": "[Maestro del gremio]\nAhora te daré un arma como regalo.\nPuedes elegir un Jur, un Katar, una Daga de paradas o un Gladius. Como maestro, adoro todas las armas."
+    },
+    "W5SUBg": {
+        "en": "[Guildmaster]\nDecide what you want to get before continuing.\nIf you continue you must choose your weapon quickly.\nDo you wish to continue?",
+        "pt": "[Líder da Guilda]\nEscolha sua arma.\nVocê deve fazer isso rápido.\nDeseja continuar?",
+        "es": "[Maestro del gremio]\nDecide qué quieres conseguir antes de continuar.\nSi continúas, debes elegir tu arma rápidamente.\n¿Desea continuar?"
+    },
+    "XJSUBg": {
+        "en": "Yes.",
+        "pt": "Sim.",
+        "es": "Sí."
+    },
+    "XZSUBg": {
+        "en": "No, give me a second.",
+        "pt": "Não, me dê um segundo.",
+        "es": "No, dame un segundo."
+    },
+    "XpSUBg": {
+        "en": "[Guildmaster]\nWell, I've said too much. Please choose a weapon as a present.",
+        "pt": "[Líder da Guilda]\nBem, eu já falei demais. Por favor, escolha uma arma como presente.",
+        "es": "[Maestro del gremio]\nBueno, ya dije demasiado. Por favor, elige un arma como regalo."
+    },
+    "X5SUBg": {
+        "en": "Main Gauche",
+        "pt": "Main Gauche",
+        "es": "Daga de paradas."
+    },
+    "YJSUBg": {
+        "en": "[Guildmaster]\nA Jur...\nGood choice. There you are. I hope it will serve you well.",
+        "pt": "[Líder da Guilda]\nUm Jur...\nUma arma muito útil, boa escolha!",
+        "es": "[Maestro del gremio]\nUn Jur…\nBuena elección. Toma. Espero que te sea de utilidad."
+    },
+    "YZSUBg": {
+        "en": "[Guildmaster]\nA Katar...\nHere you are.\nAlthough it's used,\nI know it will\nserve you well.",
+        "pt": "[Líder da Guilda]\nUm Katar...\nAqui está.\nEmbora tenha sido usada,\nsei que ela\nserá muito útil.",
+        "es": "[Maestro del gremio]\nUn Katar…\nAquí tienes.\nAunque sea usado,\nsé que\nte será de utilidad."
+    },
+    "YpSUBg": {
+        "en": "[Guildmaster]\nI see. You want to use both hands. Here, take your Main Gauche.",
+        "pt": "[Líder da Guilda]\nEntendi. Você quer usar as duas mãos. Aqui, pegue sua Main Gauche.",
+        "es": "[Maestro del gremio]\nYa veo. Quieres usar ambas manos. Ten tu Daga de paradas."
+    },
+    "Y5SUBg": {
+        "en": "[Guildmaster]\nA Gladius...\nIt used to rule over the Assassin weapon market. Please take care of my gladius.",
+        "pt": "[Líder da Guilda]\nGladius...\nEssa arma costumava dominar o mercado de armas dos Mercernários. Por favor, cuide da minha arma favorita.",
+        "es": "[Maestro del gremio]\nUn Gladius…\nSolía dominar el mercado de armas de Asesinos. Por favor, cuida de mi Gladius."
+    },
+    "ZJSUBg": {
+        "en": "[Guildmaster]\nTalk to me once you are ready.",
+        "pt": "[Líder da Guilda]\nFale comigo quando estiver com tudo pronto.",
+        "es": "[Maestro del gremio]\nHáblame cuando quieras continuar."
+    },
+    "ZZSUBg": {
+        "en": "[Guildmaster]\nWell, I talked too much.\nPlease take this first.",
+        "pt": "[Líder da Guilda]\nBem, eu falei demais.\nPor favor, aceite este presente.",
+        "es": "[Maestro del gremio]\nVaya, ya hablé demasiado.\nPor favor, toma esto primero."
+    },
+    "ZpSUBg": {
+        "en": "[Guildmaster]\nWell, I've given you a token. Please return to the Assassin expert, the Ferocious-Looking Huey, at the entrance.",
+        "pt": "[Líder da Guilda]\nEu lhe darei o seu certificado. Você deve levá-lo a Kakashi, o Mercenário da entrada.",
+        "es": "[Maestro del gremio]\nBueno, te acabo de dar una ficha. Por favor, vuelve a la entrada con el experto Asesino, Huey, el tipo de aspecto feroz."
+    },
+    "Z5SUBg": {
+        "en": "[Guildmaster]\nUpon receiving this token, Huey will promote you to an Assassin.",
+        "pt": "[Líder da Guilda]\nAo receber esse colar, Kakashi mudará su classe para um de nós.",
+        "es": "[Maestro del gremio]\nAl recibir esta ficha, Huey te ascenderá a Asesino."
+    },
+    "aJSUBg": {
+        "en": "[Guildmaster]\nYou, {0}, have chosen to live as an Assassin. May you learn our ways and be an honorable example to others.",
+        "pt": "[Líder da Guilda]\nVocê, {0}, escolheu viver como um dos Mercenários. Que você aprenda nossos costumes e seja um exemplo de honra para os outros.",
+        "es": "[Maestro del gremio]\nTú, {0}, has elegido vivir como Asesino. Que aprendas nuestros caminos y seas un ejemplo honorable para los demás."
+    },
+    "aZSUBg": {
+        "en": "[Guildmaster]\nOkay, all of you may go back to your positions. I will send you to the entrance as well. Let's move...",
+        "pt": "[Líder da Guilda]\nMuito bem, todos vocês podem voltar para suas posições. Eu mandarei você para a entrada também. Vamos lá...",
+        "es": "[Maestro del gremio]\nBien, todos ustedes pueden volver a sus posiciones. También te enviaré a la entrada. Movámonos…"
+    },
+    "apSUBg": {
+        "en": "[Guildmaster]\nUmm...?\nHow come you're in here...?",
+        "pt": "[Líder da Guilda]\nHmm...?\nO que você está fazendo aqui?",
+        "es": "[Maestro del gremio]\n¿Mmm…?\n¿Por qué estás aquí…?"
+    },
+    "a5SUBg": {
+        "en": "[Guildmaster]\nYou already finished your test. Why don't you go try to get the ^006699Necklace of Oblivion^000000 so you can change your job?",
+        "pt": "[Líder da Guilda]\nVocê já terminou seu teste. Consiga o ^006699Colar do Oblívio^000000 para mudar de classe.",
+        "es": "[Maestro del gremio]\nYa terminaste la prueba. ¿Por qué no vas e intentas conseguir el ^006699Collar de olvido^000000 para poder cambiar de clase?"
+    },
+    "bJSUBg": {
+        "en": "[Guildmaster]\nWhat the hell? You pressed 'Cancel' during the process. Do you want to change your job or what?",
+        "pt": "[Líder da Guilda]\nComo você ousa!! Apertar o botão de 'Cancelar' enquanto eu ainda estou falando!!",
+        "es": "[Maestro del gremio]\n¿Qué demonios? Pulsaste en Cancelar durante el proceso. ¿Quieres cambiar de clase o no?"
+    },
+    "bZSUBg": {
+        "en": "[Guildmaster]\n^666666*Sigh...*^000000\nOk, let's start again. If you don't listen this time, you won't leave this room alive. You got me?",
+        "pt": "[Líder da Guilda]\n^666666*Suspiro...*^000000\nBem, vamos recomeçar então... Se você me irritar de novo, não sairá daqui com vida!!",
+        "es": "[Maestro del gremio]\n^666666*Suspira…*^000000\nBien, empecemos de nuevo. Si no escuchas esta vez, no saldrás con vida de esta sala. ¿Me entiendes?"
+    },
+    "bpSUBg": {
+        "en": "[Guildmaster]\nUmm? How come your in here?",
+        "pt": "[Líder da Guilda]\nHmm? O que você está fazendo aqui?",
+        "es": "[Maestro del gremio]\n¿Mmm? ¿Por qué estás aquí?"
+    },
+    "b5SUBg": {
+        "en": "[Guildmaster]\nYou already finished your test, go give your ^006699Necklace of Oblivion^000000 to the Ferocious-looking guy so you can change your job!",
+        "pt": "[Líder da Guilda]\nVocê já terminou seu teste, vá entregar o ^006699Colar do Oblívio^000000 ao Kakashi para que você possa mudar de classe!",
+        "es": "[Maestro del gremio]\nYa terminaste tu prueba, ¡ve a darle tu ^006699Collar de olvido^000000 al tipo de aspecto feroz para que puedas cambiar de clase!"
+    },
+    "cJSUBg": {
+        "en": "Master Assist",
+        "pt": "Assistente do Líder",
+        "es": "Master Assist"
+    },
+    "cZSUBg": {
+        "en": "[Assistent Gayle Maroubitz]\nSorry, but I'm not in charge of job changes. Go to the Guildmaster, as he has told you.",
+        "pt": "[Assistente Gayle Maroubitz]\nHmm.. Eu não tenho nada a ver com a mudança para a classe Mercenário. Você deve falar com o Líder da Guilda.",
+        "es": "[Asistente Gayle Maroubitz]\nLo siento, pero yo no me encargo de los cambios de clase. Ve a ver al maestro del gremio, como te ha dicho."
+    },
+    "cpSUBg": {
+        "en": "[Guildmaster]\nHuh.\nNow, that place is blocked. You might want to check the other side.",
+        "pt": "[Líder da Guilda]\nHmm...\nBeco sem saída.. Ache outro caminho.",
+        "es": "[Maestro del gremio]\nMm.\nSí, ese lugar está bloqueado. Quizá quieras probar por el otro lado."
+    },
+    "c5SUBg": {
+        "en": "[Guildmaster]\nYou're getting warmer. You're almost there. Just, turn around a little bit.",
+        "pt": "[Líder da Guilda]\nVocê está quase lá, tente outro caminho.",
+        "es": "[Maestro del gremio]\nTe estás acercando. Ya casi. Solo date la vuelta un poco."
+    },
+    "dJSUBg": {
+        "en": "[Guildmaster]\nHmm.\nNow, that place\nis blocked.",
+        "pt": "[Líder da Guilda]\nHmm.\nAgora, esse lugar\nestá bloqueado.",
+        "es": "[Maestro del gremio]\nMmm.\nVaya, ese lugar\nestá bloqueado."
+    },
+    "dZSUBg": {
+        "en": "[Guildmaster]\nUmm...\nYou're heading for my assistant. Do you still need to talk to him?",
+        "pt": "[Líder da Guilda]\nHmm... \nEsse é o caminho para chegar no meu assistente... Você tem algum negócio a tratar com ele?",
+        "es": "[Maestro del gremio]\nMmm…\nVas con mi asistente. ¿Todavía necesitas hablar con él?"
+    },
+    "dpSUBg": {
+        "en": "[Guildmaster]\nWell done...\nI can feel your steps near me.",
+        "pt": "[Líder da Guilda]\nBom, você está quase chegando..\nJá posso sentir a sua presença.",
+        "es": "[Maestro del gremio]\nBien hecho…\nPuedo sentir tus pasos cerca de mí."
+    },
+    "d5SUBg": {
+        "en": "[Guildmaster]\nHm? Not bad. You're almost here.",
+        "pt": "[Líder da Guilda]\nHm? Nada mal. Você está quase chegando.",
+        "es": "[Maestro del gremio]\n¿Eh? Nada mal. Ya casi llegas."
+    },
+    "eJSUBg": {
+        "en": "[Guildmaster]\nI don't think you're going the right way.",
+        "pt": "[Líder da Guilda]\n... Acho que este não é o caminho certo...",
+        "es": "[Maestro del gremio]\nNo creo que vayas por el camino correcto."
+    },
+    "eZSUBg": {
+        "en": "[Guildmaster]\nNo sense of direction, eh?",
+        "pt": "[Líder da Guilda]\nSem senso de direção, hein?",
+        "es": "[Maestro del gremio]\nNo tienes un gran sentido de la orientación, ¿verdad?"
+    },
+    "epSUBg": {
+        "en": "[Huey]",
+        "pt": "[Kakashi]",
+        "es": "[Huey]"
+    },
+    "e5SUBg": {
+        "en": "[Khai]",
+        "pt": "[Kain]",
+        "es": "[Khai]"
+    },
+    "fJSUBg": {
+        "en": "[The Anonymous One]",
+        "pt": "[Ninguém]",
+        "es": "[El Anónimo]"
+    },
+    "fZSUBg": {
+        "en": "[Barcardi]",
+        "pt": "[Bastit]",
+        "es": "[Barcardi]"
+    },
+    "fpSUBg": {
+        "en": "[Beholder]",
+        "pt": "[Supervisor]",
+        "es": "[Beholder]"
+    },
+    "f5SUBg": {
+        "en": "[Thomas]",
+        "pt": "[Dante]",
+        "es": "[Thomas]"
+    },
+    "gJSUBg": {
+        "en": "[Gayle Maroubitz]",
+        "pt": "[Gayle Maroubitz]",
+        "es": "[Gayle Maroubitz]"
+    }
+}

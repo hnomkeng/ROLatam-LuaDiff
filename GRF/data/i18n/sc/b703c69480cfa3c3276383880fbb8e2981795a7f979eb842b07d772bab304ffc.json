@@ -1,0 +1,912 @@
+{
+    "IA3kAg": {
+        "en": "Middle-aged Gentleman",
+        "pt": "Senhor",
+        "es": "Caballero de mediana edad"
+    },
+    "IQ3kAg": {
+        "en": "== Crusaders can't advance directly to this 3rd job. ==\n== Please become a Paladin first. ==",
+        "pt": "== Os Cruzados não podem avançar diretamente para esta 3ª classe. ==\n== Torne-se Paladino primeiro. ==",
+        "es": "== Los Cruzados no pueden avanzar directamente a este 3º Clase. ==\n== Por favor, conviértete en Paladín primero. =="
+    },
+    "Ig3kAg": {
+        "en": "I'm carrying too many types of items. I should lighten my bag first.",
+        "pt": "Você tem itens demais. Arrume-os, por favor, e depois tente novamente.",
+        "es": "Tengo demasiados tipos de objetos. Primero debería aligerar mi bolso."
+    },
+    "Iw3kAg": {
+        "en": "I'm over the weight limit. I'd better lighten my bag first.",
+        "pt": "Você está carregando itens demais, por favor, descarregue um pouco",
+        "es": "Estoy por encima del límite de peso. Será mejor que aligere mi bolso primero."
+    },
+    "JA3kAg": {
+        "en": "^990099The middle-aged man takes notice of the ticket in my hand. With a lucid look in his eyes, which wasn't there previously, he says,^000000",
+        "pt": "^990099Um homem encontrou o bilhete em suas mãos. Ele disse com olhos brilhantes.^000000",
+        "es": "^990099El hombre de mediana edad se fija en el boleto que tengo en la mano. Con una mirada lúcida, que antes no tenía, dice:^000000"
+    },
+    "JQ3kAg": {
+        "en": "[Returned Heinrich]\nOh, I didn't give you your helm, didn't I? I'm sorry.",
+        "pt": "[Returned Hainrich]\nOh... você não ganhou um acessório de cabeça? Desculpe.",
+        "es": "[Heinrich, el resurgido]\nAh, no te di tu yelmo, ¿no? Lo siento."
+    },
+    "Jg3kAg": {
+        "en": "[Returned Heinrich]\nThere you go. A special helm just for you.",
+        "pt": "[Returned Hainrich]\nEsse chapéu vai combinar com você.",
+        "es": "[Heinrich, el resurgido]\nAquí tienes. Un yelmo especial para ti."
+    },
+    "Jw3kAg": {
+        "en": "Say what?",
+        "pt": "Hein?",
+        "es": "¿Cómo dices?"
+    },
+    "KA3kAg": {
+        "en": "[Returned Heinrich]\nI brought it from near your company.",
+        "pt": "[Returned Hainrich]\nEu o consegui na sua guilda. .....................................perto do escritório.",
+        "es": "[Heinrich, el resurgido]\nLo encontré cerca de tu compañía."
+    },
+    "KQ3kAg": {
+        "en": "Have you been waiting for me?",
+        "pt": "Você esperou por mim?",
+        "es": "¿Me estabas esperando?"
+    },
+    "Kg3kAg": {
+        "en": "Old man, have you been waiting for me?",
+        "pt": "[Returned Hainrich] Claro.",
+        "es": "Anciano, ¿me estabas esperando?"
+    },
+    "Kw3kAg": {
+        "en": "[Returned Heinrich]\nOf course.",
+        "pt": "[Returned Hainrich]\nE eu sei que esse chapéu vai combinar com você.",
+        "es": "[Heinrich, el resurgido]\nPor supuesto."
+    },
+    "LA3kAg": {
+        "en": "[Returned Heinrich]\nAnd I know that helm will fit you perfectly.",
+        "pt": "[Returned Hainrich]\nComo prometido, você deveria se dedicar ao Rei Schmidtz de Glassheim. Caso contrário...",
+        "es": "[Heinrich, el resurgido]\nSé que el yelmo te quedará perfecto."
+    },
+    "LQ3kAg": {
+        "en": "[Returned Heinrich]\nNow, you'd better keep your promise. Serve King Schmidt of Glastheim for the rest of your life, or--",
+        "pt": "[Returned Hainrich]\nVocê perderá a mulher...",
+        "es": "[Heinrich, el resurgido]\nAsí que será mejor que cumplas tu promesa. Sirve al rey Schmidt de Glastheim por el resto de tu vida o…"
+    },
+    "Lg3kAg": {
+        "en": "What the hell are you talking about, you old coot?",
+        "pt": "O que você está dizendo??",
+        "es": "¿De qué demonios estás hablando, viejo chiflado?"
+    },
+    "Lw3kAg": {
+        "en": "I don't have her.",
+        "pt": "Que mulher?",
+        "es": "No la tengo."
+    },
+    "MA3kAg": {
+        "en": "Say you don't, either.",
+        "pt": "Diga que você também não tem.",
+        "es": "Tú tampoco la tienes."
+    },
+    "MQ3kAg": {
+        "en": "I'm her.",
+        "pt": "Sou uma mulher...",
+        "es": "Soy ella."
+    },
+    "Mg3kAg": {
+        "en": "[Returned Heinrich]\nHah hah. Calm down. I was just pulling your leg. That was my way of saying thank you for helping me get what I wanted.",
+        "pt": "[Returned Hainrich]\nVocê não está livre.",
+        "es": "[Heinrich, el resurgido]\nJa, ja. Tranquilízate. Te estaba tomando el pelo. Era mi forma de agradecerte que me ayudaras a conseguir lo que quería."
+    },
+    "Mw3kAg": {
+        "en": "[Middle-aged Gentleman]\nMm? What am I doing here? I was on some sort of errand...",
+        "pt": "[Senhor]\nHã? O que eu estou fazendo? Eu vim aqui para uma missão...",
+        "es": "[Hombre de mediana edad]\n¿Mm? ¿Qué hago aquí? Estaba haciendo una especie de encargo…"
+    },
+    "NA3kAg": {
+        "en": "^000099Heinrich must have moved on to someone else.^000000",
+        "pt": "^000099Talvez meus sentimentos tenham se mudado para outro corpo^000000",
+        "es": "^000099Heinrich debe haberse ido con otra persona.^000000"
+    },
+    "NQ3kAg": {
+        "en": "[Middle-aged Gentleman]\nLook how young and fresh you are! Keep up the good work.",
+        "pt": "[Senhor]\nOh, você é tão jovem. Continue trabalhando duro.",
+        "es": "[Hombre de mediana edad]\n¡Me asomBreno tu juventud y tu aspecto radiante! ¡Sigue así!"
+    },
+    "Ng3kAg": {
+        "en": "[Middle-aged Gentleman]\nWhat are you carrying so much? Go get rid of some of it, will you?",
+        "pt": "[Senhor]\nVocê está arrastando alguma coisa. Se você estiver guiando alguma coisa, é melhor desmontá-la antes de proceder.",
+        "es": "[Hombre de mediana edad]\n¿Por qué llevas tantas cosas? Deshazte de algo, ¿quieres?"
+    },
+    "Nw3kAg": {
+        "en": "[Middle-aged Gentleman]\nI have nothing to talk to you about. Why don't you find someone else to talk to?",
+        "pt": "[Senhor]\nEu não tenho nada para dizer a você. Encontre outra pessoa.",
+        "es": "[Hombre de mediana edad]\nNo tengo nada que hablar contigo. ¿Por qué no buscas a otra persona con quien hablar?"
+    },
+    "OA3kAg": {
+        "en": "[Middle-aged Gentleman]\nIt's too early for you to be here.",
+        "pt": "[Senhor]\nÉ muito cedo para você estar aqui.",
+        "es": "[Hombre de mediana edad]\nEs demasiado temprano para que estés aquí."
+    },
+    "OQ3kAg": {
+        "en": "[Middle-aged Gentleman]\nWhere was I? *Mumble, Mumble...* The remaining pieces are in Glastheim, and there are approximately thirteen...",
+        "pt": "[Senhor]\nO que eu estava dizendo... (murmúrio) o segmento restante está no Glass Heim perto das 13...",
+        "es": "[Hombre de mediana edad]\n¿Dónde estaba? *Murmura* Las piezas restantes están en Glastheim y son aproximadamente trece…"
+    },
+    "Og3kAg": {
+        "en": "[Middle-aged Gentleman]\nMm? \nHow may I help you?",
+        "pt": "[Senhor]\nHã?\nVocê precisa de alguma coisa?",
+        "es": "[Hombre de mediana edad]\n¿Mm? \n¿En qué puedo ayudarte?"
+    },
+    "Ow3kAg": {
+        "en": "I don't think I've seen you here before.",
+        "pt": "Eu nunca vi você antes.",
+        "es": "Creo que no te había visto nunca por aquí."
+    },
+    "PA3kAg": {
+        "en": "[Middle-aged Gentleman]\nHah hah hah. I'm not a suspicious man. Or a great man for that matter.",
+        "pt": "[Senhor]\nHehehe, não se preocupe comigo.",
+        "es": "[Hombre de mediana edad]\nJa, ja, ja. No soy un hombre sospechado ni nada de lo que insinúas."
+    },
+    "PQ3kAg": {
+        "en": "[Middle-aged Gentleman]\nIf you have no business with me, please go on your way.",
+        "pt": "[Senhor]\nSe não quer nada comigo, siga em frente, meu amigo.",
+        "es": "[Hombre de mediana edad]\nSi no tienes nada que hacer aquí, sigue tu camino."
+    },
+    "Pg3kAg": {
+        "en": "You don't look like you're a Royal Knight.",
+        "pt": "Você não parece ser um Cavaleiro...",
+        "es": "No pareces ser de la clase Caballero real."
+    },
+    "Pw3kAg": {
+        "en": "[Middle-aged Gentleman]\nYou're so curious, aren't you? Alright, then who are you? What are you doing here?",
+        "pt": "[Senhor]\nVocê é curioso. Quem é você? O que você quer?",
+        "es": "[Hombre de mediana edad]\nSientes mucha curiosidad, ¿no? Muy bien, entonces, ¿quién eres? ¿Qué haces aquí?"
+    },
+    "QA3kAg": {
+        "en": "Nothing!",
+        "pt": "Só estou dando uma olhada!",
+        "es": "¡Nada!"
+    },
+    "QQ3kAg": {
+        "en": "This is where I work.",
+        "pt": "Este é o meu escritório!",
+        "es": "Este es mi lugar de trabajo."
+    },
+    "Qg3kAg": {
+        "en": "I asked you first.",
+        "pt": "Quem eu sou? Quem é você?",
+        "es": "Yo te pregunté primero."
+    },
+    "Qw3kAg": {
+        "en": "[Middle-aged Gentleman]\nAre you picking a fight with me? Do you even know who I am?",
+        "pt": "[Senhor]\nVocê quer discutir comigo? Você sabe quem eu sou?",
+        "es": "[Hombre de mediana edad]\n¿Quieres pelear conmigo? ¿Al menos sabes quién soy?"
+    },
+    "RA3kAg": {
+        "en": "No, I'm not. Why don't you tell me?",
+        "pt": "Na verdade não, quem é você?",
+        "es": "No, para nada. ¿Por qué no me lo dices?"
+    },
+    "RQ3kAg": {
+        "en": "I didn't mean to offend you.",
+        "pt": "Desculpe, não vou lhe magoar.",
+        "es": "No quería ofenderte."
+    },
+    "Rg3kAg": {
+        "en": "[{0}]\nI'm a member of this place. I have the authority to inspect every visitor here.",
+        "pt": "[{0}]\nSou um membro daqui e tenho a autoridade de descobrir o que você quer aqui.",
+        "es": "[{0}]\nSoy miembro de este lugar. Tengo autoridad para inspeccionar a todos los visitantes."
+    },
+    "Rw3kAg": {
+        "en": "[{0}]\nI just want to know who you are because I've never seen you around before and you're also wearing clothes that look strange to me.",
+        "pt": "[{0}]\nVocê é um estranho e não tenho certeza se você deveria estar aqui.",
+        "es": "[{0}]\nSolo quiero saber quién eres porque nunca te había visto por aquí y además llevas una ropa que me resulta extraña."
+    },
+    "SA3kAg": {
+        "en": "[{0}]\nI apologize if I offended you, but I must know who you are and where you came from.",
+        "pt": "[{0}]\nSe me contar a sua identidade, me desculparei.",
+        "es": "[{0}]\nMe disculpo si te ofendí, pero debo saber quién eres y de dónde vienes."
+    },
+    "SQ3kAg": {
+        "en": "[{0}]\nYou must be from the Palace. I'm sorry for my rudeness.",
+        "pt": "[{0}]\nDesculpe. Eu tinha que ter certeza. Não sabia que você vinha do palácio real.",
+        "es": "[{0}]\nDebes ser del palacio. Perdona mi falta de respeto."
+    },
+    "Sg3kAg": {
+        "en": "[Middle-aged Gentleman]\nNow, you know. Just don't make the same mistake again.",
+        "pt": "[Senhor]\nAh, chega. Não cometa o mesmo erro novamente.",
+        "es": "[Hombre de mediana edad]\nAhora, ya lo sabes. No vuelvas a cometer ese error."
+    },
+    "Sw3kAg": {
+        "en": "[Middle-aged Gentleman]\nYou won't give up, will you?\nAlright, then so be it. Let me introduce myself.",
+        "pt": "[Senhor]\nComo você é persistente.\nSe realmente quiser, vou me apresentar.",
+        "es": "[Hombre de mediana edad]\nNo te rendirás, ¿verdad?\nBien, que así sea. Permíteme presentarme."
+    },
+    "TA3kAg": {
+        "en": "^0000FFA semi-transparent image of a young man appears above the middle-aged gentleman.^000000",
+        "pt": "^0000FFUma imagem semitransparente de um jovem aparece acima do senhor.^000000",
+        "es": "^0000FFSobre el hombre de mediana edad, aparece la imagen semitransparente de un hombre joven.^000000"
+    },
+    "TQ3kAg": {
+        "en": "[Middle-aged Gentleman]\nMy name is Heinrich.\nI'm traveling the world, following the traces of King Schmidt, who mysteriously disappeared from history a long time ago.",
+        "pt": "[Senhor]\nSou Hainrich.\nEstou coletando informações sobre o vestígios do rei Schmidt, que desapareceu.",
+        "es": "[Hombre de mediana edad]\nMe llamo Heinrich.\nViajo por el mundo siguiendo los rastros del rey Schmidt, que desapareció misteriosamente de la historia hace mucho tiempo."
+    },
+    "Tg3kAg": {
+        "en": "Traces of King Schmidt? Like treasures?",
+        "pt": "Vestígios de Schmidtz? É um tesouro?",
+        "es": "¿Los rastros del rey Schmidt? ¿Te refieres a tesoros?"
+    },
+    "Tw3kAg": {
+        "en": "[Heinrich]\nOnly Archaeologists and tomb raiders are after treasures. More specifically, I'm looking for the traces of the ^000099Royal Guards^000000, the military unit that was under the direct command of King Schmidt, and their descendants.",
+        "pt": "[Hainrich]\nA maioria dos arqueólogos está ansiosa para conseguir tesouros. Estou procurando vestígios da ^000099Guarda Real^000000 e seus filhos que pertencem à linhagem de Schmidtz.",
+        "es": "[Heinrich]\nSolo los arqueólogos y los saqueadores de tumbas buscan tesoros. Yo, más concretamente, busco los rastros de la ^000099Guardia real^000000, la unidad militar bajo el mando directo del rey Schmidt y de sus descendientes."
+    },
+    "UA3kAg": {
+        "en": "The Royal Guards? I've never heard of them.",
+        "pt": "Guarda Real?",
+        "es": "¿La Guardia real? Nunca oí hablar de ella."
+    },
+    "UQ3kAg": {
+        "en": "[Heinrich]\nI can tell your interest is piqued, but this isn't something I can share with just anyone. Since it has to do with a king's direct unit, it involves confidential documents and secret stories that must not be disclosed.",
+        "pt": "[Hainrich]\nParece interessante, não? Não posso dizer muito sobre a sua história e os seus arquivos estão sob segurança intensa.",
+        "es": "[Heinrich]\nVeo que desperté tu interés, pero no es información que pueda compartir con cualquiera. Como se relaciona con la unidad militar de un rey, implica documentos confidenciales e historias secretas que no deben divulgarse."
+    },
+    "Ug3kAg": {
+        "en": "Can't you please share it with me?",
+        "pt": "Você não pode me contar?",
+        "es": "¿No podrías contarme?"
+    },
+    "Uw3kAg": {
+        "en": "[Heinrich]\nMaybe I can if you prove that you can keep secrets. And if you're worthy enough.",
+        "pt": "[Hainrich]\nNão posso falar sobre a Guarda Real para qualquer um que pergunte sobre ela.",
+        "es": "[Heinrich]\nQuizás podría si demuestras que sabes guardar secretos. Y si demuestras tu valía."
+    },
+    "VA3kAg": {
+        "en": "[Heinrich]\nBut I can already tell you can't. I'm sorry I even told you. Just think of it as an old story.",
+        "pt": "[Hainrich]\nMAS!! Quero acreditar em você...",
+        "es": "[Heinrich]\nPero me doy cuenta de que no es así. Lamento habértelo dicho. Tómalo como una historia antigua."
+    },
+    "VQ3kAg": {
+        "en": "You don't even know me!",
+        "pt": "Quer saber mais.",
+        "es": "¡Ni siquiera me conoces!"
+    },
+    "Vg3kAg": {
+        "en": "Quit conversation.",
+        "pt": "Parar de falar.",
+        "es": "Abandonar la conversación."
+    },
+    "Vw3kAg": {
+        "en": "[Heinrich]\nYou're so hot-tempered and reckless.",
+        "pt": "[Hainrich]\nVocê é impetuoso.",
+        "es": "[Heinrich]\nEres tan irascible e imprudente."
+    },
+    "WA3kAg": {
+        "en": "[Heinrich]\nThis is exactly why I can't trust you. Please leave now.",
+        "pt": "[Hainrich]\nNão é uma história simples de contar para alguém como você. Volte.",
+        "es": "[Heinrich]\nEs exactamente por eso que no puedo confiar en ti. Vete, por favor."
+    },
+    "WQ3kAg": {
+        "en": "[Heinrich]\nGood!",
+        "pt": "[Hainrich]\nBoa ideia.",
+        "es": "[Heinrich]\n¡Bien!"
+    },
+    "Wg3kAg": {
+        "en": "[Heinrich]\nYou should pay attention to something more productive than this.",
+        "pt": "[Hainrich]\nEsqueça isso e pense em coisas que valham mais a pena.",
+        "es": "[Heinrich]\nDeberías interesarte por algo más productivo que esto."
+    },
+    "Ww3kAg": {
+        "en": "[Heinrich]\nWhy are you being so stubborn?\nWhat more do you want to talk to me about?",
+        "pt": "[Hainrich]\nVocê é persistente, amigo.\nVocê tem mais coisas para falar comigo?",
+        "es": "[Heinrich]\n¿Por qué tanta obstinación?\n¿De qué otra cosa quieres hablar?"
+    },
+    "XA3kAg": {
+        "en": "Give me a chance to prove myself.",
+        "pt": "Se você não confia em mim, me teste, amigo.",
+        "es": "Dame la oportunidad de demostrar lo que valgo."
+    },
+    "XQ3kAg": {
+        "en": "[Heinrich]\nA chance?\nA chance for what?",
+        "pt": "[Hainrich]\nTestar?\nVocê falou do teste? Huhu!",
+        "es": "[Heinrich]\n¿Una oportunidad?\n¿Una oportunidad para qué?"
+    },
+    "Xg3kAg": {
+        "en": "[Heinrich]\nYou've been very curious about what I'm doing. Why? Are you so bored that you need something or someone to kill time with?",
+        "pt": "[Hainrich]\nAmigo, você tem que mostrar o seu interesse pelo meu trabalho, você está bem? Ou está me gozando?",
+        "es": "[Heinrich]\nSientes mucha curiosidad por lo que estoy haciendo. ¿Por qué? ¿Te aburres tanto que necesitas algo o alguien para pasar el tiempo?"
+    },
+    "Xw3kAg": {
+        "en": "I'm serious.",
+        "pt": "Estou falando sério!",
+        "es": "Lo digo en serio."
+    },
+    "YA3kAg": {
+        "en": "[Heinrich]\nOh, are you?\nAlright, obviously you're fantasizing about the Royal Guards. Let me ask yo a question: what comes to your mind when you think of them?",
+        "pt": "[Hainrich]\nÉ mesmo?\nÓtimo. Você deve ter uma impressão errada sobre o que é a Guarda Real. Então, na sua opinião, o que é essencial para ser um Guarda Real?",
+        "es": "[Heinrich]\nAh, ¿sí?\nDe acuerdo, es evidente que estás fantaseando con la Guardia real. Déjame hacerte una pregunta: ¿qué te viene a la mente cuando piensas en ella?"
+    },
+    "YQ3kAg": {
+        "en": "Decisiveness and valor.",
+        "pt": "Decisão e Coragem",
+        "es": "Determinación y valentía."
+    },
+    "Yg3kAg": {
+        "en": "Cool-headed judgment.",
+        "pt": "Julgamento Calmo",
+        "es": "Juicio racional."
+    },
+    "Yw3kAg": {
+        "en": "Sharp wisdom.",
+        "pt": "Sabedoria apurada",
+        "es": "Una gran sabiduría."
+    },
+    "ZA3kAg": {
+        "en": "Selflessness.",
+        "pt": "Espírito benevolente",
+        "es": "Altruismo."
+    },
+    "ZQ3kAg": {
+        "en": "[Heinrich]\nThat's a good choice.\nBut actually, the other threes were also the qualities needed in the Royal Guards.",
+        "pt": "[Hainrich]\nBoa escolha.\nNa verdade, os outros três também são necessários para ter o espírito da Guarda Real, amigo.",
+        "es": "[Heinrich]\nEs una buena elección.\nDe hecho, las otras tres también eran cualidades necesarias para la Guardia real."
+    },
+    "Zg3kAg": {
+        "en": "[Heinrich]\nBut based on my research, their greatest creed was self-discipline and perseverance.",
+        "pt": "[Hainrich]\nMas de acordo com o estudo de documentos sobre a Guarda Real, a melhor convicção é 'asceticismo e resistência'.",
+        "es": "[Heinrich]\nPero, según mi investigación, su principal doctrina era la autodisciplina y la perseverancia."
+    },
+    "Zw3kAg": {
+        "en": "[Heinrich]\nGet it?\nSelf-discipline and perseverance, which couldn't be farther from you, a hot-tempered and reckless youngster.",
+        "pt": "[Hainrich]\nVocê entendeu?\nAsceticismo e Resistência, jovem. É um pouco diferente do que você respondeu.",
+        "es": "[Heinrich]\n¿Entendiste?\nAutodisciplina y perseverancia. Dos atributos que no podrían estar más lejos de ti: alguien joven, irascible e imprudente."
+    },
+    "aA3kAg": {
+        "en": "[Heinrich]\nI know you'd love to hear more about them, but I'm sorry. I can't tell you anymore.",
+        "pt": "[Hainrich]\nVocê parece ter muito interesse nessa história, mas não posso contar mais.",
+        "es": "[Heinrich]\nLo siento, sé que te encantaría saber más sobre esto. Pero no puedo contarte más."
+    },
+    "aQ3kAg": {
+        "en": "[Heinrich]\nOnly the worthy can get to learn about the Royal Guards.",
+        "pt": "[Hainrich]\nApenas aqueles que são qualificados podem ouvir a história da Guarda Real.",
+        "es": "[Heinrich]\nSolo las personas que demuestren ser merecedoras pueden aprender sobre la Guardia real."
+    },
+    "ag3kAg": {
+        "en": "How can I become worthy of it?",
+        "pt": "O que eu posso fazer para ouvir a história?",
+        "es": "¿Cómo puedo demostrarlo?"
+    },
+    "aw3kAg": {
+        "en": "^000099Heinrich started thinking. He was thinking so hard that after five minutes, he looked as if he was dozing off. When he finally broke his silence, there was resignation in his voice.^000000",
+        "pt": "^000099 Hainrich tem uma expressão de sofrimento em seu rosto. Depois parecia que ele tinha adormecido. Por fim, ele diz com uma impulsividade descuidada.^000000",
+        "es": "^000099Heinrich se puso a pensar. Pensó tanto que, al cabo de cinco minutos, parecía que se estaba quedando dormido. Cuando al fin rompió el silencio, se percibía resignación en su voz.^000000"
+    },
+    "bA3kAg": {
+        "en": "[Heinrich]\nYou're remarkably stubborn, aren't you?\nOkay, then let me see how patient you can be.",
+        "pt": "[Hainrich]\nQue teimoso você é.\nSe sim, testarei você para ver a sua resistência de asceticismo.",
+        "es": "[Heinrich]\nRealmente eres muy tenaz, ¿no?\nBien, déjame ver qué tan paciente puedes ser."
+    },
+    "bQ3kAg": {
+        "en": "[Heinrich]\nKing Schmidt only bestowed the title of Royal Guard to those who'd collected 100 Hands of God.",
+        "pt": "[Hainrich]\nHá muito tempo, o rei Schmidtz deu um título a um corajoso soldado que voltou com 100 Marcas Sagradas.",
+        "es": "[Heinrich]\nEl rey Schmidt solo otorgaba el título de Guardia real a quienes recolectaran 100 Manos de Dios."
+    },
+    "bg3kAg": {
+        "en": "[Heinrich]\nIf you want to hear more about my story, then you have to prove to me that you're trustworthy. Think you can do that?",
+        "pt": "[Hainrich]\nSe você quiser saber mais sobre a história, você tem que me mostrar uma atitude sua semelhante.",
+        "es": "[Heinrich]\nSi quieres saber más sobre mi historia, tienes que demostrarme que mereces mi confianza. ¿Crees que puedes hacerlo?"
+    },
+    "bw3kAg": {
+        "en": "That's too much.",
+        "pt": "Essa é uma ordem injusta.",
+        "es": "Es demasiado."
+    },
+    "cA3kAg": {
+        "en": "Sure, why not?",
+        "pt": "Eu tentarei.",
+        "es": "Claro, ¿por qué no?"
+    },
+    "cQ3kAg": {
+        "en": "[Heinrich]\nI knew you'd say that. Now, go look for something more productive for yourself.",
+        "pt": "[Hainrich]\nBoa ideia, seria melhor encontrar algo de mais valor.",
+        "es": "[Heinrich]\nSabía que dirías eso. Bien, busca algo más productivo que hacer."
+    },
+    "cg3kAg": {
+        "en": "[Heinrich]\nAlright, then let's do this. Honestly, I think 100 Hands of God are way too much. Why don't you bring me 100 Burning Hearts instead?",
+        "pt": "[Hainrich]\nCerto, vamos fazer desse jeito. Na verdade, é difícil demais conseguir 100 Marcas Sagradas, mostre sua ambição conseguindo 100 Corações Incandescentes.",
+        "es": "[Heinrich]\nMuy bien, entonces, hagámoslo. Sinceramente, creo que 100 Manos de Dios es demasiado. ¿Por qué no me traes 100 Corazones ardientes?"
+    },
+    "cw3kAg": {
+        "en": "[Heinrich]\nThat'll show you're really passionate about my story, which is good enough reason for me to share it with you. Not to mention you're patient.",
+        "pt": "[Hainrich]\nSe você os trouxer, eu poderei contar mais da história para você. Isso significa mostrar sua resistência para mim.",
+        "es": "[Heinrich]\nCon eso, demostrarás que te apasiona mi historia, razón suficiente para que la comparta contigo. Sin mencionar que también reflejará tu paciencia."
+    },
+    "dA3kAg": {
+        "en": "[Heinrich]\nDon't forget. I want 100 Burning Hearts.",
+        "pt": "[Hainrich]\nNão se esqueça de me trazer 100 Corações Incandescentes.",
+        "es": "[Heinrich]\nNo lo olvides. Quiero 100 Corazones ardientes."
+    },
+    "dQ3kAg": {
+        "en": "[Heinrich]\nDid you really bring them all? \nEveryone else before you completely forgot about what I asked or gave up after a while because they were too busy.",
+        "pt": "[Hainrich]\nVocê conseguiu todos eles?\nA maioria das pessoas me ignoram ou desistem da missão.",
+        "es": "[Heinrich]\n¿De verdad los trajiste todos? \nTodas las personas que lo intentaron antes que tú se olvidaron por completo de lo que les pedí o desistieron porque tenían mucho que hacer."
+    },
+    "dg3kAg": {
+        "en": "[Heinrich]\nPlease give me a moment to organize what you've brought.",
+        "pt": "[Hainrich]\nEspere enquanto eu organizo o que você trouxe.",
+        "es": "[Heinrich]\nDame un momento para organizar lo que trajiste."
+    },
+    "dw3kAg": {
+        "en": "[Heinrich]\n...\nOkay, now I'm convinced you're serious about wanting to listen to my story.",
+        "pt": "[Hainrich]\n...\nÓtimo. Posso sentir a verdade de seu coração. Agora posso contar mais sobre a história para você.",
+        "es": "[Heinrich]\n…\nBien, ahora sé con seguridad que de verdad quieres escuchar mi historia."
+    },
+    "eA3kAg": {
+        "en": "Please tell me everything.",
+        "pt": "Certo, conte-me mais detalhes.",
+        "es": "Cuéntame todo."
+    },
+    "eQ3kAg": {
+        "en": "[Heinrich]\nAs far as I know, the title of Royal Guard was only bestowed upon the elite Crusaders and Paladins under King Schmidt's direct command.",
+        "pt": "[Hainrich]\nOs melhores membros das classes Templários e Paladinos podem obter a qualificação da Guarda Real.",
+        "es": "[Heinrich]\nPor lo que sé, el título de Guardia real solo se concedía a los Cruzados y Paladines de élite bajo el mando directo del rey Schmidt."
+    },
+    "eg3kAg": {
+        "en": "[Heinrich]\nRecords say the Royal Guards descended from the heavens and sang hymns to punish their enemies.",
+        "pt": "[Hainrich]\nEles são agentes da ordem divina e julgam com punições ágeis.",
+        "es": "[Heinrich]\nSegún los registros, los Guardias reales descendieron de los cielos y entonaron himnos para castigar a sus enemigos."
+    },
+    "ew3kAg": {
+        "en": "[Heinrich]\nNaturally, a lot of people wonder how mere humans like they wielded such incredible power. Some of them even refuse to believe those records are valid.",
+        "pt": "[Hainrich]\nAinda temos muitas opiniões sobre como eles poderiam ter sobrevivido. Com certeza, alguém teve que acreditar que a história deles não era falsa.",
+        "es": "[Heinrich]\nDesde luego, mucha gente se pregunta cómo unos simples mortales tenían un poder tan increíble. Incluso algunos se niegan a creer que esos registros sean verdaderos."
+    },
+    "fA3kAg": {
+        "en": "Do those records still exist?",
+        "pt": "Ainda há documentos?",
+        "es": "¿Esos registros aún existen?"
+    },
+    "fQ3kAg": {
+        "en": "[Heinrich]\nAbout that...",
+        "pt": "[Hainrich]\nHum, os documentos que está dizendo...",
+        "es": "[Heinrich]\nEn cuanto a eso…"
+    },
+    "fg3kAg": {
+        "en": "[Heinrich]\nUnfortunately, all the traces of the Royal Guards disappeared with King Schmidt.",
+        "pt": "[Hainrich]\nInfelizmente, depois de o rei Schmidtz desaparecer, os vestígios da Guarda Real desapareceram.",
+        "es": "[Heinrich]\nPor desgracia, todos los rastros de la Guardia real desaparecieron con el rey Schmidt."
+    },
+    "fw3kAg": {
+        "en": "[Heinrich]\nTheir history, creeds, combat skills, everything.\nThey disappeared, leaving not even a single line of a record.",
+        "pt": "[Hainrich]\nA sua história, crença, visão e habilidade de luta desapareceram completamente sem nenhum dos documentos ser conservado.",
+        "es": "[Heinrich]\nSu historia, creencias, habilidades de combate, todo.\nDesaparecieron sin dejar ni un solo registro."
+    },
+    "gA3kAg": {
+        "en": "[Heinrich]\nIt's as if they chose to disappear with the king.",
+        "pt": "[Hainrich]\nParece que desapareceram com o rei.",
+        "es": "[Heinrich]\nEs como si hubieran elegido desaparecer junto con el rey."
+    },
+    "gQ3kAg": {
+        "en": "Then, you're looking for them for...?",
+        "pt": "Então, a razão de encontrar os seus vestígios...",
+        "es": "Entonces, ¿por qué los buscas?"
+    },
+    "gg3kAg": {
+        "en": "[Heinrich]\nI don't want their great history to be lost completely.",
+        "pt": "[Hainrich]\nEu estava preocupado com os antigos Guardas Reais que talvez não puderam passar sua história a diante.",
+        "es": "[Heinrich]\nNo quiero que su gran historia se pierda por completo."
+    },
+    "gw3kAg": {
+        "en": "[Heinrich]\nOr their mysterious power. What if we can never see it again? What kind of terrible fate would that be?",
+        "pt": "[Hainrich]\nO poder misterioso... não pode aparecer em mais nenhum lugar do mundo. Que decepcionante~!",
+        "es": "[Heinrich]\nNi tampoco su poder misterioso. ¿Y si nunca volvemos a presenciar algo así? ¿Qué terrible destino sería ése?"
+    },
+    "hA3kAg": {
+        "en": "[Heinrich]\nI've been using everything I have to revive this group before it's completely forgotten.",
+        "pt": "[Hainrich]\nÉ por isso que estou me concentrando para reviver o trabalho deles.",
+        "es": "[Heinrich]\nEntregué todo de mí para resucitar a este grupo antes de que sea olvidado por completo."
+    },
+    "hQ3kAg": {
+        "en": "How far are you with your excavation process?",
+        "pt": "Quanto progresso você obteve?",
+        "es": "¿Qué tan avanzada está tu excavación?"
+    },
+    "hg3kAg": {
+        "en": "[Heinrich]\nFortunately, I've discovered most of their legacies, and I'm in the process of deciphering them. Now, I just need to find one more clue.",
+        "pt": "[Hainrich]\nFelizmente, escavei a maioria dos tesouros e os interpretei. Só falta um vestígio a ser encontrado.",
+        "es": "[Heinrich]\nPor fortuna, descubrí la mayoría de sus legados y estoy en proceso de descifrarlos. Ahora, solo me queda encontrar una pista más."
+    },
+    "hw3kAg": {
+        "en": "What is it?",
+        "pt": "O resto dos vestígios?",
+        "es": "¿Cuál?"
+    },
+    "iA3kAg": {
+        "en": "[Heinrich]\nThe Royal Guards wore a uniform embroidered with an emblem that they'd received from King Schmidt. I need to find their uniform.",
+        "pt": "[Hainrich]\nA Guarda Real gravou a marca do Rei Schmidtz em suas roupas. Essa marca personalizada é a última pista.",
+        "es": "[Heinrich]\nLos miembros de la Guardia real vestían un uniforme que tenía bordado un emblema que habían recibido del rey Schmidt. Necesito encontrar ese uniforme."
+    },
+    "iQ3kAg": {
+        "en": "[Heinrich]\nAccording to my informants everywhere on the continent, there's a high chance I can find it where the monastery is in the current Glastheim.",
+        "pt": "[Hainrich]\nDe acordo com relatórios de outras cidades, o último vestígio possivelmente existe em um monastério dentro de Glass Heim.",
+        "es": "[Heinrich]\nSegún mis informantes en todo el continente, hay muchas posibilidades de encontrarlo en el monasterio del actual Glastheim."
+    },
+    "ig3kAg": {
+        "en": "[Heinrich]\nBut that place is way too dangerous for me. I don't think I can go there, let alone search it.",
+        "pt": "[Hainrich]\nMas lá é perigoso demais para mim, então eu quase desisti.",
+        "es": "[Heinrich]\nPero ese lugar es muy peligroso para mí. No creo que pueda ir allí y mucho menos hacer una búsqueda."
+    },
+    "iw3kAg": {
+        "en": "[Heinrich]\nI can't say why their traces exist in such a place, either. I'm not sure, just yet.",
+        "pt": "[Hainrich]\nAgora não posso lhe contar por que o vestígio está lá.",
+        "es": "[Heinrich]\nTampoco puedo explicar por qué hay rastros en ese lugar. Aún no lo sé."
+    },
+    "jA3kAg": {
+        "en": "Interesting. Mind if I go take a look?",
+        "pt": "Que interessante. Posso ir lá?",
+        "es": "Interesante. ¿Te importa si voy a echar un vistazo?"
+    },
+    "jQ3kAg": {
+        "en": "It is a dangerous place.",
+        "pt": "Parece ser muito perigoso.",
+        "es": "Es un lugar peligroso."
+    },
+    "jg3kAg": {
+        "en": "[Heinrich]\nIt is. You have to be suicidal to go there.",
+        "pt": "[Hainrich]\nBoa ideia, é trabalho inútil a ser explorado lá.",
+        "es": "[Heinrich]\nLo es. Hay que ser suicida para ir allí."
+    },
+    "jw3kAg": {
+        "en": "[Heinrich]\nDon't even joke about it.\nThat place is much more dangerous than you think.",
+        "pt": "[Hainrich]\nEstá brincando?\nVocê não devia tratar isso facilmente.",
+        "es": "[Heinrich]\nNo lo digas ni en broma.\nEse lugar es mucho más peligroso de lo que crees."
+    },
+    "kA3kAg": {
+        "en": "I'm not joking.",
+        "pt": "Não estou brincando. Estou falando sério.",
+        "es": "Lo digo en serio."
+    },
+    "kQ3kAg": {
+        "en": "[Heinrich]\nIf you're so adamant, then I can't stop you.",
+        "pt": "[Hainrich]\nSe você diz desse jeito, eu não tenho mais opções.",
+        "es": "[Heinrich]\nSi eres tan tenaz, parece que no podré detenerte."
+    },
+    "kg3kAg": {
+        "en": "[Heinrich]\nI don't know if this helps, but I can give you a detailed description of the place you should look.",
+        "pt": "[Hainrich]\nEu não sei se isso será útil ou não... Escreverei as explicações detalhadamente.",
+        "es": "[Heinrich]\nNo sé si te ayudará, pero puedo ofrecerte una descripción detallada del lugar donde debes buscar."
+    },
+    "kw3kAg": {
+        "en": "^000099Heinrich gave you a note about the Royal Guards' last trace. Please open the Quest window and check its location.^000000",
+        "pt": "^000099Aqui está o último vestígio da Guarda Real. Abra a janela da aventura e verifique a posição.^000000",
+        "es": "^000099Heinrich te entregó una nota sobre el último rastro de la Guardia real. En la ventana de misiones, puedes verificar la ubicación.^000000"
+    },
+    "lA3kAg": {
+        "en": "[Heinrich]\nMy informants are already on their way to find the last trace. You don't have to strain yourself.",
+        "pt": "[Hainrich]\nNossa equipe já partiu para procurá-lo, então não trabalhe duro demais.",
+        "es": "[Heinrich]\nMis informantes ya están en camino para encontrar el último rastro. No te estreses demasiado."
+    },
+    "lQ3kAg": {
+        "en": "[Heinrich]\nAh, this is what I've been looking for!",
+        "pt": "[Hainrich]\nNão, não é o correto que eu quero.",
+        "es": "[Heinrich]\n¡Ah, esto es lo que estaba buscando!"
+    },
+    "lg3kAg": {
+        "en": "[Heinrich]\nYou never fail to surprise me. Even my informants gave up on finding this. Are you a converted thief by chance?",
+        "pt": "[Hainrich]\nVocê me surpreende. Como você conseguiu? Até agora ninguém tinha conseguido.",
+        "es": "[Heinrich]\nNo dejas de sorprenderme. Incluso mis informantes desistieron en la búsqueda. ¿Por casualidad solías ser un Ladrón?"
+    },
+    "lw3kAg": {
+        "en": "[Heinrich]\nAnyway, thank you.\nWho knew I'd find the last clue because of you?",
+        "pt": "[Hainrich]\nMuito obrigado.\nGraças ao seu esforço eu posso encontrar a última pista. Que fantástico!",
+        "es": "[Heinrich]\nEn fin, gracias.\n¿Quién iba a decir que encontraría la última pista gracias a ti?"
+    },
+    "mA3kAg": {
+        "en": "^000099After a moment of hesitation, Heinrich went to pick up an old shield from the corner of his office.^000000",
+        "pt": "^000099Hainrich hesitou e trouxe uma velha armadura do lado do escritório.^000000",
+        "es": "^000099Tras un momento de duda, Heinrich fue a buscar un viejo escudo en un rincón de su oficina.^000000"
+    },
+    "mQ3kAg": {
+        "en": "[Heinrich]\nMy informants excavated this shield. They mistook it for King Schmidt's.",
+        "pt": "[Hainrich]\nNossa equipe o escavou. Eles acham que o Rei Schmidtz a usou. Mas não foi usada por ele..",
+        "es": "[Heinrich]\nMis informantes encontraron este escudo en una excavación. Lo confundieron con el del rey Schmidt."
+    },
+    "mg3kAg": {
+        "en": "It looks special. Are you sure it's not his?",
+        "pt": "Tem certeza de que não foi usada pelo Rei?",
+        "es": "Parece especial. ¿Estás seguro de que no es del rey?"
+    },
+    "mw3kAg": {
+        "en": "[Heinrich]\nHah hah, does it?\nMaybe. Maybe not. But at least according to the appraisal results, it's less likely his.",
+        "pt": "[Hainrich]\nNão posso ter certeza absoluta.\nTalvez você esteja certo, mas de acordo com quando nós fizemos a identificação inicial, não podemos ter certeza de quando ela foi usada.",
+        "es": "[Heinrich]\nJa, ja, ¿te parece?\nQuizás. Quizás no. Al menos, según los resultados del análisis, es poco probable que sea suyo."
+    },
+    "nA3kAg": {
+        "en": "[Heinrich]\nBut it's a precious treasure, just the same. Perhaps you can put it to good use.",
+        "pt": "[Hainrich]\nMas é um velho tesouro, então será útil de alguma maneira. Talvez eu saiba como usá-la.",
+        "es": "[Heinrich]\nPero, de todas formas, es un tesoro valioso. Quizá puedas darle un buen uso."
+    },
+    "nQ3kAg": {
+        "en": "Are you sure?",
+        "pt": "Posso ficar com ela?",
+        "es": "¿Lo dices en serio?"
+    },
+    "ng3kAg": {
+        "en": "[Heinrich]\nWhy not?\nIt might come in handy to you one day.",
+        "pt": "[Hainrich]\nÉ claro.\nAlgum dia ela pode ser útil para você.",
+        "es": "[Heinrich]\n¿Por qué no?\nQuizás algún día te resulte útil."
+    },
+    "nw3kAg": {
+        "en": "^000099Heinrich gave you a shield. It has partially faded letters etched on the back.^000000",
+        "pt": "^000099Pegue a armadura de Hainrich. Na parte de trás da armadura, há algumas letras gravadas.^000000",
+        "es": "^000099Heinrich te entregó un escudo. Tiene letras grabadas en la parte posterior, que están un poco borrosas.^000000"
+    },
+    "oA3kAg": {
+        "en": "^000099To check the letters, open the Quest window.^000000",
+        "pt": "^000099Se você quiser ver as letras, por favor, verifique a janela da aventura.^000000",
+        "es": "^000099En la ventana de misiones, puedes ver las letras.^000000"
+    },
+    "oQ3kAg": {
+        "en": "[Heinrich]\nAlright, then I'm going to go\nanalyze the clothes you brought. I've got my work cut out for me!",
+        "pt": "[Hainrich]\nCerto~~ agora.\nEu estarei decifrando roupas por enquanto, então estarei muito ocupado!",
+        "es": "[Heinrich]\nMuy bien, entonces iré \na analizar la ropa que trajiste. Tengo una tarea muy complicada por delante."
+    },
+    "og3kAg": {
+        "en": "[Heinrich]\nHuh? You lost the shield I gave you. Okay, then what's that thing on your back?",
+        "pt": "[Hainrich]\nHein? Você perdeu a armadura? O que é isso nas suas costas?",
+        "es": "[Heinrich]\n¿Eh? Perdiste el escudo que te di. Entonces, ¿qué es lo que tienes en la espalda?"
+    },
+    "ow3kAg": {
+        "en": "[Heinrich]\nThanks to you, my excavation work is almost finished now. I appreciate it.",
+        "pt": "[Hainrich]\nGraças à sua ajuda, eu posso terminar o trabalho da escavação. Muito obrigado.",
+        "es": "[Heinrich]\nGracias a ti, mis tareas de excavación están casi completas. Te lo agradezco."
+    },
+    "pA3kAg": {
+        "en": "Schmidt's Ghost",
+        "pt": "Pensamento de Schmidtz",
+        "es": "El fantasma de Schmidt"
+    },
+    "pQ3kAg": {
+        "en": "You're heavy. You can't move freely unless you lighten your inventory.",
+        "pt": "Você está pesado demais. Alivie um pouco a sua carga.",
+        "es": "Llevas demasiado peso. No podrás moverte con comodidad hasta que vacíes un poco tu inventario."
+    },
+    "pg3kAg": {
+        "en": "You should pay him respect. Please get off your mount.",
+        "pt": "Você deve lhe prestar respeito. Desça de sua montaria.",
+        "es": "Deberías tratarlo con respeto. Bájate de la montura."
+    },
+    "pw3kAg": {
+        "en": "^000099You lost the key item, the shield. Please go back to Heinrich and ask for help.^000000",
+        "pt": "^000099Parece que você perdeu a armadura. Volte a Hainrich e peça ajuda^000000.",
+        "es": "^000099Perdiste el objeto clave, el escudo. Vuelve con Heinrich y pídele ayuda.^000000"
+    },
+    "qA3kAg": {
+        "en": "[Schmidt's Ghost]\nWho are you...?",
+        "pt": "[Pensamento de Schmidtz]\nQuem é você?",
+        "es": "[El fantasma de Schmidt]\n¿Quién eres…?"
+    },
+    "qQ3kAg": {
+        "en": "I've brought what I think is yours.",
+        "pt": "Trouxe uma relíquia...",
+        "es": "Traje algo que creo que es tuyo."
+    },
+    "qg3kAg": {
+        "en": "[Schmidt's Ghost]\nLike what?",
+        "pt": "[Pensamento de Schmidtz]\nMinha relíquia?",
+        "es": "[El fantasma de Schmidt]\n¿Qué, exactamente?"
+    },
+    "qw3kAg": {
+        "en": "[Schmidt's Ghost]\nHave you been dragged into Heinrich's Sisyphean task as well?",
+        "pt": "[Pensamento de Schmidtz]\nQue pena. Aqui está mais um amigo que enganou Hainrich.",
+        "es": "[El fantasma de Schmidt]\n¿Heinrich también te arrastró a su tarea digna de Sísifo?"
+    },
+    "rA3kAg": {
+        "en": "Do you know him?",
+        "pt": "Você conhece Hainrich?",
+        "es": "¿Lo conoces?"
+    },
+    "rQ3kAg": {
+        "en": "[Schmidt's Ghost]\nHe was my faithful aide. By now, he must be centuries old.",
+        "pt": "[Pensamento de Schmidtz]\nEle era o meu fiel ajudante. Talvez ele tenha se desgastado por centenas de anos...",
+        "es": "[El fantasma de Schmidt]\nEra mi fiel ayudante. A esta altura, debe tener siglos."
+    },
+    "rg3kAg": {
+        "en": "Centuries old? He looks like he's only in his middle age.",
+        "pt": "Como que ele viveu por centenas...",
+        "es": "¿Siglos? Parece ser un hombre de mediana edad."
+    },
+    "rw3kAg": {
+        "en": "[Schmidt's Ghost]\nSure. What you've seen is just one of many shells he uses to maintain his immortal self.",
+        "pt": "[Pensamento de Schmidtz]\nTalvez seu corpo seja apenas um molde. Ele apenas se mudou para o corpo de outros para viver.",
+        "es": "[El fantasma de Schmidt]\nClaro. Lo que viste solo es uno de los muchos caparazones que usa para mantenerse inmortal."
+    },
+    "sA3kAg": {
+        "en": "[Schmidt's Ghost]\nHe still hasn't accepted my death. He chose to remain in this realm and find the candidates of the Royal Guards.",
+        "pt": "[Pensamento de Schmidtz]\nEle não quer aceitar a minha morte e vaga pelo mundo para encontrar os Guardas Reais.",
+        "es": "[El fantasma de Schmidt]\nAún no acepta mi muerte. Eligió permanecer en este reino y encontrar a los candidatos para la Guardia real."
+    },
+    "sQ3kAg": {
+        "en": "What's the significance of this shield?",
+        "pt": "Qual é o significado dessa armadura?",
+        "es": "¿Qué significa este escudo?"
+    },
+    "sg3kAg": {
+        "en": "[Schmidt's Ghost]\nThat shield Heinrich gave you is a part of the contract I made with him before leaving this world.",
+        "pt": "[Pensamento de Schmidtz]\nA armadura de Hainrich é o nosso contrato de antes de eu morrer.",
+        "es": "[El fantasma de Schmidt]\nEl escudo que te dio Heinrich es parte del acuerdo que hice con él antes de dejar este mundo."
+    },
+    "sw3kAg": {
+        "en": "[Schmidt's Ghost]\n''If you find someone suitable for my army, give them my shield and test their worthiness.''",
+        "pt": "[Pensamento de Schmidtz]\nSe eu encontrar a pessoa certa, a armadura será o contrato.",
+        "es": "[El fantasma de Schmidt]\nSi encuentras a una persona adecuada para mi ejército, entrégale mi escudo y pon a prueba su valía."
+    },
+    "tA3kAg": {
+        "en": "[Schmidt's Ghost]\nHeinrich couldn't stop trying to fulfil this order until he died.",
+        "pt": "[Pensamento de Schmidtz]\nPara ele, essa ordem é a última enquanto ele vive.",
+        "es": "[El fantasma de Schmidt]\nHeinrich no dejó de intentar cumplir esta orden hasta que murió."
+    },
+    "tQ3kAg": {
+        "en": "[Schmidt's Ghost]\nHe can now. I don't think he will, though. It seems he's decided to remain a stubborn fool who can't let go of his dead master.",
+        "pt": "[Pensamento de Schmidtz]\nAgora ele não precisa, mas continuará um tolo que não pode forjar o dono morto.",
+        "es": "[El fantasma de Schmidt]\nAhora podría dejar de hacerlo. Pero no creo que lo haga. Parece que prefiere seguir siendo un bobo obstinado que no puede dejar ir a su maestro muerto."
+    },
+    "tg3kAg": {
+        "en": "Then, can I go now?",
+        "pt": "Posso ir agora?",
+        "es": "Entonces, ¿ya me puedo ir?"
+    },
+    "tw3kAg": {
+        "en": "[Schmidt's Ghost]\nI'm sorry, but I can't just let you go.",
+        "pt": "[Pensamento de Schmidtz]\nDesculpe, mas não posso mandar-lhe agora.",
+        "es": "[El fantasma de Schmidt]\nLo siento, pero no puedo dejarte ir."
+    },
+    "uA3kAg": {
+        "en": "[Schmidt's Ghost]\nAs I said earlier, this is a part of my contract with Heinrich. I have to uphold it as his master. Besides, you look like you're strong enough to take the test.",
+        "pt": "[Pensamento de Schmidtz]\nEsse é um contrato com Hainrich, então eu tenho que mantê-lo. Você parece fiel e corajoso.",
+        "es": "[El fantasma de Schmidt]\nComo dije, esto es parte de mi acuerdo con Heinrich. Como su maestro, debo respetarlo. Además, parece que eres lo suficientemente fuerte como para hacer la prueba."
+    },
+    "uQ3kAg": {
+        "en": "[Schmidt's Ghost]\nNow, it's time I keep the promise I made with Heinrich when I was alive. As for you, you have the freedom of choice.",
+        "pt": "[Pensamento de Schmidtz]\nAgora é a hora de manter a promessa com Hainrich. Você que sabe.",
+        "es": "[El fantasma de Schmidt]\nEs momento de que cumpla la promesa que le hice a Heinrich cuando estaba vivo. En cuanto a ti, tienes libertad de elección."
+    },
+    "ug3kAg": {
+        "en": "[Schmidt's Ghost]\nBut I'd like to appoint you a next-generation Royal Guard and teach you our skills that no one else know. How would you like that?",
+        "pt": "[Pensamento de Schmidtz]\nEstou planejando lhe aceitar como membro da Guarda Real e a aceitar a habilidade. Está pronto para isso?",
+        "es": "[El fantasma de Schmidt]\nPero me gustaría nombrarte Guardia real de la nueva generación y enseñarte nuestras habilidades secretas. ¿Qué te parece?"
+    },
+    "uw3kAg": {
+        "en": "Sure.",
+        "pt": "É claro, com certeza",
+        "es": "Claro."
+    },
+    "vA3kAg": {
+        "en": "Sorry, no.",
+        "pt": "Ainda não",
+        "es": "No quiero, disculpa."
+    },
+    "vQ3kAg": {
+        "en": "[Schmidt's Ghost]\nI see. Heinrich was wrong about you, then.",
+        "pt": "[Pensamento de Schmidtz]\nHumm, talvez Hainrich tenha julgado errado.",
+        "es": "[El fantasma de Schmidt]\nYa veo. Heinrich se equivocó contigo, entonces."
+    },
+    "vg3kAg": {
+        "en": "[Schmidt's Ghost]\nOkay, then I'll impart the hitherto lost power of the Royal Guard to you now.",
+        "pt": "[Pensamento de Schmidtz]\nSe sim, prosseguirei para torná-lo um Guarda Real.",
+        "es": "[El fantasma de Schmidt]\nBien, entonces te otorgaré el poder de la Guardia real, que estaba perdido."
+    },
+    "vw3kAg": {
+        "en": "Okay.",
+        "pt": "Ótimo.",
+        "es": "Bueno."
+    },
+    "wA3kAg": {
+        "en": "I'm not ready yet.",
+        "pt": "Ainda não.",
+        "es": "Aún no me preparé."
+    },
+    "wQ3kAg": {
+        "en": "[Schmidt's Ghost]\nHeinrich must have been wrong about you.",
+        "pt": "[Pensamento de Schmidtz]\nTalvez Hainrich teve a imagem errada de você.",
+        "es": "[El fantasma de Schmidt]\nHeinrich debe haberse equivocado contigo."
+    },
+    "wg3kAg": {
+        "en": "[Schmidt's Ghost]\nAlright, but you need to double-check yourself first.",
+        "pt": "[Pensamento de Schmidtz]\nParabéns! Jovem Guarda Real.",
+        "es": "[El fantasma de Schmidt]\nDe acuerdo, pero primero tienes que volver a comprobarlo."
+    },
+    "ww3kAg": {
+        "en": "[Schmidt's Ghost]\nAre you sure you're ready to move on to a new job? Because you don't look like you are.",
+        "pt": "[Pensamento de Schmidtz]\nTem certeza de que quer mudar de classe? Porque não me parece que esteja.",
+        "es": "[El fantasma de Schmidt]\n¿Te sientes capaz de cambiar de clase? Porque no parece que te hayas preparado."
+    },
+    "xA3kAg": {
+        "en": "[Schmidt's Ghost]",
+        "pt": "[Pensamento de Schmidtz]",
+        "es": "[El fantasma de Schmidt]"
+    },
+    "xQ3kAg": {
+        "en": "It's time to inherit the power, young Royal Guard.",
+        "pt": "É hora de herdar o poder, Jovem Guarda Real.",
+        "es": "Es hora de que heredes el poder, joven Guardia real."
+    },
+    "xg3kAg": {
+        "en": "[Schmidt's Ghost]\nWhy don't you get off your mount first?",
+        "pt": "[Pensamento de Schmidtz]\nPor que você não desce de sua montaria primeiro?",
+        "es": "[El fantasma de Schmidt]\n¿Por qué no te bajas de la montura primero?"
+    },
+    "xw3kAg": {
+        "en": "[Schmidt's Ghost]\nPlease always remember\nto use your power for the right reasons and the right people.",
+        "pt": "[Pensamento de Schmidtz]\nSeu poder.¦ \nLembre-se de usar o poder pelo que você acredita, de guardar para o quê....",
+        "es": "[El fantasma de Schmidt]\nSiempre debes acordarte de\nusar tu poder por las razones adecuadas y con las personas correctas."
+    },
+    "yA3kAg": {
+        "en": "Subtle Traces",
+        "pt": "Traço Delicado",
+        "es": "Huellas sutiles"
+    },
+    "yQ3kAg": {
+        "en": "The ground sank while you were investigating. You should dig other places for now.",
+        "pt": "Enquanto investigava, a topografia quebrou. Seria melhor cavar em outros lugares por enquanto.",
+        "es": "Mientras investigabas, el suelo se hundió. Por ahora, deberías cavar en otros lugares."
+    },
+    "yg3kAg": {
+        "en": "There are subtle traces of someone digging up the ground here.",
+        "pt": "Há um vestígio de que alguém já cavou aqui.",
+        "es": "Aquí hay algunos rastros sutiles de que alguien excavó."
+    },
+    "yw3kAg": {
+        "en": "Powerful energy can be felt around here. You'd better check.",
+        "pt": "Posso sentir poder forte por aqui. Seria melhor explorar essa região.",
+        "es": "Se siente una energía arrolladora por aquí. Será mejor que lo compruebes."
+    },
+    "zA3kAg": {
+        "en": "sorc_roya_rune_reset",
+        "pt": "sorcereryal",
+        "es": "sorc_roya_rune_reset"
+    },
+    "zQ3kAg": {
+        "en": "Royal Guard",
+        "pt": "Guarda Real",
+        "es": "Guardia real."
+    },
+    "zg3kAg": {
+        "en": "Rune Knight",
+        "pt": "Cavaleiro Rúnico",
+        "es": "Caballero rúnico."
+    },
+    "zw3kAg": {
+        "en": "Sorcerer",
+        "pt": "Feiticeiro",
+        "es": "Conjurador."
+    },
+    "0A3kAg": {
+        "en": "1 - 5",
+        "pt": "01/05/2025 00:00",
+        "es": "1 - 5"
+    },
+    "0Q3kAg": {
+        "en": "Adjust Royal Guard set item.\nOnly a number between 1 and 5 can be entered.",
+        "pt": "ajuste guarda Real estabelecer item\nNão foi possível inserir número 1 ~ 5.",
+        "es": "Ajusta el objeto de conjunto de la Guardia real.\nSolo se puede ingresar un número entre 1 y 5."
+    },
+    "0g3kAg": {
+        "en": "It's done.",
+        "pt": "Está pronto",
+        "es": "Listo."
+    },
+    "0w3kAg": {
+        "en": "1 - 24",
+        "pt": "01/01/2024 00:00",
+        "es": "1 - 24"
+    },
+    "1A3kAg": {
+        "en": "Adjust Rune Knight set item.\nOnly a number between 1 and 24 can be entered.",
+        "pt": "Ajuste Cavaleiro Rúnico estabelecer item\nNão foi possível inserir número 1 ~ 24.",
+        "es": "Ajusta el objeto de conjunto de Caballero rúnico.\nSolo se puede ingresar un número entre 1 y 24."
+    },
+    "1Q3kAg": {
+        "en": "Adjust Sorcerer set item.\nOnly a number between 1 and 5 can be entered.",
+        "pt": "Ajuste Feiticeiro estabelecer item\nNão foi possível inserir número 1 ~ 5.",
+        "es": "Ajusta el objeto de conjunto de Conjurador.\nSolo se puede ingresar un número entre 1 y 5."
+    }
+}

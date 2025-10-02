@@ -1,0 +1,102 @@
+{
+    "wLr/Bw": {
+        "en": "Juperos Manager",
+        "pt": "Gerente de Juperos",
+        "es": "Juperos Manager"
+    },
+    "wbr/Bw": {
+        "en": "[Juperos Manager]\nI'm the NPC in\ncharge of managing\nthe global variables for\nthe quests related to\nJuperos. GM, please\nenter the password.",
+        "pt": "[Gerente de Juperos]\nSou a NPC\nencarregada de gerenciar\nas variáveis globais para\nas missões relacionadas a\nJuperos. GM, por favor\ndigite a senha.",
+        "es": "[Administrador de Juperos]\nSoy el PNJ\na cargo de administrar\nlas variables globales para\nlas búsquedas relacionadas con\nJuperos. GM, por favor,\ningresa la contraseña."
+    },
+    "wrr/Bw": {
+        "en": "[Juperos Manager]\nSelect a map. Remember:\nMake sure that users aren't\ndoing the quest on the map\nyou're going to reset, or else\nyou'll cancel their progress\nthrough the quest.",
+        "pt": "[Gerente de Juperos]\nEscolha um mapa. Lembre-se:\ncertifique-se de que não haja\nusuários jogando a missão no mapa\nque você vai resetar, se não\nvocê vai cancelar o progresso deles\nna missão.",
+        "es": "[Administrador de Juperos]\nSelecciona un mapa. Recuerda:\nasegúrate de que los usuarios no\nestén haciendo la misión en el mapa\nque vas a reiniciar; de lo contrario,\ncancelarás su progreso\nen toda la misión."
+    },
+    "w7r/Bw": {
+        "en": "jupe_Area1",
+        "pt": "jupe_Area1",
+        "es": "jupe_Area1"
+    },
+    "xLr/Bw": {
+        "en": "jupe_Area2",
+        "pt": "jupe_Area2",
+        "es": "jupe_Area2"
+    },
+    "xbr/Bw": {
+        "en": "jupe_ele_r",
+        "pt": "jupe_ele_r",
+        "es": "jupe_ele_r"
+    },
+    "xrr/Bw": {
+        "en": "jupe_ele",
+        "pt": "jupe_ele",
+        "es": "jupe_ele"
+    },
+    "x7r/Bw": {
+        "en": "[Juperos Manager]\nYou've decided\nto reset jupe_Area1.\nShall we proceed?",
+        "pt": "[Gerente de Juperos]\nVocê decidiu\nresetar jupe_Area1.\nDevo continuar?",
+        "es": "[Administrador de Juperos]\nDecidiste\nreiniciar jupe_Area1.\n¿Continuamos?"
+    },
+    "yLr/Bw": {
+        "en": "Yes.",
+        "pt": "Sim.",
+        "es": "Sí."
+    },
+    "ybr/Bw": {
+        "en": "No.",
+        "pt": "Não.",
+        "es": "No."
+    },
+    "yrr/Bw": {
+        "en": "[Juperos Manager]\nThe global variable in\njupe_Area1 has been\nreset to 0. Thank you.",
+        "pt": "[Gerente de Juperos]\nA variável global em\njupe_Area1 foi\nresetada para 0. Obrigada.",
+        "es": "[Administrador de Juperos]\nLa variable global en\njupe_Area1 se\nreinició a 0. Gracias."
+    },
+    "y7r/Bw": {
+        "en": "[Juperos Manager]\nThis command\nhas been canceled.",
+        "pt": "[Gerente de Juperos]\nEste comando\nfoi cancelado.",
+        "es": "[Administrador de Juperos]\nEste comando\nse canceló."
+    },
+    "zLr/Bw": {
+        "en": "[Juperos Manager]\nYou've decided\nto reset jupe_Area2.\nShall we proceed?",
+        "pt": "[Gerente de Juperos]\nVocê decidiu\nresetar jupe_Area2.\nDevo continuar?",
+        "es": "[Administrador de Juperos]\nDecidiste\nreiniciar jupe_Area2.\n¿Continuamos?"
+    },
+    "zbr/Bw": {
+        "en": "[Juperos Manager]\nThe global variable in\njupe_Area2 has been\nreset to 0. Thank you.",
+        "pt": "[Gerente de Juperos]\nA variável global em\njupe_Area2 foi\nresetada para 0. Obrigada.",
+        "es": "[Administrador de Juperos]\nLa variable global en\njupe_Area2 se\nreinició a 0. Gracias."
+    },
+    "zrr/Bw": {
+        "en": "[Juperos Manager]\nYou've decided\nto reset jupe_ele_r.\nShall we proceed?",
+        "pt": "[Gerente de Juperos]\nVocê decidiu\nresetar jupe_ele_r.\nDevo continuar?",
+        "es": "[Administrador de Juperos]\nDecidiste\nreiniciar jupe_ele_r.\n¿Continuamos?"
+    },
+    "z7r/Bw": {
+        "en": "[Juperos Manager]\nThe global variable in\njupe_ele_r has been\nreset to 0. Thank you.",
+        "pt": "[Gerente de Juperos]\nA variável global em\njupe_ele_r foi\nresetada para 0. Obrigada.",
+        "es": "[Administrador de Juperos]\nLa variable global en\njupe_ele_r se\nreinició a 0. Gracias."
+    },
+    "0Lr/Bw": {
+        "en": "[Juperos Manager]\nCommand has been canceled.",
+        "pt": "[Gerente de Juperos]\nO comando foi cancelado.",
+        "es": "[Administrador de Juperos]\nSe canceló el comando."
+    },
+    "0br/Bw": {
+        "en": "[Juperos Manager]\nYou've decided\nto reset jupe_ele.\nShall we proceed?",
+        "pt": "[Gerente de Juperos]\nVocê decidiu\nresetar jupe_ele.\nDevo continuar?",
+        "es": "[Administrador de Juperos]\nDecidiste\nreiniciar jupe_ele.\n¿Continuamos?"
+    },
+    "0rr/Bw": {
+        "en": "[Juperos Manager]\nThe global variable in\njupe_ele has been\nreset to 0. Thank you.",
+        "pt": "[Gerente de Juperos]\nA variável global em\njupe_ele foi\nresetada para 0. Obrigada.",
+        "es": "[Administrador de Juperos]\nLa variable global en\njupe_ele_r se\nreinició a 0. Gracias."
+    },
+    "07r/Bw": {
+        "en": "[Juperos Manager]\nIncorrect password.",
+        "pt": "[Gerente de Juperos]\nSenha incorreta.",
+        "es": "[Administrador de Juperos]\nContraseña incorrecta."
+    }
+}

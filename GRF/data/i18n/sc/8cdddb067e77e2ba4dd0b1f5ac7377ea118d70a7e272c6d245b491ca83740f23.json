@@ -1,0 +1,431 @@
+{
+    "oJCgAQ": {
+        "ko": "어둠의 환전상",
+        "en": "Dark Merchant K",
+        "pt": "Negociante K",
+        "es": "Mercader Oscuro K"
+    },
+    "oZCgAQ": {
+        "ko": "보유한 물건의 종류가 너무 많은것 같다. 물건의 종류를 줄인뒤에 다시 진행해보자.",
+        "en": "You have too many types of items in your inventory.",
+        "pt": "Você tem muitos tipos de itens em seu inventário.",
+        "es": "Tienes demasiados tipos de objetos en tu inventario."
+    },
+    "opCgAQ": {
+        "ko": "가진 물건이 너무 무거워 더이상의 진행이 힘들 것 같다. 무게를 줄인 후 다시 도전해보자.",
+        "en": "Your inventory is too heavy to proceed. Come back after lightening your load.",
+        "pt": "Seu inventário está muito cheio para prosseguir. Volte depois de aliviar sua carga.",
+        "es": "Tu inventario está demasiado pesado para continuar. Vuelve después de reducir tu carga."
+    },
+    "o5CgAQ": {
+        "ko": "[환전상 K]\n거래 감사합니다.\n^FF0000C코인 10개^000000당 ^3333FF모라마을의 주화 1개^000000로 교환해 드리고 있습니다. 그럼 거래를 시작해볼까요?",
+        "en": "[Merchant K]\nThank you for the trade.\nWe exchange ^FF000010 C grade Coins^000000 for ^3333FF1 Mora Town Coin^000000. Shall we begin then?",
+        "pt": "[Negociante K]\nCerto.\nTrocamos ^FF000010 Moedas Classe C^000000 por ^3333FF1 Moeda de Mora^000000. Vamos começar?",
+        "es": "[Comerciante K]\nGracias por el canje\nCanjeamos ^FF000010 Monedas de grado C^000000 por ^3333FF1 Moneda de la aldea Mora^000000. ¿Empezamos?"
+    },
+    "pJCgAQ": {
+        "ko": "^AAAAAA1개로 교환(수량부족)^000000",
+        "en": "^AAAAAA1 coin exchange(Not Enough)^000000",
+        "pt": "^AAAAAATrocar por 1 Moeda de Mora (insuficiente)^000000",
+        "es": "^AAAAAACanje de 1 moneda (no es suficiente)^000000"
+    },
+    "pZCgAQ": {
+        "ko": "모라마을주화 1개로 교환",
+        "en": "Exchange to 1 Mora Coin",
+        "pt": "Trocar por 1 Moeda de Mora",
+        "es": "Canjear a 1 Moneda Mora"
+    },
+    "ppCgAQ": {
+        "ko": "^AAAAAA10개로 교환(수량부족)^000000",
+        "en": "^AAAAAA10 coin exchange(Not Enough)^000000",
+        "pt": "^AAAAAATrocar por 10 Moedas de Mora (insuficiente)^000000",
+        "es": "^AAAAAACanje de 10 monedas (no es suficiente)^000000"
+    },
+    "p5CgAQ": {
+        "ko": "모라마을주화 10개로 교환",
+        "en": "Mora Coin 10 Mora Coin",
+        "pt": "Trocar por 10 Moedas de Mora",
+        "es": "Moneda Mora 10 Moneda Mora"
+    },
+    "qJCgAQ": {
+        "ko": "^AAAAAA50개로 교환(수량부족)^000000",
+        "en": "^AAAAAA50 coin exchange(Not Enough)^000000",
+        "pt": "^AAAAAATrocar por 50 Moedas de Mora (insuficiente)^000000",
+        "es": "^AAAAAACanje de 50 monedas (no es suficiente)^000000"
+    },
+    "qZCgAQ": {
+        "ko": "모라마을주화 50개로 교환",
+        "en": "Mora Coin 50 Mora Coin",
+        "pt": "Trocar por 50 Moedas de Mora",
+        "es": "Moneda Mora 50 Moneda Mora"
+    },
+    "qpCgAQ": {
+        "ko": "^AAAAAA100개로 교환(수량부족)^000000",
+        "en": "^AAAAAA100 coin exchange(Not Enough)^000000",
+        "pt": "^AAAAAATrocar por 100 Moedas de Mora (insuficiente)^000000",
+        "es": "^AAAAAACanje de 100 monedas (no es suficiente)^000000"
+    },
+    "q5CgAQ": {
+        "ko": "모라마을주화 100개로 교환",
+        "en": "Mora Coin 100 Mora Coin",
+        "pt": "Trocar por 100 Moedas de Mora",
+        "es": "Moneda Mora 100 Moneda Mora"
+    },
+    "rJCgAQ": {
+        "ko": "그만둡니다",
+        "en": "Quit",
+        "pt": "Sair",
+        "es": "Salir."
+    },
+    "rZCgAQ": {
+        "ko": "[환전상 K]\n다음에 또 거래하도록 하지요",
+        "en": "[Merchant K]\nLet's exchange some other time.",
+        "pt": "[Negociante K]\nVolte sempre!",
+        "es": "[Comerciante K]\nCanjeemos en otro momento."
+    },
+    "rpCgAQ": {
+        "ko": "[환전상 K]\nC코인 ^FF0000{0}^000000개를 가져오셔야 거래를 하실 수 있습니다. 지금은 수량이 모자란 것 같군요",
+        "en": "[Merchant K]\nYou need ^FF0000{0}^000000 C grade coins to perform exchange. But you don't seem to have enough now.",
+        "pt": "[Comerciante K]\nVocê precisa de ^FF0000{0}^000000x Moeda Classe C para realizar a troca. Mas parece que você não tem o suficiente.",
+        "es": "[Comerciante K]\nNecesitas ^FF0000{0}^000000 Monedas de gradoC para realizar el canje. Pero parece que ahora no tienes suficientes."
+    },
+    "r5CgAQ": {
+        "ko": "[환전상 K]\n소지하지 않은 코인을 선택하셨습니다.\n작업을 중단합니다. 이용해주셔서 감사합니다.",
+        "en": "[Merchant K]\nYou've chosen coin you don't have.\nAborting the process. Thank you for using our service.",
+        "pt": "[Negociante K]\nVocê escolheu uma moeda que não tem.\nAbortando o processo. Agradecemos pela preferência.",
+        "es": "[Comerciante K]\nElegiste una moneda que no tienes.\nCancelar el proceso. Gracias por usar nuestro servicio."
+    },
+    "sJCgAQ": {
+        "ko": "C급코인",
+        "en": "C grade Coin",
+        "pt": "Moeda Classe C",
+        "es": "Moneda de gradoC"
+    },
+    "sZCgAQ": {
+        "ko": "[환전상 K]\n정상적인 메뉴 선택을 하지 않으셨습니다.\n작업을 종료합니다. 이용해주셔서 감사합니다.",
+        "en": "[Merchant K]\nYou've chosen an abnormal menu.\nAborting the process. Thank you for using our service.",
+        "pt": "[Negociante K]\nVocê escolheu um menu anormal.\nAbortando o processo. Agradecemos sua visita.",
+        "es": "[Comerciante K]\nElegiste un menú anormal.\nCancelar el proceso. Gracias por usar nuestro servicio."
+    },
+    "spCgAQ": {
+        "ko": "[환전상 K]\n{0} ^003399{1}^000000개. 잘 받았습니다\n약속대로 모라마을 주화 ^003399{2}^000000개로 환전해 드렸습니다",
+        "en": "[Merchant K]\n^003399{1}^000000 {0},\nexchanged to ^003399{2}^000000 Mora Town Coins.",
+        "pt": "[Negociante K]\n^003399{1}^000000x {0}\nserão trocados por ^003399{2}^000000x Moeda de Mora.",
+        "es": "[Comerciante K]\n^003399{1}^000000 {0},\nCanjeaste ^003399{2}^000000 Monedas de la aldea Mora."
+    },
+    "s5CgAQ": {
+        "ko": "[환전상 K]\n계속 교환 하시겠습니까?",
+        "en": "[Merchant K]\nWould you like to continue?",
+        "pt": "[Negociante K]\nGostaria de continuar?",
+        "es": "[Comerciante K]\n¿Quieres continuar?"
+    },
+    "tJCgAQ": {
+        "ko": "[환전상 K]\n^FF0000C코인 10^000000개를 가져오셔야 거래를 하실 수 있습니다. 지금은 수량이 모자란 것 같군요",
+        "en": "[Merchant K]\nYou need ^FF000010 C grade coins^000000 to perform the exchange. Not enough for now.",
+        "pt": "[Negociante K]\nVocê precisa de ^FF000010 moedas de Classe C^000000 para realizar a troca. A quantia que você tem não é suficiente.",
+        "es": "[Comerciante K]\nNecesitas ^FF000010 Monedas de gradoC^000000 para realizar el canje. No es suficiente."
+    },
+    "tZCgAQ": {
+        "ko": "어둠의환전기TX100",
+        "en": "Dark Machine TX100",
+        "pt": "Máquina Sombria TX100",
+        "es": "Dark Machine TX100"
+    },
+    "tpCgAQ": {
+        "ko": "[어둠의환전기TX100]\nTX100 을 방문해 주셔서 감사합니다. 가지고 계신 코인을 대량으로 상급의 코인이나 하급의 코인으로 환전하실 수 있습니다.",
+        "en": "[Dark Machine TX100]\nThank you for visiting TX100. You can exchange coins into higher or lower level coins.",
+        "pt": "[Máquina Sombria TX100]\nObrigado por visitar o TX100. Você pode trocar moedas por moedas de nível alto ou baixo.",
+        "es": "[Máquina Oscura TX100]\nGracias por visitar TX 100. Puedes canjear monedas por monedas de nivel alto o bajo."
+    },
+    "t5CgAQ": {
+        "ko": "[어둠의환전기TX100]\n단, 하급으로 변환할때는 1회 최대 500개까지. 상급으로 변환시 99개 까지만 변환 가능합니다. 참고하십시오.",
+        "en": "[Dark Machine TX100]\nFor lower level coins exchange you can do 500 as a 1 time maximum, and for higher level coins 99 coins are maximum for 1 time exchange.",
+        "pt": "[Máquina Sombria TX100]\nPara troca de moedas por níveis inferiores, você pode utilizar 500 moedas no máximo e, para moedas de níveis superiores, 99 moedas é o máximo que pode ser utilizado para uma troca.",
+        "es": "[Máquina Oscura TX100]\nPara el canje de monedas de nivel bajo, puedes usar 500 como máximo 1 vez y para las monedas de nivel alto, 99 monedas son el máximo para el canje de 1 vez."
+    },
+    "uJCgAQ": {
+        "ko": "^AAAAAANyangvine_Fruit (없음)^000000",
+        "en": "^AAAAAANyangvine (None)^000000",
+        "pt": "^AAAAAAMiauMiau (insuficiente)^000000",
+        "es": "^AAAAAAMiaufruto (Ninguno)^000000"
+    },
+    "uZCgAQ": {
+        "ko": "^AAAAAAA급코인 (없음)^000000",
+        "en": "^AAAAAAA grade Coin (None)^000000",
+        "pt": "^AAAAAAMoeda Classe A (insuficiente)^000000",
+        "es": "^AAAAAAMoneda de Clase A (ninguna)^000000"
+    },
+    "upCgAQ": {
+        "ko": "^AAAAAAB급코인 (없음)^000000",
+        "en": "^AAAAAAB grade Coin (None)^000000",
+        "pt": "^AAAAAAMoeda Classe B (insuficiente)^000000",
+        "es": "^AAAAAAMoneda de Clase B (ninguna)^000000"
+    },
+    "u5CgAQ": {
+        "ko": "^AAAAAAC급코인 (없음)^000000",
+        "en": "^AAAAAAC grade Coin (None)^000000",
+        "pt": "^AAAAAAMoeda Classe C (insuficiente)^000000",
+        "es": "^AAAAAAMoneda de Clase C (ninguna)^000000"
+    },
+    "vJCgAQ": {
+        "ko": "^AAAAAAD급코인 (없음)^000000",
+        "en": "^AAAAAAD grade Coin (None)^000000",
+        "pt": "^AAAAAAMoeda Classe D (insuficiente)^000000",
+        "es": "^AAAAAAMoneda de Clase D (ninguna)^000000"
+    },
+    "vZCgAQ": {
+        "ko": "^AAAAAAE급코인 (없음)^000000",
+        "en": "^AAAAAAE grade Coin (None)^000000",
+        "pt": "^AAAAAAMoeda Classe E (insuficiente)^000000",
+        "es": "^AAAAAAMoneda de Clase E (ninguna)^000000"
+    },
+    "vpCgAQ": {
+        "ko": "Nyangvine_Fruit {0}개",
+        "en": "Nyangvine {0} quantity",
+        "pt": "{0}x MiauMiau",
+        "es": "Miaumiau. Cantidad: {0}"
+    },
+    "v5CgAQ": {
+        "ko": "A급코인 {0}개",
+        "en": "A grade Coin {(v[Agrade_Coin])} quantity",
+        "pt": "{(v[Agrade_Coin])}x Moeda Classe A",
+        "es": "Moneda de Clase A. Cantidad: {(v[Agrade_Coin])}"
+    },
+    "wJCgAQ": {
+        "ko": "B급코인 {0}개",
+        "en": "B grade Coin {(v[Bgrade_Coin])} quantity",
+        "pt": "{(v[Bgrade_Coin])}x Moeda Classe B",
+        "es": "Moneda de Clase B. Cantidad: {(v[Bgrade_Coin])}"
+    },
+    "wZCgAQ": {
+        "ko": "C급코인 {0}개",
+        "en": "C grade Coin{(v[Cgrade_Coin])}quantity",
+        "pt": "{(v[Cgrade_Coin])}x Moeda Classe C",
+        "es": "Moneda de Clase C. Cantidad: {(v[Cgrade_Coin])}"
+    },
+    "wpCgAQ": {
+        "ko": "D급코인 {0}개",
+        "en": "D grade Coin{(v[Dgrade_Coin])}quantity",
+        "pt": "{(v[Dgrade_Coin])}x Moeda Classe D",
+        "es": "Moneda de Clase D. Cantidad: {(v[Dgrade_Coin])}"
+    },
+    "w5CgAQ": {
+        "ko": "E급코인 {0}개",
+        "en": "E grade Coin{(v[Egrade_Coin])}quantity",
+        "pt": "{(v[Egrade_Coin])}x Moeda Classe E",
+        "es": "Moneda de Clase E. Cantidad: {(v[Egrade_Coin])}"
+    },
+    "xJCgAQ": {
+        "ko": "[어둠의환전기TX100]\n이용해주셔서 감사합니다.",
+        "en": "[Dark Machine TX100]\nThank you for using.",
+        "pt": "[Máquina Sombria TX100]\nObrigado por usar.",
+        "es": "[Máquina Oscura TX100]\nGracias por utilizar."
+    },
+    "xZCgAQ": {
+        "ko": "[어둠의환전기TX100]\n소지하지 않은 코인을 선택하셨습니다.\n작업을 중단합니다. 이용해주셔서 감사합니다.",
+        "en": "[Dark Machine TX100]\nYou've chosen coin you don't have.\nAborting the process. Thank you for using our service.",
+        "pt": "[Máquina Sombria TX100]\nVocê escolheu uma moeda que não possui no inventário.\nAbortando o processo. Agradecemos sua visita.",
+        "es": "[Máquina Oscura TX100]\nElegiste una moneda que no tienes.\nCancelar el proceso. Gracias por usar nuestro servicio."
+    },
+    "xpCgAQ": {
+        "ko": "냥다래열매",
+        "en": "Silvervine",
+        "pt": "MiauMiau",
+        "es": "Miaufruto"
+    },
+    "x5CgAQ": {
+        "ko": "A급코인",
+        "en": "A Class Coin",
+        "pt": "Moeda Classe A",
+        "es": "Moneda de Clase A"
+    },
+    "yJCgAQ": {
+        "ko": "B급코인",
+        "en": "B Class Coin",
+        "pt": "Moeda Classe B",
+        "es": "Moneda de Clase B"
+    },
+    "yZCgAQ": {
+        "ko": "D급코인",
+        "en": "D Class Coin",
+        "pt": "Moeda Classe D",
+        "es": "Moneda de Clase D"
+    },
+    "ypCgAQ": {
+        "ko": "E급코인",
+        "en": "E Class Coin",
+        "pt": "Moeda Classe E",
+        "es": "Moneda de Clase E"
+    },
+    "y5CgAQ": {
+        "ko": "[어둠의환전기TX100]\n정상적인 메뉴 선택을 하지 않으셨습니다.\n작업을 종료합니다. 이용해주셔서 감사합니다.",
+        "en": "[Dark Machine TX100]\nYou've chosen abnormal menu.\nAborting the process. Thank you for using our service.",
+        "pt": "[Máquina Sombria TX100]\nVocê escolheu um menu anormal.\nAbortando o processo. Agradecemos sua visita.",
+        "es": "[Máquina Oscura TX100]\nElegiste el menú anormal.\nCancelar el proceso. Gracias por usar nuestro servicio."
+    },
+    "zJCgAQ": {
+        "ko": "[어둠의환전기TX100]\n----환전비율----\n상급환전 - 3 대 1\n하급환전 - 1 대 3\n----------------\n^FF3333환전시 시세에 따른 수수료가 환전된 코인에서 일부 공제됩니다^000000",
+        "en": "[Dark Machine TX100]\n----Exchange Rate----\nHigh Coin - 3 to 1\nLow Coin - 1 to 3\n----------------\n^FF3333We take a small vendor fee from your exchanged coins^000000",
+        "pt": "[Máquina Sombria TX100]\n----Taxa de câmbio----\nMoedas baixas por altas - 3 para 1\nMoeda altas por baixas - 1 para 3\n----------------\nNós cobramos uma pequena taxa por suas moedas trocadas^000000",
+        "es": "[Máquina Oscura TX100]\n----Tasa de canje----\nMoneda alta - 3 a 1\nMoneda baja - 1 a 3\n----------------\n^FF3333Cobramos una pequeña comisión a los vendedores por las monedas canjeadas^000000"
+    },
+    "zZCgAQ": {
+        "ko": "^AAAAAA상급코인으로 환전(모자람)^000000",
+        "en": "^AAAAAAExchange to high level coin. (Not enough)^000000",
+        "pt": "^AAAAAATrocar para Moeda Classe alta (insuficiente) ^000000",
+        "es": "^AAAAAACanjear a moneda de nivel alto. (no es suficiente)^000000"
+    },
+    "zpCgAQ": {
+        "ko": "^AAAAAA하급코인으로 환전(모자람)^000000",
+        "en": "^AAAAAAExchange to low level coin. (Not enough)^000000",
+        "pt": "^AAAAAATrocar para Moeda Classe baixa (insuficiente) ^000000",
+        "es": "^AAAAAACanjear a moneda de nivel bajo. (no es suficiente)^000000"
+    },
+    "z5CgAQ": {
+        "ko": "{0}99 개를 상급코인으로 환전",
+        "en": "Exchange 99 {0} into high level coin",
+        "pt": "Trocar 99x {0} por Moedas Classe alta",
+        "es": "{0}Canjear 99 por monedas de nivel alto"
+    },
+    "0JCgAQ": {
+        "ko": "{0}500개를 하급코인으로 환전",
+        "en": "Exchange 500 {0} into low level coin",
+        "pt": "Troca 500x {0} por Moedas Classe baixa",
+        "es": "{0}Canjear 500 por monedas de nivel bajo"
+    },
+    "0ZCgAQ": {
+        "ko": "{0}개를 하급코인으로 환전",
+        "en": "Exchange {0} into low level coin",
+        "pt": "Trocar {v[coin_s_db]+coin_name} por Moeda Classe baixa",
+        "es": "Canjear {0}por monedas de nivel bajo"
+    },
+    "0pCgAQ": {
+        "ko": "^FF3333상급코인으로 환전 불가^000000",
+        "en": "^FF3333Cannot exchange to higher level coin.^000000",
+        "pt": "^FF3333Não é possível subir a classe dessa moeda.^000000",
+        "es": "^FF3333No se puede canjear a moneda de nivel alto^000000"
+    },
+    "05CgAQ": {
+        "ko": "^FF3333하급코인으로 환전 불가^000000",
+        "en": "^FF3333Cannot exchange to lower level coin.^000000",
+        "pt": "^FF3333Não é possível baixar a classe dessa moeda.^000000",
+        "es": "^FF3333No se puede canjear a moneda de nivel bajo^000000"
+    },
+    "1JCgAQ": {
+        "ko": "[어둠의환전기TX100]\n해당 코인은 상급으로 환전불가능합니다.\n작업을 종료합니다. 이용해주셔서 감사합니다.",
+        "en": "[Dark Machine TX100]\nThis coin cannot be exchanged to a higher level coin.\nAborting the process. Thank you for using our service.",
+        "pt": "[Máquina Sombria TX100]\nEsta moeda não pode ser trocada por uma moeda de classe superior.\nAbortando o processo. Agradecemos sua visita.",
+        "es": "[Máquina Oscura TX100]\nEsta moneda no se puede canjear por monedas de nivel alto.\nCancelar el proceso. Gracias por usar nuestro servicio."
+    },
+    "1ZCgAQ": {
+        "ko": "[어둠의환전기TX100]\n환전될 하급코인을 이미 너무 많이 가지고 계십니다. 정리후에 다시 환전해주세요",
+        "en": "[Dark Machine TX100]\nYou have too many low level coins already. Please come back with less coins.",
+        "pt": "[Máquina Sombria TX100]\nVocê já tem muitas moedas de classe baixa. Por favor, volte com menos moedas.",
+        "es": "[Máquina Oscura TX100]\nYa tienes demasiadas monedas de nivel alto. Regresa con menos monedas."
+    },
+    "1pCgAQ": {
+        "ko": "상급",
+        "en": "Higher Level",
+        "pt": "Classe superior",
+        "es": "Nivel alto"
+    },
+    "15CgAQ": {
+        "ko": "[어둠의환전기TX100]\n상급으로 환전할 코인이 부족합니다.\n작업을 종료합니다. 이용해주셔서 감사합니다.",
+        "en": "[Dark Machine TX100]\nYou have not enough coins for high level coin exchange.\nAborting the process. Thank you for using our service.",
+        "pt": "[Máquina Sombria TX100]\nVocê não tem moedas suficientes para a troca de moedas de classe alta.\nAbortando o processo. Agradecemos sua visita.",
+        "es": "[Máquina Oscura TX100]\nNo tienes suficientes monedas para el canje de monedas de nivel alto.\nCancelar el proceso. Gracias por usar nuestro servicio."
+    },
+    "2JCgAQ": {
+        "ko": "[어둠의환전기TX100]\n해당 코인은 하급으로 환전불가능합니다.\n작업을 종료합니다. 이용해주셔서 감사합니다.",
+        "en": "[Dark Machine TX100]\nThis coin cannot be exchange to low level coin.\nAborting the process. Thank you for using our service.",
+        "pt": "[Máquina Sombria TX100]\nEsta moeda não pode ser trocada por uma moeda de classe inferior.\nAbortando o processo. Agradecemos sua visita.",
+        "es": "[Máquina Oscura TX100]\nEsta moneda no se puede canjear por monedas de nivel bajo.\nCancelar el proceso. Gracias por usar nuestro servicio."
+    },
+    "2ZCgAQ": {
+        "ko": "^FF0000[경고]^000000\n^FF0000냥다래 열매 {0}개로 하급 코인 환전을 진행합니다.^000000\n^FF0000위의 교환된 아이템은 청약철회대상에 포함되지 않으며, 냥다래 열매로의 재교환 역시 불가능합니다.^000000",
+        "en": "^FF0000[Warning]^000000\nExchanging ^FF0000{0} Nyangvine Fruits for lower-grade coins.^000000\n^FF0000The above exchanged items are not eligible for cancellation, and cannot be exchanged for Nyangdvine Fruits again.^000000",
+        "pt": "^FF0000[Aviso]^000000\nTrocando ^FF0000{0}x MiauMiau por moedas de classe inferior.^000000\n^FF0000Você não poderá desfazer dessa troca e você não poderá transformar essas moedas em MiauMiau.^000000",
+        "es": "^FF0000[Advertencia]^000000\nIntercambiando ^FF0000 {0} Miaufruto por monedas de menor calidad.^000000\n^FF0000Los artículos intercambiados no se pueden cancelar y no se pueden volver a intercambiar por Frutas Miaufruto.^000000"
+    },
+    "2pCgAQ": {
+        "ko": "계속한다.",
+        "en": "Continue.",
+        "pt": "Continuar.",
+        "es": "Continuar."
+    },
+    "25CgAQ": {
+        "ko": "그만둔다.",
+        "en": "Quit.",
+        "pt": "Sair.",
+        "es": "Salir."
+    },
+    "3JCgAQ": {
+        "ko": "[어둠의환전기TX100]\n사용자 요청으로 교환을 중지합니다. 다음에 다시 찾아주세요.",
+        "en": "[Dark Machine TX100]\nExchanges are suspended at user request. Please try again later.",
+        "pt": "[Máquina Sombria TX100]\nTroca suspensa a pedido do usuário. Tente novamente mais tarde.",
+        "es": "[Máquina Oscura TX100]\nLos intercambios están suspendidos a petición del usuario. Inténtalo de nuevo más tarde."
+    },
+    "3ZCgAQ": {
+        "ko": "하급",
+        "en": "Lower Level",
+        "pt": "Classe inferior",
+        "es": "Nivel bajo"
+    },
+    "3pCgAQ": {
+        "ko": "[어둠의환전기TX100]\n하급으로 환전할 코인이 부족합니다.\n작업을 종료합니다. 이용해주셔서 감사합니다.",
+        "en": "[Dark Machine TX100]\nYou have not enough coins for low level coin exchange.\nAborting the process. Thank you for using our service.",
+        "pt": "[Máquina Sombria TX100]\nVocê não tem moedas suficientes para a troca de moedas de classe baixa.\nAbortando o processo. Agradecemos sua visita.",
+        "es": "[Máquina Oscura TX100]\nNo tienes suficientes monedas para el canje de monedas de nivel bajo.\nCancelar el proceso. Gracias por usar nuestro servicio."
+    },
+    "35CgAQ": {
+        "ko": "[어둠의환전기TX100]\n^003399{0}^000000코인 ^003399{1}^000000개를 접수하여\n환전수수료^003399{2}^000000개 를 제외한 ^003399{3}^000000개의 ^003399{4}코인^000000으로 환전해 드렸습니다.",
+        "en": "[Dark Machine TX100]\nTake Receive^003399{0}^000000coin ^003399{1}^000000\nWe have excanged your coin to ^003399{3}^000000 unities of ^003399{4}^000000 coin(s), taking ^003399{2}^000000 as exchange fee.",
+        "pt": "[Máquina Sombria TX100]\nVocê recebeu ^003399{1}^000000x ^003399{0}^000000.\nTrocamos suas moedas por ^003399{3}^000000x ^003399{4}^000000. A taxa de câmbio cobrada foi de ^003399{2}^000000.",
+        "es": "[Máquina Oscura TX100]\nRecibe ^003399{0}^000000monedas ^003399{1}^000000\nCanjeamos tu moneda por ^003399{3}^000000 de ^003399{4}Moneda^000000 y sacamos ^003399{2}^000000 como tasa de canje."
+    },
+    "4JCgAQ": {
+        "ko": "^AAAAAA냥다래열매 (없음)^000000",
+        "en": "^AAAAAANyangvine (None)^000000",
+        "pt": "^AAAAAAMiauMiau (insuficiente)^000000",
+        "es": "^AAAAAAMiaufruto (Ninguno)^000000"
+    },
+    "4ZCgAQ": {
+        "ko": "냥다래열매 {0}개"
+    },
+    "4pCgAQ": {
+        "ko": "냥다래열매 {0}개",
+        "en": "Nyangvine {0} quantity",
+        "pt": "{0}x MiauMiau",
+        "es": "Miaumiau. Cantidad: {0}"
+    },
+    "45CgAQ": {
+        "ko": "A급코인 {0}개",
+        "en": "A grade Coin {0} quantity",
+        "pt": "{0}x Moeda Classe A",
+        "es": "Moneda de Clase A. Cantidad: {0}"
+    },
+    "5JCgAQ": {
+        "ko": "B급코인 {0}개",
+        "en": "B grade Coin {0} quantity",
+        "pt": "{0}x Moeda Classe B",
+        "es": "Moneda de Clase B. Cantidad: {0}"
+    },
+    "5ZCgAQ": {
+        "ko": "C급코인 {0}개",
+        "en": "C grade Coin{0}quantity",
+        "pt": "{0}x Moeda Classe C",
+        "es": "Moneda de Clase C. Cantidad: {0}"
+    },
+    "5pCgAQ": {
+        "ko": "D급코인 {0}개",
+        "en": "D grade Coin{0}quantity",
+        "pt": "{0}x Moeda Classe D",
+        "es": "Moneda de Clase D. Cantidad: {0}"
+    },
+    "55CgAQ": {
+        "ko": "E급코인 {0}개",
+        "en": "E grade Coin{0}quantity",
+        "pt": "{0}x Moeda Classe E",
+        "es": "Moneda de Clase E. Cantidad: {0}"
+    }
+}

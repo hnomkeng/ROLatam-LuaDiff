@@ -1,0 +1,812 @@
+{
+    "gJuCBw": {
+        "ko": "왕실 급사",
+        "en": "Royal Errand Boy",
+        "pt": "Andarilho Real",
+        "es": "Mensajero Real"
+    },
+    "gZuCBw": {
+        "ko": "잠깐! {0}님 아니십니까? 드릴 말씀이 있습니다!!",
+        "en": "Wait! You must be...{0} I have something to tell you!",
+        "pt": "Ei, {0}! Eu tenho algo para te dizer!",
+        "es": "¡Espera! Tú debes ser…{0} ¡Tengo algo que decirte!"
+    },
+    "gpuCBw": {
+        "ko": "이계 원정을 다녀온 영웅을 찾고 있네만...",
+        "en": "I am looking for the hero who returned from the expedition...",
+        "pt": "Procuro alguém que retornou do Outro Mundo...",
+        "es": "Busco al valiente que regresó de la expedición…"
+    },
+    "g5uCBw": {
+        "ko": "- 소지하고 계신 아이템이 많아 퀘스트를 진행할 수 없습니다. -",
+        "en": "- You cannot proceed with the quest since you have too many items. -",
+        "pt": "Libere um pouco de espaço no seu inventário.",
+        "es": "-No puedes continuar con la misión porque tienes demasiados objetos.-"
+    },
+    "hJuCBw": {
+        "ko": "[급사]\n오.. 잠시만요.\n{0}님 아니십니까?!\n어디보자...",
+        "en": "[Errand Boy]\nOh, wait. You are...\n{0}, right?\nLet's see.",
+        "pt": "[Andarilho Real]\nVocê se chama...\n{0}, certo?\nHum, vejamos...",
+        "es": "[Mensajero]\nAh, espera. Eres…\n{0}, ¿verdad?\nVeamos."
+    },
+    "hZuCBw": {
+        "ko": "[급사]\n제가 제대로 알아봤군요. 길드에서 그려준 용모파기와 일치하시네. 하하하하\n이거이거 제 눈이 이제야 제대로 일을 하는 모양입니다.",
+        "en": "[Errand Boy]\nI am right. You look exactly the same as the montage from the guild. Hahahaha!\nMy eyes are doing what they are supposed to do now, I guess.",
+        "pt": "[Andarilho Real]\nRealmente, você se encaixa com a descrição que me deram. Hahaha!",
+        "es": "[Mensajero]\nEstoy en lo correcto. Te ves exactamente igual que en el retrato del gremio. ¡Ja, ja, ja, ja!\nParece que mis ojos finalmente hacen su trabajo, supongo."
+    },
+    "hpuCBw": {
+        "ko": "[급사]\n군 소속이 아닌 자유 모험가 분들은 찾기가 영 힘들어서 말입니다.\n어디 묶여계신 것도 아니니 만나기가 참으로 하늘의 별따기 같았습니다.",
+        "en": "[Errand Boy]\nIt is difficult to find the freelance adventurers who don't belong to the military.\nIt was very difficult to find you since you are not bound to anywhere.",
+        "pt": "[Andarilho Real]\nÉ difícil encontrar viajantes que não pertencem a nenhuma força militar.\nAlguém como você, que não pertence a nenhuma associação, é uma raridade.",
+        "es": "[Mensajero]\nEs difícil encontrar trotamundos independientes que no pertenezcan al ejército.\nMe costó mucho dar contigo, porque no perteneces a ningún lugar."
+    },
+    "h5uCBw": {
+        "ko": "제게 무슨 용무가 있습니까?",
+        "en": "May I help you?",
+        "pt": "Er... Pois não?",
+        "es": "¿Puedo ayudarte?"
+    },
+    "iJuCBw": {
+        "ko": "[급사]\n용무요? 있고말고요.\n왕궁에서 지금 모로크 토벌 축하 연회 중인 거 알고 계시지 않습니까?\n연회초청장은 발급 되었는데 도무지 만날 수가 있었어야지.",
+        "en": "[Errand Boy]\nHelp? Sure thing!\nYou know that there is a banquet taking place in celebration of subjugating Morocc.\nAn invitation has been issued for you. But it was just impossible to meet you.",
+        "pt": "[Andarilho Real]\nOpa! Desculpe por chegar falando de repente...!\nAcontecerá um banquete no palácio para celebrar a salvação de Morroc.\nNos pediram para te convidar, mas ninguém sabia onde você estava...",
+        "es": "[Mensajero]\n¿Ayudar? ¡Claro que sí!\nSabes que se celebra un banquete para conmemorar la derrota de Morroc.\nPues te invitaron. Pero fue casi imposible localizarte."
+    },
+    "iZuCBw": {
+        "ko": "[급사]\n아마 전 도시의 급사들이 전부 이 용모파기를 들고 눈을 번뜩이고 있을 겁니다.\n 자자.. 시간 없으니 여기 연회초청장 받으십시오.",
+        "en": "[Errand Boy]\nI am sure that all the errand boys of the city must be looking for with the portrait of you.\nHey, since we don't have enough time, please take this invitation for you.",
+        "pt": "[Andarilho Real]\nTodos os andarilhos do reino estão te procurando...\nMas que bom que te encontrei. Pegue este convite para o banquete real.",
+        "es": "[Mensajero]\nSeguro que todos los mensajeros del reino deben estar buscándote con tu retrato en mano.\nOye, como ya no hay tiempo, toma tu invitación."
+    },
+    "ipuCBw": {
+        "ko": "[급사]\n반드시 참석 하셔야 합니다. 아시겠습니까? ^4D4DFF귀빈으로 초청^000000되셨다 이겁니다.",
+        "en": "[Errand Boy]\nYou must attend the banquet. Do you understand? ^4D4DFFYou've been invited as a special guest^000000.",
+        "pt": "[Andarilho Real]\nQueremos muito que você vá. ^4D4DFFVocê é mais que especial.^000000.",
+        "es": "[Mensajero]\nTienes que asistir al banquete. ¿Entiendes? ^4D4DFFTienes una invitación especial^000000."
+    },
+    "i5uCBw": {
+        "ko": "귀빈?",
+        "en": "A special guest?",
+        "pt": "Especial?",
+        "es": "¿Una invitación especial?"
+    },
+    "jJuCBw": {
+        "ko": "[급사]\n자세한 내용은 궁에서 직접 전하지 않겠습니까?\n전 일개 심부름꾼에 불과하고 말이죠.\n연회기간이 제법 길긴 하겠지만 너무 늦장 부리진 말아 주세요.",
+        "en": "[Errand Boy]\nThe people in the palace will fill you up with the details.\nI am just a messenger after all.\nAlthough the banquet will be held for quite a while, don't take too much time to get there.",
+        "pt": "[Andarilho Real]\nO pessoal do palácio vai te informar todos os detalhes.\nAfinal de contas, sou só um mensageiro.\nO banquete deve acontecer em breve. Por favor, se dirija até o palácio logo.",
+        "es": "[Mensajero]\nEn el palacio te darán todos los detalles.\nAl fin y al cabo, yo solo soy un mensajero.\nEl banquete durará bastante, pero no tardes mucho en acudir."
+    },
+    "jZuCBw": {
+        "ko": "[급사]\n연회초청장은 꼭 지참하시고요. 연회초청장 잊으시면 안됩니다.\n내친김에 지금 바로 가시죠! ^4D4DFF원하신다면 바로 이동^000000 시켜 드리겠습니다.",
+        "en": "[Errand Boy]\nMake sure to bring the invitation with you. Don't forget!\nWhy don't you go right now? ^4D4DFFI can teleport you there now if you want^000000.",
+        "pt": "[Andarilho Real]\nE, claro, não se esqueça de levar o convite.\nO que acha de ir para lá agora mesmo? ^4D4DFFPosso te teleportar até lá^000000.",
+        "es": "[Mensajero]\nY procura llevar tu invitación. ¡No lo olvides!\n¿Por qué no vas ahora mismo? ^4D4DFFSi quieres, puedo teletransportarte allí ahora^000000."
+    },
+    "jpuCBw": {
+        "ko": "따로 가겠다.",
+        "en": "I'll go on my own.",
+        "pt": "Valeu, mas vou depois.",
+        "es": "Iré por mi cuenta."
+    },
+    "j5uCBw": {
+        "ko": "바로 이동 하겠다.",
+        "en": "I'll go right away.",
+        "pt": "Vamos!",
+        "es": "Iré enseguida."
+    },
+    "kJuCBw": {
+        "ko": "[급사]\n프론테라 왕궁으로 방문 해 주시면 됩니다.\n입구의 경비병에게 연회초청장을 보여주거나\n연회를 담당하는 시중인에게 보이면 될겁니다.",
+        "en": "[Errand Boy]\nYou can visit the Prontera Palace.\nYou may show the invitation to the guard at the gate or\nA servant in charge of the banquet.",
+        "pt": "[Andarilho Real]\nBom, tudo bem. Basta se dirigir até o Palácio de Prontera.\nMostre o convite para o guarda no portão\nou para o servo responsável pelo banquete.",
+        "es": "[Mensajero]\nPuedes visitar el Palacio de Prontera.\nMuéstrale tu invitación al guardia de la puerta\no a un sirviente encargado del banquete."
+    },
+    "kZuCBw": {
+        "ko": "[급사]\n그럼 전 연회초청장을 전해드렸으니 또 다른 분을 기다려야겠군요.\n부디 좋은시간 보내시길. 영웅이여.",
+        "en": "[Errand Boy]\nSince I have delivered the invitation to you, I shall wait for another one.\nI hope you have a good time there, dear hero.",
+        "pt": "[Andarilho Real]\nEspero que aproveite o banquete.",
+        "es": "[Mensajero]\nComo ya cumplí en entregarte la invitación, me toca esperar otra.\nEspero que lo pases muy bien, trotamundos."
+    },
+    "kpuCBw": {
+        "ko": "[급사]\n그럼 바로 이동시켜드리겠습니다.\n도착하시면 마중나온 시중인이 있을테니 연회초청장을 보여주시면 됩니다.",
+        "en": "[Errand Boy]\nLet me teleport you there right away.\nWhen you arrive, there will be a servant for reception. You can show the invitation then.",
+        "pt": "[Andarilho Real]\nEu lhe teleportarei imediatamente.\nQuando você chegar, um criado estará lhe esperando. Mostre o seu convite a ele.",
+        "es": "[Mensajero]\nTe teletransportaré allí de inmediato.\nCuando llegues, habrá un sirviente en la recepción. Muéstrale la invitación."
+    },
+    "k5uCBw": {
+        "ko": "[급사]\n어째, 아직 연회에 안가셨습니까?\n제가 뭐 도와드릴까요?",
+        "en": "[Errand Boy]\nWhy are you still here?\nWhat can I do for you?",
+        "pt": "[Andarilho Real]\nOh... Você ainda está aqui?\nO que posso fazer por você?",
+        "es": "[Mensajero]\n¿Por qué sigues aquí?\n¿En qué te puedo ayudar?"
+    },
+    "lJuCBw": {
+        "ko": "연회장으로 보내주세요.",
+        "en": "Send me to the Banquet Hall.",
+        "pt": "Me leve até o Salão do Banquete, por favor.",
+        "es": "Envíame al Salón de banquetes."
+    },
+    "lZuCBw": {
+        "ko": "연회초청장을 잃어버렸어.",
+        "en": "I have lost the invitation.",
+        "pt": "Eu perdi o convite.",
+        "es": "Perdí la invitación."
+    },
+    "lpuCBw": {
+        "ko": "[급사]\n에엥? 거기 앞섶에 삐져나온 건 연회초청장이 아니면 뭐랍니까?\n제 눈이 아무리 옹이구멍같아도 그건 알아봅니다.",
+        "en": "[Errand Boy]\nEh? What is that you have in your pocket? It looks like an invitation to me.\nI may have a tiny set of eyes, but I wouldn't miss it.",
+        "pt": "[Andarilho Real]\nSerá mesmo? Tô vendo ele aí no seu bolso.\nPosso ter olhos pequenos, mas tô vendo o convite muito bem.",
+        "es": "[Mensajero]\n¿Eh? ¿Qué llevas en el bolsillo? A mí me parece que es una invitación.\nPuede que mis ojos sean pequeños, pero eso sí que lo veo."
+    },
+    "l5uCBw": {
+        "ko": "[급사]\n연회초청장도 찾았으니 연회에 참석 하시지요. 하하하하",
+        "en": "[Errand Boy]\nSince you have found your invitation, let's get going! Hahahaha!",
+        "pt": "[Andarilho Real]\nVamos lá!",
+        "es": "[Mensajero]\nYa que encontraste tu invitación, ¡vamos! ¡Ja, ja, ja, ja!"
+    },
+    "mJuCBw": {
+        "ko": "[급사]\n저런.. 어쩌다 잃어버리셨답니까.\n다만 절 만난 이후로 곧 방문하실거란 전갈이 전해졌으니\n딱히 연회초청장을 소지하지 않아도 되긴 할겁니다.",
+        "en": "[Errand Boy]\nWhat a shame! What happened?\nWell, since the message that you'll be there has already been sent there,\nYou may not really need the invitation anyways.",
+        "pt": "[Andarilho Real]\nPuxa vida!\nBom, já que já sabem que você está a caminho,\nacho que você não precisa do convite.",
+        "es": "[Mensajero]\n¡Qué lástima! ¿Qué sucedió?\nBueno, como ya están informados de tu llegada,\nquizá no necesites la invitación después de todo."
+    },
+    "mZuCBw": {
+        "ko": "[급사]\n입궁하시면 입구에서 담당 시중인이 먼저 알아볼겁니다.\n걱정하지 않으셔도 되니 어서 입궁하시지요.",
+        "en": "[Errand Boy]\nWhen you go to the palace, the servant in charge will recognize you.\nDon't worry, and you may go to the palace now.",
+        "pt": "[Andarilho Real]\nQuando você chegar no palácio, o camareiro lhe reconhecerá.\nVá até o palácio sem medo.",
+        "es": "[Mensajero]\nCuando vayas al palacio, el encargado te reconocerá.\nDescuida, ya puedes ir al castillo."
+    },
+    "mpuCBw": {
+        "ko": "[급사]\n무사히 연회에 참석하셨다는 이야기는 전해들었습니다.\n어서 다른 분들도 찾아서 보내야 할텐데...",
+        "en": "[Errand Boy]\nI have heard that you have attended the banquet safely.\nI need to find the others and send them to the banquet as well.",
+        "pt": "[Andarilho Real]\nFiquei sabendo que você foi ao banquete.\nPreciso encontrar os demais convidados...",
+        "es": "[Mensajero]\nSupe que pudiste asistir al banquete sin problemas.\nTengo que encontrar a los demás invitados y asegurarme de que acudan al banquete."
+    },
+    "m5uCBw": {
+        "ko": "퇴근하고 싶다...",
+        "en": "I want to go home...",
+        "pt": "Quero ir pra casa...",
+        "es": "Quiero irme a casa…"
+    },
+    "nJuCBw": {
+        "ko": "[급사]\n안녕하시오-!\n지금 ^4D4DFF궁에서 최근까지 애쉬-바쿰에서 활약한 분들을 모시고 연회^000000를 열고 있다오.\n혹 당신이 아는 자 중에, ^4D4DFF이계 원정을 다녀온 영웅^000000이 계시다면 좀 일러주시오.",
+        "en": "[Errand Boy]\nHello!\nNow ^4D4DFFthe palace is hosting a banquet for the returning heroes from Vacuum^000000.\nPlease tell me ^4D4DFFwhere the heroes who have participated in the expedition are^000000 if you know any.",
+        "pt": "[Andarilho Real]\nOlá!\nO ^4D4DFFpalácio está oferecendo um banquete aos heróis que voltaram de Ash Vacuum^000000.\nSe você ^4D4DFFsouber onde eles estão,^000000 me informe, por favor.",
+        "es": "[Mensajero]\n¡Hola!\nAhora ^4D4DFFel palacio celebra un banquete en honor a los héroes que regresan de Vacuum^000000.\nSi conoces a alguno, por favor, indícame ^4D4DFFdónde están los héroes que participaron en la expedición^000000."
+    },
+    "nZuCBw": {
+        "ko": "[급사]\n다들 어디에 흩어져있는지 단독으로 활동하는 분들은 참 모시기 힘들구려. 하하하!",
+        "en": "[Errand Boy]\nI wonder where they are. They are so scattered that it is difficult to locate each one of them. Hahaha!",
+        "pt": "[Andarilho Real]\nEles estão tão espalhados que vai ser difícil de encontrá-los...",
+        "es": "[Mensajero]\nMe pregunto dónde estarán. Están tan dispersos que es difícil encontrarlos a todos. ¡Ja, ja, ja!"
+    },
+    "npuCBw": {
+        "ko": "왕궁 경비병",
+        "en": "Royal Guard",
+        "pt": "Guardião Real",
+        "es": "Guardia"
+    },
+    "n5uCBw": {
+        "ko": "미드가르드의 영웅에게 무궁한 영광이-!",
+        "en": "Eternal glory to the hero of the Midgards!",
+        "pt": "Glória eterna aos heróis de Rune-Midgard!",
+        "es": "¡Gloria eterna al héroe de Midgard!"
+    },
+    "oJuCBw": {
+        "ko": "[경비병]\n영웅을 모십니다!\n연회장은 왕궁 내부에 마련되어 있으니 길을 따라 죽 올라가십시오.\n시종이 마중나오도록 전갈을 넣겠습니다.",
+        "en": "[Guard]\nHere comes the hero!\nThe Banquet Hall is inside the palace. You may follow the passage to get there.\nLet me send a message for the Chamberlain to find you.",
+        "pt": "[Guardião Real]\nAí vem quem nos salvou!\nO banquete está acontecendo dentro do palácio. Siga a passagem para chegar lá.\nEnviarei uma mensagem ao camareiro para que ele venha lhe buscar.",
+        "es": "[Guardia]\n¡Aquí está el héroe!\nEl Salón de banquetes está dentro del palacio. Sigue este pasaje y llegarás allí.\nEnviaré un mensaje para que el mayordomo vaya a buscarte."
+    },
+    "oZuCBw": {
+        "ko": "룬-미드가츠의 수도이자 영광스런 왕궁 프론테라에 오신 것을 환영합니다.",
+        "en": "Welcome to the glorious Prontera Palace in the heart of Rune Midgard!",
+        "pt": "Este é o Palácio de Prontera, situado no coração de Rune-Midgard!",
+        "es": "Te doy la bienvenida al glorioso Palacio de Prontera, en el corazón de Rune-Midgarts."
+    },
+    "opuCBw": {
+        "ko": "왕실 수호 기사",
+        "en": "Royal Guardian Knight",
+        "pt": "Templário Real",
+        "es": "Caballero de la Guardia Real"
+    },
+    "o5uCBw": {
+        "ko": "연회에 참석하십니까?",
+        "en": "Would you attend the Banquet?",
+        "pt": "Você deseja participar do banquete?",
+        "es": "¿Asistirás al banquete?"
+    },
+    "pJuCBw": {
+        "ko": "[왕실 수호 기사]\n연회장으로 입장 하시겠습니까?",
+        "en": "[Royal Guardian Knight]\nWould you enter the Banquet Hall?",
+        "pt": "[Templário Real]\nDeseja entrar no salão do banquete?",
+        "es": "[Caballero de la guardia real]\n¿Deseas entrar al Salón de banquetes?"
+    },
+    "pZuCBw": {
+        "ko": "입장한다.",
+        "en": "Enter.",
+        "pt": "Entrar.",
+        "es": "Entrar."
+    },
+    "ppuCBw": {
+        "ko": "입장하지 않는다.",
+        "en": "Do not enter.",
+        "pt": "Não entrar.",
+        "es": "No entrar."
+    },
+    "p5uCBw": {
+        "ko": "[왕실 수호 기사]\n안으로 모시겠습니다.",
+        "en": "[Royal Guardian Knight]\nLet me escort you inside.",
+        "pt": "[Templário Real]\nEu acompanharei você.",
+        "es": "[Caballero de la guardia real]\nDéjame acompañarte."
+    },
+    "qJuCBw": {
+        "ko": "[왕실 수호 기사]\n연회장은 계속 개방될 예정입니다. 언제든 방문 해 자리를 빛내 주십시오.",
+        "en": "[Royal Guardian Knight]\nThe Banquet Hall will be open at all times. Please honor the banquet with your presence.",
+        "pt": "[Templário Real]\nO salão do banquete estará aberto o tempo todo. Entre quando quiser.",
+        "es": "[Caballero de la guardia real]\nEl Salón de banquetes estará abierto en todo momento. Sería un honor contar con tu presencia en el banquete."
+    },
+    "qZuCBw": {
+        "ko": "시종",
+        "en": "Chamberlain",
+        "pt": "Anunciante",
+        "es": "Mayordomo"
+    },
+    "qpuCBw": {
+        "ko": "[시종]\n연회는 즐거우십니까?\n오랜만의 왕실행사라 준비를 많이 했답니다.\n마음에 드셨으면 좋겠습니다.",
+        "en": "[Chamberlain]\nAre you having a good time?\nWe have put a lot of efforts since it's a big event in the palace in a long while.\nI hope you like it.",
+        "pt": "[Anunciante]\nVocê está aproveitando a sua estadia?\nNos esforçamos muito em oferecer um banquete à altura deste evento.\nEsperamos que você goste.",
+        "es": "[Mayordomo]\n¿Te lo estás pasando bien?\nNos esforzamos mucho, hace tiempo que no se celebraba un evento así en el palacio.\nEspero que te guste."
+    },
+    "q5uCBw": {
+        "ko": "강인한 수호의 검 {0}님이십니다",
+        "en": "Tough Sword of Protection{0}.",
+        "pt": "Anuncio a chegada de {0}, combatente valente.",
+        "es": "Anuncio la llegada de {0}, combatiente valiente."
+    },
+    "rJuCBw": {
+        "ko": "진실의 탐구자 {0}님이십니다",
+        "en": "Seeker of Truth{0}.",
+        "pt": "Anuncio a chegada de {0}, especialista em magia.",
+        "es": "Anuncio la llegada de {0}, especialista en magia."
+    },
+    "rZuCBw": {
+        "ko": "바람을 가르는 화살 {0}님이십니다",
+        "en": "Arrow through the Wind{0}.",
+        "pt": "Anuncio a chegada de {0}, experiente em flechas.",
+        "es": "Anuncio la llegada de {0}, especialista en caza."
+    },
+    "rpuCBw": {
+        "ko": "즐거움 전도사 {0}님이십니다",
+        "en": "Evangelist of Pleasure{0}.",
+        "pt": "Anuncio a chegada de {0}, artista inigualável.",
+        "es": "Anuncio la llegada de {0}, artista inigualable."
+    },
+    "r5uCBw": {
+        "ko": "조용한 어둠의 지배자 {0}님이십니다",
+        "en": "Quiet Ruler of Darkness{0}.",
+        "pt": "Anuncio a chegada de {0}, mestre das trevas.",
+        "es": "Anuncio la llegada de {0}, vigilante de la oscuridad."
+    },
+    "sJuCBw": {
+        "ko": "보이지 않는 황금손 {0}님이십니다",
+        "en": "Invisible Hand of Gold{0}.",
+        "pt": "Anuncio a chegada de {0}, notável comerciante.",
+        "es": "Anuncio la llegada de {0}, notable comerciante."
+    },
+    "sZuCBw": {
+        "ko": "오롯한 신의 대리자 {0}님이십니다",
+        "en": "Perfect Delegate of God{0}.",
+        "pt": "Anuncio a chegada de {0}, líder de fé.",
+        "es": "Anuncio la llegada de {0}, fiel creyente."
+    },
+    "spuCBw": {
+        "ko": "첫걸음을 기억하는 자 {0}님이십니다",
+        "en": "The One Who Remembers the First Step{0}.",
+        "pt": "Anuncio a chegada de {0}, estudante da vida.",
+        "es": "Anuncio la llegada de {0}, estudiante de la vida."
+    },
+    "s5uCBw": {
+        "ko": "꺼지지 않는 신념의 맹약자 {0}님이십니다",
+        "en": "Covenanter of Undying Faith{0}.",
+        "pt": "Anuncio a chegada de {0}, viajante inabalável.",
+        "es": "Anuncio la llegada de {0}, trotamundos inquebrantable."
+    },
+    "tJuCBw": {
+        "ko": "[수호 기사]\n프론테라 왕궁 방문객이시군요.\n안내가 필요하십니까?",
+        "en": "[Guardian Knight]\nYou are a visitor to the Prontera Palace.\nDo you need a guide?",
+        "pt": "[Templário Real]\nVocê precisa de um guia?",
+        "es": "[Caballero guardián]\nEstás de visita en el Palacio de Prontera.\n¿Necesitas un guía?"
+    },
+    "tZuCBw": {
+        "ko": "발키리렐름",
+        "en": "Valkyrie Realm",
+        "pt": "Feudo das Valquírias",
+        "es": "Reino de Valkiria"
+    },
+    "tpuCBw": {
+        "ko": "별궁",
+        "en": "Royal Villa",
+        "pt": "Aposentos Reais",
+        "es": "Villa real"
+    },
+    "t5uCBw": {
+        "ko": "연회장",
+        "en": "Banquet Hall",
+        "pt": "Salão do Banquete",
+        "es": "Salón de banquetes"
+    },
+    "uJuCBw": {
+        "ko": "[수호 기사]\n여기서 바로 북측 복도로 이동하십시오.\n북측 복도 중앙에 발키리렐름 출입문이 있습니다.",
+        "en": "[Guardian Knight]\nYou may move to the northern corridor from here.\nThere is the entrance to Valkyrie Realm in the middle of the northern corridor.",
+        "pt": "[Templário Real]\nSiga pelo corredor ao norte.\nA entrada para o Feudo das Valquírias está no meio do corredor.",
+        "es": "[Caballero guardián]\nPuedes dirigirte al pasillo norte desde aquí.\nEn el medio de ese pasillo encontrarás la entrada al reino de Valkiria."
+    },
+    "uZuCBw": {
+        "ko": "[수호 기사]\n바로 왼쪽에 보이는 문이 별궁 출입구 입니다.\n하이네, 네리우스, 발터가문과 귀빈용 객실이 있습니다.",
+        "en": "[Guardian Knight]\nThe door on the left is the entrance to the royal villa.\nThere are the residences for the Heine, Nerius and Walther families and a room reserved for a special guest.",
+        "pt": "[Templário Real]\nA porta à esquerda leva ao Salão Real.",
+        "es": "[Caballero guardián]\nLa puerta a la izquierda te lleva a la villa real.\nAllí están las residencias de las familias Heine, Nerius y Walther, y una habitación reservada para los huéspedes especiales."
+    },
+    "upuCBw": {
+        "ko": "[수호 기사]\n연회장은 여기에서 우측으로 복도를 따라 중앙으로 가면 나오는 큰 문으로 입장하시면 됩니다.",
+        "en": "[Guardian Knight]\nYou can enter the Banquet Hall through the big gate which appears when you go to the center by following the corridor on the right from here.",
+        "pt": "[Templário Real]\nVocê pode entrar no Salão do Banquete pelo grande portão que aparece quando você vai para o centro, seguindo o corredor à direita daqui.",
+        "es": "[Caballero guardián]\nPuedes acceder al Salón de banquetes por la gran puerta que encontrarás al llegar al centro, siguiendo el pasillo de la derecha desde aquí."
+    },
+    "u5uCBw": {
+        "ko": "[수호 기사]\n바로 오른쪽에 보이는 문이 별궁 출입구 입니다.\n위그너, 뢰겐부르그, 게오보르그, 리하르트 가문의 거처가 있습니다.",
+        "en": "[Guardian Knight]\nThe door on the right is the entrance to the royal villa.\nThre are residences for the Wigner, Lugenburg, Gaebolg and Richard families.",
+        "pt": "[Templário Real]\nA porta à direita é a entrada para os aposentos reais.\nHá três residências para as famílias Wigner, Lugenburg, Gaebolg e Richard.",
+        "es": "[Caballero Guardián]\nLa puerta de la derecha te lleva a la villa real.\nAllí están las residencias para las familias Wigner, Lugenburg, Gaebolg y Richard."
+    },
+    "vJuCBw": {
+        "ko": "최근 왕가를 방문하는 분들이 많군요.",
+        "en": "There are so many visitors to the palace these days.",
+        "pt": "Recebemos tanta gente esses dias...",
+        "es": "Hay muchos visitantes en el palacio estos días."
+    },
+    "vZuCBw": {
+        "ko": "[수호 기사]\n연회장은 여기에서 좌측으로 복도를 따라 중앙으로 가면 나오는 큰 문으로 입장하시면 됩니다.",
+        "en": "[Guardian Knight]\nYou can enter the Banquet Hall through the big gate which appears when you go to the center by following the corridor on the left from here.",
+        "pt": "[Templário Real]\nO Salão do Banquete pode ser acessado pelo grande portão seguindo pelo corredor à esquerda.",
+        "es": "[Caballero guardián]\nPuedes acceder al Salón de banquetes por la gran puerta que encontrarás al llegar al centro, siguiendo el pasillo de la izquierda desde aquí."
+    },
+    "vpuCBw": {
+        "ko": "수호기사",
+        "en": "Guardian Knight",
+        "pt": "Templário Real",
+        "es": "Caballero Guardián"
+    },
+    "v5uCBw": {
+        "ko": "[수호기사]\n통로를 이용해 밖으로 나가시겠습니까?\n제가 보내드리는 곳에 다른 감시자가 한 명 더 있습니다.",
+        "en": "[Guardian Knight]\nWould you go out through the passage?\nThere is another overwatcher where I am about to send you.",
+        "pt": "[Templário Real]\nHá uma passagem secreta por aqui.",
+        "es": "[Caballero guardián]\n¿Usarás el pasaje para salir?\nEn el lugar al que te enviaré hay otro vigilante."
+    },
+    "wJuCBw": {
+        "ko": "[수호기사]\n놀라지마시고 그를 통해 밖으로 나가시면 됩니다.",
+        "en": "[Guardian Knight]\nDon't be surprised and you may go out with his help.",
+        "pt": "[Templário Real]\nQuer que eu lhe acompanhe até lá?",
+        "es": "[Caballero guardián]\nNo te alarmes, podrás salir con su ayuda."
+    },
+    "wZuCBw": {
+        "ko": "지금 나간다.",
+        "en": "Go out now.",
+        "pt": "Ir agora.",
+        "es": "Salir ahora."
+    },
+    "wpuCBw": {
+        "ko": "나중에 나간다.",
+        "en": "Go out later.",
+        "pt": "Ir depois.",
+        "es": "Salir después."
+    },
+    "w5uCBw": {
+        "ko": "[수호기사]\n즉시 안내하겠습니다.",
+        "en": "[Guardian Knight]\nLet's me guide you right away,",
+        "pt": "[Templário Real]\nPerfeito, vou te guiar. Venha comigo.",
+        "es": "[Caballero guardián]\nTe llevaré enseguida."
+    },
+    "xJuCBw": {
+        "ko": "[수호기사]\n언제든지 필요하실때 보내드리겠습니다.\n다만 이 곳에서 너무 시간을 지체하진 마십시오.",
+        "en": "[Guardian Knight]\nI will send you anytime when you need it.\nJust don't waste too much time here.",
+        "pt": "[Templário Real]\nPodemos ir a hora que você preferir.",
+        "es": "[Caballero guardián]\nTe llevaré cuando lo necesites.\nPero no te quedes mucho tiempo aquí."
+    },
+    "xZuCBw": {
+        "ko": "근무 중 이상 무.",
+        "en": "On duty. No problem.",
+        "pt": "Estou em serviço.",
+        "es": "De guardia. No hay problema."
+    },
+    "xpuCBw": {
+        "ko": "감시자 테르케스",
+        "en": "Overwatcher Terketh",
+        "pt": "Observador Terketh",
+        "es": "Terketh"
+    },
+    "x5uCBw": {
+        "ko": "아이쿠! 깜짝이야.",
+        "en": "Oh, my! What the...",
+        "pt": "Mas que...",
+        "es": "¡Uyyy! ¿Pero qué…?"
+    },
+    "yJuCBw": {
+        "ko": "[테르케스]\n와..왕가의 기억에서 나온거요?\n이쪽 길을 아는걸 보니 이동에 허가는 받은 모양이군.",
+        "en": "[Terketh]\nYou are out from the Past Memories of the Royal Family?\nSince you know the way here, you must have got the permission to move.",
+        "pt": "[Terketh]\nVocê veio das Memórias da Família Real?\nJá que você sabe como chegar até este lugar, você deve saber andar por aqui.",
+        "es": "[Terketh]\n¿Saliste de los Antiguos recuerdos de la familia real?\nComo sabes cómo llegar, seguro tienes permiso para moverte por aquí."
+    },
+    "yZuCBw": {
+        "ko": "[테르케스]\n밖으로 보내주겠소.\n계단을 따라 곧장 올라가면 크루세이더 집무실이 나올텐데\n그 다음부터는 길을 알겠지?",
+        "en": "[Terketh]\nLet me send you out.\nIf you move straight up the stairs, you'll find the Crusader's Office.\nYou must to where to go after that, right?",
+        "pt": "[Terketh]\nSe você subir as escadas, você encontrará a Guilda dos Templários.\nÉ para lá que você quer ir, certo?",
+        "es": "[Terketh]\nTe llevaré allí.\nSi subes las escaleras, encontrarás la Cámara de los cruzados.\nSabes a dónde ir después, ¿verdad?"
+    },
+    "ypuCBw": {
+        "ko": "[테르케스]\n원하는게 뭐요?",
+        "en": "[Terketh]\nWhat do you want?",
+        "pt": "[Terketh]\nO que você deseja?",
+        "es": "[Terketh]\n¿Qué quieres?"
+    },
+    "y5uCBw": {
+        "ko": "왕가의 기억으로",
+        "en": "To the Past Memories of the Royal Family",
+        "pt": "Voltar aos Registros das Famílias Reais.",
+        "es": "A los Antiguos recuerdos de la familia real"
+    },
+    "zJuCBw": {
+        "ko": "밖으로",
+        "en": "To the oudside",
+        "pt": "Sair daqui.",
+        "es": "Al exterior"
+    },
+    "zZuCBw": {
+        "ko": "조심해서 가시오. 너무 들락거리지 말고.",
+        "en": "Take care. Do not snoop around too much!",
+        "pt": "Tome cuidado!",
+        "es": "Cuídate. ¡No te metes donde no te llaman!"
+    },
+    "zpuCBw": {
+        "ko": "뭐 그러지.",
+        "en": "Well, sure.",
+        "pt": "Claro.",
+        "es": "Este… bueno."
+    },
+    "z5uCBw": {
+        "ko": "....수행에 방해가 되는군.",
+        "en": "...Such a disturbance to my training.",
+        "pt": "...Não atrapalhe meu treinamento.",
+        "es": "¡Cómo interrumpen mi entrenamiento!"
+    },
+    "0JuCBw": {
+        "ko": "[수호기사]\n그 쪽으로 가실 수 없습니다.",
+        "en": "[Guardian Knight]\nYou cannot go that way.",
+        "pt": "[Templário Real]\nVocê não pode seguir por este caminho.",
+        "es": "[Caballero guardián]\nNo puedes ir por ahí."
+    },
+    "0ZuCBw": {
+        "ko": "거기 함부로 들어가는거 아닙니다.",
+        "en": "You shouldn't enter the place like that.",
+        "pt": "Você não deveria entrar nesse lugar.",
+        "es": "No es correcto entrar de esa manera."
+    },
+    "0puCBw": {
+        "ko": "크루세이더 집무실은 복도 끝에 있습니다.",
+        "en": "The Crusader's Office is at the end of the corridor.",
+        "pt": "A Guilda dos Templários está no final deste corredor.",
+        "es": "La Cámara de los cruzados está al final del pasillo."
+    },
+    "05uCBw": {
+        "ko": "...근무 중 이상 무......",
+        "en": "...On duty. No problem...",
+        "pt": "...Em serviço.",
+        "es": "…De guardia. No hay problema..."
+    },
+    "1JuCBw": {
+        "ko": "아아 퇴근하고 싶다.",
+        "en": "I want to go home now.",
+        "pt": "Quero ir pra casa.",
+        "es": "Quiero irme a casa ya."
+    },
+    "1ZuCBw": {
+        "ko": "에키나시아",
+        "en": "Ekinasia",
+        "pt": "Echinacea",
+        "es": "Ekinasia"
+    },
+    "1puCBw": {
+        "ko": "[에키나시아]\n그대도 연회에 초청을 받았군!\n아니, 생각해 보면 당연한 것인가?",
+        "en": "[Ekinasia]\nYou have been invited to the banquet as well.\nWell, no wonder... If you think about it.",
+        "pt": "[Echinacea]\nVocê também veio para o banquete.",
+        "es": "[Ekinasia]\nTambién te invitaron al banquete.\nBueno, no me extraña… Tiene sentido."
+    },
+    "15uCBw": {
+        "ko": "[린]\n어머, 아직 살아있었구나?\n이런데서 다 보고~ 출세 했네!",
+        "en": "[Lin]\nOh, you are still alive!\nI am glad to see you here. Life must be treating you well!",
+        "pt": "[Lin]\nOh, você sobreviveu!\nEstou tão feliz de te ver de novo!!!",
+        "es": "[Lin]\n¡Oh, sigues con vida!\nMe alegro de verte por aquí. ¡Parece que te va de maravilla!"
+    },
+    "2JuCBw": {
+        "ko": "[에키나시아]\n그러고보니 키드군도 함께 왔었지.\n길드 분들을 만났다며 자리를 옮겼는데...",
+        "en": "[Ekinasia]\nCome to think of it, Kid is here too.\nHe met the people from the guild and went to see them...",
+        "pt": "[Echinacea]\nPensando bem, o Kid também está aqui.\nEle conheceu o pessoal da guilda e foi vê-los...",
+        "es": "[Ekinasia]\nAhora que lo recuerdo, Kidd también está aquí.\nVio a los del gremio y fue a hablar con ellos…"
+    },
+    "2ZuCBw": {
+        "ko": "[린]\n응응, 일행에 이상한 녀석이 꼬여서 식당 쪽으로 갔어.\n가서 인사나 해.",
+        "en": "[Lin]\nHum... Then he was taken by a strange guy among the bunch to the dining hall.\nYou may go say hi.",
+        "pt": "[Lin]\nHum... Então ele foi levado por um cara estranho no meio do grupo para o refeitório.\nVocê pode ir lá cumprimentá-lo.",
+        "es": "[Lin]\nMmm… Después, un tipo raro del grupo lo llevó al comedor.\nPuedes ir a saludar."
+    },
+    "2puCBw": {
+        "ko": "[에키나시아]\n오랜만의 연회니 가볍게 즐기는것도 좋지.",
+        "en": "[Ekinasia]\nIt is a banquet in a long time. We may as well enjoy it.",
+        "pt": "[Echinacea]\nFaz tempo desde que tivemos o último banquete... Vou comer muito!",
+        "es": "[Ekinasia]\nHace tiempo que no se celebraba un banquete. Tendríamos que disfrutarlo."
+    },
+    "25uCBw": {
+        "ko": "맞아~ 맞아~",
+        "en": "Sure, sure!",
+        "pt": "Eu também!",
+        "es": "¡Claro, claro!"
+    },
+    "3JuCBw": {
+        "ko": "궁중 연회는 정말 오랜만이군요.",
+        "en": "It's been a while since the last time a royal banquet like this was held.",
+        "pt": "Faz tempo desde que tivemos o último banquete...",
+        "es": "Hace tiempo que no se celebraba un banquete. real como este."
+    },
+    "3ZuCBw": {
+        "ko": "이런 여유도 가끔은 있어야지.",
+        "en": "We need to blow off some steam like this from time to time.",
+        "pt": "Precisamos espairecer de vez em quando.",
+        "es": "Hay que relajarse así de vez en cuando."
+    },
+    "3puCBw": {
+        "ko": "린",
+        "en": "Lin",
+        "pt": "Lin",
+        "es": "Lin"
+    },
+    "35uCBw": {
+        "ko": "[린]\n과연, 가진 것들은 이렇게 노는군!\n후후, 이 참에 어느 영애의 드레스가 가장 아름다운지 눈호강 좀 할까?",
+        "en": "[Lin]\nWell, this is how the aristocrats spend their time!\nHaha, let's see which lady is wearing the most beautiful dress.",
+        "pt": "[Lin]\nVamos ver quem está usando o vestido mais bonito hoje!",
+        "es": "[Lin]\n¡Así es como se divierten los aristócratas!\nJa, ja, a ver qué dama lleva el vestido más bonito."
+    },
+    "4JuCBw": {
+        "ko": "둠크",
+        "en": "Dumk",
+        "pt": "Dumk",
+        "es": "Dumk"
+    },
+    "4ZuCBw": {
+        "ko": "[둠크]\n호, 이게 누구신가.\n어둠 예술의 정점을 찍을{0} 아닌가?",
+        "en": "[Dumk]\nOh, who is this.\nYou are{0}the one who would lead to the highest peaks of dark art, right?",
+        "pt": "[Dumk]\nOh, você se chama {0}? É você que domina as artes sombrias, certo?",
+        "es": "[Dumk]\nOh, ¿quién es?\nEres {0} quien nos guiará a dominar las artes oscuras, ¿no?"
+    },
+    "4puCBw": {
+        "ko": "[둠크]\n너도 연회에 초대 받아 온건가?\n흠.. 혹시 길드에서 강.력.추.천. 했다는 불세출의 인재가 너냐?",
+        "en": "[Dumk]\nYou've been invited to this banquet too?\nHum, are you the hero of the century recommended by the guild?",
+        "pt": "[Dumk]\nVocê também foi convidado para este banquete? Legal!",
+        "es": "[Dumk]\n¿A ti también te invitaron a este banquete?\nMmm, ¿eres el héroe del siglo recomendado por el gremio?"
+    },
+    "45uCBw": {
+        "ko": "[둠크]\n하, 이 둠크님을 두고 말이지?\n난 그딴 것에 동의한 적 없는데.",
+        "en": "[Dumk]\nHa, what a nonsense to disregard me, Dumk!\nI can never agree to that.",
+        "pt": "[Dumk]\nHa, que bobagem me ignorar!\nEu jamais poderia concordar com isso.",
+        "es": "[Dumk]\n¡Ja, qué absurdo que me ignoren así, Dumk!\nEsto es inaceptable."
+    },
+    "5JuCBw": {
+        "ko": "[둠크]\n그나저나 비센테 이 녀석은 어느 구석으로 사라진거야?",
+        "en": "[Dumk]\nBy the way, where is Vicente?",
+        "pt": "[Dumk]\nAliás, onde está o Vicente?",
+        "es": "[Dumk]\nPor cierto, ¿dónde está Vicente?"
+    },
+    "5ZuCBw": {
+        "ko": "[둠크]\n어이, 거기 암살양반, 비센터 알아? 몰라?",
+        "en": "[Dumk]\nHey, you assassin, do you know Vicente?",
+        "pt": "[Dumk]\nEi, você conhece o Vicente?",
+        "es": "[Dumk]\nOye, asesino, ¿conoces a Vicente?"
+    },
+    "5puCBw": {
+        "ko": "[키드]\n.... 이쯤에서 그만두자. 둠크...",
+        "en": "[Kid]\n...Cut it out there, Dumk...",
+        "pt": "[Kidd]\n...Dumk, pare de me importunar...",
+        "es": "[Kidd]\nYa basta, Dumk…"
+    },
+    "55uCBw": {
+        "ko": "내가 뭘 어쨌다고...",
+        "en": "What did I do?",
+        "pt": "O que eu fiz???",
+        "es": "¿Qué hice?"
+    },
+    "6JuCBw": {
+        "ko": "그 녀석 어디 있어?",
+        "en": "Where is he?",
+        "pt": "Onde ele está?",
+        "es": "¿Dónde está?"
+    },
+    "6ZuCBw": {
+        "ko": "아, 모른다고.",
+        "en": "I don't know.",
+        "pt": "Eu não sei.",
+        "es": "No lo sé."
+    },
+    "6puCBw": {
+        "ko": "찾아와! 너희들이 잘 하는 거잖아!",
+        "en": "Find him! It's your specialty!",
+        "pt": "Encontre-o!",
+        "es": "¡Encuéntralo! ¡Es tu especialidad!"
+    },
+    "65uCBw": {
+        "ko": "내가 왜 그래야 하지? 아까부터 막무가내로군.",
+        "en": "Why should I do that? You have been insufferable.",
+        "pt": "Por que eu?",
+        "es": "¿Por qué tendría que hacerlo? Eres insoportable."
+    },
+    "7JuCBw": {
+        "ko": "어이, 내가 너보다 지위가 높아요. 비센테 어디 있냐고.",
+        "en": "Hey, I am of a higher rank than you. Where is Vicente!",
+        "pt": "Ei, eu sou o seu superior. Encontre o Vicente!",
+        "es": "Escucha, mi rango es superior al tuyo. ¿Dónde está Vicente?"
+    },
+    "7ZuCBw": {
+        "ko": "...보모는 집에 가서 찾아!",
+        "en": "...Look for your nanny at your own home!",
+        "pt": "Me poupe! Que saco!",
+        "es": "…¡Búscate otra niñera!"
+    },
+    "7puCBw": {
+        "ko": "지금 누구한테 큰소리야!!! 한번 해보자는거냐?!",
+        "en": "Watch whom you are talking to!!! Do you want to pick a trouble with me!",
+        "pt": "Ei, olha com quem você tá falando!",
+        "es": "¡¡¡Cuida tus palabras!!! ¿Qué, quieres pelear conmigo?"
+    },
+    "75uCBw": {
+        "ko": "(절레 절레)",
+        "en": "(Shaking the head from side to side)",
+        "pt": "(Balança a cabeça)",
+        "es": "(Negando con la cabeza)"
+    },
+    "8JuCBw": {
+        "ko": "키드",
+        "en": "Kid",
+        "pt": "Kidd",
+        "es": "Kidd"
+    },
+    "8ZuCBw": {
+        "ko": "[키드]\n오랜만이다. 린과 에키나시아는 만나봤나?",
+        "en": "[Kid]\nIt's been a long time. Did you catch up with Lin and Ekinasia?",
+        "pt": "[Kidd]\nVocê conversou com Lin e Echinacea?",
+        "es": "[Kidd]\nHa pasado mucho tiempo. ¿Hablaste con Lin y Ekinasia?"
+    },
+    "8puCBw": {
+        "ko": "[키드]\n다들 화려한 장소에서 들떠 있던데...",
+        "en": "[Kid]\nThey seemed very excited in the fancy place...",
+        "pt": "[Kidd]\nElas parecem estar bem empolgadas...",
+        "es": "[Kidd]\nParecían muy felices de estar en ese lugar tan elegante…"
+    },
+    "85uCBw": {
+        "ko": "...어울리지 않는 장소에 서 있는다는게 얼마나 괴로운 일인지....",
+        "en": "...It is a pain to stand in a place where you don't belong...",
+        "pt": "...É uma dor estar em um lugar onde você não pertence...",
+        "es": "Es incómodo estar en un lugar donde no encajas…"
+    },
+    "9JuCBw": {
+        "ko": "메이셀",
+        "en": "Mayssel",
+        "pt": "Mayssel",
+        "es": "Mayssel"
+    },
+    "9ZuCBw": {
+        "ko": "[메이셀]\n누구시더라..?",
+        "en": "[Mayssel]\nWho are you...?",
+        "pt": "[Mayssel]\nQuem é você...?",
+        "es": "[Mayssel]\n¿Quién eres…?"
+    },
+    "9puCBw": {
+        "ko": "[메이셀]\n...아... 일전에 전직하러 오셨던..\n그러고보니 길드대표로 추천을 했었지요.",
+        "en": "[Mayssel]\n...Oh... You have visited us to change your class, I remember.\nWe have recommended you as a representative of the guild.",
+        "pt": "[Mayssel]\n...Oh... Você veio até aqui para mudar de classe.\nRecomendamos você como candidato para o representante da guilda.",
+        "es": "[Mayssel]\nOh… Recuerdo que nos visitaste para cambiar tu clase.\nTe recomendamos como representante del gremio."
+    },
+    "95uCBw": {
+        "ko": "[메이셀]\n이리 장성한 모습을 보니 감회가 새롭군요.\n언제나 그 손에 발릴 피의 무게를 잊지 않으셨으면 합니다.",
+        "en": "[Mayssel]\nI am glad to see you all grown up.\nNever forget the weight of the blood to be covered on your hands at all times.",
+        "pt": "[Mayssel]\nEstou contente de ver como você evoluiu.",
+        "es": "[Mayssel]\nQué gusto verte ya más fuerte.\nNunca olvides el peso de la sangre que siempre tendrás en tus manos."
+    },
+    "+JuCBw": {
+        "ko": "[메이셀]\n연회에 초청받으신 분이군요?\n저희도 마찬가지랍니다.",
+        "en": "[Mayssel]\nYou must have been invited to the banquet.\nSo are we.",
+        "pt": "[Mayssel]\nImagino que você tenha sido convidado para o banquete.\nNós também fomos.",
+        "es": "[Mayssel]\nTe invitaron al banquete, ¿verdad?\nA nosotros también."
+    },
+    "+ZuCBw": {
+        "ko": "[메이셀]\n왕궁이 이정도로 개방하는건 드문 경우이니 한껏 즐기다 가시길.",
+        "en": "[Mayssel]\nIt is rare to see the palace open to public like this. Enjoy as much as you can.",
+        "pt": "[Mayssel]\nÉ extremamente raro ver o palácio ser aberto para pessoas de fora. Aproveite essa oportunidade.",
+        "es": "[Mayssel]\nEs raro ver el palacio así, abierto al público. Disfruta todo lo que puedas."
+    },
+    "+puCBw": {
+        "ko": "베르카셀",
+        "en": "Verkhasel",
+        "pt": "Verkhasel",
+        "es": "Verkhasel"
+    },
+    "+5uCBw": {
+        "ko": "[베르카셀]\n....이런 번잡한 곳은 싫지만 임무라니 어쩔 수 없나.",
+        "en": "[Verkhasel]\n...I don't like a crowded place like this, but I cannot help it when I am on a mission.",
+        "pt": "[Verkhasel]\n...Eu não gosto de lugares tumultuados, mas se a missão exige isso...",
+        "es": "[Verkhasel]\n…No me gustan los lugares tan concurridos, pero cuando estoy en una misión, no tengo opción."
+    },
+    "/JuCBw": {
+        "ko": "[베르카셀]\n너도 와있었군.\n아니, 당연한건가.",
+        "en": "[Verkhasel]\nYou are here too.\nWell, I guess you are supposed to be here.",
+        "pt": "[Verkhasel]\nVocê também veio.\nBem, acho que você deveria estar aqui.",
+        "es": "[Verkhasel]\nTambién viniste.\nBueno, supongo que tampoco tenías opción."
+    },
+    "/ZuCBw": {
+        "ko": "[베르카셀]\n...수고가 많군.",
+        "en": "[Verkhasel]\n...What a trouble.",
+        "pt": "[Verkhasel]\n...Mas que saco.",
+        "es": "[Verkhasel]\n…Qué problema."
+    },
+    "/puCBw": {
+        "ko": "슬슬 돌아가고 싶다만.",
+        "en": "I want to go back now.",
+        "pt": "Eu quero ir embora.",
+        "es": "Ya quiero volver."
+    },
+    "/5uCBw": {
+        "ko": "...안됩니다.",
+        "en": "...You can't.",
+        "pt": "...Você não pode.",
+        "es": "…No puedes."
+    },
+    "AJyCBw": {
+        "ko": "완전 단호하시네요. 하하하하!",
+        "en": "You made that very clear, hahahaha!",
+        "pt": "Você mesmo disse que não podia ir embora! Hahahaha!",
+        "es": "Lo dejaste muy claro., ¡ja, ja, ja!"
+    },
+    "AZyCBw": {
+        "ko": "비센테",
+        "en": "Vicente",
+        "pt": "Vicente",
+        "es": "Vicente"
+    },
+    "ApyCBw": {
+        "ko": "[비센테]\n아.. 전직때 뵙고 처음이던가요?\n그간 당신이 세운 공헌도로 길드의 입지가 나날이 늘어가는 것 같습니다.",
+        "en": "[Vicente]\nOh, is it the first time since our last encounter for your class change?\nThanks to your contribution, the position of the guild has been strengthened.",
+        "pt": "[Vicente]\nOh, nunca mais nos vimos desde o seu teste de mudança de classe, não é mesmo?\nGraças aos seus esforços, a guilda está mais firme do que nunca.",
+        "es": "[Vicente]\nOh, ¿es la primera vez que nos vemos desde que cambiaste de clase?\nTu contribución ha fortalecido la posición del gremio."
+    },
+    "A5yCBw": {
+        "ko": "[비센테]\n이젠 왕실의 유명인사가 되시겠군요.\n건강한 모습을 뵈니 저도 기쁩니다.",
+        "en": "[Vicente]\nI guess you will be the hero of the palace.\nI am glad to see you well.",
+        "pt": "[Vicente]\nEstou feliz de saber que está bem.",
+        "es": "[Vicente]\nImagino que serás el héroe del palacio.\nMe alegro de verte bien."
+    },
+    "BJyCBw": {
+        "ko": "[비센테]\n음... 우리가... 혹시 크리투라에서 만났던가요?",
+        "en": "[Vicente]\nHum... Did we meet at Criatura?",
+        "pt": "[Vicente]\nHum... Nos conhecemos na Academia em Izlude, não foi?",
+        "es": "[Vicente]\nMmm… ¿Nos conocimos en Criatura?"
+    },
+    "BZyCBw": {
+        "ko": "[비센테]\n하도 많은 사람들을 대했더니....\n아는얼굴인가 싶었는데.....",
+        "en": "[Vicente]\nI have dealt with too many people...\nYour face seemed familiar...",
+        "pt": "[Vicente]\nHum...\nSeu rosto me é familiar...",
+        "es": "[Vicente]\nHe visto a tantas personas…\nTu rostro me es conocido…"
+    },
+    "BpyCBw": {
+        "ko": "[비센테]\n뭐, 아무렴 어떻습니까?\n연회는 즐기고 계시지요?",
+        "en": "[Vicente]\nWell whatever.\nAre you enjoying the banquet?",
+        "pt": "[Vicente]\nBom, enfim.\nVocê está gostando do banquete?",
+        "es": "[Vicente]\nBueno, da igual.\n¿Estás disfrutando del banquete?"
+    }
+}

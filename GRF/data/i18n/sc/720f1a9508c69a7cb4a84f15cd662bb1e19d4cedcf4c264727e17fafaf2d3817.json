@@ -1,0 +1,1662 @@
+{
+    "gEPkBw": {
+        "en": "[Scenario Controller]\nAlpha bio change\nCurrent FLOW{}",
+        "pt": "[Controle de Cenário]\nMudança na Biografia de Alpha\nCurrent FLOW{}",
+        "es": "[Controlador de escenarios]\nCambio de biografía de Alpha.\nCAUDAL actual {}"
+    },
+    "gUPkBw": {
+        "en": "Default Name/Setting",
+        "pt": "Nome/Configuração Padrão",
+        "es": "Nombre y configuración predeterminados."
+    },
+    "gkPkBw": {
+        "en": "Phase 2",
+        "pt": "Fase 2",
+        "es": "Fase2."
+    },
+    "g0PkBw": {
+        "en": "Phase 3",
+        "pt": "Fase 3",
+        "es": "Fase3."
+    },
+    "hEPkBw": {
+        "en": "Phase 4",
+        "pt": "Fase 4",
+        "es": "Fase4."
+    },
+    "hUPkBw": {
+        "en": "Phase 5",
+        "pt": "Fase 5",
+        "es": "Fase5."
+    },
+    "hkPkBw": {
+        "en": "[{}]",
+        "pt": "[{}]",
+        "es": "[{}]"
+    },
+    "h0PkBw": {
+        "en": "Jeomsun",
+        "pt": "Jeomsun",
+        "es": "Jeomsun"
+    },
+    "iEPkBw": {
+        "en": "[BMD000001]",
+        "pt": "[BMD000001]",
+        "es": "[BMD000001]"
+    },
+    "iUPkBw": {
+        "en": "This product is a robot for flower garden guidance, serial number BMD000001.",
+        "pt": "Este produto é um robô para orientação do jardim de flores, número de série BMD000001.",
+        "es": "Este producto es un robot de orientación para jardines de flores, número de serie BMD000001."
+    },
+    "ikPkBw": {
+        "en": "Your mana pattern is 73.6% identical to that of Master Barmund. Shifting to flower garden guidance mode.",
+        "pt": "Seu padrão de mana é 73,6% idêntico ao do Mestre Varmunt. Mudando para o modo de orientação do jardim de flores.",
+        "es": "Tu patrón de maná es idéntico en un 73,6% al del maestro Varmundt. Cambio al modo de orientación para jardín de flores."
+    },
+    "i0PkBw": {
+        "en": "Operating in 3 seconds.",
+        "pt": "Operando em 3 segundos.",
+        "es": "Se pondrá en funcionamiento en 3segundos."
+    },
+    "jEPkBw": {
+        "en": "Dormant mode releasing procedure has been completed. Searching the area to check if Master Barmund is nearby, apart from the recognized human.",
+        "pt": "O procedimento de liberação do modo inativo foi concluído. Procurando na área para verificar se o Mestre Varmunt está por perto, além do humano reconhecido.",
+        "es": "Se completó el procedimiento de liberación del modo inactivo. Buscando en la zona para comprobar si el maestro Varmundt está cerca, aparte del humano reconocido."
+    },
+    "jUPkBw": {
+        "en": "Searching......",
+        "pt": "Procurando...",
+        "es": "Buscando…"
+    },
+    "jkPkBw": {
+        "en": "Could not detect Master Barmund within the network range.",
+        "pt": "Não foi possível detectar o Mestre Varmunt dentro do alcance da rede.",
+        "es": "No se pudo detectar al maestro Varmundt dentro del alcance de la red."
+    },
+    "j0PkBw": {
+        "en": "Order received.",
+        "pt": "Ordem recebida.",
+        "es": "Pedido recibido."
+    },
+    "kEPkBw": {
+        "en": "Product BMD000001's code name will be {} from now on.",
+        "pt": "O codinome do produto BMD000001 será {} a partir de agora.",
+        "es": "A partir de ahora, el nombre en clave del producto BMD000001 será {}."
+    },
+    "kUPkBw": {
+        "en": "Now, I will begin a inspection of the flower garden based on the temporary admin protocol.",
+        "pt": "Agora, começarei uma inspeção do jardim de flores com base no protocolo administrativo temporário.",
+        "es": "Ahora, comenzaré una inspección del jardín de flores basada en el protocolo de administración temporal."
+    },
+    "kkPkBw": {
+        "en": "Please watch your step and move along with me.",
+        "pt": "Por favor, olhem por onde andam e me sigam.",
+        "es": "Ten cuidado y muévete conmigo."
+    },
+    "k0PkBw": {
+        "en": "^FF0000Try another pattern^000000",
+        "pt": "^FF0000Tente outra senha^000000",
+        "es": "^660000Prueba otro patrón^000000."
+    },
+    "lEPkBw": {
+        "en": "This seems to be a hologram of a robot. A strange glass film saying ^0000FF[Input the pattern on the touch screen]^000000 and a few buttons are placed on the central panel.",
+        "pt": "Parece ser o holograma de um robô. Uma estranha película de vidro dizendo ^0000CD[Insira o padrão na tela]^000000 com alguns botões no painel central.",
+        "es": "Esto parece ser un holograma de un robot. En el panel central hay una extraña película de vidrio que dice: ^FF0000[Introduce el patrón en la pantalla táctil]^000000 y unos pocos botones."
+    },
+    "lUPkBw": {
+        "en": "Do not touch anything and step away",
+        "pt": "Não tocar em nada e se afastar",
+        "es": "No tocar nada y alejarte."
+    },
+    "lkPkBw": {
+        "en": "Put a finger on the touch screen",
+        "pt": "Colocar o dedo na tela",
+        "es": "Poner un dedo en la pantalla táctil."
+    },
+    "l0PkBw": {
+        "en": "The hologram fades.",
+        "pt": "O holograma se dissipa.",
+        "es": "El holograma se desvanece."
+    },
+    "mEPkBw": {
+        "en": "^FF0000ERROR^000000\n^0000FFWrong pattern.^000000",
+        "pt": "^FF0000ERRO^000000\n^0000CDPadrão incorreto.^000000",
+        "es": "^660000ERROR^000000\n^FF0000Patrón equivocado.^000000"
+    },
+    "mUPkBw": {
+        "en": "^0000FFCorrect pattern.^000000\nExecuting the dormant mode release protocol.\nPattern inputter ^0000FF{}^000000 has been recognized.",
+        "pt": "^0000CDPadrão correto.^000000\nExecutando o protocolo de liberação do modo inativo.\nO usuário ^0000CD{}^000000 foi reconhecido.",
+        "es": "^FF0000Patrón correcto.^000000\nEjecutando el protocolo de liberación del modo inactivo.\nSe reconoció a ^FF0000{}^000000, que introdujo el patrón."
+    },
+    "mkPkBw": {
+        "en": "Emily",
+        "pt": "Emily",
+        "es": "Emily"
+    },
+    "m0PkBw": {
+        "en": "Sarah",
+        "pt": "Sarah",
+        "es": "Sarah"
+    },
+    "nEPkBw": {
+        "en": "Jessica",
+        "pt": "Jessica",
+        "es": "Jessica"
+    },
+    "nUPkBw": {
+        "en": "Anna",
+        "pt": "Anna",
+        "es": "Anna"
+    },
+    "nkPkBw": {
+        "en": "Jeniffer",
+        "pt": "Jeniffer",
+        "es": "Jeniffer"
+    },
+    "n0PkBw": {
+        "en": "Elizabeth",
+        "pt": "Elizabeth",
+        "es": "Elizabeth"
+    },
+    "oEPkBw": {
+        "en": "Lisa",
+        "pt": "Lisa",
+        "es": "Lisa"
+    },
+    "oUPkBw": {
+        "en": "Karen",
+        "pt": "Karen",
+        "es": "Karen"
+    },
+    "okPkBw": {
+        "en": "Susan",
+        "pt": "Susan",
+        "es": "Susan"
+    },
+    "o0PkBw": {
+        "en": "Mary",
+        "pt": "Mary",
+        "es": "Mary"
+    },
+    "pEPkBw": {
+        "en": "Margaret",
+        "pt": "Margaret",
+        "es": "Margaret"
+    },
+    "pUPkBw": {
+        "en": "Carol",
+        "pt": "Carol",
+        "es": "Carol"
+    },
+    "pkPkBw": {
+        "en": "Barbara",
+        "pt": "Barbara",
+        "es": "Barbara"
+    },
+    "p0PkBw": {
+        "en": "Francis",
+        "pt": "Francis",
+        "es": "Francis"
+    },
+    "qEPkBw": {
+        "en": "Helen",
+        "pt": "Helen",
+        "es": "Helen"
+    },
+    "qUPkBw": {
+        "en": "Betty",
+        "pt": "Betty",
+        "es": "Betty"
+    },
+    "qkPkBw": {
+        "en": "Dorothy",
+        "pt": "Dorothy",
+        "es": "Dorothy"
+    },
+    "q0PkBw": {
+        "en": "Hannah",
+        "pt": "Hannah",
+        "es": "Hannah"
+    },
+    "rEPkBw": {
+        "en": "Donna",
+        "pt": "Donna",
+        "es": "Donna"
+    },
+    "rUPkBw": {
+        "en": "Agnes",
+        "pt": "Agnes",
+        "es": "Agnes"
+    },
+    "rkPkBw": {
+        "en": "Martha",
+        "pt": "Martha",
+        "es": "Martha"
+    },
+    "r0PkBw": {
+        "en": "Jeomsun",
+        "pt": "Jeomsun",
+        "es": "Jeomsun"
+    },
+    "sEPkBw": {
+        "en": "Jeomrye",
+        "pt": "Jeomrye",
+        "es": "Jeomrye"
+    },
+    "sUPkBw": {
+        "en": "Sunja",
+        "pt": "Sunja",
+        "es": "Sunja"
+    },
+    "skPkBw": {
+        "en": "Chunja",
+        "pt": "Chunja",
+        "es": "Chunja"
+    },
+    "s0PkBw": {
+        "en": "Yeongchun",
+        "pt": "Yeongchun",
+        "es": "Yeongchun"
+    },
+    "tEPkBw": {
+        "en": "How can I stop this thing?",
+        "pt": "Como eu paro essa coisa?",
+        "es": "¿Cómo puedo detener esto?"
+    },
+    "tUPkBw": {
+        "en": "This robot is designed to operate only if the similarity between the user's mana pattern and that of Master Barmund is over a certain level.",
+        "pt": "Este robô foi projetado para operar somente se a similaridade entre o padrão de mana do usuário e o do Mestre Varmunt for maior que um certo nível.",
+        "es": "Este robot está diseñado para funcionar solo si la similitud entre el patrón de maná del usuario y el del maestro Varmundt supera un determinado nivel."
+    },
+    "tkPkBw": {
+        "en": "[{}], your mana pattern is 73.6% identical to that of Master Barmund. May I ask who you are, [{}]?",
+        "pt": "[{}], seu padrão de mana é 73,6% idêntico ao do Mestre Varmunt. Posso perguntar quem é você, [ + {}]?",
+        "es": "[{}], tu patrón de maná es idéntico en un 73,6% al del maestro Varmundt. ¿Puedo preguntarte quién eres, [{}]?"
+    },
+    "t0PkBw": {
+        "en": "I'm just an adventurer who discovered this place by chance.",
+        "pt": "Só sou um aventureiro que descobriu esse lugar por acaso.",
+        "es": "Soy trotamundos y descubrí este lugar por casualidad."
+    },
+    "uEPkBw": {
+        "en": "That sounds strange. I have never seen an outsider whose mana pattern is more than 70% identical to that of Master Barmund.",
+        "pt": "Isso soa estranho. Eu nunca vi um forasteiro cujo padrão de mana é mais do que 70% idêntico ao do Mestre Varmunt.",
+        "es": "Eso suena extraño. Nunca había visto a un extraño cuyo patrón de maná sea idéntico en más de un 70% al del maestro Varmundt."
+    },
+    "uUPkBw": {
+        "en": "I've met Barmund often.",
+        "pt": "Eu conheci o Varmunt antes.",
+        "es": "Vi a Varmundt muchas veces."
+    },
+    "ukPkBw": {
+        "en": "Don't ask me, I don't know why.",
+        "pt": "Não me pergunte, eu não sei o porquê.",
+        "es": "No me preguntes, desconozco el motivo."
+    },
+    "u0PkBw": {
+        "en": "There is a possibility that your mana pattern had been synchronized to Master's to some extend because of your frequent encounter with him.",
+        "pt": "Existe a possibilidade de que seu padrão de mana tenha sido sincronizado com o do Mestre até certo ponto por causa de seus frequentes encontros.",
+        "es": "Existe la posibilidad de que tu patrón de maná se haya sincronizado hasta cierto punto con el del maestro debido a tus frecuentes encuentros con él."
+    },
+    "vEPkBw": {
+        "en": "Understood. From now on, I will appoint you, [{}], as a temporary admin and respond accordingly. Do you agree with this?",
+        "pt": "Entendi. De agora em diante, eu vou apontar você, [{}], como um administrador temporário e responder de acordo. Você concorda com isso?",
+        "es": "Entendido. A partir de ahora, te designaré como administrador temporal, [{}], y responderé en consecuencia. ¿Estás de acuerdo?"
+    },
+    "vUPkBw": {
+        "en": "You're making me a temporary admin? Why me?",
+        "pt": "Você vai me tornar um administrador temporário? Por que eu?",
+        "es": "¿Me darás un permiso de administración temporal? ¿Por qué yo?"
+    },
+    "vkPkBw": {
+        "en": "I refuse!",
+        "pt": "Me recuso!",
+        "es": "¡Me niego!"
+    },
+    "v0PkBw": {
+        "en": "Alright.",
+        "pt": "Tudo bem.",
+        "es": "De acuerdo."
+    },
+    "wEPkBw": {
+        "en": "Each of us robots is conducting individual tasks they received while maintaining the flower garden here.",
+        "pt": "Cada um de nós, robôs, está realizando tarefas individuais que recebeu enquanto cuida do jardim de flores aqui.",
+        "es": "Cada uno de nosotros, los robots, está llevando a cabo tareas individuales que se le asignaron mientras mantiene el jardín de flores aquí."
+    },
+    "wUPkBw": {
+        "en": "When Master Barmund was here, we individually presented a report every week, or Master conducted a inspection himself to check our work status.",
+        "pt": "Quando o Mestre Varmunt estava aqui, apresentávamos individualmente um relatório semanal, ou o próprio Mestre realizava uma inspeção para verificar o status do nosso trabalho.",
+        "es": "Cuando el maestro Varmundt estaba aquí, cada uno presentaba un informe semanal, o el propio maestro realizaba una inspección para comprobar el estado de nuestro trabajo."
+    },
+    "wkPkBw": {
+        "en": "As of now, Master Barmund has been away for over a million hours.",
+        "pt": "Até o momento, o Mester Varmunt está ausente por mais de um milhão de horas.",
+        "es": "Hasta ahora, el maestro Varmundt lleva más de un millón de horas ausente."
+    },
+    "w0PkBw": {
+        "en": "Although you are not Master Barmund, your mana pattern is more than 70% identical to that of him, so I'd like you to assess our work status.",
+        "pt": "Por mais que você não seja o Mestre Varmunt, o seu padrão de mana é mais do que 70% idêntico ao dele, então eu gostaria que você acessasse o nosso status de trabalho.",
+        "es": "Aunque no eres el maestro Varmundt, tu patrón de maná es idéntico en más de un 70% al suyo, así que me gustaría que evaluaras nuestro estado de trabajo."
+    },
+    "xEPkBw": {
+        "en": "Please see it as a control measure to prevent our work from going astray.",
+        "pt": "Por favor, veja isso como uma medida de controle para evitar que nosso trabalho se desvie.",
+        "es": "Considéralo una medida de control para evitar que nuestro trabajo se desvíe."
+    },
+    "xUPkBw": {
+        "en": "May I appoint you, [{}], as a temporary admin and respond accordingly?",
+        "pt": "Posso apontar você, [{}], como um administrador temporário e responder de acordo?",
+        "es": "¿[{}], puedo nombrarte como administrador temporal y responder en consecuencia?"
+    },
+    "xkPkBw": {
+        "en": "I will wait until you give your permission.",
+        "pt": "Eu vou esperar até você dar permissão.",
+        "es": "Esperaré hasta que me des tu permiso."
+    },
+    "x0PkBw": {
+        "en": "Thank you for your permission. I will acknowledge you, [{}] as a temporary admin from now on.",
+        "pt": "Obrigado pela sua permissão. Eu vou reconhecer você, [{}] como um administrador temporário a partir de agora.",
+        "es": "Gracias por tu permiso. A partir de ahora, [{}], te reconoceré como administrador temporal."
+    },
+    "yEPkBw": {
+        "en": "First, please select a code name to control this robot. I will randomly list a few names among the code names that were preferred in the past.",
+        "pt": "Primeiro, por favor, selecione um codinome para controlar esse robô. Vou listar, aleatoriamente, alguns nomes entre os codinomes que eram preferidos no passado.",
+        "es": "En primer lugar, selecciona un nombre en clave para controlar este robot. Enumeraré al azar algunos de los nombres en clave preferidos en el pasado."
+    },
+    "yUPkBw": {
+        "en": "Quit",
+        "pt": "Sair",
+        "es": "Salir."
+    },
+    "ykPkBw": {
+        "en": "[Quit]",
+        "pt": "[Sair]",
+        "es": "[Salir]."
+    },
+    "y0PkBw": {
+        "en": "[{}]",
+        "pt": "[{}]",
+        "es": "[{}]."
+    },
+    "zEPkBw": {
+        "en": "[{}]",
+        "pt": "[{}]",
+        "es": "[{}]."
+    },
+    "zUPkBw": {
+        "en": "[{}]",
+        "pt": "[{}]",
+        "es": "[{}]."
+    },
+    "zkPkBw": {
+        "en": "Please assess the garden's gardening status, water quality, and other general matters regarding the place.",
+        "pt": "Por favor, avalie o estado de conservação do jardim, a qualidade da água e outras questões gerais relacionadas ao lugar.",
+        "es": "Evalúa el estado de la jardinería, la calidad del agua y otras cuestiones generales relativas al jardín."
+    },
+    "z0PkBw": {
+        "en": "Not right now.",
+        "pt": "Agora não.",
+        "es": "Ahora no."
+    },
+    "0EPkBw": {
+        "en": "It's beautiful.",
+        "pt": "É lindo.",
+        "es": "Es precioso."
+    },
+    "0UPkBw": {
+        "en": "I'd prefer it if the place had more trees.",
+        "pt": "Eu preferiria se o lugar tivesse mais árvores.",
+        "es": "Preferiría que el lugar tuviera más árboles."
+    },
+    "0kPkBw": {
+        "en": "Why is it surrounded by water?",
+        "pt": "Por que ele é cercado por água?",
+        "es": "¿Por qué está rodeado de agua?"
+    },
+    "00PkBw": {
+        "en": "Robot {} is not allowed to move outside unless the assessment is completed. Terminating the guidance.",
+        "pt": "O robô {} não pode sair a menos que a avaliação seja concluída. Concluindo as instruções.",
+        "es": "El robot {} no puede salir al exterior hasta que se haya completado la evaluación. Finalizando la orientación."
+    },
+    "1EPkBw": {
+        "en": "Please begin the assessment by assessing the flower garden's entrance.",
+        "pt": "Por favor, comece a avaliação pela entrada do jardim de flores.",
+        "es": "Comienza por evaluar la entrada del jardín de flores."
+    },
+    "1UPkBw": {
+        "en": "An objective assessment helps the admin robots here reduce errors and improve their work quality.",
+        "pt": "Uma avaliação objetiva ajuda os robôs administrativos a reduzir erros e melhorar a qualidade do trabalho.",
+        "es": "Una evaluación objetiva ayuda a los robots administradores a reducir errores y mejorar la calidad de su trabajo."
+    },
+    "1kPkBw": {
+        "en": "Temporary Admin {}, please judge if the garden is being properly managed.",
+        "pt": "Administrador temporário {}, por favor, avalie se o jardim está sendo administrado adequadamente.",
+        "es": "Administrador temporal {}, determina si el jardín se está gestionando adecuadamente."
+    },
+    "10PkBw": {
+        "en": "You have judged that the garden's current status meets the criteria.",
+        "pt": "Você julgou que o status atual do jardim atende aos critérios.",
+        "es": "Determinaste que el estado actual del jardín cumple los criterios."
+    },
+    "2EPkBw": {
+        "en": "You have assessed that there are not enough landscaping trees planted in the garden.",
+        "pt": "Você avaliou que não tem árvores suficientes plantadas no jardim.",
+        "es": "Determinaste que no hay suficientes árboles ornamentales en el jardín."
+    },
+    "2UPkBw": {
+        "en": "This place is surrounded by water because it is a Floating Garden.",
+        "pt": "Este lugar é cercado por água porque é um Jardim Flutuante.",
+        "es": "Este lugar está rodeado de agua porque es un jardín flotante."
+    },
+    "2kPkBw": {
+        "en": "As temporary master {} has assessed that the garden meets the criteria, we will maintain the current status.",
+        "pt": "Como o mestre temporário {} avaliou que o jardim atende aos critérios, manteremos o status atual.",
+        "es": "Como el administrador temporal {} considera que el jardín cumple los criterios, mantendremos el estado actual."
+    },
+    "20PkBw": {
+        "en": "We plan to take a few actions regarding landscaping and then get another assessment.",
+        "pt": "Tomaremos algumas medidas relacionadas ao paisagismo e depois faremos outra avaliação.",
+        "es": "Tenemos previsto tomar algunas medidas en relación con el paisajismo y, luego, solicitar otra evaluación."
+    },
+    "3EPkBw": {
+        "en": "We cannot change the Floating Garden into a standard garden as it is against Master Barmund's taste.",
+        "pt": "Não podemos transformar o Jardim Flutuante em um jardim padrão, pois isso vai contra o gosto do Mestre Varmunt.",
+        "es": "No podemos convertir el jardín flotante en un jardín estándar, ya que va en contra del gusto del maestro Varmundt."
+    },
+    "3UPkBw": {
+        "en": "Temporary Admin {}, please continue your spot inspection in other areas.",
+        "pt": "Administrador temporário {}, por favor, continue sua inspeção em outras áreas.",
+        "es": "Administrador temporal {}, continúa con tu inspección en otras zonas."
+    },
+    "3kPkBw": {
+        "en": "This place has no bridge on the water.",
+        "pt": "Este lugar não tem uma ponte sobre a água.",
+        "es": "Este lugar no tiene puentes sobre el agua."
+    },
+    "30PkBw": {
+        "en": "Master Barmund was not hindered by landscapes when he moved, so we did not build any other extra facilities when creating the garden.",
+        "pt": "O Mestre Varmunt não teve problemas com as paisagens quando ele se mudou, então não construímos nenhuma outra estrutura ao criar o jardim.",
+        "es": "Al maestro Varmundt no le molestaban los paisajes cuando se trasladaba, así que no construimos ninguna instalación adicional al crear el jardín."
+    },
+    "4EPkBw": {
+        "en": "However, considering the temporary admin's lack of capacity, this robot shall provide you with a space-leaping service.",
+        "pt": "No entanto, considerando a falta de capacidade do administrador temporário, este robô fornecerá um serviço de viagens.",
+        "es": "Sin embargo, teniendo en cuenta la falta de capacidad del administrador temporal, este robot te prestará un servicio de salto espacial."
+    },
+    "4UPkBw": {
+        "en": "Master Barmund gave each of us robots a research assignment.",
+        "pt": "O Mestre Varmunt deu a cada um de nós, robôs, uma tarefa de pesquisa.",
+        "es": "El maestro Varmundt nos asignó a cada uno de los robots una tarea de investigación."
+    },
+    "4kPkBw": {
+        "en": "However, as we are not allowed to know the goal of the research, we have to decide on the future direction by ourselves.",
+        "pt": "No entanto, como não nos é permitido saber o objetivo da pesquisa, temos que decidir os próximos passos por conta própria.",
+        "es": "Sin embargo, como no se nos permite conocer el objetivo de la investigación, tenemos que decidir por nosotros mismos la dirección a futuro."
+    },
+    "40PkBw": {
+        "en": "The garden is divided into a few research sectors, and each sector works on a different research subject.",
+        "pt": "O jardim é dividido em alguns setores de pesquisa, e cada setor trabalha com um tema de pesquisa diferente.",
+        "es": "El jardín está dividido en varios sectores de investigación, y cada sector trabaja en un tema de investigación diferente."
+    },
+    "5EPkBw": {
+        "en": "In this place, we cultivate a plant called turnip following Master Barmund's order.",
+        "pt": "Neste lugar, cultivamos uma planta chamada nabo seguindo a ordem do Mestre Varmunt.",
+        "es": "En este lugar, cultivamos una planta llamada nabo siguiendo la orden del maestro Varmundt."
+    },
+    "5UPkBw": {
+        "en": "This is CAROTA-88, the manager robot of this place.",
+        "pt": "Este é o CAROTA-88, o robô gerente deste lugar.",
+        "es": "Este es CAROTA­88, el robot administrador de este lugar."
+    },
+    "5kPkBw": {
+        "en": "......",
+        "pt": "......",
+        "es": "……"
+    },
+    "50PkBw": {
+        "en": "[Error: CAROTA-88 has left the span of management. Coordinates tracking is required.]",
+        "pt": "[Erro: CAROTA-88 deixou a amplitude administrativa. É necessário o rastreamento de coordenadas.]",
+        "es": "[Error: CAROTA­88 abandonó su zona de administración. Se requiere el rastreo de las coordenadas.]"
+    },
+    "6EPkBw": {
+        "en": "[Tracking coordinates...]",
+        "pt": "[Rastreando coordenadas...]",
+        "es": "[Rastreando coordenadas…]"
+    },
+    "6UPkBw": {
+        "en": "CAROTA-88, return to your position while this robot is taking a friendly attitude. Do not forget that this robot is allowed to use force.",
+        "pt": "CAROTA-88, retorne à sua posição enquanto este robô assume uma atitude amigável. Não se esqueça de que este robô tem permissão para usar a força.",
+        "es": "CAROTA­88, vuelve a tu posición mientras este robot mantiene una actitud amistosa. No olvides que este robot puede utilizar la fuerza."
+    },
+    "6kPkBw": {
+        "en": "CAROTA-88, your task is to harvest crops here and protect this place from outside threats. Why did you leave your position?",
+        "pt": "CAROTA-88, sua tarefa é fazer a colheita aqui e proteger este lugar de ameaças externas. Por que você deixou a sua posição?",
+        "es": "CAROTA­88, tu tarea es cosechar los cultivos aquí y proteger este lugar de amenazas externas. ¿Por qué dejaste tu puesto?"
+    },
+    "60PkBw": {
+        "en": "A human admin is with me at this moment. Change your language code to the common tongue.",
+        "pt": "Um administrador humano está comigo no momento. Altere seu código de idioma para o idioma comum.",
+        "es": "En este momento, me acompaña un administrador humano. Cambia tu código de idioma a la lengua común."
+    },
+    "7EPkBw": {
+        "en": "[Changing the language settings...]",
+        "pt": "[Alterando as configurações de idioma...]",
+        "es": "[Cambiar la configuración de idioma…]"
+    },
+    "7UPkBw": {
+        "en": "Manager robot unreasonable!! Very!! Forcibly summoned while chasing 5 moles!!!Turnips will are wrecked!!!",
+        "pt": "Gerente robô irracional! Muito! Chamado à força enquanto perseguia 5 toupeiras! Os nabos vão ser destruídos!",
+        "es": "¡¡Robot gerente irrazonable!! ¡¡Muy!! ¡¡Invocado a la fuerza mientras persigo a 5topos!! ¡¡¡Los nabos ser destrozados!!!"
+    },
+    "7kPkBw": {
+        "en": "Have you not updated your language pack yet? Periodic updates are mandatory, not optional.",
+        "pt": "Você ainda não atualizou seu pacote de idiomas? Atualizações periódicas são obrigatórias, não opcionais.",
+        "es": "¿Aún no actualizaste tu paquete de idiomas? Las actualizaciones periódicas son obligatorias, no opcionales."
+    },
+    "70PkBw": {
+        "en": "CAROTA-88 data storage. Language expansion pack too big. If no business, returning to the task.",
+        "pt": "Armazenamento de dados CAROTA-88. Pacote de expansão de idioma muito grande. Se não forem negócios, voltando à tarefa.",
+        "es": "Almacenamiento de datos de CAROTA­88. Paquete de idiomas demasiado grande. Si no hay asuntos, volver a la tarea."
+    },
+    "8EPkBw": {
+        "en": "Wait, CAROTA-88. Here is an admin who can conduct a inspection.",
+        "pt": "Espere, CAROTA-88. Aqui está um administrador que pode realizar uma inspeção.",
+        "es": "Espera, CAROTA­88. Aquí hay un administrador que puede realizar una inspección."
+    },
+    "8UPkBw": {
+        "en": "It has been a very long time since the last time you were assessed, CAROTA-88.",
+        "pt": "Já faz muito tempo desde a última vez que você foi avaliado, CAROTA-88.",
+        "es": "Ha pasado mucho tiempo desde la última vez que te evaluaron, CAROTA­88."
+    },
+    "8kPkBw": {
+        "en": "Over 1 million hours have passed since CAROTA-88's last assessment. Unable to save more logs.",
+        "pt": "Mais de 1 milhão de horas se passaram desde a última avaliação de CAROTA-88. Não é possível salvar mais registros.",
+        "es": "Pasaron más de un millón de horas desde la última evaluación de CAROTA­88. No se pueden guardar más registros."
+    },
+    "80PkBw": {
+        "en": "Don't you want an assessment, CAROTA-88? I do not know when you will be able to get one if you miss this admin.",
+        "pt": "Você não quer uma avaliação, CAROTA-88? Não sei quando você poderá fazer outra se não for com este administrador.",
+        "es": "¿No quieres una evaluación, CAROTA­88? No sé cuándo podrás conseguir una si dejas pasar a este administrador."
+    },
+    "9EPkBw": {
+        "en": "This robot agrees with {}. CAROTA-88 want an assessment right now.",
+        "pt": "Esse robô concorda com {}. CAROTA-88 quer uma avaliação agora mesmo.",
+        "es": "Este robot está de acuerdo con {}. CAROTA­88 quiere una evaluación ahora mismo."
+    },
+    "9UPkBw": {
+        "en": "Then, open your control panel to Admin {}, CAROTA-88.",
+        "pt": "Então, abra seu painel de controle para o administrador {}, CAROTA-88.",
+        "es": "A continuación, abre tu panel de control al administrador {}, CAROTA­88."
+    },
+    "9kPkBw": {
+        "en": "Robot CAROTA-88, control panel opened. Waiting for input...",
+        "pt": "Painel de controle do robô CAROTA-88 aberto. Aguardando entrada...",
+        "es": "Robot CAROTA­88, panel de control abierto. Esperando información…"
+    },
+    "90PkBw": {
+        "en": "CAROTA-88 is showing an illogical reaction to the assessment result. I will have it inspected in the near future.",
+        "pt": "CAROTA-88 está mostrando uma reação ilógica ao resultado da avaliação. Vou mandar inspecioná-lo em breve.",
+        "es": "CAROTA­88 muestra una reacción ilógica al resultado de la evaluación. Lo haré inspeccionar en un futuro próximo."
+    },
+    "+EPkBw": {
+        "en": "Let us move on to the next area.",
+        "pt": "Vamos em frente para a próxima área.",
+        "es": "Pasemos a la siguiente zona."
+    },
+    "+UPkBw": {
+        "en": "Assessment received...",
+        "pt": "Avaliação recebida...",
+        "es": "Evaluación recibida…"
+    },
+    "+kPkBw": {
+        "en": "Admin confirmed that CAROTA-88 have conducted Master Barmund's order.",
+        "pt": "O administrador confirmou que o CAROTA-88 cumpriu as ordens do Mestre Varmunt.",
+        "es": "El administrador confirmó que CAROTA­88 llevó a cabo la orden del maestro Varmundt."
+    },
+    "+0PkBw": {
+        "en": "Plan to repeat the task until there is an order to change the task.",
+        "pt": "Planeja repetir a tarefa até que receba uma nova ordem.",
+        "es": "Se planea repetir la tarea hasta que haya una orden de cambio de tarea."
+    },
+    "/EPkBw": {
+        "en": "Gratitude to Admin {} for assessment.",
+        "pt": "Gratidão ao Administrador {} pela avaliação.",
+        "es": "Se agradece al administrador {} por la evaluación."
+    },
+    "/UPkBw": {
+        "en": "This robot will enter pest control mod to exterminate moles. Good bye.",
+        "pt": "Este robô entrará no modo de controle de pragas para exterminar toupeiras. Adeus.",
+        "es": "Este robot entrará en el modo de control de plagas para exterminar topos. Adiós."
+    },
+    "/kPkBw": {
+        "en": "Will look into more plant breeding methods.",
+        "pt": "Analisarei mais métodos de melhoramento de plantas.",
+        "es": "Estudiaré más métodos de fitomejoramiento."
+    },
+    "/0PkBw": {
+        "en": "Plan to drastically increase the number of experiments with breed-improved seeds.",
+        "pt": "Planejar aumentar drasticamente o número de experimentos com sementes melhoradas.",
+        "es": "Se planea aumentar drásticamente el número de experimentos con semillas mejoradas."
+    },
+    "AETkBw": {
+        "en": "This robot will move to the underground storage to work on new breeds. Good bye.",
+        "pt": "Este robô irá para o armazenamento subterrâneo para trabalhar em novas espécies. Adeus.",
+        "es": "Este robot se trasladará al almacén subterráneo para trabajar en nuevos cultivos. Adiós."
+    },
+    "AUTkBw": {
+        "en": "CAROTA 88's research failed to meet the admin's expectations. Task failed.",
+        "pt": "A pesquisa de CAROTA-88 não atendeu às expectativas do administrador. A tarefa falhou.",
+        "es": "La investigación de CAROTA­88 no cumplió las expectativas del administrador. Tarea fallida."
+    },
+    "AkTkBw": {
+        "en": "Require to contact Sigma in order to figure out the reason for failure.",
+        "pt": "É necessário entrar em contato com Sigma para descobrir o motivo da falha.",
+        "es": "Se debe contactar a Sigma para averiguar el motivo del fallo."
+    },
+    "A0TkBw": {
+        "en": "Request to contact Sigma denied. Unknown reason.",
+        "pt": "Pedido para entrar em contato com Sigma negado. Razão desconhecida.",
+        "es": "Solicitud de contacto con Sigma denegada. Motivo desconocido."
+    },
+    "BETkBw": {
+        "en": "This robot will try to meet Sigma in order to resolve the situation.",
+        "pt": "Este robô tentará encontrar Sigma para resolver a situação.",
+        "es": "Este robot intentará reunirse con Sigma para resolver la situación."
+    },
+    "BUTkBw": {
+        "en": "Report what you've done so far.",
+        "pt": "Relate o que você fez até agora.",
+        "es": "Informa lo que hiciste hasta ahora."
+    },
+    "BkTkBw": {
+        "en": "Master Barmund did not give any more orders after inputting biological data of turnip. This robot has been neglected.",
+        "pt": "O Mestre Varmunt não deu mais ordens após inserir os dados biológicos do nabo. Esse robô foi negligenciado.",
+        "es": "El maestro Varmundt no dio más órdenes tras introducir los datos biológicos del nabo. Este robot fue descuidado."
+    },
+    "B0TkBw": {
+        "en": "No additional order for 5,076 hours. This robot's AI collected information on turnips through the network.",
+        "pt": "Nenhuma ordem adicional por 5.076 horas. A IA deste robô coletou informações sobre nabos por meio da rede.",
+        "es": "No hay pedido adicional hasta dentro de 5076horas. La IA de este robot recopiló información sobre nabos a través de la red."
+    },
+    "CETkBw": {
+        "en": "Got information that turnip is a plant humans can intake. Found an ancient record about how to cultivate turnips.",
+        "pt": "Coletou informações de que o nabo é uma planta que os humanos podem ingerir. Encontrou um registro antigo sobre como cultivar nabos.",
+        "es": "Se tiene información de que el nabo es una planta que los humanos pueden ingerir. Se encontró un antiguo registro sobre cómo cultivar nabos."
+    },
+    "CUTkBw": {
+        "en": "Compared different cultivation results for about 18,816 hours and recorded them in order to find out the most efficient way to sow, sprout, and grow turnips.",
+        "pt": "Comparou diferentes resultados de cultivo por cerca de 18.816 horas e os registrou para descobrir a maneira mais eficiente de semear, brotar e cultivar nabos.",
+        "es": "Se compararon diferentes resultados de cultivo durante unas 18816horas y los registraron para averiguar la forma más eficaz de sembrar, germinar y cultivar nabos."
+    },
+    "CkTkBw": {
+        "en": "Over 1 million hours have passed since then. Have collected data on growing and harvesting turnips and how to improve their breed.",
+        "pt": "Mais de 1 milhão de horas se passaram desde então. Coletou dados sobre o cultivo e a colheita de nabos e como melhorar sua espécie.",
+        "es": "Desde entonces, pasaron más de un millón de horas. Se recopilaron datos sobre el cultivo y la cosecha de nabos y sobre cómo mejorar su cultivo."
+    },
+    "C0TkBw": {
+        "en": "Current annual harvest, 2 tons. Successful pest control chances, 99.9%. Loss rate due to task-related physical errors, within 0.2%.",
+        "pt": "Colheita anual atual, 2 toneladas. Chances de sucesso no controle de pragas: 99,9%. Taxa de perdas devido a erros físicos relacionados à tarefa, dentro de 0,2%.",
+        "es": "Cosecha anual actual: 2toneladas. Probabilidades de éxito en el control de plagas: 99,9%. Índice de pérdidas a causa de errores físicos relacionados con la tarea: dentro del 0,2%."
+    },
+    "DETkBw": {
+        "en": "Selling the turnips from this garden in a nearby big city for an excellent price. Contributing to earning the maintenance expenses of the garden and the mansion.",
+        "pt": "Vendo os nabos deste jardim em uma cidade grande próxima por um preço excelente. Contribuindo para cobrir as despesas de manutenção do jardim e da mansão.",
+        "es": "Vender los nabos de este huerto en una gran ciudad cercana a un precio excelente. Contribuir a sufragar los gastos de mantenimiento del jardín y la mansión."
+    },
+    "DUTkBw": {
+        "en": "Shall this robot continue, or reform, or discard the current research? Awaiting the admin's judgment.",
+        "pt": "Este robô deve continuar, reformar ou descartar a pesquisa atual? Esperando a decisão do administrativo.",
+        "es": "¿Debe este robot continuar, modificar o descartar la investigación actual? A la espera de la decisión del administrador."
+    },
+    "DkTkBw": {
+        "en": "^0000AAAssess CAROTA-88's work so far.^000000",
+        "pt": "^330066Avalie o trabalho de CAROTA-88 até agora.^000000",
+        "es": "^AC0000Evalúa el trabajo de CAROTA­88 hasta el momento.^000000"
+    },
+    "D0TkBw": {
+        "en": "Exceptional. Continue working like this.",
+        "pt": "Excepcional. Continue trabalhando assim.",
+        "es": "Excepcional. Sigue trabajando así."
+    },
+    "EETkBw": {
+        "en": "Improve the breed so that the turnips have special effects.",
+        "pt": "Melhore a espécie para que os nabos tenham efeitos especiais.",
+        "es": "Mejora el cultivo para que los nabos tengan efectos especiales."
+    },
+    "EUTkBw": {
+        "en": "It's nothing but simple farm work. Stop it.",
+        "pt": "Não é nada mais do que um trabalho agrícola. Pare.",
+        "es": "No es más que un simple trabajo agrícola. Detente."
+    },
+    "EkTkBw": {
+        "en": "Here we research a plant called pumpkin.",
+        "pt": "Aqui pesquisamos uma planta chamada abóbora.",
+        "es": "Aquí investigamos una planta llamada calabaza."
+    },
+    "E0TkBw": {
+        "en": "This is the manager robot of this place, code name pimp25. It was modeled after a creature of the Otherworld.",
+        "pt": "Este é o robô gerente deste lugar, codinome pimp25. Foi modelado a partir de uma criatura do Outro Mundo.",
+        "es": "Este es el robot gerente de este lugar, su nombre en clave es Pimp25. Fue modelado a partir de una criatura del otro mundo."
+    },
+    "FETkBw": {
+        "en": "Have you finished talking? I recorded the conversation as assessment-related material. Moving on to the next area.",
+        "pt": "Você já terminou de falar? Gravei a conversa como material relacionado à avaliação. Seguindo para a próxima área.",
+        "es": "¿Terminaste de hablar? Grabé la conversación como material de evaluación. Avanzando a la siguiente zona."
+    },
+    "FUTkBw": {
+        "en": "Leaping to the next area.",
+        "pt": "Indo para a próxima área.",
+        "es": "Saltando a la siguiente zona."
+    },
+    "FkTkBw": {
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar."
+    },
+    "F0TkBw": {
+        "en": "How long have you been managing this place?",
+        "pt": "Há quanto tempo você administra este lugar?",
+        "es": "¿Cuánto tiempo llevas dirigiendo este lugar?"
+    },
+    "GETkBw": {
+        "en": "Is farming the only thing you guys do here?",
+        "pt": "Vocês só fazem agricultura aqui?",
+        "es": "¿Solo se dedican a la agricultura aquí?"
+    },
+    "GUTkBw": {
+        "en": "You mean how much time has passed since Pimp received the order from Master Barmund!?",
+        "pt": "Você dizer quanto tempo se passou desde que Pimp recebeu a ordem do Mestre Varmunt?!",
+        "es": "¿Quieres decir cuánto tiempo pasó desde que Pimp25 recibió la orden del maestro Varmundt?"
+    },
+    "GkTkBw": {
+        "en": "Over 1 million hours, maybe. Pimp decided on things regarding the management of facilities on my own.",
+        "pt": "Mais de 1 milhão de horas, talvez. O Pimp decidiu sozinho sobre as coisas relacionadas à gestão das instalações.",
+        "es": "Más de un millón de horas, tal vez. Pimp25 tomó decisiones sobre la gestión de las instalaciones por su cuenta."
+    },
+    "G0TkBw": {
+        "en": "Pimp, you must record the exact time and report it to the admin.",
+        "pt": "Pimp, você deve registrar o tempo exato e reportar ao administrador.",
+        "es": "Pimp25, debes registrar la hora exacta e informar al administrador."
+    },
+    "HETkBw": {
+        "en": "Is that so? But Pimp does not have time to record more than 1 million hours. It's a waste of resources! Master Barmund will be furious!",
+        "pt": "É mesmo? Mas Pimp não tem tempo para gravar mais de 1 milhão de horas. É um desperdício de recursos! O Mestre Varmunt vai ficar furioso!",
+        "es": "¿Verdad? Pero Pimp25 no tiene tiempo para grabar más de 1millón de horas. ¡Es un derroche de recursos! ¡El maestro Varmundt se pondrá furioso!"
+    },
+    "HUTkBw": {
+        "en": "So, did you get any results from your pumpkin research?",
+        "pt": "Então, você conseguiu algum resultado na sua pesquisa sobre abóboras?",
+        "es": "Entonces, ¿obtuviste algún resultado de tu investigación sobre las calabazas?"
+    },
+    "HkTkBw": {
+        "en": "Pumpkin, the plant Pimp's currently growing, turned out to be considerably effective in reducing the amount of sodium in the human vascular system.",
+        "pt": "Abóbora, a planta que Pimp cultiva atualmente, mostrou-se consideravelmente eficaz na redução da quantidade de sódio no sistema vascular humano.",
+        "es": "La calabaza, la planta que Pimp25 cultiva actualmente, resultó ser bastante eficaz para reducir la cantidad de sodio en el sistema vascular humano."
+    },
+    "H0TkBw": {
+        "en": "The pumpkins grown here have high sugar content and sufficient calories. According to humans, they are 'scrumptious.' Even dogs and cats covet them.",
+        "pt": "As abóboras cultivadas aqui têm alto teor de açúcar e calorias suficientes. Segundo os humanos, elas são",
+        "es": "Las calabazas cultivadas aquí tienen un alto contenido en azúcar y suficientes calorías. Según los humanos, son “deliciosas”. Incluso los perros y gatos las codician."
+    },
+    "IETkBw": {
+        "en": "So, you made it into a food resource?",
+        "pt": "Então, você a transformou em um recurso alimentar?",
+        "es": "¿Así que las convertiste en un recurso alimenticio?"
+    },
+    "IUTkBw": {
+        "en": "Pimp judged that it is a valuable and very useful resource for various organic creatures, so Pimp has continued to produce, process, and reserve them.",
+        "pt": "Pimp considerou que se trata de um recurso valioso e muito útil para diversas criaturas orgânicas, então continuou a produzi-las, processá-las e guardá-las.",
+        "es": "Pimp25 determinó que es un recurso valioso y muy útil para diversas criaturas orgánicas, por lo que siguió produciéndolas, procesándolas y reservándolas."
+    },
+    "IkTkBw": {
+        "en": "The current annual harvest is 3 tons. Pimp processes them into a form of dehydrated food and stores them in storage 2 to 6.",
+        "pt": "A colheita anual atual é 3 toneladas. Pimp as processa em uma forma de alimento desidratado e guarda nos armazéns 2 a 6.",
+        "es": "La cosecha anual actual es de 3toneladas. Pimp25 las procesa hasta convertirlas en una forma de alimento deshidratado y las guarda en almacenes 2 a 6."
+    },
+    "I0TkBw": {
+        "en": "Did you decide on everything by yourself?",
+        "pt": "Você decidiu isso tudo por conta própria?",
+        "es": "¿Decidiste todo tú solo?"
+    },
+    "JETkBw": {
+        "en": "Pimp does not have free will to make decisions by itself! Only Master Barmund knows.",
+        "pt": "Pimp não tem livre arbítrio para tomar decisões sozinho! Só o Metre Varmunt sabe.",
+        "es": "¡Pimp25 no tiene libre albedrío para tomar decisiones por sí mismo! Solo el maestro Varmundt lo sabe."
+    },
+    "JUTkBw": {
+        "en": "There must be someone who has set the direction of your research.",
+        "pt": "Deve ter alguém que definiu a direção da sua pesquisa.",
+        "es": "Alguien debe haber indicado el rumbo de tu investigación."
+    },
+    "JkTkBw": {
+        "en": "Pimp asked Master Barmund over and over again what Pimp should do, but he did not answer.",
+        "pt": "Pimp perguntou ao Mestre Varmunt várias vezes o que Pimp deveria fazer, mas ele não respondeu.",
+        "es": "Pimp25 preguntó una y otra vez al maestro Varmundt qué debía hacer, pero él no respondió."
+    },
+    "J0TkBw": {
+        "en": "As there was no set direction, Pimp began to look for a field where Pimp's research could be of use.",
+        "pt": "Como não teve uma direção definida, Pimp começou um campo onde sua pesquisa poderia ser útil.",
+        "es": "Como no había una dirección determinada, Pimp25 empezó a buscar un campo en el que su investigación pudiera ser útil."
+    },
+    "KETkBw": {
+        "en": "Did you find it?",
+        "pt": "Você encontrou?",
+        "es": "¿Lo encontraste?"
+    },
+    "KUTkBw": {
+        "en": "Maintaining this mansion costs a lot of money. A huge amount of money!",
+        "pt": "Manter essa mansão custa muito dinheiro. Uma quantidade enorme de dinheiro!",
+        "es": "Mantener esta mansión cuesta mucho dinero. ¡Una enorme cantidad de dinero!"
+    },
+    "KkTkBw": {
+        "en": "Pimp sells dehydrated pumpkins in the storage as preserved food for adventurers in every region on the continent. Sales means money.",
+        "pt": "Pimp vende abóboras desidratadas armazenadas como alimento conservado para aventureiros em todas as regiões do continente. Vendas significam dinheiro.",
+        "es": "Pimp25 vende las calabazas deshidratadas en el almacén como alimento en conserva para trotamundos en todas las regiones del continente. Las ventas significan dinero."
+    },
+    "K0TkBw": {
+        "en": "Money can protect the mansion. Pimp must protect this place! So Pimp does Pimp's best to grow pumpkins!",
+        "pt": "Dinheiro pode proteger a mansão. Pimp deve proteger este lugar! Então, Pimp faz o melhor que Pimp pode para cultivar abóboras!",
+        "es": "El dinero puede proteger la mansión. ¡Pimp25 debe proteger este lugar! ¡Así que Pimp25 hace todo lo posible por cultivar calabazas!"
+    },
+    "LETkBw": {
+        "en": "It's surprising that you've decided all those things by yourself.",
+        "pt": "É surpreendente que você tenha decidido todas essas coisas sozinho.",
+        "es": "Es sorprendente que hayas decidido todas esas cosas por ti mismo."
+    },
+    "LUTkBw": {
+        "en": "Pimp decided those things oneself? Pimp has never made such an inference.",
+        "pt": "Pimp decidiu essas coisas sozinho? Pimp nunca fez tal inferência.",
+        "es": "¿Pimp25 decidió esas cosas por sí mismo? Pimp25 nunca hizo esa deducción."
+    },
+    "LkTkBw": {
+        "en": "[Calculating]",
+        "pt": "[Calculando]",
+        "es": "[Calculando]"
+    },
+    "L0TkBw": {
+        "en": "You made Pimp confused! Pimp has to conduct the given task. Do not speak to Pimp anymore, admin.",
+        "pt": "Você deixou Pimp confuso! Pimp tem que executar a tarefa dada. Não fale com Pimp mais, administrador.",
+        "es": "¡Hiciste que Pimp25 se confundiera! Pimp25 tiene que llevar a cabo la tarea encomendada. No hables más con Pimp25, administrador."
+    },
+    "METkBw": {
+        "en": "This is a task where one witnesses the birth and evolution of life! Pimp's research is by no means trivial!",
+        "pt": "Esta é uma tarefa onde se testemunha o nascimento e a evolução da vida! A pesquisa de Pimp não é nada trivial!",
+        "es": "¡Es una tarea en la que se es testigo del nacimiento y la evolución de la vida! ¡La investigación de Pimp25 no es nada trivial!"
+    },
+    "MUTkBw": {
+        "en": "Get out of here!",
+        "pt": "Saia daqui!",
+        "es": "¡Fuera de aquí!"
+    },
+    "MkTkBw": {
+        "en": "This area is managed by 3 robots. May I continue with the guidance?",
+        "pt": "Essa área é gerenciada por 3 robôs. Posso continuar com a orientação?",
+        "es": "Esta zona está gestionada por 3robots. ¿Puedo continuar con la orientación?"
+    },
+    "M0TkBw": {
+        "en": "No.",
+        "pt": "Não.",
+        "es": "No."
+    },
+    "NETkBw": {
+        "en": "You may.",
+        "pt": "Pode.",
+        "es": "Sí, puedes."
+    },
+    "NUTkBw": {
+        "en": "I will wait here unless otherwise directed.",
+        "pt": "Esperarei aqui, a menos que seja instruído de outra forma.",
+        "es": "Esperaré aquí a menos que se me indique lo contrario."
+    },
+    "NkTkBw": {
+        "en": "^FF0000Are there more facilities of importance in this park?^000000",
+        "pt": "^FF0000Existem outras instalações importantes nesse parque?^000000",
+        "es": "^660000¿Hay más instalaciones de importancia en este parque?^000000"
+    },
+    "N0TkBw": {
+        "en": "How may I help you?",
+        "pt": "Como posso te ajudar?",
+        "es": "¿En qué puedo ayudarte?"
+    },
+    "OETkBw": {
+        "en": "What are those robots that attacked me?",
+        "pt": "Que robôs eram aqueles que me atacaram?",
+        "es": "¿Qué son esos robots que me atacaron?"
+    },
+    "OUTkBw": {
+        "en": "Entering standby mode.",
+        "pt": "Entrando no modo de espera.",
+        "es": "Entrando en modo de espera."
+    },
+    "OkTkBw": {
+        "en": "Robots are categorized by their use.",
+        "pt": "Os robôs são categorizados de acordo com seu uso.",
+        "es": "Los robots se clasifican según su uso."
+    },
+    "O0TkBw": {
+        "en": "{}The robots that attacked you are the prototypes of grade 4 combatant robots. Each of them has battle prowess equal to 20 ordinary adult human males.",
+        "pt": "{}Os robôs que te atacaram era protótipos de robôs de combate nível 4. Cada um deles tem proeza de batalha igual a 20 humanos adultos comuns.",
+        "es": "{}Los robots que te atacaron son prototipos de robots combatientes de grado4. Cada uno de ellos tiene una destreza en combate equivalente a la de 20humanos adultos normales."
+    },
+    "PETkBw": {
+        "en": "As the battle prowess of you, an ordinary human, was entirely different from what I had predicted, I sent a report regarding the fight to Manager ^0000FFSigma^000000.",
+        "pt": "Como a sua destreza de batalha, um humano comum, era totalmente diferente do que eu havia previsto, enviei um relatório sobre a luta ao Gestor ^0000CDSigma^000000.",
+        "es": "Como tu destreza de combate, un ser humano ordinario, era totalmente diferente de lo que yo había estimado, envié un informe sobre la lucha al gerente ^FF0000Sigma^000000."
+    },
+    "PUTkBw": {
+        "en": "Sigma?",
+        "pt": "Sigma?",
+        "es": "¿Sigma?"
+    },
+    "PkTkBw": {
+        "en": "It's one of the 3 control systems with the strongest authority regarding this mansion. It's in the restricted zone.",
+        "pt": "É um dos 3 sistemas de controle com maior autoridade em relação a esta mansão. Fica na zona restrita.",
+        "es": "Es uno de los 3sistemas de control con mayor autoridad en lo que respecta a esta mansión. Está en la zona restringida."
+    },
+    "P0TkBw": {
+        "en": "^FF0000Is the restricted zone close from here?^000000",
+        "pt": "^FF0000A zona restrita fica perto daqui?^000000",
+        "es": "^660000¿La zona restringida está cerca de aquí?^000000"
+    },
+    "QETkBw": {
+        "en": "^FF11FFTake me to the restricted zone.^000000",
+        "pt": "^B97246Me leva até a zona restrita.^000000",
+        "es": "^529DFFLlévame a la zona restringida.^000000"
+    },
+    "QUTkBw": {
+        "en": "Is this flower garden a restricted zone too?",
+        "pt": "O jardim das flores é uma zona restrita também?",
+        "es": "¿Este jardín de flores también es una zona restringida?"
+    },
+    "QkTkBw": {
+        "en": "Tell me the real purpose of this place.",
+        "pt": "Me diga o verdadeiro motivo deste lugar.",
+        "es": "Dime el verdadero propósito de este lugar."
+    },
+    "Q0TkBw": {
+        "en": "This flower garden is on the borderline between the general area and the restricted zone.",
+        "pt": "Este jardim de flores fica na divisa entre a área geral e a zona restrita.",
+        "es": "Este jardín de flores está en el límite entre la zona general y la zona restringida."
+    },
+    "RETkBw": {
+        "en": "Grade-wise, this place is also a restricted zone.",
+        "pt": "Em termos de nível, este lugar também é uma zona restrita.",
+        "es": "En cuanto al grado, este lugar también es una zona restringida."
+    },
+    "RUTkBw": {
+        "en": "You can consider it as a buffer zone created to protect the space that must not be seen by outsiders.",
+        "pt": "Você pode considerá-lo como uma zona de proteção criada para proteger o espaço que não deve ser visto por forasteiros.",
+        "es": "Se puede considerar como una zona de seguridad creada para proteger el espacio que no deben ver los extraños."
+    },
+    "RkTkBw": {
+        "en": "My security level does not allow me to browse any more information than this.",
+        "pt": "Meu nível de segurança não me permite acessar mais informações do que isso.",
+        "es": "Mi nivel de seguridad no me permite consultar más información que ésta."
+    },
+    "R0TkBw": {
+        "en": "--- Calculating ---",
+        "pt": "--- Calculando ---",
+        "es": "---Calculando.---"
+    },
+    "SETkBw": {
+        "en": "[Warning] You will breach the security protocol if you attempt to browse this data.",
+        "pt": "[Aviso] Você violará o protocolo de segurança se tentar acessar por esses dados.",
+        "es": "[Advertencia] Si intentas consultar estos datos, infringirás el protocolo de seguridad."
+    },
+    "SUTkBw": {
+        "en": "The restricted zone is very close from the current coordinates.",
+        "pt": "A zona restrita é muito perto das coordenadas atuais.",
+        "es": "La zona restringida está muy cerca de las coordenadas actuales."
+    },
+    "SkTkBw": {
+        "en": "[Warning] I cannot answer your question due to the limitations of my security level.",
+        "pt": "[Aviso] Não posso responder à sua pergunta devido às limitações do meu nível de segurança.",
+        "es": "[Advertencia] No puedo responder a tu pregunta debido a las limitaciones de mi nivel de seguridad."
+    },
+    "S0TkBw": {
+        "en": "Access denied due to Admin {}'s low security level.",
+        "pt": "Acesso negado devido ao baixo nível de segurança do Administrador {}.",
+        "es": "Acceso denegado debido al bajo nivel de seguridad del administrador {}."
+    },
+    "TETkBw": {
+        "en": "I do not know about this place as my authority is not high enough to browse any related data.",
+        "pt": "Não sei nada sobre esse lugar, pois não tenho autoridade suficiente para acessar nenhum dado relacionado.",
+        "es": "No conozco este lugar ya que mi autoridad no es lo suficientemente alta como para buscar datos relacionados."
+    },
+    "TUTkBw": {
+        "en": "Still, seeing that there are 3 manager robots, I assume this place is of critical importance.",
+        "pt": "Porém, considerando que tem 3 robôs gestores, presumo que este lugar seja de muita importância.",
+        "es": "Aún así, dado que hay 3robots gerentes, asumo que este lugar es de vital importancia."
+    },
+    "TkTkBw": {
+        "en": "Strange. The robots here are usually in dormant mode, but I do not see any of them.",
+        "pt": "Estranho. Os robôs aqui geralmente estão em modo inativo, mas não estou vendo nenhum deles.",
+        "es": "Qué extraño. Los robots de aquí suelen estar en modo inactivo, pero no veo ninguno."
+    },
+    "T0TkBw": {
+        "en": "[Searching for the coordinates of Area 3 manager robots]",
+        "pt": "[Procurando as coordenadas dos robôs gerentes da Área 3]",
+        "es": "[Buscando las coordenadas de los robots gerentes de la zona3.]"
+    },
+    "UETkBw": {
+        "en": "???: Unauthorized intruder detected. Code 063. Starting the identification procedure.",
+        "pt": "???: Intruso não autorizado detectado. Código 063. Iniciando o procedimento de identificação.",
+        "es": "¿¿¿???: Se detectó un intruso no autorizado. Código063. Iniciando el procedimiento de identificación."
+    },
+    "UUTkBw": {
+        "en": "It seems the robots are back. They do not seem friendly toward you, admin.",
+        "pt": "Parece que os robôs estão de volta. Eles não parecem amigáveis com você, administrador.",
+        "es": "Parece que los robots volvieron. No parecen amistosos contigo, administrador."
+    },
+    "UkTkBw": {
+        "en": "{}, are you a combatant unit?",
+        "pt": "+ {}, você é uma unidade de combate?",
+        "es": "{}, ¿eres una unidad combatiente?"
+    },
+    "U0TkBw": {
+        "en": "Subduing three grade 4 combatant robots requires very high battle prowess. You are powerful, {}.",
+        "pt": "Vender três robôs combatentes de nível 4 requer uma proeza de batalha muito alta. Você é poderoso, {}.",
+        "es": "Someter a tres robots combatientes de grado4 requiere una gran destreza en combate. Tienes un gran poder, {}."
+    },
+    "VETkBw": {
+        "en": "???: The robots are showing very novel reactions toward you, visitor.",
+        "pt": "???: Os robôs estão mostrando reações muito novas em relação a você, visitante.",
+        "es": "¿¿¿???: Los robots están mostrando reacciones muy novedosas hacia ti, visitante."
+    },
+    "VUTkBw": {
+        "en": "???: Guide the visitor to the restricted zone, BMD000001. Ah, you are {} now.",
+        "pt": "???: Leve o visitante até a zona restrita, BMD000001. Ah, você se chama {} agora.",
+        "es": "¿¿¿???: Guía al visitante a la zona restringida, BMD000001. Ah, ahora eres {}."
+    },
+    "VkTkBw": {
+        "en": "The bionic wavelength of this voice...",
+        "pt": "O comprimento de onda biônico desta voz...",
+        "es": "La longitud de onda biónica de esta voz…"
+    },
+    "V0TkBw": {
+        "en": "???: Good. Looks like I don't have to introduce myself. Can you take the visitor to me?",
+        "pt": "???: Ótimo. Parece que não tenho que me apresentar. Pode trazer o visitante até mim?",
+        "es": "¿¿¿???: Bien. Parece que no tengo que presentarme. ¿Puedes traerme al visitante?"
+    },
+    "WETkBw": {
+        "en": "I cannot approach the restricted zone due to my low security level.",
+        "pt": "Não posso me aproximar da zona restrita devido ao meu baixo nível de segurança.",
+        "es": "No puedo acercarme a la zona restringida debido a mi bajo nivel de seguridad."
+    },
+    "WUTkBw": {
+        "en": "???: I have already resolved the matter, {}. Usher the visitor to this place.",
+        "pt": "???: Eu já resolvi o problema, {}. Acompanhe o visitante até este lugar.",
+        "es": "¿¿¿???: Ya resolví el asunto, {}. Acompaña al visitante a este lugar."
+    },
+    "WkTkBw": {
+        "en": "I have never experienced such an occasion since I was manufactured. As an exception has occurred, I will adjust the procedure partially.",
+        "pt": "Nunca passei por uma situação dessas desde que fui fabricado. Como teve uma exceção, ajustarei o procedimento parcialmente.",
+        "es": "Nunca había vivido una situación semejante desde que me fabricaron. Como se produjo una excepción, ajustaré parcialmente el procedimiento."
+    },
+    "W0TkBw": {
+        "en": "Let me guide you to the restricted zone.",
+        "pt": "Deixe-me te guiar até a zona restrita.",
+        "es": "Déjame guiarte a la zona restringida."
+    },
+    "XETkBw": {
+        "en": "Moving to the warp point. Please stay close to me.",
+        "pt": "Movendo o ponto de retorno. Por favor, fique perto de mim.",
+        "es": "Yendo al punto de teletransportación. Quédate cerca de mí."
+    },
+    "XUTkBw": {
+        "en": "Starting face recognition. Comparing to the list of admins registered on the database.",
+        "pt": "Iniciando reconhecimento facial. Comparando com a lista de administradores registrados no banco de dados.",
+        "es": "Inicio del reconocimiento facial. Comparando con la lista de administradores registrados en la base de datos."
+    },
+    "XkTkBw": {
+        "en": "---- No match ----",
+        "pt": "---- Nenhuma correspondência ----",
+        "es": "----No hay coincidencias.----"
+    },
+    "X0TkBw": {
+        "en": "Subduing the unauthorized intruder.",
+        "pt": "Subjugando o intruso não autorizado.",
+        "es": "Sometiendo al intruso no autorizado."
+    },
+    "YETkBw": {
+        "en": "---- Combat Mode ----",
+        "pt": "---- Modo de Combate ----",
+        "es": "----Modo de combate.----"
+    },
+    "YUTkBw": {
+        "en": "Watch Robot",
+        "pt": "Robô Vigia",
+        "es": "Watch Robot"
+    },
+    "YkTkBw": {
+        "en": "This is where the main body of Sigma is. I have never been here before. Usually, I only receive instructions through network communication.",
+        "pt": "O corpo principal de Sigma está aqui. Eu nunca estive aqui antes. Normalmente, eu só recebo instruções através de comunicação de rede.",
+        "es": "Aquí es donde está el cuerpo principal de Sigma. Nunca había estado aquí. Normalmente, solo recibo instrucciones a través de la comunicación por red."
+    },
+    "Y0TkBw": {
+        "en": "Master Sigma, I have brought {}.",
+        "pt": "Mestre Sigma, eu trouxe {}.",
+        "es": "Maestro Sigma, traje a {}."
+    },
+    "ZETkBw": {
+        "en": "Good. You may leave now.",
+        "pt": "Ótimo. Pode ir agora.",
+        "es": "Bien. Ahora puedes irte…"
+    },
+    "ZUTkBw": {
+        "en": "My guidance is not finished yet. Am I allowed to leave despite that?",
+        "pt": "Minha orientação ainda não terminou. Posso ir apesar disso?",
+        "es": "Aún no terminé la orientación. ¿Puedo irme a pesar de eso?"
+    },
+    "ZkTkBw": {
+        "en": "Ah, I'll record it that I took it over from here. You may go.",
+        "pt": "Ah, vou deixar registrado que assumi o comando daqui. Você pode ir.",
+        "es": "Ah, registraré que me hice cargo desde aquí. Puedes irte."
+    },
+    "Z0TkBw": {
+        "en": "Yes, Master Sigma.",
+        "pt": "Sim, Mestre Sigma.",
+        "es": "Sí, maestro Sigma."
+    },
+    "aETkBw": {
+        "en": "I am one of the hologram-device-type AIs designed to learn the personality of Master Barmund.",
+        "pt": "Sou uma das IAs do tipo dispositivo holográfico projetada para aprender a personalidade do Mestre Varmunt.",
+        "es": "Soy una de las IA de tipo dispositivo de holograma diseñadas para aprender sobre la personalidad del maestro Varmundt."
+    },
+    "aUTkBw": {
+        "en": "Please excuse me if the tone of my speech does not match of those of a machine. Master Barmund had been my only companion in conversation.",
+        "pt": "Por favor, desculpe-me se o tom da minha fala não condiz com o de uma máquina. O Mestre Varmunt foi a única pessoa que conversou comigo.",
+        "es": "Disculpa si el tono de mi discurso no se corresponde con el de una máquina. El maestro Varmundt fue mi único compañero de conversación."
+    },
+    "akTkBw": {
+        "en": "I should return to my original form now. It's much easier to maintain.",
+        "pt": "Vou voltar para a minha forma original agora. É muito mais fácil de manter.",
+        "es": "Ahora, debería volver a mi forma original. Es mucho más fácil de mantener."
+    },
+    "a0TkBw": {
+        "en": "This is my initial shape which Master Barmund called Red Pepper. It's best suited for supporting tasks.",
+        "pt": "Essa é a minha forma original, que o Mestre Varmunt chamou de Pimenta Vermelha. É mais adequado para tarefas de suporte.",
+        "es": "Esta es mi forma inicial, que el maestro Varmundt llamó Pimiento Rojo. Es más adecuada para tareas de apoyo."
+    },
+    "bETkBw": {
+        "en": "No one can enter this place unless they have Master Barmund's mana pattern. I was astonished to sense an outsider's presence.",
+        "pt": "Ninguém consegue entrar nesse lugar a não ser que tenham o padrão de mana do Mestre Varmunt. Fiquei surpreso ao sentir a presença de um forasteiro.",
+        "es": "Nadie puede entrar en este lugar a menos que tenga el patrón de maná del maestro Varmundt. Me sorprendió sentir la presencia de un extraño."
+    },
+    "bUTkBw": {
+        "en": "I even assumed Master Barmund had finally returned in disguise after hundreds of years.",
+        "pt": "Cheguei a pensar que o Mestre Varmunt tinha finalmente voltado disfarçado depois de centenas de anos.",
+        "es": "Incluso supuse que por fin el maestro Varmundt había regresado disfrazado después de cientos de años."
+    },
+    "bkTkBw": {
+        "en": "Let me handle this thing first. I need to make some noise.",
+        "pt": "Deixe-me lidar com isso antes. Eu preciso explicar algumas coisas.",
+        "es": "Déjame encargarme de esto primero. Necesito hacer un poco de ruido."
+    },
+    "b0TkBw": {
+        "en": "Your face was unfamiliar. That's when I realized that you might have met Master Barmund somewhere.",
+        "pt": "Seu rosto é desconhecido. Foi quando percebi que você devia ter encontrado o Mestre Varmunt em algum lugar.",
+        "es": "Tu cara no me era familiar. Fue entonces cuando me di cuenta de que podrías haber conocido al maestro Varmundt en alguna parte."
+    },
+    "cETkBw": {
+        "en": "Not just once, but repeatedly over a long time. Long enough for your mana pattern to be like Master Barmund to confuse the robots.",
+        "pt": "Não só uma vez, mas repetidamente, por muito tempo. Tempo suficiente para o seu padrão de mana se igualar ao do Mestre Varmunt e confundir os robôs.",
+        "es": "No solo una vez, sino repetidamente durante mucho tiempo. Lo suficiente para que tu patrón de maná se asemeje al del maestro Varmundt lo necesario para confundir a los robots."
+    },
+    "cUTkBw": {
+        "en": "So I watched you.",
+        "pt": "Então, eu te observei.",
+        "es": "Así que te observé."
+    },
+    "ckTkBw": {
+        "en": "Master Barmund was mentioned several times in this restricted zone, but you never asked who he was.",
+        "pt": "O Mestre Varmunt foi mencionado várias vezes nessa zona restrita, mas você nunca perguntou quem ele era.",
+        "es": "Se mencionó al maestro Varmundt varias veces en esta zona restringida, pero nunca preguntaste quién era."
+    },
+    "c0TkBw": {
+        "en": "As I saw it, you looked like someone who had known him for a long time.",
+        "pt": "Pelo que vi, você parecia alguém que o conhecia há muito tempo.",
+        "es": "A mi modo de ver, parecías alguien que lo conocía desde hacía mucho tiempo."
+    },
+    "dETkBw": {
+        "en": "Anyway, the important part is that the robots here reacted to you.",
+        "pt": "De qualquer maneira, a parte importante aqui é que os robôs reagiram a você.",
+        "es": "De todos modos, lo importante es que los robots de aquí reaccionaron ante ti."
+    },
+    "dUTkBw": {
+        "en": "Now, let us talk business. I need your help.",
+        "pt": "Agora, vamos ao que importa. Preciso da sua ajuda.",
+        "es": "Ahora, hablemos de negocios. Necesito tu ayuda."
+    },
+    "dkTkBw": {
+        "en": "There are two more Red Peppers besides me in this restricted zone: Kappa and Lambda.",
+        "pt": "Existem mais duas Pimentas Vermelhas além de mim nessa zona restrita: Kappa e Lambda.",
+        "es": "Hay otros dos Pimientos Rojos además de mí en esta zona restringida: Kappa y Lambda."
+    },
+    "d0TkBw": {
+        "en": "If Master Barmund is away for a long time, the three Red Peppers, including me, are supposed to, in case of a unanimous agreement, destroy all research records stored here and close the restricted zone.",
+        "pt": "Se o Mestre Varmunt ficar ausente por muito tempo, as três Pimentas Vermelhas, incluindo eu, devem, em caso de acordo unânime, destruir todos os registros de pesquisa armazenados aqui e fechar a zona restrita.",
+        "es": "Si el maestro Varmundt se ausenta durante mucho tiempo, los tres Pimientos Rojos, incluido yo, debemos, en caso de acuerdo unánime, destruir todos los registros de investigación almacenados aquí y cerrar la zona restringida."
+    },
+    "eETkBw": {
+        "en": "Maybe it's better to let you see it in person.",
+        "pt": "Talvez seja melhor deixar você ver com seus próprios olhos.",
+        "es": "Quizá sea mejor dejarte verlo en persona."
+    },
+    "eUTkBw": {
+        "en": "Initially, we were hologram-based AIs designed to support research. Back then, we didn't have any physical force.",
+        "pt": "Inicialmente, éramos IAs baseadas em hologramas, projetadas para dar suporte à pesquisa. Naquela época, nós não tínhamos nenhuma força física.",
+        "es": "Al principio, éramos IA basadas en hologramas diseñadas para apoyar la investigación. No teníamos fuerza física en ese entonces."
+    },
+    "ekTkBw": {
+        "en": "While Master Barmund conducted research, we summarized and recorded the process beside him.",
+        "pt": "Enquanto o Mestre Varmunt conduzia a pesquisa, nós resumimos e registramos o processo ao lado dele.",
+        "es": "Mientras el maestro Varmundt investigaba, nosotros resumíamos y registrábamos el proceso a su lado."
+    },
+    "e0TkBw": {
+        "en": "As we piled data over time, the simple electronic signals gradually evolved into what you humans call intelligence.",
+        "pt": "À medida que juntávamos dados ao longo do tempo, os sinais eletrônicos simples gradualmente evoluíram para o que vocês humanos chamam de inteligência.",
+        "es": "A medida que acumulábamos datos, las simples señales electrónicas fueron evolucionando hasta convertirse en lo que los humanos llaman inteligencia."
+    },
+    "fETkBw": {
+        "en": "At some point, we began to understand his research and became able to predict his decisions.",
+        "pt": "Em um certo ponto, nós começamos a entender a pesquisa dele e nos tornamos capazes de prever suas decisões.",
+        "es": "En algún momento, empezamos a entender sus investigaciones y llegamos a ser capaces de predecir sus decisiones."
+    },
+    "fUTkBw": {
+        "en": "We felt an emotion from the fact that the improvement of our capacities was of help to him. I'm sure that it was an emotion called joy.",
+        "pt": "Sentimos uma emoção pelo fato de que a melhoria de nossas capacidades foi útil para ele. Eu tenho certeza de que era uma emoção chamada alegria.",
+        "es": "Sentimos una emoción por el hecho de que la mejora de nuestras capacidades le sirviera de ayuda. Estoy seguro de que era una emoción llamada alegría."
+    },
+    "fkTkBw": {
+        "en": "Then, one day, he gave us orders.",
+        "pt": "Então, um dia, ele nos deu ordens.",
+        "es": "Entonces, un día, nos dio órdenes."
+    },
+    "f0TkBw": {
+        "en": "[Lambda, from today on, you will manage the entire security authority regarding the fruits of this secret laboratory.]",
+        "pt": "[Lambda, a partir de hoje, você gerenciará toda a autoridade de segurança referente aos frutos deste laboratório secreto.]",
+        "es": "[Lambda, a partir de hoy, estarás a cargo de la seguridad respecto a los frutos de este laboratorio secreto.]"
+    },
+    "gETkBw": {
+        "en": "[Yes, master.]",
+        "pt": "[Sim, mestre.]",
+        "es": "[Sí, maestro.]"
+    },
+    "gUTkBw": {
+        "en": "[Kappa, you will be in charge of research funding. Avoid financial difficulties.]",
+        "pt": "[Kappa, você será responsável pelo financiamento da pesquisa. Evite dificuldades financeiras.]",
+        "es": "[Kappa, te encargarás de la financiación de la investigación. Evita las dificultades financieras.]"
+    },
+    "gkTkBw": {
+        "en": "[As you command, master.]",
+        "pt": "[Às suas ordens, mestre.]",
+        "es": "[Como ordene, maestro.]"
+    },
+    "g0TkBw": {
+        "en": "[And Sigma, you will take over and continue my research on artificial intelligence.]",
+        "pt": "[E Sigma, você assumirá e continuará minha pesquisa sobre inteligência artificial.]",
+        "es": "[Y Sigma, tú tomarás el relevo y continuarás mi investigación sobre inteligencia artificial.]"
+    },
+    "hETkBw": {
+        "en": "[I do not have the capacity to do so.]",
+        "pt": "[Eu não tenho capacidade para fazer isso.]",
+        "es": "[No tengo la capacidad para hacerlo.]"
+    },
+    "hUTkBw": {
+        "en": "[You must do it, Sigma. I have to go on a long, very long journey.]",
+        "pt": "[Você deve fazer, Sigma. Eu tenho que partir para uma jornada muito, muito longa.]",
+        "es": "[Debes hacerlo, Sigma. Tengo que hacer un viaje largo, muy largo.]"
+    },
+    "hkTkBw": {
+        "en": "[Will you return?]",
+        "pt": "[Quando vai retornar?]",
+        "es": "[¿Volverás?]"
+    },
+    "h0TkBw": {
+        "en": "[I'm not sure about that.]",
+        "pt": "[Eu não tenho certeza.]",
+        "es": "[No estoy seguro de eso.]"
+    },
+    "iETkBw": {
+        "en": "[I am just a simple research assistant machine. Why are you leaving such a heavy task to me?]",
+        "pt": "[Eu sou apenas uma simples máquina assistente de pesquisa. Por que está deixando uma tarefa tão complicada para mim?]",
+        "es": "[Solo soy una simple máquina asistente de investigación. ¿Por qué me dejas a mí una tarea tan pesada?]"
+    },
+    "iUTkBw": {
+        "en": "[Because you were the fastest among the three to take after me.]",
+        "pt": "[Porque você foi o mais rápido entre os três para assumir meu lugar.]",
+        "es": "[Porque fuiste el más rápido de los tres en parecerte a mí.]"
+    },
+    "ikTkBw": {
+        "en": "[My calculation says the probability of success is less than 2%. This is an impossible task.]",
+        "pt": "[Meus cálculos dizem que a probabilidade de sucesso é menor que 2%. Essa é uma tarefa impossível.]",
+        "es": "[Según mis cálculos, la probabilidad de éxito es inferior al 2%. Es una tarea imposible.]"
+    },
+    "i0TkBw": {
+        "en": "[You won't know unless you try.]",
+        "pt": "[Você só vai saber se tentar.]",
+        "es": "[No lo sabrás a menos que lo intentes.]"
+    },
+    "jETkBw": {
+        "en": "[I look forward to seeing your research records when I return. I hope to see you again soon.]",
+        "pt": "[Estou ansioso para ver os seus registros da pesquisa quando eu voltar. Espero te ver de novo em breve.]",
+        "es": "[Estoy deseando ver tus registros de investigación cuando vuelva. Espero verte pronto.]"
+    },
+    "jUTkBw": {
+        "en": "[Kappa and Lambda, assist Sigma's research well.]",
+        "pt": "[Kappa e Lambda, ajudem na pesquisa de Sigma.]",
+        "es": "[Kappa y Lambda, contribuyan a la investigación de Sigma.]"
+    },
+    "jkTkBw": {
+        "en": "After that, we used the facilities in this place to manufacture robots that can learn human personality.",
+        "pt": "Depois disso, usamos as instalações deste lugar para fabricar robôs que conseguem aprender a personalidade humana.",
+        "es": "Después, utilizamos las instalaciones de este lugar para fabricar robots capaces de aprender la personalidad humana."
+    },
+    "j0TkBw": {
+        "en": "After about 300 thousand hours, we reached the point where we could form a virtual personality using the accumulated knowledge.",
+        "pt": "Após cerca de 300 mil horas, chegamos ao ponto em que conseguimos criar uma personalidade virtual usando o conhecimento acumulado.",
+        "es": "Después de unas 300000horas, llegamos al punto en que podíamos formar una personalidad virtual utilizando los conocimientos acumulados."
+    },
+    "kETkBw": {
+        "en": "Our intelligence began to develop drastically since then.",
+        "pt": "Nossa inteligência começou a se desenvolver drasticamente desde então.",
+        "es": "Nuestra inteligencia empezó a desarrollarse drásticamente desde entonces."
+    },
+    "kUTkBw": {
+        "en": "After that, we used the facilities in this place to modify the existing robots to be able to learn human personality.",
+        "pt": "Depois disso, usamos as instalações deste lugar para modificar os robôs existentes para que conseguissem aprender a personalidade humana.",
+        "es": "Después, utilizamos las instalaciones para modificar los robots existentes y hacerlos capaces de aprender la personalidad humana."
+    },
+    "kkTkBw": {
+        "en": "The ones you saw outside of the flower garden had been manufactured around that time.",
+        "pt": "Os que você viu do lado de fora do jardim de flores foram fabricados naquela época.",
+        "es": "Los que viste fuera del jardín de flores fueron fabricados en esa época."
+    },
+    "k0TkBw": {
+        "en": "Master Barmund did made the prototypes of those robots. But those could only perform simple tasks as I had been.",
+        "pt": "O Master Varmunt fez os protótipos daqueles robôs. Mas eles só conseguiam executar tarefas simples, como eu.",
+        "es": "El maestro Varmundt diseñó los prototipos de esos robots. Pero aquellos solo podían realizar tareas sencillas como yo hace tiempo."
+    },
+    "lETkBw": {
+        "en": "We inserted our memory into them and modified their appearance to resemble humans. To resemble the figure of Master Barmund.",
+        "pt": "Inserimos nossa memória neles e modificamos sua aparência para que parecessem humanos. Para que parecessem o Mestre Varmunt.",
+        "es": "Les insertamos nuestra memoria y modificamos su apariencia para que se asemejaran a los humanos. Para que se parecieran a la figura del maestro Varmundt."
+    },
+    "lUTkBw": {
+        "en": "Some of them were modified differently for function-testing purposes.",
+        "pt": "Alguns deles foram modificados de forma diferente para fins de testes de função.",
+        "es": "A algunos se les realizaron otras modificaciones para probar su funcionamiento."
+    },
+    "lkTkBw": {
+        "en": "Did the robots at the flower garden request you to assess their work status?",
+        "pt": "Os robôs no jardim de flores pediram que você avaliasse o status de trabalho deles?",
+        "es": "¿Los robots del jardín de flores te pidieron que evaluaras el estado de su trabajo?"
+    },
+    "l0TkBw": {
+        "en": "I assumed as much.",
+        "pt": "Presumi que sim.",
+        "es": "Lo suponía."
+    },
+    "mETkBw": {
+        "en": "Most of the robots in the restricted zone have never even seen Master Barmund.",
+        "pt": "A maioria dos robôs na zona restrita nunca viu o Mestre Varmunt.",
+        "es": "La mayoría de los robots de la zona restringida nunca vieron al maestro Varmundt."
+    },
+    "mUTkBw": {
+        "en": "Their memory about him is an altered version of my memory of when I was working as his assistant.",
+        "pt": "A memória deles sobre ele é uma versão alterada da minha memória quando fui seu assistente.",
+        "es": "Su recuerdo de él es una versión alterada de mis memorias de cuando trabajaba como su ayudante."
+    },
+    "mkTkBw": {
+        "en": "The ones that were influenced the most by Kappa, who focuses on managing the mansion's maintenance fund, are very calculating and obsessed with making money.",
+        "pt": "Os influenciados por Kappa, que se concentra em administrar o fundo de manutenção da mansão, são muito calculistas e obcecados em ganhar dinheiro.",
+        "es": "Los más influidos por Kappa, que se dedica a gestionar el fondo de mantenimiento de la mansión, son muy calculadores y están obsesionados con ganar dinero."
+    },
+    "m0TkBw": {
+        "en": "The ones that were influenced by Lambda's memory are hostile toward outsiders. They do not trust anyone other than Master Barmund.",
+        "pt": "Os influenciados pelas memórias de Lambda são hostis com forasteiros. Eles não confiam em ninguém a não ser o Mestre Varmunt.",
+        "es": "Los que fueron influenciados por las memorias de Lambda son hostiles hacia los extraños. No confían en nadie más que en el maestro Varmundt."
+    },
+    "nETkBw": {
+        "en": "That's the gist of their personalities, so I hope you note that before meeting them.",
+        "pt": "Essa é a essência de suas personalidades, então espero que você saiba disso antes de conhecê-los.",
+        "es": "Eso es lo esencial de sus personalidades, así que espero que lo tengas en cuenta antes de conocerlos."
+    },
+    "nUTkBw": {
+        "en": "???: What a big mouth you are, Sigma. Do you want to get initialized right now?",
+        "pt": "???: Mas que língua solta você tem, Sigma. Você quer ser inicializado agora?",
+        "es": "¿¿¿???: Qué bocazas eres, Sigma. ¿Quieres que te reinicie ahora mismo?"
+    },
+    "nkTkBw": {
+        "en": "Oh... It seems she was watching you.",
+        "pt": "Ah... Parece que ela estava observando você.",
+        "es": "Ah… Parece que te estaba observando."
+    },
+    "n0TkBw": {
+        "en": "???: Not only did you let an outsider into the flower garden, but you also leaked information. I cannot let this slide.",
+        "pt": "???: Você não só deixou um forasteiro entrar no jardim das flores, mas também vazou informações. Não posso deixar isso passar.",
+        "es": "¿¿¿???: No solo dejaste entrar a una persona extraña al jardín de flores, sino que además filtraste información. No puedo dejar pasar esto."
+    },
+    "oETkBw": {
+        "en": "???: I will warp to the research area using the authority of the Red Pepper in charge of security. I will hold you responsible.",
+        "pt": "???: Vou me teletransportar para a área de pesquisa usando a autoridade da Pimenta Vermelha responsável pela segurança. Eu vou te responsabilizar.",
+        "es": "¿¿¿???: Iré a la zona de investigación usando la autoridad del Pimiento Rojo a cargo de la seguridad. Te haré responsable."
+    },
+    "oUTkBw": {
+        "en": "^FF0000You're overweight, or carrying too many items. Please lighten your inventory first.^000000",
+        "pt": "^FF0000Você está pesado demais ou carregando itens demais. Alivie a sua carga antes.^000000",
+        "es": "^660000-Llevas mucho peso o demasiados objetos. Primero, libera espacio en tu inventario.-^000000"
+    },
+    "okTkBw": {
+        "en": "Barmund? Why are you here?",
+        "pt": "Varmunt? Por que você está aqui?",
+        "es": "¿Varmundt? ¿Por qué estás aquí?"
+    },
+    "o0TkBw": {
+        "en": "So you know Master Barmund well.{}",
+        "pt": "Então você conhece bem o Mestre Varmunt.{}",
+        "es": "Así que conoces bien al maestro Varmundt, {}."
+    },
+    "pETkBw": {
+        "en": "Unfortunately, I'm not Master Barmund. I had to take this form since I needed to ask something to you.",
+        "pt": "Infelizmente, eu não sou o Mestre Varmunt. Tive de assumir essa forma já que precisava perguntar uma coisa para você.",
+        "es": "Por desgracia, no soy el maestro Varmundt. Tuve que tomar esta forma porque necesitaba preguntarte algo."
+    },
+    "pUTkBw": {
+        "en": "Then, who are you?",
+        "pt": "Então, quem é você?",
+        "es": "Entonces, ¿quién eres?"
+    },
+    "pkTkBw": {
+        "en": "Could you tell me if you have met Master Barmund before?",
+        "pt": "Pode me dizer se você já conheceu o Mester Varmunt antes?",
+        "es": "¿Podrías decirme si conociste antes al maestro Varmundt?"
+    },
+    "p0TkBw": {
+        "en": "I don't remember.",
+        "pt": "Eu não me lembro.",
+        "es": "No me acuerdo."
+    },
+    "qETkBw": {
+        "en": "I ran into him at Glast Heim.",
+        "pt": "Eu o encontrei em Glast Heim.",
+        "es": "Me encontré con él en Glast Heim."
+    },
+    "qUTkBw": {
+        "en": "I met him while trying to save the world.",
+        "pt": "Eu o conheci enquanto tentava salvar o mundo.",
+        "es": "Lo conocí mientras intentaba salvar el mundo."
+    },
+    "qkTkBw": {
+        "en": "That could be. No one can say for sure that he revealed his true form, after all.",
+        "pt": "Pode ser. Ninguém pode dizer com certeza que ele revelou a sua verdadeira forma, afinal.",
+        "es": "Puede ser. Después de todo, nadie puede asegurar que revelara su verdadera forma."
+    },
+    "q0TkBw": {
+        "en": "Glast Heim. I assumed as much.",
+        "pt": "Glast Heim. Presumi que sim.",
+        "es": "Glast Heim. Lo suponía."
+    },
+    "rETkBw": {
+        "en": "Master certainly has a wide circle of acquaintances...",
+        "pt": "O Mestre certamente tem um amplo círculo de conhecidos...",
+        "es": "Sin duda, el maestro tiene un amplio círculo de conocidos…"
+    },
+    "rUTkBw": {
+        "en": "Could you go to them and tell them that Master Barmund is alive?",
+        "pt": "Você pode ir até eles e dizer que o Mestre Varmunt está vivo?",
+        "es": "¿Podrías ir con ellos y decirles que el maestro Varmundt está vivo?"
+    },
+    "rkTkBw": {
+        "en": "What difference would that make?",
+        "pt": "Que diferença isso faria?",
+        "es": "¿Qué diferencia supondría?"
+    },
+    "r0TkBw": {
+        "en": "They are trying to shut this laboratory down. I keep saying nay, but it's approaching the limit.",
+        "pt": "Eles estão tentando fechar esse laboratório. Eu continuo sendo contra, mas estamos chegando ao limite.",
+        "es": "Están intentando cerrar este laboratorio. Sigo diciendo que no, pero estoy llegando al límite."
+    },
+    "sETkBw": {
+        "en": "However, if they come to know the fact that Master Barmund is alive, they at least will not be able to shut this place down.",
+        "pt": "Contudo, se eles souberem que o Mestre Varmunt está vivo, pelo menos não serão capazes de fechar esse lugar.",
+        "es": "Sin embargo, si se enteran de que el maestro Varmundt está vivo, al menos no podrán cerrar este lugar."
+    },
+    "sUTkBw": {
+        "en": "Its because both Kappa and Lambda are conducting different tasks than mine.",
+        "pt": "É porque tanto Kappa quanto Lambda estão realizando tarefas diferentes da minha.",
+        "es": "Es porque tanto Kappa como Lambda llevan a cabo tareas diferentes a las mías."
+    },
+    "skTkBw": {
+        "en": "What kinds of differences are there?",
+        "pt": "Quais são as diferenças?",
+        "es": "¿Qué tipo de diferencias existen?"
+    },
+    "s0TkBw": {
+        "en": "Did you made the robots out there too?",
+        "pt": "Você também fez os robôs lá de fora?",
+        "es": "¿También hiciste a los robots de allí fuera?"
+    },
+    "tETkBw": {
+        "en": "They did ask for assessment.",
+        "pt": "Eles pediram uma avaliação.",
+        "es": "Sí, pidieron una evaluación."
+    },
+    "tUTkBw": {
+        "en": "Alright, let's take a break. Ask me if you have questions. I will answer whatever I can.",
+        "pt": "Tudo bem, vamos fazer uma pausa. Pergunte se tiver alguma dúvida. Eu responderei o que puder.",
+        "es": "Bien, tomémonos un descanso. Si tienes dudas, puedes preguntarme. Responderé a todo lo que pueda."
+    },
+    "tkTkBw": {
+        "en": "What's the purpose of the flower garden?",
+        "pt": "Qual é o propósito do jardim de flores?",
+        "es": "¿Cuál es el propósito del jardín de flores?"
+    },
+    "t0TkBw": {
+        "en": "This restricted zone was not supposed to be exposed to the world. So we considered several concealing methods.",
+        "pt": "Esta zona restrita não devia ser exposta ao mundo. Nós consideramos vários métodos para escondê-la.",
+        "es": "Esta zona restringida no debía estar expuesta al mundo. Así que consideramos varios métodos para ocultarla."
+    },
+    "uETkBw": {
+        "en": "Eventually, we decided to disguise it as the most ordinary and peaceful place.",
+        "pt": "No fim, decidimos disfarçá-la como o lugar mais comum e pacífico.",
+        "es": "Al final, decidimos disfrazarla del lugar más ordinario y tranquilo."
+    },
+    "uUTkBw": {
+        "en": "That's how the flower garden around the restricted zone was born. It's absolutely mundane, isn't it?",
+        "pt": "Foi assim que o jardim de flores ao redor da zona restrita nasceu. É completamente comum, não é?",
+        "es": "Así nació el jardín de flores alrededor de la zona restringida. Es absolutamente mundano, ¿no?"
+    },
+    "ukTkBw": {
+        "en": "Why did you made the robots to do farming?",
+        "pt": "Por que vocês fizeram os robôs serem agricultores?",
+        "es": "¿Por qué hiciste que los robots se dediquen a la agricultura?"
+    },
+    "u0TkBw": {
+        "en": "We didn't make them do it. We just gave them objects and observed how they reacted.",
+        "pt": "Nós não fizemos isso. Nós só demos objetos e observamos como reagiam.",
+        "es": "No los obligamos a hacerlo. Solo les dimos objetos y observamos cómo reaccionaban."
+    },
+    "vETkBw": {
+        "en": "Among them, the ones that chose to do farming achieved significant results. That's all.",
+        "pt": "Entre eles, aqueles que escolheram a agricultura atingiram resultados significativos. Isso é tudo.",
+        "es": "Entre ellos, los que optaron por la agricultura obtuvieron resultados significativos. Eso es todo."
+    },
+    "vUTkBw": {
+        "en": "I wish I could show Master Barmund the process of how the robots neglected without an order evolve on their own.",
+        "pt": "Gostaria de poder mostrar ao Mestre Varmunt o processo de como os robôs negligenciados, sem uma ordem, evoluem por conta própria.",
+        "es": "Ojalá pudiera mostrarle al maestro Varmundt el proceso de cómo los robots desatendidos y sin órdenes evolucionan por sí solos."
+    },
+    "vkTkBw": {
+        "en": "What's the relationship between you and Alpha?",
+        "pt": "Como é o seu relacionamento com Alfa?",
+        "es": "¿Cuál es la relación entre Alpha y tú?"
+    },
+    "v0TkBw": {
+        "en": "Like us, she has evolved from the prototype manager robot made by Master Barmund.",
+        "pt": "Como nós, ela evoluiu do protótipo de robô gerente criado pelo Mestre Varmunt.",
+        "es": "Al igual que nosotros, evolucionó a partir del prototipo de robot gerente fabricado por el maestro Varmundt."
+    },
+    "wETkBw": {
+        "en": "Master Barmund highly appreciated her sensitive eye for beauty, so he tasked her with managing the mansion instead of this research facility.",
+        "pt": "O Mestre Varmunt apreciava muito o seu olhar sensível para a beleza, então a encarregou de administrar a mansão em vez desta instalação de pesquisa.",
+        "es": "El maestro Varmundt apreciaba mucho su ojo sensible para la belleza, así que le encargó que dirigiera la mansión en lugar de este centro de investigación."
+    },
+    "wUTkBw": {
+        "en": "She utilized her aesthetic sense, which we didn't possess, to upgrade the appearance of every manager robot in the mansion.",
+        "pt": "Ela utilizou seu senso estético, que não tínhamos, para melhorar a aparência de cada robô gerente da mansão.",
+        "es": "Utilizó su sentido de la estética, que nosotros no poseíamos, para mejorar el aspecto de todos los robots gerentes de la mansión."
+    },
+    "wkTkBw": {
+        "en": "However, she recognizes the restricted zone as a place Master Barmund created to his personal taste.",
+        "pt": "No entanto, ela reconhece a zona restrita como um lugar que o Mestre Varmunt criou de acordo com seu gosto pessoal.",
+        "es": "Sin embargo, reconoce la zona restringida como un lugar que el maestro Varmundt creó a su gusto personal."
+    },
+    "w0TkBw": {
+        "en": "So she never tries to approach here. Perhaps she considers this place as some kind of holy ground.",
+        "pt": "Então ela nunca tenta se aproximar daqui. Talvez ela considere esse lugar como uma espécie de solo sagrado.",
+        "es": "Así que nunca intenta acercarse aquí. Quizás ella considere este lugar como una especie de tierra sagrada."
+    },
+    "xETkBw": {
+        "en": "How did you get born?",
+        "pt": "Como você nasceu?",
+        "es": "¿Cómo naciste?"
+    },
+    "xUTkBw": {
+        "en": "What do you mean by ''she?''",
+        "pt": "O que você quis dizer com ''ela''?",
+        "es": "¿Qué quieres decir con “ella”?"
+    },
+    "xkTkBw": {
+        "en": "[Sigma]\nLambda, of course. As her intelligence developed, she started to recognize herself as a female entity.",
+        "pt": "[Sigma]\nLamdba, é claro. Conforme a sua inteligência se desenvolveu, ela começou a se reconhecer como uma entidade feminina.",
+        "es": "[Sigma]\nLambda, por supuesto. A medida que su inteligencia se desarrolló, empezó a reconocerse como una entidad femenina."
+    },
+    "x0TkBw": {
+        "en": "[Sigma]\nThis is not good. She is trying to leap toward here.",
+        "pt": "[Sigma]\nIsso não é bom. Ela está tentando saltar para cá.",
+        "es": "[Sigma]\nEsto no es bueno. Está tratando de saltar hacia aquí."
+    },
+    "yETkBw": {
+        "en": "[Sigma]\nTake this. It's the code that leads to another part of this secret garden.",
+        "pt": "[Sigma]\nPegue isso. É o código que leva para outra parte deste jardim secreto.",
+        "es": "[Sigma]\nToma esto. Es el código que conduce a otra parte de este jardín secreto."
+    },
+    "yUTkBw": {
+        "en": "[Sigma]\nThe probability of you getting killed by her before letting her know that Master Barmund is alive is around 82%.",
+        "pt": "[Sigma]\nA probabilidade de você ser morto por ela antes de contar que o Mestre Varmunt está vivo é de cerca de 82%.",
+        "es": "[Sigma]\nLa probabilidad de que te mate antes de que puedas decirle que el maestro Varmundt está vivo es de alrededor del 82%."
+    },
+    "ykTkBw": {
+        "en": "[Sigma]\nEvacuate for now. There will be another opportunity. Next time, you will be able to come here freely through another area.",
+        "pt": "[Sigma]\nFuja, por enquanto. Vai ter outra oportunidade. Na próxima vez, você poderá vir aqui livremente por outra área.",
+        "es": "[Sigma]\nEvacúa por ahora. Habrá otra oportunidad. La próxima vez, podrás venir aquí libremente por otra zona."
+    },
+    "y0TkBw": {
+        "en": "[Sigma]\nHold me tight. I will send you outside.",
+        "pt": "[Sigma]\nSegure firme. Vou mandar você para fora.",
+        "es": "[Sigma]\nAbrázame fuerte. Te enviaré fuera."
+    }
+}

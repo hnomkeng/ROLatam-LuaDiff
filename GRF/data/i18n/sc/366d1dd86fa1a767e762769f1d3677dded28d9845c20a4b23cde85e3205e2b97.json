@@ -1,0 +1,2627 @@
+{
+    "oPLdAg": {
+        "en": "Rune Knight Job Change Admission Manager",
+        "pt": "Cavaleiro Rúnico",
+        "es": "Rune Knight Cambio de trabajo Gestor de admisiones"
+    },
+    "ofLdAg": {
+        "en": "Enter password.",
+        "pt": "Digite a senha.",
+        "es": "Introduce la contraseña."
+    },
+    "ovLdAg": {
+        "en": "1854",
+        "pt": "1854",
+        "es": "1854"
+    },
+    "o/LdAg": {
+        "en": "Rune Knight Job Change Management module initialized.",
+        "pt": "Iniciar Módulo de Gerenciamento de Mudança de Classe de Cavaleiro Rúnico",
+        "es": "Módulo para el cambio de clase a Caballero rúnico inicializado."
+    },
+    "pPLdAg": {
+        "en": "Check globalbar.",
+        "pt": "GlobalVar verificado",
+        "es": "Comprobar la barra global."
+    },
+    "pfLdAg": {
+        "en": "Edit globalbar.",
+        "pt": "Modificação GlobalVar Oneshot",
+        "es": "Editar la barra global."
+    },
+    "pvLdAg": {
+        "en": "Pass furnace.",
+        "pt": "Rune quiz pass",
+        "es": "Pasar el horno."
+    },
+    "p/LdAg": {
+        "en": "Currently, your Rune Knight Job Change globalbar is {0}.\nYou can check the number of players in the Rune Knight Test Hall at job3_rune01 1 1.",
+        "pt": "Mudança de Classe GlovalVar de Cavaleiro Rúnico no momento é {0}.\nO número de campos Teste de Cavaleiros Rúnicos no momento é.... job3_rune01 1 1.",
+        "es": "Actualmente, tu barra global del cambio de clase a Caballero rúnico es {0}.\nPuedes comprobar el número de jugadores en el salón de pruebas de Caballeros rúnicos en job 3_rune 0111."
+    },
+    "qPLdAg": {
+        "en": "Change your Rune Knight Job Change globalbar to 0. You can use the Test Hall.",
+        "pt": "Mudança de Classe GlovalVar de Cavaleiro Rúnico mudou para 0. O uso do campo de teste está disponível.",
+        "es": "Cambia a 0 tu barra global del cambio de clase a Caballero rúnico. Puedes utilizar el salón de pruebas."
+    },
+    "qfLdAg": {
+        "en": "Currently, your Rune Knight Job Change globalbar is {0}.\nCurrently, there are {1} players in the Rune Knight Test Hall.",
+        "pt": "Mudança de Classe GlovalVar de Cavaleiro Rúnico no momento é {0}.\nO número de campos Teste de Cavaleiros Rúnicos no momento é {1}.",
+        "es": "Actualmente, tu barra global del cambio de clase a Caballero rúnico es {0}.\nActualmente, hay {1} jugadores en el salón de pruebas de cambio de clase a Caballero rúnico."
+    },
+    "qvLdAg": {
+        "en": "Shining Knight",
+        "pt": "Cavaleiro Esplêndido",
+        "es": "Caballero radiante"
+    },
+    "q/LdAg": {
+        "en": "== Knights can't advance directly to this 3rd job. ==\n== Please become a Lord Knight first. ==",
+        "pt": "== Cavaleiros não podem avançar direto para esta 3ª classe. ==\n== Torne-se um Lorde primeiro. ==",
+        "es": "== Los Caballeros no pueden avanzar directamente a este 3º Clase. ==\n== Por favor, conviértete primero en Lord Caballero. =="
+    },
+    "rPLdAg": {
+        "en": "[Radiant Rune Knight Manuel]\nNow, you're one of us. I still remember how you were the first time we met.",
+        "pt": "[Cavaleiro Rúnico Manuel]\nAgora você é membro da nossa ilustre irmandade. Eu ainda lembro de quando nos conhecemos.",
+        "es": "[Caballero rúnico Manuel]\nAhora, eres de los nuestros. Aún recuerdo cómo te veías cuando te conocí."
+    },
+    "rfLdAg": {
+        "en": "[Radiant Rune Knight Manuel]\nThe long, wide path ahead of us won't always be smooth, but that's just life. The path of the sword. Right?",
+        "pt": "[Cavaleiro Rúnico Manuel]\nLute para viver pelo caminho da espada com honra...",
+        "es": "[Caballero rúnico Manuel]\nEl largo camino que nos espera no siempre será tranquilo, pero así es la vida. Así es el camino de la espada. ¿Verdad?"
+    },
+    "rvLdAg": {
+        "en": "[Radiant Rune Knight Manuel]\nLet's make a toast to our new future.",
+        "pt": "[Cavaleiro Rúnico Manuel]\nViva ao nosso novo futuro...",
+        "es": "[Caballero rúnico Manuel]\nBrindemos por nuestro nuevo futuro."
+    },
+    "r/LdAg": {
+        "en": "[Shining Knight]\nIn this world, there are various paths, and not many people know which one is best for them.",
+        "pt": "[Cavaleiro Rúnico Manuel]\nHá muitos caminhos que uma pessoa pode seguir no mundo. A maior parte das pessoas vê seus caminhos, mas não os seguem...",
+        "es": "[Caballero radiante]\nEn este mundo, hay muchos caminos, y pocas personas saben cuál les conviene más."
+    },
+    "sPLdAg": {
+        "en": "[Shining Knight]\nBy the way, this place has got the finest alcohol I've ever tasted. How'd you like to have a drink with me?",
+        "pt": "[Cavaleiro Rúnico Manuel]\nDe qualquer maneira, as bebidas aqui são muito boas. Gostaria de beber uma??",
+        "es": "[Caballero radiante]\nPor cierto, aquí sirven el mejor licor que he probado en mi vida. ¿Te gustaría tomar un trago conmigo?"
+    },
+    "sfLdAg": {
+        "en": "Sure.",
+        "pt": "Claro, vamos tomar um drink.",
+        "es": "Claro."
+    },
+    "svLdAg": {
+        "en": "No, thanks.",
+        "pt": "Eu recuso.",
+        "es": "No, gracias."
+    },
+    "s/LdAg": {
+        "en": "[Shining Knight]\nYou're on the path of the sword, just like me. We speak the same language, then. Drinking with friends make alcohol taste better.",
+        "pt": "[Cavaleiro Rúnico Manuel]\nVocê também segue o caminho da espada, não? Então nós podemos nos entender. Drinks têm um gosto melhor quando estamos com um colega Espadachim.",
+        "es": "[Caballero radiante]\nEstás recorriendo el camino de la espada, como yo. Así que hablamos el mismo idioma. Si bebes con amigos, el licor sabe mejor."
+    },
+    "tPLdAg": {
+        "en": "[Shining Knight]\nThis is on me. Who knows you'd become my comrade in the future?",
+        "pt": "[Cavaleiro Rúnico Manuel]\nEu pago essa rodada.\nUm brinde à amizade.",
+        "es": "[Caballero radiante]\nYo invito. Quizá seamos camaradas en el futuro, ¿quién sabe?"
+    },
+    "tfLdAg": {
+        "en": "[Shining Knight]\nYou look like you're ready to branch out into a new path.",
+        "pt": "[Cavaleiro Rúnico Manuel]\nEm minha opinião, você parece estar pronto para iniciar um novo caminho...",
+        "es": "[Caballero radiante]\nParece que estás a punto de tomar un camino diferente."
+    },
+    "tvLdAg": {
+        "en": "[Shining Knight]\nThe path of the sword we're on, it's a series of endless ordeals. Neither choice in front of you is easier than the other.",
+        "pt": "[Cavaleiro Rúnico Manuel]\nSeguir o caminho da espada é uma batalha contínua. De agora em diante, você deverá ter uma dura jornada pela frente...",
+        "es": "[Caballero radiante]\nEl camino de la espada es una serie de retos interminables. Ninguna de las opciones que tienes ante ti es más fácil que la otra."
+    },
+    "t/LdAg": {
+        "en": "[Shining Knight]\nIf you want to transcend your limits and reach a new height, I'd love to help you.",
+        "pt": "[Cavaleiro Rúnico Manuel]\nSe você quiser traçar o seu novo caminho e superar as suas limitações, eu estou disposto a ajudá-lo.",
+        "es": "[Caballero radiante]\nSi quieres trascender tus límites y llegar más lejos, con gusto te ayudaré."
+    },
+    "uPLdAg": {
+        "en": "[Shining Knight]\nThe Rune Knight is the true path of the Swordsman that can teach you how to become one with your surroundings in the most harmonious way.",
+        "pt": "[Cavaleiro Rúnico Manuel]\nO verdadeiro caminho para um Espadachim que aprendeu a harmonia para romper os limites de uma espada é o Cavaleiro Rúnico.",
+        "es": "[Caballero radiante]\nEl camino del Caballero rúnico es el verdadero camino de la espada, en el que aprenderás a integrarte con tu entorno de forma más armoniosa."
+    },
+    "ufLdAg": {
+        "en": "[Shining Knight]\nHow'd you like to join us Rune Knights? I believe you're qualified to join the clan.",
+        "pt": "[Cavaleiro Rúnico Manuel]\nPorque não se junta à nossa irmandade? Você parece ser muito bem qualificado para se tornar um de nós.",
+        "es": "[Caballero radiante]\n¿Te gustaría unirte a nosotros, los Caballeros rúnicos? Creo que tienes lo que se necesita para unirte al clan."
+    },
+    "uvLdAg": {
+        "en": "[Shining Knight]\nIf you're interested, I can recommend you to some teachers who can guide you to the path of the Rune Knight.",
+        "pt": "[Cavaleiro Rúnico Manuel]\nSe você estiver interessado, posso recomendá-lo aos mestres que vão guiá-lo pelo caminho dos Cavaleiros Rúnicos,",
+        "es": "[Caballero radiante]\nSi te interesa, puedo recomendarte a algunos maestros que te guiarán en el camino del Caballero rúnico."
+    },
+    "u/LdAg": {
+        "en": "I'm not ready yet.",
+        "pt": "Ainda não estou pronto.",
+        "es": "Aún no me preparé."
+    },
+    "vPLdAg": {
+        "en": "I'm ready to become a Rune Knight.",
+        "pt": "Estou pronto para ser um Cavaleiro Rúnico.",
+        "es": "Ya quiero unirme a los Caballeros rúnicos."
+    },
+    "vfLdAg": {
+        "en": "[Shining Knight]\nI see. New challenges require careful preparation. I understand. I'll wait for you here.",
+        "pt": "[Cavaleiro Rúnico Manuel]\nCerto. Todo desafio precisa de uma preparação. Ok, eu vou esperá-lo.",
+        "es": "[Caballero radiante]\nYa veo. Para enfrentar nuevos retos, es fundamental prepararse bien. Entiendo. Te esperaré aquí."
+    },
+    "vvLdAg": {
+        "en": "[Shining Knight]\nOf course, not all new paths are led to glory, either.",
+        "pt": "[Cavaleiro Rúnico Manuel]\nÉ óbvio que eu só o aceitaria se você tiver cem por cento de certeza de que quer se tornar um Cavaleiro Rúnico.",
+        "es": "[Caballero radiante]\nPero claro, no todos los caminos nuevos llevan a la gloria."
+    },
+    "v/LdAg": {
+        "en": "[Shining Knight]\nAre you? Excellent! I'll talk to my colleagues for you.",
+        "pt": "[Cavaleiro Rúnico Manuel]\nAgora você tem certeza?\nDeixe-me mandar um aviso para meus companheiros de que você está disposto a se juntar a nós.",
+        "es": "[Caballero radiante]\n¿Sí? ¡Excelente! Les hablaré a mis camaradas de ti."
+    },
+    "wPLdAg": {
+        "en": "[Shining Knight]\nYou know Glastheim, right? A Rune Knight will be waiting for you at the entrance to the Glastheim castle.",
+        "pt": "[Cavaleiro Rúnico Manuel]\nConhece um lugar chamado Glastheim? Há um Cavaleiro Rúnico esperando por você lá, ele irá guiá-lo para a entrada da Torre de Glastheim.",
+        "es": "[Caballero radiante]\nConoces Glastheim, ¿verdad? Un Caballero rúnico te estará esperando en la entrada del castillo de Glastheim."
+    },
+    "wfLdAg": {
+        "en": "[Shining Knight]\nMy name is Manuel, the Radiant Rune Knight. Tell him I referred you to him. He'll take good care of you.",
+        "pt": "[Cavaleiro Rúnico Manuel]\nMeu nome é Manuel. Eu sou chamado de Cavaleiro Rúnico da Inteligência. Quando você disser a ele que você é um candidato a Cavaleiro Rúnico com a minha indicação, ele vai cuidar do resto.",
+        "es": "[Caballero radiante]\nMi nombre es Manuel y soy el Caballero rúnico radiante. Dile que yo te envié. Te cuidará bien."
+    },
+    "wvLdAg": {
+        "en": "[Shining Knight]\nI'll wait for your return as my clansman.",
+        "pt": "[Cavaleiro Rúnico Manuel]\nEu esperarei pelo dia que você se tornará nosso companheiro como um verdadeiro Cavaleiro Rúnico.",
+        "es": "[Caballero radiante]\nEsperaré a que regreses como miembro del clan."
+    },
+    "w/LdAg": {
+        "en": "[Shining Knight]\nIf you continue on the path of the sword, you'll eventually reach your limits. Just like I did in the past.",
+        "pt": "[Cavaleiro Rúnico Manuel]\nSe você continuar seguindo o caminho da espada, você acabará encontrando o limite dos seus poderes. Assim como eu...",
+        "es": "[Caballero radiante]\nSi sigues el camino de la espada, tarde o temprano llegarás a tu límite. Tal como me ocurrió a mí en el pasado."
+    },
+    "xPLdAg": {
+        "en": "[Shining Knight]\nWhen that time comes, perhaps I can help you. For now, we can just enjoy our company and drink together.",
+        "pt": "[Cavaleiro Rúnico Manuel]\nQuando chegar a hora, haverá uma maneira de ajudá-lo a superar esse limite. Até o dia em que a sua força crescer o suficiente, nós podemos, pelo menos, tomar um drink juntos.",
+        "es": "[Caballero radiante]\nCuando llegue ese momento, quizá pueda ayudarte. Por ahora, lo mejor es disfrutar de nuestra compañía y beber juntos."
+    },
+    "xfLdAg": {
+        "en": "[Shining Knight]\nCheers to that future!",
+        "pt": "[Cavaleiro Rúnico Manuel]\nUm brinde para o dia em que a sua força poderá resistir os poderes de um Cavaleiro Rúnico!",
+        "es": "[Caballero radiante]\n¡Chinchín, por el futuro!"
+    },
+    "xvLdAg": {
+        "en": "[Shining Knight]\nI believe change is not always a good thing.",
+        "pt": "[Cavaleiro Rúnico Manuel]\nEu acredito que o sopro da mudança nem sempre é bom.",
+        "es": "[Caballero radiante]\nLos cambios no siempre son buenos."
+    },
+    "x/LdAg": {
+        "en": "[Shining Knight]\nFor example, I don't ever want this place to change the way it brews its alcohol.",
+        "pt": "[Cavaleiro Rúnico Manuel]\nAssim como o gosto deste drink. Eu queria que o gosto desde drink continuasse para sempre.",
+        "es": "[Caballero radiante]\nPor ejemplo, no quiero que este lugar cambie la forma en que prepara su licor."
+    },
+    "yPLdAg": {
+        "en": "[Shining Knight]\nWhy not? You don't know the value of drinking with friends, do you?",
+        "pt": "[Cavaleiro Rúnico Manuel]\nTem certeza? Você não conhece a verdadeira elegância dessas bebidas...",
+        "es": "[Caballero radiante]\n¿Por qué no? No entiendes el valor de beber con amigos, ¿verdad?"
+    },
+    "yfLdAg": {
+        "en": "[Shining Knight]\nMm? Don't you have something to do right now?",
+        "pt": "[Cavaleiro Rúnico Manuel]\nNão tem coisas a fazer agora?",
+        "es": "[Caballero radiante]\n¿Mm? ¿No tienes nada que hacer ahora?"
+    },
+    "yvLdAg": {
+        "en": "[Shining Knight]\nNo? Alright, then. Mm... Perhaps it's only this alcohol that never changes...",
+        "pt": "[Cavaleiro Rúnico Manuel]\nNão? Bom, então deixe para lá.\nVocê não adora o cheiro de uma bebida?",
+        "es": "[Caballero radiante]\n¿No? De acuerdo. Mm… A lo mejor lo único que nunca cambia es este licor…"
+    },
+    "y/LdAg": {
+        "en": "Rune Guide Ljungberg",
+        "pt": "Guia Jungberg",
+        "es": "Guía rúnico Ljungberg"
+    },
+    "zPLdAg": {
+        "en": "[Rune Guide Ljungberg]\nAh, if it isn't our new clansman, {0}! Welcome!",
+        "pt": "[Guia Jungberg]\nOh, você deve estar, {0}\nBem-vindo.",
+        "es": "[Guía rúnico Ljungberg]\n¡Ah, pero si es {0}, la última incorporación a nuestro clan! ¡Te doy la bienvenida!"
+    },
+    "zfLdAg": {
+        "en": "[Rune Guide Ljungberg]\nPlease keep up the good work spreading our will to the world.",
+        "pt": "[Guia Jungberg]\nEstamos ansiosos para que você ajude a espalhar a honra dos Cavaleiros Rúnicos pelo mundo.",
+        "es": "[Guía rúnico Ljungberg]\nSigue difundiendo nuestra voluntad por el mundo como hasta ahora."
+    },
+    "zvLdAg": {
+        "en": "[Rune Guide Ljungberg]\nAnyway, what brings you today?",
+        "pt": "[Guia Jungberg]\nEntão, como posso ajudá-lo?",
+        "es": "[Guía rúnico Ljungberg]\nEn fin, ¿qué te trae hoy por aquí?"
+    },
+    "z/LdAg": {
+        "en": "I want to go to the assembly area.",
+        "pt": "Eu quero ir ao ponto de encontro.",
+        "es": "Quiero ir a la zona de reunión."
+    },
+    "0PLdAg": {
+        "en": "End conversation.",
+        "pt": "Nada.",
+        "es": "Finalizar conversación."
+    },
+    "0fLdAg": {
+        "en": "[Rune Guide Ljungberg]\nNo problem. Let me send you there right away. See you again.",
+        "pt": "[Guia Jungberg]\nCerto. Vou mandar você agora mesmo. A gente se vê.",
+        "es": "[Guía rúnico Ljungberg]\nNo hay problema. Te enviaré allí de inmediato. Nos vemos."
+    },
+    "0vLdAg": {
+        "en": "[Rune Guide Ljungberg]\nAre you a cursed ghost in this Glastheim? Or just an ignorant adventurer?",
+        "pt": "[Guia Jungberg]\nVocê é um fantasma amaldiçoado deste lugar? Ou você é um aventureiro ignorante?",
+        "es": "[Guía rúnico Ljungberg]\n¿Eres uno de los fantasmas malditos de Glastheim? ¿O solo eres ignorante, trotamundos?"
+    },
+    "0/LdAg": {
+        "en": "[Rune Guide Ljungberg]\nIf you're the latter, heed my warning and leave this place right this minute. It's just too dangerous for you.",
+        "pt": "[Guia Jungberg]\nSe você é um ser humano com pulso, me ouça com cuidado. Eu não arriscaria a minha vida aqui tentando falar com todo mundo.",
+        "es": "[Guía rúnico Ljungberg]\nEn el segundo caso, te sugiero que hagas caso a mi advertencia y te vayas ahora mismo. Es demasiado peligroso para ti."
+    },
+    "1PLdAg": {
+        "en": "Who are you?",
+        "pt": "Quem é você?",
+        "es": "¿Quién eres?"
+    },
+    "1fLdAg": {
+        "en": "What are you doing here?",
+        "pt": "O que está fazendo aqui?",
+        "es": "¿Qué haces aquí?"
+    },
+    "1vLdAg": {
+        "en": "[Rune Guide Ljungberg]\nI'm a knight, here to protect the will of Beelzeb, the Swordsmaster, left in this cursed Glastheim.",
+        "pt": "[Guia Jungberg]\nEu sou o único cavaleiro que está mantendo o estilo dos Espadachins neste local amaldiçoado em Glastheim.",
+        "es": "[Guía rúnico Ljungberg]\nSoy el caballero encargado de proteger la voluntad de Beelzeb, el Maestro espadachín que se quedó en Glastheim."
+    },
+    "1/LdAg": {
+        "en": "[Rune Guide Ljungberg]\nYou're on the path of the sword. Maybe we'll meet again later.",
+        "pt": "[Guia Jungberg]\nSe você também seguir o estilo dos Espadachins, é quase certo que nossos caminhos voltarão a se cruzar quando você alcançar todo o seu potencial.",
+        "es": "[Guía rúnico Ljungberg]\nRecorres el camino de la espada. Quizá volvamos a vernos luego."
+    },
+    "2PLdAg": {
+        "en": "[Rune Guide Ljungberg]\nPeople like you who are not on the path of the sword don't understand our will or goals. Don't worry about me and just go on your way.",
+        "pt": "[Guia Jungberg]\nComo você não segue o caminho da Espada, você não pode entender o nosso espírito. Eu posso me virar sozinho. Siga o seu próprio trajeto.",
+        "es": "[Guía rúnico Ljungberg]\nLa gente como tú, que no recorre el camino de la espada, no entiende nuestra voluntad ni nuestros objetivos. No te preocupes por mí y sigue tu camino."
+    },
+    "2fLdAg": {
+        "en": "[Rune Guide Ljungberg]\nI'm on the path of the sword, just like you. But not a member of the Rune-Midgard Kingdom Knights, of course.",
+        "pt": "[Guia Jungberg]\nEu sou um homem que segue o caminho da Espada. Mas eu não sou exatamente como você, cavaleiro de Rune-Midgard.",
+        "es": "[Guía rúnico Ljungberg]\nEstoy recorriendo el camino de la espada, igual que tú. Pero no soy miembro de los Caballeros del reino de Rune-Midgard, claro."
+    },
+    "2vLdAg": {
+        "en": "[Rune Guide Ljungberg]\nMy group, unlike the Kingdom Knights that are too obsessed with formality and outwardly appearances, walks the true path of the sword.",
+        "pt": "[Guia Jungberg]\nNós não somos como os outros Cavaleiros que são absortos com pompa e elegância, então talvez você ainda não nos conheça.",
+        "es": "[Guía rúnico Ljungberg]\nMi grupo sí sigue el camino de la espada, no como los Caballeros del reino, que están obsesionados con la formalidad y las apariencias."
+    },
+    "2/LdAg": {
+        "en": "[Rune Guide Ljungberg]\nWe're the Rune Knights, the cohort of elite warriors who fight for the right cause.",
+        "pt": "[Guia Jungberg]\nNós somos os Cavaleiros Rúnicos. Um grupo que procura o verdadeiro poder assim como a força física através dos caminhos altruístas da Espada.",
+        "es": "[Guía rúnico Ljungberg]\nSomos los Caballeros rúnicos, guerreros de élite que luchan por causas justas."
+    },
+    "3PLdAg": {
+        "en": "[Rune Guide Ljungberg]\nFor more than half a century, we stayed hidden in the depths of Glastheim. And now, it's time we go back into the world and make our will known.",
+        "pt": "[Guia Jungberg]\nNós temos vivido em segredo aqui nas profundezas de Glastheim por meio século, mas é hora de mostrar para o mundo o nosso propósito.",
+        "es": "[Guía rúnico Ljungberg]\nPermanecimos ocultos en las profundidades de Glastheim durante más de medio siglo. Y ahora, llegó el momento de salir al mundo y dar a conocer nuestra voluntad."
+    },
+    "3fLdAg": {
+        "en": "[Rune Guide Ljungberg]\nSome of our members are out there in the world, looking for people who want to join us.",
+        "pt": "[Guia Jungberg]\nHá muito instrutores que estão procurando talentosos usuários de Espadas em diversos lugares de Rune-Midgard. Eles estão procurando pessoas que irão se juntar ao verdadeiro caminho da Espada.",
+        "es": "[Guía rúnico Ljungberg]\nAlgunos de nosotros están ahí afuera, en el mundo, buscando a gente que quiera unirse."
+    },
+    "3vLdAg": {
+        "en": "[Rune Guide Ljungberg]\nIf you want to join us and become a Rune Knight, please find them and bring me a letter of recommendation from them.",
+        "pt": "[Guia Jungberg]\nSe você quer se juntar aos Cavaleiros Rúnicos. Consiga a recomendação de um dos nossos guias e volte para falar comigo.",
+        "es": "[Guía rúnico Ljungberg]\nSi quieres unirte a nosotros, los Caballeros rúnicos, busca a algún miembro y tráeme una carta de recomendación suya."
+    },
+    "3/LdAg": {
+        "en": "[Rune Guide Ljungberg]\nIt's a shame you're on a different path from ours. I wish you all the best.",
+        "pt": "[Guia Jungberg]\nInfelizmente, você não é uma pessoa que segue os caminhos da Espada. Encontre o seu verdadeiro caminho e siga-o com a energia de um jovem aventureiro.",
+        "es": "[Guía rúnico Ljungberg]\nEs una pena que sigas un camino distinto al nuestro. Te deseo lo mejor."
+    },
+    "4PLdAg": {
+        "en": "I want to become a Rune Knight.",
+        "pt": "Eu vim para ser um Cavaleiro Rúnico.",
+        "es": "Quiero unirme a los Caballeros rúnicos."
+    },
+    "4fLdAg": {
+        "en": "[Rune Guide Ljungberg]\nMm... Are you the Rune Knight candidate that Manuel told me about?",
+        "pt": "[Guia Jungberg]\nHum... Você é o Cavaleiro Rúnico do qual Manual falou?",
+        "es": "[Guía rúnico Ljungberg]\nMm… Según me comentó Manuel, aspiras a ser Caballero rúnico, ¿verdad?"
+    },
+    "4vLdAg": {
+        "en": "[Rune Guide Ljungberg]\nYour name is {0}, right? You came highly recommended.",
+        "pt": "[Guia Jungberg]\nSeu nome é... {0}, certo? Eu posso ver claramente que você é aquele que é qualificado para se tornar o nosso companheiro.",
+        "es": "[Guía rúnico Ljungberg]\nTe llamas {0}, ¿verdad? Traes una excelente recomendación."
+    },
+    "4/LdAg": {
+        "en": "[Rune Guide Ljungberg]\nAlright, I don't have to check your qualifications to join our clan. Now, here's the first challenge for you.",
+        "pt": "[Guia Jungberg]\nÓtimo. Eu não tenho que pedir mais qualificações para se juntar ao nosso grupo de sangue. Agora, eu lhe darei a sua 1ª tarefa.",
+        "es": "[Guía rúnico Ljungberg]\nEstá bien, no necesito comprobar si cumples los requisitos para unirte a nuestro clan. Y ahora, este es el primer reto para ti."
+    },
+    "5PLdAg": {
+        "en": "[Rune Guide Ljungberg]\nYour first challenge is to find us Rune Knights' assembly area hidden inside Glastheim.",
+        "pt": "[Guia Jungberg]\nA 1a. tarefa é encontrar o local de encontro dos Cavaleiros Rúnicos dentro de Glastheim.",
+        "es": "[Guía rúnico Ljungberg]\nTu primer reto es encontrar la zona de reunión de los Caballeros rúnicos, que está oculta en Glastheim."
+    },
+    "5fLdAg": {
+        "en": "[Rune Guide Ljungberg]\nInside the Glastheim Knights building, there's a path to us Rune Knights' secret assembly area. I want you to find it on your own.",
+        "pt": "[Guia Jungberg]\nHá um local que leva ao ponto de encontro secreto dos Cavaleiros Rúnicos dentro da Cavalaria de Glastheim. Encontre esse local sozinho.",
+        "es": "[Guía rúnico Ljungberg]\nEn el edificio de los Caballeros de Glastheim, hay un camino que lleva a la zona de reunión secreta de los Caballeros rúnicos. Quiero que la encuentres por tu cuenta."
+    },
+    "5vLdAg": {
+        "en": "[Rune Guide Ljungberg]\nIf you find it, you'll see someone there who's been waiting for you. Good luck.",
+        "pt": "[Guia Jungberg]\nSe você encontrar, haverá uma pessoa esperando por você lá, então vamos começar.",
+        "es": "[Guía rúnico Ljungberg]\nSi lo logras, verás a alguien que te estará esperando. Buena suerte."
+    },
+    "5/LdAg": {
+        "en": "[Rune Guide Ljungberg]\nOf course, you'll have to fight your way through the dangerous evil ghosts in this Glastheim, but that just comes with the territory, doesn't it?",
+        "pt": "[Guia Jungberg]\nÉ claro que você pode colocar a sua vida em risco com os fantasmas de Glastheim...mas vamos dizer que superar o risco é uma habilidade básica.",
+        "es": "[Guía rúnico Ljungberg]\nPor supuesto, tendrás que enfrentarte a los peligrosos fantasmas malignos de Glastheim, pero eso es parte del desafío, ¿no?"
+    },
+    "6PLdAg": {
+        "en": "[Rune Guide Ljungberg]\nYou're still in the testing process. Good luck passing the test.",
+        "pt": "[Guia Jungberg]\nParece que você ainda está fazendo o teste. Faça o seu melhor e passe por todos os testes.",
+        "es": "[Guía rúnico Ljungberg]\nAún estás en el proceso de evaluación. Buena suerte en tu prueba."
+    },
+    "6fLdAg": {
+        "en": "Cohort Member",
+        "pt": "Cavaleiro Rúnico",
+        "es": "Caballero rúnico"
+    },
+    "6vLdAg": {
+        "en": "[Rune Knights Cohort Member]\nGood day, {0}. Are you on your way to the assembly area?",
+        "pt": "[Cavaleiro Rúnico]\nBoas-vindas, {0}. Você está indo para o ponto de encontro?",
+        "es": "[Caballero rúnico]\nBuen día, {0}. ¿Vas de camino a la zona de reunión?"
+    },
+    "6/LdAg": {
+        "en": "Yes.",
+        "pt": "Sim, me leve até lá.",
+        "es": "Sí."
+    },
+    "7PLdAg": {
+        "en": "I'm doing something else.",
+        "pt": "Estou fazendo outra coisa.",
+        "es": "Estoy haciendo otra cosa."
+    },
+    "7fLdAg": {
+        "en": "[Rune Knights Cohort Member]\nSure. Come on it. Let me show you the way.",
+        "pt": "[Cavaleiro Rúnico]\nCerto, pode vir. Vou guiar você.",
+        "es": "[Caballero rúnico]\nClaro. Vamos. Te mostraré el camino."
+    },
+    "7vLdAg": {
+        "en": "[Rune Knights Cohort Member]\nAh, I see. Well, keep up the good work. I'll be here if you need me.",
+        "pt": "[Cavaleiro Rúnico]\nOh, é mesmo? Então, continue com seu trabalho. Eu vou continuar com a minha missão.",
+        "es": "[Caballero rúnico]\nAh, ya veo. Bueno, sigue así. Estaré aquí si me necesitas."
+    },
+    "7/LdAg": {
+        "en": "[Rune Knights Cohort Member]\nHalt. This place is off limits. I don't care you stay around here, but I don't want you to distract me from my work like this.",
+        "pt": "[Cavaleiro Rúnico]\nEspere! Esse local é proibido. Eu não ligo que você ande por aí, mas não me perturbe mais.",
+        "es": "[Caballero rúnico]\n¡Alto! Está prohibido ingresar a este lugar. No me molesta que te quedes, pero no quiero que me distraigas de mi trabajo de esta forma."
+    },
+    "8PLdAg": {
+        "en": "[Rune Knights Cohort Member]\nMm... But you're on the path of the sword. You're not completely a stranger.",
+        "pt": "[Cavaleiro Rúnico]\nMas como você segue o caminho da Espada, talvez você tenha alguma relação conosco no futuro.",
+        "es": "[Caballero rúnico]\nMm… Recorres el camino de la espada. No eres una persona extraña."
+    },
+    "8fLdAg": {
+        "en": "[Rune Knights Cohort Member]\nMaybe we'll meet again. Depending on your decision in the future, that is.",
+        "pt": "[Cavaleiro Rúnico]\nQuando chegar a hora, nos encontraremos novamente.",
+        "es": "[Caballero rúnico]\nQuizá volvamos a vernos. Dependiendo de lo que decidas en el futuro, claro."
+    },
+    "8vLdAg": {
+        "en": "[Rune Knights Cohort Member]\nGood job finding this place. Ljungberg sent me word. I came out to take you to the assembly area.",
+        "pt": "[Cavaleiro Rúnico]\nVocê encontrou este local corretamente. Jungberg me mandou para enviá-lo ao local de encontro.",
+        "es": "[Caballero rúnico]\nTe felicito por encontrar este lugar. Ljungberg me envió un mensaje. Vine aquí para conducirte a la zona de reunión."
+    },
+    "8/LdAg": {
+        "en": "[Rune Knights Cohort Member]\nWhen you enter the assembly area, please talk to Captain Tigris. He always looks forward to meeting new clansmen.",
+        "pt": "[Cavaleiro Rúnico]\nQuando você entrar no local, encontre o Capitão Tigris. Ele está sempre aguardando a chegada de novos membros.",
+        "es": "[Caballero rúnico]\nCuando entres a la zona de reunión, habla con el capitán Tigris. Siempre tiene ganas de conocer a los nuevos miembros del clan."
+    },
+    "9PLdAg": {
+        "en": "[Rune Knights Cohort Member]\nNow, please follow me this way.",
+        "pt": "[Cavaleiro Rúnico]\nPor favor, siga-me.",
+        "es": "[Caballero rúnico]\nAhora, sígueme."
+    },
+    "9fLdAg": {
+        "en": "Cohort Captain Tigris",
+        "pt": "Cavaleiro Rúnico Chefe",
+        "es": "Capitán Tigris"
+    },
+    "9vLdAg": {
+        "en": "I'm carrying too many types of items. I should lighten my bag first.",
+        "pt": "Seu inventário está muito cheio. Libere um pouco de espaço!",
+        "es": "Tengo demasiados tipos de objetos. Primero, debería aligerar mi bolso."
+    },
+    "9/LdAg": {
+        "en": "I'm over the weight limit. I'd better lighten my bag first.",
+        "pt": "Seu inventário está muito pesado. Alivie um pouco do peso!",
+        "es": "Estoy por encima del límite de peso. Será mejor que aligere mi bolso primero."
+    },
+    "+PLdAg": {
+        "en": "[Captain Tigris]\nAh, I see. Please give me a moment.",
+        "pt": "[Chefe Tigris]\nOh, entendo... Por favor, aguarde um pouco.",
+        "es": "[Capitán Tigris]\nAh, ya veo. Dame un momento, por favor."
+    },
+    "+fLdAg": {
+        "en": "[Captain Tigris]\nI forgot to check if you're eligible for the special Job Change gift.",
+        "pt": "[Chefe Tigris]\nEu me esqueci de verificar se você está qualificado para receber o presente de comemoração por mudar de emprego.",
+        "es": "[Capitán Tigris]\nOlvidé revisar si calificas para el regalo especial por cambiar de clase."
+    },
+    "+vLdAg": {
+        "en": "[Captain Tigris]\nLet me check your test reports I've got from your test examiners...",
+        "pt": "[Chefe Tigris]\nDeixe eu ver o relatório do instrutor que tomou conta dos seus testes.",
+        "es": "[Capitán Tigris]\nVoy a revisar los informes de quienes te evaluaron."
+    },
+    "+/LdAg": {
+        "en": "[Captain Tigris]\nAh, perfect! Your test results are remarkably impressive.",
+        "pt": "[Chefe Tigris]\nHum... Isso é perfeito. Você chegou aqui com um histórico muito bom.",
+        "es": "[Capitán Tigris]\n¡Ah, perfecto! Los resultados de tu prueba son excelentes."
+    },
+    "/PLdAg": {
+        "en": "[Captain Tigris]\nHere, take this gift. I've saved it for such a promising junior like you.",
+        "pt": "[Chefe Tigris]\nAqui, pegue isto. Esse é um presente que eu tenho guardado para jovens novatos como você.",
+        "es": "[Capitán Tigris]\nToma este regalo. Lo había guardado para alguien con tanto potencial como tú."
+    },
+    "/fLdAg": {
+        "en": "[Captain Tigris]\nMm, good. Your test results are quite impressive.",
+        "pt": "[Chefe Tigris]\nHum... Isso é ótimo. Você chegou aqui com um histórico razoável.",
+        "es": "[Capitán Tigris]\nBien. Los resultados de tu prueba son muy buenos."
+    },
+    "/vLdAg": {
+        "en": "[Captain Tigris]\nHere, take this gift. I've saved it for a new junior like you.",
+        "pt": "[Chefe Tigris]\nBem, tome isso. Esse é um presente que eu tenho guardado para jovens novatos como você.",
+        "es": "[Capitán Tigris]\nToma este regalo. Lo guardé para alguien como tú, que acaba de empezar."
+    },
+    "//LdAg": {
+        "en": "[Captain Tigris]\nMm... Not bad. I can't say you did well, but at least you passed.",
+        "pt": "[Chefe Tigris]\nUmm, nada mal. Não é um ótimo histórico, mas você deu o seu melhor.",
+        "es": "[Capitán Tigris]\nMm… Nada mal. No puedo decir que te destacaras, pero al menos aprobaste."
+    },
+    "APPdAg": {
+        "en": "[Captain Tigris]\nNow that I think of it, I told you I'd give you a gift a while ago. Give me a moment.",
+        "pt": "[Chefe Tigris]\nDeixe-me ver... Eu lembro que eu ia dar um presente para você há muito tempo atrás. Por favor, espere um instante.",
+        "es": "[Capitán Tigris]\nAhora que lo pienso, hace tiempo te dije que te haría un regalo. Dame un momento."
+    },
+    "AfPdAg": {
+        "en": "[Captain Tigris]\nThis is a good helm. I hope you like it.",
+        "pt": "[Chefe Tigris]\nÉ um bom elmo. Espero que você goste...",
+        "es": "[Capitán Tigris]\nEs un buen yelmo. Espero que te guste."
+    },
+    "AvPdAg": {
+        "en": "[Captain Tigris]\nAh, {0}. Long time, no see. I doubt you have business here, but stay as long as you want.",
+        "pt": "[Chefe Tigris]\nEi, há quanto tempo, {0}. Não acredito que você tenha assuntos importantes para tratar, mas sinta-se a vontade.",
+        "es": "[Capitán Tigris]\nAh, {0}. Cuánto tiempo sin vernos. Dudo que tengas motivos para estar aquí, pero quédate todo el tiempo que quieras."
+    },
+    "A/PdAg": {
+        "en": "A man stood before me, clad in ornate armor, eyes blazing with passion.",
+        "pt": "Um homem com uma armadura gloriosa e com paixão nos olhos está na minha frente.",
+        "es": "Un hombre se plantó frente a mí, ataviado con una armadura ornamentada, y sus ojos brillaban con pasión."
+    },
+    "BPPdAg": {
+        "en": "He blankly stared at me for a moment, and then spoke.",
+        "pt": "Ele olha para mim de maneira distante e, depois de um tempo, ele começa a falar.",
+        "es": "Me miró fijamente durante un momento y, luego, habló."
+    },
+    "BfPdAg": {
+        "en": "[Captain Tigris]\nAh... Are you the Rune Knight candidate that Manuel told me about? I'm Tigris, the captain of the Rune Knights. What's your name?",
+        "pt": "[Chefe Tigris]\nEi, você é o Cavaleiro Rúnico que o Manuel recomendou? Meu nome é Capitão Tigris, dos Cavaleiros Rúnicos, seu nome é?",
+        "es": "[Capitán Tigris]\nAh… Según me comentó Manuel, aspiras a ser miembro de los Caballeroa rúnicos, ¿verdad? Soy Tigris, el capitán de los Caballeros rúnicos. ¿Cómo te llamas?"
+    },
+    "BvPdAg": {
+        "en": "[Captain Tigris]\nOh, wait. I forgot for a moment that I'd heard it. {0}, right? Welcome to our stronghold.",
+        "pt": "[Chefe Tigris]\nAh, eu já ouvi falar sobre isso antes, mas eu esqueci. Você estava certo. {0}? Eu lhe dou boas-vindas do fundo do coração.",
+        "es": "[Capitán Tigris]\nAh, espera. Lo olvidé por un momento. Eres {0}, ¿verdad? Te doy la bienvenida a nuestra fortaleza."
+    },
+    "B/PdAg": {
+        "en": "[Captain Tigris]\nNow, how many candidates have entered this room? Hey, Lunaria. How many? Including this one.",
+        "pt": "[Chefe Tigris]\nVamos ver. Quantos candidatos vieram para esta sala? Ei, Lunerea, qual candidato é esse aqui?",
+        "es": "[Capitán Tigris]\n¿Cuántos aspirantes entraron en este salón? Oye, Lunarea. ¿Cuántos? Incluyendo a mi acompañante."
+    },
+    "CPPdAg": {
+        "en": "[Spacetime Rune Knight Lunaria]\n...172.",
+        "pt": "[Cavaleira Rúnica Lunarea]\n... 172o.",
+        "es": "[Caballera rúnica Lunarea]\n…172."
+    },
+    "CfPdAg": {
+        "en": "[Captain Tigris]\nYes, you heard her. I really don't want to see the 173rd one. Please do your best to pass the test and join us.",
+        "pt": "[Chefe Tigris]\nEla diz que sim, meu caro. Na verdade, eu não quero ver o próximo. Então, por favor, vá bem.",
+        "es": "[Capitán Tigris]\nSí, ya la escuchaste. No tengo ganas de ver al número 173. Esfuérzate al máximo para pasar la prueba y unirte al clan."
+    },
+    "CvPdAg": {
+        "en": "[Captain Tigris]\nLet's see... Manuel and Ljungberg should have checked your basic qualifications. Let's move on to the actual test.",
+        "pt": "[Chefe Tigris]\nDeixe-me ver... Manual e Jungberg devem ter terminado a verificação básica, então vamos começar o teste agora mesmo.",
+        "es": "[Capitán Tigris]\nVeamos… Manuel y Ljungberg deberían haber comprobado tus habilidades básicas. Pasemos a la prueba real."
+    },
+    "C/PdAg": {
+        "en": "[Captain Tigris]\nLunaria, I'll let you take care of their first test.",
+        "pt": "[Chefe Tigris]\nLunerea, continue com o primeiro teste.",
+        "es": "[Capitán Tigris]\nLunarea, dejaré que te encargues de la primera prueba."
+    },
+    "DPPdAg": {
+        "en": "[Spacetime Rune Knight Lunaria]\n...",
+        "pt": "[Cavaleira Rúnica Lunarea]\n...",
+        "es": "[Caballera rúnica Lunarea]\n…"
+    },
+    "DfPdAg": {
+        "en": "Lunaria, the female Rune Knight with pale skin, quietly nodded her head, looking at me.",
+        "pt": "Essa Cavaleira Rúnica com pele pálida chamada Lunarea está balançando a cabeça silenciosamente e me observando.",
+        "es": "(Lunarea, la Caballera rúnica de piel pálida, asintió en silencio, mirándome)."
+    },
+    "DvPdAg": {
+        "en": "[Captain Tigris]\nOkay, your test has begun. Your first test is with that ice princess. Good luck.",
+        "pt": "[Chefe Tigris]\nO teste começa agora. Antes de qualquer coisa, você receberá o 1o. teste daquela linda dama cor de neve, então dê o seu melhor.",
+        "es": "[Capitán Tigris]\nBien, comenzó tu evaluación. La primera prueba es con esa princesa de hielo. Buena suerte."
+    },
+    "D/PdAg": {
+        "en": "[Captain Tigris]\nWhen you finish all your tests, you'll be talking to me again. Until then, focus on your tests with the others here.",
+        "pt": "[Chefe Tigris]\nAssim que terminar o teste, fale comigo. De qualquer jeito, você terá que tomar cuidado com os testes feitos com outras pessoas",
+        "es": "[Capitán Tigris]\nCuando termines todas las pruebas, vuelve a hablar conmigo. Hasta entonces, concéntrate en tus pruebas con los demás."
+    },
+    "EPPdAg": {
+        "en": "[Captain Tigris]\nNow, I'll be waiting for you here. Good luck taking your tests.",
+        "pt": "[Chefe Tigris]\nEntão vá fazer o teste, estarei esperando por você aqui.",
+        "es": "[Capitán Tigris]\nTe estaré esperando aquí. Buena suerte en tus pruebas."
+    },
+    "EfPdAg": {
+        "en": "[Captain Tigris]\nWhy aren't you taking your test? Lunaria, what happened? Did they finish their test with you?",
+        "pt": "[Chefe Tigris]\nEi, você não estava no teste? Lunarea, o que aconteceu? O teste acabou?",
+        "es": "[Capitán Tigris]\n¿Por qué no haces la prueba? Lunarea, ¿qué pasó? ¿Ya terminó la prueba contigo?"
+    },
+    "EvPdAg": {
+        "en": "She just shook her head, staring at me coldly.",
+        "pt": "Ela apenas balança a cabeça sem dizer nenhuma palavra, e olha para mim. Ela tem olhos assustadores.",
+        "es": "(Ella se limitó a negar con la cabeza, mirándome fríamente)."
+    },
+    "E/PdAg": {
+        "en": "[Captain Tigris]\nOkay, Lunaria. *Sigh...* Hey, listen to me. Lunaria may be quiet and shy, but you shouldn't ignore her like this.",
+        "pt": "[Chefe Tigris]\nCerto, Lunarea. Ei, escute com cuidado. Lunarea é pobre com as palavras e fala pouco, mas você não deve ignorá-la.",
+        "es": "[Capitán Tigris]\nBien, Lunarea. *Suspira…* Oye, escúchame. Puede que Lunarea sea callada y tímida, pero no deberías ignorarla así."
+    },
+    "FPPdAg": {
+        "en": "[Captain Tigris]\nI'm her captain, but even I can't handle her when she's angry. Hah hah hah.",
+        "pt": "[Chefe Tigris]\nAté eu... não, nenhum de nós que a irritasse não conseguiríamos lidar com isso.",
+        "es": "[Capitán Tigris]\nSoy su capitán, pero ni yo puedo con ella cuando se enoja. Ja, ja, ja."
+    },
+    "FfPdAg": {
+        "en": "[Captain Tigris]\nWhoa, whoa! Please don't glare at me like that. Okay, okay! Sheesh! You saw that, right? Go back to Lunaria and do as she says. There's a good candidate.",
+        "pt": "[Chefe Tigris]\nCerto, não me olhe assim. Está bem, viu? Um Cavaleiro Rúnico com perspective. Volte até a Lunarea e faça o teste como ela disser. Isso será bom para você.",
+        "es": "[Capitán Tigris]\n¡Oye, oye! No me mires así. ¡Bueno, está bien! ¡Cielos! Lo viste, ¿verdad? Ve con Lunarea y haz lo que te dice. Sé obediente."
+    },
+    "FvPdAg": {
+        "en": "[Captain Tigris]\nMm, you passed Lunaria's test, which means you've got a solid foundation.",
+        "pt": "[Chefe Tigris]\nUhm, é impressão ou você passou pelo teste de Lunarea? Pelo visto eu não precisarei mais testar o básico.",
+        "es": "[Capitán Tigris]\nPasaste la prueba de Lunarea, lo que significa que tienes una base sólida."
+    },
+    "F/PdAg": {
+        "en": "[Captain Tigris]\nWe, the Rune Knights, have come a long way from being a Swordsman, but we're still Swordsmen at the core. I hope you'll remember that.",
+        "pt": "[Chefe Tigris]\nÉ inegável que nossos Cavaleiros Rúnicos são diferentes, mas não devemos esquecer das nossas raízes como Espadachins.",
+        "es": "[Capitán Tigris]\nLos Caballeros rúnicos avanzamos mucho desde que fuimos Espadachines, pero en el fondo, nunca dejamos de serlo. Espero que no lo olvides."
+    },
+    "GPPdAg": {
+        "en": "[Captain Tigris]\nNow, you're truly ready to take the real Rune Knight test. Are you ready?",
+        "pt": "[Chefe Tigris]\nDe agora em diante, esse será o verdadeiro teste como Cavaleiro Rúnico que você quer ser. Você precisa se preparar para o próximo teste.",
+        "es": "[Capitán Tigris]\n¿Ya te preparaste para la verdadera prueba de los Caballeros rúnicos? ¿Tienes todo listo?"
+    },
+    "GfPdAg": {
+        "en": "[Captain Tigris]\nLenore, it's been a while since you had the last candidate.",
+        "pt": "[Chefe Tigris]\nRenoa, eu sei que você tem esperado por um bom tempo, mas agora é a sua vez.",
+        "es": "[Capitán Tigris]\nRenoa, no habías tenido un aspirante en un buen tiempo."
+    },
+    "GvPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nIt has. And my test is incomparable to Lunaria's. I hope you're not an airhead, candidate.",
+        "pt": "[Cavaleira Rúnica Renoa]\nRealmente faz muito tempo, mas o teste de Lunarea e o meu são diferentes como o céu e a terra. Eu espero que você não seja um fortão descerebrado.",
+        "es": "[Caballera rúnica Renoa]\nAsí es. Y mi prueba no se compara con la de Lunarea. Espero que tengas dos dedos de frente, aspirante."
+    },
+    "G/PdAg": {
+        "en": "[Captain Tigris]\nHah hah hah. You heard her. It's not going to be easy this time, either. Good luck, my friend.",
+        "pt": "[Chefe Tigris]\nHahaha. você ouviu isso? Desta vez não era fácil. Eu espero que você passe, meu caro.",
+        "es": "[Capitán Tigris]\nJa, ja, ja. Ya la escuchaste. Esta vez tampoco será fácil. Buena suerte, camarada."
+    },
+    "HPPdAg": {
+        "en": "[Captain Tigris]\nGo take the test with the fiery lady over there, and then come back.",
+        "pt": "[Chefe Tigris]\nVá até aquela garota em chamar para fazer o próximo teste e volte ao terminá-lo.",
+        "es": "[Capitán Tigris]\nVe a hacer la prueba con esa dama de fuego y, luego, vuelve aquí."
+    },
+    "HfPdAg": {
+        "en": "[Captain Tigris]\nOh, I've heard how well you fared. You're one of the handful of people who passed Lenore's test.",
+        "pt": "[Chefe Tigris]\nAgora, esse será o verdadeiro teste para se tornar um Cavaleiro Rúnico. Você precisa se preparar para o próximo teste.",
+        "es": "[Capitán Tigris]\nAh, escuché que te fue de maravilla. Eres una de las pocas personas que pasaron la prueba de Renoa."
+    },
+    "HvPdAg": {
+        "en": "[Captain Tigris]\nI'm sure you've heard, but most candidates who took Lenore's test gave up halfway through. Tsk, tsk.",
+        "pt": "[Chefe Tigris]\nAh, eu ouvi dizer que você passou pelo teste de Renoa, poucas pessoas conseguiram passar por ele.",
+        "es": "[Capitán Tigris]\nQuizá ya lo sabes, pero la mayoría de los aspirantes que hicieron la prueba de Renoa abandonaron a la mitad. *Tsc, tsc*"
+    },
+    "H/PdAg": {
+        "en": "[Captain Tigris]\nThat probably has to do with the test examiner's temperament... Anyway, good job.",
+        "pt": "[Chefe Tigris]\nEu ouvi dizer que há um grande número de candidatos que desistiram no meio do teste de Renoa.",
+        "es": "[Capitán Tigris]\nSupongo que tiene que ver con el temperamento de la examinadora… En fin, buen trabajo."
+    },
+    "IPPdAg": {
+        "en": "[Captain Tigris]\nNow, you only have one test left to take. If you pass it, you'll join us, the Rune Knights.",
+        "pt": "[Chefe Tigris]\nVocê tem que entender. Eu acho que era o teste que mostrava a personalidade exata do instrutor. Humm...",
+        "es": "[Capitán Tigris]\nAhora, solo te queda una prueba por hacer. Si la pasas, podrás unirte a los Caballeros rúnicos."
+    },
+    "IfPdAg": {
+        "en": "[Captain Tigris]\nFor your final test, please go to Raven Rune Knight Belfino in the arsenal on the right side.",
+        "pt": "[Chefe Tigris]\nAgora, há um ultimo teste restante. Quando você passar por isso, você estará encaminhado para oficialmente se tornar um Cavaleiro Rúnico.",
+        "es": "[Capitán Tigris]\nPara tu prueba final, ve con Velpino, el Caballero rúnico del cuervo, en el arsenal en el lado derecho."
+    },
+    "IvPdAg": {
+        "en": "[Captain Tigris]\nSeriously, I look forward to accepting you into our midst. Please do your best until the end.",
+        "pt": "[Chefe Tigris]\nFaça o último teste com o Cavaleiro Rúnico Velpino que está à direita do arsenal.",
+        "es": "[Capitán Tigris]\nEn serio, ya quiero que te unas a nosotros. Esfuérzate hasta el final."
+    },
+    "I/PdAg": {
+        "en": "[Captain Tigris]\nCongrats! You've passed all the tests and entered the path of the Rune Knight.",
+        "pt": "[Chefe Tigris]\nEu não estou brincando, eu estou muito ansioso para o seu novo começo como um Cavaleiro Rúnico. Então, faça o melhor que pode.",
+        "es": "[Capitán Tigris]\n¡Felicitaciones! Superaste todas las pruebas y, ahora, eres miembro de los Caballeros rúnicos."
+    },
+    "JPPdAg": {
+        "en": "[Captain Tigris]\nI can't say how happy I am to see another newcomer joining our midst. It's an indescribable feeling.",
+        "pt": "[Chefe Tigris]\nParabéns. Você passou por todos os testes e agora pode seguir o caminho como um Cavaleiro Rúnico.",
+        "es": "[Capitán Tigris]\nNo sé cómo expresar lo contento que estoy al recibirte como miembro. Es una sensación indescriptible."
+    },
+    "JfPdAg": {
+        "en": "[Captain Tigris]\nNow, you'll slough off your current shell and transform into one of us Rune Knights.",
+        "pt": "[Chefe Tigris]\nEu estou muito feliz. Estou muito orgulhoso de você.",
+        "es": "[Capitán Tigris]\nAhora, te desprenderás de tu coraza y te transformarás en Caballero rúnico."
+    },
+    "JvPdAg": {
+        "en": "[Captain Tigris]\nAnd I've got your test reports from Lunaria, Lenore, and Belfino.",
+        "pt": "[Chefe Tigris]\nAgora você pode ficar entre nós e mostrar com orgulho que é um dos nossos.",
+        "es": "[Capitán Tigris]\nTengo los informes de las pruebas de Lunarea, Renoa y Velpino."
+    },
+    "J/PdAg": {
+        "en": "[Captain Tigris]\nThis is not for something serious. I just want to give you a small gift based on your test performance.",
+        "pt": "[Chefe Tigris]\nHá as avaliações de Lunarea, Renoa e Velpino que tomaram conta dos seus testes.",
+        "es": "[Capitán Tigris]\nNo es nada grave. Solo quiero darte un pequeño regalo por tu desempeño en las pruebas."
+    },
+    "KPPdAg": {
+        "en": "[Captain Tigris]\nYou'll get a different gift, depending on your performance, but any gift you get will be helpful.",
+        "pt": "[Chefe Tigris]\nNão é muito, mas há alguns presentes para os novos Cavaleiros Rúnicos que conseguiram boas notas.",
+        "es": "[Capitán Tigris]\nEl regalo que recibas dependerá de tu desempeño, pero todos los regalos son de utilidad."
+    },
+    "KfPdAg": {
+        "en": "[Captain Tigris]\nLastly, if you changed your job to Lord Knight in Valhalla, you probably know this. There are a few precautions.",
+        "pt": "[Chefe Tigris]\nEles serão diferentes dependendo das notas, mas são úteis para qualquer um que é um Cavaleiro Rúnico.",
+        "es": "[Capitán Tigris]\nPor último, si cambiaste de clase a Lord Caballero en Valhalla, seguro que ya sabes esto. Hay que tomar algunas precauciones."
+    },
+    "KvPdAg": {
+        "en": "[Captain Tigris]\nIf you're equipped with items and carrying them as well, please unequip them and empty your inventory.",
+        "pt": "[Chefe Tigris]\nPor fim, há uma série de coisas para saber como um Cavaleiro que passou por uma mudança de classe para se tornar Lorde em Valhalla.",
+        "es": "[Capitán Tigris]\nSi tienes objetos equipados y en tu inventario, por favor, desequípalos y vacía tu inventario."
+    },
+    "K/PdAg": {
+        "en": "[Captain Tigris]\nSince you passed the last test, you know that you can store them with the Kafra Employee in this place.",
+        "pt": "[Chefe Tigris]\nSe há qualquer equipamento que você esteja usando agora, ou qualquer coisa em sua posse, por favor, deixe-os para trocar de classe.",
+        "es": "[Capitán Tigris]\nComo pasaste la última prueba, podrás guardarlos con la empleada de Kafra aquí."
+    },
+    "LPPdAg": {
+        "en": "[Captain Tigris]\nThis is obvious, but you should also leave your Peco Peco behind. If you're still riding it, please go leave it in the stable.",
+        "pt": "[Chefe Tigris]\nVisite a Funcionária Kafra para usar a armazenagem.",
+        "es": "[Capitán Tigris]\nY, sé que es obvio, pero también tienes que dejar tu Peco Peco. Si lo estás montando, déjalo en el establo."
+    },
+    "LfPdAg": {
+        "en": "[Captain Tigris]\nAnd one more thing: if you have unused Skill Points, please use them all. Or you can't change your job.",
+        "pt": "[Chefe Tigris]\nVocê já deve saber disso, se você estiver com um Peco Peco, você deveria ter deixado-o para trás. Se você trouxe, deixe-o e volta aqui.",
+        "es": "[Capitán Tigris]\nY una cosa más, si tienes puntos de habilidad sin usar, gástalos todos. O no podrás cambiar de clase."
+    },
+    "LvPdAg": {
+        "en": "[Captain Tigris]\nIn case you couldn't change your job to Lord Knight in Valhalla, hah hah. I'm sorry.",
+        "pt": "[Chefe Tigris]\nMais uma coisa. Se você tiver qualquer ponto de habilidade restante, use-o agora e aprenda novas habilidades. Você não poderá mudar de classe se você tiver mais pontos de habilidades.",
+        "es": "[Capitán Tigris]\nEn caso de que no pudieras cambiar tu clase a Lord Caballero en Valhalla, ja ja. Lo siento."
+    },
+    "L/PdAg": {
+        "en": "[Captain Tigris]\nThat's everything I had to say to you. Now, would you like to start anew as a Rune Knight?",
+        "pt": "[Chefe Tigris]\nBom, meu trabalho por aqui acabou. Gostaria de começar a sua nova vida como um Cavaleiro Rúnico?",
+        "es": "[Capitán Tigris]\nEso es todo lo que tenía que decirte. Ahora, ¿te gustaría empezar de nuevo como Caballero rúnico?"
+    },
+    "MPPdAg": {
+        "en": "Let me think.",
+        "pt": "Preciso de mais tempo para pensar.",
+        "es": "Déjame pensar."
+    },
+    "MfPdAg": {
+        "en": "[Captain Tigris]\nHm... It seems you didn't listen to me when I talked to you.",
+        "pt": "[Chefe Tigris]\nNão estava ouvindo?",
+        "es": "[Capitán Tigris]\nMmm… Parece que no escuchaste lo que te dije."
+    },
+    "MvPdAg": {
+        "en": "[Captain Tigris]\nIf you're equipped with items and carrying them as well, please unequip them and empty your inventory. Zeny, too.",
+        "pt": "[Chefe Tigris]\nSe você está vestindo qualquer equipamento, ou está segurando qualquer coisa. Por favor, deixe-os para trocar de classe.",
+        "es": "[Capitán Tigris]\nSi tienes objetos equipados y en tu inventario, por favor, desequípalos y vacía tu inventario. Los zeny, también."
+    },
+    "M/PdAg": {
+        "en": "[Captain Tigris]\nIf that's understood, please go back and get ready first.",
+        "pt": "[Chefe Tigris]\nSe você entendeu, prepare-se e volte aqui.",
+        "es": "[Capitán Tigris]\n¿Quedó claro? Ve a prepararte."
+    },
+    "NPPdAg": {
+        "en": "[Captain Tigris]\nYou're missing something.",
+        "pt": "[Chefe Tigris]\nNão parece o suficiente?",
+        "es": "[Capitán Tigris]\nTe faltó algo."
+    },
+    "NfPdAg": {
+        "en": "[Captain Tigris]\nDear Beelzeb, the great swordmaster and our teacher. Dear Sage Serfeone, the great sage.",
+        "pt": "[Chefe Tigris]\nNosso Mestre, Beljeve... e o Grande Sábio, Serpione...",
+        "es": "[Capitán Tigris]\nQuerido Beelzeb, el gran maestro espadachín, nuestro maestro. Querida Serpeone, la gran sabia."
+    },
+    "NvPdAg": {
+        "en": "[Captain Tigris]\nPlease bless this Knight who has chosen the path of the Rune Knight.",
+        "pt": "[Chefe Tigris]\nEsse cavaleiro seguirá os caminhos dos Cavaleiros Rúnicos conosco, então, por favor, abençoe-o.",
+        "es": "[Capitán Tigris]\nPor favor, bendigan a esta persona que eligió el camino del Caballero rúnico."
+    },
+    "N/PdAg": {
+        "en": "^0000FFYou have unused Skill Points. Please use them all, and then try again.^000000",
+        "pt": "Se você ainda tiver pontos de habilidade sobrando é melhor usa-lo, pois não poderei lhe ajudar caso ainda tenha algum.",
+        "es": "^0000FFTienes puntos de habilidad sin usar. Úsalos todos y vuelve a intentarlo.^000000"
+    },
+    "OPPdAg": {
+        "en": "[Captain Tigris]\nCongratulations, you're a Rune Knight now. We'll forever remember this moment. Welcome to the clan.",
+        "pt": "[Chefe Tigris]\nParabéns.\nAgora você é um honrável Cavaleiro Rúnico.\nLembre-se de hoje deste dia em diante!",
+        "es": "[Capitán Tigris]\nFelicitaciones, ahora eres miembro de los Caballeros rúnicos. Nunca olvidaremos este momento. Te doy la bienvenida al clan."
+    },
+    "OfPdAg": {
+        "en": "[Captain Tigris]\nThe Palace has sent us special gifts for those who newly join us. Here, let me give you yours.",
+        "pt": "[Chefe Tigris]\nHá um presente real do reino de Rune-Midgard para todos os novos Cavaleiros Rúnicos.",
+        "es": "[Capitán Tigris]\nEl palacio envió obsequios especiales para los nuevos miembros del clan. Déjame darte el tuyo."
+    },
+    "OvPdAg": {
+        "en": "[Captain Tigris]\nBefore you leave this place, please come back to me and find out if you're also eligible for an extra gift for outstanding testees.",
+        "pt": "[Chefe Tigris]\nMe dê um instante para pegar o presente real e fale comigo daqui a pouco.",
+        "es": "[Capitán Tigris]\nAntes de que te vayas, regresa a verme para ver si cumples los requisitos para un regalo adicional por destacarte en la prueba."
+    },
+    "O/PdAg": {
+        "en": "[Captain Tigris]\nI don't know how you got in, but you shouldn't be here.",
+        "pt": "[Chefe Tigris]\nNão sei como conseguiu chegar até aqui. Mas parece que você chegou a um lugar em que não deveria estar.",
+        "es": "[Capitán Tigris]\nNo sé cómo entraste, pero no deberías estar aquí."
+    },
+    "PPPdAg": {
+        "en": "[Captain Tigris]\nGo back to where you belong.",
+        "pt": "[Chefe Tigris]\nVolte para onde você pertence.",
+        "es": "[Capitán Tigris]\nVuelve por donde viniste."
+    },
+    "PfPdAg": {
+        "en": "Rune Knight Lunaria",
+        "pt": "Cavaleira Rúnica Lunarea",
+        "es": "Caballera rúnica Lunarea"
+    },
+    "PvPdAg": {
+        "en": "She raised her head and nodded, quietly acknowledging me.",
+        "pt": "Ela segura o queixo silenciosamente, move um pouco a cabeça e me percebe.",
+        "es": "(Levantó la cabeza y asintió, reconociéndome en silencio)."
+    },
+    "P/PdAg": {
+        "en": "And went right back to thinking.",
+        "pt": "Então, depois de um instante, ela abaixa o rosto e parece absorta por outros pensamentos.",
+        "es": "(Y volvió a sumirse en sus pensamientos)."
+    },
+    "QPPdAg": {
+        "en": "This female Rune Knight with pale skin didn't seem to care about others around her, including me.",
+        "pt": "Essa Cavaleira Rúnica pálida e com um olhar distante não parece se importar. É claro que ela não parece interessada com a minha existência.",
+        "es": "(La Caballera rúnica de piel pálida parecía no prestarle atención a nadie a su alrededor, incluyéndome)."
+    },
+    "QfPdAg": {
+        "en": "Quietly, she stared at me for a while, and then whispered.",
+        "pt": "Finalmente ela abre a boca e começa a falar.",
+        "es": "(Me miró un rato, en silencio, y luego susurró…)."
+    },
+    "QvPdAg": {
+        "en": "[Spacetime Rune Knight Lunaria]\n5 minutes... If you can hold your ground and defeat them all in 5 minutes, you'll pass.",
+        "pt": "[Cavaleira Rúnica Lunarea]\n5 minutos… Quando você suporta, e se livra de tudo, você será bem sucedido.",
+        "es": "[Caballera rúnica Lunarea]\n5 minutos… Si resistes y los derrotas a todos en 5 minutos, aprobarás."
+    },
+    "Q/PdAg": {
+        "en": "[Spacetime Rune Knight Lunaria]\nCaptain Tigris, Lenore, Belfino, and I will be watching you.",
+        "pt": "[Cavaleira Rúnica Lunarea]\nNeste teste, Capitão Tigris, Renoa, Velpino e eu visitaremos juntos.",
+        "es": "[Caballera rúnica Lunarea]\nEl capitán Tigris, Renoa, Velpino y yo te estaremos vigilando."
+    },
+    "RPPdAg": {
+        "en": "[Spacetime Rune Knight Lunaria]\nYou can ask one of us for help, but... it may come with a price.",
+        "pt": "[Cavaleira Rúnica Lunarea]\nSe você quiser, pode pedir ajuda a um de nós. Mas não pense que sempre ajudaremos.",
+        "es": "[Caballera rúnica Lunarea]\nPuedes pedir ayuda a uno de nosotros, pero… por un precio."
+    },
+    "RfPdAg": {
+        "en": "^0000FFWhile Lunaria talked, a small, unfamiliar-looking device attached to her sword hilt made a pure sound as colorful rune letters appeared around it. Is this one of the Rune Knight relics I'd heard about?^000000",
+        "pt": "^0000FFEnquanto conversa, você ouve um som tilintando, ou alguma coisa pingando. Você observa um pingente que está preso na espada de Lunarea. Será que este é o lendário item dos Cavaleiros Rúnicos?!^000000",
+        "es": "^0000FF(Mientras Lunarea hablaba, un extraño dispositivo en la empuñadura de su espada emitió un sonido claro, y aparecieron unas letras rúnicas coloridas. ¿Será una de las reliquias de los Caballeros rúnicos de las que había oído hablar?).^000000"
+    },
+    "RvPdAg": {
+        "en": "[Spacetime Rune Knight Lunaria]\nExcuse me...",
+        "pt": "[Cavaleira Rúnica Lunarea]\nEi, estou falando com você.",
+        "es": "[Caballera rúnica Lunarea]\nDisculpa…"
+    },
+    "R/PdAg": {
+        "en": "^0000FFLunaria held the small device to her ear and spoke. At first, I thought she was talking to herself, but then another voice was heard from the device.^000000",
+        "pt": "^0000FF Droga, ter a atenção chamada não é nada bom. Ela retira o item coloca em suas orelhas. Eram apenas brincos.^000000",
+        "es": "^0000FF(Lunarea se acercó el pequeño dispositivo a la oreja y habló. Al principio, pensé que estaba hablando sola, pero luego, se oyó otra voz proveniente del dispositivo).^000000"
+    },
+    "SPPdAg": {
+        "en": "[Spacetime Rune Knight Lunaria]\nWater is leaking in the Test Hall.",
+        "pt": "[Cavaleira Rúnica Lunarea]\nEsta sala do exame é adorável e como você já reparou com toda sua atenção, tem um vazamento aqui e isso é um problema.",
+        "es": "[Caballera rúnica Lunarea]\nHay una fuga de agua en el salón de pruebas."
+    },
+    "SfPdAg": {
+        "en": "[Spacetime Rune Knight Lunaria]\nSo? Are you telling me I should fix it?",
+        "pt": "[Cavaleira Rúnica Lunarea]\nEntão... como que Você quer resolver isso?",
+        "es": "[Caballera rúnica Lunarea]\n¿Y? ¿Insinúas que debería arreglarla?"
+    },
+    "SvPdAg": {
+        "en": "[Spacetime Rune Knight Lunaria]\nI'm Lunaria, the Spacetime Rune Knight, not a plumber! Stop testing my patience, you fool!",
+        "pt": "[Cavaleira Rúnica Lunarea]\nVocê quer se tornar o que? Encanador ou Cavaleiro Rúnico? Me responda agora!",
+        "es": "[Caballera rúnica Lunarea]\n¡Soy Lunarea, la Caballera rúnica del espaciotiempo, no una fontanera! ¡Deja de poner a prueba mi paciencia, idiota!"
+    },
+    "S/PdAg": {
+        "en": "^0000FFThe power and violence that exploded out of her made me stand frozen, afraid even to be noticed. After a while, Lunaria stopped shouting and turned around to speak casually at me.^000000",
+        "pt": "^0000FFNossa, mas que raiva, que energia. Mesmo depois de brigar comigo, ainda sim continua me ajudando. ^000000",
+        "es": "^0000FF(La fuerza y la violencia que brotaron de ella me dejaron inmóvil, y tenía miedo de que se fijara en mí. Al cabo de un rato, Lunarea dejó de gritar y se volvió para hablarme tranquilamente).^000000"
+    },
+    "TPPdAg": {
+        "en": "[Spacetime Rune Knight Lunaria]\nYou heard it, right? We can't use the Test Hall. Go back.",
+        "pt": "[Cavaleira Rúnica Lunarea]\nO exame não poderá ser aqui, fale com Tigris novamente!",
+        "es": "[Caballera rúnica Lunarea]\nLo escuchaste, ¿verdad? No podemos usar el salón de pruebas. Largo."
+    },
+    "TfPdAg": {
+        "en": "[Spacetime Rune Knight Lunaria]\nYou passed my test. Go back to Captain Tigris now.",
+        "pt": "[Cavaleira Rúnica Lunarea]\nEsta parte do teste acabou, vá falar com o Capitão.",
+        "es": "[Caballera rúnica Lunarea]\nPasaste mi prueba. Vuelve con el capitán Tigris."
+    },
+    "TvPdAg": {
+        "en": "[Spacetime Rune Knight Lunaria]\nOr... finish your tests with the other Rune Knights first.",
+        "pt": "[Cavaleira Rúnica Lunarea]\nExistem outros testes que você deverá realizar, espero que não falhe.",
+        "es": "[Caballera rúnica Lunarea]\nO… termina las pruebas con los otros Caballeros rúnicos primero."
+    },
+    "T/PdAg": {
+        "en": "Red Lotus Rune Knight Lenore",
+        "pt": "Cavaleira Rúnica Renoa",
+        "es": "Caballera rúnica Renoa"
+    },
+    "UPPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nWelcome to the club, {0}, the new Rune Knight. This is just the beginning.",
+        "pt": "[Cavaleira Rúnica Renoa]\nParabéns por se tornar um dos nossos. Cavaleiro Rúnico Júnior,{0}.",
+        "es": "[Caballera rúnica Renoa]\nTe doy la bienvenida al clan de los Caballeros rúnicos, {0}. Esto es solo el principio."
+    },
+    "UfPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nSoon, we'll know where exactly we should be headed.",
+        "pt": "[Cavaleira Rúnica Renoa]\nEm breve você verá claramente o caminho que precisamos seguir.",
+        "es": "[Caballera rúnica Renoa]\nPronto sabremos exactamente hacia dónde debemos dirigirnos."
+    },
+    "UvPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nUntil then, I'll continue to cultivate more Rune Knights. Like I did you.",
+        "pt": "[Cavaleira Rúnica Renoa]\nAté lá, eu estarei aqui para encontrar mais candidatos como você.",
+        "es": "[Caballera rúnica Renoa]\nHasta entonces, seguiré preparando a más Caballeros rúnicos. Como hice contigo."
+    },
+    "U/PdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nHere comes another Rune Knight candidate. I don't know how many I've met just today alone.",
+        "pt": "[Cavaleira Rúnica Renoa]\nVocê é aquele que quer ser um Cavaleiro Rúnico? Já tivemos tantos hoje.",
+        "es": "[Caballera rúnica Renoa]\nAquí viene otra persona aspirante a Caballero rúnico. Perdí la cuenta de cuántos vi hoy."
+    },
+    "VPPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nAnd none of them passed my test. That's why I'm just lounging here.",
+        "pt": "[Cavaleira Rúnica Renoa]\nÉ uma pena que não tivemos tantos candidatos que conseguiram chegar até a minha parte do teste, por isso eu só estou descansando.",
+        "es": "[Caballera rúnica Renoa]\nY ninguno pasó mi prueba. Por eso estoy aquí holgazaneando."
+    },
+    "VfPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nIf you're taking the Rune Knight test, please do your best to reach me. Of course, that requires you to pass Lunaria's test first, which is not easy. Teehee!",
+        "pt": "[Cavaleira Rúnica Renoa]\nSe você estiver fazendo o teste para Cavaleiro Rúnico, eu espero que você dê tudo o que tem. Isso não será tão fácil de passar quando o teste de Lunarea, certo?",
+        "es": "[Caballera rúnica Renoa]\nSi vas a hacer las pruebas para unirte a los Caballeros rúnicos, esfuérzate para llegar aquí. Pero para eso, primero, tienes que pasar la prueba de Lunarea, que no es nada fácil. ¡Yuju!"
+    },
+    "VvPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nAh, finally, it's my turn. How exciting! I've been waiting so long!",
+        "pt": "[Cavaleira Rúnica Renoa]\nFinalmente! É a minha vez? Estou tão feliz.",
+        "es": "[Caballera rúnica Renoa]\nAh, por fin, es mi turno. ¡Qué emoción! ¡Llevo tanto tiempo esperando!"
+    },
+    "V/PdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI stopped counting the number of candidates that took tests with Lunaria after a hundred.",
+        "pt": "[Cavaleira Rúnica Renoa]\nTantos candidatos fracassaram no teste de Lunarea que eu desisti de contar.",
+        "es": "[Caballera rúnica Renoa]\nDespués de los cien candidatos, ya ni me molesté en seguir contando a los que hicieron la prueba de Lunarea."
+    },
+    "WPPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nMm, I'm Lenore. I'm here to teach you about the runes and magic and give you a test.",
+        "pt": "[Cavaleira Rúnica Renoa]\nEu sou Renoa. Eu estou encarregada de ensinar e testar runas e magias para candidatos a Cavaleiros Rúnicos.",
+        "es": "[Caballera rúnica Renoa]\nMm, me llamo Renoa. Estoy aquí para enseñarte sobre runas y magia y tomarte una prueba."
+    },
+    "WfPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nGood job taking the test with the taciturn Lunaria. She's a bit unique, isn't she? Alright, we should get started now.",
+        "pt": "[Cavaleira Rúnica Renoa]\nObrigado por toda a sua dedicação para chegar até essa parte do teste. Certo, mesmo assim.",
+        "es": "[Caballera rúnica Renoa]\nTe felicito por hacer la prueba con la taciturna Lunarea. Es un poco peculiar, ¿no? Bien, deberíamos empezar."
+    },
+    "WvPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nFirst, I want you to do some homework. Go to the library in the southwest and read these books I'm telling you.",
+        "pt": "[Cavaleira Rúnica Renoa]\nPrimeiro, vou lhe dar uma tarefa. Vamos começar estudando. Vá até a biblioteca e estude esses livros.",
+        "es": "[Caballera rúnica Renoa]\nPrimero, quiero que hagas algunos deberes. Ve a la biblioteca en el suroeste y lee los siguientes libros."
+    },
+    "W/PdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nMm... ^0000FFThe Runes and the Rune Knight^000000 , ^0000FFThe Principles of the Runes and Their Kinds^000000, and... ^0000FFHow to Make and Use Runestones^000000. I guess these three should do.",
+        "pt": "[Cavaleira Rúnica Renoa]\nUmm, ^0000FFRunas e Cavaleiros Rúnicos^000000, ^0000FFOs Princípios das Runas^000000, ^0000FFA criação e uso das Runas^000000. Comece com esses 3...",
+        "es": "[Caballera rúnica Renoa]\nMmm… ^0000FFLas runas y el Caballero rúnico^000000, ^0000FFLos principios de las runas y sus tipos^000000, y… ^0000FFCómo hacer y usar piedras rúnicas^000000. Con estos tres bastará."
+    },
+    "XPPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nRead them carefully, and then come back. I hope you like reading and studying because these books are not easy to read.",
+        "pt": "[Cavaleira Rúnica Renoa]\nLeia o livro inteiro e volte aqui. Se você é do tipo de pessoa que não gosta de ler e estudar, então não será fácil para você viver como um Cavaleiro Rúnico.",
+        "es": "[Caballera rúnica Renoa]\nLéelos con calma y regresa cuando termines. Espero que te guste leer y estudiar porque estos libros son densos."
+    },
+    "XfPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nBut they're not as daunting as the books that Mages in Geffen and Juno have to read. Just do your best to understand them.",
+        "pt": "[Cavaleira Rúnica Renoa]\nNão se preocupe, não será preciso ter o mesmo conhecimento dos mágicos de Geffen ou Juno. Mas você também não pode ser um idiota.",
+        "es": "[Caballera rúnica Renoa]\nAun así, no se comparan con los libros que tienen que leer los Magos de Geffen y Juno. Esfuérzate por entenderlos."
+    },
+    "XvPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nDid you read the books I asked you in the library? I know you're not used to reading technical books like them, but you have to have some basic knowledge in the runes to become a Rune Knight.",
+        "pt": "[Cavaleira Rúnica Renoa]\nVocê leu todos os livros da biblioteca? Não será fácil de ler, mas se você está determinado a ser um Cavaleiro Rúnico, você precisa ter esse tipo de conhecimento básico.",
+        "es": "[Caballera rúnica Renoa]\n¿Leíste los libros que te dije que buscaras en la biblioteca? Sé que los libros técnicos no son lo tuyo, pero necesitas tener conocimientos básicos sobre runas para unirte a los Caballeros rúnicos."
+    },
+    "X/PdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nAs you may have read from those books, basically, you can't use magic without learning how to command the power of the natural elements.",
+        "pt": "[Cavaleira Rúnica Renoa]\nSimplificando, o poder da magia não pode ser usado sem treinamento para extrair o poder da natureza dos elementos.",
+        "es": "[Caballera rúnica Renoa]\nComo habrás leído en esos libros, básicamente, no puedes usar magia si no aprendes a dominar el poder de los elementos naturales."
+    },
+    "YPPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nWizards and Sages have capitalized on that, turning magic into their property.",
+        "pt": "[Cavaleira Rúnica Renoa]\nPortanto, classes como Arquimago e Sábios apareceram e a magia se tornou os seus próprios campos sagrados.",
+        "es": "[Caballera rúnica Renoa]\nLos Hechiceros y los Sabios aprovecharon eso y se apropiaron de la magia."
+    },
+    "YfPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nSwordmaster Beelzeb, who founded the Rune Knights, contacted the elementals of the Otherworld before Morroc resurrected and shut down the gate between the two realms.",
+        "pt": "[Cavaleira Rúnica Renoa]\nO líder dos Cavaleiros Rúnicos, Beljeve, é conhecido por ter tido contato com fadas mesmo antes da porta dimensional de Ash vacuum ter sido feita quando o Demônio de Morroc ressuscitou.",
+        "es": "[Caballera rúnica Renoa]\nBeelzeb, el maestro espadachín fundador de los Caballeros rúnicos, contactó con los elementales del otro mundo antes de que Morroc resucitara y cerrara la puerta entre los dos reinos."
+    },
+    "YvPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nThey told him how to materialize magical essence and helped him create runes.",
+        "pt": "[Cavaleira Rúnica Renoa]\nEu ouvi uma história dos sábios mágicos sobre a tecnologia que pode materializar a essência da magia. Eu comecei a estudar como materializar para uma runa com a ajuda deles.",
+        "es": "[Caballera rúnica Renoa]\nLos elementales le enseñaron a Beelzeb cómo materializar la esencia mágica y lo ayudaron a crear runas."
+    },
+    "Y/PdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nBeelzeb combined his research results with his swordsmanship, giving birth to us, the Rune Knights.",
+        "pt": "[Cavaleira Rúnica Renoa]\nNossos Cavaleiros Rúnicos nasceram do resultado desse estudo, que permite praticar tanto o poder da magia quanto o da espada usando runas.",
+        "es": "[Caballera rúnica Renoa]\nBeelzeb combinó sus hallazgos con el arte de la espada, y así surgimos nosotros, los Caballeros rúnicos."
+    },
+    "ZPPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nYou must wonder why I'm repeating what you've already learned from the books.",
+        "pt": "[Cavaleira Rúnica Renoa]\nParece que você não entende porque eu estou repetindo uma história que já está escrita em um livro.",
+        "es": "[Caballera rúnica Renoa]\nTe preguntarás por qué repito lo que ya leíste en los libros."
+    },
+    "ZfPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nThat's because, for your second Rune Knight test, I want you to visit the Laphine magic scholars in Ash Vacuum, the Otherworld, who helped our founder.",
+        "pt": "[Cavaleira Rúnica Renoa]\nPara o segundo teste, você precisa visitar os sábios magos de Laphine que foram responsáveis pelo nascimento dos Cavaleiros Rúnicos em Ash Vacuum.",
+        "es": "[Caballera rúnica Renoa]\nLa razón es que, en tu segunda prueba, tendrás que viajar a Ash Vacuum, el otro mundo, y visitar a los laphine, los eruditos de magia aliados de nuestro fundador."
+    },
+    "ZvPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nGo to Sage Serfeone, who's helping the Rune Knights in the Midgard Allied Forces Post with their rune research.",
+        "pt": "[Cavaleira Rúnica Renoa]\nEncontre o sábio, Serpeone, que tem estudado e ajudado os Cavaleiros Rúnicos que estão nos campos de Rune-Midgarg em Ash Vacuum.",
+        "es": "[Caballera rúnica Renoa]\nVe a ver a Serpeone, la sabia, que está ayudando a investigar las runas a los Caballeros rúnicos en el puesto de las Fuerzas Aliadas de Midgard."
+    },
+    "Z/PdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nShe's been interacting with us humans for a long time. You don't have to learn a new language or do anything else to communicate with her.",
+        "pt": "[Cavaleira Rúnica Renoa]\nO sábio mantém contato conosco há muito tempo, por isso não se preocupe em entender a linguagem de Serpeone.",
+        "es": "[Caballera rúnica Renoa]\nConvive con los humanos desde hace bastante tiempo. No tienes que aprender otro idioma ni hacer nada más para poder hablar con ella."
+    },
+    "aPPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nWhen you're ready, I'll let you use the portal to where Sage Serfeone is. When you get there, she'll tell you what to do.",
+        "pt": "[Cavaleira Rúnica Renoa]\nSe você está pronto, eu vou guiá-lo para o portal que o leva diretamente para Serpeone. Encontre-o e pegue a próxima instrução.",
+        "es": "[Caballera rúnica Renoa]\nCuando tengas todo listo, te dejaré usar el portal para llegar a donde está Serpeone, la sabia. Cuando llegues allí, ella te dirá qué hacer."
+    },
+    "afPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nIf you're ready, I'll send you to Sage Serfeone in the Midgard Allied Forces Post. Ready?",
+        "pt": "[Cavaleira Rúnica Renoa]\nSe você está pronto, eu vou abrir o caminho até o sábio, Serperone, que está no posto de Rune-Midgard em Ash Vacuum. Você está pronto?",
+        "es": "[Caballera rúnica Renoa]\nSi tienes todo listo, te enviaré con Serpeone, la sabia, en el puesto de las Fuerzas Aliadas de Midgard. ¿Todo listo?"
+    },
+    "avPdAg": {
+        "en": "Not yet.",
+        "pt": "Ainda não.",
+        "es": "Todavía no."
+    },
+    "a/PdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nAlright, then I'll send you there. But before you go, let me tell you this.",
+        "pt": "[Cavaleira Rúnica Renoa]\nÓtimo. Vou mandar você agora mesmo. Mas há uma última coisa que eu preciso contar.",
+        "es": "[Caballera rúnica Renoa]\nMuy bien, te enviaré allí. Pero antes de que te vayas, déjame decirte algo."
+    },
+    "bPPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nYou'll be in the Otherworld. Everyone else in the Midgard Allied Forces Post has been officially approved to stay there. You're not.",
+        "pt": "[Cavaleira Rúnica Renoa]\nVocê será mandado para Ash Vaccum. As pessoas enviadas ao posto de Rune-Midgard são aventureiros e oficiais certificados.",
+        "es": "[Caballera rúnica Renoa]\nEstarás en el otro mundo. Todos los demás en el puesto de las Fuerzas Aliadas de Midgard tienen un permiso oficial para permanecer allí. Tú no."
+    },
+    "bfPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nThanks to Beelzeb's agreement with each country, we, the Rune Knights, are allowed to visit the Post,",
+        "pt": "[Cavaleira Rúnica Renoa]\nBeljeve fez um acordo com outros locais que o comportamento livre dos nossos Cavaleiros Rúnicos é garantido, mas.",
+        "es": "[Caballera rúnica Renoa]\nGracias al acuerdo de Beelzeb con cada país, a los Caballeros rúnicos se nos permite visitar el puesto,"
+    },
+    "bvPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nbut if you want to operate in the Otherworld, you'll have to acquire an official permit.",
+        "pt": "[Cavaleira Rúnica Renoa]\nSe você quiser andar livremente por Ash Vacuum, você terá que ir da maneira tradicional que é adquirindo a qualificação com a aliança de Rune-Midgard. Não tem nada a ver com a gente..",
+        "es": "[Caballera rúnica Renoa]\npero si quieres andar por el otro mundo, tendrás que adquirir un permiso oficial."
+    },
+    "b/PdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nFor now, you're only allowed to visit the Post. Don't forget that.",
+        "pt": "[Cavaleira Rúnica Renoa]\nO acordo só permite que enviemos candidatos ao campo de Rune-Midgard e nenhum outro lugar.",
+        "es": "[Caballera rúnica Renoa]\nPor ahora, solo puedes visitar el puesto. No lo olvides."
+    },
+    "cPPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nNow, off you go!",
+        "pt": "[Cavaleira Rúnica Renoa]\nBoa sorte.",
+        "es": "[Caballera rúnica Renoa]\n¡Ahora, ve!"
+    },
+    "cfPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nLet me know when you're ready. I'll be here.",
+        "pt": "[Cavaleira Rúnica Renoa]\nSe estiver pronto para falar comigo novamente. Estou sempre livre.",
+        "es": "[Caballera rúnica Renoa]\nAvísame cuando tengas todo listo. Yo estaré aquí."
+    },
+    "cvPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nAh, welcome back. How did you like the Otherworld?",
+        "pt": "[Cavaleira Rúnica Renoa]\nUhm, você voltou? Como é em Ash Vaccum?",
+        "es": "[Caballera rúnica Renoa]\n¡Ah, hola de nuevo! ¿Qué te pareció el otro mundo?"
+    },
+    "c/PdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nWell, judging by your level, you've probably been there before. Ho ho.",
+        "pt": "[Cavaleira Rúnica Renoa]\nBem, uma pessoa com a sua força já deve ter estado lá, não?",
+        "es": "[Caballera rúnica Renoa]\nBueno, a juzgar por tu nivel, seguro que ya habías estado ahí antes. Jo, jo."
+    },
+    "dPPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nNow, you'll take a test related to the runes, which is the point of this whole process.",
+        "pt": "[Cavaleira Rúnica Renoa]\nAgora é hora de testar as runas que nos interessam. Para isso você passou por um processo bem complicado.",
+        "es": "[Caballera rúnica Renoa]\nAhora te toca una prueba sobre las runas, que es el propósito de todo este proceso."
+    },
+    "dfPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nHere's your chance to handle runes before becoming a Rune Knight.",
+        "pt": "[Cavaleira Rúnica Renoa]\nEu vou te dar um último teste que permite que você mexa diretamente com as runas.",
+        "es": "[Caballera rúnica Renoa]\nEs tu oportunidad de usarlas antes de unirte a los Caballeros rúnicos."
+    },
+    "dvPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI want you to make the runestones that you'll need for your final test after this one.",
+        "pt": "[Cavaleira Rúnica Renoa]\nNesse teste, você fará uma runa de pedra sozinho que será usada no seu último teste.",
+        "es": "[Caballera rúnica Renoa]\nNecesitarás piedras rúnicas para tu última prueba, así que es momento de que las elabores."
+    },
+    "d/PdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nIf you remember what you read from the books in the library, you should be able to make runestones here without my explanation.",
+        "pt": "[Cavaleira Rúnica Renoa]\nSe você lembra-se dos livros que leu na biblioteca antes, você poderá produzir uma Runa de pedra aqui sem a minha explicação.",
+        "es": "[Caballera rúnica Renoa]\nSi recuerdas lo que leíste en los libros de la biblioteca, no deberías necesitar mi ayuda para hacer las piedras rúnicas."
+    },
+    "ePPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nIf you succeed in making them, they'll be automatically transferred to Tigris. Good luck.",
+        "pt": "[Cavaleira Rúnica Renoa]\nSe você conseguir fazer a Runa de pedra automaticamente, ela se tornará a que você usará em si quando terminar, ela é entregue automaticamente ao Capitão Tigris, por isso, se esforce mesmo.",
+        "es": "[Caballera rúnica Renoa]\nSi logras hacerlas, se enviarán automáticamente a Tigris. Buena suerte."
+    },
+    "efPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nDon't forget. You have to make 20 runestones.",
+        "pt": "[Cavaleira Rúnica Renoa]\nO número total de pedras de runa que você precisa fazer é 20. Lembre-se bem disso.",
+        "es": "[Caballera rúnica Renoa]\nY recuerda que tienes que hacer 20 piedras rúnicas."
+    },
+    "evPdAg": {
+        "en": "How many runestones have I made so far?",
+        "pt": "Verificar o número de runas feitas?",
+        "es": "¿Cuántas piedras rúnicas hice hasta ahora?"
+    },
+    "e/PdAg": {
+        "en": "I've made all the 20 runestones.",
+        "pt": "Eu fiz todas as 20 pedras de runas.",
+        "es": "Ya hice las 20 piedras rúnicas."
+    },
+    "fPPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nSo far, you've made {0} runes.",
+        "pt": "[Cavaleira Rúnica Renoa]\nO número de pedras de runas feitas até agora é {0}.",
+        "es": "[Caballera rúnica Renoa]\nHasta ahora, hiciste {0} piedras rúnicas."
+    },
+    "ffPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nAh, you've made all the runestones you need. I'll send them to Tigris.",
+        "pt": "[Cavaleira Rúnica Renoa]\nEu trouxe a quantidade certa. Eu entregarei todas as pedras de runas feitas para o Capitão Tigris.",
+        "es": "[Caballera rúnica Renoa]\nAh, hiciste todas las piedras rúnicas que necesitabas. Se las enviaré a Tigris."
+    },
+    "fvPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nSoon, you'll be using them for another test.",
+        "pt": "[Cavaleira Rúnica Renoa]\nPorque lá há um teste esperando você para usar essas pedras de runas.",
+        "es": "[Caballera rúnica Renoa]\nPronto, las usarás en la otra prueba."
+    },
+    "f/PdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nYou passed my test. Now, go back to the Captain and take the next test.",
+        "pt": "[Cavaleira Rúnica Renoa]\nAqui, você passou. Volte ao Capitão Tigris e termine o próximo teste.",
+        "es": "[Caballera rúnica Renoa]\nPasaste mi prueba. Vuelve con el capitán y haz la siguiente prueba."
+    },
+    "gPPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nAs you may have noticed, this test wasn't about succeeding or failing. If you were nervous, you can relax now.",
+        "pt": "[Cavaleira Rúnica Renoa]\nRá! Você já deve ter percebido, mas não era um teste para aprovar ou reprovar você. Se você estava nervoso, agora pode relaxar.",
+        "es": "[Caballera rúnica Renoa]\nComo te habrás dado cuenta, esta prueba no se trataba de aprobar o fracasar. Si te preocupaba, ya puedes relajarte."
+    },
+    "gfPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nOh, wow! You've made more than 20. You should know more isn't always good.",
+        "pt": "[Cavaleira Rúnica Renoa]\nUau! O que é isso? Você fez mais de 20. Está tudo bem, mas lembre-se de seguir as instruções da próxima vez.",
+        "es": "[Caballera rúnica Renoa]\n¡Ah, vaya! Hiciste más de 20. Deberías saber que más no siempre es mejor."
+    },
+    "gvPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nThe more runestones you make, the more likely you waste your rune magic.",
+        "pt": "[Cavaleira Rúnica Renoa]\nQuanto mais pedras de runas você criar, maior será a probabilidade de desperdiçar sua magia rúnica.",
+        "es": "[Caballera rúnica Renoa]\nCuantas más piedras rúnicas hagas, más agotas tu magia rúnica."
+    },
+    "g/PdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nAnyway, soon, you'll be using these runestones you made for another test.",
+        "pt": "[Cavaleira Rúnica Renoa]\nDe qualquer forma, em breve você vai usar essas pedras de runas que criou em outro teste.",
+        "es": "[Caballera rúnica Renoa]\nEn fin, pronto usarás las piedras rúnicas que hiciste en la otra prueba."
+    },
+    "hPPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nHey, I told you to make at least 20. You haven't.",
+        "pt": "[Cavaleira Rúnica Renoa]\nEi! Acho que te falei para fazer pelo menos 20.",
+        "es": "[Caballera rúnica Renoa]\nOye, te dije que hicieras al menos 20. Pero no lo hiciste."
+    },
+    "hfPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nWhat the...? How did you get in here? Captain, I've found a rat here.",
+        "pt": "[Cavaleira Rúnica Renoa]\nEi... Como você chegou aqui? Capitão, acho que encontrei um rato aqui.",
+        "es": "[Caballera rúnica Renoa]\n¿Pero qué…? ¿Cómo entraste? Capitán, encontré una rata."
+    },
+    "hvPdAg": {
+        "en": "[Captain Tigris]\nHm? What is it, Lenore? And please stop calling people rats. We're not a shady criminal organization.",
+        "pt": "[Chefe Tigris]\nQual é o problema, Renoa?",
+        "es": "[Capitán Tigris]\n¿Mm? ¿Qué pasa, Renoa? Y deja de referirte a la gente como ratas. No somos una turbia banda criminal."
+    },
+    "h/PdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nAlright, but what are you going to do about this ''strange person?''",
+        "pt": "[Cavaleira Rúnica Renoa]\nEssa pessoa não pertence a este lugar. O que devo fazer?",
+        "es": "[Caballera rúnica Renoa]\nEstá bien, pero ¿qué harás con este visitante inesperado?"
+    },
+    "iPPdAg": {
+        "en": "[Captain Tigris]\nHm... Hey, you. Please come over here. Let me talk to you.",
+        "pt": "[Chefe Tigris]\nHumm... Ei, você. Venha aqui um minuto.",
+        "es": "[Capitán Tigris]\nMmm… Oye, tú. Ven aquí. Quiero hablar contigo."
+    },
+    "ifPdAg": {
+        "en": "Suspicious Hole in Statue",
+        "pt": "Fornalha de Runas",
+        "es": "Estatua con agujero sospechoso"
+    },
+    "ivPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nYou'd better keep your hand away from there. I'm not joking.",
+        "pt": "[Cavaleira Rúnica Renoa]\nVocê não quer tocar aquela coisa. Acredite em mim, não estou brincando.",
+        "es": "[Caballera rúnica Renoa]\nSerá mejor que no metas la mano ahí. Es en serio."
+    },
+    "i/PdAg": {
+        "en": "There's a suspicious hole the size of a fist at the bottom of the massive rune statue behind Lenore. Isn't that the mass-produce rune furnace I saw in the book?",
+        "pt": "Eu posso ver um buraco sob a grande Estátua de Runa de Pedra atrás de Renoa. Claramente, essa é a fornalha de produção em massa de runa que eu vi no livro.",
+        "es": "Detrás de Renoa, en la base de la estatua rúnica, hay un agujero del tamaño de un puño que parece sospechoso. ¿No es el horno de runas de producción en masa que vi en el libro?"
+    },
+    "jPPdAg": {
+        "en": "Make runestones with the rune furnace.",
+        "pt": "Use a fornalha de aquecimento de runa",
+        "es": "Crear piedras rúnicas con el horno de runas."
+    },
+    "jfPdAg": {
+        "en": "Quit.",
+        "pt": "Não, obrigado.",
+        "es": "Salir."
+    },
+    "jvPdAg": {
+        "en": "Rune magic simmered and writhed in the rune furnace, slowly taking shape.",
+        "pt": "O poder mágico da runa salta e se arremessa enquanto está sendo formado.",
+        "es": "Dentro del horno de runas, la magia rúnica chisporroteaba y se retorcía mientras tomaba forma."
+    },
+    "j/PdAg": {
+        "en": "This shimmering rune shaped like a red spiral is...",
+        "pt": "Essa runa espiral vermelha e quente é...",
+        "es": "Esta runa brillante con forma de espiral roja es…"
+    },
+    "kPPdAg": {
+        "en": "Ehwaz",
+        "pt": "Ehwaz",
+        "es": "Ehwaz"
+    },
+    "kfPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nOoh, good job! You created a runestone that matched the image in your head.",
+        "pt": "[Cavaleira Rúnica Renoa]\nNossa, isso está ótimo. A imagem da runa de pedra na minha cabeça e a que foi modelada se encaixam perfeitamente. É bem feita.",
+        "es": "[Caballera rúnica Renoa]\n¡Buen trabajo! Hiciste una piedra rúnica que coincide con la que visualizaste."
+    },
+    "kvPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI confirm you've successfully created 1 Ehwaz Rune.",
+        "pt": "[Cavaleira Rúnica Renoa]\n1 Runa de Ehwaz foi feita normalmente.",
+        "es": "[Caballera rúnica Renoa]\nConfirmo que creaste con éxito 1 runa Ehwaz."
+    },
+    "k/PdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nYou were lucky. Even though the result doesn't match the image in your head, it's still a runestone. This rarely happens.",
+        "pt": "[Cavaleira Rúnica Renoa]\nEu tive sorte. A imagem da runa de pedra na minha cabeça e a que foi modelada não se encaixam, mas isso acontece normalmente. Esse caso é raro.",
+        "es": "[Caballera rúnica Renoa]\nTuviste suerte. Aunque no salió exactamente como la visualizaste, sigue siendo una piedra rúnica. Esto casi nunca pasa."
+    },
+    "lPPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nThis is obvious. The result doesn't match the image in your head. Of course, you failed.",
+        "pt": "[Cavaleira Rúnica Renoa]\nÉ um resultado natural. A imagem da runa de pedra na minha cabeça e a peça modelada não combinam, por isso, o nível do sucesso é muito baixo.",
+        "es": "[Caballera rúnica Renoa]\nEsto es obvio. El resultado no es exactamente como lo visualizaste. Por supuesto, fallaste."
+    },
+    "lfPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nYou failed in runestone creation this time. Try again.",
+        "pt": "[Cavaleira Rúnica Renoa]\nEssa runa de pedra fracassou... Tente novamente.",
+        "es": "[Caballera rúnica Renoa]\nEsta vez, no lograste crear una piedra rúnica. Inténtalo de nuevo."
+    },
+    "lvPdAg": {
+        "en": "This shimmering rune shaped like a burgundy-red oblique line is...",
+        "pt": "Esse brilho com uma linha violeta obliqua é...",
+        "es": "Esta runa brillante con forma de línea oblicua rojo burdeos es…"
+    },
+    "l/PdAg": {
+        "en": "Osilia",
+        "pt": "Osilia",
+        "es": "Osilia"
+    },
+    "mPPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI confirm you've successfully created 1 Osilia Rune.",
+        "pt": "[Cavaleira Rúnica Renoa]\n1 Runa de Osilia foi feita normalmente.",
+        "es": "[Caballera rúnica Renoa]\nConfirmo que creaste con éxito 1 runa Osilia."
+    },
+    "mfPdAg": {
+        "en": "This shimmering rune shaped like a green diamond is...",
+        "pt": "Essa runa de esmeralda diamante é...",
+        "es": "Esta runa brillante con forma de diamante verde es…"
+    },
+    "mvPdAg": {
+        "en": "Mannaz",
+        "pt": "Mannaz",
+        "es": "Mannaz"
+    },
+    "m/PdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI confirm you've successfully created 1 Mannaz Rune.",
+        "pt": "[Cavaleira Rúnica Renoa]\n1 Runa de Mannaz foi feita normalmente.",
+        "es": "[Caballera rúnica Renoa]\nConfirmo que creaste con éxito 1 runa Mannaz."
+    },
+    "nPPdAg": {
+        "en": "This shimmering rune shaped like a green circle is...",
+        "pt": "Essa runa brilhante com uma forma de esmeralda é...",
+        "es": "Esta runa brillante con forma de círculo verde es…"
+    },
+    "nfPdAg": {
+        "en": "Ansuz",
+        "pt": "Ansuz",
+        "es": "Ansuz"
+    },
+    "nvPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI confirm you've successfully created 1 Ansuz Rune.",
+        "pt": "[Cavaleira Rúnica Renoa]\n1 Runa de Ansuz foi feita normalmente.",
+        "es": "[Caballera rúnica Renoa]\nConfirmo que creaste con éxito 1 runa Ansuz."
+    },
+    "n/PdAg": {
+        "en": "This shimmering rune shaped like a light blue star is...",
+        "pt": "Essa runa brilhante com a forma de estrela de céu azul é...",
+        "es": "Esta runa brillante con forma de estrella azul claro es…"
+    },
+    "oPPdAg": {
+        "en": "Hagalas",
+        "pt": "Hagalas",
+        "es": "Hagalas"
+    },
+    "ofPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI confirm you've successfully created 1 Hagalas Rune.",
+        "pt": "[Cavaleira Rúnica Renoa]\n1 Runa de Hagalas foi feita normalmente.",
+        "es": "[Caballera rúnica Renoa]\nConfirmo que creaste con éxito 1 runa Hagalas."
+    },
+    "ovPdAg": {
+        "en": "This shimmering rune shaped like a red diamond is...",
+        "pt": "Essa runa brilhante com a forma de um diamante vermelho está...",
+        "es": "Esta runa brillante con forma de diamante rojo es…"
+    },
+    "o/PdAg": {
+        "en": "Kano",
+        "pt": "Kano",
+        "es": "Kano"
+    },
+    "pPPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI confirm you've successfully created 1 Kano Rune.",
+        "pt": "[Cavaleira Rúnica Renoa]\n1 Runa de Kano foi feita normalmente.",
+        "es": "[Caballera rúnica Renoa]\nConfirmo que creaste con éxito 1 runa Kano."
+    },
+    "pfPdAg": {
+        "en": "This shimmering rune shaped like a light blue oblique line is...",
+        "pt": "Essa runa brilhante com uma linha diagonal azulada está...",
+        "es": "Esta runa brillante con forma de línea oblicua azul claro es…"
+    },
+    "pvPdAg": {
+        "en": "Rhydo",
+        "pt": "Rhydo",
+        "es": "Rhydo"
+    },
+    "p/PdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI confirm you've successfully created 1 Rhydo Rune.",
+        "pt": "[Cavaleira Rúnica Renoa]\n1 Runa de Rhydo foi feita normalmente.",
+        "es": "[Caballera rúnica Renoa]\nConfirmo que creaste con éxito 1 runa Rhydo."
+    },
+    "qPPdAg": {
+        "en": "This shimmering rune shaped like a yellow circle is...",
+        "pt": "A runa brilhando com um círculo vermelho está...",
+        "es": "Esta runa brillante con forma de círculo amarillo es…"
+    },
+    "qfPdAg": {
+        "en": "Turisus",
+        "pt": "Thurisus",
+        "es": "Turisus"
+    },
+    "qvPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI confirm you've successfully created 1 Turisus Rune.",
+        "pt": "[Cavaleira Rúnica Renoa]\n1 Runa de Thurisus foi feita normalmente.",
+        "es": "[Caballera rúnica Renoa]\nConfirmo que creaste con éxito 1 runa Turisus."
+    },
+    "q/PdAg": {
+        "en": "This shimmering rune shaped like a green spiral is...",
+        "pt": "Essa runa brilhante com uma linha de esmeralda está...",
+        "es": "Esta runa brillante con forma de espiral verde es…"
+    },
+    "rPPdAg": {
+        "en": "Dagaz",
+        "pt": "Dagaz",
+        "es": "Dagaz"
+    },
+    "rfPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI confirm you've successfully created 1 Dagaz Rune.",
+        "pt": "[Cavaleira Rúnica Renoa]\n1 Runa de Dagaz foi feita normalmente.",
+        "es": "[Caballera rúnica Renoa]\nConfirmo que creaste con éxito 1 runa Dagaz."
+    },
+    "rvPdAg": {
+        "en": "This shimmering rune shaped like a light blue fan is...",
+        "pt": "A runa brilhante com a forma de ventilador com a cor azul do céu é...",
+        "es": "Esta runa brillante con forma de abanico azul claro es…"
+    },
+    "r/PdAg": {
+        "en": "Sowilo",
+        "pt": "Sowilo",
+        "es": "Sowilo"
+    },
+    "sPPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI confirm you've successfully created 1 Sowilo Rune.",
+        "pt": "[Cavaleira Rúnica Renoa]\n1 Runa de Sowilo foi feita normalmente.",
+        "es": "[Caballera rúnica Renoa]\nConfirmo que creaste con éxito 1 runa Sowilo."
+    },
+    "sfPdAg": {
+        "en": "This shimmering rune shaped like a yellow diamond is...",
+        "pt": "A runa brilhante com a forma de diamante amarelo está...",
+        "es": "Esta runa brillante con forma de diamante amarillo es…"
+    },
+    "svPdAg": {
+        "en": "Laguz",
+        "pt": "Laguz",
+        "es": "Laguz"
+    },
+    "s/PdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI confirm you've successfully created 1 Laguz Rune.",
+        "pt": "[Cavaleira Rúnica Renoa]\n1 Runa de Laguz foi feita normalmente.",
+        "es": "[Caballera rúnica Renoa]\nConfirmo que creaste con éxito 1 runa Laguz."
+    },
+    "tPPdAg": {
+        "en": "This shimmering rune shaped like a burgundy-red spiral is...",
+        "pt": "Essa runa brilhante com uma linha violeta está...",
+        "es": "Esta runa brillante con forma de espiral rojo burdeos…"
+    },
+    "tfPdAg": {
+        "en": "Isia",
+        "pt": "Isia",
+        "es": "Isia"
+    },
+    "tvPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI confirm you've successfully created 1 Isia Rune.",
+        "pt": "[Cavaleira Rúnica Renoa]\n1 Runa de Isia foi feita normalmente.",
+        "es": "[Caballera rúnica Renoa]\nConfirmo que creaste con éxito 1 runa Isia."
+    },
+    "t/PdAg": {
+        "en": "This shimmering rune shaped like a silver spiral is...",
+        "pt": "A runa brilhante com uma espiral prateada está...",
+        "es": "Esta runa brillante con forma de espiral plateada es…"
+    },
+    "uPPdAg": {
+        "en": "Pertz",
+        "pt": "Pertz",
+        "es": "Pertz"
+    },
+    "ufPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI confirm you've successfully created 1 Pertz Rune.",
+        "pt": "[Cavaleira Rúnica Renoa]\n1 Runa de Pertz foi feita normalmente.",
+        "es": "[Caballera rúnica Renoa]\nConfirmo que creaste con éxito 1 runa Pertz."
+    },
+    "uvPdAg": {
+        "en": "This shimmering rune shaped like a gold star is...",
+        "pt": "A runa brilhante com a forma de estrela de ouro está...",
+        "es": "Esta runa brillante con forma de estrella dorada es…"
+    },
+    "u/PdAg": {
+        "en": "Verkana",
+        "pt": "Verkana",
+        "es": "Verkana"
+    },
+    "vPPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI confirm you've successfully created 1 Verkana Rune.",
+        "pt": "[Cavaleira Rúnica Renoa]\n1 Runa de Verkana foi feita normalmente.",
+        "es": "[Caballera rúnica Renoa]\nConfirmo que creaste con éxito 1 runa Verkana."
+    },
+    "vfPdAg": {
+        "en": "This shimmering rune shaped like a yellow cone is...",
+        "pt": "A runa brilhante com a forma de cone amarelo está...",
+        "es": "Esta runa brillante con forma de cono amarillo es…"
+    },
+    "vvPdAg": {
+        "en": "Gebo",
+        "pt": "Gebo",
+        "es": "Gebo"
+    },
+    "v/PdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI confirm you've successfully created 1 Gebo Rune.",
+        "pt": "[Cavaleira Rúnica Renoa]\n1 Runa de Gebo foi feita normalmente.",
+        "es": "[Caballera rúnica Renoa]\nConfirmo que creaste con éxito 1 runa Gebo."
+    },
+    "wPPdAg": {
+        "en": "This shimmering rune shaped like a green oblique line is...",
+        "pt": "A runa brilhante com uma espiral esmeralda está...",
+        "es": "Esta runa brillante con forma de línea oblicua verde es…"
+    },
+    "wfPdAg": {
+        "en": "Algiz",
+        "pt": "Algiz",
+        "es": "Algiz"
+    },
+    "wvPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI confirm you've successfully created 1 Algiz Rune.",
+        "pt": "[Cavaleira Rúnica Renoa]\n1 Runa de Algiz foi feita normalmente.",
+        "es": "[Caballera rúnica Renoa]\nConfirmo que creaste con éxito 1 runa Algiz."
+    },
+    "w/PdAg": {
+        "en": "This shimmering rune shaped like a gray diamond is...",
+        "pt": "A runa brilhante com a forma de diamante cinza está...",
+        "es": "Esta runa brillante con forma de diamante gris es…"
+    },
+    "xPPdAg": {
+        "en": "This shimmering rune shaped like a gold circle is...",
+        "pt": "A runa brilhante com a forma de círculo de ouro está...",
+        "es": "Esta runa brillante con forma de círculo dorado es…"
+    },
+    "xfPdAg": {
+        "en": "Teiwaz",
+        "pt": "Teiwaz",
+        "es": "Teiwaz"
+    },
+    "xvPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI confirm you've successfully created 1 Teiwaz Rune.",
+        "pt": "[Cavaleira Rúnica Renoa]\n1 Runa de Teiwaz foi feita normalmente.",
+        "es": "[Caballera rúnica Renoa]\nConfirmo que creaste con éxito 1 runa Teiwaz."
+    },
+    "x/PdAg": {
+        "en": "This shimmering rune shaped like a green star is...",
+        "pt": "A runa brilhante com a forma de estrela esmeralda está...",
+        "es": "Esta runa brillante con forma de estrella verde es…"
+    },
+    "yPPdAg": {
+        "en": "Wunjo",
+        "pt": "Wunjo",
+        "es": "Wunjo"
+    },
+    "yfPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI confirm you've successfully created 1 Wunjo Rune.",
+        "pt": "[Cavaleira Rúnica Renoa]\n1 Runa de Wunjo foi feita normalmente.",
+        "es": "[Caballera rúnica Renoa]\nConfirmo que creaste con éxito 1 runa Wunjo."
+    },
+    "yvPdAg": {
+        "en": "Jera",
+        "pt": "Jera",
+        "es": "Jera"
+    },
+    "y/PdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI confirm you've successfully created 1 Jera Rune.",
+        "pt": "[Cavaleira Rúnica Renoa]\n1 Runa de Jera foi feita normalmente.",
+        "es": "[Caballera rúnica Renoa]\nConfirmo que creaste con éxito 1 runa Jera."
+    },
+    "zPPdAg": {
+        "en": "This shimmering rune shaped like a yellow fan is...",
+        "pt": "A runa brilhante com a forma de ventilador com a amarela está...",
+        "es": "Esta runa brillante con forma de abanico amarillo es…"
+    },
+    "zfPdAg": {
+        "en": "Nosiege",
+        "pt": "Nosiege",
+        "es": "Nosiege"
+    },
+    "zvPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI confirm you've successfully created 1 Nosiege Rune.",
+        "pt": "[Cavaleira Rúnica Renoa]\n1 Runa de Nosiege foi feita normalmente.",
+        "es": "[Caballera rúnica Renoa]\nConfirmo que creaste con éxito 1 runa Nosiege."
+    },
+    "z/PdAg": {
+        "en": "This shimmering rune shaped like a burgundy-red diamond is...",
+        "pt": "A runa brilhante com a forma de diamante violeta está...",
+        "es": "Esta runa brillante con forma de diamante rojo burdeos es…"
+    },
+    "0PPdAg": {
+        "en": "Ingz",
+        "pt": "Ingz",
+        "es": "Ingz"
+    },
+    "0fPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI confirm you've successfully created 1 Ingz Rune.",
+        "pt": "[Cavaleira Rúnica Renoa]\n1 Runa de Ingz foi feita normalmente.",
+        "es": "[Caballera rúnica Renoa]\nConfirmo que creaste con éxito 1 runa Ingz."
+    },
+    "0vPdAg": {
+        "en": "This shimmering rune shaped like a silver circle is...",
+        "pt": "A runa brilhante com a forma de círculo prateado está...",
+        "es": "Esta runa brillante con forma de círculo plateado es…"
+    },
+    "0/PdAg": {
+        "en": "Fehu",
+        "pt": "Fehu",
+        "es": "Fehu"
+    },
+    "1PPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI confirm you've successfully created 1 Fehu Rune.",
+        "pt": "[Cavaleira Rúnica Renoa]\n1 Runa de Fehu foi feita normalmente.",
+        "es": "[Caballera rúnica Renoa]\nConfirmo que creaste con éxito 1 runa Fehu."
+    },
+    "1fPdAg": {
+        "en": "This shimmering rune shaped like a purple oblique line is...",
+        "pt": "A runa brilhante com uma espiral violeta está...",
+        "es": "Esta runa brillante con forma de línea oblicua morada es…"
+    },
+    "1vPdAg": {
+        "en": "Urj",
+        "pt": "Urj",
+        "es": "Urj"
+    },
+    "1/PdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI confirm you've successfully created 1 Urj Rune.",
+        "pt": "[Cavaleira Rúnica Renoa]\n1 Urj foi feito normalmente.",
+        "es": "[Caballera rúnica Renoa]\nConfirmo que creaste con éxito 1 runa Urj."
+    },
+    "2PPdAg": {
+        "en": "Runes and the Rune Knight",
+        "pt": "Runas e Cavaleiros",
+        "es": "Las runas y el caballero de las runas"
+    },
+    "2fPdAg": {
+        "en": "[Red Lotus Rune Knight Lenore]\nI can overlook the fact that you touched this book without approval, but can you understand it?",
+        "pt": "[Cavaleira Rúnica Renoa]\nAlém de tocar coisas nesse lugar sem permissão. Você conseguiu entender o conteúdo do livro?",
+        "es": "[Caballera rúnica Renoa]\nPuedo pasar por alto que tocaste este libro sin permiso, pero ¿entiendes su contenido?"
+    },
+    "2vPdAg": {
+        "en": "[Captain Tigris]\nAh... Hah hah hah. Lenore, cut them some slack, will you? Hey, adventurer. You shouldn't touch things without asking first.",
+        "pt": "[Chefe Tigris]\nEi, Renoa, vá com calma com esse Cavaleiro. Você também, é bom que você pare de tocar as coisas sem permissão.",
+        "es": "[Capitán Tigris]\nAh… Ja, ja, ja. Renoa, dale un respiro, ¿quieres? Oye, trotamundos. Pide permiso antes de tocar algo."
+    },
+    "2/PdAg": {
+        "en": "Birth of the Rune Knights",
+        "pt": "O nascimento dos Cavaleiros Rúnicos.",
+        "es": "El origen de los Caballeros rúnicos."
+    },
+    "3PPdAg": {
+        "en": "Runes and Magic Energy",
+        "pt": "Runas e Energia Mágica",
+        "es": "Runas y energía mágica."
+    },
+    "3fPdAg": {
+        "en": "Quit reading.",
+        "pt": "Parar de ler o livro",
+        "es": "Dejar de leer."
+    },
+    "3vPdAg": {
+        "en": "The Rune Knights are a group of advanced Swordsmen that practice both swordsmanship and magic, following Beelzeb, the legendary swordmaster and creator of the Dragon Sword style.",
+        "pt": "Cavaleiros Rúnicos são a união de espadachins evoluídos que atingiram a harmonia da espada e da magia.\nIsso foi alcançado pelo lendário espadachim Bejeve que foi conhecido como um Mestre da Espada e o fundador de dispensáveis expedições.",
+        "es": "Los Caballeros rúnicos son una orden de Espadachines de élite que combinan el arte de la espada con la magia y son discípulos del legendario maestro Beelzeb que creó la técnica de la espada dragón."
+    },
+    "3/PdAg": {
+        "en": "They're distinguished from other Swordsmen for their use of the runes that enable them to employee magic without the innate magic power with which they were not born with.",
+        "pt": "Cavaleiros Rúnicos usam pedras de runa como um meio para usar poderes mágicos ao invés de usar a energia mágica do próprio corpo.",
+        "es": "Lo que los distingue de otros Espadachines es su uso de las runas, que les permiten emplear la magia sin haber nacido con poder mágico."
+    },
+    "4PPdAg": {
+        "en": "This revolutionary method of magic application is still being studied, but it's already debunked the consensus that one has to be born with the ability to generate mana to be able to use magic.",
+        "pt": "Antes, poderes mágicos só podiam ser usados por aqueles que pudessem controlar a magia dentro de seus corpos após muita pesquisa.\nEntretanto, a pesquisa direta sobre os poderes mágicos das runas que quebraram essas ideias convencionais está progredindo.",
+        "es": "Aunque este revolucionario método sigue siendo objeto de estudio, ya se ha refutado la creencia de que solo quienes nacen con la capacidad de generar maná pueden usar la magia."
+    },
+    "4fPdAg": {
+        "en": "Its pioneer, Swordmaster Beelzeb, sought ways to free himself from the physical limits of the human realm when he'd reached his limits, and started interacting with some magical beings in the Otherworld at least a decade ago.",
+        "pt": "Sabe-se que o Mestre da Espada, Beljeve, sentiu o limite do seu poder, por isso ele estudou uma maneira de superar suas limitações físicas de mortal.\nNós acreditamos que ele já estava em contato com a tribo Laphine muito antes de a ruptura dimensional ser descoberta para levar até Ash Cauum.",
+        "es": "Hace una década, el maestro espadachín Beelzeb, al llegar al límite de sus capacidades, exploró formas de librarse de las limitaciones del mundo humano y empezó a interactuar con seres mágicos del otro mundo."
+    },
+    "4vPdAg": {
+        "en": "They were the Laphine, the elementals of the Otherworld whose existence was revealed after the borders between dimensions collapsed because of Satan Morroc's resurrection. It's believed they're deeply related to the birth of the Rune Knights.",
+        "pt": "A tribo Laphine são as fadas de Ash Vacuum e são conhecidas por terem uma ligação com o nascimento dos Cavaleiros Rúnicos.\nAgora é possível que aqueles que normalmente não são capazes de usar poderes mágicos encontrem um meio de carregar o poder da magia que mortais comuns não podiam usar antes.",
+        "es": "Y esos seres eran los laphines, los elementales del otro mundo, cuya existencia salió a la luz después del colapso de las fronteras entre dimensiones provocado por la resurrección de Satán Morroc. Se cree que los laphines están estrechamente vinculados con el nacimiento de los Caballeros rúnicos."
+    },
+    "4/PdAg": {
+        "en": "The Otherworldly creatures generate and store mana differently from humans. The Laphine Beelzeb with his study into a medium that could store their mana and enable non-magic users to use it.",
+        "pt": "O resultado do estudo dessas técnicas são as pedras de runa ajustadas em harmonia com o poder físico das espadas.\nOs discípulos de Beljeve que começaram a aprender como harmonizar suas espadas com as pedras de runa passar a ser conhecidos como Cavaleiros Rúnicos.",
+        "es": "Las criaturas del otro mundo generan y almacenan maná de forma diferente a los humanos. A través de su investigación, Beelzeb y los laphone dieron con un medio capaz de almacenar su maná para que otros sin poder mágico lo usaran."
+    },
+    "5PPdAg": {
+        "en": "The results were the rune magic and runestones. With them, Beelzeb successfully combined the sword and magic and create a whole new branch of the Swordsman, now known as the Rune Knight.",
+        "pt": "Uma joia conhecida como Runa é o meio que contém a existência sem forma, o poder mágico e a essência disso pode ser usada diretamente.",
+        "es": "El resultado fue la magia rúnica y las piedras rúnicas. Con ellas, Beelzeb logró combinar el arte de la espada y la magia, lo que dio origen a una nueva clase de Espadachines: los Caballeros rúnicos."
+    },
+    "5fPdAg": {
+        "en": "The runes are gemstones that can store and release the invisible force called magic.",
+        "pt": "O Sábio de Laphine, Serpeone, e o fundador dos Cavaleiros Rúnicos, Beljeve, pesquisaram juntos as runas e o resultado só se tornou conhecido do público recentemente.",
+        "es": "Las runas son gemas que pueden almacenar y liberar la fuerza invisible llamada magia."
+    },
+    "5vPdAg": {
+        "en": "Originally developed by Serfeone, the Laphine sage, and Beelzeb, the founder of the Rune Knights, the runes are now also being studied in the human realm as an alternative source of energy with endless potential.",
+        "pt": "É uma fonte de energia alternativa sem limites e a pesquisa sobre elas continua.",
+        "es": "Las runas, creadas originalmente por Serpeone, la sabia laphine, y Beelzeb, el fundador de los Caballeros rúnicos, ahora se investigan en el mundo humano como una fuente alternativa de energía con un potencial ilimitado."
+    },
+    "5/PdAg": {
+        "en": "All creatures of Ash Vacuum, also known as the Otherworld, are born with a source of mana in them, regardless of their size, and the runes are an energy storage device based on their mana.",
+        "pt": "Diferente dos humanos, as coisas vivas em Ash Vacuum preservam a energia mágica em seus próprios corpos.",
+        "es": "Todas las criaturas de Ash Vacuum, también conocido como el otro mundo, nacen con una fuente de maná en su interior independientemente de su tamaño. Las runas son un medio para almacenar ese maná."
+    },
+    "6PPdAg": {
+        "en": "Mana can be extracted from the Otherworldly creatures, and then condensed into these rules through Rune Mastery, the advanced rune-refining technology created by Beelzeb and only shared among his students, the Rune Knights.",
+        "pt": "A descoberta da transferência desse poder mágico para runas foi refinado por Beljeve e Serpeone e compartilhado com os Cavaleiros Rúnicos.",
+        "es": "El maná se puede extraer de las criaturas del otro mundo, para luego condensarlo en las runas a través de la Maestría de runas, la avanzada tecnología de refinamiento de runas creada por Beelzeb, y que solo conocen sus estudiantes, los Caballeros rúnicos."
+    },
+    "6fPdAg": {
+        "en": "Principles of Runes and Their Kinds",
+        "pt": "Princípios das Runas",
+        "es": "Principios de las runas y sus tipos"
+    },
+    "6vPdAg": {
+        "en": "Principles of Runes",
+        "pt": "O princípio do uso das Runas",
+        "es": "Los principios de las runas."
+    },
+    "6/PdAg": {
+        "en": "Kinds of Runes",
+        "pt": "Os tipos de Runas",
+        "es": "Tipos de runas."
+    },
+    "7PPdAg": {
+        "en": "The runes are a logographic system with shamanic meanings.  They've long been used in certain parts of the Midgard Continent before the Rune-Midgard Kingdom's establishment.",
+        "pt": "A runa é uma espécie de símbolo que tem sido usado no continente de Rune-Midgard desde a antiguidade. Até agora, só eram usadas em círculos ocultos.",
+        "es": "Las runas son un sistema logográfico con significados chamánicos. Se han usado en ciertas zonas del continente de Midgard mucho antes de que se fundara el reino de Rune-Midgard."
+    },
+    "7fPdAg": {
+        "en": "So far, no historical document on the rune systems and their meanings has been discovered, but that hasn't stopped scholars in Geffen, Juno, and Arunafeltz from studying them.",
+        "pt": "Não existe quase nenhum documento que mencione o sistema e o significado das runas, mas elas tem sido estudadas por sábios de Geffen, Juno e Arunafeltz.",
+        "es": "Hasta ahora, no se ha encontrado ningún registro histórico sobre los sistemas rúnicos y sus significados, pero eso no impide que los eruditos de Geffen, Juno y Arunafeltz sigan indagando al respecto."
+    },
+    "7vPdAg": {
+        "en": "The runes are a logography also popularly used to tell the future and for ritualistic purposes, such as tapping into people's minds.",
+        "pt": "Runas são usadas como um sistema de símbolos, entretanto, de acordo com a história passada oralmente, sabe-se que eram usados para prever o futuro ou para acessar o subconsciente humano.",
+        "es": "Las runas son un sistema logográfico que suele utilizarse para adivinar el futuro y en rituales, como leer la mente de las personas."
+    },
+    "7/PdAg": {
+        "en": "Each rune has its own system and branches and can achieve different effects, depending on the pattern. The power of the runes is immeasurable by the current science.",
+        "pt": "Runas têm seu próprio sistema e tipos, elas podem ter diferentes poderes dependendo de como são preparadas. Mas seus níveis de poder não pode ser medidas atualmente pelas formas conhecidas.",
+        "es": "Cada runa cuenta con un sistema y ramificaciones propias, y sus efectos varían según el patrón. La ciencia actual no tiene los medios para medir el poder de las runas."
+    },
+    "8PPdAg": {
+        "en": "The runes were brought to light when the Rune Knights revealed themselves. Their potential is generally perceived positively, but some people have voiced concern that they can be dangerous in the wrong hands.",
+        "pt": "Felizmente, os Cavaleiros Rúnicos descobriram seus usos para fiz positivos. Runas não foram usadas com magia negra, mas não há dúvidas que seus poderes podem ser mal usados caso caiam nas mãos erradas.",
+        "es": "Las runas salieron a la luz cuando los Caballeros rúnicos se mostraron al mundo. Aunque, en general, el potencial de las runas está bien visto, algunos temen que, en las manos equivocadas, pueda resultar peligroso."
+    },
+    "8fPdAg": {
+        "en": "The rune system consists of a total of 25 small stones that are vulnerable to impact. They must be stored and handled with caution.",
+        "pt": "As runas são criadas de um total de 25 pequenas pedras e elas são muito frágeis a choques físicos. Por isso, elas precisam de um cuidado especial quando são manuseadas.",
+        "es": "El sistema rúnico consta de un total de 25 piedras pequeñas vulnerables a los impactos. Requieren un manejo y almacenamiento cuidadosos."
+    },
+    "8vPdAg": {
+        "en": "Each of these 25 runes has a different meaning. 14 of them also takes on a completely different meaning when placed reversed, creating endless possibilities in rune combinations.",
+        "pt": "As 25 pedras têm diferentes significados e, entre eles, 14 podem ter poderes e significados completamente diferentes do seu original quando são contra posicionadas, por isso é essencial estudar suas peculiaridades.",
+        "es": "Cada una de estas 25 runas tiene un significado diferente. Catorce de ellas adquieren un significado completamente diferente cuando se colocan al revés, lo que genera un sinfín de combinaciones posibles."
+    },
+    "8/PdAg": {
+        "en": "The other 11 retain their meaning, no matter the position. To use the rune system to its fullest potential, one must master all the 11 proper runes and 14 reverse runes. The blank rune among the 11 proper runes is considered an exception.",
+        "pt": "As outras 11 runas possuem poder consistentes, não são influenciadas por nenhuma posição, se você não dominar todas as 11 runas comuns e a as 14 invertidas, não pode usufruir do poder completo.",
+        "es": "Las otras 11 no cambian de significado, independientemente de su orientación. Para aprovechar al máximo el potencial del sistema rúnico, es imprescindible dominar las 11 runas invariables y las 14 runas reversibles. La runa en blanco es la única excepción entre las 11 runas invariables."
+    },
+    "9PPdAg": {
+        "en": "The 25 runestones are called as follows.",
+        "pt": "Os nomes das 25 runas de pedra são os seguintes.",
+        "es": "Así se llaman las 25 piedras rúnicas:"
+    },
+    "9fPdAg": {
+        "en": "Ehwaz, Osilia, Mannaz, Ansuz, Hagalas, Kano, Rhydo, Turisus, Dagaz, Sowilo, Laguz, Isia, Pertz, Verkana, Gebo, Algiz, Arwez, Teiwaz, Wunjo, Jera, Nosiege, Ingz, Fehu, and Urj.",
+        "pt": "Ehwaz, Osilia, Mannaz, Ansuz, Hagalas, Kano, Rhydo, Turisus, Dagaz, Sowilo, Laguz, Isia, Pertz, Verkana, Gebo, Algiz, Ehwaz, Teiwaz, Wunjo, Jera, Nosiege, Ingz, Fehu, Urj.",
+        "es": "Ehwaz, Osilia, Mannaz, Ansuz, Hagalas, Kano, Rhydo, Turisus, Dagaz, Sowilo, Laguz, Isia, Pertz, Verkana, Gebo, Algiz, Arwez, Teiwaz, Wunjo, Jera, Nosiege, Ingz, Fehu, y Urj."
+    },
+    "9vPdAg": {
+        "en": "How to Make and Use Runes",
+        "pt": "Runas",
+        "es": "Cómo fabricar y utilizar las runas"
+    },
+    "9/PdAg": {
+        "en": "How to make runestones.",
+        "pt": "A Criação das Runas de Pedra",
+        "es": "Cómo hacer piedras rúnicas."
+    },
+    "+PPdAg": {
+        "en": "Runestone's detailed abilities.",
+        "pt": "Detalhes das Habilidades da Runas de Pedra",
+        "es": "Características específicas de las piedras rúnicas."
+    },
+    "+fPdAg": {
+        "en": "The Rune Knights can create runestones through one of their unique skills called Rune Mastery. This Rune Mastery is the symbol of their class, a unique code embedded in their bodies.",
+        "pt": "A criação das Runas de pedra é feita com uma habilidade chamada de perícia em runas que pode ser aprendida quando se torna um Cavaleiro Rúnico.",
+        "es": "Los Caballeros rúnicos tienen una habilidad única, la Maestría de runas, que les permite crear piedras rúnicas. Es la insignia de su clase, un código único grabado en sus cuerpos."
+    },
+    "+vPdAg": {
+        "en": "Even if you're not a Rune Knight, you can make runes, but with limitations. You also need the special device called the rune furnace.",
+        "pt": "Pessoas comuns também podem aprender essa habilidade e precisam de sua própria máquina chamada de Fornalha de Runa.",
+        "es": "Se pueden crear runas sin ser Caballero rúnico, pero con algunas limitaciones. Además, es necesario contar con un dispositivo especial llamado horno de runas."
+    },
+    "+/PdAg": {
+        "en": "When you use the rune furnace, the type of the rune you can create depends on the magic energy that enters the furnace, and it can't be changed.",
+        "pt": "Quando estiver fazendo uma Runa de pedra com uma Fornalha de Runa, o tipo de runa é determinado pela energia mágica colocada nela, e não pode ser mudada.",
+        "es": "Al usar el horno de runas, el tipo de runa que puedes crear depende de la energía mágica que ingresa al horno, y no se puede cambiar."
+    },
+    "/PPdAg": {
+        "en": "If you're a Rune Knight, you can create whatever runestone you want through Rune Mastery.",
+        "pt": "Quando estiver fazendo uma runa de pedra usando Perícia em Runas, ela pode se tiver a propriedade de runa que você quiser mas é restrita às habilidades dos próprios Cavaleiros Rúnicos.",
+        "es": "Si eres de clase Caballero rúnico, puedes crear cualquier piedra rúnica que desees con Maestría de runas."
+    },
+    "/fPdAg": {
+        "en": "To create runestones through the rune furnace, accumulate Otherworldly magic energy in your body and then activate the rune furnace. Your magic energy will enter the furnace and form a runestone.",
+        "pt": "Quando você opera a Fornalha de Runa, a energia mágica do corpo se concentra através e permite a mudança para uma Runa de Pedra.",
+        "es": "Para crear piedras rúnicas con el horno de runas, acumula energía mágica del otro mundo en tu cuerpo y, luego, activa el horno de runas. Tu energía mágica ingresará al horno y formará una piedra rúnica."
+    },
+    "/vPdAg": {
+        "en": "Chapter 1",
+        "pt": "Capítulo Um",
+        "es": "Capítulo 1."
+    },
+    "//PdAg": {
+        "en": "Chapter 2",
+        "pt": "Capítulo Dois",
+        "es": "Capítulo 2."
+    },
+    "APTdAg": {
+        "en": "Chapter 3",
+        "pt": "Capítulo Três",
+        "es": "Capítulo 3."
+    },
+    "AfTdAg": {
+        "en": "Chapter 4",
+        "pt": "Capítulo Quatro",
+        "es": "Capítulo 4."
+    },
+    "AvTdAg": {
+        "en": "Ehwaz: This rune means the reinforcement of good luck and positive power. It takes the form of a red spiral when created through the rune furnace.",
+        "pt": "Ehwaz - Essa runa significa uma melhora nos poderes sorte e positividade. Ela molda a fonte com a forma de um espiral vermelho na Fornalha de Runa.",
+        "es": "Ehwaz: Esta runa simboliza el refuerzo de la buena suerte y el poder positivo. Cuando se crea en el horno de runas, toma la forma de una espiral roja."
+    },
+    "A/TdAg": {
+        "en": "Osilia: This rune means equivalent exchange (to obtain, something of equal value must be lost) or power that requires a price. It takes the form of a burgundy-red oblique line when created through the rune furnace.",
+        "pt": "Osilia - Essa runa é uma troca equivalente, o que significa que você ganhará uma e perderá outra, também significa que o poder tem um custo. Ela se molda na forma de uma linha oblíqua violeta na Fornalha de Runa.",
+        "es": "Osilia: Esta runa simboliza el intercambio equivalente: para obtener algo, se debe sacrificar algo de igual valor. Es decir, que todo poder tiene un precio. Cuando se crea en el horno de runas, toma la forma de una línea oblicua rojo burdeos."
+    },
+    "BPTdAg": {
+        "en": "Mannaz: This rune means hope, new beginnings, and positive power that can reverse a desperate situation. It takes the form of a green diamond when created through the rune furnace.",
+        "pt": "Mannaz – Essa runa significa esperança e um novo como e também a energia positiva pode ser revertida em situações desesperadoras. Ela se molda na forma de uma esmeralda de diamante na Fornalha de Runa.",
+        "es": "Mannaz: Esta runa simboliza la esperanza, los nuevos comienzos y el poder positivo para revertir las adversidades. Cuando se crea en el horno de runas, toma la forma de un diamante verde."
+    },
+    "BfTdAg": {
+        "en": "Ansuz: This rune means preparation, readiness, and power that ensures a safe future. It takes the form of a green circle when created through the rune furnace.",
+        "pt": "Ansuz – Essa runa significa preparação ou arranjo e o poder que pode superar as incertezas sobre o futuro. Ela se molda na forma de uma esmeralda redonda na Fornalha de Runa.",
+        "es": "Ansuz: Esta runa simboliza la preparación, la disposición y el poder que garantiza un futuro seguro. Cuando se crea en el horno de runas, toma la forma de un círculo verde."
+    },
+    "BvTdAg": {
+        "en": "Hagalas: This rune means freedom and power that resists restriction. It takes the form of a light blue star when created through the rune furnace.",
+        "pt": "Hagalas – Essa runa significa liberdade e o poder que resiste às restrições. Ela se molda na forma de uma estrela com a cor azul do céu na Fornalha de Runa.",
+        "es": "Hagalas: Esta runa simboliza la libertad y el poder para desafiar las limitaciones. Cuando se crea en el horno de runas, toma la forma de una estrella azul claro."
+    },
+    "B/TdAg": {
+        "en": "Kano: This rune means flames, passion, and power that ends everything. It takes the form of a red diamond when created through the rune furnace.",
+        "pt": "Kano – Essa runa significa chama e paixão, e o poder que acaba com tudo. A fonte dela é moldada na forma de um diamante vermelho na Fornalha de Runa.",
+        "es": "Kano: Esta runa simboliza las llamas, la pasión y el poder que acaba con todo. Cuando se crea en el horno de runas, toma la forma de un diamante rojo."
+    },
+    "CPTdAg": {
+        "en": "Rhydo: This rune means union, reunion, and perfect power. It takes the form of a light blue oblique line when created through the rune furnace.",
+        "pt": "Rhydo – Essa runa é a combinação, recombinação e o poder da conquista. Ela é moldada dentro uma linha oblíqua cor azul do céu na Fornalha de Runa.",
+        "es": "Rhydo: Esta runa simboliza la unión, el reencuentro y el poder absoluto. Cuando se crea en el horno de runas, toma la forma de una línea oblicua azul claro."
+    },
+    "CfTdAg": {
+        "en": "Turisus: This rune means boundary and restrictive power. It takes the form of a yellow circle when created through the rune furnace.",
+        "pt": "Turisus – Essa runa significa a borda e o poder da limitação. Ela é moldada como um círculo amarelo na Fornalha de Runa.",
+        "es": "Turisus: Esta runa simboliza los límites y el poder restrictivo. Cuando se crea en el horno de runas, toma la forma de un círculo amarillo."
+    },
+    "CvTdAg": {
+        "en": "Dagaz: This rune means resurgence and power that overcomes difficulty. It takes the form of a green oblique line when created through the rune furnace.",
+        "pt": "Dagaz – Essa runa é o talento e o poder de suportar as adversidades.. Ela é moldada como uma esmeralda espiral na Fornalha de Runa.",
+        "es": "Dagaz: Esta runa simboliza el renacer y el poder para sobreponerse a los obstáculos. Cuando se crea en el horno de runas, toma la forma de una espiral verde."
+    },
+    "C/TdAg": {
+        "en": "Sowilo: This rune means victory, success, and power that organizes and finishes things. It takes the form of a light blue fan when created through the rune furnace.",
+        "pt": "Sowilo – Essa runa é a vitória, o sucesso e o poder de grandes ajustes e fechamento. Ela se molda na forma de um ventilador com a cor azul do céu na Fornalha de Runa.",
+        "es": "Sowilo: Esta runa simboliza la victoria, el éxito y el poder que pone orden y finaliza lo comenzado. Cuando se crea en el horno de runas, toma la forma de un abanico azul claro."
+    },
+    "DPTdAg": {
+        "en": "Laguz: This rune means denial and power that provides inward protection. It takes the form of a yellow diamond when created through the rune furnace.",
+        "pt": "Laguz – Essa runa é a incerteza e o poder que protege o que está por dentro. Ela se molda na forma de um diamante amarelo na Fornalha de Runa.",
+        "es": "Laguz: Esta runa simboliza la negación y el poder que brinda protección interior. Cuando se crea en el horno de runas, toma la forma de un diamante amarillo."
+    },
+    "DfTdAg": {
+        "en": "Isia: This rune means stoppage and power that stops everything. It takes the form of a burgundy-red spiral when created through the rune furnace.",
+        "pt": "Isia – Essa runa é o poder para parar tudo. Ela é moldada como um espiral violeta na Fornalha de Runa.",
+        "es": "Isia: Esta runa simboliza la pausa y el poder que lo detiene todo. Cuando se crea en el horno de runas, toma la forma de una espiral rojo burdeos."
+    },
+    "DvTdAg": {
+        "en": "Pertz: This rune means revelation and opportunistic power. It takes the form of a silver spiral when created through the rune furnace.",
+        "pt": "Pertz – Essa runa é a revelação e o poder da possibilidade. Ela se molda na forma de uma espiral prateada na Fornalha de Runa.",
+        "es": "Pertz: Esta runa simboliza la revelación y el poder para aprovechar las oportunidades. Cuando se crea en el horno de runas, toma la forma de una espiral plateada."
+    },
+    "D/TdAg": {
+        "en": "Verkana: This rune means fertility, birth, defense, and protective power. It takes the form of a gold star when created through the rune furnace.",
+        "pt": "Verkana – Essa runa é a riqueza, nascimento e o poder da defesa e proteção. Ela se molda na forma de uma estrela dourada na Fornalha de Runa.",
+        "es": "Verkana: Esta runa simboliza la fertilidad, el nacimiento, la defensa y el poder protector. Cuando se crea en el horno de runas, toma la forma de una estrella dorada."
+    },
+    "EPTdAg": {
+        "en": "Gebo: This rune means cooperation and harmonious power. It takes the form of a yellow cone when created through the rune furnace.",
+        "pt": "Gebo – Essa runa é a cooperação e o poder da harmonia. Ela se molda na forma de um cone amarelo na Fornalha de Runa.",
+        "es": "Gebo: Esta runa simboliza la cooperación y el poder armonioso. Cuando se crea en el horno de runas, toma la forma de un cono amarillo."
+    },
+    "EfTdAg": {
+        "en": "Algiz: This mean means opportunities and proactive power. It takes the form of a green oblique line when created through the rune furnace.",
+        "pt": "Algiz – Essa runa é a possibilidade e o poder do desafio. Ela se molda na forma de uma linha oblíqua de uma esmeralda na Fornalha de Runa.",
+        "es": "Algiz: Esta runa simboliza las oportunidades y el poder proactivo. Cuando se crea en el horno de runas, toma la forma de una línea oblicua verde."
+    },
+    "EvTdAg": {
+        "en": "Arwez: This rune means change, turbulence, and motive power. It takes the form of a gray diamond when created through the rune furnace.",
+        "pt": "Ehwaz – Essa runa é a mudança, convulsão e o poder do movimento. Ela se molda na forma de um diamante cinza na Fornalha de Runa.",
+        "es": "Arwez: Esta runa simboliza el cambio, el caos y el poder impulsor. Cuando se crea en el horno de runas, toma la forma de un diamante gris."
+    },
+    "E/TdAg": {
+        "en": "Teiwaz: This rune means perfect victory and power that can solve any problems. It takes the form of a gold circle when created through the rune furnace.",
+        "pt": "Teiwaz – Essa runa é a vitória perfeita e o poder da solução absoluta. Ela se molda na forma de um ouro redondo na Fornalha de Runa.",
+        "es": "Teiwaz: Esta runa simboliza la victoria perfecta y el poder para resolver cualquier problema. Cuando se crea en el horno de runas, toma la forma de un círculo dorado."
+    },
+    "FPTdAg": {
+        "en": "Wunjo: This rune means wisdom and the power of wisdom. It takes the form of a green star when created through the rune furnace.",
+        "pt": "Wunjo – Essa runa é a inteligência e o poder da sabedoria. Ela se molda na forma de uma esmeralda de estrela na Fornalha de Runa.",
+        "es": "Wunjo: Esta runa simboliza la sabiduría y el poder del conocimiento. Cuando se crea en el horno de runas, toma la forma de una estrella verde."
+    },
+    "FfTdAg": {
+        "en": "Jera: This rune means comfort and the power of rest. It takes the form of a yellow circle when created through the rune furnace.",
+        "pt": "Jera – Essa runa é o conforto e o poder do descanso. Ela se molda com a forma redonda e amarela na Fornalha de Runa.",
+        "es": "Jera: Esta runa simboliza el bienestar y el poder del reposo. Cuando se crea en el horno de runas, toma la forma de una espiral amarilla."
+    },
+    "FvTdAg": {
+        "en": "Nosiege: This rune means frailty and the weakening of power. It takes the form of a yellow fan when created through the rune furnace.",
+        "pt": "Nosiege – Essa runa é a fraqueza e o poder da atenuação. Ela se molda na forma de um ventilador amarelo na Fornalha de Runa.",
+        "es": "Nosiege: Esta runa simboliza la fragilidad y la pérdida de poder. Cuando se crea en el horno de runas, toma la forma de un abanico amarillo."
+    },
+    "F/TdAg": {
+        "en": "Ingz: This rune means segmentation and power that separates things. It takes the form of a burgundy-red diamond when created through the rune furnace.",
+        "pt": "Ingz – Essa runa é a perturbação e o poder da separação. Ela se molda na forma de um diamante violeta na Fornalha de Runa.",
+        "es": "Ingz: Esta runa simboliza la división y el poder de disgregar. Cuando se crea en el horno de runas, toma la forma de un diamante rojo burdeos."
+    },
+    "GPTdAg": {
+        "en": "Fehu: This rune means realization and power that realizes things. It takes the form of a silver circle when created through the rune furnace.",
+        "pt": "Fehu – Essa runa é o talento e o poder da materialização. Ela se molda em uma forma prateada redonda na Fornalha de Runa.",
+        "es": "Fehu: Esta runa simboliza la concreción y el poder de materializar. Cuando se crea en el horno de runas, toma la forma de un círculo plateado."
+    },
+    "GfTdAg": {
+        "en": "Urj: This means destiny and power that restrains things. It takes the form of a purple oblique line when created through the rune furnace.",
+        "pt": "Urj – Essa runa é o destino e o poder da restrição. Ela se molda na forma de uma linha oblíqua violeta na Fornalha de Runa.",
+        "es": "Urj: Esta runa simboliza el destino y el poder que restringe. Cuando se crea en el horno de runas, toma la forma de una línea oblicua morada."
+    },
+    "GvTdAg": {
+        "en": "Sage's Guardian Rune Knight",
+        "pt": "Cavaleiro Rúnico Sábio",
+        "es": "Guardián de Serpeone"
+    },
+    "G/TdAg": {
+        "en": "[Sage's Guardian Rune Knight]\nSage Serfeone has been with us Rune Knights since the beginning.",
+        "pt": "[Cavaleiro Rúnico Sábio]\nO sábio Serpeone é quem está conosco desde o começo dos Cavaleiros Rúnicos.",
+        "es": "[Guardián de Serpeone]\nLa sabia Serpeone ha estado con nosotros, los Caballeros rúnicos, desde el principio."
+    },
+    "HPTdAg": {
+        "en": "[Sage's Guardian Rune Knight]\nI take pride in being her guardian as a Rune Knight.",
+        "pt": "[Cavaleiro Rúnico Sábio]\nComo Cavaleiro Rúnico, eu tenho muito orgulho de servir ao lado dele.",
+        "es": "[Guardián de Serpeone]\nMe enorgullezco de ser su Caballero rúnico guardián."
+    },
+    "HfTdAg": {
+        "en": "[Sage's Guardian Rune Knight]\nI see you're on the same path as us Rune Knights, but I won't forgive you if you dare get near the Sage.",
+        "pt": "[Cavaleiro Rúnico Sábio]\nVocê pode estar trilhando o caminho da espada mas você ainda não é um Cavaleiro Rúnico. Não fique passeando muito por aqui, se é que você me entende.",
+        "es": "[Guardián de Serpeone]\nVeo que sigues el camino de los Caballeros rúnicos, pero no toleraré que te acerques a la sabia."
+    },
+    "HvTdAg": {
+        "en": "[Sage's Guardian Rune Knight]\nWe, the Rune Knights, have made a special agreement with the Allied Forces Post to let our candidates visit Splendide, the land of the Laphine.",
+        "pt": "[Cavaleiro Rúnico Sábio]\nEsplendor é a terra de Laphine. Estamos oferecendo uma conveniência com um acordo entre os Cavaleiros Rúnicos e a equipe de expedição dele.",
+        "es": "[Guardián de Serpeone]\nLos Caballeros rúnicos tenemos un acuerdo especial con el puesto de las Fuerzas Aliadas que permite a nuestros aspirantes visitar Splendide, la tierra de los laphines."
+    },
+    "H/TdAg": {
+        "en": "[Sage's Guardian Rune Knight]\nThose who are taking the Rune Knight Job Change test can go to Splendide through us Rune Knights agents here.",
+        "pt": "[Cavaleiro Rúnico Sábio]\nNossos agentes estão abrindo o caminho para Esplendor apenas para treinadores que estão fazendo o teste para mudança para Cavaleiro Rúnico.",
+        "es": "[Guardián de Serpeone]\nLos aspirantes que van a tomar la prueba de cambio de clase a Caballero rúnico pueden viajar a Splendide con ayuda de nuestros agentes."
+    },
+    "IPTdAg": {
+        "en": "[Sage's Guardian Rune Knight]\nAnd you'll lose this privilege once you become a Rune Knight. If you want to explore the Otherworld afterward, you'll have to gain the trust of the Allied Forces by helping them.",
+        "pt": "[Cavaleiro Rúnico Sábio]\nMas quando se tornar um Cavaleiro Rúnico, você precisará se lembrar de se juntar à equipe expedicionária para explorar Ash Vacuum inteiramente.",
+        "es": "[Guardián de Serpeone]\nPero una vez que completes el cambio de clase, perderás este beneficio. Si quieres explorar el otro mundo después, tendrás que ayudar a las Fuerzas Aliadas para ganarte su confianza."
+    },
+    "IfTdAg": {
+        "en": "[Sage's Guardian Rune Knight]\nStop hovering around the Sage and go on your way.",
+        "pt": "[Cavaleiro Rúnico Sábio]\nFicar próximo a este homem não será bom para você. Continue na direção para onde você estava indo.",
+        "es": "[Guardián de Serpeone]\nDeja en paz a la sabia y sigue tu camino."
+    },
+    "IvTdAg": {
+        "en": "Dispatched Rune Knight",
+        "pt": "Cavaleiro Rúnico Despachante",
+        "es": "Caballero rúnico despachado"
+    },
+    "I/TdAg": {
+        "en": "[Dispatched Rune Knight]\nHello. We're here to help Rune Knight candidates.",
+        "pt": "[Cavaleiro Rúnico Despachante]\nObrigado pelo seu trabalho. Nós continuaremos nossa missão para os candidatos a Cavaleiros Rúnicos.",
+        "es": "[Caballero rúnico]\nHola. Estamos aquí para ayudar a los aspirantes a Caballeros rúnicos."
+    },
+    "JPTdAg": {
+        "en": "[Dispatched Rune Knight]\nShhh, our mission here is not to be disclosed. Please pay us no mind.",
+        "pt": "[Cavaleiro Rúnico Despachante]\nShh... Nossa missão não é algo para ser revelado ao público. Por favor, apenas continue o seu caminho.",
+        "es": "[Caballero rúnico]\nShhh, nuestra misión aquí es confidencial. Ignóranos."
+    },
+    "JfTdAg": {
+        "en": "[Dispatched Rune Knight]\nI've been waiting, Rune Knight candidate. I'm here to help you under Serfeone's order.",
+        "pt": "[Cavaleiro Rúnico Despachante]\nEu estava esperando você, candidato a Cavaleiro Rúnico. Eu estou ajudando os candidatos de favor para o Sr. Serpeone.",
+        "es": "[Caballero rúnico]\nTe estaba esperando, aspirante. Estoy aquí para ayudarte por orden de Serpeone."
+    },
+    "JvTdAg": {
+        "en": "[Dispatched Rune Knight]\nWould you like to go to the Splendide Field?",
+        "pt": "[Cavaleiro Rúnico Despachante]\nVocê quer ir até os arredores de Esplendor?",
+        "es": "[Caballero rúnico]\n¿Te gustaría ir al campo de Splendide?"
+    },
+    "J/TdAg": {
+        "en": "Go.",
+        "pt": "Ir para os arredores de Esplendor",
+        "es": "Ir."
+    },
+    "KPTdAg": {
+        "en": "Cancel.",
+        "pt": "Cancelar.",
+        "es": "Cancelar."
+    },
+    "KfTdAg": {
+        "en": "Sage Serfeone's voice can be heard inside my mind.",
+        "pt": "A voz do sábio Serpeone chega diretamente à minha mente.-",
+        "es": "Oigo la voz de Serpeone, la sabia, en mi cabeza."
+    },
+    "KvTdAg": {
+        "en": "[Sage Serfeone]\nUntil you complete your Job Change test and become an official Rune Knight, you're not free to operate in the Otherworld.",
+        "pt": "[Sábio Serpeone]\nAté que você se torne um nobre Cavaleiro Rúnico, eu não posso ajudar a controlar os seus poderes em Rune-Midgard.",
+        "es": "[Serpeone, la gran sabia]\nHasta que no termines tu prueba de cambio de clase y te unas a los Caballeros rúnicos, no podrás moverte libremente en el otro mundo."
+    },
+    "K/TdAg": {
+        "en": "[Sage Serfeone]\nPlease understand this and focus on your test for now.",
+        "pt": "[Sábio Serpeone]\nPor favor, compreenda isso e seja aplicado neste teste.",
+        "es": "[Serpeone, la gran sabia]\nTe pido que lo comprendas y te enfoques en tu prueba."
+    },
+    "LPTdAg": {
+        "en": "[Dispatched Rune Knight]\nWould you like to go back to the Allied Forces Post?",
+        "pt": "[Cavaleiro Rúnico Despachante]\nVocê quer voltar para a posição da equipe expedicionária?",
+        "es": "[Caballero rúnico]\n¿Quieres volver al puesto de las Fuerzas Aliadas?"
+    },
+    "LfTdAg": {
+        "en": "Sage Serfeone",
+        "pt": "Sábio Serpeone",
+        "es": "Serpeone, la gran sabia"
+    },
+    "LvTdAg": {
+        "en": "[Sage Serfeone]\nYou're a full-fledged Rune Knight now. I'm happy to have helped you move forward.",
+        "pt": "[Sábio Serpeone]\nFinalmente você é um honrável Cavaleiro Rúnico. Estou feliz em te ajudar.",
+        "es": "[Serpeone, la gran sabia]\nAhora eres miembro de los Caballeros rúnicos. Me alegra haber ayudado en tu progreso."
+    },
+    "L/TdAg": {
+        "en": "[Sage Serfeone]\nWe still don't know everything about the runes to use them to the fullest or wield their power safely. Learning it and fully utilizing them are our missions.",
+        "pt": "[Sábio Serpeone]\nOs poderes das Runas não são perfeitos e é preciso fazer mais pesquisa para torná-las totalmente seguras. Cabe a mim e a outros Cavaleiros Rúnicos como você, assegurar a continuidade dessa pesquisa.",
+        "es": "[Serpeone, la gran sabia]\nTodavía nos queda mucho por aprender acerca de las runas para aprovechar al máximo su potencial y usar su poder de forma segura. El aprendizaje y el dominio son nuestros objetivos."
+    },
+    "MPTdAg": {
+        "en": "[Sage Serfeone]\nPlease keep up the good work until you achieve enlightenment. Thank you for your contribution.",
+        "pt": "[Sábio Serpeone]\nDevote a sua vida às Runas e, seguramente, a sua vida será iluminada por elas.",
+        "es": "[Serpeone, la gran sabia]\nSigue esforzándote hasta que alcances la iluminación. Gracias por tu contribución."
+    },
+    "MfTdAg": {
+        "en": "[Sage Serfeone]\nYou must wonder why I, Laphine, is in the midst of you humans.",
+        "pt": "[Sábio Serpeone]\nDeve ser surpreendente que eu, um Laphine, esteja aqui, na base do seu povo.",
+        "es": "[Serpeone, la gran sabia]\nTe preguntarás por qué yo, una laphine, estoy entre ustedes, los humanos."
+    },
+    "MvTdAg": {
+        "en": "[Sage Serfeone]\nWe've been interacting with you for longer than you think.",
+        "pt": "[Sábio Serpeone]\nAlguns de nós estamos em contato com humanos em situações especiais mesmo antes da abertura da fissura dimensional.",
+        "es": "[Serpeone, la gran sabia]\nTenemos contacto con ustedes desde hace más tiempo del que crees."
+    },
+    "M/TdAg": {
+        "en": "[Sage Serfeone]\nI, for example, have been friends with one of you for years. He's the reason I'm here, talking to you.",
+        "pt": "[Sábio Serpeone]\nJá faz alguns anos que eu tenho me correspondido com humanos. Era um interesse mútuo. Ou seja, foi assim que eu aprendi a sua língua.",
+        "es": "[Serpeone, la gran sabia]\nYo, por ejemplo, soy amiga de uno de ustedes desde hace años. Él es la razón por la que estoy aquí, hablando contigo."
+    },
+    "NPTdAg": {
+        "en": "[Sage Serfeone]\nIf you want to talk to other Laphine in this place, you'll need a translator device to understand our language.",
+        "pt": "[Sábio Serpeone]\nTalvez exista a necessidade de se construir uma máquina para traduzir a língua Laphine para que os humanos nos entendam com mais facilidade.",
+        "es": "[Serpeone, la gran sabia]\nSi quieres hablar con otros laphines aquí, necesitarás un dispositivo de traducción para entender nuestro idioma."
+    },
+    "NfTdAg": {
+        "en": "[Sage Serfeone]\nEverything else... I can't tell you. I can't risk my freedom of movement here by revealing too much to a stranger.",
+        "pt": "[Sábio Serpeone]\nMais do que isso... Eu não posso contar mais do que isso. Eu não posso falar tudo o que quiser já que estou representando o meu povo aqui e estou usando um passe especial que permite ficar em seu acampamento.",
+        "es": "[Serpeone, la gran sabia]\nLo demás… no puedo contártelo. No puedo arriesgar mi libertad aquí por contar demasiado a una persona extraña."
+    },
+    "NvTdAg": {
+        "en": "[Sage Serfeone]\nWelcome. You must be a Rune Knight candidate. I'm Serfeone.",
+        "pt": "[Sábio Serpeone]\nBem-vindo, você está se preparando para o treino de classe para o teste dos Cavaleiros Rúnicos. Eu sou Serpeone.",
+        "es": "[Serpeone, la gran sabia]\nTe doy la bienvenida. Debes de ser aspirante a Caballero rúnico. Soy Serpeone."
+    },
+    "N/TdAg": {
+        "en": "[Sage Serfeone]\nAll the Rune Knights you've met have studied under me and Beelzeb. And you're here to become one of them.",
+        "pt": "[Sábio Serpeone]\nTodos os Cavaleiros Rúnicos que você encontrou até agora são os discípulos que aprenderam de mim e Beljeve. Agora você está aqui, prestes a se unir a eles.",
+        "es": "[Serpeone, la gran sabia]\nTodos los Caballeros rúnicos que conociste fueron discípulos míos y de Beelzeb. Y tú estás aquí para unirte a ellos."
+    },
+    "OPTdAg": {
+        "en": "[Sage Serfeone]\nLenore gave you a basic lesson about the runestones, I presume? Then, it's my turn to help you.",
+        "pt": "[Sábio Serpeone]\nEu acho que você já ouviu o básico de explicações e instruções com a Renoa. Parece que agora é a minha vez de ajudar você.",
+        "es": "[Serpeone, la gran sabia]\nImagino que Renoa te dio una lección básica sobre las piedras rúnicas. Ahora me toca a mí ayudarte."
+    },
+    "OfTdAg": {
+        "en": "[Sage Serfeone]\nThe magic stored in the runestones that the Rune Knights use is not of the human realm.",
+        "pt": "[Sábio Serpeone]\nO poder mágico que os Cavaleiros Rúnicos usam não é, tecnicamente, o mesmo poder mágico feito no mundo humano.",
+        "es": "[Serpeone, la gran sabia]\nLa magia almacenada en las piedras rúnicas que usan los Caballeros rúnicos no proviene del mundo humano."
+    },
+    "OvTdAg": {
+        "en": "[Sage Serfeone]\nIt comes from this place, Ash Vacuum, as you call it. Especially from Alfheim.",
+        "pt": "[Sábio Serpeone]\nBem neste local... nossa esfera que você chamada de Ash Vacuum...o poder mágico feito dentro dela, Alfheim.",
+        "es": "[Serpeone, la gran sabia]\nProviene de este lugar, Ash Vacuum, como tú lo llamas. Sobre todo de Alfheim."
+    },
+    "O/TdAg": {
+        "en": "[Sage Serfeone]\nThe creatures of this land store mana in their bodies in energy form.",
+        "pt": "[Sábio Serpeone]\nOs seres vivos deste local têm preservado a energia mágica de nossos corpos diferente dos seres vivos no mundo humano.",
+        "es": "[Serpeone, la gran sabia]\nLas criaturas de este mundo almacenan maná en sus cuerpos en forma de energía."
+    },
+    "PPTdAg": {
+        "en": "[Sage Serfeone]\nThe runestones are media that help you materialize and use their magic energy.",
+        "pt": "[Sábio Serpeone]\nO poder das runas de pedra é a forma de usar poder mágico dentro nossos corpos em runas que são capazes de nos usar como meio.",
+        "es": "[Serpeone, la gran sabia]\nLas piedras rúnicas son medios que te permiten materializar y utilizar su energía mágica."
+    },
+    "PfTdAg": {
+        "en": "[Sage Serfeone]\nIn other words, to use the runestones, you first must understand the creatures in this world.",
+        "pt": "[Sábio Serpeone]\nPor isso, para usar uma runa de pedra, você precisa compreender inteiramente a outra esfera dos seres vivos.",
+        "es": "[Serpeone, la gran sabia]\nEn otras palabras, para usar las piedras rúnicas, primero debes entender a las criaturas de este mundo."
+    },
+    "PvTdAg": {
+        "en": "[Sage Serfeone]\nBut right now, you're not strong enough to collect mana from them.",
+        "pt": "[Sábio Serpeone]\nMas, extrair energia mágica dos seres vivos desta terra ainda deve ser demais para você.",
+        "es": "[Serpeone, la gran sabia]\nSin embargo, no tienes la fuerza suficiente para extraer maná de ellas."
+    },
+    "P/TdAg": {
+        "en": "[Sage Serfeone]\nI'm going to cast a spell on you that accumulates the magic energy of other beings in your body.",
+        "pt": "[Sábio Serpeone]\nAgora eu usarei um feitiço em seu corpo para que você possa juntar energia mágica de outros seres vivos.",
+        "es": "[Serpeone, la gran sabia]\nTe lanzaré un hechizo que almacenará la energía mágica de otros seres en tu cuerpo."
+    },
+    "QPTdAg": {
+        "en": "[Sage Serfeone]\nIt'll temporarily enable you to gain mana from spirits in your realm. The collected mana can't be used directly, of course.",
+        "pt": "[Sábio Serpeone]\nVocê será capaz de extrair energia mágica de criaturas malignas do mundo humano temporariamente. Obviamente, você não conseguirá usar a energia diretamente...",
+        "es": "[Serpeone, la gran sabia]\nEsto te permitirá, de manera temporal, extraer maná de los espíritus de tu mundo. Pero no podrás usar directamente el maná que recolectes, claro."
+    },
+    "QfTdAg": {
+        "en": "[Sage Serfeone]\nHunt these spirits I tell you, accumulate their energy, and then come back. I'll convert their energy into a usable form for you.",
+        "pt": "[Sábio Serpeone]\nSe você juntar energia destruindo criaturas malignas do mundo humano, eu a converterei em um tipo de energia que você possa usar.",
+        "es": "[Serpeone, la gran sabia]\nCaza a los espíritus que te indicaré, recolecta su energía y, luego, vuelve. Transformaré esa energía en algo que puedas usar."
+    },
+    "QvTdAg": {
+        "en": "[Sage Serfeone]\nI've heard about the land of the dead in your realm, Nifflheim. The energy that brings its residents back from the dead is a great source of mana.",
+        "pt": "[Sábio Serpeone]\nAs violentas almas que eles mantém mesmo depois da morte é uma grande fonte de poderes mágicos.",
+        "es": "[Serpeone, la gran sabia]\nOí hablar de Niflheim, la tierra de los muertos en tu mundo. La energía que resucita a sus habitantes es una gran fuente de maná."
+    },
+    "Q/TdAg": {
+        "en": "[Sage Serfeone]\nPlease hunt ^0000FF10 Dullahans^000000, ^0000FF10 Disguises^000000, ^0000FF10 Quves^000000, and ^0000FF10 Hylozoists^000000, and collect their energy.",
+        "pt": "[Sábio Serpeone]\nPor favor, elimine ^0000FF10 Dullahan^000000, ^0000FF10 Mascarado^000000, ^0000FF10 Quve^000000, ^0000FF10 Poltergeist^000000 e junte a energia deles.",
+        "es": "[Serpeone, la gran sabia]\nCaza a ^0000FF10 Dullahan^000000, ^0000FF10 Disfraces^000000, ^0000FF10 Quve^000000 y ^0000FF10 Hylozoist^000000, y extrae su energía."
+    },
+    "RPTdAg": {
+        "en": "[Sage Serfeone]\nFor your information, I'm not testing you or judging your qualifications. That's the Rune Knights' job.",
+        "pt": "[Sábio Serpeone]\nEstou avisando com antecedência, mas eu não testo ou julgo sua qualificação. Um Cavaleiro Rúnico será o responsável por isso.",
+        "es": "[Serpeone, la gran sabia]\nQuiero que sepas que no te estoy poniendo a prueba ni evaluando tus habilidades. Ese es el trabajo de los Caballeros rúnicos."
+    },
+    "RfTdAg": {
+        "en": "[Sage Serfeone]\nIf you have a problem or question, please let me know.",
+        "pt": "[Sábio Serpeone]\nSe você tiver qualquer problema ou dúvida, pode vir falar comigo.",
+        "es": "[Serpeone, la gran sabia]\nSi tienes algún inconveniente o pregunta, no dudes en decírmelo."
+    },
+    "RvTdAg": {
+        "en": "[Sage Serfeone]\nHow are you doing with collecting magic energy? Or do you have a question?",
+        "pt": "[Sábio Serpeone]\nVocê está coletando energia mágica suficiente? Ou você tem alguma dúvida?",
+        "es": "[Serpeone, la gran sabia]\n¿Cómo vas con la recolección de energía mágica? ¿O tienes alguna pregunta?"
+    },
+    "R/TdAg": {
+        "en": "I've collected all the magic energy.",
+        "pt": "Eu coletei energia suficiente.",
+        "es": "Ya recolecté toda la energía mágica."
+    },
+    "SPTdAg": {
+        "en": "Go back to the Rune Knights assembly area.",
+        "pt": "Para o local de coleta.",
+        "es": "Volver a la zona de reunión de los Caballeros rúnicos."
+    },
+    "SfTdAg": {
+        "en": "[Sage Serfeone]\nHave you? Let me check.",
+        "pt": "[Sábio Serpeone]\nÉ mesmo? Então vamos verificar isso.",
+        "es": "[Serpeone, la gran sabia]\n¿En serio? Déjame comprobarlo."
+    },
+    "SvTdAg": {
+        "en": "[Sage Serfeone]\nMm... Excellent! You've accumulated enough magic energy in you.",
+        "pt": "[Sábio Serpeone]\nUmm, isso é ótimo. Quantidade suficiente de energia mágica viva se acumulou no seu corpo.",
+        "es": "[Serpeone, la gran sabia]\nMm… ¡Excelente! Acumulaste suficiente energía mágica en ti."
+    },
+    "S/TdAg": {
+        "en": "[Sage Serfeone]\nNow, Lenore can teach you how to use the runestones.",
+        "pt": "[Sábio Serpeone]\nPor essa quantidade, Renoa irá dizer como usar as runas de pedra.",
+        "es": "[Serpeone, la gran sabia]\nAhora, Renoa puede enseñarte a usar las piedras rúnicas."
+    },
+    "TPTdAg": {
+        "en": "[Sage Serfeone]\nNow, I did everything I could for you. I look forward to seeing yo again after you become a Rune Knight.",
+        "pt": "[Sábio Serpeone]\nAgora, eu acho que a minha parte está concluída. Eu espero que você se torne um admirável Cavaleiro Rúnico.",
+        "es": "[Serpeone, la gran sabia]\nYa hice todo lo que podía hacer por ti. Espero volver a verte cuando te unas a los Caballeros rúnicos."
+    },
+    "TfTdAg": {
+        "en": "[Sage Serfeone]\nIf you have no more business here, I can send you back to the Rune Knights assembly area. Please let me know when you're ready.",
+        "pt": "[Sábio Serpeone]\nEu vou mandá-lo para o ponto de encontro dos Cavaleiros Rúnico, a não ser que você ainda tenha algo para resolver aqui. Se estiver pronto, me avise.",
+        "es": "[Serpeone, la gran sabia]\nSi ya no tienes nada que hacer aquí, puedo enviarte de vuelta a la zona de reunión de los Caballeros rúnicos. Avísame cuando quieras volver."
+    },
+    "TvTdAg": {
+        "en": "[Sage Serfeone]\nYou haven't collected all the magic energy I asked for.",
+        "pt": "[Sábio Serpeone]\nVocê ainda não coletou material mágico suficiente,",
+        "es": "[Serpeone, la gran sabia]\nNo recolectaste toda la energía mágica que te pedí."
+    },
+    "T/TdAg": {
+        "en": "[Sage Serfeone]\nPlease try harder.",
+        "pt": "[Sábio Serpeone]\nPor favor, se concentre e colete energia suficiente destruindo esses monstros.",
+        "es": "[Serpeone, la gran sabia]\nEsfuérzate más."
+    },
+    "UPTdAg": {
+        "en": "[Sage Serfeone]\nSure, I can send you right back if you want. Just know you'll have to come back if you want to continue with your test.",
+        "pt": "[Sábio Serpeone]\nVocê quer ir ao ponto de encontro? Se quiser, eu posso mandar você para lá imediatamente. Mas para terminar o teste, você precisará vir me encontrar novamente.",
+        "es": "[Serpeone, la gran sabia]\nClaro, puedo enviarte de vuelta si quieres. Pero si quieres continuar con la prueba, tendrás que volver aquí."
+    },
+    "UfTdAg": {
+        "en": "[Sage Serfeone]\nWould you like to go back to the Rune Knights assembly area now?",
+        "pt": "[Sábio Serpeone]\nVocê quer voltar ao ponto de encontro dos Cavaleiros Rúnicos?",
+        "es": "[Serpeone, la gran sabia]\n¿Te gustaría volver a la zona de reunión de los Caballeros rúnicos?"
+    },
+    "UvTdAg": {
+        "en": "[Sage Serfeone]\nAre you ready to go back to the Rune Knights assembly area?",
+        "pt": "[Sábio Serpeone]\nVocê está pronto para voltar ao ponto de encontro dos Cavaleiros Rúnicos?",
+        "es": "[Serpeone, la gran sabia]\n¿Tienes todo listo para volver a la zona de reunión de los Caballeros rúnicos?"
+    },
+    "U/TdAg": {
+        "en": "[Sage Serfeone]\nHow are you doing with your Rune Knight test?",
+        "pt": "[Sábio Serpeone]\nAs preparações estão indo bem?",
+        "es": "[Serpeone, la gran sabia]\n¿Cómo va tu prueba para unirte a los Caballeros rúnicos?"
+    },
+    "VPTdAg": {
+        "en": "[Sage Serfeone]\nAre you sure you're not here by accident?",
+        "pt": "[Sábio Serpeone]\nVocê não está no local errado agora?",
+        "es": "[Serpeone, la gran sabia]\n¿Seguro que no estás aquí por accidente?"
+    },
+    "VfTdAg": {
+        "en": "[Sage Serfeone]\nIf you are, I can send you back to where you belong, the Rune Knights assembly area.",
+        "pt": "[Sábio Serpeone]\nEntão eu vou mandá-lo de volta para o ponto de encontro dos Cavaleiros Rúnicos, onde você devia estar.",
+        "es": "[Serpeone, la gran sabia]\nSi es así, puedo enviarte de vuelta a la zona de reunión de los Caballeros rúnicos."
+    },
+    "VvTdAg": {
+        "en": "Please do.",
+        "pt": "Eu vou voltar agora.",
+        "es": "Hazlo, por favor."
+    },
+    "V/TdAg": {
+        "en": "Raven Rune Knight Belfino",
+        "pt": "Cavaleiro Rúnico Velpino",
+        "es": "Caballero rúnico Velpino"
+    },
+    "WPTdAg": {
+        "en": "[Raven Rune Knight Belfino]\nYou still look as inexperienced as the first time I saw you. Stay humble and never slacken off from training.",
+        "pt": "[Cavaleiro Rúnico Velpino]\nVocê ainda parece estar cru. Traga honra aos Cavaleiros Rúnicos e aumente seu poder...",
+        "es": "[Caballero rúnico Velpino]\nTienes tanta apariencia de principiante como la primera vez que te vi. No pierdas la humildad y nunca dejes de entrenar."
+    },
+    "WfTdAg": {
+        "en": "A Rune Knight, clad in black from head to toe, is glaring at me.",
+        "pt": "Um frio Cavaleiro Rúnico vestido de preto da cabeça aos pés me observa com raiva.",
+        "es": "(Un caballero rúnico, vestido de negro de los pies a la cabeza, me mira fijamente)."
+    },
+    "WvTdAg": {
+        "en": "How come all the Rune Knights I met are either cheerfully obnoxious or quietly scary and nothing in between?",
+        "pt": "Porque todos os Cavaleiros Rúnicos falam pelos cotovelos ou são quietos e só sabem lutar...?",
+        "es": "¿Por qué todos los Caballeros rúnicos que he conocido son demasiado extrovertidos o demasiado serios e inquietantes?"
+    },
+    "W/TdAg": {
+        "en": "[Captain Tigris]\nHey, I'm neither.",
+        "pt": "[Chefe Tigris]\nEi... E eu? Eu não sou assim!",
+        "es": "[Capitán Tigris]\nOye, yo no soy ninguna de las dos cosas."
+    },
+    "XPTdAg": {
+        "en": "I have to have imagined that... right?",
+        "pt": "[Cavaleiro Rúnico Velpino]\nEu não achava que esse candidato chegaria até mim hoje...",
+        "es": "Me lo debo haber imaginado… ¿no?"
+    },
+    "XfTdAg": {
+        "en": "[Raven Rune Knight Belfino]\nI didn't expect to see any candidate before the end of the day today.",
+        "pt": "[Cavaleiro Rúnico Velpino]\nParabéns! Você chegou ao aguardado teste final... Eu acho que, agora, você dominou o básico.",
+        "es": "[Caballero rúnico Velpino]\nNo esperaba ver a ningún aspirante antes de que terminara el día."
+    },
+    "XvTdAg": {
+        "en": "[Raven Rune Knight Belfino]\nCongrats. You're the first candidate to take the final test in a long time. I'm sure you've learned what it takes to be a Rune Knight before coming to me.",
+        "pt": "[Cavaleiro Rúnico Velpino]\nO teste final é relativamente simples. Tudo terminará quando você eliminar todos os monstros mágicos em Glastheim...",
+        "es": "[Caballero rúnico Velpino]\nFelicitaciones. Hacía mucho tiempo que ningún aspirante llegaba a la prueba final, pero lo lograste. Seguro que aprendiste todo lo que se necesita para ser un Caballero rúnico antes de venir aquí."
+    },
+    "X/TdAg": {
+        "en": "[Raven Rune Knight Belfino]\nYour final test is relatively simple. Just hunt the magic swords that we keep in this Glastheim.",
+        "pt": "[Cavaleiro Rúnico Velpino]\nA única condição é que você se livre desses monstros usando apenas as runas de pedra que você fez no teste anterior.",
+        "es": "[Caballero rúnico Velpino]\nLa prueba final es relativamente sencilla. Solo tienes que cazar las espadas mágicas que guardamos en Glastheim."
+    },
+    "YPTdAg": {
+        "en": "[Raven Rune Knight Belfino]\nBut you must hunt them with the runestones that you created for your last test.",
+        "pt": "[Cavaleiro Rúnico Velpino]\nPara este teste, você só poderá usar uma arma de uma mão e um escudo, ou uma arma de duas mãos.",
+        "es": "[Caballero rúnico Velpino]\nDebes hacerlo con las piedras rúnicas que creaste en la prueba anterior."
+    },
+    "YfTdAg": {
+        "en": "[Raven Rune Knight Belfino]\n...But not anymore.",
+        "pt": "[Cavaleiro Rúnico Velpino]\nO jogo de armas que você usar deve estar dentro do limite de peso de 400. As runas de pedra que serão entregues são: 30 runas de pedra de ataque e 30 runas de pedra de defesa.",
+        "es": "[Caballero rúnico Velpino]\n…Pero ya no."
+    },
+    "YvTdAg": {
+        "en": "[Raven Rune Knight Belfino]\nUnfortunately for us, the Rare Relic Protection Agency has banned the hunting of magic swords.",
+        "pt": "[Cavaleiro Rúnico Velpino]\nPara usar essas runas, eu usarei um feitiço especial de fortalecimento sobre você.",
+        "es": "[Caballero rúnico Velpino]\nDesafortunadamente, la Agencia de Protección de Reliquias Raras prohibió la caza de espadas mágicas."
+    },
+    "Y/TdAg": {
+        "en": "[Raven Rune Knight Belfino]\nGeez, nothing gets done when you get involved with things like Agencies.",
+        "pt": "[Cavaleiro Rúnico Velpino]\nOs monstros são os 3 tipos de inimigos mágicos de Glastheim que você já deve conhecer... Não será uma luta fácil, mas se você superar esse sofrimento final, você poderá seguir o trajeto de um Cavaleiro Rúnico.",
+        "es": "[Caballero rúnico Velpino]\nCaray, las cosas no avanzan cuando hay agencias involucradas."
+    },
+    "ZPTdAg": {
+        "en": "[Raven Rune Knight Belfino]\nWell, so your test is completed.",
+        "pt": "[Cavaleiro Rúnico Velpino]\nPara ajudá-lo na preparação, nós fizemos acordo com o centro Kafra em Aldebaran e colocamos um armazém especial para você neste ponto de encontro. Seria uma boa visitá-la.",
+        "es": "[Caballero rúnico Velpino]\nBueno, supongo que pasaste la prueba."
+    },
+    "ZfTdAg": {
+        "en": "[Raven Rune Knight Belfino]\nWhat can we do? We don't want to commit the crime of ''vandalizing the precious magic swords.''",
+        "pt": "[Cavaleiro Rúnico Velpino]\nFalar comigo novamente quando estiver pronto.",
+        "es": "[Caballero rúnico Velpino]\n¿Qué se le va a hacer? No querríamos cometer el delito de vandalizar las valiosas espadas mágicas."
+    },
+    "ZvTdAg": {
+        "en": "[Raven Rune Knight Belfino]\nYou've completed all your tests. Report back to Captain Tigris and enjoy the honor of becoming a Rune Knight.",
+        "pt": "[Cavaleiro Rúnico Velpino]\nVocê se saiu muito bem em seu último teste.",
+        "es": "[Caballero rúnico Velpino]\nPasaste todas las pruebas. Ve con el capitán Tigris y disfruta del honor de unirte a los Caballeros rúnicos."
+    },
+    "Z/TdAg": {
+        "en": "[Raven Rune Knight Belfino]\nCongratulations. Now, if you'll excuse me, I'm going to go take care of other candidates.",
+        "pt": "[Cavaleiro Rúnico Velpino]\nParabéns do fundo do meu coração. Agora darei atenção aos outros candidatos.",
+        "es": "[Caballero rúnico Velpino]\nFelicitaciones. Ahora, si me disculpas, voy a ocuparme de otros aspirantes."
+    },
+    "aPTdAg": {
+        "en": "You're about to take your first Rune Knight Job Change test.",
+        "pt": "Eu vou iniciar o primeiro teste para a Mudança de Classe para Cavaleiro Rúnico.",
+        "es": "Estás a punto de comenzar tu primera prueba para cambiar de clase a Caballero rúnico."
+    },
+    "afTdAg": {
+        "en": "The objective of this test is to hunt all the monsters and survive for 5 minutes.",
+        "pt": "O objetivo do teste é se livrar de todos os monstros em menos de 5 minutos e sobreviver.",
+        "es": "El objetivo de esta prueba es cazar a todos los monstruos y sobrevivir durante 5 minutos."
+    },
+    "avTdAg": {
+        "en": "If you fail to stay alive or hunt all the monsters within the time limit, you'll be disqualified.",
+        "pt": "Se você não conseguir sobreviver ou não for capaz de eliminar todos os monstros dentro do limite de tempo, eu vou considerar um fracasso.",
+        "es": "Si no sobrevives o no cazas a todos los monstruos en el tiempo establecido, reprobarás."
+    },
+    "a/TdAg": {
+        "en": "Now, let's begin.",
+        "pt": "Vamos iniciar o teste imediatamente.",
+        "es": "Ahora, empecemos."
+    },
+    "bPTdAg": {
+        "en": "Time's up! You've failed the test.",
+        "pt": "Você atingiu o limite de tempo, eu vou considerar que o teste foi um fracasso.",
+        "es": "¡Se acabó el tiempo! Reprobaste."
+    },
+    "bfTdAg": {
+        "en": "Raydric",
+        "pt": "Raydric",
+        "es": "Raydric"
+    },
+    "bvTdAg": {
+        "en": "Raydric Archer",
+        "pt": "Raydric Arqueiro",
+        "es": "Raydric Archer"
+    },
+    "b/TdAg": {
+        "en": "Rideword",
+        "pt": "Rideword",
+        "es": "Rideword"
+    },
+    "cPTdAg": {
+        "en": "Phendark",
+        "pt": "Fendark",
+        "es": "Phendark"
+    },
+    "cfTdAg": {
+        "en": "Rybio",
+        "pt": "Rybio",
+        "es": "Rybio"
+    },
+    "cvTdAg": {
+        "en": "Wraith",
+        "pt": "Alma Penada",
+        "es": "Wraith"
+    },
+    "c/TdAg": {
+        "en": "Congratulations, you've passed your first test!",
+        "pt": "Parabéns. Você passou no primeiro teste.",
+        "es": "¡Felicitaciones, pasaste la primera prueba!"
+    },
+    "dPTdAg": {
+        "en": "Captain Tigris: Guys, let's watch the test progress.",
+        "pt": "Capitão Tigris: Senhor, vamos assistir ao teste por um instante.",
+        "es": "Capitán Tigris: Veamos cómo se desarrolla la prueba."
+    },
+    "dfTdAg": {
+        "en": "Captain Tigris: Rune Knight candidate, if you need help, you can talk to one of us.",
+        "pt": "Capitão Tigris: Candidatos a Cavaleiros Rúnicos… Se você quiser emprestar nossa fala poderosa para um de nós.",
+        "es": "Capitán Tigris: Aspirante a Caballero rúnico, si necesitas ayuda, puedes recurrir a cualquiera de nosotros."
+    },
+    "dvTdAg": {
+        "en": "Captain Tigris: I guess you don't need help. Alright, guys, let's watch the test progress.",
+        "pt": "Capitão Tigris: Parece que você não precisa da nossa ajuda... Vamos assistir ao teste por um instante.",
+        "es": "Capitán Tigris: Supongo que no necesitas ayuda. Muy bien, veamos cómo se desarrolla la prueba."
+    },
+    "d/TdAg": {
+        "en": "Captain Tigris",
+        "pt": "Capitão Tigris",
+        "es": "Capitán Tigris"
+    },
+    "ePTdAg": {
+        "en": "Captain Tigris: May Beelzeb bless you!",
+        "pt": "Capitão Tigris: Que Beljeve abençoe você!",
+        "es": "Capitán Tigris: ¡Que Beelzeb te bendiga!"
+    },
+    "efTdAg": {
+        "en": "Captain Tigris: Flames of life... rise again!",
+        "pt": "Capitão Tigris: Que a chama da vida... queime novamente.",
+        "es": "Capitán Tigris: ¡Llamas de vida… resurjan!"
+    },
+    "evTdAg": {
+        "en": "Captain Tigris: Ugly ghosts, go back to your graves!",
+        "pt": "Capitão Tigris: Fantasmas sujos... Vou mandar vocês de volta para o túmulo.",
+        "es": "Capitán Tigris: ¡Malditos fantasmas, vuelvan a sus tumbas!"
+    },
+    "e/TdAg": {
+        "en": "Captain Tigris, Rune Knight candidate, show me you can overcome adversity.",
+        "pt": "Capitão Tigris: Aspirante a Cavaleiro Rúnico... Eu acho que você precisa experimentar um pouco de sofrimento.",
+        "es": "Capitán Tigris: Aspirante, demuestra que puedes vencer la adversidad."
+    },
+    "fPTdAg": {
+        "en": "Rune Knight Lunaria: Faster. Stronger. Kill them all.",
+        "pt": "Cavaleira Rúnica Lunarea: Mais rápido... Mais forte... a respiração do vento...",
+        "es": "Caballera rúnica Lunarea: Más rápido. Más fuerte. Acaba con todos."
+    },
+    "ffTdAg": {
+        "en": "Rune Knight Lunaria: Don't give up, just yet. You can do this.",
+        "pt": "Cavaleira Rúnica Lunarea: Não está pronto... você precisa de mais poder...",
+        "es": "Caballera rúnica Lunarea: No te rindas todavía. Tú puedes."
+    },
+    "fvTdAg": {
+        "en": "Rune Knight Lunaria: Everything is back to square one.",
+        "pt": "Cavaleira Rúnica Lunarea: Tudo vai para o ponto de partida...",
+        "es": "Caballera rúnica Lunarea: Todo vuelve a empezar."
+    },
+    "f/TdAg": {
+        "en": "Rune Knight Lunaria: No pain, no gain.",
+        "pt": "Cavaleira Rúnica Lunarea: Não pode haver crescimento sem um desafio.",
+        "es": "Caballera rúnica Lunarea: Sin sacrificio, no hay recompensa."
+    },
+    "gPTdAg": {
+        "en": "Rune Knight Lenore",
+        "pt": "Cavaleira Rúnica Renoa",
+        "es": "Caballero rúnico Lenore"
+    },
+    "gfTdAg": {
+        "en": "Rune Knight Lenore: Gale Rune! Let me give you power!",
+        "pt": "Cavaleira Rúnica Renoa: A runa do forte vento! Conceda este poder para você!",
+        "es": "Caballera rúnica Renoa: ¡Runa de la tormenta, dame tu poder!"
+    },
+    "gvTdAg": {
+        "en": "Rune Knight Lenore: Life Rune! The power of vitality!",
+        "pt": "Cavaleira Rúnica Renoa: A runa do nascimento! Conceda a você o poder da vida!",
+        "es": "Caballera rúnica Renoa: ¡Runa de la vida, dame energía vital!"
+    },
+    "g/TdAg": {
+        "en": "Rune Knight Lenore: I'm faster than anyone else! Different!",
+        "pt": "Cavaleira Rúnica Renoa: Eu sou mais rápido que qualquer outra pessoa, diferente dos outros!",
+        "es": "Caballera rúnica Renoa: ¡Soy la más rápida! ¡Y diferente!"
+    },
+    "hPTdAg": {
+        "en": "Rune Knight Lenore: A Rune Knight can take a challenge like this in stride!",
+        "pt": "Cavaleira Rúnica Renoa: Para um Cavaleiro Rúnico, esse tipo de desafio não é nada!",
+        "es": "Caballera rúnica Renoa: ¡Un Caballero rúnico puede afrontar un reto como este sin problema!"
+    },
+    "hfTdAg": {
+        "en": "Rune Knight Belfino",
+        "pt": "Cavaleiro Rúnico Velpino",
+        "es": "Caballero rúnico Belfino"
+    },
+    "hvTdAg": {
+        "en": "Rune Knight Belfino: You're too good to die here.",
+        "pt": "Cavaleiro Rúnico Velpino: Você não é do tipo que cai em lugares como esse.",
+        "es": "Caballero rúnico Velpino: No es tu destino morir aquí."
+    },
+    "h/TdAg": {
+        "en": "Rune Knight Belfino: Go! Rip apart everything that gets in your way!",
+        "pt": "Cavaleiro Rúnico Velpino: Muito bem! Destrua os obstáculos",
+        "es": "Caballero rúnico Velpino: ¡Adelante! ¡Elimina todo lo que se interponga en tu camino!"
+    },
+    "iPTdAg": {
+        "en": "Rune Knight Belfino: You're not alone. We're watching you.",
+        "pt": "Cavaleiro Rúnico Velpino: 'Você não está sozinho'. Estamos observando você.",
+        "es": "Caballero rúnico Velpino: No estás a solas. Te estamos observando."
+    },
+    "ifTdAg": {
+        "en": "Rune Knight Belfino: Fight and win! Don't let such a little obstacle hold you back!",
+        "pt": "Cavaleiro Rúnico Velpino: Lute e supere! Não desista com esse tipo de sofrimento.",
+        "es": "Caballero rúnico Velpino: ¡Lucha y triunfa! ¡No dejes que un obstáculo tan pequeño te detenga!"
+    },
+    "ivTdAg": {
+        "en": "Rune Knight Belfino: This is nothing to us Rune Knights!",
+        "pt": "Cavaleiro Rúnico Velpino: Não é um grande desafio para um verdadeiro Cavaleiro Rúnico!",
+        "es": "Caballero rúnico Velpino: ¡Esto no es nada para nosotros los Caballeros rúnicos!"
+    },
+    "i/TdAg": {
+        "en": "You're about to take your last Rune Knight Job Change test.",
+        "pt": "Eu vou iniciar o último teste para a Mudança de Classe para Cavaleiro Rúnico.",
+        "es": "Estás a punto de comenzar tu última prueba para cambiar de clase a Caballero rúnico."
+    },
+    "jPTdAg": {
+        "en": "Hunt all monsters that appear here by using only your runestones in 8 minutes.",
+        "pt": "Livre-se dos monstros que aparecerem aqui dentro de 8 minutos usando as runas de pedra fornecidas.",
+        "es": "Elimina a todos los monstruos que aparezcan en 8 minutos usando solo tus piedras rúnicas."
+    },
+    "jfTdAg": {
+        "en": "If you die or fail to hunt all the monsters within the time limit, you'll be disqualified.",
+        "pt": "Você passou do limite de tempo, eu vou considerar que este teste foi um fracasso.",
+        "es": "Si no sobrevives o no cazas a todos los monstruos en el tiempo establecido, reprobarás."
+    },
+    "jvTdAg": {
+        "en": "Executioner",
+        "pt": "Executor",
+        "es": "Executioner"
+    },
+    "j/TdAg": {
+        "en": "Ogretooth",
+        "pt": "Tirfing",
+        "es": "Ogretooth"
+    },
+    "kPTdAg": {
+        "en": "Mysteltainn",
+        "pt": "Mysteltainn",
+        "es": "Mysteltainn"
+    },
+    "kfTdAg": {
+        "en": "Congratulations, you've passed the test!",
+        "pt": "Parabéns! Você passou no teste!!!",
+        "es": "¡Felicitaciones, superaste la prueba!"
+    },
+    "kvTdAg": {
+        "en": "Kafra Employee",
+        "pt": "Funcionária Kafra",
+        "es": "Empleada de Kafra"
+    },
+    "k/TdAg": {
+        "en": "[Kafra Employee]\nYour Kafra Points\nhave reached a dangerous amount.\nYou can't use the Kafra services\nas you are right now.\nPlease visit our Al De Baran headquarters\nand exchange your Kafra Points for some items first.",
+        "pt": "[Funcionária Kafra]\nSeus Pontos Kafra\nchegaram a um nível arriscado.\nVocê não pode usar nosso Serviço Kafra nesse estado.\nPor favor, troque esses pontos por prêmios na Sede da Corporação Kafra em Al De Baran",
+        "es": "[Personal de Kafra]\nTus puntos de Kafra\nalcanzaron una cantidad peligrosa.\nNo puedes usar los servicios de Kafra\nen tu situación actual.\nPrimero, visita nuestra sede de Aldebaran\ny canjea tus puntos de Kafra por algunos objetos."
+    },
+    "lPTdAg": {
+        "en": "[Kafra Employee]\nWelcome. Kafra is always with you.\nHow may I help you today?",
+        "pt": "[Funcionária Kafra]\nOlá. Os serviços Kafra estão sempre com você.\nEm que posso ajudar?",
+        "es": "[Personal de Kafra]\nTe doy la bienvenida. Kafra está siempre a tu disposición.\n¿En qué puedo ayudarte hoy?"
+    },
+    "lfTdAg": {
+        "en": "Use Storage.",
+        "pt": "Usar Armazém",
+        "es": "Usar el almacén."
+    },
+    "lvTdAg": {
+        "en": "Rent a cart.",
+        "pt": "Usar Serviço de Carrinho",
+        "es": "Usar le Servicio de carretas."
+    },
+    "l/TdAg": {
+        "en": "Teleport.",
+        "pt": "Usar Teletransporte",
+        "es": "Teletransportarte."
+    },
+    "mPTdAg": {
+        "en": "Check other info.",
+        "pt": "Verificar a outra informação",
+        "es": "Comprobar otra información."
+    },
+    "mfTdAg": {
+        "en": "[Kafra Employee]\nI'm sorry,\nbut to use our Storage service, you first must increase your Novice Job Level to 6 or learn the Basic Skill.",
+        "pt": "[Funcionária Kafra]\nDesculpe-me, mas você precisa ter o nível 6 das Habilidades Básicas de Aprendiz para usar o Armazém.",
+        "es": "[Personal de Kafra]\nLo siento,\npero para usar nuestro servicio de almacenamiento, primero, tienes que aumentar tu nivel de clase de Principiante a 6 o aprender la habilidad básica."
+    },
+    "mvTdAg": {
+        "en": "[Kafra Employee]\nLet me open your storage for you.\nThank you for your patronage.",
+        "pt": "[Funcionária Kafra]\nEu vou abrir o armazém.",
+        "es": "[Personal de Kafra]\nDéjame abrirte tu almacén.\nGracias por tu apoyo."
+    },
+    "m/TdAg": {
+        "en": "[Kafra Employee]\nI'm sorry, but you don't have enough Zeny.\nIt's 50 Zeny to use the Storage.",
+        "pt": "[Funcionária Kafra]\nDesculpe, mas você não tem zenys suficientes para pagar por isso.\nA taxa de acesso à armazenagem é de 50 zenys.",
+        "es": "[Personal de Kafra]\nLo siento, pero no tienes suficientes zeny.\nUsar el almacén cuesta 50 zeny."
+    },
+    "nPTdAg": {
+        "en": "[Kafra Employee]\nI'm sorry,\nbut only the Merchant classes can rent a cart.",
+        "pt": "[Funcionária Kafra]\nDesculpe.\nOs carrinhos estão disponíveis apenas para Mercadores, Ferreiros e Alquimistas.",
+        "es": "[Personal de Kafra]\nLo siento,\npero solo las clases Comerciantes pueden alquilar una carreta."
+    },
+    "nfTdAg": {
+        "en": "[Kafra Employee]\nYou're already equipped with a cart.",
+        "pt": "[Funcionária Kafra]\nVocê está usando um Carrinho.",
+        "es": "[Personal de Kafra]\nYa tienes una carreta."
+    },
+    "nvTdAg": {
+        "en": "[Kafra Employee]\nThe Push Cart skill is required to rent a cart.",
+        "pt": "[Funcionária Kafra]\n‘Você só pode alugar um carrinho depois de aprender a \"Push Cart\" habilidade.",
+        "es": "[Personal de Kafra]\nPara alquilar una carreta, se requiere la habilidad Uso de carro."
+    },
+    "n/TdAg": {
+        "en": "[Kafra Employee]\nIt's 800 Zeny to rent a cart.\nWould you like to rent one?",
+        "pt": "[Funcionária Kafra]\nO aluguel do Carrinho custa 800 zenys.\nVocê gostaria de alugar?",
+        "es": "[Personal de Kafra]\nAlquilar una carreta cuesta 800 zeny.\n¿Quieres alquilar una?"
+    },
+    "oPTdAg": {
+        "en": "Rent.",
+        "pt": "Alugar um Carrinho.",
+        "es": "Alquilar."
+    },
+    "ofTdAg": {
+        "en": "[Kafra Employee]\nI'm sorry, but you don't have enough Zeny.\nIt's 800 Zeny to rent a cart.",
+        "pt": "[Funcionária Kafra]\nDesculpe, mas você não tem zenys suficientes para alugar o Carrinho.\nO aluguel do Carrinho custa 800 zenys.",
+        "es": "[Personal de Kafra]\nLo siento, pero no tienes suficientes zeny.\nAlquilar una carreta cuesta 800 zeny."
+    },
+    "ovTdAg": {
+        "en": "[Kafra Employee]\nPlease tell me where you'd like to go.",
+        "pt": "[Funcionária Kafra]\nPor favor, me diga o destino.",
+        "es": "[Personal de Kafra]\nDime a dónde quieres ir."
+    },
+    "o/TdAg": {
+        "en": "Izlude: 60 Z",
+        "pt": "Izlude -> 60 Z",
+        "es": "Izlude (60 zeny)."
+    },
+    "pPTdAg": {
+        "en": "Geffen: 120 Z",
+        "pt": "Geffen -> 120 Z",
+        "es": "Geffen (120 zeny)."
+    },
+    "pfTdAg": {
+        "en": "Payon: 120 Z",
+        "pt": "Payon -> 120 Z",
+        "es": "Payon (120 zeny)."
+    },
+    "pvTdAg": {
+        "en": "Morroc: 120 Z",
+        "pt": "Payon -> 120 Z",
+        "es": "Morroc (120 zeny)."
+    },
+    "p/TdAg": {
+        "en": "Alberta: 180 Z",
+        "pt": "Alberta -> 180 Z",
+        "es": "Alberta (180 zeny)."
+    },
+    "qPTdAg": {
+        "en": "[Kafra Employee]\nI'm sorry, but you don't have enough Zeny.\nPlease check your wallet.",
+        "pt": "[Funcionária Kafra]\nDesculpe-me, mas você precisa de mais dinheiro para pagar.\nPor favor, verifique de novo.",
+        "es": "[Personal de Kafra]\nLo siento, pero no tienes suficientes zeny.\nPor favor, revisa tu billetera."
+    },
+    "qfTdAg": {
+        "en": "Check my Kafra Points.",
+        "pt": "Verificar pontos acumulados",
+        "es": "Comprobar mis puntos de Kafra."
+    },
+    "qvTdAg": {
+        "en": "[Kafra Employee]\n{0}, currently you have {1} Kafra Points.",
+        "pt": "[Funcionária Kafra]\n{0}Seus pontos acumulados são {1}.",
+        "es": "[Personal de Kafra]\n{0}, actualmente tienes {1} puntos de Kafra."
+    },
+    "q/TdAg": {
+        "en": "[Kafra Employee]\nYou can use them to shop items at the Kafra Headquarters.\nEnjoy using Kafra services and get free items along the way!",
+        "pt": "[Funcionária Kafra]\nOs pontos acumulados podem ser trocados por prêmios no Escritório Central da Kafra.\nUse nossos serviços Kafra em Al De Baran.",
+        "es": "[Personal de Kafra]\nPuedes usarlos para comprar objetos en la sede central de Kafra.\n¡Disfruta de los servicios de Kafra y consigue objetos gratis en el camino!"
+    },
+    "rPTdAg": {
+        "en": "[Kafra Employee]\nKafra always strives to provide you with reliable and friendly services.\nThank you for your patronage.",
+        "pt": "[Funcionária Kafra]\nNa Corporação Kafra sempre fazemos o melhor para oferecer segurança e conveniência, por meio de serviços perfeitos e gerenciamento rigoroso.\nObrigada por utilizar os serviços Kafra.",
+        "es": "[Personal de Kafra]\nKafra siempre se esfuerza por brindarte servicios confiables y agradables.\nGracias por tu apoyo."
+    }
+}

@@ -1,0 +1,1706 @@
+{
+    "IBW/AQ": {
+        "ko": "유물관리인",
+        "en": "Relics Manager",
+        "pt": "Gerente de Relíquias",
+        "es": "Gestor Relic"
+    },
+    "IRW/AQ": {
+        "ko": "^4D4DFF!-주의-!^000000\n^4D4DFF인벤토리에 여유공간이 없거나 동일한 아이템을 한계치에 가깝게 소지하고 있습니다.^000000\n^4D4DFF카프라나 존다의 창고 서비스를 이용해서 정리해 주세요.^000000",
+        "en": "^4D4DFFCaution!^000000\n^4D4DFFUnable to continue.^000000\n^4D4DFFEmpty your inventory and come back.^000000",
+        "pt": "^4D4DFFCuidado!^000000\n^4D4DFFNão é possível progredir.^000000\n^4D4DFFEsvazie seu inventário e volte mais tarde.^000000",
+        "es": "^4D4DFF¡Atención!^000000\n^4D4DFFNo se puede continuar.^000000\n^4D4DFFVacía tu inventario y regresa.^000000"
+    },
+    "IhW/AQ": {
+        "ko": "[유물관리인]\n평안한 여행이 되셨습니까? 저는 이 모라마을 주변에서 발견된 유물들을 관리하는 유물관리인입니다~",
+        "en": "[Relics Manager]\nHow was your trip through the labyrinth? I manage relics found in Bifröst in exchange for Mora Coins.",
+        "pt": "[Gerente de Relíquias]\nComo foi sua viagem pelo labirinto? Eu gerencio as relíquias encontradas em Bifröst em troca de Moedas de Mora.",
+        "es": "[Administrador de Reliquias]\n¿Cómo fue el viaje por el laberinto? Administro reliquias encontradas en Bifröst por Monedas de Mora"
+    },
+    "IxW/AQ": {
+        "ko": "아, 예. 안 삽니다.",
+        "en": "Hmm... no, thanks!",
+        "pt": "Hmmm… não, obrigado!",
+        "es": "Er... no, gracias."
+    },
+    "JBW/AQ": {
+        "ko": "유물이라구요?",
+        "en": "Relics?",
+        "pt": "Relíquias?",
+        "es": "¿Reliquias?"
+    },
+    "JRW/AQ": {
+        "ko": "바로 거래하시죠",
+        "en": "I want to negotiate!",
+        "pt": "Quero negociar!",
+        "es": "¡Quiero negociar!"
+    },
+    "JhW/AQ": {
+        "ko": "[유물관리인]\n네, 여행자님의 시간은 소중하니까요. 그럼 편히 살펴가시길...",
+        "en": "[Relics Manager]\nYou're right, going through The Hazy Maze Forest is very tiring...",
+        "pt": "[Gerente de Relíquias]\nÉ verdade, atravessar a Floresta do Labirinto da Neblina é muito cansativo…",
+        "es": "[Administrador de Reliquias]\nTienes razón, cruzar el laberinto de niebla es muy agotador..."
+    },
+    "JxW/AQ": {
+        "ko": "[유물관리인]\n이 마을 주변을 탐험하러 오는 여행자는 매일같이 끊이지 않고 있지요. 하지만 모두가 무사하게 모험을 마치는 것은 아니랍니다",
+        "en": "[Relics Manager]\nThe number of travelers arriving in Mora is absurd.",
+        "pt": "[Gerente de Relíquias]\nO número de viajantes chegando em Mora é absurdo.",
+        "es": "[Administrador de Reliquias]\nLa cantidad de viajeros que llegan a Mora es absurda."
+    },
+    "KBW/AQ": {
+        "ko": "[유물관리인]\n하루에도 몇명씩 실종이되거나 송장이되어 돌아오곤 하지요. 그런 그들을 수색하는 과정에서 그들이 발견한, 또는 사용한 것 일지도 모르는 많은 유물들이 이곳에 모여 있습니다",
+        "en": "[Relics Manager]\nEvery day, some adventurers go missing in The Hazy Maze Forest. In the course of searching for them, we find relics with them and store them here.",
+        "pt": "[Gerente de Relíquias]\nTodo dia, alguns aventureiros desaparecem na Floresta do Labirinto da Neblina. Enquanto tentamos resgatá-los, encontramos relíquias e as armazenamos aqui.",
+        "es": "[Administrador de Reliquias]\nCada día, algunos trotamundos desaparecen en el Laberinto del Bosque Brumoso. Mientras los buscábamos, encontramos reliquias con ellos y las guardamos aquí."
+    },
+    "KRW/AQ": {
+        "ko": "[유물관리인]\n저는 그런 유물들을 맞이할 새 주인을 찾고 있습니다. 물론 유물 교환에는 저희 모라마을의 주화가 필요하지요. 이 마을의 존속을 위한 최소한의 댓가라고 생각해 주십시오",
+        "en": "[Relics Manager]\nI am looking for new owners for these relics. Please consider paying in Mora Coins.",
+        "pt": "[Gerente de Relíquias]\nEstou procurando por novos donos para estas relíquias. Por favor, estude a possibilidade de pagar em Moedas de Mora.",
+        "es": "[Administrador de Reliquias]\nEstoy buscando nuevos dueños para estas reliquias. Por favor considere el pago en Monedas de Mora."
+    },
+    "KhW/AQ": {
+        "ko": "[유물관리인]\n참고로 이 장비들은 ^FF0000장착을 하지않으면 강화를 할 수 없다^000000는걸 염두에 두시고 구매하셔야 합니다. 그리고 모든 유물의 가격은 ^0000FF주화 10개^000000입니다.",
+        "en": "[Relics Manager]\nPlease note that these relics can only be enchanted ^FF0000if they are equipped^000000. Any relic costs ^0000FF10 Mora Coins^000000.",
+        "pt": "[Gerente de Relíquias]\nNote que estas relíquias só podem ser encantadas ^FF0000se estiverem equipadas^000000. Toda relíquia tem um custo de ^0000FF10 Moedas de Mora^000000.",
+        "es": "[Administrador de Reliquias]\nTenga en cuenta que estas reliquias solo se pueden encantar ^FF0000si están equipadas^000000. Cualquier reliquia cuesta ^0000FF10 Monedas de Mora^000000."
+    },
+    "KxW/AQ": {
+        "ko": "[유물관리인]\n환불을 원하실 경우에는 제 옆의 폐기유물 수거기를 이용해 주십시오. 그럼 모라마을의 주화를 유물로 바꿔 보시겠습니까?",
+        "en": "[Relics Manager]\nIf you want a refund, please use the Garbage Collector. Would you like to make an exchange?",
+        "pt": "[Gerente de Relíquias]\nSe quiser reembolso, por favor, fale com a Coletora de Lixo. Quer fazer uma troca?",
+        "es": "[Administrador de Reliquias]\nSi desea un reembolso, utilice el Recolector de Basura. ¿Quieres hacer el cambio?"
+    },
+    "LBW/AQ": {
+        "ko": "그만둔다",
+        "en": "Leave",
+        "pt": "Sair",
+        "es": "Salir"
+    },
+    "LRW/AQ": {
+        "ko": "룬나이트의 유물로 교체",
+        "en": "Rune Knight Relics",
+        "pt": "Relíquias de Cavaleiro Rúnico",
+        "es": "Reliquias de Caballero rúnico"
+    },
+    "LhW/AQ": {
+        "ko": "길로틴크로스의 유물로 교체",
+        "en": "Guillotine Cross Relics",
+        "pt": "Relíquias de Sicário",
+        "es": "Reliquias de Cortador de cruces"
+    },
+    "LxW/AQ": {
+        "ko": "레인저의 유물로 교체",
+        "en": "Ranger Relics",
+        "pt": "Relíquias de Sentinela",
+        "es": "Reliquias de Errante"
+    },
+    "MBW/AQ": {
+        "ko": "워록의 유물로 교체",
+        "en": "Warlock Relics",
+        "pt": "Relíquias de Arcano",
+        "es": "Reliquias de Brujo"
+    },
+    "MRW/AQ": {
+        "ko": "아크비숍의 유물로 교체",
+        "en": "Archbishop Relics",
+        "pt": "Relíquias de Arcebispo",
+        "es": "Reliquias de Arzobispo"
+    },
+    "MhW/AQ": {
+        "ko": "^FF0000무기를 상급 유물로 교체^000000",
+        "en": "^FF0000Strengthened Relics^000000",
+        "pt": "^FF0000Relíquias Fortalecidas^000000",
+        "es": "^FF0000Reliquias fortalecidas^000000"
+    },
+    "MxW/AQ": {
+        "ko": "[유물관리인]\n그럼 다음 기회에 뵙도록 하지요",
+        "en": "[Relics Manager]\nSee you next time!",
+        "pt": "[Gerente de Relíquias]\nTe vejo em breve!",
+        "es": "[Administrador de Reliquias]\n¡Hasta la próxima!"
+    },
+    "NBW/AQ": {
+        "ko": "룬나이트",
+        "en": "Rune Knights",
+        "pt": "Cavaleiros Rúnicos",
+        "es": "Caballeros rúnicos"
+    },
+    "NRW/AQ": {
+        "ko": "길로틴크로스",
+        "en": "Guillotine Crosses",
+        "pt": "Sicários",
+        "es": "Cortadores de cruces"
+    },
+    "NhW/AQ": {
+        "ko": "레인저",
+        "en": "Rangers",
+        "pt": "Sentinelas",
+        "es": "Centinelas"
+    },
+    "NxW/AQ": {
+        "ko": "워록",
+        "en": "Warlocks",
+        "pt": "Arcanos",
+        "es": "Brujos"
+    },
+    "OBW/AQ": {
+        "ko": "아크비숍",
+        "en": "Arch Bishops",
+        "pt": "Arcebispos",
+        "es": "Arzobispos"
+    },
+    "ORW/AQ": {
+        "ko": "상급유물",
+        "en": "Strengthened Relics",
+        "pt": "Relíquias Fortalecidas",
+        "es": "Reliquia fortalecida"
+    },
+    "OhW/AQ": {
+        "ko": "[유물관리인]\n현재 아크비숍과 워록의 무기를 대상으로 상급 유물로의 교체를 해 드리고 있습니다, 상급의 유물로 업그레이드 하기 위해서는 ^0000FF7제련 이상의 제련도^000000 가 필요합니다.",
+        "en": "[Relics Manager]\nArchbishop and Warlock weapons can be strengthened if you bring me the relic ^0000FFwith refinement +7 or higher^000000.",
+        "pt": "[Gerente de Relíquias]\nArmas de Arcebispo e Arcano podem ser fortalecidas se você me trouxer a relíquia ^0000FFcom refinamento +7 ou superior^000000.",
+        "es": "[Administrador de Reliquias]\nArmas de Arzobispo y Brujo se pueden fortalecer si me traes la reliquia ^0000FFcon refinamiento +7 o más^000000."
+    },
+    "OxW/AQ": {
+        "ko": "[유물관리인]\n또한 제대로 된 유물의 주인인지를 파악하기 위해 장착한 장비에 대해서만 감정하고 업그레이드 시켜드리고 있습니다.",
+        "en": "[Relics Manager]\nMaking it clear that you need to have the weapon equipped and it is only valid for weapons in the sets Affection, Judgment, Aqua, Golden Rod, Forest and Crimson.",
+        "pt": "[Gerente de Relíquias]\nSó deixando claro, você precisa ter a arma equipada e só é válido para armas dos conjuntos de Afeição, Julgamento, Aquático, Açoite de Ouro, Florestal e Vermelho.",
+        "es": "[Administrador de Reliquias]\nDejando en claro que es necesario tener el arma equipada y solo es válido para ^0000FFarmas^000000 de los conjuntos Afecto, Juicio, Aqua, Vara dorada, Bosque y Carmesí."
+    },
+    "PBW/AQ": {
+        "ko": "[유물관리인]\n장비를 벗고 계신건 아닌가요?",
+        "en": "[Relics Manager]\nDon't remove your equipment, okay?",
+        "pt": "[Gerente de Relíquias]\nNão retire seu equipamento, tá?",
+        "es": "[Administrador de Reliquias]\nNo te quites el equipamiento, ¿vale?"
+    },
+    "PRW/AQ": {
+        "ko": "[유물관리인]\n이 장비를 상급의 장비로 교체 해 드리게되면 ^0000FF현재의 제련도와 인챈트된 효능은 사라집니다^000000. 정말 교체하시겠습니까?",
+        "en": "[Relics Manager]\nIf you strengthen your relic, ^0000FFrefinement, cards, and enchantments will be lost^000000. Do you wish to continue?",
+        "pt": "[Gerente de Relíquias]\nSe você fortalecer sua relíquia, ^0000FFrefinamentos, cartas, e encantamentos serão perdidos^000000. Deseja prosseguir?",
+        "es": "[Administrador de Reliquias]\nAl fortalecer tu reliquia, ^0000FFse perderán refinamientos, cartas y encantamientos^000000. ¿Quieres continuar?"
+    },
+    "PhW/AQ": {
+        "ko": "교체를 원합니다!",
+        "en": "Strengthen my relic!!!",
+        "pt": "Fortaleça minha relíquia!",
+        "es": "¡¡¡Fortalece mi reliquia!!!"
+    },
+    "PxW/AQ": {
+        "ko": "[유물관리인]\n또한 상급의 장비로 교체시에 장착 가능 레벨제한이 ^0000FF 100레벨 에서 130레벨로 상향조정됩니다.^000000 정말 교체하시겠습니까?",
+        "en": "[Relics Manager]\nIt's also worth remembering that the minimum level to equip ^0000FFincreases from 100 to level 130^000000. Do you want to continue?",
+        "pt": "[Gerente de Relíquias]\nTambém vale notar que o nível mínimo para equipar ^0000FFaumenta de 100 para 130^000000. Deseja prosseguir?",
+        "es": "[Administrador de Reliquias]\nTambién vale la pena recordar que el nivel mínimo para equipar ^0000FFaumenta del 100 al nivel 130^000000. ¿Quieres continuar?"
+    },
+    "QBW/AQ": {
+        "ko": "[유물관리인]\n마지막으로. ^0000FF한번 업그레이드 된 장비는 다시 되돌릴 수 없습니다.^000000 이 점을 숙지하셨습니까?",
+        "en": "[Relics Manager]\nAnd finally, ^0000FFstrengthening is irreversible^000000. Do you want to continue?",
+        "pt": "[Gerente de Relíquias]\nE finalmente, ^0000FFo fortalecimento é irreversível^000000. Deseja prosseguir?",
+        "es": "[Administrador de Reliquias]\nY finalmente, ^0000FFel fortalecimiento es irreversible^000000. ¿Quieres continuar?"
+    },
+    "QRW/AQ": {
+        "ko": "[유물관리인]\n이 장비는 교체 대상인 장비가 아니예요. 아크비숍과 워록의 1차 무기만 지원하고 있으니 다음기회에 제대로 다시 도전해주세요",
+        "en": "[Relics Manager]\nYour weapon is not a Relic of Mora. Please return with an Warlock or Archbishop relic acquired in Mora.",
+        "pt": "[Gerente de Relíquias]\nSua arma não é uma Relíquia de Mora. Por favor, volte com uma relíquia de Arcano ou Arcebispo adquirida em Mora.",
+        "es": "[Administrador de Reliquias]\nTu arma no es una Reliquia de Mora. Regresa con cualquier reliquia de Brujo o Arzobispo adquirida en Mora."
+    },
+    "QhW/AQ": {
+        "ko": "[유물관리인]\n제대로 상급 유물로 교체해 드렸습니다. 다음에 기회가 된다면 또 뵙도록 하지요",
+        "en": "[Relics Manager]\nYour relic has been strengthened. See you next time.",
+        "pt": "[Gerente de Relíquias]\nSua relíquia foi fortalecida. Até a próxima.",
+        "es": "[Administrador de Reliquias]\nTu reliquia ha sido fortalecida. Nos vemos la próxima vez."
+    },
+    "QxW/AQ": {
+        "ko": "[유물관리인]\n7제련 이상의 제련도를 갖추지 않은 물건이군요. 이러면 업그레이드를 해 드릴 순 없습니다.",
+        "en": "[Relics Manager]\nYour relic does not have refinement +7 or higher, so it cannot be strengthened.",
+        "pt": "[Gerente de Relíquias]\nSua relíquia não tem refinamento +7 ou superior, então não pode ser fortalecida.",
+        "es": "[Administrador de Reliquias]\nTu reliquia no tiene refinamiento +7 o superior, por lo que no se puede fortalecer."
+    },
+    "RBW/AQ": {
+        "ko": "[유물관리인]\n{0}의 유물 중에서 어떤 것을 선택 하시겠습니까?",
+        "en": "[Relics Manager]\nThese are the relics for {0}. Which do you choose?",
+        "pt": "[Gerente de Relíquias]\nEssas são as relíquias para {0}. Qual você deseja?",
+        "es": "[Administrador de Reliquias]\nEstas son las reliquias para {0}. ¿Cuál eliges?"
+    },
+    "RRW/AQ": {
+        "ko": "우르의그리브",
+        "en": "Ur's Greaves",
+        "pt": "Grevas de Ur",
+        "es": "Grebas de Ur"
+    },
+    "RhW/AQ": {
+        "ko": "우르의망토",
+        "en": "Ur's Manteau",
+        "pt": "Manteau de Ur",
+        "es": "Manteau de Ur"
+    },
+    "RxW/AQ": {
+        "ko": "우르의인장",
+        "en": "Ur's Seal",
+        "pt": "Selo de Ur",
+        "es": "Sello de Ur"
+    },
+    "SBW/AQ": {
+        "ko": "우르의플레이트",
+        "en": "Ur's Plate",
+        "pt": "Armadura de Ur",
+        "es": "Plato de Ur"
+    },
+    "SRW/AQ": {
+        "ko": "페오즈의그리브",
+        "en": "Peuz's Greaves",
+        "pt": "Grevas de Peuz",
+        "es": "Grebas de Peuz"
+    },
+    "ShW/AQ": {
+        "ko": "페오즈의망토",
+        "en": "Peuz's Manteau",
+        "pt": "Manteau de Peuz",
+        "es": "Manteau de Peuz"
+    },
+    "SxW/AQ": {
+        "ko": "페오즈의인장",
+        "en": "Peuz's Seal",
+        "pt": "Selo de Peuz",
+        "es": "Sello de Peuz"
+    },
+    "TBW/AQ": {
+        "ko": "페오즈의플레이트",
+        "en": "Peuz's Plate",
+        "pt": "Armadura de Peuz",
+        "es": "Plato de Peuz"
+    },
+    "TRW/AQ": {
+        "ko": "사바흐의슈즈",
+        "en": "Sapha Shoes",
+        "pt": "Botas dos Manuks",
+        "es": "Calzado de Sapha"
+    },
+    "ThW/AQ": {
+        "ko": "사바흐의후드",
+        "en": "Sapha Hood",
+        "pt": "Capuz dos Manuks",
+        "es": "Capucha Sapha"
+    },
+    "TxW/AQ": {
+        "ko": "사바흐의링",
+        "en": "Sapha Ring",
+        "pt": "Anel dos Manuks",
+        "es": "Anillo Sapha"
+    },
+    "UBW/AQ": {
+        "ko": "사바흐의클로스",
+        "en": "Sapha's Cloth",
+        "pt": "Vestimenta dos Manuks",
+        "es": "Tela de Sapha"
+    },
+    "URW/AQ": {
+        "ko": "나브의슈즈",
+        "en": "Nab Shoes",
+        "pt": "Botas de Nab",
+        "es": "Botas de Nab"
+    },
+    "UhW/AQ": {
+        "ko": "나브의후드",
+        "en": "Nab Hood",
+        "pt": "Capuz de Nab",
+        "es": "Capucha Nab"
+    },
+    "UxW/AQ": {
+        "ko": "나브의링",
+        "en": "Nab Ring",
+        "pt": "Anel de Nab",
+        "es": "Anillo Nab"
+    },
+    "VBW/AQ": {
+        "ko": "나브의클로스",
+        "en": "Nab's Cloth",
+        "pt": "Vestimenta de Nab",
+        "es": "Tela de Nab"
+    },
+    "VRW/AQ": {
+        "ko": "흰날개의부츠",
+        "en": "White Wing Boots",
+        "pt": "Sapatos das Asas de Luz",
+        "es": "Botas de alas blancas"
+    },
+    "VhW/AQ": {
+        "ko": "흰날개의망토",
+        "en": "White Wing Manteau",
+        "pt": "Sobrepeliz das Asas de Luz",
+        "es": "Manto de alas blancas"
+    },
+    "VxW/AQ": {
+        "ko": "흰날개의브로치",
+        "en": "White Wing Brooch",
+        "pt": "Broche das Asas de Luz",
+        "es": "Broche de alas blancas"
+    },
+    "WBW/AQ": {
+        "ko": "흰날개의슈츠",
+        "en": "White Wing Suit",
+        "pt": "Malha das Asas de Luz",
+        "es": "Traje Ala Blanca"
+    },
+    "WRW/AQ": {
+        "ko": "검은날개의부츠",
+        "en": "Black Wing Boots",
+        "pt": "Sapatos das Asas de Sombras",
+        "es": "Botas Ala Negra"
+    },
+    "WhW/AQ": {
+        "ko": "검은날개의망토",
+        "en": "Black Wing Manteau",
+        "pt": "Sobrepeliz das Asas de Sombra",
+        "es": "Manteau Ala Negra"
+    },
+    "WxW/AQ": {
+        "ko": "검은날개의브로치",
+        "en": "Black Wing Brooch",
+        "pt": "Broche das Asas de Sombra",
+        "es": "Broche Ala Negra"
+    },
+    "XBW/AQ": {
+        "ko": "검은날개의슈츠",
+        "en": "Black Wing Suit",
+        "pt": "Malha das Asas de Sombra",
+        "es": "Traje Ala Negra"
+    },
+    "XRW/AQ": {
+        "ko": "무기/신발",
+        "en": "Weapons and shoes",
+        "pt": "Armas e calçados",
+        "es": "Armas y calzados"
+    },
+    "XhW/AQ": {
+        "ko": "로브/오브",
+        "en": "Armor and accessories",
+        "pt": "Armaduras e acessórios",
+        "es": "Armadura y accesorios"
+    },
+    "XxW/AQ": {
+        "ko": "골든로드스태프",
+        "en": "Golden Rod Staff",
+        "pt": "Cajado do Açoite de Ouro",
+        "es": "Báculo de vara dorada"
+    },
+    "YBW/AQ": {
+        "ko": "아쿠아스태프",
+        "en": "Aqua Staff",
+        "pt": "Cajado Aquático",
+        "es": "Báculo de Aqua"
+    },
+    "YRW/AQ": {
+        "ko": "크림즌스태프",
+        "en": "Crimson Staff",
+        "pt": "Cajado Vermelho",
+        "es": "Báculo carmesí"
+    },
+    "YhW/AQ": {
+        "ko": "포레스트스태프",
+        "en": "Forest Staff",
+        "pt": "Cajado Florestal",
+        "es": "Báculo del bosque"
+    },
+    "YxW/AQ": {
+        "ko": "골든로드슈즈",
+        "en": "Golden Rod Shoes",
+        "pt": "Sapatos do Açoite de Ouro",
+        "es": "Botas de vara dorada"
+    },
+    "ZBW/AQ": {
+        "ko": "아쿠아슈즈",
+        "en": "Aqua Shoes",
+        "pt": "Sapatos Aquáticos",
+        "es": "Botas Aqua"
+    },
+    "ZRW/AQ": {
+        "ko": "크림즌슈즈",
+        "en": "Crimson Shoes",
+        "pt": "Sapatos Vermelhos",
+        "es": "Botas carmesí"
+    },
+    "ZhW/AQ": {
+        "ko": "포레스트슈즈",
+        "en": "Forest Shoes",
+        "pt": "Sapatos Florestais",
+        "es": "Botas del bosque"
+    },
+    "ZxW/AQ": {
+        "ko": "골든로드오브",
+        "en": "Golden Rod Orb",
+        "pt": "Orbe do Açoite de Ouro",
+        "es": "Orbe de vara dorada"
+    },
+    "aBW/AQ": {
+        "ko": "아쿠아오브",
+        "en": "Aqua Orb",
+        "pt": "Orbe Aquática",
+        "es": "Orbe Aqua"
+    },
+    "aRW/AQ": {
+        "ko": "크림즌오브",
+        "en": "Crimson Orb",
+        "pt": "Orbe Vermelha",
+        "es": "Orbe carmesí"
+    },
+    "ahW/AQ": {
+        "ko": "포레스트오브",
+        "en": "Forest Orb",
+        "pt": "Orbe Florestal",
+        "es": "Orbe del bosque"
+    },
+    "axW/AQ": {
+        "ko": "골든로드로브",
+        "en": "Golden Rod Robe",
+        "pt": "Manto do Açoite de Ouro",
+        "es": "Bata de vara dorada"
+    },
+    "bBW/AQ": {
+        "ko": "아쿠아로브",
+        "en": "Aqua Robe",
+        "pt": "Manto Aquático",
+        "es": "Túnica Aqua"
+    },
+    "bRW/AQ": {
+        "ko": "크림즌로브",
+        "en": "Crimson Robe",
+        "pt": "Manto Vermelho",
+        "es": "Túnica carmesí"
+    },
+    "bhW/AQ": {
+        "ko": "포레스트로브",
+        "en": "Forest Robe",
+        "pt": "Manto Florestal",
+        "es": "Túnica del bosque"
+    },
+    "bxW/AQ": {
+        "ko": "무기/액세서리",
+        "en": "Weapons and accessories",
+        "pt": "Armas e acessórios",
+        "es": "Armas y accesorios"
+    },
+    "cBW/AQ": {
+        "ko": "방어구",
+        "en": "Equipment",
+        "pt": "Equipamento",
+        "es": "Equipamientos"
+    },
+    "cRW/AQ": {
+        "ko": "치유의빛",
+        "en": "Light of Cure",
+        "pt": "Luz da Cura",
+        "es": "Luz de curación"
+    },
+    "chW/AQ": {
+        "ko": "대성당의인장",
+        "en": "Seal of Cathedral",
+        "pt": "Selo da Catedral",
+        "es": "Sello de la Catedral"
+    },
+    "cxW/AQ": {
+        "ko": "대주교의반지",
+        "en": "Ring of Archbishop",
+        "pt": "Anel do Arcebispo",
+        "es": "Anillo de Arzobispo"
+    },
+    "dBW/AQ": {
+        "ko": "자애의지팡이",
+        "en": "Wand of Affection",
+        "pt": "Cajado da Afeição",
+        "es": "Báculo de misericordia"
+    },
+    "dRW/AQ": {
+        "ko": "심판의메이스",
+        "en": "Mace of Judgement",
+        "pt": "Maça do Julgamento",
+        "es": "Maza del Juicio"
+    },
+    "dhW/AQ": {
+        "ko": "자애의슈즈",
+        "en": "Shoes Of Affection",
+        "pt": "Sapatos da Afeição",
+        "es": "Calzado de misericordia"
+    },
+    "dxW/AQ": {
+        "ko": "심판의슈즈",
+        "en": "Shoes of Judgement",
+        "pt": "Sapatos do Julgamento",
+        "es": "Calzado del veredicto"
+    },
+    "eBW/AQ": {
+        "ko": "자애의숄",
+        "en": "Shawl Of Affection",
+        "pt": "Xale da Afeição",
+        "es": "Manto de misericordia"
+    },
+    "eRW/AQ": {
+        "ko": "심판의숄",
+        "en": "Shawl of Judgement",
+        "pt": "Xale do Julgamento",
+        "es": "Manto del veredicto"
+    },
+    "ehW/AQ": {
+        "ko": "자애의로브",
+        "en": "Robe Of Affection",
+        "pt": "Túnica da Afeição",
+        "es": "Túnica de afecto"
+    },
+    "exW/AQ": {
+        "ko": "심판의로브",
+        "en": "Robe of Judgement",
+        "pt": "Túnica do Julgamento",
+        "es": "Túnica del Juicio"
+    },
+    "fBW/AQ": {
+        "ko": "약속의성서1권",
+        "en": "Bible of Promise (Vol. 1)",
+        "pt": "Bíblia da Promessa (Volume 1)",
+        "es": "Biblia de la promesa (vol. 1)"
+    },
+    "fRW/AQ": {
+        "ko": "[유물관리인]\n제대로 된 선택을 하지 않은 것 같군요. 마음이 정리되면 다시 찾아오시겠습니까?",
+        "en": "[Relics Manager]\nIt seems you didn't make the right choice. Could you come back again?",
+        "pt": "[Gerente de Relíquias]\nParece que você não fez a escolha correta. Você poderia voltar depois?",
+        "es": "[Administrador de Reliquias]\nParece que no tomaste la decisión correcta. ¿Podrías volver otra vez?"
+    },
+    "fhW/AQ": {
+        "ko": "[유물관리인]\n해당 유물은 ^0000FF{0}^000000개의 모라마을 주화가 필요한 유물이예요. 충분한 수량의 주화를 보유하시면 다시 찾아와 주시겠어요?",
+        "en": "[Relics Manager]\nThis relic costs ^0000FF{0}^000000 Mora Coins. You do not have the required amount.",
+        "pt": "[Gerente de Relíquias]\nEsta relíquia custa ^0000FF{0}^000000 Moedas de Mora. Você não tem o suficiente.",
+        "es": "[Administrador de Reliquias]\nEsta reliquia cuesta ^0000FF{0}^000000 Monedas de Mora. No tienes la cantidad requerida."
+    },
+    "fxW/AQ": {
+        "ko": "[유물관리인]\n모라마을 주화 ^0000FF{0}^000000개를 ^0000FF{1}^000000의 유물로 교체해 드렸습니다. 다음에 기회가 된다면 또 뵙도록 하지요",
+        "en": "[Relics Manager]\nI exchanged ^0000FF{0}^000000 Mora Coins for relics of ^0000FF{1}^000000. Please come again!",
+        "pt": "[Gerente de Relíquias]\nEu troquei ^0000FF{0}^000000 Moedas de Mora por relíquias de ^0000FF{1}^000000. Volte sempre!",
+        "es": "[Administrador de Reliquias]\nYo cambié ^0000FF{0}^000000 Monedas de Mora por reliquias de ^0000FF{1}^000000. ¡Vuelve a menudo!"
+    },
+    "gBW/AQ": {
+        "ko": "유물연구자",
+        "en": "Relic Researcher",
+        "pt": "Pesquisadora de Relíquias",
+        "es": "Investigador de reliquias"
+    },
+    "gRW/AQ": {
+        "ko": "랜덤옵션 체크 기능 추가.",
+        "en": "GM MODE",
+        "pt": "GM MODE",
+        "es": "GM MODE"
+    },
+    "ghW/AQ": {
+        "ko": "[유물연구자]\n저로 말씀드릴 것 같으면 이 모라마을에서 고대 유물의 강화를 대대로 해온 연구자입니다. 새로운 유물의 발견으로 이렇게 모험가님의 앞에 서게 되었죠.",
+        "en": "[Relic Researcher]\nMy research involves enchanting the relics found in Mora.",
+        "pt": "[Pesquisadora de Relíquias]\nMinha pesquisa envolve o encantamento de relíquias encontradas em Mora.",
+        "es": "[Investigadora de reliquias]\nMi investigación consiste en encantar las reliquias encontradas en Mora."
+    },
+    "gxW/AQ": {
+        "ko": "자세한 이야기를 듣고싶군요",
+        "en": "I would like to know more",
+        "pt": "Gostaria de saber mais",
+        "es": "Me gustaría saber más"
+    },
+    "hBW/AQ": {
+        "ko": "유물에 능력치부여",
+        "en": "Enchant relics",
+        "pt": "Encantar relíquias",
+        "es": "Encantar reliquias"
+    },
+    "hRW/AQ": {
+        "ko": "강화능력치 초기화",
+        "en": "Reset enchantments",
+        "pt": "Reiniciar encantamentos",
+        "es": "Redefinir encantamientos"
+    },
+    "hhW/AQ": {
+        "ko": "[유물연구자]\n새로운 유물이 여기저기서 발견되고 있다는 소식은 들으셨겠지요?",
+        "en": "[Relic Researcher]\nHave you heard the rumors that new relics are being found out there?",
+        "pt": "[Pesquisadora de Relíquias]\nVocê ouviu os rumores de que novas relíquias foram encontradas por ali?",
+        "es": "[Investigadora de reliquias]\n¿Has oído los rumores de que se están encontrando nuevas reliquias por ahí?"
+    },
+    "hxW/AQ": {
+        "ko": "[유물연구자]\n만약 모험가님이 유물을 찾을 수 있게 된다면 한번 저에게 들고와 주십시오. 숨어있는 유물의 힘을 이끌어내는 실험을 해 보고 싶으니까요",
+        "en": "[Relic Researcher]\nIf you find any relics, please bring them to me. I want to try enchanting these relics with a hidden power.",
+        "pt": "[Pesquisadora de Relíquias]\nSe você encontrar quaisquer relíquias, por favor, traga-as para mim. Quero tentar encantá-las com um poder oculto.",
+        "es": "[Investigadora de reliquias]\nSi encuentras alguna reliquia, por favor tráemela. Quiero experimentar el encantamiento de estas reliquias con poder oculto."
+    },
+    "iBW/AQ": {
+        "ko": "[유물연구자]\n물론 연구를 위해 소정의 모라마을 주화를 받고있습니다. 이건 어쩔 수 없어요, 저도 흙을 파서 연구를 하는게 아니니까...",
+        "en": "[Relic Researcher]\nOf course, I'm getting Mora Coins for the research. I can't depend on the research grant...",
+        "pt": "[Pesquisadora de Relíquias]\nClaro, aceito Moedas de Mora pela pesquisa. Não posso depender de concessões acadêmicas…",
+        "es": "[Investigadora de reliquias]\nPor supuesto, recibo Monedas de Mora para la investigación. No puedo depender solo de la beca de investigación..."
+    },
+    "iRW/AQ": {
+        "ko": "[유물연구자]\n1회의 강화, 또는 초기화에 모라마을 주화 1개를 받고 있으니 언제라도 유물의 능력을 끌어내고 싶으시다면 절 찾아오십시오.",
+        "en": "[Relic Researcher]\nYou will pay 1 Mora Coin to add 1 random enchantment to your relic.",
+        "pt": "[Pesquisadora de Relíquias]\nVocê pagará 1 Moeda de Mora para adicionar 1 encantamento aleatório à sua relíquia.",
+        "es": "[Investigadora de reliquias]\nPagarás 1 Moneda de Mora para agregar 1 encantamiento aleatorio a tu reliquia."
+    },
+    "ihW/AQ": {
+        "ko": "[유물연구자]\n참고로, 일부 장비는 ^FF0000+9제련^000000 이상의 장비를 들고 오시면 숨겨진 더 큰 힘을 선택 가능합니다.",
+        "en": "[Relic Researcher]\nIf your relic has a ^FF0000refinement of +9 or more^000000, a stronger enchantment will be added.",
+        "pt": "[Pesquisadora de Relíquias]\nSe sua relíquia tiver um ^FF0000refinamento de +9 ou superior^000000, um encantamento mais forte será adicionado.",
+        "es": "[Investigadora de reliquias]\nSi tu reliquia tiene ^FF0000un refinamiento de +9 o más^000000, se agregará un encantamiento más fuerte."
+    },
+    "ixW/AQ": {
+        "ko": "[유물연구자]\n그리고 한가지 더 말씀드리자면, 저는 힘을 부여할때 제련도와 카드를 손상시키지 않는 방법을 알고있으니 그 부분은 안심하셔도 됩니다.",
+        "en": "[Relic Researcher]\nThe entire process will not cause any loss in refinement or already equipped cards.",
+        "pt": "[Pesquisadora de Relíquias]\nO processo inteiro não causará nenhuma perda de refinamento ou cartas já equipadas.",
+        "es": "[Investigadora de reliquias]\nTodo el proceso no provocará ninguna pérdida de refinamiento ni de cartas ya equipadas."
+    },
+    "jBW/AQ": {
+        "ko": "[유물연구자]\n제가 강화를 해드리려면 뭔가 보상을 주셔야하지 않습니까? 하지만 지금 모험가님에겐 그런 성의가 보이지 않는군요.",
+        "en": "[Relic Researcher]\nMy research service costs 1 Mora Coin, it's not too much to ask.",
+        "pt": "[Pesquisadora de Relíquias]\nMinha pesquisa custa 1 Moeda de Mora, se não for pedir demais.",
+        "es": "[Investigadora de reliquias]\nMi servicio de investigación cuesta 1 Moneda de Mora, creo que no es pedir mucho."
+    },
+    "jRW/AQ": {
+        "ko": "[유물연구자]\n아이템 강화시 가장 마지막 슬롯부터 순차적으로 강화될 것입니다. 제련도와 이미 부여된 효능은 유지되며 실패확률은 없습니다. 계속 진행 하시겠습니까?",
+        "en": "[Relic Researcher]\nThere is no chance of failure, no loss of card and refinement. Do you want to continue?",
+        "pt": "[Pesquisadora de Relíquias]\nNão há chance de falha, perda de carta ou refinamento. Deseja prosseguir?",
+        "es": "[Investigadora de reliquias]\nNo hay posibilidad de fracaso, ni pérdida de cartas ni de refinamiento. ¿Quieres continuar?"
+    },
+    "jhW/AQ": {
+        "ko": "강화를 진행한다",
+        "en": "Yes, continue",
+        "pt": "Sim, prossiga",
+        "es": "Sí, continuar"
+    },
+    "jxW/AQ": {
+        "ko": "[유물연구자]\n마음이 바뀌면 언제라도 찾아오세요.",
+        "en": "[Relic Researcher]\nIf you change your mind, come see me.",
+        "pt": "[Pesquisadora de Relíquias]\nSe mudar de ideia, me procure novamente.",
+        "es": "[Investigadora de reliquias]\nSi cambias de opinión, ven a verme."
+    },
+    "kBW/AQ": {
+        "ko": "[유물연구자]\n제가 초기화를 해드리려면 뭔가 보상을 주셔야하지 않습니까? 하지만 지금 모험가님에겐 그런 성의가 보이지 않는군요.",
+        "en": "[Relic Researcher]\nMy research service costs 1 Mora Coin, it's not too much to ask.",
+        "pt": "[Pesquisadora de Relíquias]\nMinha pesquisa custa 1 Moeda de Mora, se não for pedir demais.",
+        "es": "[Investigadora de reliquias]\nMi servicio de investigación cuesta 1 Moneda de Mora, creo que no es pedir mucho."
+    },
+    "kRW/AQ": {
+        "ko": "[유물연구자]\n자아 그럼 슬슬 시작해볼까요? 시작하기전에 작업을 할 장비는 미리 몸에 장비하시고 선택해주세요.",
+        "en": "[Relic Researcher]\nLet's go quickly, equip your item and select the equipment to be enchanted.",
+        "pt": "[Pesquisadora de Relíquias]\nVai logo, equipe seu item e selecione o equipamento a ser encantado.",
+        "es": "[Investigadora de reliquias]\nVayamos rápido, equipemos nuestro objeto y seleccionemos el equipo a encantar."
+    },
+    "khW/AQ": {
+        "ko": "장비를 입고올께요",
+        "en": "Wait, let me equip",
+        "pt": "Espere, deixe eu me equipar",
+        "es": "Espera, déjame equipar"
+    },
+    "kxW/AQ": {
+        "ko": "1.무기",
+        "en": "1. Weapon",
+        "pt": "1. Arma",
+        "es": "1. Arma"
+    },
+    "lBW/AQ": {
+        "ko": "2.신발",
+        "en": "2. Shoe",
+        "pt": "2. Calçado",
+        "es": "2. Calzado"
+    },
+    "lRW/AQ": {
+        "ko": "3.걸칠것",
+        "en": "3. Mantle",
+        "pt": "3. Capa",
+        "es": "3. Capa"
+    },
+    "lhW/AQ": {
+        "ko": "4.옷",
+        "en": "4. Armor",
+        "pt": "4. Armadura",
+        "es": "4. Armadura"
+    },
+    "lxW/AQ": {
+        "ko": "5.액세서리",
+        "en": "5. Accessory",
+        "pt": "5. Acessório",
+        "es": "5. Accesorio"
+    },
+    "mBW/AQ": {
+        "ko": "6.방패/보조장비",
+        "en": "6. Shield",
+        "pt": "6. Escudo",
+        "es": "6. Escudo"
+    },
+    "mRW/AQ": {
+        "ko": "[유물연구자]\n장비를 장착하고나면 다시 방문해주십시오",
+        "en": "[Relic Researcher]\nYou were supposed to come here with it equipped.",
+        "pt": "[Pesquisadora de Relíquias]\nVocê deveria vir aqui com o item equipado.",
+        "es": "[Investigadora de reliquias]\nDeberías venir aquí con él equipado."
+    },
+    "mhW/AQ": {
+        "ko": "[유물연구자]\n장비를 벗고 계신건 아닌가요?",
+        "en": "[Relic Researcher]\nYou're not trying to take off your equipment, right?",
+        "pt": "[Pesquisadora de Relíquias]\nVocê não está tentando tirar seu equipamento, né?",
+        "es": "[Investigadora de reliquias]\nNo estás intentando quitarte el equipamiento, ¿verdad?"
+    },
+    "mxW/AQ": {
+        "ko": "[유물연구자]\n입고있던 장비를 중간에 벗으면 굉장히 위험합니다.",
+        "en": "[Relic Researcher]\nIt is not good to remove equipment while enchanting.",
+        "pt": "[Pesquisadora de Relíquias]\nNão é bom tirar o equipamento enquanto está sendo encantado.",
+        "es": "[Investigadora de reliquias]\nNo es bueno quitarse el equipo mientras se encanta."
+    },
+    "nBW/AQ": {
+        "ko": "[유물연구자]\n제가 작업을 해드리려면 뭔가 보상을 주셔야하지 않습니까? 하지만 지금 모험가님에겐 그런 성의가 보이지 않는군요",
+        "en": "[Relic Researcher]\nShouldn't you pay for my research with Mora Coins? Where are yours?",
+        "pt": "[Pesquisadora de Relíquias]\nVocê não deveria pagar pela minha pesquisa com Moedas de Mora? Onde estão as suas?",
+        "es": "[Investigadora de reliquias]\n¿No deberías pagar mi investigación con Monedas de Mora? ¿Dónde están las tuyas?"
+    },
+    "nRW/AQ": {
+        "ko": "[유물연구자]\n이 장비는 제가 연구하길 원하는 장비는 아니네요...",
+        "en": "[Relic Researcher]\nThis equipment is not the subject of my research...",
+        "pt": "[Pesquisadora de Relíquias]\nEsse equipamento não está sujeito à minha pesquisa…",
+        "es": "[Investigadora de reliquias]\nEste equipamiento no es el tema de mi investigación..."
+    },
+    "nhW/AQ": {
+        "ko": "ATK계열",
+        "en": "Pesquisa sobre Ataque",
+        "pt": "Pesquisa sobre Ataque",
+        "es": "Pesquisa sobre Ataque"
+    },
+    "nxW/AQ": {
+        "ko": "크리티컬계열",
+        "en": "Pesquisa sobre Crítico",
+        "pt": "Pesquisa sobre Crítico",
+        "es": "Pesquisa sobre Crítico"
+    },
+    "oBW/AQ": {
+        "ko": "회피계열",
+        "en": "Pesquisa sobre Esquiva",
+        "pt": "Pesquisa sobre Esquiva",
+        "es": "Pesquisa sobre Esquiva"
+    },
+    "oRW/AQ": {
+        "ko": "힐러계열",
+        "en": "Pesquisa sobre Cura",
+        "pt": "Pesquisa sobre Cura",
+        "es": "Pesquisa sobre Cura"
+    },
+    "ohW/AQ": {
+        "ko": "주문능력1",
+        "en": "Pesquisa sobre Magia 1",
+        "pt": "Pesquisa sobre Magia 1",
+        "es": "Pesquisa sobre Magia 1"
+    },
+    "oxW/AQ": {
+        "ko": "보조능력1",
+        "en": "Pesquisa Básica 1",
+        "pt": "Pesquisa Básica 1",
+        "es": "Pesquisa Básica 1"
+    },
+    "pBW/AQ": {
+        "ko": "보조능력2",
+        "en": "Pesquisa Básica 2",
+        "pt": "Pesquisa Básica 2",
+        "es": "Pesquisa Básica 2"
+    },
+    "pRW/AQ": {
+        "ko": "체력위주",
+        "en": "Pesquisa sobre Saúde",
+        "pt": "Pesquisa sobre Saúde",
+        "es": "Pesquisa sobre Saúde"
+    },
+    "phW/AQ": {
+        "ko": "원거리계열",
+        "en": "Pesquisa sobre Mira",
+        "pt": "Pesquisa sobre Mira",
+        "es": "Pesquisa sobre Mira"
+    },
+    "pxW/AQ": {
+        "ko": "물리계열",
+        "en": "Pesquisa Corporal",
+        "pt": "Pesquisa Corporal",
+        "es": "Pesquisa Corporal"
+    },
+    "qBW/AQ": {
+        "ko": "주문능력2",
+        "en": "Pesquisa sobre Magia 2",
+        "pt": "Pesquisa sobre Magia 2",
+        "es": "Pesquisa sobre Magia 2"
+    },
+    "qRW/AQ": {
+        "ko": "[유물연구자]\n뭔가 잘못되었군요.",
+        "en": "[Relic Researcher]\nSomething went wrong.",
+        "pt": "[Pesquisadora de Relíquias]\nAlgo deu errado.",
+        "es": "[Investigadora de reliquias]\nAlgo salió mal."
+    },
+    "qhW/AQ": {
+        "ko": "ATK계열",
+        "en": "Pesquisa sobre Ataque",
+        "pt": "Pesquisa sobre Ataque",
+        "es": "Pesquisa sobre Ataque"
+    },
+    "qxW/AQ": {
+        "ko": "크리티컬계열",
+        "en": "Pesquisa sobre Crítico",
+        "pt": "Pesquisa sobre Crítico",
+        "es": "Pesquisa sobre Crítico"
+    },
+    "rBW/AQ": {
+        "ko": "회피계열",
+        "en": "Pesquisa sobre Esquiva",
+        "pt": "Pesquisa sobre Esquiva",
+        "es": "Pesquisa sobre Esquiva"
+    },
+    "rRW/AQ": {
+        "ko": "힐러계열",
+        "en": "Pesquisa sobre Cura",
+        "pt": "Pesquisa sobre Cura",
+        "es": "Pesquisa sobre Cura"
+    },
+    "rhW/AQ": {
+        "ko": "주문능력1",
+        "en": "Pesquisa sobre Magia 1",
+        "pt": "Pesquisa sobre Magia 1",
+        "es": "Pesquisa sobre Magia 1"
+    },
+    "rxW/AQ": {
+        "ko": "보조능력1",
+        "en": "Pesquisa Básica 1",
+        "pt": "Pesquisa Básica 1",
+        "es": "Pesquisa Básica 1"
+    },
+    "sBW/AQ": {
+        "ko": "보조능력2",
+        "en": "Pesquisa Básica 2",
+        "pt": "Pesquisa Básica 2",
+        "es": "Pesquisa Básica 2"
+    },
+    "sRW/AQ": {
+        "ko": "체력위주",
+        "en": "Pesquisa sobre Saúde",
+        "pt": "Pesquisa sobre Saúde",
+        "es": "Pesquisa sobre Saúde"
+    },
+    "shW/AQ": {
+        "ko": "원거리계열",
+        "en": "Pesquisa sobre Mira",
+        "pt": "Pesquisa sobre Mira",
+        "es": "Pesquisa sobre Mira"
+    },
+    "sxW/AQ": {
+        "ko": "물리계열",
+        "en": "Pesquisa Corporal",
+        "pt": "Pesquisa Corporal",
+        "es": "Pesquisa Corporal"
+    },
+    "tBW/AQ": {
+        "ko": "주문능력2",
+        "en": "Pesquisa sobre Magia 2",
+        "pt": "Pesquisa sobre Magia 2",
+        "es": "Pesquisa sobre Magia 2"
+    },
+    "tRW/AQ": {
+        "ko": "[유물연구자]\n상당한 강화가 이루어진 장비로군요. 이 경우에는 확장된 강화효능을 부여할 수 있습니다. 아래의 계열중 마음에 드는 효능위주로 강화를 해 드리도록 하지요.",
+        "en": "[Relic Researcher]\nYour relic is very well refined, this means you will be able to choose the category of enchantments available.",
+        "pt": "[Pesquisadora de Relíquias]\nSua relíquia está muito bem refinada, isso quer dizer que você será capaz de escolher a categoria de encantamentos disponíveis.",
+        "es": "[Investigadora de reliquias]\nTu reliquia está muy bien refinada, esto significa que podrás elegir la categoría de encantamientos disponibles."
+    },
+    "thW/AQ": {
+        "ko": "[유물연구자]\n이미 한계치까지 강화가 된 장비군요. 이 유물은 더 이상의 강화는 불가능하니 다른 유물을 가지고 오는게 좋겠어요.",
+        "en": "[Relic Researcher]\nThis relic already has all slots enchanted.",
+        "pt": "[Pesquisadora de Relíquias]\nEsta relíquia já tem todos os slots encantados.",
+        "es": "[Investigadora de reliquias]\nEsta reliquia ya tiene todas las ranuras con encantamientos."
+    },
+    "txW/AQ": {
+        "ko": "[유물연구자]\n음, 잘못된 물건인 것 같군요. 잘 확인해보시죠",
+        "en": "[Relic Researcher]\nWell, it looks like it's wrong. Let's take a look.",
+        "pt": "[Pesquisadora de Relíquias]\nBem, parece que está errado. Vamos dar uma olhada.",
+        "es": "[Investigadora de reliquias]\nBueno, parece que está mal. Echemos un vistazo."
+    },
+    "uBW/AQ": {
+        "ko": "[유물연구자]\n한계치까지 강화가 된 유물같군요",
+        "en": "[Relic Researcher]\nIt seems this relic has already been enchanted enough.",
+        "pt": "[Pesquisadora de Relíquias]\nParece que esta relíquia já tem encantamentos suficientes.",
+        "es": "[Investigadora de reliquias]\nParece que esta reliquia ya ha sido encantada lo suficiente."
+    },
+    "uRW/AQ": {
+        "ko": "^FF0000랜덤옵션이 확인됩니다. 해당 장비는 작업 하실 수 없습니다.^000000",
+        "en": "^FF0000It cannot be enchanted because it has random bonuses.^000000",
+        "pt": "^FF0000Não pode ser encantada pois já tem bônus aleatórios.^000000",
+        "es": "^FF0000No se puede encantar por tener bonificaciones aleatorias.^000000"
+    },
+    "uhW/AQ": {
+        "ko": "[유물연구자]\n유물의 ^990000{0}번째 소켓^000000에 능력치를 부여합니다",
+        "en": "[Relic Researcher]\nEnchanting the slot ^990000{0}^000000 of the relic!",
+        "pt": "[Pesquisadora de Relíquias]\nEncantando o slot ^990000{0}^000000 da relíquia!",
+        "es": "[Investigadora de reliquias]\nEncantando el ^990000{0}º espacio^000000 de la reliquia!"
+    },
+    "uxW/AQ": {
+        "ko": "[유물연구자]\n제가 강화를 해드리려면 뭔가 보상을 주셔야하지 않습니까? 하지만 지금 모험가님에겐 그런 성의가 보이지 않는군요...",
+        "en": "[Relic Researcher]\nShouldn't you pay me in Mora Coins? Where are they...?",
+        "pt": "[Pesquisadora de Relíquias]\nVocê não deveria me pagar em Moedas de Mora? Cadê…?",
+        "es": "[Investigadora de reliquias]\n¿No deberías pagarme con Monedas de Mora? ¿Dónde ellas están...?"
+    },
+    "vBW/AQ": {
+        "ko": "[유물연구자]\n초기화시에는 ^FF000020% 확률로 장비가 파괴될 수 있습니다.^000000 정말 진행 하시겠습니까?",
+        "en": "[Relic Researcher]\nThere is a ^FF000020% chance of losing the relic^000000. Do you wish to continue?",
+        "pt": "[Pesquisadora de Relíquias]\nHá ^FF000020% de chance de perder a relíquia^000000. Deseja prosseguir?",
+        "es": "[Investigadora de reliquias]\nHay una posibilidad de ^FF000020% de perder la reliquia^000000. ¿Quieres continuar?"
+    },
+    "vRW/AQ": {
+        "ko": "초기화 한다",
+        "en": "Reset enchantment",
+        "pt": "Reiniciar encantamento",
+        "es": "Redefinir encantamiento"
+    },
+    "vhW/AQ": {
+        "ko": "[유물연구자]\n그럼 다음 기회에 뵙도록 하지요",
+        "en": "[Relic Researcher]\nSee you next time!",
+        "pt": "[Pesquisadora de Relíquias]\nA gente se vê outra hora!",
+        "es": "[Investigadora de reliquias]\n¡Hasta la próxima!"
+    },
+    "vxW/AQ": {
+        "ko": "[유물연구자]\n그 유물엔 아무 작업도 되어있지 않군요. 초기화는 불가능합니다.",
+        "en": "[Relic Researcher]\nIt is not possible to reset the enchantments of this relic.",
+        "pt": "[Pesquisadora de Relíquias]\nNão é possível reiniciar os encantamentos dessa relíquia.",
+        "es": "[Investigadora de reliquias]\nNo es posible redefinir los encantamientos de esta reliquia."
+    },
+    "wBW/AQ": {
+        "ko": "[유물연구자]\n유물의 능력치를 초기화 합니다.",
+        "en": "[Relic Researcher]\nReset completed.",
+        "pt": "[Pesquisadora de Relíquias]\nReiniciamento finalizado.",
+        "es": "[Investigadora de reliquias]\nRedefinición completada."
+    },
+    "wRW/AQ": {
+        "ko": "[유물연구자]\n이런, 초기화 중에 마력을 이기지 못하고 장비가 파괴되었군요...",
+        "en": "[Relic Researcher]\nOh, so my research went wrong...",
+        "pt": "[Pesquisadora de Relíquias]\nAh, então minha pesquisa deu errado…",
+        "es": "[Investigadora de reliquias]\nAh, entonces mi investigación salió mal..."
+    },
+    "whW/AQ": {
+        "ko": "[유물연구자]\n제가 강화를 해드리려면 뭔가 보상을 주셔야하지 않습니까? 하지만 지금 모험가님에겐 그런 성의가 보이지 않는군요",
+        "en": "[Relic Researcher]\nI would like to receive Mora Coins for my work.",
+        "pt": "[Pesquisadora de Relíquias]\nGostaria de receber Moedas de Mora pelo meu trabalho.",
+        "es": "[Investigadora de reliquias]\nMe gustaría recibir Monedas de Mora por mi trabajo."
+    },
+    "wxW/AQ": {
+        "ko": "[유물연구자]\n뭔가 잘못된 작업을 선택한듯??",
+        "en": "[Relic Researcher]\nMaybe something went wrong?",
+        "pt": "[Pesquisadora de Relíquias]\nTalvez algo tenha dado errado?",
+        "es": "[Investigadora de reliquias]\n¿Algo salió mal?"
+    },
+    "xBW/AQ": {
+        "ko": "폐기유물 수거기",
+        "en": "Garbage Collector",
+        "pt": "Coletora de Lixo",
+        "es": "Recolectora de Basura"
+    },
+    "xRW/AQ": {
+        "ko": "[폐기유물 수거기]\n폐기하실 유물은 하루 1회 수거 해 드립니다. 내일 다시 와주시기 바랍니다.",
+        "en": "[Garbage Collector]\nRelics can only be discarded once per day. Come back tomorrow.",
+        "pt": "[Coletora de Lixo]\nRelíquias só podem ser descartadas uma vez por dia. Volte amanhã.",
+        "es": "[Recolectora de Basura]\nLas reliquias solo se pueden descartar una vez al día. Vuelve mañana."
+    },
+    "xhW/AQ": {
+        "ko": "[폐기유물 수거기]\n사용하지 않는 유물 1개당 모라마을 주화 10개로 교환해드립니다",
+        "en": "[Garbage Collector]\nFor each relic discarded, we refund 10 Mora Coins.",
+        "pt": "[Coletora de Lixo]\nPara cada relíquia descartada, ressarcimos 10 Moedas de Mora.",
+        "es": "[Recolectora de Basura]\nPor cada reliquia descartada, te reembolsamos 10 Monedas de Mora."
+    },
+    "xxW/AQ": {
+        "ko": "[폐기유물 수거기]\n^FF0000제련도, 인챈트 효능에 관계없이 인벤토리에 있는 모든 유물을 수거할 예정^000000이오니 주화로 교체하지 않을 유물은 안전한 곳에 보관해주십시오",
+        "en": "[Garbage Collector]\n^FF0000Cards, refinements and enchantments^000000 will not be refunded.",
+        "pt": "[Coletora de Lixo]\n^FF0000Cartas, refinamentos e encantamentos^000000 não serão ressarcidos.",
+        "es": "[Recolectora de Basura]\nNo se reembolsarán ^FF0000cartas, refinamientos y encantamientos."
+    },
+    "yBW/AQ": {
+        "ko": "[폐기유물 수거기]\n인벤토리의 모든 유물이 수거될 준비가 되셨다면 다음버튼을 눌러 주십시오. 이후에는 안내화면의 지시사항을 잘 따라주시기 바랍니다.",
+        "en": "[Garbage Collector]\nIf everything is ok for disposal, press the red button and follow the instructions on the screen.",
+        "pt": "[Coletora de Lixo]\nSe tudo estiver certo para descarte, aperte o botão vermelho e siga as instruções na tela.",
+        "es": "[Recolectora de Basura]\nSi todo está bien para descartar, presione el botón rojo y siga las instrucciones en la pantalla."
+    },
+    "yRW/AQ": {
+        "ko": "[폐기유물 수거기]\n잘못된 유물을 구매하신 분들을 위한 편의 시설이므로 이용은 ^FF0000하루 1회로 제한됩니다.^000000 이 점 유의하십시오.",
+        "en": "[Garbage Collector]\nThis service was created for people who chose the wrong relic. Therefore, it can only be used ^FF0000once per day^000000.",
+        "pt": "[Coletora de Lixo]\nEste serviço foi criado para pessoas que escolheram a relíquia incorreta. Portanto, só pode ser usado ^FF0000uma vez por dia^000000.",
+        "es": "[Recolectora de Basura]\nEste servicio fue creado para personas que eligieron la reliquia equivocada. Por tanto, sólo se puede utilizarlo ^FF0000una vez al día^000000."
+    },
+    "yhW/AQ": {
+        "ko": "준비하고 다시오겠다.",
+        "en": "Give up",
+        "pt": "Desistir",
+        "es": "Abandonar"
+    },
+    "yxW/AQ": {
+        "ko": "유물수거 시작",
+        "en": "Discard relics",
+        "pt": "Descartar relíquias",
+        "es": "Descartar reliquias"
+    },
+    "zBW/AQ": {
+        "ko": "^980078작업을 중단하셨습니다.^000000",
+        "en": "^980078Operation canceled.^000000",
+        "pt": "^980078Operação cancelada.^000000",
+        "es": "^980078Operación cancelada.^000000"
+    },
+    "zRW/AQ": {
+        "ko": "^980078골든로드 스태프^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Golden Rod Staff^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Cajado do Açoite de Ouro^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Báculo de vara dorada^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "zhW/AQ": {
+        "ko": "하지 않는다",
+        "en": "No",
+        "pt": "Não",
+        "es": "No"
+    },
+    "zxW/AQ": {
+        "ko": "교환 한다",
+        "en": "Yes",
+        "pt": "Sim",
+        "es": "Sí"
+    },
+    "0BW/AQ": {
+        "ko": "^980078다른 유물을 검색해 보시겠습니까?^000000",
+        "en": "^980078Can I continue searching your inventory for other relics?^000000",
+        "pt": "^980078Posso continuar buscando por outras relíquias no seu inventário?^000000",
+        "es": "^980078¿Puedo seguir buscando otras reliquias en tu inventario?^000000"
+    },
+    "0RW/AQ": {
+        "ko": "검색 한다",
+        "en": "Keep searching",
+        "pt": "Continuar a busca",
+        "es": "Sigue buscando"
+    },
+    "0hW/AQ": {
+        "ko": "^980078유물 검색을 중단하셨습니다.^000000",
+        "en": "^980078Operation canceled.^000000",
+        "pt": "^980078Operação cancelada.^000000",
+        "es": "^980078Operación cancelada.^000000"
+    },
+    "0xW/AQ": {
+        "ko": "^980078골든로드 스태프와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "1BW/AQ": {
+        "ko": "^980078교환할 카드를 소지하지 않은 상태입니다.^000000",
+        "en": "^980078You have no relics to trade.^000000",
+        "pt": "^980078Você não tem relíquias para trocar.^000000",
+        "es": "^980078No tienes reliquias para intercambiar.^000000"
+    },
+    "1RW/AQ": {
+        "ko": "^980078아쿠아 스태프^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Aqua Staff^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Cajado Aquático^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Báculo de Aqua^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "1hW/AQ": {
+        "ko": "^980078아쿠아 스태프와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "1xW/AQ": {
+        "ko": "^980078크림즌 스태프^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Crimson Staff^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Cajado Vermelho^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Báculo carmesí^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "2BW/AQ": {
+        "ko": "^980078크림즌 스태프와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "2RW/AQ": {
+        "ko": "^980078포레스트 스태프^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Forest Staff^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Cajado Florestal^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Báculo del bosque^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "2hW/AQ": {
+        "ko": "^980078포레스트 스태프와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "2xW/AQ": {
+        "ko": "^980078골든로드 슈즈^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Golden Rod Shoes^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Sapatos do Açoite de Ouro^000000 são uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Botas de vara dorada^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "3BW/AQ": {
+        "ko": "^980078골든로드 슈즈와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "3RW/AQ": {
+        "ko": "^980078아쿠아 슈즈^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Aqua Shoes^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Sapatos Aquáticos^000000 são uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Botas Aqua^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "3hW/AQ": {
+        "ko": "^980078아쿠아 슈즈와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "3xW/AQ": {
+        "ko": "^980078크림즌 슈즈^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Crimson Shoes^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Sapatos Vermelhos^000000 são uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Botas carmesí^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "4BW/AQ": {
+        "ko": "^980078크림즌 슈즈와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "4RW/AQ": {
+        "ko": "^980078포레스트 슈즈^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Forest Shoes^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Sapatos Florestais^000000 são uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Botas del bosque^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "4hW/AQ": {
+        "ko": "^980078포레스트 슈즈와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "4xW/AQ": {
+        "ko": "^980078골든로드 오브^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Golden Rod Orb^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Orbe do Açoite de Ouro^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Orbe de vara dorada^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "5BW/AQ": {
+        "ko": "^980078골든로드 오브와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "5RW/AQ": {
+        "ko": "^980078아쿠아 오브^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Aqua Orb^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Orbe Aquática^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Orbe Aqua^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "5hW/AQ": {
+        "ko": "^980078아쿠아 오브와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "5xW/AQ": {
+        "ko": "^980078크림즌 오브^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Crimson Orb^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Orbe Vermelha^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Orbe carmesí^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "6BW/AQ": {
+        "ko": "^980078크림즌 오브와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "6RW/AQ": {
+        "ko": "^980078포레스트 오브^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Forest Orb^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Orbe Florestal^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Orbe del bosque^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "6hW/AQ": {
+        "ko": "^980078포레스트 오브와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "6xW/AQ": {
+        "ko": "^980078골든로드 로브^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Golden Rod Robe^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Manto do Açoite de Ouro^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Bata vara dorada^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "7BW/AQ": {
+        "ko": "^980078골든로드 로브와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "7RW/AQ": {
+        "ko": "^980078아쿠아 로브^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Aqua Robe^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Manto Aquático^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Albornoz Aqua^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "7hW/AQ": {
+        "ko": "^980078아쿠아 로브와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "7xW/AQ": {
+        "ko": "^980078크림즌 로브^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Crimson Robe^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Manto Vermelho^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Túnica carmesí^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "8BW/AQ": {
+        "ko": "^980078크림즌 로브와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "8RW/AQ": {
+        "ko": "^980078포레스트 로브^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Forest Robe^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Manto Florestal^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Túnica del bosque^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "8hW/AQ": {
+        "ko": "^980078포레스트 로브와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "8xW/AQ": {
+        "ko": "^980078치유의 빛^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Light of Cure^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Luz da Cura^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Luz de curación^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "9BW/AQ": {
+        "ko": "^980078치유의 빛와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "9RW/AQ": {
+        "ko": "^980078대성당의 인장^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Seal of Cathedral^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Selo da Catedral^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Sello de la Catedral^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "9hW/AQ": {
+        "ko": "^980078대성당의 인장와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "9xW/AQ": {
+        "ko": "^980078대주교의 반지^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Ring of Archbishop^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Anel do Arcebispo^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Anillo de Arzobispo^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "+BW/AQ": {
+        "ko": "^980078대주교의 반지와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "+RW/AQ": {
+        "ko": "^980078자애의 지팡이^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Wand of Affection^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Cajado da Afeição^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Báculo de misericordia^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "+hW/AQ": {
+        "ko": "^980078자애의 지팡이와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "+xW/AQ": {
+        "ko": "^980078심판의 메이스^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Mace of Judgement^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Maça do Julgamento^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Maza del Juicio^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "/BW/AQ": {
+        "ko": "^980078심판의 메이스와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "/RW/AQ": {
+        "ko": "^980078자애의 슈즈^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Shoes of Affection^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Sapatos da Afeição^000000 são uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Calzado de misericordia^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "/hW/AQ": {
+        "ko": "^980078자애의 슈즈와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "/xW/AQ": {
+        "ko": "^980078심판의 슈즈^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Shoes of Judgement^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Sapatos do Julgamento^000000 são uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Calzado del veredicto^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "ABa/AQ": {
+        "ko": "^980078심판의 슈즈와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "ARa/AQ": {
+        "ko": "^980078자애의숄^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Shawl Of Affection^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Xale da Afeição^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Manto de misericordia^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "Aha/AQ": {
+        "ko": "^980078자애의숄와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "Axa/AQ": {
+        "ko": "^980078심판의숄^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Shawl of Judgement^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Xale do Julgamento^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Manto del veredicto^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "BBa/AQ": {
+        "ko": "^980078심판의숄와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "BRa/AQ": {
+        "ko": "^980078자애의 로브^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Robe of Affection^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Túnica da Afeição^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Túnica de afecto^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "Bha/AQ": {
+        "ko": "^980078자애의 로브와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "Bxa/AQ": {
+        "ko": "^980078심판의 로브^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Robe of Judgement^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Túnica do Julgamento^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Túnica del Juicio^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "CBa/AQ": {
+        "ko": "^980078심판의 로브와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "CRa/AQ": {
+        "ko": "^980078약속의 성서 1권^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Bible of Promise vol.1^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Bíblia da Promessa (Volume 1)^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Biblia de la promesa vol.1^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "Cha/AQ": {
+        "ko": "^980078약속의 성서 1권와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "Cxa/AQ": {
+        "ko": "^980078우르의 그리브^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Ur's Greaves^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Grevas de Ur^000000 são uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Grebas de Ur^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "DBa/AQ": {
+        "ko": "^980078우르의 그리브와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "DRa/AQ": {
+        "ko": "^980078우르의 망토^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Ur's Manteau^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Manteau de Ur^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Manteau de Ur^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "Dha/AQ": {
+        "ko": "^980078우르의 망토와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "Dxa/AQ": {
+        "ko": "^980078우르의 인장^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Ur's Seal^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Selo de Ur^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Sello de Ur^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "EBa/AQ": {
+        "ko": "^980078우르의 인장와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "ERa/AQ": {
+        "ko": "^980078우르의 플레이트^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Ur's Plate^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Armadura de Ur^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Plato de Ur^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "Eha/AQ": {
+        "ko": "^980078우르의 플레이트와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "Exa/AQ": {
+        "ko": "^980078페오즈의 그리브^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Peuz's Greaves^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Grevas de Peuz^000000 são uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Grebas de Peuz^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "FBa/AQ": {
+        "ko": "^980078페오즈의 그리브와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "FRa/AQ": {
+        "ko": "^980078페오즈의 망토^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Peuz's Manteau^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Manteau de Peuz^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Manteau de Peuz^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "Fha/AQ": {
+        "ko": "^980078페오즈의 망토와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "Fxa/AQ": {
+        "ko": "^980078페오즈의 인장^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Peuz's Seal^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Selo de Peuz^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Sello de Peuz^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "GBa/AQ": {
+        "ko": "^980078페오즈의 인장와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "GRa/AQ": {
+        "ko": "^980078페오즈의 플레이트^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Peuz's Plate^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Armadura de Peuz^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Plato de Peuz^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "Gha/AQ": {
+        "ko": "^980078페오즈의 플레이트와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "Gxa/AQ": {
+        "ko": "^980078사바흐의 슈즈^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Sapha Shoes^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Botas dos Manuks^000000 são uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Calzado de sapha^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "HBa/AQ": {
+        "ko": "^980078사바흐의 슈즈와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "HRa/AQ": {
+        "ko": "^980078사바흐의 후드^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Sapha Hood^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Capuz dos Manuks^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Capucha Sapha^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "Hha/AQ": {
+        "ko": "^980078사바흐의 후드와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "Hxa/AQ": {
+        "ko": "^980078사바흐의 링^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Sapha Ring^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Anel dos Manuks^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Anillo Sapha^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "IBa/AQ": {
+        "ko": "^980078사바흐의 링와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "IRa/AQ": {
+        "ko": "^980078사바흐의 클로스^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Sapha's Cloth^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Vestimenta dos Manuks^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Tela de Sapha^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "Iha/AQ": {
+        "ko": "^980078사바흐의 클로스와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "Ixa/AQ": {
+        "ko": "^980078나브의 슈즈^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Nab Shoes^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Botas de Nab^000000 são uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Botas de Nab^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "JBa/AQ": {
+        "ko": "^980078나브의 슈즈와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "JRa/AQ": {
+        "ko": "^980078나브의후드^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Nab Hood^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Capuz de Nab^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Capucha Nab^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "Jha/AQ": {
+        "ko": "^980078나브의후드와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "Jxa/AQ": {
+        "ko": "^980078나브의링^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Nab Ring^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Anel de Nab^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Anillo Nab^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "KBa/AQ": {
+        "ko": "^980078나브의링와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "KRa/AQ": {
+        "ko": "^980078나브의클로스^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Nab's Cloth^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Vestimenta de Nab^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Tela de Nab^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "Kha/AQ": {
+        "ko": "^980078나브의클로스와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "Kxa/AQ": {
+        "ko": "^980078흰날개의 부츠^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078White Wing Boots^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Sapatos das Asas de Luz^000000 são uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Botas de alas blancas^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "LBa/AQ": {
+        "ko": "^980078흰날개의 부츠와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "LRa/AQ": {
+        "ko": "^980078흰날개의 망토^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078White Wing Manteau^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Sobrepeliz das Asas de Luz^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Manto de alas blancas^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "Lha/AQ": {
+        "ko": "^980078흰날개의 망토와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "Lxa/AQ": {
+        "ko": "^980078흰날개의 브로치^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078White Wing Brooch^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Broche das Asas de Luz^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Broche de alas blancas^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "MBa/AQ": {
+        "ko": "^980078흰날개의 브로치와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "MRa/AQ": {
+        "ko": "^980078흰날개의 슈츠^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078White Wing Suit^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Malha das Asas de Luz^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Traje alas blancas^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "Mha/AQ": {
+        "ko": "^980078흰날개의 슈츠와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "Mxa/AQ": {
+        "ko": "^980078검은날개의 부츠^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Black Wing Boots^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Sapatos das Asas de Sombras^000000 são uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Botas de ala negra^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "NBa/AQ": {
+        "ko": "^980078검은날개의 부츠와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "NRa/AQ": {
+        "ko": "^980078검은날개의 망토^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Black Wing Manteau^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Sobrepeliz das Asas de Sombra^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Manteau Ala Negra^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "Nha/AQ": {
+        "ko": "^980078검은날개의 망토와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "Nxa/AQ": {
+        "ko": "^980078검은날개의 브로치^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Black Wing Brooch^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Broche das Asas de Sombra^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Broche Ala Negra^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "OBa/AQ": {
+        "ko": "^980078검은날개의 브로치와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "ORa/AQ": {
+        "ko": "^980078검은날개의 슈츠^000000 발견.\n유물을 주화 10개로 교환하시겠습니까?",
+        "en": "^980078Black Wing Suit^000000 is a relic.\nWould you like to refund 10 Mora Coins?",
+        "pt": "^980078Malha das Asas de Sombra^000000 é uma relíquia.\nDeseja obter ressarcimento de 10 Moedas de Mora?",
+        "es": "^980078Traje Ala Negra^000000 es una reliquia.\n¿Quieres reembolsar 10 Monedas de Mora?"
+    },
+    "Oha/AQ": {
+        "ko": "^980078검은날개의 슈츠와 주화의 교환이 잘 이루어 졌습니다.^000000",
+        "en": "^980078Operation carried out successfully.^000000",
+        "pt": "^980078Operação completada com sucesso.^000000",
+        "es": "^980078Operación realizada con éxito.^000000"
+    },
+    "Oxa/AQ": {
+        "ko": "[폐기유물 수거기]\n회수할 유물이 발견되지 않아 수거 작업을 종료합니다. 수거될 유물이 생기시면 하루가 지난 후 다시 방문해 주십시오.",
+        "en": "[Garbage Collector]\nThe operation was terminated due to a lack of relics in your inventory.",
+        "pt": "[Coletora de Lixo]\nA operação foi encerrada devido à ausência de relíquias em seu inventário.",
+        "es": "[Recolector de Basura]\nLa operación fue cerrada por falta de reliquias en tu inventario."
+    }
+}

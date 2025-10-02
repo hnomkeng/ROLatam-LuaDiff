@@ -1,0 +1,612 @@
+{
+    "QOd/CA": {
+        "en": "Hugin's magic master",
+        "pt": "Artesã Mágica Hugin",
+        "es": "Artesana Mágica de Hugin"
+    },
+    "Qed/CA": {
+        "en": "You seem to be carrying too many items. Put some items in storage and come back again.",
+        "pt": "Parece que você está carregando itens demais. Vamos reduzir o peso e tentar novamente.",
+        "es": "Parece que llevas demasiados objetos. Guarda algunas cosas y vuelve otra vez."
+    },
+    "Qud/CA": {
+        "en": "Your bag is too heavy. Reduce some weight and come back.",
+        "pt": "Sua sacola está pesada demais. Reduza o peso e tente novamente.",
+        "es": "Tu bolsa pesa demasiado. Reduce algo de peso y vuelve."
+    },
+    "Q+d/CA": {
+        "en": "[Hugin's magic master]\nSo, you came to enchant the Temporal Boots. Be aware that Boots with sockets cannot be enchanted, and this upgrade is only possible for the boots you are wearing.",
+        "pt": "[Artesã Mágica Hugin]\nEntão você veio atrás das Botas Temporais. Esteja ciente que Botas com slot não podem ser encantadas, e esse aprimoramento só é possível para as botas que você está usando.",
+        "es": "[Artesana Mágica de Hugin]\nEntonces, viniste a encantar las Botas temporales. Ten en cuenta que las botas con ranuras no se pueden encantar, y esta mejora solo es posible para las botas que llevas puestas."
+    },
+    "ROd/CA": {
+        "en": "How does the enchanting work?",
+        "pt": "Como o encantamento funciona aqui?",
+        "es": "¿Cómo funciona el encantamiento?"
+    },
+    "Red/CA": {
+        "en": "Give effect to my Temporal Boots",
+        "pt": "Encantar minha Bota Temporal",
+        "es": "Dar efecto a mis Botas temporales."
+    },
+    "Rud/CA": {
+        "en": "Initialize Enchants",
+        "pt": "Resetar Encantamentos",
+        "es": "Inicializar encantamientos."
+    },
+    "R+d/CA": {
+        "en": "[Hugin's magic master]\nYou can keep obtain ^0000FFCoagulated Spell^000000 through you travel times.",
+        "pt": "[Artesã Mágica Hugin]\nVocê pode obter o ^0000FFMana Coagulada^000000 através das suas viagens no tempo.",
+        "es": "[Artesana Mágica de Hugin]\nPuedes seguir obteniendo el ^0000FFHechizo Coagulado^000000 a través de tus viajes en el tiempo."
+    },
+    "SOd/CA": {
+        "en": "[Hugin's magic master]\nI can enchant your Temporal Boots items depands on the amount of that item. ^0000FFNot normal type boots.^000000 Only possible for those 6 expanded version boots.",
+        "pt": "[Artesã Mágica Hugin]\nEu posso encantar suas Bota Temporal de atributo. ^0000FFNão a Bota Temporal comum^000000. Por um pequeno preço, é claro.",
+        "es": "[Artesana Mágica de Hugin]\nPuedo encantar tus objetos de Botas temporales, según la cantidad de ese objeto. ^0000FFBotas poco comunes.^000000 Solo es posible para esas 6 botas de versión expandida."
+    },
+    "Sed/CA": {
+        "en": "[Hugin's magic master]\nBut, once you put a socket into the item, you cannot enchant it. Make sure to remember that.",
+        "pt": "[Artesã Mágica Hugin]\nMas quando você colocar um slot nas botas, eu não poderei encantá-las, ^FF0000somente com a Artesã Sombria.^000000 Lembre-se bem disso.",
+        "es": "[Artesana Mágica de Hugin]\nPero una vez que pones una ranura en el objeto, no puedes encantarlo. Asegúrate de recordarlo."
+    },
+    "Sud/CA": {
+        "en": "[Hugin's magic master]\nI don't give out effect randomly. You can pick which effect you want for the item.",
+        "pt": "[Artesã Mágica Hugin]\nOs encantos não são aleatórios. Você pode escolher o que quiser.",
+        "es": "[Artesana Mágica de Hugin]\nNo reparto efectos al azar. Puedes elegir qué efecto quieres para el objeto."
+    },
+    "S+d/CA": {
+        "en": "[Hugin's magic master]\nOf course it is for 4th slot only. You can have small effect at the start, and then the effect gets stronger.",
+        "pt": "[Artesã Mágica Hugin]\nClaro é que somente para o quarto slot. O encanto será pequeno no início e aumentará depois.",
+        "es": "[Artesana Mágica de Hugin]\nPor supuesto, es solo para la cuartaranura. El efecto puede ser pequeño al inicio, pero luego se hace más fuerte."
+    },
+    "TOd/CA": {
+        "en": "[Hugin's magic master]\nTo get to the final option upgrade, it will require way more Coagulated Spell item. Don't forget that.",
+        "pt": "[Artesã Mágica Hugin]\nPara conseguir a última opção de encanto, serão necessárias muitas Manas Coaguladas. Não se esqueça disso.",
+        "es": "[Artesana Mágica de Hugin]\nPara llegar a la opción final de mejora, se necesitará mucho más Hechizo coagulado. No lo olvides."
+    },
+    "Ted/CA": {
+        "en": "[Hugin's magic master]\nOnce the 4th slot completes the best option, you get to have a random bonus effect to the 3rd slot. With.. certain payment~",
+        "pt": "[Artesã Mágica Hugin]\nAssim que você encantar 3 vezes o 4º slot, será possível encantar o 3º slot com uma pedra especial e totalmente aleatória... por alguns Zenys...",
+        "es": "[Artesana Mágica de Hugin]\nUna vez que la cuartaranura completa la mejor opción, obtienes un efecto de bonificación aleatorio para la terceraranura a partir de un pago determinado."
+    },
+    "Tud/CA": {
+        "en": "[Hugin's magic master]\nAlso, you don't loose the item even if the enchant fails, we also guarantee keeping card and refine rate. But we can't initialize enchanting.",
+        "pt": "[Artesã Mágica Hugin]\nVocê não perde o item mesmo se o encantamento falhar, e a carta e o refinamento também serão mantidos. Mas não podemos resetar o encantamento.",
+        "es": "[Artesana Mágica de Hugin]\nAdemás, no pierdes el objeto, incluso si el encantamiento falla. También garantizamos la retención de la tarjeta y la tasa de refinamiento. Sin embargo, no podemos inicializar el encantamiento."
+    },
+    "T+d/CA": {
+        "en": "[Hugin's magic master]\nPhew...\nAnyways, that's all for basic enchant information. Now you should see for yourself.",
+        "pt": "[Artesã Mágica Hugin]\nUfa...\nBom, estas são todas as informações básicas sobre o encantamento. Agora você poderia experimentar.",
+        "es": "[Artesana Mágica de Hugin]\nFiu…\nEn fin, esa es toda la información básica sobre encantamientos. Ahora deberías comprobarlo por tu cuenta."
+    },
+    "UOd/CA": {
+        "en": "[Hugin's magic master]\nAre you wearing the item?",
+        "pt": "[Artesã Mágica Hugin]\nVocê está usando o item?",
+        "es": "[Artesana Mágica de Hugin]\n¿Llevas puesto el objeto?"
+    },
+    "Ued/CA": {
+        "en": "[Hugin's magic master]\nIt's dangerouse to take off your item while processing..",
+        "pt": "[Artesã Mágica Hugin]\nÉ perigoso tirar o seu item enquanto está sendo encantado...",
+        "es": "[Artesana Mágica de Hugin]\nEs peligroso quitarse el objeto durante el procesamiento…"
+    },
+    "Uud/CA": {
+        "en": "Modified STR Boots",
+        "pt": "Bota Modificada FOR",
+        "es": "Botas de FUE modificadas."
+    },
+    "U+d/CA": {
+        "en": "Modified INT Boots",
+        "pt": "Bota Modificada INT",
+        "es": "Botas de INT modificadas."
+    },
+    "VOd/CA": {
+        "en": "Modified AGI Boots",
+        "pt": "Bota Modificada AGI",
+        "es": "Botas de AGI modificadas."
+    },
+    "Ved/CA": {
+        "en": "Modified VIT Boots",
+        "pt": "Bota Modificada VIT",
+        "es": "Botas de VIT modificadas."
+    },
+    "Vud/CA": {
+        "en": "Modified DEX Boots",
+        "pt": "Bota Modificada DES",
+        "es": "Botas de DES modificadas."
+    },
+    "V+d/CA": {
+        "en": "Modified LUK Boots",
+        "pt": "Bota Modificada SOR",
+        "es": "Botas de SUE modificadas."
+    },
+    "WOd/CA": {
+        "en": "Temporal Str Boots",
+        "pt": "Bota Temporal FOR",
+        "es": "Botas Temporal Str"
+    },
+    "Wed/CA": {
+        "en": "Temporal Int Boots",
+        "pt": "Bota Temporal INT",
+        "es": "Botas Int Temporal"
+    },
+    "Wud/CA": {
+        "en": "Temporal Agi Boots",
+        "pt": "Bota Temporal AGI",
+        "es": "Botas Agi Temporales"
+    },
+    "W+d/CA": {
+        "en": "Temporal Vit Boots",
+        "pt": "Bota Temporal VIT",
+        "es": "Botas Temporal Vit"
+    },
+    "XOd/CA": {
+        "en": "Temporal Dex Boots",
+        "pt": "Bota Temporal DES",
+        "es": "Botas Dex temporales"
+    },
+    "Xed/CA": {
+        "en": "Temporal Luk Boots",
+        "pt": "Bota Temporal SOR",
+        "es": "Botas Temporal Luk"
+    },
+    "Xud/CA": {
+        "en": "[Hugin's magic master]\nYou need Temporal Boots that has been enchanted at least once.",
+        "pt": "[Artesã Mágica Hugin]\nVocê precisa de Botas Temporais que tenham sido encantadas ao menos uma vez.",
+        "es": "[Artesana Mágica de Hugin]\nNecesitas Botas temporales que hayan sido encantadas al menos una vez."
+    },
+    "X+d/CA": {
+        "en": "[Hugin's magic master]\nI found at least 1 enchant. Would you Initialize it?",
+        "pt": "[Artesã Mágica Hugin]\nEncontrei pelo menos 1 encantamento. Deseja resetá-lo?",
+        "es": "[Artesana Mágica de Hugin]\nEncontré al menos 1encantamiento. ¿Lo inicializarías?"
+    },
+    "YOd/CA": {
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar."
+    },
+    "Yed/CA": {
+        "en": "Initialize using Magic and Fragment",
+        "pt": "Resetar usando Mana Sombria e Fragmento Temporal",
+        "es": "Inicializar usando Magia y Fragmento."
+    },
+    "Yud/CA": {
+        "en": "Initialize using Powerful Dimensional Essence",
+        "pt": "Resetar usando Âmago Dimensional",
+        "es": "Inicializar usando Poderosa esencia dimensional."
+    },
+    "Y+d/CA": {
+        "en": "Please come back when you are ready.",
+        "pt": "Por favor, volte quando estiver com tudo pronto.",
+        "es": "Vuelve cuando tengas todo listo."
+    },
+    "ZOd/CA": {
+        "en": "Contaminated Magic",
+        "pt": "Mana Sombria",
+        "es": "Magia contaminada"
+    },
+    "Zed/CA": {
+        "en": "Temporal Fragment",
+        "pt": "Fragmento Temporal",
+        "es": "Fragmento temporal"
+    },
+    "Zud/CA": {
+        "en": "Powerful Dimensional Essence",
+        "pt": "Âmago Dimensional",
+        "es": "Poderosa esencia dimensional"
+    },
+    "Z+d/CA": {
+        "en": "[Hugin's magic master]\n<ITEM>[{0}]<INFO>{1}</INFO></ITEM>{2}ea",
+        "pt": "[Artesã Mágica Hugin]\nPreciso de {2}x <ITEM>[{0}]<INFO>{1}</INFO></ITEM>",
+        "es": "[Artesana Mágica de Hugin]\n<ITEM>[{0}]<INFO>{1}</INFO></ITEM>{2} por unidad."
+    },
+    "aOd/CA": {
+        "en": "<ITEM>[{0}]<INFO>{1}</INFO></ITEM>{2}ea",
+        "pt": "e {2}x <ITEM>[{0}]<INFO>{1}</INFO></ITEM>",
+        "es": "<ITEM>[{0}]<INFO>{1}</INFO></ITEM>{2} por unidad."
+    },
+    "aed/CA": {
+        "en": "are needed to be initialized, and it is ^0000FF{0}%^000000 for success.",
+        "pt": "para resetar. AH! E a chance de sucesso é de ^0000FF{0}%^000000.",
+        "es": "se necesitan para la inicialización, y es ^0000FF{0}%^000000 para el éxito."
+    },
+    "aud/CA": {
+        "en": "If it fails, your equipment will be destroyed, please be careful.",
+        "pt": "Se falhar, seu equipamento será destruído. Por favor, tenha cuidado.",
+        "es": "Si falla, tu equipamiento se destruirá, así que ten cuidado."
+    },
+    "a+d/CA": {
+        "en": "Initialize",
+        "pt": "Resetar",
+        "es": "Inicializar."
+    },
+    "bOd/CA": {
+        "en": "[Hugin's magic master]\nPlease come back when you are ready.",
+        "pt": "[Artesã Mágica Hugin]\nPor favor, volte quando estiver com tudo pronto.",
+        "es": "[Artesana Mágica de Hugin]\nVuelve cuando tengas todo listo."
+    },
+    "bed/CA": {
+        "en": "[Hugin's magic master]\n<ITEM>[{0}]<INFO>{1}</INFO></ITEM>{2}ea\n<ITEM>[{3}]<INFO>{4}</INFO></ITEM>{5}ea\nare needed. Please check your inventory.",
+        "pt": "[Artesã Mágica Hugin]\nPreciso de {2}x <ITEM>[{0}]<INFO>{1}</INFO></ITEM>\n{5}x <ITEM>[{3}]<INFO>{4}</INFO></ITEM>. Por favor, verifique seu inventário.",
+        "es": "[Artesana Mágica de Hugin]\n<ITEM>[{0}]<INFO>{1}</INFO></ITEM>{2} por unidad.\n<ITEM>[{3}]<INFO>{4}</INFO></ITEM>{5} por unidad.\nson necesarios. Revisa tu inventario."
+    },
+    "bud/CA": {
+        "en": "[Hugin's magic master]\n<ITEM>[{0}]<INFO>{1}</INFO></ITEM>{2}ea\nare needed. Please check your inventory.",
+        "pt": "[Artesã Mágica Hugin]\nPreciso de {2}x <ITEM>[{0}]<INFO>{1}</INFO></ITEM>. Por favor, verifique seu inventário.",
+        "es": "[Artesana Mágica de Hugin]\n<ITEM>[{0}]<INFO>{1}</INFO></ITEM>{2} por unidad.\nson necesarios. Revisa tu inventario."
+    },
+    "b+d/CA": {
+        "en": "[Hugin's magic master]",
+        "pt": "[Artesã Mágica Hugin]",
+        "es": "[Artesana Mágica de Hugin]"
+    },
+    "cOd/CA": {
+        "en": "It suceeded to initialize the equipment.",
+        "pt": "O reset do equipamento foi bem-sucedido.",
+        "es": "Logró inicializar el equipamiento."
+    },
+    "ced/CA": {
+        "en": "It failed, your equipment was destroyed.",
+        "pt": "Falhou, seu equipamento foi destruído.",
+        "es": "Falló y se destruyó tu equipamiento."
+    },
+    "cud/CA": {
+        "en": "[Hugin's magic master]\nThis is not the right item for this enchant.\nRemember, only those 6 types of Temporal Boots are available for enchanting.",
+        "pt": "[Artesã Mágica Hugin]\nEu não trabalho com esse calçcado.\nLembre-se, somente as Botas Temporais de atributo.",
+        "es": "[Artesana Mágica de Hugin]\nEste no es el objeto adecuado para este encantamiento.\nRecuerda que solo esos 6tipos de Botas temporales están disponibles para el encantamiento."
+    },
+    "c+d/CA": {
+        "en": "[Hugin's magic master]\nThese boots have already passed the enchanting limit. We can't enchant them any more.",
+        "pt": "[Artesã Mágica Hugin]\nEsta bota já passou do limite de encantamentos. Nós não podemos mais encantar este item.",
+        "es": "[Artesana Mágica de Hugin]\nEstas botas ya superaron el límite de encantamiento. Ya no se pueden encantar."
+    },
+    "dOd/CA": {
+        "en": "[Hugin's magic master]\nWant to enchant ^0000FF{0}^000000? For the 1st enchanting, you need ^0000FF{1}^000000 Coagulated Spell items.",
+        "pt": "[Artesã Mágica Hugin]\nQuer encantar a ^0000FF{0}^000000? Para o 1º encantamento, você vai precisar de ^0000FF{1}^000000x Mana Coagulada.",
+        "es": "[Artesana Mágica de Hugin]\n¿Quieres encantar ^0000FF{0}^000000? Para el primer encantamiento, necesitas ^0000FF{1}^000000 objetos de Hechizo coagulado."
+    },
+    "ded/CA": {
+        "en": "Quit",
+        "pt": "Sair",
+        "es": "Salir."
+    },
+    "dud/CA": {
+        "en": "Fighting Spirit",
+        "pt": "Espírito do Lutador",
+        "es": "Espíritu de lucha."
+    },
+    "d+d/CA": {
+        "en": "Archery",
+        "pt": "Mira Apurada",
+        "es": "Arquería."
+    },
+    "eOd/CA": {
+        "en": "Spell",
+        "pt": "Encantamento",
+        "es": "Hechizo."
+    },
+    "eed/CA": {
+        "en": "Vitality",
+        "pt": "VIT",
+        "es": "Vitalidad"
+    },
+    "eud/CA": {
+        "en": "Attack speed",
+        "pt": "Anti-Atraso",
+        "es": "Velocidad de ataque."
+    },
+    "e+d/CA": {
+        "en": "Lucky",
+        "pt": "SOR",
+        "es": "Suerte."
+    },
+    "fOd/CA": {
+        "en": "[Hugin's magic master]\nOk, come back when you are ready.",
+        "pt": "[Artesã Mágica Hugin]\nOk, volte quando você estiver com tudo pronto.",
+        "es": "[Artesana Mágica de Hugin]\nMuy bien, vuelve cuando tengas todo listo."
+    },
+    "fed/CA": {
+        "en": "[Hugin's magic master]\nEnchanting ^0000FF{0}^000000's 4th slot as ^0000FF{1} ^000000 level effect. Requires ^0000FF{2}^000000 Coagulated Spell items.",
+        "pt": "[Artesã Mágica Hugin]\nEncantar o 4º slot da ^0000FF{0}^000000 com o nível ^0000FF{1}^000000 requer ^0000FF{2}^000000x Mana Coagulada.",
+        "es": "[Artesana Mágica de Hugin]\nEncantamiento de la cuartaranura de ^0000FF{0}^000000 como efecto de nivel de ^0000FF{1} ^000000. Requiere ^0000FF{2}^000000 objetos de Hechizo coagulado."
+    },
+    "fud/CA": {
+        "en": "Effect Upgrade!",
+        "pt": "Aprimore o encanto!",
+        "es": "¡Mejorar efectos!"
+    },
+    "f+d/CA": {
+        "en": "[Hugin's magic master]\n4th slot is already upgraded to the final option. Would you like a random bonus effect for the 3rd slot? You need ^0000FF{0}^000000 Coagulated Spell items.",
+        "pt": "[Artesã Mágica Hugin]\nO 4º slot já está aprimorado ao máximo. Você gostaria de um encanto aleatório no 3º slot? Você precisa de ^0000FF{0}^000000x Mana Coagulada.",
+        "es": "[Artesana Mágica de Hugin]\nLa cuartaranura alcanzó la opción final de mejora. ¿Quieres un efecto de bonificación aleatorio para la terceraranura? Necesitas ^0000FF{0}^000000 objetos de Hechizo coagulado."
+    },
+    "gOd/CA": {
+        "en": "[Hugin's magic master]\nArrgh... I feel so dizzy just looking at your terrible appearance... Please go away, now!",
+        "pt": "[Artesã Mágica Hugin]\nArrhhgg... Eu fico tonta só de olhar para sua aparência terrível... Por favor, vá embora agora mesmo!",
+        "es": "[Artesana Mágica de Hugin]\nGrrr… Me mareo solo de ver tu terrible aspecto… ¡Por favor, vete ya!"
+    },
+    "ged/CA": {
+        "en": "[Hugin's magic master]\nHmm, you are missing {0} Coagulated Spell items. Go get more, and then we can talk about more enchants.",
+        "pt": "[Artesã Mágica Hugin]\nHum, você está com falta de {0}x Mana Coagulada. Consiga mais e voltamos a conversar.",
+        "es": "[Artesana Mágica de Hugin]\nMm, te faltan {0} objetos de Hechizo coagulado. Consigue más para poder hablar sobre más encantamientos."
+    },
+    "gud/CA": {
+        "en": "[Hugin's magic master]\nThis boots has been already enchanted to the final level. I cannot help you any more.",
+        "pt": "[Artesã Mágica Hugin]\nEstas botas já estão no último nível de encantamento. Eu não tenho mais como te ajudar.",
+        "es": "[Artesana Mágica de Hugin]\nEstas botas alcanzaron el último nivel de encantamiento. No puedo ayudarte más."
+    },
+    "g+d/CA": {
+        "en": "[Hugin's magic master]\nTrying for enchant number ^990000{0}^000000.",
+        "pt": "[Artesã Mágica Hugin]\nTentativa de encantamento número ^990000{0}^000000.",
+        "es": "[Artesana Mágica de Hugin]\nTratando de encantar el número ^990000{0}^000000."
+    },
+    "hOd/CA": {
+        "en": "[Hugin's magic master]\nTrying for ^990000 Bonus effect ^000000 upgrade.",
+        "pt": "[Artesã Mágica Hugin]\nVamos tentar ^990000melhorar sua Bota^000000 .",
+        "es": "[Artesana Mágica de Hugin]\nTratando de mejorar el ^990000efecto de bonificación^000000."
+    },
+    "hed/CA": {
+        "en": "Hugin's butler",
+        "pt": "Governanta de Hugin",
+        "es": "Mayordomo de Hugin"
+    },
+    "hud/CA": {
+        "en": "[Hugin's butler]\nI provide special Boots at the cost of some Crystals according to the table below:\n^990000Temporal Boots^000000 = 1x Temporal Crystal\n^990000Status Temporal Boots^000000 = 5x Temporal Crystal and 1x Temporal Boots\n^990000Status Modified Boots^000000 = 5x Temporal Crystal and 1x Temporal Boots",
+        "pt": "[Governanta de Hugin]\nEu forneço Botas especiais ao custo de alguns Cristais de acordo com a tabela abaixo:\n^990000Botas Temporais^000000 = 1x Cristal Temporal\n^990000Bota Temporal de Atributo^000000 = 5x Cristal Temporal e 1x Botas Temporais\n^990000Bota Modificada de Atributo^000000 = 5x Cristal Temporal e 1x Botas Temporais",
+        "es": "[Mayordomo de Hugin]\nProporciono botas especiales a cambio de algunos cristales, según la tabla a continuación:\n^990000Botas Temporales^000000 = 1 Cristal Temporal\n^990000Botas Temporales con atributo^000000 = 5 Cristal Temporal y 1 Botas Temporales\n^990000Botas Modificadas con atributo^000000 = 5 Cristal Temporal y 1 Botas Temporales"
+    },
+    "h+d/CA": {
+        "en": "Buy Temporal Boots",
+        "pt": "Comprar Botas Temporais",
+        "es": "Comprar Botas Temporales"
+    },
+    "iOd/CA": {
+        "en": "Buy Status Temporal Boots",
+        "pt": "Comprar Bota Temporal de Atributo",
+        "es": "Botas Temporales con atributo"
+    },
+    "ied/CA": {
+        "en": "Buy Status Modified Boots",
+        "pt": "Comprar Bota Modificada de Atributo",
+        "es": "Botas Modificadas con atributo"
+    },
+    "iud/CA": {
+        "en": "[Hugin's butler]\nCome back whenever you want.",
+        "pt": "[Governanta de Hugin]\nVolte sempre que quiser.",
+        "es": "[Mayordomo de Hugin]\nVuelve cuando quieras."
+    },
+    "i+d/CA": {
+        "en": "[Hugin's butler]\nTake these Temporal Boots. We can upgrade your Temporal Boots with 5 Time Crystals.",
+        "pt": "[Governanta de Hugin]\nAqui estão as Botas Temporais. Se você trouxer ela e mais 5 Cristais Temporais, pode conseguir uma versão mais forte.",
+        "es": "[Mayordomo de Hugin]\nToma estas Botas temporales. Podemos mejorar tus Botas temporales con 5Cristales del tiempo."
+    },
+    "jOd/CA": {
+        "en": "[Hugin's butler]\nYou need more Time Crystals. Come back when you get some more Time Crystals during your travel through Old Glastheim.",
+        "pt": "[Governanta de Hugin]\nVocê precisa de mais Cristais Temporais. Volte quando conseguir mais.",
+        "es": "[Mayordomo de Hugin]\nNecesitas más Cristales del tiempo. Vuelve cuando consigas más Cristales del tiempo durante tu viaje por el Maldición de Glastheim."
+    },
+    "jed/CA": {
+        "en": "[Hugin's magic master]\nOnly the item you are wearing can be upgraded.\nWear the ^0000FFTemporal Boots^000000 you want to upgrade, and then talk to me once again.",
+        "pt": "[Artesã Mágica Hugin]\nVocê precisa vir com o item equipado.\nEquipe as ^0000FFBotas Temporais^000000 e fale comigo novamente.",
+        "es": "[Artesana Mágica de Hugin]\nSolo se puede mejorar el objeto que llevas puesto.\nPonte las ^0000FFBotas temporales^000000 que quieres mejorar y luego vuelve a hablar conmigo."
+    },
+    "jud/CA": {
+        "en": "[Hugin's butler]\nYou are not wearing the Temporal Boots. Talk to me once you're wearing them.",
+        "pt": "[Governanta de Hugin]\nVocê não está usando as Botas Temporais. Use as Botas Temporais corretas e fale comigo novamente.",
+        "es": "[Mayordomo de Hugin]\nNo llevas puestas las Botas temporales. Habla conmigo cuando las lleves puestas."
+    },
+    "j+d/CA": {
+        "en": "[Hugin's butler]\nNot enough Time Crystals. You need 5 Time Crystals to upgrade your item.",
+        "pt": "[Governanta de Hugin]\nCristais insuficientes. Você precisa de 5 Cristais Temporais.",
+        "es": "[Mayordomo de Hugin]\nNo tienes suficientes Cristales del tiempo. Necesitas 5Cristales del tiempo para mejorar tu objeto."
+    },
+    "kOd/CA": {
+        "en": "[Hugin's butler]\nYou can trade ^0000FF1 Temporal Boots and 5 Temporal Crystals^000000 for 1 of the following items. ^FF0000Previous refine rate will not be retained with these new ones^000000.",
+        "pt": "[Governanta de Hugin]\nVocê pode trocar as ^0000FF1 Botas Temporais e 5 Cristais Temporais^000000 para uma destas botas a seguir. ^FF0000O refino do calçado será perdido^000000.",
+        "es": "[Mayordomo de Hugin]\nPuedes cambiar ^0000FF1unidad de Botas temporales y 5Cristales temporales^000000 por 1 de los siguientes objetos. ^FF0000Los nuevos objetos no conservarán la tasa de refinamiento anterior^000000."
+    },
+    "ked/CA": {
+        "en": "Str Boots",
+        "pt": "Bota Temporal FOR",
+        "es": "Botas de FUE."
+    },
+    "kud/CA": {
+        "en": "Int Boots",
+        "pt": "Bota Temporal INT",
+        "es": "Botas de INT."
+    },
+    "k+d/CA": {
+        "en": "Agi Boots",
+        "pt": "Bota Temporal AGI",
+        "es": "Botas de AGI."
+    },
+    "lOd/CA": {
+        "en": "Vit Boots",
+        "pt": "Bota Temporal VIT",
+        "es": "Botas de VIT."
+    },
+    "led/CA": {
+        "en": "Dex Boots",
+        "pt": "Bota Temporal DES",
+        "es": "Botas de DES."
+    },
+    "lud/CA": {
+        "en": "Luk Boots",
+        "pt": "Bota Temporal SOR",
+        "es": "Botas de SUE."
+    },
+    "l+d/CA": {
+        "en": "[Hugin's butler]\nCome back anytime you want.",
+        "pt": "[Governanta de Hugin]\nVolte sempre que desejar.",
+        "es": "[Mayordomo de Hugin]\nVuelve cuando quieras."
+    },
+    "mOd/CA": {
+        "en": "Strength",
+        "pt": "FOR",
+        "es": "Fuerza"
+    },
+    "med/CA": {
+        "en": "Intelligence",
+        "pt": "INT",
+        "es": "Inteligencia"
+    },
+    "mud/CA": {
+        "en": "Agility",
+        "pt": "AGI",
+        "es": "Agilidad"
+    },
+    "m+d/CA": {
+        "en": "Vitality",
+        "pt": "VIT",
+        "es": "Vitalidad"
+    },
+    "nOd/CA": {
+        "en": "Dexterity",
+        "pt": "DES",
+        "es": "Destreza"
+    },
+    "ned/CA": {
+        "en": "Lucky",
+        "pt": "SOR",
+        "es": "Suerte."
+    },
+    "nud/CA": {
+        "en": "[Hugin's butler]\nAre you sure about buying Temporal ^FF0000{0} ^000000 Boots? There's no refunds.",
+        "pt": "[Governanta de Hugin]\nVocê tem certeza de que quer comprar a Bota Temporal ^FF0000{0}^000000? Não fazemos reembolso.",
+        "es": "[Mayordomo de Hugin]\n¿Seguro quieres comprar Botas temporales de ^FF0000{0} ^000000? No se admiten reembolsos."
+    },
+    "n+d/CA": {
+        "en": "Think again",
+        "pt": "Vou pensar mais.",
+        "es": "Necesito pensarlo de nuevo."
+    },
+    "oOd/CA": {
+        "en": "Yes, I am sure.",
+        "pt": "Sim, eu tenho certeza.",
+        "es": "Sí, así es."
+    },
+    "oed/CA": {
+        "en": "[Hugin's butler]\nOk, come again when you are sure.",
+        "pt": "[Governanta de Hugin]\nOk, volte quando você estiver com tudo pronto.",
+        "es": "[Mayordomo de Hugin]\nMuy bien, vuelve cuando tengas seguridad."
+    },
+    "oud/CA": {
+        "en": "[Hugin's butler]\nThe boots have been upgraded as you want.",
+        "pt": "[Governanta de Hugin]\nAqui está a Bota Temporal solicitada.",
+        "es": "[Mayordomo de Hugin]\nLas botas se mejoraron como querías."
+    },
+    "o+d/CA": {
+        "en": "[Hugin's butler]\nOh... I feel dizzy.. Please come back later.",
+        "pt": "[Governanta de Hugin]\nOh... Estou tonta... Por favor, volte mais tarde.",
+        "es": "[Mayordomo de Hugin]\nOh… Siento mareos… Regresa más tarde."
+    },
+    "pOd/CA": {
+        "en": "Hugin's Craftsman",
+        "pt": "Ferreira de Hugin",
+        "es": "Herrero de Hugin"
+    },
+    "ped/CA": {
+        "en": "[Hugin's Craftsman]\nThat magic craftsman always says that enchanting Temporal Boots is the best. But, I think quite different.",
+        "pt": "[Ferreira de Hugin]\nAquela Artesã Mágica sempre diz que encantar Botas Temporais é a melhor coisa. Mas eu penso diferente.",
+        "es": "[Herrero de Hugin]\nEse artesano mágico siempre dice que no hay nada mejor que encantar Botas temporales. Pero no pienso igual."
+    },
+    "pud/CA": {
+        "en": "[Hugin's Craftsman]\nI think putting a slot into the item would be the best. Even with some risk of failing.",
+        "pt": "[Ferreira de Hugin]\nEu acho que colocar slots em botas temporais é a melhor coisa. Mesmo tendo um pequeno risco de falhar.",
+        "es": "[Herrero de Hugin]\nCreo que poner una ranura en el objeto es la mejor opción. Incluso si hay riesgos de fallar."
+    },
+    "p+d/CA": {
+        "en": "[Hugin's Craftsman]\nBring me ^0000FF5 Time Crystals^000000, and I will try to put a slot into your advanced Temporal Boots. But, it's possible to ^FF0000fail and break the item.^000000 Is that ok?",
+        "pt": "[Ferreira de Hugin]\nTraga ^0000FF5 Cristais Temporais^000000 e eu vou colocar um slot na Bota Temporal de atributo. Mas é possível que ^FF0000falhe e o item seja perdido.^000000 Tudo bem?",
+        "es": "[Herrero de Hugin]\nTráeme ^0000FF5 Cristales del tiempo^000000 e intentaré poner una ranura en tus Botas temporales avanzadas. Pero es posible ^FF0000fallar y romper el objeto.^000000 ¿Te parece bien?"
+    },
+    "qOd/CA": {
+        "en": "Take the risk and try to add a slot",
+        "pt": "Arriscar e tentar Slotar",
+        "es": "Correr el riesgo e intentar añadir una ranura."
+    },
+    "qed/CA": {
+        "en": "[Hugin's Craftsman]\nOk, come back anytime you want.",
+        "pt": "[Ferreira de Hugin]\nOk, volte sempre que desejar.",
+        "es": "[Herrero de Hugin]\nMuy bien, vuelve cuando quieras."
+    },
+    "qud/CA": {
+        "en": "[Hugin's Craftsman]\nAre you sure you are wearing the item?",
+        "pt": "[Ferreira de Hugin]\nTem certeza de que está usando o item?",
+        "es": "[Herrero de Hugin]\n¿De verdad llevas puesto el objeto?"
+    },
+    "q+d/CA": {
+        "en": "Modified Str Boots",
+        "pt": "Bota Modificada FOR",
+        "es": "Botas Modificadas FUE"
+    },
+    "rOd/CA": {
+        "en": "Modified Int Boots",
+        "pt": "Bota Modificada INT",
+        "es": "Botas Modificadas INT"
+    },
+    "red/CA": {
+        "en": "Modified Agi Boots",
+        "pt": "Bota Modificada AGI",
+        "es": "Botas Modificadas AGI"
+    },
+    "rud/CA": {
+        "en": "Modified Vit Boots",
+        "pt": "Bota Modificada VIT",
+        "es": "Botas Modificadas VIT"
+    },
+    "r+d/CA": {
+        "en": "Modified Dex Boots",
+        "pt": "Bota Modificada DES",
+        "es": "Botas Modificadas DES"
+    },
+    "sOd/CA": {
+        "en": "Modified Luk Boots",
+        "pt": "Bota Modificada SOR",
+        "es": "Botas Modificadas SUE"
+    },
+    "sed/CA": {
+        "en": "[Hugin's Craftsman]\nThis is not it! We need ^0000FFaAdvanced Temporal Boots^000000 items! The item ^0000FFwith a stat effect and without a slot^000000!",
+        "pt": "[Ferreira de Hugin]\nNão é isso! Nós precisamos de ^0000FFBotas Modificadas^000000! O item deve estar ^0000FFsem slot^000000!",
+        "es": "[Herrero de Hugin]\n¡Esto no es! ¡Necesitamos objetos de ^0000FFBotas temporales avanzadas^000000! ¡El objeto ^0000FFcon un efecto de estado y sin una ranura^000000!"
+    },
+    "sud/CA": {
+        "en": "[Hugin's Craftsman]\nAnd ^FF0000all enchant or refine rates will be lost if you fail this.^000000 Still want to risk it?",
+        "pt": "[Ferreira de Hugin]\nE ^FF0000todos os encantamentos e níveis de refinamento serão perdidos no processo.^000000 Ainda quer arriscar?",
+        "es": "[Herrero de Hugin]\nAdemás, ^FF0000todas las tasas de refinamiento y encantamiento se perderán si fallas.^000000 ¿Todavía quieres arriesgarte?"
+    },
+    "s+d/CA": {
+        "en": "Canel",
+        "pt": "Cancelar",
+        "es": "Cancelar."
+    },
+    "tOd/CA": {
+        "en": "I am ok with it!",
+        "pt": "Por mim tudo bem!",
+        "es": "¡Me parece bien!"
+    },
+    "ted/CA": {
+        "en": "[Hugin's Craftsman]\nOnce again, ^FF0000That magic craftsman won't enchant any item with a slot.^000000 Still want to proceed?",
+        "pt": "[Ferreira de Hugin]\nMais uma vez, ^FF0000Aquela Artesã Mágica não vai encantar qualquer item que tenha slot. Somente a Artesã Sombria realiza esse procedimento.^000000 Ainda quer prosseguir?",
+        "es": "[Herrero de Hugin]\nUna vez más, ^FF0000ese artesano mágico no encantará ningún objeto con una ranura.^000000 ¿Todavía quieres proceder?"
+    },
+    "tud/CA": {
+        "en": "I understand. Try to slot it.",
+        "pt": "Prosseguir.",
+        "es": "Entendido. Intentar agregar una ranura."
+    },
+    "t+d/CA": {
+        "en": "[Hugin's Craftsman]\nYou must bring ^0000FF5 Time Crystal items^000000. Nothing is free you know...",
+        "pt": "[Ferreira de Hugin]\nVocê precisa trazer ^0000FF5 Cristais Temporais^000000. Nada é de graça, sabe...",
+        "es": "[Herrero de Hugin]\nDebes traer ^0000FF5objetos de Cristales del tiempo^000000. Nada es gratis…"
+    },
+    "uOd/CA": {
+        "en": "[Hugin's Craftsman]\nWhat a success.\nSee? I'm the best.",
+        "pt": "[Ferreira de Hugin]\nFoi um sucesso. Aqui está.",
+        "es": "[Herrero de Hugin]\n¡Qué gran éxito!\n¿Ves? Soy el mejor."
+    },
+    "ued/CA": {
+        "en": "[Hugin's Craftsman]\nArrggg, we failed. Better luck next time.",
+        "pt": "[Ferreira de Hugin]\nArrggg, falhou. Mais sorte na próxima vez.",
+        "es": "[Herrero de Hugin]\nArrr, fallamos. Mejor suerte la próxima."
+    }
+}

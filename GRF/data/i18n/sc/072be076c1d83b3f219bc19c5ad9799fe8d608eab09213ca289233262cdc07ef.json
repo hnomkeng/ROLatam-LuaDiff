@@ -1,0 +1,902 @@
+{
+    "4MrUAg": {
+        "en": "Manager1",
+        "pt": "Supervisor 1",
+        "es": "Responsable 1"
+    },
+    "4crUAg": {
+        "en": "Fixed the error of being unable to take the test again if the conversation is delayed",
+        "pt": "Corrigido o erro que impedia de refazer o teste se a conversa fosse atrasada.",
+        "es": "Se corrigió el error de no poder volver a hacer la prueba si la conversación se retrasa."
+    },
+    "4srUAg": {
+        "en": "[Time Controller]\nHow much do you want to rewind?",
+        "pt": "[Senhor do Tempo]\nPara que parte do tempo você gostaria de voltar?",
+        "es": "[Controlador del tiempo]\n¿Cuánto quieres retroceder?"
+    },
+    "48rUAg": {
+        "en": "Cancel",
+        "pt": "Sair.",
+        "es": "Cancelar."
+    },
+    "5MrUAg": {
+        "en": "Regenerate the Test Hall monsters",
+        "pt": "Regenerar os monstros do hall de testes.",
+        "es": "Regenerar los monstruos de la Sala de pruebas."
+    },
+    "5crUAg": {
+        "en": "Back to the beginning",
+        "pt": "Para o início.",
+        "es": "Volver al principio."
+    },
+    "5srUAg": {
+        "en": "Furnace Course",
+        "pt": "Para a seção de fornalha.",
+        "es": "Curso sobre hornos."
+    },
+    "58rUAg": {
+        "en": "Shooting Course",
+        "pt": "Para a seção de tiro a distância.",
+        "es": "Curso de tiro."
+    },
+    "6MrUAg": {
+        "en": "Right before Job Change",
+        "pt": "Pouco antes do avanço.",
+        "es": "Antes del cambio de clase."
+    },
+    "6crUAg": {
+        "en": "Furnace Controller",
+        "pt": "Controle da Fornalha",
+        "es": "Controlador del Horno"
+    },
+    "6srUAg": {
+        "en": "Only authorized users may operate this.",
+        "pt": "Apenas membros autorizados.",
+        "es": "Solo los usuarios autorizados pueden usarlo."
+    },
+    "68rUAg": {
+        "en": "Do you want to take out the finished casting from the furnace?",
+        "pt": "Você deseja retirar um molde da fornalha?",
+        "es": "¿Quieres sacar del horno la pieza fundida terminada?"
+    },
+    "7MrUAg": {
+        "en": "Nah",
+        "pt": "Não",
+        "es": "No."
+    },
+    "7crUAg": {
+        "en": "Let's start",
+        "pt": "Começar",
+        "es": "Comencemos."
+    },
+    "7srUAg": {
+        "en": "Operation canceled. Switching to standby mode.",
+        "pt": "Mudar para o modo de espera.",
+        "es": "Operación cancelada. Cambio al modo de espera."
+    },
+    "78rUAg": {
+        "en": "Operating Furnace Controller ZX-3100.",
+        "pt": "Iniciando Fornalha ZX-3100...",
+        "es": "Operando el controlador del horno ZX -3100."
+    },
+    "8MrUAg": {
+        "en": "Unauthorized user. Please stop the operation.",
+        "pt": "Não é um membro autorizado. Abortar operação.",
+        "es": "Usuario no autorizado. Detén la operación."
+    },
+    "8crUAg": {
+        "en": "Electronic Anvil",
+        "pt": "Bigorna Automática",
+        "es": "Yunque Electrónico"
+    },
+    "8srUAg": {
+        "en": "There are traces of illegal gun manufacturing. Report to Manager Elwin.",
+        "pt": "Foi detectada a criação de uma arma de fogo não autorizada. Reportar para o Supervisor Elwin.",
+        "es": "Hay indicios de fabricación ilegal de armas. Informar al administrador Elwin."
+    },
+    "88rUAg": {
+        "en": "Do you want to manufacture a gun using a standard steel article on the electronic anvil?",
+        "pt": "Você deseja utilizar a bigorna automática e moldar os Fragmentos de Aço padrões em uma arma de fogo?",
+        "es": "¿Quieres fabricar un arma usando un artículo de acero estándar en el yunque electrónico?"
+    },
+    "9MrUAg": {
+        "en": "The electronic anvil is dangerous. Please step back.",
+        "pt": "Para a sua segurança, mantenha distância da bigorna automática.",
+        "es": "El yunque electrónico es peligroso. Aléjate un poco."
+    },
+    "9crUAg": {
+        "en": "Successfully manufactured a weapon using the electronic anvil. ^FF0000Report quickly before the transformation runs out^000000.",
+        "pt": "Você forjou uma arma de fogo utilizando a bigorna automática com sucesso. ^FF0000Reporte antes que a transformação expire.^000000",
+        "es": "Fabricaste con éxito un arma usando el yunque electrónico. ^FF0000Infórmalo rápido antes de que se acabe la transformación^000000."
+    },
+    "9srUAg": {
+        "en": "Failed to manufacture a weapon.",
+        "pt": "Você não conseguiu forjar uma arma de fogo.",
+        "es": "No pudiste fabricar un arma."
+    },
+    "98rUAg": {
+        "en": "You don't have a suitable steel article.",
+        "pt": "Você não possui Fragmentos de Aço.",
+        "es": "No tienes un artículo de acero adecuado."
+    },
+    "+MrUAg": {
+        "en": "Furnace Controller: Taking out the finished casting from the furnace. Wait behind the line.",
+        "pt": "Vigia da Fornalha: Retirar um molde da fornalha... Operários, permaneçam na linha de produção.",
+        "es": "Controlador del horno: Sacando del horno la pieza fundida terminada. Espera detrás de la línea."
+    },
+    "+crUAg": {
+        "en": "Furnace Controller: Finishing the operation. The furnace controller will switch to standby mode in 15 seconds.",
+        "pt": "Controle da Fornalha: Finalizando a operação... Entrar em modo de espera em 15 segundos.",
+        "es": "Controlador del horno: Finalizando la operación. El controlador del horno pasará al modo de espera dentro de 15 segundos."
+    },
+    "+srUAg": {
+        "en": "Taking out the finished casting. You can't operate the controller until the work is completed.",
+        "pt": "O sistema está em funcionamento, retirando da fornalha um molde pronto.",
+        "es": "Sacando la pieza fundida terminada. No puedes usar el controlador hasta que el trabajo esté terminado."
+    },
+    "+8rUAg": {
+        "en": "Heating Furnace",
+        "pt": "Fornalha Aquecida",
+        "es": "Horno de calefacción"
+    },
+    "/MrUAg": {
+        "en": "Regular Shooting Target",
+        "pt": "Alvo",
+        "es": "Objetivo Ordinario"
+    },
+    "/crUAg": {
+        "en": "Faulty Shooting Target",
+        "pt": "Não-alvo",
+        "es": "Objetivo Defectuoso"
+    },
+    "/srUAg": {
+        "en": "Suspicious Man",
+        "pt": "Homem Suspeito",
+        "es": "Hombre Sospechoso"
+    },
+    "/8rUAg": {
+        "en": "[Suspicious Man]\nI finally found you! Today, I'm taking in the bounty on your head, Vagabond Spike!",
+        "pt": "[Homem Suspeito]\nFinalmente eu te encontrei, Spike, o errante! Sua cabeça é minha!",
+        "es": "[Hombre Sospechoso]\n¡Por fin te encontré! ¡Hoy cobro la recompensa por tu cabeza, Spike el vagabundo!"
+    },
+    "AMvUAg": {
+        "en": "What are you talking about?!",
+        "pt": "O quê?",
+        "es": "¡¿De qué hablas?!"
+    },
+    "AcvUAg": {
+        "en": "[Suspicious Man]\nHah! Don't even try to talk your way out of this. Look at this wanted poster! It's the spitting image of you!",
+        "pt": "[Homem Suspeito]\nNão se faça de tolo. Veja este cartaz! É você nele!",
+        "es": "[Hombre Sospechoso]\n¡Ja! Ni siquiera intentes salirte con la tuya. ¡Mira este cartel de buscado! ¡Es tu viva imagen!"
+    },
+    "AsvUAg": {
+        "en": "I see the resemblance, but...",
+        "pt": "Eu vejo a semelhança... hmm...",
+        "es": "Sí, veo el parecido, pero…"
+    },
+    "A8vUAg": {
+        "en": "[{0}]\nI'll admit that it looks like me, but where did you get the poster? I haven't done anything in my life that might make someone put out a bounty on me.",
+        "pt": "[{0}]\nEsqueça a semelhança. Onde você conseguiu esse cartaz? Eu nunca cometi nenhum crime.",
+        "es": "[{0}]\nAdmito que se parece a mí, pero ¿dónde encontraste el cartel? Nunca hice nada que pudiera incitar a alguien a ofrecer una recompensa por mi captura."
+    },
+    "BMvUAg": {
+        "en": "[Suspicious Man]\nI knew you'd deny it.",
+        "pt": "[Homem Suspeito]\nEu sabia que você ia tentar me enrolar.",
+        "es": "[Hombre Sospechoso]\nSabía que lo negarías."
+    },
+    "BcvUAg": {
+        "en": "[Suspicious Man]\nI got this wanted poster in ^0000FFEinbroch Secret Tavern^000000. Many other bounty hunters are after you.",
+        "pt": "[Homem Suspeito]\nO ^0000FFBar Secreto de Einbroch^000000 divulgou esse cartaz de procurado. Você tem muitos caçadores de recompensa no seu encalço.",
+        "es": "[Hombre Sospechoso]\nEncontré este cartel de buscado en la ^0000FFTaberna secreta de Einbroch^000000. Muchos otros cazarrecompensas te persiguen."
+    },
+    "BsvUAg": {
+        "en": "[Suspicious Man]\nI don't care who you really are. I only need to bring someone who matches the poster. Dead or alive...",
+        "pt": "[Homem Suspeito]\nEu não ligo se é você aqui, contanto que pareça você e eu te entregue vivo ou morto.",
+        "es": "[Hombre Sospechoso]\nNo me importa quién eres en realidad. Solo necesito entregar a alguien que se parezca a la persona del cartel. Vivo o muerto…"
+    },
+    "B8vUAg": {
+        "en": "Run",
+        "pt": "Fugir.",
+        "es": "Escapar."
+    },
+    "CMvUAg": {
+        "en": "Fight him",
+        "pt": "Lutar contra ele.",
+        "es": "Pelear."
+    },
+    "CcvUAg": {
+        "en": "^0000FFI think I should escape this situation first and try to find some way to resolve all this.^0000FF",
+        "pt": "^0000FFÉ melhor eu fugir por enquanto e pensar sobre isso depois.^0000FF",
+        "es": "^0000FFCreo que primero debería escapar de esta situación y tratar de encontrar alguna manera de resolver todo esto.^0000FF"
+    },
+    "CsvUAg": {
+        "en": "^0000FFNo. I can fight him, but what about the other bounty hunters? For now, I should get out of here and look for a way to put a stop to this whole situation.^0000FF",
+        "pt": "^0000FFEle não é o único caçador de recompensa atrás de mim, se o que ele diz for verdade. Eu preciso de tempo para montar uma estratégia.^0000FF",
+        "es": "^0000FFNo. Con él puedo pelear, pero ¿qué haré con los otros cazarrecompensas? Por ahora, debo salir de aquí y buscar la manera de poner fin a toda esta situación.^0000FF"
+    },
+    "C8vUAg": {
+        "en": "[Suspicious Man]\nYou dare face me again? You're gutsy, I'll give you that!",
+        "pt": "[Homem Suspeito]\nVocê de novo! Você tem coragem de voltar aqui!",
+        "es": "[Hombre Sospechoso]\n¿Te atreves a enfrentarte a mí otra vez? Tienes agallas, lo reconozco."
+    },
+    "DMvUAg": {
+        "en": "Tavern Bouncer",
+        "pt": "Segurança",
+        "es": "Portero de Taberna"
+    },
+    "DcvUAg": {
+        "en": "[Tavern Bouncer]\nWhy are you prowling around here?",
+        "pt": "[Segurança]\nNada de vadiar por aqui.",
+        "es": "[Portero de Taberna]\n¿Por qué estás merodeando por aquí?"
+    },
+    "DsvUAg": {
+        "en": "[Tavern Bouncer]\nWait. You! You were supposed to have been caught a while ago! It doesn't matter, I'll get you and earn enough cash to quit this bouncer job!",
+        "pt": "[Segurança]\nVocê! Eu achava que já tinham te capturado. Bom, agora não importa. Você é meu passe pra cair fora da prisão!",
+        "es": "[Portero de Taberna]\nEspera. ¡Tú! ¡Se suponía que te habían atrapado hace tiempo! No importa, ¡te entregaré y ganaré suficiente dinero para poder dejar este trabajo de portero!"
+    },
+    "D8vUAg": {
+        "en": "I'm not a wanted criminal.",
+        "pt": "Eu não sou quem você pensa!",
+        "es": "No soy un delincuente buscado."
+    },
+    "EMvUAg": {
+        "en": "[Tavern Bouncer]\nHuh?",
+        "pt": "[Segurança]\nNão?",
+        "es": "[Portero de Taberna]\n¿Eh?"
+    },
+    "EcvUAg": {
+        "en": "^0000FFThe tavern bouncer scrutinizes your face.^000000",
+        "pt": "^0000FFO segurança analisa seu rosto.^000000",
+        "es": "^0000FFEl portero de la taberna examina tu rostro.^000000"
+    },
+    "EsvUAg": {
+        "en": "[Tavern Bouncer]\nHmm. You do look similar, but there's something off about you compared to Spike. Eh...",
+        "pt": "[Segurança]\nHum, você possui uma semelhança impressionante, mesmo que não pareça tão hostil quanto aquela escória.",
+        "es": "[Portero de Taberna]\nMmm. Te pareces, aunque hay algo raro en ti comparado con Spike. Eh…"
+    },
+    "E8vUAg": {
+        "en": "Let me see the one who issued the wanted poster.",
+        "pt": "Quero falar com o responsável.",
+        "es": "Déjame ver quién publicó el cartel de buscado."
+    },
+    "FMvUAg": {
+        "en": "[Tavern Bouncer]\nWell, it's not up to me to judge. Go in. If you're a wanted criminal, you won't get out, anyway.",
+        "pt": "[Segurança]\nSeu problema é muito complicado para mim. Entre. Se eu descobrir que você era encrenca esse tempo todo, você nunca mais vai ver a luz do sol.",
+        "es": "[Portero de Taberna]\nBueno, juzgarte no me corresponde a mí. Entra. De todos modos, si eres un delincuente buscado, no saldrás de la taberna."
+    },
+    "FcvUAg": {
+        "en": "[Tavern Bouncer]\nHmm? You again. What is it?",
+        "pt": "[Segurança]\nVocê voltou. Por quê?",
+        "es": "[Portero de Taberna]\n¿Hmm? Tú otra vez. ¿Qué pasa?"
+    },
+    "FsvUAg": {
+        "en": "I want to go in.",
+        "pt": "Eu quero entrar.",
+        "es": "Quiero entrar."
+    },
+    "F8vUAg": {
+        "en": "Just passing by.",
+        "pt": "Só estava de passagem.",
+        "es": "Solo pasaba por aquí."
+    },
+    "GMvUAg": {
+        "en": "[Tavern Bouncer]\nAlright. Don't make any trouble.",
+        "pt": "[Segurança]\nVá em frente. E fique longe de confusão.",
+        "es": "[Portero de Taberna]\nMuy bien. No causes problemas."
+    },
+    "GcvUAg": {
+        "en": "[Tavern Bouncer]\nSilly guy.",
+        "pt": "[Segurança]\nVocê é meio idiota.",
+        "es": "[Portero de Taberna]\nQué disparate."
+    },
+    "GsvUAg": {
+        "en": "[Tavern Bouncer]\nThe inside is under repair. I can't let you in.",
+        "pt": "[Segurança]\nNada disso. Estamos em reforma.",
+        "es": "[Portero de Taberna]\nEl interior está en reparación. No puedo dejarte entrar."
+    },
+    "G8vUAg": {
+        "en": "Cold-blooded Rebellion",
+        "pt": "Insurgente Impiedosa",
+        "es": "Miembro de Rebelión"
+    },
+    "HMvUAg": {
+        "en": "[Cold-blooded Rebellion]\nCan you handle a gun?",
+        "pt": "[Insurgente Impiedosa]\nVocê sabe usar uma arma?",
+        "es": "[Miembro de Rebelión]\n¿Sabes manejar un arma?"
+    },
+    "HcvUAg": {
+        "en": "Suspicious Gunman",
+        "pt": "Justiceiro Suspeito",
+        "es": "Pistolero Sospechoso"
+    },
+    "HsvUAg": {
+        "en": "[Suspicious Gunman]\n...",
+        "pt": "[Justiceiro Suspeito]\n...",
+        "es": "[Pistolero Sospechoso]\n…"
+    },
+    "H8vUAg": {
+        "en": "[Suspicious Gunman]\nWhat? You think I look like a blacksmith or something?",
+        "pt": "[Justiceiro Discreto]\nNão diga que eu pareço um ferreiro, hein.",
+        "es": "[Pistolero Sospechoso]\n¿Qué? ¿Crees que parezco un herrero o algo así?"
+    },
+    "IMvUAg": {
+        "en": "Drunken Man",
+        "pt": "Bêbado",
+        "es": "Hombre Borracho"
+    },
+    "IcvUAg": {
+        "en": "[Drunken Man]\nUuh... I was the owner of this place... Uuh, nah, was this a tavern all along? Mlurm...",
+        "pt": "[Bêbado]\nAh, eu sou o dono. Pera aí, eu tô no bar ou em outro lugar? Zzz...",
+        "es": "[Hombre Borracho]\nEeeh… Yo era el dueño de este lugar… Eeh, no, ¿esto siempre fue una taberna? Glug…"
+    },
+    "IsvUAg": {
+        "en": "Nervous Man",
+        "pt": "Ansioso",
+        "es": "Hombre Nervioso"
+    },
+    "I8vUAg": {
+        "en": "[Nervous Man]\nI think I came in here by mistake. I thought this was a tavern, but something's off about this place.",
+        "pt": "[Ansioso]\nTalvez eu esteja no lugar errado. Isto não parece um bar.",
+        "es": "[Hombre Nervioso]\nCreo que entré aquí por error. Pensé que esto era una taberna, pero hay algo raro en este lugar."
+    },
+    "JMvUAg": {
+        "en": "Kulbertinov",
+        "pt": "Kulbertinov",
+        "es": "Kulbertinov"
+    },
+    "JcvUAg": {
+        "en": "[Kulbertinov]\nDo you have business with me?",
+        "pt": "[Kulbertinov]\nVocê tem negócios para fazer comigo?",
+        "es": "[Kulbertinov]\n¿Tienes algún asunto que tratar conmigo?"
+    },
+    "JsvUAg": {
+        "en": "[Kulbertinov]\nMm? What is it?",
+        "pt": "[Kulbertinov]\nO que você quer?",
+        "es": "[Kulbertinov]\n¿Mm? ¿Qué pasa?"
+    },
+    "J8vUAg": {
+        "en": "I'm getting mistaken as a wanted criminal.",
+        "pt": "Estão me confundindo com um criminoso.",
+        "es": "Me confunden con un delincuente buscado."
+    },
+    "KMvUAg": {
+        "en": "[Kulbertinov]\nWhat? Bwa hah hah!",
+        "pt": "[Kulbertinov]\nEspere um pouco... Muah hah hah!",
+        "es": "[Kulbertinov]\n¿Qué? ¡Ja, ja, ja!"
+    },
+    "KcvUAg": {
+        "en": "^0000FFKulbertinov looks into your face and then guffaws.^000000",
+        "pt": "^0000FFEle examina seu rosto, então dá uma gargalhada. ^000000",
+        "es": "^0000FFKulbertinov mira tu rostro y lanza una carcajada.^000000"
+    },
+    "KsvUAg": {
+        "en": "[Kulbertinov]\nAh, I'm really sorry about that. You got me very surprised. Spike was found dead three days ago, and I thought he came back back to life.",
+        "pt": "[Kulbertinov]\nMe desculpe. Por um momento, eu pensei que Spike tivesse voltado à vida. Ele passou dessa para uma melhor três dias atrás.",
+        "es": "[Kulbertinov]\nAh, lo siento mucho. Me sorprendiste. A Spike lo encontraron muerto hace tres días, así que pensé que había vuelto a la vida."
+    },
+    "K8vUAg": {
+        "en": "The criminal is already caught?",
+        "pt": "Ele já foi capturado?",
+        "es": "¿Ya capturaron al delincuente?"
+    },
+    "LMvUAg": {
+        "en": "[Kulbertinov]\nYeah, I even paid the bounty. But you do look very similar. The bounty hunters who don't know he was caught yet might confuse you for him.",
+        "pt": "[Kulbertinov]\nSim, e o caçador de recompensa já recebeu o pagamento. A notícia não se espalhou, e você é ele cuspido e escarrado. Vai entender.",
+        "es": "[Kulbertinov]\nSí, incluso pagué la recompensa. Pero sí te pareces mucho. Los cazarrecompensas que aún no saben que fue capturado podrían confundirte con él."
+    },
+    "LcvUAg": {
+        "en": "I want compensation for this!",
+        "pt": "Você precisa fazer alguma coisa!",
+        "es": "¡Quiero que me compensen por esto!"
+    },
+    "LsvUAg": {
+        "en": "[Kulbertinov]\nAh, this is troubling news, and I'm sorry about that. This continent is too vast for me to go around and take care of all those mediocre bounty hunters. But I can't deny that I'm a little responsible for what they're doing...",
+        "pt": "[Kulbertinov]\nSinto muito, mas não posso sair conversando com todo caçador de recompensa por aí. Mas é claro que eu estou disposto a compensar pela inconveniência que você está passando.",
+        "es": "[Kulbertinov]\nSí, son noticias preocupantes, y lo siento. Este continente es enorme, no puedo ocuparme yo de todos esos cazarrecompensas mediocres. Pero no puedo negar que lo que están haciendo es, en parte, culpa mía…"
+    },
+    "L8vUAg": {
+        "en": "[Kulbertinov]\nHey, how about walking the same path as we do? At the very least, we don't point our guns at each other.",
+        "pt": "[Kulbertinov]\n...O que acha de se juntar a nós? Pelo menos, dessa forma não tentarão te caçar.",
+        "es": "[Kulbertinov]\nOye, ¿y si recorres el mismo camino que nosotros? Por lo menos, no nos apuntamos unos a otros con nuestras armas."
+    },
+    "MMvUAg": {
+        "en": "Are you telling me to become a bounty hunter?",
+        "pt": "Eu? Um caçador de recompensas?",
+        "es": "¿Estás sugiriendo que me convierta en cazarrecompensas?"
+    },
+    "McvUAg": {
+        "en": "[Kulbertinov]\nNo, that's not really what we're about. We are masters of every gun in the world. Bounty hunting is just a side thing for us.",
+        "pt": "[Kulbertinov]\nNah, o trabalho de caçador de recompensas é só um bico. Nós somos os profissionais de todas as armas de fogo do mundo.",
+        "es": "[Kulbertinov]\nEn realidad, no se trata de eso solamente. Nosotros dominamos todos los tipos de armas del mundo. La cacería de recompensas es algo secundario para nosotros."
+    },
+    "MsvUAg": {
+        "en": "[Kulbertinov]\nThe liberator of free souls!\nThe magical shooter!\nWe call ourselves liberators,\nthe ^0000FFRebellion^000000.",
+        "pt": "[Kulbertinov]\nOs melhores agentes!\nOs mais inteligentes!\nNós somos...\nos ^0000FFInsurgentes^000000!",
+        "es": "[Kulbertinov]\n¡Somos los liberadores de las almas libres!\n¡Los pistoleros mágicos!\nNos llamamos liberadores,\nla ^0000FFRebelión^000000."
+    },
+    "M8vUAg": {
+        "en": "[Kulbertinov]\nYou look pretty familiar with guns. So? Why don't you become one of us instead of suffering because of that wanted poster?",
+        "pt": "[Kulbertinov]\n...Enfim. Você parece saber usar uma arma de fogo. O que acha de ser um de nós? De quebra, ainda resolve a dor de cabeça de ter outros caçadores de recompensa atrás de você.",
+        "es": "[Kulbertinov]\nSe ve que sabes mucho sobre armas. Así que… ¿Por qué no te conviertes en uno de nosotros en vez de sufrir por ese cartel de buscado?"
+    },
+    "NMvUAg": {
+        "en": "I need to think about this.",
+        "pt": "Preciso pensar sobre isso.",
+        "es": "Necesito pensarlo."
+    },
+    "NcvUAg": {
+        "en": "Seems there's no other way.",
+        "pt": "Não tenho muita escolha, né?",
+        "es": "Parece que no hay otra manera."
+    },
+    "NsvUAg": {
+        "en": "[Kulbertinov]\nI don't think you'll be able to come up with something. Just do what I say.",
+        "pt": "[Kulbertinov]\nPode pensar o quanto quiser, mas sei que, no final das contas, você vai acabar aceitando.",
+        "es": "[Kulbertinov]\nNo creo que se te ocurra nada. Solo haz lo que te digo."
+    },
+    "N8vUAg": {
+        "en": "[Kulbertinov]\nAlright! Now, let's strike the iron while it's hot.",
+        "pt": "[Kulbertinov]\nSabia que aceitaria. Bem, vamos começar o processo então.",
+        "es": "[Kulbertinov]\n¡Muy bien! Golpeemos el hierro mientras está caliente."
+    },
+    "OMvUAg": {
+        "en": "[Kulbertinov]\nElwin Konik will guide you to the path of Rebellion. I'll give him the message, so go talk to him. Ah, and don't be pulling out your gun.",
+        "pt": "[Kulbertinov]\nConverse com Elwin Konik. Ela guia almas perdidas como você para o caminho dos Insurgentes. Eu a deixarei avisada da sua visita. Ah, e... Não importa o que ela diga ou faça, nunca aponte sua arma pra ela.",
+        "es": "[Kulbertinov]\nElwin Konik te guiará por el camino de Rebelión. Le daré el mensaje, así que ve a hablar con él. Ah, y no desenfundes tu pistola."
+    },
+    "OcvUAg": {
+        "en": "[Kulbertinov]\nDo you have business with Elwin?",
+        "pt": "[Kulbertinov]\nVocê tem algum assunto para lidar com Elwin Konik?",
+        "es": "[Kulbertinov]\n¿Tienes algún asunto que tratar con Elwin?"
+    },
+    "OsvUAg": {
+        "en": "Not really.",
+        "pt": "Não.",
+        "es": "La verdad, no."
+    },
+    "O8vUAg": {
+        "en": "Take me to Elwin.",
+        "pt": "Leve-me até Elwin Konik.",
+        "es": "Llévame con Elwin."
+    },
+    "PMvUAg": {
+        "en": "[Kulbertinov]\nAlright. How about a shot of vodka, then? Hah hah hah.",
+        "pt": "[Kulbertinov]\nTá certo então. Até mais.",
+        "es": "[Kulbertinov]\nMuy bien. ¿Qué tal un trago de vodka, entonces? Ja, ja, ja."
+    },
+    "PcvUAg": {
+        "en": "[Kulbertinov]\nAlright, I'll tell him right now.",
+        "pt": "[Kulbertinov]\nOK, eu o avisarei sobre a sua visita.",
+        "es": "[Kulbertinov]\nDe acuerdo, se lo diré ahora mismo."
+    },
+    "PsvUAg": {
+        "en": "[Kulbertinov]\nYou got business with me?",
+        "pt": "[Kulbertinov]\nPrecisa falar comigo?",
+        "es": "[Kulbertinov]\n¿Tienes algún asunto que tratar conmigo?"
+    },
+    "P8vUAg": {
+        "en": "Elwin Konik",
+        "pt": "Elwin Konik",
+        "es": "Elwin Konik"
+    },
+    "QMvUAg": {
+        "en": "[Elwin Konik]\nYou'd better leave unless you want a hole in your head.",
+        "pt": "[Elwin Konik]\nSuma da minha frente antes que eu ponha uma bala no meio da sua testa.",
+        "es": "[Elwin Konik]\nSerá mejor que te vayas si no quieres un agujero en la cabeza."
+    },
+    "QcvUAg": {
+        "en": "[Elwin Konik]\nYou want to be a Rebellion like us?",
+        "pt": "[Elwin Konik]\nVocê quer se juntar aos Insurgentes?",
+        "es": "[Elwin Konik]\n¿Quieres ser un miembro de Rebelión como nosotros?"
+    },
+    "QsvUAg": {
+        "en": "^0000FFThe somewhat short and eagle-eyed man stares into your eyes.^000000",
+        "pt": "^0000FFA mulher de baixa estatura fita você com um olhar penetrante.^000000",
+        "es": "^0000FFEl hombre, algo bajito y con vista de águila, te mira fijamente a los ojos.^000000"
+    },
+    "Q8vUAg": {
+        "en": "[Elwin Konik]\nSign your name in the blank space here.",
+        "pt": "[Elwin Konik]\nAssine aqui.",
+        "es": "[Elwin Konik]\nFirma aquí con tu nombre en el espacio en blanco."
+    },
+    "RMvUAg": {
+        "en": "^0000FFI, [_____], hereby waive the right to demand anything in the event of loss of my limbs or life during the test--^000000",
+        "pt": "^0000FFEu, '_____', me comprometo a não falar sobre o teste mesmo se eu sofrer lesões/mutilação, ou passar dessa para uma melhor por conta de imprevistos que podem acontecer durante o teste.^000000",
+        "es": "^0000FFYo, [_____], renuncio a exigir cualquier cosa en caso de pérdida de mis miembros o de mi vida durante la prueba…^000000"
+    },
+    "RcvUAg": {
+        "en": "What's the meaning of this?!",
+        "pt": "...Tá certo isso aqui?",
+        "es": "¡¿Qué significa esto?!"
+    },
+    "RsvUAg": {
+        "en": "[Elwin Konik]\nYou don't want to do this?",
+        "pt": "[Elwin Konik]\nVocê quer se juntar a nós ou não?",
+        "es": "[Elwin Konik]\n¿No quieres hacerlo?"
+    },
+    "R8vUAg": {
+        "en": "Rebellion? No, thanks!",
+        "pt": "Eu desisto.",
+        "es": "¿Rebelión? ¡No, gracias!"
+    },
+    "SMvUAg": {
+        "en": "I hate this waiver, but I'll sign it.",
+        "pt": "...Vou assinar.",
+        "es": "Odio esta renuncia, pero la firmaré."
+    },
+    "ScvUAg": {
+        "en": "[Elwin Konik]\nIf you don't want to do this, then get out of here.",
+        "pt": "[Elwin Konik]\nVocê que sabe.",
+        "es": "[Elwin Konik]\nSi no quieres hacerlo, lárgate de aquí."
+    },
+    "SsvUAg": {
+        "en": "[Elwin Konik]\nGood. Follow me, then.",
+        "pt": "[Elwin Konik]\nOK. Siga-me.",
+        "es": "[Elwin Konik]\nBien. Sígueme, entonces."
+    },
+    "S8vUAg": {
+        "en": "[Elwin Konik]\nShouldn't you finish what you started? So, what will it be?",
+        "pt": "[Elwin Konik]\nQuer tentar de novo?",
+        "es": "[Elwin Konik]\n¿No deberías terminar lo que empezaste? Entonces, ¿qué harás?"
+    },
+    "TMvUAg": {
+        "en": "I'll try the test again.",
+        "pt": "Sim, quero.",
+        "es": "Haré la prueba de nuevo."
+    },
+    "TcvUAg": {
+        "en": "[Elwin Konik]\nFollow me, then.",
+        "pt": "[Elwin Konik]\nSiga-me.",
+        "es": "[Elwin Konik]\nSígueme, entonces."
+    },
+    "TsvUAg": {
+        "en": "[Elwin Konik]\nLooks like you still need to take Ivan's shooting test. What do you say?",
+        "pt": "[Elwin Konik]\nVocê ainda não fez o teste de tiro do Ivan.",
+        "es": "[Elwin Konik]\nParece que todavía tienes que hacer la prueba de tiro de Ivan. ¿Qué dices?"
+    },
+    "T8vUAg": {
+        "en": "[Elwin Konik]\nYou're giving up now? That's pretty foolish. Well, maybe you need time to clear your head.",
+        "pt": "[Elwin Konik]\nMas você já chegou tão longe. Por que desistir agora? Ah, tanto faz.",
+        "es": "[Elwin Konik]\n¿Ahora te rindes? Qué tontería. Quizá necesites tiempo para aclarar tus ideas."
+    },
+    "UMvUAg": {
+        "en": "[Elwin Konik]\nBe careful not to lose your limbs.",
+        "pt": "[Elwin Konik]\nDê o seu melhor.",
+        "es": "[Elwin Konik]\nTen cuidado de no perder tus extremidades."
+    },
+    "UcvUAg": {
+        "en": "[Elwin Konik]\nLooks like Ivan's shooting test isn't done yet. What do you say?",
+        "pt": "[Elwin Konik]\nParece que o teste de tiro do Ivan ainda não terminou. O que você acha?",
+        "es": "[Elwin Konik]\nParece que la prueba de tiro de Ivan aún no terminó. ¿Qué dices?"
+    },
+    "UsvUAg": {
+        "en": "[Elwin Konik]\nIvan's waiting for you. Go talk to him.",
+        "pt": "[Elwin Konik]\nVá falar com Ivan. Ele está te esperando.",
+        "es": "[Elwin Konik]\nIvan te está esperando. Ve a hablar con él."
+    },
+    "U8vUAg": {
+        "en": "[Elwin Konik]\nI think you're done here. Why don't you get a drink out there?",
+        "pt": "[Elwin Konik]\nVocê não precisa fazer mais nenhum teste. Por que não vai descansar um pouco?",
+        "es": "[Elwin Konik]\nCreo que ya terminaste aquí. ¿Por qué no sales a tomar algo?"
+    },
+    "VMvUAg": {
+        "en": "^0000FFYou are already transformed for the test. If you have completed all the test objectives, go to the assembly room and report to Elwin Konik.^000000",
+        "pt": "^0000FFSeu nome já consta no formulário de teste. Se você já terminou todos os testes, reporte para Elwin Konik na Sala de Montagem^000000",
+        "es": "^0000FFYa te transformaste para la prueba. Si ya completaste todos los objetivos de la prueba, ve a la sala de ensamblaje y habla con Elwin Konik.^000000"
+    },
+    "VcvUAg": {
+        "en": "[Elwin Konik]\nWhat's the meaning of this? Do you want to quit the test or what?",
+        "pt": "[Elwin Konik]\nQue aparência é essa?! Você quer sair do teste?",
+        "es": "[Elwin Konik]\n¿Qué significa esto? ¿Quieres abandonar la prueba o qué?"
+    },
+    "VsvUAg": {
+        "en": "^0000FFElwin is furious at you since you've transformed into some other form. It seems you should talk to him again after the transformation runs out.^000000",
+        "pt": "^0000FFElwin ficou furiosa ao ver sua aparência. Volte após sua transformação acabar.^000000",
+        "es": "^0000FFElwin está furioso contigo porque te transformaste en otra forma. Deberías volver a hablar con él cuando acabe la transformación.^000000"
+    },
+    "V8vUAg": {
+        "en": "Wait here",
+        "pt": "Esperar aqui.",
+        "es": "Esperar aquí."
+    },
+    "WMvUAg": {
+        "en": "Go outside",
+        "pt": "Vá para fora.",
+        "es": "Salir."
+    },
+    "WcvUAg": {
+        "en": "[Elwin Konik]\nDon't you do anything funny during the test.",
+        "pt": "[Elwin Konik]\nComo é que você pode ficar brincando durante um teste tão importante?",
+        "es": "[Elwin Konik]\nNo hagas nada raro durante la prueba."
+    },
+    "WsvUAg": {
+        "en": "[Elwin Konik]\nCome back when I can tell that your body's back to normal.",
+        "pt": "[Elwin Konik]\nVolte quando tiver retornado ao normal. E não faça isso novamente!",
+        "es": "[Elwin Konik]\nVuelve cuando pueda ver que tu cuerpo volvió a la normalidad."
+    },
+    "W8vUAg": {
+        "en": "[Elwin Konik]\nI'll retrieve the remaining steel articles.",
+        "pt": "[Elwin Konik]\nÉ necessário devolver todos os Fragmentos de Aço depois de terminar o teste.",
+        "es": "[Elwin Konik]\nRecuperaré los artículos de acero restantes."
+    },
+    "XMvUAg": {
+        "en": "[Elwin Konik]\nYou have regular steel articles. I'll retrieve the remaining ones.",
+        "pt": "[Elwin Konik]\nVocê tem alguns Fragmentos de Aço sobrando. Deixe-os comigo.",
+        "es": "[Elwin Konik]\nTienes artículos de acero ordinarios. Recuperaré los que quedan."
+    },
+    "XcvUAg": {
+        "en": "[Elwin Konik]\nI see that you've made the gun, but time's up. Unfortunately, I must retrieve it.",
+        "pt": "[Elwin Konik]\nVocê tem uma arma feita, mas passou do tempo limite. Passe essa pistola pra cá.",
+        "es": "[Elwin Konik]\nVeo que hiciste la pistola, pero se acabó el tiempo. Lamentablemente, debo recuperarla."
+    },
+    "XsvUAg": {
+        "en": "[Elwin Konik]\nI'll make it short, so listen carefully.",
+        "pt": "[Elwin Konik]\nEscute bem, porque não vou te explicar duas vezes como o teste funciona.",
+        "es": "[Elwin Konik]\nSeré breve, así que escucha con atención."
+    },
+    "X8vUAg": {
+        "en": "Alright.",
+        "pt": "Está bem.",
+        "es": "Muy bien."
+    },
+    "YMvUAg": {
+        "en": "[Elwin Konik]\nThis place handles castings. Steel articles are produced here.",
+        "pt": "[Elwin Konik]\nAqui é onde os moldes para as armas ficam. Dá pra ver os Fragmentos de Aço sendo fabricados em todo canto.",
+        "es": "[Elwin Konik]\nEn este lugar, nos encargamos de las piezas fundidas. Aquí se fabrican artículos de acero."
+    },
+    "YcvUAg": {
+        "en": "[Elwin Konik]\nA Rebellion must have a vast knowledge of weapons. You'll learn something as you assemble a gun yourself.",
+        "pt": "[Elwin Konik]\nNós, Insurgentes, somos os profissionais das armas de fogo. Aqui, você aprenderá a criar e montar armas.",
+        "es": "[Elwin Konik]\nLos miembros de Rebelión deben tener un amplio conocimiento de las armas. Ya aprenderás más cuando debas ensamblar tú un arma."
+    },
+    "YsvUAg": {
+        "en": "[Elwin Konik]\nYour job is to operate the furnace controller near that entrance below to take out the steel articles, then pick 5 among them that meet the standard.",
+        "pt": "[Elwin Konik]\nVocê precisará operar o controle da fornalha próximo da entrada e coletar 5 Fragmentos de Aço.",
+        "es": "[Elwin Konik]\nTu trabajo consiste en accionar el controlador del horno situado cerca de la entrada inferior para sacar los artículos de acero y, a continuación, elegir 5 de ellos que cumplan la norma."
+    },
+    "Y8vUAg": {
+        "en": "[Elwin Konik]\nThen, you'll have to assemble them into a gun at the assembly room next door. I'll give you 3 minutes. You'll have to be quick and sharp-eyed.",
+        "pt": "[Elwin Konik]\nEntão, você terá de levá-los à Sala de Montagem, e usá-los para fabricar uma arma de fogo. Será necessário cumprir esse procedimento todo em 3 minutos, ou você não passará no teste.",
+        "es": "[Elwin Konik]\nLuego, tendrás que usarlos para ensamblar un arma en la sala de ensamblaje de al lado. Te daré 3 minutos. Tendrás que hacerlo rápido y prestar mucha atención."
+    },
+    "ZMvUAg": {
+        "en": "[Elwin Konik]\nSubmit the finished gun to me in the next room. I'll disguise you as someone with another job to measure the time. ^0000FFYou have to take the test again if your disguise gets exposed after 3 minutes^000000, so act fast.",
+        "pt": "[Elwin Konik]\nEstarei na sala seguinte, esperando pela sua arma montada. Durante o teste, você assumirá outra aparência. ^0000FFSe você voltar ao normal, isso significa que os 3 minutos já se passaram^000000 e você terá que fazer o teste novamente.",
+        "es": "[Elwin Konik]\nEntrégame el arma terminada en la sala de al lado. Te disfrazaré de alguien de otra clase para medir el tiempo. ^0000FFTendrás que volver a hacer la prueba si tu disfraz desaparece después de 3 minutos^000000, así que actúa rápido."
+    },
+    "ZcvUAg": {
+        "en": "[Elwin Konik]\nYour job is to operate the switch here to take out the steel articles, then pick 5 among them that meet the standard.",
+        "pt": "[Elwin Konik]\nSua tarefa é operar o interruptor aqui para retirar os Fragmentos de Aço e, em seguida, escolher 5 entre eles que atendam ao padrão.",
+        "es": "[Elwin Konik]\nTu trabajo consiste en accionar este interruptor para sacar los artículos de acero y, a continuación, elegir 5 de entre ellos que cumplan la norma."
+    },
+    "ZsvUAg": {
+        "en": "[Elwin Konik]\nThen, you'll have to assemble them into a gun at the assembly room next door. I'll give you 3 minutes. ^0000FFI'll disguise you as someone with another job to measure the time.^000000",
+        "pt": "[Elwin Konik]\nEntão, você terá de levá-los à Sala de Montagem, e usá-los para fabricar uma arma de fogo. Será necessário cumprir esse procedimento todo em 3 minutos, ou você não passará no teste. ^0000FFDurante o período, você assumirá uma outra aparência^000000.",
+        "es": "[Elwin Konik]\nLuego, tendrás que usarlos para ensamblar un arma en la sala de ensamblaje de al lado. Te daré 3 minutos. ^0000FFTe disfrazaré de alguien de otra clase para medir el tiempo.^000000"
+    },
+    "Z8vUAg": {
+        "en": "[Elwin Konik]\nSubmit the finished gun to me in the next room. ^0000FFYou have to take the test again if your disguise gets exposed after 3 minutes^000000, so act fast.",
+        "pt": "[Elwin Konik]\nEstarei na sala seguinte, esperando pela sua arma montada. Lembre-se, ^0000FFvocê não passará no teste se sua transformação terminar. Ou seja, se você passar de 3 minutos^000000.",
+        "es": "[Elwin Konik]\nEntrégame el arma terminada en la sala de al lado. ^0000FFTendrás que volver a hacer la prueba si tu disfraz desaparece después de 3 minutos^000000, así que actúa rápido."
+    },
+    "aMvUAg": {
+        "en": "[Elwin Konik]\nI'll take you to the next course. Ivan Sidorenko will handle your training from now on.",
+        "pt": "[Elwin Konik]\nProssiga para o próximo passo do teste. O Ivan Sidorenko vai supervisionar o seu progresso.",
+        "es": "[Elwin Konik]\nTe llevaré al siguiente curso. Ivan Sidorenko se encargará de tu entrenamiento a partir de ahora."
+    },
+    "acvUAg": {
+        "en": "[Elwin Konik]\nWhat? Did you get lost? Go out there and get a handle on the situation before coming back in.",
+        "pt": "[Elwin Konik]\nEsqueceu em qual parte do teste você está? Vá conferir isso e então volte aqui.",
+        "es": "[Elwin Konik]\n¿Qué? ¿Te perdiste? Sal y controla la situación antes de volver a entrar aquí."
+    },
+    "asvUAg": {
+        "en": "[Elwin Konik]\nNice. Well, it's actually poor quality since you made it in a hurry, but I'll give you a pass.",
+        "pt": "[Elwin Konik]\nTá mais ou menos, mas serve. Você passou.",
+        "es": "[Elwin Konik]\nBien. En realidad, es de mala calidad porque la hiciste a las apuradas, pero lo dejaré pasar esta vez."
+    },
+    "a8vUAg": {
+        "en": "[Elwin Konik]\nI'll retrieve all the remaining materials.",
+        "pt": "[Elwin Konik]\nDeixe comigo todos os materiais de sobra que ficaram com você.",
+        "es": "[Elwin Konik]\nRecuperaré todos los materiales restantes."
+    },
+    "bMvUAg": {
+        "en": "[Elwin Konik]\nAre you done? You don't have the completed gun in your inventory.",
+        "pt": "[Elwin Konik]\nVocê terminou? Não te vi montar arma nenhuma.",
+        "es": "[Elwin Konik]\n¿Ya terminaste? No tienes el arma terminada en tu inventario."
+    },
+    "bcvUAg": {
+        "en": "[Elwin Konik]\nTime's up. You're disqualified. I'll retrieve all the remaining materials.",
+        "pt": "[Elwin Konik]\nO tempo acabou. Você falhou no teste. Vou recolher todos os seus materiais de teste.",
+        "es": "[Elwin Konik]\nSe acabó el tiempo. Te descalificaron. Recuperaré todos los materiales restantes."
+    },
+    "bsvUAg": {
+        "en": "[Elwin Konik]\nLet's start again.",
+        "pt": "[Elwin Konik]\nVamos começar de novo.",
+        "es": "[Elwin Konik]\nEmpecemos de nuevo."
+    },
+    "b8vUAg": {
+        "en": "Ivan Sidorenko",
+        "pt": "Ivan Sidorenko",
+        "es": "Ivan Sidorenko"
+    },
+    "cMvUAg": {
+        "en": "[Ivan Sidorenko]\nHey, this is a live shooting range. You need permission to even be in here.",
+        "pt": "[Ivan Sidorenko]\nEi, aqui não é lugar pra passear.",
+        "es": "[Ivan Sidorenko]\nOye, esto es un campo de tiro en uso. Necesitas permiso para estar aquí."
+    },
+    "ccvUAg": {
+        "en": "[Ivan Sidorenko]\nI think there's a bit of a misunderstanding. You shouldn't be here now.",
+        "pt": "[Ivan Sidorenko]\nAcho que aconteceu algum desentendimento. Você não deveria estar aqui.",
+        "es": "[Ivan Sidorenko]\nCreo que hubo un pequeño malentendido. No deberías estar aquí."
+    },
+    "csvUAg": {
+        "en": "[Ivan Sidorenko]\nHey! Stay focused. This is a live shooting range. You can get shot if you let your guard down for even a second.",
+        "pt": "[Ivan Sidorenko]\nEi, tome cuidado. A gente usa munição de verdade aqui.",
+        "es": "[Ivan Sidorenko]\n¡Oye! Concéntrate. Este es un campo de tiro en uso. Te pueden disparar si bajas la guardia aunque sea un segundo."
+    },
+    "c8vUAg": {
+        "en": "[Ivan Sidorenko]\nI'll explain the task quickly. You'll run through the shooting range which consists of 5 areas.",
+        "pt": "[Ivan Sidorenko]\nVou te explicar como essa parte funciona: basicamente, você terá de passar pelas 5 partes desse campo de tiro.",
+        "es": "[Ivan Sidorenko]\nExplicaré la tarea rápidamente. Recorrerás el campo de tiro que consta de 5 zonas."
+    },
+    "dMvUAg": {
+        "en": "[Ivan Sidorenko]\nIt's about distinguishing the target among the crowd. This tests how accurate and quick you are, not how many you can kill!",
+        "pt": "[Ivan Sidorenko]\nSeu objetivo será de encontrar inimigos no meio de uma multidão. Seja rápido e não confunda os alvos!",
+        "es": "[Ivan Sidorenko]\nTendrás que distinguir el objetivo entre la multitud. Esto pone a prueba tu precisión y rapidez, no a cuántos puedes matar."
+    },
+    "dcvUAg": {
+        "en": "[Ivan Sidorenko]\nYou have to only shoot ^0000FFRegular Targets^000000 among the same-looking illusions. If you shoot the wrong one, you'll lose points.",
+        "pt": "[Ivan Sidorenko]\nDentre todos eles, você deverá atirar apenas no ^0000FFAlvo^000000. Você perderá pontos a cada erro cometido.",
+        "es": "[Ivan Sidorenko]\nSolo tienes que disparar a ^0000FFobjetivos ordinarios^000000 entre las ilusiones de la misma apariencia. Si le disparas a uno equivocado, perderás puntos."
+    },
+    "dsvUAg": {
+        "en": "[Ivan Sidorenko]\nIt's better to try it yourself. There are only a few ^0000FFRegular Targets^000000 among the illusions, so be sure to find the correct ones.",
+        "pt": "[Ivan Sidorenko]\nVamos lá. Não há muitos ^0000FFAlvos^000000, então fique de olhos bem abertos.",
+        "es": "[Ivan Sidorenko]\nEs mejor que lo pruebes por tu cuenta. Solo hay unos pocos ^0000FFobjetivos ordinarios^000000 entre las ilusiones, así que asegúrate de encontrar los correctos."
+    },
+    "d8vUAg": {
+        "en": "[Ivan Sidorenko]\n^0000FFI'll give you exactly 3 minutes. If your disguise is exposed, it means time's up.^000000 If that happens, give up and follow the road back to me.",
+        "pt": "[Ivan Sidorenko]\n^0000FFVocê terá 3 minutos para terminar este teste. Se não tiver terminado antes da sua transformação acabar, você falhará.^000000 Nesse caso, basta vir falar comigo novamente.",
+        "es": "[Ivan Sidorenko]\n^0000FFTe daré exactamente 3 minutos. Si se revela tu disfraz, significa que se acabó el tiempo.^000000 Si eso ocurre, ríndete y vuelve aquí por el camino."
+    },
+    "eMvUAg": {
+        "en": "[Ivan Sidorenko]\n^0000FFIf you fail to shoot the required number of Regular Targets or shoot 3 wrong targets, you get disqualified.^000000 Now, let's begin.",
+        "pt": "[Ivan Sidorenko]\n^0000FFAlém disso, você falhará se perder um Alvo, ou atirar em 3 oponentes errados^000000. Vamos começar.",
+        "es": "[Ivan Sidorenko]\n^0000FFSi no disparas a la cantidad requerida de objetivos ordinarios o si disparas a 3 objetivos equivocados, te descalificarán.^000000 Ahora, comencemos."
+    },
+    "ecvUAg": {
+        "en": "[Ivan Sidorenko]\nSplendid. I didn't know you'd make it that easily.",
+        "pt": "[Ivan Sidorenko]\nUau, bom trabalho. Não achei que fosse terminar tão rápido!",
+        "es": "[Ivan Sidorenko]\nEspléndido. No creí que lo ibas a lograr tan fácilmente."
+    },
+    "esvUAg": {
+        "en": "[Ivan Sidorenko]\nGo outside and wait. I'll take the assessment papers from the other instructors and follow you.",
+        "pt": "[Ivan Sidorenko]\nVocê pode esperar lá fora agora. Vou conferir quais foram os pareceres dos demais instrutores.",
+        "es": "[Ivan Sidorenko]\nVe afuera y espera. Pediré las evaluaciones de los otros instructores y te seguiré."
+    },
+    "e8vUAg": {
+        "en": "[Ivan Sidorenko]\nYou were quite fast, but unfortunately, you shot too many wrong targets. You're disqualified.",
+        "pt": "[Ivan Sidorenko]\nVocê é rápido, mas atirou em muitos alvos errados. Tente novamente.",
+        "es": "[Ivan Sidorenko]\nFuiste bastante veloz pero, lamentablemente, disparaste a demasiados objetivos equivocados. Te descalificaron."
+    },
+    "fMvUAg": {
+        "en": "[Ivan Sidorenko]\nLet's restart right away. Be quick.",
+        "pt": "[Ivan Sidorenko]\nVamos tentar de novo. Redobre sua atenção dessa vez!",
+        "es": "[Ivan Sidorenko]\nEmpecemos de nuevo de inmediato. Date prisa."
+    },
+    "fcvUAg": {
+        "en": "[Ivan Sidorenko]\nYou were pretty accurate but too slow. That's not good enough to make you a Rebellion.",
+        "pt": "[Ivan Sidorenko]\nVocê tem uma mira ótima, mas demorou muito tempo. Apenas Insurgentes ágeis vivem pra ver o amanhã.",
+        "es": "[Ivan Sidorenko]\nDisparaste con bastante precisión, pero demasiado lento. Eso no es suficiente para ser miembro de Rebelión."
+    },
+    "fsvUAg": {
+        "en": "[Ivan Sidorenko]\nBoth your accuracy and speed are pretty terrible. Are you sure you know how to use a gun?",
+        "pt": "[Ivan Sidorenko]\nVocê passou do tempo limite e errou muitos alvos. Minha nossa, hein?",
+        "es": "[Ivan Sidorenko]\nTu precisión y tu velocidad son desastrosas. ¿Seguro que sabes usar un arma?"
+    },
+    "f8vUAg": {
+        "en": "[Ivan Sidorenko]\nSomething's off about you. I think the counting wasn't done right. Well, this happens from time to time.",
+        "pt": "[Ivan Sidorenko]\nHá algo de errado com você. Acho que a contagem não foi feita corretamente. Bem, isso acontece de vez em quando.",
+        "es": "[Ivan Sidorenko]\nHay algo raro en ti. Creo que el recuento no se hizo bien. Bueno, esto ocurre de vez en cuando."
+    },
+    "gMvUAg": {
+        "en": "[Ivan Sidorenko]\nWhy are you still here?",
+        "pt": "[Ivan Sidorenko]\nPor que ainda está aqui?",
+        "es": "[Ivan Sidorenko]\n¿Por qué sigues aquí?"
+    },
+    "gcvUAg": {
+        "en": "[Ivan Sidorenko]\nGo outside and wait. I'll follow you in a moment.",
+        "pt": "[Ivan Sidorenko]\nPode esperar lá fora. Vou conferir quais foram os pareceres dos demais instrutores.",
+        "es": "[Ivan Sidorenko]\nVe afuera y espera. Te seguiré en un momento."
+    },
+    "gsvUAg": {
+        "en": "I'm carrying too many types of items. I should lighten my bag first.",
+        "pt": "Você tem muitos itens. Libere um pouco de espaço no inventário.",
+        "es": "Tengo demasiados tipos de objetos. Primero debería aligerar mi bolso."
+    },
+    "g8vUAg": {
+        "en": "I'm overweight. I'd better lighten my bag first.",
+        "pt": "Você não consegue carregar nem uma pena a mais. Libere um pouco de peso.",
+        "es": "Tengo demasiado peso. Será mejor que aligere mi bolso primero."
+    },
+    "hMvUAg": {
+        "en": "[Ivan Sidorenko]\nHuh? You're too weak. Right now, I've got nothing to tell you.",
+        "pt": "[Ivan Sidorenko]\nDeve ter acontecido algum desentendimento. Você não deveria estar aqui.",
+        "es": "[Ivan Sidorenko]\n¿Eh? Eres demasiado débil. Por ahora, no tengo nada que decirte."
+    },
+    "hcvUAg": {
+        "en": "[Ivan Sidorenko]\nYou still got some Skill Points left. I can't trust a careless guy like you.",
+        "pt": "[Ivan Sidorenko]\nVocê ainda tem alguns Pontos de Habilidade para distribuir.",
+        "es": "[Ivan Sidorenko]\nTodavía te quedan algunos puntos de habilidad. No puedo confiar en una persona tan descuidada como tú."
+    },
+    "hsvUAg": {
+        "en": "[Ivan Sidorenko]\nKulbertinov, Elwin, and I, Ivan, have aggregated your performance so far. Now, I'm going to tell you whether you qualify to be a Rebellion.",
+        "pt": "[Ivan Sidorenko]\nEu, Kulbertinov e Elwin analisamos seus resultados no teste.",
+        "es": "[Ivan Sidorenko]\nKulbertinov, Elwin y yo, Ivan, evaluamos todos tus resultados hasta ahora. Voy a decirte si calificas para ser parte de Rebelión."
+    },
+    "h8vUAg": {
+        "en": "[Ivan Sidorenko]\nThe bottom line is...",
+        "pt": "[Ivan Sidorenko]\nE...",
+        "es": "[Ivan Sidorenko]\nLa conclusión es…"
+    },
+    "iMvUAg": {
+        "en": "[Ivan Sidorenko]\nYour performance and the impression you gave us are more than good enough.",
+        "pt": "[Ivan Sidorenko]\nVocê cumpriu os requisitos em todos os passos. Parabéns.",
+        "es": "[Ivan Sidorenko]\nTu desempeño y la impresión que nos diste son más que suficientes."
+    },
+    "icvUAg": {
+        "en": "[Ivan Sidorenko]\nYes, we decided to accept you as a Rebellion. Prepare yourself. I'm going to send you to heaven in a second.",
+        "pt": "[Ivan Sidorenko]\nÉ isso mesmo: você agora é um membro dos Insurgentes.",
+        "es": "[Ivan Sidorenko]\nSí, decidimos aceptarte como miembro de Rebelión. Prepárate. Voy a enviarte al paraíso en un segundo."
+    },
+    "isvUAg": {
+        "en": "[Ivan Sidorenko]\nOh, and Instructor Elwin sent this to you. Looks like he put quite a lot of care into polishing it. Use it well.",
+        "pt": "[Ivan Sidorenko]\nO Elwin pediu para te entregar um presente. Ele fez especialmente para você, então cuide com carinho.",
+        "es": "[Ivan Sidorenko]\nAh, y el instructor Elwin te envió esto. Parece que puso mucho cuidado en sacarle brillo. Úsalo bien."
+    },
+    "i8vUAg": {
+        "en": "[Ivan Sidorenko]\nSee you again, then.",
+        "pt": "[Ivan Sidorenko]\nVejo você por aí.",
+        "es": "[Ivan Sidorenko]\nHasta luego."
+    },
+    "jMvUAg": {
+        "en": "[Ivan Sidorenko]\nYou'll find this life enjoyable. At least, it's not boring.",
+        "pt": "[Ivan Sidorenko]\nVocê vai gostar de ser um Insurgente. Nunca se tem um momento de tédio.",
+        "es": "[Ivan Sidorenko]\nTe va a gustar esta vida. Al menos, no es aburrida."
+    },
+    "jcvUAg": {
+        "en": "[Ivan Sidorenko]\nYou got something to tell me? I don't have anything to tell you.",
+        "pt": "[Ivan Sidorenko]\nAcho que não temos mais assuntos a tratar, não é mesmo?",
+        "es": "[Ivan Sidorenko]\n¿Tienes algo que decirme? No tengo nada que decirte."
+    },
+    "jsvUAg": {
+        "en": "Butler Kalex",
+        "pt": "Mordomo Karlex",
+        "es": "Mayordomo Kalex"
+    },
+    "j8vUAg": {
+        "en": "[Butler Kalex]\nI can open the temporary storage you can use before changing your job.",
+        "pt": "[Mordomo Karlex]\nUse este armazém temporário para guardar seus itens em segurança durante o teste.",
+        "es": "[Mayordomo Kalex]\nPuedo abrir el almacén temporal para que lo uses antes de cambiar de clase."
+    },
+    "kMvUAg": {
+        "en": "No, thanks",
+        "pt": "Fechar.",
+        "es": "No, gracias."
+    },
+    "kcvUAg": {
+        "en": "Open the storage",
+        "pt": "Abrir o armazém.",
+        "es": "Abrir el almacén."
+    },
+    "ksvUAg": {
+        "en": "[Butler Kalex]\nThank you for your patronage.",
+        "pt": "[Mordomo Karlex]\nEstarei aqui se precisar.",
+        "es": "[Mayordomo Kalex]\nGracias por tu apoyo."
+    },
+    "k8vUAg": {
+        "en": "[Butler Kalex]\nTo use our Storage service, you first must increase your Novice Job Level to 6 or learn the Basic Skill.",
+        "pt": "[Mordomo Karlex]\nNível de Classe 6 como Aprendiz ou Instintos Básicos Nível 1 de Invocador para utilizar o Armazém.",
+        "es": "[Mayordomo Kalex]\nPara usar nuestro servicio de almacenamiento, primero tienes que aumentar tu nivel de clase de Principiante a 6 o aprender la habilidad básica."
+    }
+}

@@ -1,0 +1,932 @@
+{
+    "AGbFBg": {
+        "en": "Dacquoise",
+        "pt": "Banana Maria",
+        "es": "Dacquoise"
+    },
+    "AWbFBg": {
+        "en": "What's all that you're carrying? Lighten your load a bit and follow me.",
+        "pt": "Você tá carregando muita coisa. Libere espaço no inventário!",
+        "es": "-¿Qué es todo eso que llevas? Aligera un poco la carga y sígueme.-"
+    },
+    "AmbFBg": {
+        "en": "[Dacquoise]\nAn aroma that undeniably stimulates the nostrils!",
+        "pt": "[Banana Maria]\nHum... Sinto cheiro de... de...",
+        "es": "[Dacquoise]\n¡Un aroma que indudablemente estimula las fosas nasales!"
+    },
+    "A2bFBg": {
+        "en": "[Eclaire]\nDiverse dishes that awaken the five senses! Yes, that is my destiny!",
+        "pt": "[Bala Gil]\nNão é tempero... Não é chá...",
+        "es": "[Eclaire]\n¡Platos variados que despiertan los cinco sentidos! ¡Sí, ese es mi destino!"
+    },
+    "BGbFBg": {
+        "en": "[Mille Feuille]\nYour arrival here was no mere coincidence either!",
+        "pt": "[Palmitinha]\nÉ cheiro de Aprendiz!\nE Aprendiz dos bons!",
+        "es": "[Mille Feuille]\nTu llegada aquí tampoco es una mera coincidencia."
+    },
+    "BWbFBg": {
+        "en": "[Dacquoise]\nWhat's your name, you who is constantly tugged by fate?",
+        "pt": "[Banana Maria]\nSó pra confirmar de que você é mesmo quem estávamos esperando:\nqual é o seu nome?",
+        "es": "[Dacquoise]\n¿Cómo te llamas, tú de quien el destino tironea constantemente con sus hilos?"
+    },
+    "BmbFBg": {
+        "en": "[{0}]\n{0}...",
+        "pt": "[{0}]\n{0}...",
+        "es": "[{0}]\n{0}…"
+    },
+    "B2bFBg": {
+        "en": "[Dacquoise]\nAs for me, I'm Dacquoise, a disciple of the famous legendary chef of Rune Midgard, ^0000CDCharles Orlean^000000.",
+        "pt": "[Banana Maria]\nIsso mesmo! Estávamos esperando por você. Somos alunas do incrível chef ^0000CDErick Jacão^000000.",
+        "es": "[Dacquoise]\nEn cuanto a mí, soy Dacquoise, una discípula del legendario chef de Rune-Midgard, ^0000CDCharles Orleans^000000."
+    },
+    "CGbFBg": {
+        "en": "[Eclaire]\nAnd we're also members of the ^0000CDOrlean fan club^000000!",
+        "pt": "[Bala Gil]\nSomos cozinheiras do ^0000CDFã-clube Jacão^000000.",
+        "es": "[Eclaire]\n¡Y también somos miembros del ^0000CDclub de fans de Orleans^000000!"
+    },
+    "CWbFBg": {
+        "en": "[Mille Feuille]\nOrlean is with all of us!",
+        "pt": "[Palmitinha]\nAdoramos o Jacão!",
+        "es": "[Mille Feuille]\n¡Orleans vive en todas nosotras!"
+    },
+    "CmbFBg": {
+        "en": "[Dacquoise]\nAh! How do the foolish ones of this land eat?",
+        "pt": "[Banana Maria]\nTentamos fazer as mesmas receitas que passam na TV!",
+        "es": "[Dacquoise]\n¡Ah! ¿Qué comen los insensatos de estas tierras?"
+    },
+    "C2bFBg": {
+        "en": "[Dacquoise]\nFruit? Of course, it's delicious on its own! But what are bright red strawberries when not gently laid down on a soft, white cake?",
+        "pt": "[Banana Maria]\nMorangos são belos, né? Mas e se você puser um morangão no topo de um bolo...\nEle não fica ainda mais lindo?",
+        "es": "[Dacquoise]\n¿Frutas? Por supuesto, son deliciosas si las comes solas. ¿Pero qué es una fresa roja y brillante si no se la coloca cuidadosamente sobre un blanco y suave pastel?"
+    },
+    "DGbFBg": {
+        "en": "[Eclaire]\nBread? Of course, it's good on its own. But together with cheese, meat, and vegetables... No one could reject such fantastic harmony.",
+        "pt": "[Bala Gil]\nAquela massa crocantinha do pastel é deliciosa...\nMas não é nada se não tiver um recheio de queijo, tomate e orégano!",
+        "es": "[Eclaire]\n¿Pan? Claro que es rico por sí solo. Pero si lo combinas con queso, carne y verduras… Nadie podría negarse a esa fantástica armonía."
+    },
+    "DWbFBg": {
+        "en": "[Mille Feuille]\nI like Minorous hoof stew!",
+        "pt": "[Palmitinha]\nAdoro um ensopado de casco de Minorous!",
+        "es": "[Mille Feuille]\n¡A mí me gusta el Guiso de pezuña de Minorous!"
+    },
+    "DmbFBg": {
+        "en": "[Dacquoise]\nWhen you eat a warm, delicious meal, your ^0000CDstats are boosted^000000 and you ^0000CDrecover health^000000, so there's no reason not to cook your meals.",
+        "pt": "[Banana Maria]\nO que estamos querendo dizer é que, se você comer um prato bem feito,\n^0000CDvocê poderá ter um bônus de atributo^000000 e ^0000CDmaior recuperação^000000. Então, cozinhe!",
+        "es": "[Dacquoise]\nCuando comes un plato caliente y delicioso, tus ^0000CDestadísticas aumentan^000000 y ^0000CDrecuperas salud^000000, así que no hay razón para no cocinar tus comidas."
+    },
+    "D2bFBg": {
+        "en": "[Eclaire]\nDon't you want to learn about cooking?",
+        "pt": "[Bala Gil]\nE aí, você quer saber mais sobre a arte de cozinhar?",
+        "es": "[Eclaire]\n¿No quieres aprender a cocinar?"
+    },
+    "EGbFBg": {
+        "en": "[Mille Feuille]\nExperience the culinary cascade of cooking!",
+        "pt": "[Palmitinha]\nAdoraríamos tirar suas dúvidas!",
+        "es": "[Mille Feuille]\n¡Explora el amplio abanico de posibilidades de la cocina!"
+    },
+    "EWbFBg": {
+        "en": "I'm not interested...",
+        "pt": "Prefiro pedir comida pronta pelo Raggi.",
+        "es": "No me interesa…"
+    },
+    "EmbFBg": {
+        "en": "Wow! I want to learn!",
+        "pt": "Sim! Me ensine tudo!",
+        "es": "¡Guau! ¡Quiero aprender!"
+    },
+    "E2bFBg": {
+        "en": "[Dacquoise]\nIs that so? That's too bad. Come back if you change your mind!",
+        "pt": "[Banana Maria]\nPuxa vida... Mas e o prazer de cozinhar, como fica?",
+        "es": "[Dacquoise]\n¿De verdad? Es una lástima. Vuelve si cambias de opinión."
+    },
+    "FGbFBg": {
+        "en": "[Eclaire]\nI bet you'll be back soon! That's what my intuition is telling me!",
+        "pt": "[Bala Gil]\nNão se preocupa, Banana! Essa pessoa vai voltar um dia...",
+        "es": "[Eclaire]\n¡Apuesto a que volverás pronto! Me lo dice mi intuición."
+    },
+    "FWbFBg": {
+        "en": "[Mille Feuille]\nDon't forget to pound on your chest when sweet potato gets stuck in your throat!",
+        "pt": "[Banana Maria]\nPerfeito! É assim que se fala!",
+        "es": "[Mille Feuille]\n¡No olvides golpearte el pecho si te atragantas con las batatas!"
+    },
+    "FmbFBg": {
+        "en": "[Dacquoise]\nOkay! We'll be your guides on your cooking journey!",
+        "pt": "[Banana Maria]\nOk! Seremos suas guias na jornada culinária!",
+        "es": "[Dacquoise]\n¡Bien! ¡Seremos tus guías en este viaje culinario!"
+    },
+    "F2bFBg": {
+        "en": "[Eclaire]\nAsk us anything!",
+        "pt": "[Bala Gil]\nPode perguntar qualquer coisa!",
+        "es": "[Eclaire]\nPregúntanos lo que quieras."
+    },
+    "GGbFBg": {
+        "en": "[Mille Feuille]\nFriendliness is our seasoning!",
+        "pt": "[Palmitinha]\nVamos te responder tudo com o nosso tempero especial...",
+        "es": "[Mille Feuille]\n¡La amabilidad es nuestro condimento!"
+    },
+    "GWbFBg": {
+        "en": "Effects of cooking.",
+        "pt": "Os benefícios de cozinhar",
+        "es": "¿Cuáles son los efectos de la cocina?"
+    },
+    "GmbFBg": {
+        "en": "How to cook.",
+        "pt": "Como cozinhar",
+        "es": "¿Cómo se cocina?"
+    },
+    "G2bFBg": {
+        "en": "Friendliness is no seasoning.",
+        "pt": "Cancelar",
+        "es": "La amabilidad no es un condimento."
+    },
+    "HGbFBg": {
+        "en": "[Dacquoise]\nAha! You want to learn about the effects of cooking? There are two major effects!",
+        "pt": "[Banana Maria]\nO ato de cozinhar traz dois benefícios importantíssimos!",
+        "es": "[Dacquoise]\n¡Ajá! ¿Quieres conocer los efectos de la cocina? Hay dos efectos principales."
+    },
+    "HWbFBg": {
+        "en": "[Dacquoise]\nThe first is it ^0000CDboosts your stats^000000! Ta-dah!",
+        "pt": "[Banana Maria]\nPrimeiro são os ^0000CDbônus de atributos!^000000",
+        "es": "[Dacquoise]\n¡El primero es que ^0000CDpotencia tus estadísticas^000000! ¡Tarán!"
+    },
+    "HmbFBg": {
+        "en": "[Eclaire]\nThe 6 types of cooking each boost one stat among ^0000CDSTR, AGI, VIT, INT, DEX, LUK^000000.",
+        "pt": "[Bala Gil]\nCertos rangos podem aumentar temporariamente a sua ^0000CDFOR, AGI, VIT, INT, DES e SOR^000000.",
+        "es": "[Eclaire]\nCada uno de los 6tipos de cocina potencian una estadística en particular: ^0000CDFUE, AGI, VIT, INT, DES o SUE^000000."
+    },
+    "H2bFBg": {
+        "en": "[Mille Feuille]\nThe amount it boosts depends on the level of the dish.",
+        "pt": "[Palmitinha]\nDependendo da sua habilidade no fogão, os bônus de atributo podem ser bem altos!",
+        "es": "[Mille Feuille]\nLa cantidad que potencia depende del nivel del plato."
+    },
+    "IGbFBg": {
+        "en": "[Dacquoise]\nAnd the second effect! Dun dun dun!",
+        "pt": "[Banana Maria]\nE em segundo lugar, mas não menos importante...",
+        "es": "[Dacquoise]\nY el segundo efecto es que… *¡Tun, tun, tun!*"
+    },
+    "IWbFBg": {
+        "en": "[Eclaire]\n^0000CDRestoring HP and SP^000000!",
+        "pt": "[Bala Gil]\nComidas podem regenerar seu ^0000CDHP e SP^000000!",
+        "es": "[Eclaire]\n^0000CD¡recupera HP y SP!^000000"
+    },
+    "ImbFBg": {
+        "en": "[Mille Feuille]\nHow much is restored depends on the level of the dish. There are also dishes that only restore HP.",
+        "pt": "[Palmitinha]\nAssim como os bônus de atributo, a regeneração vai variar com a sua proficiência.",
+        "es": "[Mille Feuille]\nLa cantidad que recupera depende del nivel del plato. También hay platos que solo recuperan HP."
+    },
+    "I2bFBg": {
+        "en": "[Dacquoise]\nWhat do you think? Doesn't that whet your appetite?",
+        "pt": "[Banana Maria]\nO que acha? Não dá água na boca?",
+        "es": "[Dacquoise]\n¿Qué opinas? ¿No te abre el apetito?"
+    },
+    "JGbFBg": {
+        "en": "[Eclaire]\nYou might not experience these effects fully because your level is still low, but once your level gets higher, the power of cooking will move you to tears.",
+        "pt": "[Bala Gil]\nVocê ainda tá meio cru, mas conforme for amadurecendo, vai conseguir fazer uns pratos sensacionais!",
+        "es": "[Eclaire]\nQuizá no experimentes los efectos en su totalidad porque tu nivel de cocina es bajo, pero, una vez que subas de nivel, el poder de la cocina te emocionará hasta las lágrimas."
+    },
+    "JWbFBg": {
+        "en": "[Mille Feuille]\nPrepare a lace handkerchief.",
+        "pt": "[Palmitinha]\nArrume um lenço de renda.",
+        "es": "[Mille Feuille]\nPrepara el pañuelo de encaje."
+    },
+    "JmbFBg": {
+        "en": "How do I cook?",
+        "pt": "Legal. E como eu começo?",
+        "es": "¿Cómo se cocina?"
+    },
+    "J2bFBg": {
+        "en": "[Dacquoise]\nThat's it! You're finally interested!",
+        "pt": "[Banana Maria]\nCalma lá, calma lá!",
+        "es": "[Dacquoise]\n¡Eso es! ¡Por fin te interesa!"
+    },
+    "KGbFBg": {
+        "en": "[Dacquoise]\nWhen cooking, brashness is forbidden! Preparation is key.",
+        "pt": "[Banana Maria]\nApressado come cru!",
+        "es": "[Dacquoise]\n¡En la cocina, la impulsividad está prohibida! La preparación es clave."
+    },
+    "KWbFBg": {
+        "en": "[Eclaire]\nOnly those who are properly prepared may enter the world of cooking!",
+        "pt": "[Bala Gil]\nSó as pessoas que estiverem preparadas podem entrar no mundo da cozinha!",
+        "es": "[Eclaire]\n¡Solo quienes saben prepararse bien pueden entrar en el mundo de la cocina!"
+    },
+    "KmbFBg": {
+        "en": "[Mille Feuille]\nPreparation! It's not something difficult!",
+        "pt": "[Palmitinha]\nPreparação é a palavra!",
+        "es": "[Mille Feuille]\n¡La preparación no es nada difícil!"
+    },
+    "K2bFBg": {
+        "en": "[Dacquoise]\nPreparation is divided into two main steps:",
+        "pt": "[Banana Maria]\nAntes de tudo, você precisa de duas coisas.",
+        "es": "[Dacquoise]\nLa preparación se divide en dos pasos principales:"
+    },
+    "LGbFBg": {
+        "en": "[Dacquoise]\nFirst! You need a ^0000CDrecipe book^000000.",
+        "pt": "[Banana Maria]\nPrimeiro, você precisa de um ^0000CDLivro de Culinária^000000.",
+        "es": "[Dacquoise]\nPrimero, necesitas un ^0000CDlibro de recetas^000000."
+    },
+    "LWbFBg": {
+        "en": "[Eclaire]\nImagine that there are mountains of ingredients piled up before you. But you don't know what to do with them!",
+        "pt": "[Bala Gil]\nAfinal, do que adianta ter os ingredientes, se você não sabe o que fazer com eles?",
+        "es": "[Eclaire]\nImagina que hay una montaña de ingredientes apilada frente a ti, pero no sabes qué hacer con ella."
+    },
+    "LmbFBg": {
+        "en": "[Mille Feuille]\nThat's when you open your recipe book.",
+        "pt": "[Palmitinha]\nÉ quando você abre seu livro de culinária.",
+        "es": "[Mille Feuille]\nEs entonces cuando abres el libro de recetas."
+    },
+    "L2bFBg": {
+        "en": "[Dacquoise]\nA recipe book will tell you how to turn those ingredients into a dish.",
+        "pt": "[Banana Maria]\nUm livro de culinária ensina a transformar ingredientes em pratos.",
+        "es": "[Dacquoise]\nEl libro de recetas te dirá cómo convertir esos ingredientes en un plato."
+    },
+    "MGbFBg": {
+        "en": "[Eclaire]\nSo how do you get a recipe book?",
+        "pt": "[Bala Gil]\nE para isso...",
+        "es": "[Eclaire]\n¿Cómo se consigue un libro de recetas?"
+    },
+    "MWbFBg": {
+        "en": "[Mille Feuille]\nRecipe books can be gained ^0000CDthrough quests^000000 or ^0000CDfrom monsters^000000.",
+        "pt": "[Palmitinha]\nVocê pode consegui-lo por meio de ^0000CDmissões^000000 ou ^0000CDderrotando monstros^000000.",
+        "es": "[Mille Feuille]\nPuedes obtenerlos ^0000CDa través de misiones^000000 o ^0000CDderrotando monstruos^000000."
+    },
+    "MmbFBg": {
+        "en": "[Dacquoise]\nOnce you have a recipe book, you're on to the second step!\nWhich is ^0000CDingredients^000000!",
+        "pt": "[Banana Maria]\nCom o Livro de Culinária em mãos, vem o segundo passo...\nTer os ^0000CDIngredientes!^000000",
+        "es": "[Dacquoise]\nUna vez que tengas un libro de recetas, puedes avanzar al segundo paso,\n¡que son los ^0000CDingredientes^000000!"
+    },
+    "M2bFBg": {
+        "en": "[Eclaire]\nYou can't cook with only a recipe book and no ingredients. Even a newborn baby knows that!",
+        "pt": "[Bala Gil]\nNão dá pra cozinhar só com livro de receitas e sem ingredientes! Até um bebê sabe disso!",
+        "es": "[Eclaire]\nNo se puede cocinar solo con un libro de recetas y sin ingredientes. ¡Eso lo sabe hasta un bebé!"
+    },
+    "NGbFBg": {
+        "en": "[Mille Feuille]\nYou can get ingredients by defeating ^0000CDmonsters^000000, or you can buy them from ^0000CDIngredient Merchants^000000.",
+        "pt": "[Palmitinha]\nVocê pode consegui-los derrotando ^0000CDmonstros^000000 ou comprando de ^0000CDMercadores^000000.",
+        "es": "[Mille Feuille]\nPuedes conseguir ingredientes derrotando ^0000CDmonstruos^000000 o puedes comprárselos a los ^0000CDComerciantes de ingredientes^000000."
+    },
+    "NWbFBg": {
+        "en": "[Dacquoise]\nIt takes some preparation before you can start cooking, but when you think of the benefits, it's all worth it!",
+        "pt": "[Banana Maria]\nCozinhar exige preparo, mas os benefícios compensam!",
+        "es": "[Dacquoise]\nNecesitas algo de preparación antes de empezar a cocinar, pero, cuando piensas en los beneficios, ¡todo vale la pena!"
+    },
+    "NmbFBg": {
+        "en": "[Dacquoise]\nSomething to remember when cooking is that there's a ^0000CDchance of failure^000000. The probability changes based on your cooking tools and cooking level.",
+        "pt": "[Banana Maria]\nAh, e uma coisa que você não pode esquecer: ^0000CDseu prato pode acabar dando ruim!^000000 A receita depende do seu nível e dos ingredientes utilizados.",
+        "es": "[Dacquoise]\nAlgo que debes tener en cuenta es que, al cocinar, hay una ^0000CDposibilidad de fracaso^000000. La probabilidad cambia en función de los utensilios y el nivel de cocina que tengas."
+    },
+    "N2bFBg": {
+        "en": "I want to try cooking!",
+        "pt": "Quero tentar fazer um prato!",
+        "es": "¡Quiero cocinar!"
+    },
+    "OGbFBg": {
+        "en": "[Dacquoise]\nYou look so enthusiastic! Let's try to cook something! Cleanse your mind and return to me!",
+        "pt": "[Banana Maria]\nQue proatividade! Gostei de ver!",
+        "es": "[Dacquoise]\n¡Me encanta ese entusiasmo! ¡Intentemos cocinar algo! ¡Despeja la mente y ven a verme de nuevo!"
+    },
+    "OWbFBg": {
+        "en": "[Dacquoise]\nThat's right. Cooking requires preparation. That preparation is divided into two main steps:",
+        "pt": "[Banana Maria]\nExato. Cozinhar exige preparo, e esse preparo se divide em duas etapas principais:",
+        "es": "[Dacquoise]\nEso es. Cocinar requiere preparación. Dicha preparación se divide en dos pasos principales:"
+    },
+    "OmbFBg": {
+        "en": "[Dacquoise]\nFirst! You must have a ^0000CDrecipe book^000000!",
+        "pt": "[Banana Maria]\nPrimeiro! Você precisa ter um ^0000CDlivro de culinária^000000!",
+        "es": "[Dacquoise]\n¡Primero, debes tener un ^0000CDlibro de recetas^000000!"
+    },
+    "O2bFBg": {
+        "en": "[Dacquoise]\nA recipe book will tell you how to refine those ingredients into a dish.",
+        "pt": "[Banana Maria]\nO livro ensina a transformar ingredientes em pratos.",
+        "es": "[Dacquoise]\nEl libro de recetas te dirá cómo convertir esos ingredientes en un plato."
+    },
+    "PGbFBg": {
+        "en": "[Eclaire]\nRecipe books can be gained ^0000CDthrough quests^000000 or ^0000CDfrom monsters^000000.",
+        "pt": "[Bala Gil]\nLivros de receitas são obtidos ^0000CDem missões^000000 ou ^0000CDde monstros^000000.",
+        "es": "[Eclaire]\nPuedes obtenerlos ^0000CDa través de misiones^000000 o ^0000CDderrotando monstruos^000000."
+    },
+    "PWbFBg": {
+        "en": "[Mille Feuille]\nTell us what you need to prepare next.",
+        "pt": "[Palmitinha]\nDiga o que precisa preparar agora.",
+        "es": "[Mille Feuille]\nDinos qué necesitas preparar a continuación."
+    },
+    "PmbFBg": {
+        "en": "[Dacquoise]\nSecond! Of course, it's fresh ^0000CDingredients^000000!",
+        "pt": "[Banana Maria]\nSegundo! Claro, são ^0000CDingredientes frescos^000000!",
+        "es": "[Dacquoise]\n¡Segundo, por supuesto, necesitas ^0000CDingredientes frescos^000000!"
+    },
+    "P2bFBg": {
+        "en": "[Eclaire]\nHow would you cook without ingredients? Are you going to eat the recipe book?",
+        "pt": "[Bala Gil]\nComo cozinhar sem ingredientes? Vai comer o livro?",
+        "es": "[Eclaire]\n¿Cómo podrías cocinar sin ingredientes? ¿O pensabas comerte el libro de recetas?"
+    },
+    "QGbFBg": {
+        "en": "[Mille Feuille]\nThere are dishes made with ingredients that are 100 years old, and they're perfectly edible!",
+        "pt": "[Palmitinha]\nExistem pratos feitos com ingredientes de 100 anos... e são comestíveis!",
+        "es": "[Mille Feuille]\nHay platos que se elaboran con ingredientes de hace 100años, ¡y son perfectamente comestibles!"
+    },
+    "QWbFBg": {
+        "en": "[Dacquoise]\nNonsense! Anyway, it takes some preparation to be ready to cook, but if you think of the benefits, it's all worth it.",
+        "pt": "[Banana Maria]\nBobagem! Enfim, cozinhar exige preparo, mas os benefícios compensam.",
+        "es": "[Dacquoise]\n¡Tonterías! En todo caso, necesitas algo de preparación antes de empezar a cocinar, pero, cuando piensas en los beneficios, todo vale la pena."
+    },
+    "QmbFBg": {
+        "en": "[Eclaire]\nSomething to remember when cooking is that there's a ^0000CDchance of failure^000000. The probability changes based on your cooking tools and cooking level.",
+        "pt": "[Bala Gil]\nLembre-se: há ^0000CDchance de falha^000000. Depende dos utensílios e do seu nível de culinária.",
+        "es": "[Eclaire]\nAlgo que debes tener en cuenta es que, al cocinar, hay una ^0000CDposibilidad de fracaso^000000. La probabilidad cambia en función de los utensilios y el nivel de cocina que tengas."
+    },
+    "Q2bFBg": {
+        "en": "[Eclaire]\nIf you fail, we're not responsible!",
+        "pt": "[Bala Gil]\nSe você falhar... Você que lute! A gente não se responsabiliza, não!",
+        "es": "[Eclaire]\n¡Si fracasas, no nos haremos responsables!"
+    },
+    "RGbFBg": {
+        "en": "What's good about eating a cooked dish?",
+        "pt": "Pra que eu vou comer?",
+        "es": "¿Cuáles son los beneficios de comer un plato cocinado?"
+    },
+    "RWbFBg": {
+        "en": "[Dacquoise]\nThat's a good question! There are two major effects!",
+        "pt": "[Banana Maria]\nAlém de não morrer de fome, você vai ter dois benefícios!",
+        "es": "[Dacquoise]\n¡Buena pregunta! Hay dos efectos principales."
+    },
+    "RmbFBg": {
+        "en": "[Eclaire]\nEclaire's 1 minute cooking knowledge lesson! The 6 types of cooking each boost one stat among ^0000CDSTR, AGI, VIT, INT, DEX, LUK^000000.",
+        "pt": "[Bala Gil]\nVocê pode ganhar bônus em ^0000CDFOR, AGI, VIT, INT, DES e SOR^000000.",
+        "es": "[Eclaire]\n¡Lección de cocina en 1minuto de Eclaire! Cada uno de los 6tipos de cocina potencian una estadística en particular: ^0000CDFUE, AGI, VIT, INT, DES o SUE^000000."
+    },
+    "R2bFBg": {
+        "en": "[Eclaire]\nDon't interrupt me while I'm explaining.",
+        "pt": "[Bala Gil]\nEi, eu que estava explicando!",
+        "es": "[Eclaire]\nNo me interrumpas mientras te lo explico."
+    },
+    "SGbFBg": {
+        "en": "[Eclaire]\n^0000CDRestoring HP and SP!^000000",
+        "pt": "[Bala Gil]\n^0000CDÉ a recuperação de HP e SP!!!^000000",
+        "es": "[Eclaire]\n^0000CD¡recupera HP y SP!^000000"
+    },
+    "SWbFBg": {
+        "en": "[Eclaire]\nI said, stop interrupting!",
+        "pt": "[Bala Gil]\nAaaah, pare de me interromper!",
+        "es": "[Eclaire]\n¡Te dije que dejes de interrumpir!"
+    },
+    "SmbFBg": {
+        "en": "[Dacquoise]\nDoesn't that whet your appetite? You might not experience these effects fully because your level is still low, but once your level gets higher, your cooking will bring a tear to your eye!",
+        "pt": "[Banana Maria]\nNão dá água na boca? Seu nível é baixo, mas quando subir, vai chorar de emoção!",
+        "es": "[Dacquoise]\n¿No te abre el apetito? Quizá no experimentes estos efectos plenamente porque tienes un nivel bajo, pero, una vez que tu nivel suba, ¡tus platos te emocionarán hasta las lágrimas!"
+    },
+    "S2bFBg": {
+        "en": "Wow! I want to try cooking!",
+        "pt": "Legal! Eu quero cozinhar!!!",
+        "es": "¡Guau! ¡Quiero cocinar!"
+    },
+    "TGbFBg": {
+        "en": "[Dacquoise]\nYou look so enthusiastic! Let's try to cook something! Cleanse your mind and return!",
+        "pt": "[Banana Maria]\nQue proatividade! Assim que eu gosto de ver!!!",
+        "es": "[Dacquoise]\n¡Me encanta ese entusiasmo! ¡Intentemos cocinar algo! ¡Despeja la mente y regresa!"
+    },
+    "TWbFBg": {
+        "en": "[Dacquoise]\nWhat? We've wasted our precious time!",
+        "pt": "[Banana Maria]\nNão desperdice meu tempo precioso!",
+        "es": "[Dacquoise]\n¿Qué? ¡Nos hiciste perder tiempo valioso!"
+    },
+    "TmbFBg": {
+        "en": "[Eclaire]\nJust when I was wondering if we'd gain a new member!",
+        "pt": "[Bala Gil]\nPensei que finalmente teríamos um novo membro!",
+        "es": "[Eclaire]\nYo que pensaba que tendríamos un nuevo miembro."
+    },
+    "T2bFBg": {
+        "en": "[Mille Feuille]\nDon't show your face around here again!",
+        "pt": "[Palmitinha]\nNão apareça mais aqui!",
+        "es": "[Mille Feuille]\n¡No vuelvas a aparecer por aquí!"
+    },
+    "UGbFBg": {
+        "en": "[Dacquoise]\nAre you ready? Seeing is believing! Let's cook!\nFrom this novice trial period, you'll get a taste of the cooking experience.",
+        "pt": "[Banana Maria]\nTudo pronto? Então vamos cozinhar!",
+        "es": "[Dacquoise]\n¿Tienes todo listo? Ver para creer. ¡Vamos a cocinar!\nEn este período de prueba para Principiantes, podrás saborear la experiencia de la cocina."
+    },
+    "UWbFBg": {
+        "en": "[Eclaire]\nSince it's a novice trial, the effects of the Level 1 dishes ^0000CDwon't last for very long^000000!",
+        "pt": "[Bala Gil]\nFaremos um prato de iniciante, então não será muito difícil.",
+        "es": "[Eclaire]\nComo es una prueba para Principiantes, los efectos de los platos de nivel1 ^0000CDno durarán mucho tiempo^000000."
+    },
+    "UmbFBg": {
+        "en": "[Mille Feuille]\nNormally, you'd need a recipe and cooking tools, but seeing as you're a novice and all, I'll take care of all that for you.",
+        "pt": "[Palmitinha]\nNormalmente você precisaria dos aparatos de cozinha,\nmas como você está começando agora, eu vou te ajudar com isso.",
+        "es": "[Mille Feuille]\nNormalmente, necesitarías una receta y utensilios de cocina, pero, como eres Principiante, yo me encargaré de todo."
+    },
+    "U2bFBg": {
+        "en": "[Dacquoise]\nShouldn't the adventurer be making the dish?",
+        "pt": "[Banana Maria]\nPor que você vai ajudar?",
+        "es": "[Dacquoise]\n¿No debería cocinar la persona que está aprendiendo?"
+    },
+    "VGbFBg": {
+        "en": "[Mille Feuille]\nWhy can't I do it?",
+        "pt": "[Palmitinha]\nUé, não posso?",
+        "es": "[Mille Feuille]\n¿Por qué no puedo hacerlo yo?"
+    },
+    "VWbFBg": {
+        "en": "[Dacquoise]\nI told you, I'm the leader of the Three Musketeers of Cooking!",
+        "pt": "[Banana Maria]\nPorque é assim que nós, as Três Mosqueteiras da Cozinha, fazemos!",
+        "es": "[Dacquoise]\n¡Ya te lo dije, soy la líder de las Tres Mosqueteras de la Cocina!"
+    },
+    "VmbFBg": {
+        "en": "[Eclaire]\nWhat? Since when?",
+        "pt": "[Bala Gil]\nQuê? Que história é essa?!",
+        "es": "[Eclaire]\n¿Qué? ¿Desde cuándo?"
+    },
+    "V2bFBg": {
+        "en": "[Dacquoise]\nI'm the oldest, that means I'm in charge!",
+        "pt": "[Banana Maria]\nEu que sou a mais velha, não sou? Então eu posso!",
+        "es": "[Dacquoise]\n¡Soy la mayor, eso quiere decir que estoy al mando!"
+    },
+    "WGbFBg": {
+        "en": "[Eclaire]\nAh, of course, the group senior! Then that settles it.",
+        "pt": "[Bala Gil]\nAh, bem... Se a questão for idade, então eu não posso falar nada...",
+        "es": "[Eclaire]\nAh, por supuesto, ¡la anciana del grupo! No se diga más."
+    },
+    "WWbFBg": {
+        "en": "[Mille Feuille]\nYou've only got one year on me, but hey, who's counting?",
+        "pt": "[Palmitinha]\nPois eu posso! Você quer ser respeitada só porque é um ano mais velha?!",
+        "es": "[Mille Feuille]\nSolo me llevas un año de ventaja, pero oye, ¿quién lleva la cuenta?"
+    },
+    "WmbFBg": {
+        "en": "[Dacquoise]\nBe quiet!",
+        "pt": "[Banana Maria]\nSilêncio!!!",
+        "es": "[Dacquoise]\n¡Silencio!"
+    },
+    "W2bFBg": {
+        "en": "[Dacquoise]\nWhat do you want to make? INT and LUK dishes won't do you much good yet, so I've only prepared the other four.",
+        "pt": "[Banana Maria]\nEntão, qual prato você quer fazer?",
+        "es": "[Dacquoise]\n¿Qué quieres preparar? Los platos de INT y SUE no te servirán de mucho todavía, así que solo preparé los otros cuatro."
+    },
+    "XGbFBg": {
+        "en": "Savory Herb Salad.",
+        "pt": "Salada de Ervas",
+        "es": "Ensalada salada de hierbas."
+    },
+    "XWbFBg": {
+        "en": "Apple Carrot Salad.",
+        "pt": "Salada de Cenoura com Maçã",
+        "es": "Ensalada de manzana y zanahoria."
+    },
+    "XmbFBg": {
+        "en": "Casual Stew.",
+        "pt": "Ensopado",
+        "es": "Guiso improvisado."
+    },
+    "X2bFBg": {
+        "en": "Golden Roasted Apple.",
+        "pt": "Maçã do Amor",
+        "es": "Manzana asada dorada."
+    },
+    "YGbFBg": {
+        "en": "[Dacquoise]\n^0000CDSavory Herb Salad^000000 boosts ^0000CDSTR^000000.",
+        "pt": "[Banana Maria]\nA ^0000CDSalada de Ervas^000000 dá um bônus de ^0000CDFOR^000000.",
+        "es": "[Dacquoise]\nLa ^0000CDEnsalada salada de hierbas^000000 potencia tu ^0000CDFUE^000000."
+    },
+    "YWbFBg": {
+        "en": "[Acquoise]\nIt's mainly eaten by people who use their muscles.",
+        "pt": "[Banana Maria]\nÉ um prato muito saudável.",
+        "es": "[Dacquoise]\nLa consumen principalmente las personas que usan los músculos."
+    },
+    "YmbFBg": {
+        "en": "[Mille Feuille]\nThe ingredients are ^0000CD1 Clover, 1 Green Herb, and 1 Red Herb^000000.",
+        "pt": "[Palmitinha]\nOs ingredientes são ^0000CD1 Trevo, 1 Erva Verde e 1 Erva Vermelha^000000.",
+        "es": "[Mille Feuille]\nLos ingredientes son ^0000CD1Trébol, 1Hierba verde y 1Hierba roja^000000."
+    },
+    "Y2bFBg": {
+        "en": "[Dacquoise]\nYou can get Clover and Red Herb from Lunatics or Fabres in the field outside Izlude.",
+        "pt": "[Banana Maria]\nLunáticos e Fabres derrubam Trevos e Ervas Vermelhas. Você pode encontrá-los nos arredores de Izlude.",
+        "es": "[Dacquoise]\nPuedes conseguir Tréboles y Hierbas rojas de las Lunáticas o los Fabre en las afueras de Izlude."
+    },
+    "ZGbFBg": {
+        "en": "[Eclaire]\nFabres have Green Herb.",
+        "pt": "[Bala Gil]\nJá as Ervas Verdes podem ser conseguidas apenas derrotando Fabres.",
+        "es": "[Eclaire]\nLos Fabre sueltan Hierba verde."
+    },
+    "ZWbFBg": {
+        "en": "[Mille Feuille]\nIf you get all the ingredients, we can cook.",
+        "pt": "[Palmitinha]\nSe você me trouxer todos os ingredientes, podemos fazer o prato.",
+        "es": "[Mille Feuille]\nSi consigues todos los ingredientes, podemos cocinar."
+    },
+    "ZmbFBg": {
+        "en": "[Dacquoise]\n^0000CDApple Carrot Salad^000000 is one of my favorites. I see you know how to pick your food.",
+        "pt": "[Banana Maria]\n^0000CDSalada de Cenoura com Maçã?^000000 Ah, essa é a minha favorita! Você sabe como faz?",
+        "es": "[Dacquoise]\nLa ^0000CDEnsalada de manzana y zanahoria^000000 es una de mis favoritas. Veo que sabes elegir tu comida."
+    },
+    "Z2bFBg": {
+        "en": "[Eclaire]\nApple Carrot Salad boosts ^0000CDAGI^000000. It's mainly eaten by those who want to raise their attack speed, or avoid getting hit by monsters.",
+        "pt": "[Bala Gil]\nAlém de ser uma delícia, ela aumenta a sua ^0000CDAGI^000000.",
+        "es": "[Eclaire]\nLa Ensalada de manzana y zanahoria potencia tu ^0000CDAGI^000000. La consumen principalmente los que quieren aumentar la velocidad de ataque o evitar que los monstruos los golpeen."
+    },
+    "aGbFBg": {
+        "en": "[Mille Feuille]\nThe ingredients are ^0000CD1 Apple and 2 Carrots^000000.",
+        "pt": "[Palmitinha]\nVocê vai precisar de ^0000CD1 Maçã e 2 Cenouras^000000.",
+        "es": "[Mille Feuille]\nLos ingredientes son ^0000CD1Manzana y 2Zanahorias^000000."
+    },
+    "aWbFBg": {
+        "en": "[Dacquoise]\nYou can get apples from the bouncing Poring in the field outside of Izlude.",
+        "pt": "[Banana Maria]\nCace alguns Porings nos arredores de Izlude para conseguir Maçãs.",
+        "es": "[Dacquoise]\nPuedes conseguir manzanas de los Poring saltarines en el campo a las afueras de Izlude."
+    },
+    "ambFBg": {
+        "en": "[Eclaire]\nLunatics have carrots.",
+        "pt": "[Bala Gil]\nJá as Cenouras podem ser obtidas se você caçar alguns Lunáticos.",
+        "es": "[Eclaire]\nLas Lunáticas sueltan zanahorias."
+    },
+    "a2bFBg": {
+        "en": "[Mille Feuille]\nIf you get all the ingredients, I'll cook it for you!",
+        "pt": "[Palmitinha]\nSe trouxer todos os ingredientes, eu cozinho pra você!",
+        "es": "[Mille Feuille]\nSi consigues todos los ingredientes, ¡la cocinaré para ti!"
+    },
+    "bGbFBg": {
+        "en": "[Dacquoise]\nThe ^0000CDCasual Stew^000000 of terror! This dish boosts your ^0000CDVIT^000000. You'll be set with just a single bite.",
+        "pt": "[Banana Maria]\n^0000CDEnsopado^000000... Ele dá um bônus de ^0000CDVIT^000000 e te deixa de buchinho cheio.",
+        "es": "[Dacquoise]\n¡El temible ^0000CDGuiso improvisado^000000! Este plato potencia tu ^0000CDVIT^000000. Te bastará con un solo bocado."
+    },
+    "bWbFBg": {
+        "en": "[Eclaire]\nAfter eating this dish, you'll feel less pain when you're hit by monsters.",
+        "pt": "[Bala Gil]\nSe você comer um pouquinho disso, já vai ficar mais resistente.",
+        "es": "[Eclaire]\nDespués de comer este plato, sentirás menos dolor cuando te golpeen los monstruos."
+    },
+    "bmbFBg": {
+        "en": "[Mille Feuille]\nThe ingredients are ^0000CD1 Jellopy, 1 Fluff, and 1 Feather^000000.",
+        "pt": "[Palmitinha]\nPara preparar, você precisará de ^0000CD1 Jellopy, 1 Felpa e 1 Pluma^000000.",
+        "es": "[Mille Feuille]\nLos ingredientes son ^0000CD1Jellopy, 1Pelusa y 1Pluma^000000."
+    },
+    "b2bFBg": {
+        "en": "[Dacquoise]\nYou can get a ton of Jellopy from the bouncing Poring in the field outside of Izlude.",
+        "pt": "[Banana Maria]\nVocê pode conquistar Jellopies ao derrotar Porings nos arredores de Izlude.",
+        "es": "[Dacquoise]\nPuedes conseguir un montón de Jellopy de los Poring saltarines en el campo a las afueras de Izlude."
+    },
+    "cGbFBg": {
+        "en": "[Eclaire]\nFabres and Lunatics have Fluff.",
+        "pt": "[Bala Gil]\nDerrote Fabres e Lunáticos para conseguir Felpas.",
+        "es": "[Eclaire]\nLos Fabre y las Lunáticas sueltan Pelusas."
+    },
+    "cWbFBg": {
+        "en": "[Mille Feuille]\nYou can get soft feathers from Lunatics or Fabres.",
+        "pt": "[Palmitinha]\nPor fim, você consegue Plumas derrotando tanto Lunáticos quanto Fabres!",
+        "es": "[Mille Feuille]\nPuedes conseguir Plumas suaves de las Lunáticas o los Fabre."
+    },
+    "cmbFBg": {
+        "en": "[Dacquoise]\nI'll cook it for you once you've got all the ingredients.",
+        "pt": "[Banana Maria]\nSe você me trouxer todos os ingredientes, podemos fazer o prato.",
+        "es": "[Dacquoise]\nLo cocinaré para ti cuando tengas todos los ingredientes."
+    },
+    "c2bFBg": {
+        "en": "[Dacquoise]\n^0000CDGolden Roasted Apple.^000000 No one can resist the flowing golden juices.",
+        "pt": "[Banana Maria]\nA ^0000CDMaçã do Amor^000000! Eu particularmente acho doce demais, mas o pessoal costuma gostar.",
+        "es": "[Dacquoise]\nNadie puede resistirse a los dorados jugos de la ^0000CDManzana asada dorada.^000000"
+    },
+    "dGbFBg": {
+        "en": "[Eclaire]\nThis dish boosts ^0000CDDEX^000000. It's mainly eaten by archers who want to boost their attack, or by people who want to increase their HIT.",
+        "pt": "[Bala Gil]\nEla dá um bônus na sua ^0000CDDES^000000. Muito útil para Arqueiros!",
+        "es": "[Eclaire]\nEste plato potencia tu ^0000CDDES^000000. Lo consumen principalmente los Arqueros que quieren potenciar su ataque o las personas que quieren aumentar su PREC."
+    },
+    "dWbFBg": {
+        "en": "[Mille Feuille]\nThe ingredients are ^0000CD1 Apple and 1 Clover^000000.",
+        "pt": "[Palmitinha]\nPara prepará-la, você vai precisar de ^0000CD1 Maçã e 1 Trevo^000000.",
+        "es": "[Mille Feuille]\nLos ingredientes son ^0000CD1Manzana y 1Trébol^000000."
+    },
+    "dmbFBg": {
+        "en": "[Dacquoise]\nYou can get apples from Poring in the field outside Izlude.",
+        "pt": "[Banana Maria]\nMaçãs, como você deve saber, podem ser obtidas derrotando Porings nos arredores de Izlude.",
+        "es": "[Dacquoise]\nPuedes conseguir Manzanas de los Poring en el campo a las afueras de Izlude."
+    },
+    "d2bFBg": {
+        "en": "[Eclaire]\nFabres and Lunatics drop clovers generously.",
+        "pt": "[Bala Gil]\nJá para conseguir Trevos, basta enfrentar Fabres e Lunáticos.",
+        "es": "[Eclaire]\nLos Fabre y las Lunáticas dejan caer Tréboles con generosidad."
+    },
+    "eGbFBg": {
+        "en": "[Mille Feuille]\nI'll make it for you once you bring the ingredients, so hurry back!",
+        "pt": "[Palmitinha]\nFaço o prato quando trouxer os ingredientes, volte logo!",
+        "es": "[Mille Feuille]\nLo prepararé para ti en cuanto traigas los ingredientes, ¡así que date prisa!"
+    },
+    "eWbFBg": {
+        "en": "[Dacquoise]\nDid you get everything?",
+        "pt": "[Banana Maria]\nE aí, você trouxe tudo?",
+        "es": "[Dacquoise]\n¿Tienes todo?"
+    },
+    "embFBg": {
+        "en": "Yes, I have everything!",
+        "pt": "Sim, tá tudo aqui!",
+        "es": "¡Sí, tengo todo!"
+    },
+    "e2bFBg": {
+        "en": "It's too much work. I'm giving up.",
+        "pt": "Nossa, me bateu uma preguiça...",
+        "es": "Es demasiado trabajo. Me rindo."
+    },
+    "fGbFBg": {
+        "en": "[Dacquoise]\nShall we take a look?",
+        "pt": "[Banana Maria]\nVejamos...",
+        "es": "[Dacquoise]\n¿Echamos un vistazo?"
+    },
+    "fWbFBg": {
+        "en": "[Dacquoise]\nYou got everything you need! I'll make it for you just as I promised. Oh yeah! Like a bolt of lightning!",
+        "pt": "[Banana Maria]\nCertinho, tá tudo aqui! Como eu te prometi, vou fazer o prato pra você!",
+        "es": "[Dacquoise]\n¡Tienes todo lo que hace falta! Te lo prepararé tal y como te prometí. ¡Ah, sí! ¡Como un rayo!"
+    },
+    "fmbFBg": {
+        "en": "[Eclaire]\nGo hunting after you eat this. You'll need a conduit for your overflowing energy.",
+        "pt": "[Bala Gil]\nComa tudinho e aproveite o bônus!",
+        "es": "[Eclaire]\nVe a cazar después de comerte esto. Necesitarás descargar toda esa energía desbordante."
+    },
+    "f2bFBg": {
+        "en": "[Mille Feuille]\nIf you're serious about cooking, find ^0000CDCharles Orlean in the basement of Prontera Castle^000000. Chef Orlean!",
+        "pt": "[Palmitinha]\nSe quiser fazer um prato mais elaborado, fale com o Jacão, no castelo de Prontera!\nDigo... a verdade é que a gente que deu esse apelido pelas costas dele!",
+        "es": "[Mille Feuille]\nSi te tomas en serio la cocina, busca a ^0000CDCharles Orleans en el sótano del castillo de Prontera^000000. ¡El chef Orleans!"
+    },
+    "gGbFBg": {
+        "en": "[Dacquoise]\nYou expect me to make a meal without any ingredients? Can't you hurry up and get them?",
+        "pt": "[Banana Maria]\nPeraí... Tem coisa faltando!",
+        "es": "[Dacquoise]\n¿Esperas que cocine sin ningún ingrediente? ¿Puedes darte prisa y conseguirlos?"
+    },
+    "gWbFBg": {
+        "en": "[Dacquoise]\nI used my precious time to teach you about the world of cooking, and you're giving up?",
+        "pt": "[Banana Maria]\nNós te demos uma baita aula de culinária DE GRAÇA e você tá desistindo?!",
+        "es": "[Dacquoise]\nDediqué mi valioso tiempo a enseñarte sobre el mundo de la cocina, ¿y te rindes?"
+    },
+    "gmbFBg": {
+        "en": "[Eclaire]\nYou've insulted us!",
+        "pt": "[Bala Gil]\nQue ultraje!",
+        "es": "[Eclaire]\n¡Es un insulto hacia nosotras!"
+    },
+    "g2bFBg": {
+        "en": "[Mille Feuille]\nIf you want to learn later, make sure to come back.",
+        "pt": "[Palmitinha]\nSua sorte é que somos muito legais.\nSe mudar de ideia, é só voltar a falar com a gente.",
+        "es": "[Mille Feuille]\nSi quieres aprender más adelante, puedes volver."
+    },
+    "hGbFBg": {
+        "en": "[Eclaire]\nTake a bite! Now you can move faster than anyone, even faster than the wings of a hummingbird.",
+        "pt": "[Bala Gil]\nExperimente! Você vai ficar mais rápido que o ouriço azul.",
+        "es": "[Eclaire]\n¡Dale un mordisco! Ahora puedes moverte más rápido que nadie, incluso más que las alas de un colibrí."
+    },
+    "hWbFBg": {
+        "en": "[Mille Feuille]\nIf you're serious about cooking, find ^0000CDCharles Orlean in the basement of Prontera Castle^000000. You'll fall head over heels for him, just like us!",
+        "pt": "[Palmitinha]\nSe leva culinária a sério, encontre o ^0000CDJacão no porão do Castelo de Prontera^000000. Vai se apaixonar por ele, igual a nós!",
+        "es": "[Mille Feuille]\nSi te tomas en serio la cocina, busca a ^0000CDCharles Orleans en el sótano del castillo de Prontera^000000. Te enamorarás de él como nosotras."
+    },
+    "hmbFBg": {
+        "en": "[Eclaire]\nYou feel like there's some unknown force flowing through your veins, right? You're already eating!",
+        "pt": "[Bala Gil]\nSente uma energia estranha nas veias, né? Já está comendo!",
+        "es": "[Eclaire]\nSientes como si una fuerza desconocida fluyera por tus venas, ¿verdad? ¡Ya estás comiendo!"
+    },
+    "h2bFBg": {
+        "en": "[Mille Feuille]\nIf you're curious about proper cooking, find ^0000CDCharles Orlean in the basement of Prontera Castle^000000!",
+        "pt": "[Palmitinha]\nSe quer aprender culinária de verdade, encontre o ^0000CDJacão no porão do Castelo de Prontera^000000!",
+        "es": "[Mille Feuille]\n¡Si sientes curiosidad por la buena cocina, visita a ^0000CDCharles Orleans en el sótano del castillo de Prontera^000000!"
+    },
+    "iGbFBg": {
+        "en": "[Dacquoise]\nWe used our precious time to teach you about the world of cooking, and you're giving up?",
+        "pt": "[Banana Maria]\nUsamos nosso tempo precioso pra te ensinar, e você desiste?",
+        "es": "[Dacquoise]\nEmpleamos nuestro valioso tiempo en enseñarte sobre el mundo de la cocina, ¿y te rindes?"
+    },
+    "iWbFBg": {
+        "en": "[Eclaire]\nIf you eat this, you'll be able to hit a bulls-eye with your eyes closed!\n Actually, perfect accuracy isn't likely for Level 1... But the point still stands.",
+        "pt": "[Bala Gil] \nSe comer isso, vai acertar o alvo até de olhos fechados! \nNa verdade, precisão perfeita não é provável no Nível 1... Mas a ideia continua valendo.",
+        "es": "[Eclaire]\nSi comes esto, ¡podrás dar en el blanco con los ojos cerrados!\n En realidad, no es muy probable que obtengas precisión perfecta con un plato de nivel1… Pero ya sabes a lo que me refiero"
+    },
+    "imbFBg": {
+        "en": "[Mille Feuille]\nSeek out ^0000CDCharles Orlean in the basement of Prontera Castle^000000. You'll be able to learn about real cooking.",
+        "pt": "[Palmitinha] \nProcure ^0000CDCharles Orlean no porão do Castelo de Prontera^000000. Você aprenderá sobre culinária de verdade.''",
+        "es": "[Mille Feuille]\nBusca a ^0000CDCharles Orleans en el sótano del castillo de Prontera^000000. Podrás aprender a cocinar de verdad."
+    },
+    "i2bFBg": {
+        "en": "[Dacquoise]\nI'm guessing from the fact that you've returned that you want to do more cooking. Am I right?",
+        "pt": "[Banana Maria] \nPelo fato de ter voltado, imagino que queira cozinhar mais. Estou certa?",
+        "es": "[Dacquoise]\nSupongo, por el hecho de que volviste, que quieres cocinar más. ¿Estoy en lo correcto?"
+    },
+    "jGbFBg": {
+        "en": "[Eclaire]\nWhat do you want to make?",
+        "pt": "[Bala Gil]\nE aí, vai tentar de novo? Assim que eu gosto!",
+        "es": "[Eclaire]\n¿Qué quieres preparar?"
+    },
+    "jWbFBg": {
+        "en": "[Eclaire]\nOh, it's {0}, from last time. You were very pretty.",
+        "pt": "[Bala Gil] \nAh, é a {0}, da última vez. Você estava linda.",
+        "es": "[Eclaire]\nAh, eres {0}. Nos visitaste antes. Te veías muy bien."
+    },
+    "jmbFBg": {
+        "en": "[Dacquoise]\nFood is the most tasty when it's just been made!",
+        "pt": "[Banana Maria] \nA comida fica mais gostosa logo depois de pronta!",
+        "es": "[Dacquoise]\n¡La comida es más sabrosa cuando está recién hecha!"
+    },
+    "j2bFBg": {
+        "en": "[Eclaire]\nWhy don't you finish eating your Savory Herb Salad before asking for a new one?",
+        "pt": "[Bala Gil]\nMas a sua salada ainda tá fresquinha no seu inventário!\nComa-a antes de preparar outra!",
+        "es": "[Eclaire]\n¿Por qué no terminas de comerte la Ensalada salada de hierbas antes de pedir otra?"
+    },
+    "kGbFBg": {
+        "en": "[Mille Feuille]\nYou can't ask for another helping of a dish you already have.",
+        "pt": "[Palmitinha]\nAí sim, depois disso, poderemos te ajudar!",
+        "es": "[Mille Feuille]\nNo puedes pedir otra ración de un plato que ya tienes."
+    },
+    "kWbFBg": {
+        "en": "[Dacquoise]\nSavory Herb Salad boosts STR.",
+        "pt": "[Banana Maria]\nA Salada de Ervas é bem gostosa e dá um bônus de FOR.",
+        "es": "[Dacquoise]\nLa Ensalada salada de hierbas potencia tu FUE."
+    },
+    "kmbFBg": {
+        "en": "[Dacquoise]\nFood is the most delicious when its just been made.",
+        "pt": "[Banana Maria]\nAlém disso, é um prato muito saudável.",
+        "es": "[Dacquoise]\nLa comida es más deliciosa cuando está recién hecha."
+    },
+    "k2bFBg": {
+        "en": "[Eclaire]\nWhy don't you finish eating your Apple Carrot Salad before asking for a new one?",
+        "pt": "[Bala Gil]\nPor que não termina de comer sua Salada de Maçã e Cenoura antes de pedir outra?",
+        "es": "[Eclaire]\n¿Por qué no terminas de comer la Ensalada de manzana y zanahoria antes de pedir otra?"
+    },
+    "lGbFBg": {
+        "en": "[Dacquoise]\nApple Carrot Salad is one of my favorites. I see you know how to pick your food.",
+        "pt": "[Banana Maria]\nA Salada de Maçã e Cenoura é uma das minhas favoritas. Vejo que sabe escolher bem a comida.",
+        "es": "[Dacquoise]\nLa Ensalada de manzana y zanahoria es una de mis favoritas. Veo que sabes elegir tu comida."
+    },
+    "lWbFBg": {
+        "en": "[Eclaire]\nApple Carrot Salad boosts AGI. It's mainly eaten by those who want to raise their attack speed, or avoid getting hit by monsters.",
+        "pt": "[Bala Gil]\nA Salada de Cenoura com Maçã dá um bônus de AGI excelente.",
+        "es": "[Eclaire]\nLa Ensalada de manzana y zanahoria aumenta tu AGI. La consumen principalmente los que quieren aumentar la velocidad de ataque o evitar que los monstruos los golpeen."
+    },
+    "lmbFBg": {
+        "en": "[Eclaire]\nWhy don't you finish eating your Casual Stew before asking for a new one?",
+        "pt": "[Banana Maria]\nMas o seu Ensopado ainda tá quentinho no seu inventário!",
+        "es": "[Eclaire]\n¿Por qué no terminas de comerte el Guiso improvisado antes de pedir otro?"
+    },
+    "l2bFBg": {
+        "en": "[Dacquoise]\nThe Casual Stew of terror! This dish boosts your VIT. You'll be set with just a single bite.",
+        "pt": "[Bala Gil]\nAo comê-lo, você receberá um bônus de VIT. Excelente para reduzir o dano recebido.",
+        "es": "[Dacquoise]\n¡El temible Guiso improvisado! Este plato potencia tu VIT. Te bastará con un solo bocado."
+    },
+    "mGbFBg": {
+        "en": "[Eclaire]\nWhy don't you finish eating your Golden Roasted Apple before asking for a new one?",
+        "pt": "[Bala Gil]\nMas sua Maçã do Amor tá fresquinha!\nComa-a antes de preparar outro!",
+        "es": "[Eclaire]\n¿Por qué no terminas de comerte la Manzana asada dorada antes de pedir otra?"
+    },
+    "mWbFBg": {
+        "en": "[Dacquoise]\nGolden Roasted Apple. No one can resist the flowing golden juices.",
+        "pt": "[Banana Maria]\nA Maçã do Amor! Eu particularmente acho doce demais, mas o pessoal costuma gostar.",
+        "es": "[Dacquoise]\nManzana asada dorada… Nadie puede resistirse a sus jugos dorados."
+    },
+    "mmbFBg": {
+        "en": "[Eclaire]\nThis dish boosts DEX. It's mainly eaten by archers who want to boost their attack, or by people who want to increase their HIT.",
+        "pt": "[Bala Gil]\nEla dá um bônus de DES, então é muito boa para Arqueiros.",
+        "es": "[Eclaire]\nEste plato potencia tu DES. Lo consumen principalmente los Arqueros que quieren potenciar su ataque o las personas que quieren aumentar su PREC."
+    },
+    "m2bFBg": {
+        "en": "[Dacquoise]\nHey, don't you want to meet the best chef, ^0000CDCharles Orlean^000000? He'll open the doors to the diverse world of food!",
+        "pt": "[Banana Maria]\nVocê já pensou em se especializar na cozinha?",
+        "es": "[Dacquoise]\nOye, ¿no quieres conocer al mejor chef, ^0000CDCharles Orleans^000000? ¡Te abrirá las puertas al variado mundo de la comida!"
+    },
+    "nGbFBg": {
+        "en": "[Eclaire]\nYou really don't want to cook, even though it boosts stats and restores HP and SP?",
+        "pt": "[Bala Gil]\nVocê pode começar a preparar pratos ainda melhores, que dão mais bônus e recuperação.",
+        "es": "[Eclaire]\n¿De verdad no quieres cocinar, a pesar de que aumenta tus estadísticas y recupera tus HP y SP?"
+    },
+    "nWbFBg": {
+        "en": "[Mille Feuille]\nCharles Orlean is in ^0000CDthe basement of Prontera Castle^000000! Hurry over there!",
+        "pt": "[Palmitinha]\nVá falar com o Jacão... Er, digo, o Chef no Castelo de Prontera!",
+        "es": "[Mille Feuille]\n¡Charles Orleans está en ^0000CDel sótano del castillo de Prontera^000000! ¡Date prisa!"
+    },
+    "nmbFBg": {
+        "en": "[Mille Feuille]\nSince you're no longer a novice, you can't cook here anymore.\nSeek out ^0000CDCharles Orlean in the basement of Prontera Castle^000000. You'll be able to learn about real cooking.",
+        "pt": "[Palmitinha]\nComo você não é mais um novato, não pode cozinhar aqui.\nProcure ^0000CDJacão no porão do Castelo de Prontera^000000. Você aprenderá sobre culinária de verdade.",
+        "es": "[Mille Feuille]\nComo ya no eres Principiante, ya no puedes cocinar aquí.\nBusca a ^0000CDCharles Orleans en el sótano del castillo de Prontera^000000. Podrás aprender a cocinar de verdad."
+    },
+    "n2bFBg": {
+        "en": "[Mille Feuille]\nSince you're no longer a novice, if you want to cook, go find ^0000CDCharles Orlean in the basement of Prontera Castle^000000.",
+        "pt": "[Palmitinha]\nVocê não é mais principiante! Se quiser aprender mais, fale com o Chef no Castelo de Prontera!",
+        "es": "[Mille Feuille]\nComo ya no eres Principiante, si quieres cocinar, ve a buscar a ^0000CDCharles Orleans en el sótano del castillo de Prontera^000000."
+    },
+    "oGbFBg": {
+        "en": "[Mille Feuille]\nSince you're no longer a novice, you can't cook here anymore.\nIf you're curious about proper cooking, find ^0000CDCharles Orlean in the basement of Prontera Castle^000000!",
+        "pt": "[Palmitinha]\nComo você não é mais um novato, não pode cozinhar aqui.\nSe quer aprender culinária adequada, encontre ^0000CDJacão no porão do Castelo de Prontera^000000!",
+        "es": "[Mille Feuille]\nComo ya no eres Principiante, ya no puedes cocinar aquí.\n¡Si sientes curiosidad por la buena cocina, visita a ^0000CDCharles Orleans en el sótano del castillo de Prontera^000000!"
+    },
+    "oWbFBg": {
+        "en": "[Mille Feuille]\nSince you're no longer a novice, you can't cook here anymore.\nIf you're serious about cooking, find ^0000CDCharles Orlean in the basement of Prontera Castle^000000. You'll fall head over heels for him, just like us!",
+        "pt": "[Palmitinha]\nComo você não é mais um novato, não pode cozinhar aqui.\nSe leva a culinária a sério, encontre ^0000CDJacão no porão do Castelo de Prontera^000000. Você vai se apaixonar por ele, igual a nós!",
+        "es": "[Mille Feuille]\nComo ya no eres Principiante, ya no puedes cocinar aquí.\nSi te tomas en serio la cocina, busca a ^0000CDCharles Orleans en el sótano del castillo de Prontera^000000. Te enamorarás de él como nosotras."
+    },
+    "ombFBg": {
+        "en": "[Mille Feuille]\nSince you're no longer a novice, you can't cook here anymore.\nIf you're serious about cooking, find ^0000CDCharles Orlean in the basement of Prontera Castle^000000. Chef Orlean!",
+        "pt": "[Palmitinha]\nComo você não é mais um novato, não pode cozinhar aqui.\nSe leva a culinária a sério, encontre ^0000CDJacão no porão do Castelo de Prontera^000000. Chef Orleans!",
+        "es": "[Mille Feuille]\nComo ya no eres Principiante, ya no puedes cocinar aquí.\nSi te tomas en serio la cocina, busca a ^0000CDCharles Orleans en el sótano del castillo de Prontera^000000. ¡El chef Orleans!"
+    },
+    "o2bFBg": {
+        "en": "[Dacquoise]\nHey, you're no novice! Have you been cooking?",
+        "pt": "[Banana Maria]\nVocê se interessa pelo mundo da cozinha?",
+        "es": "[Dacquoise]\n¡Ey, no eres Principiante! ¿Estuviste cocinando?"
+    },
+    "pGbFBg": {
+        "en": "[Eclaire]\nIf not, do you want to try?",
+        "pt": "[Bala Gil]\nSim? O que acha de se tornar uma pessoa de mão cheia na cozinha?",
+        "es": "[Eclaire]\nSi no, ¿quieres intentarlo?"
+    },
+    "pWbFBg": {
+        "en": "[Mille Feuille]\nCooking can help boost your stats and even restore HP and SP!",
+        "pt": "[Palmitinha]\nOs pratos podem te dar bônus de atributos e recuperação!!!",
+        "es": "[Mille Feuille]\n¡Cocinar puede potenciar tus estadísticas e incluso recuperar tus HP y SP!"
+    },
+    "pmbFBg": {
+        "en": "[The Three Musketeers of Cooking]\nIf you want to cook, go and find ^0000CDCharles Orlean in the basement of Prontera Castle^000000!",
+        "pt": "[Banana, Gil e Palmitinha]\nPara aprender mais, fale com o Chef do Castelo de Prontera!",
+        "es": "[Las Tres Mosqueteras]\n¡Si quieres cocinar, ve a buscar a ^0000CDCharles Orleans en el sótano del castillo de Prontera^000000!"
+    },
+    "p2bFBg": {
+        "en": "Eclaire",
+        "pt": "Bala Gil",
+        "es": "Iluminación"
+    },
+    "qGbFBg": {
+        "en": "[Eclaire]\nCooking is tradition! The real heart of the people!",
+        "pt": "[Bala Gil]\nAi, eu adoro cozinhar!",
+        "es": "[Eclaire]\n¡Cocinar es tradición! ¡Es el verdadero corazón del pueblo!"
+    },
+    "qWbFBg": {
+        "en": "Mille Feuille",
+        "pt": "Palmitinha",
+        "es": "Milhojas"
+    },
+    "qmbFBg": {
+        "en": "[Mille Feuille]\nI wonder if Orlean is doing well.",
+        "pt": "[Palmitinha]\nComo o Chef está?",
+        "es": "[Mille Feuille]\nMe pregunto si Orleans estará bien."
+    },
+    "q2bFBg": {
+        "en": "Chef",
+        "pt": "Chefe de Cozinha",
+        "es": "Jefe"
+    },
+    "rGbFBg": {
+        "en": "[Chef]\nHm, are you a new trainee at Criatura Academy?\nGo there and find someone named Dacquoise.",
+        "pt": "[Chefe de Cozinha]\nHm, você é um novo estagiário na Academia Criatura?\nVá até lá e encontre alguém chamado Banana Maria.",
+        "es": "[Chef]\nMmm, ¿eres aprendiz en la Academia de criaturas?\nVe allí y busca a una persona llamada Dacquoise."
+    },
+    "rWbFBg": {
+        "en": "[Chef]\nI also learned from Charles Orlean.\nEveryone who tries my food leaves with a smile.",
+        "pt": "[Chefe de Cozinha]\nTambém aprendi com Charles Orleans.\nTodos que experimentam minha comida saem com um sorriso.",
+        "es": "[Chef]\nYo también aprendí de Charles Orleans.\nTodos los que prueban mi comida se van con una sonrisa."
+    },
+    "rmbFBg": {
+        "en": "[Chef]\nLately, making food for the new trainees at the academy brings me joy.",
+        "pt": "[Chefe de Cozinha]\nUltimamente, fazer comida para os novos integrantes da academia me traz alegria.",
+        "es": "[Chef]\nÚltimamente, cocinar para los nuevos aprendices de la academia me llena de alegría."
+    },
+    "r2bFBg": {
+        "en": "Hungry Trainee",
+        "pt": "Modiphome",
+        "es": "Aprendiz hambriento"
+    },
+    "sGbFBg": {
+        "en": "[Hungry Trainee]\nDon't they take orders here? It's been an hour...\nThe people who should be taking my order are over there...",
+        "pt": "[Modiphome]\nCadê meu pedido? Já faz uma hora...\nEssa cozinha aí só enrola...",
+        "es": "[Aprendiz hambriento]\n¿No toman pedidos aquí? Ya pasó una hora…\nLa persona que debería tomar mi pedido está por allí…"
+    },
+    "sWbFBg": {
+        "en": "[Scholarship Trainee]\nWhy are you still asking the same thing?\nI've told you a hundred times, it's a buffet!",
+        "pt": "[Marguerita]\nPor que ainda está perguntando a mesma coisa?\nEu já lhe disse centenas de vezes, é um Serve-Serve-Se!",
+        "es": "[Aprendiz becaria]\n¿Por qué sigues preguntando lo mismo?\n¡Te lo dije cientos de veces, es un bufé!"
+    },
+    "smbFBg": {
+        "en": "[Hungry Trainee]\nA buffet? What's that? Is it something to eat?\nAre you ignoring me because I'm from the country? Hello?",
+        "pt": "[Modiphome]\nUm Serve-Serve-Se?\nEstá me zoando por eu ser do interior?",
+        "es": "[Aprendiz hambriento]\n¿Un bufé? ¿Qué es eso? ¿Se come?\n¿Me estás ignorando porque soy del campo? ¿Hola?"
+    },
+    "s2bFBg": {
+        "en": "[Hungry Trainee]\nDon't use difficult words! This ain't a lecture you know!",
+        "pt": "[Modiphome]\nNão use palavras difíceis! Eu não sei o que é Serve-Serve-Se!!",
+        "es": "[Aprendiz hambriento]\n¡No uses palabras difíciles! Esto no es una clase, ¿sabes?"
+    },
+    "tGbFBg": {
+        "en": "Scholarship Trainee",
+        "pt": "Marguerita",
+        "es": "Becario en prácticas"
+    },
+    "tWbFBg": {
+        "en": "[Scholarship Trainee]\nI've worked in a hundred places, but none have had as many strange people as here.",
+        "pt": "[Marguerita]\nJá trabalhei em centenas de lugares, mas nenhum tinha tantas pessoas estranhas como aqui.",
+        "es": "[Aprendiz becaria]\nTrabajé en cientos de lugares, pero, en ninguno, había tanta gente rara como aquí."
+    },
+    "tmbFBg": {
+        "en": "Broke Trainee",
+        "pt": "Muck Rana",
+        "es": "Aprendiz arruinado"
+    },
+    "t2bFBg": {
+        "en": "[Broke Trainee]\nSchool lunch has gotten more expensive lately... I'm eating while I still can.",
+        "pt": "[Muck Rana]\nA merenda escolar tem ficado mais cara ultimamente...",
+        "es": "[Aprendiz sin dinero]\nEl almuerzo escolar se volvió más caro últimamente… Estoy comiendo mientras puedo."
+    },
+    "uGbFBg": {
+        "en": "[Broke Trainee]\nI've been here for 21 hours.\nThere's no time limit at this buffet, so you can eat for as long as you like.",
+        "pt": "[Muck Rana]\nEstou aqui há 21 horas.\nNão há limite de tempo neste Serve-Serve-Se, então você pode comer o tempo que quiser.",
+        "es": "[Aprendiz sin dinero]\nLlevo 21horas aquí.\nEn este bufé, no hay límite de tiempo, así que puedes comer todo el tiempo que quieras."
+    },
+    "uWbFBg": {
+        "en": "[Broke Trainee]\nEat and digest, eat and digest. Heheh.\nWant to join?",
+        "pt": "[Muck Rana]\nComer e cagar, comer e cagar. Heheh.\nQuer se juntar à mim?",
+        "es": "[Aprendiz sin dinero]\nCome y digiere, come y digiere. Je, je, je.\n¿Quieres unirte?"
+    }
+}

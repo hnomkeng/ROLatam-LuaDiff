@@ -1,0 +1,960 @@
+{
+    "@\r\u0003": {
+        "en": "Open ^0000FFMain Storage^000000.",
+        "pt": "Open ^0000FFMain Storage^000000.",
+        "es": "Abrir ^0000FFAlmacén principal^000000."
+    },
+    "A\r\u0003": {
+        "en": "Open Storage 2 - ^FF0000Yggdrasil^000000.",
+        "pt": "Open Storage 2 - ^FF0000Yggdrasil^000000.",
+        "es": "Abrir Almacén 2 - ^FF0000Yggdrasil^000000."
+    },
+    "B\r\u0003": {
+        "en": "Open Storage 3 - ^FF0000Valkyrie^000000",
+        "pt": "Open Storage 3 - ^FF0000Valkyrie^000000",
+        "es": "Abrir Almacén 3 - ^FF0000Valkiria^000000."
+    },
+    "C\r\u0003": {
+        "en": "[Kafra Employee]\nOpening Main Storage.\nThank you for using\nthe Kafra Service.",
+        "pt": "[Funcionaria Kafra]\nOla, este e o servico da Kafra aos visitantes.\nDeixe-me abrir o seu armazem para voce.",
+        "es": "[Empleado de Kafra]\nSe está abriendo el Almacén principal.\nGracias por utilizar\nel servicio de Kafra."
+    },
+    "D\r\u0003": {
+        "en": "[Kafra Employee]\nOpening Sub Storage 2.\nThank you for using\nthe Kafra Service.",
+        "pt": "[Kafra Employee]\nOpening Sub Storage 2.\nThank you for using\nthe Kafra Service.",
+        "es": "[Empleado de Kafra]\nSe está abriendo el Subalmacén 2.\nGracias por utilizar\nel servicio de Kafra."
+    },
+    "E\r\u0003": {
+        "en": "yggdrasil storage",
+        "pt": "yggdrasil storage",
+        "es": "almacén de Yggdrasil"
+    },
+    "F\r\u0003": {
+        "en": "[Kafra Employee]\nOpening Sub Storage 3.\nThank you for using\nthe Kafra Service.",
+        "pt": "[Kafra Employee]\nOpening Sub Storage 3.\nThank you for using\nthe Kafra Service.",
+        "es": "[Empleado de Kafra]\nSe está abriendo el Subalmacén 3.\nGracias por utilizar\nel servicio de Kafra."
+    },
+    "G\r\u0003": {
+        "en": "valkyrie storage",
+        "pt": "valkyrie storage",
+        "es": "almacén de Valkiria"
+    },
+    "H\r\u0003": {
+        "en": "{0} yells: {1}",
+        "pt": "{0} diz: {1}",
+        "es": "{0} grita: {1}"
+    },
+    "I\r\u0003": {
+        "en": "Sirius (aldeg_cas01)",
+        "pt": "Sirius (aldeg_cas01)"
+    },
+    "J\r\u0003": {
+        "en": "Astrum (aldeg_cas02)",
+        "pt": "Astrum (aldeg_cas02)"
+    },
+    "K\r\u0003": {
+        "en": "Canopus (aldeg_cas03)",
+        "pt": "Canopus (aldeg_cas03)"
+    },
+    "L\r\u0003": {
+        "en": "Rigel (aldeg_cas04)",
+        "pt": "Rigel (aldeg_cas04)"
+    },
+    "M\r\u0003": {
+        "en": "Acrux (aldeg_cas05)",
+        "pt": "Acrux (aldeg_cas05)"
+    },
+    "N\r\u0003": {
+        "en": "Arsulf (gefg_cas01)",
+        "pt": "Arsulf (gefg_cas01)"
+    },
+    "O\r\u0003": {
+        "en": "Trapesac (gefg_cas02)",
+        "pt": "Trapesac (gefg_cas02)"
+    },
+    "P\r\u0003": {
+        "en": "Ruaden (gefg_cas03)",
+        "pt": "Ruaden (gefg_cas03)"
+    },
+    "Q\r\u0003": {
+        "en": "Saffran (gefg_cas04)",
+        "pt": "Saffran (gefg_cas04)"
+    },
+    "R\r\u0003": {
+        "en": "Arima (gefg_cas05)",
+        "pt": "Arima (gefg_cas05)"
+    },
+    "S\r\u0003": {
+        "en": "P. do Sol (payg_cas01)",
+        "pt": "P. do Sol (payg_cas01)"
+    },
+    "T\r\u0003": {
+        "en": "P. do Lago Sagrado (payg_cas02)",
+        "pt": "P. do Lago Sagrado (payg_cas02)"
+    },
+    "U\r\u0003": {
+        "en": "P. das Sombras (payg_cas03)",
+        "pt": "P. das Sombras (payg_cas03)"
+    },
+    "V\r\u0003": {
+        "en": "P. Escarlate (payg_cas04)",
+        "pt": "P. Escarlate (payg_cas04)"
+    },
+    "W\r\u0003": {
+        "en": "P. da Colina (payg_cas05)",
+        "pt": "P. da Colina (payg_cas05)"
+    },
+    "X\r\u0003": {
+        "en": "Kriemhild (prtg_cas01)",
+        "pt": "Kriemhild (prtg_cas01)"
+    },
+    "Y\r\u0003": {
+        "en": "Hrist (prtg_cas02)",
+        "pt": "Hrist (prtg_cas02)"
+    },
+    "Z\r\u0003": {
+        "en": "Brynhildr (prtg_cas03)",
+        "pt": "Brynhildr (prtg_cas03)"
+    },
+    "[\r\u0003": {
+        "en": "Skoelgul (prtg_cas04)",
+        "pt": "Skoelgul (prtg_cas04)"
+    },
+    "\\\r\u0003": {
+        "en": "Gondul (prtg_cas05)",
+        "pt": "Gondul (prtg_cas05)"
+    },
+    "]\r\u0003": {
+        "en": "Mardol (aru_gld)",
+        "pt": "Mardol (aru_gld)"
+    },
+    "^\r\u0003": {
+        "en": "Vanadis (aru_gld)",
+        "pt": "Vanadis (aru_gld)"
+    },
+    "_\r\u0003": {
+        "en": "Syr (aru_gld)",
+        "pt": "Syr (aru_gld)"
+    },
+    "`\r\u0003": {
+        "en": "Gefn (aru_gld)",
+        "pt": "Gefn (aru_gld)"
+    },
+    "a\r\u0003": {
+        "en": "Horn (aru_gld)",
+        "pt": "Horn (aru_gld)"
+    },
+    "b\r\u0003": {
+        "en": "Hljod (sch_gld)",
+        "pt": "Hljod (sch_gld)"
+    },
+    "c\r\u0003": {
+        "en": "Himinn (sch_gld)",
+        "pt": "Himinn (sch_gld)"
+    },
+    "d\r\u0003": {
+        "en": "Skartynir (sch_gld)",
+        "pt": "Skartynir (sch_gld)"
+    },
+    "e\r\u0003": {
+        "en": "Vidblainn (sch_gld)",
+        "pt": "Vidblainn (sch_gld)"
+    },
+    "f\r\u0003": {
+        "en": "Andlangr (sch_gld)",
+        "pt": "Andlangr (sch_gld)"
+    },
+    "g\r\u0003": {
+        "en": "Feudo de Gloria(te_prt_gld)",
+        "pt": "Feudo de Gloria(te_prt_gld)"
+    },
+    "h\r\u0003": {
+        "en": "Feudo de Kafragarten(te_alde_gld)",
+        "pt": "Feudo de Kafragarten(te_alde_gld)"
+    },
+    "i\r\u0003": {
+        "en": "[Snowman]\nHappy Holidays!",
+        "pt": "[Boneco de Neve]\nFeliz Natal, feliz Natal~!!!"
+    },
+    "j\r\u0003": {
+        "en": "Restore HP & SP",
+        "pt": "Recuperar HP e SP",
+        "es": "Restaurar PV y PM"
+    },
+    "k\r\u0003": {
+        "en": "Endure!",
+        "pt": "Vigor!",
+        "es": "¡Aguante!"
+    },
+    "l\r\u0003": {
+        "en": "Restore all SP",
+        "pt": "Recuperar todo o SP",
+        "es": "Restaurar todos los PM"
+    },
+    "m\r\u0003": {
+        "en": "Return to savepoint.",
+        "pt": "Voltar para o ponto de retorno!",
+        "es": "Volver al punto de guardado."
+    },
+    "n\r\u0003": {
+        "en": "{0} shouts: I am a fool!!!",
+        "pt": "{0}?? ?? : ? ???!!!"
+    },
+    "o\r\u0003": {
+        "en": "{0} shouts: I am a fool!!!",
+        "pt": "{0}?? ?? : ? ???!!!"
+    },
+    "p\r\u0003": {
+        "en": "Smile!",
+        "pt": "Excuse me....If you got any candy remained for me..."
+    },
+    "q\r\u0003": {
+        "en": "Pumpkin Pie!",
+        "pt": "Excuse me....If you got any candy remained for me..."
+    },
+    "r\r\u0003": {
+        "en": "Trick or Treat!",
+        "pt": "Trick or Treat!"
+    },
+    "s\r\u0003": {
+        "en": "Transform to Deviruchi!!",
+        "pt": "Transforme-se em um Deviruchi !!"
+    },
+    "t\r\u0003": {
+        "en": "Transform to Raydric!!",
+        "pt": "Transforme-se em um Raydric Archer !!"
+    },
+    "u\r\u0003": {
+        "en": "Transform to Mavka!!",
+        "pt": "Transforme-se em um Mavka !!"
+    },
+    "v\r\u0003": {
+        "en": "Transform to Marduk!!",
+        "pt": "Transforme-se em um Marduk !!"
+    },
+    "w\r\u0003": {
+        "en": "Transform to Banshee!!",
+        "pt": "Transforme-se em um Banshee !!"
+    },
+    "x\r\u0003": {
+        "en": "Transform to Poring!!",
+        "pt": "Transforme-se em um Poring !!"
+    },
+    "y\r\u0003": {
+        "en": "Transform to Golem!!",
+        "pt": "Transforme-se em um Golem !!"
+    },
+    "z\r\u0003": {
+        "en": "^FF0000Be sure that you leave any party/guild before changing your name^000000\nAfter leaving your party/guild logoff to character select and you will be prompted to change your name.",
+        "pt": "[Troca de Nome]\n1. ^FF0000Saia do Grupo e da Guilda^000000.\n2. Dirija-se para a tela de personagens.\n3. Em cima do personagem, clique com o mouse direito.\n4. Selecione ^FF0000Trocar nome^000000.\n5. Digite o novo ^FF0000nome^000000.\n6. ^FF0000Atenção! Só é possível trocar o nome após sair do Clã/ou Grupo^000000",
+        "es": "^FF0000Asegúrate de abandonar cualquier grupo/gremio antes de cambiar tu nombre^000000\nDespués de abandonar tu grupo/gremio, sal de la selección de personaje y se te pedirá que cambies tu nombre."
+    },
+    "{\r\u0003": {
+        "en": "Go back to character select and ^FF0000Right-Click^000000 the character you wish to move and click '^0000FFMove Slot^000000'.\nNext ^FF0000Right-Click^000000 the position you wish to move to and click '^0000FFMove to this Slot^000000' to complete the position change.",
+        "pt": "[Troca de Slot Ativado]\nRetorne para a selecao de Personagem\nClique e escolha a opcao: Realizar a troca de slot\nEscolha o personagem com quem voce quer trocar de Slot\nClique e escolha a opcao: Trocar para esse slot",
+        "es": "Vuelve a la selección de personaje y ^FF0000haz clic con el botón derecho en^000000 el personaje que quieras mover y luego en “^0000FFMover ranura^000000”.\nA continuación, ^FF0000haz clic con el botón derecho en^000000 el puesto al que quieras desplazarte y haz clic en “^0000FFMover a esta ranura^000000” para completar el cambio de puesto."
+    },
+    "|\r\u0003": {
+        "en": "Huuph...! Yucky..! Wa, Water...!!",
+        "pt": "upp...! w..a! t, er...!!"
+    },
+    "}\r\u0003": {
+        "en": "Yeeyuck...!! This is rotten!!",
+        "pt": "oooo...!!mouldered"
+    },
+    "~\r\u0003": {
+        "en": "Arrrrrgggg...!! Bu, Bu, Bugggggg!!!!!",
+        "pt": "hahaha...!! b,u,g,s!!!!!"
+    },
+    "\r\u0003": {
+        "en": "Errrgg!!! This is so.. bitter....!!",
+        "pt": "wow!!! so bitter taste...!!"
+    },
+    "gA0D": {
+        "en": "....Well at least this is good for my health though.",
+        "pt": "Protein and nutrients, do you think only a good way.."
+    },
+    "gQ0D": {
+        "en": "Phewphew!! Arg.... Is this poisoned or what?!",
+        "pt": "It's poison're!"
+    },
+    "gg0D": {
+        "en": "Whasdfhwkljhrtklwert....!!",
+        "pt": "zzzzzzzz!!"
+    },
+    "gw0D": {
+        "en": "It's ok, no one saw me yet..",
+        "pt": "that's alright anybody didn't see..."
+    },
+    "hA0D": {
+        "en": "I really need something to eat... Sorry, little buggy.",
+        "pt": "Not really eat anymore because. sorry, mr bugs!~"
+    },
+    "hQ0D": {
+        "en": "Prontera",
+        "pt": "prontera"
+    },
+    "hg0D": {
+        "en": "Izlude",
+        "pt": "izlude"
+    },
+    "hw0D": {
+        "en": "Geffen",
+        "pt": "geffen"
+    },
+    "iA0D": {
+        "en": "Payon",
+        "pt": "payon"
+    },
+    "iQ0D": {
+        "en": "Morroc",
+        "pt": "morocc"
+    },
+    "ig0D": {
+        "en": "Alberta",
+        "pt": "alberta"
+    },
+    "iw0D": {
+        "en": "Aldebaran",
+        "pt": "aldebaran"
+    },
+    "jA0D": {
+        "en": "Juno",
+        "pt": "yuno"
+    },
+    "jQ0D": {
+        "en": "Lighthalzen",
+        "pt": "lighthalzen"
+    },
+    "jg0D": {
+        "en": "Einbroch",
+        "pt": "einbroch"
+    },
+    "jw0D": {
+        "en": "Einbech",
+        "pt": "einbech"
+    },
+    "kA0D": {
+        "en": "Hugel",
+        "pt": "hugel"
+    },
+    "kQ0D": {
+        "en": "Rachel",
+        "pt": "rachel"
+    },
+    "kg0D": {
+        "en": "Veins",
+        "pt": "veins"
+    },
+    "kw0D": {
+        "en": "Amatsu",
+        "pt": "amatsu"
+    },
+    "lA0D": {
+        "en": "Kunlun",
+        "pt": "gonryun"
+    },
+    "lQ0D": {
+        "en": "Ayothaya",
+        "pt": "ayothaya"
+    },
+    "lg0D": {
+        "en": "Louyang",
+        "pt": "louyang"
+    },
+    "lw0D": {
+        "en": "Moscovia",
+        "pt": "moscovia"
+    },
+    "mA0D": {
+        "en": "Dewata",
+        "pt": "dewata"
+    },
+    "mQ0D": {
+        "en": "Brasilis",
+        "pt": "brasilis"
+    },
+    "mg0D": {
+        "en": "Oooooooh!!! I feel an unknown power filling me!!",
+        "pt": "Vamos batalhar!"
+    },
+    "mw0D": {
+        "en": "Roaaar!",
+        "pt": "Raaawrrr!"
+    },
+    "nA0D": {
+        "en": "Storage 1",
+        "pt": "Storage 1"
+    },
+    "nQ0D": {
+        "en": "Storage 2",
+        "pt": "Storage 2"
+    },
+    "ng0D": {
+        "en": "Storage 1",
+        "pt": "Storage 1"
+    },
+    "nw0D": {
+        "en": "[Kafra Employee]\nI'll open the Storage now.\nThank you for using our service.",
+        "pt": "[Kafra Employee]\nI'll open the Storage now.\nThank you for using our service."
+    },
+    "oA0D": {
+        "en": "Storage 2",
+        "pt": "Storage 2"
+    },
+    "oQ0D": {
+        "en": "Dungeon de Magma",
+        "pt": "Dungeon de Magma"
+    },
+    "og0D": {
+        "en": "Minas de Carvao",
+        "pt": "Minas de Carvao"
+    },
+    "ow0D": {
+        "en": "Mina de Einbroch",
+        "pt": "Mina de Einbroch"
+    },
+    "pA0D": {
+        "en": "Caverna de Payon",
+        "pt": "Caverna de Payon"
+    },
+    "pQ0D": {
+        "en": "Fabrica de Brinquedos",
+        "pt": "Fabrica de Brinquedos"
+    },
+    "pg0D": {
+        "en": "Prisao de Glast Heim",
+        "pt": "Prisao de Glast Heim"
+    },
+    "pw0D": {
+        "en": "Dungeon de Louyang",
+        "pt": "Dungeon de Louyang"
+    },
+    "qA0D": {
+        "en": "Dungeon de Kunlun",
+        "pt": "Dungeon de Kunlun"
+    },
+    "qQ0D": {
+        "en": "Byalan",
+        "pt": "Byalan"
+    },
+    "qg0D": {
+        "en": "Ilha da Tartaruga",
+        "pt": "Ilha da Tartaruga"
+    },
+    "qw0D": {
+        "en": "Torre do Relogio s3",
+        "pt": "Torre do Relogio s3"
+    },
+    "rA0D": {
+        "en": "Torre do Relogio 3o andar",
+        "pt": "Torre do Relogio 3o andar"
+    },
+    "rQ0D": {
+        "en": "Esgoto de GH 2o andar",
+        "pt": "Esgoto de GH 2o andar"
+    },
+    "rg0D": {
+        "en": "Esfinge 4o andar",
+        "pt": "Esfinge 4o andar"
+    },
+    "rw0D": {
+        "en": "Piramide 4o andar",
+        "pt": "Piramide 4o andar"
+    },
+    "sA0D": {
+        "en": "Esgoto de Prontera 3o andar",
+        "pt": "Esgoto de Prontera 3o andar"
+    },
+    "sQ0D": {
+        "en": "Labirinto de Tatames",
+        "pt": "Labirinto de Tatames"
+    },
+    "sg0D": {
+        "en": "Laboratorio de Somatologia 1o andar",
+        "pt": "Laboratorio de Somatologia 1o andar"
+    },
+    "sw0D": {
+        "en": "Santuario Ancestral 2o andar",
+        "pt": "Santuario Ancestral 2o andar"
+    },
+    "tA0D": {
+        "en": "Liberte-se!!!",
+        "pt": "Liberte-se!!!"
+    },
+    "tQ0D": {
+        "en": "TCuidado! Tio Fumacento chegou!",
+        "pt": "TCuidado! Tio Fumacento chegou!"
+    },
+    "tg0D": {
+        "en": "Huh.....?",
+        "pt": "Huh.....?"
+    },
+    "tw0D": {
+        "en": "Hm.....?",
+        "pt": "Hm.....?"
+    },
+    "uA0D": {
+        "en": "It's time to play!",
+        "pt": "Hora de brincar!"
+    },
+    "uQ0D": {
+        "en": "It hurts! Stop hitting me!",
+        "pt": "Isso machuca! Pare de me bater!"
+    },
+    "ug0D": {
+        "en": "It's time to play!",
+        "pt": "Hora de brincar!"
+    },
+    "uw0D": {
+        "en": "It hurts! Stop hitting me!",
+        "pt": "Isso machuca! Pare de me bater!"
+    },
+    "vA0D": {
+        "en": "This power...!",
+        "pt": "Eu sinto o poder de Ullr!"
+    },
+    "vQ0D": {
+        "en": "Magic is waking up..!",
+        "pt": "Eu sinto o poder de Mimir!"
+    },
+    "vg0D": {
+        "en": "this power......!",
+        "pt": "Eu sindo o poder de Magni!"
+    },
+    "vw0D": {
+        "en": "The power of knowledge awakens!",
+        "pt": "Eu sinto o poder de Saga!"
+    },
+    "wA0D": {
+        "en": "by the power of blue flames!",
+        "pt": "Eu sinto o poder de Jord!"
+    },
+    "wQ0D": {
+        "en": "power like a gale!",
+        "pt": "Eu sinto o poder de Forseti!"
+    },
+    "wg0D": {
+        "en": "Look! my flamboyant bow skills!!",
+        "pt": "Eu sinto o poder de Skadi!"
+    },
+    "ww0D": {
+        "en": "Hahahahahaha the power of revenge!",
+        "pt": "Eu sinto o poder de Vali!"
+    },
+    "xA0D": {
+        "en": "wake up! The power of a powerful magic swordsman!!",
+        "pt": "Eu sinto o poder de Lofn!"
+    },
+    "xQ0D": {
+        "en": "I punish you with the power of light!",
+        "pt": "Eu sinto o poder da Deusa Jord!"
+    },
+    "xg0D": {
+        "en": "The power of the blue sea!",
+        "pt": "Eu sinto o poder de Balder!"
+    },
+    "xw0D": {
+        "en": "...That's bad...",
+        "pt": "Eu sinto o poder de Loki!"
+    },
+    "yA0D": {
+        "en": "I saw a sign!!!!",
+        "pt": "I saw a sign!!!!"
+    },
+    "yQ0D": {
+        "en": "I can feel the clean energy!!",
+        "pt": "Sinto a energia Ancestral!!"
+    },
+    "yg0D": {
+        "en": "See the power of incoherent swords!!",
+        "pt": "Veja o poder das laminas rivais!!"
+    },
+    "yw0D": {
+        "en": "I will punish you.",
+        "pt": "Sinta o meu poder."
+    },
+    "zA0D": {
+        "en": "listen to my rhythm!",
+        "pt": "Meus quadris nunca mentem!"
+    },
+    "zQ0D": {
+        "en": "I shoot this muzzle red!!",
+        "pt": "Hasta la vista, baby!!"
+    },
+    "zg0D": {
+        "en": "Look! the feast of explosions!!",
+        "pt": "Hora de explodir!!"
+    },
+    "zw0D": {
+        "en": "Whoa! baptize your soul!!",
+        "pt": "Vou coletar sua alma!!"
+    },
+    "0A0D": {
+        "en": "black on fire!!",
+        "pt": "O dia de expurgar chegou!!"
+    },
+    "0Q0D": {
+        "en": "A mysterious horn is heard..",
+        "pt": "No ritmo de festa!!"
+    },
+    "0g0D": {
+        "en": "It seems that the energy of the stone slab is flowing into me...",
+        "pt": "O poder do tornado flui no meu sangue"
+    },
+    "0w0D": {
+        "en": "nya nya nyan nyan !!",
+        "pt": "Miau Miau Miau Miau !!"
+    },
+    "1A0D": {
+        "en": "Smokie-formation!",
+        "pt": "Hora de Morfar: Fumacento!"
+    },
+    "1Q0D": {
+        "en": "Lunatic-formation!",
+        "pt": "Hora de Morfar: Lunatico!"
+    },
+    "1g0D": {
+        "en": "The thing... must remain where it should be...",
+        "pt": "Right there... I have to go there..."
+    },
+    "1w0D": {
+        "en": "I will never forgive you...!",
+        "pt": "Eu nunca irei te perdoar..!"
+    },
+    "2A0D": {
+        "en": "Somebody please help me...",
+        "pt": "Me ajude.."
+    },
+    "2Q0D": {
+        "en": "Stop it... It hurts...",
+        "pt": "Pare... Isso doi muito.."
+    },
+    "2g0D": {
+        "en": "It's so cold in here...",
+        "pt": "Que frio..."
+    },
+    "2w0D": {
+        "en": "Please... Stay with me...",
+        "pt": "Por favor... Fique comigo..."
+    },
+    "3A0D": {
+        "en": "Stay... here with me...",
+        "pt": "Por favor... Vamos ficar juntos..."
+    },
+    "3Q0D": {
+        "en": "You shouldn't have come here...",
+        "pt": "Eu nao deveria ter vindo aqui..."
+    },
+    "3g0D": {
+        "en": "Hello... Is anyone there...?",
+        "pt": "Nao tem ninguem aqui...?"
+    },
+    "3w0D": {
+        "en": "I am so scared....scared....",
+        "pt": "Estou com medo...."
+    },
+    "4A0D": {
+        "en": "Dear Odin...",
+        "pt": "Odin..."
+    },
+    "4Q0D": {
+        "en": "Wake up!",
+        "pt": "Aguente firme!!"
+    },
+    "4g0D": {
+        "en": "I am sorry... I will leave now... thank you...",
+        "pt": "Me desculpa... Eu irei agora... Obrigado..."
+    },
+    "4w0D": {
+        "en": "Mommy...",
+        "pt": "Mamae..."
+    },
+    "5A0D": {
+        "en": "I'll cut you fast and quiet..",
+        "pt": "Te matarei silenciosamente..."
+    },
+    "5Q0D": {
+        "en": "Dragon's power rises!!",
+        "pt": "Sinto um poder draconiano!!"
+    },
+    "5g0D": {
+        "en": "After all, this is your destiny !!",
+        "pt": "Sinta meu poder FATAL!"
+    },
+    "5w0D": {
+        "en": "A powerful destructive power springs up!!",
+        "pt": "O poderoso poder de destrui?o aumenta!!"
+    },
+    "6A0D": {
+        "en": "Judgment of the holy light!!",
+        "pt": "Julgamento da Luz Sagrada!!"
+    },
+    "6Q0D": {
+        "en": "The magic of ice soars.!!",
+        "pt": "A magia glacial ressurge!!"
+    },
+    "6g0D": {
+        "en": "See the power of the cold!!",
+        "pt": "Testemunhe o poder do gelo!!"
+    },
+    "6w0D": {
+        "en": "by the power of holy light!!",
+        "pt": "Que a luz sagrada extermine o mal!!"
+    },
+    "7A0D": {
+        "en": "blow it up !!",
+        "pt": "Sinto um poder surreal!!"
+    },
+    "7Q0D": {
+        "en": "The power of the crimson dragon awakens !!",
+        "pt": "Tenho a mira de uma Ave de Rapina!!"
+    },
+    "7g0D": {
+        "en": "Oooooooh!!! I feel an unknown power filling me!!",
+        "pt": "Vamos batalhar!"
+    },
+    "7w0D": {
+        "en": "Pelo poder do Sol, da Lua e das Estrelas!!!",
+        "pt": "Pelo poder do Sol, da Lua e das Estrelas!!!"
+    },
+    "8A0D": {
+        "en": "Sinto a energia das almas vagando na Terra!!",
+        "pt": "Sinto a energia das almas vagando na Terra!!"
+    },
+    "8Q0D": {
+        "en": "Angel's Protection!",
+        "pt": "Angel's Protection!"
+    },
+    "8g0D": {
+        "en": "Attack of Freedom!!",
+        "pt": "Attack of Freedom!!"
+    },
+    "8w0D": {
+        "en": "CatPaw Storage",
+        "pt": "CatPaw Storage",
+        "es": "CatPaw Storage"
+    },
+    "9A0D": {
+        "en": "[CatPaw Storage]\nThis is the CatPaw Storage Summoning Service, nya.\nAs requested, I'll open the storage, nya.",
+        "pt": "[Sansan]\nA Corporacao Zonda orgulhosamente apresenta o Cartao Zonda.\nA qualquer hora, em qualquer lugar, com este bilhete, voce pode usar o armazem!",
+        "es": "[Almacén de Mano Gato]\nEste es el servicio de invocación del almacén de Mano Gato, nya.\nTal como lo pediste, abriré el almacén, nya."
+    },
+    "9Q0D": {
+        "en": "Mardol (arug_cas01)",
+        "pt": "Mardol (arug_cas01)"
+    },
+    "9g0D": {
+        "en": "Syr (arug_cas02)",
+        "pt": "Syr (arug_cas02)"
+    },
+    "9w0D": {
+        "en": "Horn (arug_cas03)",
+        "pt": "Horn (arug_cas03)"
+    },
+    "+A0D": {
+        "en": "Gefn (arug_cas04)",
+        "pt": "Gefn (arug_cas04)"
+    },
+    "+Q0D": {
+        "en": "Banadis (arug_cas05)",
+        "pt": "Banadis (arug_cas05)"
+    },
+    "+g0D": {
+        "en": "Himinn (schg_cas01)",
+        "pt": "Himinn (schg_cas01)"
+    },
+    "+w0D": {
+        "en": "Andlangr (gefg_cas02)",
+        "pt": "Andlangr (gefg_cas02)"
+    },
+    "/A0D": {
+        "en": "Vidblainn (schg_cas03)",
+        "pt": "Vidblainn (schg_cas03)"
+    },
+    "/Q0D": {
+        "en": "Hljod (gefg_cas04)",
+        "pt": "Hljod (gefg_cas04)"
+    },
+    "/g0D": {
+        "en": "Skatyrnir (schg_cas05)",
+        "pt": "Skatyrnir (schg_cas05)"
+    },
+    "/w0D": {
+        "en": "Trans-Form-!! Bloody Murderer Fo-rm!!",
+        "pt": "Sinto cheiro de sangue!"
+    },
+    "\u0000\u000e\u0003": {
+        "en": "Trans-Form-!!! Bathory Fo-rm!!",
+        "pt": "Vou fazer a magia acontecer!"
+    },
+    "\u0001\u000e\u0003": {
+        "en": "Trans-Form-!! Jack Fo-rm!!",
+        "pt": "Feliz Dia das Bruxas!!!"
+    },
+    "\u0002\u000e\u0003": {
+        "en": "Trans-Form-!! Cube Fo-rm!!",
+        "pt": "Kekkekekek!!!"
+    },
+    "\u0003\u000e\u0003": {
+        "en": "Who dares to confront me!!",
+        "pt": "Quem ousa me despertar?"
+    },
+    "\u0004\u000e\u0003": {
+        "en": "That's insignificant....",
+        "pt": "Quem ousa me despertar?"
+    },
+    "\u0005\u000e\u0003": {
+        "en": "Poder das Chamas!!",
+        "pt": "Poder das Chamas!!"
+    },
+    "\u0006\u000e\u0003": {
+        "en": "Aaah!!",
+        "pt": "Avante!!"
+    },
+    "\u0007\u000e\u0003": {
+        "en": "Let's begin!",
+        "pt": "Está preparado?"
+    },
+    "\b\u000e\u0003": {
+        "en": "[Kafra Employee]\nOpening Main Storage.\nThank you for using\nthe Kafra Service.",
+        "pt": "[Funcionaria Kafra]\nOla, este e o servico da Kafra aos visitantes.\nDeixe-me abrir o seu armazem para voce."
+    },
+    "\u000e\u0003": {
+        "en": "Wooaaah!!! An unknown power surges within me!!!",
+        "pt": "Uoooh!!! Um poder desconhecido surge em mim!!!",
+        "es": "¡Woaaah! ¡Un poder desconocido surge!"
+    },
+    "\u000e\u000e\u0003": {
+        "en": "Agora me animei!"
+    },
+    "\u000f\u000e\u0003": {
+        "en": "Aaah! Odeio quem duvida de mim!"
+    },
+    "\u0010\u000e\u0003": {
+        "en": "Meu instinto nunca me enganou!"
+    },
+    "\u0011\u000e\u0003": {
+        "en": "Sinto que hoje e meu dia de sorte!"
+    },
+    "\u0012\u000e\u0003": {
+        "en": "Braaaaains!",
+        "pt": "Cérebrooos",
+        "es": "Cereeebros"
+    },
+    "\u0013\u000e\u0003": {
+        "en": "Scaaaaaars!",
+        "pt": "Estreeeelas",
+        "es": "Estreeeellas"
+    },
+    "\u0014\u000e\u0003": {
+        "en": "Roaaar",
+        "pt": "Rawr !!",
+        "es": "Grrr !!"
+    },
+    "\u0015\u000e\u0003": {
+        "en": "This is my magic Power!",
+        "pt": "A magia despertou!",
+        "es": "Este es mi poder !!"
+    },
+    "\u0016\u000e\u0003": {
+        "en": "How dare you! I punish you to endless sleep!",
+        "pt": "Hora da sonequinha!!",
+        "es": "Hora de la siesta"
+    },
+    "\u0017\u000e\u0003": {
+        "en": "Teleportar para Sussurro Sombrio"
+    },
+    "\u0018\u000e\u0003": {
+        "en": "Esteja pelo menos Lv. 145."
+    },
+    "\u0019\u000e\u0003": {
+        "en": "A VERDADE!!!!!"
+    },
+    "\u001a\u000e\u0003": {
+        "en": "Faro Aprimorado!!"
+    },
+    "\u001b\u000e\u0003": {
+        "en": "CatPaw Storage",
+        "pt": "CatPaw Storage",
+        "es": "CatPaw Storage"
+    },
+    "!\u000e\u0003": {
+        "en": "Izlude Dungeon 6th floor",
+        "pt": "Tunel Submarino 6ºP",
+        "es": "6.º piso de la mazmorra de Izlude"
+    },
+    "\"\u000e\u0003": {
+        "en": "Dragon's Nest 2nd floor",
+        "pt": "Ninho do Dragao 2ºP",
+        "es": "2.º piso del Nido del Dragon"
+    },
+    "#\u000e\u0003": {
+        "en": "Glastheim Catacombs",
+        "pt": "Calaboucos de Glastheim",
+        "es": "Catacumbas de Glastheim"
+    },
+    "$\u000e\u0003": {
+        "en": "The dense forest of Moskovia",
+        "pt": "Floresta Encantada",
+        "es": "El denso bosque de Moscovia"
+    },
+    "%\u000e\u0003": {
+        "en": "Size-Ignoring Magic! Activate!!",
+        "pt": "Magia que ignora o tamanho! Ative!!",
+        "es": "¡Magia que ignora el tamano! ¡Activa!"
+    },
+    "&\u000e\u0003": {
+        "en": "Size-Ignoring Magic! Activate!!",
+        "pt": "Magia que ignora o tamanho! Ative!!",
+        "es": "¡Magia que ignora el tamano! ¡Activa!"
+    },
+    "'\u000e\u0003": {
+        "en": "I will show you my power!!",
+        "pt": "Eu vou te mostrar meu poder!!",
+        "es": "¡¡¡Te mostrare mi poder!!!"
+    },
+    "(\u000e\u0003": {
+        "en": "I will show you my power!!",
+        "pt": "Eu vou te mostrar meu poder!!",
+        "es": "¡¡¡Te mostrare mi poder!!!"
+    },
+    ")\u000e\u0003": {
+        "en": "More powerfully!!",
+        "pt": "Mais Poder!!",
+        "es": "¡¡Mas poder!!"
+    },
+    "*\u000e\u0003": {
+        "en": "More powerfully!!",
+        "pt": "Mais Poder!!",
+        "es": "¡¡Mas poder!!"
+    },
+    "+\u000e\u0003": {
+        "en": "By the power of divine light!!",
+        "pt": "Pelo poder da Luz Divina!!",
+        "es": "¡¡Por el poder de la Luz Divina!!"
+    },
+    ",\u000e\u0003": {
+        "en": "By the power of divine light!!",
+        "pt": "Pelo poder da Luz Divina!!",
+        "es": "¡¡Por el poder de la Luz Divina!!"
+    },
+    "-\u000e\u0003": {
+        "en": "Today the wind is rough.",
+        "pt": "Hoje o vento esta agitado.",
+        "es": "Hoy el viento está fuerte."
+    },
+    ".\u000e\u0003": {
+        "en": "I smell the aroma of flowers..",
+        "pt": "Sinto o aroma das Flores..",
+        "es": "Huelo el aroma de las flores.."
+    },
+    "/\u000e\u0003": {
+        "en": "HELL YEAH-! Chaos, Destruction, Despair!",
+        "pt": "Mwahaha! Caos e Desespero!!!",
+        "es": "Mwahaha! Caos y Terror!!!"
+    },
+    "0\u000e\u0003": {
+        "en": "Ahhh!!! Painful!!!!"
+    }
+}

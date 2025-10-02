@@ -1,0 +1,1407 @@
+{
+    "u8": {
+        "en": "Laponte",
+        "pt": "Laponte",
+        "es": "Administrador de Caza 1"
+    },
+    "!u8": {
+        "en": "You have too many items in your inventory.",
+        "pt": "Você tem muitos itens em seu inventário.",
+        "es": "Tienes demasiados objetos en tu inventario."
+    },
+    "\"u8": {
+        "en": "Your inventory is too heavy.",
+        "pt": "Seu inventário está muito pesado.",
+        "es": "Tu inventario está demasiado pesado."
+    },
+    "#u8": {
+        "en": "XXX\nXXXXXXXXXXXXXXXXXX",
+        "pt": "XXX\nXXXXXXXXXXXXXXXXXXXXXX",
+        "es": "XXX\nXXXXXXXXXXXXXXXXXX"
+    },
+    "$u8": {
+        "en": "I can't understand him...",
+        "pt": "Não consigo entendê-lo...",
+        "es": "No puedo entender lo que dice…"
+    },
+    "%u8": {
+        "en": "Sapha keeps a distance from you even when you try to talk. Looks like he called on Guard Galten. Time to go.",
+        "pt": "O Sapha mantém distância de você, mesmo quando você tenta conversar. Parece que ele chamou o guarda Garton. Hora de ir embora.",
+        "es": "Este sapha mantiene siempre la distancia, incluso cuando intentas hablarle. Parece que llamó a un guardia galten. Es hora de irse."
+    },
+    "&u8": {
+        "en": "[Laponte]\nHa ha ha, many other adventurers are giving a helping hand. I'll see you next time.",
+        "pt": "[Laponte]\nHahaha, muitos outros aventureiros estão dando uma mãozinha. Vejo você na próxima.",
+        "es": "[Laponte]\nJa, ja, ja, un conjunto de trotamundos nos está echando una mano. Nos vemos la próxima vez."
+    },
+    "'u8": {
+        "en": "[Laponte]\nI do not have any additional requests. Please report to the ^990099Hunting Dept. 1 Manager^000000 at Operations to report request completion.",
+        "pt": "[Laponte]\nNão tenho nenhuma solicitação extra. Favor se apresentar ao ^990099Gerente do Departamento de Caça 1^000000 nas Operações para informar a conclusão da solicitação.",
+        "es": "[Laponte]\nNo tengo ninguna otra solicitud. Habla con el ^990099administrador de Caza 1^000000 en Operaciones para informar que completaste la solicitud."
+    },
+    "(u8": {
+        "en": "[Laponte]\nPlease come back after checking previous requests with the ^990099Hunting Dept. 1 Manager^000000.",
+        "pt": "[Laponte]\nVolte depois de verificar as solicitações anteriores com o ^990099Gerente do Departamento de Caça 1^000000.",
+        "es": "[Laponte]\nVuelve luego de haber completado las solicitudes anteriores del ^990099administrador de Caza 1^000000."
+    },
+    ")u8": {
+        "en": "[Laponte]\nWelcome.\nAre you here for a request?",
+        "pt": "[Laponte]\nBoas-vindas.\nVocê veio aqui para fazer uma solicitação?",
+        "es": "[Laponte]\nTe doy la bienvenida.\n¿Viniste a ver las solicitudes disponibles?"
+    },
+    "*u8": {
+        "en": "Please explain the request to me.",
+        "pt": "Por favor, explique a solicitação para mim.",
+        "es": "Explícame la solicitud que se me asignó."
+    },
+    "+u8": {
+        "en": "Please give me a request.",
+        "pt": "Por favor, me dê uma solicitação.",
+        "es": "Asígname una solicitud."
+    },
+    ",u8": {
+        "en": "[Laponte]\nI'm responsible for allocating requests from other departments related to hunting monsters to adventurers.",
+        "pt": "[Laponte]\nSou responsável por alocar solicitações de outros departamentos relacionados à caça de monstros para aventureiros.",
+        "es": "[Laponte]\nSoy responsable de asignar a los trotamundos solicitudes de caza de monstruos de otros departamentos."
+    },
+    "-u8": {
+        "en": "[Laponte]\nEach adventurer is randomly assigned to one request each day and the range of the request assigned is limited to the adventurer's training level.",
+        "pt": "[Laponte]\nCada aventureiro é atribuído aleatoriamente a uma solicitação por dia e o alcance da solicitação atribuída é limitado ao nível de treinamento do aventureiro.",
+        "es": "[Laponte]\nA cada trotamundos se le asigna una solicitud al azar por día, y las características de la solicitud dependen del nivel de entrenamiento de los trotamundos."
+    },
+    ".u8": {
+        "en": "[Laponte]\nAdvanced jobs are assigned to adventurers who advance in their battle skills so no need to be upset if your first few requests are small.",
+        "pt": "[Laponte]\nOs trabalhos avançados são atribuídos aos aventureiros que avançam em suas habilidades de batalha, portanto, não precisa se chatear se suas primeiras solicitações forem pequenas.",
+        "es": "[Laponte]\nSe asignan trabajos avanzados a los trotamundos que tengan mayores habilidades de combate, así que no te ofendas si tus primeras solicitudes son sencillas."
+    },
+    "/u8": {
+        "en": "[Laponte]\nI will check the list of requests that came in today.",
+        "pt": "[Laponte]\nVou verificar a lista de solicitações que chegaram hoje.",
+        "es": "[Laponte]\nRevisaré la lista de solicitudes de hoy."
+    },
+    "0u8": {
+        "en": "[Laponte]\nHmm...\nI actually have something just right for you.",
+        "pt": "[Laponte]\nHmm...\nNa verdade, tenho algo ideal para você.",
+        "es": "[Laponte]\nMmm…\nCreo que tengo algo perfecto para ti."
+    },
+    "1u8": {
+        "en": "[Laponte]\nThis is a very small request. Baby dragons near the Yggdrasilberry roots are reportedly hatching.",
+        "pt": "[Laponte]\nEste é um pedido muito pequeno. Os bebês dragões perto das raízes do Fruto de Yggdrasil estão eclodindo.",
+        "es": "[Laponte]\nSe trata de una solicitud bastante sencilla. Se dice que están naciendo crías de Dragón cerca de las raíces de Yggdrasil."
+    },
+    "2u8": {
+        "en": "[Laponte]\nEliminating the baby dragon is important because those baby dragons will eventually grow to be mean adults so we have to take them out while they're young.",
+        "pt": "[Laponte]\nEliminar o bebê dragão é importante porque esses bebês dragões acabarão se tornando adultos cruéis, então temos que eliminá-los enquanto jovens.",
+        "es": "[Laponte]\nEliminar a las crías de Dragón es importante porque, con el tiempo, esas crías se convertirán en adultos malvados, así que tenemos que eliminarlas mientras sean jóvenes."
+    },
+    "3u8": {
+        "en": "You have received a request named ^880088Remove Root Cause^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Remover Causa Raiz^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela da Missão^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Eliminar el problema de raíz^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "4u8": {
+        "en": "[Laponte]\nReceived reports of sightings of an unknown huge winged insect near the Laphine camp recently.",
+        "pt": "[Laponte]\nRecebi relatos de avistamentos de um enorme inseto alado desconhecido perto do acampamento das Laphine esses dias.",
+        "es": "[Laponte]\nRecibimos informes de avistamientos recientes de un enorme insecto alado desconocido cerca del campamento de los laphines."
+    },
+    "5u8": {
+        "en": "[Laponte]\nWe don't know how far the infestation of this insect may spread so please exterminate as many as you spot.",
+        "pt": "[Laponte]\nNão sabemos até onde a infestação desse inseto pode ir. Extermine todos que encontrar.",
+        "es": "[Laponte]\nNo sabemos hasta dónde puede extenderse la plaga de este insecto, así que extermina todos los que veas."
+    },
+    "6u8": {
+        "en": "You have received a request named ^880088Violent Winged Insect^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Inseto Alado Violento^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela da Missão^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Insectos alados agresivos^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "7u8": {
+        "en": "[Laponte]\nThis just came in from colleagues working in the mine.",
+        "pt": "[Laponte]\nAcabou de chegar de colegas que trabalham na mina.",
+        "es": "[Laponte]\nAcaba de llegar esto de unos colegas que trabajan en la mina."
+    },
+    "8u8": {
+        "en": "[Laponte]\nThe baby dragons living near Yggdrasilberry roots are destroying the grounds near the mines. It will get dangerous if we don't take care of it.",
+        "pt": "[Laponte]\nOs bebês dragões que vivem perto das raízes do Fruto de Yggdrasil estão destruindo o terreno perto das minas. Isso vai ficar perigoso se não resolvermos logo.",
+        "es": "[Laponte]\nLas crías de Dragón que viven cerca de las raíces de Yggdrasil están destruyendo las tierras cercanas a las minas. Va a ser peligroso si no nos encargamos de esto."
+    },
+    "9u8": {
+        "en": "[Laponte]\nPlease wipe out the baby dragons near Yggdrasilberry.",
+        "pt": "[Laponte]\nAcabe com os bebês dragões perto do Fruto de Yggdrasil.",
+        "es": "[Laponte]\nAcaba con las crías de Dragón cerca de Yggdrasil."
+    },
+    ":u8": {
+        "en": "You have received a request named ^880088Work Interference^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação denominada ^880088Interferência no Trabalho^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela da Missão^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Interferencia en el trabajo^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    ";u8": {
+        "en": "[Laponte]\nA new race called Naga was found inhabiting the swamp near the Laphine camp.",
+        "pt": "[Laponte]\nUma nova raça chamada Naga foi vista habitando o pântano perto do acampamento Laphine.",
+        "es": "[Laponte]\nSe avistó una nueva raza, la de los Naga, que habita en los pantanos cerca del campamento de los laphine."
+    },
+    "<u8": {
+        "en": "[Laponte]\nThe problem is that they are primitive intellectuals and are violent.",
+        "pt": "[Laponte]\nO problema é que Nagas são primitivos e violentos.",
+        "es": "[Laponte]\nEl problema es que son intelectuales primitivos y violentos."
+    },
+    "=u8": {
+        "en": "[Laponte]\nWe will have many conflicts with them in the future if they expand their colony. Please go eliminate the adult Nagas.",
+        "pt": "[Laponte]\nTeremos muitos conflitos com eles no futuro se expandirem sua colônia. Vá eliminar os nagas adultos.",
+        "es": "[Laponte]\nSi expanden su colonia, tendremos muchos conflictos con ellos. Te pido que elimines a los Naga adultos."
+    },
+    ">u8": {
+        "en": "You have received a request named ^880088Intelligent Snakes^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Cobras Inteligentes^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela da Missão^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Serpientes inteligentes^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "?u8": {
+        "en": "[Laponte]\nWe get continuous reports of sightings of a legendary winged white horse near by the Laphine base.",
+        "pt": "[Laponte]\nRecebemos relatos contínuos de avistamentos de um lendário cavalo branco alado perto da base Laphine.",
+        "es": "[Laponte]\nRecibimos continuos informes de avistamientos de un caballo blanco alado legendario cerca de la base de los laphines."
+    },
+    "@u8": {
+        "en": "[Laponte]\nCan you go there in person and take a look?",
+        "pt": "[Laponte]\nVocê pode ir lá pessoalmente e dar uma olhada?",
+        "es": "[Laponte]\n¿Puedes ir allí y confirmar si es cierto?"
+    },
+    "Au8": {
+        "en": "[Laponte]\nIt could be a hallucination so please make sure to touch it with your bare hand to make sure it is a living creature.",
+        "pt": "[Laponte]\nPode ser uma alucinação... Então, certifique-se de tocá-la com as mãos nuas para ter certeza de que é uma criatura viva.",
+        "es": "[Laponte]\nPodría ser una alucinación, así que asegúrate de tocarlo con la mano para comprobar que se trata de una criatura real."
+    },
+    "Bu8": {
+        "en": "You have received a request named ^880088Legendary Creature^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu um pedido chamado ^880088Criatura Lendária^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela da Missão^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Una criatura legendaria^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "Cu8": {
+        "en": "[Laponte]\nCentipede's reproduction is another problem but their appetite is also threatening our survival.",
+        "pt": "[Laponte]\nA reprodução das centopeias é outro problema, mas o apetite delas também está ameaçando nossa sobrevivência.",
+        "es": "[Laponte]\nLa reproducción de las Escolopendras es otro problema, y su apetito también amenaza nuestra supervivencia."
+    },
+    "Du8": {
+        "en": "[Laponte]\nThey absorb Bradium minerals and damage our mining grounds.\nMany of our Sapha colleagues have lost their lives to the Centipedes. Please exterminate them.",
+        "pt": "[Laponte]\nElas absorvem os minerais de Bradium e danificam nossas áreas de mineração.\nMuitos de nossos colegas Sapha perderam suas vidas para as centopéias. Nos faça um favor e as extermine.",
+        "es": "[Laponte]\nAbsorben minerales de bradium y dañan nuestros terrenos mineros.\nMuchos de nuestros colegas saphas perdieron sus vidas a manos de las Escolopendras. Extermínalos."
+    },
+    "Eu8": {
+        "en": "You have received a request named ^880088Insects with an Appetite^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Insetos com Apetite^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela da Missão^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Insectos hambrientos^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "Fu8": {
+        "en": "[Laponte]\nGot a report that Bradium raw minerals in the mines are alive.",
+        "pt": "[Laponte]\nRecebi um relatório de que os minerais brutos de Bradium nas minas estão vivos.",
+        "es": "[Laponte]\nRecibí un informe que indica que hay minerales en bruto de bradium vivos en las minas."
+    },
+    "Gu8": {
+        "en": "[Laponte]\nLooks like Bradium raw minerals were turned into Golems by an ancient spell and now we may need to close down our mines because of them. Can you please go and eliminate them?",
+        "pt": "[Laponte]\nParece que os minerais brutos de Bradium foram transformados em Golems por um feitiço antigo e agora talvez tenhamos que fechar nossas minas por causa deles. Você pode ir e dar um jeito neles?",
+        "es": "[Laponte]\nParece que los minerales en bruto de bradium se convirtieron en Gólems por un antiguo hechizo, y ahora puede que tengamos que cerrar nuestras minas debido a ellos. ¿Puedes ir a eliminarlos?"
+    },
+    "Hu8": {
+        "en": "You have received a request named ^880088Moving Rocks^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Rocha Ambulante^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela da Missão^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Rocas móviles^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "Iu8": {
+        "en": "Hunting Dept. 1 Manager",
+        "pt": "Gerente do Departamento de Caça 1",
+        "es": "Kalipo"
+    },
+    "Ju8": {
+        "en": "I don't understand him.",
+        "pt": "Não entendo ele.",
+        "es": "No puedo entender lo que dice."
+    },
+    "Ku8": {
+        "en": "The Sapha keeps a distance from you even when you try to talk.\nIt looks like he is calling for a Galten. Time to go.",
+        "pt": "O Sapha mantém distância de você, mesmo quando você tenta falar.\nParece que ele está chamando por um Garton. Hora de ir embora.",
+        "es": "Este sapha mantiene siempre la distancia, incluso cuando intentas hablarle.\nParece que está llamando a un galten. Es hora de irse."
+    },
+    "Lu8": {
+        "en": "[Hunting Dept. 1 Manager]\nUmm...What are you up to? Anything to do with me?",
+        "pt": "[Gerente do Departamento de Caça 1]\nHumm... O que você quer? Tem algo a ver comigo?",
+        "es": "[Administrador de Caza 1]\nEste… ¿qué tramas? ¿Tiene algo que ver conmigo?"
+    },
+    "Mu8": {
+        "en": "[Hunting Dept. 1 Manager]\nSo you didn't get\nany requests yet.\nLaponte will have piles\nof requests and might give\nyou one. Try meeting him near the center of El Dicastes.",
+        "pt": "[Gerente do Departamento de Caça 1]\nEntão você não recebeu\nnenhum pedido ainda.\nLaponte terá pilhas\nde solicitações e talvez possa lhe dar uma. Tente encontrá-lo perto do centro de El Dicastes.",
+        "es": "[Administrador de Caza 1]\nAsí que aún no conseguiste\nninguna solicitud.\nLaponte tendrá montones\nde solicitudes y puede que te asigne\nuna. Búscalo en el centro de El Dicastes."
+    },
+    "Nu8": {
+        "en": "[Hunting Dept. 1 Manager]\nTime limit has expired for the existing request.",
+        "pt": "[Gerente do Departamento de Caça 1]\nO limite de tempo da solicitação existente expirou.",
+        "es": "[Administrador de Caza 1]\nEl tiempo límite para cumplir esta solicitud se venció."
+    },
+    "Ou8": {
+        "en": "[Hunting Dept. 1 Manager]\nIf any incomplete request is found, it will be consider that you failed it and the request will be deleted.",
+        "pt": "[Gerente do Departamento de Caça 1]\nSe alguma solicitação incompleta for encontrada, será considerado que você falhou e a solicitação será excluída.",
+        "es": "[Administrador de Caza 1]\nSi una solicitud queda incompleta, se considerará que no lograste cumplirla y se eliminará de la lista."
+    },
+    "Pu8": {
+        "en": "[Hunting Dept. 1 Manager]\nYou can get a new request after the existing request record being removed, go to see Laponte.",
+        "pt": "[Gerente do Departamento de Caça 1]\nVocê pode obter uma nova solicitação depois que o registro de solicitação existente for removido. Vá até Laponte.",
+        "es": "[Administrador de Caza 1]\nSi quieres que se te asigne una nueva solicitud, elimina la solicitud fallida de tu lista y luego habla con Laponte."
+    },
+    "Qu8": {
+        "en": "[Hunting Dept. 1 Manager]\nWelcome.\nHow can I help you?",
+        "pt": "[Gerente do Departamento de Caça 1]\nBoas-vindas.\nComo posso ajudar?",
+        "es": "[Administrador de Caza 1]\nTe doy la bienvenida.\n¿En qué puedo ayudarte?"
+    },
+    "Ru8": {
+        "en": "I completed the request.",
+        "pt": "Concluí a solicitação.",
+        "es": "Completé la solicitud."
+    },
+    "Su8": {
+        "en": "[Hunting Dept. 1 Manager]\nAh...\nYou are done with the request?\nLet me check your records first.",
+        "pt": "[Gerente do Departamento de Caça 1]\nAh...\nVocê já encerrou a solicitação?\nDeixe-me verificar seus registros primeiro.",
+        "es": "[Administrador de Caza 1]\nAh…\n¿Dices que completaste la solicitud?\nDéjame revisar en los registros primero."
+    },
+    "Tu8": {
+        "en": "[Hunting Dept. 1 Manager]\nOh, you completed all your requests. Confirmation complete.",
+        "pt": "[Gerente do Departamento de Caça 1]\nAh, você completou todas as suas solicitações. Confirmação concluída.",
+        "es": "[Administrador de Caza 1]\nAh, aquí dice que completaste todas las solicitudes. Confirmo compleción."
+    },
+    "Uu8": {
+        "en": "[Hunting Dept. 1 Manager]\nUm.....{0}\nYou will be in trouble if you lie about the request...",
+        "pt": "[Gerente do Departamento de Caça 1]\nErm, {0}...\nVocê vai ter problemas se mentir sobre a solicitação...",
+        "es": "[Administrador de Caza 1]\nEste…{0}\nTendrás problemas si mientes sobre tus solicitudes."
+    },
+    "Vu8": {
+        "en": "Kalipo",
+        "pt": "Kalipo",
+        "es": "Administrador de Caza 2"
+    },
+    "Wu8": {
+        "en": "[Kalipo]\nHa ha ha, many other adventurers are giving a helping hand. I'll see you next time.",
+        "pt": "[Kalipo]\nHahaha, muitos outros aventureiros estão dando uma mãozinha. Vejo você na próxima.",
+        "es": "[Kalipo]\nJa, ja, ja, un grupo de trotamundos nos está echando una mano. Nos vemos la próxima vez."
+    },
+    "Xu8": {
+        "en": "[Kalipo]\nI do not have any additional requests. Please report to the ^990099Hunting Dept. 2 Manager^000000 at Operations to report request completion.",
+        "pt": "[Kalipo]\nNão tenho nenhuma solicitação adicional. Por favor, dirija-se ao ^990099 Gerente do Departamento de Caça 2^000000 em Operações para informar a conclusão da solicitação.",
+        "es": "[Kalipo]\nNo tengo ninguna otra solicitud. Habla con el ^990099administrador de Caza 2^000000 en Operaciones para informar que completaste la solicitud."
+    },
+    "Yu8": {
+        "en": "[Kalipo]\nPlease come back after checking\nprevious requests with the ^990099Hunting Dept. 2 Manager^000000.",
+        "pt": "[Kalipo]\nPor favor, volte depois de verificar\nas solicitações anteriores com o ^990099Gerente do Departamento de Caça 2^000000.",
+        "es": "[Kalipo]\nVuelve luego de haber completado\nlas solicitudes anteriores del ^990099administrador de Caza 2^000000."
+    },
+    "Zu8": {
+        "en": "[Kalipo]\nWelcome.\nAre you here for a request?",
+        "pt": "[Kalipo]\nBoas-vindas.\nVocê veio aqui para fazer uma solicitação?",
+        "es": "[Kalipo]\nTe doy la bienvenida.\n¿Viniste a ver las solicitudes disponibles?"
+    },
+    "[u8": {
+        "en": "[Kalipo]\nAs you know better and Laponte explained to you already I just can offer you one single request a day.",
+        "pt": "[Kalipo]\nComo sabe e Laponte já explicou, só posso te oferecer uma única solicitação por dia.",
+        "es": "[Kalipo]\nProbablemente ya lo sabes bien, puesto que Laponte te lo explicó, pero solo puedo ofrecerte una solicitud por día."
+    },
+    "\\u8": {
+        "en": "[Kalipo]\nYou will get more interesting requests after you raise your levels don't feel bad with the simple requests at first.",
+        "pt": "[Kalipo]\nVocê receberá solicitações mais interessantes depois de aumentar seus níveis, mas não se sinta mal com as simples no início.",
+        "es": "[Kalipo]\nRecibirás solicitudes más interesantes a medida que subas de nivel, así que no te sientas mal por las solicitudes sencillas que recibirás primero."
+    },
+    "]u8": {
+        "en": "[Kalipo]\nI will check the list of requests that came in today.",
+        "pt": "[Kalipo]\nVou verificar a lista de solicitações que chegaram hoje.",
+        "es": "[Kalipo]\nRevisaré la lista de solicitudes de hoy."
+    },
+    "^u8": {
+        "en": "[Kalipo]\nHmm..\nI actually have something just right for you.",
+        "pt": "[Kalipo]\nHmm...\nNa verdade, tenho algo ideal para você.",
+        "es": "[Kalipo]\nMmm…\nCreo que tengo algo perfecto para ti."
+    },
+    "_u8": {
+        "en": "[Kalipo]\nOur scout, who went to Splendide, is being attacked by cute child looking monsters.",
+        "pt": "[Kalipo]\nNosso batedor que foi para Esplendor está sendo atacado por monstros que parecem crianças fofas.",
+        "es": "[Kalipo]\nUno de nuestros exploradores fue a Splendide y está siendo atacado por criaturas con aspecto de niños adorables."
+    },
+    "`u8": {
+        "en": "[Kalipo]\nSo we need to hunt them inevitably, and you are the one for hunting them since you are not from Splendide.",
+        "pt": "[Kalipo]\nPrecisamos caçá-los e você é a pessoa certa para isso, já que não é de Esplendor.",
+        "es": "[Kalipo]\nNo tenemos más remedio que cazarlas, y eres la persona indicada para esto, ya que no eres de Splendide."
+    },
+    "au8": {
+        "en": "You have received a request named ^990099A child on a flower^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^990099Uma criança em uma flor^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela da Missão^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^990099La flor de la infancia^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "bu8": {
+        "en": "[Kalipo]\nAre you aware of the child looking flower, Pinguicula? People say there has been a mutation of that flower.",
+        "pt": "[Kalipo]\nVocê conhece a flor que se parece com uma criança, a Pinguicula? As pessoas dizem que existe uma mutação dela.",
+        "es": "[Kalipo]\n¿Conoces la flor con aspecto de niño, la Pinguicula? La gente dice que esa flor sufrió una mutación."
+    },
+    "cu8": {
+        "en": "[Kalipo]\nThey are very violent and aggressive so the troops from Laphine have been sent to slay them. Please go to check up and treat it before they are spread all over the area.",
+        "pt": "[Kalipo]\nElas são muito violentas e agressivas, então as tropas de Laphine foram enviadas para matá-las. Vá verificar e dê um jeito nelas antes que elas se espalhem por toda a área.",
+        "es": "[Kalipo]\nSon criaturas extremadamente violentas y agresivas, así que se enviaron tropas laphines para cazarlas. Ve a confirmarlo y encárgate de eso antes de que infesten toda la zona."
+    },
+    "du8": {
+        "en": "You have received a request named ^990099Twisted Love^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^990099Amor Distorcido^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela da Missão^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^990099Amor retorcido^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "eu8": {
+        "en": "[Kalipo]\nSome mineral collectors are missing, and it seems to be done by nepenthes for sure.",
+        "pt": "[Kalipo]\nAlguns coletores de minerais desapareceram e parece que a culpa é de nepenthes.",
+        "es": "[Kalipo]\nDesaparecieron algunos recolectores de minerales, y parece que los culpables son los Nepenthes."
+    },
+    "fu8": {
+        "en": "[Kalipo]\nNepenthes is similar to Mandragora. We gotta do something in order to protect people from more damage.",
+        "pt": "[Kalipo]\nOs Nepenthes são semelhantes a Mandrágoras. Temos que fazer algo para proteger as pessoas de mais problemas.",
+        "es": "[Kalipo]\nLos Nepenthes se parecen a las Mandrágoras. Tenemos que hacer algo para proteger a la gente de más daños."
+    },
+    "gu8": {
+        "en": "You have received a request named ^990099Dangerous Plant Removal^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^990099Remoção de Plantas Perigosas^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela da Missão^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^990099Eliminación de plantas peligrosas^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "hu8": {
+        "en": "[Kalipo]\nThey've discovered the centipede larva habitat. We can remove them now so there will be less centipedes.",
+        "pt": "[Kalipo]\nDescobriram o habitat das larvas de centopeia. Podemos removê-las agora para que haja menos delas.",
+        "es": "[Kalipo]\nDescubrieron el hábitat de la larva de Escolopendra. Podemos eliminarlas ahora para que haya menos Escolopendras."
+    },
+    "iu8": {
+        "en": "[Kalipo]\nWould you find them and kill them? You will have to be careful with the centipedes around them.",
+        "pt": "[Kalipo]\nVocê poderia encontrá-las e matá-las? Terá que tomar cuidado com as centopeias ao redor delas.",
+        "es": "[Kalipo]\n¿Puedes buscarlas y matarlas? Tienes que tener cuidado con las Escolopendras que están a su alrededor."
+    },
+    "ju8": {
+        "en": "You have received a request named ^990099Larva Extermination^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^990099Exterminação de Larvas^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela da Missão^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^990099Exterminación de larvas^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "ku8": {
+        "en": "[Kalipo]\nMiners heading to Nidhoggur's nest reported being attacked by a strange water creature.",
+        "pt": "[Kalipo]\nMineiros que estavam indo para o ninho de Nidhoggur relataram ter sido atacados por uma estranha criatura aquática.",
+        "es": "[Kalipo]\nLos mineros que se dirigían al nido de Nidhogg informaron que una extraña criatura acuática los atacó."
+    },
+    "lu8": {
+        "en": "[Kalipo]\nIt's said that it was human-looking water creature. Perhaps the Nidhoggur Dungeon is the origin so please visit there to check up.",
+        "pt": "[Kalipo]\nDizem que a criatura aquática tinha aparência humana. Talvez a Masmorra de Nidhoggur seja a origem. Visite-a para verificar.",
+        "es": "[Kalipo]\nDicen que era una criatura acuática con aspecto humano. Tal vez la mazmorra de Nidhogg sea el origen, así que visita ese lugar para comprobarlo."
+    },
+    "mu8": {
+        "en": "You have received a request named ^990099Demon of Water^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^990099Demônio da Água^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela da Missão^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^990099Demonios acuáticos^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "nu8": {
+        "en": "[Kalipo]\nTatachos were originally beautiful birds, and they could fly. But since they settled here where there is no natural enemy, they started to be fat and lazy.",
+        "pt": "[Kalipo]\nOriginalmente, os tatachos eram pássaros lindos e podiam voar. Mas, depois que se estabeleceram aqui, onde não há inimigos naturais, começaram a ficar gordos e preguiçosos.",
+        "es": "[Kalipo]\nLos Tatacho eran originalmente aves hermosas y podían volar. Pero desde que se asentaron aquí, donde no tienen enemigos naturales, empezaron a volverse gordos y perezosos."
+    },
+    "ou8": {
+        "en": "[Kalipo]\nEventually they became like now, such ugly birds. You will be a good natural enemy for them.",
+        "pt": "[Kalipo]\nCom o tempo, ficaram como estão agora, pássaros horrorosos. Você será um bom inimigo natural para eles.",
+        "es": "[Kalipo]\nCon el tiempo, se convirtieron en lo que son ahora, unos pájaros muy feos. Serás un buen enemigo natural para ellos."
+    },
+    "pu8": {
+        "en": "You have received a request named ^990099Bird with ugly face^000000 You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^990099Pássaro com Cara Feia^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela da Missão^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^990099Pajarraco horrible^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "qu8": {
+        "en": "Hunting Dept. 2 Manager",
+        "pt": "Gerente do Departamento de Caça 2",
+        "es": "Pura"
+    },
+    "ru8": {
+        "en": "[Hunting Dept. 2 Manager]\nHa ha, you will need to train a little more to work with me.",
+        "pt": "[Gerente do Departamento de Caça 2]\nHaha, você precisará treinar um pouco mais para trabalhar comigo.",
+        "es": "[Administrador de Caza 2]\nJa, ja, tendrás que entrenar un poco más si quieres trabajar conmigo."
+    },
+    "su8": {
+        "en": "[Hunting Dept. 2 Manager]\nSo you didn't get\nany requests yet.\nKalipo will have piles\nof requests and might give\nyou one. Try to find him.",
+        "pt": "[Gerente do Departamento de Caça 2]\nEntão você não recebeu\nnenhuma solicitação ainda.\nKalipo terá pilhas\nde solicitações e talvez dê\numa para você. Tente encontrá-lo.",
+        "es": "[Administrador de Caza 2]\nAsí que aún no conseguiste\nninguna solicitud.\nKalipo tendrá montones\nde solicitudes y puede que te asigne\nuna. Búscalo."
+    },
+    "tu8": {
+        "en": "[Hunting Dept. 2 Manager]\nKalipo seems to have another request for you.",
+        "pt": "[Gerente do Departamento de Caça 2]\nKalipo parece ter outro pedido para você.",
+        "es": "[Administrador de Caza 2]\nKalipo parece tener otra solicitud para ti."
+    },
+    "uu8": {
+        "en": "[Hunting Dept. 2 Manager]\nI will erase any other records including previous requests from Kalipo that you haven't completed yet.",
+        "pt": "[Gerente do Departamento de Caça 2]\nApagarei todos os outros registros, incluindo solicitações anteriores de Kalipo que ainda não foram concluídas.",
+        "es": "[Administrador de Caza 2]\nBorraré todos los registros, incluidas las solicitudes anteriores de Kalipo que aún no hayas completado."
+    },
+    "vu8": {
+        "en": "[Hunting Dept. 2 Manager]\nYour request history is cleared now. Please visit Kalipo.",
+        "pt": "[Gerente do Departamento de Caça 2]\nSeu histórico de solicitações foi apagado agora. Por favor, vá ver Kalipo.",
+        "es": "[Administrador de Caza 2]\nYa está; tu historial de solicitudes está vacío. Habla con Kalipo."
+    },
+    "wu8": {
+        "en": "[Hunting Dept. 2 Manager]\nWelcome.\nHow can I help you?",
+        "pt": "[Gerente do Departamento de Caça 2]\nBoas-vindas.\nComo posso ajudar?",
+        "es": "[Administrador de Caza 2]\nTe doy la bienvenida.\n¿En qué puedo ayudarte?"
+    },
+    "xu8": {
+        "en": "[Hunting Dept. 2 Manager]\nAh...\nYou are done with the request?\nLet me check your records first.",
+        "pt": "[Gerente do Departamento de Caça 2]\nAh...\nVocê já fez a solicitação?\nDeixe-me verificar seus registros primeiro.",
+        "es": "[Administrador de Caza 2]\nAh…\n¿Dices que completaste la solicitud?\nDéjame revisar en los registros primero."
+    },
+    "yu8": {
+        "en": "[Hunting Dept. 2 Manager]\nOh, you completed all your requests. Confirmation complete.",
+        "pt": "[Gerente do Departamento de Caça 2]\nAh, você completou todas as suas solicitações. Confirmação concluída.",
+        "es": "[Administrador de Caza 2]\nAh, aquí dice que completaste todas las solicitudes. Confirmo compleción."
+    },
+    "zu8": {
+        "en": "[Hunting Dept. 1 Manager]\nUmm..{0}\nPlease check your request history again. There is a discrepancy with our documents.",
+        "pt": "[Gerente do Departamento de Caça 1]\nErm, {0}...\nPor favor, verifique novamente seu histórico de solicitações. Há uma discrepância em nossos documentos.",
+        "es": "[Administrador de Caza 1]\nEste…{0}\nRevisa tu historial de solicitudes otra vez. Algo no concuerda con lo que tenemos en nuestros registros."
+    },
+    "{u8": {
+        "en": "Pura",
+        "pt": "Pura",
+        "es": "Admin. de Recursos 1"
+    },
+    "|u8": {
+        "en": "[Pura]\nThat's okay.\nWe are not that unfortunate to receive help from you.",
+        "pt": "[Pura]\nNão tem problema.\nNão somos tão infelizes assim para receber sua ajuda.",
+        "es": "[Pura]\nNo te preocupes.\nNo estamos tan en apuros como para necesitar tu ayuda."
+    },
+    "}u8": {
+        "en": "[Pura]\nI don't have any requests for you now. Report back to the ^990099Supply Dept. 1 Manager^000000 at Operations after you complete all requests.",
+        "pt": "[Pura]\nNão tenho nenhuma solicitação para você agora. Informe o Gerente do ^990099Departamento de Suprimentos 1^000000 em Operações depois de concluir todas as solicitações.",
+        "es": "[Pura]\nAhora mismo no tengo ninguna solicitud disponible. Vuelve a hablar con el ^990099Admin. de Recursos 1^000000 en Operaciones después de completar todas las solicitudes."
+    },
+    "~u8": {
+        "en": "[Pura]\nHave you already met the ^990099Supply Dept. 1 Manager^000000 at Operations? I will give you a new request after you clear your request history.",
+        "pt": "[Pura]\nVocê já se encontrou com o ^990099Gerente do Departamento de Suprimentos 1^000000 em Operações? Eu vou te dar uma nova solicitação depois que você limpar seu histórico de solicitações.",
+        "es": "[Pura]\n¿Ya conociste al ^990099Admin. de Recursos 1^000000 en Operaciones? Te asignaré una solicitud nueva después de que hayas borrado tu historial de solicitudes."
+    },
+    "u8": {
+        "en": "[Pura]\nWelcome.\nWhat brings you here?",
+        "pt": "[Pura]\nBoas-vindas.\nO que te traz aqui?",
+        "es": "[Pura]\nTe doy la bienvenida.\n¿Qué te trae por aquí?"
+    },
+    "gHU4": {
+        "en": "[Pura]\nAdventurers help me\ndeliver various items\nproduced here to\nother parts of the\narea.",
+        "pt": "[Pura]\nOs aventureiros me ajudam\na entregar vários itens\nproduzidos aqui para\noutras partes da\nárea.",
+        "es": "[Pura]\nLos trotamundos me ayudan\na enviar diversos objetos\nque producimos aquí \na otras partes de la\nzona."
+    },
+    "gXU4": {
+        "en": "[Pura]\nThere is no restrictions\nto the job but some jobs are more difficult than others.",
+        "pt": "[Pura]\nNão há restrições\npara o trabalho, mas alguns trabalhos são mais difíceis do que outros.",
+        "es": "[Pura]\nNo hay restricciones\npara tomar los trabajos, pero algunos son más difíciles que otros."
+    },
+    "gnU4": {
+        "en": "[Pura]\nPlease see me any time\nonce you are ready.",
+        "pt": "[Pura]\nVenha me ver a qualquer momento\nquando estiver tudo pronto.",
+        "es": "[Pura]\nHabla conmigo cuando quieras\nuna vez que tengas todo listo."
+    },
+    "g3U4": {
+        "en": "[Pura]\nI will check the list of\nrequests that came in today.",
+        "pt": "[Pura]\nVou verificar a lista de\nsolicitações que chegaram hoje.",
+        "es": "[Pura]\nRevisaré la lista\nde solicitudes de hoy."
+    },
+    "hHU4": {
+        "en": "[Pura]\nHmm..\nI actually have something just right for you.",
+        "pt": "[Pura]\nHmm...\nNa verdade, tenho algo ideal para você.",
+        "es": "[Pura]\nMmm…\nCreo que tengo algo perfecto para ti."
+    },
+    "hXU4": {
+        "en": "[Pura]\nThey say that this area was a wetland very long ago. But for some reason the environment has changed gradually over the years.",
+        "pt": "[Pura]\nDizem que essa área era um pântano há muito tempo. Mas, por alguma razão, o ambiente mudou gradualmente com o passar dos anos.",
+        "es": "[Pura]\nDicen que esta zona fue un humedal hace mucho tiempo. Pero, por alguna razón, el entorno ha cambiado gradualmente a lo largo de los años."
+    },
+    "hnU4": {
+        "en": "[Pura]\nThere is a patch of land near the Laphine camp that is still preserved. Can you bring back a Withered Flower sample? It will be a good sample to research on environmental changes.",
+        "pt": "[Pura]\nHá um pedaço de terra perto do acampamento Laphine que ainda está preservado. Você pode trazer uma amostra da Flor Murcha? Será útil para pesquisas sobre mudanças ambientais.",
+        "es": "[Pura]\nHay un lugar cerca del campamento laphine que aún se conserva en su estado original. ¿Puedes traerme una muestra de Flor marchita? Me vendrá muy bien para estudiar los cambios medioambientales."
+    },
+    "h3U4": {
+        "en": "You have received a request named ^880088Withered Flower^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Flor Murcha^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela da Missão^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Flor marchita^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "iHU4": {
+        "en": "[Pura]\nThe Bradium refine machinery is broken and now we are short supplying refined Bradium to our colleagues working at the mine.",
+        "pt": "[Pura]\nO maquinário de refino de Bradium está quebrado e agora estamos com falta de fornecimento de Bradium refinado para nossos colegas que trabalham na mina.",
+        "es": "[Pura]\nLa maquinaria de refinado de Bradium está averiada y ahora no tenemos Bradium refinado suficiente para entregar a nuestros colegas que trabajan en la mina."
+    },
+    "iXU4": {
+        "en": "[Pura]\nSo we are using all our adventurers to help collect refined Bradium. Please bring back 3 refined Bradiums from the Bradium Golem.",
+        "pt": "[Pura]\nEstamos usando todos os nossos aventureiros para ajudar a coletar o Bradium refinado. Por favor, traga de volta 3 Bradiums refinados do Golem de Bradium.",
+        "es": "[Pura]\nAsí que todos nuestros trotamundos nos están ayudando a recolectar Bradium refinado. Trae 3 unidades de Bradium refinado del Gólem de bradium."
+    },
+    "inU4": {
+        "en": "You have received a request named ^880088Welcomed Mineral^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Mineral Bem-vindo^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela da Missão^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Un mineral necesario^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "i3U4": {
+        "en": "[Pura]\nI have a request to bring in 16 Dragon's Manes.",
+        "pt": "[Pura]\nTenho um pedido para trazer 16 Crina de Dragão.",
+        "es": "[Pura]\nTengo una solicitud para traer 16 Crines de dragón."
+    },
+    "jHU4": {
+        "en": "[Pura]\nDragon's Mane is only dropped in small volumes by the Dracos and is very valuable. It is used in our indigenous designs in our flags, clothes and field equipment.",
+        "pt": "[Pura]\nA Crina de Dragão só cai de Dracos em pequenos volumes e é muito valiosa. Ela é usada nos desenhos indígenas em nossas bandeiras, roupas e equipamentos de campo.",
+        "es": "[Pura]\nLas Crines de dragón solo las sueltan los Dragones en pequeñas cantidades y son muy valiosas. Se usan en los diseños autóctonos de nuestras banderas, ropa y equipamiento de campo."
+    },
+    "jXU4": {
+        "en": "You have received a request named ^880088Valuable Textile^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Tecido Valioso^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela da Missão^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Tejidos valiosos^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "jnU4": {
+        "en": "[Pura]\nThis is a request from the pub for the food of people from other worlds. They want Dragon Tails to use as a cooking ingredient for field food that can be stored extensively.",
+        "pt": "[Pura]\nEste é um pedido do pub por comida de pessoas de outros mundos. Eles querem que a Cauda de Dragão seja usada como ingrediente culinário para alimentos de viagem que possam ser armazenados por muito tempo.",
+        "es": "[Pura]\nEsta solicitud es del bar para conseguir alimentos de gente de otros mundos. Quieren usar Colas de dragón como ingrediente para preparar alimentos del campo que se puedan almacenar en grandes cantidades."
+    },
+    "j3U4": {
+        "en": "[Pura]\nSo humans like this. Please bring back 6 of them.",
+        "pt": "[Pura]\nAh, humanos gostam disso... Por favor, traga 6 delas de volta.",
+        "es": "[Pura]\nA los humanos les gusta. Trae 6 de ellas."
+    },
+    "kHU4": {
+        "en": "You have received a request named ^880088Curious Meat^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Carne Curiosa^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Una carne peculiar^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "kXU4": {
+        "en": "[Pura]\nThe path that goes out of the city is now a hazardous icy road because of the snow we've been getting.",
+        "pt": "[Pura]\nO caminho para fora cidade é agora uma estrada gelada e perigosa por causa da neve que está caindo.",
+        "es": "[Pura]\nEl camino para salir de la ciudad ahora es una peligrosa carretera con hielo debido a la nieve que está cayendo."
+    },
+    "knU4": {
+        "en": "[Pura]\nSpreading Pieces of Egg Shells will help and we need a lot of them. Around 26 or so will do.",
+        "pt": "[Pura]\nEspalhar Pedaços de Casca de Ovo ajudará, e precisamos de muitos deles. Cerca de 26 ou mais serão suficientes.",
+        "es": "[Pura]\nEsparcir trozos de Cáscara de huevo ayudará con eso, y necesitamos muchos. Unos 26 más o menos serán suficientes."
+    },
+    "k3U4": {
+        "en": "You have received a request named ^880088Materials to Clear Snow^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Materiais para limpar neve^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Materiales para limpiar nieve^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "lHU4": {
+        "en": "[Pura]\nThe Bradium Processing Machinery emits tremendous heat when used and cannot be stabilized with any kind of water.",
+        "pt": "[Pura]\nO maquinário de processamento de Bradium emite um calor tremendo quando usado e não pode ser estabilizado com nenhum tipo de água.",
+        "es": "[Pura]\nLa maquinaria de procesamiento de Bradium emite un calor tremendo cuando se usa y no se puede estabilizar con ningún tipo de agua."
+    },
+    "lXU4": {
+        "en": "[Pura]\nSo we mix Crystalized Teardrops obtained from Aqua Elementals from melted snow. This is a material we need daily so please bring back 6 of them.",
+        "pt": "[Pura]\nEntão, misturamos Lágrima Cristalizadas obtidas de Elemental da Água da neve derretida. Esse é um material de que precisamos diariamente. Traga 6 delas.",
+        "es": "[Pura]\nPor eso, mezclamos Lágrimas cristalizadas de Elementales de agua reanimados a partir de nieve derretida. Este es un material que necesitamos a diario, así que te pido que me traigas 6 deellos."
+    },
+    "lnU4": {
+        "en": "You have received a request named ^880088Best Cooler Material^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Melhor Material para Refrigerador^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Un refrigerante excepcional^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "l3U4": {
+        "en": "[Pura]\nThe Supply Manager has urgently requested paint to use on building maintenance throughout the city.",
+        "pt": "[Pura]\nO gerente de suprimentos solicitou com urgência tinta para usar na manutenção de edifícios em toda a cidade.",
+        "es": "[Pura]\nEl administrador de recursos solicita pintura con urgencia para hacerle mantenimiento a los edificios de toda la ciudad."
+    },
+    "mHU4": {
+        "en": "[Pura]\nHe can make enough paint by using the Fluorescent Liquid obtained from Aqua Elementals. Please bring back 26 containers of it.",
+        "pt": "[Pura]\nEle pode fazer tinta suficiente usando o Líquido Fluorescente obtido do Elemental da Água. Por favor, traga de volta 26 galões deles.",
+        "es": "[Pura]\nPuede preparar suficiente pintura con el Líquido fluorescente que se obtiene de los Elementales de agua. Trae 26 contenedores."
+    },
+    "mXU4": {
+        "en": "You have received a request named ^880088Best Paint^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Melhor Pintura^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missão^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Pintura que dura^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "mnU4": {
+        "en": "[Pura]\nThe valuable interior water bottle in the minister's room is broken. They won't be able to find who did it because there are so many visitors every day.",
+        "pt": "[Pura]\nA valiosa garrafa de água interna da sala do ministro foi quebrada. Não conseguirão descobrir quem fez isso porque há muitos visitantes todos os dias.",
+        "es": "[Pura]\nLa valiosa botella de agua para interiores en la habitación del ministro está rota. No pueden encontrar al culpable porque todos los días se reciben muchos visitantes."
+    },
+    "m3U4": {
+        "en": "[Pura]\nCan you please bring me this valuable item from Aqua Elemental? I only need 1.",
+        "pt": "[Pura]\nVocê pode me trazer esse item valioso do Elemental da Água? Eu só preciso de 1.",
+        "es": "[Pura]\n¿Puedes traerme este objeto valioso del Elemental de agua? Solo necesito uno."
+    },
+    "nHU4": {
+        "en": "You have received a request named ^880088Rare Valuable^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Raridade Valiosa^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Botella valiosa^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "nXU4": {
+        "en": "[Pura]\nLining supplies for armor for the Guards are all out.",
+        "pt": "[Pura]\nOs suprimentos de revestimento para armaduras dos guardas estão acabando.",
+        "es": "[Pura]\nSe acabaron todos los suministros para los revestimientos de las armaduras de los guardias."
+    },
+    "nnU4": {
+        "en": "[Pura]\nThe scale shell from Naga are perfect lining material. Please bring back 18 of them.",
+        "pt": "[Pura]\nEscamas de Nagas são materiais de revestimento perfeitos. Por favor, traga de volta 18 delas.",
+        "es": "[Pura]\nLa Coraza escamosa de Naga es un material de revestimiento perfecto. Trae 18 de ellas."
+    },
+    "n3U4": {
+        "en": "You have received a request named ^880088Armory Material^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Material de Arsenal^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missão^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Material blindado^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "oHU4": {
+        "en": "[Pura]\nYou have received a request named lining material for armor supplied to the guard commanders. They are different from ordinary lining.",
+        "pt": "[Pura]\nVocê recebeu uma solicitação de material de revestimento para a armadura fornecida aos comandantes da guarda. Eles são diferentes dos revestimentos comuns.",
+        "es": "[Pura]\nRecibiste una solicitud que trata de conseguir material de revestimiento para la armadura que se les proporciona a los comandantes de la guardia. Es diferente al revestimiento común."
+    },
+    "oXU4": {
+        "en": "[Pura]\nPlease bring me 11 shining scales of Naga. I don't think it will be much trouble for you.",
+        "pt": "[Pura]\nPor favor, traga-me 11 escamas brilhantes de Nagas. Acho que não será um grande problema para você.",
+        "es": "[Pura]\nTrae 11 Escamas brillantes de Naga. Creo que no te será difícil."
+    },
+    "onU4": {
+        "en": "You have received a request named ^880088Advanced Armory Material^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Material de Arsenal Avançado^000000. Você pode verificar os detalhes do pedido e a quem se reportar abrindo a ^990099Janela de Pedidos^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Material blindado avanzado^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "o3U4": {
+        "en": "Supply Dept. 1 Manager",
+        "pt": "Gerente do Departamento de Suprimentos 1",
+        "es": "Tragis"
+    },
+    "pHU4": {
+        "en": "[Supply Dept. 1 Manager]\nYou gotta be strong enough to deal with Supply Dept. 1.",
+        "pt": "[Gerente do Departamento de Suprimentos 1]\nVocê precisa ser forte o suficiente para lidar com o Departamento de Suprimentos 1.",
+        "es": "[Admin. de Recursos 1]\nTienes que ser lo suficientemente fuerte para hacerte cargo de las misiones del Departamento de Recursos 1."
+    },
+    "pXU4": {
+        "en": "[Supply Dept. 1 Manager]\nSo you didn't get\nany requests yet.\nPura will have piles\nof requests and might give\nyou one. Try meeting him.",
+        "pt": "[Gerente do Departamento de Suprimentos 1]\nEntão você não recebeu\nnenhum pedido ainda.\nO Pura terá pilhas\nde pedidos e talvez\nte dê um. Tente encontrá-lo.",
+        "es": "[Admin. de Recursos 1]\nAsí que aún no conseguiste\nninguna solicitud.\nPura tendrá montones\nde solicitudes y puede que te asigne\nuna. Búscalo."
+    },
+    "pnU4": {
+        "en": "[Supply Dept. 1 Manager]\nPura is looking for you.",
+        "pt": "[Gerente do Departamento de Suprimentos 1]\nPura está procurando por você.",
+        "es": "[Admin. de Recursos 1]\nPura te está buscando."
+    },
+    "p3U4": {
+        "en": "[Supply Dept. 1 Manager]\nI erased all records related with the previous request. Go to meet Pura.",
+        "pt": "[Gerente do Departamento de Suprimentos 1]\nApaguei todos os registros relacionados à solicitação anterior. Vá se encontrar com Pura.",
+        "es": "[Admin. de Recursos 1]\nBorré todos los registros relacionados con la solicitud anterior. Ve a buscar a Pura."
+    },
+    "qHU4": {
+        "en": "[Supply Dept. 1 Manager]\nWelcome.\nHow can I help you?",
+        "pt": "[Gerente do Departamento de Suprimentos 1]\nBoas-vindas.\nEm que posso ajudar?",
+        "es": "[Admin. de Recursos 1]\nTe doy la bienvenida.\n¿En qué puedo ayudarte?"
+    },
+    "qXU4": {
+        "en": "[Supply Dept. 1 Manager]\nAh...\nYou are done with the request?\nLet me check your records first.",
+        "pt": "[Gerente do Departamento de Suprimentos 1]\nAh...\nVocê já fez a solicitação?\nDeixe-me verificar seus registros primeiro.",
+        "es": "[Admin. de Recursos 1]\nAh…\n¿Dices que completaste la solicitud?\nDéjame revisar en los registros primero."
+    },
+    "qnU4": {
+        "en": "[Supply Dept. 1 Manager]\nIt's done. You can't start any other request till tomorrow, why don't you go to the famous pub and rest?",
+        "pt": "[Gerente do Departamento de Suprimentos 1]\nEstá feito. Você não pode iniciar nenhum outro pedido até amanhã. Por que não vai para o famoso bar e descansa?",
+        "es": "[Admin. de Recursos 1]\nTodo terminado. Tienes que esperar hasta mañana para pedir una nueva solicitud. ¿Por qué no vas al famoso bar y descansas?"
+    },
+    "q3U4": {
+        "en": "[Supply Dept. 1 Manager]\nIt looks like you are short on the amount.",
+        "pt": "[Gerente do Departamento de Suprimentos 1]\nParece que você está com pouco dinheiro.",
+        "es": "[Admin. de Recursos 1]\nParece que no tienes suficientes."
+    },
+    "rHU4": {
+        "en": "[Supply Dept. 1 Manager]\nCannot find any record...\nNothing... There is nothing that I can say ^990000Request completed!^000000.",
+        "pt": "[Gerente do Departamento de Suprimentos 1]\nNão consigo encontrar nenhum registro...\nNada... Não há nada para que eu possa dizer ^990000Pedido Concluído!^000000.",
+        "es": "[Admin. de Recursos 1]\nNo encuentro ningún registro.\nVaya, no hay nada aquí que me permita decir ^990000¡solicitud completada!^000000."
+    },
+    "rXU4": {
+        "en": "Tragis",
+        "pt": "Tragis",
+        "es": "Admin. de Recursos 2"
+    },
+    "rnU4": {
+        "en": "[Tragis]\nIt is pretty embarassing that you are looking for a request with your level, you know that?",
+        "pt": "[Tragis]\nÉ bem vergonhoso que você esteja procurando uma solicitação com o seu nível, sabia?",
+        "es": "[Tragis]\nEs bastante vergonzoso que vengas a pedir solicitudes con el nivel que tienes, ¿lo sabías?"
+    },
+    "r3U4": {
+        "en": "[Tragis]\nI don't have any requests for you now. Report back to the ^990099Supply Dept. 2 Manager^000000 at Operations after you complete all requests.",
+        "pt": "[Tragis]\nNão tenho nenhuma solicitação para você agora. Apresente-se ao ^990099Gerente do Departamento de Suprimentos 2^000000 em Operações depois de concluir todas as solicitações.",
+        "es": "[Tragis]\nAhora mismo no tengo ninguna solicitud disponible. Vuelve a hablar con el ^990099Admin. de Recursos 2^000000 en Operaciones después de completar todas las solicitudes."
+    },
+    "sHU4": {
+        "en": "[Tragis]\nCalculate your request activities with the ^990099Supply Dept. 2 Manager^000000 at Operations and then come back.",
+        "pt": "[Tragis]\nCalcule suas atividades de solicitação com o ^990099Gerente do Departamento de Suprimentos 2^000000 em Operations e depois volte.",
+        "es": "[Tragis]\nRevisa tus solicitudes con el ^990099Admin. de Recursos 2^000000 en Operaciones y luego regresa."
+    },
+    "sXU4": {
+        "en": "Calculate your request activities with the ^990099Supply Dept. 2 Manager^000000 at Operations and then come back.\n[Tragis]\nWelcome.\nWhat brings you here?",
+        "pt": "Calcule suas atividades de solicitação com o ^990099Gerente do Departamento de Suprimentos 2^000000 em Operations e depois volte.\n[Tragis]\nBoas-vindas.\nO que traz você aqui?",
+        "es": "Revisa tus solicitudes con el ^990099Admin. de Recursos 2^000000 en Operaciones y luego regresa.\n[Tragis]\nTe doy la bienvenida.\n¿Qué te trae por aquí?"
+    },
+    "snU4": {
+        "en": "[Tragis]\nPura will explain the detail about the supply job. I'm soooo busy as you can see.",
+        "pt": "[Tragis]\nPura explicará os detalhes sobre o trabalho de fornecimento. Estou muitíssimo ocupado, como você pode ver.",
+        "es": "[Tragis]\nPura te explicará los detalles sobre el trabajo de recolección de recursos. Como puedes ver, estoy muuuuuy ocupado."
+    },
+    "s3U4": {
+        "en": "[Tragis]\nI just got a request. It's good that none of us wasted time.",
+        "pt": "[Tragis]\nAcabei de receber um pedido. É bom que ninguém tenha perdido tempo.",
+        "es": "[Tragis]\nAcabo de recibir una solicitud. Es una afortunada coincidencia que no hayamos perdido tiempo."
+    },
+    "tHU4": {
+        "en": "[Tragis]\nIt's time to repair the trumpets for the Mine supervisors.",
+        "pt": "[Tragis]\nÉ hora de consertar as trombetas dos supervisores da mina.",
+        "es": "[Tragis]\nEs hora de reparar las trompetas para los supervisores de la mina."
+    },
+    "tXU4": {
+        "en": "[Tragis]\nBecause those trumpets are necessary to control the miners. The mystic horn from Cornus is the perfect trumpet material, please get 5 pieces of them.",
+        "pt": "[Tragis]\nPorque essas trombetas são necessárias para controlar os mineiros. O chifre místico de Cornus é o material perfeito para o trompete. Adquira 5 peças.",
+        "es": "[Tragis]\nEsas trompetas son necesarias para controlar a los mineros. El Cuerno místico de Cornus es la trompeta perfecta. Trae 5 de ellos."
+    },
+    "tnU4": {
+        "en": "You have received a request named ^880088Supervisor's Tool^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Ferramenta do Supervisor^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Herramientas para los supervisores^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "t3U4": {
+        "en": "[Tragis]\nIt seems that there isn't enough amount of fur which is for the adventurers.",
+        "pt": "[Tragis]\nParece que não há quantidade suficiente de peles para os aventureiros.",
+        "es": "[Tragis]\nParece que no hay Pieles suficientes para los trotamundos."
+    },
+    "uHU4": {
+        "en": "[Tragis]\nIt will be necessary to get some fur from Tatacho. 21 lumps will be enough.",
+        "pt": "[Tragis]\nVocê precisará obter algumas peles de Tatacho. 21 pedaços serão suficientes.",
+        "es": "[Tragis]\nSerá necesario conseguir Pieles de Tatacho. Con 21 bultos será suficiente."
+    },
+    "uXU4": {
+        "en": "You have received a request named ^880088Preparation for Heating^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Preparação para Aquecimento^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Pelajes para el frío^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "unU4": {
+        "en": "[Tragis]\nThere was a request from the pub to collect 27 bug legs.",
+        "pt": "[Tragis]\nHouve uma solicitação do bar para coletar 27 pernas de insetos.",
+        "es": "[Tragis]\nHubo una solicitud del bar para recolectar 27 Patas de bicho."
+    },
+    "u3U4": {
+        "en": "[Tragis]\nThey don't wanna reveal the reason why they need them. Anyway, thank you.",
+        "pt": "[Tragis]\nEles não querem revelar o motivo pelo qual precisam deles. Enfim, agradeço.",
+        "es": "[Tragis]\nNo quieren revelar la razón de por qué las necesitan. En fin, gracias."
+    },
+    "vHU4": {
+        "en": "You have received a request named ^880088Suspicious Food^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Comida suspeita^000000. Você pode verificar os detalhes do pedido e a quem se reportar abrindo a ^990099Janela de Pedidos^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Comida sospechosa^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "vXU4": {
+        "en": "[Tragis]\nZargon is very popular among the residents here. It's a beautiful, round shaped ball and can be used as an adhesive when its powder is mixed with water.",
+        "pt": "[Tragis]\nZargônio é muito popular entre os residentes daqui. É uma bola bonita, bem redonda, que pode ser usada como adesivo quando seu pó é misturado com água.",
+        "es": "[Tragis]\nEl zargon es muy popular entre los residentes de aquí. Es una hermosa esfera que se puede usar como adhesivo si se pulveriza y se mezcla con agua."
+    },
+    "vnU4": {
+        "en": "[Tragis]\nHeard that it's very common material from the adventurers' land. Would you get some? It will be enough with 26 Zargons.",
+        "pt": "[Tragis]\nOuvi dizer que é um material muito comum na terra dos aventureiros. Poderia pegar um pouco? 26 Zargônios devem bastar.",
+        "es": "[Tragis]\nEscuché que es un material muy común en la tierra de los trotamundos. ¿Podrías traer un poco? Con 26 unidades de Zargon será suficiente."
+    },
+    "v3U4": {
+        "en": "You have received a request named ^880088Useful Material^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Material Útil^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Materiales útiles^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "wHU4": {
+        "en": "[Tragis]\nThere is a request which is to find a material to be used for every quarter's building repair work.",
+        "pt": "[Tragis]\nHá uma solicitação para encontrar um material a ser usado para o reparo do edifício a cada trimestre.",
+        "es": "[Tragis]\nHay una solicitud que consiste en encontrar un material que se usará en las obras de reparación de los edificios de los cuarteles."
+    },
+    "wXU4": {
+        "en": "[Tragis]\nPlease get 13 Solid shells which can be obtained from Centipede and Centipede Larva. It will be very useful for the repair work.",
+        "pt": "[Tragis]\nObtenha 13 Cascas Rija que podem ser pegas da Centipede e da Larva de Centopéia. Elas serão muito úteis para o trabalho de reparo.",
+        "es": "[Tragis]\nConsigue 13 Caparazones sólidos que se pueden obtener de las Escolopendras y Larvas de Escolopendra. Serán muy útiles para los trabajos de reparación."
+    },
+    "wnU4": {
+        "en": "You have received a request named ^880088Essential Material for Construction^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Material Essencial para Construção^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Materiales de construcción esenciales^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "w3U4": {
+        "en": "[Tragis]\nYou need to get 16 Strong vines which can be got from nepenthes. It's a vital material for building repair work.",
+        "pt": "[Tragis]\nVocê precisa obter 16 Trepadeira Resistente que podem ser obtidas de nepenthes. É um material vital para o reparo de construções.",
+        "es": "[Tragis]\nConsigue 16 Enredaderas fuertes que se pueden obtener de los Nepenthes. Es un material vital para los trabajos de reparación de edificios."
+    },
+    "xHU4": {
+        "en": "You have received a request named ^880088Essential Material for Construction 2^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Material Essencial para Construção 2^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Materiales de construcción esenciales 2^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "xXU4": {
+        "en": "[Tragis]\nThe guard need many sharp leaves for a decoration reason. Some other adventurers started searching them.",
+        "pt": "[Tragis]\nA guarda precisava de muitas folhas afiadas por uma questão de decoração. Alguns outros aventureiros começaram a procurá-las.",
+        "es": "[Tragis]\nEl guardia necesita muchas Hojas afiladas para decorar. Otros trotamundos ya empezaron a buscarlas."
+    },
+    "xnU4": {
+        "en": "[Tragis]\nThey need pretty many quantity of the leaves so they want 26 sharp leaves from you. I know it's hard. Wish you good luck!",
+        "pt": "[Tragis]\nEles precisam de uma grande quantidade de folhas, e querem 26 folhas afiadas de você. Sei que é difícil. Desejo boa sorte!",
+        "es": "[Tragis]\nNecesita muchas, así que consigue 26 Hojas afiladas. Sé que es difícil. Te deseo buena suerte."
+    },
+    "x3U4": {
+        "en": "You have received a request named ^880088Decoration arrangement^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Arranjo Decorativo^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Hojas decorativas^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "yHU4": {
+        "en": "[Tragis]\nThe pub owner is in trouble due to many adventurers from outside.",
+        "pt": "[Tragis]\nO dono do pub está com problemas devido a muitos aventureiros de fora.",
+        "es": "[Tragis]\nEl dueño del bar está en problemas por varios trotamundos extranjeros."
+    },
+    "yXU4": {
+        "en": "[Tragis]\nHe wishes to have an utensil which can be used simply and instantly, something like a wide leaf.",
+        "pt": "[Tragis]\nEle deseja ter um utensílio que possa ser usado de forma simples e instantânea, algo como uma folha larga.",
+        "es": "[Tragis]\nQuiere un utensilio que se pueda usar de forma rápida y sencilla; algo así como una hoja ancha."
+    },
+    "ynU4": {
+        "en": "You have received a request named ^880088Instant Receptacle^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Receptáculo Imediato^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Contenedor vegetal^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "y3U4": {
+        "en": "[Tragis]\nThere have been couple of attacks in the mine. It must be those Nepenthes that were trying to attack miners.",
+        "pt": "[Tragis]\nHouve alguns ataques na mina. Devem ser aqueles Nepenthes que estavam tentando atacar os mineiradores.",
+        "es": "[Tragis]\nHubo algunos ataques en la mina. Deben haber sido los Nepenthes los que intentaron atacar a los mineros."
+    },
+    "zHU4": {
+        "en": "[Tragis]\nIn order to make the medicine, we need 16 brown roots. Find and bring them.",
+        "pt": "[Tragis]\nPara fazer o medicamento, precisamos de 16 raízes marrons. Encontre-as e traga-as.",
+        "es": "[Tragis]\nPara hacer el medicamento, necesitamos 16 Raíces terrosas. Búscalas y tráelas."
+    },
+    "zXU4": {
+        "en": "You have received a request named ^880088Not enough medicine^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Medicamento insuficiente^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Escasez de medicinas^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "znU4": {
+        "en": "[Tragis]\nThe pub owner came by and complained and complained about the big appetite of you guys.",
+        "pt": "[Tragis]\nO dono do pub veio e reclamou e não parou de reclamar do grande apetite de vocês.",
+        "es": "[Tragis]\nEl dueño del bar vino y se quejó del voraz apetito que tienen ustedes los trotamundos."
+    },
+    "z3U4": {
+        "en": "[Tragis]\nHe said he has no more stock of honey and fruits. 2 jugs of honey will be enough to soothe him.",
+        "pt": "[Tragis]\nEle disse que não tem mais estoque de mel e frutas. 2 jarras de mel serão suficientes para acalmá-lo.",
+        "es": "[Tragis]\nDijo que ya no le quedan frutas ni miel. Con 2 jarras de Miel será suficiente para tranquilizarlo."
+    },
+    "0HU4": {
+        "en": "You have received a request named ^880088Honey robber^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Ladrão de mel^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Ladrones de miel^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "0XU4": {
+        "en": "Supply Dept. 2 Manager",
+        "pt": "Gerente do Departamento de Suprimentos 2",
+        "es": "Calyon"
+    },
+    "0nU4": {
+        "en": "[Supply Dept. 2 Manager]\nNo way, You can't stand the job of Supply Dept. 2 with that weak body.",
+        "pt": "[Gerente do Departamento de Suprimentos 2]\nDe jeito nenhum. Você não aguentaria o trabalho do Depto. de Suprimentos 2 com esse corpo fraco.",
+        "es": "[Admin. de Recursos 2]\nNo hay manera de que soportes el trabajo del Departamento de Recursos 2 con ese cuerpo debilucho."
+    },
+    "03U4": {
+        "en": "[Supply Dept. 2 Manager]\nSo you didn't get\nany requests yet.\nTragis will have piles\nof requests and might give\nyou one. Try meeting him.",
+        "pt": "[Gerente do Departamento de Suprimentos 2]\nEntão você não recebeu\nnenhum pedido ainda.\nTragis terá pilhas\nde solicitações e talvez dê\numa para você. Tente encontrá-lo.",
+        "es": "[Admin. de Recursos 2]\nAsí que aún no conseguiste\nninguna solicitud.\nTragis tendrá montones\nde solicitudes y puede que te asigne\nuna. Búscalo."
+    },
+    "1HU4": {
+        "en": "[Supply Dept. 2 Manager]\nI erased all records related with the previous request. Tragis is looking for you so hurry up to meet him.",
+        "pt": "[Gerente do Departamento de Suprimentos 2]\nApaguei todos os registros relacionados à solicitação anterior. Tragis está procurando por você. Apresse-se para encontrá-lo.",
+        "es": "[Admin. de Recursos 2]\nBorré todos los registros relacionados con la solicitud anterior. Tragis te está buscando, así que date prisa y ve a hablar con él."
+    },
+    "1XU4": {
+        "en": "[Supply Dept. 2 Manager]\nWelcome.\nHow can I help you?",
+        "pt": "[Gerente do Departamento de Suprimentos 2]\nBoas-vindas.\nEm que posso ajudar?",
+        "es": "[Admin. de Recursos 2]\nTe doy la bienvenida.\n¿En qué puedo ayudarte?"
+    },
+    "1nU4": {
+        "en": "[Supply Dept. 2 Manager]\nAh...\nYou are done with the request?\nLet me check your records first.",
+        "pt": "[Gerente do Departamento de Suprimentos 2]\nAh...\nVocê já fez a solicitação?\nDeixe-me verificar seus registros primeiro.",
+        "es": "[Admin. de Recursos 2]\nAh…\n¿Dices que completaste la solicitud?\nDéjame revisar en los registros primero."
+    },
+    "13U4": {
+        "en": "[Supply Dept. 2 Manager]\n{0}, you handle your requests quite well. You are not like the pub owner who just sends requests here every day.",
+        "pt": "[Gerente do Departamento de Suprimentos 2]\n{0}, você lida muito bem com suas solicitações. Você não é como o dono do pub que simplesmente envia pedidos para cá todos os dias.",
+        "es": "[Admin. de Recursos 2]\nCumpliste tus solicitudes responsablemente, {0}. No te pareces en nada al dueño del bar, que solo envía y envía solicitudes."
+    },
+    "2HU4": {
+        "en": "[Supply Dept. 2 Manager]\nIt looks like you are short on the amount.",
+        "pt": "[Gerente do Departamento de Suprimentos 2]\nParece que você está com pouco dinheiro.",
+        "es": "[Admin. de Recursos 2]\nParece que no tienes suficientes."
+    },
+    "2XU4": {
+        "en": "[Supply Dept. 2 Manager]\nI would like to complete a request for you but you have none going on now.",
+        "pt": "[Gerente do Departamento de Suprimentos 2]\nGostaria de concluir uma solicitação para você, mas não há nenhuma em andamento agora.",
+        "es": "[Admin. de Recursos 2]\nMe gustaría poder ofrecerte una solicitud, pero no tenemos nada disponible ahora mismo."
+    },
+    "2nU4": {
+        "en": "Calyon",
+        "pt": "Calyon",
+        "es": "Admin. de Transporte 1"
+    },
+    "23U4": {
+        "en": "[Calyon]\nHa ha, come back again after you are trained more. I have no request that fits you.",
+        "pt": "[Calyon]\nHaha, volte novamente depois de ter treinado mais. Não tenho nenhum pedido que sirva para você.",
+        "es": "[Calyon]\nJa, ja, vuelve cuando hayas entrenado más. No tengo ninguna solicitud que se ajuste a tu nivel."
+    },
+    "3HU4": {
+        "en": "[Calyon]\nWe're done for the day. You can report back to the ^990099Transport Dept. 1 Manager^000000 at Operations. Good luck.",
+        "pt": "[Calyon]\nTerminamos por hoje. Você pode se apresentar ao ^990099Gerente do Departamento de Transportes 1^000000 em Operações. Boa sorte.",
+        "es": "[Calyon]\nEso es todo por hoy. Puedes hablar con el ^990099administrador de Transportes 1^000000 en Operaciones. Buena suerte."
+    },
+    "3XU4": {
+        "en": "[Calyon]\nCalculate your request activities with the ^990099Transport Dept. 1 Manager^000000 at Operations and then come back.",
+        "pt": "[Calyon]\nCalcule suas atividades de solicitação com o ^990099Gerente do Departamento de Transportes 1^000000 em Operações e depois volte.",
+        "es": "[Calyon]\nRevisa tus solicitudes con el ^990099administrador de Transportes 1^000000 en Operaciones y luego regresa."
+    },
+    "3nU4": {
+        "en": "[Calyon]\nWelcome.\nWhat brings you here?",
+        "pt": "[Calyon]\nBoas-vindas.\nO que te traz aqui?",
+        "es": "[Calyon]\nTe doy la bienvenida.\n¿Qué te trae por aquí?"
+    },
+    "33U4": {
+        "en": "[Calyon]\nThe Transport Dept. 1 and 2\nbrings in rare items\nthat are not available\nhere.",
+        "pt": "[Calyon]\nO Departamento de Transporte 1 e 2\ntraz itens raros\nque não estão disponíveis\naqui.",
+        "es": "[Calyon]\nLos Departamentos de Transporte 1 y 2\ntraen objetos raros\nque no están disponibles\naquí."
+    },
+    "4HU4": {
+        "en": "[Calyon]\nIt is one of the\nkey departments that\nobtains the rich supplies\nmostly from the Midgard Continent.",
+        "pt": "[Calyon]\nÉ um dos\ndepartamentos-chave que\nobtém suprimentos ricos que vêm\nprincipalmente do Continente de Midgard.",
+        "es": "[Calyon]\nEs uno de\nlos departamentos clave\nque consigue los ricos recursos\nprincipalmente del continente de Midgard."
+    },
+    "4XU4": {
+        "en": "[Calyon]\nPlease see me any time\nonce you are ready.",
+        "pt": "[Calyon]\nPor favor, venha me ver a qualquer momento\nquando estiver tudo pronto.",
+        "es": "[Calyon]\nHabla conmigo cuando quieras\nuna vez que tengas todo listo."
+    },
+    "4nU4": {
+        "en": "[Calyon]\nFinally, I have a request for you. It is an important one so I need you to be focused.",
+        "pt": "[Calyon]\nFinalmente, tenho um pedido para você. É bem importante. Preciso que você preste bem atenção .",
+        "es": "[Calyon]\nAl fin tengo una solicitud para ti. Es importante, así que necesito que te concentres."
+    },
+    "43U4": {
+        "en": "[Calyon]\nThe industrial research center researches ways of refining Bradium efficiently but they are always short on test materials.",
+        "pt": "[Calyon]\nO centro de pesquisa industrial pesquisa maneiras de refinar o Bradium de forma eficiente, mas eles sempre têm poucos materiais de teste.",
+        "es": "[Calyon]\nEl centro de investigación industrial está buscando la forma de refinar bradium con eficacia, pero nunca tienen suficientes materiales de prueba."
+    },
+    "5HU4": {
+        "en": "[Calyon]\nI heard there is a merchant in the adventurer's city who sells Life Force Pots. I will need 4 of them.",
+        "pt": "[Calyon]\nOuvi dizer que há um comerciante na cidade dos aventureiros que vende Potes de Força Vital. Vou precisar de 4 deles.",
+        "es": "[Calyon]\nEscuché que hay un comerciante en la ciudad de los trotamundos que vende Ollas de fuerza vital. Necesitaré 4 de ellas."
+    },
+    "5XU4": {
+        "en": "You have received a request named ^880088Tools for Experiment^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Ferramentas para Experimento^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Herramientas para experimentos^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "5nU4": {
+        "en": "[Calyon]\nThe pub owner said he wants to give a gift to all his regular Sapha customers.",
+        "pt": "[Calyon]\nO proprietário do pub disse que quer dar um presente a todos os seus clientes regulares Sapha.",
+        "es": "[Calyon]\nEl dueño del bar dijo que quería hacer un regalo a todos sus clientes saphas habituales."
+    },
+    "53U4": {
+        "en": "[Calyon]\nBut doesn't know what to give. If you see any interesting gifts in Midgard, can bring back 5 of them?",
+        "pt": "[Calyon]\nMas não sabe o que dar. Se encontrar algum presente interessante em Midgard, pode trazer 5 deles?",
+        "es": "[Calyon]\nPero no sabe qué regalar. Si ves algún regalo interesante en Midgard, ¿puedes traer 5 de ellos?"
+    },
+    "6HU4": {
+        "en": "You have received a request named ^88008Fine Gift Samples^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação denominada ^88008FAmostras de Presente de Natal^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missão^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^88008FRegalos refinados^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "6XU4": {
+        "en": "[Calyon]\nThe high minister is looking for the Midgard product, Witherless Roses these days. Not sure if it's a good gift but some have seen him with it on his head and showing it off.",
+        "pt": "[Calyon]\nNo momento, o alto ministro está procurando o produto de Midgard, Rosa Eterna. Não tenho certeza se é um bom presente, mas alguns o viram com elas na cabeça, exibindo-as.",
+        "es": "[Calyon]\nEl alto ministro está buscando el producto de Midgard, la Rosa eterna. No sé si es un buen regalo, pero algunas personas lo han visto presumiendo una de ellas en la cabeza."
+    },
+    "6nU4": {
+        "en": "[Calyon]\nSo... I know this is difficult to ask for but please bring me 1 Witherless Rose. This is just between you and me.",
+        "pt": "[Calyon]\nEntão... Sei que é difícil pedir isso, mas, por favor, me traga 1 Rosa Eterna. Isso é só entre você e eu.",
+        "es": "[Calyon]\nAsí que… Sé que no es una tarea sencilla, pero tráeme 1 Rosa eterna. Esto queda entre nosotros."
+    },
+    "63U4": {
+        "en": "You have received a request named ^880088Respect for Taste^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Respeito ao Gosto^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missão^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Respeto por el gusto^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "7HU4": {
+        "en": "[Calyon]\nA request from the pub owner. He says he can't use disposable leaf plates for regular customers.",
+        "pt": "[Calyon]\nUma solicitação do proprietário do pub. Ele diz que não pode usar pratos de folhas descartáveis para os clientes regulares.",
+        "es": "[Calyon]\nUna solicitud del dueño del bar. Dice que no puede usar platos de hojas desechables para los clientes habituales."
+    },
+    "7XU4": {
+        "en": "[Calyon]\nHe is asking for 15 solid, white plates from Midgard.",
+        "pt": "[Calyon]\nEle está pedindo 15 placas brancas e sólidas de Midgard.",
+        "es": "[Calyon]\nNecesita que le traigas 15 Platos de porcelana blancos de Midgard."
+    },
+    "7nU4": {
+        "en": "You have received a request named ^880088Courtesy for Regulars^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação denominada ^880088Cortesia para Funcionários Regulares^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Solo para clientes frecuentes^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informar cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "73U4": {
+        "en": "[Calyon]\nI have a personal request. I heard there is a round transparent handicraft in Midgard.",
+        "pt": "[Calyon]\nTenho um pedido pessoal. Ouvi dizer que há um artesanato redondo e transparente em Midgard.",
+        "es": "[Calyon]\nTengo una solicitud personal. Escuché que hay una artesanía redonda y transparente en Midgard."
+    },
+    "8HU4": {
+        "en": "[Calyon]\nI think they are called Glass Beads. We have similar manufactured items here but nothing compared to the elaborate sphere there. Please get me 10 of them.",
+        "pt": "[Calyon]\nAcho que elas são chamadas de Bolinha de Gude. Temos itens manufaturados semelhantes aqui, mas nada comparado às elaboradas esferas de lá. Por favor, traga-me 10 delas.",
+        "es": "[Calyon]\nCreo que se llaman Cuentas de cristal. Aquí fabricamos objetos similares, pero no se comparan con lo elaborado de esas esferas. Tráeme 10 de ellas."
+    },
+    "8XU4": {
+        "en": "You have received a request named ^880088Special Package^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação denominada ^880088Pacote Especial^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Paquete especial^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "8nU4": {
+        "en": "[Calyon]\nHmm... I don't know how to start. The high minister is requesting the puppet in Midgard.",
+        "pt": "[Calyon]\nHmm... Não sei como começar. O alto ministro está solicitando marionetes de Midgard.",
+        "es": "[Calyon]\nMmm… No sé por dónde empezar. El alto ministro está pidiendo Peluches de Midgard."
+    },
+    "83U4": {
+        "en": "[Calyon]\nI don't know what it is but since the high minister is asking for it, it must be used for a very important purpose. Please bring 15 of them.",
+        "pt": "[Calyon]\nNão sei o que é, mas como o alto ministro está pedindo, deve ser usado para um propósito muito importante. Por favor, traga 15 deles.",
+        "es": "[Calyon]\nNo sé qué es, pero como el alto ministro lo pide, debe ser para un propósito muy importante. Trae 15 de ellos."
+    },
+    "9HU4": {
+        "en": "You have received a request named ^880088Dangerous Request^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Pedido Perigoso^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Una solicitud peligrosa^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "9XU4": {
+        "en": "[Calyon]\nI heard there is a trend among many of my colleagues here about a musical accessory made from a Bill of Birds from Midgard.",
+        "pt": "[Calyon]\nOuvi dizer que há uma tendência entre muitos de meus colegas aqui sobre um acessório musical feito de Bico de Ave de Midgard.",
+        "es": "[Calyon]\nEscuché que hay una moda entre muchos de mis colegas de aquí sobre un accesorio musical hecho de Pico de ave de Midgard."
+    },
+    "9nU4": {
+        "en": "[Calyon]\nI'm thinking of distributing them within the Operations building. I heard a merchant in Midgard sells these. Can you buy and bring back 50 of them?",
+        "pt": "[Calyon]\nEstou pensando em distribuí-los no prédio de Operações. Ouvi dizer que um comerciante em Midgard os vende. Você pode comprar e trazer 50 deles?",
+        "es": "[Calyon]\nEstoy pensando en distribuirlos en el edificio de Operaciones. Escuché que un comerciante en Midgard los vende. ¿Puedes comprar y traer 50 de ellos?"
+    },
+    "93U4": {
+        "en": "You have received a request named ^880088Strange Trend^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação denominada ^880088Tendência Estranha^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Una moda extraña^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "+HU4": {
+        "en": "[Calyon]\nThe pub owner said he wanted to decorate the pub interior with something called Clam Shells. Please bring back about 50 of them.",
+        "pt": "[Calyon]\nO dono do pub disse que queria decorar o interior do pub com algo chamado Casco de Ostra. Por favor, traga cerca de 50 deles.",
+        "es": "[Calyon]\nEl dueño del bar dijo que quería decorar el interior del local con objetos llamados Conchas de almejas. Trae 50 de ellas."
+    },
+    "+XU4": {
+        "en": "[Calyon]\nThey say it's a home for sea creatures so I have no idea how he will use them for decorations but I think he has a very unique taste after being acquainted with many adventurers.",
+        "pt": "[Calyon]\nDizem que é um lar para criaturas marinhas, então não tenho ideia de como ele as usará para decorações, mas acho que ele tem um gosto muito especial depois de ter conhecido tantos aventureiros.",
+        "es": "[Calyon]\nDice que es una especie de hogar para criaturas marinas, así que no me imagino cómo va a usarlas para decorar, pero sus gustos se volvieron extravagantes luego de interactuar con tantos trotamundos."
+    },
+    "+nU4": {
+        "en": "You have received a request named ^880088Unknown Usage^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação denominada ^880088Uso desconhecido^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Un uso desconocido^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "+3U4": {
+        "en": "[Calyon]\nWe don't have cuisine for ourselves but many adventurers seem to enjoy the art of eating. So the pub owner needs a plate for his new cuisine.",
+        "pt": "[Calyon]\nNão temos uma cozinha para nós, mas muitos aventureiros parecem gostar da arte de comer. Portanto, o dono do pub precisa de pratos para sua nova cozinha.",
+        "es": "[Calyon]\nNo cocinamos para nosotros, pero a muchos trotamundos parece gustarles el arte de comer. El dueño del bar necesita un plato para su nueva cocina."
+    },
+    "/HU4": {
+        "en": "[Calyon]\nHe asked for 20 Crab Shells. I have no idea where you can get them but... good luck.",
+        "pt": "[Calyon]\nEle pediu 20 Casco de Caranguejo. Não faço ideia de onde você pode obtê-las, mas... boa sorte.",
+        "es": "[Calyon]\nPidió 20 Caparazones de cangrejo. No tengo ni idea dónde puedes conseguirlos, pero… buena suerte."
+    },
+    "/XU4": {
+        "en": "You have received a request named ^880088Other World Cuisine^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Cozinha de Outro Mundo^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Cocina de otro mundo^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "/nU4": {
+        "en": "[Calyon]\nI think the most useful Midgard item is Scells.",
+        "pt": "[Calyon]\nAcho que os itens mais úteis de Midgard são os Scells.",
+        "es": "[Calyon]\nCreo que el objeto más útil de Midgard es Scell."
+    },
+    "/3U4": {
+        "en": "[Calyon]\nUse Scells to fill any crack or holes in a building and then mix and plaster grinded Garlet to it and the building is maintained quick and simple. Can you bring back 30 of them?",
+        "pt": "[Calyon]\nUse Scells para preencher qualquer rachadura ou buraco em um prédio e, em seguida, misture e coloque Garleta moída nele e pronto. A manuntenção do prédio foi feita de forma rápida e simples.. Você pode trazer 30?",
+        "es": "[Calyon]\nUsa Scell para rellenar cualquier grieta o agujero en los edificios. Luego, mézclalo y agrega Garlet pulverizado para reparar los edificios de manera sencilla y rápida. ¿Puedes traer 30 unidades?"
+    },
+    "\u0000v8": {
+        "en": "You have received a request named ^880088Filling in Cracks^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Preenchimento de Fendas^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Relleno de grietas^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "\u0001v8": {
+        "en": "[Calyon]\nGarlets are an element in building maintenance. Next to Scells, it is one of the most important materials in conserving buildings.",
+        "pt": "[Calyon]\nAs Garletas são um elemento na manutenção de edifícios. Ao lado do Scells, é um dos materiais mais importantes na conservação de construções.",
+        "es": "[Calyon]\nLos Garlet son un elemento para el mantenimiento de edificios. Junto con Scell, es uno de los materiales más importantes para la conservación de edificios."
+    },
+    "\u0002v8": {
+        "en": "[Calyon]\nBefore Garlets were available, we crushed and used Zargons but they have become difficult to come by and there aren't many left to use. Please bring back 40 of them.",
+        "pt": "[Calyon]\nAntes das Garletas estarem disponíveis, nós esmagávamos e usávamos Zargônios, mas eles se tornaram difíceis de encontrar e não há mais muitos sobrando. Traga 40 deles.",
+        "es": "[Calyon]\nAntes de descubrir los Garlet, triturábamos y usábamos Zargon, pero se han vuelto demasiado escasos. Trae 40 unidades."
+    },
+    "\u0003v8": {
+        "en": "You have received a request named ^880088Adhesive Material^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Material Adesivo^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Material adhesivo^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "\u0004v8": {
+        "en": "Transport Dept. 1 Mgr.",
+        "pt": "Gerente do Departamento de Transporte 1",
+        "es": "Moltuka"
+    },
+    "\u0005v8": {
+        "en": "[Transport Dept. 1 Manager]\nYou're not qualified. You won't last a day with your strength working here at Transport Dept. 1.",
+        "pt": "[Gerente do Departamento de Transportes 1]\nVocê não tem qualificações. Não vai durar um dia trabalhando aqui no Departamento de Transportes 1.",
+        "es": "[Admin. de Transporte 1]\nAún no tienes lo necesario. No durarás ni un día trabajando aquí en el Departamento de Transporte 1 con esa fuerza."
+    },
+    "\u0006v8": {
+        "en": "[Transport Dept. 1 Manager]\nSo you didn't get\nany requests yet.\nCalyon will have piles\nof requests and might give\nyou one. Try meeting him.",
+        "pt": "[Gerente do Departamento de Transporte 1]\nEntão você não recebeu\nnenhuma solicitação ainda.\nCalyon terá pilhas\nde solicitações e talvez dê\numa para você. Tente encontrá-lo.",
+        "es": "[Admin. de Transporte 1]\nAsí que aún no conseguiste\nninguna solicitud.\nCalyon tendrá montones\nde solicitudes y puede que te asigne\nuna. Búscalo."
+    },
+    "\u0007v8": {
+        "en": "[Transport Dept. 1 Manager]\nI erased all records related with the previous request. Calyon is looking for you so hurry up to meet him.",
+        "pt": "[Gerente do Departamento de Transportes 1]\nApaguei todos os registros relacionados à solicitação anterior. Calyon está procurando por você. Apresse-se para falar com ele.",
+        "es": "[Admin. de Transporte 1]\nBorré todos los registros relacionados con la solicitud anterior. Calyon te está buscando, así que date prisa y ve a hablar con él."
+    },
+    "\bv8": {
+        "en": "[Transport Dept. 1 Manager]\nWelcome.\nHow can I help you?",
+        "pt": "[Gerente do Departamento de Transportes 1]\nBoas-vindas.\nComo posso ajudar?",
+        "es": "[Admin. de Transporte 1]\nTe doy la bienvenida.\n¿En qué puedo ayudarte?"
+    },
+    "v8": {
+        "en": "[Moltuka]\nWell..... Carrot, is it? Anyway it's being called with that name in your land... I don't really have any expectation. Sorry. I just was talking to myself before. Please bring 100 of them.",
+        "pt": "[Moltuka]\nBem... Cenoura, não é? De qualquer forma, está sendo chamado com esse nome em sua terra... Eu realmente não tenho nenhuma expectativa. Desculpe. Eu só estava falando sozinho antes. Por favor, traga 100 delas.",
+        "es": "[Moltuka]\nEste… Son Zanahorias, ¿verdad? Así creo que se llaman en tu tierra. Yo no tengo expectativa alguna de esto. Lo siento. Hablaba para mí mismo. Trae 100 de ellas."
+    },
+    "\u000ev8": {
+        "en": "[Transport Dept. 1 Manager]\nYou've got nothing that I can handle...",
+        "pt": "[Gerente do Departamento de Transporte 1]\nVocê não tem nada com que eu possa lidar...",
+        "es": "[Admin. de Transporte 1]\nNo hay nada en lo que te pueda ayudar."
+    },
+    "\u000fv8": {
+        "en": "Moltuka",
+        "pt": "Moltuka",
+        "es": "Admin. de Transporte 2"
+    },
+    "\u0010v8": {
+        "en": "[Moltuka]\nHa ha, come back again after you are trained more. I have no request that fits you.",
+        "pt": "[Moltuka]\nHaha, volte novamente depois de ter treinado mais. Não tenho nenhum pedido que sirva para você.",
+        "es": "[Moltuka]\nJa, ja, vuelve cuando hayas entrenado más. No tengo ninguna solicitud que se ajuste a tu nivel."
+    },
+    "\u0011v8": {
+        "en": "[Moltuka]\nI don't have any requests for you now. Report back to the ^990099Transport Dept. 2 Manager^000000 at Operations after you complete all requests.",
+        "pt": "[Moltuka]\nNão tenho nenhuma solicitação para você agora. Informe ao ^990099Gerente do Departamento de Transportes 2^000000 em Operações depois de concluir todas as solicitações.",
+        "es": "[Moltuka]\nAhora mismo no tengo ninguna solicitud disponible. Vuelve a hablar con el ^990099Administrador de Transporte 2^000000 en Operaciones después de completar todas las solicitudes."
+    },
+    "\u0012v8": {
+        "en": "[Moltuka]\nHave you met the ^990099Transport Dept. 2 Manager^000000 at Operations? I will give you a new request after you clear your request history.",
+        "pt": "[Moltuka]\nVocê já se encontrou com o ^990099 Gerente do Departamento de Transportes 2^000000 em Operações? Vou te dar uma nova solicitação depois que você limpar seu histórico de solicitações.",
+        "es": "[Moltuka]\n¿Ya conociste al ^990099Administrador de Transporte 2^000000 en Operaciones? Te asignaré una solicitud nueva después de que hayas borrado tu historial de solicitudes."
+    },
+    "\u0013v8": {
+        "en": "[Moltuka]\nWelcome.\nWhat brings you here?",
+        "pt": "[Moltuka]\nBoas-vindas.\nO que te traz aqui?",
+        "es": "[Moltuka]\nTe doy la bienvenida.\n¿Qué te trae por aquí?"
+    },
+    "\u0014v8": {
+        "en": "[Moltuka]\nYou'd rather go to see Calyon for him to explain you about Transport 1,2 Department.",
+        "pt": "[Moltuka]\nMelhor ir ver Calyon, para que ele te explique sobre o Departamento de Transporte 1 e 2.",
+        "es": "[Moltuka]\nMejor ve con Calyon si necesitas información sobre los Departamentos de Transporte."
+    },
+    "\u0015v8": {
+        "en": "[Moltuka]\nSince I am not good at speaking.",
+        "pt": "[Moltuka]\nJá que não sou bom em falar.",
+        "es": "[Moltuka]\nYo no soy muy de hablar."
+    },
+    "\u0016v8": {
+        "en": "[Moltuka]\nRequest...Yeah, there is some. Wait a second.",
+        "pt": "[Moltuka]\nSolicitação... Sim, há algumas. Espere um pouco.",
+        "es": "[Moltuka]\nSolicitudes… Sí, tenemos. Espera."
+    },
+    "\u0017v8": {
+        "en": "[Moltuka]\n........ (rummaging)",
+        "pt": "[Moltuka]\n........ (vasculhando)",
+        "es": "[Moltuka]\n……*Rebusca*"
+    },
+    "\u0018v8": {
+        "en": "[Moltuka]\n..............(rustling sound)",
+        "pt": "[Moltuka]\n..............(som de farfalhar)",
+        "es": "[Moltuka]\n…………*Crujidos de papeles*"
+    },
+    "\u0019v8": {
+        "en": "[Moltuka]\nThose Tatachos are so quick if we want to catch them which is pretty hard.",
+        "pt": "[Moltuka]\nEsses Tatachos são muito rápidos. Se quisermos pegá-los, é bem difícil.",
+        "es": "[Moltuka]\nEsos Tatacho son muy rápidos cuando intentamos atraparlos y se nos hace muy difícil."
+    },
+    "\u001av8": {
+        "en": "[Moltuka]\nSo the galtens here lure them with Monster's Feed. It's said that there is an expert who does that job, please get 100 Monster's feed.",
+        "pt": "[Moltuka]\nEntão os Gartons daqui os atraem com Ração para Monstros. Dizem que há um especialista que faz esse trabalho. Por favor, consiga 100 Ração para Monstros.",
+        "es": "[Moltuka]\nPor eso, los galtens de aquí los atraen con Comida para monstruos. Se dice que hay un experto que hace ese trabajo. Trae 100 unidades de Comida para monstruos."
+    },
+    "\u001bv8": {
+        "en": "You have received a request named ^880088Bait for Tatacho Hunting^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Isca para Caça ao Tatacho^000000. Você pode verificar os detalhes do pedido e a quem se reportar abrindo a ^990099Janela de Pedidos^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Cebos para cazar Tatacho^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "!v8": {
+        "en": "You have received a request named ^880088Pretty reddish vegetable^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Verdura Bonita e Avermelhada^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Lindas verduras rojizas^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "\"v8": {
+        "en": "[Moltuka]\nIt's said that there had been an explosion in the pub. People say it was because of some vegetable named Pumpkin which was being roasted on the fire.",
+        "pt": "[Moltuka]\nDizem que houve uma explosão no pub. Estão falando que foi por causa de um vegetal chamado Abóbora que estava sendo assado no fogo.",
+        "es": "[Moltuka]\nDicen que hubo una explosión en el bar. La gente dice que fue debido a un vegetal llamado Calabaza que se estaba asando en el fuego."
+    },
+    "#v8": {
+        "en": "[Moltuka]\nBecause of this incident, no pumpkins are left. So it will be appreciated if you can find 100 pumpkins.",
+        "pt": "[Moltuka]\nDevido a esse incidente, não sobraram abóboras. Portanto, agradeceremos se você puder encontrar 100 abóboras.",
+        "es": "[Moltuka]\nDebido a este incidente, ya no quedan Calabazas. Así que te agradeceríamos si puedes conseguir 100 Calabazas."
+    },
+    "$v8": {
+        "en": "You have received a request named ^880088Tenacity of the pub owner^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Tenacidade do dono do bar^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088La tenacidad del dueño del bar^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "%v8": {
+        "en": "[Moltuka]\nThe pub owner has another request... He misses potatos which he used to eat when he was young. He wants 50 potatos.",
+        "pt": "[Moltuka]\nO dono do pub tem outro pedido... Ele sente falta das batatas que costumava comer quando era jovem e quer 50 batatas.",
+        "es": "[Moltuka]\nEl dueño del bar tiene otra solicitud… Extraña las Papas que solía comer cuando era joven. Quiere que le consigan 50 Papas."
+    },
+    "&v8": {
+        "en": "[Moltuka]\nI can understand him since he's been away from home for a long time. By chance if you visit Midgard, please try to get them.",
+        "pt": "[Moltuka]\nConsigo entendê-lo, pois ele está longe de casa há muito tempo. Se, por acaso, você visitar Midgard, por favor, tente pegar batatas.",
+        "es": "[Moltuka]\nEntiendo cómo se siente, ya que lleva mucho tiempo fuera de casa. Si por casualidad vas a Midgard, intenta conseguirlas."
+    },
+    "'v8": {
+        "en": "You have received a request named ^880088Tastes like home cooking^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Sabor de Comida Caseira^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Sabor hogareño^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "(v8": {
+        "en": "[Moltuka]\nThe pub owner wants to cook something strange. He said it will be Roasted Banana but I figure he's cooked something similar before...",
+        "pt": "[Moltuka]\nO dono do pub quer preparar algo estranho. Ele disse que será banana assada, mas imagino que ele já tenha feito algo parecido antes...",
+        "es": "[Moltuka]\nEl dueño del bar quiere cocinar algo extraño. Dijo que será Banana asada, pero creo que ya había cocinado algo parecido…"
+    },
+    ")v8": {
+        "en": "[Moltuka]\nWell, I can't remember much. Anyway... You you need to get 100 Bananas.",
+        "pt": "[Moltuka]\nBem, não consigo lembrar de muita coisa. De qualquer forma... Você precisa arranjar 100 bananas.",
+        "es": "[Moltuka]\nBueno, no recuerdo bien. En fin… Tienes que conseguir 100 Bananas."
+    },
+    "*v8": {
+        "en": "You have received a request named ^880088Harzardous plant when burnt^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Planta perigosa quando queimada^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Peligro, planta combustible^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "+v8": {
+        "en": "[Moltuka]\nThis request is from the pub owner. He wants some meat.",
+        "pt": "[Moltuka]\nEsse pedido é do proprietário do pub. Ele quer um pouco de carne.",
+        "es": "[Moltuka]\nEsta solicitud es del dueño del bar. Quiere algo de Carne."
+    },
+    ",v8": {
+        "en": "[Moltuka]\nNothing else in his request direction. It will be enough with 50 chunks. I wonder if he really is running his business...",
+        "pt": "[Moltuka]\nNada mais na solicitação dele. 50 pedaços devem bastar. Me pergunto se ele realmente está administrando seus negócios...",
+        "es": "[Moltuka]\nLa instrucción de su solicitud no incluye nada más. Con 50 trozos será suficiente. Me pregunto si realmente está dirigiendo su negocio…"
+    },
+    "-v8": {
+        "en": "You have received a request named ^880088Unexpectedly Normal^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Inesperadamente Normal^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Inusualmente usual^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    ".v8": {
+        "en": "[Moltuka]\nI'd like to give a present to the pub owner. This is a personal request so you don't have to get stressed for this. Few days ago, I saw the pub owner frustrated with all broken ladles.",
+        "pt": "[Moltuka]\nGostaria de dar um presente para o dono do pub. Esse é um pedido pessoal, então não precisa se estressar com isso. Há alguns dias, o vi frustrado com todas as conchas quebradas.",
+        "es": "[Moltuka]\nQuiero hacerle un regalo al dueño del bar. Esta es una solicitud personal, así que no es necesario que te estreses. Hace unos días, vi al dueño del bar frustrado por todos los cucharones rotos."
+    },
+    "/v8": {
+        "en": "[Moltuka]\nIt seemed that he made it himself so I felt sorry for him so I want you to get 20 Black Ladles which can be purchased in Midgard.",
+        "pt": "[Moltuka]\nParece que ele fez isso sozinho, então fiquei com pena dele e quero que você consiga 20 Conchas Negras que podem ser compradas em Midgard.",
+        "es": "[Moltuka]\nParecía que los hubiese hecho él mismo, y me dio un poco de lástima, así que quiero que consigas 20 Cucharones negros. Se pueden comprar en Midgard."
+    },
+    "0v8": {
+        "en": "You have received a request named ^880088Gift with heart^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Presente de coração^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missão^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088Un regalo del corazón^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "1v8": {
+        "en": "[Moltuka]\nThe high minister wanted mirrors made from Midgard crystal. There are many Manukan mirrors but he seems to prefer the Midgard ones.",
+        "pt": "[Moltuka]\nO alto ministro queria espelhos feitos de cristal de Midgard. Há muitos espelhos de Manukan, mas ele parece preferir os de Midgard.",
+        "es": "[Moltuka]\nEl alto ministro quería espejos hechos de cristal de Midgard. Hay muchos espejos en Manuk, pero parece que él prefiere los de Midgard."
+    },
+    "2v8": {
+        "en": "[Moltuka]\nI am actually a bit worried but there must be a reason for our 'wise' high minister.",
+        "pt": "[Moltuka]\nNa verdade, estou um pouco preocupado, mas nosso ''sábio'' alto ministro deve ter seus motivos.",
+        "es": "[Moltuka]\nLa verdad es que me preocupa un poco, pero tiene que haber una razón detrás de nuestro sabio alto ministro."
+    },
+    "3v8": {
+        "en": "You have received a request named ^880088Respect personal appetite!^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Respeitar o gosto pessoal!^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088¡Respetemos los gustos personales!^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "4v8": {
+        "en": "[Moltuka]\nThe pub owner is requesting something this time. He wants 2 Pineapples and wants you to know that...",
+        "pt": "[Moltuka]\nO proprietário do pub está pedindo algo desta vez. Ele quer 2 abacaxis e quer que você saiba que...",
+        "es": "[Moltuka]\nEs el dueño del bar quien tiene una solicitud esta vez. Necesita 2 Piñas y quiere que sepas que…"
+    },
+    "5v8": {
+        "en": "[Moltuka]\nI might try to make a special cocktail. I am confident of doing it since I did make good poison.",
+        "pt": "[Moltuka]\n'Talvez eu tente fazer um coquetel especial. Estou confiante, já que já fiz um bom veneno.'",
+        "es": "[Moltuka]\nIntentaré hacer un cóctel especial con esas frutas. Debería salir bien; después de todo, preparo buenos venenos."
+    },
+    "6v8": {
+        "en": "You have received a request named ^880088Resolution of the pub owner^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Resolução do proprietário do bar^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088La decisión del dueño del bar^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "7v8": {
+        "en": "[Moltuka]\nAgain....The pub owner's request. He wants 2 Melons and wants you to know that...",
+        "pt": "[Moltuka]\nNovamente... O pedido do dono do pub. Ele quer 2 melões e quer que você saiba que...",
+        "es": "[Moltuka]\nEs una solicitud del dueño del bar… otra vez. Necesita 2 Melones y quiere que sepas que…"
+    },
+    "8v8": {
+        "en": "You have received a request named ^880088Rage of the pub owner^000000. You can check details of the request and who to report back to by opening the ^990099Quest Window^000000.\nYou have 23 hours to complete this mission.",
+        "pt": "Você recebeu uma solicitação chamada ^880088Fúria do dono do bar^000000. Você pode verificar os detalhes da solicitação e a quem se reportar abrindo a ^990099Janela de Missões^000000.\nVocê tem 23 horas para concluir essa missão.",
+        "es": "Recibiste la siguiente solicitud: ^880088La ira del dueño del bar^000000. En la ^990099ventana de misiones^000000, puedes consultar los detalles de la solicitud y a quién debes informarle cuando la hayas completado.\nTienes 23 horas para completar esta misión."
+    },
+    "9v8": {
+        "en": "Transport Dept. 2 Mgr.",
+        "pt": "Gerente do Departamento de Transportes 2",
+        "es": "Guardia de Expedición Ben"
+    },
+    ":v8": {
+        "en": "[Transport Dept. 2 Manager]\nYou're not qualified. You won't last a day with your strength working here at Transport Dept. 2.",
+        "pt": "[Gerente do Departamento de Transportes 2]\nVocê não tem qualificações. Não vai durar um dia trabalhando aqui no Departamento de Transportes 2.",
+        "es": "[Admin. de Transporte 2]\nAún no tienes lo necesario. No durarás ni un día trabajando aquí en el Departamento de Transporte 2 con esa fuerza."
+    },
+    ";v8": {
+        "en": "[Transport Dept. 2 Manager]\nSo you didn't get\nany requests yet.\nMoltuka will have piles\nof requests and might give\nyou one. Try meeting him.",
+        "pt": "[Gerente do Departamento de Transportes 2]\nEntão você não recebeu\nnenhuma solicitação ainda.\nMoltuka terá pilhas\nde solicitações e talvez dê\numa para você. Tente encontrá-lo.",
+        "es": "[Admin. de Transporte 2]\nAsí que aún no conseguiste\nninguna solicitud.\nMoltuka tendrá montones\nde solicitudes y puede que te asigne\nuna. Búscalo."
+    },
+    "<v8": {
+        "en": "[Transport Dept. 2 Manager]\nI erased all records related with the previous request. Moltuka is looking for you so hurry up to meet him.",
+        "pt": "[Gerente do Departamento de Transportes 2]\nApaguei todos os registros relacionados à solicitação anterior. Moltuka está procurando por você. Apresse-se para falar com ele.",
+        "es": "[Admin. de Transporte 2]\nBorré todos los registros relacionados con la solicitud anterior. Moltuka te está buscando, así que date prisa y ve a hablar con él."
+    },
+    "=v8": {
+        "en": "[Transport Dept. 2 Manager]\nWelcome.\nHow can I help you?",
+        "pt": "[Gerente do Departamento de Transportes 2]\nBoas-vindas.\nComo posso ajudar?",
+        "es": "[Admin. de Transporte 2]\nTe doy la bienvenida.\n¿En qué puedo ayudarte?"
+    },
+    ">v8": {
+        "en": "[Transport Dept. 2 Manager]\nAh...\nYou are done with the request?\nLet me check your records first.",
+        "pt": "[Gerente do Departamento de Transporte 2]\nAh...\nVocê já fez a solicitação?\nDeixe-me verificar seus registros primeiro.",
+        "es": "[Admin. de Transporte 2]\nAh…\n¿Dices que completaste la solicitud?\nDéjame revisar en los registros primero."
+    },
+    "?v8": {
+        "en": "[Transport Dept. 2 Manager]\nWell received. One less thing to worry about now.",
+        "pt": "[Gerente do Departamento de Transportes 2]\nMuito bem. Uma coisa a menos para se preocupar agora.",
+        "es": "[Admin. de Transporte 2]\n¡Recibido! Una preocupación menos."
+    },
+    "@v8": {
+        "en": "[Transport Dept. 2 Manager]\nIt looks like you are short on the amount.",
+        "pt": "[Gerente do Departamento de Transportes 2]\nParece que você está com pouco dinheiro.",
+        "es": "[Admin. de Transporte 2]\nParece que no tienes suficientes."
+    },
+    "Av8": {
+        "en": "[Transport Dept. 2 Manager]\nThis is the first time in my 200 years of working at this department that a person comes back to complete a request without starting any.",
+        "pt": "[Gerente do Departamento de Transportes 2]\nEsta é a primeira vez em meus 200 anos de trabalho neste departamento que uma pessoa volta para concluir uma solicitação sem iniciar nenhuma.",
+        "es": "[Admin. de Transporte 2]\nEsta es la primera vez en mis 200 años trabajando aquí que alguien viene a avisar que completó una solicitud sin antes pedir una."
+    }
+}

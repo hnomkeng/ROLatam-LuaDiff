@@ -1,0 +1,3542 @@
+{
+    "AH5WAw": {
+        "en": "Champion Hunt Quest",
+        "pt": "Missões Especiais",
+        "es": "Misiones Especiales"
+    },
+    "AX5WAw": {
+        "en": "[Champion Monster Hunt Mission Board]\nCannot continue: Inventory is full. Please check the board again after reorganizing your inventory.",
+        "pt": "[Missões Especiais]\nVocê tem itens demais e não pode prosseguir.",
+        "es": "[Misiones Especiales]\nTiene demasiados objetos y no puede continuar."
+    },
+    "An5WAw": {
+        "en": "[Champion Monster Hunt Mission Board]\nThis is a board you can use after joining Eden Group.\nTo register, go find Lime Evenor at the desk.",
+        "pt": "[Missões Especiais]\nVocê precisa ter o Emblema do Éden\npara usar esse Quadro de Solicitações.",
+        "es": "[Misiones Especiales]\nNecesitas tener el Emblema del Edén\npara utilizar este tablero de solicitudes."
+    },
+    "A35WAw": {
+        "en": "[Champion Monster Hunt Mission Board]\nThis is the Eden Group Champion Monster Hunt Mission Board.\nIf you want to claim ^4D4DFFcompleted Champion Monster Hunt Rewards^000000 ^4D4DFFat once^000000, please ask ^4D4DFFEarnest Sogil^000000.",
+        "pt": "[Missões Especiais]\nQuadro com pedidos de caça aos Monstros Campeões.\n^4D4DFFPara receber as recompensas^000000, ^4D4DFFfale^000000 com o ^4D4DFFMonstrólogo^000000.",
+        "es": "[Misiones Especiales]\nTablero con solicitudes para cazar Monstruos Campeones.\n^4D4DFFPara recibir las recompensas^000000, ^4D4DFFhabla^000000 con el ^4D4DFFMonstruólogo^000000."
+    },
+    "BH5WAw": {
+        "en": "Eastern Rune Midgard",
+        "pt": "Leste do Reino",
+        "es": "Este del Reino"
+    },
+    "BX5WAw": {
+        "en": "Central Rune Midgard",
+        "pt": "Centro-Oeste do Reino",
+        "es": "Centro del Reino"
+    },
+    "Bn5WAw": {
+        "en": "Western Rune Midgard",
+        "pt": "Oeste do Reino",
+        "es": "Oeste del Reino"
+    },
+    "B35WAw": {
+        "en": "Schwartzwald Field",
+        "pt": "Campos da República",
+        "es": "Campos de la República"
+    },
+    "CH5WAw": {
+        "en": "Schwartzwald Dungeon",
+        "pt": "Cavernas da República",
+        "es": "Cuevas de la República"
+    },
+    "CX5WAw": {
+        "en": "Arunafeltz",
+        "pt": "Região de Arunafeltz",
+        "es": "Región de Arunafeltz"
+    },
+    "Cn5WAw": {
+        "en": "Local-New World",
+        "pt": "Outras Regiões",
+        "es": "Otras Regiones"
+    },
+    "C35WAw": {
+        "en": "Stop reading",
+        "pt": "Parar de ler",
+        "es": "Deja de leer"
+    },
+    "DH5WAw": {
+        "en": "[Champion Monster Hunt Mission Board]\n^4D4DFFCentral Rune Midgard^000000 - This is the Champion Monster Hunt Mission Board for Prontera and the Payon region.",
+        "pt": "[Missões Especiais]\n^4D4DFFÁrea Leste de Rune-Midgard^000000 - Solicitações de caça nas proximidades de Prontera, Payon e Alberta.",
+        "es": "[Misiones especiales]\n^4D4DFFEste del Reino^000000 - Solicitudes de caza cerca de Prontera, Payon y Alberta."
+    },
+    "DX5WAw": {
+        "en": "Elusive Hornet",
+        "pt": "Zangão Fugaz",
+        "es": "Avispón elusivo"
+    },
+    "Dn5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "D35WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "EH5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "EX5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "En5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "E35WAw": {
+        "en": "Elusive Rocker",
+        "pt": "Rocker Fugaz",
+        "es": "Rockero elusivo"
+    },
+    "FH5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "FX5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "Fn5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "F35WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "GH5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "GX5WAw": {
+        "en": "Elusive Ambernite",
+        "pt": "Ambernite Fugaz",
+        "es": "Ambarnito elusivo"
+    },
+    "Gn5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "G35WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "HH5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "HX5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "Hn5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "H35WAw": {
+        "en": "Chief Muka",
+        "pt": "Muka Alfa",
+        "es": "Cabecilla Muka"
+    },
+    "IH5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "IX5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "In5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "I35WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "JH5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "JX5WAw": {
+        "en": "Chief Bigfoot",
+        "pt": "Pé-Grande Alfa",
+        "es": "Cabecilla Pie Grande"
+    },
+    "Jn5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "J35WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "KH5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "KX5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "Kn5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "K35WAw": {
+        "en": "Solid Horn",
+        "pt": "Besouro-Chifre Brutal",
+        "es": "Lucánido sólido cuerno"
+    },
+    "LH5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "LX5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "Ln5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "L35WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "MH5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "MX5WAw": {
+        "en": "Swift Elder Willow",
+        "pt": "Salgueiro Ancião Ágil",
+        "es": "Sauce anciano veloz"
+    },
+    "Mn5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "M35WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "NH5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "NX5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "Nn5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "N35WAw": {
+        "en": "Solid Coco",
+        "pt": "Koko Brutal",
+        "es": "Coco sólido"
+    },
+    "OH5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "OX5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "On5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "O35WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "PH5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "PX5WAw": {
+        "en": "Swift Yoyo",
+        "pt": "Yoyo Ágil",
+        "es": "Yoyo veloz"
+    },
+    "Pn5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "P35WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "QH5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "QX5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "Qn5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "Q35WAw": {
+        "en": "Elusive Magnolia",
+        "pt": "Magnólia Fugaz",
+        "es": "Magnolia elusiva"
+    },
+    "RH5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "RX5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "Rn5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "R35WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "SH5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "SX5WAw": {
+        "en": "[Champion Monster Hunt Mission Board]\nStop reading the board.",
+        "pt": "[Missões Especiais]\nVocê parou de ler o quadro.",
+        "es": "[Misiones Especiales]\nDejaste de leer el tablero."
+    },
+    "Sn5WAw": {
+        "en": "[Champion Monster Hunt Mission Board]\nYour level is too low for this quest.",
+        "pt": "[Missões Especiais]\nVocê não tem nível suficiente para essa missão.",
+        "es": "[Misiones Especiales]\nNo tienes el nivel suficiente para esta misión.''"
+    },
+    "S35WAw": {
+        "en": "- This is a quest for Level {0} or higher -",
+        "pt": "- Seu nível precisa ser {0} ou maior.",
+        "es": "- Tu nivel debe ser {0} o superior."
+    },
+    "TH5WAw": {
+        "en": "[Champion Monster Hunt Mission Board]\nReceive quest for hunting Champion monster ^4D4DFF{0}^000000?",
+        "pt": "[Missões Especiais]\nDeseja caçar ^4D4DFF{0}^000000?",
+        "es": "[Misiones Especiales]\n¿Quieres cazar ^4D4DFF{0}^000000?"
+    },
+    "TX5WAw": {
+        "en": "Target: 1 {0}\nReward: EXP {1}, JEXP {2}",
+        "pt": "Alvo: 1 {0}\nRecompensa: {1} de EXP base, {2} de EXP classe",
+        "es": "Objetivo: 1 {0}\nRecompensa: {1} EXP base, {2} EXP de classe"
+    },
+    "Tn5WAw": {
+        "en": "1 Free Ticket for Kafra Transportation",
+        "pt": "1 Vale-Teletransporte",
+        "es": "1 Vale de Teletransportación"
+    },
+    "T35WAw": {
+        "en": "Receive quest.",
+        "pt": "Aceitar missão.",
+        "es": "Aceptar misión."
+    },
+    "UH5WAw": {
+        "en": "No thanks.",
+        "pt": "Recusar.",
+        "es": "Rechazar."
+    },
+    "UX5WAw": {
+        "en": "[Champion Monster Hunt Mission Board]\nQuest received: Hunt {0}.",
+        "pt": "[Missões Especiais]\nVocê aceitou a missão de caçar 1 {0}.",
+        "es": "[Misiones Especiales]\nHas aceptado la misión para cazar 1 {0}."
+    },
+    "Un5WAw": {
+        "en": "[Champion Monster Hunt Mission Board]\nQuest declined: Hunt {0}.",
+        "pt": "[Missões Especiais]\nVocê recusou a missão de caçar 1 {0}.",
+        "es": "[Misiones Especiales]\nRechazaste la misión de cazar 1 {0}."
+    },
+    "U35WAw": {
+        "en": "[Champion Monster Hunt Mission Board]\nYou have already completed this quest today.\nPlease come back tomorrow.",
+        "pt": "[Missões Especiais]\nEssa solicitação já foi completada hoje.\nPor favor, volte amanhã.",
+        "es": "[Misiones Especiales]\nEsta solicitud ya se ha completado hoy.\nPor favor, vuelve mañana."
+    },
+    "VH5WAw": {
+        "en": "[Champion Monster Hunt Mission Board]\nAn error has occurred.\nIf the same problem occurs again, please take a screenshot and send it to the support team.",
+        "pt": "[Missões Especiais]\nERRO.\nSe persistir, envie um ticket para a Central de Suporte.",
+        "es": "[Misiones Especiales]\nERROR.\nSi persiste, envíe un ticket al Centro de Soporte."
+    },
+    "VX5WAw": {
+        "en": "[Champion Monster Hunt Mission Board]\nPlease defeat 1 {0}.\nOr, do you wish to abandon this quest?",
+        "pt": "[Missões Especiais]\nSe você não quer mais caçar 1 {0} , você pode desistir da missão.\nDeseja desistir da missão?",
+        "es": "[Misiones Especiales]\nSi ya no deseas cazar 1 {0}, puedes abandonar la misión.\n¿Deseas abandonar la misión?"
+    },
+    "Vn5WAw": {
+        "en": "Proceed the quest.",
+        "pt": "Continuar.",
+        "es": "Continuar."
+    },
+    "V35WAw": {
+        "en": "Cancel.",
+        "pt": "Desistir.",
+        "es": "Renunciar."
+    },
+    "WH5WAw": {
+        "en": "[Champion Monster Hunt Mission Board]\nProceeding to hunt {0}.",
+        "pt": "[Missões Especiais]\nPor favor, elimine 1 {0}.",
+        "es": "[Misiones Especiales]\nPor favor, elimine 1 {0}."
+    },
+    "WX5WAw": {
+        "en": "[Champion Monster Hunt Mission Board]\nYou have hunted down {0}.\nYour reward is waiting for you.",
+        "pt": "[Missões Especiais]\nVocê eliminou 1 {0}.\nVocê receberá sua recompensa com o Monstrólogo.",
+        "es": "[Misiones Especiales]\nHas eliminado 1 {0}.\nRecibirás tu recompensa del Monstruólogo."
+    },
+    "Wn5WAw": {
+        "en": "Reward: EXP {0}, JEXP {1}",
+        "pt": "Recompensa: {0} de EXP base, {1} de EXP classe",
+        "es": "Recompensa: {0} EXP base, {1} EXP de clase."
+    },
+    "W35WAw": {
+        "en": "[Champion Monster Hunt Mission Board]\n^4D4DFFCentral Rune Midgard^000000 - This is the Champion Monster Hunt Mission Board for Geffen and the Orc Village region.",
+        "pt": "[Missões Especiais]\n^4D4DFFCentro-Oeste de Rune-Midgard^000000 - Solicitações de caça nas proximidades de Geffen, Vila dos Orcs e Glastheim.",
+        "es": "[Misiones Especiales]\n^4D4DFFCentro del Reino^000000 - Solicitudes de caza cerca de Geffen, la Aldea de los Orcs y Glastheim."
+    },
+    "XH5WAw": {
+        "en": "Furious Orc Warrior",
+        "pt": "Guerreiro Orc Feroz",
+        "es": "Guerrero orco furioso"
+    },
+    "XX5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "Xn5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "X35WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "YH5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "YX5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "Yn5WAw": {
+        "en": "Swift Goblin",
+        "pt": "Goblin Ágil",
+        "es": "Duende veloz"
+    },
+    "Y35WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "ZH5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "ZX5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "Zn5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "Z35WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "aH5WAw": {
+        "en": "Elusive Goblin",
+        "pt": "Goblin Fugaz",
+        "es": "Duende elusivo"
+    },
+    "aX5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "an5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "a35WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "bH5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "bX5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "bn5WAw": {
+        "en": "Swift Petite",
+        "pt": "Petite Ágil",
+        "es": "Petit veloz"
+    },
+    "b35WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "cH5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "cX5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "cn5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "c35WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "dH5WAw": {
+        "en": "Solid Petite",
+        "pt": "Petite Brutal",
+        "es": "Petit sólido"
+    },
+    "dX5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "dn5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "d35WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "eH5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "eX5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "en5WAw": {
+        "en": "Elusive Carat",
+        "pt": "Carat Fugaz",
+        "es": "Carat elusivo"
+    },
+    "e35WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "fH5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "fX5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "fn5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "f35WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "gH5WAw": {
+        "en": "Furious Majoruros",
+        "pt": "Majoruros Feroz",
+        "es": "Mayoroso furioso"
+    },
+    "gX5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "gn5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "g35WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "hH5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "hX5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "hn5WAw": {
+        "en": "Solid Raydric",
+        "pt": "Raydric Brutal",
+        "es": "Raydric sólido"
+    },
+    "h35WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "iH5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "iX5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "in5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "i35WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "jH5WAw": {
+        "en": "Swift Raydric",
+        "pt": "Raydric Ágil",
+        "es": "Raydric veloz"
+    },
+    "jX5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "jn5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "j35WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "kH5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "kX5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "kn5WAw": {
+        "en": "Furious Wanderer",
+        "pt": "Andarilho Feroz",
+        "es": "Vagabundo furioso"
+    },
+    "k35WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "lH5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "lX5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "ln5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "l35WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "mH5WAw": {
+        "en": "[Champion Monster Hunt Mission Board]\n^4D4DFFWestern Rune Midgard^000000 - This is the Champion Monster Hunt Mission Board for the Comodo region.",
+        "pt": "[Missões Especiais]\n^4D4DFFÁrea Oeste de Rune-Midgard^000000 - Solicitações de caça nas proximidades de Comodo e Ilha Esquecida.",
+        "es": "[Misiones Especiales]\n^4D4DFFOeste del Reino^000000 - Solicitudes de caza en las cercanías de Comodo y la Isla Sin Nombre"
+    },
+    "mX5WAw": {
+        "en": "Furious Sandman",
+        "pt": "Arenoso Feroz",
+        "es": "Hombre de arena furioso"
+    },
+    "mn5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "m35WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "nH5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "nX5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "nn5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "n35WAw": {
+        "en": "Swift Fur Seal",
+        "pt": "Foca Ágil",
+        "es": "Enfoque ágil"
+    },
+    "oH5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "oX5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "on5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "o35WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "pH5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "pX5WAw": {
+        "en": "Elusive Green Iguana",
+        "pt": "Grove Fugaz",
+        "es": "Arboleda elusiva"
+    },
+    "pn5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "p35WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "qH5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "qX5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "qn5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "q35WAw": {
+        "en": "Solid Alligator",
+        "pt": "Crocodilo Brutal",
+        "es": "Cocodrilo sólido"
+    },
+    "rH5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "rX5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "rn5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "r35WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "sH5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "sX5WAw": {
+        "en": "Furious Wootan Fighter",
+        "pt": "Guerreiro Wootan Feroz",
+        "es": "Luchador Wootan furioso"
+    },
+    "sn5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "s35WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "tH5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "tX5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "tn5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "t35WAw": {
+        "en": "Swift Dryad",
+        "pt": "Dríade Ágil",
+        "es": "Dríada veloz"
+    },
+    "uH5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "uX5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "un5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "u35WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "vH5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "vX5WAw": {
+        "en": "Swift Zombie Slaughter",
+        "pt": "Massacre Ágil",
+        "es": "Matanza de zombis veloz"
+    },
+    "vn5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "v35WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "wH5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "wX5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "wn5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "w35WAw": {
+        "en": "Swift Banshee",
+        "pt": "Necromante Alfa",
+        "es": "Cabecilla Nigromante"
+    },
+    "xH5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "xX5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "xn5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "x35WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "yH5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "yX5WAw": {
+        "en": "Chief Necromancer",
+        "pt": "Necromante Alfa",
+        "es": "Cabecilla Nigromante"
+    },
+    "yn5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "y35WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "zH5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "zX5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "zn5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "z35WAw": {
+        "en": "[Champion Monster Hunt Mission Board]\nThis is the Champion Monster Hunt Mission Board for the ^4D4DFFSchwartzwald Field^000000 region.",
+        "pt": "[Missões Especiais]\n^4D4DFFCampos da República de Schwartzwald^000000 - Solicitações de caça.",
+        "es": "[Misiones Especiales]\n^4D4DFFCampos de la República^000000 - Solicitudes de caza."
+    },
+    "0H5WAw": {
+        "en": "Swift Shellfish",
+        "pt": "Molusco Ágil",
+        "es": "Marisco veloz"
+    },
+    "0X5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "0n5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "035WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "1H5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "1X5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "1n5WAw": {
+        "en": "Solid Geographer",
+        "pt": "Planta Carnívora Brutal",
+        "es": "Geógrafo sólido"
+    },
+    "135WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "2H5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "2X5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "2n5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "235WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "3H5WAw": {
+        "en": "Chief Grand Peco",
+        "pt": "Grand Peco Alfa",
+        "es": "Cabecilla Gran Peco"
+    },
+    "3X5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "3n5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "335WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "4H5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "4X5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "4n5WAw": {
+        "en": "Chief Goat",
+        "pt": "Bode Alfa",
+        "es": "Cabecilla Cabra"
+    },
+    "435WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "5H5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "5X5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "5n5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "535WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "6H5WAw": {
+        "en": "Swift Sleeper",
+        "pt": "Rochoso Ágil",
+        "es": "Durmiente veloz"
+    },
+    "6X5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "6n5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "635WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "7H5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "7X5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "7n5WAw": {
+        "en": "Swift Stem Worm",
+        "pt": "Talo de Verme Ágil",
+        "es": "Gusano ágil"
+    },
+    "735WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "8H5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "8X5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "8n5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "835WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "9H5WAw": {
+        "en": "Solid Holden",
+        "pt": "Holden Brutal",
+        "es": "Holden sólido"
+    },
+    "9X5WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "9n5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "935WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "+H5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "+X5WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "+n5WAw": {
+        "en": "Swift Rafflesia",
+        "pt": "Rafflesia Ágil",
+        "es": "Rafflesia veloz"
+    },
+    "+35WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "/H5WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "/X5WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "/n5WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "/35WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "AH9WAw": {
+        "en": "Chief Venomous",
+        "pt": "Nuvem Venenosa Alfa",
+        "es": "Cabecilla Venenoso"
+    },
+    "AX9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "An9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "A39WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "BH9WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "BX9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "Bn9WAw": {
+        "en": "Furious Noxious",
+        "pt": "Nuvem Tóxica Feroz",
+        "es": "Nocivo furioso"
+    },
+    "B39WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "CH9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "CX9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "Cn9WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "C39WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "DH9WAw": {
+        "en": "Elusive Novus",
+        "pt": "Novus Fugaz",
+        "es": "Novus elusivo"
+    },
+    "DX9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "Dn9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "D39WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "EH9WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "EX9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "En9WAw": {
+        "en": "[Champion Monster Hunt Mission Board]\nThis is the Champion Monster Hunt Mission Board for the ^4D4DFFSchwartzwald Dungeon^000000 region.",
+        "pt": "[Missões Especiais]\n^4D4DFFCavernas da República de Schwartzwald^000000 - Solicitações de caça.",
+        "es": "[Misiones Especiales]\n^4D4DFFCuevas de la República^000000 - Solicitudes de caza."
+    },
+    "E39WAw": {
+        "en": "Furious Nightmare Terror",
+        "pt": "Pesadelo Sombrio Feroz",
+        "es": "Terror nocturno furioso"
+    },
+    "FH9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "FX9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "Fn9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "F39WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "GH9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "GX9WAw": {
+        "en": "Chief Ancient Mimic",
+        "pt": "Mímico Antigo Alfa",
+        "es": "Cabecilla Mímico antiguo"
+    },
+    "Gn9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "G39WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "HH9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "HX9WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "Hn9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "H39WAw": {
+        "en": "Solid Death Word",
+        "pt": "Palavra Morta Brutal",
+        "es": "Palabra letal sólida"
+    },
+    "IH9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "IX9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "In9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "I39WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "JH9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "JX9WAw": {
+        "en": "Furious Venatu",
+        "pt": "Venatu Feroz",
+        "es": "Venatu furioso"
+    },
+    "Jn9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "J39WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "KH9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "KX9WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "Kn9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "K39WAw": {
+        "en": "Swift Dimik",
+        "pt": "Dimik Ágil",
+        "es": "Dimik veloz"
+    },
+    "LH9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "LX9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "Ln9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "L39WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "MH9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "MX9WAw": {
+        "en": "Furious Ferus",
+        "pt": "Ferus Feroz",
+        "es": "Bewler furioso"
+    },
+    "Mn9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "M39WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "NH9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "NX9WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "Nn9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "N39WAw": {
+        "en": "Solid Acidus",
+        "pt": "Acidus Brutal",
+        "es": "Ácido azul sólido"
+    },
+    "OH9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "OX9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "On9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "O39WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "PH9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "PX9WAw": {
+        "en": "Elusive Lady Solace",
+        "pt": "Senhora Fugaz",
+        "es": "Dama elusiva"
+    },
+    "Pn9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "P39WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "QH9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "QX9WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "Qn9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "Q39WAw": {
+        "en": "Chief Dame of Sentinel",
+        "pt": "Dama da Guarda Alfa",
+        "es": "Cabecilla Dama de centinelas"
+    },
+    "RH9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "RX9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "Rn9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "R39WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "SH9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "SX9WAw": {
+        "en": "Chief Laurell Weinder",
+        "pt": "Laurell Weinder Alfa",
+        "es": "Cabecilla Laurel Weinder"
+    },
+    "Sn9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "S39WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "TH9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "TX9WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "Tn9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "T39WAw": {
+        "en": "Solid Cecil Damon",
+        "pt": "Cecil Damon Brutal",
+        "es": "Cecil Damon sólida"
+    },
+    "UH9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "UX9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "Un9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "U39WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "VH9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "VX9WAw": {
+        "en": "[Champion Monster Hunt Mission Board]\nThis is the Champion Monster Hunt Mission Board for the ^4D4DFFArunafeltz^000000 region.",
+        "pt": "[Missões Especiais]\n^4D4DFFRegião de Arunafeltz^000000 - Solicitações de caça.",
+        "es": "[Misiones Especiales]\n^4D4DFFRegión de Arunafeltz^000000 - Solicitudes de caza."
+    },
+    "Vn9WAw": {
+        "en": "Solid Roween",
+        "pt": "Roween Brutal",
+        "es": "Roween Brutal"
+    },
+    "V39WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "WH9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "WX9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "Wn9WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "W39WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "XH9WAw": {
+        "en": "Chief Stapo",
+        "pt": "Stapo Alfa",
+        "es": "Cabecilla Stapo"
+    },
+    "XX9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "Xn9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "X39WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "YH9WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "YX9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "Yn9WAw": {
+        "en": "Swift Hill Wind",
+        "pt": "Vento da Colina Ágil",
+        "es": "Viento de la colina veloz"
+    },
+    "Y39WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "ZH9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "ZX9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "Zn9WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "Z39WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "aH9WAw": {
+        "en": "Solid Kobold",
+        "pt": "Kobold Brutal",
+        "es": "Kobold (hacha) sólido"
+    },
+    "aX9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "an9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "a39WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "bH9WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "bX9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "bn9WAw": {
+        "en": "Swift Kobold Archer",
+        "pt": "Kobold Arqueiro Ágil",
+        "es": "Kobold (arquero) veloz"
+    },
+    "b39WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "cH9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "cX9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "cn9WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "c39WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "dH9WAw": {
+        "en": "Solid Snowier",
+        "pt": "Yeti Brutal",
+        "es": "Nevadísimo sólido"
+    },
+    "dX9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "dn9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "d39WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "eH9WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "eX9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "en9WAw": {
+        "en": "Swift Ice Titan",
+        "pt": "Titã de Gelo Ágil",
+        "es": "Titán de hielo veloz"
+    },
+    "e39WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "fH9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "fX9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "fn9WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "f39WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "gH9WAw": {
+        "en": "Chief Isilla",
+        "pt": "Isilla Alfa",
+        "es": "Cabecilla Isilla"
+    },
+    "gX9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "gn9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "g39WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "hH9WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "hX9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "hn9WAw": {
+        "en": "Chief Echio",
+        "pt": "Echio Alfa",
+        "es": "Cabecilla Echio"
+    },
+    "h39WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "iH9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "iX9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "in9WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "i39WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "jH9WAw": {
+        "en": "Swift Agav",
+        "pt": "Agav Ágil",
+        "es": "Agav veloz"
+    },
+    "jX9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "jn9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "j39WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "kH9WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "kX9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "kn9WAw": {
+        "en": "[Champion Monster Hunt Mission Board]\nThis is the Champion Monster Hunt Mission Board for the ^4D4DFFLocal area and Foreign World^000000 region.",
+        "pt": "[Missões Especiais]\n^4D4DFFOutras Regiões^000000 - Solicitações de caça.",
+        "es": "[Misiones Especiales]\n^4D4DFFOtras Regiones^000000 - Solicitudes de caza."
+    },
+    "k39WAw": {
+        "en": "Furious Smokie",
+        "pt": "Fumacento Feroz",
+        "es": "Humo feroz"
+    },
+    "lH9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "lX9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "ln9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "l39WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "mH9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "mX9WAw": {
+        "en": "Chief Dumpling Child",
+        "pt": "Pirralho Alfa",
+        "es": "Cabecilla chico dumpling"
+    },
+    "mn9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "m39WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "nH9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "nX9WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "nn9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "n39WAw": {
+        "en": "Furious Toucan",
+        "pt": "Espírito do Vento Feroz",
+        "es": "Tucán furioso"
+    },
+    "oH9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "oX9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "on9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "o39WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "pH9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "pX9WAw": {
+        "en": "Solid Side Winder",
+        "pt": "Sorrateiro Brutal",
+        "es": "Crótalo sólido"
+    },
+    "pn9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "p39WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "qH9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "qX9WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "qn9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "q39WAw": {
+        "en": "Swift Karakasa",
+        "pt": "Karakasa Ágil",
+        "es": "Karakasa veloz"
+    },
+    "rH9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "rX9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "rn9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "r39WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "sH9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "sX9WAw": {
+        "en": "Elusive Mi Gao",
+        "pt": "Mi Gao Fugaz",
+        "es": "Mi Gao elusivo"
+    },
+    "sn9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "s39WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "tH9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "tX9WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "tn9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "t39WAw": {
+        "en": "Elusive Luciola Vespa",
+        "pt": "Vespa Vagalume Fugaz",
+        "es": "Luciola Vespa elusiva"
+    },
+    "uH9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "uX9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "un9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "u39WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "vH9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "vX9WAw": {
+        "en": "Solid Dark Pinguicula",
+        "pt": "Pinguicula Brutal",
+        "es": "Pinguicula oscura sólida"
+    },
+    "vn9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "v39WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "wH9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "wX9WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "wn9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "w39WAw": {
+        "en": "Swift Centipede",
+        "pt": "Centopeia Ágil",
+        "es": "Escolopendra veloz"
+    },
+    "xH9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "xX9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "xn9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "x39WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "yH9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "yX9WAw": {
+        "en": "Chief Dolomedes",
+        "pt": "Dolomedes Alfa",
+        "es": "Cabecilla Dolomedes"
+    },
+    "yn9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "y39WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "zH9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "zX9WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "zn9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "z39WAw": {
+        "en": "Elusive Antler Scaraba",
+        "pt": "Scaraba Galhado Fugaz",
+        "es": "Escarabajo peludo"
+    },
+    "0H9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "0X9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "0n9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "039WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "1H9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "1X9WAw": {
+        "en": "Chief Miming",
+        "pt": "Plagiador Alfa",
+        "es": "Cabecilla Mímico"
+    },
+    "1n9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "139WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "2H9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "2X9WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "2n9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "239WAw": {
+        "en": "Furious Little Fatum",
+        "pt": "Pequeno Fatum Feroz",
+        "es": "Fatum pequeño furioso"
+    },
+    "3H9WAw": {
+        "en": "^8C8C8C[{0}] {1}^000000",
+        "pt": "^8C8C8C[{0}] {1}^000000",
+        "es": "^8C8C8C[{0}] {1}^000000"
+    },
+    "3X9WAw": {
+        "en": "^8C8C8C{0} - In progress^000000",
+        "pt": "^8C8C8C(Em Curso) {0}^000000",
+        "es": "^8C8C8C(En curso) {0}^000000"
+    },
+    "3n9WAw": {
+        "en": "{0} - Turning in",
+        "pt": "(Feito) {0}",
+        "es": "(Hecho) {0}"
+    },
+    "339WAw": {
+        "en": "^8C8C8C{0} - Waiting to refresh^000000",
+        "pt": "^8C8C8C(Em Espera) {0}^000000",
+        "es": "^8C8C8C(En espera) {0}^000000"
+    },
+    "4H9WAw": {
+        "en": "[{0}] {1}",
+        "pt": "[{0}] {1}",
+        "es": "[{0}] {1}"
+    },
+    "4X9WAw": {
+        "en": "Earnest Sogil",
+        "pt": "Monstrólogo",
+        "es": "Monstruólogo"
+    },
+    "4n9WAw": {
+        "en": "[Earnest Sogil]\nCannot continue: Inventory is full. Please come talk to me again after reorganizing your inventory.",
+        "pt": "[Monstrólogo]\nVocê tem itens demais e não pode prosseguir.",
+        "es": "[Monstruólogo]\nTiene demasiados elementos y no puede continuar."
+    },
+    "439WAw": {
+        "en": "[Earnest Sogil]\nHello. I am ^0000CDSogil^000000, and I manage the Champion Hunt Mission Board.",
+        "pt": "[Monstrólogo]\nOlá, eu sou ^0000CDSogil^000000, solicitador do quadro de Missões Especiais.",
+        "es": "[Monstruólogo]\nHola, soy ^0000CDSogil^000000, abogado del equipo de Misiones Especiales."
+    },
+    "5H9WAw": {
+        "en": "[Earnest Sogil]\nRead the board in front of me to receive quests for hunting Champion monsters.",
+        "pt": "[Monstrólogo]\nBasta atender os pedidos daquele quadro para começar a caçar.",
+        "es": "[Monstruólogo]\nSimplemente cumple con las solicitudes en ese tablero para comenzar a cazar."
+    },
+    "5X9WAw": {
+        "en": "[Earnest Sogil]\nIf you have any questions, or if you would like to claim your rewards from completed quests all at once, please talk to me.",
+        "pt": "[Monstrólogo]\nMe avise se você deseja pegar todas as recompensas de uma vez só.",
+        "es": "[Monstruólogo]\nAvísame si quieres reclamar todas las recompensas a la vez."
+    },
+    "5n9WAw": {
+        "en": "What is a Champion Monster Hunt?",
+        "pt": "O que são Monstros Campeões?",
+        "es": "¿Qué son los Monstruos Campeones?"
+    },
+    "539WAw": {
+        "en": "Claim all rewards.",
+        "pt": "Pegar todas as recompensas",
+        "es": "Obtenga todas las recompensas"
+    },
+    "6H9WAw": {
+        "en": "End conversation.",
+        "pt": "Encerrar conversa",
+        "es": "Finalizar la conversación"
+    },
+    "6X9WAw": {
+        "en": "[Earnest Sogil]\nA champion monster stands out for being stronger than its common version.",
+        "pt": "[Monstrólogo]\nUm monstro campeão destaca-se por ser mais forte que sua versão comum.",
+        "es": "[Monstruólogo]\nUn monstruo campeón se destaca por ser más fuerte que su versión común."
+    },
+    "6n9WAw": {
+        "en": "[Earnest Sogil]\nTheir names will have prefixes, such as ^0000CDEnraged^000000 or ^0000CDStrong^000000, ^0000CDthey will also be colored differently and sometimes emit an aura^000000.",
+        "pt": "[Monstrólogo]\nSe um monstro for ^0000CDÁgil^000000, significa que ele anda muito mais rápido.",
+        "es": "[Monstruólogo]\nSi un monstruo es ^0000CDÁgil^000000, significa que se mueve mucho más rápido."
+    },
+    "639WAw": {
+        "en": "[Earnest Sogil]\nA ^0000CDSolid^000000 monster is different from the wift one because it is slower, but it is much more resistant.",
+        "pt": "[Monstrólogo]\nUm monstro ^0000CDBrutal^000000 é diferente do ágil por ser mais lento, porém, ele é muito mais resistente.",
+        "es": "[Monstruólogo]\nUn monstruo ^0000CDBrutal^000000 se diferencia de uno ágil porque es más lento, pero es mucho más resistente."
+    },
+    "7H9WAw": {
+        "en": "[Earnest Sogil]\nThere are ^0000CDChief^000000 that are always followed by other monsters.",
+        "pt": "[Monstrólogo]\nExistem os ^0000CDAlfas^000000 que sempre são seguidos por outros monstros.",
+        "es": "[Monstruólogo]\nHay ^0000CDAlfas^000000 que siempre son seguidos por otros monstruos."
+    },
+    "7X9WAw": {
+        "en": "[Earnest Sogil]\nA ^0000CDElusive^000000 monster is harder to find, they run away very often.",
+        "pt": "[Monstrólogo]\nJá um monstro ^0000CDFugaz^000000 é mais difícil de encontrar, eles fogem com muita frequência.",
+        "es": "[Monstruólogo]\nUn monstruo ^0000CDFugaz^000000 es más difícil de encontrar, huyen muy a menudo."
+    },
+    "7n9WAw": {
+        "en": "[Earnest Sogil]\nAh! Be careful with the ^0000CDFurious^000000, they attack much faster.",
+        "pt": "[Monstrólogo]\nAh! Cuidado com os ^0000CDFerozes^000000, eles atacam muito mais rápido.",
+        "es": "[Monstruólogo]\n¡Ah! Cuidado con los ^0000CDFeroces^000000, atacan mucho más rápido."
+    },
+    "739WAw": {
+        "en": "[Earnest Sogil]\nAll missions are daily and characters ^0000CDup to level 30^000000 will receive Teleport Tickets along with the EXP.",
+        "pt": "[Monstrólogo]\nTodas as missões são diárias e personagens ^0000CDaté o nível 30^000000 receberão Vales-Teletransporte junto com a EXP.",
+        "es": "[Monstruólogo]\nTodas las misiones son diarias y los personajes del ^0000CDal nivel 30^000000 recibirán Boletos de Teletransporte junto con la EXP."
+    },
+    "8H9WAw": {
+        "en": "[Earnest Sogil]\nSure, let me check that for you.",
+        "pt": "[Monstrólogo]\nCerto, deixe-me conferir sua lista de caçada.",
+        "es": "[Monstruólogo]\nEstá bien, déjame revisar tu lista de caza."
+    },
+    "8X9WAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Elusive Hornet. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nZangão Fugaz tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Elusive Hornet. Aquí está tu recompensa, como prometiste."
+    },
+    "8n9WAw": {
+        "en": "Your reward is EXP 600, JEXP 1,350, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 600, EXP classe 1350, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 600, EXP de clase 1.350 y un billete gratuito para el transporte de Kafra."
+    },
+    "839WAw": {
+        "en": "Your reward is 600 EXP and 1,350 JEXP.",
+        "pt": "EXP base 600, EXP classe 1350 recebido.",
+        "es": "Tu recompensa es 600 EXP y 1.350 EXP de clase."
+    },
+    "9H9WAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Elusive Rocker. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nRocker Fugaz tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Elusive Rocker. Aquí tienes Tu recompensa, como prometiste."
+    },
+    "9X9WAw": {
+        "en": "Your reward is EXP 740, JEXP 1,670, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 740, EXP classe 1670, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 740, EXP de clase 1.670 y un billete gratis para el transporte de Kafra."
+    },
+    "9n9WAw": {
+        "en": "Your reward is 740 EXP and 1,670 JEXP.",
+        "pt": "EXP base 740, EXP classe 1670 recebido.",
+        "es": "Tu recompensa es 740 EXP y 1.670 EXP de clase."
+    },
+    "939WAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Elusive Ambernite. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nAmbernite Fugaz tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Ambernite elusivo. Aquí tienes Tu recompensa, como prometiste."
+    },
+    "+H9WAw": {
+        "en": "Your reward is EXP 870, JEXP 1,940, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 870, EXP classe 1940, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 870, EXP de clase 1.940 y un billete gratis para el transporte de Kafra."
+    },
+    "+X9WAw": {
+        "en": "Your reward is 870 EXP and 1,940 JEXP.",
+        "pt": "EXP base 870, EXP classe 1940 recebido.",
+        "es": "Tu recompensa es 870 EXP y 1.940 EXP de clase."
+    },
+    "+n9WAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Chief Muka. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nMuka Alfa tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado al Jefe Muka. Aquí está tu recompensa, como prometiste."
+    },
+    "+39WAw": {
+        "en": "Your reward is EXP 1080, JEXP 3,650, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 1080, EXP classe 3650, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 1080, EXP de clase 3.650 y un billete gratis para el transporte de Kafra."
+    },
+    "/H9WAw": {
+        "en": "Your reward is 1,080 EXP and 3,650 JEXP.",
+        "pt": "EXP base 1080, EXP classe 3650 recebido.",
+        "es": "Tu recompensa es 1.080 EXP y 3.650 EXP de clase."
+    },
+    "/X9WAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Chief Bigfoot. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nPé-Grande Alfa tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado al Jefe Bigfoot. Aquí está tu recompensa, como prometiste."
+    },
+    "/n9WAw": {
+        "en": "Your reward is EXP 1,350, JEXP 4,550, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 1350, EXP classe 4550, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 1.350, EXP de clase 4.550 y un billete gratuito para el transporte de Kafra."
+    },
+    "/39WAw": {
+        "en": "Your reward is 1,350 EXP and 4,550 JEXP.",
+        "pt": "EXP base 1350, EXP classe 4550 recebido.",
+        "es": "Tu recompensa es 1.350 EXP y 4.550 EXP de clase."
+    },
+    "AIBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Solid Horn. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nBesouro-Chifre Brutal tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Cuerno Sólido. Aquí tienes Tu recompensa, como prometiste."
+    },
+    "AYBWAw": {
+        "en": "Your reward is EXP 1620, JEXP 5,450, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 1620, EXP classe 5450, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 1620, EXP de clase 5.450 y un billete gratuito para el transporte de Kafra."
+    },
+    "AoBWAw": {
+        "en": "Your reward is 1,620 EXP and 5,450 JEXP.",
+        "pt": "EXP base 1620, EXP classe 5450 recebido.",
+        "es": "Tu recompensa son 1.620 EXP y 5.450 EXP de clase."
+    },
+    "A4BWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Swift Elder Willow. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nSalgueiro Ancião Ágil tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Swift Elder Willow. Aquí está tu recompensa, como prometiste."
+    },
+    "BIBWAw": {
+        "en": "Your reward is EXP 1740, JEXP 5,900, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 1740, EXP classe 5900, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 1740, EXP de clase 5.900 y un billete gratuito para el transporte de Kafra."
+    },
+    "BYBWAw": {
+        "en": "Your reward is 1,740 EXP and 5,900 JEXP.",
+        "pt": "EXP base 1740, EXP classe 5900 recebido.",
+        "es": "Tu recompensa es 1.740 EXP y 5.900 EXP de clase."
+    },
+    "BoBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Solid Coco. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nKoko Brutal tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Solid Coco. Aquí tienes Tu recompensa, como prometiste."
+    },
+    "B4BWAw": {
+        "en": "Your reward is EXP 2,030, JEXP 6,840, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 2030, EXP classe 6840, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 2.030, EXP de clase 6.840 y un billete gratuito para el transporte de Kafra."
+    },
+    "CIBWAw": {
+        "en": "Your reward is 2,030 EXP and 6,840 JEXP.",
+        "pt": "EXP base 2030, EXP classe 6840 recebido.",
+        "es": "Tu recompensa es 2.030 EXP y 6.840 EXP de clase."
+    },
+    "CYBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Swift Yoyo. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nYoyo Ágil tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Swift Yoyo. Aquí está tu recompensa, como prometiste."
+    },
+    "CoBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Elusive Magnolia. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nMagnólia Fugaz tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Magnolia Elusiva. Aquí tienes Tu recompensa, como prometiste."
+    },
+    "C4BWAw": {
+        "en": "Your reward is EXP 3,470, JEXP 11,120, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 3470, EXP classe 11120, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 3.470, EXP de clase 11.120 y un billete gratuito para el transporte de Kafra."
+    },
+    "DIBWAw": {
+        "en": "Your reward is 3,470 EXP and 11,120 JEXP.",
+        "pt": "EXP base 3470, EXP classe 11120 recebido.",
+        "es": "Tu recompensa es 3.470 EXP y 11.120 EXP de clase."
+    },
+    "DYBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Furious Orc Warrior. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nGuerreiro Orc Feroz tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado al Guerrero Orco Furioso. Aquí está tu recompensa, como prometiste."
+    },
+    "DoBWAw": {
+        "en": "Your reward is EXP 2,630, JEXP 12,150, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 2630, EXP classe 12150, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 2.630, EXP de clase 12.150 y un billete gratuito para el transporte de Kafra."
+    },
+    "D4BWAw": {
+        "en": "Your reward is 2,630 EXP and 12,150 JEXP.",
+        "pt": "EXP base 2630, EXP classe 12150 recebido.",
+        "es": "Tu recompensa son 2.630 EXP y 12.150 EXP de clase."
+    },
+    "EIBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Swift Goblin. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nGoblin Ágil tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Swift Goblin. Aquí está tu recompensa, como prometiste."
+    },
+    "EYBWAw": {
+        "en": "Your reward is EXP 2,760, JEXP 9,320, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 2760, EXP classe 9320, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 2.760, EXP de clase 9.320 y un billete gratuito para el transporte de Kafra."
+    },
+    "EoBWAw": {
+        "en": "Your reward is 2,760 EXP and 9,320 JEXP.",
+        "pt": "EXP base 2760, EXP classe 9320 recebido.",
+        "es": "Tu recompensa son 2.760 EXP y 9.320 EXP de clase."
+    },
+    "E4BWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Elusive Goblin. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nGoblin Fugaz tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Elusive Goblin. Aquí está tu recompensa, como prometiste."
+    },
+    "FIBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Swift Petite. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nPetite Ágil tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Swift Petite. Aquí tienes Tu recompensa, como prometiste."
+    },
+    "FYBWAw": {
+        "en": "Your reward is EXP 9,650, JEXP 29,610, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 9650, EXP classe 29610, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 9.650, EXP de clase 29.610 y un billete gratuito para el transporte de Kafra."
+    },
+    "FoBWAw": {
+        "en": "Your reward is 9,650 EXP and 29,610 JEXP.",
+        "pt": "EXP base 9650, EXP classe 29610 recebido.",
+        "es": "Tu recompensa son 9.650 EXP y 29.610 EXP de clase."
+    },
+    "F4BWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Solid Petite. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nPetite Brutal tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Solid Petite. Aquí tienes Tu recompensa, como prometiste."
+    },
+    "GIBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Elusive Carat. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nCarat Fugaz tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Elusive Carat. Aquí está tu recompensa, como prometiste."
+    },
+    "GYBWAw": {
+        "en": "Your reward is EXP 17,490, JEXP 43,263, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 17490, EXP classe 43263, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 17.490, EXP de clase 43.263 y un billete gratuito para el transporte de Kafra."
+    },
+    "GoBWAw": {
+        "en": "Your reward is 17,490 EXP and 43,263 JEXP.",
+        "pt": "EXP base 17490, EXP classe 43263 recebido.",
+        "es": "Tu recompensa es 17.490 EXP y 43.263 EXP de clase."
+    },
+    "G4BWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Furious Majoruros. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nMajoruros Feroz tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Furioso Majoruros. Aquí está tu recompensa, como prometiste."
+    },
+    "HIBWAw": {
+        "en": "Your reward is EXP 27,810, JEXP 65,340, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 27810, EXP classe 65340, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 27.810, EXP de clase 65.340 y un billete gratuito para el transporte de Kafra."
+    },
+    "HYBWAw": {
+        "en": "Your reward is 27,810 EXP and 65,340 JEXP.",
+        "pt": "EXP base 27810, EXP classe 65340 recebido.",
+        "es": "Tu recompensa es 27.810 EXP y 65.340 EXP de clase."
+    },
+    "HoBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Solid Raydric. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nRaydric Brutal tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Solid Raydric. Aquí está tu recompensa, como prometiste."
+    },
+    "H4BWAw": {
+        "en": "Your reward is EXP 27,000, JEXP 61,626, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 27000, EXP classe 61626, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 27.000, EXP de clase 61.626 y un billete gratuito para el transporte de Kafra."
+    },
+    "IIBWAw": {
+        "en": "Your reward is 27,000 EXP and 61,626 JEXP.",
+        "pt": "EXP base 27000, EXP classe 61626 recebido.",
+        "es": "Tu recompensa son 27.000 EXP y 61.626 EXP de clase."
+    },
+    "IYBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Swift Raydric. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nRaydric Ágil tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado al Veloz Raydric. Aquí está tu recompensa, como prometiste."
+    },
+    "IoBWAw": {
+        "en": "Your reward is EXP 27,000, JEXP 64,626, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 27000, EXP classe 64626, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 27.000, EXP de clase 64.626 y un billete gratuito para el transporte de Kafra."
+    },
+    "I4BWAw": {
+        "en": "Your reward is 27,000 EXP and 64,626 JEXP.",
+        "pt": "EXP base 27000, EXP classe 64626 recebido.",
+        "es": "Tu recompensa son 27.000 EXP y 64.626 EXP de clase."
+    },
+    "JIBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Furious Wanderer. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nAndarilho Feroz tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Furious Wanderer. Aquí está tu recompensa, como prometiste."
+    },
+    "JYBWAw": {
+        "en": "Your reward is EXP 33,045, JEXP 110,631, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 33045, EXP classe 110631, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 33.045, EXP de clase 110.631 y un billete gratuito para el transporte de Kafra."
+    },
+    "JoBWAw": {
+        "en": "Your reward is 33,045 EXP and 110,631 JEXP.",
+        "pt": "EXP base 33045, EXP classe 110631 recebido.",
+        "es": "Tu recompensa es 33.045 EXP y 110.631 EXP de clase."
+    },
+    "J4BWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Furious Sandman. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nArenoso Feroz tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Furious Sandman. Aquí está tu recompensa, como prometiste."
+    },
+    "KIBWAw": {
+        "en": "Your reward is EXP 4,920, JEXP 15,840, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 4920, EXP classe 15840, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 4.920, EXP de clase 15.840 y un billete gratuito para el transporte de Kafra."
+    },
+    "KYBWAw": {
+        "en": "Your reward is 4,920 EXP and 15,840 JEXP.",
+        "pt": "EXP base 4920, EXP classe 15840 recebido.",
+        "es": "Tu recompensa son 4.920 EXP y 15.840 EXP de clase."
+    },
+    "KoBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Swift Fur Seal. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nFoca Ágil tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado al lobo marino. Aquí está tu recompensa, como prometiste."
+    },
+    "K4BWAw": {
+        "en": "Your reward is EXP 2,700, JEXP 9,090, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 2700, EXP classe 9090, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 2.700, EXP de clase 9.090 y un billete gratuito para el transporte de Kafra."
+    },
+    "LIBWAw": {
+        "en": "Your reward is 2,700 EXP and 9,090 JEXP.",
+        "pt": "EXP base 2700, EXP classe 9090 recebido.",
+        "es": "Tu recompensa son 2.700 EXP y 9.090 EXP de clase."
+    },
+    "LYBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Elusive Green Iguana. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nGrove Fugaz tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a la Iguana Verde Escurridiza. Aquí tienes Tu recompensa, como prometiste."
+    },
+    "LoBWAw": {
+        "en": "Your reward is EXP 3,830, JEXP 12,330, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 3830, EXP classe 12330, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 3.830, EXP de clase 12.330 y un billete gratuito para el transporte de Kafra."
+    },
+    "L4BWAw": {
+        "en": "Your reward is 3,830 EXP and 12,330 JEXP.",
+        "pt": "EXP base 3830, EXP classe 12330 recebido.",
+        "es": "Tu recompensa son 3.830 EXP y 12.330 EXP de clase."
+    },
+    "MIBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Solid Alligator. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nCrocodilo Brutal tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Solid Alligator. Aquí está tu recompensa, como prometiste."
+    },
+    "MYBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Furious Wootan Fighter. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nGuerreiro Wootan Feroz tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Furious Wootan Fighter. Aquí está tu recompensa, como prometiste."
+    },
+    "MoBWAw": {
+        "en": "Your reward is EXP 5,580, JEXP 17,960, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 5580, EXP classe 17960, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 5.580, EXP de clase 17.960 y un billete gratuito para el transporte de Kafra."
+    },
+    "M4BWAw": {
+        "en": "Your reward is 5,580 EXP and 17,960 JEXP.",
+        "pt": "EXP base 5580, EXP classe 17960 recebido.",
+        "es": "Tu recompensa es 5.580 EXP y 17.960 EXP de clase."
+    },
+    "NIBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Swift Dryad. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nDríade Ágil tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a la dríade vencejo. Aquí está tu recompensa, como prometiste."
+    },
+    "NYBWAw": {
+        "en": "Your reward is EXP 6,590, JEXP 21,110, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 6590, EXP classe 21110, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 6.590, EXP de clase 21.110 y un billete gratuito para el transporte de Kafra."
+    },
+    "NoBWAw": {
+        "en": "Your reward is 6,590 EXP and 21,110 JEXP.",
+        "pt": "EXP base 6590, EXP classe 21110 recebido.",
+        "es": "Tu recompensa es 6.590 EXP y 21.110 EXP de clase."
+    },
+    "N4BWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Swift Zombie Slaughter. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nMassacre Ágil tem um registro de caça. Bom trabalho..",
+        "es": "[Monstruólogo]\nHas cazado a Matanza de Zombis Veloz. Aquí está tu recompensa, como prometiste."
+    },
+    "OIBWAw": {
+        "en": "Your reward is EXP 31,035, JEXP 80,238, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 31035, EXP classe 80238, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 31.035, EXP de clase 80.238 y un billete gratuito para el transporte de Kafra."
+    },
+    "OYBWAw": {
+        "en": "Your reward is 31,035 EXP and 80,238 JEXP.",
+        "pt": "EXP base 31035, EXP classe 80238 recebido.",
+        "es": "Tu recompensa es 31.035 EXP y 80.238 EXP de clase."
+    },
+    "OoBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Swift Banshee. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nBanshee Ágil tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Swift Banshee. Aquí está tu recompensa, como prometiste."
+    },
+    "O4BWAw": {
+        "en": "Your reward is EXP 44,070, JEXP 103,950, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 44070, EXP classe 103950, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 44.070, EXP de clase 103.950 y un billete gratuito para el transporte de Kafra."
+    },
+    "PIBWAw": {
+        "en": "Your reward is 44,070 EXP and 103,950 JEXP.",
+        "pt": "EXP base 44070, EXP classe 103950 recebido.",
+        "es": "Tu recompensa es 44.070 EXP y 103.950 EXP de clase."
+    },
+    "PYBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Chief Necromancer. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nNecromante Alfa tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado al Jefe Nigromante. Aquí está tu recompensa, como prometiste."
+    },
+    "PoBWAw": {
+        "en": "Your reward is EXP 44,850, JEXP 148,005, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 44850, EXP classe 148005, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 44.850, EXP de clase 148.005 y un billete gratuito para el transporte de Kafra."
+    },
+    "P4BWAw": {
+        "en": "Your reward is 44,850 EXP and 148,005 JEXP.",
+        "pt": "EXP base 44850, EXP classe 148005 recebido.",
+        "es": "Tu recompensa es 44.850 EXP y 148.005 EXP de clase."
+    },
+    "QIBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Swift Shellfish. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nMolusco Ágil tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Swift Shellfish. Aquí está tu recompensa, como prometiste."
+    },
+    "QYBWAw": {
+        "en": "Your reward is EXP 3,180, JEXP 10,220, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 3180, EXP classe 10220, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 3.180, EXP de clase 10.220 y un billete gratuito para el transporte de Kafra."
+    },
+    "QoBWAw": {
+        "en": "Your reward is 3,180 EXP and 10,220 JEXP.",
+        "pt": "EXP base 3180, EXP classe 10220 recebido.",
+        "es": "Tu recompensa es 3.180 EXP y 10.220 EXP de clase."
+    },
+    "Q4BWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Solid Geographer. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nPlanta Carnívora Brutal tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado al Geógrafo Sólido. Aquí está tu recompensa, como prometiste."
+    },
+    "RIBWAw": {
+        "en": "Your reward is EXP 7,410, JEXP 22,730, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 7410, EXP classe 22730, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 7.410, EXP de clase 22.730 y un billete gratuito para el transporte de Kafra."
+    },
+    "RYBWAw": {
+        "en": "Your reward is 7,410 EXP and 22,730 JEXP.",
+        "pt": "EXP base 7410, EXP classe 22730 recebido.",
+        "es": "Tu recompensa es 7.410 EXP y 22.730 EXP de clase."
+    },
+    "RoBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Chief Grand Peco. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nGrand Peco Alfa tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado al Jefe Grand Peco. Aquí está tu recompensa, como prometiste."
+    },
+    "R4BWAw": {
+        "en": "Your reward is EXP 7,320, JEXP 22,460, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 7320, EXP classe 22460, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 7.320, EXP de clase 22.460 y un billete gratuito para el transporte de Kafra."
+    },
+    "SIBWAw": {
+        "en": "Your reward is 7,320 EXP and 22,460 JEXP.",
+        "pt": "EXP base 7320, EXP classe 22460 recebido.",
+        "es": "Tu recompensa es 7.320 EXP y 22.460 EXP de clase."
+    },
+    "SYBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Chief Goat. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nBode Alfa tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado al Jefe Cabra. Aquí está tu recompensa, como prometiste."
+    },
+    "SoBWAw": {
+        "en": "Your reward is EXP 8,790, JEXP 26,910, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 8790, EXP classe 26910, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 8.790, EXP de clase 26.910 y un billete gratuito para el transporte de Kafra."
+    },
+    "S4BWAw": {
+        "en": "Your reward is 8,790 EXP and 26,910 JEXP.",
+        "pt": "EXP base 8790, EXP classe 26910 recebido.",
+        "es": "Tu recompensa es 8.790 EXP y 26.910 EXP de clase."
+    },
+    "TIBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Swift Sleeper. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nRochoso Ágil tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Swift Sleeper. Aquí está tu recompensa, como prometiste."
+    },
+    "TYBWAw": {
+        "en": "Your reward is EXP 8,520, JEXP 26,100, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 8520, EXP classe 26100, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 8.520, EXP de clase 26.100 y un billete gratuito para el transporte de Kafra."
+    },
+    "ToBWAw": {
+        "en": "Your reward is 8,520 EXP and 26,100 JEXP.",
+        "pt": "EXP base 8520, EXP classe 26100 recebido.",
+        "es": "Tu recompensa son 8.520 EXP y 26.100 EXP de clase."
+    },
+    "T4BWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Swift Stem Worm. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nTalo de Verme Ágil tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado al Gusano de Tallo Veloz. Aquí está tu recompensa, como prometiste."
+    },
+    "UIBWAw": {
+        "en": "Your reward is EXP 8,910, JEXP 27,320, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 8910, EXP classe 27320, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 8.910, EXP de clase 27.320 y un billete gratuito para el transporte de Kafra."
+    },
+    "UYBWAw": {
+        "en": "Your reward is 8,910 EXP and 27,320 JEXP.",
+        "pt": "EXP base 8910, EXP classe 27320 recebido.",
+        "es": "Tu recompensa son 8.910 EXP y 27.320 EXP de clase."
+    },
+    "UoBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Solid Holden. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nHolden Brutal tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Solid Holden. Aquí está tu recompensa, como prometiste."
+    },
+    "U4BWAw": {
+        "en": "Your reward is EXP 9,950, JEXP 30,560, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 9950, EXP classe 30560, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 9.950, EXP de clase 30.560 y un billete gratuito para el transporte de Kafra."
+    },
+    "VIBWAw": {
+        "en": "Your reward is 9,950 EXP and 30,560 JEXP.",
+        "pt": "EXP base 9950, EXP classe 30560 recebido.",
+        "es": "Tu recompensa son 9.950 EXP y 30.560 EXP de clase."
+    },
+    "VYBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Swift Rafflesia. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nRafflesia Ágil tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Swift Rafflesia. Aquí tienes Tu recompensa, como prometiste."
+    },
+    "VoBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Chief Venomous. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nNuvem Venenosa Alfa tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado al Jefe Venenoso. Aquí está tu recompensa, como prometiste."
+    },
+    "V4BWAw": {
+        "en": "Your reward is EXP 9,800, JEXP 30,060, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 9800, EXP classe 30060, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 9.800, EXP de clase 30.060 y un billete gratuito para el transporte de Kafra."
+    },
+    "WIBWAw": {
+        "en": "Your reward is 9,800 EXP and 30,060 JEXP.",
+        "pt": "EXP base 9800, EXP classe 30060 recebido.",
+        "es": "Tu recompensa son 9.800 EXP y 30.060 EXP de clase."
+    },
+    "WYBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Furious Noxious. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nNuvem Tóxica Feroz tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Furious Noxious. Aquí está tu recompensa, como prometiste."
+    },
+    "WoBWAw": {
+        "en": "Your reward is EXP 7,320, JEXP 40,140, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 7320, EXP classe 40140, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 7.320, EXP de clase 40.140 y un billete gratuito para el transporte de Kafra."
+    },
+    "W4BWAw": {
+        "en": "Your reward is 7,320 EXP and 40,140 JEXP.",
+        "pt": "EXP base 7320, EXP classe 40140 recebido.",
+        "es": "Tu recompensa es 7.320 EXP y 40.140 EXP de clase."
+    },
+    "XIBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Elusive Novus. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nNovus Fugaz tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Elusive Novus. Aquí está tu recompensa, como prometiste."
+    },
+    "XYBWAw": {
+        "en": "Your reward is EXP 10,770, JEXP 33,840, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 10770, EXP classe 33840, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 10.770, EXP de clase 33.840 y un billete gratuito para el transporte de Kafra."
+    },
+    "XoBWAw": {
+        "en": "Your reward is 10,770 EXP and 33,840 JEXP.",
+        "pt": "EXP base 10770, EXP classe 33840 recebido.",
+        "es": "Tu recompensa es 10.770 EXP y 33.840 EXP de clase."
+    },
+    "X4BWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Furious Nightmare Terror. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nPesadelo Sombrio Feroz tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Terror Furioso de Pesadilla. Aquí tienes Tu recompensa, como prometiste."
+    },
+    "YIBWAw": {
+        "en": "Your reward is EXP 18,315, JEXP 54,399, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 18315, Jexp 54399, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 18.315, EXP de clase 54.399 y un billete gratuito para el transporte de Kafra."
+    },
+    "YYBWAw": {
+        "en": "Your reward is 18,315 EXP and 54,399 JEXP.",
+        "pt": "EXP base 18315, Jexp 54399 recebido.",
+        "es": "Tu recompensa son 18.315 EXP y 54.399 EXP de clase."
+    },
+    "YoBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Chief Ancient Mimic. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nMímico Antigo Alfa tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado al Jefe Antiguo Mímico. Aquí está tu recompensa, como prometiste."
+    },
+    "Y4BWAw": {
+        "en": "Your reward is EXP 23,865, JEXP 61,380, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 23865, Jexp 61380, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 23.865, EXP de clase 61.380 y un billete gratuito para el transporte de Kafra."
+    },
+    "ZIBWAw": {
+        "en": "Your reward is 23,865 EXP and 61,380 JEXP.",
+        "pt": "EXP base 23865, Jexp 61380 recebido.",
+        "es": "Tu recompensa es 23.865 EXP y 61.380 EXP de clase."
+    },
+    "ZYBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Solid Death Word. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nPalavra Morta Brutal tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado la Palabra de la Muerte Sólida. Aquí está tu recompensa, como prometiste."
+    },
+    "ZoBWAw": {
+        "en": "Your reward is EXP 25,005, JEXP 57,072, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 25005, Jexp 57072, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 25.005, EXP de clase 57.072 y un billete gratuito para el transporte de Kafra."
+    },
+    "Z4BWAw": {
+        "en": "Your reward is 25,005 EXP and 57,072 JEXP.",
+        "pt": "EXP base 25005, Jexp 57072 recebido.",
+        "es": "Tu recompensa es 25.005 EXP y 57.072 EXP de clase."
+    },
+    "aIBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Furious Venatu. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nVenatu Feroz tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Venatu el Furioso. Aquí está tu recompensa, como prometiste."
+    },
+    "aYBWAw": {
+        "en": "Your reward is EXP 23,865, JEXP 60,438, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 23865, Jexp 60438, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 23.865, EXP de clase 60.438 y un billete gratuito para el transporte de Kafra."
+    },
+    "aoBWAw": {
+        "en": "Your reward is 23,865 EXP and 60,438 JEXP.",
+        "pt": "EXP base 23865, Jexp 60438 recebido.",
+        "es": "Tu recompensa es 23.865 EXP y 60.438 EXP de clase."
+    },
+    "a4BWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Swift Dimik. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nDimik Ágil tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Dimik el Veloz. Aquí está tu recompensa, como prometiste."
+    },
+    "bIBWAw": {
+        "en": "Your reward is EXP 28,425, JEXP 76,773, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 28425, Jexp 76773, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 28.425, EXP de clase 76.773 y un billete gratuito para el transporte de Kafra."
+    },
+    "bYBWAw": {
+        "en": "Your reward is 28,425 EXP and 76,773 JEXP.",
+        "pt": "EXP base 28425, Jexp 76773 recebido.",
+        "es": "Tu recompensa es 28.425 EXP y 76.773 EXP de clase."
+    },
+    "boBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Furious Ferus. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nFerus Feroz tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Ferus el Furioso. Aquí está tu recompensa, como prometiste."
+    },
+    "b4BWAw": {
+        "en": "Your reward is EXP 40,800, JEXP 88,704, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 40800, EXP classe 88704, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 40.800, EXP de clase 88.704 y un billete gratuito para el transporte de Kafra."
+    },
+    "cIBWAw": {
+        "en": "Your reward is 40,800 EXP and 88,704 JEXP.",
+        "pt": "EXP base 40800, EXP classe 88704 recebido.",
+        "es": "Tu recompensa es 40.800 EXP y 88.704 EXP de clase."
+    },
+    "cYBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Solid Acidus. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nAcidus Brutal tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Ácido Sólido. Aquí está tu recompensa, como prometiste."
+    },
+    "coBWAw": {
+        "en": "Your reward is EXP 44,070, JEXP 100,584, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 44070, EXP classe 100584, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 44.070, EXP de clase 100.584 y un billete gratuito para el transporte de Kafra."
+    },
+    "c4BWAw": {
+        "en": "Your reward is 44,070 EXP and 100,584 JEXP.",
+        "pt": "EXP base 44070, EXP classe 100584 recebido.",
+        "es": "Tu recompensa es 44.070 EXP y 100.584 EXP de clase."
+    },
+    "dIBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Elusive Lady Solace. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nSenhora Fugaz tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a la escurridiza Lady Solace. Aquí está tu recompensa, como prometiste."
+    },
+    "dYBWAw": {
+        "en": "Your reward is EXP 36,630, JEXP 119,244, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 36630, EXP classe 119244, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 36.630, EXP de clase 119.244 y un billete gratuito para el transporte de Kafra."
+    },
+    "doBWAw": {
+        "en": "Your reward is 36,630 EXP and 119,244 JEXP.",
+        "pt": "EXP base 36630, EXP classe 119244 recebido.",
+        "es": "Tu recompensa es 36.630 EXP y 119.244 EXP de clase."
+    },
+    "d4BWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Chief Dame of Sentinel. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nDama da Guarda Alfa tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a la Dama Jefa de Sentinel. Aquí está tu recompensa, como prometiste."
+    },
+    "eIBWAw": {
+        "en": "Your reward is EXP 41,670, JEXP 126,225, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 41670, EXP classe 126225, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 41.670, EXP de clase 126.225 y un billete gratuito para el transporte de Kafra."
+    },
+    "eYBWAw": {
+        "en": "Your reward is 41,670 EXP and 126,225 JEXP.",
+        "pt": "EXP base 41670, EXP classe 126225 recebido.",
+        "es": "Tu recompensa es 41.670 EXP y 126.225 EXP de clase."
+    },
+    "eoBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Chief Laurell Weinder. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nLaurell Weinder Alfa tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a la Jefa Laurell Weinder. Aquí está tu recompensa, como prometiste."
+    },
+    "e4BWAw": {
+        "en": "Your reward is EXP 43,875, JEXP 162,606, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 43875, Jexp 162606, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 43.875, EXP de clase 162.606 y un billete gratuito para el transporte de Kafra."
+    },
+    "fIBWAw": {
+        "en": "Your reward is 43,875 EXP and 162,606 JEXP.",
+        "pt": "EXP base 43875, Jexp 162606 recebido.",
+        "es": "Tu recompensa es 43.875 EXP y 162.606 EXP de clase."
+    },
+    "fYBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Solid Cecil Damon. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nCecil Damon Brutal tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Solid Cecil Damon. Aquí está tu recompensa, como prometiste."
+    },
+    "foBWAw": {
+        "en": "Your reward is EXP 248,505, JEXP 818,976, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 248505, Jexp 818976, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 248.505, EXP de clase 818.976 y un billete gratis para el transporte de Kafra."
+    },
+    "f4BWAw": {
+        "en": "Your reward is 248,505 EXP and 818,976 JEXP.",
+        "pt": "EXP base 248505, Jexp 818976 recebido.",
+        "es": "Tu recompensa es 248.505 EXP y 818.976 EXP de clase."
+    },
+    "gIBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Solid Roween. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nRoween Brutal tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Solid Roween. Aquí está tu recompensa, como prometiste."
+    },
+    "gYBWAw": {
+        "en": "Your reward is EXP 15,210, JEXP 42,800, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 15210, EXP classe 42800, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 15.210, EXP de clase 42.800 y un billete gratuito para el transporte de Kafra."
+    },
+    "goBWAw": {
+        "en": "Your reward is 15,210 EXP and 42,800 JEXP.",
+        "pt": "EXP base 15210, EXP classe 42800 recebido.",
+        "es": "Tu recompensa son 15.210 EXP y 42.800 EXP de clase."
+    },
+    "g4BWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Chief Stapo. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nStapo Alfa tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado al Jefe Stapo. Aquí está tu recompensa, como prometiste."
+    },
+    "hIBWAw": {
+        "en": "Your reward is EXP 14,160, JEXP 39,870, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 14160, EXP classe 39870, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 14.160, EXP de clase 39.870 y un billete gratuito para el transporte de Kafra."
+    },
+    "hYBWAw": {
+        "en": "Your reward is 14,160 EXP and 39,870 JEXP.",
+        "pt": "EXP base 14160, EXP classe 39870 recebido.",
+        "es": "Tu recompensa es 14.160 EXP y 39.870 EXP de clase."
+    },
+    "hoBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Swift Hill Wind. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nVento da Colina Ágil tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Viento Veloz de la Colina. Aquí está tu recompensa, como prometiste."
+    },
+    "h4BWAw": {
+        "en": "Your reward is EXP 17,100, JEXP 42,273, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 17100, EXP classe 42273, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 17.100, EXP de clase 42.273 y un billete gratuito para el transporte de Kafra."
+    },
+    "iIBWAw": {
+        "en": "Your reward is 17,100 EXP and 42,273 JEXP.",
+        "pt": "EXP base 17100, EXP classe 42273 recebido.",
+        "es": "Tu recompensa es 17.100 EXP y 42.273 EXP de clase."
+    },
+    "iYBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Solid Kobold. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nKobold Brutal tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Kobold Sólido. Aquí está tu recompensa, como prometiste."
+    },
+    "ioBWAw": {
+        "en": "Your reward is EXP 20,460, JEXP 50,637, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 20460, EXP classe 50637, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 20.460, EXP de clase 50.637 y un billete gratuito para el transporte de Kafra."
+    },
+    "i4BWAw": {
+        "en": "Your reward is 20,460 EXP and 50,637 JEXP.",
+        "pt": "EXP base 20460, EXP classe 50637 recebido.",
+        "es": "Tu recompensa son 20.460 EXP y 50.637 EXP de clase."
+    },
+    "jIBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Swift Kobold Archer. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nKobold Arqueiro Ágil tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Swift Kobold Archer. Aquí está tu recompensa, como prometiste."
+    },
+    "jYBWAw": {
+        "en": "Your reward is EXP 19,440, JEXP 77,814, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 19440, EXP classe 77814, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 19.440, EXP de clase 77.814 y un billete gratuito para el transporte de Kafra."
+    },
+    "joBWAw": {
+        "en": "Your reward is 19,440 EXP and 77,814 JEXP.",
+        "pt": "EXP base 19440, EXP classe 77814 recebido.",
+        "es": "Tu recompensa es 19.440 EXP y 77.814 EXP de clase."
+    },
+    "j4BWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Solid Snowier. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nYeti Brutal tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Solid Snowier. Aquí está tu recompensa, como prometiste."
+    },
+    "kIBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Swift Ice Titan. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nTitã de Gelo Ágil tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado al Titán de Hielo Veloz. Aquí está tu recompensa, como prometiste."
+    },
+    "kYBWAw": {
+        "en": "Your reward is EXP 24,510, JEXP 78,507, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 24510, EXP classe 78507, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 24.510, EXP de clase 78.507 y un billete gratuito para el transporte de Kafra."
+    },
+    "koBWAw": {
+        "en": "Your reward is 24,510 EXP and 78,507 JEXP.",
+        "pt": "EXP base 24510, EXP classe 78507 recebido.",
+        "es": "Tu recompensa es 24.510 EXP y 78.507 EXP de clase."
+    },
+    "k4BWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Chief Isilla. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nIsilla Alfa tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado al Jefe Isilla. Aquí está tu recompensa, como prometiste."
+    },
+    "lIBWAw": {
+        "en": "Your reward is EXP 33,690, JEXP 76,971, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 33690, EXP classe 76971, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 33.690, EXP de clase 76.971 y un billete gratuito para el transporte de Kafra."
+    },
+    "lYBWAw": {
+        "en": "Your reward is 33,690 EXP and 76,971 JEXP.",
+        "pt": "EXP base 33690, EXP classe 76971 recebido.",
+        "es": "Tu recompensa es 33.690 EXP y 76.971 EXP de clase."
+    },
+    "loBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Chief Echio. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nEchio Alfa tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado al Jefe Echio. Aquí está tu recompensa, como prometiste."
+    },
+    "l4BWAw": {
+        "en": "Your reward is EXP 35,970, JEXP 82,170, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 35970, EXP classe 82170, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 35.970, EXP de clase 82.170 y un billete gratuito para el transporte de Kafra."
+    },
+    "mIBWAw": {
+        "en": "Your reward is 35,970 EXP and 82,170 JEXP.",
+        "pt": "EXP base 35970, EXP classe 82170 recebido.",
+        "es": "Tu recompensa es 35.970 EXP y 82.170 EXP de clase."
+    },
+    "mYBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Swift Agav. Here is your reward, as promised.",
+        "pt": "Agav Ágil tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado al Vencejo Agav. Aquí está tu recompensa, como prometiste."
+    },
+    "moBWAw": {
+        "en": "Your reward is EXP 38,340, JEXP 87,516, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 38340, EXP classe 87516, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 38.340, EXP de clase 87.516 y un billete gratuito para el transporte de Kafra."
+    },
+    "m4BWAw": {
+        "en": "Your reward is 38,340 EXP and 87,516 JEXP.",
+        "pt": "EXP base 38340, EXP classe 87516 recebido.",
+        "es": "Tu recompensa es 38.340 EXP y 87.516 EXP de clase."
+    },
+    "nIBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Furious Smokie. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nFumacento Feroz tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Furious Smokie. Aquí está tu recompensa, como prometiste."
+    },
+    "nYBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Chief Dumpling Child. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nPirralho Alfa tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado al Jefe Niño Bollo. Aquí está tu recompensa, como prometiste."
+    },
+    "noBWAw": {
+        "en": "Your reward is EXP 4,190, JEXP 13,410, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 4190, EXP classe 13410, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 4.190, EXP de clase 13.410 y un billete gratuito para el transporte de Kafra."
+    },
+    "n4BWAw": {
+        "en": "Your reward is 4,190 EXP and 13,410 JEXP.",
+        "pt": "EXP base 4190, EXP classe 13410 recebido.",
+        "es": "Tu recompensa son 4.190 EXP y 13.410 EXP de clase."
+    },
+    "oIBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Furious Toucan. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nEspírito do Vento Feroz tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Tucán Furioso. Aquí está tu recompensa, como prometiste."
+    },
+    "oYBWAw": {
+        "en": "Your reward is EXP 5,190, JEXP 12,240, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 5190, EXP classe 12240, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 5.190, EXP de clase 12.240 y un billete gratuito para el transporte de Kafra."
+    },
+    "ooBWAw": {
+        "en": "Your reward is 5,190 EXP and 12,240 JEXP.",
+        "pt": "EXP base 5190, EXP classe 12240 recebido.",
+        "es": "Tu recompensa es 5.190 EXP y 12.240 EXP de clase."
+    },
+    "o4BWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Solid Side Winder. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nSorrateiro Brutal tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Solid Side Winder. Aquí está tu recompensa, como prometiste."
+    },
+    "pIBWAw": {
+        "en": "Your reward is EXP 5,670, JEXP 18,230, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 5670, EXP classe 18230, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 5.670, EXP de clase 18.230 y un billete gratuito para el transporte de Kafra."
+    },
+    "pYBWAw": {
+        "en": "Your reward is 5,670 EXP and 18,230 JEXP.",
+        "pt": "EXP base 5670, EXP classe 18230 recebido.",
+        "es": "Tu recompensa es 5.670 EXP y 18.230 EXP de clase."
+    },
+    "poBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Swift Karakasa. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nKarakasa Ágil tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado al Veloz Karakasa. Aquí está tu recompensa, como prometiste."
+    },
+    "p4BWAw": {
+        "en": "Your reward is EXP 6,320, JEXP 19,350, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 6320, EXP classe 19350, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 6.320, EXP de clase 19.350 y un billete gratuito para el transporte de Kafra."
+    },
+    "qIBWAw": {
+        "en": "Your reward is 6,320 EXP and 19,350 JEXP.",
+        "pt": "EXP base 6320, EXP classe 19350 recebido.",
+        "es": "Tu recompensa es 6.320 EXP y 19.350 EXP de clase."
+    },
+    "qYBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Elusive Mi Gao. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nMi Gao Fugaz tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Elusive Mi Gao. Aquí está tu recompensa, como prometiste."
+    },
+    "qoBWAw": {
+        "en": "Your reward is EXP 9,900, JEXP 34,380, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 9900, EXP classe 34380, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 9.900, EXP de clase 34.380 y un billete gratuito para el transporte de Kafra."
+    },
+    "q4BWAw": {
+        "en": "Your reward is 9,900 EXP and 34,380 JEXP.",
+        "pt": "EXP base 9900, EXP classe 34380 recebido.",
+        "es": "Tu recompensa son 9.900 EXP y 34.380 EXP de clase."
+    },
+    "rIBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Elusive Luciola Vespa. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nVespa Vagalume Fugaz tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a la escurridiza Luciola Vespa. Aquí tienes Tu recompensa, como prometiste."
+    },
+    "rYBWAw": {
+        "en": "Your reward is EXP 22,095, JEXP 53,607, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 22095, Jexp 53607, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 22.095, EXP de clase 53.607 y un billete gratuito para el transporte de Kafra."
+    },
+    "roBWAw": {
+        "en": "Your reward is 22,095 EXP and 53,607 JEXP.",
+        "pt": "EXP base 22095, Jexp 53607 recebido.",
+        "es": "Tu recompensa es 22.095 EXP y 53.607 EXP de clase."
+    },
+    "r4BWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Solid Dark Pinguicula. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nPinguicula Brutal tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Pinguicula Sólida Oscura. Aquí tienes Tu recompensa, como prometiste."
+    },
+    "sIBWAw": {
+        "en": "Your reward is EXP 20,475, JEXP 71,775, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 20475, Jexp 71775, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 20.475, EXP de clase 71.775 y un billete gratuito para el transporte de Kafra."
+    },
+    "sYBWAw": {
+        "en": "Your reward is 20,475 EXP and 71,775 JEXP.",
+        "pt": "EXP base 20475, Jexp 71775 recebido.",
+        "es": "Tu recompensa son 20.475 EXP y 71.775 EXP de clase."
+    },
+    "soBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Swift Centipede. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nCentopeia Ágil tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado al Ciempiés Veloz. Aquí está tu recompensa, como prometiste."
+    },
+    "s4BWAw": {
+        "en": "Your reward is EXP 31,200, JEXP 80,487, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 31200, EXP classe 80487, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 31.200, EXP de clase 80.487 y un billete gratuito para el transporte de Kafra."
+    },
+    "tIBWAw": {
+        "en": "Your reward is 31,200 EXP and 80,487 JEXP.",
+        "pt": "EXP base 31200, EXP classe 80487 recebido.",
+        "es": "Tu recompensa es 31.200 EXP y 80.487 EXP de clase."
+    },
+    "tYBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Chief Dolomedes. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nDolomedes Alfa tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado al jefe Dolomedes. Aquí está tu recompensa, como prometiste."
+    },
+    "toBWAw": {
+        "en": "Your reward is EXP 50,265, JEXP 153,054, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 50265, EXP classe 153054, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 50.265, EXP de clase 153.054 y un billete gratuito para el transporte de Kafra."
+    },
+    "t4BWAw": {
+        "en": "Your reward is 50,265 EXP and 153,054 JEXP.",
+        "pt": "EXP base 50265, EXP classe 153054 recebido.",
+        "es": "Tu recompensa es 50.265 EXP y 153.054 EXP de clase."
+    },
+    "uIBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Elusive Antler Scaraba. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nScaraba Galhado Fugaz tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Escarabajo de cornamenta escurridizo. Aquí tienes Tu recompensa, como prometiste."
+    },
+    "uYBWAw": {
+        "en": "Your reward is EXP 47,475, JEXP 156,024, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 47475, EXP classe 156024, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 47.475, EXP de clase 156.024 y un billete gratuito para el transporte de Kafra."
+    },
+    "uoBWAw": {
+        "en": "Your reward is 47,475 EXP and 156,024 JEXP.",
+        "pt": "EXP base 47475, EXP classe 156024 recebido.",
+        "es": "Tu recompensa es 47.475 EXP y 156.024 EXP de clase."
+    },
+    "u4BWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Chief Miming. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nPlagiador Alfa tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado al Jefe Miming. Aquí está tu recompensa, como prometiste."
+    },
+    "vIBWAw": {
+        "en": "Your reward is EXP 69,225, JEXP 187,110, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 69225, EXP classe 187110, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 69.225, EXP de clase 187.110 y un billete gratuito para el transporte de Kafra."
+    },
+    "vYBWAw": {
+        "en": "Your reward is 69,225 EXP and 187,110 JEXP.",
+        "pt": "EXP base 69225, EXP classe 187110 recebido.",
+        "es": "Tu recompensa es 69.225 EXP y 187.110 EXP de clase."
+    },
+    "voBWAw": {
+        "en": "[Earnest Sogil]\nYou have hunted down Furious Little Fatum. Here is your reward, as promised.",
+        "pt": "[Monstrólogo]\nPequeno Fatum Feroz tem um registro de caça. Bom trabalho.",
+        "es": "[Monstruólogo]\nHas cazado a Furious Little Fatum. Aquí está tu recompensa, como prometiste."
+    },
+    "v4BWAw": {
+        "en": "Your reward is EXP 73,125, JEXP 193,050, and a Free Ticket for Kafra Transportation.",
+        "pt": "EXP base 73125, EXP classe 193050, 1 Vale-Teletransporte.",
+        "es": "Tu recompensa es EXP 73.125, EXP de clase 193.050 y un billete gratuito para el transporte de Kafra."
+    },
+    "wIBWAw": {
+        "en": "Your reward is 73,125 EXP and 193,050 JEXP.",
+        "pt": "EXP base 73125, EXP classe 193050 recebido.",
+        "es": "Tu recompensa es 73.125 EXP y 193.050 EXP de clase."
+    },
+    "wYBWAw": {
+        "en": "[Earnest Sogil]\nI have issued all available rewards.\nPlease come back again tomorrow, or take up some other quests.",
+        "pt": "[Monstrólogo]\nEntreguei todas as recompensas.\nVolte amanhã caso queira repetir as missões.",
+        "es": "[Monstruólogo]\nHe entregado todas las recompensas.\nVuelve mañana si quieres repetir las misiones."
+    },
+    "woBWAw": {
+        "en": "[Earnest Sogil]\nYou can claim your reward from me, or by selecting the completed quest on the board.",
+        "pt": "[Monstrólogo]\nVocê pode escolher uma solicitação no Quadro de Missões Especiais e receber a recompensa comigo.",
+        "es": "[Monstruólogo]\nPuedes elegir una solicitud del Tablero de Misiones Especiales y recibir la recompensa de mi parte."
+    },
+    "w4BWAw": {
+        "en": "[Earnest Sogil]\nIf you receive quests during your adventures, members of Eden Group and the townspeople will be thankful.",
+        "pt": "[Monstrólogo]\nSempre que você completa uma solicitação, o Grupo do Éden fica muito agradecido.",
+        "es": "[Monstruólogo]\nCada vez que completas una solicitud, el Grupo Edén está muy agradecido."
+    }
+}

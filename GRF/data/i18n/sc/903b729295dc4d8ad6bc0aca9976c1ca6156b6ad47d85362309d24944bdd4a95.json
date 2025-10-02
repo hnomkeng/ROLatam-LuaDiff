@@ -1,0 +1,952 @@
+{
+    "gAnu": {
+        "en": "Wandering Grudge",
+        "pt": "Rancor errante",
+        "es": "Rencor errante"
+    },
+    "gQnu": {
+        "en": "random option check..",
+        "pt": "verificação de opção aleatória...",
+        "es": "control de opciones aleatorias."
+    },
+    "ggnu": {
+        "en": "- It cannot be processed. You have too many items. -",
+        "pt": "- Não pode ser processado. Você tem muitos itens. -",
+        "es": "-No se puede procesar. Llevas demasiados objetos.-"
+    },
+    "gwnu": {
+        "en": "grr.. grr... I can feel.....",
+        "pt": "grr... grr... Eu posso sentir.....",
+        "es": "Grrr… Grrr… Siento…"
+    },
+    "hAnu": {
+        "en": "[Wandering Grudge]\ngr.. gr... abominations grudge........",
+        "pt": "[Espectro Vagante]\ngr... gr... abominações grudge........",
+        "es": "[Rencor errante]\nGrrr… Grrr… Las abominaciones sienten rencor…"
+    },
+    "hQnu": {
+        "en": "who... am... I.......?",
+        "pt": "quem... sou... eu.......?",
+        "es": "¿Quién… soy…?"
+    },
+    "hgnu": {
+        "en": "[Wandering Grudge]\nWhere.. is... this...... who.. am.. I..",
+        "pt": "[Espectro Vagante]\nOnde... está... este...... quem... sou... eu..",
+        "es": "[Rencor errante]\nDónde… estoy… quién… Soy…"
+    },
+    "hwnu": {
+        "en": "[Wandering Grudge]\nI... need.... strength.... power...I... can... help you...",
+        "pt": "[Espectro Vagante]\nI... need.... strength.... power... I... can... help you...",
+        "es": "[Rencor errante]\nNecesito… fuerza… Poder… Puedo… ayudarte…"
+    },
+    "iAnu": {
+        "en": "Enchant Old Helm",
+        "pt": "Encantar o Old Helm",
+        "es": "Encantar yelmo antiguo."
+    },
+    "iQnu": {
+        "en": "Reset Old Helm",
+        "pt": "Redefinir o leme antigo",
+        "es": "Restablecer yelmo antiguo."
+    },
+    "ignu": {
+        "en": "Explan Enchant Old Helm",
+        "pt": "Explicação do encantamento do elmo antigo",
+        "es": "Explicar encantamiento de yelmo antiguo."
+    },
+    "iwnu": {
+        "en": "Grudge.. Give.. me Grudge..",
+        "pt": "Rancor... Me... de rancor...",
+        "es": "Rencor… Dame… Rencor…"
+    },
+    "jAnu": {
+        "en": "[Wandering Grudge]\nGr.... gr.. give me that powerful grudge,. I will enchant your helm for you..\n^FF0000You can upgrade helm by giving Pieces of Grudge.^000000",
+        "pt": "[Espectro Vagante]\nGr.... gr... me dê esse poderoso rancor,. Eu encantarei seu elmo para você.\n^FF0000Você pode aprimorar o elmo dando Pieces of Grudge.^000000",
+        "es": "[Rencor errante]\nGrrr… Grrr… Dame ese rencor poderoso… Te encantaré el yelmo…\n^FF0000Puedes mejorar el yelmo si entregas Piezas de rencor^000000"
+    },
+    "jQnu": {
+        "en": "[Wandering Grudge]\nYou want power...? Then you need old helms first....\n^FF0000Old Rune Circlet, Mitra, Driver Band(Red), Driver Band(Yellow), Shadow Handicraft, Minstrel Song Hat,\n^FF0000Midas Whisper, Magic Stone Hat, Blazing Soul, Wins Whisper, Dying Swan, Circlet of Bone, Protection of Crown,\n^FF0000and Camo Rabithood can be enchanted.",
+        "pt": "[Espectro Vagante]\nVocê quer poder...? Então, primeiro você precisa de elmos antigos....\n{Circuito da antiga runa, Mitra, Faixa do condutor (vermelha), Faixa do condutor (amarela), Artesanato das sombras, Chapéu da canção do menestrel,\n{Sussurro de Midas, Chapéu de Pedra Mágica, Alma Ardente, Sussurro de Vitórias, Cisne Moribundo, Circulo de Ossos, Proteção da Coroa,\n{e Camo Rabithood podem ser encantados.",
+        "es": "[Rencor errante]\n¿Quieres poder…? Entonces primero necesitas yelmos antiguos…\nSe pueden encantar: ^FF0000Antigua diadema rúnica, Mitra, Vincha de conductor (roja), Vincha de conductor (amarilla), Artesanía sombría, Sombrero de la canción del Ministril,\n^FF0000Susurro de Midas, Sombrero de piedra mágica, Alma llameante, Susurro del viento, Cisne agonizante, Diadema ósea, Casquete de protección,\n^FF0000y Capucha camuflada de conejito."
+    },
+    "jgnu": {
+        "en": "[Wandering Grudge]\nIf.. you bring me grudge... I will give you strength.....\n^FF0000You need Pieces of Grudge in order to enchant.^000000",
+        "pt": "[Espectro Vagante]\nSe... você me trouxer rancor... eu lhe darei força.....\n^FF0000Você precisa de Pieces of Grudge para encantar.^000000",
+        "es": "[Rencor errante]\nSi me… traes rencor… Te daré fuerza…\n^FF0000Para poder encantar, necesitas Piezas de rencor.^000000"
+    },
+    "jwnu": {
+        "en": "[Wandering Grudge]\nYGr.. you will need a lot of pieces for a huge strength...\n^FF00004, 3, 2 will be enchanted in order. First slot enchant requires 10 pieces of grudge.^000000",
+        "pt": "[Espectro Vagante]\nYGr... você precisará de muitas peças para ter uma força enorme...\n^FF00004, 3, 2 serão encantados na ordem. O encantamento do primeiro slot requer 10 peças de rancor.^000000",
+        "es": "[Rencor errante]\nGrr… Necesitarás muchas piezas para conseguir una fuerza enorme…\n^FF00004, 3, 2 se encantarán en orden. Para el encantamiento de la primera ranura se necesitan 10 Piezas de rencor.^000000"
+    },
+    "kAnu": {
+        "en": "[Wandering Grudge]\nYou can upgrade enchants as it gets more powerful....\n^FF00002nd upgrade: 20 pieces, 3rd: 40 pieces\n^FF0000Next enchants will require 50, 70, 100, 150, 250, 500, 1000 pieces of grudge.",
+        "pt": "[Espectro Vagante]\nVocê pode aprimorar os encantamentos à medida que ele se torna mais poderoso....\n^FF00002º upgrade: 20 peças, 3º: 40 peças\n^FF0000Os próximos encantamentos exigirão 50, 70, 100, 150, 250, 500, 1000 peças de rancor.",
+        "es": "[Rencor errante]\nA medida que se vuelven más poderosos, puedes mejorar los encantamientos…\n^FF0000Segunda mejora: 20 piezas, tercera: 40 piezas\n^FF0000Los próximos encantamientos requerirán 50, 70, 100, 150, 250, 500, 1000 piezas de rencor."
+    },
+    "kQnu": {
+        "en": "so... confused.....",
+        "pt": "muito... confuso.....",
+        "es": "Qué… confuso…"
+    },
+    "kgnu": {
+        "en": "[Wandering Grudge]\nso.. confused... I dont see any helms..\n^FF0000You need to equip your helm to enchant.^000000",
+        "pt": "[Espectro Vagante]\nEntão... confuso... Não estou vendo nenhum elmo...\n^FF0000Você precisa equipar seu elmo para encantar.^000000",
+        "es": "[Rencor errante]\nQué… confuso… No veo ningún yelmo…\n^FF0000Para encantarlo, necesitas equipar el yelmo.^000000"
+    },
+    "kwnu": {
+        "en": "^FF0000Random option is checked. It cannot be proceeded..^000000",
+        "pt": "^FF0000Este item possui Bônus Aleatórios. Não pode ser procedida...^000000",
+        "es": "^FF0000Está seleccionada la opción aleatoria. No se puede proceder.^000000"
+    },
+    "lAnu": {
+        "en": "Destroy it..",
+        "pt": "Destrua-o.",
+        "es": "Destrúyelo."
+    },
+    "lQnu": {
+        "en": "[Wandering Grudge]\nFunny.... You want that detroyed...?\n^FF0000You only can enchant old helms using the Pieces of Grudge.^000000",
+        "pt": "[Espectro Vagante]\nFunny.... Você quer que isso seja destruído...?\n{Você só pode encantar elmos antigos usando as Pieces of Grudge.",
+        "es": "[Rencor errante]\nQué raro… ¿Quieres destruir esa cosa…?\n^FF0000Con las Piezas de rencor solo se pueden encantar yelmos antiguos.^000000"
+    },
+    "lgnu": {
+        "en": "Funny..",
+        "pt": "Engraçado.",
+        "es": "Qué raro…"
+    },
+    "lwnu": {
+        "en": "[Wandering Grudge]\nYour helm... doesnt have any strength.....\n^FF0000Helm isnt enchanted. Cannot be proceeded.^000000",
+        "pt": "[Espectro Vagante]\nSeu elmo... não tem nenhuma força.....\n^FF0000O elmo não está encantado. Não pode ser usado.^000000",
+        "es": "[Rencor errante]\nTu yelmo… No tiene fuerza alguna…\n^FF0000El yelmo no está encantado. No se puede proceder.^000000"
+    },
+    "mAnu": {
+        "en": "I can't wait....",
+        "pt": "Mal posso esperar....",
+        "es": "No puedo esperar…"
+    },
+    "mQnu": {
+        "en": "[Wandering Grudge]\nWell... don't you like it.... bring 10 pieces, I will reset it.. for you...\n^FF0000Reset requires 10 pieces.\n^FF0000Every enchant will reset except the equipment's refine rate and 1st slot card.^000000",
+        "pt": "[Espectro Vagante]\nWell... don't you like it.... traga 10 peças, eu vou reiniciá-lo... para você...\n{A reinicialização requer 10 peças.\n{Todos os encantamentos serão redefinidos, exceto a taxa de refino do equipamento e a carta do primeiro slot.",
+        "es": "[Rencor errante]\nBueno… Si no te gusta… Tráeme 10 piezas y te lo restableceré…\n^FF0000Para restablecer algo se necesitan 10 piezas.\n^FF0000Se restablecerán todos los encantamientos, excepto el índice de refinamiento del equipamiento y la carta de la primeraranura.^000000"
+    },
+    "mgnu": {
+        "en": "Quit.",
+        "pt": "Desistir.",
+        "es": "Salir."
+    },
+    "mwnu": {
+        "en": "Pay.",
+        "pt": "Pagamento.",
+        "es": "Pagar."
+    },
+    "nAnu": {
+        "en": "Whenever...",
+        "pt": "Sempre que...",
+        "es": "Como digas…"
+    },
+    "nQnu": {
+        "en": "[Wandering Grudge]\nI will wait...",
+        "pt": "[Espectro Vagante]\nEu vou esperar...",
+        "es": "[Rencor errante]\nEsperaré…"
+    },
+    "ngnu": {
+        "en": "Not good..",
+        "pt": "Não é bom...",
+        "es": "Nada bueno…"
+    },
+    "nwnu": {
+        "en": "[Wandering Grudge]\nYou need to bring 10 pieces...\n^FF0000Reset requires 10 pieces of grudge.\n^FF0000Please check your inventory.",
+        "pt": "[Espectro Vagante]\nVocê precisa trazer 10 peças...\n^FF0000A reinicialização requer 10 peças de rancor.\n^FF0000Por favor, verifique seu inventário.",
+        "es": "[Rencor errante]\nDebes traer 10 piezas…\n^FF0000Para restablecer algo se necesitan 10 piezas de rencor.\n^FF0000Revisa tu inventario."
+    },
+    "oAnu": {
+        "en": "Gr...",
+        "pt": "Gr...",
+        "es": "Grrr…"
+    },
+    "oQnu": {
+        "en": "[Wandering Grudge]\nOk!... I will reset your old helm...",
+        "pt": "[Espectro Vagante]\nOk!... Vou reiniciar seu antigo leme...",
+        "es": "[Rencor errante]\n¡Bueno…! Restableceré tu antiguo yelmo…"
+    },
+    "ognu": {
+        "en": "[Wandering Grudge]\nGr... Gr... kakaha..",
+        "pt": "[Espectro Vagante]\nGr... Gr... kakaha...",
+        "es": "[Rencor errante]\nGrrr… Grrr… Ja, ja, ja…"
+    },
+    "ownu": {
+        "en": "ERROR <Enchant Menu>\nError occurred. Please contact cs team if it persists.",
+        "pt": "ERRO <Enchant Menu>\nOcorreu um erro. Entre em contato com a equipe do cs se o problema persistir.",
+        "es": "ERROR <Enchant Menu>\nSe produjo un error. Si el problema persiste, ponte en contacto con el equipo de Atención al cliente."
+    },
+    "pAnu": {
+        "en": "ERROR <Check Enchant>\nPlease report to CS team is an error persists.",
+        "pt": "ERRO <Check Enchant>\nInforme à equipe de CS se o erro persistir.",
+        "es": "ERROR <Check Enchant>\nSi el error persiste, ponte en contacto con el equipo de Atención al cliente."
+    },
+    "pQnu": {
+        "en": "Go for it....",
+        "pt": "Vá em frente....",
+        "es": "Adelante…"
+    },
+    "pgnu": {
+        "en": "[Wandering Grudge]\nCannot be upgraded anymore. Please reset it...\n^FF0000Mettle, Magic, Acute, Master Archer, Adamantine, Affection, Tenacity\n^FF0000You can only upgrade enchants when it's enchanted.",
+        "pt": "[Espectro Vagante]\nNão pode mais ser atualizado. Por favor, reinicie-o...\n^FF0000Chaleira, Magia, Agudo, Mestre Arqueiro, Adamantina, Afeição, Tenacidade\n^FF0000Você só pode aprimorar os encantamentos quando eles estiverem encantados.",
+        "es": "[Rencor errante]\nYa no se puede actualizar. Por favor, restablécelo…\n^FF0000Fortaleza, Magia, Perspicacia, Maestro arquero, Adamantino, Afecto, Tenacidad.\n^FF0000Solo se pueden mejorar los encantamientos cuando ya haya un encantamiento previo."
+    },
+    "pwnu": {
+        "en": "ERROR <Enchant>\nPlease report to CS team is an error persists.",
+        "pt": "ERRO <Enchant>\nInforme à equipe de CS se o erro persistir.",
+        "es": "ERROR <Enchant>\nSi el error persiste, ponte en contacto con el equipo de Atención al cliente."
+    },
+    "qAnu": {
+        "en": "[Wandering Grudge]\nShall.... we.... start.....\n^FF00004th slot will be enchanted. One of 6 options will be randomly enchanted.^000000",
+        "pt": "[Espectro Vagante]\nShall.... we.... start.....\n^FF0000O quarto slot será encantado. Uma das 6 opções será encantada aleatoriamente.^000000",
+        "es": "[Rencor errante]\n¿Comenzamos…?\n^FF0000Se encantará la cuartaranura. Se encantará una de las 6 opciones al azar.^000000"
+    },
+    "qQnu": {
+        "en": "[Wandering Grudge]\nGrrr. do you like it?...?\n^FF00003rd slot will be enchanted. One of 6 options will be randomly enchanted.^000000",
+        "pt": "[Espectro Vagante]\nGrrr. Você gostou?...?\n^FF0000O terceiro slot será encantado. Uma das 6 opções será encantada aleatoriamente.^000000",
+        "es": "[Rencor errante]\nGrrr… ¿Te gusta…?\n^FF0000Se encantará la terceraranura. Se encantará una de las 6 opciones al azar.^000000"
+    },
+    "qgnu": {
+        "en": "[Wandering Grudge]\nGrrrrrrrrr... ....\n^FF00002nd slot will be enchanted..\n^FF0000Only 6 special options can be upgraded.",
+        "pt": "[Espectro Vagante]\nGrrrrrrrrrrr... ....\n^FF0000O segundo slot será encantado.\n^FF0000Apenas 6 opções especiais podem ser atualizadas.",
+        "es": "[Rencor errante]\nGrrrrrrr…\n^FF0000Se encantará la segundaranura.\n^FF0000Solo se pueden mejorar 6 opciones especiales."
+    },
+    "qwnu": {
+        "en": "[Wandering Grudge]\nGrr.. We are not friends yet....",
+        "pt": "[Espectro Vagante]\nGrr... Ainda não somos amigos....",
+        "es": "[Rencor errante]\nGrrr… Aún no somos amigos…"
+    },
+    "rAnu": {
+        "en": "Let's go back...",
+        "pt": "Vamos voltar...",
+        "es": "Volvamos…"
+    },
+    "rQnu": {
+        "en": "[Wandering Grudge]\nHuman..? aren't you bored....",
+        "pt": "[Espectro Vagante]\nhumano... você não está entediado....",
+        "es": "[Rencor errante]\n¿Ser humano…? No te aburres…"
+    },
+    "rgnu": {
+        "en": "[Wandering Grudge]\nLucky.... Good luck.....",
+        "pt": "[Espectro Vagante]\nSorte.... Boa sorte.....",
+        "es": "[Rencor errante]\nQué suerte… Buena suerte…"
+    },
+    "rwnu": {
+        "en": "[Wandering Grudge]\n3rd upgrade..? You will lose if you fail...",
+        "pt": "[Espectro Vagante]\n3ª atualização...? Você perderá se falhar...",
+        "es": "[Rencor errante]\n¿Terceraactualización…? Si fallas, perderás…"
+    },
+    "sAnu": {
+        "en": "[Wandering Grudge]\n4th...? You will lose if you fail....",
+        "pt": "[Espectro Vagante]\n4º...? Você perderá se falhar....",
+        "es": "[Rencor errante]\n¿Cuarta…? Si fallas, perderás…"
+    },
+    "sQnu": {
+        "en": "[Wandering Grudge]\n5th....? Are you ready for the great power? Can't wait to see you fail....",
+        "pt": "[Espectro Vagante]\n5th....? Você está pronto para o grande poder? Mal posso esperar para vê-lo falhar....",
+        "es": "[Rencor errante]\n¿Quinta…? ¿Todo listo para adquirir el gran poder? Me muero de ganas de verte fallar…"
+    },
+    "sgnu": {
+        "en": "[Wandering Grudge]\n6th....? Are you ready for the great power? Can't wait to see you fail..",
+        "pt": "[Espectro Vagante]\n6ª....? Você está pronto para o grande poder? Mal posso esperar para ver você falhar...",
+        "es": "[Rencor errante]\n¿Sexta…? ¿Todo listo para adquirir el gran poder? Me muero de ganas de verte fallar…"
+    },
+    "swnu": {
+        "en": "[Wandering Grudge]\n7th....? Are you ready for the great power? What a greedy..",
+        "pt": "[Espectro Vagante]\n7th....? Você está pronto para o grande poder? Que ganância...",
+        "es": "[Rencor errante]\n¿Séptima…? ¿Todo listo para adquirir el gran poder? Cuánta codicia…"
+    },
+    "tAnu": {
+        "en": "[Wandering Grudge]\n8th....? Are you ready for the great power? What a greedy....",
+        "pt": "[Espectro Vagante]\n8ª....? Você está pronto para o grande poder? Que ganância....",
+        "es": "[Rencor errante]\n¿Octava…? ¿Todo listo para adquirir el gran poder? Cuánta codicia…"
+    },
+    "tQnu": {
+        "en": "[Wandering Grudge]\n9th....? Are you kidding me.....? Are you ready to reach its limit....",
+        "pt": "[Espectro Vagante]\n9....? Are you kidding me.....? Você está pronto para atingir seu limite....",
+        "es": "[Rencor errante]\n¿Novena…? ¿Es una broma…? ¿Todo listo para alcanzar el límite…?"
+    },
+    "tgnu": {
+        "en": "[Wandering Grudge]\nGr....... We are almost there....\nI will test if you are ready for its end...",
+        "pt": "[Espectro Vagante]\nGr....... Estamos quase lá....\nVou testar se você está pronto para o fim...",
+        "es": "[Rencor errante]\nGrrr… Ya casi llegamos…\nTe pondré a prueba para ver si puedes afrontar el final…"
+    },
+    "twnu": {
+        "en": "ERROR <Enchant Count>\nPlease report to CS team is an error persists.",
+        "pt": "ERRO <contagem de encantamento>\nSe o erro persistir, informe a equipe de CS.",
+        "es": "ERROR <Enchant Count>\nSi el error persiste, ponte en contacto con el equipo de Atención al cliente."
+    },
+    "uAnu": {
+        "en": "[Wandering Grudge]\nFirst, let me check if you have enough pieces...",
+        "pt": "[Espectro Vagante]\nPrimeiro, deixe-me verificar se você tem peças suficientes...",
+        "es": "[Rencor errante]\nPrimero, déjame comprobar si tienes las piezas suficientes…"
+    },
+    "uQnu": {
+        "en": "[Wandering Grudge]\nI need...{0}pieces of grudge...gr...\n^FF0000Enchant requires {0} pieces of grudge.^000000",
+        "pt": "[Espectro Vagante]\nPreciso de... {0}pedaços de rancor... gr...\n^FF0000O encantamento requer {0} pedaços de rancor.^000000",
+        "es": "[Rencor errante]\nNecesito… {0}Piezas de rencor… Grrr…\n^FF0000Para el encantamiento se necesitan {0}Piezas de rencor.^000000"
+    },
+    "ugnu": {
+        "en": "pay",
+        "pt": "pagar",
+        "es": "Pagar."
+    },
+    "uwnu": {
+        "en": "do not pay",
+        "pt": "não pagar",
+        "es": "No pagar."
+    },
+    "vAnu": {
+        "en": "[Wandering Grudge]\ngr.. you don't have enough...\n^FF0000Enchant requires {0}pieces of grudge.\n^FF0000Please check your inventory.",
+        "pt": "[Espectro Vagante]\ngr... você não tem o suficiente...\n^FF0000O encantamento requer {0}peças de rancor.\n^FF0000Por favor, verifique seu inventário.",
+        "es": "[Rencor errante]\nGrrr… No tienes suficientes…\n^FF0000Para el encantamiento se necesitan {0}Piezas de rencor.\n^FF0000Revisa tu inventario."
+    },
+    "vQnu": {
+        "en": "[Wandering Grudge]\ngr.. you are not ready for it...",
+        "pt": "[Espectro Vagante]\ngr... você não está preparado para isso...",
+        "es": "[Rencor errante]\nGrrr… Aún no tienes todo listo…"
+    },
+    "vgnu": {
+        "en": "[Wandering Grudge]\ngrrrr this power.......\n^FF0000Equipment's refine rate and card doesn't change. But! enchant level can be downgraded.^000000",
+        "pt": "[Espectro Vagante]\ngrrrr esse poder.......\n^FF0000A taxa de refino e a carta do equipamento não mudam. Mas o nível de encantamento pode ser rebaixado.^000000",
+        "es": "[Rencor errante]\nGrrr, este poder…\n^FF0000El índice de refinamiento y la carta del equipamiento no cambian. Pero se puede degradar el nivel del encantamiento.^000000"
+    },
+    "vwnu": {
+        "en": "Enchant.",
+        "pt": "Encantar.",
+        "es": "Encantar."
+    },
+    "wAnu": {
+        "en": "Cancel.",
+        "pt": "Cancelar",
+        "es": "Cancelar."
+    },
+    "wQnu": {
+        "en": "[Wandering Grudge]\nGr... you are not ready...",
+        "pt": "[Espectro Vagante]\nGr... você não está pronto...",
+        "es": "[Rencor errante]\nGrrr… No tienes todo listo…"
+    },
+    "wgnu": {
+        "en": "[Wandering Grudge]\nGr.... Failed... You are lucky...",
+        "pt": "[Espectro Vagante]\nGr.... Fracassou... Você tem sorte...",
+        "es": "[Rencor errante]\nGrrr… Falló… Estás de suerte…"
+    },
+    "wwnu": {
+        "en": "[Wandering Grudge]\nGrr.... Aaawk.... Failed.... power is gone..\n^FF0000Enchant is downgraded.^000000",
+        "pt": "[Espectro Vagante]\nGrr.... Aaawk.... Failed.... poder se foi...\n^FF0000O encantamento foi rebaixado.^000000",
+        "es": "[Rencor errante]\nGrrr… Puaj… Falló… El poder desapareció…\n^FF0000Se degradó el encantamiento.^000000"
+    },
+    "xAnu": {
+        "en": "[Wandering Grudge]\nGr.... can feel so much power.\n^FF0000Gratz. Enchant succeeded.^000000",
+        "pt": "[Espectro Vagante]\nGr.... pode sentir tanto poder.\n^FF0000Gratz. O encantamento foi bem-sucedido.^000000",
+        "es": "[Rencor errante]\nGrrr… Siento mucho poder.\n^FF0000Felicidades. El encantamiento tuvo éxito.^000000"
+    },
+    "xQnu": {
+        "en": "GM Check-Add random option check.",
+        "pt": "Verificação GM - Adicione uma verificação de opção aleatória.",
+        "es": "Revisión del agregado del control de opciones aleatorias de GM."
+    },
+    "xgnu": {
+        "en": "Please try again after installing a special item.",
+        "pt": "Tente novamente depois de instalar um item especial.",
+        "es": "Vuelve a intentarlo después de que hayas instalado un objeto especial."
+    },
+    "xwnu": {
+        "en": "[Dead Enchant Helper]\nCheckingif old helm is equipped. There's no reset.",
+        "pt": "[Espectro Vagante (admin)]\nVerificação se o elmo antigo está equipado. Não há reinicialização.",
+        "es": "[Ayudante de encantamiento muerto]\nComprobando que el yelmo antiguo esté equipado. No hay restablecimiento."
+    },
+    "yAnu": {
+        "en": "[Dead Enchant Helper]\nPlease equip old helm first.",
+        "pt": "[Espectro Vagante (admin)]\nPor favor, equipe primeiro o elmo antigo.",
+        "es": "[Ayudante de encantamiento muerto]\nPrimero debes equipar el yelmo antiguo."
+    },
+    "yQnu": {
+        "en": "^FF0000Random option is checked. It cannot be proceeded^000000",
+        "pt": "^FF0000Este item possui Bônus Aleatórios. Não é possível prosseguir^000000",
+        "es": "^FF0000Está seleccionada la opción aleatoria. No se puede proceder.^000000"
+    },
+    "ygnu": {
+        "en": "[Dead Enchant Helper]\nIt's not the old helm that you are wearing.",
+        "pt": "[Espectro Vagante (admin)]\nNão é o elmo antigo que você está usando.",
+        "es": "[Ayudante de encantamiento muerto]\nNo tienes puesto el yelmo antiguo."
+    },
+    "ywnu": {
+        "en": "[Dead Enchant Helper]\nPlease select the enchant option for slot 4",
+        "pt": "[Espectro Vagante (admin)]\nSelecione a opção de encantamento para o espaço 4",
+        "es": "[Ayudante de encantamiento muerto]\nSelecciona la opción de encantamiento para la cuartaranura."
+    },
+    "zAnu": {
+        "en": "STR",
+        "pt": "FOR",
+        "es": "FUE"
+    },
+    "zQnu": {
+        "en": "INT",
+        "pt": "INT",
+        "es": "INT"
+    },
+    "zgnu": {
+        "en": "DEX",
+        "pt": "DES",
+        "es": "DES"
+    },
+    "zwnu": {
+        "en": "AGI",
+        "pt": "AGI",
+        "es": "AGI"
+    },
+    "0Anu": {
+        "en": "VIT",
+        "pt": "VIT",
+        "es": "VIT"
+    },
+    "0Qnu": {
+        "en": "LUK",
+        "pt": "LUK",
+        "es": "SUE"
+    },
+    "0gnu": {
+        "en": "+1",
+        "pt": "1",
+        "es": "+1"
+    },
+    "0wnu": {
+        "en": "+2",
+        "pt": "2",
+        "es": "+2"
+    },
+    "1Anu": {
+        "en": "+3",
+        "pt": "3",
+        "es": "+3"
+    },
+    "1Qnu": {
+        "en": "+4",
+        "pt": "4",
+        "es": "+4"
+    },
+    "1gnu": {
+        "en": "+5",
+        "pt": "5",
+        "es": "+5"
+    },
+    "1wnu": {
+        "en": "[Dead Enchant Helper]\nPlease select the enchant option for slot 3",
+        "pt": "[Espectro Vagante (admin)]\nSelecione a opção de encantamento para o espaço 3",
+        "es": "[Ayudante de encantamiento muerto]\nSelecciona la opción de encantamiento para la terceraranura."
+    },
+    "2Anu": {
+        "en": "[Dead Enchant Helper]\nPlease select the enchant option for slot 2",
+        "pt": "[Espectro Vagante (admin)]\nSelecione a opção de encantamento para o espaço 2",
+        "es": "[Ayudante de encantamiento muerto]\nSelecciona la opción de encantamiento para la segundaranura."
+    },
+    "2Qnu": {
+        "en": "Mettle",
+        "pt": "Determinação",
+        "es": "Fortaleza"
+    },
+    "2gnu": {
+        "en": "Magic",
+        "pt": "Mágica",
+        "es": "Magia"
+    },
+    "2wnu": {
+        "en": "Acute",
+        "pt": "Aguda",
+        "es": "Perspicacia"
+    },
+    "3Anu": {
+        "en": "Master Archer",
+        "pt": "Mestre Arqueiro",
+        "es": "Maestro arquero"
+    },
+    "3Qnu": {
+        "en": "Adamantine",
+        "pt": "Adamantina",
+        "es": "Adamantino"
+    },
+    "3gnu": {
+        "en": "Affection",
+        "pt": "Afeto",
+        "es": "Afecto"
+    },
+    "3wnu": {
+        "en": "Tenacity",
+        "pt": "Tenacidade",
+        "es": "Tenacidad"
+    },
+    "4Anu": {
+        "en": "1Lv",
+        "pt": "1Nv",
+        "es": "nivel 1"
+    },
+    "4Qnu": {
+        "en": "2Lv",
+        "pt": "2Nv",
+        "es": "nivel 2"
+    },
+    "4gnu": {
+        "en": "3Lv",
+        "pt": "3Nv",
+        "es": "nivel 3"
+    },
+    "4wnu": {
+        "en": "4Lv",
+        "pt": "4Nv",
+        "es": "nivel 4"
+    },
+    "5Anu": {
+        "en": "5Lv",
+        "pt": "5Nv",
+        "es": "nivel 5"
+    },
+    "5Qnu": {
+        "en": "6Lv",
+        "pt": "6Nv",
+        "es": "nivel 6"
+    },
+    "5gnu": {
+        "en": "7Lv",
+        "pt": "7Nv",
+        "es": "nivel 7"
+    },
+    "5wnu": {
+        "en": "8Lv",
+        "pt": "8Nv",
+        "es": "nivel 8"
+    },
+    "6Anu": {
+        "en": "9Lv",
+        "pt": "9Nv",
+        "es": "nivel 9"
+    },
+    "6Qnu": {
+        "en": "10Lv",
+        "pt": "10Nv",
+        "es": "nivel 10"
+    },
+    "6gnu": {
+        "en": "[Dead Enchant Helper]\nsucceeded.",
+        "pt": "[Dead Enchant Helper]\nconseguiu.",
+        "es": "[Ayudante de encantamiento muerto]\ntuvo éxito."
+    },
+    "6wnu": {
+        "en": "Grudge of Silence",
+        "pt": "Rancor do Silêncio",
+        "es": "El rencor del silencio"
+    },
+    "7Anu": {
+        "en": "[Grudge of Silence]\n. . . . . .",
+        "pt": "[Rancor do Silêncio]\n. . . . . .",
+        "es": "[Rencor del silencio]\n. . . . . ."
+    },
+    "7Qnu": {
+        "en": "^FF0000Grudge doesnt have any interests.^000000",
+        "pt": "^FF0000O Rancor não tem nenhum interesse.^000000",
+        "es": "^FF0000El rencor no tiene ningún interés.^000000"
+    },
+    "7gnu": {
+        "en": "Give 3 Souls of Swordman.",
+        "pt": "Dê 3 Souls of Espadachim.",
+        "es": "Entregar 3 Almas de Espadachín."
+    },
+    "7wnu": {
+        "en": "^777777Not enough materials^000000",
+        "pt": "^777777Materiais insuficientes^000000",
+        "es": "^777777No hay suficientes materiales.^000000"
+    },
+    "8Anu": {
+        "en": "Give 3 Souls of Merchant.",
+        "pt": "Dê 3 Souls of Mercador.",
+        "es": "Entregar 3 Almas de Comerciante."
+    },
+    "8Qnu": {
+        "en": "^777777Not enough materials.^000000",
+        "pt": "^777777Não há materiais suficientes. ^000000",
+        "es": "^777777No hay suficientes materiales.^000000"
+    },
+    "8gnu": {
+        "en": "Give 3 Souls of Thief.",
+        "pt": "Dê 3 Souls of Thief.",
+        "es": "Entregar 3 Almas de Ladrón."
+    },
+    "8wnu": {
+        "en": "^777777Not enough materials.^000000",
+        "pt": "^777777Não há materiais suficientes. ^000000",
+        "es": "^777777No hay suficientes materiales.^000000"
+    },
+    "9Anu": {
+        "en": "Give 3 Souls of Magician.",
+        "pt": "Dê 3 Almas de Mago.",
+        "es": "Entregar 3 Almas de Mago."
+    },
+    "9Qnu": {
+        "en": "^777777Not enough materials.^000000",
+        "pt": "^777777Não há materiais suficientes. ^000000",
+        "es": "^777777No hay suficientes materiales.^000000"
+    },
+    "9gnu": {
+        "en": "Give 3 Souls of Archer.",
+        "pt": "Dê 3 Souls of Arqueiro.",
+        "es": "Entregar 3 Almas de Arquero."
+    },
+    "9wnu": {
+        "en": "^777777Not enough materials.^000000",
+        "pt": "^777777Não há materiais suficientes. ^000000",
+        "es": "^777777No hay suficientes materiales.^000000"
+    },
+    "+Anu": {
+        "en": "Give 3 Souls of Acolyte.",
+        "pt": "Dê 3 almas de Acolyte.",
+        "es": "Entregar 3 Almas de Acólito."
+    },
+    "+Qnu": {
+        "en": "^777777Not enough materials.^000000",
+        "pt": "^777777Não há materiais suficientes. ^000000",
+        "es": "^777777No hay suficientes materiales.^000000"
+    },
+    "+gnu": {
+        "en": "[Grudge of Silence]\n. . . . . .!",
+        "pt": "[Rancor do Silêncio]\n. . . . . .!",
+        "es": "[Rencor del silencio]\n. . . . . .!"
+    },
+    "+wnu": {
+        "en": "^FF0000You can receive Chest of Death by giving 3 same Souls.^000000",
+        "pt": "^FF0000Você pode receber o Baú da Morte ao dar 3 almas iguais.^000000",
+        "es": "^FF0000Puedes recibir el Cofre de la Muerte entregando 3 Almas iguales.^000000"
+    },
+    "/Anu": {
+        "en": "[Grudge of Silence]\n!. . . . . .",
+        "pt": "[Rancor do Silêncio]\n!. . . . . .",
+        "es": "[Rencor del silencio]\n!. . . . . ."
+    },
+    "/Qnu": {
+        "en": "^FF0000You need 3 same souls for Chest of Death.^000000",
+        "pt": "^FF0000Você precisa de 3 almas iguais para o Baú da Morte.^000000",
+        "es": "^FF0000Necesitas 3 almas iguales para el Cofre de la Muerte.^000000"
+    },
+    "/gnu": {
+        "en": "^FF0000You received Chest of Death. Do you want to trade more?^000000",
+        "pt": "^FF0000Você recebeu o Baú da Morte. Deseja trocar mais?^000000",
+        "es": "^FF0000Recibiste el Cofre de la Muerte. ¿Quieres canjear más?^000000"
+    },
+    "/wnu": {
+        "en": "Yes.",
+        "pt": "Sim.",
+        "es": "Sí."
+    },
+    "AAru": {
+        "en": "No.",
+        "pt": "Não.",
+        "es": "No."
+    },
+    "AQru": {
+        "en": "Expert Adventurer",
+        "pt": "Aventureiro experiente",
+        "es": "Aventurero experto"
+    },
+    "Agru": {
+        "en": "Trade 1 Will of Warrior for 200 Particles of Energy.",
+        "pt": "Troque 1 Vontade do Guerreiro por 200 Partículas de Energia.",
+        "es": "Canjea 1 Voluntad de guerrero por 200 Fragmentos de energía."
+    },
+    "Awru": {
+        "en": "Trade 1 Blood Thirst for 200 Particles of Energy.",
+        "pt": "Troque 1 Sede de Sangue por 200 Partículas de Energia.",
+        "es": "Canjea 1 Sed de sangre por 200 Fragmentos de energía."
+    },
+    "BAru": {
+        "en": "Trade 1 Ghost Chill for 300 Particles of Energy.",
+        "pt": "Troque 1 Ghost Chill por 300 Partículas de Energia.",
+        "es": "Canjea 1 Escalofrío fantasmal por 300 Fragmentos de energía."
+    },
+    "BQru": {
+        "en": "Aw.... Why is it so hard to find particles?",
+        "pt": "Aw.... Por que é tão difícil encontrar partículas?",
+        "es": "Ay… ¿Por qué es tan difícil encontrar fragmentos?"
+    },
+    "Bgru": {
+        "en": "Will of Warrior (200 Particles of Energy)",
+        "pt": "Vontade do Guerreiro (200 Partículas de Energia)",
+        "es": "Voluntad de guerrero (200 Fragmentos de energía)"
+    },
+    "Bwru": {
+        "en": "^777777Will of Warrior (200 Particles of Energy)^000000",
+        "pt": "^777777Will of Warrior (200 Particles of Energy)^000000",
+        "es": "^777777Voluntad de guerrero (200 Fragmentos de energía)^000000"
+    },
+    "CAru": {
+        "en": "Blood Thirst (200 Particles of Energy)",
+        "pt": "Sede de sangue (200 partículas de energia)",
+        "es": "Sed de sangre (200 Fragmentos de energía)"
+    },
+    "CQru": {
+        "en": "^777777Blood Thirst (200 Particles of Energy)^000000",
+        "pt": "^777777Sede de Sangue (200 Partículas de Energia)^000000",
+        "es": "^777777Sed de sangre (200 Fragmentos de energía)^000000"
+    },
+    "Cgru": {
+        "en": "Ghost Chill  (300 Particles of Energy)",
+        "pt": "Resfriamento Fantasma (300 Partículas de Energia)",
+        "es": "Escalofrío fantasmal (300 Fragmentos de energía)"
+    },
+    "Cwru": {
+        "en": "^777777Ghost Chill (300 Particles of Energy)^000000",
+        "pt": "^777777Ghost Chill (300 Particles of Energy)^000000",
+        "es": "^777777Escalofrío fantasmal (300 Fragmentos de energía)^000000"
+    },
+    "DAru": {
+        "en": "[Expert Adventurer]\nOh! Are you hear to trade some pieces?",
+        "pt": "[Aventureiro especialista]\nOh! Você está disposto a trocar algumas peças?",
+        "es": "[Trotamundos experto]\n¡Ah! ¿Viniste para canjear algunas piezas?"
+    },
+    "DQru": {
+        "en": "Listen first.",
+        "pt": "Ouça primeiro.",
+        "es": "Escucha primero."
+    },
+    "Dgru": {
+        "en": "[Expert Adventurer]\nAre you bored? because I am..",
+        "pt": "[Aventureiro Especialista]\nVocê está entediado? porque eu estou...",
+        "es": "[Trotamundos experto]\n¿Te aburres? Porque yo sí…"
+    },
+    "Dwru": {
+        "en": "[Expert Adventurer]\nWhat happened to our guild master.",
+        "pt": "[Aventureiro especialista]\nO que aconteceu com nosso mestre da guilda.",
+        "es": "[Trotamundos experto]\nLo que le pasó a nuestro maestro del gremio."
+    },
+    "EAru": {
+        "en": "[Expert Adventurer]\n'^1F294DI will make sure that all of our guild members wear Manteaus of Fallen^000000'",
+        "pt": "[Aventureiro Especialista]\nVou me certificar de que todos os membros de nossa guilda usem Manteaus dos Caídos^000000",
+        "es": "[Trotamundos experto]\n^1F294DMe aseguraré de que todos los miembros de nuestro gremio lleven Mantos de los caídos^000000."
+    },
+    "EQru": {
+        "en": "[Expert Adventurer]\nIt's not a piece of equipment that requires one or two materials, and all the guild members are locked up in their raw homes and forced to work.",
+        "pt": "[Aventureiro Especialista]\nNão é uma peça de equipamento que requer um ou dois materiais, e todos os membros da guilda são trancados em suas casas brutas e forçados a trabalhar.",
+        "es": "[Trotamundos experto]\nNo se trata de un equipamiento que requiera uno o dos materiales, y todos los miembros del gremio están encerrados en sus casas y obligados a trabajar."
+    },
+    "Egru": {
+        "en": "[Expert Adventurer]\nIt's the luck of a man that's interesting to come at you, and you've got to get the usual bits and pieces.",
+        "pt": "[Aventureiro experiente]\nÉ a sorte de um homem que é interessante vir até você, e você tem que pegar as partes comuns.",
+        "es": "[Trotamundos experto]\nEs la suerte de un hombre lo que te interesa, y tienes que conseguir las cositas habituales."
+    },
+    "Ewru": {
+        "en": "[Expert Adventurer]\nMy wife sent me to exchange it with people because everything else is piled up.",
+        "pt": "[Aventureiro experiente]\nMinha esposa me enviou para trocá-lo com as pessoas porque todo o resto está empilhado.",
+        "es": "[Trotamundos experto]\nMi esposa me envió a hacer el intercambio con la gente porque todo lo demás está amontonado."
+    },
+    "FAru": {
+        "en": "[Expert Adventurer]\nOf course our guild master said\n'^1F294DNo less than this!!^000000'as he said..",
+        "pt": "[Aventureiro Especialista]\nÉ claro que nosso mestre da guilda disse\n'^1F294DNão menos que isso!!!^000000'como ele disse...",
+        "es": "[Trotamundos experto]\nPor supuesto, nuestro maestro del gremio dijo:\n^1F294D¡Nada menos que esto!^000000 como él dijo…"
+    },
+    "FQru": {
+        "en": "[Expert Adventurer]\nHow hard it was for Boo to stop him from throwing dirt in guildm master's eyes.",
+        "pt": "[Aventureiro Especialista]\nComo foi difícil para Boo impedi-lo de jogar sujeira nos olhos do mestre da guilda.",
+        "es": "[Trotamundos experto]\nQué difícil fue que Boo evitara que le arrojara tierra a los ojos del maestro del gremio."
+    },
+    "Fgru": {
+        "en": "[Expert Adventurer]\nIf they allowed me to change small quantities, I'll be able to trade it a lot quicker. Phew... That's what happened..",
+        "pt": "[Aventureiro especialista]\nSe eles permitirem que eu troque pequenas quantidades, poderei trocá-las muito mais rapidamente. Ufa... Foi isso que aconteceu...",
+        "es": "[Trotamundos experto]\nSi me permitieran canjear cantidades pequeñas, podría hacerlo mucho más rápido. Fiu… Eso es lo que pasó."
+    },
+    "Fwru": {
+        "en": "[Expert Adventurer]\n^330066Will of Warrior 1^000000 ^CC3333can be traded to  200^000000 particles of energy.",
+        "pt": "[Aventureiro Especialista]\n^330066Vontade do Guerreiro 1^000000 ^CC3333pode ser trocado por 200^000000 partículas de energia.",
+        "es": "[Trotamundos experto]\n^330066Voluntad de guerrero 1^000000 ^CC3333puede canjearse por 200^000000Fragmentos de energía."
+    },
+    "GAru": {
+        "en": "[Expert Adventurer]\n^330066Blood Thirst 1^000000 ^CC3333can be traded to  200^000000 particles of energy.",
+        "pt": "[Aventureiro Especialista]\n^330066Sede de Sangue 1^000000 ^CC3333pode ser trocado por 200^000000 partículas de energia.",
+        "es": "[Trotamundos experto]\n^330066Sed de sangre 1^000000 ^CC3333puede canjearse por 200^000000Fragmentos de energía."
+    },
+    "GQru": {
+        "en": "[Expert Adventurer]\n^330066Ghost Chill 1^000000 ^CC3333can be traded to  300^000000 particles of energy.",
+        "pt": "[Aventureiro Especialista]\n^330066Ghost Chill 1^000000 ^CC3333pode ser trocado por 300^000000 partículas de energia.",
+        "es": "[Trotamundos experto]\n^330066Escalofrío fantasmal 1^000000 ^CC3333puede canjearse por 300^000000Fragmentos de energía."
+    },
+    "Ggru": {
+        "en": "Trade.",
+        "pt": "Comércio.",
+        "es": "Comerciar."
+    },
+    "Gwru": {
+        "en": "[Expert Adventurer]\nlol. didn't you want to trade?",
+        "pt": "[Aventureiro Especialista]\nrs. você não queria trocar?",
+        "es": "[Trotamundos experto]\n¿No querías comerciar?"
+    },
+    "HAru": {
+        "en": "[Expert Adventurer]\nSorry. This is an order from guild master. We cannot trade for less than {0} pieces. Sorry.",
+        "pt": "[Aventureiro Especialista]\nDesculpe. Essa é uma ordem do mestre da guilda. Não podemos negociar por menos de {0} peças. Desculpe.",
+        "es": "[Trotamundos experto]\nLo siento. Es una orden del maestro del gremio. No podemos comerciar por menos de {0} piezas. Lo siento."
+    },
+    "HQru": {
+        "en": "[Expert Adventurer]\nKeep trading??",
+        "pt": "[Aventureiro Especialista]\nContinuar negociando??",
+        "es": "[Trotamundos experto]\n¿Deseas seguir comerciando?"
+    },
+    "Hgru": {
+        "en": "[Expert Adventurer]\nThank you! Our guildmaster would love it",
+        "pt": "[Aventureiro especialista]\nObrigado! Nosso mestre da guilda adoraria",
+        "es": "[Trotamundos experto]\n¡Gracias! Le encantaría a nuestro maestro del gremio."
+    },
+    "Hwru": {
+        "en": "Thug",
+        "pt": "Bandido",
+        "es": "Matón"
+    },
+    "IAru": {
+        "en": "Hey!!",
+        "pt": "Ei!!!",
+        "es": "¡¡Oye!!"
+    },
+    "IQru": {
+        "en": "Particles of Energy 1 (Silent Energy Particles 2000)",
+        "pt": "Partículas de Energia 1 (Silent Energy Particles 2000)",
+        "es": "1 Fragmento de energía (2000 Fragmentos de energía silenciosa)"
+    },
+    "Igru": {
+        "en": "^777777Particles of Energy 1 (Silent Energy Particles 200)^000000",
+        "pt": "^777777Partículas de Energia 1 (Partículas de Energia Silenciosa 200)^000000",
+        "es": "^7777771 Fragmento de energía (200 Fragmentos de energía silenciosa)^000000"
+    },
+    "Iwru": {
+        "en": "Particles of Energy 1 (Weak Energy Particles 1000)",
+        "pt": "Partículas de Energia 1 (Partículas de Energia Fraca 1000)",
+        "es": "1 Fragmento de energía (1000 Fragmentos de energía débil)"
+    },
+    "JAru": {
+        "en": "^777777Particles of Energy 1 (Weak Energy Particles 1000)^000000",
+        "pt": "^777777Partículas de Energia 1 (Partículas de Energia Fraca 1000)^000000",
+        "es": "^7777771 Fragmento de energía (1000 Fragmentos de energía débil)^000000"
+    },
+    "JQru": {
+        "en": "Particles of Energy 1 (Unstable Energy Particles 500)",
+        "pt": "Partículas de energia 1 (Partículas de energia instáveis 500)",
+        "es": "1 Fragmentos de energía (500 Fragmentos de energía inestable)"
+    },
+    "Jgru": {
+        "en": "^777777Particles of Energy 1 (Unstable Energy Particles 500)^000000",
+        "pt": "^777777Partículas de energia 1 (Partículas de energia instáveis 500)^000000",
+        "es": "^7777771 Fragmento de energía 1 (500 Fragmentos de energía inestable)^000000"
+    },
+    "Jwru": {
+        "en": "Particles of Energy 1 (Sinister Energy Particles 500)",
+        "pt": "Partículas de Energia 1 (Partículas de Energia Sinistra 500)",
+        "es": "1 Fragmento de energía (500 Fragmentos de energía siniestra)"
+    },
+    "KAru": {
+        "en": "^777777Particles of Energy 1 (Sinister Energy Particles 500)^000000",
+        "pt": "^777777Partículas de Energia 1 (Partículas de Energia Sinistra 500)^000000",
+        "es": "^7777771 Fragmento de energía (500 Fragmentos de energía siniestra)^000000"
+    },
+    "KQru": {
+        "en": "Particles of Energy 1 (Fallen Energy Particles 50)",
+        "pt": "Partículas de energia 1 (Fallen Energy Particles 50)",
+        "es": "1 Fragmento de energía (50 Fragmentos de energía caída)"
+    },
+    "Kgru": {
+        "en": "^777777Particles of Energy 1 (Unstable Energy Particles 500)^000000",
+        "pt": "^777777Partículas de energia 1 (Partículas de energia instáveis 500)^000000",
+        "es": "^7777771 Fragmento de energía (500 Fragmentos de energía inestable)^000000"
+    },
+    "Kwru": {
+        "en": "Pieces of Sentiment 1 (Particles of Energy 50)",
+        "pt": "Pieces of Sentiment 1 (Partículas de Energia 50)",
+        "es": "1 Pieza de sentimiento (50 Fragmentos de energía)"
+    },
+    "LAru": {
+        "en": "^777777Pieces of Sentiment 1 (Particles of Energy 50)^000000",
+        "pt": "^777777Pieces of Sentiment 1 (Particles of Energy 50)^000000",
+        "es": "^7777771 Pieaza de sentimiento (50 Fragmentos de energía)^000000"
+    },
+    "LQru": {
+        "en": "Pieces of Grudge 1 ( (Particles of Energy 666)",
+        "pt": "Pieces of Grudge 1 ( (Partículas de Energia 666)",
+        "es": "1 Pieza de rencor (666 Fragmentos de energía)"
+    },
+    "Lgru": {
+        "en": "^777777Pieces of Grudge 1  (Particles of Energy 666)^000000",
+        "pt": "^777777Pieces of Grudge 1 (Particles of Energy 666)^000000",
+        "es": "^7777771 Pieza de rencor 1 (666 Fragmentos de energía)^000000"
+    },
+    "Lwru": {
+        "en": "[Thug]\nDude, do you have some particles of energy? I can trade you.",
+        "pt": "[Bandido]\nCara, você tem algumas partículas de energia? Posso trocar com você.",
+        "es": "[Matón]\nEy, tú, ¿tienes algunos fragmentos de energía? Puedo comerciar."
+    },
+    "MAru": {
+        "en": "[Thug]\n. . . . . . .",
+        "pt": "[Bandido]\n. . . . . . .",
+        "es": "[Matón]\n. . . . . . ."
+    },
+    "MQru": {
+        "en": "[Thug]\nHm... this is odd?\nPeople usually never listen to me.",
+        "pt": "[Bandido]\nHm... isso é estranho?\nAs pessoas normalmente nunca me ouvem.",
+        "es": "[Matón]\nMmm, qué raro.\nPor lo general, la gente nunca me escucha."
+    },
+    "Mgru": {
+        "en": "[Thug]\nSorry, I got nothing else to day.",
+        "pt": "[Bandido]\nDesculpe, não tenho mais nada para fazer hoje.",
+        "es": "[Matón]\nLo siento, no tengo nada más que decir."
+    },
+    "Mwru": {
+        "en": "[Thug]\nDo you want to trade ^330066Silent Energy Particles 2000^000000 into ^CC3333 pieces for 1 Particle of Energy^000000?",
+        "pt": "[Bandido]\nDeseja trocar ^330066Partículas de Energia Silenciosa 2000^000000 em ^CC3333 pedaços por 1 Partícula de Energia^000000?",
+        "es": "[Matón]\n¿Quieres canjear ^3300662000 Fragmentos de energía silenciosa^000000 por ^CC33331 Fragmento de energía^000000?"
+    },
+    "NAru": {
+        "en": "[Thug]\nDo you want to trade ^330066Weak Energy Particles 1000^000000 into ^CC3333 pieces for 1 Particle of Energy^000000?",
+        "pt": "[Bandido]\nDeseja trocar ^330066Weak Energy Particles 1000^000000 em ^CC3333 pedaços por 1 Partícula de Energia^000000?",
+        "es": "[Matón]\n¿Quieres canjear ^3300661000 Fragmentos de energía débil^000000 por ^CC33331 Fragmento de energía^000000?"
+    },
+    "NQru": {
+        "en": "[Thug]\nDo you want to trade ^330066Unstable Energy Particles 500^000000 into ^CC33331 Particle of Energy^000000?",
+        "pt": "[Bandido]\nDeseja trocar ^330066Partículas de Energia Instável 500^000000 por ^CC33331 Partícula de Energia^000000?",
+        "es": "[Matón]\n¿Quieres canjear ^330066500 Fragmentos de energía débil^000000 por ^CC33331 Fragmento de energía^000000?"
+    },
+    "Ngru": {
+        "en": "[Thug]\nDo you want to trade ^330066Sinister Energy Particles 500^000000 into ^CC33331 Particle of Energy^000000?",
+        "pt": "[Bandido]\nDeseja trocar ^330066Partículas de Energia Sinistra 500^000000 por ^CC33331 Partícula de Energia^000000?",
+        "es": "[Matón]\n¿Quieres canjear ^330066500 Fragmentos de energía siniestra^000000 por ^CC33331 Fragmento de energía^000000?"
+    },
+    "Nwru": {
+        "en": "[Thug]\nDo you want to trade ^330066Fallen Energy Particles 50^000000 into ^CC33331 Particle of Energy^000000?",
+        "pt": "[Bandido]\nDeseja trocar ^330066Partículas de Energia Caídas 50^000000 por ^CC33331 Partícula de Energia^000000?",
+        "es": "[Matón]\n¿Quieres canjear ^33006650 Fragmentos de energía caída^000000 por ^CC33331 Fragmento de energía^000000?"
+    },
+    "OAru": {
+        "en": "[Thug]\nDo you want to trade ^330066Particles of Energy 50^000000 into ^CC3333 1 Pieces of Sentiment^000000?",
+        "pt": "[Bandido]\nDeseja trocar ^330066Particles of Energy 50^000000 por ^CC3333 1 Pieces of Sentiment^000000?",
+        "es": "[Matón]\n¿Quieres canjear ^33006650 Fragmentos de energía^000000 por ^CC33331 Fragmento de sentimiento^000000?"
+    },
+    "OQru": {
+        "en": "[Thug]\nDo you want to trade ^330066Particles of Energy 666^000000 into  ^CC3333 1 Pieces of Grudge^000000?",
+        "pt": "[Bandido]\nDeseja trocar ^330066Particles of Energy 666^000000 por ^CC3333 1 Pieces of Grudge^000000?",
+        "es": "[Matón]\n¿Quieres canjear ^330066666 Fragmentos de energía^000000 por ^CC33331 Pieza de rencor^000000?"
+    },
+    "Ogru": {
+        "en": "[Thug]\nNevermind that.",
+        "pt": "[Não importa.]\nNão importa.",
+        "es": "[Matón]\nNo importa."
+    },
+    "Owru": {
+        "en": "[Thug]\nHey dude, stop.\nI said I will trade that for  {0} pieces.",
+        "pt": "[Bandido]\nEi, cara, pare.\nEu disse que trocaria isso por {0} peças.",
+        "es": "[Matón]\nEh, ya basta.\nDije que canjearía eso por {0} piezas."
+    },
+    "PAru": {
+        "en": "[Thug]\nThank you. Do you want to trade more?",
+        "pt": "[Bandido]\nObrigado. Você quer negociar mais?",
+        "es": "[Matón]\nGracias. ¿Quieres canjear más?"
+    },
+    "PQru": {
+        "en": "[Thug]\nCome back if you want to trade more.",
+        "pt": "[Bandido]\nVolte se quiser negociar mais.",
+        "es": "[Matón]\nRegresa si quieres canjear más."
+    }
+}

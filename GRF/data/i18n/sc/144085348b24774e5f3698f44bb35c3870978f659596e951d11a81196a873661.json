@@ -1,0 +1,547 @@
+{
+    "AFDD": {
+        "en": "This is a state of emergency! Harmful smog is reaching high levels of saturation. Residents of Einbroch must find shelter immediately.",
+        "pt": "Este é um estado de emergência! A poluição nociva está atingindo altos níveis de saturação. Os residentes de Einbroch devem procurar abrigo imediatamente.",
+        "es": "¡Este es un estado de emergencia! El esmog dañino está alcanzando niveles altos de saturación. Quienes residan en Einbroch deben encontrar refugio inmediatamente."
+    },
+    "AVDD": {
+        "en": "Toxic Fog",
+        "pt": "Névoa tóxica",
+        "es": "Niebla tóxica"
+    },
+    "AlDD": {
+        "en": "Red Fog",
+        "pt": "Névoa vermelha",
+        "es": "Niebla roja"
+    },
+    "A1DD": {
+        "en": "Emergency status is now cancelled. Air pollution levels are now within the safety zone.",
+        "pt": "O status de emergência foi cancelado. Os níveis de poluição do ar estão agora dentro da zona de segurança.",
+        "es": "El estado de emergencia queda cancelado. Los niveles de contaminación del aire ya están dentro del rango seguro."
+    },
+    "BFDD": {
+        "en": "Liotzburg",
+        "pt": "Liotzburg",
+        "es": "Liotzburg"
+    },
+    "BVDD": {
+        "en": "[Liotzburg]\nWhat's going on?!\nWho's responsible?!\nGod, I can't believe\nthis is happening!\n^333333*Cough Cough!*^000000",
+        "pt": "[Liotzburg]\nO que está acontecendo?!\nQuem é o responsável?!\nDeus, eu não posso acreditar\nque isso está acontecendo!\n^333333*cof cof!*^000000",
+        "es": "[Liotzburg]\n¡¿Qué está pasando?!\n¡¿Quién es el responsable?!\nCielos, ¡no puedo creer\nque esto este pasando!\n^333333*Cof, cof*^000000"
+    },
+    "BlDD": {
+        "en": "[Liotzburg]\nI need to get out of here!\nYou! D-do something and\nfix this! I gotta hide and find\nsomeplace safe!",
+        "pt": "[Liotzburg]\nEu preciso sair daqui!\nVocê! Faça alguma coisa e\nconserte isso! Tenho que me esconder e encontrar\nalgum lugar seguro!",
+        "es": "[Liotzburg]\n¡Tengo que salir de aquí!\n¡Tú! ¡H-hay que hacer algo y\narreglar esto! ¡Debo esconderme y hallar\nun lugar seguro!"
+    },
+    "B1DD": {
+        "en": "[Liotzburg]\nWhat...?\nFactory Repair\nbudget? No way!",
+        "pt": "[Liotzburg]\nO quê...?\nOrçamento de reparo da fábrica?\nDe jeito nenhum!",
+        "es": "[Liotzburg]\n¿Qué…?\n¿Presupuesto para la\nreparación de la fábrica? ¡De ninguna manera!"
+    },
+    "CFDD": {
+        "en": "[Liotzburg]\nWhy waste money?\nWe haven't had any\nproblems so far! Look,\neverything's fine! Why\nare you exaggerating\nsuch small details?",
+        "pt": "[Liotzburg]\nPor que desperdiçar dinheiro?\nNão tivemos nenhum\nproblema até agora! Veja,\nestá tudo bem! Por que\nvocê está exagerando\ndetalhes tão pequenos?",
+        "es": "[Liotzburg]\n¿Por qué malgastar el dinero?\n¡No hemos tenido ningún\nproblema hasta ahora! Mira,\n¡todo está bien! ¿Por qué \nexageras\ndetalles tan minúsculos?"
+    },
+    "CVDD": {
+        "en": "[Liotzburg]\nThe field overseer,\nZelmeto, just came by to\nask for a budget increase.\nWell, I think he's lying!\nEverything's perfect!",
+        "pt": "[Liotzburg]\nO supervisor de campo,\nZelmeto, acabou de passar por aqui para\npedir um aumento no orçamento.\nBem, acho que ele está mentindo!\nEstá tudo perfeito!",
+        "es": "[Liotzburg]\nEl supervisor de campo,\nZelmeto, recién vino a pedir\nun aumento de presupuesto.\n¡Pues yo creo que miente!\n¡Todo está perfecto!"
+    },
+    "ClDD": {
+        "en": "[Liotzburg]\nI'm the plant\nsuperintendant of this\nfactory. Most of my employees\nare diligent workers. I can't say that of everyone, but overall we're doing an excellent job. Ha ha ha~!",
+        "pt": "[Liotzburg]\nEu sou o superintendente\nsuperintendente desta\nfábrica. A maioria de meus funcionários\nsão trabalhadores diligentes. Não posso dizer o mesmo de todos, mas, em geral, estamos fazendo um excelente trabalho. Ha ha ha~!",
+        "es": "[Liotzburg]\nSoy el superintendente\nde planta de esta\nfábrica. La mayoría de mis empleados\nson trabajadores diligentes. No puedo generalizar pero, en conjunto, hacemos un trabajo excelente. ¡Ja, ja, ja!"
+    },
+    "C1DD": {
+        "en": "[Liotzburg]\nSo long as this factory\nis well maintained, we won't\nhave to worry about this city's\nsafety. The field overseer,\nZelmeto, is also very reliable.",
+        "pt": "[Liotzburg]\nDesde que a fábrica\nseja bem mantida, não teremos\nque nos preocupar com a segurança da cidade.\nsegurança da cidade. O supervisor de campo,\nZelmeto, também é muito confiável.",
+        "es": "[Liotzburg]\nMientras esta fábrica\nesté bien mantenida, no tendremos\nque preocuparnos por la\nseguridad de la ciudad. El supervisor de campo,\nZelmeto, también es de confianza."
+    },
+    "DFDD": {
+        "en": "[Liotzburg]\nI can trust Zelmeto\nto look after things,\nso there's no need for\nme to go inside the factory.\nDelegating work is great!",
+        "pt": "[Liotzburg]\nPosso confiar no Zelmeto\npara cuidar das coisas,\nportanto, não há necessidade de\nde eu entrar na fábrica.\nDelegar trabalho é ótimo!",
+        "es": "[Liotzburg]\nPuedo contar con Zelmeto\npara encargarse de todo,\nasí que no hay necesidad de\nque yo entre en la fábrica.\n¡Delegar el trabajo es estupendo!"
+    },
+    "DVDD": {
+        "en": "[Liotzburg]\nOur factory will\ncontinue to develop\nand everyone will be\nproud of the progress\nwe're making. Yes, I can\nassure you of that!",
+        "pt": "[Liotzburg]\nNossa fábrica continuará\na se desenvolver\ne todos ficarão\norgulhosos do progresso\nque estamos fazendo. Sim, eu posso\ngarantir isso a vocês!",
+        "es": "[Liotzburg]\nNuestra fábrica\nseguirá desarrollándose\ny todo el mundo estará \norgulloso del progreso\nque estamos haciendo. Sí, ¡te lo puedo asegurar!"
+    },
+    "DlDD": {
+        "en": "Zelmeto",
+        "pt": "Zelmeto",
+        "es": "Zelmeto"
+    },
+    "D1DD": {
+        "en": "[Zelmeto]\nWe've got a big problem\nhere! I appreciate that you've\nbeen gathering the materials,\nbut the machines have been\nbroken for too long!",
+        "pt": "[Zelmeto]\nTemos um grande problema\naqui! Agradeço por você\nreunir os materiais,\nmas as máquinas estão\nquebradas faz muito tempo!",
+        "es": "[Zelmeto]\n¡Tenemos un problema enorme\naquí! Agradezco que hayas\nreunido los materiales,\npero las máquinas han estado\nrotas durante demasiado tiempo."
+    },
+    "EFDD": {
+        "en": "[Zelmeto]\nRight when I tried to\nfix it, a huge shortout\noccurred. Our town is\nprobably filled with\ntoxic fog right now!",
+        "pt": "[Zelmeto]\nLogo quando tentei\nconsertar, um enorme curto-circuito\nocorreu. Nossa cidade está\nprovavelmente cheia de\nnévoa tóxica neste momento!",
+        "es": "[Zelmeto]\nJusto cuando intenté \nreparar una, ocurrió un gran\ncortocircuito. ¡Nuestra ciudad\nprobablemente esté llena\nde niebla tóxica ahora mismo!"
+    },
+    "EVDD": {
+        "en": "[Zelmeto]\nI'll try my best to fix\nthis, but we really should\nhave allocated some funds\nto fix this machine earlier!",
+        "pt": "[Zelmeto]\nFarei o possível para consertar\nisso, mas realmente deveríamos\nter alocado alguns fundos\npara consertar essa máquina antes!",
+        "es": "[Zelmeto]\nHaré todo lo posible para arreglar\nesto ¡pero, en realidad, deberíamos\nhaber asignado algunos fondos\npara arreglar esta máquina antes!"
+    },
+    "ElDD": {
+        "en": "[Zelmeto]\nThe most important\nthing is that you get\nout of here and find\nshelter! Right now!",
+        "pt": "[Zelmeto]\nO mais importante\né que você saia\ndaqui e enconte\nabrigo! Agora mesmo!",
+        "es": "[Zelmeto]\nLo más importante\nes que te largues\ny busques dónde\nrefugiarte! ¡Ahora mismo!"
+    },
+    "E1DD": {
+        "en": "[Zelmeto]\nWe'll be putting good\nuse to the materials you\ngave me. With your help,\nour factory will operate\nsafely. At least, for just\na little while longer.",
+        "pt": "[Zelmeto]\nNós estaremos fazendo bom\nuso dos materiais que você\nme deu. Com sua ajuda,\nnossa fábrica funcionará\ncom segurança. Pelo menos, por apenas\num pouco mais de tempo.",
+        "es": "[Zelmeto]\nLe sacaremos provecho\na los materiales que\nme diste. Con tu ayuda,\nnuestra fábrica funcionará \nde manera segura. Al menos durante un poco\nmás de tiempo."
+    },
+    "FFDD": {
+        "en": "[Zelmeto]\nAh, it's you again.\nIt's shameful letting\nother people know about\nour miserable situation...",
+        "pt": "[Zelmeto]\nAh, é você de novo.\nÉ vergonhoso deixar\nque outras pessoas saibam sobre\nnossa situação miserável...",
+        "es": "[Zelmeto]\nAh, eres tú otra vez.\nQué vergüenza que los demás\nse enteren de nuestra\nmiserable situación…"
+    },
+    "FVDD": {
+        "en": "[Zelmeto]\nThere's nothing\nworth seeing here,\nso there really isn't\na point in you coming to\nvisit this place anymore.",
+        "pt": "[Zelmeto]\nNão há nada\nque valha a pena ver aqui,\nportanto, não há realmente\num ponto em você vir para\nvisitar este lugar.",
+        "es": "[Zelmeto]\nNo hay nada\nque valga la pena ver aquí,\nasí que no hay necesidad\nde que vuelvas a\neste lugar nunca más."
+    },
+    "FlDD": {
+        "en": "Give him materials.",
+        "pt": "Dê a ele materiais.",
+        "es": "Darle los materiales."
+    },
+    "F1DD": {
+        "en": "Huh.",
+        "pt": "Huh.",
+        "es": "Mm."
+    },
+    "GFDD": {
+        "en": "[Zelmeto]\n...Hm?\nAren't these the\nmaterials we need\nto make repairs in\nthe factory? How did\nyou find all of these?",
+        "pt": "[Zelmeto]\n...Hm?\nNão são esses os\nmateriais que precisamos\npara fazer reparos na\nna fábrica? Como foi que\nvocê encontrou tudo isso?",
+        "es": "[Zelmeto]\n… ¿Mmm?\n¿No son estos los\nmateriales que necesitamos\npara poder reparar\nla fábrica? ¿Cómo fue\nque encontraste todo esto?"
+    },
+    "GVDD": {
+        "en": "[Zelmeto]\nI don't know how\nI can possibly pay you\nback for this great favor.\nI appreciate that you've\nstepped forward to help us.",
+        "pt": "[Zelmeto]\nEu não sei como\nposso lhe pagar\npor esse grande favor.\nAgradeço por você ter\nse adiantado para nos ajudar.",
+        "es": "[Zelmeto]\nNo sé cómo\npodría llegar a pagarte\npor este gran favor.\nAgradezco que hayas\npodido ayudarnos."
+    },
+    "GlDD": {
+        "en": "[Zelmeto]\nOh...!\nIn my years of managing,\nI've learned the ultimate\nmotivation techniques. Let\nme enhance your motivation\nto show you my gratitude.",
+        "pt": "[Zelmeto]\nOh...!\nEm meus anos de gerenciamento,\naprendi as melhores\ntécnicas de motivação. Deixe-me\naumentar sua motivação\npara mostrar-lhe minha gratidão.",
+        "es": "[Zelmeto]\n¡Oh…!\nEn mis años de gestión,\naprendí las mejores\ntécnicas de motivación. Déjame\naumentar tu motivación\npara mostrarte mi gratitud."
+    },
+    "G1DD": {
+        "en": "[Zelmeto]\nNow...\nJust open your mind\nand listen to my words\nof encouragement\nand inspiration...",
+        "pt": "[Zelmeto]\nAgora...\nApenas abra sua mente\ne ouça minhas palavras\nde encorajamento\ne inspiração...",
+        "es": "[Zelmeto]\nAhora…\nSolo abre tu mente\ny escucha mis palabras\nde aliento\ne inspiración…"
+    },
+    "HFDD": {
+        "en": "[Zelmeto]\n^236B8EWhen the going\ngets rough, you've\ngotta get rougher!\nYou gotta climb that\nmountain 'cause no one's\ngonna climb it for you!^000000",
+        "pt": "[Zelmeto]\n^236B8EQuando as coisas\nficam dureza, você tem\ntem que ficar mais durão!\nVocê precisa escalar aquela\nmontanha, porque ninguém vai\nvai escalá-la para você!^000000",
+        "es": "[Zelmeto]\n^236B8ECuando las cosas\nse ponen feas,\n¡tienes que resistir!\n¡Tienes que escalar esa\nmontaña porque nadie\nla escalará por ti!^000000"
+    },
+    "HVDD": {
+        "en": "[Zelmeto]\n^236B8EDon't give it up!\nGo for broke!\nLosers are quitters\nand quitters are losers!",
+        "pt": "[Zelmeto]\n^236B8ENão desista!\nVá em frente!\nOs perdedores são desistentes\ne os desistentes são perdedores!",
+        "es": "[Zelmeto]\n^236B8E¡No te rindas!\n¡Adelante!\n¡Los perdedores se rinden\ny los que se rinden son perdedores!"
+    },
+    "HlDD": {
+        "en": "[Zelmeto]\n^333333*Whew*^000000\nI haven't given that much\ninspiration in a while, but\nyour help was well worth it.\nI'm going to start the repairs, but once again, I'd like to thank you.",
+        "pt": "[Zelmeto]\n^333333*Ufa*^000000\nNão tenho dado tanta\ninspiração há algum tempo, mas\nsua ajuda valeu muito a pena.\nVou começar os reparos, mas, mais uma vez, gostaria de agradecê-lo.",
+        "es": "[Zelmeto]\n^333333*Uf*^000000\nHacía tiempo que no daba\ntanta inspiración, pero\ntu ayuda valió la pena.\nEmpezaré con las reparaciones, pero me gustaría volver a darte las gracias."
+    },
+    "H1DD": {
+        "en": "[Zelmeto]\n^333333*Sigh...*^000000\nI'm really worried\nabout this factory's\nfuture. What is our\nsuperintendant thinking...?",
+        "pt": "[Zelmeto]\n^333333*Suspiro...*^000000\nEstou realmente preocupado\ncom o futuro desta fábrica.\nO que o nosso\nsuperintendente está pensando...?",
+        "es": "[Zelmeto]\n^333333*Suspira…*^000000\nMe preocupa mucho\nel futuro de esta\nfábrica. ¿En qué está pensando\nnuestro superintendente…?"
+    },
+    "IFDD": {
+        "en": "[Zelmeto]\nWe need\nat least\n20 ^FF0000Flexible Tubes^000000,\n10 ^FF0000Rusty Screw^000000 and\n10 ^FF0000Used Iron Plate^000000\nto repair this factory.",
+        "pt": "[Zelmeto]\nPrecisamos de\npelo menos\n20 ^FF0000Tubos Flexíveis^000000,\n10 ^FF0000Parafuso enferrujado^000000 e\n10 ^FF0000Placa de ferro usada^000000\npara consertar esta fábrica.",
+        "es": "[Zelmeto]\nNecesitamos\nal menos\n20 ^FF0000Tubos flexibles^000000,\n10 ^FF0000Tornillos oxidados^000000 y\n10 ^FF0000Placas de hierro usadas^000000\npara reparar esta fábrica."
+    },
+    "IVDD": {
+        "en": "[Zelmeto]\n^333333*Sigh...*^000000\nBut there's no way\nwe can get all of those\nthings. Our budget isn't\nbig enough to cover it...",
+        "pt": "[Zelmeto]\n^333333*Suspiro...*^000000\nMas não há como\nconseguirmos todas essas\ncoisas. Nosso orçamento não é\ngrande o suficiente para cobrir tudo isso...",
+        "es": "[Zelmeto]\n^333333*Suspira…*^000000\nPero no hay manera\nde poder conseguir todas esas\ncosas. Nuestro presupuesto no\nbasta para cubrirlo…"
+    },
+    "IlDD": {
+        "en": "[Zelmeto]\n...\n......",
+        "pt": "[Zelmeto]\n...\n......",
+        "es": "[Zelmeto]\n…\n......"
+    },
+    "I1DD": {
+        "en": "[Zelmeto]\n^333333*Sigh*^000000\nMy proposal was rejected\nby our superintendant. But\nmaintainance and repairs\nare crucial for peak operating\nefficiency and worker safety!",
+        "pt": "[Zelmeto]\n^333333*Suspiro*^000000\nMinha proposta foi rejeitada\npelo nosso superintendente. Mas\nmanutenção e reparos\nsão cruciais para a máxima eficiência operacional\ne a segurança do trabalhador!",
+        "es": "[Zelmeto]\n^333333*Suspira*^000000\nEl superintendente rechazó \nmi propuesta. Pero\nel mantenimiento y las reparaciones\nson cruciales para la máxima eficiencia\noperativa y la seguridad de los trabajadores."
+    },
+    "JFDD": {
+        "en": "[Zelmeto]\nI'm frustrated and worried.\nMaybe nothing will happen\nfor now, but we've got to\nsafeguard our future by\nregularly maintaining\nall of these machines.",
+        "pt": "[Zelmeto]\nEstou frustrado e preocupado.\nTalvez nada aconteça\npor enquanto, mas temos que\nproteger nosso futuro\ncom manutenção regular\nde todas essas máquinas.",
+        "es": "[Zelmeto]\nMe frustra y me preocupa.\nTal vez, no pase nada\npor ahora, pero tenemos que\nproteger nuestro futuro\nmanteniendo regularmente\ntodas estas máquinas."
+    },
+    "JVDD": {
+        "en": "[Zelmeto]\nEven possible threats\nto the safety of our workers\ncan't be ignored. Isn't there\nsomething I can do? ^333333*Sigh*^000000",
+        "pt": "[Zelmeto]\nAté mesmo possíveis ameaças\nà segurança de nossos funcionários\nnão podem ser ignoradas. Não há\nalgo que eu possa fazer? ^333333*Suspiro*^000000",
+        "es": "[Zelmeto]\nNi siquiera podemos ignorar\nlas posibles amenazas a la seguridad\nde nuestros trabajadores. ¿No hay\nalgo que pueda hacer? ^333333*Suspira*^000000"
+    },
+    "JlDD": {
+        "en": "[Zelmeto]\nIf we can\njust get\n20 ^FF0000Flexible Tube^000000,\n10 ^FF0000Rusty Screw^000000 and\n10 ^FF0000Used Iron Plate^000000,\nwe could make those repairs.",
+        "pt": "[Zelmeto]\nSe pudermos\napenas obter\n20 ^FF0000Tubo flexível^000000,\n10 ^FF0000Parafuso enferrujado^000000 e\n10 ^FF0000Placa de ferro usada^000000,\npoderemos fazer esses reparos.",
+        "es": "[Zelmeto]\nSi tan solo pudiéramos\nconseguir\n20 ^FF0000Tubos flexibles^000000,\n10 ^FF0000Tornillos oxidados^000000 y\n10 ^FF0000Placas de hierro usadas^000000,\npodríamos hacer esas reparaciones."
+    },
+    "J1DD": {
+        "en": "[Zelmeto]\nBut without funds, there's\nno way we can purchase\nthose items. If something\nhappens, who's going to\nbe responsible?",
+        "pt": "[Zelmeto]\nMas sem fundos, não há\nnão há como comprar\nesses itens. Se algo\nacontecer, quem será\nserá responsável?",
+        "es": "[Zelmeto]\nPero, sin fondos, no hay\nmanera de que podamos comprar\nesos objetos. Si pasa algo,\n¿quién se hará \nresponsable?"
+    },
+    "KFDD": {
+        "en": "[Zelmeto]\nI've got to report this\nto our superintendant\nas soon as possible.",
+        "pt": "[Zelmeto]\nTenho que relatar isso\nao nosso superintendente\no mais rápido possível.",
+        "es": "[Zelmeto]\nTengo que informar de esto\na nuestro superintendente\nlo antes posible."
+    },
+    "KVDD": {
+        "en": "[Zelmeto]\nWith any luck, he'll approve\na budget increase so that we\ncan get all of the materials\nneeded for the repairs.",
+        "pt": "[Zelmeto]\nCom alguma sorte, ele aprovará\num aumento no orçamento para que possamos\npossamos obter todos os materiais\nnecessários para os reparos.",
+        "es": "[Zelmeto]\nCon un poco de suerte, aprobará \nun aumento del presupuesto para que\npodamos conseguir todos los materiales\nnecesarios para las reparaciones."
+    },
+    "KlDD": {
+        "en": "[Zelmeto]\nWell, I figured that both\nconveyors would have\nsimilar problems. We\ncan fix them at the\nsame time, but it'll\nbe a hassle.",
+        "pt": "[Zelmeto]\nBem, imaginei que ambos os\ntransportadores teriam\nproblemas semelhantes. Podemos\nconsertá-los ao\nao mesmo tempo, mas será\nserá um incômodo.",
+        "es": "[Zelmeto]\nBueno, supuse que ambas\ngrúas tendrían\nproblemas similares. Podemos\narreglarlas al\nmismo tiempo, pero\nserá complicado."
+    },
+    "K1DD": {
+        "en": "[Zelmeto]\nThank you so much for\nyour help. Without you,\nI'm pretty sure we wouldn't\nknow about these problems\nuntil it was too late.",
+        "pt": "[Zelmeto]\nMuito obrigado por sua\nsua ajuda. Sem você,\ntenho certeza de que não saberíamos\nsobre esses problemas\naté que fosse tarde demais.",
+        "es": "[Zelmeto]\nMuchas gracias por\ntu ayuda. No me cabe duda\nde que de no ser por ti, no habríamos\ndetectado estos problemas\nhasta que fuese demasiado tarde."
+    },
+    "LFDD": {
+        "en": "[Zelmeto]\nNow, I've got to make sure\nwe have enough materials\nto make the repairs so that\nthe machines will be safely\nfunctioning again.",
+        "pt": "[Zelmeto]\nAgora, preciso ter certeza de que\nque temos materiais suficientes\npara fazer os reparos de modo que\nas máquinas estejam funcionando\ncom segurança novamente.",
+        "es": "[Zelmeto]\nAhora debo asegurarme de que\ntengamos suficientes materiales\npara las reparaciones y que\nlas máquinas funcionen\nsin problemas de nuevo."
+    },
+    "LVDD": {
+        "en": "[Zelmeto]\nFirst, I better\nhurry and request\nan increase for the\nFactory Repair budget\nfrom our superintendant.",
+        "pt": "[Zelmeto]\nPrimeiro, é melhor eu\nme apressar e solicitar\num aumento para o\norçamento de reparos na fábrica\nao nosso superintendente.",
+        "es": "[Zelmeto]\nPrimero, me daré \nprisa y solicitaré \nun aumento del\npresupuesto para la reparación de la fábrica\na nuestro superintendente."
+    },
+    "LlDD": {
+        "en": "[Zelmeto]\nThe machine which\nyou are supposed to\ninspect right now\nis a large conveyor.",
+        "pt": "[Zelmeto]\nA máquina que\nvocê deve\ninspecionar neste momento\né uma grande esteira transportadora.",
+        "es": "[Zelmeto]\nLa máquina que\nse supone que debes\ninspeccionar ahora\nes una gran grúa."
+    },
+    "L1DD": {
+        "en": "[Zelmeto]\nRemember that we\nalso have a small sized\nconveyor, so make sure\nthat you examine the\nlarger one, alright?",
+        "pt": "[Zelmeto]\nLembre-se de que nós\ntambém temos um transportador\npequeno, portanto, certifique-se de\nde examinar o\nmaior, certo?",
+        "es": "[Zelmeto]\nRecuerda que\ntambién tenemos una grúa\npequeña, así que asegúrate\nde examinar la\nmás grande, ¿de acuerdo?"
+    },
+    "MFDD": {
+        "en": "[Zelmeto]\nThis is\nworse than\nI imagined...",
+        "pt": "[Zelmeto]\nIsso é\npior do que\neu imaginava...",
+        "es": "[Zelmeto]\nEsto es\npeor de lo que\nimaginé…"
+    },
+    "MVDD": {
+        "en": "[Zelmeto]\nWe've got to start\nrepairs as soon as we\ncan! Hopefully, we can\nresolve this before any\nserious problems happen...",
+        "pt": "[Zelmeto]\nTemos que começar os\nreparos o mais rápido que\npudermos! Espero que possamos\nresolver isso antes que ocorram\nproblemas sérios...",
+        "es": "[Zelmeto]\n¡Tenemos que empezar\nlas reparaciones cuanto\nantes! Esperemos que podamos\nresolver esto antes de que\nocurran problemas graves…"
+    },
+    "MlDD": {
+        "en": "[Zelmeto]\nAlright, the last\nthing that you need to\ninspect is a ^FF0000large conveyor^000000.\nIt's similar to the one you\ninspected before, but it's\nbigger and more powerful.",
+        "pt": "[Zelmeto]\nMuito bem, a última\ncoisa que você precisa\ninspecionar é um transportador ^FF0000grande^000000.\nEla é semelhante ao que você\ninspecionou antes, mas é\nmaior e mais potente.",
+        "es": "[Zelmeto]\nMuy bien, lo último\nque tienes que\ninspeccionar es una ^FF0000grúa grande^000000.\nEs similar a la que\ninspeccionaste antes, pero es\nmás grande y potente."
+    },
+    "M1DD": {
+        "en": "[Zelmeto]\nWe have only one of these\nmachines and it's usually\nmoved around a lot since\na lot of people in the factory\nuse it. I really don't know\nwhere it could be now.",
+        "pt": "[Zelmeto]\nTemos apenas uma dessas máquinas\ne ela geralmente\ncostuma se deslocar muito, pois\nmuitas pessoas na fábrica\na utilizam. Eu realmente não sei\nonde ela pode estar agora.",
+        "es": "[Zelmeto]\nSolo tenemos una de estas\nmáquinas y la solemos\nmover mucho, ya que\nvarias personas en la fábrica\nla usan. Realmente, no sé \ndónde podría estar ahora."
+    },
+    "NFDD": {
+        "en": "[Zelmeto]\nStill, I'm sure that\nit's inside the building,\nso you should be able to\nfind it. I hope you can inspect\nthat conveyor for me soon.",
+        "pt": "[Zelmeto]\nAinda assim, tenho certeza de que\nque está dentro do prédio,\nportanto, você deve ser capaz de\nencontrar. Espero que você possa inspecionar\nesse transportador para mim em breve.",
+        "es": "[Zelmeto]\nPero no tengo dudas\nde que está en el edificio,\npor lo que deberías poder\nencontrarla. Espero que puedas inspeccionar\npronto esa grúa por mí."
+    },
+    "NVDD": {
+        "en": "[Zelmeto]\nThis time, you need\nto inspect an outdoor\npipe that is located far\noutside of the factory.",
+        "pt": "[Zelmeto]\nDesta vez, você precisa\ninspecionar um tubo externo,\nque está localizado que está localizado\nfora da fábrica.",
+        "es": "[Zelmeto]\nEsta vez, debes\ninspeccionar una\ntubería externa que se encuentra\nfuera, lejos de la fábrica."
+    },
+    "NlDD": {
+        "en": "[Zelmeto]\nSince there aren't any\nother machines in that\narea, that pipe shouldn't\nbe too hard to find.",
+        "pt": "[Zelmeto]\nComo não há nenhuma\noutra máquina nessa\nárea, esse tubo não deve\nser muito difícil de encontrar.",
+        "es": "[Zelmeto]\nPuesto que no hay\notras máquinas en esa\nzona, esa tubería no debería\nser muy difícil de encontrar."
+    },
+    "N1DD": {
+        "en": "[Zelmeto]\nHuh?\nI'm suprised to hear\nthat. ^333333*Sigh*^000000 There's just\ntoo many things that need\nfixing. This is terrible...",
+        "pt": "[Zelmeto]\nHã?\nEstou surpreso em ouvir\nisso. ^333333*Suspiro*^000000 Há\nmuitas coisas que precisam ser\nconsertadas. Isso é terrível...",
+        "es": "[Zelmeto]\n¿Eh?\nMe sorprende oír\neso. ^333333*Suspira*^000000 Hay\ndemasiadas cosas que necesitan\narreglarse. Esto es terrible…"
+    },
+    "OFDD": {
+        "en": "[Zelmeto]\nWell, let me worry\nabout that for now. Please\nfocus on continuing to inspect\nsome of the other machines.",
+        "pt": "[Zelmeto]\nBem, deixe que eu me preocupe\ncom isso por enquanto. Por favor,\nconcentre-se em continuar a inspecionar\nalgumas das outras máquinas.",
+        "es": "[Zelmeto]\nBien, deja que yo me\npreocupe por ahora. Por favor,\nconcéntrate en seguir inspeccionando\nalgunas de las otras máquinas."
+    },
+    "OVDD": {
+        "en": "[Zelmeto]\nNow, there's a pipe inside\nthis factory that I want you\nto look at. Many of our pipes\naren't in the best condition,\nbut this particular one might\nbe severely damaged.",
+        "pt": "[Zelmeto]\nAgora, há um cano dentro\ndesta fábrica que eu quero que você\ndê uma olhada. Muitos de nossos tubos\nnão estão nas melhores condições,\nmas esse em particular pode\nestar seriamente danificado.",
+        "es": "[Zelmeto]\nHay una tubería dentro de\nesta fábrica que quiero\nque revises. Muchas de nuestras tuberías\nno están en las mejores condiciones,\npero esta en particular podría\nestar muy dañada."
+    },
+    "OlDD": {
+        "en": "[Zelmeto]\nNow, the pipe I want\nyou to inspect is located\nnear those large cauldrons\nof molten metal. You should\nbe able to find it pretty easily. ^FFFFFFCoboman^000000",
+        "pt": "[Zelmeto]\nAgora, o tubo que quero que\nque você inspecione está localizado\nperto daqueles grandes caldeirões\nde metal fundido. Você deve\nencontrar com bastante facilidade. ^FFFFFFCoboman^000000",
+        "es": "[Zelmeto]\nLa tubería que quiero\nque inspecciones se encuentra\ncerca de esos grandes calderos\nde metal fundido. Tienes que\npoder hallarla fácilmente. ^FFFFFFCoboman^000000"
+    },
+    "O1DD": {
+        "en": "[Zelmeto]\nThanks again\nfor your help,\nadventurer.",
+        "pt": "[Zelmeto]\nMais uma vez, obrigado\npor sua ajuda,\naventureiro.",
+        "es": "[Zelmeto]\nGracias de nuevo\npor tu ayuda,\ntrotamundos."
+    },
+    "PFDD": {
+        "en": "[Zelmeto]\nThe machine which\nI want you to inspect\nthis time is a small\nsized conveyor.",
+        "pt": "[Zelmeto]\nA máquina que\nquero que inspecione\ndesta vez é um pequeno\ntransportador.",
+        "es": "[Zelmeto]\nLa máquina que\nquiero que inspecciones\nesta vez es una pequeña grúa."
+    },
+    "PVDD": {
+        "en": "[Zelmeto]\nBe sure that you\ninspect the small\none, since we also\nhave a large conveyor\nin the factory as well.",
+        "pt": "[Zelmeto]\nCertifique-se de que você\ninspecionar o\npequeno, pois também temos\ntemos um transportador grande\nna fábrica.",
+        "es": "[Zelmeto]\nAsegúrate de\ninspeccionar la pequeña,\nya que también hay una\ngrúa grande\nen la fábrica."
+    },
+    "PlDD": {
+        "en": "[Zelmeto]\nI see...\nIt's most likely that\nthere was a short\ncircuit and most\nof the internal devices\nwere burnt out...",
+        "pt": "[Zelmeto]\nEstou vendo...\nÉ muito provável que\ntenha havido um curto\ncircuito e a maioria\ndos dispositivos internos\nforam queimados...",
+        "es": "[Zelmeto]\nYa veo…\nLo más probable es que\nhaya habido un cortocircuito\ny la mayoría de\nlos dispositivos internos\nse hayan quemado…"
+    },
+    "P1DD": {
+        "en": "[Zelmeto]\nThanks for checking\nthat out for me. Now,\nthe next machine I need\nyou to inspect is different\nthan the others I've had\nyou examine.",
+        "pt": "[Zelmeto]\nObrigado por verificar\nisso para mim. Agora,\na próxima máquina que preciso que\nque você inspecione é diferente\ndas outras que eu pedi\nque você examinou.",
+        "es": "[Zelmeto]\nGracias por revisarlo\npor mí. Bien,\nla siguiente máquina que necesito\nque inspecciones es diferente\na las otras que te hice\nexaminar."
+    },
+    "QFDD": {
+        "en": "[Zelmeto]\nIt's a mechanical\nhand that transports\nsmall objects. We didn't\nreally give it a name, but\nyou should be able to find it.",
+        "pt": "[Zelmeto]\nÉ uma mão mecânica\nque transporta\npequenos objetos. Não demos\ndemos um nome a ela, mas\nvocê deve ser capaz de encontrá-la.",
+        "es": "[Zelmeto]\nEs un brazo mecánico\nque transporta\nobjetos pequeños. No le pusimos\nun nombre particular, pero\nquizás tú puedas ponérselo."
+    },
+    "QVDD": {
+        "en": "[Zelmeto]\nRecently, it seems\nthat there have been\nproblems in operating\nthat machine. If something's\nbroken, we need to know\nand fix it right away.",
+        "pt": "[Zelmeto]\nRecentemente, parece que\nque tem havido\nproblemas na operação\nessa máquina. Se algo estiver\nquebrado, precisamos saber\ne consertá-lo imediatamente.",
+        "es": "[Zelmeto]\nÚltimamente, parece que\nhan surgido\nproblemas al operar\nesa máquina. Si algo está \nroto, hay que averiguarlo\ny arreglarlo de inmediato."
+    },
+    "QlDD": {
+        "en": "[Zelmeto]\nThanks again\nin advance.",
+        "pt": "[Zelmeto]\nMais uma vez, obrigado\nantecipadamente.",
+        "es": "[Zelmeto]\nGracias de nuevo de antemano."
+    },
+    "Q1DD": {
+        "en": "[Zelmeto]\nI'd like you to inspect\nthe control panel. It's\nfairly large and can be\nfound in the middle of the\nfactory. You shouldn't have\ntoo much trouble finding it.",
+        "pt": "[Zelmeto]\nGostaria que você inspecionasse\no painel de controle. Ele é\nbastante grande e pode ser\npode ser encontrado no meio da\nfábrica. Você não deve ter\nmuita dificuldade para encontrar.",
+        "es": "[Zelmeto]\nMe gustaría que inspecciones\nel panel de control. Es\nbastante grande y está \nubicado en el centro de la\nfábrica. No deberías tener\nproblemas para encontrarlo."
+    },
+    "RFDD": {
+        "en": "[Zelmeto]\nWhat...?\nThis is worse\nthan I expected. But\nit's good that we know\nabout these problems\nas soon as possible.",
+        "pt": "[Zelmeto]\nO quê...?\nIsso é pior\ndo que eu esperava. Mas\né bom que saibamos\nsobre esses problemas\no mais rápido possível.",
+        "es": "[Zelmeto]\n¿Qué…?\nEsto es peor\nde lo que esperaba. Pero\nes bueno que sepamos\nsobre estos problemas\nlo antes posible."
+    },
+    "RVDD": {
+        "en": "[Zelmeto]\nDon't you worry,\nwe'll take care of\nthis. In the meantime,\nI'd like you to inspect\nthe next machine for me.",
+        "pt": "[Zelmeto]\nNão se preocupe,\nnós cuidaremos\ndisso. Enquanto isso,\ngostaria que você inspecionasse\na próxima máquina para mim.",
+        "es": "[Zelmeto]\nNo te preocupes,\nnos ocuparemos de\nesto. Mientras tanto,\nMe gustaría que inspecciones\nla siguiente máquina."
+    },
+    "RlDD": {
+        "en": "[Zelmeto]\nI want you to check\na ^FF0000control panel^000000. It's the\nsame kind as the one\nyou just inspected, but\nbigger in size.",
+        "pt": "[Zelmeto]\nQuero que você verifique\num ^FF0000painel de controle^000000. Ele é do\nmesmo tipo que o que\nque você acabou de inspecionar, mas\nmaior em tamanho.",
+        "es": "[Zelmeto]\nQuiero que revises\nun ^FF0000panel de control^000000. Es del\nmismo tipo que el\nque acabas de inspeccionar, pero\nde mayor tamaño."
+    },
+    "R1DD": {
+        "en": "[Zelmeto]\nIt's located in the\nmiddle of the factory,\nso you should be able\nto find it. It may be in bad\ncondition, even though it's\noperating fine for now...",
+        "pt": "[Zelmeto]\nEle está localizado no\nmeio da fábrica,\nportanto, você deve ser capaz de\nencontrar. Pode estar em más\ncondições, mesmo que esteja\nfuncionando bem por enquanto...",
+        "es": "[Zelmeto]\nSe encuentra en el\ncentro de la fábrica,\npor lo que deberías poder\nencontrarlo. Es posible que esté en malas\ncondiciones, aunque esté \nfuncionando bien por ahora…"
+    },
+    "SFDD": {
+        "en": "[Zelmeto]\nWe need to ensure that\nit's stable, reliable and\ndoesn't pose a threat to\nour workforce. Thanks\nagain, adventurer.",
+        "pt": "[Zelmeto]\nPrecisamos garantir que\nele seja estável, confiável e\nnão represente uma ameaça para\nnossa força de trabalho. Obrigado\nmais uma vez, aventureiro.",
+        "es": "[Zelmeto]\nDebemos asegurarnos de que\nsea estable, seguro y\nque no suponga una amenaza para\nnuestra mano de obra. Gracias\notra vez, trotamundos."
+    },
+    "SVDD": {
+        "en": "[Zelmeto]\nYou need to inspect\nan automatic pressure\ngovernor. It looks fine,\nbut sometimes it makes\nstrange noises.",
+        "pt": "[Zelmeto]\nVocê precisa inspecionar\num regulador de pressão\nautomático. Ele parece bom,\nmas às vezes ele faz\nruídos estranhos.",
+        "es": "[Zelmeto]\nTienes que inspeccionar\nun regulador automático\nde presión. Parece estar bien,\npero, a veces, hace\nruidos extraños."
+    },
+    "SlDD": {
+        "en": "[Zelmeto]\nIt probably will\nbe a good idea to\ncheck that machine\nmore carefully this\ntime, just in case.",
+        "pt": "[Zelmeto]\nProvavelmente será\nser uma boa ideia\nverificar essa máquina\ncom mais cuidado\ndesta vez, por via das dúvidas.",
+        "es": "[Zelmeto]\nProbablemente\nsea una buena idea\nrevisar la máquina\ncon más detenimiento esta\nvez por si acaso."
+    },
+    "S1DD": {
+        "en": "[Zelmeto]\nThank you\nfor helping us,\nadventurer.",
+        "pt": "[Zelmeto]\nObrigado\npor nos ajudar,\naventureiro.",
+        "es": "[Zelmeto]\nGracias\npor ayudarnos,\ntrotamundos."
+    },
+    "TFDD": {
+        "en": "[Zelmeto]\nHuh, I see.\nWe must do something\nabout that as soon as\nwe can. Now, let me tell\nyou what to check next.",
+        "pt": "[Zelmeto]\nHuh, estou vendo.\nTemos que fazer algo\nsobre isso assim que\npudermos. Agora, deixe-me dizer\no que verificar em seguida.",
+        "es": "[Zelmeto]\nMmm, ya veo.\nDebemos hacer algo\nal respecto tan pronto como\npodamos. Te diré lo que tienes\nque revisar a continuación."
+    },
+    "TVDD": {
+        "en": "[Zelmeto]\nThere are 3 automatic\npressure governors which\nhammer the bent iron plates\nfrom above to flatten them. It\nseems that one of them may\nhave some kind of problem.",
+        "pt": "[Zelmeto]\nExistem 3 reguladores de pressão\nautomáticos que\nmartelam as placas de ferro dobradas\nde cima para achatá-las. Parece\nparece que um deles pode\nter algum tipo de problema.",
+        "es": "[Zelmeto]\nHay 3 reguladores\nautomáticos de presión que\nmartillan las placas de hierro dobladas\ndesde arriba para aplastarlas. Parece\nque uno de ellos puede\ntener algún tipo de problema."
+    },
+    "TlDD": {
+        "en": "[Zelmeto]\nPlease inspect the ^FF0000automatic pressure governors^000000. Even if the\nproblem seems small, please\nreport it to me. I know it might seem fine now, but I want to prevent an accident if I can.",
+        "pt": "[Zelmeto]\nFavor inspecionar os ^FF0000reguladores automáticos de pressão^000000. Mesmo que o\nproblema pareça pequeno, por favor\nme informe. Sei que pode parecer bom agora, mas quero evitar um acidente, se possível.",
+        "es": "[Zelmeto]\nInspecciona los ^FF0000reguladores automáticos de presión^000000. Incluso si\nel problema parece menor,\ninfórmame. Quizá parezca estar bien ahora, pero quiero evitar un accidente en lo posible."
+    },
+    "T1DD": {
+        "en": "[Zelmeto]\nThank you\nin advance,\nadventurer.",
+        "pt": "[Zelmeto]\nObrigado\nantecipadamente,\naventureiro.",
+        "es": "[Zelmeto]\nGracias\ncon antelación,\ntrotamundos."
+    },
+    "UFDD": {
+        "en": "[Zelmeto]\nIf you would,\nplease inspect the\n2nd control panel that\nseems to have been\nbroken for a while...",
+        "pt": "[Zelmeto]\nSe você quiser,\npor favor, inspecione o\nsegundo painel de controle que\nparece estar\nquebrado há um tempo...",
+        "es": "[Zelmeto]\nSi puedes,\ninspecciona el\nsegundo panel de control que\nparece llevar un\nbuen tiempo averiado…"
+    },
+    "UVDD": {
+        "en": "[Zelmeto]\nAh, you must be a visitor.\nI'm Zelmeto Abellov, the\nfield overseer. Have you\nbeen in this facility before?",
+        "pt": "[Zelmeto]\nAh, você deve ser um visitante.\nEu sou Zelmeto Abellov, o\nsupervisor de campo. Você já esteve\nnesta instalação antes?",
+        "es": "[Zelmeto]\nAh, tú no trabajas aquí.\nSoy Zelmeto Abellov, el\nsupervisor de campo. ¿Has\nestado antes en estas instalaciones?"
+    },
+    "UlDD": {
+        "en": "[Zelmeto]\nThis factory plays an\nimportant role in our city\nand generates a lot of income.\nHowever, our employees suffer\nfrom a poor work environment.",
+        "pt": "[Zelmeto]\nEsta fábrica desempenha um\npapel importante em nossa cidade\ne gera muita renda.\nNo entanto, nossos funcionários sofrem\nde um ambiente de trabalho ruim.",
+        "es": "[Zelmeto]\nEsta fábrica desempeña un\nrol importante en nuestra ciudad\ny genera muchos ingresos.\nSin embargo, nuestro personal padece\nun mal ambiente de trabajo."
+    },
+    "U1DD": {
+        "en": "[Zelmeto]\nOur superintendant makes a lot\nof money and seems content with\nthe current situation. However, the rest of the workforce doesn't enjoy all of the benefits he receives...",
+        "pt": "[Zelmeto]\nNosso superintendente ganha muito\nmuito dinheiro e parece satisfeito com a\ncom a situação atual. No entanto, o restante da força de trabalho não desfruta de todos os benefícios que ele recebe...",
+        "es": "[Zelmeto]\nNuestro superintendente genera mucho\ndinero y parece contento con\nla situación actual. Sin embargo, el resto de la mano de obra no disfruta de los mismos beneficios que él…"
+    },
+    "VFDD": {
+        "en": "[Zelmeto]\nMany people have already\nquit and there are only a few\npeople who continue to work\nhere. So now we're understaffed\nand I'm in quite a bind...",
+        "pt": "[Zelmeto]\nMuitas pessoas já desistiram\ne há apenas algumas\npessoas que continuam a trabalhar\naqui. Portanto, agora estamos com falta de pessoal\ne estou em uma situação difícil...",
+        "es": "[Zelmeto]\nMuchas personas ya\nrenunciaron y solo hay unos pocos\nquienes siguen trabajando\naquí. Así que ahora nos falta personal\ny estoy en un gran aprieto…"
+    },
+    "VVDD": {
+        "en": "[Zelmeto]\nThere are some urgent\ntasks I need done, but\nthere's no way for me\nto recruit new workers.\nAh, I'm sorry, I've spoken too\nfreely about my own problems...",
+        "pt": "[Zelmeto]\nHá algumas tarefas urgentes\nque preciso realizar, mas\nnão há como eu\nrecrutar novos trabalhadores.\nAh, desculpe-me, falei demais sobre meus próprios\nproblemas...",
+        "es": "[Zelmeto]\nHay algunas tareas\nurgentes que necesito hacer, pero\nno hay forma de\ncontratar a nuevos trabajadores.\nAh, lo siento, ya hablé demasiado\nsobre mis propios problemas…"
+    },
+    "VlDD": {
+        "en": "You're understaffed?",
+        "pt": "Você está com falta de pessoal?",
+        "es": "¿Te falta personal?"
+    },
+    "V1DD": {
+        "en": "No, it's okay.",
+        "pt": "Não, está tudo bem.",
+        "es": "No hay problema."
+    },
+    "WFDD": {
+        "en": "[Zelmeto]\nYes, we are!\nI don't have enough\npeople to inspect the\nfactory machines and\ndetermine what kinds\nof problems we have.",
+        "pt": "[Zelmeto]\nSim, estamos!\nNão tenho pessoas suficientes\npessoas para inspecionar as\nmáquinas da fábrica e\ndeterminar que tipos de\nde problemas que temos.",
+        "es": "[Zelmeto]\n¡Así es!\nNo tengo suficientes\npersonas para inspeccionar las\nmáquinas de la fábrica y\ndeterminar qué tipos\nde problemas tenemos."
+    },
+    "WVDD": {
+        "en": "[Zelmeto]\nIt's a time consuming\ntask I'd rather do on my\nown. However, between that\nand managing the workforce,\nI don't have enough time...",
+        "pt": "[Zelmeto]\nÉ uma tarefa que consome tempo\nque prefiro fazer por conta própria.\nNo entanto, entre isso\ne o gerenciamento da força de trabalho,\nnão tenho tempo suficiente...",
+        "es": "[Zelmeto]\nEs una tarea que requiere mucho tiempo\ny que prefiero hacer\nyo solo. Sin embargo, entre eso\ny la gestión de la mano de obra,\nno tengo suficiente tiempo…"
+    },
+    "WlDD": {
+        "en": "I can help you.",
+        "pt": "Posso ajudá-lo.",
+        "es": "Puedo ayudarte."
+    },
+    "W1DD": {
+        "en": "Keep up the good job.",
+        "pt": "Continue com o bom trabalho.",
+        "es": "Sigue así."
+    },
+    "XFDD": {
+        "en": "[Zelmeto]\nYou can help me?\nI know something like\nthis is too much to ask,\nbut I'll accept any help\nanyone offers me. I'm\nthat desperate.",
+        "pt": "[Zelmeto]\nVocê pode me ajudar?\nSei que algo assim\né pedir demais,\nmas aceitarei qualquer ajuda\nque alguém me oferecer. Estou\nmuito desesperado.",
+        "es": "[Zelmeto]\n¿Puedes ayudarme?\nSé que algo como\nesto es mucho pedir,\npero aceptaré cualquier ayuda\nque alguien me ofrezca. Estoy\nmuy desesperado."
+    },
+    "XVDD": {
+        "en": "[Zelmeto]\nAlright, I'll have you\ninspect the machines\nin the factory one by one.\nIt's imperative that we know\nwhat needs to be repaired\nand what's working fine.",
+        "pt": "[Zelmeto]\nMuito bem, vou pedir que você\ninspecione as máquinas\nna fábrica, uma a uma.\nÉ imperativo que saibamos\no que precisa ser consertado\ne o que está funcionando bem.",
+        "es": "[Zelmeto]\nMuy bien, te pondré a\ninspeccionar las máquinas\nde la fábrica una por una.\nEs necesario que sepamos\nlo que hay que reparar\ny lo que funciona bien."
+    },
+    "XlDD": {
+        "en": "[Zelmeto]\nFirst, find the ^FF00002nd control\npanel^000000 and determine its\nstatus. I'm fairly certain that\nit broke a long time ago, but\nit wouldn't hurt to make sure.\nYou should find it easily.",
+        "pt": "[Zelmeto]\nPrimeiro, encontre o ^FF00002º painel de controle^000000\ne determine seu\nstatus. Tenho quase certeza de que\nque ele quebrou há muito tempo, mas\nnão custa nada ter certeza.\nVocê deve encontrá-lo facilmente.",
+        "es": "[Zelmeto]\nEn primer lugar, busca el ^FF0000segundo panel\nde control^000000 y verifica su\nestado. Estoy bastante seguro de que\nse rompió hace mucho tiempo, pero\nno estaría de más asegurarse.\nLo encontrarás fácilmente."
+    },
+    "X1DD": {
+        "en": "[Zelmeto]\nWhen you finish your\ninspection, report back\nto me so I can tell you\nwhich machine to check\nnext. Thanks again for\noffering to help.",
+        "pt": "[Zelmeto]\nQuando terminar sua\ninspeção, informe-me\npara que eu possa lhe dizer\nqual máquina verificar\na seguir. Mais uma vez, obrigado por\npor ter se oferecido para ajudar.",
+        "es": "[Zelmeto]\nCuando termines la\ninspección, avísame\npara que te diga\nqué máquina tienes que revisar\na continuación. Gracias de nuevo por\nofrecer tu ayuda."
+    },
+    "YFDD": {
+        "en": "[Zelmeto]\nWell, it's a living.\n^333333*Sigh*^000000 I can put up with\nthis, but I hope the higher\nups will consider improving\nthe work environment here...",
+        "pt": "[Zelmeto]\nBem, é um meio de vida.\n^333333*Suspiro*^000000Posso tolerar isso,\nmas espero que os superiores\nsuperiores considerem a possibilidade de melhorar\no ambiente de trabalho aqui...",
+        "es": "[Zelmeto]\nSirve para ganarse la vida.\n^333333*Suspira*^000000 Puedo tolerar\nesto, pero espero que los de arriba\nconsideren la posibilidad de mejorar\nel ambiente laboral aquí…"
+    },
+    "YVDD": {
+        "en": "[Zelmeto]\nThank you for\nyour kindness.\nAnd please don't\nlet anyone know about\nanything I just told you.",
+        "pt": "[Zelmeto]\nObrigado por sua\nsua gentileza.\nE, por favor, não\ndeixe ninguém saber sobre\nnada do que acabei de lhe dizer.",
+        "es": "[Zelmeto]\nGracias por\ntu amabilidad.\nY, por favor,\nque nadie se entere\nde lo que acabo de decirte."
+    },
+    "YlDD": {
+        "en": "2nd Control Panel",
+        "pt": "2º painel de controle",
+        "es": "Segundo panel de control"
+    },
+    "Y1DD": {
+        "en": "^3355FFIt's the 2nd control panel\nZelmeto asked you to inspect.\nIt looks totally broken: screws\nare missing, and the iron cover\nhas been bent open, revealing\na tangled mess of wires inside.^000000",
+        "pt": "^3355FFÉ o segundo painel de controle que o\nZelmeto pediu que você inspecionasse.\nEle parece totalmente quebrado: os parafusos\nestão faltando e a tampa de ferro\nfoi dobrada e aberta, revelando\num emaranhado de fios no interior.^000000",
+        "es": "^3355FFEs el segundo panel de control\nque Zelmeto te pidió inspeccionar.\nSe ve totalmente roto: le faltan tornillos\ny la tapa de hierro\nse abrió, lo que deja al descubierto\nuna maraña de cables.^000000"
+    },
+    "ZFDD": {
+        "en": "3rd Pressure Governor",
+        "pt": "3º Regulador de pressão",
+        "es": "Tercer regulador de presión"
+    },
+    "ZVDD": {
+        "en": "^3355FFAt first glance, this\npressure governor looks\nperfectly fine. But after you\ncheck it more carefully, you\nfind that it's making strange\ngrinding noises and a few of\nthe surface screws are loose.",
+        "pt": "^3355FFÀ primeira vista, esse\nregulador de pressão parece\nperfeitamente bem. Mas depois que você\nverificá-lo com mais cuidado, você\ndescobre que ele está fazendo\nruídos estranhos de moagem e alguns\nparafusos da superfície estão soltos.",
+        "es": "^3355FFA primera vista, este\nregulador de presión luce\nperfectamente bien. Pero, después de\nrevisarlo con más detalle, te\ndas cuenta de que está haciendo\nchirridos extraños y algunos de\nlos tornillos de la superficie están sueltos."
+    },
+    "ZlDD": {
+        "en": "Main Control Panel",
+        "pt": "Painel de controle principal",
+        "es": "Panel de control principal"
+    },
+    "Z1DD": {
+        "en": "^3355FFThe main control panel\ndoesn't look like it has\nany problems. But after\ntapping on its surface,\nyou hear a disheartening\nhollow sound. It looks like\nit's missing some parts...^000000",
+        "pt": "^3355FFO painel de controle principal\nnão parece ter\nnenhum problema. Mas depois de\nbater em sua superfície,\nvocê ouve um som oco e estranho.\nParece que\nque estão faltando algumas peças...^000000",
+        "es": "^3355FFEl panel de control principal\nno parece tener\nningún problema. Pero tras\ndar golpecitos en su superficie,\nse oye un desalentador\nsonido hueco. Parece que\nle faltan algunas partes…^000000"
+    },
+    "aFDD": {
+        "en": "Conveyor",
+        "pt": "Transportador",
+        "es": "Grúa"
+    },
+    "aVDD": {
+        "en": "^3355FFThe conveyor's movements\nlook jittery and clumsy. The\nmechanical arm also doesn't\nlook powerful enough to bear\nthe loads that it's carrying. The screws in the conveyor look\nloose and rusted over.^000000",
+        "pt": "^3355FFOs movimentos do transportador\nparecem instáveis e desajeitados. O braço mecânico\ntambém não\nparece ter força suficiente para suportar\nas cargas que está carregando. Os parafusos do transportador parecem\nsoltos e enferrujados.^000000",
+        "es": "^3355FFLos movimientos de la grúa\nse ven inestables y toscos. El\nbrazo mecánico tampoco\nse ve lo suficientemente fuerte como para soportar\nlas cargas que transporta. Los tornillos de la grúa se ven\nsueltos y oxidados.^000000"
+    },
+    "alDD": {
+        "en": "Pipe",
+        "pt": "Tubo",
+        "es": "Tubería"
+    },
+    "a1DD": {
+        "en": "^3355FFThe inspection of this\npipe didn't take very long.\nIt's bloated and worn out\nfrom long durations of \nbeing overloaded with\npressure. It's a wonder\nit hasn't exploded yet.",
+        "pt": "^3355FFA inspeção desse tubo\nnão demorou muito.\nEle está inchado e desgastado\ndevido a longos períodos\nsobrecarregado com\npressão. É de se admirar que\nque ele ainda não tenha explodido.",
+        "es": "^3355FFLa inspección de esta\ntubería no tardó mucho.\nEstá distendida y desgastada\npor haber estado mucho tiempo \nsobrecargada de\npresión. Es un milagro que\naún no haya explotado."
+    },
+    "bFDD": {
+        "en": "^3355FFThis conveyor seems\nto have similar problems\nto its smaller version. Its\nmovements are awkward,\nerratic and weak, and almost\nall of its screws are rusted.^000000",
+        "pt": "^3355FFEsse transportador parece ter\nter problemas semelhantes\nà sua versão menor. Seus\nmovimentos são desajeitados,\nerráticos e fracos, e quase\ntodos os seus parafusos estão enferrujados.^000000",
+        "es": "^3355FFEsta grúa parece\ntener problemas similares\na su versión más pequeña. Sus\nmovimientos son toscos,\nerráticos y débiles, y casi\ntodos sus tornillos están oxidados.^000000"
+    }
+}

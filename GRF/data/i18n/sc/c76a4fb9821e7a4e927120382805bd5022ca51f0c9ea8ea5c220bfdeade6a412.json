@@ -1,0 +1,842 @@
+{
+    "4BSBBw": {
+        "ko": "리하르트가문 집사",
+        "en": "Butler for the Richards",
+        "pt": "Mordomo",
+        "es": "Mayordomo de los Richards"
+    },
+    "4RSBBw": {
+        "ko": "^4D4DFF!-주의-!^000000\n^4D4DFF인벤토리에 여유공간이 없거나 동일한 아이템을 한계치에 가깝게 소지하고 있습니다.^000000\n^4D4DFF카프라나 존다의 창고 서비스를 이용해서 정리해 주세요.^000000",
+        "en": "- You cannot proceed with the quest since you have too many items. -",
+        "pt": "- Libere um pouco de espaço no seu inventário. -",
+        "es": "-No puedes seguir con la misión porque tienes muchos objetos.-"
+    },
+    "4hSBBw": {
+        "ko": "[집사]",
+        "en": "[Butler]",
+        "pt": "[Mordomo]",
+        "es": "[Mayordomo]"
+    },
+    "4xSBBw": {
+        "ko": "격렬한 전투 이후에 충분한 휴식을 취하는 것도 빠르게 강해지는 지름길입니다.",
+        "en": "It is a fast way to get stronger to take a good rest after a hard battle.",
+        "pt": "Depois de uma batalha difícil é sempre bom dar uma boa descansada.",
+        "es": "Un buen descanso después de una dura batalla es una forma rápida de fortalecerse."
+    },
+    "5BSBBw": {
+        "ko": "리하르트 가문은 다양한 방식의 수련 법을 운영하고 있습니다. 그 중에서도 휴식은 가장 중요한 부분을 차지하고 있습니다.",
+        "en": "The Richard family runs various ways of training. Taking a rest is one of the most important training.",
+        "pt": "A família Richard oferece vários tipos de treinamento. Mas também é sempre importante descansar entre as sessões de treino.",
+        "es": "La familia Richard emplea varias formas de entrenamiento. Descansar es uno de los entrenamientos más importantes."
+    },
+    "5RSBBw": {
+        "ko": "대대로 리하르트의 가주이신 분들도 수련 후에는 항상 휴식을 취해 왔습니다. 뭐 당연한 이야기입니다만..",
+        "en": "The former heads of the Richard family have also taken enough rest after training. Well, it's too common to mention, I guess.",
+        "pt": "É uma tradição da família Richard: depois de um longo dia de treino, sempre há também um longo período para descansar.",
+        "es": "Los antiguos cabeza de familia de los Richard también tomaban un buen descanso después de entrenar. Bueno, es algo muy común para mencionarlo, supongo."
+    },
+    "5hSBBw": {
+        "ko": "누구나 수련 후에 몸이 근질근질한 건 알고 있습니다만 그럴 때 일수록 휴식을 취하는 것이 중요합니다.",
+        "en": "Everyone may know how one feels itching for more action after training. However, that is the time to take a rest.",
+        "pt": "Depois de treinar, você pode até sentir aquela adrenalina e querer mais ação. Mas na verdade, tal momento é o melhor para descansar.",
+        "es": "Todo el mundo sabe que, después de entrenar, te dan ganas de más acción. Sin embargo, ese es el momento de tomarse un descanso."
+    },
+    "5xSBBw": {
+        "ko": "다음 수련도 무척 고될 테니 지금은 휴식을 취하시는 것이 좋을 것 같습니다.",
+        "en": "The next training would be just as tough. You'd better take a rest now.",
+        "pt": "O próximo treinamento vai ser tão puxado quanto o anterior. Por ora, é melhor você descansar.",
+        "es": "El siguiente entrenamiento será igual de duro. Será mejor que descanses."
+    },
+    "6BSBBw": {
+        "ko": "[집사]\n슬슬 몸이 근지러울 때가 되신 것 같은데 이제 다음 훈련을 진행해도 될 것 같습니다.",
+        "en": "[Butler]\nI feel that you must be raring to get some action. I guess it is the time to proceed with the next training.",
+        "pt": "[Mordomo]\nVocê parece querer mais ação... Melhor começarmos o próximo treinamento.",
+        "es": "[Mayordomo]\nSupongo que te mueres de ganas de entrar en acción. Creo que llegó el momento de avanzar al siguiente entrenamiento."
+    },
+    "6RSBBw": {
+        "ko": "[집사]\n(2) 알 수 없는 일이군요.\n일단 제가 해결해드렸습니다만 같은 현상이 또 발생하시면 스크린샷을 찍어 운영 팀에 문의해주시기 바랍니다.",
+        "en": "[Butler]\n(2) An unknown thing has happened.\nI have taken care of it. If the same thing occurs again, take a screenshot and send it to the admin team.",
+        "pt": "[Mordomo]\nHouve um erro inesperado.",
+        "es": "[Mayordomo]\n(2) Ocurrió un problema desconocido.\nYa me ocupé. Si vuelve a pasar, haz una captura de pantalla y envíala al equipo de administración."
+    },
+    "6hSBBw": {
+        "ko": "[집사]\n안녕하십니까? 시종에게 연락을 받고 기다리고 있었습니다.",
+        "en": "[Butler]\nHow do you do? I have been waiting for you after being informed by the Chamberlain.",
+        "pt": "[Mordomo]\nTudo bom? Estive esperando por você.",
+        "es": "[Mayordomo]\n¿Qué tal? Te estuve esperando después de que el mayordomo me informara."
+    },
+    "6xSBBw": {
+        "ko": "[집사]\n이곳은 건국 초기부터 군권을 장악해온 리하르트 가문의 방입니다.",
+        "en": "[Butler]\nThis it the room of the Richard family which has been controlling the military power of the kingdom.",
+        "pt": "[Mordomo]\nEsta é a sala da família Richard. Eles têm grande controle sobre o poder militar do reino.",
+        "es": "[Mayordomo]\nEsta es la sala de la familia Richard, que ha estado controlando el poder militar del reino."
+    },
+    "7BSBBw": {
+        "ko": "[집사]\n모로크 토벌에 큰 공을 세우신 {0}님의 명성은 익히 들어 알고 있습니다.",
+        "en": "[Butler]\nI have heard your name for that {0}, you are the hero in the subjugation of Morroc.",
+        "pt": "[Mordomo]\nJá ouvi muito sobre você, {0}, viajante que salvou o mundo da ameaça de Morroc.",
+        "es": "[Mayordomo]\nOí el nombre {0}, eres una figura heroica en la subyugación de Morroc."
+    },
+    "7RSBBw": {
+        "ko": "[집사]\n아! 바쁘실 텐데 제가 시간을 뺏은 것 같군요. 방 안쪽으로 들어가시면 차기 가주이신 포님이 기다리고 계십니다.",
+        "en": "[Butler]\nOh! I am sorry to take too much of your time. Inside the room, there is Po, the next head of the family, waiting for you.",
+        "pt": "[Mordomo]\nEnfim. Po, o próximo sucessor da família, lhe aguarda dentro da sala.",
+        "es": "[Mayordomo]\n¡Ah! Lamento robarte tanto tiempo. Dentro de la sala, te espera Po, el próximo cabeza de familia."
+    },
+    "7hSBBw": {
+        "ko": "[집사]\n안쪽으로 모시겠습니다.",
+        "en": "[Butler]\nLet me escort you inside.",
+        "pt": "[Mordomo]\nEu lhe acompanharei até lá.",
+        "es": "[Mayordomo]\nDéjame acompañarte."
+    },
+    "7xSBBw": {
+        "ko": "[집사]\n이곳은 리하르트 가문의 방입니다.",
+        "en": "[Butler]\nThis it the room of the Richard family.",
+        "pt": "[Mordomo]\nEsta é a sala da família Richard.",
+        "es": "[Mayordomo]\nEsta es la sala de la familia Richard."
+    },
+    "8BSBBw": {
+        "ko": "[집사]\n지금은 차기 가주이신 포님께서 휴식 중이시니 다음에 찾아와 주셨으면 합니다.",
+        "en": "[Butler]\nPo, the next head of the family, is taking a rest. Please come back later.",
+        "pt": "[Mordomo]\nPo, o próximo sucessor da família, está descansando um pouco. Pode voltar depois?",
+        "es": "[Mayordomo]\nPo, el próximo cabeza de familia, está descansando. Por favor, vuelve más tarde."
+    },
+    "8RSBBw": {
+        "ko": "[집사]\n방의 안쪽에서 차기 가주이신 포님이 기다리고 계십니다.",
+        "en": "[Butler]\nInside the room, there is Po, the next head of the family, waiting for you.",
+        "pt": "[Mordomo]\nPo, o próximo sucessor da família, lhe aguarda adiante.",
+        "es": "[Mayordomo]\nDentro de la sala, te espera Po, el próximo cabeza de familia."
+    },
+    "8hSBBw": {
+        "ko": "[집사]\n차기 가주님과 접견은 마치셨습니까?",
+        "en": "[Butler]\nHave you met the next head of the family?",
+        "pt": "[Mordomo]\nVocê já conheceu o próximo sucessor da família?",
+        "es": "[Mayordomo]\n¿Conociste al próximo cabeza de familia?"
+    },
+    "8xSBBw": {
+        "ko": "[집사]\n차기 가주님이 {0} 님을 만나신다면.. 부탁..",
+        "en": "[Butler]\nIf the next head of the family meets you{0}, please...",
+        "pt": "[Mordomo]\nQuando vocês se conhecerem, {0}, eu peço para que vo...",
+        "es": "[Mayordomo]\nSi te encuentras con el próximo cabeza de familia{0}, por favor…"
+    },
+    "9BSBBw": {
+        "ko": "[집사]\n아! 제가 결례를 범했군요. 아무것도 아닙니다. 제가 괜한 소리를.. 신경 쓰지 마십시오.",
+        "en": "[Butler]\nOh! I am sorry about my bad manners. It is nothing. Please never mind...",
+        "pt": "[Mordomo]\nAh! Nada. Finja que eu não falei nada...",
+        "es": "[Mayordomo]\n¡Ah! Lamento mis malos modales. No es nada. No te preocupes por eso…"
+    },
+    "9RSBBw": {
+        "ko": "[집사]\n차기 가주이신 포님께 리하르트 전투훈련을 체험하신다고 들었습니다만..",
+        "en": "[Butler]\nI heard from Po the next head of the family that you are going to try the Richard battle training program.",
+        "pt": "[Mordomo]\nEu ouvi dizer de Po que você vai se submeter ao programa de treinamento da família Richard.",
+        "es": "[Mayordomo]\nPo, el próximo cabeza de familia, me dijo que vas a probar el programa de entrenamiento de combate de Richard."
+    },
+    "9hSBBw": {
+        "ko": "[집사]\n지금은 저희 훈련을 흉내내기에도 벅차 보이시군요. 기초를 더 다지고 오셔야 할 듯싶습니다.",
+        "en": "[Butler]\nFor now, the training would be too overwhelming for you. You'd better learn the basics before proceeding with the training.",
+        "pt": "[Mordomo]\nImagino que o treinamento seja demais para qualquer um despreparado. É por isso que vamos lhe ensinar os básicos antes de começarmos as sessões de treino.",
+        "es": "[Mayordomo]\nPor ahora, sería un entrenamiento demasiado abrumador para ti. Será mejor que aprendas lo básico antes de seguir con el entrenamiento."
+    },
+    "9xSBBw": {
+        "ko": "[집사]\n차기 가주이신 포님께 리하르트 전투훈련을 체험하신다고 들었습니다",
+        "en": "[Butler]\nI heard from Po the next head of the family that you are going to try the Richard battle training program.",
+        "pt": "[Mordomo]\nEu ouvi dizer de Po que você vai se submeter ao programa de treinamento da família Richard.",
+        "es": "[Mayordomo]\nPo, el próximo cabeza de familia, me dijo que vas a probar el programa de entrenamiento de combate de Richard."
+    },
+    "+BSBBw": {
+        "ko": "[집사]\n리하르트의 전투훈련은 기존의 행해오시던 훈련들과는 차별되어 있습니다.",
+        "en": "[Butler]\nThe training of the Richard family is differentiated from other training programs.",
+        "pt": "[Mordomo]\nO treinamento da família Richard é... diferenciado.",
+        "es": "[Mayordomo]\nEl entrenamiento de la familia Richard es diferente a otros programas de entrenamiento."
+    },
+    "+RSBBw": {
+        "ko": "[집사]\n지금까지 개별로 몬스터를 잡아 훈련을 해오셨다면",
+        "en": "[Butler]\nYou must have been getting yourself trained by hunting the monsters individually.",
+        "pt": "[Mordomo]\nImagino que você tenha se acostumado a enfrentar os monstros individualmente, certo?",
+        "es": "[Mayordomo]\nDebes haberte entrenado cazando monstruos individuales."
+    },
+    "+hSBBw": {
+        "ko": "[집사]\n이제부터는 인간, 동물, 곤충, 어류, 식물, 악마, 천사, 언데드, 무형, 용족 같이 특정 형태의 몬스터를 잡는 훈련을 해보실 수 있습니다.",
+        "en": "[Butler]\nFrom now on, you can be trained with hunting certain types of monsters such as human, animal, insect, fish, plant, demon, angel, nothing and dragon monsters.",
+        "pt": "[Mordomo]\nDe agora em diante, você será treinado caçando determinados tipos de monstros, como humanoides, brutos, insetos, peixes, plantas, demônios, anjos e dragões.",
+        "es": "[Mayordomo]\nA partir de ahora, podrás entrenarte para cazar ciertos tipos de monstruos, como monstruos humanos, animales, insectos, peces, plantas, demonios, ángeles, intangibles y dragones."
+    },
+    "+xSBBw": {
+        "ko": "[집사]\n뭐 100마디의 말보다 한번 더 칼을 휘두르는 것이 효과적이라고 하지 않습니까?",
+        "en": "[Butler]\nIt is supposed to be more effective to swing a sword than to say 100 words.",
+        "pt": "[Mordomo]\nBem... Imagino que seja mais eficiente te mostrar do que dizer.",
+        "es": "[Mayordomo]\nSe supone que es más eficaz blandir una espada que decir 100palabras."
+    },
+    "/BSBBw": {
+        "ko": "[집사]\n좋습니다. 몸이 근질근질하시지요?",
+        "en": "[Butler]\nGood. Are you ready now?",
+        "pt": "[Mordomo]\nÓtimo. Você está com tudo pronto?",
+        "es": "[Mayordomo]\nBueno. ¿Quieres intentarlo?"
+    },
+    "/RSBBw": {
+        "ko": "[집사]\n흠 나와서는 안될 제가 처리도 불가능한 일이 벌어진 것 같군요. 일단 다시 시도해 보시고 같은 현상이 반복되신다면 스크린샷을 찍어 운영팀에 문의해 주십시오.",
+        "en": "[Butler]\nHum, there seems to be an issue which cannot be resolved. Well, try again and if the same issue occurs, take a screenshot and send it to the admin team.",
+        "pt": "[Mordomo]\nHouve um erro inesperado.",
+        "es": "[Mayordomo]\nMmm, parece que hay un problema que no se puede resolver. Bien, inténtalo de nuevo y, si se produce el mismo problema, haz una captura de pantalla y envíala al equipo de administración."
+    },
+    "/hSBBw": {
+        "ko": "[집사]\n도전하고 싶으신 훈련을 골라보시지요.",
+        "en": "[Butler]\nPlease select a training program to try.",
+        "pt": "[Mordomo]\nEscolha um programa de Treinamento.",
+        "es": "[Mayordomo]\nSelecciona un programa de entrenamiento para probar."
+    },
+    "/xSBBw": {
+        "ko": "무사수행-인간형",
+        "en": "Warrior Discipline-Human",
+        "pt": "Treinamento sobre Humanoides",
+        "es": "Disciplina de guerrero: Humano"
+    },
+    "ABWBBw": {
+        "ko": "무사수행-동물형",
+        "en": "Warrior Discipline-Animal",
+        "pt": "Treinamento sobre Brutos",
+        "es": "Disciplina de guerrero: Animal"
+    },
+    "ARWBBw": {
+        "ko": "무사수행-곤충형",
+        "en": "Warrior Discipline-Insect",
+        "pt": "Treinamento sobre Insetos",
+        "es": "Disciplina de guerrero: Insecto"
+    },
+    "AhWBBw": {
+        "ko": "무사수행-어패형",
+        "en": "Warrior Discipline-Fish",
+        "pt": "Treinamento sobre Peixes",
+        "es": "Disciplina de guerrero: Pez"
+    },
+    "AxWBBw": {
+        "ko": "무사수행-식물형",
+        "en": "Warrior Discipline-Plant",
+        "pt": "Treinamento sobre Plantas",
+        "es": "Disciplina de guerrero: Planta"
+    },
+    "BBWBBw": {
+        "ko": "무사수행-악마형",
+        "en": "Warrior Discipline-Devil",
+        "pt": "Treinamento sobre Demônios",
+        "es": "Disciplina de guerrero: Diablo"
+    },
+    "BRWBBw": {
+        "ko": "무사수행-천사형",
+        "en": "Warrior Discipline-Angel",
+        "pt": "Treinamento sobre Anjos",
+        "es": "Disciplina de guerrero: Ángel"
+    },
+    "BhWBBw": {
+        "ko": "무사수행-불사형",
+        "en": "Warrior Discipline-Immortal",
+        "pt": "Treinamento sobre Mortos-Vivos",
+        "es": "Disciplina de guerrero: Inmortal"
+    },
+    "BxWBBw": {
+        "ko": "무사수행-무형",
+        "en": "Warrior Discipline-Intangible",
+        "pt": "Treinamento sobre Amorfos",
+        "es": "Disciplina de guerrero: Intangible"
+    },
+    "CBWBBw": {
+        "ko": "무사수행-용족",
+        "en": "Warrior Discipline-Dragon",
+        "pt": "Treinamento sobre Dragões",
+        "es": "Disciplina de guerrero: Dragón"
+    },
+    "CRWBBw": {
+        "ko": "[집사]\n이 훈련으로 말할 것 같으면 140레벨 이상인 인간형 몬스터를 50마리 잡는 수행입니다.",
+        "en": "[Butler]\nThis training involves hunting 50 human monsters of Level 140 or higher.",
+        "pt": "[Mordomo]\nEste treinamento envolve derrotar 50 monstros do tipo Humanoide de Nível 140 ou superior.",
+        "es": "[Mayordomo]\nEste entrenamiento consiste en cazar 50 monstruos de tipo humano de nivel 140 o superior."
+    },
+    "ChWBBw": {
+        "ko": "[집사]\n이 훈련으로 말할 것 같으면 140레벨 이상인 동물형 몬스터를 50마리 잡는 수행입니다.",
+        "en": "[Butler]\nThis training involves hunting 50 animal monsters of Level 140 or higher.",
+        "pt": "[Mordomo]\nEste treinamento envolve derrotar 50 monstros do tipo Bruto de Nível 140 ou superior.",
+        "es": "[Mayordomo]\nEste entrenamiento consiste en cazar 50 monstruos de tipo animal de nivel 140 o superior."
+    },
+    "CxWBBw": {
+        "ko": "[집사]\n이 훈련으로 말할 것 같으면 140레벨 이상인 곤충형 몬스터를 50마리 잡는 수행입니다.",
+        "en": "[Butler]\nThis training involves hunting 50 insect monsters of Level 140 or higher.",
+        "pt": "[Mordomo]\nEste treinamento envolve derrotar 50 monstros do tipo Inseto de Nível 140 ou superior.",
+        "es": "[Mayordomo]\nEste entrenamiento consiste en cazar 50 monstruos de tipo insecto de nivel 140 o superior."
+    },
+    "DBWBBw": {
+        "ko": "[집사]\n이 훈련으로 말할 것 같으면 140레벨 이상인 어패형 몬스터를 50마리 잡는 수행입니다.",
+        "en": "[Butler]\nThis training involves hunting 50 fish monsters of Level 140 or higher.",
+        "pt": "[Mordomo]\nEste treinamento envolve derrotar 50 monstros do tipo Peixe de Nível 140 ou superior.",
+        "es": "[Mayordomo]\nEste entrenamiento consiste en cazar 50 monstruos de tipo pez de nivel 140 o superior."
+    },
+    "DRWBBw": {
+        "ko": "[집사]\n이 훈련으로 말할 것 같으면 140레벨 이상인 식물형 몬스터를 50마리 잡는 수행입니다.",
+        "en": "[Butler]\nThis training involves hunting 50 plant monsters of Level 140 or higher.",
+        "pt": "[Mordomo]\nEste treinamento envolve derrotar 50 monstros do tipo Planta de Nível 140 ou superior.",
+        "es": "[Mayordomo]\nEste entrenamiento consiste en cazar 50 monstruos de tipo planta de nivel 140 o superior."
+    },
+    "DhWBBw": {
+        "ko": "[집사]\n이 훈련으로 말할 것 같으면 140레벨 이상인 악마형 몬스터를 50마리 잡는 수행입니다.",
+        "en": "[Butler]\nThis training involves hunting 50 demon monsters of Level 140 or higher.",
+        "pt": "[Mordomo]\nEste treinamento envolve derrotar 50 monstros do tipo Demônio de Nível 140 ou superior.",
+        "es": "[Mayordomo]\nEste entrenamiento implica cazar 50 monstruos de tipo demonio de nivel 140 o superior."
+    },
+    "DxWBBw": {
+        "ko": "[집사]\n이 훈련으로 말할 것 같으면 140레벨 이상인 천사형 몬스터를 50마리 잡는 수행입니다.",
+        "en": "[Butler]\nThis training involves hunting 50 angel monsters of Level 140 or higher.",
+        "pt": "[Mordomo]\nEste treinamento envolve derrotar 50 monstros do tipo Anjo de Nível 140 ou superior.",
+        "es": "[Mayordomo]\nEste entrenamiento consiste en cazar 50 monstruos de tipo ángel de nivel 140 o superior."
+    },
+    "EBWBBw": {
+        "ko": "[집사]\n이 훈련으로 말할 것 같으면 140레벨 이상인 불사형 몬스터를 50마리 잡는 수행입니다.",
+        "en": "[Butler]\nThis training involves hunting 50 Immortal monsters of Level 140 or higher.",
+        "pt": "[Mordomo]\nEste treinamento envolve derrotar 50 monstros do tipo Morto-Vivo de Nível 140 ou superior.",
+        "es": "[Mayordomo]\nEste entrenamiento implica cazar 50 monstruos de tipo inmortal de nivel 140 o superior."
+    },
+    "ERWBBw": {
+        "ko": "[집사]\n이 훈련으로 말할 것 같으면 140레벨 이상인 무형 몬스터를 50마리 잡는 수행입니다.",
+        "en": "[Butler]\nThis training involves hunting 50 nothing monsters of Level 140 or higher.",
+        "pt": "[Mordomo]\nEste treinamento envolve derrotar 50 monstros do tipo Amorfo de Nível 140 ou superior.",
+        "es": "[Mayordomo]\nEste entrenamiento consiste en cazar 50 monstruos de tipo intangible de nivel 140 o superior."
+    },
+    "EhWBBw": {
+        "ko": "[집사]\n이 훈련으로 말할 것 같으면 140레벨 이상인 용족 몬스터를 50마리 잡는 수행입니다.",
+        "en": "[Butler]\nThis training involves hunting 50 dragon monsters of Level 140 or higher.",
+        "pt": "[Mordomo]\nEste treinamento envolve derrotar 50 monstros do tipo Dragão de Nível 140 ou superior.",
+        "es": "[Mayordomo]\nEste entrenamiento implica cazar 50 monstruos de tipo dragón de nivel 140 o superior."
+    },
+    "ExWBBw": {
+        "ko": "[집사]\n이 훈련에 도전하시겠습니까?",
+        "en": "[Butler]\nWould you try this training?",
+        "pt": "[Mordomo]\nVocê quer fazer esse treinamento?",
+        "es": "[Mayordomo]\n¿Quieres probar este entrenamiento?"
+    },
+    "FBWBBw": {
+        "ko": "도전한다.",
+        "en": "Try.",
+        "pt": "Sim.",
+        "es": "Probar."
+    },
+    "FRWBBw": {
+        "ko": "도전하지 않는다.",
+        "en": "Do not try.",
+        "pt": "Não.",
+        "es": "No probar."
+    },
+    "FhWBBw": {
+        "ko": "[집사]\n흠.. 훈련의 내용이 마음에 들지 않으십니까? 뭐 좋습니다. 다른 훈련을 골라보시지요.",
+        "en": "[Butler]\nHum... You don't like the contents of the training? Well, it's OK. Why don't you choose another training?",
+        "pt": "[Mordomo]\nHmm... Tudo bem. Escolha com calma!",
+        "es": "[Mayordomo]\nMmm… ¿No te gusta el contenido de este entrenamiento? Bueno, no pasa nada. ¿Por qué no eliges otro entrenamiento?"
+    },
+    "FxWBBw": {
+        "ko": "[집사]\n본인의 실력보다 낮은 난이도의 훈련이라도 수행 중에 방심은 금물입니다. 무운이 있으시길..",
+        "en": "[Butler]\nYou shouldn't let your guard down even when you feel that the training is too easy for your level. Good luck...",
+        "pt": "[Mordomo]\nNão baixe a guarda, mesmo se o treinamento parecer fácil demais. Boa sorte...",
+        "es": "[Mayordomo]\nNo debes bajar la guardia aunque te parezca que el entrenamiento es demasiado fácil para tu nivel. Buena suerte…"
+    },
+    "GBWBBw": {
+        "ko": "[집사]\n현재 수행 중이십니다. 뭐 필요한 거라도 있으십니까?",
+        "en": "[Butler]\nYou are participating in the training. Do you need anything?",
+        "pt": "[Mordomo]\nA sessão de treino está em andamento. Você precisa de algo?",
+        "es": "[Mayordomo]\nEstás participando en el entrenamiento. ¿Necesitas algo?"
+    },
+    "GRWBBw": {
+        "ko": "아무것도 아니다.",
+        "en": "No.",
+        "pt": "Não",
+        "es": "No."
+    },
+    "GhWBBw": {
+        "ko": "훈련방식에 대해",
+        "en": "About the way of training",
+        "pt": "Sobre o treinamento",
+        "es": "Preguntar sobre el modo de entrenamiento"
+    },
+    "GxWBBw": {
+        "ko": "훈련의 목표",
+        "en": "About the goal of training",
+        "pt": "Qual o objetivo do treino?",
+        "es": "Preguntar sobre el objetivo del entrenamiento"
+    },
+    "HBWBBw": {
+        "ko": "훈련을 포기한다.",
+        "en": "Give up the training.",
+        "pt": "Desistir do treinamento.",
+        "es": "Abandonar el entrenamiento"
+    },
+    "HRWBBw": {
+        "ko": "[집사]\n항상 훈련은 실전처럼! 훈련 중에 방심은 절대 금물입니다.",
+        "en": "[Butler]\nYou should deal with the training like the actual fight! Do not let your guard down during the training.",
+        "pt": "[Mordomo]\nEntão não perca tempo. Você está baixando a sua guarda neste momento!",
+        "es": "[Mayordomo]\n¡Deberías encarar el entrenamiento como el combate real! No bajes la guardia durante el entrenamiento."
+    },
+    "HhWBBw": {
+        "ko": "[집사]\n리하르트 가문은 어찌하면 더 뛰어난 무사를 배출할 수 있을까를 늘 고민해 왔습니다.",
+        "en": "[Butler]\nThe Richard family has always been concerned about the ways to produce more excellent warriors.",
+        "pt": "[Mordomo]\nA família Richard sempre procurou métodos para formar os melhores guerreiros.",
+        "es": "[Mayordomo]\nLa familia Richard siempre se preocupó por hallar la forma de formar excelentes guerreros."
+    },
+    "HxWBBw": {
+        "ko": "[집사]\n특정 몬스터를 이용해 훈련하는 방식은 어느 순간 한계를 보인다고 생각하시던 가주님이 계셨습니다.",
+        "en": "[Butler]\nOne of the former heads of the family felt that the way to train with a certain monster had a limit.",
+        "pt": "[Mordomo]\nFoi então que o antigo líder da família pensou nesse tipo de treinamento que estamos tendo aqui agora...",
+        "es": "[Mayordomo]\nUno de los antiguos cabeza de familia consideraba que había cierto límite en la forma de entrenar con cierto tipo de monstruo."
+    },
+    "IBWBBw": {
+        "ko": "[집사]\n고민하던 선대의 선대 가주님께서는.. 아! 혹시 오해할까 봐 말합니다만.. 은퇴하셨을 뿐 돌아가신 분은 아니십니다.",
+        "en": "[Butler]\nThe former and former head of the family... Oh! Just to clear things out, he is retired, but he is not dead.",
+        "pt": "[Mordomo]\nAh, só pra esclarecer! Ele é o 'antigo' líder da família, mas não passou dessa para uma melhor. Ele só se aposentou.",
+        "es": "[Mayordomo]\nEl antiguo y excabeza de familia… ¡Ah! Para aclarar las cosas, está retirado, pero no está muerto."
+    },
+    "IRWBBw": {
+        "ko": "[집사]\n흠흠 다시 본론으로 돌아와서.. 자신의 수준에 따라 또 자신이 약한 타입의 몬스터를 찾아 다니며 훈련하는 방법을 찾아내셨습니다.",
+        "en": "[Butler]\nHum... Let's come back down to the business... He has come up with the method to train with the monster depending on the level of the trainee or the type of the monster.",
+        "pt": "[Mordomo]\nEntão, voltando ao assunto... Ele veio com uma ideia de treinamento para que as pessoas caçassem os determinados monstros de acordo com seus níveis.",
+        "es": "[Mayordomo]\nMmm… Volvamos a lo que nos interesa… Descubrió un método para entrenar con el monstruo en función del nivel del aprendiz o del tipo de monstruo."
+    },
+    "IhWBBw": {
+        "ko": "[집사]\n뭐.. 그렇게 시작된 훈련방식입니다.",
+        "en": "[Butler]\nWell... The training began like that...",
+        "pt": "[Mordomo]\nE foi assim que começou...",
+        "es": "[Mayordomo]\nBueno… El entrenamiento comenzó así…"
+    },
+    "IxWBBw": {
+        "ko": "[집사]\n훈련의 목표라… 쉽지만 어려운 질문이군요.",
+        "en": "[Butler]\nThe goal of the training... It is an easy and difficult question.",
+        "pt": "[Mordomo]\nO objetivo do treinamento... Essa é uma pergunta boa.",
+        "es": "[Mayordomo]\nEl objetivo del entrenamiento… Es una pregunta fácil y difícil."
+    },
+    "JBWBBw": {
+        "ko": "[집사]\n쉽게 보이는 목표는 물론 강해지는 것이겠지요? 제가 한창 때라면 그렇게 대답했을 겁니다.",
+        "en": "[Butler]\nThe most obvious goal must be getting stronger. I would have answered if I was younger.",
+        "pt": "[Mordomo]\nA resposta mais óbvia seria ficar mais forte. É o que eu teria respondido quando mais jovem.",
+        "es": "[Mayordomo]\nEl objetivo más obvio debería ser volverse más fuerte. Eso habría contestado si fuera más joven."
+    },
+    "JRWBBw": {
+        "ko": "[집사]\n하지만 지금이라면 제 주변의 사람들을 지키기 위해서 라고 대답할 것 같군요.",
+        "en": "[Butler]\nHowever, I would like to answer that it is to protect the people around me.",
+        "pt": "[Mordomo]\nMas hoje... Acredito que eu treine para proteger as pessoas ao meu redor.",
+        "es": "[Mayordomo]\nSin embargo, diría que es para proteger a las personas que me rodean."
+    },
+    "JhWBBw": {
+        "ko": "[집사]\n목표는 무사 개개인이 모두 다를 겁니다.",
+        "en": "[Butler]\nThe goal may be different for each warrior.",
+        "pt": "[Mordomo]\nAcho que o objetivo muda de pessoa pra pessoa.",
+        "es": "[Mayordomo]\nEl objetivo puede ser diferente para cada guerrero."
+    },
+    "JxWBBw": {
+        "ko": "[집사]\n포기하신다니 말리진 않겠습니다만.. 지금까지 진행하신 훈련은 다음 훈련에 반영되지 않는다는 것쯤은 알고 계시리라 믿습니다.",
+        "en": "[Butler]\nI won't stop you from giving up. However, you should know that the progress of your training so far won't be reflected in the next training.",
+        "pt": "[Mordomo]\nNão vou te impedir, mas sugiro fortemente que você continue...",
+        "es": "[Mayordomo]\nNo te detendré si quieres rendirte. Sin embargo, has de saber que el progreso de tu entrenamiento hasta ahora no se reflejará en el próximo entrenamiento."
+    },
+    "KBWBBw": {
+        "ko": "포기하지 않는다.",
+        "en": "Do not give up.",
+        "pt": "Continuar treinando.",
+        "es": "No rendirse."
+    },
+    "KRWBBw": {
+        "ko": "포기한다.",
+        "en": "Give up.",
+        "pt": "Interromper o treinamento.",
+        "es": "Rendirse."
+    },
+    "KhWBBw": {
+        "ko": "[집사]\n잘 생각하셨습니다. 훈련은 실전처럼! 훈련 중에 방심은 절대 금물입니다.",
+        "en": "[Butler]\nGood decision. You should deal with the training like the actual fight! Do not let your guard down during the training.",
+        "pt": "[Mordomo]\nBoa decisão.",
+        "es": "[Mayordomo]\nBuena decisión. ¡Deberías encarar el entrenamiento como el combate real! No bajes la guardia durante el entrenamiento."
+    },
+    "KxWBBw": {
+        "ko": "[집사]\n아쉽군요. 참고 훈련하셨다면 더 큰 보람을 얻을 수 있었을 텐데",
+        "en": "[Butler]\nToo bad. If you finished the training, you must have been able to reap the benefit of hard work.",
+        "pt": "[Mordomo]\nUma pena. Esperamos que volte para treinar novamente.",
+        "es": "[Mayordomo]\nQué pena. Si terminaste el entrenamiento, deberías poder disfrutar de los beneficios de tu trabajo duro."
+    },
+    "LBWBBw": {
+        "ko": "[집사]\n훈련을 무사히 마치신 것을 축하 드립니다.",
+        "en": "[Butler]\nCongratulations on completing the training.",
+        "pt": "[Mordomo]\nParabéns por concluir este treinamento.",
+        "es": "[Mayordomo]\nFelicitaciones por completar el entrenamiento."
+    },
+    "LRWBBw": {
+        "ko": "[집사]\n뭐든 꾸준하게 훈련하신다면 금방 원하는 목표에 도달 하실 수 있으실 겁니다.",
+        "en": "[Butler]\nIf you keep training, you'll achieve the goal you want.",
+        "pt": "[Mordomo]\nSe você continuar treinando, você irá muito longe.",
+        "es": "[Mayordomo]\nSi sigues entrenando, alcanzarás el objetivo que deseas."
+    },
+    "LhWBBw": {
+        "ko": "[집사]\n이건 훈련해 주신 보답으로 준비한 것입니다.",
+        "en": "[Butler]\nThis is what I have prepared for the reward for completing training.",
+        "pt": "[Mordomo]\nEspero que a recompensa valha a pena para você.",
+        "es": "[Mayordomo]\nPreparé esto como recompensa por completar el entrenamiento."
+    },
+    "LxWBBw": {
+        "ko": "[집사]\n훈련해 주시는 것만으로도 리하르트 가문 나름의 이익이 있어서 드리는 것이니 부담 가지시지는 말아주십시오.",
+        "en": "[Butler]\nWe thank you for training with us since it benefits the Richard family. Don't feel pressured.",
+        "pt": "[Mordomo]\nMuito obrigado por participar do treinamento da família Richard.",
+        "es": "[Mayordomo]\nAgradecemos que entrenes con nosotros, ya que beneficia a la familia Richard. Olvídate de la presión."
+    },
+    "MBWBBw": {
+        "ko": "[집사]\n(1) 알 수 없는 일이군요.\n일단 제가 해결해드렸습니다만 같은 현상이 또 발생하시면 스크린샷을 찍어 운영 팀에 문의해주시기 바랍니다.",
+        "en": "[Butler]\n(1) An unknown thing has happened.\nI have taken care of it. If the same thing occurs again, take a screenshot and send it to the admin team.",
+        "pt": "[Mordomo]\nHouve um erro inesperado.",
+        "es": "[Mayordomo]\n(1) Ocurrió un problema desconocido.\nYa me ocupé. Si vuelve a pasar, haz una captura de pantalla y envíala al equipo de administración."
+    },
+    "MRWBBw": {
+        "ko": "포 리하르트",
+        "en": "Po Richard",
+        "pt": "Po Richard",
+        "es": "Po Richard"
+    },
+    "MhWBBw": {
+        "ko": "[포 리하르트]\n모험가인가? 아직은 더 노력해야 될 것 같군.",
+        "en": "[Po Richard]\nAn adventurer? I guess you need to try harder now.",
+        "pt": "[Po Richard]\nViajante? Hum, acho que você não tem nível o suficiente ainda...",
+        "es": "[Po Richard]\n¿Eres trotamundos? Supongo que tendrás que esforzarte más."
+    },
+    "MxWBBw": {
+        "ko": "[포 리하르트]\n지금은 피곤해서 쉬고 싶구나.",
+        "en": "[Po Richard]\nI'd like to take a rest now.",
+        "pt": "[Po Richard]\nCom licença, mas eu gostaria de descansar um pouco agora...",
+        "es": "[Po Richard]\nAhora me gustaría descansar."
+    },
+    "NBWBBw": {
+        "ko": "[포 리하르트]\n왕성에 놀러 온 모험가 같은데 지금은 휴식시간이니 문 앞의 집사에게 말해 접견시간을 잡고 오도록.",
+        "en": "[Po Richard]\nYou must be an adventurer invited to the palace. I am taking a rest now. Talk to the butler in front of the door to make an appointment.",
+        "pt": "[Po Richard]\nVocê deve ter sido convidado para o palácio, mas infelizmente estou descansando agora. Peço para que converse com o nosso mordomo na frente da porta.",
+        "es": "[Po Richard]\nTe deben haber invitado al palacio. Ahora estoy tomando un descanso. Habla con el mayordomo de la puerta para concertar una cita."
+    },
+    "NRWBBw": {
+        "ko": "[포 리하르트]\n그것이 왕성의 법도다.",
+        "en": "[Po Richard]\nThat is the way to do it in the palace.",
+        "pt": "[Po Richard]\nÉ assim que fazemos por aqui.",
+        "es": "[Po Richard]\nAsí es como se hace en el palacio."
+    },
+    "NhWBBw": {
+        "ko": "[포 리하르트]\n자네가 마왕토벌에 큰 공을 세웠다는 모험가로군? 그 공은 이곳 왕실에서도 널리 퍼져있지.",
+        "en": "[Po Richard]\nYou must be the adventurer who has made a great contribution in the subjugation of the dark lord. Your work is known in the palace as well.",
+        "pt": "[Po Richard]\nVocê tem uma ótima fama por ter ajudado a expurgar as forças do mal. Seus feitos são conhecidos por todo o palácio.",
+        "es": "[Po Richard]\nTrotamundos, tú debes ser quien contribuyó en la subyugación del Lord oscuro. Tu trabajo también es reconocido en el palacio."
+    },
+    "NxWBBw": {
+        "ko": "[포 리하르트]\n특히 우리 리하르트 가문은 자네의 활약에 주목하고 있다네.",
+        "en": "[Po Richard]\nEspecially, us, the Richard family, are interested in your work.",
+        "pt": "[Po Richard]\nNós, da família Richard, estamos muito interessados em você.",
+        "es": "[Po Richard]\nA nosotros, la familia Richard, nos interesa especialmente tu trabajo."
+    },
+    "OBWBBw": {
+        "ko": "[포 리하르트]\n이유가 궁금하지 않은가?",
+        "en": "[Po Richard]\nDo you want to know why?",
+        "pt": "[Po Richard]\nQuer saber por quê?",
+        "es": "[Po Richard]\n¿Quieres saber por qué?"
+    },
+    "ORWBBw": {
+        "ko": "[포 리하르트]\n뭐 자네가 궁금해하지 않아도 난 하려던 말을 할 테니 적당히 흘려 듣게.",
+        "en": "[Po Richard]\nWell, even if you don't want to know, I am going to say what I want to say anyway.",
+        "pt": "[Po Richard]\nBem, mesmo que não queira saber, vou te dizer de qualquer maneira.",
+        "es": "[Po Richard]\nBueno, aunque no quieras saberlo, te lo diré de todos modos."
+    },
+    "OhWBBw": {
+        "ko": "[포 리하르트]\n사실 자네가 이곳까지 오고 싶어 왔겠는가? 귀찮지만 높으신 분들이 부르니 왔겠지. 그 정도 이해 못할 아량은 아니라네.",
+        "en": "[Po Richard]\nIn fact, it was not your will to come here. I am pretty sure that you must have come here since the his nibs called you. I understand that.",
+        "pt": "[Po Richard]\nNa verdade, não foi sua vontade vir aqui. Tenho quase certeza de que você deve ter vindo por causa dos seus superiores. Eu entendo isso.",
+        "es": "[Po Richard]\nDe hecho, no fue tu voluntad la que te trajo aquí. Estoy seguro de que viniste aquí porque te convocó su excelencia. Entiendo."
+    },
+    "OxWBBw": {
+        "ko": "[포 리하르트]\n모험가들은 왕궁의 사정에 별 관심이 없을지 모르겠지만 리하르트 왕가는 룬 미드가츠 왕국에서 대대로 군권을 장악하고 있다네.",
+        "en": "[Po Richard]\nAlthough the adventurers may care less about the palace affairs, the Richard family is in charge of the military force of Rune Midgard.",
+        "pt": "[Po Richard]\nSuponho que aventureiros como você não tenham o mínimo de interesse pelos assuntos do palácio, mas a família Richard está em busca de expandir suas forças militares.",
+        "es": "[Po Richard]\nAunque a los trotamundos les importen poco y nada los asuntos del palacio, la familia Richard está a cargo de la fuerza militar de Rune-Midgarts."
+    },
+    "PBWBBw": {
+        "ko": "[포 리하르트]\n그 명성만큼이나 뛰어난 무사를 많이 배출하고 있지. 흠! 갑자기 궁금해 지는군. 혹시 리하르트 출신 무사에 대해 들어보았나?",
+        "en": "[Po Richard]\nWe produce many excellent warriors as well. Hum! I am curious all of a sudden. Have you heard of the warrior from the Richard family?",
+        "pt": "[Po Richard]\nNós formamos guerreiros excelentes... Aliás, você já ouviu falar de nossas forças?",
+        "es": "[Po Richard]\nTambién formamos a muchos guerreros excelentes. Mmm... De repente siento curiosidad. ¿Oíste hablar del guerrero de la familia Richard?"
+    },
+    "PRWBBw": {
+        "ko": "들어봤다.",
+        "en": "Yes, I have.",
+        "pt": "Sim, claro.",
+        "es": "Sí, oí hablar de él."
+    },
+    "PhWBBw": {
+        "ko": "들어보지 못했다.",
+        "en": "No, I haven't.",
+        "pt": "Não, nunca ouvi.",
+        "es": "No, no oí hablar de él."
+    },
+    "PxWBBw": {
+        "ko": "[포 리하르트]\n하하하 역시 리하르트 란 이름은 모험가에게까지 널리 알려진 것 같군.",
+        "en": "[Po Richard]\nHahaha, I guess the name of Richard must be known to the adventurers as well.",
+        "pt": "[Po Richard]\nHahaha, suponho que o nome Richard seja conhecido pelos aventureiros, também.",
+        "es": "[Po Richard]\nJa, ja, ja, supongo que los trotamundos también conocen el nombre de Richard."
+    },
+    "QBWBBw": {
+        "ko": "[포 리하르트]\n이런 이런 내 자만이었나 보군. 리하르트 왕가도 더 노력해야겠어.",
+        "en": "[Po Richard]\nOh, my. I must have been a braggart. The Richard family should try harder.",
+        "pt": "[Po Richard]\nPuxa... Acho que precisamos nos esforçar em propagar a nossa fama.",
+        "es": "[Po Richard]\nOh, vaya. Debo haber sido un fanfarrón. La familia Richard debería esforzarse más."
+    },
+    "QRWBBw": {
+        "ko": "[포 리하르트]\n뭐 사소한 일이니 넘어가도록 하지. 이거 이렇게 말을 많이 한 것이 얼마만인지. 오랜만에 말을 많이 했더니 목이 타는군.",
+        "en": "[Po Richard]\nWell, since it is not important, I guess we should let it pass. It's been a long time since I say this much. I am thirsty.",
+        "pt": "[Po Richard]\nNossa... Faz tempo desde a última vez que falei tanto. Estou com sede.",
+        "es": "[Po Richard]\nBueno, como no es importante, supongo que deberíamos dejarlo pasar. Hacía mucho tiempo que no hablaba tanto. Tengo sed."
+    },
+    "QhWBBw": {
+        "ko": "[포 리하르트]\n잠시 쉬었다 계속하기로 할까?",
+        "en": "[Po Richard]\nShall we take a rest before proceeding?",
+        "pt": "[Po Richard]\nPodemos descansar um pouco antes de seguirmos em frente?",
+        "es": "[Po Richard]\n¿Tomamos un descanso antes de continuar?"
+    },
+    "QxWBBw": {
+        "ko": "[포 리하르트]\n그럼 이제 슬슬 자네가 기다리던 리하르트 왕가가 자네를 주목했던 이유를 이야기하도록 할까?",
+        "en": "[Po Richard]\nWell, let's talk about the reason that the Richard family has been interested in you then.",
+        "pt": "[Po Richard]\nBem, vamos falar mais sobre o motivo pelo qual estamos interessados em você.",
+        "es": "[Po Richard]\nBueno, entonces hablemos de la razón por la que la familia Richard se fijó en ti."
+    },
+    "RBWBBw": {
+        "ko": "[포 리하르트]\n리하르트 왕가는 세간에 알려진 대로 뛰어난 무사를 배출해내고 있지. 그 밑받침에는 체계적인 훈련시스템이 자리하고 있다네.",
+        "en": "[Po Richard]\nAs known, the Richard family is producing outstanding warriors. We run a systematic training system to support that.",
+        "pt": "[Po Richard]\nComo eu comentei, a família Richard forma guerreiros ímpares. O programa de treinamento intenso que conduzimos colabora muito para esse fim.",
+        "es": "[Po Richard]\nComo es sabido, la familia Richard forma guerreros excepcionales. Contamos con un sistema de entrenamiento sistemático para ello."
+    },
+    "RRWBBw": {
+        "ko": "[포 리하르트]\n난 그리 마음에 들지 않는 훈련 법이네만, 확실히 오랫동안 노하우가 집약된 효과적인 훈련 법이라고 생각한다네.",
+        "en": "[Po Richard]\nI am not fond of such training, but I believe that it is an effective training program based on the knowhow of the family.",
+        "pt": "[Po Richard]\nEu não aprovo esse treinamento 100%, mas sei que é uma forma eficiente de alcançarmos nossos objetivos.",
+        "es": "[Po Richard]\nNo me gusta este tipo de entrenamiento, pero creo que es un programa eficaz basado en los conocimientos de la familia."
+    },
+    "RhWBBw": {
+        "ko": "[포 리하르트]\n이제부터 본론이니 잘 듣게.",
+        "en": "[Po Richard]\nPlease listen up since I am about to get to the point.",
+        "pt": "[Po Richard]\nMas vamos logo ao assunto. Peço para que preste atenção.",
+        "es": "[Po Richard]\nPresta atención porque voy a ir al grano."
+    },
+    "RxWBBw": {
+        "ko": "[포 리하르트]\n모험가들은 큰 관심 없었겠지만, 이번 마왕토벌에 참여한 무사들 중에는 왕가의 사람들이 제법 있었지. 그들에게 자네의 활약을 보고받기도 했고 말이야.",
+        "en": "[Po Richard]\nI guess the adventurers were not that interested; however, there were many members of the royal family participating in the subjugation of the dark lord. I have been reported of your work from them.",
+        "pt": "[Po Richard]\nAcho que os aventureiros não estavam tão interessados; no entanto, havia muitos membros da família real participando da caçada do Satã Morroc. Eles me informaram sobre o seu trabalho.",
+        "es": "[Po Richard]\nSupongo que a los trotamundos no les interesaba mucho; sin embargo, muchos miembros de la Casa real participaron en la subyugación del Lord oscuro. Ellos me informaron sobre tu participación."
+    },
+    "SBWBBw": {
+        "ko": "[포 리하르트]\n자네의 활약을 보고 받던 도중 문뜩! 조금은 경직된 훈련시스템을 자유롭게 살아가던 모험가들이 행한다면? 과연 어떤 결과가 나올지.. 궁금증이 생겼다네.",
+        "en": "[Po Richard]\nWhen I was reported of the contributions you made, a question came to my mind. What if a free roaming adventure take part in the strict training system? What would happen? I got curious.",
+        "pt": "[Po Richard]\nQuando eu fiquei sabendo de seus feitos e aventuras, me veio uma ideia à mente. E se o nosso treinamento se passasse em uma aventura aberta, em vez de seu formato fechado atual? Será que funcionaria?",
+        "es": "[Po Richard]\nCuando supe de las contribuciones que hiciste, me vino a la mente una pregunta. ¿Y si los trotamundos de libre andar participaran en un sistema de entrenamiento estricto? ¿Qué pasaría? Me picó la curiosidad."
+    },
+    "SRWBBw": {
+        "ko": "[포 리하르트]\n이름난 모험가인 자네가 도와준다면 적당한 보수도 지급하지. 어떤가?",
+        "en": "[Po Richard]\nI would like to make a handsome payment if a renowned adventurer like you helps us.",
+        "pt": "[Po Richard]\nObviamente, se um aventureiro como você nos ajudasse a testar isso, eu o recompensaria com uma bela grana.",
+        "es": "[Po Richard]\nOfrecería una generosa recompensa a un trotamundos de renombre como tú a cambio de su ayuda."
+    },
+    "ShWBBw": {
+        "ko": "[포 리하르트]\n꽤 매력적인 제안이라고 생각하네만, 리하르트 왕가의 무사훈련에 도전할 생각 있는가?",
+        "en": "[Po Richard]\nI feel that it is an attractive offer. Would you challenge the warrior training system of the Richard family?",
+        "pt": "[Po Richard]\nAcredito que seja uma proposta atraente. O que você acha?",
+        "es": "[Po Richard]\nCreo que es una oferta atractiva. ¿Harás frente al sistema de entrenamiento de guerreros de la familia Richard?"
+    },
+    "SxWBBw": {
+        "ko": "해보겠다.",
+        "en": "I'll try.",
+        "pt": "Podemos tentar!",
+        "es": "Lo intentaré."
+    },
+    "TBWBBw": {
+        "ko": "거절한다.",
+        "en": "I decline.",
+        "pt": "Sinto muito, mas não.",
+        "es": "Me niego."
+    },
+    "TRWBBw": {
+        "ko": "[포 리하르트]\n역시! 시원시원한 결정 마음에 드는군. 그런 도전정신은 내가 가장 높게 생각하는 덕목이지.",
+        "en": "[Po Richard]\nIndeed! I like the quick decision. I value the spirit of challenge.",
+        "pt": "[Po Richard]\nRespondeu rápido! Estou contente!",
+        "es": "[Po Richard]\n¡Definitivamente! Me gustan las decisiones rápidas. Y valoro el espíritu desafiante."
+    },
+    "ThWBBw": {
+        "ko": "[포 리하르트]\n집사에게 말해두도록 하지. 그를 통해 훈련을 진행하도록 하게.",
+        "en": "[Po Richard]\nLet me tell the butler about it. You can proceed with the training through him.",
+        "pt": "[Po Richard]\nVou comentar com o mordomo e aí tomamos as devidas medidas.",
+        "es": "[Po Richard]\nDeja que se lo comente al mayordomo. Puedes proceder al entrenamiento hablando con él."
+    },
+    "TxWBBw": {
+        "ko": "[포 리하르트]\n자네에게 매력적인 제안은 아니었나 보군. 아쉽지만 언제든 생각이 바뀌면 찾아오게.",
+        "en": "[Po Richard]\nI guess the offer hasn't been attractive to you. I am sorry, but come back later when you change your mind.",
+        "pt": "[Po Richard]\nHmm, sinto muito. Achei que a proposta fosse interessante... Volte se mudar de ideia.",
+        "es": "[Po Richard]\nSupongo que la oferta no te resultó atractiva. Lo lamento. Puedes volver más tarde cuando cambies de opinión."
+    },
+    "UBWBBw": {
+        "ko": "[포 리하르트]\n집사가 훈련을 진행한다 하여 만만하게 보진 말게.",
+        "en": "[Po Richard]\nDon't underestimate the butler who would guide you through the training.",
+        "pt": "[Po Richard]\nNão subestime o mordomo que o guiou pelo treinamento.",
+        "es": "[Po Richard]\nNo subestimes al mayordomo que te guiará durante el entrenamiento."
+    },
+    "URWBBw": {
+        "ko": "[포 리하르트]\n그 역시 리하르트 왕가의 인물. 어디 내놓아도 떨어지지 않는 훌륭한 무사이니까.",
+        "en": "[Po Richard]\nHe is a member of the Richard family himself. He is an outstanding warrior.",
+        "pt": "[Po Richard]\nEle é um membro da família Richard também, e um guerreiro formidável.",
+        "es": "[Po Richard]\nÉl mismo es miembro de la familia Richard. Es un guerrero excepcional."
+    },
+    "UhWBBw": {
+        "ko": "[포 리하르트]\n훈련의 보수는 마음에 드는지 모르겠군.",
+        "en": "[Po Richard]\nI wonder if you are happy with the rewards of the training.",
+        "pt": "[Po Richard]\nEspero que esteja contente com a recompensa do treinamento.",
+        "es": "[Po Richard]\nMe pregunto si te satisfacen las recompensas del entrenamiento."
+    },
+    "UxWBBw": {
+        "ko": "[포 리하르트]\n여러 사정 상 그 이상의 보수지급은 무리일걸세. 여가시간에 아르바이트 한다는 느낌으로 해주면 고맙겠군.",
+        "en": "[Po Richard]\nIt would be difficult to offer you a payment higher than that for now. Please do it as if you are having a part-time job.",
+        "pt": "[Po Richard]\nSeria difícil oferecer um pagamento maior que esse. Encare esse dinheiro apenas como uma renda adicional.",
+        "es": "[Po Richard]\nSería difícil ofrecerte un mejor pago que ese por ahora. Si puedes, considéralo como un trabajo a tiempo parcial."
+    },
+    "VBWBBw": {
+        "ko": "[포 리하르트]\n자네는 당연하게 생각할지 모르겠지만, 훈련을 해줄수록 리하르트 왕가 나름의 이익이 있는 것이니 보수도 지급하는 거라네.",
+        "en": "[Po Richard]\nYou may find it obvious. However, the more you get yourself trained, the more benefits that Richard family gets. We are willing to pay for it.",
+        "pt": "[Po Richard]\nNo entanto, saiba que quanto mais você treinar, mais benefícios a família Richard ganhará. E sempre estaremos dispostos a pagar por isso.",
+        "es": "[Po Richard]\nTal vez te resulte obvio. Pero cuanto más entrenes, más beneficios obtendrá la familia Richard. Estamos dispuestos a pagar por ello."
+    },
+    "VRWBBw": {
+        "ko": "[포 리하르트]\n오! 훈련중인 가보군. 어때? 훈련은 할만한가?",
+        "en": "[Po Richard]\nOh! You must be participating in the training. Well, how do you find the training?",
+        "pt": "[Po Richard]\nOh! Você deve estar participando do treinamento. O que está achando?",
+        "es": "[Po Richard]\n¡Ah! Debe estar participando en el entrenamiento. Y bien, ¿qué te parece hasta ahora?"
+    },
+    "VhWBBw": {
+        "ko": "[포 리하르트]",
+        "en": "[Po Richard]",
+        "pt": "[Po Richard]",
+        "es": "[Po Richard]"
+    },
+    "VxWBBw": {
+        "ko": "나도 수련시절에 자네가 지금 하고 있는 훈련을 많이 했었지. 추억이 떠오르는군.",
+        "en": "I have participated in the training myself when I was younger. It brings back the good old memories.",
+        "pt": "Eu fiz esse mesmo treinamento quando era mais jovem. Me traz boas lembranças...",
+        "es": "Yo mismo participé en este entrenamiento cuando era más joven. Me trae buenos recuerdos."
+    },
+    "WBWBBw": {
+        "ko": "다양한 수련이 있으니 마음에 드는 것으로 골라서 하게. 뭐 모험가들은 보통 하는 것만 하는 것 같긴 하더군.",
+        "en": "There are a variety of training programs. Please choose what you'd like to participate. Well, the adventurers tend to do what they usually do.",
+        "pt": "Há diversos programas de treinamento. Sinta-se livre para escolher o que preferir.",
+        "es": "Existe una variedad de programas de entrenamiento. Elige en cuál te gustaría participar. Bueno, los trotamundos tienden a hacer lo que acostumbran."
+    },
+    "WRWBBw": {
+        "ko": "꼭 방심하는 순간 사고가 벌어지더군. 전투 때는 항상 긴장을 유지하게.",
+        "en": "Accidents happen when you let your guard down. Always make sure to watch out.",
+        "pt": "Lembre-se de nunca abaixar a guarda, ou pode haver um acidente.",
+        "es": "Cuando bajas la guardia, ocurren accidentes. Siempre asegúrate de estar alerta."
+    },
+    "WhWBBw": {
+        "ko": "무를 추구하는 자에게 가장 중요한 건 도전정신이라고 생각한다네. 더 강한 경지로 가기 위한 계속된 도전 역시 이게 가장 중요한 것 같군.",
+        "en": "I believe the most important thing to a warrior is the spirit of challenge. The challenge to move on to the next level... It is the most important thing.",
+        "pt": "O maior valor de um guerreiro é o seu espírito desafiador. É importante estar disposto a encarar barreiras cada vez maiores.",
+        "es": "Creo que lo más importante para un guerrero es el espíritu de desafío. El desafío de pasar al siguiente nivel… Eso es lo esencial."
+    },
+    "WxWBBw": {
+        "ko": "한 때 프론테라 주점에서 무인의 삶을 노래한 노래가 선풍적인 인기를 끌었던 때가 있었는데 요즘은 들을 수 없어서 아쉽군.",
+        "en": "A song of a warrior was very popular in the pub in Prontera. I am sad that I cannot hear it these days.",
+        "pt": "Havia uma canção que celebrava os guerreiros, e sempre havia um bardo em Prontera cantando ela...",
+        "es": "Había una canción sobre un guerrero que era muy popular en la cantina de Prontera. Me entristece no poder escucharla estos días."
+    },
+    "XBWBBw": {
+        "ko": "자네 도박 좋아하나 모르겠군. 도박의 적당한 긴장감이 꼭 전투중인 무사의 마음가짐 같지않나?",
+        "en": "Do you like gambling by any chance? Doesn't the tension make you feel like a warrior in battle?",
+        "pt": "Você gosta de fazer apostas? A sensação que te dá não é similar à tensão da batalha?",
+        "es": "¿Por casualidad te gustan los juegos de azar? ¿La tensión no te hace sentir como un guerrero en medio de una batalla?"
+    },
+    "XRWBBw": {
+        "ko": "[포 리하르트]\n거참 알 수 없는 일이군. 이건 뭐 내가 해결해 줄 수 있는 것도 없고 스크린샷을 찍어 운영 팀에 문의를 넣으면 될 걸세.",
+        "en": "[Po Richard]\nHow strange. I cannot do anything about it. Take a screenshot and send it to the admin team.",
+        "pt": "[Po Richard]\nHouve um erro.",
+        "es": "[Po Richard]\nQué extraño. No tengo ninguna solución. Haz una captura de pantalla y envíala al equipo de administración."
+    },
+    "XhWBBw": {
+        "ko": "리하르트 왕가 도우미",
+        "en": "Helper for the Royal Richard",
+        "pt": "Ajudante",
+        "es": "Ayudante de la Realeza de Richard"
+    },
+    "XxWBBw": {
+        "ko": "[리하르트 왕가 도우미]\n사용할 서비스를 선택하세요",
+        "en": "[Helper for the Royal Richard]\nSelect the service to use.",
+        "pt": "[Ajudante]\nEscolha um serviço.",
+        "es": "[Ayudante de la Realeza de Richard]\nSelecciona el servicio que deseas usar."
+    },
+    "YBWBBw": {
+        "ko": "퀘스트 시작세팅",
+        "en": "Quest Start Setting",
+        "pt": "Configurações da Quest",
+        "es": "Ajustes de inicio de la misión"
+    },
+    "YRWBBw": {
+        "ko": "쿨 타임 초기화",
+        "en": "Reset cooldown.",
+        "pt": "Zerar cooldown.",
+        "es": "Restablecer el tiempo de espera."
+    },
+    "YhWBBw": {
+        "ko": "퀘스트 리셋",
+        "en": "Reset Quest",
+        "pt": "Zerar Quest",
+        "es": "Restablecer la misión."
+    },
+    "YxWBBw": {
+        "ko": "현재상태확인",
+        "en": "Check current status",
+        "pt": "Consultar status atual",
+        "es": "Comprobar el estado actual."
+    },
+    "ZBWBBw": {
+        "ko": "[리하르트 왕가 도우미]\n리하르트 왕가 퀘스트를 시작할 수 있도록 세팅합니다.",
+        "en": "[Helper for the Royal Richard]\nSet to proceed with the Richard family quest.",
+        "pt": "[Ajudante]\nProcesso concluído.",
+        "es": "[Ayudante de la realeza de Richard]\nConfigurar para avanzar con la misión de la familia Richard."
+    },
+    "ZRWBBw": {
+        "ko": "세팅",
+        "en": "Setting",
+        "pt": "Zerar",
+        "es": "Ajustes"
+    },
+    "ZhWBBw": {
+        "ko": "[리하르트 왕가 도우미]\n완료",
+        "en": "[Helper for the Royal Richard]\nComplete",
+        "pt": "[Ajudante]\nProcesso concluído.",
+        "es": "[Ayudante de la realeza de Richard]\nCompletar"
+    },
+    "ZxWBBw": {
+        "ko": "[리하르트 왕가 도우미]\n리하르트 왕가 전투훈련 쿨타임을 초기화합니다.",
+        "en": "[Helper for the Royal Richard]\nReset the cooldown time of the Richard family battle training.",
+        "pt": "[Ajudante]\nCooldown zerado.",
+        "es": "[Ayudante de la realeza de Richard]\nRestablecer el tiempo de espera del entrenamiento de batalla de la familia Richard."
+    },
+    "aBWBBw": {
+        "ko": "[리하르트 왕가 도우미]\n리하르트 관련 퀘스트를 모두 리셋합니다.",
+        "en": "[Helper for the Royal Richard]\nReset all Richard-related quests.",
+        "pt": "[Ajudante]\nZerar todas as quests da família Richard.",
+        "es": "[Ayudante de la realeza de Richard]\nRestablecer todas las misiones relacionadas con la familia Richard."
+    },
+    "aRWBBw": {
+        "ko": "[리하르트 왕가 도우미]",
+        "en": "[Helper for the Royal Richard]",
+        "pt": "[Ajudante]",
+        "es": "[Ayudante de la realeza de Richard]"
+    },
+    "ahWBBw": {
+        "ko": "{0}삭제",
+        "en": "{0}Delete",
+        "pt": "{0} - Deletado",
+        "es": "{0}Borrar"
+    },
+    "axWBBw": {
+        "ko": "[리하르트 왕가 도우미]\n7681({0})/7682({1})\n5402({2})/5403({3})\n5404({4})/5405({5})/5406({6})/5407({7})\n5408({8})/5409({9})/5410({10})/5411({11})\n5412({12})/5413({13})/5414({14})",
+        "en": "[Helper for the Royal Richard]\n7681({0})/7682({1})\n5402({2})/5403({3})\n5404({4})/5405({5})/5406({6})/5407({7})\n5408({8})/5409({9})/5410({10})/5411({11})\n5412({12})/5413({13})/5414({14})",
+        "pt": "[Ajudante]\n7681({0})/7682({1})\n5402({2})/5403({3})\n5404({4})/5405({5})/5406({6})/5407({7})\n5408({8})/5409({9})/5410({10})/5411({11})\n5412({12})/5413({13})/5414({14})",
+        "es": "[Ayudante de la realeza de Richard]\n7681({0})/7682({1})\n5402({2})/5403({3})\n5404({4})/5405({5})/5406({6})/5407({7})\n5408({8})/5409({9})/5410({10})/5411({11})\n5412({12})/5413({13})/5414({14})"
+    }
+}

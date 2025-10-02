@@ -1,0 +1,77 @@
+{
+    "IOWcCA": {
+        "en": "Coin Exchanger's Assistant",
+        "pt": "Negociante",
+        "es": "Ayudante de cambista"
+    },
+    "IeWcCA": {
+        "en": "You have too many types of items. Reduce the type of items and try again.",
+        "pt": "Seu inventário não tem espaço suficiente para iniciar um diálogo.\nReduza os itens.",
+        "es": "Tienes demasiados tipos de objetos. Reduce los tipos de objetos y vuelve a intentarlo."
+    },
+    "IuWcCA": {
+        "en": "The items you have are too heavy, so it's difficult to proceed further. Reduce the weight and try again.",
+        "pt": "Os itens que você tem são muito pesados, por isso é difícil prosseguir. Reduza o peso e tente novamente.",
+        "es": "Los objetos que tienes son demasiado pesados, por lo que es difícil seguir adelante. Reduce el peso y vuelve a intentarlo."
+    },
+    "I+WcCA": {
+        "en": "[Coin Exchanger's Assistant]\nI'm helping the Exchanger sit next to me and exchanging the scroll with coins. See if there's anything you like.",
+        "pt": "[Assistente de troca de moedas]\nEstou ajudando o cambista sentado ao meu lado e trocando o pergaminho por moedas. Veja se há algo de que você goste.",
+        "es": "[Asistente del intercambiador de monedas]\nAyudo al intercambiador a mi lado a canjear el pergamino por monedas. Mira si hay algo que te guste."
+    },
+    "JOWcCA": {
+        "en": "Cancel",
+        "pt": "Cancelar.",
+        "es": "Cancelar."
+    },
+    "JeWcCA": {
+        "en": "Magic Armor Scroll",
+        "pt": "Encantador Mágico",
+        "es": "Pergamino de armadura mágica."
+    },
+    "JuWcCA": {
+        "en": "Magic Accessory Scroll",
+        "pt": "Encantador Místico",
+        "es": "Pergamino de accesorio mágico."
+    },
+    "J+WcCA": {
+        "en": "[Coin Exchanger's Assistant]\nOkay. Come back anytime.",
+        "pt": "[Assistente de troca de moedas]\nOk. Volte sempre que quiser.",
+        "es": "[Asistente del intercambiador de monedas]\nBueno. Vuelve cuando quieras."
+    },
+    "KOWcCA": {
+        "en": "Geffen Magic Contest Coin",
+        "pt": "Moeda Mágica de Geffen",
+        "es": "Moneda del Concurso de magia Geffen."
+    },
+    "KeWcCA": {
+        "en": "Geffen Magic Armor Scroll",
+        "pt": "Encantador Mágico de Geffen",
+        "es": "Pergamino de armadura mágica Geffen."
+    },
+    "KuWcCA": {
+        "en": "Geffen Magic Accessory Scroll",
+        "pt": "Encantador Místico de Geffen",
+        "es": "Pergamino de accesorios mágicos Geffen."
+    },
+    "K+WcCA": {
+        "en": "[Coin Exchanger's Assistant]\n<ITEM>{0}<INFO>{1}</INFO></ITEM> x {2}\nTo exchange,\n<ITEM>{3}<INFO>6671</INFO></ITEM> x {4} is required.",
+        "pt": "[Negociante]\n<ITEM>{0}<INFO>{1}</INFO></ITEM> x {2}\nPara trocar,\n<ITEM>{3}<INFO>6671</INFO></ITEM> x {4} é necessário.",
+        "es": "[Asistente del intercambiador de monedas]\n<ITEM>{0}<INFO>{1}</INFO></ITEM> x {2}\nPara canjear,\nes necesario tener <ITEM>{3}<INFO>6671</INFO></ITEM> x {4}."
+    },
+    "LOWcCA": {
+        "en": "Exchange now.",
+        "pt": "Troque agora.",
+        "es": "Canjear ahora."
+    },
+    "LeWcCA": {
+        "en": "[Coin Exchanger's Assistant]\n{0} coins are required to exchange. You don't have enough coins.",
+        "pt": "[Assistente de troca de moedast]\n{0} moedas são necessárias para a troca. Você não tem moedas suficientes.",
+        "es": "[Asistente del intercambiador de monedas]\nEs necesario tener {0} monedas para realizar el canje. No tienes suficientes monedas."
+    },
+    "LuWcCA": {
+        "en": "[Coin Exchanger's Assistant]\nThe exchange was successful.",
+        "pt": "[Assistente de troca de moedas]\nA troca foi bem-sucedida.",
+        "es": "[Asistente del intercambiador de monedas]\nEl canje fue un éxito."
+    }
+}

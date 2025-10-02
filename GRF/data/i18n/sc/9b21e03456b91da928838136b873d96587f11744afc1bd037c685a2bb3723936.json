@@ -1,0 +1,542 @@
+{
+    "oEXHBw": {
+        "en": "Please try again after installing a special item.",
+        "pt": "[Gerente do Tempo]\nCP do Chefe Atual - {}\nAdicionar PPL EP17_1_EVT05",
+        "es": "Vuelve a intentarlo después de que hayas instalado un objeto especial."
+    },
+    "oUXHBw": {
+        "en": "[Time Controller]\nCurrent Boss CP Grade: {}\nAdd EP17_1_EVT05 PPL.",
+        "pt": "Cancelar",
+        "es": "[Controlador del tiempo]\nGrado de PC del jefe actual: {}\nAgregar PPL de EP17_1_EVT05."
+    },
+    "okXHBw": {
+        "en": "Cancel",
+        "pt": "Resetar Pesquisa",
+        "es": "Cancelar."
+    },
+    "o0XHBw": {
+        "en": "Reset Search",
+        "pt": "Começar Chefe",
+        "es": "Restablecer búsqueda."
+    },
+    "pEXHBw": {
+        "en": "Start Boss",
+        "pt": "Começar Chefe Modo Fácil",
+        "es": "Iniciar jefe."
+    },
+    "pUXHBw": {
+        "en": "Start Chicken Mode Boss",
+        "pt": "Oficial de Operações: Equipe Alfa, preparem-se para lutar assim que os Mutantes detectarem vocês.",
+        "es": "Iniciar jefe de modo Gallina."
+    },
+    "pkXHBw": {
+        "en": "Operations Officer: Alpha, be ready to fight as soon as Mutants are detected around you.",
+        "pt": "Oficial de Operações: Não há civis nesta área, então vocês podem atirar em qualquer coisa que se move.",
+        "es": "Oficial de operaciones: Alfa, prepárate para pelear tan pronto como detectes mutantes a tu alrededor."
+    },
+    "p0XHBw": {
+        "en": "Operations Officer: There are no civilians in this area. You may subdue anything in it that moves.",
+        "pt": "Oficial de Operações: Equipe Delta, se forem pegos de surpresa, não precisam reportar a situação, apenas atirem.",
+        "es": "Oficial de operaciones: No hay civiles en esta zona. Pueden someter a todo lo que se mueva por aquí."
+    },
+    "qEXHBw": {
+        "en": "Operations Officer: Charlie, Delta. If you see enemies, don't report to me. Just engage them right away.",
+        "pt": "Oficial de Operações: Atenção aos informes da operação.",
+        "es": "Oficial de operaciones: Charlie, Delta. Si ven enemigos, no me informen. Simplemente ataquen de inmediato."
+    },
+    "qUXHBw": {
+        "en": "Operations Officer: There are a few things you must know before you search.",
+        "pt": "Oficial de Operações: Os Mutantes A013 não ficam na base inimiga.",
+        "es": "Oficial de operaciones: Hay algunas cosas que debes saber antes de salir a buscar."
+    },
+    "qkXHBw": {
+        "en": "Operations Officer: The Mutants marked A013 operate independently from the others in the enemy bases.",
+        "pt": "Oficial de Operações: Eles são muito fortes, então, evite lutar contra eles.",
+        "es": "Oficial de operaciones: Los mutantes marcados con A013 operan independientemente de los demás en las bases enemigas."
+    },
+    "q0XHBw": {
+        "en": "Operations Officer: And they're stronger. Avoid fighting them if possible.",
+        "pt": "Oficial de Operações: Cuidado ao lidar com mutantes de CP4 ou de rank superior.",
+        "es": "Oficial de operaciones: Y son más fuertes. Evita pelear contra ellos, si es posible."
+    },
+    "rEXHBw": {
+        "en": "Operations Officer: Watch for CP4 or higher-ranked Mutants.",
+        "pt": "Oficial de Operações: Eles têm a mesma aparência que os CP1, mas mais fortes.",
+        "es": "Oficial de operaciones: Cuídate de los mutantes PC4 o de rango superior."
+    },
+    "rUXHBw": {
+        "en": "Operations Officer: They're of the same kind as CP1, but more dangerous. Don't let them surround you.",
+        "pt": "Oficial de Operações: Dizem que há uma pasta de Arquivo Confidencial no Setor 4.",
+        "es": "Oficial de operaciones: Son del mismo tipo que los PC1, pero más peligrosos. No dejes que te rodeen."
+    },
+    "rkXHBw": {
+        "en": "Operations Officer: It's said Sector 4 was a secret document archive.",
+        "pt": "Oficial de Operação: A Equipe vasculhou a área, mas não encontraram nada.",
+        "es": "Oficial de operaciones: Dicen que el sector4 era un archivo secreto de documentos."
+    },
+    "r0XHBw": {
+        "en": "Operations Officer: The advance party searched the perimeter, but didn't find anything. Be careful not to get surrounded by enemies while you're fighting.",
+        "pt": "Oficial de Operações: Equipe Bravo, cuidaremos dos mutantes de CP6, mas tomem cuidado.",
+        "es": "Oficial de operaciones: El grupo de avanzada registró el perímetro, pero no encontró nada. No dejes que los enemigos te rodeen mientras peleas."
+    },
+    "sEXHBw": {
+        "en": "Operations Officer: Bravo has engaged CP6 enemies. They have extremely high attack power.",
+        "pt": "Oficial de Operações: Equipe Alfa e Delta, evitem os mutantes CP6!",
+        "es": "Oficial de operaciones: Bravo se enfrentó a enemigos PC6. Tienen un poder de ataque extremadamente alto."
+    },
+    "sUXHBw": {
+        "en": "Operations Officer: Alpha, Charlie, and Delta. Be careful. Don't let CP6 surround you!",
+        "pt": "Dolor CP{} #{}",
+        "es": "Oficial de operaciones: Alfa, Charlie y Delta. Tengan cuidado. ¡No se dejen rodear por PC6!"
+    },
+    "skXHBw": {
+        "en": "CP{} Dolor#{}",
+        "pt": "Caput CP{} #{}",
+        "es": "PC{} Dolor#{}"
+    },
+    "s0XHBw": {
+        "en": "CP{} Caput#{}",
+        "pt": "Bellare CP{} #{}",
+        "es": "PC{} Caput#{}"
+    },
+    "tEXHBw": {
+        "en": "CP{} Bellare#{}",
+        "pt": "{}ª base segura.",
+        "es": "PC{} Bellare#{}"
+    },
+    "tUXHBw": {
+        "en": "{}th base secured.",
+        "pt": "Mutantes remanescentes -{}",
+        "es": "Base {} asegurada."
+    },
+    "tkXHBw": {
+        "en": "Remaining Mutant Vital Signs: {}",
+        "pt": "Oficial de Operações: Equioe, se virem mutantes rank S, por favor, eliminem o mais rápido possível.",
+        "es": "Signos vitales de mutantes restantes: {}"
+    },
+    "t0XHBw": {
+        "en": "Operations Officer: Everyone, if you see Grade S Mutants, engage them right away.",
+        "pt": "????: Grrr...",
+        "es": "Oficial de operaciones: Todos, si ven mutantes de grado S, atáquenlos de inmediato."
+    },
+    "uEXHBw": {
+        "en": "?: Grr...",
+        "pt": "Oficial de Operações: Mutantes com CP alto são difíceis de lidar, cuidado!",
+        "es": "¿?: Grrr…"
+    },
+    "uUXHBw": {
+        "en": "Operations Officer: Watch out for higher CP Mutants. They'll be tough to handle!",
+        "pt": "Miguel CP{}",
+        "es": "Oficial de operaciones: Cuidado con los mutantes de PC más alto. ¡Serán difíciles de manejar!"
+    },
+    "ukXHBw": {
+        "en": "CP{} Miguel",
+        "pt": "Aviso: Mutantes rank S se fortalecem quando estão longe da área.",
+        "es": "Miguel de PC{}"
+    },
+    "u0XHBw": {
+        "en": "Warning: Grade S Mutants rage out of control when they're out of their haunt.",
+        "pt": "#poison2",
+        "es": "Advertencia: Los mutantes de grado S se descontrolan cuando están fuera de su guarida."
+    },
+    "vEXHBw": {
+        "en": "#poison2",
+        "pt": "#poison4",
+        "es": "#poison2"
+    },
+    "vUXHBw": {
+        "en": "#poison4",
+        "pt": "#poison5",
+        "es": "#poison4"
+    },
+    "vkXHBw": {
+        "en": "#poison5",
+        "pt": "#poison7",
+        "es": "#poison5"
+    },
+    "v0XHBw": {
+        "en": "#poison7",
+        "pt": "Oficial de Operações",
+        "es": "#poison7"
+    },
+    "wEXHBw": {
+        "en": "Operations Officer",
+        "pt": "Oficial de Operações: Desculpe, me atrasei!",
+        "es": "Operations Officer"
+    },
+    "wUXHBw": {
+        "en": "Operations Officer: I'm sorry I'm late.",
+        "pt": "^FF0000- Seu inventário está cheio. Verifique o peso e a quantidade de itens que você tem antes de continuar. -^000000",
+        "es": "Oficial de operaciones: Siento llegar tarde."
+    },
+    "wkXHBw": {
+        "en": "^FF0000- Your inventory is full. Please check your weight and carrying item quantities, and then try again. -^000000",
+        "pt": "Seu talento é incrível. Eu respeito você!",
+        "es": "^660000- Tu inventario está lleno. Comprueba tu peso y la cantidad de objetos que llevas e inténtalo de nuevo. -^000000"
+    },
+    "w0XHBw": {
+        "en": "Your unit is quite impressive. My hat's off to you!",
+        "pt": "Muito bem! Você fez um bom trabalho!",
+        "es": "Tu unidad es impresionante. ¡Te felicito!"
+    },
+    "xEXHBw": {
+        "en": "That was amazing! Good job!",
+        "pt": "Pelo menos, você conseguiu.",
+        "es": "¡Eso fue increíble! ¡Buen trabajo!"
+    },
+    "xUXHBw": {
+        "en": "Good job!",
+        "pt": "Agradecemos sua ajuda.",
+        "es": "¡Buen trabajo!"
+    },
+    "xkXHBw": {
+        "en": "Thank you for your help.",
+        "pt": "Não foi tão ruim, né?",
+        "es": "Gracias por tu ayuda."
+    },
+    "x0XHBw": {
+        "en": "Well, it wasn't too bad, was it?",
+        "pt": "Você teve sorte de principiante.",
+        "es": "Bueno, no estuvo tan mal, ¿verdad?"
+    },
+    "yEXHBw": {
+        "en": "You got lucky during this search, didn't you?",
+        "pt": "[Oficial de Operações]\nVocê lidou com mutantes de CP{}. {}",
+        "es": "Tuviste suerte durante esta búsqueda, ¿verdad?"
+    },
+    "yUXHBw": {
+        "en": "[Operations Officer]\nYou took care of Grade CP{} Mutants.{}",
+        "pt": "[Oficial de Operações]\nIrei condecorar você com as honras das nossas tropas.",
+        "es": "[Oficial de operaciones]\nTe encargaste de los mutantes de PC grado{}.{}"
+    },
+    "ykXHBw": {
+        "en": "[Operations Officer]\nHere, take these supplies and EXP for those who joined this operation.",
+        "pt": "Vou te dar a maior recompensa de EXP.",
+        "es": "[Oficial de operaciones]\nToma estos suministros y EXP para los participantes de esta operación."
+    },
+    "y0XHBw": {
+        "en": "I gave you as much extra EXP as I can manage.",
+        "pt": "Vou te dar um pouco de EXP extra.",
+        "es": "Te di tanta EXP adicional como pude."
+    },
+    "zEXHBw": {
+        "en": "I gave you a fairly large amount of extra EXP.",
+        "pt": "Vou te dar a EXP que você merece.",
+        "es": "Te di una cantidad bastante grande de EXP adicional."
+    },
+    "zUXHBw": {
+        "en": "I gave you some extra EXP.",
+        "pt": "Vou te dar a quantia de EXP proporcional ao seu trabalho.",
+        "es": "Te di un poco de EXP adicional."
+    },
+    "zkXHBw": {
+        "en": "I'm sorry I can't give you very much extra EXP.",
+        "pt": "[Oficial de Operações]\nCP{}, certo? {}",
+        "es": "Lamento no poder darte mucha EXP adicional."
+    },
+    "z0XHBw": {
+        "en": "[Operations Officer]\nCP{}, huh?{}",
+        "pt": "[Oficial de Operações]\nEntão vamos sair agora. Teremos que fazer uma manutenção rápida.",
+        "es": "[Oficial de operaciones]\nPC{}, ¿eh?{}"
+    },
+    "0EXHBw": {
+        "en": "[Operations Officer]\nAlright, then let's get out of here. We need to regroup quickly.",
+        "pt": "Dar uma volta",
+        "es": "[Oficial de operaciones]\nMuy bien, entonces salgamos de aquí. Tenemos que reagruparnos rápidamente."
+    },
+    "0UXHBw": {
+        "en": "Stay.",
+        "pt": "Vamos sair",
+        "es": "Quedarse."
+    },
+    "0kXHBw": {
+        "en": "Leave.",
+        "pt": "[Oficial de Operações]\nÉ mesmo? Não demore muito.",
+        "es": "Irte."
+    },
+    "00XHBw": {
+        "en": "[Operations Officer]\nAlright, but don't stay behind for too long.",
+        "pt": "???",
+        "es": "[Oficial de operaciones]\nDe acuerdo, pero no te quedes atrás mucho tiempo."
+    },
+    "1EXHBw": {
+        "en": "?",
+        "pt": "[Relatório de Experimentos]\n#002413Miguel\n#Código de Pesquisa\nPlataforma 4-26",
+        "es": "?"
+    },
+    "1UXHBw": {
+        "en": "[Test Subject-related Info]\n#002413 Miguel\n#Critical Process\nPlatforms 4 - 26",
+        "pt": "[Metodologia]\nParte de um projeto que combina uma cobaia Humana com outros animais.",
+        "es": "[Información relacionada con el sujeto de prueba]\nMiguel #002413\n#Critical Process\nPlataformas4 - 26"
+    },
+    "1kXHBw": {
+        "en": "[Creation Process]\nPart of the Betty Project that combined human combatants and other creatures.",
+        "pt": "[Metodologia]\nFoi administrado 150ml de soro de Eddga na corrente sanguínea e observamos o seu processo evolutivo.",
+        "es": "[Proceso de creación]\nParte del proyecto Betty que combinaba combatientes humanos con otras criaturas."
+    },
+    "10XHBw": {
+        "en": "[Creation Process]\nMoved the combatants who had been injected with Eddga's blood serum to Platforms 4 to 26, and observed their evolution processes.",
+        "pt": "[Resultados]\nTodas as cobaias, exceto Miguel, sofreram sequelas psicológicas. Colocamos Miguel em quarentena até entendermos o que aconteceu.",
+        "es": "[Proceso de creación]\nSe trasladó a los combatientes que habían sido inyectados con el suero de sangre de Eddga a las plataformas 4 a 26 y se observaron sus procesos de evolución."
+    },
+    "2EXHBw": {
+        "en": "[Results]\nAll the other subjects except for the original Miguel experienced psychological trauma. The original subject will be kept separately until this problem is resolved.",
+        "pt": "[Relatório de Experimentos]\n#002422 Caput\n#Atividade\nUse qualquer plataforma para despejar a cobaia.",
+        "es": "[Resultados]\nTodos los demás sujetos, salvo el Miguel original, experimentaron traumas psicológicos. El sujeto original se conservará por separado hasta que se resuelva este problema."
+    },
+    "2UXHBw": {
+        "en": "[Test Subject-related Info]\n#002422 Caput\n#activity\nUse whatever remaining platforms are available for its disposal.",
+        "pt": "[Metodologia]\nA cabeça de um Filhote de Orc inteligente foi transplantada no corpo de um Filhote de Orc de ótimo porte físico.",
+        "es": "[Información relacionada con el sujeto de prueba]\nCaput #002422\n#activity\nUtilizar las plataformas que queden disponibles para su eliminación."
+    },
+    "2kXHBw": {
+        "en": "[Creation Process]\nThe head of an intelligent Orc Baby has been surgically attached to the body of an athletic Orc Baby.",
+        "pt": "[Objetivos]\nO objetivo é testar se a inteligência afetaria a capacidade de combate da cobaia.",
+        "es": "[Proceso de creación]\nLa cabeza de un bebé orco inteligente se unió quirúrgicamente al cuerpo de un bebé orco atlético."
+    },
+    "20XHBw": {
+        "en": "[Creation Purpose]\nThis will test if intelligence can affect one's combat capability and survivability.",
+        "pt": "[Resultados]\nO corpo do Filhote de Orc parou de se desenvolver e as duas cabeças entram em constante contradição.",
+        "es": "[Propósito de la creación]\nEsto pondrá a prueba si la inteligencia puede afectar a la propia capacidad de combate y supervivencia."
+    },
+    "3EXHBw": {
+        "en": "[Results]\nThe subject stopped growing, causing the test to fail. Its newly developed auto-cloning capacity was initially considered for a different Betty Project test...",
+        "pt": "[Resultados]\nPor causa da deformação física e crise de personalidade, a cobaia pode ser despejada em qualquer plataforma.",
+        "es": "[Resultados]\nEl sujeto dejó de crecer, lo que provocó el fracaso de la prueba. Inicialmente, su capacidad de autoclonación, recientemente desarrollada, se consideró para una prueba diferente del proyecto Betty…"
+    },
+    "3UXHBw": {
+        "en": "[Results]\nBut the auto-cloning process caused physical deformation and a personality crisis. This subject will be disposed through whatever platforms are available for its disposal.",
+        "pt": "[Relatório de Experimentos]\n#000088Venenum\n#Atividade\nUse qualquer plataforma para despejar a cobaia.",
+        "es": "[Resultados]\nPero el proceso de autoclonación provocó una deformación física y una crisis de personalidad. Este sujeto se eliminará con las plataformas disponibles para ello."
+    },
+    "3kXHBw": {
+        "en": "[Test Subject-related Info]\n#000088 Venenum\n#activity\nUse whatever remaining platforms are available for its disposal.",
+        "pt": "[Metodologia]\nParte do projeto de armamento.\nAcomplação de todos os tipos de armas em monstros com biosinais ativos",
+        "es": "[Información relacionada con el sujeto de prueba]\nVenenum #000088\n#activity\nUtilizar las plataformas que queden disponibles para su eliminación."
+    },
+    "30XHBw": {
+        "en": "[Creation Process]\nPart of the monster weaponization project, Neo Betty.\nAll kinds of weapons have been attached to monsters with strong vital signs.",
+        "pt": "[Objetivos]\nEntender a letalidade da combinação entre armas de última geração e o instinto animal.",
+        "es": "[Proceso de creación]\nParte del proyecto de armamento de monstruos, Neo Betty.\nSe unieron todo tipo de armas a los monstruos que presentaban signos vitales fuertes."
+    },
+    "4EXHBw": {
+        "en": "[Creation Purpose]\nThis will test how much killing power can be achieved through a marriage between animalistic instincts and high-tech weapons.",
+        "pt": "[Resultados]\nTodas as armas físicas falharam, exceto o spray de veneno, que é uma arma biológica. No entanto, projeto foi descartado por não diferenciar aliados e inimigos.",
+        "es": "[Propósito de la creación]\nEsto pondrá a prueba cuánta potencia asesina se puede lograr al unir los instintos animales con armas de alta tecnología."
+    },
+    "4UXHBw": {
+        "en": "[Results]\nAll the physical weapons failed except for the biochemical sprays. The subjects had to be disposed as they killed more allies than enemies.",
+        "pt": "[Relatório de Experimentos]\n#000211 Dolor\n#CP #Atividade\n1-5",
+        "es": "[Resultados]\nTodas las armas físicas fallaron excepto los aerosoles bioquímicos. Hubo que deshacerse de los sujetos, ya que mataban a más aliados que enemigos."
+    },
+    "4kXHBw": {
+        "en": "[Test Subject-related Info]\n#000211 Dolor\n#CP #activity\n1 - 5",
+        "pt": "[Metodologia]\nParte do projeto que combina cobaias Humanas e Plantas.\nFoi decidido que um DNA vegetal seria agregado ao DNA humano.",
+        "es": "[Información relacionada con el sujeto de prueba]\nDolor #000211\n#CP #activity\n1 - 5"
+    },
+    "40XHBw": {
+        "en": "[Creation Process]\nPart of the Betty Project that combined human combatants and other creatures.\nIt has been decided that plant DNA will be transplanted in these subjects.",
+        "pt": "[Objetivos]\nFocar na capacidade regenerativa das plantas, deseja-se que a cobaia tenha capacidade de fotossíntese como as plantas e se movimentar como os humanos.",
+        "es": "[Proceso de creación]\nParte del proyecto Betty que combinaba combatientes humanos con otras criaturas.\nSe decidió trasplantar ADN de plantas a estos sujetos."
+    },
+    "5EXHBw": {
+        "en": "[Creation Purpose]\nPlants with regenerative and transformation properties will be used to enable the subjects to move and infiltrate stealthily.",
+        "pt": "[Resultados]\nO DNA da soja e da batata-doce teve um efeito adverso. A capacidade de regeneração desapareceu. A aparência física da cobaia evoluiu para deformações descontroladas.",
+        "es": "[Propósito de la creación]\nSe utilizarán plantas con propiedades regenerativas y de transformación para que los sujetos puedan desplazarse e infiltrarse sigilosamente."
+    },
+    "5UXHBw": {
+        "en": "[Results]\nThe bean and sweet potato DNA created adverse effects, which resulted in infinite regeneration and multiplication. The subjects' healing ability increased so drastically that they're unable to sustain their appearance.",
+        "pt": "[Resultados]\nComo não obtivemos o resultado esperado, descartamos as cobaias nas plataformas.",
+        "es": "[Resultados]\nEl ADN de los frijoles y la batata dulce creó efectos adversos que dieron lugar a una regeneración y multiplicación infinitas. La capacidad de curación de los sujetos aumentó tan drásticamente que son incapaces de mantener su apariencia."
+    },
+    "5kXHBw": {
+        "en": "[Results]\nThey also failed to develop the ability to transform, and went out of control. They will be disposed at all available disposal sites.",
+        "pt": "[Relatório de Experimentos]\n#000666 Plaga\n#Atividade\nDesconhecido",
+        "es": "[Resultados]\nTampoco desarrollaron la capacidad de transformación y se descontrolaron. Se eliminarán en todos los vertederos disponibles."
+    },
+    "50XHBw": {
+        "en": "[Test Subject-related Info]\n#000666 Fraga\n#activity\nUnknown",
+        "pt": "[Metodologia]\nParte do Projeto que combina humanos com partes do corpo de dragões.",
+        "es": "[Información relacionada con el sujeto de prueba]\nFraga #000666\n#activity\nDesconocido"
+    },
+    "6EXHBw": {
+        "en": "[Creation Purpose]\nTransplanted with a dragon's DNA in hopes of achieving powerful resistance and physical and magical capabilities.",
+        "pt": "[Objetivos]\nEsperamos alta resistência, habilidades físicas e mágicas com a combinação do DNA de um dragão.",
+        "es": "[Propósito de la creación]\nTrasplantado con el ADN de un dragón con la esperanza de conseguir una poderosa resistencia y capacidades físicas y mágicas."
+    },
+    "6UXHBw": {
+        "en": "[Results]\nResulted in the deaths of 12 researchers, 34 process controllers, 128 security guards, and 42 facility management staff.",
+        "pt": "[Resultados]\nA morte de 12 pesquisadores, 34 técnicos, 128 guardas e 42 gerenciadores da unidade.",
+        "es": "[Resultados]\nProvocó la muerte de 12investigadores, 34controladores de procesos, 128guardias de seguridad y 42miembros del personal de administración de las instalaciones."
+    },
+    "6kXHBw": {
+        "en": "[Results]\nWe tried to destroy the documents and production equipment related to these subjects, but to no avail. So, we've just sealed them all off.",
+        "pt": "[Resultados]\nTentamos destruir os documentos e o equipamento de criação da cobaia, mas sem sucesso. Então apenas descartamos as cobaias.",
+        "es": "[Resultados]\nIntentamos destruir los documentos y el equipamiento de producción relacionados con estos temas, pero fue en vano. Así que los sellamos a todos."
+    },
+    "60XHBw": {
+        "en": "[Test Subject-related Info]\n#000001 Morning\n#activity\nUnknown",
+        "pt": "[Relatório de Experimentos]\n#000001 Morning\n#Atividade\nDesconhecido",
+        "es": "[Información relacionada con el sujeto de prueba]\nMorning #000001\n#activity\nDesconocido"
+    },
+    "7EXHBw": {
+        "en": "[Creation Process]\nNanomachines have been added to an immature human's cerebral cortex for performance enhancement. Its electrolyte density has been adjusted to better respond to external wavelengths.",
+        "pt": "[Metodologia]\nImplementação de Nanodispositivos no córtex cerebral de humanos não-amadurecidos.seres humanos imaturos. A concentração de eletrólitos precisa sincronizar com fatores externos.",
+        "es": "[Proceso de creación]\nSe agregaron nanomáquinas a la corteza cerebral de un ser humano inmaduro para mejorar su rendimiento. Se ajustó su densidad electrolítica para que responda mejor a las longitudes de onda externas."
+    },
+    "7UXHBw": {
+        "en": "[Creation Purpose]\nThis will test enhanced performance through cerebral cortex modifications. We expect it to be the controller of the other Betty Project creations.",
+        "pt": "[Objetivos]\nMelhorar a performance através da remodelação do córtex cerebral. Com expectativa de ser um líder para as outras cobaias do projeto.",
+        "es": "[Propósito de la creación]\nEsto pondrá a prueba el rendimiento mejorado mediante las modificaciones de la corteza cerebral. Esperamos que sea el controlador de las demás creaciones del proyecto Betty."
+    },
+    "7kXHBw": {
+        "en": "[Results]\nFailed to develop fighting capability. Awakened to physical transformation ability, which was unintended, and therefore an error.",
+        "pt": "[Resultados]\nIncapacidade de batalha. A velocidade de crescimento da criança reduziu muito, o que consideramos um erro.",
+        "es": "[Resultados]\nNo pudo desarrollar capacidad de combate. Despertó la capacidad de transformación física, que no era intencional, y por lo tanto se considera un error."
+    },
+    "70XHBw": {
+        "en": "[Results]\nThe subject exhibited severe mood swings and became impossible to control. It shows potential for additional abilities, but its disposal has been ordered by the upper management.",
+        "pt": "[Resultados]\nA cobaia tem picos emocionais graves. Apesar de ter capacidade de aprender coisas novas, nossos superiores optaram pelo despejo da cobaia.",
+        "es": "[Resultados]\nEl sujeto presentaba graves cambios de humor y se volvió imposible de controlar. Muestra cierto potencial para adquirir capacidades adicionales, pero los altos mandos ordenaron su eliminación."
+    },
+    "8EXHBw": {
+        "en": "[Secret Grade: D]\nAbout the CP Grades",
+        "pt": "[Confidencial - D]\nSignificado de CP",
+        "es": "[Grado secreto: D]\nAcerca de los grados de PC"
+    },
+    "8UXHBw": {
+        "en": "[Secret Grade: D]\nCritical Process (''CP'') is a production platform serial number that determines the complexity and danger of a certain creation process.",
+        "pt": "[Confidencial - D]\nCP significa Código de Pesquisa e corresponde ao número que corresponde à complexidade e risco da criação da cobaia.",
+        "es": "[Grado secreto: D]\nEl Proceso Crítico (“PC”) es un número de serie de la plataforma de producción que determina la complejidad y peligrosidad de un determinado proceso de creación."
+    },
+    "8kXHBw": {
+        "en": "[Secret Grade: D]\nThe less a unit is modified or damaged, the lower its serial number. Its sanity and procedural risks also affect its serial number.",
+        "pt": "[Confidencial - D]\nQuanto menor esse valor, menor foi a rejeição da cobaia ao experimento, ou seja, possui mais sanidade mental.",
+        "es": "[Grado secreto: D]\nCuanto menos modificada o dañada esté una unidad, menor será su número de serie. Su cordura y sus riesgos procesales también influyen en su número de serie."
+    },
+    "80XHBw": {
+        "en": "[Secret Grade: D]\nAll CP products are given a CP number. Those who get lost or escape midway are given a separate number.",
+        "pt": "[Confidencial - D]\nTodas as cobaias possuem um número de CP, exceto as fugitivas, que possuem um código diferenciado.",
+        "es": "[Grado secreto: D]\nTodos los productos de PC reciben un número de PC. Los que se pierden o escapan a mitad de camino reciben un número aparte."
+    },
+    "9EXHBw": {
+        "en": "[Test Subject-related Info]\n#557038 Bellare\n#CP\n1 - 5",
+        "pt": "[Relatório de Experimentos]\n#557038 Bellare\n#CP\n1-5",
+        "es": "[Información relacionada con el sujeto de prueba]\nBellare #557038\n#CP\n1 - 5"
+    },
+    "9UXHBw": {
+        "en": "[Creation Process]\nModern projectile weapons have been added to healthy professional male soldiers. Their cerebral cortex also has been modified to improve vision and reflexes.",
+        "pt": "[Metodologia]\nImplantação de arma letal de longa distância no corpo de um forte soldado profissional. Remodelação do córtex cerebral para melhorar a visão à distância e o reflexo.",
+        "es": "[Proceso de creación]\nSe agregaron armas de proyectiles modernas a los soldados profesionales masculinos sanos. También se modificó su corteza cerebral para mejorar la visión y los reflejos."
+    },
+    "9kXHBw": {
+        "en": "[Creation Purpose]\nThe plan is to manufacture bio weapons with maximum physical capability.",
+        "pt": "[Objetivos]\nProdução em massa de armas biológicas com capacidade física.",
+        "es": "[Propósito de la creación]\nEl plan es fabricar armas biológicas con la máxima capacidad física."
+    },
+    "90XHBw": {
+        "en": "[Results]\nExcellent combat capability and reflexes. Superb sniping ability. Significant improvement in physical defense capability and survivability.",
+        "pt": "[Resultados]\nExcelente capacidade de combate, reflexos e visão de alto nível. Instinto de sobrevivência melhorado.",
+        "es": "[Resultados]\nExcelente capacidad de combate y reflejos. Excelente capacidad de francotirador. Mejora significativa de la capacidad de defensa física y la capacidad de supervivencia."
+    },
+    "+EXHBw": {
+        "en": "[Results]\nBut the cerebral cortex modification created adverse effects, making them unable to distinguish between friend and foe. It was impossible to address this flaw, and thus their disposal has been decided.",
+        "pt": "[Resultados]\nNo entanto, não sabe distinguir entre inimigo e aliado. Cobaias descartadas.",
+        "es": "[Resultados]\nSin embargo, la modificación de la corteza cerebral provocó efectos adversos y los incapacitó para distinguir entre amigos y enemigos. Fue imposible corregir este defecto, por lo que se decidió su eliminación."
+    },
+    "+UXHBw": {
+        "en": "[Journal#421]\nMixing people's and Eddga's DNA? Something's seriously wrong with this organization. Who came up with this idea, anyway?",
+        "pt": "[Diário nº 421]\nMisturar DNA humano com o de um Eddga? Que tipo de gente eu estou trabalhando?",
+        "es": "[Diario#421]\n¿Mezclar el ADN de las personas con el de Eddga? Algo está muy mal en esta organización. ¿A quién se le ocurrió esta idea?"
+    },
+    "+kXHBw": {
+        "en": "[Journal#455]\nA few plants have been suggested for the regenerative properties that will be added to the product, Dolor. Some of them are perplexing.",
+        "pt": "[Diário nº 455]\nOs vegetais sugeridos para combinar o DNA para a criação do Dolor são muito fora da curva.",
+        "es": "[Diario#455]\nSe sugirieron algunas plantas por sus propiedades regenerativas que se agregarán al producto Dolor. Algunas de ellas son desconcertantes."
+    },
+    "+0XHBw": {
+        "en": "[Journal#455]\nI'd better find out who suggested kidney beans and sweet potato stems. He must have brought them from home because he couldn't think of any other plants to suggest.",
+        "pt": "[Diário nº 455]\nQueria saber quem foi que sugeriu talos de feijão e batata-doce. Talvez ele tenha trazido plantas de casa, porque não temos plantas aqui.",
+        "es": "[Diario#455]\nSerá mejor que averigüe quién sugirió frijoles rojos y tallos de batata. Seguramente las tenía en su casa y las trajo porque no se le ocurrió ninguna otra planta para sugerir."
+    },
+    "/EXHBw": {
+        "en": "[Journal#515]\nSenior Researcher, please reconsider Fraga's development.",
+        "pt": "[Diário nº 515]\nPesquisador-Chefe, por favor, reconsidere a pesquisa de Plaga.",
+        "es": "[Diario#515]\nInvestigador sénior, por favor reconsidere el desarrollo de Fraga."
+    },
+    "/UXHBw": {
+        "en": "[Journal#515]\nCombining a dragon's DNA with people's is all but a crime that defiles the nobility of life.",
+        "pt": "[Diário nº 515]\nA fusão do DNA de dragão com humano é um projeto antiético.",
+        "es": "[Diario#515]\nCombinar el ADN de un dragón con el de las personas es un crimen que mancilla la nobleza de la vida."
+    },
+    "/kXHBw": {
+        "en": "[Journal#515]\nWe can't sully the flawless DNA of dragons by mixing it with humans'! That's not evolution--that's a travesty!",
+        "pt": "[Diário nº 515]\nNão se combina DNA de pessoas e dragões inocentes em nome da ciência!",
+        "es": "[Diario#515]\n¡No podemos mancillar el ADN puro de los dragones con el de los humanos! Eso no es evolución- ¡es una farsa!"
+    },
+    "/0XHBw": {
+        "en": "[Journal#515]\nIf we really have to proceed with this experiment, I strongly suggest that we use Valkyries instead of humans.",
+        "pt": "[Diário nº 515]\nSe realmente querem continuar com isso, eu sugiro usar DNA das Valquírias ao invés dos Dragões.",
+        "es": "[Diario#515]\nSi realmente tenemos que proceder con este experimento, sugiero encarecidamente que utilicemos Valquirias en lugar de humanos."
+    },
+    "AEbHBw": {
+        "en": "[Operation Instructions A]\nLately, our experiment has been demanding an increasing number of the bodies of able combatants. It's been decided that we capture the members of the Rebellion who infiltrate our facility, instead of getting rid of them.",
+        "pt": "[Novas instruções A]\nPrecisamos de muito mais cobaias para os nossos experimentos. Decidimos capturar membros da Rebelião que invadirem nossas unidades, ao invés de matá-los.",
+        "es": "[Instrucciones de operación A]\nÚltimamente, nuestro experimento exige una cantidad cada vez mayor de cuerpos de combatientes aptos. Se decidió que capturemos a los miembros de la Rebelión que se infiltren en nuestras instalaciones, en lugar de deshacernos de ellos."
+    },
+    "AUbHBw": {
+        "en": "[Operation Instructions A]\nThe prisoners will be distributed across the CP platforms, depending on the damage to their bodies at the time of their capture. It's strongly recommended that you preserve their physical integrity as best as you can.",
+        "pt": "[Novas instruções A]\nÉ altamente recomendável mantê-los vivos para que possamos associar um CP a eles.",
+        "es": "[Instrucciones de operación A]\nLos prisioneros se distribuirán en las plataformas de PC, según los daños que sufrieron en el cuerpo en el momento de la captura. Se recomienda preservar su integridad física lo mejor posible."
+    },
+    "AkbHBw": {
+        "en": "[Journal#55]\nWe had a chicken and beer party to celebrate our success in combining Caput for the third time.",
+        "pt": "[Diário nº 55]\nTivemos uma festa com frango e cerveja para comemorar o sucesso da 3ª combinação de Caput.",
+        "es": "[Diario#55]\nHicimos una fiesta de pollo y cerveza para celebrar nuestro éxito al combinar Caput por tercera vez."
+    },
+    "A0bHBw": {
+        "en": "[Journal#55]\nI've heard chicken and beers is banned in some lab complexes. I wonder why.",
+        "pt": "[Diário nº 55]\nOuvi falar que a cerveja e frango foram banidos do laboratório, mas não sei o motivo.",
+        "es": "[Diario#55]\nEscuché que el pollo y las cervezas están prohibidos en algunos complejos de laboratorios. Me pregunto por qué."
+    },
+    "BEbHBw": {
+        "en": "[Journal#55]\nIt bothers me that one chicken had three wings, though.",
+        "pt": "[Diário nº 55]\nMas me incomoda o fato de um dos frangos ter três olhos.",
+        "es": "[Diario#55]\nAunque me molestó que un pollo tuviera tres alas."
+    },
+    "BUbHBw": {
+        "en": "[Journal#1223]\nEveryone in this lab has given up on being human, and some of us are worse than the others.",
+        "pt": "[Diário nº 1223]\nTodos os pesquisadores desse lugar desistiram da sua humanidade. Alguns são piores que outros.",
+        "es": "[Diario#1223]\nTodo el mundo en este laboratorio renunció a ser humano, y algunos de nosotros somos peores que los demás."
+    },
+    "BkbHBw": {
+        "en": "[Journal#1223]\nI know no way of confirming this rumor, being a lowly researcher that I am, but it says that there are creatures graded R.",
+        "pt": "[Diário nº 1223]\nEu sou apenas um pesquisador júnior, mas ouvi falarem de cobaias de Rank R.",
+        "es": "[Diario#1223]\nNo tengo forma de confirmar este rumor, ya que soy un investigador de rango bajo, pero se dice que hay criaturas de grado R."
+    },
+    "B0bHBw": {
+        "en": "[Journal#1223]\nHow terrible are these R creatures?",
+        "pt": "[Diário nº 1223]\nO quão poderosas seriam essas cobaias de rank R...?",
+        "es": "[Diario#1223]\n¿Cuán terribles son estas criaturas R?"
+    },
+    "CEbHBw": {
+        "en": "[Journal#876]\nI've heard that Grade A creatures will be released outside the lab, to test their field survivability, among other things. I have a bad feeling about this.",
+        "pt": "[Diário nº 876]\nOuvi dizer que vão soltar cobaias Rank A para fora do laboratório, para adquirirem experiência de sobrevivência em campo, mas tenho um mau pressentimento nisso.",
+        "es": "[Diario#876]\nEscuché que las criaturas de grado A se soltarán fuera del laboratorio, para probar su capacidad de supervivencia en el campo, entre otras cosas. Tengo un mal presentimiento."
+    },
+    "CUbHBw": {
+        "en": "[Journal#752]\nI love the undead!",
+        "pt": "[Diário nº 752]\nEu amo mortos-vivos~",
+        "es": "[Diario#752]\n¡Me encantan los muertos vivientes!"
+    },
+    "CkbHBw": {
+        "en": "^0000FFThis researcher seems to have peculiar taste.^000000",
+        "pt": "^0000CDEsse pesquisador parece ter gostos duvidosos^000000",
+        "es": "^FF0000Este investigador parece tener un gusto peculiar.^000000"
+    },
+    "C0bHBw": {
+        "en": "[Journal#1153]\nRumor has it that there's an even more secret research facility across the central railroad tracks. I'm going to go over there tonight.",
+        "pt": "[Diário nº 1153]\nOuvi rumores de que há uma unidade chamada Amicitia mais fundo daqui.",
+        "es": "[Diario#1153]\nDicen que hay un laboratorio aún más secreto del otro lado de las vías del tren central. Iré allí esta noche."
+    }
+}

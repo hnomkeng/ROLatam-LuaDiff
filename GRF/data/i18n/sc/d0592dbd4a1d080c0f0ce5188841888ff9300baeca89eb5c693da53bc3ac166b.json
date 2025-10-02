@@ -1,0 +1,432 @@
+{
+    "~u": {
+        "en": "Apprentice Craftsman",
+        "pt": "Aprendiz de Encantamento",
+        "es": "Artesano Aprendiz"
+    },
+    "!~u": {
+        "en": "[Apprentice Craftsman]\nI've been studying ways to enhance an armor to maximize its capability.",
+        "pt": "[Aprendiz de Encantamento]\nTenho estudado maneiras de aprimorar uma armadura para maximizar sua capacidade.",
+        "es": "[Artesano aprendiz]\nEstuve estudiando formas de mejorar una armadura para maximizar su capacidad."
+    },
+    "\"~u": {
+        "en": "[Apprentice Craftsman]\nEnchanting is an awesome skill that infuses a mysterious status powers into the armor's hidden socket.",
+        "pt": "[Aprendiz de Encantamento]\nO encantamento é uma habilidade incrível que infunde um misterioso poder de status no espaço oculto da armadura.",
+        "es": "[Artesano aprendiz]\nEl encantamiento es una habilidad impresionante que infunde poderes misteriosos en la ranura oculta de la armadura."
+    },
+    "#~u": {
+        "en": "[Apprentice Craftsman]\nHowever, you have to keep in mind that if there are two armors of the same kind in your posession, the Enchantment will be applied in the order they are placed in your inventory.",
+        "pt": "[Aprendiz de Encantamento]\nNo entanto, é preciso ter em mente que, se você tiver duas armaduras do mesmo tipo, o encantamento será aplicado na ordem em que elas forem colocadas no inventário.",
+        "es": "[Artesano aprendiz]\nSin embargo, tienes que tener en cuenta que, si posees dos armaduras del mismo tipo, el encantamiento se aplicará en el orden en que estén ubicadas en tu inventario."
+    },
+    "$~u": {
+        "en": "[Apprentice Craftsman]\nIn that case, the Enchantment may be applied to an item which you didn't mean to Enchant. So just bring ^5555FFONE Armor^000000 you want enchanted to be safe.",
+        "pt": "[Aprendiz de Encantamento]\nNesse caso, o encantamento pode ser aplicado a um item que você não pretendia encantar. Portanto, traga apenas ^5555FFUMA armadura^000000 que você queira encantar, só por segurança.",
+        "es": "[Artesano aprendiz]\nPodría ocurrir que el encantamiento se aplique a un objeto que no querías encantar. Así que trae solo ^5555FFUNA armadura^000000 que quieras encantar para estar mayor seguridad."
+    },
+    "%~u": {
+        "en": "[Apprentice Craftsman]\nI'm not responsible for what would happen if you have more than one of the same kind in your inventory.",
+        "pt": "[Aprendiz de Encantamento]\nNão me responsabilizo pelo que pode acontecer se você tiver mais de uma do mesmo tipo em seu inventário.",
+        "es": "[Artesano aprendiz]\nNo me hago responsable de lo que pueda ocurrir si tienes más de una del mismo tipo en tu inventario."
+    },
+    "&~u": {
+        "en": "Armor with no Slots",
+        "pt": "Armaduras sem Slot",
+        "es": "Armadura sin ranuras."
+    },
+    "'~u": {
+        "en": "Armor with Slots",
+        "pt": "Armaduras com Slot",
+        "es": "Armadura con ranuras."
+    },
+    "(~u": {
+        "en": "High Grade Armor",
+        "pt": "Armadura de Alto Nível",
+        "es": "Armadura de grado superior."
+    },
+    ")~u": {
+        "en": "Maybe next time",
+        "pt": "Quem sabe da próxima vez...",
+        "es": "Tal vez la próxima vez."
+    },
+    "*~u": {
+        "en": "Mantle",
+        "pt": "Capote",
+        "es": "Sobretodo."
+    },
+    "+~u": {
+        "en": "Coat",
+        "pt": "Casaco",
+        "es": "Abrigo."
+    },
+    ",~u": {
+        "en": "Chain Mail",
+        "pt": "Cota de Malha",
+        "es": "Cota de malla."
+    },
+    "-~u": {
+        "en": "Full Plate",
+        "pt": "Armadura Metálica",
+        "es": "Armadura de placas."
+    },
+    ".~u": {
+        "en": "Silk Robe",
+        "pt": "Manto de Seda",
+        "es": "Túnica de seda."
+    },
+    "/~u": {
+        "en": "Saint's Robe",
+        "pt": "Manto Sagrado",
+        "es": "Toga del santo."
+    },
+    "0~u": {
+        "en": "Holy Robe",
+        "pt": "Batina",
+        "es": "Túnica sagrada."
+    },
+    "1~u": {
+        "en": "Wooden Mail",
+        "pt": "Armadura de Madeira",
+        "es": "Armadura de madera."
+    },
+    "2~u": {
+        "en": "Tights",
+        "pt": "Malha",
+        "es": "Malla."
+    },
+    "3~u": {
+        "en": "Silver Robe",
+        "pt": "Manto Prateado",
+        "es": "Túnica de plata."
+    },
+    "4~u": {
+        "en": "Mage Coat",
+        "pt": "Vestimenta Arcana",
+        "es": "Túnica de Mago."
+    },
+    "5~u": {
+        "en": "Thief Clothes",
+        "pt": "Traje de Gatuno",
+        "es": "Ropa de Ladrón."
+    },
+    "6~u": {
+        "en": "Legion Plate Armor",
+        "pt": "Armadura Legionária",
+        "es": "Armadura de placas de la Legión."
+    },
+    "7~u": {
+        "en": "Lucius's Fierce Armor of Volcano",
+        "pt": "Couraça da Fúria Flamejante",
+        "es": "Armadura feroz del volcán de Lucius."
+    },
+    "8~u": {
+        "en": "Saphien's Armor of Ocean",
+        "pt": "Couraça da Submissão Oceânica",
+        "es": "Armadura del océano de Saphien."
+    },
+    "9~u": {
+        "en": "Aebecee's Raging Typhoon Armor",
+        "pt": "Couraça da Liberdade Celestial",
+        "es": "Armadura del tifón furioso de Aebecee."
+    },
+    ":~u": {
+        "en": "Claytos' Cracking Earth Armor",
+        "pt": "Couraça da Perseverança Continental",
+        "es": "Armadura de la tierra agrietada de Claytos."
+    },
+    ";~u": {
+        "en": "Ninja Suit",
+        "pt": "Indumentária Ninja",
+        "es": "Traje de Ninja."
+    },
+    "<~u": {
+        "en": "Chameleon Armor",
+        "pt": "Armadura Camaleão",
+        "es": "Armadura camaleón."
+    },
+    "=~u": {
+        "en": "Glorious Suit",
+        "pt": "Túnica Gloriosa 1",
+        "es": "Traje glorioso."
+    },
+    ">~u": {
+        "en": "Glorious Popularized Suit",
+        "pt": "Túnica Gloriosa 2",
+        "es": "Traje popular glorioso."
+    },
+    "?~u": {
+        "en": "Glorious Mass-Production Suit",
+        "pt": "Túnica Gloriosa 3",
+        "es": "Traje de fabricación en serie glorioso."
+    },
+    "@~u": {
+        "en": "[Apprentice Craftsman]\nSocket enchant will cost you 400,000zeny. AND there will be random option will be enchanted. Of course, there's is a chance of breaking your armor.",
+        "pt": "[Aprendiz de Encantamento]\nO encantamento de slot custará 400.000 Zenys. ALÉM DISSO, haverá uma opção aleatória que será encantada. É claro que há uma chance de quebrar sua armadura.",
+        "es": "[Artesano aprendiz]\nEl encantamiento de ranura te costará 400000zeny. También se podrá aplicar una opción aleatoria con el encantamiento. Por supuesto, existe la posibilidad de romper tu armadura."
+    },
+    "A~u": {
+        "en": "[Apprentice Craftsman]\nFirst and most importantly\n^FF5555 Existing Refine Level of the Armor and Cards\nwill be GONE^000000\nDo you still want to try an Enchant?",
+        "pt": "[Aprendiz de Encantamento]\nE é importante lembrar:\n^FF5555O Nível de Refinamento e as Cartas da Armadura\nvão SUMIR.^000000\nMesmo assim, quer tentar o Encantamento?",
+        "es": "[Artesano aprendiz]\nPrimero y lo más importante:\n^FF5555 El nivel de refinamiento actual de la armadura y las cartas\nDESAPARECERÁ.^000000\n¿Igualmente quieres probar un encantamiento?"
+    },
+    "B~u": {
+        "en": "Hmm...Let me think it over",
+        "pt": "Hmm... Deixe-me pensar sobre isso",
+        "es": "Mmm… lo pensaré."
+    },
+    "C~u": {
+        "en": "Go Ahead.",
+        "pt": "Vá em frente.",
+        "es": "Adelante."
+    },
+    "D~u": {
+        "en": "[Apprentice Craftsman]\nWell, I can't blame you. Safety! Ey? Now you have a nice day.",
+        "pt": "[Aprendiz de Encantamento]\nBem, não posso culpar você. Segurança! Ey? Agora, tenha um bom dia.",
+        "es": "[Artesano aprendiz]\nBueno, no puedo culparte. ¡Seguridad! ¿Eh? Que tengas un buen día."
+    },
+    "E~u": {
+        "en": "[Apprentice Craftsman]\nQuite of an adventurer huh? Well, shall we?",
+        "pt": "[Aprendiz de Encantamento]\nVocê gosta de se aventurar, não é? Bem, vamos lá?",
+        "es": "[Artesano aprendiz]\nTodo un trotamundos, ¿eh? Bueno, ¿vamos?"
+    },
+    "F~u": {
+        "en": "[Apprentice Craftsman]\nHmm? It looks like you're short in Zeny.",
+        "pt": "[Aprendiz de Encantamento]\nHmm? Parece que você não tem Zenys suficientes.",
+        "es": "[Artesano aprendiz]\n¿Mmm? Parece que no tienes suficientes zeny."
+    },
+    "G~u": {
+        "en": "[Apprentice Craftsman]\nToo bad\nRequested equipment has fail to enchant.",
+        "pt": "[Aprendiz de Encantamento]\nQue pena.\nHouve uma falha ao encantar o equipamento selecionado.",
+        "es": "[Artesano aprendiz]\nQué lástima.\nNo se pudo encantar el equipamiento solicitado."
+    },
+    "H~u": {
+        "en": "[Apprentice Craftsman]\nHmm? There's nothing to be enchanted\nPlease come back with just ONE equipment to be enchanted.",
+        "pt": "[Aprendiz de Encantamento]\nHmm? Não há nada para ser encantado.\nPor favor, volte com apenas UM equipamento para ser encantado.",
+        "es": "[Artesano aprendiz]\n¿Mmm? No hay nada que se pueda encantar.\nVuelve cuando tengas UN solo objeto para encantar."
+    },
+    "I~u": {
+        "en": "[Apprentice Craftsman]\nSocket enchant will cost you 400,000zeny. AND there will be random option will be enchanted. And of course, there's is a chance of breaking your armor.",
+        "pt": "[Aprendiz de Encantamento]\nO encantamento de slot custará 400.000 Zenys. ALÉM DISSO, haverá uma opção aleatória que será encantada. É claro que há uma chance de quebrar sua armadura.",
+        "es": "[Artesano aprendiz]\nEl encantamiento de ranura te costará 400000zeny. También se podrá aplicar una opción aleatoria con el encantamiento. Y, por supuesto, existe la posibilidad de destruir tu armadura."
+    },
+    "J~u": {
+        "en": "I've made up my mind already. Give it a shot",
+        "pt": "Já tomei minha decisão. Pode tentar.",
+        "es": "Ya tomé una decisión. Vamos a intentarlo."
+    },
+    "K~u": {
+        "en": "[Apprentice Craftsman]\nFirst and most importantly\n^FF5555 Existing Refine Level of the Armor and Cards\nwill be GONE^000000 \nDo you still wan to try an Enchant?",
+        "pt": "[Aprendiz de Encantamento]\nE é importante lembrar:\n^FF5555O Nível de Refinamento e as Cartas da Armadura\nvão SUMIR.^000000\nMesmo assim, quer tentar o Encantamento?",
+        "es": "[Artesano aprendiz]\nPrimero y lo más importante:\n^FF5555 El nivel de refinamiento actual de la armadura y las cartas\nDESAPARECERÁ.^000000 \n¿Igualmente quieres probar un encantamiento?"
+    },
+    "L~u": {
+        "en": "Mink Coat [1]",
+        "pt": "Casaco de Pele [1]",
+        "es": "Abrigo de visón[1]"
+    },
+    "M~u": {
+        "en": "Lord's Clothes [1]",
+        "pt": "Vestimenta Nobre [1]",
+        "es": "Vestimenta de Lord[1]"
+    },
+    "N~u": {
+        "en": "Glittering Jacket [1]",
+        "pt": "Jaqueta Brilhante [1]",
+        "es": "Chaqueta brillante[1]"
+    },
+    "O~u": {
+        "en": "Formal Suit [1]",
+        "pt": "Paletó [1]",
+        "es": "Traje formal[1]"
+    },
+    "P~u": {
+        "en": "Mantle [1]",
+        "pt": "Capote [1]",
+        "es": "Sobretodo[1]"
+    },
+    "Q~u": {
+        "en": "Coat [1]",
+        "pt": "Casaco [1]",
+        "es": "Abrigo[1]"
+    },
+    "R~u": {
+        "en": "Chain Mail [1]",
+        "pt": "Cota de Malha [1]",
+        "es": "Cota de malla[1]"
+    },
+    "S~u": {
+        "en": "Full Plate [1]",
+        "pt": "Armadura Metálica [1]",
+        "es": "Armadura de placas[1]"
+    },
+    "T~u": {
+        "en": "Silk Robe [1]",
+        "pt": "Manto de Seda [1]",
+        "es": "Túnica de seda[1]"
+    },
+    "U~u": {
+        "en": "Scapulare [1]",
+        "pt": "Escapulário [1]",
+        "es": "Escapulario[1]"
+    },
+    "V~u": {
+        "en": "Saint's Robe [1]",
+        "pt": "Manto Sagrado [1]",
+        "es": "Toga del santo[1]"
+    },
+    "W~u": {
+        "en": "Tights [1]",
+        "pt": "Malha [1]",
+        "es": "Malla[1]"
+    },
+    "X~u": {
+        "en": "Silver Robe [1]",
+        "pt": "Manto Prateado [1]",
+        "es": "Túnica de plata[1]"
+    },
+    "Y~u": {
+        "en": "Theif Clothes [1]",
+        "pt": "Traje de Gatuno [1]",
+        "es": "Ropa de ladrón[1]"
+    },
+    "Z~u": {
+        "en": "Legion Plate Armor [1]",
+        "pt": "Armadura Legionária [1]",
+        "es": "Armadura de placas de la Legión[1]"
+    },
+    "[~u": {
+        "en": "Lucius's Fierce Armor of Volcano [1]",
+        "pt": "Couraça da Fúria Flamejante [1]",
+        "es": "Armadura feroz del volcán de Lucius[1]"
+    },
+    "\\~u": {
+        "en": "Saphien's Armor of Ocean [1]",
+        "pt": "Couraça da Submissão Oceânica [1]",
+        "es": "Armadura del océano de Saphien[1]"
+    },
+    "]~u": {
+        "en": "Aebecee's Raging Typhoon Armor [1]",
+        "pt": "Couraça da Liberdade Celestial [1]",
+        "es": "Armadura del tifón furioso de Aebecee[1]"
+    },
+    "^~u": {
+        "en": "Claytos' Cracking Earth Armor [1]",
+        "pt": "Couraça da Perseverança Continental [1]",
+        "es": "Armadura de la tierra agrietada de Claytos[1]"
+    },
+    "_~u": {
+        "en": "Novice Breastplate [1]",
+        "pt": "Armadura de Aprendiz [1]",
+        "es": "Coraza para Principiantes[1]"
+    },
+    "`~u": {
+        "en": "Angelic Protection [1]",
+        "pt": "Proteção Angelical [1]",
+        "es": "Protección angelical[1]"
+    },
+    "a~u": {
+        "en": "[Apprentice Craftsman]\nFirst and most importantly\n^FF5555 Existing Refine Level of the Armor and Cards\nwill be GONE^000000 \nDo you still want to try an Enchant?",
+        "pt": "[Aprendiz de Encantamento]\nE é importante lembrar:\n^FF5555O Nível de Refinamento e as Cartas da Armadura\nvão SUMIR.^000000\nMesmo assim, quer tentar o Encantamento?",
+        "es": "[Artesano aprendiz]\nPrimero y lo más importante:\n^FF5555 El nivel de refinamiento actual de la armadura y las cartas\nDESAPARECERÁ.^000000 \n¿Igualmente quieres probar un encantamiento?"
+    },
+    "b~u": {
+        "en": "Meteo Plate Armor [1]",
+        "pt": "Armadura de Meteo [1]",
+        "es": "Armadura de placas de meteoro[1]"
+    },
+    "c~u": {
+        "en": "Orlean's Gown [1]",
+        "pt": "Bata de Orleans [1]",
+        "es": "Túnica de Orleans[1]"
+    },
+    "d~u": {
+        "en": "Life Link [1]",
+        "pt": "Armadura Vital [1]",
+        "es": "Enlace vital[1]"
+    },
+    "e~u": {
+        "en": "Diabolus Robe [1]",
+        "pt": "Manto de Diabolus [1]",
+        "es": "Túnica diabólica[1]"
+    },
+    "f~u": {
+        "en": "Diabolus Armor [1]",
+        "pt": "Armadura de Diabolus [1]",
+        "es": "Armadura diabólica[1]"
+    },
+    "g~u": {
+        "en": "Assaulter Plate [1]",
+        "pt": "Armadura de Assalto [1]",
+        "es": "Placa de atacante[1]"
+    },
+    "h~u": {
+        "en": "Elite Engineer Armor [1]",
+        "pt": "Armadura de Elite [1]",
+        "es": "Armadura de ingeniero de élite[1]"
+    },
+    "i~u": {
+        "en": "Assassin Robe [1]",
+        "pt": "Manto do Mercenário [1]",
+        "es": "Túnica de Asesino[1]"
+    },
+    "j~u": {
+        "en": "Warlock's Battle Robe [1]",
+        "pt": "Manto de Batalha do Feiticeiro [1]",
+        "es": "Túnica de batalla de Brujo[1]"
+    },
+    "k~u": {
+        "en": "Medic's Robe [1]",
+        "pt": "Manto do Médico [1]",
+        "es": "Túnica de médico[1]"
+    },
+    "l~u": {
+        "en": "Elite Archer Suit [1]",
+        "pt": "Traje de Arqueiro de Elite [1]",
+        "es": "Traje de Arquero élite[1]"
+    },
+    "m~u": {
+        "en": "Elite Shooter Suit [1]",
+        "pt": "Túnica do Artilheiro de Elite [1]",
+        "es": "Traje de Pistolero de élite[1]"
+    },
+    "n~u": {
+        "en": "Sprint Mail [1]",
+        "pt": "Armadura de Corrida [1]",
+        "es": "Armadura de velocidad[1]"
+    },
+    "o~u": {
+        "en": "Kandura [1]",
+        "pt": "Kandura [1]",
+        "es": "Kandura[1]"
+    },
+    "p~u": {
+        "en": "Armor of Naga [1]",
+        "pt": "Cota de Escamas de Naga [1]",
+        "es": "Armadura de Naga[1]"
+    },
+    "q~u": {
+        "en": "Improved Tights [1]",
+        "pt": "Malha Aprimorada [1]",
+        "es": "Malla mejorada[1]"
+    },
+    "r~u": {
+        "en": "Valkyrian Armor [1]",
+        "pt": "Armadura das Valquírias [1]",
+        "es": "Armadura de Valkiria[1]"
+    },
+    "s~u": {
+        "en": "[Apprentice Craftsman]\nPlease come back when you have any interest in enchating your armor.",
+        "pt": "[Aprendiz de Encantamento]\nVolte quando tiver interesse em encantar sua armadura.",
+        "es": "[Artesano aprendiz]\nVuelve cuando quieras encantar tu armadura."
+    },
+    "t~u": {
+        "en": "[Apprentice Craftsman]\nI am in charge of Enchanting Armors. Simply put, I've studying ways to power-up armor.",
+        "pt": "[Aprendiz de Encantamento]\nSou responsável por encantar armaduras. Simplificando, estudei maneiras de aumentar o poder das armaduras.",
+        "es": "[Artesano aprendiz]\nMe encargo de encantar armaduras. En pocas palabras, estudio formas de potenciar las armaduras."
+    },
+    "u~u": {
+        "en": "[Apprentice Craftsman]\nIf by any chance, you would want to enchant your armor, bring me 400,000 Zeny and the armor you want to enchant and you are all set to go.",
+        "pt": "[Aprendiz de Encantamento]\nSe, por acaso, você quiser encantar sua armadura, traga-me 400.000 Zenys e a armadura que deseja encantar, e já poderemos começar.",
+        "es": "[Artesano aprendiz]\nSi, por casualidad, quieres encantar tu armadura, tráeme 400000zeny y la armadura que quieras encantar para poder empezar."
+    }
+}

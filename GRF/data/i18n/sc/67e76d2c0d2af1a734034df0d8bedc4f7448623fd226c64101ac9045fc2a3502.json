@@ -1,0 +1,537 @@
+{
+    "oKr1": {
+        "en": "Wandering Grudge",
+        "pt": "Espectro Vagante",
+        "es": "Rencor errante"
+    },
+    "oar1": {
+        "en": "random option check..",
+        "pt": "Verificação de Bônus Aleatórios.",
+        "es": "control de opciones aleatorias."
+    },
+    "oqr1": {
+        "en": "- It cannot be processed. You have too many items. -",
+        "pt": "Você não pode prosseguir com tantos itens no inventário.",
+        "es": "-No se puede procesar. Llevas demasiados objetos.-"
+    },
+    "o6r1": {
+        "en": "grr.. grr... I can feel.....",
+        "pt": "Posso sentir...",
+        "es": "Grrr… Grrr… Siento…"
+    },
+    "pKr1": {
+        "en": "[Wandering Grudge]\ngr.. gr... abominations grudge........",
+        "pt": "[Espectro Vagante]\nPosso sentir o som de passos se arrastando...",
+        "es": "[Rencor errante]\nGrrr… Grrr… Las abominaciones sienten rencor…"
+    },
+    "par1": {
+        "en": "who... am... I.......?",
+        "pt": "Quem sou eu?",
+        "es": "¿Quién… soy…?"
+    },
+    "pqr1": {
+        "en": "[Wandering Grudge]\nWhere.. is... this...... who.. am.. I..",
+        "pt": "[Espectro Vagante]\nO silêncio... completa este lugar.",
+        "es": "[Rencor errante]\nDónde… estoy… quién… Soy…"
+    },
+    "p6r1": {
+        "en": "[Wandering Grudge]\nI... need.... strength.... power...I... can... help you...",
+        "pt": "[Espectro Vagante]\nAs memórias... me alimentam",
+        "es": "[Rencor errante]\nNecesito… fuerza… Poder… Puedo… ayudarte…"
+    },
+    "qKr1": {
+        "en": "Enchant Old Helm",
+        "pt": "Encantar Chapéu Memorável",
+        "es": "Encantar yelmo antiguo."
+    },
+    "qar1": {
+        "en": "Reset Old Helm",
+        "pt": "Resetar Chapéu Memorável",
+        "es": "Restablecer yelmo antiguo."
+    },
+    "qqr1": {
+        "en": "Explan Enchant Old Helm",
+        "pt": "Memórias?",
+        "es": "Explicar encantamiento de yelmo antiguo."
+    },
+    "q6r1": {
+        "en": "Grudge.. Give.. me Grudge..",
+        "pt": "Me dê... Fragmentos Ominosos...",
+        "es": "Rencor… Dame… Rencor…"
+    },
+    "rKr1": {
+        "en": "[Wandering Grudge]\nGr.... gr.. give me that powerful grudge,. I will enchant your helm for you..\n^FF0000You can upgrade helm by giving Pieces of Grudge.^000000",
+        "pt": "[Espectro Vagante]\nEncantarei seu Chapéu Memorável ao custo de...\n...^FF0000Fragmentos Ominosos^000000.",
+        "es": "[Rencor errante]\nGrrr… Grrr… Dame ese rencor poderoso… Te encantaré el yelmo…\n^FF0000Puedes mejorar el yelmo si entregas Piezas de rencor^000000"
+    },
+    "rar1": {
+        "en": "[Wandering Grudge]\nYou want power...? Then you need old helms first....\n^FF0000Old Rune Circlet, Mitra, Driver Band(Red), Driver Band(Yellow), Shadow Handicraft, Minstrel Song Hat,\n^FF0000Midas Whisper, Magic Stone Hat, Blazing Soul, Wins Whisper, Dying Swan, Circlet of Bone, Protection of Crown,\n^FF0000and Camo Rabithood can be enchanted.",
+        "pt": "[Espectro Vagante]\nMemórias são parte da nossa vida... não podemos esquecer das mais importantes...\n^FF0000Você pode encantar os seguintes Chapéus:^000000\n^FF0000Memorável Poder das Runas, Memorável Desejo dos Deuses, Memorável Talento do Piloto, Memorável Talento do Mecânico, Memorável Artifício das Sombras, Memorável Inspiração do Artista, Memorável Toque de Midas, Memorável Mistério da Magia, Memorável Disciplina do Espírito, Memorável Sussurro dos Elementos,^000000\n^FF0000Memorável Súplica do Cisne, Memorável Vingança dos Mortos, Memorável Sacrifício do Protetor e Memorável Sentido de Caça.^000000",
+        "es": "[Rencor errante]\n¿Quieres poder…? Entonces primero necesitas yelmos antiguos…\nSe pueden encantar: ^FF0000Antigua diadema rúnica, Mitra, Vincha de conductor (roja), Vincha de conductor (amarilla), Artesanía sombría, Sombrero de la canción del Ministril,\n^FF0000Susurro de Midas, Sombrero de piedra mágica, Alma llameante, Susurro del viento, Cisne agonizante, Diadema ósea, Casquete de protección,\n^FF0000y Capucha camuflada de conejito."
+    },
+    "rqr1": {
+        "en": "[Wandering Grudge]\nIf.. you bring me grudge... I will give you strength.....\n^FF0000You need Pieces of Grudge in order to enchant.^000000",
+        "pt": "[Espectro Vagante]\nCada encantamento custará...\n^FF000010 Fragmentos Ominosos^000000...",
+        "es": "[Rencor errante]\nSi me… traes rencor… Te daré fuerza…\n^FF0000Para poder encantar, necesitas Piezas de rencor.^000000"
+    },
+    "r6r1": {
+        "en": "[Wandering Grudge]\nYGr.. you will need a lot of pieces for a huge strength...\n^FF00004, 3, 2 will be enchanted in order. First slot enchant requires 10 pieces of grudge.^000000",
+        "pt": "[Espectro Vagante]\nGrandes poderes... podem sempre melhorar...\n^FF0000Se conseguir um encanto do tipo Insígnia, você poderá reforçar o encantamento.^000000",
+        "es": "[Rencor errante]\nGrr… Necesitarás muchas piezas para conseguir una fuerza enorme…\n^FF00004, 3, 2 se encantarán en orden. Para el encantamiento de la primera ranura se necesitan 10 Piezas de rencor.^000000"
+    },
+    "sKr1": {
+        "en": "[Wandering Grudge]\nYou can upgrade enchants as it gets more powerful....\n^FF00002nd upgrade: 20 pieces, 3rd: 40 pieces\n^FF0000Next enchants will require 50, 70, 100, 150, 250, 500, 1000 pieces of grudge.",
+        "pt": "[Espectro Vagante]\nInsígnias... de sentimentos humanos....\n^FF0000Quando reforçar uma insígnia, um número crescente de Fragmentos Ominosos são consumidos, dependendo do nível da Insígnia.^000000\n^FF0000O número necessário aumenta após cada reforço.^000000",
+        "es": "[Rencor errante]\nA medida que se vuelven más poderosos, puedes mejorar los encantamientos…\n^FF0000Segundamejora: 20 piezas, tercera: 40 piezas\n^FF0000Los próximos encantamientos requerirán 50, 70, 100, 150, 250, 500, 1000 piezas de rencor."
+    },
+    "sar1": {
+        "en": "so... confused.....",
+        "pt": "muito... confuso...",
+        "es": "Qué… confuso…"
+    },
+    "sqr1": {
+        "en": "[Wandering Grudge]\nso.. confused... I dont see any helms..\n^FF0000You need to equip your helm to enchant.^000000",
+        "pt": "[Espectro Vagante]\nHm... onde está o fragmento? Onde está a memória?\n^FF0000Você só pode encantar um item Memorável depois de equipá-lo.^000000",
+        "es": "[Rencor errante]\nQué… confuso… No veo ningún yelmo…\n^FF0000Para encantarlo, necesitas equipar el yelmo.^000000"
+    },
+    "s6r1": {
+        "en": "^FF0000Random option is checked. It cannot be proceeded..^000000",
+        "pt": "^FF0000Este item possui Bônus Aleatórios e não pode ser encantado...^000000",
+        "es": "^FF0000Está seleccionada la opción aleatoria. No se puede proceder.^000000"
+    },
+    "tKr1": {
+        "en": "Destroy it..",
+        "pt": "Destrua...",
+        "es": "Destrúyelo."
+    },
+    "tar1": {
+        "en": "[Wandering Grudge]\nFunny.... You want that detroyed...?\n^FF0000You only can enchant old helms using the Pieces of Grudge.^000000",
+        "pt": "[Espectro Vagante]\nEsse equipamento não possui o que é necessário...\n^FF0000Encantamento possível apenas para equipamentos ''Memoráveis''.^000000",
+        "es": "[Rencor errante]\nQué raro… ¿Quieres destruir esa cosa…?\n^FF0000Con las Piezas de rencor solo se pueden encantar yelmos antiguos.^000000"
+    },
+    "tqr1": {
+        "en": "Funny..",
+        "pt": "Engraçado...",
+        "es": "Qué raro…"
+    },
+    "t6r1": {
+        "en": "[Wandering Grudge]\nYour helm... doesnt have any strength.....\n^FF0000Helm isnt enchanted. Cannot be proceeded.^000000",
+        "pt": "[Espectro Vagante]\nAquilo que não possuir poder, não posso reverter...\n^FF0000Não é possível desencantar um equipamento sem encantamentos.^000000",
+        "es": "[Rencor errante]\nTu yelmo… No tiene fuerza alguna…\n^FF0000El yelmo no está encantado. No se puede proceder.^000000"
+    },
+    "uKr1": {
+        "en": "I can't wait....",
+        "pt": "Mal posso esperar...",
+        "es": "No puedo esperar…"
+    },
+    "uar1": {
+        "en": "[Wandering Grudge]\nWell... don't you like it.... bring 10 pieces, I will reset it.. for you...\n^FF0000Reset requires 10 pieces.\n^FF0000Every enchant will reset except the equipment's refine rate and 1st slot card.^000000",
+        "pt": "[Espectro Vagante]\nNão gosta do poder contido? Traga-me 10 Fragmentos Sentimentais e posso removê-lo para você...\n^FF0000Todos os encantamentos serão removidos. O refino e a carta serão mantidos.^000000\n^FF0000Você pode perder Essências de Morroc.^000000",
+        "es": "[Rencor errante]\nBueno… Si no te gusta… Tráeme 10 piezas y te lo restableceré…\n^FF0000Para restablecer algo se necesitan 10 piezas.\n^FF0000Se restablecerán todos los encantamientos, excepto el índice de refinamiento del equipamiento y la carta de la primeraranura.^000000"
+    },
+    "uqr1": {
+        "en": "Quit.",
+        "pt": "Cancelar",
+        "es": "Salir."
+    },
+    "u6r1": {
+        "en": "Pay.",
+        "pt": "Aceitar e pagar",
+        "es": "Pagar."
+    },
+    "vKr1": {
+        "en": "Whenever...",
+        "pt": "...para sempre...",
+        "es": "Como digas…"
+    },
+    "var1": {
+        "en": "[Wandering Grudge]\nI will wait...",
+        "pt": "[Espectro Vagante]\nEsperarei sua decisão... para sempre...",
+        "es": "[Rencor errante]\nEsperaré…"
+    },
+    "vqr1": {
+        "en": "Not good..",
+        "pt": "Não é bom...",
+        "es": "Nada bueno…"
+    },
+    "v6r1": {
+        "en": "[Wandering Grudge]\nYou need to bring 10 pieces...\n^FF0000Reset requires 10 pieces of grudge.\n^FF0000Please check your inventory.",
+        "pt": "[Espectro Vagante]\nSe não trouxer Fragmentos teremos problemas...\n^FF0000Você precisa de 10 Fragmentos Sentimentais para remover os encantamentos.^000000\n^FF0000Cheque quantos Fragmentos Sentimentais você possui!^000000",
+        "es": "[Rencor errante]\nDebes traer 10 piezas…\n^FF0000Para restablecer algo se necesitan 10 piezas de rencor.\n^FF0000Revisa tu inventario."
+    },
+    "wKr1": {
+        "en": "Gr...",
+        "pt": "Gr...",
+        "es": "Grrr…"
+    },
+    "war1": {
+        "en": "[Wandering Grudge]\nOk!... I will reset your old helm...",
+        "pt": "[Espectro Vagante]\nDesencantarei essa Memória...",
+        "es": "[Rencor errante]\n¡Bueno…! Restableceré tu antiguo yelmo…"
+    },
+    "wqr1": {
+        "en": "[Wandering Grudge]\nGr... Gr... kakaha..",
+        "pt": "[Espectro Vagante]\nAbsorvidos serão os Fragmentos...",
+        "es": "[Rencor errante]\nGrrr… Grrr… Ja, ja, ja…"
+    },
+    "w6r1": {
+        "en": "ERROR <Enchant Menu>\nError occurred. Please contact cs team if it persists.",
+        "pt": "ERRO <Enchant Menu>\nInforme à equipe de CS se o erro persistir.",
+        "es": "ERROR <Enchant Menu>\nSe produjo un error. Si el problema persiste, ponte en contacto con el equipo de Atención al cliente."
+    },
+    "xKr1": {
+        "en": "ERROR <Check Enchant>\nPlease report to CS team is an error persists.",
+        "pt": "ERRO <Check Enchant>\nInforme à equipe de CS se o erro persistir.",
+        "es": "ERROR <Check Enchant>\nSi el error persiste, ponte en contacto con el equipo de Atención al cliente."
+    },
+    "xar1": {
+        "en": "Go for it....",
+        "pt": "Vá em frente....",
+        "es": "Adelante…"
+    },
+    "xqr1": {
+        "en": "[Wandering Grudge]\nCannot be upgraded anymore. Please reset it...\n^FF0000Mettle, Magic, Acute, Master Archer, Adamantine, Affection, Tenacity\n^FF0000You can only upgrade enchants when it's enchanted.",
+        "pt": "[Espectro Vagante]\nFaça sem hesitar...\n^FF0000Apenas um chapéu memorável encantado com essas insígnias pode ser fortalecido.^000000\n^FF0000Potência, Virtude, Talento, Maestria, Resiliência e Afeição.^000000",
+        "es": "[Rencor errante]\nYa no se puede actualizar. Por favor, restablécelo…\n^FF0000Fortaleza, Magia, Perspicacia, Maestro arquero, Adamantino, Afecto, Tenacidad.\n^FF0000Solo se pueden mejorar los encantamientos cuando ya haya un encantamiento previo."
+    },
+    "x6r1": {
+        "en": "ERROR <Enchant>\nPlease report to CS team is an error persists.",
+        "pt": "ERRO <Encantamento>\nInforme à equipe de CS se o erro persistir.",
+        "es": "ERROR <Enchant>\nSi el error persiste, ponte en contacto con el equipo de Atención al cliente."
+    },
+    "yKr1": {
+        "en": "[Wandering Grudge]\nShall.... we.... start.....\n^FF00004th slot will be enchanted. One of 6 options will be randomly enchanted.^000000",
+        "pt": "[Espectro Vagante]\nQue tal começarmos devagar? Teste sua sorte...\n^FF0000Um entre 6 encantos será aplicado aleatoriamente no slot 4^000000",
+        "es": "[Rencor errante]\n¿Comenzamos…?\n^FF0000Se encantará la cuartaranura. Se encantará una de las 6 opciones al azar.^000000"
+    },
+    "yar1": {
+        "en": "[Wandering Grudge]\nGrrr. do you like it?...?\n^FF00003rd slot will be enchanted. One of 6 options will be randomly enchanted.^000000",
+        "pt": "[Espectro Vagante]\nGostou de seu primeiro encantamento?\n^FF0000Um entre 6 encantos será aplicado aleatoriamente no slot 3^000000",
+        "es": "[Rencor errante]\nGrrr… ¿Te gusta…?\n^FF0000Se encantará la terceraranura. Se encantará una de las 6 opciones al azar.^000000"
+    },
+    "yqr1": {
+        "en": "[Wandering Grudge]\nGrrrrrrrrr... ....\n^FF00002nd slot will be enchanted..\n^FF0000Only 6 special options can be upgraded.",
+        "pt": "[Espectro Vagante]\nA porta que liga você ao poder... será testada agora...\n^FF0000O slot 2 será encantado.^000000\n^FF0000Além dos atributos, também poderá ser encantado aleatoriamente com as insígnias^000000",
+        "es": "[Rencor errante]\nGrrrrrrr…\n^FF0000Se encantará la segundaranura.\n^FF0000Solo se pueden mejorar 6 opciones especiales."
+    },
+    "y6r1": {
+        "en": "[Wandering Grudge]\nGrr.. We are not friends yet....",
+        "pt": "[Espectro Vagante]\nNão pense que somos amigos...",
+        "es": "[Rencor errante]\nGrrr… Aún no somos amigos…"
+    },
+    "zKr1": {
+        "en": "Let's go back...",
+        "pt": "Hm...",
+        "es": "Volvamos…"
+    },
+    "zar1": {
+        "en": "[Wandering Grudge]\nHuman..? aren't you bored....",
+        "pt": "[Espectro Vagante]\nEstá entediado? Que tal desencantar seu Chapéu Memorável para conseguir os encantamentos que busca...?",
+        "es": "[Rencor errante]\n¿Ser humano…? No te aburres…"
+    },
+    "zqr1": {
+        "en": "[Wandering Grudge]\nLucky.... Good luck.....",
+        "pt": "[Espectro Vagante]\nReforço de nível 2? Sua sorte está em dia...",
+        "es": "[Rencor errante]\nQué suerte… Buena suerte…"
+    },
+    "z6r1": {
+        "en": "[Wandering Grudge]\n3rd upgrade..? You will lose if you fail...",
+        "pt": "[Espectro Vagante]\nReforço de nível 3? Se atingir o sucesso ficará mais forte, mas se falhar... haverá consequências...",
+        "es": "[Rencor errante]\n¿Terceraactualización…? Si fallas, perderás…"
+    },
+    "0Kr1": {
+        "en": "[Wandering Grudge]\n4th...? You will lose if you fail....",
+        "pt": "[Espectro Vagante]\nReforço de nível 4? Se atingir o sucesso ficará mais forte, mas se falhar... haverá consequências...",
+        "es": "[Rencor errante]\n¿Cuarta…? Si fallas, perderás…"
+    },
+    "0ar1": {
+        "en": "[Wandering Grudge]\n5th....? Are you ready for the great power? Can't wait to see you fail....",
+        "pt": "[Espectro Vagante]\nReforço de nível 5? Está realmente pronto para controlar tal intensidade de poder?",
+        "es": "[Rencor errante]\n¿Quinta…? ¿Todo listo para adquirir el gran poder? Me muero de ganas de verte fallar…"
+    },
+    "0qr1": {
+        "en": "[Wandering Grudge]\n6th....? Are you ready for the great power? Can't wait to see you fail..",
+        "pt": "[Espectro Vagante]\nReforço de nível 6? Está realmente pronto para controlar tal intensidade de poder?",
+        "es": "[Rencor errante]\n¿Sexta…? ¿Todo listo para adquirir el gran poder? Me muero de ganas de verte fallar…"
+    },
+    "06r1": {
+        "en": "[Wandering Grudge]\n7th....? Are you ready for the great power? What a greedy..",
+        "pt": "[Espectro Vagante]\nReforço de... nível 7? Isso vai ser... interessante...",
+        "es": "[Rencor errante]\n¿Séptima…? ¿Todo listo para adquirir el gran poder? Cuánta codicia…"
+    },
+    "1Kr1": {
+        "en": "[Wandering Grudge]\n8th....? Are you ready for the great power? What a greedy....",
+        "pt": "[Espectro Vagante]\nReforço de... nível 8? Isso vai ser... interessante...",
+        "es": "[Rencor errante]\n¿Octava…? ¿Todo listo para adquirir el gran poder? Cuánta codicia…"
+    },
+    "1ar1": {
+        "en": "[Wandering Grudge]\n9th....? Are you kidding me.....? Are you ready to reach its limit....",
+        "pt": "[Espectro Vagante]\nNão... será que desafiará os poderes mais intensos? Reforço de nível 9...",
+        "es": "[Rencor errante]\n¿Novena…? ¿Es una broma…? ¿Todo listo para alcanzar el límite…?"
+    },
+    "1qr1": {
+        "en": "[Wandering Grudge]\nGr....... We are almost there....\nI will test if you are ready for its end...",
+        "pt": "[Espectro Vagante]\nNinguém nunca chegou até aqui...\nO Reforço de nível 10 é o fim da linha...",
+        "es": "[Rencor errante]\nGrrr… Ya casi llegamos…\nTe pondré a prueba para ver si puedes afrontar el final…"
+    },
+    "16r1": {
+        "en": "ERROR <Enchant Count>\nPlease report to CS team is an error persists.",
+        "pt": "ERRO <contagem de encantamento>\nSe o erro persistir, informe a equipe de CS.",
+        "es": "ERROR <Enchant Count>\nSi el error persiste, ponte en contacto con el equipo de Atención al cliente."
+    },
+    "2Kr1": {
+        "en": "[Wandering Grudge]\nFirst, let me check if you have enough pieces...",
+        "pt": "[Espectro Vagante]\nAntes de mais nada, preciso checar seus Fragmentos Ominosos... pra ver se tem o suficiente...",
+        "es": "[Rencor errante]\nPrimero, déjame comprobar si tienes las piezas suficientes…"
+    },
+    "2ar1": {
+        "en": "[Wandering Grudge]\nI need...{0}pieces of grudge...gr...\n^FF0000Enchant requires {0} pieces of grudge.^000000",
+        "pt": "[Espectro Vagante]\nPreciso de {0} fragmentos...\n^FF0000Para fazer o encantamento, você precisa de {0} Fragmentos Ominosos.^000000",
+        "es": "[Rencor errante]\nNecesito… {0}Piezas de rencor… Grrr…\n^FF0000Para el encantamiento se necesitan {0}Piezas de rencor.^000000"
+    },
+    "2qr1": {
+        "en": "pay",
+        "pt": "Dar Fragmentos",
+        "es": "Pagar."
+    },
+    "26r1": {
+        "en": "do not pay",
+        "pt": "Não dar Fragmentos",
+        "es": "No pagar."
+    },
+    "3Kr1": {
+        "en": "[Wandering Grudge]\ngr.. you don't have enough...\n^FF0000Enchant requires {0}pieces of grudge.\n^FF0000Please check your inventory.",
+        "pt": "[Espectro Vagante]\nIsso é algum tipo de... piada?\n^FF0000Para fazer o encantamento, você precisa de {0} Fragmentos Ominosos.^000000\n^FF0000Por favor, verifique seu inventário.^000000",
+        "es": "[Rencor errante]\nGrrr… No tienes suficientes…\n^FF0000Para el encantamiento se necesitan {0}Piezas de rencor.\n^FF0000Revisa tu inventario."
+    },
+    "3ar1": {
+        "en": "[Wandering Grudge]\ngr.. you are not ready for it...",
+        "pt": "[Espectro Vagante]\nParece que não está pronto para tanto poder...",
+        "es": "[Rencor errante]\nGrrr… Aún no tienes todo listo…"
+    },
+    "3qr1": {
+        "en": "[Wandering Grudge]\ngrrrr this power.......\n^FF0000Equipment's refine rate and card doesn't change. But! enchant level can be downgraded.^000000",
+        "pt": "[Espectro Vagante]\nHm... o poder dos Fragmentos é... fascinante.\n^FF0000Refino e cartas não são perdidos. Você pode perder Essências de Morroc. Contudo, nível da Insígnia pode ser reduzido durante o processo.^000000",
+        "es": "[Rencor errante]\nGrrr, este poder…\n^FF0000El índice de refinamiento y la carta del equipamiento no cambian. Pero se puede degradar el nivel del encantamiento.^000000"
+    },
+    "36r1": {
+        "en": "Enchant.",
+        "pt": "Encantar.",
+        "es": "Encantar."
+    },
+    "4Kr1": {
+        "en": "Cancel.",
+        "pt": "Cancelar.",
+        "es": "Cancelar."
+    },
+    "4ar1": {
+        "en": "[Wandering Grudge]\nGr... you are not ready...",
+        "pt": "[Espectro Vagante]\nParece que não está pronto para tanto poder...",
+        "es": "[Rencor errante]\nGrrr… No tienes todo listo…"
+    },
+    "4qr1": {
+        "en": "[Wandering Grudge]\nGr.... Failed... You are lucky...",
+        "pt": "[Espectro Vagante]\nIsso... poderia ter sido melhor...",
+        "es": "[Rencor errante]\nGrrr… Falló… Estás de suerte…"
+    },
+    "46r1": {
+        "en": "[Wandering Grudge]\nGrr.... Aaawk.... Failed.... power is gone..\n^FF0000Enchant is downgraded.^000000",
+        "pt": "[Espectro Vagante]\nO equipamente sofreu... danos...\n^FF0000Devido à falha no processo, a insígnia perdeu 1 nível.^000000",
+        "es": "[Rencor errante]\nGrrr… Puaj… Falló… El poder desapareció…\n^FF0000Se degradó el encantamiento.^000000"
+    },
+    "5Kr1": {
+        "en": "[Wandering Grudge]\nGr.... can feel so much power.\n^FF0000Gratz. Enchant succeeded.^000000",
+        "pt": "[Espectro Vagante]\nSucesso... consigo sentir o poder...\n^FF0000O encantamento deu certo!^000000",
+        "es": "[Rencor errante]\nGrrr… Siento mucho poder.\n^FF0000Felicidades. El encantamiento tuvo éxito.^000000"
+    },
+    "5ar1": {
+        "en": "GM Check-Add random option check.",
+        "pt": "Verificação GM - Check de BA",
+        "es": "Revisión del agregado del control de opciones aleatorias de GM."
+    },
+    "5qr1": {
+        "en": "Please try again after installing a special item.",
+        "pt": "Tente novamente depois de equipar um item de GM",
+        "es": "Vuelve a intentarlo después de que hayas instalado un objeto especial."
+    },
+    "56r1": {
+        "en": "[Dead Enchant Helper]\nCheckingif old helm is equipped. There's no reset.",
+        "pt": "[Espectro Vagante (admin)]\nDê uma olhada... talvez o item não esteja equipado...",
+        "es": "[Ayudante de encantamiento muerto]\nComprobando que el yelmo antiguo esté equipado. No hay restablecimiento."
+    },
+    "6Kr1": {
+        "en": "[Dead Enchant Helper]\nPlease equip old helm first.",
+        "pt": "[Espectro Vagante (admin)]\nEquipe o item primeiro...",
+        "es": "[Ayudante de encantamiento muerto]\nPrimero debes equipar el yelmo antiguo."
+    },
+    "6ar1": {
+        "en": "^FF0000Random option is checked. It cannot be proceeded^000000",
+        "pt": "^FF0000Este item possui Bônus Aleatórios. Não é possível prosseguir^000000",
+        "es": "^FF0000Está seleccionada la opción aleatoria. No se puede proceder.^000000"
+    },
+    "6qr1": {
+        "en": "[Dead Enchant Helper]\nIt's not the old helm that you are wearing.",
+        "pt": "[Espectro Vagante (admin)]\nO item equipado... não pode ser encantado...",
+        "es": "[Ayudante de encantamiento muerto]\nNo tienes puesto el yelmo antiguo."
+    },
+    "66r1": {
+        "en": "[Dead Enchant Helper]\nPlease select the enchant option for slot 4",
+        "pt": "[Espectro Vagante (admin)]\nEscolha o encantamento que quer no slot 4...",
+        "es": "[Ayudante de encantamiento muerto]\nSelecciona la opción de encantamiento para la cuartaranura."
+    },
+    "7Kr1": {
+        "en": "STR",
+        "pt": "FOR",
+        "es": "FUE"
+    },
+    "7ar1": {
+        "en": "INT",
+        "pt": "INT",
+        "es": "INT"
+    },
+    "7qr1": {
+        "en": "DEX",
+        "pt": "DES",
+        "es": "DES"
+    },
+    "76r1": {
+        "en": "AGI",
+        "pt": "AGI",
+        "es": "AGI"
+    },
+    "8Kr1": {
+        "en": "VIT",
+        "pt": "VIT",
+        "es": "VIT"
+    },
+    "8ar1": {
+        "en": "LUK",
+        "pt": "SOR",
+        "es": "SUE"
+    },
+    "8qr1": {
+        "en": "+1",
+        "pt": "1",
+        "es": "+1"
+    },
+    "86r1": {
+        "en": "+2",
+        "pt": "2",
+        "es": "+2"
+    },
+    "9Kr1": {
+        "en": "+3",
+        "pt": "3",
+        "es": "+3"
+    },
+    "9ar1": {
+        "en": "+4",
+        "pt": "4",
+        "es": "+4"
+    },
+    "9qr1": {
+        "en": "+5",
+        "pt": "5",
+        "es": "+5"
+    },
+    "96r1": {
+        "en": "[Dead Enchant Helper]\nPlease select the enchant option for slot 3",
+        "pt": "[Espectro Vagante (admin)]\nSelecione a opção de encantamento para o slot 3",
+        "es": "[Ayudante de encantamiento muerto]\nSelecciona la opción de encantamiento para la terceraranura."
+    },
+    "+Kr1": {
+        "en": "[Dead Enchant Helper]\nPlease select the enchant option for slot 2",
+        "pt": "[Espectro Vagante (admin)]\nSelecione a opção de encantamento para o slot 2",
+        "es": "[Ayudante de encantamiento muerto]\nSelecciona la opción de encantamiento para la segundaranura."
+    },
+    "+ar1": {
+        "en": "Mettle",
+        "pt": "Potência",
+        "es": "Fortaleza"
+    },
+    "+qr1": {
+        "en": "Magic",
+        "pt": "Virtude",
+        "es": "Magia"
+    },
+    "+6r1": {
+        "en": "Acute",
+        "pt": "Talento",
+        "es": "Perspicacia"
+    },
+    "/Kr1": {
+        "en": "Master Archer",
+        "pt": "Maestria",
+        "es": "Maestro arquero"
+    },
+    "/ar1": {
+        "en": "Adamantine",
+        "pt": "Resiliência",
+        "es": "Adamantino"
+    },
+    "/qr1": {
+        "en": "Affection",
+        "pt": "Afeição",
+        "es": "Afecto"
+    },
+    "/6r1": {
+        "en": "Tenacity",
+        "pt": "Determinação",
+        "es": "Tenacidad"
+    },
+    "AKv1": {
+        "en": "1Lv",
+        "pt": "1Nv",
+        "es": "nivel 1"
+    },
+    "Aav1": {
+        "en": "2Lv",
+        "pt": "2Nv",
+        "es": "nivel 2"
+    },
+    "Aqv1": {
+        "en": "3Lv",
+        "pt": "3Nv",
+        "es": "nivel 3"
+    },
+    "A6v1": {
+        "en": "4Lv",
+        "pt": "4Nv",
+        "es": "nivel 4"
+    },
+    "BKv1": {
+        "en": "5Lv",
+        "pt": "5Nv",
+        "es": "nivel 5"
+    },
+    "Bav1": {
+        "en": "6Lv",
+        "pt": "6Nv",
+        "es": "nivel 6"
+    },
+    "Bqv1": {
+        "en": "7Lv",
+        "pt": "7Nv",
+        "es": "nivel 7"
+    },
+    "B6v1": {
+        "en": "8Lv",
+        "pt": "8Nv",
+        "es": "nivel 8"
+    },
+    "CKv1": {
+        "en": "9Lv",
+        "pt": "9Nv",
+        "es": "nivel 9"
+    },
+    "Cav1": {
+        "en": "10Lv",
+        "pt": "10Nv",
+        "es": "nivel 10"
+    },
+    "Cqv1": {
+        "en": "[Dead Enchant Helper]\nsucceeded.",
+        "pt": "[Espectro Vagante (admin)]\nSucesso.",
+        "es": "[Ayudante de encantamiento muerto]\ntuvo éxito."
+    }
+}

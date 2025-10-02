@@ -1,0 +1,712 @@
+{
+    "IO87Cg": {
+        "en": "Manager Emily",
+        "pt": "Gerente Emily",
+        "es": "Gerente Emily"
+    },
+    "Ie87Cg": {
+        "en": "- Inventory is full Try again after reorganizing your inventory. -",
+        "pt": "- Você está com muitos itens e não pode prosseguir. -",
+        "es": "- El inventario está lleno Inténtalo de nuevo después de reorganizar tu inventario. -"
+    },
+    "Iu87Cg": {
+        "en": "[Manager Emily]\nEden Group has prepared various equipment items for advanced adventurers.\nYou need ^4D4DFFEden Group Coins ^000000 to exchange for items.\nWould you like to exchange?",
+        "pt": "[Gerente Emily]\nO Grupo do Éden preparou diversos equipamentos para aventureiros e aventureiras de níveis mais altos.\nBasta trazer ^4D4DFFMoedas do Éden^000000\nGostaria de trocar?",
+        "es": "[Gerente Emily]\nEl Grupo Edén ha preparado varios objetos de equipo para aventureros avanzados.\nNecesitas ^4D4DFFMonedas del Grupo Edén ^000000 para canjearlas por objetos.\n¿Te gustaría cambiarlas?"
+    },
+    "I+87Cg": {
+        "en": "Accessory",
+        "pt": "Acessório",
+        "es": "Accesorio"
+    },
+    "JO87Cg": {
+        "en": "Uniform",
+        "pt": "Armadura",
+        "es": "Uniforme"
+    },
+    "Je87Cg": {
+        "en": "Boots",
+        "pt": "Calçado",
+        "es": "Botas"
+    },
+    "Ju87Cg": {
+        "en": "Manteau",
+        "pt": "Manto",
+        "es": "Manteau"
+    },
+    "J+87Cg": {
+        "en": "Hat",
+        "pt": "Chapéu",
+        "es": "Sombrero"
+    },
+    "KO87Cg": {
+        "en": "Eden Group Coin?",
+        "pt": "Moeda do Éden?",
+        "es": "¿Moneda del Grupo Edén?"
+    },
+    "Ke87Cg": {
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar"
+    },
+    "Ku87Cg": {
+        "en": "[Manager Emily]\nWhat kind of accessory would you like to see?",
+        "pt": "[Gerente Emily]\nQue tipo de acessório você gostaria de ver?",
+        "es": "[Gerente Emily]\n¿Qué tipo de accesorio te gustaría ver?"
+    },
+    "K+87Cg": {
+        "en": "ATK Ring and Necklace",
+        "pt": "Anel ou Colar Forte",
+        "es": "Anillo y collar ATQ"
+    },
+    "LO87Cg": {
+        "en": "Magical Ring and Necklace",
+        "pt": "Anel ou Colar Mágico",
+        "es": "Anillo y collar mágicos"
+    },
+    "Le87Cg": {
+        "en": "DEX Ring and Necklace",
+        "pt": "Anel ou Colar Ágil",
+        "es": "Anillo y collar DES"
+    },
+    "Lu87Cg": {
+        "en": "Recovery Ring and Necklace",
+        "pt": "Anel ou Colar Vital",
+        "es": "Anillo y collar de recuperación"
+    },
+    "L+87Cg": {
+        "en": "Other Items",
+        "pt": "Outros equipamentos",
+        "es": "Otros artículos"
+    },
+    "MO87Cg": {
+        "en": "^CCCCCCStrong Ring of Eden I[Coins: 20]^000000",
+        "pt": "^CCCCCCAnel Forte do Éden I [Moedas: 20]^000000",
+        "es": "^CCCCCCAnillo de Fuerza del Edén I[Monedas: 20]^000000"
+    },
+    "Me87Cg": {
+        "en": "^CCCCCCStrong Necklace of Eden I[Coins: 20]^000000",
+        "pt": "^CCCCCCColar Forte do Éden I [Moedas: 20]^000000",
+        "es": "^CCCCCCCollar de Fuerza del Edén I[Monedas: 20]^000000"
+    },
+    "Mu87Cg": {
+        "en": "^4D4DFFStrong Ring of Eden I[Coins: 20]^000000",
+        "pt": "^4D4DFFAnel Forte do Éden I [Moedas: 20]^000000",
+        "es": "^4D4DFFAnillo de Fuerza del Edén I[Monedas: 20]^000000"
+    },
+    "M+87Cg": {
+        "en": "^4D4DFFStrong Necklace of Eden I[Coins: 20]^000000",
+        "pt": "^4D4DFFColar Forte do Éden I [Moedas: 20]^000000",
+        "es": "^4D4DFFCollar de Fuerza del Edén I[Monedas: 20]^000000"
+    },
+    "NO87Cg": {
+        "en": "^CCCCCCStrong Ring of Eden II[Coins: 60]^000000",
+        "pt": "^CCCCCCAnel Forte do Éden II [Moedas: 60]^000000",
+        "es": "^CCCCCCAnillo de Fuerza del Edén II[Monedas: 60]^000000"
+    },
+    "Ne87Cg": {
+        "en": "^CCCCCCStrong Necklace of Eden II[Coins: 60]^000000",
+        "pt": "^CCCCCCColar Forte do Éden II [Moedas: 60]^000000",
+        "es": "^CCCCCCCollar de Fuerza del Edén II[Monedas: 60]^000000"
+    },
+    "Nu87Cg": {
+        "en": "^4D4DFFStrong Ring of Eden II[Coins: 60]^000000",
+        "pt": "^4D4DFFAnel Forte do Éden II [Moedas: 60]^000000",
+        "es": "^4D4DFFAnillo de Fuerza del Edén II[Monedas: 60]^000000"
+    },
+    "N+87Cg": {
+        "en": "^4D4DFFStrong Necklace of Eden II[Coins: 60]^000000",
+        "pt": "^4D4DFFColar Forte do Éden II [Moedas: 60]^000000",
+        "es": "^4D4DFFCollar de Fuerza del Edén II[Monedas: 60]^000000"
+    },
+    "OO87Cg": {
+        "en": "^CCCCCCStrong Ring of Eden III[Coins: 80]^000000",
+        "pt": "^CCCCCCAnel Forte do Éden III [Moedas: 80]^000000",
+        "es": "^CCCCCCAnillo de Fuerza del Edén III[Monedas: 80]^000000"
+    },
+    "Oe87Cg": {
+        "en": "^CCCCCCStrong Necklace of Eden III[Coins: 80]^000000",
+        "pt": "^CCCCCCColar Forte do Éden III [Moedas: 80]^000000",
+        "es": "^CCCCCCCollar de Fuerza del Edén III[Monedas: 80]^000000"
+    },
+    "Ou87Cg": {
+        "en": "^4D4DFFStrong Ring of Eden III[Coins: 80]^000000",
+        "pt": "^4D4DFFAnel Forte do Éden III [Moedas: 80]^000000",
+        "es": "^4D4DFFAnillo de Fuerza del Edén III[Monedas: 80]^000000"
+    },
+    "O+87Cg": {
+        "en": "^4D4DFFStrong Necklace of Eden III[Coins: 80]^000000",
+        "pt": "^4D4DFFColar Forte do Éden III [Moedas: 80]^000000",
+        "es": "^4D4DFFCollar de Fuerza del Edén III[Monedas: 80]^000000"
+    },
+    "PO87Cg": {
+        "en": "^CCCCCCStrong Ring of Eden IV[Coins: 110]^000000",
+        "pt": "^CCCCCCAnel Forte do Éden IV [Moedas: 110]^000000",
+        "es": "^CCCCCCAnillo de Fuerza del Edén IV[Monedas: 110]^000000"
+    },
+    "Pe87Cg": {
+        "en": "^CCCCCCStrong Necklace of Eden IV[Coins: 110]^000000",
+        "pt": "^CCCCCCColar Forte do Éden IV [Moedas: 110]^000000",
+        "es": "^CCCCCCCollar de Fuerza del Edén IV[Monedas: 110]^000000"
+    },
+    "Pu87Cg": {
+        "en": "^4D4DFFStrong Ring of Eden IV[Coins: 110]^000000",
+        "pt": "^4D4DFFAnel Forte do Éden IV [Moedas: 110]^000000",
+        "es": "^4D4DFFAnillo de Fuerza del Edén IV[Monedas: 110]^000000"
+    },
+    "P+87Cg": {
+        "en": "^4D4DFFStrong Necklace of Eden IV[Coins: 110]^000000",
+        "pt": "^4D4DFFColar Forte do Éden IV [Moedas: 110]^000000",
+        "es": "^4D4DFFCollar de Fuerza del Edén IV[Monedas: 110]^000000"
+    },
+    "QO87Cg": {
+        "en": "^CCCCCCStrong Ring of Eden V[Coins: 150]^000000",
+        "pt": "^CCCCCCAnel Forte do Éden V [Moedas: 150]^000000",
+        "es": "^CCCCCCAnillo de Fuerza del Edén V[Monedas: 150]^000000"
+    },
+    "Qe87Cg": {
+        "en": "^CCCCCCStrong Necklace of Eden V[Coins: 150]^000000",
+        "pt": "^CCCCCCColar Forte do Éden V [Moedas: 150]^000000",
+        "es": "^CCCCCCCollar de Fuerza del Edén V[Monedas: 150]^000000"
+    },
+    "Qu87Cg": {
+        "en": "^4D4DFFStrong Ring of Eden I[Coins: 150]^000000",
+        "pt": "^4D4DFFAnel Forte do Éden V [Moedas: 150]^000000",
+        "es": "^4D4DFFAnillo de Fuerza del Edén V[Monedas: 150]^000000"
+    },
+    "Q+87Cg": {
+        "en": "^4D4DFFStrong Necklace of Eden V[Coins: 150]^000000",
+        "pt": "^4D4DFFColar Forte do Éden V [Moedas: 150]^000000",
+        "es": "^4D4DFFCollar de Fuerza del Edén V[Monedas: 150]^000000"
+    },
+    "RO87Cg": {
+        "en": "[Manager Emily]\nThe items are classified according to level requirements as follows:\n<ITEM>Strong Ring of Eden I<INFO>28443</INFO></ITEM>: level 100\n<ITEM>Strong Necklace of Eden I<INFO>28444</INFO></ITEM>: level 100\n<ITEM>Strong Ring of Eden II<INFO>28445</INFO></ITEM>: level 115\n<ITEM>Strong Necklace of Eden II<INFO>28446</INFO></ITEM>: level 115\n<ITEM>Strong Ring of Eden III<INFO>28447</INFO></ITEM>: level 130\n<ITEM>Strong Necklace of Eden III<INFO>28448</INFO></ITEM>: level 130\n<ITEM>Strong Ring of Eden IV<INFO>28449</INFO></ITEM>: level 145\n<ITEM>Strong Necklace of Eden IV<INFO>28450</INFO></ITEM>: level 145\n<ITEM>Strong Ring of Eden V<INFO>28451</INFO></ITEM>: level 160\n<ITEM>Strong Necklace of Eden V<INFO>28452</INFO></ITEM>: level 160",
+        "pt": "[Gerente Emily]\nAtente-se à descrição do item!!\n<ITEM>Anel Forte do Éden I<INFO>28443</INFO></ITEM>\n<ITEM>Colar Forte do Éden I<INFO>28444</INFO></ITEM>\n<ITEM>Anel Forte do Éden II<INFO>28445</INFO></ITEM>\n<ITEM>Colar Forte do Éden II<INFO>28446</INFO></ITEM>\n<ITEM>Anel Forte do Éden III<INFO>28447</INFO></ITEM>\n<ITEM>Colar Forte do Éden III<INFO>28448</INFO></ITEM>\n<ITEM>Anel Forte do Éden IV<INFO>28449</INFO></ITEM>\n<ITEM>Colar Forte do Éden IV<INFO>28450</INFO></ITEM>\n<ITEM>Anel Forte do Éden V<INFO>28451</INFO></ITEM>\n<ITEM>Colar Forte do Éden V<INFO>28452</INFO></ITEM>",
+        "es": "[Gerente Emily]\nLos artículos se clasifican según los requisitos de nivel de la siguiente manera:\n<ITEM>Anillo de Fuerza del Edén I<INFO>28443</INFO></ITEM>\n<ITEM>Collar de Fuerza del Edén I<INFO>28444</INFO></ITEM>\n<ITEM>Anillo de Fuerza del Edén II<INFO>28445</INFO></ITEM>\n<ITEM>Collar de Fuerza del Edén II<INFO>28446</INFO></ITEM>\n<ITEM>Anillo de Fuerza del Edén I III<INFO>28447</INFO></ITEM>\n<ITEM>Collar de Fuerza del Edén III<INFO>28448</INFO></ITEM>\n<ITEM>Anillo de Fuerza del Edén I IV<INFO>28449</INFO></ITEM>\n<ITEM>Collar de Fuerza del Edén IV<INFO>28450</INFO></ITEM>\n<ITEM>Anillo de Fuerza del Edén I V<INFO>28451</INFO></ITEM>\n<ITEM>Collar de Fuerza del Edén V<INFO>28452</INFO></ITEM>"
+    },
+    "Re87Cg": {
+        "en": "[Manager Emily]\nNot enough coins.\nWould you like to see other items?",
+        "pt": "[Gerente Emily]\nNão há moedas suficientes.\nVocê gostaria de ver outros Equipamentos?",
+        "es": "[Gerente Emily]\nNo hay suficientes monedas.\n¿Le gustaría ver otros artículos?"
+    },
+    "Ru87Cg": {
+        "en": "[Manager Emily]\nHere is your ordered item.\nWould you like to see other items?",
+        "pt": "[Gerente Emily]\nAqui está seu equipamento.\nVocê gostaria de ver outros itens?",
+        "es": "[Gerente Emily]\nAquí está su equipo.\n¿Desea ver otros artículos?"
+    },
+    "R+87Cg": {
+        "en": "^CCCCCCMagic Ring of Eden I[Coins: 20]^000000",
+        "pt": "^CCCCCCAnel Mágico do Éden I [Moedas: 20]^000000",
+        "es": "^CCCCCCAnillo de Magia del Edén I[Monedas: 20]^000000"
+    },
+    "SO87Cg": {
+        "en": "^CCCCCCMagic Necklace of Eden I[Coins: 20]^000000",
+        "pt": "^CCCCCCColar Mágico do Éden I [Moedas: 20]^000000",
+        "es": "^CCCCCCCollar de Magia del Edén I[Monedas: 20]^000000"
+    },
+    "Se87Cg": {
+        "en": "^4D4DFFMagic Ring of Eden I[Coins: 20]^000000",
+        "pt": "^4D4DFFAnel Mágico do Éden I [Moedas: 20]^000000",
+        "es": "^4D4DFFAnillo de Magia del Edén I[Monedas: 20]^000000"
+    },
+    "Su87Cg": {
+        "en": "^4D4DFFMagic Necklace of Eden I[Coins: 20]^000000",
+        "pt": "^4D4DFFColar Mágico do Éden I [Moedas: 20]^000000",
+        "es": "^4D4DFFCollar de Magia del Edén I[Monedas: 20]^000000"
+    },
+    "S+87Cg": {
+        "en": "^CCCCCCMagic Ring of Eden II[Coins: 60]^000000",
+        "pt": "^CCCCCCAnel Mágico do Éden II[Moedas: 60]^000000",
+        "es": "^CCCCCCAnillo de Magia del Edén II[Monedas: 60]^000000"
+    },
+    "TO87Cg": {
+        "en": "^CCCCCCMagic Necklace of Eden II[Coins: 60]^000000",
+        "pt": "^CCCCCCColar Mágico do Éden II [Moedas: 60]^000000",
+        "es": "^CCCCCCCollar de Magia del Edén II[Monedas: 60]^000000"
+    },
+    "Te87Cg": {
+        "en": "^4D4DFFMagic Ring of Eden II[Coins: 60]^000000",
+        "pt": "^4D4DFFAnel Mágico do Éden II[Moedas: 60]^000000",
+        "es": "^4D4DFFAnillo de Magia del Edén II[Monedas: 60]^000000"
+    },
+    "Tu87Cg": {
+        "en": "^4D4DFFMagic Necklace of Eden II[Coins: 60]^000000",
+        "pt": "^4D4DFFColar Mágico do Éden II [Moedas: 60]^000000",
+        "es": "^4D4DFFCollar de Magia del Edén II[Monedas: 60]^000000"
+    },
+    "T+87Cg": {
+        "en": "^CCCCCCMagic Ring of Eden III[Coins: 80]^000000",
+        "pt": "^CCCCCCAnel do Grupo do Éden Mágico III[Moedas: 80]^000000",
+        "es": "^CCCCCCAnillo de Magia del Edén III[Monedas: 80]^000000"
+    },
+    "UO87Cg": {
+        "en": "^CCCCCCMagic Necklace of Eden III[Coins: 80]^000000",
+        "pt": "^CCCCCCColar Mágico do Éden III [Moedas: 80]^000000",
+        "es": "^CCCCCCCollar de Magia del Edén III[Monedas: 80]^000000"
+    },
+    "Ue87Cg": {
+        "en": "^4D4DFFMagic Ring of Eden III[Coins: 80]^000000",
+        "pt": "^4D4DFFAnel do Grupo do Éden Mágico III[Moedas: 80]^000000",
+        "es": "^4D4DFFAnillo mágico del grupo Edén III[Monedas: 80]^000000"
+    },
+    "Uu87Cg": {
+        "en": "^4D4DFFMagic Necklace of Eden III[Coins: 80]^000000",
+        "pt": "^4D4DFFColar Mágico do Éden III [Moedas: 80]^000000",
+        "es": "^4D4DFFCollar de Magia del Edén III[Monedas: 80]^000000"
+    },
+    "U+87Cg": {
+        "en": "^CCCCCCMagic Ring of Eden IV[Coins: 110]^000000",
+        "pt": "^CCCCCCAnel Mágico do Éden IV [Moedas: 110]^000000",
+        "es": "^CCCCCCAnillo de Magia del Edén IV[Monedas: 110]^000000"
+    },
+    "VO87Cg": {
+        "en": "^CCCCCCMagic Necklace of Eden IV[Coins: 110]^000000",
+        "pt": "^CCCCCCColar Mágico do Éden IV [Moedas: 110]^000000",
+        "es": "^CCCCCCCollar de Magia del Edén IV[Monedas: 110]^000000"
+    },
+    "Ve87Cg": {
+        "en": "^4D4DFFMagic Ring of Eden IV[Coins: 110]^000000",
+        "pt": "^4D4DFFAnel Mágico do Éden IV [Moedas: 110]^000000",
+        "es": "^4D4DFFAnillo Mágico del Grupo Edén IV[Monedas: 110]^000000"
+    },
+    "Vu87Cg": {
+        "en": "^4D4DFFMagic Necklace of Eden IV[Coins: 110]^000000",
+        "pt": "^4D4DFFColar Mágico do Éden IV [Moedas: 110]^000000",
+        "es": "^4D4DFFCollar de Magia del Edén IV[Monedas: 110]^000000"
+    },
+    "V+87Cg": {
+        "en": "^CCCCCCMagic Ring of Eden V[Coins: 150]^000000",
+        "pt": "^CCCCCCAnel Mágico do Éden V [Moedas: 150]^000000",
+        "es": "^CCCCCCAnillo de Magia del Edén V[Monedas: 150]^000000"
+    },
+    "WO87Cg": {
+        "en": "^CCCCCCMagic Necklace of Eden V[Coins: 150]^000000",
+        "pt": "^CCCCCCColar Mágico do Éden V [Moedas: 150]^000000",
+        "es": "^CCCCCCCollar de Magia del Edén V[Monedas: 150]^000000"
+    },
+    "We87Cg": {
+        "en": "^4D4DFFMagic Ring of Eden V[Coins: 150]^000000",
+        "pt": "^4D4DFFAnel Mágico do Éden V [Moedas: 150]^000000",
+        "es": "^4D4DFFAnillo mágico del grupo Edén V[Monedas: 150]^000000"
+    },
+    "Wu87Cg": {
+        "en": "^4D4DFFMagic Necklace of Eden V[Coins: 150]^000000",
+        "pt": "^4D4DFFColar Mágico do Éden V [Moedas: 150]^000000",
+        "es": "^4D4DFFCollar de Magia del Edén V[Monedas: 150]^000000"
+    },
+    "W+87Cg": {
+        "en": "[Manager Emily]\nThe items are classified according to level requirements as follows:\n<ITEM>Magic Ring of Eden I<INFO>28453</INFO></ITEM>: level 100\n<ITEM>Magic Necklace of Eden I<INFO>28454</INFO></ITEM>: level 100\n<ITEM>Magic Ring of Eden II<INFO>28455</INFO></ITEM>: level 115\n<ITEM>Magic Necklace of Eden II<INFO>28456</INFO></ITEM>: level 115\n<ITEM>Magic Ring of Eden III<INFO>28457</INFO></ITEM>: level 130\n<ITEM>Magic Necklace of Eden III<INFO>28458</INFO></ITEM>: level 130\n<ITEM>Magic Ring of Eden IV<INFO>28459</INFO></ITEM>: level 145\n<ITEM>Magic Necklace of Eden IV<INFO>28460</INFO></ITEM>: level 145\n<ITEM>Magic Ring of Eden V<INFO>28461</INFO></ITEM>: level 160\n<ITEM>Magic Necklace of Eden V<INFO>28462</INFO></ITEM>: level 160",
+        "pt": "[Gerente Emily]\nAtente-se à descrição do item!!\n<ITEM>Anel Mágico do Éden I<INFO>28453</INFO></ITEM>\n<ITEM>Colar Mágico do Éden I<INFO>28454</INFO></ITEM>\n<ITEM>Anel Mágico do Éden II<INFO>28455</INFO></ITEM>\n<ITEM>Colar Mágico do Éden II<INFO>28456</INFO></ITEM>\n<ITEM>Anel Mágico do Éden III<INFO>28457</INFO></ITEM>\n<ITEM>Colar Mágico do Éden III<INFO>28458</INFO></ITEM>\n<ITEM>Anel Mágico do Éden IV<INFO>28459</INFO></ITEM>\n<ITEM>Colar Mágico do Éden IV<INFO>28460</INFO></ITEM>\n<ITEM>Anel Mágico do Éden V<INFO>28461</INFO></ITEM>\n<ITEM>Colar Mágico do Éden V<INFO>28462</INFO></ITEM>",
+        "es": "[Gerente Emily]\nLos objetos se clasifican según los requisitos de nivel de la siguiente manera:\n<ITEM>Anillo de Magia del Edén I<INFO>28453</INFO></ITEM>\n<ITEM>Collar de Magia del Edén I<INFO>28454</INFO></ITEM>\n<ITEM>Anillo de Magia del Edén II<INFO>28455</INFO></ITEM>\n<ITEM>Collar de Magia del Edén II<INFO>28456</INFO></ITEM>\n<ITEM>Anillo de Magia del Edén III<INFO>28457</INFO></ITEM>\n<ITEM>Collar de Magia del Edén III<INFO>28458</INFO></ITEM>\n<ITEM>Anillo de Magia del Edén IV<INFO>28459</INFO></ITEM>\n<ITEM>Collar de Magia del Edén IV<INFO>28460</INFO></ITEM>\n<ITEM>Anillo mágico del grupo Edén V<INFO>28461</INFO></ITEM>\n<ITEM>Collar de Magia del Edén V<INFO>28462</INFO></ITEM>"
+    },
+    "XO87Cg": {
+        "en": "^CCCCCCAgility Ring of Eden I[Coins: 20]^000000",
+        "pt": "^CCCCCCAnel Ágil do Éden I [Moedas: 20]^000000",
+        "es": "^CCCCCCAnillo de Destreza del Edén I[Monedas: 20]^000000"
+    },
+    "Xe87Cg": {
+        "en": "^CCCCCCAgility Necklace of Eden I[Coins: 20]^000000",
+        "pt": "^CCCCCCColar Ágil do Éden I [Moedas: 20]^000000",
+        "es": "^CCCCCCCollar de Destreza del Edén I[Monedas: 20]^000000"
+    },
+    "Xu87Cg": {
+        "en": "^4D4DFFAgility Ring of Eden I[Coins: 20]^000000",
+        "pt": "^4D4DFFAnel Ágil do Éden I [Moedas: 20]^000000",
+        "es": "^4D4DFFAnillo de Destreza del Edén I[Monedas: 20]^000000"
+    },
+    "X+87Cg": {
+        "en": "^4D4DFFAgility Necklace of Eden I[Coins: 20]^000000",
+        "pt": "^4D4DFFColar Ágil do Éden I [Moedas: 20]^000000",
+        "es": "^4D4DFFCollar de Destreza del Edén I[Monedas: 20]^000000"
+    },
+    "YO87Cg": {
+        "en": "^CCCCCCAgility Ring of Eden II[Coins: 60]^000000",
+        "pt": "^CCCCCCAnel Ágil do Éden II [Moedas: 60]^000000",
+        "es": "^CCCCCCAnillo de Destreza del Edén II[Monedas: 60]^000000"
+    },
+    "Ye87Cg": {
+        "en": "^CCCCCCAgility Necklace of Eden II[Coins: 60]^000000",
+        "pt": "^CCCCCCColar Ágil do Éden II [Moedas: 60]^000000",
+        "es": "^CCCCCCCollar de Destreza del Edén II[Monedas: 60]^000000"
+    },
+    "Yu87Cg": {
+        "en": "^4D4DFFAgility Ring of Eden II[Coins: 60]^000000",
+        "pt": "^4D4DFFAnel Ágil do Éden II [Moedas: 60]^000000",
+        "es": "^4D4DFFAnillo de Destreza del Edén II[Monedas: 60]^000000"
+    },
+    "Y+87Cg": {
+        "en": "^4D4DFFAgility Necklace of Eden II[Coins: 60]^000000",
+        "pt": "^4D4DFFColar Ágil do Éden II [Moedas: 60]^000000",
+        "es": "^4D4DFFCollar de Destreza del Edén II[Monedas: 60]^000000"
+    },
+    "ZO87Cg": {
+        "en": "^CCCCCCAgility Ring of Eden III[Coins: 80]^000000",
+        "pt": "^CCCCCCAnel Ágil do Éden III [Moedas: 80]^000000",
+        "es": "^CCCCCCAnillo de Destreza del Edén III[Monedas: 80]^000000"
+    },
+    "Ze87Cg": {
+        "en": "^CCCCCCAgility Necklace of Eden III[Coins: 80]^000000",
+        "pt": "^CCCCCCColar Ágil do Éden III [Moedas: 80]^000000",
+        "es": "^CCCCCCCollar de Destreza del Edén III[Monedas: 80]^000000"
+    },
+    "Zu87Cg": {
+        "en": "^4D4DFFAgility Ring of Eden III[Coins: 80]^000000",
+        "pt": "^4D4DFFAnel Ágil do Éden III [Moedas: 80]^000000",
+        "es": "^4D4DFFAnillo de Destreza del Edén III[Monedas: 80]^000000"
+    },
+    "Z+87Cg": {
+        "en": "^4D4DFFAgility Necklace of Eden III[Coins: 80]^000000",
+        "pt": "^4D4DFFColar Ágil do Éden III [Moedas: 80]^000000",
+        "es": "^4D4DFFCollar de Destreza del Edén III[Monedas: 80]^000000"
+    },
+    "aO87Cg": {
+        "en": "^CCCCCCAgility Ring of Eden IV[Coins: 110]^000000",
+        "pt": "^CCCCCCAnel Ágil do Éden IV [Moedas: 110]^000000",
+        "es": "^CCCCCCAnillo de Destreza del Edén IV[Monedas: 110]^000000"
+    },
+    "ae87Cg": {
+        "en": "^CCCCCCAgility Necklace of Eden IV[Coins: 110]^000000",
+        "pt": "^CCCCCCColar Ágil do Éden IV [Moedas: 110]^000000",
+        "es": "^CCCCCCCollar de Destreza del Edén IV[Monedas: 110]^000000"
+    },
+    "au87Cg": {
+        "en": "^4D4DFFAgility Ring of Eden IV[Coins: 110]^000000",
+        "pt": "^4D4DFFAnel Ágil do Éden IV [Moedas: 110]^000000",
+        "es": "^4D4DFFAnillo de Destreza del Edén IV[Monedas: 110]^000000"
+    },
+    "a+87Cg": {
+        "en": "^4D4DFFAgility Necklace of Eden IV[Coins: 110]^000000",
+        "pt": "^4D4DFFColar Ágil do Éden IV [Moedas: 110]^000000",
+        "es": "^4D4DFFCollar de Destreza del Edén IV[Monedas: 110]^000000"
+    },
+    "bO87Cg": {
+        "en": "^CCCCCCAgility Ring of Eden V[Coins: 150]^000000",
+        "pt": "^CCCCCCAnel Ágil do Éden V [Moedas: 150]^000000",
+        "es": "^CCCCCCAnillo de Destreza del Edén V[Monedas: 150]^000000"
+    },
+    "be87Cg": {
+        "en": "^CCCCCCAgility Necklace of Eden V[Coins: 150]^000000",
+        "pt": "^CCCCCCColar Ágil do Éden ? [Moedas: 150]^000000",
+        "es": "^CCCCCCCollar de Destreza del Edén V[Monedas: 150]^000000"
+    },
+    "bu87Cg": {
+        "en": "^4D4DFFAgility Ring of Eden V[Coins: 150]^000000",
+        "pt": "^4D4DFFAnel Ágil do Éden V [Moedas: 150]^000000",
+        "es": "^4D4DFFAnillo de Destreza del Edén V[Monedas: 150]^000000"
+    },
+    "b+87Cg": {
+        "en": "^4D4DFFAgility Necklace of Eden V[Coins: 150]^000000",
+        "pt": "^4D4DFFColar Ágil do Éden V [Moedas: 150]^000000",
+        "es": "^4D4DFFDEX Collar Grupo Edén V[Monedas: 150]^000000"
+    },
+    "cO87Cg": {
+        "en": "[Manager Emily]\nThe items are classified according to level requirements as follows:\n<ITEM>Agility Ring of Eden I<INFO>28463</INFO></ITEM>: level 100\n<ITEM>Agility Necklace of Eden I<INFO>28464</INFO></ITEM>: level 100\n<ITEM>Agility Ring of Eden II<INFO>28465</INFO></ITEM>: level 115\n<ITEM>Agility Necklace of Eden II<INFO>28466</INFO></ITEM>: level 115\n<ITEM>Agility Ring of Eden III<INFO>28467</INFO></ITEM>: level 130\n<ITEM>Agility Necklace of Eden III<INFO>28468</INFO></ITEM>: level 130\n<ITEM>Agility Ring of Eden IV<INFO>28469</INFO></ITEM>: level 145\n<ITEM>Agility Necklace of Eden IV<INFO>28470</INFO></ITEM>: level 145\n<ITEM>Agility Ring of Eden V<INFO>28471</INFO></ITEM>: level 160\n<ITEM>Agility Necklace of Eden V<INFO>28472</INFO></ITEM>: level 160",
+        "pt": "[Gerente Emily]\nAtente-se à descrição do item!!\n<ITEM>Anel Ágil do Éden I<INFO>28463</INFO></ITEM>\n<ITEM>Colar Ágil do Éden I<INFO>28464</INFO></ITEM>\n<ITEM>Anel Ágil do Éden II<INFO>28465</INFO></ITEM>\n<ITEM>Colar Ágil do Éden II<INFO>28466</INFO></ITEM>\n<ITEM>Anel Ágil do Éden III<INFO>28467</INFO></ITEM>\n<ITEM>Colar Ágil do Éden III<INFO>28468</INFO></ITEM>\n<ITEM>Anel Ágil do Éden IV<INFO>28469</INFO></ITEM>\n<ITEM>Colar Ágil do Éden IV<INFO>28470</INFO></ITEM>\n<ITEM>Anel Ágil do Éden V<INFO>28471</INFO></ITEM>\n<ITEM>Colar Ágil do Éden V<INFO>28472</INFO></ITEM>",
+        "es": "[Gerente Emily]\nLos objetos se clasifican según los requisitos de nivel de la siguiente manera:\n<ITEM>Anillo de Destreza del Edén I<INFO>28463</INFO></ITEM>\n<ITEM>Collar de Destreza del Edén I<INFO>28464</INFO></ITEM>\n<ITEM>Anillo de Destreza del Edén II<INFO>28465</INFO></ITEM>\n<ITEM>Collar de Destreza del Edén II<INFO>28466</INFO></ITEM>\n<ITEM>Anillo de Destreza del Edén III<INFO>28467</INFO></ITEM>\n<ITEM>Collar de Destreza del Edén III<INFO>28468</INFO></ITEM>\n<ITEM>Anillo de Destreza del Edén IV<INFO>28469</INFO></ITEM>\n<ITEM>Collar de Destreza del Edén IV<INFO>28470</INFO></ITEM>\n<ITEM>Anillo de Destreza del Edén V<INFO>28471</INFO></ITEM>\n<ITEM>Collar de Destreza del Edén V<INFO>28472</INFO></ITEM>"
+    },
+    "ce87Cg": {
+        "en": "^CCCCCCRecovery Ring of Eden I[Coins: 20]^000000",
+        "pt": "^CCCCCCAnel Vital do Éden I [Moedas: 20]^000000",
+        "es": "^CCCCCCAnillo de Curación del Edén I[Monedas: 20]^000000"
+    },
+    "cu87Cg": {
+        "en": "^CCCCCCRecovery Necklace of Eden I[Coins: 20]^000000",
+        "pt": "^CCCCCCColar Vital do Éden I [Moedas: 20]^000000",
+        "es": "^CCCCCCCollar de Curación del Edén I[Monedas: 20]^000000"
+    },
+    "c+87Cg": {
+        "en": "^4D4DFFRecovery Ring of Eden I[Coins: 20]^000000",
+        "pt": "^4D4DFFAnel Vital do Éden I [Moedas: 20]^000000",
+        "es": "^4D4DFFAnillo de Curación del Edén I[Monedas: 20]^000000"
+    },
+    "dO87Cg": {
+        "en": "^4D4DFFRecovery Necklace of Eden I[Coins: 20]^000000",
+        "pt": "^4D4DFFColar Vital do Éden I [Moedas: 20]^000000",
+        "es": "^4D4DFFCollar de Curación del Edén I[Monedas: 20]^000000"
+    },
+    "de87Cg": {
+        "en": "^CCCCCCRecovery Ring of Eden II[Coins: 60]^000000",
+        "pt": "^CCCCCCAnel Vital do Éden II [Moedas: 60]^000000",
+        "es": "^CCCCCCAnillo de Curación del Edén II[Monedas: 60]^000000"
+    },
+    "du87Cg": {
+        "en": "^CCCCCCRecovery Necklace of Eden II[Coins: 60]^000000",
+        "pt": "^CCCCCCColar Vital do Éden II [Moedas: 60]^000000",
+        "es": "^CCCCCCCollar de Curación del Edén II[Monedas: 60]^000000"
+    },
+    "d+87Cg": {
+        "en": "^4D4DFFRecovery Ring of Eden II[Coins: 60]^000000",
+        "pt": "^4D4DFFAnel Vital do Éden II [Moedas: 60]^000000",
+        "es": "^4D4DFFAnillo de Curación del Edén II[Monedas: 60]^000000"
+    },
+    "eO87Cg": {
+        "en": "^4D4DFFRecovery Necklace of Eden II[Coins: 60]^000000",
+        "pt": "^4D4DFFColar Vital do Éden II [Moedas: 60]^000000",
+        "es": "^4D4DFFCollar de Curación del Edén II[Monedas: 60]^000000"
+    },
+    "ee87Cg": {
+        "en": "^CCCCCCRecovery Ring of Eden III[Coins: 80]^000000",
+        "pt": "^CCCCCCAnel Vital do Éden III [Moedas: 80]^000000",
+        "es": "^CCCCCCAnillo de Curación del Edén III[Monedas: 80]^000000"
+    },
+    "eu87Cg": {
+        "en": "^CCCCCCRecovery Necklace of Eden III[Coins: 80]^000000",
+        "pt": "^CCCCCCColar Vital do Éden III [Moedas: 80]^000000",
+        "es": "^CCCCCCCollar de Curación del Edén III[Monedas: 80]^000000"
+    },
+    "e+87Cg": {
+        "en": "^4D4DFFRecovery Ring of Eden III[Coins: 80]^000000",
+        "pt": "^4D4DFFAnel Vital do Éden III [Moedas: 80]^000000",
+        "es": "^4D4DFFAnillo de Curación del Edén III[Monedas: 80]^000000"
+    },
+    "fO87Cg": {
+        "en": "^4D4DFFRecovery Necklace of Eden III[Coins: 80]^000000",
+        "pt": "^4D4DFFColar Vital do Éden III [Moedas: 80]^000000",
+        "es": "^4D4DFFCollar de Curación del Edén III[Monedas: 80]^000000"
+    },
+    "fe87Cg": {
+        "en": "^CCCCCCRecovery Ring of Eden IV[Coins: 110]^000000",
+        "pt": "^CCCCCCAnel Vital do Éden IV [Moedas: 110]^000000",
+        "es": "^CCCCCCAnillo de Curación del Edén IV[Monedas: 110]^000000"
+    },
+    "fu87Cg": {
+        "en": "^CCCCCCRecovery Necklace of Eden IV[Coins: 110]^000000",
+        "pt": "^CCCCCCColar Vital do Éden IV [Moedas: 110]^000000",
+        "es": "^CCCCCCCollar de Curación del Edén IV[Monedas: 110]^000000"
+    },
+    "f+87Cg": {
+        "en": "^4D4DFFRecovery Ring of Eden IV[Coins: 110]^000000",
+        "pt": "^4D4DFFAnel Vital do Éden IV [Moedas: 110]^000000",
+        "es": "^4D4DFFAnillo de Curación del Edén IV[Monedas: 110]^000000"
+    },
+    "gO87Cg": {
+        "en": "^4D4DFFRecovery Necklace of Eden IV[Coins: 110]^000000",
+        "pt": "^4D4DFFColar Vital do Éden IV [Moedas: 110]^000000",
+        "es": "^4D4DFFCollar de Curación del Edén IV[Monedas: 110]^000000"
+    },
+    "ge87Cg": {
+        "en": "^CCCCCCRecovery Ring of Eden V[Coins: 150]^000000",
+        "pt": "^CCCCCCAnel Vital do Éden V [Moedas: 150]^000000",
+        "es": "^CCCCCCAnillo de Curación del Edén V[Monedas: 150]^000000"
+    },
+    "gu87Cg": {
+        "en": "^CCCCCCRecovery Necklace of Eden V[Coins: 150]^000000",
+        "pt": "^CCCCCCColar Vital do Éden V [Moedas: 150]^000000",
+        "es": "^CCCCCCCollar de Curación del Edén V[Monedas: 150]^000000"
+    },
+    "g+87Cg": {
+        "en": "^4D4DFFRecovery Ring of Eden V[Coins: 150]^000000",
+        "pt": "^4D4DFFAnel Vital do Éden V [Moedas: 150]^000000",
+        "es": "^4D4DFFAnillo de Curación del Edén V[Monedas: 150]^000000"
+    },
+    "hO87Cg": {
+        "en": "^4D4DFFRecovery Necklace of Eden V[Coins: 150]^000000",
+        "pt": "^4D4DFFColar Vital do Éden V [Moedas: 150]^000000",
+        "es": "^4D4DFFCollar de Curación del Edén V[Monedas: 150]^000000"
+    },
+    "he87Cg": {
+        "en": "[Manager Emily]\nThe items are classified according to level requirements as follows:\n<ITEM>Recovery Ring of Eden I<INFO>28473</INFO></ITEM>: level 100\n<ITEM>Recovery Necklace of Eden I<INFO>28474</INFO></ITEM>: level 100\n<ITEM>Recovery Ring of Eden II<INFO>28475</INFO></ITEM>: level 115\n<ITEM>Recovery Necklace of Eden II<INFO>28476</INFO></ITEM>: level 115\n<ITEM>Recovery Ring of Eden III<INFO>28477</INFO></ITEM>: level 130\n<ITEM>Recovery Necklace of Eden III<INFO>28478</INFO></ITEM>: level 130\n<ITEM>Recovery Ring of Eden IV<INFO>28479</INFO></ITEM>: level 145\n<ITEM>Recovery Necklace of Eden IV<INFO>28480</INFO></ITEM>: level 145\n<ITEM>Recovery Ring of Eden V<INFO>28481</INFO></ITEM>: level 160\n<ITEM>Recovery Necklace of Eden V<INFO>28482</INFO></ITEM>: level 160",
+        "pt": "[Gerente Emily]\nAtente-se à descrição do item!!\n<ITEM>Anel Vital do Éden I<INFO>28473</INFO></ITEM>\n<ITEM>Colar Vital do Éden I<INFO>28474</INFO></ITEM>\n<ITEM>Anel Vital do Éden II<INFO>28475</INFO></ITEM>\n<ITEM>Colar Vital do Éden II<INFO>28476</INFO></ITEM>\n<ITEM>Anel Vital do Éden III<INFO>28477</INFO></ITEM>\n<ITEM>Colar Vital do Éden III<INFO>28478</INFO></ITEM>\n<ITEM>Anel Vital do Éden IV<INFO>28479</INFO></ITEM>\n<ITEM>Colar Vital do Éden IV<INFO>28480</INFO></ITEM>\n<ITEM>Anel Vital do Éden V<INFO>28481</INFO></ITEM>\n<ITEM>Colar Vital do Éden V<INFO>28482</INFO></ITEM>",
+        "es": "[Gerente Emily]\nLos artículos se clasifican según los requisitos de nivel de la siguiente manera:\n<ITEM>Anillo de Curación del Edén I<INFO>28473</INFO></ITEM>\n<ITEM>Collar de Curación del Edén I<INFO>28474</INFO></ITEM>\n<ITEM>Anillo de Curación del Edén II<INFO>28475</INFO></ITEM>\n<ITEM>Collar de Curación del Edén II<INFO>28476</INFO></ITEM>\n<ITEM>Anillo de Curación del Edén III<INFO>28477</INFO></ITEM>\n<ITEM>Collar de Curación del Edén III<INFO>28478</INFO></ITEM>\n<ITEM>Anillo de Curación del Edén IV<INFO>28479</INFO></ITEM>\n<ITEM>Collar de Curación del Edén IV<INFO>28480</INFO></ITEM>\n<ITEM>Anillo de Curación del Edén V<INFO>28481</INFO></ITEM>\n<ITEM>Collar de Curación del Edén V<INFO>28482</INFO></ITEM>"
+    },
+    "hu87Cg": {
+        "en": "^CCCCCCEden Uniform I[Coins: 20]^000000",
+        "pt": "^CCCCCCFarda do Éden I [Moedas: 20]^000000",
+        "es": "^CCCCCCUniforme del Edén I[Monedas: 20]^000000"
+    },
+    "h+87Cg": {
+        "en": "^4D4DFFEden Uniform I[Coins: 20]^000000",
+        "pt": "^4D4DFFFarda do Éden I [Moedas: 20]^000000",
+        "es": "^4D4DFFUniforme del Edén I[Monedas: 20]^000000"
+    },
+    "iO87Cg": {
+        "en": "^CCCCCCEden Uniform II[Coins: 60]^000000",
+        "pt": "^CCCCCCFarda do Éden II [Moedas: 60]^000000",
+        "es": "^CCCCCCUniforme del Edén II[Monedas: 60]^000000"
+    },
+    "ie87Cg": {
+        "en": "^4D4DFFEden Uniform II[Coins: 60]^000000",
+        "pt": "^4D4DFFFarda do Éden II [Moedas: 60]^000000",
+        "es": "^4D4DFFUniforme del Edén II[Monedas: 60]^000000"
+    },
+    "iu87Cg": {
+        "en": "^CCCCCCEden Uniform III[Coins: 80]^000000",
+        "pt": "^CCCCCCFarda do Éden III [Moedas: 80]^000000",
+        "es": "^CCCCCCUniforme del Edén III[Monedas: 80]^000000"
+    },
+    "i+87Cg": {
+        "en": "^4D4DFFEden Uniform III[Coins: 80]^000000",
+        "pt": "^4D4DFFFarda do Éden III [Moedas: 80]^000000",
+        "es": "^4D4DFFUniforme del Edén III[Monedas: 80]^000000"
+    },
+    "jO87Cg": {
+        "en": "^CCCCCCEden Uniform IV[Coins: 110]^000000",
+        "pt": "^CCCCCCFarda do Éden IV [Moedas: 110]^000000",
+        "es": "^CCCCCCUniforme del Edén IV[Monedas: 110]^000000"
+    },
+    "je87Cg": {
+        "en": "^4D4DFFEden Uniform IV[Coins: 110]^000000",
+        "pt": "^4D4DFFFarda do Éden IV [Moedas: 110]^000000",
+        "es": "^4D4DFFUniforme del Edén IV[Monedas: 110]^000000"
+    },
+    "ju87Cg": {
+        "en": "^CCCCCCEden Uniform V[Coins: 150]^000000",
+        "pt": "^CCCCCCFarda do Éden V [Moedas: 150]^000000",
+        "es": "^CCCCCCUniforme del Edén V[Monedas: 150]^000000"
+    },
+    "j+87Cg": {
+        "en": "^4D4DFFEden Uniform V[Coins: 150]^000000",
+        "pt": "^4D4DFFFarda do Éden V [Moedas: 150]^000000",
+        "es": "^4D4DFFUniforme del Edén V[Monedas: 150]^000000"
+    },
+    "kO87Cg": {
+        "en": "[Manager Emily]\nThe items are classified according to level requirements as follows:\n<ITEM>Eden Uniform I<INFO>15181</INFO></ITEM>: level 100\n<ITEM>Eden Uniform II<INFO>15182</INFO></ITEM>: level 115\n<ITEM>Eden Uniform III<INFO>15183</INFO></ITEM>: level 130\n<ITEM>Eden Uniform IV<INFO>15184</INFO></ITEM>: level 145\n<ITEM>Eden Uniform V<INFO>15185</INFO></ITEM>: level 160",
+        "pt": "[Gerente Emily]\nAtente-se à descrição do item!!\n<ITEM>Farda do Éden I<INFO>15181</INFO></ITEM>\n<ITEM>Farda do Éden II<INFO>15182</INFO></ITEM>\n<ITEM>Farda do Éden III<INFO>15183</INFO></ITEM>\n<ITEM>Farda do Éden IV<INFO>15184</INFO></ITEM>\n<ITEM>Farda do Éden V<INFO>15185</INFO></ITEM>",
+        "es": "[Gerente Emily]\nLos objetos se clasifican según los requisitos de nivel de la siguiente manera:\n<ITEM>Uniforme del Edén I<INFO>15181</INFO></ITEM>\n<ITEM>Uniforme del Edén II<INFO>15182</INFO></ITEM>\n<ITEM>Uniforme del Edén III<INFO>15183</INFO></ITEM>\n<ITEM>Uniforme del Edén IV<INFO>15184</INFO></ITEM>\n<ITEM>Uniforme del Edén V<INFO>15185</INFO></ITEM>"
+    },
+    "ke87Cg": {
+        "en": "^CCCCCCEden Boots I[Coins: 20]^000000",
+        "pt": "^CCCCCCCoturnos do Éden I [Moedas: 20]^000000",
+        "es": "^CCCCCCBotas del Edén I[Monedas: 20]^000000"
+    },
+    "ku87Cg": {
+        "en": "^4D4DFFEden Boots I[Coins: 20]^000000",
+        "pt": "^4D4DFFCoturnos do Éden I [Moedas: 20]^000000",
+        "es": "^4D4DFFBotas del Edén I[Monedas: 20]^000000"
+    },
+    "k+87Cg": {
+        "en": "^CCCCCCEden Boots II[Coins: 60]^000000",
+        "pt": "^CCCCCCCoturnos do Éden II [Moedas: 60]^000000",
+        "es": "^CCCCCCBotas del Edén II[Monedas: 60]^000000"
+    },
+    "lO87Cg": {
+        "en": "^4D4DFFEden Boots II[Coins: 60]^000000",
+        "pt": "^4D4DFFCoturnos do Éden II [Moedas: 60]^000000",
+        "es": "^4D4DFFBotas del Edén II[Monedas: 60]^000000"
+    },
+    "le87Cg": {
+        "en": "^CCCCCCEden Boots III[Coins: 80]^000000",
+        "pt": "^CCCCCCCoturnos do Éden III [Moedas: 80]^000000",
+        "es": "^CCCCCCBotas del Edén III[Monedas: 80]^000000"
+    },
+    "lu87Cg": {
+        "en": "^4D4DFFEden Boots III[Coins: 80]^000000",
+        "pt": "^4D4DFFCoturnos do Éden III [Moedas: 80]^000000",
+        "es": "^4D4DFFBotas del Edén III[Monedas: 80]^000000"
+    },
+    "l+87Cg": {
+        "en": "^CCCCCCEden Boots IV[Coins: 110]^000000",
+        "pt": "^CCCCCCCoturnos do Éden IV [Moedas: 110]^000000",
+        "es": "^CCCCCCBotas del Edén IV[Monedas: 110]^000000"
+    },
+    "mO87Cg": {
+        "en": "^4D4DFFEden Boots IV[Coins: 110]^000000",
+        "pt": "^4D4DFFCoturnos do Éden IV [Moedas: 110]^000000",
+        "es": "^4D4DFFBotas del Edén IV[Monedas: 110]^000000"
+    },
+    "me87Cg": {
+        "en": "^CCCCCCEden Boots V[Coins: 150]^000000",
+        "pt": "^CCCCCCCoturnos do Éden V [Moedas: 150]^000000",
+        "es": "^CCCCCCBotas del Edén V[Monedas: 150]^000000"
+    },
+    "mu87Cg": {
+        "en": "^4D4DFFEden Boots V[Coins: 150]^000000",
+        "pt": "^4D4DFFCoturnos do Éden V [Moedas: 150]^000000",
+        "es": "^4D4DFFBotas del Edén V[Monedas: 150]^000000"
+    },
+    "m+87Cg": {
+        "en": "[Manager Emily]\nThe items are classified according to level requirements as follows:\n<ITEM>Eden Boots I<INFO>22122</INFO></ITEM>: level 100\n<ITEM>Eden Boots II<INFO>22123</INFO></ITEM>: level 115\n<ITEM>Eden Boots III<INFO>22124</INFO></ITEM>: level 130\n<ITEM>Eden Boots IV<INFO>22125</INFO></ITEM>: level 145\n<ITEM>Eden Boots V<INFO>22126</INFO></ITEM>: level 160",
+        "pt": "[Gerente Emily]\nAtente-se à descrição do item!!\n<ITEM>Coturnos do Éden I<INFO>22122</INFO></ITEM>\n<ITEM>Coturnos do Éden II<INFO>22123</INFO></ITEM>\n<ITEM>Coturnos do Éden III<INFO>22124</INFO></ITEM>\n<ITEM>Coturnos do Éden IV<INFO>22125</INFO></ITEM>\n<ITEM>Coturnos do Éden V<INFO>22126</INFO></ITEM>",
+        "es": "[Gerente Emily]\nLos objetos se clasifican según los requisitos de nivel de la siguiente manera:\n<ITEM>Botas del Edén I<INFO>22122</INFO></ITEM>\n<ITEM>Botas del Edén II<INFO>22123</INFO></ITEM>\n<ITEM>Botas del Edén III<INFO>22124</INFO></ITEM>\n<ITEM>Botas del Edén IV<INFO>22125</INFO></ITEM>\n<ITEM>Botas del Edén V<INFO>22126</INFO></ITEM>"
+    },
+    "nO87Cg": {
+        "en": "^CCCCCCEden Manteau I[Coins: 30]^000000",
+        "pt": "^CCCCCCManto do Éden I [Moedas: 30]^000000",
+        "es": "^CCCCCCManto del Edén I[Monedas: 30]^000000"
+    },
+    "ne87Cg": {
+        "en": "^4D4DFFEden Manteau I[Coins: 30]^000000",
+        "pt": "^4D4DFFManto do Éden I [Moedas: 30]^000000",
+        "es": "^4D4DFFManto del Edén I[Monedas: 30]^000000"
+    },
+    "nu87Cg": {
+        "en": "^CCCCCCEden Manteau II[Coins: 160]^000000",
+        "pt": "^CCCCCCManto do Éden II [Moedas: 160]^000000",
+        "es": "^CCCCCCManto del Edén II[Monedas: 160]^000000"
+    },
+    "n+87Cg": {
+        "en": "^4D4DFFEden Manteau II[Coins: 160]^000000",
+        "pt": "^4D4DFFManto do Éden II [Moedas: 160]^000000",
+        "es": "^4D4DFFManto del Edén II[Monedas: 160]^000000"
+    },
+    "oO87Cg": {
+        "en": "^CCCCCCEden Manteau III[Coins: 300]^000000",
+        "pt": "^CCCCCCManto do Éden III [Moedas: 300]^000000",
+        "es": "^CCCCCCManto del Edén III[Monedas: 300]^000000"
+    },
+    "oe87Cg": {
+        "en": "^4D4DFFEden Manteau III[Coins: 300]^000000",
+        "pt": "^4D4DFFManto do Éden III [Moedas: 300]^000000",
+        "es": "^4D4DFFManto del Edén III[Monedas: 300]^000000"
+    },
+    "ou87Cg": {
+        "en": "[Manager Emily]\nThe items are classified according to level requirements as follows:\n<ITEM>Eden Manteau I<INFO>20823</INFO></ITEM>: level 100\n<ITEM>Eden Manteau II<INFO>20824</INFO></ITEM>: level 130\n<ITEM>Eden Manteau III<INFO>20825</INFO></ITEM>: level 160",
+        "pt": "[Gerente Emily]\nAtente-se à descrição do item!!\n<ITEM>Manto do Éden I<INFO>20823</INFO></ITEM>\n<ITEM>Manto do Éden II<INFO>20824</INFO></ITEM>\n<ITEM>Manto do Éden III<INFO>20825</INFO></ITEM>",
+        "es": "[Gerente Emily]\nLos objetos se clasifican según los requisitos de nivel de la siguiente manera:\n<ITEM>Manto del Edén I<INFO>20823</INFO></ITEM>\n<ITEM>Manto del Edén II<INFO>20824</INFO></ITEM>\n<ITEM>Manto del Edén III<INFO>20825</INFO></ITEM>"
+    },
+    "o+87Cg": {
+        "en": "^CCCCCCEden Hat I[Coins: 70]^000000",
+        "pt": "^CCCCCCBoina do Éden I [Moedas: 70]^000000",
+        "es": "^CCCCCCSombrero del Grupo Edén I[Monedas: 70]^000000"
+    },
+    "pO87Cg": {
+        "en": "^4D4DFFEden Hat I[Coins: 70]^000000",
+        "pt": "^4D4DFFBoina do Éden I [Moedas: 70]^000000",
+        "es": "^4D4DFFSombrero del Grupo Edén I[Monedas: 70]^000000"
+    },
+    "pe87Cg": {
+        "en": "^CCCCCCEden Hat II[Coins: 600]^000000",
+        "pt": "^CCCCCCBoina do Éden II [Moedas: 600]^000000",
+        "es": "^CCCCCCSombrero del Grupo Edén II[Monedas: 600]^000000"
+    },
+    "pu87Cg": {
+        "en": "^4D4DFFEden Hat II[Coins: 600]^000000",
+        "pt": "^4D4DFFBoina do Éden II [Moedas: 600]^000000",
+        "es": "^4D4DFFSombrero del Grupo Edén II[Monedas: 600]^000000"
+    },
+    "p+87Cg": {
+        "en": "[Manager Emily]\nThe items are classified according to level requirements as follows:\n<ITEM>Eden Hat I<INFO>19164</INFO></ITEM>: level 100\n<ITEM>Eden Hat II<INFO>19165</INFO></ITEM>: level 160",
+        "pt": "[Gerente Emily]\nAtente-se à descrição do item!!\n<ITEM>Boina do Éden I<INFO>19164</INFO></ITEM>\n<ITEM>Boina do Éden II<INFO>19165</INFO></ITEM>",
+        "es": "[Gerente Emily]\nLos objetos se clasifican según los requisitos de nivel de la siguiente manera:\n<ITEM>Sombrero del Grupo Edén I<INFO>19164</INFO></ITEM>\n<ITEM>Sombrero del Grupo Edén II<INFO>19165</INFO></ITEM>"
+    },
+    "qO87Cg": {
+        "en": "[Manager Emily]\n<ITEM>Eden Group Coin <INFO>25223</INFO></ITEM>\ncan be obtained as a reward by completing advanced quests for adventurers of level 100 or higher.",
+        "pt": "[Gerente Emily]\nA <ITEM>Moeda do Éden <INFO>25223</INFO></ITEM>\npode ser obtida como recompensa ao concluir missões de nível 100 ou superior.",
+        "es": "[Gerente Emily]\n<ITEM>Moneda del Grupo Edén <INFO>25223</INFO></ITEM>\nse puede obtener como recompensa al completar misiones avanzadas para aventureros de nivel 100 o superior."
+    },
+    "qe87Cg": {
+        "en": "[Manager Emily]\nIt is a gift prepared by Eden Group for the adventurers who finish quests and contribute to the group.",
+        "pt": "[Gerente Emily]\nÉ um presente preparado pelo Grupo do Éden para viajantes que terminam as missões e contribuem conosco.",
+        "es": "[Gerente Emily]\nEs un regalo preparado por el Grupo Edén para los aventureros que terminan misiones y contribuyen al grupo."
+    },
+    "qu87Cg": {
+        "en": "[Manager Emily]\nAcquired coins can be used to exchanged for various equipment and items here.",
+        "pt": "[Gerente Emily]\nAs moedas podem ser usadas para trocar por vários equipamentos comigo.",
+        "es": "[Gerente Emily]\nLas monedas adquiridas se pueden utilizar para intercambiar por diversos equipos y artículos aquí."
+    },
+    "q+87Cg": {
+        "en": "[Manager Emily]\nPlease keep in mind that accessories can also be enchanted.\nOf course, enchanting will also cost you coins.",
+        "pt": "[Gerente Emily]\nLembre-se de que os acessórios também podem ser encantados.\nÉ claro que o encantamento também custará moedas.",
+        "es": "[Gerente Emily]\nTen en cuenta que los accesorios también se pueden encantar.\nPor supuesto, encantarlos también te costará monedas."
+    },
+    "rO87Cg": {
+        "en": "[Manager Emily]\nBecause it is a reward to those who do the work for Eden Group.",
+        "pt": "[Gerente Emily]\nConsidere um presente para aqueles que trabalham para o Grupo do Éden.",
+        "es": "[Gerente Emily]\nPorque es una recompensa a los que hacen el trabajo para el Grupo Edén."
+    },
+    "re87Cg": {
+        "en": "[Manager Emily]\nThank you, please come back again.",
+        "pt": "[Gerente Emily]\nObrigada, por favor, volte sempre.",
+        "es": "[Gerente Emily]\nGracias, por favor, vuelva de nuevo."
+    }
+}

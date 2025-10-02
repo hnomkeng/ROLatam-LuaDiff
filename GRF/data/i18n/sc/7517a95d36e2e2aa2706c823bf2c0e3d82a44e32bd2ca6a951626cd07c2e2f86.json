@@ -1,0 +1,787 @@
+{
+    "QJe8Bw": {
+        "en": "RS26",
+        "pt": "RS26",
+        "es": "RS26"
+    },
+    "QZe8Bw": {
+        "en": "I'm carrying too many types of items. I should lighten my bag first.",
+        "pt": "Você tem muitos itens. Reduza o número de itens do seu inventário e volte novamente.",
+        "es": "Tengo demasiados objetos. Primero debería aligerar mi bolso."
+    },
+    "Qpe8Bw": {
+        "en": "I'm overweight. I'd better lighten my bag first.",
+        "pt": "Você está acima do limite de carga. Alivie a carga do seu inventário e volte novamente.",
+        "es": "Es mucho peso. Será mejor que aligere mi bolso primero."
+    },
+    "Q5e8Bw": {
+        "en": "[RS26]\n{},\nwelcome.",
+        "pt": "[RS26]\nSaudações, {}.\nQual o comando?",
+        "es": "[RS26]\n{},\nte damos la bienvenida."
+    },
+    "RJe8Bw": {
+        "en": "Check the machine.",
+        "pt": "Introdução",
+        "es": "Revisar la máquina."
+    },
+    "RZe8Bw": {
+        "en": "Refine Illusion Wing.",
+        "pt": "Encantar Motor Ilusión",
+        "es": "Refinar el Ala ilusoria."
+    },
+    "Rpe8Bw": {
+        "en": "Refine Illusion Armor.",
+        "pt": "Encantar Colete Ilusión",
+        "es": "Refinar la Armadura ilusoria."
+    },
+    "R5e8Bw": {
+        "en": "Refine Illusion Leg.",
+        "pt": "Encantar Perna Ilusión",
+        "es": "Refinar la Pierna ilusoria."
+    },
+    "SJe8Bw": {
+        "en": "Refine Illusion Accessory (R).",
+        "pt": "Encantar Acessório Direito",
+        "es": "Refinar accesorio ilusorio (D)."
+    },
+    "SZe8Bw": {
+        "en": "Refine Illusion Accessory (L).",
+        "pt": "Encantar Acessório Esquerdo",
+        "es": "Refinar accesorio ilusorio (I)."
+    },
+    "Spe8Bw": {
+        "en": "^0000FF#The image of an android created by the latest hologram technology greets me, looking natural.#^000000",
+        "pt": "^0000CD#O holograma cumprimenta você com gestos naturais#^000000",
+        "es": "^FF0000#Me saluda la imagen de un androide creado por la última tecnología de hologramas, se ve natural.#^000000"
+    },
+    "S5e8Bw": {
+        "en": "Rebellion: Ah, you can't use that machine unless you've got Modification Modules.",
+        "pt": "Insurgente: Essa máquina só encanta usando os Módulos.",
+        "es": "Rebelión: Ah, no puedes usar esa máquina a menos que tengas módulos de modificación."
+    },
+    "TJe8Bw": {
+        "en": "[RS26]\nEmbrace the technology discovered in a futuristic city in your daily life. Experience Regenschirm Robotics' latest creation, RS26.",
+        "pt": "[RS26]\nA tecnologia descoberta na cidade do futuro agora penetra em sua vida diária. Experimente a mais recente criação da Regenschirm: o modelo RS26.",
+        "es": "[RS26]\nIncorpora a tu vida cotidiana la tecnología descubierta en una ciudad futurista. Experimenta la última creación de RegenschirmRobotics,RS26."
+    },
+    "TZe8Bw": {
+        "en": "[RS26]\nPlease bring me Illusion equipment and Modification Modules, and I'll refine your equipment, depending on the Module you have.",
+        "pt": "[RS26]\nMe traga Módulos para encantar seus equipamentos Ilusión.",
+        "es": "[RS26]\nTráeme el equipamiento ilusorio y los módulos de modificación para que yo refine tu equipamiento según el módulo que tengas."
+    },
+    "Tpe8Bw": {
+        "en": "[RS26]\nSince we follow the standard module modification procedures, your equipment will not be destroyed. The number of times you can refine it, however, may vary, depending on your Module.",
+        "pt": "[RS26]\nNão há casos de falha ao encantar, mas o número de encantamentos varia de acordo com o Módulo e com o equipamento.",
+        "es": "[RS26]\nComo seguimos los procedimientos estándar de modificación de módulos, tu equipamiento no se destruirá. Sin embargo, la cantidad de veces que puedes refinarlo puede variar según tu módulo."
+    },
+    "T5e8Bw": {
+        "en": "[RS26]\nNo problem. Please come back if you need my assistance.",
+        "pt": "[RS26]\nRetorne quando precisar de ajuda~",
+        "es": "[RS26]\nNo hay problema. Vuelve si necesitas mi ayuda."
+    },
+    "UJe8Bw": {
+        "en": "^AAAAAAModification Orb (DEF)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de DEF (vazio)^000000",
+        "es": "^880088Orbe de modificación (DEF) (sin esquemas)^000000"
+    },
+    "UZe8Bw": {
+        "en": "Modification Orb (DEF)",
+        "pt": "Módulo de DEF",
+        "es": "Orbe de modificación (DEF)"
+    },
+    "Upe8Bw": {
+        "en": "^AAAAAAModification Orb (MDEF)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de DEFM (vazio)^000000",
+        "es": "^880088Orbe de modificación (DEFM) (sin esquemas)^000000"
+    },
+    "U5e8Bw": {
+        "en": "Modification Orb (MDEF)",
+        "pt": "Módulo de DEFM",
+        "es": "Orbe de modificación (DEFM)"
+    },
+    "VJe8Bw": {
+        "en": "^AAAAAAVIT +3 (No Schematics)^000000",
+        "pt": "^EE0000Módulo de VIT (vazio)^000000",
+        "es": "^880088VIT+3 (sin esquemas)^000000"
+    },
+    "VZe8Bw": {
+        "en": "VIT +3",
+        "pt": "Módulo de VIT",
+        "es": "VIT+3"
+    },
+    "Vpe8Bw": {
+        "en": "^AAAAAALUK +3 (No Schematics)^000000",
+        "pt": "^EE0000Módulo de SOR (vazio)^000000",
+        "es": "^880088SUE+3 (sin esquemas)^000000"
+    },
+    "V5e8Bw": {
+        "en": "LUK +3",
+        "pt": "Módulo de SOR",
+        "es": "SUE+3"
+    },
+    "WJe8Bw": {
+        "en": "^AAAAAASTR +3 (No Schematics)^000000",
+        "pt": "^EE0000Módulo de FOR (vazio)^000000",
+        "es": "^880088FUE+3 (sin esquemas)^000000"
+    },
+    "WZe8Bw": {
+        "en": "STR +3",
+        "pt": "Módulo de FOR",
+        "es": "FUE+3"
+    },
+    "Wpe8Bw": {
+        "en": "^AAAAAAAGI +3 (No Schematics)^000000",
+        "pt": "^EE0000Módulo de AGI (vazio)^000000",
+        "es": "^880088AGI+3 (sin esquemas)^000000"
+    },
+    "W5e8Bw": {
+        "en": "AGI +3",
+        "pt": "Módulo de AGI",
+        "es": "AGI+3"
+    },
+    "XJe8Bw": {
+        "en": "^AAAAAAINT +3 (No Schematics)^000000",
+        "pt": "^EE0000Módulo de INT (vazio)^000000",
+        "es": "^880088INT+3 (sin esquemas)^000000"
+    },
+    "XZe8Bw": {
+        "en": "INT +3",
+        "pt": "Módulo de INT",
+        "es": "INT+3"
+    },
+    "Xpe8Bw": {
+        "en": "^AAAAAADEX +3 (No Schematics)^000000",
+        "pt": "^EE0000Módulo de DES (vazio)^000000",
+        "es": "^880088DES+3 (sin esquemas)^000000"
+    },
+    "X5e8Bw": {
+        "en": "DEX +3",
+        "pt": "Módulo de DES",
+        "es": "DES+3"
+    },
+    "YJe8Bw": {
+        "en": "^AAAAAAModification Orb (HP Recovery)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de HPR (vazio)^000000",
+        "es": "^880088Orbe de modificación (recuperación de PV) (sin esquemas)^000000"
+    },
+    "YZe8Bw": {
+        "en": "Modification Orb (HP Recovery)",
+        "pt": "Módulo de HPR",
+        "es": "Orbe de modificación (recuperación de PV)"
+    },
+    "Ype8Bw": {
+        "en": "^AAAAAAModification Orb (SP Recovery)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de SPR (vazio)^000000",
+        "es": "^880088Orbe de modificación (recuperación de PM) (sin esquemas)^000000"
+    },
+    "Y5e8Bw": {
+        "en": "Modification Orb (SP Recovery)",
+        "pt": "Módulo de SPR",
+        "es": "Orbe de modificación (recuperación de PM)"
+    },
+    "ZJe8Bw": {
+        "en": "^AAAAAAMana Level 5 (No Schematics)^000000",
+        "pt": "^EE0000Módulo de PE5 (vazio)^000000",
+        "es": "^880088Maná nivel5 (sin esquemas)^000000"
+    },
+    "ZZe8Bw": {
+        "en": "Mana Level 5",
+        "pt": "Módulo de PE5",
+        "es": "Maná nivel5"
+    },
+    "Zpe8Bw": {
+        "en": "^AAAAAAPost-Attack Delay Level 4 (No Schematics)^000000",
+        "pt": "^EE0000Módulo de AA4 (vazio)^000000",
+        "es": "^880088Retraso tras el ataque nivel4 (sin esquemas)^000000"
+    },
+    "Z5e8Bw": {
+        "en": "Post-Attack Delay Level 4",
+        "pt": "Módulo de AA4",
+        "es": "Retraso tras el ataque nivel4"
+    },
+    "aJe8Bw": {
+        "en": "^AAAAAACritical Level 4 (No Schematics)^000000",
+        "pt": "^EE0000Módulo de F4 (vazio)^000000",
+        "es": "^880088Nivel crítico4 (sin esquemas)^000000"
+    },
+    "aZe8Bw": {
+        "en": "Critical Level 4",
+        "pt": "Módulo de F4",
+        "es": "Nivel crítico4"
+    },
+    "ape8Bw": {
+        "en": "^AAAAAAAce Archer Level 5 (No Schematics)^000000",
+        "pt": "^EE0000Módulo de MA5 (vazio) ^000000",
+        "es": "^880088Arquero experto nivel5 (sin esquemas)^000000"
+    },
+    "a5e8Bw": {
+        "en": "Ace Archer Level 5",
+        "pt": "Módulo de MA5",
+        "es": "Arquero experto nivel5"
+    },
+    "bJe8Bw": {
+        "en": "^AAAAAAModification Orb (Health)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de HPMax (vazio)^000000",
+        "es": "^880088Orbe de modificación (salud) (sin esquemas)^000000"
+    },
+    "bZe8Bw": {
+        "en": "Modification Orb (Health)",
+        "pt": "Módulo de HPMax",
+        "es": "Orbe de modificación (salud)"
+    },
+    "bpe8Bw": {
+        "en": "^AAAAAAModification Orb (Spirit)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de SPMax (vazio)^000000",
+        "es": "^880088Orbe de modificación (espíritu) (sin esquemas)^000000"
+    },
+    "b5e8Bw": {
+        "en": "Modification Orb (Spirit)",
+        "pt": "Módulo de SPMax",
+        "es": "Orbe de modificación (espíritu)"
+    },
+    "cJe8Bw": {
+        "en": "^AAAAAAModification Orb (Heal)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de Cura (vazio)^000000",
+        "es": "^880088Orbe de modificación (curación) (sin esquemas)^000000"
+    },
+    "cZe8Bw": {
+        "en": "Modification Orb (Heal)",
+        "pt": "Módulo de Cura",
+        "es": "Orbe de modificación (curación)"
+    },
+    "cpe8Bw": {
+        "en": "^AAAAAAModification Orb (ATK)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de ATQ (vazio)^000000",
+        "es": "^880088Orbe de modificación (ATQ) (sin esquemas)^000000"
+    },
+    "c5e8Bw": {
+        "en": "Modification Orb (ATK)",
+        "pt": "Módulo de ATQ",
+        "es": "Orbe de modificación (ATQ)"
+    },
+    "dJe8Bw": {
+        "en": "^AAAAAAModification Orb (MATK)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de ATQM (vazio)^000000",
+        "es": "^880088Orbe de modificación (ATQM) (sin esquemas)^000000"
+    },
+    "dZe8Bw": {
+        "en": "Modification Orb (MATK)",
+        "pt": "Módulo de ATQM",
+        "es": "Orbe de modificación (ATQM)"
+    },
+    "dpe8Bw": {
+        "en": "^AAAAAAModification Orb (Sharpshooter)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de Tiro (vazio)^000000",
+        "es": "^880088Orbe de modificación (tirador) (sin esquemas)^000000"
+    },
+    "d5e8Bw": {
+        "en": "Modification Orb (Sharpshooter)",
+        "pt": "Módulo de Tiro",
+        "es": "Orbe de modificación (tirador)"
+    },
+    "eJe8Bw": {
+        "en": "^AAAAAAModification Orb (Speed)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de Rapidez (vazio)^000000",
+        "es": "^880088Orbe de modificación (velocidad) (sin esquemas)^000000"
+    },
+    "eZe8Bw": {
+        "en": "Modification Orb (Speed)",
+        "pt": "Módulo de Rapidez",
+        "es": "Orbe de modificación (velocidad)"
+    },
+    "epe8Bw": {
+        "en": "^AAAAAAModification Orb (Caster)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de Magia (vazio)^000000",
+        "es": "^880088Orbe de modificación (lanzador) (sin esquemas)^000000"
+    },
+    "e5e8Bw": {
+        "en": "Modification Orb (Caster)",
+        "pt": "Módulo de Magia",
+        "es": "Orbe de modificación (lanzador)"
+    },
+    "fJe8Bw": {
+        "en": "^AAAAAAModification Orb (Critical)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de CRIT (vazio)^000000",
+        "es": "^880088Orbe de modificación (crítico) (sin esquemas)^000000"
+    },
+    "fZe8Bw": {
+        "en": "Modification Orb (Critical)",
+        "pt": "Módulo de CRIT",
+        "es": "Orbe de modificación (crítico)"
+    },
+    "fpe8Bw": {
+        "en": "^AAAAAAModification Orb (Post-skill Delay)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de Pós (vazio)^000000",
+        "es": "^880088Orbe de modificación (retraso tras la habilidad) (sin esquemas)^000000"
+    },
+    "f5e8Bw": {
+        "en": "Modification Orb (Post-skill Delay)",
+        "pt": "Módulo de Pós",
+        "es": "Orbe de modificación (retraso tras la habilidad)"
+    },
+    "gJe8Bw": {
+        "en": "^AAAAAAModification Orb (Fixed Casting)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de Fixa (vazio)^000000",
+        "es": "^880088Orbe de modificación (lanzamiento fijo) (sin esquemas)^000000"
+    },
+    "gZe8Bw": {
+        "en": "Modification Orb (Fixed Casting)",
+        "pt": "Módulo de Fixa",
+        "es": "Orbe de modificación (lanzamiento fijo)"
+    },
+    "gpe8Bw": {
+        "en": "^AAAAAAModification Orb (Above All)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de Total (vazio)^000000",
+        "es": "^880088Orbe de modificación (por encima de todo) (sin esquemas)^000000"
+    },
+    "g5e8Bw": {
+        "en": "Modification Orb (Above All)",
+        "pt": "Módulo de Total",
+        "es": "Orbe de modificación (por encima de todo)"
+    },
+    "hJe8Bw": {
+        "en": "^AAAAAAModification Orb (Drain Life)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de Vida (vazio)^000000",
+        "es": "^880088Orbe de modificación (drenaje de vida) (sin esquemas)^000000"
+    },
+    "hZe8Bw": {
+        "en": "Modification Orb (Drain Life)",
+        "pt": "Módulo de Vida",
+        "es": "Orbe de modificación (drenaje de vida)"
+    },
+    "hpe8Bw": {
+        "en": "^AAAAAAModification Orb (Drain Soul)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de Alma (vazio)^000000",
+        "es": "^880088Orbe de modificación (drenaje de almas) (sin esquemas)^000000"
+    },
+    "h5e8Bw": {
+        "en": "Modification Orb (Drain Soul)",
+        "pt": "Módulo de Alma",
+        "es": "Orbe de modificación (drenaje de almas)"
+    },
+    "iJe8Bw": {
+        "en": "^AAAAAAModification Orb (Magic Healing)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de Mental (vazio)^000000",
+        "es": "^880088Orbe de modificación (curación mágica) (sin esquemas)^000000"
+    },
+    "iZe8Bw": {
+        "en": "Modification Orb (Magic Healing)",
+        "pt": "Módulo de Mental",
+        "es": "Orbe de modificación (curación mágica)"
+    },
+    "ipe8Bw": {
+        "en": "^AAAAAAModification Orb (Magic Soul)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de Mana (vazio)^000000",
+        "es": "^880088Orbe de modificación (alma mágica) (sin esquemas)^000000"
+    },
+    "i5e8Bw": {
+        "en": "Modification Orb (Magic Soul)",
+        "pt": "Módulo de Mana",
+        "es": "Orbe de modificación (alma mágica)"
+    },
+    "jJe8Bw": {
+        "en": "^AAAAAAModification Orb (Unlimited Vitality)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de Eternidade (vazio)^000000",
+        "es": "^880088Orbe de modificación (vitalidad ilimitada) (sin esquemas)^000000"
+    },
+    "jZe8Bw": {
+        "en": "Modification Orb (Unlimited Vitality)",
+        "pt": "Módulo de Eternidade",
+        "es": "Orbe de modificación (vitalidad ilimitada)"
+    },
+    "jpe8Bw": {
+        "en": "^AAAAAAModification Orb (Spell Buster)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de Sortilégio (vazio)^000000",
+        "es": "^880088Orbe de modificación (rompehechizos) (sin esquemas)^000000"
+    },
+    "j5e8Bw": {
+        "en": "Modification Orb (Spell Buster)",
+        "pt": "Módulo de Sortilégio",
+        "es": "Orbe de modificación (rompehechizos)"
+    },
+    "kJe8Bw": {
+        "en": "^AAAAAAModification Orb (Fierce Shooter)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de Astúcia (vazio)^000000",
+        "es": "^880088Orbe de modificación (tirador agresivo) (sin esquemas)^000000"
+    },
+    "kZe8Bw": {
+        "en": "Modification Orb (Fierce Shooter)",
+        "pt": "Módulo de Astúcia",
+        "es": "Orbe de modificación (tirador agresivo)"
+    },
+    "kpe8Bw": {
+        "en": "^AAAAAAModification Orb (Overpower)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de Superpoder (vazio)^000000",
+        "es": "^880088Orbe de modificación (sobrecarga) (sin esquemas)^000000"
+    },
+    "k5e8Bw": {
+        "en": "Modification Orb (Overpower)",
+        "pt": "Módulo de Superpoder",
+        "es": "Orbe de modificación (sobrecarga)"
+    },
+    "lJe8Bw": {
+        "en": "^AAAAAAModification Orb (Fatal Flash)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de Lampejo (vazio)^000000",
+        "es": "^880088Orbe de modificación (destello letal) (sin esquemas)^000000"
+    },
+    "lZe8Bw": {
+        "en": "Modification Orb (Fatal Flash)",
+        "pt": "Módulo de Lampejo",
+        "es": "Orbe de modificación (destello letal)"
+    },
+    "lpe8Bw": {
+        "en": "^AAAAAAModification Orb (Lucky Strike)(No Schematics)^000000",
+        "pt": "^EE0000Módulo de Fortuna (vazio)^000000",
+        "es": "^880088Orbe de modificación (golpe de suerte) (sin esquemas)^000000"
+    },
+    "l5e8Bw": {
+        "en": "Modification Orb (Lucky Strike)",
+        "pt": "Módulo de Fortuna",
+        "es": "Orbe de modificación (golpe de suerte)"
+    },
+    "mJe8Bw": {
+        "en": "[RS26]\n{},\nplease select the grade that you'd like to refine.",
+        "pt": "[RS26]\nPor favor, {}.\nSelecione o nível de raridade do seu Módulo.",
+        "es": "[RS26]\n{},\nSelecciona el grado que quieres refinar."
+    },
+    "mZe8Bw": {
+        "en": "Cancel.",
+        "pt": "Cancelar",
+        "es": "Cancelar."
+    },
+    "mpe8Bw": {
+        "en": "Normal",
+        "pt": "N - Normal",
+        "es": "Normal"
+    },
+    "m5e8Bw": {
+        "en": "Rare",
+        "pt": "S - Singular",
+        "es": "Raro"
+    },
+    "nJe8Bw": {
+        "en": "Unique",
+        "pt": "U - Único",
+        "es": "Único"
+    },
+    "nZe8Bw": {
+        "en": "Legendary",
+        "pt": "L - Lendário",
+        "es": "Legendario"
+    },
+    "npe8Bw": {
+        "en": "[RS26]\nThen, we'll call it a day.",
+        "pt": "[RS26]\nEncerrando operação.",
+        "es": "[RS26]\nBien, dejémoslo aquí por hoy."
+    },
+    "n5e8Bw": {
+        "en": "Modification Orb (DEF)",
+        "pt": "Módulo de DEF",
+        "es": "Orbe de modificación (DEF)"
+    },
+    "oJe8Bw": {
+        "en": "Modification Orb (MDEF)",
+        "pt": "Módulo de DEFM",
+        "es": "Orbe de modificación (DEFM)"
+    },
+    "oZe8Bw": {
+        "en": "VIT +3",
+        "pt": "Módulo de VIT",
+        "es": "VIT+3"
+    },
+    "ope8Bw": {
+        "en": "LUK +3",
+        "pt": "Módulo de SOR",
+        "es": "SUE+3"
+    },
+    "o5e8Bw": {
+        "en": "STR +3",
+        "pt": "Módulo de FOR",
+        "es": "FUE+3"
+    },
+    "pJe8Bw": {
+        "en": "AGI +3",
+        "pt": "Módulo de AGI",
+        "es": "AGI+3"
+    },
+    "pZe8Bw": {
+        "en": "INT +3",
+        "pt": "Módulo de INT",
+        "es": "INT+3"
+    },
+    "ppe8Bw": {
+        "en": "DEX +3",
+        "pt": "Módulo de DES",
+        "es": "DES+3"
+    },
+    "p5e8Bw": {
+        "en": "Modification Orb (HP Recovery)",
+        "pt": "Módulo de HPR",
+        "es": "Orbe de modificación (recuperación de PV)"
+    },
+    "qJe8Bw": {
+        "en": "Modification Orb (SP Recovery)",
+        "pt": "Módulo de SPR",
+        "es": "Orbe de modificación (recuperación de PM)"
+    },
+    "qZe8Bw": {
+        "en": "Mana Level 5",
+        "pt": "Módulo de PE5",
+        "es": "Maná nivel5"
+    },
+    "qpe8Bw": {
+        "en": "Post-Attack Delay Level 4",
+        "pt": "Módulo de AA4",
+        "es": "Retraso tras el ataque nivel4"
+    },
+    "q5e8Bw": {
+        "en": "Critical Level 4",
+        "pt": "Módulo de F4",
+        "es": "Nivel crítico4"
+    },
+    "rJe8Bw": {
+        "en": "Ace Archer Level 5",
+        "pt": "Módulo de MA5",
+        "es": "Arquero experto nivel5"
+    },
+    "rZe8Bw": {
+        "en": "Modification Orb (Health)",
+        "pt": "Módulo de HPMax",
+        "es": "Orbe de modificación (salud)"
+    },
+    "rpe8Bw": {
+        "en": "Modification Orb (Spirit)",
+        "pt": "Módulo de SPMax",
+        "es": "Orbe de modificación (espíritu)"
+    },
+    "r5e8Bw": {
+        "en": "Modification Orb (Heal)",
+        "pt": "Módulo de Cura",
+        "es": "Orbe de modificación (curación)"
+    },
+    "sJe8Bw": {
+        "en": "Modification Orb (ATK)",
+        "pt": "Módulo de ATQ",
+        "es": "Orbe de modificación (ATQ)"
+    },
+    "sZe8Bw": {
+        "en": "Modification Orb (MATK)",
+        "pt": "Módulo de ATQM",
+        "es": "Orbe de modificación (ATQM)"
+    },
+    "spe8Bw": {
+        "en": "Modification Orb (Sharpshooter)",
+        "pt": "Módulo de Tiro",
+        "es": "Orbe de modificación (tirador)"
+    },
+    "s5e8Bw": {
+        "en": "Modification Orb (Speed)",
+        "pt": "Módulo de Rapidez",
+        "es": "Orbe de modificación (velocidad)"
+    },
+    "tJe8Bw": {
+        "en": "Modification Orb (Caster)",
+        "pt": "Módulo de Magia",
+        "es": "Orbe de modificación (lanzador)"
+    },
+    "tZe8Bw": {
+        "en": "Modification Orb (Critical)",
+        "pt": "Módulo de CRIT",
+        "es": "Orbe de modificación (crítico)"
+    },
+    "tpe8Bw": {
+        "en": "Modification Orb (Post-skill_Delay)",
+        "pt": "Módulo de Pós",
+        "es": "Orbe de modificación (retraso_tras la habilidad)"
+    },
+    "t5e8Bw": {
+        "en": "Modification Orb (Fixed_Casting)",
+        "pt": "Módulo de Fixa",
+        "es": "Orbe de modificación (lanzamiento_fijo)"
+    },
+    "uJe8Bw": {
+        "en": "Modification Orb (Above_All)",
+        "pt": "Módulo de Total",
+        "es": "Orbe de modificación (por encima_de todo)"
+    },
+    "uZe8Bw": {
+        "en": "Modification Orb (Drain_Life)",
+        "pt": "Módulo de Vida",
+        "es": "Orbe de modificación (drenaje_de vida)"
+    },
+    "upe8Bw": {
+        "en": "Modification Orb (Drain_Soul)",
+        "pt": "Módulo de Alma",
+        "es": "Orbe de modificación (denaje_de almas)"
+    },
+    "u5e8Bw": {
+        "en": "Modification Orb (Magic_Healing)",
+        "pt": "Módulo de Mental",
+        "es": "Orbe de modificación (curación_mágica)"
+    },
+    "vJe8Bw": {
+        "en": "Modification Orb (Magic_Soul)",
+        "pt": "Módulo de Mana",
+        "es": "Orbe de modificación (alma_mágica)"
+    },
+    "vZe8Bw": {
+        "en": "Modification Orb (Unlimited_Vitality)",
+        "pt": "Módulo de Eternidade",
+        "es": "Orbe de modificación (vitalidad_ilimitada)"
+    },
+    "vpe8Bw": {
+        "en": "Modification Orb (Spell_Buster)",
+        "pt": "Módulo de Sortilégio",
+        "es": "Orbe de modificación (rompe_hechizos)"
+    },
+    "v5e8Bw": {
+        "en": "Modification Orb (Fierce_Shooter)",
+        "pt": "Módulo de Astúcia",
+        "es": "Orbe de modificación (tirador_agresivo)"
+    },
+    "wJe8Bw": {
+        "en": "Modification Orb (Overpower)",
+        "pt": "Módulo de Superpoder",
+        "es": "Orbe de modificación (sobrecarga)"
+    },
+    "wZe8Bw": {
+        "en": "Modification Orb (Fatal Flash)",
+        "pt": "Módulo de Lampejo",
+        "es": "Orbe de modificación (destello letal)"
+    },
+    "wpe8Bw": {
+        "en": "Modification Orb (Lucky Strike)",
+        "pt": "Módulo de Fortuna",
+        "es": "Orbe de modificación (golpe de suerte)"
+    },
+    "w5e8Bw": {
+        "en": "[RS26]\nYou must have the matching Module to continue with the refining process.",
+        "pt": "[RS26]\nVocê não tem o Módulo selecionado.",
+        "es": "[RS26]\nDebes tener el módulo correspondiente para continuar con el proceso de refinado."
+    },
+    "xJe8Bw": {
+        "en": "[RS26]\nI'm unable to proceed normally. Please talk to my administrator.",
+        "pt": "[RS26]\nÉ impossível prosseguir normalmente. Acho que você precisa encontrar um administrador.",
+        "es": "[RS26]\nNo puedo continuar con normalidad. Por favor, habla con mi administrador."
+    },
+    "xZe8Bw": {
+        "en": "[RS26]\nAre you sure you're equipped with the item?",
+        "pt": "[RS26]\nVocê não está usando o equipamento?",
+        "es": "[RS26]\n¿Realmente tienes el objeto?"
+    },
+    "xpe8Bw": {
+        "en": "^FF0000Random options detected. This equipment can't be used.^000000",
+        "pt": "^FF0000Este item possui um bônus aleatório. Não é possível continuar.^000000",
+        "es": "^660000Se detectaron opciones aleatorias. No se puede usar este equipamiento.^000000"
+    },
+    "x5e8Bw": {
+        "en": "[RS26]\nIt's already equipped with a Legendary Module. It can't be equipped with any more Legendary Modules.",
+        "pt": "[RS26]\nEste item já possui um Módulo Lendário. É impossível instalar mais de um.",
+        "es": "[RS26]\nYa tienes un módulo Legendario equipado. No se pueden agregar más módulos Legendarios."
+    },
+    "yJe8Bw": {
+        "en": "[RS26]\nThe selected Module and equipment are not compatible with each other.",
+        "pt": "[RS26]\nO módulo selecionado e o equipamento escolhido não são compatíveis de encantamento.",
+        "es": "[RS26]\nEl módulo y el equipamiento seleccionados no son compatibles entre sí."
+    },
+    "yZe8Bw": {
+        "en": "[RS26]\nThis Module can only be used if the equipment never had Modules added to it before. Please use a different Module.",
+        "pt": "[RS26]\nEste módulo só pode ser usado no primeiro encanto. Infelizmente, o equipamento já foi encantado. Por favor, use outro módulo.",
+        "es": "[RS26]\nEste módulo solo se puede usar si nunca se han agregado módulos al equipamiento. Usa otro módulo."
+    },
+    "ype8Bw": {
+        "en": "[RS26]\nThis Module's stats can be extended up to {} times, and they already have been extended to the max limit.",
+        "pt": "[RS26]\nEsse módulo pode ser encantado até {} vezes. O limite foi atingido.",
+        "es": "[RS26]\nLas estadísticas de este módulo se pueden ampliar hasta {} veces, y ya se ha llegado al límite máximo."
+    },
+    "y5e8Bw": {
+        "en": "[RS26]\nThe selected equipment has already been extended to the max limit.",
+        "pt": "[RS26]\nParece que o equipamento selecionado já foi encantado ao máximo.",
+        "es": "[RS26]\nEl equipamiento seleccionado ya se ha ampliado hasta el límite máximo."
+    },
+    "zJe8Bw": {
+        "en": "[RS26]\nPlease note that unequipping the equipment midway can cause errors.",
+        "pt": "[RS26]\nSe você desmontar o equipamento durante a operação, pode ocorrer um erro. Tenha cuidado.",
+        "es": "[RS26]\nTen en cuenta que si eliminas algún equipamiento a mitad de camino se pueden generar errores."
+    },
+    "zZe8Bw": {
+        "en": "Illusion Armor Type A",
+        "pt": "Colete Ilusión A",
+        "es": "Armadura ilusoria del tipoA"
+    },
+    "zpe8Bw": {
+        "en": "Illusion Armor Type B",
+        "pt": "Colete Ilusión B",
+        "es": "Armadura ilusoria del tipoB"
+    },
+    "z5e8Bw": {
+        "en": "Illusion Engine Wing Type A",
+        "pt": "Motor Ilusión A",
+        "es": "Alas del motor ilusorio del tipoA"
+    },
+    "0Je8Bw": {
+        "en": "Illusion Engine Wing Type B",
+        "pt": "Motor Ilusión B",
+        "es": "Alas del motor ilusorio del tipoB"
+    },
+    "0Ze8Bw": {
+        "en": "Illusion Leg Type A",
+        "pt": "Perna Ilusión A",
+        "es": "Pierna ilusoria del tipoA"
+    },
+    "0pe8Bw": {
+        "en": "Illusion Leg Type B",
+        "pt": "Perna Ilusión B",
+        "es": "Pierna ilusoria del tipoB"
+    },
+    "05e8Bw": {
+        "en": "Illusion Booster R",
+        "pt": "Turbina Ilusión A-D",
+        "es": "Potenciador ilusorio D"
+    },
+    "1Je8Bw": {
+        "en": "Illusion Booster L",
+        "pt": "Turbina Ilusión B-E",
+        "es": "Potenciador ilusorio I"
+    },
+    "1Ze8Bw": {
+        "en": "Illusion Battle Chip R",
+        "pt": "Soquete Ilusión A-D",
+        "es": "Chip de batalla ilusorio D"
+    },
+    "1pe8Bw": {
+        "en": "Illusion Battle Chip L",
+        "pt": "Soquete Ilusión B-E",
+        "es": "Chip de batalla ilusorio I"
+    },
+    "15e8Bw": {
+        "en": "[RS26]\nThe equipment that you want to refine does not have a serial number. We're sorry, but we can't refine non-standard products.",
+        "pt": "[RS26]\nO produto que você deseja encantar não tem número de série. Não pode ser encantado porque é um produto fora do padrão.",
+        "es": "[RS26]\nEl equipamiento que quieres refinar no tiene número de serie. Disculpa, no es posible refinar productos que no sean estándar."
+    },
+    "2Je8Bw": {
+        "en": "[RS26]^0000FF\n{} + {} selected.\n^000000------------------\nYou can use the selected schematics to refine your equipment up to ^0000FF{} times^000000. So far, your equipment has been refined ^0000FF{} times^000000. Would you like to continue?",
+        "pt": "[RS26]^0000CD\n{} receberá o {}.\n^000000------------------\nO limite desse Módulo é de ^0000CD{}^000000. Seu equipamento já foi encantado ^0000CD{} vezes^000000. Deseja continuar?",
+        "es": "[RS26]^FF0000\n{}+{} fueron seleccionados.\n^000000------------------\nPuedes usar los esquemas seleccionados para refinar tu equipamiento hasta ^FF0000{} veces^000000. Hasta ahora, tu equipamiento se ha refinado ^FF0000{} veces^000000. ¿Quieres continuar?"
+    },
+    "2Ze8Bw": {
+        "en": "Let me think...",
+        "pt": "Espere...",
+        "es": "Déjame pensar…"
+    },
+    "2pe8Bw": {
+        "en": "Continue.",
+        "pt": "Continuar",
+        "es": "Continuar"
+    },
+    "25e8Bw": {
+        "en": "[RS26]\nTry to refine the equipment for the ^990000{}th time ^000000.",
+        "pt": "[RS26]\nVolte quando precisar de ajuda~",
+        "es": "[RS26]\nIntenta refinar el equipamiento ^0000FF{}veces más ^000000."
+    },
+    "3Je8Bw": {
+        "en": "[RS26]\nTry to refine the equipment's ^990000bonus effects^000000.",
+        "pt": "[RS26]\nInstalação do ^000077{}º módulo^000000 foi concluída.",
+        "es": "[RS26]\nIntenta refinar los ^0000FFefectos de bonificación^000000 del equipamiento."
+    }
+}

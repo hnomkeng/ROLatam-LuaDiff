@@ -1,0 +1,982 @@
+{
+    "oNPTCA": {
+        "en": "A girl",
+        "pt": "Sara Irine",
+        "es": "Una chica"
+    },
+    "odPTCA": {
+        "en": "^FF0000Maybe you should wait for the party leader to talk to the girl...^000000",
+        "pt": "^FF0000É necessário um líder do grupo para continuar o diálogo.^000000",
+        "es": "^FF0000Tal vez deberías esperar a que el líder del partido hable con la chica...^000000"
+    },
+    "otPTCA": {
+        "en": "[{0}]\nWhere am I?",
+        "pt": "[{0}]\nQue lugar é esse?",
+        "es": "[{0}]\n¿Dónde estoy?"
+    },
+    "o9PTCA": {
+        "en": "Where am I?",
+        "pt": "Que lugar é esse?",
+        "es": "¿Dónde estoy?"
+    },
+    "pNPTCA": {
+        "en": "[A girl]",
+        "pt": "[Sarah Irine]",
+        "es": "[Una chica]"
+    },
+    "pdPTCA": {
+        "en": "Hello! This is the village of Payon. You don't seem to be from around here...",
+        "pt": "Essa vila é Payon. Acho que você não é daqui.",
+        "es": "¡Hola! Este es el pueblo de Payon. No pareces ser de por aquí..."
+    },
+    "ptPTCA": {
+        "en": "A Girl: Hello! This is the village of Payon. You don't seem to be from around here...",
+        "pt": "Sara Irine: Essa vila é Payon. Acho que você não é daqui.",
+        "es": "Una chica: ¡Hola! Este es el pueblo de Payon. No pareces ser de por aquí..."
+    },
+    "p9PTCA": {
+        "en": "[{0}]\nAre you from here? You don't seem to quite match the locals either.",
+        "pt": "[{0}]\nVocê é dessa vila? A sua aparência é diferente...",
+        "es": "[{0}]\n¿Eres de aquí? Tampoco parece coincidir con los locales."
+    },
+    "qNPTCA": {
+        "en": "Are you from here? You don't seem to quite match the locals either.",
+        "pt": "Você é dessa vila? A sua aparência é diferente...",
+        "es": "¿Eres del cuartel general? Tampoco parece coincidir con los locales."
+    },
+    "qdPTCA": {
+        "en": "[A girl]\nYes! I was born here! My name is Sara. Sara Irene!",
+        "pt": "[Sarah Irine]\nSim! Eu nasci em Payon! Meu nome é Sara. Sara Irine!",
+        "es": "[Una chica]\n¡Sí! ¡Yo nací aquí! Me llamo Sara. ¡Sara Irene!"
+    },
+    "qtPTCA": {
+        "en": "A Girl: Yes! I was born here! My name is Sara. Sara Irene!",
+        "pt": "Sara Irine: Sim! Eu nasci em Payon! Meu nome é Sara. Sara Irine!",
+        "es": "Una chica: ¡Sí! ¡Yo nací aquí! Me llamo Arc. ¡Sara Irene!"
+    },
+    "q9PTCA": {
+        "en": "[Sara Irene]\nMy father is doyen of this village! I just take after my mother.",
+        "pt": "[Sarah Irine]\nMeu pai é o senhor desta vila! Eu tenho a cor da pele da minha mãe.",
+        "es": "[Sara Irene]\n¡Mi padre es el decano de este pueblo! Salí a mi madre."
+    },
+    "rNPTCA": {
+        "en": "Sara Irene: My father is doyen of this village! I just take after my mother.",
+        "pt": "Sarah Irine: Meu pai é o senhor desta vila! Eu tenho a cor da pele da minha mãe.",
+        "es": "Sara Irene: ¡Mi padre es el decano de este pueblo! Salí a mi madre."
+    },
+    "rdPTCA": {
+        "en": "[{0}]\nOh! I am sorry! Uh... Why are you standing out here all alone?",
+        "pt": "[{0}]\nSinto muito pelo mal-entendido. O que está fazendo aqui?",
+        "es": "[{0}]\n¡Ah! Lo siento. Uh… ¿Por qué estás aquí sola?"
+    },
+    "rtPTCA": {
+        "en": "Oh! I am sorry! Uh... Why are you standing out here all alone?",
+        "pt": "Sinto muito pelo mal-entendido. O que está fazendo aqui?",
+        "es": "¡Ah! Lo siento. Uh… ¿Por qué estás aquí sola?"
+    },
+    "r9PTCA": {
+        "en": "[Sara Irene]\nI am waiting for my father. He said that he will be here soon.",
+        "pt": "[Sarah Irine]\nEstou esperando meu pai. Ele disse que viria logo...",
+        "es": "[Sara Irene]\nEstoy esperando a mi padre. Dijo que estaría aquí pronto."
+    },
+    "sNPTCA": {
+        "en": "Sara Irene: I am waiting for my father. He said that he will be here soon.",
+        "pt": "Sara Irine: Estou esperando meu pai. Ele disse que viria logo...",
+        "es": "Sara Irene: Estoy esperando a mi padre. Dijo que estaría aquí pronto."
+    },
+    "sdPTCA": {
+        "en": "^FF0000An older man exits the house. Sara's face brightens at the sight of him.^000000",
+        "pt": "^FF0000Um homem mais velho sai da casa. O rosto de Sara se ilumina ao vê-lo.^000000",
+        "es": "^FF0000Un hombre mayor sale de la casa. La cara de Sara se ilumina al verle.^000000"
+    },
+    "stPTCA": {
+        "en": "[Sara Irene]\nHi daddy!",
+        "pt": "[Sarah Irine]\nOi, papai!",
+        "es": "[Sara Irene]\n¡Hola papá!"
+    },
+    "s9PTCA": {
+        "en": "Sara Irene: Hi daddy!",
+        "pt": "Sara Irine: Oi, papai!",
+        "es": "Sara Irene: ¡Hola papá!"
+    },
+    "tNPTCA": {
+        "en": "[Doyen Irene]\nSweetheart you look so happy.",
+        "pt": "[Senhor Irine]\nAh, querida, você parece tão feliz.",
+        "es": "[Doyen Irene]\nCariño, te ves tan feliz."
+    },
+    "tdPTCA": {
+        "en": "Doyen Irene: Sweetheart you look so happy.",
+        "pt": "Senhor Irine: Ah, querida, você parece tão feliz.",
+        "es": "Doyen Irene: ¡Te ves tan feliz"
+    },
+    "ttPTCA": {
+        "en": "[Sara Irene]\nYou said you would come back soon! I waited for you and you lied!",
+        "pt": "[Sarah Irine]\nVocê disse que voltaria logo! Papai, você é um mentiroso!",
+        "es": "[Sara Irene]\n¡Dijiste que volverías pronto! ¡Te esperé y mentiste!"
+    },
+    "t9PTCA": {
+        "en": "Sara Irene: You said you would come back soon! I waited for you and you lied!",
+        "pt": "Sara Irine: Você disse que voltaria logo! Papai, você é um mentiroso!",
+        "es": "Sara Irene: ¡Dijiste que volverías pronto! ¡Te esperé y mentiste!"
+    },
+    "uNPTCA": {
+        "en": "[Doyen Irene]\nSweetheart, I am sorry I made you wait so long. The meeting with the village elders took longer than expected.",
+        "pt": "[Senhor Irine]\nQuerida, desculpe-me por tê-la feito esperar tanto tempo. A reunião com os anciãos da aldeia demorou mais do que o esperado.",
+        "es": "[Doyen Irene]\nCariño, siento haberte hecho esperar tanto. La reunión con los ancianos del pueblo duró más de lo previsto."
+    },
+    "udPTCA": {
+        "en": "Doyen Irene: Sweetheart, I am sorry I made you wait so long. The meeting with the village elders took longer than expected.",
+        "pt": "Senhor Irine: Querida, desculpe-me por tê-la feito esperar tanto tempo. A reunião com os anciãos da aldeia demorou mais do que o esperado.",
+        "es": "Doyen Irene: Cariño, siento haberte hecho esperar tanto. La reunión con los ancianos del pueblo duró más de lo previsto."
+    },
+    "utPTCA": {
+        "en": "[Sara Irene]\nI hate those old fogeys.",
+        "pt": "[Sarah Irine]\nEu detesto aqueles velhinhos!",
+        "es": "[Sara Irene]\nOdio a esos vejestorios."
+    },
+    "u9PTCA": {
+        "en": "Sara Irene: I hate those old fogeys.",
+        "pt": "Sarah Irine: Eu detesto aqueles velhinhos!",
+        "es": "Sara Irene: Odio a esos vejestorios."
+    },
+    "vNPTCA": {
+        "en": "[Doyen Irene]\nDon't say that sweetheart... Who is this with you?",
+        "pt": "[Senhor Irine]\nNão diga isso, querida... Quem está com você?",
+        "es": "[Doyen Irene]\nNo digas eso cariño... ¿Quién está contigo?"
+    },
+    "vdPTCA": {
+        "en": "Doyen Irene: Don't say that sweetheart... Who is this with you?",
+        "pt": "Senhor Irine: Não diga isso, querida... Quem está com você?",
+        "es": "Doyen Irene: No digas eso. ¿Quién está contigo?"
+    },
+    "vtPTCA": {
+        "en": "^FF0000Doyen Irene stares at you with fire in his eyes.^000000",
+        "pt": "^FF0000Senhor Irine olha para você com fogo nos olhos.^000000",
+        "es": "^FF0000Doyen Irene te mira con fuego en los ojos.^000000"
+    },
+    "v9PTCA": {
+        "en": "Doyen Irene stares at you with fire in his eyes.",
+        "pt": "Senhor Irine olha para você com fogo nos olhos.",
+        "es": "Doyen Irene te mira con fuego en los ojos."
+    },
+    "wNPTCA": {
+        "en": "^FF0000Sara starts humming and singing softly to her self. She picks some wild flowers near by and presents them to the Doyen.^000000",
+        "pt": "^FF0000Sara começa a cantarolar e a cantar baixinho para si mesma. Ela colhe algumas flores silvestres nas proximidades e as apresenta ao Senhor.^000000",
+        "es": "^FF0000Sara empieza a tararear y a cantar suavemente para sí misma. Recoge algunas flores silvestres cercanas y se las regala al Doyen.^000000"
+    },
+    "wdPTCA": {
+        "en": "Sara starts humming and singing softly to her self. She picks some wild flowers near by and presents them to the Doyen.",
+        "pt": "Sara começa a cantarolar e a cantar baixinho para si mesma. Ela colhe algumas flores silvestres nas proximidades e as apresenta ao Senhor.",
+        "es": "Sara empieza a tararear y a cantar en voz baja para sí misma. Recoge algunas flores silvestres cercanas y se las regala al Doyen."
+    },
+    "wtPTCA": {
+        "en": "[Sara Irene]\nHere you go daddy!",
+        "pt": "[Sarah Irine]\nAqui está, papai!",
+        "es": "[Sara Irene]\n¡Aquí tienes papá!"
+    },
+    "w9PTCA": {
+        "en": "Sara Irene: Here you go daddy!",
+        "pt": "Sarah Irine: Aqui está, papai!",
+        "es": "Sara Irene: ¡Aquí tienes papá!"
+    },
+    "xNPTCA": {
+        "en": "[Doyen Irene]\nOh Sara, have I have them?",
+        "pt": "[Senhor Irine]\nOh, Sara. Posso ficar com elas?",
+        "es": "[Doyen Irene]\nOh Sara, ¿los tengo?"
+    },
+    "xdPTCA": {
+        "en": "Doyen Irene: Oh Sara, have I have them?",
+        "pt": "Senhor Irine: Oh, Sara. Posso ficar com elas?",
+        "es": "Doyen Irene: Oh Sara, ¿los tengo?"
+    },
+    "xtPTCA": {
+        "en": "[Sara Irene]\nOf course silly daddy!",
+        "pt": "[Sarah Irine]\nClaro que sim, papai bobo!",
+        "es": "[Sara Irene]\n¡Por supuesto papá tonto!"
+    },
+    "x9PTCA": {
+        "en": "Sara Irene: Of course silly daddy!",
+        "pt": "Sarah Irine: Claro, papai bobo!",
+        "es": "Sara Irene: ¡Por supuesto papá tonto!"
+    },
+    "yNPTCA": {
+        "en": "^FF0000After being given the flowers the Doyen's mood seems to greatly improve.^000000",
+        "pt": "^FF0000Depois de receber as flores, o humor do Senhor Irine parece melhorar bastante.^000000",
+        "es": "^FF0000Tras recibir las flores, el humor del Doyen parece mejorar considerablemente.^000000"
+    },
+    "ydPTCA": {
+        "en": "After being given the flowers the Doyen's mood seems to greatly improve.",
+        "pt": "Depois de receber as flores, o humor do Senhor Irine parece melhorar bastante.",
+        "es": "Tras recibir las flores, el humor del Doyen parece mejorar considerablemente."
+    },
+    "ytPTCA": {
+        "en": "[Doyen Irene]\nAlright my princess, where should we go now?",
+        "pt": "[Senhor Irine]\nMuito bem, minha princesa, para onde devemos ir agora?",
+        "es": "[Doyen Irene]\nMuy bien, princesa, ¿adónde vamos ahora?"
+    },
+    "y9PTCA": {
+        "en": "Doyen Irene: Alright my princess, where should we go now?",
+        "pt": "Senhor Irine: Muito bem, minha princesa, para onde devemos ir agora?",
+        "es": "Doyen Irene: Muy bien, princesa, ¿adónde vamos ahora?"
+    },
+    "zNPTCA": {
+        "en": "[Sara Irene]\nOh daddy! Lets go to the top of that hill over there!",
+        "pt": "[Sarah Irine]\nOh papai! Vamos para o topo daquela colina ali!",
+        "es": "[Sara Irene]\n¡Oh, papá! ¡Vamos a la cima de esa colina de allí!"
+    },
+    "zdPTCA": {
+        "en": "Sara Irene: Oh daddy! Lets go to the top of that hill over there!",
+        "pt": "Sarah Irine: Oh, papai! Vamos até o topo daquela colina ali!",
+        "es": "Sara Irene: ¡Oh, papá! ¡Vamos a la cima de esa colina de allí!"
+    },
+    "ztPTCA": {
+        "en": "[Doyen Irene]\nHah! Hold onto me tight!",
+        "pt": "[Senhor Irine].\nHah! Segure-se em mim com força!",
+        "es": "[Doyen Irene]\n¡Ja! ¡Agárrate fuerte a mí!"
+    },
+    "z9PTCA": {
+        "en": "Doyen Irene: Hah! Hold onto me tight!",
+        "pt": "Senhor Irine: Hah! Me segure com força!",
+        "es": "Doyen Irene: ¡Ja! ¡Agárrate fuerte a mí!"
+    },
+    "0NPTCA": {
+        "en": "^FF0000As they wander off you hear strange voices from around the corner...^000000",
+        "pt": "^FF0000Enquanto eles se afastam, você ouve vozes estranhas vindas da esquina...^000000",
+        "es": "^FF0000Mientras se alejan, oyes voces extrañas a la vuelta de la esquina...^000000"
+    },
+    "0dPTCA": {
+        "en": "As they wander off you hear strange voices from around the corner...",
+        "pt": "Enquanto eles se afastam, você ouve vozes estranhas vindas da esquina...",
+        "es": "Mientras se alejan, oyes voces extrañas a la vuelta de la esquina..."
+    },
+    "0tPTCA": {
+        "en": "[A strange old man A]\nI can feel Sara's power growing. We cannot just stand by and let her achieve her full potential!",
+        "pt": "[Homem Estranho A]\nPosso sentir o poder de Sarah crescendo. Não podemos ficar parados e deixar que ela atinja todo o seu potencial!",
+        "es": "[Un viejo extraño A]\nPuedo sentir el poder de Sara creciendo. No podemos quedarnos de brazos cruzados y dejar que desarrolle todo su potencial"
+    },
+    "09PTCA": {
+        "en": "Strange Old Man A: I can feel Sara's power growing. We cannot just stand by and let her achieve her full potential!",
+        "pt": "Homem Estranho A: Posso sentir o poder de Sarah crescendo. Não podemos ficar parados e deixar que ela atinja todo o seu potencial!",
+        "es": "Viejo Extraño A: Puedo sentir el poder de Sara creciendo. No podemos quedarnos de brazos cruzados y dejar que desarrolle todo su potencial"
+    },
+    "1NPTCA": {
+        "en": "[A strange old man B]\nShe was born under a bad sign and her mother isn't even one of us!",
+        "pt": "[Homem Estranho B]\nEla é filha daquela forasteira. Não é a herdeira legítima da vila de Payon.",
+        "es": "[Un viejo extraño B]\n¡Nació bajo un mal signo y su madre ni siquiera es de los nuestros!"
+    },
+    "1dPTCA": {
+        "en": "Strange Old Man B: She was under a bad sign and her mother isn't even one of us!",
+        "pt": "Homem Estranho B: Ela é filha daquela forasteira. Não é a herdeira legítima da vila de Payon.",
+        "es": "Extraño Viejo B: ¡Estaba bajo una mala señal y su madre ni siquiera es de los nuestros!"
+    },
+    "1tPTCA": {
+        "en": "[A strange old man B]\nSomeday she will cause blood to flow in our streets.",
+        "pt": "[Homem Estranho B]\nUm dia, ela causará uma tempestade de sangue na vila.",
+        "es": "[Un viejo extraño B]\nAlgún día hará correr la sangre por nuestras calles."
+    },
+    "19PTCA": {
+        "en": "Strange Old Man B: Someday she will cause blood to flow in our streets.",
+        "pt": "Homem Estranho B: Um dia, ela causará uma tempestade de sangue na vila.",
+        "es": "Extraño Viejo B: Algún día hará correr la sangre por nuestras calles."
+    },
+    "2NPTCA": {
+        "en": "[A strange old man A]\nWe have to do something before the Holy creatures select her. I asked HIM to take care of it.",
+        "pt": "[Homem Estranho A]\nTemos que fazer algo antes que as criaturas sagradas a selecionem. Pedi a ELE que cuidasse disso.",
+        "es": "[Un viejo extraño A]\nTenemos que hacer algo antes de que las criaturas Sagradas la seleccionen. Le pedí a ÉL que se ocupara de ello."
+    },
+    "2dPTCA": {
+        "en": "Strange Old Man A: We have to do something before the Holy creatures select her. I asked HIM to take care of it.",
+        "pt": "Homem estranho A: Temos que fazer algo antes que as criaturas sagradas a selecionem. Pedi a ELE que cuidasse disso.",
+        "es": "Viejo Extraño A: Tenemos que hacer algo antes de que las criaturas sagradas la seleccionen. Le pedí a ÉL que se ocupara de ello."
+    },
+    "2tPTCA": {
+        "en": "[A strange old man B]\nWe will see... I look forward to hearing the bad news that has befallen her...",
+        "pt": "[Homem Estranho B]\nVeremos... Estou ansioso para ouvir as más notícias que se abateram sobre ela...",
+        "es": "[Un viejo extraño B]\nYa veremos... Estoy deseando escuchar las malas noticias que le han ocurrido..."
+    },
+    "29PTCA": {
+        "en": "Strange Old Man B: We will see... I look forward to hearing the bad news that has befallen her...",
+        "pt": "Homem estranho B: Veremos... Estou ansioso para ouvir as más notícias que se abateram sobre ela...",
+        "es": "Extraño Viejo B: Ya veremos... Estoy deseando escuchar las malas noticias que le han ocurrido..."
+    },
+    "3NPTCA": {
+        "en": "^FF0000The old man wander off. It seems Sara might be in danger. We have to do something!^000000",
+        "pt": "^FF0000As pessoas desapareceram. Parece que Sarah pode estar correndo perigo. Temos que fazer alguma coisa!^000000",
+        "es": "^FF0000El viejo se aleja. Parece que Sara podría estar en peligro. ¡Tenemos que hacer algo!^000000"
+    },
+    "3dPTCA": {
+        "en": "The old man wander off. It seems Sara might be in danger. We have to do something!",
+        "pt": "As pessoas desapareceram. Parece que Sarah pode estar correndo perigo. Temos que fazer alguma coisa!",
+        "es": "El viejo se aleja. Parece que Sara podría estar en peligro. ¡Tenemos que hacer algo!"
+    },
+    "3tPTCA": {
+        "en": "Doyen Irene",
+        "pt": "Senhor Irine",
+        "es": "Decana Irene"
+    },
+    "39PTCA": {
+        "en": "Sara Irene",
+        "pt": "Sarah Irine",
+        "es": "Sara Irene"
+    },
+    "4NPTCA": {
+        "en": "[Sara Irene]\nOh! Hello again! I remember you, whats up?",
+        "pt": "[Sarah Irine]\nOh! Olá de novo! Eu me lembro de você, o que está acontecendo?",
+        "es": "[Sara Irene]\n¡Ah! ¡Hola de nuevo! Te recuerdo, ¿qué pasa?"
+    },
+    "4dPTCA": {
+        "en": "Sara Irene: Oh! Hello again! I remember you, whats up?",
+        "pt": "Sarah Irine: Oh! Olá de novo! Eu me lembro de você, o que está acontecendo?",
+        "es": "Sara Irene: ¡Ah! Hola de nuevo, Te recuerdo, ¿qué pasa?"
+    },
+    "4tPTCA": {
+        "en": "[Sara Irene]\nI am here to give flowers to my mommy!",
+        "pt": "[Sarah Irine]\nEstou aqui para dar flores para minha mamãe!",
+        "es": "[Sara Irene]\n¡Estoy aquí para darle flores a mi mami!"
+    },
+    "49PTCA": {
+        "en": "Sara Irene: I am here to give flowers to my mommy!",
+        "pt": "Sarah Irine: Estou aqui para dar flores para minha mamãe!",
+        "es": "Sara Irene: ¡Estoy aquí para darle flores a mi mami!"
+    },
+    "5NPTCA": {
+        "en": "^FF0000Sara leaps forward to open the door; flowers at the ready.^000000",
+        "pt": "^FF0000Sarah dá um salto para abrir a porta, com as flores na mão.^000000",
+        "es": "^FF0000Sara salta hacia delante para abrir la puerta, con las flores preparadas.^000000"
+    },
+    "5dPTCA": {
+        "en": "Sara leaps forward to open the door, flowers at the ready.",
+        "pt": "Sarah dá um salto para abrir a porta, com as flores na mão.",
+        "es": "Sara salta hacia delante para abrir la puerta, con las flores preparadas."
+    },
+    "5tPTCA": {
+        "en": "[Sara Irene]\nMom ! Dad! Look what I found!",
+        "pt": "[Sarah Irine]\nMamãe! Papai! Veja o que eu encontrei!",
+        "es": "[Sara Irene]\n¡Mamá! ¡Papá! ¡Mira lo que he encontrado!"
+    },
+    "59PTCA": {
+        "en": "Sara Irene: Mom ! Dad! Look what I found!",
+        "pt": "Sarah Irine: Mamãe! Papai! Veja o que eu encontrei!",
+        "es": "Sara Irene: ¡Mamá! Papá… ¡Mira lo que he encontrado!"
+    },
+    "6NPTCA": {
+        "en": "^FF0000The door opens to reveal a woman laying dead on the floor and the Doyen standing over the woman with a bloody sword.^000000",
+        "pt": "^FF0000A porta se abre para revelar uma mulher ensanguentada no chão e o senhor em pé sobre a mulher com uma espada ensanguentada.^000000",
+        "es": "^FF0000La puerta se abre para mostrar a una mujer muerta en el suelo y al Doyen de pie junto a ella con una espada ensangrentada.^000000"
+    },
+    "6dPTCA": {
+        "en": "The door opens to reveal a woman laying bloody on the floor and the Doyen standing over the woman with a bloody sword.",
+        "pt": "A porta se abre para revelar uma mulher ensanguentada no chão e o senhor em pé sobre a mulher com uma espada ensanguentada.",
+        "es": "La puerta se abre para revelar a una mujer tendida ensangrentada en el suelo y al Doyen de pie sobre la mujer con una espada ensangrentada."
+    },
+    "6tPTCA": {
+        "en": "[Sara Irene]\n...",
+        "pt": "[Sarah Irine]\n...",
+        "es": "[Sara Irene]\n…"
+    },
+    "69PTCA": {
+        "en": "Sara Irene: ...",
+        "pt": "Sarah Irine: ...",
+        "es": "Sara Irene: ..."
+    },
+    "7NPTCA": {
+        "en": "[Sara's Mother]\nSara...Ru-..away...",
+        "pt": "[Mãe de Sarah]\n...Sarah... É perigoso... Fu... ja...",
+        "es": "[Madre de Sara]\nSara... Ru... lejos..."
+    },
+    "7dPTCA": {
+        "en": "Sara's Mother: Sara...Ru-..away...",
+        "pt": "Mãe de Sarah: ...Sarah... É perigoso... Fu... ja...",
+        "es": "La madre de Sara: Sara... Ru... lejos..."
+    },
+    "7tPTCA": {
+        "en": "^FF0000A gem rolls from the womans hand and comes to a rest in front of Sara. Unconsciously Sara reaches down and picks up the gem.^000000",
+        "pt": "^FF0000Uma joia nas mãos de sua mãe rolou até os pés de Sarah. Ela observava em silêncio aquele acidente inacreditável diante dos seus olhos. Inconscientemente, ela pegou a joia.^000000",
+        "es": "^FF0000Una gema rueda de la mano de la mujer y se detiene frente a Sara. Inconscientemente, Sara se agacha y coge la gema.^000000"
+    },
+    "79PTCA": {
+        "en": "A gem rolls from the womans hand and comes to a rest in front of Sara. Unconsciously Sara reaches down and picks up the gem.",
+        "pt": "Uma joia nas mãos de sua mãe rolou até os pés de Sarah. Ela observava em silêncio aquele acidente inacreditável diante dos seus olhos. Inconscientemente, ela pegou a joia.",
+        "es": "Una gema rueda de la mano de la mujer y se detiene frente a Sara. Inconscientemente, Sara se agacha y coge la gema."
+    },
+    "8NPTCA": {
+        "en": "^FF0000The Doyen turns around and notices Sara.^000000",
+        "pt": "^FF0000Nesse momento, o Senhor Irine se virou com a espada nas mãos e notou a presença de Sarah.^000000",
+        "es": "^FF0000El Doyen se da la vuelta y se fija en Sara.^000000"
+    },
+    "8dPTCA": {
+        "en": "The Doyen turns around and notices Sara.",
+        "pt": "Nesse momento, o Senhor Irine se virou com a espada nas mãos e notou a presença de Sarah.",
+        "es": "El Doyen se da la vuelta y se fija en Sara."
+    },
+    "8tPTCA": {
+        "en": "[Doyen Irene]\nAhh Sara! I was just looking for you...",
+        "pt": "[Senhor Irine]\nAhh Sarah! Eu estava procurando por você...",
+        "es": "[Doyen Irene]\n¡Ahh Sara! Te estaba buscando..."
+    },
+    "89PTCA": {
+        "en": "Doyen Irene: Ahh Sara! I was just looking for you...",
+        "pt": "Senhor Irine: Ahh Sarah! Eu estava procurando por você...",
+        "es": "Doyen Irene: ¡Ahh Sara! Te estaba buscando..."
+    },
+    "9NPTCA": {
+        "en": "Escape with Sara.",
+        "pt": "Fuja com Sarah.",
+        "es": "Escápate con Sara."
+    },
+    "9dPTCA": {
+        "en": "[Doyen Irene]\nGuards! GUARDS! There is a murderer here! Catch him!",
+        "pt": "[Senhor Irine]\nGuardas! GUARDAS! Há um assassino aqui! Peguem-no!",
+        "es": "[Doyen Irene]\n¡Guardias! ¡GUARDIA! ¡Hay un asesino aquí! ¡Atrápenlo!"
+    },
+    "9tPTCA": {
+        "en": "Doyen Irene: Guards! GUARDS! There is a murderer here! Catch him!",
+        "pt": "Senhor Irine: Guardas! GUARDAS! Há um assassino aqui! Peguem-no!",
+        "es": "Doyen Irene: ¡Guardias! ¡GUARDIAS! ¡Hay un asesino aquí! ¡Atrápenlo!"
+    },
+    "99PTCA": {
+        "en": "^FF0000The sound of many pairs of boots can be heard running outside!^000000",
+        "pt": "^FF0000O som de muitos pares de botas pode ser ouvido correndo do lado de fora!^000000",
+        "es": "^FF0000Se oye el ruido de muchos pares de botas corriendo en el exterior^000000"
+    },
+    "+NPTCA": {
+        "en": "The sound of many pairs of boots can be heard running outside!",
+        "pt": "O som de muitos pares de botas pode ser ouvido correndo do lado de fora!",
+        "es": "Se oye el ruido de muchos pares de botas corriendo en el exterior"
+    },
+    "+dPTCA": {
+        "en": "[Sara Irene]\nMommy no!!!!!!!!!!!!!!!!!!!!!",
+        "pt": "[Sarah Irine]\nMamãe, não!",
+        "es": "[Sara Irene]\n¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡Mamá no!!!!!!!!!!!!!!!!!!!!!"
+    },
+    "+tPTCA": {
+        "en": "Sara Irene: Mommy no!!!!!!!!!!!!!!!!!!!!!",
+        "pt": "Sarah Irine: Mamãe, não!",
+        "es": "Sara Irene: ¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡Mamá no!!!!!!!!!!!!!!!!!!!!!"
+    },
+    "+9PTCA": {
+        "en": "^FF0000Sara runs away and the sound of the guards is getting closer...^000000",
+        "pt": "^FF0000Sarah foge e o som dos guardas está se aproximando...^000000",
+        "es": "^FF0000Sara huye y el sonido de los guardias se acerca...^000000"
+    },
+    "/NPTCA": {
+        "en": "Sara runs away and the sound of the guards is getting closer...",
+        "pt": "Sarah foge e o som dos guardas está se aproximando...",
+        "es": "Sara huye y el sonido de los guardias se acerca..."
+    },
+    "/dPTCA": {
+        "en": "<SYSTEM> The guards must be defeated to gain access to the next area.",
+        "pt": "Os guardas devem ser eliminados para ir à próxima área.",
+        "es": "<SYSTEM> Hay que derrotar a los guardias para acceder a la siguiente zona."
+    },
+    "/tPTCA": {
+        "en": "<SYSTEM> The guards have formed groups of their own to fight you!",
+        "pt": "Os guardas estão vindo em bando. Prepare-se!",
+        "es": "<SYSTEM> ¡Los guardias han formado sus propios grupos para luchar contra ti!"
+    },
+    "/9PTCA": {
+        "en": "Sara Irene : Why daddy?",
+        "pt": "Sarah Irine : Por que papai?",
+        "es": "Sara Irene : ¿Por qué papá?"
+    },
+    "ANTTCA": {
+        "en": "Sara Irene : Not mommy!",
+        "pt": "Sarah Irine : Mamãe...!",
+        "es": "Sara Irene : ¡Mamá no!"
+    },
+    "AdTTCA": {
+        "en": "Sara Irene : Why.. why?!",
+        "pt": "Sarah Irine : Por que... por que?!",
+        "es": "Sara Irene : ¡¿Por qué... por qué?!"
+    },
+    "AtTTCA": {
+        "en": "Sara Irene : Why did he do it?!",
+        "pt": "Sarah Irine : Por que ele fez isso?",
+        "es": "Sara Irene : ¿Por qué lo hizo?"
+    },
+    "A9TTCA": {
+        "en": "Sara Irene : Noooo...",
+        "pt": "Sarah Irine : Nãoooo...",
+        "es": "Sara Irene : Noooo..."
+    },
+    "BNTTCA": {
+        "en": "Sara Irene : ...",
+        "pt": "Sarah Irine : ...",
+        "es": "Sara Irene : ..."
+    },
+    "BdTTCA": {
+        "en": "Payon Town Guard",
+        "pt": "Guarda de Payon",
+        "es": "Payon Town Guard"
+    },
+    "BtTTCA": {
+        "en": "A Gentle Guard Dog",
+        "pt": "Lobo da Guarda",
+        "es": "A Gentle Guard Dog"
+    },
+    "B9TTCA": {
+        "en": "Payon Town Guard : An intruder!",
+        "pt": "Guarda de Payon : Delinquente!",
+        "es": "Payon Guardia Municipal : ¡Un intruso!"
+    },
+    "CNTTCA": {
+        "en": "Payon Town Guard : Catch him!!",
+        "pt": "Guarda de Payon : Ataquem!",
+        "es": "Payon Guardia Municipal : ¡Atrápenlo!"
+    },
+    "CdTTCA": {
+        "en": "Payon Town Guard : Damn, I was just about to retire!",
+        "pt": "Guarda de Payon: Droga, eu estava prestes a tirar uma folga...",
+        "es": "Payon Guardia Municipal : ¡Maldita sea, estaba a punto de jubilarme!"
+    },
+    "CtTTCA": {
+        "en": "Payon Town Guard : Get him!",
+        "pt": "Guarda de Payon : Não se mexa!",
+        "es": "Payon Guardia Municipal : ¡Atrápenlo!"
+    },
+    "C9TTCA": {
+        "en": "<SYSTEM> Sara ran away again! You think she went in the 2 O'clock direction!",
+        "pt": "Sarah fugiu para a próxima região. Ela seguiu para o leste!",
+        "es": "<SYSTEM> ¡Sara se escapó otra vez! ¡Crees que fue en dirección a las 2 en punto!"
+    },
+    "DNTTCA": {
+        "en": "Sara Irene : Why does it hurt so much?",
+        "pt": "Sarah Irine : Por que doi tanto?",
+        "es": "Sara Irene : ¿Por qué duele tanto?"
+    },
+    "DdTTCA": {
+        "en": "Sara Irene : ........",
+        "pt": "Sarah Irine : ........",
+        "es": "Sara Irene : ........"
+    },
+    "DtTTCA": {
+        "en": "Sara Irene : ...Mommy",
+        "pt": "Sarah Irine : ...Mamãe",
+        "es": "Sara Irene : ...Mami"
+    },
+    "D9TTCA": {
+        "en": "Sara Irene : All that blood...",
+        "pt": "Sarah Irine : Todo esse sangue...",
+        "es": "Sara Irene : Toda esa sangre..."
+    },
+    "ENTTCA": {
+        "en": "Sara Irene : What happened to you daddy?",
+        "pt": "Sarah Irine : O que aconteceu, papai?",
+        "es": "Sara Irene : ¿Qué te pasó papá?"
+    },
+    "EdTTCA": {
+        "en": "A Fierce Guard Dog",
+        "pt": "Lobo da Guarda Feroz",
+        "es": "A Fierce Guard Dog"
+    },
+    "EtTTCA": {
+        "en": "<SYSTEM> Sara ran away yet again! You think she went in the 5 O'clock direction!",
+        "pt": "Sarah fugiu para a próxima região. Ela seguiu para o sudeste!",
+        "es": "<SYSTEM> ¡Sara se escapó otra vez! ¡Crees que fue en dirección a las 5 en punto!"
+    },
+    "E9TTCA": {
+        "en": "Sara Irene : Why?!",
+        "pt": "Sarah Irine : Por quê?!",
+        "es": "Sara Irene : ¡¿Por qué?!"
+    },
+    "FNTTCA": {
+        "en": "Sara Irene : Who are you?!",
+        "pt": "Sarah Irine : Quem é você?",
+        "es": "Sara Irene : ¡¿Quién eres?!"
+    },
+    "FdTTCA": {
+        "en": "Sara Irene : I want my mommy!",
+        "pt": "Sarah Irine : Eu quero a minha mamãe!",
+        "es": "Sara Irene : ¡Quiero a mi mami!"
+    },
+    "FtTTCA": {
+        "en": "Sara Irene : Nooooo...",
+        "pt": "Sarah Irine : Nãooooo...",
+        "es": "Sara Irene : Nooooooo…"
+    },
+    "F9TTCA": {
+        "en": "<SYSTEM> Sara ran away yet again! *sigh* You think she went in the 6 O'clock direction!",
+        "pt": "Sarah fugiu para a próxima região. Ela seguiu para o sul!",
+        "es": "<SYSTEM> ¡Sara se escapó otra vez! *¡suspiro * ¿Crees que se fue en la dirección de las 6 en punto!"
+    },
+    "GNTTCA": {
+        "en": "Sara Irene : Mommy!",
+        "pt": "Sarah Irine : Mamãe!",
+        "es": "Sara Irene : ¡Mami!"
+    },
+    "GdTTCA": {
+        "en": "Sara Irene : Why?",
+        "pt": "Sarah Irine : Por quê?",
+        "es": "Sara Irene : ¿Por qué?"
+    },
+    "GtTTCA": {
+        "en": "Sara Irene : Daddy why?!",
+        "pt": "Sarah Irine : Papai, por quê?",
+        "es": "Sara Irene : ¡¿Papá por qué?!"
+    },
+    "G9TTCA": {
+        "en": "Sara Irene : Daddy!",
+        "pt": "Sarah Irine : Papai!",
+        "es": "Sara Irene : ¡Papá!"
+    },
+    "HNTTCA": {
+        "en": "<SYSTEM> Sara ran away yet again! again! You think she went in the 12 O'clock direction!",
+        "pt": "Sarah fugiu para a próxima região. Ela seguiu para o norte!",
+        "es": "<SYSTEM> ¡Sara se escapó otra vez! ¡Otra vez! ¡Crees que se fue en la dirección de las 12 en punto!"
+    },
+    "HdTTCA": {
+        "en": "[Sara Irene]\nMommy!",
+        "pt": "[Sarah Irine]\nMamãe!",
+        "es": "[Sara Irene]\nMi mamá"
+    },
+    "HtTTCA": {
+        "en": "Sara Irene: Mommy!.",
+        "pt": "Sarah Irine: Mamãe!",
+        "es": "Sara Irene: ¡Mamá!"
+    },
+    "H9TTCA": {
+        "en": "[Doyen Irene]\nSara...",
+        "pt": "[Senhor Irine]\nSarah...",
+        "es": "[Doyen Irene]\nSara..."
+    },
+    "INTTCA": {
+        "en": "Doyen Irene: Sara...",
+        "pt": "Senhor Irine: Sarah...",
+        "es": "Doyen Irene: Sarah…"
+    },
+    "IdTTCA": {
+        "en": "[Sara Irene]\nNo!",
+        "pt": "[Sarah Irine]\nNão!",
+        "es": "[Sara Irene]\n¡No!"
+    },
+    "ItTTCA": {
+        "en": "Sara Irene: No!",
+        "pt": "Sarah Irine: Não!",
+        "es": "Sara Irene: ¡No!"
+    },
+    "I9TTCA": {
+        "en": "[Doyen Irene]\nI have been looking for you Sara. Please come with daddy it is very dangerous here!",
+        "pt": "[Senhor Irine]\nEu estava procurando por você, Sarah. Por favor, venha com o papai, aqui é muito perigoso!",
+        "es": "[Doyen Irene]\nTe he estado buscando Sara. Por favor, ven con papá, ¡es muy peligroso aquí!"
+    },
+    "JNTTCA": {
+        "en": "Doyen Irene: I have been looking for you Sara. Please come with daddy it is very dangerous here!",
+        "pt": "Senhor Irine: Eu estava procurando por você, Sarah. Por favor, venha com o papai, aqui é muito perigoso!",
+        "es": "Doyen Irene: ¡Te estuve buscando, Sara! Por favor, ven con papá, ¡es muy peligroso aquí!"
+    },
+    "JdTTCA": {
+        "en": "[{0}]\nI won't let you take Sara!",
+        "pt": "[{0}]\nNão vou deixar você levar a Sarah!",
+        "es": "[{0}]\n¡No dejaré que te lleves a Sara!"
+    },
+    "JtTTCA": {
+        "en": "I won't let you take Sara!",
+        "pt": "Não vou deixar você levar a Sarah!",
+        "es": "¡No dejaré que te lleves a Sara!"
+    },
+    "J9TTCA": {
+        "en": "[Doyen Irene]\nThe murderer is here! Guards! We will finish him once and for all!",
+        "pt": "[Senhor Irine]\nVocê! Foi você quem matou, não foi?! Guardas! Vamos acabar com você de uma vez por todas!",
+        "es": "[Doyen Irene]\n¡El asesino está aquí! ¡Guardias! ¡Acabaremos con él de una vez por todas!"
+    },
+    "KNTTCA": {
+        "en": "Doyen Irene: The murderer is here! Guards! We will finish him once and for all!",
+        "pt": "Senhor Irine: Você! Foi você quem matou, não foi?! Guardas! Vamos acabar com você de uma vez por todas!",
+        "es": "Doyen Irene: ¡El asesino está aquí! ¡Guardias! ¡Acabaremos con él de una vez por todas!"
+    },
+    "KdTTCA": {
+        "en": "[{0}]\nSara... run! Save yourself!",
+        "pt": "[{0}]\nSarah... corra! Salve-se!",
+        "es": "[{0}]\nSara... ¡corre! ¡Sálvese quien pueda!"
+    },
+    "KtTTCA": {
+        "en": "Sara... run! Save yourself!",
+        "pt": "Sarah... corra! Salve-se!",
+        "es": "Sara... ¡corre! ¡Sálvese quien pueda!"
+    },
+    "K9TTCA": {
+        "en": "[Sara Irene]\n...okay.",
+        "pt": "[Sarah Irine]\nTá bom...",
+        "es": "[Sara Irene]\n...de acuerdo."
+    },
+    "LNTTCA": {
+        "en": "Sara Irene: ...okay.",
+        "pt": "Sarah Irine: Tá bom...",
+        "es": "Sara Irene: ...vale."
+    },
+    "LdTTCA": {
+        "en": "Payon Town Guard :  I am getting too old for this...",
+        "pt": "Guarda de Payon: Estou ficando velho demais para isso...",
+        "es": "Payon Guardia Municipal :  Me estoy haciendo demasiado viejo..."
+    },
+    "LtTTCA": {
+        "en": "Payon Town Guard :  For Payon!!",
+        "pt": "Guarda de Payon: Por Payon!!",
+        "es": "Payon Guardia Municipal :  ¡¡Para Payon!!"
+    },
+    "L9TTCA": {
+        "en": "<SYSTEM> Doyen Irene draws his blade!",
+        "pt": "O Senhor Irine aparece.",
+        "es": "<SYSTEM> ¡Doyen Irene desenvaina su espada!"
+    },
+    "MNTTCA": {
+        "en": "Doyen Irene",
+        "pt": "Senhor Irine",
+        "es": "Doyen Irene"
+    },
+    "MdTTCA": {
+        "en": "Doyen Irene : I will have revenge for Sara's Mom!",
+        "pt": "Senhor Irine: Vingarei a morte da mãe da Sarah!",
+        "es": "Doyen Irene : ¡Me vengaré de la madre de Sara!"
+    },
+    "MtTTCA": {
+        "en": "<SYSTEM> Doyen Irene has fallen.",
+        "pt": "O Senhor Irine cai no chão.",
+        "es": "<SYSTEM> Doyen Irene ha caído."
+    },
+    "M9TTCA": {
+        "en": "^FF0000Maybe you should wait for the party leader to talk to the Doyen...^000000",
+        "pt": "^FF0000Talvez você deva esperar que o líder do grupo fale com o Senhor Irine...^000000",
+        "es": "^FF0000Tal vez deberías esperar a que el líder del partido hable con el Doyen...^000000"
+    },
+    "NNTTCA": {
+        "en": "[Doyen Irene]\nYou... were too strong for me.",
+        "pt": "[Senhor Irine]\nVocê... é forte demais para mim.",
+        "es": "[Doyen Irene]\nTú... eras demasiado fuerte para mí."
+    },
+    "NdTTCA": {
+        "en": "Doyen Irene: You... were too strong for me.",
+        "pt": "Senhor Irine: Você... é forte demais para mim.",
+        "es": "Doyen Irene: Tú... eras demasiado fuerte para mí."
+    },
+    "NtTTCA": {
+        "en": "[Doyen Irene]\nWhy.. *hack* are you trying to kill my wife and daughter?",
+        "pt": "[Senhor Irine]\nPor que... está tentando matar minha esposa e filha?",
+        "es": "[Doyen Irene]\n¿Por qué .. *hack* estás tratando de matar a mi esposa e hija?"
+    },
+    "N9TTCA": {
+        "en": "Doyen Irene: Why... *hack* are you trying to kill my wife and daughter?",
+        "pt": "Senhor Irine: Por que... você está tentando matar minha esposa e minha filha?",
+        "es": "Doyen Irene: ¿Por qué... *hack* estás tratando de matar a mi esposa e hija?"
+    },
+    "ONTTCA": {
+        "en": "[{0}]\nWhat are you talking about? We saw you standing over Sara's mother with your sword COVERED in blood!",
+        "pt": "[{0}]\nDo que está falando? Nós o vimos em cima da mãe de Sarah com sua espada COBERTA de sangue!",
+        "es": "[{0}]\n¿De qué estás hablando? ¡Te vimos de pie junto a la madre de Sara con tu espada CUBIERTA de sangre!"
+    },
+    "OdTTCA": {
+        "en": "What are you talking about? We saw you standing over Sara's mother with your sword COVERED in blood!",
+        "pt": "Do que está falando? Nós o vimos em pé sobre a mãe de Sarah com sua espada COBERTA de sangue!",
+        "es": "¿De qué estás hablando? ¡Te vimos de pie junto a la madre de Sara con tu espada CUBIERTA de sangre!"
+    },
+    "OtTTCA": {
+        "en": "[Doyen Irene]\nYou.. think I killed Sara's mother?",
+        "pt": "[Senhor Irine]\nVocê acha que eu matei a mãe da Sarah?",
+        "es": "[Doyen Irene]\n¿Crees que maté a la madre de Sara?"
+    },
+    "O9TTCA": {
+        "en": "Doyen Irene: You.. think I killed Sara's mother?",
+        "pt": "Senhor Irine: Você... acha que eu matei a mãe da Sarah?",
+        "es": "Doyen Irene: ¿Crees que maté a la madre de Sara?"
+    },
+    "PNTTCA": {
+        "en": "[Doyen Irene]\nShe *cough* had already been killed by an assassin. I slew him that *hack* is why my blade was covered in blood...",
+        "pt": "[Senhor Irine]\nEla já estava morta quando entrei no quarto. Eu ia chorar por ela depois de matar o assassino...",
+        "es": "[Doyen Irene]\nElla *cough* ya había sido asesinada por un asesino. Yo lo maté ese *hack* es por eso que mi espada estaba cubierta de sangre..."
+    },
+    "PdTTCA": {
+        "en": "Doyen Irene: She *cough* had already been killed by an assassin. I slew him that *hack* is why my blade was covered in blood...",
+        "pt": "Senhor Irine: Ela já estava morta quando entrei no quarto. Eu ia chorar por ela depois de matar o assassino...",
+        "es": "Doyen Irene: Ella *cough* ya había sido asesinada por un asesino. Yo lo maté ese *hack* es por eso que mi espada estaba cubierta de sangre..."
+    },
+    "PtTTCA": {
+        "en": "^FF0000Thinking back you seem to recall another body laying in the left corner of the room. Maybe that was the assassin the Doyen is talking about.^000000",
+        "pt": "^FF0000Eu não havia notado na hora. Tinha alguém de preto caído ao lado do Senhor Irine.^000000",
+        "es": "^FF0000Haciendo memoria te parece recordar otro cuerpo tendido en la esquina izquierda de la habitación. Tal vez ese era el asesino del que habla el Doyen.^000000"
+    },
+    "P9TTCA": {
+        "en": "I seem to recall another body laying in the left corner of the room. Maybe that was the assassin the Doyen is talking about.",
+        "pt": "Eu não havia notado na hora. Tinha alguém de preto caído ao lado do Senhor Irine.",
+        "es": "Creo recordar otro cuerpo tendido en la esquina izquierda de la habitación. Tal vez ese era el asesino del que habla el Doyen."
+    },
+    "QNTTCA": {
+        "en": "[Doyen Irene]\nIf.. you are not the assassin sent to kill my wife and daughter, who are you?",
+        "pt": "[Senhor Irine]\nSe não é um assassino, quem é você?  Por que está aqui com a Sarah?",
+        "es": "[Doyen Irene]\nSi.. no eres el asesino enviado para matar a mi mujer y a mi hija, ¿quién eres?"
+    },
+    "QdTTCA": {
+        "en": "Doyen Irene: If.. you are not the assassin sent to kill my wife and daughter, who are you?",
+        "pt": "Senhor Irine: Se não é um assassino, quem é você?  Por que está aqui com a Sarah?",
+        "es": "Doyen Irene: Si.. no eres el asesino enviado para matar a mi mujer y a mi hija, ¿quién eres?"
+    },
+    "QtTTCA": {
+        "en": "[{0}]\nI am just an adventurer who was passing through. I heard some men plotting their deaths and needed to intervene.",
+        "pt": "[{0}]\nEstou só de passagem. Eu acabei ouvindo o plano de dois homens estranhos e vim proteger Sarah.",
+        "es": "[{0}]\nSólo soy un aventurero que estaba de paso. Oí que unos hombres tramaban su muerte y tuve que intervenir."
+    },
+    "Q9TTCA": {
+        "en": "I am just an adventurer who was passing through. I heard some men plotting their deaths and needed to intervene.",
+        "pt": "Estou só de passagem. Eu acabei ouvindo o plano de dois homens estranhos e vim proteger Sarah.",
+        "es": "Sólo soy un aventurero que estaba de paso. Oí que unos hombres tramaban su muerte y tuve que intervenir."
+    },
+    "RNTTCA": {
+        "en": "[Doyen Irene]\nIf.. you are telling the truth... forgive me. I thought you were one of them.",
+        "pt": "[Senhor Irine]\nSe estiver falando a verdade, eu cometi um erro. Perdão.",
+        "es": "[Doyen Irene]\nSi .. usted está diciendo la verdad ... perdóname. Pensé que eras uno de ellos."
+    },
+    "RdTTCA": {
+        "en": "Doyen Irene: If.. you are telling the truth... forgive me. I thought you were one of them.",
+        "pt": "Senhor Irine: Se estiver falando a verdade, eu cometi um erro. Perdão.",
+        "es": "Doyen Irene: Si .. usted está diciendo la verdad ... perdóname. Pensé que eras uno de ellos."
+    },
+    "RtTTCA": {
+        "en": "[Doyen Irene]\nStrange men... I bet they were some of the village elders. Ugh...",
+        "pt": "[Senhor Irine]\nDois homens estranhos... Devem ser os anciões da vila... Argh...",
+        "es": "[Doyen Irene]\nHombres extraños... Apuesto a que eran algunos de los ancianos del pueblo. Uf…"
+    },
+    "R9TTCA": {
+        "en": "Doyen Irene: Strange men... I bet they were some of the village elders. Ugh...",
+        "pt": "Senhor Irine: Dois homens estranhos... Devem ser os anciões da vila... Argh...",
+        "es": "Doyen Irene: Hombres extraños... Apuesto a que eran algunos de los ancianos del pueblo. Uf…"
+    },
+    "SNTTCA": {
+        "en": "[{0}]\nThere might be more assassins so we have to find sara as fast as we can.",
+        "pt": "[{0}]\nPodem ter outros assassinos por aí, então precisamos achar Sarah o mais rápido possível.",
+        "es": "[{0}]\nPodría haber más asesinos, así que tenemos que encontrar a Sara tan rápido como podamos."
+    },
+    "SdTTCA": {
+        "en": "There might be more assassins so we have to find sara as fast as we can.",
+        "pt": "Podem ter outros assassinos por aí, então precisamos achar Sarah o mais rápido possível.",
+        "es": "Podría haber más asesinos, así que tenemos que encontrar a Sara tan rápido como podamos."
+    },
+    "StTTCA": {
+        "en": "[{0}]\nSara believes that you killed her mother. We need to tell her the truth.",
+        "pt": "[{0}]\nEla também acredita que o Senhor matou a mãe. Você precisa desfazer esse mal-entendido.",
+        "es": "[{0}]\nSara cree que mataste a su madre. Tenemos que decirle la verdad."
+    },
+    "S9TTCA": {
+        "en": "Sara believes that you killed her mother. We need to tell her the truth.",
+        "pt": "Ela também acredita que o Senhor matou a mãe. Você precisa desfazer esse mal-entendido.",
+        "es": "Sara cree que mataste a su madre. Tenemos que decirle la verdad."
+    },
+    "TNTTCA": {
+        "en": "[Doyen Irene]\nWe must do our best to find her. Lets split up and search for her. Please help me find my daughter and explain everything to her.",
+        "pt": "[Senhor Irine]\nFarei tudo o que puder para encontrá-la. Por favor, traga-a aqui quando a encontrar. Eu vou explicar tudo...",
+        "es": "[Doyen Irene]\nDebemos hacer todo lo posible para encontrarla. Separémonos y busquémosla. Por favor, ayúdenme a encontrar a mi hija y a explicárselo todo."
+    },
+    "TdTTCA": {
+        "en": "Doyen Irene: We must do our best to find her. Lets split up and search for her. Please help me find my daughter and explain everything to her.",
+        "pt": "Senhor Irine: Farei tudo o que puder para encontrá-la. Por favor, traga-a aqui quando a encontrar. Eu vou explicar tudo...",
+        "es": "Doyen Irene: Debemos hacer todo lo posible para encontrarla. Separémonos y busquémosla. Por favor, ayúdenme a encontrar a mi hija y a explicárselo todo."
+    },
+    "TtTTCA": {
+        "en": "<SYSTEM> We must find Sara. You seem to remember her running in the 8 o'clock direction.",
+        "pt": "Precisamos encontrar Sarah. Vá para a ponte a sudoeste.",
+        "es": "<SYSTEM> Debemos encontrar a Sara. Pareces recordarla corriendo en dirección a las 8 en punto."
+    },
+    "T9TTCA": {
+        "en": "^FF0000Maybe you should wait for the party leader to talk to Sara...^000000",
+        "pt": "^FF0000Talvez seja melhor esperar que o líder do grupo fale com a Sarah...^000000",
+        "es": "^FF0000Tal vez deberías esperar a que el líder del partido hable con Sara...^000000"
+    },
+    "UNTTCA": {
+        "en": "^FF0000As you are about to call out to Sara a sudden blow knocks you down from behind.^000000",
+        "pt": "^FF0000Quando eu estava prestes a chamar Sarah, um golpe repentino surgiu por trás.^000000",
+        "es": "^FF0000Cuando estás a punto de llamar a Sara, un golpe repentino te derriba por detrás.^000000"
+    },
+    "UdTTCA": {
+        "en": "As you are about to call out to Sara a sudden blow knocks you down from behind.^",
+        "pt": "Quando eu estava prestes a chamar Sarah, um golpe repentino surgiu por trás.",
+        "es": "Cuando estás a punto de llamar a Sara, un golpe repentino te derriba por detrás"
+    },
+    "UtTTCA": {
+        "en": "[?????]\nThe time travellers cannot interfere any longer. You cannot stop us from meeting Sara.",
+        "pt": "[?????]\nOs viajantes do tempo não podem interferir. Não podem nos impedir de encontrar a Sarah.",
+        "es": "[¿¿¿???]\nLos viajeros del tiempo ya no pueden interferir. No puedes evitar que nos reunamos con Sara."
+    },
+    "U9TTCA": {
+        "en": "?????: The time travellers cannot interfere any longer. You cannot stop us from meeting Sara.",
+        "pt": "?????: Os viajantes do tempo não podem interferir. Não podem nos impedir de encontrar a Sarah.",
+        "es": "?????: Los viajeros del tiempo ya no pueden interferir. No puedes evitar que nos reunamos con Sara."
+    },
+    "VNTTCA": {
+        "en": "[?????]\nYou should go back to the time where you belong.",
+        "pt": "[?????]\nÉ melhor voltar à sua época.",
+        "es": "[¿¿¿???]\nDeberías volver al tiempo al que perteneces."
+    },
+    "VdTTCA": {
+        "en": "?????: You should go back to the time where you belong.",
+        "pt": "?????: É melhor voltar à sua época.",
+        "es": "?????: Deberías volver al tiempo al que perteneces."
+    },
+    "VtTTCA": {
+        "en": "^FF0000As you fall to the ground two dark figures approach Sara.^000000",
+        "pt": "^FF0000Um homem e uma mulher desconhecidos se aproximaram de Sarah sem se importarem comigo no chão.^000000",
+        "es": "^FF0000Mientras caes al suelo, dos figuras oscuras se acercan a Sara.^000000"
+    },
+    "V9TTCA": {
+        "en": "As you fall to the ground two dark figures approach Sara.",
+        "pt": "Um homem e uma mulher desconhecidos se aproximaram de Sarah sem se importarem comigo no chão.",
+        "es": "Mientras caes al suelo, dos figuras oscuras se acercan a Sara."
+    },
+    "WNTTCA": {
+        "en": "[?????]\nA girl full of betrayal, despair, and hate. We will guide you to your ultimate fate.",
+        "pt": "[?????]\nUma garota sofrendo com traição, desespero e ódio. Vou te levar aonde deveria estar...",
+        "es": "[¿¿¿???]\nUna chica llena de traición, desesperación y odio. Le guiaremos hasta su destino final."
+    },
+    "WdTTCA": {
+        "en": "?????: A girl full of betrayal, despair, and hate. We will guide you to your ultimate fate.",
+        "pt": "?????: Uma garota sofrendo com traição, desespero e ódio. Vou te levar aonde deveria estar...",
+        "es": "?????: Una chica llena de traición, desesperación y odio. Le guiaremos hasta su destino final."
+    },
+    "WtTTCA": {
+        "en": "[?????]\nSara Irene, he will make your dreams come true.",
+        "pt": "[?????]\nSarah Irine. Venha comigo. Ele vai realizar o seu sonho.",
+        "es": "[¿¿¿???]\nSara Irene, hará tus sueños realidad."
+    },
+    "W9TTCA": {
+        "en": "?????: Sara Irene, he will make your dreams come true.",
+        "pt": "?????: Sarah Irine. Venha comigo. Ele vai realizar o seu sonho.",
+        "es": "?????: Sara Irene, hará tus sueños realidad."
+    },
+    "XNTTCA": {
+        "en": "^FF0000One of the cloaked strangers covers Sara with their cloak and all three figures disappear.^000000",
+        "pt": "^FF0000O homem desconhecido cobriu Sarah com sua capa. E assim, eles desapareceram.^000000",
+        "es": "^FF0000Uno de los extraños embozados cubre a Sara con su capa y las tres figuras desaparecen.^000000"
+    },
+    "XdTTCA": {
+        "en": "One of the cloaked strangers covers Sara with their cloak and all three figures disappear.",
+        "pt": "O homem desconhecido cobriu Sarah com sua capa. E assim, eles desapareceram.",
+        "es": "Uno de los extraños embozados cubre a Sara con su capa y las tres figuras desaparecen."
+    },
+    "XtTTCA": {
+        "en": "The landscape begins to dance and sway at the rift becomes unstable. You feel that you should escape the town by heading west and return to Leon.",
+        "pt": "A paisagem do local começou a oscilar depois que Sarah sumiu. Talvez seja hora de sair da Fissura Dimensional como Leon havia mencionado.",
+        "es": "El paisaje empieza a bailar y a balancearse cuando la grieta se vuelve inestable. Crees que debes escapar de la ciudad dirigiéndote hacia el oeste y regresar a León."
+    },
+    "X9TTCA": {
+        "en": "For checking navigation",
+        "pt": "Navigation Check",
+        "es": "Para comprobar la navegación"
+    },
+    "YNTTCA": {
+        "en": "Please try again after installing a special item.",
+        "pt": "Tente novamente depois de instalar um item especial.",
+        "es": "Vuelve a intentarlo después de que hayas instalado un objeto especial."
+    },
+    "YdTTCA": {
+        "en": "For sara quest",
+        "pt": "Para sara quest",
+        "es": "Para sara quest"
+    },
+    "YtTTCA": {
+        "en": "All navigation on",
+        "pt": "Navegação ativada",
+        "es": "Toda la navegación en"
+    },
+    "Y9TTCA": {
+        "en": "All navigation off",
+        "pt": "Navegação desativada",
+        "es": "Toda la navegación desactivada"
+    }
+}

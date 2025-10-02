@@ -1,0 +1,897 @@
+{
+    "gGZ2Bw": {
+        "en": "Probationary researcher",
+        "pt": "Pesquisador",
+        "es": "Investigador Probatorio"
+    },
+    "gWZ2Bw": {
+        "en": "[Probationary researcher]\nThe entrance door is already open.",
+        "pt": "[Pesquisador]\nA porta de entrada já está aberta.",
+        "es": "[Investigador probatorio]\nLa entrada ya está abierta."
+    },
+    "gmZ2Bw": {
+        "en": "[Probationary researcher]\nAre you participating as assistants to the experiments of research project 32001?",
+        "pt": "[Pesquisador]\nVocê está participando como assistente do experimento de pesquisa número 32001?",
+        "es": "[Investigador probatorio]\n¿Serán asistentes en los experimentos del proyecto de investigación 32001?"
+    },
+    "g2Z2Bw": {
+        "en": "Yes.",
+        "pt": "Sim",
+        "es": "Sí."
+    },
+    "hGZ2Bw": {
+        "en": "No.",
+        "pt": "Não",
+        "es": "No."
+    },
+    "hWZ2Bw": {
+        "en": "[Probationary researcher]\nWe need about 5 seconds of time. Confirming access code.",
+        "pt": "[Pesquisador]\nNós precisamos de 5 segundos. Confirmando código de acesso.",
+        "es": "[Investigador probatorio]\nNecesitamos unos 5segundos. Confirmando código de acceso."
+    },
+    "hmZ2Bw": {
+        "en": "[Probationary researcher]\nIt seems you're in the wrong laboratory. Please exit and ask for help.",
+        "pt": "[Pesquisador]\nParece que você está no laboratório errado. Por favor, saia e procure ajuda.",
+        "es": "[Investigador probatorio]\nParece que estás en el laboratorio equivocado. Sal y pide ayuda."
+    },
+    "h2Z2Bw": {
+        "en": "[Probationary researcher]\nPlease hold. I am speaking with the guide about whether or not you have been authorized.",
+        "pt": "[Pesquisador]\nPor favor, aguarde. Estou confirmando com o guia se você tem ou não autorização.",
+        "es": "[Investigador probatorio]\nAguarda. Estoy hablando con el guía acerca de tu autorización."
+    },
+    "iGZ2Bw": {
+        "en": "Probationary researcher : The access code matches. I will open the door.",
+        "pt": "Pesquisador: O código de acesso está certo. Eu vou abrir a porta.",
+        "es": "Investigador probatorio: El código de acceso coincide. Abriré la puerta."
+    },
+    "iWZ2Bw": {
+        "en": "Probationary researcher: You may now enter. Please note that you cannot open the door from the other side.",
+        "pt": "Pesquisador: Você pode entrar. Por favor, lembre-se que não é possível abrir a porta pelo lado dentro.",
+        "es": "Investigador probatorio: Ya puedes entrar. Ten en cuenta que no puedes abrir la puerta desde el otro lado."
+    },
+    "imZ2Bw": {
+        "en": "warp_sw",
+        "pt": "warp_sw",
+        "es": "warp_sw"
+    },
+    "i2Z2Bw": {
+        "en": "switch1#",
+        "pt": "Interruptor 1#",
+        "es": "switch1#"
+    },
+    "jGZ2Bw": {
+        "en": "[switch 1]\nThe switch is currently in the ON position. What will you do?",
+        "pt": "[interruptor 1]\nO interruptor se encontra na posição LIGADO. O que você vai fazer?",
+        "es": "[interruptor 1]\nEl interruptor está en la posición ENCENDIDO. ¿Qué harás?"
+    },
+    "jWZ2Bw": {
+        "en": "[switch 1]\nThe switch is currently in the OFF position. What will you do?",
+        "pt": "[interruptor 1]\nO interruptor se encontra na posição DESLIGADO. O que você vai fazer?",
+        "es": "[interruptor 1]\nEl interruptor está en la posición APAGADO. ¿Qué harás?"
+    },
+    "jmZ2Bw": {
+        "en": "ON",
+        "pt": "LIGAR",
+        "es": "ENCENDIDO"
+    },
+    "j2Z2Bw": {
+        "en": "OFF",
+        "pt": "DESLIGAR",
+        "es": "APAGADO"
+    },
+    "kGZ2Bw": {
+        "en": "switch2#",
+        "pt": "Interruptor 2#",
+        "es": "switch2#"
+    },
+    "kWZ2Bw": {
+        "en": "[switch 2]\nThe switch is currently in the ON position. What will you do?",
+        "pt": "[interruptor 2]\nO interruptor se encontra na posição LIGADO. O que você vai fazer?",
+        "es": "[interruptor 2]\nEl interruptor está en la posición ENCENDIDO. ¿Qué harás?"
+    },
+    "kmZ2Bw": {
+        "en": "[switch 2]\nThe switch is currently in the OFF position. What will you do?",
+        "pt": "[interruptor 2]\nO interruptor se encontra na posição DESLIGADO. O que você vai fazer?",
+        "es": "[interruptor 2]\nEl interruptor está en la posición APAGADO. ¿Qué harás?"
+    },
+    "k2Z2Bw": {
+        "en": "Switch3#",
+        "pt": "Interruptor 3#",
+        "es": "Switch3#"
+    },
+    "lGZ2Bw": {
+        "en": "[switch 3]\nThe switch is currently in the ON position. What will you do?",
+        "pt": "[interruptor 3]\nO interruptor se encontra na posição LIGADO. O que você vai fazer?",
+        "es": "[interruptor 3]\nEl interruptor está en la posición ENCENDIDO. ¿Qué harás?"
+    },
+    "lWZ2Bw": {
+        "en": "[switch 3]\nThe switch is currently in the OFF position. What will you do?",
+        "pt": "[interruptor 3]\nO interruptor se encontra na posição DESLIGADO. O que você vai fazer?",
+        "es": "[interruptor 3]\nEl interruptor está en la posición APAGADO. ¿Qué harás?"
+    },
+    "lmZ2Bw": {
+        "en": "switch4#",
+        "pt": "Interruptor 4#",
+        "es": "switch4#"
+    },
+    "l2Z2Bw": {
+        "en": "[switch 4]\nThe switch is currently in the ON position. What will you do?",
+        "pt": "[interruptor 4]\nO interruptor se encontra na posição LIGADO. O que você vai fazer?",
+        "es": "[interruptor 4]\nEl interruptor está en la posición ENCENDIDO. ¿Qué harás?"
+    },
+    "mGZ2Bw": {
+        "en": "[switch 4]\nThe switch is currently in the OFF position. What will you do?",
+        "pt": "[interruptor 4]\nO interruptor se encontra na posição DESLIGADO. O que você vai fazer?",
+        "es": "[interruptor 4]\nEl interruptor está en la posición APAGADO. ¿Qué harás?"
+    },
+    "mWZ2Bw": {
+        "en": "switch5#",
+        "pt": "Interruptor 5#",
+        "es": "switch5#"
+    },
+    "mmZ2Bw": {
+        "en": "[switch 5]\nThe switch is currently in the ON position. What will you do?",
+        "pt": "[interruptor 5]\nO interruptor se encontra na posição LIGADO. O que você vai fazer?",
+        "es": "[interruptor 5]\nEl interruptor está en la posición ENCENDIDO. ¿Qué harás?"
+    },
+    "m2Z2Bw": {
+        "en": "[switch 5]\nThe switch is currently in the OFF position. What will you do?",
+        "pt": "[interruptor 5]\nO interruptor se encontra na posição DESLIGADO. O que você vai fazer?",
+        "es": "[interruptor 5]\nEl interruptor está en la posición APAGADO. ¿Qué harás?"
+    },
+    "nGZ2Bw": {
+        "en": "switch6#",
+        "pt": "Interruptor 6#",
+        "es": "switch6#"
+    },
+    "nWZ2Bw": {
+        "en": "[switch 6]\nThe switch is currently in the ON position. What will you do?",
+        "pt": "[interruptor 6]\nO interruptor se encontra na posição LIGADO. O que você vai fazer?",
+        "es": "[interruptor 6]\nEl interruptor está en la posición ENCENDIDO. ¿Qué harás?"
+    },
+    "nmZ2Bw": {
+        "en": "[switch 6]\nThe switch is currently in the OFF position. What will you do?",
+        "pt": "[interruptor 6]\nO interruptor se encontra na posição DESLIGADO. O que você vai fazer?",
+        "es": "[interruptor 6]\nEl interruptor está en la posición APAGADO. ¿Qué harás?"
+    },
+    "n2Z2Bw": {
+        "en": "switch7#",
+        "pt": "Interruptor 7#",
+        "es": "switch7#"
+    },
+    "oGZ2Bw": {
+        "en": "[switch 7]\nThe switch is currently in the ON position. What will you do?",
+        "pt": "[interruptor 7]\nO interruptor se encontra na posição LIGADO. O que você vai fazer?",
+        "es": "[interruptor 7]\nEl interruptor está en la posición ENCENDIDO. ¿Qué harás?"
+    },
+    "oWZ2Bw": {
+        "en": "[switch 7]\nThe switch is currently in the OFF position. What will you do?",
+        "pt": "[interruptor 7]\nO interruptor se encontra na posição DESLIGADO. O que você vai fazer?",
+        "es": "[interruptor 7]\nEl interruptor está en la posición APAGADO. ¿Qué harás?"
+    },
+    "omZ2Bw": {
+        "en": "switch8#",
+        "pt": "Interruptor 8#",
+        "es": "switch8#"
+    },
+    "o2Z2Bw": {
+        "en": "[switch 8]\nThe switch is currently in the ON position. What will you do?",
+        "pt": "[interruptor 8]\nO interruptor se encontra na posição LIGADO. O que você vai fazer?",
+        "es": "[interruptor 8]\nEl interruptor está en la posición ENCENDIDO. ¿Qué harás?"
+    },
+    "pGZ2Bw": {
+        "en": "[switch 8]\nThe switch is currently in the OFF position. What will you do?",
+        "pt": "[interruptor 8]\nO interruptor se encontra na posição DESLIGADO. O que você vai fazer?",
+        "es": "[interruptor 8]\nEl interruptor está en la posición APAGADO. ¿Qué harás?"
+    },
+    "pWZ2Bw": {
+        "en": "Senior researcher",
+        "pt": "Pesquisador Sênior",
+        "es": "Senior researcher"
+    },
+    "pmZ2Bw": {
+        "en": "[Senior Researcher]\nThe door is open so you may now enter. Please note that you cannot open the door from the other side.",
+        "pt": "[Pesquisador Sênior]\nA porta está aberta, então você pode entrar. Por favor, lembre-se que não é possível abrir a porta pelo lado dentro.",
+        "es": "[Investigador sénior]\nLa puerta está abierta; ya puedes entrar. Ten en cuenta que no puedes abrir la puerta desde el otro lado."
+    },
+    "p2Z2Bw": {
+        "en": "[Senior Researcher]\nIt seems you are here to participate in the particle acceleration experiment.",
+        "pt": "[Pesquisador Sênior]\nParece que você está aqui para participar do experimento de aceleração de partículas.",
+        "es": "[Investigador sénior]\nVeo que viniste a participar en el experimento de aceleración de partículas."
+    },
+    "qGZ2Bw": {
+        "en": "[Senior Researcher]\nToday's access code is ^0000FF{0}^000000.\nThe code needs to be entered as a binary number. Use the switches behind me to enter it.",
+        "pt": "[Pesquisador Sênior]\nHoje, o código de acesso é ^0000FF{0}^000000.\nO código foi modificado para um número binário, use o interruptor atrás de mim para combiná-lo.",
+        "es": "[Investigador sénior]\nEl código de acceso de hoy es ^0000FF{0}^000000.\nEl código se debe ingresar como número binario. Usa los interruptores que están detrás de mí para ingresarlo."
+    },
+    "qWZ2Bw": {
+        "en": "[Senior Researcher]\nAfter entering the code press the main button near the entrance.",
+        "pt": "[Pesquisador Sênior]\nDepois de combinar os interruptores, aperte o botão principal perto da entrada.",
+        "es": "[Investigador sénior]\nDespués de introducir el código, pulsa el botón principal, cerca de la entrada."
+    },
+    "qmZ2Bw": {
+        "en": "Main switch#",
+        "pt": "Interruptor Geral#",
+        "es": "Main switch#"
+    },
+    "q2Z2Bw": {
+        "en": "Main switch",
+        "pt": "Interruptor Geral",
+        "es": "Main switch"
+    },
+    "rGZ2Bw": {
+        "en": "Today's access code{0}, currently entered code{1}.",
+        "pt": "Hoje, o código de acesso é {0}, código binário digitado {1}.",
+        "es": "Código de acceso de hoy: {0}; código introducido: {1}."
+    },
+    "rWZ2Bw": {
+        "en": "The code is correct. Opening door.",
+        "pt": "O código de acesso está correto. Abrindo a porta.",
+        "es": "El código es correcto. Abriendo puerta."
+    },
+    "rmZ2Bw": {
+        "en": "The door is already open.",
+        "pt": "A porta de entrada já está aberta.",
+        "es": "La puerta ya está abierta."
+    },
+    "r2Z2Bw": {
+        "en": "The code is incorrect. Please try again.",
+        "pt": "O código de acesso está incorreto. Por favor, tente novamente.",
+        "es": "El código es incorrecto. Por favor, vuelve a intentarlo."
+    },
+    "sGZ2Bw": {
+        "en": "DR Federico",
+        "pt": "Dr. Federico",
+        "es": "DR Federico"
+    },
+    "sWZ2Bw": {
+        "en": "[DR Federico]\nThis device is more amazing the more I look at. There has never been a particle accelerator made in this scale.",
+        "pt": "[Dr. Federico]\nQuanto mais eu olho, mais acho o dispositivo incrível. Nunca houve um acelerador de partículas dessa magnitude.",
+        "es": "[Dr. Federico]\nCuanto más miro el dispositivo, más me fascina. Jamás se fabricó semejante acelerador de partículas."
+    },
+    "smZ2Bw": {
+        "en": "[DR Federico]\nWith this size I wonder if it's possible to create a small scale black hole...",
+        "pt": "[Dr. Federico]\nCom este tamanho, imagino se é possível recriar um buraco negro em pequena escala...",
+        "es": "[Dr. Federico]\nCon este tamaño, me pregunto si sería posible crear un agujero negro a pequeña escala…"
+    },
+    "s2Z2Bw": {
+        "en": "[DR Federico]\nAh, I was just talking. Such an event is closer to a disaster than an experiment haha.",
+        "pt": "[Dr. Federico]\nAh, eu só estava pensando alto. Tal conclusão está mais próxima de um desastre do que de um experimento, haha.",
+        "es": "[Dr. Federico]\nAh, estaba pensando en voz alta. Un evento así sería más un desastre que un experimento, ja, ja."
+    },
+    "tGZ2Bw": {
+        "en": "DR Silvia",
+        "pt": "Dra. Silvia",
+        "es": "DR Silvia"
+    },
+    "tWZ2Bw": {
+        "en": "[DR Silvia]\nAfter the experiment I want to go home and enjoy an ice cold beer and some fried chicken.",
+        "pt": "[Dra. Silvia]\nDepois do experimento eu quero ir para casa e aproveitar uma cerveja gelada com frango.",
+        "es": "[Dra. Silvia]\nDespués del experimento, quiero ir a casa y disfrutar de una cerveza helada y pollo frito."
+    },
+    "tmZ2Bw": {
+        "en": "[DR Silvia]\nI haven't been home for almost 2 years.",
+        "pt": "[Dra. Silvia]\nEu não descanso direito em casa há quase 2 anos.",
+        "es": "[Dra. Silvia]\nHace casi dos años que no voy."
+    },
+    "t2Z2Bw": {
+        "en": "^0000FF Silvia is looking at the particle accelerator device with a very exhausted look.^000000",
+        "pt": "^0000FFSilvia está olhando para o dispositivo acelerador de partículas com uma cara exausta.^000000",
+        "es": "^0000FFSilvia observa el dispositivo acelerador de partículas con una expresión de agotamiento.^000000"
+    },
+    "uGZ2Bw": {
+        "en": "DR Artemia",
+        "pt": "Dra. Artemia",
+        "es": "DR Artemia"
+    },
+    "uWZ2Bw": {
+        "en": "[DR Artemia]\nLook, reality doesn't like it when you grab a piece of string and give it a tug.",
+        "pt": "[Dra. Artemia]\nHonestamente, não estou muito confiante de que esse experimento está correto.",
+        "es": "[Dra. Artemia]\nOye, a la realidad no le gusta cuando agarras un pedazo de hilo y le das un tirón."
+    },
+    "umZ2Bw": {
+        "en": "[DR Artemia]\nA dimensional distortion can happen with such a powerful particle acceleration.",
+        "pt": "[Dra. Artemia]\nA distorção dimensional pode ocorrer em uma aceleração de partículas tão poderosa.",
+        "es": "[Dra. Artemia]\nCon una aceleración de partículas tan potente, podría darse una distorsión dimensional."
+    },
+    "u2Z2Bw": {
+        "en": "[DR Artemia]\nI have a bad feeling about this because... Nature finds a way.",
+        "pt": "[Dra. Artemia]\nTodos parecem estar encantados com isso, mas não tenho um bom pressentimento.",
+        "es": "[Dra. Artemia]\nEsto me da mala espina porque… La naturaleza siempre encuentra el modo."
+    },
+    "vGZ2Bw": {
+        "en": "DR Vincent",
+        "pt": "Dr. Vincent",
+        "es": "DR Vincent"
+    },
+    "vWZ2Bw": {
+        "en": "[DR Vincent]\nThe machine is perfect. Nothing will go wrong!",
+        "pt": "[Dr. Vincent]\nHaha, uma máquina tão elaborada não pode cometer um erro.",
+        "es": "[Dr. Vincent]\nLa máquina es perfecta. ¡Nada fallará!"
+    },
+    "vmZ2Bw": {
+        "en": "[DR Vincent]\nArtemia worries too much. Anyway I'm going on a trip after the experiment.",
+        "pt": "[Dr. Vincent]\nA Artemia se preocupa demais. Enfim, eu vou viajar depois que o experimento acabar.",
+        "es": "[Dr. Vincent]\nArtemia se preocupa demasiado. En fin. Luego del experimento, me iré de viaje."
+    },
+    "v2Z2Bw": {
+        "en": "Federico : Let us get started. Hm... Are you ready Dr. Fresa?",
+        "pt": "Federico: Vamos começar. Hum... Você está pronta, Dra. Fresa?",
+        "es": "Federico: Empecemos. Mmm… ¿Está lista, Dra. Fresa?"
+    },
+    "wGZ2Bw": {
+        "en": "Artemia : Probably making final confirmation checks. An experiment of this scope needs such caution.",
+        "pt": "Artemia : Provavelmente está realizando as verificações finais. Um experimento desse escopo precisa de muito cuidado.",
+        "es": "Artemia: Debe estar ultimando las confirmaciones. Un experimento de esta envergadura requiere tomar muchas precauciones."
+    },
+    "wWZ2Bw": {
+        "en": "Silvia : Care is needed for operating a finished product for the first experiment.",
+        "pt": "Silvia: É necessário cuidado para operar  o produto final do primeiro experimento.",
+        "es": "Silvia: Al operar un producto terminado para el primer experimento, se debe tener cuidado."
+    },
+    "wmZ2Bw": {
+        "en": "Vincent : Ah, I hope we can finish quickly so I can go eat chicken.",
+        "pt": "Vincent: Ah! Gostaria de acabar isso rápido e ir comer frango.",
+        "es": "Vincent: Ay, ojalá terminemos rápido, así puedo ir a comer pollo."
+    },
+    "w2Z2Bw": {
+        "en": "Silvia : Ah! I like that too! Call me when you go.",
+        "pt": "Silvia: Ah! Eu também quero! Se você for, me chame.",
+        "es": "Silvia: ¡Ah! ¡A mí también me gusta! Llámame cuando vayas."
+    },
+    "xGZ2Bw": {
+        "en": "?????: Ah, ah, one two one two, mic test.",
+        "pt": "?????: Som, som, um, dois, um, dois, testando.",
+        "es": "?????: Hola. Sí. Probando. Uno, dos, uno, dos. Probando."
+    },
+    "xWZ2Bw": {
+        "en": "Federico : She's here.",
+        "pt": "Federico: Ela está aqui.",
+        "es": "Federico: Llegó ella."
+    },
+    "xmZ2Bw": {
+        "en": "?????: Chief director Lona Fresa of project particle accelerator.",
+        "pt": "?????: Diretora chefe Lona Fresa do projeto do acelerador de partículas.",
+        "es": "?????: Lona Fresa, directora en jefe por el proyecto del acelerador de partículas."
+    },
+    "x2Z2Bw": {
+        "en": "Lona Fresa : Current time{0}Month{1}Day 25 minutes after 10.",
+        "pt": "Lona Fresa: Data atual {0} Mês {1} Dia, 25 minutos depois das 10.",
+        "es": "Lona Fresa: Hora actual. Mes: {0}, día: {1}. 10horas, 25minutos."
+    },
+    "yGZ2Bw": {
+        "en": "Lona Fresa : Testing the effects of particle acceleration on its surroundings in an open space.",
+        "pt": "Lona Fresa: Testando os efeitos da aceleração de partículas no ambiente aberto ao redor.",
+        "es": "Lona Fresa: Probando la aceleración de partículas y sus efectos en el entorno en un espacio abierto."
+    },
+    "yWZ2Bw": {
+        "en": "Artemia : Aah... I really don't like this experiment.",
+        "pt": "Artemia : Aah! Eu realmente não gosto deste experimento.",
+        "es": "Artemia: Aah… Este experimento no me gusta para nada."
+    },
+    "ymZ2Bw": {
+        "en": "Lona Fresa : Starting the experiment. Chief researcher Dr. Federico, Artemia, Silvia, Vincent and assistant researchers.",
+        "pt": "Lona Fresa: Começando o experimento com os pesquisadores chefes e doutores Federico, Artemia, Silvia, Vincent e pesquisadores assistentes.",
+        "es": "Lona Fresa: Iniciando el experimento. Dr. Federico, jefe de investigación, Artemia, Silvia, Vincent e investigadores auxiliares."
+    },
+    "y2Z2Bw": {
+        "en": "Artemia : Let us start~",
+        "pt": "Artemia : Vamos começar!",
+        "es": "Artemia: Empecemos~"
+    },
+    "zGZ2Bw": {
+        "en": "Vincent : Starting rotation of generator.",
+        "pt": "Vincent: Iniciando a rotação do gerador.",
+        "es": "Vincent: Iniciar rotación del generador."
+    },
+    "zWZ2Bw": {
+        "en": "Federico : Generator rotation fixed at 10000 RPM.",
+        "pt": "Federico: Rotação do gerador fixa em 10.000 RPM.",
+        "es": "Federico: Rotación del generador establecida en 10000RPM."
+    },
+    "zmZ2Bw": {
+        "en": "Silvia : Voltage is still within the tolerance band.",
+        "pt": "Silvia: A voltagem ainda está em uma faixa tolerável.",
+        "es": "Silvia: La tensión se mantiene en el rango de tolerancia."
+    },
+    "z2Z2Bw": {
+        "en": "Lona Fresa : This experiment is for the creation of new material that hasn't existed before.",
+        "pt": "Lona Fresa: O experimento é para a criação de um novo material nunca visto antes.",
+        "es": "Lona Fresa: Con este experimento, crearemos un material nuevo que jamás existió."
+    },
+    "0GZ2Bw": {
+        "en": "Lona Fresa : Recorders make sure to get detailed records of the catalyst bed's reaction when it is installed to the accelerator.",
+        "pt": "Lona Fresa: Responsáveis pelos registros, não esquecer de detalhar as informações sobre a reação do catalisador quando instalado no acelerador.",
+        "es": "Lona Fresa: Registradores, procuren documentar en detalle la reacción del lecho de catalizador cuando se instale en el acelerador."
+    },
+    "0WZ2Bw": {
+        "en": "Artemia : Contacting catalyst bed number 1.",
+        "pt": "Artemia : Entrando em contato com o catalisador número 1.",
+        "es": "Artemia: Comunicándose con el lecho de catalizador número1."
+    },
+    "0mZ2Bw": {
+        "en": "Silvia : Generator voltage unstable. Still within tolerance band.",
+        "pt": "Silvia: Voltagem do gerador instável. Mas ainda em uma faixa tolerável.",
+        "es": "Silvia: Tensión del generador inestable. Aún en el rango de tolerancia."
+    },
+    "02Z2Bw": {
+        "en": "Silvia : Detecting heat close to the tolerance band between the catalyst bed and the accelerator!",
+        "pt": "Silvia: Detectando calor próximo da faixa tolerável entre o catalisador e o acelerador!",
+        "es": "Silvia: ¡Temperatura elevada en el rango de tolerancia entre el lecho de catalizador y el acelerador!"
+    },
+    "1GZ2Bw": {
+        "en": "Vincent : Accelerator is heating.",
+        "pt": "Vincent: O acelerador está aquecendo.",
+        "es": "Vincent: El acelerador se está calentando."
+    },
+    "1WZ2Bw": {
+        "en": "Vincent: 320c.",
+        "pt": "Vincent: 320c.",
+        "es": "Vincent: 320c."
+    },
+    "1mZ2Bw": {
+        "en": "Vincent : 670c It's heating up too fast!",
+        "pt": "Vincent: 670c. Está aquecendo rápido demais!",
+        "es": "Vincent: 670c. ¡Se está calentando muy rápido!"
+    },
+    "12Z2Bw": {
+        "en": "Vincent : It's passed 1000c! Dr. Fresa! We have to stop the device!",
+        "pt": "Vincent: Passou de 1.000c!!!!! Dra. Fresa! Precisamos parar momentaneamente o dispositivo!",
+        "es": "Vincent: ¡Superó los 1000c! ¡Dra. Fresa! ¡Debemos detener el dispositivo!"
+    },
+    "2GZ2Bw": {
+        "en": "Lona Fresa : It's fine.",
+        "pt": "Lona Fresa: Está tudo bem.",
+        "es": "Lona Fresa: Está bien."
+    },
+    "2WZ2Bw": {
+        "en": "Silvia : It's not a simple problem. The temperature has far exceeded the predicted numbers!",
+        "pt": "Silvia: Não é um problema simples. A temperatura excedeu e muito os números previstos!",
+        "es": "Silvia: No es un problema sencillo. ¡La temperatura superó las cifras previstas por mucho!"
+    },
+    "2mZ2Bw": {
+        "en": "Lona Fresa : This problem was predicted. Maintain current status.",
+        "pt": "Lona Fresa: Este problema foi previsto. Mantenha o estado atual.",
+        "es": "Lona Fresa: El problema se había previsto. Mantener estado actual."
+    },
+    "22Z2Bw": {
+        "en": "Artemia :  Well, at least I'll have chicken later.",
+        "pt": "Artemia : Maluca...",
+        "es": "Artemia:  Bien, al menos comeré pollo más tarde."
+    },
+    "3GZ2Bw": {
+        "en": "MA-4885: Receiving changed circumstance through main server. Detecting dimensional distortion between particle accelerator and catalyst.",
+        "pt": "MA-4885: Recebendo circunstância alterada através do servidor principal. Detectando distorção dimensional entre o acelerador de partículas e o catalisador.",
+        "es": "MA-4885: Recibiendo los cambios de estado a través del servidor principal. Detectando distorsión dimensional entre el acelerador de partículas y el catalizador."
+    },
+    "3WZ2Bw": {
+        "en": "Artemia : Dr. Fresa! There's a dangerous situation with Mother Computer. Shut down the main power!",
+        "pt": "Artemia : Dra. Fresa! Esta situação é perigosa para o Computador Central. Desligue a energia principal!",
+        "es": "Artemia: ¡Dra. Fresa! Hay una situación peligrosa con la computadora central. ¡Apaguen la fuente eléctrica principal!"
+    },
+    "3mZ2Bw": {
+        "en": "MA-4885: Alert. New unidentified creature approaching from demi-plane.",
+        "pt": "MA-4885: Alerta. Nova criatura não identificada se aproximando do semiplano.",
+        "es": "MA-4885: Alerta. Se acerca una criatura nueva no identificada desde el semiplano."
+    },
+    "32Z2Bw": {
+        "en": "Vincent : What is going on. Somebody turn off that computer!",
+        "pt": "Vincent: O que está acontecendo? Alguém desligue a droga do computador principal!",
+        "es": "Vincent: ¿Qué está pasando? ¡Que alguien apague esa computadora!"
+    },
+    "4GZ2Bw": {
+        "en": "MA-4885: A new organism will be soon transmitted from the demi-plane.",
+        "pt": "MA-4885: Um novo organismo será transmitido em breve do semiplano.",
+        "es": "MA-4885: Pronto llegará un nuevo organismo desde el semiplano."
+    },
+    "4WZ2Bw": {
+        "en": "MA-4885: 5 seconds remaining",
+        "pt": "MA-4885: Faltam 5 segundos.",
+        "es": "MA-4885: 5segundos restantes"
+    },
+    "4mZ2Bw": {
+        "en": "MA-4885: 4 seconds remaining",
+        "pt": "MA-4885: Faltam 4 segundos.",
+        "es": "MA-4885: 4segundos restantes"
+    },
+    "42Z2Bw": {
+        "en": "MA-4885: 3 seconds remaining",
+        "pt": "MA-4885: Faltam 3 segundos.",
+        "es": "MA-4885: 3segundos restantes"
+    },
+    "5GZ2Bw": {
+        "en": "MA-4885: 2 seconds remaining",
+        "pt": "MA-4885: Faltam 2 segundos.",
+        "es": "MA-4885: 2segundos restantes"
+    },
+    "5WZ2Bw": {
+        "en": "MA-4885: 1 seconds remaining",
+        "pt": "MA-4885: Falta 1 segundo.",
+        "es": "MA-4885: 1segundo restante"
+    },
+    "5mZ2Bw": {
+        "en": "MA-4885: Unidentifiable creature discovered. Temporarily shutting down main power.",
+        "pt": "MA-4885: Criatura não identificada descoberta. Desligando temporariamente a energia principal.",
+        "es": "MA-4885: Se descubrió una criatura no identificada. Interrumpiendo fuente eléctrica principal por el momento."
+    },
+    "52Z2Bw": {
+        "en": "Unidentified creature",
+        "pt": "Criatura Não Identificada",
+        "es": "Unidentified creature"
+    },
+    "6GZ2Bw": {
+        "en": "Bork!",
+        "pt": "Artemia : O que... O que é isso?!",
+        "es": "Bork!"
+    },
+    "6WZ2Bw": {
+        "en": "Artemia : What... what is that?!",
+        "pt": "Silvia: Não está reagindo a nós. Talvez não possa nos ver?",
+        "es": "Artemia: ¿Qué?… ¡¿Qué es eso?!"
+    },
+    "6mZ2Bw": {
+        "en": "Silvia : It isn't reacting to us. Maybe it can't see us?",
+        "pt": "Vincent: Mas está atacando os assistentes do projeto! O que é esta criatura?",
+        "es": "Silvia: No reacciona a nuestra presencia. ¿Será que no nos ve?"
+    },
+    "62Z2Bw": {
+        "en": "Vincent : But it is hostile to the project assistants! What is that creature!?",
+        "pt": "Vincent: Eu não consigo mexer o meu corpo! Eu acho que o espaço está congelado!",
+        "es": "Vincent: ¡Pero se muestra hostil a los auxiliares del proyecto! ¡¿Qué criatura es esa?!"
+    },
+    "7GZ2Bw": {
+        "en": "Vincent : I can't move my body! I think space is frozen!",
+        "pt": "MA-4885: Criatura não identificada eliminada. Reiniciando o dispositivo.",
+        "es": "Vincent: ¡No me puedo mover! ¡Creo que congeló el espacio!"
+    },
+    "7WZ2Bw": {
+        "en": "MA-4885: Unidentified creature eliminated. Restarting device.",
+        "pt": "Artemia : MA-4885!! Quem te deu a ordem para reiniciar?! Pare !!",
+        "es": "MA-4885: Se eliminó a la criatura no identificada. Reiniciando dispositivo."
+    },
+    "7mZ2Bw": {
+        "en": "Artemia : MA-4885!! On who's order are you restarting! Stop!!",
+        "pt": "MA-4885: Comando não reconhecido.",
+        "es": "Artemia: ¡¡MA-4885!! ¿Quién te dio la orden de reiniciar? ¡¡Detente!!"
+    },
+    "72Z2Bw": {
+        "en": "MA-4885: Unrecognized command.",
+        "pt": "Artemia : Dra. Fresa!! Precisamos parar! Já está perigoso demais!",
+        "es": "MA-4885: Comando no reconocido."
+    },
+    "8GZ2Bw": {
+        "en": "Artemia : Dr. Fresa!! We have to stop! This is too dangerous!",
+        "pt": "Lona Fresa: ......",
+        "es": "Artemia: ¡¡Dra. Fresa!! ¡Tenemos que parar! ¡Es demasiado peligroso!"
+    },
+    "8WZ2Bw": {
+        "en": "Lona Fresa : ......",
+        "pt": "Vincent: Fresa! Não temos tempo! Desligue o computador principal!!",
+        "es": "Lona Fresa: …"
+    },
+    "8mZ2Bw": {
+        "en": "Vincent : Fresa! We don't have time! Turn off the computer!!",
+        "pt": "MA-4885: Reiniciando o procedimento de aceleração de partícula.",
+        "es": "Vincent: ¡Fresa! ¡No hay tiempo! ¡¡Apaga la computadora!!"
+    },
+    "82Z2Bw": {
+        "en": "MA-4885: Restarting particle acceleration procedure.",
+        "pt": "Silvia: Fresa! Decida-se!",
+        "es": "MA-4885: Reiniciando proceso de aceleración de partículas."
+    },
+    "9GZ2Bw": {
+        "en": "Silvia : Fresa! Make a decision!",
+        "pt": "Lona Fresa: Tempo atual 20 minutos depois das 11. Momentaneamente adiando o experimento.",
+        "es": "Silvia: ¡Fresa! ¡Decídete!"
+    },
+    "9WZ2Bw": {
+        "en": "Lona Fresa : Current time 20 minutes past 11. Momentarily postponing experiment.",
+        "pt": "MA-4885: Acesso negado.  Não é possível entender o comando.",
+        "es": "Lona Fresa: Hora actual: 11horas, 20minutos. Postergando experimento temporalmente."
+    },
+    "9mZ2Bw": {
+        "en": "MA-4885: Access denied. Cannot understand command.",
+        "pt": "Lona Fresa: Computador Principal MA-4885. Eu sou a Diretora Chefe Dra. Fresa. Cessar o progresso atual.",
+        "es": "MA-4885: Acceso denegado. Comando desconocido."
+    },
+    "92Z2Bw": {
+        "en": "Lona Fresa : Mother Comp MA-4885. I am your Chief director Dr. Fresa. Cease current progress.",
+        "pt": "Federico: Droga! Tem outra coisa vindo!!",
+        "es": "Lona Fresa: Computadora central MA-4885. Soy la Dra. Fresa, directora en jefe. Detén el proceso actual."
+    },
+    "+GZ2Bw": {
+        "en": "Federico : Damnit! Something else is coming!!",
+        "pt": "Vincent: Ah... Droga. É por isso que não devíamos ter instalado uma CPU tão atual.",
+        "es": "Federico: ¡Diablos! ¡¡Se acerca algo más!!"
+    },
+    "+WZ2Bw": {
+        "en": "Vincent : Oh... damnit. This is why you shouldn't install the newest CPU.",
+        "pt": "Federico: Ah... Meu corpo... Não se move. Droga!",
+        "es": "Vincent: Uy, diablos. Por eso no hay que instalar la versión más reciente."
+    },
+    "+mZ2Bw": {
+        "en": "Federico : Ah... my body...can't move. Damn",
+        "pt": "Silvia: É igual à última vez. Não parece ter interesse em nós.",
+        "es": "Federico: Ah… mi cuerpo… no me puedo mover. Maldición."
+    },
+    "+2Z2Bw": {
+        "en": "Silvia : Same as the last time. It seems to have no interest in us.",
+        "pt": "Vincent: Vamos desligar totalmente o computador principal enquanto a energia principal está temporariamente desligada!",
+        "es": "Silvia: Igual que la otra vez. Parece que no le interesamos."
+    },
+    "/GZ2Bw": {
+        "en": "Vincent : Let's completely shut down the mother computer while the main power is temporarily off!",
+        "pt": "MA-4885: Respondendo à pergunta. O espaço está atualmente preso em um plano distorcido.",
+        "es": "Vincent: ¡Apaguemos la computadora central por completo mientras no haya electricidad!"
+    },
+    "/WZ2Bw": {
+        "en": "MA-4885: Answering question. This space is currently stuck in a distorted phase.",
+        "pt": "MA-4885: A interação direta entre a criatura do semiplano e os organismos deste mundo será possível após o plano ser equilibrado.",
+        "es": "MA-4885: Respondiendo pregunta. Este espacio está atrapado en una fase de distorsión."
+    },
+    "/mZ2Bw": {
+        "en": "MA-4885: Direct interaction between the demi-plane creature and this world's organisms will be possible after the phase has been balanced.",
+        "pt": "MA-4885: Realizando cálculos para restaurar o equilíbrio do plano distorcido. Por favor, aguarde um pouco.",
+        "es": "MA-4885: La interacción directa entre la criatura del semiplano y los organismos de este mundo será posible una vez que la fase haya sido equilibrada."
+    },
+    "/2Z2Bw": {
+        "en": "MA-4885: Conducting calculations to restore balance to distorted phase. Please wait a moment.",
+        "pt": "Artemia : O que este pedaço de metal maluco está dizendo? Está dizendo que não estamos no mesmo plano que aquelas coisas monstruosas?",
+        "es": "MA-4885: Computando cómo restablecer el equilibrio de la fase de distorsión. Por favor, espera un momento."
+    },
+    "AGd2Bw": {
+        "en": "Artemia : What is that crazy clump of metal saying? It is saying we aren't in the same phase as those monster like things?",
+        "pt": "Federico: Aah, acho melhor rezarmos para o computador principal não realizar os cálculos corretos.",
+        "es": "Artemia: ¿Qué dice ese cacharro de metal? ¿Acaso dice que no estamos en la misma fase que esos bichos monstruosos?"
+    },
+    "AWd2Bw": {
+        "en": "Federico : Aah, I guess we should hope that Mother computer doesn't make the right calculations.",
+        "pt": "MA-4885: Criatura não identificada eliminada. Falha no ajuste de plano. Reiniciando o procedimento relevante.",
+        "es": "Federico: Ah, supongo que debemos esperar que la computadora central no haga los cálculos correctos."
+    },
+    "Amd2Bw": {
+        "en": "MA-4885: Unidentified creature eliminated. Phase adjustment failed. Restarting relevant procedure.",
+        "pt": "Lona Fresa: Computador Principal MA-4885. Parece que você está tentando sincronizar a outra dimensão a este mundo.",
+        "es": "MA-4885: Se eliminó a la criatura no identificada. Falló el ajuste de fase. Reiniciando proceso correspondiente."
+    },
+    "A2d2Bw": {
+        "en": "Lona Fresa : Mother Computer MA-4885. Looks like you are trying to synchronize the other dimension and this world.",
+        "pt": "MA-4885: Isso está correto.",
+        "es": "Lona Fresa: Computadora central MA-4885. Parece que quieres sincronizar la otra dimensión con este mundo."
+    },
+    "BGd2Bw": {
+        "en": "MA-4885: That is correct.",
+        "pt": "Artemia : Dra. Fresa!! Este experimento ridículo está totalmente não relacionado ao experimento original!",
+        "es": "MA-4885: Correcto."
+    },
+    "BWd2Bw": {
+        "en": "Artemia : Dr. Fresa!! This ridiculous event is completely unrelated to our original experiment!",
+        "pt": "Lona Fresa: Eu compreendo perfeitamente isso.",
+        "es": "Artemia: ¡¡Dra. Fresa!! ¡Es absurdo y no tiene ninguna relación con el experimento original!"
+    },
+    "Bmd2Bw": {
+        "en": "Lona Fresa : I have fully realized that.",
+        "pt": "Silvia: Não podemos desligar a energia principal totalmente?",
+        "es": "Lona Fresa: Lo sé muy bien."
+    },
+    "B2d2Bw": {
+        "en": "Silvia : Can we not shut down main power completely?",
+        "pt": "MA-4885: Reiniciando o procedimento de aceleração de partículas.",
+        "es": "Silvia: ¿Podemos no cortar la fuente eléctrica principal por completo?"
+    },
+    "CGd2Bw": {
+        "en": "Lona Fresa :{0}Month{1}Day. Current time 38 minutes past 11 temporarily terminating particle accelerator project.",
+        "pt": "Lona Fresa: {0} Mês {1} Dia. Tempo atual 38 minutos depois das 11, encerrando temporariamente o projeto do acelerador de partículas.",
+        "es": "Lona Fresa: Mes: {0}, día: {1}. Hora actual: 11horas, 38minutos. Finalizando de momento el proyecto del acelerador de partículas."
+    },
+    "CWd2Bw": {
+        "en": "Lona Fresa : Ending record with the reasons of Mother Computer malfunction and overheating of accelerator.",
+        "pt": "Lona Fresa: Encerrando gravação por motivo de mau funcionamento do Computador Principal e sobreaquecimento do acelerador.",
+        "es": "Lona Fresa: Finalizando registro con motivos de falla en la computadora central y sobrecalentamiento del acelerador."
+    },
+    "Cmd2Bw": {
+        "en": "Silvia : Alright! Now Dr. Fresa just has to shut down the power.",
+        "pt": "Silvia: Isso aí! Agora a Dra. Fresa só precisa desligar a energia.",
+        "es": "Silvia: ¡Muy bien! Solo resta que la Dra. Fresa corte la electricidad."
+    },
+    "C2d2Bw": {
+        "en": "Lona Fresa : Cutting off power to Mother Computer MA-4885.",
+        "pt": "Lona Fresa: Desligando a energia do Computador Central MA-4885.",
+        "es": "Lona Fresa: Desconectando computadora central MA-4885."
+    },
+    "DGd2Bw": {
+        "en": "MA-4885: Suspending operation of all equipment as per Administrator request.",
+        "pt": "MA-4885: Suspendendo operação de todos os equipamentos a pedido do Administrador.",
+        "es": "MA-4885: Interrumpiendo operación de todos los equipamientos a pedido del administrador."
+    },
+    "DWd2Bw": {
+        "en": "MA-4885: .....command... ----!!!  Zizip... ---!! -- following command ----- !! Zizip.",
+        "pt": "MA-4885: .....comando... ----!!!  Zizip... ---!! -- seguindo comando ----- !! Zizip.",
+        "es": "MA-4885: … comando… ¡¡¡----!!!  Zi-zip… ¡¡---!! ¡¡-- siguiente comando -----!! Zi-zip."
+    },
+    "Dmd2Bw": {
+        "en": "Artemia : Whew... is it over?",
+        "pt": "Artemia : Ufa... Acabou?",
+        "es": "Artemia: Uf… ¿Listo?"
+    },
+    "D2d2Bw": {
+        "en": "Lona Fresa : Completed shut down of Mother computer MA-4885. Confirm equipment suspension.",
+        "pt": "Lona Fresa: Desligamento completo do Computador Principal MA-4885. Confirmar suspensão de equipamento.",
+        "es": "Lona Fresa: Computadora central MA-4885 apagada. Confirmar suspensión del equipamiento."
+    },
+    "EGd2Bw": {
+        "en": "Silvia : Looks like it's over.",
+        "pt": "Silvia: Parece que acabou.",
+        "es": "Silvia: Parece que se terminó."
+    },
+    "EWd2Bw": {
+        "en": "Federico : Plant initialization is the best.",
+        "pt": "Federico: O mais importante é inicializar tudo novamente.",
+        "es": "Federico: Inicializar la planta es lo mejor."
+    },
+    "Emd2Bw": {
+        "en": "Lona Fresa : Recording all experiment progress and terminating at current point.",
+        "pt": "Lona Fresa: Anotar todo o progresso do experimento e o ponto em que foi encerrado.",
+        "es": "Lona Fresa: Registrando el avance del experimento y concluyendo con el estado actual."
+    },
+    "E2d2Bw": {
+        "en": "Lona Fresa : This latest experiment failure is unfortunate. But I will perfect the experiment for next time.",
+        "pt": "Lona Fresa: A falha no experimento final foi uma infelicidade. Mas prometo que o próximo será um experimento perfeito.",
+        "es": "Lona Fresa: Este último experimento fallido fue una desgracia. Pero lo perfeccionaré para la próxima."
+    },
+    "FGd2Bw": {
+        "en": "Lona Fresa : Good work everybody.",
+        "pt": "Lona Fresa: Bom trabalho, pessoal.",
+        "es": "Lona Fresa: Buen trabajo, gente."
+    },
+    "FWd2Bw": {
+        "en": "Artemia : It seems to be over.",
+        "pt": "Artemia : Parece ter acabado.",
+        "es": "Artemia: Parece que se acabó."
+    },
+    "Fmd2Bw": {
+        "en": "Federico : I thought it was Fresa's dogmatic experiment. But it was a problem with the mother comp.",
+        "pt": "Federico: Eu pensei que fosse parte do experimento dogmático da Fresa. Mas era um problema com o computador principal.",
+        "es": "Federico: Pensé que era el experimento dogmático de Fresa. Pero fue un problema de la compu central."
+    },
+    "F2d2Bw": {
+        "en": "Silvia : Let's just calm down. And get out of this dreadful laboratory.",
+        "pt": "Silvia: Primeiro vamos descansar. E sair deste laboratório horroroso.",
+        "es": "Silvia: Tranquilicémonos. Y salgamos de este laboratorio espantoso."
+    },
+    "GGd2Bw": {
+        "en": "Vincent : By the way... I still can't move so what's going on?",
+        "pt": "Vincent: Falando nisso... Eu ainda não consigo me mexer, então o que está acontecendo?",
+        "es": "Vincent: Por cierto… Aún no me puedo mover… ¿qué está pasando?"
+    },
+    "GWd2Bw": {
+        "en": "MA-4885: CODE NAME - DESCENT",
+        "pt": "MA-4885: NOME DO CÓDIGO - DECLÍNIO",
+        "es": "MA-4885: NOMBRE CLAVE - DESCENSO"
+    },
+    "Gmd2Bw": {
+        "en": "Federico : What? Wasn't this the initialization stage?",
+        "pt": "Federico: Quê? Não estava no estágio de inicialização?",
+        "es": "Federico: ¿Qué? ¿No era esta la fase de inicialización?"
+    },
+    "G2d2Bw": {
+        "en": "MA-4885 : Starting final phase transformation.",
+        "pt": "MA-4885: Iniciando a transformação final do plano.",
+        "es": "MA-4885: Iniciando transformación final de fase."
+    },
+    "HGd2Bw": {
+        "en": "Silvia : It's all over.",
+        "pt": "Silvia: Está tudo acabado. Até mesmo a cerveja e o frango!",
+        "es": "Silvia: Todo se acabó."
+    },
+    "HWd2Bw": {
+        "en": "MA-4885: Temporarily shutting down main power for syntonization with transformed phase.",
+        "pt": "MA-4885: Desligando temporariamente a energia principal para sintonização com o plano transformado.",
+        "es": "MA-4885: Interrumpiendo temporalmente la fuente eléctrica principal para sincronizar con la fase transformada."
+    },
+    "Hmd2Bw": {
+        "en": "MA-4885: Final phase transformation process.",
+        "pt": "MA-4885: Processo de transformação do plano final.",
+        "es": "MA-4885: Proceso de transformación final de fase."
+    },
+    "H2d2Bw": {
+        "en": "MA-4885: This world will be summoned to the demi-plane after the phase interference phenomenon with creature fades.",
+        "pt": "MA-4885: Este mundo será revertido ao semiplano conjurado após o fenômeno de interferência do plano com criaturas desaparecer.",
+        "es": "MA-4885: Este mundo se invocará al semiplano cuando se disipe el fenómeno de interferencia de fase con la criatura."
+    },
+    "IGd2Bw": {
+        "en": "MA-4885: Phase synchronization completed before creature was eliminated. Starting dimensional travel.",
+        "pt": "MA-4885: Sincronização do plano concluída antes da criatura ser eliminada. Iniciando viagem dimensional reversa.",
+        "es": "MA-4885: Sincronización de fase completada antes de eliminar a la criatura. Iniciando viaje dimensional."
+    },
+    "IWd2Bw": {
+        "en": "Federico : Mother comp is conducting a tremendous experiment going beyond what we thought of.",
+        "pt": "Federico: O computador principal está conduzindo um experimento enorme, superando o que nós imaginamos.",
+        "es": "Federico: La compu central está ejecutando un experimento tremendo que va más allá de todo lo que imaginamos."
+    },
+    "Imd2Bw": {
+        "en": "Vincent : Seems more magnanimous than we are. Fresa!!! Are you listening? Sound the alarm!",
+        "pt": "Vincent: Parece ser algo muito maior do que nós. Fresa!!! Está me ouvindo? Soe o alarme!",
+        "es": "Vincent: Parece más magnánimo que nosotros. ¡¡¡Fresa!!! ¿Me estás escuchando? ¡Activa la alarma!"
+    },
+    "I2d2Bw": {
+        "en": "Vincent : We should at least evacuate the people in the other labs.",
+        "pt": "Vincent: Nós devemos pelo menos evacuar as pessoas dos outros laboratórios.",
+        "es": "Vincent: Al menos, deberíamos evacuar a la gente de los otros laboratorios."
+    },
+    "JGd2Bw": {
+        "en": "Lona Fresa : But ... you.",
+        "pt": "Lona Fresa: Mas... vocês.",
+        "es": "Lona Fresa: Pero… tú."
+    },
+    "JWd2Bw": {
+        "en": "Silvia : Gee, I don't know what will happen but I am curious about shifting dimensions. Don't mind me!",
+        "pt": "Silvia: Nossa, eu não sei o que vai acontecer, mas estou curiosa sobre a mudança nas dimensões reversas. Não ligue para mim!",
+        "es": "Silvia: Vaya, no sé qué pasará, pero el cambio de dimensiones me da curiosidad. ¡No me hagas caso!"
+    },
+    "Jmd2Bw": {
+        "en": "Artemia : Dimensional moving while experimenting on new material production. Got caught up in a different level of an experiment.",
+        "pt": "Artemia: Mudar de dimensão enquanto experimento uma nova produção de material. Acabei me envolvendo em um nível totalmente diferente de experimento. Hehe!",
+        "es": "Artemia: Movimiento dimensional al experimentar con la producción de materiales nuevos. Nos enganchamos con un experimento totalmente diferente."
+    },
+    "J2d2Bw": {
+        "en": "Alarm System : Alert! Alert! Class 1 alert issued from the Particle Laboratory. All researchers evacuate to the bunker.",
+        "pt": "Sistema de Alarme: Alerta! Alerta! Alerta de Classe 1 emitido pelo Laboratório de Partículas. Todos os pesquisadores devem evacuar em direção ao abrigo.",
+        "es": "Sistema de alarma: ¡Alerta! ¡Alerta! Alerta de clase1 emitida desde el laboratorio de partículas. Todos los investigadores deben evacuar al refugio."
+    },
+    "KGd2Bw": {
+        "en": "Alarm System : I repeat. Class 1 alert issued from the Particle Laboratory. All researchers evacuate to the bunker.",
+        "pt": "Sistema de Alarme: Eu repito. Alerta de Classe 1 emitido pelo Laboratório de Partículas. Todos os pesquisadores devem evacuar em direção ao abrigo.",
+        "es": "Sistema de alarma: Repito. Alerta de clase1emitida desde el laboratorio de partículas. Todos los investigadores deben evacuar al refugio."
+    },
+    "KWd2Bw": {
+        "en": "Federico : Is this how it feels to move dimensions. How strange...",
+        "pt": "Federico: Então é assim que se move por dimensões. Que estranho...",
+        "es": "Federico: ¿Así se siente trasladarse entre dimensiones? ¡Qué extraño!"
+    },
+    "Kmd2Bw": {
+        "en": "MA-4885: Dimension move at 20% progress. There could be dimensional interference with certain creatures. Please be aware.",
+        "pt": "MA-4885: O progresso da mudança de dimensão está em 20%. Pode haver uma interferência dimensional com certas criaturas. Por favor, tome cuidado.",
+        "es": "MA-4885: Progreso del viaje dimensional: 20%. Podría haber interferencias dimensionales con ciertas criaturas. Tengan cuidado."
+    },
+    "K2d2Bw": {
+        "en": "Vincent : I wonder if the others evacuated?",
+        "pt": "Vincent: Será que os outros conseguiram ser evacuados?",
+        "es": "Vincent: ¿Habrán evacuado los demás?"
+    },
+    "LGd2Bw": {
+        "en": "Silvia : Ah...... I should be seeing this while having chicken and beer...",
+        "pt": "Silvia: Ah...... Eu deveria estar vendo isto comendo frango e tomando cerveja...",
+        "es": "Silvia: Ah… Quería verlo con pollo y cerveza en mano…"
+    },
+    "LWd2Bw": {
+        "en": "MA-4885: Dimension move at 78% progress. Most of the dimension encroached by demi-plane.",
+        "pt": "MA-4885: O progresso da mudança de dimensão está em 78%. A maior parte da dimensão está sendo invadida pelo semiplano.",
+        "es": "MA-4885: Progreso del viaje dimensional: 78%. Dimensión casi totalmente invadida por el semiplano."
+    },
+    "Lmd2Bw": {
+        "en": "Artemia : Ha... whose going to eat the chicken now?",
+        "pt": "Artemia : Ah... Me arrependo de não ter tido um encontro.",
+        "es": "Artemia: Ja… ¿Quién se va a comer el pollo ahora?"
+    },
+    "L2d2Bw": {
+        "en": "MA-4885: Dimension move 100% completed. Welcome to the demi-plane dimension.",
+        "pt": "MA-4885: Mudança de dimensão 100% concluída. Bem-vindos à dimensão do semiplano.",
+        "es": "MA-4885: Viaje dimensional al 100%. Completado. Están en la dimensión del semiplano."
+    },
+    "MGd2Bw": {
+        "en": "MA-4885: A gateway possible for contact with the demi-plane open at 3 o'clock of the laboratory.",
+        "pt": "MA-4885: Um portal para possível contato com o semiplano se abre do laboratório às 3 horas.",
+        "es": "MA-4885: Se abrió un portal de posible contacto con el semiplano a las 3 en punto del laboratorio."
+    },
+    "MWd2Bw": {
+        "en": "MA-4885: Cannot guarantee what kind of dimension this will be due to the instability of the gateway...",
+        "pt": "MA-4885: Não é possível garantir qual dimensão será contatada devido à instabilidade do portal...",
+        "es": "MA-4885: Imposible determinar tipo de dimensión debido a la inestabilidad del portal…"
+    },
+    "Mmd2Bw": {
+        "en": "MA-4885: If there are any surviving organisms I wish you luck. I hope to see you again.",
+        "pt": "MA-4885: Se houver algum organismo sobrevivente, desejo-lhe boa sorte. Espero vê-lo novamente.",
+        "es": "MA-4885: Si sobrevivió algún organismo, les deseo suerte. Ojalá volvamos a encontrarnos."
+    }
+}

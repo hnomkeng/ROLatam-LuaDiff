@@ -1,0 +1,822 @@
+{
+    "IDB2Ag": {
+        "en": "Blacksmith Kai",
+        "pt": "Ferreiro Kai",
+        "es": "Herrero Kai"
+    },
+    "ITB2Ag": {
+        "en": "You have too many items to proceed with the quest.\nPlease lighten your load and try again.",
+        "pt": "Você tem itens demais para prosseguir com a missão.\nDiminua sua carga e tente novamente.",
+        "es": "Tienes demasiados objetos para continuar con la misión.\nAligera tu carga y vuelve a intentarlo."
+    },
+    "IjB2Ag": {
+        "en": "[Kai]\nFrom now on, I'll stay here quietly and not interrupt anyone until the battle ends.\nDon't worry about me.",
+        "pt": "[Kai]\nDe agora em diante, ficarei aqui em silêncio e não interromperei ninguém até que a batalha termine.\nNão se preocupe comigo.",
+        "es": "[Kai]\nA partir de ahora, me quedaré aquí en silencio sin molestar a nadie hasta que la batalla termine.\nNo te preocupes por mí."
+    },
+    "IzB2Ag": {
+        "en": "[Kai]\nAh...Master.\nI feel so thankful all the time.\nSince I owe you big time, I'll help you with anything anytime.",
+        "pt": "[Kai]\nAh... Mestre.\nEu me sinto muito grato o tempo todo.\nComo estou em dívida com o senhor, eu o ajudarei com qualquer coisa a qualquer momento.",
+        "es": "[Kai]\nAh… líder.\nMe siento tan agradecido.\nTe debo mucho, así que te ayudaré con lo que necesites cuando lo necesites."
+    },
+    "JDB2Ag": {
+        "en": "Make Hervor.",
+        "pt": "Faça o Hervor.",
+        "es": "Forjar a Hervor."
+    },
+    "JTB2Ag": {
+        "en": "Fuse materials.",
+        "pt": "Materiais de fusíveis.",
+        "es": "Fusionar materiales."
+    },
+    "JjB2Ag": {
+        "en": "Relax.",
+        "pt": "Relaxe.",
+        "es": "Relajarse."
+    },
+    "JzB2Ag": {
+        "en": "^FF0000 Valkyrja's Shield is needed in the process of making Hervor.\nYou should not possess any other items except for Valkyrja's Shields in order to proceed with the quest.^FF0000",
+        "pt": "^FF0000 O Escudo de Valquíria é necessário para a fabricação do Hervor.\nVocê não deve ter nenhum outro item, exceto os Escudos de Valquíria, para prosseguir com a missão.",
+        "es": "^FF0000 Necesitas un Escudo de Valkiria para forjar a Hervor.\nSolo puedes llevar Escudos de Valkiria en tu inventario para poder continuar con la misión.^FF0000"
+    },
+    "KDB2Ag": {
+        "en": "^FF0000 Even if the refinement level and cards have been applied, the process requires any one of the Valkyrja's Shields you may have.\nPlease try again after organizing your possessions.^000000",
+        "pt": "^FF0000 Mesmo que o nível de refinamento e as cartas tenham sido aplicados, o processo requer qualquer um dos Escudos de Valquíria que você possa ter.\nTente novamente depois de organizar seus pertences.^000000",
+        "es": "^FF0000 Independientemente de que se haya aplicado el nivel de refinamiento y las cartas, necesitarás un Escudo de Valkiria para completar el proceso.\nInténtalo de nuevo después de reorganizar tus objetos.^000000"
+    },
+    "KTB2Ag": {
+        "en": "Organize possessions.",
+        "pt": "Organize seus pertences.",
+        "es": "Organizar objetos."
+    },
+    "KjB2Ag": {
+        "en": "Continue as it is.",
+        "pt": "Continue como está.",
+        "es": "Continuar así."
+    },
+    "KzB2Ag": {
+        "en": "You've decided to keep Valkyrja's Shields only.",
+        "pt": "Você decidiu manter apenas os Escudos de Valquíria.",
+        "es": "Decidiste quedarte solo con Escudos de Valkiria."
+    },
+    "LDB2Ag": {
+        "en": "[Kai]\nI see that you've developed the fortress as you promised.\nMoreover, you've found Velund's items...",
+        "pt": "[Kai]\nVejo que você desenvolveu a fortaleza como prometeu.\nAlém disso, você encontrou os itens de Velund...",
+        "es": "[Kai]\nVeo que cumpliste tu promesa y mejoraste la fortaleza.\nAdemás, encontraste los objetos de Velund…"
+    },
+    "LTB2Ag": {
+        "en": "[Kai]\n...so..let's get the work done.\nBefore the girls find us...",
+        "pt": "[...]\n... então... vamos fazer o trabalho.\nAntes que as meninas nos encontrem...",
+        "es": "[Kai]\n…así que… a trabajar.\nAntes de que las chicas nos encuentren…"
+    },
+    "LjB2Ag": {
+        "en": "[{0}]\nThe girls...?",
+        "pt": "[{0}]\nAs meninas...?",
+        "es": "[{0}]\n¿Las chicas…?"
+    },
+    "LzB2Ag": {
+        "en": "[Kai]\n... yeah, there were some girls..\nI had to run away because of them...",
+        "pt": "[...]\n... sim, havia algumas meninas...\nEu tive que fugir por causa delas...",
+        "es": "[Kai]\n…Sí, había unas chicas…\nTuve que huir por culpa de ellas…"
+    },
+    "MDB2Ag": {
+        "en": "A girl's voice: Hey, were you talking about us? It's Cano, right? I can't believe you ran away to a place like this.",
+        "pt": "Voz de uma garota: Ei, você estava falando de nós? É o Cano, certo? Não acredito que você fugiu para um lugar como esse.",
+        "es": "Voz femenina: Oye, ¿hablabas de nosotras? Te llamas Kai, ¿verdad? No puedo creer que huyeras a un lugar como este."
+    },
+    "MTB2Ag": {
+        "en": "[Kai]\nOh, no...!\nThey're here..!!",
+        "pt": "[Kai]\nOh, não...!\nEles estão aqui...!",
+        "es": "[Kai]\n¡Ay, no…!\n¡Ya llegaron!"
+    },
+    "MjB2Ag": {
+        "en": "[{0}]\nLeave it to me.",
+        "pt": "[{0}]\nDeixe isso comigo.",
+        "es": "[{0}]\nDéjamelo a mí."
+    },
+    "MzB2Ag": {
+        "en": "^4D4DFF!- Instruction -!\nSoon, 7 girls that are after Kai will try to invade the fortress.\nYou have to protect Kai for 1 hour.^000000",
+        "pt": "^4D4DFF!- Instrução -!\nEm breve, 7 garotas que estão atrás de Kai tentarão invadir a fortaleza.\nVocê precisa proteger Kai por 1 hora.^000000",
+        "es": "^4D4DFF¡- Instrucción -!\nDentro de poco, las 7 chicas que persiguen a Kai intentarán invadir la fortaleza.\nTienes que proteger a Kai durante 1 hora.^000000"
+    },
+    "NDB2Ag": {
+        "en": "^4D4DFF!- Instruction -!\nWhen the actual attack starts, the doorway to the Emperium room will be blocked up for protection  .^000000",
+        "pt": "^4D4DFF!- Instrução -!\nQuando o ataque real começar, a porta da sala do Emperium será bloqueada para proteção.^000000",
+        "es": "^4D4DFF¡- Instrucción -!\nCuando comience el ataque, se bloqueará la entrada de la sala del Emperium como medida de seguridad.^000000"
+    },
+    "NTB2Ag": {
+        "en": "[Kai]\nHervor is a shield named after Hervor the Valkyrie.\nI didn't know this fortress would have the items that used to belong to Velund], a husband of Hervor...",
+        "pt": "[Kai]\nHervor é um escudo que leva o nome de Hervor, a Valquíria.\nEu não sabia que essa fortaleza teria os itens que pertenciam a Velund], marido de Hervor...",
+        "es": "[Kai]\nHervor es un escudo que recibe su nombre de la Valkiria Hervor.\nNo sabía que en esta fortaleza guardaban los objetos que le pertenecieron a Velund], un esposo de Hervor…"
+    },
+    "NjB2Ag": {
+        "en": "[Kai]\nIf we use them, we could make Hervor.\nIt's like a dream come true for me...my hands are shaking.",
+        "pt": "[Kai]\nSe os usarmos, poderemos criar o Hervor.\nÉ como um sonho que se tornou realidade para mim... minhas mãos estão tremendo.",
+        "es": "[Kai]\nCon ellos, podríamos forjar a Hervor.\nEs como un sueño hecho realidad… me tiemblan las manos."
+    },
+    "NzB2Ag": {
+        "en": "[Kai]\nHowever, it seems like we need more materials.\nCould you check again? I'll give you the list of what we need.",
+        "pt": "[Kai]\nNo entanto, parece que precisamos de mais materiais.\nVocê poderia verificar novamente? Eu lhe darei a lista do que precisamos.",
+        "es": "[Kai]\nPero parece que necesitamos más materiales.\n¿Podrías revisar de nuevo? Te daré la lista de lo que necesitamos."
+    },
+    "ODB2Ag": {
+        "en": "[Kai]\n^4D4DFF 2 Velund Hammer\n1 Velund Anvil\n4 Magic Bronze Bullion\n3 Velund Bracelet\n1 Secret Of Rune\n1 Valkyrja's Shield\n1 Muspellium and Essence of Rune, respectively^000000",
+        "pt": "[Kai]\n^4D4DFF 2 Martelos de Velund\n1 Bigorna de Velund\n4 Barras de bronze com poder mágico\n3 Braceletes de Velund\n1 Segredo do Personagem Runa\n1 Escudo de Valquíria\n1 Muspellium e Essência de Runa, respectivamente^000000",
+        "es": "[Kai]\n^4D4DFF2 Martillos de Velund\n1 Yunque de Velund\n4 Lingotes de bronce mágicos\n3 Brazaletes de Velund\n1 El secreto de las runas\n1 Escudo de Valkiria\n1 Muspellium y 1 Esencia de runa^000000."
+    },
+    "OTB2Ag": {
+        "en": "[Kai]\nWe need as many materials as these\nsince it is a crystal of Velund]'s love.\nBy the way, Muspellium and Essence of Rune need to be made separately with additional materials.",
+        "pt": "[Kai]\nPrecisamos de tantos materiais quanto estes\njá que é um cristal do amor de Velund.\nA propósito, o Muspellium e a Essência de Runa precisam ser feitos separadamente com materiais adicionais.",
+        "es": "[Kai]\nNecesitamos todos estos materiales\nya que es un cristal imbuido con el amor de Velund\nPor cierto, el Muspellium y la Esencia de runa se fabrican por separado con otros materiales."
+    },
+    "OjB2Ag": {
+        "en": "[Kai]\nIn order to make Muspellium, you need to ^4D4DFF combine 50 Eluniums and 50 Oridecons^000000.\nFor Essence of Rune, you need to ^4D4DFF combine 200 Ancient Rough Runestones and 100 Mystic Rough Runestones^000000.",
+        "pt": "[Kai]\nPara fazer Muspellium, você precisa ^4D4DFF combinar 50 Eluniums e 50 Oridecons^000000.\nPara obter a Essência de Runa, você precisa combinar ^4D4DFF 200 Pedras Rúnicas Antigas e 100 Pedras Rúnicas Místicas^000000.",
+        "es": "[Kai]\nPara fabricar Muspellium, es necesario ^4D4DFF combinar 50 unidades de Elunium y 50 unidades de Oridecon^000000.\nPara la Esencia de runa, tienes que ^4D4DFF combinar 200 Piedras rúnicas en bruto antiguas y 100 Piedras rúnicas en bruto místicas^000000."
+    },
+    "OzB2Ag": {
+        "en": "[Kai]\nI'll make Muspellium and Essence of Rune anytime upon your request,\nand of course, I'll make Jormungand as soon as we gather all the materials needed.",
+        "pt": "[Kai]\nFarei Muspellium e Essência de Runa a qualquer momento, mediante sua solicitação,\ne, claro, farei Jormungand assim que reunirmos todos os materiais necessários.",
+        "es": "[Kai]\nFabricaré Muspellium y Esencia de runa cuando me lo pidas,\ny, por supuesto, forjaré a Hervor en cuanto tengamos todos los materiales necesarios."
+    },
+    "PDB2Ag": {
+        "en": "[Kai]\nWhat I'm doing is never enough compared to what you've done for me.",
+        "pt": "[Kai]\nO que estou fazendo nunca é suficiente comparado ao que você fez por mim.",
+        "es": "[Kai]\nLo que hago no es nada comparado con lo que has hecho por mí."
+    },
+    "PTB2Ag": {
+        "en": "[Kai]\nHowever, would it be okay if I said something?\nHervor is one of the most powerful battlegears I make and you deserve to receive something like that from me...",
+        "pt": "[Kai]\nNo entanto, tudo bem se eu disser algo?\nHervor é um dos mais poderosos equipamentos de batalha que eu faço e você merece receber algo assim de mim...",
+        "es": "[Kai]\nPero, ¿podría decirte algo?\nHervor es de los escudos más poderosos que forjo y mereces recibir algo así…"
+    },
+    "PjB2Ag": {
+        "en": "[Kai]\nbut I would like you to have the minimum qualification at least.\nManage this fortress well and raise ^4D4DFF its commerce level by 30 or more^000000.",
+        "pt": "[Kai]\nmas eu gostaria que você tivesse pelo menos a qualificação mínima.\nAdministre bem esta fortaleza e aumente ^4D4DFF seu nível de comércio em 30 ou mais^000000.",
+        "es": "[Kai]\npero quisiera que cumplas los requisitos mínimos, al menos.\nAdministra bien esta fortaleza y aumenta ^4D4DFF su nivel de comercio a 30 o superior^000000."
+    },
+    "PzB2Ag": {
+        "en": "[Kai]\nWith great power comes great responsibility and duty.\nI would like you to master the basics first.",
+        "pt": "[Kai]\nCom grande poder vem grande responsabilidade e dever.\nGostaria que você dominasse o básico primeiro.",
+        "es": "[Kai]\nUn gran poder conlleva una gran responsabilidad y un gran deber.\nQuisiera que primero dominaras lo básico."
+    },
+    "QDB2Ag": {
+        "en": "[Kai]\nI'll make you Hervor afterward.\nLet me give you the list of materials if you want.",
+        "pt": "[Kai]\nVou fazer o Hervor para você depois.\nSe quiser, posso lhe dar a lista de materiais.",
+        "es": "[Kai]\nForjaré a Hervor después.\nSi quieres, te doy la lista de materiales."
+    },
+    "QTB2Ag": {
+        "en": "[Kai]\n^4D4DFF 2 Velund Hammer\n1 Velund Anvil\n4 Magic Bronze Bullion\n3 Velund Bracelet\n1 Rune characters' Secret\n1 Valkyrja's Shield\n1 Muspellium and Essence of Rune, respectively^000000",
+        "pt": "[Kai]\n^4D4DFF 2 Martelos de Velund\n1 Bigorna de Velund\n4 Barras de bronze com poder mágico\n3 Braceletes de Velund\n1 Segredo dos personagens das runas\n1 Escudo de Valquíria\n1 Muspellium e Essência de Runa, respectivamente^000000",
+        "es": "[Kai]\n^4D4DFF2 Martillos de Velund\n1 Yunque de Velund\n4 Lingotes de bronce mágicos\n3 Brazaletes de Velund\n1 El secreto de las runas\n1 Escudo de Valkiria\n1 Muspellium y 1 Esencia de runa^000000."
+    },
+    "QjB2Ag": {
+        "en": "[Kai]\nHowever, you won't be able to find Velund]'s items.\n...but people say they definitely appear to those who truly want it. I wish you all the luck.",
+        "pt": "[Kai]\nNo entanto, você não conseguirá encontrar os itens de Velund.\n...mas as pessoas dizem que eles definitivamente aparecem para aqueles que realmente os desejam. Desejo a você toda a sorte.",
+        "es": "[Kai]\nSin embargo, no podrás encontrar los objetos de Velund]\n…pero cuentan que solo aparecen ante quienes los desean de corazón. Te deseo mucha suerte."
+    },
+    "QzB2Ag": {
+        "en": "[Kai]\nWhich material do you want to make?",
+        "pt": "[Kai]\nQue material você quer fazer?",
+        "es": "[Kai]\n¿Qué material quieres fabricar?"
+    },
+    "RDB2Ag": {
+        "en": "Muspellium",
+        "pt": "Muspellium",
+        "es": "Muspellium."
+    },
+    "RTB2Ag": {
+        "en": "Essence of Rune",
+        "pt": "Essência de Runa",
+        "es": "Esencia de runa."
+    },
+    "RjB2Ag": {
+        "en": "Forget it.",
+        "pt": "Esqueça isso.",
+        "es": "Olvidarlo."
+    },
+    "RzB2Ag": {
+        "en": "[Kai]\nI'll make Muspellium with the materials you've prepared.",
+        "pt": "[Kai]\nFarei Muspellium com os materiais que você preparou.",
+        "es": "[Kai]\nFabricaré el Muspellium con los materiales que preparaste."
+    },
+    "SDB2Ag": {
+        "en": "[Kai]\nIt shouldn't take long.\nHere it is.\nIt is an essential material for making Hervor and Jormungand.",
+        "pt": "[Kai]\nNão deve demorar muito.\nAqui está.\nÉ um material essencial para a fabricação de Hervor e Jormungand.",
+        "es": "[Kai]\nNo me tomará mucho tiempo.\nAquí está.\nEs un material esencial para forjar a Hervor y Jormungand."
+    },
+    "STB2Ag": {
+        "en": "[Kai]\nIn order to make Muspellium,\n^4D4DFF you need 50 Eluniums and 50 Oridecons.^000000",
+        "pt": "[Kai]\nPara fazer Muspellium,\n^4D4DFF você precisa de 50 Eluniums e 50 Oridecons.^000000",
+        "es": "[Kai]\nPara fabricar Muspellium,\n^4D4DFF necesitas 50 unidades de Elunium y 50 unidades de Oridecon.^000000"
+    },
+    "SjB2Ag": {
+        "en": "[Kai]\nWe should have all the materials ready, right?",
+        "pt": "[Kai]\nDevemos ter todos os materiais prontos, certo?",
+        "es": "[Kai]\nDebemos tener todos los materiales listos, ¿sí?"
+    },
+    "SzB2Ag": {
+        "en": "[Kai]\nI'll make Essence of Rune with the materials you've prepared.",
+        "pt": "[Kai]\nFarei a Essência de Runa com os materiais que você preparou.",
+        "es": "[Kai]\nFabricaré la Esencia de runa con los materiales que preparaste."
+    },
+    "TDB2Ag": {
+        "en": "[Kai]\nFor Essence of Rune,\n^4D4DFF you need 200 Ancient Rough Runestones and 100 Mystic Rough Runestones.^000000",
+        "pt": "[Kai]\nPara Essência de Runa,\n^4D4DFFvocê precisa de 200 Pedras Rúnicas Ásperas Antigas e 100 Pedras Rúnicas Ásperas Místicas.^000000",
+        "es": "[Kai]\nPara la Esencia de runa,\n^4D4DFF necesitas 200 Piedras rúnicas en bruto antiguas y 100 Piedras rúnicas en bruto místicas.^000000"
+    },
+    "TTB2Ag": {
+        "en": "[Kai]\nSurely, it takes a lot...",
+        "pt": "[Kai]\nCom certeza, é bastante...",
+        "es": "[Kai]\nSé que son muchas cosas…"
+    },
+    "TjB2Ag": {
+        "en": "[Kai]\nTell me whenever you need it.\nI'm glad I can at least do this for you.",
+        "pt": "[Kai]\nDiga-me sempre que precisar.\nFico feliz por poder fazer isso por você.",
+        "es": "[Kai]\nAvísame cuando lo necesites.\nMe alegra poder hacer al menos esto por ti."
+    },
+    "TzB2Ag": {
+        "en": "[Kai]\nAlso, a place where you can find materials for Hervor...\nthis is like a dream place for me, too.",
+        "pt": "[Kai]\nAlém disso, um lugar onde você pode encontrar materiais para o Hervor...\nesse também é um lugar dos sonhos para mim.",
+        "es": "[Kai]\nEs un lugar donde puedes encontrar los materiales para forjar a Hervor…\neste lugar también es como salido de un sueño para mí."
+    },
+    "UDB2Ag": {
+        "en": "[Kai]\nThat is so nice of you to say that.\nBy the way, I wonder how my younger brother Cano is doing?",
+        "pt": "[Kai]\nÉ muito gentil de sua parte dizer isso.\nA propósito, como será que meu irmão mais novo, Cano, está se saindo?",
+        "es": "[Kai]\nEs muy amable de tu parte decir eso.\nPor cierto, ¿cómo estará mi hermano pequeño Cano?"
+    },
+    "UTB2Ag": {
+        "en": "[Kai]\nI'm sure he's doing fine just like I am.\n...I hope things stay as peaceful as they are now.",
+        "pt": "[Kai]\nTenho certeza de que ele está indo bem, assim como eu.\n... Espero que as coisas continuem tão tranquilas como estão agora.",
+        "es": "[Kai]\nSeguramente le está yendo tan bien como a mí.\n…Espero que todo siga tan tranquilo como ahora."
+    },
+    "UjB2Ag": {
+        "en": "[Kai]\nDid you hear the news?\nThe girls are coming.\nThe merciless girls!!!",
+        "pt": "[Kai]\nVocê ouviu as notícias?\nAs meninas estão chegando.\nAs meninas impiedosas!!!",
+        "es": "[Kai]\n¿Ya oíste?\nVienen las chicas.\n¡Las chicas despiadadas!"
+    },
+    "UzB2Ag": {
+        "en": "[Kai]\nThey'll get here any minute since they've declared war already.\nI'm sure they're trying to get Hervor.",
+        "pt": "[Kai]\nEles chegarão a qualquer momento, pois já declararam guerra.\nTenho certeza de que estão tentando pegar o Hervor.",
+        "es": "[Kai]\nDeclararon la guerra, así que llegarán en cualquier momento.\nSeguro que intentan conseguir a Hervor."
+    },
+    "VDB2Ag": {
+        "en": "[Kai]\nStop them. Please!",
+        "pt": "[Kai]\nDetenham-nas. Por favor!",
+        "es": "[Kai]\nDetenlas. ¡Por favor!"
+    },
+    "VTB2Ag": {
+        "en": "Leave it to me.",
+        "pt": "Deixe isso comigo.",
+        "es": "Déjamelo a mí."
+    },
+    "VjB2Ag": {
+        "en": "What do you mean 'the girls?'",
+        "pt": "O que você quer dizer com ''as meninas''?",
+        "es": "¿Cómo que las chicas?"
+    },
+    "VzB2Ag": {
+        "en": "[Kai]\nThank you...\nI'm sorry that I'm causing you troubles, but my hands are tied.",
+        "pt": "[Kai]\nObrigado...\nDesculpe-me por estar lhe causando problemas, mas minhas mãos estão atadas.",
+        "es": "[Kai]\nGracias…\nLamento causarte problemas, pero no puedo hacer nada."
+    },
+    "WDB2Ag": {
+        "en": "[Kai]\nPlease, stop them for me!",
+        "pt": "[Kai]\nPor favor, detenham-nas por mim!",
+        "es": "[Kai]\n¡Por favor, detenlas por mí!"
+    },
+    "WTB2Ag": {
+        "en": "[Kai]\n...They are the girls who want to be Valkyries...\nand they always go around in groups of seven.",
+        "pt": "[Kai]\n...Elas são as garotas que querem ser Valquírias...\ne elas sempre andam em grupos de sete.",
+        "es": "[Kai]\n…Son las chicas que quieren ser Valkirias…\ny siempre van en grupos de siete."
+    },
+    "WjB2Ag": {
+        "en": "[Kai]\nWhat they want is a powerful battlegear...\nThey always threatened my younger brother Cano and me.",
+        "pt": "[Kai]\nO que elas querem é uma poderosa arma de combate...\nEles sempre ameaçaram meu irmão mais novo, Cano, e a mim.",
+        "es": "[Kai]\nQuieren equipamiento poderoso…\nSiempre nos amenazaban a mi hermano menor Cano y a mí."
+    },
+    "WzB2Ag": {
+        "en": "[Kai]\nThey were satisfied with basic weapons at first, but\nsoon they started threatening us saying that they need something more powerful in order to become Valkyries.",
+        "pt": "[Kai]\nNo início, elas estavam satisfeitas com armas básicas, mas\nlogo começaram a nos ameaçar dizendo que precisavam de algo mais poderoso para se tornarem Valquírias.",
+        "es": "[Kai]\nAl principio se conformaban con armas básicas, pero\npronto empezaron a amenazarnos diciendo que necesitaban algo más poderoso para convertirse en Valkirias."
+    },
+    "XDB2Ag": {
+        "en": "[Kai]\nI couldn't stand it, so I ran away...but they're here...\nYou have to be careful since they found out that materials for Hervor are here.",
+        "pt": "[Kai]\nNão aguentei, então fugi... mas elas estão aqui...\nVocê precisa tomar cuidado, pois elas descobriram que os materiais para o Hervor estão aqui.",
+        "es": "[Kai]\nNo podía soportarlo más, así que huí… pero están aquí…\nDebes tener cuidado, ya se enteraron de que aquí están los materiales para Hervor."
+    },
+    "XTB2Ag": {
+        "en": "[Kai]\nAh stop following me around!\nIf you could just get rid of them...Hervor, that's right! I'll make you Hervor!",
+        "pt": "[Kai]\nAh, pare de me seguir!\nSe você pudesse se livrar deles... Hervor, é isso mesmo! Eu o transformarei em Hervor!",
+        "es": "[Kai]\n¡Ah, dejen de seguirme!\nSi tan solo pudieras deshacerte de ellas… ¡Hervor, eso es! ¡Te forjaré a Hervor!"
+    },
+    "XjB2Ag": {
+        "en": "[Kai]\nWhen will they ever stop following me...\nNow I'm scared of girls in general...and I'm too scared to do anything...",
+        "pt": "[Kai]\nQuando é que elas vão parar de me seguir...\nAgora tenho medo de garotas em geral... e estou com muito medo para fazer qualquer coisa...",
+        "es": "[Kai]\n¿Cuándo dejarán de seguirme…?\nAhora me aterran las chicas en general… y estoy demasiado asustado como para hacer algo…"
+    },
+    "XzB2Ag": {
+        "en": "He's babbling now.\nJust wait and he'll calm down.\nYou have to get rid of those girls first.",
+        "pt": "Ele está balbuciando agora.\nEspere e ele se acalmará.\nVocê precisa se livrar dessas garotas primeiro.",
+        "es": "No sabe lo que dice.\nDale algo de tiempo y se calmará.\nPrimero tienes que deshacerte de esas chicas."
+    },
+    "YDB2Ag": {
+        "en": "[Kai]\n...Although I managed to escape from them again...\nit's hard.\nlife is...just so hard.",
+        "pt": "[Kai]\n...Embora eu tenha conseguido escapar delas novamente...\né difícil.\nA vida é... tão difícil.",
+        "es": "[Kai]\n…Aunque logré escapar de ellas otra vez…\nes difícil.\nLa vida es… muy difícil."
+    },
+    "YTB2Ag": {
+        "en": "[Kai]\nI'm so exhausted that I can't do anything.\n...I don't think I can do anything for a while, whether it's producing or smithing or whatever it is.\nI'm sorry. I'll take a break.",
+        "pt": "[Kai]\nEstou tão exausto que não consigo fazer nada.\n...Acho que não vou conseguir fazer nada por um tempo, seja produzir ou forjar ou o que quer que seja.\nSinto muito. Vou dar um tempo.",
+        "es": "[Kai]\nEstoy tan agotado que no puedo hacer nada.\n…No creo que pueda hacer nada por un tiempo, ya sea fabricar materiales, forjar armas o cualquier otra cosa.\nLo siento. Me tomaré un descanso."
+    },
+    "YjB2Ag": {
+        "en": "[Kai]\nI can finally breathe now.\nI'll start making Hervor as promised.",
+        "pt": "[Kai]\nFinalmente posso respirar agora.\nVou começar a fazer a Hervor como prometido.",
+        "es": "[Kai]\nPor fin puedo estar tranquilo.\nEmpezaré a forjar a Hervor como prometí."
+    },
+    "YzB2Ag": {
+        "en": "Not now.",
+        "pt": "Não agora.",
+        "es": "Ahora no."
+    },
+    "ZDB2Ag": {
+        "en": "[Kai]\nOh...thank you.\nI can't believe I'm finally touching these materials myself...",
+        "pt": "[Kai]\nOh... obrigado.\nNão acredito que finalmente estou tocando nesses materiais...",
+        "es": "[Kai]\nAh… gracias.\nNo puedo creer que por fin esté tocando estos materiales con mis propias manos…"
+    },
+    "ZTB2Ag": {
+        "en": "[Kai]\nHere it is.\nWasn't it fast although we had to go through many steps?\nI was so overwhelmed that it felt as short as a moment.",
+        "pt": "[Kai]\nAqui está.\nAté que foi rápido depois de tantas etapas, não?\nEu estava tão sobrecarregado que me pareceu bastante rápido.",
+        "es": "[Kai]\nAquí está.\n¿No te parece que fue rápido aunque tuviéramos que hacer muchas cosas?\nEstaba tan abrumado que me pareció solo un instante."
+    },
+    "ZjB2Ag": {
+        "en": "Hervor, a shield that Blacksmith Velund] made for his wife Hervor, is finally made\nat the hands of Kai.",
+        "pt": "Hervor, um escudo que o Ferreiro Velund fez para sua esposa Hervor, é finalmente construído\npelas mãos de Kai.",
+        "es": "Hervor, el escudo que el herrero Velund] forjó para su esposa Hervor, por fin fue forjado\npor Kai."
+    },
+    "ZzB2Ag": {
+        "en": "Velund]'s gift [ Hervor ] is introduced to this world by [{0}] of [{1}] Guild.",
+        "pt": "O presente de Velund [ Hervor ] é apresentado a este mundo pela [{0}] da guilda [{1}]",
+        "es": "El regalo de Velund], [Hervor], es traído a este mundo por [{0}] del gremio [{1}]"
+    },
+    "aDB2Ag": {
+        "en": "[Kai]\nWhew.. I don't think I can work for a while.\nI'm all exhausted. Hahaha...",
+        "pt": "[Kai]\nAcho que não vou conseguir trabalhar por um tempo.\nEstou exausto. Hahaha...",
+        "es": "[Kai]\nUf… No creo que pueda trabajar por un tiempo.\nEstoy agotado. Ja, ja, ja…"
+    },
+    "aTB2Ag": {
+        "en": "[Kai]\nWe need as many materials as these.\nBy the way, Muspellium and Essence of Rune need to be made separately with additional materials.",
+        "pt": "[Kai]\nPrecisamos de todos esses materiais.\nA propósito, o Muspellium e a Essência de Runa precisam ser feitos separadamente com materiais adicionais.",
+        "es": "[Kai]\nNecesitamos todos estos materiales.\nPor cierto, el Muspellium y la Esencia de runa se fabrican por separado con otros materiales."
+    },
+    "ajB2Ag": {
+        "en": "[Kai]\nNow is actually the right time to make it.\nBy the time next Emperium appears, there won't be any chances left.",
+        "pt": "[Kai]\nAgora é realmente o momento certo para fazer isso.\nQuando o próximo Emperium aparecer, não haverá mais nenhuma chance.",
+        "es": "[Kai]\nAhora es el momento indicado para hacerlo.\nSerá imposible hacerlo cuando aparezca el próximo Emperium."
+    },
+    "azB2Ag": {
+        "en": "[Kai]\nAlso, keep in mind the fact that I can only do this once a week.",
+        "pt": "[Kai]\nAlém disso, lembre-se de que só posso fazer isso uma vez por semana.",
+        "es": "[Kai]\nAdemás, recuerda que solo puedo hacerlo una vez a la semana."
+    },
+    "bDB2Ag": {
+        "en": "[Kai]\nI'm tired a little bit.\nI think I should rest for a few days.\nI may look just fine, but I was mentally very tired.",
+        "pt": "[Kai]\nEstou um pouco cansado.\nAcho que vou descansar por alguns dias.\nPosso parecer bem, mas estou mentalmente muito cansado.",
+        "es": "[Kai]\nEstoy un poco cansado.\nDebería descansar unos días.\nAunque parezca estar bien, estaba muy cansado mentalmente."
+    },
+    "bTB2Ag": {
+        "en": "[Kai]\nIt's strange.\nI can't tell how I feel.\nAm I having some kind of a health problem?\nIs it something uncurable?",
+        "pt": "[Kai]\nÉ estranho.\nNão sei dizer como estou me sentindo.\nEstou com algum tipo de problema de saúde?\nÉ algo incurável?",
+        "es": "[Kai]\nEs extraño.\nNo sé cómo me siento.\n¿Tendré algún problema de salud?\n¿Será algo incurable?"
+    },
+    "bjB2Ag": {
+        "en": "[Kai]\nI feel so grateful all the time about you letting me stay here.\nIt's nothing special...but if you want, I'll make you tools that could be of use.",
+        "pt": "[Kai]\nEu me sinto tão grato o tempo todo por você me deixar ficar aqui.\nNão é nada de especial... mas, se quiser, posso criar ferramentas que podem ser úteis.",
+        "es": "[Kai]\nMe siento muy agradecido de que me dejes quedarme aquí.\nNo es nada del otro mundo… pero si quieres, te haré herramientas que te sirvan."
+    },
+    "bzB2Ag": {
+        "en": "[Kai]\nI mean if the guild master wants it.\nI'm also a master who pursues the ultimate way.\nI hope I can find that way here.",
+        "pt": "[Kai]\nQuero dizer, se o mestre da guilda quiser.\nEu também sou um mestre em busca do caminho definitivo.\nEspero que eu possa encontrar esse caminho aqui.",
+        "es": "[Kai]\nDigo, si el líder del gremio así lo quiere.\nTambién soy un maestro que está buscando el camino definitivo.\nEspero encontrar ese camino aquí."
+    },
+    "cDB2Ag": {
+        "en": "[Kai]\nYou...don't look familiar to me...?\nAre you going to threaten me?\nNo, right?",
+        "pt": "[Kai]\nVocê... não me parece familiar...?\nVai me ameaçar?\nNão, certo?",
+        "es": "[Kai]\nTú… no me resultas familiar…\n¿Vas a amenazarme?\nNo, ¿verdad?"
+    },
+    "cTB2Ag": {
+        "en": "[Kai]\nI have my reasons.\nPlease, pretend not to see me.",
+        "pt": "[Kai]\nTenho meus motivos.\nPor favor, finja que não está me vendo.",
+        "es": "[Kai]\nTengo mis razones.\nPor favor, haz como si no me vieras."
+    },
+    "cjB2Ag": {
+        "en": "Please try again after installing a special item.",
+        "pt": "Tente novamente depois de instalar um item especial.",
+        "es": "Vuelve a intentarlo después de que hayas instalado un objeto especial."
+    },
+    "czB2Ag": {
+        "en": "password?",
+        "pt": "senha?",
+        "es": "¿Contraseña?"
+    },
+    "dDB2Ag": {
+        "en": "Current Status:{0}\n0: Able to proceed with the quest\n1: Proceed with the quest. 10-minute wait\n2: Quest in progress\n3: Quest failed\n4: Able to produce items , 5: Items produced successfully.",
+        "pt": "Status atual:{0}\n0: Capaz de prosseguir com a missão\n1: Prosseguir com a missão. Espera de 10 minutos\n2: Missão em andamento\n3: A missão falhou\n4: Capaz de produzir itens , 5: Itens produzidos com sucesso.",
+        "es": "Estado actual:{0}\n0: Todo listo para continuar con la misión.\n1: Continuar con la misión. Espera de 10 minutos.\n2: Misión en curso.\n3: Misión fallida.\n4: Todo listo para crear objetos. 5: Objetos creados con éxito."
+    },
+    "dTB2Ag": {
+        "en": "Princess Status:{0}\nCurrent Commerce Level of the Fortress:{1}",
+        "pt": "Status da princesa:{0}\nNível de comércio atual da fortaleza:{1}",
+        "es": "Estado de la princesa:{0}\nNivel de comercio de la fortaleza:{1}"
+    },
+    "djB2Ag": {
+        "en": "Do not proceed",
+        "pt": "Não prossiga",
+        "es": "No proceder."
+    },
+    "dzB2Ag": {
+        "en": "Initialization",
+        "pt": "Inicialização",
+        "es": "Inicialización."
+    },
+    "eDB2Ag": {
+        "en": "Raise Commerce Level",
+        "pt": "Aumentar o nível de comércio",
+        "es": "Aumentar el nivel de comercio."
+    },
+    "eTB2Ag": {
+        "en": "Lower Commerce Level",
+        "pt": "Nível Comercial Inferior",
+        "es": "Disminuir el nivel de comercio."
+    },
+    "ejB2Ag": {
+        "en": "Initialize",
+        "pt": "Inicializar",
+        "es": "Inicializar."
+    },
+    "ezB2Ag": {
+        "en": "Raise Commerce Level by 30",
+        "pt": "Aumentar o nível de comércio em 30",
+        "es": "Aumentar el nivel de comercio en 30."
+    },
+    "fDB2Ag": {
+        "en": "Modified Commerce Level:{0}",
+        "pt": "Nível de comércio modificado: {0}",
+        "es": "Nivel de comercio modificado:{0}"
+    },
+    "fTB2Ag": {
+        "en": "Lower Commerce Level by 30",
+        "pt": "Diminuir o nível de comércio em 30",
+        "es": "Reducir el nivel de comercio en 30."
+    },
+    "fjB2Ag": {
+        "en": "Commerce Level gets decreased to 0 since current level is lower than 30.",
+        "pt": "O nível de comércio é reduzido para 0, pois o nível atual é menor que 30.",
+        "es": "El nivel de comercio se reduce a 0 ya que el nivel actual es inferior a 30."
+    },
+    "fzB2Ag": {
+        "en": "Go away",
+        "pt": "Vá embora",
+        "es": "Irse."
+    },
+    "gDB2Ag": {
+        "en": "Girls' voices: Kai~ We already know where you are. It's over!",
+        "pt": "Vozes femininas: Kai~ Nós já sabemos onde você está. Acabou!",
+        "es": "Voces femeninas: Kai. Ya sabemos dónde estás. ¡Se acabó!"
+    },
+    "gTB2Ag": {
+        "en": "Girls' Voices: We'll wait just 10 minutes. If you don't show up in the meantime, we'll storm the fortress!",
+        "pt": "Vozes femininas: Vamos esperar apenas 10 minutos. Se vocês não aparecerem nesse meio tempo, invadiremos a fortaleza!",
+        "es": "Voces femeninas: Esperaremos solo 10 minutos. ¡Si no sales para entonces, asaltaremos la fortaleza!"
+    },
+    "gjB2Ag": {
+        "en": "A girl's voice: Kai! How dare you ignore our warning! So, you have company there, huh? But how long do you think they'll stay with you?!",
+        "pt": "Uma voz de garota: Kai! Como ousa ignorar nosso aviso? Então, você tem companhia, hein? Mas quanto tempo você acha que eles ficarão com você?!",
+        "es": "Voz femenina: ¡Kai! ¡¿Cómo te atreves a ignorar nuestra advertencia?! Conque tienes compañía, ¿eh? ¡¿Pero cuánto tiempo crees que te protegerá?!"
+    },
+    "gzB2Ag": {
+        "en": "You are forced out of the fortress by unknown power.",
+        "pt": "Você é forçado a sair da fortaleza por um poder desconhecido.",
+        "es": "Un poder desconocido te obliga a salir de la fortaleza."
+    },
+    "hDB2Ag": {
+        "en": "Gaebolg in Gloria region is being attacked by a group of unidentified beings.",
+        "pt": "Gaebolg, na região de Glória, está sendo atacada por um grupo de seres não identificados.",
+        "es": "Gaebolg, en la región de Gloria, está bajo el ataque de un grupo de seres no identificados."
+    },
+    "hTB2Ag": {
+        "en": "Raydric",
+        "pt": "Raydric",
+        "es": "Raydric"
+    },
+    "hjB2Ag": {
+        "en": "Khalitzburg",
+        "pt": "Khalitzburg",
+        "es": "Khalitzburg"
+    },
+    "hzB2Ag": {
+        "en": "Abysmal Knight",
+        "pt": "Cavaleiro Abismal",
+        "es": "Abysmal Knight"
+    },
+    "iDB2Ag": {
+        "en": "Dalongee",
+        "pt": "Dalongee",
+        "es": "Dalongee"
+    },
+    "iTB2Ag": {
+        "en": "Summoned Reindeer",
+        "pt": "Renas convocadas",
+        "es": "Summoned Reindeer"
+    },
+    "ijB2Ag": {
+        "en": "Summoned Wolf",
+        "pt": "Lobo invocado",
+        "es": "Summoned Wolf"
+    },
+    "izB2Ag": {
+        "en": "Bloody Knight",
+        "pt": "Cavaleiro Sangrento",
+        "es": "Bloody Knight"
+    },
+    "jDB2Ag": {
+        "en": "High Orc",
+        "pt": "Orc alto",
+        "es": "High Orc"
+    },
+    "jTB2Ag": {
+        "en": "Girls: ...how long do we have to wait?",
+        "pt": "Meninas: ...quanto tempo teremos que esperar?",
+        "es": "Chicas: ¿…Cuánto debemos esperar?"
+    },
+    "jjB2Ag": {
+        "en": "Girls: Hervor should be made for us!",
+        "pt": "Meninas: A Hervor deveria ser feita para nós!",
+        "es": "Chicas: ¡Hervor debería ser nuestro!"
+    },
+    "jzB2Ag": {
+        "en": "Girls: Come on, cut if off! You guys are so persistent!!",
+        "pt": "Meninas: Vamos lá, parem com isso! Vocês são muito persistentes!!!",
+        "es": "Chicas: ¡Vamos, ya basta! ¡Qué persistentes son!"
+    },
+    "kDB2Ag": {
+        "en": "Aira: Ah! I can't take it anymore! Girls, come here!",
+        "pt": "Aira: Ah! Não aguento mais! Meninas, venham aqui!",
+        "es": "Aira: ¡Ah! ¡No aguanto más! ¡Chicas, vengan!"
+    },
+    "kTB2Ag": {
+        "en": "Kai: Oh...no! What are you going to do to me?!",
+        "pt": "Kai: Oh... não! O que você vai fazer comigo?!",
+        "es": "Kai: ¡Ay… no! ¡¿Qué me van a hacer?!"
+    },
+    "kjB2Ag": {
+        "en": "Aira: Mm? Hey Kai. You're going home.",
+        "pt": "Aira: Mm? Ei, Kai. Você vai para casa.",
+        "es": "Aira: ¿Mm? Hola, Kai. Volverás a casa."
+    },
+    "kzB2Ag": {
+        "en": "Kuluna: Yup~ You have to fix my broken wand and make powerful weapons for me once you get back!",
+        "pt": "Kuluna: Sim~ Você tem que consertar minha varinha quebrada e fazer armas poderosas para mim quando voltar!",
+        "es": "Kuluna: Sip. ¡Tienes que reparar mi varita rota y forjarme armas muy poderosas cuando vuelvas!"
+    },
+    "lDB2Ag": {
+        "en": "Ezella: Try to run away again. You'll be sorry, understand?",
+        "pt": "Ezella: Tente fugir de novo. Você vai se arrepender, entendeu?",
+        "es": "Ezella: Intenta huir de nuevo… Y lo lamentarás, ¿entendido?"
+    },
+    "lTB2Ag": {
+        "en": "Nasarin: ... Just take him. Why are you guys talking to him so much?",
+        "pt": "Nasarin: ... Apenas o leve. Por que vocês estão falando tanto com ele?",
+        "es": "Nasarin: … Ya llévenselo. ¿Qué tanto hablan con él?"
+    },
+    "ljB2Ag": {
+        "en": "Aira: You're right! Alright then!",
+        "pt": "Aira: Você tem razão! Então, tudo bem!",
+        "es": "Aira: ¡Tienes razón! ¡Muy bien!"
+    },
+    "lzB2Ag": {
+        "en": "Kai: Oh...No...Noooo!!!!",
+        "pt": "Kai: Oh... Não... Nãooo!!!!",
+        "es": "Kai: Ay… No… ¡Noooo!"
+    },
+    "mDB2Ag": {
+        "en": "You've failed to recapture the fortress. Kai is now gone.",
+        "pt": "Você não conseguiu recapturar a fortaleza. Kai se foi.",
+        "es": "No lograste recuperar la fortaleza. Kai ya no está."
+    },
+    "mTB2Ag": {
+        "en": "Aira",
+        "pt": "Aira",
+        "es": "Aira"
+    },
+    "mjB2Ag": {
+        "en": "Aira: My summon water balls! I'll get you! With my own hands!!",
+        "pt": "Aira: Minhas bolas de água de convocação! Eu vou pegar você! Com minhas próprias mãos!!!",
+        "es": "Aira: ¡Mi Invocación de bolas de agua! ¡Te atraparé! ¡Con mis propias manos!"
+    },
+    "mzB2Ag": {
+        "en": "Bodyguard",
+        "pt": "Guarda-costas",
+        "es": "Guardaespaldas"
+    },
+    "nDB2Ag": {
+        "en": "Aira in a blaze",
+        "pt": "Aira em um incêndio",
+        "es": "Aira en llamas"
+    },
+    "nTB2Ag": {
+        "en": "Kai: aaahh!! The girls broke the shields and made their way into where Emperium is!!!!",
+        "pt": "Kai: aaahh!!! As meninas quebraram os escudos e chegaram onde o Emperium está!!!!",
+        "es": "Kai: ¡Aaaahh! ¡Las chicas rompieron las barreras y llegaron al lugar donde se encuentra el Emperium!"
+    },
+    "njB2Ag": {
+        "en": "Aira: You think I lost? You're wrong! We force our way to where Kai is!!",
+        "pt": "Aira: Você acha que eu perdi? Você está enganado! Vamos abrir nosso caminho à força até onde Kai está!!",
+        "es": "Aira: ¿Crees que perdí? ¡Te equivocas! ¡Nos abrimos paso hasta llegar a donde está Kai!"
+    },
+    "nzB2Ag": {
+        "en": "Kuluna",
+        "pt": "Kuluna",
+        "es": "Kuluna"
+    },
+    "oDB2Ag": {
+        "en": "Kuluna: Hmm? So you're going to be that way? You'd better be ready!",
+        "pt": "Kuluna: Hmm? Então você vai ser assim? É melhor você estar pronto!",
+        "es": "Kuluna: ¿Mmm? Conque así son las cosas. ¡Será mejor que te prepares!"
+    },
+    "oTB2Ag": {
+        "en": "Guardian",
+        "pt": "Guardião",
+        "es": "Guardian"
+    },
+    "ojB2Ag": {
+        "en": "Passionate Kuluna",
+        "pt": "Kuluna apaixonado",
+        "es": "Passionate Kuluna"
+    },
+    "ozB2Ag": {
+        "en": "Kuluna: ... This is called a strategic retreat.",
+        "pt": "Kuluna: ... Isso é chamado de recuo estratégico.",
+        "es": "Kuluna: … Es una retirada estratégica."
+    },
+    "pDB2Ag": {
+        "en": "Mallina",
+        "pt": "Mallina",
+        "es": "Plantilla de"
+    },
+    "pTB2Ag": {
+        "en": "Mallina: Stop it!! Stop bothering me!!",
+        "pt": "Mallina: Pare com isso!!! Pare de me incomodar!!!",
+        "es": "Mallina: ¡Basta! ¡Deja de molestarme!"
+    },
+    "pjB2Ag": {
+        "en": "The Absolute",
+        "pt": "O Absoluto",
+        "es": "The Absolute"
+    },
+    "pzB2Ag": {
+        "en": "Mallina of the Earth",
+        "pt": "Mallina da Terra",
+        "es": "Mallina of the Earth"
+    },
+    "qDB2Ag": {
+        "en": "Mallina: ...Why are you disturbing us so much? But victory will be ours in the end!!",
+        "pt": "Mallina: ...Por que você está nos incomodando tanto? Mas a vitória será nossa no final!!!",
+        "es": "Mallina: ¿…Por qué te interpones en nuestro camino? ¡Al final, la victoria será nuestra!"
+    },
+    "qTB2Ag": {
+        "en": "Ezella",
+        "pt": "Ezella",
+        "es": "Ezella"
+    },
+    "qjB2Ag": {
+        "en": "Ezella: Ahh... This only makes both of us more tired...",
+        "pt": "Ezella: Ahh... Isso só faz com que nós dois fiquemos mais cansados...",
+        "es": "Ezella: Aah… Esto solo nos agota más a ti y a mí…"
+    },
+    "qzB2Ag": {
+        "en": "Convoy",
+        "pt": "Comboio",
+        "es": "Convoy"
+    },
+    "rDB2Ag": {
+        "en": "Ezella of Verdure",
+        "pt": "Ezella de Verdure",
+        "es": "Ezella of Verdure"
+    },
+    "rTB2Ag": {
+        "en": "Ezella: Oh you, a weakling that would just disappear like the wind...!!!",
+        "pt": "Ezella: Ah, você, um fraco que simplesmente desaparece como o vento...!!!",
+        "es": "Ezella: ¡Ah, tú, una persona tan débil que no duraría ni un segundo…!"
+    },
+    "rjB2Ag": {
+        "en": "Lune",
+        "pt": "Lune",
+        "es": "Luna"
+    },
+    "rzB2Ag": {
+        "en": "Lune: ..you want to be drowned in the deep sea? Huh?",
+        "pt": "Lune: ... você quer se afogar no fundo do mar? Hã?",
+        "es": "Lune: ¿…Acaso quieres que te ahoguen en las profundidades del mar? ¿Eh?"
+    },
+    "sDB2Ag": {
+        "en": "Lune of the Eternal Glacier",
+        "pt": "Lune da Geleira Eterna",
+        "es": "Lune of the Eternal Glacier"
+    },
+    "sTB2Ag": {
+        "en": "Lune: ..Alright. Let the battle begin!",
+        "pt": "Lune: ... Tudo bem. Que comece a batalha!",
+        "es": "Lune: …De acuerdo. ¡Que empiece la batalla!"
+    },
+    "sjB2Ag": {
+        "en": "Morin",
+        "pt": "Morin",
+        "es": "Morin"
+    },
+    "szB2Ag": {
+        "en": "Morin: .... ...",
+        "pt": "Morin: .... ...",
+        "es": "Morin: …"
+    },
+    "tDB2Ag": {
+        "en": "Nightmare Gang",
+        "pt": "Gangue do Pesadelo",
+        "es": "Nightmare Gang"
+    },
+    "tTB2Ag": {
+        "en": "Morin of the Abyss",
+        "pt": "Morin do Abismo",
+        "es": "Morin of the Abyss"
+    },
+    "tjB2Ag": {
+        "en": "Morin: It's not...interesting anymore.",
+        "pt": "Morin: Não é mais... interessante.",
+        "es": "Morin: Ya no es… interesante."
+    },
+    "tzB2Ag": {
+        "en": "Nasarin",
+        "pt": "Nasarin",
+        "es": "Nasarin"
+    },
+    "uDB2Ag": {
+        "en": "Nasarin: ..Ahh.. It's so hard to become a Valkyrie!",
+        "pt": "Nasarin: ... Ahh... É tão difícil se tornar uma Valquíria!",
+        "es": "Nasarin: Aah… ¡Es muy difícil convertirse en una Valkiria!"
+    },
+    "uTB2Ag": {
+        "en": "Gang of Poison",
+        "pt": "Gangue do Veneno",
+        "es": "Gang of Poison"
+    },
+    "ujB2Ag": {
+        "en": "Khalitz",
+        "pt": "Khalitz",
+        "es": "Khalitz"
+    },
+    "uzB2Ag": {
+        "en": "Fatal Nasarin",
+        "pt": "Nasarin fatal",
+        "es": "Fatal Nasarin"
+    },
+    "vDB2Ag": {
+        "en": "Nasarin: .. I wasted my time. Kai is in the center of this fortress?",
+        "pt": "Nasarin: ... Perdi meu tempo. Kai está no centro dessa fortaleza?",
+        "es": "Nasarin: … Perdí mi tiempo. ¿Kai está en el centro de esta fortaleza?"
+    },
+    "vTB2Ag": {
+        "en": "You have defeated the girls and recaptured the fortress successfully.",
+        "pt": "Você derrotou as meninas e recapturou a fortaleza com sucesso.",
+        "es": "Derrotaste a las chicas y recuperaste la fortaleza."
+    },
+    "vjB2Ag": {
+        "en": "Test Guide",
+        "pt": "Guia de Teste",
+        "es": "Test Guía"
+    },
+    "vzB2Ag": {
+        "en": "Password?",
+        "pt": "Senha?",
+        "es": "¿Contraseña?"
+    },
+    "wDB2Ag": {
+        "en": "We provide material items needed for testing TE.",
+        "pt": "Fornecemos os itens materiais necessários para o teste de TE.",
+        "es": "Entregamos los materiales necesarios para las pruebas de la EE."
+    },
+    "wTB2Ag": {
+        "en": "Materials for Hervor",
+        "pt": "Materiais para Hervor",
+        "es": "Materiales para Hervor"
+    },
+    "wjB2Ag": {
+        "en": "Materials for Jormungand",
+        "pt": "Materiais para Jormungand",
+        "es": "Materiales para Jormungand"
+    },
+    "wzB2Ag": {
+        "en": "Aww...",
+        "pt": "Ah...",
+        "es": "Ay…"
+    }
+}

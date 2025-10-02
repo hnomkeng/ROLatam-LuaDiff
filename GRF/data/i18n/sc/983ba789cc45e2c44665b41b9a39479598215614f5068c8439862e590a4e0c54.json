@@ -1,0 +1,788 @@
+{
+    "INxfCA": {
+        "ko": "니르엔 대신관",
+        "en": "High Priestess Niren",
+        "pt": "Sacerdotisa Niren",
+        "es": "Sacerdotisa Niren"
+    },
+    "IdxfCA": {
+        "ko": "[니르엔 대신관]\n도움을 요청 드리기엔 아직 경험이 많이 부족해 보이는군요.\n혹시라도 도움을 주고 싶으시다면 80레벨 정도가 됐을 때 다시 찾아 주세요. 의지만으로는 부족합니다.",
+        "en": "[High Priestess Niren]\nIt seems that you're not experienced enough for me to ask for help.\nShould you wish to help, please find me again when you have reached level 80. You cannot help with just your sheer will.",
+        "pt": "[Sacerdotisa Niren]\nVocê não parece ter força o suficiente para ajudar.\nVolte quando seu nível de base for 80 ou mais.",
+        "es": "[Sacerdotisa Niren]\nNo pareces tener fuerza suficiente para ayudar.\nVuelve cuando tu nivel base sea 80 o más."
+    },
+    "ItxfCA": {
+        "ko": "낮에 나온 반달",
+        "en": "Edda Arunafeltz",
+        "pt": "Edda Arunafeltz",
+        "es": "Edda Arunafeltz"
+    },
+    "I9xfCA": {
+        "ko": "[니르엔 대신관]\n^0000CD파티^000000에 가입하지 않으셨군요. 파티를 결성하시고 다시 찾아 주십시오.",
+        "en": "[High Priestess Niren]\nYou are not in a ^0000CDparty^000000. Please come back to me in a party.",
+        "pt": "[Sacerdotisa Niren]\nVocê não está em ^0000CDgrupo^000000. Por favor, faça parte de um para entrar.",
+        "es": "[Sacerdotisa Niren]\nNo estás en un ^0000CDgrupo^000000. Por favor, únete a uno para entrar."
+    },
+    "JNxfCA": {
+        "ko": "[니르엔 대신관]\n모험가님, 오셨군요. 교황님의 꿈은 어땠습니까?",
+        "en": "[High Priestess Niren]\nThere you are. How was Pope's dream?",
+        "pt": "[Sacerdotisa Niren]\nViajante, você está aqui. Como foi o sonho da Papisa?",
+        "es": "[Sacerdotisa Niren]\nAquí estás. ¿Cómo fue el sueño de la Papisa?"
+    },
+    "JdxfCA": {
+        "ko": "[꿈속에서의 교황과 루우민, 크툴라낙스의 일을 상세히 이야기 해준다.]",
+        "en": "[Tell her details of my encounters with Pope, Luwmin, and Ktullanux in the dream.]",
+        "pt": "[Você contou o sonho envolvendo a Papisa, Ktullanux e Loomin]",
+        "es": "[Le contaste el sueño que involucraba a la Papisa, Ktullanux y Loomin]"
+    },
+    "JtxfCA": {
+        "ko": "[니르엔 대신관]\n그렇군요... 크툴라낙스가...",
+        "en": "[High Priestess Niren]\nIs that so... Ktullanux...",
+        "pt": "[Sacerdotisa Niren]\nEntendi... Ktullanux...",
+        "es": "[Sacerdotisa Niren]\nEntiendo... Ktullanux..."
+    },
+    "J9xfCA": {
+        "ko": "[니르엔 대신관]\n그렇다고는 해도 꿈 자체는 교황님의 것이지요. 모험가님 덕분에 교황님의 불안과 생각을 잘 알게 되었습니다.",
+        "en": "[High Priestess Niren]\nEven so, the dream itself belongs to Pope. Thanks to you, Adventurer, I now understand Her Holiness's thoughts and anxieties.",
+        "pt": "[Sacerdotisa Niren]\nDe toda forma, o sonho é da Papisa. Agora entendo a ansiedade dela.",
+        "es": "[Sacerdotisa Niren]\nDe cualquier forma, el sueño es de la Papisa. Ahora entiendo su ansiedad."
+    },
+    "KNxfCA": {
+        "ko": "[니르엔 대신관]\n모험가님의 말씀을 토대로 교황님을 보좌할 방법을 찾아 보겠습니다.",
+        "en": "[High Priestess Niren]\nI will find a way to assist Pope based on your report.",
+        "pt": "[Sacerdotisa Niren]\nNós descobriremos um jeito de ajudar a Papisa baseado nas suas palavras, viajante.",
+        "es": "[Sacerdotisa Niren]\nBuscaremos una manera de ayudar a la Papisa basándonos en tus palabras."
+    },
+    "KdxfCA": {
+        "ko": "[니르엔 대신관]\n그리고 조만간 비밀리에 조사단을 꾸려 크투라낙스를 한 번 찾아가 봐야겠군요.",
+        "en": "[High Priestess Niren]\nAnd I must send a secret expedition party to find Ktullanux soon.",
+        "pt": "[Sacerdotisa Niren]\nE cedo ou tarde, providenciarei um grupo secreto de investigação para visitar Ktullanux.",
+        "es": "[Sacerdotisa Niren]\nY, tarde o temprano, organizaré un grupo secreto de investigación para visitar a Ktullanux."
+    },
+    "KtxfCA": {
+        "ko": "[니르엔 대신관]\n모험가님께 이런 말씀을 드리게 되어 죄송하지만, 내일 또 부탁을 드려도 되겠습니까?",
+        "en": "[High Priestess Niren]\nI'm sorry to ask you of this, but could you help me again tomorrow?",
+        "pt": "[Sacerdotisa Niren]\nPerdão por dizer isso, mas posso pedir um outro favor para você amanhã?",
+        "es": "[Sacerdotisa Niren]\nPerdona que lo diga, pero ¿podría pedirte otro favor mañana?"
+    },
+    "K9xfCA": {
+        "ko": "[니르엔 대신관]\n교황님께서 안정을 찾으셔서 더 이상 꿈에 마음을 뺏기시는 일이 없을 때까지만요.",
+        "en": "[High Priestess Niren]\nUntil Pope finds her peace again and not be robbed of her mind in her dreams.",
+        "pt": "[Sacerdotisa Niren]\nAté a Papisa ficar estável e não se desconcentrar com seus sonhos.",
+        "es": "[Sacerdotisa Niren]\nHasta que la Papisa se estabilice y no se distraiga con sus sueños."
+    },
+    "LNxfCA": {
+        "ko": "[{0}]\n물론이죠. 교황님께도 그렇게 약속 드렸습니다.",
+        "en": "[{0}]\nOf course. I gave the same words to Pope.",
+        "pt": "[{0}]\nClaro. Eu fiz a mesma promessa para a Papisa.",
+        "es": "[{0}]\nClaro. Le hice la misma promesa a la Papisa."
+    },
+    "LdxfCA": {
+        "ko": "[니르엔 대신관]\n정말 감사합니다. 고생이 많으셨습니다.",
+        "en": "[High Priestess Niren]\nThank you so much. You've been a great help.",
+        "pt": "[Sacerdotisa Niren]\nMuito obrigada. Você se esforçou muito.",
+        "es": "[Sacerdotisa Niren]\nMuchas gracias. Te has esforzado mucho."
+    },
+    "LtxfCA": {
+        "ko": "[꿈속에서의 교황과 루우민의 일을 상세히 이야기 해준다.]",
+        "en": "[Tell her details of my encounters with Pope and Luwmin in the dream.]",
+        "pt": "[Você contou o sonho envolvendo a Papisa e Loomin]",
+        "es": "[Le contaste el sueño que involucraba a la Papisa y Loomin]"
+    },
+    "L9xfCA": {
+        "ko": "[니르엔 대신관]\n그렇군요. 역시 루우민이... 모험가님 덕분에 교황님의 불안과 생각을 잘 알게 되었습니다.",
+        "en": "[High Priestess Niren]\nIs that so... Luwmin, of course... Thanks to you, Adventurer, I now understand Her Holiness's thoughts and anxieties.",
+        "pt": "[Sacerdotisa Niren]\nOh... como esperado... Loomin. Sou grata à você, pois agora entendo a ansiedade da Papisa.",
+        "es": "[Sacerdotisa Niren]\nOh... como esperaba... Loomin. Te agradezco, pues ahora entiendo la ansiedad de la Papisa."
+    },
+    "MNxfCA": {
+        "ko": "[니르엔 대신관]\n그리고 조만간 비밀리에 조사단을 꾸려 루우민의 상태를 확인하러 가봐야겠군요.",
+        "en": "[High Priestess Niren]\nAnd I must send a secret expedition party to check on Luwmin soon.",
+        "pt": "[Sacerdotisa Niren]\nE cedo ou tarde, providenciarei um grupo secreto de investigação para conferir a situação de Loomin.",
+        "es": "[Sacerdotisa Niren]\nY, tarde o temprano, organizaré un grupo secreto de investigación para verificar la situación de Loomin."
+    },
+    "MdxfCA": {
+        "ko": "[니르엔 대신관]\n모험가님, ^0000CD용병^000000을 고용하셨군요?",
+        "en": "[High Priestess Niren]\nAdventurer, I see you've hired a ^0000CDmercenary^000000.",
+        "pt": "[Sacerdotisa Niren]\nViajante, você contratou um ^0000CDAssistente Mercenário^000000?",
+        "es": "[Sacerdotisa Niren]\nAventurero, ¿contrataste un ^0000CDAsistente Mercenario^000000?"
+    },
+    "MtxfCA": {
+        "ko": "[니르엔 대신관]\n꿈길은 불안정해서 두 명 이상 들어 갈 수 없습니다. 게다가 교황님께서 낯선 사람을 보면 어떻게 반응하실지...",
+        "en": "[High Priestess Niren]\nThe Dream Passage is unstable and cannot be entered by more than one person. And I'm not certain how Pope will react to strangers in her dream...",
+        "pt": "[Sacerdotisa Niren]\nO caminho dos Sonhos é instável, então, não recomendo entrar mais de uma pessoa. Além disso, imagine a Papisa reagindo ao ver um estranho...",
+        "es": "[Sacerdotisa Niren]\nEl Camino de los Sueños es inestable, así que no recomiendo que entre más de una persona. Además, imagina a la Papisa reaccionando al ver a un extraño..."
+    },
+    "M9xfCA": {
+        "ko": "[니르엔 대신관]\n용병을 ^0000CD돌려 보내시거나 계약 시간이 지난 뒤^000000에 다시 찾아 주십시오.",
+        "en": "[High Priestess Niren]\nPlease dismiss the Mercenary ^0000CDor come back to me after the contract has expired^000000.",
+        "pt": "[Sacerdotisa Niren]\nPor favor, ^0000CDdispense o Assistente Mercenário^000000.",
+        "es": "[Sacerdotisa Niren]\nPor favor, ^0000CDdespide al Asistente Mercenario^000000."
+    },
+    "NNxfCA": {
+        "ko": "[니르엔 대신관]\n모험가님, 와주셨군요. 바쁘신 와중에 시간을 내주셔서 정말 감사드립니다.",
+        "en": "[High Priestess Niren]\nYou have come, Adventurer. I am grateful that you could spare your time.",
+        "pt": "[Sacerdotisa Niren]\nVocê veio. Obrigada por dedicar um tempo da sua jornada aqui.",
+        "es": "[Sacerdotisa Niren]\nViniste. Gracias por dedicar tiempo de tu viaje a esto."
+    },
+    "NdxfCA": {
+        "ko": "[니르엔 대신관]\n오늘도 꿈길을 걸으시겠습니까?",
+        "en": "[High Priestess Niren]\nDo you wish to enter the Dream again?",
+        "pt": "[Sacerdotisa Niren]\nGostaria de trilhar o caminho dos Sonhos?",
+        "es": "[Sacerdotisa Niren]\n¿Te gustaría recorrer el Camino de los Sueños?"
+    },
+    "NtxfCA": {
+        "ko": "네.",
+        "en": "Yes.",
+        "pt": "Sim",
+        "es": "Sí"
+    },
+    "N9xfCA": {
+        "ko": "아니오.",
+        "en": "No.",
+        "pt": "Não",
+        "es": "No"
+    },
+    "ONxfCA": {
+        "ko": "[니르엔 대신관]\n알겠습니다. 그럼, 나중에 다시 찾아 주시길 부탁드리겠습니다.",
+        "en": "[High Priestess Niren]\nVery well. Please come find me again later.",
+        "pt": "[Sacerdotisa Niren]\nTudo bem, peço que retorne quando quiser.",
+        "es": "[Sacerdotisa Niren]\nEstá bien, te pido que regreses cuando quieras."
+    },
+    "OdxfCA": {
+        "ko": "[니르엔 대신관]\n도와주셔서 감사합니다. 그럼 오늘도 꿈길을 개방하겠습니다. 잠시만 기다려 주십시오.",
+        "en": "[High Priestess Niren]\nThank you for your help. I'll open the Dream for you again. Please wait for a moment.",
+        "pt": "[Sacerdotisa Niren]\nObrigada pela sua ajuda. Abrirei o caminho dos sonhos agora, por favor, aguarde.",
+        "es": "[Sacerdotisa Niren]\nGracias por tu ayuda. Abriré el Camino de los Sueños ahora, por favor, espera."
+    },
+    "OtxfCA": {
+        "ko": "[니르엔 대신관]\n꿈길이.. 잘... 열리지 않네요.",
+        "en": "[High Priestess Niren]\nThe Dream... Is not... Opening as it should.",
+        "pt": "[Sacerdotisa Niren]\nO sonho... bom... não abriu.",
+        "es": "[Sacerdotisa Niren]\nEl sueño... bueno... no se abrió."
+    },
+    "O9xfCA": {
+        "ko": "[니르엔 대신관]\n잠시 후에 다시 찾아 주시겠습니까?",
+        "en": "[High Priestess Niren]\nCould you come back in a few moments?",
+        "pt": "[Sacerdotisa Niren]\nPoderia voltar mais tarde?",
+        "es": "[Sacerdotisa Niren]\n¿Podrías volver más tarde?"
+    },
+    "PNxfCA": {
+        "ko": "[니르엔 대신관]\n잠시 후에 꿈길이 개방 됩니다.",
+        "en": "[High Priestess Niren]\nThe Dream will be open soon.",
+        "pt": "[Sacerdotisa Niren]\nApós um tempo, o caminho dos sonhos deve se abrir.",
+        "es": "[Sacerdotisa Niren]\nDespués de un tiempo, el Camino de los Sueños debería abrirse."
+    },
+    "PdxfCA": {
+        "ko": "[니르엔 대신관]\n그럼 오늘도 잘 부탁드립니다.",
+        "en": "[High Priestess Niren]\nI will leave it to you. Thank you.",
+        "pt": "[Sacerdotisa Niren]\nPortanto, te agradeço desde já.",
+        "es": "[Sacerdotisa Niren]\nAsí que te agradezco desde ya."
+    },
+    "PtxfCA": {
+        "ko": "[니르엔 대신관]\n오늘은 이만 푹 쉬십시오.",
+        "en": "[High Priestess Niren]\nTake a good rest.",
+        "pt": "[Sacerdotisa Niren]\nPor favor, descanse por hoje.",
+        "es": "[Sacerdotisa Niren]\nPor favor, descansa por hoy."
+    },
+    "P9xfCA": {
+        "ko": "[니르엔 대신관]\n아직 교황님이 잠에 드시지 않았습니다.",
+        "en": "[High Priestess Niren]\nHer Holiness is not in bed yet.",
+        "pt": "[Sacerdotisa Niren]\nA Papisa ainda não adormeceu.",
+        "es": "[Sacerdotisa Niren]\nLa Papisa aún no se ha dormido."
+    },
+    "QNxfCA": {
+        "ko": "[니르엔 대신관]\n새벽 시간이 지난 후에 다시 찾아 주십시오.",
+        "en": "[High Priestess Niren]\nPlease visit after the dawn.",
+        "pt": "[Sacerdotisa Niren]\nPor favor, volte ao anoitecer.",
+        "es": "[Sacerdotisa Niren]\nPor favor, vuelve al anochecer."
+    },
+    "QdxfCA": {
+        "ko": "[니르엔 대신관]\n모험가님, 용병을 고용하셨군요?",
+        "en": "[High Priestess Niren]\nAdventurer, I see you've hired a mercenary.",
+        "pt": "[Sacerdotisa Niren]\nViajante, você contratou um ^0000CDAssistente Mercenário^000000?",
+        "es": "[Sacerdotisa Niren]\nAventurero, ¿contrataste un ^0000CDAsistente Mercenario^000000?"
+    },
+    "QtxfCA": {
+        "ko": "[니르엔 대신관]\n^0000CD용병을 돌려 보내시거나 계약 시간이 지난 뒤^000000에 다시 찾아 주십시오.",
+        "en": "[High Priestess Niren]\nPlease dismiss the Mercenary ^0000CDor come back to me after the contract has expired^000000.",
+        "pt": "[Sacerdotisa Niren]\nPor favor, ^0000CDdispense o Assistente Mercenário^000000.",
+        "es": "[Sacerdotisa Niren]\nPor favor, ^0000CDdespide al Asistente Mercenario^000000."
+    },
+    "Q9xfCA": {
+        "ko": "[니르엔 대신관]\n꿈길을 걸으시겠습니까?",
+        "en": "[High Priestess Niren]\nAre you ready to enter the Dream?",
+        "pt": "[Sacerdotisa Niren]\nTudo pronto para trilhar o caminho dos Sonhos?",
+        "es": "[Sacerdotisa Niren]\n¿Todo listo para recorrer el Camino de los Sueños?"
+    },
+    "RNxfCA": {
+        "ko": "[니르엔 대신관]\n도와주셔서 감사합니다. 그럼 꿈길을 개방하겠습니다. 잠시만 기다려 주십시오.",
+        "en": "[High Priestess Niren]\nThank you for your help. I'll open the Dream now. Please wait for a moment.",
+        "pt": "[Sacerdotisa Niren]\nObrigada pela sua ajuda. O caminho dos sonhos será aberto, aguarde.",
+        "es": "[Sacerdotisa Niren]\nGracias por tu ayuda. El Camino de los Sueños se abrirá, espera."
+    },
+    "RdxfCA": {
+        "ko": "[니르엔 대신관]\n꿈길이.. 잘... 열리지 않네요. 잠시 후에 다시 찾아 주시겠습니까?",
+        "en": "[High Priestess Niren]\nThe Dream... Is not... Opening as it should. Could you come back in a few moments?",
+        "pt": "[Sacerdotisa Niren]\nO sonho... bom... não abriu. Poderia voltar mais tarde?",
+        "es": "[Sacerdotisa Niren]\nEl sueño... bueno... no se abrió. ¿Podrías volver más tarde?"
+    },
+    "RtxfCA": {
+        "ko": "[니르엔 대신관]\n꿈길을 걸을 준비는 모두 마치셨습니까?",
+        "en": "[High Priestess Niren]\nAre you ready to enter the Dream?",
+        "pt": "[Sacerdotisa Niren]\nTudo pronto para trilhar o caminho dos Sonhos?",
+        "es": "[Sacerdotisa Niren]\n¿Todo listo para recorrer el Camino de los Sueños?"
+    },
+    "R9xfCA": {
+        "ko": "[니르엔 대신관]\n이런... 꿈길이.. 잘... 열리지 않네요. 잠시 후에 다시 찾아 주시겠습니까?",
+        "en": "[High Priestess Niren]\nThe Dream... Is not... Opening as it should. Could you come back in a few moments?",
+        "pt": "[Sacerdotisa Niren]\nO sonho... bom... não abriu. Poderia voltar mais tarde?",
+        "es": "[Sacerdotisa Niren]\nEl sueño... bueno... no se abrió. ¿Podrías volver más tarde?"
+    },
+    "SNxfCA": {
+        "ko": "[니르엔 대신관]\n꿈길을 활성화 하였습니다. 잠시 후 꿈길이 완전히 개방되면 꿈의 통로를 통해 들어가시면 됩니다.",
+        "en": "[High Priestess Niren]\nAdventurer, I see you've hired a mercenary.",
+        "pt": "[Sacerdotisa Niren]\nO caminho dos Sonhos está aberto. Após um tempo, você poderá entrar em um sonho.",
+        "es": "[Sacerdotisa Niren]\nEl Camino de los Sueños está abierto. Después de un tiempo, podrás entrar en un sueño."
+    },
+    "SdxfCA": {
+        "ko": "[니르엔 대신관]\n그럼 무사히 다녀 오십시오.",
+        "en": "[High Priestess Niren]\nI'll pray for your safe return.",
+        "pt": "[Sacerdotisa Niren]\nPor favor, faça sua jornada com segurança.",
+        "es": "[Sacerdotisa Niren]\nPor favor, ten un viaje seguro."
+    },
+    "StxfCA": {
+        "ko": "[니르엔 대신관]\n모험가님, 용병을 고용하셨군요? 지금 드릴 말씀은 극비 사항이라 다른 이가 듣게되면 몹시 곤란합니다.",
+        "en": "[High Priestess Niren]\nAdventurer, you've hired a mercenary? The discussion we're about to have is a top secret. I cannot let others hear this conversation.",
+        "pt": "[Sacerdotisa Niren]\nO caminho dos Sonhos é instável, então, não recomendo entrar mais de uma pessoa. Além disso, imagine a Papisa reagindo ao ver um estranho...",
+        "es": "[Sacerdotisa Niren]\nEl Camino de los Sueños es inestable, así que no recomiendo que entre más de una persona. Además, imagina a la Papisa reaccionando al ver a un extraño..."
+    },
+    "S9xfCA": {
+        "ko": "[니르엔 대신관]\n모험가님께 긴히 부탁을 드릴 것이 있어서 이렇게 만나 뵙고자 청을 드렸습니다.",
+        "en": "[High Priestess Niren]\nI have requested your presence because I have an urgent favor to ask.",
+        "pt": "[Sacerdotisa Niren]\nVocê parece estar bem. Se não tivesse, eu teria que pedir ajuda para outros aventureiros.",
+        "es": "[Sacerdotisa Niren]\nPareces estar bien. Si no fuera así, tendría que pedir ayuda a otros aventureros."
+    },
+    "TNxfCA": {
+        "ko": "[니르엔 대신관]\n모험가님, 마침 잘 와주셨습니다. 그렇지 않아도 모험가님께 한 번 방문해 주십사 청을 넣으려던 참이었습니다.",
+        "en": "[High Priestess Niren]\nThank you for coming, Adventurer. I was about to send a word to you to pay us a visit.",
+        "pt": "[Sacerdotisa Niren]\nVocê veio. Obrigada por dedicar um tempo da sua jornada aqui.",
+        "es": "[Sacerdotisa Niren]\nViniste. Gracias por dedicar tiempo de tu viaje a esto."
+    },
+    "TdxfCA": {
+        "ko": "[니르엔 대신관]\n모험가님께 긴히 부탁을 드릴 것이 있습니다.",
+        "en": "[High Priestess Niren]\nI have an urgent to favor to ask you.",
+        "pt": "[Sacerdotisa Niren]\nTem um favor que gostaria de pedir para aventureiros experientes.",
+        "es": "[Sacerdotisa Niren]\nTengo un favor que quisiera pedirle a aventureros experimentados."
+    },
+    "TtxfCA": {
+        "ko": "[{0}]\n긴한 부탁이라면... 혹시 교황님께 무슨 일이라도 생겼나요?",
+        "en": "[{0}]\nAn urgent matter...? Has somethig happened to Pope?",
+        "pt": "[{0}]\nParece ser importante... aconteceu algo com a Papisa?",
+        "es": "[{0}]\nParece importante... ¿le pasó algo a la Papisa?"
+    },
+    "T9xfCA": {
+        "ko": "[니르엔 대신관]\n먼저 한 가지 당부의 말씀을 드리는 점을 용서하십시오.",
+        "en": "[High Priestess Niren]\nExcuse me for giving you a word of advice.",
+        "pt": "[Sacerdotisa Niren]\nPrimeiro, perdoe-me por te pedir um favor.",
+        "es": "[Sacerdotisa Niren]\nPrimero, perdóname por pedirte un favor."
+    },
+    "UNxfCA": {
+        "ko": "[니르엔 대신관]\n교황님에 관해서는 신전에서 밝혀도 된다고 허가한 것 외에는 발설하는 것은 엄격히 금하는 극비사항입니다. 발설한 자나 들은 사람 모두 엄중한 벌에 처하는 중죄이지요.",
+        "en": "[High Priestess Niren]\nOther than what the Temple has given the approval to publish, you must not utter a word of anything related to Pope. Both who spoke and listened to the secret will face severe punishments.",
+        "pt": "[Sacerdotisa Niren]\nSobre a Papisa, é vedado aos cardeais comentarem sobre a Papisa fora do Santuário, sob pena de punição para o falador e para o ouvinte.",
+        "es": "[Sacerdotisa Niren]\nSobre la Papisa, está prohibido para los cardenales comentar sobre ella fuera del Santuario, bajo pena de castigo para quien hable y para quien escuche."
+    },
+    "UdxfCA": {
+        "ko": "[니르엔 대신관]\n하지만 상황이 상황이고, 모험가님은 믿을만한 사람이라고 판단하는 저를 봐서라도 지금부터 제가 드리는 말씀을 들으시고 청을 수락을 하시든 아니든 오늘의 대화는 절대 비밀로 해주셔야 합니다.",
+        "en": "[High Priestess Niren]\nBut the situation is dire, and I have decided that you are a reliable person. So you must either accept my request or take everything you have heard from me today to your grave.",
+        "pt": "[Sacerdotisa Niren]\nContudo, essa situação é excepcional e aventureiros são de confiança. Escute o que digo, mas mantenha tudo confidencial.",
+        "es": "[Sacerdotisa Niren]\nSin embargo, esta situación es excepcional y los aventureros son de confianza. Escucha lo que digo, pero mantén todo confidencial."
+    },
+    "UtxfCA": {
+        "ko": "[니르엔 대신관]\n아시겠습니까?",
+        "en": "[High Priestess Niren]\nDo you understand?",
+        "pt": "[Sacerdotisa Niren]\nVocê concorda?",
+        "es": "[Sacerdotisa Niren]\n¿Estás de acuerdo?"
+    },
+    "U9xfCA": {
+        "ko": "무슨 일인지도 모르는데.",
+        "en": "But I don't even know what this is about.",
+        "pt": "Não sei...",
+        "es": "No sé..."
+    },
+    "VNxfCA": {
+        "ko": "알겠습니다.",
+        "en": "Very well.",
+        "pt": "Concordo",
+        "es": "Acepto"
+    },
+    "VdxfCA": {
+        "ko": "[{0}]\n저는 저를 믿을 수 없으므로 차라리 듣지 않는 것이 낫겠군요.",
+        "en": "[{0}]\nI don't trust myself, so I'd rather steer clear of this.",
+        "pt": "[{0}]\nEu não confio na minha boca grande, prefiro não saber.",
+        "es": "[{0}]\nNo confío en mi boca grande, prefiero no saber."
+    },
+    "VtxfCA": {
+        "ko": "[니르엔 대신관]\n역시 신중하시군요. 알겠습니다. 그럼 나중에라도 확신이 드신다면 다시 찾아 주시길 부탁드리겠습니다.",
+        "en": "[High Priestess Niren]\nYou are discreet indeed. Very well. Should you later decide that you can commit to this, please come find me again.",
+        "pt": "[Sacerdotisa Niren]\nVocê tem bastante cautela. Gosto disso. Espero te ver em breve.",
+        "es": "[Sacerdotisa Niren]\nEres muy cauteloso. Me gusta eso. Espero verte pronto."
+    },
+    "V9xfCA": {
+        "ko": "[니르엔 대신관]\n지금 드릴 말씀은 극비 사항이라 다른 이가 듣게되면 몹시 곤란합니다.",
+        "en": "[High Priestess Niren]\nThe discussion we're about to have is a top secret. I cannot let others hear this conversation.",
+        "pt": "[Sacerdotisa Niren]\nO que tenho para dizer é confidencial, é difícil para outros ouvirem...",
+        "es": "[Sacerdotisa Niren]\nLo que tengo que decir es confidencial, es difícil que otros lo escuchen..."
+    },
+    "WNxfCA": {
+        "ko": "[니르엔 대신관]\n역시 모험가님은 신뢰할만하다는 생각이 드는군요. 그럼 모험가님을 믿고 말씀 드리겠습니다.",
+        "en": "[High Priestess Niren]\nIndeed, you are a trustworthy person. I will give you the details.",
+        "pt": "[Sacerdotisa Niren]\nEu confio em aventureiros como você.",
+        "es": "[Sacerdotisa Niren]\nConfío en aventureros como tú."
+    },
+    "WdxfCA": {
+        "ko": "[니르엔 대신관]\n모험가님의 추측대로 최근 교황님께 작은 문제가 하나 발생했습니다.",
+        "en": "[High Priestess Niren]\nAs you have guessed, Pope recently had a small issue.",
+        "pt": "[Sacerdotisa Niren]\nComo você bem suspeita, houve um pequeno problema com a Papisa recentemente.",
+        "es": "[Sacerdotisa Niren]\nComo bien sospechas, ha habido un pequeño problema con la Papisa recientemente."
+    },
+    "WtxfCA": {
+        "ko": "[니르엔 대신관]\n^0000CD교황님의 수면시간^000000이 비정상적으로 는것이지요. 그리고 점점 더 늘고 있고요.",
+        "en": "[High Priestess Niren]\n^0000CDHer Holiness's sleeping hours^000000 got abnormally longer than before. And it is getting even longer as we speak.",
+        "pt": "[Sacerdotisa Niren]\nO ^0000CDtempo de sono^000000 da Papisa é anormal. E aumenta cada dia mais.",
+        "es": "[Sacerdotisa Niren]\nEl ^0000CDtiempo de sueño^000000 de la Papisa es anormal. Y aumenta cada día más."
+    },
+    "W9xfCA": {
+        "ko": "[니르엔 대신관]\n처음에는 저녁에 일찍 잠자리에 드시고 그 다음에는 아침에 일어나는 시간이 늦어지시더니 이젠 수시로 잠에 드십니다.",
+        "en": "[High Priestess Niren]\nAt first she went early to bed and gradually awoke later in the morning. But now she falls asleep many times a day.",
+        "pt": "[Sacerdotisa Niren]\nUma pessoa comum dorme à noite e, pela manhã, já está de pé.",
+        "es": "[Sacerdotisa Niren]\nUna persona común duerme de noche y, por la mañana, ya está despierta."
+    },
+    "XNxfCA": {
+        "ko": "[니르엔 대신관]\n그리고 지금도 잠에 드신 상태입니다.",
+        "en": "[High Priestess Niren]\nShe is asleep even now.",
+        "pt": "[Sacerdotisa Niren]\nMas ela continua dormindo.",
+        "es": "[Sacerdotisa Niren]\nPero ella sigue durmiendo."
+    },
+    "XdxfCA": {
+        "ko": "[{0}]\n혹시 건강에 이상이라도 생긴 건가요?",
+        "en": "[{0}]\nIs Her Holiness ill?",
+        "pt": "[{0}]\nEla tem algum problema de saúde?",
+        "es": "[{0}]\n¿Tiene algún problema de salud?"
+    },
+    "XtxfCA": {
+        "ko": "[니르엔 대신관]\n그렇지 않습니다. 저희도 교황님의 건강에 이상이 생긴건 아닐까 하는 생각에 온갖 검사를 해 보았지만 잠이 는 것 외에는 신체 상태는 지극히 양호했습니다.",
+        "en": "[High Priestess Niren]\nShe is not. We too thought that she is unwell and conducted all kinds of tests on her. But other than the unbearable urge to sleep, her health is well.",
+        "pt": "[Sacerdotisa Niren]\nNão. Fizemos vários exames e a condição física da Papisa é ótima, com exceção do excesso de sono.",
+        "es": "[Sacerdotisa Niren]\nNo. Hicimos varios exámenes y la condición física de la Papisa es excelente, excepto por el exceso de sueño."
+    },
+    "X9xfCA": {
+        "ko": "[니르엔 대신관]\n다만.",
+        "en": "[High Priestess Niren]\nHowever.",
+        "pt": "[Sacerdotisa Niren]\nMas...",
+        "es": "[Sacerdotisa Niren]\nPero..."
+    },
+    "YNxfCA": {
+        "ko": "[{0}]\n다만?",
+        "en": "[{0}]\nHowever?",
+        "pt": "[{0}]\n...Mas?",
+        "es": "[{0}]\n...¿Pero?"
+    },
+    "YdxfCA": {
+        "ko": "[니르엔 대신관]\n잠에서 깬 후로 슬픈 표정을 짓거나 자주 다른 생각에 잠기며 집중력을 잃은 모습을 보이고 계십니다. 그리고 곧 다시 잠에 들려고 하시고요.",
+        "en": "[High Priestess Niren]\nWhen she is awake, she often shows sad expressions and is deep in thoughts, distracted. Then she tries to fall asleep again.",
+        "pt": "[Sacerdotisa Niren]\nAssim que a Papisa acorda, ela parece triste, avoada e desconcentrada. Logo em seguida, ela volta a dormir.",
+        "es": "[Sacerdotisa Niren]\nApenas la Papisa despierta, parece triste, distraída y desconcentrada. Inmediatamente después, vuelve a dormir."
+    },
+    "YtxfCA": {
+        "ko": "[니르엔 대신관]\n상황이 이렇게 흐르다 보니 신전 내부에서도 조금씩 말이 나오고 있습니다.",
+        "en": "[High Priestess Niren]\nWith this current situation, people are beginning to whisper about this within the Temple.",
+        "pt": "[Sacerdotisa Niren]\nE a situação é esta. Há muita especulação no Santuário.",
+        "es": "[Sacerdotisa Niren]\nY así está la situación. Hay mucha especulación en el Santuario."
+    },
+    "Y9xfCA": {
+        "ko": "[{0}]\n건강상의 문제도 아니라면, 대체 무슨 문제 때문인지요?",
+        "en": "[{0}]\nIf it's not an illness, then what is the issue?",
+        "pt": "[{0}]\nSe o problema não é saúde, o que pode ser?",
+        "es": "[{0}]\nSi el problema no es la salud, ¿qué podría ser?"
+    },
+    "ZNxfCA": {
+        "ko": "[니르엔 대신관]\n심리적인 문제일겁니다. 제 생각엔 아무래도 잠에 드신 사이 꾸는 ^0000CD꿈^000000에서 무얼 보는 것 같습니다.",
+        "en": "[High Priestess Niren]\nPsychological one, most likely. I think she sees something in her ^0000CDdreams^000000 while she sleeps.",
+        "pt": "[Sacerdotisa Niren]\nSuspeito que seja um problema psicológico. Talvez esteja vendo coisas ^0000CDem seus sonhos^000000.",
+        "es": "[Sacerdotisa Niren]\nSospecho que es un problema psicológico. Tal vez está viendo cosas ^0000CDen sus sueños^000000."
+    },
+    "ZdxfCA": {
+        "ko": "[니르엔 대신관]\n딱 한번, 잠에서 깨어나 ^0000CD가족의 일^000000을 물은 적이 있었거든요.",
+        "en": "[High Priestess Niren]\nThis one time, she woke up and asked about her ^0000CDfamily^000000.",
+        "pt": "[Sacerdotisa Niren]\nUma vez ela acordou perguntando sobre ^0000CDum membro da família^000000.",
+        "es": "[Sacerdotisa Niren]\nUna vez despertó preguntando por ^0000CDun miembro de su familia^000000."
+    },
+    "ZtxfCA": {
+        "ko": "[{0}]\n교황님께도 가족이 있나요...?",
+        "en": "[{0}]\nPope has a family?",
+        "pt": "[{0}]\nA Papisa tem família...?",
+        "es": "[{0}]\n¿La Papisa tiene familia...?"
+    },
+    "Z9xfCA": {
+        "ko": "[니르엔 대신관]\n네. 하지만 교황의 몸으로 신전으로 오기 전의 일은 속세의 일이라 모두 씻어내고 잊어야 합니다.",
+        "en": "[High Priestess Niren]\nYes. But she left all her secular past behind her as she became the Pope. She should have forgotten her past, too.",
+        "pt": "[Sacerdotisa Niren]\nSim, antes de vir ao Santuário com o título de Papisa, ela passa por muitos treinamentos.",
+        "es": "[Sacerdotisa Niren]\nSí, antes de venir al Santuario con el título de Papisa, pasa por muchos entrenamientos."
+    },
+    "aNxfCA": {
+        "ko": "[니르엔 대신관]\n그건 가족에 관해서도 마찬가지이지요.",
+        "en": "[High Priestess Niren]\nAnd her family as well.",
+        "pt": "[Sacerdotisa Niren]\nE acaba esquecendo que possui uma família.",
+        "es": "[Sacerdotisa Niren]\nY termina olvidando que tiene una familia."
+    },
+    "adxfCA": {
+        "ko": "[니르엔 대신관]\n한 시대에 오직 하나. 선택 받은 아이로 태어나 신전으로 들어 옴으로써 여신을 모실 몸으로 다시 태어나는 것이지요.",
+        "en": "[High Priestess Niren]\nThe only soul for an era. As a chosen child, she entered the Temple to be born again as a servant of the Goddess.",
+        "pt": "[Sacerdotisa Niren]\nA Papisa é uma criança escolhida uma vez a cada Era. Ao entrar no Santuário, o corpo dela serve somente à Deusa Freya.",
+        "es": "[Sacerdotisa Niren]\nLa Papisa es una niña elegida una vez cada Era. Al entrar en el Santuario, su cuerpo sirve solo a la Diosa Freya."
+    },
+    "atxfCA": {
+        "ko": "[니르엔 대신관]\n그래서 공식적으로는 교황님께는 속세의 가족은 없습니다.",
+        "en": "[High Priestess Niren]\nSo officially, she has no family in the secular world.",
+        "pt": "[Sacerdotisa Niren]\nEntão, oficialmente, a Papisa não possui família.",
+        "es": "[Sacerdotisa Niren]\nEntonces, oficialmente, la Papisa no tiene familia."
+    },
+    "a9xfCA": {
+        "ko": "[니르엔 대신관]\n그 사실을 잘 알고 계시는 교황님께서 꿈을 꾼 뒤로 가족의 일을 묻는다는 것은 꿈에서 무언가를 본다는 것이지요.",
+        "en": "[High Priestess Niren]\nHer Holiness understands this as well. So she must have seen something in her dreams to ask about her family.",
+        "pt": "[Sacerdotisa Niren]\nEntão, se a Papisa acorda de um sonho e começa a perguntar sobre a família, imagino que esteja vendo algo em seus sonhos.",
+        "es": "[Sacerdotisa Niren]\nEntonces, si la Papisa despierta de un sueño y comienza a preguntar por la familia, imagino que está viendo algo en sus sueños."
+    },
+    "bNxfCA": {
+        "ko": "[{0}]\n하지만 단지 꿈이잖아요?",
+        "en": "[{0}]\nBut they're just dreams?",
+        "pt": "[{0}]\nMas... não é apenas um sonho?",
+        "es": "[{0}]\nPero... ¿no es solo un sueño?"
+    },
+    "bdxfCA": {
+        "ko": "[니르엔 대신관]\n네, 물론 꿈일 뿐이지요. 하지만 저는 그렇게 보고 있지 않습니다. 그리고 그것이 바로 모험가님을 모신 이유이기도 하고요.",
+        "en": "[High Priestess Niren]\nYes, they are just dreams. But I don't see it that way. And that's exactly why I have asked for you.",
+        "pt": "[Sacerdotisa Niren]\nSim, é apenas um sonho, mas eu não vejo dessa forma. E é aí que você entra.",
+        "es": "[Sacerdotisa Niren]\nSí, es solo un sueño, pero yo no lo veo así. Y ahí es donde entras tú."
+    },
+    "btxfCA": {
+        "ko": "[니르엔 대신관]\n교황님은 신전의 사람이라도 함부로 접촉할 수 없습니다. 그런 교황님께 접근을 해야 한다면 누군가를 매수하거나 다른 방법을 써야겠지요.",
+        "en": "[High Priestess Niren]\nContacting Pope is strictly restricted even for those in the Temple. So to approach her, we need to either bribe someone or find another way.",
+        "pt": "[Sacerdotisa Niren]\nNinguém de fora do Santuário pode ter contato com a Papisa sem uma ordem expressa ou outros métodos.",
+        "es": "[Sacerdotisa Niren]\nNadie de fuera del Santuario puede tener contacto con la Papisa sin una orden expresa u otros métodos."
+    },
+    "b9xfCA": {
+        "ko": "[니르엔 대신관]\n하지만 그 방법은 발각될 확률이 매우 높아 불가능합니다.",
+        "en": "[High Priestess Niren]\nBut the risk of getting caught is too high.",
+        "pt": "[Sacerdotisa Niren]\nSe disfarçar de Cardeal do Santuário dificilmente dá certo.",
+        "es": "[Sacerdotisa Niren]\nDisfrazarse de Cardenal del Santuario difícilmente funciona."
+    },
+    "cNxfCA": {
+        "ko": "[니르엔 대신관]\n다른 누구의 의심을 사지 않고 접촉할 방법은 꿈 밖에는 없겠지요. 누군가 감시를 뚫고 교황님의 꿈에 간섭을 하는 것 같습니다.",
+        "en": "[High Priestess Niren]\nDream is the only way to contact her without raising any suspicion. It seems like someone is interfering with her dreams.",
+        "pt": "[Sacerdotisa Niren]\nO único jeito de se aproximar dela é através dos sonhos. Alguém está burlando a segurança e interferindo nos sonhos da Papisa.",
+        "es": "[Sacerdotisa Niren]\nLa única forma de acercarse a ella es a través de los sueños. Alguien está burlando la seguridad e interfiriendo en los sueños de la Papisa."
+    },
+    "cdxfCA": {
+        "ko": "[{0}]\n그게 가능한가요?",
+        "en": "[{0}]\nIs that even possible?",
+        "pt": "[{0}]\nIsso é possível?",
+        "es": "[{0}]\n¿Eso es posible?"
+    },
+    "ctxfCA": {
+        "ko": "[니르엔 대신관]\n확언할 수는 없지만 가능합니다.",
+        "en": "[High Priestess Niren]\nI can't be certain, but it is possible.",
+        "pt": "[Sacerdotisa Niren]\nNão tenho certeza, mas acredito que sim.",
+        "es": "[Sacerdotisa Niren]\nNo estoy segura, pero creo que sí."
+    },
+    "c9xfCA": {
+        "ko": "[니르엔 대신관]\n그리고 한 명, 의심이 가는 사람이 있습니다.",
+        "en": "[High Priestess Niren]\nAnd there is a suspect.",
+        "pt": "[Sacerdotisa Niren]\nE mais, tenho minhas suspeitas de quem seja o intruso.",
+        "es": "[Sacerdotisa Niren]\nAdemás, tengo mis sospechas de quién es el intruso."
+    },
+    "dNxfCA": {
+        "ko": "[니르엔 대신관]\n^0000CD얼음 동굴^000000의 지하 깊숙한 곳에 크툴라낙스에 의해 ^0000CD얼음 속에 봉인^000000 된 교황의 쌍둥이 오빠, ^0000CD루우민.^000000",
+        "en": "[High Priestess Niren]\n^0000CDLuwmin^000000, the ^0000CDtwin brother of Pope,^000000 who got imprisoned by Ktullanux in the deep underground of ^0000CDIce Cave.^000000",
+        "pt": "[Sacerdotisa Niren]\nO ^0000CDirmão gêmeo^000000 da Papisa, ^0000CDLoomin^000000, protegido por ^0000CDKtullanux^000000 na caverna de gelo.",
+        "es": "[Sacerdotisa Niren]\nEl ^0000CDhermano gemelo^000000 de la Papisa, ^0000CDLoomin^000000, protegido por ^0000CDKtullanux^000000 en la Cueva de Hielo."
+    },
+    "ddxfCA": {
+        "ko": "[니르엔 대신관]\n최근의 조사 보고서에 따르면 크툴라낙스의 영향 탓인지 미약한 마력을 띠게 됐다고 하더군요.",
+        "en": "[High Priestess Niren]\nA recent report says that he gained weak magical power perhaps because of Ktullanux.",
+        "pt": "[Sacerdotisa Niren]\nDe acordo com as minhas investigações, a influência de Ktullanux gerou um poder mágico bem fraco.",
+        "es": "[Sacerdotisa Niren]\nSegún mis investigaciones, la influencia de Ktullanux generó un poder mágico bastante débil."
+    },
+    "dtxfCA": {
+        "ko": "[니르엔 대신관]\n한 뱃속에서 한날, 한시에 태어난 쌍둥이니만큼 특별한 교감이 흐르고 있을겁니다.",
+        "en": "[High Priestess Niren]\nHe must share a special bond with Pope as he shared the same womb with her.",
+        "pt": "[Sacerdotisa Niren]\nNascidos da mesma barriga, na mesma hora e no mesmo dia, os gêmeos nasceram com uma sintonia.",
+        "es": "[Sacerdotisa Niren]\nNacidos del mismo vientre, a la misma hora y el mismo día, los gemelos nacieron con una conexión."
+    },
+    "d9xfCA": {
+        "ko": "[니르엔 대신관]\n어쩌다가 꿈을 통해서 교황님과 의식이 닿았다면 꿈을 통해 교황님의 모든 것에 간섭하는 것도 가능하겠지요.",
+        "en": "[High Priestess Niren]\nIf he somehow managed to connect to Pope through a dream, then he can control Her Holiness in all aspects.",
+        "pt": "[Sacerdotisa Niren]\nSe você entrar nos sonhos da Papisa, será possível interferir em todas as coisas da vida dela.",
+        "es": "[Sacerdotisa Niren]\nSi entras en los sueños de la Papisa, será posible interferir en todas las cosas de su vida."
+    },
+    "eNxfCA": {
+        "ko": "[니르엔 대신관]\n무의식이란 방법으로요.",
+        "en": "[High Priestess Niren]\nHe can burrow in her subconsciousness.",
+        "pt": "[Sacerdotisa Niren]\nDe maneira inconsciente.",
+        "es": "[Sacerdotisa Niren]\nDe manera inconsciente."
+    },
+    "edxfCA": {
+        "ko": "[니르엔 대신관]\n현재 교황님의 수면시간이 점점 느는 것으로 보아 누군가 붙잡아 두려고 하거나 교황님께서 스스로 깨고 싶지 않아 하는 것으로 추측됩니다.",
+        "en": "[High Priestess Niren]\nSeeing how Pope is sleeping increasingly longer hours, I suspect that someone is trying to hold her in her dreams or she does not wish to awake.",
+        "pt": "[Sacerdotisa Niren]\nComo o sono da Papisa está se alongando, parece que alguém está interferindo nisso ou a própria Papisa não deseja acordar.",
+        "es": "[Sacerdotisa Niren]\nComo el sueño de la Papisa se está alargando, parece que alguien está interfiriendo en ello o la propia Papisa no desea despertar."
+    },
+    "etxfCA": {
+        "ko": "[니르엔 대신관]\n그래서 교황님의 꿈에 들어가 무슨 일이 일어나고 있는지 보시고 혹시 문제가 있다면 해결해 주셨으면 합니다.",
+        "en": "[High Priestess Niren]\nSo I want you to go into her dreams, find out what is happening, and fix the issue.",
+        "pt": "[Sacerdotisa Niren]\nEntão, peço que entre nos sonhos da Papisa e veja o que está acontecendo. Se encontrar algo errado, espero que corrija.",
+        "es": "[Sacerdotisa Niren]\nEntonces, te pido que entres en los sueños de la Papisa y veas qué está pasando. Si encuentras algo mal, espero que lo corrijas."
+    },
+    "e9xfCA": {
+        "ko": "[{0}]\n하지만 다른 사람의 꿈에 어떻게 들어 가지요?",
+        "en": "[{0}]\nBut how can I enter someone else's dream?",
+        "pt": "[{0}]\nMas como eu vou entrar nos sonhos de alguém?",
+        "es": "[{0}]\nPero ¿cómo voy a entrar en los sueños de alguien?"
+    },
+    "fNxfCA": {
+        "ko": "[니르엔 대신관]\n^0000CD꿈길을 건너는 특수한 장치^000000를 통한다면 가능합니다.",
+        "en": "[High Priestess Niren]\nYou can with a ^0000CDspecial tool that sends you across the Dream^000000.",
+        "pt": "[Sacerdotisa Niren]\nGraças ao ^0000CDPortal dos Sonhos^000000.",
+        "es": "[Sacerdotisa Niren]\nGracias al ^0000CDPortal de los Sueños^000000."
+    },
+    "fdxfCA": {
+        "ko": "[{0}]\n그런데 왜 신전 관계자도 아닌 제가 가야 하는 겁니까?",
+        "en": "[{0}]\nBut why me? I'm not from the Temple.",
+        "pt": "[{0}]\nMas por que eu? Por que não um Cardeal do Santuário?",
+        "es": "[{0}]\nPero ¿por qué yo? ¿Por qué no un Cardenal del Santuario?"
+    },
+    "ftxfCA": {
+        "ko": "[니르엔 대신관]\n자세한 내용은 말씀드릴 수 없지만 현재 아루나펠츠의 상황이, 특히 신전 내부의 사정이 그렇게 좋지 않습니다.",
+        "en": "[High Priestess Niren]\nI can't reveal much details, but the current circumstances in Arunafeltz, especially inside the Temple, is not great.",
+        "pt": "[Sacerdotisa Niren]\nNão posso dar detalhes, mas a situação atual de Arunafeltz não é muito boa, principalmente no Santuário.",
+        "es": "[Sacerdotisa Niren]\nNo puedo dar detalles, pero la situación actual de Arunafeltz no es muy buena, especialmente en el Santuario."
+    },
+    "f9xfCA": {
+        "ko": "[니르엔 대신관]\n자칫 교황님의 현 상태가 정치적으로 이용될 수도 있는 상황입니다.",
+        "en": "[High Priestess Niren]\nPope's current condition may be used as a political leverage.",
+        "pt": "[Sacerdotisa Niren]\n... É uma situação em que o estado da Papisa possa ser explorado politicamente.",
+        "es": "[Sacerdotisa Niren]\n...Es una situación en la que el estado de la Papisa podría ser explotado políticamente."
+    },
+    "gNxfCA": {
+        "ko": "[니르엔 대신관]\n때문에 양쪽 어디에도 치우치지 않는 믿을만하고, 교황님이 마음을 터 놓는 사람을 찾다 고심 끝에 모험가님을 비밀리에 모신 것입니다.",
+        "en": "[High Priestess Niren]\nThat is why I have asked for you, Adventurer. You are a reliable and neutral person, and Pope can speak her mind to you freely.",
+        "pt": "[Sacerdotisa Niren]\nPorque a Papisa é vista como imparcial, mas ela confia nos aventureiros de coração aberto.",
+        "es": "[Sacerdotisa Niren]\nPorque la Papisa es vista como imparcial, pero ella confía en los aventureros de corazón abierto."
+    },
+    "gdxfCA": {
+        "ko": "[니르엔 대신관]\n저는 현 위치에서 자리를 지키며 교황님을 돌보아야 하기에 부득이하게 이렇게 부탁을 드리게 됐습니다.",
+        "en": "[High Priestess Niren]\nMy role is to look after Her Holiness where I am, so I'm asking for your help.",
+        "pt": "[Sacerdotisa Niren]\nPor causa do cargo que ocupo, é meu dever fazer esse tipo de pedido.",
+        "es": "[Sacerdotisa Niren]\nPor el cargo que ocupo, es mi deber hacer este tipo de petición."
+    },
+    "gtxfCA": {
+        "ko": "[니르엔 대신관]\n교황님은 아루나펠츠의 희망이자 꿈입니다.",
+        "en": "[High Priestess Niren]\nPope is the hope and dream of Arunafeltz.",
+        "pt": "[Sacerdotisa Niren]\nA Papisa é o sonho e a esperança de Arunafeltz.",
+        "es": "[Sacerdotisa Niren]\nLa Papisa es el sueño y la esperanza de Arunafeltz."
+    },
+    "g9xfCA": {
+        "ko": "[니르엔 대신관]\n저렇게 꿈을 꾸는 시간이 늘다가 어느 날 영영 잠에서 깨지 않는다면...",
+        "en": "[High Priestess Niren]\nIf she continues to waste away in her dreams and never wakes up...",
+        "pt": "[Sacerdotisa Niren]\nTemo que ela durma e nunca mais acorde novamente...",
+        "es": "[Sacerdotisa Niren]\nTemo que se duerma y nunca vuelva a despertar..."
+    },
+    "hNxfCA": {
+        "ko": "[니르엔 대신관]\n꿈속에서 교황님을 보호하며 무슨 일이 일어나는지 되도록 끝까지 봐주십시오.",
+        "en": "[High Priestess Niren]\nPlease, protect Pope in her dream and make sure to find out what is happening in there.",
+        "pt": "[Sacerdotisa Niren]\nProteja a Papisa em seus sonhos e observe o máximo que puder para ver o que está acontecendo.",
+        "es": "[Sacerdotisa Niren]\nProtege a la Papisa en sus sueños y observa todo lo que puedas para ver qué está pasando."
+    },
+    "hdxfCA": {
+        "ko": "[니르엔 대신관]\n하지만 꿈이니만큼 무엇이 있을지 모릅니다. 교황님이 무엇을 보여주실지, 어떻게 반응하실지는 아무도 모릅니다.",
+        "en": "[High Priestess Niren]\nBut we cannot anticipate what will be in dreams. No one knows what would appear or how she will react.",
+        "pt": "[Sacerdotisa Niren]\nMas como é um sonho, eu não sei o que tem lá. Ninguém sabe como ela irá reagir.",
+        "es": "[Sacerdotisa Niren]\nPero como es un sueño, no sé qué hay allí. Nadie sabe cómo va a reaccionar."
+    },
+    "htxfCA": {
+        "ko": "[니르엔 대신관]\n어쩌면 정말로 위험할 수도 있습니다. 그러니 부디 조심하시길.",
+        "en": "[High Priestess Niren]\nIt could be perilous. So I pray you to be careful.",
+        "pt": "[Sacerdotisa Niren]\nPode ser muito perigoso, então vá com cuidado.",
+        "es": "[Sacerdotisa Niren]\nPuede ser muy peligroso, así que ve con cuidado."
+    },
+    "h9xfCA": {
+        "ko": "[{0}]\n알겠습니다.",
+        "en": "[{0}]\nVery well.",
+        "pt": "[{0}]\nPode deixar.",
+        "es": "[{0}]\nPuedes contar conmigo."
+    },
+    "iNxfCA": {
+        "ko": "[니르엔 대신관]\n이대로 꿈길을 걸으시겠습니까? 아니면 준비가 필요하십니까?",
+        "en": "[High Priestess Niren]\nDo you wish to enter the Dream straight away? Or do you need some time to get ready?",
+        "pt": "[Sacerdotisa Niren]\nGostaria de trilhar o caminho dos Sonhos? Ou precisa se preparar primeiro?",
+        "es": "[Sacerdotisa Niren]\n¿Te gustaría recorrer el Camino de los Sueños? ¿O necesitas prepararte primero?"
+    },
+    "idxfCA": {
+        "ko": "준비가 필요합니다.",
+        "en": "I need to get ready.",
+        "pt": "Preciso me preparar",
+        "es": "Necesito prepararme"
+    },
+    "itxfCA": {
+        "ko": "지금 걷겠습니다.",
+        "en": "I'll enter now.",
+        "pt": "Vamos agora",
+        "es": "Vamos ahora"
+    },
+    "i9xfCA": {
+        "ko": "[니르엔 대신관]\n알겠습니다. 그럼 충분히 준비하시고 꿈길을 걸을 준비를 마치시면 다시 말씀해 주십시오.",
+        "en": "[High Priestess Niren]\nVery well. Make thorough preparations and talk to me again once you are ready.",
+        "pt": "[Sacerdotisa Niren]\nCerto, prepare seus suprimentos e volte aqui quando estiver tudo pronto.",
+        "es": "[Sacerdotisa Niren]\nBien, prepara tus suministros y vuelve aquí cuando estés listo."
+    },
+    "jNxfCA": {
+        "ko": "[니르엔 대신관]\n꿈길을 걸을 준비는 마치셨습니까? 그럼 꿈길을 개방하겠습니다.",
+        "en": "[High Priestess Niren]\nAre you ready to enter the Dream? I'll open the Dream now.",
+        "pt": "[Sacerdotisa Niren]\nTudo certo para trilhar o caminho dos Sonhos? Vou abrir o portal.",
+        "es": "[Sacerdotisa Niren]\n¿Todo listo para recorrer el Camino de los Sueños? Abriré el portal."
+    },
+    "jdxfCA": {
+        "ko": "[니르엔 대신관]\n현재 파티 리더가 아니시군요. 1인 이상 파티를 결성하시고 다시 찾아 주십시오.",
+        "en": "[High Priestess Niren]\nYou are not the party leader now. Please come back with a party of 1 or more.",
+        "pt": "[Sacerdotisa Niren]\nVocê não é líder do grupo. Por favor, crie um grupo e retorne.",
+        "es": "[Sacerdotisa Niren]\nNo eres el líder del grupo. Por favor, crea un grupo y regresa."
+    },
+    "jtxfCA": {
+        "ko": "꿈의 통로",
+        "en": "Dream Passage",
+        "pt": "Portal dos Sonhos",
+        "es": "Portal de los Sueños"
+    },
+    "j9xfCA": {
+        "ko": "[꿈의 통로]\n아직 꿈길을 걸을만한 경험을 쌓지 않으셨군요.",
+        "en": "[Dream Passage]\nI see you're not experienced enough to walk the Dream.",
+        "pt": "[Portal dos Sonhos]\nVocê não tem experiência para entrar nos sonhos de outra pessoa.",
+        "es": "[Portal de los Sueños]\nNo tienes experiencia para entrar en los sueños de otra persona."
+    },
+    "kNxfCA": {
+        "ko": "[꿈의 통로]\n^0000CD80레벨 이상^000000의 경험을 쌓셔야 모험가님께서 견딜 수 있습니다.",
+        "en": "[Dream Passage]\n^0000CD80Level or more^000000 is required for you to withstand the Dream.",
+        "pt": "[Portal dos Sonhos]\nVocê precisa ter o ^0000CDnível de base 80^000000 ou mais.",
+        "es": "[Portal de los Sueños]\nNecesitas tener ^0000CDnivel de base 80^000000 o más."
+    },
+    "kdxfCA": {
+        "ko": "[꿈의 통로]\n다음에 다시 찾아 주십시오.",
+        "en": "[Dream Passage]\nPlease come back again later.",
+        "pt": "[Portal dos Sonhos]\nPor favor, volte mais tarde.",
+        "es": "[Portal de los Sueños]\nPor favor, vuelve más tarde."
+    },
+    "ktxfCA": {
+        "ko": "[꿈의 통로]\n파티 미가입자시군요. ^0000CD1인 이상 파티를 결성^000000하시고 다시 찾아 주십시오.",
+        "en": "[Dream Passage]\nYou are not in a party. Form a party of ^0000CD1or more^000000 and talk to me again.",
+        "pt": "[Portal dos Sonhos]\nVocê não é membro de um grupo. ^0000CDCrie um grupo^000000 e volte mais tarde.",
+        "es": "[Portal de los Sueños]\nNo eres miembro de un grupo. ^0000CDCrea un grupo^000000 y vuelve más tarde."
+    },
+    "k9xfCA": {
+        "ko": "[꿈의 통로]\n꿈길을 가동 하기 위해서는 연결된 사용자가 잠에 들어야 합니다. 새벽 시간이 지난 후에 다시 찾아 주십시오.",
+        "en": "[Dream Passage]\nTo activate the Dream, the linked dreamer must be in sleep. Please visit after the dawn.",
+        "pt": "[Portal dos Sonhos]\nPara entrar em um sonho, a Papisa deve estar dormindo. Por favor, volte ao anoitecer.",
+        "es": "[Portal de los Sueños]\nPara entrar en un sueño, la Papisa debe estar durmiendo. Por favor, vuelve al anochecer."
+    },
+    "lNxfCA": {
+        "ko": "[꿈의 통로]\n안녕하세요. 꿈의 통로입니다. 무엇을 도와 드릴까요?",
+        "en": "[Dream Passage]\nHello. This is the Dream Passage. How can I help?",
+        "pt": "[Portal dos Sonhos]\nOlá, deseja trilhar o caminho dos sonhos?",
+        "es": "[Portal de los Sueños]\nHola, ¿deseas recorrer el Camino de los Sueños?"
+    },
+    "ldxfCA": {
+        "ko": "꿈길을 걷겠습니다.",
+        "en": "I'll enter the Dream.",
+        "pt": "Aventurar-se",
+        "es": "Aventurarse"
+    },
+    "ltxfCA": {
+        "ko": "취소",
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar"
+    },
+    "l9xfCA": {
+        "ko": "[꿈의 통로]\n2인 이상이 함꼐 들어 갈 수 없습니다.",
+        "en": "[Dream Passage]\nCannot be entered by more than one person.",
+        "pt": "[Portal dos Sonhos]\nEssa instância é solo.",
+        "es": "[Portal de los Sueños]\nEsta instancia es en solitario."
+    },
+    "mNxfCA": {
+        "ko": "[꿈의 통로]\n^0000CD용병^000000을 고용하셨다면 돌려 보내시거나 계약 시간이 지난 후 다시 찾아 주십시오.",
+        "en": "[Dream Passage]\nPlease dismiss the ^0000CDMercenary^000000 or come back to me after the contract has expired.",
+        "pt": "[Portal dos Sonhos]\nVocê contratou um ^0000CDAssistente Mercenário^000000. Por favor, ^0000CDdispense o Assistente Mercenário^000000.",
+        "es": "[Portal de los Sueños]\nContrataste un ^0000CDAsistente Mercenario^000000. Por favor, ^0000CDdespide al Asistente Mercenario^000000."
+    },
+    "mdxfCA": {
+        "ko": "[꿈의 통로]\n^FF0000알 수 없는 에러가 발생했습니다.^000000",
+        "en": "[Dream Passage]\n^FF0000An unknown error occurred.^000000",
+        "pt": "[Portal dos Sonhos]\n^FF0000Aconteceu um erro desconhecido.^000000",
+        "es": "[Portal de los Sueños]\n^FF0000Ocurrió un error desconocido.^000000"
+    },
+    "mtxfCA": {
+        "ko": "[꿈의 통로]\n죄송합니다. 꿈길 활성화가 되지 않았습니다.",
+        "en": "[Dream Passage]\nI'm sorry. The Dream is not activated.",
+        "pt": "[Portal dos Sonhos]\nSinto muito, mas o caminho dos sonhos ainda não apareceu.",
+        "es": "[Portal de los Sueños]\nLo siento, pero el Camino de los Sueños aún no ha aparecido."
+    },
+    "m9xfCA": {
+        "ko": "[꿈의 통로]\n니르엔 대신관님께 문의 하시길 바랍니다.",
+        "en": "[Dream Passage]\nPlease inquiry High Priestess Niren.",
+        "pt": "[Portal dos Sonhos]\nPor favor, entre em contato com a Sacerdotisa Niren.",
+        "es": "[Portal de los Sueños]\nPor favor, ponte en contacto con la Sacerdotisa Niren."
+    },
+    "nNxfCA": {
+        "ko": "[꿈의 통로]\n꿈길을 열겠습니다. 즐거운 꿈여행 하시길 바랍니다.",
+        "en": "[Dream Passage]\nThe Dream is open. Enjoy your trip.",
+        "pt": "[Portal dos Sonhos]\nVou abrir o caminho. Te desejo uma ótima viagem.",
+        "es": "[Portal de los Sueños]\nAbriré el camino. Te deseo un buen viaje."
+    },
+    "ndxfCA": {
+        "ko": "{0} 파티의 {1} 파티원이 {2} 에 입장합니다",
+        "en": "{0} party's {1} member's {2} entered party.",
+        "pt": "{0}, o grupo de {1} entrou no Quarto Crescente.",
+        "es": "{0}, el grupo de {1} entró en el Cuarto Creciente."
+    },
+    "ntxfCA": {
+        "ko": "[꿈의 통로]\n꿈 여행은 즐거울 텐데... 정말 재미있을 텐데...",
+        "en": "[Dream Passage]\nTrip to dreams would be exciting... So exciting...!",
+        "pt": "[Portal dos Sonhos]\nA viagem seria muito divertida... de verdade...",
+        "es": "[Portal de los Sueños]\nEl viaje sería muy divertido... de verdad..."
+    },
+    "n9xfCA": {
+        "ko": "[꿈의 통로]\n죄송하지만, 파티의 마스터분만 꿈길을 걸으실 수 있습니다.",
+        "en": "[Dream Passage]\nI'm sorry. Only the party leader can enter the Dream.",
+        "pt": "[Portal dos Sonhos]\nDesculpe, mas apenas o líder do grupo pode entrar nos sonhos.",
+        "es": "[Portal de los Sueños]\nLo siento, pero solo el líder del grupo puede entrar en los sueños."
+    },
+    "oNxfCA": {
+        "ko": "니르엔 대신관",
+        "en": "High Priestess Niren",
+        "pt": "Sacerdotisa Niren",
+        "es": "Sacerdotisa Niren"
+    },
+    "odxfCA": {
+        "ko": "모험가님께",
+        "en": "To Adventurer",
+        "pt": "Valente Viajante",
+        "es": "Valiente Aventurero"
+    },
+    "otxfCA": {
+        "ko": "모험가님께 긴히 드릴 말씀이 있사오니 시간이 허락하신다면 라헬의 중앙 분수대 부근에서 저를 찾아 주십시오. 직접 찾아 뵙고 말씀을 드려야 옳겠지만 여러 가지로 사정이 좋지 못합니다. 그럼 기다리고 있겠습니다. 니르엔 대신관 올림.",
+        "en": "I have an urgent matter to discuss with you. When you have time, please meet me near the Central Fountain of Rachel. I'll be waiting for you. Yours sincerely, High Priestess Niren",
+        "pt": "Eu preciso ter uma longa conversa com você. Se tiver tempo disponível, por favor, encontre-me perto da fonte central de Rachel. Precisamos falar pessoalmente, as coisas não estão boas.",
+        "es": "Necesito tener una larga conversación contigo. Si tienes tiempo disponible, por favor, encuéntrame cerca de la fuente central de Rachel. Debemos hablar en persona, las cosas no están bien."
+    }
+}

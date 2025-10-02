@@ -1,0 +1,638 @@
+{
+    "IFeQBw": {
+        "ko": "병참장교",
+        "en": "Commissary",
+        "pt": "Comissário",
+        "es": "Comisario"
+    },
+    "IVeQBw": {
+        "ko": "[병참장교 아너]\n룬 미드가츠의 귀인들이 신뢰의 표식으로 지급한 명예의 증표를 프론테라의 귀중품으로 바꿔보실 수 있습니다.",
+        "en": "[Commissary Arner]\nYou can exchange the Honor Marks given by the noble people of Run Midgartz as the token of trust with some valuable items of Prontera.",
+        "pt": "[Arner]\nTroque <ITEM>[Marcas de Honra]<INFO>6919</INFO></ITEM>\ndadas pelos nobres de Rune-Midgard\npor alguns itens valiosos.",
+        "es": "[Comisario Arner]\nPuedes canjear las Marcas de honor que te dan los nobles de Rune-Midgarts como muestra de confianza por algunos objetos valiosos de Prontera."
+    },
+    "IleQBw": {
+        "ko": "교환품을 본다.",
+        "en": "Look at the exchange item.",
+        "pt": "Ver itens de troca.",
+        "es": "Ver objetos de intercambio."
+    },
+    "I1eQBw": {
+        "ko": "그만 둔다.",
+        "en": "Stop.",
+        "pt": "Cancelar",
+        "es": "Cancelar"
+    },
+    "JFeQBw": {
+        "ko": "[병참장교 아너]\n프론테라의 명예의 상징과도 같은 물건이군요. 소중히 다뤄주십시오.",
+        "en": "[Commissary Arner]\nThis is a symbol of Prontera's honor. Please handle it with care.",
+        "pt": "[Arner]\nEste é um símbolo da honra de Prontera. Por favor, manuseie-o com cuidado.",
+        "es": "[Comisario Arner]\nEste es un símbolo del honor de Prontera. Por favor, trátelo con cuidado."
+    },
+    "JVeQBw": {
+        "ko": "[병참장교 아너]\n프론테라의 영광을 위하여!",
+        "en": "[Commissary Arner]\nFor the glory of Prontera!",
+        "pt": "[Arner]\nPela glória de Prontera!",
+        "es": "[Comisario Arner]\n¡Por la gloria de Prontera!"
+    },
+    "JleQBw": {
+        "ko": "물류담당자",
+        "en": "Logistics Manager",
+        "pt": "Gerente de Logística",
+        "es": "Gerente de Logística"
+    },
+    "J1eQBw": {
+        "ko": "- 여기서 잠깐 !! -\n- 가지고 계신 아이템이 너무 많아 -\n- 아이템을 받을 수 없습니다. -\n- 몸을 가볍게 하시고 -\n- 다시 시도해주세요. -",
+        "en": "- Wait a minute!! -\n- You have too many items. -\n- You can't receive the items. -\n- Lighten up and -\n- Please try again. -",
+        "pt": "- Espere um minuto!! -\n- Você tem itens demais. -\n- Você não pode receber os itens. -\n- Alivie sua carta e -\n- por favor, tente novamente. -",
+        "es": "- ¡Un momento! -\n- Tiene demasiados artículos. -\n- No puede recibir los artículos. -\n- Relájese y -\n- Inténtelo de nuevo. -"
+    },
+    "KFeQBw": {
+        "ko": "[물류담당 신]\n소문의 연회에 초대된 모험가가 당신인가?\n혹 <명예의 증표>는 없어? 나에게 주지 않겠어?",
+        "en": "[Sin the Logistics Manager]\nAre you the adventurer invited to the banquet every one is talking about?\nDo you have any <Honor Marks>? Would you give them to me?",
+        "pt": "[Sin, o Gerente de Logística]\nSerá que é você de quem estavam tanto falando? A tal pessoa convidada pro banquete e tudo mais...\nVocê tem Marcas de Honra? Não quer me dar algumas?",
+        "es": "[Administrador Sin]\n¿Eres el trotamundos invitado al banquete del que todos hablan?\n¿Tienes algunas <Honor Marks>? ¿Me las darías?"
+    },
+    "KVeQBw": {
+        "ko": "그게 왜 필요하지?",
+        "en": "Why do you need them?",
+        "pt": "Depende. Por que você quer?",
+        "es": "¿Por qué las necesitas?"
+    },
+    "KleQBw": {
+        "ko": "명예의 증표 30개를 준다.",
+        "en": "Give 30 Honor Marks.",
+        "pt": "OK! Aqui estão 30 Marcas de Honra.",
+        "es": "Entregar 30 Marcas de honor."
+    },
+    "K1eQBw": {
+        "ko": "[물류담당 신]\n근면성실하게 일해봐야 티끌 같은 몫을 받으며 평생 그늘에서 살 뿐이야.\n사람이라면 한방이라고 아너 녀석에게 그렇게 말했거늘, 녀석은 너무나 고지식 하지.",
+        "en": "[Sin the Logistics Manager]\nEven if I work so hard here my entire life, I would always live in the shade.\nIf you are a man, you should dream big. I always say that to Arner, but he is just too priggery.",
+        "pt": "[Sin, o Gerente de Logística]\nSe me der ^FF000030 Marcas de Honra^000000, eu posso te dar algo bem útil.\nPreciso dessas marcas porque com elas eu posso ser promovido mais rápido.",
+        "es": "[Administrador Sin]\nAunque trabajara muy duro aquí toda mi vida, siempre viviría en las penumbras.\nEl ser humano debe soñar a lo grande. Siempre se lo digo a Arner, pero es demasiado mojigato."
+    },
+    "LFeQBw": {
+        "ko": "[물류담당 신]\n일확천금을 꿈꾸진 않지만, 사내로 태어난 만큼 어느 정도의 명예를 손에 쥐는 게 꿈이랄까.",
+        "en": "[Sin the Logistics Manager]\nI don't dream of becoming rich overnight, but I do want to have some honor since I am a man.",
+        "pt": "[Sin, o Gerente de Logística]\nNão sonho em ficar rico da noite para o dia, mas quero ter alguma honra, já que sou homem.",
+        "es": "[Administrador Sin]\nNo sueño con hacerme rico de la noche a la mañana, pero quiero tener algo de honor ya que soy un ser humano."
+    },
+    "LVeQBw": {
+        "ko": "[물류담당 신]\n하지만 나 같은 녀석에게 귀족나리들이 대단한 건수를 쥐어줄 리는 없고, 거기 모험가 나리라면 <명예의 증표>를 얻지 않았을까 싶은데.",
+        "en": "[Sin the Logistics Manager]\nThe aristocrats would never let me handle some great opportunity though. However, you may have acquired some <Honor Marks>, right?",
+        "pt": "[Sin, o Gerente de Logística]\nOs aristocratas jamais me deixariam lidar com uma grande oportunidade. No entanto, você pode ter adquirido algumas <Marcas de Honra>, certo?",
+        "es": "[Administrador Sin]\nAunque los aristócratas nunca me dejarían aprovechar una gran oportunidad. Sin embargo, es posible que tengas algunas <Honor Marks>, ¿verdad?"
+    },
+    "LleQBw": {
+        "ko": "[물류담당 신]\n나에게 당신의 ^FF0000<명예의 증표>를 30개^000000만 나눠준다면 내가 아주 괜찮은 물건을 하나 건네주지.\n우리 같은 사람에게 <명예의 증표>는 고속 승진을 약속하는 물건이라서 말이야.",
+        "en": "[Sin the Logistics Manager]\nIf you give me ^FF0000 30 <Honor Marks>^000000, I'll give you something really useful.\nFor people like us, the <Honor Marks> mean rapid promotion.",
+        "pt": "[Sin, o Gerente de Logística]\nSe me der ^FF000030 Marcas de Honra^000000, eu posso te dar algo bem útil.\nPreciso dessas marcas porque com elas eu posso ser promovido mais rápido.",
+        "es": "[Administrador Sin]\nSi me das ^FF0000 30<Honor Marks>^000000, te daré algo realmente útil.\nPara personas como nosotros, las <Honor Marks> son un ascenso rápido."
+    },
+    "L1eQBw": {
+        "ko": "[물류담당 신]\n내가 가진 물건은 포장된 상자인데, 아너 녀석이 가지고 있는 물품 목록 중 하나야.",
+        "en": "[Sin the Logistics Manager]\nWhat I have is a wrapped box which is one of the items that Arner has.",
+        "pt": "[Sin, o Gerente de Logística]\nEu vou te dar uma caixa muito especial.",
+        "es": "[Administrador Sin]\nLo que tengo es una caja envuelta, que es uno de los objetos que tiene Arner."
+    },
+    "MFeQBw": {
+        "ko": "[물류담당 신]\n귀족 증정용으로 만들어진 것이니 물건은 확실해. 다만 안에 뭐가 들었는지는 나도 몰라. 그건 당신의 운에 맡기는 수 밖에.",
+        "en": "[Sin the Logistics Manager]\nIt is authentic for that it has been made to be distributed to the nobility. However, I don't know what's in there. It depends on your luck.",
+        "pt": "[Sin, o Gerente de Logística]\nSei que contém algo que só é entregue para a nobreza. Mas como ela está bem embalada, eu não faço ideia do que seja...",
+        "es": "[Administrador Sin]\nEs auténtico, lo crearon para distribuirlo a la nobleza. Sin embargo, no sé lo que contiene. Depende de tu suerte."
+    },
+    "MVeQBw": {
+        "ko": "[물류담당 신]\n명예의 증표를 모두 모은 뒤엔…… 저 고지식한 아너 녀석을 데리고 해변에 성을 짓고 아늑한 여생을 보낼 거야.\n멍청한 아너 같으니. 내가 없으면 늙어 죽을 때까지 성에서 물건이나 교환하고 있겠지.",
+        "en": "[Sin the Logistics Manager]\nAfter collecting all the Honor Marks, I'll take that build a castle on the shore and spend the rest of my life there with that stubborn Arner.\nThat stupid Arner. If it was not for me, he would stay in the palace exchanging things until he dies.",
+        "pt": "[Sin, o Gerente de Logística]\nDepois de coletar todas as Marcas de Honra, vou construir um castelo na praia e passar o resto da minha vida lá.\nAquele Arner idiota. Se não fosse por mim, ele ficaria no palácio trocando coisas até morrer.",
+        "es": "[Administrador Sin]\nDespués de reunir todas las Marcas de honor, construiré un castillo en la costa y pasaré el resto de mi vida con el testarudo de Arner.\nEse estúpido Arner. Si no fuera por mí, se quedaría en el palacio canjeando cosas hasta su muerte."
+    },
+    "MleQBw": {
+        "ko": "[물류담당 신]\n30개가 필요하다고 말했을 텐데?",
+        "en": "[Sin the Logistics Manager]\nI have told you I need 30 of them.",
+        "pt": "[Sin, o Gerente de Logística]\nVocê não tem 30 Marcas, né?",
+        "es": "[Administrador Sin]\nTe dije que necesito30."
+    },
+    "M1eQBw": {
+        "ko": "[물류담당 신]\n고마워. 잘 받았다. 약속한 물건이야.",
+        "en": "[Sin the Logistics Manager]\nThank you. This is the thing I have promised.",
+        "pt": "[Sin, o Gerente de Logística]\nMuito obrigado. Aqui está uma recompensa de agradecimento.",
+        "es": "[Administrador Sin]\nGracias. Esto es lo que prometí."
+    },
+    "NFeQBw": {
+        "ko": "궁정의 악사",
+        "en": "Court Musician",
+        "pt": "Artista",
+        "es": "Músico de la Corte"
+    },
+    "NVeQBw": {
+        "ko": "[궁정악사 오린트]\n업무중 잡담은 금지입니다.",
+        "en": "[Court Musician Orint]\nChatting is forbidden while working.",
+        "pt": "[Orint, o Bardo da Corte]\nDesculpe, não posso conversar no meu trabalho.",
+        "es": "[Bardo de la Corte Orint]\nEstá prohibido conversar mientras se trabaja."
+    },
+    "NleQBw": {
+        "ko": "한 곡 부탁합니다",
+        "en": "Please play a song",
+        "pt": "Toque uma música, por favor.",
+        "es": "Por favor, toca una canción."
+    },
+    "N1eQBw": {
+        "ko": "대화를 마친다",
+        "en": "Wrap up the conversation",
+        "pt": "Cancelar.",
+        "es": "Concluir la conversación."
+    },
+    "OFeQBw": {
+        "ko": "[궁정악사 오린트]",
+        "en": "[Court Musician Orint]",
+        "pt": "[Orint, o Bardo da Corte]",
+        "es": "[Bardo de la Corte Orint]"
+    },
+    "OVeQBw": {
+        "ko": "<I miss you>를 들려드리겠습니다.",
+        "en": "I'll play <I miss you>.",
+        "pt": "Eu vou tocar <Saudade>.",
+        "es": "Tocaré <I miss you>."
+    },
+    "OleQBw": {
+        "ko": "<Alpen Rose>를 들려드리겠습니다.",
+        "en": "I'll play <Alpen Rose>.",
+        "pt": "Eu vou tocar <Rosa dos Alpes>.",
+        "es": "Tocaré <Alpen Rose>."
+    },
+    "O1eQBw": {
+        "ko": "<Tales of East>를 들려드리겠습니다.",
+        "en": "I'll play <Tales of East>.",
+        "pt": "Eu vou tocar <Contos do Leste>.",
+        "es": "Tocaré <Tales of East>."
+    },
+    "PFeQBw": {
+        "ko": "<Dream of Whale>를 들려드리겠습니다.",
+        "en": "I'll play <Dream of Whale>.",
+        "pt": "Eu vou tocar <Sonho Jubarte>.",
+        "es": "Tocaré <Dream of Whale>."
+    },
+    "PVeQBw": {
+        "ko": "<Dazzling Snow>를 들려드리겠습니다.",
+        "en": "I'll play <Dazzling Snow>.",
+        "pt": "Eu vou tocar <Nevasca Deslumbrante>.",
+        "es": "Tocaré <Dazzling Snow>."
+    },
+    "PleQBw": {
+        "ko": "<Marschmallow Waltz>를 들려드리겠습니다.",
+        "en": "I'll play <Marschmallow Waltz>.",
+        "pt": "Eu vou tocar <Valsa Marshmallow>.",
+        "es": "Tocaré <Marschmallow Waltz>."
+    },
+    "P1eQBw": {
+        "ko": "<Eclage>를 들려드리겠습니다.",
+        "en": "I'll play <Eclage>.",
+        "pt": "Eu vou tocar <Eclage>.",
+        "es": "Tocaré <Eclage>."
+    },
+    "QFeQBw": {
+        "ko": "<One Step Closer>를 들려드리겠습니다.",
+        "en": "I'll play <One Step Closer>.",
+        "pt": "Eu vou tocar <Um Passo Mais Próximo>.",
+        "es": "Tocaré <One Step Closer>."
+    },
+    "QVeQBw": {
+        "ko": "<Not so Far away>를 들려드리겠습니다.",
+        "en": "I'll play <Not so Far away>.",
+        "pt": "Eu vou tocar <Não Tão Longe>.",
+        "es": "Tocaré <Not so Far away>."
+    },
+    "QleQBw": {
+        "ko": "<Theme of Alberta>를 들려드리겠습니다.",
+        "en": "I'll play <Theme of Alberta>.",
+        "pt": "Eu vou tocar <Tema de Alberta>.",
+        "es": "Tocaré <Theme of Alberta>."
+    },
+    "Q1eQBw": {
+        "ko": "<Splendide Dreams>를 들려드리겠습니다.",
+        "en": "I'll play <Splendide Dreams>.",
+        "pt": "Eu vou tocar <Sonhos Esplêndidos>.",
+        "es": "Tocaré <Splendide Dreams>."
+    },
+    "RFeQBw": {
+        "ko": "<Jittering Nightmare>를 들려드리겠습니다.",
+        "en": "I'll play <Jittering Nightmare>.",
+        "pt": "Eu vou tocar <Pesadelo Trêmulo>.",
+        "es": "Tocaré <Jittering Nightmare>."
+    },
+    "RVeQBw": {
+        "ko": "<Yuna Song>을 들려드리겠습니다.",
+        "en": "I'll play <Yuna Song>.",
+        "pt": "Eu vou tocar <Canção de Yuna>.",
+        "es": "Tocaré <Yuna Song>."
+    },
+    "RleQBw": {
+        "ko": "준비된 곡은 아닙니다만…\n이번은 저의 추천음악을 들어보시는 건 어떻습니까?",
+        "en": "This is not a song in the program...\nHow about listening to a song I recommend?",
+        "pt": "...",
+        "es": "Esta no es una canción del repertorio…\n¿Qué tal si escuchas una canción que te recomiendo?"
+    },
+    "R1eQBw": {
+        "ko": "[궁정악사 오린트]\n슬픈 이야기가 잠들어 있는 <Good Morning>을 들려드리겠습니다.",
+        "en": "[Court Musician Orint]\nI'll play <Good Morning> which has a sad story behind it.",
+        "pt": "[Orint, o Bardo da Corte]\nEu vou tocar <Bom Dia>, uma música linda, com uma história trágica por trás.",
+        "es": "[Bardo de la Corte Orint]\nTocaré <Good Morning>, que cuenta una historia triste."
+    },
+    "SFeQBw": {
+        "ko": "아닛 이 음악은!!",
+        "en": "Oh, this music is!",
+        "pt": "Eu conheço essa música!",
+        "es": "¡Esta música es…!"
+    },
+    "SVeQBw": {
+        "ko": "작품성에 비해 널리 알려지지 않았다는 비운의 명곡이군요.",
+        "en": "Oh, this is the song of misfortune which has been forgotten despite its musical value.",
+        "pt": "Nossa! Essa música caiu no esquecimento, não?",
+        "es": "Ah, esta es la canción de desgracia que ha sido olvidada a pesar de su valor musical."
+    },
+    "SleQBw": {
+        "ko": "저 음악은 선대왕이 발견되었다는 섬의… 괜찮을까요?",
+        "en": "Isn't the song about the island where the former king has been found... Would it be OK?",
+        "pt": "Essa não é aquela música sobre o antigo rei? Será que não é deselegante tocá-la aqui...?",
+        "es": "¿No es la canción sobre la isla donde encontraron al antiguo rey…? ¿Es esa?"
+    },
+    "S1eQBw": {
+        "ko": "[궁정악사 옥시]\n이런 곳에서 합주하는 게 꿈이었어요. 그렇지 오린트?",
+        "en": "[Court Musician Occi]\nIt has been our dream to ensemble in a place like this. Am I right, Orint?",
+        "pt": "[Musa da Corte]\nTrabalhar aqui tem sido um sonho. Não é mesmo, Orint?",
+        "es": "[Nómada de la Corte Occi]\nSiempre fue nuestro sueño tocar juntos en un lugar como este. ¿Tengo razón, Orint?"
+    },
+    "TFeQBw": {
+        "ko": "[궁정악사 오린트]\n업무중 잡담은 금지야.",
+        "en": "[Court Musician Orint]\nChatting while working is prohibited.",
+        "pt": "[Orint, o Bardo da Corte]\nÉ proibido conversar enquanto se trabalha.",
+        "es": "[Bardo de la Corte Orint]\nEstá prohibido charlar mientras se trabaja."
+    },
+    "TVeQBw": {
+        "ko": "[궁정악사 옥시]\n네에네에~ 재미없긴. 뭐, 그런 성실한 면이 네 매력이긴 하지만. 후훗.",
+        "en": "[Court Musician Occi]\nYes, I see. You are so boring. But it is part of your charm, haha.",
+        "pt": "[Musa da Corte]\nAi, ai... Você é muito chato. Mas é por isso que somos amigos, haha.",
+        "es": "[Nómada de la Corte Occi]\nSí, ya veo. Eres tan aburrido. Pero es parte de tu encanto, ja, ja."
+    },
+    "TleQBw": {
+        "ko": "[궁정악사 엘리]\n드윗! 저 귀족들을 봐요. 정말 아름답지 않아요?",
+        "en": "[Court Musician Ellie]\nDwit! Look at the nobility over there. Aren't they beautiful?",
+        "pt": "[Musa da Corte]\nEi, Dwit! Olhe os nobres logo ali. Eles não são elegantes?",
+        "es": "[Música de corte Ellie]\n¡Dwit! Mira a los nobles allí. ¿No son hermosos?"
+    },
+    "T1eQBw": {
+        "ko": "[궁정악사 드윗]\n흠. 그래. 하지만 너와도 제법 어울리는 풍경이지 않나.\n언젠가 네가 파란 드레스를 입고 춤추며 노래 해준다면 내가 아름다운 기타 연주를 곁들여 주지.",
+        "en": "[Court Musician Dwit]\nHum, yes they are. I think you would fit in there perfectly though.\nOne day, I'll play the guitar next to you dancing and singing in a blue dress.",
+        "pt": "[Dwit, Bardo da Corte]\nHum, é, são mesmo. Mas acho que você se encaixaria ao lado deles perfeitamente.\nUm dia, estarei tocando meu violão logo ao seu lado, e você estará dançando ao som da minha melodia trajando um belo vestido azul.",
+        "es": "[Bardo de la Corte Dwit]\nMmm, sí que lo son. Aunque creo que encajarías allí perfectamente.\nAlgún día tocaré la guitarra a tu lado, bailando y cantando, con un vestido azul."
+    },
+    "UFeQBw": {
+        "ko": "[궁정악사 옥시]\n하하. 그 파란 드레스를 입은 여자, 사실은 나 일지도 몰라~",
+        "en": "[Court Musician Occi]\nHaha, that woman in the blue dress, it could be me!",
+        "pt": "[Musa da Corte]\nHaha, aquela mulher de vestido azul, poderia ser eu!",
+        "es": "[Nómada de la Corte Occi]\nJa, ja, esa mujer del vestido azul, ¡podría ser yo!"
+    },
+    "UVeQBw": {
+        "ko": "[궁정악사 드윗]\n내가 너희 쌍둥이 자매를 구분하지 못할 거라 생각한다면 오산이야 옥시. 난 너희의 발걸음, 숨소리 조차 구분할 수 있으니까 말이지.",
+        "en": "[Court Musician Dwit]\nYou are mistaken if you think I cannot distinguish you twin sisters, Occi. I can tell your differences from the steps you take and the sound of your breath.",
+        "pt": "[Dwit, Bardo da Corte]\nVocê se engana se acha que não consigo distinguir as duas irmãs gêmeas, Occi. Consigo distinguir as diferenças pelos passos que dão e pelo som da respiração.",
+        "es": "[Bardo de la Corte Dwit]\nSe equivocan si creen que no puedo distinguirlas como hermanas gemelas, Occi. Puedo nombrar sus diferencias por la forma de caminar y el sonido de la respiración."
+    },
+    "UleQBw": {
+        "ko": "[궁정악사 드윗]\n오린트를 처음 봤을 땐 금욕적이고 모든 것에 무관심한 재미없는 녀석일 거라 생각했는데, 오히려 굉장한 집중력과 소유욕을 가진 녀석이었어.",
+        "en": "[Court Musician Dwit]\nWhen I first met Orint, I thought he was stoic and unconcerned. However, he turned out to be a man of extraordinary concentration and possessiveness.",
+        "pt": "[Dwit, Bardo da Corte]\nQuando eu conheci Orint, achei que ele fosse um homem insensível e rude. Mas ele provou ser um homem de muita concentração.",
+        "es": "[Bardo de la Corte Dwit]\nCuando conocí a Orint, pensé que era estoico y despreocupado. Sin embargo, resultó ser un hombre extraordinariamente concentrado y posesivo."
+    },
+    "U1eQBw": {
+        "ko": "[궁정악사 드윗]\n최고를 향해 언제나 노력하고 있기 때문에 지금과 같은 선율을 뽑아낼 수 있는 거겠지.",
+        "en": "[Court Musician Dwit]\nHe always tries to be the best. That's why he can play the tune like that.",
+        "pt": "[Dwit, Bardo da Corte]\nEle só é assim porque está sempre se esforçando muito em fazer o que faz o melhor possível. É por isso que ele toca tão bem.",
+        "es": "[Bardo de la Corte Dwit]\nSiempre intenta ser el mejor. Por eso puede tocar así."
+    },
+    "VFeQBw": {
+        "ko": "[궁정악사 드윗]\n다만, 그저 앞뒤 없이 몰입하는 스타일이랄까? 그로 인해 오해를 많이 사곤 하지.",
+        "en": "[Court Musician Dwit]\nHowever, he doesn't know when to concentrate. His behavior is often misread.",
+        "pt": "[Dwit, Bardo da Corte]\nInfelizmente, por conta disso seu comportamento sempre é mal interpretado.",
+        "es": "[Bardo de la Corte Dwit]\nSin embargo, no sabe cuándo concentrarse. A menudo, se malinterpreta su comportamiento."
+    },
+    "VVeQBw": {
+        "ko": "[궁정악사 드윗]\n어쨌든 오린트 덕에 우리 악단이 이런 귀한 자리까지 올 수 있지 않았나 싶어.\n당신도 원하는 곡이 있다면 오린트에게 청해 보도록 해.",
+        "en": "[Court Musician Dwit]\nAnyways, we are invited to an honorable place like this thanks to Orint.\nIf you want to hear any song, ask him to play it for you.",
+        "pt": "[Dwit, Bardo da Corte]\nEnfim... Se quiser ouvir uma música, peça para ele.",
+        "es": "[Bardo de la Corte Dwit]\nDe todos modos, estamos invitados a un lugar honorable como este gracias a Orint.\nSi quieres escuchar alguna canción, pídele que toque para ti."
+    },
+    "VleQBw": {
+        "ko": "연회장 귀족",
+        "en": "Banquet Hall Aristocrat",
+        "pt": "Aristocrata",
+        "es": "Aristócrata del Salón"
+    },
+    "V1eQBw": {
+        "ko": "[연회장 귀족]\n나는 연회가 정말 좋아요.\n나른한 음악, 사람들의 소곤대는 소리, 다과를 나르는 시종들. 이 광경을 보기 위해 귀족으로 태어난 것 같아요.",
+        "en": "[Banquet Hall Aristocrat]\nI really like banquets.\nThe drowsy music, the whispering people and the chamberlains carrying the refreshments. I think I am nobly born to see it.",
+        "pt": "[Aristocrata]\nEu adoro banquetes.\nA música, o burburinho das pessoas conversando, os camareiros trazendo as bebidas... Ahhh...",
+        "es": "[Aristócrata del Salón]\nMe encantan los banquetes.\nLa música adormecedora, la gente susurrando y los mayordomos sirviendo refrescos. Creo que nací para ser noble."
+    },
+    "WFeQBw": {
+        "ko": "[연회장 귀족]\n이 연회의 주인공은 따로 있다지만, 저도 귀족인 만큼 이 기회를 잡아 좋은 배필을 만날 수 있도록 해야겠죠.",
+        "en": "[Banquet Hall Aristocrat]\nI know this banquet is held for someone else. However, it still is a great opportunity for me to meet someone I can spend my life with.",
+        "pt": "[Aristocrata]\nSei que esse banquete tem um propósito sério... Mas acho que é uma boa oportunidade para conhecer alguém interessante.",
+        "es": "[Aristócrata del Salón]\nSé que este banquete se celebra para otra persona. Sin embargo, también es una gran oportunidad para que conozca a alguien con quien pueda compartir mi vida."
+    },
+    "WVeQBw": {
+        "ko": "[연회장 귀족]\n다들 연회를 좋아하는 듯 하지만 저는 질색이에요. 부모님 성화에 못이기고 오긴 했지만 빨리 집에 가서 눕고 싶어요.",
+        "en": "[Banquet Hall Aristocrat]\nEveryone else seems to love the banquet, but I don't. I am forced by my parents to come here. I really want to go home and take a rest now.",
+        "pt": "[Aristocrata]\nA maioria do pessoal parece estar se divertindo muito, mas eu só quero ir pra casa. Fui trazido à força até aqui.",
+        "es": "[Aristócrata del Salón]\nParece que a todos les encanta el banquete, pero a mí no. Mis padres me obligaron a venir aquí. Realmente quiero irme a casa ahora y descansar."
+    },
+    "WleQBw": {
+        "ko": "연회장 손님",
+        "en": "Banquet Hall Guest",
+        "pt": "Visitante",
+        "es": "Invitado del Banquete"
+    },
+    "W1eQBw": {
+        "ko": "[연회장 손님]\n프론테라에서 커다란 연회가 열린다고 하여 먼 아마쯔에서 왔는데, 우리 아마쯔와는 다른 느낌이고만. 홍홍홍.",
+        "en": "[Banquet Hall Guest]\nI have come to Prontera to attend the banquet from Amatsu. It sure feels totally different from Amatsu. Hahaha.",
+        "pt": "[Visitante]\nEu vim de Amatsu até aqui para este banquete. O choque de cultura foi imenso! Hahaha.",
+        "es": "[Invitado del Banquete]\nVine a Prontera desde Amatsu para asistir al banquete. Sin dudas se siente totalmente diferente a Amatsu. Ja, ja, ja."
+    },
+    "XFeQBw": {
+        "ko": "[연회장 손님]\n할아버지 무리하시면 안되요.",
+        "en": "[Banquet Hall Guest]\nGrandfather, don't overtax your strength.",
+        "pt": "[Visitante]\nEi, vô, não se force muito.",
+        "es": "[Invitado del Banquete]\nAbuelo, no te esfuerces demasiado."
+    },
+    "XVeQBw": {
+        "ko": "[연회장 손님]\n룬 미드가츠 상권을 손에 쥐고 있는 귀족들이 한 자리에 모이는 만큼, 우리 고양이손 상단이 기회를 놓칠 수야 없지.",
+        "en": "[Banquet Hall Guest]\nAll the nobility who are in charge of the market in Rune Midgard are here. We, the Cat Hand Services, shouldn't miss this chance.",
+        "pt": "[Visitante]\nNós, da Corporação Pata de Gato, precisamos manter uma boa imagem. Por isso estamos aqui!",
+        "es": "[Invitado del Banquete]\nTodos los nobles que están a cargo del mercado en Rune-Midgarts están aquí. Nosotros, los Servicios de Mano Gatuna, no deberíamos perder esta oportunidad."
+    },
+    "XleQBw": {
+        "ko": "[연회장 손님]\n내 키 만큼의 계약문서를 따내고 말겠어!",
+        "en": "[Banquet Hall Guest]\nI'll score contracts as tall as my height.",
+        "pt": "[Visitante]\nEspero que a gente consiga bons contratos.",
+        "es": "[Invitado del Banquete]\nLograré una pila de contratos como de mi estatura."
+    },
+    "X1eQBw": {
+        "ko": "화려한 소녀",
+        "en": "Glamorous Girl",
+        "pt": "Garota Glamurosa",
+        "es": "Chica Glamorosa"
+    },
+    "YFeQBw": {
+        "ko": "[화려한 소녀]\n......\n.....아.",
+        "en": "[Glamorous Girl]\n......\nAh....!",
+        "pt": "[Garota Glamurosa]\n......\nAh! Delícia....!",
+        "es": "[Chica Glamorosa]\n......\n¡Ah…!"
+    },
+    "YVeQBw": {
+        "ko": "[화려한 소녀]\n너... 세스룸니르에서....",
+        "en": "[Glamorous Girl]\nYou... At Cheshrumnir...",
+        "pt": "[Garota Glamourosa]\nVocê... Em Sessrumnir...",
+        "es": "[Chica Glamorosa]\nTú… En Cheshrumnir…"
+    },
+    "YleQBw": {
+        "ko": "[안경 쓴 여자]\n흠흠!",
+        "en": "[Woman with Glasses]\nHum hum!",
+        "pt": "[Mulher de Óculos]\nHuuuuuum!",
+        "es": "[Mujer con Anteojos]\n¡Mmm, mmm!"
+    },
+    "Y1eQBw": {
+        "ko": "[화려한 소녀]\n....미안 니르엔....",
+        "en": "[Glamorous Girl]\n...I am sorry Niren...",
+        "pt": "[Garota Glamurosa]\n...Ei, Niren...",
+        "es": "[Chica Glamorosa]\n…Lo siento, Niren…"
+    },
+    "ZFeQBw": {
+        "ko": "[안경 쓴 여자]\n쉿! 쉿! 이름 부르지 말라고 얘기드렸죠? 우리는 정식으로 초대받아 온게 아니라는 점 잊으시면 안됩니다!",
+        "en": "[Woman with Glasses]\nShh! Shh! Do not call me by the name, please. We are not officially invited to be here! Don't forget!",
+        "pt": "[Mulher de Óculos]\nShh! Shh! Não me chame pelo nome. Não se esqueça de que não fomos convidadas!",
+        "es": "[Mujer con Anteojos]\n¡Shh! ¡Shh! No me llames por mi nombre. ¡No estamos invitados oficialmente aquí! ¡No lo olvides!"
+    },
+    "ZVeQBw": {
+        "ko": "[화려한 소녀]\n......\n응.....",
+        "en": "[Glamorous Girl]\n......\nEh...",
+        "pt": "[Garota Glamurosa]\n......\nDesculpe...",
+        "es": "[Chica Glamorosa]\n......\nEh…"
+    },
+    "ZleQBw": {
+        "ko": "여긴 어떻게 온 거야?",
+        "en": "How did you come here?",
+        "pt": "Olá!",
+        "es": "¿Cómo llegaste hasta aquí?"
+    },
+    "Z1eQBw": {
+        "ko": "[{0}]\n여긴 어떻게 온 거야?\n위험한 거 아냐? 그… 국가간의 관계라던가 분위기 라던가…….",
+        "en": "[{0}]\nHow did you come here?\nIs it something dangerous? Is it about the international affairs or the international situation...",
+        "pt": "[{0}]\nComo você chegou aqui?\nÉ algo perigoso? É sobre os assuntos internacionais ou a situação internacional...",
+        "es": "[{0}]\n¿Cómo llegaste hasta aquí?\n¿Es algo peligroso? ¿Son asuntos internacionales o la situación internacional…?"
+    },
+    "aFeQBw": {
+        "ko": "[화려한 소녀]\n.....\n몰래.",
+        "en": "[Glamorous Girl]\n.....\nIn secret.",
+        "pt": "[Garota Glamurosa]\n...!!!",
+        "es": "[Chica Glamorosa]\n……\nEn secreto."
+    },
+    "aVeQBw": {
+        "ko": "[화려한 소녀]\n....연회...맛있는 거.",
+        "en": "[Glamorous Girl]\n...The banquet... Something tasty.",
+        "pt": "[Garota Glamurosa]\n...Nós... Er... Estamos aqui por causa do banquete.",
+        "es": "[Chica Glamorosa]\n…El banquete… Algo sabroso."
+    },
+    "aleQBw": {
+        "ko": "[안경 쓴 여자]\n<Miss 렝>.",
+        "en": "[Woman with Glasses]\n<Miss Lang>",
+        "pt": "[Mulher de Óculos]\nMiss Lang...",
+        "es": "[Mujer con Anteojos]\n<Miss Lang>"
+    },
+    "a1eQBw": {
+        "ko": "[{0}]\n네?",
+        "en": "[{0}]\nWhat?",
+        "pt": "[{0}]\n...............Oi?",
+        "es": "[{0}]\n¿Qué?"
+    },
+    "bFeQBw": {
+        "ko": "[안경 쓴 여자]\n미드가르드 최고의 미식가 Miss 렝이 최고의 요리를 맛보고 작성한 <Miss 렝 가이드>에 프론테라 왕궁이 있었단 말입니다.",
+        "en": "[Woman with Glasses]\nIn the <Miss Lang Guide> which is written by Miss Lang who is the most prominent gourmet in Midgards, there is Prontera Palace.",
+        "pt": "[Mulher de Óculos]\nNo Guia da Miss Lang, escrito pela própria cozinheira Miss Lang, ela falou que a comida preparada aqui é a mais deliciosa do mundo.",
+        "es": "[Mujer con Anteojos]\nEn la <Miss Lang Guide>, que escribió la Srta.Lang, la gourmet más destacada de Midgard, se encuentra el Palacio de Prontera."
+    },
+    "bVeQBw": {
+        "ko": "[안경 쓴 여자]\n인생에 있어 식도락 만큼 즐거운 건 없죠. 모든 것을 걸어서라도 탐미할 가치가 있어요. 그렇지 않습니까?",
+        "en": "[Woman with Glasses]\nGood food and drink are the most enjoyable things in life. It is worth pursuing them. Isn't it?",
+        "pt": "[Mulher de Óculos]\nVale a pena experimentar comidas e bebidas, não? É só por isso que viemos até aqui.",
+        "es": "[Mujer con Anteojos]\nLo que más se disfruta en la vida es una buena comida y bebida. Vale la pena buscarlas. ¿Verdad que sí?"
+    },
+    "bleQBw": {
+        "ko": "[화려한 소녀]\n....\n....맛있어.",
+        "en": "[Glamorous Girl]\n....\n...It tastes good.",
+        "pt": "[Garota Glamurosa]\n...",
+        "es": "[Chica Glamorosa]\n…\n…Sabe bien."
+    },
+    "b1eQBw": {
+        "ko": "[안경 쓴 여자]\n어쨌든 어찌어찌 사람이 비교적 적은 식당으로 오긴 했지만, 금방 돌아가지 않으면 안되요.",
+        "en": "[Woman with Glasses]\nAnyways, we have managed to find this dining room where aren't many people. But we need to go back soon.",
+        "pt": "[Mulher de Óculos]\nEnfim, a gente encontrou essa sala de jantar e um pouco de comida... Mas precisamos voltar logo.",
+        "es": "[Mujer con Anteojos]\nDe todos modos, hemos podido encontrar este comedor donde no hay mucha gente. Pero tenemos que volver pronto."
+    },
+    "cFeQBw": {
+        "ko": "[안경 쓴 여자]\n말거는 사람들에게 코스튬 플레이라고 대충 둘러대긴 했지만 아무래도 프론테라와 어울리는 복식은 아닌 듯 하네요.",
+        "en": "[Woman with Glasses]\nI have been telling people that we are in costumes. I guess our outfits are not very appropriate for this kind of occasion in Prontera.",
+        "pt": "[Mulher de Óculos]\nTenho dito às pessoas que estamos fantasiados. Acho que nossas roupas não são muito apropriadas para esse tipo de ocasião em Prontera.",
+        "es": "[Mujer con Anteojos]\nLe dije a la gente que estamos usando disfraces. Supongo que nuestros trajes no son muy adecuados para este tipo de ocasión en Prontera."
+    },
+    "cVeQBw": {
+        "ko": "[안경 쓴 여자]\n자자, 대충 살펴 보셨으니 이만 하면 되었지요? 누가 오기 전에 돌아가시죠.",
+        "en": "[Woman with Glasses]\nWell, I guess you have looked around enough. Let's go back before anyone comes.",
+        "pt": "[Mulher de Óculos]\nBom, vamos embora antes que mais alguém perceba que estamos aqui.",
+        "es": "[Mujer con Anteojos]\nBien, supongo que ya has mirado lo suficiente. Volvamos antes de que venga alguien."
+    },
+    "cleQBw": {
+        "ko": "[화려한 소녀]\n응…….",
+        "en": "[Glamorous Girl]\nYes...",
+        "pt": "[Garota Glamurosa]\nSim...",
+        "es": "[Chica Glamorosa]\nSí…"
+    },
+    "c1eQBw": {
+        "ko": "- 하지만 교황의 오른손에 꼭 쥐인 쿠키 접시는 떨어질 줄을 몰랐다. -",
+        "en": "- However the cookie plate is held tightly by the right hand of the Pope. -",
+        "pt": "- O prato de biscoitos é segurado firmemente pela Papisa. -",
+        "es": "-Sin embargo, el plato de galletas está bien agarrado por la mano derecha de la papisa.-"
+    },
+    "dFeQBw": {
+        "ko": "- 무표정한 얼굴로 테이블을 빤히 바라보고 있는 소녀가 있다. 프론테라의 복식과는 이질감이 느껴지는 모습으로 보아 연회에 초대된 손님이 아닐까 짐작된다. -",
+        "en": "- There is a girl with a expressionless face looking at the table. Her outfit seems rather unusual in Prontera. She could be a guest attending the banquet. -",
+        "pt": "- Há uma garota de roupas extravagantes sentada à mesa. -",
+        "es": "-Hay una chica con cara inexpresiva mirando la mesa. Su atuendo parece bastante inusual en Prontera. Podría ser una invitada al banquete.-"
+    },
+    "dVeQBw": {
+        "ko": "[화려한 소녀]\n......\n...배고파.",
+        "en": "[Glamorous Girl]\n......\n...I am hungry.",
+        "pt": "[Garota Glamurosa]\n......\n...Estou faminta.",
+        "es": "[Chica Glamorosa]\n......\n…Tengo hambre."
+    },
+    "dleQBw": {
+        "ko": "안경 쓴 여자",
+        "en": "Woman with Glasses",
+        "pt": "Mulher de Óculos",
+        "es": "Mujer con Anteojos"
+    },
+    "d1eQBw": {
+        "ko": "- 주위를 경계하며 테이블을 노려보고 있는 눈빛과 상반되게 음식을 집어 먹는 속도는 가히 예술적이다. -",
+        "en": "- Unlike her gaze glaring at the table while being cautious about the surroundings, the speed of her eating the food on the table is so remarkable that it is almost artistic. -",
+        "pt": "- A mulher devora a comida numa velocidade admirável. -",
+        "es": "-A diferencia de su mirada fija en la mesa mientras es cautelosa con el entorno, la velocidad con la que come el banquete de la mesa es tan notable que casi es artística.-"
+    },
+    "eFeQBw": {
+        "ko": "고양이",
+        "en": "Cat",
+        "pt": "Gato",
+        "es": "Gato"
+    },
+    "eVeQBw": {
+        "ko": "- 나른해 보이는 고양이는 악사의 발치에만 붙어있을 뿐, 당신에게 도통 관심을 보이지 않는다. -",
+        "en": "- That lazy-looking cat is sitting near the feet of the musician. It shows no interest in you. -",
+        "pt": "- Um gato de pelos extremamente belos. Que pena que ele te ignora completamente. -",
+        "es": "-Ese gato de aspecto perezoso está sentado cerca de los pies del músico. No muestra interés por ti.-"
+    },
+    "eleQBw": {
+        "ko": "히바 아지프",
+        "en": "Hiba Ajif",
+        "pt": "Hibba Agip",
+        "es": "Hiba Ajif"
+    },
+    "e1eQBw": {
+        "ko": "[히바 아지프]\n애쉬바쿰도 정리되고 이제 그만 집으로 돌아가 모든 걸 잊고 낮잠이나 자고 싶은데 도통 놓아주질 않는군.",
+        "en": "[Hiba Ajif]\nSince Ashbacuum has been taken care of, I want to go home and take a nap. However, they are holding me here.",
+        "pt": "[Hibba Agip]\nEu só quero descansar... Mas tenho que ficar nessa cerimônia chata.",
+        "es": "[Hiba Ajif]\nYa que Ash Vacuum se ha ocupado de todo, quiero irme a casa y dormir una siesta. Sin embargo, me retienen aquí."
+    },
+    "fFeQBw": {
+        "ko": "[참모 아비달]\n그래도 우리들의 공로를 치하하기 위한 자리인데 얼굴 좀 펴시죠.",
+        "en": "[Avidal the Advisor]\nIt is the event to praise our contributions. Try to smile a little.",
+        "pt": "[Oficial Abidal]\nPoxa, prepararam toda uma festa para celebrar nosso sucesso. Tente pelo menos sorrir um pouco!",
+        "es": "[Avidal el Consejero]\nEs el acontecimiento para elogiar nuestras contribuciones. Intenta sonreír un poco."
+    },
+    "fVeQBw": {
+        "ko": "[교관 이그리드]\n형님~ 신발이 갑갑해 죽겠어요. 저 그냥 객실에서 자고 있으면 안될까요?",
+        "en": "[Instructor Igrid]\nBrother, these shoes hurt my feet. May I go back to the guest room and sleep?",
+        "pt": "[Instrutor Igrid]\nIrmão, esses sapatos estão machucando meus pés. Eu não posso voltar pro quarto e tirar um cochilo?",
+        "es": "[Instructor Igrid]\nHermano, este calzado me lastima los pies. ¿Puedo volver a la habitación de invitados y dormir?"
+    },
+    "fleQBw": {
+        "ko": "[히바 아지프]\n피할 수 없다면 즐겨라…….\n일단 빨리 취해야겠군.",
+        "en": "[Hiba Ajif]\nIf you can't avoid it, enjoy it...\nI shall get drunk fast.",
+        "pt": "[Hibba Agip]\nSe não puder evitar, aproveite...\nVou ficar bêbado rápido.",
+        "es": "[Hiba Ajif]\nSi no puedes evitarlo, adelante…\nMe embriagué rápido."
+    },
+    "f1eQBw": {
+        "ko": "원정대 참모 아비달",
+        "en": "Avidal the Advisor",
+        "pt": "Oficial Abidal",
+        "es": "Avidal el Consejero"
+    },
+    "gFeQBw": {
+        "ko": "[참모 아비달]\n오랜 시간 두 종족이 대립하던 경계의 긴장 속에서 지내다 이런 화기애애 하고 여유로운 곳으로 오니, 마치 꿈속을 거닐고 있는 것 같습니다. 이것이 평화란 것이겠죠?",
+        "en": "[Avidal the Advisor]\nI have spent too much time in the tension between the two races. It just feels like I am dreaming to be in a happy and relaxing place like this. This must be what they call peace, right?",
+        "pt": "[Oficial Abidal]\nPassei muito tempo no meio da tensão entre as duas raças, mas agora... É isso que chamam de paz?",
+        "es": "[Avidal el Consejero]\nHe pasado demasiado tiempo tensionado entre las dos razas. Es como si estuviera soñando con estar en un lugar feliz y relajante como este. Esto debe ser lo que llaman paz, ¿verdad?"
+    },
+    "gVeQBw": {
+        "ko": "교관 이그리드",
+        "en": "Instructor Igrid",
+        "pt": "Instrutor Igrid",
+        "es": "Instructor Igrid"
+    },
+    "gleQBw": {
+        "ko": "[교관 이그리드]\n정말 우릴 위한다면 그냥 푹 쉬게 해줘야 하는 것 아닙니까?\n이런 자리는 현장에 있지 않는 자들이나 좋아하겠죠. 늘 그렇다니까요?",
+        "en": "[Instructor Igrid]\nIf they really want to do something for us, they really let us take a rest.\nOnly the ones who don't work in the field like an event like this. It is true.",
+        "pt": "[Instrutor Igrid]\nSe eles realmente querem celebrar a nossa vitória nessa expedição, deviam nos deixar descansar.\nOs únicos que estão curtindo este evento são aqueles que não foram à expedição dar a cara a tapa.",
+        "es": "[Instructor Igrid]\nSi realmente quieren hacer algo por nosotros, nos dejarán descansar.\nSolo a los que no trabajan en el campo les gusta un acontecimiento como este. Pues, es cierto."
+    },
+    "g1eQBw": {
+        "ko": "조사단원 료슨",
+        "en": "Investigator Ryosun",
+        "pt": "Investigador Ryosen",
+        "es": "Investigator Ryosun"
+    },
+    "hFeQBw": {
+        "ko": "[료슨]\n그 누구의 손길도 닿지 않은 딸기 케이크를 드디어 손에 얻었어!\n원정대 캠프에서 케이크를 사수하기 위해 얼마나 많은 방해공작을 견뎠던가……. 눈물이 날 것 같아. 흑흑.",
+        "en": "[Ryosun]\nI finally have the strawberry cake no one has ever touched.\nThe things I have been through to keep the cake in the expedition camp... I am about to burst into tears... Aww...",
+        "pt": "[Ryosen]\nFinalmente posso descansar um pouco e comer esse maravilhoso bolo de morango...",
+        "es": "[Ryosun]\nPor fin tengo el pastel de fresas que nunca nadie ha tocado.\nLas cosas por las que he pasado para conservar el pastel en el campamento de la expedición… Estoy a punto de largarme a llorar… Ay…"
+    },
+    "hVeQBw": {
+        "ko": "[료슨]\n딸기! 딸기! 이 딸기 케이크는 료슨만의 것이에요. 그 누구에게도 주지 않아. 크흑.",
+        "en": "[Ryosun]\nStrawberry! Strawberry! This strawberry cake belongs to Ryosun! I won't give it to anyone.",
+        "pt": "[Ryosen]\nMorango! Morango! Este bolo de morango é meu! Não vou dar para ninguém.",
+        "es": "[Ryosun]\n¡Fresas! ¡Fresas! ¡Este pastel de fresas es de Ryosun! No se lo daré a nadie."
+    },
+    "hleQBw": {
+        "ko": "[연회장 귀족]\n이 악단은 꽤나 훌륭하군요.\n우리 별궁에도 한번 초청하여 파티를 열어볼까 합니다.",
+        "en": "[Banquet Hall Aristocrat]\nThis band is pretty good.\nI'd like to invite them to the royal villa for my party.",
+        "pt": "[Aristocrata]\nOs bardos daqui são muito bons.",
+        "es": "[Aristócrata del Salón]\nEsta banda es bastante buena.\nMe gustaría invitarlos a la villa real para mi fiesta."
+    },
+    "h1eQBw": {
+        "ko": "[연회장 손님]\n전 악단 오린트님의 오랜 팬이에요.\n이 분의 연주를 빼먹지 않기 위해 얼마나 많은 시간과 돈을 들였는지 몰라요.",
+        "en": "[Banquet Hall Guest]\nI am an old fan of Orint of the band.\nI have spent a lot of money and time not to miss any of his performance.",
+        "pt": "[Visitante]\nSou muito fã do Orint.\nNunca perco um show dele.",
+        "es": "[Invitado del Banquete]\nHace mucho tiempo soy fan de la banda de Orint.\nGasté mucho dinero y tiempo para no perderme ninguna de sus presentaciones."
+    },
+    "iFeQBw": {
+        "ko": "[연회장 손님]\n이 연회의 초청장도 얼마나 힘들게 얻었는지 아세요?\n어찌나 한정수량인지, 하마터면 저도 이계 파견단에까지 참가할 뻔 했답니다!",
+        "en": "[Banquet Hall Guest]\nIt was very difficult to get my hands on the invitation to this banquet.\nIt was so exclusive that I almost joined the expedition!",
+        "pt": "[Visitante]\nFoi muito difícil conseguir o convite para este banquete.\nEra tão exclusivo que quase me juntei à expedição!",
+        "es": "[Invitado del Banquete]\nFue muy difícil conseguir la invitación a este banquete.\n¡Era tan exclusivo que casi me uno a la expedición!"
+    },
+    "iVeQBw": {
+        "ko": "[연회장 손님]\n이 악단의 쌍둥이 자매는 성격은 너무나 다른데도 불구하고 서로의 흉내를 잘 내더군요.\n가끔 두 사람이 모두 한 사람을 연기할 때엔 도플갱어를 보는 듯한 기분이에요.",
+        "en": "[Banquet Hall Guest]\nThe twin sisters of the band are of completely different characters. However, they are good at imitate each other.\nWhen they pretend to be one person, they really looks like Doppelgangers.",
+        "pt": "[Visitante]\nAs irmãs gêmeas da banda não podiam ter personalidades mais diferentes. Mas é engraçado -- elas são muito boas em imitar uma a outra.\nÉ meio assustador quando elas fazem isso... Realmente parecem doppelgangers.",
+        "es": "[Invitado del Banquete]\nLas hermanas gemelas de la banda tienen personalidades completamente diferentes. Sin embargo, se imitan bien entre ellas.\nCuando fingen ser una sola persona, en realidad parecen doppelgangers."
+    }
+}

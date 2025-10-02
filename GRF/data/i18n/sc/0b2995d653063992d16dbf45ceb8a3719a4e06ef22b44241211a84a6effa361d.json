@@ -1,0 +1,742 @@
+{
+    "wFjCBg": {
+        "en": "Battle Instructor",
+        "pt": "Spino",
+        "es": "Instructor de combate"
+    },
+    "wVjCBg": {
+        "en": "- You have too many items .\nClear inventory and try again.-",
+        "pt": "Você está carregando muitos itens.\nLibere espaço no inventário e tente novamente.",
+        "es": "-Tienes demasiados objetos.\nHaz lugar en tu inventario e inténtalo de nuevo.-"
+    },
+    "wljCBg": {
+        "en": "[Battle Instructor Subino]\nYou don't seem to need my help.\nYou'd better look around somewhere else or go to the wider world.",
+        "pt": "[Spino]\nVocê não precisa mais da minha ajuda.\nProcure algo mais desafiador, a Academia Criatura já não é mais para você...",
+        "es": "[Instructor Subino]\nNo parece que necesites mi ayuda.\nEs mejor que busques en otra parte o que salgas a recorrer el vasto mundo."
+    },
+    "w1jCBg": {
+        "en": "[Battle Instructor Subino]\nVisit the ^FF0000support of the class guild(LV.10~20) or check out the Eden Group(LV.15~100)^000000.",
+        "pt": "[Spino]\nVá em buscar da ^FF0000Guilda(Nv. 10 a 20)^000000 ou vá para ^FF0000o Grupo do Éden (Nv. 15 a 110)^000000.",
+        "es": "[Instructor Subino]\nPide ^FF0000ayuda al gremio de cada clase (niveles10-20) o consulta en el Grupo de Edén (niveles15-100)^000000."
+    },
+    "xFjCBg": {
+        "en": "[Battle Instructor Subino]\n^FF0000Ask the staff of each job on the second floor about the location of each class guild^000000 and you will find the ^FF0000 Eden Group Headquarters^000000 where you can find easy hunt quests.",
+        "pt": "[Spino]\nPara saber a localização de sua Guilda, pergunte ao responsável por sua Classe. Já o Grupo do Éden é fácil de encontrar se perguntar pela cidade.",
+        "es": "[Instructor Subino]\n^FF0000Pregúntale al personal de cada clase en el segundo piso sobre la ubicación de cada gremio de clase^000000 y, en la ^FF0000sede del Grupo de Edén^000000, encontrarás misiones de cacería fáciles."
+    },
+    "xVjCBg": {
+        "en": "[Battle Instructor Subino]\nIt is ^FF0000displayed in the map of right screen^000000, so search for it.\nIf you do not know, then you should get a help from a ^FF0000Town Guide^000000.",
+        "pt": "[Spino]\nO minimapa está no canto direito superior da tela, como bem sabe. Use-o para chegar ao destino.\nSe ficar sem saber para onde ir, vá aos guias da vila.",
+        "es": "[Instructor Subino]\nSe muestra ^FF0000en el mapa, en la esquina superior derecha de la pantalla^000000, así que búscala.\nSi no sabes algo, deberías pedirle ayuda a un ^FF0000guía del pueblo^000000."
+    },
+    "xljCBg": {
+        "en": "[Battle Instructor Subino]\nYou shouldn't be like this, you are high enough to change your job.\nI won't stop you even if you stay still...",
+        "pt": "[Spino]\nVocê não prosseguir sem antes aumentar seu nível.\nNão me importo se quiser ficar, mas precisa aumentar seu nível.",
+        "es": "[Instructor Subino]\nNo deberías ponerte así, tienes lo necesario para cambiar de clase.\nNo te detendré aunque no te muevas…"
+    },
+    "x1jCBg": {
+        "en": "[Battle Instructor Subino]\nTry to talk to ^FF0000each job instructor^000000 on the 2nd floor of the Academy if you aren't sure what job you want still.",
+        "pt": "[Spino]\nOs detalhes de cada Classe podem ser obtidos com os Instrutores responsáveis. Vá ao primeiro andar e converse com todos!",
+        "es": "[Instructor Subino]\nIntenta hablar con el ^FF0000instructor de cada clase^000000 en el segundo piso de la academia si aún no sabes qué clase quieres."
+    },
+    "yFjCBg": {
+        "en": "[Battle Instructor Subino]\nYou didn't register with the ^FF0000Criatura Academy^000000 yet?\nIt requires a simple procedure so go and register.\nYou can register at the ^FF0000information center of academy^000000.",
+        "pt": "[Spino]\nVocê ainda não tem registro na Academia Criatura?\nBom, o procedimento de inscrição é simples.\nDá pra se registrar na entrada da Academia Criatura. Tente falar com a Recepcionista.",
+        "es": "[Instructor Subino]\n¿Aún no te registraste en la ^FF0000Academia de criaturas^000000?\nEs un procedimiento fácil, así que ve y regístrate.\nPuedes registrarte en el ^FF0000centro de información de la academia^000000."
+    },
+    "yVjCBg": {
+        "en": "[Battle Instructor Subino]\nWelcome !\nI am ^FF0000Battle Instructor Subino^000000.\nI ^FF0000provide a simple request^000000 to help you to grow up as a good soldier as fast as you can, so look around .",
+        "pt": "[Spino]\nSeja bem-vindo!\nSou o Instrutor de Combate da Academia Criatura, meu nome é Spino.\nEstou aqui para te ajudar a evoluir. Gostaria de trazer alguns itens que estou precisando?",
+        "es": "[Instructor Subino]\n¡Te doy la bienvenida!\nSoy el ^FF0000instructor de combate Subino^000000\nTe ^FF0000pediré algo simple^000000 para ayudarte a crecer como buen recluta lo más rápido que puedas. Mira a tu alrededor."
+    },
+    "yljCBg": {
+        "en": "Check requests",
+        "pt": "Quais são os itens?",
+        "es": "Revisar las solicitudes."
+    },
+    "y1jCBg": {
+        "en": "Stop.",
+        "pt": "Encerrar conversa.",
+        "es": "Detenerse."
+    },
+    "zFjCBg": {
+        "en": "The most delicious in the world(1~3)",
+        "pt": "Jellopy",
+        "es": "Lo más delicioso del mundo(1-3)."
+    },
+    "zVjCBg": {
+        "en": "Carrots are delicious(1~3)",
+        "pt": "Cenoura",
+        "es": "¡Las zanahorias están deliciosas!(1-3)."
+    },
+    "zljCBg": {
+        "en": "Fabre rolling clothes(4~6)",
+        "pt": "Pluma",
+        "es": "Ropa rodante de Fabre(4-6)."
+    },
+    "z1jCBg": {
+        "en": "Barrier!!(4~6)",
+        "pt": "Casca de Pupa",
+        "es": "¡¡Barrera!!(4-6)."
+    },
+    "0FjCBg": {
+        "en": "[Battle Instructor Subino]\nWow..!!\nWell done!!",
+        "pt": "[Spino]\nOpa!\nÓtimo, ótimo...",
+        "es": "[Instructor Subino]\n¡Guau…!\n¡Bien hecho!"
+    },
+    "0VjCBg": {
+        "en": "[Battle Instructor Subino]\nYou don't have enough ^FF0000Jellopy^000000\nDo better!",
+        "pt": "[Spino]\nParece que estão faltando alguns ^FF0000Jellopys^000000.\nPegue mais alguns e volte aqui.",
+        "es": "[Instructor Subino]\nNo tienes suficientes ^FF0000Jellopy^000000.\n¡Hazlo mejor!"
+    },
+    "0ljCBg": {
+        "en": "End Conversation",
+        "pt": "Encerrar conversa",
+        "es": "Terminar la conversación."
+    },
+    "01jCBg": {
+        "en": "Give up on the quest.",
+        "pt": "Desistir da missão",
+        "es": "Abandonar la misión."
+    },
+    "1FjCBg": {
+        "en": "[Battle Instructor Subino]\nWill you really give up on the quest?",
+        "pt": "[Spino]\nVocê vai mesmo desistir da missão?",
+        "es": "[Instructor Subino]\n¿De verdad abandonarás la misión?"
+    },
+    "1VjCBg": {
+        "en": "Yes, give up.",
+        "pt": "Desisto, não dá mais pra mim",
+        "es": "Sí, me rindo."
+    },
+    "1ljCBg": {
+        "en": "[Battle Instructor Subino]\nYou can challenge the quest as long as you need my help so come to me anytime.",
+        "pt": "[Spino]\nSe quiser, poderá aceitar a missão novamente a qualquer momento.",
+        "es": "[Instructor Subino]\nPuedes realizar la misión siempre que necesites mi ayuda, así que búscame cuando quieras."
+    },
+    "11jCBg": {
+        "en": "[Battle Instructor Subino]\n^FF0000Poring^000000 are very cute monsters when you see them.",
+        "pt": "[Spino]\n^FF0000Jellopy^000000 é um ingrediente que você pode encontrar em quase qualquer lugar.\nMuitas criaturas carregam Jellopy e derrubam esse item quando você as derrota.",
+        "es": "[Instructor Subino]\nLos ^FF0000Poring^000000 son monstruos muy adorables cuando los ves."
+    },
+    "2FjCBg": {
+        "en": "[Battle Instructor Subino]\nThey drop Jellopy which are regarded as a main cooking material in Criatura Academy so we always need to hunt Porings.",
+        "pt": "[Spino]\nÉ um ingrediente importante aqui na Academia Criatura. Sempre precisamos de mais.",
+        "es": "[Instructor Subino]\nDejan caer Jellopy, que se considera un material de cocina principal en la Academia de criaturas, por lo que siempre tenemos que cazar Poring."
+    },
+    "2VjCBg": {
+        "en": "Give up for sure.",
+        "pt": "Desistir da missão.",
+        "es": "Ríndete para siempre."
+    },
+    "2ljCBg": {
+        "en": "[Battle Instructor Subino]\n^FF0000Poring^000000s are very cute monsters when you see them.",
+        "pt": "[Spino]\nOs ^FF0000Poring^000000 são monstros muito fofos quando você os vê.",
+        "es": "[Instructor Subino]\nLos ^FF0000Poring^000000 son monstruos muy adorables cuando los ves."
+    },
+    "21jCBg": {
+        "en": "Take quest.",
+        "pt": "Aceitar missão.",
+        "es": "Aceptar la misión."
+    },
+    "3FjCBg": {
+        "en": "[Battle Instructor Subino]\nPorings can easily be found at the ^FF0000West field of Izlude^000000.\nHunt ^FF000010 Porings^000000 and bring ^FF00005 Jellopys^000000.\nYou can check received quests by pressing ^FF0000Alt+U^000000",
+        "pt": "[Spino]\nVocê consegue Jellopy derrotando Porings ao oeste da Cidade de Izlude, que é onde a Academia Criatura está localizada.\nDerrote 10 Porings e obtenha, pelo menos, 5 Jellopys.\nVocê pode verificar a missão usando o atalho ^FF0000Alt+U^000000.",
+        "es": "[Instructor Subino]\nEs fácil encontrar Poring en el ^FF0000campo del oeste de Izlude^000000.\nCaza a ^FF000010Poring^000000 y trae ^FF00005Jellopy^000000.\nPuedes revisar las misiones recibidas presionando ^FF0000Alt+U^000000"
+    },
+    "3VjCBg": {
+        "en": "[Battle Instructor Subino]\nYou don't seem to be interested.\nCome back again if you change your mind.",
+        "pt": "[Spino]\nParece que não quer fazer nada mesmo...\nQuando mudar de ideia, volte até mim.",
+        "es": "[Instructor Subino]\nNo pareces que sea algo que te interese.\nVuelve si cambias de opinión."
+    },
+    "3ljCBg": {
+        "en": "[Battle Instructor Subino]\nWow!\nWell done!!",
+        "pt": "[Spino]\nUau!\nMuito bem feito!!",
+        "es": "[Instructor Subino]\n¡Guau!\n¡Bien hecho!"
+    },
+    "31jCBg": {
+        "en": "[Battle Instructor Subino]\nYou don't have enough ^FF0000Carrot^000000s.\nDo better!",
+        "pt": "[Spino]\nEstão faltando algumas ^FF0000Cenouras^000000.\nConsiga mais algumas e volte aqui.",
+        "es": "[Instructor Subino]\nNo tienes suficientes ^FF0000Zanahorias^000000.\n¡Hazlo mejor!"
+    },
+    "4FjCBg": {
+        "en": "[Battle Instructor Subino]\n^FF0000Lunatic^000000 are very cute animal that live near Prontera.\nTender...soft...very cute... it is very cute........",
+        "pt": "[Spino]\nA melhor forma de se obter Cenoura é derrotando Lunáticos.\nApesar do nome, são criaturas fofas... Eu acho...",
+        "es": "[Instructor Subino]\nLas ^FF0000Lunáticas^000000 son unos animales muy adorables que viven cerca de Prontera.\nTiernas… suaves… muy adorables… son muy adorables……"
+    },
+    "4VjCBg": {
+        "en": "[Battle Instructor Subino]\nIt always bring ^FF0000Carrot^000000s with it, so it is easy to get a delicious carrot by hunting them.",
+        "pt": "[Spino]\nEle sempre carrega ^FF0000Cenouras^000000, então é fácil conseguir uma cenoura deliciosa caçando-os.",
+        "es": "[Instructor Subino]\nSiempre traen ^FF0000Zanahorias^000000, así que es fácil conseguir una deliciosa Zanahoria si las cazas."
+    },
+    "4ljCBg": {
+        "en": "[Battle Instructor Subino]\nA carrot has lots of fibrous cells and contains vitamin A and carotin so it is good for eyes!",
+        "pt": "[Spino]\nCarregar algumas Cenouras é sempre uma vantagem. Elas recuperam HP, por exemplo.\nE também podem ser usadas em outras funcionalidades que descobrirá no futuro...",
+        "es": "[Instructor Subino]\nLa Zanahoria tiene muchas células fibrosas, y contiene vitaminaA y caroteno, así que es buena para la vista."
+    },
+    "41jCBg": {
+        "en": "[Battle Instructor Subino]\nLunatic is easily found at the ^FF0000West field of Izlude^000000.\nCatch ^FF000010 Lunatics^000000 and bring ^FF00001 Carrot^000000.\nYou can check received quests by pressing ^FF0000Alt+U^000000",
+        "pt": "[Spino]\nVocê pode encontrar o Lunático ao oeste da Cidade de Izlude, que é onde a Academia Criatura fica.\nDerrote pelo menos 10 Lunáticos e consiga 1 Cenoura.\nVocê pode verificar a missão usando o atalho ^FF0000Alt+U^000000.",
+        "es": "[Instructor Subino]\nEs fácil encontrar Lunáticas en el ^FF0000campo del oeste de Izlude^000000.\nAtrapa a ^FF000010Lunáticas^000000 y trae ^FF00001Zanahoria^000000.\nPuedes revisar las misiones recibidas presionando ^FF0000Alt+U^000000"
+    },
+    "5FjCBg": {
+        "en": "[Battle Instructor Subino]\nYou don't have enough ^FF0000Fluff^000000.\nDo better!.",
+        "pt": "[Spino]\nEstão faltando algumas ^FF0000Plumas^000000.\nPegue mais algumas e volte aqui.",
+        "es": "[Instructor Subino]\nNo tienes suficiente ^FF0000Pelusas^000000.\n¡Hazlo mejor!"
+    },
+    "5VjCBg": {
+        "en": "[Battle Instructor Subino]\n^FF0000Fabre^000000 is the most common bug which is usually seen in Rune-Midgard Kingdom.\nIt is a worm but it is very popular because it looks cute.",
+        "pt": "[Spino]\nO ^FF0000Fabre^000000 é uma criatura bem comum em Rune-Midgard.'\nMesmo sendo um inseto, sua popularidade é notável...",
+        "es": "[Instructor Subino]\nEl ^FF0000Fabre^000000 es el insecto más común que suele verse en el reino de Rune-Midgard.\nEs un gusano, pero es muy popular porque se ve adorable."
+    },
+    "5ljCBg": {
+        "en": "[Battle Instructor Subino]\nMost of the clothes provided by Criatura Academy are made from ^FF0000Fluff^000000 from Fabres. It makes very strong and warm fabric.",
+        "pt": "[Spino]\nAs Plumas de Fabre são utilizadas em vestimentas de qualidade em todo o reino.",
+        "es": "[Instructor Subino]\nLa mayor parte de la ropa que proporciona la Academia de criaturas está confeccionada con ^FF0000Pelusa^000000 de Fabre. Es un tejido muy resistente y calentito."
+    },
+    "51jCBg": {
+        "en": "[Battle Instructor Subino]\n^FF0000Fabre^00000 is the most common bug which is usually seen in Rune-Midgard Kingdom.\nIt is a worm but it is very popular because it looks cute.",
+        "pt": "[Spino]\nO ^FF0000Fabre^00000 é o inseto mais comum, geralmente visto em Rune-Midgard.\nÉ um verme, mas é muito popular por parecer fofo.",
+        "es": "[Instructor Subino]\nEl ^FF0000Fabre^00000 es el insecto más común que suele verse en el reino de Rune-Midgard.\nEs un gusano, pero es muy popular porque se ve adorable."
+    },
+    "6FjCBg": {
+        "en": "[Battle Instructor Subino]\nFabre is easily found at the ^FF0000West field of Izlude^000000.\nHunt ^FF000010 Fabres^000000 and bring ^FF00003 Fluff^000000.\nYou can check received quests by pressing ^FF0000Alt+U^000000",
+        "pt": "[Spino]\nVocê pode encontrar o Fabre ao oeste da Cidade de Izlude, que é onde a Academia Criatura fica.\nDerrote pelo menos 10 Fabres e pegue 3 penas.\nVocê pode verificar a missão usando o atalho ^FF0000Alt+U^000000.",
+        "es": "[Instructor Subino]\nEs fácil encontrar Fabre en el ^FF0000campo del oeste de Izlude^000000.\nCaza a ^FF000010Fabre^000000 y trae ^FF00003Pelusas^000000.\nPuedes revisar las misiones recibidas presionando ^FF0000Alt+U^000000"
+    },
+    "6VjCBg": {
+        "en": "[Battle Instructor Subino]\nYou don't have enough ^FF0000Chrysalis^000000.\nDo better!.",
+        "pt": "[Spino]\nParece que estão faltando algumas ^FF0000Cascas de Pupa^000000.\nPegue mais algumas e volte aqui.",
+        "es": "[Instructor Subino]\nNo tienes suficientes ^FF0000Crisálidas^000000.\n¡Hazlo mejor!"
+    },
+    "6ljCBg": {
+        "en": "[Battle Instructor Subino]\n^FF0000Pupa^000000 is the intermediate stage of a Fabre before transforming into a Creamy.\nThe process of a larva turning into a butterfly is mysterious.",
+        "pt": "[Spino]\nA ^FF0000Pupa^000000 faz parte do processo de transformação do Fabre.\nQuem diria que lagartas virariam borboletas...",
+        "es": "[Instructor Subino]\nLa ^FF0000Pupa^000000 es la fase intermedia de un Fabre antes de transformarse en un Creamy.\nEl proceso por el que una larva se convierte en mariposa es misterioso."
+    },
+    "61jCBg": {
+        "en": "[Battle Instructor Subino]\nAs a Fabre transforms to a Creamy I hope that all Novices turn to be a great adventurers! So ^FF0000Chrysalis^000000.",
+        "pt": "[Spino]\nA Casca da Pupa tem suas utilidades por causa da rigidez...",
+        "es": "[Instructor Subino]\nAsí como un Fabre se transforma en un Creamy, ¡espero que todos los Principiantes se conviertan en excelentes trotamundos! Así que, trae ^FF0000Crisálidas^000000."
+    },
+    "7FjCBg": {
+        "en": "[Battle Instructor Subino]\nYou can challenge to the quest as long as you need my help so come to me anytime.",
+        "pt": "[Spino]\nVocê pode desafiar a missão enquanto precisar da minha ajuda, então venha até mim a qualquer momento.",
+        "es": "[Instructor Subino]\nPuedes realizar la misión siempre que necesites mi ayuda, así que búscame cuando quieras."
+    },
+    "7VjCBg": {
+        "en": "[Battle Instructor Subino]\nPupa is easily found at the ^FF0000West field of Izlude^000000.\nHunt ^FF00005 Pupas^000000  and bring ^FF00002 Chrysalis^000000.\nYou can check received quests by pressing ^FF0000Alt+U^000000",
+        "pt": "[Spino]\nÉ fácil encontrar Pupas ao oeste da Cidade de Izlude, que é onde a Academia Criatura fica.\nDerrote pelo menos 5 Pupas e pegue 3 Cascas.\nVocê pode verificar a missão usando o atalho ^FF0000Alt+U^000000.",
+        "es": "[Instructor Subino]\nEs fácil encontrar Pupas en el ^FF0000campo del oeste de Izlude^000000.\nCaza a ^FF00005Pupas^000000 y trae ^FF00002Crisálidas^000000.\nPuedes revisar las misiones recibidas presionando ^FF0000Alt+U^000000"
+    },
+    "7ljCBg": {
+        "en": "Buzzing~(7~10)",
+        "pt": "Zumbido~(7~10)",
+        "es": "Zumbido~(7-10)."
+    },
+    "71jCBg": {
+        "en": "[Battle Instructor Subino]\nYou don't have enough ^FF0000Bee Sting^000000.\nDo better!",
+        "pt": "[Spino]\nParece que estão faltando alguns ^FF0000Ferrões de Abelha^000000.\nPegue mais alguns e volte até aqui.",
+        "es": "[Instructor Subino]\nNo tienes suficientes ^FF0000Aguijones de abeja^000000.\n¡Hazlo mejor!"
+    },
+    "8FjCBg": {
+        "en": "[Battle Instructor Subino]\n^FF0000Hornet^000000s are a group of bees that live near Prontera under control of the Queen bee Mistress.\nNot aggressive... they only attack with their stingers when they are in danger.",
+        "pt": "[Spino]\nO ^FF0000Zangão^000000 é uma criatura que vive em grupo. Juntos protegem a Abelha-Rainha.\nNão costuma ser uma criatura agressiva, mas o ferrão pode machucar.",
+        "es": "[Instructor Subino]\nLos ^FF0000Avispones^000000 son un grupo de abejas que viven cerca de Prontera bajo el control de la Abeja reina.\nNo son agresivos… solo usan sus aguijones para atacar cuando están en peligro."
+    },
+    "8VjCBg": {
+        "en": "[Battle Instructor Subino]\nThere is a study about using the poison extracted from their stingers to make an antidote in Criatura Academy.",
+        "pt": "[Spino]\na Academia Criatura está tentando produzir um antibiótico com as substâncias extraídas do Ferrão de Abelha.",
+        "es": "[Instructor Subino]\nUn estudio de la Academia de criaturas explica el uso del veneno extraído de sus aguijones para fabricar un antídoto."
+    },
+    "8ljCBg": {
+        "en": "[Battle Instructor Subino]\nHornets are found in ^FF0000West field of Prontera^000000.\nHornet are difficult to catch for a Novice... but if you gather more Novices, you can do it.",
+        "pt": "[Spino]\nVocê pode encontrar Zangões a Oeste de Prontera. Prontera está a Noroeste de Izlude, que é onde a Academia Criatura fica.",
+        "es": "[Instructor Subino]\nLos Avispones se encuentran en el ^FF0000campo del oeste de Prontera^000000.\nA los Principiantes les resulta difícil atrapar a los Avispones por su cuenta… pero si reúnes a más Principiantes, podrás hacerlo."
+    },
+    "81jCBg": {
+        "en": "[Battle Instructor Subino]\nHunt ^FF000010 Hornets^000000 and bring ^FF00003 Bee Stings^000000.\nYou can check received quests by pressing ^FF0000Alt+U^000000",
+        "pt": "[Spino]\nDerrote pelo menos 10 Zangões e pegue 3 Ferrões de Abelha.\nVocê pode verificar a missão usando o atalho ^FF0000Alt+U^000000.",
+        "es": "[Instructor Subino]\nCaza a ^FF000010Avispones^000000 y trae ^FF00003Aguijones de abeja^000000.\nPuedes revisar las misiones recibidas presionando ^FF0000Alt+U^000000"
+    },
+    "9FjCBg": {
+        "en": "Acolyte Leader Alice",
+        "pt": "Alice",
+        "es": "Acólito Líder Alice"
+    },
+    "9VjCBg": {
+        "en": "[Alice Yisha]\noh my!\nNice to meet you.\nI am Alice Yisha ^FF0000in charge of Acolyte^000000.",
+        "pt": "[Alice, dos Noviços]\nOpa, seja bem-vindo!\nSou ^FF0000Alice^000000, a Assistente dos Noviços.",
+        "es": "[Alice Yisha]\n¡Ay, vaya!\nUn gusto conocerte.\nSoy Alice Yisha y ^FF0000estoy a cargo de los Acólitos^000000."
+    },
+    "9ljCBg": {
+        "en": "[Alice Yisha]\nWelcome~\nGlad to meet you again.",
+        "pt": "[Alice, dos Noviços]\nSeja bem-vindo!\nÉ um prazer rever você!",
+        "es": "[Alice Yisha]\nTe doy la bienvenida~.\nUn gusto volverte a ver."
+    },
+    "91jCBg": {
+        "en": "[Alice Yisha]\nDid you ^FF0000register with the Criatura Academy^000000?\nYou can register at ^FF0000information center of Criatura Academy^000000.",
+        "pt": "[Alice, dos Noviços]\nVocê ainda não se matriculou na Academia Criatura?\nVocê pode se registrar no balcão de informações da recepção.",
+        "es": "[Alice Yisha]\n¿Te ^FF0000registraste en la Academia de criaturas^000000?\nPuedes registrarte en el ^FF0000centro de información de la Academia de criaturas^000000."
+    },
+    "+FjCBg": {
+        "en": "[Alice Yisha]\nIt is annoying... but you need to register so you can receive ^FF0000lots of education and service of Criatura Academy^000000.",
+        "pt": "[Alice, dos Noviços]\nApesar da burocracia, se registrar garante muitos serviços exclusivos da Academia Criatura.",
+        "es": "[Alice Yisha]\nEs molesto… pero tienes que registrarte para que puedas recibir ^FF0000toda la educación y los servicios de la Academia de criaturas^000000."
+    },
+    "+VjCBg": {
+        "en": "[Alice Yisha]\noh my!\nNice to meet you.\nI am Alice Yisha ^FF0000in charge of the Acolyte^000000s.",
+        "pt": "[Alice, dos Noviços]\nOpa, seja bem-vindo!\nSou ^FF0000Alice^000000, a Assistente dos Noviços.",
+        "es": "[Alice Yisha]\n¡Ay, vaya!\nUn gusto conocerte.\nSoy Alice Yisha, la ^FF0000encargada de los Acólitos^000000."
+    },
+    "+ljCBg": {
+        "en": "[Alice Yisha]\nIf you did not select Acolyte as a job, why don't you study more about it?",
+        "pt": "[Alice, dos Noviços]\nSe ainda não escolheu uma Classe, considere o caminho dos Noviços.",
+        "es": "[Alice Yisha]\nSi no elegiste Acólito como clase, ¿por qué no investigas más al respecto?"
+    },
+    "+1jCBg": {
+        "en": "What is an Acolyte?",
+        "pt": "O que é Noviço?",
+        "es": "¿Qué es un Acólito?"
+    },
+    "/FjCBg": {
+        "en": "Battle Acolyte",
+        "pt": "Noviço de Batalha",
+        "es": "Acólito de Ataque."
+    },
+    "/VjCBg": {
+        "en": "Support Acolyte",
+        "pt": "Noviço de Suporte",
+        "es": "Acólito de Apoyo."
+    },
+    "/ljCBg": {
+        "en": "Change job class to Acolyte.",
+        "pt": "Mudar a classe para Noviço.",
+        "es": "Cambiar tu clase a Acólito."
+    },
+    "/1jCBg": {
+        "en": "[Alice Yisha]\nAn acolyte serves ^FF0000Odin^000000 so it can use ^FF0000Holy skills^000000 according to the will of Odin.",
+        "pt": "[Alice, dos Noviços]\nNoviços servem ao deus do céu ^FF0000Odin^000000. Dependendo dos ensinamentos que seguir, pode usar uma variedade de ^FF0000habilidades secretas^000000.",
+        "es": "[Alice Yisha]\nUn Acólito está al servicio de ^FF0000Odín^000000, así que puede usar las ^FF0000habilidades sagradas^000000 de acuerdo con la voluntad de Odín."
+    },
+    "AFnCBg": {
+        "en": "[Alice Yisha]\nMost skills are based on ^FF0000the purpose of treatment or aid^000000 so it is a very important job for ^FF0000party hunting^000000.",
+        "pt": "[Alice, dos Noviços]\nA maioria das habilidades dos Noviços são destinadas à cura e melhoria de atributos. Por isso são muito úteis ao enfrentar monstros fortes.",
+        "es": "[Alice Yisha]\nLa mayoría de las habilidades se basan en ^FF0000el propósito del tratamiento o la ayuda^000000, así que es un trabajo muy importante en la ^FF0000cacería en grupo^000000."
+    },
+    "AVnCBg": {
+        "en": "[Alice Yisha]\nIt is a ^FF0000hybrid job^000000 which can change ^FF0000attack type^000000 depends on increased status, but the range of weapon is narrow because they don't use fatal killing weapons for religious reason.",
+        "pt": "[Alice, dos Noviços]\nContudo, Noviços não são restritos às habilidades de suporte. Eles também podem lutar caso usem armas específicas.",
+        "es": "[Alice Yisha]\nEs una ^FF0000clase híbrida^000000 que puede cambiar el ^FF0000tipo de ataque^000000 dependiendo de las estadísticas aumentadas, pero el alcance de las armas es limitado porque no usan armas mortales por motivos religiosos."
+    },
+    "AlnCBg": {
+        "en": "[Alice Yisha]\nAn acolyte is categorized as ^FF0000support type^000000 and ^FF0000physical attack type^000000.",
+        "pt": "[Alice, dos Noviços]\nOs noviços podem assumir dois papéis, sendo um focado no poder de ^FF0000Cura^000000 e o outro focado no ^FF0000Combate Físico^000000.",
+        "es": "[Alice Yisha]\nLos Acólitos se clasifican en dos tipos: ^FF0000Apoyo^000000 y ^FF0000Ataque^000000."
+    },
+    "A1nCBg": {
+        "en": "Support type",
+        "pt": "Cura?",
+        "es": "Tipo Apoyo."
+    },
+    "BFnCBg": {
+        "en": "Attack type",
+        "pt": "Combate Físico?",
+        "es": "Tipo Ataque."
+    },
+    "BVnCBg": {
+        "en": "[Alice Yisha]\n^FF0000INT^000000 is important status for ^FF0000support type Acolytes^000000.\n^FF0000INT^000000 enhances ^FF0000treatment function^000000 and increases ^FF0000SP^000000 which is necessary for using skills.\nIt also helps ^FF0000SP recovery^000000.",
+        "pt": "[Alice, dos Noviços]\nO poder de Cura é afetado pelo atributo ^FF0000INT^000000.\n^FF0000INT^000000 aumenta o poder de recuperação e a quantidade máxima de SP.\nMais SP significa mais Cura pra você e toda a equipe. Ninguém sai perdendo!",
+        "es": "[Alice Yisha]\nLa ^FF0000INT^000000 es una estadística importante para los ^FF0000Acólitos de tipo Apoyo^000000.\nLa ^FF0000INT^000000 mejora la ^FF0000función de tratamiento^000000 y aumenta los ^FF0000SP^000000, que son necesarios para usar las habilidades.\nTambién ayuda a la ^FF0000recuperación de SP^000000."
+    },
+    "BlnCBg": {
+        "en": "[Alice Yisha]\nBut  aid type acolyte has a weakness point such as ^FF0000It is difficult to hunt alone^000000.\nSo it goes huning with ^FF0000party^000000 or use ^FF0000heal^000000 skill to monsters with ^FF0000fire-attribute^000000.",
+        "pt": "[Alice, dos Noviços]\nO Noviço pode batalhar, mas acaba sendo um pouco fraco sozinho...\nO ideal é que os Noviços batalhem em grupo para aumentar as chances de sobrevivência.",
+        "es": "[Alice Yisha]\nPero el Acólito de tipo Apoyo tiene un punto débil: ^FF0000se le dificulta ir de cacería solo^000000.\nAsí que sale de caza en ^FF0000grupo^000000 o usa la habilidad ^FF0000Curación^000000 contra los monstruos con ^FF0000atributo Fuego^000000."
+    },
+    "B1nCBg": {
+        "en": "[Alice Yisha]\nIt is like ^FF0000heal skill with holly power is fatal to undead with fire-attribute^000000.",
+        "pt": "[Alice, dos Noviços]\nContudo, Noviços possuem uma vantagem contra inimigos Malditos, causando dano a eles com as habilidade de Cura.",
+        "es": "[Alice Yisha]\nEs como la ^FF0000habilidad de Curación con el poder sagrado, que es fatal para los Muertos vivientes con atributo Fuego^000000."
+    },
+    "CFnCBg": {
+        "en": "[Alice Yisha]\nThe important status FOR ^FF0000physical attack type^000000 acolyte is ^FF0000STR, VIT, AGI, DEX^000000.\nThe status seem to be complicated compare to support type but it is simple indeed.",
+        "pt": "[Alice, dos Noviços]\nSe focado no Combate Físico, o Noviço pode aumentar atributos como ^FF0000 FOR, VIT e DES^000000.\nApesar de ser mais variado do que o foco em INT, não é tão difícil encontrar um equilíbrio nos atributos.",
+        "es": "[Alice Yisha]\nLas estadísticas importante para el Acólito de ^FF0000tipo Ataque^000000 son ^FF0000FUE, VIT, AGI, DES^000000.\nLas estadísticas parecen complicadas en comparación con las del tipo Apoyo, pero, en realidad, es simple."
+    },
+    "CVnCBg": {
+        "en": "[Alice Yisha]\n^FF0000STR is the power, increases attack power, VIT is physical power, AGI is attack , speed and dodge, DEX increases hitting rate and skill casting speed.",
+        "pt": "[Alice, dos Noviços]\nFOR irá aumentar o dano, enquanto VIT influenciará a vida máxima...",
+        "es": "[Alice Yisha]\n^FF0000La FUE es el poder y aumenta el poder de ataque; la VIT es el poder físico; la AGI es ataque, velocidad y evasión; la DES aumenta la tasa de golpe y la velocidad de lanzamiento de habilidades."
+    },
+    "ClnCBg": {
+        "en": "[Alice Yisha]\nFor the character of ^FF0000Attack type^000000, ^FF0000DEX^000000 will be most important status...no?\nIf the attack does not hit the enemy, the attack is meaningless.\nYou may increase STR, VIT, AGI according to your style.",
+        "pt": "[Alice, dos Noviços]\nO DES é um atributo que ajuda na velocidade de lançamento de magias, o que pode ajudar caso um caminho híbrido entre Cura e Combate seja escolhido.\nO importante é encontrar um estabilidade entre os atributos, focando sempre no que achar crucial.",
+        "es": "[Alice Yisha]\nPara los Acólitos de ^FF0000tipo Ataque^000000, la ^FF0000DES^000000 es la estadística más importante… ¿no?\nSi el ataque no golpea al enemigo, el ataque no tiene sentido.\nPuedes aumentar la FUE, la VIT y la AGI según tu estilo."
+    },
+    "C1nCBg": {
+        "en": "[Alice Yisha]\nYou might think an Acolyte is not strong enough because it has no attack type skill, it enables use of sub essential skills which enhance the powers as much as you want. It helps your stable hunting.",
+        "pt": "[Alice, dos Noviços]\nApesar de não possuir habilidades ofensivas, o Noviço conta com habilidades que intensificam atributos, permitindo estratégias alternativas em batalha.",
+        "es": "[Alice Yisha]\nPuedes pensar que un Acólito no es lo suficientemente fuerte porque no tiene ninguna habilidad de tipo Ataque, pero te permite usar habilidades menos fundamentales que potencian los poderes tanto como quieras. Ayuda a que tu cacería sea estable."
+    },
+    "DFnCBg": {
+        "en": "[Alice Yisha]\nAsk me anything if you have more questions.",
+        "pt": "[Alice, dos Noviços]\nFaça todas as perguntas que desejar!",
+        "es": "[Alice Yisha]\nSi tienes más dudas, pregúntame lo que quieras."
+    },
+    "DVnCBg": {
+        "en": "[Alice Yisha]\nAn acolyte has lots of skills.\nAll those skills are useful.",
+        "pt": "[Alice, dos Noviços]\nNoviços possuem muitas habilidades...\nE, em sua maioria, são muito úteis.",
+        "es": "[Alice Yisha]\nLos Acólitos tienen muchas habilidades.\nTodas esas habilidades son útiles."
+    },
+    "DlnCBg": {
+        "en": "[Alice Yisha]\n^FF0000Heal^000000 is for the wounds, It is also used to attack undead with opposite attribute.\nIncrease the power related to ^FF0000speed^000000 and ^FF0000[Increase Agi]^000000 to increase  ^FF0000movement speed^000000\n^FF0000[Blessing]^000000 can ^FF0000enhance^000000 ^FF0000STR, INT, DEX^000000 at the same time.",
+        "pt": "[Alice, dos Noviços]\nPor exemplo, a habilidade ^FF0000Curar^000000 recupera a vida de aliados e causa dano sagrado em monstros do tipo Maldito.\n^FF0000Aumentar Agilidade^000000 consome um pouco de HP para aumentar a agilidade do alvo selecionado.\n^FF0000Bênção^000000 aumenta diversos atributos por um certo período de tempo.",
+        "es": "[Alice Yisha]\nLa ^FF0000Curación^000000 es para las heridas. También se usa para atacar a los Muertos vivientes con un atributo contrario.\nAumenta el poder relacionado con la ^FF0000velocidad^000000 y ^FF0000[aumenta la AGI]^000000 para aumentar la ^FF0000velocidad de movimiento^000000.\nLa ^FF0000[Bendición]^000000 puede ^FF0000mejorar^000000 la ^FF0000FUE, la INT y la DES^000000 al mismo tiempo."
+    },
+    "D1nCBg": {
+        "en": "[Alice Yisha]\n^FF0000[Teleport]^000000 is to ^FF0000move^000000 to other places.\n^FF0000[Warp Portal]^000000 can open a gate to the ^FF0000Places saved in memory^000000.\nThere are still more skills as well.",
+        "pt": "[Alice, dos Noviços]\n^FF0000Teleporte^000000, como bem sugere o nome, transporta o alvo para um local escolhido.\n^FF0000Portal^000000 pode teleportar até oito personagens para um local selecionado...\nAlém de muitas outras...",
+        "es": "[Alice Yisha]\nEl ^FF0000[Teletransporte]^000000 sirve para ^FF0000trasladarse^000000 a otros lugares.\nEl ^FF0000[Portal de teletransporte]^000000 puede abrir una puerta a los ^FF0000lugares guardados en la memoria^000000.\nTambién hay otras habilidades."
+    },
+    "EFnCBg": {
+        "en": "[Alice Yisha]\nAsk ^FF0000if you want to experience skills of an Acolyte, ask the sister next to you^000000.\nNow I am reading an itroductory skill.",
+        "pt": "[Alice, dos Noviços]\nSe está em dúvidas sobre a qualidade das habilidades do Noviço, fique numa boa.\nÉ uma Classe que permite variadas táticas além da Cura...",
+        "es": "[Alice Yisha]\n^FF0000Si quieres experimentar las habilidades de los Acólitos, pregúntale a la hermana que está a tu lado^000000.\nAhora estoy leyendo sobre una habilidad introductoria."
+    },
+    "EVnCBg": {
+        "en": "[Alice Yisha]\noh my!\nSo.. you decided to be an Acolyte?\nOdin welcomes you.",
+        "pt": "[Alice, dos Noviços]\nOpa, puxa!\nVocê decidiu seguir o caminho do Noviço?\nOdin ficará feliz e de braços abertos.",
+        "es": "[Alice Yisha]\n¡Ay, vaya!\nAsí que… ¿decidiste ser de clase Acólito?\nOdín te da la bienvenida."
+    },
+    "ElnCBg": {
+        "en": "[Alice Yisha]\nThen, go to ^FF0000Father Marcis^000000 at the ^FF0000Cathedral^000000 at the northeast ^FF0000Prontera^000000.\nIf your ^FF0000Job Level 10^000000, you can change to Acolyte.",
+        "pt": "[Alice, dos Noviços]\nSiga para o ^FF0000Nordeste de Prontera^000000. Lá você encontrará uma catedral. Fale com o ^FF0000Padre Marsis^000000, ele irá te ajudar.\nSe o nível de Classe for ^FF0000maior que 10^000000, você poderá alterar para a Classe de Noviço.",
+        "es": "[Alice Yisha]\nAhora ve con el ^FF0000padre Marcis^000000 que está en la ^FF0000catedral^000000 en el noreste de ^FF0000Prontera^000000.\nSi tienes ^FF0000nivel de clase10^000000, puedes cambiar a clase Acólito."
+    },
+    "E1nCBg": {
+        "en": "[Alice Yisha]\nIn order to change jobs to the first job, you need at least ^FF0000Job Level 10^000000.\nI think you're still lacking, so why not try taking on a simple quest?",
+        "pt": "[Alice, dos Noviços]\nPara mudar de Classe, o nível de Classe deve ser pelo menos 10...\nAcho que você ainda não tá no nível necessário... Por que não tenta fazer algumas missões?",
+        "es": "[Alice Yisha]\nPara cambiar a la primera clase, necesitas al menos ^FF0000nivel de clase10^000000.\nCreo que aún te falta, así que ¿por qué no pruebas completar una misión sencilla?"
+    },
+    "FFnCBg": {
+        "en": "[Alice Yisha]\nIf you go to the logistics room ^FF0000on the first floor^000000, <NAVI>[Svino]<INFO>iz_ac01_a,59,83,</INFO></NAVI> will give you a quest.",
+        "pt": "[Alice, dos Noviços]\nSe for até o térreo e seguir para o Instrutor de Combate,<NAVI>[Spino]<INFO>iz_ac01_a,59,83,</INFO></NAVI> poderá realizar algumas missões.",
+        "es": "[Alice Yisha]\nSi vas a la sala de logística ^FF0000en el primer piso^000000, <NAVI>[Subino]<INFO>iz_ac01_a 59, 83</INFO></NAVI> te dará una misión."
+    },
+    "FVnCBg": {
+        "en": "[Alice Yisha]\nIf you change jobs directly at the cathedral\nAs a little bonus, we teach you the skills you need to practice right away.",
+        "pt": "[Alice, dos Noviços]\nSe você mudar de classe diretamente na catedral,\ncomo um pequeno bônus, ensinamos as habilidades necessárias para praticar imediatamente.",
+        "es": "[Alice Yisha]\nSi cambias de clase directamente en la catedral,\ncomo una pequeña ayuda adicional, te enseñaremos las habilidades que necesitas practicar de inmediato."
+    },
+    "FlnCBg": {
+        "en": "[Alice Yisha]\nIf you change jobs right here\n^4D4DFFTo acquire additional skills^000000, you need to do some quests.",
+        "pt": "[Alice, dos Noviços]\nSe mudar de classe aqui,\n^4D4DFFpara adquirir habilidades adicionais^000000, você precisará completar algumas missões.",
+        "es": "[Alice Yisha]\nSi cambias de clase aquí mismo,\ntendrás que hacer algunas misiones ^4D4DFFpara adquirir habilidades adicionales^000000."
+    },
+    "F1nCBg": {
+        "en": "[Alice Yisha]\nEither way, it's up to you...",
+        "pt": "[Alice, dos Noviços]\nDe qualquer forma, a escolha é sua...",
+        "es": "[Alice Yisha]\nDe cualquier forma, depende de ti…"
+    },
+    "GFnCBg": {
+        "en": "Still, I want to change jobs right away.",
+        "pt": "Ainda assim, quero mudar de classe agora.",
+        "es": "Aun así, quiero cambiar de clase enseguida."
+    },
+    "GVnCBg": {
+        "en": "I'll go to the cathedral and change jobs.",
+        "pt": "Vou até a catedral e mudo de classe lá.",
+        "es": "Iré a la catedral y cambiaré de clase."
+    },
+    "GlnCBg": {
+        "en": "[Alice Yisha]\nPlease change jobs through priest from the ^4D4DFFcathedral^000000 here.\nWe respect your choice.",
+        "pt": "[Alice, dos Noviços]\nPor favor, mude de classe através do sacerdote da ^4D4DFFcatedral^000000 aqui.\nRespeitamos sua decisão.",
+        "es": "[Alice Yisha]\nCambia de clase a través del sacerdote de la ^4D4DFFcatedral^000000 aquí.\nRespetamos tu elección."
+    },
+    "G1nCBg": {
+        "en": "[Alice Yisha]\nYou've decided.",
+        "pt": "[Alice, dos Noviços]\nVocê decidiu.",
+        "es": "[Alice Yisha]\nYa decidiste."
+    },
+    "HFnCBg": {
+        "en": "[Alice Yisha]\nI'll send you to prontera.\nThen, go to ^FF0000Father Marcis^000000 at the ^FF0000Cathedral^000000 at the northeast ^FF0000Prontera^000000.\nIf your ^FF0000Job Level 10^000000, you can change to Acolyte.",
+        "pt": "[Alice, dos Noviços]\nParece que está pronto, vou te passar as instruções...\nSiga para o ^FF0000Nordeste de Prontera^000000. Lá você encontrará uma catedral. Fale com o ^FF0000Padre Marsis^000000, ele irá te ajudar.\nSe o nível de Classe for ^FF0000maior que 10^000000, você poderá alterar para a Classe de Noviço.",
+        "es": "[Alice Yisha]\nTe enviaré a Prontera.\nAhora ve con el ^FF0000padre Marcis^000000 que está en la ^FF0000catedral^000000 en el noreste de ^FF0000Prontera^000000.\nSi tienes ^FF0000nivel de clase10^000000, puedes cambiar a clase Acólito."
+    },
+    "HVnCBg": {
+        "en": "Move",
+        "pt": "Ir em busca da catedral em Prontera",
+        "es": "Ir."
+    },
+    "HlnCBg": {
+        "en": "Cancel.",
+        "pt": "Cancelar.",
+        "es": "Cancelar."
+    },
+    "H1nCBg": {
+        "en": "[Alice Yisha]\nThen good luck~\nBye~~",
+        "pt": "[Alice, dos Noviços]\nTe desejo uma boa sorte!\nE continue lutando pelos seus ideais!",
+        "es": "[Alice Yisha]\nEntonces, buena suerte~.\nAdiós~~."
+    },
+    "IFnCBg": {
+        "en": "[Alice Yisha]\nIf you have any other questions, please feel free to ask.",
+        "pt": "[Alice, dos Noviços]\nSe tiver outras dúvidas, pergunte à vontade.",
+        "es": "[Alice Yisha]\nSi tienes alguna otra pregunta, no dudes en preguntar."
+    },
+    "IVnCBg": {
+        "en": "[Alice Yisha]\nOh Odin!\nNice to meet you.\nI am alice yisha ^FF0000in charge of an acolyte^000000.",
+        "pt": "[Alice, dos Noviços]\nOpa, seja bem-vindo!\nÉ um prazer conhecer você!\nSou ^FF0000Alice^000000, a Assistente dos Noviços.",
+        "es": "[Alice Yisha]\n¡Ay, por Odín!\nUn gusto conocerte.\nSoy Alice Yisha y ^FF0000estoy a cargo de los Acólitos^000000."
+    },
+    "IlnCBg": {
+        "en": "[Alice Yisha]\nI guess you do not need my help any more\nDo you have any questions about Acolytes?",
+        "pt": "[Alice, dos Noviços]\nAcho que você não precisa da minha ajuda...\nVocê tem alguma dúvida sobre a classe de Noviço?",
+        "es": "[Alice Yisha]\nSupongo que ya no necesitas mi ayuda.\n¿Tienes alguna pregunta sobre los Acólitos?"
+    },
+    "I1nCBg": {
+        "en": "A nun",
+        "pt": "Religiosa",
+        "es": "El nunca"
+    },
+    "JFnCBg": {
+        "en": "[A Nun]\nWow... this academy is amazing?\nIt was not like this when I used to train in the past.",
+        "pt": "[Religiosa]\nNão é incrível ter uma Academia Criatura assim?\nMudou muito desde que comecei...",
+        "es": "[Monja]\n¡Vaya! ¿Esta academia no es increíble?\nNo era así cuando entrenaba en el pasado."
+    },
+    "JVnCBg": {
+        "en": "[A nun]\nWow... this academy is amazing?\nIt was not like this when I used to train in the past.",
+        "pt": "[Religiosa]\nSabia que você pode se matricular aqui na Academia Criatura? Isso garante muitos benefícios!",
+        "es": "[Monja]\n¡Vaya! ¿Esta academia no es increíble?\nNo era así cuando entrenaba en el pasado."
+    },
+    "JlnCBg": {
+        "en": "[A nun]\nYou can ^FF0000register^000000 at the ^FF0000information center of the Criatura Academy^000000, it will be a great help.",
+        "pt": "[Religiosa]\nHm...\nQuem é você?\nVocê também tem interesse no livro?",
+        "es": "[Monja]\nPuedes ^FF0000registrarte^000000 en el ^FF0000centro de información de la Academia de criaturas^000000, será de gran ayuda."
+    },
+    "J1nCBg": {
+        "en": "[A nun]\nAhem..~\nWho are you?\nAre you interested in this ^FF0000introductory course^000000?",
+        "pt": "[Religiosa]\nEsse é um livro especial, que te permite usar algumas Habilidades de Noviço.\nPosso te dar um se você estiver interessado...",
+        "es": "[Monja]\nEjem~.\n¿Quién eres?\n¿Te interesa este ^FF0000curso introductorio^000000?"
+    },
+    "KFnCBg": {
+        "en": "[A nun]\nThis introductory manual is mysterious! It enables the ^FF0000use a couple of an Acolyte's skill^000000.\nWill you borrow it?",
+        "pt": "[Religiosa]\nVocê já tem um ^FF0000Manual do Noviço^000000.\nNão posso te dar outro...",
+        "es": "[Monja]\n¡Este manual introductorio es misterioso! Activa el ^FF0000uso de un par de las habilidades de los Acólitos^000000.\n¿Quieres que te lo preste?"
+    },
+    "KVnCBg": {
+        "en": "Take the Acolyte Course.",
+        "pt": "Oba, eu quero!",
+        "es": "Hacer el curso de Acólito."
+    },
+    "KlnCBg": {
+        "en": "[A nun]\nyou already have one\nWe do not give two.",
+        "pt": "[Religiosa]\nPra usar é muito simples...\nÉ só clicar duas vezes no item e depois conferir as Habilidades usando o atalho ^FF0000Alt+S^000000.",
+        "es": "[Monja]\nYa tienes uno.\nNo damos dos."
+    },
+    "K1nCBg": {
+        "en": "[A nun]\nThen, use it for good.\n^FF0000Equip (double click or drag to equipment window)^000000 and open the ^FF0000skill window(Alt+S)^000000 to see the skills in manual.",
+        "pt": "[Religiosa]\nNão quer? Tudo bem...\n...",
+        "es": "[Monja]\nAsí que úsalo bien.\n^FF0000Equípalo (haciendo doble clic o arrastrándolo a la ventana de equipamiento)^000000 y abre la ^FF0000ventana de habilidades (Alt+S)^000000 para ver las habilidades del manual."
+    },
+    "LFnCBg": {
+        "en": "[A nun]\nWell.. if you are not interested.. fine.\nmurmuring",
+        "pt": "Hmm, não quero, não...",
+        "es": "[Monja]\nBueno… si no te interesa… está bien.\n*Murmura*"
+    },
+    "LVnCBg": {
+        "en": "[Alice Yisha]\nIf you go to the logistics room ^FF0000on the first floor^000000, <NAVI>[Svino]<INFO>iz_ac01_b,59,83,</INFO></NAVI> will give you a quest.",
+        "pt": "[Alice, dos Noviços]\nSe for até o térreo e seguir para o Instrutor de Combate,<NAVI>[Spino]<INFO>iz_ac01_b,59,83,</INFO></NAVI> poderá realizar algumas missões.",
+        "es": "[Alice Yisha]\nSi vas a la sala de logística ^FF0000en el primer piso^000000, <NAVI>[Subino]<INFO>iz_ac01_b 59, 83</INFO></NAVI> te dará una misión."
+    },
+    "LlnCBg": {
+        "en": "[Alice Yisha]\nIf you go to the logistics room ^FF0000on the first floor^000000, <NAVI>[Svino]<INFO>iz_ac01_c,59,83,</INFO></NAVI> will give you a quest.",
+        "pt": "[Alice, dos Noviços]\nSe for até o térreo e seguir para o Instrutor de Combate,<NAVI>[Spino]<INFO>iz_ac01_c,59,83,</INFO></NAVI> poderá realizar algumas missões.",
+        "es": "[Alice Yisha]\nSi vas a la sala de logística ^FF0000en el primer piso^000000, <NAVI>[Subino]<INFO>iz_ac01_c 59, 83</INFO></NAVI> te dará una misión."
+    },
+    "L1nCBg": {
+        "en": "[Alice Yisha]\nIf you go to the logistics room ^FF0000on the first floor^000000, <NAVI>[Svino]<INFO>iz_ac01_d,59,83,</INFO></NAVI> will give you a quest.",
+        "pt": "[Alice, dos Noviços]\nSe for até o térreo e seguir para o Instrutor de Combate,<NAVI>[Spino]<INFO>iz_ac01_d,59,83,</INFO></NAVI> poderá realizar algumas missões.",
+        "es": "[Alice Yisha]\nSi vas a la sala de logística ^FF0000en el primer piso^000000, <NAVI>[Subino]<INFO>iz_ac01_d 59, 83</INFO></NAVI> te dará una misión."
+    },
+    "MFnCBg": {
+        "en": "Otter Samssoon",
+        "pt": "Otto",
+        "es": "Nutria Sansón"
+    },
+    "MVnCBg": {
+        "en": "[Otter Samssoon]\nWelcome~\nI am Samssoon~!  I am a royal hair designer otter sent to academy.",
+        "pt": "[Otto]\nSeja bem-vindo!\nSou Otto, enviado aa Academia Criatura para ser o Cabeleireiro.",
+        "es": "[Nutria Samssoon]\nTe doy la bienvenida~.\n¡Soy Samssoon~!  Soy una nutria estilista de la realeza enviada a la academia."
+    },
+    "MlnCBg": {
+        "en": "[Otter Samssoon]\nIf you take the ^FF0000Criatura Beauty Coupon^000000, they change your hairstyle for free! So do not miss this ^FF0000once in a lifetime^000000 chance~",
+        "pt": "[Otto]\nSe me trazer um ^FF0000 Cupom de Corte de Cabelo^000000, irei mudar o estilo de sua cabeleira de graça. Não perca essa chance única!",
+        "es": "[Nutria Samssoon]\nSi llevas el ^FF0000Cupón de belleza Criatura^000000, ¡te cambian el peinado gratis! Así que no te pierdas esta ^FF0000oportunidad única^000000 en la vida~."
+    },
+    "M1nCBg": {
+        "en": "change hair style.",
+        "pt": "Mudar o corte de cabelo",
+        "es": "Cambiar de peinado."
+    },
+    "NFnCBg": {
+        "en": "how to get a coupon",
+        "pt": "Como consigo o cupom?",
+        "es": "¿Cómo obtengo un cupón?"
+    },
+    "NVnCBg": {
+        "en": "- You cannot use this service. Please use a styling shop in another town. -",
+        "pt": "Pego minha franja e vou embora...",
+        "es": "-No puedes usar este servicio. Ve a una tienda de estilistas en otra ciudad.-"
+    },
+    "NlnCBg": {
+        "en": "[Otter Samssoon]\nOh my honey~\nI think you already used the ^FF0000Criatura Beauty Coupon^000000?\nEven if you have another coupon, you can't use it twice.",
+        "pt": "[Otto]\nAh, meu docinho~\nAcho que você já usou o ^FF0000 Cupom de Corte de Cabelo^000000?\nMesmo com outro cupom, não dá para usar duas vezes.",
+        "es": "[Nutria Samssoon]\nAh, cariño~.\n¿Me parece a mí o ya usaste el ^FF0000Cupón de belleza Criatura^000000?\nAunque tengas otro cupón, no puedes usar el servicio dos veces."
+    },
+    "N1nCBg": {
+        "en": "[Otter Samssoon]\nIt may cost a bit, but if you want to change to a different style, you can change it at ^FF0000Alberta or Lighthalzen^000000.\nIf it's just dyeing, you can do it in ^FF0000Prontera or Lighthalzen^000000.",
+        "pt": "[Otto]\nPode custar um pouco, mas se quiser mudar para outro estilo, vá até ^FF0000Alberta ou Lighthalzen^000000.\nSe for só tingir, pode ser em ^FF0000Prontera ou Lighthalzen^000000.",
+        "es": "[Nutria Samssoon]\nPuede costarte un poco, pero, si quieres cambiar a un estilo diferente, puedes hacerlo en ^FF0000Alberta o Lighthalzen^000000.\nSi solo quieres teñirte, puedes hacerlo en ^FF0000Prontera o Lighthalzen^000000."
+    },
+    "OFnCBg": {
+        "en": "[Otter Samssoon]\nHairstyle number {0} looks like this, what do you think?",
+        "pt": "[Otto]\nJá se decidiu como vai ficar a cabeleira?\nEsse corte será minha obra-prima! Hahahahaha",
+        "es": "[Nutria Samssoon]\nEl peinado número{0} se ve así, ¿qué te parece?"
+    },
+    "OVnCBg": {
+        "en": "See other styles",
+        "pt": "Checar os estilos",
+        "es": "Ver otros estilos."
+    },
+    "OlnCBg": {
+        "en": "I want this",
+        "pt": "Quero isso",
+        "es": "Quiero este."
+    },
+    "O1nCBg": {
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar."
+    },
+    "PFnCBg": {
+        "en": "[Otter Samssoon]\nSee you next time~",
+        "pt": "[Otto]\nAté a próxima~",
+        "es": "[Nutria Samssoon]\nHasta la próxima~."
+    },
+    "PVnCBg": {
+        "en": "[Otter Samssoon]\nIt's hairstyle number {0}. Good good.",
+        "pt": "[Otto]\nÉ o penteado número {0}. Ótima escolha.",
+        "es": "[Nutria Samssoon]\nEs el peinado número{0}. Bien, bien."
+    },
+    "PlnCBg": {
+        "en": "[Otter Samssoon]\nOh right!\nWhile we're at it, do you want to dye your hair as well?\nI will provide dyeing as a bonus service.",
+        "pt": "[Otto]\nAh, certo!\nJá que está aqui, quer tingir o cabelo também?\nVou oferecer o tingimento como bônus.",
+        "es": "[Nutria Samssoon]\n¡Ah, cierto!\nYa que estamos, ¿quieres teñirte el cabello también?\nTe haré el tinte como un servicio bonificado."
+    },
+    "P1nCBg": {
+        "en": "Passionate Red",
+        "pt": "Vermelho Apaixonado",
+        "es": "Rojo pasión."
+    },
+    "QFnCBg": {
+        "en": "Sweet Yellow",
+        "pt": "Amarelo Doce",
+        "es": "Amarillo dulce."
+    },
+    "QVnCBg": {
+        "en": "Fatal Purple",
+        "pt": "Roxo Fatal",
+        "es": "Morado fatal."
+    },
+    "QlnCBg": {
+        "en": "Glamourous Orange",
+        "pt": "Laranja Glamouroso",
+        "es": "Naranja glamoroso."
+    },
+    "Q1nCBg": {
+        "en": "Comfortable Green",
+        "pt": "Verde Confortável",
+        "es": "Verde cómodo."
+    },
+    "RFnCBg": {
+        "en": "Clear Blue",
+        "pt": "Azul Claro",
+        "es": "Azul claro."
+    },
+    "RVnCBg": {
+        "en": "Transparent White",
+        "pt": "Branco Transparente",
+        "es": "Blanco transparente."
+    },
+    "RlnCBg": {
+        "en": "Dark Black",
+        "pt": "Preto Escuro",
+        "es": "Negro oscuro."
+    },
+    "R1nCBg": {
+        "en": "[Otter Samssoon]\nNo?\nDo you need more time? If you want to keep the same color, then select the same one.",
+        "pt": "Otto]\nNão?\nPrecisa de mais tempo? Se quiser manter a mesma cor, selecione-a de novo.",
+        "es": "[Nutria Samssoon]\n¿No?\n¿Necesitas más tiempo? Si quieres mantener el color, selecciona el mismo."
+    },
+    "SFnCBg": {
+        "en": "[Otter Samssoon]\nYou need a Criatura Beauty Coupon to get your hair styled. Are you ready?",
+        "pt": "[Otto]\nPrecisa de um Cupom de Corte de Cabelo para mudar o penteado. Está pronto?",
+        "es": "[Nutria Samssoon]\nNecesitas un Cupón de belleza Criatura para que te peinen. ¿Tienes todo listo?"
+    },
+    "SVnCBg": {
+        "en": "I'm ready",
+        "pt": "Estou pronto",
+        "es": "Todo listo."
+    },
+    "SlnCBg": {
+        "en": "Not yet",
+        "pt": "Ainda não",
+        "es": "Todavía no."
+    },
+    "S1nCBg": {
+        "en": "[Otter Samssoon]\nOh my honey~\nwhere is the coupon that you were holding before??\nYou must have it~",
+        "pt": "[Otto]\nAh, meu docinho~\nCadê o cupom que você tinha antes??\nVocê deve ter ele~",
+        "es": "[Nutria Samssoon]\nAh, cariño~.\n¿Dónde está el cupón que tenías antes?\nDebes tenerlo~."
+    },
+    "TFnCBg": {
+        "en": "- Sha sha shak shak shak  -\n- chikak, crack crak.. -\n- snap, snap snap..crack -\n- Sha sha shak shak shak  -",
+        "pt": "Sha sha shak shak shak -\nchikak, crack crak.. -\nsnap, snap snap..crack -\nSha sha shak shak shak -",
+        "es": "*Sha, sha, shac, shac, shac*\n*Chicac, crac, crac*\n*Trac, trac, trac… crac*\n*Sha, sha, shac, shac, shac*"
+    },
+    "TVnCBg": {
+        "en": "[Otter Samssoon]\noh my! oh my! oh my!\nthis hair style suits to you~\nWhat do you think?",
+        "pt": "[Otto]\nAh, meu! Ah, meu! Ah, meu!\nEste penteado combina tanto com você~\nO que acha?",
+        "es": "[Nutria Samssoon]\n¡Ay, por todos los dioses!\nEste peinado te queda muy bien~.\n¿Qué opinas?"
+    },
+    "TlnCBg": {
+        "en": "[Otter Samssoon]\nIf you rush too much, you might fall. Be careful.",
+        "pt": "[Otto]\nSe você se apressar demais, pode cair. Tome cuidado.",
+        "es": "[Nutria Samssoon]\nSi te apresuras demasiado, puedes caerte. Ten cuidado."
+    },
+    "T1nCBg": {
+        "en": "[Otter Samssoon]\nhoney~ you don't like it?\nAhem.. do you want to read style book again?\nTake your time and tell me when you decide~ okay?~",
+        "pt": "[Otto]\nDocinho~ não gostou?\nAhem... quer ver o catálogo de estilos de novo?\nPense com calma e me avise quando decidir~ ok?~",
+        "es": "[Nutria Samssoon]\nCariño~, ¿no te gusta?\nEjem… ¿Quieres leer el libro de estilos otra vez?\nTómate tu tiempo y avísame cuando hayas tomado una decisión~, ¿sí~?"
+    },
+    "UFnCBg": {
+        "en": "[Otter Samssoon]\nYou can receive ^FF0000Criatura beauty coupon^000000 from ^FF0000vending machine for novice in 1st job guild or paradise club^000000.",
+        "pt": "[Otto]\nVocê pode pegar o ^FF0000Cupom de Cabeleireiro do Calouro^000000 na ^FF0000máquina de vendas para Aprendizes na Academia Criatura ou no Grupo do Éden^000000.",
+        "es": "[Nutria Samssoon]\nPuedes obtener un ^FF0000Cupón de belleza Criatura^000000 en la ^FF0000máquina expendedora para Principiantes en el gremio de la primera clase o en el Grupo de Edén^000000."
+    },
+    "UVnCBg": {
+        "en": "[Otter Samssoon]\nthey don't give for free.. well.. the equipment you had received when you arrived at academy?\nThey change ^FF0000egg shell for novice^000000 to coupon?",
+        "pt": "[Otto]\nNão é de graça... bem... lembrou do equipamento que ganhou na academia?\nEles trocam a ^FF0000Chapéu de Ovo do Aprendiz^000000 pelo cupom.",
+        "es": "[Nutria Samssoon]\nNo los dan gratis… bueno… ¿y el equipamiento que recibiste cuando llegaste a la Academia?\n¿Cambian una ^FF0000Cáscara de huevo para Principiantes^000000 por un cupón?"
+    },
+    "UlnCBg": {
+        "en": "[Otter Samssoon]\nThis service has started since I came here. so..no free service if you have no coupon~",
+        "pt": "[Otto]\nEste serviço começou quando cheguei aqui. Então... nada de grátis sem cupom~",
+        "es": "[Nutria Samssoon]\nEste servicio comenzó cuando llegué aquí. Así que… no hay servicio gratis si no tienes un cupón~."
+    },
+    "U1nCBg": {
+        "en": "[Otter Samssoon]\noh my !!?honey, you are not going to change hair?\nyou look nice now rough style.",
+        "pt": "[Otto]\nAh, meu!!? Docinho, não vai mudar o cabelo?\nSeu estilo despojado está lindo assim.",
+        "es": "[Nutria Samssoon]\n¡Ay! Cariño, ¿no cambiarás de peinado?\nTe ves bien ahora, con un estilo rudo."
+    }
+}

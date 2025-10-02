@@ -1,0 +1,602 @@
+{
+    "YIT/Ag": {
+        "en": "swordsman training helper",
+        "pt": "Fulano de Tal",
+        "es": "ayudante de entrenamiento de espadachines"
+    },
+    "YYT/Ag": {
+        "en": "Black bean noodle!",
+        "pt": "Senha incorreta! Confira o script para descobrir a senha certa.",
+        "es": "¡Fideos con frijoles negros!"
+    },
+    "YoT/Ag": {
+        "en": "[Carbonite Battle]\nWhat you want\ntell me honestly.",
+        "pt": "[Fulano de Tal]\nO que deseja? Seja breve!",
+        "es": "[Batalla de Carbonite]\n¿Qué quieres?\nDime sinceramente."
+    },
+    "Y4T/Ag": {
+        "en": "swordsman trainer Quest Reset",
+        "pt": "Resetar quest do Espadachim",
+        "es": "Restablecer la misión de Entrenador de Espadachín"
+    },
+    "ZIT/Ag": {
+        "en": "swordsman Helper Quest Reset",
+        "pt": "Resetar quest do Instrutor",
+        "es": "Restablecer la misión de Ayudante de Espadachín"
+    },
+    "ZYT/Ag": {
+        "en": "Shop Quest Renewal",
+        "pt": "Resetar quest dos assistentes",
+        "es": "Renovar la misión de Tienda"
+    },
+    "ZoT/Ag": {
+        "en": "[Carbonite Battle]\nhere it is!",
+        "pt": "[Fulano de Tal]\nFeito!",
+        "es": "[Batalla de Carbonite]\n¡Aquí tienes!"
+    },
+    "Z4T/Ag": {
+        "en": "Swordman Trainer",
+        "pt": "Sam, dos Espadachins",
+        "es": "Entrenador de espadachines"
+    },
+    "aIT/Ag": {
+        "en": "- Quest can't be continued due to your overfilled inventory.-",
+        "pt": "Libere um pouco de espaço no inventário e tente novamente.",
+        "es": "-La misión no puede continuar porque tu inventario está muy lleno.-"
+    },
+    "aYT/Ag": {
+        "en": "[Trainer Adric]",
+        "pt": "[Sam, dos Espadachins]",
+        "es": "[Entrenador Adric]"
+    },
+    "aoT/Ag": {
+        "en": "You want to learn about Swordsman?\nIf you want to take the class you must register",
+        "pt": "Você quer ter algumas aulas de como ser um espadachim?",
+        "es": "¿Quieres aprender sobre los Espadachines?\nSi quieres asistir a la clase, debes registrarte."
+    },
+    "a4T/Ag": {
+        "en": "[Trainer Adric]\nGo and register at the counter on the 1st floor!",
+        "pt": "[Sam, dos Espadachins]\nEstou super disposto de te ensinar... Mas você precisa se matricular no térreo primeiro!",
+        "es": "[Entrenador Adric]\n¡Ve a registrarte al mostrador del primer piso!"
+    },
+    "bIT/Ag": {
+        "en": "[Trainer Adric]\nYou want to become a swordsman?\nGreat decision.",
+        "pt": "[Sam, dos Espadachins]\nVocê quer se tornar um espadachim?\nÓtima escolha.",
+        "es": "[Entrenador Adric]\n¿Quieres convertirte en Espadachín?\nGran decisión."
+    },
+    "bYT/Ag": {
+        "en": "[Trainer Adric]\nFight on the frontline with large swords,\nBringing victory and with a high defense to protect your comrades.\nSimply put, we're the best.",
+        "pt": "[Sam, dos Espadachins]\nEspadachins contam com muita força e ótima velocidade de ataque.\nAlém disso, mesmo sozinhos, conseguem aguentar muitos inimigos.",
+        "es": "[Entrenador Adric]\nLuchamos en el frente de batalla con grandes espadas.\nConquistamos la victoria y protegemos a nuestros camaradas con defensas espectaculares.\nEn pocas palabras, somos los mejores."
+    },
+    "boT/Ag": {
+        "en": "[Trainer Adric]\nWhat do you think?\nYou want to become a Swordsman here?",
+        "pt": "[Sam, dos Espadachins]\nE aí? Quer ter umas aulas?",
+        "es": "[Entrenador Adric]\n¿Qué opinas?\n¿Quieres convertirte en Espadachín aquí?"
+    },
+    "b4T/Ag": {
+        "en": "No thanks",
+        "pt": "Não, valeu.",
+        "es": "No, gracias."
+    },
+    "cIT/Ag": {
+        "en": "I want to test Swordsman Skills!",
+        "pt": "Quero, sim! Agora!!!",
+        "es": "¡Quiero probar las habilidades de los Espadachines!"
+    },
+    "cYT/Ag": {
+        "en": "Change me right now!",
+        "pt": "Aula? Eu quero é virar Espadachim!",
+        "es": "¡Cámbiame ahora mismo!"
+    },
+    "coT/Ag": {
+        "en": "[Trainer Adric]\nSince you're not intersted in this opportunity,",
+        "pt": "[Sam, dos Espadachins]\nComo você pôde!",
+        "es": "[Entrenador Adric]\nYa que no te interesa esta oportunidad,"
+    },
+    "c4T/Ag": {
+        "en": "[Trainer Adric]\nGo hunt Porings and stay\nas a novice forever!",
+        "pt": "[Sam, dos Espadachins]\nVocê quer ser um Novato Caçador de Poring\npor toda a eternidade?",
+        "es": "[Entrenador Adric]\n¡ve a cazar Porings y sigue siendo\nPrincipiante para siempre!"
+    },
+    "dIT/Ag": {
+        "en": "[Trainer Adric]\nCalm down, lets's start over.\nFirst, I'll give you a ^FF0000Swordman Manual^000000\nRead it carefuly before asking any questions.",
+        "pt": "[Sam, dos Espadachins]\nCalma! Quanto entusiasmo!\nPrimeiro, vou te dar o ^FF0000Manual dos Espadachins^000000.\nDê uma lida e volte a falar comigo depois.",
+        "es": "[Entrenador Adric]\nCálmate, empecemos de nuevo.\nEn primer lugar, te daré un ^FF0000Manual del Espadachín^000000.\nLéelo con atención antes de preguntar nada."
+    },
+    "dYT/Ag": {
+        "en": "[Trainer Adric]\nIf you want to become a Swordman,\nYou should reach over ^006400Base level 10^000000,\nAnd become more than ^006400beginner's skill level 9^000000.",
+        "pt": "[Sam, dos Espadachins]\nPara virar Espadachim,\nvocê precisa de nível de classe ^00640010^000000\ne as ^006400Habilidades Básicas no nível 9^000000.",
+        "es": "[Entrenador Adric]\nSi quieres convertirte en Espadachín,\ndebes superar el ^006400nivel de base 10^000000,\ny tener más que un ^006400nivel 9 de habilidad de Principiante^000000."
+    },
+    "doT/Ag": {
+        "en": "[Trainer Adric]\nGet taught here and follow the steps.",
+        "pt": "[Sam, dos Espadachins]\nFaça a aula aqui\ne você estará no caminho certo para se tornar um espadachim.",
+        "es": "[Entrenador Adric]\nAprende aquí y sigue los pasos."
+    },
+    "d4T/Ag": {
+        "en": "[Trainer Adric]\nNow, it is possible to change jobs right here through a guild official dispatched from the guild.\nIf possible, I would like to go directly to the job guild and change jobs.",
+        "pt": "[Sam, dos Espadachins]\nVocê pode mudar de classe aqui conversando com a equipe que veio recentemente da guilda.\nMas recomendamos que você vá diretamente para a guilda e faça sua mudança de emprego lá.",
+        "es": "[Entrenador Adric]\nAhora, puedes cambiar de clase aquí mismo a través de un oficial del gremio.\nDe ser posible, me gustaría ir directamente al gremio de la clase para realizar el cambio."
+    },
+    "eIT/Ag": {
+        "en": "[Trainer Adric]\nIf you go directly to the job guild and change jobs,\nAs a little bonus, it teaches you the skills you need to practice right away.",
+        "pt": "[Sam, dos Espadachins]\nSe você for diretamente a uma guilda para mudar de classe,\nvocê aprenderá algumas habilidades extras que normalmente precisariam de alguma prática como bônus.\"",
+        "es": "[Entrenador Adric]\nSi vas directamente al gremio de la clase para realizar el cambio,\ncomo una pequeña bonificación, aprenderás las habilidades que necesitas de inmediato."
+    },
+    "eYT/Ag": {
+        "en": "[Trainer Adric]\nIf you change jobs right here\nIn order to acquire ^4D4DFFadditional skills^000000, you may have to do some quests.",
+        "pt": "[Sam, dos Espadachins]\nSe você fizer a mudança de classe aqui,\nterá de fazer algumas missões adicionais para adquirir as ^4D4DFFhabilidades extras^000000.",
+        "es": "[Entrenador Adric]\nSi cambias de clase aquí mismo,\npara adquirir ^4D4DFFhabilidades adicionales^000000, puede que tengas que completar algunas misiones."
+    },
+    "eoT/Ag": {
+        "en": "[Trainer Adric]\nEither way is up to you to decide, but honestly, the swordsman guild is just around the corner! It's Izlude, right?",
+        "pt": "[Sam, dos Espadachins]\nDepende totalmente de você. A Guilda dos Espadachins fica bem aqui em Izlude, sabia?",
+        "es": "[Entrenador Adric]\nEs tu decisión, pero sinceramente, ¡el gremio de Espadachines está a la vuelta de la esquina! Es en Izlude, ¿verdad?"
+    },
+    "e4T/Ag": {
+        "en": "Still, I want to change jobs right away.",
+        "pt": "Quero mudar minha classe aqui e agora.",
+        "es": "Aun así, quiero cambiar de clase enseguida."
+    },
+    "fIT/Ag": {
+        "en": "I'll go to the job guild and change jobs.",
+        "pt": "Visitarei a Guilda e farei isso.",
+        "es": "Iré al gremio de la clase y cambiaré de clase."
+    },
+    "fYT/Ag": {
+        "en": "[Trainer Adric]\nDo as you will. You can ask ^4D4DFFofficial^000000 of the swordman guild to transfer you.\nAnyway, it's your decision.",
+        "pt": "[Sam, dos Espadachins]\nComo você quiser. Vá falar com a equipe da ^4D4DFFGuilda dos Espadachins^000000 para mudar de classe.\nA escolha é sua.",
+        "es": "[Entrenador Adric]\nHaz lo que quieras. Puedes pedir al ^4D4DFFoficial^000000 del gremio de Espadachines que te transfiera.\nPero sigue siendo tu decisión."
+    },
+    "foT/Ag": {
+        "en": "[Trainer Adric]\nIt has to come out like that! Well then, shall we take a look?",
+        "pt": "[Sam, dos Espadachins]\nSim, esse é o espírito! Vamos ver...",
+        "es": "[Entrenador Adric]\n¡Así son las cosas! Entonces, ¿echamos un vistazo?"
+    },
+    "f4T/Ag": {
+        "en": "[Trainer Adric]\nYou've grown enough.\nGreat job. Now go to the swordsman guild.\nLet's change jobs.",
+        "pt": "[Sam, dos Espadachins]\nVocê cresceu bastante!\nBom trabalho. Vá para a Guilda dos Espadachins,\ne mude de classe.",
+        "es": "[Entrenador Adric]\nYa creciste bastante.\nGran trabajo. Ahora ve al gremio de Espadachines.\nCambiemos de clase."
+    },
+    "gIT/Ag": {
+        "en": "[Trainer Adric]\nThe Swordsman Guild is located in Izlude Square.\nIt's on the west side of the center\nIt will be easy to find.",
+        "pt": "[Sam, dos Espadachins]\nA Guilda dos Espadachins fica a oeste da Praça izlude.\nUm membro da Guilda dos Espadachins lhe dará informações\nsobre como mudar de classe.",
+        "es": "[Entrenador Adric]\nEl gremio de Espadachines está en la plaza de Izlude.\nEstá al oeste del centro.\nEs fácil de encontrar."
+    },
+    "gYT/Ag": {
+        "en": "[Trainer Adric]\nIf you are equipped with a ^FF0000Swordman Manual^000000\nYou'll be able to experience the basic skills of the swordsman.\nNow let's study the basics of Swordsman skills.",
+        "pt": "[Sam, dos Espadachins]\nSe você equipar o ^FF0000Manual dos Espadachins^000000,\nvocê poderá visualizar\nas habilidades do espadachim.\nAgora, vamos aprender sobre\no básico para começar um espadachim.",
+        "es": "[Entrenador Adric]\nSi tienes un ^FF0000Manual del Espadachín^000000,\npodrás experimentar las habilidades básicas de los Espadachines.\nAhora vamos a estudiar los fundamentos de sus habilidades."
+    },
+    "goT/Ag": {
+        "en": "Swordman key points",
+        "pt": "Pontos fortes do Espadachim",
+        "es": "Puntos clave para los Espadachines"
+    },
+    "g4T/Ag": {
+        "en": "Heightened Attack and defense.",
+        "pt": "Armas e Armaduras",
+        "es": "Ataque y defensa reforzados."
+    },
+    "hIT/Ag": {
+        "en": "Related stats",
+        "pt": "Atributos Relevantes",
+        "es": "Estadísticas vinculadas"
+    },
+    "hYT/Ag": {
+        "en": "Additional Swordman classes?",
+        "pt": "Evoluções",
+        "es": "¿Clases adicionales de Espadachín?"
+    },
+    "hoT/Ag": {
+        "en": "I learned enough already.",
+        "pt": "Ok, já entendi. Valeu!",
+        "es": "Ya aprendiste bastante."
+    },
+    "h4T/Ag": {
+        "en": "[Trainer Adric]\nSwordsman uses strong constitution; shrugs off damage easily from foes and when in a party, is a leader and the protector of others.",
+        "pt": "Espadachins têm muita força física.\nAlém disso, eles também têm muita defesa pra aguentar ataques e proteger o grupo!",
+        "es": "[Entrenador Adric]\nLos Espadachines son fuertes; resisten fácilmente el daño de los enemigos y, cuando forman parte de un grupo, son líderes y protegen al resto."
+    },
+    "iIT/Ag": {
+        "en": "[Trainer Adric]\nSwordsman prefer to use spears, two-handed swords or combination sword and shield.",
+        "pt": "[Sam, dos Espadachins]\nFora arcos e cajados, os\nEspadachins podem usar qualquer arma.\nGeralmente, eles usam espadas de uma mão,\nde duas mãos ou lanças.",
+        "es": "[Entrenador Adric]\nLos Espadachines prefieren usar lanzas, espadas de dos manos o combinaciones de espada y escudo."
+    },
+    "iYT/Ag": {
+        "en": "[Trainer Adric]\nAlso the swordsman's vitality is normally high making them able to carry massive amounts of weight.",
+        "pt": "[Sam, dos Espadachins]\nAlém disso, graças à sua força imensurável,",
+        "es": "[Entrenador Adric]\nAdemás, suelen tener una vitalidad alta y esto les permite cargar mucho peso."
+    },
+    "ioT/Ag": {
+        "en": "[Trainer Adric]\nDesired stats are usually ^0000FFStr^000000, ^0000FFAgi^000000, ^0000FFVit^000000, ^0000FFDex^000000\nOf course this is all up to you",
+        "pt": "Se quiser se tornar um Espadachim, invista\npontos de atributo em ^0000CDFOR^000000, ^0000CDAGI^000000, ^0000CDVIT^000000, ^0000CDDES^000000\ne ^0000CDSOR^000000, nessa ordem de relevância.",
+        "es": "[Entrenador Adric]\nLas estadísticas deseadas suelen ser ^0000FFFUE^000000, ^0000FFAGI^000000, ^0000FFVIT^000000, ^0000FFDES^000000\nPor supuesto, depende de lo que quieras."
+    },
+    "i4T/Ag": {
+        "en": "[Trainer Adric]\n^0000FFVit^000000 affects^FF0000HP recovery rate^000000.\n^0000FFStr^000000 affects ^FF0000 strength and attacking power^000000.\n^0000FFDex^000000 increases ^FF0000 accuracy of your attack^000000,",
+        "pt": "[Sam, dos Espadachins]\n^0000FFVIT^000000 influencia sua ^FF0000recuperação de HP^000000,\n^0000FFFOR^000000 afeta ^FF0000seu poder e força física^000000 e\n^0000FFDES^000000 aumenta a ^FF0000precisão dos seus ataques^000000.",
+        "es": "[Entrenador Adric]\nLa ^0000FFVIT^000000 afecta la ^FF0000tasa de recuperación de HP^000000.\nLa ^0000FFFUE^000000 afecta la ^FF0000fuerza y el poder de ataque^000000.\nLa ^0000FFDES^000000 aumenta la ^FF0000precisión de tus ataques^000000."
+    },
+    "jIT/Ag": {
+        "en": "[Trainer Adric]\n^0000FFAgi^000000 increases ^FF0000 attacking speed^000000 and ^FF0000 evasion rate^000000,\n^0000FFLuk^000000 affects ^FF0000 probability of critical ^000000.",
+        "pt": "^0000FFAGI^000000 aumenta sua ^FF0000velocidade de ataque^000000 e ^FF0000esquiva^000000.\n^0000FFSOR^000000 aumenta a ^FF0000taxa de crítico^000000.",
+        "es": "[Entrenador Adric]\nLa ^0000FFAGI^000000 aumenta la ^FF0000 velocidad de ataque^000000 y la ^FF0000 tasa de evasión^000000.\nLa ^0000FFSUE^000000 afecta la ^FF0000 probabilidad de asestar un ataque crítico^000000."
+    },
+    "jYT/Ag": {
+        "en": "[Trainer Adric]\nAfter changing to a Swordsman\nyou can change to a ^0000FF Knight ^000000 or ^0000FFCrusader^000000.",
+        "pt": "Depois de seguir pelo caminho dos Espadachins e atingir o nível de classe 40^000000\nvocê pode evoluir para ^0000CDCavaleiro(a)^000000\nou ^0000CDTemplário(a)^000000.",
+        "es": "[Entrenador Adric]\nDespués de cambiar a Espadachín,\npuedes cambiar a ^0000FFCaballero^000000 o ^0000FFCruzado^000000."
+    },
+    "joT/Ag": {
+        "en": "[Trainer Adric]\nGo raise your strength\nwhile figuring out if you're offensive or defensive.\nThis is something you should do.",
+        "pt": "[Sam, dos Espadachins]\nEntão, durante o treinamento,\né melhor você avaliar se prefere\nestilos ofensivos ou defensivos.",
+        "es": "[Entrenador Adric]\nVe a aumentar tu fuerza\nmientras descubres si prefieres la ofensiva o la defensiva.\nDeberías hacer esto."
+    },
+    "j4T/Ag": {
+        "en": "[Trainer Adric]\nThe study material can be retaught by Neals the assitant trainer.\nRemember this.",
+        "pt": "[Sam, dos Espadachins]\nTalvez Niels, o meu assistente,\npossa te ajudar.",
+        "es": "[Entrenador Adric]\nNeals, el entrenador asistente, puede volver a enseñarte el material de estudio.\nRecuerda esto."
+    },
+    "kIT/Ag": {
+        "en": "[Trainer Adric]\nUsing the Swordman Manual I gave you train by hunting monsters.\nGo to the Battle Instructor Subino on the first floor Armory room.",
+        "pt": "[Sam, dos Espadachins]\nDê uma lida no manual que eu lhe dei.\nDepois disso, vá falar com o Spino, o instrutor de combate.",
+        "es": "[Entrenador Adric]\nDebes usar el Manual del Espadachín que te di y entrenarte cazando monstruos.\nVe a ver a Subino, el instructor de combate, en la armería del primer piso."
+    },
+    "kYT/Ag": {
+        "en": "[Trainer Adric]\nRaise your level to ^006400job level 10^000000 and get to\n^006400 beginner's skill level 9^000000,\ncome back here again.",
+        "pt": "[Sam, dos Espadachins]\nTreine duro até chegar no nível 10 de classe\ne ter nível 9 em Habilidades Básicas.\nAí sim poderei te ajudar.",
+        "es": "[Entrenador Adric]\nSube tu nivel a ^006400nivel de clase 10^000000 y llega al\n^006400nivel 9 de habilidad de Principiante^000000\npara volver aquí."
+    },
+    "koT/Ag": {
+        "en": "[Trainer Adric]\nSince you have enough job levels,\nyou don't need any more lecturing.",
+        "pt": "[Sam, dos Espadachins]\nVocê já pode se tornar Espadachim!",
+        "es": "[Entrenador Adric]\nYa que tienes suficiente nivel de clase,\nno necesitas más sermones."
+    },
+    "k4T/Ag": {
+        "en": "Then I will stop.",
+        "pt": "Certo, vou parar de treinar então.",
+        "es": "No diré nada más."
+    },
+    "lIT/Ag": {
+        "en": "But I want to listen more.",
+        "pt": "Eu ainda quero ter o treinamento.",
+        "es": "Pero sí quiero escuchar más."
+    },
+    "lYT/Ag": {
+        "en": "I want to be a Swordsman right away!",
+        "pt": "Quero virar Espadachim agora mesmo.",
+        "es": "¡Quiero ser Espadachín ahora mismo!"
+    },
+    "loT/Ag": {
+        "en": "[Trainer Adric]\nYou surpassed the study material to raise your level.",
+        "pt": "[Sam, dos Espadachins]\nFoi bem esperto subir de nível",
+        "es": "[Entrenador Adric]\nSuperaste el material de estudio para subir de nivel."
+    },
+    "l4T/Ag": {
+        "en": "[Trainer Adric]\nImpressive.",
+        "pt": "[Sam, dos Espadachins]\nantes de começar o treinamento.",
+        "es": "[Entrenador Adric]\nImpresionante."
+    },
+    "mIT/Ag": {
+        "en": "[Trainer Adric]\nThere's nothing else special to teach you.\nEverything I taught you if you remember them well, that's all you need.",
+        "pt": "[Sam, dos Espadachins]\nEu já te passei tudo que eu sabia!",
+        "es": "[Entrenador Adric]\nNo tengo nada más especial para enseñarte.\nSi recuerdas bien todo lo que te enseñé, no necesitarás nada más."
+    },
+    "mYT/Ag": {
+        "en": "[Trainer Adric]\nIf you need additional training,\nGo to the Battle Instructor Subino on the first floor Armory room.",
+        "pt": "[Sam, dos Espadachins]\nSe quiser aprender mais, fale com o\nInstrutor Spino, lá no térreo.",
+        "es": "[Entrenador Adric]\nSi necesitas entrenarte más…\nVe a ver a Subino, el instructor de combate, en la armería del primer piso."
+    },
+    "moT/Ag": {
+        "en": "This is very tedious.",
+        "pt": "Ah, que saco...",
+        "es": "Es muy tedioso."
+    },
+    "m4T/Ag": {
+        "en": "I need more training.",
+        "pt": "Eu quero treinar mais!!!",
+        "es": "Necesito entrenar más."
+    },
+    "nIT/Ag": {
+        "en": "[Trainer Adric]\nA simple No would've sufficed.",
+        "pt": "[Sam, dos Espadachins]\nVocê que pediu por mais treinamento. Estou apenas te orientando aonde deve ir!",
+        "es": "[Entrenador Adric]\nCon un no ya era suficiente."
+    },
+    "nYT/Ag": {
+        "en": "[Trainer Adric]\nGo to the Battle Instructor Subino on the first floor Armory room.",
+        "pt": "[Sam, dos Espadachins]\nVá falar com o Spino.\nEle continuará seu treinamento.",
+        "es": "[Entrenador Adric]\nVe a ver a Subino, el instructor de combate, en la armería del primer piso."
+    },
+    "noT/Ag": {
+        "en": "[Trainer Adric]\nIf you think you're ready, come bak here.\nYou need to change to a Swordsman job soon!",
+        "pt": "[Sam, dos Espadachins]\nVenha falar comigo\nse você acha que está pronto.\nVocê precisa se tornar um espadachim agora mesmo!",
+        "es": "[Entrenador Adric]\nSi crees que está todo listo, vuelve.\n¡Necesitas cambiar a la clase de Espadachín pronto!"
+    },
+    "n4T/Ag": {
+        "en": "[Trainer Adric]\nYou still don't have enough to become a Swordman.",
+        "pt": "[Treinador Adric]\nVocê ainda não tem o suficiente para se tornar Espadachim.",
+        "es": "[Entrenador Adric]\nAún no tienes todo lo necesario para convertirte en Espadachín."
+    },
+    "oIT/Ag": {
+        "en": "[Trainer Adric]\nIf you need some battle training find Subino on the first floor Armory of the Academy.",
+        "pt": "[Sam, dos Espadachins]\nSugiro que comece a treinar.\nPrimeiro, fale com o Instrutor Spino.",
+        "es": "[Entrenador Adric]\nSi necesitas entrenarte para la batalla, busca a Subino en la armería del primer piso de la Academia."
+    },
+    "oYT/Ag": {
+        "en": "[Trainer Adric]\nGood job training.",
+        "pt": "[Sam, dos Espadachins]\nVocê tem treinado muito!",
+        "es": "[Entrenador Adric]\nBuen entrenamiento."
+    },
+    "ooT/Ag": {
+        "en": "[Trainer Adric]\nYou should build your strength\nto become a great Swordsman.",
+        "pt": "[Sam, dos Espadachins]\nFique mais forte,\ne alcance um cargo mais alto.",
+        "es": "[Entrenador Adric]\nDebes desarrollar tu fuerza\npara convertirte en un Espadachín de calidad."
+    },
+    "o4T/Ag": {
+        "en": "[Trainer Adric]\nYou're already a Swordsman!",
+        "pt": "[Sam, dos Espadachins]\nVocê já é Espadachim!",
+        "es": "[Entrenador Adric]\n¡Ya eres Espadachín!"
+    },
+    "pIT/Ag": {
+        "en": "[Trainer Adric]\nThere's nothing else special to teach you.",
+        "pt": "[Sam, dos Espadachins]\nNão posso te ensinar mais.",
+        "es": "[Entrenador Adric]\nNo tengo nada más especial para enseñarte."
+    },
+    "pYT/Ag": {
+        "en": "[Trainer Adric]\nHey! You already have a job!",
+        "pt": "[Sam, dos Espadachins]\nVocê já é de outra classe.",
+        "es": "[Entrenador Adric]\n¡Oye! ¡Ya tienes una clase!"
+    },
+    "poT/Ag": {
+        "en": "[Trainer Adric]\nGo away!",
+        "pt": "[Sam, dos Espadachins]\nVá embora!",
+        "es": "[Entrenador Adric]\n¡Vete!"
+    },
+    "p4T/Ag": {
+        "en": "Swordman Assistant",
+        "pt": "Assistente Niels",
+        "es": "Ayudante de espadachín"
+    },
+    "qIT/Ag": {
+        "en": "[Assitant trainer Neals]\nYou want to learn about Swordsman?\nIf you want to take the class you must register\nat the 1st floor counter and\ncome back here.",
+        "pt": "[Assistente Niels]\nVocê quer treinar para virar Espadachim?\nEntão é melhor ir para o térreo e se matricular.",
+        "es": "[Entrenador asist. Neals]\n¿Quieres aprender sobre los Espadachines?\nSi quieres asistir a la clase, debes registrarte.\nen el mostrador del primer piso y\nvuelve."
+    },
+    "qYT/Ag": {
+        "en": "[Assitant trainer Neals]\nAs you are at the enough job level,\nyou don't need any more lecturing.",
+        "pt": "[Assistente Niels]\nSeu nível de classe já é o suficiente\npara se tornar Espadachim.",
+        "es": "[Entrenador asist. Neals]\nComo tu nivel de clase es suficiente,\nno necesitas más sermones."
+    },
+    "qoT/Ag": {
+        "en": "Become a swordsman right away!",
+        "pt": "Certo, vou parar meu treinamento por aqui.",
+        "es": "No diré nada más. ¡Puedes convertirte en Espadachín de inmediato!"
+    },
+    "q4T/Ag": {
+        "en": "[Assitant trainer Neals]\nBefore the training starts, you already\nraised your level.\nImpressive.",
+        "pt": "[Assistente Niels]\nFoi bem esperto subir de nível\nantes de começar o treinamento.",
+        "es": "[Entrenador asist. Neals]\nAntes de empezar el entrenamiento, ya\nsubiste tu nivel.\nImpresionante."
+    },
+    "rIT/Ag": {
+        "en": "[Assitant trainer Neals]\nYou've grown enough.\nGreat job. Now go to the swordsman guild.\nLet's change jobs.",
+        "pt": "[Assistente Niels]\nVocê cresceu bastante.\nBom trabalho. Vá até a Guilda dos Espadachins,\ne mude de classe.\"",
+        "es": "[Entrenador asist. Neals]\nYa creciste bastante.\nGran trabajo. Ahora ve al gremio de Espadachines.\nCambiemos de clase."
+    },
+    "rYT/Ag": {
+        "en": "[Assitant trainer Neals]\nThe Swordsman Guild is located in Izlude Square.\nIt's on the west side of the center\nIt will be easy to find.",
+        "pt": "[Assistente Niels]\nVá ao oeste de Izlude para se tornar\nfinalmente um espadachim.",
+        "es": "[Entrenador asist. Neals]\nEl gremio de Espadachines está en la plaza de Izlude.\nEstá al oeste del centro.\nEs fácil de encontrar."
+    },
+    "roT/Ag": {
+        "en": "[Assitant trainer Neals]\nYou are now a swordsman!\nThere's nothing else special to teach you.",
+        "pt": "[Assistente Niels]\nVocê já é Espadachim!",
+        "es": "[Entrenador asist. Neals]\n¡Ahora eres un Espadachín!\nNo tengo nada más especial para enseñarte."
+    },
+    "r4T/Ag": {
+        "en": "[Assitant trainer Neals]\nYou already have another job!\nGo away!",
+        "pt": "[Assistente Niels]\nAté você pode ser tornar Espadachim!\nUm dia... Não hoje, mas um dia!",
+        "es": "[Entrenador asist. Neals]\n¡Ya tienes otra clase!\n¡Vete!"
+    },
+    "sIT/Ag": {
+        "en": "[Assitant trainer Neals]\nFeeble people like you can become a gallant Swordsman soon.\nYes, you can. Be ambitious.",
+        "pt": "[Assistente Niels]\nVocê será um espadachim formidável\nem pouco tempo! Continue com seu bom trabalho!",
+        "es": "[Entrenador asist. Neals]\nLa gente débil como tú puede ser un Espadachín gallardo en poco tiempo.\nSí, tú puedes. Debes tener ambición."
+    },
+    "sYT/Ag": {
+        "en": "[Assitant trainer Neals]\nLet's repeat the prerequisite of Swordsmanhood, this is a review study!",
+        "pt": "[Assistente Niels]\nMe diga quando quiser aprender mais sobre Espadachins!",
+        "es": "[Entrenador asist. Neals]\nRepitamos el prerrequisito para Espadachines, ¡repasemos!"
+    },
+    "soT/Ag": {
+        "en": "[Assitant trainer Neals]\nSwordsman uses strong constitution; shrugs off damage easily from foes and when in a party, is a leader and the protector of others.",
+        "pt": "[Assistente Niels]\nUm espadachim tem alto HP,\no que significa que ele pode suportar grandes quantidades de dano,\ne em grupos\nele pode liderar o grupo\nenquanto protege seus aliados.",
+        "es": "[Entrenador asist. Neals]\nLos Espadachines son fuertes; resisten fácilmente al daño de los enemigos y, cuando forman parte de un grupo, son líderes y protegen al resto."
+    },
+    "s4T/Ag": {
+        "en": "[Assitant trainer Neals]\nSwordsman prefer to use spears, two-handed swords or combination sword and shield.",
+        "pt": "[Assistente Niels]\nUm espadachim pode usar todas as armas,\nexceto arcos e cajados.\nEles geralmente preferem espadas de duas mãos\ne lanças.",
+        "es": "[Entrenador asist. Neals]\nLos Espadachines prefieren usar lanzas, espadas de dos manos o combinaciones de espada y escudo."
+    },
+    "tIT/Ag": {
+        "en": "[Assitant trainer Neals]\nAlso the swordsman's vitality is normally high making them able to carry massive amounts of weight.",
+        "pt": "[Assistente Niels]\nE graças à sua alta resistência,\num espadachim pode equipar\neles podem usar todos os tipos de armaduras pesadas\nsem nenhum problema.",
+        "es": "[Entrenador asist. Neals]\nAdemás, suelen tener una vitalidad alta y esto les permite cargar mucho peso."
+    },
+    "tYT/Ag": {
+        "en": "[Assitant trainer Neals]\nDesired stats are usually ^0000FFStr^000000, ^0000FFAgi^000000, ^0000FFVit^000000, ^0000FFDex^000000\nOf course this is all up to you",
+        "pt": "[Assistente Niels]\nAs principais estatísticas de um espadachim são\n^0000FFFOR^000000, ^0000FFAGI^000000, ^0000FFVIT^000000 e ^0000FFDES^000000.\nO ^0000FFSOR^000000 pode ser útil,\nde acordo com seu estilo de batalha,\nAjuste suas estatísticas.",
+        "es": "[Entrenador asist. Neals]\nLas estadísticas deseadas suelen ser ^0000FFFUE^000000, ^0000FFAGI^000000, ^0000FFVIT^000000, ^0000FFDES^000000\nPor supuesto, depende de lo que quieras."
+    },
+    "toT/Ag": {
+        "en": "[Assitant trainer Neals]\n^0000FFVit^000000 affects^FF0000HP recovery rate^000000.\n^0000FFStr^000000 affects ^FF0000 strength and attacking power^000000.\n^0000FFDex^000000 increases ^FF0000 accuracy of your attack^000000,",
+        "pt": "[Assistente Niels]\n^0000FFVIT^000000 aumenta a recuperação de ^FF0000HP^000000.\n^0000FFFOR^000000 aumenta sua ^FF0000FOR e ATQ^000000.\n^0000FFDES^000000 aumenta ^FF0000a precisão de seus ataques^000000.",
+        "es": "[Entrenador asist. Neals]\nLa ^0000FFVIT^000000 afecta la ^FF0000tasa de recuperación de HP^000000.\nLa ^0000FFFUE^000000 afecta la ^FF0000 fuerza y el poder de ataque^000000.\nLa ^0000FFDES^000000 aumenta la ^FF0000 precisión de tus ataques^000000."
+    },
+    "t4T/Ag": {
+        "en": "[Assitant trainer Neals]\n^0000FFAgi^000000 increases ^FF0000 attacking speed^000000 and ^FF0000 evasion rate^000000,\n^0000FFLuk^000000 affects ^FF0000 probability of critical ^000000.",
+        "pt": "[Assistente Niels]\n^0000FFVELATQ^000000 e ^FF0000ESQV^000000 podem ser aumentados com ^FF0000AGI^000000,\ne ^0000FFchance de acerto crítico^000000 aumentando ^FF0000SOR^000000.\nEssas são as estatísticas do espadachim.",
+        "es": "[Entrenador asist. Neals]\nLa ^0000FFAGI^000000 aumenta la ^FF0000 velocidad de ataque^000000 y la ^FF0000 tasa de evasión^000000.\nLa ^0000FFSUE^000000 afecta la ^FF0000 probabilidad de asestar un ataque crítico^000000."
+    },
+    "uIT/Ag": {
+        "en": "[Assitant trainer Neals]\nAfter changing to a Swordsman\nyou can change to a ^0000FF Knight ^000000 or ^0000FFCrusader^000000.",
+        "pt": "[Assistente Niels]\nQuando um espadachim atinge a Classe Level 40,\nele pode se tornar um ^0000FFCavaleiro^000000 ou\nele pode se tornar um ^0000FFTemplário^000000.",
+        "es": "[Entrenador asist. Neals]\nDespués de cambiar a Espadachín,\npuedes cambiar a ^0000FFCaballero^000000 o ^0000FFCruzado^000000."
+    },
+    "uYT/Ag": {
+        "en": "[Assitant trainer Neals]\nGo raise your strength\nwhile figuring out if you're offensive or defensive.\nThis is something you should do.",
+        "pt": "[Assistente Niels]\nPortanto, durante o treinamento,\né melhor você avaliar se prefere\nestilos ofensivos ou defensivos.",
+        "es": "[Entrenador asist. Neals]\nVe a aumentar tu fuerza\nmientras descubres si prefieres la ofensiva o la defensiva.\nDeberías hacer esto."
+    },
+    "uoT/Ag": {
+        "en": "[Assitant trainer Neals]\nLet's repeat the prequisite of swordsmanhood,\nthis is a review study!",
+        "pt": "[Treinador assistente Neals]\nVamos repetir o pré-requisito de ser espadachim.\nÉ um estudo de revisão!",
+        "es": "[Entrenador asist. Neals]\nRepitamos el prerrequisito para Espadachines,\n¡repasemos!"
+    },
+    "u4T/Ag": {
+        "en": "[Assitant trainer Neals]\nAsk again anytime.\nI'll answer everything!",
+        "pt": "[Assistente Niels]\nVenha me perguntar novamente a qualquer momento.\nEu responderei suas perguntas!",
+        "es": "[Entrenador asist. Neals]\nVuelve a preguntar cuando quieras.\n¡Te responderé todo!"
+    },
+    "vIT/Ag": {
+        "en": "Shop Helper",
+        "pt": "Assistente Leoni",
+        "es": "Ayudante de la tienda"
+    },
+    "vYT/Ag": {
+        "en": "[Shop helper Leonie]\nOh my, you really bought it!\nDid you intentionally go out into the field and hunt to buy this?\nAwesome~ You are a quick and understanding adventurer!",
+        "pt": "[Leoni]\nOh, você comprou!\nVocê saiu para caçar no campo e comprou isso?\nUau, você realmente é um aventureiro incrível!",
+        "es": "[Ayud. de tienda Leonie]\n¡Ah, increíble, lo compraste de verdad!\n¿Saliste al campo a cazar a propósito para comprar esto?\nImpresionante. ¡Qué trotamundos veloz e inteligente!"
+    },
+    "voT/Ag": {
+        "en": "[Shop helper Leonie]\nI've been looking for items to sell, and you're already good at selling and buying.\nThere is nothing more to explain about using the store.\nIf you have any questions about stores and currency, feel free to ask!",
+        "pt": "[Leoni]\nVocê trouxe o item que eu queria, mas como já fez muitas compras e vendas,\nnão há muito o que dizer sobre lojas!\nPergunte-me o que quiser, se tiver dúvidas sobre lojas e moeda!",
+        "es": "[Ayud. de tienda Leonie]\nBusco objetos para vender, y ya se te da bien esto de la compraventa.\nEsa es toda la explicación sobre el uso del mercado.\nSi tienes dudas sobre mercados y monedas, ¡pregúntame!"
+    },
+    "v4T/Ag": {
+        "en": "[Shop helper Leonie]\nWhen I think about it, the adventurer who has just arrived in Izlude\nAsking you for a red potion was too much of an order.",
+        "pt": "[Leoni]\nOlha só! Você realmente\ntrouxe uma ^0000CDPoção Vermelha^000000.\nEla vai ser útil pra salvar sua vida,\nentão guarde-a.",
+        "es": "[Ayud. de tienda Leonie]\nSi lo pienso, me remite al trotamundos que llegó a Izlude.\nPedirte una Poción roja era demasiado."
+    },
+    "wIT/Ag": {
+        "en": "[Shop helper Leonie]\nInstead, I have another favor to ask, would you please do it?\nIf nothing else, I would like you to sell me this ^4D4DFFdefective canned food^000000.",
+        "pt": "[Leoni]\nTenho outro pedido, em vez disso.\nQuero que você venda esse ^4D4DFFLata Vencida^000000.",
+        "es": "[Ayud. de tienda Leonie]\nEn su lugar, tengo que pedirte otro favor, ¿puede ser?\nSolo una cosa, me gustaría que me vendieras estas ^4D4DFFConservas defectuosas^000000."
+    },
+    "wYT/Ag": {
+        "en": "[Shop helper Leonie]\nYou can sell it to the merchant in the tool store.\nMoney earned from selling items?\nBuy useful items from adventurers.",
+        "pt": "[Leoni]\nVocê pode vendê-lo a um vendedor de ferramentas.\nO dinheiro que você recebeu com a venda do item?\nVá comprar o que você precisa.",
+        "es": "[Ayud. de tienda Leonie]\nPuedes vendérselas al Comerciante de la tienda de herramientas.\n¿Ganar dinero por vender objetos?\nCompra objetos útiles a los trotamundos."
+    },
+    "woT/Ag": {
+        "en": "[Shop helper Leonie]\nHello? If you are looking for a tool store, you have come to the right place.\nThis building is the tool shop.",
+        "pt": "[Leoni]\nOlá, bem-vindo à minha Loja de Ferramentas.\nEste prédio é a Loja de Ferramentas.",
+        "es": "[Ayud. de tienda Leonie]\n¿Hola? Si buscas una tienda de herramientas, estás en el lugar correcto.\nEste edificio es la tienda de herramientas."
+    },
+    "w4T/Ag": {
+        "en": "[Shop helper Leonie]\nYou can buy items or sell loot obtained from battles to merchants.\nYou have an item you need to sell. Can you sell it for me?",
+        "pt": "[Leoni]\nVocê pode comprar coisas e vender o saque que coletou no campo.\nEu tenho algo para vender. Você pode me ajudar a vendê-la?",
+        "es": "[Ayud. de tienda Leonie]\nPuedes comprar objetos o vender el botín obtenido en batalla a Comerciantes.\nTienes un objeto que necesitas vender. ¿Puedes venderlo por mí?"
+    },
+    "xIT/Ag": {
+        "en": "[Shop helper Leonie]\nYou can sell it to the merchant in the tool store.\nMoney earned from selling items?\nBuy useful items from adventurers.\nSomething called a red potion...?",
+        "pt": "[Leoni]\nVocê pode vendê-lo a um vendedor de ferramentas.\nO dinheiro que você recebeu com a venda do item?\nVai comprar o que você precisa.\nAlgo como uma Poção Vermelha?",
+        "es": "[Ayud. de tienda Leonie]\nPuedes vendérselas al Comerciante de la tienda de herramientas.\n¿Ganar dinero por vender objetos?\nCompra objetos útiles a los trotamundos.\n¿Algo que se llama Poción roja…?"
+    },
+    "xYT/Ag": {
+        "en": "[Shop helper Leonie]\nAny merchant who buys or sells goods buys loot.\nPlease sell the defective canned food I gave you.",
+        "pt": "[Leoni]\nQualquer comerciante iria querer suas mercadorias.\nVá vender a lata vencida que lhe dei.",
+        "es": "[Ayud. de tienda Leonie]\nCualquier Comerciante que compre o venda cosas compra botines.\nVende la Conserva defectuosa que te di."
+    },
+    "xoT/Ag": {
+        "en": "[Shop helper Leonie]\n^FF0000defective canned goods^000000 were sold.\nGreat job. As a reward, I will give you everything you need for your adventure.\nYou will be able to easily learn the things I haven't told you about while traveling.",
+        "pt": "[Leoni]\nVejo que você vendeu o ^FF0000Lata Vencida^000000.\nBom trabalho. Eu lhe darei um item essencial para sua aventura.\nVocê poderá aprender qualquer coisa que eu tenha esquecido de lhe dizer durante suas aventuras.",
+        "es": "[Ayud. de tienda Leonie]\nSe vendieron las ^FF0000Conservas defectuosas^000000.\nGran trabajo. Como recompensa, te daré todo lo que necesites para tu aventura.\nPodrás aprender sin problemas las cosas que no te conté mientras viajas."
+    },
+    "x4T/Ag": {
+        "en": "[Shop helper Leonie]\nWe are informing you about stores and currency.\nWhat are you curious about?",
+        "pt": "[Leoni]\nPor onde você quer começar?",
+        "es": "[Ayud. de tienda Leonie]\nTe informamos sobre tiendas y monedas.\n¿Sobre qué sientes curiosidad?"
+    },
+    "yIT/Ag": {
+        "en": "Shop types",
+        "pt": "Tipos de Loja",
+        "es": "Tipos de tiendas"
+    },
+    "yYT/Ag": {
+        "en": "Currency types",
+        "pt": "Moedas",
+        "es": "Tipos de moneda"
+    },
+    "yoT/Ag": {
+        "en": "Cash Shop",
+        "pt": "Loja de Jcoin",
+        "es": "Tienda de efectivo"
+    },
+    "y4T/Ag": {
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar"
+    },
+    "zIT/Ag": {
+        "en": "[Shop helper Leonie]\nYou can buy weapons and armor at various armory merchants in each town.",
+        "pt": "[Leoni]\nAs Lojas de Armas têm à venda armaduras, equipamentos\ngerais e, obviamente, armas.",
+        "es": "[Ayud. de tienda Leonie]\nPuedes comprar armas y armaduras a varios Comerciantes de armería en cada ciudad."
+    },
+    "zYT/Ag": {
+        "en": "[Shop helper Leonie]\nHealing potions and movement consummables can be found at Tool Shops.",
+        "pt": "[Leoni]\nAs Lojas de Ferramentas\nvendem consumíveis de cura e recuperação.",
+        "es": "[Ayud. de tienda Leonie]\nLas pociones de curación y los consumibles de movimiento se pueden encontrar en las tiendas de herramientas."
+    },
+    "zoT/Ag": {
+        "en": "[Shop helper Leonie]\nYou'll also find merchants selling items for refining",
+        "pt": "[Leoni]\nAlém disso, também existem lojas\nque vendem itens para combinações.",
+        "es": "[Ayud. de tienda Leonie]\nTambién encontrarás Comerciantes que venden objetos para refinar."
+    },
+    "z4T/Ag": {
+        "en": "[Shop helper Leonie]\nSo when you go into a town, try figuring out what shops there are for your benefit.",
+        "pt": "[Leoni]\nSe você visitar uma cidade,\né uma boa ideia\ndescobrir quais lojas tem lá.",
+        "es": "[Ayud. de tienda Leonie]\nAsí que cuando vayas a una aldea, intenta averiguar qué tiendas pueden serte útiles."
+    },
+    "0IT/Ag": {
+        "en": "[Shop helper Leonie]\nKafras and most NPC merchants use ^FF0000Zeny^000000 but Malangdo and some of the Ash Vacuum worlds use different types of currency.",
+        "pt": "[Leoni]\nKafras e a maioria dos comerciantes NPC usam ^FF0000Zeny^000000, mas Malangdo e alguns outros mundos usam tipos diferentes de moeda.",
+        "es": "[Ayud. de tienda Leonie]\nKafra y la mayoría de los NPC Comerciantes usan ^FF0000zeny^000000 pero Malangdo y algunos de los mundos del Ash Vacuum usan diferentes tipos de moneda."
+    },
+    "0YT/Ag": {
+        "en": "[Shop helper Leonie]\nThey are ^FF0000Silvervine Fruit^000000, ^FF0000Splendide Coins^000000,\nthey can be bought at Cash Shop or acquired through quests. The fruits and coins that are collected this way.",
+        "pt": "[Leoni]\nSão ^FF0000MiauMiau^000000 e ^FF0000Moeda Esplendor^000000, elas\npodem ser compradas na loja de JoyCoins, ou podem ser adquiridas\nem missões. Frutas e moedas são obtidas assim.",
+        "es": "[Ayud. de tienda Leonie]\nSon el ^FF0000Fruta Silvervine^000000 y las ^FF0000Monedas de Splendide^000000.\nAmbas pueden comprarse en la tienda de efectivo o adquirirse a través de misiones. Las frutas y las monedas que se recolectan de esta manera"
+    },
+    "0oT/Ag": {
+        "en": "[Shop helper Leonie]\nThey can be exchanged with\nunique equipments or gears.\nSo, if you have plans to \nventure out to these areas,\nbe sure to collect them.",
+        "pt": "[Leoni]\nComo você pode usar essas moedas para\nobter equipamentos raros ou itens consumíveis\nespeciais,\nnão se esqueça de coletar\no máximo que puder.",
+        "es": "[Ayud. de tienda Leonie]\nPueden intercambiarse con\nequipamientos o equipos únicos.\nPor lo tanto, si piensas \naventurarte por estas zonas,\nasegúrate de recolectarlos."
+    },
+    "04T/Ag": {
+        "en": "[Shop helper Leonie]\nThe icon on the right side\ncalled Cash Shop, if you click on it,\nWhether you're in a town, dungeon, field,\nyou can still buy items\nanywhere you want.",
+        "pt": "[Leoni]\nNo canto superior direito,\nclique no botão da Loja de JoyCoins\npara adquirir itens, equipamentos ou consumíveis por JoyCoins.",
+        "es": "[Ayud. de tienda Leonie]\nSi haces clic sobre el ícono de la derecha\nque dice tienda de efectivo,\nya sea que estés en una aldea, una mazmorra o en el campo,\npuedes comprar objetos\ndonde quieras."
+    },
+    "1IT/Ag": {
+        "en": "[Shop helper Leonie]\nThe cash you need to buy the plants can be charged\nat the warpportal home page.",
+        "pt": "[Assistente de loja Leoni]\nO dinheiro de que você precisa para comprar as plantas pode ser cobrado\nna página inicial do portal.",
+        "es": "[Ayud. de tienda Leonie]\nEl efectivo que necesitas para comprar las plantas se puede cargar\nen la página de inicio del portal de teletransporte."
+    },
+    "1YT/Ag": {
+        "en": "[Shop helper Leonie]\nIf you have any questions about stores and currency, feel free to ask.",
+        "pt": "[Leoni]\nJoyCoins pode ser comprado\ncom dinheiro real na página inicial do Ragnarok,\nou resgatado com cupons.",
+        "es": "[Ayud. de tienda Leonie]\nSi tienes dudas sobre tiendas y monedas, pregúntame."
+    },
+    "1oT/Ag": {
+        "en": "[Shop Helper Shop helper Leonie]\nWhat are you curious about?",
+        "pt": "[Leoni]\nSe tiver alguma dúvida, é só me avisar!",
+        "es": "[Ayud. de tienda Leonie]\n¿Sobre qué sientes curiosidad?"
+    },
+    "14T/Ag": {
+        "en": "[Shop helper Leonie]\nThe cash you need to buy the plants can be charged\nat the home page.",
+        "pt": "[Leoni]\nO que você quer saber?",
+        "es": "[Ayud. de tienda Leonie]\nEl dinero necesario para comprar las plantas se puede cobrar en la página principal."
+    }
+}

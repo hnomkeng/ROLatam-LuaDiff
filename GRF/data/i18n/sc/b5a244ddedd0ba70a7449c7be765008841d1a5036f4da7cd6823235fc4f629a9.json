@@ -1,0 +1,404 @@
+{
+    "4EmNBw": {
+        "ko": "타락한간수",
+        "en": "Corrupt Warder",
+        "pt": "Homem Corrupto",
+        "es": "Celador Corrupto"
+    },
+    "4UmNBw": {
+        "ko": "보유한 물건의 종류가 너무 많은것 같다. 물건의 종류를 줄인뒤에 다시 진행해보자.",
+        "en": "There are too many kinds of items in possession. Reduce the type of the items and try again.",
+        "pt": "Você está com itens demais. Limpe um pouco seu inventário!",
+        "es": "Posees demasiados tipos de objetos. Reduce los tipos de objetos y vuelve a intentarlo."
+    },
+    "4kmNBw": {
+        "ko": "가진 물건이 너무 무거워 더이상의 진행이 힘들 것 같다. 무게를 줄인 후 다시 도전해보자.",
+        "en": "It seems difficult to proceed any further since the items in your possession are too heavy. Reduce the weight and try again.",
+        "pt": "Libere um pouco de peso no seu inventário!",
+        "es": "Parece difícil avanzar, ya que los objetos que posees son demasiado pesados. Reduce el peso y vuelve a intentarlo."
+    },
+    "40mNBw": {
+        "ko": "[타락한 간수]\n뭐야, 딜런이 보내서 왔나? 거래할거면 시간낭비 하지 말자구. 보는 눈이 많으니까.",
+        "en": "[Corrupt Warder]\nWhat is it? Did Dylan send you here? If you are going to deal with me, don't waste any more time. There are a lot of people watching us.",
+        "pt": "[Homem Corrupto]\nFoi Dylan que te enviou aqui? Se quer negociar, vamos fazer isso rápido.",
+        "es": "[Celador Corrupto]\n¿Qué sucede? ¿Vienes de parte de Dylan? Si quieres hacer un trato conmigo, no pierdas más tiempo. Hay mucha gente mirándonos."
+    },
+    "5EmNBw": {
+        "ko": "어떤 거래 말입니까?",
+        "en": "What's the deal?",
+        "pt": "Qual é o negócio?",
+        "es": "¿Cuál es el trato?"
+    },
+    "5UmNBw": {
+        "ko": "거래합시다",
+        "en": "Let's deal.",
+        "pt": "Vamos fazer negócio.",
+        "es": "Hagamos un trato."
+    },
+    "5kmNBw": {
+        "ko": "[타락한 간수]\n저 딜런 녀석이 물건을 깨먹을때마다 뭔가 이상한 가루같은걸 만들지 않아?",
+        "en": "[Corrupt Warder]\nIsn't Dylan making some strange powder whenever he breaks a thing?",
+        "pt": "[Homem Corrupto]\nVocê não viu Dylan com um pó esquisito?",
+        "es": "[Celador Corrupto]\n¿Notaste que Dylan produce un polvo extraño cada vez que rompe algo?"
+    },
+    "50mNBw": {
+        "ko": "[타락한 간수]\n그거 ^0000FF룬 마법 가루^000000라고 마법사들이 실험 재료로 쓰는 물건이야 본인은 잘 모르는것 같지만 말야 크크큭.",
+        "en": "[Corrupt Warder]\nIt is ^0000FFRune Magic Powder^000000 which the magicians use for their experiments. I don't think Dylan knows this.",
+        "pt": "[Homem Corrupto]\nAquilo se chama ^0000FFPó de Runas^000000, e é usado para experimentos mágicos.",
+        "es": "[Celador Corrupto]\nEs el ^0000FFPolvo rúnico mágico^000000 que los magos usan para sus experimentos. No creo que Dylan lo sepa."
+    },
+    "6EmNBw": {
+        "ko": "[타락한 간수]\n^0000FF룬 마법 가루 30개당 의문의파란상자 1개로 교환^000000해 주겠어. 어때? 딱히 손해보는 장사는 아닌것 같지?.",
+        "en": "[Corrupt Warder]\nI'll ^0000FFexchange 30 Rune Magic Powders for 1 Mysterious Blue Box^000000. How do you like that? It is such a sweet deal, isn't it?",
+        "pt": "[Homem Corrupto]\nEu ^0000FFtroco 30 Pós de Runas por 1 Caixa Azul Misteriosa^000000. O que acha? É um belo negócio, não?",
+        "es": "[Celador Corrupto]\nTe ofrezco ^0000FF30 Polvo de Runas por 1 Caja Azul Misteriosa^000000. ¿Qué te parece? Es un buen trato, ¿no?"
+    },
+    "6UmNBw": {
+        "ko": "[타락한 간수]\n좋아, 이런게 좋은 거래지.",
+        "en": "[Corrupt Warder]\nGood, it is a great deal.",
+        "pt": "[Homem Corrupto]\nÓtimo, trato feito.",
+        "es": "[Celador Corrupto]\nBueno, es un gran trato."
+    },
+    "6kmNBw": {
+        "ko": "[타락한 간수]\n룬 마법가루 30개당 의문의파란상자 1개다. 잠시 잊은것 같아 다시 알려주는거야.",
+        "en": "[Corrupt Warder]\n30 Rune Magic Powders for 1 Mysterious Blue Box. I remind you.",
+        "pt": "[Homem Corrupto]\n30 Pós de Runas. Não se esqueça.",
+        "es": "[Celador Corrupto]\n30 Polvo de Runas por 1 Caja azul Misteriosa. No lo olvides."
+    },
+    "60mNBw": {
+        "ko": "딜런",
+        "en": "Dylan",
+        "pt": "Dylan",
+        "es": "Dylan"
+    },
+    "7EmNBw": {
+        "ko": "확률오류 수정 230825\n랜덤옵션 체크 기능 추가.",
+        "en": "check 230825",
+        "pt": "check 230825",
+        "es": "check 230825"
+    },
+    "7UmNBw": {
+        "ko": "[딜런]\n손님인가? 오늘은 피곤해서 영업을 하지 않을 참이었는데.",
+        "en": "[Dylan]\nAre you a customer? I am not going to get more customers today because I am tired.",
+        "pt": "[Dylan]\nVocê é um cliente?",
+        "es": "[Dylan]\n¿Vienes a negociar? Ya me cansé por hoy, así que no necesito más clientes."
+    },
+    "7kmNBw": {
+        "ko": "감옥에서 영업이라니?",
+        "en": "Are you running abusiness in the prison?",
+        "pt": "Você abriu um negócio na prisão?",
+        "es": "¿Tienes un negocio en la prisión?"
+    },
+    "70mNBw": {
+        "ko": "[딜런]\n지금은 이런 몰골이지만 한때는 밖에서 마이너스의 손으로 불리던 몸이야. 꽤 위험한 일이니까 호기심 가지지 않는게 좋을걸?",
+        "en": "[Dylan]\nAlthough I may look like this now, I used to be called the man with the hand of minus out there. It is quite dangerous stuff. You'd better stay away.",
+        "pt": "[Dylan]\nEscuta aqui, nós só lidamos com negociações sérias.",
+        "es": "[Dylan]\nAunque ahora me veas así, alguna vez supieron llamarme “La mano de Midas”. Es bastante peligroso. Más vale que te alejes."
+    },
+    "8EmNBw": {
+        "ko": "^0000FF말은 그렇게 하지만 설명하고 싶어 안달난 눈빛입니다.^000000",
+        "en": "^0000FFUnlike his words, he really seems eager to give an explanation.^000000",
+        "pt": "^0000FFEle parece estar falando sério.^000000",
+        "es": "^0000FFA pesar de lo que dice, parece bastante deseoso de dar una explicación.^000000"
+    },
+    "8UmNBw": {
+        "ko": "역시 시간 낭비다",
+        "en": "I don't want to waste time here.",
+        "pt": "OK, acho que isso não é pra mim...",
+        "es": "No quiero perder el tiempo aquí."
+    },
+    "8kmNBw": {
+        "ko": "무슨 영업을 하는지 알려줘",
+        "en": "What kind of business you are running here.",
+        "pt": "Que tipo de negociações?",
+        "es": "¿Qué tipo de negocio tienes?"
+    },
+    "80mNBw": {
+        "ko": "[딜런]\n흥, 쫄긴...",
+        "en": "[Dylan]\nDon't be a chicken...",
+        "pt": "[Dylan]\nNão seja covarde...",
+        "es": "[Dylan]\nNo seas gallina…"
+    },
+    "9EmNBw": {
+        "ko": "[딜런]\n명예의 증표, 국가에서 발행하고 개인간의 거래는 금지되어있는 물건. 난 그 물건을 받고 사람들의 장비를 강화해주는 일을 하고 있었어.",
+        "en": "[Dylan]\nHonor Mark, which is issued by the kingdom and not to be traded between individuals. I receive it and enhance people's equipment.",
+        "pt": "[Dylan]\nEu posso melhorar os seus equipamentos em troca de Marcas de Honra. Aquelas entregues pelas pessoas importantes do reino, sabe?",
+        "es": "[Dylan]\nUna Marca de honor que emite el reino y no puede usarse para comerciar entre las personas. Puedo recibirlo y mejorar el equipamiento que tengas."
+    },
+    "9UmNBw": {
+        "ko": "[딜런]\n당연한 일이지만 떳떳함과는 거리가 먼 일이지. 그래서 인맥을 통해서만 영업을 했는데, 강화 초기화중에 장비를 날려먹은 녀석 하나가 날 왕국에 밀고했어.",
+        "en": "[Dylan]\nAs you can tell, it is against the law. That's why I used to only work for through personal contacts. However, one guy whose equipment was broken while resetting the enhancement informed on me.",
+        "pt": "[Dylan]\nComo você deve imaginar, isso é contra as leis. É por isso que só trabalho com contatos pessoais.",
+        "es": "[Dylan]\nComo te darás cuenta, esto es ilegal. Por eso antes solo trabajaba con mis contactos personales. Pero, un día, a un tipo se le rompió el equipamiento cuando intentaba restablecer mejoras y me delató."
+    },
+    "9kmNBw": {
+        "ko": "완전 범죄 냄새나잖아!",
+        "en": "It really is a crime.",
+        "pt": "Bem... Isso realmente é contra as leis.",
+        "es": "Definitivamente es un delito."
+    },
+    "90mNBw": {
+        "ko": "[딜런]\n 개인적인 감상을 듣고싶진 않아. 어쨌든 난 감옥에 갇힐뻔 한 신세지만 저기 저 간수를 잘 포섭해둔덕에 나름 감옥안에서 이렇게 자유롭게 움직이고 있어.",
+        "en": "[Dylan]\nI don't need to hear of some personal impression by you. Although I am caught, I am roaming the prison freely thanks to the warder over there.",
+        "pt": "[Dylan]\nEu não preciso que você me diga isso de novo. Por que acha que estou aqui?",
+        "es": "[Dylan]\nNo necesito oír ninguna impresión personal tuya. Aunque me encarcelaron, puedo deambular libremente por la prisión gracias al celador de allá."
+    },
+    "+EmNBw": {
+        "ko": "[딜런]\n물론 바깥으로 나갔다간 정말 큰 일이 나니까. 공식적으론 그냥 이렇게 감옥안에서 지내고 있는거야. 너도 혹시 거래에 관심있나?",
+        "en": "[Dylan]\nOf course, I cannot get out to avoid causing the real problem. That's why I stay in the prison like this. Are you interested in the deal?",
+        "pt": "[Dylan]\nÉ mais fácil fazer essas coisas enquanto se está preso. Não é como se as coisas pudessem piorar muito.",
+        "es": "[Dylan]\nPor supuesto, si saliera de aquí complicaría bastante las cosas. Por eso me quedo en la prisión. ¿Te interesa el trato?"
+    },
+    "+UmNBw": {
+        "ko": "왕국의 치안이 취약하네",
+        "en": "The kingdom has poor public security.",
+        "pt": "O reino tem uma segurança bem fraca...",
+        "es": "La seguridad pública del reino es deplorable."
+    },
+    "+kmNBw": {
+        "ko": "조건이 뭐야?",
+        "en": "What is the deal?",
+        "pt": "Qual é o negócio?",
+        "es": "¿Cuál es el trato?"
+    },
+    "+0mNBw": {
+        "ko": "[딜런]\n뭐야, 샌님인가. 그러니 말했잖아 휘말리기 싫으면 관심두지 말라고.",
+        "en": "[Dylan]\nWhat a nerd. I told you to back off if you didn't want to get involved.",
+        "pt": "[Dylan]\nSe não quiser se envolver nisso, vaza daqui.",
+        "es": "[Dylan]\nQué cobarde. Te dije que te apartaras si no querías involucrarte."
+    },
+    "/EmNBw": {
+        "ko": "[딜런]\n대화가 통하는 친구로구만. 나도 빨리 돈을 모아서 보석금으로 여길 나가고 싶으니까 손님이라면 언제든 환영이야.",
+        "en": "[Dylan]\nYou are a great fellow to deal with. I want to save enough money to bail myself out. Any customers are welcome here.",
+        "pt": "[Dylan]\nBem... Eu posso encantar sua Vestimenta Arrogante, Vestimenta Exuberante ou o seu Passaporte para Prontera.",
+        "es": "[Dylan]\nEs un gusto hacer negocios contigo. Quiero ahorrar suficiente dinero para salir de apuros. Todos los clientes son bienvenidos."
+    },
+    "/UmNBw": {
+        "ko": "[딜런]\n난 아첨의 로브, 독설의 로브, 프론테라 뱃지. 이 세가지 물품에 대해서 특별한 강화를 해 주고 있어. 댓가로는 명예의증표를 받고있지.",
+        "en": "[Dylan]\nI enhance the three items, Flattery Robe, Invective Robe and Prontera Badge for Honor Mark.",
+        "pt": "[Dylan]\nÉ só pagar com as suas Marcas de Honra.",
+        "es": "[Dylan]\nMejoraré la Túnica de halagos, la Túnica de improperios y la Insignia de Prontera, a cambio de Marcas de honor."
+    },
+    "/kmNBw": {
+        "ko": "[딜런]\n뭐, 이렇게 구구절절 이야기 할게 아니라 강화하고 싶은 장비가 생기면 일단 들고 오라구. 자세한 거래는 그때 하도록 하지.",
+        "en": "[Dylan]\nI guess I don't need to explain about it anymore. Just bring the equipment you want to enhance to me.",
+        "pt": "[Dylan]\nE é isso. Basta me trazer os itens.",
+        "es": "[Dylan]\nCreo que ya no necesito explicártelo. Solo tráeme el equipamiento que quieras mejorar."
+    },
+    "/0mNBw": {
+        "ko": "[딜런]\n거래하러 왔나? 뭐가 필요한지 어서 말해.",
+        "en": "[Dylan]\nAre you here to deal with me? Tell me what you need now.",
+        "pt": "[Dylan]\nE aí, o que você tá querendo?",
+        "es": "[Dylan]\n¿Estás aquí para hacer un trato conmigo? Dime qué necesitas."
+    },
+    "AEqNBw": {
+        "ko": "거래조건을 말해줘",
+        "en": "Tell me about the deal.",
+        "pt": "Qual é o negócio?",
+        "es": "Háblame del trato."
+    },
+    "AUqNBw": {
+        "ko": "로브강화",
+        "en": "Enhance Robe",
+        "pt": "Encantar Vestimenta",
+        "es": "Mejorar túnica."
+    },
+    "AkqNBw": {
+        "ko": "뱃지강화",
+        "en": "Enhance Badge",
+        "pt": "Encantar Passaporte para Prontera",
+        "es": "Mejorar insignia."
+    },
+    "A0qNBw": {
+        "ko": "로브 강화 능력치 초기화",
+        "en": "Reset Enhanced Robe Stats",
+        "pt": "Resetar encantos da Armadura",
+        "es": "Restablecer estadísticas de túnica mejorada."
+    },
+    "BEqNBw": {
+        "ko": "뱃지 강화 능력치 초기화",
+        "en": "Reset Enhanced Badge Stats",
+        "pt": "Resetar encantos do Acessório",
+        "es": "Restablecer estadísticas de insignia mejorada."
+    },
+    "BUqNBw": {
+        "ko": "[딜런]\n두 번 말하지 않을테니 잘 들어.",
+        "en": "[Dylan]\nListen carefully. I won't say twice.",
+        "pt": "[Dylan]\nPresta atenção, porque eu não vou falar de novo.",
+        "es": "[Dylan]\nMejoraré una de las ranuras de la Túnica de halagos o la Túnica de improperios por 20 Marcas de Honor. Puedo mejorar hasta 2 ranuras. Y puedo restablecerlas por 10 Marcas de Honor. ¿Me sigues hasta ahora?"
+    },
+    "BkqNBw": {
+        "ko": "[딜런]\n아첨의로브, 독설의로브 슬롯 하나를 강화하는데 명예의증표 20개를 받겠다. 최대 2개 슬롯 분량까지 해 줄거고 초기화엔 10개를 받을거야. 여기까지 이해되었나?",
+        "en": "[Dylan]\nI'll enhance one of the Flattery Robe or Invective Robe slot for 20 Honor Marks. I can enhance up to 2 slots. And I take 10 Honor Marks for the reset. Do you follow me so far?",
+        "pt": "[Dylan]\nEu posso encantar sua Vestimenta Arrogante ou Vestimenta Exuberante por 20 Marcas de Honra. O encantamento pode ser feito 2 vezes. E eu cobro 10 Marcas de Honra pra remover o encantamento, caso não esteja contente com ele.",
+        "es": "[Dylan]\nLuego, la Insignia de Prontera. Pido 5 Marcas de Honor para mejorar 1ranura. Puedo mejorar hasta 2 ranuras. Y puedo restablecerlas por 10 Marcas de Honor."
+    },
+    "B0qNBw": {
+        "ko": "[딜런]\n다음 프론테라 뱃지. 이건 슬롯 하나 강화하는데 증표 5개를 받겠어. 최대 2개 슬롯까지 해 줄거고 초기화시엔 역시 10개를 받는다.",
+        "en": "[Dylan]\nNext, for the Prontera Badge. I'll take 5 Honor Marks to enhance 1 slot. I can enhance up to 2 slots. And I take 10 Honor Marks for the reset.",
+        "pt": "[Dylan]\nQuanto ao Passaporte para Prontera... É preciso de 5 Marcas de Honra para fazer o encantamento. Assim como os mantos, ele pode ser encantado 2 vezes, e a remoção de encantamento custa 10 Marcas também.",
+        "es": "[Dylan]\nNo puedo restablecerlas en cualquier momento. Lo haré cuando tenga las 2 ranuras mejoradas y ya no puedas seguir mejorando el objeto. Y… Entonces…"
+    },
+    "CEqNBw": {
+        "ko": "[딜런]\n초기화는 아무때나 해주진 않아, 2개 분량의 효능이 부여되어서 더이상의 강화를 할 수 없을때에만 해 줄거야. 에... 그리고 또...",
+        "en": "[Dylan]\nI don't perform the reset anytime. I'll do it when the 2 slots are enhanced for that you cannot enhance the item anymore. And... Then...",
+        "pt": "[Dylan]\nA remoção do encantamento só pode ser feita depois que você fez os dois encantamentos.",
+        "es": "[Dylan]\nNo puedo restablecerlas en cualquier momento. Lo haré cuando tenga las 2ranuras mejoradas y ya no puedas seguir mejorando el objeto. Y… Entonces…"
+    },
+    "CUqNBw": {
+        "ko": "[딜런]\n약간의 문제가 있는데, 뱃지는 초기화 할때 파괴될 확률이 있어. 20% 정도? 워낙에 작은 물건이라 강화효과를 없앨때의 부작용이 좀 심하다구.",
+        "en": "[Dylan]\nOh, there is one problem though. There is a change that the badge can be destroyed while resetting it. The chance is about 20%. Since it is such a tiny thing, there is some side effect of removing the enhancement.",
+        "pt": "[Dylan]\nE ah, só há um problema: o Emblema pode ser destruído no processo. As chances são de mais ou menos 20%. Eu diria que vale a pena o risco, entretanto.",
+        "es": "[Dylan]\nAh, pero hay un problema. Puede que la insignia se destruya al restablecerla. La probabilidad es de un 20%. Como es un objeto tan pequeño, eliminar las mejoras tiene un efecto secundario."
+    },
+    "CkqNBw": {
+        "ko": "[딜런]\n그럼 모쪼록 좋은 거래가 되었으면 하네 친구.",
+        "en": "[Dylan]\nI hope the deal goes well, buddy.",
+        "pt": "[Dylan]\nEspero que você tope fazer negócio.",
+        "es": "[Dylan]\nNecesitas 20 Marcas de Honor para cada ranura de la Túnica de halagos o la Túnica de improperios. ¿Quieres mejorarlas?"
+    },
+    "C0qNBw": {
+        "ko": "[딜런]\n독설의 로브와 아첨의 로브는 슬롯 하나당 20개의 명예의 증표가 필요해. 정말 강화 할건가?",
+        "en": "[Dylan]\nYou need 20 Honor Marks for each slot of Flattery Robe or Invective Robe. Do you want to enhance it?",
+        "pt": "[Dylan]\nEu preciso de 20 Marcas de Honra para cada encantamento feito na Vestimenta Arrogante ou Vestimenta Exuberante.",
+        "es": "[Dylan]\nNecesitas 20Marcas de honor para cada ranura de la Túnica de halagos o la Túnica de improperios. ¿Quieres mejorarlas?"
+    },
+    "DEqNBw": {
+        "ko": "그만두겠다",
+        "en": "I quit.",
+        "pt": "Mudei de ideia...",
+        "es": "Abandonar."
+    },
+    "DUqNBw": {
+        "ko": "빨리 해치우자고",
+        "en": "Let's do it now.",
+        "pt": "Aqui estão as Marcas.",
+        "es": "Hagámoslo ahora."
+    },
+    "DkqNBw": {
+        "ko": "[딜런]\n나 바쁘니까 앞으론 쓸데없이 말 거는건 삼가해줬으면 좋겠어.",
+        "en": "[Dylan]\nI am busy so please don't waste my time by talking to me for no reason.",
+        "pt": "[Dylan]\nMeu tempo já está curto... Não o desperdice!",
+        "es": "[Dylan]\nPuedo mejorar 1 ranura de la Insignia de Prontera que llevas en la ranura izquierda por 5 Marcas de Honor. ¿Quieres mejorarla?"
+    },
+    "D0qNBw": {
+        "ko": "[딜런]\n네 몸의 왼쪽 슬롯에 장착된 프론테라 뱃지 슬롯 하나를 강화하는데 명예의 증표 5개가 필요해. 정말 강화 할건가?",
+        "en": "[Dylan]\nYou need 5 Honor Marks to enhance one slot of the Prontera Badge you are wearing in the left slot of your body. Would you enhance it?",
+        "pt": "[Dylan]\nVocê precisa de 5 Marcas de Honra para encantar o Passaporte para Prontera que está usando. Deseja continuar?",
+        "es": "[Dylan]\nPuedo restablecer la Vestimenta Exuberante o la Vestimenta Arrogante por 10 Marcas de Honor. El equipamiento no se destruirá. Las cartas vinculadas y el nivel de refinamiento también se mantendrán."
+    },
+    "EEqNBw": {
+        "ko": "[딜런]\n독설의 로브와 아첨의 로브를 초기화하는데엔 10개의 명예의 증표가 필요해. 장비 자체가 파괴되진 않을꺼야. 이미 박혀버린 카드나 제련도도 무사할테고.",
+        "en": "[Dylan]\nYou need 10 Honor Marks to reset Invective Robe or Flattery Robe. The equipment won't be destroyed. The bound cards and the refinement level would remain the same as well.",
+        "pt": "[Dylan]\nVocê precisa de 10 Marcas de Honra para remover os encantamentos da Vestimenta Exuberante ou Vestimenta Arrogante. O equipamento não tem chances de ser destruído. As cartas e o nível de refino serão mantidos, também.",
+        "es": "[Dylan]\nPuedo restablecer la Insignia de Prontera que llevas en la ranura izquierda por 10 Marcas de Honor."
+    },
+    "EUqNBw": {
+        "ko": "[딜런]\n네 몸의 왼쪽 슬롯에 장착된 프론테라 뱃지를 초기화하는데엔 10개의 명예의 증표가 필요해.",
+        "en": "[Dylan]\nYou need 10 Honor Marks to reset the Prontera Badge you are wearing in the left slot of your body.",
+        "pt": "[Dylan]\nVocê precisa de 10 Marcas de Honra para remover os encantamentos do Passaporte para Prontera que você tem equipado.",
+        "es": "[Dylan]\nPuedo restablecer la Insignia de Prontera que llevas en la ranura izquierda por 10Marcas de honor."
+    },
+    "EkqNBw": {
+        "ko": "[딜런]\n다만 이전에 설명했지만 뱃지류는 좀 까다로와서 ^FF0000성공률이 80%야.^000000 실패하면 모든게 날아가버린다구. 그래도 할거야?",
+        "en": "[Dylan]\nAs I told you, it is difficult to reset the badge, ^FF0000The chance of success is 80%.^000000 If it fails, everything will be gone. Would you reset it?",
+        "pt": "[Dylan]\nComo eu falei, esse é um processo delicado com ^FF0000chance de sucesso de 80%.^000000 Se falhar, você perderá o item.",
+        "es": "[Dylan]\nComo te dije, es difícil restablecer la insignia. ^FF0000La probabilidad de éxito es del 80%.^000000 Si falla, lo perderás todo. ¿Quieres restablecerla?"
+    },
+    "E0qNBw": {
+        "ko": "[딜런]\n자네, 벗고있군.",
+        "en": "[Dylan]\nYou are taking it off.",
+        "pt": "[Dylan]\nVocê removeu o item?",
+        "es": "[Dylan]\n¿Quieres quitártela?"
+    },
+    "FEqNBw": {
+        "ko": "^FF0000랜덤옵션이 확인됩니다. 해당 장비는 작업 하실 수 없습니다.^000000",
+        "en": "^FF0000I don't work with equipment that has Random Bonuses.^000000",
+        "pt": "^FF0000Não trabalho com equipamentos que tenham Bônus Aleatórios.^000000",
+        "es": "Vestimenta Arrogante"
+    },
+    "FUqNBw": {
+        "ko": "[딜런]\n작업중에 자꾸 벗으려고 하지마",
+        "en": "Abusive Robe",
+        "pt": "[Dylan]\nNão remova o item agora, por favor.",
+        "es": "Vestimenta Exuberante"
+    },
+    "FkqNBw": {
+        "ko": "아첨의 로브",
+        "en": "Flattery Robe",
+        "pt": "Vestimenta Arrogante",
+        "es": "Túnica de halagos"
+    },
+    "F0qNBw": {
+        "ko": "독설의 로브",
+        "en": "Invective Robe",
+        "pt": "Vestimenta Exuberante",
+        "es": "Túnica de improperios"
+    },
+    "GEqNBw": {
+        "ko": "[딜런]\n이봐, 장난치지 말라구. 강화를 하고 싶다면 일단 제대로 껴입고 내게 오는게 어때?",
+        "en": "[Dylan]\nStop fooling around. If you want to enhance it, come to me wearing the equipment.",
+        "pt": "[Dylan]\nSe você quer encantar o item, venha com ele equipado primeiro.",
+        "es": "[Dylan]\nDeja de jugar. Ven a verme con el equipamiento puesto si quieres mejorarlo."
+    },
+    "GUqNBw": {
+        "ko": "[딜런]\n이건 더이상 강화가 불가능해. 다른 물건은 없나?",
+        "en": "[Dylan]\nIt cannot be enhanced anymore. Do you have anything else to enhance?",
+        "pt": "[Dylan]\nEsse item atingiu o limite de encantamentos.",
+        "es": "[Dylan]\nNo se puede mejorar más. ¿Tienes algo más que mejorar?"
+    },
+    "GkqNBw": {
+        "ko": "[딜런]\n이런, 너 운이 없었군. 장비가 형편없이 망가져버렸어. 쯧쯧.",
+        "en": "[Dylan]\nI guess you are out of luck. The equipment is broken. Tut tut.",
+        "pt": "[Dylan]\nIiiih, quebrou. Sinto muito. Mas você foi avisado dos riscos!",
+        "es": "[Dylan]\nSe ve que no es tu día de suerte. El equipamiento se rompió. Vaya, vaya."
+    },
+    "G0qNBw": {
+        "ko": "[딜런]\n흠. 잘 처리되었군. 한번 물건을 확인해봐",
+        "en": "[Dylan]\nHum, it has been processed well. Check out the item.",
+        "pt": "[Dylan]\nSucesso. Dê uma olhada no item para descobrir o encantamento.",
+        "es": "[Dylan]\nMmm, el proceso fue un éxito. Échale un vistazo."
+    },
+    "HEqNBw": {
+        "ko": "[딜런]\n이봐 친구, 명예의 증표가 없으면 나와 거래를 할 수 없어.",
+        "en": "[Dylan]\nHey, buddy. You cannot deal with me if you don't have any Honor Marks.",
+        "pt": "[Dylan]\nVocê não tem Marcas de Honra o suficiente.",
+        "es": "[Dylan]\nHola, colega. No puedes negociar conmigo si no tienes Marcas de honor."
+    },
+    "HUqNBw": {
+        "ko": "[딜런]\n내가 깜빡하고 말을 해주지 않았군. 액세서리는 왼쪽 슬롯에 장착한것만 취급하고있어. 왼쪽슬롯에 장착하고 강화해보자구.",
+        "en": "[Dylan]\nOh, I have forgotten to mention it. I only enhance the item equipped in the left slot. Enhance it while equipping it in the left slot.",
+        "pt": "[Dylan]\nOh, esqueci de comentar. Eu só posso encantar o item equipado no slot da esquerda. Equipe-o lá.",
+        "es": "[Dylan]\nAh, casi me olvido. Solo mejoro el objeto equipado en la ranura izquierda. Mejóralo mientras lo tengas equipado en esa ranura."
+    },
+    "HkqNBw": {
+        "ko": "프론테라 뱃지",
+        "en": "Prontera Badge",
+        "pt": "Passaporte para Prontera",
+        "es": "Insignia de Prontera"
+    },
+    "H0qNBw": {
+        "ko": "[딜런]\n이봐, 장난치지 말라구. 강화를 하고 싶다면 프론테라 뱃지를 제대로 장착하고 내게 오는게 어때?",
+        "en": "[Dylan]\nStop fooling around. If you want to enhance it, come to me wearing the Prontera Badge.",
+        "pt": "[Dylan]\nSe você quer encantar o item, venha com ele equipado primeiro.",
+        "es": "[Dylan]\nDeja de jugar. Si quieres mejorarla, ven a verme con la Insignia de Prontera equipada."
+    },
+    "IEqNBw": {
+        "ko": "[딜런]\n이런 이건 아직 강화도 다 끝마치지 않은 물건인데, 이건 초기화를 해줄 수 없어",
+        "en": "[Dylan]\nOh, this item is not enhanced completely. I cannot reset it yet.",
+        "pt": "[Dylan]\nEsse item não tem 2 encantamentos, então não posso fazer o processo de remoção ainda.",
+        "es": "[Dylan]\nAh, este objeto no está mejorado del todo. Aún no puedo restablecerlo."
+    },
+    "IUqNBw": {
+        "ko": "[딜런]\n내가 깜빡하고 말을 해주지 않았군. 액세서리는 왼쪽 슬롯에 장착한것만 취급하고있어. 왼쪽슬롯에 장착하고 초기화 해보자구.",
+        "en": "[Dylan]\nOh, I have forgotten to mention it. I only reset the item equipped in the left slot. Reset it while equipping it in the left slot.",
+        "pt": "[Dylan]\nOh, esqueci de comentar. Eu só posso encantar o item equipado no slot da esquerda. Equipe-o lá.",
+        "es": "[Dylan]\nAh, casi me olvido. Solo restablezco objetos equipados en la ranura izquierda. Hazlo mientras lo tengas equipado en esa ranura."
+    },
+    "IkqNBw": {
+        "ko": "[딜런]\n이봐. 무슨 소리 안들려? 간수장이 오는 것 같은데.",
+        "en": "[Dylan]\nHey, don't you hear anything? I think the chief warder is coming this way.",
+        "pt": "[Dylan]\nVocê escutou algo? Acho que os guardas estão vindo pra cá.",
+        "es": "[Dylan]\nOye, ¿escuchas eso? Creo que el jefe de los celadores viene para acá."
+    }
+}

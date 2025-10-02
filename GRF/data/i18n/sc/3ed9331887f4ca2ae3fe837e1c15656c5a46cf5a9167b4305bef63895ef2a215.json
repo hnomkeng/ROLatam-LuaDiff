@@ -1,0 +1,997 @@
+{
+    "gJaY": {
+        "en": "Elin",
+        "pt": "Elin",
+        "es": "Elin"
+    },
+    "gZaY": {
+        "en": "^3355FFWait a second! Right now, you're carrying too many items with you. Please come back after putting some of your things into Kafra Storage.^000000",
+        "pt": "^3355FFEspere! Você está carregando muitos itens com você. Guarde algumas coisas no Armazém Kafra e volte aqui depois.^000000",
+        "es": "^3355FF¡Un momento! En este momento, llevas demasiados objetos. Vuelve luego de guardar algunas de tus cosas en el Almacén de Kafra.^000000"
+    },
+    "gpaY": {
+        "en": "[Elin]",
+        "pt": "[Elin]",
+        "es": "[Elin]"
+    },
+    "g5aY": {
+        "en": "Hello~!\nHeh heh, you're a boy, so you probably don't like dolls, right? Well, I like dolls very very much!",
+        "pt": "Olá~!\nHehehe, você é um menino, então provavelmente não gosta de bichinhos de pelúcia, certo? Bem, eu gosto muito de pelúcias! Muito mesmo!",
+        "es": "¡Hola~!\nJe, je, eres un chico, así que probablemente no te gusten los muñecos, ¿verdad? Bueno, ¡a mí me gustan mucho!"
+    },
+    "hJaY": {
+        "en": "Hi hi~! Oh, oh, do you like dolls? I really really like dolls... Hee Hee~!",
+        "pt": "Oi, oi, oi! Aí, você gosta de bichinho de pelúcia? Eu gosto muito, muito de pelúcias... Hihihi~!",
+        "es": "¡Hola, hola~! Oh, oh, ¿te gustan los muñecos? A mí me gustan muchísimo… ¡Je, je~!"
+    },
+    "hZaY": {
+        "en": "[Elin]\nYou know, I really really want a new doll! I hope my daddy will give me one on my birthday...!",
+        "pt": "[Elin]\nSabe, eu queria muito, muito, muito um bichinho de pelúcia novo! Espero que meu pai me dê um no meu aniversário...!",
+        "es": "[Elin]\n¡Realmente quiero un muñeco nuevo! ¡Espero que mi papi me regale uno para mi cumpleaños…!"
+    },
+    "hpaY": {
+        "en": "Um, I hope your daddy give you one too.",
+        "pt": "Hã, eu também espero que seu pai lhe dê uma pelúcia.",
+        "es": "Yo también espero que tu papi te regale uno."
+    },
+    "h5aY": {
+        "en": "How about I give you one now?",
+        "pt": "E se eu te desse uma pelúcia agora?",
+        "es": "¿Qué tal si te doy uno ahora?"
+    },
+    "iJaY": {
+        "en": "[Elin]\nYeah, I'm hoping\nhe gives me a Yoyo\ndoll. They're so cute!",
+        "pt": "[Elin]\nÉ, tomara que\nele me dê um Boneco de Yoyo\n. Eles são lindos!",
+        "es": "[Elin]\nSí, espero\nque me dé un Muñeco\nde Yoyo. ¡Son tan adorables!"
+    },
+    "iZaY": {
+        "en": "Maybe you should put some of your stuff away first, you look like you're carrying too much, hee hee~",
+        "pt": "Por que não guarda algumas coisas antes? Você não tem como levar mais nada, hihihi~",
+        "es": "Tal vez deberías dejar algunas cosas primero, parece que llevas demasiadas, je, je~."
+    },
+    "ipaY": {
+        "en": "Do you always carry so much with you? Put some of your things away first, okay?",
+        "pt": "Você sempre carrega tudo isso? Guarde suas coisas primeiro, tá bom?",
+        "es": "¿Siempre llevas tanto encima? Deja algunas cosas primero, ¿de acuerdo?"
+    },
+    "i5aY": {
+        "en": "Oh my goodness!\nReally? You're\nsuch a sweetie~!",
+        "pt": "Nossa!\nSério mesmo? Você é\num amor~!",
+        "es": "¡Dios mío!\n¿De verdad? ¡Eres\nun encanto~!"
+    },
+    "jJaY": {
+        "en": "Will you really?\nYou're gonna give\nme a doll? Yaaaay~",
+        "pt": "Sério isso?\nVocê vai me dar\numa boneca? Ebaaaa~",
+        "es": "¿De verdad?\n¿Vas a darme\nun muñeco? ¡Qué bien~!"
+    },
+    "jZaY": {
+        "en": "[Elin]\nWhat kind of doll are you going to give me? Are you really gonna give me one?",
+        "pt": "[Elin]\nQual pelúcia você vai me dar? É verdade mesmo?",
+        "es": "[Elin]\n¿Qué tipo de muñeco vas a darme? ¿De verdad me darás uno?"
+    },
+    "jpaY": {
+        "en": "Poring Doll",
+        "pt": "Boneco de Poring",
+        "es": "Muñeco de Poring."
+    },
+    "j5aY": {
+        "en": "Chonchon Doll",
+        "pt": "Boneco de Chonchon",
+        "es": "Muñeco de Chonchon."
+    },
+    "kJaY": {
+        "en": "Puppet",
+        "pt": "Boneco de Pelúcia",
+        "es": "Marioneta."
+    },
+    "kZaY": {
+        "en": "Rocker Doll",
+        "pt": "Boneco de Rocker",
+        "es": "Muñeco de Rockero."
+    },
+    "kpaY": {
+        "en": "Spore Doll",
+        "pt": "Boneco de Esporo",
+        "es": "Muñeco de Espora."
+    },
+    "k5aY": {
+        "en": "Osiris Doll",
+        "pt": "Boneco de Osíris",
+        "es": "Muñeco de Osiris."
+    },
+    "lJaY": {
+        "en": "Baphomet Doll",
+        "pt": "Boneco de Bafomé",
+        "es": "Muñeco de Baphomet."
+    },
+    "lZaY": {
+        "en": "Raccoon Doll",
+        "pt": "Boneco de Fumacento",
+        "es": "Muñeco de Mapache."
+    },
+    "lpaY": {
+        "en": "Yoyo Doll",
+        "pt": "Boneco de Yoyo",
+        "es": "Muñeco de Yoyo."
+    },
+    "l5aY": {
+        "en": "I'm as adorable as a doll.",
+        "pt": "Sou tão linda quanto um bichinho de pelúcia.",
+        "es": "Soy tan adorable como un muñeco."
+    },
+    "mJaY": {
+        "en": "[Elin]\nAww...\nI have a lot\nof Poring dolls...",
+        "pt": "[Elin]\nAhh...\nEu já tenho um monte de\nde Bonecos de Poring...",
+        "es": "[Elin]\nOh…\nTengo un montón\nde Muñecos de Poring…"
+    },
+    "mZaY": {
+        "en": "But since a cute boy is giving it to me, I'll happily take it! Hee hee, soft and fluffy Poring doll~",
+        "pt": "Eu vou aceitar, mas só porque você é muito bonito! Hihihi, meu Poring macio e fofinho~",
+        "es": "Pero ya que me lo regala un chico tan adorable, ¡con gusto lo aceptaré! Je, je, un suave y esponjoso Muñeco de Poring~."
+    },
+    "mpaY": {
+        "en": "But since a nice girl is giving it to me, I'll take it! Hee he, soft and fluffy Poring doll~",
+        "pt": "Eu vou aceitar, mas só porque você é uma garota muito legal! Hihihi, meu Poring macio e fofinho~",
+        "es": "Pero ya que me lo regala una chica tan amable, ¡lo acepto! Je, je, un suave y esponjoso Muñeco de Poring~."
+    },
+    "m5aY": {
+        "en": "[Elin]\nOoh, let me give you something as a little thank you. You see, I hid some candy so I can eat it without telling mommy.",
+        "pt": "[Elin]\nAhh, Eu posso te dar algo em troca. Veja, peguei uns doces escondidos da minha mãe.",
+        "es": "[Elin]\nOh, déjame darte algo como pequeño agradecimiento. Verás, escondí unos Dulces para comérmelos sin decirle a mami."
+    },
+    "nJaY": {
+        "en": "I don't know if you're too old to like candy, but I guess it's okay.",
+        "pt": "Não sei se você gosta de doces nessa idade, mas acho que não tem problema.",
+        "es": "No sé si a tu edad sigan gustándote los Dulces, pero supongo que no pasa nada."
+    },
+    "nZaY": {
+        "en": "So, try not to eat too much, okay? Otherwise, you might get in trouble!",
+        "pt": "Mas não come demais, viu? Senão vai ter dor de barriga!",
+        "es": "Así que intenta no comer demasiados, ¿está bien? ¡De lo contrario, podrías meterte en problemas!"
+    },
+    "npaY": {
+        "en": "[Elin]\nThank you\nso much for\nthe Poring doll!",
+        "pt": "[Elin]\nValeu mesmo\npelo\nBoneco de Poring!",
+        "es": "[Elin]\n¡Muchas gracias\npor\nel Muñeco de Poring!"
+    },
+    "n5aY": {
+        "en": "Aww...?\nWere you only teasing me?",
+        "pt": "Ah...?\nVocê tava só brincando?",
+        "es": "¿Qué…?\n¿Solo estabas bromeando?"
+    },
+    "oJaY": {
+        "en": "Aww...\nYou're not making fun of me are you?",
+        "pt": "Ah...\nVocê não tá tirando sarro de mim, né?",
+        "es": "Oh…\nNo te estarás burlando de mí, ¿o sí?"
+    },
+    "oZaY": {
+        "en": "[Elin]\nI guess you forgot it somewhere...",
+        "pt": "[Elin]\nAcho que você esqueceu em algum lugar...",
+        "es": "[Elin]\nSupongo que lo olvidaste en otro lado…"
+    },
+    "opaY": {
+        "en": "[Elin]\nAgh--!\nA Ch-Ch, Chonchon doll?!",
+        "pt": "[Elin]\nArgh--!\nUm Boneco de Ch-Ch, Chonchon?!",
+        "es": "[Elin]\n¡Agh…!\n¡¿Un Muñeco de Ch…Ch… Chonchon?!"
+    },
+    "o5aY": {
+        "en": "But since... You're... Such a nice guy... I better take it...!",
+        "pt": "Mas já que... você é... tão legal... é acho melhor aceitar...!",
+        "es": "Pero ya que… Eres… Un chico tan amable… ¡Mejor lo acepto…!"
+    },
+    "pJaY": {
+        "en": "But since... Since it's a gift... I guess I'll take it...",
+        "pt": "Mas já que... já que é um presente... acho que vou aceitá-lo...",
+        "es": "Pero ya que… Ya que es un regalo… Supongo que lo tomaré…"
+    },
+    "pZaY": {
+        "en": "[Elin]\nMmm~\nLet me give you\nsomething in return...",
+        "pt": "[Elin]\nHum~\nVou te dar\nalgo em troca...",
+        "es": "[Elin]\nMmm~.\nDéjame darte\nalgo a cambio…"
+    },
+    "ppaY": {
+        "en": "[Elin]\nIf you eat too much, your teeth will start to rot... at least, that's what Mommy says.",
+        "pt": "[Elin]\nSe você comer demais, vai abrir um buraco no dente... Pelo menos é o que a minha mãe diz.",
+        "es": "[Elin]\nSi comes demasiados, tus dientes empezarán a pudrirse… al menos, eso es lo que dice mami."
+    },
+    "p5aY": {
+        "en": "[Elin]\nAnd..\nUh...\nThank you\nfor the doll?",
+        "pt": "[Elin]\nE...\nHã...\nValeu\npelo boneco?",
+        "es": "[Elin]\nY…\nOye…\n¡Muchas gracias\npor el Muñeco!"
+    },
+    "qJaY": {
+        "en": "[Elin]\nChonchon dolls are ugly anyways, but you still lied to me! How can you be so mean?!",
+        "pt": "[Elin]\nOs Bonecos de Chonchon são horríveis, mas você ainda mentiu para mim! Que maldade!",
+        "es": "[Elin]\nDe todos modos, los Muñecos de Chonchon son feos, ¡pero aun así me mentiste! ¡¿Por qué tanta maldad?!"
+    },
+    "qZaY": {
+        "en": "[Elin]\nWaaaaaaaaah~~",
+        "pt": "[Elin]\nBuáááááááááá~~",
+        "es": "[Elin]\nBuaaaaaaaaa~~."
+    },
+    "qpaY": {
+        "en": "[Elin]\nWow...!\nIt looks like a bunny!",
+        "pt": "[Elin]\nNossa...!\nParece um coelhinho!",
+        "es": "[Elin]\n¡Vaya…!\n¡Parece un conejito!"
+    },
+    "q5aY": {
+        "en": "[Elin]\nI really like this Puppet~ Heh hehe! Thank you so much~",
+        "pt": "[Elin]\nEu adorei essa pelúcia~ Hihihi! Muito obrigada~",
+        "es": "[Elin]\nMe gusta mucho esta Marioneta~. ¡Je, je, je! Muchas gracias~."
+    },
+    "rJaY": {
+        "en": "[Elin]\nOoh ooh!\nI have something\nfor you too!\nUm, where\ndid it... Ah!",
+        "pt": "[Elin]\nAhhhh!\nEu tenho uma coisa\npra você!\nHum, onde que\neu deixei... Ah!",
+        "es": "[Elin]\n¡Ooh, ooh!\n¡Tengo algo\npara ti también!\nMm… ¿dónde\nse metió…? ¡Ah!"
+    },
+    "rZaY": {
+        "en": "[Elin]\nHere it is! It's some of the candy Santa gave me. Go ahead and try some! Oh, and thank you so much for the doll!",
+        "pt": "[Elin]\nTá aqui! São os doces que eu ganhei do papai Noel. Pode ficar com eles! Ah, e muito obrigada pela pelúcia!",
+        "es": "[Elin]\n¡Aquí está! Son algunos de los Dulces que me dio Santa. ¡Vamos, pruébalos! Ah, ¡y muchas gracias por el Muñeco!"
+    },
+    "rpaY": {
+        "en": "[Elin]\nAwww, you were only kidding? W-W-Why are you teasing me like that?",
+        "pt": "[Elin]\nAhhh, você estava brincando? P-p-por que você fez isso?",
+        "es": "[Elin]\nAguarda… ¿estabas bromeando? ¿P-p-por qué te burlas así de mí?"
+    },
+    "r5aY": {
+        "en": "[Elin]\n^666666*Sniff...*^000000",
+        "pt": "[Elin]\n^666666*Snif...*^000000",
+        "es": "[Elin]\n^666666*Solloza…*^000000"
+    },
+    "sJaY": {
+        "en": "[Elin]\nOoh! Rocker Doll!\nIt's the Rocker that likes singing and dancing! I don't like grasshoppers, but I like this because it's cute~",
+        "pt": "[Elin]\nUm Boneco de Rocker!\nÉ o Rocker que gosta de cantar e dançar! Eu não gosto de gafanhotos, mas desse eu gosto. É bonitinho~",
+        "es": "[Elin]\n¡Ooh! ¡Un Muñeco de Rockero!\n¡Es el Rockero al que le gusta cantar y bailar! No me gustan los saltamontes, pero este sí porque es adorable~."
+    },
+    "sZaY": {
+        "en": "[Elin]\nHmmm, I should give you something too, huh? Let's see, I have what my grandpa gave me...",
+        "pt": "[Elin]\nHumm, eu tenho que te dar algo em troca, né? Deixa eu ver, eu tenho o que meu vovô me deu...",
+        "es": "[Elin]\nMmm… yo también debería darte algo, ¿no? Veamos, tengo lo que me dio mi abuelo…"
+    },
+    "spaY": {
+        "en": "[Elin]\nHere you go! We have a lot of this at home, so I'll give it to you, okay? Oh, and thank you so much for the doll~ I love cute dolls!",
+        "pt": "[Elin]\nAqui! A gente tem um monte desses em casa, então pode ficar, tá? Ah, e muito obrigada pela boneca~ Eu adoro pelúcias!",
+        "es": "[Elin]\n¡Aquí tienes! Tenemos muchos en casa, así que te lo daré, ¿de acuerdo? Ah, y muchas gracias por el Muñeco~. ¡Me encantan los muñecos adorables!"
+    },
+    "s5aY": {
+        "en": "[Elin]\nAwww...",
+        "pt": "[Elin]\nAhhh...",
+        "es": "[Elin]\nAyyy…"
+    },
+    "tJaY": {
+        "en": "[Elin]\nYou don't\nreally have a doll...?\nI was so excited about it, too...",
+        "pt": "[Elin]\nVocê não tem\numa boneca, né...?\nEu já estava tão empolgada...",
+        "es": "[Elin]\n¿No\ntienes un Muñeco…?\nYo también estaba tan emocionada…"
+    },
+    "tZaY": {
+        "en": "[Elin]\nIt's a mushroom?\nEwwwwwwwww, yucky!\nMommy made me eat\nmushrooms today, too...",
+        "pt": "[Elin]\nÉ um cogumelo?\nAaaaai, que nojo!\nMamãe me fez comer\ncogumelos hoje mesmo...",
+        "es": "[Elin]\n¿Es un hongo?\n¡Guácala! ¡Qué asco!\nMami me hizo comer\nhongos hoy también…"
+    },
+    "tpaY": {
+        "en": "[Elin]\nBut this doll is cute, so I'll take it. But I'm still not gonna eat mushrooms! Heh heh~",
+        "pt": "[Elin]\nMas essa pelúcia é bonitinha, então eu vou ficar com ela. Mas sigo não gostando de cogumelos! Hehehe~",
+        "es": "[Elin]\nPero este Muñeco es adorable, así que me lo quedo. ¡Pero aun así no me comeré los hongos! Je, je~."
+    },
+    "t5aY": {
+        "en": "[Elin]\nHehe~ My mommy made this! It's really yummy. I love cookies, too. So try it, you'll like it! Hee hee!",
+        "pt": "[Elin]\nHehe~ Foi minha mãe que fez! É bem gostoso. Eu também adoro biscoitos. Experimente, você vai gostar! Hihihi!",
+        "es": "[Elin]\nJe, je~. ¡Mi mami hizo esto! Es realmente delicioso. A mí también me encantan las galletas. Pruébala, ¡te gustará! ¡Je, je!"
+    },
+    "uJaY": {
+        "en": "[Elin]\nThanks for\nthe doll! I'll\ntake good care of it!",
+        "pt": "[Elin]\nObrigada pela\npelúcia! Eu vou\ncuidar bem dela!",
+        "es": "[Elin]\n¡Gracias por\nel Muñeco! ¡Voy a\ncuidarlo muy bien!"
+    },
+    "uZaY": {
+        "en": "[Elin]\nEh...?\nYou don't\nhave a doll?",
+        "pt": "[Elin]\nHã...?\nVocê não tem\ntem uma boneca?",
+        "es": "[Elin]\n¿Eh…?\n¿No\ntienes un Muñeco?"
+    },
+    "upaY": {
+        "en": "[Elin]\nAwww...\nIt's not nice\nto tease people\nlike that. ^666666*Sniff, sniff*^000000",
+        "pt": "[Elin]\nAhhh...\nNão é legal\nmentir pras pessoas\nassim. ^666666*Snif, snif*^000000",
+        "es": "[Elin]\nAyyy…\nNo está bien\nburlarse de la gente\nasí. ^666666*Solloza*^000000"
+    },
+    "u5aY": {
+        "en": "[Elin]\nAhhhhh!\nWhat is this\nthing?! It's so scary!",
+        "pt": "[Elin]\nAhhhhh!\nO que é isso?! Que medo!",
+        "es": "[Elin]\n¡Ahhhhh!\n¡¿Qué es esta\ncosa?! ¡Es aterrador!"
+    },
+    "vJaY": {
+        "en": "[Elin]\nI've never seen a doll like this before. Where it's from? Hmm? Since I've never seen this kind of doll before, I'm gonna show it to my daddy, too. Hehe~! He'll be surprised!",
+        "pt": "[Elin]\nEu nunca vi uma pelúcia assim antes. De onde ela é? Hum? Que diferente, vou mostrar ela pro meu pai. Hehe~! Ele vai ficar surpreso!",
+        "es": "[Elin]\nNunca había visto un Muñeco así. ¿De dónde es? ¿Mmm? Como nunca había visto un Muñeco así, también se lo voy a enseñar a mi papi. ¡Je, je~! ¡Se sorprenderá!"
+    },
+    "vZaY": {
+        "en": "[Elin]\nHere, since you gave me such a nicely made doll, I better give you something good too.",
+        "pt": "[Elin]\nAqui, já que você me deu uma pelúcia tão legal, é melhor eu te dar algo bom também.",
+        "es": "[Elin]\nToma, ya que me diste un Muñeco tan bien hecho, mejor te doy algo bueno también."
+    },
+    "vpaY": {
+        "en": "[Elin]\nI found it when I secretly went to the forest. I took it because it has pretty colors!",
+        "pt": "[Elin]\nEncontrei isto quando entrei escondida na floresta. Peguei porque é bem colorido!",
+        "es": "[Elin]\nLo encontré cuando fui en secreto al bosque. ¡Me lo llevé porque tiene colores bonitos!"
+    },
+    "v5aY": {
+        "en": "Since there's two, you can share it with your girlfriend. Hee hee~!",
+        "pt": "Como são dois, você pode dar um pra sua namorada. Hihihi~!",
+        "es": "Como hay dos, puedes compartirlo con tu novia. ¡Je, je~!"
+    },
+    "wJaY": {
+        "en": "Since there's two, you can share it with your boyfriend. Hee hee~!",
+        "pt": "Como são dois, você pode dar um pro seu namorado. Hihihi~!",
+        "es": "Como hay dos, puedes compartirlo con tu novio. ¡Je, je~!"
+    },
+    "wZaY": {
+        "en": "[Elin]\nAwww...\nWhy do you have\nto make fun of me?",
+        "pt": "[Elin]\nAhhh...\nPor que você fica\ntirando sarro de mim?",
+        "es": "[Elin]\nAyyy…\n¿Por qué tienes\nque burlarte mí?"
+    },
+    "wpaY": {
+        "en": "[Elin]\nHuh?\nIt's a little goat...",
+        "pt": "[Elin]\nHum?\nÉ um cabritinho...",
+        "es": "[Elin]\n¿Eh?\nEs una cabrita…"
+    },
+    "w5aY": {
+        "en": "[Elin]\nIt's so weird. It's cute but it's also scary at the same time. Well, since you gave me a pretty doll, I wanna give you something, too.",
+        "pt": "[Elin]\nQue estranho. É bonito, mas, ao mesmo tempo, dá medo. Bem, já que você me deu um bichinho de pelúcia legal, vou te dar algo também.",
+        "es": "[Elin]\nEs muy extraña. Es adorable, pero aterradora a la vez. Bueno, ya que me diste un Muñeco bonito, también quiero darte algo."
+    },
+    "xJaY": {
+        "en": "[Elin]\nMy daddy gave me this when I was really sick. I'm not sick anymore so you can use it when you need to. Hehehe~",
+        "pt": "[Elin]\nMeu pai me deu isso quando eu estava muito doente. Não estou mais doente, então você pode usar quando precisar. Hehehe~",
+        "es": "[Elin]\nMi papi me dio esto cuando estuve muy enferma. Ya no estoy enferma, así que puedes usarlo cuando lo necesites. Je, je, je~."
+    },
+    "xZaY": {
+        "en": "[Elin]\nHee hee~\nThank you for\nthe doll. I won't lose it!",
+        "pt": "[Elin]\nHihihi~\nObrigada pelo\nbichinho de pelúcia. Vou cuidar bem dele!",
+        "es": "[Elin]\nJe, je~.\nGracias por\nel Muñeco. ¡No lo perderé!"
+    },
+    "xpaY": {
+        "en": "[Elin]\nYou big liar! Why are you pretending to be nice?!",
+        "pt": "[Elin]\nNão minta pra mim! Por que está fingindo ser legal?",
+        "es": "[Elin]\n¡Me mentiste! ¡¿Por qué finges ser amable?!"
+    },
+    "x5aY": {
+        "en": "[Elin]\nHehe, it's a\nraccoon doll.\nIt's very very cute~",
+        "pt": "[Elin]\nHehe, é uma\npelúcia de guaxinim.\nÉ muito, muito linda~",
+        "es": "[Elin]\nJe, je… es un\nMuñeco de Mapache.\nEs muy, muy adorable~."
+    },
+    "yJaY": {
+        "en": "[Elin]\nI don't like\nSmokies in real life,\nbut this doll is nice!",
+        "pt": "[Elin]\nEu não gosto de\nFumacentos na vida real,\nmas essa pelúcia é um amor!",
+        "es": "[Elin]\nNo me gustan\nlos Smokie en la vida real,\n¡pero este Muñeco es bonito!"
+    },
+    "yZaY": {
+        "en": "[Elin]\nHere, let me give you some cake my grandma made. It's really yummy. I don't know if you like sweets or not, but it's really good! Please try some!",
+        "pt": "[Elin]\nAqui, pega este bolo que minha avó fez. É bem gostoso. Não sei se você gosta de doces, mas é muito bom! Experimente!",
+        "es": "[Elin]\nToma, déjame darte parte del pastel que hizo mi abuela. Es realmente delicioso. No sé si te gustan los dulces o no, ¡pero está buenísimo! ¡Pruébalo!"
+    },
+    "ypaY": {
+        "en": "[Elin]\nHee hee~\nThanks for the doll.\nI'm gonna keep it\nin my room!",
+        "pt": "[Elin]\nHihihi~\nObrigada pela pelúcia.\nVou deixá-la\nno meu quarto!",
+        "es": "[Elin]\nJe, je~.\nGracias por el Muñeco.\n¡Voy a guardarlo\nen mi habitación!"
+    },
+    "y5aY": {
+        "en": "[Elin]\nHey! How come you have to say things like that? Are you making fun of me?!",
+        "pt": "[Elin]\nEi! Por que você faz essas coisas? Está rindo da minha cara?",
+        "es": "[Elin]\n¡Oye! ¿Por qué tienes que decir esas cosas? ¡¿Te estás burlando de mí?!"
+    },
+    "zJaY": {
+        "en": "[Elin]\nWoooooooow~!",
+        "pt": "[Elin]\nNoooooooossa~!",
+        "es": "[Elin]\n¡Vaaaaaaya~!"
+    },
+    "zZaY": {
+        "en": "[Elin]\nA Yoyo doll! It's so pretty! You're really gonna give it to me?! Yay! Thank you so much! I really like it! Hee hee!",
+        "pt": "[Elin]\nUm Boneco de Yoyo! Que lindo! Você vai mesmo me dar ele?! Eba! Muito obrigada! Eu adorei! Hihihi!",
+        "es": "[Elin]\n¡Un Muñeco de Yoyo! ¡Es tan hermoso! ¡¿En verdad me lo regalarás?! ¡Sí! ¡Muchas gracias! ¡Me gusta mucho! ¡Je, je!"
+    },
+    "zpaY": {
+        "en": "[Elin]\nSince you gave\nme such a pretty doll,\nI wanna give you\nsomething, too!",
+        "pt": "[Elin]\nJá que você me deu\nme deu um bichinho de pelúcia tão legal,\neu tenho que te dar\nalgo também!",
+        "es": "[Elin]\nYa que me diste\nun Muñeco tan bonito,\n¡quiero darte\nalgo a ti también!"
+    },
+    "z5aY": {
+        "en": "[Elin]\nMy daddy picked it up on his way to another town. It looks like some kind of seed. I tried planting it in front of our house but it won't grow.  Do you want to try?",
+        "pt": "[Elin]\nMeu pai pegou isso em uma viagem. Parece uma semente ou algo assim. Tentei plantá-la em frente à nossa casa, mas ela não cresceu. Você quer tentar?",
+        "es": "[Elin]\nMi papi lo recogió de camino a otro pueblo. Parece una especie de semilla. Intenté plantarla al frente de la casa, pero no crece nada.  ¿Quieres probar?"
+    },
+    "0JaY": {
+        "en": "[Elin]\nHehe~\nThanks for\nthe doll. I'll hug\nit before I go\nto sleep!",
+        "pt": "[Elin]\nHehe~\nObrigada pelo\nbichinho de pelúcia. Vou dormir\nabraçada nela!",
+        "es": "[Elin]\nJe, je~.\n¡Gracias por\nel Muñeco! ¡Le daré un abrazo\nantes de irme\na dormir!"
+    },
+    "0ZaY": {
+        "en": "[Elin]\nHey...\nHow come you're making fun of me?!",
+        "pt": "[Elin]\nEi...\nPor que você tá fazendo isso?!",
+        "es": "[Elin]\nOye…\n¿Por qué te burlas de mí?"
+    },
+    "0paY": {
+        "en": "[Elin]\nWhaaaaaaaaaaat...?",
+        "pt": "[Elin]\nHããããããããã...?",
+        "es": "[Elin]\n¡¿Qué…?!"
+    },
+    "05aY": {
+        "en": "^3355FFWhat did\nyou just say?!^000000",
+        "pt": "^3355FFO que foi\nque você disse?!^000000",
+        "es": "^3355FF¡¿Qué acabas\nde decir?!^000000"
+    },
+    "1JaY": {
+        "en": "Fabian",
+        "pt": "Fabian",
+        "es": "Fabian"
+    },
+    "1ZaY": {
+        "en": "[Fabian]\nMan... When you travel all around the world, you'll hear of some crazy things.",
+        "pt": "[Fabian]\nCara... Quando você viaja pelo mundo, ouve cada história maluca.",
+        "es": "[Fabian]\nVaya… Cuando viajas por todo el mundo, sí que oyes disparates."
+    },
+    "1paY": {
+        "en": "[Fabian]\nOnce, I heard that there are Cards which contain the power of monsters. If someone happens to get their hands on a card, they'll be able to use that monster's power.",
+        "pt": "[Fabian]\nUma vez, ouvi que existiam cartas com poderes de monstros. Se você tiver uma dessas cartas, poderá usar o poder desse monstro.",
+        "es": "[Fabian]\nUna vez oí que hay Cartas que contienen el poder de los monstruos. Si alguien consiguiera una carta, podría usar el poder de ese monstruo."
+    },
+    "15aY": {
+        "en": "[Fabian]\nI'm guessing it's some sort of fad or scam, where they make you collect all the cards or whatever.  I mean, how can a card really hold the power of a monster?!",
+        "pt": "[Fabian]\nPode ser lorota, ou algum tipo de estratégia pra você querer colecionar todas as cartas. Digo, como uma carta pode carregar o poder de um monstro?",
+        "es": "[Fabian]\nSupongo que es algún tipo de moda o estafa, donde quieren que las colecciones todas o algo.  ¡¿Cómo puede una carta tener el poder de un monstruo?!"
+    },
+    "2JaY": {
+        "en": "[Fabian]\nSeriously...",
+        "pt": "[Fabian]\nFala sério...",
+        "es": "[Fabian]\nEn serio…"
+    },
+    "2ZaY": {
+        "en": "Steiner",
+        "pt": "Steiner",
+        "es": "Steiner"
+    },
+    "2paY": {
+        "en": "[Steiner]\nOh...!\nWelcome to Alberta,\nyoung adventurer!",
+        "pt": "[Steiner]\nAh...!\nboas-vindas a Alberta,\njovem viajante!",
+        "es": "[Steiner]\n¡Oh…!\n¡Te damos la bienvenida a Alberta,\njoven trotamundos!"
+    },
+    "25aY": {
+        "en": "[Steiner]\nPardon me if I seem distracted. I'm milling about, trying to make a plan. You see, I hear that there is a store in Geffen that sells armor that is resistant to magic.",
+        "pt": "[Steiner]\nPeço desculpas se parecer distraído. Estou pensando aqui... Ouvi dizer que há uma loja em Geffen que vende armaduras resistentes à magia.",
+        "es": "[Steiner]\nPerdóname si parezco distraído. Estoy dando vueltas, tratando de elaborar un plan. Verás, he oído que hay un mercado en Geffen que vende armaduras resistentes a la magia."
+    },
+    "3JaY": {
+        "en": "[Steiner]\nIf I buy a lot of them in bulk, and then resell them here for a higher price...",
+        "pt": "[Steiner]\nSe eu comprar várias delas por atacado e depois revendê-las aqui por um preço maior...",
+        "es": "[Steiner]\nSi compro muchas al por mayor y luego las revendo aquí a un precio más alto…"
+    },
+    "3ZaY": {
+        "en": "Chad",
+        "pt": "Chade",
+        "es": "Chad"
+    },
+    "3paY": {
+        "en": "[Chad]\nPeople say the legendary weapon Gungnir never misses its target. I wonder if it's possibly true...",
+        "pt": "[Chade]\nDizem que a arma lendária Gungnir nunca erra seu alvo. Será que é verdade mesmo...?",
+        "es": "[Chad]\nDicen que el arma legendaria Gungnir nunca le erra a su objetivo. Me pregunto si será verdad…"
+    },
+    "35aY": {
+        "en": "[Chad]\nPeople also say that babies are assembled by the storks before delivery, girls dig guys who act like jerks, and that Santa Claus exists! But only in Lutie.",
+        "pt": "[Chade]\nAs pessoas também dizem que os bebês são trazidos por cegonhas ao nascerem, que as meninas gostam dos babacas e que o Papai Noel existe! Mas somente em Lutie.",
+        "es": "[Chad]\n¡También dicen que las cigüeñas arman a los bebés antes de nacer, que a las chicas les gustan los chicos que se comportan como cretinos y que Santa Claus existe! Pero solo en Lutie."
+    },
+    "4JaY": {
+        "en": "[Chad]\nI wonder...\nIf any of that\nis possibly\ntrue...",
+        "pt": "[Chad]\nEu me pergunto...\nSe alguma dessas coisas\né minimamente\nverdade...",
+        "es": "[Chad]\nMe pregunto…\nSi algo de todo eso\nposiblemente sea\ncierto…"
+    },
+    "ᖘ": {
+        "en": "Drunken Old Man",
+        "pt": "Velho bêbado",
+        "es": "Viejo borracho"
+    },
+    "▘": {
+        "en": "[Deagle]\n^666666*Hiccup*^000000\nWh-what are you\nstaring at? Get lost!!",
+        "pt": "[Deagle]\n^666666*Hic*^000000\nO-o que você tá\nolhando? Cai fora!!!",
+        "es": "[Deagle]\n^666666*Hip*^000000\n¿Qu-qué estás\nmirando? ¡No me molestes!"
+    },
+    "㖘": {
+        "en": "Say nothing.",
+        "pt": "Não dizer nada.",
+        "es": "No decir nada."
+    },
+    "䖘": {
+        "en": "Leave him alone.",
+        "pt": "Deixá-lo em paz.",
+        "es": "Dejarlo en paz."
+    },
+    "喘": {
+        "en": "[Deagle]\nHahahaha ^666666*hiccup*^000000... You've got some nerve. I may look worthless now, but I used to be a sailor on the 'Going Mary.'",
+        "pt": "[Deagle]\nHahahahaha ^666666*hic*^000000... Você tem coragem. Posso parecer inútil agora, mas eu era um marinheiro no ''Going Mary''.",
+        "es": "[Deagle]\nJa, ja, ja, ja ^666666*hip*^000000… Tienes valor. Puedo parecer inútil ahora, pero solía ser marinero en el Going Mary."
+    },
+    "斘": {
+        "en": "Never heard of it.",
+        "pt": "Nunca ouvi falar.",
+        "es": "Nunca oí hablar de él."
+    },
+    "疘": {
+        "en": "Really? No kidding!",
+        "pt": "Sério? Não brinca!",
+        "es": "¿De verdad? ¡No me digas!"
+    },
+    "薘": {
+        "en": "[Deagle]\nNever heard of it?! Everybody knows th'notorious pirate ship 'Going Mary!' ^666666*Hiccup~*^000000",
+        "pt": "[Deagle]\nNunca ouviu falar?! Todo mundo conhece o famoso navio pirata ''Going Mary''! ^666666*Hic~*^000000",
+        "es": "[Deagle]\n¡¿Nunca oíste hablar de él?! ¡Todo el mundo conoce el famoso barco pirata Going Mary! ^666666*Hip~*^000000"
+    },
+    "閘": {
+        "en": "[Deagle]\nAh~ The ol'days. If only... If only we hadn't run into that STORM...^666666*hiccup*^000000",
+        "pt": "[Deagle]\nAh, os velhos tempos. Se ao menos... Se ao menos não tivéssemos encontrado aquela tempestade...^666666*hic*^000000",
+        "es": "[Deagle]\nAh~. Los viejos tiempos. Si tan solo… Si tan solo no nos hubiéramos topado con esa TORMENTA…^666666*hip*^000000"
+    },
+    "ꖘ": {
+        "en": "[Deagle]\nAH~ Captain. I miss our cap'n more than anything... No foe survived before cap'n's sword.",
+        "pt": "[Deagle]\nAH,~ capitão. Sinto falta do nosso capitão mais do que tudo... O cara era uma máquina de guerra.",
+        "es": "[Deagle]\nAH~, capitán. Echo de menos a nuestro capitán más que a nada… Ningún enemigo sobrevivía a la espada del capitán."
+    },
+    "떘": {
+        "en": "[Deagle]\nThat's right! NOBODY meshes with the crew of the 'Going Mary!' And nobody can beat out cap'n in a sword fight!",
+        "pt": "[Deagle]\nIsso mesmo! NINGUÉM se mete com a tripulação do ''Going Mary''! E ninguém consegue vencer o capitão em uma luta de espadas!",
+        "es": "[Deagle]\n¡Así es! ¡NADIE se mete con la tripulación del Going Mary! ¡Y nadie puede vencer al capitán en una pelea con espadas!"
+    },
+    "얘": {
+        "en": "[Deagle]\nCAPTAIN~!!! ^666666*HICCUP~*^000000 He would swing his sword like this, then... THEN!!",
+        "pt": "[Deagle]\nCAPITÃO~!!! ^666666*HIC~*^000000 Ele pegava a espada assim, e aí... E AÍ!!!",
+        "es": "[Deagle]\n¡CAPITÁN~! ^666666*HIP~*^000000 Él blandía su espada así y entonces… ¡ENTONCES!"
+    },
+    "햘": {
+        "en": "[Deagle]\nThe bastard the captain was fighting, and anyone of his friends near him, were surrounded in flame!",
+        "pt": "[Deagle]\nO desgraçado que enfrentasse o capitão e qualquer um dos seus amigos eram cercados por fogo!",
+        "es": "[Deagle]\nEl bastardo contra el que luchaba el capitán, y cualquiera de sus amigos alrededor, ¡quedaban rodeados de llamas!"
+    },
+    "": {
+        "en": "[Deagle]\nMan, that sword must have had some sort of mysterious power, or the captain was just that good...!",
+        "pt": "[Deagle]\nCara, aquela espada devia ter algum poder misterioso, ou o capitão era simplesmente muito bom...!",
+        "es": "[Deagle]\nCielos, esa espada debía tener algún tipo de poder misterioso, ¡o el capitán era así de bueno…!"
+    },
+    "": {
+        "en": "[Deagle]\nPhew~~ ^666666*Sob* *Sob...*^000000 God, I miss everyone! Now I'm depressed! Please, go away now.",
+        "pt": "[Deagle]\nUfa~~ ^666666*Snif* *Snif...*^000000 Nossa, que saudades deles! Agora fiquei triste! Vá embora, por favor.",
+        "es": "[Deagle]\nVaya~~. ^666666*Solloza* *Solloza…*^000000 ¡Dios, cómo los extraño a todos! ¡Ahora me deprimí! Por favor, vete ya."
+    },
+    "8JaY": {
+        "en": "[Deagle]\nThat's right!\nGo AWAY~",
+        "pt": "[Deagle]\nIsso mesmo!\nVá embora~",
+        "es": "[Deagle]\n¡Así es!\nDije FUERA~."
+    },
+    "8ZaY": {
+        "en": "Shakir",
+        "pt": "Shakir",
+        "es": "Shakir"
+    },
+    "8paY": {
+        "en": "[Shakir]\nWe Merchants can\nopen roadside stands\nto do business.",
+        "pt": "[Shakir]\nNós, Mercadores, podemos\nabrir barracas à beira da estrada\npara fazer negócios.",
+        "es": "[Shakir]\nLos Comerciantes podemos\nabrir puestos junto a los caminos\npara hacer negocios."
+    },
+    "85aY": {
+        "en": "[Shakir]\nWith the Discount skill, we can buy goods really cheap from the stores in towns and load them into the cart we rent.",
+        "pt": "[Shakir]\nCom a habilidade Desconto, podemos comprar mercadorias muito baratas nas lojas das cidades e carregá-las no carrinho que alugamos.",
+        "es": "[Shakir]\nCon la habilidad Descuento, podemos comprar productos muy baratos en los mercados de los pueblos y cargarlos en el carro que alquilamos."
+    },
+    "9JaY": {
+        "en": "[Shakir]\nThen afterwards, we can travel anywhere, and sells our goods to make a profit!",
+        "pt": "[Shakir]\nDepois, podemos viajar para qualquer lugar e vender nossos produtos!",
+        "es": "[Shakir]\nLuego, podemos viajar a cualquier parte ¡y vender nuestros productos para sacar ganancias!"
+    },
+    "9ZaY": {
+        "en": "[Shakir]\nThis way, business is more convenient and safe. Don't fall asleep, although it's too easy to do that.",
+        "pt": "[Shakir]\nAssim, é mais fácil e seguro de negociar. Mas não durma na loja, viu? Sei que é difícil de resistir...",
+        "es": "[Shakir]\nDe esta forma, hacer negocios resulta más cómodo y seguro. No te duermas, aunque sea fácil hacerlo."
+    },
+    "9paY": {
+        "en": "[Shakir]\nWe Merchants have our own negotiating skill when we sell goods. This skill can get us more money than when other people sell goods.",
+        "pt": "[Shakir]\nNós, comerciantes, temos nossa própria habilidade de negociação quando vendemos mercadorias. Essa habilidade pode nos render uma margem maior de lucro do que quando outras pessoas vendem mercadorias.",
+        "es": "[Shakir]\nLos Comerciantes tenemos nuestra propia habilidad de negociación cuando vendemos productos. Esta habilidad puede hacernos ganar más dinero que cuando otras personas venden los productos."
+    },
+    "95aY": {
+        "en": "[Shakir]\nIt's more than just yelling 'You'll have to give more money please!' You need to have charisma, and master rhetoric!",
+        "pt": "[Shakir]\nNão basta só gritar ''me dá um dinheiro aí!''. Você precisa ter carisma e dominar a retórica!",
+        "es": "[Shakir]\nEs algo más que solo gritar ¡Denme más dinero, por favor!. ¡Hay que tener carisma y dominar la retórica!"
+    },
+    "+JaY": {
+        "en": "[Shakir]\nWe can get up to 24 % more zeny with this incredible skill. But remember to train hard to acquire it!!",
+        "pt": "[Shakir]\nDá pra ganhar até 24% a mais de Zeny com essa habilidade incrível, mas não deixe de continuar treinando até a dominar!",
+        "es": "[Shakir]\nPodemos conseguir hasta un 24% más de zeny con esta increíble habilidad. ¡Pero recuerda entrenar duro para adquirirla!"
+    },
+    "+ZaY": {
+        "en": "Sonya",
+        "pt": "Sonya",
+        "es": "Sonya"
+    },
+    "+paY": {
+        "en": "[Sonya]\nHey, you know, this one time I was walking through the forest and I saw this little green stem moving around.",
+        "pt": "[Sonya]\nSabe, uma vez eu estava andando pela floresta e vi um pequeno caule verde se movendo.",
+        "es": "[Sonya]\nUna vez estaba caminando por el bosque y vi un pequeño tallo verde que se movía."
+    },
+    "+5aY": {
+        "en": "[Sonya]\nI went to see what it was and when I went to touch it. The stem actually slapped my hand!",
+        "pt": "[Sonya]\nFui ver o que era e quando fui tocá-lo, o caule bateu na minha mão!",
+        "es": "[Sonya]\nFui a ver qué era y cuando lo toqué… ¡El tallo me golpeó en la mano!"
+    },
+    "/JaY": {
+        "en": "[Sonya]\nIt startled me, so I jumped back a bit and then I realized it wasn't a stem, but a very small animal.",
+        "pt": "[Sonya]\nTomei um susto e dei um pulo para trás, aí eu percebi que não era um caule, mas um animal bem pequeno.",
+        "es": "[Sonya]\nMe asusté, así que retrocedí de un salto y ahí me di cuenta de que no era un tallo, sino un animal muy pequeño."
+    },
+    "/ZaY": {
+        "en": "[Sonya]\nI was lucky I didn't upset it. Even the smallest animal can be dangerous if angered.",
+        "pt": "[Sonya]\nTive sorte de não o ter irritado. Até mesmo o menor dos animais pode ser perigoso se estiver acuado.",
+        "es": "[Sonya]\nTuve suerte de no hacerlo enojar. Hasta el animal más pequeño puede ser peligroso si se enfada."
+    },
+    "/paY": {
+        "en": "[Sonya]\nYou know those lazy looking bears that live in the forest on the way to Payon?",
+        "pt": "[Sonya]\nVocê já viu aqueles ursos preguiçosos que vivem na floresta a caminho de Payon?",
+        "es": "[Sonya]\n¿Conoces a esos osos de aspecto perezoso que viven en el bosque de camino a Payon?"
+    },
+    "/5aY": {
+        "en": "[Sonya]\nJust for fun, I threw a rock at it and all of sudden it rushed at me! I was sooooo scared, I started to run away, then BAM!!!",
+        "pt": "[Sonya]\nDe brincadeira joguei uma pedra em um deles e aí ele veio correndo na minha direção! Entrei em pânico, comecei a correr e aí BAM!!!",
+        "es": "[Sonya]\nSolo por diversión, le arrojé una piedra a uno y, de pronto, ¡se abalanzó sobre mí! Estaba taaaan asustada, que empecé a huir y entonces… ¡BAM!"
+    },
+    "AJeY": {
+        "en": "[Sonya]\nIt ran into a low tree branch and knocked itself out! I swear, I'll never provoke an animal for fun again!",
+        "pt": "[Sonya]\nEle deu de cara em um galho mais baixo de árvore e caiu desmaiado! Juro que nunca mais vou provocar um animal por diversão!",
+        "es": "[Sonya]\n¡Se chocó contra la rama baja de un árbol y se desmayó! ¡Lo juro, nunca volveré a provocar a un animal por diversión!"
+    },
+    "AZeY": {
+        "en": "[Sonya]\nI once saw a pack of wolves take on one of those huge, lazy bears!",
+        "pt": "[Sonya]\nCerta vez, vi uma matilha de lobos enfrentar um desses ursos enormes e preguiçosos!",
+        "es": "[Sonya]\n¡Una vez vi a una manada de lobos enfrentarse a uno de esos enormes osos perezosos!"
+    },
+    "ApeY": {
+        "en": "[Sonya]\nWolves are much more cooperative than they may seem. If one of them is attacked, then any nearby wolves will run to help.",
+        "pt": "[Sonya]\nOs lobos são muito mais cooperativos do que parecem. Se um deles for atacado, todos os lobos próximos correm para ajudar.",
+        "es": "[Sonya]\nLos lobos cooperan entre sí mucho más de lo que puede parecer. Si están atacando a uno de ellos, cualquier lobo cercano correrá a ayudarlo."
+    },
+    "A5eY": {
+        "en": "[Sonya]\nI'd think twice if you ever want to fight one when others of its kind are around. Be careful: don't get ganged up on!",
+        "pt": "[Sonya]\nPense bem antes de atacar um deles com outros da mesma espécie por perto, ou pode acabar enfrentando o bando inteiro!",
+        "es": "[Sonya]\nYo lo pensaría dos veces si alguna vez quieres luchar contra uno cuando hay otros de su especie cerca. Ten cuidado: ¡que no te ataquen en manada!"
+    },
+    "BJeY": {
+        "en": "Grandma Alma",
+        "pt": "Vovó Alma",
+        "es": "Abuela Alma"
+    },
+    "BZeY": {
+        "en": "[Grandma Alma]\nSome time ago,\na derelict ship\ndrifted into\nAlberta harbor.",
+        "pt": "[Vovó Alma]\nUm tempo atrás,\num navio abandonado\nveio parar no\nporto de Alberta.",
+        "es": "[Abuela Alma]\nHace un tiempo,\nun barco abandonado\nderivó hacia\nel puerto de Alberta."
+    },
+    "BpeY": {
+        "en": "[Grandma Alma]\nHoping to save any survivors, some of the townspeople ventured into the ship. However, they all ran out terrified, saying that corpses were walking around inside the ship.",
+        "pt": "[Vovó Alma]\nNa esperança de salvar os sobreviventes, alguns dos moradores resolveram embarcar no navio. No entanto, todos saíram correndo apavorados, dizendo que havia cadáveres andando por lá.",
+        "es": "[Abuela Alma]\nCon la esperanza de salvar a los sobrevivientes, algunos habitantes se animaron a entrar en el barco. Sin embargo, todos huyeron aterrorizados y decían que los cadáveres se paseaban por el interior de la nave."
+    },
+    "B5eY": {
+        "en": "[Grandma Alma]\nThe ship was also packed with dangerous marine organisms, and they couldn't get inside, even if they wanted to.",
+        "pt": "[Vovó Alma]\nO navio também estava repleto de criaturas marinhas perigosas. As pessoas não poderiam entrar no navio, mesmo que quisessem.",
+        "es": "[Abuela Alma]\nAdemás, el barco estaba repleto de peligrosos organismos marinos y no hubieran podido entrar en él aunque quisieran."
+    },
+    "CJeY": {
+        "en": "[Grandma Alma]\nWe couldn't do anything about that ominous looking ship, and just left it as it was. Nowadays, exploration teams try to enter that ship and wipe out its monsters.",
+        "pt": "[Vovó Alma]\nNão podíamos fazer nada em relação àquela embarcação sinistra e simplesmente a deixamos lá. Hoje em dia, as equipes de exploração tentam entrar no navio e eliminar seus monstros.",
+        "es": "[Abuela Alma]\nNo pudimos hacer nada con aquel barco de aspecto siniestro y lo dejamos como estaba. Hoy en día, los equipos de exploración intentan entrar en la nave para acabar con esos monstruos."
+    },
+    "CZeY": {
+        "en": "[Grandma Alma]\nSo it might be a good experience for a young person like yourself to be a recruit. But, it's still not worth risking your life if you're not strong enough.",
+        "pt": "[Vovó Alma]\nPortanto, subir no navio pode ser uma boa experiência para alguém como você. Mas não vale a pena arriscar sua vida se você não for forte o suficiente.",
+        "es": "[Abuela Alma]\nAsí que puede ser una buena experiencia para alguien joven como tú si te reclutan. Pero, aun así, no vale la pena arriesgar tu vida si no eres lo suficientemente fuerte."
+    },
+    "CpeY": {
+        "en": "Fisk",
+        "pt": "Fisk",
+        "es": "Pescado"
+    },
+    "C5eY": {
+        "en": "[Fisk]\nAhoy mate,\nwhere'd ya\nwanna go?",
+        "pt": "[Fisk]\nE aí, colega,\npara onde\nvocê quer ir?",
+        "es": "[Fisk]\nHola, camarada.\n¿Adónde\nquieres ir?"
+    },
+    "DJeY": {
+        "en": "Sunken Ship » 250 zeny.",
+        "pt": "Navio Naufragado » 250 Zeny.",
+        "es": "Barco hundido: 250zeny."
+    },
+    "DZeY": {
+        "en": "Izlude Marina » 500 zeny.",
+        "pt": "Marina de Izlude » 500 Zeny.",
+        "es": "Pueblo costero Izlude: 500zeny."
+    },
+    "DpeY": {
+        "en": "Byalan Island » 650 zeny.",
+        "pt": "Ilha Byalan » 650 Zeny.",
+        "es": "Isla Byalan: 650zeny."
+    },
+    "D5eY": {
+        "en": "Never mind.",
+        "pt": "Deixa pra lá.",
+        "es": "Olvídalo."
+    },
+    "EJeY": {
+        "en": "[Fisk]\nHey now, don't try to cheat me! I said 250 zeny!",
+        "pt": "[Fisk]\nEi, não tente me enganar! Eu disse 250 Zeny!",
+        "es": "[Fisk]\n¡Oye, no intentes engañarme! ¡Dije 250zeny!"
+    },
+    "EZeY": {
+        "en": "[Fisk]\nAin't no way yer getting there without the 500 zeny first!",
+        "pt": "[Fisk]\nEu não saio daqui sem os meus 500 Zeny!",
+        "es": "[Fisk]\n¡No hay forma de que llegues allí sin los 500zeny primero!"
+    },
+    "EpeY": {
+        "en": "[Fisk]\nAin't no way yer getting there without the 650 zeny first!",
+        "pt": "[Fisk]\nEu não saio daqui sem os meus 650 Zeny!",
+        "es": "[Fisk]\n¡No hay forma de que llegues allí sin los 650zeny primero!"
+    },
+    "E5eY": {
+        "en": "[Fisk]\nAlright...\nLandlubber.",
+        "pt": "[Fisk]\nTudo bem...\nEsses marujos de água doce.",
+        "es": "[Fisk]\nDe acuerdo…\nMarinero de agua dulce."
+    },
+    "FJeY": {
+        "en": "[Fisk]\nSo you wanna head back to the mainland in Alberta, eh?",
+        "pt": "[Fisk]\nEntão você quer voltar para o continente em Alberta, hein?",
+        "es": "[Fisk]\nAsí que quieres volver al continente en Alberta, ¿eh?"
+    },
+    "FZeY": {
+        "en": "Yes please.",
+        "pt": "Sim, por favor.",
+        "es": "Sí, por favor."
+    },
+    "FpeY": {
+        "en": "I changed my mind.",
+        "pt": "Mudei de ideia.",
+        "es": "Cambié de opinión."
+    },
+    "F5eY": {
+        "en": "Paul",
+        "pt": "Paul",
+        "es": "Paul"
+    },
+    "GJeY": {
+        "en": "[Paul]\nGood day~\nWould you like\nto join the\nexploration team\nof the Sunken Ship?",
+        "pt": "[Paul]\nBom dia~\nVocê gostaria de\nse juntar à\nequipe de exploração\ndo Navio Afundado?",
+        "es": "[Paul]\nBuenos días~.\n¿Quieres\nunirte al\nequipo de exploración\ndel Barco hundido?"
+    },
+    "GZeY": {
+        "en": "[Paul]\nOh! Before you join, I must warn you. If you're not that strong, you may not want to go.",
+        "pt": "[Paul]\nAh! Antes de vir, um aviso: se você não for bem forte, talvez não queira ir.",
+        "es": "[Paul]\n¡Oh! Antes de que te unas, debo advertirte algo. Si no eres tan fuerte, tal vez no te convenga ir."
+    },
+    "GpeY": {
+        "en": "[Paul]\nSo, want\nto sign up?\nThe admission\nfee is only\n200 Zeny.",
+        "pt": "[Paul]\nEntão, quer\nparticipar?\nA taxa de admissão\né de apenas\n200 Zeny.",
+        "es": "[Paul]\nEntonces, ¿quieres\ninscribirte?\nLa cuota\nde admisión es de solo\n200zeny."
+    },
+    "G5eY": {
+        "en": "Sign me up!",
+        "pt": "Vou participar!",
+        "es": "¡Quiero inscribirme!"
+    },
+    "HJeY": {
+        "en": "Uh, no thanks.",
+        "pt": "Não, valeu.",
+        "es": "Mm… no, gracias."
+    },
+    "HZeY": {
+        "en": "[Paul]\nIt seems you don't have the money, my friend. But please come back when you're able to pay.",
+        "pt": "[Paul]\nVocê tá sem grana, é?. Volte aí quando conseguir o valor da taxa.",
+        "es": "[Paul]\nParece que no tienes el dinero suficiente, camarada. Pero, por favor, vuelve cuando puedas pagar."
+    },
+    "HpeY": {
+        "en": "[Paul]\nAlright, well...\nI'll be around\nif you change\nyour mind.",
+        "pt": "[Paul]\nTá, tudo bem...\nVou estar por aqui\nse você mudar\nde ideia.",
+        "es": "[Paul]\nDe acuerdo, bueno…\nEstaré por aquí \nsi cambias\nde opinión."
+    },
+    "H5eY": {
+        "en": "Phelix",
+        "pt": "Phelix",
+        "es": "Phelix"
+    },
+    "IJeY": {
+        "en": "- Wait !! -\n- You have too many itmes -\n- Please come back again -\n- after make more lighter. -",
+        "pt": "- Espere !!! -\n- Você tem muitos itens -\n- Volte aqui -\n- quanto estiver mais leve. -",
+        "es": "-¡Espera!-\n-Tienes demasiados objetos.-\n-Así que vuelve\ncuando no lleves tanto peso encima.-"
+    },
+    "IZeY": {
+        "en": "[Phelix]\nThe hell are you doing here?\nThere is nothing you can get for free on this ship, if you want somethin', work for it!!",
+        "pt": "[Phelix]\nO que você quer?\nNeste navio, nada sai de graça. Você tem que fazer por merecer!",
+        "es": "[Phelix]\n¿Qué demonios haces aquí?\nNo hay nada que puedas conseguir gratis en este barco; ¡si quieres algo, tienes que trabajar por ello!"
+    },
+    "IpeY": {
+        "en": "[Phelix]\nHmm, so why don't you bring me 10 jellopies and I will give 1 potion. How's that sound?\nOr if that's too hard for your pansy ass, 3 jellopies for 1 Carrot.",
+        "pt": "[Phelix]\nHum, se você me trouxer 10 Jellopies, eu posso te dar 1 Poção. O que acha?\nOu, se ficar muito difícil pra fracotes como você, 3 Jellopies por 1 Cenoura.",
+        "es": "[Phelix]\nMmm… ¿qué tal si me traes 10Jellopy y te doy 1Poción? ¿Qué te parece?\nO si eso es demasiado difícil para alguien tan inútil, 3Jellopy por 1Zanahoria."
+    },
+    "I5eY": {
+        "en": "[Phelix]\nIf you're interested in my offer, get me the stuff I mentioned.",
+        "pt": "[Phelix]\nSe estiver interesse na minha oferta, traga os materiais que pedi.",
+        "es": "[Phelix]\nSi te interesa mi oferta, consígueme lo que te dije."
+    },
+    "JJeY": {
+        "en": "[Phelix]\nHmm.. you want to exchange jellopies for Red Potions or some Carrots eh? Well.. which one?",
+        "pt": "[Phelix]\nHum... você quer trocar Jellopies por Poções Vermelhas ou Cenouras, hein? Qual vai ser?",
+        "es": "[Phelix]\nMmm… ¿quieres cambiar Jellopy por Pociones rojas o Zanahorias? Bueno… ¿cuál?"
+    },
+    "JZeY": {
+        "en": "Red Potions please.",
+        "pt": "Poções vermelhas.",
+        "es": "Pociones rojas, por favor."
+    },
+    "JpeY": {
+        "en": "Carrots please.",
+        "pt": "Cenouras.",
+        "es": "Zanahorias, por favor."
+    },
+    "J5eY": {
+        "en": "[Phelix]\nAlright...\nLet's see\nwhat'cha got..",
+        "pt": "[Phelix]\nTudo bem...\nVamos ver\no que você tem...",
+        "es": "[Phelix]\nDe acuerdo…\nVeamos\nqué tienes…"
+    },
+    "KJeY": {
+        "en": "[Phelix]\nHey! Weren't you listening?. I said 10 jellopies for 1 Red Potion.. are ya deaf?",
+        "pt": "[Phelix]\nEi! Você não escutou? Eu disse 10 Jellopies por 1 Poção Vermelha... Que idiota...",
+        "es": "[Phelix]\n¡Oye! ¿No me escuchaste? Dije 10Jellopy por 1Poción roja… ¿Te cuesta oír?"
+    },
+    "KZeY": {
+        "en": "[Phelix]\nHmm, not bad...\nHow many potions\ndo you want to get?",
+        "pt": "[Phelix]\nHmm, nada mal...\nQuantas poções\nvocê quer?",
+        "es": "[Phelix]\nMmm… no está mal…\n¿Cuántas Pociones\nquieres conseguir?"
+    },
+    "KpeY": {
+        "en": "As many as I can, please.",
+        "pt": "O máximo de poções possível.",
+        "es": "Todas las que pueda, por favor."
+    },
+    "K5eY": {
+        "en": "I want this many.",
+        "pt": "Quero só algumas.",
+        "es": "Quiero esta cantidad."
+    },
+    "LJeY": {
+        "en": "Never mind, I like my jellopy.",
+        "pt": "Deixa pra lá, vou ficar com meu Jellopy.",
+        "es": "No importa, prefiero mis Jellopy."
+    },
+    "LZeY": {
+        "en": "[Phelix]\nI'm not giving you more then 100 at a time so don't bother, OK? If you don't want any, just say '0'.\nRight now, the most you can get is {0} but remember, 100 at most, you want to break my back?.",
+        "pt": "[Phelix]\nNão posso te dar mais de 100 por vez, então nem adianta insistir, OK? Se você não quiser mais, basta dizer ''0''.\nNo momento, o máximo que posso conseguir é {0}, mas lembre-se, no máximo 100, senão você me ferra.",
+        "es": "[Phelix]\nNo te daré más de 100a la vez, así que no te molestes, ¿de acuerdo? Si no quieres ninguna, solo di0.\nAhora mismo, lo máximo que puedes conseguir es {0}, pero recuerda, 100como mucho, ¿quieres que me rompa la espalda?"
+    },
+    "LpeY": {
+        "en": "[Phelix]\nMuch obliged, come again anytime.",
+        "pt": "[Phelix]\nValeu, volte sempre.",
+        "es": "[Phelix]\nMuchas gracias, vuelve cuando quieras."
+    },
+    "L5eY": {
+        "en": "[Phelix]\nHey, what'd I say? 100 at a time at most, you're trying to kill me aren't you!.",
+        "pt": "[Phelix]\nEi, o que eu disse? No máximo 100 por vez! Você quer me matar, é?",
+        "es": "[Phelix]\nEh, ¿qué fue lo que dije? 100a la vez como máximo, ¡¿acaso quieres matarme?!"
+    },
+    "MJeY": {
+        "en": "[Phelix]\nHmm, it looks like you don't have enough. Go get more jellopies if you want anything else from me.",
+        "pt": "[Phelix]\nHum, você não tem o suficiente. Vá buscar mais Jellopies se quiser mais alguma coisa minha.",
+        "es": "[Phelix]\nMmm… Parece que no tienes suficiente. Consigue más Jellopy si quieres que te dé algo más."
+    },
+    "MZeY": {
+        "en": "[Phelix]\nNo problem,\nsee you next time.",
+        "pt": "[Phelix]\nDe boa,\naté mais.",
+        "es": "[Phelix]\nNo hay problema,\nhasta la próxima."
+    },
+    "MpeY": {
+        "en": "[Phelix]\nIt seems you don't have enough. Go get more jellopies if you want anything else from me.",
+        "pt": "[Phelix]\nVocê não tem Jellopies o suficiente. Vá buscar mais se quiser alguma coisa minha.",
+        "es": "[Phelix]\nParece que no tienes suficiente. Consigue más Jellopy si quieres que te dé algo más."
+    },
+    "M5eY": {
+        "en": "[Phelix]\nThere you go! As I promised. Don't go suckin' them all down at once.",
+        "pt": "[Phelix]\nAqui está! Como prometido. Não vai beber todas de uma vez.",
+        "es": "[Phelix]\n¡Aquí tienes! Como lo prometí. No te comas todo de una vez."
+    },
+    "NJeY": {
+        "en": "[Phelix]\nAlright, let's see what ya got...",
+        "pt": "[Phelix]\nCerto, vamos ver o que você tem...",
+        "es": "[Phelix]\nMuy bien, veamos qué tienes…"
+    },
+    "NZeY": {
+        "en": "[Phelix]\nHmm, look pansy ass, I said 3 jellopies for 1 Carrot.. got it?",
+        "pt": "[Phelix]\nEscuta aqui, fracote, eu disse 3 Jellopies por 1 Cenoura... Entendeu?",
+        "es": "[Phelix]\nMmm… mira, inútil, dije3Jellopy por 1Zanahoria… ¿entiendes?"
+    },
+    "NpeY": {
+        "en": "[Phelix]\nNot too bad pansy...\nHow many do you want?",
+        "pt": "[Phelix]\nNada mal, fracote...\nQuantas você quer?",
+        "es": "[Phelix]\nNada mal, inútil…\n¿Cuántas quieres?"
+    },
+    "N5eY": {
+        "en": "As many as I can get, please",
+        "pt": "O máximo de cenouras possível",
+        "es": "Todas las que pueda, por favor."
+    },
+    "OJeY": {
+        "en": "[Phelix]\nRight I'm not giving you more then 100 at a time so don't bother, okay? If you don't want any, just say '0'.",
+        "pt": "[Phelix]\nTá, não tenho como te dar mais de 100 de uma vez, então nem adianta insistir, ok? Se você não quiser nenhuma, basta dizer ''0''.",
+        "es": "[Phelix]\nNo te daré más de 100a la vez, así que no te molestes, ¿de acuerdo? Si no quieres ninguna, solo di0."
+    },
+    "OZeY": {
+        "en": "[Phelix]\nAlright then, see you next time.",
+        "pt": "[Phelix]\nBeleza, até mais.",
+        "es": "[Phelix]\nMuy bien, hasta la próxima."
+    },
+    "OpeY": {
+        "en": "[Phelix]\nHey pansy ass, I said 100 at most, no more then that! I'm not going to break my back for the likes of you!",
+        "pt": "[Phelix]\nEi, fracote, eu disse 100 no máximo! Não vou me ferrar por causa de gente como você!",
+        "es": "[Phelix]\nOye, inútil, dije 100como máximo, ¡no más que eso! ¡No me romperé la espalda por alguien como tú!"
+    },
+    "O5eY": {
+        "en": "[Phelix]\nSeems you don't have enough. Go get some more if you want anything else.",
+        "pt": "[Phelix]\nVocê não trouxe material suficiente. Vá buscar mais se quiser alguma coisa.",
+        "es": "[Phelix]\nParece que no tienes suficiente. Consigue más si quieres otra cosa."
+    },
+    "PJeY": {
+        "en": "[Phelix]\nCatch'ya later.",
+        "pt": "[Phelix]\nAté depois.",
+        "es": "[Phelix]\nNos vemos luego."
+    },
+    "PZeY": {
+        "en": "[Phelix]\nYou don't seem to have what I need. Go get me jellopies.",
+        "pt": "[Phelix]\nVocê não trouxe o que eu pedi. Vá buscar mais Jellopies.",
+        "es": "[Phelix]\nNo parece que tengas lo que necesito. Ve y tráeme Jellopy."
+    },
+    "PpeY": {
+        "en": "[Phelix]\nThere you go~! As I promised. Try not to stuff yer face.",
+        "pt": "[Phelix]\nAqui está~! Como prometido. Não vai ficar com dor de barriga.",
+        "es": "[Phelix]\n¡Aquí tienes~! Como lo prometí. Intenta no atragantarte."
+    },
+    "P5eY": {
+        "en": "Inn Employee",
+        "pt": "Funcionária da pousada",
+        "es": "Empleado de posada"
+    },
+    "QJeY": {
+        "en": "[Employee Jennie]\nWelcome to\n'Fisherman Inn!'\nHow may I help you?",
+        "pt": "[Funcionária Jennie]\nBoas-vindas à\nEstalagem do Pescador!\nPosso ajudar?",
+        "es": "[Empleada Jennie]\n¡Te damos la bienvenida a la\n¡Posada del Pescador!\n¿En qué puedo ayudarte?"
+    },
+    "QZeY": {
+        "en": "Save",
+        "pt": "Salvar",
+        "es": "Guardar."
+    },
+    "QpeY": {
+        "en": "Take Rest - 5000 zeny",
+        "pt": "Descansar - 5.000 Zenys",
+        "es": "Descansar: 5000zeny."
+    },
+    "Q5eY": {
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar."
+    },
+    "RJeY": {
+        "en": "[Employee Jennie]\nYour respawn point\nhas been saved.\nThank you,\nplease come again.",
+        "pt": "[Funcionária Jennie]\nSeu ponto de retorno\nfoi salvo.\nVolte sempre.",
+        "es": "[Empleada Jennie]\nTu punto de reaparición\nse guardó.\nGracias,\nvuelve pronto."
+    },
+    "RZeY": {
+        "en": "[Employee Jennie]\nThank you.\nI hope you\nenjoy your rest~",
+        "pt": "[Funcionária Jennie]\nObrigada.\nEspero que\naproveite seu descanso~",
+        "es": "[Empleada Jennie]\nGracias.\nEspero que\ndisfrutes de tu descanso~."
+    },
+    "RpeY": {
+        "en": "[Employee Jennie]\nI'm sorry, but the service charge is 5,000 zeny. Please make sure that you have enough money to check in next time, okay?",
+        "pt": "[Funcionária Jennie]\nSinto muito, mas a taxa de serviço é de 5.000 Zeny. Veja se tem dinheiro suficiente para fazer o check-in da próxima vez, tá bom?",
+        "es": "[Empleada Jennie]\nLo siento, pero el cargo por el servicio es de 5000zeny. Asegúrate de tener suficiente dinero para registrarte la próxima vez, ¿sí?"
+    }
+}

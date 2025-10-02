@@ -1,0 +1,972 @@
+{
+    "wA20": {
+        "en": "Kafra Staff",
+        "pt": "Funcionária Kafra",
+        "es": "Personal de Kafra"
+    },
+    "wQ20": {
+        "en": "[Kafra Staff]\nYour Kafra Points\nhave reached a dangerous amount.\nYou can't use the Kafra services\nas you are right now.\nPlease visit our Al De Baran headquarters\nand exchange your Kafra Points for some items first.",
+        "pt": "[Equipe Kafra]\nSeus pontos Kafra\natingiram uma quantidade perigosa.\nVocê não pode usar os serviços Kafra\ndesse jeito.\nPor favor, visite nossa sede em Al De Baran\ne troque seus Pontos Kafra por alguns itens primeiro.",
+        "es": "[Personal de Kafra]\nTus puntos de Kafra\nalcanzaron una cantidad peligrosa.\nNo puedes usar los servicios de Kafra\nde este modo.\nVisita nuestra sede de Aldebaran\ny canjea primero tus puntos de Kafra por algunos objetos."
+    },
+    "wg20": {
+        "en": "[Kafra Staff]\nWelcome. Kafra is always with you.\nPlease note if you save here, you'll be saved in Al De Baran.\nHow may I help you today?",
+        "pt": "[Equipe da Kafra]\nBem-vindo. A Kafra está sempre com você.\nObserve que, se você salvar aqui, será salvo em Al De Baran.\nComo posso ajudá-lo hoje?",
+        "es": "[Personal de Kafra]\nTe damos la bienvenida. Kafra está siempre a tu disposición.\nTen en cuenta que si guardas aquí, guardarás en Aldebaran.\n¿En qué puedo ayudarte hoy?"
+    },
+    "ww20": {
+        "en": "Save point.",
+        "pt": "Ponto de salvamento.",
+        "es": "Guardar punto."
+    },
+    "xA20": {
+        "en": "Use Storage.",
+        "pt": "Use o armazenamento.",
+        "es": "Usar el almacén."
+    },
+    "xQ20": {
+        "en": "Check other info.",
+        "pt": "Verifique outras informações.",
+        "es": "Comprobar otra información."
+    },
+    "xg20": {
+        "en": "Quit.",
+        "pt": "Desistir.",
+        "es": "Salir."
+    },
+    "xw20": {
+        "en": "[Kafra Staff]\nYour point has been saved.\nThank you for your patronage.",
+        "pt": "[Equipe da Kafra]\nSeu ponto foi salvo.\nObrigada por seu patrocínio.",
+        "es": "[Personal de Kafra]\nSe guardó tu punto.\nGracias por tu apoyo."
+    },
+    "yA20": {
+        "en": "[Kafra Staff]\nI'm sorry,\nbut to use our Storage service, you first must increase your Novice Job Level to 6 or learn the Basic Skill.",
+        "pt": "[Equipe da Kafra]\nDesculpe-me,\nmas para usar nosso Armazém, primeiro você deve aumentar seu Nível de Aprendiz para 6 ou aprender a Habilidade Básica.",
+        "es": "[Personal de Kafra]\nLo siento,\npero para usar nuestro servicio de almacenamiento, primero tienes que aumentar tu nivel de clase de Principiante a 6 o aprender la habilidad básica."
+    },
+    "yQ20": {
+        "en": "[Kafra Staff]\nLet me open your storage for you.\nThank you for your patronage.",
+        "pt": "[Equipe da Kafra]\nDeixe-me abrir seu depósito para você.\nObrigada por seu patrocínio.",
+        "es": "[Personal de Kafra]\nDéjame abrirte tu almacén.\nGracias por tu apoyo."
+    },
+    "yg20": {
+        "en": "[Kafra Staff]\nI'm sorry, but you don't have enough Zeny.\nIt's 50 Zeny to use the Storage.",
+        "pt": "[Equipe da Kafra]\nSinto muito, mas você não tem Zenys suficientes.\nSão 50 Zeny para usar o Storage.",
+        "es": "[Personal de Kafra]\nLo siento, pero no tienes suficientes zeny.\nUsar el almacén cuesta 50 zeny."
+    },
+    "yw20": {
+        "en": "Check my Kafra Points.",
+        "pt": "Verifique meus pontos Kafra.",
+        "es": "Comprobar mis puntos de Kafra."
+    },
+    "zA20": {
+        "en": "Cancel.",
+        "pt": "Cancelar",
+        "es": "Cancelar."
+    },
+    "zQ20": {
+        "en": "[Kafra Staff]\n{0}, currently you have {1} Kafra Points.",
+        "pt": "[Equipe Kafra]\n{0}, atualmente você tem {1} Pontos Kafra.",
+        "es": "[Personal de Kafra]\n{0}, actualmente tienes {1} puntos de Kafra."
+    },
+    "zg20": {
+        "en": "[Kafra Staff]\nYou can use them to shop items at the Kafra Headquarters.\nEnjoy using Kafra services and get free items along the way!",
+        "pt": "[Equipe da Kafra]\nVocê pode usá-los para comprar itens na sede da Kafra.\nDivirta-se usando os serviços Kafra e ganhe itens gratuitos ao longo do caminho!",
+        "es": "[Personal de Kafra]\nPuedes usarlos para comprar objetos en la sede central de Kafra.\n¡Disfruta de usar los servicios de Kafra y consigue objetos gratis en el camino!"
+    },
+    "zw20": {
+        "en": "[Kafra Staff]\nKafra always strives to provide you with reliable and friendly services.\nThank you for your patronage.",
+        "pt": "[Equipe da Kafra]\nA Kafra sempre se esforça para oferecer a você serviços confiáveis e amigáveis.\nObrigada por seu patrocínio.",
+        "es": "[Personal de Kafra]\nKafra siempre se esfuerza por brindarte servicios confiables y agradables.\nGracias por tu apoyo."
+    },
+    "0A20": {
+        "en": "Turbo Track Merchant",
+        "pt": "Comerciante do Turbo Track",
+        "es": "Turbo Track Merchant"
+    },
+    "0Q20": {
+        "en": "Turbo Track Guide",
+        "pt": "Guia do Turbo Track",
+        "es": "Turbo Track Guía"
+    },
+    "0g20": {
+        "en": "The Single Challenge Mode game will end soon.",
+        "pt": "O jogo do Modo Desafio Único terminará em breve.",
+        "es": "El modo de desafío en solitario terminará pronto."
+    },
+    "0w20": {
+        "en": "The Normal 4-player Mode game will end soon.",
+        "pt": "A partida do modo normal para 4 jogadores terminará em breve.",
+        "es": "El modo normal de 4 jugadores terminará pronto."
+    },
+    "1A20": {
+        "en": "The Normal 8-player Mode game will end soon.",
+        "pt": "A partida do modo normal para 8 jogadores terminará em breve.",
+        "es": "El modo normal de 8 jugadores terminará pronto."
+    },
+    "1Q20": {
+        "en": "The Normal 16-player Mode game will end soon.",
+        "pt": "A partida do modo normal para 16 jogadores terminará em breve.",
+        "es": "El modo normal de 16 jugadores terminará pronto."
+    },
+    "1g20": {
+        "en": "The Expert 4-player Mode game will end soon.",
+        "pt": "O modo expert para 4 jogadores será encerrado em breve.",
+        "es": "El modo experto de 4 jugadores terminará pronto."
+    },
+    "1w20": {
+        "en": "The Expert 8-player Mode game will end soon.",
+        "pt": "O modo expert para 8 jogadores será encerrado em breve.",
+        "es": "El modo experto de 8 jugadores terminará pronto."
+    },
+    "2A20": {
+        "en": "The Expert 16-player Mode game will end soon.",
+        "pt": "O modo expert para 16 jogadores será encerrado em breve.",
+        "es": "El modo experto de 16 jugadores terminará pronto."
+    },
+    "2Q20": {
+        "en": "Congratulations! {0} is the winner of most Turbo Track games!",
+        "pt": "Parabéns! {0} é o vencedor da maioria dos jogos do Turbo Track!",
+        "es": "¡Felicidades! ¡{0} ganó la mayoría de los juegos en la Pista turbo!"
+    },
+    "2g20": {
+        "en": "Congratulations! {0}is the winner of most Turbo Track games!",
+        "pt": "Parabéns! {0} é o vencedor da maioria dos jogos do Turbo Track!",
+        "es": "¡Felicidades! ¡{0} ganó la mayoría de los juegos en la Pista turbo!"
+    },
+    "2w20": {
+        "en": "Congratulations! {0}has won the Normal 4-player Mode game!",
+        "pt": "Parabéns! {0} venceu a partida do modo Normal para 4 jogadores!",
+        "es": "¡Felicidades! ¡{0} ganó el modo normal de 4 jugadores!"
+    },
+    "3A20": {
+        "en": "Congratulations! {0}has won the Normal 8-player Mode game!",
+        "pt": "Parabéns! {0} venceu a partida do modo Normal para 8 jogadores!",
+        "es": "¡Felicidades! ¡{0} ganó el modo normal de 8 jugadores!"
+    },
+    "3Q20": {
+        "en": "Congratulations! {0}has won the Normal 16-player Mode game!",
+        "pt": "Parabéns! {0} venceu a partida do modo Normal para 16 jogadores!",
+        "es": "¡Felicidades! ¡{0} ganó el modo normal de 16 jugadores!"
+    },
+    "3g20": {
+        "en": "Congratulations! {0}has won the Expert 4-player Mode game!",
+        "pt": "Parabéns! {0} venceu a partida do Modo Expert para 4 jogadores!",
+        "es": "¡Felicidades! ¡{0} ganó el modo experto de 4 jugadores!"
+    },
+    "3w20": {
+        "en": "Congratulations! {0}has won the Expert 8-player Mode game!",
+        "pt": "Parabéns! {0} venceu a partida do Modo Expert para 8 jogadores!",
+        "es": "¡Felicidades! ¡{0} ganó el modo experto de 8 jugadores!"
+    },
+    "4A20": {
+        "en": "Congratulations! {0}has won the Expert 16-player Mode game!",
+        "pt": "Parabéns! {0} venceu a partida do Modo Expert para 16 jogadores!",
+        "es": "¡Felicidades! ¡{0} ganó el modo experto de 16 jugadores!"
+    },
+    "4Q20": {
+        "en": "[Turbo Track Guide]\nI'm here to help you use\nTurbo Track.\nHow may I help you today?",
+        "pt": "[Guia do Turbo Track]\nEstou aqui para ajudá-lo a usar o\nTurbo Track.\nComo posso ajudá-lo hoje?",
+        "es": "[Guía de Pista turbo]\nEstoy aquí para ayudarte a usar\nla Pista turbo.\n¿En qué puedo ayudarte hoy?"
+    },
+    "4g20": {
+        "en": "Game rules",
+        "pt": "Regras do jogo",
+        "es": "Reglas del juego."
+    },
+    "4w20": {
+        "en": "Course info",
+        "pt": "Informações sobre o percurso",
+        "es": "Información del circuito."
+    },
+    "5A20": {
+        "en": "Available modes",
+        "pt": "Modos disponíveis",
+        "es": "Modos disponibles."
+    },
+    "5Q20": {
+        "en": "Quit",
+        "pt": "Sair",
+        "es": "Salir."
+    },
+    "5g20": {
+        "en": "[Turbo Track Guide]\nThe game rules are simple:\njust get past obstacles\nand reach the goal point as quickly as you can.",
+        "pt": "[Guia do Turbo Track]\nAs regras do jogo são simples:\nbasta passar pelos obstáculos\ne chegar ao ponto de chegada o mais rápido possível.",
+        "es": "[Guía de Pista turbo]\nLas reglas del juego son simples:\ndebes superar los obstáculos\ny llegar a la meta tan rápido como puedas."
+    },
+    "5w20": {
+        "en": "[Turbo Track Guide]\nOf course, various unexpected situations can occur,\ndepending on the people\nyou play with,\nso I can't tell you\nexactly what will happen.",
+        "pt": "[Guia Turbo Track]\nÉ claro que podem ocorrer várias situações inesperadas,\ndependendo das pessoas\ncom quem você joga,\nportanto, não posso lhe dizer\nexatamente o que vai acontecer.",
+        "es": "[Guía de Pista turbo]\nPor supuesto, te puedes encontrar con situaciones inesperadas\ndependiendo de las personas\ncon las que juegas,\nasí que no puedo decirte exactamente\nlo que ocurrirá."
+    },
+    "6A20": {
+        "en": "[Turbo Track Guide]\nKnights, Lord Knights, Crusaders,\nand Paladins that ride Peco Pecos\nmust leave their Peco Pecos\noutside the stadium.\nThey can pick them up\nafter the match.",
+        "pt": "[Guia Turbo Track]\nCavaleiros, Lordes, Templários,\ne Paladinos que andam de PecoPecos\ndevem deixar seus PecoPecos\nfora do estádio.\nEles podem pegá-los\napós a partida.",
+        "es": "[Guía de Pista turbo]\nLos Caballeros, Lord Caballeros, Cruzados\ny Paladines que monten Peco Pecos\ndeben dejar sus Peco Pecos\nafuera del estadio.\nPodrán recogerlos\ndespués de la carrera."
+    },
+    "6Q20": {
+        "en": "[Turbo Track Guide]\nWhoever reaches the goal point first\nwins the game, and\neveryone else in the game\nwill be automatically moved back to the Lobby\nas the game ends.",
+        "pt": "[Guia do Turbo Track]\nQuem atingir o ponto de chegada primeiro\nganha o jogo, e\ntodos os outros participantes\nserão automaticamente movidos de volta para o Lobby\nquando o jogo terminar.",
+        "es": "[Guía de Pista turbo]\nQuien llegue primero a la meta\nganará el juego\ny todos los demás\nserán transportados automáticamente a la sala\ncuando termine la partida."
+    },
+    "6g20": {
+        "en": "[Turbo Track Guide]\nIf no one reaches the goal point\nwithin the time limit,\nthen the game will end without a winner.\nPlease understand that this is necessary\nto ensure smooth game flow.",
+        "pt": "[Guia do Turbo Track]\nSe ninguém atingir o ponto de chegada\ndentro do limite de tempo,\no jogo terminará sem um vencedor.\nEntenda que isso é necessário\npara garantir o bom andamento do jogo.",
+        "es": "[Guía de Pista turbo]\nSi nadie llega a la meta\ndentro del tiempo límite,\nno habrá un ganador.\nEsto es necesario\npara garantizar la fluidez del juego."
+    },
+    "6w20": {
+        "en": "[Turbo Track Guide]\nThere's no job\nor Level limit.\nBut there's\nan admission fee\nof 1,000 Zeny.",
+        "pt": "[Guia Turbo Track]\nNão há classe\nou limite de nível.\nMas há\numa taxa de admissão\nde 1.000 Zeny.",
+        "es": "[Guía de Pista turbo]\nNo hay límite\nde clase ni de nivel,\npero hay\nuna tarifa de admisión\nde 1000 zeny."
+    },
+    "7A20": {
+        "en": "[Turbo Track Guide]\nThis concludes\nmy game rules explanation.\nIs there anything else you'd like to know?",
+        "pt": "[Guia Turbo Track]\nIsso conclui\nminha explicação das regras do jogo.\nHá mais alguma coisa que você gostaria de saber?",
+        "es": "[Guía de Pista turbo]\nEsto concluye mi explicación\nsobre las reglas del juego.\n¿Hay algo más que quieras saber?"
+    },
+    "7Q20": {
+        "en": "[Turbo Track Guide]\nLet me tell you about the courses.\nFirst, let's check\nthe overall structure of the Turbo Track.",
+        "pt": "[Guia Turbo Track]\nVou lhe falar sobre os percursos.\nPrimeiro, vamos verificar\na estrutura geral do Turbo Track.",
+        "es": "[Guía de Pista turbo]\nTe explicaré los circuitos.\nPrimero, revisemos\nla estructura general de la Pista turbo."
+    },
+    "7g20": {
+        "en": "[Turbo Track Guide]\nTurbo Tracks\nconsist of ^4D4DFFsingle log bridges, mounds of boxes,\nCursed and Confusing deserts, flasher mazes,\nsingle-path snails, snake dice paths,\nsmall caves, invisible mazes,\njust to name a few.",
+        "pt": "[Guia Turbo Track]\nTurbo Tracks\nconsistem em ^4D4DFFpontes de madeira, caixas empilhadas,\ndesertos amaldiçoados e confusos, labirintos intermitentes,\nlabirintos caracóis, labirintos da serpente,\npequenas cavernas, labirintos invisíveis,\nsó para citar alguns.",
+        "es": "[Guía de Pista turbo]\nLos circuitos de la Pista turbo\nconsisten en ^4D4DFFpuentes de un solo leño, montones de cajas,\ndesiertos malditos, laberintos deslumbradores,\ncaminos únicos con forma de caracol, otro con forma de serpiente,\ncuevas pequeñas, laberintos invisibles,\ny eso es solo por nombrar algunos."
+    },
+    "7w20": {
+        "en": "[Turbo Track Guide]\nThe overall structure may vary,\ndepending on the mode, but basically,\neach course\nconsists of 6 tracks,\nexcluding the start and goal points.\nWould you like a more detailed explanation?",
+        "pt": "[Guia Turbo Track]\nA estrutura geral pode variar,\ndependendo do modo, mas basicamente,\ncada percurso\nconsiste em 6 pistas,\nexcluindo o início e a reta final.\nDeseja uma explicação mais detalhada?",
+        "es": "[Guía de Pista turbo]\nLa estructura general puede variar\ndependiendo del modo, pero, básicamente,\ncada circuito\nconsta de 6 pistas,\nsin contar la línea de salida y la meta.\n¿Quieres una explicación más detallada?"
+    },
+    "8A20": {
+        "en": "Single-log Bridge and Box Hill",
+        "pt": "Ponte de madeira e caixa empilhada",
+        "es": "Puente de leños y Colinas cúbicas."
+    },
+    "8Q20": {
+        "en": "Cursed and Confusing Desert and Flasher Maze",
+        "pt": "Deserto Amaldiçoado e confuso e labirinto intermitente",
+        "es": "Desierto maldito y Laberinto deslumbrador."
+    },
+    "8g20": {
+        "en": "Single-path Snail and Invisible Maze",
+        "pt": "Labirinto caracol e invisível",
+        "es": "Caracol único y Laberinto invisible."
+    },
+    "8w20": {
+        "en": "Snake Dice Path and Small Cave",
+        "pt": "Labirinto da serpente e pequena caverna",
+        "es": "Dados serpenteantes y Cueva pequeña."
+    },
+    "9A20": {
+        "en": "No, thanks.",
+        "pt": "Não, obrigado.",
+        "es": "No, gracias."
+    },
+    "9Q20": {
+        "en": "[Turbo Track Guide]\nThe Single-log Bridge is the very first track\nthat you see when you start, and it's literally\na bridge made of a single log. If you fall from the log,\nyou'll have to start over again.\nYou have to be fast, but careful\nwhen you cross it.",
+        "pt": "[Guia Turbo Track]\nA ponte de madeira é a primeira pista que você\nvê quando começa, e é literalmente\numa ponte feita de um único tronco. Se cair,\nvocê terá de começar tudo de novo.\nVocê precisa ser rápido, mas cuidadoso,\nao atravessá-la.",
+        "es": "[Guía de Pista turbo]\nPuente de leños es el primer circuito\nque ves al empezar y es, literalmente,\nun puente hecho de un solo leño. Si te caes del leño,\ntendrás que empezar de nuevo.\nDebes ser veloz y también tener cuidado\ncuando lo cruces."
+    },
+    "9g20": {
+        "en": "[Turbo Track Guide]\nThe Box Hill is literally\na mound of boxes.\nYou'll have to move through the boxes\nto reach the next track.\nIt shouldn't be too difficult, though.",
+        "pt": "[Guia Turbo Track]\nAs caixas empilhadas são literalmente\num monte de caixas.\nVocê terá de passar pelas caixas\npara chegar à próxima pista.\nMas isso não deve ser muito difícil.",
+        "es": "[Guía de Pista turbo]\nColinas cúbicas es, literalmente,\nun montón de cajas.\nTendrás que esquivar las cajas\npara llegar al siguiente circuito.\nAunque no debería ser muy difícil."
+    },
+    "9w20": {
+        "en": "[Turbo Track Guide]\nThe Cursed and Confusing Desert\nis a short desert track.\nIt doesn't take long to pass,\nbut it's unpredictable\nsince it's filled with\nCursed and Confusing effects.",
+        "pt": "[Guia Turbo Track]\nO deserto amaldiçoado e confuso\né uma pista curta no deserto.\nNão demora muito para passar,\nmas é imprevisível,\npois está repleta de efeitos\nefeitos de Maldição e Caos.",
+        "es": "[Guía de Pista turbo]\nDesierto maldito\nes un circuito corto en el desierto.\nNo te demorarás mucho en superarlo,\npero es impredecible,\nya que está lleno\nde maldiciones y efectos negativos."
+    },
+    "+A20": {
+        "en": "[Turbo Track Guide]\nThe Flasher Maze is a maze\nriddled with traps.\nNo one knows what kinds of traps lie in wait\nin that muddy swamp.",
+        "pt": "[Guia da Trilha Turbo]\nO labirinto intermitente é um labirinto\nrepleto de armadilhas.\nNinguém sabe que tipos de armadilhas estão à espreita\nnesse pântano lamacento.",
+        "es": "[Guía de Pista turbo]\nLaberinto deslumbrador\nestá plagado de trampas.\nNadie sabe qué tipo de trampas acechan\nen ese pantano fangoso."
+    },
+    "+Q20": {
+        "en": "[Turbo Track Guide]\nThe Single-path Snail is a narrow path\nthat coils like\na snail shell.\nSince it's mostly clear of obstacles,\nyou can focus on running.\nYou may feel dizzy if you run too fast, though.",
+        "pt": "[Guia Turbo Track]\nO labirinto da serpente é um caminho estreito\nque se enrola como\numa concha de caracol.\nComo a maior parte dele está livre de obstáculos,\nvocê pode se concentrar em correr.\nNo entanto, você pode sentir tontura se correr muito rápido.",
+        "es": "[Guía de Pista turbo]\nCaracol único es un camino estrecho\nque se enrolla como el caparazón\nde un caracol.\nY como está casi libre de obstáculos,\nsolo debes enfocarte en la carrera.\nSin embargo, podrías marearte si vas demasiado rápido."
+    },
+    "+g20": {
+        "en": "[Turbo Track Guide]\nThe Invisible Maze\nis a wide, open room.\nAs you run toward the exit,\ninvisible walls will appear to block you.\nFollow the hints you're given during the game\nto go around them.\nThis is literally an invisible maze.",
+        "pt": "[Guia Turbo Track]\nO labirinto invisível\né uma sala ampla e aberta.\nEnquanto você corre em direção à saída,\nparedes invisíveis aparecerão para bloquear você.\nSiga as dicas que você recebe durante o jogo\npara contorná-las.\nEsse é literalmente um labirinto invisível.",
+        "es": "[Guía de Pista turbo]\nLaberinto invisible\nes una sala amplia y abierta.\nMientras te diriges hacia la salida,\naparecerán paredes invisibles que te impedirán el paso.\nSigue las pistas que obtendrás durante el juego\npara superar este desafío.\nEste circuito es, tal como lo dice su nombre, un laberinto invisible."
+    },
+    "+w20": {
+        "en": "[Turbo Track Guide]\nThe Snake Dice Path is a path\nthat as curvy as a slithering snake.\nWhat about the dice?\nThat's because this path\nhides good luck, just like the dice do.\nIf you're curious, you can see it for yourself.",
+        "pt": "[Guia Turbo Track]\nO labirinto da serpente é um caminho\nque é tão curvilíneo quanto uma cobra deslizante.\nE o que tem?\nEsse caminho\nesconde a boa sorte, assim como os dados.\nSe estiver curioso, você pode ver por si mesmo.",
+        "es": "[Guía de Pista turbo]\nDados serpenteantes es un camino\nque tiene tantas curvas como una serpiente.\n¿Y los dados?\nEso es porque, al igual que los dados,\npuedes tener la suerte de tener un buen camino o no.\nSi tienes curiosidad, puedes ponerlo a prueba."
+    },
+    "/A20": {
+        "en": "[Turbo Track Guide]\nThe Small Cave is a replica\nof the cave dungeon somewhere in Payon.\nThere, you'll feel as if you're\nexploring that dungeon.",
+        "pt": "[Guia Turbo Track]\nA pequena caverna é uma réplica\nda masmorra da caverna em algum lugar de Payon.\nLá, você se sentirá como se estivesse\nexplorando essa masmorra.",
+        "es": "[Guía de Pista turbo]\nCueva pequeña es la réplica de una mazmorra\nen la cueva en algún lugar de Payon.\nSentirás como si realmente estuvieras\nexplorando esa mazmorra."
+    },
+    "/Q20": {
+        "en": "[Turbo Track Guide]\nThank you for listening to\nmy course explanations.",
+        "pt": "[Guia de trilha turbo]\nObrigado por ouvir minhas\nas explicações de percurso.",
+        "es": "[Guía de Pista turbo]\nGracias por escuchar mi explicación\nsobre los circuitos."
+    },
+    "/g20": {
+        "en": "[Turbo Track Guide]\nIs there anything else\nyou want to know?",
+        "pt": "[Guia do Turbo Track]\nHá mais alguma coisa que você queira saber?\nque você queira saber?",
+        "es": "[Guía de Pista turbo]\n¿Hay algo más\nque quieras saber?"
+    },
+    "/w20": {
+        "en": "[Turbo Track Guide]\nLet me tell you\nabout the game modes.\nThere are three different modes:\nNormal, Expert,\nand Single Challenge.",
+        "pt": "[Guia Turbo Track]\nDeixe-me contar a você\nsobre os modos de jogo.\nHá três modos diferentes:\nNormal, Expert,\ne desafio Solo.",
+        "es": "[Guía de Pista turbo]\nDéjame contarte\nsobre los modos de juego.\nHay tres modos diferentes:\nnormal, experto\ny desafío en solitario."
+    },
+    "AA60": {
+        "en": "[Turbo Track Guide]\nIn any mode you choose,\nyou can use most of your skills.\nUnlike Normal mode, ^4D4DFFExpert mode\nlets you attack the other players^000000,\nwhich makes it perfect for\nparty and guild matches.",
+        "pt": "[Guia Turbo Track]\nEm qualquer modo que você escolher,\nvocê pode usar a maioria de suas habilidades.\nAo contrário do modo Normal, o modo Expert\npermite que você ataque os outros jogadores^000000,\no que o torna perfeito para\npartidas de grupos e guildas.",
+        "es": "[Guía de Pista turbo]\nNo importa el modo que elijas,\nen cada uno puedes usar la mayoría de tus habilidades.\nA diferencia del modo normal, el ^4D4DFFmodo experto\nte permite atacar a los otros jugadores^000000,\nasí que es ideal\npara partidas de equipos y gremios."
+    },
+    "AQ60": {
+        "en": "[Turbo Track Guide]\nAlso, the ^4D4DFF16-player\ncourse for each mode additionally features\nthe Invisible Maze^000000.\nIt's not in the 4\nor 8-player course.",
+        "pt": "[Guia do Turbo Track]\nAlém disso, o percurso para ^4D4DFF16 jogadores\nde cada modo apresenta adicionalmente\no Labirinto Invisível^000000.\nEle não está no percurso para 4\nou 8 jogadores.",
+        "es": "[Guía de Pista turbo]\nAdemás, el circuito de ^4D4DFF16 jugadores\npara cada modo también incluye\nel Laberinto invisible^000000.\nNo está disponible en los circuitos de 4\nni de 8 jugadores."
+    },
+    "Ag60": {
+        "en": "[Turbo Track Guide]\nSingle Challenge mode\nencompasses all the available tracks,\nand the name of the fastest player\nwill be recorded.\nHow would you like to take up the challenge?",
+        "pt": "[Guia do Turbo Track]\nModo Desafio Solo\nabrange todas as pistas disponíveis,\ne o nome do jogador mais rápido\nserá registrado.\nO que você acha de aceitar o desafio?",
+        "es": "[Guía de Pista turbo]\nEl modo de desafío en solitario\nabarca todas las pistas disponibles\ny el nombre del jugador más rápido\nquedará registrado.\n¿Te gustaría aceptar el desafío?"
+    },
+    "Aw60": {
+        "en": "[Turbo Track Guide]\nWas that enough explanation?\nEnjoy your time at the Turbo Track.\nThank you.",
+        "pt": "[Guia do Turbo Track]\nEssa explicação foi suficiente?\nAproveite seu tempo no Turbo Track.\nObrigado a você.",
+        "es": "[Guía de Pista turbo]\n¿Te bastó con esta explicación?\n¡Que disfrutes de tu estancia en la Pista turbo!\nGracias."
+    },
+    "BA60": {
+        "en": "Hall of Fame",
+        "pt": "Hall da Fama",
+        "es": "Salón de la Fama"
+    },
+    "BQ60": {
+        "en": "<<Al De Baran Turbo Track Hall of Fame>>",
+        "pt": "<<Hall da Fama do Turbo Track de Al De Baran>>",
+        "es": "<<Al De Baran Turbo Track Hall of Fame>>"
+    },
+    "Bg60": {
+        "en": "First Player\n^4D4DFF{0}^000000",
+        "pt": "Primeiro jogador\n^4D4DFF{0}^000000",
+        "es": "Primer jugador\n^4D4DFF{0}^000000"
+    },
+    "Bw60": {
+        "en": "Last Player\n^4D4DFF{0}^000000",
+        "pt": "Último jogador\n^4D4DFF{0}^000000",
+        "es": "Último jugador\n^4D4DFF{0}^000000"
+    },
+    "CA60": {
+        "en": "Single Challenge Mode",
+        "pt": "Modo de desafio solo",
+        "es": "Modo Desafío individual"
+    },
+    "CQ60": {
+        "en": "<< Single Challenge Mode >>",
+        "pt": "<< Modo Desafio Solo >>",
+        "es": "<< Single Challenge Mode >>"
+    },
+    "Cg60": {
+        "en": "The greatest player of all!",
+        "pt": "O melhor jogador de todos!",
+        "es": "¡El mejor jugador de todos!"
+    },
+    "Cw60": {
+        "en": "^4D4DFF{0}^000000!",
+        "pt": "^4D4DFF{0}^000000!",
+        "es": "¡^4D4DFF{0}^000000!"
+    },
+    "DA60": {
+        "en": "You can be the one, too!",
+        "pt": "Você também pode ser a pessoa certa!",
+        "es": "¡Tú también podrías serlo!"
+    },
+    "DQ60": {
+        "en": "Normal Mode Game Status",
+        "pt": "Status de Jogo do Modo Normal",
+        "es": "Modo Normal Estado del juego"
+    },
+    "Dg60": {
+        "en": "<<Latest Normal Mode Winners>>\nNormal 4-player Winner\n^4D4DFF{0}^000000\nNormal 8-player Winner\n^4D4DFF{1}^000000\nNormal 16-player Winner\n^4D4DFF{2}^000000",
+        "pt": "<<Vencedores mais recentes do modo Normal>>\nVencedor do modo normal para 4 jogadores\n^4D4DFF{0}^000000\nVencedor do modo normal para 8 jogadores\n^4D4DFF{1}^000000\nVencedor do modo normal para 16 jogadores\n^4D4DFF{2}^000000",
+        "es": "<<Latest Normal Mode Winners>>\nPrimer lugar en modo normal de 4 jugadores\n^4D4DFF{0}^000000\nPrimer lugar en modo normal de 8 jugadores\n^4D4DFF{1}^000000\nPrimer lugar en modo normal de 16 jugadores\n^4D4DFF{2}^000000"
+    },
+    "Dw60": {
+        "en": "Expert Mode Game Status",
+        "pt": "Status de Jogo do Modo Expert",
+        "es": "Estado del juego en modo experto"
+    },
+    "EA60": {
+        "en": "<<Latest Expert Mode Winners>>\nExpert 4-player Winner\n^4D4DFF{0}^000000\nExpert 8-player Winner\n^4D4DFF{1}^000000\nExpert 16-player Winner\n^4D4DFF{2}^000000",
+        "pt": "<<Vencedores mais recentes do modo Expert>>\nVencedor do modo Expert para 4 jogadores\n^4D4DFF{0}^000000\nVencedor do modo Expert para 8 jogadores\n^4D4DFF{1}^000000\nVencedor do Expert para 16 jogadores\n^4D4DFF{2}^000000",
+        "es": "<<Latest Expert Mode Winners>>\nPrimer lugar en modo experto de 4 jugadores\n^4D4DFF{0}^000000\nPrimer lugar en modo experto de 8 jugadores\n^4D4DFF{1}^000000\nPrimer lugar en modo experto de 16 jugadores\n^4D4DFF{2}^000000"
+    },
+    "EQ60": {
+        "en": "Most Game Winner",
+        "pt": "Maior vencedor de jogos",
+        "es": "Mayor número de partidos ganados"
+    },
+    "Eg60": {
+        "en": "<<Turbo Track Most Game Winners>>",
+        "pt": "<<Maior vencedor de jogos do Turbo Track>>",
+        "es": "<<Turbo Track Most Game Winners>>"
+    },
+    "Ew60": {
+        "en": "1:^4D4DFF{0}^000000\n2:^4D4DFF{1}^000000\n3:^4D4DFF{2}^000000\n4:^4D4DFF{3}^000000\n5:^4D4DFF{4}^000000",
+        "pt": "1:^4D4DFF{0}^000000\n2:^4D4DFF{1}^000000\n3:^4D4DFF{2}^000000\n4:^4D4DFF{3}^000000\n5:^4D4DFF{4}^000000",
+        "es": "1:^4D4DFF{0}^000000\n2:^4D4DFF{1}^000000\n3:^4D4DFF{2}^000000\n4:^4D4DFF{3}^000000\n5:^4D4DFF{4}^000000"
+    },
+    "FA60": {
+        "en": "Point Prize Guide",
+        "pt": "Guia de prêmios por pontos",
+        "es": "Point Prize Guía"
+    },
+    "FQ60": {
+        "en": "- Wait!! -\n- You're carrying too many items -\n- to continue with the conversation. -\n- Please lighten your load, -\n- and then try again. -",
+        "pt": "- Espere! -\n- Você está carregando itens demais -\n- para continuar com a conversa. -\n- Por favor, alivie sua carga, -\n- e depois tente novamente. -",
+        "es": "-¡Espera!\nLlevas demasiados objetos\npara continuar con esta conversación.\nAligera tu carga\ny luego vuelve a intentarlo.-"
+    },
+    "Fg60": {
+        "en": "[Prize Exchanger]\nHello.\n{0}, your available Turbo Track Points are\n{1}.\nYou can exchange them for prizes in increments of 10.\nWould you like to check the prize list?",
+        "pt": "[Trocador de prêmios]\nOlá.\n{0}, seus pontos disponíveis no Turbo Track são\n{1}.\nVocê pode trocá-los por prêmios em incrementos de 10.\nGostaria de verificar a lista de prêmios?",
+        "es": "[Permutador de premios]\nHola.\n{0}, actualmente tienes disponible\n{1} puntos de Pista turbo.\nPuedes canjearlos por premios en múltiplos de 10.\n¿Quiere consultar la lista de premios?"
+    },
+    "Fw60": {
+        "en": "Check list.",
+        "pt": "Lista de verificação.",
+        "es": "Revisar la lista."
+    },
+    "GA60": {
+        "en": "[Prize Exchanger]\nThe available prizes\nand the points that they require are as follows.",
+        "pt": "[Trocador de prêmios]\nOs prêmios disponíveis\ne os pontos que eles exigem são os seguintes.",
+        "es": "[Permutador de premios]\nA continuación tienes los premios disponibles\ny los puntos que necesitas para canjearlos."
+    },
+    "GQ60": {
+        "en": "[Prize Exchanger]\n10 pts: Free Ticket for Kafra Transportation\n12 pts: Lv. 5 Magic Scroll\n40 pts: EXP\n150 pts: 3-Carat Diamond\n300 pts: Gift Box\n400 pts: Speed Potion",
+        "pt": "[Trocador de prêmios]\n10 pts: Bilhete grátis para o Transporte Kafra\n12 pts: Pergaminho Mágico Nv. 5\n40 pts: EXP\n150 pts: Diamante de 3 quilates\n300 pts: Caixa de presente\n400 pts: Poção de Velocidade",
+        "es": "[Permutador de premios]\n10 puntos: Boleto gratis para transporte de Kafra.\n12 puntos: Pergamino mágico de nivel 5\n40 puntos: EXP\n150 puntos: Diamante de 3 quilates\n300 puntos: Caja de regalo\n400 puntos: Poción de velocidad"
+    },
+    "Gg60": {
+        "en": "[Prize Exchanger]\nThat's all.\nTurbo Track Points can also be converted into Arena Points.\nFor Arena Point conversion, please talk to the Point Helper.",
+        "pt": "[Trocador de prêmios]\nIsso é tudo.\nOs Turbo Track Points também podem ser convertidos em Arena Points.\nPara a conversão de Arena Points, fale com o Point Helper.",
+        "es": "[Permutador de premios]\nEso es todo.\nTambién puedes convertir los puntos de Pista turbo en puntos de Arena.\nPara convertir a puntos de Arena, habla con el ayudante de puntos."
+    },
+    "Gw60": {
+        "en": "[Prize Exchanger]\nAlright.\nEnjoy using the Turbo Track\nand get points,\nso you can win some nice prizes!",
+        "pt": "[Trocador de prêmios]\nMuito bem.\nDivirta-se usando o Turbo Track\ne ganhe pontos,\npara ganhar alguns prêmios legais!",
+        "es": "[Permutador de premios]\nDe acuerdo.\n¡Sigue disfrutando de la Pista turbo\ny consigue puntos\npara ganar increíbles premios!"
+    },
+    "HA60": {
+        "en": "[Prize Exchanger]\nHello.\n{0}, your available Turbo Track Points are\n{1}.\nWould you like to exchange them for prizes?",
+        "pt": "[Trocador de prêmios]\nOlá.\n{0}, seus pontos disponíveis no Turbo Track são\n{1}.\nGostaria de trocá-los por prêmios?",
+        "es": "[Permutador de premios]\nHola.\n{0}, actualmente tienes disponible\n{1} puntos de Pista turbo.\n¿Quieres canjearlos por premios?"
+    },
+    "HQ60": {
+        "en": "Exchange.",
+        "pt": "Trocar.",
+        "es": "Canjear."
+    },
+    "Hg60": {
+        "en": "[Prize Exchanger]\nPlease select a prize\nwithin your Turbo Track Point,\n{0}.",
+        "pt": "[Trocador de prêmios]\nSelecione um prêmio\nem seu Turbo Track Point,\n{0}.",
+        "es": "[Permutador de premios]\nSelecciona un premio dentro del rango\nde tus puntos de Pista turbo,\n{0}."
+    },
+    "Hw60": {
+        "en": "Free Ticket for Kafra Transportation",
+        "pt": "Bilhete gratuito para o transporte Kafra",
+        "es": "Boleto gratis para transporte de Kafra."
+    },
+    "IA60": {
+        "en": "Lv. 5 Magic Scroll",
+        "pt": "Pergaminho mágico Nv. 5",
+        "es": "Pergamino mágico de nivel 5"
+    },
+    "IQ60": {
+        "en": "EXP",
+        "pt": "EXP",
+        "es": "EXP"
+    },
+    "Ig60": {
+        "en": "3-Carat Diamond",
+        "pt": "Diamante de 3 quilates",
+        "es": "Diamante de 3 quilates"
+    },
+    "Iw60": {
+        "en": "Gift Box",
+        "pt": "Caixa de presente",
+        "es": "Caja de regalo"
+    },
+    "JA60": {
+        "en": "Speed Potion",
+        "pt": "Poção de velocidade",
+        "es": "Poción de velocidad"
+    },
+    "JQ60": {
+        "en": "[Prize Exchanger]\nWould you like to exchange your Turbo Track Points for Free Tickets for Kafra Transportation?\nYou can get ^3131FF1 ticket for 10 points^000000.\nHow many would you like? Type 0 to cancel.",
+        "pt": "[Troca de prêmios]\nGostaria de trocar seus pontos do Turbo Track por bilhetes gratuitos para o Transporte Kafra?\nVocê pode obter ^3131FF1 bilhete por 10 pontos^000000.\nQuantos você gostaria? Digite 0 para cancelar.",
+        "es": "[Permutador de premios]\n¿Quieres canjear tus puntos de Pista turbo por boletos gratis para los transportes de Kafra?\nPuedes obtener ^3131FF1 Boleto por 10 puntos^000000.\n¿Cuántos quieres? Ingresa 0 para cancelar."
+    },
+    "Jg60": {
+        "en": "[Prize Exchanger]\nCanceled.",
+        "pt": "[Trocador de prêmios]\nCancelado.",
+        "es": "[Permutador de premios]\nCancelado."
+    },
+    "Jw60": {
+        "en": "[Prize Exchanger]\nThat number is out of range.\nYou can only get 50 prizes at a time.",
+        "pt": "[Trocador de prêmios]\nEsse número está fora do alcance.\nSó é possível obter 50 prêmios de cada vez.",
+        "es": "[Permutador de premios]\nEsa cifra está fuera de rango.\nSolo puedes obtener 50 premios a la vez."
+    },
+    "KA60": {
+        "en": "[Prize Exchanger]\nNot enough Turbo Track Points.\nPlease check your points, and then try again.",
+        "pt": "[Trocador de prêmios]\nNão há pontos suficientes no Turbo Track.\nVerifique seus pontos e tente novamente.",
+        "es": "[Permutador de premios]\nNo tienes suficientes puntos de Pista turbo.\nRevisa tus puntos y vuelve a intentarlo más tarde."
+    },
+    "KQ60": {
+        "en": "[Prize Exchanger]\nThank you for your patronage.",
+        "pt": "[Trocador de prêmios]\nObrigado por seu patrocínio.",
+        "es": "[Permutador de premios]\nGracias por tu apoyo."
+    },
+    "Kg60": {
+        "en": "[Prize Exchanger]\nWould you like to get magic scrolls?\n1 magic scroll requires ^4D4DFF12 points^000000.\nWhich scroll would you like? All magic scrolls contain a Level 5 spell.",
+        "pt": "[Trocador de prêmios]\nVocê gostaria de obter pergaminhos mágicos?\n1 pergaminho mágico requer ^4D4DFF12 pontos^000000.\nQual pergaminho você gostaria de receber? Todos os pergaminhos mágicos contêm um feitiço de nível 5.",
+        "es": "[Permutador de premios]\n¿Quieres canjear por Pergaminos mágicos?\nNecesitas ^4D4DFF12 puntos^000000 para obtener 1 Pergamino mágico.\n¿Qué pergamino te gustaría canjear? Todos los pergaminos mágicos tienen un hechizo de nivel 5."
+    },
+    "Kw60": {
+        "en": "Earth Spike",
+        "pt": "Coluna de Pedra",
+        "es": "Sismo"
+    },
+    "LA60": {
+        "en": "Cold Bolt",
+        "pt": "Lanças de Gelo",
+        "es": "Flecha de hielo"
+    },
+    "LQ60": {
+        "en": "Fire Bolt",
+        "pt": "Lanças de Fogo",
+        "es": "Flecha de llama"
+    },
+    "Lg60": {
+        "en": "Lightning Bolt",
+        "pt": "Relâmpago",
+        "es": "Relámpago"
+    },
+    "Lw60": {
+        "en": "Soul Strike",
+        "pt": "Espíritos Anciões",
+        "es": "Invocación de alma"
+    },
+    "MA60": {
+        "en": "Fireball",
+        "pt": "Bolas de Fogo",
+        "es": "Bola de fuego"
+    },
+    "MQ60": {
+        "en": "Fire Wall",
+        "pt": "Barreira de Fogo",
+        "es": "Barrera de llama"
+    },
+    "Mg60": {
+        "en": "Frost Diver",
+        "pt": "Rajada Congelante",
+        "es": "Buzo de escarcha"
+    },
+    "Mw60": {
+        "en": "Heal",
+        "pt": "Cura",
+        "es": "Curación"
+    },
+    "NA60": {
+        "en": "[Prize Exchanger]\nYou've selected ^4D4DFFEarth Spike^000000.\nYou can get ^3131FF1 scroll for 12 points^000000.\nHow many would you like? Type 0 to cancel.",
+        "pt": "[Trocador de prêmios]\nVocê selecionou ^4D4DFFEarth Spike^000000.\nVocê pode obter ^3131FF1 pergaminho por 12 pontos^000000.\nQuantos você deseja? Digite 0 para cancelar.",
+        "es": "[Permutador de premios]\nSeleccionaste ^4D4DFFSismo^000000.\nPuedes obtener ^3131FF1 Pergamino por 12 puntos^000000.\n¿Cuántos quieres? Ingresa 0 para cancelar."
+    },
+    "NQ60": {
+        "en": "[Prize Exchanger]\nYou've selected ^4D4DFFCold Bolt^000000.\nYou can get ^3131FF1 scroll for 12 points^000000.\nHow many would you like? Type 0 to cancel.",
+        "pt": "[Trocador de prêmios]\nVocê selecionou ^4D4DFFCold Bolt^000000.\nVocê pode obter ^3131FF1 pergaminho por 12 pontos^000000.\nQuantos você deseja? Digite 0 para cancelar.",
+        "es": "[Permutador de premios]\nSeleccionaste ^4D4DFFFlecha de hielo^000000.\nPuedes obtener ^3131FF1 Pergamino por 12 puntos^000000.\n¿Cuántos quieres? Ingresa 0 para cancelar."
+    },
+    "Ng60": {
+        "en": "[Prize Exchanger]\nYou've selected ^4D4DFFFire Bolt^000000.\nYou can get ^3131FF1 scroll for 12 points^000000.\nHow many would you like? Type 0 to cancel.",
+        "pt": "[Trocador de prêmios]\nVocê selecionou ^4D4DFFFire Bolt^000000.\nVocê pode obter ^3131FF1 pergaminho por 12 pontos^000000.\nQuantos você deseja? Digite 0 para cancelar.",
+        "es": "[Permutador de premios]\nSeleccionaste ^4D4DFFFlecha de llama^000000.\nPuedes obtener ^3131FF1 Pergamino por 12 puntos^000000.\n¿Cuántos quieres? Ingresa 0 para cancelar."
+    },
+    "Nw60": {
+        "en": "[Prize Exchanger]\nYou've selected ^4D4DFFLightning Bolt^000000.\nYou can get ^3131FF1 scroll for 12 points^000000.\nHow many would you like? Type 0 to cancel.",
+        "pt": "[Trocador de prêmios]\nVocê selecionou ^4D4DFFLightning Bolt^000000.\nVocê pode obter ^3131FF1 pergaminho por 12 pontos^000000.\nQuantos você deseja? Digite 0 para cancelar.",
+        "es": "[Permutador de premios]\nSeleccionaste ^4D4DFFRelámpago^000000.\nPuedes obtener ^3131FF1 Pergamino por 12 puntos^000000.\n¿Cuántos quieres? Ingresa 0 para cancelar."
+    },
+    "OA60": {
+        "en": "[Prize Exchanger]\nYou've selected ^4D4DFFSoul Strike^000000.\nYou can get ^3131FF1 scroll for 12 points^000000.\nHow many would you like? Type 0 to cancel.",
+        "pt": "[Trocador de prêmios]\nVocê selecionou ^4D4DFFSoul Strike^000000.\nVocê pode obter ^3131FF1 pergaminho por 12 pontos^000000.\nQuantos você deseja? Digite 0 para cancelar.",
+        "es": "[Permutador de premios]\nSeleccionaste ^4D4DFFInvocación de alma^000000.\nPuedes obtener ^3131FF1 Pergamino por 12 puntos^000000.\n¿Cuántos quieres? Ingresa 0 para cancelar."
+    },
+    "OQ60": {
+        "en": "[Prize Exchanger]\nYou've selected ^4D4DFFFireball^000000.\nYou can get ^3131FF1 scroll for 12 points^000000.\nHow many would you like? Type 0 to cancel.",
+        "pt": "[Trocador de prêmios]\nVocê selecionou ^4D4DFFFireball^000000.\nVocê pode obter ^3131FF1 pergaminho por 12 pontos^000000.\nQuantos você deseja? Digite 0 para cancelar.",
+        "es": "[Permutador de premios]\nSeleccionaste ^4D4DFFBola de fuego^000000.\nPuedes obtener ^3131FF1 Pergamino por 12 puntos^000000.\n¿Cuántos quieres? Ingresa 0 para cancelar."
+    },
+    "Og60": {
+        "en": "[Prize Exchanger]\nYou've selected ^4D4DFFFire Wall^000000.\nYou can get ^3131FF1 scroll for 12 points^000000.\nHow many would you like? Type 0 to cancel.",
+        "pt": "[Trocador de prêmios]\nVocê selecionou ^4D4DFFFire Wall^000000.\nVocê pode obter ^3131FF1 pergaminho por 12 pontos^000000.\nQuantos você deseja? Digite 0 para cancelar.",
+        "es": "[Permutador de premios]\nSeleccionaste ^4D4DFFBarrera de llama^000000.\nPuedes obtener ^3131FF1 Pergamino por 12 puntos^000000.\n¿Cuántos quieres? Ingresa 0 para cancelar."
+    },
+    "Ow60": {
+        "en": "[Prize Exchanger]\nYou've selected ^4D4DFFFrost Diver^000000.\nYou can get ^3131FF1 scroll for 12 points^000000.\nHow many would you like? Type 0 to cancel.",
+        "pt": "[Trocador de prêmios]\nVocê selecionou ^4D4DFFFrost Diver^000000.\nVocê pode obter ^3131FF1 pergaminho por 12 pontos^000000.\nQuantos você deseja? Digite 0 para cancelar.",
+        "es": "[Permutador de premios]\nSeleccionaste ^4D4DFFBuzo de escarcha^000000.\nPuedes obtener ^3131FF1 Pergamino por 12 puntos^000000.\n¿Cuántos quieres? Ingresa 0 para cancelar."
+    },
+    "PA60": {
+        "en": "[Prize Exchanger]\nYou've selected ^4D4DFFHeal^000000.\nYou can get ^3131FF1 scroll for 12 points^000000.\nHow many would you like? Type 0 to cancel.",
+        "pt": "[Trocador de prêmios]\nVocê selecionou ^4D4DFFCura^000000.\nVocê pode obter ^3131FF1 pergaminho por 12 pontos^000000.\nQuantos você deseja? Digite 0 para cancelar.",
+        "es": "[Permutador de premios]\nSeleccionaste ^4D4DFFCuración^000000.\nPuedes obtener ^3131FF1 Pergamino por 12 puntos^000000.\n¿Cuántos quieres? Ingresa 0 para cancelar."
+    },
+    "PQ60": {
+        "en": "[Prize Exchanger]\nWould you like to exchange your Turbo Track Points for EXP?\n40 points are required.",
+        "pt": "[Troca de prêmios]\nGostaria de trocar seus Turbo Track Points por EXP?\nSão necessários 40 pontos.",
+        "es": "[Permutador de premios]\n¿Quieres canjear tus puntos de Pista turbo por EXP?\nNecesitarás 40 puntos."
+    },
+    "Pg60": {
+        "en": "No",
+        "pt": "Não",
+        "es": "No."
+    },
+    "Pw60": {
+        "en": "Yes",
+        "pt": "Sim",
+        "es": "Sí."
+    },
+    "QA60": {
+        "en": "[Prize Exchanger]\nSuccessfully exchanged Turbo Track Points.",
+        "pt": "[Trocador de prêmios]\nTrocou com sucesso os pontos do Turbo Track.",
+        "es": "[Permutador de premios]\nCanjeaste con éxito los puntos de Pista turbo."
+    },
+    "QQ60": {
+        "en": "[Prize Exchanger]\nWould you like to exchange your Turbo Track Points for 3-Carat Diamonds?\nYou can get ^3131FF1 diamond for 150 points^000000.\nHow many would you like? Type 0 to cancel.",
+        "pt": "[Trocador de prêmios]\nGostaria de trocar seus pontos do Turbo Track por diamantes de 3 quilates?\nVocê pode obter ^3131FF1 diamante por 150 pontos^000000.\nQuantos você gostaria? Digite 0 para cancelar.",
+        "es": "[Permutador de premios]\n¿Quieres canjear tus puntos de Pista turbo por Diamantes de 3 quilates?\nPuedes obtener ^3131FF1 Diamante por 150 puntos^000000.\n¿Cuántos quieres? Ingresa 0 para cancelar."
+    },
+    "Qg60": {
+        "en": "[Prize Exchanger]\nThat number is out of range.\nYou can only get 10 prizes at a time.",
+        "pt": "[Trocador de prêmios]\nEsse número está fora do alcance.\nSó é possível obter 10 prêmios de cada vez.",
+        "es": "[Permutador de premios]\nEsa cifra está fuera de rango.\nSolo puedes obtener 10 premios a la vez."
+    },
+    "Qw60": {
+        "en": "[Prize Exchanger]\nWould you like to exchange your Turbo Track Points for Gift Boxes?\nYou can get ^3131FF1 box for 300 points^000000.\nHow many would you like? Type 0 to cancel.",
+        "pt": "[Troca de prêmios]\nGostaria de trocar seus pontos do Turbo Track por caixas de presente?\nVocê pode obter ^3131FF1 caixa por 300 pontos^000000.\nQuantas caixas você gostaria de receber? Digite 0 para cancelar.",
+        "es": "[Permutador de premios]\n¿Quieres canjear tus puntos de Pista turbo por Cajas de regalo?\nPuedes obtener ^3131FF1 Caja por 300 puntos^000000.\n¿Cuántos quieres? Ingresa 0 para cancelar."
+    },
+    "RA60": {
+        "en": "[Prize Exchanger]\nWould you like to exchange your Turbo Track Points for Speed Potions?\nYou can get ^3131FF1 potion for 400 points^000000.\nHow many would you like? Type 0 to cancel.",
+        "pt": "[Trocador de prêmios]\nGostaria de trocar seus Turbo Track Points por Poções de Velocidade?\nVocê pode obter ^3131FF1 poção por 400 pontos^000000.\nQuantas você gostaria? Digite 0 para cancelar.",
+        "es": "[Permutador de premios]\n¿Quieres canjear tus puntos de Pista turbo por Pociones de velocidad?\nPuedes obtener ^3131FF1 Poción por 400 puntos^000000.\n¿Cuántos quieres? Ingresa 0 para cancelar."
+    },
+    "RQ60": {
+        "en": "[Prize Exchanger]\nYou can exchange\nyour points whenever you want.\nPlease come again.\nThe prizes we offer you\nare sponsored by",
+        "pt": "[Trocador de prêmios]\nVocê pode trocar\nseus pontos sempre que quiser.\nPor favor, volte sempre.\nOs prêmios que oferecemos a você\nsão patrocinados por",
+        "es": "[Permutador de premios]\nPuedes canjear\ntus puntos cuando quieras.\nVuelve pronto.\nLos premios que ofrecemos\nestán patrocinados"
+    },
+    "Rg60": {
+        "en": "[Prize Exchanger]\nAl De Baran Kafra Headquarters,\n    the Blacksmith Guild,\n     and the Comodo Casino.\nThe stadium, provided by Al De Baran Luina.\nThank you.",
+        "pt": "[Trocador de prêmios]\nSede de Al De Baran Kafra,\na Guilda dos Ferreiros,\ne o Cassino Comodo.\nO estádio, fornecido por Luina de Al De Baran.\nObrigado.",
+        "es": "[Permutador de premios]\npor la sede de la Corporación Kafra en Aldebaran,\n    el gremio de Herreros,\n     y el casino de Comodo.\nEl estadio lo proporcionó Luina de Aldebaran.\nGracias."
+    },
+    "Rw60": {
+        "en": "[Prize Guide]\nYou can convert your Turbo Track Points\ninto Arena Points\nand vice versa,\ndepending on\nwhat you want.",
+        "pt": "[Guia de prêmios]\nVocê pode converter seus Turbo Track Points\nem pontos de arena\ne vice-versa,\ndependendo do\ndo que você deseja.",
+        "es": "[Guía de premios]\nPuedes convertir tus puntos de Pista turbo\nen puntos de Arena\ny viceversa.\nTodo depende\nde lo que necesites."
+    },
+    "SA60": {
+        "en": "[Prize Guide]\nYou can save up to ^4D4DFF29,000 points^000000.\nAfter that, you can't save anymore\neven if you win.\nWe recommend\nyou check and use\nyour points often.",
+        "pt": "[Guia de prêmios]\nVocê pode economizar até ^4D4DFF29.000 pontos^000000.\nDepois disso, você não poderá mais economizar\nmesmo que você ganhe.\nRecomendamos que\nvocê verifique e use\nseus pontos com frequência.",
+        "es": "[Guía de premios]\nPuedes ahorrar hasta ^4D4DFF29000 puntos^000000.\nDespués de eso, no puedes guardar más\naunque ganes.\nTe recomendamos\nque revises y uses\ntus puntos a menudo."
+    },
+    "SQ60": {
+        "en": "Turbo Track Point Manager",
+        "pt": "Gerenciador de pontos do Turbo Track",
+        "es": "Gestor de puntos Turbo Track"
+    },
+    "Sg60": {
+        "en": "[Turbo Track Point Guide]\nHello.\nAre you enjoying your time at the Turbo Track?\nHow may I help you?",
+        "pt": "[Guia de pontos do Turbo Track]\nOlá.\nEstá gostando do seu tempo no Turbo Track?\nEm que posso ajudar?",
+        "es": "[Guía puntos Pista turbo]\nHola.\n¿Estás disfrutando de la Pista turbo?\n¿En qué puedo ayudarte?"
+    },
+    "Sw60": {
+        "en": "Check points",
+        "pt": "Pontos de controle",
+        "es": "Revisar puntos."
+    },
+    "TA60": {
+        "en": "Convert points",
+        "pt": "Converter pontos",
+        "es": "Convertir puntos."
+    },
+    "TQ60": {
+        "en": "[Turbo Track Point Guide]\n{0}, your current points are as follows.\n Turbo Track Points: {1}\n Arena Points: {2}",
+        "pt": "[Guia de pontos do Turbo Track]\n{0}, seus pontos atuais são os seguintes.\nPontos do Turbo Track: {1}\nPontos de Arena: {2}",
+        "es": "[Guía puntos Pista turbo]\n{0}, estos son tus puntos actualmente.\n Puntos de Pista turbo: {1}\n Puntos de Arena: {2}"
+    },
+    "Tg60": {
+        "en": "[Turbo Track Point Guide]\nIf you want, you can convert your Arena Points into Turbo Track Points.\nThank you.",
+        "pt": "[Guia de pontos do Turbo Track]\nSe quiser, você pode converter seus Arena Points em Turbo Track Points.\nObrigado.",
+        "es": "[Guía puntos Pista turbo]\nSi quieres, puedes convertir tus puntos de Arena en puntos de Pista turbo.\nGracias."
+    },
+    "Tw60": {
+        "en": "[Turbo Track Point Guide]\nYou can convert your Arena Points into Turbo Track Points.\nThe conversion ration is 2:1, meaning 10 Arena Points for 5 Turbo Track Points.",
+        "pt": "[Guia de pontos do Turbo Track]\nVocê pode converter seus Arena Points em Turbo Track Points.\nA proporção de conversão é de 2:1, ou seja, 10 Arena Points para 5 Turbo Track Points.",
+        "es": "[Guía puntos Pista turbo]\nPuedes convertir tus puntos de Arena en puntos de Pista turbo.\nLa relación de conversión es de 2:1, es decir, 10 puntos de Arena por 5 puntos de Pista turbo."
+    },
+    "UA60": {
+        "en": "[Turbo Track Point Guide]\nFor below 8 Arena Points, please select your amount manually.\nFor 10 or more points, please enter a number ^4D4DFFin increments of 10^000000.",
+        "pt": "[Guia de pontos do Turbo Track]\nPara menos de 8 Arena Points, selecione a quantidade manualmente.\nPara 10 ou mais pontos, digite um número ^4D4DFFem incrementos de 10^000000.",
+        "es": "[Guía puntos Pista turbo]\nPara menos de 8 puntos de Arena, debes seleccionar la cantidad manualmente.\nPara 10 o más puntos, ingresa la cantidad en ^4D4DFFmúltiplos de 10^000000."
+    },
+    "UQ60": {
+        "en": "2 Arena Pts » 1 Turbo Track Pts",
+        "pt": "2 Arena Pts » 1 Turbo Track Pts",
+        "es": "2 puntos de Arena: 1 punto de Pista turbo"
+    },
+    "Ug60": {
+        "en": "4 Arena Pts » 2 Turbo Track Pts",
+        "pt": "4 Arena Pts » 2 Turbo Track Pts",
+        "es": "4 puntos de Arena: 2 puntos de Pista turbo"
+    },
+    "Uw60": {
+        "en": "6 Arena Pts » 3 Turbo Track Pts",
+        "pt": "6 Arena Pts » 3 Turbo Track Pts",
+        "es": "6 puntos de Arena: 3 puntos de Pista turbo"
+    },
+    "VA60": {
+        "en": "8 Arena Pts » 4 Turbo Track Pts",
+        "pt": "8 Arena Pts » 4 Turbo Track Pts",
+        "es": "8 puntos de Arena: 4 puntos de Pista turbo"
+    },
+    "VQ60": {
+        "en": "10 Arena Pts",
+        "pt": "10 Pontos de Arena",
+        "es": "10 puntos de Arena"
+    },
+    "Vg60": {
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar."
+    },
+    "Vw60": {
+        "en": "[Turbo Track Point Guide]\nIf you convert now, your Turbo Points will exceed the maximum limit, 29,000.\nPlease use some of your points first, and then try again.",
+        "pt": "[Guia de pontos do Turbo Track]\nSe você converter agora, seus Turbo Points excederão o limite máximo, 29.000.\nUse alguns de seus pontos primeiro e depois tente novamente.",
+        "es": "[Guía puntos Pista turbo]\nSi haces la conversión ahora, tus puntos de Pista turbo superarán el límite máximo de 29000.\nUsa algunos de tus puntos y vuelve a intentarlo más tarde."
+    },
+    "WA60": {
+        "en": "[Turbo Track Point Guide]\n{0}, I converted\n2 Arena Points into 1 Turbo Track Point\nfor you.",
+        "pt": "[Guia de pontos do Turbo Track]\n{0}, converti\n2 Arena Points em 1 Turbo Track Point\npara você.",
+        "es": "[Guía puntos Pista turbo]\n{0}, convertí \n2 puntos de Arena en 1 punto\nde Pista turbo."
+    },
+    "WQ60": {
+        "en": "[Turbo Track Point Guide]\n{0}, your current points are as follows.\n Turbo Track Points: {1}\n Arena Points: {2}\nThank you for your patronage.",
+        "pt": "[Guia de pontos do Turbo Track]\n{0}, seus pontos atuais são os seguintes.\nPontos do Turbo Track: {1}\nPontos de Arena: {2}\nObrigado por seu apoio.",
+        "es": "[Guía puntos Pista turbo]\n{0}, estos son tus puntos actualmente.\n Puntos de Pista turbo: {1}\n Puntos de Arena: {2}\nGracias por tu apoyo."
+    },
+    "Wg60": {
+        "en": "[Turbo Track Point Guide]\nNot enough Arena Points.\nYou must have at least 2.\nPlease check your points again.",
+        "pt": "[Guia de pontos do Turbo Track]\nNão há pontos de arena suficientes.\nVocê deve ter pelo menos 2.\nVerifique seus pontos novamente.",
+        "es": "[Guía puntos Pista turbo]\nNo tienes suficientes puntos de Arena.\nDebes tener al menos 2.\nRevisa tus puntos una vez más."
+    },
+    "Ww60": {
+        "en": "[Turbo Track Point Guide]\nNot enough Arena Points.\nYou must have at least 4.\nPlease check your points again.",
+        "pt": "[Guia de pontos do Turbo Track]\nNão há pontos de arena suficientes.\nVocê deve ter pelo menos 4.\nVerifique seus pontos novamente.",
+        "es": "[Guía puntos Pista turbo]\nNo tienes suficientes puntos de Arena.\nDebes tener al menos 4.\nRevisa tus puntos una vez más."
+    },
+    "XA60": {
+        "en": "[Turbo Track Point Guide]\nNot enough Arena Points.\nYou must have at least 6.\nPlease check your points again.",
+        "pt": "[Guia de pontos do Turbo Track]\nNão há pontos de arena suficientes.\nVocê deve ter pelo menos 6.\nVerifique seus pontos novamente.",
+        "es": "[Guía puntos Pista turbo]\nNo tienes suficientes puntos de Arena.\nDebes tener al menos 6.\nRevisa tus puntos una vez más."
+    },
+    "XQ60": {
+        "en": "[Turbo Track Point Guide]\nNot enough Arena Points.\nYou must have at least 8.\nPlease check your points again.",
+        "pt": "[Guia de pontos do Turbo Track]\nNão há pontos de arena suficientes.\nVocê deve ter pelo menos 8.\nVerifique seus pontos novamente.",
+        "es": "[Guía puntos Pista turbo]\nNo tienes suficientes puntos de Arena.\nDebes tener al menos 8.\nRevisa tus puntos una vez más."
+    },
+    "Xg60": {
+        "en": "[Turbo Track Point Guide]\nConverting Arena Points by ^4D4DFFincrements of 10^000000.\nYou can convert up to ^4D4DFF20 increments, totaling 200,^000000 at a time.\nPlease enter how many increments you want. Type 0 to cancel.",
+        "pt": "[Guia de pontos do Turbo Track]\nConversão de Pontos de Arena em ^4D4DFFincrementos de 10^000000.\nVocê pode converter até ^4D4DFF20 incrementos, totalizando 200,^000000 por vez.\nDigite quantos incrementos você deseja. Digite 0 para cancelar.",
+        "es": "[Guía puntos Pista turbo]\nConvertir puntos de Arena en ^4D4DFFmúltiplos de 10^000000.\nA la hora de convertir, puedes ^4D4DFFmultiplicar por 20 con un total de 200 puntos^000000 a la vez.\nIngresa la cantidad que deseas. Ingresa 0 para cancelar."
+    },
+    "Xw60": {
+        "en": "[Turbo Track Point Guide]\nCanceled.",
+        "pt": "[Guia de pontos do Turbo Track]\nCancelado.",
+        "es": "[Guía puntos Pista turbo]\nCancelado."
+    },
+    "YA60": {
+        "en": "[Turbo Track Point Guide]\nThat number is out of range.\nYou can only enter up to 20 at a time.",
+        "pt": "[Guia de pontos do Turbo Track]\nEsse número está fora do alcance.\nVocê só pode inserir até 20 de cada vez.",
+        "es": "[Guía puntos Pista turbo]\nEsa cifra está fuera de rango.\nSolo puedes ingresar hasta 20 a la vez."
+    },
+    "YQ60": {
+        "en": "[Turbo Track Point Guide]\nIf you convert now, your Turbo Points will exceed the maximum limit, 29,000.\nPlease use some of your points first, or adjust your conversion amount.",
+        "pt": "[Guia de pontos do Turbo Track]\nSe você converter agora, seus Turbo Points excederão o limite máximo, 29.000.\nPor favor, use alguns de seus pontos primeiro ou ajuste o valor da conversão.",
+        "es": "[Guía puntos Pista turbo]\nSi haces la conversión ahora, tus puntos de Pista turbo superarán el límite máximo de 29000.\nPrimero, usa algunos de tus puntos o configura la cantidad a convertir."
+    },
+    "Yg60": {
+        "en": "[Turbo Track Point Guide]\nNot enough Arena Points.\nPlease check your points, and then try again.",
+        "pt": "[Guia de pontos do Turbo Track]\nNão há pontos suficientes na Arena.\nVerifique seus pontos e tente novamente.",
+        "es": "[Guía puntos Pista turbo]\nNo tienes suficientes puntos de Arena.\nRevisa tus puntos y vuelve a intentarlo más tarde."
+    },
+    "Yw60": {
+        "en": "[Turbo Track Point Guide]\nYou want to convert {0} increments,\ntotaling {1} points.\nI converted them into {2} Turbo Track Points.",
+        "pt": "[Guia de pontos do Turbo Track]\nVocê deseja converter os incrementos {0},\ntotalizando {1} pontos.\nEu os converti em {2} Turbo Track Points.",
+        "es": "[Guía puntos Pista turbo]\nQuieres convertir {0}puntos,\neso deja un total de {1}puntos.\nLos convertí en {2}puntos de Pista turbo."
+    },
+    "ZA60": {
+        "en": "- Wait a moment!! -\n- You're carrying too many items -\n- to get more. -\n- Please lighten your load, -\n- and then try again. -",
+        "pt": "- Espere um pouco! -\n- Você está carregando itens demais -\n- para conseguir mais. -\n- Por favor, alivie sua carga, -\n- e depois tente novamente. -",
+        "es": "-¡Espera un momento!-\nLlevas demasiados objetos\n-Obtener más.-\nAligera tu carga\ny luego vuelve a intentarlo.-"
+    },
+    "ZQ60": {
+        "en": "[Usher]\nI'm sorry, but you can't enter with so many things on your Peco Peco.\nPlease store away some of your items, and then come back.",
+        "pt": "[Usher]\nSinto muito, mas você não pode entrar com tantas coisas no seu PecoPeco.\nPor favor, guarde alguns de seus itens e depois volte.",
+        "es": "[Usher]\nLo siento, pero no puedes entrar con tantas cosas sobre tu Peco Peco.\nGuarda algunos de tus objetos y luego regresa."
+    },
+    "Zg60": {
+        "en": "[Usher]\nI'm sorry, but Gryphons are not allowed inside the stadium.",
+        "pt": "[Desculpe-me.]\nSinto muito, mas os Gryphons não podem entrar no estádio.",
+        "es": "[Usher]\nLo siento, pero no puedes entrar al estadio con Grifos."
+    },
+    "Zw60": {
+        "en": "[Usher]\nI'm sorry, but Dragons, Madogears, and Wargs are not allowed inside the stadium.",
+        "pt": "[Usher]\nSinto muito, mas Dragões, Madogears e Wargs não são permitidos dentro do estádio.",
+        "es": "[Usher]\nLo siento, pero no puedes entrar al estadio con Dragones, Mecas mágicos o Wargs."
+    },
+    "aA60": {
+        "en": "Turbo Track Usher",
+        "pt": "Turbo Track Usher",
+        "es": "Turbo Track Usher"
+    },
+    "aQ60": {
+        "en": "[Usher]\nHello! Welcome to the Al De Baran Turbo Track Stadium!",
+        "pt": "[Usher]\nOlá! Bem-vindo ao Al De Baran Turbo Track Stadium!",
+        "es": "[Usher]\n¡Hola! ¡Te doy la bienvenida al estadio Pista turbo de Aldebaran!"
+    },
+    "ag60": {
+        "en": "[Usher]\nPeco Pecos are not allowed in the stadium.\nBut don't worry. If you enter the stadium while on a Peco Peco, it'll be automatically removed and you'll receive a Free Ticket for Peco Ride.",
+        "pt": "[Usher]\nPecoPecos não são permitidos no estádio.\nMas não se preocupe. Se você entrar no estádio com um PecoPeco, ele será automaticamente removido e você receberá um tíquete gratuito para o Peco Ride.",
+        "es": "[Usher]\nLos Peco Pecos no tienen permitido entrar al estadio.\nPero no te preocupes. Si entras al estadio con un Peco Peco, se lo retirará inmediatamente del recinto y recibirás un Boleto gratis para Paseo en Peco."
+    },
+    "aw60": {
+        "en": "[Usher]\nNow, enjoy your time at the Turbo Track!",
+        "pt": "[Usher]\nAgora, aproveite seu tempo no Turbo Track!",
+        "es": "[Usher]\n¡Que disfrutes de tu estancia en la Pista turbo!"
+    },
+    "bA60": {
+        "en": "Peco Peco Manager",
+        "pt": "Peco Peco Manager",
+        "es": "Peco Gerente de Peco"
+    },
+    "bQ60": {
+        "en": "[Peco Peco Manager]",
+        "pt": "[Peco Peco Manager]",
+        "es": "[Administ. de Peco Pecos]"
+    },
+    "bg60": {
+        "en": "Welcome. Would you like to pick up a Peco Peco?\nIt's 2,500 Zeny or a Free Ticket for Peco Ride.",
+        "pt": "Bem-vindo. Você gostaria de pegar um PecoPeco?\nSão 2.500 Zeny ou um bilhete grátis para o Peco Ride.",
+        "es": "Te damos la bienvenida. ¿Te gustaría elegir un Peco Peco?\nSon 2500 zeny o un Boleto gratis para paseo en Peco."
+    },
+    "bw60": {
+        "en": "Use",
+        "pt": "Usar",
+        "es": "Usar."
+    },
+    "cA60": {
+        "en": "[Peco Peco Manager]\nIt's not safe to ride a Peco Peco without knowing how to handle it.\nPlease learn the skill first.",
+        "pt": "[Peco Peco Manager]\nNão é seguro andar em um PecoPeco sem saber como lidar com ele.\nPor favor, aprenda a habilidade primeiro.",
+        "es": "[Administ. de Peco Pecos]\nNo es seguro montar un Peco Peco si no sabes cómo controlarlo.\nPrimero debes aprender la habilidad."
+    },
+    "cQ60": {
+        "en": "[Peco Peco Manager]\nYou're already on a Peco Peco.\nPlease check your status.",
+        "pt": "[Peco Peco Manager]\nVocê já está em um PecoPeco.\nPor favor, verifique seu status.",
+        "es": "[Administ. de Peco Pecos]\nYa tienes un Peco Peco.\nRevisa tu estado."
+    },
+    "cg60": {
+        "en": "[Peco Peco Manager]\nYou don't have a Free Ticket or money.\nThis service is charged, not free.",
+        "pt": "[Peco Peco Manager]\nVocê não tem um bilhete gratuito ou dinheiro.\nEsse serviço é cobrado, não é gratuito.",
+        "es": "[Administ. de Peco Pecos]\nNo tienes boletos gratis ni dinero.\nEste servicio es de pago, no gratuito."
+    },
+    "cw60": {
+        "en": "[Peco Peco Manager]\nThank you for your patronage.",
+        "pt": "[Peco Peco Manager]\nObrigado por seu apoio.",
+        "es": "[Administ. de Peco Pecos]\nGracias por tu apoyo."
+    },
+    "dA60": {
+        "en": "[Peco Peco Manager]\nAre you going back into the stadium?\nGood luck winning!",
+        "pt": "[Gerente da Peco Peco]\nVocê está voltando para o estádio?\nBoa sorte na vitória!",
+        "es": "[Administ. de Peco Pecos]\n¿Volverás al estadio?\n¡Buena suerte!"
+    },
+    "dQ60": {
+        "en": "Thank you for visiting the Al De Baran Turbo Track Stadium!",
+        "pt": "Obrigado por visitar o Al De Baran Turbo Track Stadium!",
+        "es": "¡Gracias por visitar el estadio Pista turbo de Aldebaran!"
+    },
+    "dg60": {
+        "en": "Sign",
+        "pt": "Placa",
+        "es": "Firma"
+    },
+    "dw60": {
+        "en": "[Al De Baran Turbo Track]\nThis way is to the Al De Baran Turbo Track.",
+        "pt": "[Al De Baran Turbo Track]\nEste caminho é para a Al De Baran Turbo Track.",
+        "es": "[Pista turbo de Aldebaran]\nPor aquí se llega a la Pista turbo de Aldebaran."
+    },
+    "eA60": {
+        "en": "[Al De Baran Turbo Track]\nThe Turbo Track is a stadium in which you can race on various tracks to reach the goal point.\nIt's filled with all kinds of interesting devices. You should come take a look.",
+        "pt": "[Al De Baran Turbo Track]\nO Turbo Track é um estádio no qual você pode correr em várias pistas para alcançar o ponto de chegada.\nEle está repleto de todos os tipos de dispositivos interessantes. Você deveria vir dar uma olhada.",
+        "es": "[Pista turbo de Aldebaran]\nLa Pista turbo es un estadio en el que puedes competir en varios circuitos para llegar a la meta.\nEstá lleno de todo tipo de dispositivos interesantes. Deberías venir a echar un vistazo."
+    },
+    "eQ60": {
+        "en": "Turbo Track Manager",
+        "pt": "Turbo Track Manager",
+        "es": "Turbo Track Manager"
+    },
+    "eg60": {
+        "en": "[Manager]\nYou can turn on or off the Turbo Track entrance in case of emergency.\nFirst, let me check your identity. Please enter password.",
+        "pt": "[Gerente]\nVocê pode ativar ou desativar a entrada do Turbo Track em caso de emergência.\nPrimeiro, deixe-me verificar sua identidade. Por favor, digite sua senha.",
+        "es": "[Administrador]\nPuedes activar o desactivar la entrada a la Pista turbo en caso de emergencia.\nPrimero, déjame comprobar tu identidad. Introduce la contraseña."
+    },
+    "ew60": {
+        "en": "[Manager]\nIncorrect password.",
+        "pt": "[Gerente]\nSenha incorreta.",
+        "es": "[Administrador]\nContraseña incorrecta."
+    },
+    "fA60": {
+        "en": "[Manager]\nCanceled.",
+        "pt": "[Gerente]\nCancelado.",
+        "es": "[Administrador]\nCancelado."
+    },
+    "fQ60": {
+        "en": "[Manager]\nSelect the command you want.",
+        "pt": "[Gerente]\nSelecione o comando que você deseja.",
+        "es": "[Administrador]\nSelecciona el comando que quieres."
+    },
+    "fg60": {
+        "en": "Off",
+        "pt": "Desligado",
+        "es": "Desactivado"
+    },
+    "fw60": {
+        "en": "On",
+        "pt": "Ligado",
+        "es": "Activado"
+    },
+    "gA60": {
+        "en": "[Manager]\nTurned off the entrance.",
+        "pt": "[Gerente]\nDesligou a entrada.",
+        "es": "[Administrador]\nEntrada desactivada."
+    },
+    "gQ60": {
+        "en": "[Manager]\nTurned on the entrance.",
+        "pt": "[Gerente]\nLigou a entrada.",
+        "es": "[Administrador]\nEntrada activada."
+    }
+}

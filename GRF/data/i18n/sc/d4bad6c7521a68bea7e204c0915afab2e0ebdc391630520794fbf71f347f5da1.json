@@ -1,0 +1,617 @@
+{
+    "gCgtBw": {
+        "en": "switch",
+        "pt": "Switch",
+        "es": "interruptor"
+    },
+    "gSgtBw": {
+        "en": "Please try again after installing a special item.",
+        "pt": "Tente novamente depois de instalar um item especial.",
+        "es": "Vuelve a intentarlo después de que hayas instalado un objeto especial."
+    },
+    "gigtBw": {
+        "en": "Cancelled.",
+        "pt": "O comando foi cancelado.",
+        "es": "Cancelado."
+    },
+    "gygtBw": {
+        "en": "May I help you?",
+        "pt": "Em que posso ajudar?",
+        "es": "¿Puedo ayudarte?"
+    },
+    "hCgtBw": {
+        "en": "Reset Tierra Gorge",
+        "pt": "Redefinir Desfiladeiro",
+        "es": "Restablecer Cañón Tierra."
+    },
+    "hSgtBw": {
+        "en": "Reset Flavius",
+        "pt": "Redefinir Flavius",
+        "es": "Restablecer Flavius."
+    },
+    "higtBw": {
+        "en": "Check Tierra user count",
+        "pt": "Verificar a contagem de usuários do Desfiladeiro",
+        "es": "Comprobar el recuento de usuarios de Tierra."
+    },
+    "hygtBw": {
+        "en": "Check Flavius user count",
+        "pt": "Verificar a contagem de usuários do Flavius",
+        "es": "Comprobar el recuento de usuarios de Flavius."
+    },
+    "iCgtBw": {
+        "en": "Check KVM80",
+        "pt": "Verificar o KVM80",
+        "es": "Comprobar KvM80."
+    },
+    "iSgtBw": {
+        "en": "Check KVM59",
+        "pt": "Verificar o KVM59",
+        "es": "Comprobar KvM59."
+    },
+    "iigtBw": {
+        "en": "Check KVM6079",
+        "pt": "Verificar o KVM6079",
+        "es": "Comprobar KvM6079."
+    },
+    "iygtBw": {
+        "en": "Stop Battleground",
+        "pt": "Parar o campo de batalha",
+        "es": "Detener campo de batalla."
+    },
+    "jCgtBw": {
+        "en": "Complete",
+        "pt": "Concluir",
+        "es": "Completar."
+    },
+    "jSgtBw": {
+        "en": "Completed",
+        "pt": "Concluído",
+        "es": "Completado."
+    },
+    "jigtBw": {
+        "en": "BG user count{0}users\nCheck queue: {1}\nGlobalVar: {2}\nLobbyA: {3}\nLobbyB: {4}",
+        "pt": "Contagem de usuários do BG {0} usuários\nVerificar fila: {1}\nGlobalVar: {2}\nLobbyA: {3}\nLobbyB: {4}",
+        "es": "Recuento de usuarios del campo de batalla: {0}usuarios\nComprobar la cola: {1}\nGlobalVar: {2}\nSalaA: {3}\nSalaB: {4}"
+    },
+    "jygtBw": {
+        "en": "Password error.",
+        "pt": "Erro de senha.",
+        "es": "Error de contraseña."
+    },
+    "kCgtBw": {
+        "en": "Block battleground.",
+        "pt": "Bloquear campo de batalha",
+        "es": "Bloquear campo de batalla."
+    },
+    "kSgtBw": {
+        "en": "Tierra Gorge",
+        "pt": "Desfiladeiro",
+        "es": "Cañón Tierra."
+    },
+    "kigtBw": {
+        "en": "Flavius",
+        "pt": "Flavius",
+        "es": "Flavius."
+    },
+    "kygtBw": {
+        "en": "kvm80",
+        "pt": "kvm80",
+        "es": "KvM80."
+    },
+    "lCgtBw": {
+        "en": "kvm6079",
+        "pt": "kvm6079",
+        "es": "KvM6079."
+    },
+    "lSgtBw": {
+        "en": "kvm59",
+        "pt": "kvm59",
+        "es": "KvM59."
+    },
+    "ligtBw": {
+        "en": "other",
+        "pt": "Outro",
+        "es": "Otro."
+    },
+    "lygtBw": {
+        "en": "Block Tierra Gorge",
+        "pt": "Bloquear Desfiladeiro",
+        "es": "Bloquear Cañón Tierra."
+    },
+    "mCgtBw": {
+        "en": "Abort",
+        "pt": "Abortar",
+        "es": "Abortar."
+    },
+    "mSgtBw": {
+        "en": "Block players from entering Tierra Gorge.",
+        "pt": "Bloquear a entrada do Desfiladeiro",
+        "es": "Impide que los jugadores entren en Cañón Tierra."
+    },
+    "migtBw": {
+        "en": "Block Flavius",
+        "pt": "Bloquear Flavius",
+        "es": "Bloquear Flavius."
+    },
+    "mygtBw": {
+        "en": "Block players from entering Flavius.",
+        "pt": "Bloquear a entrada de jogadores em Flavius",
+        "es": "Impide que los jugadores entren en Flavius."
+    },
+    "nCgtBw": {
+        "en": "Block kvm80",
+        "pt": "Bloquear kvm80",
+        "es": "Bloquear KvM80."
+    },
+    "nSgtBw": {
+        "en": "Block kvm80 from entering.",
+        "pt": "Bloquear a entrada de kvm80",
+        "es": "Impide la entrada a KvM80."
+    },
+    "nigtBw": {
+        "en": "Block kvm59 or below",
+        "pt": "Bloquear kvm59 ou inferior",
+        "es": "Bloquear KvM59 o inferior."
+    },
+    "nygtBw": {
+        "en": "Block kvm59 or below from entering.",
+        "pt": "Bloquear a entrada de kvm59 ou inferior",
+        "es": "Impide la entrada a KvM59 o inferiores."
+    },
+    "oCgtBw": {
+        "en": "Block kvm60~79",
+        "pt": "Bloquear kvm60~79",
+        "es": "Bloquear KvM60-79."
+    },
+    "oSgtBw": {
+        "en": "Block kvm6079 from entering.",
+        "pt": "Bloquear a entrada kvm6079",
+        "es": "Impide la entrada a KvM60-79."
+    },
+    "oigtBw": {
+        "en": "What is the str value you wish to modify?",
+        "pt": "Qual é o valor for que você deseja modificar?",
+        "es": "¿Cuál es el valor FUE que quieres modificar?"
+    },
+    "oygtBw": {
+        "en": "Is {0} correct?",
+        "pt": "{0} está correto?",
+        "es": "¿Está bien {0}?"
+    },
+    "pCgtBw": {
+        "en": "Yes",
+        "pt": "Sim",
+        "es": "Sí."
+    },
+    "pSgtBw": {
+        "en": "No",
+        "pt": "Não",
+        "es": "No."
+    },
+    "pigtBw": {
+        "en": "What is the n value you wish to modify?\nTo cancel input 0.",
+        "pt": "Qual é o valor n que você deseja modificar?\nPara cancelar, digite 0.",
+        "es": "¿Cuál es el valor n que quieres modificar?\nPara cancelar, introduce0."
+    },
+    "pygtBw": {
+        "en": "Cancel.",
+        "pt": "Cancelar",
+        "es": "Cancelar."
+    },
+    "qCgtBw": {
+        "en": "Change {0} to {1}?",
+        "pt": "Alterar {0} para {1}?",
+        "es": "¿Cambiar {0} por {1}?"
+    },
+    "qSgtBw": {
+        "en": "Tierra Gorge Officer",
+        "pt": "Oficial do Desfiladeiro",
+        "es": "Oficial de Tierra Gorge"
+    },
+    "qigtBw": {
+        "en": "Flavius Officer",
+        "pt": "Oficial de Flavius",
+        "es": "Flavius Oficial"
+    },
+    "qygtBw": {
+        "en": "Prince Croix",
+        "pt": "Príncipe Croix",
+        "es": "Príncipe Croix"
+    },
+    "rCgtBw": {
+        "en": "[Prince Croix]\nWise adventurer, why don't you lend us your power for victory?",
+        "pt": "[Príncipe Croix]\nSábio aventureiro, pode nos ceder seu poder para atingirmos a vitória?",
+        "es": "[Príncipe Croix]\nSabio trotamundos, ¿por qué no nos prestas tu poder para alcanzar la victoria?"
+    },
+    "rSgtBw": {
+        "en": "What's the reason for the Battle?",
+        "pt": "Qual é o motivo da batalha?",
+        "es": "¿Cuál es el motivo de la batalla?"
+    },
+    "rigtBw": {
+        "en": "Tell me about General Guillaume",
+        "pt": "Fale-me do General Guillaume",
+        "es": "Cuéntame del general Guillaume."
+    },
+    "rygtBw": {
+        "en": "[Prince Croix]\nMaroll's great king, Marcel Marollo VII, is very sick lately.\nHis Majesty has declared that he will be leaving the future of Maroll to me or the 3rd prince, General Guillaume.",
+        "pt": "[Príncipe Croix]\nO grande rei de Maroll, Marcel Marollo VII, anda muito doente.\nSua Majestade declarou que deixará o futuro de Maroll nas minhas mãos ou nas do 3o. príncipe, o General Guillaume.",
+        "es": "[Príncipe Croix]\nEl gran rey de Maroll, Marcel MarolloVII, ha estado muy enfermo últimamente.\nSu Majestad ha declarado que dejará el futuro de Maroll en mis manos o en las del tercer príncipe, el general Guillaume."
+    },
+    "sCgtBw": {
+        "en": "[Prince Croix]\nGeneral Guillaume may have an advantage in this battle as he is the great general of Maroll, but that doesn't automatically mean he'll win.\nI want to win this battle so that I can bring prosperity to the people of Maroll. They've suffered enough from war...",
+        "pt": "[Príncipe Croix]\nO General Guillaume pode ter vantagem nesta batalha, já que é o grande general de Maroll, mas isso não quer dizer que fatalmente ele vá vencer.\nQuero vencer esta batalha para poder trazer prosperidade ao povo de Maroll. Eles já sofreram demais com a guerra...",
+        "es": "[Príncipe Croix]\nEl general Guillaume puede tener ventaja en esta batalla por ser el gran general de Maroll, pero eso no quiere decir que tenga la victoria asegurada.\nQuiero ganar esta batalla para poder traer prosperidad al pueblo de Maroll. Ya han sufrido bastante con la guerra…"
+    },
+    "sSgtBw": {
+        "en": "[Prince Croix]\nFor Maroll!",
+        "pt": "[Príncipe Croix]\nPor Maroll!",
+        "es": "[Príncipe Croix]\n¡Por Maroll!"
+    },
+    "sigtBw": {
+        "en": "[Prince Croix]\nThe 3rd Prince Guillaume is the great general of Maroll.\nIt's a waste of time to explain to you how great a leader or warlord he is, since he commands the great military power of Maroll.",
+        "pt": "[Príncipe Croix]\nO 3o. príncipe, Guillaume, é o grande general de Maroll.\nNão preciso perder tempo lhe explicando o quanto ele é um grande líder e chefe de guerra, já que ele comanda o grande poder militar de Maroll.",
+        "es": "[Príncipe Croix]\nEl tercer príncipe Guillaume es el gran general de Maroll.\nEs una pérdida de tiempo explicarte lo gran líder y comandante que es, ya que dirige el gran poderío militar de Maroll."
+    },
+    "sygtBw": {
+        "en": "[Prince Croix]\nUnfortunately, there's something he and his followers are unaware of:\nDo the people of Maroll really want them to spend so much money on military power?\nWe have suffered enough from wars.\nI believe weapons aren't the best way to bring prosperity to a nation.",
+        "pt": "[Príncipe Croix]\nInfelizmente, há algo que ele e seus seguidores não percebem:\nO povo de Maroll quer mesmo gastar tanto dinheiro em poder militar?\nJá sofremos muito com as guerras.\nNão acredito que as armas sejam a melhor maneira de trazer prosperidade a uma nação.",
+        "es": "[Príncipe Croix]\nPor desgracia, hay algo que él y sus seguidores desconocen:\n¿De verdad los habitantes de Maroll quieren que gasten tanto dinero en poder militar?\nYa hemos sufrido bastante con las guerras.\nCreo que las armas no son la mejor manera de traer prosperidad a una nación."
+    },
+    "tCgtBw": {
+        "en": "[Prince Croix]\nI do not wish to shed blood, but I have no choice but to fight for the possibility of peace and for the sake of my people.",
+        "pt": "[Príncipe Croix]\nNão quero derramar sangue, mas não tenho escolha senão lutar pela chance de paz e pelo bem do meu povo.",
+        "es": "[Príncipe Croix]\nNo quiero derramar sangre, pero no tengo más remedio que luchar por la posibilidad de traer la paz y por el bien de mi pueblo."
+    },
+    "tSgtBw": {
+        "en": "Prince Croix's Aide",
+        "pt": "Pajem de Croix",
+        "es": "Ayudante del Príncipe Croix"
+    },
+    "tigtBw": {
+        "en": "General Guillaume",
+        "pt": "General Guillaume",
+        "es": "General Guillaume"
+    },
+    "tygtBw": {
+        "en": "[General Guillaume]\nHot-blooded adventurer, we need your ability to win this battle.",
+        "pt": "[General Guillaume]\nPrecisamos de sua habilidade, ó aventureiro valente, para vencer esta batalha.",
+        "es": "[General Guillaume]\nTrotamundos de sangre ardiente, necesitamos tu habilidad para ganar esta batalla."
+    },
+    "uCgtBw": {
+        "en": "Tell me about Prince Croix",
+        "pt": "Fale-me sobre o Príncipe Croix",
+        "es": "Cuéntame sobre el príncipe Croix."
+    },
+    "uSgtBw": {
+        "en": "[General Guillaume]\nOur great king, Marcel Marollo VII, is very sick lately.\nHis Majesty has declared that he has chosen either me or Prince Croix as the next king amongst his 9 sons.",
+        "pt": "[General Guillaume]\nNosso grande rei, Marcel Marollo VII, anda muito doente.\nSua Majestade declarou que, entre seus 9 filhos, escolherá a mim ou ao Príncipe Croix como o próximo rei.",
+        "es": "[General Guillaume]\nNuestro gran rey, Marcel MarolloVII, ha estado muy enfermo últimamente.\nSu Majestad declaró que me eligió a mí o al príncipe Croix como el próximo rey entre sus 9hijos."
+    },
+    "uigtBw": {
+        "en": "[General Guillaume]\nTwo kings can't share a nation! Only the one victorious from His Majesty's appointed battle will be enthroned.",
+        "pt": "[General Guillaume]\nDois reis não podem compartilhar uma nação! Somente quem sair vitorioso da batalha determinada por Sua Majestade será coroado.",
+        "es": "[General Guillaume]\n¡Dos reyes no pueden compartir una nación! Solo quien salga victorioso de la batalla designada por Su Majestad llegará al trono."
+    },
+    "uygtBw": {
+        "en": "[General Guillaume]\nThis is, however, not just a battle between us. This battle will determine the future of this country.\nI pledge on my honor to prove that I'm the one who can protect this Maroll from outside threats.",
+        "pt": "[General Guillaume]\nNo entanto, essa não é apenas uma batalha entre nós dois. Esta batalha vai determinar o futuro deste país.\nJuro por minha honra que vou provar ser quem pode proteger Maroll das ameaças externas.",
+        "es": "[General Guillaume]\nSin embargo, no se trata solo de una batalla entre nosotros. Esta batalla determinará el futuro de esta nación.\nMe comprometo por mi honor a demostrar que soy quien puede proteger a Maroll de las amenazas del exterior."
+    },
+    "vCgtBw": {
+        "en": "[General Guillaume]\nI'll be the one who will capture the flag!",
+        "pt": "[General Guillaume]\nSerei eu quem vai capturar a bandeira!",
+        "es": "[General Guillaume]\n¡Seré yo quien capture la bandera!"
+    },
+    "vSgtBw": {
+        "en": "[General Guillaume]\nThe 5th Prince Croix is currently titled as the Prime Minister of Maroll.\nHe thinks all national matters of a nation can be discussed and determined on a desk,\nand believes in peaceful co-existence with other countries.",
+        "pt": "[General Guillaume]\nO 5o. Príncipe Croix atualmente é o Primeiro Ministro de Maroll.\nEle acha que todos os assuntos nacionais podem ser discutidos e resolvidos em cima de uma mesa,\ne acredita na co-existência pacífica com outros países.",
+        "es": "[General Guillaume]\nEl quinto príncipe Croix ocupa actualmente el cargo de primer ministro de Maroll.\nÉl cree que todos los asuntos nacionales de una nación pueden discutirse y decidirse detrás de un escritorio,\ny también cree en la coexistencia pacífica con otros países."
+    },
+    "vigtBw": {
+        "en": "[General Guillaume]\nHe's too ignorant to admit that so-called peace is built on countless lives that are sacrificed in wars while normal citizens and upper classes can live, oblivious to the horrors that allow them to live that way.",
+        "pt": "[General Guillaume]\nEle é ignorante demais para admitir que essa tal paz se constrói com as incontáveis vidas sacrificadas nas guerras, enquanto os cidadãos comuns e os nobres vivem sem pensar nos horrores que permitem que eles continuem vivendo.",
+        "es": "[General Guillaume]\nEs demasiado ignorante para admitir que la supuesta paz se construye con el sacrificio de innumerables vidas en las guerras mientras los ciudadanos normales y las clases altas pueden vivir tranquilos, ajenos a los horrores que les permiten llevar ese estilo de vida."
+    },
+    "vygtBw": {
+        "en": "[General Guillaume]\nHe's too naive to understand the reality....\nI can't leave Maroll to someone like him who lives in a dream!",
+        "pt": "[General Guillaume]\nEle é ingênuo demais para entender a realidade...\nNão posso deixar Maroll nas mãos de alguém como ele, que vive em um sonho!",
+        "es": "[General Guillaume]\nEs demasiado ingenuo para entender la realidad…\n¡No puedo dejar Maroll en manos de alguien que vive en un mundo de fantasía!"
+    },
+    "wCgtBw": {
+        "en": "[General Guillaume]\nHis unrealistic beliefs will drown this country in poverty and make the people weak. If he becomes the king, Maroll will never rest from the onslaughts of other countries.\nI want to teach him what makes this small country so powerful and prosperous. It's military power!",
+        "pt": "[General Guillaume]\nSuas crenças irreais afundarão este país na pobreza, e deixarão o povo fraco. Se ele se tornar rei, Maroll nunca vai descansar dos massacres causados por outros países.\nQuero ensinar a ele o que faz este pequeno país tão poderoso e próspero: o poder militar!",
+        "es": "[General Guillaume]\nSus creencias poco realistas sumirán a este país en la pobreza y debilitarán a la población. Si se convierte en rey, Maroll nunca descansará de las arremetidas de otros países.\nQuiero enseñarle lo que hace que este pequeño país sea tan poderoso y próspero. ¡Es el poderío militar!"
+    },
+    "wSgtBw": {
+        "en": "General Guillaume's Aide",
+        "pt": "Pajem de Guillaume",
+        "es": "Ayudante del General Guillaume"
+    },
+    "wigtBw": {
+        "en": "Guillaume Knight",
+        "pt": "Cavaleiro de Guillaume",
+        "es": "Guillaume Knight"
+    },
+    "wygtBw": {
+        "en": "[Guillaume Knight]\nTierra Gorge consists of two steep sides placed vertically, and has ration depots for the Guillaume and Croix Armies at the 11 and 7 o'clock directions.",
+        "pt": "[Cavaleiro de Guillaume]\nO Desfiladeiro de Tierra consiste de duas encostas verticais, e tem armazéns de comida para os Exércitos de Guillaume e de Croix a noroeste e a sudoeste.",
+        "es": "[Caballero de Guillaume]\nEl Cañón Tierra consta de dos lados empinados que se alzan verticalmente y cuenta con depósitos de raciones para los ejércitos de Guillaume y de Croix en las direcciones de las 11:00 y las 7:00."
+    },
+    "xCgtBw": {
+        "en": "[Guillaume Knight]\nThe battle starts at your army's ship, and the goal is to advance and destroy your enemy's rations depot faster than they can destroy yours.",
+        "pt": "[Cavaleiro de Guillaume]\nA batalha começa no navio do seu exército, e o objetivo é avançar e destruir os armazéns de comida do seu inimigo antes que ele destrua os seus.",
+        "es": "[Caballero de Guillaume]\nLa batalla comienza en el barco de tu ejército, y el objetivo es avanzar y destruir el depósito de raciones antes de que tu enemigo lo haga."
+    },
+    "xSgtBw": {
+        "en": "[Guillaume Knight]\nThe healer of the battlefield will resurrect soldiers once every 25 seconds so that they can rejoin the battle.\nThe army that captures the neutral flag in the center of the battlefield will be rewarded with extra regeneration points, meaning their soldiers will resurrect more than the other side, giving them an advantage.",
+        "pt": "[Cavaleiro de Guillaume]\nO curandeiro do campo de batalha irá ressuscitar soldados a cada 25 segundos, para que voltem à batalha.\nO exército que capturar a bandeira neutra no centro do campo de batalha será recompensado com pontos de regeneração extra, ou seja, ele terá mais soldados ressuscitados, o que será uma vantagem.",
+        "es": "[Caballero de Guillaume]\nEl sanador del campo de batalla resucitará a los soldados una vez cada 25segundos para que puedan reincorporarse a la batalla.\nEl ejército que capture la bandera neutral en el centro del campo de batalla será recompensado con puntos de regeneración adicionales, lo que significa que sus soldados resucitarán más que los del otro bando y tendrán ventaja."
+    },
+    "xigtBw": {
+        "en": "[Guillaume Knight]\nThose two rations depots are connected to each other through short and narrow paths, but the gates are blocked with barricades.\nThink and move as quickly as you can. The victory of your army relies on your contribution.",
+        "pt": "[Cavaleiro de Guillaume]\nOs dois depósitos são conectados entre si por caminhos curtos e estreitos, mas os portões são bloqueados com barricadas.\nPense e mexa-se o mais rápido que puder. A vitória do seu exército depende da sua contribuição.",
+        "es": "[Caballero de Guillaume]\nEsos dos depósitos de raciones están conectados entre sí por caminos cortos y estrechos, pero las puertas están bloqueadas con barricadas.\nPiensa y muévete tan rápido como puedas. La victoria de tu ejército depende de tu contribución."
+    },
+    "xygtBw": {
+        "en": "[Guillaume Knight]\nPlease remember: when you join a battle, you will receive a token which indicates the set duration for which you cannot participate in the same type of battle.\nYou may check the duration by pressing the Alt+U keys.",
+        "pt": "[Cavaleiro de Guillaume]\nPor favor, lembre-se: quando você entrar na batalha, receberá um sinal que indica o período no qual você não pode participar do mesmo tipo de batalha.\nVocê pode verificar a duração pressionando Alt+U.",
+        "es": "[Caballero de Guillaume]\nRecuerda: Cuando te unas a una batalla, recibirás una ficha que indica por cuánto tiempo no podrás participar en el mismo tipo de batalla.\nPara revisar la duración, puedes presionar las teclas Alt+U."
+    },
+    "yCgtBw": {
+        "en": "[Guillaume Knight]\nAre you ready to battle? Then apply by clicking ^3131FFbattle button from the interface^000000!",
+        "pt": "[Cavaleiro de Guillaume]\nEstá pronto para a batalha? Então aliste-se com o recrutador ao meu lado!",
+        "es": "[Caballero de Guillaume]\n¿Quieres ir a la batalla? ¡Solicita unirte haciendo clic en el ^3131FFbotón de batalla de la interfaz^000000!"
+    },
+    "ySgtBw": {
+        "en": "[Guillaume Knight]\nPlease bear in mind once you cancel, ^3131FFreapplication cannot be made for 1 minute.^000000!",
+        "pt": "[Cavaleiro de Guillaume]\nLembre-se de que, depois de cancelar, ^3131FFnão será possível fazer uma nova solicitação por 1 minuto.^000000!",
+        "es": "[Caballero de Guillaume]\n¡Ten en cuenta que, una vez que canceles, ^3131FFno podrás volver a solicitar unirte durante 1minuto^000000!"
+    },
+    "yigtBw": {
+        "en": "[Guillaume Knight]\nThe objective of the Flavius Battle is to score 2 points before your enemy by destroying their crystal.",
+        "pt": "[Cavaleiro de Guillaume]\nO objetivo da Batalha de Flavius é marcar 2 pontos antes do seu inimigo, destruindo seus cristais.",
+        "es": "[Caballero de Guillaume]\nEl objetivo de la Batalla Flavius es destruir el cristal de tu enemigo para conseguir 2puntos antes que él."
+    },
+    "yygtBw": {
+        "en": "[Guillaume Knight]\nThe crystals for both armies are protected by special barricades that cannot be destroyed by direct attacks.",
+        "pt": "[Cavaleiro de Guillaume]\nOs cristais de ambos os exércitos são protegidos por barricadas especiais que não podem ser destruídas por ataques diretos.",
+        "es": "[Caballero de Guillaume]\nLos cristales de ambos ejércitos están protegidos por barricadas especiales que no se pueden destruir con ataques directos."
+    },
+    "zCgtBw": {
+        "en": "[Guillaume Knight]\nBut they can be removed by destroying the Guardians that protect the enemy army base.",
+        "pt": "[Cavaleiro de Guillaume]\nMas elas podem ser removidas se você destruir os Guardiões que protegem a base do exército inimigo.",
+        "es": "[Caballero de Guillaume]\nPero pueden eliminarse destruyendo a los guardianes que protegen la base militar enemiga."
+    },
+    "zSgtBw": {
+        "en": "[Guillaume Knight]\nThe crystals are immune to every type of skill, your physical attacks are the only choice for destroying your enemy's crystal.",
+        "pt": "[Cavaleiro de Guillaume]\nOs cristais são imunes a qualquer tipo de habilidade; ataques físicos são a única escolha para destruir os cristais do inimigo.",
+        "es": "[Caballero de Guillaume]\nLos cristales son inmunes a todo tipo de habilidad, tus ataques físicos son la única opción para destruir el cristal de tu enemigo."
+    },
+    "zigtBw": {
+        "en": "[Guillaume Knight]\nIf you are ready, start by clicking ^3131FFbattle button from the interface^000000!",
+        "pt": "[Cavaleiro de Guillaume]\nSe você estiver pronto, comece clicando no botão ^3131FFbattle da interface^000000!",
+        "es": "[Caballero de Guillaume]\n¡Para unirte, haz clic en el ^3131FFbotón de batalla de la interfaz^000000!"
+    },
+    "zygtBw": {
+        "en": "Croix Knight",
+        "pt": "Cavaleiro de Croix",
+        "es": "Cruz de Caballero"
+    },
+    "0CgtBw": {
+        "en": "[Croix Knight]\nTierra Gorge consists of two steep sides placed vertically, and has ration depots for the Guillaume and Croix Armies at the 11 and 7 o'clock directions.",
+        "pt": "[Cavaleiro de Croix]\nO Desfiladeiro de Tierra consiste de duas encostas verticais, e tem armazéns de comida para os Exércitos de Guillaume e de Croix a noroeste e a sudoeste.",
+        "es": "[Caballero de Croix]\nEl Cañón Tierra consta de dos lados empinados que se alzan verticalmente y cuenta con depósitos de raciones para los ejércitos de Guillaume y de Croix en las direcciones de las 11:00 y las 7:00."
+    },
+    "0SgtBw": {
+        "en": "[Croix Knight]\nThe battle starts at your army's ship, and the goal is to advance and destroy your enemy's rations depot faster than they can destroy yours.",
+        "pt": "[Cavaleiro de Croix]\nA batalha começa no navio do seu exército, e o objetivo é avançar e destruir os armazéns de comida do seu inimigo antes que ele destrua os seus.",
+        "es": "[Caballero de Croix]\nLa batalla comienza en el barco de tu ejército, y el objetivo es avanzar y destruir el depósito de raciones antes de que tu enemigo lo haga."
+    },
+    "0igtBw": {
+        "en": "[Croix Knight]\nThe healer of the battlefield will resurrect soldiers once every 25 seconds so that they can rejoin the battle.\nThe army that captures the neutral flag in the center of the battlefield will be rewarded with extra regeneration points, meaning their soldiers will resurrect more than the other side, giving them an advantage.",
+        "pt": "[Cavaleiro de Croix]\nO curandeiro do campo de batalha irá ressuscitar soldados a cada 25 segundos, para que voltem à batalha.\nO exército que capturar a bandeira neutra no centro do campo de batalha será recompensado com pontos de regeneração extra, ou seja, ele terá mais soldados ressuscitados, o que será uma vantagem.",
+        "es": "[Caballero de Croix]\nEl sanador del campo de batalla resucitará a los soldados una vez cada 25segundos para que puedan reincorporarse a la batalla.\nEl ejército que capture la bandera neutral en el centro del campo de batalla será recompensado con puntos de regeneración adicionales, lo que significa que sus soldados resucitarán más que los del otro bando y tendrán ventaja."
+    },
+    "0ygtBw": {
+        "en": "[Croix Knight]\nThose two rations depots are connected to each other through short and narrow paths, but the gates are blocked with barricades.\nThink and move as quickly as you can. The victory of your army relies on your contribution.",
+        "pt": "[Cavaleiro de Croix]\nOs dois depósitos são conectados entre si por caminhos curtos e estreitos, mas os portões são bloqueados com barricadas.\nPense e mexa-se o mais rápido que puder. A vitória do seu exército depende da sua contribuição.",
+        "es": "[Caballero de Croix]\nEsos dos depósitos de raciones están conectados entre sí por caminos cortos y estrechos, pero las puertas están bloqueadas con barricadas.\nPiensa y muévete tan rápido como puedas. La victoria de tu ejército depende de tu contribución."
+    },
+    "1CgtBw": {
+        "en": "[Croix Knight]\nThe objective of the Flavius Battle is to score 2 points before your enemy by destroying their crystal.",
+        "pt": "[Cavaleiro de Croix]\nO objetivo da Batalha de Flavius é marcar 2 pontos antes do seu inimigo, destruindo seus cristais.",
+        "es": "[Caballero de Croix]\nEl objetivo de la Batalla Flavius es destruir el cristal de tu enemigo para conseguir 2puntos antes que él."
+    },
+    "1SgtBw": {
+        "en": "[Croix Knight]\nThe crystals for both armies are protected by special barricades that cannot be destroyed by direct attacks.",
+        "pt": "[Cavaleiro de Croix]\nOs cristais de ambos os exércitos são protegidos por barricadas especiais que não podem ser destruídas por ataques diretos.",
+        "es": "[Caballero de Croix]\nLos cristales de ambos ejércitos están protegidos por barricadas especiales que no se pueden destruir con ataques directos."
+    },
+    "1igtBw": {
+        "en": "[Croix Knight]\nBut they can be removed by destroying the Guardians that protect the enemy army base.",
+        "pt": "[Cavaleiro de Croix]\nMas elas podem ser removidas se você destruir os Guardiões que protegem a base do exército inimigo.",
+        "es": "[Caballero de Croix]\nPero pueden eliminarse destruyendo a los guardianes que protegen la base militar enemiga."
+    },
+    "1ygtBw": {
+        "en": "[Croix Knight]\nThe crystals are immune to every type of skill, your physical attacks are the only choice for destroying your enemy's crystal.",
+        "pt": "[Cavaleiro de Croix]\nOs cristais são imunes a qualquer tipo de habilidade; ataques físicos são a única escolha para destruir os cristais do inimigo.",
+        "es": "[Caballero de Croix]\nLos cristales son inmunes a todo tipo de habilidad, tus ataques físicos son la única opción para destruir el cristal de tu enemigo."
+    },
+    "2CgtBw": {
+        "en": "[Croix Knight]\nIf you are ready, start by clicking ^3131FFbattle button from the interface^000000!",
+        "pt": "[Cavaleiro de Croix]\nSe você estiver pronto, comece clicando no botão ^3131FFbattle da interface^000000!",
+        "es": "[Caballero de Croix]\n¡Para unirte, haz clic en el ^3131FFbotón de batalla de la interfaz^000000!"
+    },
+    "2SgtBw": {
+        "en": "[Croix Knight]\nPlease bear in mind once you cancel, ^3131FFreapplication cannot be made for 1 minute.^000000!",
+        "pt": "[Cavaleiro de Croix]\nLembre-se de que, depois de cancelar, ^3131FFnão será possível fazer uma nova solicitação por 1 minuto.^000000!",
+        "es": "[Caballero de Croix]\n¡Ten en cuenta que, una vez que canceles, ^3131FFno podrás volver a solicitar unirte durante 1minuto^000000!"
+    },
+    "2igtBw": {
+        "en": "Teleporter",
+        "pt": "Transportadora",
+        "es": "Teletransportador"
+    },
+    "2ygtBw": {
+        "en": "[Teleporter]\nDo you wish to leave the battlefield? Use my service to return to town.",
+        "pt": "[Transportadora]\nQuer deixar o campo de batalha? Use meu serviço para voltar à cidade.",
+        "es": "[Teletransportador]\n¿Quieres abandonar el campo de batalla? Usar mi servicio para volver a la ciudad."
+    },
+    "3CgtBw": {
+        "en": "Leave",
+        "pt": "Ir Embora",
+        "es": "Abandonar."
+    },
+    "3SgtBw": {
+        "en": "Don't Leave",
+        "pt": "Não Ir Embora",
+        "es": "No abandonar."
+    },
+    "3igtBw": {
+        "en": "[Teleporter]\nYou will be sent back to Prontera.",
+        "pt": "[Transportadora]\nVou mandar você de volta para Prontera.",
+        "es": "[Teletransportador]\nTe enviarán de vuelta a Prontera."
+    },
+    "3ygtBw": {
+        "en": "[Teleporter]\nYou will be sent back to Morroc.",
+        "pt": "[Transportadora]\nVou mandar você de volta para Morroc.",
+        "es": "[Teletransportador]\nTe enviarán de vuelta a Morroc."
+    },
+    "4CgtBw": {
+        "en": "[Teleporter]\nYou will be sent back to Aldebaran.",
+        "pt": "[Transportadora]\nVou mandar você de volta para Al de Baran.",
+        "es": "[Teletransportador]\nTe enviarán de vuelta a Aldebaran."
+    },
+    "4SgtBw": {
+        "en": "[Teleporter]\nYou will be sent back to Geffen.",
+        "pt": "[Transportadora]\nVou mandar você de volta para Geffen.",
+        "es": "[Teletransportador]\nTe enviarán de vuelta a Geffen."
+    },
+    "4igtBw": {
+        "en": "[Teleporter]\nYou will be sent back to Payon.",
+        "pt": "[Transportadora]\nVou mandar você de volta para Payon.",
+        "es": "[Teletransportador]\nTe enviarán de vuelta a Payon."
+    },
+    "4ygtBw": {
+        "en": "[Teleporter]\nYou will be sent back to Lighthalzen.",
+        "pt": "[Transportadora]\nVou mandar você de volta para Lighthalzen.",
+        "es": "[Teletransportador]\nTe enviarán de vuelta a Lighthalzen."
+    },
+    "5CgtBw": {
+        "en": "[Teleporter]\nYou will be sent back to Rachel.",
+        "pt": "[Transportadora]\nVou mandar você de volta para Rachel.",
+        "es": "[Teletransportador]\nTe enviarán de vuelta a Rachel."
+    },
+    "5SgtBw": {
+        "en": "[Teleporter]\nI'll be here whenever you're in need of my service.",
+        "pt": "[Transportadora]\nEstarei aqui se você precisar de meus serviços.",
+        "es": "[Teletransportador]\nEstaré aquí siempre que necesites mis servicios."
+    },
+    "5igtBw": {
+        "en": "Maroll Battle Recruiter",
+        "pt": "Emissária de Maroll",
+        "es": "Reclutador de Batalla Maroll"
+    },
+    "5ygtBw": {
+        "en": "[Maroll Battle Recruiter]\nGood day, adventurer.\nI'm a knight from a far country called Maroll Kingdom.",
+        "pt": "[Emissária de Maroll]\nBom dia, aventureiro.\nSou uma amazona de um país distante chamado Reino de Maroll.",
+        "es": "[Reclutadora de Maroll]\nBuenos días, trotamundos.\nSoy una Caballera de un país lejano llamado reino de Maroll."
+    },
+    "6CgtBw": {
+        "en": "[Maroll Battle Recruiter]\nThe two princes of the kingdom are now battling for the throne of Maroll, and are in need of experienced soldiers like you.\nHow would you like to lend your power to one of the princes in the Maroll Kingdom?",
+        "pt": "[Emissária de Maroll]\nOs dois príncipes do reino estão batalhando pelo trono, e precisam de soldados experientes como você.\nQuer colocar seu poder a serviço de um dos príncipes do Reino de Maroll?",
+        "es": "[Reclutadora de Maroll]\nLos dos príncipes del reino ahora luchan por el trono de Maroll y necesitan reclutas con experiencia como tú.\n¿Te gustaría prestar tu poder a uno de los príncipes del reino de Maroll?"
+    },
+    "6SgtBw": {
+        "en": "Join",
+        "pt": "Participar",
+        "es": "Unirse."
+    },
+    "6igtBw": {
+        "en": "Don't Join",
+        "pt": "Não Participar",
+        "es": "No unirse."
+    },
+    "6ygtBw": {
+        "en": "[Maroll Recruiter]\nMay the war god bless you.",
+        "pt": "[Emissária de Maroll]\nQue o deus da guerra o abençoe.",
+        "es": "[Reclutadora de Maroll]\nQue el dios de la guerra te bendiga."
+    },
+    "7CgtBw": {
+        "en": "[Maroll Battle Recruiter]\nI'll always be stationed here for more soldiers. Feel free to come back whenever you're interested.",
+        "pt": "[Emissária de Maroll]\nSempre estarei aqui, esperando por mais soldados. Fique à vontade para voltar, se você se interessar.",
+        "es": "[Reclutadora de Maroll]\nSiempre estaré aquí para más reclutas. No dudes en volver cuando quieras."
+    },
+    "7SgtBw": {
+        "en": "[Maroll Battle Recruiter]\nMay the war god bless you.",
+        "pt": "[Emissária de Maroll]\nQue o Deus da guerra o abençoe.",
+        "es": "[Reclutadora de Maroll]\nQue el dios de la guerra te bendiga."
+    },
+    "7igtBw": {
+        "en": "Repairman",
+        "pt": "Reparador",
+        "es": "Reparador"
+    },
+    "7ygtBw": {
+        "en": "[Repairman]\nHey traveler!\nDo you want me\nto repair any items?\nYou can count on me\nfor item repairs!",
+        "pt": "[Reparador]\nEi, viajante!\nQuer que eu\nconserte algum item?\nPode contar comigo\npara reparos de itens!",
+        "es": "[Reparador]\n¡Hola, viajero!\n¿Quieres que\nrepare algún objeto?\n¡Puedes contar conmigo\npara reparar cualquier objeto!"
+    },
+    "8CgtBw": {
+        "en": "Actually, I do have some items...",
+        "pt": "Na verdade, eu tenho alguns itens...",
+        "es": "Sí, tengo algunos objetos…"
+    },
+    "8SgtBw": {
+        "en": "None at the moment.",
+        "pt": "Nenhum no momento.",
+        "es": "No tengo ninguno por el momento."
+    },
+    "8igtBw": {
+        "en": "[Repairman]\nOh, wow. This is incredible!\nYou must take very good care\nof your things. Nothing looks\ndamaged to me!",
+        "pt": "[Reparador]\nOh, uau. Isso é incrível!\nVocê deve cuidar muito bem\nde suas coisas. Nada parece\ndanificado para mim!",
+        "es": "[Reparador]\nOh, vaya. ¡Esto es increíble!\nDebes cuidar mucho\ntus cosas. ¡No veo nada\ndañado!"
+    },
+    "8ygtBw": {
+        "en": "[Repairman]\nIf everyone is like you, I'm going to be unemployed soon!!\nHahahahaha~!",
+        "pt": "[Reparador]\nSe todo mundo for como você, vou ficar desempregado em breve!!!\nHahahahahaha~!",
+        "es": "[Reparador]\nSi todos son como tú, ¡me quedaré sin trabajo pronto!\n¡Ja, ja, ja, ja!"
+    },
+    "9CgtBw": {
+        "en": "[Repairman]\nHmm...\nLet's see...\nOut of all your items,\n{0} are damaged.",
+        "pt": "[Reparador]\nHmm...\nVamos ver...\nDe todos os seus itens,\n{0} está danificado.",
+        "es": "[Reparador]\nMmm…\nVeamos…\nDe todos tus artículos,\n{0} están dañados."
+    },
+    "9SgtBw": {
+        "en": "[Repairman]\nNow each repair costs 5000 Zeny, so to repair everything would cost {0} Zeny. Would you like to repair these items?",
+        "pt": "[Reparador]\nAgora, cada reparo custa 5000 Zeny, portanto, reparar tudo custaria {0} Zeny. Gostaria de consertar esses itens?",
+        "es": "[Reparador]\nBien, cada reparación cuesta 5000zeny, así que reparar todo costaría {0}zeny. ¿Te gustaría reparar estos artículos?"
+    },
+    "9igtBw": {
+        "en": "[Repairman]\nHmmm...\nYou need to check\nyour wallet more\noften. I can't repair\nanything if you can't\npay me for my service!",
+        "pt": "[Reparador]\nHmmm...\nVocê precisa verificar\nsua carteira com mais\nfrequência. Não posso consertar\nnada se você não puder\nme pagar pelo meu serviço!",
+        "es": "[Reparador]\nMmmm…\nDebes revisar\ntu billetera\nmás a menudo. ¡No puedo reparar\nnada si no puedes\npagar mi servicio!"
+    },
+    "9ygtBw": {
+        "en": "[Repairman]\nOk! All done.\nBe a little more careful.\nItems have lives too you know..",
+        "pt": "[Reparador]\nOk! Tudo pronto.\nSeja um pouco mais cuidadoso.\nOs itens também têm vida, você sabe...",
+        "es": "[Reparador]\n¡Está bien! Todo listo.\nTen un poco más de cuidado.\nLos objetos también tienen vida, ¿sabes?"
+    },
+    "+CgtBw": {
+        "en": "[Repairman]\nMmm...?\nSomething's wrong.\nEquip the items you\nneed repaired and\ncome back.",
+        "pt": "[Reparador]\nMmm...?\nAlguma coisa está errada.\nEquipe os itens que você\nprecisa consertar e\nvolte.",
+        "es": "[Reparador]\n¿Mmm…?\nAlgo está mal.\nEquipa los objetos\nque necesitas reparar\ny vuelve."
+    },
+    "+SgtBw": {
+        "en": "[Repairman]\nHmm...\nIt doesn't matter to me, but it's not good to leave items damaged. You should get them repaired as soon as possible!",
+        "pt": "[Reparador]\nHmm...\nNão importa para mim, mas não é bom deixar os itens danificados. Você deve consertá-los o mais rápido possível!",
+        "es": "[Reparador]\nMmm…\nA mí no me importa, pero no está bien dejar los objetos rotos. ¡Debes repararlos lo antes posible!"
+    },
+    "+igtBw": {
+        "en": "[Repairman]\nHohoho...\nYou don't have any\nbusiness with me\nif you've no items\nthat need repair.",
+        "pt": "[Reparador]\nHohoho...\nVocê não tem nenhum\nnegócio comigo\nse não tiver nenhum item\nque precise de reparo.",
+        "es": "[Reparador]\nJo, jo, jo, jo…\nNo podemos hacer\nnegocios\nsi no tienes objetos\npara reparar."
+    }
+}

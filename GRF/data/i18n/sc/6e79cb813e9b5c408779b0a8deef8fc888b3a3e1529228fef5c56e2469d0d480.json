@@ -1,0 +1,712 @@
+{
+    "QLcoAw": {
+        "en": "Lobby Staff",
+        "pt": "Equipe do saguão",
+        "es": "Personal del vestíbulo"
+    },
+    "QbcoAw": {
+        "en": "Training Ground",
+        "pt": "Campo de treinamento",
+        "es": "Campo de entrenamiento"
+    },
+    "QrcoAw": {
+        "en": "Hitman",
+        "pt": "Assassino",
+        "es": "Hitman"
+    },
+    "Q7coAw": {
+        "en": "[Hitman]\nUrrgghh...\nI can't... move...\nWhat... did you do to me...?",
+        "pt": "[Assassino]\nUrrgghh...\nNão consigo... me mexer...\nO que... você fez comigo...?",
+        "es": "[Sicario]\nArgh…\nNo puedo… moverme…\n¿Qué… me hiciste…?"
+    },
+    "RLcoAw": {
+        "en": "[Haijara Greg]\nYes! That's\nthe ^4D4DFFClose Confine^000000 you came for!",
+        "pt": "[Haijara Greg]\nIsso! Esse é\no ^4D4DFFConfinamento^000000 que você veio buscar!",
+        "es": "[Haijara Greg]\n¡Sí! ¡Ese es\nel ^4D4DFFConfinamiento^000000 que estabas buscando!"
+    },
+    "RbcoAw": {
+        "en": "[Haijara Greg]\nWhen the hitman moves to the left, white!\nTo the right, yellow!\nTo the rear, red!\nThat's the color of his aura that changes as he moves. Now,\nyour ^4D4DFFClose Confine^000000 is perfect.\nPlease retrieve the secret book from him.",
+        "pt": "[Haijara Greg]\nQuando o assassino se move para a esquerda, branco!\nPara a direita, amarelo!\nPara trás, vermelho!\nEssa é a cor da aura dele que muda conforme ele se move. Agora,\nseu ^4D4DFFConfinamento^000000 está perfeito.\nPegue o livro secreto dele.",
+        "es": "[Haijara Greg]\nCuando el sicario se mueve a la izquierda, ¡blanco!\nA la derecha, ¡amarillo!\nAtrás, ¡rojo!\nEs el color de su aura que cambia cuando se mueve. Bien,\ntu ^4D4DFFConfinamiento^000000 es perfecto.\nPídele el libro secreto."
+    },
+    "RrcoAw": {
+        "en": "Block left.",
+        "pt": "Bloqueio à esquerda.",
+        "es": "Bloquear a la izquierda."
+    },
+    "R7coAw": {
+        "en": "Block right.",
+        "pt": "Bloqueio à direita.",
+        "es": "Bloquear a la derecha."
+    },
+    "SLcoAw": {
+        "en": "Block rear.",
+        "pt": "Bloqueio atrás.",
+        "es": "Bloquear atrás."
+    },
+    "SbcoAw": {
+        "en": "Blocking succeeded!",
+        "pt": "O bloqueio foi bem-sucedido!",
+        "es": "¡El bloqueo funcionó!"
+    },
+    "SrcoAw": {
+        "en": "Blocking failed.",
+        "pt": "O bloqueio falhou.",
+        "es": "El bloqueo falló."
+    },
+    "S7coAw": {
+        "en": "[Hitman]\nGrr... Grrgghh...\n^0000FF=== Obtained Taekbae Chae's secret book. ===^000000",
+        "pt": "[Assassino]\nGrr... Grrgghh...\n^0000FF=== Obteve o livro secreto de Taekbae Chae. ===^000000",
+        "es": "[Sicario]\nGrrr… Grrrrr…\n^0000FF(Obtuviste el libro secreto de Taekbae Chae).^000000"
+    },
+    "TLcoAw": {
+        "en": "[Hitman]\nGrr... Grrgghh...\nUgh...",
+        "pt": "[Assassino]\nGrr... Grrgghh...\nUgh...",
+        "es": "[Sicario]\nGrrr… Grrrrr…\nUf…"
+    },
+    "TbcoAw": {
+        "en": "Haijara Greg",
+        "pt": "Haijara Greg",
+        "es": "Haijara Greg"
+    },
+    "TrcoAw": {
+        "en": "[Haijara Greg]\nYou couldn't free yourself\nfrom the fetters of Transcendence.\nOr you loved being a Rogue too much.\nEither way, here's the skill you learned before.",
+        "pt": "[Haijara Greg]\nVocê não conseguiu se libertar\ndos grilhões da Transcendência.\nOu gostava demais de fazer parte dos Arruaceiros.\nDe qualquer forma, aqui está a habilidade que você aprendeu antes.",
+        "es": "[Haijara Greg]\nNo pudiste liberarte\nde las cadenas de la Trascendencia.\nO te gustaba demasiado ser Pícaro.\nEn cualquier caso, aquí tienes la habilidad que aprendiste antes."
+    },
+    "T7coAw": {
+        "en": "[Haijara Greg]\nHow do you like your new skill?\nIt's useful, isn't it?",
+        "pt": "[Haijara Greg]\nO que acha da nova habilidade?\nÉ útil, não é?",
+        "es": "[Haijara Greg]\n¿Qué te parece tu nueva habilidad?\nEs útil, ¿no?"
+    },
+    "ULcoAw": {
+        "en": "[Haijara Greg]\nA stalker...\nDo you...\nlike me that much?",
+        "pt": "[Haijara Greg]\nUm dos desordeiros...\nVocê...\ngosta tanto assim de mim?",
+        "es": "[Haijara Greg]\nUn perseguidor…\n¿Tú…?\n¿Tanto me estimas?"
+    },
+    "UbcoAw": {
+        "en": "[Haijara Greg]\nPerhaps people are right about\na treasure having\nits destined owner.\nPerhaps I was too greedy for my own good.",
+        "pt": "[Haijara Greg]\nTalvez as pessoas estejam certas sobre\num tesouro ter um\ndono destinado.\nTalvez eu tenha deixado a ganância tomar conta demais para o meu próprio bem.",
+        "es": "[Haijara Greg]\nQuizás es cierto lo que dicen,\nque los tesoros tienen\nun dueño predestinado.\nTal vez me dejé llevar por la avaricia."
+    },
+    "UrcoAw": {
+        "en": "[Haijara Greg]\nWho are you?\nHow did you find this room?\nWhere did you come from?\nWhy do you persecute me like this?\nIdentify yourself!",
+        "pt": "[Haijara Greg]\nQuem é você?\nComo encontrou esta sala?\nDe onde você veio?\nPor que está me perseguindo assim?\nIdentifique-se!",
+        "es": "[Haijara Greg]\n¿Quién eres?\n¿Cómo encontraste esta sala?\n¿De dónde saliste?\n¿Por qué me persigues así?\n¡Identifícate!"
+    },
+    "U7coAw": {
+        "en": "I have nothing to do with them.",
+        "pt": "Não tenho nada a ver com eles.",
+        "es": "No tengo nada que ver con ellos."
+    },
+    "VLcoAw": {
+        "en": "Hah hah. You know what I want.",
+        "pt": "Haha. Você sabe o que eu quero.",
+        "es": "Ja, ja. Ya sabes lo que quiero."
+    },
+    "VbcoAw": {
+        "en": "[Haijara Greg]\nOkay, then why are you here?",
+        "pt": "[Haijara Greg]\nTá, então por que você está aqui?",
+        "es": "[Haijara Greg]\nBueno, pero entonces, ¿por qué estás aquí?"
+    },
+    "VrcoAw": {
+        "en": "I came to help.",
+        "pt": "Eu vim para ajudar.",
+        "es": "Vine a ayudar."
+    },
+    "V7coAw": {
+        "en": "I'm just passing by.",
+        "pt": "Só estou de passagem.",
+        "es": "Solo pasaba por aquí."
+    },
+    "WLcoAw": {
+        "en": "[Haijara Greg]\nOh... Thank you.\nA while ago, I've discovered a secret book of\nthe legendary Rogue, Taekbae Chae.\nIt contained an even bigger secret.\nHave you heard of Taekbae Chae?",
+        "pt": "[Haijara Greg]\nAh... Obrigado.\nHá algum tempo, descobri um livro secreto\ndo arruaceiro lendário Taekbae Chae.\nEle continha um segredo ainda maior.\nVocê já ouviu falar de Taekbae Chae?",
+        "es": "[Haijara Greg]\nOh… Gracias.\nHace un tiempo, descubrí un libro secreto\ndel legendario Pícaro Taekbae Chae.\nContenía un secreto aún más grande.\n¿Oíste hablar de Taekbae Chae?"
+    },
+    "WbcoAw": {
+        "en": "No.",
+        "pt": "Não.",
+        "es": "No."
+    },
+    "WrcoAw": {
+        "en": "Yes.",
+        "pt": "Sim.",
+        "es": "Sí."
+    },
+    "W7coAw": {
+        "en": "[Haijara Greg]\nTaekbae Chae existed a hundred years ago.\nHe was the very first Transcendent\nwho freed himself from the fetters of rebirth. At that time,\neveryone who Transcended kept their original job and skills\nbecause that was the norm.\nTaekbae, not only did he refuse to conform, but he also changed the whole dynamic.",
+        "pt": "[Haijara Greg]\nTaekbae Chae existiu há cem anos.\nEle foi o primeiro transcendental\nque se libertou dos grilhões do renascimento. Naquela época,\ntodos que transcendiam mantinham a classe e as habilidades originais\nporque esta era a norma.\nTaekbae não apenas se recusou a se conformar, mas também mudou toda a dinâmica.",
+        "es": "[Haijara Greg]\nTaekbae Chae existió hace cien años.\nFue el primer Trascendente\nque se liberó de las cadenas del renacimiento. En ese momento,\ntodos los que Trascendieron mantuvieron su clase y sus habilidades originales\nporque esa era la norma.\nTaekbae no solo se negó a obedecer, sino que cambió toda la dinámica."
+    },
+    "XLcoAw": {
+        "en": "[Haijara Greg]\nHe was a monk before Transcendence.\nWhen he Transcended, he became a Rogue.\nAnd he didn't just use the Rogue skills like other Rogues did.\nHe combined his traits as a Rogue with Root.\nNot just the ordinary Root, either.\nIt was an upgraded one.",
+        "pt": "[Haijara Greg]\nEle era um monge antes da Transcendência.\nQuando transcendeu, virou Arruaceiro.\nE não só usou as habilidades de Arruaceiro como os outros Arruaceiros faziam.\nEle combinou as características de Arruaceiro com Dilema.\nE não era só o Dilema comum.\nEra um melhorado.",
+        "es": "[Haijara Greg]\nEra monje antes de la Trascendencia.\nCuando trascendió, se convirtió en Pícaro.\nSin embargo, no usaba las habilidades de Pícaro como los otros Pícaros.\nCombinaba sus rasgos de Pícaro con los de Raíz.\nY no solo la Raíz ordinaria.\nUna mejorada."
+    },
+    "XbcoAw": {
+        "en": "[Haijara Greg]\nHis secret was written in his book that I'd found,\nso I taught it to my three sons.\nThat was when threats began.\nAh, I don't have time to talk right now.\nCould you please help me protect my sons,\nprotect myself?",
+        "pt": "[Haijara Greg]\nO segredo dele estava escrito no livro que eu havia encontrado,\nentão eu o ensinei aos meus três filhos.\nFoi quando começaram as ameaças.\nAh, não tenho tempo para falar agora.\nVocê pode me ajudar a proteger meus filhos\ne a mim?",
+        "es": "[Haijara Greg]\nSu secreto estaba escrito en el libro que yo encontré,\nasí que se lo enseñé a mis tres hijos.\nFue entonces cuando comenzaron las amenazas.\nAh, no tengo tiempo para hablar ahora.\n¿Podrías ayudarme a proteger a mis hijos?\n¿A protegerme a mí?"
+    },
+    "XrcoAw": {
+        "en": "Absolutely!",
+        "pt": "Com certeza!",
+        "es": "¡Claro que sí!"
+    },
+    "X7coAw": {
+        "en": "Sorry, I'm too busy right now.",
+        "pt": "Desculpe, tenho muita coisa para fazer agora.",
+        "es": "Lo siento, ahora no tengo tiempo."
+    },
+    "YLcoAw": {
+        "en": "[Haijara Greg]\nThank you. Then, please deliver this letter\nto my youngest, ^FF0000Louis Greg^000000.\n^0000FF=== Received Haijara Greg's letter. ===^000000",
+        "pt": "[Haijara Greg]\nObrigado. Então, entregue esta carta\npara meu filho mais novo, ^FF0000Louis Greg^000000.\n^0000FF=== Recebeu a carta de Haijara Greg. ===^000000",
+        "es": "[Haijara Greg]\nGracias. En ese caso, entrégale esta carta\na mi hijo menor, ^FF0000Louis Greg^000000.\n^0000FF(Recibiste la carta de Haijara Greg).^000000"
+    },
+    "YbcoAw": {
+        "en": "[Haijara Greg]\nThen, I'll talk to you later.",
+        "pt": "[Haijara Greg]\nFalarei com você mais tarde.",
+        "es": "[Haijara Greg]\nBien, hablaremos más tarde."
+    },
+    "YrcoAw": {
+        "en": "[Haijara Greg]\nTaekbae Chae's secret skill was written in his book that I'd found,\nso I taught it to my three sons.\nThat was when threats began.\nAh, I don't have time to talk right now.\nCould you help all my three sons\nprotect myself?",
+        "pt": "[Haijara Greg]\nA habilidade secreta de Taekbae Chae estava escrita no livro\nque eu havia encontrado, então eu a ensinei aos meus três filhos.\nFoi quando começaram as ameaças.\nAh, não tenho tempo para falar agora.\nVocê pode ajudar meus três filhos\na me protegerem?",
+        "es": "[Haijara Greg]\nLa habilidad secreta de Taekbae Chae estaba escrita en el libro que yo encontré,\nasí que se lo enseñé a mis tres hijos.\nFue entonces cuando comenzaron las amenazas.\nAh, no tengo tiempo para hablar ahora.\n¿Podrías ayudar a mis tres hijos?\n¿A protegerme a mí?"
+    },
+    "Y7coAw": {
+        "en": "[Haijara Greg]\n^00FF00=== C l o s e  C o n f i n e ===^000000",
+        "pt": "[Haijara Greg]\n^00FF00=== C o n f i n a m e n t o ===^000000",
+        "es": "[Haijara Greg]\n^00FF00-C o n f i n a m i e n t o-^000000"
+    },
+    "ZLcoAw": {
+        "en": "[Haijara Greg]\n^00FF00=== B a c k   S t a b===^000000",
+        "pt": "[Haijara Greg]\n^00FF00=== A p u n h a l a r ===^000000",
+        "es": "[Haijara Greg]\n^00FF00-P u ñ a l a d a   p o r   l a   e s p a l d a-^000000"
+    },
+    "ZbcoAw": {
+        "en": "[Haijara Greg]\nI'll stop here.\nDon't ever show up again!",
+        "pt": "[Haijara Greg]\nVou parar por aqui.\nNunca mais apareça!",
+        "es": "[Haijara Greg]\nAhora me detendré.\n¡No vuelvas por aquí!"
+    },
+    "ZrcoAw": {
+        "en": "[Haijara Greg]\nWe don't have time.\nPlease deliver my letter to my youngest,\n^FF0000Louis^000000.\n^FF0000Louis^000000 is near Hollgrehenn Jr.\nin the Rogue Guild.",
+        "pt": "[Haijara Greg]\nNão temos tempo.\nEntregue minha carta ao meu filho mais novo,\n^FF0000Louis^000000.\n^FF0000Louis^000000 está perto de Holgrehen Jr.\nna Guilda dos Arruaceiros.",
+        "es": "[Haijara Greg]\nNo tenemos tiempo.\nPor favor, entrégale mi carta a mi hijo menor,\n^FF0000Louis^000000.\n^FF0000Louis^000000 está cerca de Hollgrehenn Jr.\nen el gremio de Pícaros."
+    },
+    "Z7coAw": {
+        "en": "[Haijara Greg]\n^FF0000Thor^000000 is next to Hermanthorn Jr.",
+        "pt": "[Haijara Greg]\n^FF0000Thor^000000 está ao lado de Hermanthorn Jr.",
+        "es": "[Haijara Greg]\n^FF0000Thor^000000 está junto a Hermanthorn Jr."
+    },
+    "aLcoAw": {
+        "en": "[Haijara Greg]\n^FF0000Jay^000000 is next to Antonio Jr.\nin the Guild.",
+        "pt": "[Haijara Greg]\n^FF0000Jay^000000 está ao lado de Antônio Jr.\nna Guilda.",
+        "es": "[Haijara Greg]\n^FF0000Jay^000000 está junto a Antonio Jr.\nen el gremio."
+    },
+    "abcoAw": {
+        "en": "^0000FF=== Delivered Jay Greg's letter. ===^000000",
+        "pt": "^0000FF=== Entregou a carta de Jay Greg. ===^000000",
+        "es": "^0000FF(Entregaste la carta de Jay Greg).^000000"
+    },
+    "arcoAw": {
+        "en": "[Haijara Greg]\nWhew, now that all my three sons know\nthe situation, I can take\na breather. Thank you.\nThe Guild will take care of the rest.\nI even wrote this in my letter, but\nI'm very grateful for your help.",
+        "pt": "[Haijara Greg]\nUfa, agora que todos os meus três filhos sabem\nda situação, posso descansar\num pouco. Obrigado.\nA Guilda cuidará do resto.\nEu até escrevi isso na carta, mas\nsou muito grato pela sua ajuda.",
+        "es": "[Haijara Greg]\nUf, ahora que mis tres hijos conocen\nla situación, puedo tomar\nun respiro. Gracias.\nEl gremio se encargará del resto.\nIncluso escribí esto en mi carta,\npero estoy muy agradecido por tu ayuda."
+    },
+    "a7coAw": {
+        "en": "[Haijara Greg]\nIf it weren't for you, something terrible\ncould have happened to me and my sons.\nI'd like to offer you a chance to learn Taekbae's skill.\nIf you're interested, please visit ^FF0000Thor^000000.",
+        "pt": "[Haijara Greg]\nSe não fosse por você, algo terrível\npoderia ter acontecido comigo e com meus filhos.\nQuero lhe oferecer a chance de aprender a habilidade de Taekbae.\nSe tiver interesse, fale com ^FF0000Thor^000000.",
+        "es": "[Haijara Greg]\nSi no fuera por ti, algo terrible\npodría habernos pasado a mí y a mis hijos.\nMe gustaría ofrecerte la oportunidad de aprender la habilidad de Taekbae.\nSi te interesa, visita a ^FF0000Thor^000000."
+    },
+    "bLcoAw": {
+        "en": "[Haijara Greg]\nIf you want to learn Taekbae's skill, please visit ^FF0000Thor^000000.",
+        "pt": "[Haijara Greg]\nSe você quiser aprender a habilidade de Taekbae, fale com ^FF0000Thor^000000.",
+        "es": "[Haijara Greg]\nSi quieres aprender la habilidad de Taekbae, visita a ^FF0000Thor^000000."
+    },
+    "bbcoAw": {
+        "en": "[Haijara Greg]\nWhat are you doing here?\nShouldn't you be in the training ground?\nCome on, go back to ^FF0000Thor^000000.",
+        "pt": "[Haijara Greg]\nO que está fazendo aqui?\nVocê não deveria estar no campo de treinamento?\nVamos, fale com ^FF0000Thor^000000.",
+        "es": "[Haijara Greg]\n¿Qué haces aquí?\n¿No deberías estar en el campo de entrenamiento?\nVamos, vuelve con ^FF0000Thor^000000."
+    },
+    "brcoAw": {
+        "en": "[Haijara Greg]\nWow, you're something else!\nI can't believe how quickly you've learned that skill!\nPlease talk to ^FF0000Thor^000000, and then come back to me.",
+        "pt": "[Haijara Greg]\nUau, você é demais!\nNão acredito em como aprendeu esta habilidade depressa!\nFale com ^FF0000Thor^000000 e depois volte até mim.",
+        "es": "[Haijara Greg]\n¡Vaya, eres genial!\n¡No puedo creer lo rápido que aprendiste esa habilidad!\nHabla con ^FF0000Thor^000000 y luego vuelve a verme."
+    },
+    "b7coAw": {
+        "en": "[Haijara Greg]\nAh, welcome back!\nGood job! Now, let me tell you more--*Gasp!* Ugh!\nThe secret book!",
+        "pt": "[Haijara Greg]\nAh, boas-vindas de volta!\nBom trabalho! Agora, vou te contar mais... *Gasp!* Ugh!\nO livro secreto!",
+        "es": "[Haijara Greg]\n¡Ah, hola de nuevo!\n¡Buen trabajo! Déjame decirte algo más… *Jadea* ¡Uf!\n¡El libro secreto!"
+    },
+    "cLcoAw": {
+        "en": "[Haijara Greg]\nTh-that hitman...\nHe stole my book...",
+        "pt": "[Haijara Greg]\nAquele assassino...\nEle roubou meu livro...",
+        "es": "[Haijara Greg]\nEse sicario…\nMe robó el libro…"
+    },
+    "cbcoAw": {
+        "en": "^0000FF=== Delivered Taekbae Chae's secret book. ===^000000",
+        "pt": "^0000FF=== Entregou o livro secreto de Taekbae Chae. ===^000000",
+        "es": "^0000FF(Entregaste el libro secreto de Taekbae Chae).^000000"
+    },
+    "crcoAw": {
+        "en": "[Haijara Greg]\nNow that you've learned Taekbae's skill,\nmaybe you can transcend the fetters of rebirth,\njust like he did.\nWhat I have to tell you is about the effect of\nhis skill, and it's a bit long.\nWould you be interested in listening?",
+        "pt": "[Haijara Greg]\nAgora que você aprendeu a habilidade de Taekbae,\ntalvez possa transcender os grilhões do renascimento,\nassim como ele fez.\nO que tenho a lhe dizer é sobre o efeito da\nhabilidade dele e é meio longo.\nTem interesse em ouvir?",
+        "es": "[Haijara Greg]\nAhora que aprendiste la habilidad de Taekbae,\ntal vez puedas trascender las cadenas del renacimiento,\ncomo lo hizo él.\nLo que tengo que decirte es sobre el efecto\nde su habilidad, y es un poco largo.\n¿Te interesa escucharlo?"
+    },
+    "c7coAw": {
+        "en": "Sure.",
+        "pt": "Claro.",
+        "es": "Claro."
+    },
+    "dLcoAw": {
+        "en": "[Haijara Greg]\nSince you already know ^4D4DFFClose Confine^000000 is\na movement-blocking skill,\nI'll explain its effect for two different types of enemies:\npeople and monsters.",
+        "pt": "[Haijara Greg]\nComo você já sabe que ^4D4DFFConfinamento^000000 é\numa habilidade de bloqueio de movimento,\nvou explicar o efeito para dois tipos diferentes de inimigos:\npessoas e monstros.",
+        "es": "[Haijara Greg]\nComo ya sabes que ^4D4DFFConfinamiento^000000 es\nuna habilidad de bloqueo de movimiento,\nte explicaré su efecto en dos tipos diferentes de enemigos:\npersonas y monstruos."
+    },
+    "dbcoAw": {
+        "en": "[Haijara Greg]\nFirst, you may think differently of this,\nbut in my opinion, the current Rogue skills\nthat are popular for anti-personnel combat\nand the War of Emperium are the Divestment ones.\nBut if this skill that's similar to Root,\n^4D4DFFClose Confine^000000, is introduced to the world,",
+        "pt": "[Haijara Greg]\nPrimeiro, você pode ter outra opinião,\nmas, pra mim, as habilidades atuais de Arruaceiro\nque são populares para o combate antipessoal\ne na Guerra do Emperium são as de Remoção.\nMas se essa habilidade que é semelhante a Dilema,\n^4D4DFFConfinamento^000000, for introduzida ao mundo,",
+        "es": "[Haijara Greg]\nEn primer lugar, es posible que pienses de otra manera,\npero, en mi opinión, las habilidades actuales de Pícaro\nque son populares para el combate antipersonal\ny la Guerra del Emperium son las de Despojo.\nPero si esta habilidad que es similar a Raíz,\n^4D4DFFConfinamiento^000000, se presenta al mundo,"
+    },
+    "drcoAw": {
+        "en": "[Haijara Greg]\nit'll instantly give the reputation of us Rogues\na huge boost.\nIn case you're wondering why I'm so sure\ndespite the striking similarities between Root and Close Confine,\nI'll have you know\nthere are huge differences.",
+        "pt": "[Haijara Greg]\nisso dará instantaneamente à reputação\ndos Arruaceiros um grande impulso.\nCaso esteja se perguntando por que tenho tanta certeza\napesar das semelhanças impressionantes entre Dilema e Confinamento,\nquero que saiba que\nhá grandes diferenças.",
+        "es": "[Haijara Greg]\nal instante le dará a la reputación de los Pícaros\nun gran impulso.\nSi te estás preguntando por qué estoy tan seguro\na pesar de las sorprendentes similitudes entre Raíz y Confinamiento,\ndéjame decirte\nque hay diferencias enormes."
+    },
+    "d7coAw": {
+        "en": "[Haijara Greg]\nYes, ^4D4DFFClose Confine^000000 and Root\nare similar, but definitely different.\nFirst, while Root only stops\nenemies from attacking,\nClose Confine blocks\ntheir movement itself.",
+        "pt": "[Haijara Greg]\nSim, ^4D4DFFConfinamento^000000 e Dilema\nsão semelhantes, mas definitivamente diferentes.\nPrimeiro, enquanto Dilema só impede os\ninimigos de atacar,\nConfinamento bloqueia\no movimento deles.",
+        "es": "[Haijara Greg]\nSí, ^4D4DFFConfinamiento^000000 y Raíz\nson similares, pero también son diferentes.\nEn primer lugar, mientras que Raíz solo impide\nque los enemigos ataquen,\nConfinamiento bloquea\nsus movimientos."
+    },
+    "eLcoAw": {
+        "en": "[Haijara Greg]\nIt doesn't matter if the target was attacking at that time or not.\nClose Confine creates a chance of completely\nblocking its movement,\nso it has no choice but to stay within your reach.",
+        "pt": "[Haijara Greg]\nNão importa se o alvo estava atacando no momento ou não.\nConfinamento cria uma chance de bloquear\ncompletamente o movimento do alvo,\nportanto, ele não tem escolha a não ser ficar ao seu alcance.",
+        "es": "[Haijara Greg]\nNo importa si el objetivo estaba atacando en ese momento o no.\nConfinamiento genera la posibilidad\nde bloquear completamente su movimiento,\npor lo que no tiene más remedio que permanecer a tu alcance."
+    },
+    "ebcoAw": {
+        "en": "[Haijara Greg]\nOf course, Close Confine can't stop the effects of the Fly or Butterfly Wing,\nTeleport, Hiding, or a Knockback attack,\nbut during the War of Emperium,\nHiding is only allowed as far as the skills are concerned.\nThat is, Close Confine is especially useful\nduring WoE.",
+        "pt": "[Haijara Greg]\nClaro, Confinamento não pode impedir os efeitos de Asa de Borboleta ou Mosca,\nTeleporte, Esconderijo ou um ataque de Repulsão,\nmas, durante a Guerra do Emperium,\nEsconderijo só é permitido no que diz respeito às habilidades.\nOu seja, Confinamento é especialmente útil\ndurante a Guerra do Emperium.",
+        "es": "[Haijara Greg]\nClaro que Confinamiento no puede detener los efectos de un Ala de mosca o un Ala de mariposa,\nTeletransporte, Ocultamiento o un ataque de Empujón,\npero, durante la Guerra del Emperium,\nOcultamiento solo se permite en lo que respecta a las habilidades.\nEs decir, Confinamiento es especialmente útil\ndurante la GdE."
+    },
+    "ercoAw": {
+        "en": "[Haijara Greg]\nAlso, ^4D4DFFClose Confine^000000 doesn't block\nskill use. Both you and your enemies\ncan use skills while they're immobilized.\nOh, but as for Back Stab,\nyou can only use that skill once during the other.",
+        "pt": "[Haijara Greg]\nAlém disso, ^4D4DFFConfinamento^000000 não bloqueia o\nuso de habilidade. Tanto você quanto os inimigos\npodem usar habilidades enquanto estão imobilizados.\nAh, mas quanto a Apunhalar,\nvocê só pode usar essa habilidade uma vez durante a outra.",
+        "es": "[Haijara Greg]\nAdemás, ^4D4DFFConfinamiento^000000 no bloquea\nel uso de las habilidades. Tanto tú como tus enemigos\npueden usar habilidades mientras están inmovilizados.\nAh, pero en cuanto a Puñalada por la espalda,\nsolo puedes usar esa habilidad una vez durante la otra."
+    },
+    "e7coAw": {
+        "en": "[Haijara Greg]\nWith Close Confine,\nyou can immobilize enemies,\nfollow it with the Divestment skills,\nand attack them freely\nand with your allies.\nThat sounds exhilarating, doesn't it?",
+        "pt": "[Haijara Greg]\nCom Confinamento,\nvocê pode imobilizar inimigos,\nusar habilidades de Remoção,\ne atacá-los livremente\ne com seus aliados.\nEmocionante, não é?",
+        "es": "[Haijara Greg]\nCon Confinamiento,\npuedes inmovilizar a los enemigos,\nseguir con las habilidades de Despojo\ny atacarlos libremente\njunto con tus aliados.\nSuena emocionante, ¿verdad?"
+    },
+    "fLcoAw": {
+        "en": "[Haijara Greg]\nAnd second, Close Confine can also be useful\nwhen you encounter\na formidable monster. Except for the Bosses,\nit can immobilize any monster\nfor 10 seconds,\ncontributing to your party's dependency on you.",
+        "pt": "[Haijara Greg]\nE segundo, Confinamento também\npode ser útil ao encontrar\num monstro formidável. Com exceção dos chefes,\nele pode imobilizar qualquer monstro\npor 10 segundos,\ncontribuindo para a dependência de seu grupo em relação a você.",
+        "es": "[Haijara Greg]\nEn segundo lugar, Confinamiento también puede ser útil\ncuando te encuentres\ncon un monstruo formidable. Salvo por los jefes,\npuedes inmovilizar a cualquier monstruo\ndurante 10 segundos,\nlo que contribuye a que tu equipo dependa de ti."
+    },
+    "fbcoAw": {
+        "en": "[Haijara Greg]\nThere are many more things I'd love to tell you,\nbut I'm sure you can figure them out\non your own by experimenting with the skill.\nNow, I'm done. Good job\nlearning that skill. I look forward to\nseeing you become a legend one day.",
+        "pt": "[Haijara Greg]\nHá muito mais coisas que eu gostaria de contar,\nmas tenho certeza de que você pode descobri-las\npor conta própria, experimentando a habilidade.\nAgora, terminei. Parabéns por\naprender essa habilidade. Mal posso esperar para\nver você se tornar uma lenda um dia.",
+        "es": "[Haijara Greg]\nMe encantaría contarte muchas cosas más,\npero estoy seguro de que puedes descubrirlas\npor tu cuenta experimentando con la habilidad.\nBien, terminé. Te felicito\npor aprender esa habilidad. Espero\nque te conviertas en una leyenda algún día."
+    },
+    "frcoAw": {
+        "en": "[Haijara Greg]\nYou've learned this skill. Experiment with it\nto figure out how to use it effectively.",
+        "pt": "[Haijara Greg]\nVocê aprendeu essa habilidade. Faça experiências com ela\npara descobrir como usá-la de forma eficaz.",
+        "es": "[Haijara Greg]\nYa aprendiste esta habilidad. Practícala\npara saber cómo usarla eficazmente."
+    },
+    "f7coAw": {
+        "en": "[Haijara Greg]\nThank you for your help last time.\nGood luck transcending the fetters of rebirth.",
+        "pt": "[Haijara Greg]\nAgradeço pela ajuda na última vez.\nBoa sorte ao transcender os grilhões do renascimento.",
+        "es": "[Haijara Greg]\nGracias por tu ayuda la última vez.\nBuena suerte trascendiendo las cadenas del renacimiento."
+    },
+    "gLcoAw": {
+        "en": "[Haijara Greg]\nSomebody please...\nSend me a Rogue. I beg of you.",
+        "pt": "[Haijara Greg]\nAlguém, por favor...\nMe mande um Arruaceiro. Eu imploro.",
+        "es": "[Haijara Greg]\nAlguien, por favor…\nEnvíenme un Pícaro. Se los ruego."
+    },
+    "gbcoAw": {
+        "en": "Louis Greg",
+        "pt": "Louis Greg",
+        "es": "Louis Greg"
+    },
+    "grcoAw": {
+        "en": "[Louis Greg]\n^FF0000Dad^000000 disappeared\nwhile teaching me and my brothers\nthe new Rogue skill.\nHe looked so pleased to teach us...\nI think he's in the hidden room\nsomewhere in the Rogue Guild.",
+        "pt": "[Louis Greg]\nMeu ^FF0000pai^000000 desapareceu\nenquanto ensinava a mim e aos meus irmãos\na nova habilidade de Arruaceiro.\nEle parecia tão feliz em nos ensinar...\nAcho que ele está em uma sala escondida\nem algum lugar da Guilda dos Arruaceiros.",
+        "es": "[Louis Greg]\n^FF0000Papá^000000 desapareció \nmientras nos enseñaba a mis hermanos y a mí \nla nueva habilidad de Pícaro.\nParecía tan contento de enseñarnos…\nCreo que está en la sala oculta\nen algún lugar del gremio de Pícaros."
+    },
+    "g7coAw": {
+        "en": "[Louis Greg]\n^FF0000Dad^000000 must be in the hidden room\nsomewhere in the Rogue Guild.\nYou should search the room\nnext to Markie for that room.",
+        "pt": "[Louis Greg]\nMeu ^FF0000pai^000000 deve estar na sala escondida\nem algum lugar da Guilda dos Arruaceiros.\nVocê deve vasculhar a sala ao\nlado de Markie para encontrar essa sala.",
+        "es": "[Louis Greg]\n^FF0000Papá^000000 debe estar en la sala oculta.\nen algún lugar del gremio de Pícaros.\nDebe ser la sala\nque está junto a Markie."
+    },
+    "hLcoAw": {
+        "en": "^0000FF=== Delivered Haijara's letter. ===",
+        "pt": "^0000FF=== Entregou a carta de Haijara. ===",
+        "es": "^0000FF(Entregaste la carta de Haijara)."
+    },
+    "hbcoAw": {
+        "en": "[Louis Greg]\nDad...!\nMy brother must know.\nPlease deliver this letter to ^FF0000Thor^000000.\n^0000FF=== Received Louis Greg's letter. ===^000000",
+        "pt": "[Louis Greg]\nPai...!\nMeu irmão precisa saber.\nEntregue esta carta para ^FF0000Thor^000000.\n^0000FF=== Recebeu a carta de Louis Greg. ===^000000",
+        "es": "[Louis Greg]\n¡Papá!\nMi hermano debe saberlo.\nPor favor, entrégale esta carta a ^FF0000Thor^000000.\n^0000FF(Recibiste la carta de Louis Greg).^000000"
+    },
+    "hrcoAw": {
+        "en": "[Louis Greg]\nMy brother must know.\nPlease deliver my letter to Thor.\n^FF0000Thor^000000 is next to Hermanthorn Jr.\ninside the Guild.",
+        "pt": "[Louis Greg]\nMeu irmão deve saber.\nEntregue minha carta ao Thor.\n^FF0000Thor^000000 está ao lado de Hermanthorn Jr.\ndentro da Guilda.",
+        "es": "[Louis Greg]\nMi hermano debe saberlo.\nPor favor, entrégale mi carta a Thor.\n^FF0000Thor^000000 está junto a Hermanthorn Jr.\ndentro del gremio."
+    },
+    "h7coAw": {
+        "en": "[Louis Greg]\n^FF0000Jay^000000 is next to Antonio Jr.\ninside the Guild.",
+        "pt": "[Louis Greg]\n^FF0000Jay^000000 está ao lado de Antônio Jr.\ndentro da Guilda.",
+        "es": "[Louis Greg]\n^FF0000Jay^000000 está junto a Antonio Jr.\ndentro del gremio."
+    },
+    "iLcoAw": {
+        "en": "[Louis Greg]\n^FF0000Dad^000000 is in the hidden room.",
+        "pt": "[Louis Greg]\nMeu ^FF0000pai^000000 está na sala escondida.",
+        "es": "[Louis Greg]\n^FF0000Papá^000000 está en la sala oculta."
+    },
+    "ibcoAw": {
+        "en": "[Louis Greg]\nYou want to learn the skill?\nThen, you should go to ^FF0000Thor^000000.",
+        "pt": "[Louis Greg]\nVocê quer aprender a habilidade?\nEntão, deve ir até ^FF0000Thor^000000.",
+        "es": "[Louis Greg]\n¿Quieres aprender la habilidad?\nEntonces, debes ir a ver a ^FF0000Thor^000000."
+    },
+    "ircoAw": {
+        "en": "[Louis Greg]\nAh, what are you doing out here?\nYou can't leave before you're done.\nCome on, go back to ^FF0000Thor^000000.",
+        "pt": "[Louis Greg]\nAh, o que está fazendo aqui?\nVocê não pode ir embora antes de terminar.\nVamos, volte até ^FF0000Thor^000000.",
+        "es": "[Louis Greg]\nAh, ¿qué estás haciendo aquí?\nNo puedes irte antes de terminar.\nVamos, vuelve con ^FF0000Thor^000000."
+    },
+    "i7coAw": {
+        "en": "[Louis Greg]\nWhoa, you're impressive!\nPlease go back to ^FF0000Thor^000000.\nHe'll give you more details.",
+        "pt": "[Louis Greg]\nUau, você é impressionante!\nVolte até ^FF0000Thor^000000.\nEle lhe dará mais detalhes.",
+        "es": "[Louis Greg]\n¡Vaya, eres impresionante!\nVuelve con ^FF0000Thor^000000.\nÉl te dará más detalles."
+    },
+    "jLcoAw": {
+        "en": "[Louis Greg]\nMm, an explanation, huh? Please go to my ^FF0000dad^000000.\nI haven't even learned that skill yet.",
+        "pt": "[Louis Greg]\nUma explicação, é? Vá até meu ^FF0000pai^000000.\nEu ainda nem aprendi essa habilidade.",
+        "es": "[Louis Greg]\nMmm, una explicación, ¿eh? Ve a ver a mi ^FF0000papá^000000.\nYo aún no aprendí esa habilidad."
+    },
+    "jbcoAw": {
+        "en": "[Louis Greg]\nMy brothers told me Taekbae Chae's story\nthat had to do with this skill.\nThey also said its concept is ''do or die,''\nuntil either one of you is finished.",
+        "pt": "[Louis Greg]\nMeus irmãos me contaram a história de Taekbae Chae\nque tinha a ver com essa habilidade.\nEles também disseram que seu conceito é ''fazer ou morrer'',\naté que um de vocês termine.",
+        "es": "[Louis Greg]\nMis hermanos me contaron la historia de Taekbae Chae\nque se relaciona con esta habilidad.\nTambién dijeron que su esencia es hacer o morir\nhasta que uno de los dos esté acabado."
+    },
+    "jrcoAw": {
+        "en": "[Louis Greg]\nWhoa, you're so amazing!\nI want to be just like you!",
+        "pt": "[Louis Greg]\nUau, você é incrível!\nQuero ser que nem você!",
+        "es": "[Louis Greg]\n¡Guau, eres excepcional!\n¡Quiero ser como tú!"
+    },
+    "j7coAw": {
+        "en": "[Louis Greg]\nI love Stalking.\nDo you know what it's like to\nstealthily approach your target?",
+        "pt": "[Louis Greg]\nAdoro perseguir.\nVocê sabe o que é se\naproximar furtivamente do alvo?",
+        "es": "[Louis Greg]\nMe encanta perseguir.\n¿Sabes lo que es\nacercarse sigilosamente a tu objetivo?"
+    },
+    "kLcoAw": {
+        "en": "Thor Greg",
+        "pt": "Thor Greg",
+        "es": "Thor Greg"
+    },
+    "kbcoAw": {
+        "en": "[Thor Greg]\nOh gods, where did Dad go,\nleaving me all alone here? Maybe to the hidden room\ninside the Guild? Because of\nthe mysterious assailants earlier?\nWhy did they attack ^FF0000dad^000000?\nFor the new skill?",
+        "pt": "[Thor Greg]\nAh, deuses, aonde meu pai foi,\nme deixando sozinho aqui? Talvez para a sala escondida\ndentro da Guilda? Por causa dos\nassaltantes misteriosos de antes?\nPor que eles atacaram meu ^FF0000pai^000000?\nPor causa da nova habilidade?",
+        "es": "[Thor Greg]\nOh, dioses, ¿adónde se fue papá,\nque me dejó solo aquí? Tal vez a la sala oculta\ndentro del gremio. ¿Se fue por\nlos misteriosos asaltantes de antes?\n¿Por qué atacaron a ^FF0000papá^000000?\n¿Por la nueva habilidad?"
+    },
+    "krcoAw": {
+        "en": "[Thor Greg]\nI think ^FF0000dad^000000 is in the hidden room\nwithin the Rogue Guild.\nMarkie said it's connected\nto the room to the left side of her.",
+        "pt": "[Thor Greg]\nAcho que meu ^FF0000pai^000000 está na sala escondida\ndentro da Guilda dos Arruaceiros.\nMarkie disse que ela está conectada\nà sala à esquerda dela.",
+        "es": "[Thor Greg]\nCreo que ^FF0000papá^000000 está en la sala oculta\ndentro del gremio de Pícaros.\nMarkie dijo que se conecta\ncon la sala a su izquierda."
+    },
+    "k7coAw": {
+        "en": "[Thor Greg]\n^FF0000Louis^000000 is next to\nHollgrehenn Jr. inside the Rogue Guild.",
+        "pt": "[Thor Greg]\n^FF0000Louis^000000 está ao lado de\nHolgrehen Jr. dentro da Guilda dos Arruaceiros.",
+        "es": "[Thor Greg]\n^FF0000Louis^000000 está al lado de\nHollgrehenn Jr. dentro del gremio de Pícaros."
+    },
+    "lLcoAw": {
+        "en": "^0000FF=== Delivered Louis Greg's letter. ===^000000",
+        "pt": "^0000FF=== Entregou a carta de Louis Greg. ===^000000",
+        "es": "^0000FF(Entregaste la carta de Louis Greg).^000000"
+    },
+    "lbcoAw": {
+        "en": "[Thor Greg]\nDrat! I can't believe this!\nI'd better let our eldest brother know.\nPlease deliver this letter to him.\nHe'll teach you the skill\njust as I wrote. Now, go.",
+        "pt": "[Thor Greg]\nDroga! Não acredito nisso!\nÉ melhor eu avisar nosso irmão mais velho.\nEntregue esta carta a ele.\nEle lhe ensinará a habilidade\nexatamente como escrevi. Agora, vá.",
+        "es": "[Thor Greg]\n¡Maldición! ¡No puedo creerlo!\nSerá mejor que se lo diga a nuestro hermano mayor.\nPor favor, entrégale esta carta.\nÉl te enseñará la habilidad,\ntal y como escribí. ¡Ahora vete!"
+    },
+    "lrcoAw": {
+        "en": "[Thor Greg]\n^FF0000Jay^000000 is next to Antonio Jr.\nPlease deliver my letter to him quickly.\n^0000FF=== Received Thor Greg's letter. ===^000000",
+        "pt": "[Thor Greg]\n^FF0000Jay^000000 está ao lado de Antônio Jr.\nEntregue minha carta a ele rapidamente.\n^0000FF=== Recebeu a carta de Thor Greg. ===^000000",
+        "es": "[Thor Greg]\n^FF0000Jay^000000 está junto a Antonio Jr.\nPor favor, entrégale mi carta rápidamente.\n^0000FF(Recibiste la carta de Thor Greg).^000000"
+    },
+    "l7coAw": {
+        "en": "[Thor Greg]\n^FF0000Jay^000000 is next to Antonio Jr.\nPlease deliver my letter to him quickly.",
+        "pt": "[Thor Greg]\n^FF0000Jay^000000 está ao lado de Antônio Jr.\nEntregue minha carta a ele rapidamente.",
+        "es": "[Thor Greg]\n^FF0000Jay^000000 está junto a Antonio Jr.\nPor favor, entrégale mi carta rápidamente."
+    },
+    "mLcoAw": {
+        "en": "[Thor Greg]\n^FF0000Dad^000000 is in the secret room within the Guild.",
+        "pt": "[Thor Greg]\nMeu ^FF0000pai^000000 está na sala secreta dentro da Guilda.",
+        "es": "[Thor Greg]\n^FF0000Papá^000000 está en la sala secreta dentro del gremio."
+    },
+    "mbcoAw": {
+        "en": "[Thor Greg]\nSo, you came to learn\nthe skill. It won't be easy.\nTo learn ^4D4DFFClose Confine^000000, you first have to learn\nhow to block your enemy's movement. It won't be easy.\nYou'd better brace yourself.\nWant an explanation first?",
+        "pt": "[Thor Greg]\nEntão, você veio para aprender\na habilidade. Não será fácil.\nPara aprender ^4D4DFFConfinamento^000000, primeiro você precisa aprender\ncomo bloquear o movimento do inimigo. Não será fácil.\nÉ melhor se preparar.\nQuer uma explicação antes?",
+        "es": "[Thor Greg]\nAsí que viniste a aprender\nla habilidad. No será fácil.\nPara aprender ^4D4DFFConfinamiento^000000, primero tienes que aprender\ncómo bloquear el movimiento de tu enemigo. No será fácil.\nSerá mejor que te prepares.\n¿Quieres una explicación antes?"
+    },
+    "mrcoAw": {
+        "en": "[Thor Greg]\nAlright, then listen up. I won't tell you twice.\nWhen you enter the training ground, you'll see\nsomeone and that's whom you must block.\nTo do that, you have to be within 1 cell from her.\nIn other words, you have to stand\nright next to her.",
+        "pt": "[Thor Greg]\nTudo bem, então ouça. Não vou dizer duas vezes.\nQuando entrar no campo de treinamento, você verá\nalguém e é quem deve bloquear.\nPara fazer isso, você precisa estar a uma célula de distância dela.\nEm outras palavras, você deve ficar\nbem perto dela.",
+        "es": "[Thor Greg]\nMuy bien, escucha con atención. No te lo diré dos veces.\nCuando entres en el campo de entrenamiento, verás\na alguien, que es a quien debes bloquear.\nPara eso, tienes que estar a 1 celda de distancia de esa persona.\nEn otras palabras, tienes que pararte\njusto a su lado."
+    },
+    "m7coAw": {
+        "en": "[Thor Greg]\nFrom then on, it'll be a struggle of blocking\nand being blocked. Make sure\nyou keep her from moving away from you.\nMove to the left, right, or rear,\ndepending on her direction.\nNow, good luck.",
+        "pt": "[Thor Greg]\nA partir daí, será uma luta de bloquear\ne ser bloqueado. Não deixe que\nela se afaste de você.\nMova-se para a esquerda, para a direita ou para trás,\ndependendo da direção dela.\nBoa sorte.",
+        "es": "[Thor Greg]\nA partir de ahí, será una cuestión de bloquear\no que te bloqueen. Asegúrate de\nimpedirle que se aleje de ti.\nMuévete a la izquierda, a la derecha o atrás,\ndependiendo de su dirección.\nBueno, que tengas suerte."
+    },
+    "nLcoAw": {
+        "en": "[Thor Greg]\nThere was a problem halfway through.\nWant to go back in?",
+        "pt": "[Thor Greg]\nHouve um problema no meio do caminho.\nQuer entrar de novo?",
+        "es": "[Thor Greg]\nHubo un problema a mitad de camino.\n¿Quieres volver a entrar?"
+    },
+    "nbcoAw": {
+        "en": "[Thor Greg]\nAlright, then listen up. I won't tell you twice.\nWhen you enter the training ground, you'll see\nsomeone. That's who you need to block.\nTo do that, you have to be within 1 cell from her.\nIn other words, you have to stand\nright next to her.",
+        "pt": "[Thor Greg]\nTudo bem, então ouça. Não vou dizer duas vezes.\nQuando entrar no campo de treinamento, você verá\nalguém. É quem você deve bloquear.\nPara fazer isso, você precisa estar a uma célula de distância dela.\nEm outras palavras, você deve ficar\nbem perto dela.",
+        "es": "[Thor Greg]\nMuy bien, escucha con atención. No te lo diré dos veces.\nCuando entres en el campo de entrenamiento, verás\na alguien. Esa es la persona a la que tienes que bloquear.\nPara eso, tienes que estar a 1 celda de distancia de esa persona.\nEn otras palabras, tienes que pararte\njusto a su lado."
+    },
+    "nrcoAw": {
+        "en": "[Thor Greg]\nOkay, then let me know\nif you want to train again.",
+        "pt": "[Thor Greg]\nTá, então me avise\nse quiser treinar novamente.",
+        "es": "[Thor Greg]\nEstá bien, entonces dime\nsi quieres volver a entrenar."
+    },
+    "n7coAw": {
+        "en": "[Thor Greg]\nYes, you're amazing.\nI can't believe you've already learned it. Congrats!\nLastly, you should go to my ^FF0000dad^000000.\nHe'll give you more details\nabout the skill.",
+        "pt": "[Thor Greg]\nSim, você é incrível.\nNão acredito que já aprendeu. Parabéns!\nPor fim, você deve ir até o meu ^FF0000pai^000000.\nEle lhe dará mais detalhes\nsobre a habilidade.",
+        "es": "[Thor Greg]\nSí, eres increíble.\nNo puedo creer que ya la hayas aprendido. ¡Felicidades!\nPor último, deberías ir a ver a mi ^FF0000papá^000000.\nÉl te dará más detalles\nsobre la habilidad."
+    },
+    "oLcoAw": {
+        "en": "[Thor Greg]\nI said, go to my ^FF0000dad^000000.",
+        "pt": "[Thor Greg]\nEu disse, vá até meu ^FF0000pai^000000.",
+        "es": "[Thor Greg]\nDije que fueras a ver a mi ^FF0000papá^000000."
+    },
+    "obcoAw": {
+        "en": "[Thor Greg]\nTaekbae Chae?\nHe's a master of Close Confine,\nwho never lets his enemy go until they're finished,\nno matter how strong they are.",
+        "pt": "[Thor Greg]\nTaekbae Chae?\nEle é um mestre do Confinamento\nque nunca liberta o inimigo até que esteja acabado,\nnão importa o quanto seja forte.",
+        "es": "[Thor Greg]\n¿Taekbae Chae?\nEs un maestro del Confinamiento,\nque nunca deja ir a su enemigo hasta acabar con él,\nsin importar lo fuerte que sea."
+    },
+    "orcoAw": {
+        "en": "[Thor Greg]\nYo, now you look stronger than I am.",
+        "pt": "[Thor Greg]\nEi, agora você parece mais forte do que eu.",
+        "es": "[Thor Greg]\nOye, ahora pareces más fuerte que yo."
+    },
+    "o7coAw": {
+        "en": "[Thor Greg]\nPeople say you can steal lots of items\nwith Gank.\nWhy can't I do it?",
+        "pt": "[Thor Greg]\nAs pessoas dizem que você pode roubar muitos itens\ncom o Gank.\nPor que não posso fazer isso?",
+        "es": "[Thor Greg]\nDicen que se pueden robar muchos objetos\ncon Gank.\n¿Por qué yo no puedo hacerlo?"
+    },
+    "pLcoAw": {
+        "en": "Jay Greg",
+        "pt": "Jay Greg",
+        "es": "Jay Greg"
+    },
+    "pbcoAw": {
+        "en": "[Jay Greg]\nYou came to see my ^FF0000father^000000, didn't you?\nYou don't look like you're working with those mysterious assailants earlier.\nI'm glad.\n^FF0000Father^000000 has taken refuge in a hidden\nroom within the Guild to avoid them.",
+        "pt": "[Jay Greg]\nVocê veio ver meu ^FF0000pai^000000, não foi?\nNão parece estar trabalhando com aqueles assaltantes misteriosos de antes.\nFico feliz.\nMeu ^FF0000pai^000000 se refugiou em uma\nsala escondida dentro da Guilda para evitá-los.",
+        "es": "[Jay Greg]\nViniste a ver a mi ^FF0000padre^000000, ¿verdad?\nNo parece que estés trabajando con los misteriosos asaltantes de antes.\nMe alegro…\nMi ^FF0000padre^000000 se refugió en una\nsala escondida dentro del gremio para eludirlos."
+    },
+    "prcoAw": {
+        "en": "[Jay Greg]\n^FF0000Father^000000 has taken refuge in a hidden\nroom within the Guild to avoid them.\nCheck out the room to the left side of Markie for the passageway.",
+        "pt": "[Jay Greg]\nMeu ^FF0000pai^000000 se refugiou em uma\nsala escondida dentro da Guilda para evitá-los.\nDê uma olhada na sala à esquerda de Markie para ver a passagem.",
+        "es": "[Jay Greg]\nMi ^FF0000padre^000000 se refugió en una\nsala escondida dentro del gremio para eludirlos.\nBusca el pasadizo en la sala que está a la izquierda de Markie."
+    },
+    "p7coAw": {
+        "en": "[Jay Greg]\n^FF0000Louis^000000 is not here, but next to\nHollgrehenn Jr. in the Rogue Guild.",
+        "pt": "[Jay Greg]\n^FF0000Louis^000000 não está aqui, mas ao lado de\nHolgrehen Jr. na Guilda dos Arruaceiros.",
+        "es": "[Jay Greg]\n^FF0000Louis^000000 no está aquí, está al lado de\nHollgrehenn Jr. en el gremio de Pícaros."
+    },
+    "qLcoAw": {
+        "en": "[Jay Greg]\n^FF0000Thor^000000 is next to Hermanthorn Jr.\nin the Guild.",
+        "pt": "[Jay Greg]\n^FF0000Thor^000000 está ao lado de Hermanthorn Jr.\nna Guilda.",
+        "es": "[Jay Greg]\n^FF0000Thor^000000 está junto a Hermanthorn Jr.\nen el gremio."
+    },
+    "qbcoAw": {
+        "en": "^0000FF=== Delivered Thor Greg's letter. ===^000000",
+        "pt": "^0000FF=== Entregou a carta de Thor Greg. ===^000000",
+        "es": "^0000FF(Entregaste la carta de Thor Greg).^000000"
+    },
+    "qrcoAw": {
+        "en": "[Jay Greg]\nI see.\nI must alert the Guild\nand send a letter to ^FF0000father^000000.\nPlease, help us one more time.\n^0000FF=== Received Jay Greg's letter. ===^000000",
+        "pt": "[Jay Greg]\nEntendo.\nDevo alertar a Guilda\ne enviar uma carta ao meu ^FF0000pai^000000.\nAjude a gente mais uma vez, por favor.\n^0000FF=== Recebeu a carta de Jay Greg. ===^000000",
+        "es": "[Jay Greg]\nYa veo.\nDebo alertar al gremio\ny enviarle una carta a mi ^FF0000padre^000000.\nPor favor, ayúdanos una vez más.\n^0000FF(Recibiste la carta de Jay Greg).^000000"
+    },
+    "q7coAw": {
+        "en": "[Jay Greg]\nand send a letter to ^FF0000father^000000.\nPlease, help us one more time.\n^FF0000Father^000000 is in the hidden room\ninside the Guild.",
+        "pt": "[Jay Greg]\ne enviar uma carta ao meu ^FF0000pai^000000.\nAjude a gente mais uma vez, por favor.\nMeu ^FF0000pai^000000 está em uma sala escondida\ndentro da Guilda.",
+        "es": "[Jay Greg]\ny enviarle una carta a mi ^FF0000padre^000000.\nPor favor, ayúdanos una vez más.\nMi ^FF0000padre^000000 está en la sala oculta\ndentro del gremio."
+    },
+    "rLcoAw": {
+        "en": "[Jay Greg]\nYou have permission to learn the skill.\nCongratulations! But you can't do it here.\nPlease go back to ^FF0000Thor^000000.",
+        "pt": "[Jay Greg]\nVocê tem permissão para aprender a habilidade.\nParabéns! Mas você não pode fazer isso aqui.\nFale novamente com ^FF0000Thor^000000.",
+        "es": "[Jay Greg]\nTienes permiso para aprender la habilidad.\n¡Felicitaciones! Pero no puedes hacerlo aquí.\nVuelve con ^FF0000Thor^000000."
+    },
+    "rbcoAw": {
+        "en": "[Jay Greg]\nDid you quit halfway through?\nIf you'd like to try again, please go back to ^FF0000Thor^000000.",
+        "pt": "[Jay Greg]\nVocê desistiu no meio do caminho?\nSe quiser tentar novamente, fale novamente com ^FF0000Thor^000000.",
+        "es": "[Jay Greg]\n¿Abandonaste en la mitad?\nSi quieres intentarlo de nuevo, vuelve con ^FF0000Thor^000000."
+    },
+    "rrcoAw": {
+        "en": "[Jay Greg]\nWow, you're amazing! And thank you for\nspeaking to me first. Still, you'll have to\ngo back to ^FF0000Thor^000000.",
+        "pt": "[Jay Greg]\nUau, você é incrível! E obrigado por\nfalar comigo primeiro. Ainda assim, você terá que\nfalar de novo com ^FF0000Thor^000000.",
+        "es": "[Jay Greg]\n¡Vaya, eres increíble! Y gracias por\nhablar conmigo primero. Aun así, tendrás que\nvolver con ^FF0000Thor^000000."
+    },
+    "r7coAw": {
+        "en": "[Jay Greg]\nPlease ask my ^FF0000father^000000 to give you\nmore details about the skill.",
+        "pt": "[Jay Greg]\nPeça ao meu ^FF0000pai^000000 para lhe dar\nmais detalhes sobre a habilidade.",
+        "es": "[Jay Greg]\nPídele a mi ^FF0000padre^000000 que te dé \nmás detalles sobre la habilidad."
+    },
+    "sLcoAw": {
+        "en": "[Jay Greg]\nThe spirit of Taekbae Chae is that of tenacity.\nOr ''gung ho,''\nas some people put it.\nTaekbae Chae's gung ho spirit,\nthat's the core of this skill.",
+        "pt": "[Jay Greg]\nO espírito de Taekbae Chae é o da tenacidade.\nOu ''gung ho'',\ncomo algumas pessoas dizem.\nO espírito gung ho de Taekbae Chae:\neste é o núcleo dessa habilidade.",
+        "es": "[Jay Greg]\nEl espíritu de Taekbae Chae es el de la tenacidad.\nO ¡a la carga!,\ncomo dicen algunos.\nEl espíritu tenaz de Taekbae Chae\nes el núcleo de esta habilidad."
+    },
+    "sbcoAw": {
+        "en": "[Jay Greg]\nI have no doubt\nyou're the future of us Rogues.",
+        "pt": "[Jay Greg]\nNão tenho dúvidas de que\nvocê é o futuro dos Arruaceiros.",
+        "es": "[Jay Greg]\nNo tengo ninguna duda\nde que eres el futuro de los Pícaros."
+    },
+    "srcoAw": {
+        "en": "[Jay Greg]\nIntimidate is us Rogues' signature skill.\nAnd that's what I'm practicing at this moment.\nI think I'm ready for some field training exercise.\nMind if I try it\non you?",
+        "pt": "[Jay Greg]\nRapto é a habilidade característica dos Arruaceiros.\nE é isso que estou praticando neste momento.\nAcho que estou pronto para um exercício de treinamento de campo.\nVocê se importa se eu tentar\ncom você?",
+        "es": "[Jay Greg]\nLa Intimidación es la habilidad característica de los Pícaros.\nY eso es lo que estoy practicando en este momento.\nCreo que estoy listo para algún ejercicio de entrenamiento de campo.\n¿Te importa si lo pruebo\ncontigo?"
+    },
+    "s7coAw": {
+        "en": "Welcome to the Close Confine training ground. You will be moved outside in 5 minutes.",
+        "pt": "Boas-vindas ao campo de treinamento de Confinamento. Você sairá em 5 minutos.",
+        "es": "Te damos la bienvenida al campo de entrenamiento de Confinamiento. Te trasladarán afuera dentro de 5 minutos."
+    },
+    "tLcoAw": {
+        "en": "You will be moved outside in 20 seconds.",
+        "pt": "Você sairá em 20 segundos.",
+        "es": "Te trasladarán afuera dentro de 20 segundos."
+    },
+    "tbcoAw": {
+        "en": "You will be moved outside in 5 seconds.",
+        "pt": "Você sairá em 5 segundos.",
+        "es": "Te trasladarán afuera dentro de 5 segundos."
+    },
+    "trcoAw": {
+        "en": "Moving you outside...",
+        "pt": "Levando você para fora...",
+        "es": "Trasladándote afuera…"
+    },
+    "t7coAw": {
+        "en": "Kienna will appear in 1 second. Block her as best as you can.",
+        "pt": "Kienna aparecerá em 1 segundo. Bloqueie-a da melhor forma que puder.",
+        "es": "Kienna aparecerá en 1 segundo. Bloquéala lo mejor que puedas."
+    },
+    "uLcoAw": {
+        "en": "Kienna",
+        "pt": "Kienna",
+        "es": "Kienna"
+    },
+    "ubcoAw": {
+        "en": "[Kienna]\nAdventurer, your goal is to predict\nmy movement and block\nthat direction.",
+        "pt": "[Kienna]\nSeu objetivo é prever\nmeu movimento e bloquear\nessa direção.",
+        "es": "[Kienna]\nTrotamundos, tu objetivo es predecir\nmi movimiento y bloquear\nesa dirección."
+    },
+    "urcoAw": {
+        "en": "[Kienna]\nBlocking succeeded!",
+        "pt": "[Kienna]\nO bloqueio foi bem-sucedido!",
+        "es": "[Kienna]\n¡El bloqueo funcionó!"
+    },
+    "u7coAw": {
+        "en": "[Kienna]\nBlocking failed.",
+        "pt": "[Kienna]\nO bloqueio falhou.",
+        "es": "[Kienna]\nEl bloqueo falló."
+    },
+    "vLcoAw": {
+        "en": "[Kienna]\n--- Training completed. ---\n- Your grade is... -\n------ S! ------",
+        "pt": "[Kienna]\n--- Treinamento concluído. ---\n- Sua nota é... -\n------ S! ------",
+        "es": "[Kienna]\n-Entrenamiento completado.-\n-Tu calificación es…-\n------¡S!------"
+    },
+    "vbcoAw": {
+        "en": "[Kienna]\n--- Training completed. ---\n- Your grade is... -\n------ A! ------",
+        "pt": "[Kienna]\n--- Treinamento concluído. ---\n- Sua nota é... -\n------ A! ------",
+        "es": "[Kienna]\n-Entrenamiento completado.-\n-Tu calificación es…-\n------¡A!------"
+    },
+    "vrcoAw": {
+        "en": "[Kienna]\n--- Training completed. ---\n- Your grade is... -\n------ B+! -----",
+        "pt": "[Kienna]\n--- Treinamento concluído. ---\n- Sua nota é... -\n------ B+! -----",
+        "es": "[Kienna]\n-Entrenamiento completado.-\n-Tu calificación es…-\n------¡B+!------"
+    },
+    "v7coAw": {
+        "en": "[Kienna]\n--- Training completed. ---\n- Your grade is... -\n------ B! ------",
+        "pt": "[Kienna]\n--- Treinamento concluído. ---\n- Sua nota é... -\n------ B! ------",
+        "es": "[Kienna]\n-Entrenamiento completado.-\n-Tu calificación es…-\n------¡B!------"
+    },
+    "wLcoAw": {
+        "en": "[Kienna]\n--- Training completed. ---\n- Your grade is... -\n------ C+! -----",
+        "pt": "[Kienna]\n--- Treinamento concluído. ---\n- Sua nota é... -\n------ C+! -----",
+        "es": "[Kienna]\n-Entrenamiento completado.-\n-Tu calificación es…-\n------¡C+!------"
+    },
+    "wbcoAw": {
+        "en": "[Kienna]\n--- Training completed. ---\n- Your grade is... -\n------ C. ------",
+        "pt": "[Kienna]\n--- Treinamento concluído. ---\n- Sua nota é... -\n------ C. ------",
+        "es": "[Kienna]\n-Entrenamiento completado.-\n-Tu calificación es…-\n------C------"
+    },
+    "wrcoAw": {
+        "en": "[Kienna]\n--- Training completed. ---\n- Your grade is... -\n------ D+. -----",
+        "pt": "[Kienna]\n--- Treinamento concluído. ---\n- Sua nota é... -\n------ D+. -----",
+        "es": "[Kienna]\n-Entrenamiento completado.-\n-Tu calificación es…-\n------D+------"
+    },
+    "w7coAw": {
+        "en": "[Kienna]\n--- Training completed. ---\n- Your grade is... -\n------ D. ------",
+        "pt": "[Kienna]\n--- Treinamento concluído. ---\n- Sua nota é... -\n------ D. ------",
+        "es": "[Kienna]\n-Entrenamiento completado.-\n-Tu calificación es…-\n------D------"
+    },
+    "xLcoAw": {
+        "en": "[Kienna]\n--- Training completed. ---\n- Your grade is... -\n------ F. ------",
+        "pt": "[Kienna]\n--- Treinamento concluído. ---\n- Sua nota é... -\n------ F. ------",
+        "es": "[Kienna]\n-Entrenamiento completado.-\n-Tu calificación es…-\n------F------"
+    },
+    "xbcoAw": {
+        "en": "[Kienna]\n--- Training completed. ---\n- Your grade is... -\n---- out of range. ---",
+        "pt": "[Kienna]\n--- Treinamento concluído. ---\n- Sua nota é... -\n---- fora da faixa. ---",
+        "es": "[Kienna]\n-Entrenamiento completado.-\n-Tu calificación es…-\n----Fuera de rango.---"
+    },
+    "xrcoAw": {
+        "en": "[Kienna]\nGood job!\nYou're qualified\nto learn the skill.\nNow, let me send you back to Thor.",
+        "pt": "[Kienna]\nBom trabalho!\nVocê se qualificou\npara aprender a habilidade.\nAgora, vou mandar você de volta para Thor.",
+        "es": "[Kienna]\n¡Buen trabajo!\nTienes lo necesario\npara aprender la habilidad.\nTendré que enviarte de vuelta con Thor."
+    },
+    "x7coAw": {
+        "en": "[Kienna]\nYou'll need more training, after all.\nWould you like to\ntry again?",
+        "pt": "[Kienna]\nVocê precisará de mais treinamento.\nQuer\ntentar novamente?",
+        "es": "[Kienna]\nDespués de todo, necesitarás más entrenamiento.\n¿Te gustaría\nintentarlo de nuevo?"
+    },
+    "yLcoAw": {
+        "en": "Yes!",
+        "pt": "Sim!",
+        "es": "¡Sí!"
+    },
+    "ybcoAw": {
+        "en": "No. I quit.",
+        "pt": "Não. Eu desisto.",
+        "es": "No. Renuncio."
+    },
+    "yrcoAw": {
+        "en": "[Kienna]\nYou quit midway.\nThat means you have to start all over.",
+        "pt": "[Kienna]\nVocê desistiu no meio do caminho.\nIsso significa que terá que começar tudo de novo.",
+        "es": "[Kienna]\nAbandonas a mitad de camino.\nEso significa que tienes que empezar de nuevo."
+    },
+    "y7coAw": {
+        "en": "[Kienna]\nYou already completed your Close Confine training.",
+        "pt": "[Kienna]\nVocê já concluiu o treinamento de Confinamento.",
+        "es": "[Kienna]\nYa completaste tu entrenamiento de Confinamiento."
+    },
+    "zLcoAw": {
+        "en": "[Kienna]\nYou're in the wrong place.",
+        "pt": "[Kienna]\nVocê está no lugar errado.",
+        "es": "[Kienna]\nEstás en el lugar equivocado."
+    },
+    "zbcoAw": {
+        "en": "[Kienna]\nAdventurer, your goal is to predict\nmy movement and block\nin that direction.",
+        "pt": "[Kienna]\nSeu objetivo é prever\nmeu movimento e bloquear\nnessa direção.",
+        "es": "[Kienna]\nTrotamundos, tu objetivo es predecir\nmi movimiento y bloquear\nen esa dirección."
+    }
+}

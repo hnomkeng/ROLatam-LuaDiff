@@ -1,0 +1,1342 @@
+{
+    "QENxAQ": {
+        "en": "Pintados Manager",
+        "pt": "Gerente de Pintados",
+        "es": "Director pintado"
+    },
+    "QUNxAQ": {
+        "en": "The 'Pintados Festival' will be held for a week in Baryo Mahiwaga.",
+        "pt": "O 'Festival Pintados' será realizado durante uma semana em Baryo Mahiwaga.",
+        "es": "El Festival de Pintados se celebrará durante una semana en Baryo Mahiwaga."
+    },
+    "QkNxAQ": {
+        "en": "The 'Pintados Festival' ended with great success.",
+        "pt": "O 'Festival Pintados' foi encerrado com grande sucesso.",
+        "es": "El Festival de Pintados terminó con gran éxito."
+    },
+    "Q0NxAQ": {
+        "en": "Please try again after installing a special item.",
+        "pt": "Tente outra vez após instalar um item especial.",
+        "es": "Vuelve a intentarlo después de que hayas instalado un objeto especial."
+    },
+    "RENxAQ": {
+        "en": "Bingo!",
+        "pt": "Bingo!",
+        "es": "¡Bingo!"
+    },
+    "RUNxAQ": {
+        "en": "Error occurred.",
+        "pt": "Ocorreu um erro.",
+        "es": "Se produjo un error."
+    },
+    "RkNxAQ": {
+        "en": "Hi, I'm the Pintados Festival Manager. Please select an item.\nTime Value: ({0}/344)\nLesser Agimat Value: ({1}/1,000)\nCross Value: ({2}/1,000)\nDyestuffs Value: ({3}/300)\nRecent Tattoo Creator:{4}",
+        "pt": "Olá, sou o gerente do Festival Pintados. Por favor, selecione um item.\nValor do tempo: ({0}/344)\nValor do Agimat Menor: ({1}/1.000)\nValor da Cruz: ({2}/1.000)\nValor de Dyestuffs: ({3}/300)\nCriador de Tatuagem Recente:{4}",
+        "es": "Hola, soy la administradora del Festival de Pintados. Selecciona un objeto.\nValor de tiempo: ({0}/344)\nValor de Agimat menor: ({1}/1000)\nValor de cruz: ({2}/1000)\nValor de Tinte: ({3}/300)\nCreador de tatuajes recientes: {4}"
+    },
+    "R0NxAQ": {
+        "en": "Eastern Medicine Button ? Start & End",
+        "pt": "Botão de medicina oriental ? Início e fim",
+        "es": "Botón de medicina oriental ¿? Inicio y fin"
+    },
+    "SENxAQ": {
+        "en": "Detail Button ? Adjust Value",
+        "pt": "Botão de Detalhe? Ajustar valor",
+        "es": "Botón de detalle ¿? Ajustar el valor."
+    },
+    "SUNxAQ": {
+        "en": "Start Timer",
+        "pt": "Temporizador de início",
+        "es": "Iniciar el temporizador."
+    },
+    "SkNxAQ": {
+        "en": "End Timer",
+        "pt": "Temporizador de fim",
+        "es": "Finalizar el temporizador."
+    },
+    "S0NxAQ": {
+        "en": "This is the Eastern Medicine Control Button.\nYou can set the Start or End values for the festival.",
+        "pt": "Este é o botão de controle da Medicina Oriental\nVocê pode definir os valores de Início ou Fim para o festival.",
+        "es": "Este es el botón de control de medicina oriental.\nPuedes establecer los valores de inicio o fin del festival."
+    },
+    "TENxAQ": {
+        "en": "Start Pintados Festival",
+        "pt": "Iniciar Festival Pintados",
+        "es": "Iniciar Festival de Pintados"
+    },
+    "TUNxAQ": {
+        "en": "End Pintados Festival",
+        "pt": "Fim Festival Pintados",
+        "es": "Finalizar Festival de Pintados"
+    },
+    "TkNxAQ": {
+        "en": "NPC_ON",
+        "pt": "NPC_ON",
+        "es": "NPC activado"
+    },
+    "T0NxAQ": {
+        "en": "NPC_OFF",
+        "pt": "NPC_OFF",
+        "es": "NPC desactivado"
+    },
+    "UENxAQ": {
+        "en": "Start the Pintados Festival.",
+        "pt": "Iniciar o Festival Pintados.",
+        "es": "Iniciar el Festival de Pintados."
+    },
+    "UUNxAQ": {
+        "en": "End the Pintados Festival.",
+        "pt": "Encerrar o Festival Pintados.",
+        "es": "Finalizar el Festival de Pintados."
+    },
+    "UkNxAQ": {
+        "en": "Add an NPC.",
+        "pt": "Adicionar um NPC.",
+        "es": "Agregar un NPC."
+    },
+    "U0NxAQ": {
+        "en": "Remove an NPC.",
+        "pt": "Remover um NPC.",
+        "es": "Eliminar un NPC."
+    },
+    "VENxAQ": {
+        "en": "Adjust the global value. Please select the value to adjust.",
+        "pt": "Ajustar o valor global. Selecione o valor a ser ajustado.",
+        "es": "Ajustar el valor global. Selecciona el valor que deseas ajustar."
+    },
+    "VUNxAQ": {
+        "en": "Complete Adjustment",
+        "pt": "Ajuste completo",
+        "es": "Completar el ajuste."
+    },
+    "VkNxAQ": {
+        "en": "Time{0}",
+        "pt": "Tempo{0}",
+        "es": "Tiempo{0}"
+    },
+    "V0NxAQ": {
+        "en": "Lesser Agimat{0}",
+        "pt": "Agimat Menor{0}",
+        "es": "Agimat menor{0}"
+    },
+    "WENxAQ": {
+        "en": "Silver Cross{0}",
+        "pt": "Cruz de Prata{0}",
+        "es": "Cruz de plata{0}"
+    },
+    "WUNxAQ": {
+        "en": "Dyestuffs{0}",
+        "pt": "Corantes{0}",
+        "es": "{0}Tintes"
+    },
+    "WkNxAQ": {
+        "en": "Adjust Time [0~344]\nGlobal Increase by 1/30 min.\n1 - 49 » Day 1\n50 - 98 » Day 2\n99 - 147 » Day 3\n148 - 196 » Day 4\n197 - 245 » Day 5\n246 - 294 » Day 6\n295 - 343 » Day 7\nGlobal 1 = 1 hr.",
+        "pt": "Ajustar tempo [0~344]\nAumento global em 1/30 min.\n1 - 49 » Dia 1\n50 - 98 » Dia 2\n99 - 147 » Dia 3\n148 - 196 » Dia 4\n197 - 245 » Dia 5\n246 - 294 » Dia 6\n295 - 343 » Dia 7\nGlobal 1 = 1 hora.",
+        "es": "Ajustar el tiempo [0344]\nIncremento global de 1/30 min\n1 -49 » Día 1\n50 -98 » Día 2\n99 -147 » Día 3\n148 -196 » Día 4\n197 -245 » Día 5\n246 -294 » Día 6\n295 -343 » Día 7\nGlobal 1 = 1 h"
+    },
+    "W0NxAQ": {
+        "en": "Adjust the accumulated value for the Lesser Agimat.\nValues can be adjusted between 0 to 1000.",
+        "pt": "Ajusta o valor acumulado para o Agimat Menor.\nOs valores podem ser ajustados entre 0 e 1000.",
+        "es": "Ajusta el valor acumulado para el Agimat menor.\nLos valores pueden ajustarse entre 0 y 1000."
+    },
+    "XENxAQ": {
+        "en": "Adjust the accumulated value of the Silver Cross.\nValues can be adjusted between 0 to 1000.",
+        "pt": "Ajuste o valor acumulado da Cruz de Prata.\nOs valores podem ser ajustados entre 0 e 1000.",
+        "es": "Ajusta el valor acumulado de la Cruz de plata.\nLos valores pueden ajustarse entre 0 y 1000."
+    },
+    "XUNxAQ": {
+        "en": "Adjust the accumulated value for the Dyestuff.\nValues can be adjusted between 0 to 300.",
+        "pt": "Ajuste o valor acumulado para o Corante.\nOs valores podem ser ajustados entre 0 e 300.",
+        "es": "Ajuste el valor acumulado para el Tinte.\nLos valores pueden ajustarse entre 0 y 300."
+    },
+    "XkNxAQ": {
+        "en": "Time Value: ({0}/344)\nLesser Agimat Value: ({1}/1,000)\nCross Value: ({2}/1,000)\nDyestuffs Value: ({3}/300)\nThis is the current value. Do you want to adjust it?",
+        "pt": "Valor do Tempo: ({0}/344)\nValor do Agimat Menor: ({1}/1.000)\nValor da Cruz: ({2}/1.000)\nValor de Dyestuffs: ({3}/300)\nEsse é o valor atual. Deseja ajustá-lo?",
+        "es": "Valor de tiempo: ({0}/344)\nValor de Agimat menor: ({1}/1000)\nValor de cruz: ({2}/1000)\nValor de Tinte: ({3}/300)\nEste es el valor actual. ¿Quieres ajustarlo?"
+    },
+    "X0NxAQ": {
+        "en": "Completed global adjustment.",
+        "pt": "Ajuste global concluído.",
+        "es": "Ajuste global completo."
+    },
+    "YENxAQ": {
+        "en": "Festival Helper Boy",
+        "pt": "Garoto Ajudante do Festival",
+        "es": "Ayudante de festival"
+    },
+    "YUNxAQ": {
+        "en": "Cannot proceed because you have too many items in your possession.",
+        "pt": "Não é possível prosseguir porque você tem muitos itens em sua posse.",
+        "es": "No puedes continuar porque tienes demasiados objetos."
+    },
+    "YkNxAQ": {
+        "en": "(Collection complete)",
+        "pt": "(Coleção completa)",
+        "es": "(Colección completa)"
+    },
+    "Y0NxAQ": {
+        "en": "Collection complete",
+        "pt": "Coleção completa",
+        "es": "Colección completa"
+    },
+    "ZENxAQ": {
+        "en": "({0}/ 1,000)",
+        "pt": "({0}/ 1.000)",
+        "es": "({0}/1000)"
+    },
+    "ZUNxAQ": {
+        "en": "{0} short",
+        "pt": "{0} curto",
+        "es": "Faltan {0}"
+    },
+    "ZkNxAQ": {
+        "en": "(Collection complete)",
+        "pt": "(Coleção completa)",
+        "es": "(Colección completa)"
+    },
+    "Z0NxAQ": {
+        "en": "Collection complete",
+        "pt": "Coleção completa",
+        "es": "Colección completa"
+    },
+    "aENxAQ": {
+        "en": "({0}/\t1,000)",
+        "pt": "({0}/ 1.000)",
+        "es": "({0}/\t1000)"
+    },
+    "aUNxAQ": {
+        "en": "{0} short",
+        "pt": "{0} curto",
+        "es": "Faltan {0}"
+    },
+    "akNxAQ": {
+        "en": "(Collection complete)",
+        "pt": "(Coleção completa)",
+        "es": "(Colección completa)"
+    },
+    "a0NxAQ": {
+        "en": "Collection complete",
+        "pt": "Coleção completa",
+        "es": "Colección completa"
+    },
+    "bENxAQ": {
+        "en": "({0}/\t300)",
+        "pt": "({0}/ 300)",
+        "es": "({0}/\t300)"
+    },
+    "bUNxAQ": {
+        "en": "{0} short",
+        "pt": "{0} curto",
+        "es": "Faltan {0}"
+    },
+    "bkNxAQ": {
+        "en": "[Isco]\nMany adventurers helped find festival items that I returned to the village.",
+        "pt": "[Isco]\nMuitos aventureiros ajudaram a encontrar itens do festival que eu devolvi para a aldeia.",
+        "es": "[Isco]\nMuchos trotamundos me ayudaron a encontrar los objetos del festival que llevé a la aldea."
+    },
+    "b0NxAQ": {
+        "en": "[Isco]\nHe he... Now we can hold the '^7A96E0Pintados Festival^000000'.",
+        "pt": "[Isco]\nHe he he... Agora podemos realizar o '^7A96E0Festival Pintados^000000'.",
+        "es": "[Isco]\nJe, je… Ahora podemos celebrar el ^7A96E0Festival de Pintados^000000."
+    },
+    "cENxAQ": {
+        "en": "[Isco]\nHe he... The fun '^7A96E0Pintados Festival^000000' is in full swing.",
+        "pt": "[Isco]\nHe he... O divertido '^7A96E0Festival Pintados^000000' está a todo vapor.",
+        "es": "[Isco]\nJe, je… El divertido ^7A96E0Festival de Pintados^000000 está en pleno auge."
+    },
+    "cUNxAQ": {
+        "en": "[Isco]\nToday's the first day of the '^7A96E0Pintados Festival^000000'. The festival is held for 7 days, so have fun.",
+        "pt": "[Isco]\nHoje é o primeiro dia do '^7A96E0Festival Pintados^000000'. O festival é realizado durante 7 dias, então, divirta-se.",
+        "es": "[Isco]\nHoy es el primer día del ^7A96E0Festival de Pintados^000000. El festival dura 7 días, así que diviértete."
+    },
+    "ckNxAQ": {
+        "en": "[Isco]\nOh! Did you know?\nVillage tattooists draw tattoos only during the '^7A96E0Pintados Festival^000000'.",
+        "pt": "[Isco]\nAh! Você sabia?\nOs tatuadores do vilarejo fazem tatuagens somente durante o '^7A96E0Festival Pintados^000000'.",
+        "es": "[Isco]\n¡Ah! ¿Lo sabías?\nLos tatuadores de la aldea solo dibujan tatuajes durante el ^7A96E0Festival de Pintados^000000."
+    },
+    "c0NxAQ": {
+        "en": "[Isco]\nToday's the third day of the '^7A96E0Pintados Festival^000000'.",
+        "pt": "[Isco]\nHoje é o terceiro dia do '^7A96E0Festival Pintados^000000'.",
+        "es": "[Isco]\nHoy es el tercer día del ^7A96E0Festival de Pintados^000000."
+    },
+    "dENxAQ": {
+        "en": "[Isco]\nVillagers say that an adventurer named{0}got a tattoo at the festival.",
+        "pt": "[Isco]\nOs moradores dizem que um aventureiro chamado {0} fez uma tatuagem no festival.",
+        "es": "[Isco]\nLos aldeanos dicen que una persona llamada {0} obtuvo un tatuaje en el festival."
+    },
+    "dUNxAQ": {
+        "en": "[Isco]\nThe Tattooist is scary and doesn't draw tattoos for just anyone so the adventurer must be special.",
+        "pt": "[Isco]\nO tatuador é assustador e não faz tatuagens para qualquer um, então o aventureiro deve ser especial.",
+        "es": "[Isco]\nEl tatuador es intimidante y no le dibuja tatuajes a cualquiera, así que debe ser una persona especial."
+    },
+    "dkNxAQ": {
+        "en": "[Isco]\nAn adventurer named{0}is famous in the village",
+        "pt": "[Isco]\nUm aventureiro chamado{0} é famoso na aldeia",
+        "es": "[Isco]\n{0} es una persona famosa en la aldea."
+    },
+    "d0NxAQ": {
+        "en": "[Isco]\nHave you every seen ^FF8440Bakonawa^000000, the monster known to swallow the moon? They say he is really ferocious.",
+        "pt": "[Isco]\nVocê já viu ^FF8440Bakonawa^000000, o monstro conhecido por engolir a lua? Dizem que ele é muito feroz.",
+        "es": "[Isco]\n¿Alguna vez viste al monstruo ^FF8440Bakonawa^000000, conocido por querer tragarse la luna? Dicen que es realmente feroz."
+    },
+    "eENxAQ": {
+        "en": "[Isco]\nI'm so sad. Many adventurers helped to hold the '^7A96E0Pintados Festival^000000' and now only one day is left.",
+        "pt": "[Isco]\nEstou muito triste. Muitos aventureiros ajudaram a realizar o '^7A96E0Festival Pintados^000000' e agora só falta um dia.",
+        "es": "[Isco]\nEstoy muy triste. Muchos trotamundos ayudaron a celebrar el ^7A96E0Festival de Pintados^000000 y ahora solo queda un día."
+    },
+    "eUNxAQ": {
+        "en": "[Isco]\nOh gosh! It's already the last day of the '^7A96E0Pintados Festival^000000'. Can't believe there won't be more festivities.",
+        "pt": "[Isco]\nAh, meu Deus! Já é o último dia do '^7A96E0Festival Pintados^000000'. Não acredito que não haverá mais festividades.",
+        "es": "[Isco]\n¡Ay, rayos! Ya es el último día del ^7A96E0Festival de Pintados^000000. No puedo creer que ya no habrá más festividades."
+    },
+    "ekNxAQ": {
+        "en": "[Isco]\nOh no. What will we do with the festival coming to an end.",
+        "pt": "[Isco]\nAh, não. O que faremos com o festival chegando ao fim?",
+        "es": "[Isco]\nAh, no. ¿Qué vamos a hacer ahora que el festival está llegando a su fin?"
+    },
+    "e0NxAQ": {
+        "en": "What is it?",
+        "pt": "Qual?",
+        "es": "¿Qué es?"
+    },
+    "fENxAQ": {
+        "en": "How many did you collect?",
+        "pt": "Quantos você coletou?",
+        "es": "¿Cuántos objetos recolectaste?"
+    },
+    "fUNxAQ": {
+        "en": "Brought back a lost belonging.",
+        "pt": "Trouxe de volta um objeto perdido.",
+        "es": "Traje una pertenencia perdida."
+    },
+    "fkNxAQ": {
+        "en": "[Isco]\nThere is a traditional festival held since ancient times\nin Baryo Mahiwaga called the '^7A96E0Pintados Festival^000000'.",
+        "pt": "[Isco]\nHá um festival tradicional realizado desde os tempos antigos\nem Baryo Mahiwaga, chamado '^7A96E0Festival Pintados^000000'.",
+        "es": "[Isco]\nEs un festival tradicional que se celebra desde la antigüedad\nen Baryo Mahiwaga y se llama ^7A96E0Festival de Pintados^000000."
+    },
+    "f0NxAQ": {
+        "en": "[Isco]\nI don't think I'll make it to the festival this time.",
+        "pt": "[Isco]\nAcho que não vou conseguir ir ao festival desta vez.",
+        "es": "[Isco]\nCreo que esta vez no habrá festival."
+    },
+    "gENxAQ": {
+        "en": "Why?",
+        "pt": "Por quê?",
+        "es": "¿Por qué?"
+    },
+    "gUNxAQ": {
+        "en": "[Isco]\nI was going back to the village delivering 1000 Lesser Agimats, 1000 Silver Crosses, and 300 Dyestuffs as an errand from Port Malaya.",
+        "pt": "[Isco]\nEu estava voltando para a aldeia, entregando 1.000 Agimats Menores, 1.000 Cruzes de Prata e 300 Corantes, materiais de Porto Malaya.",
+        "es": "[Isco]\nEstaba regresando a la aldea para entregar un encargo de Puerto Malaya de 1000 Agimats menores, 1000 Cruces de plata y 300 Tintes."
+    },
+    "gkNxAQ": {
+        "en": "[Isco]\nBut '^FF8440Bongisungisu^000000' appeared out of nowhere and took the items away from me.",
+        "pt": "[Isco]\nMas '^FF8440Bongisungisu^000000' apareceu do nada e tirou os itens de mim.",
+        "es": "[Isco]\nPero, de repente, apareció ^FF8440Bongisungisu^000000 y me quitó los objetos."
+    },
+    "g0NxAQ": {
+        "en": "Are you hurt?",
+        "pt": "Você se machucou?",
+        "es": "¿Estás herido?"
+    },
+    "hENxAQ": {
+        "en": "[Isco]\nFortunately not.",
+        "pt": "[Isco]\nFelizmente não.",
+        "es": "[Isco]\nPor suerte, no."
+    },
+    "hUNxAQ": {
+        "en": "[Isco]\nBut I'm in deep trouble. The '^7A96E0Pintados Festival^000000' can't be held without those items. What should I do.",
+        "pt": "[Isco]\nMas estou com um grande problema. O '^7A96E0Festival Pintados^000000' não pode ser realizado sem esses itens. O que devo fazer?",
+        "es": "[Isco]\nPero estoy en graves problemas. El ^7A96E0Festival de Pintados^000000 no se puede celebrar sin esos objetos. ¿Qué debo hacer?"
+    },
+    "hkNxAQ": {
+        "en": "[Isco]\nMany adventurers are helping out but only collected...",
+        "pt": "[Isco]\nMuitos aventureiros estão ajudando, mas eles só coletaram...",
+        "es": "[Isco]\nMuchos trotamundos me están ayudando, pero solo recolectaron…"
+    },
+    "h0NxAQ": {
+        "en": "[Isco]\nLesser Agimat{0}, Silver Cross{1}, Dyestuff{2}so far.",
+        "pt": "[Isco]\nAgimat Menores{0}, Cruzes de Prata{1}, e Corantes{2} até o momento.",
+        "es": "[Isco]\n{0}Agimat menores, {1}Cruces de plata y {2}Tintes hasta ahora."
+    },
+    "iENxAQ": {
+        "en": "[Isco]\nSigh... We are still short of materials to start the '^7A96E0Pintados Festival^000000'.",
+        "pt": "[Isco]\n*Suspiro* Ainda faltam materiais para iniciar o '^7A96E0Festival Pintados^000000'.",
+        "es": "[Isco]\nUf… Aún nos faltan materiales para dar inicio al ^7A96E0Festival de Pintados^000000."
+    },
+    "iUNxAQ": {
+        "en": "Bro",
+        "pt": "Irmão",
+        "es": "hermano"
+    },
+    "ikNxAQ": {
+        "en": "Bro",
+        "pt": "Irmão",
+        "es": "hermano"
+    },
+    "i0NxAQ": {
+        "en": "Bro",
+        "pt": "Irmão",
+        "es": "hermano"
+    },
+    "jENxAQ": {
+        "en": "Sis",
+        "pt": "Mana",
+        "es": "hermana"
+    },
+    "jUNxAQ": {
+        "en": "Sis",
+        "pt": "Mana",
+        "es": "hermana"
+    },
+    "jkNxAQ": {
+        "en": "Sis",
+        "pt": "Mana",
+        "es": "hermana"
+    },
+    "j0NxAQ": {
+        "en": "[Isco]\nOh~ Really? Wow!\nThanks!{0}{1}!!\nHe he. What did you bring?",
+        "pt": "[Isco]\nOh~ Sério? Uau!\nObrigado, {0}{1}!!\nHe he. O que você trouxe?",
+        "es": "[Isco]\nAh. ¿De verdad? ¡Guau!\n¡Gracias! ¡{0}, {1}!\nJe, je. ¿Qué trajiste?"
+    },
+    "kENxAQ": {
+        "en": "Lesser Agimat (^FF0000{0}^000000)",
+        "pt": "Agimat Menor (^FF0000{0}^000000)",
+        "es": "Agimat menor (^FF0000{0}^000000)"
+    },
+    "kUNxAQ": {
+        "en": "Silver Cross (^FF0000{0}^000000)",
+        "pt": "Cruz de Prata (^FF0000{0}^000000)",
+        "es": "Cruz de plata (^FF0000{0}^000000)"
+    },
+    "kkNxAQ": {
+        "en": "Dyestuff (^FF0000{0}^000000)",
+        "pt": "Corante (^FF0000{0}^000000)",
+        "es": "Tinte (^FF0000{0}^000000)"
+    },
+    "k0NxAQ": {
+        "en": "[Isco]\nWow! {0} you've brought back Lesser Agimats!",
+        "pt": "[Isco]\nUau! {0} Vocês trouxeram de volta os Agimats Menores!",
+        "es": "[Isco]\n¡Vaya, {0}! ¡Trajiste Agimats menores!"
+    },
+    "lENxAQ": {
+        "en": "[Isco]\nWait. One... two...",
+        "pt": "[Isco]\nEspere. Um... dois...",
+        "es": "[Isco]\nEspera. Uno… dos…"
+    },
+    "lUNxAQ": {
+        "en": "Eh... oh? I already have all the Lesser Agimats I need.{0}! But thank you for helping.",
+        "pt": "É... oh? Eu já tenho todos os Agimats Menores que preciso. Mas obrigado pela ajuda.",
+        "es": "Eh… ¿Ah? ¡Ya tengo todos los Agimats menores que necesito, {0}! Pero gracias por ayudar."
+    },
+    "lkNxAQ": {
+        "en": "I am{0}short of Lesser Agimats. How many did you bring?",
+        "pt": "Estou com falta de Agimats Menores. Quantos você trouxe?",
+        "es": "Me faltan {0} Agimats menores. ¿Cuántos recolectaste?"
+    },
+    "l0NxAQ": {
+        "en": "One?!",
+        "pt": "Um?!",
+        "es": "¡¿Uno?!"
+    },
+    "mENxAQ": {
+        "en": "Enter quantity.",
+        "pt": "Insira a quantidade.",
+        "es": "Introducir cantidad."
+    },
+    "mUNxAQ": {
+        "en": "[Isco]\nHe he... You've brought back one.",
+        "pt": "[Isco]\nHe he... Você trouxe um de volta.",
+        "es": "[Isco]\nJe, je… Trajiste uno."
+    },
+    "mkNxAQ": {
+        "en": "[Isco]\nHe he... I'm slow with numbers. I get lost when it's over 50. How many will you give me?",
+        "pt": "[Isco]\nHe he... Sou lento com números. Fico perdido quando são mais de 50. Quantos você vai me dar?",
+        "es": "[Isco]\nJe, je… Soy lento con los números. Me pierdo cuando son más de 50. ¿Cuántos me darás?"
+    },
+    "m0NxAQ": {
+        "en": "[Isco]\nSigh~ I'm lost! I can't count if the numbers are weird.",
+        "pt": "[Isco]\nSuspiro~ Estou ferrado! Não consigo contar se os números estiverem estranhos.",
+        "es": "[Isco]\nUf. ¡Estoy perdido! No puedo contar si son números raros."
+    },
+    "nENxAQ": {
+        "en": "[Isco]\nSigh~{0}! Where is the Lesser Agimat?",
+        "pt": "[Isco]\nSuspiro~{0}! Onde está o Agimat Menor?",
+        "es": "[Isco]\n¡Uf, {0}! ¿Dónde está el Agimat menor?"
+    },
+    "nUNxAQ": {
+        "en": "Whoa! We've collected all the Lesser Agimats we need. Happy~!",
+        "pt": "Uau! Coletamos todos os Agimats Menores de que precisamos. Feliz~!",
+        "es": "¡Guau! Ya recolectamos todos los Agimats menores que necesitamos. ¡Estoy feliz!"
+    },
+    "nkNxAQ": {
+        "en": "I only need {0} more Lesser Agimats.",
+        "pt": "Eu só preciso de {0} Agimats Menores.",
+        "es": "Solo necesito {0} Agimats menores más."
+    },
+    "n0NxAQ": {
+        "en": "[Isco]\nHe he... Thanks.{0}!\n{1}",
+        "pt": "[Isco]\nHe he he... Obrigado.{0}!\n{1}",
+        "es": "[Isco]\nJe, je… ¡Gracias, {0}!\n{1}"
+    },
+    "oENxAQ": {
+        "en": "[Isco]\nWow! {0} You've brought Silver Crosses!",
+        "pt": "[Isco]\nUau! {0} Você trouxe as Cruzes de Prata!",
+        "es": "[Isco]\n¡Vaya, {0}! ¡Trajiste Cruces de plata!"
+    },
+    "oUNxAQ": {
+        "en": "Eh... oh? I already have all the Silver Crosses I need.{0}! But thank you for helping.",
+        "pt": "É... oh... eu já tenho todas as cruzes de prata que preciso. Mas obrigado pela ajuda.",
+        "es": "Eh… ¿Ah? ¡Ya tengo todas las Cruces de plata que necesito, {0}! Pero gracias por ayudar."
+    },
+    "okNxAQ": {
+        "en": "I only need {0} short of Silver Crosses. How many did you bring?",
+        "pt": "Eu só preciso de {0} poucas Cruzes de Prata. Quantas você trouxe?",
+        "es": "Solo me faltan {0} Cruces de plata. ¿Cuántas recolectaste?"
+    },
+    "o0NxAQ": {
+        "en": "[Isco]\nSigh~{0}! Where is the Silver Cross?",
+        "pt": "[Isco]\nSuspiro~{0}! Onde está a Cruz de Prata?",
+        "es": "[Isco]\n¡Uf, {0}! ¿Dónde está la Cruz de plata?"
+    },
+    "pENxAQ": {
+        "en": "Whoa! We've collected all the Silver Crosses we need. Happy~!",
+        "pt": "Uau! Coletamos todas as cruzes de prata de que precisamos. Feliz~!",
+        "es": "¡Guau! Ya recolectamos todas las Cruces de plata que necesitamos. ¡Estoy feliz!"
+    },
+    "pUNxAQ": {
+        "en": "I only need {0} more Silver Crosses.",
+        "pt": "Eu só preciso de mais {0} Cruzes de Prata.",
+        "es": "Solo necesito {0} Cruces de plata más."
+    },
+    "pkNxAQ": {
+        "en": "[Isco]\nHe he... Thanks.{0}!\n{1}",
+        "pt": "[Isco]\nHe he he... Obrigado.{0}!\n{1}",
+        "es": "[Isco]\nJe, je… ¡Gracias, {0}!\n{1}"
+    },
+    "p0NxAQ": {
+        "en": "[Isco]\nWow! {0} You've brought Dyestuffs!",
+        "pt": "[Isco]\nUau! {0} Você trouxe Corantes!",
+        "es": "[Isco]\n¡Vaya, {0}! ¡Trajiste Tintes!"
+    },
+    "qENxAQ": {
+        "en": "Eh... oh? I already have all the Dyestuff I need.{0}! But thank you for helping.",
+        "pt": "É... oh... eu já tenho todos os Corantes de que preciso.{0}! Mas obrigado pela ajuda.",
+        "es": "Eh… ¿Ah? ¡Ya tengo todo el Tinte que necesito, {0}! Pero gracias por ayudar."
+    },
+    "qUNxAQ": {
+        "en": "I only need {0} short of Dyestuffs. What kind of Dyestuff did you bring?",
+        "pt": "Eu só preciso de {0} Corantes. Quais tipos você trouxe?",
+        "es": "Solo me faltan {0} Tintes. ¿Qué tipo de Tintes trajiste?"
+    },
+    "qkNxAQ": {
+        "en": "Scarlet Dyestuffs (^FF0000{0}^000000)",
+        "pt": "Tinturas Vermelhas (^FF0000{0}^000000)",
+        "es": "Tinte escarlata (^FF0000{0}^000000)"
+    },
+    "q0NxAQ": {
+        "en": "Lemon Dyestuffs (^FF0000{0}^000000)",
+        "pt": "Corantes de Limão (^FF0000{0}^000000)",
+        "es": "Colorante amarillo limón (^FF0000{0}^000000)"
+    },
+    "rENxAQ": {
+        "en": "Cobalt blue Dyestuffs (^FF0000{0}^000000)",
+        "pt": "Corantes Azul-Cobalto (^FF0000{0}^000000)",
+        "es": "Tinte azul cobalto (^FF0000{0}^000000)"
+    },
+    "rUNxAQ": {
+        "en": "Dark green Dyestuffs (^FF0000{0}^000000)",
+        "pt": "Corantes Verde-Escuro (^FF0000{0}^000000)",
+        "es": "Tinte verde oscuro (^FF0000{0}^000000)"
+    },
+    "rkNxAQ": {
+        "en": "Orange Dyestuffs (^FF0000{0}^000000)",
+        "pt": "Corantes Laranjas (^FF0000{0}^000000)",
+        "es": "Tinte naranja (^FF0000{0}^000000)"
+    },
+    "r0NxAQ": {
+        "en": "Violet Dyestuffs (^FF0000{0}^000000)",
+        "pt": "Corantes Violetas (^FF0000{0}^000000)",
+        "es": "Tinte violeta (^FF0000{0}^000000)"
+    },
+    "sENxAQ": {
+        "en": "White Dyestuffs (^FF0000{0}^000000)",
+        "pt": "Corantes Brancos (^FF0000{0}^000000)",
+        "es": "Tinte blanco (^FF0000{0}^000000)"
+    },
+    "sUNxAQ": {
+        "en": "Black Dyestuffs (^FF0000{0}^000000)",
+        "pt": "Corantes Pretos (^FF0000{0}^000000)",
+        "es": "Tinte negro (^FF0000{0}^000000)"
+    },
+    "skNxAQ": {
+        "en": "[Isco]\nSigh~ You don't have any Scarlet Dyestuffs.",
+        "pt": "[Isco]\nSuspiro~ Você não tem nenhum Corante Escarlate.",
+        "es": "[Isco]\nUf. No tienes ningún Tinte escarlata."
+    },
+    "s0NxAQ": {
+        "en": "[Isco]\n{0}How many Scarlet Dyestuffs can you give me from the{1}you have?",
+        "pt": "[Isco]\n{0}Quantos Tinturas Vermelhas você pode me dar de {1} que você tem?",
+        "es": "[Isco]\n¿Cuántos Tintes escarlata puedes darme de los {1} que tienes, {0}?"
+    },
+    "tENxAQ": {
+        "en": "Enter Quantity",
+        "pt": "Inserir quantidade",
+        "es": "Introducir cantidad."
+    },
+    "tUNxAQ": {
+        "en": "All",
+        "pt": "Tudo",
+        "es": "Todos."
+    },
+    "tkNxAQ": {
+        "en": "[Isco]\nSigh~ I told you I'm not good with numbers.",
+        "pt": "[Isco]\nSuspiro~ Eu disse que não sou bom com números.",
+        "es": "[Isco]\nUf. Te dije que no me llevo bien con los números."
+    },
+    "t0NxAQ": {
+        "en": "[Isco]\nSigh... I'm short of Scarlet Dyestuff.",
+        "pt": "[Isco]\nSuspiro... Estou sem Corante Escarlate.",
+        "es": "[Isco]\nUf… Me faltan Tintes escarlata."
+    },
+    "uENxAQ": {
+        "en": "[Isco]\nSigh~ You don't have any Lemon Dyestuffs.",
+        "pt": "[Isco]\nSuspiro~ Você não tem nenhum Corante de Limão.",
+        "es": "[Isco]\nUf. No tienes ningún Tinte amarillo limón."
+    },
+    "uUNxAQ": {
+        "en": "[Isco]\n{0}How many Lemon Dyestuffs can you give me from the{1}you have?",
+        "pt": "[Isco]\n{0}Quantos Corantes de Limão você pode me dar de {1} que você tem?",
+        "es": "[Isco]\n¿Cuántos Tintes amarillo limón puedes darme de los {1} que tienes, {0}?"
+    },
+    "ukNxAQ": {
+        "en": "[Isco]\nSigh... I'm short of Lemon Dyestuff.",
+        "pt": "[Isco]\nSuspiro... Estou sem Corante de Limão.",
+        "es": "[Isco]\nUf… Me faltan Tintes amarillo limón."
+    },
+    "u0NxAQ": {
+        "en": "[Isco]\nSigh~ You don't have any Cobalt blue Dyestuffs.",
+        "pt": "[Isco]\nSuspiro~ Você não tem nenhum Corante Azul-Cobalto.",
+        "es": "[Isco]\nUf. No tienes ningún Tinte azul cobalto."
+    },
+    "vENxAQ": {
+        "en": "[Isco]\n{0}How many Cobalt blue Dyestuffs can you give me from the{1}you have?",
+        "pt": "[Isco]\n{0}Quantos Corantes Azul-Cobalto você pode me dar de {1} que você tem?",
+        "es": "[Isco]\n¿Cuántos Tintes azul cobalto puedes darme de los {1} que tienes, {0}?"
+    },
+    "vUNxAQ": {
+        "en": "[Isco]\nSigh... I'm short of Cobalt blue Dyestuff.",
+        "pt": "[Isco]\nSuspiro... Estou sem Corante Azul-Cobalto.",
+        "es": "[Isco]\nUf… Me faltan Tintes azul cobalto."
+    },
+    "vkNxAQ": {
+        "en": "[Isco]\nSigh~ You don't have any Dark green Dyestuffs.",
+        "pt": "[Isco]\nSuspiro~ Você não tem nenhum Corante Verde-Escuro.",
+        "es": "[Isco]\nUf. No tienes ningún Tinte verde oscuro."
+    },
+    "v0NxAQ": {
+        "en": "[Isco]\n{0}How many Dark green Dyestuffs can you give me from the{1}you have?",
+        "pt": "[Isco]\n{0}Quantos Corantes Verde-Escuros você pode me dar de {1} que você tem?",
+        "es": "[Isco]\n¿Cuántos Tintes verde oscuro puedes darme de los {1} que tienes, {0}?"
+    },
+    "wENxAQ": {
+        "en": "[Isco]\nSigh... I'm short of Dark green Dyestuff.",
+        "pt": "[Isco]\nSuspiro... Estou sem Corante Verde-Escuro.",
+        "es": "[Isco]\nUf… Me faltan Tintes verde oscuro."
+    },
+    "wUNxAQ": {
+        "en": "[Isco]\n{0}How many Dark green Dyestuffs can you give me from the{1}you have?",
+        "pt": "[Isco]\n{0}Quantos Corantes Verde-Escuros você pode me dar de {1} que você tem?",
+        "es": "[Isco]\n¿Cuántos Tintes naranjas puedes darme de los {1} que tienes, {0}?"
+    },
+    "wkNxAQ": {
+        "en": "[Isco]\nSigh... I'm short of Orange Dyestuff.",
+        "pt": "[Isco]\nSuspiro... Estou sem Corante Laranja.",
+        "es": "[Isco]\nUf… Me faltan Tintes naranjas."
+    },
+    "w0NxAQ": {
+        "en": "[Isco]\nSigh~ You don't have any Violet Dyestuffs.",
+        "pt": "[Isco]\nSuspiro~ Você não tem nenhum Corante Violeta.",
+        "es": "[Isco]\nUf. No tienes ningún Tinte violeta."
+    },
+    "xENxAQ": {
+        "en": "[Isco]\n{0}How many Violet Dyestuffs can you give me from the{1}you have?",
+        "pt": "[Isco]\n{0}Quantos Corantes Violeta você pode me dar de {1} que você tem?",
+        "es": "[Isco]\n¿Cuántos Tintes violetas puedes darme de los {1} que tienes, {0}?"
+    },
+    "xUNxAQ": {
+        "en": "[Isco]\nSigh... I'm short of Violet Dyestuff.",
+        "pt": "[Isco]\nSuspiro... Estou sem Corante Violeta.",
+        "es": "[Isco]\nUf… Me faltan Tintes violetas."
+    },
+    "xkNxAQ": {
+        "en": "[Isco]\nSigh~ You don't have any White Dyestuffs.",
+        "pt": "[Isco]\nSuspiro~ Você não tem nenhum Corante Branco.",
+        "es": "[Isco]\nUf. No tienes ningún Tinte blanco."
+    },
+    "x0NxAQ": {
+        "en": "[Isco]\n{0}How many White Dyestuffs can you give me from the{1}you have?",
+        "pt": "[Isco]\n{0}Quantos Corantes Brancos você pode me dar de {1} que você tem?",
+        "es": "[Isco]\n¿Cuántos Tintes blancos puedes darme de los {1} que tienes, {0}?"
+    },
+    "yENxAQ": {
+        "en": "[Isco]\nSigh... I'm short of White Dyestuff.",
+        "pt": "[Isco]\nSuspiro... Estou sem Corante Branco.",
+        "es": "[Isco]\nUf… Me faltan Tintes blancos."
+    },
+    "yUNxAQ": {
+        "en": "[Isco]\nSigh~ You don't have any Black Dyestuffs.",
+        "pt": "[Isco]\nSuspiro~ Você não tem nenhum Corante Preto.",
+        "es": "[Isco]\nUf. No tienes ningún Tinte negro."
+    },
+    "ykNxAQ": {
+        "en": "[Isco]\n{0}How many Black Dyestuffs can you give me from the{1}you have?",
+        "pt": "[Isco]\n{0}Quantos Corantes Pretos você pode me dar de {1} que você tem?",
+        "es": "[Isco]\n¿Cuántos Tintes negros puedes darme de los {1} que tienes, {0}?"
+    },
+    "y0NxAQ": {
+        "en": "[Isco]\nSigh... I'm short of Black Dyestuff.",
+        "pt": "[Isco]\nSuspiro... Estou sem Corante Preto.",
+        "es": "[Isco]\nUf… Me faltan Tintes negros."
+    },
+    "zENxAQ": {
+        "en": "Whoa! We've collected all the Dyestuffs we need. Happy~!",
+        "pt": "Uau! Coletamos todos os Corantes de que precisamos. Feliz~!",
+        "es": "¡Guau! Ya recolectamos todos los Tintes que necesitamos. ¡Estoy feliz!"
+    },
+    "zUNxAQ": {
+        "en": "I only need {0} more Dyestuff.",
+        "pt": "Eu só preciso de mais {0} Corante.",
+        "es": "Solo necesito {0} Tintes más."
+    },
+    "zkNxAQ": {
+        "en": "[Isco]\nHe he... Thanks.{0}!\n{1}",
+        "pt": "[Isco]\nHe he he... Obrigado.{0}!\n{1}",
+        "es": "[Isco]\nJe, je… ¡Gracias, {0}!\n{1}"
+    },
+    "z0NxAQ": {
+        "en": "Tattooist",
+        "pt": "Tatuador",
+        "es": "Tatuador"
+    },
+    "0ENxAQ": {
+        "en": "[Tattooist]\nWhy do you want a Tattoo?",
+        "pt": "[Tatuador]\nPor que você quer fazer uma tatuagem?",
+        "es": "[Tatuador]\n¿Por qué quieres un tatuaje?"
+    },
+    "0UNxAQ": {
+        "en": "What is a Tattoo?",
+        "pt": "O que é uma tatuagem?",
+        "es": "¿Qué es un tatuaje?"
+    },
+    "0kNxAQ": {
+        "en": "I'm curious about the effect of Tattoos.",
+        "pt": "Estou curioso sobre o efeito das Tatuagens.",
+        "es": "Tengo curiosidad por el efecto de los tatuajes."
+    },
+    "00NxAQ": {
+        "en": "I need a Tattoo.",
+        "pt": "Quero uma Tatuagem.",
+        "es": "Necesito un tatuaje."
+    },
+    "1ENxAQ": {
+        "en": "[Tattooist]\nA Tattoo of a powerful monster is said to increase the ability of the holder.",
+        "pt": "[Tatuador]\nDizem que a Tatuagem de um monstro poderoso aumenta a habilidade do portador.",
+        "es": "[Tatuador]\nSe dice que el tatuaje de un monstruo poderoso aumenta la habilidad de quien lo posee."
+    },
+    "1UNxAQ": {
+        "en": "Awesome. How can I get one?",
+        "pt": "Incrível. Como posso fazer uma?",
+        "es": "Impresionante. ¿Cómo puedo conseguir uno?"
+    },
+    "1kNxAQ": {
+        "en": "[Tattooist]\nDrawing a Tattoo is a very holy task.",
+        "pt": "[Tatuador]\nDesenhar uma tatuagem é uma tarefa muito sagrada.",
+        "es": "[Tatuador]\nDibujar un tatuaje es una tarea muy sagrada."
+    },
+    "10NxAQ": {
+        "en": "[Tattooist]\n10 Ancient Grudges to protect me while I draw Tattoos.",
+        "pt": "[Tatuador]\n10 Rancores Antigos para me proteger enquanto faço as Tatuagens.",
+        "es": "[Tatuador]\n10 Rencores antiguos para protegerme mientras dibujo tatuajes."
+    },
+    "2ENxAQ": {
+        "en": "[Tattooist]\n1 Doll that looks like a powerful monster.",
+        "pt": "[Tatuador]\n1 Boneca que se parece com um monstro poderoso.",
+        "es": "[Tatuador]\n1 Muñeca que se parezca a un monstruo poderoso."
+    },
+    "2UNxAQ": {
+        "en": "[Tattooist]\nAnd last but not least, 1 Spirit Piece to imbue the energy of a powerful monster into the Tattoo.",
+        "pt": "[Tatuador]\nE, por último, mas não menos importante: 1 Peça de Espírito para imbuir a energia de um monstro poderoso na Tatuagem.",
+        "es": "[Tatuador]\nY por último, pero no menos importante, 1 Fragmento de espíritu para imbuir la energía de un poderoso monstruo en el tatuaje."
+    },
+    "2kNxAQ": {
+        "en": "What kind of Tattoo will you draw?",
+        "pt": "Que tipo de tatuagem você vai fazer?",
+        "es": "¿Qué tipo de tatuaje dibujarás?"
+    },
+    "20NxAQ": {
+        "en": "[Tattooist]\nI can draw 3 kinds of Tattoos.",
+        "pt": "[Tatuador]\nPosso desenhar 3 tipos de Tatuagens.",
+        "es": "[Tatuador]\nPuedo dibujar 3 tipos de tatuajes."
+    },
+    "3ENxAQ": {
+        "en": "[Tattooist]\nBangungot Agimat Tattoo for a powerful monster that comes from an old gigantic tree in Port Malaya.",
+        "pt": "[Tatuador]\nTatuagem Bangungot Agimat para um monstro poderoso que vem de uma velha árvore gigantesca em Porto Malaya.",
+        "es": "[Tatuador]\nEl Tatuaje Agimat Bangungot de un poderoso monstruo que procede de un viejo árbol gigantesco de Port Malaya."
+    },
+    "3UNxAQ": {
+        "en": "[Tattooist]\nBakonawa Agimat Tattoo for a huge monster that can swallow the moon.",
+        "pt": "[Tatuador]\nTatuagem Bakonawa Agimat para um monstro enorme que pode engolir a lua.",
+        "es": "[Tatuador]\nEl Tatuaje Agimat Bakonawa de un enorme monstruo capaz de tragarse la luna."
+    },
+    "3kNxAQ": {
+        "en": "[Tattooist]\nBuwaya Agimat Tattoo for a giant alligator that kidnaps people.",
+        "pt": "[Tatuador]\nTatuagem Buwaya Agimat para um jacaré gigante que sequestra pessoas.",
+        "es": "[Tatuador]\nEl Tatuaje Agimat Buwaya de un cocodrilo gigante que secuestra a las personas."
+    },
+    "30NxAQ": {
+        "en": "Where can I get the Spirit Pieces and Doll?",
+        "pt": "Onde posso obter as Peças de Espírito e a Boneca?",
+        "es": "¿Dónde puedo conseguir los Fragmentos de espíritu y la Muñeca?"
+    },
+    "4ENxAQ": {
+        "en": "[Tattooist]\nYou can get these powerful items from Buwaya, Bangungot, and Bakonawa themselves but it won't be an easy task.",
+        "pt": "[Tatuador]\nVocê pode obter esses itens poderosos de Buwaya, Bangungot e Bakonawa, mas não será uma tarefa fácil.",
+        "es": "[Tatuador]\nPuedes conseguir estos poderosos objetos de los mismísimos Buwaya, Bangungot y Bakonawa, pero no será una tarea fácil."
+    },
+    "4UNxAQ": {
+        "en": "[Tattooist]\nThis holy task isn't done every day. Tattoos are drawn only during the '^7A96E0Pintados Festival^000000'.",
+        "pt": "[Tatuador]\nEssa tarefa sagrada não é feita todos os dias. As tatuagens são feitas somente durante o '^7A96E0Festival Pintados^000000'.",
+        "es": "[Tatuador]\nEsta tarea sagrada no se hace todos los días. Los tatuajes solo se pueden dibujar durante el ^7A96E0Festival de Pintados^000000."
+    },
+    "4kNxAQ": {
+        "en": "[Tattooist]\nWhich Tattoo's effect are you curious about?",
+        "pt": "[Tatuador]\nQual efeito da tatuagem lhe interessa?",
+        "es": "[Tatuador]\n¿El efecto de qué tatuaje te da curiosidad?"
+    },
+    "40NxAQ": {
+        "en": "Bangungot Agimat Tattoo",
+        "pt": "Tatuagem Bangungot Agimat",
+        "es": "Tatuaje Agimat Bangungot"
+    },
+    "5ENxAQ": {
+        "en": "Buwaya Agimat Tattoo",
+        "pt": "Tatuagem Buwaya Agimat",
+        "es": "Tatuaje Agimat Buwaya"
+    },
+    "5UNxAQ": {
+        "en": "Bakonawa Agimat Tattoo",
+        "pt": "Tatuagem Bakonawa Agimat",
+        "es": "Tatuaje Agimat Bakonawa"
+    },
+    "5kNxAQ": {
+        "en": "I have no questions.",
+        "pt": "Não tenho perguntas.",
+        "es": "No tengo preguntas."
+    },
+    "50NxAQ": {
+        "en": "[Tattooist]\nNeed 10 Ancient Grudges, 1 Piece of Bangungot's Spirit, and 1 Bangungot Doll to create",
+        "pt": "[Tatuador]\nPreciso de 10 Rancores Antigos, 1 Pedaço do Espírito de Bangungot e 1 Boneca Bangungot para fazer",
+        "es": "[Tatuador]\nSe necesitan 10 Rencores antiguos, 1 Fragmento de espíritu de Bangungot y 1 Muñeca de Bangungot para crearlo."
+    },
+    "6ENxAQ": {
+        "en": "[Tattooist]\nThe Bangungot Agimat Tattoo holds the energy of an old gigantic tree in Port Malaya.",
+        "pt": "[Tatuador]\nA tatuagem Bangungot Agimat contém a energia de uma antiga árvore gigantesca em Porto Malaya.",
+        "es": "[Tatuador]\nEl Tatuaje Agimat Bangungot contiene la energía de un viejo árbol gigantesco de Port Malaya."
+    },
+    "6UNxAQ": {
+        "en": "[Tattooist]\nIncreases the effect of healing others by 4% and healing from others by 7%.",
+        "pt": "[Tatuador]\nAumenta o efeito de cura de outros em 4% e a cura vind de outros em 7%.",
+        "es": "[Tatuador]\nAumenta el efecto de curar a otros en un 4 % y el de recibir curación de otros en un 7 %."
+    },
+    "6kNxAQ": {
+        "en": "[Tattooist]\nNeed 10 Ancient Grudges, 1 Piece of Buwaya's Spirit, and 1 Buwaya Doll to create",
+        "pt": "[Tatuador]\nPreciso de 10 Rancores Antigos, 1 Pedaço do Espírito de Buwaya e 1 Boneca Buwaya para fazer",
+        "es": "[Tatuador]\nSe necesitan 10 Rencores antiguos, 1 Fragmento de espíritu de Buwaya y 1 Muñeca de Buwaya para crearlo."
+    },
+    "60NxAQ": {
+        "en": "[Tattooist]\nThe Buwaya Agimat Tattoo contains the energy from a giant alligator.",
+        "pt": "[Tatuador]\nA tatuagem Buwaya Agimat contém a energia de um jacaré gigante.",
+        "es": "[Tatuador]\nEl Tatuaje Agimat Buwaya contiene la energía de un cocodrilo gigante."
+    },
+    "7ENxAQ": {
+        "en": "[Tattooist]\nIncreases MATK by +7% and decreases Fixed Casting by 7%.",
+        "pt": "[Tatuador]\nAumenta o ATQM em +7% e diminui a Conjuração Fixa em 7%.",
+        "es": "[Tatuador]\nAumenta el ATQM en un +7 % y reduce el lanzamiento fijo en un 7 %."
+    },
+    "7UNxAQ": {
+        "en": "[Tattooist]\nNeed 10 Ancient Grudges, 1 Piece of Bakonawa's Spirit, and 1 Bakonawa Doll to create",
+        "pt": "[Tatuador]\nPreciso de 10 Rancores Antigos, 1 Pedaço do Espírito de Bakonawa e 1 Boneca Bakonawa para fazer",
+        "es": "[Tatuador]\nSe necesitan 10 Rencores antiguos, 1 Fragmento del espíritu de Bakonawa y 1 Muñeca de Bakonawa para crearlo."
+    },
+    "7kNxAQ": {
+        "en": "[Tattooist]\nThe Bakonawa Agimat Tattoo holds the energy from a gigantic monster that can swallow the moon.",
+        "pt": "[Tatuador]\nA tatuagem Bakonawa Agimat contém a energia de um monstro gigantesco que pode engolir a lua.",
+        "es": "[Tatuador]\nEl Tatuaje Agimat Bakonawa contiene la energía de un monstruo gigantesco capaz de tragarse la luna."
+    },
+    "70NxAQ": {
+        "en": "[Tattooist]\nIncreases ATK by +7% and ASPD by 10%.",
+        "pt": "[Tatuador]\nAumenta o ATQ em +7% e VelATQ em 10%.",
+        "es": "[Tatuador]\nAumenta el ATQ en un +7 % y la VELA en un 10 %."
+    },
+    "8ENxAQ": {
+        "en": "[Tattooist]\nDo you have any questions about other Tattoo effects?",
+        "pt": "[Tatuador]\nVocê tem alguma dúvida sobre outros efeitos da Tatuagem?",
+        "es": "[Tatuador]\n¿Tienes alguna pregunta sobre el efecto de otros tatuajes?"
+    },
+    "8UNxAQ": {
+        "en": "[Tattooist]\nLooks like you've got all the answers. Hope you enjoy your journey.",
+        "pt": "[Tatuador]\nParece que você tem todas as respostas. Espero que aproveite sua jornada.",
+        "es": "[Tatuador]\nParece que tienes todas las respuestas. Espero que tengas un buen viaje."
+    },
+    "8kNxAQ": {
+        "en": "[Tattooist]\nThe holy task of drawing Tattoos is only done during the '^7A96E0Pintados Festival^000000'. Sorry but looks like the festival is not on.",
+        "pt": "[Tatuador]\nA tarefa sagrada de desenhar tatuagens só é feita durante o '^7A96E0Festival Pintados^000000'. Desculpe, mas parece que o festival não está acontecendo.",
+        "es": "[Tatuador]\nLa sagrada tarea de dibujar tatuajes solo se realiza durante el ^7A96E0Festival de Pintados^000000. Lo siento, pero parece que el festival todavía no empezó."
+    },
+    "80NxAQ": {
+        "en": "[Tattooist]\nYou've come right on time during the '^7A96E0Pintados Festival^000000'.",
+        "pt": "[Tatuador]\nVocê chegou bem na hora certa durante o '^7A96E0Festival Pintados^000000'.",
+        "es": "[Tatuador]\nLlegaste justo durante el ^7A96E0Festival de Pintados^000000."
+    },
+    "9ENxAQ": {
+        "en": "[Tattooist]\nThere is no time like during the holy '^7A96E0Pintados Festival^000000' to draw Tattoos.",
+        "pt": "[Tatuador]\nNão há momento melhor do que o sagrado '^7A96E0Festival Pintados^000000' para fazer Tatuagens.",
+        "es": "[Tatuador]\nEl mejor momento para dibujar tatuajes es durante el sagrado ^7A96E0Festival de Pintados^000000."
+    },
+    "9UNxAQ": {
+        "en": "[Tattooist]\nThe festival doesn't last long so I should start drawing. What Tattoo do you need?",
+        "pt": "[Tatuador]\nO festival não vai durar muito tempo, então devo começar a desenhar. Que Tatuagem você precisa?",
+        "es": "[Tatuador]\nEl festival no dura mucho, así que debería empezar a dibujar. ¿Qué tatuaje necesitas?"
+    },
+    "9kNxAQ": {
+        "en": "I will think it over.",
+        "pt": "Vou pensar sobre.",
+        "es": "Lo pensaré."
+    },
+    "90NxAQ": {
+        "en": "[Tattooist]\nHope you enjoy the '^7A96E0Pintados Festival^000000'.",
+        "pt": "[Tatuador]\nEspero que você aproveite o '^7A96E0Festival Pintados^000000'.",
+        "es": "[Tatuador]\nEspero que disfrutes del ^7A96E0Festival de Pintados^000000."
+    },
+    "+ENxAQ": {
+        "en": "Bangungot",
+        "pt": "Bangungot",
+        "es": "Bangungot"
+    },
+    "+UNxAQ": {
+        "en": "[Tattooist]\nI think you are short on materials.\nNeed 10 Ancient Grudges, 1 Piece of Bangungot's Spirit, and 1 Bangungot Doll to create a ^EE1D11Bangungot Agimat Tattoo^000000.",
+        "pt": "[Tatuador]\nAcho que você está sem os materiais.\nPreciso de 10 Rancores Antigos, 1 Pedaço do Espírito de Bangungot e 1 Boneca Bangungot para fazer uma ^EE1D11Tatuagem Bangungot Agimat^000000.",
+        "es": "[Tatuador]\nCreo que te faltan materiales.\nSe necesitan 10 Rencores antiguos, 1 Fragmento de espíritu de Bangungot y 1 Muñeca de Bangungot para crear un ^EE1D11Tatuaje Agimat Bangungot^000000."
+    },
+    "+kNxAQ": {
+        "en": "Buwaya",
+        "pt": "Buwaya",
+        "es": "Buwaya"
+    },
+    "+0NxAQ": {
+        "en": "[Tattooist]\nI think you are short on materials.\nNeed 10 Ancient Grudges, 1 Piece of Buwaya's Spirit, and 1 Buwaya Doll to create a ^EE1D11Buwaya Agimat Tattoo^000000.",
+        "pt": "[Tatuador]\nAcho que você está sem os materiais.\nPreciso de 10 Rancores Antigos, 1 Pedaço do Espírito de Buwaya e 1 Boneca Buwaya para fazer uma ^EE1D11Tatuagem Buwaya Agimat^000000.",
+        "es": "[Tatuador]\nCreo que te faltan materiales.\nSe necesitan 10 Rencores antiguos, 1 Fragmento de espíritu de Buwaya y 1 Muñeca de Buwaya para crear un ^EE1D11Tatuaje Agimat Buwaya^000000."
+    },
+    "/ENxAQ": {
+        "en": "Bakonawa",
+        "pt": "Bakonawa",
+        "es": "Bakonawa"
+    },
+    "/UNxAQ": {
+        "en": "[Tattooist]\nI think you are short on materials.\nNeed 10 Ancient Grudges, 1 Piece of Bakonawa's Spirit, and 1 Bakonawa Doll to create a ^EE1D11Bakonawa Agimat Tattoo^000000.",
+        "pt": "[Tatuador]\nAcho que você está sem os materiais.\nPreciso de 10 Rancores Antigos, 1 Pedaço do Espírito de Bakonawa e 1 Boneca Bakonawa para fazer uma ^EE1D11Tatuagem Bakonawa Agimat^000000.",
+        "es": "[Tatuador]\nCreo que te faltan materiales.\nSe necesitan 10 Rencores antiguos, 1 Fragmento del espíritu de Bakonawa y 1 Muñeca de Bakonawa para crear un ^EE1D11Tatuaje Agimat Bakonawa^000000."
+    },
+    "/kNxAQ": {
+        "en": "[Tattooist]\nThe materials are full with holy energy. I'm sure we'll get a great Tattoo using these.",
+        "pt": "[Tatuador]\nOs materiais estão cheios de energia sagrada. Tenho certeza de que faremos uma ótima tatuagem.",
+        "es": "[Tatuador]\nLos materiales están llenos de energía sagrada. Estoy seguro de que conseguiremos un gran tatuaje con estos materiales."
+    },
+    "/0NxAQ": {
+        "en": "[Tattooist]\nPlease don't interrupt while I'm working on drawing a holy Tattoo if you want it to come out right.",
+        "pt": "[Tatuador]\nPor favor, se quiser que a tatuagem sagrada saia boa, não me interrompa.",
+        "es": "[Tatuador]\nSi quieres que salga bien, no me interrumpas mientras dibujo el tatuaje sagrado."
+    },
+    "AERxAQ": {
+        "en": "The Tattooist placed the Ancient Grudges around the workplace.",
+        "pt": "O Tatuador colocou os Rancores Antigos em volta do local de trabalho.",
+        "es": "El tatuador colocó los Rencores antiguos alrededor de su lugar de trabajo."
+    },
+    "AURxAQ": {
+        "en": "The Ancient Grudge lit up and tools starts to glow. He smiled satisfyingly at the glowing tools and materials.",
+        "pt": "O Rancor Antigo se iluminou e as ferramentas começaram a brilhar. Ele sorriu com satisfação ao ver as ferramentas e os materiais brilhando.",
+        "es": "El Rencor antiguo se encendió y las herramientas empezaron a brillar. El tatuador sonrió satisfecho al ver las herramientas y los materiales relucientes."
+    },
+    "AkRxAQ": {
+        "en": "And then{0}starred intensely",
+        "pt": "E então{0} olhou intensamente",
+        "es": "Y, entonces, {0} miró intensamente"
+    },
+    "A0RxAQ": {
+        "en": "at the doll as if to remember every detail of it in his head.",
+        "pt": "para a boneca como se estivesse se lembrando de cada detalhe dela em sua cabeça.",
+        "es": "a la muñeca como si quisiera recordar cada detalle de ella."
+    },
+    "BERxAQ": {
+        "en": "Aren't you going to start?",
+        "pt": "Você não vai começar?",
+        "es": "¿No vas a empezar?"
+    },
+    "BURxAQ": {
+        "en": "... ... ..",
+        "pt": "........",
+        "es": "… … …"
+    },
+    "BkRxAQ": {
+        "en": "[Tattooist]\nOh no, now you ruined it.\nI cannot draw a Tattoo for someone like you who doesn't understand art. You can take back the remaining materials.",
+        "pt": "[Tatuador]\nAh, não... agora você estragou tudo.\nNão posso desenhar uma tatuagem para alguém que não entende de arte. Você pode pegar de volta os materiais restantes.",
+        "es": "[Tatuador]\nAy, no. Lo arruinaste.\nNo puedo dibujarle un tatuaje a alguien como tú, que no entiende nada de arte. Puedes llevarte los materiales restantes."
+    },
+    "B0RxAQ": {
+        "en": "Received back 5 Ancient Grudges, {0}Doll, and Piece of {0}'s Spirit.",
+        "pt": "Recebeu de volta 5 Rancores Antigos, Boneca {0} e Pedaço do Espírito de {0}.",
+        "es": "Recibes 5 Rencores antiguos, la Muñeca de {0} y el Fragmento de espíritu de {0}."
+    },
+    "CERxAQ": {
+        "en": "Think he will melt the doll with his eyes?",
+        "pt": "Você acha que ele derreterá a boneca com seus olhos?",
+        "es": "¿Crees que derretirá la muñeca con los ojos?"
+    },
+    "CURxAQ": {
+        "en": "He closed and opened his eyes slowly as if to memorize the doll in his head{0}and then held up a glowing tool to start drawing.",
+        "pt": "Ele fechou e abriu os olhos lentamente, como se estivesse memorizando o boneco em sua cabeça{0} e, em seguida, pegou uma ferramenta brilhante para começar a desenhar.",
+        "es": "Cerró y abrió los ojos lentamente como si quisiera memorizar la muñeca de {0} y, luego, levantó una herramienta brillante para empezar a dibujar."
+    },
+    "CkRxAQ": {
+        "en": "The Tattoo was completed{0}almost instantly.",
+        "pt": "A tatuagem foi concluída{0}quase que instantaneamente.",
+        "es": "El Tatuaje {0} estuvo terminado casi de inmediato."
+    },
+    "C0RxAQ": {
+        "en": "But he kept on looking at each corner of the drawing as if he didn't like some of its details.",
+        "pt": "Mas ele continuou olhando para cada canto do desenho, como se não gostasse de alguns detalhes.",
+        "es": "Pero siguió mirando cada esquina del dibujo como si no le gustaran algunos de sus detalles."
+    },
+    "DERxAQ": {
+        "en": "Looks good to me.",
+        "pt": "Parece bom para mim.",
+        "es": "Para mí está bien."
+    },
+    "DURxAQ": {
+        "en": "[Tattooist]\nErgh! I told you not to interrupt!",
+        "pt": "[Tatuador]\nAff! Eu disse para não interromper!",
+        "es": "[Tatuador]\n¡Agh! ¡Te dije que no interrumpieras!"
+    },
+    "DkRxAQ": {
+        "en": "The Tattooist ripped up the drawing irritably.",
+        "pt": "O tatuador rasgou o desenho com irritação.",
+        "es": "El tatuador rompió el dibujo con irritación."
+    },
+    "D0RxAQ": {
+        "en": "[Tattooist]\nI can't continue like this. Maybe another time. You can take back the remaining materials.",
+        "pt": "[Tatuador]\nNão dá pra continuar assim. Talvez em outra ocasião. Você pode pegar de volta os materiais restantes.",
+        "es": "[Tatuador]\nNo puedo seguir así. Quizás en otra ocasión. Puedes llevarte los materiales restantes."
+    },
+    "EERxAQ": {
+        "en": "Received back 5 Ancient Grudges,{0}Doll, and Piece of {0}'s Spirit.",
+        "pt": "Recebeu de volta 5 Rancores Antigos, Boneca {0} e Pedaço do Espírito de {0}.",
+        "es": "Recibes 5 Rencores antiguos, la Muñeca de {0} y el Fragmento de espíritu de {0}."
+    },
+    "EURxAQ": {
+        "en": "He looked at the drawing intensely for a long time and then nodded with a satisfied smile.",
+        "pt": "Ele olhou para o desenho intensamente por um longo tempo e depois assentiu com um sorriso satisfeito.",
+        "es": "Miró intensamente el dibujo durante un largo rato y, luego, asintió con una sonrisa de satisfacción."
+    },
+    "EkRxAQ": {
+        "en": "Looks like he is satisfied with the{0}drawing.",
+        "pt": "Parece que ele está satisfeito com o desenho{0}.",
+        "es": "Parece que está satisfecho con el dibujo de {0}."
+    },
+    "E0RxAQ": {
+        "en": "But now he is staring at the sky without doing anything else. What is he waiting for?",
+        "pt": "Mas agora ele está olhando para o céu sem fazer mais nada. O que ele está esperando?",
+        "es": "Pero ahora está mirando al cielo sin hacer nada más. ¿Qué espera?"
+    },
+    "FERxAQ": {
+        "en": "When will it be done?",
+        "pt": "Quando isso será feito?",
+        "es": "¿Cuándo estará listo?"
+    },
+    "FURxAQ": {
+        "en": "[Tattooist]\n.",
+        "pt": "[Tatuador]\n.",
+        "es": "[Tatuador]\n."
+    },
+    "FkRxAQ": {
+        "en": "[Tattooist]\n. .",
+        "pt": "[Tatuador]\n. .",
+        "es": "[Tatuador]\n. ."
+    },
+    "F0RxAQ": {
+        "en": "[Tattooist]\n. . .",
+        "pt": "[Tatuador]\n. . .",
+        "es": "[Tatuador]\n. . ."
+    },
+    "GERxAQ": {
+        "en": "[Tattooist]\n. . . .",
+        "pt": "[Tatuador]\n. . . .",
+        "es": "[Tatuador]\n. . . ."
+    },
+    "GURxAQ": {
+        "en": "[Tattooist]\n. . . . .",
+        "pt": "[Tatuador]\n. . . . .",
+        "es": "[Tatuador]\n. . . . ."
+    },
+    "GkRxAQ": {
+        "en": "[Tattooist]\n. . . . . .",
+        "pt": "[Tatuador]\n. . . . . .",
+        "es": "[Tatuador]\n. . . . . ."
+    },
+    "G0RxAQ": {
+        "en": "[Tattooist]\n. . . . . . .",
+        "pt": "[Tatuador]\n. . . . . . .",
+        "es": "[Tatuador]\n. . . . . . ."
+    },
+    "HERxAQ": {
+        "en": "The Tattooist's eyes started to shine after staring at the sky for awhile, then he broke the Piece of{0}'s Spirit with both his hands.",
+        "pt": "Os olhos do tatuador começaram a brilhar depois de olhar para o céu por um tempo, então ele quebrou o Pedaço do Espírito de {0} com as duas mãos.",
+        "es": "Los ojos del tatuador empezaron a brillar después de mirar al cielo durante un rato, entonces rompió el Fragmento de espíritu de {0} con las dos manos."
+    },
+    "HURxAQ": {
+        "en": "Why did you break the pieces...",
+        "pt": "Por que você quebrou as peças...",
+        "es": "¿Por qué rompiste los fragmentos…?"
+    },
+    "HkRxAQ": {
+        "en": "The glowing light from his hands faded away. He starred at his hands for a while and then ripped up the drawing irritably.",
+        "pt": "A luz brilhante de suas mãos desapareceu. Ele ficou olhando para as mãos por um tempo e depois rasgou o desenho com irritação.",
+        "es": "La luz brillante que brotaba de sus manos se desvaneció. Se miró las manos durante un rato y, luego, rompió el dibujo con irritación."
+    },
+    "H0RxAQ": {
+        "en": "[Tattooist]\nI was this close to completing a wonderful piece but you ruined it. Not in a good mood. You can take the remaining materials.",
+        "pt": "[Tatuador]\nEu estava quase terminando uma peça maravilhosa, mas você a arruinou. Não estou de bom humor. Você pode ficar com os materiais restantes.",
+        "es": "[Tatuador]\nEstuve así de cerca de completar una pieza maravillosa, pero la arruinaste. No estoy de humor. Puedes llevarte los materiales restantes."
+    },
+    "IERxAQ": {
+        "en": "Received back 5 Ancient Grudges,{0}and the doll.",
+        "pt": "Recebeu de volta 5 Rancores Antigos, {0} e a boneca.",
+        "es": "Recibes 5 Rencores antiguos y la Muñeca de {0}."
+    },
+    "IURxAQ": {
+        "en": "He held up the powder in both hands and then blew it onto the drawing.",
+        "pt": "Ele pegou o pó com as duas mãos e soprou sobre o desenho.",
+        "es": "Levantó el polvo con las dos manos y lo sopló sobre el dibujo."
+    },
+    "IkRxAQ": {
+        "en": "All Ancient Grudges started to burn and then the glowing{0}light from the drawing faded away.",
+        "pt": "Todos os rancores antigos começaram a queimar e, em seguida, a luz brilhante do desenho0{0}desapareceu.",
+        "es": "Todos los Rencores antiguos empezaron a arder y, entonces, la luz brillante del dibujo de {0} se desvaneció."
+    },
+    "I0RxAQ": {
+        "en": "Blinking light on top of the drawing.",
+        "pt": "Luz intermitente na parte superior do desenho.",
+        "es": "Luz intermitente en la parte superior del dibujo."
+    },
+    "JERxAQ": {
+        "en": "Light faded away and the drawing{0}is no longer the simple one it was before.",
+        "pt": "A luz se esvaiu e o desenho{0}não é mais simples do que era antes.",
+        "es": "La luz se desvanece, y el dibujo de {0} ya no es sencillo como antes."
+    },
+    "JURxAQ": {
+        "en": "The drawing looks as if it is...{0}alive.",
+        "pt": "O desenho parece estar...{0}vivo.",
+        "es": "El dibujo de {0} parece como si estuviera… vivo."
+    },
+    "JkRxAQ": {
+        "en": "The Tattooist is finally satisfied and is all smiles.",
+        "pt": "O tatuador está finalmente satisfeito e sorri bastante.",
+        "es": "El tatuador está finalmente satisfecho y sonríe de oreja a oreja."
+    },
+    "J0RxAQ": {
+        "en": "[Tattooist]\nHa ha. It came out great.",
+        "pt": "[Tatuador]\nHa ha. Ficou ótimo.",
+        "es": "[Tatuador]\nJa, ja. Salió muy bien."
+    },
+    "KERxAQ": {
+        "en": "[Tattooist]\nI'm sorry you had to wait for a long time. But it was worth it cause I haven't created a Tattoo of this quality in a long time.",
+        "pt": "[Tatuador]\nSinto muito que você tenha esperado por muito tempo. Mas valeu a pena, pois há muito tempo não faço uma tatuagem tão boa.",
+        "es": "[Tatuador]\nSiento que hayas tenido que esperar tanto tiempo. Pero valió la pena, porque hacía tiempo que no creaba un tatuaje de esta calidad."
+    },
+    "KURxAQ": {
+        "en": "[Tattooist]\nThe ^EE1D11{0}Agimat Tattoo^000000 you've waited for is now completed.",
+        "pt": "[Tatuador]\nA ^EE1D11{0}Tatuagem Agimat^000000 que você estava esperando foi concluída.",
+        "es": "[Tatuador]\nEl ^EE1D11Tatuaje Agimat {0}^000000 por el que tanto esperaste ya está listo."
+    },
+    "KkRxAQ": {
+        "en": "Tourist",
+        "pt": "Turista",
+        "es": "Turista"
+    },
+    "K0RxAQ": {
+        "en": "[Tourist]\nI came from afar and dropped everything to come and enjoy the 'Pintados Festival'.",
+        "pt": "[Turista]\nEu vim de longe e larguei tudo para vir e aproveitar o 'Festival Pintados'.",
+        "es": "[Turista]\nVengo de tierras lejanas y abandoné todo para poder disfrutar del Festival de Pintados."
+    },
+    "LERxAQ": {
+        "en": "[Tourist]\nI don't regret visiting but...",
+        "pt": "[Turista]\nNão me arrependo de ter visitado, mas...",
+        "es": "[Turista]\nNo me arrepiento de haber venido, pero…"
+    },
+    "LURxAQ": {
+        "en": "[Tourist]\nI don't like the Tattoo I got after all I've gone through to get it.",
+        "pt": "[Turista]\nNão gosto da tatuagem que fiz depois de tudo o que passei para consegui-la.",
+        "es": "[Turista]\nNo me gusta el tatuaje que hicieron después de todo lo que tuve que hacer para conseguirlo."
+    },
+    "LkRxAQ": {
+        "en": "[Tourist]\nI've looked at it in the light but I think the Tattooist made a mistake.",
+        "pt": "[Turista]\nDei uma olhada sob a luz, mas acho que o Tatuador cometeu um erro.",
+        "es": "[Turista]\nLo examiné a fondo, pero creo que el tatuador cometió un error."
+    },
+    "L0RxAQ": {
+        "en": "[Tourist]\nThis ruined my whole visit.",
+        "pt": "[Turista]\nIsso arruinou toda a minha visita.",
+        "es": "[Turista]\nEsto arruinó completamente mi visita."
+    },
+    "MERxAQ": {
+        "en": "[Tourist]\nTsk!",
+        "pt": "[Turista]\nTsk!",
+        "es": "[Turista]\n¡Pf!"
+    },
+    "MURxAQ": {
+        "en": "[Tourist]\nI heard of the 'Pintados Festival' and came all the way from Gonryun.",
+        "pt": "[Turista]\nOuvi falar do ''Festival Pintados'' e vim de Gonryun.",
+        "es": "[Turista]\nMe enteré del Festival de Pintados y vine desde Gonryun."
+    },
+    "MkRxAQ": {
+        "en": "[Tourist]\nJust in case you might think otherwise, this is a mask on my face and not a tattoo.",
+        "pt": "[Turista]\nCaso você pense o contrário, esta é uma máscara em meu rosto e não uma tatuagem.",
+        "es": "[Turista]\nEn caso de que pienses otra cosa, lo que tengo en el rostro es una máscara, no un tatuaje."
+    },
+    "M0RxAQ": {
+        "en": "[Tourist]\nHey, hear me. This isn't the Tattoo I wanted.",
+        "pt": "[Turista]\nEi, escuta. Essa não é a Tatuagem que eu queria.",
+        "es": "[Turista]\nOye, escúchame. Este no es el tatuaje que quería."
+    },
+    "NERxAQ": {
+        "en": "[Tourist]\nI asked for a Bakonawa Tattoo but the more I look at it, this is Bangungot.",
+        "pt": "[Turista]\nEu pedi uma Tatuagem de Bakonawa, mas quanto mais eu olho para ela, esta é de Bangungot.",
+        "es": "[Turista]\nPedí un tatuaje de Bakonawa pero cuanto más lo miro, más veo a Bangungot."
+    },
+    "NURxAQ": {
+        "en": "[Tattooist]\nNo... you said that you wanted that one. Don't be so difficult.",
+        "pt": "[Tatuador]\nNão, você disse que queria essa. Não seja difícil.",
+        "es": "[Tatuador]\nNo… dijiste que querías ese. No seas tan complicado."
+    },
+    "NkRxAQ": {
+        "en": "[Tourist]\nDon't you know that customer is king? Huh? Do you want a bad reputation?",
+        "pt": "[Turista]\nVocê não sabia que o cliente é rei, não? Você quer ter uma má reputação?",
+        "es": "[Turista]\n¿No sabes que el cliente es el rey? ¿Cómo? ¿Quieres tener una mala reputación?"
+    },
+    "N0RxAQ": {
+        "en": "[Tattooist]\nUgh... Can't believe this.",
+        "pt": "[Tatuador]\nUgh... Não acredito nisso.",
+        "es": "[Tatuador]\nUf… No puedo creerlo."
+    },
+    "OERxAQ": {
+        "en": "Young Tattooist",
+        "pt": "Jovem Tatuador",
+        "es": "Joven tatuador"
+    },
+    "OURxAQ": {
+        "en": "[Tattooist]\nAh... I can't work with customers like this.",
+        "pt": "[Tatuador]\nAh... Não posso trabalhar com clientes assim.",
+        "es": "[Tatuador]\nAh… No puedo trabajar con clientes como este."
+    },
+    "OkRxAQ": {
+        "en": "[Tattooist]\nHow many times do I have to tell you, you said you wanted a Bangungot.",
+        "pt": "[Tatuador]\nQuantas vezes tenho que lhe dizer? Você disse que queria um Bangungot.",
+        "es": "[Tatuador]\n¿Cuántas veces tengo que decírtelo? Dijiste que querías un Bangungot."
+    },
+    "O0RxAQ": {
+        "en": "[Tattooist]\nOuch, my throat... Shouting will get me nowhere.",
+        "pt": "[Tatuador]\nAi, minha garganta... Gritar não vai me levar a lugar nenhum.",
+        "es": "[Tatuador]\nAy, mi garganta… Gritar no resolverá las cosas."
+    },
+    "PERxAQ": {
+        "en": "[Tourist]\nThey say the Pintados Festival will only be held for one week.",
+        "pt": "[Turista]\nDizem que o Festival Pintados será realizado somente por uma semana.",
+        "es": "[Turista]\nDicen que el Festival de Pintados solo dura una semana."
+    },
+    "PURxAQ": {
+        "en": "[Tourist]\nI came from Louyang without knowing about the festival. Must be my lucky day.",
+        "pt": "[Turista]\nEu vim de Louyang sem saber do festival. Deve ser meu dia de sorte.",
+        "es": "[Turista]\nVine desde Louyang sin saber nada del festival. Debe ser mi día de suerte."
+    },
+    "PkRxAQ": {
+        "en": "Drumming Young Man",
+        "pt": "Jovem Baterista",
+        "es": "Joven tamborilero"
+    },
+    "P0RxAQ": {
+        "en": "ba-dum-DUM- ba-dum-DUM",
+        "pt": "ba-dum-DUM- ba-dum-DUM",
+        "es": "Bom-borom-BOM, bom-borom-BOM."
+    },
+    "QERxAQ": {
+        "en": "[Drumming Young Man]\nThe Pintados Festival wouldn't be a festival without a drummer.",
+        "pt": "[Jovem Baterista]\nO Festival Pintados não seria um festival sem um baterista.",
+        "es": "[Joven tamborilero]\nEl Festival de Pintados no sería un festival sin un tamborilero."
+    },
+    "QURxAQ": {
+        "en": "[Drumming Young Man]\nWhy don't you join?",
+        "pt": "[Jovem Baterista]\nPor que não se junta a nós?",
+        "es": "[Joven tamborilero]\n¿Por qué no te unes?"
+    },
+    "QkRxAQ": {
+        "en": "[Drumming Young Man]\nThe Pintados from Pintados Festival means painted in our language.",
+        "pt": "[Jovem Baterista]\nOs Pintados do Festival Pintados significa pintados em nosso idioma.",
+        "es": "[Joven tamborilero]\nEl Pintados del nombre del festival significa que se hacen pinturas."
+    },
+    "Q0RxAQ": {
+        "en": "[Drumming Young Man]\nSo that is probably why we have people drawing special Tattoos during the festival.",
+        "pt": "[Jovem Baterista]\nEntão, é por isso que temos pessoas fazendo tatuagens especiais durante o festival.",
+        "es": "[Joven tamborilero]\nProbablemente por eso hay personas que dibujan tatuajes especiales durante el festival."
+    },
+    "RERxAQ": {
+        "en": "[Drumming Young Man]\nI don't remember it accurately,",
+        "pt": "[Jovem Baterista]\nNão me lembro exatamente disso,",
+        "es": "[Joven tamborilero]\nNo lo recuerdo con exactitud,"
+    },
+    "RURxAQ": {
+        "en": "[Drumming Young Man]\nbut they say the Pintados Festival was to celebrate a rich harvest.",
+        "pt": "[Jovem Baterista]\nmas dizem que o Festival Pintados era para celebrar uma rica colheita.",
+        "es": "[Joven tamborilero]\npero dicen que el Festival de Pintados era para celebrar una cosecha abundante."
+    },
+    "RkRxAQ": {
+        "en": "Beat Catching Boy",
+        "pt": "Garoto do Ritmo",
+        "es": "Vencer a Catching Boy"
+    },
+    "R0RxAQ": {
+        "en": "ba-dum-TSH- ba-dum-TSH-",
+        "pt": "ba-dum-TSH- ba-dum-TSH-",
+        "es": "Bom-borom-TCH, bom-borom-TCH."
+    },
+    "SERxAQ": {
+        "en": "[Beat Catching Boy]\nI always get energetic when I hear drums and sticks in a rhythmic beat.",
+        "pt": "[Garoto do Ritmo]\nSempre fico enérgico quando ouço tambores e baquetas em uma batida rítmica.",
+        "es": "[Chico del ritmo]\nSiempre me pongo enérgico cuando oigo tambores y baquetas en un compás rítmico."
+    },
+    "SURxAQ": {
+        "en": "[Beat Catching Boy]\nba-dum-TSH- ba-dum-TSH- So much fun!",
+        "pt": "[Garoto do Ritmo]\nba-dum-TSH- ba-dum-TSH- Tão divertido!",
+        "es": "[Chico del ritmo]\nBom-borom-TCH, bom-borom-TCH. ¡Qué divertido!"
+    },
+    "SkRxAQ": {
+        "en": "[Beat Catching Boy]\nI may be using sticks to catch the beat right now but",
+        "pt": "[Garoto do Ritmo]\nPosso estar usando bastões para pegar a batida agora, mas",
+        "es": "[Chico del ritmo]\nPuede que ahora use baquetas para seguir el ritmo, pero"
+    },
+    "S0RxAQ": {
+        "en": "[Beat Catching Boy]\nyou never know if I'll grow big enough to play the drums, right?",
+        "pt": "[Garoto do Ritmo]\nnunca se sabe se eu vou crescer o suficiente para tocar bateria, né?",
+        "es": "[Chico del ritmo]\nnunca se sabe si llegaré a ser lo suficientemente grande como para tocar los tambores, ¿verdad?"
+    }
+}

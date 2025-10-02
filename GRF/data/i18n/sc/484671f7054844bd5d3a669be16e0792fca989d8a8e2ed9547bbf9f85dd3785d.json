@@ -1,0 +1,707 @@
+{
+    "AHS3AQ": {
+        "en": "Mercenary Guild Manager",
+        "pt": "Gerente de Assistentes",
+        "es": "Admin. de mercenarios"
+    },
+    "AXS3AQ": {
+        "en": "[Mercenary Manager]\nWelcome to the\nSpear Mercenary Guild.\nWhat can I do for you?",
+        "pt": "[Gerente de Assistentes]\nBem-vindo à \nGuilda dos Assistentes Lanceiros.\nEm que posso ajudar?",
+        "es": "[Admin. de mercenarios]\nTe damos la bienvenida al\nGremio de mercenarios lanceros.\n¿En qué te puedo ayudar?"
+    },
+    "AnS3AQ": {
+        "en": "Hire Mercenary",
+        "pt": "Contratar Assistente",
+        "es": "Contratar mercenarios."
+    },
+    "A3S3AQ": {
+        "en": "Mercenary Info",
+        "pt": "Informações sobre Assistentes",
+        "es": "Información sobre mercenarios."
+    },
+    "BHS3AQ": {
+        "en": "Nothing",
+        "pt": "Nada",
+        "es": "Nada."
+    },
+    "BXS3AQ": {
+        "en": "10th Grade Mercenaries",
+        "pt": "Assistentes de 10º Nível",
+        "es": "Mercenarios de grado 10."
+    },
+    "BnS3AQ": {
+        "en": "[Mercenary Manager]\nYou want to hire a\nSpear Mercenary?\nWhich Grade were you\ninterested in hiring?",
+        "pt": "[Gerente de Assistentes]\nVocê deseja contratar um\nAssistente Lanceiro?\nQual Nível de Assistente você \ngostaria de contratar?",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar un\nmercenario lancero?\n¿Qué grado te gustaría\ncontratar?"
+    },
+    "B3S3AQ": {
+        "en": "1st Grade",
+        "pt": "Assistente Lanceiro de nível 1",
+        "es": "Grado 1"
+    },
+    "CHS3AQ": {
+        "en": "2nd Grade",
+        "pt": "Assistente Lanceiro de nível 2",
+        "es": "Grado 2"
+    },
+    "CXS3AQ": {
+        "en": "3rd Grade",
+        "pt": "Assistente Lanceiro de nível 3",
+        "es": "Grado 3"
+    },
+    "CnS3AQ": {
+        "en": "4th Grade",
+        "pt": "Assistente Lanceiro de nível 4",
+        "es": "Grado 4"
+    },
+    "C3S3AQ": {
+        "en": "5th Grade",
+        "pt": "Assistente Lanceiro de nível 5",
+        "es": "Grado 5"
+    },
+    "DHS3AQ": {
+        "en": "6th Grade",
+        "pt": "Assistente Lanceiro de nível 6",
+        "es": "Grado 6"
+    },
+    "DXS3AQ": {
+        "en": "7th Grade",
+        "pt": "Assistente Lanceiro de nível 7",
+        "es": "Grado 7"
+    },
+    "DnS3AQ": {
+        "en": "8th Grade",
+        "pt": "Assistente Lanceiro de nível 8",
+        "es": "Grado 8"
+    },
+    "D3S3AQ": {
+        "en": "9th Grade",
+        "pt": "Assistente Lanceiro de nível 9",
+        "es": "Grado 9"
+    },
+    "EHS3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a 1st\nGrade Spear Mercenary?\nYou need to have attained\nBase Level 15 or higher, and\nmust pay the 7,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar um Assistente\nLanceiro de 1º Nível?\nVocê precisa ter\nNível Base 15 ou maior, além de\npagar a taxa de serviço de 10.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un mercenario de grado 1\nque sea lancero?\nDebes haber alcanzado\nun nivel de base 15 o superior, y\ndebes pagar la tarifa de 7000 zeny."
+    },
+    "EXS3AQ": {
+        "en": "Yes",
+        "pt": "Sim",
+        "es": "Sí."
+    },
+    "EnS3AQ": {
+        "en": "No",
+        "pt": "Não",
+        "es": "No."
+    },
+    "E3S3AQ": {
+        "en": "[Mercenary Manager]\nI'm sorry, but your Base\nLevel isn't high enough\nto hire this Mercenary.\nPlease come back to me\nonce you reach Base Level 15.",
+        "pt": "[Gerente de Assistentes]\nSinto muito, mas seu Nível\nBase não é alto o suficiente\npara contratar este Assistente.\nPor favor, volte\nassim que tiver atingido o Nível Base 15.",
+        "es": "[Admin. de mercenarios]\nLo siento, pero tu nivel\nde base no es lo suficientemente alto\npara contratar a este mercenario.\nRegresa cuando hayas alcanzado\nun nivel de base 15."
+    },
+    "FHS3AQ": {
+        "en": "[Mercenary Manager]\nI'm sorry, but you\ndon't have enough zeny\nto hire this Mercenary.\nThe hiring fee is 7,000 zeny.",
+        "pt": "[Gerente de Assistentes]\nSinto muito, mas\nvocê não tem zenys\npara contratar este Assistente.\nA taxa de contratação é de 10.000 zenys.",
+        "es": "[Admin. de mercenarios]\nLo siento, pero\nno tienes suficiente zeny.\npara contratar a este mercenario.\nLa tarifa para contratar es de 7000 zeny."
+    },
+    "FXS3AQ": {
+        "en": "[Mercenary Manager]\nGreat! Our Mercenaries\nare sincere and devoted\nto protecting their clients.\nSummoned Mercenaries will\noffer their support to you for\n30 minutes. Take care now.",
+        "pt": "[Gerente de Assistentes]\nÓtimo! Nossos Assistentes\nsão honestos e devotados\nà proteção de nossos clientes.\nOs Assistentes convocados\noferecerão seus serviços a você por\n30 minutos. Cuide-se.",
+        "es": "[Admin. de mercenarios]\n¡Genial! Nuestros mercenarios\nson sinceros y devotos\na la protección de sus clientes.\nLos mercenarios invocados\nte ofrecerán su apoyo durante\n30 minutos. Cuídate."
+    },
+    "FnS3AQ": {
+        "en": "[Mercenary Manager]\nOh, really? Well, now\nmight not be a good time\nfor you to consider hiring\na Mercenary, but please feel\nfree to come back if your\nneeds change. Thank you~",
+        "pt": "[Gerente de Assistentes]\nOh, é mesmo? Bem, agora\ntalvez não seja uma boa hora\npara você pensar em contratar\num Assistente, mas sinta-se à vontade\npara voltar caso mude\nde idéia. Obrigado.",
+        "es": "[Admin. de mercenarios]\nAh, ¿de verdad? Bueno, puede\nque este no sea un buen momento\npara que contrates\nun mercenario, pero\nno dudes en regresar\nsi tus necesidades cambian. Gracias."
+    },
+    "F3S3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a 2nd\nGrade Spear Mercenary?\nYou need to have attained\nBase Level 25 or higher, and\nmust pay the 14,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar um Assistente\nLanceiro de 2º Nível?\nVocê precisa ter\nNível Base 25 ou maior, além de\npagar a taxa de serviço de 14.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un mercenario de grado 2\nque sea lancero?\nDebes haber alcanzado\nun nivel de base 25 o superior, y\ndebes pagar la tarifa de 14000 zeny."
+    },
+    "GHS3AQ": {
+        "en": "[Mercenary Manager]\nI'm sorry, but your Base\nLevel isn't high enough\nto hire this Mercenary.\nPlease come back to me\nonce you reach Base Level 25.",
+        "pt": "[Gerente de Assistentes]\nSinto muito, mas seu Nível\nBase não é alto o suficiente\npara contratar este Assistente.\nPor favor, volte\nassim que tiver atingido o Nível Base 25.",
+        "es": "[Admin. de mercenarios]\nLo siento, pero tu nivel\nde base no es lo suficientemente alto\npara contratar a este mercenario.\nRegresa cuando hayas alcanzado\nun nivel de base 25."
+    },
+    "GXS3AQ": {
+        "en": "[Mercenary Manager]\nI'm sorry, but you\ndon't have enough zeny\nto hire this Mercenary.\nThe hiring fee is 14,000 zeny.",
+        "pt": "[Gerente de Assistentes]\nSinto muito, mas\nvocê não tem zenys\npara contratar este Assistente.\nA taxa de contratação é de 14.000 zenys.",
+        "es": "[Admin. de mercenarios]\nLo siento, pero\nno tienes suficiente zeny.\npara contratar a este mercenario.\nLa tarifa para contratar es de 14000 zeny."
+    },
+    "GnS3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a 3rd\nGrade Spear Mercenary?\nYou need to have attained\nBase Level 35 or higher, and\nmust pay the 21,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar um Assistente\nLanceiro de 3º Nível?\nVocê precisa ter\nNível Base 35 ou maior, além de\npagar a taxa de serviço de 21.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un mercenario de grado 3\nque sea lancero?\nDebes haber alcanzado\nun nivel de base 35 o superior, y\ndebes pagar la tarifa de 21000 zeny."
+    },
+    "G3S3AQ": {
+        "en": "[Mercenary Manager]\nI'm sorry, but your Base\nLevel isn't high enough\nto hire this Mercenary.\nPlease come back to me\nonce you reach Base Level 35",
+        "pt": "[Gerente de Assistentes]\nSinto muito, mas seu Nível\nBase não é alto o suficiente\npara contratar este Assistente.\nPor favor, volte\nassim que tiver atingido o Nível Base 35.",
+        "es": "[Admin. de mercenarios]\nLo siento, pero tu nivel\nde base no es lo suficientemente alto\npara contratar a este mercenario.\nRegresa cuando hayas alcanzado\nun nivel de base 35."
+    },
+    "HHS3AQ": {
+        "en": "[Mercenary Manager]\nI'm sorry, but you\ndon't have enough zeny\nto hire this Mercenary.\nThe hiring fee is 21,000 zeny.",
+        "pt": "[Gerente de Assistentes]\nSinto muito, mas\nvocê não tem zenys\npara contratar este Assistente.\nA taxa de contratação é de 21.000 zenys.",
+        "es": "[Admin. de mercenarios]\nLo siento, pero\nno tienes suficiente zeny.\npara contratar a este mercenario.\nLa tarifa para contratar es de 21000 zeny."
+    },
+    "HXS3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a 4th\nGrade Spear Mercenary?\nYou need to have attained\nBase Level 45 or higher, and\nmust pay the 28,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar um Assistente\nLanceiro de 4º Nível?\nVocê precisa ter\nNível Base 45 ou maior, além de\npagar a taxa de serviço de 28.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un mercenario de grado 4\nque sea lancero?\nDebes haber alcanzado\nun nivel de base 45 o superior, y\ndebes pagar la tarifa de 28000 zeny."
+    },
+    "HnS3AQ": {
+        "en": "[Mercenary Manager]\nI'm sorry, but your Base\nLevel isn't high enough\nto hire this Mercenary.\nPlease come back to me\nonce you reach Base Level 45.",
+        "pt": "[Gerente de Assistentes]\nSinto muito, mas seu Nível\nBase não é alto o suficiente\npara contratar este Assistente.\nPor favor, volte\nassim que tiver atingido o Nível Base 45.",
+        "es": "[Admin. de mercenarios]\nLo siento, pero tu nivel\nde base no es lo suficientemente alto\npara contratar a este mercenario.\nRegresa cuando hayas alcanzado\nun nivel de base 45."
+    },
+    "H3S3AQ": {
+        "en": "[Mercenary Manager]\nI'm sorry, but you\ndon't have enough zeny\nto hire this Mercenary.\nThe hiring fee is 28,000 zeny.",
+        "pt": "[Gerente de Assistentes]\nSinto muito, mas\nvocê não tem zenys\npara contratar este Assistente.\nA taxa de contratação é de 28.000 zenys.",
+        "es": "[Admin. de mercenarios]\nLo siento, pero\nno tienes suficiente zeny.\npara contratar a este mercenario.\nLa tarifa para contratar es de 28000 zeny."
+    },
+    "IHS3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a 5th\nGrade Spear Mercenary?\nYou need to have attained\nBase Level 55 or higher, and\nmust pay the 35,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar um Assistente\nLanceiro de 5º Nível?\nVocê precisa ter\nNível Base 55 ou maior, além de\npagar a taxa de serviço de 35.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un mercenario de grado 5\nque sea lancero?\nDebes haber alcanzado\nun nivel de base 55 o superior, y\ndebes pagar la tarifa de 35000 zeny."
+    },
+    "IXS3AQ": {
+        "en": "[Mercenary Manager]\nI'm sorry, but your Base\nLevel isn't high enough\nto hire this Mercenary.\nPlease come back to me\nonce you reach Base Level 55.",
+        "pt": "[Gerente de Assistentes]\nSinto muito, mas seu Nível\nBase não é alto o suficiente\npara contratar este Assistente.\nPor favor, volte\nassim que tiver atingido o Nível Base 55.",
+        "es": "[Admin. de mercenarios]\nLo siento, pero tu nivel\nde base no es lo suficientemente alto\npara contratar a este mercenario.\nRegresa cuando hayas alcanzado\nun nivel de base 55."
+    },
+    "InS3AQ": {
+        "en": "[Mercenary Manager]\nI'm sorry, but you\ndon't have enough zeny\nto hire this Mercenary.\nThe hiring fee is 35,000 zeny.",
+        "pt": "[Gerente de Assistentes]\nSinto muito, mas\nvocê não tem zenys\npara contratar este Assistente.\nA taxa de contratação é de 35.000 zenys.",
+        "es": "[Admin. de mercenarios]\nLo siento, pero\nno tienes suficiente zeny.\npara contratar a este mercenario.\nLa tarifa para contratar es de 35000 zeny."
+    },
+    "I3S3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a 6th\nGrade Spear Mercenary?\nYou need to have attained\nBase Level 65 or higher, and\nmust pay the 42,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar um Assistente\nLanceiro de 6º Nível?\nVocê precisa ter\nNível Base 65 ou maior, além de\npagar a taxa de serviço de 42.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un mercenario de grado 6\nque sea lancero?\nDebes haber alcanzado\nun nivel de base 65 o superior, y\ndebes pagar la tarifa de 42000 zeny."
+    },
+    "JHS3AQ": {
+        "en": "[Mercenary Manager]\nI'm sorry, but your Base\nLevel isn't high enough\nto hire this Mercenary.\nPlease come back to me\nonce you reach Base Level 65.",
+        "pt": "[Gerente de Assistentes]\nSinto muito, mas seu Nível\nBase não é alto o suficiente\npara contratar este Assistente.\nPor favor, volte\nassim que tiver atingido o Nível Base 65.",
+        "es": "[Admin. de mercenarios]\nLo siento, pero tu nivel\nde base no es lo suficientemente alto\npara contratar a este mercenario.\nRegresa cuando hayas alcanzado\nun nivel de base 65."
+    },
+    "JXS3AQ": {
+        "en": "[Mercenary Manager]\nI'm sorry, but you\ndon't have enough zeny\nto hire this Mercenary.\nThe hiring fee is 42,000 zeny.",
+        "pt": "[Gerente Mercenário]\nSinto muito, mas você\nnão tem Zeny suficiente\npara contratar esse Mercenário.\nA taxa de contratação é de 42.000 Zeny.",
+        "es": "[Admin. de mercenarios]\nLo siento, pero\nno tienes suficiente zeny.\npara contratar a este mercenario.\nLa tarifa para contratar es de 42000 zeny."
+    },
+    "JnS3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a 7th\nGrade Spear Mercenary?\nYou need to have attained\nBase Level 75 or higher, and\nmust pay the 49,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar um Assistente\nLanceiro de 7º Nível?\nVocê precisa ter\nNível Base 75 ou maior, além de\npagar a taxa de serviço de 49.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un mercenario de grado 7\nque sea lancero?\nDebes haber alcanzado\nun nivel de base 75 o superior, y\ndebes pagar la tarifa de 49000 zeny."
+    },
+    "J3S3AQ": {
+        "en": "[Mercenary Manager]\nOh... Your Loyalty rating\nwith the Spear Mercenary\nGuild isn't high enough to\nhire this Mercenary. Please\ncome back after you earn\n50 or more Loyalty with us.",
+        "pt": "[Gerente de Assistentes]\nOh... Sua taxa de Lealdade\nà Guilda dos Assistentes\nLanceiros não é alta o suficiente\npara contratar este Assistente. Por favor,\nvolte depois de conquistar\n50 ou mais pontos de Lealdade conosco.",
+        "es": "[Admin. de mercenarios]\nOh… Tu índice de Lealtad\ncon el Gremio de mercenarios lanceros\nno es lo suficientemente alto para\ncontratar a este mercenario. Por favor,\nregresa después de obtener\n50 puntos de Lealtad o más con nosotros."
+    },
+    "KHS3AQ": {
+        "en": "[Mercenary Manager]\nI'm sorry, but your Base\nLevel isn't high enough\nto hire this Mercenary.\nPlease come back to me\nonce you reach Base Level 75.",
+        "pt": "[Gerente de Assistentes]\nSinto muito, mas seu Nível\nBase não é alto o suficiente\npara contratar este Assistente.\nPor favor, volte\nassim que tiver atingido o Nível Base 75.",
+        "es": "[Admin. de mercenarios]\nLo siento, pero tu nivel\nde base no es lo suficientemente alto\npara contratar a este mercenario.\nRegresa cuando hayas alcanzado\nun nivel de base 75."
+    },
+    "KXS3AQ": {
+        "en": "[Mercenary Manager]\nI'm sorry, but you\ndon't have enough zeny\nto hire this Mercenary.\nThe hiring fee is 49,000 zeny.",
+        "pt": "[Gerente de Assistentes]\nSinto muito, mas \nvocê não tem zenys\npara contratar este Assistente.\nA taxa de contratação é de 49.000 zenys.",
+        "es": "[Admin. de mercenarios]\nLo siento, pero\nno tienes suficiente zeny.\npara contratar a este mercenario.\nLa tarifa para contratar es de 49000 zeny."
+    },
+    "KnS3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a 8th\nGrade Spear Mercenary?\nYou need to have attained\nBase Level 85 or higher, and\nmust pay the 56,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar um Assistente\nLanceiro de 8º Nível?\nVocê precisa ter\nNível Base 85 ou maior, além de\npagar a taxa de serviço de 56.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un mercenario de grado 8\nque sea lancero?\nDebes haber alcanzado\nun nivel de base 85 o superior, y\ndebes pagar la tarifa de 56000 zeny."
+    },
+    "K3S3AQ": {
+        "en": "[Mercenary Manager]\nOh... Your Loyalty rating\nwith the Spear Mercenary\nGuild isn't high enough to\nhire this Mercenary. Please\ncome back after you earn\n100 or more Loyalty with us.",
+        "pt": "[Gerente de Assistentes]\nOh... Sua taxa de Lealdade\nà Guilda dos Assistentes\nLanceiros não é alta o suficiente\npara contratar este Assistente. Por favor,\nvolte depois de conquistar\n100 ou mais pontos de Lealdade conosco.",
+        "es": "[Admin. de mercenarios]\nOh… Tu índice de Lealtad\ncon el Gremio de mercenarios lanceros\nno es lo suficientemente alto para\ncontratar a este mercenario. Por favor,\nregresa después de obtener\n100 puntos de Lealtad o más con nosotros."
+    },
+    "LHS3AQ": {
+        "en": "[Mercenary Manager]\nI'm sorry, but your Base\nLevel isn't high enough\nto hire this Mercenary.\nPlease come back to me\nonce you reach Base Level 85.",
+        "pt": "[Gerente de Assistentes]\nSinto muito, mas seu Nível\nBase não é alto o suficiente\npara contratar este Assistente.\nPor favor, volte\nassim que tiver atingido o Nível Base 85.",
+        "es": "[Admin. de mercenarios]\nLo siento, pero tu nivel\nde base no es lo suficientemente alto\npara contratar a este mercenario.\nRegresa cuando hayas alcanzado\nun nivel de base 85."
+    },
+    "LXS3AQ": {
+        "en": "[Mercenary Manager]\nI'm sorry, but you\ndon't have enough zeny\nto hire this Mercenary.\nThe hiring fee is 56,000 zeny.",
+        "pt": "[Gerente de Assistentes]\nSinto muito, mas \nvocê não tem zenys\npara contratar este Assistente.\nA taxa de contratação é de 56.000 zenys.",
+        "es": "[Admin. de mercenarios]\nLo siento, pero\nno tienes suficiente zeny.\npara contratar a este mercenario.\nLa tarifa para contratar es de 56000 zeny."
+    },
+    "LnS3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a 9th\nGrade Spear Mercenary?\nYou need to have attained\nBase Level 90 or higher, and\nmust pay the 63,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar um Assistente\nLanceiro de 9º Nível?\nVocê precisa ter\nNível Base 90 ou maior, além de\npagar a taxa de serviço de 63.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un mercenario de grado 9\nque sea lancero?\nDebes haber alcanzado\nun nivel de base 90 o superior, y\ndebes pagar la tarifa de 63000 zeny."
+    },
+    "L3S3AQ": {
+        "en": "[Mercenary Manager]\nOh... Your Loyalty rating\nwith the Spear Mercenary\nGuild isn't high enough to\nhire this Mercenary. Please\ncome back after you earn\n300 or more Loyalty with us.",
+        "pt": "[Gerente de Assistentes]\nOh... Sua taxa de Lealdade\nà Guilda dos Assistentes\nLanceiros não é alta o suficiente\npara contratar este Assistente. Por favor,\nvolte depois de conquistar\n300 ou mais pontos de Lealdade conosco.",
+        "es": "[Admin. de mercenarios]\nOh… Tu índice de Lealtad\ncon el Gremio de mercenarios lanceros\nno es lo suficientemente alto para\ncontratar a este mercenario. Por favor,\nregresa después de obtener\n300 puntos de Lealtad o más con nosotros."
+    },
+    "MHS3AQ": {
+        "en": "[Mercenary Manager]\nI'm sorry, but your Base\nLevel isn't high enough\nto hire this Mercenary.\nPlease come back to me\nonce you reach Base Level 90.",
+        "pt": "[Gerente de Assistentes]\nSinto muito, mas seu Nível\nBase não é alto o suficiente\npara contratar este Assistente.\nPor favor, volte\nassim que tiver atingido o Nível Base 90.",
+        "es": "[Admin. de mercenarios]\nLo siento, pero tu nivel\nde base no es lo suficientemente alto\npara contratar a este mercenario.\nRegresa cuando hayas alcanzado\nun nivel de base 90."
+    },
+    "MXS3AQ": {
+        "en": "[Mercenary Manager]\nI'm sorry, but you\ndon't have enough zeny\nto hire this Mercenary.\nThe hiring fee is 63,000 zeny.",
+        "pt": "[Gerente de Assistentes]\nSinto muito, mas \nvocê não tem zenys\npara contratar este Assistente.\nA taxa de contratação é de 63.000 zenys.",
+        "es": "[Admin. de mercenarios]\nLo siento, pero\nno tienes suficiente zeny.\npara contratar a este mercenario.\nLa tarifa para contratar es de 63000 zeny."
+    },
+    "MnS3AQ": {
+        "en": "[Mercenary Manager]\nMercenaries are soldiers\nthat will fight at your side\non the battlefield, but there\nare a few terms and conditions\nyou must fulfill to hire them.",
+        "pt": "[Gerente de Assistentes]\nAssistentes são soldados\nque lutarão a seu lado\nno campo de batalha, mas existem\nalguns termos e condições\nque você deve cumprir para contratá-los.",
+        "es": "[Admin. de mercenarios]\nLos mercenarios son soldados\nque lucharán a tu lado\nen el campo de batalla, pero hay\nalgunas condiciones\nque debes cumplir para contratarlos."
+    },
+    "M3S3AQ": {
+        "en": "[Mercenary Manager]\nYou must fulfill a level\nrequirement and pay a zeny\nfee to hire a Mercenary.\nHigher grade Mercenaries\nwill also require that you\nbuild a Loyalty rating with us.",
+        "pt": "[Gerente de Assistentes]\nVocê deve cumprir o requisito\nde nível e pagar uma taxa\nem zenys para contratar um Assistente.\nAssistentes de alto nível\ntambém têm como condição que você \ntenha um certo nível de Lealdade a nós.",
+        "es": "[Admin. de mercenarios]\nDebes cumplir\nun requisito de nivel y pagar una cantidad de zeny\npara contratar a un mercenario.\nLos mercenarios de grado superior\ntambién requerirán que\ndesarrolles un índice de Lealtad con nosotros."
+    },
+    "NHS3AQ": {
+        "en": "[Mercenary Manager]\nMercenary contracts can't be\ntransferred to other people,\nand we only allow a 5 Base Level difference between the Mercenary\nand client so you can't hire one much stronger than you.",
+        "pt": "[Gerente de Assistentes]\nContratos de Assistente não podem\nser transferidos para outras pessoas,\ne nós só permitimos uma diferença de 5 Níveis Base entre Assistente\ne cliente, então você não pode contratar alguém muito mais forte que você.",
+        "es": "[Admin. de mercenarios]\nLos contratos de mercenarios no pueden\ntransferirse a otras personas,\ny solo permitimos una diferencia de nivel de base de 5 entre el mercenario\ny el cliente para que no puedas contratar a uno mucho más fuerte que tú."
+    },
+    "NXS3AQ": {
+        "en": "[Mercenary Manager]\nWell, you can figure out the\ndetails when you actually form\na contract with one of our\nMercenaries, and receive\nthe Summon Scroll that will\ncall a Mercenary to your side.",
+        "pt": "[Gerente de Assistentes]\nBem, você pode se informar melhor dos\ndetalhes quando você de fato\ncontratar um de nossos\nAssistentes e receber\no Pergaminho de Invocação, que irá \nconvocar um Assistente para lhe escoltar.",
+        "es": "[Admin. de mercenarios]\nBueno, puedes consultar\nlos detalles cuando firmes\nun contrato con uno de nuestros\nmercenarios, y recibir\nel Pergamino de invocación que\ninvocará a un mercenario a tu lado."
+    },
+    "NnS3AQ": {
+        "en": "[Mercenary Manager]\nYou can't give this scroll\nto anyone else, and the\nMercenary will only remain\nwith you for 30 minutes after\nyou summon him. Don't forget\nabout the time limit, okay?",
+        "pt": "[Gerente de Assistentes]\nVocê não pode dar esse pergaminho\npara outra pessoa e o\nAssistente só ficará \ncom você até 30 minutos depois\nque você convocá-lo. Não esqueça\ndo limite de tempo, ok?",
+        "es": "[Admin. de mercenarios]\nNo puedes darle este Pergamino\na cualquier otra persona, y el\nmercenario solo se quedará \ncontigo durante 30 minutos después\nde que lo invoques. No olvides\nel límite de tiempo, ¿de acuerdo?"
+    },
+    "N3S3AQ": {
+        "en": "[Mercenary Manager]\nNo? You didn't need any\nhelp? Well, feel free to\nask me if you have any\nquestions about Mercenaries.",
+        "pt": "[Gerente de Assistentes]\nNão? Você não precisa de nenhuma\najuda? Bem, fique à vontade para\nperguntar o que quiser\nsaber sobre Assistentes.",
+        "es": "[Admin. de mercenarios]\n¿No? ¿No necesitabas\nayuda? Bueno, no dudes\nen hablarme si tienes alguna\npregunta sobre los mercenarios."
+    },
+    "OHS3AQ": {
+        "en": "[Mercenary Manager]\n10th Grade Mercenaries are\nthe best we have to offer,\nand we use different criteria\nfor our clients to hire them.\nThere's no zeny fee, but you\nmust have 500 Loyalty.",
+        "pt": "[Gerente de Assistentes]\nAssistentes de 10º Nível são\nos melhores que temos,\npor isso usamos outros critérios\npara nossos clientes contratá-los.\nNão há taxa de zeny, mas você \ndeve ter 500 pontos de Lealdade à Guilda.",
+        "es": "[Admin. de mercenarios]\nLos mercenarios de grado 10 son\nlo mejor que podemos ofrecer,\ny utilizamos criterios diferentes\npara que nuestros clientes los contraten.\nNo hay una tarifa de zeny, pero\ndebes tener 500 puntos de Lealtad."
+    },
+    "OXS3AQ": {
+        "en": "[Mercenary Manager]\nOnce you make a contract\nwith a 10th Grade Mercenary,\nyour Loyalty rating will be\ndecreased by 400. In other\nwords, you pay 400 Loyalty\nto hire a 10th Grade Mercenary.",
+        "pt": "[Gerente de Assistentes]\nAo fazer um contrato\ncom um Assistente de 10º Nível,\nsua taxa de Lealdade será \nreduzida em 400 pontos. Ou seja,\nvocê paga 400 pontos de Lealdade\npara contratar um Assistente de 10º Nível.",
+        "es": "[Admin. de mercenarios]\nCuando firmes el contrato\ncon un mercenario de grado 10,\ntu índice de Lealtad\ndisminuirá 400 puntos. Es decir,\npagarás 400 puntos de Lealtad\npor contratar a un mercenario de grado 10."
+    },
+    "OnS3AQ": {
+        "en": "[Mercenary Manager]\nYou must also be at\nBase Level 90 or higher to\nhire a 10th Grade Mercenary.\nAre you still interested in\nforming this contract?",
+        "pt": "[Gerente de Assistentes]\nVocê também deve ter\nNível Base 90 ou maior para\ncontratar um Assistente de 10º Nível.\nVocê tem interesse em\nfazer este contrato?",
+        "es": "[Admin. de mercenarios]\nTambién debes tener\nun nivel de base 90 o superior\npara contratar a un mercenario de grado 10.\n¿Te sigue interesando\nfirmar este contrato?"
+    },
+    "O3S3AQ": {
+        "en": "[Mercenary Manager]\nI'm sorry, but your\nLoyalty rating is too\nlow to hire a 10th Grade\nMercenary. You must have\n500 or more Loyalty to\nform a contract with one.",
+        "pt": "[Gerente de Assistentes]\nSinto muito, mas sua\ntaxa de Lealdade é muito\nbaixa para contratar um Assistente\nde 10º Nível. Você deve ter\n500 ou mais pontos de Lealdade para\nfazer um contrato com um deles.",
+        "es": "[Admin. de mercenarios]\nLo siento, pero\ntu índice de Lealtad es\ndemasiado bajo para contratar a un mercenario\nde grado 10. Debes tener\n500 puntos de Lealtad o más\npara firmar un contrato con un mercenario."
+    },
+    "PHS3AQ": {
+        "en": "[Mercenary Manager]\nI'm sorry, but you must\nbe at Base Level 90 or\nhigher to form a contract\nwith a 10th Grade Mercenary.",
+        "pt": "[Gerente de Assistentes]\nSinto muito, mas você deve ter\nNível Base 90 ou\nmaior para fazer um contrato\ncom um Assistente de 10º Nível.",
+        "es": "[Admin. de mercenarios]\nLo siento, pero debes tener\nun nivel de base 90 o superior\npara firmar un contrato\ncon un mercenario de grado 10."
+    },
+    "PXS3AQ": {
+        "en": "[Mercenary Manager]\nCongratulations! It looks\nlike you're planning in taking\non some very dangerous work\nsince you're hiring a 10th\nGrade Mercenary. I wish you\nthe best of luck with him.",
+        "pt": "[Gerente de Assistentes]\nParabéns! Parece\nque você pretende se meter\nem alguma coisa muito perigosa,\njá que está contratando um Assistente\nde 10º Nível. Desejo\nmuito boa sorte a você.",
+        "es": "[Admin. de mercenarios]\n¡Felicitaciones! Parece que\nvas a trabajar\nen algo muy peligroso,\nya que estás contratando a un mercenario\nde grado 10. Te deseo\nmucha suerte con el mercenario."
+    },
+    "PnS3AQ": {
+        "en": "[Mercenary Manager]\nI understand... It takes\nhard work and sacrifice to\neven reach the point where\nyou can hire a 10th Grade\nMercenary. Have you considered\nhiring a lower grade Mercenary?",
+        "pt": "[Gerente de Assistentes]\nEntendo... É necessário\nmuito esforço e sacrifício para\nalcançar os requisitos\nde contrato de um Assistente\nde 10º Nível. Você já pensou em\ncontratar um Assistente de nível menor?",
+        "es": "[Admin. de mercenarios]\nEntiendo… Se necesita\nun trabajo arduo y mucho sacrificio\npara incluso llegar\na contratar a un mercenario\nde grado 10. ¿Pensaste en\ncontratar a un mercenario de grado inferior?"
+    },
+    "P3S3AQ": {
+        "en": "[Mercenary Manager]\nWelcome to the\nSword Mercenary Guild.\nDid you have any questions?",
+        "pt": "[Gerente de Assistentes]\nBem-vindo à \nGuilda dos Assistentes Espadachins.\nTem alguma dúvida?",
+        "es": "[Admin. de mercenarios]\nTe damos la bienvenida al\nGremio de mercenarios espadachines.\n¿Tienes alguna pregunta?"
+    },
+    "QHS3AQ": {
+        "en": "[Mercenary Manager]\nYou want to hire a\nSword Mercenary?\nWhich Grade were you\ninterested in hiring?",
+        "pt": "[Gerente de Assistentes]\nVocê deseja contratar um\nAssistente Soldado?\nQual Nível de Assistente você \ngostaria de contratar?",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar un\nmercenario con espada?\n¿Qué grado te gustaría\ncontratar?"
+    },
+    "QXS3AQ": {
+        "en": "1st Grade Sword Mercenary",
+        "pt": "Assistente Soldado de nível 1",
+        "es": "Mercenario con espada de grado 1."
+    },
+    "QnS3AQ": {
+        "en": "2nd Grade Sword Mercenary",
+        "pt": "Assistente Soldado de nível 2",
+        "es": "Mercenario con espada de grado 2."
+    },
+    "Q3S3AQ": {
+        "en": "3rd Grade Sword Mercenary",
+        "pt": "Assistente Soldado de nível 3",
+        "es": "Mercenario con espada de grado 3."
+    },
+    "RHS3AQ": {
+        "en": "4th Grade Sword Mercenary",
+        "pt": "Assistente Soldado de nível 4",
+        "es": "Mercenario con espada de grado 4."
+    },
+    "RXS3AQ": {
+        "en": "5th Grade Sword Mercenary",
+        "pt": "Assistente Soldado de nível 5",
+        "es": "Mercenario con espada de grado 5."
+    },
+    "RnS3AQ": {
+        "en": "6th Grade Sword Mercenary",
+        "pt": "Assistente Soldado de nível 6",
+        "es": "Mercenario con espada de grado 6."
+    },
+    "R3S3AQ": {
+        "en": "7th Grade Sword Mercenary",
+        "pt": "Assistente Soldado de nível 7",
+        "es": "Mercenario con espada de grado 7."
+    },
+    "SHS3AQ": {
+        "en": "8th Grade Sword Mercenary",
+        "pt": "Assistente Soldado de nível 8",
+        "es": "Mercenario con espada de grado 8."
+    },
+    "SXS3AQ": {
+        "en": "9th Grade Sword Mercenary",
+        "pt": "Assistente Soldado de nível 9",
+        "es": "Mercenario con espada de grado 9."
+    },
+    "SnS3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a 1st\nGrade Sword Mercenary?\nYou need to have attained\nBase Level 15 or higher, and\nmust pay the 7,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar um Assistente\nSoldado de 1º Nível?\nVocê precisa ter\nNível Base 15 ou maior, além de\npagar a taxa de serviço de 7.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un mercenario de grado 1\ncon espada?\nDebes haber alcanzado\nun nivel de base 15 o superior, y\ndebes pagar la tarifa de 7000 zeny."
+    },
+    "S3S3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a 2nd\nGrade Sword Mercenary?\nYou need to have attained\nBase Level 25 or higher, and\nmust pay the 14,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar um Assistente\nSoldado de 2º Nível?\nVocê precisa ter\nNível Base 25 ou maior, além de\npagar a taxa de serviço de 14.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un mercenario de grado 2\ncon espada?\nDebes haber alcanzado\nun nivel de base 25 o superior, y\ndebes pagar la tarifa de 14000 zeny."
+    },
+    "THS3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a 3rd\nGrade Sword Mercenary?\nYou need to have attained\nBase Level 35 or higher, and\nmust pay the 21,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar um Assistente\nSoldado de 3º Nível?\nVocê precisa ter\nNível Base 35 ou maior, além de\npagar a taxa de serviço de 21.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un mercenario de grado 3\ncon espada?\nDebes haber alcanzado\nun nivel de base 35 o superior, y\ndebes pagar la tarifa de 21000 zeny."
+    },
+    "TXS3AQ": {
+        "en": "[Mercenary Manager]\nI'm sorry, but your Base\nLevel isn't high enough\nto hire this Mercenary.\nPlease come back to me\nonce you reach Base Level 35.",
+        "pt": "[Gerente de Assistentes]\nSinto muito, mas seu Nível\nBase não é alto o suficiente\npara contratar este Assistente.\nPor favor, volte\nassim que tiver atingido o Nível Base 35.",
+        "es": "[Admin. de mercenarios]\nLo siento, pero tu nivel\nde base no es lo suficientemente alto\npara contratar a este mercenario.\nRegresa cuando hayas alcanzado\nun nivel de base 35."
+    },
+    "TnS3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a 4th\nGrade Sword Mercenary?\nYou need to have attained\nBase Level 45 or higher, and\nmust pay the 28,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar um Assistente\nSoldado de 4º Nível?\nVocê precisa ter\nNível Base 45 ou maior, além de\npagar a taxa de serviço de 28.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un mercenario de grado 4\ncon espada?\nDebes haber alcanzado\nun nivel de base 45 o superior, y\ndebes pagar la tarifa de 28000 zeny."
+    },
+    "T3S3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a 5th\nGrade Sword Mercenary?\nYou need to have attained\nBase Level 55 or higher, and\nmust pay the 35,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar um Assistente\nSoldado de 5º Nível?\nVocê precisa ter\nNível Base 55 ou maior, além de\npagar a taxa de serviço de 35.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un mercenario de grado 5\ncon espada?\nDebes haber alcanzado\nun nivel de base 55 o superior, y\ndebes pagar la tarifa de 35000 zeny."
+    },
+    "UHS3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a 6th\nGrade Sword Mercenary?\nYou need to have attained\nBase Level 65 or higher, and\nmust pay the 42,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar um Assistente\nSoldado de 6º Nível?\nVocê precisa ter\nNível Base 65 ou maior, além de\npagar a taxa de serviço de 42.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un mercenario de grado 6\ncon espada?\nDebes haber alcanzado\nun nivel de base 65 o superior, y\ndebes pagar la tarifa de 42000 zeny."
+    },
+    "UXS3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a 7th\nGrade Sword Mercenary?\nYou need to have attained\nBase Level 75 or higher, and\nmust pay the 49,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar um Assistente\nSoldado de 7º Nível?\nVocê precisa ter\nNível Base 75 ou maior, além de\npagar a taxa de serviço de 49.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un mercenario de grado 7\ncon espada?\nDebes haber alcanzado\nun nivel de base 75 o superior, y\ndebes pagar la tarifa de 49000 zeny."
+    },
+    "UnS3AQ": {
+        "en": "[Mercenary Manager]\nOh... Your Loyalty rating\nwith the Sword Mercenary\nGuild isn't high enough to\nhire this Mercenary. Please\ncome back after you earn\n50 or more Loyalty with us.",
+        "pt": "[Gerente de Assistentes]\nOh... Sua taxa de Lealdade\nà Guilda dos Assistentes\nEspadachins não é alta o suficiente\npara contratar este Assistente. Por favor,\nvolte depois de conquistar\n50 ou mais pontos de Lealdade conosco.",
+        "es": "[Admin. de mercenarios]\nOh… Tu índice de Lealtad\ncon el Gremio de mercenario con espada\nno es lo suficientemente alto para\ncontratar a este mercenario. Por favor,\nregresa después de obtener\n50 puntos de Lealtad o más con nosotros."
+    },
+    "U3S3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a 8th\nGrade Sword Mercenary?\nYou need to have attained\nBase Level 85 or higher, and\nmust pay the 56,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar um Assistente\nSoldado de 8º Nível?\nVocê precisa ter\nNível Base 85 ou maior, além de\npagar a taxa de serviço de 56.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un mercenario de grado 8\ncon espada?\nDebes haber alcanzado\nun nivel de base 85 o superior, y\ndebes pagar la tarifa de 56000 zeny."
+    },
+    "VHS3AQ": {
+        "en": "[Mercenary Manager]\nOh... Your Loyalty rating\nwith the Sword Mercenary\nGuild isn't high enough to\nhire this Mercenary. Please\ncome back after you earn\n100 or more Loyalty with us.",
+        "pt": "[Gerente de Assistentes]\nOh... Sua taxa de Lealdade\nà Guilda dos Assistentes\nEspadachins não é alta o suficiente\npara contratar este Assistente. Por favor,\nvolte depois de conquistar\n100 ou mais pontos de Lealdade conosco.",
+        "es": "[Admin. de mercenarios]\nOh… Tu índice de Lealtad\ncon el Gremio de mercenario con espada\nno es lo suficientemente alto para\ncontratar a este mercenario. Por favor,\nregresa después de obtener\n100 puntos de Lealtad o más con nosotros."
+    },
+    "VXS3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a 9th\nGrade Sword Mercenary?\nYou need to have attained\nBase Level 90 or higher, and\nmust pay the 63,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar um Assistente\nSoldado de 9º Nível?\nVocê precisa ter\nNível Base 90 ou maior, além de\npagar a taxa de serviço de 63.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un mercenario de grado 9\ncon espada?\nDebes haber alcanzado\nun nivel de base 90 o superior, y\ndebes pagar la tarifa de 63000 zeny."
+    },
+    "VnS3AQ": {
+        "en": "[Mercenary Manager]\nOh... Your Loyalty rating\nwith the Sword Mercenary\nGuild isn't high enough to\nhire this Mercenary. Please\ncome back after you earn\n300 or more Loyalty with us.",
+        "pt": "[Gerente de Assistentes]\nOh... Sua taxa de Lealdade\nà Guilda dos Assistentes\nEspadachins não é alta o suficiente\npara contratar este Assistente. Por favor,\nvolte depois de conquistar\n300 ou mais pontos de Lealdade conosco.",
+        "es": "[Admin. de mercenarios]\nOh… Tu índice de Lealtad\ncon el Gremio de mercenario con espada\nno es lo suficientemente alto para\ncontratar a este mercenario. Por favor,\nregresa después de obtener\n300 puntos de Lealtad o más con nosotros."
+    },
+    "V3S3AQ": {
+        "en": "[Mercenary Manager]\nWelcome to the\nBow Mercenary Guild.\nHow can I be of service?",
+        "pt": "[Gerente de Assistentes]\nBem-vindo à \nGuilda das Assistentes Amazonas.\nEm que posso ajudar?",
+        "es": "[Admin. de mercenarios]\nTe damos la bienvenida al\nGremio de mercenarios arqueros.\n¿Cómo puedo servirte?"
+    },
+    "WHS3AQ": {
+        "en": "[Mercenary Manager]\nYou want to hire\na Bow Mercenary?\nWhich Grade were you\ninterested in hiring?",
+        "pt": "[Gerente de Assistentes]\nVocê deseja contratar uma\nAssistente Amazona?\nQual Nível de Assistente você \ngostaria de contratar?",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a\nun mercenario arquero?\n¿Qué grado te gustaría\ncontratar?"
+    },
+    "WXS3AQ": {
+        "en": "1st Grade Bow Mercenary",
+        "pt": "Assistente Amazona de nível 1",
+        "es": "Mercenario arquero de grado 1."
+    },
+    "WnS3AQ": {
+        "en": "2nd Grade Bow Mercenary",
+        "pt": "Assistente Amazona de nível 2",
+        "es": "Mercenario arquero de grado 2."
+    },
+    "W3S3AQ": {
+        "en": "3rd Grade Bow Mercenary",
+        "pt": "Assistente Amazona de nível 3",
+        "es": "Mercenario arquero de grado 3."
+    },
+    "XHS3AQ": {
+        "en": "4th Grade Bow Mercenary",
+        "pt": "Assistente Amazona de nível 4",
+        "es": "Mercenario arquero de grado 4."
+    },
+    "XXS3AQ": {
+        "en": "5th Grade Bow Mercenary",
+        "pt": "Assistente Amazona de nível 5",
+        "es": "Mercenario arquero de grado 5."
+    },
+    "XnS3AQ": {
+        "en": "6th Grade Bow Mercenary",
+        "pt": "Assistente Amazona de nível 6",
+        "es": "Mercenario arquero de grado 6."
+    },
+    "X3S3AQ": {
+        "en": "7th Grade Bow Mercenary",
+        "pt": "Assistente Amazona de nível 7",
+        "es": "Mercenario arquero de grado 7."
+    },
+    "YHS3AQ": {
+        "en": "8th Grade Bow Mercenary",
+        "pt": "Assistente Amazona de nível 8",
+        "es": "Mercenario arquero de grado 8."
+    },
+    "YXS3AQ": {
+        "en": "9th Grade Bow Mercenary",
+        "pt": "Assistente Amazona de nível 9",
+        "es": "Mercenario arquero de grado 9."
+    },
+    "YnS3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a\n1st Grade Bow Mercenary?\nYou need to have attained\nBase Level 15 or higher, and\nmust pay the 7,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar uma\nAssistente Amazona de 1º Nível?\nVocê precisa ter\nNível Base 15 ou maior, além de\npagar a taxa de serviço de 7.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un\nmercenario arquero de grado 1?\nDebes haber alcanzado\nun nivel de base 15 o superior, y\ndebes pagar la tarifa de 7000 zeny."
+    },
+    "Y3S3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a\n2nd Grade Bow Mercenary?\nYou need to have attained\nBase Level 25 or higher, and\nmust pay the 14,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar uma\nAssistente Amazona de 2º Nível?\nVocê precisa ter\nNível Base 25 ou maior, além de\npagar a taxa de serviço de 14.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un\nmercenario arquero de grado 2?\nDebes haber alcanzado\nun nivel de base 25 o superior, y\ndebes pagar la tarifa de 14000 zeny."
+    },
+    "ZHS3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a\n3rd Grade Bow Mercenary?\nYou need to have attained\nBase Level 35 or higher, and\nmust pay the 21,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar uma\nAssistente Amazona de 3º Nível?\nVocê precisa ter\nNível Base 35 ou maior, além de\npagar a taxa de serviço de 21.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un\nmercenario arquero de grado 3?\nDebes haber alcanzado\nun nivel de base 35 o superior, y\ndebes pagar la tarifa de 21000 zeny."
+    },
+    "ZXS3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a\n4th Grade Bow Mercenary?\nYou need to have attained\nBase Level 45 or higher, and\nmust pay the 28,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar uma\nAssistente Amazona de 4º Nível?\nVocê precisa ter\nNível Base 45 ou maior, além de\npagar a taxa de serviço de 28.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un\nmercenario arquero de grado 4?\nDebes haber alcanzado\nun nivel de base 45 o superior, y\ndebes pagar la tarifa de 28000 zeny."
+    },
+    "ZnS3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a\n5th Grade Bow Mercenary?\nYou need to have attained\nBase Level 55 or higher, and\nmust pay the 35,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar uma\nAssistente Amazona de 5º Nível?\nVocê precisa ter\nNível Base 55 ou maior, além de\npagar a taxa de serviço de 35.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un\nmercenario arquero de grado 5?\nDebes haber alcanzado\nun nivel de base 55 o superior, y\ndebes pagar la tarifa de 35000 zeny."
+    },
+    "Z3S3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a\n6th Grade Bow Mercenary?\nYou need to have attained\nBase Level 65 or higher, and\nmust pay the 42,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar uma\nAssistente Amazona de 6º Nível?\nVocê precisa ter\nNível Base 65 ou maior, além de\npagar a taxa de serviço de 42.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un\nmercenario arquero de grado 6?\nDebes haber alcanzado\nun nivel de base 65 o superior, y\ndebes pagar la tarifa de 42000 zeny."
+    },
+    "aHS3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a\n7th Grade Bow Mercenary?\nYou need to have attained\nBase Level 75 or higher, and\nmust pay the 49,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar uma\nAssistente Amazona de 7º Nível?\nVocê precisa ter\nNível Base 75 ou maior, além de\npagar a taxa de serviço de 49.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un\nmercenario arquero de grado 7?\nDebes haber alcanzado\nun nivel de base 75 o superior, y\ndebes pagar la tarifa de 49000 zeny."
+    },
+    "aXS3AQ": {
+        "en": "[Mercenary Manager]\nI'm sorry, but your\nLoyalty rating is too\nlow to hire this Bow\nMercenary. Come back\nagain when you have\n50 Loyalty or more.",
+        "pt": "[Gerente de Assistentes]\nSinto muito, mas sua\ntaxa de Lealdade é muito\nbaixa para contratar esta Assistente\nAmazona. Volte\nquando tiver\n50 ou mais pontos de Lealdade.",
+        "es": "[Admin. de mercenarios]\nLo siento, pero\ntu índice de Lealtad es\ndemasiado bajo para contratar a este mercenario\narquero. Vuelve\ncuando tengas\n50 puntos de Lealtad o más."
+    },
+    "anS3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a\n8th Grade Bow Mercenary?\nYou need to have attained\nBase Level 85 or higher, and\nmust pay the 56,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar uma\nAssistente Amazona de 8º Nível?\nVocê precisa ter\nNível Base 85 ou maior, além de\npagar a taxa de serviço de 56.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un\nmercenario arquero de grado 8?\nDebes haber alcanzado\nun nivel de base 85 o superior, y\ndebes pagar la tarifa de 56000 zeny."
+    },
+    "a3S3AQ": {
+        "en": "[Mercenary Manager]\nI'm sorry, but your\nLoyalty rating is too\nlow to hire this Bow\nMercenary. Come back\nagain when you have\n100 Loyalty or more.",
+        "pt": "[Gerente de Assistentes]\nSinto muito, mas sua\ntaxa de Lealdade é muito\nbaixa para contratar esta Assistente\nAmazona. Volte\nquando tiver\n100 ou mais pontos de Lealdade.",
+        "es": "[Admin. de mercenarios]\nLo siento, pero\ntu índice de Lealtad es\ndemasiado bajo para contratar a este mercenario\narquero. Vuelve\ncuando tengas\n100 puntos de Lealtad o más."
+    },
+    "bHS3AQ": {
+        "en": "[Mercenary Manager]\nSo you want to hire a\n9th Grade Bow Mercenary?\nYou need to have attained\nBase Level 90 or higher, and\nmust pay the 63,000 zeny fee.",
+        "pt": "[Gerente de Assistentes]\nEntão você quer contratar uma\nAssistente Amazona de 9º Nível?\nVocê precisa ter\nNível Base 90 ou maior, além de\npagar a taxa de serviço de 63.000 zenys.",
+        "es": "[Admin. de mercenarios]\n¿Quieres contratar a un\nmercenario arquero de grado 9?\nDebes haber alcanzado\nun nivel de base 90 o superior, y\ndebes pagar la tarifa de 63000 zeny."
+    },
+    "bXS3AQ": {
+        "en": "[Mercenary Manager]\nI'm sorry, but your\nLoyalty rating is too\nlow to hire this Bow\nMercenary. Come back\nagain when you have\n300 Loyalty or more.",
+        "pt": "[Gerente de Assistentes]\nSinto muito, mas sua\ntaxa de Lealdade é muito\nbaixa para contratar esta Assistente\nAmazona. Volte\nquando tiver\n300 ou mais pontos de Lealdade.",
+        "es": "[Admin. de mercenarios]\nLo siento, pero\ntu índice de Lealtad es\ndemasiado bajo para contratar a este mercenario\narquero. Vuelve\ncuando tengas\n300 puntos de Lealtad o más."
+    },
+    "bnS3AQ": {
+        "en": "Mercenary Merchant",
+        "pt": "Lojista de Assistentes",
+        "es": "Mercenario mercante"
+    },
+    "b3S3AQ": {
+        "en": "[Mercenary Goods Merchant]\nHello, I sell goods\nthat Mercenaries can\nuse. Is there anything\nin particular that\nyou're looking for?",
+        "pt": "[Lojista de Assistentes]\nOlá, eu vendo mercadorias\nque os Assistentes podem\nutilizar. Posso ajudar\nem alguma coisa? Algo em particular\nque você deseja?",
+        "es": "[Comerciante mercenario]\nHola, vendo productos\nque los mercenarios pueden\nusar. ¿Hay algo\nen particular\nque estés buscando?"
+    },
+    "cHS3AQ": {
+        "en": "Mercenary Red Potion",
+        "pt": "Poção Vermelha de Assistente",
+        "es": "Poción roja para mercenarios"
+    },
+    "cXS3AQ": {
+        "en": "Mercenary Blue Potion",
+        "pt": "Poção Azul de Assistente",
+        "es": "Poción azul para mercenarios"
+    },
+    "cnS3AQ": {
+        "en": "Mercenary Concentration Potion",
+        "pt": "Poção de Concentração de Assistente",
+        "es": "Poción de concentración para mercenarios"
+    },
+    "c3S3AQ": {
+        "en": "Mercenary Awakening Potion",
+        "pt": "Poção do Despertar de Assistente",
+        "es": "Poción para despertar para mercenarios"
+    },
+    "dHS3AQ": {
+        "en": "Mercenary Berserk Potion",
+        "pt": "Poção da Fúria Selvagem de Assistente",
+        "es": "Poción berserk para mercenarios"
+    },
+    "dXS3AQ": {
+        "en": "[Mercenary Goods Merchant]\nMercenary Red Potions\neach cost 1,750 zeny.\nHow many would you like?",
+        "pt": "[Lojista de Assistentes]\nPoções Vermelhas de Assistente\ncustam 1.750 zenys cada.\nQuantas você quer?",
+        "es": "[Comerciante mercenario]\nLas Pociones rojas para mercenarios\ncuestan 1750 zeny por unidad.\n¿Cuántas quieres?"
+    },
+    "dnS3AQ": {
+        "en": "[Mercenary Goods Merchant]\nI'm sorry, but you don't\nhave enough zeny for this\nmany potions. Well, I'll be\nbe here when you're ready\nto purchase something\nfor your Mercenaries.",
+        "pt": "[Lojista de Assistentes]\nDesculpe, mas você não\ntem zenys suficientes para\ntantas poções. Bem, estarei\naqui quando estiver pronto\npara comprar algo\npara seus Assistentes.",
+        "es": "[Comerciante mercenario]\nLo siento, pero no\ntienes suficientes zeny para\ntodas estas pociones. Bueno, estaré \naquí cuando puedas\ncomprar algo\npara tus mercenarios."
+    },
+    "d3S3AQ": {
+        "en": "[Mercenary Goods Merchant]\nYou're carrying too many\nitems in your Inventory now.\nfree up more space so you\ncan carry what you purchase.",
+        "pt": "[Lojista de Assistentes]\nVocê está carregando muitos\nitens em seu Inventário no momento.\nLibere espaço nele para que você \npossa carregar suas compras.",
+        "es": "[Comerciante mercenario]\nLlevas demasiados\nobjetos en tu inventario.\nLibera más espacio para que\npuedas llevar lo que compres."
+    },
+    "eHS3AQ": {
+        "en": "[Mercenary Goods Merchant]\nIf I gave you that many\npotions, you wouldn't be\nable to carry them with you.\nPlease come back after\nyou free up some space\nin your Inventory.",
+        "pt": "[Lojista de Assistentes]\nSe eu te desse tantas\npoções, você não poderia\ncarregá-las com você.\nVolte depois de\nliberar um pouco de espaço\nem seu Inventário.",
+        "es": "[Comerciante mercenario]\nSi te diera tantas\npociones, no podrías\nllevarlas contigo.\nVuelve luego de\nliberar algo de espacio\nen tu inventario."
+    },
+    "eXS3AQ": {
+        "en": "[Mercenary Goods Merchant]\nHere's {0} Mercenary\nRed Potion for you. Thank you,\nand please come again when\nyou need more potions\nfor your Mercenaries.",
+        "pt": "[Lojista de Assistentes]\nAqui estão, exatamente\n{0} Poções Vermelhas de Assistente.\nObrigada, e por favor, volte\nsempre que precisar de mais\npoções para seus Assistentes.",
+        "es": "[Comerciante mercenario]\nAquí tienes una {0}\nPoción roja para mercenario. Gracias\ny, por favor, vuelve cuando\nnecesites más pociones.\npara tus mercenarios."
+    },
+    "enS3AQ": {
+        "en": "[Mercenary Goods Merchant]\nMercenary Blue Potions\neach cost 3,500 zeny.\nHow many would you like?",
+        "pt": "[Lojista de Assistentes]\nPoções Azuis de Assistente\ncustam 3.500 zenys cada.\nQuantas você quer?",
+        "es": "[Comerciante mercenario]\nLas Pociones azules para mercenarios\ncuestan 3500 zeny por unidad.\n¿Cuántas quieres?"
+    },
+    "e3S3AQ": {
+        "en": "[Mercenary Goods Merchant]\nHere's {0} Mercenary\nBlue Potion for you. Thank you,\nand please come again when\nyou need more potions\nfor your Mercenaries.",
+        "pt": "[Lojista de Assistentes]\nAqui estão, exatamente\n{0} Poções Azuis de Assistente.\nObrigada, e por favor, volte\nsempre que precisar de mais\npoções para seus Assistentes.",
+        "es": "[Comerciante mercenario]\nAquí tienes una {0}\nPoción azul para mercenario. Gracias\ny, por favor, vuelve cuando\nnecesites más pociones.\npara tus mercenarios."
+    },
+    "fHS3AQ": {
+        "en": "[Mercenary Goods Merchant]\nMercenary Concentration\nPotions each cost 560 zeny.\nHow many would you like?",
+        "pt": "[Lojista de Assistentes]\nPoções de Concentração\nde Assistente custam 560 zenys cada.\nQuantas você quer?",
+        "es": "[Comerciante mercenario]\nLas Pociones de concentración para mercenarios\ncuestan 560 zeny por unidad.\n¿Cuántas quieres?"
+    },
+    "fXS3AQ": {
+        "en": "[Mercenary Goods Merchant]\nHere's {0} Mercenary\nConcentration Potion for you.\nThank you,\nand please come again when\nyou need more potions\nfor your Mercenaries.",
+        "pt": "[Lojista de Assistentes]\nAqui estão, exatamente\n{0} Poções de Concentração\nde Assistente. \nObrigada, e por favor\nvolte sempre que precisar de mais\npoções para seus Assistentes.",
+        "es": "[Comerciante mercenario]\nAquí tienes una {0}\nPoción de concentración.\nGracias\ny, por favor, vuelve cuando\nnecesites más pociones.\npara tus mercenarios."
+    },
+    "fnS3AQ": {
+        "en": "[Mercenary Goods Merchant]\nMercenary Awakening\nPotions each cost 1,050 zeny.\nHow many would you like?",
+        "pt": "[Lojista de Assistentes]\nPoções do Despertar\nde Assistente custam 1.050 zenys cada.\nQuantas você quer?",
+        "es": "[Comerciante mercenario]\nLas Pociones de despertar para mercenarios\ncuestan 1050 zeny por unidad.\n¿Cuántas quieres?"
+    },
+    "f3S3AQ": {
+        "en": "[Mercenary Goods Merchant]\nHere's {0} Mercenary\nAwakening Potion for you.\nThank you,\nand please come again when\nyou need more potions\nfor your Mercenaries.",
+        "pt": "[Lojista de Assistentes]\nAqui estão, exatamente\n{0} Poções do Despertar\nde Assistente. \nObrigada, e por favor\nvolte sempre que precisar de mais\npoções para seus Assistentes.",
+        "es": "[Comerciante mercenario]\nAquí tienes una {0}\nPoción para despertar.\nGracias\ny, por favor, vuelve cuando\nnecesites más pociones.\npara tus mercenarios."
+    },
+    "gHS3AQ": {
+        "en": "[Mercenary Goods Merchant]\nMercenary Beserk Potions\neach cost 2,100 zeny.\nHow many would you like?",
+        "pt": "[Lojista de Assistentes]\nPoções da Fúria Selvagem de Assistente\ncustam 2.100 zenys cada.\nQuantas você quer?",
+        "es": "[Comerciante mercenario]\nLas Pociones Berserk para mercenarios\ncuestan 2100 zeny por unidad.\n¿Cuántas quieres?"
+    },
+    "gXS3AQ": {
+        "en": "[Mercenary Goods Merchant]\nHere's {0} Mercenary\nBerserk Potion for you. Thank you,\nand please come again when\nyou need more potions\nfor your Mercenaries.",
+        "pt": "[Lojista de Assistentes]\nAqui estão, exatamente\n{0} Poções da Fúria Selvagem de Assistente. \nObrigada, e por favor, volte\nsempre que precisar de mais\npoções para seus Assistentes.",
+        "es": "[Comerciante mercenario]\nAquí tienes una {0}\nPoción Berserk. Gracias,\ny, por favor, vuelve cuando\nnecesites más pociones.\npara tus mercenarios."
+    },
+    "gnS3AQ": {
+        "en": "[Mercenary Goods Merchant]\n[Mercenary Goods Merchant]\nHere's {0} Mercenary\nBerserk Potion for you. Thank you,\nand please come again when\nyou need more potions\nfor your Mercenaries.",
+        "pt": "[Lojista de Assistentes]\nAqui estão, exatamente\n{0} Poções da Fúria Selvagem de Assistente. \nObrigada, \ne por favor, volte\nsempre que precisar de mais\npoções para seus Assistentes.",
+        "es": "[Comerciante mercenario]\n[Comerciante mercenario]\nAquí tienes una {0}\nPoción Berserk. Gracias,\ny, por favor, vuelve cuando\nnecesites más pociones.\npara tus mercenarios."
+    },
+    "g3S3AQ": {
+        "en": "Mercenary Guild Switch",
+        "pt": "Troca de Guilda de Assistentes",
+        "es": "Cambio de gremio mercenario"
+    },
+    "hHS3AQ": {
+        "en": "Please try again after installing a special item.",
+        "pt": "Tente novamente depois de instalar um item especial.",
+        "es": "Vuelve a intentarlo después de que hayas instalado un objeto especial."
+    },
+    "hXS3AQ": {
+        "en": "[Checker]\nPlease input a password.",
+        "pt": "[Verificador]\nDigite uma senha.",
+        "es": "[Verificador]\nIngresa una contraseña."
+    },
+    "hnS3AQ": {
+        "en": "[Checker]\nPlease select.",
+        "pt": "[Verificador]\nSelecione.",
+        "es": "[Verificador]\nSeleccionar."
+    },
+    "h3S3AQ": {
+        "en": "Turn off Mercenary NPC",
+        "pt": "Desativar o NPC Assistente",
+        "es": "Desactivar NPC de mercenario."
+    },
+    "iHS3AQ": {
+        "en": "Turn on Mercenary NPC",
+        "pt": "Ativar o NPC Assistente",
+        "es": "Activar NPC de mercenario."
+    },
+    "iXS3AQ": {
+        "en": "NPCs are turned off.",
+        "pt": "Os NPCs estão desativados.",
+        "es": "Los NPC están desactivados."
+    },
+    "inS3AQ": {
+        "en": "NPCs are turned on.",
+        "pt": "Os NPCs estão ativados.",
+        "es": "Los NPC están activados."
+    },
+    "i3S3AQ": {
+        "en": "Wrong number",
+        "pt": "Número errado",
+        "es": "Número equivocado"
+    },
+    "jHS3AQ": {
+        "en": "Wrong number.",
+        "pt": "Número errado.",
+        "es": "Número equivocado."
+    }
+}

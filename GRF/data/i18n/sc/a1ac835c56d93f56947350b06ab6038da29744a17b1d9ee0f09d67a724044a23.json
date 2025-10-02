@@ -1,0 +1,347 @@
+{
+    "wAGGCA": {
+        "en": "Dark magic master",
+        "pt": "Artesã Sombria",
+        "es": "Maestro de magia negra"
+    },
+    "wQGGCA": {
+        "en": "Random Effect Check.",
+        "pt": "Checagem de efeito aleatório.",
+        "es": "Comprobación de efectos aleatorios."
+    },
+    "wgGGCA": {
+        "en": "You seem to be carrying too many items. Put some items in storage and come back again.",
+        "pt": "Você está carregando muitos itens. Guarde alguns deles no armazém e tente novamente.",
+        "es": "Parece que llevas demasiados objetos. Guarda algunas cosas y vuelve otra vez."
+    },
+    "wwGGCA": {
+        "en": "Your bag is too heavy. Reduce some weight and come back.",
+        "pt": "Você está carregando muito peso. Livre um pouco de carga e tente novamente.",
+        "es": "Tu bolsa pesa demasiado. Reduce algo de peso y vuelve."
+    },
+    "xAGGCA": {
+        "en": "[Dark magic master]\nI deal with the Temporal Boots with socket only.",
+        "pt": "[Artesã Sombria]\nEu lido apenas com Botas Temporais que contêm slot de carta.",
+        "es": "[Maestro de magia oscura]\nMe ocupo solo de las Botas temporales con ranura."
+    },
+    "xQGGCA": {
+        "en": "How does the enchanting work?",
+        "pt": "Como o encantamento funciona?",
+        "es": "¿Cómo funciona el encantamiento?"
+    },
+    "xgGGCA": {
+        "en": "Give effect to my Temporal Boots",
+        "pt": "Encantar Botas Temporais [1]",
+        "es": "Dar efecto a mis Botas Temporales"
+    },
+    "xwGGCA": {
+        "en": "Initialize Enchant",
+        "pt": "Resetar Encantamentos",
+        "es": "Inicializar encantamiento."
+    },
+    "yAGGCA": {
+        "en": "[Dark magic master]\nYou should ask Hugin's magic master all the basic things. I want deeper conversation about enchating work.",
+        "pt": "[Artesã Sombria]\nVocê deveria perguntar isso à Artesã Mágica de Hugin. Eu não tenho interesse em discutir assuntos tão básicos...",
+        "es": "[Maestro de magia oscura]\nDeberías preguntarle al maestro de magia de Hugin las cuestiones básicas. Quiero una conversación más profunda sobre el trabajo de encantamientos."
+    },
+    "yQGGCA": {
+        "en": "[Dark magic master]\nI need 4 items. ^0000FF 100,000zeny. Contaminated Magic. Coagulated Spell. Temporal Boots(Socket) Series. ^000000. If you don't have any of these, I cannot help you.",
+        "pt": "[Artesã Sombria]\nEu vou precisar do seguinte: ^0000FF100.000z, Mana Sombria, Mana Coagulada e Botas Temporais com slot. ^000000. Se você não tiver tudo isso, não poderei ajudar.",
+        "es": "[Maestro de magia oscura]\nNecesito 4objetos. ^0000FF 100000zeny. Hechizo contaminado. Hechizo coagulado. Serie Botas temporales (ranura)^000000. Si no tienes ninguno de estos, no puedo ayudarte."
+    },
+    "ygGGCA": {
+        "en": "[Dark magic master]\nIt's my small hobby.. To enchant Socketed Temporal Boots using polluted and coagulated spell.",
+        "pt": "[Artesã Sombria]\nNo meu tempo livre, gosto de encantar Botas Temporais com slot... Esse é o meu hobby.",
+        "es": "[Maestro de magia oscura]\nEs mi pequeño pasatiempo… encantar Botas temporales con ranuras mediante el hechizo contaminado y el coagulado."
+    },
+    "ywGGCA": {
+        "en": "[Dark magic master]\nOf course, you must cope with bigger risk of fail whenever you'd like to enchant again and again, but your boots will not be destroyed.",
+        "pt": "[Artesã Sombria]\nÉ algo que eu faço só no meu tempo livre, então venha achando que sou uma expert no assunto. O que eu quero dizer é que há uma chance da sua bota ser destruída no processo de encantamento.",
+        "es": "[Maestro de magia oscura]\nPor supuesto, hay un mayor riesgo de fallar cada vez que quieras encantar, pero tus botas no se destruirán."
+    },
+    "zAGGCA": {
+        "en": "[Dark magic master]\nThe enchant order is same as Hugin's magic master's enchantment. Please refer to his explanation.",
+        "pt": "[Artesã Sombria]\nOs encantamentos seguem a mesma ordem daqueles da Artesã Mágica de Hugin. Se tiver dúvidas sobre a ordem, pergunte a ela.",
+        "es": "[Maestro de magia oscura]\nEl orden de encantamiento es el mismo que el del maestro de magia de Hugin. Consulta su explicación."
+    },
+    "zQGGCA": {
+        "en": "[Dark magic master]\nAre you wearing the item?",
+        "pt": "[Artesã Sombria]\nHum, você equipou o item?",
+        "es": "[Maestro de magia oscura]\n¿Llevas puesto el artículo?"
+    },
+    "zgGGCA": {
+        "en": "^FF0000It seems it has random effect. I cannot work on it.^000000",
+        "pt": "^FF0000Parece que este item já possui um bônus aleatório aplicado. Não posso encantar...^000000",
+        "es": "^FF0000Parece que tiene un efecto aleatorio. No puedo trabajar en ello.^000000"
+    },
+    "zwGGCA": {
+        "en": "[Dark magic master]\nIt's dangerouse to take off your item while processing..",
+        "pt": "[Artesã Sombria]\nEi! É perigoso desequipar seu item durante o processo!",
+        "es": "[Maestro de magia oscura]\nEs peligroso quitarse la prenda mientras se procesa.."
+    },
+    "0AGGCA": {
+        "en": "Modified Str Boots(Socket)",
+        "pt": "Bota Modificada FOR [1]",
+        "es": "Botas de FUE modificadas (ranura)."
+    },
+    "0QGGCA": {
+        "en": "Modified Int Boots(Socket)",
+        "pt": "Bota Modificada INT [1]",
+        "es": "Botas de INT modificadas (ranura)."
+    },
+    "0gGGCA": {
+        "en": "Modified Agi Boots(Socket)",
+        "pt": "Bota Modificada AGI [1]",
+        "es": "Botas de AGI modificadas (ranura)."
+    },
+    "0wGGCA": {
+        "en": "Modified Vit Boots(Socket)",
+        "pt": "Bota Modificada VIT [1]",
+        "es": "Botas de VIT modificadas (ranura)."
+    },
+    "1AGGCA": {
+        "en": "Modified Dex Boots(Socket)",
+        "pt": "Bota Modificada DES [1]",
+        "es": "Botas de DES modificadas (ranura)."
+    },
+    "1QGGCA": {
+        "en": "Modified Luck Boots(Socket)",
+        "pt": "Bota Modificada SOR [1]",
+        "es": "Botas de SUE modificadas (ranura)."
+    },
+    "1gGGCA": {
+        "en": "Temporal Str Boots(Socket)",
+        "pt": "Bota Temporal FOR [1]",
+        "es": "Botas temporales de SUE (ranura)."
+    },
+    "1wGGCA": {
+        "en": "Temporal Int Boots(Socket)",
+        "pt": "Bota Temporal INT [1]",
+        "es": "Botas temporales de INT (ranura)."
+    },
+    "2AGGCA": {
+        "en": "Temporal Agi Boots(Socket)",
+        "pt": "Bota Temporal AGI [1]",
+        "es": "Botas temporales de AGI (ranura)."
+    },
+    "2QGGCA": {
+        "en": "Temporal Vit Boots(Socket)",
+        "pt": "Bota Temporal VIT [1]",
+        "es": "Botas temporales de VIT (ranura)."
+    },
+    "2gGGCA": {
+        "en": "Temporal Dex Boots(Socket)",
+        "pt": "Bota Temporal DES [1]",
+        "es": "Botas temporales de DES (ranura)."
+    },
+    "2wGGCA": {
+        "en": "Temporal Luck Boots(Socket)",
+        "pt": "Bota Temporal SOR [1]",
+        "es": "Botas temporales de SUE (ranura)."
+    },
+    "3AGGCA": {
+        "en": "[Dark magic master]\nYou need eauipment that has been enchanted at least once.",
+        "pt": "[Artesã Sombria]\nEste item não pode ser encantado. Lembre-se: apenas os 6 tipos de Botas Temporais com slot podem ser encantadas.",
+        "es": "[Maestro de magia oscura]\nNecesitas equipamiento que haya sido encantado al menos una vez."
+    },
+    "3QGGCA": {
+        "en": "[Dark magic master]\nI found at least 1 enchant. Would you Initialize it?",
+        "pt": "[Artesã Sombria]\nEstas botas já atingiram o limite de encantamentos. Não posso mais encantá-las.",
+        "es": "[Maestro de magia oscura]\nEncontré al menos 1 encantamiento. ¿Lo inicializarías?"
+    },
+    "3gGGCA": {
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar."
+    },
+    "3wGGCA": {
+        "en": "Initialize using Magic and Fragment",
+        "pt": "Resetar usando Mana Sombria e Fragmento Temporal",
+        "es": "Inicializar utilizando Magic y Fragment"
+    },
+    "4AGGCA": {
+        "en": "Initialize using Powerful Dimensional Essence",
+        "pt": "Resetar usando Âmago Dimensional",
+        "es": "Inicializar utilizando la Poderosa Esencia Dimensional"
+    },
+    "4QGGCA": {
+        "en": "Please come back when you are ready.",
+        "pt": "Por favor, volte quando estiver com tudo pronto.",
+        "es": "Por favor, vuelva cuando esté listo."
+    },
+    "4gGGCA": {
+        "en": "Contaminated Magic",
+        "pt": "Mana Sombria",
+        "es": "Magia contaminada"
+    },
+    "4wGGCA": {
+        "en": "Temporal Fragment",
+        "pt": "Fragmento Temporal",
+        "es": "Fragmento temporal"
+    },
+    "5AGGCA": {
+        "en": "Powerful Dimensional Essence",
+        "pt": "Âmago Dimensional",
+        "es": "Poderosa esencia dimensional"
+    },
+    "5QGGCA": {
+        "en": "[Dark magic master]\n<ITEM>[{0}]<INFO>{1}</INFO></ITEM>{2}ea",
+        "pt": "[Artesã Sombria] \nPreciso de {2}x <ITEM>[{0}]<INFO>{1}</INFO></ITEM>",
+        "es": "[Maestro de magia oscura]\n<ITEM>[{0}]<INFO>{1}</INFO></ITEM>{2}ea"
+    },
+    "5gGGCA": {
+        "en": "<ITEM>[{0}]<INFO>{1}</INFO></ITEM>{2}ea",
+        "pt": "e {2}x <ITEM>[{0}]<INFO>{1}</INFO></ITEM>",
+        "es": "<ITEM>[{0}]<INFO>{1}</INFO></ITEM>{2}ea"
+    },
+    "5wGGCA": {
+        "en": "are needed to be initialized, and it is ^0000FF{0}%^000000 for success.",
+        "pt": "para resetar. AH! E a chance de sucesso é de ^0000FF{0}%^000000.",
+        "es": "son necesarios para ser inicializado, y es ^0000FF{0}%^000000 para el éxito."
+    },
+    "6AGGCA": {
+        "en": "If it fails, your equipment will be destroyed, please be careful.",
+        "pt": "Se falhar, seu equipamento será destruído. Por favor, tenha cuidado.",
+        "es": "Si falla, su equipo será destruido, por favor tenga cuidado."
+    },
+    "6QGGCA": {
+        "en": "Initialize",
+        "pt": "Resetar",
+        "es": "Inicializar"
+    },
+    "6gGGCA": {
+        "en": "[Dark magic master]\nPlease come back when you are ready.",
+        "pt": "[Artesã Sombria] \nPor favor, volte quando estiver pronto(a).",
+        "es": "[Maestro de magia oscura]\nPor favor, vuelva cuando esté listo."
+    },
+    "6wGGCA": {
+        "en": "[Dark magic master]\n<ITEM>[{0}]<INFO>{1}</INFO></ITEM>{2}ea\n<ITEM>[{3}]<INFO>{4}</INFO></ITEM>{5}ea\nare needed. Please check your inventory.",
+        "pt": "[Artesã Sombria] \nPreciso de {2}x <ITEM>[{0}]<INFO>{1}</INFO></ITEM>\ne {5}x <ITEM>[{3}]<INFO>{4}</INFO></ITEM>. Por favor, verifique seu inventário.",
+        "es": "[Maestro de magia oscura]\n<ITEM>[{0}]<INFO>{1}</INFO></ITEM>{2}ea\n<ITEM>[{3}]<INFO>{4}</INFO></ITEM>{5}ea\nson necesarios. Revisa tu inventario."
+    },
+    "7AGGCA": {
+        "en": "[Dark magic master]\n<ITEM>[{0}]<INFO>{1}</INFO></ITEM>{2}ea\nare needed. Please check your inventory.",
+        "pt": "[Artesã Sombria] \nPreciso de {2}x <ITEM>[{0}]<INFO>{1}</INFO></ITEM>. Por favor, verifique seu inventário.",
+        "es": "[Maestro de magia oscura]\n<ITEM>[{0}]<INFO>{1}</INFO></ITEM>{2}ea\nson necesarios. Revisa tu inventario."
+    },
+    "7QGGCA": {
+        "en": "[Dark magic master]",
+        "pt": "[Artesã Sombria]",
+        "es": "[Maestro de magia oscura]"
+    },
+    "7gGGCA": {
+        "en": "It suceeded to initialize the equipment.",
+        "pt": "O reset do equipamento foi bem-sucedido.",
+        "es": "Ha conseguido inicializar el equipo."
+    },
+    "7wGGCA": {
+        "en": "It failed, your equipment was destroyed.",
+        "pt": "Falhou, seu equipamento foi destruído.",
+        "es": "Falló, su equipo fue destruido."
+    },
+    "8AGGCA": {
+        "en": "[Dark magic master]\nThis is not the right item for this enchant. Remember, only those 6 types of Temporal Boots with socket are available for hidden enchanting..",
+        "pt": "[Artesã Sombria] \nEste não é o item correto para este encantamento. Lembre-se: apenas aqueles 6 tipos de Botas Temporais com slot estão disponíveis para encantamento..",
+        "es": "[Maestro de magia oscura]\nEste no es el objeto adecuado para este encantamiento. Recuerda que solo esos 6tipos de Botas temporales con ranura están disponibles para el encantamiento oculto…"
+    },
+    "8QGGCA": {
+        "en": "[Dark magic master]\nThese boots have already passed the enchanting limit. We can't enchant them any more.",
+        "pt": "[Artesã Sombria] \nEstas botas já passaram do limite de encantamento. Não podemos mais encantá-las.",
+        "es": "[Maestro de magia oscura]\nEstas botas ya han superado el límite de encantamiento. Ya no podemos encantarlos."
+    },
+    "8gGGCA": {
+        "en": "[Dark magic master]\nWant to enchant ^0000FF{0}^000000? For the 1st enchanting, you need ^0000FF{1}^000000 Contaminated Magic, {2} Coagulated Spell, and 100,000 zeny.\nIt has some risk of failing..",
+        "pt": "[Artesã Sombria]\nVocê deseja encantar a ^0000FF{0}^000000? Para o 1º encantamento, serão necessários ^0000FF{1}^000000x Mana Sombria, {2}x Mana Coagulada e 100.000z.\nE não se esqueça: o 1º encantamento não possui riscos, mas os demais sim... Deseja continuar?",
+        "es": "[Maestro de magia oscura]\n¿Quieres encantar ^0000FF{0}^000000? Para el primerencantamiento, necesitas ^0000FF{1}^000000 Hechizo contaminado, {2} Hechizo coagulado y 100000zeny.\nTiene cierto riesgo de falla…"
+    },
+    "8wGGCA": {
+        "en": "Quit",
+        "pt": "Vou ver e te aviso.",
+        "es": "Salir."
+    },
+    "9AGGCA": {
+        "en": "Fighting Spirit",
+        "pt": "Espírito do Lutador",
+        "es": "Espíritu de lucha"
+    },
+    "9QGGCA": {
+        "en": "Archery",
+        "pt": "Mira Apurada",
+        "es": "Tiro con arco"
+    },
+    "9gGGCA": {
+        "en": "Spell",
+        "pt": "Encantamento",
+        "es": "Hechizo"
+    },
+    "9wGGCA": {
+        "en": "Vitality",
+        "pt": "VIT",
+        "es": "Vitalidad"
+    },
+    "+AGGCA": {
+        "en": "Attack speed",
+        "pt": "Anti-Atraso",
+        "es": "Velocidad de ataque"
+    },
+    "+QGGCA": {
+        "en": "Lucky",
+        "pt": "SOR",
+        "es": "Suerte."
+    },
+    "+gGGCA": {
+        "en": "[Dark magic master]\nOk, come back when you are ready.",
+        "pt": "[Artesã Sombria]\nOk, volte se mudar de ideia!",
+        "es": "[Maestro de magia oscura]\nVale, vuelve cuando estés listo."
+    },
+    "+wGGCA": {
+        "en": "[Dark magic master]\nEnchanting ^0000FF{0}^000000's 4th slot as ^0000FF{1} ^000000 level effect. Requires ^0000FF{2} Contaminated Magic, {3} Coagulated Spell, and 100,000 z^000000. It has some risk of failing..",
+        "pt": "[Artesã Sombria]\nEncantar o 4º slot da ^0000FF{0}^000000 com um efeito de nível ^0000FF{1}^000000 precisará de ^0000FF{2}x Mana Sombria, {3}x Mana Coagulada e 100.000z^000000. E o processo pode falhar...",
+        "es": "[Maestro de magia oscura]\nEncantamiento ^0000FF{0}^000000's 4 ª ranura como ^0000FF{1} ^000000 efecto de nivel. Requiere ^0000FF{2} Hechizo contaminado, {3} Hechizo Coagulado y 100000zeny^000000. Tiene cierto riesgo de fallar.."
+    },
+    "/AGGCA": {
+        "en": "Effect Upgrade!",
+        "pt": "Manda ver!",
+        "es": "Actualización de efectos"
+    },
+    "/QGGCA": {
+        "en": "[Dark magic master]\nWould you like a random bonus effect for the 3rd slot? You need ^0000FF{0} Contaminated Magic, {1} Coagulated Spell, and 100,000 zeny.^000000. But it has high risk of failing..",
+        "pt": "[Artesã Sombria]\nVocê deseja receber um encantamento aleatório para o 3º slot? Você precisará de ^0000FF{0}x Mana Sombria, {1}x Mana Coagulada e 100.000z.^000000. E o processo tem altas chances de falhar...",
+        "es": "[Maestro de magia oscura]\n¿Quieres un efecto de bonificación aleatorio para la 3ª ranura? Necesitas ^0000FF{0} Hechizo contaminado, {1} Hechizo coagulado y 100000zeny.^000000. Pero tiene un alto riesgo de falla…"
+    },
+    "/gGGCA": {
+        "en": "[Dark magic master]\nArrgh... I feel so dizzy just looking at your terrible appearance... Please go away, now!",
+        "pt": "[Artesã Sombria]\nArgh... Sinto tonto só de olhar pra sua aparência... Suma da minha frente!",
+        "es": "[Maestro de magia oscura]\nGrrr… Me siento tan mareada sólo de ver tu terrible aspecto... ¡Por favor, vete ya!"
+    },
+    "/wGGCA": {
+        "en": "[Dark magic master]\nHmm, you are missing {0} Coagulated Spell items. Go get more, and then we can talk about more enchants.",
+        "pt": "[Artesã Sombria]\nHmm, você não tem {0}x Mana Coagulada. Sinto muito.",
+        "es": "[Maestro de magia oscura]\nHmm, te faltan {0} objetos de Hechizo Coagulado. Ve a por más, y entonces podremos hablar de más encantos."
+    },
+    "AAKGCA": {
+        "en": "[Dark magic master]\nHmm, you are missing {0}Contaminated Magic items. Go get more, and then we can talk about more enchants.",
+        "pt": "[Artesã Sombria]\nHmm, você não tem {0}x Mana Sombria. Sinto muito.",
+        "es": "[Maestro de magia oscura]\nMm, te faltan {0}objetos de Hechizo contaminado. Ve a por más, y entonces podremos hablar de más encantos."
+    },
+    "AQKGCA": {
+        "en": "[Dark magic master]\nYou must bring ^0000FF100,000 zeny^000000. Nothing is free you know...",
+        "pt": "[Artesã Sombria]\nVocê sabe que eu preciso de ^0000FF100.000z^000000, né? Nada nessa vida é de graça!",
+        "es": "[Maestro de magia oscura]\nDebes traer ^0000FF100000zeny^000000. Nada es gratis..."
+    },
+    "AgKGCA": {
+        "en": "[Dark magic master]\nTrying for enchant number ^990000{0}^000000.",
+        "pt": "[Artesã Sombria]\nTentando o ^990000{0}^000000º encantamento",
+        "es": "[Maestro de magia oscura]\nTratando el número de encantamiento ^990000{0}^000000."
+    },
+    "AwKGCA": {
+        "en": "[Dark magic master]\nTrying for ^990000 Bonus effect ^000000 upgrade.",
+        "pt": "[Artesã Sombria]\nTentando obter o ^990000encanto especial^000000.",
+        "es": "[Maestro de magia oscura]\nTratando de mejorar el ^990000efecto de bonificación^000000."
+    },
+    "BAKGCA": {
+        "en": "[Dark magic master]\nArrggg, we failed. But don`t worry, your equipment is safe now.",
+        "pt": "[Artesã Sombria]\nNÃO! Argh, deu tudo errado. Farei melhor da próxima vez, prometo.",
+        "es": "[Maestro de magia oscura]\nArrggg, hemos fallado. Pero no te preocupes, tu equipamiento ya está a salvo."
+    }
+}

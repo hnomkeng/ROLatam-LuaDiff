@@ -1,0 +1,752 @@
+{
+    "IBqpCA": {
+        "en": "Lab1",
+        "pt": "Laboratório 1",
+        "es": "Laboratorio 1"
+    },
+    "IRqpCA": {
+        "en": "[Security System] access with the emergency access method.",
+        "pt": "[Sistema de Segurança] O pessoal autorizado deve efetuar o acesso de emergência.",
+        "es": "Acceso al [sistema de seguridad] con el método de acceso de emergencia."
+    },
+    "IhqpCA": {
+        "en": "[Security System] Warning notice! Intruder Detected.",
+        "pt": "[Sistema de Segurança] Alerta! Alerta! Intruso detectado.",
+        "es": "[Sistema de seguridad] ¡Aviso de advertencia! Intruso detectado."
+    },
+    "IxqpCA": {
+        "en": "[Security System] In 5 seconds, The Lab No.1's security system will be activated.",
+        "pt": "[Sistema de Segurança] Em 5 segundos, o sistema de segurança do laboratório 1 será ativado.",
+        "es": "[Sistema de seguridad] En 5 segundos se activará el sistema de seguridad del laboratorio n.º1."
+    },
+    "JBqpCA": {
+        "en": "MobCtrl1",
+        "pt": "MobCtrl1",
+        "es": "MobCtrl1"
+    },
+    "JRqpCA": {
+        "en": "[Security System] Security system Activated !! Experimental animals are released. The persons concerned have to evacuate.",
+        "pt": "[Sistema de Segurança] Sistema de segurança ativado! Os animais experimentais foram libertados. Os funcionários devem prosseguir com a evacuação.",
+        "es": "[Sistema de seguridad] ¡Sistema de seguridad activado! Se liberan animales de experimentación. Las personas afectadas deben ser evacuadas."
+    },
+    "JhqpCA": {
+        "en": "Starving Lab animal",
+        "pt": "Cobaia Animal Faminta",
+        "es": "Laboratorio de animales hambrientos"
+    },
+    "JxqpCA": {
+        "en": "[Security System] The Lab No.1's security system has been stopped.",
+        "pt": "[Sistema de Segurança] O sistema de segurança do laboratório 1 foi desativado.",
+        "es": "[Sistema de seguridad] El sistema de seguridad del laboratorio n.º1 se detuvo."
+    },
+    "KBqpCA": {
+        "en": "Manual Sheet",
+        "pt": "Folhas do Manual",
+        "es": "Hoja Manual"
+    },
+    "KRqpCA": {
+        "en": "There are valve manual sheets littered on the floor.",
+        "pt": "Há folhas do manual das válvulas espalhadas pelo chão.",
+        "es": "Hay hojas de manuales de válvulas tiradas por el suelo."
+    },
+    "KhqpCA": {
+        "en": "You the party leader, started to read the manual.",
+        "pt": "Você, líder do grupo, começou a ler o manual.",
+        "es": "Tú, líder del grupo, empezaste a leer el manual."
+    },
+    "KxqpCA": {
+        "en": "[Emergency Access Valve Manual]\nTurn the left valve Clockwise twice, Counterclockwise once, Clockwise once",
+        "pt": "[Acesso da Válvula Manual de Emergência]\nVire a válvula esquerda duas vezes no sentido horário, uma no anti-horário e uma no horário",
+        "es": "[Manual de la válvula de acceso de emergencia]\nGire la válvula izquierda en sentido horario dos veces, en sentido antihorario una vez y en sentido horario una vez."
+    },
+    "LBqpCA": {
+        "en": "[Emergency Access Valve Manual]\nTurn the left valve Clockwise once, Counterclockwise twice, Clockwise once",
+        "pt": "[Acesso da Válvula Manual de Emergência]\nVire a válvula esquerda uma vez no sentido horário, duas no anti-horário e uma no horário",
+        "es": "[Manual de la válvula de acceso de emergencia]\nGire la válvula izquierda en sentido horario una vez, en sentido antihorario dos veces y en sentido horario una vez."
+    },
+    "LRqpCA": {
+        "en": "[Emergency Access Valve Manual]\nTurn the left valve Clockwise once, Counterclockwise once, Clockwise twice",
+        "pt": "[Acesso da Válvula Manual de Emergência]\nVire a válvula esquerda uma vez no sentido horário, uma no anti-horário e duas no horário",
+        "es": "[Manual de la válvula de acceso de emergencia]\nGire la válvula izquierda en sentido horario una vez, en sentido antihorario una vez y en sentido horario dos veces."
+    },
+    "LhqpCA": {
+        "en": "[Emergency Access Valve Manual]\nTurn the right valve Counterclockwise twice, Clockwise once, Counterclockwise once",
+        "pt": "[Acesso da Válvula Manual de Emergência]\nVire a válvula direita duas vezes no sentido anti-horário, uma no horário e uma no anti-horário",
+        "es": "[Manual de la válvula de acceso de emergencia]\nGire la válvula derecha en sentido antihorario dos veces, en sentido horario una vez y en sentido antihorario una vez."
+    },
+    "LxqpCA": {
+        "en": "[Emergency Access Valve Manual]\nTurn the right valve Counterclockwise once, Clockwise twice, Counterclockwise once",
+        "pt": "[Acesso da Válvula Manual de Emergência]\nVire a válvula direita uma vez no sentido anti-horário, duas no horário e uma no anti-horário",
+        "es": "[Manual de la válvula de acceso de emergencia]\nGire la válvula derecha en sentido antihorario una vez, en sentido horario dos veces y en sentido antihorario una vez."
+    },
+    "MBqpCA": {
+        "en": "[Emergency Access Valve Manual]\nTurn the right valve Counterclockwise once, Clockwise once, Counterclockwise twice",
+        "pt": "[Acesso da Válvula Manual de Emergência]\nVire a válvula direita uma vez no sentido anti-horário, uma no horário e duas no anti-horário",
+        "es": "[Manual de la válvula de acceso de emergencia]\nGire la válvula derecha en sentido antihorario una vez, en sentido horario una vez y en sentido antihorario dos veces."
+    },
+    "MRqpCA": {
+        "en": "This is a unknown Error. If you get the same problem after trying one more time, contact GM.",
+        "pt": "Houve um erro desconhecido. Se tiver o mesmo problema depois de tentar mais uma vez, contate a Central de Atendimento.",
+        "es": "Hay un error desconocido. Si tienes el mismo problema después de intentarlo una vez más, ponte en contacto con el GM."
+    },
+    "MhqpCA": {
+        "en": "This is an unknown Error. If you get the same problem after trying one more time, contact GM.",
+        "pt": "Houve um erro desconhecido. Se tiver o mesmo problema depois de tentar mais uma vez, contate a Central de Atendimento.",
+        "es": "Hay un error desconocido. Si tienes el mismo problema después de intentarlo una vez más, ponte en contacto con el GM."
+    },
+    "MxqpCA": {
+        "en": "Let your party leader handle the valve.",
+        "pt": "Deixe o líder do grupo cuidar das válvulas.",
+        "es": "Deja que el líder de tu grupo maneje la válvula."
+    },
+    "NBqpCA": {
+        "en": "Valve",
+        "pt": "Válvula",
+        "es": "Válvula"
+    },
+    "NRqpCA": {
+        "en": "This is the left valve for the emergency access.",
+        "pt": "Esta é a válvula esquerda do acesso de emergência.",
+        "es": "Esta es la válvula izquierda para el acceso de emergencia."
+    },
+    "NhqpCA": {
+        "en": "To which direction do you wish to turn?",
+        "pt": "Para qual direção você quer virá-la?",
+        "es": "¿En qué sentido deseas girar?"
+    },
+    "NxqpCA": {
+        "en": "Clockwise",
+        "pt": "Sentido horário",
+        "es": "En sentido horario."
+    },
+    "OBqpCA": {
+        "en": "Counterclockwise",
+        "pt": "Sentido anti-horário",
+        "es": "En sentido antihorario."
+    },
+    "ORqpCA": {
+        "en": "-A metal sound-\nand to which direction then?",
+        "pt": "-Um som de metal-\nE agora, qual direção?",
+        "es": "(Sonido metálico).\n¿Y en qué dirección entonces?"
+    },
+    "OhqpCA": {
+        "en": "-A metal sound-",
+        "pt": "-Um som de metal-",
+        "es": "(Sonido metálico)."
+    },
+    "OxqpCA": {
+        "en": "-Door opened-",
+        "pt": "-Porta aberta-",
+        "es": "(Puerta abierta)."
+    },
+    "PBqpCA": {
+        "en": "The door which connects to the Lab No.2 is now open.",
+        "pt": "A porta que leva ao laboratório 2 está aberta.",
+        "es": "La puerta que comunica con el laboratorio n.º2 está abierta."
+    },
+    "PRqpCA": {
+        "en": "Nothing happened.",
+        "pt": "Nada aconteceu.",
+        "es": "No pasó nada."
+    },
+    "PhqpCA": {
+        "en": "You need to review the manual.",
+        "pt": "É melhor rever o manual.",
+        "es": "Necesitas revisar el manual."
+    },
+    "PxqpCA": {
+        "en": "[Management System] The door which connects to Lab No.2 is now open.",
+        "pt": "[Sistema de Gerenciamento] A porta que leva ao laboratório 2 está aberta.",
+        "es": "[Sistema de gestión] La puerta que comunica con el laboratorio n.º 2 está abierta."
+    },
+    "QBqpCA": {
+        "en": "Lab2",
+        "pt": "Laboratório 2",
+        "es": "Laboratorio 2"
+    },
+    "QRqpCA": {
+        "en": "[Security System] Warning notice! Intruder Detected in The Lab No.2!!",
+        "pt": "[Sistema de Segurança] Alerta! Alerta! Intruso detectado no laboratório 2!",
+        "es": "[Sistema de seguridad] ¡Aviso de advertencia! ¡¡Intruso detectado en el laboratorio n.º2!!"
+    },
+    "QhqpCA": {
+        "en": "[Security System] In 5 seconds, The Lab No.2 Security system will start working.",
+        "pt": "[Sistema de Segurança] Em 5 segundos, o sistema de segurança do laboratório 2 será ativado.",
+        "es": "[Sistema de seguridad] En 5 segundos, el sistema de seguridad del laboratorio n.º2 empezará a funcionar."
+    },
+    "QxqpCA": {
+        "en": "[Management System] Warning! The pipe pressure in Lab No.2 is too high.",
+        "pt": "[Sistema de Gerenciamento] Alerta! A pressão nos canos do laboratório 2 está alta demais.",
+        "es": "[Sistema de gestión] ¡Advertencia! La presión de la tubería del laboratorio n.º2 es demasiado alta."
+    },
+    "RBqpCA": {
+        "en": "[Security System] First security system activated! The persons concerned have to evacuate.",
+        "pt": "[Sistema de Segurança] Primeiro sistema de segurança ativado! Os funcionários devem prosseguir com a evacuação.",
+        "es": "[Sistema de seguridad] ¡Primer sistema de seguridad activado! Las personas afectadas deben ser evacuadas."
+    },
+    "RRqpCA": {
+        "en": "[Management System] Warning! The pipe pressure is too high. Open the valve.",
+        "pt": "[Sistema de Gerenciamento] Alerta! A pressão nos canos está alta demais. Abra a válvula.",
+        "es": "[Sistema de gestión] ¡Advertencia! La presión de la tubería es demasiado alta. Abre la válvula."
+    },
+    "RhqpCA": {
+        "en": "[Security System] In 5 seconds, the Second Security system will start working.",
+        "pt": "[Sistema de Segurança] Em 5 segundos, o segundo sistema de segurança será ativado.",
+        "es": "[Sistema de seguridad] En 5 segundos, el segundo sistema de seguridad comenzará a funcionar."
+    },
+    "RxqpCA": {
+        "en": "[Security System] Second security system activated! The persons concerned have to evacuate.",
+        "pt": "[Sistema de Segurança] Segundo sistema de segurança ativado! Os funcionários devem prosseguir com a evacuação.",
+        "es": "[Sistema de seguridad] ¡Segundo sistema de seguridad activado! Las personas afectadas deben ser evacuadas."
+    },
+    "SBqpCA": {
+        "en": "[Security System] In 5 seconds, the Third Security system will start working.",
+        "pt": "[Sistema de Segurança] Em 5 segundos, o terceiro sistema de segurança será ativado.",
+        "es": "[Sistema de seguridad] En 5 segundos, el tercer sistema de seguridad comenzará a funcionar."
+    },
+    "SRqpCA": {
+        "en": "[Security System] Third security system activated! The persons concerned have to evacuate.",
+        "pt": "[Sistema de Segurança] Terceiro sistema de segurança ativado! Os funcionários devem prosseguir com a evacuação.",
+        "es": "[Sistema de seguridad] ¡Tercer sistema de seguridad activado! Las personas afectadas deben ser evacuadas."
+    },
+    "ShqpCA": {
+        "en": "[Security System] In 5 seconds, the Fourth Security system will start working.",
+        "pt": "[Sistema de Segurança] Em 5 segundos, o quarto sistema de segurança será ativado.",
+        "es": "[Sistema de seguridad] En 5 segundos, el cuarto sistema de seguridad comenzará a funcionar."
+    },
+    "SxqpCA": {
+        "en": "[Security System] Fourth security system activated! The persons concerned have to evacuate.",
+        "pt": "[Sistema de Segurança] Quarto sistema de segurança ativado! Os funcionários devem prosseguir com a evacuação.",
+        "es": "[Sistema de seguridad] ¡Cuarto sistema de seguridad activado! Las personas afectadas deben ser evacuadas."
+    },
+    "TBqpCA": {
+        "en": "[Security System] In 5 seconds, the Fifth Security system will start working.",
+        "pt": "[Sistema de Segurança] Em 5 segundos, o quinto sistema de segurança será ativado.",
+        "es": "[Sistema de seguridad] En 5 segundos, el quinto sistema de seguridad comenzará a funcionar."
+    },
+    "TRqpCA": {
+        "en": "[Security System] Fifth security system activated! The persons concerned have to evacuate.",
+        "pt": "[Sistema de Segurança] Quinto sistema de segurança ativado! Os funcionários devem prosseguir com a evacuação.",
+        "es": "[Sistema de seguridad] ¡Quinto sistema de seguridad activado! Las personas afectadas deben ser evacuadas."
+    },
+    "ThqpCA": {
+        "en": "Pipe Broken",
+        "pt": "Cano Quebrado",
+        "es": "Tubería rota"
+    },
+    "TxqpCA": {
+        "en": "[Management System] Pipe explosion detected! When {0} pipe broke, the system will stop.",
+        "pt": "[Sistema de Gerenciamento] Explosão nos canos detectada! Quando {0} canos se quebrarem, o sistema vai parar.",
+        "es": "[Sistema de gestión] ¡Explosión de tubería detectada! Cuando se rompan {0} tuberías, el sistema se detendrá."
+    },
+    "UBqpCA": {
+        "en": "[Management System] System Freezes! System Freezes! Evacuate from the Lab in 10 seconds.",
+        "pt": "[Sistema de Gerenciamento] Sistema congelado! Sistema congelado! Evacuem o laboratório em 10 segundos.",
+        "es": "[Sistema de gestión] ¡Congelamiento del sistema! ¡Congelamiento del sistema! Evacuar el laboratorio en 10 segundos."
+    },
+    "URqpCA": {
+        "en": "[Management System] Evacuate!!",
+        "pt": "[Sistema de Gerenciamento] Retirada!",
+        "es": "[Sistema de gestión] ¡Evacúen!"
+    },
+    "UhqpCA": {
+        "en": "MobCtrl2",
+        "pt": "MobCtrl2",
+        "es": "MobCtrl2"
+    },
+    "UxqpCA": {
+        "en": "Starving Lab Animal",
+        "pt": "Cobaia Animal Faminta",
+        "es": "Laboratorio de animales hambrientos"
+    },
+    "VBqpCA": {
+        "en": "[Security System] The Security system of Lab No.2 has been stopped.",
+        "pt": "[Sistema de Segurança] O sistema de segurança do laboratório 2 foi desativado.",
+        "es": "[Sistema de seguridad] El sistema de seguridad del laboratorio n.º2 se detuvo."
+    },
+    "VRqpCA": {
+        "en": "[Management System] The door connecting to Lab No.3 is now open.",
+        "pt": "[Sistema de Gerenciamento] A porta que leva ao laboratório 3 está aberta.",
+        "es": "[Sistema de gestión] La puerta que comunica con el laboratorio n.º3 está abierta."
+    },
+    "VhqpCA": {
+        "en": "Lab3",
+        "pt": "Laboratório 3",
+        "es": "Laboratorio 3"
+    },
+    "VxqpCA": {
+        "en": "[Security System] This is a warning notice! Warning notice!",
+        "pt": "[Sistema de Segurança] Alerta! Alerta!",
+        "es": "[Sistema de seguridad] ¡Esto es un aviso de advertencia! ¡Aviso de advertencia!"
+    },
+    "WBqpCA": {
+        "en": "[Security System] Intruder Detected in Lab No.3!",
+        "pt": "[Sistema de Segurança] Intruso detectado no laboratório 3!",
+        "es": "[Sistema de seguridad] ¡Se detectó un intruso en el laboratorio n.º3!"
+    },
+    "WRqpCA": {
+        "en": "[Security System] In 5 seconds, The Security system of Lab No.3 will start working.",
+        "pt": "[Sistema de Segurança] Em 5 segundos, o sistema de segurança do laboratório 3 será ativado.",
+        "es": "[Sistema de seguridad] En 5 segundos, el sistema de seguridad del laboratorio n.º 3 empezará a funcionar."
+    },
+    "WhqpCA": {
+        "en": "[Security System] First security system of Lab No.3 activated! The persons concerned have to evacuate.",
+        "pt": "[Sistema de Segurança] Primeiro sistema de segurança do laboratório 3 ativado! Os funcionários devem prosseguir com a evacuação.",
+        "es": "[Sistema de seguridad] ¡Primer sistema de seguridad del laboratorio n.º 3 activado! Las personas afectadas deben ser evacuadas."
+    },
+    "WxqpCA": {
+        "en": "[Security System] Second security system of Lab No.3 activated! The persons concerned have to evacuate.",
+        "pt": "[Sistema de Segurança] Segundo sistema de segurança do laboratório 3 ativado! Os funcionários devem prosseguir com a evacuação.",
+        "es": "[Sistema de seguridad] ¡Segundo sistema de seguridad del laboratorio n.º 3 activado! Las personas afectadas deben ser evacuadas."
+    },
+    "XBqpCA": {
+        "en": "[Security System] Third security system of Lab No.3 activated! The persons concerned have to evacuate.",
+        "pt": "[Sistema de Segurança] Terceiro sistema de segurança do laboratório 3 ativado! Os funcionários devem prosseguir com a evacuação.",
+        "es": "[Sistema de seguridad] ¡Tercer sistema de seguridad del laboratorio n.º 3 activado! Las personas afectadas deben ser evacuadas."
+    },
+    "XRqpCA": {
+        "en": "[Security System] Fourth security system of Lab No.3 activated! The persons concerned have to evacuate.",
+        "pt": "[Sistema de Segurança] Quarto sistema de segurança do laboratório 3 ativado! Os funcionários devem prosseguir com a evacuação.",
+        "es": "[Sistema de seguridad] ¡Cuarto sistema de seguridad del laboratorio n.º 3 activado! Las personas afectadas deben ser evacuadas."
+    },
+    "XhqpCA": {
+        "en": "[Security System] Fifth security system of Lab No.3 activated! The persons concerned have to evacuate.",
+        "pt": "[Sistema de Segurança] Quinto sistema de segurança do laboratório 3 ativado! Os funcionários devem prosseguir com a evacuação.",
+        "es": "[Sistema de seguridad] ¡Quinto sistema de seguridad del laboratorio n.º 3 activado! Las personas afectadas deben ser evacuadas."
+    },
+    "XxqpCA": {
+        "en": "MobCtrl3",
+        "pt": "MobCtrl3",
+        "es": "MobCtrl3"
+    },
+    "YBqpCA": {
+        "en": "[Security System] The Security system of Lab No.3 has been stopped.",
+        "pt": "[Sistema de Segurança] O sistema de segurança do laboratório 3 foi desativado.",
+        "es": "[Sistema de seguridad] El sistema de seguridad del laboratorio n.º 3 se ha detenido."
+    },
+    "YRqpCA": {
+        "en": "[Management System] The door which connects to Lab No.4 is now open.",
+        "pt": "[Sistema de Gerenciamento] A porta que leva ao laboratório 4 está aberta.",
+        "es": "[Sistema de gestión] La puerta que comunica con el laboratorio n.º 4 está abierta."
+    },
+    "YhqpCA": {
+        "en": "Lab4",
+        "pt": "Laboratório 4",
+        "es": "Laboratorio 4"
+    },
+    "YxqpCA": {
+        "en": "Whisper: Who are you....",
+        "pt": "Sussurro: Quem é você?...",
+        "es": "Susurro: ¿Quién eres…?"
+    },
+    "ZBqpCA": {
+        "en": "Whisper: Do not approach more...",
+        "pt": "Sussurro: Não se aproxime mais...",
+        "es": "Susurro: No te acerques más…"
+    },
+    "ZRqpCA": {
+        "en": "Whisper: This is a very dangerous place...",
+        "pt": "Sussurro: Este lugar é muito perigoso...",
+        "es": "Susurro: Este es un lugar muy peligroso…"
+    },
+    "ZhqpCA": {
+        "en": "Whisper: You won't leave here alive...",
+        "pt": "Sussurro: Não vai sair com vida...",
+        "es": "Susurro: No saldrás de aquí con vida…"
+    },
+    "ZxqpCA": {
+        "en": "Whisper: If you don't want to be a part of us...",
+        "pt": "Sussurro: Se não quiser se juntar a nós...",
+        "es": "Susurro: Si no quieres formar parte de nosotros…"
+    },
+    "aBqpCA": {
+        "en": "Whisper: Leave now....",
+        "pt": "Sussurro: Saia agora...",
+        "es": "Susurro: Vete ahora…"
+    },
+    "aRqpCA": {
+        "en": "Whisper: Before this place is thoroughly filled with sorrow and pain....",
+        "pt": "Sussurro: Antes que este lugar se preencha com dor e sofrimento...",
+        "es": "Susurro: Antes de que este lugar se llene de pena y dolor…"
+    },
+    "ahqpCA": {
+        "en": "Whisper: Ah....it....it's too late......",
+        "pt": "Sussurro: Ah... É... É tarde demais...",
+        "es": "Susurro: Ah… es demasiado tarde…"
+    },
+    "axqpCA": {
+        "en": "MobCtrl4",
+        "pt": "MobCtrl4",
+        "es": "MobCtrl4"
+    },
+    "bBqpCA": {
+        "en": "Type_**Gren",
+        "pt": "Type_**Gren",
+        "es": "Tipo_**Gren"
+    },
+    "bRqpCA": {
+        "en": "Type_**Roke",
+        "pt": "Type_**Roke",
+        "es": "Tipo_**Roca"
+    },
+    "bhqpCA": {
+        "en": "Type_**Dree",
+        "pt": "Type_**Dree",
+        "es": "Tipo_**Dree"
+    },
+    "bxqpCA": {
+        "en": "Seyren Windsor",
+        "pt": "Seyren Windsor",
+        "es": "Seyren Windsor"
+    },
+    "cBqpCA": {
+        "en": "Lord Knight Seyren",
+        "pt": "Lorde Seyren",
+        "es": "Lord Cabllero Seyren"
+    },
+    "cRqpCA": {
+        "en": "Awww... Where are all my fellows....",
+        "pt": "Ahhh... Onde estão meus companheiros...",
+        "es": "Ayyy… ¿Dónde están mis compañeros…?"
+    },
+    "chqpCA": {
+        "en": "Cecile Damon",
+        "pt": "Cecil Damon",
+        "es": "Cecile Damon"
+    },
+    "cxqpCA": {
+        "en": "Sniper Cecile",
+        "pt": "Atiradora Cecil",
+        "es": "Francotiradora Cecil"
+    },
+    "dBqpCA": {
+        "en": "Any... one, please help... please.....",
+        "pt": "Alguém, por favor, ajude... Por favor...",
+        "es": "Alguien… por favor, ayuda… por favor…"
+    },
+    "dRqpCA": {
+        "en": "Gertie Wie",
+        "pt": "Gertie Wie",
+        "es": "Gertie Wie"
+    },
+    "dhqpCA": {
+        "en": "Stalker Gertie",
+        "pt": "Desordeira Gertie",
+        "es": "Perseguidora Gertie"
+    },
+    "dxqpCA": {
+        "en": "did I act too... rashly...?",
+        "pt": ".. Eu fui com muita força...?",
+        "es": "¿Actué demasiado… precipitadamente…?"
+    },
+    "eBqpCA": {
+        "en": "Eremes Guile",
+        "pt": "Eremes Guile",
+        "es": "Eremes Guile"
+    },
+    "eRqpCA": {
+        "en": "Assassin Cross Eremes",
+        "pt": "Algoz Eremes",
+        "es": "Asesino cruzado Eremes"
+    },
+    "ehqpCA": {
+        "en": "Ah..... I am absolutely defeated....",
+        "pt": "Ah..... Com certeza, me derrotaram...",
+        "es": "Ah… Me derrotaron completamente…"
+    },
+    "exqpCA": {
+        "en": "Trentini",
+        "pt": "Trentini",
+        "es": "Trentini"
+    },
+    "fBqpCA": {
+        "en": "Gypsy Trentini",
+        "pt": "Cigana Trentini",
+        "es": "Gitana Trentini"
+    },
+    "fRqpCA": {
+        "en": "Ah... If I... ever can ... dance and.... sing... happily....",
+        "pt": "Ah... Se eu... pudesse... dançar e... cantar... feliz...",
+        "es": "Ah… Si… alguna vez puedo… bailar y… cantar… feliz…"
+    },
+    "fhqpCA": {
+        "en": "Chen Liu",
+        "pt": "Chen Liu",
+        "es": "Chen Liu"
+    },
+    "fxqpCA": {
+        "en": "Champion Chen",
+        "pt": "Mestre Chen",
+        "es": "Campeón Chen"
+    },
+    "gBqpCA": {
+        "en": "I.... am so... sorry....",
+        "pt": "Eu... sinto... tanto...",
+        "es": "Lo… siento…"
+    },
+    "gRqpCA": {
+        "en": "Alphochio Basil",
+        "pt": "Alphochio Basil",
+        "es": "Alphochio Albahaca"
+    },
+    "ghqpCA": {
+        "en": "Minstrel Alphochio",
+        "pt": "Menestrel Alphochio",
+        "es": "Ministril Alphochio"
+    },
+    "gxqpCA": {
+        "en": "...the new song......was ....for.....her....",
+        "pt": "...A canção nova... era... para... ela...",
+        "es": "…la nueva canción… era… para… ella…"
+    },
+    "hBqpCA": {
+        "en": "Flamel Emul",
+        "pt": "Flamel Emul",
+        "es": "Flamel Emul"
+    },
+    "hRqpCA": {
+        "en": "Alchemist Flamel",
+        "pt": "Criador Flamel",
+        "es": "Alquimista Flamel"
+    },
+    "hhqpCA": {
+        "en": "Ha... I wanted to show.... the new potion....",
+        "pt": "Ha... Eu queria mostrar... uma poção nova...",
+        "es": "Ja… Quería mostrar… la nueva poción…"
+    },
+    "hxqpCA": {
+        "en": "Randel Lawrence",
+        "pt": "Randel Lawrence",
+        "es": "Randel Lawrence"
+    },
+    "iBqpCA": {
+        "en": "Paladin Randel",
+        "pt": "Paladino Randel",
+        "es": "Paladino Randel"
+    },
+    "iRqpCA": {
+        "en": "Wooooo.. everyone was defeated?",
+        "pt": "Aaaai... Todos foram derrotados...??",
+        "es": "Uooooo… ¿todos fueron derrotados?"
+    },
+    "ihqpCA": {
+        "en": "Celia Alde",
+        "pt": "Celia Alde",
+        "es": "Celia Alde"
+    },
+    "ixqpCA": {
+        "en": "Scholar Celia",
+        "pt": "Professora Celia",
+        "es": "Erudita Celia"
+    },
+    "jBqpCA": {
+        "en": "No..... this experiment is.... dang...",
+        "pt": "Não... Este experimento... Maldição...",
+        "es": "No… este experimento está… Maldita sea…"
+    },
+    "jRqpCA": {
+        "en": "Kathryne Keyron",
+        "pt": "Kathryne Keyron",
+        "es": "Kathryne Keyron"
+    },
+    "jhqpCA": {
+        "en": "High Wizard Kathryne",
+        "pt": "Arquimaga Kathrine",
+        "es": "Gran hechicera Kathryne"
+    },
+    "jxqpCA": {
+        "en": "Awww.. is everyone Ok....?",
+        "pt": "Aaah... Está todo mundo bem...?",
+        "es": "Ahhhh… ¿Están todos bien?"
+    },
+    "kBqpCA": {
+        "en": "Margaretha Sorin",
+        "pt": "Margaretha Sorin",
+        "es": "Sra. Margaret Sorin"
+    },
+    "kRqpCA": {
+        "en": "High Priest Margaretha",
+        "pt": "Suma Sacerdotisa Margaretha",
+        "es": "Suma sacerdotisa Margaretha"
+    },
+    "khqpCA": {
+        "en": "My good boy... Don't cry... ah.... our Great Odin... please save us...",
+        "pt": "Meu garoto... Não chore... Ah... Grande Odin... Por favor, nos salve...",
+        "es": "Mi buen chico… No llores… ah… nuestro gran Odín… por favor, sálvanos…"
+    },
+    "kxqpCA": {
+        "en": "Howard Alt-Eisen",
+        "pt": "Howard Alt-Eisen",
+        "es": "Howard Alt-Iron"
+    },
+    "lBqpCA": {
+        "en": "Mastersmith Howard",
+        "pt": "Mestre Ferreiro Howard",
+        "es": "Maestro herrero Howard"
+    },
+    "lRqpCA": {
+        "en": "Oh... no.... can't breath.... and my sister? Sister!!",
+        "pt": "Oh... Não... Não consigo respirar... E minha irmã...? Irmã!",
+        "es": "Ah… no… no puedo respirar… ¿y mi hermana? ¡Hermana!"
+    },
+    "lhqpCA": {
+        "en": "Wolfchev",
+        "pt": "Wolfchev",
+        "es": "Wolfchev"
+    },
+    "lxqpCA": {
+        "en": "^FF0000 Check on your inventory. You have too many items to continue the quest. ^000000",
+        "pt": "^FF0000Confira seu inventário. Você tem itens demais para continuar com a missão. ^000000",
+        "es": "^FF0000 Comprueba tu inventario. Tienes demasiados objetos para continuar la misión. ^000000"
+    },
+    "mBqpCA": {
+        "en": "^FF0000You can't receive reward with all those items in your inventory. Check your inventory and speak to me later.^000000",
+        "pt": "^FF0000Você não pode receber a recompensa com todos esses itens no seu inventário. Verifique seu inventário e fale comigo depois.^000000",
+        "es": "^FF0000No puedes recibir recompensas con todos esos objetos en tu inventario. Revisa tu inventario y vuelve a hablarme más tarde.^000000"
+    },
+    "mRqpCA": {
+        "en": "[Wolfchev]\nYou finally defeated my Boss creature.",
+        "pt": "[Wolfchev]\nFinalmente, derrotou minha criatura-chefe.",
+        "es": "[Wolfchev]\nFinalmente derrotaste a mi monstruo jefe."
+    },
+    "mhqpCA": {
+        "en": "[Wolfchev]\nFinally. Is this the result? For whom did I experiment? Did they cheat me?",
+        "pt": "[Wolfchev]\nNo final, é esse o resultado? Para quem eu fiz o experimento? Me traíram?",
+        "es": "[Wolfchev]\n¡Por fin! ¿Es este el resultado? ¿Para quién experimenté? ¿Me engañaron?"
+    },
+    "mxqpCA": {
+        "en": "[Wolfchev]\nThe button was supposed to be pressed for an emergency case... but.",
+        "pt": "[Wolfchev]\nO botão devia ser pressionado em caso de emergência... Mas...",
+        "es": "[Wolfchev]\nSe suponía que había que pulsar el botón en un caso de emergencia… pero…"
+    },
+    "nBqpCA": {
+        "en": "[Wolfchev]\nHey! You and I met by a bad connection...",
+        "pt": "[Wolfchev]\nEi... Nos encontramos de lados opostos...",
+        "es": "[Wolfchev]\n¡Oye! Tú y yo nos conocimos por una mala conexión…"
+    },
+    "nRqpCA": {
+        "en": "[Wolfchev]\nBut, you helped me... How could you do that?",
+        "pt": "[Wolfchev]\nMas... Você me ajudou... Como pôde fazer isso?",
+        "es": "[Wolfchev]\nPero, me ayudaste… ¿Cómo pudiste hacerlo?"
+    },
+    "nhqpCA": {
+        "en": "[{0}]\nWhen I met you for the first time you seemed mad but sad. Even if you could commit those cruel and horrific experiments.",
+        "pt": "[{0}]\nQuando te conheci, você parecia louco, mas triste, mesmo cometendo todos aqueles experimentos cruéis e horríveis.",
+        "es": "[{0}]\nCuando te conocí por primera vez, parecías enojado pero también triste. Incluso aunque podías cometer esos crueles y horribles experimentos."
+    },
+    "nxqpCA": {
+        "en": "[{0}]\nBut, actually you did that because you were lonely... you just concentrated on that for this reason, huh?",
+        "pt": "[{0}]\nMas, na verdade, você fez tudo isso porque era sozinho... Foi por isso que se concentrou nessa tarefa, não é?",
+        "es": "[{0}]\nPero, en realidad lo hiciste por sentirte a solas… solo te concentraste en eso por esta razón, ¿no?"
+    },
+    "oBqpCA": {
+        "en": "[Wolfchev]\nHAHAHAHa. Loneliness.. You say?",
+        "pt": "[Wolfchev]\nHAHAHAHA. Solidão, você diz?",
+        "es": "[Wolfchev]\nJa, ja, ja, ja. La soledad… ¿Eso crees?"
+    },
+    "oRqpCA": {
+        "en": "[Wolfchev]\nIt might be seen like that to you. But, it isn't. Loneliness is just a good and easy excuse of the losers.",
+        "pt": "[Wolfchev]\nPode ter parecido isso para você. Mas não. A solidão é apenas uma desculpa fácil para perdedores.",
+        "es": "[Wolfchev]\nPuede que tú lo veas así. Pero no es así. La soledad es solo una buena y fácil excusa para los perdedores."
+    },
+    "ohqpCA": {
+        "en": "[Wolfchev]\nI'm so happy doing experiments pursuing for a perfection, I never feel lonely.",
+        "pt": "[Wolfchev]\nEu me sinto feliz fazendo experimentos em busca da perfeição, nunca me sinto sozinho.",
+        "es": "[Wolfchev]\nSoy tan feliz haciendo experimentos persiguiendo una perfección, que nunca siento la soledad."
+    },
+    "oxqpCA": {
+        "en": "[Wolfchev]\nAnyway, since I realised that Rekenber betrayed me, I cannot just let them do what they want.",
+        "pt": "[Wolfchev]\nDe qualquer forma, desde que percebi que Rekenber me traiu, não posso deixá-los impunes.",
+        "es": "[Wolfchev]\nDe todos modos, desde que me di cuenta de que Rekenber me traicionó, no puedo dejar que hagan lo que quieran."
+    },
+    "pBqpCA": {
+        "en": "[Wolfchev]\nFor now, I will leave them alone, but I will make them cry and regret for trying to remove Wolfchev.",
+        "pt": "[Wolfchev]\nPor enquanto, vou deixá-los em paz, mas ainda vou fazê-los chorar e se arrepender por tentarem acabar com Wolfchev.",
+        "es": "[Wolfchev]\nPor ahora, los dejaré en paz, pero los haré llorar y arrepentirse por intentar eliminar a Wolfchev."
+    },
+    "pRqpCA": {
+        "en": "[{0}]\n... .... ... ....",
+        "pt": "[{0}]\n... .... ... ....",
+        "es": "[{0}]\n…"
+    },
+    "phqpCA": {
+        "en": "[Wolfchev]\naaaaaah, {0} Thank you so much to remove my boys who had gone mad. Not a big gift but I wish you don't deny, I don't need this anymore.",
+        "pt": "[Wolfchev]\nAaaaah, {0} , muito obrigado por eliminar minhas criaturas que tinham ficado loucas. Este não é um grande presente, mas fique com ele, não preciso mais.",
+        "es": "[Wolfchev]\nAaaaaah, {0}. Muchas gracias por eliminar a mis chicos que se habían vuelto locos. No es un gran regalo, pero deseo que no lo rechaces, ya no necesito esto."
+    },
+    "pxqpCA": {
+        "en": "[Wolfchev]\nAnd, if you can...hope you to come back often, especially with your friends. I want the place to be with human heart again so the sadness in here gets disappear.",
+        "pt": "[Wolfchev]\nE se puder... Espero que volte aqui mais vezes, especialmente com seus amigos. Quero que este lugar volte a se preencher com o coração humano, para que a tristeza suma.",
+        "es": "[Wolfchev]\nY, si puedes… espero que vuelvas a menudo, sobre todo con tus amistades. Quiero que el lugar vuelva a tener corazón humano para que desaparezca la tristeza que hay aquí."
+    },
+    "qBqpCA": {
+        "en": "I looked at Wolfchev again before leaving his lab. and I could feel that he was not obsessed anymore..",
+        "pt": "- Olhei para Wolfchev de novo antes de sair do laboratório e senti que ele não estava mais obcecado... -",
+        "es": "Volví a mirar a Wolfchev antes de salir de su laboratorio, y pude sentir que ya no estaba obsesionado."
+    },
+    "qRqpCA": {
+        "en": "[Wolfchev]\nYou did defeat all of the Boss creatures. Thank you again.",
+        "pt": "[Wolfchev]\nVocê derrotou todas as criaturas-chefes. Obrigado de novo.",
+        "es": "[Wolfchev]\nDerrotaste a todos los monstruos jefe. Gracias de nuevo."
+    },
+    "qhqpCA": {
+        "en": "[Wolfchev]\nI say again, {0} Thank you so much to remove my boys who had gone mad. Not a big gift but I wish you don't deny, I don't need this anymore.",
+        "pt": "[Wolfchev]\nMais uma vez, {0} , muito obrigado por eliminar minhas criaturas que tinham ficado loucas. Este não é um grande presente, mas fique com ele, não preciso mais.",
+        "es": "[Wolfchev]\nOtra vez, {0}. Muchas gracias por eliminar a mis chicos que se habían vuelto locos. No es un gran regalo, pero deseo que no lo rechaces, ya no necesito esto."
+    },
+    "qxqpCA": {
+        "en": "[Wolfchev]\nKhahaha, See you again. Do you want to get out of here now?",
+        "pt": "[Wolfchev]\nHahaha, até a próxima vez. Quer sair daqui agora?",
+        "es": "[Wolfchev]\nJa, ja, nos vemos. ¿Quieres salir de aquí ahora?"
+    },
+    "rBqpCA": {
+        "en": "Not yet",
+        "pt": "Ainda não",
+        "es": "Todavía no."
+    },
+    "rRqpCA": {
+        "en": "Yes",
+        "pt": "Sim",
+        "es": "Sí."
+    },
+    "rhqpCA": {
+        "en": "[Wolfchev]\nThen tell me when you want to.",
+        "pt": "[Wolfchev]\nEntão, me avise quando quiser.",
+        "es": "[Wolfchev]\nPues dímelo cuando quieras."
+    },
+    "rxqpCA": {
+        "en": "[Wolfchev]\nThen I will send you out.",
+        "pt": "[Wolfchev]\nEntão, mandarei você para fora.",
+        "es": "[Wolfchev]\nEntonces te enviaré fuera."
+    },
+    "sBqpCA": {
+        "en": "[Wolfchev]\nI was looking at the system.... don't know who made this..... but it's so complicated to get..no idea...",
+        "pt": "[Wolfchev]\nEu estava examinando o sistema... Não sei quem fez isso, mas é tão complicado entender... Não faço ideia...",
+        "es": "[Wolfchev]\nEstaba mirando el sistema… no se quién hizo esto… pero es tan complicado… ni idea…"
+    },
+    "sRqpCA": {
+        "en": "[Wolfchev]\nkakakaah.. Thank you. You handled those Boss creatures well..",
+        "pt": "[Wolfchev]\nHahahaha... Obrigado. Você lidou bem com as criaturas-chefes...",
+        "es": "[Wolfchev]\nJa, ja, ja. Gracias. Manejaste bien a esos monstruos jefe…"
+    },
+    "shqpCA": {
+        "en": "[Wolfchev]\nWhile you were struggling...",
+        "pt": "[Wolfchev]\nEnquanto você lutava...",
+        "es": "[Wolfchev]\nMientras luchabas..."
+    },
+    "sxqpCA": {
+        "en": "[Wolfchev]\nI figured out something..and there's a system error which doesn't let us come and go freely, so you could help me in 72 hours... Go somewhere to take rest before you come back..",
+        "pt": "[Wolfchev]\nPercebi uma coisa... Há um erro no sistema que não nos deixa ir e vir livremente, então, você pode me ajudar daqui a 72 horas... Vá descansar em algum lugar e volte depois...",
+        "es": "[Wolfchev]\ndescubrí algo… y hay un error en el sistema que no nos deja entrar y salir libremente, así que podrías ayudarme en 72horas… Ve a algún lugar a descansar antes de volver…"
+    },
+    "tBqpCA": {
+        "en": "[Wolfchev]\nAh.. and I can send you out of my laboratory. Do you want?",
+        "pt": "[Wolfchev]\nAh... Posso mandar você para fora do laboratório. Você quer?",
+        "es": "[Wolfchev]\nAh… y puedo enviarte fuera de mi laboratorio. ¿Quieres?"
+    },
+    "tRqpCA": {
+        "en": "[Wolfchev]\nDo you want to get out of here now?",
+        "pt": "[Wolfchev]\nQuer sair daqui agora?",
+        "es": "[Wolfchev]\n¿Quieres salir de aquí ahora?"
+    }
+}

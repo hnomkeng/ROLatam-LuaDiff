@@ -1,0 +1,782 @@
+{
+    "QFZNAw": {
+        "ko": "세야블렘",
+        "en": "Seiyablem",
+        "pt": "Seiyablem",
+        "es": "Seiyablem"
+    },
+    "QVZNAw": {
+        "ko": "- 소지하고 계신 아이템이 많아 진행할 수 없습니다. -",
+        "en": "- You are carrying too many items and cannot continue. -",
+        "pt": "- Você está carregando muitos itens e não pode continuar. -",
+        "es": "-Llevas demasiados objetos y no puedes continuar.-"
+    },
+    "QlZNAw": {
+        "ko": "머리-[장착안됨]",
+        "en": "Upper (empty)",
+        "pt": "Topo (vazio)",
+        "es": "Superior (vacío)"
+    },
+    "Q1ZNAw": {
+        "ko": "몸통-[장착안됨]",
+        "en": "Armor (empty)",
+        "pt": "Armadura (vazio)",
+        "es": "Armadura (vacía)"
+    },
+    "RFZNAw": {
+        "ko": "왼손-[장착안됨]",
+        "en": "Left hand (empty)",
+        "pt": "Mão esquerda (vazio)",
+        "es": "Mano izquierda (vacía)"
+    },
+    "RVZNAw": {
+        "ko": "오른손-[장착안됨]",
+        "en": "Right hand (empty)",
+        "pt": "Mão direita (vazio)",
+        "es": "Mano derecha (vacía)"
+    },
+    "RlZNAw": {
+        "ko": "로브-[장착안됨]",
+        "en": "Garment (empty)",
+        "pt": "Capa (vazio)",
+        "es": "Manto (vacía)"
+    },
+    "R1ZNAw": {
+        "ko": "신발-[장착안됨]",
+        "en": "Shoes (empty)",
+        "pt": "Calçado (vazio)",
+        "es": "Calzado (vacío)"
+    },
+    "SFZNAw": {
+        "ko": "악세사리1-[장착안됨]",
+        "en": "Right accessory (empty)",
+        "pt": "Acessório direito (vazio)",
+        "es": "Accesorio derecho (vacío)"
+    },
+    "SVZNAw": {
+        "ko": "악세사리2-[장착안됨]",
+        "en": "Left accessory (empty)",
+        "pt": "Acessório esquerdo (vazio)",
+        "es": "Accesorio izquierdo (vacío)"
+    },
+    "SlZNAw": {
+        "ko": "머리2-[장착안됨]",
+        "en": "Middle (empty)",
+        "pt": "Meio (vazio)",
+        "es": "Centro (vacío)"
+    },
+    "S1ZNAw": {
+        "ko": "머리3-[장착안됨]",
+        "en": "Lower (empty)",
+        "pt": "Baixo (vazio)",
+        "es": "Inferior (vacío)"
+    },
+    "TFZNAw": {
+        "ko": "[세야블렘]\n나는 일반적인 무기에 소켓을 뚫어주는 기술자야. 뭐 구멍만 뚫으면 되는 간단한 일 아니냐고 말하는 사람도 있긴 하지만 그건 어디까지나 모르는 사람이 하는 말일 뿐.",
+        "en": "[Seiyablem] \nI am an expert in opening slots in weapons. Slots are spaces to add cards.",
+        "pt": "[Seiyablem]\nSou Especialista em abrir slots em Armas. Slots são espaços para adicionar cartas.",
+        "es": "[Seiyablem] \nSoy experto en abrir Slot en armas. Slots son espacios para añadir cartas."
+    },
+    "TVZNAw": {
+        "ko": "[세야블램]\n그 증거로, 나와 동생 말곤 이런 기술을 가진 사람이 없잖아? 아무튼, 소켓을 뚫어줬으면 하는 장비가 있어? 일단 소켓을 뚫을 수 있는 장비인지 알려줄게. 일단 골라봐.",
+        "en": "[Seiyablem] \nHowever, not all weapons is capable of receiving a Card Slot. I'd need to take a look first. Anyway, how can I help?",
+        "pt": "[Seiyablem]\nEntretanto, nem toda arma está apta a receber um Slot de carta. Eu precisaria dar uma olhada primeiro. Enfim, em que posso ajudar?",
+        "es": "[Seiyablem] \nSin embargo, no todo el arma admite un Slot para carta. Necesito echarle un vistazo primero. En fin, ¿cómo puedo ayudar?"
+    },
+    "TlZNAw": {
+        "ko": "소켓뚫기 작업",
+        "en": "Open a Slot",
+        "pt": "Abrir um Slot",
+        "es": "Abrir un Slot"
+    },
+    "T1ZNAw": {
+        "ko": "설명을 더 듣는다.",
+        "en": "Explain more to me",
+        "pt": "Me explique mais",
+        "es": "Explícame más"
+    },
+    "UFZNAw": {
+        "ko": "작업방식이 바뀌었네?",
+        "en": "Have you improved your services?",
+        "pt": "Você melhorou seus serviços?",
+        "es": "¿Has mejorado tus servicios?"
+    },
+    "UVZNAw": {
+        "ko": "관둔다.",
+        "en": "Ignore",
+        "pt": "Ignorar",
+        "es": "Ignorar"
+    },
+    "UlZNAw": {
+        "ko": "[세야블렘]\n쳇.",
+        "en": "[Seiyablem] \nOh...",
+        "pt": "[Seiyablem]\nOh...",
+        "es": "[Seiyablem] \nOh..."
+    },
+    "U1ZNAw": {
+        "ko": "[세야블렘]\n오케이. 소켓뚫기는 작업의 난이도로 볼 때 음... 4가지 정도로 분류돼. C급이 가장 쉬운 거고 S급이 가장 어려운 거야. 어떤 장비에 소켓뚫기를 하겠어?",
+        "en": "[Seiyablem] \nThe Slot adding procedure is classified into 4 difficulty levels: C, B, A and S. Level C is the easiest and S is the hardest. Do you have any equipment you want to add a slot to?",
+        "pt": "[Seiyablem]\nO procedimento de adição de Slot é classificado em 4 níveis de dificuldade: C, B, A e S. O nível C é o mais fácil e o S, mais difícil. Você tem algum equipamento no qual queira colocar um slot?",
+        "es": "[Seiyablem] \nEl proceso para añadir un Slot se clasifica en 4 niveles de dificultad: C, B, A y S. El nivel C es el más fácil y el S el más difícil. ¿Tienes algún equipo al que quieras añadir un Slot?"
+    },
+    "VFZNAw": {
+        "ko": "[세야블렘]\n미안한데, 그 팔엔 아무것도 없는 것 같아.",
+        "en": "[Seiyablem] \nSorry, but there's nothing in your hand.",
+        "pt": "[Seiyablem]\nDesculpe, mas não tem nada na sua mão.",
+        "es": "[Seiyablem] \nLo siento, pero no tienes nada en la mano."
+    },
+    "VVZNAw": {
+        "ko": "[세야블렘]\n미안한데, 머리 위에 아무것도 없지 않아?",
+        "en": "[Seiyablem] \nSorry, but there's nothing in your head.",
+        "pt": "[Seiyablem]\nDesculpe, mas não tem nada na sua cabeça.",
+        "es": "[Seiyablem] \nLo siento, pero no hay nada en tu cabeza."
+    },
+    "VlZNAw": {
+        "ko": "[세야블렘]\n뭘 어쩌라는 건지...",
+        "en": "[Seiyablem] \nWhat do you want me to do?",
+        "pt": "[Seiyablem]\nO que você quer que eu faça?",
+        "es": "[Seiyablem] \n¿Qué quieres que haga?"
+    },
+    "V1ZNAw": {
+        "ko": "[세야블렘]\n세상에.. 벗고 다니는 거야? 용감한데?",
+        "en": "[Seiyablem] \nSorry, but there's nothing in your body.",
+        "pt": "[Seiyablem]\nDesculpe, mas não tem nada no seu corpo.",
+        "es": "[Seiyablem] \nLo siento, pero no hay nada en tu cuerpo."
+    },
+    "WFZNAw": {
+        "ko": "[세야블렘]\n냄새나 저리 치워.",
+        "en": "[Seiyablem] \nSorry, but there's nothing on your foot.",
+        "pt": "[Seiyablem]\nDesculpe, mas não tem nada no seu pé.",
+        "es": "[Seiyablem] \nLo siento, pero no tienes nada en el pie."
+    },
+    "WVZNAw": {
+        "ko": "[세야블렘]\n액세서리는 무슨 아무것도 없네.",
+        "en": "[Seiyablem] \nSorry, but I don't see any accessories with you.",
+        "pt": "[Seiyablem]\nDesculpe, mas não vejo nenhum acessório com você.",
+        "es": "[Seiyablem] \nLo siento, pero no veo ningún accesorio contigo."
+    },
+    "WlZNAw": {
+        "ko": "[세야블렘]\n소켓뚫기는 무슨 장비가 없는데? 뭘 뚫겠다는 거야?",
+        "en": "[Seiyablem] \nYou don't have any equipment to add a slot?",
+        "pt": "[Seiyablem]\nVocê não tem nenhum equipamento para adicionar um slot?",
+        "es": "[Seiyablem] \n¿No tienes ningún equipo para agregar un Slot?"
+    },
+    "W1ZNAw": {
+        "ko": "[세야블렘]\n뭘 또 들으려고... 한가지 힌트를 주자면 말이지, 내가 이래봬도 방랑소켓술사다 보니 이곳 저곳을 많이 경험하며 작업을 하는데, 아무래도 이 동네, 페이욘은 제련수치가 높은 장비의 소켓뚫기 성공률이 높아.",
+        "en": "[Seiyablem] \nWhat else can I explain... Well, adding a slot to a device is a process that has chances of success and failure.",
+        "pt": "[Seiyablem]\nO que mais posso explicar... Bem, adição de slot em um equipamento é um processo que possui chances de sucesso e de falha.",
+        "es": "[Seiyablem] \n¿Qué más puedo explicar? Bueno, agregar un Slot a un dispositivo es un proceso que tiene posibilidades de éxito y fracaso."
+    },
+    "XFZNAw": {
+        "ko": "[세야블렘]\n미묘한 차이지만 고제련 장비일수록 잘 뚫리는 게 괜히 느껴진단 말이지.. 물론 실패하면 고 제련 장비가 홀라당 날아가긴 하지만... 단순히 성공률만 따지고 볼 때 그렇다는 거야.",
+        "en": "[Seiyablem] \nIn cases of failure, you will lose the necessary equipment and materials that I requested.",
+        "pt": "[Seiyablem]\nNos casos de falha, você perderá o equipamento e os materiais necessários que eu solicitei.",
+        "es": "[Seiyablem] \nEn caso de falla, perderá el equipo y los materiales necesarios que solicité."
+    },
+    "XVZNAw": {
+        "ko": "[세야블렘]\n제련수치가 낮은 장비가 더 작업이 잘돼서 성공률이 높은 동네도 있어. 뭐 그건 거기 이야기니까 넘어가고...",
+        "en": "[Seiyablem] \nYes, the procedure is not just to give me equipment. I need materials according to the difficulty of your equipment.",
+        "pt": "[Seiyablem]\nSim, o procedimento não é apenas me dar um equipamento. Eu preciso de materiais de acordo com a dificuldade do seu equipamento.",
+        "es": "[Seiyablem] \nSí, el procedimiento no es solo darme equipo. Necesito materiales según la dificultad de tu equipo."
+    },
+    "XlZNAw": {
+        "ko": "[세야블렘]\n그리고, 주의해야 할 점이 하나 더 있는데, 음... 예를 들지. +6 더블 허리케인 나이프를 가지고 나에게 소켓을 뚫는다고 의뢰하는 경우, 장비는 어떻게 될 거 같아?",
+        "en": "[Seiyablem] \nBut the important thing is that you are aware that, even in case of success, I will deliver completely new equipment.",
+        "pt": "[Seiyablem]\nMas o importante é que você tenha consciência de que, mesmo em caso de sucesso, eu entregarei um equipamento totalmente novo.",
+        "es": "[Seiyablem] \nPero lo importante es que sepáis que, incluso en caso de éxito, os entregaré un equipo completamente nuevo."
+    },
+    "X1ZNAw": {
+        "ko": "[세야블렘]\n정답은 소켓뚫기에 성공하던 실패하던 부탁한 장비의 제련수치나 장착된 카드는 모두 사라진다는 소리지.",
+        "en": "[Seiyablem] \nThis means that if you hand me a +6 Weapon [0], I will return a +0 Weapon [1] to you. That is, without the refinement.",
+        "pt": "[Seiyablem]\nIsso significa que se você me entregar uma +6 Arma [0], eu irei lhe devolver uma +0 Arma [1]. Ou seja, sem o refinamento.",
+        "es": "[Seiyablem] \nEsto significa que si me entregas un +6 Arma [0], te devolveré un +0 Arma [1]. Eso sí, sin el refinamiento."
+    },
+    "YFZNAw": {
+        "ko": "[세야블렘]\n더 설명해주지 않아도 되지? 자아, 백문이 불여일견! 일단 한 번 소켓뚫기에 도전해보는 게 어때? 나도 먹고 살아야지.",
+        "en": "[Seiyablem] \nDid you understand? I hope so, because talking tires me and I want to work!",
+        "pt": "[Seiyablem]\nVocê entendeu? Espero que sim, pois falar me cansa e eu quero trabalhar!",
+        "es": "[Seiyablem] \n¿Entendiste? Espero que sí, porque hablar me cansa y quiero trabajar."
+    },
+    "YVZNAw": {
+        "ko": "[세야블렘]\n응 전부터 손님들이 불만사항으로 요청해오던 것도 있고 해서 작업방식을 조금 변경하게 되었지.",
+        "en": "[Seiyablem] \nYes, my service was updated due to constant complaints from users.",
+        "pt": "[Seiyablem]\nSim, meu serviço foi atualizado devido à constantes reclamações dos usuários.",
+        "es": "[Seiyablem] \nSí, mi servicio se actualizó debido a las constantes quejas de los usuarios."
+    },
+    "YlZNAw": {
+        "ko": "[세야블렘]\n참 그리고 전에는 방어구에도 작업을 했었는데 이제는 무기만 작업을 하게 되었어.",
+        "en": "[Seiyablem] \nThose who are older knew how difficult it was to add a Slot to a piece of equipment, but now it's simpler.",
+        "pt": "[Seiyablem]\nQuem é mais velho, sabia da dificuldade de se adicionar um Slot em um equipamento, mas agora está mais simples.",
+        "es": "[Seiyablem] \nLos que son mayores sabían lo difícil que era agregar un Slot a una pieza de equipo, pero ahora es más sencillo."
+    },
+    "Y1ZNAw": {
+        "ko": "[세야블렘]\n내 동생도 소켓뚫기로 영업을 하고 있는 건 알고 있지? 형제끼리 비슷한 장사로 싸우는 것도 좀 그렇고 무기는 모르겠지만 방어구는 동생이 더 잘하는 것 같기도 해서.",
+        "en": "[Seiyablem] \nBoth my brother and I managed to improve our services. It's a family business, so we needed to stay in the market.",
+        "pt": "[Seiyablem]\nTanto eu quanto meu irmão conseguimos melhorar nossos serviços. É um negócio de família, então precisávamos nos manter no mercado.",
+        "es": "[Seiyablem] \nMi hermano y yo logramos mejorar nuestros servicios. Es un negocio familiar, así que necesitábamos mantenernos en el mercado."
+    },
+    "ZFZNAw": {
+        "ko": "[세야블렘]\n무기는 내가 맡아서 작업하고 방어구는 동생이 맡아서 작업하기로 했어.",
+        "en": "[Seiyablem] \nIf I don't know how to add a slot to your equipment, look for my brother. Maybe he knows how to do the procedure.",
+        "pt": "[Seiyablem]\nSe eu não souber adicionar um slot no seu equipamento, procure meu irmão. Talvez ele saiba fazer o procedimento.",
+        "es": "[Seiyablem] \nSi no sé cómo añadir un Slot a tu equipo, busca a mi hermano. Quizás sepa cómo hacerlo."
+    },
+    "ZVZNAw": {
+        "ko": "[세야블렘]\n오류!!",
+        "en": "[Seiyablem] \nError!",
+        "pt": "[Seiyablem]\nErro!",
+        "es": "[Seiyablem] \n¡Error!"
+    },
+    "ZlZNAw": {
+        "ko": "[운영자]",
+        "en": "[Administration]",
+        "pt": "[Administração]",
+        "es": "[Administración]"
+    },
+    "Z1ZNAw": {
+        "ko": "앙그라마이뉴",
+        "en": "Angra Maniyu",
+        "pt": "Angra Maniyu",
+        "es": "Angra Maniyu"
+    },
+    "aFZNAw": {
+        "ko": "[C]",
+        "en": "[C]",
+        "pt": "[C]",
+        "es": "[C]"
+    },
+    "aVZNAw": {
+        "ko": "트라이던트",
+        "en": "Trident",
+        "pt": "Tridente",
+        "es": "Tridente"
+    },
+    "alZNAw": {
+        "ko": "프라콘",
+        "en": "Phracon",
+        "pt": "Fracon",
+        "es": "Phracon"
+    },
+    "a1ZNAw": {
+        "ko": "로프",
+        "en": "Rope",
+        "pt": "Cordel",
+        "es": "Cuerda"
+    },
+    "bFZNAw": {
+        "ko": "바이올린",
+        "en": "Violin",
+        "pt": "Violino",
+        "es": "Violín"
+    },
+    "bVZNAw": {
+        "ko": "갈라진 대지의 서",
+        "en": "Book of Mother Earth",
+        "pt": "Livro da Mãe Terra",
+        "es": "Libro de la Madre Tierra"
+    },
+    "blZNAw": {
+        "ko": "거친 파도의 서",
+        "en": "Book of Billows",
+        "pt": "Livro das Ondas",
+        "es": "Libro de las olas"
+    },
+    "b1ZNAw": {
+        "ko": "메마른 바람의 서",
+        "en": "Book of Gust of Wind",
+        "pt": "Livro do Golpe de Vento",
+        "es": "Libro de las ráfagas de viento"
+    },
+    "cFZNAw": {
+        "ko": "타오르는 태양의 서",
+        "en": "Book of the Blazing Sun",
+        "pt": "Livro do Sol Ardente",
+        "es": "Libro del sol abrasador"
+    },
+    "cVZNAw": {
+        "ko": "[B]",
+        "en": "[B]",
+        "pt": "[B]",
+        "es": "[B]"
+    },
+    "clZNAw": {
+        "ko": "체인",
+        "en": "Chain",
+        "pt": "Mangual Pesado",
+        "es": "Cadena"
+    },
+    "c1ZNAw": {
+        "ko": "그라디우스",
+        "en": "Gladius",
+        "pt": "Gladius",
+        "es": "Gladius"
+    },
+    "dFZNAw": {
+        "ko": "오리데오콘",
+        "en": "Oridecon",
+        "pt": "Oridecon",
+        "es": "Oridecon"
+    },
+    "dVZNAw": {
+        "ko": "강철",
+        "en": "Steel",
+        "pt": "Aço",
+        "es": "Acero"
+    },
+    "dlZNAw": {
+        "ko": "각궁",
+        "en": "Gakkung Bow",
+        "pt": "Gakkung",
+        "es": "Arco de Gakkung"
+    },
+    "d1ZNAw": {
+        "ko": "파이크",
+        "en": "Pike",
+        "pt": "Pique",
+        "es": "Pica"
+    },
+    "eFZNAw": {
+        "ko": "해동검",
+        "en": "Haedonggum",
+        "pt": "Haedonggum",
+        "es": "Haedonggum"
+    },
+    "eVZNAw": {
+        "ko": "류트",
+        "en": "Lute",
+        "pt": "Alaúde",
+        "es": "Laúd"
+    },
+    "elZNAw": {
+        "ko": "엠베르타콘",
+        "en": "Emveretarcon",
+        "pt": "Emveretarcon",
+        "es": "Emveretarcon"
+    },
+    "e1ZNAw": {
+        "ko": "와이어",
+        "en": "Wire Whip",
+        "pt": "Açoite",
+        "es": "Látigo de alambre"
+    },
+    "fFZNAw": {
+        "ko": "바그낙",
+        "en": "Waghnak",
+        "pt": "Waghnak",
+        "es": "Waghnak"
+    },
+    "fVZNAw": {
+        "ko": "알바레스트",
+        "en": "Arbalest Bow",
+        "pt": "Arbaleste",
+        "es": "Arbalesta"
+    },
+    "flZNAw": {
+        "ko": "오키쉬 액스",
+        "en": "Orcish Axe",
+        "pt": "Machado dos Orcs",
+        "es": "Hacha orca"
+    },
+    "f1ZNAw": {
+        "ko": "시미터",
+        "en": "Scimitar",
+        "pt": "Cimitarra",
+        "es": "Cimitarra"
+    },
+    "gFZNAw": {
+        "ko": "스파이크",
+        "en": "Spike",
+        "pt": "Clava com Espetos",
+        "es": "Spike"
+    },
+    "gVZNAw": {
+        "ko": "[A]",
+        "en": "[A]",
+        "pt": "[A]",
+        "es": "[A]"
+    },
+    "glZNAw": {
+        "ko": "헌터보우",
+        "en": "Hunter Bow",
+        "pt": "Arco de Caça",
+        "es": "Arco de cazador"
+    },
+    "g1ZNAw": {
+        "ko": "생존의 지팡이(인트)",
+        "en": "Survivor's Rod (Int)",
+        "pt": "Bastão do Sobrevivente II",
+        "es": "Báculo de sobreviviente (INT)"
+    },
+    "hFZNAw": {
+        "ko": "즈바이핸더",
+        "en": "Zweihander",
+        "pt": "Zweihander",
+        "es": "Dos manos"
+    },
+    "hVZNAw": {
+        "ko": "프람베르그",
+        "en": "Flamberge",
+        "pt": "Flamberge",
+        "es": "Flamígera"
+    },
+    "hlZNAw": {
+        "ko": "등 뒤를 베는 자",
+        "en": "Infiltrator",
+        "pt": "Infiltrador",
+        "es": "Infiltrador"
+    },
+    "h1ZNAw": {
+        "ko": "발리스타",
+        "en": "Ballista",
+        "pt": "Balista",
+        "es": "Balista"
+    },
+    "iFZNAw": {
+        "ko": "스터너",
+        "en": "Stunner",
+        "pt": "Atordoador",
+        "es": "Aturdidor"
+    },
+    "iVZNAw": {
+        "ko": "베르세르크",
+        "en": "Berserk",
+        "pt": "Fúria Insana",
+        "es": "Berserk"
+    },
+    "ilZNAw": {
+        "ko": "크레이모어",
+        "en": "Claymore",
+        "pt": "Claymore",
+        "es": "Casa antigua"
+    },
+    "i1ZNAw": {
+        "ko": "드래곤 킬러",
+        "en": "Dragon Killer",
+        "pt": "Matadora de Dragão",
+        "es": "Asesina de dragones"
+    },
+    "jFZNAw": {
+        "ko": "먼지 낀 가시덤불의 카타르",
+        "en": "Katar of Dusty Thornbush",
+        "pt": "Katar da Espinheira Empoeirada",
+        "es": "Katar del espino polvoriento"
+    },
+    "jVZNAw": {
+        "ko": "분출하는 불꽃의 카타르",
+        "en": "Katar of Raging Blaze",
+        "pt": "Katar da Chama Impetuosa",
+        "es": "Katar del fuego embravecido"
+    },
+    "jlZNAw": {
+        "ko": "시린 고드름의 카타르",
+        "en": "Katar of Frozen Icicle",
+        "pt": "Katar Gélida",
+        "es": "Katar de témpano congelado"
+    },
+    "j1ZNAw": {
+        "ko": "살을 에는 바람의 카타르",
+        "en": "Katar of Piercing Wind",
+        "pt": "Katar do Vento Perfurante",
+        "es": "Katar del viento perforante"
+    },
+    "kFZNAw": {
+        "ko": "골든메이스",
+        "en": "Golden Mace",
+        "pt": "Maça de Ouro",
+        "es": "Maza de oro"
+    },
+    "kVZNAw": {
+        "ko": "비파",
+        "en": "Oriental Lute",
+        "pt": "Alaúde Oriental",
+        "es": "Laúd oriental"
+    },
+    "klZNAw": {
+        "ko": "여왕님의 채찍",
+        "en": "Queen's Whip",
+        "pt": "Chicote da Rainha",
+        "es": "Látigo de la Reina"
+    },
+    "k1ZNAw": {
+        "ko": "요괴의 창",
+        "en": "Spectral Spear",
+        "pt": "Lança Espectral",
+        "es": "Lanza Espectral"
+    },
+    "lFZNAw": {
+        "ko": "가에볼그",
+        "en": "Gae Bolg",
+        "pt": "Gae Bolg",
+        "es": "Gae Bolg"
+    },
+    "lVZNAw": {
+        "ko": "슈바이체르샤벨",
+        "en": "Swiss sword",
+        "pt": "Schweizersabel",
+        "es": "espada suiza"
+    },
+    "llZNAw": {
+        "ko": "알테어&아레스",
+        "en": "Altair & Ares",
+        "pt": "Pistola Altair-Ares",
+        "es": "Altair & Ares"
+    },
+    "l1ZNAw": {
+        "ko": "RAG203",
+        "en": "R.A.G.203",
+        "pt": "Rifle de Atraso",
+        "es": "R.A.G.203"
+    },
+    "mFZNAw": {
+        "ko": "피스 브레이커",
+        "en": "Peace Breaker",
+        "pt": "Espingarda da Destruição",
+        "es": "Romper la paz"
+    },
+    "mVZNAw": {
+        "ko": "템페스트",
+        "en": "Tempest",
+        "pt": "Metralhadora da Tempestade",
+        "es": "Tempestad"
+    },
+    "mlZNAw": {
+        "ko": "서던크로스",
+        "en": "Southern Cross",
+        "pt": "Cruz Meridional",
+        "es": "Cruz del Sur"
+    },
+    "m1ZNAw": {
+        "ko": "[S]",
+        "en": "[S]",
+        "pt": "[S]",
+        "es": "[S]"
+    },
+    "nFZNAw": {
+        "ko": "궁그닐",
+        "en": "Gungnir",
+        "pt": "Gungnir",
+        "es": "Gungnir"
+    },
+    "nVZNAw": {
+        "ko": "포이즌 나이프",
+        "en": "Poison Knife",
+        "pt": "Adaga Venenosa",
+        "es": "Cuchillo envenenado"
+    },
+    "nlZNAw": {
+        "ko": "송곳",
+        "en": "Ice Pick",
+        "pt": "Rondel",
+        "es": "Picahielos"
+    },
+    "n1ZNAw": {
+        "ko": "수크사마드",
+        "en": "Sucsamad",
+        "pt": "Sucsamad",
+        "es": "Sucsamad"
+    },
+    "oFZNAw": {
+        "ko": "간눙가가프",
+        "en": "Ginnungagap",
+        "pt": "Ginnungagap",
+        "es": "Ginnungagap"
+    },
+    "oVZNAw": {
+        "ko": "커틀러스",
+        "en": "Cutlus",
+        "pt": "Cutelo",
+        "es": "Alfanje"
+    },
+    "olZNAw": {
+        "ko": "크레센트 사이더",
+        "en": "Crescent Scythe",
+        "pt": "Foice",
+        "es": "Guadaña medialuna"
+    },
+    "o1ZNAw": {
+        "ko": "생존의 지팡이(덱스)",
+        "en": "Survivor's Rod (Dex)",
+        "pt": "Bastão do Sobrevivente I",
+        "es": "Báculo de sobreviviente (DES)"
+    },
+    "pFZNAw": {
+        "ko": "제퓨로스",
+        "en": "Zephyrus",
+        "pt": "Zéfiro",
+        "es": "Lanza Zephyrus"
+    },
+    "pVZNAw": {
+        "ko": "메일 브레이커",
+        "en": "Mailbreaker",
+        "pt": "Destruidor de Malha",
+        "es": "Rompemallas"
+    },
+    "plZNAw": {
+        "ko": "드래곤 슬레이어",
+        "en": "Dragon Slayer",
+        "pt": "Caçadora de Dragões",
+        "es": "Cazadragones"
+    },
+    "p1ZNAw": {
+        "ko": "소드 브레이커",
+        "en": "Swordbreaker",
+        "pt": "Destruidor de Espada",
+        "es": "Rompeespadas"
+    },
+    "qFZNAw": {
+        "ko": "어쌔신 대거",
+        "en": "Assassin Dagger",
+        "pt": "Adaga do Algoz",
+        "es": "Daga de Asesino"
+    },
+    "qVZNAw": {
+        "ko": "그랜드 크로스",
+        "en": "Grand Cross",
+        "pt": "Grande Cruz",
+        "es": "Gran Cruz"
+    },
+    "qlZNAw": {
+        "ko": "액서큐서너",
+        "en": "Executioner",
+        "pt": "Executora",
+        "es": "Verdugo"
+    },
+    "q1ZNAw": {
+        "ko": "[세야블렘]\n난 무기만 취급해. 방어구는 모두 동생에게 넘겼어. 방어구에 소켓뚫는 작업은 내 동생이 더 잘하거든.",
+        "en": "[Seiyablem] \nI only work with weapons. If you want to add a slot to any armor, look for my younger brother.",
+        "pt": "[Seiyablem]\nEu trabalho apenas com armas. Se deseja adicionar Slot em alguma armadura, procure meu irmão mais novo.",
+        "es": "[Seiyablem] \nSolo trabajo con armas. Si quieres añadir un Slot a cualquier armadura, busca a mi hermano menor."
+    },
+    "rFZNAw": {
+        "ko": "[세야블렘]\n미안한데 여기에는 소켓뚫기 작업을 할 수 없어. 내가 대단하긴 하지만, 모든 장비에 소켓뚫기가 가능하진 않다구.",
+        "en": "[Seiyablem] \nSorry, but this weapon cannot be slotted.",
+        "pt": "[Seiyablem]\nDesculpe, mas essa arma não pode receber um slot.",
+        "es": "[Seiyablem] \nLo siento, pero esta arma no se puede colocar en ningun Slot."
+    },
+    "rVZNAw": {
+        "ko": "[세야블렘]\n{0}등급의 {1}인가?",
+        "en": "[Seiyablem] \n{1} is {0} class.",
+        "pt": "[Seiyablem]\n{1} é de classe {0}.",
+        "es": "[Seiyablem] \n{1} es de la clase {0}."
+    },
+    "rlZNAw": {
+        "ko": "오케이. 그거라면 요금은 ^FF0000{0}^000000제니야. 물론 {1}도 당연히 가져와야 하고.",
+        "en": "In this case I need ^FF0000{0}^000000 zeny and 1x {1}.",
+        "pt": "Nesse caso, eu preciso de ^FF0000{0}^000000 zeny e 1x {1}.",
+        "es": "En este caso necesito ^FF0000{0}^000000 zeny y 1x {1}."
+    },
+    "r1ZNAw": {
+        "ko": "오케이. 그거라면 요금은 ^FF0000{0}^000000제니야, 따로 준비해 와야 하는 재료는 ^FF0000{1} {2}개^000000야. 물론 {3}도 당연히 가져와야 하고.",
+        "en": "In this case, I need ^FF0000{0}^000000 zeny, ^FF0000{1} {2}^000000 and 1x {3}.",
+        "pt": "Nesse caso, eu preciso de ^FF0000{0}^000000 zeny, ^FF0000{1} {2}^000000 e 1x {3}.",
+        "es": "En este caso, necesito ^FF0000{0}^000000 zeny, ^FF0000{1} {2}^000000 y 1x {3}."
+    },
+    "sFZNAw": {
+        "ko": "오케이. 그거라면 요금은 ^FF0000{0}^000000제니야, 따로 준비해 와야 하는 재료는 ^FF0000{1} {2}개, {3} {4}개^000000야. 물론 {5}도 당연히 가져와야 하고.",
+        "en": "In this case, I need ^FF0000{0}^000000 zeny, ^FF0000{1}{2}, {3}{4}^000000 and 1x {5}.",
+        "pt": "Nesse caso, eu preciso de ^FF0000{0}^000000 zeny, ^FF0000{1} {2}, {3} {4} ^000000 e 1x {5}.",
+        "es": "En este caso, necesito ^FF0000{0}^000000 zeny, ^FF0000{1}{2}, {3}{4}^000000 y 1x {5}."
+    },
+    "sVZNAw": {
+        "ko": "[세야블렘]\n재료랑 요금은 다 챙겨왔어? 그리고, 실패할 경우 재료, 장비는 없어져 버리니 그 점은 인지해두고. 소켓뚫기에 성공해도 제련치나 박아둔 카드는 전부 사라진다는 것도 명심해.",
+        "en": "[Seiyablem] \nREMINDER: You will lose the materials and equipment in case of failure. If it is a success, you will lose the refinement, random bonuses and other cards that are on the weapon.",
+        "pt": "[Seiyablem]\nLEMBRANDO: Você perderá os materiais e o equipamento em caso de falha. Se for um sucesso, você perderá o refinamento, bônus aleatórios e outras cartas que estiverem na arma.",
+        "es": "[Seiyablem] \nRECUERDA: Perderás los materiales y el equipo si fallas. Si tienes éxito, perderás el refinamiento, las bonificaciones aleatorias y otras cartas del arma."
+    },
+    "slZNAw": {
+        "ko": "소켓뚫기 작업을 맡긴다.",
+        "en": "Add a Slot",
+        "pt": "Adicione um Slot",
+        "es": "Agregar un Slot"
+    },
+    "s1ZNAw": {
+        "ko": "다음 기회에 도전한다.",
+        "en": "Ok, bye...",
+        "pt": "Deixa pra lá...",
+        "es": "Déjalo ahí..."
+    },
+    "tFZNAw": {
+        "ko": "[세야블렘]\n그럼 다음 기회에 또.",
+        "en": "[Seiyablem] \nSee you soon.",
+        "pt": "[Seiyablem]\nAté logo.",
+        "es": "[Seiyablem] \nNos vemos pronto."
+    },
+    "tVZNAw": {
+        "ko": "[세야블렘]\n멍청이! 재료가 부족하잖아! 다시 제대로 가져오지 못해?!",
+        "en": "[Seiyablem] \nI'm sorry, but you don't have the necessary materials.",
+        "pt": "[Seiyablem]\nSinto muito, mas você não está com os materiais necessários.",
+        "es": "[Seiyablem] \nLo siento, pero no tienes los materiales necesarios."
+    },
+    "tlZNAw": {
+        "ko": "[세야블렘]\n자아 그럼 시작해볼까! 잘 되길 기도하라구.",
+        "en": "[Seiyablem] \nGood luck!",
+        "pt": "[Seiyablem]\nBoa sorte!",
+        "es": "[Seiyablem] \n¡Buena suerte!"
+    },
+    "t1ZNAw": {
+        "ko": "[세야블렘]\n오케이... 제대로 된 거 같군. 성공이야. 이쁘게 잘 되었는걸? 아무튼 축하축하.",
+        "en": "[Seiyablem] \nThe procedure was successful! You received your weapon with a slot, but without refinement, random bonuses and cards.",
+        "pt": "[Seiyablem]\nO procedimento foi um sucesso! Você recebeu sua arma com slot, mas sem refino, bônus aleatórios e cartas.",
+        "es": "[Seiyablem] \n¡El procedimiento fue exitoso! Recibiste tu arma con un Slot, pero sin refinamiento, bonificaciones aleatorias ni cartas."
+    },
+    "uFZNAw": {
+        "ko": "[세야블렘]\n윽... 미안하다. 실패했다. 하지만 나는 죄 없어. 이것도 다 하늘이 정한 일이고 그쪽의 운이지. 너무 상심하지마. 그럼 담에 또 이용해달라구!",
+        "en": "[Seiyablem] \nThe procedure was a failure... But don't be sad. You were aware that this would happen.",
+        "pt": "[Seiyablem]\nO procedimento foi um fracaso... Mas não fique triste. Você estava ciente que isso aconteceria.",
+        "es": "[Seiyablem] \nEl procedimiento fue un fracaso... Pero no estés triste. Sabías que esto pasaría."
+    },
+    "uVZNAw": {
+        "ko": "동네청년",
+        "en": "Slotter Apprentice",
+        "pt": "Slotador Aprendiz",
+        "es": "Aprendiz de Slot"
+    },
+    "ulZNAw": {
+        "ko": "[동네청년]\n장비에 소켓을 뚫을 시, 장비\n자체의 옵션이 바뀌는 경우도\n있으니까 그 점 유의하셔야\n할 겁니다.",
+        "en": "[Slotter Apprentice] \nYou can add a card slot to \nan equipment or weapon. \nSeiyablem and Leablem are masters\nof the 'slotting' process.",
+        "pt": "[Slotador Aprendiz]\nVocê pode adicionar Slot de carta \nem um equipamento ou arma.\nSeiyablem e Leablem são mestres\nno processo de 'sloteamento'.",
+        "es": "[Aprendiz de Slot] \nPuedes añadir un Slot para cartas \na un equipo o arma. \nSeiyablem y Leablem son maestros \nen el proceso de Slot."
+    },
+    "u1ZNAw": {
+        "ko": "[동네청년]\n아 그리고..정말 드문 경우지만\n장비에 따라 소켓이 한번에 두\n개가 뚫리는 경우도 있으니까\n잘 살펴보세요. 물론 모든\n장비가 다 그런건 아닙니다만.",
+        "en": "[Slotter Apprentice] \nIn some cases, the equipment \nreceives more than one slot, \ngoing from [0] to [3], for example. \nNot all equipment \ncan be 'slotted'.",
+        "pt": "[Slotador Aprendiz]\nEm alguns caso, o equipamento \nrecebe mais de um slot, \nindo de [0] para [3], por exemplo.\nNem todos os equipamentos\npodem ser 'sloteados'.",
+        "es": "[Aprendiz de Slot] \nEn algunos casos, \nel equipo recibe más de un Slot, \npor ejemplo, de [0] a [3]. \nNo todos los equipos \npueden ter Slot."
+    },
+    "vFZNAw": {
+        "ko": "[동네청년]\n저도 지금부터 공부해서 소켓\n뚫는 사람이나 될까봐요.",
+        "en": "[Slotter Apprentice] \nI'm still learning. \nIf you want to do the procedure, talk to Seiyablem and Leablem.",
+        "pt": "[Slotador Aprendiz]\nEu ainda estou aprendendo.\nSe você deseja fazer o procedimento, fale com Seiyablem e Leablem.",
+        "es": "[Aprendiz de Slot] \nSigo aprendiendo. \nSi quieres realizar el procedimiento, habla con Seiyablem y Leablem."
+    },
+    "vVZNAw": {
+        "ko": "[세야블렘]\n뭘 또 들으려고... 한가지 힌트를 주자면 말이지, 내가 이래봬도 방랑소켓술사다 보니 이곳 저곳을 많이 경험하며 작업을 하는데, 아무래도 이 동네, 리히타르젠은 제련수치가 높은 장비의 소켓뚫기 성공률이 높아.",
+        "en": "[Seiyablem] \nWhat else can I explain... Well, adding a slot to a device is a process that has chances of success and failure.",
+        "pt": "[Seiyablem]\nO que mais posso explicar... Bem, adição de slot em um equipamento é um processo que possui chances de sucesso e de falha.",
+        "es": "[Seiyablem] \n¿Qué más puedo explicar? Bueno, agregar un Slot a un dispositivo es un proceso que tiene posibilidades de éxito y fracaso."
+    },
+    "vlZNAw": {
+        "ko": "[세야블렘]\n뭘 또 들으려고... 한가지 힌트를 주자면 말이지, 내가 이래봬도 방랑소켓술사다 보니 이곳 저곳을 많이 경험하며 작업을 하는데, 아무래도 이 동네, 프론테라는 제련치가 낮은 장비의 소켓뚫기 성공률이 높아.",
+        "en": "[Seiyablem] \nWhat else can I explain... Well, adding a slot to a device is a process that has chances of success and failure.",
+        "pt": "[Seiyablem]\nO que mais posso explicar... Bem, adição de slot em um equipamento é um processo que possui chances de sucesso e de falha.",
+        "es": "[Seiyablem] \n¿Qué más puedo explicar? Bueno, agregar un Slot a un dispositivo es un proceso que tiene posibilidades de éxito y fracaso."
+    },
+    "v1ZNAw": {
+        "ko": "[세야블렘]\n미묘한 차이지만 저 제련 장비일수록 잘 뚫리는 게 괜히 느껴진단 말이지.. 물론 실패하면 장비가 홀라당 날아가긴 하지만...단순히 성공률만 따지고 볼 때 그렇다는 거야.",
+        "en": "[Seiyablem] \nIn cases of failure, you will lose the necessary equipment and materials that I requested.",
+        "pt": "[Seiyablem]\nNos casos de falha, você perderá o equipamento e os materiais necessários que eu solicitei.",
+        "es": "[Seiyablem] \nEn caso de falla, perderá el equipo y los materiales necesarios que solicité."
+    },
+    "wFZNAw": {
+        "ko": "[세야블렘]\n제련수치가 높은 장비가 더 작업이 잘돼서 성공률이 높은 동네도 있어. 뭐 그건 거기 이야기니까 넘어가고...",
+        "en": "[Seiyablem] \nYes, the procedure is not just to give me equipment. I need materials according to the difficulty of your equipment.",
+        "pt": "[Seiyablem]\nSim, o procedimento não é apenas me dar um equipamento. Eu preciso de materiais de acordo com a dificuldade do seu equipamento.",
+        "es": "[Seiyablem] \nSí, el procedimiento no es solo darme equipo. Necesito materiales según la dificultad de tu equipo."
+    },
+    "wVZNAw": {
+        "ko": "[세야블렘]\n뭘 또 들으려고... 한가지 힌트를 주자면 말이지, 내가 이래봬도 방랑소켓술사다 보니 이곳 저곳을 많이 경험하며 작업을 하는데, 아무래도 이 동네, 모로크는 제련수치가 낮은 장비의 소켓뚫기 성공률이 높아.",
+        "en": "[Seiyablem] \nWhat else can I explain... Well, adding a slot to a device is a process that has chances of success and failure.",
+        "pt": "[Seiyablem]\nO que mais posso explicar... Bem, adição de slot em um equipamento é um processo que possui chances de sucesso e de falha.",
+        "es": "[Seiyablem] \n¿Qué más puedo explicar? Bueno, agregar un Slot a un dispositivo es un proceso que tiene posibilidades de éxito y fracaso."
+    }
+}

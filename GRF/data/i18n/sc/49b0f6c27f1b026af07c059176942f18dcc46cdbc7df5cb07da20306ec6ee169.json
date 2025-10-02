@@ -1,0 +1,917 @@
+{
+    "gG5RBg": {
+        "en": "^FF0000I feel dazed, as if I'm dreaming.^000000",
+        "pt": "^FF0000Parece que estou sonhando...^000000",
+        "es": "^FF0000Qué aturdimiento, siento como si estuviera soñando.^000000"
+    },
+    "gW5RBg": {
+        "en": "Zeith",
+        "pt": "Zeith",
+        "es": "Zeith"
+    },
+    "gm5RBg": {
+        "en": "Vrid",
+        "pt": "Vrid",
+        "es": "Vrid"
+    },
+    "g25RBg": {
+        "en": "Vrid",
+        "pt": "Vrid",
+        "es": "Vrid"
+    },
+    "hG5RBg": {
+        "en": "[^FF0000Vrid^000000]\nSee if you can break the ice around him.\nIf it works, then please break me out of the ice, too.",
+        "pt": "[^FF0000Vrid^000000]\nSe conseguir sair desse gelo, me ajude também~",
+        "es": "[^FF0000Vrid^000000]\nIntenta romper el hielo a su alrededor. \nSi funciona, entonces sácame del hielo a mí también."
+    },
+    "hW5RBg": {
+        "en": "[^FF0000Vrid^000000]\nIt really worked!\nHey, Zeith!\nAre you alright?",
+        "pt": "[^FF0000Vrid^000000]\nEu não esperava acordar... Ei, Zeith! Tá tudo bem?",
+        "es": "[^FF0000Vrid^000000]\n¡Funcionó! \n¡Oye, Zeith! \n¿Estás bien?"
+    },
+    "hm5RBg": {
+        "en": "Zeith",
+        "pt": "Zeith",
+        "es": "Zeith"
+    },
+    "h25RBg": {
+        "en": "I'm carrying too many types of items.\nI should lighten my bag first.",
+        "pt": "Você está com excesso de itens no inventário. Por favor, alivie sua carga e volte novamente.",
+        "es": "Tengo demasiados tipos de objetos. Primero, debería aligerar mi bolso."
+    },
+    "iG5RBg": {
+        "en": "I'm overweight. I'd better lighten my bag first.",
+        "pt": "Você está com excesso de peso no inventário. Por favor, alivie sua carga e volte novamente.",
+        "es": "Llevo mucho peso. Será mejor que aligere mi bolso primero."
+    },
+    "iW5RBg": {
+        "en": "- You must be Level 120 or above to perform this quest.",
+        "pt": "- Somente nível 120 ou superior.",
+        "es": "-Debes ser de nivel 120 o superior para realizar esta misión."
+    },
+    "im5RBg": {
+        "en": "- I can perform this quest once a day.",
+        "pt": "- Missão disponível 1 vez por dia.",
+        "es": "-Puedo realizar esta misión una vez al día."
+    },
+    "i25RBg": {
+        "en": "^FF0000...? I released them from the ice earlier. Why are they frozen again?^000000",
+        "pt": "^FF0000Eles ficaram presos no gelo... de novo.^000000",
+        "es": "¿^FF0000…? Ya los había sacado del hielo. ¿Por qué se volvieron a congelar?^000000"
+    },
+    "jG5RBg": {
+        "en": "[^0000FFZeith^000000]\nSigh, this is all because of you, idiot.",
+        "pt": "[^0000FFZeith^000000]\nAff... que dificuldade, hein...?",
+        "es": "[^0000FFZeith^000000]\nAish, todo es tu culpa, idiota."
+    },
+    "jW5RBg": {
+        "en": "[^FF0000Vrid^000000]\nBut he really looked pitiful!\nI was only trying to help him.\nWho knew he'd freeze us in ice?\nI'm the victim here, you know.",
+        "pt": "[^FF0000Vrid^000000]\nAh, não... não vem, não!\nEu fui tentar te ajudar,\nficamos assim por tua culpa!\nEu sou a vítima aqui!",
+        "es": "[^FF0000Vrid^000000]\n¡Pero es que daba mucha lástima!\nSolo lo quería ayudar.\n¿Quién iba a imaginar que nos congelaría?\nYo soy la víctima aquí, ¿entiendes?"
+    },
+    "jm5RBg": {
+        "en": "[^0000FFZeith^000000]\nI don't know why you thought he looked pitiful, but that's not important.\nWe have to think about how to break out of this ice. *Groan*",
+        "pt": "[^0000FFZeith^000000]\n...Urgh, patético... \nEu preciso pensar um jeito de sairmos daqui...",
+        "es": "[^0000FFZeith^000000]\nNo sé por qué te dio lástima, pero eso no importa.\nTenemos que pensar una forma de salir de aquí. *Gruñe*"
+    },
+    "j25RBg": {
+        "en": "[^FF0000Vrid^000000]\nI can't even move a finger because of the ice around me.\nYeah, we really need help.\nIs there anyone who can help?oh! Hey, you!",
+        "pt": "[^FF0000Vrid^000000]\nO gelo está muito duro para mover. \nNão vamos sair dessa sozinhos... \nPrecisamos de alg... Ei! você! VOCÊ!",
+        "es": "[^FF0000Vrid^000000]\nEl hielo me tiene completamente inmovilizado.\nNecesitamos ayuda urgente.\n¿Hay alguien ahí que pueda ayudarnos? ¡Ah! ¡Oye, tú!"
+    },
+    "kG5RBg": {
+        "en": "- Are you calling me?",
+        "pt": "- Quem? Eu?",
+        "es": "-¿Me hablan a mí?"
+    },
+    "kW5RBg": {
+        "en": "[^FF0000Vrid^000000]\nYes, who else? As you can see, we happened to get ourselves trapped in ice. It's a long story. I'll tell you all about it if you let us out.",
+        "pt": "[^FF0000Vrid^000000]\nSim, você. Estamos em uma situação congelante que eu não gostaria de explicar agora... Ajude a gente aqui, primeiro.",
+        "es": "[^FF0000Vrid^000000]\nSí, ¿a quién más? Como puedes ver, quedamos atrapados en el hielo. Es una larga historia. Te lo contaré todo si nos liberas."
+    },
+    "km5RBg": {
+        "en": "- How can I let you out?",
+        "pt": "- Como eu ajudo?",
+        "es": "-¿Cómo puedo liberarlos?"
+    },
+    "k25RBg": {
+        "en": "[^FF0000Vrid^000000]\nThat's a good question. Zeith, answer him.",
+        "pt": "[^FF0000Vrid^000000]\nBoa pergunta! E Zeith tem a resposta!",
+        "es": "[^FF0000Vrid^000000]\nBuena pregunta. Zeith, respóndele."
+    },
+    "lG5RBg": {
+        "en": "[^0000FFZeith^000000]\n...Stop dumping things on me!\nI think we'll have to use fire.",
+        "pt": "[^0000FFZeith^000000]\n...Você jogou a responsablidade para mim!\nSei lá... tenta usar fogo, talvez.",
+        "es": "[^0000FFZeith^000000]\n…¡Deja de ser tan mandón!\nCreo que tendremos que usar fuego."
+    },
+    "lW5RBg": {
+        "en": "[^FF0000Vrid^000000]\nFire?\nBut I hate being hot, and fire could burn us to death.",
+        "pt": "[^FF0000Vrid^000000]\nFogo? \nA gente vai carbonizar!",
+        "es": "[^FF0000Vrid^000000]\n¿Fuego?\nPero no me gusta el calor, y nos podría quemar vivos."
+    },
+    "lm5RBg": {
+        "en": "[^0000FFZeith^000000]\nBut we need it to melt the ice around us. We'll be okay... I think.\nSo, mm... Our new friend...",
+        "pt": "[^0000FFZeith^000000]\nSó o suficiente para derreter o gelo...\nEntão... er... coleguinha...",
+        "es": "[^0000FFZeith^000000]\nPero lo necesitamos para derretir el hielo. Estaremos bien… Creo.\nBueno, em… Colega…"
+    },
+    "l25RBg": {
+        "en": "[^0000FFZeith^000000]\nI'm sorry, but could you find some dry twigs from heaps of dry soil in this cave? We won't need more than 10.",
+        "pt": "[^0000FFZeith^000000]\nSerá que você pode coletar Galhos Mortos para nós? 10 unidades é o bastante.",
+        "es": "[^0000FFZeith^000000]\nDisculpa, ¿podrías buscar montículos de tierra seca en la cueva y traer unas cuantas ramas secas? Creo que con 10 bastará."
+    },
+    "mG5RBg": {
+        "en": "[^FF0000Vrid^000000]\nArgh, you're going to burn us to death!",
+        "pt": "[^FF0000Vrid^000000]\nAaAaAaAaA... A gente vai morrer queimadooo~",
+        "es": "[^FF0000Vrid^000000]\n¡Grrr, nos vas a quemar vivos!"
+    },
+    "mW5RBg": {
+        "en": "^FF0000They're having the same conversation they had before. Also, I don't think they remember me.^000000",
+        "pt": "^FF0000Eles estão repetindo o mesmo diálogo como se não soubessem que eu sou.^000000",
+        "es": "^FF0000Están hablando de lo mismo otra vez. Además, creo que no se acuerdan de mí.^000000"
+    },
+    "mm5RBg": {
+        "en": "^FF0000I already know fire won't work, but I'm just going to go along with their request.^000000",
+        "pt": "^FF0000Eu sei que fogo não vai resolver, mas vou atender o pedido deles, primeiro.^000000",
+        "es": "^FF0000Ya sé que el fuego no funcionará, pero haré lo que me piden.^000000"
+    },
+    "m25RBg": {
+        "en": "[^0000FFZeith^000000]\nWe need 10 Dry Twigs. Check the heaps of dry soil inside this cave.",
+        "pt": "[^0000FFZeith^000000]\nPreciso de 10 Galhos Mortos. Eles devem estar em alguma Pilha de Terra Seca por aí.",
+        "es": "[^0000FFZeith^000000]\nNecesitamos 10 ramas secas. Revisa los montículos de tierra seca en la cueva."
+    },
+    "nG5RBg": {
+        "en": "[^0000FFZeith^000000]\nYou brought all those dry twigs. Oh, we haven't introduced ourselves yet. have we?\nI'm Zeith, and this is?",
+        "pt": "[^0000FFZeith^000000]\n...Parece que você coletou todos.\nA propósito, eu me chamo Zeith, e esse aqui é...",
+        "es": "[^0000FFZeith^000000]\nTrajiste todas las ramas secas. Ah, aún no nos hemos presentado, ¿verdad?\nYo soy Zeith y él es…"
+    },
+    "nW5RBg": {
+        "en": "[^FF0000Vrid^000000]\nUgh, you're going to burn us to death.",
+        "pt": "[^FF0000Vrid^000000]\n...Ah... a gente vai morrer queimado...",
+        "es": "[^FF0000Vrid^000000]\n¡Aah, nos vas a quemar vivos!"
+    },
+    "nm5RBg": {
+        "en": "[^0000FFZeith^000000]\nSigh. This is Vrid.\nWhat's your name?",
+        "pt": "[^0000FFZeith^000000]\n....É o Vrid. \nQual o seu nome?",
+        "es": "[^0000FFZeith^000000]\nAish. Él es Vrid.\n¿Cómo te llamas?"
+    },
+    "n25RBg": {
+        "en": "-{0}.",
+        "pt": "- Me chamo {0}.",
+        "es": "-{0}."
+    },
+    "oG5RBg": {
+        "en": "[^0000FFZeith^000000]\n{0}That's a nice name.\nFor now, let's light the twigs and try to melt the ice. Why don't you try to melt the ice around my friend first?",
+        "pt": "[^0000FFZeith^000000]\nMuito prazer, {0}...\nBom, vamos começar queimando esse galho para derreter o gelo do Vrid.",
+        "es": "[^0000FFZeith^000000]\n{0}. Es un bonito nombre.\nAhora hay que encender las ramitas e intentar derretir el hielo. ¿Por qué no pruebas derretir el hielo alrededor de mi amigo primero?"
+    },
+    "oW5RBg": {
+        "en": "[^FF0000Vrid^000000]\nGrr, why are you so evil?\nNo, don't! I'd rather die!",
+        "pt": "[^FF0000Vrid^000000]\nEu primeiro?! Canalha!!\nVocê quer me matar!",
+        "es": "[^FF0000Vrid^000000]\nGrr, ¿por qué eres tan malo?\n¡No, no lo hagas! ¡Prefiero morir!"
+    },
+    "om5RBg": {
+        "en": "[^0000FFZeith^000000]\n...Sigh. Alright, I'll do it.\nCould you light the twigs and place them around me?\nBut let me remind you,\ntry not to place them too close to me.",
+        "pt": "[^0000FFZeith^000000]\n...Tá, eu vou primeiro. \nPoderia acender um galho e colocar perto de mim?\nE por precaução,\nnão deixe o fogo muito próximo...",
+        "es": "[^0000FFZeith^000000]\n…Aish. De acuerdo, hazlo.\n¿Podrías encender las ramitas y ponerlas a mi alrededor?\nPero no lo olvides,\nno las pongas demasiado cerca."
+    },
+    "o25RBg": {
+        "en": "^FF0000I lit the dry twigs and placed them around him. Some time has passed, but the ice doesn't look like it's melting.^000000",
+        "pt": "^FF0000Você acende o galho, mas o tempo passa e o gelo não derrete.^000000",
+        "es": "^FF0000Encendí las ramas secas y las puse a su alrededor. Pasó un rato, pero no parece que el hielo se esté derritiendo.^000000"
+    },
+    "pG5RBg": {
+        "en": "[^0000FFZeith^000000]\nMaybe this ice is magical.\nIt's not melting.\nVrid, you haven't said anything. Come on, think of something!",
+        "pt": "[^0000FFZeith^000000]\nSerá que é magia?\nNão derrete de jeito nenhum... \nVrid, não fique aí parado, pense em alguma coisa!",
+        "es": "[^0000FFZeith^000000]\nQuizá este hielo sea mágico.\nNo se está derritiendo.\nVrid, ¿por qué estás tan callado? ¡Vamos, piensa en algo!"
+    },
+    "pW5RBg": {
+        "en": "[^FF0000Vrid^000000]\nTsk, tsk. You guys are so simpleminded, thinking fire would melt ice like this. It's not working, is it? We need to think outside of the box. Let's try to beat the ice with ice!",
+        "pt": "[^FF0000Vrid^000000]\nAi ai... você é tão cabeça dura... Precisamos ver a situação de um outro ângulo! Como quebrar o gelo?",
+        "es": "[^FF0000Vrid^000000]\nTch, tch. Qué ingenuos, creyeron que el fuego derretiría hielo como este. No está funcionando, ¿verdad? Necesitamos una perspectiva diferente. ¡Intentemos vencer al hielo con hielo!"
+    },
+    "pm5RBg": {
+        "en": "[^FF0000Vrid^000000]\nWe can use the cold energy from the monsters in this place to break the ice, I think.",
+        "pt": "[^FF0000Vrid^000000]\nPodemos usar o gelo para quebrar o gelo! Igual diamante que corta diamante!!",
+        "es": "[^FF0000Vrid^000000]\nPodemos usar la energía helada de los monstruos de aquí para romper el hielo, creo."
+    },
+    "p25RBg": {
+        "en": "[^0000FFZeith^000000]\n...That's ridiculous.\nHow are we going to use their cold energy, anyway?",
+        "pt": "[^0000FFZeith^000000]\n...Eu acho que esse papo de diamente não é verdade. \nMas e como vamos arranjar um gelo tão duro quanto o nosso?",
+        "es": "[^0000FFZeith^000000]\n…Eso es ridículo.\n¿Cómo se supone que utilicemos su energía?"
+    },
+    "qG5RBg": {
+        "en": "[^FF0000Vrid^000000]\nJust listen.\nVrid's Report: Furious Ice Titans!",
+        "pt": "[^FF0000Vrid^000000]\nEscuta só. \nDica do Vrid! Titãs de Cristal!!",
+        "es": "[^FF0000Vrid^000000]\nEscucha.\nInforme de Vrid: ¡Titanes de Hielo Furiosos!"
+    },
+    "qW5RBg": {
+        "en": "[^FF0000Vrid^000000]\nAccording to my investigation, Furious Ice Titans are as tiny as specks of dust in the air.\nThey just look big because of the icicles growing on their bodies.",
+        "pt": "[^FF0000Vrid^000000]\nTitãs de Cristal viveram tanto tempo nesse lugar que seu corpo foi acumulando cristais de gelo e ficando maior que sua forma original.",
+        "es": "[^FF0000Vrid^000000]\nSegún mi investigación, los Titanes de Hielo Furiosos son tan diminutos como las partículas de polvo.\nSolo parecen grandes por los cristales de hielo que les crecen en el cuerpo."
+    },
+    "qm5RBg": {
+        "en": "[^FF0000Vrid^000000]\nImagine how uncomfortable and cold they must be!\n{0}\nI want you to liberate them from the icicles growing on their bodies.",
+        "pt": "[^FF0000Vrid^000000]\nIsso pode dar certo!\n{0},\nvocê vai retirar os cristais de gelo do corpo dos Titãs.",
+        "es": "[^FF0000Vrid^000000]\n¡Imagínate la incomodidad y el frío que deben sentir!\n{0},\nquiero que les quites los cristales de hielo que tienen en el cuerpo."
+    },
+    "q25RBg": {
+        "en": "[^FF0000Vrid^000000]\nWhile you're at it, you'll absorb the cold energy released from them.\nCome back and hug us, and maybe the cold energy in you will crack the ice we're trapped in.\nDoesn't that sound plausible?",
+        "pt": "[^FF0000Vrid^000000]\nPodemos usar o gelo para quebrar o gelo! Igual diamante que corta diamante!",
+        "es": "[^FF0000Vrid^000000]\nY, de paso, absorberás la energía helada que liberen. \nVuelve y abrázanos, y quizá la energía helada que tengas en el cuerpo rompa el hielo que nos tiene atrapados. \n¿No te parece factible?"
+    },
+    "rG5RBg": {
+        "en": "[^0000FFZeith^000000]\nNo. Not at all.\nEverything you say sounds far-fetched to me.",
+        "pt": "[^0000FFZeith^000000]\nIsso... isso não parece plausível...\nDe onde você tá tirando essas informações...?",
+        "es": "[^0000FFZeith^000000]\nNo. Para nada.\nTodo lo que dices me parece una locura."
+    },
+    "rW5RBg": {
+        "en": "[^0000FFZeith^000000]\nBut... Sigh, I can't think of a better solution.\nWe'll try your suggestion.\nAdventurer, could you hunt 10 Furious Ice Titans and come back?",
+        "pt": "[^0000FFZeith^000000]\nBom... não custa tentar.\nSeria possível você eliminar 10 Titãs de Cristal para nós?",
+        "es": "[^0000FFZeith^000000]\nPero… Aish, no se me ocurre una idea mejor.\nProbaremos tu idea. \n¿Podrías cazar 10 Titanes de Hielo Furiosos y regresar?"
+    },
+    "rm5RBg": {
+        "en": "[^FF0000Vrid^000000]\nNo, don't hunt them?\nYou have to help them!",
+        "pt": "[^FF0000Vrid^000000]\nA ideia é melhor que virar churrasco!",
+        "es": "[^FF0000Vrid^000000]\nNo, cazarlos no… \n¡Tienes que ayudarlos!"
+    },
+    "r25RBg": {
+        "en": "[^0000FFZeith^000000]\nSigh, whatever. Please help them.",
+        "pt": "[^0000FFZeith^000000]\nTanto faz... vamos aguardar você aqui.",
+        "es": "[^0000FFZeith^000000]\nAjá, como sea. \nPor favor, ayúdalos."
+    },
+    "sG5RBg": {
+        "en": "[^0000FFZeith^000000]\nYou brought all the dry twigs.\nOh, we still haven't introduced ourselves.\nI'm Zeith, and you are?",
+        "pt": "[^0000FFZeith^000000]\nVocê trouxe todos os galhos. Ah, ainda não nos apresentamos.\nEu sou Zeith. Quem é você?",
+        "es": "[^0000FFZeith^000000]\nTrajiste todas las ramas secas. \nAh, aún no nos hemos presentado.\nYo soy Zeith y él es…"
+    },
+    "sW5RBg": {
+        "en": "^FF0000They asked my name again, as if they didn't remember me.\nSomething weird is going on, but I told them my name again, anyway.^000000",
+        "pt": "^FF0000Ele perguntou meu nome como se já não me conhecesse.^000000",
+        "es": "^FF0000Volvieron a preguntarme mi nombre, como si no se acordaran de mí. \nAquí está pasando algo raro, pero igual les repetí mi nombre.^000000"
+    },
+    "sm5RBg": {
+        "en": "[^FF0000Vrid^000000]\nTsk, tsk.\nYou guys are so simpleminded, thinking fire would melt the ice.\nIt's not working, is it?\nWe need to think outside of the box.\nLet's try to beat the ice with ice!",
+        "pt": "[^FF0000Vrid^000000]\nAi ai... você é tão cabeça dura... Precisamos ver a situação de um outro ângulo! Como quebrar o gelo?",
+        "es": "[^FF0000Vrid^000000]\nTch, tch. \nQué ingenuos, creyeron que el fuego derretiría el hielo. \nNo está funcionando, ¿verdad? \nNecesitamos una perspectiva diferente. \n¡Intentemos vencer al hielo con hielo!"
+    },
+    "s25RBg": {
+        "en": "[^0000FFZeith^000000]\n...That's just outlandish.\nHow are we going to use their cold energy, anyway?",
+        "pt": "[^0000FFZeith^000000]\n...Eu acho que esse papo de diamante não é verdade.\nMas e como vamos arranjar um gelo tão duro quanto o nosso?",
+        "es": "[^0000FFZeith^000000]\n…Eso es absurdo.\n¿Cómo se supone que utilicemos su energía?"
+    },
+    "tG5RBg": {
+        "en": "[^FF0000Vrid^000000]\nAccording to my investigation, Furious Ice Titans are as tiny as specks of dust in the air. They just look big because of the icicles growing on their bodies.",
+        "pt": "[^FF0000Vrid^000000]\nTitãs de Cristal viveram tanto tempo nesse lugar que seu corpo foi acumulando cristais de gelo e ficando maior que sua forma original.",
+        "es": "[^FF0000Vrid^000000]\nSegún mi investigación, los Titanes de Hielo Furiosos son tan diminutos como las partículas de polvo. \nSolo parecen grandes por los cristales de hielo que les crecen en el cuerpo."
+    },
+    "tW5RBg": {
+        "en": "[^FF0000Vrid^000000]\nWhile you're at it, you'll absorb the cold energy released from them.\nCome back and hug us, and maybe the cold energy in you will crack the ice we're trapped in.\nDoesn't that sound plausible??",
+        "pt": "[^FF0000Vrid^000000]\nDaí o ar gelado vai se transferir para o seu corpo, então é só você dar um abraço no nosso gelo que ele se partirá em mil pedaços!",
+        "es": "[^FF0000Vrid^000000]\nY, de paso, absorberás la energía helada que liberen. \nVuelve y abrázanos, y quizá la energía helada que tengas en el cuerpo rompa el hielo que nos tiene atrapados. \n¿No te parece factible?"
+    },
+    "tm5RBg": {
+        "en": "[^0000FFZeith^000000]\nSigh, whatever.\nPlease help them.",
+        "pt": "[^0000FFZeith^000000]\nTanto faz...\nVamos aguardar você aqui.",
+        "es": "[^0000FFZeith^000000]\nAjá, como sea.\nPor favor, ayúdalos."
+    },
+    "t25RBg": {
+        "en": "[^FF0000Vrid^000000]\nJust listen.\nVrid's Report: Furious Gazetis!",
+        "pt": "[^FF0000Vrid^000000]\nEscuta só. \nDica do Vrid! Gazetis de Cristal!",
+        "es": "[^FF0000Vrid^000000]\nEscucha.\nInforme de Vrid: ¡Gazeti Furiosos!"
+    },
+    "uG5RBg": {
+        "en": "[^FF0000Vrid^000000]\nAccording to my investigation, Gazetis were ice giants.\nThey were so curious about this cave that they stuck their heads into it and had their necks shattered.\nNow they're roaming about the cave, looking for their bodies.",
+        "pt": "[^FF0000Vrid^000000]\nDe acordo com a minha pesquisa, Gazetis eram homens gigantes que enfiaram a cabeça deles dentro da caverna por que queriam dar uma olhada.",
+        "es": "[^FF0000Vrid^000000]\nSegún mi investigación, los Gazeti eran gigantes de hielo. \nEsta cueva les dio tanta curiosidad que metieron la cabeza y se rompieron el cuello.\nAhora deambulan por aquí buscando sus cuerpos."
+    },
+    "uW5RBg": {
+        "en": "[^FF0000Vrid^000000]\nAren't they creepy?\nEvery time I look at them, they look like they're mouthing,",
+        "pt": "[^FF0000Vrid^000000]\nDá medo, né? Eu olho para esses Gazetis e acho que eles vão falar algo como 'DEVOLVA MEU CORPO'... dá medo...",
+        "es": "[^FF0000Vrid^000000]\nEspeluznante. \nCuando los veo, me parece que intentan hablar."
+    },
+    "um5RBg": {
+        "en": "[^FF0000Vrid^000000]\n{0}\nPlease help them, so they don't have to look for their bodies anymore.",
+        "pt": "[^FF0000Vrid^000000]\n{0}\nse você eliminá-los, eles não precisarão mais procurar pelo corpo!",
+        "es": "[^FF0000Vrid^000000]\n{0}.\nPor favor, ayúdalos para que ya no tengan que andar buscando sus cuerpos."
+    },
+    "u25RBg": {
+        "en": "[^0000FFZeith^000000]\nBut... Sigh, I can't think of a better solution.\nWe'll try your suggestion.\nAdventurer, could you hunt 10 Furious Gazetis and come back?",
+        "pt": "[^0000FFZeith^000000]\nBom... não custa tentar.\nSeria possível você eliminar 10 Gazetis de Cristal para nós?",
+        "es": "[^0000FFZeith^000000]\nPero… Aish, no se me ocurre una idea mejor.\nProbaremos tu idea. \n¿Podrías cazar 10 Gazeti Furiosos y regresar?"
+    },
+    "vG5RBg": {
+        "en": "[^FF0000Vrid^000000]\nJust listen.\nVrid's Report: Furious Snowiers!",
+        "pt": "[^FF0000Vrid^000000]\nEscuta só. \nDica do Vrid! Yetis de Cristal!",
+        "es": "[^FF0000Vrid^000000]\nEscucha.\nInforme de Vrid: ¡Nevadísimos Furiosos!"
+    },
+    "vW5RBg": {
+        "en": "[^FF0000Vrid^000000]\nAccording to my investigation, Furious Snowiers were gentle creatures who loved to say hi to people.\nThey became bitter after being ignored too many times.\nNow, they pretend to be friendly, but once they get close enough, they attack people.\nMy heart goes out to them...",
+        "pt": "[^FF0000Vrid^000000]\nDe acordo com a minha pesquisa, o Yeti de Cristal era uma pessoa gentil, mas ele se tornou agressivo quando não responderam seu 'Bom dia'...",
+        "es": "[^FF0000Vrid^000000]\nSegún mi investigación, los Nevadísimos Furiosos eran criaturas amistosas que amaban saludar a la gente.\nSe amargaron después de que los ignoraran tantas veces. \nAhora fingen ser amistosos, pero una vez que se acercan lo suficiente, atacan. \nMe duele verlos así…"
+    },
+    "vm5RBg": {
+        "en": "^FF0000Zeith stared at Vrid with incredulity in his eyes.^000000",
+        "pt": "^FF0000Parece que Zeith revirou os olhos.^000000",
+        "es": "^FF0000Zeith miró a Vrid, incrédulo.^000000"
+    },
+    "v25RBg": {
+        "en": "[^FF0000Vrid^000000]\n{0}\nPlease teach them not to act so sneaky.",
+        "pt": "[^FF0000Vrid^000000]\n{0},\nvá e dê aos Yetis uma aula sobre educação e gentileza!",
+        "es": "[^FF0000Vrid^000000]\n{0},\nPor favor, enséñales a no actuar tan furtivamente."
+    },
+    "wG5RBg": {
+        "en": "[^0000FFZeith^000000]\nBut... Sigh, I can't think of a better solution.\nWe'll try your suggestion.\nAdventurer, could you hunt 10 Furious Snowiers and come back?",
+        "pt": "[^0000FFZeith^000000]\nBom... não custa tentar.\nSeria possível você eliminar 10 Yetis de Cristal para nós?",
+        "es": "[^0000FFZeith^000000]\nPero… Aish, no se me ocurre una idea mejor.\nProbaremos tu idea. \n¿Podrías cazar 10 Nevadísimos Furiosos y regresar?"
+    },
+    "wW5RBg": {
+        "en": "[^0000FFZeith^000000]\n...\nThat's so dumb.\nHow are we going to use their cold energy, anyway?",
+        "pt": "[^0000FFZeith^000000]\nTanto faz... vamos aguardar você aqui.\nvamos aguardar você aqui.",
+        "es": "[^0000FFZeith^000000]\n…\nQué tontería.\n¿Cómo se supone que utilicemos su energía?"
+    },
+    "wm5RBg": {
+        "en": "[^FF0000Vrid^000000]\nJust listen.\nVrid's Report: Hard Icicles!",
+        "pt": "[^FF0000Vrid^000000]\nEscuta só. \nDica do Vrid! Cristal de Gelo!",
+        "es": "[^FF0000Vrid^000000]\nEscucha.\nInforme de Vrid: ¡Cristales de Hielo!"
+    },
+    "w25RBg": {
+        "en": "[^FF0000Vrid^000000]\nAccording to my investigation, these icicles have gone through a lot.",
+        "pt": "[^FF0000Vrid^000000]\nEu descobri que até as estalactites dessa caverna possuem uma profunda história...",
+        "es": "[^FF0000Vrid^000000]\nSegún mi investigación, estos pedazos de hielo han pasado por mucho."
+    },
+    "xG5RBg": {
+        "en": "- Like what?",
+        "pt": "- E qual seria?",
+        "es": "-¿Como qué?"
+    },
+    "xW5RBg": {
+        "en": "[^FF0000Vrid^000000]\nWell, first of all, they were...\nMm...\nUh...",
+        "pt": "[^FF0000Vrid^000000]\nA história? ...hmm... er...",
+        "es": "[^FF0000Vrid^000000]\nBueno, en primer lugar, eran… \nMm… \nEh…"
+    },
+    "xm5RBg": {
+        "en": "^FF0000Vrid grimaced, sighed, and scratched his head. He then said...^000000",
+        "pt": "^FF0000Vrid parece estar concentrado em algum pensamento profundo.^000000",
+        "es": "^FF0000Vrid hizo una mueca, suspiró y se rascó la cabeza. Luego dijo…^000000"
+    },
+    "x25RBg": {
+        "en": "[^FF0000Vrid^000000]\nWell, icicles are icicles.\nIt's not like they have a life story, do they?",
+        "pt": "[^FF0000Vrid^000000]\n...É só gelo. Que história teria?",
+        "es": "[^FF0000Vrid^000000]\nBueno, hielo es hielo. \nNo es como si hubiera una historia detrás."
+    },
+    "yG5RBg": {
+        "en": "[^0000FFZeith^000000]\nFinally, you say something that makes sense.",
+        "pt": "[^0000FFZeith^000000]\n...Finalmente o Vrid ficou sensato.",
+        "es": "[^0000FFZeith^000000]\nPor fin dices algo coherente."
+    },
+    "yW5RBg": {
+        "en": "[^FF0000Vrid^000000]\n{0}\nMaybe you should help them create their own story.",
+        "pt": "[^FF0000Vrid^000000]\n{0}\nvá e crie uma história para essas estalactites!",
+        "es": "[^FF0000Vrid^000000]\n{0}.\nQuizá deberías ayudarlos a crear su propia historia."
+    },
+    "ym5RBg": {
+        "en": "[^0000FFZeith^000000]\n...Or not.",
+        "pt": "[^0000FFZeith^000000]\n...e... a sensatez já foi embora.",
+        "es": "[^0000FFZeith^000000]\n…O no."
+    },
+    "y25RBg": {
+        "en": "[^0000FFZeith^000000]\nBut... Sigh, I can't think of a better solution.\nWe'll try your suggestion.\nAdventurer, could you hunt 10 Hard Icicles and come back?",
+        "pt": "[^0000FFZeith^000000]\nBom... não custa tentar.\nSeria possível você eliminar 10 Cristais de Gelo para nós?",
+        "es": "[^0000FFZeith^000000]\nPero… Aish, no se me ocurre una idea mejor.\nProbaremos tu idea. \n¿Podrías cazar 10 Cristales de Hielo y regresar?"
+    },
+    "zG5RBg": {
+        "en": "[^0000FFZeith^000000]\nPlease come back after hunting 10 Furious Ice Titans inside the cave.",
+        "pt": "[^0000FFZeith^000000]\nVolte após caçar 10 Titãs de Cristal.",
+        "es": "[^0000FFZeith^000000]\nVuelve luego de cazar 10 Titanes de Hielo Furiosos dentro de la cueva."
+    },
+    "zW5RBg": {
+        "en": "[^FF0000Vrid^000000]\nSee, I told you!\nThis adventurer is now radiating a massive amount of cold energy!",
+        "pt": "[^FF0000Vrid^000000]\nHa! Não falei? \nDá pra sentir o bafo frio saindo de você!",
+        "es": "[^FF0000Vrid^000000]\n¿Ves? ¡Te lo dije!\n¡Aventurero, irradias una gran cantidad de energía helada!"
+    },
+    "zm5RBg": {
+        "en": "[^0000FFZeith^000000]\n...\nIsn't this guy just really cold?",
+        "pt": "[^0000FFZeith^000000]\n...Está frio em qualquer lugar daqui...",
+        "es": "[^0000FFZeith^000000]\n…\n¿No será que tiene mucho frío y ya?"
+    },
+    "z25RBg": {
+        "en": "[^FF0000Vrid^000000]\nNow, come hug us.\nNo, hug me first.\nThen, light will flash as the ice around me cracks, you know, like in those fairy tales!",
+        "pt": "[^FF0000Vrid^000000]\nAgora! Abrace meu bloco de gelo primeiro! Ele vai se partir em mil pedaços, como num conto de fadas!",
+        "es": "[^FF0000Vrid^000000]\nAhora, abrázanos.\nNo, abrázame a mí primero. \n¡Entonces brillará una luz cuando el hielo a mi alrededor se rompa, como en los cuentos de hadas!"
+    },
+    "0G5RBg": {
+        "en": "^FF0000I hugged Vrid as he asked.^000000",
+        "pt": "^FF0000Você abraça o gelo de Vrid e tenta quebrá-lo.^000000",
+        "es": "^FF0000Abracé a Vrid como me lo pidió.^000000"
+    },
+    "0W5RBg": {
+        "en": "^FF0000Light flashed!^000000\n^FF0000No, wait. That was just the ice reflecting ambient light.^000000\n^FF0000Nothing happened.^000000",
+        "pt": "^FF0000PÁ!^000000\n^FF0000Parecia ter dado certo, mas foi apenas uma ilusão.^000000\n^FF0000Nada aconteceu.^000000",
+        "es": "^FF0000¡Brilló una luz!^000000\n^FF0000No, espera. Fue solo el reflejo de la luz en el hielo.^000000\n^FF0000No pasó nada.^000000"
+    },
+    "0m5RBg": {
+        "en": "[^FF0000Vrid^000000]\n*Chattering his teeth*\nC-c-c-c-cold.\nGet off me!\nYou're too cold!",
+        "pt": "[^FF0000Vrid^000000]\nHum... Está gelado. Saia de perto! Estou congelando!!",
+        "es": "[^FF0000Vrid^000000]\n*Castañea los dientes* \nQ-Q-Q-Qué frío. \n¡Suéltame! \n¡Qué frío!"
+    },
+    "025RBg": {
+        "en": "[^0000FFZeith^000000]\nI knew that was an idiotic idea!\nI shouldn't have listened to your stupid story!\nI shouldn't have followed you into this cave!",
+        "pt": "[^0000FFZeith^000000]\n...Eu devia saber que essa ideia estúpida não funcionaria!!",
+        "es": "[^0000FFZeith^000000]\n¡Sabía que era una idea estúpida! \n¡No debí escuchar tu estúpida historia! \n¡No debí haberte seguido a esta cueva!"
+    },
+    "1G5RBg": {
+        "en": "- What stupid story?",
+        "pt": "- Estúpida?",
+        "es": "-¿Qué historia estúpida?"
+    },
+    "1W5RBg": {
+        "en": "I already know what the story is. I should just... skip it.",
+        "pt": "Eu já sabia...",
+        "es": "Ya sé cuál es la historia.  Debería simplemente… omitirla."
+    },
+    "1m5RBg": {
+        "en": "[^FF0000Vrid^000000]\nIt's not stupid!\nIt's the truth!\nVrid's Report:\nSecret of the Ice Cave!",
+        "pt": "[^FF0000Vrid^000000]\nEstúpida?!\nEu só disse verdades!\nAs dicas de Vrid!\nO segredo da Caverna de Gelo!!",
+        "es": "[^FF0000Vrid^000000]\n¡No es estúpida!\n¡Es la verdad!\nInforme de Vrid:\n¡El secreto de la Cueva de Hielo!"
+    },
+    "125RBg": {
+        "en": "[^0000FFZeith^000000]\nSigh...",
+        "pt": "[^0000FFZeith^000000]\nUgh...",
+        "es": "[^0000FFZeith^000000]\nAish…"
+    },
+    "2G5RBg": {
+        "en": "[^FF0000Vrid^000000]\nAccording to my investigation, this cave used to be a subterranean kingdom, and it was entirely made of gold, like El Dorado!",
+        "pt": "[^FF0000Vrid^000000]\nDe acordo com minhas pesquisas, esse lugar costumava ser um reino cheio de ouro! Um El Dorado~!",
+        "es": "[^FF0000Vrid^000000]\nSegún mi investigación, esta cueva era un reino subterráneo, ¡y estaba completamente hecha de oro, como El Dorado!"
+    },
+    "2W5RBg": {
+        "en": "^FF0000Zeith rolled his eyes, but Vrid ignored him and continued.^000000",
+        "pt": "^FF0000Zeith parece não prestar mais atenção nas palavras de Vrid, mas ele continua falando.^000000",
+        "es": "^FF0000Zeith puso los ojos en blanco, pero Vrid lo ignoró y continuó.^000000"
+    },
+    "2m5RBg": {
+        "en": "[^FF0000Vrid^000000]\nThe king was worried about the growing number of thieves, when a young warrior came in and drove all the invaders away. The king was overjoyed and gave the warrior his daughter's hand in marriage.",
+        "pt": "[^FF0000Vrid^000000]\nEntão, um bravo guerreiro eliminou os invasores do reino e o Rei prometeu a mão da filha como forma de agradecimento.",
+        "es": "[^FF0000Vrid^000000]\nEl rey estaba preocupado por la creciente cantidad de ladrones, cuando un joven guerrero apareció y ahuyentó a todos los invasores. Contento y agradecido, el rey le ofreció la mano de su hija en matrimonio."
+    },
+    "225RBg": {
+        "en": "[^FF0000Vrid^000000]\nBut it turned out his son-in-law was also a thief.\nHe ended up running away with the kingdom's most valuable treasure.",
+        "pt": "[^FF0000Vrid^000000]\nMas esse guerreiro também era um caçador de recompensas e surrupiou todo o ouro do reino.",
+        "es": "[^FF0000Vrid^000000]\nSin embargo, el yerno resultó ser también un ladrón. \nTerminó huyendo con el tesoro más valioso del reino."
+    },
+    "3G5RBg": {
+        "en": "[^FF0000Vrid^000000]\nThe furious king froze the cave and summoned formidable monsters in it, so no one would ever dare invade his kingdom again.\nTragic, isn't it??",
+        "pt": "[^FF0000Vrid^000000]\nDizem que o Rei ficou furioso e congelou todo o seu reino, para que ninguém mais invadisse o lugar.",
+        "es": "[^FF0000Vrid^000000]\nEl rey, furioso, congeló la cueva e invocó monstruos temibles para asegurarse de que nadie volviera a intentar invadir su reino. \nTrágico, ¿no?"
+    },
+    "3W5RBg": {
+        "en": "[^FF0000Vrid^000000]\nOf course, I didn't come here for the treasures.\nWe happened to be in the area, and I just wanted to check the place out.",
+        "pt": "[^FF0000Vrid^000000]\nEr... é claro que eu vim aqui pela curiosidade, não por causa do ouro.",
+        "es": "[^FF0000Vrid^000000]\nYo no vine aquí por los tesoros, claro. \nEstábamos cerca y quise echar un vistazo."
+    },
+    "3m5RBg": {
+        "en": "[^0000FFZeith^000000]\nThat isn't what you told me the first time.\nI never believed that stupid story, anyway.\nI followed you in because I was curious.\nI totally regret it now.",
+        "pt": "[^0000FFZeith^000000]\nEu não acredito que eu vim parar aqui porque acreditei nessa história estúpida...",
+        "es": "[^0000FFZeith^000000]\nEso no es lo que me dijiste la primera vez. \nNo importa, nunca me creí esa estúpida historia. \nTe seguí hasta aquí porque tenía curiosidad. \nAhora me arrepiento."
+    },
+    "325RBg": {
+        "en": "[^FF0000Vrid^000000]\nIt's not stupid!\nIt's the truth!",
+        "pt": "[^FF0000Vrid^000000]\nEstúpida?!\nEu só disse verdades!",
+        "es": "[^FF0000Vrid^000000]\n¡No es estúpida!\n¡Es la verdad!"
+    },
+    "4G5RBg": {
+        "en": "[^FF0000Vrid^000000]\nHah hah, now there's only one thing left to try.\nThat is...",
+        "pt": "[^FF0000Vrid^000000]\nHahaha! ... Só resta uma saída!",
+        "es": "[^FF0000Vrid^000000]\nJa, ja, ahora solo queda una cosa por intentar. \nEs decir…"
+    },
+    "4W5RBg": {
+        "en": "[^0000FFZeith^000000]\nNo more stupid ideas, please!",
+        "pt": "[^0000FFZeith^000000]\nVocê quer insistir mais na sua estupidez?!",
+        "es": "[^0000FFZeith^000000]\n¡Basta de ideas estúpidas, por favor!"
+    },
+    "4m5RBg": {
+        "en": "[^FF0000Vrid^000000]\nSometimes the direct approach is best.\nLet's try to hit the ice until it breaks.\nTry Zeith's first, please.",
+        "pt": "[^FF0000Vrid^000000]\nSem reclamar! Por que você simplesmente não dá um soco no gelo até quebrar?!",
+        "es": "[^FF0000Vrid^000000]\nA veces lo mejor es ir al grano. \nProbemos con golpear el hielo hasta que se rompa. \nPrueba primero con Zeith, por favor."
+    },
+    "425RBg": {
+        "en": "[^0000FFZeith^000000]\nSo we're resorting to brute force.\nYou want me to go first?\nCoward!\nSigh... Please be gentle?\nNo, hit me with your best shot!",
+        "pt": "[^0000FFZeith^000000]\nHah... Método da barbárie... Mas não há o que fazer, então... tente destruir meu gelo primeiro!",
+        "es": "[^0000FFZeith^000000]\nConque vamos a recurrir a la fuerza bruta. \n¿Quieres que pruebe conmigo primero? \n¡Cobarde! Aish… Por favor, ten cuidado. \n¡No, golpéame con toda tu fuerza!"
+    },
+    "5G5RBg": {
+        "en": "[^0000FFZeith^000000]\nPlease come back after hunting 10 Furious Gazetis inside the cave.",
+        "pt": "[^0000FFZeith^000000]\nVolte após caçar 10 Gazetis de Cristal.",
+        "es": "[^0000FFZeith^000000]\nVuelve luego de cazar 10 Gazeti Furiosos dentro de la cueva."
+    },
+    "5W5RBg": {
+        "en": "[^0000FFZeith^000000]\nPlease come back after hunting 10 Furious Snowiers inside the cave.",
+        "pt": "[^0000FFZeith^000000]\nVolte após caçar 10 Yetis de Cristal.",
+        "es": "[^0000FFZeith^000000]\nVuelve luego de cazar 10 Nevadísimos Furiosos dentro de la cueva."
+    },
+    "5m5RBg": {
+        "en": "[^0000FFZeith^000000]\nPlease come back after hunting 10 Hard Icicles inside the cave.",
+        "pt": "[^0000FFZeith^000000]\nVolte após caçar 10 Cristais de Gelo.",
+        "es": "[^0000FFZeith^000000]\nVuelve luego de cazar 10 Cristales de Hielo dentro de la cueva."
+    },
+    "525RBg": {
+        "en": "[^0000FFZeith^000000]\n...I can't believe it worked.",
+        "pt": "[^0000FFZeith^000000]\n...Eu não esperava muita coisa, mas realmente pensei que o gelo quebraria.",
+        "es": "[^0000FFZeith^000000]\n…No puedo creer que haya funcionado."
+    },
+    "6G5RBg": {
+        "en": "[^FF0000Vrid^000000]\nIt worked because I'm a genius!\nYou should be thanking me, Zeith!",
+        "pt": "[^FF0000Vrid^000000]\nAgradeça minha genialidade, Zeith!",
+        "es": "[^FF0000Vrid^000000]\n¡Funcionó porque soy un genio! \n¡Deberías darme las gracias, Zeith!"
+    },
+    "6W5RBg": {
+        "en": "[^0000FFZeith^000000]\n*Snort*\nLet's see how long you can gloat.\n{0} \nLet's leave him alone here and get out!",
+        "pt": "[^0000FFZeith^000000]\nNão.\n...\nFoi {0}\nquem quebrou o gelo.\nAgora vamos sair daqui!",
+        "es": "[^0000FFZeith^000000]\n*Resopla*\nA ver cuánto te dura.\n{0}.\n¡Dejémoslo aquí solo y vámonos!"
+    },
+    "6m5RBg": {
+        "en": "[^FF0000Vrid^000000]\nWhat? Hey, wait!\nWait!\nCome on, Zeith!\nI thought we were better friends than that!",
+        "pt": "[^FF0000Vrid^000000]\nMas olha?! Eu sou uma piada para você, Zeith?~",
+        "es": "[^FF0000Vrid^000000]\n¿Qué? ¡Oye, espera! \n¡Espera! \n¡Vamos, Zeith! \n¡Creí que éramos buenos amigos!"
+    },
+    "625RBg": {
+        "en": "[^0000FFZeith^000000]\n...Sigh. You're lucky I'm too kind to just leave you here.\nI'm still too stiff to move.\nWould you take care of him, too??",
+        "pt": "[^0000FFZeith^000000]\n...Eu adoraria te largar aqui, mas não irei.\nVamos, quebre o gelo do meu amigo também.",
+        "es": "[^0000FFZeith^000000]\n…Aish. Tienes suerte de que sea demasiado bueno como para dejarte aquí.\nTodavía estoy demasiado rígido como para moverme. \n¿Podrías liberarlo a él también?"
+    },
+    "7G5RBg": {
+        "en": "[^0000FFZeith^000000]\nNow, we need to help Vrid.\nPlease get him out of the ice.",
+        "pt": "[^0000FFZeith^000000]\nAgora é a vez de Vrid, vá ajudá-lo.",
+        "es": "[^0000FFZeith^000000]\nTenemos que ayudar a Vrid. \nPor favor, sácalo del hielo."
+    },
+    "7W5RBg": {
+        "en": "[^FF0000Vrid^000000]\nWhew, thanks!\nYou're pretty good.\nThank you,{0}!",
+        "pt": "[^FF0000Vrid^000000]\nVocê salvou minha vida!\nComo você conseguiu ser tão forte?\nObrigado, {0}!",
+        "es": "[^FF0000Vrid^000000]\n¡Fiu, gracias!\nEres genial.\n¡Gracias, {0}!"
+    },
+    "7m5RBg": {
+        "en": "[^0000FFZeith^000000]\nLet's get out of here.\nI don't want to be frozen again!",
+        "pt": "[^0000FFZeith^000000]\nVamos sair daqui, agora.\nNão quero ficar congelado novamente!",
+        "es": "[^0000FFZeith^000000]\nLarguémonos de aquí.\n¡No quiero volver a congelarme!"
+    },
+    "725RBg": {
+        "en": "[^FF0000Vrid^000000]\nWait.\nWe're warriors...\nWe can't leave without making our enemy pay for what he did to us!",
+        "pt": "[^FF0000Vrid^000000]\nAh, não! Que tipo de herói é esse que não busca vingança pelo o que ocorreu?!",
+        "es": "[^FF0000Vrid^000000]\nEspera. \nSomos guerreros… \n¡No podemos irnos sin hacer que nuestro enemigo pague por lo que nos hizo!"
+    },
+    "8G5RBg": {
+        "en": "[^0000FFZeith^000000]\nRevenge?\nDo you want to get frozen again?",
+        "pt": "[^0000FFZeith^000000]\nDo tipo que... \nnão fica congelado novamente!",
+        "es": "[^0000FFZeith^000000]\n¿Vengarnos?\n¿Quieres que te vuelvan a congelar?"
+    },
+    "8W5RBg": {
+        "en": "- What revenge? How did you get frozen, anyway?",
+        "pt": "- Como vocês congelaram?",
+        "es": "-¿Vengarse?   ¿Cómo terminaron congelados?"
+    },
+    "8m5RBg": {
+        "en": "[^0000FFZeith^000000]\nSigh...\nThis knucklehead touched something he shouldn't.",
+        "pt": "[^0000FFZeith^000000]\nUrgh... esse mané tocou em uma coisa que não deveria ter tocado...",
+        "es": "[^0000FFZeith^000000]\nAish… \nEste cabeza de chorlito tocó algo que no debía."
+    },
+    "825RBg": {
+        "en": "[^FF0000Vrid^000000]\nCome on, I was only trying to help!",
+        "pt": "[^FF0000Vrid^000000]\nHmpf! Foi sem querer, já pedi desculpas!",
+        "es": "[^FF0000Vrid^000000]\n¡Oye, solo intentaba ayudar!"
+    },
+    "9G5RBg": {
+        "en": "[^0000FFZeith^000000]\nHelping who?\nTo me, that monster didn't look like it needed help!",
+        "pt": "[^0000FFZeith^000000]\nNão adianta... estava claro que não era para ter tocado!",
+        "es": "[^0000FFZeith^000000]\n¿Ayudar a quién? \n¡A mí no me parecía que ese monstruo necesitara ayuda!"
+    },
+    "9W5RBg": {
+        "en": "[^FF0000Vrid^000000]\nListen.\nVrid's Report: The Strange Lizard!",
+        "pt": "[^FF0000Vrid^000000]\nEscuta só. \nAs dicas de Vrid! O Lagarto de Gelol!",
+        "es": "[^FF0000Vrid^000000]\nEscucha.\nInforme de Vrid: ¡El Lagarto Extraño!"
+    },
+    "9m5RBg": {
+        "en": "[^FF0000Vrid^000000]\nLike I told you earlier, when this cave was a kingdom, the king had a pet lizard.\nOne day, this lizard wandered outside of the kingdom to see the outside world, but ended up getting lost.\nThe king was so angry at the lizard that he cursed him.",
+        "pt": "[^FF0000Vrid^000000]\nComo eu já disse, esse lugar era um reino e o rei tinha um lagarto como bichinho de estimação!",
+        "es": "[^FF0000Vrid^000000]\nComo te dije, cuando esta cueva era un reino, el rey tenía un lagarto de mascota. \nUn día, el lagarto salió del reino para ver el mundo exterior, pero se perdió. \nEl rey se enfadó tanto con el lagarto que lo maldijo."
+    },
+    "925RBg": {
+        "en": "[^FF0000Vrid^000000]\nThat cursed lizard roams about this cave, still wanting to go outside.\nIsn't that tragic?\nI was only trying to free him, and in return, he froze me in a block of ice!",
+        "pt": "[^FF0000Vrid^000000]\nUm dia, esse lagarto ficou curioso sobre o mundo lá fora e desapareceu, provocando a ira do rei! O lagartinho foi amaldiçoado pelo dono!",
+        "es": "[^FF0000Vrid^000000]\nEl lagarto maldito deambula por esta cueva, aún intentando salir. \n¿No es trágico? \n¡Yo solo quería liberarlo y me pagó atrapándome en un bloque de hielo!"
+    },
+    "+G5RBg": {
+        "en": "[^FF0000Vrid^000000]\nHis real name was?\nWhat was his name??\nKtulla-something.\nSomeone once told me the lizard has been hired by the archpriests of Rachel to keep watch over a boy who is sealed inside this cave.",
+        "pt": "[^FF0000Vrid^000000]\nO nome verdadeiro desse lagarto é... Cthulhu alguma coisa. Eu ouvi dizer que ele fez um acordo com os Cardeais de Rachel para vigiar um garoto.",
+        "es": "[^FF0000Vrid^000000]\nSe llamaba… \n¿Cómo era? \nKtulla-algo. \nDicen que los arciprestes de Rachel contrataron al lagarto para custodiar a un chico encerrado en esta cueva."
+    },
+    "+W5RBg": {
+        "en": "[^FF0000Vrid^000000]\nBut that story was so unrealistic?\nAnd boring?\nThat it's not worth remembering.\nA lizard is just a lizard, right?",
+        "pt": "[^FF0000Vrid^000000]\nQue leseira, né? Parece uma história mentirosa. Eu duvido que lagartos cuidam de meninos selados em cavernas.",
+        "es": "[^FF0000Vrid^000000]\nPero la historia era tan inverosímil… \nY aburrida… \nQue ni me molesté en memorizarla. \nAl final, un lagarto es solo un lagarto, ¿no?"
+    },
+    "+m5RBg": {
+        "en": "[^0000FFZeith^000000]\nIf you ask me, that sounds the most plausible of all your stories I've heard.",
+        "pt": "[^0000FFZeith^000000]\nM-mas... essa É a história verdadeira!",
+        "es": "[^0000FFZeith^000000]\nPara mí, eso es lo más creíble de todo lo que has dicho."
+    },
+    "+25RBg": {
+        "en": "[^FF0000Vrid^000000]\nLike I told you earlier, when this cave was a kingdom, the king had a pet lizard.\nWhen the king froze the cave in a fit of rage, this lizard was also turned into a terrifying ice monster.",
+        "pt": "[^FF0000Vrid^000000]\nComo eu já disse, esse lugar era um reino e havia prometido um noivo para sua filha.",
+        "es": "[^FF0000Vrid^000000]\nComo te dije, cuando esta cueva era un reino, el rey tenía un lagarto de mascota. \nCuando el rey congeló la cueva en un ataque de ira, el lagarto se convirtió en un aterrador monstruo de hielo."
+    },
+    "/G5RBg": {
+        "en": "[^FF0000Vrid^000000]\nNow, he's roaming about the cave, yearning for his owner's love.\nIsn't that so tragic?\nI was only trying to give him the love he wanted, and he punished me for it!",
+        "pt": "[^FF0000Vrid^000000]\nPorém, o noivo chifrou a filha do rei, daí o rei transformou o cara em um grande lagarto de gelo!",
+        "es": "[^FF0000Vrid^000000]\nAhora deambula por la cueva, anhelando el cariño de su dueño. \n¿No es de lo más trágico? \nYo solo quería darle el cariño que él quería, ¡y así me lo agradeció!"
+    },
+    "/W5RBg": {
+        "en": "[^0000FFZeith^000000]\nWhere do you get all this?\nAnd why do your stories keep changing every time?",
+        "pt": "[^0000FFZeith^000000]\nEssas histórias do Vrid, vou te contar, hein... Cada dia ele inventa um detalhe a mais.",
+        "es": "[^0000FFZeith^000000]\n¿De dónde sacas esas cosas? \n¿Y por qué siempre cambias la historia?"
+    },
+    "/m5RBg": {
+        "en": "[^0000FFZeith^000000]\nSigh, anyway, that lizard does exist inside this cave.\nIf you want to see it, then press down on all  4 Orbs of Seal in the center of the cave within 30 seconds.\nThat'll make it come out of hiding.",
+        "pt": "[^0000FFZeith^000000]\nDe toda forma, há um lagarto de cristais de gelo nesse lugar. Se quiser vê-lo, ative os 4 Cristais Congelados num intervalo de 30 segundos.",
+        "es": "[^0000FFZeith^000000]\nAish, en fin, el lagarto existe y deambula por esta cueva. \nPara verlo, activa los 4 Orbes de Sello en el centro de la cueva en 30 segundos. \nEso hará que salga de su escondite."
+    },
+    "/25RBg": {
+        "en": "[^0000FFZeith^000000]\nBut that lizard is really strong.\nI suggest you fight it in a group.",
+        "pt": "[^0000FFZeith^000000]\nEu tenho certeza de que você saberá lidar com ele, mas tome cuidado, ele é bem forte.",
+        "es": "[^0000FFZeith^000000]\nPero ese lagarto es muy fuerte. \nTe sugiero que luches en grupo."
+    },
+    "AG9RBg": {
+        "en": "[^0000FFZeith^000000]\nI'm glad we've met you,\n{0}.\nI hope we'll meet again.",
+        "pt": "[^0000FFZeith^000000]\nFoi um prazer conhecer você.\n{0}.\nEspero ver você novamente algum dia.",
+        "es": "[^0000FFZeith^000000]\nMe alegro de haberte conocido,\n{0}.\nEspero que volvamos a vernos."
+    },
+    "AW9RBg": {
+        "en": "^FF0000They started to fade away as they bid me goodbye. It seems this cave is stuck in an endless time loop.^000000",
+        "pt": "^FF0000Após dar adeus, eles começaram a dissipar no ar.^000000",
+        "es": "^FF0000Empezaron a desvanecerse mientras se despedían de mí. \nParece que esta cueva está atrapada en un bucle temporal infinito.^000000"
+    },
+    "Am9RBg": {
+        "en": "^FF0000But the events that take place inside it aren't always the same.\nIs it possible that spacetime inside this cave is still warping?\nWill I also be affected by that?^000000",
+        "pt": "^FF0000Esse lugar parece ser um vácuo onde eventos do passado ficam repetindo continuamente...^000000",
+        "es": "^FF0000Pero los acontecimientos que tienen lugar en su interior cambian. \n¿Será que el espacio-tiempo en esta cueva aún está alterado? \n¿También me afectará a mí?^000000"
+    },
+    "A29RBg": {
+        "en": "^FF0000They started to fade away as they bid me goodbye.\nSoon there was nothing left of them, as if they never existed at all.\nWas this all just a dream or something?^000000",
+        "pt": "^FF0000Após dar adeus, eles começaram a desaparecer lentamente, como se não existisse. Será que foi tudo um sonho?^000000",
+        "es": "^FF0000Empezaron a desvanecerse mientras se despedían de mí. \nPoco después, desaparecieron, como si nunca hubieran existido. \n¿Acaso fue solo un sueño algo así?^000000"
+    },
+    "BG9RBg": {
+        "en": "Orb of Seal",
+        "pt": "Cristal Congelado",
+        "es": "Orbe de Sello"
+    },
+    "BW9RBg": {
+        "en": "This orb needs more time to gather enough energy before it'll work.",
+        "pt": "Acho que esse Cristal precisa de mais tempo para se fortalecer.",
+        "es": "El orbe requiere más tiempo para acumular la energía que necesita para funcionar."
+    },
+    "Bm9RBg": {
+        "en": "All the energy that was sealed inside the cave has been released, awakening Ktullanux.",
+        "pt": "O grande Ktullanux de Cristal despertou.",
+        "es": "Se liberó toda la energía que estaba sellada dentro de la cueva, lo que despertó a Ktullanux."
+    },
+    "B29RBg": {
+        "en": "Ktullanux: Who dares call me a lizard? I'll freeze you all!",
+        "pt": "Ktullanux de Cristal : Quem ousa me acordar? Vou congelar todos!",
+        "es": "Ktullanux: ¿Quién se atreve a llamarme lagarto?  ¡Los congelaré a todos!"
+    },
+    "CG9RBg": {
+        "en": "Awakened Ktullanux",
+        "pt": "Ktullanux de Cristal",
+        "es": "Ktullanux Despierto"
+    },
+    "CW9RBg": {
+        "en": "Ktullanux: I'll... be... back...",
+        "pt": "Ktullanux de Cristal : Eu... voltarei...",
+        "es": "Ktullanux: Yo… volveré…"
+    },
+    "Cm9RBg": {
+        "en": "This Orb of Seal is filled with energy.",
+        "pt": "Os Cristais Congelados voltaram a brilhar.",
+        "es": "Este Orbe de Sello está lleno de energía."
+    },
+    "C29RBg": {
+        "en": "Heap of Dry Soil",
+        "pt": "Terra Seca",
+        "es": "Montículo de Tierra"
+    },
+    "DG9RBg": {
+        "en": "I checked the mound of dirt to look for twigs.",
+        "pt": "Vasculhando a pilha de terra seca para encontrar um Galho Morto.",
+        "es": "Revisé el montículo de tierra en busca de ramitas."
+    },
+    "DW9RBg": {
+        "en": "I've found 1 ^006400Dry Twig^000000.",
+        "pt": "Consegui 1 ^006400Galho Morto^000000 dessa pilha.",
+        "es": "Encontré una ^006400Rama Seca^000000."
+    },
+    "Dm9RBg": {
+        "en": "There's nothing inside this mound of dirt.",
+        "pt": "Não encontrei nada.",
+        "es": "En este montículo de tierra no hay nada."
+    },
+    "D29RBg": {
+        "en": "I have all the twigs I need. I should go back to Zeith and Vrid.",
+        "pt": "Já tenho todos os 10 Galhos Mortos, vamos voltar a Zeith.",
+        "es": "Ya tengo todas las ramitas que necesito. Debería volver con Zeith y Vrid."
+    },
+    "EG9RBg": {
+        "en": "Illusion Stone Researcher",
+        "pt": "Químico Ilusional",
+        "es": "Investigador de Piedras Ilusorias"
+    },
+    "EW9RBg": {
+        "en": "[Illusion Stone Researcher]\nAh, Illusion Stones are truly mysterious...",
+        "pt": "[Químico Ilusional]\nInteressante... a Pedra Ilusional é realmente misteriosa...",
+        "es": "[Investigador de Piedras Ilusorias]\nAh, las Piedras Ilusorias son tan misteriosas…"
+    },
+    "Em9RBg": {
+        "en": "What are you doing here?",
+        "pt": "O que você faz aqui?",
+        "es": "¿Qué haces aquí?"
+    },
+    "E29RBg": {
+        "en": "Upgrade weapon.",
+        "pt": "Criar Arma Ilusional",
+        "es": "Potenciar arma."
+    },
+    "FG9RBg": {
+        "en": "Upgrade armor.",
+        "pt": "Criar Armadura Ilusional",
+        "es": "Potenciar armadura."
+    },
+    "FW9RBg": {
+        "en": "[Illusion Stone Researcher]\nI'm here to find some Illusion Stones that I need for my research.",
+        "pt": "[Químico Ilusional]\nEstou viajando pelo mundo em busca das Pedras Ilusionais.",
+        "es": "[Investigador de Piedras Ilusorias]\nVine porque necesito Piedras Ilusorias para mi investigación."
+    },
+    "Fm9RBg": {
+        "en": "[Illusion Stone Researcher]\nThis cave is very mysterious, but I'm not strong enough to explore it by myself.\nIf you go in there, could you procure some things for me?",
+        "pt": "[Químico Ilusional]\nEssa caverna... parece emanar um poder ilusional.\nInfelizmente, eu não tenho poderes suficientes para me aventurar nela.",
+        "es": "[Investigador de Piedras Ilusorias]\nEsta cueva es muy misteriosa, pero no soy tan fuerte como para explorarla por mi cuenta.\nSi entras, ¿podrías traerme algunas cosas?"
+    },
+    "F29RBg": {
+        "en": "[Illusion Stone Researcher]\nIn exchange, I'll improve your equipment.\nWhat do you say?",
+        "pt": "[Químico Ilusional]\nVocê traria Pedras Ilusionais para mim de lá?\nEu ficaria grato.",
+        "es": "[Investigador de Piedras Ilusorias]\nMejoraré tu equipamiento a cambio.\n¿Qué te parece?"
+    },
+    "GG9RBg": {
+        "en": "[Illusion Stone Researcher]\nThe following is the list of equipment I can handle.\n<ITEM>Illusion Huuma Fluttering Snow [2]<INFO>13337</INFO></ITEM>\n<ITEM>Illusion Combo Battle Glove [2]<INFO>1846</INFO></ITEM>",
+        "pt": "[Químico Ilusional]\nÉ o que posso fazer.\n<ITEM>Nevasca Ilusional [2]<INFO>13337</INFO></ITEM>\n<ITEM>Combo Ilusional [2]<INFO>1846</INFO></ITEM>",
+        "es": "[Investigador de Piedras Ilusorias]\nEsta es la lista de equipamiento que puedo mejorar.\n<ITEM>Shuriken de Nevasca Ilusoria [2]<INFO>13337</INFO></ITEM>\n<ITEM>Guante de Combo Ilusorio [2]<INFO>1846</INFO></ITEM>"
+    },
+    "GW9RBg": {
+        "en": "[Illusion Stone Researcher]\nMake sure ^4D4DFFyour equipment is refined to at least +9^000000 before bringing it to me.\nMake sure you're ^4D4DFFequipped with the item that you want to improve^000000.",
+        "pt": "[Químico Ilusional]\nSua arma deve estar ^4D4DFFrefinada no +9^000000 ou mais.\nEla tem que ^4D4DFFestar equipada^000000 para funcionar.",
+        "es": "[Investigador de Piedras Ilusorias]\nAsegúrate de que ^4D4DFFtu equipamiento esté refinado al menos a +9^000000 antes de traérmelo.\nNo olvides tener ^4D4DFFequipado el objeto que quieras mejorar^000000."
+    },
+    "Gm9RBg": {
+        "en": "[Illusion Stone Researcher]\nAs you may have guessed, your equipment will transform into something new after this.\nIn other words, ^4D4DFFit'll lose its current Refining and Upgrade levels.^000000",
+        "pt": "[Químico Ilusional]\nAtenção!\nAs ^4D4DFFcartas e o refino serão perdidos^000000 na hora da troca.",
+        "es": "[Investigador de Piedras Ilusorias]\nComo puedes imaginar, tu equipamiento se transformará en algo nuevo después de esto.\nEn otras palabras, ^4D4DFFperderá sus niveles actuales de refinamiento y mejora.^000000"
+    },
+    "G29RBg": {
+        "en": "[Illusion Stone Researcher]\nAnd I need ^4D4DFFIllusion Stones and some other materials^000000 to upgrade your equipment.\nPick an item you want. I'll tell you what I need.",
+        "pt": "[Químico Ilusional]\nA troca consome ^4D4DFFPedras Ilusionais^000000 e outros materiais.\nFique ciente disso.",
+        "es": "[Investigador de Piedras Ilusorias]\nY necesito ^4D4DFFPiedras Ilusorias y algunos otros materiales^000000 para mejorar tu equipamiento.\nElige el objeto que quieras. Te diré lo que necesito."
+    },
+    "HG9RBg": {
+        "en": "Illusion Huuma Fluttering Snow",
+        "pt": "Nevasca Ilusional",
+        "es": "Shuriken de Nevasca Ilusoria"
+    },
+    "HW9RBg": {
+        "en": "Illusion Combo Battle Glove",
+        "pt": "Combo Ilusional",
+        "es": "Guante de Combo Ilusorio"
+    },
+    "Hm9RBg": {
+        "en": "Cancel.",
+        "pt": "Cancelar",
+        "es": "Cancelar."
+    },
+    "H29RBg": {
+        "en": "[Illusion Stone Researcher]\nFor that equipment, I need the following materials.\n^4D4FFF +9 Huuma Fluttering Snow\n100 Illusion Stones\n20 Ktullanux Eyes^000000\nDo you want to continue?",
+        "pt": "[Químico Ilusional]\nEsses são os materiais.\n^4D4FFF+9 Shuriken da Nevasca\n100 Pedras Ilusionais\n20 Olhos de Ktullanux^000000\nDeseja continuar?",
+        "es": "[Investigador de Piedras Ilusorias]\nPara ese equipamiento, necesito los siguientes materiales:\n^4D4FFF+9 Shuriken de Nevasca\n100 Piedras Ilusorias\n20 Ojos de Ktullanux^000000\n¿Quieres continuar?"
+    },
+    "IG9RBg": {
+        "en": "Continue.",
+        "pt": "Continuar.",
+        "es": "Continuar."
+    },
+    "IW9RBg": {
+        "en": "I'll bring those materials.",
+        "pt": "Volto já.",
+        "es": "Traeré los materiales."
+    },
+    "Im9RBg": {
+        "en": "[Illusion Stone Researcher]\nWhere's your weapon?",
+        "pt": "[Químico Ilusional]\nVocê não deveria equipar a arma?",
+        "es": "[Investigador de Piedras Ilusorias]\n¿Dónde está tu arma?"
+    },
+    "I29RBg": {
+        "en": "[Illusion Stone Researcher]\nThere you go.",
+        "pt": "[Químico Ilusional]\nAqui está.",
+        "es": "[Investigador de Piedras Ilusorias]\nAquí tienes."
+    },
+    "JG9RBg": {
+        "en": "[Illusion Stone Researcher]\nI can only upgrade equipment\nthat is ^4D4DFFrefined to at least +9^000000.",
+        "pt": "[Químico Ilusional]\nEu preciso da arma\n^4D4DFFrefinada no +9^000000 ou mais.",
+        "es": "[Investigador de Piedras Ilusorias]\nSolo puedo mejorar el equipamiento\nque esté ^4D4DFFrefinado al menos a +9^000000."
+    },
+    "JW9RBg": {
+        "en": "[Illusion Stone Researcher]\nPlease equip a ^4D4DFF+9 Huuma Fluttering Snow^000000.",
+        "pt": "[Químico Ilusional]\n^4D4DFF+9 Shuriken da Nevasca^000000 deve estar equipado.",
+        "es": "[Investigador de Piedras Ilusorias]\nEquipa una ^4D4DFF+9 Shuriken de Nevasca^000000."
+    },
+    "Jm9RBg": {
+        "en": "[Illusion Stone Researcher]\nYou don't have all the materials.",
+        "pt": "[Químico Ilusional]\nMateriais insuficientes.",
+        "es": "[Investigador de Piedras Ilusorias]\nNo tienes todos los materiales."
+    },
+    "J29RBg": {
+        "en": "[Illusion Stone Researcher]\nCome back when you're ready.",
+        "pt": "[Químico Ilusional]\nVolte quando quiser.",
+        "es": "[Investigador de Piedra Ilusoria]\nVuelve cuando tengas todo listo."
+    },
+    "KG9RBg": {
+        "en": "[Illusion Stone Researcher]\nFor that equipment, I need the following materials.\n^4D4FFF +9 Combo Battle Glove\n100 Illusion Stones\n100 Snowballs^000000\nDo you want to continue?",
+        "pt": "[Químico Ilusional]\nEsses são os materiais.\n^4D4FFF+9 Luva de Combo\n100 Pedras Ilusionais\n100 Bolas de Neve^000000\nDeseja continuar?",
+        "es": "[Investigador de Piedras Ilusorias]\nPara ese equipamiento, necesito los siguientes materiales:\n^4D4FFF+9 Guante de Combo\n100 Piedras Ilusorias\n100 Bolas de Nieve^000000\n¿Quieres continuar?"
+    },
+    "KW9RBg": {
+        "en": "[Illusion Stone Researcher]\nPlease equip a ^4D4DFF+9 Combo Battle Glove^000000.",
+        "pt": "[Químico Ilusional]\n^4D4DFF+9 Luva de Combo^000000 deve estar equipado.",
+        "es": "[Investigador de Piedras Ilusorias]\nEquipa un ^4D4DFF+9 Guante de Combo^000000."
+    },
+    "Km9RBg": {
+        "en": "[Illusion Stone Researcher]\nThe following is the list of equipment I can handle.\n<ITEM>Illusion Sacred Mission [1]<INFO>28922</INFO></ITEM>\n<ITEM>Illusion Survivor's Manteau [1]<INFO>20847</INFO></ITEM>\n<ITEM>Illusion Cap [1]<INFO>19223</INFO></ITEM>",
+        "pt": "[Químico Ilusional]\nÉ o que posso fazer.\n<ITEM>Sancti Ilusional [1]<INFO>28922</INFO></ITEM>\n<ITEM>Sobrevivente Ilusional [1]<INFO>20847</INFO></ITEM>\n<ITEM>Barrete Ilusional [1]<INFO>19223</INFO></ITEM>",
+        "es": "[Investigador de Piedras Ilusorias]\nEsta es la lista de equipamiento que puedo mejorar.\n<ITEM>Spiritus Sancti Ilusoria [1]<INFO>28922</INFO></ITEM>\n<ITEM>Manto de Superviviente Ilusorio [1]<INFO>20847</INFO></ITEM>\n<ITEM>Gorra Ilusoria [1]<INFO>19223</INFO></ITEM>"
+    },
+    "K29RBg": {
+        "en": "[Illusion Stone Researcher]\nAs you may have guessed, your equipment will transform into something new after this.\nIn other words, ^4D4DFFit'll lose its current Refining and Upgrade levels.^000000\nAre you ready?",
+        "pt": "[Químico Ilusional]\nE preste atenção.\nTodas as ^4D4DFFcartas e refinos serão perdidos.^000000\nO que quer fazer?",
+        "es": "[Investigador de Piedras Ilusorias]\nComo puedes imaginar, tu equipamiento se transformará en algo nuevo después de esto.\nEn otras palabras, ^4D4DFFperderá sus niveles actuales de refinamiento y mejora.^000000\n¿Estás listo?"
+    },
+    "LG9RBg": {
+        "en": "Illusion Sacred Mission",
+        "pt": "Sancti Ilusional",
+        "es": "Misión Sagrada Ilusoria"
+    },
+    "LW9RBg": {
+        "en": "Illusion Survivor's Manteau",
+        "pt": "Sobrevivente Ilusional",
+        "es": "Manto de Sobreviviente Ilusorio"
+    },
+    "Lm9RBg": {
+        "en": "Illusion Cap",
+        "pt": "Barrete Ilusional",
+        "es": "Gorra Ilusoria"
+    },
+    "L29RBg": {
+        "en": "[Illusion Stone Researcher]\nFor that equipment, I need the following materials.\n^4D4FFF +9 Sacred Mission [1]\n100 Illusion Stones\n300 Spirit Jewels^000000\nDo you want to continue?",
+        "pt": "[Químico Ilusional]\nEsses são os materiais.\n^4D4FFF +9 Spiritus Sancti [1]\n100 Pedras Ilusionais\n300 Gemas Congeladas^000000\nDeseja continuar?",
+        "es": "[Investigador de Piedras Ilusorias]\nPara ese equipamiento, necesito los siguientes materiales:\n^4D4FFF+9 Guante de Combo\n100 Piedras Ilusorias\n100 Bolas de Nieve^000000\n¿Quieres continuar?"
+    },
+    "MG9RBg": {
+        "en": "[Illusion Stone Researcher]\nWhy don't you go wear that equipment first?",
+        "pt": "[Químico Ilusional]\nOnde está o equipamento?",
+        "es": "[Investigador de Piedras Ilusorias]\n¿Por qué no te equipas eso primero?"
+    },
+    "MW9RBg": {
+        "en": "[Illusion Stone Researcher]\nPlease equip a ^4D4DFF +9 Sacred Mission [1]^000000.",
+        "pt": "[Químico Ilusional]\n^4D4DFF+9 Spiritus Sancti [1] ^000000 deve estar equipado.",
+        "es": "[Investigador de Piedras Ilusorias]\nEquipa una ^4D4DFF+9 Spiritus Sancti [1]^000000."
+    },
+    "Mm9RBg": {
+        "en": "[Illusion Stone Researcher]\nFor that equipment, I need the following materials.\n^4D4FFF +9 Survivor's Manteau\n100 Illusion Stones\n200 Frozen Stone Fragments^000000\nDo you want to continue?",
+        "pt": "[Químico Ilusional]\nEsses são os materiais.\n^4D4FFF+9 Capa do Sobrevivente\n100 Pedras Ilusionais\n200 Pedras Congeladas^000000\nDeseja continuar?",
+        "es": "[Investigador de Piedras Ilusorias]\nPara ese equipamiento, necesito los siguientes materiales:\n^4D4FFF+9 Guante de Combo\n100 Piedras Ilusorias\n100 Bolas de Nieve^000000\n¿Quieres continuar?"
+    },
+    "M29RBg": {
+        "en": "[Illusion Stone Researcher]\nPlease equip a ^4D4DFF+9 Survivor's Manteau^000000.",
+        "pt": "[Químico Ilusional]\n^4D4DFF+9 Capa do Sobrevivente [1] ^000000 deve estar equipado.",
+        "es": "[Investigador de Piedras Ilusorias]\nEquipa un ^4D4DFFManto de Sobreviviente +9^000000."
+    },
+    "NG9RBg": {
+        "en": "[Illusion Stone Researcher]\nFor that equipment, I need the following materials.\n^4D4FFF +9 Cap [1]\n50 Illusion Stones\n100 Frozen Stone Fragments^000000\nDo you want to continue?",
+        "pt": "[Químico Ilusional]\nEsses são os materiais.\n^4D4FFF+9 Barrete [1]\n50 Pedras Ilusionais\n100 Pedras Congeladas^000000\nDeseja continuar?",
+        "es": "[Investigador de Piedras Ilusorias]\nPara ese equipamiento, necesito los siguientes materiales:\n^4D4FFF+9 Gorra [1]\n50 Piedras Ilusorias\n100 Fragmentos de Piedra Congelada^000000\n¿Quieres continuar?"
+    },
+    "NW9RBg": {
+        "en": "[Illusion Stone Researcher]\nPlease equip a ^4D4DFF+9 Cap [1]^000000.",
+        "pt": "[Químico Ilusional]\n^4D4DFF+9 Barrete [1]^000000 deve estar equipado.",
+        "es": "[Investigador de Piedras Ilusorias]\nEquipa una ^4D4DFF+ 9 Gorra [1]^000000."
+    },
+    "Nm9RBg": {
+        "en": "^4D4DFFOnly those level 120 or higher can enter.^000000",
+        "pt": "^4D4DFFSomente aqueles com nível 120 ou superior podem entrar.^000000",
+        "es": "^4D4DFFSolo pueden entrar aquellos de nivel 120 o superior.^000000"
+    }
+}

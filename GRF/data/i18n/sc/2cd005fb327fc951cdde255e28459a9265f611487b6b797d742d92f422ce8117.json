@@ -1,0 +1,672 @@
+{
+    "IFvj": {
+        "en": "Giacomo Girolamo",
+        "pt": "Giacomo Girolamo",
+        "es": "James Jerome"
+    },
+    "IVvj": {
+        "en": "^FF0000 Check your inventory. You have too many items to continue this quest. ^000000",
+        "pt": "^FF0000 Verifique seu inventário. Você tem itens demais para continuar essa missão. ^000000",
+        "es": "^FF0000 Revisa tu inventario. Tienes demasiados objetos para continuar esta misión. ^000000"
+    },
+    "Ilvj": {
+        "en": "[Giacomo Girolamo]\n....a guy....?",
+        "pt": "[Giacomo Girolamo]\n...um cara...?",
+        "es": "[Giacomo Girolamo]\n¿…un tipo…?"
+    },
+    "I1vj": {
+        "en": "[Giacomo Girolamo]\nAh! Hey! Man!",
+        "pt": "[Giacomo Girolamo]\nAh! Ei! Cara!",
+        "es": "[Giacomo Girolamo]\n¡Ah! ¡Oye! ¡Hombre!"
+    },
+    "JFvj": {
+        "en": "What's up?",
+        "pt": "O que foi?",
+        "es": "¿Qué sucede?"
+    },
+    "JVvj": {
+        "en": "[Giacomo Girolamo]\nHave you ever heard of the horrific human experimentation committed in Rekenber Corperation whose head office is here in Lighthalzen?",
+        "pt": "[Giacomo Girolamo]\nVocê já ouviu falar dos horríveis experimentos humanos realizados na Corporação Rekenber, cuja sede fica aqui em Lighthalzen?",
+        "es": "[Giacomo Girolamo]\n¿Escuchaste hablar de los horrendos experimentos con humanos de la Corporación Rekenber, cuya sede central está aquí, en Lighthalzen?"
+    },
+    "Jlvj": {
+        "en": "Whaaat?! Human experimentation?",
+        "pt": "O quê?! Experimentos humanos?",
+        "es": "¡¿Qué?! ¿Experimentos con humanos?"
+    },
+    "J1vj": {
+        "en": "[Giacomo Girolamo]\nYea! Human experimentation!!\nThere are a lot of rumors that horrible human experimentation is actually being performed, but these people in the slum... don't want to believe that due to the welfare movement from Rekenber.",
+        "pt": "[Giacomo Girolamo]\nSim! Experimentos humanos!!!\nHá muitos rumores de que experimentos humanos horríveis estão sendo realizados, mas essas pessoas da favela... não querem acreditar nisso devido ao movimento de bem-estar da Rekenber.",
+        "es": "[Giacomo Girolamo]\n¡Sí! ¡Experimentos con humanos!\nSe dice que se están llevando a cabo horribles experimentos con humanos, pero las personas de los barrios bajos… se rehúsan a creerlo por la campaña de ayuda social que promueve Rekenber."
+    },
+    "KFvj": {
+        "en": "[Giacomo Girolamo]\nWell! and those rich people seem to know something but they never mention that...",
+        "pt": "[Giacomo Girolamo]\nEntão! E esse pessoal rico parece saber alguma coisa, mas nunca falam nada...",
+        "es": "[Giacomo Girolamo]\n¡Vaya! Esos ricos parecen saber algo, pero nunca lo mencionaron…"
+    },
+    "KVvj": {
+        "en": "[Giacomo Girolamo]\nAhh!! This is a secret that just SOME PEOPLE know. I heard that from Rekenber Lab... a person named... um... Wolfy...",
+        "pt": "[Giacomo Girolamo]\nAhh!!! Esse é um segredo que apenas ALGUMAS PESSOAS conhecem. Eu soube disso pelo Laboratório Rekenber... de uma pessoa chamada... hum... Wolfy...",
+        "es": "[Giacomo Girolamo]\n¡Ahh! Este es un secreto que solo ALGUNAS PERSONAS conocen. Me enteré por el laboratorio de Rekenber… una persona llamada… um… Wolfy…"
+    },
+    "Klvj": {
+        "en": "[Giacomo Girolamo]\nAnyway! A scientist named Wolf-something was suddenly fired. I think he must be related to this rumor.",
+        "pt": "[Giacomo Girolamo]\nEnfim! Um cientista chamado Wolf alguma coisa foi demitido de repente. Acho que ele tem a ver com esse rumor.",
+        "es": "[Giacomo Girolamo]\n¡En fin! Un científico llamado Wolf, o algo así, fue despedido de repente. Creo que debe estar relacionado con este rumor."
+    },
+    "K1vj": {
+        "en": "You mean... Wolfchev?",
+        "pt": "Você quer dizer... Wolfchev?",
+        "es": "¿Quieres decir Wolfchev?"
+    },
+    "LFvj": {
+        "en": "[Giacomo Girolamo]\nOhhhh?! Yeah Wolfchev!! That's right, the name was Wolfchev... The mad scientist.",
+        "pt": "[Giacomo Girolamo]\nOhhhh?! Isso, Wolfchev!!! Isso mesmo, o nome era Wolfchev... O cientista louco.",
+        "es": "[Giacomo Girolamo]\n¡¿Ohhhh?! ¡Sí, Wolfchev! Así es, el nombre era Wolfchev… El científico loco."
+    },
+    "LVvj": {
+        "en": "[Giacomo Girolamo]\nI guess you can understand the story faster... I am sure that he's involved in the rumor. I swear.",
+        "pt": "[Giacomo Girolamo]\nAcho que você pode entender a história mais rápido... Tenho certeza de que ele está envolvido no rumor, juro.",
+        "es": "[Giacomo Girolamo]\nSupongo que puedes entender la historia más rápido… No tengo dudas de que está involucrado en el rumor. Lo juro."
+    },
+    "Llvj": {
+        "en": "[Giacomo Girolamo]\nBy the way what about you? Is there anything that you know about him?",
+        "pt": "[Giacomo Girolamo]\nA propósito, e quanto a você? Há algo que você saiba sobre ele?",
+        "es": "[Giacomo Girolamo]\nPor cierto, ¿y tú? ¿Sabes algo sobre él?"
+    },
+    "L1vj": {
+        "en": "Pretend you know nothing.",
+        "pt": "Fingir não saber de nada.",
+        "es": "Hacer como si no supieras nada."
+    },
+    "MFvj": {
+        "en": "Tell him what you know.",
+        "pt": "Contar o que você sabe.",
+        "es": "Decirle lo que sabes."
+    },
+    "MVvj": {
+        "en": "[{0}]\nNot really. I've ever heard of his name and I don't know anything about him.",
+        "pt": "[{0}]\nNa verdade, não. Nunca ouvi falar de seu nome e não sei nada sobre ele.",
+        "es": "[{0}]\nLa verdad, no. Nunca escuché su nombre y no sé nada de él."
+    },
+    "Mlvj": {
+        "en": "[Giacomo Girolamo]\nHmm, You sound suspicious...",
+        "pt": "[Giacomo Girolamo]\nHumm, seu jeito é meio suspeito...",
+        "es": "[Giacomo Girolamo]\nMmm, parece que sospechas algo…"
+    },
+    "M1vj": {
+        "en": "[{0}]\nHe happens to be researching Human 'Homunculus' without telling the Rekenber Corporation and there was a whistle-blower who reported him so he was fired.",
+        "pt": "[{0}]\nAcontece que ele estava pesquisando ''homúnculos'' humanos sem informar à Corporação Rekenber, e um informante o denunciou e ele foi demitido.",
+        "es": "[{0}]\nResulta que estaba investigando los homúnculos humanos sin comunicarlo a la Corporación Rekenber y alguien lo denunció. Entonces, lo despidieron."
+    },
+    "NFvj": {
+        "en": "[Giacomo Girolamo]\nOh, man! You seem to know pretty much! By any chance, are you concerned with Rekenber?",
+        "pt": "[Giacomo Girolamo]\nAh, cara! Você parece saber muito bem! Por acaso, você se preocupa com a Rekenber?",
+        "es": "[Giacomo Girolamo]\nVaya… ¡Parece que sabes bastante! Por casualidad, ¿te preocupa Rekenber?"
+    },
+    "NVvj": {
+        "en": "[{0}]\n..........",
+        "pt": "[{0}]\n..........",
+        "es": "[{0}]\n.........."
+    },
+    "Nlvj": {
+        "en": "[Giacomo Girolamo]\nDon't worry. I didn't mean anything.",
+        "pt": "[Giacomo Girolamo]\nRelaxa. Eu não quis dizer nada.",
+        "es": "[Giacomo Girolamo]\nNo te preocupes. No me hagas caso."
+    },
+    "N1vj": {
+        "en": "[Giacomo Girolamo]\nWell! I am just curious only becuase some people in the slum and some adventurers were missing,\nand I heard that Rekenber was doing human experimentation with those missing people. Hope you don't get me wrong.",
+        "pt": "[Giacomo Girolamo]\nEntão! Só estou curioso porque algumas pessoas da favela e alguns aventureiros estão desaparecidos,\ne ouvi dizer que a Rekenber estava fazendo experimentos humanos com essas pessoas desaparecidas. Espero que não me entenda mal.",
+        "es": "[Giacomo Girolamo]\n¡Bueno! Solo tengo curiosidad porque algunas personas de los barrios bajos y algunos trotamundos desaparecieron.\nEscuché que Rekenber estaba haciendo experimentos con las personas desaparecidas. Espero que no me malinterpretes."
+    },
+    "OFvj": {
+        "en": "Actually, it is not a funny rumor.\nShould investigate the lab where the experiment was carried out.",
+        "pt": "Na verdade, não se trata de um rumor engraçado.\nMelhor investigar o laboratório onde o experimento foi realizado.",
+        "es": "En realidad, no es un rumor para nada gracioso.\nDebes investigar el laboratorio donde se hizo el experimento."
+    },
+    "OVvj": {
+        "en": "[Giacomo Girolamo]\nOh! What a beautiful lady!!",
+        "pt": "[Giacomo Girolamo]\nAh! Que linda dama!!!",
+        "es": "[Giacomo Girolamo]\n¡Oh! ¡Qué mujer más hermosa!"
+    },
+    "Olvj": {
+        "en": "[Giacomo Girolamo]\nHow come a beauty is here, in a place with a dangerous rumor?",
+        "pt": "[Giacomo Girolamo]\nO que uma belezura como você faz aqui, um lugar com um rumor perigoso?",
+        "es": "[Giacomo Girolamo]\n¿Qué hace una belleza así aquí, en un lugar con un rumor tan peligroso?"
+    },
+    "O1vj": {
+        "en": "Walking.",
+        "pt": "Estou passando.",
+        "es": "Caminar."
+    },
+    "PFvj": {
+        "en": "To hang out.",
+        "pt": "Estou dando uma volta.",
+        "es": "Pasar el rato."
+    },
+    "PVvj": {
+        "en": "Shopping.",
+        "pt": "Estou fazendo compras.",
+        "es": "Ir de compras."
+    },
+    "Plvj": {
+        "en": "[Giacomo Girolamo]\nAhh.. Lady, you are so graceful even when you are just walking.....",
+        "pt": "[Giacomo Girolamo]\nAhh... Senhora, você é muito graciosa mesmo quando só está de passagem...",
+        "es": "[Giacomo Girolamo]\nAh… Es tan elegante, incluso cuando solo está caminando…"
+    },
+    "P1vj": {
+        "en": "[Giacomo Girolamo]\nLady. You are a dignified lady even if you hang out in this poor town...",
+        "pt": "[Giacomo Girolamo]\nSenhora, você é uma dama digna mesmo passeando por essa cidade pobre...",
+        "es": "[Giacomo Girolamo]\nMuchacha. Es tan digna, incluso cuando se pasea por esta pobre ciudad…"
+    },
+    "QFvj": {
+        "en": "[Giacomo Girolamo]\nAhh.. Lady.. Shopping in the slum!!.. Are you a type who needs to look around every single shop?",
+        "pt": "[Giacomo Girolamo]\nAhh... Senhora... Fazendo compras na favela...!!! Você é do tipo que precisa dar uma olhadinha em cada loja?",
+        "es": "[Giacomo Girolamo]\nAh… Muchacha… ¡De compras por los barrios bajos! ¿Es usted de las que necesita mirar cada una de las tiendas?"
+    },
+    "QVvj": {
+        "en": ".............",
+        "pt": ".............",
+        "es": "............."
+    },
+    "Qlvj": {
+        "en": "[Giacomo Girolamo]\nWell, how dare I ask you and be interested in what the lady does...?",
+        "pt": "[Giacomo Girolamo]\nOra, como ouso perguntar e me interessar pelo que a senhora faz...?",
+        "es": "[Giacomo Girolamo]\nBueno, ¿cómo me atrevo a preguntar e interesarme por lo que está haciendo…?"
+    },
+    "Q1vj": {
+        "en": "[Giacomo Girolamo]\nI just hope that the lady gets out of this town with the dangerous rumors.",
+        "pt": "[Giacomo Girolamo]\nSó espero que a senhora saia desta cidade com rumores perigosos.",
+        "es": "[Giacomo Girolamo]\nSolo espero que abandone esta ciudad con los rumores peligrosos."
+    },
+    "RFvj": {
+        "en": "Dangerous rumors?",
+        "pt": "Rumores perigosos?",
+        "es": "¿Rumores peligrosos?"
+    },
+    "RVvj": {
+        "en": "[Giacomo Girolamo]\nAh... Lady may not have heard of the rumor.",
+        "pt": "[Giacomo Girolamo]\nAh... A senhora pode não ter ouvido falar disso.",
+        "es": "[Giacomo Girolamo]\nAh… Quizá no se enteró del rumor."
+    },
+    "Rlvj": {
+        "en": "[Giacomo Girolamo]\nRecently, some people from this town, actually from the slum... and some adventurers are missing...",
+        "pt": "[Giacomo Girolamo]\nRecentemente, algumas pessoas desta cidade, na verdade, da favela... e alguns aventureiros estão desaparecidos...",
+        "es": "[Giacomo Girolamo]\nRecientemente, algunas personas de esta ciudad, en realidad de los barrios bajos…, y algunos trotamundos desaparecieron…"
+    },
+    "R1vj": {
+        "en": "[Giacomo Girolamo]\nand then the rumor came up, since the disappearance cases are happening pretty often, that Rekenber is commiting a horrible human experimentation in their secret lab.",
+        "pt": "[Giacomo Girolamo]\nE aí surgiu o boato de que a Rekenber está fazendo experimentos humanos horríveis em um laboratório secreto, já que os casos de desaparecimento estão acontecendo com muita frequência.",
+        "es": "[Giacomo Girolamo]\nEntonces, como los casos de desaparición son cada vez más frecuentes, surgió el rumor de que Rekenber está haciendo horribles experimentos con humanos en su laboratorio secreto."
+    },
+    "SFvj": {
+        "en": "Excuse me?! Human Experimentation?",
+        "pt": "Como é?! Experimentos humanos?",
+        "es": "¡¿Perdón?! ¿Experimentos con humanos?"
+    },
+    "SVvj": {
+        "en": "[Giacomo Girolamo]\nYea! Human experimentation!\nThere are a lot of rumors that horrible human experimentation was actually performed. But these people in the slum don't want to believe that due to the welfare movement from Rekenber.",
+        "pt": "[Giacomo Girolamo]\nSim! Experimentos humanos!\nHá muitos rumores de que experimentos humanos horríveis estavam sendo realizados. Mas essas pessoas da favela não querem acreditar nisso devido ao movimento de bem-estar da Rekenber.",
+        "es": "[Giacomo Girolamo]\n¡Sí! ¡Experimentos con humanos!\nHay muchos rumores de que se llevaron a cabo horribles experimentos con humanos. Pero los habitantes de los barrios bajos no quieren creerlo, debido a la campaña de ayuda social que promueve Rekenber."
+    },
+    "Slvj": {
+        "en": "[Giacomo Girolamo]\nWell! The rich people don't want to believe it either I think...! And couple of weeks ago. um. what's his name? Wolfchev?",
+        "pt": "[Giacomo Girolamo]\nEntão! Os ricos também não querem acreditar nisso, eu acho...! E há algumas semanas... Como é o nome dele? Wolfchev?",
+        "es": "[Giacomo Girolamo]\n¡Bueno! ¡Creo que los ricos tampoco quieren creerlo! Y hace un par de semanas, um, ¿cómo se llama? ¿Wolfchev?"
+    },
+    "S1vj": {
+        "en": "[Giacomo Girolamo]\nAnyway! That researcher got fired from the lab. I think he must be involved with this rumor.",
+        "pt": "[Giacomo Girolamo]\nEnfim! Esse pesquisador foi demitido do laboratório. Acho que ele deve estar envolvido com esse rumor.",
+        "es": "[Giacomo Girolamo]\n¡En fin! Ese investigador fue despedido del laboratorio. Creo que está involucrado en estos rumores."
+    },
+    "TFvj": {
+        "en": "[Giacomo Girolamo]\nSo, please, lady. Please don't be in a place like this and stay in safe ways.",
+        "pt": "[Giacomo Girolamo]\nEntão, por favor, senhora, não fique num lugar como esse e tenha cuidado.",
+        "es": "[Giacomo Girolamo]\nAsí que, por favor, muchacha. Por favor, no se quede en un lugar así e intente mantenerse a salvo."
+    },
+    "TVvj": {
+        "en": "It seems like a pretty serious matter.\nShould investigate the lab where the experiment was carried out.",
+        "pt": "Parece ser um assunto muito sério.\nMelhor investigar o laboratório onde o experimento foi realizado.",
+        "es": "Parece un asunto bastante serio.\nDebes investigar el laboratorio donde se hizo el experimento."
+    },
+    "Tlvj": {
+        "en": "[Giacomo Girolamo]\nTake care yourself and don't disappear!",
+        "pt": "[Giacomo Girolamo]\nSe cuida e vê se aparece!",
+        "es": "[Giacomo Girolamo]\n¡Cuídese y no desaparezca!"
+    },
+    "T1vj": {
+        "en": "[Giacomo Girolamo]\nBe careful, Lady.",
+        "pt": "[Giacomo Girolamo]\nTenha cuidado, senhora.",
+        "es": "[Giacomo Girolamo]\nTenga cuidado, muchacha."
+    },
+    "UFvj": {
+        "en": "[Giacomo Girolamo]\nOnly those beautiful ladies are the reason of my life~!\nI, Giacomo Girolamo Casanova de Seingalt am never interested in guys like you though!",
+        "pt": "[Giacomo Girolamo]\nSomente essas belas damas são a razão da minha vida~!\nEu, Giacomo Girolamo Casanova de Seingalt, nunca me interessei por caras como você!",
+        "es": "[Giacomo Girolamo]\n¡Las muchachas bellas como usted son la razón de mi vida~!\nSin embargo, a mí, Giacomo Girolamo Casanova de Seingalt, ¡nunca me interesaron los tipos como tú!"
+    },
+    "UVvj": {
+        "en": "[Giacomo Girolamo]\nBut I can listen to you... you wanna say anything to me?",
+        "pt": "[Giacomo Girolamo]\nMas eu posso ouvi-lo... quer me dizer alguma coisa?",
+        "es": "[Giacomo Girolamo]\nPero puedo escucharte… ¿me quieres decir algo?"
+    },
+    "Ulvj": {
+        "en": "No...?",
+        "pt": "Não...?",
+        "es": "¿No…?"
+    },
+    "U1vj": {
+        "en": "About ladies...",
+        "pt": "Sobre as damas...",
+        "es": "Sobre las mujeres…"
+    },
+    "VFvj": {
+        "en": "You Womanizer!",
+        "pt": "Seu mulherengo!",
+        "es": "¡Tú, mujeriego!"
+    },
+    "VVvj": {
+        "en": "I envy you...",
+        "pt": "Tenho inveja de você...",
+        "es": "Te envidio."
+    },
+    "Vlvj": {
+        "en": "What's the rumor lately?",
+        "pt": "Quais são os últimos rumores?",
+        "es": "¿Qué se rumorea últimamente?"
+    },
+    "V1vj": {
+        "en": "[Giacomo Girolamo]\nHey then get out of my way...",
+        "pt": "[Giacomo Girolamo]\nHunf, então saia do meu caminho...",
+        "es": "[Giacomo Girolamo]\nEy, entonces sal de mi camino…"
+    },
+    "WFvj": {
+        "en": "[Giacomo Girolamo]\nI don't feel like talking about my precious ladies making fun of them. You do it with your friends.",
+        "pt": "[Giacomo Girolamo]\nNão estou com vontade de falar sobre minhas preciosas damas para tirar sarro delas. Faça isso com seus amigos.",
+        "es": "[Giacomo Girolamo]\nNo tengo ganas de hablar de mis preciosas mujeres, de que te burles de ellas. Lo haces con tus amigos."
+    },
+    "WVvj": {
+        "en": "[Giacomo Girolamo]\nHey! Excuse me! But I'm not a 'Womanizer', I am just a person who adores ladies.",
+        "pt": "[Giacomo Girolamo]\nEi! Desculpa, mas eu não sou um ''mulherengo'', sou apenas uma pessoa que adora mulheres.",
+        "es": "[Giacomo Girolamo]\n¡Oye! ¡Disculpa! Pero no soy un mujeriego, soy una persona que adora a las mujeres."
+    },
+    "Wlvj": {
+        "en": "[Giacomo Girolamo]\nOf course... Yea... If I'm a womanizer, all the men on earth are too! I'm just Casanova. umhahahaha.",
+        "pt": "[Giacomo Girolamo]\nClaro que sim... Sim... Se eu sou um mulherengo, todos os homens da Terra também são! Eu sou apenas o Casanova. Muwahahahaha.",
+        "es": "[Giacomo Girolamo]\nPor supuesto… Sí… Si yo soy un mujeriego, ¡entonces todos los hombres de la tierra también lo son! Solo soy Casanova, ja, ja, ja, ja."
+    },
+    "W1vj": {
+        "en": "[Giacomo Girolamo]\nHah... Do you...? Don't you have any woman but your sister and mother around you?",
+        "pt": "[Giacomo Girolamo]\nHaha... Você...? Não tem nenhuma outra mulher além de sua irmã e mãe por perto?",
+        "es": "[Giacomo Girolamo]\nJa… ¿Tú…? ¿Acaso tu hermana y tu madre son las únicas mujeres de tu vida?"
+    },
+    "XFvj": {
+        "en": "[Giacomo Girolamo]\n..........",
+        "pt": "[Giacomo Girolamo]\n..........",
+        "es": "[Giacomo Girolamo]\n.........."
+    },
+    "XVvj": {
+        "en": "[Giacomo Girolamo]\nOh... sorry... I got your point...",
+        "pt": "[Giacomo Girolamo]\nAh... desculpa... Entendi seu ponto...",
+        "es": "[Giacomo Girolamo]\nOh… lo siento… Entiendo lo que dices…"
+    },
+    "Xlvj": {
+        "en": "[Giacomo Girolamo]\nYou... are not like how you seem? Interesting...",
+        "pt": "[Giacomo Girolamo]\nVocê... não é o que parece? Interessante...",
+        "es": "[Giacomo Girolamo]\n¿Tú… no eres lo que pareces? Interesante…"
+    },
+    "X1vj": {
+        "en": "[Giacomo Girolamo]\nYea, actually recently a lot of people from the slum and some wandering adventurers have disappeared and I don't know why.",
+        "pt": "[Giacomo Girolamo]\nSim, na verdade, recentemente, muitas pessoas da favela e alguns aventureiros errantes desapareceram, e eu não sei por quê.",
+        "es": "[Giacomo Girolamo]\nSí, de hecho, recientemente mucha gente de los barrios bajos y algunos trotamundos errantes desaparecieron y no sé por qué."
+    },
+    "YFvj": {
+        "en": "[Giacomo Girolamo]\nYou gotta be careful too...",
+        "pt": "[Giacomo Girolamo]\nVocê precisa ter cuidado também...",
+        "es": "[Giacomo Girolamo]\nHay que tener mucho cuidado…"
+    },
+    "YVvj": {
+        "en": "[Giacomo Girolamo]\nHey, lady?",
+        "pt": "[Giacomo Girolamo]\nEi, senhora?",
+        "es": "[Giacomo Girolamo]\nEy, ¿muchacha?"
+    },
+    "Ylvj": {
+        "en": "[Giacomo Girolamo]\nDid it hurt when you fell down from Heaven, my Angel?",
+        "pt": "[Giacomo Girolamo]\nDoeu quando você caiu do céu, meu anjo?",
+        "es": "[Giacomo Girolamo]\n¿Te dolió cuando te caíste del cielo, mi ángel?"
+    },
+    "Y1vj": {
+        "en": "[Giacomo Girolamo]\nYou must be tired. Because you've been running around my mind all day.",
+        "pt": "[Giacomo Girolamo]\nVocê deve estar cansada, pois passou o dia inteiro na minha cabeça.",
+        "es": "[Giacomo Girolamo]\nDebes estar cansada. Porque te estuve pensando todo el día."
+    },
+    "ZFvj": {
+        "en": "[Giacomo Girolamo]\nAren't you tired of walking around in my dream last night?",
+        "pt": "[Giacomo Girolamo]\nVocê não se cansou de andar pelo meu sonho noite passada?",
+        "es": "[Giacomo Girolamo]\n¿No estás cansada de haberte paseado por mis sueños anoche?"
+    },
+    "ZVvj": {
+        "en": "[Giacomo Girolamo]\nExcuse me. But I think I lost my heart. Could I please borrow yours?",
+        "pt": "[Giacomo Girolamo]\nDesculpa. Mas acho que perdi meu coração. Poderia me emprestar o seu?",
+        "es": "[Giacomo Girolamo]\nDisculpa. Pero creo que perdí mi corazón. ¿Me prestas el tuyo?"
+    },
+    "Zlvj": {
+        "en": "[Giacomo Girolamo]\nDo you believe in love at first sight? Or can we start again?",
+        "pt": "[Giacomo Girolamo]\nVocê acredita em amor à primeira vista? Ou podemos começar de novo?",
+        "es": "[Giacomo Girolamo]\n¿Crees en el amor a primera vista? ¿O podemos empezar de nuevo?"
+    },
+    "Z1vj": {
+        "en": "[Giacomo Girolamo]\nI am so sorry but, can you kiss a person who you just met? No? Ok, then let me introduce myself.",
+        "pt": "[Giacomo Girolamo]\nCom licença, mas você pode beijar uma pessoa que acabou de conhecer? Não? Tudo bem, então me deixa me apresentar.",
+        "es": "[Giacomo Girolamo]\nLo siento mucho, pero ¿es posible besar a una persona que acabas de conocer? ¿No? Muy bien, entonces, déjame presentarme."
+    },
+    "aFvj": {
+        "en": "[Giacomo Girolamo]\nI'm so lost here since it's the first time. Can you let me know which is the way to your heart?",
+        "pt": "[Giacomo Girolamo]\nEstou muito perdido aqui, já que é a primeira vez. Pode me dizer qual é o caminho para o seu coração?",
+        "es": "[Giacomo Girolamo]\nEstoy muy perdido, ya que es la primera vez. ¿Puedes decirme cuál es el camino a tu corazón?"
+    },
+    "aVvj": {
+        "en": "[Giacomo Girolamo]\nGive me a map please. I need to get away because I've become lost in your eyes.",
+        "pt": "[Giacomo Girolamo]\nMe dê um mapa, por favor. Preciso ir embora porque me perdi em seus olhos.",
+        "es": "[Giacomo Girolamo]\nDame un mapa, por favor. Necesito alejarme porque me perdí en tus ojos."
+    },
+    "alvj": {
+        "en": "[Giacomo Girolamo]\nYour eyes... I wanna be forever there.",
+        "pt": "[Giacomo Girolamo]\nSeus olhos... Quero ficar lá para sempre.",
+        "es": "[Giacomo Girolamo]\nTus ojos… Quiero estar allí para siempre."
+    },
+    "a1vj": {
+        "en": "[Giacomo Girolamo]\nI promise that I will be your everything in any case, in any difficult situation.",
+        "pt": "[Giacomo Girolamo]\nPrometo que vou ser tudo para você, aconteça o que acontecer, em qualquer situação difícil.",
+        "es": "[Giacomo Girolamo]\nTe prometo que seré todo lo que necesites en todo momento, en cualquier situación difícil."
+    },
+    "bFvj": {
+        "en": "[Giacomo Girolamo]\nToday is the first day we met, but I love you, Lady <3",
+        "pt": "[Giacomo Girolamo]\nHoje é a primeira vez que nos vemos, mas eu te amo, senhora <3",
+        "es": "[Giacomo Girolamo]\nHoy es el día en que nos conocimos, pero te quiero, muchacha. <3"
+    },
+    "bVvj": {
+        "en": "[Giacomo Girolamo]\nAnd I am telling you this because I'm just worried about you. You need to get out of this town which is full of disappearance cases.",
+        "pt": "[Giacomo Girolamo]\nEu te digo isso porque estou preocupado com você. Você precisa sair desta cidade, está cheia de casos de desaparecimento.",
+        "es": "[Giacomo Girolamo]\nY te digo esto porque estoy preocupado por ti. Tienes que irte de esta ciudad. Está llena de casos de desaparición."
+    },
+    "blvj": {
+        "en": "In order to investigate the human experimentation, I had to go down whilst I didn't want to because of the gruesome sound.",
+        "pt": "Para investigar os experimentos humanos, tive que descer, mesmo não querendo, por causa do som horrível.",
+        "es": "Para investigar los experimentos con humanos, tuve que bajar aunque no quería debido a los sonidos escalofriantes."
+    },
+    "b1vj": {
+        "en": "- Whistling sound -\nA gruesome sound mingling with the wind is coming from below.",
+        "pt": "- Som de assobio -\nUm som horrível, levado pelo vento, está vindo de baixo.",
+        "es": "*Silbido*\nDesde abajo, se escucha un sonido espantoso que se mezcla con el viento."
+    },
+    "cFvj": {
+        "en": "Man's whisper: Pl.. please.. save me.. I don't wanna die.. wouaaaa..",
+        "pt": "Sussurro de um homem: Por favor, me salve... Eu não quero morrer... aaaaaa...",
+        "es": "El susurro de un hombre: Por… favor… sálvame… No quiero morir… uaaaaaa…"
+    },
+    "cVvj": {
+        "en": "Woman's whisper: .. Save.. aaaah.. us...",
+        "pt": "Sussurro de mulher: ... Nos... aaaah... salve...",
+        "es": "El susurro de una mujer: Sálva… aaaah… nos…"
+    },
+    "clvj": {
+        "en": "Kid's whisper: Bawwww~ Where am I? Mama......aaaa....",
+        "pt": "Sussurro de criança: Uááá~ Onde estou? Mamãe... aaaa...",
+        "es": "El susurro de un niño: Buaaaa~. ¿Dónde estoy? Mamá…aaaa…"
+    },
+    "c1vj": {
+        "en": "Oldman's whisper: Kirk...hel...help......",
+        "pt": "O sussurro de Homem Velho: Argh...soc...socorro......",
+        "es": "El susurro de un anciano: Ayu… ayu… ayuda…"
+    },
+    "dFvj": {
+        "en": "I arrived at a research facility which seems it has been used till these days.",
+        "pt": "Cheguei a uma instalação de pesquisa que parece ainda estar em uso.",
+        "es": "Llegué a un centro de investigación que parece haber estado en uso hasta hace poco."
+    },
+    "dVvj": {
+        "en": "There are some destroyed parts but the basic facility seems fine.",
+        "pt": "Há algumas partes destruídas, mas as instalações básicas parecem estar bem.",
+        "es": "Hay algunas partes destruidas, pero la instalación básica se ve bien."
+    },
+    "dlvj": {
+        "en": "Get around a little more..",
+        "pt": "Explorar mais um pouco.",
+        "es": "Muévete un poco más…"
+    },
+    "d1vj": {
+        "en": "Researcher",
+        "pt": "Pesquisador",
+        "es": "Investigador"
+    },
+    "eFvj": {
+        "en": "[{0}]\nAre you Wolfchev?",
+        "pt": "[{0}]\nVocê é Wolfchev?",
+        "es": "[{0}]\n¿Eres Wolfchev?"
+    },
+    "eVvj": {
+        "en": "[Wolfchev]\nA Human! kaahaha. People tend to hate this place, why are you here?",
+        "pt": "[Wolfchev]\nUm humano! Kahaha. A maioria das pessoas odeia este lugar, por que você está aqui?",
+        "es": "[Wolfchev]\n¡Un Humano! Ja, ja, ja. La gente suele odiar este lugar, ¿por qué estás aquí?"
+    },
+    "elvj": {
+        "en": "[{0}]\nYou! I heard that you were committing human experimentation. Wolfchev!",
+        "pt": "[{0}]\nVocê! Ouvi dizer que você estava fazendo experimentos com humanos, Wolfchev!",
+        "es": "[{0}]\n¡Tú! Escuché que estabas haciendo experimentos con humanos. ¡Wolfchev!"
+    },
+    "e1vj": {
+        "en": "[{0}]\nAnd I see that you are still committing that!",
+        "pt": "[{0}]\nE vejo que continua fazendo isso!",
+        "es": "[{0}]\n¡Y veo que lo sigues haciendo!"
+    },
+    "fFvj": {
+        "en": "[Wolfchev]\nKihihihi. I can see that you know something about me. Is that you who accused me?\nHow dare you come back to me after you did that. Kihihih",
+        "pt": "[Wolfchev]\nKihihihi. Então você sabe algo sobre mim. Foi você quem me acusou?\nComo ousa voltar para mim depois de fazer isso? Kihihihi.",
+        "es": "[Wolfchev]\nJe, je, je, je. Veo que sabes algo sobre mí. ¿Fuiste tú quien me acusó?\n¡Cómo te atreves a buscarme después de haber hecho eso! Je, je, je, je."
+    },
+    "fVvj": {
+        "en": "[Wolfchev]\nI feel good to see a human\nafter such a long time, but I gotta go. Kihihihi.",
+        "pt": "[Wolfchev]\nMe sinto bem em ver um humano\ndepois de tanto tempo, mas tenho que ir. Kihihihi.",
+        "es": "[Wolfchev]\nMe hace bien ver a un ser humano\ndespués de tanto tiempo, pero tengo que irme. Je, je, je, je."
+    },
+    "flvj": {
+        "en": "- Wolfchev ran away giving an awkward laughing sound. -",
+        "pt": "- Wolfchev foge dando uma risada estranha. -",
+        "es": "(Wolfchev se alejó y se rio de forma incómoda)."
+    },
+    "f1vj": {
+        "en": "[{0}]\nWhoa! Wolfchev, stop!",
+        "pt": "[{0}]\nEita! Wolfchev, pare!",
+        "es": "[{0}]\n¡Vaya! ¡Wolfchev, detente!"
+    },
+    "gFvj": {
+        "en": "^FF0000 Check your inventory. You have too many items to continue the quest. ^000000",
+        "pt": "^FF0000 Verifique seu inventário. Você tem itens demais para continuar a missão. ^000000",
+        "es": "^FF0000 Revisa tu inventario. Tienes demasiados objetos para continuar la misión. ^000000"
+    },
+    "gVvj": {
+        "en": "[Wolfchev]\n(Gasping) Pshaw... you are still following me. Hey, why do you keep following me?",
+        "pt": "[Wolfchev]\n(Ofegante) Vixe... você ainda está me seguindo. Ei, por que está fazendo isso?",
+        "es": "[Wolfchev]\n*Jadea* Bah… todavía me estás siguiendo. Oye, ¿por qué me sigues?"
+    },
+    "glvj": {
+        "en": "[{0}]\nWolfchev... You said before that you are doing research for everybody.",
+        "pt": "[{0}]\nWolfchev... Você disse que está fazendo pesquisas para todos.",
+        "es": "[{0}]\nWolfchev… Antes dijiste que investigas para todo el mundo."
+    },
+    "g1vj": {
+        "en": "[Wolfchev]\nI might have said that.... so what?",
+        "pt": "[Wolfchev]\nTalvez eu tenha dito isso... E daí?",
+        "es": "[Wolfchev]\nPuede que haya dicho eso… ¿Y qué?"
+    },
+    "hFvj": {
+        "en": "[{0}]\nBut, your experiment seems really dangerous. How come this is what everybody wants?",
+        "pt": "[{0}]\nMas seu experimento parece muito perigoso. Por que isso é o que todo mundo quer?",
+        "es": "[{0}]\nPero tu experimento parece muy peligroso. ¿Por qué ahora todo el mundo quiere esto?"
+    },
+    "hVvj": {
+        "en": "[Wolfchev]\nEveryone has a desire to be stronger and wants to dominate others so those other people obey and admire you. Do you not have that desire?",
+        "pt": "[Wolfchev]\nTodo mundo quer ser mais forte e dominar os outros, para que eles obedeçam e te admirem. Você não tem esse desejo?",
+        "es": "[Wolfchev]\nTodo el mundo tiene el deseo de ser más fuerte y controlar a los demás para lograr obediencia y admiración. ¿No tienes ese deseo?"
+    },
+    "hlvj": {
+        "en": "[Wolfchev]\nIf you want to save yourself you should stop following me. Bugger off.",
+        "pt": "[Wolfchev]\nSe quer se salvar, melhor parar de me seguir. Suma daqui.",
+        "es": "[Wolfchev]\nSi quieres salvarte, deberías dejar de seguirme. Vete."
+    },
+    "h1vj": {
+        "en": "Wolfchev is running away again while making with a strange sound.",
+        "pt": "Wolfchev está fugindo novamente enquanto faz um som estranho.",
+        "es": "Wolfchev huye de nuevo mientras hace un sonido extraño."
+    },
+    "iFvj": {
+        "en": "[{0}]\nAwwww! Why are you running away again...? Stop!",
+        "pt": "[{0}]\nAwwww! Por que está fugindo de novo...? Pare!",
+        "es": "[{0}]\n¡Awwww! ¿Por qué huyes otra vez…? ¡Alto!"
+    },
+    "iVvj": {
+        "en": "[Wolfchev]\nYou are pretty persistant, aren't you? Or I think... that you like me, huh? Kihihii.",
+        "pt": "[Wolfchev]\nVocê é bem persistente, não é? Ou será que... você gosta de mim, hein? Kihihihi.",
+        "es": "[Wolfchev]\nEres muy perseverante, ¿verdad? O creo… que te gusto, ¿eh? Ji, ji, ji, ji."
+    },
+    "ilvj": {
+        "en": "Wolfchev mocked you at your silence and pressed a button in his hand. Then guinea pigs woke up around him.",
+        "pt": "Wolfchev zomba do seu silêncio e aperta um botão na mão. Então, as cobaias ao redor dele despertam.",
+        "es": "Wolfchev se burló de tu silencio y presionó un botón en su mano. Entonces, los conejillos de indias se despertaron a su alrededor."
+    },
+    "i1vj": {
+        "en": "[Wolfchev]\nIt's time to say goodbye again...",
+        "pt": "[Wolfchev]\nÉ hora de dizer adeus de novo...",
+        "es": "[Wolfchev]\nEs hora de decir adiós otra vez…"
+    },
+    "jFvj": {
+        "en": "[Wolfchev]\nWell! Maybe....",
+        "pt": "[Wolfchev]\nBom! Talvez...",
+        "es": "[Wolfchev]\n¡Bueno! Tal vez…"
+    },
+    "jVvj": {
+        "en": "[Wolfchev]\nIf you come to me for the experimentation, I can treat you better.",
+        "pt": "[Wolfchev]\nSe aceitar ser parte dos meus experimentos, posso te tratar melhor.",
+        "es": "[Wolfchev]\nSi me buscas para formar parte de los experimentos, puedo tratarte mejor."
+    },
+    "jlvj": {
+        "en": "[Wolfchev]\nOh my... What happened?",
+        "pt": "[Wolfchev]\nMinha nossa... O que aconteceu?",
+        "es": "[Wolfchev]\nVaya… ¿Qué sucedió?"
+    },
+    "j1vj": {
+        "en": "[Wolfchev]\nNo! Don't come to me! Don't!",
+        "pt": "[Wolfchev]\nNão! Não venha até mim! Não venha!",
+        "es": "[Wolfchev]\n¡No! ¡No vengas a mí! ¡Ni hablar!"
+    },
+    "kFvj": {
+        "en": "First of all, I gotta handle those guinea pigs!",
+        "pt": "Antes de mais nada, tenho que lidar com essas cobaias!",
+        "es": "¡Primero, tengo que ocuparme de esos conejillos de indias!"
+    },
+    "kVvj": {
+        "en": "Wolfchev is confused and has no idea now since those monsters are attacking him too.",
+        "pt": "Wolfchev está confuso e não faz ideia do que está acontecendo, pois os monstros também o estão atacando.",
+        "es": "Wolfchev está confundido y no entiende nada, ya que esos monstruos también lo están atacando a él."
+    },
+    "klvj": {
+        "en": "- Hit him to wake him up -",
+        "pt": "- Bater nele para acordá-lo. -",
+        "es": "(Golpéalo para despertarlo)."
+    },
+    "k1vj": {
+        "en": "[{0}]\nHey Dude! Let's get out of here first! Isn't there any place where they cannot reach?",
+        "pt": "[{0}]\nEi, cara! Vamos sair daqui primeiro! Não tem nenhum lugar onde eles não consigam alcançar?",
+        "es": "[{0}]\n¡Ey, ey! ¡Primero vámonos de aquí! ¿No hay ningún lugar al que no puedan llegar?"
+    },
+    "lFvj": {
+        "en": "[Wolfchev]\nOooops.. then my....my lab....to my lab...",
+        "pt": "[Wolfchev]\nOooops... então meu... meu laboratório... para meu laboratório...",
+        "es": "[Wolfchev]\nUuuups… Entonces mi… mi laboratorio… a mi laboratorio…"
+    },
+    "lVvj": {
+        "en": "[{0}]\nYour lab? Okay, where's that?",
+        "pt": "[{0}]\nSeu laboratório? Certo, onde ele fica?",
+        "es": "[{0}]\n¿Tu laboratorio? Bien, ¿dónde es eso?"
+    },
+    "llvj": {
+        "en": "[Wolfchev]\nTo the north... Not so far from here...",
+        "pt": "[Wolfchev]\nAo norte... Perto daqui...",
+        "es": "[Wolfchev]\nAl norte… No tan lejos de aquí…"
+    },
+    "l1vj": {
+        "en": "Go to '^0000FFWolfchev's Lab^000000' at the 12 o'clock direction...",
+        "pt": "Vá para o '^0000FFLaboratório do Wolfchev^000000' na direção norte...",
+        "es": "Ve al ^0000FFlaboratorio de Wolfchev^000000 en la dirección de las 12:00 en punto…"
+    },
+    "mFvj": {
+        "en": "I arrived at '^0000FFWolfchev's Lab^000000'.",
+        "pt": "Cheguei ao '^0000FFLaboratório do Wolfchev^000000'.",
+        "es": "Llegué al ^0000FFlaboratorio de Wolfchev^000000."
+    },
+    "mVvj": {
+        "en": "Still I have something to do with Wolfchev.",
+        "pt": "Ainda tenho algo para resolver com o Wolfchev.",
+        "es": "Aún tengo algo que hacer con Wolfchev."
+    },
+    "mlvj": {
+        "en": "Human Guinea pig",
+        "pt": "Humano Cobaia",
+        "es": "Human Guinea pig"
+    },
+    "m1vj": {
+        "en": "Human Guinea pig",
+        "pt": "Humano Cobaia",
+        "es": "Cobayas humanas"
+    },
+    "nFvj": {
+        "en": "BioLab Dungeon Manager#",
+        "pt": "Gerente da Masmorra BioLab#",
+        "es": "BioLab Dungeon Manager"
+    },
+    "nVvj": {
+        "en": "I can set the dungeon for you\nI recommend that you do the Memorial Dungeon Setting after resetting the quest.",
+        "pt": "Posso configurar a masmorra para você\nRecomendo que faça o Configuração da Masmorra Memorial depois de redefinir a missão.",
+        "es": "Puedo dejar lista la mazmorra para ti.\nTe recomiendo que prepares la Mazmorra del recuerdo después de reiniciar la misión."
+    },
+    "nlvj": {
+        "en": "You cancelled.",
+        "pt": "Você cancelou.",
+        "es": "Cancelaste."
+    },
+    "n1vj": {
+        "en": "Nahah",
+        "pt": "Nahah",
+        "es": "No, no."
+    },
+    "oFvj": {
+        "en": "Current status\nBiolab Quest : {0}\nRekenber Job Quest : {1}",
+        "pt": "Status atual\nMissão Biolab : {0}\nMissão de Trabalho da Rekenber : {1}",
+        "es": "Estado actual\nMisión del biolaboratorio: {0}\nMisión de clase en Rekenber: {1}"
+    },
+    "oVvj": {
+        "en": "Rekenber Job Quest Completion!",
+        "pt": "Conclusão da Missão de Trabalho da Rekenber!",
+        "es": "¡Misión de clase en Rekenber completada!"
+    },
+    "olvj": {
+        "en": "Memorial Dungeon Setting for entering.",
+        "pt": "Configuração da Masmorra Memorial para entrada",
+        "es": "Preparar la Mazmorra del recuerdo para entrar."
+    },
+    "o1vj": {
+        "en": "Quest reset",
+        "pt": "Reinicialização da missão",
+        "es": "Reiniciar misión."
+    },
+    "pFvj": {
+        "en": "Only reset the Dungeon entering cool time(72 hours)",
+        "pt": "Somente reiniciar o tempo de espera da entrada da Masmorra (72 horas)",
+        "es": "Restablecer solo el tiempo de espera para entrar a la Mazmorra (72horas)."
+    },
+    "pVvj": {
+        "en": "Done~",
+        "pt": "Concluído~",
+        "es": "Listo~."
+    }
+}

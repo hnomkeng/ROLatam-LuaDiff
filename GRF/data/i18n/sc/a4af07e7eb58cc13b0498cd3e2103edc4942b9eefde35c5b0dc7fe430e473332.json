@@ -1,0 +1,937 @@
+{
+    "QFSJ": {
+        "en": "Soldier - Morroc",
+        "pt": "Soldado - Morroc",
+        "es": "Soldado de Morroc"
+    },
+    "QVSJ": {
+        "en": "[Soldier - Morroc]\nHey, you! Stop there.",
+        "pt": "[Soldado - Morroc]\nEi, você! Pare aí.",
+        "es": "[Soldado de Morroc]\nOye, tú. Detente."
+    },
+    "QlSJ": {
+        "en": "[Soldier - Morroc]\nThis is a restricted area. You can't come any further!",
+        "pt": "[Soldado - Morroc]\nEsta é uma área restrita. Você não pode passar!",
+        "es": "[Soldado de Morroc]\nEsta es una zona restringida. ¡No puedes avanzar más!"
+    },
+    "Q1SJ": {
+        "en": "[Soldier - Morroc]\n Hey, you! Stop there.",
+        "pt": "[Soldado - Morroc]\nEi, você! Pare aí.",
+        "es": "[Soldado de Morroc]\n Oye, tú. Detente."
+    },
+    "RFSJ": {
+        "en": "[Soldier - Morroc]\n This is a restricted area. You can't come any further!",
+        "pt": "[Soldado - Morroc]\nEsta é uma área restrita. Você não pode passar!",
+        "es": "[Soldado de Morroc]\n Esta es una zona restringida. ¡No puedes avanzar más!"
+    },
+    "RVSJ": {
+        "en": "Volunteer - Morroc",
+        "pt": "Voluntário - Morroc",
+        "es": "Voluntario de Morroc"
+    },
+    "RlSJ": {
+        "en": "[Volunteer-Morroc]\nAfter that terrible incident wiped out all of Morroc, the Rune-Midgart Kingdom has gathered volunteers to help restore it.",
+        "pt": "[Voluntário - Morroc]\nDepois que aquele terrível incidente destruiu toda Morroc, o reino de Rune-Midgard reuniu voluntários para ajudar a restaurá-la.",
+        "es": "[Voluntario de Morroc]\nDespués de que aquel terrible incidente arrasara con toda Morroc, el reino de Rune-Midgard estuvo reuniendo colaborantes para que ayuden a restaurarla."
+    },
+    "R1SJ": {
+        "en": "[Volunteer-Morroc]\nAs important as it seems, everyone's being careful but there are always some that really don't realize the situation, don't you think?",
+        "pt": "[Voluntário - Morroc]\nPor mais grave que pareça, todos estão sendo bem cuidadosos, mas sempre há alguns que não entendem a gravidade da situação, não acha?",
+        "es": "[Voluntario de Morroc]\nEs algo tan importante que todo el mundo anda con cuidado, pero siempre hay algunos que no se dan cuenta de la situación, ¿no crees?"
+    },
+    "SFSJ": {
+        "en": "Volunteer-Morroc",
+        "pt": "Voluntário - Morroc",
+        "es": "Voluntario de Morroc"
+    },
+    "SVSJ": {
+        "en": "[Volunteer-Morroc]\nWe're... We're flooded with work...",
+        "pt": "[Voluntário - Morroc]\nEstamos... estamos sobrecarregados de trabalho...",
+        "es": "[Voluntario de Morroc]\nEstamos… Estamos inundados de trabajo…"
+    },
+    "SlSJ": {
+        "en": "[Volunteer-Morroc]\nThis work's like never-ending, no matter how hard we try!!!\nPeople of Rune-Midgard!! Please lend us a helping hand!!",
+        "pt": "[Voluntário - Morroc]\nPor mais que a gente se esforce, o trabalho nunca termina!!!\nPovo de Rune-Midgard!!! Por favor, nos ajudem!!",
+        "es": "[Voluntario de Morroc]\n¡Este trabajo es de nunca acabar por más que nos esforcemos!\n¡Gente de Rune-Midgard! ¡Por favor, dennos una mano!"
+    },
+    "S1SJ": {
+        "en": "[Volunteer-Morroc]\nHaw.... Whew... Ugh...",
+        "pt": "[Voluntário - Morroc]\nArgh.... Ufa... Ugh...",
+        "es": "[Voluntario de Morroc]\nUf… Uf… Uf…"
+    },
+    "TFSJ": {
+        "en": "[Volunteer-Morroc]\nWe're still unable to estimate the overall damage.",
+        "pt": "[Voluntário - Morroc]\nAinda não conseguimos estimar os danos totais.",
+        "es": "[Voluntario de Morroc]\nAún no podemos calcular el daño total."
+    },
+    "TVSJ": {
+        "en": "[Volunteer-Morroc]\nThe Adventurers Union and the Prontera Kingdom are placing their resources on the restoration efforts as well as restraints on the original cause of the disaster.",
+        "pt": "[Voluntário - Morroc]\nO Sindicato dos Aventureiros e o Reino de Prontera estão investindo recursos nos esforços de restauração e na investigação das causas do desastre.",
+        "es": "[Voluntario de Morroc]\nEl sindicato de trotamundos y el reino de Prontera están destinando sus recursos a los trabajos de restauración, y también a detener la causa original de este desastre."
+    },
+    "TlSJ": {
+        "en": "[Volunteer-Morroc]\nUnless we settle the original cause, the damage will even spread out of Morroc. Otherwise it'll just get worse.",
+        "pt": "[Voluntário - Morroc]\nSe não descobrirmos a a causa original, os danos se espalharão para fora de Morroc.",
+        "es": "[Voluntario de Morroc]\nA menos que resolvamos la raíz de esto, el daño se expandirá incluso fuera de Morroc. Si no, solo empeorará todo."
+    },
+    "T1SJ": {
+        "en": "[Volunteer-Morroc]\nAs bad as it seems, we can't even ask for more support.\nThis sure must be the worst thing that's happened in the history of Rune-Midgard.",
+        "pt": "[Voluntário - Morroc]\nPor pior que pareça, não podemos nem pedir mais apoio.\nEssa deve ser a pior tragédia da história de Rune-Midgard.",
+        "es": "[Voluntario de Morroc]\nPor malo que parezca, no podemos pedir más apoyo.\nEsto debe de ser lo peor que ha pasado en la historia de Rune-Midgard."
+    },
+    "UFSJ": {
+        "en": "[Volunteer-Morroc]\nI wish I knew how bad the damage is, but we can't even estimate it. It's like shovelling sand against the tide...",
+        "pt": "[Voluntário - Morroc]\nQuem dera eu soubesse a gravidade dos danos, mas não podemos nem os estimar. É como enxugar gelo...",
+        "es": "[Voluntario de Morroc]\nOjalá supiera cuán graves son los daños, pero no podemos calcular nada. Es como sacar arena con el viento en contra…"
+    },
+    "UVSJ": {
+        "en": "[Volunteer-Morroc]\nThe town's all shattered, but the real problem is the towners.",
+        "pt": "[Voluntário - Morroc]\nA cidade foi toda destruída, mas o verdadeiro problema são os seus moradores.",
+        "es": "[Voluntario de Morroc]\nLa ciudad está destrozada, pero el problema real son sus habitantes."
+    },
+    "UlSJ": {
+        "en": "[Volunteer-Morroc]\nIt's a real pity to see the victims of the destruction. Everyone is in a state of shock. Especially the witnesses of the disaster, they're simply not normal now.",
+        "pt": "[Voluntário-Morroc]\nVer as vítimas da destruição é de cortar o coração. Todos estão em estado de choque, principalmente quem estava aqui na hora do desastre. As pessoas não estão nada bem.",
+        "es": "[Voluntario de Morroc]\nEs una verdadera lástima ver a las víctimas de la destrucción. Todo el mundo está en estado de shock. En especial quienes presenciaron el desastre. Ya no son los mismos de antes."
+    },
+    "U1SJ": {
+        "en": "[Volunteer-Morroc]\nPeople are scared to death, but at least they're nor crazy... 'cuz.. quite a few became mentally ill and stuff..",
+        "pt": "[Voluntário - Morroc]\nAs pessoas estão morrendo de medo, mas pelo menos não estão loucas... porque... muitos sofrem com doentes mentais e tal...",
+        "es": "[Voluntario de Morroc]\nLa gente está muerta de miedo, pero al menos no están locos… porque… algunos sí que se enferman mentalmente y demás…"
+    },
+    "VFSJ": {
+        "en": "[Volunteer-Morroc]\nUgh.. It's kinda spooky, here.. Even this dry desert wind seems to have a dark nature.",
+        "pt": "[Voluntário - Morroc]\nUgh... Que lugar meio medonho... Até mesmo esse vento seco do deserto parece ser ''do mal''.",
+        "es": "[Voluntario de Morroc]\nUff… Esto da un poco de miedo… Incluso este viento seco del desierto parece tener una naturaleza oscura."
+    },
+    "VVSJ": {
+        "en": "[Volunteer-Morroc]\nOoh!! Something... I can feel something! The dark and gloomy air flowing around this town is actually giving me a musical motiff!",
+        "pt": "[Voluntário - Morroc]\nAhh!!! Espera... Estou sentindo algo! O ar escuro e sombrio que corre nesta cidade está me inspirando pra compor!",
+        "es": "[Voluntario de Morroc]\n¡Ah! Siento… ¡Puedo sentir algo! ¡El aire oscuro y sombrío que circula por la ciudad me inspira a hacer un tema musical!"
+    },
+    "VlSJ": {
+        "en": "[Volunteer-Morroc]\nRight, I think you should hear it! The title is.. 'The Rhapsody of Satan Morroc's Rebirth'!!",
+        "pt": "[Voluntário - Morroc]\nTá, acho que você deveria ouvir isso! O título é... ''A Rapsódia do Renascimento do Satã Morroc''!",
+        "es": "[Voluntario de Morroc]\n¡Sí, creo que deberías escucharlo! Se llama… La rapsodia del renacimiento de Satán Morroc."
+    },
+    "V1SJ": {
+        "en": "[Volunteer-Morroc]\nWhen he finally wakes up,\nit's just the same darkness...\nfailed to be reborn... he never ever gives up...",
+        "pt": "[Voluntário - Morroc]\nQuando ele finalmente acorda,\nsegue a mesma escuridão...\nnão conseguiu renascer... ele nunca desiste...",
+        "es": "[Voluntario de Morroc]\nCuando por fin se despierta,\nes la misma oscuridad…\nfracasar no lo inquieta… renacerá una vez más…"
+    },
+    "WFSJ": {
+        "en": "[Volunteer-Morroc]\nBut even after hundreds and thousands of years of trying,\nThe great Satan Morroc can't revive~",
+        "pt": "[Voluntário - Morroc]\nMas mesmo após centenas e milhares de anos tentando,\no grande demônio Morroc não consegue reviver~",
+        "es": "[Voluntario de Morroc]\nTras cientos y miles de años de insistir\nel gran Satán Morroc no puede revivir."
+    },
+    "WVSJ": {
+        "en": "[Volunteer-Morroc]\n'My stupid minions are useless,\nAgainst those adventurers,\nThis time I must revive,\nCracking time and space,\nWill be saved for last~~~'",
+        "pt": "[Voluntário - Morroc]\n'Meus lacaios são inúteis,\nContra esses aventureiros,\nMas desta vez preciso reviver,\nPartindo o tempo e o espaço,\nDeixarei o melhor para o final~~~'",
+        "es": "[Voluntario de Morroc]\nMis estúpidos secuaces inútiles son\ncontra esos trotamundos del montón.\nEsta vez he de revivir\ny el tiempo y el espacio he de destruir\ny eso sí que está por venir."
+    },
+    "WlSJ": {
+        "en": "[Ringing Voice]\nBe quiet! Can't you see what's going on?!",
+        "pt": "[Voz Aguda]\nSilêncio! Não está vendo a nossa situação?",
+        "es": "[Voz resonante]\n¡Cállate! ¡¿No ves lo que está pasando?!"
+    },
+    "W1SJ": {
+        "en": "[Volunteer-Morroc]\nHeyyy, you're being too harsh, Senorita. Your fist may be as fragile as you are, but it sure can hurt somebody.",
+        "pt": "[Voluntário - Morroc]\nCalma lá, senhorita, não precisa gritar. Se o seu braço fosse tão forte quanto sua voz...",
+        "es": "[Voluntario de Morroc]\nOyeee, estás siendo muy dura. Puede que tu puño sea tan frágil como tú, pero puede herir a alguien."
+    },
+    "XFSJ": {
+        "en": "[Ringing Voice]\nAnyways, isn't that a children's song? I think I heard something like that before..",
+        "pt": "[Voz Aguda]\nMas essa não é uma música infantil? Acho que já ouvi algo assim antes...",
+        "es": "[Voz resonante]\nDe todos modos, ¿no es una canción infantil? Creo que escuché algo así antes…"
+    },
+    "XVSJ": {
+        "en": "[Volunteer-Morroc]\nNo, No way!?!\nTh... This is an original piece!",
+        "pt": "[Voluntário - Morroc]\nNão, de jeito nenhum!!!\nEsta... é uma música autoral!",
+        "es": "[Voluntario de Morroc]\n¡No, para nada!\nEs… ¡Es una pieza original!"
+    },
+    "XlSJ": {
+        "en": "[Volunteer-Morroc]\nThis is getting really serious. It was one town this time but we never know how many more could be damaged in the future...",
+        "pt": "[Voluntário - Morroc]\nEstá cada vez pior. Desta vez, foi uma cidade, mas nunca sabemos quantas outras poderão ser atingidas no futuro...",
+        "es": "[Voluntario de Morroc]\nEsto se está poniendo serio. Esta vez fue una sola ciudad, pero nunca se sabe cuántas más podrían quedar destruidas en el futuro…"
+    },
+    "X1SJ": {
+        "en": "[Volunteer-Morroc]\nHow are the adventurers? Are they making any moves to settle the problem?",
+        "pt": "[Voluntário - Morroc]\nComo estão os aventureiros? Eles estão fazendo alguma coisa para resolver o problema?",
+        "es": "[Voluntario de Morroc]\n¿Cómo están, trotamundos? ¿Están pensando algo para solucionar el problema?"
+    },
+    "YFSJ": {
+        "en": "[Ringing Voice]\nYes, they are. You wanna listen? The title is.. 'The Rhapsody of Morroc Satan's Rebirth'!!",
+        "pt": "[Voz Aguda]\nSim, estão. Quer ouvir? O título é 'A Rapsódia do Renascimento do Demônio Morroc'!!",
+        "es": "[Voz resonante]\nSí. ¿Quieres escuchar? Se llama… La rapsodia del renacimiento de Satán Morroc."
+    },
+    "YVSJ": {
+        "en": "Young Man",
+        "pt": "Jovem rapaz",
+        "es": "Joven"
+    },
+    "YlSJ": {
+        "en": "[Young Man]\nThe town's completely destroyed, but that giant triangular structure hasn't been harmed at all. Maybe it's protected by some kinda special power.",
+        "pt": "[Jovem rapaz]\nA cidade foi completamente destruída, mas aquela estrutura triangular gigante não sofreu nenhum dano. Talvez ela seja protegida por algum tipo de poder especial.",
+        "es": "[Hombre Joven]\nLa ciudad está destruida por completo, pero esas estructuras triangulares enormes no sufrieron daños. Quizá estén protegidas por algún poder especial."
+    },
+    "Y1SJ": {
+        "en": "[Young Man]\nYou know...Those giant triangular buildings at the NorthWest corner of Morroc, they're known to us as Pyramids...",
+        "pt": "[Jovem rapaz]\nVocê sabe... Aquelas construções triangulares gigantes no lado noroeste de Morroc são chamadas de pirâmides...",
+        "es": "[Hombre Joven]\nSabes… Esas estructuras triangulares gigantescas al noroeste de Morroc son conocidas como Pirámides…"
+    },
+    "ZFSJ": {
+        "en": "[Young Man]\nThose things have been around here for thousands and thousands of years. No one knows when and why they were built, or who built them.",
+        "pt": "[Jovem rapaz]\nEssas estruturas estão por aqui há milhares e milhares de anos. Ninguém sabe quando e por que foram construídas, ou quem as construiu.",
+        "es": "[Hombre Joven]\nEsas cosas están por aquí hace miles y miles de años. Nadie sabe cuándo ni por qué se construyeron, ni quién lo hizo."
+    },
+    "ZVSJ": {
+        "en": "[Young Man]\nAll we know is that tons of monsters live inside those weird buildings. You might wanna stay away from those really dangerous places.",
+        "pt": "[Jovem rapaz]\nA única coisa que sabemos é que milhares de monstros vivem dentro dessas construções estranhas. É bem perigoso, talvez seja melhor não se aproximar.",
+        "es": "[Hombre Joven]\nSolo sabemos que hay muchos monstruos viviendo dentro de ese lugar extraño. Deberías alejarte de lugares tan peligrosos como ese."
+    },
+    "ZlSJ": {
+        "en": "[Young Man]\nThose monsters in the Pyramid would be very, very sensitive to smell of people....",
+        "pt": "[Jovem rapaz]\nDizem que os monstros da pirâmide seriam extremamente sensíveis ao cheiro das pessoas...",
+        "es": "[Hombre Joven]\nLos monstruos en las Pirámides podrían ser muy sensibles al aroma de la gente…"
+    },
+    "Z1SJ": {
+        "en": "Grampa",
+        "pt": "Vovô",
+        "es": "Abuelo"
+    },
+    "aFSJ": {
+        "en": "[Old Scholar]\nI've devoted my life to researching the mysterious pyramids near Morroc. I haven't been able to concretely confirm anything yet, but...",
+        "pt": "[Velho Estudioso]\nDediquei minha vida a pesquisar as misteriosas pirâmides perto de Morroc. Ainda não consegui confirmar nada de concreto, mas...",
+        "es": "[Viejo erudito]\nDediqué toda mi vida a investigar las pirámides misteriosas cerca de Morroc. Aún no pude confirmar nada en concreto, pero…"
+    },
+    "aVSJ": {
+        "en": "[Old Scholar]\nI'm sure that the largest pyramid contains the tomb of the ancient king, Osiris! I'm willing to stake my life on it!",
+        "pt": "[Velho Estudioso]\nTenho certeza de que a maior pirâmide guarda a tumba do antigo rei, Osíris! Eu apostaria minha vida nisso!",
+        "es": "[Viejo erudito]\n¡Estoy seguro de que en la pirámide más grande está la tumba del antiguo rey Osiris! ¡Me juego la vida que es así!"
+    },
+    "alSJ": {
+        "en": "Wolf Young Man",
+        "pt": "Jovem do Bando de Lobos",
+        "es": "Joven lobo"
+    },
+    "a1SJ": {
+        "en": "[Young Man]\nI remember I said the bandits of the desert are the desert wolves.. Those bastards always roam around in a bunch and they get so cruel and outrageous if one of them gets attacked.",
+        "pt": "[Jovem rapaz]\nLembro de ter dito que os bandidos do deserto são os ''Lobos''. Esses desgraçados sempre andam em grupo e cometem atrocidades quando um deles é atacado.",
+        "es": "[Hombre Joven]\nRecuerdo que dije que los bandidos del desierto son los Lobos del desierto… Esos bastardos siempre andan en manada y son capaces de ser muy crueles y violentos si atacan a uno de los suyos."
+    },
+    "bFSJ": {
+        "en": "[Young Man]\nThey are so vicious, and I'm telling ya, I'm not kidding. After those wolves sweep through all they do is leave a path of destruction.",
+        "pt": "[Jovem rapaz]\nEles são extremamente cruéis, e sério, não estou brincando, por onde esses lobos passam, deixam um rastro de destruição.",
+        "es": "[Hombre Joven]\nSon muy agresivos y te lo digo en serio, no estoy bromeando. Después de que esos lobos arrasan, lo único que dejan es un camino desolado."
+    },
+    "bVSJ": {
+        "en": "[Young Man]\nBut the thing is that.. I even kinda feel that those merciless cold-blooded monsters are nothing to be afraid of, compared to what has happened in recently...",
+        "pt": "[Jovem rapaz]\nMas a questão é que... esses monstros implacáveis nem parecem tão perigosos, em comparação com o que aconteceu recentemente...",
+        "es": "[Hombre Joven]\nPero la cosa es que… creo que no hay nada de qué temer de esos monstruos despiadados sin sentimientos, comparado con lo que pasó hace poco…"
+    },
+    "blSJ": {
+        "en": "Muka Young Man",
+        "pt": "Jovem do Muka",
+        "es": "Joven del Muka"
+    },
+    "b1SJ": {
+        "en": "[Young Man]\nI work in the trading business, so I always have to cross the hot, dry Morroc Desert on business.",
+        "pt": "[Jovem rapaz]\nEu trabalho no comércio, então eu vivo cruzando o quente e seco deserto de Morroc a negócios.",
+        "es": "[Hombre Joven]\nTrabajo en comercio, así que siempre cruzo el desierto seco y caluroso de Morroc por negocios."
+    },
+    "cFSJ": {
+        "en": "[Young Man]\nBut I can't do that anymore.",
+        "pt": "[Jovem rapaz]\nMas não posso mais fazer isso.",
+        "es": "[Hombre Joven]\nPero ya no puedo hacerlo."
+    },
+    "cVSJ": {
+        "en": "[Young Man]\nNow that I can't, I kind of miss the old days.",
+        "pt": "[Jovem rapaz]\nE agora que não posso mais, sinto saudades.",
+        "es": "[Hombre Joven]\nY ahora, echo de menos los viejos tiempos."
+    },
+    "clSJ": {
+        "en": "[Young Man]\nLike this one time, while I was in the middle of the desert, I got so thirsty that I caught a cactus.. but before I was able to cut it, it slapped me! Then it shot me in the arse with all these needles...",
+        "pt": "[Jovem rapaz]\nUma vez, quando eu estava no meio do deserto, fiquei com tanta sede que peguei um cacto... mas antes que eu pudesse cortá-lo, ele me deu um tapa! Depois, ele disparou um monte de espinhos no meu traseiro...",
+        "es": "[Hombre Joven]\nComo una vez que, estando en medio del desierto, tenía tanta sed que agarré un cactus… pero antes de que pudiera cortarlo, ¡me abofeteó! Y me disparó con todas sus espinas en el trasero…"
+    },
+    "c1SJ": {
+        "en": "[Young Man]\nLater, I learned that it wasn't a normal cactus I found, but the monster we call 'Muka.'\nNow, come to think of it, it was kinda funny.",
+        "pt": "[Jovem]\nMais tarde, fiquei sabendo que não era um cacto normal que encontrei, mas o monstro que chamamos de ''Muka''.\nHoje em dia eu até dou risada da situação.",
+        "es": "[Hombre Joven]\nDespués me enteré de que no me había topado con un cactus normal, sino con el monstruo Muka.\nAhora que lo pienso, fue bastante gracioso."
+    },
+    "dFSJ": {
+        "en": "Diamond Young Man",
+        "pt": "Jovem do Diamante",
+        "es": "Joven del diamante"
+    },
+    "dVSJ": {
+        "en": "[Young Man]\nThe undisputed queen of jewels has to be the Diamond. After looking at it just once, no one can deny its beauty.",
+        "pt": "[Jovem rapaz]\nO rei supremo das joias tem de ser o diamante. Depois que você vê um deles na sua frente, é impossível ficar indiferente à sua beleza.",
+        "es": "[Hombre Joven]\nLa reina indiscutible de las joyas es el diamante. Después de mirarla una sola vez, nadie puede negar su belleza."
+    },
+    "dlSJ": {
+        "en": "[Young Man]\nMany factors determine its value, but the most important thing is its size.",
+        "pt": "[Jovem rapaz]\nMuitos fatores determinam seu valor, mas o mais importante é seu tamanho.",
+        "es": "[Hombre Joven]\nMuchos factores determinan su valor, pero lo más importante es su tamaño."
+    },
+    "d1SJ": {
+        "en": "[Young Man]\nIt should also be a perfect crystal, not cracked or chipped, if you want to sell the Diamond for a lot of zeny.",
+        "pt": "[Jovem rapaz]\nSe você quiser vender um diamante por muitos Zenys, ele também deve ser uma gema perfeita, sem rachaduras ou lascas.",
+        "es": "[Hombre Joven]\nAdemás, si quieres vender un diamante por muchos zeny, debe ser un cristal perfecto y no estar agrietado ni astillado."
+    },
+    "eFSJ": {
+        "en": "[Young Man]\nBut look! The hardest stone in the world got broken in two!",
+        "pt": "[Jovem Rapaz]\nMas veja! A gema mais dura do mundo se partiu em duas!",
+        "es": "[Hombre Joven]\n¡Pero mira! ¡La piedra más dura del mundo se partió en dos!"
+    },
+    "eVSJ": {
+        "en": "[Young Man]\nI know it's not the time to worry about some gemstones but.. this.. was my everything..",
+        "pt": "[Jovem rapaz]\nEu sei que não é hora de me preocupar com pedras preciosas, mas... ele... era tudo pra mim...",
+        "es": "[Hombre Joven]\nSé que no es momento de preocuparse por unas piedras preciosas, pero… esto… era todo para mí…"
+    },
+    "elSJ": {
+        "en": "[Drunken Young Man]\nWait a second..! Are yooo perhaps an adventurer? Welcome! How's yer trip?\nHeh heh~ Let me tell ya a story. You know I just got outta that Tavern, there, huh?",
+        "pt": "[Jovem Bêbado]\nPeraí...! Você é viajante? Boas-vindas! Como está sendo sua viagem?\nVou te contar uma história. Sabe que acabei de sair daquela taverna, né?",
+        "es": "[Joven borracho]\n¡Espera…! ¿Trotamundos? ¿Eres túúú? ¡Te damos la bienvenida! ¿Cómo 'tuvo el viaje?\nJe, je. Te contaré una historia. Acabo de salir de esa taberna, ¿sabes, eh?"
+    },
+    "e1SJ": {
+        "en": "[Drunken Young Man]\nI heard the Satan Morroc has revived. It just got out of cracking the time and the space blar... hic~",
+        "pt": "[Jovem Bêbado]\nOuvi dizer que o Satã Morroc ressuscitou. Ele acabou de emergir da fissura do tempo e do espaço... hic~",
+        "es": "[Joven borracho]\nEscuché que Satán Morroc revivió. Escapó rompiendo el tiempo y el espacio con un estr… *hip*"
+    },
+    "fFSJ": {
+        "en": "[Drunken Young Man]\nAh... I kinda wanna see that Guy with my own eyes, but! I really shouldn't. I shouldn't even dream of seeing that Satan Guy in person.",
+        "pt": "[Jovem Bêbado]\nAh... Eu até quero ver esse cara com meus próprios olhos, mas melhor não! Nem em sonho eu deveria encarar aquele diabão.",
+        "es": "[Joven borracho]\nAh… Quiero ver a ese tipo con mis propios ojos, ¡pero…! No debo. No debería ni soñar con ver a ese tipo Satán en persona."
+    },
+    "fVSJ": {
+        "en": "[Drunken Young Man]\nBut I think there be nothing ta lose if ya, a person of bravery, who came through the 'ol desert try to find it, don't you think? Teehee~ Don't forget to buy me a drink when ya find it!\nHic!",
+        "pt": "[Jovem Bêbado]\nMas você, uma pessoa corajosa, que cruzou o velho deserto tentando encontrá-lo, não tem nada a perder, não é mesmo? Hihihi~ Vê se me paga uma bebida se você o encontrar!\nHic!",
+        "es": "[Joven borracho]\nPero creo que no hay na' que perder si alguien valiente como tú, que atravesó to'o el desierto pa' venir aquí, tratara de encontrarlo, ¿no? ¡Yuju! ¡No olvides invitarme una copa cuando lo encuentres!\n*¡Hip!*"
+    },
+    "flSJ": {
+        "en": "[Drunken Young Man]\nAnyway, do you know where we are? I just had a little drink at a tavern, but all of a sudden, the whole town's disappeared when I got out.. or, some five hundred years have passed???!",
+        "pt": "[Jovem Bêbado]\nEnfim, você sabe onde estamos? Eu estava bebendo na taverna e aí, quando eu saí, a cidade inteira tinha desaparecido... ou quinhentos anos se passaram e eu não tô sabendo???!",
+        "es": "[Joven borracho]\nEn fin, ¿sabes dónde estamos? Me tomé una copita en una taberna pero, de repente, la ciudad entera ya no estaba cuando salí… ¿o es que han pasado ochenta y cuatro años?"
+    },
+    "f1SJ": {
+        "en": "Pale Looking Young Man",
+        "pt": "Jovem Pálido",
+        "es": "Joven Pálido"
+    },
+    "gFSJ": {
+        "en": "[Pale-looking Young Man]\n... That day... I saw the bloody moon in the sky. It was soo silent that it felt really spooky.",
+        "pt": "[Jovem Pálido]\n... Naquele dia... Eu vi a lua sangrenta no céu. Estava tão silencioso que me senti muito assustado.",
+        "es": "[Joven pálido]\n… Ese día… vi la maldita luna en el cielo. Había un silencio tan profundo que daba miedo."
+    },
+    "gVSJ": {
+        "en": "[Pale-looking Young Man]\nNot even a whistle of dry wind, and the air was so heavy and stuffy, I could hardly breathe.",
+        "pt": "[Jovem de aparência pálida]\nO vento não movia uma mísera folha, e o ar estava tão pesado e abafado que eu mal conseguia respirar.",
+        "es": "[Joven pálido]\nNi siquiera se escuchaba silbar al viento seco y el aire estaba tan pesado y denso que apenas podía respirar."
+    },
+    "glSJ": {
+        "en": "[Pale-looking Young Man]\nBut then, Bang! It was right then that I saw an enormous amount of smoke rising up from the Castle of Morroc with an earsplitting sound.",
+        "pt": "[Jovem Pálido]\nMas aí, buuuum! Foi nesse exato momento que vi uma enorme coluna de fumaça saindo do Castelo de Morroc com um som de arrebentar os tímpanos.",
+        "es": "[Joven pálido]\nY entonces, *¡bum!* Fue justo ahí cuando vi una gran cantidad de humo que salía del Castillo de Morroc con un sonido ensordecedor."
+    },
+    "g1SJ": {
+        "en": "[Pale-looking Young Man]\nIt all happened so fast. The Oasis of the Castle was all dried up and the town was destroyed. And... and that voice... I heard a voice.",
+        "pt": "[Jovem Pálido]\nTudo aconteceu muito rápido. O Oásis do Castelo secou e a cidade foi destruída. E... e aquela voz... Eu ouvi uma voz.",
+        "es": "[Joven pálido]\nSucedió todo tan rápido. El oasis del castillo se secó y la ciudad quedó destruida. Y… y esa voz… Oí una voz."
+    },
+    "hFSJ": {
+        "en": "[Pale-looking Young Man]\n'Blood... Blood is what it takes to pay for the soul...' and that dark sound of laughter...\nAah!!! It's... It's still ringing in my ears!!! Aahhhhh!!!!",
+        "pt": "[Jovem de aparência pálida]\n''Sangue... Sangue é o preço a se pagar pela alma...'' e aquela gargalhada medonha...\nAah!!! Eu... ainda consigo ouvi-lo!!! Aahhhhh!!!!",
+        "es": "[Joven pálido]\nSangre… Sangre es lo que se necesita para pagar por el alma… y luego esa risa oscura…\n¡Ahh! Todavía… ¡Todavía resuena en mi cabeza! ¡Ahhhhh!"
+    },
+    "hVSJ": {
+        "en": "- It'd be better not to disturb him anymore -",
+        "pt": "- É melhor deixá-lo em paz. -",
+        "es": "(Será mejor no molestarlo más)."
+    },
+    "hlSJ": {
+        "en": "Little Girl",
+        "pt": "Garotinha",
+        "es": "Niñita"
+    },
+    "h1SJ": {
+        "en": "[Little Girl]\n-Crying-",
+        "pt": "[Garotinha]\n- Chorando -",
+        "es": "[Niñita]\n*Llorando*"
+    },
+    "iFSJ": {
+        "en": "[Little Girl]\nI'm so scared! Where's mom and dad...! hhooooo... Where's our house...",
+        "pt": "[Garotinha]\nTô com medo! Onde estão mamãe e papai...! Buááááá... Onde está nossa casa...?",
+        "es": "[Niñita]\n¡Tengo tanto miedo! ¡¿Dónde están mamá y papá…?! Buaaa… ¿Dónde está nuestra casa…?"
+    },
+    "iVSJ": {
+        "en": "[Little Boy]\nPlease stop crying, Eliese... You could even faint if you cry all day long, you know...",
+        "pt": "[Garotinho]\nPare de chorar, Eliese... Vai acabar desmaiando se chorar o dia inteiro, viu?",
+        "es": "[Niñito]\nBasta de llorar, Eliese… Podrías desmayarte si lloras todo el día, ¿sabías?"
+    },
+    "ilSJ": {
+        "en": "[Little Girl]\nNo! No... Mommy... Daddy....",
+        "pt": "[Garotinha]\nNão! Não... Mamãe... Papai....",
+        "es": "[Niñita]\n¡No! No… Mamá… Papá…"
+    },
+    "i1SJ": {
+        "en": "Little Boy",
+        "pt": "Garotinho",
+        "es": "Niñito"
+    },
+    "jFSJ": {
+        "en": "[Little Boy]\n............... Let's stop crying, Eliese...",
+        "pt": "[Garotinho]\n............... Chega de choro, Eliese...",
+        "es": "[Niñito]\n............... No lloremos más, Eliese…"
+    },
+    "jVSJ": {
+        "en": "[Little Girl]\nNooooooo... Mommy... Daddy....!!",
+        "pt": "[Garotinha]\nNãooooooo... Mamãe... Papai....!!",
+        "es": "[Niñita]\nNooooooo… Mamá… ¡Papá…!"
+    },
+    "jlSJ": {
+        "en": "[Little Boy]\nMom and Dad are...",
+        "pt": "[Garotinho]\nMamãe e papai estão...",
+        "es": "[Niñito]\nMamá y papá están…"
+    },
+    "j1SJ": {
+        "en": "[Little Girl]\nNo...... noooooo...",
+        "pt": "[Garotinha]\nNão...... nãoooooo...",
+        "es": "[Niñita]\nNo… noooooo…"
+    },
+    "kFSJ": {
+        "en": "[Little Boy]\nRight, you love ice-cream, don't you? I.. I can get you an ice-cream if you stop crying. Don't cry, Eliese, please.. Ok? Don't...",
+        "pt": "[Garotinho]\nCerto, você gosta de sorvete, né? Se você parar de chorar, eu te compro um sorvete. Não chore, Eliese, por favor... Tá? Não...",
+        "es": "[Niñito]\nA ver, te gustan los helados, ¿o no? Yo… Puedo traerte un helado si dejas de llorar. No llores, Eliese, por favor… ¿De acuerdo? No…"
+    },
+    "kVSJ": {
+        "en": "Picky Lady",
+        "pt": "Senhora exigente",
+        "es": "Señora Exigente"
+    },
+    "klSJ": {
+        "en": "[Syvia]\nThe fields of Rune-Midgard are infested with wild and dangerous monsters..But, you've got to admit a bunch of them are soooo cute!.\nYou know, like how Spore sticks out its tongue after you kill it..",
+        "pt": "[Syvia]\nOs campos de Rune-Midgard estão infestados de monstros selvagens e perigosos... Mas você tem que admitir que alguns deles são muito fofos!\nSabe, como quando o Spore coloca a língua para fora depois de ser morto...",
+        "es": "[Syvia]\nLos campos de Rune-Midgard están plagados de monstruos salvajes y peligrosos, ¡pero hay que admitir que algunos son muuuy adorables!\nYa sabes, como cuando las Esporas sacan la lengua después de matarlas…"
+    },
+    "k1SJ": {
+        "en": "[Syvia]\nOr, how little Picky wears that tiny egg shell sometimes?..",
+        "pt": "[Syvia]\nOu, como o pequeno Picky usa sua pequena casca de ovo às vezes?",
+        "es": "[Syvia]\nO el pequeño Picky que a veces tiene un trocito de cáscara de huevo…"
+    },
+    "lFSJ": {
+        "en": "[Syvia]\nI can't believe what just has happened.. Our town used to be the one with those cute little monsters, not that kinda of visious dreadful Evil sleeping in! Whew...",
+        "pt": "[Syvia]\nNão posso acreditar no que aconteceu... Nossa cidade costumava ter monstrinhos bonitinhos, não esses seres visivelmente malignos! Ufa...",
+        "es": "[Syvia]\nNo puedo creer lo que pasó… Nuestra ciudad solía ser la de los monstruitos tiernos, ¡no la de esa maldad cruel y espantosa que se cierne sobre ella! Uf…"
+    },
+    "lVSJ": {
+        "en": "[Syvia]\nI'm so scared... I just wanna ease my mind watching over those cute little Porings...",
+        "pt": "[Syvia]\nEstou apavorada... Só quero abstrair um pouco cuidando desses Porings fofinhos...",
+        "es": "[Syvia]\nTengo tanto miedo… Intentaré tranquilizarme cuidando a esos adorables Poring…"
+    },
+    "llSJ": {
+        "en": "What about Angeling?",
+        "pt": "E o Angeling?",
+        "es": "Preguntar sobre los Angeling."
+    },
+    "l1SJ": {
+        "en": "How about Ghostring?",
+        "pt": "E o Ghostring?",
+        "es": "Preguntar sobre los Ghostring."
+    },
+    "mFSJ": {
+        "en": "Quit Conversation",
+        "pt": "Terminar conversa",
+        "es": "Abandonar la conversación."
+    },
+    "mVSJ": {
+        "en": "[Syvia]\nOoh! Angeling is just like Poring, except it has angel wings!  Of course, I don't know if they can actually fly..",
+        "pt": "[Syvia]\nAhh! O Angeling é um Poring como qualquer outro, só que tem asas de anjo! Sim, eu não sei se podem, de fato, voar...",
+        "es": "[Syvia]\n¡Ooh! Los Angeling son como los Poring, ¡pero con alitas de ángel!  Claro que no sé si realmente pueden volar…"
+    },
+    "mlSJ": {
+        "en": "[Syvia]\nAngelings are rarely seen, but can be found among large groups of Porings living in one of the fields south of Prontera.\nAngeling is a high level monster with Holy property, so it's immune to most magic, aside from spells that have Neutral or Shadow attack properties.",
+        "pt": "[Syvia]\nOs Angelings são raramente vistos, mas podem ser encontrados entre grandes grupos de Porings que vivem em um dos campos ao sul de Prontera.\nO Angeling é um monstro de alto nível de propriedade Sagrada, portanto é imune à maioria das magias, com exceção das magias de propriedade Neutra ou Sombria.",
+        "es": "[Syvia]\nNo es común ver un Angeling, pero puedes encontrarlos entre los numerosos Poring que viven en los campos al sur de Prontera.\nUn Angeling es un monstruo de nivel alto con propiedad Sagrada, por lo que es inmune a gran parte de la magia, excepto a los hechizos con propiedades de ataque Neutral o Sombra."
+    },
+    "m1SJ": {
+        "en": "[Syvia]\nHehe~ Don't you think I know a lot about Porings? I love them soooo much",
+        "pt": "[Syvia]\nHehe~ Viu como eu sei tudo sobre Porings? Eu amoooooo esses bichinhos.",
+        "es": "[Syvia]\nJe, je. ¿No crees que sé mucho sobre los Poring? Me encaaaaantan."
+    },
+    "nFSJ": {
+        "en": "[Syvia]\nHehe... Poring... Hee......",
+        "pt": "[Syvia]\nHehe... Poring... Hihi......",
+        "es": "[Syvia]\nJe, je. Los Poring… Je, je…"
+    },
+    "nVSJ": {
+        "en": "[Syvia]\nGhostring is an evil ghost Poring. It's rarely seen, but can be found among mass groups of Porings living in one of the fields south of Prontera.",
+        "pt": "[Syvia]\nO Ghostring é um Poring espectral maligno. Raramente é visto, mas pode ser encontrado entre grupos de Porings que vivem em um dos campos ao sul de Prontera.",
+        "es": "[Syvia]\nUn Ghostring es un Poring fantasma maligno. No se suelen ver, pero puedes encontrarlos entre los numerosos Poring que viven por los campos al sur de Prontera."
+    },
+    "nlSJ": {
+        "en": "[Syvia]\nGhostring is a high-leveled monster with the Ghost property, so it can withstand all physical attacks.\nDamage can only be caused to Ghostring through magic spells or weapons with an a specific property.",
+        "pt": "[Syvia]\nGhostring é um monstro de alto nível da propriedade Fantasma, portanto, consegue resistir a todos os ataques físicos.\nGhostring só recebe dano por meio de feitiços mágicos ou armas com uma propriedade específica.",
+        "es": "[Syvia]\nUn Ghostring es un monstruo de nivel alto con propiedad Fantasma, por lo que puede resistir todos los ataques físicos.\nSolo puedes causarle daño a un Ghostring con hechizos mágicos o armas con una propiedad específica."
+    },
+    "n1SJ": {
+        "en": "[Syvia]\nHehe~ Don't you think I know a lot about Porings? I love them soooo much~",
+        "pt": "[Syvia]\nHehe~ Viu como eu sei tudo sobre Porings? Eu amoooooo esses bichinhos.",
+        "es": "[Syvia]\nJe, je. ¿No crees que sé mucho sobre los Poring? Me gustan taaaanto."
+    },
+    "oFSJ": {
+        "en": "[Syvia]\nHehe... Poring... Teehee......",
+        "pt": "[Syvia]\nHehe... Poring... Hihi......",
+        "es": "[Syvia]\nJe, je. Los Poring… ¡Yuju!"
+    },
+    "oVSJ": {
+        "en": "Ant Man",
+        "pt": "Homem-Formiga",
+        "es": "Hombre Hormiga"
+    },
+    "olSJ": {
+        "en": "[Akira]\nHey, you. Did you cross the desert?",
+        "pt": "[Akira]\nEi! Você atravessou o deserto?",
+        "es": "[Akira]\nOye, tú. ¿Cruzaste el desierto?"
+    },
+    "o1SJ": {
+        "en": "[Akira]\nWhen you walk through the desert about one map North and 3 maps East, you'll find the entrance to Ant Hell.",
+        "pt": "[Akira]\nCerca de um mapa ao norte e três mapas ao leste no deserto, você encontrará a entrada para o Inferno das Formigas.",
+        "es": "[Akira]\nCuando camines por el desierto como 1 mapa al norte y 3 al este, encontrarás la entrada al Infierno de hormigas."
+    },
+    "pFSJ": {
+        "en": "[Akira]\nThere are two different entrances to the Ant Hell. When you get inside, the 1st and the 2nd underground levels of winding looking caves are connected to each other.",
+        "pt": "[Akira]\nHá duas entradas para o Inferno das Formigas. Quando você entra, o primeiro e o segundo níveis subterrâneos de cavernas sinuosas estão conectados.",
+        "es": "[Akira]\nExisten dos entradas diferentes al Infierno de hormigas. Cuando entres, los niveles subterráneos 1 y 2 de cuevas de aspecto sinuoso están conectados entre sí."
+    },
+    "pVSJ": {
+        "en": "[Akira]\nI'm really wondered how those entrances are after the horrible destruction, but I can't go out.. If you ever hear anything about it, please get me informed.",
+        "pt": "[Akira]\nfico imaginando como ficaram essas entradas depois da terrível destruição, mas não posso sair... Se você souber de algo a respeito, me diga.",
+        "es": "[Akira]\nMe intriga mucho saber cómo estarán esas entradas después de la destrucción espantosa, pero no puedo irme… Si alguna vez oyes algo al respecto, avísame."
+    },
+    "plSJ": {
+        "en": "About 'Ant Hell'",
+        "pt": "Sobre o ''Inferno das Formigas'",
+        "es": "Preguntar sobre el Infierno de hormigas."
+    },
+    "p1SJ": {
+        "en": "About Ants",
+        "pt": "Sobre as formigas",
+        "es": "Preguntar sobre las Hormigas."
+    },
+    "qFSJ": {
+        "en": "End Conversation",
+        "pt": "Terminar conversa",
+        "es": "Terminar la conversación."
+    },
+    "qVSJ": {
+        "en": "[Akira]\nThat cave is sure a dangerous hell, sticky and all... There are 2 underground levels.\nJust head East till you see the bridge which connects to the Payon Forest.",
+        "pt": "[Akira]\nEssa caverna é realmente um inferno, cheia de gosma e tudo mais... Ela possui dois níveis subterrâneos.\nBasta ir para o leste até ver a ponte que se conecta à Floresta de Payon.",
+        "es": "[Akira]\nEsa cueva es un infierno peligroso, pegajoso y demás… Hay 2 niveles subterráneos.\nDirígete hacia el este hasta que veas el puente que conecta con el Bosque de Payon."
+    },
+    "qlSJ": {
+        "en": "[Akira]\nIn the map right before that bridge, head north to find the entrance to Ant Hell, though I'm not sure if it's still there.",
+        "pt": "[Akira]\nNo mapa anterior à ponte, siga para o norte para encontrar a entrada do Inferno das Formigas, embora eu não tenha certeza se ela ainda está lá.",
+        "es": "[Akira]\nEn el mapa, justo antes de ese puente, ve al norte y encontrarás la entrada al Infierno de hormigas, pero no sé si sigue ahí."
+    },
+    "q1SJ": {
+        "en": "[Akira]\nAnt Hell is swarming with Ant monsters. You'll notice that they all classed with different names...",
+        "pt": "[Akira]\nO Inferno das Formigas está repleto de formigas monstruosas. Você verá que todas elas são classificadas com nomes diferentes...",
+        "es": "[Akira]\nEl Infierno de hormigas está plagado de monstruos Hormiga. Te darás cuenta que se clasifican con nombres diferentes…"
+    },
+    "rFSJ": {
+        "en": "[Akira]\nAndre is the weakest, Piere is comparatively average, and Deniro is the strongest Ant. Keep that in mind so you can fight the Ants suitable to your level.",
+        "pt": "[Akira]\nAndre é a mais fraca, Piere é de tamanho mediano e Deniro é a formiga mais forte. Lembre-se disso para lutar contra formigas do seu nível.",
+        "es": "[Akira]\nAndre es la Hormiga más débil, Piere es más o menos la mediocre y Deniro es la más fuerte. Tenlo en cuenta para poder pelear contra ellas de acuerdo a tu nivel."
+    },
+    "rVSJ": {
+        "en": "[Akira]\nAndre is colored in Ivory, Yellowish Green is Piere, and the Red one is Deniro.\nIt's really easy to distinguish those from Bitata, the commen ants because they look very different.",
+        "pt": "[Akira]\nAndre é cor de marfim, Piere é verde-limão e a vermelha é Deniro.\nÉ muito fácil distinguir essas formigas das Vitatas, as formigas comuns, pois são bem diferentes.",
+        "es": "[Akira]\nAndre es de color marfil, la verde amarillenta es Piere y la roja es Deniro.\nEs muy fácil distinguirlas de las Vitata, las hormigas comunes, porque se ven muy diferentes."
+    },
+    "rlSJ": {
+        "en": "[Akira]\nOh, and those ants are greedy as Porings and will try to steal your items, so keep that in mind.",
+        "pt": "[Akira]\nAh, essas formigas são gananciosas como os Porings e tentarão roubar seus itens. Não se esqueça.",
+        "es": "[Akira]\nAh, esas hormigas son avaras como los Poring e intentarán robarte objetos, así que tenlo presente."
+    },
+    "r1SJ": {
+        "en": "[Akira]\nIf you ever, could cross the desert without any disturbances from the Satan...",
+        "pt": "[Akira]\nAh, se pudéssemos atravessar o deserto sem nenhuma perturbação do Demônio...",
+        "es": "[Akira]\nSi alguna vez puedes cruzar el desierto sin que Satán te moleste…"
+    },
+    "sFSJ": {
+        "en": "[Akira]\nThere's also an old man called Guias, the spirit of the earth. He's pretty hard to deal with.",
+        "pt": "[Akira]\nHá também um velho chamado Guias, o espírito da terra. Ele é bem difícil de lidar.",
+        "es": "[Akira]\nTambién hay un anciano llamado Guias, el espíritu de la tierra. Es muy difícil tratar con él."
+    },
+    "sVSJ": {
+        "en": "[Akira]\nSharp teeth and strong jaws of the ants would be something that you should be careful of, but the shovelling skills of that old granpa is very strong that you should watch out.",
+        "pt": "[Akira]\nOs dentes afiados e mandíbulas fortes das formigas são perigosíssimos, mas as habilidades de escavação desse velhinho são muito fortes. Tome cuidado!",
+        "es": "[Akira]\nDeberías tener cuidado con los dientes afilados y las fuertes mandíbulas de las Hormigas, pero las habilidades con la pala de ese abuelote son tan notables que no deberías pasarlas por alto."
+    },
+    "slSJ": {
+        "en": "[Akira]\n...Well, what am I talking about? What is left to be afraid when the Satan of Morroc is revived? Huh..huhhuh...",
+        "pt": "[Akira]\n... Bem, de que adianta divagar? Depois que o Satã Morroc for revivido, não teremos mais nada a temer, né? Ha...hahaha...",
+        "es": "[Akira]\n… Bueno, ¿pero qué digo? ¿Hay otra cosa más grave a que temerle después de que Satán Morroc revivió? Ah… uf, uf…"
+    },
+    "s1SJ": {
+        "en": "Assassin Boy",
+        "pt": "Garoto Mercenário",
+        "es": "Niño Asesino"
+    },
+    "tFSJ": {
+        "en": "[Slayer Kid]\nUnbeatable in man-to-man fights, Assassins always overcome their enemies! Erm, always overcome their enemies without a trace.",
+        "pt": "[Garoto Mercenário]\nImbatíveis nos confrontos homem-a-homem, os Mercenários sempre vencem seus inimigos! Err, sempre vencem seus inimigos sem deixar rastros.",
+        "es": "[Niño exterminador]\n¡Siendo invencibles en peleas uno contra uno, los Asesinos siempre vencen a sus enemigos! Em, siempre vencen a sus enemigos sin dejar rastro."
+    },
+    "tVSJ": {
+        "en": "[Slayer Kid]\nBut what did they do when this destruction happened in Morroc!!!",
+        "pt": "[Garoto Mercenário]\nMas onde eles estavam quando Morroc foi destruída!!!",
+        "es": "[Niño exterminador]\n¡Pero dónde estaban cuando se destruyó toda Morroc!"
+    },
+    "tlSJ": {
+        "en": "?????",
+        "pt": "?????",
+        "es": "¿¿¿???"
+    },
+    "t1SJ": {
+        "en": "Where I can find the Assassin clan?",
+        "pt": "Onde posso encontrar o Clã dos Mercenários?",
+        "es": "¿Dónde puedo encontrar al clan de Asesinos?"
+    },
+    "uFSJ": {
+        "en": "[Slayer Kid]\nI hear Assassins practice killing people, quietly and stealthfully..",
+        "pt": "[Garoto Mercenário]\nSoube que os Mercenários matam pessoas, de forma silenciosa e furtiva.",
+        "es": "[Niño exterminador]\nEscuché que los Asesinos practican cómo matar gente en silencio y con sigilo…"
+    },
+    "uVSJ": {
+        "en": "[Slayer Kid]\nI left home three years ago, and have been searching for their secret base ever since...\nAre they really that invisible?!",
+        "pt": "[Garoto Mercenário]\nSaí de casa há três anos e, desde então, estou em busca da base secreta deles...\nEles são tão invisíveis assim?!",
+        "es": "[Niño exterminador]\nMe fui de casa hace tres años y, desde entonces, estuve buscando su base secreta…\n¡¿Realmente son tan invisibles?!"
+    },
+    "ulSJ": {
+        "en": "[Slayer Kid]\nWell.. Maybe it'd too late now..\nNow that the whole town's destroyed... I don't even care what happenes next...",
+        "pt": "[Garoto Mercenário]\nBem... Talvez seja tarde demais...\nAgora que a cidade inteira está destruída... não quero nem saber o que vai acontecer depois...",
+        "es": "[Niño exterminador]\nBueno… Quizá ya sea muy tarde…\nAhora que toda la ciudad está destruida… Ya no me importa lo que pase después…"
+    },
+    "u1SJ": {
+        "en": "[Slayer Kid]\nYou know what...\nIt seemed to be impossible to find.",
+        "pt": "[Garoto Mercenário]\nBem...\nParecia ser impossível de encontrar.",
+        "es": "[Niño exterminador]\n¿Sabes qué…?\nParecían imposibles de encontrar."
+    },
+    "vFSJ": {
+        "en": "[Slayer Kid]\nWell, I hear that if you leave this town and go 2 maps east, and then 2 maps South, you should be able to find it..",
+        "pt": "[Garoto Mercenário]\nOlha, ouvi dizer que, se você sair desta cidade e for 2 mapas para o leste e 2 mapas para o sul, poderá encontrá-la.",
+        "es": "[Niño exterminador]\nMira, escuché que si sales de la ciudad y vas 2 mapas al este y luego 2 mapas al sur, deberías poder encontrarlos…"
+    },
+    "vVSJ": {
+        "en": "[Slayer Kid]\nThe 'Mirage Tower,' the head building of Sograt Desert, is supposed to appear in this awesome sandstorm! But, I still haven't found it.",
+        "pt": "[Garoto Mercenário]\nA ''Torre da Miragem'', a principal edificação do Deserto de Sograt, supostamente surge nessa incrível tempestade de areia! Mas eu ainda não a encontrei.",
+        "es": "[Niño exterminador]\nParece que la Torre del espejismo, el edificio principal del desierto Sograt, ¡aparece en medio de una gran tormenta de arena! Pero aún no la encontré."
+    },
+    "vlSJ": {
+        "en": "[Slayer Kid]\nIf you find them, and the clan master thinks you're qualified, you can become an Assassin! Or, at least, I think..",
+        "pt": "[Garoto Mercenário]\nSe você a encontrar e o mestre do clã achar que você tem as qualificações, pode se tornar um Mercenário! Ou, pelo menos, eu acho que sim...",
+        "es": "[Niño exterminador]\nSi los encuentras y el maestro del clan cree que tienes lo necesario, ¡podrías unirte a la clase de Asesinos! O, al menos, eso creo…"
+    },
+    "v1SJ": {
+        "en": "[Slayer Kid]\nAnd I hear the coolest Assassin of them all is the Assassin Cross! But, that's even a bigger mystery~ You won't be able to see them unless you're a great thief!",
+        "pt": "[Garoto Mercenário]\nE ouvi dizer que a classe de Mercenário mais legal de todos são os Algozes! Mas esses são ainda mais misteriosos~ Você não conseguirá vê-los a menos que seja um grande ladrão!",
+        "es": "[Niño exterminador]\n¡También escuché que, entre los Asesinos, los más geniales son los Asesinos cruzados! Pero, ese es un misterio aún mayor. ¡No podrás verlos si no eres hábil robando!"
+    },
+    "wFSJ": {
+        "en": "[Slayer Kid]\nBut then... What the hell were they doing when Morroc was destroyed?!!!",
+        "pt": "[Garoto Mercenário]\nMas então... O que eles estavam fazendo quando Morroc foi destruída?!!!",
+        "es": "[Niño exterminador]\nPero entonces… ¡¿Qué demonios hacían cuando Morroc fue destruida?!"
+    },
+    "wVSJ": {
+        "en": "[Slayer Kid]\nAssassin is one of the advanced jobs for Thief, and specializes in fighting with Neutral and Poison property attacks.",
+        "pt": "[Garoto Mercenário]\nO Mercenário é uma classe avançada de Ladrão. São especialistas em combates e realizam ataques de propriedades neutras e venenosas.",
+        "es": "[Niño exterminador]\nEl Asesino es una de las clases avanzadas del Ladrón y se especializa en peleas con ataques de propiedad Neutral y Veneno."
+    },
+    "wlSJ": {
+        "en": "[Slayer Kid]\nThey're also very sneaky! I hear that they're able to cloak so that no one can see them!",
+        "pt": "[Garoto Mercenário]\nEles também são muito sorrateiros! Soube que eles são capazes de se camuflar para que ninguém os veja!",
+        "es": "[Niño exterminador]\n¡Y tiene una gran astucia! ¡Escuché que pueden camuflarse para que nadie los vea!"
+    },
+    "w1SJ": {
+        "en": "Dimitri",
+        "pt": "Dimitri",
+        "es": "Dimitri"
+    },
+    "xFSJ": {
+        "en": "[Dimitri]\nThe desert of Morroc has the highest average temperature in Midgard. You might as well think twice before you sit on the sand in the middle of the desert, cause your ass will be toasted.",
+        "pt": "[Dimitri]\nO deserto de Morroc tem a temperatura média mais alta de Midgard. Pense bem antes de se sentar na areia no meio do deserto, porque vai acabar torrando sua bunda.",
+        "es": "[Dimitri]\nEl desierto de Morroc tiene la temperatura media más alta de Midgard. Deberías pensarlo dos veces antes de sentarte en la arena en medio del desierto, porque se te van a rostizar las nalgas."
+    },
+    "xVSJ": {
+        "en": "About the desert sands",
+        "pt": "Sobre as areias do deserto",
+        "es": "Preguntar sobre las arenas del desierto."
+    },
+    "xlSJ": {
+        "en": "About the remedy for Fatigue",
+        "pt": "Sobre o remédio para fadiga",
+        "es": "Preguntar sobre el remedio para la Fatiga."
+    },
+    "x1SJ": {
+        "en": "[Dimitri]\n......What I mean is that...\nIt seems like it should be all burnt, but it's not!",
+        "pt": "[Dimitri]\n...... O que quero dizer é que...\nSupostamente tudo deveria queimar, mas não!",
+        "es": "[Dimitri]\n… Lo que quiero decir es que…\nparece como si todo estuviera ardiendo, ¡pero no!"
+    },
+    "yFSJ": {
+        "en": "[Dimitri]\nYou can sit down and take a rest whenever you need to and your ass won't burn. I guess the Morroc sand doesn't conduct heat as much as it should.",
+        "pt": "[Dimitri]\nVocê pode se sentar e descansar sempre que precisar e sua bunda não vai queimar. Acho que a areia de Morroc não conduz tanto o calor quanto deveria.",
+        "es": "[Dimitri]\nPuedes sentarte y descansar cuando lo necesites y no se te quemará el trasero. Creo que la arena de Morroc no conduce el calor tanto como debería."
+    },
+    "yVSJ": {
+        "en": "[Dimitri]\nThat's why everyone could recover the HP and SP in the middle of desert.",
+        "pt": "[Dimitri]\nÉ por isso que todos conseguem recuperar o HP e o SP no meio do deserto.",
+        "es": "[Dimitri]\nPor eso todo el mundo puede recuperar sus HP y SP en medio del desierto."
+    },
+    "ylSJ": {
+        "en": "[Dimitri]\nNow I come to think of it, maybe the reason why Morroc has exceptionally high average temperature is because that Satan is sealed within.",
+        "pt": "[Dimitri]\nPensando bem, talvez a razão pela qual Morroc tenha uma temperatura média tão alta seja pelo fato de que o próprio Demônio está preso lá dentro.",
+        "es": "[Dimitri]\nAhora que lo pienso, quizá el motivo por el que Morroc tiene una temperatura media tan alta sea porque ese Satán está ahí sellado."
+    },
+    "y1SJ": {
+        "en": "[Dimitri]\nRecovery!\nThat's what the potions are for!\nRed Potions have become steadily popular since they're so affordable, even though they only recover a little bit of HP.",
+        "pt": "[Dimitri]\nRecuperação!\nÉ para isso que servem as poções!\nAs poções vermelhas têm se tornado cada vez mais populares por serem muito baratas, apesar de recuperarem só um pouco de HP.",
+        "es": "[Dimitri]\n¡Recuperación!\n¡Para eso están las pociones!\nLas Pociones rojas se han vuelto muy populares porque son muy baratas, aunque solo recuperan un poco de HP."
+    },
+    "zFSJ": {
+        "en": "[Dimitri]\nTry this bottle of ice-cold potion when you go into the Oasis around the Pyramid...\nYeah.. you want this bad.. but the situation's not good...",
+        "pt": "[Dimitri]\nExperimente esse frasco de poção gelada quando chegar ao Oásis em torno da Pirâmide...\nSim... você quer muito isso... mas a situação é grave...",
+        "es": "[Dimitri]\nPrueba este frasco de poción helada cuando te adentres en el oasis cerca de la Pirámide…\nSí… la querrás mucho… pero la situación no es buena…"
+    },
+    "zVSJ": {
+        "en": "[Dimitri]\nSometimes 'Milk' comes out of 'PecoPeco's Egg.' Now..\nI'm not sure how the cow's milk comes out of some bird's egg...",
+        "pt": "[Dimitri]\nÀs vezes, sai 'Leite' do 'Ovo de PecoPeco'.\nNão faço ideia de como sai leite de vacado ovo de um pássaro...",
+        "es": "[Dimitri]\nA veces sale Leche de un Huevo de Peco Peco. Ahora…\nNo sé cómo sale leche de vaca del huevo de un pájaro…"
+    },
+    "zlSJ": {
+        "en": "[Dimitri]\nI may not be a man of science, but how is that even possible?.\nI mean, did the Milk come prepackaged with the egg, or did it get in there somehow?..\nOh, whatever.. It's just not the time for this.",
+        "pt": "[Dimitri]\nPosso não ser uma pessoa de muito estudo, mas como isso é possível?\nDigo, o leite veio pré-embalado com o ovo, ou ele entrou lá de alguma forma?\nAh, tanto faz... Não é o momento para isso.",
+        "es": "[Dimitri]\nPuede que no sea un hombre de ciencia, ¿pero cómo es posible?\nQuiero decir, ¿la leche ya viene con el huevo o se mete ahí de alguna manera…?\nAy, qué se yo… No es momento para esto."
+    },
+    "z1SJ": {
+        "en": "Fly Man",
+        "pt": "Homem Mosca",
+        "es": "Hombre mosca"
+    },
+    "0FSJ": {
+        "en": "[Armani]\nOoh, Woooowwww.",
+        "pt": "[Armani]\nAhh, Uaaaaaaaauuu.",
+        "es": "[Armani]\nUhh, guaaaaaau."
+    },
+    "0VSJ": {
+        "en": "[Armani]\nI... I really saw it.... The Fly Lord gets shattered in pieces in a blink of an eye...",
+        "pt": "[Armani]\nEu... Eu vi com meus próprios olhos.... O Senhor das Moscas despedaçado em um piscar de olhos...",
+        "es": "[Armani]\nYo… Lo vi… La mosca líder se hace pedazos en un abrir y cerrar de ojos…"
+    },
+    "0lSJ": {
+        "en": "[Armani]\nWhat is really going on? Would it be possible for us to survive??",
+        "pt": "[Armani]\nO que está acontecendo? Como vamos sobreviver??",
+        "es": "[Armani]\n¿Qué pasa realmente? ¿Sería posible para nosotros sobrevivir?"
+    },
+    "01SJ": {
+        "en": "The Fly Lord?!",
+        "pt": "O Senhor das Moscas?!",
+        "es": "¡¿La mosca líder?!"
+    },
+    "1FSJ": {
+        "en": "[Armani]\nYes, yes! I'm talking about the Dragon Fly, master of all flies!!\nThe Dragon Fly is a special one that stays in the North-east of the town.",
+        "pt": "[Armani]\nSim, sim! Estou falando do Libélula, o mestre de todas as moscas!!!\nO Libélula é uma mosca especial que fica na região nordeste da cidade.",
+        "es": "[Armani]\n¡Sí, sí! ¡Hablo de la Libélula, maestra de todas las moscas!\nLa Libélula es una raza especial que vive en el noreste de la ciudad."
+    },
+    "1VSJ": {
+        "en": "[Armani]\nIt's so much stronger than the other flies.",
+        "pt": "[Armani]\nÉ muito mais forte do que as outras moscas.",
+        "es": "[Armani]\nEs mucho más fuerte que las otras moscas."
+    },
+    "1lSJ": {
+        "en": "[Armani]\nAnd when you kill it, there's even a chance that you might earn a ^880000Clip^000000 item!",
+        "pt": "[Armani]\nE quando você o mata, há a chance dele conceder o item ^880000Presilha^000000!",
+        "es": "[Armani]\nIncluso, cuando la matas, ¡existe la posibilidad de que obtengas un ^880000Broche^000000!"
+    },
+    "11SJ": {
+        "en": "[Armani]\nAnyways, don't you think that Satan Morroc is so cruel?\nThey may not be the same kind, but still isn't it cruel to take that monster's soul with a single blow?",
+        "pt": "[Armani]\nDe qualquer forma, você não acha que Satã Morroc é muito cruel?\nEles são completamente diferentes, mas ainda assim, não acha cruel tirar a vida do monstrinho com um único golpe?",
+        "es": "[Armani]\nY bueno, ¿no crees que Satán Morroc es cruel?\nPuede que no sean lo mismo, ¿pero igual no es cruel quitarle la vida a ese monstruo de un solo golpe?"
+    },
+    "2FSJ": {
+        "en": "[Armani]\nWhat should we do when this dreadful evil has come to life again!",
+        "pt": "[Armani]\nO que vamos fazer quando esse ser terrível voltar à vida!",
+        "es": "[Armani]\n¿Qué hacemos ahora que este ser terriblemente maligno volvió a la vida?"
+    },
+    "2VSJ": {
+        "en": "Uncle Morroc",
+        "pt": "Tio Morroc",
+        "es": "Tío Morroc"
+    },
+    "2lSJ": {
+        "en": "[Phlanette]\nMorroc is located in an extremely dry region, surrounded by desert.\nNo place in the world is as hot as Morroc.",
+        "pt": "[Phlanette]\nMorroc está localizada em uma região extremamente seca, cercada pelo deserto.\nNenhum lugar no mundo é tão quente quanto Morroc.",
+        "es": "[Phlanette]\nMorroc está en una región extremadamente seca, rodeada de desierto.\nNo hay lugar tan caluroso como Morroc."
+    },
+    "21SJ": {
+        "en": "[Phlanette]\nI have a hunch that this hot and dry climate in Morroc is caused by the power of Satan Morroc.",
+        "pt": "[Phlanette]\nTenho a impressão de que esse clima quente e seco em Morroc é causado pelo poder do Satã Morroc.",
+        "es": "[Phlanette]\nSospecho que lo que causa este clima cálido y seco en Morroc es el poder de Satán Morroc."
+    },
+    "3FSJ": {
+        "en": "Tell me about the desert.",
+        "pt": "Fale-me sobre o deserto.",
+        "es": "Cuéntame sobre el desierto."
+    },
+    "3VSJ": {
+        "en": "[Phlanette]\nUm.. I'll briefly tell ya about the desert if you want to know.\nDue to low annual rainfall, low humidity and high evaporation rate, little vegetation can be found in the desert.",
+        "pt": "[Phlanette]\nHum... Posso contar o que sei do deserto, se quer saber.\nDevido à baixa precipitação anual, à baixa umidade e à alta taxa de evaporação, há pouca vegetação no deserto.",
+        "es": "[Phlanette]\nEh… Te hablaré un poco del desierto si quieres saber.\nPor las pocas precipitaciones anuales, la baja humedad y la alta tasa de evaporación, hay poca vegetación en el desierto."
+    },
+    "3lSJ": {
+        "en": "[Phlanette]\nNonetheless, there are a few hardy plants that can survive and grow in the desert.",
+        "pt": "[Phlanette]\nNo entanto, existem algumas plantas resistentes que podem sobreviver e crescer no deserto.",
+        "es": "[Phlanette]\nSin embargo, hay algunas plantas resistentes que pueden sobrevivir y crecer."
+    },
+    "31SJ": {
+        "en": "[Phlanette]\nUnfortunately some of those plants growing around Morroc have been mutated into monsters.\nOne of those is Muka, the mutated cactus..",
+        "pt": "[Phlanette]\nInfelizmente, algumas das plantas que crescem ao redor de Morroc sofreram mutações e se transformaram em monstros.\nUm deles é o Muka, o cacto mutante.",
+        "es": "[Phlanette]\nPor desgracia, algunas de estas plantas que rodean Morroc mutaron y se volvieron monstruos.\nUno de ellos es Muka, el cactus mutante…"
+    },
+    "4FSJ": {
+        "en": "[Phlanette]\nHowever, now that Satan Morroc has revived, no one's sure of what changes would be made in the life cycles of Morroc.",
+        "pt": "[Phlanette]\nNo entanto, agora que o Satã Morroc ressuscitou, ninguém sabe o que vai acontecer com o ciclo de vida de Morroc.",
+        "es": "[Phlanette]\nPero ahora que Satán Morroc revivió, nadie sabe qué cambios se avecinan en los ciclos vitales de Morroc."
+    },
+    "4VSJ": {
+        "en": "[Phlanette]\nHere and there!\nSand everywhere...\nOh, I curse you, the desert of Morroc!!\nDamn you!",
+        "pt": "[Phlanette]\nAreia aqui, areia acolá!\nAreia por toda parte...\nAh, eu te odeio, deserto de Morroc!!!\nMaldito seja!",
+        "es": "[Phlanette]\n¡Por aquí y por allá!\nHay arena por doquier…\n¡Ay, te maldigo, desierto de Morroc!\n¡Maldito seas!"
+    },
+    "4lSJ": {
+        "en": "[Phlanette]\nBut out of all this hatred, I didn't want it to be completely destroyed...",
+        "pt": "[Phlanette]\nPorém, mesmo eu odiando tanto o deserto, não queria que ele fosse completamente destruído...",
+        "es": "[Phlanette]\nPero más allá del odio, no quería que quedara todo destruido…"
+    },
+    "41SJ": {
+        "en": "[Phlanette]\nHow come it's never possible to know its value while it's still around?",
+        "pt": "[Phlanette]\nPor que a gente só dá valor às coisas depois de perdê-las?",
+        "es": "[Phlanette]\n¿Cómo es que nunca podemos valorar algo mientras lo tenemos?"
+    },
+    "5FSJ": {
+        "en": "Uncle Assassin",
+        "pt": "Tio Mercenário",
+        "es": "Tío Asesino"
+    },
+    "5VSJ": {
+        "en": "[Hashisid]\n. . .Assassins are trained\nto approach their enemies steathily,\n as well as\nto shroad their intent.\nFor this purpose,\nwe never\nlook our targets in the eye.",
+        "pt": "[Hashisid]\n. Os Mercenários são treinados\npara se aproximarem de seus inimigos furtivamente,\nbem como\npara esconder suas intenções.\nPor isso,\nnunca\nolhamos nossos alvos nos olhos.",
+        "es": "[Hashisid]\n…Los Asesinos entrenan\npara acercarse a sus enemigos con sigilo,\n y también\npara encubrir su intención.\nPara ello,\nnunca miramos\na nuestros objetivos a los ojos."
+    },
+    "5lSJ": {
+        "en": "Notion of Assassin",
+        "pt": "Noção de Mercenário",
+        "es": "¿Qué son los Asesinos?"
+    },
+    "51SJ": {
+        "en": "[Hashisid]\nWell, then..\nI'll tell you what it is!\nAssassins ..\nmay be commonly known as\ninfiltrators and murderers\nwho kill without remorse.",
+        "pt": "[Hashisid]\nBem, então...\nVou lhe contar!\nMercenários...\ntambém popularmente conhecidos como\nespiões e assassinos\nque matam sem remorso.",
+        "es": "[Hashisid]\nBueno…\n¡te diré lo que son!\nLos Asesinos…\nsuelen conocerse como\ninfiltrados y sicarios\nque matan sin remordimiento."
+    },
+    "6FSJ": {
+        "en": "[Hashisid]\nIn actuality,\nthe Assassin clan\nis forbidden to harm innocent people,\nor at least,\nnot without good reason",
+        "pt": "[Hashisid]\nNa verdade,\no clã Mercenário\né proibido de ferir pessoas inocentes,\nou, pelo menos,\nnão sem um bom motivo.",
+        "es": "[Hashisid]\nEn realidad,\nel clan de Asesinos\ntiene prohibido lastimar a gente inocente\no, al menos,\nsin un buen motivo."
+    },
+    "6VSJ": {
+        "en": "[Hashisid]\nOur true directive is to assassinate evil creatures,\nand to use our stealth to gather intelligence\nfor the good of all Rune-Midgard.",
+        "pt": "[Hashisid]\nNossa missão primária é eliminar criaturas malignas\ne usar de nossa furtividade para coletar informações\npara o bem de toda Rune-Midgard.",
+        "es": "[Hashisid]\nLa verdadera directiva es asesinar monstruos malignos\ny usar el sigilo a modo de espionaje\npor el bien de todo Rune-Midgard."
+    },
+    "6lSJ": {
+        "en": "[Hashisid]\nOnce upon a time,\nour ancestors would\nsmoke tobacco called 'Hashish'\nbefore performing their duties.\nHowever, we no longer do so,\nsince insect or animal monsters are\nvery senstive to the smell.",
+        "pt": "[Hashisid]\nEra uma vez,\nnossos ancestrais\nfumavam um tabaco chamado 'Hashish'\nantes de realizar suas tarefas.\nNo entanto, não fazemos mais isso,\npois alguns monstros ou animais são\nmuito sensíveis ao cheiro.",
+        "es": "[Hashisid]\nHace muchísimo tiempo,\nnuestros antepasados\nfumaban un tabaco llamado hachís\nantes de desempeñar sus funciones.\nSin embargo, ya no lo hacemos\nporque los monstruos de tipo insecto y animal\nson muy sensibles al olor."
+    },
+    "61SJ": {
+        "en": "[Hashisid]\nWe strictly prohibit\nsmoking or eating\nanything that has\nstrong smell...\nIf you ever,\ntry eating those\nsmelly garlic bread with spicies,",
+        "pt": "[Hashisid]\nFumar ou comer\nqualquer coisa que tenha\ncheiro forte é totalmente proibido...\nExperimente comer aqueles pães de alho\ncom especiarias fedorentos,",
+        "es": "[Hashisid]\nProhibimos rotundamente\nfumar o comer\ncualquier cosa que tenga\nun olor fuerte…\nSi alguna vez\npruebas comer\nel aromático pan de ajo con especias"
+    },
+    "7FSJ": {
+        "en": "[Hashisid]\nand try hiding against\nthose wild boars or wolves,\nbelieve me,\nyou'll be ripped in pieces.",
+        "pt": "[Hashisid]\ne tente se esconder de\njavalis ou lobos selvagens,\nVai por mim,\neles vão te fazer em pedaços.",
+        "es": "[Hashisid]\ny esconderte de esos\njabalíes o lobos salvajes,\ncréeme que\nte harán pedazos."
+    },
+    "7VSJ": {
+        "en": "Assassin",
+        "pt": "Mercenário",
+        "es": "Asesino"
+    },
+    "7lSJ": {
+        "en": "[DeeBee]\nOnce Thiefs are promoted\nto Assassins, which is very professional\nthey will be able to vary their battle style.\ntheir battle style.\nThere are 2 main battle styles available to Assassins.\nThey may either wield dual daggers,\nor fight with a set of Katars!",
+        "pt": "[DeeBee]\nQuando os Ladrões são promovidos\na Mercenários, o que é uma grande conquista,\neles podem variar seu estilo de luta.Os Mercenários possuem dois estilos de luta.\nEles podem empunhar duas adagas,\nou lutar com Katars!",
+        "es": "[DeeBee]\nCuando un Ladrón asciende\na Asesino, que es un nivel muy profesional,\npodrá variar\nsu estilo de pelea.\nHay 2 estilos de pelea principales disponibles para Asesinos.\n¡Pueden empuñar Dagas dobles\no pelear con un par de Katares!"
+    },
+    "71SJ": {
+        "en": "Specialty of Katar",
+        "pt": "Estilo de luta com Katars",
+        "es": "Preguntar por la especialidad con Katar."
+    },
+    "8FSJ": {
+        "en": "Specialty of Dual Daggers",
+        "pt": "Estilo de luta com duas adagas",
+        "es": "Preguntar por la especialidad con Dagas dobles."
+    },
+    "8VSJ": {
+        "en": "[DeeBee]\nA set of Katars is\nworn on both of the hands,\nand allows Assassins\nto quickly slash their enemies.\nAnyone can buy a basic set of Katars\nin Morroc somewhere.\nOf course, only Assassins can use them.",
+        "pt": "[DeeBee]\nAs Katars são\nusado em ambas as mãos.\nCom elas, os Mercenários\ncortam rapidamente seus inimigos.\nQualquer pessoa pode comprar um par básico de Katars\nem algum lugar de Morroc.\nPorém, somente os Mercenários conseguem usá-las.",
+        "es": "[DeeBee]\nEl par de Katares\nse usa en ambas manos\ny permite a los Asesinos\ncortar rápido a sus enemigos.\nCualquiera puede comprar unos Katares básicos\nen cualquier lugar de Morroc.\nClaro que solo los Asesinos pueden usarlos."
+    },
+    "8lSJ": {
+        "en": "[DeeBee]\nThe right Katar\nusually does more damage,\nwhile the left Katar\nis used for the follow-through.\nBut since Katars are equipped on both hands,\nyou can't equip a shield or an extra weapon.",
+        "pt": "[DeeBee]\nO Katar da mão direita\ngeralmente causa mais danos,\nenquanto o Katar esquerdo\né usado como complemento.\nComo os katars ocupam ambas as mãos,\nvocê não pode equipar um escudo ou uma arma extra.",
+        "es": "[DeeBee]\nEl Katar derecho\nsuele hacer más daño,\nmientras que el izquierdo\nse usa para dar el golpe final.\nComo los Katares se equipan en ambas manos,\nno puedes equiparte un escudo o un arma adicional."
+    },
+    "81SJ": {
+        "en": "[DeeBee]\nCompared to Dual Daggers,\nKatars have faster attack speed.\nAlso, the ^663399Sonic Blow^000000 skill\ncan only be used with Katars.",
+        "pt": "[DeeBee]\nEm comparação com as Duas Adagas,\nos Katars têm velocidade de ataque mais rápida.\nAlém disso, a habilidade ^663399Lâminas Destruidoras^000000\nsó pode ser usada com Katars.",
+        "es": "[DeeBee]\nComparados con las Dagas dobles,\nlos Katares tienen mayor velocidad de ataque.\nAdemás, la habilidad ^663399Impacto sónico^000000\nsolo se puede usar con Katares."
+    },
+    "9FSJ": {
+        "en": "[DeeBee]\nYou can learn the Sonic Blow skill\nat ^663399Level 4 Katar Mastery^000000.\nIf you're an Assassin,\nit's a handy skill to know.",
+        "pt": "[DeeBee]\nVocê pode aprender a habilidade Lâminas Destruidoras\nna ^663399Perícia com Katar de Nv. 4^000000.\nÉ uma habilidade bastante\nútil para Mercenários.",
+        "es": "[DeeBee]\nPuedes aprender la habilidad Impacto sónico\nen el ^663399nivel 4 de la Maestría de Katar^000000.\nSi eres Asesino,\nes una habilidad muy útil."
+    },
+    "9VSJ": {
+        "en": "[DeeBee]\nSonic Blow is the skill\nthat inflicts 8 contineous hits of\nNeutral damage.",
+        "pt": "[DeeBee]\nLâminas Destruidoras é uma habilidade\nque inflige 8 acertos contínuos de\ndano neutro.",
+        "es": "[DeeBee]\nImpacto sónico es la habilidad\nque inflige 8 golpes continuos de\ndaño Neutral."
+    },
+    "9lSJ": {
+        "en": "[DeeBee]\nDual Daggers\nenables you to equip\n2 different kinds of Daggers\nat the same time.\nOf course,\nthere are other weapons you can equip\naside from daggers,",
+        "pt": "[DeeBee]\nDuas Adagas\npermite que você equipe\n2 adagas diferentes\nao mesmo tempo.\nObviamente,\nvocê pode equipar outras armas\nalém das adagas,",
+        "es": "[DeeBee]\nLas Dagas dobles\nte permiten equipar\n2 tipos diferentes de dagas\nal mismo tiempo.\nPor supuesto,\nhay otras armas que puedes equiparte\naparte de las dagas,"
+    },
+    "91SJ": {
+        "en": "[DeeBee]\nbut they'll probably\nbe lacking in attack speed.\nSo I suggest daggers.\nAlso, without a dagger\nin your right hand,\n you won't be able to use\nthe ^663399Double Attack^000000 skill.",
+        "pt": "[DeeBee]\nmas provavelmente\nnão terão velocidade de ataque.\nPor isso, sugiro as adagas.\nAlém disso, se você não tiver uma adaga\nna mão direita,\nnão poderá usar a habilidade\n^663399Ataque Duplo^000000.",
+        "es": "[DeeBee]\npero es probable que\ncarezcan de velocidad de ataque.\nAsí que te sugiero usar unas dagas.\nAdemás, sin una daga\nen la mano derecha,\n no podrás usar\nla habilidad ^663399Doble ataque^000000."
+    },
+    "+FSJ": {
+        "en": "[DeeBee]\nSo with Dual Daggers,\nyou would have a double attack\nwith the right hand dagger,\n and a single attack with your left hand weapon.",
+        "pt": "[DeeBee]\nEntão, com Duas Adagas,\nvocê tem um ataque duplo\ncom a adaga da mão direita,\ne um único ataque com a arma da mão esquerda.",
+        "es": "[DeeBee]\nCon las Dagas dobles,\ntendrías un ataque doble\ncon la daga derecha\n y un ataque normal con el arma de la izquierda."
+    },
+    "+VSJ": {
+        "en": "[DeeBee]\nSo that's three strikes\nin one blow!\nYou can't argue\nagainst that kind of damage!",
+        "pt": "[DeeBee]\nEntão são três acertos\nem um só golpe!\nÉ um dano\nindiscutível!",
+        "es": "[DeeBee]\n¡Así que son tres golpes\nde una sola vez!\n¡No se discute\ncontra tal daño!"
+    },
+    "+lSJ": {
+        "en": "[DeeBee]\nHopefully\nyou will make good use of\nthe weapons at your disposal.\nRemember\nthe importance of\nstrategy and\nplanning your attacks.",
+        "pt": "[DeeBee]\nEspero que\nfaça bom uso das\narmas à sua disposição.\nLembre-se\nda importância da\nestratégia e\nplanejamento de seus ataques.",
+        "es": "[DeeBee]\nEsperemos\nque hagas un buen uso de\nlas armas a tu disposición.\n¡Recuerda\nla importancia de\nla estrategia y de la\nplanificación de tus ataques."
+    }
+}

@@ -1,0 +1,347 @@
+{
+    "AM23Ag": {
+        "en": "Merchant",
+        "pt": "Mercador",
+        "es": "Comerciante"
+    },
+    "Ac23Ag": {
+        "en": "[Merchant]\nHaha!\nWhat are you, superhuman?\nYou're carrying so much stuff!\nYou better put some of that\ninto Kafra Storage~",
+        "pt": "[Mercador]\nHaha!\nO que você é, um super-humano?\nEstá carregando tanta coisa!\nÉ melhor colocar um pouco disso\nno Armazém da Kafra~",
+        "es": "[Comerciante]\n¡Ja, ja!\n¿Qué eres, un ser superior?\n¡Llevas demasiadas cosas!\nSerá mejor que guardes algo de eso\nen el Almacén de Kafra."
+    },
+    "As23Ag": {
+        "en": "[Merchant]\nGood day!\nHave you collected any\nitems like Shells or Fluff?\nWhat about Jellopies? Oh yeah,\nI need those for something.",
+        "pt": "[Mercador]\nBom dia!\nVocê coletou alguns\nitens como Cascas ou Felpas?\nE quanto a Jellopies?\nÉ, eu preciso deles para algo.",
+        "es": "[Comerciante]\nBuenos días.\n¿Recolectaste algún objeto como Caparazones o Pelusas? ¿Y Jellopy? Ah, sí, los necesito para algo."
+    },
+    "A823Ag": {
+        "en": "[Merchant]\nOf course, I won't ask you\nto give me that stuff for free. What about if I trade a Red Potion for 5 Shells, 10 Fluff,\nor 10 Jellopies?",
+        "pt": "[Mercador]\nÉ claro que não vou pedir\nque me dê essas coisas de graça. Que tal se eu trocar uma Poção Vermelha por 5 Cascas, 10 Felpas,\nou 10 Jellopies?",
+        "es": "[Comerciante]\nPor supuesto, no te pediré que me des esos objetos sin nada a cambio. ¿Qué tal si te doy 1 Poción roja por 5 Caparazones, 10 Pelusas o 10 Jellopy?"
+    },
+    "BM23Ag": {
+        "en": "Sure!",
+        "pt": "Claro!",
+        "es": "¡Claro!"
+    },
+    "Bc23Ag": {
+        "en": "I think it's a rip-off!",
+        "pt": "Acho que é uma exploração!",
+        "es": "¡Creo que es una estafa!"
+    },
+    "Bs23Ag": {
+        "en": "No, thanks.",
+        "pt": "Não, obrigado.",
+        "es": "No, gracias."
+    },
+    "B823Ag": {
+        "en": "[Merchant]\nSo which item do\nyou want to bring me?\nShells, Fluffs, or Jellopies?",
+        "pt": "[Mercador]\nEntão, qual item\nvocê quer me trazer?\nCascas, Felpas ou Jellopies?",
+        "es": "[Comerciante]\n¿Qué objeto quieres traerme?\n¿Caparazones, Pelusas o Jellopy?"
+    },
+    "CM23Ag": {
+        "en": "Shells",
+        "pt": "Cascas",
+        "es": "Caparazones."
+    },
+    "Cc23Ag": {
+        "en": "Jellopies",
+        "pt": "Jellopies",
+        "es": "Jellopy."
+    },
+    "Cs23Ag": {
+        "en": "Fluff",
+        "pt": "Felpas",
+        "es": "Pelusa."
+    },
+    "C823Ag": {
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar."
+    },
+    "DM23Ag": {
+        "en": "[Merchant]\nHey, where are\nall those Shells\nthat you promised?\nGive me Shells!",
+        "pt": "[Mercador]\nEi, onde estão\ntodas aquelas Cascas\nque você prometeu?\nMe dê Cascas!",
+        "es": "[Comerciante]\nEy, ¿dónde están todos esos Caparazones\nque prometiste? ¡Dame los Caparazones!"
+    },
+    "Dc23Ag": {
+        "en": "[Merchant]\nOkay, let me check\nhow many Shells you\nhave on you. Hmm...",
+        "pt": "[Mercador]\nCerto, deixe-me verificar\nquantas Cascas\nvocê tem. Humm...",
+        "es": "[Comerciante]\nBien, déjame revisar cuántos Caparazones\ntienes. Mmm…"
+    },
+    "Ds23Ag": {
+        "en": "[Merchant]\nYou have\na total of {0} Shells.\nI can give you a total\nof {1} Red Potions for those.",
+        "pt": "[Mercador]\nVocê tem\num total de {0} Cascas.\nPosso te dar um total de\nde {1} Poções Vermelhas por elas.",
+        "es": "[Comerciante]\nTienes un total de {0} Caparazones.\nPuedo darte un total de {1} Pociones rojas por eso."
+    },
+    "D823Ag": {
+        "en": "[Merchant]\nWhat do you say?\nDo we have a deal?",
+        "pt": "[Mercador]\nO que me diz?\nTemos um acordo?",
+        "es": "[Comerciante]\n¿Qué dices?\n¿Trato hecho?"
+    },
+    "EM23Ag": {
+        "en": "Deal.",
+        "pt": "Acordo feito.",
+        "es": "Trato hecho."
+    },
+    "Ec23Ag": {
+        "en": "No deal.",
+        "pt": "Acordo nenhum.",
+        "es": "No hay trato."
+    },
+    "Es23Ag": {
+        "en": "[Merchant]\nYou know the exact\nnumber of Red Potions\nyou want to receive for\nthose Shells, don't you?",
+        "pt": "[Mercador]\nVocê sabe o número exato\nde Poções Vermelhas\nque deseja receber por\nessas Cascas, não sabe?",
+        "es": "[Comerciante]\nSabes exactamente la cantidad de Pociones rojas que quieres recibir por esos Caparazones, ¿no?"
+    },
+    "E823Ag": {
+        "en": "[Merchant]\nNow, I can trade you\na minimum of 1 Red Potion\nand a maximum of 100 Red Potions\nat one time. If you change your\nmind, just enter '0' to cancel.",
+        "pt": "[Mercador]\nAgora, posso trocar com você\num mínimo de 1 Poção Vermelha\ne um máximo de 100 Poções Vermelhas\nde uma só vez. Se você mudar de\nideia, basta digitar ''0'' para cancelar.",
+        "es": "[Comerciante]\nBien, puedo intercambiarte un mínimo de 1 Poción roja y un máximo de 100 Pociones rojas\na la vez. Si cambias de opinión, solo ingresa 0 para cancelar."
+    },
+    "FM23Ag": {
+        "en": "[Merchant]\nWhat...?\nWhy the hell do you\neven bother to talk to me?\nPretty indecisive, aren't you?",
+        "pt": "[Mercador]\nÉ mole?\nPor que diabos você\nse dá ao trabalho de falar comigo?\nVocê é muito indeciso, não é, não?",
+        "es": "[Comerciante]\n¿Qué…?\n¿Por qué demonios te molestas en hablar conmigo? ¡Cuánta indecisión!"
+    },
+    "Fc23Ag": {
+        "en": "[Merchant]\nI can't give you more\nthan 100 Red Potions\nat once. Let's try\nthis again.",
+        "pt": "[Mercador]\nNão posso lhe dar mais do que\nmais de 100 Poções Vermelhas\nde uma só vez.\nVamos tentar de novo.",
+        "es": "[Comerciante]\nNo puedo darte más de 100 Pociones rojas\na la vez. Probemos esto otra vez."
+    },
+    "Fs23Ag": {
+        "en": "[Merchant]\nUh oh, the number you entered doesn't seem right. You better check the number of Red Potions that you can trade for again.",
+        "pt": "[Mercador]\nVixi, o número que você inseriu não parece correto. É melhor verificar novamente o número de Poções Vermelhas que você pode trocar.",
+        "es": "[Comerciante]\nEl número que ingresaste no parece correcto. Será mejor que revises la cantidad de Pociones rojas que puedes obtener de nuevo."
+    },
+    "F823Ag": {
+        "en": "[Merchant]\nThere you go!\nCheck how many Red Potions\nI've given you, it should be good. Thanks, that was a good deal~",
+        "pt": "[Mercador]\nAqui está!\nVerifique quantas Poções Vermelhas\neu lhe dei, deve estar tudo certo. Obrigado, foi um bom negócio~",
+        "es": "[Comerciante]\n¡Aquí tienes!\nRevisa cuántas Pociones rojas te di, deberían estar bien. Gracias, fue un buen trato."
+    },
+    "GM23Ag": {
+        "en": "[Merchant]\nHuh~\nAlright.\nThough aren't\nRed Potions more useful\nto an adventurer like you?",
+        "pt": "[Mercador]\nHã~\nCerto.\nMas será que as\nPoções Vermelhas não são mais úteis\npara um aventureiro como você?",
+        "es": "[Comerciante]\nOh, de acuerdo.\nAunque, ¿no son las Pociones rojas útiles para un trotamundos como tú?"
+    },
+    "Gc23Ag": {
+        "en": "[Merchant]\nHey, where's all\nthat Jellopy that\nyou promised me?\nGive me Jellopy!",
+        "pt": "[Mercador]\nEi, onde estão todos\naqueles Jellopies que\nvocê me prometeu?\nMe traga Jellopy!",
+        "es": "[Comerciante]\nEy, ¿dónde están todos los Jellopy que\nme prometiste? ¡Dame Jellopy!"
+    },
+    "Gs23Ag": {
+        "en": "[Merchant]\nOkay, let me check\nhow much Jellopy you\nhave on you. Hmm...",
+        "pt": "[Mercador]\nCerto, deixe-me verificar\nquantos Jellopies\nvocê tem. Humm...",
+        "es": "[Comerciante]\nBien, déjame revisar cuántos Jellopy tienes. Mmm…"
+    },
+    "G823Ag": {
+        "en": "[Merchant]\nYou have\na total of {0} Jellopies...\nFor all those, I can give you\na total of {1} Red Potions.",
+        "pt": "[Mercador]\nVocê tem\num total de {0} Jellopies.\nPosso te dar um total\nde {1} Poções Vermelhas por eles.",
+        "es": "[Comerciante]\nTienes un total de {0} Jellopy…\nPor todo eso, puedo darte un total de {1} Pociones rojas."
+    },
+    "HM23Ag": {
+        "en": "[Merchant]\nYou know the exact\nnumber of Red Potions\nyou want to receive for\nthat Jellopy, don't you?",
+        "pt": "[Mercador]\nVocê sabe o número exato\nde Poções Vermelhas\nque deseja receber por\nesses Jellopies, não sabe?",
+        "es": "[Comerciante]\nSabes exactamente la cantidad de Pociones rojas que quieres recibir por esos Jellopy, ¿no?"
+    },
+    "Hc23Ag": {
+        "en": "[Merchant]\nWhat...?\nWhy the hell did you\neven bother to talk to me?\nPretty indecisive, aren't you?",
+        "pt": "[Mercador]\nÉ mole?\nPor que diabos você\nse dá ao trabalho de falar comigo?\nVocê é muito indeciso, não é, não?",
+        "es": "[Comerciante]\n¿Qué…?\n¿Por qué demonios te molestas en hablar conmigo? ¡Cuánta indecisión!"
+    },
+    "Hs23Ag": {
+        "en": "[Merchant]\nHey, where's\nall that Fluff\nthat you promised?\nGive me Fluff!",
+        "pt": "[Mercador]\nEi, onde estão todas\naquelas Felpas que\nvocê me prometeu?\nMe traga Felpas!",
+        "es": "[Comerciante]\nEy, ¿dónde están todas esas Pelusas\nque prometiste? ¡Dame las Pelusas!"
+    },
+    "H823Ag": {
+        "en": "[Merchant]\nOkay, let me check\nhow much Fluff you\nhave on you. Hmm...",
+        "pt": "[Mercador]\nCerto, deixe-me verificar\nquantas Felpas\nvocê tem. Humm...",
+        "es": "[Comerciante]\nBien, déjame revisar cuántas Pelusas tienes. Mmm…"
+    },
+    "IM23Ag": {
+        "en": "[Merchant]\nYou have\na total of {0} Fluff.\nI can give you a total\nof {1} Red Potions for those.",
+        "pt": "[Mercador]\nVocê tem\num total de {0} Felpas.\nPosso te dar um total\nde {1} Poções Vermelhas por elas.",
+        "es": "[Comerciante]\nTienes un total de {0} Pelusas.\nPuedo darte un total de {1} Pociones rojas por eso."
+    },
+    "Ic23Ag": {
+        "en": "[Merchant]\nYou know the exact\nnumber of Red Potions\nyou want to receive for\nthat Fluff, don't you?",
+        "pt": "[Mercador]\nVocê sabe o número exato\nde Poções Vermelhas\nque deseja receber por\nessas Felpas, não sabe?",
+        "es": "[Comerciante]\nSabes exactamente la cantidad de Pociones rojas que quieres recibir por esas Pelusas, ¿no?"
+    },
+    "Is23Ag": {
+        "en": "[Merchant]\nSure~\nNo problem.",
+        "pt": "[Mercador]\nClaro~\nSem problemas.",
+        "es": "[Comerciante]\nClaro. No hay problema."
+    },
+    "I823Ag": {
+        "en": "[Merchant]\nA rip-off...?\nIf you check the market value\nof the items being traded, I'm actually the one getting\nripped off here.",
+        "pt": "[Mercador]\nUma exploração...?\nSe você verificar o valor de mercado\ndos itens que estão sendo negociados, na verdade sou eu quem está sendo\nroubado aqui.",
+        "es": "[Comerciante]\n¿Una estafa…?\nSi te fijas cuál es el valor de mercado de los objetos que estamos intercambiando, en realidad soy yo el que sale perdiendo aquí."
+    },
+    "JM23Ag": {
+        "en": "[Merchant]\nAlright,\nno problem.\nBut come back to me\nif you change your mind.",
+        "pt": "[Mercador]\nTudo bem,\nsem problemas.\nMas volte caso\nmude de ideia.",
+        "es": "[Comerciante]\nMuy bien, no hay problema.\nPero regresa si cambias de opinión."
+    },
+    "Jc23Ag": {
+        "en": "[Merchant]\nGood day!\nHave you collected any\nShells or Feathers of Bird?\nWhat about Jellopies? Oh yeah,\nI need those for something.",
+        "pt": "[Mercador]\nBom dia!\nVocê coletou algumas\nConchas ou Penas de Ave?\nE quanto a Jellopies?\nÉ, eu preciso deles para algo.",
+        "es": "[Comerciante]\nBuenos días.\n¿Recolectaste algún objeto como Caparazones o Plumas de ave? ¿Y Jellopy?\nAh, sí, los necesito para algo."
+    },
+    "Js23Ag": {
+        "en": "[Merchant]\nOf course, I won't ask you\nto give me that stuff for free. What about if I trade a Red Potion for 5 Shells, 7 Feathers of Bird\nor 10 Jellopies?",
+        "pt": "[Mercador]\nÉ claro que não vou pedir\nque me dê essas coisas de graça. Que tal se eu trocar uma Poção Vermelha por 5 Cascas, 7 Penas de Ave,\nou 10 Jellopies?",
+        "es": "[Comerciante]\nPor supuesto, no te pediré que me des esos objetos sin nada a cambio. ¿Qué tal si te doy 1 Poción roja por 5 Caparazones, 7 Plumas de ave o 10 Jellopy?"
+    },
+    "J823Ag": {
+        "en": "[Merchant]\nSo which item do\nyou want to bring me?\nShells, Feathers of Birds,\nor Jellopies?",
+        "pt": "[Mercador]\nEntão, qual item\nvocê quer me trazer?\nCascas, Penas de Ave\nou Jellopies?",
+        "es": "[Comerciante]\n¿Qué objeto quieres traerme?\n¿Caparazones, Plumas de ave o Jellopy?"
+    },
+    "KM23Ag": {
+        "en": "Feathers of Birds",
+        "pt": "Penas de Ave",
+        "es": "Plumas de ave."
+    },
+    "Kc23Ag": {
+        "en": "[Merchant]\nHey, where's all the\nFeathers of Birds you\nsaid that you had?",
+        "pt": "[Mercador]\nEi, cadê aquelas\nPenas de Ave que você\ndisse que tinha?",
+        "es": "[Comerciante]\nEy, ¿dónde están todas las Plumas de ave que dijiste que tenías?"
+    },
+    "Ks23Ag": {
+        "en": "[Merchant]\nOkay, let me check how\nmany Feathers of Birds\nthat you have. Hmm...",
+        "pt": "[Mercador]\nCerto, deixe-me verificar\nquantas Penas de Ave\nvocê tem. Humm...",
+        "es": "[Comerciante]\nBien, déjame revisar cuántas Plumas de ave tienes. Mmm…"
+    },
+    "K823Ag": {
+        "en": "[Merchant]\nYou have a total of\n{0} Feathers of Birds.\nI can give you a total of\n{1} Red Potions for those.",
+        "pt": "[Mercador]\nVocê tem\num total de {0} Penas de Ave.\nPosso te dar um total\nde {1} Poções Vermelhas por elas.",
+        "es": "[Comerciante]\nTienes un total de {0} Plumas de ave.\nPuedo darte un total de {1} Pociones rojas por eso."
+    },
+    "LM23Ag": {
+        "en": "[Merchant]\nYou know the exact\nnumber of Red Potions\nyou want to receive for\nthose Feathers of Birds,\ndon't you?",
+        "pt": "[Mercador]\nVocê sabe o número exato\nde Poções Vermelhas\nque deseja receber por\nessas Penas de Ave,\nnão sabe?",
+        "es": "[Comerciante]\nSabes exactamente la cantidad de Pociones rojas que quieres recibir por esas Plumas de ave, ¿no?"
+    },
+    "Lc23Ag": {
+        "en": "[Merchant]\nGood day!\nHave you collected\nitems like Tree Roots?\nWhat about Jellopies? Oh yeah,\nI need those for something.",
+        "pt": "[Mercador]\nBom dia!\nVocê coletou alguns\nitens como Raízes de Árvore?\nE quanto a Jellopies?\nÉ, eu preciso deles para algo.",
+        "es": "[Comerciante]\nBuenos días.\n¿Recolectaste algún objeto como Raíces de árbol? ¿Y Jellopy?\nAh, sí, los necesito para algo."
+    },
+    "Ls23Ag": {
+        "en": "[Merchant]\nOf course, I won't ask you\nto give me that stuff for free. What about if I trade a Red Potion for 6 Tree Roots or 10 Jellopies?",
+        "pt": "[Mercador]\nÉ claro que não vou pedir\nque me dê essas coisas de graça. Que tal se eu trocar uma Poção Vermelha por 6 Raízes de Árvore ou 10 Jellopies?",
+        "es": "[Comerciante]\nPor supuesto, no te pediré que me des esos objetos sin nada a cambio. ¿Qué tal si te doy 1 Poción roja por 6 Raíces de árbol o 10 Jellopy?"
+    },
+    "L823Ag": {
+        "en": "[Merchant]\nSo which item do\nyou want to bring me?\nTree Roots, or Jellopies?",
+        "pt": "[Mercador]\nEntão, qual item\nvocê quer me trazer?\nRaízes de Árvore ou Jellopies?",
+        "es": "[Comerciante]\n¿Qué objeto quieres traerme?\n¿Raíces de árbol o Jellopy?"
+    },
+    "MM23Ag": {
+        "en": "Tree Roots",
+        "pt": "Raízes de Árvore",
+        "es": "Raíces de árbol."
+    },
+    "Mc23Ag": {
+        "en": "[Merchant]\nHey, where's all\nof those Tree Roots\nthat you promised me?\nGive me Tree Roots!",
+        "pt": "[Mercador]\nEi, onde estão todas\nas Raízes de Árvores\nque você me prometeu?\nPreciso das Raízes de Árvore!",
+        "es": "[Comerciante]\nEy, ¿dónde están todas esas Raíces de árbol\nque me prometiste? ¡Dame las Raíces de árbol!"
+    },
+    "Ms23Ag": {
+        "en": "[Merchant]\nOkay, let me check\nhow many Tree Roots\nyou brought. Hmm...",
+        "pt": "[Mercador]\nCerto, deixe-me verificar\nquantas Raízes de Árvore\nvocê trouxe. Humm...",
+        "es": "[Comerciante]\nBien, déjame revisar cuántas Raíces de árbol trajiste. Mmm…"
+    },
+    "M823Ag": {
+        "en": "[Merchant]\nYou have\na total of {0} Tree Roots.\nI can give you a total of\n{1} Red Potions for those.",
+        "pt": "[Mercador]\nVocê tem\num total de {0} Raízes de Árvores.\nPosso te dar um total\nde {1} Poção Vermelhas para elas.",
+        "es": "[Comerciante]\nTienes un total de {0} Raíces de árbol. Puedo darte un total de {1} Pociones rojas por eso."
+    },
+    "NM23Ag": {
+        "en": "[Merchant]\nYou know the exact\nnumber of Red Potions\nyou want to receive for\nthose Tree Roots, don't you?",
+        "pt": "[Mercador]\nVocê sabe o número exato\nde Poções Vermelhas\nque deseja receber por\nessas Raízes de Árvore, não sabe?",
+        "es": "[Comerciante]\nSabes exactamente la cantidad de Pociones rojas que quieres recibir por esas Raíces de árbol, ¿no?"
+    },
+    "Nc23Ag": {
+        "en": "[Merchant]\nGood day!\nHave you collected any\nWorm Peelings or Feather of Birds?\nHow about Jellopies? Oh yeah,\nI need those for something.",
+        "pt": "[Mercador]\nBom dia!\nVocê coletou algumas\nPeles de Verme ou Penas de Ave?\nE quanto a Jellopies?\nÉ, eu preciso deles para algo.",
+        "es": "[Comerciante]\nBuenos días.\n¿Recolectaste algún objeto como Piel de gusanos o Plumas de ave? ¿Y Jellopy?\nAh, sí, los necesito para algo."
+    },
+    "Ns23Ag": {
+        "en": "[Merchant]\nOf course, I won't ask you\nto give me that stuff for free. What about if I trade a Red Potion for 1 Worm Peeling, 7 Feather of Birds, or 10 Jellopies?",
+        "pt": "[Mercador]\nÉ claro que não vou pedir\nque me dê essas coisas de graça. Que tal se eu trocar uma Poção Vermelha por 1 Pele de Verme, 7 Penas de Ave, ou 10 Jellopies?",
+        "es": "[Comerciante]\nPor supuesto, no te pediré que me des esos objetos sin nada a cambio. ¿Qué tal si te doy 1 Poción roja por 1 Piel de gusanos, 7 Plumas de ave o 10 Jellopy?"
+    },
+    "N823Ag": {
+        "en": "[Merchant]\nSo which item do\nyou want to bring me?\nFeathers of Birds?\nWorm Peelings?\nOr Jellopies?",
+        "pt": "[Mercador]\nEntão, qual item\nvocê quer me trazer?\nPeles de Verme,\nPenas de Ave\nou Jellopies?",
+        "es": "[Comerciante]\n¿Qué objeto quieres traerme?\n¿Plumas de ave, Piel de gusanos o Jellopy?"
+    },
+    "OM23Ag": {
+        "en": "Worm Peelings",
+        "pt": "Peles de Verme",
+        "es": "Piel de gusanos."
+    },
+    "Oc23Ag": {
+        "en": "[Merchant]\nHey, where's all the\nWorm Peelings you\nsaid that you had?",
+        "pt": "[Mercador]\nEi, cadê aquelas\nPeles de Verme que você\ndisse que tinha?",
+        "es": "[Comerciante]\nEy, ¿dónde están todas esas pieles de gusanos\nque dijiste que tenías?"
+    },
+    "Os23Ag": {
+        "en": "[Merchant]\nOkay, let me check how\nmany Worm Peelings that\nyou have. Hmm...",
+        "pt": "[Mercador]\nCerto, deixe-me verificar\nquantas Peles de Verme\nvocê tem. Humm...",
+        "es": "[Comerciante]\nBien, déjame revisar cuántas Pieles de gusanos\ntienes. Mmm…"
+    },
+    "O823Ag": {
+        "en": "[Merchant]\nYou have a total of\n{0} Worm Peelings.\nI can give you a total of\n{1} Red Potions for those.",
+        "pt": "[Mercador]\nVocê tem\num total de {0} Peles de Verme.\nPosso te dar um total\nde {1} Poção Vermelhas para elas.",
+        "es": "[Comerciante]\nTienes un total de {0} Pieles de gusanos.\nPuedo darte un total de {1} Pociones rojas por eso."
+    },
+    "PM23Ag": {
+        "en": "[Merchant]\nYou know the exact\nnumber of Red Potions\nyou want to receive for\nthose Worm Peelings,\ndon't you?",
+        "pt": "[Mercador]\nVocê sabe o número exato\nde Poções Vermelhas\nque deseja receber por\nessas Peles de Verme,\nnão sabe?",
+        "es": "[Comerciante]\nSabes exactamente la cantidad de Pociones rojas que quieres recibir por esas Pieles de gusanos, ¿no?"
+    },
+    "Pc23Ag": {
+        "en": "[Merchant]\nGood day!\nHave you collected any\nitems like Shells or Chrysalises?\nWhat about Jellopies? Oh yeah,\nI need those for something.",
+        "pt": "[Mercador]\nBom dia!\nVocê coletou alguns\nitens como Cascas ou Crisálidas?\nE quanto a Jellopies?\nÉ, eu preciso deles para algo.",
+        "es": "[Comerciante]\nBuenos días.\n¿Recolectaste algún objeto como Caparazones o Crisálidas? ¿Y Jellopy? \nAh, sí, los necesito para algo."
+    },
+    "Ps23Ag": {
+        "en": "[Merchant]\nOf course, I won't ask you\nto give me that stuff for free. What about if I trade a Red Potion for 5 Shells or 6 Chrysalises, or 10 Jellopies?",
+        "pt": "[Mercador]\nÉ claro que não vou pedir\nque me dê essas coisas de graça. Que tal se eu trocar uma Poção Vermelha por 5 Cascas, 6 Crisálidas, ou 10 Jellopies?",
+        "es": "[Comerciante]\nPor supuesto, no te pediré que me des esos objetos sin nada a cambio. ¿Qué tal si te doy 1 Poción roja por 5 Caparazones, 6 Crisálidas o 10 Jellopy?"
+    },
+    "P823Ag": {
+        "en": "[Merchant]\nSo which item do\nyou want to bring me?\nShells, Chrysalises, or Jellopies?",
+        "pt": "[Mercador]\nEntão, qual item\nvocê quer me trazer?\nCascas, Crisálidas ou Jellopies?",
+        "es": "[Comerciante]\n¿Qué objeto quieres traerme?\n¿Caparazones, Crisálidas o Jellopy?"
+    },
+    "QM23Ag": {
+        "en": "Chrysalises",
+        "pt": "Crisálidas",
+        "es": "Crisálidas."
+    },
+    "Qc23Ag": {
+        "en": "[Merchant]\nHey, where's all\nthe Chrysalises you\nsaid that you had?",
+        "pt": "[Mercador]\nEi, onde estão todas\nas Crisálidas que você\ndisse que tinha?",
+        "es": "[Comerciante]\nEy, ¿dónde están todas las Crisálidas que dijiste que tenías?"
+    },
+    "Qs23Ag": {
+        "en": "[Merchant]\nOkay, let me check how\nmany Chrysalises that\nthat you have on you. Hmm...",
+        "pt": "[Mercador]\nCerto, deixe-me verificar\nquantas Crisálidas\nvocê tem com você. Humm...",
+        "es": "[Comerciante]\nBien, déjame revisar cuántas Crisálidas tienes. Mmm…"
+    },
+    "Q823Ag": {
+        "en": "[Merchant]\nYou have a total of\n{0} Chrysalises.\nI can give you a total of\n{1} Red Potions for those.",
+        "pt": "[Mercador]\nVocê tem\num total de {0} Cascas.\nPosso te dar um total\nde {1} Poções Vermelhas por elas.",
+        "es": "[Comerciante]\nTienes un total de {0} Crisálidas.\nPuedo darte un total de {1} Pociones rojas por eso."
+    },
+    "RM23Ag": {
+        "en": "[Merchant]\nYou know the exact\nnumber of Red Potions\nyou want to receive for\nthose Chrysalises,\ndon't you?",
+        "pt": "[Mercador]\nVocê sabe o número exato\nde Poções Vermelhas\nque deseja receber por\nessas Crisálidas,\nnão sabe?",
+        "es": "[Comerciante]\nSabes exactamente la cantidad de Pociones rojas que quieres recibir por esas Crisálidas, ¿no?"
+    }
+}

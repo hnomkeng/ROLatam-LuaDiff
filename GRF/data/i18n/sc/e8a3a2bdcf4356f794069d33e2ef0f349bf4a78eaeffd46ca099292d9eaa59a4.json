@@ -1,0 +1,946 @@
+{
+    "gLebCQ": {
+        "en": "Reno",
+        "es": "Reno"
+    },
+    "gbebCQ": {
+        "en": "Not able to continue because you belong too many items.",
+        "es": "No se puede continuar porque tienes muchos objetos."
+    },
+    "grebCQ": {
+        "en": "[Reno]\nAn error occurred during the waiting time. Sorry for inconvenience. The error has been corrected.",
+        "es": "[Reno]\nSe produjo un error durante el tiempo de espera. Disculpa las molestias. Se corrigió el error."
+    },
+    "g7ebCQ": {
+        "en": "[Reno]\nWaiting time for the request of lower collection is terminated. The request of lower collection is activated now.",
+        "es": "[Reno]\nSe terminó el tiempo de espera para la solicitud de colección inferior. La solicitud de colección inferior ya está activada."
+    },
+    "hLebCQ": {
+        "en": "[Reno]\nWaiting time for the request of intermediate collection is terminated. The request of intermediate collection is activated now.",
+        "es": "[Reno]\nSe terminó el tiempo de espera para la solicitud de colección intermedia. La solicitud de colección intermedia ya está activada."
+    },
+    "hbebCQ": {
+        "en": "[Reno]\nWaiting time for the request of advanced collection is terminated. The request of advanced collection is activated now.",
+        "es": "[Reno]\nSe terminó el tiempo de espera para la solicitud de colección avanzada. La solicitud de colección avanzada ya está activada."
+    },
+    "hrebCQ": {
+        "en": "[Reno]\nThe waiting time for accumulation of Rough Energy Crystal is terminated. Enable to accumulate again.",
+        "es": "[Reno]\nSe terminó el tiempo de espera para la acumulación de Cristales de energía en bruto. Se puede acumular otra vez."
+    },
+    "h7ebCQ": {
+        "en": "[Reno]\nThe waiting time for accumulation of Purified Energy Crystal is terminated. Enable to accumulate again.",
+        "es": "[Reno]\nSe terminó el tiempo de espera para la acumulación de Cristales de energía purificados. Se puede acumular otra vez."
+    },
+    "iLebCQ": {
+        "en": "[Reno]\nThe waiting time of accumulation of High Energy Crystals is terminated. Enable to accumulate again.",
+        "es": "[Reno]\nSe terminó el tiempo de espera para la acumulación de Cristales de energía superiores. Se puede acumular otra vez."
+    },
+    "ibebCQ": {
+        "en": "[Reno]\nAn error has occurred upon the request, but it is now corrected. Sorry for inconvenience.",
+        "es": "[Reno]\nSe produjo un error en la solicitud, pero ya se corrigió. Disculpa las molestias."
+    },
+    "irebCQ": {
+        "en": "[Reno]\nThe request of lower collection is completed. Good job.",
+        "es": "[Reno]\nSe completó la solicitud de colección inferior. Bien hecho."
+    },
+    "i7ebCQ": {
+        "en": "10 Rough Energy Crystals are rewarded for the request of lower collection.",
+        "es": "Se entregan 10Cristales de energía en bruto como premio por la solicitud de colección inferior."
+    },
+    "jLebCQ": {
+        "en": "[Reno]\nThe request of intermediate collection is completed. Good job.",
+        "es": "[Reno]\nSe completó la solicitud de colección intermedia. Bien hecho."
+    },
+    "jbebCQ": {
+        "en": "10 Purified Energy Crystals are rewarded for the request of intermediate collection.",
+        "es": "Se entregan 10Cristales de energía purificados como premio por la solicitud de colección intermedia."
+    },
+    "jrebCQ": {
+        "en": "[Reno]\nThanks for completing the request of advanced collection.",
+        "es": "[Reno]\nGracias por completar la solicitud de colección avanzada."
+    },
+    "j7ebCQ": {
+        "en": "5 High Energy Crystals are rewarded for the request of advanced collection.",
+        "es": "Se entregan 5Cristales de energía superiores como premio por la solicitud de colección avanzada."
+    },
+    "kLebCQ": {
+        "en": "[Reno]\nThanks for completing the request of the most advanced collection.",
+        "es": "[Reno]\nGracias por completar la solicitud de colección más avanzada."
+    },
+    "kbebCQ": {
+        "en": "10 High Energy Crystals are rewarded for the request of the most advanced collection.",
+        "es": "Se entregan 10Cristales de energía superiores como premio por la solicitud de colección más avanzada."
+    },
+    "krebCQ": {
+        "en": "[Reno]\nAccmulation of Rough Energy Crystal is done. Good job.",
+        "es": "[Reno]\nSe realizó la acumulación de Cristales de energía en bruto. Bien hecho."
+    },
+    "k7ebCQ": {
+        "en": "[Reno]\nYou have gained {} Rough Energy Crystals",
+        "es": "[Reno]\nGanaste {}Cristales de energía en bruto."
+    },
+    "lLebCQ": {
+        "en": "[Reno]\nAccmulation of Purified Energy Crystal is done. Good job.",
+        "es": "[Reno]\nSe realizó la acumulación de Cristales de energía purificados. Bien hecho."
+    },
+    "lbebCQ": {
+        "en": "[Reno]\nYou have gained {} Purified Energy Crystals",
+        "es": "[Reno]\nGanaste {}Cristales de energía purificados."
+    },
+    "lrebCQ": {
+        "en": "[Reno]\nCompleted accumulation of Energy Crystal with high degree of purity. Good job.",
+        "es": "[Reno]\nSe completó la acumulación de Cristales de energía con alto grado de pureza. Bien hecho."
+    },
+    "l7ebCQ": {
+        "en": "[Reno]\nYou have gained {} High Energy Crystals",
+        "es": "[Reno]\nGanaste {}Cristales de energía superiores."
+    },
+    "mLebCQ": {
+        "en": "[Reno]\nHi? I am Reno from the Energy Crystal Research Association or ECRA.",
+        "es": "[Reno]\n¿Hola? Soy Reno, de la Asociación de Investigación de Cristales de Energía o AICE."
+    },
+    "mbebCQ": {
+        "en": "ECRA?",
+        "es": "¿AICE?"
+    },
+    "mrebCQ": {
+        "en": "Quest to get Energy Crystals",
+        "es": "Misión para obtener Cristales de energía."
+    },
+    "m7ebCQ": {
+        "en": "Energy Crystal Buffs",
+        "es": "Buffs de Cristales de energía."
+    },
+    "nLebCQ": {
+        "en": "Compress Energy Crystals",
+        "es": "Comprimir los Cristales de energía."
+    },
+    "nbebCQ": {
+        "en": "Exchange Crystals for Headgear",
+        "es": "Canjear cristales por accesorios para la cabeza."
+    },
+    "nrebCQ": {
+        "en": "Random Gear for Crystals",
+        "es": "Equipo aleatorio para los cristales."
+    },
+    "n7ebCQ": {
+        "en": "See Equipment List",
+        "es": "Ver la lista de equipamientos."
+    },
+    "oLebCQ": {
+        "en": "[Reno]\nECRA is the institute that researches '^0000FFEnergy Crystal^000000' that shall be used as an alternative energy source in Rune midgart kingdom, suffered from the short of energy.",
+        "es": "[Reno]\nLa AICE es el instituto que investiga los “^FF0000Cristales de energía^000000” que se usarán como fuente de energía alternativa en el reino de Rune-Midgarts, que sufre de escasez de energía."
+    },
+    "obebCQ": {
+        "en": "The reason of doing this",
+        "es": "La razón para hacer esto."
+    },
+    "orebCQ": {
+        "en": "[Reno]\nI would like to explain that we are not trying to make an excuse to get away from facing problem before I explain the reason.Never! So please let me finish.",
+        "es": "[Reno]\nAntes de explicar la razón, quisiera aclarar que no estamos tratando de inventar una excusa para evitar enfrentar el problema. ¡Nunca! Así que déjame terminar."
+    },
+    "o7ebCQ": {
+        "en": "[Reno]\nResearch tem has sent the result they had studied.",
+        "es": "[Reno]\nEl equipo de investigación envió el resultado que habían estudiado."
+    },
+    "pLebCQ": {
+        "en": "[Reno]\nEnergy Crystal ^0000FF was turned out as ^000000 which is generated inside the body of some monsters according to the research, the stronger mosters generates the highest class energy crstal in the body.",
+        "es": "[Reno]\nGracias a la investigación, se descubrió que los ^FF0000 Cristales de energía ^000000 se generan dentro del cuerpo de algunos monstruos. Los monstruos más fuertes generan la clase más alta de cristales de energía en el cuerpo."
+    },
+    "pbebCQ": {
+        "en": "[Reno]\nResearch team decided^000000 to collect Energy Crystals by requesting an adventurer with appropriate rewards. That enables to collect better and efficient ^FF0000.",
+        "es": "[Reno]\nEl equipo de investigación decidió^000000 recolectar Cristales de energía a través de solicitudes realizadas a los trotamundos con premios adecuados. Esto permite que la recolección sea mejor y más eficaz ^660000."
+    },
+    "prebCQ": {
+        "en": "[Reno]\nEnergy Crystals, was accumulated during hunting monsters with my request, shall be used for my research ^0000FF and some of them^000000 is planned to returned to adventures.",
+        "es": "[Reno]\nLos Cristales de energía que se acumularon durante la cacería de monstruos con mi solicitud se usarán para mi investigación ^FF0000 y esperamos poder devolver^000000 algunos de estos a las aventuras."
+    },
+    "p7ebCQ": {
+        "en": "[Reno]\nAdventurers can use collected Energy Crystals for upgrading ^000000 equipments through me ^FF0000.",
+        "es": "[Reno]\nLos trotamundos pueden usar los Cristales de energía recolectados para mejorar ^000000 sus equipamientos conmigo ^660000."
+    },
+    "qLebCQ": {
+        "en": "[Reno]\nIf it wokrs well, it seems to be good for both ECRA and adventurers.",
+        "es": "[Reno]\nSi funciona, será algo bueno tanto para la AICE como para los trotamundos."
+    },
+    "qbebCQ": {
+        "en": "[Reno]\nThe hunting quests are ranked by monster level and difficulty. The ranges are lower, intermediate, and high quests and can only be taken once per day.",
+        "es": "[Reno]\nLas misiones de cacería se clasifican según el nivel de los monstruos y la dificultad. Los rangos de las misiones son inferior, intermedio y superior, y solo se pueden hacer una vez al día."
+    },
+    "qrebCQ": {
+        "en": "Lower level hunting [61-80]",
+        "es": "Nivel inferior de cacería [61-80]."
+    },
+    "q7ebCQ": {
+        "en": "Intermediate level hunting [80-99]",
+        "es": "Nivel intermedio de cacería [80-99]."
+    },
+    "rLebCQ": {
+        "en": "High level hunting [90 and up]",
+        "es": "Nivel superior de cacería [90 o más]."
+    },
+    "rbebCQ": {
+        "en": "Cancel my current Quest.",
+        "es": "Cancelar mi misión actual."
+    },
+    "rrebCQ": {
+        "en": "[Reno]\nI am sorry, but the request for lower collection is enabled from level 60. You seems to be no capable for carrying out the request.",
+        "es": "[Reno]\nLo siento, pero la solicitud de colección inferior se activa a partir del nivel60. Parece que aún no puedes realizar esta solicitud."
+    },
+    "r7ebCQ": {
+        "en": "[Reno]\nYou seem to be under the other request for lower collection. If the request is difficult? How about^FF0000giving up on the request^000000?",
+        "es": "[Reno]\nParece que estás trabajando en otra solicitud de colección inferior. ¿Si la solicitud es difícil? ¿Qué tal si ^660000renuncias a la solicitud^000000?"
+    },
+    "sLebCQ": {
+        "en": "[Reno]\nI am sorry, but the request for intermediate collection is enabled from level 80. You seem to be no capable for carrying out the request.",
+        "es": "[Reno]\nLo siento, pero la solicitud de colección intermedia se activa a partir del nivel80. Parece que aún no puedes realizar esta solicitud."
+    },
+    "sbebCQ": {
+        "en": "[Reno]\nYou seem to be under the other request of intermediate collection. If the request seems to be hard.. How about ^FF0000give up on the request^000000?",
+        "es": "[Reno]\nParece que estás trabajando en otra solicitud de colección intermedia. Si la solicitud parece ser difícil… ¿Qué tal si ^660000renuncias a la solicitud^000000?"
+    },
+    "srebCQ": {
+        "en": "[Reno]\nI am sorry, but the request for advanced collection is enabled from level 90. You seem to be no capable for carrying out the request.",
+        "es": "[Reno]\nLo siento, pero la solicitud de colección avanzada se activa a partir del nivel90. Parece que aún no puedes realizar esta solicitud."
+    },
+    "s7ebCQ": {
+        "en": "[Reno]\nYou seem to be under the other request of the advanced & the most advanced collection. If the request seems to be hard.. How about ^FF0000give up on the request^000000?",
+        "es": "[Reno]\nParece que estás trabajando en otra solicitud de colección avanzada y de recolección más avanzada. Si la solicitud parece ser difícil… ¿Qué tal si ^660000renuncias a la solicitud^000000?"
+    },
+    "tLebCQ": {
+        "en": "[Reno]\nYou are on the waiting list of the lower collection hunting request. You are allowed to complete 1 request per day so please come back later.",
+        "es": "[Reno]\nEstás en la lista de espera para la solicitud de cacería de colección inferior. Se te permite completar 1solicitud al día, así que vuelve más tarde."
+    },
+    "tbebCQ": {
+        "en": "[Reno]\nYou selected the to hunt a monster from the lower collection. After hunting these monsters you will receive 10 ^0000FFRough Energy Crystal^000000s when you return to me.",
+        "es": "[Reno]\nSeleccionaste la opción para cazar un monstruo de la colección inferior. Después de cazar estos monstruos, recibirás 10^FF0000Cristales de energía en bruto^000000 cuando vuelvas conmigo."
+    },
+    "trebCQ": {
+        "en": "[Reno]\nPlease select the monster that you think you can easily hunt from the list.",
+        "es": "[Reno]\nSelecciona de la lista el monstruo que crees que puedes cazar fácilmente."
+    },
+    "t7ebCQ": {
+        "en": "[Lower class] Requiem",
+        "es": "Réquiem [Clase baja]."
+    },
+    "uLebCQ": {
+        "en": "[Lower class] Bathory",
+        "es": "Bathory [Clase baja]."
+    },
+    "ubebCQ": {
+        "en": "[Lower class] Spring rabbit",
+        "es": "Conejo de primavera [Clase baja]."
+    },
+    "urebCQ": {
+        "en": "[Lower class] Sleeper",
+        "es": "Durmiente [Clase baja]."
+    },
+    "u7ebCQ": {
+        "en": "[Lower class] Evil druid",
+        "es": "Druida del mal [Clase baja]."
+    },
+    "vLebCQ": {
+        "en": "[Lower class] Ground Petite",
+        "es": "Petite terrestre [Clase baja]."
+    },
+    "vbebCQ": {
+        "en": "[Lower class] Clock",
+        "es": "Reloj [Clase baja]."
+    },
+    "vrebCQ": {
+        "en": "[Reno]\nThe request for lower collection monsters has been issued. Please check the details on the issued document.",
+        "es": "[Reno]\nSe presentó la solicitud para los monstruos de colección inferior. Revisa los detalles del documento emitido."
+    },
+    "v7ebCQ": {
+        "en": "[Reno]\nYou selected the to hunt a monster from the intermediate collection. After hunting these monsters you will receive 10 ^0000FFPurified Energy Crystal^000000s when you return to me.",
+        "es": "[Reno]\nSeleccionaste la opción para cazar un monstruo de la colección intermedia. Después de cazar estos monstruos, recibirás 10^FF0000Cristales de energía purificados^000000 cuando vuelvas conmigo."
+    },
+    "wLebCQ": {
+        "en": "[Intermediate class] Siroma",
+        "es": "Siroma [Clase intermedia]."
+    },
+    "wbebCQ": {
+        "en": "[Intermediate class] Dark Priest",
+        "es": "Sacerdote oscuro [Clase intermedia]."
+    },
+    "wrebCQ": {
+        "en": "[Intermediate class] Stapo",
+        "es": "Stapo [Clase intermedia]."
+    },
+    "w7ebCQ": {
+        "en": "[Intermediate class] Solider",
+        "es": "Solider [Clase intermedia]."
+    },
+    "xLebCQ": {
+        "en": "[Reno]\nThe request for intermediate collection monsters has been issued. Please check the details on the issued document.",
+        "es": "[Reno]\nSe presentó la solicitud para los monstruos de colección intermedia. Revisa los detalles del documento emitido."
+    },
+    "xbebCQ": {
+        "en": "[Reno]\nYou selected the to hunt a monster from the Advanced collection. After hunting these monsters you will receive 10 ^0000FFHigh Energy Crystal^000000s when you return to me.",
+        "es": "[Reno]\nSeleccionaste la opción para cazar un monstruo de la colección avanzada. Después de cazar estos monstruos, recibirás 10^FF0000Cristales de energía superiores^000000 cuando vuelvas conmigo."
+    },
+    "xrebCQ": {
+        "en": "[Advanced] Desert Wolf",
+        "es": "Lobo del desierto [Avanzado]."
+    },
+    "x7ebCQ": {
+        "en": "[Advanced] Medusa",
+        "es": "Medusa [Avanzado]."
+    },
+    "yLebCQ": {
+        "en": "[Advanced] Pinguicula",
+        "es": "Pinguicula [Avanzado]."
+    },
+    "ybebCQ": {
+        "en": "[Advanced] Majoruros",
+        "es": "Majoruros [Avanzado]."
+    },
+    "yrebCQ": {
+        "en": "[Highest] Raydric",
+        "es": "Raydric [Máximo]."
+    },
+    "y7ebCQ": {
+        "en": "[Highest] Naga",
+        "es": "Naga [Máximo]."
+    },
+    "zLebCQ": {
+        "en": "[Highest] Ancient Mummy",
+        "es": "Momia antigua [Máximo]."
+    },
+    "zbebCQ": {
+        "en": "[Highest] Ancient Mimic",
+        "es": "Mímico antiguo [Máximo]."
+    },
+    "zrebCQ": {
+        "en": "[Reno]\nI am sorry but the request for the most advanced collection is only available for those level 100 and higher. You do not seem to be capable of carrying out this request.",
+        "es": "[Reno]\nLo siento, pero la solicitud de colección más avanzada solo está disponible para los que estén en el nivel100 o superior. Parece que aún no puedes realizar esta solicitud."
+    },
+    "z7ebCQ": {
+        "en": "[Reno]\nThe request for most advanced collection monsters has been issued. Please check the details on the issued document.",
+        "es": "[Reno]\nSe presentó la solicitud para los monstruos de la colección más avanzada. Revisa los detalles del documento emitido."
+    },
+    "0LebCQ": {
+        "en": "[Reno]\nYou are currently under the request of lower collection. If you give up now, all your history will be lost. Do you really want to give up?",
+        "es": "[Reno]\nActualmente estás trabajando en la solicitud de colección inferior. Si te rindes ahora, toda tu historia se perderá. ¿De verdad quieres rendirte?"
+    },
+    "0bebCQ": {
+        "en": "Yes",
+        "es": "Sí."
+    },
+    "0rebCQ": {
+        "en": "No",
+        "es": "No."
+    },
+    "07ebCQ": {
+        "en": "[Reno]\nYou are under the request of intermediate collection. If you give up now, all your history will be lost. Do you really want to give up?",
+        "es": "[Reno]\nEstás trabajando en la solicitud de colección intermedia. Si te rindes ahora, toda tu historia se perderá. ¿De verdad quieres rendirte?"
+    },
+    "1LebCQ": {
+        "en": "[Reno]\nYou are under the request of the most advanced & advanced collection. If you give up now, all your history will be lost. Do you really want to give up?",
+        "es": "[Reno]\nEstás trabajando en la solicitud de colección avanzada y más avanzada. Si te rindes ahora, toda tu historia se perderá. ¿De verdad quieres rendirte?"
+    },
+    "1bebCQ": {
+        "en": "[Reno]\nThe written request of you is withdrawed.",
+        "es": "[Reno]\nSe retiró tu solicitud por escrito."
+    },
+    "1rebCQ": {
+        "en": "[Reno]\nPlease keep up on it.",
+        "es": "[Reno]\nSigue así."
+    },
+    "17ebCQ": {
+        "en": "[Reno]\nYou are not under any request.",
+        "es": "[Reno]\nNo tienes ninguna solicitud activa."
+    },
+    "2LebCQ": {
+        "en": "Error has found in relation to the request of collection. Try again and if you find the same problem, please contact to operating team by capturing the screen shot.",
+        "es": "Se encontró un error relacionado con la solicitud de colección. Inténtalo de nuevo y, si encuentras el mismo problema, toma una captura de pantalla y ponte en contacto con el equipo de operaciones."
+    },
+    "2bebCQ": {
+        "en": "[Reno]\nDo you want to accumulate Energy Crystal inside of your body to receive a buff?",
+        "es": "[Reno]\n¿Quieres acumular Cristales de energía dentro de tu cuerpo para recibir un buff?"
+    },
+    "2rebCQ": {
+        "en": "Accumulating Energy Crystals?",
+        "es": "¿Acumular Cristales de energía?"
+    },
+    "27ebCQ": {
+        "en": "Accumulate Rough Energy Crystal",
+        "es": "Acumular Cristales de energía en bruto."
+    },
+    "3LebCQ": {
+        "en": "Accumulate Purified Energy Crystal",
+        "es": "Acumular Cristales de energía purificados."
+    },
+    "3bebCQ": {
+        "en": "Accumulate High Energy Crystal",
+        "es": "Acumular Cristales de energía superiores."
+    },
+    "3rebCQ": {
+        "en": "[Reno]\nEnergy Crystals are accumulated in your body when you hunt the monsters we ask you to.",
+        "es": "[Reno]\nLos Cristales de energía se acumulan en tu cuerpo cuando cazas los monstruos que te pedimos."
+    },
+    "37ebCQ": {
+        "en": "[Reno]\nOur research shows some methods enables humans to accumulate the Energy Crystal inside of the body in the form of a buff.",
+        "es": "[Reno]\nNuestra investigación muestra algunos métodos que permiten a los humanos acumular Cristales de energía dentro del cuerpo en forma de buff."
+    },
+    "4LebCQ": {
+        "en": "[Reno]\nIf you spend about 3 hours, you will be able to gain small amount of Energy Crystals. So do you want to receive the buff?",
+        "es": "[Reno]\nEn unas 3horas puedes ganar una pequeña cantidad de Cristales de energía. ¿Quieres recibir el buff?"
+    },
+    "4bebCQ": {
+        "en": "[Reno]\nYou finished! If you accumulate different Energy Crystal, it does not hurt your body but if you accumulate the same Energy Crystal? It would hurt your body.",
+        "es": "[Reno]\n¡Terminaste! Si acumulas diferentes Cristales de energía, no dañarás tu cuerpo, pero si acumulas el mismo Cristal de energía, sí podrías dañar tu cuerpo."
+    },
+    "4rebCQ": {
+        "en": "[Reno]\nHmm, you are not high level enough to accumulate Rough Energy Crystals. It is required that you be at least level 60 so that your body can withstand the accumulating effect.",
+        "es": "[Reno]\nMmm, no tienes el nivel suficiente para acumular Cristales de energía en bruto. Se requiere que tengas al menos el nivel60 para que tu cuerpo pueda soportar los efectos de la acumulación."
+    },
+    "47ebCQ": {
+        "en": "[Reno]\nAccmulating Energy Crystal has already begun. I am sorry but it is impossible to accumulate two different types of Energy Crystals at a time.",
+        "es": "[Reno]\nSe inició la acumulación de Cristales de energía. Lo siento, pero es imposible acumular dos tipos diferentes de Cristales de energía a la vez."
+    },
+    "5LebCQ": {
+        "en": "[Reno]\nIt takes 3 hours for your body to accumulate 2 to 4 Rough Energy Crystals.\nDo you want to start?",
+        "es": "[Reno]\nTu cuerpo tarda 3horas en acumular de 2 a 4Cristales de energía en bruto.\n¿Quieres empezar?"
+    },
+    "5bebCQ": {
+        "en": "Cancel",
+        "es": "Cancelar."
+    },
+    "5rebCQ": {
+        "en": "Start",
+        "es": "Empezar."
+    },
+    "57ebCQ": {
+        "en": "[Reno]\nI recommend that you try to accumulate Energy Crystal when you have time.",
+        "es": "[Reno]\nTe recomiendo que intentes acumular Cristales de energía cuando tengas tiempo."
+    },
+    "6LebCQ": {
+        "en": "[Reno]\nYou might feel a slight tingle.",
+        "es": "[Reno]\nEs posible que sientas un ligero cosquilleo."
+    },
+    "6bebCQ": {
+        "en": "Puck",
+        "es": "Puck"
+    },
+    "6rebCQ": {
+        "en": "[Reno]\nEverything seems to be in order. Let's start accumulating Rough Energy Crystals.\nRemember to come back to me after 3 hours to get the Rough Energy Crystals.",
+        "es": "[Reno]\nTodo parece estar en orden. Empecemos con la acumulación de Cristales de energía en bruto.\nRecuerda volver aquí después de 3horas para conseguir Cristales de energía en bruto."
+    },
+    "67ebCQ": {
+        "en": "[Reno]\nHmm, you are not high level enough to accumulate Purified Energy Crystals. It is required that you be at least 80 so that your body can withstand the accumulating effect.",
+        "es": "[Reno]\nMmm, no tienes el nivel suficiente para acumular Cristales de energía purificados. Se requiere que tengas al menos el nivel80 para que tu cuerpo pueda soportar los efectos de la acumulación."
+    },
+    "7LebCQ": {
+        "en": "[Reno]\nIt takes 3 hours for your body to accumulate 2 to 4 Purified Energy Crystals.\nDo you want to start?",
+        "es": "[Reno]\nTu cuerpo tarda 3horas en acumular de 2 a 4Cristales de energía purificados.\n¿Quieres empezar?"
+    },
+    "7bebCQ": {
+        "en": "Do not",
+        "es": "No."
+    },
+    "7rebCQ": {
+        "en": "[Reno]\nI recommend that you try to accumulate Energy Crystals when you have time.",
+        "es": "[Reno]\nTe recomiendo que intentes acumular Cristales de energía cuando tengas tiempo."
+    },
+    "77ebCQ": {
+        "en": "[Reno]\nEverything seems to be in order. Let's start accumulating Purified Energy Crystals.\nRemember to come back to me after 3 hours to get the Purified Energy Crystals.",
+        "es": "[Reno]\nTodo parece estar en orden. Empecemos con la acumulación de Cristales de energía purificados.\nRecuerda volver aquí después de 3horas para conseguir Cristales de energía purificados."
+    },
+    "8LebCQ": {
+        "en": "[Reno]\nHmm, you are not high level enough to accumulate High Energy Crystals. It is required that you be at least 90 so that your body can withstand the accumulating effect.",
+        "es": "[Reno]\nMmm, no tienes el nivel suficiente para acumular Cristales de energía superiores. Se requiere que tengas al menos el nivel90 para que tu cuerpo pueda soportar los efectos de la acumulación."
+    },
+    "8bebCQ": {
+        "en": "[Reno]\nAccmulating Energy Crystal has already begun. I am sorry but it is impossible to accumulate two different types of Energy Crystal at a time.",
+        "es": "[Reno]\nSe inició la acumulación de Cristales de energía. Lo siento, pero es imposible acumular dos tipos diferentes de Cristales de energía a la vez."
+    },
+    "8rebCQ": {
+        "en": "[Reno]\nAn error has occurred upon the request, but it is now corrected. Sorry for inconvenience.",
+        "es": "[Reno]\nSe produjo un error en la solicitud, pero ya se corrigió. Disculpa las molestias."
+    },
+    "87ebCQ": {
+        "en": "[Reno]\nIt takes 3 hours for your body to accumulate 2 to 4 High Energy Crystals.\nDo you want to start?",
+        "es": "[Reno]\nTu cuerpo tarda 3horas en acumular de 2 a 4Cristales de energía superiores.\n¿Quieres empezar?"
+    },
+    "9LebCQ": {
+        "en": "[Reno]\nI recommend you try to accumulate Energy Crystal when you have time.",
+        "es": "[Reno]\nTe recomiendo que intentes acumular Cristales de energía cuando tengas tiempo."
+    },
+    "9bebCQ": {
+        "en": "[Reno]\nEverything seems to be in order. Let's start accumulating High Energy Crystals.\nRemember to come back to me after 3 hours to get the High Energy Crystals.",
+        "es": "[Reno]\nTodo parece estar en orden. Empecemos con la acumulación de Cristales de energía superiores.\nRecuerda volver aquí después de 3horas para conseguir Cristales de energía superiores."
+    },
+    "9rebCQ": {
+        "en": "[Reno]\nDo you want to compress the Energy Crystal?",
+        "es": "[Reno]\n¿Quieres comprimir el Cristal de energía?"
+    },
+    "97ebCQ": {
+        "en": "What does compressing do?",
+        "es": "¿Qué hace la compresión?"
+    },
+    "+LebCQ": {
+        "en": "Compress Rough to Purified Crystal",
+        "es": "Comprimir el Cristal en bruto a Cristal purificado."
+    },
+    "+bebCQ": {
+        "en": "Compress Purified to High Crystal",
+        "es": "Comprimir el Cristal purificado a Cristal superior."
+    },
+    "+rebCQ": {
+        "en": "[Reno]\nAre you curious about Energy Crystal compression? I can compress lower level Energy Crystals into higher ones.",
+        "es": "[Reno]\n¿Sientes curiosidad por la compresión de los Cristales de energía? Puedo comprimir los Cristales de energía de nivel inferior a un nivel superior."
+    },
+    "+7ebCQ": {
+        "en": "[Reno]\nHere is what I can make.\n^FF000010 Rough Energy Crystal^000000 = ^FF00001 Purified Energy Crystal^000000\n^FF00005 Purified Energy Crystal^000000 = ^FF00001 High Energy Crystal^000000",
+        "es": "[Reno]\nEsto es lo que puedo hacer.\n^66000010Cristales de energía en bruto^000000 = ^6600001Cristal de energía purificado^000000\n^6600005Cristales de energía purificados^000000 = ^6600001Cristal de energía superior^000000"
+    },
+    "/LebCQ": {
+        "en": "[Reno]\nIf you need higher grade Energy Crystals this is a good way to get them since the lower ones are easier to get.",
+        "es": "[Reno]\nSi necesitas Cristales de energía de nivel superior, esta es una buena forma de conseguirlos ya que los de nivel inferior son más fáciles de conseguir."
+    },
+    "/bebCQ": {
+        "en": "[Reno]\n^FF000010 Rough Energy Crystal^000000 = ^FF00001 Purified Energy Crystal^000000",
+        "es": "[Reno]\n^66000010Cristales de energía en bruto^000000 = ^6600001Cristal de energía purificado^000000"
+    },
+    "/rebCQ": {
+        "en": "[Reno]\n{} Rough Energy Crystals will be compressed to {} Purified Energy Crystals. \nDo you want to compress?",
+        "es": "[Reno]\n{} Los Cristales de energía en bruto se comprimen en {} Cristales de energía purificados. \n¿Quieres comprimir?"
+    },
+    "/7ebCQ": {
+        "en": "Compress",
+        "es": "Comprimir."
+    },
+    "ALibCQ": {
+        "en": "Stop",
+        "es": "Detener."
+    },
+    "AbibCQ": {
+        "en": "[Reno]\nOkay, Please contact if you need me in the future.",
+        "es": "[Reno]\nDe acuerdo. Comunícate conmigo si necesitas ayuda en el futuro."
+    },
+    "AribCQ": {
+        "en": "[Reno]\nCompression completed.\nRemaining Rough Energy Crystal {} can still be compressed to {} Purified Energy Crystals.\nDo you wish to continue to compress?",
+        "es": "[Reno]\nCompresión completada.\nLos Cristales de energía en bruto restantes {} aún se pueden comprimir en {} Cristales de energía purificados.\n¿Quieres seguir comprimiendo?"
+    },
+    "A7ibCQ": {
+        "en": "[Reno]\nYou don't have enough Rough Energy Crystals.",
+        "es": "[Reno]\nNo tienes suficientes Cristales de energía en bruto."
+    },
+    "BLibCQ": {
+        "en": "[Reno]\nCompression completed.",
+        "es": "[Reno]\nCompresión completada."
+    },
+    "BbibCQ": {
+        "en": "[Reno]\n^FF00005 Purified Energy Crystal^000000 = ^FF00001 High Energy Crystal^000000",
+        "es": "[Reno]\n^6600005Cristales de energía purificados^000000 = ^6600001Cristal de energía superior^000000"
+    },
+    "BribCQ": {
+        "en": "[Reno]\n{} Purified Energy Crystals will be compressed to {} High Energy Crystals.",
+        "es": "[Reno]\n{} Los Cristales de energía purificados se comprimen en {} Cristales de energía superiores."
+    },
+    "B7ibCQ": {
+        "en": "[Reno]\n{} Purified Energy Crystals will be compressed to {} High Energy Crystals. \nDo you want to compress?",
+        "es": "[Reno]\n{} Los Cristales de energía purificados se comprimen en {} Cristales de energía superiores. \n¿Quieres comprimir?"
+    },
+    "CLibCQ": {
+        "en": "[Reno]\nCompression completed.\nRemaining Purified Energy Crystal {} can still be compressed to {} High Energy Crystals.",
+        "es": "[Reno]\nCompresión completada.\nLos Cristales de energía purificados restantes {} aún se pueden comprimir en {} Cristales de energía superiores."
+    },
+    "CbibCQ": {
+        "en": "[Reno]\nYou don't have enough Purified Energy Crystals.",
+        "es": "[Reno]\nNo tienes suficientes Cristales de energía purificados."
+    },
+    "CribCQ": {
+        "en": "[Reno]\nDo you want to exchange Energy Crystals for equipment? Please select the type of Energy Crystal that you wish to exchange.",
+        "es": "[Reno]\n¿Quieres canjear Cristales de energía por elementos de tu equipamiento? Selecciona el tipo de Cristal de energía que quieres canjear."
+    },
+    "C7ibCQ": {
+        "en": "[^0000FF{}^000000]Rough Energy Crystal",
+        "es": "[^FF0000{}^000000]Cristal de energía en bruto."
+    },
+    "DLibCQ": {
+        "en": "[^0000FF{}^000000]Purified Energy Crystal",
+        "es": "[^FF0000{}^000000]Cristal de energía purificado."
+    },
+    "DbibCQ": {
+        "en": "[^0000FF{}^000000]High Energy Crystal",
+        "es": "[^FF0000{}^000000]Cristal de energía superior."
+    },
+    "DribCQ": {
+        "en": "[Reno]\nThis is the brochure regarding to equipment upgrade that our Energy Crystal research association provide. Please take a look around.",
+        "es": "[Reno]\nEste es el folleto relacionado con la mejora de equipamiento que ofrece la Asociación de Investigación de Cristales de Energía. Echa un vistazo."
+    },
+    "D7ibCQ": {
+        "en": "[Reno]\nPlease select the equipment to exchange for Rough Energy Crystals.",
+        "es": "[Reno]\nSelecciona el equipamiento que quieres canjear por Cristales de energía en bruto."
+    },
+    "ELibCQ": {
+        "en": "[Reno]\nPlease select the equipment to exchange for Purified Energy Crystals.",
+        "es": "[Reno]\nSelecciona el equipamiento que quieres canjear por Cristales de energía purificados."
+    },
+    "EbibCQ": {
+        "en": "[Reno]\nPlease select the equipment to exchange for High Energy Crystals.",
+        "es": "[Reno]\nSelecciona el equipamiento que quieres canjear por Cristales de energía superiores."
+    },
+    "EribCQ": {
+        "en": "Mage Hat ({}/100)",
+        "es": "Sombrero de mago ({}/100)."
+    },
+    "E7ibCQ": {
+        "en": "Magician Hat ({}/100)",
+        "es": "Galera de mago ({}/100)."
+    },
+    "FLibCQ": {
+        "en": "Kitsune Mask ({}/100)",
+        "es": "Máscara de Kitsune ({}/100)."
+    },
+    "FbibCQ": {
+        "en": "Joker Jester ({}/100)",
+        "es": "Gorro de bufón ({}/100)."
+    },
+    "FribCQ": {
+        "en": "Bunny Band ({}/100)",
+        "es": "Vincha de orejas de conejo ({}/100)."
+    },
+    "F7ibCQ": {
+        "en": "Munak Hat ({}/100)",
+        "es": "Sombrero de Munak ({}/100)."
+    },
+    "GLibCQ": {
+        "en": "Bongun Hat ({}/100)",
+        "es": "Sombrero de Bongun ({}/100)."
+    },
+    "GbibCQ": {
+        "en": "Opera Phantom Mask ({}/100)",
+        "es": "Máscara del Fantasma de la Ópera ({}/100)."
+    },
+    "GribCQ": {
+        "en": "Mage Hat",
+        "es": "Sombrero de mago"
+    },
+    "G7ibCQ": {
+        "en": "Magician Hat",
+        "es": "Galera de mago"
+    },
+    "HLibCQ": {
+        "en": "Kitsune Mask",
+        "es": "Máscara de Kitsune"
+    },
+    "HbibCQ": {
+        "en": "Joker Jester",
+        "es": "Gorro de bufón"
+    },
+    "HribCQ": {
+        "en": "Bunny Band",
+        "es": "Vincha de orejas de conejo"
+    },
+    "H7ibCQ": {
+        "en": "Munak Hat",
+        "es": "Sombrero de Munak"
+    },
+    "ILibCQ": {
+        "en": "Bongun Hat",
+        "es": "Sombrero de Bongun"
+    },
+    "IbibCQ": {
+        "en": "Opera Phantom Mask",
+        "es": "Máscara del Fantasma de la Ópera"
+    },
+    "IribCQ": {
+        "en": "Binoculars ({}/200)",
+        "es": "Binoculares ({}/200)."
+    },
+    "I7ibCQ": {
+        "en": "Fin Helm{}/200)",
+        "es": "Yelmo de aletas ({}/200)."
+    },
+    "JLibCQ": {
+        "en": "Assassin Mask ({}/200)",
+        "es": "Máscara de asesino ({}/200)."
+    },
+    "JbibCQ": {
+        "en": "Welding Mask ({}/200)",
+        "es": "Máscara de soldar ({}/200)."
+    },
+    "JribCQ": {
+        "en": "Safety Ring({}/200)",
+        "es": "Anillo de seguridad ({}/200)."
+    },
+    "J7ibCQ": {
+        "en": "Angelic Protection{}/100)",
+        "es": "Protección angelical ({}/100)."
+    },
+    "KLibCQ": {
+        "en": "Angelic Guard{}/100)",
+        "es": "Guardia angelical ({}/100)."
+    },
+    "KbibCQ": {
+        "en": "Angel's Reincarnation{}/100)",
+        "es": "Reencarnación del ángel ({}/100)."
+    },
+    "KribCQ": {
+        "en": "Angelic Cardigan {}/100)",
+        "es": "Cárdigan angelical ({}/100)."
+    },
+    "K7ibCQ": {
+        "en": "Angel's Kiss{}/100)",
+        "es": "Beso de ángel ({}/100)."
+    },
+    "LLibCQ": {
+        "en": "Binoculars",
+        "es": "Binoculares"
+    },
+    "LbibCQ": {
+        "en": "Fin Helm",
+        "es": "Yelmo de aletas"
+    },
+    "LribCQ": {
+        "en": "Assassin Mask",
+        "es": "Máscara de asesino"
+    },
+    "L7ibCQ": {
+        "en": "Welding Mask",
+        "es": "Máscara de soldar"
+    },
+    "MLibCQ": {
+        "en": "[Reno]\nThe material to make a Safety Ring[1] is insufficient. Please check your inventory.",
+        "es": "[Reno]\nNo tienes suficientes materiales para fabricar un Anillo de seguridad[1]. Revisa tu inventario."
+    },
+    "MbibCQ": {
+        "en": "[Reno]\nCheck the ^FF0000Guideline^000000s before exchanging. Have the safety ring.",
+        "es": "[Reno]\nConsulta las ^660000reglas generales^000000 antes de proceder con el canje. Aquí tienes el Anillo de seguridad."
+    },
+    "MribCQ": {
+        "en": "[Reno]\n^FF0000safety ring and Refining skill, enchant, used cards of necessary material will all disappear after exchanging the Energy Crystals.^000000",
+        "es": "[Reno]\n^660000El Anillo de seguridad y la Habilidad de refinamiento, el encantamiento y las cartas usadas de material necesario desaparecerán después de canjear los Cristales de energía.^000000"
+    },
+    "M7ibCQ": {
+        "en": "[Reno]\nAre you ok with these ^FF0000Guideline^000000s?",
+        "es": "[Reno]\n¿Estás de acuerdo con las ^660000reglas generales^000000?"
+    },
+    "NLibCQ": {
+        "en": "Yes I am aware. Please continue.",
+        "es": "Sí, tengo conocimiento. Continuar."
+    },
+    "NbibCQ": {
+        "en": "I won't do it.",
+        "es": "No lo haré."
+    },
+    "NribCQ": {
+        "en": "[Reno]\nOkay, Please contact to me in the future.",
+        "es": "[Reno]\nDe acuerdo. Comunícate conmigo en el futuro."
+    },
+    "N7ibCQ": {
+        "en": "[Reno]\nThen, let's start to exchange for the Safety Ring.",
+        "es": "[Reno]\nEmpecemos con el canje para preparar el Anillo de seguridad."
+    },
+    "OLibCQ": {
+        "en": "[Reno]\nExchange is completed. The Energy Crystal that you paid for will be a help for research.",
+        "es": "[Reno]\nSe completó el canje. El Cristal de energía por el que pagaste será de ayuda para la investigación."
+    },
+    "ObibCQ": {
+        "en": "Angelic Protection",
+        "es": "Protección angelical"
+    },
+    "OribCQ": {
+        "en": "Angelic Guard",
+        "es": "Guardia angelical"
+    },
+    "O7ibCQ": {
+        "en": "Angel's Reincarnation",
+        "es": "Reencarnación del ángel"
+    },
+    "PLibCQ": {
+        "en": "Angelic Cardigan",
+        "es": "Cárdigan angelical"
+    },
+    "PbibCQ": {
+        "en": "Angel's Kiss",
+        "es": "Beso de ángel"
+    },
+    "PribCQ": {
+        "en": "Corsair ({}/300)",
+        "es": "Corsario ({}/300)."
+    },
+    "P7ibCQ": {
+        "en": "Bone Helm[1] ({}/300)",
+        "es": "Yelmo de hueso[1] ({}/300)."
+    },
+    "QLibCQ": {
+        "en": "Helm of Angel ({}/300)",
+        "es": "Yelmo de ángel ({}/300)."
+    },
+    "QbibCQ": {
+        "en": "Hat of the Sun God ({}/1000)",
+        "es": "Sombrero del dios Sol ({}/1000)."
+    },
+    "QribCQ": {
+        "en": "Hat of the Sun God[1] ({}/100)",
+        "es": "Sombrero del dios Sol[1] ({}/100)."
+    },
+    "Q7ibCQ": {
+        "en": "Variant Shoes ({}/300)",
+        "es": "Calzado desparejo ({}/300)."
+    },
+    "RLibCQ": {
+        "en": "Ring Of Flame Lord ({}/300)",
+        "es": "Anillo del Señor de la Llama ({}/300)."
+    },
+    "RbibCQ": {
+        "en": "Ring Of Resonance ({}/300)",
+        "es": "Anillo de resonancia ({}/300)."
+    },
+    "RribCQ": {
+        "en": "Angelic Protection{}/20)",
+        "es": "Protección angelical ({}/20)."
+    },
+    "R7ibCQ": {
+        "en": "Angelic Guard{}/20)",
+        "es": "Guardia angelical ({}/20)."
+    },
+    "SLibCQ": {
+        "en": "Angel's Reincarnation{}/20)",
+        "es": "Reencarnación del ángel ({}/20)."
+    },
+    "SbibCQ": {
+        "en": "Warmth of an angell[1]{}/20)",
+        "es": "Calidez de ángel[1] ({}/20)."
+    },
+    "SribCQ": {
+        "en": "Angel's Kiss{}/20)",
+        "es": "Beso de ángel ({}/20)."
+    },
+    "S7ibCQ": {
+        "en": "Corsair",
+        "es": "Corsario"
+    },
+    "TLibCQ": {
+        "en": "Bone Helm[1]",
+        "es": "Yelmo de hueso[1]"
+    },
+    "TbibCQ": {
+        "en": "Helm of Angel",
+        "es": "Yelmo de ángel"
+    },
+    "TribCQ": {
+        "en": "Hat of the Sun God",
+        "es": "Sombrero del dios Sol"
+    },
+    "T7ibCQ": {
+        "en": "Hat of the Sun God[1]",
+        "es": "Sombrero del dios Sol[1]"
+    },
+    "ULibCQ": {
+        "en": "Variant Shoes",
+        "es": "Calzado desparejo"
+    },
+    "UbibCQ": {
+        "en": "Ring Of Flame Lord",
+        "es": "Anillo del Señor de la Llama"
+    },
+    "UribCQ": {
+        "en": "Ring Of Resonance",
+        "es": "Anillo de resonancia"
+    },
+    "U7ibCQ": {
+        "en": "Error has found in relation to association. Try again and if you find the same problem, please contact to operating team by capturing the screen shot.",
+        "es": "Se encontró un error relacionado con la asociación. Inténtalo de nuevo y, si encuentras el mismo problema, toma una captura de pantalla y ponte en contacto con el equipo de operaciones."
+    },
+    "VLibCQ": {
+        "en": "[Reno]\nYou need to have the normal headgear or item first in order for me to upgrade the equipment.",
+        "es": "[Reno]\nPrimero debes tener un accesorio para la cabeza u objeto normal para poder mejorar el equipamiento."
+    },
+    "VbibCQ": {
+        "en": "[Reno]\nYou don't have enough crystals.",
+        "es": "[Reno]\nNo tienes suficientes cristales."
+    },
+    "VribCQ": {
+        "en": "[Reno]\nNotify ^FF0000Guide line^000000 before upgrading equipment.",
+        "es": "[Reno]\nRevisa las ^660000reglas generales^000000 antes de mejorar el equipamiento."
+    },
+    "V7ibCQ": {
+        "en": "[Reno]\n^FF0000If equipment is upgraded with Energy Crystal, Refining skill of equipment, enchant, used cards are all disappeared.^000000",
+        "es": "[Reno]\n^660000Si el equipamiento se mejora con Cristales de energía, la Habilidad de refinamiento del equipamiento, el encantamiento y las cartas usadas desaparecen.^000000"
+    },
+    "WLibCQ": {
+        "en": "[Reno]\nAre you well noted of ^FF0000Guideline^000000?",
+        "es": "[Reno]\n¿Conoces bien las ^660000reglas generales^000000?"
+    },
+    "WbibCQ": {
+        "en": "Well noted.",
+        "es": "Sí, estoy al tanto."
+    },
+    "WribCQ": {
+        "en": "[Reno]\nAll right{}Upgrade has started.",
+        "es": "[Reno]\nMuy bien.{}Comenzó la mejora."
+    },
+    "W7ibCQ": {
+        "en": "[Reno]\nUpgrade is completed. The Energy Crystal that you paid for will be a help for research.",
+        "es": "[Reno]\nSe completó la mejora. El Cristal de energía por el que pagaste será de ayuda para la investigación."
+    },
+    "XLibCQ": {
+        "en": "[Reno]\nDo you want to donate Energy Crystals to get a random new headgear?",
+        "es": "[Reno]\n¿Quieres donar Cristales de energía para conseguir un nuevo accesorio para la cabeza al azar?"
+    },
+    "XbibCQ": {
+        "en": "Donate Energy Crystals?",
+        "es": "¿Donar Cristales de energía?"
+    },
+    "XribCQ": {
+        "en": "Donate 300 Rough Energy Crystals.",
+        "es": "Donar 300Cristales de energía en bruto."
+    },
+    "X7ibCQ": {
+        "en": "Donate 600 Purified Energy Crystals.",
+        "es": "Donar 600Cristales de energía purificados."
+    },
+    "YLibCQ": {
+        "en": "Donate 900 High Energy Crystals.",
+        "es": "Donar 900Cristales de energía superiores."
+    },
+    "YbibCQ": {
+        "en": "[Reno]\nWe are collecting Energy Crystals so that we can research more combinations of headgears for adventures.",
+        "es": "[Reno]\nEstamos recolectando Cristales de energía para poder investigar más combinaciones de accesorios para la cabeza para las aventuras."
+    },
+    "YribCQ": {
+        "en": "[Reno]\nThanks to the support of adventurers we can use these Energy Crystals to further our research.",
+        "es": "[Reno]\nGracias al apoyo de los trotamundos podemos usar estos Cristales de energía para avanzar en nuestra investigación."
+    },
+    "Y7ibCQ": {
+        "en": "[Reno]\nSo we receive a minimum 300 Rough Energy Crystals, 600 Purified Energy Crystals and 900 High Energy Crystals.\nFor the donation, I'll give you a random new headgear.",
+        "es": "[Reno]\nRecibimos un mínimo de 300Cristales de energía en bruto, 600Cristales de energía purificados y 900Cristales de energía superiores.\nPor tu donación, te daré un nuevo accesorio para la cabeza al azar."
+    },
+    "ZLibCQ": {
+        "en": "[Reno]\n300 Rough Energy Crystals\n-New Mage Hat\n-New Magician Hat\n-New Kitsune Mask\n-New Joker Jester\n-New Bunny Band\n-New Munak Hat\n-New Bongun Hat\n-New Phantom Opera Mask",
+        "es": "[Reno]\n300Cristales de energía en bruto\n-Sombrero de mago nuevo\n-Galera de mago nueva\n-Máscara de Kitsune nueva\n-Gorro de bufón nuevo\n-Vincha de orejas de conejo nueva\n-Sombrero de Munak nuevo\n-Sombrero de Bongun nuevo\n-Máscara del Fantasma de la Ópera nueva"
+    },
+    "ZbibCQ": {
+        "en": "[Reno]\n600 Purified Energy Crystals\n-Good Binoculars\n-Good Fin Helm\n-Good Assassin Mask\n-Good Welding Mask\n-Good Safety Ring\n-Good Angelic Protection\n-Good Angelic Guard\n-Good Angelic Cardigan\n-Good Angel's Reincarnation",
+        "es": "[Reno]\n600Cristales de energía purificados\n-Binoculares buenos\n-Yelmo de aletas bueno\n-Máscara de asesino buena\n-Máscara de soldar buena\n-Anillo de seguridad bueno\n-Protección angelical buena\n-Guardia angelical buena\n-Cárdigan angelical bueno\n-Reencarnación del ángel buena"
+    },
+    "ZribCQ": {
+        "en": "[Reno]\n900 High Energy Crystals\n-Enhanced Corsair\n-Enhanced Bone Helm\n-Enhanced Helm of Angel\n-Enhanced Variant Shoes\n-Good Ring of Flame Lord\n-Good Ring Of Resonance",
+        "es": "[Reno]\n900Cristales de energía superiores\n-Corsario mejorado\n-Yelmo de hueso mejorado\n-Yelmo de ángel mejorado\n-Calzado desparejo mejorado\n-Anillo del Señor de la Llama bueno\n-Anillo de resonancia bueno"
+    },
+    "Z7ibCQ": {
+        "en": "[Reno]\nThanks to your support, but we need 300 Rough Energy Crystals.",
+        "es": "[Reno]\nGracias por tu apoyo, pero necesitamos 300Cristales de energía en bruto."
+    },
+    "aLibCQ": {
+        "en": "[Reno]\nThanks to your support, but we need 600 Purified Energy Crystals.",
+        "es": "[Reno]\nGracias por tu apoyo, pero necesitamos 600Cristales de energía purificados."
+    },
+    "abibCQ": {
+        "en": "[Reno]\nThanks to your support, but we need 900 High Energy Crystals.",
+        "es": "[Reno]\nGracias por tu apoyo, pero necesitamos 900Cristales de energía superiores."
+    },
+    "aribCQ": {
+        "en": "[Reno]\n Thank you very much. Your support will be a big help for the research of the Energy Crystals. This is nothing but paying back everyone in return.",
+        "es": "[Reno]\n Muchas gracias. Tu apoyo será de gran ayuda para la investigación de los Cristales de energía. Esto es lo mínimo que podemos hacer para retribuirles."
+    },
+    "a7ibCQ": {
+        "en": "You should not receive this error. Please contact the GM Team.",
+        "es": "No deberías recibir este error. Ponte en contacto con el equipo de GM."
+    }
+}

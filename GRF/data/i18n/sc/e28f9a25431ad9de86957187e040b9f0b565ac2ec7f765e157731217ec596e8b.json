@@ -1,0 +1,2352 @@
+{
+    "oBiWBg": {
+        "en": "Guildsman",
+        "pt": "Mestre Ferreiro",
+        "es": "Gremialista"
+    },
+    "oRiWBg": {
+        "en": "You seem to have come this far because of a special event.",
+        "pt": "Parece que você chegou até aqui por causa de um evento especial.",
+        "es": "Parece que viniste hasta aquí debido a un evento especial."
+    },
+    "ohiWBg": {
+        "en": "^4D4DFF You can summon a service npc for job change.",
+        "pt": "^4D4DFFVocê pode invocar um NPC de Mudança de classe^000000",
+        "es": "^4D4DFFPuedes invocar a un NPC de servicio para un cambio de clase."
+    },
+    "oxiWBg": {
+        "en": "Summon a service npc for a job change.",
+        "pt": "Invocar NPC de Mudança de Classe",
+        "es": "Invoca a un NPC de servicio para un cambio de clase."
+    },
+    "pBiWBg": {
+        "en": "refuse.",
+        "pt": "Recusar.",
+        "es": "Rechazar."
+    },
+    "pRiWBg": {
+        "en": "^4D4DFF You can summon a service npc for job change.\nThe 3rd job change can be done in each job guild.^000000",
+        "pt": "^4D4DFFVocê pode invocar um NPC de Mudança de classe.\nClasses 3 precisam completar a missão tradicionalmente.^000000",
+        "es": "^4D4DFFPuedes invocar a un NPC de servicio para un cambio de clase.\nEl tercer cambio de clase se puede hacer en el gremio de cada clase.^000000"
+    },
+    "phiWBg": {
+        "en": "[Altiregen]\nHey hey. I don't have time for chit-chat, I'm a pretty busy guy. There's all these Merchants working hard to become Blacksmiths.",
+        "pt": "[Altiregen]\nEi, ei. Eu não tenho tempo pra conversa fiada, sou um cara ocupado. Há muitos Mercadores querendo se tornar Ferreiros.",
+        "es": "[Altiregen]\nOye, oye. No tengo tiempo para charlar, soy un tipo bastante ocupado. Todos estos Comerciantes están trabajando duro para convertirse en Herreros."
+    },
+    "pxiWBg": {
+        "en": "[Altiregen]\nWait a minute, I think I've met you before.\nUmmm.....",
+        "pt": "[Altiregen]\nEspere um minuto, acho que já vi você antes.\nHummm...",
+        "es": "[Altiregen]\nUn momento, creo que ya nos conocemos.\nEmmm……"
+    },
+    "qBiWBg": {
+        "en": "[Altiregen]\nAre you the one who broke my weapon and ran away? Or are you the one who tortured me so that I'd forge a weapon for you? Why can't I remember?",
+        "pt": "[Altiregen]\nNão foi você quem quebrou minha arma e fugiu? Ou foi você que me torturou para que eu forjasse uma arma? Por que não consigo me lembrar?",
+        "es": "[Altiregen]\n¿Eres tú quien rompió mi arma y huyó? ¿O eres la persona que me torturó para que le forjara un arma? ¿Por qué no me acuerdo?"
+    },
+    "qRiWBg": {
+        "en": "[Altiregen]\n.......\nI can't remember who you are for the life of me. Is this deja vu?",
+        "pt": "[Altiregen]\n.......\nEu não me lembro quem você é, mas tenho certeza de que já vi você antes.",
+        "es": "[Altiregen]\n……\nPor mucho que lo intento, no puedo recordar quién eres. ¿Es un déjà vu?"
+    },
+    "qhiWBg": {
+        "en": "[Altiregen]\nArgh!! This is really bugging me! But still, I can sense that there's something special about you. Oh well, whatever. Have a good day~",
+        "pt": "[Altiregen]\nArgh!! Isso me irrita demais! Mas, ainda assim, eu posso ver que há algo especial em você. Ah, que seja. Tenha um bom dia!",
+        "es": "[Altiregen]\n¡Argh! ¡Esto me molesta mucho! Pero aún así, puedo sentir que hay algo especial en ti. Bueno, da igual. Que tengas un buen día~."
+    },
+    "qxiWBg": {
+        "en": "[Altiregen]\nWelcome!\nWe are Workers of Steel,\nthe Blacksmith Guild.",
+        "pt": "[Altiregen]\nSaudações!\nNós somos os Trabalhadores de Aço,\na Guilda dos Ferreiros.",
+        "es": "[Altiregen]\n¡Te doy la bienvenida!\nSomos Trabajadores del Acero,\nel gremio de Herreros."
+    },
+    "rBiWBg": {
+        "en": "[Altiregen]\nWe pour the fervor\nand passion of our souls into\nour craft. Our skills of melting metal into new weapons\nand tools is truly a form of art!",
+        "pt": "[Altiregen]\nNós colocamos o fervor\ne a paixão de nossas almas no\nnosso ofício. A nossa habilidade de derreter metal e fazer\nnovas armas e ferramentas é mesmo uma arte!",
+        "es": "[Altiregen]\nVertemos el fervor\ny la pasión de nuestras almas en\nnuestro oficio. ¡Nuestra habilidad para fundir metal y crear nuevas armas\ny herramientas es realmente una forma de arte!"
+    },
+    "rRiWBg": {
+        "en": "[Altiregen]\nOh~\nwhat a very\npretty lady!\nAre you interested in\nbecoming a Blacksmith?",
+        "pt": "[Altiregen]\nAh!\nMas que\nlinda moça!\nVocê está interessada em\nse tornar uma Ferreira?",
+        "es": "[Altiregen]\nAh~.\n¡Que dama\ntan bonita!\n¿Te interesa\nconvertirte en clase Herrero?"
+    },
+    "rhiWBg": {
+        "en": "[Altiregen]\nFirst, you must become a Merchant before you can become a Blacksmith. Go to the city of Alberta to learn the Merchant trade.",
+        "pt": "[Altiregen]\nPrimeiro, você deve se tornar uma Mercadora antes de evoluir para Ferreira. Vá para a cidade de Alberta para aprender o ofício de Mercadora.",
+        "es": "[Altiregen]\nEn primer lugar, debes ser de la clase Comerciante antes de poder cambiar a la clase Herrero. Ve a la ciudad de Alberta para aprender el oficio de Comerciante."
+    },
+    "rxiWBg": {
+        "en": "[Altiregen]\nOh, are you interested in having a weapon forged? I'm sorry to disappoint you, but I actually have a lot of business to attend to.",
+        "pt": "[Altiregen]\nAh, você quer que eu forje uma arma? Lamento muito, mas eu estou ocupado demais para atender você agora.",
+        "es": "[Altiregen]\nAh, ¿quieres que te forjen un arma? Siento decepcionarte, pero tengo muchos asuntos que atender."
+    },
+    "sBiWBg": {
+        "en": "[Altiregen]\nOh...\nThere's not much we can offer you here. And you can't really help out around here unless you know how to make stuff...",
+        "pt": "[Altiregen]\nAh...\nNós não temos muito para oferecer aqui. E você não pode nos ajudar, a não ser que saiba como fazer as coisas...",
+        "es": "[Altiregen]\nAh…\nNo hay mucho que podamos ofrecerte aquí. Y aquí no puedes ayudar si no sabes hacer cosas…"
+    },
+    "sRiWBg": {
+        "en": "[Altiregen]\nOh? What's a magic user doing here? I'm surprised. Usually this kind of rough work is beneath you intellectual types.",
+        "pt": "[Altiregen]\nHã? O que um usuário de magia está fazendo por aqui? Estou surpreso. Normalmente, esse tipo de trabalho sujo está abaixo de intelectuais como você.",
+        "es": "[Altiregen]\n¿Eh? ¿Qué haces aquí si lo tuyo es el uso de la magia? Estoy sorprendido. Normalmente este tipo de trabajo duro está por debajo de ustedes, los seres intelectuales."
+    },
+    "shiWBg": {
+        "en": "[Altiregen]\nOh! Am I correct in assuming you're a member of the Clergy? Would you please bless me before you leave!",
+        "pt": "[Altiregen]\nAh! Seria correto supor que você faz parte do Clero? Poderia me abençoar antes de sair?",
+        "es": "[Altiregen]\n¡Ah! ¿Estoy en lo cierto al suponer que eres miembro del clero? ¡Por favor, bendíceme antes de irte!"
+    },
+    "sxiWBg": {
+        "en": "[Altiregen]\nI'm sorry...\nBut there really isn't anything for you to steal here. Well, there are the Daggers we keep in the back, but...",
+        "pt": "[Altiregen]\nDesculpe-me...\nMas não tem nada aí que você possa roubar. Bom, tem as adagas que a gente guarda lá no fundo, mas...",
+        "es": "[Altiregen]\nLo siento…\nPero realmente no hay nada que puedas robar aquí. Bueno, están las dagas que guardamos atrás, pero…"
+    },
+    "tBiWBg": {
+        "en": "[Altiregen]\nSo how's the pharmacy business going on recently?\nWell, my forging business does not seem to grow any longer.",
+        "pt": "[Altiregen]\nE então, como vai o negócio na área farmacêutica ultimamente?\nBem, o meu negócio de forja realmente não está mais crescendo.",
+        "es": "[Altiregen]\n¿Cómo va el negocio farmacéutico últimamente?\nBueno, mi negocio de la herrería parece que ya no crece."
+    },
+    "tRiWBg": {
+        "en": "[Altiregen]\nOh! Long time no see.\nHave you come to purchase supplies from Christopher? These days I'm stuck behind this desk. My body's itching to strike the ol' anvil.",
+        "pt": "[Altiregen]\nAh! Há quanto tempo não vejo você.\nVocê veio comprar suprimentos com o Christopher? Ultimamente, eu fico preso atrás dessa mesa. Estou morrendo de vontade de forjar.",
+        "es": "[Altiregen]\n¡Ah! ¡Cuánto tiempo sin verte!\n¿Viniste a comprarle suministros a Christopher? Últimamente, estoy atrapado detrás de este escritorio. Mi cuerpo desea golpear el viejo yunque."
+    },
+    "thiWBg": {
+        "en": "[Altiregen]\nYou can't change to the Blacksmith Job Class without first using all your skill points. Please come back after wisely using your skill points.",
+        "pt": "[Altiregen]\nVocê não pode mudar de classe para Ferreiro sem gastar os seus pontos de habilidade primeiro. Volte depois de usar todos os seus pontos de habilidade.",
+        "es": "[Altiregen]\nNo puedes cambiar de clase a Herrero sin antes usar todos tus puntos de habilidad. Vuelve luego de usar sabiamente tus puntos de habilidad."
+    },
+    "txiWBg": {
+        "en": "[Altiregen]\nWhy don't you stop struggling\nto make zeny as a Merchant and\njoin the elite Blacksmith class?\nIf you're interested, fill out this application with your name\nand Job Level.",
+        "pt": "[Altiregen]\nPor que você não para de tentar\nfazer uns trocados como um mero\nMercador e se junta à elite, sendo \num dos Ferreiros?\nSe estiver interesse, preencha esta \nficha com o seu nome e nível de classe.",
+        "es": "[Altiregen]\n¿Por qué no dejas de esforzarte en\nganar zeny como Comerciante y\nte unes a la élite de los Herreros?\nSi te interesa, completa esta solicitud con tu nombre\ny nivel de clase."
+    },
+    "uBiWBg": {
+        "en": "Fill out Application.",
+        "pt": "Preencher Ficha.",
+        "es": "Completar la solicitud."
+    },
+    "uRiWBg": {
+        "en": "What are the requirements?",
+        "pt": "Quais são os requisitos?",
+        "es": "¿Cuáles son los requisitos?"
+    },
+    "uhiWBg": {
+        "en": "Um, I need to think about it.",
+        "pt": "Humm, preciso pensar sobre isso.",
+        "es": "Em, tengo que pensarlo."
+    },
+    "uxiWBg": {
+        "en": "[Altiregen]\nHmmm...\nLooks like you\nmeet the Job Level\nRequirement.",
+        "pt": "[Altiregen]\nHumm...\nParece que você \natende aos requisitos\ndo Nível de Classe.",
+        "es": "[Altiregen]\nMmmm…\nParece que\ncumples con el requisito de\nnivel de clase."
+    },
+    "vBiWBg": {
+        "en": "[Altiregen]\nYou see, we don't accept just anybody into our guild. First, we only accept experienced Merchants with a true desire to become great Blacksmiths. Let's see...",
+        "pt": "[Altiregen]\nVocê sabe, nós não aceitamos qualquer um na nossa guilda. Nós só aceitamos Mercadores experientes com um verdadeiro desejo de se tornarem bons Ferreiros. Vejamos...",
+        "es": "[Altiregen]\nVerás, no aceptamos a cualquiera en nuestro gremio. En primer lugar, solo aceptamos a Comerciantes experimentados con verdadero deseo de convertirse en grandes Herreros. Veamos…"
+    },
+    "vRiWBg": {
+        "en": "^3355FF*Shuffling of papers*^000000",
+        "pt": "^3355FF*Mexendo na papelada*^000000",
+        "es": "^3355FF*Revuelve papeles*^000000"
+    },
+    "vhiWBg": {
+        "en": "[Altiregen]\nHmmm...\nOne of our Blacksmiths in Einbech, ^8E6B23Geschupenschte^000000 has sent us word that he's short on help. Your first test of character will be to help him out.",
+        "pt": "[Altiregen]\nHumm...\nUm dos nossos Ferreiros em Einbech, ^8E6B23Geschupenschte^000000, nos enviou um recado dizendo que precisa de ajudantes. O seu primeiro teste de classe vai ser ajudá-lo.",
+        "es": "[Altiregen]\nMmmm…\nUno de nuestros Herreros en Einbech, ^8E6B23Geschupenschte^000000, nos comunicó que necesita ayuda. Tu primera prueba de carácter será ayudarlo."
+    },
+    "vxiWBg": {
+        "en": "[Altiregen]\nBe careful\nand good luck!",
+        "pt": "[Altiregen]\nTenha cuidado\ne boa sorte!",
+        "es": "[Altiregen]\n¡Ten cuidado\ny buena suerte!"
+    },
+    "wBiWBg": {
+        "en": "[Altiregen]\nHmmm, it seems that you lack experience as a Merchant. We require that you are at least Job Level 40, you see.",
+        "pt": "[Altiregen]\nHumm, parece que você não tem experiência como Mercador. Você precisa ter atingido ao menos o Nível de Classe 40, sabe?",
+        "es": "[Altiregen]\nMmmm, parece que te falta experiencia como Comerciante. Verás, exigimos un nivel de clase 40 como mínimo."
+    },
+    "wRiWBg": {
+        "en": "[Altiregen]\nI feel bad turning you away after you've come so far, but rules are rules. Sorry to disappoint you, but we'll welcome you back once you're ready.",
+        "pt": "[Altiregen]\nLamento por ter que recusar você, mas regras são regras. Sinto muito por desapontar você, mas pode voltar quando estiver pronto.",
+        "es": "[Altiregen]\nNo me agrada rechazarte después de que hayas llegado tan lejos, pero las reglas son las reglas. Lamento decepcionarte, pero te recibiremos cuando cumplas los requisitos."
+    },
+    "whiWBg": {
+        "en": "[Altiregen]\nYou want to know our requirements? First, you need to have Job Level 40 or higher as a Merchant. Second, you need to pass a test that will be given by the Blacksmith Guild.",
+        "pt": "[Altiregen]\nVocê quer saber quais são os requisitos? Primeiro, você tem que ter um nível de classe 40 ou maior como Mercador. Segundo, você tem que passar por um teste da Guilda dos Ferreiros.",
+        "es": "[Altiregen]\n¿Quiere conocer nuestros requisitos? En primer lugar, necesitas tener un nivel de clase 40 o superior como Comerciante. En segundo lugar, tienes que pasar una prueba que te tomará el gremio de Herreros."
+    },
+    "wxiWBg": {
+        "en": "[Altiregen]\nThe test may consist of difficult tasks, but it's definitely not impossible. You will need to deliver certain items to different areas around the world\nto complete the test.",
+        "pt": "[Altiregen]\nO teste pode consistir de tarefas difíceis, mas com certeza não é impossível. Você precisa entregar certos itens em diferentes regiões do mundo\npara completar o teste.",
+        "es": "[Altiregen]\nLa prueba puede consistir en tareas difíciles, pero definitivamente no es imposible. Tendrás que entregar determinados objetos en distintas zonas del mundo\npara completar la prueba."
+    },
+    "xBiWBg": {
+        "en": "[Altiregen]\nHmmm...\nWell, I hope\nto see you again.",
+        "pt": "[Altiregen]\nHumm...\nBem, espero que\nvocê volte em breve.",
+        "es": "[Altiregen]\nMmmm…\nBueno, espero\nvolver a verte."
+    },
+    "xRiWBg": {
+        "en": "[Altiregen]\nYou haven't left yet?\nGo to Einbech and find ^8E6B23Geschupenschte^000000. Finish helping him out, and when you're done, come back to me.",
+        "pt": "[Altiregen]\nVocê não foi ainda?\nVá até Einbech e encontre ^8E6B23Geschupenschte^000000. Ajude-o e, quando terminar, volte para cá.",
+        "es": "[Altiregen]\n¿Aún no te fuiste?\nVe a Einbech y busca a ^8E6B23Geschupenschte^000000. Ayúdalo y, cuando termines, vuelve conmigo."
+    },
+    "xhiWBg": {
+        "en": "[Altiregen]\nWas the work you did for ^8E6B23Geschupenschte^000000 to your liking? He's known for being pretty exacting...",
+        "pt": "[Altiregen]\nVocê gostou do trabalho que fez para ^8E6B23Geschupenschte^000000? Ele é famoso por ser bem exigente...",
+        "es": "[Altiregen]\n¿Te gustó el trabajo que realizaste para ^8E6B23Geschupenschte^000000? Se lo conoce por ser bastante exigente…"
+    },
+    "xxiWBg": {
+        "en": "[Altiregen]\nGreat job!!\nYou have passed\nthe first test...",
+        "pt": "[Altiregen]\nGrande trabalho!!\nVocê passou\nno primeiro teste...",
+        "es": "[Altiregen]\n¡¡Gran trabajo!!\nPasaste\nla primera prueba…"
+    },
+    "yBiWBg": {
+        "en": "[Altiregen]\nHm? You look surprised.\nI guess you didn't know that there's more than one test. \nHaha, but don't worry, you are not going to travel that far.\nPlease go talk to the guildsman inside the building for more details about your next test.",
+        "pt": "[Altiregen]\nHum? Você parece surpreso.\nAcho que você não sabia que há mais de um teste. \nHaha, não se preocupe, você não vai ter de ir tão longe agora.\nFale com a Ferreira no final do corredor para mais detalhes sobre o próximo teste.",
+        "es": "[Altiregen]\n¿Mm? Parece que te sorprendiste.\nSupongo que no sabías que hay más de una prueba. \nJa, ja, pero no te preocupes, no vas a viajar tan lejos.\nVe a hablar con la gremialista dentro del edificio para obtener más detalles sobre tu próxima prueba."
+    },
+    "yRiWBg": {
+        "en": "I want to change my job quickly! But...oh well.",
+        "pt": "Eu quero mudar de classe logo! Mas... ah, tá bom.",
+        "es": "¡Quiero cambiar de clase rápido! Pero… eh, bueno."
+    },
+    "yhiWBg": {
+        "en": "Grrr! Enough is enough!",
+        "pt": "Grrr! Já chega!",
+        "es": "¡Grrr! ¡Ya es suficiente!"
+    },
+    "yxiWBg": {
+        "en": "[Altiregen]\nI'm sorry, but I'm sure you understand, right? We can't just casually accept anybody into\nour guild!",
+        "pt": "[Altiregen]\nLamento, mas você entende, não é? Nós não podemos aceitar qualquer um na\nnossa guilda!",
+        "es": "[Altiregen]\nLo siento, pero seguro que lo entiendes, ¿verdad? ¡No podemos aceptar casualmente a cualquiera en\nnuestro gremio!"
+    },
+    "zBiWBg": {
+        "en": "[Altiregen]\nIf we don't keep our standards,\nwe won't be able to maintain the respectability of the Blacksmith Guild!\nWe can't embarass our guild in this manner! *Ahem* Anyway, you talk to the guildsman inside the building now.",
+        "pt": "[Altiregen]\nTemos que manter nossos padrões,\nou não poderemos conservar a respeitabilidade da Guilda dos Ferreiros!\nNão podemos envergonhar a nossa guilda assim! *A-ham* Bem, fale com a mulher da guilda lá dentro agora.",
+        "es": "[Altiregen]\nSi no mantenemos nuestros estándares,\n¡no podremos mantener la respetable fama del gremio de Herreros!\n¡No podemos avergonzar a nuestro gremio de esta manera! *Ejem* En fin, habla con la gremialista dentro del edificio ahora."
+    },
+    "zRiWBg": {
+        "en": "[Altiregen]\nAre you saying you're going\nto quit the application process? That's an insult to our guild!\nGet out of here! With that kind of attitude, you can forget becoming a member of the Blacksmith Guild!",
+        "pt": "[Altiregen]\nEstá dizendo que vai\ndesistir de mudar de classe? Isso é um insulto para a nossa guilda!\nSaia daqui! Com esse tipo de atitude, pode esquecer a Guilda dos Ferreiros! Você jamais será aceito!",
+        "es": "[Altiregen]\n¿Estás diciendo que vas a\nabandonar el proceso de solicitud? ¡Eso es un insulto a nuestro gremio!\n¡Fuera de aquí! ¡Con esa actitud, olvídate de ser miembro del gremio de Herreros!"
+    },
+    "zhiWBg": {
+        "en": "[Altiregen]\nYou have no spirit!\nIf you can't endure this, you'll never be a Blacksmith!",
+        "pt": "[Altiregen]\nVocê não tem coragem!\nSe não pode passar por isso, nunca vai se tornar um Ferreiro!",
+        "es": "[Altiregen]\n¡No tienes espíritu!\nSi no puedes soportar esto, ¡nunca serás clase Herrero!"
+    },
+    "zxiWBg": {
+        "en": "[Altiregen]\nUm? Haven't you talk to the guildsman yet?\nIf you haven't, I suggest you to do so as soon as possible.",
+        "pt": "[Altiregen]\nHã? Você ainda não falou com a mulher da guilda?\nSe não falou, sugiro que faça isso o mais rápido possível.",
+        "es": "[Altiregen]\n¿Em? ¿Aún no hablaste con la gremialista?\nSi no lo hiciste, te sugiero que lo hagas cuanto antes."
+    },
+    "0BiWBg": {
+        "en": "Please get off of that creature you're riding on\nthen come to find me again...",
+        "pt": "Por favor, remova sua montaria\ne depois venha me encontrar novamente...",
+        "es": "Bájate de la criatura que estás montando\ny ven a buscarme de nuevo…"
+    },
+    "0RiWBg": {
+        "en": "[Altiregen]\nExcellent, I can tell by the twinkle in your eye that you were successful. I can now bestow upon you the gift of the smithing, the art of the Blacksmith.",
+        "pt": "[Altiregen]\nExcelente, posso ver pelo brilho em seus olhos que você arrasou! Agora posso lhe conceder o dom da fundição do metal, a arte da forja!",
+        "es": "[Altiregen]\nExcelente, se nota por el brillo de tus ojos que tuviste éxito. Ahora puedo concederte el don de la herrería, el arte del Herrero."
+    },
+    "0hiWBg": {
+        "en": "[Altiregen]\nAlways remember that we are creators, and artists over metals. Be wary that you do not fall into the pitfalls of selfishness\nand greed.",
+        "pt": "[Altiregen]\nLembre-se de que somos criadores e artistas do metal. Esteja atento para não cair nas armadilhas do egoísmo\ne da cobiça.",
+        "es": "[Altiregen]\nRecuerda siempre que somos creadores y artistas de los metales. Ten cuidado de no caer en las trampas del egoísmo\ny la codicia."
+    },
+    "0xiWBg": {
+        "en": "[Altiregen]\nHere is a little\ngift to mark the\nbeginning of your\nlife as a Blacksmith.\nCongratulations!!!",
+        "pt": "[Altiregen]\nAqui vai um pequeno\npresente para marcar\no começo da sua\nvida como um Ferreiro.\nParabéns!!!",
+        "es": "[Altiregen]\nAquí tienes un pequeño\nregalo por el\ncomienzo de tu\nvida como clase Herrero.\n¡¡Felicitaciones!!"
+    },
+    "1BiWBg": {
+        "en": "[Altiregen]\nExcellent, I can tell by the twinkle in your eye that you were successful. I can now bestow upon you the gift of smithing, the art\nof the Blacksmith.",
+        "pt": "[Altiregen]\nExcelente, posso ver pelo brilho dos seus olhos que você conseguiu. Eu agora concedo a você o dom da profissão, a arte \ndo Ferreiro.",
+        "es": "[Altiregen]\nExcelente, se nota por el brillo de tus ojos que tuviste éxito. Ahora puedo otorgarte el don de la herrería, el arte\ndel Herrero."
+    },
+    "1RiWBg": {
+        "en": "[Geschupenschte]\nHello there!\nI'm ^8E6B23Geschupenschte^000000,\na Blacksmith by trade.\nNice to meet you!",
+        "pt": "[Geschupenschte]\nOlá!\nEu sou ^8E6B23Geschupenschte^000000,\num Ferreiro de negócios.\nPrazer em te conhecer!",
+        "es": "[Geschupenschte]\n¡Hola!\nSoy ^8E6B23Geschupenschte^000000,\nHerrero de profesión.\n¡Encantado de conocerte!"
+    },
+    "1hiWBg": {
+        "en": "[Geschupenschte]\nOh ho ho!\nYou're a Merchant!\nExcellent! I was\nin need of some help!",
+        "pt": "[Geschupenschte]\nOhhoho!\nVocê é da classe dos Mercadores!\nExcelente!\nEu estava precisando de ajuda aqui!",
+        "es": "[Geschupenschte]\n¡Oh, jo, jo!\n¡Eres Comerciante!\n¡Excelente! Estaba\nnecesitando ayuda."
+    },
+    "1xiWBg": {
+        "en": "[Geschupenschte]\nBut, of course,\nI wouldn't bother you\nif you're busy. Go along\nyour way if you must~",
+        "pt": "[Geschupenschte]\nMas, claro,\neu não vou incomodar\nse você estiver sem tempo.\nVá cuidar dos seus afazeres, se precisar...",
+        "es": "[Geschupenschte]\nPero, por supuesto,\nno te molestaría\nsi no estás disponible. Sigue\ntu camino si es necesario."
+    },
+    "2BiWBg": {
+        "en": "[Geschupenschte]\nAfter all...\nI should know\nhow it's like\nto be busy~",
+        "pt": "[Geschupenschte]\nAfinal...\nEu sei muito\nbem como é \nquando estamos ocupados.",
+        "es": "[Geschupenschte]\nDespués de todo…\nyo sé\nlo que es\nestar ocupado."
+    },
+    "2RiWBg": {
+        "en": "[Geschupenschte]\nAm I correct in assuming you are the help sent by the Blacksmith Guild? There aren't many trustyworthy people I can hire to help me, so I'm always\nshort on help.",
+        "pt": "[Geschupenschte]\nEntão você foi mandado pela Guilda dos Ferreiros para me ajudar? Não há muita gente confiável que eu possa contratar, então estou sempre\nprecisando de ajuda.",
+        "es": "[Geschupenschte]\n¿Estoy en lo cierto al suponer que el gremio de Herreros te envió a ayudarme? No hay mucha gente de confianza a la que pueda contratar para que me ayude, así que siempre\nme faltan manos."
+    },
+    "2hiWBg": {
+        "en": "[Geschupenschte]\nHmm, in any case,\nyou are the help that was sent, right? Okay, I have some work for you that must be handled\nright away!",
+        "pt": "[Geschupenschte]\nBem, de qualquer forma,\nvocê é a ajuda que eles mandaram, certo? Muito bem, eu tenho um trabalho para você fazer\nimediatamente!",
+        "es": "[Geschupenschte]\nMmm, en cualquier caso,\nte enviaron a ayudar, ¿verdad? Bien, tengo un trabajo para ti que hay que hacer\nya mismo."
+    },
+    "2xiWBg": {
+        "en": "[Geschupenschte]\nSome time ago, I had a boy working for me who had no experience and bought the wrong supplies! It was terrible...",
+        "pt": "[Geschupenschte]\nHá algum tempo, havia um menino trabalhando para mim. Ele era inexperiente e me comprou os suprimentos errados! Isso foi terrível...",
+        "es": "[Geschupenschte]\nHace algún tiempo, tenía trabajando para mí a un chico que no tenía experiencia y compraba los suministros equivocados. Fue terrible…"
+    },
+    "3BiWBg": {
+        "en": "[Geschupenschte]\nAnyone would hate to lose money through a foolish mistake like that. However, I have a slightly more difficult job for you.",
+        "pt": "[Geschupenschte]\nNinguém gosta de perder dinheiro por causa de um erro tolo como esse. Porém, eu tenho um trabalho um pouco mais difícil para você.",
+        "es": "[Geschupenschte]\nCualquiera odiaría perder dinero por un error tan tonto como ese. Sin embargo, tengo un trabajo un poco más difícil para ti."
+    },
+    "3RiWBg": {
+        "en": "[Geschupenschte]\nHowever, I want to make sure that you have some basic knowledge as a Merchant. I'd like to ask you some questions, if that's okay.",
+        "pt": "[Geschupenschte]\nEntretanto, quero saber se você tem um conhecimento básico como Mercador. Eu gostaria de fazer algumas perguntas, se você não se importa.",
+        "es": "[Geschupenschte]\nPero quiero asegurarme de que tengas algunos conocimientos básicos como Comerciante. Me gustaría hacerte algunas preguntas, si te parece bien."
+    },
+    "3hiWBg": {
+        "en": "Yes.",
+        "pt": "Sim.",
+        "es": "Sí."
+    },
+    "3xiWBg": {
+        "en": "Um, can I have some time to prepare?",
+        "pt": "Uh, posso me preparar antes?",
+        "es": "¿Me das algo de tiempo para prepararme?"
+    },
+    "4BiWBg": {
+        "en": "[Geschupenschte]\n1. Which one of the following regions is matched incorrectly\nwith its specialty item?",
+        "pt": "[Geschupenschte]\n1. Qual das seguintes regiões NÃO corresponde ao item\nespecial que ela produz?",
+        "es": "[Geschupenschte]\n1. ¿Cuál de las siguientes regiones está mal emparejada\ncon su objeto de especialidad?"
+    },
+    "4RiWBg": {
+        "en": "Morroc - Thief Clothes",
+        "pt": "Morroc - Vestimenta de Gatuno",
+        "es": "Morroc: Ropa de ladrón."
+    },
+    "4hiWBg": {
+        "en": "Alberta - Two Hand Axe",
+        "pt": "Alberta - Machado de Duas Mãos",
+        "es": "Alberta: Hacha de dos manos."
+    },
+    "4xiWBg": {
+        "en": "Comodo - Berserk Potion",
+        "pt": "Comodo - Poção da Fúria Selvagem",
+        "es": "Comodo: Poción Berserk."
+    },
+    "5BiWBg": {
+        "en": "Alberta - Swordmace",
+        "pt": "Alberta - Maça-espada",
+        "es": "Alberta: Maza espada."
+    },
+    "5RiWBg": {
+        "en": "[Geschupenschte]\n2. What status can\nbe inflicted with the\n^8E6B23Hammer Fall^000000 skill?",
+        "pt": "[Geschupenschte]\n2. Qual efeito pode \nser causado com a\nhabilidade ^8E6B23Martelo de Thor^000000?",
+        "es": "[Geschupenschte]\n2. ¿Qué estado se puede\ninfligir con la\nhabilidad ^8E6B23Martillazo^000000?"
+    },
+    "5hiWBg": {
+        "en": "Stun",
+        "pt": "Atordoamento",
+        "es": "Aturdimiento."
+    },
+    "5xiWBg": {
+        "en": "Blind",
+        "pt": "Cegueira",
+        "es": "Ceguera."
+    },
+    "6BiWBg": {
+        "en": "Silence",
+        "pt": "Silêncio",
+        "es": "Silencio."
+    },
+    "6RiWBg": {
+        "en": "Sleep",
+        "pt": "Sonolência",
+        "es": "Sueño."
+    },
+    "6hiWBg": {
+        "en": "[Geschupenschte]\n3. Which one of the following skills cannot be performed\nby a Merchant?",
+        "pt": "[Geschupenschte]\n3. Qual das seguintes habilidades não pode ser usada\npor um Mercador?",
+        "es": "[Geschupenschte]\n3. ¿Cuál de las siguientes habilidades no pueden realizar\nlos Comerciantes?"
+    },
+    "6xiWBg": {
+        "en": "Vending",
+        "pt": "Comércio",
+        "es": "Venta."
+    },
+    "7BiWBg": {
+        "en": "Discount",
+        "pt": "Desconto",
+        "es": "Descuento."
+    },
+    "7RiWBg": {
+        "en": "Overcharge",
+        "pt": "Superfaturar",
+        "es": "Sobrecosto."
+    },
+    "7hiWBg": {
+        "en": "Increase AGI",
+        "pt": "Aumentar Agilidade",
+        "es": "Aumentar AGI."
+    },
+    "7xiWBg": {
+        "en": "[Geschupenschte]\n4. Which city is considered the birthplace of aspiring magicians and mystics?",
+        "pt": "[Geschupenschte]\n4. Qual cidade é considerada o berço dos aspirantes a magia e misticismo?",
+        "es": "[Geschupenschte]\n4. ¿Qué ciudad se considera el lugar de nacimiento de aspirantes a magos y místicos?"
+    },
+    "8BiWBg": {
+        "en": "Alberta",
+        "pt": "Alberta",
+        "es": "Alberta."
+    },
+    "8RiWBg": {
+        "en": "Morroc",
+        "pt": "Morroc",
+        "es": "Morroc."
+    },
+    "8hiWBg": {
+        "en": "Geffen",
+        "pt": "Geffen",
+        "es": "Geffen."
+    },
+    "8xiWBg": {
+        "en": "Prontera",
+        "pt": "Prontera",
+        "es": "Prontera."
+    },
+    "9BiWBg": {
+        "en": "[Geschupenschte]\n5. Where is the\nTool Dealer\nlocated in Geffen?",
+        "pt": "[Geschupenschte]\n5. Onde fica o\nVendedor de Utilidades\nem Geffen?",
+        "es": "[Geschupenschte]\n5. ¿Dónde se sitúa\nel comerciante de herramientas\nen Geffen?"
+    },
+    "9RiWBg": {
+        "en": "8 o'clock direction from the town square",
+        "pt": "A sudoeste do centro",
+        "es": "En dirección a las 8:00 en punto desde la plaza del pueblo."
+    },
+    "9hiWBg": {
+        "en": "11 o'clock direction from the town square",
+        "pt": "A noroeste do centro",
+        "es": "En dirección a las 11:00 en punto desde la plaza del pueblo."
+    },
+    "9xiWBg": {
+        "en": "6 o'clock direction from the town square",
+        "pt": "Ao sul do centro",
+        "es": "En dirección a las 6:00 en punto desde la plaza del pueblo."
+    },
+    "+BiWBg": {
+        "en": "5 o'clock direction from the town square",
+        "pt": "A sudeste do centro",
+        "es": "En dirección a las 5:00 en punto desde la plaza del pueblo."
+    },
+    "+RiWBg": {
+        "en": "[Geschupenschte]\n6. Which weapon\ncannot be used\nby a Merchant?",
+        "pt": "[Geschupenschte]\n6. Qual arma\nnão pode ser usada\npor um Mercador?",
+        "es": "[Geschupenschte]\n6. ¿Qué arma\nno pueden utilizar\nlos Comerciantes?"
+    },
+    "+hiWBg": {
+        "en": "Stiletto",
+        "pt": "Stiletto",
+        "es": "Estilete."
+    },
+    "+xiWBg": {
+        "en": "Ring Pommel Saber",
+        "pt": "Sabre de Impacto",
+        "es": "Sable de mango de anillo."
+    },
+    "/BiWBg": {
+        "en": "Chain",
+        "pt": "Mangual Pesado",
+        "es": "Cadena."
+    },
+    "/RiWBg": {
+        "en": "Bible",
+        "pt": "Bíblia",
+        "es": "Biblia."
+    },
+    "/hiWBg": {
+        "en": "[Geschupenschte]\n7. Which one of the following\nhas the highest defense rate?",
+        "pt": "[Geschupenschte]\n7. Qual dos seguintes itens\ntem a taxa de defesa mais alta?",
+        "es": "[Geschupenschte]\n7. ¿Cuál de los siguientes objetos\ntiene el mayor índice de defensa?"
+    },
+    "/xiWBg": {
+        "en": "Panties",
+        "pt": "Tangas",
+        "es": "Ropa interior."
+    },
+    "ABmWBg": {
+        "en": "Mink Coat",
+        "pt": "Casaco de Pele",
+        "es": "Abrigo de visón."
+    },
+    "ARmWBg": {
+        "en": "Wooden Mail",
+        "pt": "Armadura de Madeira",
+        "es": "Armadura de madera."
+    },
+    "AhmWBg": {
+        "en": "Silk Robe",
+        "pt": "Manto de Seda",
+        "es": "Túnica de seda."
+    },
+    "AxmWBg": {
+        "en": "[Geschupenschte]\n8. For Level 3 weapons,\nwhat is the ^8E6B23Safe^000000 limit\nfor upgrading?",
+        "pt": "[Geschupenschte]\n8. Para armas de Nível 3,\nqual é o limite ^8E6B23Seguro^000000\nde aprimoramento?",
+        "es": "[Geschupenschte]\n8. En armas de nivel 3,\n¿cuál es el límite ^8E6B23seguro^000000\npara refinar?"
+    },
+    "BBmWBg": {
+        "en": "up to + 3",
+        "pt": "até +3",
+        "es": "Hasta +3."
+    },
+    "BRmWBg": {
+        "en": "up to + 4",
+        "pt": "até +4",
+        "es": "Hasta +4."
+    },
+    "BhmWBg": {
+        "en": "up to + 5",
+        "pt": "até +5",
+        "es": "Hasta +5."
+    },
+    "BxmWBg": {
+        "en": "up to + 6",
+        "pt": "até +6",
+        "es": "Hasta +6."
+    },
+    "CBmWBg": {
+        "en": "9. What item\ncan be made using\nthe ^8E6B23Trunks^000000 item?",
+        "pt": "[Geschupenschte]\n9. Qual item\npode ser feito usando\no item ^8E6B23Troncos^000000?",
+        "es": "9. ¿Qué objeto\nse puede crear utilizando\nel objeto ^8E6B23Tronco^000000?"
+    },
+    "CRmWBg": {
+        "en": "Sakkat",
+        "pt": "Sakkat",
+        "es": "Sakkat."
+    },
+    "ChmWBg": {
+        "en": "Ghost Bandana",
+        "pt": "Faixa de Fantasma",
+        "es": "Bandana de fantasma."
+    },
+    "CxmWBg": {
+        "en": "Majestic Goat",
+        "pt": "Chifres Majestosos",
+        "es": "Cabra majestuosa."
+    },
+    "DBmWBg": {
+        "en": "Antler",
+        "pt": "Galhada",
+        "es": "Astas."
+    },
+    "DRmWBg": {
+        "en": "[Geschupenschte]\n10. The most important\npart of being a Merchant is...?",
+        "pt": "[Geschupenschte]\n10. A coisa mais importante\nna carreira de um Mercador é...?",
+        "es": "[Geschupenschte]\n10. Lo más importante\nde ser Comerciante es…"
+    },
+    "DhmWBg": {
+        "en": "Credit",
+        "pt": "Crédito",
+        "es": "El crédito."
+    },
+    "DxmWBg": {
+        "en": "Integrity",
+        "pt": "Integridade",
+        "es": "La integridad."
+    },
+    "EBmWBg": {
+        "en": "Money",
+        "pt": "Dinheiro",
+        "es": "El dinero."
+    },
+    "ERmWBg": {
+        "en": "Rhetoric",
+        "pt": "Retórica",
+        "es": "La retórica."
+    },
+    "EhmWBg": {
+        "en": "[Geschupenschte]\n1. Among the following cities, which one is not correctly matched with its specialty?",
+        "pt": "[Geschupenschte]\n1. Entre as cidades seguintes, qual NÃO está corretamente associada à sua especialidade?",
+        "es": "[Geschupenschte]\n1. ¿Cuál de las siguientes ciudades no está correctamente emparejada con su especialidad?"
+    },
+    "ExmWBg": {
+        "en": "Al De Baran - Yggdrasil Leaf",
+        "pt": "Al De Baran - Folha de Yggdrasil",
+        "es": "Aldebaran: Hoja de Yggdrasil."
+    },
+    "FBmWBg": {
+        "en": "Alberta - Hammer",
+        "pt": "Alberta - Martelo",
+        "es": "Alberta: Martillo."
+    },
+    "FRmWBg": {
+        "en": "Al De Baran - Hammer",
+        "pt": "Al De Baran - Martelo",
+        "es": "Aldebaran: Martillo."
+    },
+    "FhmWBg": {
+        "en": "[Geschupenschte]\n2. How much Zeny\nis one Jellopy worth?",
+        "pt": "[Geschupenschte]\n2. Quantos Zenys\nvale 1 Jellopy?",
+        "es": "[Geschupenschte]\n2. ¿Cuántos zeny\nvale un Jellopy?"
+    },
+    "FxmWBg": {
+        "en": "1 Zeny",
+        "pt": "1 Zeny",
+        "es": "1 zeny."
+    },
+    "GBmWBg": {
+        "en": "2 Zeny",
+        "pt": "2 Zenys",
+        "es": "2 yeny."
+    },
+    "GRmWBg": {
+        "en": "3 Zeny",
+        "pt": "3 Zenys",
+        "es": "3 zeny."
+    },
+    "GhmWBg": {
+        "en": "4 Zeny",
+        "pt": "4 Zenys",
+        "es": "4 zeny."
+    },
+    "GxmWBg": {
+        "en": "[Geschupenschte]\n3. What is required\nfor a Merchant to use\nthe ^8E6B23Vending^000000 Skill?",
+        "pt": "[Geschupenschte]\n3. Qual é o requerimento\npara que um Mercador use\na habilidade ^8E6B23Comércio^000000?",
+        "es": "[Geschupenschte]\n3. ¿Qué necesitan\nlos Comerciantes para utilizar\nla habilidad ^8E6B23Venta^000000?"
+    },
+    "HBmWBg": {
+        "en": "Must have a Cart.",
+        "pt": "Deve ter um Carrinho.",
+        "es": "Deben tener una Carreta."
+    },
+    "HRmWBg": {
+        "en": "Must have items to sell.",
+        "pt": "Deve ter itens para vender.",
+        "es": "Deben tener objetos para vender."
+    },
+    "HhmWBg": {
+        "en": "Must be wielding a weapon.",
+        "pt": "Deve estar usando uma arma.",
+        "es": "Deben estar empuñando un arma."
+    },
+    "HxmWBg": {
+        "en": "Must be wearing armor.",
+        "pt": "Deve estar usando armadura.",
+        "es": "Deben llevar armadura."
+    },
+    "IBmWBg": {
+        "en": "[Geschupenschte]\n4. Where can you\nchange your Job to\nbecome a Merchant?",
+        "pt": "[Geschupenschte]\n4. Onde você pode\ntrocar de Classe para\nse tornar Mercador?",
+        "es": "[Geschupenschte]\n4. ¿Dónde puedes\ncambiar tu clase para\nconvertirte en Comerciante?"
+    },
+    "IRmWBg": {
+        "en": "[Geschupenschte]\n5. Where is the\nWeapons Dealer\nlocated in Morroc?",
+        "pt": "[Geschupenschte]\n5. Onde fica o\nVendedor de Armas\nde Morroc?",
+        "es": "[Geschupenschte]\n5. ¿Dónde se sitúa\nel comerciante de armas\nen Morroc?"
+    },
+    "IhmWBg": {
+        "en": "7 o'clock from the town's center",
+        "pt": "A sudoeste do centro",
+        "es": "A las 7:00 en punto desde el centro del pueblo."
+    },
+    "IxmWBg": {
+        "en": "11 o'clock from the town's center",
+        "pt": "A noroeste do centro",
+        "es": "A las 11:00 en punto desde el centro del pueblo."
+    },
+    "JBmWBg": {
+        "en": "6 o'clock from the town's center",
+        "pt": "Ao sul do centro",
+        "es": "A las 6:00 en punto desde el centro del pueblo."
+    },
+    "JRmWBg": {
+        "en": "5 o'clock from the town's center",
+        "pt": "A sudeste do centro",
+        "es": "A las 5:00 en punto desde el centro del pueblo."
+    },
+    "JhmWBg": {
+        "en": "[Geschupenschte]\n6. What weapon\ncan a Merchant\nnot use?",
+        "pt": "[Geschupenschte]\n6. Qual arma\nque um Mercador \nnão usa?",
+        "es": "[Geschupenschte]\n6. ¿Qué arma\nno pueden usar\nlos Comerciantes?"
+    },
+    "JxmWBg": {
+        "en": "Main Gauche",
+        "pt": "Main Gauche",
+        "es": "Daga de paradas."
+    },
+    "KBmWBg": {
+        "en": "Claymore",
+        "pt": "Claymore",
+        "es": "Claymore."
+    },
+    "KRmWBg": {
+        "en": "Two handed Axe",
+        "pt": "Machado de Duas Mãos",
+        "es": "Hacha de dos manos."
+    },
+    "KhmWBg": {
+        "en": "[Geschupenschte]\n9. What monster does\nNOT drop Iron Ore?",
+        "pt": "[Geschupenschte]\n9. Qual monstro\nNÃO derruba Minério de Ferro?",
+        "es": "[Geschupenschte]\n9. ¿Qué monstruo\nNO suelta Mineral de hierro?"
+    },
+    "KxmWBg": {
+        "en": "Chon Chon",
+        "pt": "Chon Chon",
+        "es": "Chon Chon."
+    },
+    "LBmWBg": {
+        "en": "Steel Chon Chon",
+        "pt": "Chon Chon de Aço",
+        "es": "Chon Chon de acero."
+    },
+    "LRmWBg": {
+        "en": "Zerom",
+        "pt": "Zerom",
+        "es": "Zerom."
+    },
+    "LhmWBg": {
+        "en": "Anolian",
+        "pt": "Anolian",
+        "es": "Anolian."
+    },
+    "LxmWBg": {
+        "en": "[Geschupenschte]\n10. What is most\nimportant to a Merchant?",
+        "pt": "[Geschupenschte]\n10. O que é mais\nimportante para um Mercador?",
+        "es": "[Geschupenschte]\n10. ¿Qué es lo más\nimportante para los Comerciantes?"
+    },
+    "MBmWBg": {
+        "en": "Experience",
+        "pt": "Experiência",
+        "es": "La experiencia."
+    },
+    "MRmWBg": {
+        "en": "[Geschupenschte]\nUmm. You did a good job!",
+        "pt": "[Geschupenschte]\nHumm. Você fez um bom trabalho!",
+        "es": "[Geschupenschte]\nEmm. ¡Hiciste un buen trabajo!"
+    },
+    "MhmWBg": {
+        "en": "[Geschupenschte]\nLet's see...your score is...{0} points.",
+        "pt": "[Geschupenschte]\nVamos ver... você obteve...{0} pontos.",
+        "es": "[Geschupenschte]\nVeamos… obtuviste… {0} puntos."
+    },
+    "MxmWBg": {
+        "en": "Oh ho ho~\nYou'll have\nno problem\nwith this score!",
+        "pt": "Ohhoho!\nVocê não terá \nproblemas\ncom essa pontuação!",
+        "es": "Jo, jo, jo.\n¡No tendrás\nningún problema\ncon esta puntuación!"
+    },
+    "NBmWBg": {
+        "en": "[Geschupenschte]\nI will entrust you with a job!\nGive me a little time to make the necessary arrangements.\nWhen you get back, I'll be ready!",
+        "pt": "[Geschupenschte]\nEu vou confiar um trabalho a você!\nDê-me algum tempo para fazer os arranjos necessários.\nQuando você voltar, eu estarei pronto!",
+        "es": "[Geschupenschte]\n¡Te asignaré un trabajo!\nDame tiempo para hacer los arreglos necesarios.\n¡Cuando vuelvas, todo estará listo!"
+    },
+    "NRmWBg": {
+        "en": ".............",
+        "pt": ".............",
+        "es": "............."
+    },
+    "NhmWBg": {
+        "en": "[Geschupenschte]\nHmm...\nIt pains me to say this, but it seems you need to study a little more. You can never be\na Blacksmith with\nthis score!",
+        "pt": "[Geschupenschte]\nHum...\nLamento dizer isso, mas parece que você precisa estudar mais. Você nunca será \num Ferreiro com \nessa pontuação!",
+        "es": "[Geschupenschte]\nMmm…\nLamento decirlo, pero parece que te falta estudiar un poco más. ¡Nunca podrás ser\nclase Herrero con\nesta puntuación!"
+    },
+    "NxmWBg": {
+        "en": "[Geschupenschte]\nAh, of course I don't mind if you came back a little later. Being prepared prevents disasters\nlater, after all. No harm in\nbeing careful~",
+        "pt": "[Geschupenschte]\nAh, claro que eu não me importaria se você voltasse mais tarde. O planejamento evita desastres\nposteriores. Não custa nada\nser cuidadoso.",
+        "es": "[Geschupenschte]\nAh, por supuesto que no me importa si vuelves un poco más tarde. Prepararse bien previene catástrofes\nmás tarde, después de todo. Nunca está de más\ntener cuidado~."
+    },
+    "OBmWBg": {
+        "en": "[Geschupenschte]\nSo, have you\nstudied a little\nmore this time?",
+        "pt": "[Geschupenschte]\nEntão, você \nestudou um pouco\nmais desta vez?",
+        "es": "[Geschupenschte]\nEntonces, ¿estudiaste\nun poco\nmás esta vez?"
+    },
+    "ORmWBg": {
+        "en": "[Geschupenschte]\nI admit that it's pretty unreasonable to expect anyone to get a perfect score the first time around, so I'll give you\na little break...",
+        "pt": "[Geschupenschte]\nEu admito que não é muito razoável esperar uma pontuação perfeita da primeira vez, mas eu vou dar outra \nchance para você...",
+        "es": "[Geschupenschte]\nAdmito que no es muy razonable esperar que alguien obtenga una puntuación perfecta la primera vez, así que te daré\nun pequeño descanso…"
+    },
+    "OhmWBg": {
+        "en": "[Geschupenschte]\nYou can miss\none problem!\nAlright, let's start\nwith the questions~",
+        "pt": "[Geschupenschte]\nVocê pode errar\numa questão!\nCerto, vamos começar\ncom as perguntas.",
+        "es": "[Geschupenschte]\n¡Puedes equivocarte en\nun problema!\nMuy bien, vamos a empezar\ncon las preguntas~."
+    },
+    "OxmWBg": {
+        "en": "Comodo - Beserk Potion",
+        "pt": "Comodo - Poção da Fúria Selvagem",
+        "es": "Comodo: Poción Berserk."
+    },
+    "PBmWBg": {
+        "en": "[Geschupenschte]\n4. Where can you find a store\nthat sells Blue Gemstones?",
+        "pt": "[Geschupenschte]\n4. Onde você pode encontrar uma loja\nque vende Gemas Azuis?",
+        "es": "[Geschupenschte]\n4. ¿Dónde hay una tienda\nque vende Gemas azules?"
+    },
+    "PRmWBg": {
+        "en": "[Geschupenschte]\n9. What item\ncan be made using\nthe ^8E6B23Trunks^000000 item?",
+        "pt": "[Geschupenschte]\n9. Qual item\npode ser feito usando\no item ^8E6B23Troncos^000000?",
+        "es": "[Geschupenschte]\n9. ¿Qué objeto\nse puede crear utilizando\nel objeto ^8E6B23Tronco^000000?"
+    },
+    "PhmWBg": {
+        "en": "Al De Beran - Yggdrasil Leaf",
+        "pt": "Al De Baran - Folha de Yggdrasil",
+        "es": "Alderaban: Hoja de Yggdrasil."
+    },
+    "PxmWBg": {
+        "en": "[Geschupenschte]\nHmm, good. You did a great job!",
+        "pt": "[Geschupenschte]\nHmm. Você fez um bom trabalho!",
+        "es": "[Geschupenschte]\nMmm, bien. ¡Hiciste un gran trabajo!"
+    },
+    "QBmWBg": {
+        "en": "[Geschupenschte]\nHow do I say this?\nHow did you fail again?!\nIf you plan to perform your duties in this manner, I can't trust you with any kind of job...",
+        "pt": "[Geschupenschte]\nComo posso dizer isso?\nComo é que você conseguiu falhar DE NOVO?!\nSe você pretende conduzir suas tarefas assim, eu não posso confiar nenhum tipo de trabalho a você...",
+        "es": "[Geschupenschte]\nNo sé cómo decirte esto.\n¡¿Cómo fallaste de nuevo?!\nSi piensas desempeñar tus funciones de esta manera, no puedo confiarte ningún tipo de trabajo…"
+    },
+    "QRmWBg": {
+        "en": "[Geschupenschte]\nHmm...\nNow, where were\nthose order request forms...",
+        "pt": "[Geschupenschte]\nHumm...\nAgora, onde estão\naqueles formulários de pedidos...",
+        "es": "[Geschupenschte]\nMmm…\nBien, dónde estaban\nesos formularios de solicitud de pedidos…"
+    },
+    "QhmWBg": {
+        "en": "^3355FF*Shuffling of Papers*\n*Rustling of Papers*^000000",
+        "pt": "^3355FF*Mexendo na papelada*\n*Farfalhando a papelada*^000000",
+        "es": "^3355FF*Revuelve papeles*\n*Ruido de papeles*^000000"
+    },
+    "QxmWBg": {
+        "en": "[Geschupenschte]\nOh! Here it is!\nThis is order that\nhas been delayed\nthe most...\nHeh heh~",
+        "pt": "[Geschupenschte]\nOh! Aqui está!\nEsse é o pedido\nmais atrasado\nde todos...\nHehe!",
+        "es": "[Geschupenschte]\n¡Ah! ¡Aquí está!\nEsta es la orden que\nmás se\natrasó…\nJe, je~."
+    },
+    "RBmWBg": {
+        "en": "[Geschupenschte]\nWell, to make\nthis you will need...",
+        "pt": "[Geschupenschte]\nBem, para fazer isso,\nvocê vai precisar de...",
+        "es": "[Geschupenschte]\nBueno, para hacer\nesto necesitarás…"
+    },
+    "RRmWBg": {
+        "en": "[Geschupenschte]\n^8E6B231 Rotten Bandage^000000,\n^8E6B232 Blue Gemstone^000000, and\n^8E6B231 Arc Wand^000000, the kind\nyou can buy from\nan NPC shop.",
+        "pt": "[Geschupenschte]\n^8E6B231 Bandagem Estragada^000000,\n^8E6B232 Gemas Azuis^000000 e\n^8E6B231 Cetro^000000, do tipo\nque você encontra \nnas lojas de NPC.",
+        "es": "[Geschupenschte]\n^8E6B231 Vendaje podrido^000000,\n^8E6B232 Gemas azules^000000 y\n^8E6B231 Báculo de arco^000000, del tipo\nque puedes comprar en\nla tienda de un NPC."
+    },
+    "RhmWBg": {
+        "en": "[Geschupenschte]\nCollecting these items will be your test. Coincidentally, it's also a bit of a good way for me to save money. I'll repeat what you'll need to bring back to me...",
+        "pt": "[Geschupenschte]\nO seu teste será conseguir esses itens. E também vai ser um bom jeito de eu economizar o meu dinheiro. Vou repetir o que você precisa me trazer...",
+        "es": "[Geschupenschte]\nRecolectar estos objetos será tu prueba. Casualmente, también me sirve para ahorrar dinero. Te repetiré lo que tendrás que traerme…"
+    },
+    "RxmWBg": {
+        "en": "[Geschupenschte]\n^8E6B232 Steel^000000,\n^8E6B231 Rotten Bandage^000000,\n^8E6B232 Blue Gemstone^000000, and\n^8E6B231 Arc Wand^000000, the kind\nyou can buy from\nan NPC shop.",
+        "pt": "[Geschupenschte]\n^8E6B232 unidades de Aço^000000,\n^8E6B231 Bandagem Estragada^000000,\n^8E6B232 Gemas Azuis^000000 e\n^8E6B231 Cetro^000000, do tipo\nque você encontra \nnas lojas de NPC.",
+        "es": "[Geschupenschte]\n^8E6B232 unidades de Acero^000000,\n^8E6B231 Vendaje podrido^000000,\n^8E6B232 Gemas azules^000000 y\n^8E6B231 Báculo de arco^000000, del tipo\nque puedes comprar en\nla tienda de un NPC."
+    },
+    "SBmWBg": {
+        "en": "[Geschupenschte]\n^8E6B232 Star Dust^000000,\n^8E6B231 Skel-bone^000000,\n^8E6B231 Zargon^000000 and\n^8E6B231 Gladius^000000, the kind\nyou can buy from\nan NPC shop.",
+        "pt": "[Geschupenschte]\n^8E6B232 Poeiras Estelares^000000,\n^8E6B231 Osso^000000,\n^8E6B231 Zargônio^000000 e\n^8E6B231 Gladius^000000, do tipo\nque você encontra \nnas lojas de NPC.",
+        "es": "[Geschupenschte]\n^8E6B232 unidades de Polvo de estrella^000000,\n^8E6B231 Hueso de esqueleto^000000,\n^8E6B231 unidad de Zargon^000000 y\n^8E6B231 Gladius^000000, del tipo\nque puedes comprar en\nla tienda de un NPC."
+    },
+    "SRmWBg": {
+        "en": "[Geschupenschte]\n^8E6B232 Coal^000000,\n^8E6B232 Shell^000000,\n^8E6B232 Red Blood^000000 and\n^8E6B231 Tsurugi^000000, the kind\nyou can buy from\nan NPC shop.",
+        "pt": "[Geschupenschte]\n^8E6B232 Carvões^000000,\n^8E6B232 Cascas^000000,\n^8E6B232 Sangues Escarlates^000000 e\n^8E6B231 Tsurugi^000000, do tipo\nque você encontra \nnas lojas de NPC.",
+        "es": "[Geschupenschte]\n^8E6B232 Carbones^000000,\n^8E6B232 Caparazones^000000,\n^8E6B232 unidades de Sangre roja^000000 y\n^8E6B231 Tsurugi^000000, del tipo\nque puedes comprar en\nla tienda de un NPC."
+    },
+    "ShmWBg": {
+        "en": "[Geschupenschte]\n^8E6B238 Iron Ore^000000,\n^8E6B231 Eye Patch^000000,\n^8E6B232 Blue Gemstone^000000 and\n^8E6B231 Arbalest^000000, the kind\nyou can buy from\nan NPC shop.",
+        "pt": "[Geschupenschte]\n^8E6B238 Minérios de Ferro^000000,\n^8E6B231 Tapa-olho^000000,\n^8E6B232 Gemas Azuis^000000 e\n^8E6B231 Arbaleste^000000, do tipo\nque você encontra \nnas lojas de NPC.",
+        "es": "[Geschupenschte]\n^8E6B238 unidades de Mineral de hierro^000000,\n^8E6B231 Parche de ojo^000000,\n^8E6B232 Gemas azules^000000 y\n^8E6B231 Arbalesta^000000, del tipo\nque puedes comprar en\nla tienda de un NPC."
+    },
+    "SxmWBg": {
+        "en": "[Geschupenschte]\n^8E6B238 Iron^000000\n^8E6B2320 Green Herb^000000\n^8E6B232 Animal Skin^000000\nand ^8E6B231 Ring Pommel Saber^000000, the kind you can buy from an NPC shop.",
+        "pt": "[Geschupenschte]\n^8E6B238 unidades de Ferro^000000,\n^8E6B2320 Ervas Verdes^000000,\n^8E6B232 Couros de Animal^000000\ne ^8E6B231 Sabre de Impacto^000000, do tipo que você encontra nas lojas de NPC.",
+        "es": "[Geschupenschte]\n^8E6B238 unidades de Hierro^000000,\n^8E6B2320 Hierbas verdes^000000,\n^8E6B232 Pieles de animal^000000\ny ^8E6B231 Sable de mango de anillo^000000, del tipo que puedes comprar en la tienda de un NPC."
+    },
+    "TBmWBg": {
+        "en": "[Geschupenschte]\nOkay~\nGood luck\non your first job!",
+        "pt": "[Geschupenschte]\nCerto...\nBoa sorte\nno seu primeiro trabalho!",
+        "es": "[Geschupenschte]\nDe acuerdo.\n¡Suerte\nen tu primer trabajo!"
+    },
+    "TRmWBg": {
+        "en": "[Geschupenschte]\nAh, you're back!\nDid you bring\neverything that\nI requested?",
+        "pt": "[Geschupenschte]\nAh, você voltou!\nVocê me trouxe\ntudo o que\neu pedi?",
+        "es": "[Geschupenschte]\n¡Ah, volviste!\n¿Trajiste\ntodo lo que\nte pedí?"
+    },
+    "ThmWBg": {
+        "en": "[Geschupenschte]\nOh, I guess it was\ntwo after all. Let's see...\nYeah, you got everything!\nNow, just give me a second.",
+        "pt": "[Geschupenschte]\nOh, eu acho que eram\ndois, afinal. Vejamos...\nÉ, você trouxe tudo!\nAgora, me dê um segundo.",
+        "es": "[Geschupenschte]\nAh, supongo que eran\ndos después de todo. Veamos…\n¡Sí, tienes todo!\nDame un segundo."
+    },
+    "TxmWBg": {
+        "en": "[Geschupenschte]\nOh, you should make sure that you are not carrying ^FF0000more than one Arc Wand^000000, you should really only have an Arc Wand that you bought from an NPC shop in your inventory.",
+        "pt": "[Geschupenschte]\nAh, certifique-se de que não está carregando ^FF0000mais do que um Cetro^000000. Você realmente só deve ter um Cetro, comprado de um NPC, no seu inventário.",
+        "es": "[Geschupenschte]\nAh, deberías asegurarte de que no llevas ^FF0000más de un Báculo de arco^000000. Solo deberías tener un Báculo de arco en tu inventario que hayas comprado en la tienda de un NPC."
+    },
+    "UBmWBg": {
+        "en": "Oh, could you give me a second?",
+        "pt": "Oh, pode esperar um minuto?",
+        "es": "Ah, ¿podrías darme un segundo?"
+    },
+    "URmWBg": {
+        "en": "Oh, I brought what you asked for.",
+        "pt": "Oh, eu trouxe o que você pediu.",
+        "es": "Ah, traje lo que pediste."
+    },
+    "UhmWBg": {
+        "en": "[Geschupenschte]\nHmmm, it would be\na good idea to put the\nrest of your items\nin Kafra Storage.",
+        "pt": "[Geschupenschte]\nHummm, seria uma\nboa ideia guardar o\nresto dos seus itens\nno Armazém Kafra.",
+        "es": "[Geschupenschte]\nMmmm, sería\nuna buena idea que guardes el\nresto de tus objetos\nen el Almacén de Kafra."
+    },
+    "UxmWBg": {
+        "en": "[Geschupenschte]\nOkay.\nGreat~!!",
+        "pt": "[Geschupenschte]\nCerto.\nÓtimo!!",
+        "es": "[Geschupenschte]\nBueno.\n¡Genial~!"
+    },
+    "VBmWBg": {
+        "en": "[Geschupenschte]\n^3355FF*Clang...!*^000000",
+        "pt": "[Geschupenschte]\n^3355FF*Claaaang...!*^000000",
+        "es": "[Geschupenschte]\n^3355FF*¡Clang…!*^000000"
+    },
+    "VRmWBg": {
+        "en": "[Geschupenschte]\n^3355FF*Crash Crash!*^000000",
+        "pt": "[Geschupenschte]\n^3355FF*Quebra Quebra!*^000000",
+        "es": "[Geschupenschte]\n^3355FF*¡Crash, crash!*^000000"
+    },
+    "VhmWBg": {
+        "en": "[Geschupenschte]\nWooooo~~~\nAll done...\nOkay, now take this to ^8E6B23Baisulist^000000 in Geffen of Rune-Midgard Kingdom. Simply deliver it and bring me the receipt.",
+        "pt": "[Geschupenschte]\nUau!\nTudo pronto!\nCerto, agora leve isso para ^8E6B23Baisulist^000000 em Geffen, no Reino de Rune-Midgard. Apenas entregue isso e me traga o recibo.",
+        "es": "[Geschupenschte]\nUooooo~~~.\nTodo listo…\nBien, ahora, llévale esto a ^8E6B23Baisulist^000000 en Geffen del reino de Rune-Midgard. Solo entrégalo y tráeme el recibo."
+    },
+    "VxmWBg": {
+        "en": "[Geschupenschte]\nHmm...?\nWhat's that look for?\nThis is not a normal\nArc Wand! Look closely\nat the handle...",
+        "pt": "[Geschupenschte]\nHum...?\nPor que está com esse olhar?\nEsse não é apenas um\nCetro! Olhe de perto\no punho...",
+        "es": "[Geschupenschte]\n¿Mmm…?\n¿Por qué me miras así?\n¡Esto no es\nun Báculo de arco normal! Fíjate bien\nen el mango…"
+    },
+    "WBmWBg": {
+        "en": "^3355FFThe handle reads:\n'Super Arc Wand\nof Geschupenschte\nMark 2.' It does seem\nto have a completely\ndifferent feel.^000000",
+        "pt": "[Geschupenschte]\n^3355FFO punho diz:\n'Super Cetro\nde Geschupenschte\nMarca 2'. Ele realmente\nparece proporcionar uma\nsensação diferente.^000000",
+        "es": "^3355FFEl mango dice:\nSuperbáculo de arco.\nPropiedad de Geschupenschte.\nMarca 2. \nse siente\ncompletamente diferente.^000000"
+    },
+    "WRmWBg": {
+        "en": "[Geschupenschte]\nAnyway, take this\nto ^8E6B23Baisulist^000000 in Geffen of Rune-Midgard Kingdom,\nand don't forget\nthe receipt!",
+        "pt": "[Geschupenschte]\nBem, leve isso\npara ^8E6B23Baisulist^000000 em Geffen, no Reino de Rune-Midgard,\ne não se esqueça\ndo recibo!",
+        "es": "[Geschupenschte]\nEn fin, llévale esto\na ^8E6B23Baisulist^000000 en Geffen del reino de Rune-Midgard\n¡y no olvides\nel recibo!"
+    },
+    "WhmWBg": {
+        "en": "[Geschupenschte]\nYou still haven't\nbrought all the items.\nDo you need to be reminded\nor something? Bring me...",
+        "pt": "[Geschupenschte]\nVocê ainda não\ntrouxe todos os itens.\nVocê quer que eu repita\na lista? Traga-me...",
+        "es": "[Geschupenschte]\nTodavía no\ntrajiste todos los objetos.\n¿Necesitas que te los repita\no algo? Tráeme…"
+    },
+    "WxmWBg": {
+        "en": "[Geschupenschte]\nNow, be sure to have\neverything I need when\nyou come back. Remember,\nthis is a test! You can't\nbe a Blacksmith if you\nslack off!",
+        "pt": "[Geschupenschte]\nAgora, certifique-se de \ntrazer tudo o que eu preciso \nquando voltar. Lembre-se,\nisso é um teste! Não dá \npara ser um Ferreiro se for \npreguiçoso!",
+        "es": "[Geschupenschte]\nBien, asegúrate de tener\ntodo lo que necesito cuando\nvuelvas. ¡Recuerda que\nesto es una prueba! ¡No puedes\nser clase Herrero si\nholgazaneas!"
+    },
+    "XBmWBg": {
+        "en": "[Geschupenschte]\nWait...\nDidn't I tell you\nto get 3 Star Dust?",
+        "pt": "[Geschupenschte]\nEspere...\nEu não lhe disse\npara trazer 3 Poeiras Estelares?",
+        "es": "[Geschupenschte]\nEspera…\n¿No te dije\nque trajeras 3 unidades de Polvo de estrella?"
+    },
+    "XRmWBg": {
+        "en": "[Geschupenschte]\nOh, you should make sure that you are not carrying ^FF0000more than one Gladius^000000, you should really only have an Gladius that you bought from an NPC shop in your inventory.",
+        "pt": "[Geschupenschte]\nAh, certifique-se de que não está carregando ^FF0000mais do que um Gladius^000000. Você realmente só deve ter um Gladius, comprado de um NPC, no seu inventário.",
+        "es": "[Geschupenschte]\nAh, deberías asegurarte de que no llevas ^FF0000más de una Gladius^000000. Solo deberías tener una Gladius en tu inventario que hayas comprado en la tienda de un NPC."
+    },
+    "XhmWBg": {
+        "en": "Um, would you give me a second?",
+        "pt": "Uh, pode esperar um minuto?",
+        "es": "Eh, ¿me darías un segundo?"
+    },
+    "XxmWBg": {
+        "en": "[Geschupenschte]\nWooooo~~~\nAll done...\nOkay, now take this to ^8E6B23Wickebine^000000 in Morroc of Rune-Midgard Kingdom. Simply deliver it and bring me the receipt.",
+        "pt": "[Geschupenschte]\nUau!\nTudo pronto!\nCerto, agora leve isso para ^8E6B23Wickebine^000000 em Morroc, no Reino de Rune-Midgard. Apenas entregue isso e me traga o recibo.",
+        "es": "[Geschupenschte]\nUooooo~~~.\nTodo listo…\nBien, ahora, llévale esto a ^8E6B23Wickebine^000000 en Morroc del reino de Rune-Midgard. Solo entrégalo y tráeme el recibo."
+    },
+    "YBmWBg": {
+        "en": "[Geschupenschte]\nHmm...?\nWhat's that look for?\nThis is not a normal\nGladius! Look closely\nat the handle...",
+        "pt": "[Geschupenschte]\nHum...?\nPor que está com esse olhar?\nEsse não é apenas um\nGladius! Olhe de perto\no punho...",
+        "es": "[Geschupenschte]\n¿Mmm…?\n¿Por qué me miras así?\n¡Esto no es\nuna Gladius normal! Fíjate bien\nen el mango…"
+    },
+    "YRmWBg": {
+        "en": "^3355FFThe handle reads:\n'Super Gladius\nof Geschupenschte\nMark 2.' It does seem\nto have a completely\ndifferent feel.^000000",
+        "pt": "[Geschupenschte]\n^3355FFO punho diz:\n'Super Gladius\nde Geschupenschte\nMarca 2'. Ele realmente\nparece proporcionar uma\nsensação diferente.^000000",
+        "es": "^3355FFEl mango dice:\nSuper Gladius\nPropiedad de Geschupenschte.\nMarca 2.\nSe siente\ncompletamente diferente.^000000"
+    },
+    "YhmWBg": {
+        "en": "[Geschupenschte]\nAnyway, take this\nto ^8E6B23Wickebine^000000 in Morroc of Rune-Midgard Kingdom,\nand don't forget\nthe receipt!",
+        "pt": "[Geschupenschte]\nBem, leve isso\npara ^8E6B23Wickebine^000000 em Morroc, no Reino de Rune-Midgard,\ne não se esqueça\ndo recibo!",
+        "es": "[Geschupenschte]\nEn fin, llévale esto\na ^8E6B23Wickebine^000000 en Morroc del reino de Rune-Midgard\n¡y no olvides\nel recibo!"
+    },
+    "YxmWBg": {
+        "en": "[Geschupenschte]\nWait...\nDidn't I tell you\nto get 3 Coal?",
+        "pt": "[Geschupenschte]\nEspere...\nEu não lhe disse\npara trazer 3 Carvões?",
+        "es": "[Geschupenschte]\nEspera…\n¿No te dije\nque trajeras 3 Carbones?"
+    },
+    "ZBmWBg": {
+        "en": "[Geschupenschte]\nOh, you should make sure that you are not carrying ^FF0000more than one Tsurugi^000000, you should really only have an Tsurugi that you bought from an NPC shop in your inventory.",
+        "pt": "[Geschupenschte]\nAh, certifique-se de que não está carregando ^FF0000mais de um Tsurugi^000000. Você realmente só deve ter um Tsurugi, comprado de um NPC, no seu inventário.",
+        "es": "[Geschupenschte]\nAh, deberías asegurarte de que no llevas ^FF0000más de un Tsurugi^000000. Solo deberías tener un Tsurugi en tu inventario que hayas comprado en la tienda de un NPC."
+    },
+    "ZRmWBg": {
+        "en": "[Geschupenschte]\nWooooo~~~\nAll done...\nOkay, now take this to ^8E6B23Krongast^000000 in Lighthalzen. Simply deliver it and bring me the receipt.",
+        "pt": "[Geschupenschte]\nUau!\nTudo pronto!\nCerto, agora leve isso para ^8E6B23Krongast^000000 em Lighthalzen. Apenas entregue isso e me traga o recibo.",
+        "es": "[Geschupenschte]\nUooooo~~~.\nTodo listo…\nBien, ahora, llévale esto a ^8E6B23Krongast^000000 en Lighthalzen. Solo entrégalo y tráeme el recibo."
+    },
+    "ZhmWBg": {
+        "en": "[Geschupenschte]\nHmm...?\nWhat's that look for?\nThis is not a normal\nTsurugi! Look closely\nat the blade...",
+        "pt": "[Geschupenschte]\nHum...?\nPor que está com esse olhar?\nEsse não é apenas um\nTsurugi! Olhe de perto\na lâmina...",
+        "es": "[Geschupenschte]\n¿Mmm…?\n¿Por qué me miras así?\n¡Esto no es\nun Tsurugi normal! Fíjate bien\nen la hoja…"
+    },
+    "ZxmWBg": {
+        "en": "^3355FFThe blade reads:\n'Fine-edged\nGeschupenschte\nTsurugi Special.'\nIt does seem to feel\ncompletely different\nthan normal Tsurugis...^000000",
+        "pt": "[Geschupenschte]\n^3355FFA lâmina diz:\n'Linha Rasgueira - \nGeschupenschte\nTsurugi Especial'.\nEle realmente parece ter\num balanço diferente\ndos Tsurugis normais...^000000",
+        "es": "^3355FFLa hoja dice:\nArma de filo preciso.\nPropiedad de Geschupenschte.\nTsurugi especial.\nSe siente\ncompletamente diferente\na los Tsurugis normales…^000000"
+    },
+    "aBmWBg": {
+        "en": "[Geschupenschte]\nAnyway, take this to\n^8E6B23Krongast^000000 in Lighthalzen\nand don't forget\nthe receipt!",
+        "pt": "[Geschupenschte]\nBem, leve isso para\n^8E6B23Krongast^000000 em Lighthalzen\ne não se esqueça\ndo recibo!",
+        "es": "[Geschupenschte]\nEn fin, llévale esto a\n^8E6B23Krongast^000000 en Lighthalzen\n¡y no olvides\nel recibo!"
+    },
+    "aRmWBg": {
+        "en": "[Geschupenschte]\nWait...\nDidn't I tell you\nto get 30 Iron Ore?",
+        "pt": "[Geschupenschte]\nEspere...\nEu não lhe disse\npara trazer 30 minérios de ferro?",
+        "es": "[Geschupenschte]\nEspera…\n¿No te dije\nque trajeras 30 unidades de Mineral de hierro?"
+    },
+    "ahmWBg": {
+        "en": "[Geschupenschte]\nOh, I guess it was\neight after all. Let's see...\nYeah, you got everything!\nNow, just give me a second.",
+        "pt": "[Geschupenschte]\nOh, eu acho que eram\noito, afinal. Vejamos...\nÉ, você trouxe tudo!\nAgora, me dê um segundo.",
+        "es": "[Geschupenschte]\nAh, supongo que eran\nocho después de todo. Veamos…\n¡Sí, tienes todo!\nDame un segundo."
+    },
+    "axmWBg": {
+        "en": "[Geschupenschte]\nOh, you should make sure that you are not carrying ^FF0000more than one Arbalest^000000, you should really only have an Arbalest that you bought from an NPC shop in your inventory.",
+        "pt": "[Geschupenschte]\nAh, certifique-se de que não está carregando ^FF0000mais do que um Arbaleste^000000. Você realmente só deve ter um Arbaleste, comprado de um NPC, no seu inventário.",
+        "es": "[Geschupenschte]\nAh, deberías asegurarte de que no llevas ^FF0000más de una Arbalesta^000000. Solo deberías tener una Arbalesta en tu inventario que hayas comprado en la tienda de un NPC."
+    },
+    "bBmWBg": {
+        "en": "[Geschupenschte]\nWooooo~~~\nAll done...\nOkay, now take this to ^8E6B23Talpiz^000000 in Payon of Rune-Midgard Kingdom. Simply deliver this and bring me the receipt.",
+        "pt": "[Geschupenschte]\nUau!\nTudo pronto!\nCerto, agora leve isso para ^8E6B23Talpiz^000000 em Payon, no Reino de Rune-Midgard. Apenas entregue isso e me traga o recibo.",
+        "es": "[Geschupenschte]\nUooooo~~~.\nTodo listo…\nBien, ahora, llévale esto a ^8E6B23Talpiz^000000 en Payon del reino de Rune-Midgard. Solo entrégalo y tráeme el recibo."
+    },
+    "bRmWBg": {
+        "en": "[Geschupenschte]\nHmm...?\nWhat's that look for?\nThis is not a normal\nArbalest! Look closely\nat the bow...",
+        "pt": "[Geschupenschte]\nHum...?\nPor que está com esse olhar?\nEsse não é apenas um\nArbaleste! Olhe de perto\no arco...",
+        "es": "[Geschupenschte]\n¿Mmm…?\n¿Por qué me miras así?\n¡Esto no es\nuna Arbalesta normal! Fíjate bien\nen el arco…"
+    },
+    "bhmWBg": {
+        "en": "^3355FFThe bow reads:\nGeschupenschte\nArbalest Luxury Edition.\nIt does seem more luxurious\nthan regular Arbalests.^000000",
+        "pt": "[Geschupenschte]\n^3355FFO arco diz:\nGeschupenschte\nArbaleste Edição de Luxo.\nEle realmente parece mais luxuoso\ndo que os Arbalestes normais.^000000",
+        "es": "^3355FFEl arco dice:\nPropiedad de Geschupenschte.\nArbalesta Edición de lujo.\nParece más lujosa\nque las Arbalestas normales.^000000"
+    },
+    "bxmWBg": {
+        "en": "[Geschupenschte]\nAnyway, take this\nto ^8E6B23Talpiz^000000 in Payon of Rune-Midgard Kindgom,\nand don't forget\nthe receipt!",
+        "pt": "[Geschupenschte]\nBem, leve isso\npara ^8E6B23Talpiz^000000 em Payon, no Reino de Rune-Midgard,\ne não se esqueça\ndo recibo!",
+        "es": "[Geschupenschte]\nEn fin, llévale esto\na ^8E6B23Talpiz^000000 en Payon del reino de Rune-Midgard,\n¡y no olvides\nel recibo!"
+    },
+    "cBmWBg": {
+        "en": "^8E6B238 Iron Ore^000000,\n^8E6B231 Eye Patch^000000,\n^8E6B232 Blue Gemstone^000000 and\n^8E6B231 Arbalest^000000, the kind\nyou can buy from\nan NPC shop.",
+        "pt": "^8E6B238 Minérios de Ferro^000000,\n^8E6B231 Tapa-olho^000000,\n^8E6B232 Gemas Azuis^000000 e\n^8E6B231 Arbaleste^000000, do tipo\nque você encontra \nnas lojas de NPC.",
+        "es": "^8E6B238 unidades de Mineral de hierro^000000,\n^8E6B231 Parche de ojo^000000,\n^8E6B232 Gemas azules^000000 y\n^8E6B231 Arbalesta^000000, del tipo\nque puedes comprar en\nla tienda de un NPC."
+    },
+    "cRmWBg": {
+        "en": "[Geschupenschte]\nWait...\nDidn't I tell you\nto get 40 Iron?",
+        "pt": "[Geschupenschte]\nEspere...\nEu não lhe disse\npara trazer 40 Ferros?",
+        "es": "[Geschupenschte]\nEspera…\n¿No te dije\nque trajeras 40 unidades de Hierro?"
+    },
+    "chmWBg": {
+        "en": "[Geschupenschte]\nOh, you should make sure that you are not carrying ^FF0000more than one Ring Pommel Saber^000000. You should really only have just one that you bought from an NPC shop in your inventory.",
+        "pt": "[Geschupenschte]\nAh, certifique-se de que não está carregando ^FF0000mais de um Sabre de Impacto^000000. Você realmente só deve ter um, comprado de um NPC, no seu inventário.",
+        "es": "[Geschupenschte]\nAh, deberías asegurarte de que no llevas ^FF0000más de un Sable de mango de anillo^000000. Solo deberías tener uno en tu inventario que hayas comprado en la tienda de un NPC."
+    },
+    "cxmWBg": {
+        "en": "[Geschupenschte]\nWooooo~~~\nAll done...\nOkay, now take this to ^8E6B23Bismarc^000000 in Hugel. Simply deliver this and bring back the receipt.",
+        "pt": "[Geschupenschte]\nUau!\nTudo pronto!\nCerto, agora leve isso para ^8E6B23Bismarc^000000 em Hugel. Apenas entregue isso e me traga o recibo.",
+        "es": "[Geschupenschte]\nUooooo~~~.\nTodo listo…\nBien, ahora, llévale esto a ^8E6B23Bismarc^000000 en Hugel. Solo entrégalo y tráeme el recibo."
+    },
+    "dBmWBg": {
+        "en": "[Geschupenschte]\nHmm...?\nWhat's that look for?\nThis is not a normal\nRing Pommel Saber!\nLook closely at\nthe handle...",
+        "pt": "[Geschupenschte]\nHum...?\nPor que está com esse olhar?\nEsse não é apenas um\nSabre de Impacto!\nOlhe de perto\no punho...",
+        "es": "[Geschupenschte]\n¿Mmm…?\n¿Por qué me miras así?\n¡Esto no es\nun Sable de mango de anillo normal!\nFíjate bien en\nel mango…"
+    },
+    "dRmWBg": {
+        "en": "^3355FFThe handle reads:\n'Green Herbal\nRing Pommel Saber\nof Geschupenschte\nMark 2.' It does seem\nto have a completely\ndifferent feel.^000000",
+        "pt": "[Geschupenschte]\n^3355FFO punho diz:\n'Linha Herbal - \nSabre de Impacto\nde Geschupenschte\nMarca 2'. Ele realmente\nparece proporcionar uma\nsensação diferente.^000000",
+        "es": "^3355FFEl mango dice:\nHierba verde imbuida en\nSable de mango de anillo.\nPropiedad de Geschupenschte.\nMarca2. \nSe siente\ncompletamente diferente.^000000"
+    },
+    "dhmWBg": {
+        "en": "[Geschupenschte]\nThe power of Green Herbs, which is imbued in this sword, can be very useful! You can save someone from slowly dying of poison by stabbing them quickly with this weapon!",
+        "pt": "[Geschupenschte]\nO poder das Ervas Verdes, integrado nesta espada, pode ser muito útil! Você pode salvar alguém de uma morte lenta e dolorosa por envenenamento simplesmente perfurando a pessoa com esta arma!",
+        "es": "[Geschupenschte]\n¡El poder de las Hierbas verdes, que está imbuido en esta espada, puede ser muy útil! ¡Puedes evitar que una persona muera lentamente por envenenamiento si la apuñalas rápido con esta arma!"
+    },
+    "dxmWBg": {
+        "en": "[Geschupenschte]\nAnyway, take this\nto ^8E6B23Bismarc^000000 in Hugel\nand don't forget\nthe receipt!",
+        "pt": "[Geschupenschte]\nBem, leve isso\npara ^8E6B23Bismarc^000000 em Hugel\ne não se esqueça\ndo recibo!",
+        "es": "[Geschupenschte]\nEn fin, llévale esto\na ^8E6B23Bismarc^000000 en Hugel\n¡y no olvides\nel recibo!"
+    },
+    "eBmWBg": {
+        "en": "[Geschupenschte]\nWhat are you\nstill doing here?\nHurry and deliver\nthe package~!\nDid you forget\nwhere to go?",
+        "pt": "[Geschupenschte]\nO que você está \nfazendo aqui ainda?\nCorra e entregue\no pacote!\nVocê esqueceu\npara onde deve ir?",
+        "es": "[Geschupenschte]\n¿Qué haces\naquí todavía?\n¡Apresúrate y entrega\nel paquete~!\n¿Olvidaste\nadónde ir?"
+    },
+    "eRmWBg": {
+        "en": "[Geschupenschte]\nIn Geffen, at the\n11 o'clock direction from the town center, you will find ^8E6B23Baisulist^000000. And don't forget the receipt.",
+        "pt": "[Geschupenschte]\nEm Geffen, na direção\nnoroeste, a partir do centro, você encontrará ^8E6B23Baisulist^000000. E não se esqueça do recibo.",
+        "es": "[Geschupenschte]\nEn Geffen,\nen dirección a las 11:00 en punto desde el centro de la ciudad, encontrarás a ^8E6B23Baisulist^000000. Y no olvides el recibo."
+    },
+    "ehmWBg": {
+        "en": "[Geschupenschte]\nFind the Swordmace\ndealer ^8E6B23Wickebine^000000 in Morroc. And don't forget the receipt.",
+        "pt": "[Geschupenschte]\nO que você está \nfazendo aqui ainda?\nCorra e entregue\no pacote!\nVocê esqueceu\npara onde deve ir?",
+        "es": "[Geschupenschte]\nEncuentra al comerciante de Mazas espada\n^8E6B23Wickebine^000000 en Morroc. Y no olvides el recibo."
+    },
+    "exmWBg": {
+        "en": "[Geschupenschte]\nIn Lighthalzen, 6 o'clock direction from the town center, you will find ^8E6B23Krongast^000000 near the weapon shop. And don't forget the receipt.",
+        "pt": "[Geschupenschte]\nEm Geffen, na direção\nnoroeste, a partir do centro, você encontrará ^8E6B23Baisulist^000000. E não se esqueça do recibo.",
+        "es": "[Geschupenschte]\nEn Lighthalzen, en dirección a las 6:00 en punto desde el centro de la ciudad, encontrarás a ^8E6B23Krongast^000000 cerca de la tienda de armas. Y no olvides el recibo."
+    },
+    "fBmWBg": {
+        "en": "[Geschupenschte]\nIn Payon, at the 5 o'clock direction from the town center, you will find ^8E6B23Talpiz^000000. And don't forget the receipt.",
+        "pt": "[Geschupenschte]\nEncontre o vendedor de Maça-Espada\n^8E6B23Wickebine^000000 em Morroc. E não se esqueça do recibo.",
+        "es": "[Geschupenschte]\nEn Payon, en dirección a las 5:00 en punto desde el centro de la ciudad, encontrarás a ^8E6B23Talpiz^000000. Y no olvides el recibo."
+    },
+    "fRmWBg": {
+        "en": "[Geschupenschte]\nIn Hugel, at the 1 o'clock direction from the town center, you will find ^8E6B23Bismarc^000000 near the airship. And don't forget the receipt.",
+        "pt": "[Geschupenschte]\nEm Lighthalzen, ao sul do centro, você encontrará ^8E6B23Krongast^000000 perto da Loja de Armas. E não se esqueça do recibo.",
+        "es": "[Geschupenschte]\nEn Hugel, en dirección a la 1:00 en punto desde el centro de la ciudad, encontrarás a ^8E6B23Bismarc^000000 cerca de la aeronave. Y no olvides el recibo."
+    },
+    "fhmWBg": {
+        "en": "[Geschupenschte]\nHmmm...?\nHave you\ncompleted\nthe delivery?\nLet's see that receipt~",
+        "pt": "[Geschupenschte]\nEm Payon, a sudoeste, a partir do centro, você encontrará ^CCCCCCTalpiz^000000. E não se esqueça do recibo.",
+        "es": "[Geschupenschte]\n¿Mmmm…?\n¿Realizaste\nla\nentrega?\nMuéstrame el recibo~."
+    },
+    "fxmWBg": {
+        "en": "Yes sir, here it is.",
+        "pt": "Sim, senhor, aqui está.",
+        "es": "Sí, señor, aquí está."
+    },
+    "gBmWBg": {
+        "en": "Receipt? I, uh, have it somewhere.",
+        "pt": "Recibo? Eu, hã, deve estar aqui em algum lugar.",
+        "es": "¿Recibo? Yo, em, lo tengo en alguna parte."
+    },
+    "gRmWBg": {
+        "en": "[Geschupenschte]\nOh ho ho~\nGreat!\nYou're truly\na great Merchant!",
+        "pt": "[Geschupenschte]\nOhhoho!\nÓtimo!\nVocê é mesmo\num grande Mercador!",
+        "es": "[Geschupenschte]\nJo, jo, jo~.\n¡Genial!\n¡Realmente\nte destacas como Comerciante!"
+    },
+    "ghmWBg": {
+        "en": "[Geschupenschte]\nGood job!\nReturn to ^8E6B23Altiregen^000000 in Einbroch, the guy you first met when you applied for the Blacksmith job.",
+        "pt": "[Geschupenschte]\nBom trabalho!\nVolte a falar com ^8E6B23Altiregen^000000 em Einbroch, o cara com quem você falou quando se candidatou ao trabalho de Ferreiro.",
+        "es": "[Geschupenschte]\n¡Buen trabajo!\nRegresa con ^8E6B23Altiregen^000000 en Einbroch, el tipo que conociste cuando solicitaste la clase de Herrero."
+    },
+    "gxmWBg": {
+        "en": "[Geschupenschte]\nI have faith that you\nwill be a great Blacksmith!",
+        "pt": "[Geschupenschte]\nEu acho que você \nvai ser um ótimo Ferreiro!",
+        "es": "[Geschupenschte]\n¡Tengo fe en que\nte irá muy bien como clase Herrero!"
+    },
+    "hBmWBg": {
+        "en": "[Geschupenschte]\nYou mean...\nYou didn't get\na receipt?\nWhat...?",
+        "pt": "[Geschupenschte]\nVocê quer dizer...\nVocê não pegou\no recibo?\nQuê...?",
+        "es": "[Geschupenschte]\nQuieres decir que…\n¿no trajiste\nun recibo?\n¿Qué…?"
+    },
+    "hRmWBg": {
+        "en": "[Geschupenschte]\nA receipt is\na Merchant's best friend!\nIt's necessary to your job!\nYou'll have to start your\ntest all over again!",
+        "pt": "[Geschupenschte]\nO recibo é \no melhor amigo do Mercador!\nÉ indispensável para a sua classe!\nVocê vai ter que fazer o \nteste novamente, do início!",
+        "es": "[Geschupenschte]\n¡El recibo es\nel mejor amigo de los Comerciantes!\n¡Es necesario para tu clase!\n¡Tendrás que empezar tu\nprueba de nuevo!"
+    },
+    "hhmWBg": {
+        "en": "[Geschupenschte]\nReturn when you\nfind the receipt~\nYou didn't forget\nto receive a receipt.\nRight...?",
+        "pt": "[Geschupenschte]\nVolte quando\ntiver encontrado o recibo.\nVocê não se esqueceu\nde pegar o recibo.\nCerto...?",
+        "es": "[Geschupenschte]\nRegresa cuando\nencuentres el recibo~.\nNo te olvidaste\nde pedir el recibo.\n¿Verdad…?"
+    },
+    "hxmWBg": {
+        "en": "[Geschupenschte]\nThank you\nvery much\nyour help.\nReturn to Einbroch\nand see ^8E6B23Altiregen^000000!",
+        "pt": "[Geschupenschte]\nMuito obrigado\nmesmo pela\nsua ajuda.\nVolte para Einbroch\ne vá ver ^8E6B23Altiregen^000000!",
+        "es": "[Geschupenschte]\nMuchas gracias\npor\ntu ayuda.\n¡Regresa a Einbroch\na ver a ^8E6B23Altiregen^000000!"
+    },
+    "iBmWBg": {
+        "en": "[Geschupenschte]\nHmm...?\nYou already finished\nyour test here with me!\nAnd surprisingly, I don't\nneed any more help, today.",
+        "pt": "[Geschupenschte]\nHum...?\nVocê já terminou\no seu teste aqui comigo!\nE, para minha surpresa, eu não\npreciso mais de ajuda por hoje.",
+        "es": "[Geschupenschte]\n¿Mmm…?\n¡Ya terminaste\ntu prueba conmigo!\nY, sorprendentemente, no\nnecesito más ayuda por hoy."
+    },
+    "iRmWBg": {
+        "en": "[Geschupenschte]\nBeing\na Blacksmith\nis truly great!\nDon't you think so?\nMwahahahahah!!",
+        "pt": "[Geschupenschte]\nSer\num Ferreiro\né muito bom!\nNão acha?\nAhahahahaha!!",
+        "es": "[Geschupenschte]\n¡Ser\nHerrero\nes realmente genial!\n¿No lo crees?\n¡¡Mua, ja, ja, ja, ja, ja!!"
+    },
+    "ihmWBg": {
+        "en": "Baisulist",
+        "pt": "Baisulist",
+        "es": "Baisulist"
+    },
+    "ixmWBg": {
+        "en": "[Baisulist]\nOh, hello!\nHave you come\nto deliver my\nArc Wand?",
+        "pt": "[Baisulist]\nOh, olá!\nVocê veio\npara entregar o meu\nCetro?",
+        "es": "[Baisulist]\n¡Ah, hola!\n¿Viniste\na entregar mi\nBáculo de arco?"
+    },
+    "jBmWBg": {
+        "en": "[Baisulist]\nYou sure this is what I ordered, right? I mean, if it's been used,\nI don't want it.",
+        "pt": "[Baisulist]\nTem certeza de que este é o que eu pedi, certo? Porque, se for um item usado,\neu não quero.",
+        "es": "[Baisulist]\nTienes la certeza de que esto es lo que pedí, ¿verdad? Es decir, si ya se usó,\nno lo quiero."
+    },
+    "jRmWBg": {
+        "en": "Whoops, this is one of the items I use...",
+        "pt": "Oooops, este é um dos itens que eu uso...",
+        "es": "Ups, este es uno de los objetos que uso…"
+    },
+    "jhmWBg": {
+        "en": "I'm sure! It's brand new!",
+        "pt": "Tenho certeza! É novinho!",
+        "es": "¡No tengo ninguna duda! ¡Es nuevo!"
+    },
+    "jxmWBg": {
+        "en": "[Baisulist]\nWell...\nI guess I can\nwait a little longer.\nPlease hurry with\nmy delivery~",
+        "pt": "[Baisulist]\nBem...\nAcho que posso\nesperar um pouco mais.\nPor favor, faça logo\na minha entrega.",
+        "es": "[Baisulist]\nBueno…\nSupongo que puedo\nesperar un poco más.\nPor favor, date prisa con\nmi entrega~."
+    },
+    "kBmWBg": {
+        "en": "[Baisulist]\nYou're\nabsolutely sure?",
+        "pt": "[Baisulist]\nVocê está \ncerto disso?",
+        "es": "[Baisulist]\n¿Realmente\nno tienes ninguna duda?"
+    },
+    "kRmWBg": {
+        "en": "[Baisulist]\nThank you so much for traveling all the way here. That Geschupenschte, please smack him for me when you meet him for being so late on this order...",
+        "pt": "[Baisulist]\nMuito obrigada por ter vindo até aqui. E, quando puder, dê um murro naquele Geschupenschte por mim, pelo atraso no pedido.",
+        "es": "[Baisulist]\nMuchas gracias por viajar hasta aquí. Ese Geschupenschte, por favor, dale una bofetada de mi parte por tardar tanto con este pedido…"
+    },
+    "khmWBg": {
+        "en": "[Baisulist]\nPlease wait\na second, let\nme give you a receipt~",
+        "pt": "[Baisulist]\nPor favor, espere\num minuto, deixe\neu lhe dar um recibo.",
+        "es": "[Baisulist]\nEspera\nun segundo, te\ndaré un recibo~."
+    },
+    "kxmWBg": {
+        "en": "[Baisulist]\nHere it is.\nThank you so much!\nOh, and good luck~",
+        "pt": "[Baisulist]\nAqui está.\nMuito obrigada!\nAh, e boa sorte.",
+        "es": "[Baisulist]\nAquí está.\n¡Muchísimas gracias!\nAh, y buena suerte~."
+    },
+    "lBmWBg": {
+        "en": "Hey, {0}, thank you so much for the delivery~",
+        "pt": "Ei, {0}, muito obrigado pela entrega~",
+        "es": "Oye, {0}, muchas gracias por la entrega~."
+    },
+    "lRmWBg": {
+        "en": "[Baisulist]\nThank you\nso much for\nthe delivery~",
+        "pt": "[Baisulist]\nMuito obrigada\nmesmo pela\nentrega.",
+        "es": "[Baisulist]\nMuchas gracias\npor\nla entrega~."
+    },
+    "lhmWBg": {
+        "en": "[Baisulist]\nOh...\nIt's been a while\nsince I've been\nto Alberta.",
+        "pt": "[Baisulist]\nOh...\nFaz muito tempo\ndesde que estive\nem Alberta.",
+        "es": "[Baisulist]\nAh…\nHace mucho\ntiempo que no\nvoy a Alberta."
+    },
+    "lxmWBg": {
+        "en": "[Baisulist]\nI ordered something\nfrom there a while ago,\nbut I haven't received\nmy delivery...",
+        "pt": "[Baisulist]\nEu pedi uma coisa\nde lá há algum tempo,\nmas ainda não recebi\na minha entrega.",
+        "es": "[Baisulist]\nPedí algo\nallí hace un tiempo,\npero no recibí\nmi pedido…"
+    },
+    "mBmWBg": {
+        "en": "[Baisulist]\nI wonder...\nCould the Blacksmith Guild\nbe undermanned? I can't think of any other reason for them to be late...",
+        "pt": "[Baisulist]\nEu me pergunto...\nSerá que a Guilda dos Ferreiros\nestá sem funcionários? Não consigo pensar em outro motivo para um atraso tão grande...",
+        "es": "[Baisulist]\nMe pregunto…\n¿Es posible que el gremio de Herreros\nesté escaso de personal? No se me ocurre ninguna otra razón por la que estarían demorados…"
+    },
+    "mRmWBg": {
+        "en": "[Baisulist]\nWhen will I get\nmy special Arc Wand?",
+        "pt": "[Baisulist]\nQuando será que vai chegar\no meu Cetro especial?",
+        "es": "[Baisulist]\n¿Cuándo recibiré\nmi Báculo de arco especial?"
+    },
+    "mhmWBg": {
+        "en": "Wickebine",
+        "pt": "Wickebine",
+        "es": "Wickebine"
+    },
+    "mxmWBg": {
+        "en": "[Wickebine]\n...!\nIt's here!",
+        "pt": "[Wickebine]\n...!\nEstá aqui!",
+        "es": "[Wickebine]\n¡…!\n¡Ya está aquí!"
+    },
+    "nBmWBg": {
+        "en": "[Wickebine]\nThis is what I ordered, right?\nI don't want any used or old Gladius that you might have!",
+        "pt": "[Wickebine]\nEsse é o que eu pedi, certo?\nEu não quero nenhum Gladius velho ou usado!",
+        "es": "[Wickebine]\nEsto es lo que pedí, ¿verdad?\n¡No quiero ninguna Gladius usada o vieja que puedas tener!"
+    },
+    "nRmWBg": {
+        "en": "Whoops, not that one.",
+        "pt": "Ooops, não é esse.",
+        "es": "Ups, esa no."
+    },
+    "nhmWBg": {
+        "en": "I guarantee you it is new.",
+        "pt": "Eu garanto que é novo.",
+        "es": "Te garantizo que es nueva."
+    },
+    "nxmWBg": {
+        "en": "[Wickebine]\nOooh...!\nHurry up\nwith my Gladius~",
+        "pt": "[Wickebine]\nAaah...!\nTraga logo\no meu Gladius.",
+        "es": "[Wickebine]\n¡Aaah…!\nDate prisa\ncon mi Gladius~."
+    },
+    "oBmWBg": {
+        "en": "- She seems to be upset. -",
+        "pt": "'- Ela parece aborrecida. -",
+        "es": "(Parece molesta)."
+    },
+    "oRmWBg": {
+        "en": "[Wickebine]\nHah hah hah!\nFinally! Now...\nLet me have\na look!",
+        "pt": "[Wickebine]\nHahaha!\nFinalmente! Agora...\ndeixe-me\ndar uma olhada!",
+        "es": "[Wickebine]\n¡Ja, ja, ja!\n¡Por fin! Ahora…\nDéjame\nver."
+    },
+    "ohmWBg": {
+        "en": "- She looks very happy. -",
+        "pt": "'- Ela parece feliz da vida. -",
+        "es": "(Parece muy feliz)."
+    },
+    "oxmWBg": {
+        "en": "[Wickebine]\nAre you with the\nEinbroch Blacksmith Guild?\nGive this message to Geschupenschte!",
+        "pt": "[Wickebine]\nVocê é da\nGuilda dos Ferreiros de Einbroch?\nDê este recado a Geschupenschte!",
+        "es": "[Wickebine]\n¿Estás con el\ngremio de Herreros de Einbroch?\n¡Dale este mensaje a Geschupenschte!"
+    },
+    "pBmWBg": {
+        "en": "[Wickebine]\n'^660000You're late!\nDo you know how long\nI've been waiting?!^000000'",
+        "pt": "[Wickebine]\n'^660000Você está atrasado!\nSabe quanto tempo faz que\nestou esperando??^000000'",
+        "es": "[Wickebine]\n^660000¡Llegas tarde!\n¡¿Sabes cuánto tiempo\nllevo esperando?!^000000."
+    },
+    "pRmWBg": {
+        "en": "[Wickebine]\nBut, this is also\na masterfully crafted item.\nTell him I'm satisfied with the quality of the workmanship.",
+        "pt": "[Wickebine]\nMas este é um\nitem muito bem feito.\nDiga a ele que estou satisfeita com a qualidade do trabalho.",
+        "es": "[Wickebine]\nPero esto también es\nun objeto elaborado con maestría.\nDile que estoy satisfecha con la calidad del trabajo."
+    },
+    "phmWBg": {
+        "en": "[Wickebine]\nHere's the receipt.\nI think you did\na good job.",
+        "pt": "[Wickebine]\nAqui está seu recibo.\nVocê fez \num bom trabalho.",
+        "es": "[Wickebine]\nAquí está el recibo.\nCreo que hiciste\nun buen trabajo."
+    },
+    "pxmWBg": {
+        "en": "Thanks for delivering, {0}~!",
+        "pt": "{0}, Muito obrigado pela entrega! Niao~! ^n.n^",
+        "es": "¡Gracias por la entrega, {0}~!"
+    },
+    "qBmWBg": {
+        "en": "[Wickebine]\nThanks for the delivery.",
+        "pt": "[Wickebine]\nObrigada pela entrega.",
+        "es": "[Wickebine]\nGracias por la entrega."
+    },
+    "qRmWBg": {
+        "en": "[Wickebine]\n...",
+        "pt": "[Wickebine]\n...",
+        "es": "[Wickebine]\n…"
+    },
+    "qhmWBg": {
+        "en": "[Wickemine]\n...\n......",
+        "pt": "[Wickemine]\n...\n......",
+        "es": "[Wickebine]\n…\n......"
+    },
+    "qxmWBg": {
+        "en": "[Wickmine]\nThey're late.\nThey're late,\nthey're late,\nthey're late~!",
+        "pt": "[Wickmine]\nEles estão atrasados.\nEles estão atrasados,\neles estão atrasados,\neles estão atrasados!",
+        "es": "[Wickebine]\nLlegan tarde.\n¡Llegan tarde,\nllegan tarde,\nllegan tarde~!"
+    },
+    "rBmWBg": {
+        "en": "[Wickebine]\nHow long does it take for something to ship from Geschupenschte? Usually, the Geffen Blacksmith Guild is pretty prompt...",
+        "pt": "[Wickebine]\nQuanto tempo leva para Geschupenschte entregar alguma coisa? Normalmente a Guilda dos Ferreiros de Geffen é bem rápida...",
+        "es": "[Wickebine]\n¿Cuánto tarda Geschupenschte en enviar un pedido? Por lo general, el gremio de Herreros de Geffen es bastante rápido…"
+    },
+    "rRmWBg": {
+        "en": "[Wickebine]\nOoohh...\nThis is very\nupsetting...",
+        "pt": "[Wickebine]\nOoohh...\nIsso é tão\nirritante...",
+        "es": "[Wickebine]\nAaahh…\nEsto es muy\nmolest…"
+    },
+    "rhmWBg": {
+        "en": "Krongast",
+        "pt": "Krongast",
+        "es": "Krongast"
+    },
+    "rxmWBg": {
+        "en": "[Krongast]\nOhhhhhh~\nIs it here?\nVery nice.\nLet me take a look.",
+        "pt": "[Krongast]\nOhhhhhh.\nJá chegou?\nMuito bom.\nDeixe-me dar uma olhada.",
+        "es": "[Krongast]\nAhhhhhh~.\n¿Está aquí?\nMuy bonita.\nDéjame echar un vistazo."
+    },
+    "sBmWBg": {
+        "en": "[Krongast]\nSo you're sure this is the item\nI ordered, right? I wouldn't want it if it's been used.",
+        "pt": "[Krongast]\nVocê tem certeza de que este é o item\nque eu pedi, certo? Eu não quero nenhum item usado.",
+        "es": "[Krongast]\nTienes la certeza de que este es el objeto que\nyo ordené, ¿verdad? Si es usada, no la quiero."
+    },
+    "sRmWBg": {
+        "en": "Whoops, this one is used!",
+        "pt": "Oooops, este é usado!",
+        "es": "¡Uy, esta está usada!"
+    },
+    "shmWBg": {
+        "en": "It was just made, so it's new.",
+        "pt": "Este item é novo.",
+        "es": "Está recién fabricada, así que es nueva."
+    },
+    "sxmWBg": {
+        "en": "[Krongast]\nHmmmmm!\nPlease deliver\nthe right sword!\nI've been waiting\nlong enough already...",
+        "pt": "[Krongast]\nHummmmm!\nPor favor, entregue\na espada certa!\nEu já esperei\ndemais da conta...",
+        "es": "[Krongast]\n¡Mmmmmm!\n¡Por favor, entrega\nla espada correcta!\nYa esperé\ndemasiado…"
+    },
+    "tBmWBg": {
+        "en": "[Krongast]\nYou double checked?\nAlright then, I'll take it!",
+        "pt": "[Krongast]\nJá verificou?\nCerto, então eu vou aceitar.",
+        "es": "[Krongast]\n¿Lo comprobaste dos veces?\nDe acuerdo, entonces, ¡me la llevo!"
+    },
+    "tRmWBg": {
+        "en": "[Krongast]\nOh ho...\nThis is good.\nMuch better than\nwhat I expected.",
+        "pt": "[Krongast]\nOh ho...\nIsso é bom.\nMuito melhor do que\neu esperava.",
+        "es": "[Krongast]\nJo, jo…\nEs muy buena.\nMucho mejor de\nlo que esperaba."
+    },
+    "thmWBg": {
+        "en": "[Krongast]\nWith this sword...\nMy special moves will be even more powerful! I may even be able to perfect my fast attacking techniques! I love it!",
+        "pt": "[Krongast]\nCom esta espada...\nmeus movimentos especiais serão ainda mais poderosos! Talvez eu consiga aperfeiçoar minhas técnicas de ataque rápido! Eu adorei!",
+        "es": "[Krongast]\nCon esta espada…\n¡mis movimientos especiales serán aún más poderosos! ¡Quizá pueda perfeccionar mis técnicas de ataque rápido! ¡Me encanta!"
+    },
+    "txmWBg": {
+        "en": "[Krongast]\nOkay then.\nLet me give\nyou a receipt.",
+        "pt": "[Krongast]\nMuito bem.\nAqui está \no seu recibo.",
+        "es": "[Krongast]\nDe acuerdo.\nPermíteme darte\nun recibo."
+    },
+    "uBmWBg": {
+        "en": "[Krongast]\nHere is\nyour receipt.\nThank you for\nyour business!",
+        "pt": "[Krongast]\nAqui está \no seu recibo.\nObrigado por\nfazer negócios comigo!",
+        "es": "[Krongast]\nAquí está\ntu recibo.\nGracias por\ntu trabajo."
+    },
+    "uRmWBg": {
+        "en": "{0}... Thank you for the delivery.",
+        "pt": "{0}, muito obrigado pela entrega~",
+        "es": "{0}… Gracias por la entrega."
+    },
+    "uhmWBg": {
+        "en": "[Krongast]\nThank you\nfor the delivery.",
+        "pt": "[Krongast]\nMuito obrigado\npela entrega.",
+        "es": "[Krongast]\nMuchas gracias\npor la entrega."
+    },
+    "uxmWBg": {
+        "en": "[Krongast]\n...",
+        "pt": "[Krongast]\n...",
+        "es": "[Krongast]\n…"
+    },
+    "vBmWBg": {
+        "en": "[Krongast]\n...\n......",
+        "pt": "[Krongast]\n...\n......",
+        "es": "[Krongast]\n…\n......"
+    },
+    "vRmWBg": {
+        "en": "[Krongast]\nWhen will the sword\nI ordered finally arrive?\nI need to try my ultimate skill, ^2F4F4FFine Edge^000000 with it.",
+        "pt": "[Krongast]\nQuando é que a espada\nque eu pedi vai chegar?\nEu preciso treinar minha nova habilidade, ^2F4F4FLâmina Fina^000000, com ela.",
+        "es": "[Krongast]\n¿Cuándo llegará\nla espada que encargué?\nLa necesito para probar mi habilidad definitiva: ^2F4F4FFilo preciso^000000."
+    },
+    "vhmWBg": {
+        "en": "[Krongast]\nAhhhhhhh!\nI need to\nhave that sword!",
+        "pt": "[Krongast]\nAhhhhhhh!\nPreciso\ndaquela espada!",
+        "es": "[Krongast]\n¡Ahhhhhhh!\n¡Necesito\ntener esa espada!"
+    },
+    "vxmWBg": {
+        "en": "Talpiz",
+        "pt": "Talpiz",
+        "es": "Talpiz"
+    },
+    "wBmWBg": {
+        "en": "[Talpiz]\nOh~\nIs it finally here?\nThe package I ordered?",
+        "pt": "[Talpiz]\nOh!\nMinha encomenda chegou?\nO pacote que eu pedi?",
+        "es": "[Talpiz]\nAh~.\n¿Por fin llegó?\n¿Es el paquete que pedí?"
+    },
+    "wRmWBg": {
+        "en": "[Talpiz]\nUm, this is what I ordered, right? I don't want an Arbalest that's been used before.",
+        "pt": "[Talpiz]\nEsse é o que eu pedi, certo? Eu não quero um Arbaleste usado.",
+        "es": "[Talpiz]\nUm, esto es lo que pedí, ¿verdad? No quiero una Arbalesta que ya se usó antes."
+    },
+    "whmWBg": {
+        "en": "Whoops, this is a used one.",
+        "pt": "Ooops, este é usado.",
+        "es": "Ups, esta es usada."
+    },
+    "wxmWBg": {
+        "en": "I'm sure it's new.",
+        "pt": "Tenho certeza de que é novo.",
+        "es": "Te aseguro que es nueva."
+    },
+    "xBmWBg": {
+        "en": "[Talpiz]\nHmmmm.\nPlease hurry\nand bring the\ncorrect item.\nI've waited too\nlong already...",
+        "pt": "[Talpiz]\nHummmm.\nSeja rápido, por favor,\ne me traga o\nitem correto.\nEu já esperei\ndemais...",
+        "es": "[Talpiz]\nMmmmm.\nPor favor, date prisa\ny tráeme el\nobjeto correcto.\nYa esperé demasiado\ntiempo…"
+    },
+    "xRmWBg": {
+        "en": "[Talpiz]\nSo, you're sure?\nLet me take a look...",
+        "pt": "[Talpiz]\nEntão, tem certeza?\nDeixe-me dar uma olhada...",
+        "es": "[Talpiz]\nEntonces, ¿me das tu palabra?\nDéjame echar un vistazo…"
+    },
+    "xhmWBg": {
+        "en": "[Talpiz]\n*wheet whoo*\nVery nice!!",
+        "pt": "[Talpiz]\n*assovio*\nMuito bom!!",
+        "es": "[Talpiz]\n*Uii, uoooo*\n¡¡Muy bonita!!"
+    },
+    "xxmWBg": {
+        "en": "[Talpiz]\nThis is truly a quality made custom item. I love how there is a case for an eye patch! I really reallly love this~",
+        "pt": "[Talpiz]\nEsse é realmente um item personalizado de qualidade. Que legal, tem um estojo para o meu tapa-olho! Eu realmente adorei!",
+        "es": "[Talpiz]\nEste es realmente un objeto personalizado de calidad. ¡Me encanta que haya un estuche para un parche de ojo! Me gusta mucho esto~."
+    },
+    "yBmWBg": {
+        "en": "[Talpiz]\nThank you!\nFor something of this quality,\nI can even sell it for a high price even after I've used it!",
+        "pt": "[Talpiz]\nObrigado!\nÉ um item de qualidade tão boa\nque eu posso até vender por um preço maior depois de usá-lo!",
+        "es": "[Talpiz]\n¡Gracias!\nDada la calidad,\nincluso puedo venderla a un precio elevado después de haberla usado."
+    },
+    "yRmWBg": {
+        "en": "[Talpiz]\nHere!\nPlease take\nyour receipt.\nI really appreciate\nyour hard work.",
+        "pt": "[Talpiz]\nTome!\nPegue \no seu recibo.\nEu realmente agradeço pelo\nseu trabalho.",
+        "es": "[Talpiz]\n¡Mira!\nToma\ntu recibo.\nRealmente aprecio\ntodo tu trabajo."
+    },
+    "yhmWBg": {
+        "en": "Thanks, {0}, you really delivered. Everytime I look at this, I love it even more~",
+        "pt": "Obrigado {0}, muito obrigado pela entrega! ^.~",
+        "es": "Gracias, {0}, me trajiste justo lo que quería. Cada vez que miro esto, me encanta aún más~."
+    },
+    "yxmWBg": {
+        "en": "[Talpiz]\nReally,\nI can't say it\nenough. This is\ntop quality work~!",
+        "pt": "[Talpiz]\nDe verdade,\nnem sei o que dizer \nmais. É \num trabalho de primeira!",
+        "es": "[Talpiz]\nDe verdad,\nno me canso\nde decirlo. ¡Esto es\nun trabajo de gran calidad~!"
+    },
+    "zBmWBg": {
+        "en": "[Talpiz]\nEh...\nWhen will my\norder arrive?",
+        "pt": "[Talpiz]\nEr...\nQuando o meu\npedido vai chegar?",
+        "es": "[Talpiz]\nEh…\n¿Cuándo\nllegará mi pedido?"
+    },
+    "zRmWBg": {
+        "en": "[Talpiz]\nA custom made Arbalest\nwith a quality case to hold your eye patches. Only one person can make something like that...",
+        "pt": "[Talpiz]\nUm Arbaleste personalizado\ncom um estojo para guardar o meu tapa-olho. Só uma pessoa pode fazer algo assim...",
+        "es": "[Talpiz]\nUna Arbalesta a medida\ncon un estuche de calidad para guardar los parches de ojo. Solo una persona puede hacer algo así…"
+    },
+    "zhmWBg": {
+        "en": "[Talpiz]\nAhhhhhh...\nThe waiting\nis unbearable!",
+        "pt": "[Talpiz]\nAhhhhhh...\nEssa espera\né insuportável!",
+        "es": "[Talpiz]\nAhhhhhh…\n¡La espera\nes insoportable!"
+    },
+    "zxmWBg": {
+        "en": "Bismarc",
+        "pt": "Bismarc",
+        "es": "Bismarck"
+    },
+    "0BmWBg": {
+        "en": "[Bismarc]\nSweet God...\nHave you sent\nan angel...?\nIs that the Ring Pommel Saber\nI ordered? It's my only hope...",
+        "pt": "[Bismarc]\nMeu Deus...\nVocê me mandou\num anjo?\nEsse é o sabre de impacto que\neu encomendei? É a minha única esperança...",
+        "es": "[Bismarc]\nSantos cielos…\n¿Enviaron\na un ángel…?\n¿Es ese el Sable de mango de anillo\nque ordené? Es mi única esperanza…"
+    },
+    "0RmWBg": {
+        "en": "[Bismarc]\n^666666*Huuuk*^000000 This is what I ordered, right? I needed one especially\nmade to stop this poison...",
+        "pt": "[Bismarc]\n^666666*Uuuuu*^000000 Isso foi o que eu pedi, certo? Eu preciso de um\nfeito especialmente para parar esse veneno...",
+        "es": "[Bismarc]\n^666666*Aaayyy*^000000 Esto es lo que pedí, ¿verdad? Necesitaba uno hecho especialmente\npara detener este veneno…"
+    },
+    "0hmWBg": {
+        "en": "Whoops, this is my own Ring Pommel Saber.",
+        "pt": "Opa, este é o MEU sabre de impacto.",
+        "es": "Ups, este es mi propio Sable de mango de anillo."
+    },
+    "0xmWBg": {
+        "en": "I'm sure this is the one.",
+        "pt": "Tenho certeza de que é este mesmo.",
+        "es": "Sin duda es éste."
+    },
+    "1BmWBg": {
+        "en": "[Bismarc]\nN-Nooo...\nHurry...!\nI need that\nsword for its\nan...ti...d-dote!",
+        "pt": "[Bismarc]\nNããão...\nRápido!\nEu preciso daquela\nespada com o\nan... tí... doto!",
+        "es": "[Bismarc]\nN-Nooo…\n¡Date prisa…!\n¡Necesito esa\nespada por su\nan… tí… d-doto!"
+    },
+    "1RmWBg": {
+        "en": "^3355FFIt looks like\nhe's slowly dying...!\nYou'd better hurry.^000000",
+        "pt": "^3355FFParece que\nele está morrendo beeeeem devagar!\nÉ melhor você se apressar.^000000",
+        "es": "^3355FF(¡Parece que\nse está muriendo lentamente…!\nSerá mejor que te des prisa).^000000"
+    },
+    "1hmWBg": {
+        "en": "[Bismarc]\n^666666*Ghklk*^000000\nGive it...!\nPleeeease!",
+        "pt": "[Bismarc]\n^666666*Gaaah!*^000000\nMe dê isso!\nPor favoooooor!",
+        "es": "[Bismarc]\n^666666*Ajjj, ajjj*^000000\n¡Dámela…!\n¡Por favoooor!"
+    },
+    "1xmWBg": {
+        "en": "^3355FFBismarc stabs\nhimself, repeatedly,\nwith the Ring Pommel Saber\nthat has been imbued with\nthe power of Green Herbs.^000000",
+        "pt": "^3355FFBismarc se\nperfura repetidamente\ncom o Sabre de Impacto\nque recebeu\no poder das Ervas Verdes.^000000",
+        "es": "^3355FF(Bismarc se apuñala\na sí mismo, repetidamente,\ncon el Sable de mango de anillo\nque se impregnó con\nel poder de las Hierbas verdes).^000000"
+    },
+    "2BmWBg": {
+        "en": "[Bismarc]\n^666666*Ghyklk*^000000\n*Gasp gasp*",
+        "pt": "[Bismarc]\n^666666*UuUuGH!*^000000\n*Aaaarf Arf*",
+        "es": "[Bismarc]\n^666666*Ajjj, ajjj*^000000\n*Jadea*"
+    },
+    "2RmWBg": {
+        "en": "[Bismarc]\nPlease...\nHelp me up.\nThe poison is\nstill coarsing\nthrough my body...",
+        "pt": "[Bismarc]\nPor favor...\nMe ajude.\nO veneno ainda\nestá corroendo\no meu corpo...",
+        "es": "[Bismarc]\nPor favor…\nAyúdame a levantarme.\nEl veneno\ntodavía corre\npor mi cuerpo…"
+    },
+    "2hmWBg": {
+        "en": "[Bismarc]\nOwwwWWWW!!\nIT'S BURNING!",
+        "pt": "[Bismarc]\nAaAaAAAAIIEEEEE!\nESTÁ ARDENDO!",
+        "es": "[Bismarc]\n¡¡OuuuUUUU!!\n¡ARDE!"
+    },
+    "2xmWBg": {
+        "en": "[Bismarc]\n*Gasp Gasp*\n*Whew* Okay,\nI can feel the\nantidote working now.\nJust what I needed.",
+        "pt": "[Bismarc]\n*Aaaarf Arf*\n*Ufa* Certo,\nEu já sinto o\nantídoto funcionando agora.\nExatamente o que eu precisava.",
+        "es": "[Bismarc]\n*Jadea*\n*Fiu* Bien,\npuedo sentir que\nel antídoto está funcionando ahora.\nJusto lo que necesitaba."
+    },
+    "3BmWBg": {
+        "en": "[Bismarc]\nHere is\nyour receipt.\nT-take it...!\nIt's yours!",
+        "pt": "[Bismarc]\nAqui está \no seu recibo.\nPegue-o!\nÉ seu!",
+        "es": "[Bismarc]\nAquí está\ntu recibo.\n¡T-tómalo…!\n¡Es tuyo!"
+    },
+    "3RmWBg": {
+        "en": "Thanks, {0}, for the delivery. You saved my life...",
+        "pt": "{0}, obrigado... por...me ...entregar o... Poderei continuar vivendo...",
+        "es": "Gracias, {0}, por la entrega. Me salvaste la vida…"
+    },
+    "3hmWBg": {
+        "en": "[Bismarc]\nThank you.\nYou saved\nmy life...",
+        "pt": "[Bismarc]\nObrigado.\nVocê salvou\na minha vida.",
+        "es": "[Bismarc]\nGracias.\nMe salvaste\nla vida…"
+    },
+    "3xmWBg": {
+        "en": "[Bismarc]\n^666666*Ghyklk*^000000\n^666666*Huk Hukk*^000000\nWhen will my\no-order arrive...?",
+        "pt": "[Bismarc]\n^666666*UuUuGH!*^000000\n^666666*Gaah AAAAAH*^000000\nQuando o meu\np-pedido vai chegar?",
+        "es": "[Bismarc]\n^666666*Ajjj, ajjj*^000000\n^666666*Ajjj, ajjjj*^000000\n¿Cuándo\nl-llegará mi pedido…?"
+    },
+    "4BmWBg": {
+        "en": "[Bismarc]\nThe poison in\nmy body... the pain...\nexcruciating... L-lord...",
+        "pt": "[Bismarc]\nO veneno no\nmeu corpo... a dor...\nhorrível... Oh, céus...",
+        "es": "[Bismarc]\nEl veneno en\nmi cuerpo… el dolor…\nes insoportable… D-Dios…"
+    },
+    "4RmWBg": {
+        "en": "[Bismarc]\nWhen is the\nantidote gonna\nget here?!",
+        "pt": "[Bismarc]\nQuando o \nantídoto vai\nchegar aqui?",
+        "es": "[Bismarc]\n¡¿Cuándo va\na llegar\nel antídoto?!"
+    },
+    "4hmWBg": {
+        "en": "Blacksmith Guildsman",
+        "pt": "Mestra Ferreira",
+        "es": "Herrera gremial"
+    },
+    "4xmWBg": {
+        "en": "[Mitehmaeeuh]\nOh...so you're the one who wants to be a blacksmith?\nNice, heh heh.\nAs you've realized from your past tests, you won't be promoted from Merchant to Blacksmtih immediately.",
+        "pt": "[Mitehmaeeuh]\nOh, então você quer ser um ferreiro?\nLegal, hehe.\nComo você já deve ter percebido, não vai ser promovido de Mercador para Ferreiro imediatamente.",
+        "es": "[Mitehmaeeuh]\nAh… ¿así que quieres ser clase Herrero?\nBien, je, je.\nComo habrás visto en tus pruebas anteriores, no ascenderás de Comerciante a Herrero de inmediato."
+    },
+    "5BmWBg": {
+        "en": "[Mitehmaeeuh]\nHow much do you truly understand about smithing? Are you ready for me to ask you some questions?",
+        "pt": "[Mitehmaeeuh]\nO quanto você realmente sabe sobre o trabalho de Ferreiro? Está pronto para responder a algumas perguntas?",
+        "es": "[Mitehmaeeuh]\n¿Cuánto sabes realmente de herrería? ¿Todo listo para que te haga algunas preguntas?"
+    },
+    "5RmWBg": {
+        "en": "Yes",
+        "pt": "Sim",
+        "es": "Sí."
+    },
+    "5hmWBg": {
+        "en": "No, not yet~",
+        "pt": "Não, ainda não...",
+        "es": "No, todavía no~."
+    },
+    "5xmWBg": {
+        "en": "[Mitehmaeeuh]\nAlright...\nMy test is simple.\nI'll ask five questions.\nIf you miss too many,\nyou fail. And I won't\ntell you what you missed.",
+        "pt": "[Mitehmaeeuh]\nCerto...\nMeu teste é simples.\nEu vou fazer cinco perguntas.\nSe você errar demais,\nfalhará. E eu não\nvou dizer quais você errou.",
+        "es": "[Mitehmaeeuh]\nMuy bien…\nMi prueba es simple.\nTe haré cinco preguntas.\nSi respondes mal demasiadas veces,\nrepruebas. Y no te diré\nen cuáles erraste."
+    },
+    "6BmWBg": {
+        "en": "[Mitehmaeeuh]\nPlease listen\nand answer carefully...",
+        "pt": "[Mitehmaeeuh]\nAgora, escute \ne responda com cuidado...",
+        "es": "[Mitehmaeeuh]\nEscucha\ny ten cuidado al contestar…"
+    },
+    "6RmWBg": {
+        "en": "[Mitehmaeeuh]\n1. What ability\nis required to learn\nthe ^8E6B23Discount^000000 skill?",
+        "pt": "[Mitehmaeeuh]\n1. Qual habilidade \né necessária para aprender\na habilidade ^8E6B23Desconto^000000?",
+        "es": "[Mitehmaeeuh]\n1. ¿Qué habilidad\nes necesaria para aprender\nla habilidad ^8E6B23Descuento^000000?"
+    },
+    "6hmWBg": {
+        "en": "Level 3 Push Cart",
+        "pt": "Usar Carrinho Nível 3",
+        "es": "Uso de carro de nivel 3."
+    },
+    "6xmWBg": {
+        "en": "Item Appraisal",
+        "pt": "Identificar Itens",
+        "es": "Valoración de objetos."
+    },
+    "7BmWBg": {
+        "en": "Level 10 Mammonite",
+        "pt": "Mammonita nível 10",
+        "es": "Mamonita de nivel 10."
+    },
+    "7RmWBg": {
+        "en": "Level 3 Enlarge Weight",
+        "pt": "Capacidade de Carga nível 3",
+        "es": "Ampliar límite de peso de nivel 3."
+    },
+    "7hmWBg": {
+        "en": "[Mitehmaeeuh]\n2. When you attack\nwith ^8E6B23Hammerfall^000000,\nwhat status effect can\nyou inflict on enemies?",
+        "pt": "[Mitehmaeeuh]\n2. Quando você ataca \ncom o ^8E6B23Martelo de Thor^000000,\nqual efeito pode \nser causado nos inimigos?",
+        "es": "[Mitehmaeeuh]\n2. Cuando atacas\ncon ^8E6B23Martillazo^000000,\n¿qué efecto de estado puedes\ninfligir a tus enemigos?"
+    },
+    "7xmWBg": {
+        "en": "Blindness",
+        "pt": "Cegueira",
+        "es": "Ceguera."
+    },
+    "8BmWBg": {
+        "en": "Chaos",
+        "pt": "Caos",
+        "es": "Caos."
+    },
+    "8RmWBg": {
+        "en": "[Mitehmaeeuh]\n3. How much Zeny is spent\nwhen attacking with the\nmastered Mammonite skill?\n(Level 10 Mammonite)",
+        "pt": "[Mitehmaeeuh]\n3. Quantos Zenys são gastos\nao atacar com a \nhabilidade Mammonita máxima?\n(Mammonita nível 10)",
+        "es": "[Mitehmaeeuh]\n3. ¿Cuántos zeny se gastan\nal atacar con la\nhabilidad Mamonita dominada?\n(Mamonita de nivel10)."
+    },
+    "8hmWBg": {
+        "en": "900 Zeny",
+        "pt": "900 Zenys",
+        "es": "900 zeny."
+    },
+    "8xmWBg": {
+        "en": "1000 Zeny",
+        "pt": "1000 Zenys",
+        "es": "1000 zeny."
+    },
+    "9BmWBg": {
+        "en": "2000 Zeny",
+        "pt": "2.000 Zenys",
+        "es": "2000 zeny."
+    },
+    "9RmWBg": {
+        "en": "100,000 Zeny",
+        "pt": "100.000 Zenys",
+        "es": "100000 zeny"
+    },
+    "9hmWBg": {
+        "en": "[Mitehmaeeuh]\n4. What is the\ndiscount rate when\nthe ^8E6B23Discount^000000\nskill is mastered?",
+        "pt": "[Mitehmaeeuh]\n4. Qual é o\nnível de desconto quando\na habilidade ^8E6B23Desconto^000000\nestá no nível máximo?",
+        "es": "[Mitehmaeeuh]\n4. ¿Cuál es el\nporcentaje de descuento\nde la habilidad ^8E6B23Descuento^000000\ncuando está dominada?"
+    },
+    "9xmWBg": {
+        "en": "21 %",
+        "pt": "21%",
+        "es": "21 %."
+    },
+    "+BmWBg": {
+        "en": "22 %",
+        "pt": "22%",
+        "es": "22 %."
+    },
+    "+RmWBg": {
+        "en": "23 %",
+        "pt": "23%",
+        "es": "23 %."
+    },
+    "+hmWBg": {
+        "en": "24 %",
+        "pt": "24%",
+        "es": "24 %."
+    },
+    "+xmWBg": {
+        "en": "[Mitehmaeeuh]\n5. What percentage can you \novercharge items sold to \nNPCs when your \n^8E6B23Overcharge^000000 \nskill is at level 9?",
+        "pt": "[Mitehmaeeuh]\n5. Qual é a porcentagem máxima\nque você pode colocar nos itens\nvendidos aos NPCs quando a\nhabilidade ^8E6B23Superfaturar^000000\nestiver no nível 9?",
+        "es": "[Mitehmaeeuh]\n5. ¿Cuál es el porcentaje máximo\nque puedes cobrar de más\npor objetos vendidos a NPC\ncuando tu habilidad ^8E6B23Sobrecosto^000000\nesté en el nivel 9?"
+    },
+    "/BmWBg": {
+        "en": "[Mitehmaeeuh]\n1. Which of the\nfollowing monsters\ndrops Steel?",
+        "pt": "[Mitehmaeeuh]\n1. Qual dos\nseguintes monstros \ncarregam Aço?",
+        "es": "[Mitehmaeeuh]\n1. ¿Cuál de los\nsiguientes monstruos\nsuelta Acero?"
+    },
+    "/RmWBg": {
+        "en": "Skel Worker",
+        "pt": "Esqueleto Operário",
+        "es": "Esqueleto trabajador."
+    },
+    "/hmWBg": {
+        "en": "Requiem",
+        "pt": "Réquiem",
+        "es": "Réquiem."
+    },
+    "/xmWBg": {
+        "en": "[Mitehmaeeuh]\n2. Which of the following\nstones can be made from\nRed Bloods?",
+        "pt": "[Mitehmaeeuh]\n2. Qual das seguintes\npedras podem ser feitas com\nSangue Escarlate?",
+        "es": "[Mitehmaeeuh]\n2. ¿Cuál de las siguientes\npiedras puede estar hecha de\nSangre roja?"
+    },
+    "ABqWBg": {
+        "en": "Flame Heart",
+        "pt": "Coração Flamejante",
+        "es": "Corazón en llamas."
+    },
+    "ARqWBg": {
+        "en": "Rough Wind",
+        "pt": "Vento Bruto",
+        "es": "Piedra de viento."
+    },
+    "AhqWBg": {
+        "en": "Great Nature",
+        "pt": "Natureza Grandiosa",
+        "es": "Gran naturaleza."
+    },
+    "AxqWBg": {
+        "en": "Mystic Frozen",
+        "pt": "Gelo Místico",
+        "es": "Místico congelado."
+    },
+    "BBqWBg": {
+        "en": "[Mitehmaeeuh]\n3. Which of the following\nstones do you have the most\nof in your Kafra Storage?",
+        "pt": "[Mitehmaeeuh]\n3. Qual das seguintes\npedras você tem em maior quantidade\nno seu Armazém Kafra?",
+        "es": "[Mitehmaeeuh]\n3. ¿De cuál de las siguientes\npiedras tienes más cantidad\nen tu Almacén de Kafra?"
+    },
+    "BRqWBg": {
+        "en": "Wind of Verdure",
+        "pt": "Frescor do Vento",
+        "es": "Viento de verdor."
+    },
+    "BhqWBg": {
+        "en": "Red Blood",
+        "pt": "Sangue Escarlate",
+        "es": "Sangre roja."
+    },
+    "BxqWBg": {
+        "en": "Green Live",
+        "pt": "Vida Verdejante",
+        "es": "Vida verde."
+    },
+    "CBqWBg": {
+        "en": "Crystal Blue",
+        "pt": "Cristal Azul",
+        "es": "Azul cristal."
+    },
+    "CRqWBg": {
+        "en": "[Mitehmaeeuh]\n4. In general,\nwhich of the following\nproperties receives the\nmost damage from a Wind\nattribute weapon?",
+        "pt": "[Mitehmaeeuh]\n4. Em geral,\nqual das seguintes\npropriedades recebe\nmais dano de uma arma com\no atributo Vento?",
+        "es": "[Mitehmaeeuh]\n4. En general,\n¿cuál de las siguientes\npropiedades recibe el\nmayor daño de un\narma de atributo Viento?"
+    },
+    "ChqWBg": {
+        "en": "Fire Property",
+        "pt": "Propriedade Fogo",
+        "es": "Propiedad Fuego."
+    },
+    "CxqWBg": {
+        "en": "Water Property",
+        "pt": "Propriedade Água",
+        "es": "Propiedad Agua."
+    },
+    "DBqWBg": {
+        "en": "Earth Property",
+        "pt": "Propriedade Terra",
+        "es": "Propiedad Tierra."
+    },
+    "DRqWBg": {
+        "en": "Wind Property",
+        "pt": "Propriedade Vento",
+        "es": "Propiedad Viento."
+    },
+    "DhqWBg": {
+        "en": "[Mitehmaeeuh]\n5. How many Iron Ore\nis required to make\n1 Steel?",
+        "pt": "[Mitehmaeeuh]\n5. Quantos Minérios de Ferro\nsão necessários para fazer\n1 Aço?",
+        "es": "[Mitehmaeeuh]\n5. ¿Cuántas unidades de Mineral de hierro\nse requieren para hacer\n1 unidad de Acero?"
+    },
+    "DxqWBg": {
+        "en": "5 Iron Ore",
+        "pt": "5 Minérios de Ferro",
+        "es": "5 unidades de Mineral de hierro."
+    },
+    "EBqWBg": {
+        "en": "4 Iron Ore",
+        "pt": "4 Minérios de Ferro",
+        "es": "4 unidades de Mineral de hierro."
+    },
+    "ERqWBg": {
+        "en": "3 Iron Ore",
+        "pt": "3 Minérios de Ferro",
+        "es": "3 unidades de Mineral de hierro."
+    },
+    "EhqWBg": {
+        "en": "6 Iron Ore",
+        "pt": "6 Minérios de Ferro",
+        "es": "6 unidades de Mineral de hierro."
+    },
+    "ExqWBg": {
+        "en": "[Mitehmaeeuh]\n1. What do you usually\ndo when you meet someone\nrandomly on the street?",
+        "pt": "[Mitehmaeeuh]\n1. O que você faz\nquando encontra alguém\naleatoriamente na rua?",
+        "es": "[Mitehmaeeuh]\n1. ¿Qué sueles hacer\ncuando te encuentras con una persona\npor casualidad en la calle?"
+    },
+    "FBqWBg": {
+        "en": "Ask them what they need.",
+        "pt": "Pergunto do que ele precisa.",
+        "es": "Preguntarle qué necesita."
+    },
+    "FRqWBg": {
+        "en": "Have a brief conversation.",
+        "pt": "Converso um pouco.",
+        "es": "Mantener una breve conversación."
+    },
+    "FhqWBg": {
+        "en": "Ignore them.",
+        "pt": "Eu o ignoro.",
+        "es": "Ignorarla."
+    },
+    "FxqWBg": {
+        "en": "Give items and run away.",
+        "pt": "Dou itens a ele e saio correndo.",
+        "es": "Entregarle objetos y huir."
+    },
+    "GBqWBg": {
+        "en": "[Mitehmaeeuh]\n2. In what village\ncan you learn the\n^8E6B23Crazy Uproar^000000 and\n^8E6B23Change Cart^000000 skills?",
+        "pt": "[Mitehmaeeuh]\n2. Em que cidade\nvocê pode aprender as habilidades\n^8E6B23Grito de Guerra^000000 e\n^8E6B23Personalizar Carrinho^000000?",
+        "es": "[Mitehmaeeuh]\n2. ¿En qué aldea\npuedes aprender las habilidades\n^8E6B23Alboroto frenético^000000 y\n^8E6B23Modificación de carreta^000000?"
+    },
+    "GRqWBg": {
+        "en": "Al De Baran",
+        "pt": "Al De Baran",
+        "es": "Aldebaran."
+    },
+    "GhqWBg": {
+        "en": "Izlude",
+        "pt": "Izlude",
+        "es": "Izlude."
+    },
+    "GxqWBg": {
+        "en": "[Mitehmaeeuh]\n3. From the center of Einbroch,\nin which direction is the Blacksmith Guild?",
+        "pt": "[Mitehmaeeuh]\n3. Do centro de Einbroch,\nem que direção fica a Guilda dos Ferreiros?",
+        "es": "[Mitehmaeeuh]\n3. Desde el centro de Einbroch,\n¿en qué dirección está el gremio de Herreros?"
+    },
+    "HBqWBg": {
+        "en": "11 o'clock",
+        "pt": "Noroeste",
+        "es": "Hacia las 11:00 en punto."
+    },
+    "HRqWBg": {
+        "en": "5 o'clock",
+        "pt": "Sudeste",
+        "es": "Hacia las 5:00 en punto."
+    },
+    "HhqWBg": {
+        "en": "7 o'clock",
+        "pt": "Sudoeste",
+        "es": "Hacia las 7:00 en punto."
+    },
+    "HxqWBg": {
+        "en": "12 o'clock",
+        "pt": "Norte",
+        "es": "Hacia las 12:00 en punto."
+    },
+    "IBqWBg": {
+        "en": "[Mitehmaeeuh]\n4. In which town\ncan you find the\nmost Blacksmiths?",
+        "pt": "[Mitehmaeeuh]\n4. Em que cidade\nvocê encontra \nmais Ferreiros?",
+        "es": "[Mitehmaeeuh]\n4. ¿En qué pueblo\nse encuentran\nla mayoría de los Herreros?"
+    },
+    "IRqWBg": {
+        "en": "Einbroch",
+        "pt": "Einbroch",
+        "es": "Einbroch."
+    },
+    "IhqWBg": {
+        "en": "[Mitehmaeeuh]\n5. Which of the\nfollowing statuses\naffect your skill\nas a Blacksmith?",
+        "pt": "[Mitehmaeeuh]\n5. Quais dos\nseguintes atributos\nafetam a sua habilidade\ncomo Ferreiro?",
+        "es": "[Mitehmaeeuh]\n5. ¿Cuál de los\nsiguientes estados\nafecta tu habilidad\ncomo Herrero?"
+    },
+    "IxqWBg": {
+        "en": "STR",
+        "pt": "FOR",
+        "es": "FUE."
+    },
+    "JBqWBg": {
+        "en": "DEX",
+        "pt": "DES",
+        "es": "DES."
+    },
+    "JRqWBg": {
+        "en": "AGI",
+        "pt": "AGI",
+        "es": "AGI."
+    },
+    "JhqWBg": {
+        "en": "VIT",
+        "pt": "VIT",
+        "es": "VIT."
+    },
+    "JxqWBg": {
+        "en": "[Mitehmaeeuh]\nAh...\nYou've completed\nthe quiz. Let's see...",
+        "pt": "[Mitehmaeeuh]\nAh...\nvocê completou\no teste. Vejamos...",
+        "es": "[Mitehmaeeuh]\nAh…\nCompletaste\nel cuestionario. Veamos…"
+    },
+    "KBqWBg": {
+        "en": "[Mitehmaeeuh]\nYou earned\n{0} points...",
+        "pt": "[Mitehmaeeuh]\nVocê conseguiu\n{0} pontos...",
+        "es": "[Mitehmaeeuh]\nObtuviste\n{0} puntos…"
+    },
+    "KRqWBg": {
+        "en": "Very nice!\nCongratulations!\nYou just passed!",
+        "pt": "Muito bom!!\nParabéns!\nVocê passou!",
+        "es": "¡Muy bien!\n¡Felicitaciones!\n¡Acabas de aprobar!"
+    },
+    "KhqWBg": {
+        "en": "[Mitehmaeeuh]\nHowever, don't let your early success make you overconfident. A Blacksmith's life isn't a picnic. As proof that you have passed the test, I give you this Hammer of Blacksmith.",
+        "pt": "[Mitehmaeeuh]\nEntretanto, não deixe o seu sucesso subir à cabeça. A vida de um ferreiro não é um piquenique. Como prova de que você passou no teste, eu lhe dou este Martelo de Ferreiro.",
+        "es": "[Mitehmaeeuh]\nSin embargo, no te duermas en los laureles de tu éxito inicial. La vida de los Herreros no es un pícnic. Como evidencia de que aprobaste la prueba, te doy este Martillo de Herrero."
+    },
+    "KxqWBg": {
+        "en": "[Mitehmaeeuh]\nTake this Hammer\nof Blacksmith and go back to the Einbroch Blacksmith Guild. Okay then? I wish you the best of luck!",
+        "pt": "[Mitehmaeeuh]\nLeve este Martelo\nde Ferreiro e volte para a Guilda dos Ferreiros em Einbroch. Certo então? Eu lhe desejo toda a sorte.",
+        "es": "[Mitehmaeeuh]\nToma este Martillo\nde Herrero y vuelve al gremio de Herreros de Einbroch. ¿De acuerdo? ¡Te deseo mucha suerte!"
+    },
+    "LBqWBg": {
+        "en": "You failed! You better study up before coming back here.",
+        "pt": "Você falhou. É melhor você estudar mais antes de voltar aqui.",
+        "es": "¡No aprobaste! Será mejor que estudies antes de volver aquí."
+    },
+    "LRqWBg": {
+        "en": "[Mitehmaeeuh]\nWith your knowledge, or lack thereof, you'll just end up hurting yourself holding a hammer!",
+        "pt": "[Mitehmaeeuh]\nCom o seu conhecimento, ou a falta dele, você só vai se machucar ao segurar um martelo!",
+        "es": "[Mitehmaeeuh]\nCon tu conocimiento, o mejor dicho falta de conocimiento, ¡solo conseguirás hacerte daño si agarras un martillo!"
+    },
+    "LhqWBg": {
+        "en": "[Mitehmaeeuh]\nOkay then.\nPlease prepare\nyourself and return\nwhen you are ready...",
+        "pt": "[Mitehmaeeuh]\nMuito bem.\nPor favor, prepare-se\nmelhor e volte\nquando estiver pronto...",
+        "es": "[Mitehmaeeuh]\nDe acuerdo.\nPor favor, prepárate\ny regresa\ncuando tengas todo listo…"
+    },
+    "LxqWBg": {
+        "en": "[Mitehmaeeuh]\nYeap, you just passed the Blacksmith job test~",
+        "pt": "[Mitehmaeeuh]\nÉ, você acabou de passar no teste para a classe Ferreiro!",
+        "es": "[Mitehmaeeuh]\nSí, acabas de pasar la prueba de la clase Herrero~."
+    },
+    "MBqWBg": {
+        "en": "[Mitehmaeeuh]\nWhy don't you go back to Mr.Geschupenschte?",
+        "pt": "[Mitehmaeeuh]\nPor que não vai falar com o Sr. Geschupenschte?",
+        "es": "[Mitehmaeeuh]\n¿Por qué no vuelves con Altiregen?"
+    },
+    "MRqWBg": {
+        "en": "[Mitehmaeeuh]\nDon't forget to bring the Hammer of Blacksmith with you!",
+        "pt": "[Mitehmaeeuh]\nE não se esqueça de levar o Martelo de Ferreiro com você!",
+        "es": "[Mitehmaeeuh]\n¡No olvides llevar contigo el Martillo de Herrero!"
+    },
+    "MhqWBg": {
+        "en": "[Mitehmaeeuh]\nOh, also make sure that you have no skill point left before you change your job~",
+        "pt": "[Mitehmaeeuh]\nAh, e também não esqueça de usar os seus pontos de habilidade antes de mudar de classe!",
+        "es": "[Mitehmaeeuh]\nAh, también asegúrate de que no te quede ningún punto de habilidad sin usar antes de cambiar de clase~."
+    },
+    "MxqWBg": {
+        "en": "[Mitehmaeeuh]\nI had to deal with the heat when I was in Morroc,\nand now I have to deal with the smog in this Einbroch!",
+        "pt": "[Mitehmaeeuh]\nEu tive que aguentar o calor quando estava em Morroc\ne agora tenho que aguentar a neblina em Einbroch!",
+        "es": "[Mitehmaeeuh]\n¡Tuve que lidiar con el calor cuando estaba en Morroc\ny ahora tengo que lidiar con el esmog en Einbroch!"
+    },
+    "NBqWBg": {
+        "en": "[Mitehmaeeuh]\nBut, I must admit that this is the perfect place for Blacksmiths because we have an abundance of crafting material supplies as well as highly developed equipment.",
+        "pt": "[Mitehmaeeuh]\nMas eu devo admitir que este é o lugar perfeito para Ferreiros porque nós temos uma abundância de materiais e equipamentos altamente desenvolvidos.",
+        "es": "[Mitehmaeeuh]\nPero debo admitir que este es el lugar perfecto para los Herreros, porque tenemos abundantes suministros de materiales de fabricación, así como equipamiento muy desarrollado."
+    },
+    "NRqWBg": {
+        "en": "[Mitehmaeeuh]\nWe, Blacksmiths are trying our best to forge the best of the best weapons.",
+        "pt": "[Mitehmaeeuh]\nNós, ferreiros, estamos fazendo o máximo para forjar as melhores armas.",
+        "es": "[Mitehmaeeuh]\nLos Herreros nos esforzamos por forjar las mejores armas."
+    },
+    "NhqWBg": {
+        "en": "[Mitehmaeeuh]\nWe pledge our honor on that!",
+        "pt": "[Mitehmaeeuh]\nNós penhoramos a nossa honra nisso!",
+        "es": "[Mitehmaeeuh]\n¡Es nuestro juramento de honor!"
+    },
+    "NxqWBg": {
+        "en": "[Blacksmith Guildsman]\nGood day, are you here to visit Blacksmith Guild?",
+        "pt": "[Mestre Ferreiro]\nBom-dia! Você veio visitar a Guilda dos Ferreiros?",
+        "es": "[Herrera del gremio]\nBuenos días, ¿vienes a visitar el gremio de Herreros?"
+    },
+    "OBqWBg": {
+        "en": "[Blacksmith Guildsman]\nI thank you for coming this far to visit our guild. However, I regret to inform you that Blacksmith Guild has been\nmoved to ^3131FF'Einbroch' in Schwaltzvalt Republic^000000.",
+        "pt": "[Mestre Ferreiro]\nEu agradeço por ter vindo de tão longe para visitar a guilda. Porém, eu lamento informar que a Guilda dos Ferreiros\nse mudou para ^3131FF'Einbroch', na República de Schwaltzvalt^000000.",
+        "es": "[Herrera del gremio]\nTe agradezco que hayas venido hasta aquí para visitar nuestro gremio. Sin embargo, lamento informarte que el gremio de Herreros\nse trasladó a ^3131FFEinbroch en la República de Schwarzwald^000000."
+    },
+    "ORqWBg": {
+        "en": "[Blacksmith Guildsman]\nYou can travel to Schwaltzvalt Republic by using the airship.\nI can provide you a teleport service to Izlude, where you can use the airship.\nWould you like to move to Izlude immediately?",
+        "pt": "[Mestre Ferreiro]\nVocê pode viajar para a República de Schwaltzvalt usando o aeroplano.\nEu posso fornecer um serviço de teletransporte até Izlude, onde você pode usar o Aeroplano.\nVocê gostaria de ir para Izlude imediatamente?",
+        "es": "[Herrera del gremio]\nPuedes viajar a la República de Schwarzwald utilizando la aeronave.\nPuedo proporcionarte un servicio de teletransporte a Izlude, donde podrás usar la aeronave.\n¿Te gustaría trasladarte a Izlude de inmediato?"
+    },
+    "OhqWBg": {
+        "en": "How to go to Einbroch",
+        "pt": "Como chegar em Einbroch",
+        "es": "¿Cómo llego a Einbroch?"
+    },
+    "OxqWBg": {
+        "en": "Yes!",
+        "pt": "Sim!",
+        "es": "¡Sí!"
+    },
+    "PBqWBg": {
+        "en": "No, thanks.",
+        "pt": "Não, obrigado.",
+        "es": "No, gracias."
+    },
+    "PRqWBg": {
+        "en": "Plumbing?",
+        "pt": "Encanamento?",
+        "es": "¿Fontanería?"
+    },
+    "PhqWBg": {
+        "en": "[Blacksmith Guildsman]\nOops, haven't you used the airship yet?",
+        "pt": "[Mestre Ferreiro]\nAh, você ainda não usou o Aeroplano?",
+        "es": "[Herrera del gremio]\nVaya, ¿aún no usaste la aeronave?"
+    },
+    "PxqWBg": {
+        "en": "[Blacksmith Guildsman]\nUnlike Rune-Midgard Kingdom, Schwalitzvalt Repiblic has 'the airship' instead of teleport services to move between towns.",
+        "pt": "[Mestre Ferreiro]\nAo contrário do reino de Rune-Midgard, a República de Schwaltzvalt usa o Aeroplano, em vez de serviços de teletransporte, para ir de uma cidade a outra.",
+        "es": "[Herrera del gremio]\nA diferencia del reino de Rune-Midgard, la República de Schwarzwald dispone de la aeronave en lugar de los servicios de teletransporte para desplazarse entre ciudades."
+    },
+    "QBqWBg": {
+        "en": "[Blacksmith Guildsman]\nIn ^3131FF'Izlude'^000000, you can use ^3131FF'the international airship'^000000 which travels between ^3131FFIzlude and Juno in Schwaltzvalt Republic^000000.",
+        "pt": "[Mestre Ferreiro]\nEm ^3131FF'Izlude'^000000, você pode usar ^3131FF'o aeroplano internacional'^000000, que viaja entre ^3131FFIzlude e Juno na República de Schwaltzvalt^000000.",
+        "es": "[Herrera del gremio]\nEn ^3131FFIzlude^000000, puedes utilizar ^3131FFla aeronave internacional^000000 que viaja entre ^3131FFIzlude y Juno en la República de Schwarzwald^000000."
+    },
+    "QRqWBg": {
+        "en": "[Blacksmith Guildsman]\nTake the airship, and go to Juno. Then from Juno, you need to take ^3131FFthe domestic airship^000000 to go to Einbroch.\nRemember, you are ^3131FFnot going outside of the airport^000000 upon transit from the international to the domestic airship.",
+        "pt": "[Mestre Ferreiro]\nEmbarque no Aeroplano e vá até Juno. De Juno, você precisa pegar ^3131FFo aeroplano doméstico^000000 para ir a Einbroch.\nLembre-se, você ^3131FFnão vai sair do aeroporto^000000 quando mudar do aeroplano internacional para o doméstico.",
+        "es": "[Herrera del gremio]\nToma la aeronave y ve a Juno. Luego, desde Juno, debes tomar ^3131FFla aeronave nacional^000000 para ir a Einbroch.\nRecuerda ^3131FFno salir del aeropuerto^000000 al pasar de la aeronave internacional a la nacional."
+    },
+    "QhqWBg": {
+        "en": "[Blacksmith Guildsman]\nIt might sound complicated, but you will know once you are in the airport.\nWhen you arrive in Blacksmith Guild, please send my regard to my coworkers!",
+        "pt": "[Mestre Ferreiro]\nPode parecer complicado, mas você saberá quando estiver no aeroporto.\nQuando chegar à Guilda dos Ferreiros, por favor, mande lembranças ao pessoal!",
+        "es": "[Herrera del gremio]\nPuede parecer complicado, pero lo entenderás cuando estés en el aeropuerto.\nCuando llegues al gremio de Herreros, ¡envía un saludo a mis compañeros!"
+    },
+    "QxqWBg": {
+        "en": "[Blacksmith Guildsman]\nExcuse me, but you do not have enough money.",
+        "pt": "[Mestre Ferreiro]\nLamento, mas você não tem dinheiro.",
+        "es": "[Herrera del gremio]\nDisculpa, pero no tienes suficiente dinero."
+    },
+    "RBqWBg": {
+        "en": "[Blacksmith Guildsman]\nPlease take care!",
+        "pt": "[Mestre Ferreiro]\nTome cuidado!",
+        "es": "[Herrera del gremio]\n¡Cuídate!"
+    },
+    "RRqWBg": {
+        "en": "[{0}]\nExcuse me, I was wondering if you could help me. Er... I'm working for the Geffen Water and Magic Bureau and need to get a set of blueprints for the city's water supply.",
+        "pt": "[{0}]\nCom licença, poderia me ajudar? Er... Estou trabalhando para o Escritório de Água e Magia de Geffen e preciso obter um conjunto de plantas para o abastecimento de água da cidade.",
+        "es": "[{0}]\nDisculpa, me preguntaba si podrías ayudarme. Er… Trabajo para la Oficina de Agua y Magia de Geffen y necesito conseguir los planos del suministro de agua de la ciudad."
+    },
+    "RhqWBg": {
+        "en": "[Blacksmith Guildsman]\nThe Blacksmith's guild helped to improve the plumbing systems shortly after we were established in Geffen way back when.",
+        "pt": "[Mestra Ferreira]\nA guilda dos ferreiros ajudou a melhorar os sistemas de encanamento logo depois que nos estabelecemos em Geffen, há muito tempo.",
+        "es": "[Herrera del gremio]\nEl gremio de Herreros ayudó a mejorar los sistemas de fontanería poco después de establecerse en Geffen, hace ya mucho tiempo."
+    },
+    "RxqWBg": {
+        "en": "[Blacksmith Guildsman]\nTake these plans, they're a little out of date, but it should show where the main pump routing control points are. Be careful, these systems are very sensitive!",
+        "pt": "[Mestra Ferreira]\nPegue estas plantas, elas estão um pouco desatualizadas, mas devem mostrar onde estão os principais pontos de controle de roteamento de bombas. Tenha cuidado, pois esses sistemas são muito sensíveis!",
+        "es": "[Herrera del gremio]\nToma estos planos, están un poco desactualizados, pero deberían mostrar dónde están los principales puntos de control del trazado de las bombas. ¡Ten cuidado, estos sistemas son muy sensibles!"
+    },
+    "SBqWBg": {
+        "en": "[Blacksmith Guildsman]\nThere are a total of four control points located here in Geffen.",
+        "pt": "[Mestra Ferreira]\nHá um total de quatro pontos de controle localizados aqui em Geffen.",
+        "es": "[Herrera del gremio]\nHay un total de cuatro puntos de control situados aquí, en Geffen."
+    },
+    "SRqWBg": {
+        "en": "Paul Spanner",
+        "pt": "Paul Spanner",
+        "es": "Paul Spanner"
+    },
+    "ShqWBg": {
+        "en": "- Wait a minute !! -\n- Currently you're carrying -\n- too many items with you. -\n- Please try again -\n- after you loose some weight. -",
+        "pt": "'- Espere um minuto!! -\n- No momento, você está carregando -\n- muitos itens. -\n- Por favor, tente outra vez -\n- depois de perder um pouco de peso. -",
+        "es": "-¡¡Espera!!-\n-En este momento, llevas\ndemasiados objetos contigo.-\n-Inténtalo de nuevo\ndespués de quitar algo de peso.-"
+    },
+    "SxqWBg": {
+        "en": "[Paul Spanner]\nWelcome, my friend.\nIn my shop, you will find everything that you need in forging.\nTell me what you need.",
+        "pt": "[Paul Spanner]\nBem-vindo, amigo!\nNa minha loja, você vai encontrar tudo o que precisa para a forja.\nDiga-me o que você precisa.",
+        "es": "[Paul Spanner]\nTe doy la bienvenida, colega.\nEn mi tienda, encontrarás todo lo que necesitas para la forja.\nDime lo que necesitas."
+    },
+    "TBqWBg": {
+        "en": "Purchase Anvil.",
+        "pt": "Comprar Bigorna.",
+        "es": "Comprar Yunque."
+    },
+    "TRqWBg": {
+        "en": "Purchase Forging Items.",
+        "pt": "Comprar Itens de Forja.",
+        "es": "Comprar Objetos de forja."
+    },
+    "ThqWBg": {
+        "en": "Purchase Metal.",
+        "pt": "Comprar Metal.",
+        "es": "Comprar Metal."
+    },
+    "TxqWBg": {
+        "en": "Process Ores.",
+        "pt": "Processar Minérios.",
+        "es": "Procesar Minerales."
+    },
+    "UBqWBg": {
+        "en": "Quit.",
+        "pt": "Ir embora.",
+        "es": "Salir."
+    },
+    "URqWBg": {
+        "en": "[Paul Spanner]\nAnvil is the most necessary item for Blacksmiths.\nSince you will use an Anvil more than once, you'd better buy a nice one.",
+        "pt": "[Paul Spanner]\nA bigorna é o item mais necessário para Ferreiros.\nJá que você vai usar uma Bigorna várias vezes, é melhor comprar uma boa.",
+        "es": "[Paul Spanner]\nEl Yunque es el objeto más importante para los Herreros.\nVas a utilizar el Yunque más de una vez, así que es mejor que compres uno bueno."
+    },
+    "UhqWBg": {
+        "en": "Anvil - 30,000z.",
+        "pt": "Bigorna - 30.000 Z.",
+        "es": "Yunque (30000 zeny)."
+    },
+    "UxqWBg": {
+        "en": "Oridecon Anvil - 120,000z.",
+        "pt": "Bigorna de Oridecon - 120.000 Z.",
+        "es": "Yunque de Oridecon (120000 zeny)."
+    },
+    "VBqWBg": {
+        "en": "Golden Anvil - 300,000z.",
+        "pt": "Bigorna de Ouro - 300.000 Z.",
+        "es": "Yunque de Oro (300000 zeny)."
+    },
+    "VRqWBg": {
+        "en": "I need a better anvil.",
+        "pt": "Eu preciso de uma bigorna melhor.",
+        "es": "Necesito un Yunque mejor."
+    },
+    "VhqWBg": {
+        "en": "Cancel.",
+        "pt": "Cancelar.",
+        "es": "Cancelar."
+    },
+    "VxqWBg": {
+        "en": "[Paul Spanner]\nWith that much of money, you cannot even buy a toy anvil!",
+        "pt": "[Paul Spanner]\nCom esse dinheiro, você não pode comprar nem uma bigorna de brinquedo!",
+        "es": "[Paul Spanner]\n¡Con esa cantidad de dinero, no puedes comprar ni un yunque de juguete!"
+    },
+    "WBqWBg": {
+        "en": "[Paul Spanner]\nIt is the cheapest anvil which has the most basic ability.\nThank you for using my shop. If you need anything, just let me know.",
+        "pt": "[Paul Spanner]\nEsta é a bigorna mais barata, que tem as habilidades mais básicas.\nObrigado por usar a minha loja. Se precisar de qualquer coisa, fale comigo.",
+        "es": "[Paul Spanner]\nEs el Yunque más barato con la habilidad más básica.\nGracias por comprar en mi tienda. Si necesitas algo, dímelo."
+    },
+    "WRqWBg": {
+        "en": "[Paul Spanner]\nAh, you have an eye for anvil. A Blacksmith needs an anvil at least as good as this.\nThank you for using my shop. If you need anything, just let me know.",
+        "pt": "[Paul Spanner]\nAh, você tem um bom gosto para bigornas. Um Ferreiro precisa de uma bigorna pelo menos tão boa quanto esta.\nObrigado por usar a minha loja. Se precisar de qualquer coisa, fale comigo.",
+        "es": "[Paul Spanner]\nAh, tienes buen ojo para los Yunques. Un Herrero necesita un Yunque al menos tan bueno como este.\nGracias por comprar en mi tienda. Si necesitas algo, dímelo."
+    },
+    "WhqWBg": {
+        "en": "[Paul Spanner]\nI can tell your ambition to become a good Blacksmith just by looking at you to choose this Golden Anvil!\nThis anvil will surely aid you in creating the best weapons.",
+        "pt": "[Paul Spanner]\nPosso ver que você quer mesmo ser um bom ferreiro, só por ter escolhido esta Bigorna de Ouro!\nEsta bigorna, com certeza, vai ajudar a criar as melhores armas.",
+        "es": "[Paul Spanner]\n¡Al verte elegir este Yunque de Oro noto tu ambición de tener éxito como clase Herrero!\nEste Yunque sin duda te ayudará a crear las mejores armas."
+    },
+    "WxqWBg": {
+        "en": "[Paul Spanner]\nI am sorry, but I do not sell better anvils than Golden Anvil.\nUnless you find the legendary anvil of 'Linggell', I don't think that you could find better one than Golden Anvil in any other places.",
+        "pt": "[Paul Spanner]\nEu lamento, mas eu não vendo bigornas melhores do que a Bigorna de Ouro.\nA menos que você encontre a lendária bigorna de 'Linggell', não acho que encontrará uma bigorna melhor do que a de ouro em outros lugares.",
+        "es": "[Paul Spanner]\nLo siento, pero el Yunque de Oro es el mejor Yunque que vendo.\nA menos que encuentres el legendario Yunque de Linggell, no creo que puedas encontrar uno mejor que el Yunque de Oro en ningún otro lugar."
+    },
+    "XBqWBg": {
+        "en": "[Paul Spanner]\nIf you need anything, just let me know.",
+        "pt": "[Paul Spanner]\nSe precisar de qualquer coisa, fale comigo.",
+        "es": "[Paul Spanner]\nSi necesitas algo, dímelo."
+    },
+    "XRqWBg": {
+        "en": "[Paul Spanner]\nYou need various materials to process ores and to forge weapons.\nI have everything that you need. Take a look.",
+        "pt": "[Paul Spanner]\nVocê precisa de vários materiais para processar minérios e forjar armas.\nEu tenho tudo o que você precisa. Dê uma olhada.",
+        "es": "[Paul Spanner]\nNecesitas diversos materiales para procesar minerales y forjar armas.\nTengo todo lo que necesitas. Echa un vistazo."
+    },
+    "XhqWBg": {
+        "en": "Mini Furnace - 150z.",
+        "pt": "Minifornalha - 150 Z.",
+        "es": "Minihorno (150 zeny)."
+    },
+    "XxqWBg": {
+        "en": "Iron Hammer - 1,000z.",
+        "pt": "Martelo de Ferro - 1.000 Z.",
+        "es": "Martillo de hierro (1000 zeny)."
+    },
+    "YBqWBg": {
+        "en": "Golden Hammer - 3,000z.",
+        "pt": "Martelo de Ouro - 3.000 Z.",
+        "es": "Martillo dorado (3000 zeny)."
+    },
+    "YRqWBg": {
+        "en": "Oridecon Hammer - 5,000z.",
+        "pt": "Martelo de Oridecon - 5.000 Z.",
+        "es": "Martillo de Oridecon (5000 zeny)."
+    },
+    "YhqWBg": {
+        "en": "[Paul Spanner]\nYou definately need this furnce to process ores!",
+        "pt": "[Paul Spanner]\nVocê realmente precisa dessa fornalha para processar metais!",
+        "es": "[Paul Spanner]\nDefinitivamente, necesitas este horno para procesar minerales."
+    },
+    "YxqWBg": {
+        "en": "[Paul Spanner]\nSo, how many do you need? If you want to cancel the trade, enter '0'.",
+        "pt": "[Paul Spanner]\nDe quantas unidades você precisa? Se quiser cancelar o negócio, digite '0'.",
+        "es": "[Paul Spanner]\nEntonces, ¿cuántos necesitas? Si deseas cancelar el intercambio, introduce 0."
+    },
+    "ZBqWBg": {
+        "en": "[Paul Spanner]\nYou have canceled the trade. If you need anything, just let me know.",
+        "pt": "[Paul Spanner]\nVocê cancelou o negócio. Se precisar de qualquer coisa, fale comigo.",
+        "es": "[Paul Spanner]\nCancelaste el intercambio. Si necesitas algo, dímelo."
+    },
+    "ZRqWBg": {
+        "en": "[Paul Spanner]\nYou can only buy 500 or less at a time.",
+        "pt": "[Paul Spanner]\nVocê só pode comprar 500 ou menos de uma vez.",
+        "es": "[Paul Spanner]\nSolo puedes comprar hasta 500 a la vez."
+    },
+    "ZhqWBg": {
+        "en": "[Paul Spanner]\nYou don't have enough money. Sorry, I cannot sell them at a loss.",
+        "pt": "[Paul Spanner]\nVocê não tem dinheiro suficiente. Sinto muito, não posso vender com prejuízo.",
+        "es": "[Paul Spanner]\nNo tienes suficiente dinero. Lo siento, no puedo venderlos a pérdida."
+    },
+    "ZxqWBg": {
+        "en": "[Paul Spanner]\nHey, you look pale. Why don't you go lighten your weight first.",
+        "pt": "[Paul Spanner]\nEi, você parece pálido. Por que você não alivia a sua carga primeiro?",
+        "es": "[Paul Spanner]\nOye, tienes el rostro pálido. Por qué no vas a aligerar tu peso primero."
+    },
+    "aBqWBg": {
+        "en": "[Paul Spanner]\nThank you for using my shop. If you need anything, just let me know.",
+        "pt": "[Paul Spanner]\nObrigado por usar a minha loja. Se precisar de qualquer coisa, fale comigo.",
+        "es": "[Paul Spanner]\nGracias por comprar en mi tienda. Si necesitas algo, dímelo."
+    },
+    "aRqWBg": {
+        "en": "[Paul Spanner]\nI have high quality metal.\nSo, which metal would you like to buy?",
+        "pt": "[Paul Spanner]\nEu tenho metais de alta qualidade.\nEntão, qual metal você quer comprar?",
+        "es": "[Paul Spanner]\nTengo metales de alta calidad.\n¿Qué metal te gustaría comprar?"
+    },
+    "ahqWBg": {
+        "en": "Phracon - 200z.",
+        "pt": "Fracon - 200 Z.",
+        "es": "Phracon (200 zeny)."
+    },
+    "axqWBg": {
+        "en": "Emveretarcon - 1,000z.",
+        "pt": "Emveretarcon - 1.000 Z.",
+        "es": "Emveretarcon (1000 zeny)."
+    },
+    "bBqWBg": {
+        "en": "[Paul Spanner]\nSo, how many of them do you need? If you want to cancel the trade, enter '0'.",
+        "pt": "[Paul Spanner]\nDe quantas unidades você precisa? Se quiser cancelar o negócio, digite '0'.",
+        "es": "[Paul Spanner]\n¿Cuántas unidades necesitas? Si deseas cancelar el intercambio, introduce 0."
+    },
+    "bRqWBg": {
+        "en": "[Paul Spanner]\nThe trade has been canceled. If you need anything, just let me know.",
+        "pt": "[Paul Spanner]\nO negócio foi cancelado. Se precisar de qualquer coisa, fale comigo.",
+        "es": "[Paul Spanner]\nCancelaste el intercambio. Si necesitas algo, dímelo."
+    },
+    "bhqWBg": {
+        "en": "[Paul Spanner]\nYou can buy 500 or less at a time.",
+        "pt": "[Paul Spanner]\nVocê só pode comprar 500 ou menos de uma vez.",
+        "es": "[Paul Spanner]\nPuedes comprar hasta 500 a la vez."
+    },
+    "bxqWBg": {
+        "en": "[Paul Spanner]\nHey, you look pale. Why don't you go lighten your weight first?",
+        "pt": "[Paul Spanner]\nEi, você parece estar com sobrepeso. Por que você não alivia a sua carga primeiro?",
+        "es": "[Paul Spanner]\nOye, tienes el rostro pálido. ¿Por qué no vas a aligerar tu peso primero?"
+    },
+    "cBqWBg": {
+        "en": "[Paul Spanner]\nI can process Oridecon and Elunium for you.\nYou need 5 ores to process them into one Oridecon or Elunium.\nSo, which one do you want to process?",
+        "pt": "[Paul Spanner]\nEu posso processar Oridecon e Elunium para você.\nVocê precisa de 5 minérios para processá-los em um Oridecon ou Elunium.\nQual deles você quer processar?",
+        "es": "[Paul Spanner]\nPuedo procesar Oridecon y Elunium por ti.\nNecesitas 5minerales para procesarlos en una unidad de Oridecon o Elunium.\nEntonces, ¿cuál quieres procesar?"
+    },
+    "cRqWBg": {
+        "en": "Oridecon",
+        "pt": "Oridecon",
+        "es": "Oridecon."
+    },
+    "chqWBg": {
+        "en": "Elunium",
+        "pt": "Elunium",
+        "es": "Elunium."
+    },
+    "cxqWBg": {
+        "en": "[Paul Spanner]\nYou need 5 ores to process them into one pure Oridecon.",
+        "pt": "[Paul Spanner]\nVocê precisa de 5 minérios para processá-los em um Oridecon puro.",
+        "es": "[Paul Spanner]\nNecesitas 5minerales para procesarlos en una unidad de Oridecon puro."
+    },
+    "dBqWBg": {
+        "en": "[Paul Spanner]\nThere you go. Thank you for using my service.",
+        "pt": "[Paul Spanner]\nAí está. Obrigado por usar meus serviços!",
+        "es": "[Paul Spanner]\nAquí tienes. Gracias por utilizar mis servicios."
+    },
+    "dRqWBg": {
+        "en": "[Paul Spanner]\nYou need 5 ores to process them into one pure Elunium.",
+        "pt": "[Paul Spanner]\nVocê precisa de 5 minérios para processá-los em um Elunium puro.",
+        "es": "[Paul Spanner]\nNecesitas 5minerales para procesarlos y convertirlos en una unidad de Elunium puro."
+    }
+}

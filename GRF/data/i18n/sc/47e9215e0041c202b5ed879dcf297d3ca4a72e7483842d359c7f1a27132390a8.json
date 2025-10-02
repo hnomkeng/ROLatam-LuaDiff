@@ -1,0 +1,936 @@
+{
+    "AILeCA": {
+        "en": "Novice Collector",
+        "pt": "Colecionadora",
+        "es": "Novice Collector"
+    },
+    "AYLeCA": {
+        "en": "You have too many items in your inventory. Please come back after removing some items.",
+        "pt": "Você tem pouco espaço no inventário. Alivie sua carga e tente novamente.",
+        "es": "Tienes demasiados objetos en tu inventario. Vuelve después de quitar algunos objetos."
+    },
+    "AoLeCA": {
+        "en": "Your inventory weight is too high! Please come back after removing some weight from it.",
+        "pt": "Você está carregando muitos itens. Alivie sua carga e tente novamente.",
+        "es": "¡Llevas demasiada carga! Vuelve después de aligerarlo un poco."
+    },
+    "A4LeCA": {
+        "en": "[Novice Collector]\nIf you bring me a Crafted Stone, I can provide a nice effect to your accessories!",
+        "pt": "[Colecionadora]\nTraga-me algumas Pedras Brutas e darei aos seus acessórios uma joia maravilhosa!",
+        "es": "[Coleccionista novato]\nSi me traes una Piedra artesanal, ¡puedo proporcionarles un bonito efecto a tus accesorios!"
+    },
+    "BILeCA": {
+        "en": "What can I do with Crafted Stones?",
+        "pt": "Pedras Brutas?",
+        "es": "¿Qué puedo hacer con las Piedras artesanales?"
+    },
+    "BYLeCA": {
+        "en": "Accessory Enchant",
+        "pt": "Encantar acessórios",
+        "es": "Encantamiento de accesorio."
+    },
+    "BoLeCA": {
+        "en": "Accessory Enchant Reset",
+        "pt": "Reiniciar encanto",
+        "es": "Restablecer encantamiento de accesorio."
+    },
+    "B4LeCA": {
+        "en": "[Novice Collector]\nI'm a collector who deals with Crafted Stones dropped in the Dungeon. I'm still a beginner, so I'm a bit clumsy.",
+        "pt": "[Colecionadora]\nSão minerais encontrados no Túmulo do Monarca. Estou iniciando a carreira na avaliação de pedras preciosas, então minhas habilidades ainda estão em desenvolvimento.",
+        "es": "[Coleccionista novato]\nSoy coleccionista y trabajo con las Piedras artesanales que dejan en la mazmorra. Aún soy principiante, así que soy un poco torpe."
+    },
+    "CILeCA": {
+        "en": "I've heard it before.",
+        "pt": "Ok, até.",
+        "es": "Escuché esto antes."
+    },
+    "CYLeCA": {
+        "en": "Please keep going.",
+        "pt": "Conte-me mais.",
+        "es": "Por favor, continúa."
+    },
+    "CoLeCA": {
+        "en": "[Novice Collector]\nOh, really?",
+        "pt": "[Colecionadora]\nAté!",
+        "es": "[Coleccionista novato]\nAh, ¿de verdad?"
+    },
+    "C4LeCA": {
+        "en": "[Novice Collector]\nIf you bring me the gemstones, I'll use them to enchant one of your accessory slots.",
+        "pt": "[Colecionadora]\nQuando você me traz Pedras Brutas, nós vamos infundir uma joia de encantamento em 1 slot de acessório que você tem equipado.",
+        "es": "[Coleccionista novato]\nSi me traes las gemas, las usaré para encantar una de las ranuras de tus accesorios."
+    },
+    "DILeCA": {
+        "en": "[Novice Collector]\nYou need to bring 10 gemstones and 100,000 Zeny. There's no risk of failure when enchanting either!",
+        "pt": "[Colecionadora]\nO número de Pedras Brutas necessárias é 10. E é necessário um depósito de 100.000 Zeny. Não há falha no processo de encantamento.",
+        "es": "[Coleccionista novato]\nTienes que traer 10gemas y 100000zeny. ¡Tampoco hay riesgo de fallar al realizar un encantamiento!"
+    },
+    "DYLeCA": {
+        "en": "[Novice Collector]\nHowever, if you try to enchant an ^0000FFitem with random options, the random options will disappear,^000000 so please be careful.",
+        "pt": "[Colecionadora]\nSe você encantar um acessório com ^0000CDBônus Aleatórios, eles desaparecerão^000000, tenha isso em mente.",
+        "es": "[Coleccionista novato]\nSin embargo, si intentas encantar un ^FF0000objeto con opciones aleatorias, estas opciones desaparecerán,^000000 así que ten cuidado."
+    },
+    "DoLeCA": {
+        "en": "What about the cards?",
+        "pt": "E as cartas?",
+        "es": "¿Y las cartas?"
+    },
+    "D4LeCA": {
+        "en": "[Novice Collector]\nYou don't have to worry about the cards already installed in your equipment. It won't disappear during the enchant.",
+        "pt": "[Colecionadora]\nVocê não terá que se preocupar com cartas que já estão no acessório. Elas não vão sumir quando encantar.",
+        "es": "[Coleccionista novato]\nNo tienes que preocuparte por las cartas instaladas en tu equipamiento. No desaparecerán durante el encantamiento."
+    },
+    "EILeCA": {
+        "en": "[Novice Collector]\nIt's possible to reset the enchants, but the success rate is about 20%. I'm still a beginner!",
+        "pt": "[Colecionadora]\nReiniciar o encanto é possível, mas não é algo com o qual estou acostumada, então posso dizer que a taxa de sucesso é de cerca de 20%.",
+        "es": "[Coleccionista novato]\nEs posible restablecer los encantamientos, pero el porcentaje de éxito es de un 20% aproximadamente. ¡Todavía soy principiante!"
+    },
+    "EYLeCA": {
+        "en": "[Novice Collector]\nIf I fail trying to reset it, the accessory will disappear. Even if we succeed, ^0000FFthe accessory with random options will lose its random options^000000.",
+        "pt": "[Colecionadora]\nEm caso de falha, o acessório ^0000CDdesaparecerá^000000. E se for um sucesso, ^0000CDapenas o bônus aleatório será perdido^000000.",
+        "es": "[Coleccionista novato]\nSi fallo al intentar restablecerlo, el accesorio desaparecerá. Aunque lo logremos, ^FF0000el accesorio con opciones aleatorias perderá estas opciones^000000."
+    },
+    "EoLeCA": {
+        "en": "[Novice Collector]\nI know it's a big penalty, but I can handle almost any accessory.",
+        "pt": "[Colecionadora]\nA penalidade é grande, mas a diferença entre mim e outros encantadores é que posso lidar com a maioria dos acessórios disponíveis.",
+        "es": "[Coleccionista novato]\nSé que es una gran penalización, pero puedo trabajar con casi cualquier accesorio."
+    },
+    "E4LeCA": {
+        "en": "[Novice Collector]\nThere's nothing in the right accessory slot. Please equip something there and try again.",
+        "pt": "[Colecionadora]\nAh, mesmo assim, não posso colocar minhas mãos em acessórios que estão além do meu talento.",
+        "es": "[Coleccionista novato]\nNo hay nada en la ranura derecha de accesorios. Por favor, equipa algo allí e inténtalo de nuevo."
+    },
+    "FILeCA": {
+        "en": "[Novice Collector]\n... What are you doing?",
+        "pt": "[Colecionadora]\nNão há acessório à direita. Tente novamente após equipar o acessório na direita.",
+        "es": "[Coleccionista novato]\n… ¿Qué estás haciendo?"
+    },
+    "FYLeCA": {
+        "en": "Accelerator",
+        "pt": "[Colecionadora]\n... O que você está fazendo?",
+        "es": "Acelerador"
+    },
+    "FoLeCA": {
+        "en": "Swordman Figure",
+        "pt": "Acelerador",
+        "es": "Figura de Espadachín"
+    },
+    "F4LeCA": {
+        "en": "Wedding Ring",
+        "pt": "Estatueta de Espadachim",
+        "es": "Anillo de matrimonio"
+    },
+    "GILeCA": {
+        "en": "High Quality Cooler",
+        "pt": "Aliança de Casamento",
+        "es": "Enfriador de alta calidad"
+    },
+    "GYLeCA": {
+        "en": "Camouflage Generator",
+        "pt": "Resfriador Avançado",
+        "es": "Generador de camuflaje"
+    },
+    "GoLeCA": {
+        "en": "Occult Incense",
+        "pt": "Gerador de Camuflagem",
+        "es": "Incienso místico"
+    },
+    "G4LeCA": {
+        "en": "Archer Figure",
+        "pt": "Estatueta do Arqueiro",
+        "es": "Figura de arquero"
+    },
+    "HILeCA": {
+        "en": "Glove",
+        "pt": "Luvas",
+        "es": "Guante"
+    },
+    "HYLeCA": {
+        "en": "Glorious Ring",
+        "pt": "Anel Glorioso",
+        "es": "Anillo glorioso"
+    },
+    "HoLeCA": {
+        "en": "Glorious Popularized Ring",
+        "pt": "Anel Glorioso Barato",
+        "es": "Anillo glorioso popularizado"
+    },
+    "H4LeCA": {
+        "en": "Glorious Mass-Production Ring",
+        "pt": "Anel Glorioso Industrializado",
+        "es": "Anillo glorioso de producción en serie"
+    },
+    "IILeCA": {
+        "en": "Gold Ring",
+        "pt": "Anel de Ouro",
+        "es": "Anillo de oro"
+    },
+    "IYLeCA": {
+        "en": "Flower Ring",
+        "pt": "Anel de Flor",
+        "es": "Anillo de flores"
+    },
+    "IoLeCA": {
+        "en": "Nile Rose",
+        "pt": "Rosa do Nilo",
+        "es": "Rosa del Nilo"
+    },
+    "I4LeCA": {
+        "en": "Cooling Device",
+        "pt": "Resfriador Simples",
+        "es": "Dispositivo de refrigeración"
+    },
+    "JILeCA": {
+        "en": "Cold Heart",
+        "pt": "Coração Frio",
+        "es": "Corazón frío"
+    },
+    "JYLeCA": {
+        "en": "Necklace",
+        "pt": "Colar",
+        "es": "Collar"
+    },
+    "JoLeCA": {
+        "en": "Novice Armlet",
+        "pt": "Bracelete de Aprendiz",
+        "es": "Brazalete de principiante"
+    },
+    "J4LeCA": {
+        "en": "Eyes Stone Ring",
+        "pt": "Anel da Pedra do Olho",
+        "es": "Anillo con ojo de piedra"
+    },
+    "KILeCA": {
+        "en": "Diamond Ring",
+        "pt": "Anel de Diamante",
+        "es": "Anillo de diamantes"
+    },
+    "KYLeCA": {
+        "en": "Dark Knight Glove A",
+        "pt": "Anel do Luar",
+        "es": "Guante de caballero oscuroA"
+    },
+    "KoLeCA": {
+        "en": "Dark Knight Glove B",
+        "pt": "Estatueta de Gatuno",
+        "es": "Guante de caballero oscuroB"
+    },
+    "K4LeCA": {
+        "en": "Dark Knight Belt A",
+        "pt": "Anel dos Gatunos",
+        "es": "Cinturón de caballero oscuroA"
+    },
+    "LILeCA": {
+        "en": "Dark Knight Belt B",
+        "pt": "Olho de Dullahan",
+        "es": "Cinturón de caballero oscuroB"
+    },
+    "LYLeCA": {
+        "en": "Moonlight Ring",
+        "pt": "Chifres de Bisão",
+        "es": "Anillo de luz de luna"
+    },
+    "LoLeCA": {
+        "en": "Thief Figure",
+        "pt": "Anel de Diabolus",
+        "es": "Figura de ladrón"
+    },
+    "L4LeCA": {
+        "en": "Rogue's Treasure",
+        "pt": "Rosário",
+        "es": "Tesoro del pícaro"
+    },
+    "MILeCA": {
+        "en": "Eye of Dullahan",
+        "pt": "Broche Lunático",
+        "es": "Ojo de Dullahan"
+    },
+    "MYLeCA": {
+        "en": "Bison Horn",
+        "pt": "Pedra Encantada de Morroc",
+        "es": "Cuerno de bisonte"
+    },
+    "MoLeCA": {
+        "en": "Diabolus Ring",
+        "pt": "Luva de Linho",
+        "es": "Anillo demoníaco"
+    },
+    "M4LeCA": {
+        "en": "Rosary",
+        "pt": "Kit de Reparação",
+        "es": "Rosario"
+    },
+    "NILeCA": {
+        "en": "Lunatic Brooch",
+        "pt": "Anel",
+        "es": "Broche del lunático"
+    },
+    "NYLeCA": {
+        "en": "Rune Spellstone",
+        "pt": "Anel de Runa Mágica",
+        "es": "Piedra de hechizo rúnica"
+    },
+    "NoLeCA": {
+        "en": "Linen Glove",
+        "pt": "Estatueta de Mago",
+        "es": "Guante de lino"
+    },
+    "N4LeCA": {
+        "en": "Repair Kit",
+        "pt": "Coleira de Matyr",
+        "es": "Kit de reparación"
+    },
+    "OILeCA": {
+        "en": "Ring",
+        "pt": "Xale do Arqueiro",
+        "es": "Anillo"
+    },
+    "OYLeCA": {
+        "en": "Magic Stone Ring",
+        "pt": "Luva do Arqueiro",
+        "es": "Anillo de piedra mágica"
+    },
+    "OoLeCA": {
+        "en": "Mage Figure",
+        "pt": "Manopla Certeira",
+        "es": "Figura de mago"
+    },
+    "O4LeCA": {
+        "en": "Matyr's Leash",
+        "pt": "Anel de Morpheus",
+        "es": "Correa del mártir"
+    },
+    "PILeCA": {
+        "en": "Bowman Scarf",
+        "pt": "Bracelete de Morpheus",
+        "es": "Bufanda de arquero"
+    },
+    "PYLeCA": {
+        "en": "Renown Archer's Glove",
+        "pt": "Cinto de Morrigane",
+        "es": "Guante de arquero de renombre"
+    },
+    "PoLeCA": {
+        "en": "Gauntlet of Hit",
+        "pt": "Pingente de Morrigane",
+        "es": "Guantelete de golpe"
+    },
+    "P4LeCA": {
+        "en": "Morpheus's Ring",
+        "pt": "Medalha de Honra",
+        "es": "Anillo de Morfeo"
+    },
+    "QILeCA": {
+        "en": "Morpheus's Bracelet",
+        "pt": "Broche da Gota d'Água",
+        "es": "Brazalete de Morfeo"
+    },
+    "QYLeCA": {
+        "en": "Morrigane's Belt",
+        "pt": "Tornozeleira da Marinha",
+        "es": "Cinturón de Morrigane"
+    },
+    "QoLeCA": {
+        "en": "Morrigane's Pendant",
+        "pt": "Piercing da Marinha",
+        "es": "Colgante de Morrigane"
+    },
+    "Q4LeCA": {
+        "en": "Medal of Honor",
+        "pt": "Estola",
+        "es": "Medalla de honor"
+    },
+    "RILeCA": {
+        "en": "Waterdrop Brooch",
+        "pt": "Cinto",
+        "es": "Broche con gota de agua"
+    },
+    "RYLeCA": {
+        "en": "Foot Ring",
+        "pt": "Estatueta de Noviço",
+        "es": "Anillo de pie"
+    },
+    "RoLeCA": {
+        "en": "Navel Ring",
+        "pt": "Brasão de Seda Vermelha",
+        "es": "Anillo de ombligo"
+    },
+    "R4LeCA": {
+        "en": "Belcarf",
+        "pt": "Anel de Bradium",
+        "es": "Bufanda cinturón"
+    },
+    "SILeCA": {
+        "en": "Belt",
+        "pt": "Broche de Bradium",
+        "es": "Cinturón"
+    },
+    "SYLeCA": {
+        "en": "Acolyte Figure",
+        "pt": "Brincos de Bradium",
+        "es": "Figura de acólito"
+    },
+    "SoLeCA": {
+        "en": "Red Silk Seal",
+        "pt": "Broche",
+        "es": "Sello de seda rojo"
+    },
+    "S4LeCA": {
+        "en": "Bradium Ring",
+        "pt": "Gato Preto",
+        "es": "Anillo de bradium"
+    },
+    "TILeCA": {
+        "en": "Bradium Brooch",
+        "pt": "Luva de Bibliotecário",
+        "es": "Broche de bradium"
+    },
+    "TYLeCA": {
+        "en": "Bradium Earring",
+        "pt": "Estatueta de Mercador",
+        "es": "Pendiente de bradium"
+    },
+    "ToLeCA": {
+        "en": "Brooch",
+        "pt": "Anel de Defesa",
+        "es": "Broche"
+    },
+    "T4LeCA": {
+        "en": "Black Cat",
+        "pt": "Reconfiguradora",
+        "es": "Gato negro"
+    },
+    "UILeCA": {
+        "en": "Librarian Glove",
+        "pt": "Anel de Corrida",
+        "es": "Guante de bibliotecario"
+    },
+    "UYLeCA": {
+        "en": "Merchant Figure",
+        "pt": "Cinto de Shinobi",
+        "es": "Figura de comerciante"
+    },
+    "UoLeCA": {
+        "en": "Shaman Ring",
+        "pt": "Luva Sacra",
+        "es": "Anillo de chamán"
+    },
+    "U4LeCA": {
+        "en": "Shaman_Earings",
+        "pt": "Pulso de Ferro",
+        "es": "Shaman_Earings"
+    },
+    "VILeCA": {
+        "en": "Safety Ring",
+        "pt": "Anel Angelical",
+        "es": "Anillo de seguridad"
+    },
+    "VYLeCA": {
+        "en": "Sacrifice Ring",
+        "pt": "Passe do Laboratório",
+        "es": "Anillo del sacrificio"
+    },
+    "VoLeCA": {
+        "en": "Shape Shifter",
+        "pt": "Luvas do Alquimista",
+        "es": "Cambiaformas"
+    },
+    "V4LeCA": {
+        "en": "Sprint Ring",
+        "pt": "Caixinha Noite Feliz",
+        "es": "Anillo de velocidad"
+    },
+    "WILeCA": {
+        "en": "Shinobi Sash",
+        "pt": "Luvas de Orleans",
+        "es": "Faja de Shinobi"
+    },
+    "WYLeCA": {
+        "en": "Celebrant's Mitten",
+        "pt": "Colar de Orleans",
+        "es": "Manopla del celebrante"
+    },
+    "WoLeCA": {
+        "en": "Marvelous Pandent",
+        "pt": "Anel de Prata",
+        "es": "Colgante maravilloso"
+    },
+    "W4LeCA": {
+        "en": "Aumdura's Grace",
+        "pt": "Brinco",
+        "es": "Gracia de Aumdura"
+    },
+    "XILeCA": {
+        "en": "Iron Wrist",
+        "pt": "Asas de Ícaro",
+        "es": "Muñeca de hierro"
+    },
+    "XYLeCA": {
+        "en": "Ragnarok Limited Edition",
+        "pt": "Anel do Especialista",
+        "es": "Ragnarok Edición Limitada"
+    },
+    "XoLeCA": {
+        "en": "Angelic_Ring",
+        "pt": "Gerador de Magnetismo",
+        "es": "Angelic_Ring"
+    },
+    "X4LeCA": {
+        "en": "Light of El Dicastes",
+        "pt": "Detonador",
+        "es": "Luz de El Dicastes"
+    },
+    "YILeCA": {
+        "en": "Laboratory Permit",
+        "pt": "Mão Maldita",
+        "es": "Permiso de laboratorio"
+    },
+    "YYLeCA": {
+        "en": "Alchemy Glove",
+        "pt": "Broche Amaldiçoado da Deusa Fortuna",
+        "es": "Guante de alquimia"
+    },
+    "YoLeCA": {
+        "en": "Christmas Musicbox",
+        "pt": "Anel de Morroc",
+        "es": "Caja de música navideña"
+    },
+    "Y4LeCA": {
+        "en": "Orleans's Glove",
+        "pt": "Anel de Kafra",
+        "es": "Guante de Orleans"
+    },
+    "ZILeCA": {
+        "en": "Orleans Necklace",
+        "pt": "Estrela Maldita",
+        "es": "Collar de Orleans"
+    },
+    "ZYLeCA": {
+        "en": "Silver Ring",
+        "pt": "Selo da Guarda Continental",
+        "es": "Anillo de plata"
+    },
+    "ZoLeCA": {
+        "en": "Earring",
+        "pt": "Anel de Ouro de Natal",
+        "es": "Pendiente"
+    },
+    "Z4LeCA": {
+        "en": "Icarus Wings",
+        "pt": "Anel de Prata de Natal",
+        "es": "Alas de Ícaro"
+    },
+    "aILeCA": {
+        "en": "Expert Ring",
+        "pt": "Anel Certeiro",
+        "es": "Anillo de experto"
+    },
+    "aYLeCA": {
+        "en": "Magnetic Field Generator",
+        "pt": "Presilha",
+        "es": "Generador de campo magnético"
+    },
+    "aoLeCA": {
+        "en": "Suicidal Device",
+        "pt": "Anel da Telecinese",
+        "es": "Dispositivo suicida"
+    },
+    "a4LeCA": {
+        "en": "Cursed Hand",
+        "pt": "Anel do Exorcismo",
+        "es": "Mano maldita"
+    },
+    "bILeCA": {
+        "en": "Goddess of Fortune's Cursed Brooch",
+        "pt": "Resfriador Especial",
+        "es": "Broche maldito de la Diosa de la Fortuna"
+    },
+    "bYLeCA": {
+        "en": "Death Loop",
+        "pt": "Bolsa de Mercador",
+        "es": "Broche de la muerte"
+    },
+    "boLeCA": {
+        "en": "Kafra Ring",
+        "pt": "Anel de Maçã Verde",
+        "es": "Anillo de Kafra"
+    },
+    "b4LeCA": {
+        "en": "Cursed Star",
+        "pt": "Bola de Ferro Ensanguentada",
+        "es": "Estrella maldita"
+    },
+    "cILeCA": {
+        "en": "Seal of Continental Guard",
+        "pt": "Broche de Pinguicula",
+        "es": "Sello de la Guardia Continental"
+    },
+    "cYLeCA": {
+        "en": "Gold Christmas Ring",
+        "pt": "Anel Elemental Menor",
+        "es": "Anillo de Navidad de oro"
+    },
+    "coLeCA": {
+        "en": "Silver Christmas Ring",
+        "pt": "Talismã da Armadura",
+        "es": "Anillo de Navidad de plata"
+    },
+    "c4LeCA": {
+        "en": "Critical Ring",
+        "pt": "Anel de Caveira",
+        "es": "Anillo crítico"
+    },
+    "dILeCA": {
+        "en": "Clip",
+        "pt": "Planador",
+        "es": "Clip"
+    },
+    "dYLeCA": {
+        "en": "Telekinetic Orb",
+        "pt": "Luva de Puxada",
+        "es": "Orbe telequinético"
+    },
+    "doLeCA": {
+        "en": "Exorcising Ring",
+        "pt": "Lanterna da Fé",
+        "es": "Anillo de exorcismo"
+    },
+    "d4LeCA": {
+        "en": "Special Cooler",
+        "pt": "[Colecionadora]\nNão sei trabalhar com esse equipamento. Se eu exagerar, ele falhará 100% e desaparecerá.",
+        "es": "Enfriador especial"
+    },
+    "eILeCA": {
+        "en": "Fashion Hip Sack",
+        "pt": "[Colecionadora]\nEste acessório já foi reforçado. Se quiser, você pode resetar o encantamento.",
+        "es": "Bolsa de cintura de moda"
+    },
+    "eYLeCA": {
+        "en": "Green Apple Ring",
+        "pt": "[Colecionadora]\nEste acessório já foi fortalecido. Se quiser, você pode resetar o encantamento.",
+        "es": "Anillo de manzana verde"
+    },
+    "eoLeCA": {
+        "en": "Bloodied Shackle Ball",
+        "pt": "[Colecionadora]\nEsse item tem encantamentos além do meu controle, não posso fazer nada.",
+        "es": "Bola de grillete ensangrentada"
+    },
+    "e4LeCA": {
+        "en": "Sacred Incense",
+        "pt": "[Colecionadora]\nDeseja reiniciar todas as joias polidas do acessório? Há uma chance de ^FF000080%^000000 de falha.",
+        "es": "Incienso sagrado"
+    },
+    "fILeCA": {
+        "en": "Pinguicula Corsage",
+        "pt": "Volto mais tarde",
+        "es": "Corsaje de pinguiculas"
+    },
+    "fYLeCA": {
+        "en": "Lesser Elemental Ring",
+        "pt": "Prossiga",
+        "es": "Anillo elemental menor"
+    },
+    "foLeCA": {
+        "en": "Armor Charm",
+        "pt": "[Colecionadora]\nOk.",
+        "es": "Amuleto de armadura"
+    },
+    "f4LeCA": {
+        "en": "Skull Ring",
+        "pt": "[Colecionadora]\nNão posso reiniciar coisas que não foram encantadas.",
+        "es": "Anillo de calavera"
+    },
+    "gILeCA": {
+        "en": "Hovering Booster",
+        "pt": "[Colecionadora]\nO que está acontecendo? Espere um minuto. Eu preciso ver a situação.",
+        "es": "Propulsor aéreo"
+    },
+    "gYLeCA": {
+        "en": "Bow Thimble",
+        "pt": "[Colecionadora]\nEu não sei o que é, mas parece que as coisas estão complicadas. Vamos tentar de novo mais tarde.",
+        "es": "Dactilera"
+    },
+    "goLeCA": {
+        "en": "Gold Trickle",
+        "pt": "[Colecionadora]\nEu não acho que isso é algo que eu tocaria.",
+        "es": "Cascabel de oro"
+    },
+    "g4LeCA": {
+        "en": "Lantern of Hope",
+        "pt": "[Colecionadora]\nEncantamento concluído.",
+        "es": "Linterna de esperanza"
+    },
+    "hILeCA": {
+        "en": "[Novice Collector]\nI can't handle this piece of equipment. It'll fail with 100 percent certainty and disappear.",
+        "pt": "[Colecionadora]\nAlgo deu errado...",
+        "es": "[Coleccionista novato]\nNo puedo manejar este equipo. Con un 100% de certeza, fracasará y desaparecerá."
+    },
+    "hYLeCA": {
+        "en": "[Novice Collector]\nThis accessory has already been enchanted. Come back when you want to reset it.",
+        "pt": "[Colecionadora]\nVocê não selecionou a tarefa certa. Por favor, comece de novo.",
+        "es": "[Coleccionista novato]\nEste accesorio ya fue encantado. Vuelve cuando quieras restablecerlo."
+    },
+    "hoLeCA": {
+        "en": "[Novice Collector]\nIt's too enchanted that I can't touch it. Sorry.",
+        "pt": "[Colecionadora]\nEu preciso de 10 Pedras Brutas e 100.000 zeny. Você não tem tudo isso.",
+        "es": "[Coleccionista novato]\nEstá tan encantado que no puedo tocarlo. Lo siento."
+    },
+    "h4LeCA": {
+        "en": "[Novice Collector]\nDo you want to reset all of the effects on the accessory? It could be destroyed with an^FF0000 80%^000000 chance, so be aware.",
+        "pt": "Homem Suspeito",
+        "es": "[Coleccionista novato]\n¿Quieres restablecer todos los efectos del accesorio? Hay un^660000 80%^000000 de probabilidad de que se destruya, así que ten cuidado."
+    },
+    "iILeCA": {
+        "en": "I'll be back later.",
+        "pt": "[Homem Suspeito]\nExiste algo que eu preciso fazer?",
+        "es": "Volveré más tarde."
+    },
+    "iYLeCA": {
+        "en": "Please proceed.",
+        "pt": "[Homem Suspeito]\nVocê está usando um anel muito precioso. O que quer de mim?",
+        "es": "Continúa."
+    },
+    "ioLeCA": {
+        "en": "[Novice Collector]\nOkay.",
+        "pt": "Qual a história deste anel?",
+        "es": "[Coleccionista novato]\nBueno."
+    },
+    "i4LeCA": {
+        "en": "[Novice Collector]\nI can't reset something that hasn't been enchanted.",
+        "pt": "Encantar Anel do Monarca",
+        "es": "[Coleccionista novato]\nNo puedo restablecer algo que no se ha encantado."
+    },
+    "jILeCA": {
+        "en": "[Novice Collector]\nWhat's going on here? Wait a minute, I need to see what's going on.",
+        "pt": "Reiniciar encantos",
+        "es": "[Coleccionista novato]\n¿Qué está pasando aquí? Un momento, necesito ver qué está pasando."
+    },
+    "jYLeCA": {
+        "en": "[Novice Collector]\nI don't know what's going on, but I think something is off. Let's try again later.",
+        "pt": "[Homem Suspeito]\nAntes de tudo, vou lhe dizer que não estou oficialmente mais ativo por motivos pessoais. Então, esqueça tudo o que você ouvirá aqui.",
+        "es": "[Coleccionista novato]\nNo sé qué está pasando, pero creo que algo está mal. Intentémoslo más tarde."
+    },
+    "joLeCA": {
+        "en": "[Novice Collector]\nI don't think this is something I can modify.",
+        "pt": "Então, até logo.",
+        "es": "[Coleccionista novato]\nNo creo que esto sea algo que pueda modificar."
+    },
+    "j4LeCA": {
+        "en": "[Novice Collector]\nIt's done. Check it out!",
+        "pt": "Pode continuar.",
+        "es": "[Coleccionista novato]\nListo. ¡Revísalo!"
+    },
+    "kILeCA": {
+        "en": "[Novice Collector]\nOh, no... I've failed you! I'm sorry, but I can't recover it.",
+        "pt": "[Homem Suspeito]\nVocê tem muita sorte de ter esse anel.",
+        "es": "[Coleccionista novato]\nAy, no… ¡Te fallé! Lo siento, pero no puedo recuperarlo."
+    },
+    "kYLeCA": {
+        "en": "[Novice Collector]\nYou didn't choose the right task. Please start over.",
+        "pt": "[Homem Suspeito]\nNos tempos antigos, haviam três Guardiões que apoiavam um certo monarca. Embora eles não existam nos registros de hoje...",
+        "es": "[Coleccionista novato]\nNo elegiste la tarea adecuada. Tendrás que empezar de nuevo."
+    },
+    "koLeCA": {
+        "en": "[Novice Collector]\nThis job requires 10 Crafted Stones and 100,000 Zeny. What you have is not enough!",
+        "pt": "[Homem Suspeito]\nEste anel era a prova de quem era fiel e protetor do Monarca.",
+        "es": "[Coleccionista novato]\nEste trabajo requiere 10Piedras artesanales y 100000zeny. ¡Lo que tienes no es suficiente!"
+    },
+    "k4LeCA": {
+        "en": "Suspicious man",
+        "pt": "[Homem Suspeito]\nDizem que o anel escolhe seu dono, parece que ele escolheu você.",
+        "es": "Suspicious man"
+    },
+    "lILeCA": {
+        "en": "[Suspicious man]\nDo you need me for something? Move along!",
+        "pt": "Você pode encantá-lo?",
+        "es": "[Hombre sospechoso]\n¿Me necesitas para algo? ¡Muévete!"
+    },
+    "lYLeCA": {
+        "en": "[Suspicious man]\nThat's a nice looking ring you have there. Need any help?",
+        "pt": "[Homem Suspeito]\nSe você quiser, me traga 10 Pedras Brutas e 100.000 zeny.",
+        "es": "[Hombre sospechoso]\nEs un bonito anillo el que tienes ahí. ¿Necesitas ayuda?"
+    },
+    "loLeCA": {
+        "en": "Is there a story behind this ring?",
+        "pt": "[Homem Suspeito]\nDepois de encantá-lo, se você não gostar, pode reiniciar o anel a qualquer momento. O custo é o mesmo, 10 Pedras Brutas e 100.000 zeny.",
+        "es": "¿Hay alguna historia detrás de este anillo?"
+    },
+    "l4LeCA": {
+        "en": "Enchant Ring",
+        "pt": "[Homem Suspeito]\nEnfim, é um prazer conhecer quem o Anel escolheu...",
+        "es": "Anillo encantado."
+    },
+    "mILeCA": {
+        "en": "Reset Ring Enchant",
+        "pt": "[Homem Suspeito]\nPor favor, coloque o anel no slot de acessório à direita. Não posso usar meu poder corretamente a menos que esteja lá.",
+        "es": "Restablecer Anillo encantado"
+    },
+    "mYLeCA": {
+        "en": "[Suspicious man]\nFirst of all, know that I'm not officially on active duty due to personal reasons, so forget everything you hear here.",
+        "pt": "[Homem Suspeito]\n... O que você está fazendo?",
+        "es": "[Hombre sospechoso]\nPrimero, debes saber que no estoy oficialmente en servicio activo por motivos personales, así que olvídate de todo lo que escuches aquí."
+    },
+    "moLeCA": {
+        "en": "Oh, nevermind.",
+        "pt": "Anel do Monarca",
+        "es": "No importa."
+    },
+    "m4LeCA": {
+        "en": "Go on.",
+        "pt": "[Homem Suspeito]\nVocê está me pedindo para encantar este equipamento? Você está brincando demais.",
+        "es": "Continúa."
+    },
+    "nILeCA": {
+        "en": "[Suspicious man]\nHeh, I'm glad this big-mouthed adventurer owns the ring.",
+        "pt": "[Homem Suspeito]\nEste anel já foi encanttado. Eu não posso ir mais além. Se você quiser reiniciar seus poderes, estarei aqui.",
+        "es": "[Hombre sospechoso]\nMe alegra que este trotamundos lenguaraz tenga el anillo."
+    },
+    "nYLeCA": {
+        "en": "[Suspicious man]\nIn ancient times, there were three guardians who stood by the king. It's not on the record right now, but...",
+        "pt": "[Homem Suspeito]\nQue tipo de poder você quer?",
+        "es": "[Hombre sospechoso]\nEn la antigüedad, había tres guardianes al lado del rey. Ahora mismo no es oficial, pero…"
+    },
+    "noLeCA": {
+        "en": "[Suspicious man]\nThe ring they kept was a symbol of the king's guardian is the King's Guardian Ring.",
+        "pt": "Me dê um tempo",
+        "es": "[Hombre sospechoso]\nEl anillo que guardaban era un símbolo del guardián del rey. Es el Anillo del guardián real."
+    },
+    "n4LeCA": {
+        "en": "[Suspicious man]\nI heard that the ring chooses its owner. I see you've already been chosen, but I don't think it has completely unsealed its powers yet.",
+        "pt": "Poderes Físicos",
+        "es": "[Hombre sospechoso]\nEscuché que el anillo elige a su dueño. Veo que te eligió, pero no creo que sus poderes se hayan desbloqueado del todo."
+    },
+    "oILeCA": {
+        "en": "It has sealed powers?",
+        "pt": "Poderes Mágicos",
+        "es": "¿Tiene poderes sellados?"
+    },
+    "oYLeCA": {
+        "en": "[Suspicious man]\nIf you want, I can unlock the ring's true potential. Bring me 10 Crafted Stones and 100,000 Zeny.",
+        "pt": "Poderes Certeiros",
+        "es": "[Hombre sospechoso]\nSi quieres, puedo desbloquear el verdadero potencial del anillo. Tráeme 10Piedras artesanales y 100000zeny."
+    },
+    "ooLeCA": {
+        "en": "[Suspicious man]\nIf you don't its unlocked potential, you can always reset it back to normal. Please prepare 10 Crafted Stones and 100,000 Zeny.",
+        "pt": "[Homem Suspeito]\nOk. Volte quando pensar melhor.",
+        "es": "[Hombre sospechoso]\nSi no desbloqueas su potencial, siempre puedes restablecerlo a su estado normal. Reúne 10Piedras artesanales y 100000zeny."
+    },
+    "o4LeCA": {
+        "en": "[Suspicious man]\nAnyway, I'm glad the ring has met the chosen one...",
+        "pt": "[Homem Suspeito]\nEu vou encantar o primeiro slot. Posso continuar?",
+        "es": "[Hombre sospechoso]\nEn fin, me alegra que el anillo haya encontrado a la persona elegida…"
+    },
+    "pILeCA": {
+        "en": "[Suspicious man]\nEquip the ring on the right accessory slot. I can't use my powers unless it's located there.",
+        "pt": "Volto depois",
+        "es": "[Hombre sospechoso]\nEquipa el anillo en la ranura derecha de accesorios. No puedo usar mis poderes a menos que se encuentre allí."
+    },
+    "pYLeCA": {
+        "en": "[Suspicious man]\n... What are you doing??",
+        "pt": "[Homem Suspeito]\nOk.",
+        "es": "[Hombre sospechoso]\n… ¿Qué haces?"
+    },
+    "poLeCA": {
+        "en": "Royal Guardian Ring",
+        "pt": "[Homem Suspeito]\nVou encantar o segundo slot. Posso continuar?",
+        "es": "Anillo del Guardián real"
+    },
+    "p4LeCA": {
+        "en": "[Suspicious man]\nAre you asking me to enchant this ring? Ha! What a jokester.",
+        "pt": "[Homem Suspeito]\nSe reiniciar, TODOS os encantos sumirão. Posso continuar? Há 20% de chance dele ser perdido para sempre.",
+        "es": "[Hombre sospechoso]\n¿Me estás pidiendo que encante este anillo? ¡Ha! Qué bromista."
+    },
+    "qILeCA": {
+        "en": "[Suspicious man]\nThis ring is already unsealed. I can't do anything else. Come find me when you want to reset its power.",
+        "pt": "[Homem Suspeito]\nOK.",
+        "es": "[Hombre sospechoso]\nEste anillo ya está desbloqueado. No puedo hacer nada más. Ven a buscarme cuando quieras restablecer su poder."
+    },
+    "qYLeCA": {
+        "en": "[Suspicious man]\nWhat kind of power do you want?",
+        "pt": "[Homem Suspeito]\nEsse anel não foi encantado o suficiente para reiniciá-lo. É melhor você voltar para mim depois que todos os 2 slots forem encantados.",
+        "es": "[Hombre sospechoso]\n¿Qué tipo de poder quieres?"
+    },
+    "qoLeCA": {
+        "en": "One second...",
+        "pt": "[Homem Suspeito]\nO que está acontecendo? Você vai voltar mais tarde?",
+        "es": "Un segundo…"
+    },
+    "q4LeCA": {
+        "en": "Physical Effect",
+        "pt": "[Homem Suspeito]\nEu não sei o que é, mas parece que as coisas deram errado. Você pode voltar em um minuto?",
+        "es": "Efecto físico."
+    },
+    "rILeCA": {
+        "en": "Magical Effect",
+        "pt": "[Homem Suspeito]\nIsso não é algo que eu vou tocar.",
+        "es": "Efecto mágico."
+    },
+    "rYLeCA": {
+        "en": "Ranged Effect",
+        "pt": "[Homem Suspeito]\nO anel foi encantado. Confira.",
+        "es": "Efecto a distancia."
+    },
+    "roLeCA": {
+        "en": "[Suspicious man]\nAll right, think carefully.",
+        "pt": "[Homem Suspeito]\nO encanto foi reiniciado com sucesso.",
+        "es": "[Hombre sospechoso]\nMuy bien, piénsalo bien."
+    },
+    "r4LeCA": {
+        "en": "[Suspicious man]\nI'll unseal the first seal.",
+        "pt": "[Homem Suspeito]\nOh... aparentemente o Anel não escolheu você.",
+        "es": "[Hombre sospechoso]\nVoy a desbloquear el primer sello."
+    },
+    "sILeCA": {
+        "en": "[Suspicious man]\nOkay.",
+        "pt": "[Homem Suspeito]\nVocê pode me dizer o que você quer fazer?",
+        "es": "[Hombre sospechoso]\nBueno."
+    },
+    "sYLeCA": {
+        "en": "[Suspicious man]\nI'm gonna unseal the second one. Can I go on?",
+        "pt": "[Homem Suspeito]\nEu preciso de 10 Pedras Brutas e 100.000 zeny, mas você não tem isso.",
+        "es": "[Hombre sospechoso]\nVoy a desbloquear el segundo. ¿Puedo seguir?"
+    },
+    "soLeCA": {
+        "en": "[Suspicious man]\nThis ring is already unsealed. There is nothing left for me to do. Come find me whenever you want to reset its power.",
+        "es": "[Hombre sospechoso]\nEste anillo ya está desbloqueado. No me queda nada por hacer. Ven a buscarme cuando quieras para restablecer su poder."
+    },
+    "s4LeCA": {
+        "en": "[Suspicious man]\nAre you going to reset all the enchanted effects on the accessories? Careful, it could be destroyed with a 20% chance.",
+        "es": "[Hombre sospechoso]\n¿Vas a restablecer todos los efectos encantados en los accesorios? Cuidado, hay una probabilidad del 20%.de que se destruya."
+    },
+    "tILeCA": {
+        "en": "[Suspicious man]\nIt hasn't been unsealed enough to reset. Come back after all the seals are released.",
+        "es": "[Hombre sospechoso]\nNo se desbloqueó lo suficiente como para restablecerlo. Vuelve cuando todos los sellos se hayan liberado."
+    },
+    "tYLeCA": {
+        "en": "[Suspicious man]\nWhat's going on here? Come back later!",
+        "es": "[Hombre sospechoso]\n¿Qué está pasando aquí? ¡Vuelve más tarde!"
+    },
+    "toLeCA": {
+        "en": "[Suspicious man]\nI don't know what is happening, but I think there is a problem. Can you come back in a minute?",
+        "es": "[Hombre sospechoso]\nNo sé qué está pasando, pero creo que hay un problema. ¿Puedes volver en un minuto?"
+    },
+    "t4LeCA": {
+        "en": "[Suspicious man]\nThis isn't something I can touch.",
+        "es": "[Hombre sospechoso]\nEsto no es algo que pueda tocar."
+    },
+    "uILeCA": {
+        "en": "[Suspicious man]\nThe seal has been unsealed. Check it out!",
+        "es": "[Hombre sospechoso]\nEl sello se desbloqueó. ¡Revísalo!"
+    },
+    "uYLeCA": {
+        "en": "[Suspicious man]\nI've performed the reset safely. Phew.",
+        "es": "[Hombre sospechoso]\nRestablecimiento realizado sin problemas. Uf."
+    },
+    "uoLeCA": {
+        "en": "[Suspicious man]\nOh... perhaps it required more force? Unfortunately, these things happen.",
+        "es": "[Hombre sospechoso]\nMmm… ¿Quizá requería más fuerza? Por desgracia, estas cosas pasan."
+    },
+    "u4LeCA": {
+        "en": "[Suspicious man]\nTell me exactly what you want to do.",
+        "es": "[Hombre sospechoso]\nDime exactamente lo que quieres hacer."
+    },
+    "vILeCA": {
+        "en": "[Suspicious man]\nI need 10 Crafted Stones and 100,000 Zeny, so come back when you have it.",
+        "es": "[Hombre sospechoso]\nNecesito 10Piedras artesanales y 100000zeny, así que vuelve cuando tengas todo."
+    }
+}

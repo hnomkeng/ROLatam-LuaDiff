@@ -1,0 +1,942 @@
+{
+    "oPsaAw": {
+        "en": "Mage Master",
+        "pt": "Charles, dos Magos",
+        "es": "Charles, de los Magos"
+    },
+    "ofsaAw": {
+        "en": "Dex",
+        "pt": "Des",
+        "es": "Des"
+    },
+    "ovsaAw": {
+        "en": "DEX",
+        "pt": "DES",
+        "es": "DES"
+    },
+    "o/saAw": {
+        "en": "dex",
+        "pt": "des",
+        "es": "des"
+    },
+    "pPsaAw": {
+        "en": "[Mage Master]\nI see that you are\na ^FF0000Novice Mage^000000!\nYou made it from Criatura Academy\nall the way here!\nI've prepared a small gift\nas a reward for all that trouble!",
+        "pt": "[Charles]\nOlha só quem se tornou Mago...\nSabia que iria trilhar esse caminho!\nAprecio muito sua coragem e\nadmiro que tenha vindo aqui me ver.\nA Academia Criatura é ótima, né?\nBom, preparei uma pequena recompensa.\nEspero que goste!",
+        "es": "[Charles]\nMira quién se convirtió en Mago…\n¡Sabía que seguirías este camino!\nRealmente aprecio tu valentía y\nme sorprende que vengas a verme.\nLa Academia de criaturas es genial, ¿verdad?\nBueno, preparé una pequeña recompensa.\n¡Espero que te guste!"
+    },
+    "pfsaAw": {
+        "en": "[Mage Master]\nHello there!\nI'm here to help\nNovice magicians\non their magical journey!\nThe ^FF0000Mage Master^000000!\nThat's me!",
+        "pt": "[Charles]\nMagias!\nSou tipo um Mestre dos Magos por aqui!\nTenho total capacidade de ajudar\ne guiar Magos que estão começando.\nAinda mais após a primeira\ntroca de Classe.",
+        "es": "[Charles]\n¡Hechizos!\n¡Soy como un maestro para los Magos por aquí!\nSoy totalmente capaz de ayudar\ny guiar a los Magos que recién están empezando.\nMás aún después del primer\ncambio de clase."
+    },
+    "pvsaAw": {
+        "en": "[Mage Master]\nI bet you have\na lot of questions,\nsince you've just become a Mage.",
+        "pt": "[Charles]\nParece que tornou-se Mago.\nEmpolgante, mas acredito que\nainda tenha muitas perguntas\nsobre os Magos, correto?",
+        "es": "[Charles]\nParece que te convertiste en Mago.\nEmocionante, pero creo que\ntodavía tienes muchas preguntas\nsobre los Magos, ¿verdad?"
+    },
+    "p/saAw": {
+        "en": "[Mage Master]\nWhat would you like to know?",
+        "pt": "[Charles]\nTire todas as dúvidas!",
+        "es": "[Charles]\n¡Resuelve todas tus dudas!"
+    },
+    "qPsaAw": {
+        "en": "Mage ^8B4513stats^000000",
+        "pt": "^8B4513Atributos dos Magos^000000",
+        "es": "^8B4513Estadísticas de los Magos.^000000"
+    },
+    "qfsaAw": {
+        "en": "Mage ^8B4513attributes and skills^000000",
+        "pt": "^8B4513Propriedades Mágicas^000000",
+        "es": "^8B4513Propiedades mágicas.^000000"
+    },
+    "qvsaAw": {
+        "en": "Mage ^8B4513weapons^000000",
+        "pt": "^8B4513Armas para Magos^000000",
+        "es": "^8B4513Armas para los Magos.^000000"
+    },
+    "q/saAw": {
+        "en": "^8B4513How to become a powerful ^000000 mage",
+        "pt": "^8B4513Comportamento de um Mago^000000",
+        "es": "^8B4513Comportamiento de un Mago.^000000"
+    },
+    "rPsaAw": {
+        "en": "Mage ^8B4513Job Changes^000000",
+        "pt": "^8B4513Evoluções de um Mago^000000",
+        "es": "^8B4513Evoluciones de un Mago.^000000"
+    },
+    "rfsaAw": {
+        "en": "Mage ^8B4513combat^000000",
+        "pt": "^8B4513Táticas de batalha dos Magos^000000",
+        "es": "^8B4513Tácticas de batalla de los Magos.^000000"
+    },
+    "rvsaAw": {
+        "en": "Goodbye.",
+        "pt": "Encerrar conversa",
+        "es": "^8B4513Terminar la conversación.^000000"
+    },
+    "r/saAw": {
+        "en": "[Mage Master]\nMage ^8B4513stats^000000?\nJust remember ^8B45132 things^000000!\n^FF0000INT and DEX^000000!!",
+        "pt": "[Charles]\nSobre os ^FF5555Atributos dos Magos^000000?\nVocê apenas precisa se lembrar de que\n^FF0000INT e DES^000000 são os mais importantes!",
+        "es": "[Charles]\n¿Cuáles son las ^8B4513estadísticas de los Magos^000000?\n¡Solo tienes que recordar que\n^FF0000INT y DES^000000 son las más importantes!"
+    },
+    "sPsaAw": {
+        "en": "[Mage Master]\n^FF0000INT stands for intelligence^000000!\nINT is a weapon for Mages!\nFor a Mage, your ^8B4513ATK^000000,\nis directly related to this!",
+        "pt": "[Charles]\n^FF0000INT é inteligência^000000.\nE para os Magos, conhecimento é poder!\nINT está totalmente ligada ao\n^8B4513poder de ataque dos Magos^000000.",
+        "es": "[Charles]\n^FF0000INT es inteligencia^000000.\nY para los Magos, ¡el conocimiento es poder!\nLa INT está completamente vinculada al\n^8B4513poder de ataque de los Magos^000000."
+    },
+    "sfsaAw": {
+        "en": "[Mage Master]\n^FF0000DEX stands for dexterity^000000!\nDexterity means speed!\nFor Mages, our ^8B4513casting speed^000000\nis directly related to this!",
+        "pt": "[Charles]\n^FF0000DES é destreza^000000.\nDES quer dizer agilidade, basicamente.\nPara um Mago, isso influencia\n^8B4513a velocidade de conjuração^000000 das magias.",
+        "es": "[Charles]\n^FF0000DES es Destreza ^000000.\nDES significa básicamente agilidad.\nPara un Mago, esto influye en\n^8B4513la velocidad de lanzamiento^000000 de los hechizos."
+    },
+    "svsaAw": {
+        "en": "[Mage Master]\nWhat stats do Mages want?\nYou know the answer!\nSay it with me now!\n^FF0000I say INT, you say DEX^000000!\n^FF0000INT^000000!",
+        "pt": "[Charles]\nFoque nesses atributos...\nSe estiver na dúvida de qual\nevoluir, grite bem alto!\nO que sair antes: ^FF0000INT ou DES^000000;\né o que você deve evoluir!",
+        "es": "[Charles]\nCéntrate en estas estadísticas…\nSi no estás seguro de cuál\naumentar, ¡grita fuerte!\nLo que salga primero, ^FF0000INT o DES^000000,\n¡eso es lo que debes aumentar!"
+    },
+    "s/saAw": {
+        "en": "[Mage Master]\nWow, not bad at all!\nYes, that's right. ^FF0000INT and DEX^000000!",
+        "pt": "[Charles]\nHm... Bom\nInteligência e Destreza!",
+        "es": "[Charles]\nMm… Bueno.\n¡Inteligencia y Destreza !"
+    },
+    "tPsaAw": {
+        "en": "[Mage Master]\nDexterity is the full name,\nBut you can call it DEX, dex, whatever!\nAnyways,\n^FF0000INT and DEX^000000!",
+        "pt": "[Charles]\nDestreza é agilidade pura!\nConjuração de magias mais rápido!\nNunca esqueça...\nInteligência e Destreza!",
+        "es": "[Charles]\n¡La Destreza es pura agilidad!\n¡Lanzamiento de hechizos más rápido!\nNunca lo olvides…\n¡Inteligencia y Destreza !"
+    },
+    "tfsaAw": {
+        "en": "[Mage Master]\nDexterity is the proper word,\nbut we usually say DEX!\nAnyways,\n^FF0000INT and DEX^000000!",
+        "pt": "[Charles]\nParece hesitante...\nHm...\nNunca esqueça...\nInteligência e Destreza!",
+        "es": "[Charles]\n¡La Destreza es pura agilidad!\n¡Lanzamiento de hechizos más rápido!\nNunca lo olvides…\n¡Inteligencia y Destreza !"
+    },
+    "tvsaAw": {
+        "en": "[Mage Master]\nYou're not much into\nhip-hop, are you?\nAnyways,\n^FF0000INT and DEX^000000!",
+        "pt": "[Charles]\nVocê não gosta muito de\nhip-hop, não é?\nDe qualquer forma,\nInteligência e Destreza!",
+        "es": "[Charles]\nLuces indeciso…\nMm…\nNunca lo olvides…\n¡Inteligencia y Destreza !"
+    },
+    "t/saAw": {
+        "en": "[Mage Master]\nJust remember those two,\nand you won't have any trouble\nwhen it comes to stats!",
+        "pt": "[Charles]\nSe lembrar disso, com certeza\nnão terá dificuldades por aí.\nAtributos são tudo de bom!",
+        "es": "[Charles]\nSi te acuerdas de esto, seguramente\nno tendrás ninguna dificultad ahí fuera.\n¡Las estadísticas son geniales!"
+    },
+    "uPsaAw": {
+        "en": "[Mage Master]\nThat's all for\nMage stats.\nWhat else do you want to know?",
+        "pt": "[Charles]\nNão terá nenhuma dificuldade\ncom seus atributos!\nQuer saber de algo mais?",
+        "es": "[Charles]\n¡No tendrás ningún problema\ncon tus estadísticas!\n¿Quieres saber algo más?"
+    },
+    "ufsaAw": {
+        "en": "[Mage Master]\nThere are some things\nyou should know\nbefore learning Mage skills!\nThat would be\n^8B4513''Water, Wind, Earth, Fire, and Ghost''^000000\nThe five attributes!",
+        "pt": "[Charles]\nAinda bem que perguntou sobre\nas Propriedades Mágicas.\nSempre tem o que explicar!\nAs propriedades são:\n^8B4513Água, Vento, Terra, Fogo e Fantasma^000000.\nFoque nessas 5 Propriedades!",
+        "es": "[Charles]\nQué bueno que preguntes por\nlas propiedades mágicas.\n¡Siempre hay algo que explicar!\nLas propiedades son:\n^8B4513Agua, Viento, Tierra, Fuego y Fantasma^000000.\n¡Concéntrate en estas 5propiedades!"
+    },
+    "uvsaAw": {
+        "en": "[Mage Master]\nYour skills possess attributes,\nand based on the ^FF0000relations between attributes^000000,\nyour skills can do massive damage\nor cause no damage at all!",
+        "pt": "[Charles]\nDependendo da\n^FF0000relação entre as Propriedades^000000,\no dano das Habilidades\npode variar muito.",
+        "es": "[Charles]\nEn función de la\n^FF0000relación entre las propiedades^000000,\nel daño de las habilidades\npuede variar mucho."
+    },
+    "u/saAw": {
+        "en": "[Mage Master]\nMaximize your combat efficiency!\nDefeat ^0000FFFire^000000 monsters with ^FF0000Water^000000 skills!\nDefeat ^0000FFWater^000000 monsters with ^FF0000Wind^000000 skills!\nDefeat ^0000FFWind^000000 monsters with ^FF0000Earth^000000 skills!\nDefeat ^0000FFEarth^000000 monsters with ^FF0000Fire^000000 skills!\nDefeat ^0000FFGhost^000000 monsters with ^FF0000Ghost^000000 skills!",
+        "pt": "[Charles]\nPara maximizar a potência das Habilidades, utilize:\n^0000FFHabilidades com Propriedade Água^000000 contra ^FF0000Monstros de Propriedade Fogo^000000!\n^0000FFHabilidades com Propriedade Vento^000000 contra ^FF0000Monstros de Propriedade Água^000000!\n^0000FFHabilidades com Propriedade Terra^000000 contra ^FF0000Monstros de Propriedade Vento^000000!\n^0000FFHabilidades com Propriedade Fogo^000000 contra ^FF0000Monstros de Propriedade Terra^000000!\n^0000FFHabilidades com Propriedade Fantasma^000000 contra ^FF0000Monstros de Propriedade Fantasma^000000!",
+        "es": "[Charles]\nPara potenciar al máximo las habilidades, usa:\n¡^0000FFHabilidades de propiedad Agua^000000 contra ^FF0000monstruos de propiedad Fuego^000000!\n¡^0000FFHabilidades de propiedad Viento^000000 contra ^FF0000monstruos de propiedad Agua^000000!\n¡^0000FFHabilidades de propiedad Tierra^000000 contra ^FF0000monstruos de propiedad Viento^000000!\n¡^0000FFHabilidades de propiedad Fuego^000000 contra ^FF0000monstruos de propiedad Tierra^000000!\n¡^0000FFHabilidades de propiedad Fantasma^000000 contra ^FF0000monstruos de propiedad Fantasma^000000!"
+    },
+    "vPsaAw": {
+        "en": "[Mage Master]\nYou will be able to defeat any adversary\nif you understand the attributes\nand deploy them properly in the battle.\nMaximize your combat efficiency!",
+        "pt": "[Charles]\nSe conseguir utilizar todas essas dicas,\nnão terá problemas em nenhum encontro\ncom monstros e outras criaturas.\nVocê vai ser imbatível!",
+        "es": "[Charles]\nSi logras poner en práctica todos estos consejos,\nno tendrás problemas en ningún combate\ncontra monstruos y otras criaturas.\n¡Serás imbatible!"
+    },
+    "vfsaAw": {
+        "en": "[Mage Master]\nThat's all for\nMage skills.\nWhat else would you like to know?",
+        "pt": "[Charles]\nTudo fica mais fácil\nquando se conhece as Propriedades!\nQuer saber de algo mais?",
+        "es": "[Charles]\n¡Todo es más fácil\ncuando conoces las propiedades!\n¿Quieres saber algo más?"
+    },
+    "vvsaAw": {
+        "en": "[Mage Master]\nIf you prepare for\nbattle with the right knowledge\nof Mage weapons,\nyou will be able to ^8B4513gain the upper hand^000000!",
+        "pt": "[Charles]\nSe souber exatamente\nquais armas um Mago pode usar,\nterá muita vantagem\nem batalhas futuras!",
+        "es": "[Charles]\nSi conoces exactamente\nqué armas puede usar un Mago,\n¡tendrás gran ventaja\nen futuras batallas!"
+    },
+    "v/saAw": {
+        "en": "[Mage Master]\nThere are 2 kinds of weapons.\nFirstly,\nthere's the ^0000FFdagger,^000000 a weapon everyone uses!\nAnd then,\nthere's a weapon exclusive to Mages!\nI'm referring to none other than the ^0000FFstaff^000000!",
+        "pt": "[Charles]\nExistem dois tipos de armas para Magos.\nA primeira é uma que todos\npodem usar, ^0000FFa Adaga^000000.\nA outra é um tipo de arma\nque se encaixa com os Magos:\n^0000FFo Cajado^000000.",
+        "es": "[Charles]\nHay dos tipos de armas para los Magos.\nLa primera es una que todos\npueden usar, ^0000FFla Daga^000000.\nLa otra es un tipo de arma\nque se adapta a los Magos:\n^0000FFel báculo^000000."
+    },
+    "wPsaAw": {
+        "en": "[Mage Master]\nThere are pros and cons\nfor each weapon, but\nincreasing ^FF0000MATK^000000 is\nthe most important thing of all!\nWhichever weapon increases MATK the most\nis the one you should equip!",
+        "pt": "[Charles]\nCada arma tem seu ponto forte...\nMas o mais importante é \nprestar atenção em seu ataque mágico.\nQuanto mais forte forem\nsuas magias, mais eficiente\na Adaga ou Cajado se tornará!",
+        "es": "[Charles]\nCada arma tiene sus fortalezas…\nPero lo más importante es \nprestar atención a tu ataque mágico.\nCuanto más fuertes sean\ntus hechizos, ¡más eficaces\nserán la daga o el báculo!"
+    },
+    "wfsaAw": {
+        "en": "[Mage Master]\nAlso, ^0000FFINT^000000, ^0000FFDEX^000000,\nand ^8B4513Floating Casting Time^000000 reduction\nare also found on weapons.\nAnd items with such stats\nwill be useful.",
+        "pt": "[Charles]\nConsidere também atributos, como ^0000CDDES e INT^000000.\nIsso pode influenciar diretamente na arma e\ntorná-la mais forte ou fraca...",
+        "es": "[Charles]\nConsidera también las estadísticas, como ^0000FFDES e INT^000000.\nEsto puede influir directamente en el arma y\nhacerla más fuerte o más débil…"
+    },
+    "wvsaAw": {
+        "en": "[Mage Master]\nThat's all for\nMage weapons.\nWhat else would you like to know?",
+        "pt": "[Charles]\nTenho certeza de que se acostumará.\ncom as armas diponíveis para Magos.\nQuer saber de algo mais?",
+        "es": "[Charles]\nSeguro que te acostumbrarás\na las armas disponibles para los Magos.\n¿Quieres saber algo más?"
+    },
+    "w/saAw": {
+        "en": "[Mage Master]\nIt's fairly easy\nfor a Mage to become stronger!",
+        "pt": "[Charles]\nO caminho dos Magos\né simples e direto!",
+        "es": "[Charles]\n¡El camino de los Magos\nes simple y sencillo!"
+    },
+    "xPsaAw": {
+        "en": "[Mage Master]\nGo out,\nand use your ^8B4513fancy skills^000000\nto defeat monsters!\nAnd achieve victory!",
+        "pt": "[Charles]\nVá até a batalha...\nUse poderosas magias...\nAcerte as criaturas e inimigos...\nVença no final!",
+        "es": "[Charles]\nLánzate a la batalla…\nUsa hechizos poderosos…\nGolpea a las criaturas y a los enemigos…\nFinalmente, ¡sal victorioso!"
+    },
+    "xfsaAw": {
+        "en": "[Mage Master]\nI think you still have\nno idea what to do\nas a Mage.\nLet me give you a mission.\nAre you interested?",
+        "pt": "[Charles]\nMe parece que você.\nnão está sabendo bem o que fazer...\nEntão, acho que o Charles aqui\nvai te dar uma missão especial!\nTens o que é necessário para aceitar?",
+        "es": "[Charles]\nParece que\nno sabes qué hacer…\n¡Así que creo que aquí Charles\nte va a dar una misión especial!\n¿Tienes lo necesario para aceptarla?"
+    },
+    "xvsaAw": {
+        "en": "Let's do it!",
+        "pt": "Tenho! Quer dizer... Aceito!",
+        "es": "¡Sí! Es decir… ¡Acepto!"
+    },
+    "x/saAw": {
+        "en": "Not interested.",
+        "pt": "Tenho nada...",
+        "es": "No tengo nada…"
+    },
+    "yPsaAw": {
+        "en": "[Mage Master]\nAll right. Let's go for it\nIf you head out in the ^8B45133 o' clock^000000 direction from Geffen,\nyou'll see monsters called ^FF0000Chonchon^000000,\nand ^FF0000Fabre^000000\nwandering about!",
+        "pt": "[Charles]\nVou te explicar tudinho então!\nSe sair de Geffen, vai poder encontrar\nalguns ^FF0000ChonChon^000000 e\nalguns ^FF0000Fabre^000000.",
+        "es": "[Charles]\n¡Entonces te lo explicaré todo!\nSi sales de Geffen, encontrarás\nalgunos ^FF0000Chonchon^000000 y\nalgunos ^FF0000Fabre^000000."
+    },
+    "yfsaAw": {
+        "en": "[Mage Master]\nDefeat 30 ^FF0000Chonchons^000000 and 30 ^FF0000Fabres^000000,\nand head out from the field,\nin the ^8B45135 o' clock direction^000000,\nuntil you see the <NAVI>^4D4DFF[Master Instructor]^000000<INFO>prt_fild00,36,123,</INFO></NAVI>!\nThey will be expecting you,\nand will assist you, in case you need help.",
+        "pt": "[Charles]\nDerrote 30 ^FF0000ChonChon^000000 e 30 ^FF0000Fabre^000000!\nDepois que terminar,\nUse a navegação: <NAVI>^3131FF[Instrutor dos Magos]^000000<INFO>prt_fild00,36,123,</INFO></NAVI>\nVai dar tudo certo!\nConfio em você!",
+        "es": "[Charles]\n¡Derrota a 30^FF0000Chonchon^000000 y a 30^FF0000Fabre^000000!\nCuando termines,\nusa el comando <NAVI>^4D4DFF[Maga popular]^000000<INFO>prt_fild00, 36, 123,</INFO></NAVI>\n¡Todo saldrá bien!\n¡Confío en ti!"
+    },
+    "yvsaAw": {
+        "en": "[Mage Master]\nAren't you interested in\ngetting stronger?",
+        "pt": "[Charles]\nNão quer ficar mais forte?\nBom, aí não posso fazer nada para ajudar!",
+        "es": "[Charles]\n¿No quieres volverte más fuerte?\nBueno, ¡no puedo hacer nada para ayudarte!"
+    },
+    "y/saAw": {
+        "en": "[Mage Master]\nAny more questions about Mages?\nWhat else would you like to know?",
+        "pt": "[Charles]\nHm... Magias!\nQuer saber de algo mais?",
+        "es": "[Charles]\nMm… ¡Hechizos!\n¿Quieres saber algo más?"
+    },
+    "zPsaAw": {
+        "en": "[Mage Master]\nIf you head out in the ^8B45133 o' clock^000000 direction from Geffen,\nyou'll see monsters called ^FF0000Chonchon^000000,\nand ^FF0000Fabre^000000\nwandering about!",
+        "pt": "[Charles]\nSe sair de Geffen, vai poder encontrar\nalguns ^FF0000ChonChon^000000 e\nalguns ^FF0000Fabre^000000.",
+        "es": "[Charles]\nSi sales de Geffen, encontrarás\nalgunos ^FF0000Chonchon^000000 y\nalgunos ^FF0000Fabre^000000."
+    },
+    "zfsaAw": {
+        "en": "[Mage Master]\nDefeat 30 ^FF0000Chonchons^000000 and 30 ^FF0000Fabres^000000,\nand head out from that field,\nin the ^8B45135 o' clock direction^000000,\nuntil you see the <NAVI>^4D4DFF[Master Instructor]^000000<INFO>prt_fild00,36,123,</INFO></NAVI>!\nThey will be expecting you,\nand will assist you, in case you need help.",
+        "pt": "[Charles]\nDerrote 30 ^FF0000ChonChon^000000 e 30 ^FF0000Fabre^000000!\nDepois que terminar,\nUse a navegação: <NAVI>^3131FF[Maga Descolada]^000000<INFO>prt_fild00,36,123,</INFO></NAVI>\nVai dar tudo certo!\nConfio em você!",
+        "es": "[Charles]\n¡Derrota a 30^FF0000Chonchon^000000 y a 30^FF0000Fabre^000000!\nCuando termines,\nusa el comando <NAVI>^4D4DFF[Maga popular]^000000<INFO>prt_fild00, 36, 123,</INFO></NAVI>\n¡Todo saldrá bien!\n¡Confío en ti!"
+    },
+    "zvsaAw": {
+        "en": "[Mage Master]\nHmm, have you lost your way\nduring your mission?\nI can send you to the\n<NAVI>^4D4DFF[Master Instructor]^000000<INFO>prt_fild00,36,123,</INFO></NAVI>, if you want.\nBy using the ^8B4513Warp^000000 spell.",
+        "pt": "[Charles]\nTalvez você tenha se perdido...\nEssas missões podem ser confusas, eu entendo.\nBom, nesse caso usarei minhas magias!\ne a navegação até <NAVI>^3131FF[Instrutor dos Magos]^000000<INFO>prt_fild00,36,123,</INFO></NAVI> \nVai ser rapidinho.",
+        "es": "[Charles]\nQuizá perdiste el rumbo…\nEstas misiones pueden ser confusas, lo entiendo.\nBueno, ¡en ese caso usaré mis hechizos!\nY el comando <NAVI>^4D4DFF[Maga popular]^000000<INFO>prt_fild00, 36, 123,</INFO></NAVI> \nSerá rápido."
+    },
+    "z/saAw": {
+        "en": "[Mage Master]\nTo prevent misuse of my spell,\nI will charge a small fee.\nJust ^006400500 zeny^000000.\nHow's that?\nDo you want me to send you to the instructor?",
+        "pt": "[Charles]\nPorém, infelizmente\nnão posso fazer isso de graça.\nO custo é de ^006400500 zeny^000000.\nEntão... Topa?\nPosso usar minhas magias?",
+        "es": "[Charles]\nLamentablemente,\nno puedo hacerlo gratis.\nEl costo es de ^006400500zeny^000000.\nAsí que… ¿Te animas?\n¿Puedo usar mis hechizos?"
+    },
+    "0PsaAw": {
+        "en": "Yes.",
+        "pt": "Não",
+        "es": "No."
+    },
+    "0fsaAw": {
+        "en": "No.",
+        "pt": "Sim",
+        "es": "Sí."
+    },
+    "0vsaAw": {
+        "en": "[Mage Master]\nYes, that's the spirit!\nIt's ideal to do things\non your own!",
+        "pt": "[Charles]\nSó porque eu estava empolgado...\nAcontece...\nBom, siga seu caminho.",
+        "es": "[Charles]\nEstaba emocionado…\nSucede…\nBueno, sigue tu camino."
+    },
+    "0/saAw": {
+        "en": "[Mage Master]\n^006400500 zeny^000000 can't be\nexpensive at all.\nThat's a relatively low price,\nconsidering the amount of time you can save.",
+        "pt": "[Charles]\nVocê não possui ^006400500 zeny^000000\nno momento?\nPor menos que isso\neu não faço!",
+        "es": "[Charles]\n¿No tienes ^006400500zeny^000000\nen este momento?\n¡Por menos que eso\nno lo haré!"
+    },
+    "1PsaAw": {
+        "en": "[Mage Master]\nGood luck\nwith your mission!\nSee you later.",
+        "pt": "[Charles]\nBoa sorte\ncom suas missões por aí.\nEspero te ver depois.",
+        "es": "[Charles]\nBuena suerte\ncon tus misiones ahí fuera.\nEspero verte más tarde."
+    },
+    "1fsaAw": {
+        "en": "[Mage Master]\nHmm, have you lost your way\nduring your mission?\nI can send you to the\n<NAVI>^4D4DFF[Master Instructor]^000000<INFO>mjolnir_09,48,246,</INFO></NAVI>, if you want.\nBy using the ^8B4513Warp^000000 spell.",
+        "pt": "[Charles]\nTalvez você tenha se perdido...\nEssas missões podem ser confusas, eu entendo.\nBom, nesse caso usarei minhas magias!\ne a navegação até <NAVI>^3131FF[Instrutor dos Magos]^000000<INFO>mjolnir_09,48,246,</INFO></NAVI> \nVai ser rapidinho.",
+        "es": "[Charles]\nQuizá perdiste el rumbo…\nEstas misiones pueden ser confusas, lo entiendo.\nBueno, ¡en ese caso usaré mis hechizos!\nY el comando: <NAVI>^4D4DFF[Maga popular]^000000<INFO>mjolnir_09, 48, 246,</INFO></NAVI>\nSerá rápido."
+    },
+    "1vsaAw": {
+        "en": "[Mage Master]\nTo prevent misuse of my spell,\nI will charge a small fee.\nJust ^0064001,000 zeny^000000.\nHow's that?\nWould you like me to send you to the instructor?",
+        "pt": "[Charles]\nPorém, infelizmente\nnão posso fazer isso de graça.\nO custo é de ^0064001000 zeny^000000.\nEntão... Topa?\nPosso usar minhas magias?",
+        "es": "[Charles]\nLamentablemente,\nno puedo hacerlo gratis.\nEl costo es de ^0064001000zeny^000000.\nAsí que… ¿Te animas?\n¿Puedo usar mis hechizos?"
+    },
+    "1/saAw": {
+        "en": "[Mage Master]\nYes, that's the spirit!\nIt's ideal to do things\nindependently!",
+        "pt": "[Charles]\nSim, esse é o espírito!\nÉ ideal para fazer as coisas\nde forma independente!",
+        "es": "[Charles]\nEstaba emocionado…\nSucede…\nBueno, sigue tu camino."
+    },
+    "2PsaAw": {
+        "en": "[Mage Master]\n^0064001,000 zeny^000000 can't be\nexpensive at all.\nThat's a relatively low price,\nconsidering the amount of time you can save.",
+        "pt": "[Charles]\nVocê não possui ^0064001000 zeny^000000\nno momento?\nPor menos que isso\neu não faço!",
+        "es": "[Charles]\n¿No tienes ^0064001000zeny^000000\nen este momento?\n¡Por menos que eso\nno lo haré!"
+    },
+    "2fsaAw": {
+        "en": "[Mage Master]\nHmm, have you lost your way\nduring your mission?\nI can send you to the\n<NAVI>^4D4DFF[Master Instructor]^000000<INFO>prt_fild05,285,378,</INFO></NAVI>, if you want.\nBy using the ^8B4513Warp^000000 spell.",
+        "pt": "[Charles]\nTalvez você tenha se perdido...\nEssas missões podem ser confusas, eu entendo.\nBom, nesse caso usarei minhas magias!\ne a navegação até <NAVI>^3131FF[Instrutor dos Magos]^000000<INFO>prt_fild05,285,378,</INFO></NAVI> \nVai ser rapidinho.",
+        "es": "[Charles]\nQuizá perdiste el rumbo…\nEstas misiones pueden ser confusas, lo entiendo.\nBueno, ¡en ese caso usaré mis hechizos!\nY el comando: <NAVI>^4D4DFF[Maga popular]^000000<INFO>prt_fild05, 285, 378,</INFO></NAVI> \nSerá rápido."
+    },
+    "2vsaAw": {
+        "en": "[Mage Master]\nTo prevent misuse of my spell,\nI will charge a small fee.\nJust ^0064001,500 zeny^000000.\nHow's that?\nWould you like me to send you to the instructor?",
+        "pt": "[Charles]\nPorém, infelizmente\nnão posso fazer isso de graça.\nO custo é de ^0064001500 zeny^000000.\nEntão... Topa?\nPosso usar minhas magias?",
+        "es": "[Charles]\nLamentablemente,\nno puedo hacerlo gratis.\nEl costo es de ^0064001500zeny^000000.\nAsí que… ¿Te animas?\n¿Puedo usar mis hechizos?"
+    },
+    "2/saAw": {
+        "en": "[Mage Master]\n^0064001,500 zeny^000000 can't be\nexpensive at all.\nThat's a relatively low price,\nconsidering the amount of time you can save.",
+        "pt": "[Charles]\nVocê não possui ^0064001500 zeny^000000\nno momento?\nPor menos que isso\neu não faço!",
+        "es": "[Charles]\n¿No tienes ^0064001500zeny^000000\nen este momento?\n¡Por menos que eso\nno lo haré!"
+    },
+    "3PsaAw": {
+        "en": "[Mage Master]\nYou seem\npowerful enough already.\nI don't think\nthere's anything left\nfor me to tell you.",
+        "pt": "[Charles]\nMe parece que você já é.\nforte o bastante...\nAcho que não posso\nte ensinar mais nada...\nEstou orgulhoso!",
+        "es": "[Charles]\nMe parece que ya eres\nlo suficientemente fuerte…\nNo creo que pueda\nenseñarte nada más…\n¡Estoy orgulloso!"
+    },
+    "3fsaAw": {
+        "en": "[Mage Master]\nYou want to know\nwhat Jobs are available for Mages?\n^0000FFWizard and Sage jobs^000000\nare available for us!\n^0000FFWizard^000000! ^0000FFSage^000000!\nWhich do you want to know more about?",
+        "pt": "[Charles]\nQuer saber sobre as\nevoluções da Classe de Mago?\nA Classe de Mago pode evoluir para ^0000CDBruxo e Sábio^000000.\nIsso mesmo, ^0000CDBruxo e Sábio^000000.\nQual quer conhecer primeiro?",
+        "es": "[Charles]\n¿Quieres conocer las\nevoluciones de la clase Mago?\nLa clase Mago puede evolucionar en ^0000FFBrujo y Sabio^000000.\nAsí es, ^0000FFBrujo y Sabio^000000.\n¿Cuál quieres conocer primero?"
+    },
+    "3vsaAw": {
+        "en": "Wizard",
+        "pt": "Bruxo",
+        "es": "Brujo."
+    },
+    "3/saAw": {
+        "en": "Sage",
+        "pt": "Sábio",
+        "es": "Sabio."
+    },
+    "4PsaAw": {
+        "en": "[Mage Master]\nWizard!\nI wish I could tell you in detail about Wizards,\nbut I am not too familiar with them.\nHahaha.",
+        "pt": "[Charles]\nHm... Bruxo...\nGostaria de poder falar melhor sobre Bruxos,\nmas não conheço tanto sobre a Classe.\nHahaha... Perdão.",
+        "es": "[Charles]\nMm… Brujo…\nMe gustaría poder hablar más sobre los Brujos,\npero no sé mucho sobre esa clase.\nJa, ja, ja… Lo siento."
+    },
+    "4fsaAw": {
+        "en": "[Mage Master]\nCan you see that fellow over there?\nThe<NAVI>^4D4DFF[Wizard Instructor]^000000<INFO>geffen_in,158,113,</INFO></NAVI>?\nPlease go and\ntalk to the guide!",
+        "pt": "[Charles]\nSe procurar por perto...\n<NAVI>^4D4DFF[Instrutor dos Bruxos]^000000<INFO>geffen_in,158,113,</INFO></NAVI> \nVai encontrar o que quer,\ntenho certeza!",
+        "es": "[Charles]\nSi observas a tu alrededor…\n<NAVI>^4D4DFF[Instr. de los Brujos]^000000<INFO>geffen_in, 158, 113,</INFO></NAVI> \nEncontrarás lo que buscas,\n¡estoy seguro!"
+    },
+    "4vsaAw": {
+        "en": "[Mage Master]\nSage!\nI wish I could tell you in detail about Sages,\nbut I am not too familiar with them.\nHahaha.",
+        "pt": "[Charles]\nHm... Sábio...\nGostaria de poder falar melhor sobre Sábios,\nmas não conheço tanto sobre a Classe.\nHahaha... Perdão.",
+        "es": "[Charles]\nMm… Sabio…\nMe gustaría poder hablar más sobre los Sabios,\npero no sé mucho sobre esa clase.\nJa, ja, ja… Lo siento."
+    },
+    "4/saAw": {
+        "en": "[Mage Master]\nCan you see that fellow over there?\nThe <NAVI>^4D4DFF[Sage Instructor]^000000<INFO>geffen_in,158,110,</INFO></NAVI>?\nPlease go and\ntalk to the guide!",
+        "pt": "[Charles]\nSe procurar por perto...\n<NAVI>^4D4DFF[Instrutor dos Sábios]^000000<INFO>geffen_in,158,110,</INFO></NAVI> \nVai encontrar o que quer,\ntenho certeza!",
+        "es": "[Charles]\nSi observas a tu alrededor…\n<NAVI>^4D4DFF[Instr. de los Sabios]^000000<INFO>geffen_in, 158, 110,</INFO></NAVI> \nEncontrarás lo que buscas,\n¡estoy seguro!"
+    },
+    "5PsaAw": {
+        "en": "[Mage Master]\nThat's all for \nthe 2nd Job Change\nEasy, right?\nWhat else would you like to know?",
+        "pt": "[Charles]\nAcho que não terá.\nproblemas com as evoluções\nda classe de Mago.\nQuer saber de algo mais?",
+        "es": "[Charles]\nCreo que no tendrás\nproblemas con las evoluciones\nde la clase Mago.\n¿Quieres saber algo más?"
+    },
+    "5fsaAw": {
+        "en": "[Mage Master]\nHm, interested in ^8B4513Mage combat^000000\nnow, are you?\nThe best way to learn about ^8B4513Mage combat^000000\nwould be to go out\nand fight against monsters!\nBut...",
+        "pt": "[Charles]\nQuer conhecer mais sobre as táticas de batalha dos Magos?\nBom, não há muito segredo nisso.\nÉ só ir até a batalha e\nacertar as criaturas e inimigos...\nContudo...",
+        "es": "[Charles]\n¿Quieres saber más sobre las tácticas de combate de los Magos?\nBueno, no hay mucho misterio al respecto.\nSolo tienes que ir a la batalla y\ngolpear a las criaturas y a los enemigos…\nSin embargo…"
+    },
+    "5vsaAw": {
+        "en": "[Mage Master]\nThere's another way to\nexperience real combat,\nfor Novices like you!\nUse the ^FF0000dummies^000000\nto practice fighting,\nand develop a better idea where your capabilities lie!",
+        "pt": "[Charles]\nExiste uma maneira de testar táticas\ne aperfeiçoar as próprias técnicas de batalha.\nUse o ^FF0000Boneco de Treino^000000 e\nexperimente o combate\nde uma forma diferente.",
+        "es": "[Charles]\nHay una forma de probar tácticas\ny perfeccionar tus propias técnicas de combate.\nUsa el ^FF0000Maniquí de entrenamiento^000000 y\nexperimenta el combate\nde una forma diferente."
+    },
+    "5/saAw": {
+        "en": "[Mage Master]\n^FF0000Dummies^000000\nwill just be standing in place,\nbut they make excellent targets for\nthe various ^8B4513attacks^000000 and ^8B4513skills^000000\nthat a Mage has\nat their disposal.",
+        "pt": "[Charles]\nO ^FF0000Boneco de Treino^000000,\nfica paradinho enquanto você pratica.\nÉ uma ótima forma de testar\ndiversos Ataques e Habilidades.",
+        "es": "[Charles]\nEl ^FF0000Maniquí de entrenamiento^000000\npermanece en su sitio mientras practicas.\nEs una forma estupenda de probar\ndiferentes ataques y habilidades."
+    },
+    "6PsaAw": {
+        "en": "[Mage Master]\nIf you want to experience\ncombat practice with dummies,\n^8B4513Izlude's^000000 ^8B4513Criatura ^000000\n^8B4513Academy^000000 would be a good place to visit!\nWell, the best choice would be\nheading out to a field right away!",
+        "pt": "[Charles]\nSe quiser usar um Boneco de Treino\npara praticar suas Habilidades de Mago,\ndeverá ir até Izlude, na ^FF5555Academia Criatura^000000.\nA aventura até lá vai\nrenovar seus ânimos!",
+        "es": "[Charles]\nSi quieres usar un Maniquí de entrenamiento\npara practicar tus habilidades de Mago,\ntendrás que ir a Izlude, a la ^8B4513Academia de criaturas^000000.\n¡La aventura que te espera\nrenovará tu espíritu!"
+    },
+    "6fsaAw": {
+        "en": "[Mage Master]\nThat's all for \nexperiencing combat.\nEasy, right?\nWhat else would you like to know?",
+        "pt": "[Charles]\nAcho que não terá.\nnenhum problema com as táticas de batalha\ndos Magos.\nQuer saber de algo mais?",
+        "es": "[Charles]\nCreo que no tendrás\nningún problema con las tácticas de combate\nen la práctica~.\n¿Quieres saber algo más?"
+    },
+    "6vsaAw": {
+        "en": "[Mage Master]\nCome talk to me\nif you have any other questions!",
+        "pt": "[Charles]\nSe tiver mais alguma pergunta,\nvenha me ver novamente!",
+        "es": "[Charles]\nSi tienes más preguntas,\n¡ven a verme de nuevo!"
+    },
+    "6/saAw": {
+        "en": "[Mage Master]\nYour bag looks\nextremely heavy.\nReorganize your bag\nand talk to me again.",
+        "pt": "[Charles]\nVocê parece estar\ncom peso nas costas...\nEsvazie esse inventário\ne fale comigo novamente.",
+        "es": "[Charles]\nParece que\ncargas mucho peso…\nVacía tu inventario\ny vuelve a hablarme."
+    },
+    "7PsaAw": {
+        "en": "[Mage Master]\nI don't have time to waste\nanswering questions from\nthose who are not on our path!",
+        "pt": "[Charles]\nNão tenho tempo para\naqueles que não são\nverdadeiros Magos!",
+        "es": "[Charles]\n¡No tengo tiempo para\nlos que no son\nverdaderos Magos!"
+    },
+    "7fsaAw": {
+        "en": "[Mage Master]\nHello there!\nI'm here to help\nNovice Magicians\non their magical journey!\nThe ^FF0000Mage Master^000000!\nThat's me!",
+        "pt": "[Charles]\nMagias!\nSou tipo um Mestre dos Magos por aqui!\nTenho total capacidade de ajudar\ne guiar Magos que estão começando.\nAinda mais após a primeira\ntroca de Classe.",
+        "es": "[Charles]\n¡Hechizos!\n¡Soy como un maestro para los Magos por aquí!\nSoy totalmente capaz de ayudar\ny guiar a los Magos que recién están empezando.\nMás aún después del primer\ncambio de clase."
+    },
+    "7vsaAw": {
+        "en": "[Mage Master]\n^FF0000DEX stands for dexterity^000000!\nDexterity means speed!\nFor Mages, our ^8B4513casting speed^000000\nis directly related to DEX!",
+        "pt": "[Charles]\n^FF0000DES é destreza^000000.\nDES quer dizer agilidade, basicamente.\nPara um Mago, isso influencia\n^8B4513a velocidade de conjuração^000000 das magias.",
+        "es": "[Charles]\n^FF0000DES es Destreza ^000000.\nDES significa básicamente agilidad.\nPara un Mago, esto influye en\n^8B4513la velocidad de lanzamiento^000000 de los hechizos."
+    },
+    "7/saAw": {
+        "en": "[Mage Master]\nThat's all for\nMage stats.\nWhat else would you like to know?",
+        "pt": "[Charles]\nNão terá nenhuma dificuldade\ncom seus atributos!\nQuer saber de algo mais?",
+        "es": "[Charles]\n¡No tendrás ningún problema\ncon tus estadísticas!\n¿Quieres saber algo más?"
+    },
+    "8PsaAw": {
+        "en": "[Mage Master]\nYour skills possess attributes,\nand based on the ^FF0000relations between attributes^000000,\nyour skills can inflict massive damage\nor cause no damage at all!",
+        "pt": "[Charles]\nDependendo da\n^FF0000relação entre as Propriedades^000000,\no dano das Habilidades\npode variar muito.",
+        "es": "[Charles]\nEn función de la\n^FF0000relación entre las propiedades^000000,\nel daño de las habilidades\npuede variar mucho."
+    },
+    "8fsaAw": {
+        "en": "[Mage Master]\nYou will be able to defeat any adversary\nif you develop a good understanding of the attributes\nand deploy them properly in the battle.\nMaximize your combat efficiency!",
+        "pt": "[Charles]\nSe conseguir utilizar todas essas dicas,\nnão terá problemas em nenhum encontro\ncom monstros e outras criaturas.\nVocê vai ser imbatível!",
+        "es": "[Charles]\nSi logras poner en práctica todos estos consejos,\nno tendrás problemas en ningún combate\ncontra monstruos y otras criaturas.\n¡Serás imbatible!"
+    },
+    "8vsaAw": {
+        "en": "[Mage Master]\nThere are pros and cons\nfor each weapon, but\nincreasing ^FF0000MATK^000000 is\nthe most important thing of all!\nWhichever weapon maximizes MATK\nis the one you should equip!",
+        "pt": "[Charles]\nCada arma tem seu ponto forte...\nMas o mais importante é \nprestar atenção em seu ataque mágico.\nQuanto mais forte forem\nsuas magias, mais eficiente\na Adaga ou Cajado se tornará!",
+        "es": "[Charles]\nCada arma tiene sus fortalezas…\nPero lo más importante es \nprestar atención a tu ataque mágico.\nCuanto más fuertes sean\ntus hechizos, ¡más eficaces\nserán la daga o el báculo!"
+    },
+    "8/saAw": {
+        "en": "[Mage Master]\nWouldn't you want to\nget stronger?",
+        "pt": "[Charles]\nVocê não gostaria de\nficar mais forte?",
+        "es": "[Charles]\n¿No quieres volverte más fuerte?\nBueno, ¡no puedo hacer nada para ayudarte!"
+    },
+    "9PsaAw": {
+        "en": "[Mage Master]\nTo prevent misuse of my spell,\nI will charge a small fee.\nJust ^006400500 zeny^000000.\nHow's that?\nWould you like me to send you to the instructor?",
+        "pt": "[Charles]\nPorém, infelizmente\nnão posso fazer isso de graça.\nO custo é de ^006400500 zeny^000000.\nEntão... Topa?\nPosso usar minhas magias?",
+        "es": "[Charles]\nLamentablemente,\nno puedo hacerlo gratis.\nEl costo es de ^006400500zeny^000000.\nAsí que… ¿Te animas?\n¿Puedo usar mis hechizos?"
+    },
+    "9fsaAw": {
+        "en": "[Mage Master]\nYou want to know\nwhat Jobs are available for Mages?\n^0000FFWizard and Sage jobs^000000\nare suitable for us!\n^0000FFWizard^000000! ^0000FFSage^000000!\nWhich of these do you want to know more about?",
+        "pt": "[Charles]\nQuer saber sobre as\nevoluções da Classe de Mago?\nA Classe de Mago pode evoluir para ^0000CDBruxo e Sábio^000000.\nIsso mesmo, ^0000CDBruxo e Sábio^000000.\nQual quer conhecer primeiro?",
+        "es": "[Charles]\n¿Quieres conocer las\nevoluciones de la clase Mago?\nLa clase Mago puede evolucionar en ^0000FFBrujo y Sabio^000000.\nAsí es, ^0000FFBrujo y Sabio^000000.\n¿Cuál quieres conocer primero?"
+    },
+    "9vsaAw": {
+        "en": "[Mage Master]\nCan you see that fellow over there?\nThe<NAVI>^4D4DFF[Wizard Instructor]^000000<INFO>geffen_in,158,113,</INFO></NAVI>?\nPlease go and\nand talk to the guide!",
+        "pt": "[Charles]\nTalvez você tenha se perdido...\nEssas missões podem ser confusas, eu entendo.\nBom, nesse caso usarei minhas magias!\ne a navegação até <NAVI>^4D4DFF[Maga Descolada]^000000<INFO>prt_fild00,36,123,</INFO></NAVI> \nVai ser rapidinho.",
+        "es": "[Charles]\nSi observas a tu alrededor…\n<NAVI>^4D4DFF[Instr. de los Brujos]^000000<INFO>geffen_in, 158, 113,</INFO></NAVI> \nEncontrarás lo que buscas,\n¡estoy seguro!"
+    },
+    "9/saAw": {
+        "en": "[Mage Master]\nCan you see that fellow over there?\nThe <NAVI>^4D4DFF[Sage Instructor]^000000<INFO>geffen_in,158,110,</INFO></NAVI>?\nPlease go and\nand talk to the guide!",
+        "pt": "[Charles]\nTalvez você tenha se perdido...\nEssas missões podem ser confusas, eu entendo.\nBom, nesse caso usarei minhas magias!\ne a navegação até <NAVI>^4D4DFF[Maga Descolada]^000000<INFO>mjolnir_09,48,246,</INFO></NAVI>\nVai ser rapidinho.",
+        "es": "[Charles]\nSi observas a tu alrededor…\n<NAVI>^4D4DFF[Instr. de los Sabios]^000000<INFO>geffen_in, 158, 110,</INFO></NAVI> \nEncontrarás lo que buscas,\n¡estoy seguro!"
+    },
+    "+PsaAw": {
+        "en": "[Mage Master]\nHm, interested in ^8B4513Mage combat^000000\nnow, are you?\nThe best way to learn about ^8B4513Mage combat^000000\nwould be to go out\nand fight against actual monsters!\nBut...",
+        "pt": "[Charles]\nQuer conhecer mais sobre as táticas de batalha dos Magos?\nBom, não há muito segredo nisso.\nÉ só ir até a batalha e\nacertar as criaturas e inimigos...\nContudo...",
+        "es": "[Charles]\n¿Quieres saber más sobre las tácticas de combate de los Magos?\nBueno, no hay mucho misterio al respecto.\nSolo tienes que ir a la batalla y\ngolpear a las criaturas y a los enemigos…\nSin embargo…"
+    },
+    "+fsaAw": {
+        "en": "[Mage Master]\nThere's another way to\ngain experience in real combat,\nfor Novices like you!\nUse the ^FF0000dummies^000000\nto practice fighting,\nand develop a better idea where your capabilities lie!",
+        "pt": "[Charles]\nQuer conhecer mais sobre as táticas de batalha dos Magos??\nBom, não há muito segredo nisso.\nÉ só ir até a batalha e\nacertar as criaturas e inimigos...\nContudo...",
+        "es": "[Charles]\nHay una forma de probar tácticas\ny perfeccionar tus propias técnicas de combate.\nUsa el ^FF0000Maniquí de entrenamiento^000000 y\nexperimenta el combate\nde una forma diferente."
+    },
+    "+vsaAw": {
+        "en": "[Mage Master]\nIf you wish to experience\ncombat practice with dummies,\n^8B4513Izlude's^000000 ^8B4513Criatura ^000000\n^8B4513Academy^000000 would be a good place to visit!\nWell, the best choice of course would be\nto head out to a field right away!",
+        "pt": "[Charles]\nSe quiser usar um Boneco de Treino\npara praticar suas Habilidades de Mago,\ndeverá ir até Izlude, na ^FF5555Academia Criatura^000000.\nA aventura até lá vai\nrenovar seus ânimos!",
+        "es": "[Charles]\nSi quieres usar un Maniquí de entrenamiento\npara practicar tus habilidades de Mago,\ntendrás que ir a Izlude, a la ^8B4513Academia de criaturas^000000.\n¡La aventura que te espera\nrenovará tu espíritu!"
+    },
+    "+/saAw": {
+        "en": "Wizard Instructor",
+        "pt": "Instrutor dos Bruxos",
+        "es": "Instr. de los Brujos"
+    },
+    "/PsaAw": {
+        "en": "[Wizard Instructor]\nIf you are a Mage,\nyou will, eventually,\nhave to make a choice.\n^0000FFWizards^000000 are the ones\nwho search for ^8B4513raw power^000000\nin a form that is appropriate for magic wielders.",
+        "pt": "[Instrutor dos Bruxos]\nSe está seguindo o caminho dos Magos,\nterá de fazer uma escolha...\nPense muito bem...\n^0000CDBruxo^000000 é sem dúvidas\na melhor escolha para se ter poder!",
+        "es": "[Instr. de los Brujos]\nSi sigues el camino de los Magos,\ntendrás que tomar una decisión…\nPiénsalo muy bien…\n¡^0000FFBrujo^000000 es sin duda\nla mejor opción para tener poder!"
+    },
+    "/fsaAw": {
+        "en": "[Wizard Instructor]\nWhat do you want to know?",
+        "pt": "[Instrutor dos Bruxos]\nO que gostaria de saber?",
+        "es": "[Instr. de los Brujos]\n¿Qué te gustaría saber?"
+    },
+    "/vsaAw": {
+        "en": "About ^8B4513Wizards^000000",
+        "pt": "^8B4513Bruxo^000000?",
+        "es": "¿^8B4513Brujo^000000?"
+    },
+    "//saAw": {
+        "en": "Wizard ^8B4513skills^000000",
+        "pt": "^8B4513Habilidades do Bruxo^000000",
+        "es": "^8B4513Habilidades de Brujo.^000000"
+    },
+    "APwaAw": {
+        "en": "How to ^8B4513become a Wizard^000000",
+        "pt": "^8B4513Trocando para a Classe de Bruxo^000000",
+        "es": "^8B4513Cambio a la clase Brujo.^000000"
+    },
+    "AfwaAw": {
+        "en": "[Wizard Instructor]\n^0000FFWizards^000000 are similar to\nMages, in fact.\nAlthough their ^8B4513HP^000000 is low,\nwith their ^8B4513powerful attribute spells^000000,\nthey make formidable damage dealers.",
+        "pt": "[Instrutor dos Bruxos]\nSer um ^0000FFBruxo^000000\nnão é tão diferente de ser um Mago.\nBruxos têm pouco HP, mas\npossuem atributos mágicos muito elevados!",
+        "es": "[Instr. de los Brujos]\nSer un ^0000FFBrujo^000000\nno es tan diferente de ser un Mago.\n¡Los Brujos tienen pocos HP, pero\nestadísticas mágicas muy altas!"
+    },
+    "AvwaAw": {
+        "en": "[Wizard Instructor]\nThey possess a variety of powerful\nattack spells, which are much stronger than those held by their Magician counterparts,\nand they specialize in\n^FF0000Area of Effect attack^000000 spells,\nthat deal damage to multiple enemies at once.",
+        "pt": "[Instrutor dos Bruxos]\nA vantagem é a capacidade do Bruxo\nde utilizar magias mais potentes!\nMas é importante saber que\nos Bruxos são especialistas em ataques à distância.",
+        "es": "[Instr. de los Brujos]\n¡La ventaja es que el Brujo puede\nusar hechizos más potentes!\nPero es importante saber que\nlos Brujos se especializan en los ataques a distancia."
+    },
+    "A/waAw": {
+        "en": "[Wizard Instructor]\nWith these spells,\nyou can ^8B4513solo^000000 take on monsters\n^8B4513one by one with remarkable speed^000000,\nor",
+        "pt": "[Instrutor dos Bruxos]\nA principal estratégia é \nderrotar um monstro de cada vez,\nusando magias e mantendo\nsempre a distância.",
+        "es": "[Instr. de los Brujos]\nLa estrategia principal consiste en \nderrotar a un monstruo a la vez\nmediante hechizos y manteniendo\nsiempre la distancia."
+    },
+    "BPwaAw": {
+        "en": "[Wizard Instructor]\nuse your Area of Effect Spells\nand join up with a ^8B4513team^000000,\nincreasing your ^8B4513hunting efficiency^000000.\nThe choice is yours.",
+        "pt": "[Instrutor dos Bruxos]\nUma outra opção é planejar cada ataque,\nmisturando magias à distância com\nHabilidades poderosas!",
+        "es": "[Instr. de los Brujos]\nOtra opción es planificar cada ataque,\n¡mezclando hechizos a distancia con\npoderosas habilidades!"
+    },
+    "BfwaAw": {
+        "en": "[Wizard Instructor]\nDoes the ^8B4513raw power^000000\nof the Wizard's path\nappeal to you, Adventurer?",
+        "pt": "[Instrutor dos Bruxos]\nVocê irá optar por poder e se tornar um Bruxo, né?",
+        "es": "[Instr. de los Brujos]\nVas a elegir el poder y convertirte en Brujo, ¿verdad?"
+    },
+    "BvwaAw": {
+        "en": "[Wizard Instructor]\nIf you have any further questions\nabout Wizards,\nI will be happy to answer them.",
+        "pt": "[Instrutor dos Bruxos]\nSe tiver mais perguntas,\nsobre os Bruxos,\nquestione sem hesitar!",
+        "es": "[Instr. de los Brujos]\nSi tienes más preguntas\nsobre los Brujos,\n¡pregunta con confianza!"
+    },
+    "B/waAw": {
+        "en": "[Wizard Instructor]\nWizards' spell attributes are similar to\nthose of Mages.\nThose would be\n^8B4513''Water, Wind, Earth, Fire, and Ghost''^000000\nThose five attributes!",
+        "pt": "[Instrutor dos Bruxos]\nHabilidades dos Bruxos?\nSão parecidas com as dos Magos...\nO foco é nas propriedades ^8B4513Água, Vento, Terra, Fogo e Fantasma^000000.\nCinco caminhos para o sucesso!",
+        "es": "[Instr. de los Brujos]\n¿Cuáles son las habilidades de los Brujos?\nSon similares a las de los Magos…\nSe centran en las propiedades ^8B4513Agua, Viento, Tierra, Fuego y Fantasma^000000.\n¡Cinco caminos hacia el éxito!"
+    },
+    "CPwaAw": {
+        "en": "[Wizard Instructor]\nIt would be better for you to experience them firsthand\nrather than just listening to what I say.\nI will show you the ^FF0000major skills^000000\nof Wizards.",
+        "pt": "[Instrutor dos Bruxos]\nE, mesmo que eu te falar com detalhes,\nnão há nada como experimentar.\nMostrarei a você as melhores\nHabilidades de um Bruxo!",
+        "es": "[Instr. de los Brujos]\nY aunque te lo explique detalladamente,\nno hay nada como probarlo.\n¡Te enseñaré las mejores\nhabilidades del Brujo!"
+    },
+    "CfwaAw": {
+        "en": "^8B4513Storm Gust^000000",
+        "pt": "^8B4513Nevasca^000000",
+        "es": "^8B4513Nevasca^000000."
+    },
+    "CvwaAw": {
+        "en": "^8B4513Lord of Vermilion^000000",
+        "pt": "^8B4513Ira de Thor^000000",
+        "es": "^8B4513Ira de Thor^000000."
+    },
+    "C/waAw": {
+        "en": "^8B4513Meteor Storm^000000",
+        "pt": "^8B4513Chuva de Meteoros^000000",
+        "es": "^8B4513Tormenta de meteoros^000000."
+    },
+    "DPwaAw": {
+        "en": "[Wizard Instructor]\nThis ability allows you to\nfreeze the ^8B4513vapor^000000 in the air,\ncreating a powerful ^8B4513whirlwind^000000\nsimultaneously.\nYou must also lean an^FF0000incantation^000000...",
+        "pt": "[Instrutor dos Bruxos]\nPrimeiro, concentre-se e\ncongele as partículas no ar...\nAo mesmo tempo, foque suas forças mágicas\ne faça os inimigos provarem o poder do gelo!",
+        "es": "[Instr. de los Brujos]\nPrimero, concéntrate y\ncongela las partículas en el aire…\nA la vez, ¡concentra tus fuerzas mágicas\ny haz que tus enemigos prueben el poder del hielo!"
+    },
+    "DfwaAw": {
+        "en": "[Wizard Instructor]\n^8B4513Soul-freezing wind^000000...\n^8B4513frigid storm that^000000\n^8B4513extinguishes the sun^000000...\n^8B4513shatter those^000000\n^FF0000who stand before me^000000.",
+        "pt": "[Instrutor dos Bruxos]\nVentos congelando a alma...\nAté mesmo o Sol...\nTempestade congelante...\nTudo se torna frio...\nQuebrando em pedaços...",
+        "es": "[Instr. de los Brujos]\nVientos que hielan el alma…\nIncluso el sol…\nTormenta helada…\nTodo se enfría…\nY se rompe en pedazos…"
+    },
+    "DvwaAw": {
+        "en": "[Wizard Instructor]\n^FF0000Storm Gust!^000000",
+        "pt": "[Instrutor dos Bruxos]\n^FF0000Nevasca^000000!",
+        "es": "[Instr. de los Brujos]\n¡^FF0000Nevasca^000000!"
+    },
+    "D/waAw": {
+        "en": "[Wizard Instructor]\nPhew!\nThis is the power of ^FF0000Storm Gust^000000.\nPretty cool, isn't it?",
+        "pt": "[Instrutor dos Bruxos]\nEita...\nViu o poder da ^FF0000Nevasca^000000?",
+        "es": "[Instr. de los Brujos]\nVaya…\n¿Viste el poder de la ^FF0000Nevasca^000000?"
+    },
+    "EPwaAw": {
+        "en": "[Wizard Instructor]\nBy communicating with ^8B4513The Lord of Fire^000000,\nTalking with it... Speaking with it...\nYou must ^8B4513pray^000000 to be granted with its power,\nand look to the sky.\nAsk for its ^8B4513fiery strength^000000\nin the form of an ^FF0000incantation^000000.",
+        "pt": "[Instrutor dos Bruxos]\nChame os trovões...\nInvoque os raios das nuvens mais densas...\nNão se limite ao poder de um mortal...\nClame aos céus...\nSinta a força chegando...",
+        "es": "[Instr. de los Brujos]\nInvoca los truenos…\nInvoca relámpagos de las nubes más densas…\nNo te limites al poder de un mortal…\nClama al cielo…\nSiente cómo fluye la energía…"
+    },
+    "EfwaAw": {
+        "en": "[Wizard Instructor]\n^8B4513Soul-burning flame^000000...\n^8B4513Hear me, oh Lord of Fire^000000\n^8B4513who vaporizes even the impenetrable ice^000000...\n^8B4513Burn all^000000\n^FF0000who stand before me^000000...",
+        "pt": "[Instrutor dos Bruxos]\nEletricidade pelo corpo...\nClarão iminente...\nThor, sei que me ouve...\nDesejo sua bênção...\nPara essa magia realizar...",
+        "es": "[Instr. de los Brujos]\nLa electricidad a través del cuerpo…\nDestello inminente…\nThor, sé que puedes oírme…\nQuiero tu bendición…\nPara que este hechizo se haga realidad…"
+    },
+    "EvwaAw": {
+        "en": "[Wizard Instructor]\n^FF0000Lord of Vermilion!^000000",
+        "pt": "[Instrutor dos Bruxos]\n^FF0000Ira de Thor^000000!",
+        "es": "[Instr. de los Brujos]\n¡^FF0000Ira de Thor^000000!"
+    },
+    "E/waAw": {
+        "en": "[Wizard Instructor]\nPhew!\nThis is the power of^FF0000the Lord of Vermilion^000000.\nPretty amazing, isn't it?",
+        "pt": "[Instrutor dos Bruxos]\nEita...\nViu o poder da ^FF0000Ira de Thor^000000?",
+        "es": "[Instr. de los Brujos]\nVaya…\n¿Viste el poder de la ^FF0000Ira de Thor^000000?"
+    },
+    "FPwaAw": {
+        "en": "[Wizard Instructor]\nFirst, you must communicate with the ^8B4513spirits of the universe^000000.\nIn the ^8B4513pitch black^000000 of space,\nin the infinite dark,\nwalking along a never-ending path...\nThe ^8B4513ancient wanderers^000000 are summoned\nin the form of an ^FF0000incantation^000000.",
+        "pt": "[Instrutor dos Bruxos]\nPelos poderes do universo...\nE de seus segredos escondidos...\nPela dúvida da existência...\nE do cosmos expandido...\nA vasta imensão...\nFinalmente a sinto...",
+        "es": "[Instr. de los Brujos]\nPor los poderes del universo…\nY de sus secretos escondidos…\nPor la duda de la existencia…\nY del cosmos expandido…\nLa vasta inmensidad…\nFinalmente la estoy sintiendo…"
+    },
+    "FfwaAw": {
+        "en": "[Wizard Instructor]\n^8B4513Meteor of the abyss^000000...\n^8B4513Wave that distorts^000000\n^8B4513the blackness of space^000000...\n^8B4513Obliterate those^000000\n^FF0000who stand before me^000000.",
+        "pt": "[Instrutor dos Bruxos]\nLibere sua energia...\nE a dos povos que virão...\nEstremeça a terra...\nE todos que lhe disserem não...\nEsse é o seu poder!",
+        "es": "[Instr. de los Brujos]\nLibera tu energía…\nY la de los pueblos que están viniendo…\nSacude la tierra…\nY a cualquiera que se esté resistiendo…\n¡Ese es tu poder!"
+    },
+    "FvwaAw": {
+        "en": "[Wizard Instructor]\n^FF0000Meteor Storm^000000!",
+        "pt": "[Instrutor dos Bruxos]\n^FF0000Chuva de Meteoros^000000!",
+        "es": "[Instr. de los Brujos]\n¡^FF0000Tormenta de meteoros^000000!"
+    },
+    "F/waAw": {
+        "en": "[Wizard Instructor]\nBehold! ^FF0000Meteor Storm^000000!",
+        "pt": "[Instrutor dos Bruxos]\nTestemunhe! ^FF0000Chuva de Meteoros^000000!",
+        "es": "[Instr. de los Brujos]\n¡^FF0000Tormenta de meteoros^000000!"
+    },
+    "GPwaAw": {
+        "en": "[Wizard Instructor]\nPhew!\nThat's the power of ^FF0000Meteor Storm^000000.\nPretty amazing, isn't it?",
+        "pt": "[Instrutor dos Bruxos]\nEita...\nViu o poder da ^FF0000Chuva de Meteoros^000000?",
+        "es": "[Instr. de los Brujos]\nVaya…\n¿Viste el poder de la ^FF0000Tormenta de meteoros^000000?"
+    },
+    "GfwaAw": {
+        "en": "[Wizard Instructor]\nDo the wonders\nof the Wizard's path\nappeal to you, Adventurer?",
+        "pt": "[Instrutor dos Bruxos]\nVai me dizer que,\ndepois dessa demonstração,\nnão vai seguir o caminho dos Bruxos?",
+        "es": "[Instr. de los Brujos]\nMe vas a decir que,\ndespués de esta demostración,\n¿no vas a seguir el camino de los Brujos?"
+    },
+    "GvwaAw": {
+        "en": "[Wizard Instructor]\nIf you want to become a ^8B4513Wizard^000000,\nyou must first understand\nthe prerequisites for the Job Change!",
+        "pt": "[Instrutor dos Bruxos]\nPara se tornar um Bruxo, você precisa\nsaber sobre as\ncondições primeiro!",
+        "es": "[Instr. de los Brujos]\nPara convertirte en Brujo, ¡primero\ntienes que conocer\nlas condiciones!"
+    },
+    "G/waAw": {
+        "en": "[Wizard Instructor]\nYou have to be at least\n^8B4513Job Level 40^000000.\nIf your job level is less than that,\nyou won't be allowed to change to a 2nd Job.",
+        "pt": "[Instrutor dos Bruxos]\nPrimeiramente, deve possuir\nNível de Classe 40!\nSe o seu Nível de Classe for menor que 40,\nnão poderá evoluir para a Classe de Bruxo.",
+        "es": "[Instr. de los Brujos]\nEn primer lugar, ¡debes tener\nnivel de clase 40!\nSi tu nivel de clase es inferior a 40,\nno podrás evolucionar a la clase Brujo."
+    },
+    "HPwaAw": {
+        "en": "[Wizard Instructor]\nIf your Job Level is\n40 or higher,\ngo talk to the ^8B4513Wizard Guild Staff^000000\nat the ^8B4513Upper Level of Geffen Tower^000000.\nIf you go there,\nyou can make a request to become a Wizard.",
+        "pt": "[Instrutor dos Bruxos]\nSe seu Nível de Classe for\nmaior do que 40,\nsiga para o ^8B4513último andar da Torre de Geffen^000000 e fale com\na ^8B4513Bruxa Catarina^000000.\nAssim poderá prosseguir\ncom a troca de Classe.",
+        "es": "[Instr. de los Brujos]\nSi tu nivel de clase es\nsuperior a40,\nve al ^8B4513último piso de la Torre de Geffen^000000 y habla con\nla ^8B4513Bruja Catarina^000000.\nDe esta forma podrás continuar\ncon el cambio de clase."
+    },
+    "HfwaAw": {
+        "en": "[Wizard Instructor]\nBecoming a Wizard\nis no easy task.\nI assure you.\nBut once you overcome the obstacles,\nimmense power will be\nat your disposal.",
+        "pt": "[Instrutor dos Bruxos]\nSeguir o caminho dos Bruxos\nnão vai ser sempre\ntão fácil assim...\nMas tenho certeza de que\nconsegue superar isso, pois\naventuras esperam por você.",
+        "es": "[Instr. de los Brujos]\nSeguir el camino de los Brujos\nno siempre\nserá tan fácil…\nPero estoy seguro de que\npodrás superarlo, ya que\nte esperan muchas aventuras."
+    },
+    "HvwaAw": {
+        "en": "[Wizard Instructor]\nDo the intense\n^8B4513ways of the Wizard^000000\nappeal to you, Adventurer?",
+        "pt": "[Instrutor dos Bruxos]\nGaranto que se escolher\no ^8B4513caminho dos Bruxos^000000,\nnão vai se arrepender!",
+        "es": "[Instr. de los Brujos]\nTe garantizo que si eliges\nel ^8B4513camino de los Brujos^000000,\n¡no te arrepentirás!"
+    },
+    "H/waAw": {
+        "en": "[Wizard Instructor]\nCome talk to me\nif you wish to become a Wizard.",
+        "pt": "[Instrutor dos Bruxos]\nSe precisar de ajuda com alguma coisa,\né só falar comigo.",
+        "es": "[Instr. de los Brujos]\nSi necesitas ayuda con algo,\nsolo dímelo."
+    },
+    "IPwaAw": {
+        "en": "[Wizard Instructor]\nI don't have time to waste\ntalking to those who are not Mages.",
+        "pt": "[Instrutor dos Bruxos]\nNão tenho assunto com\naqueles que não escolheram ser Magos...",
+        "es": "[Instr. de los Brujos]\nNo tengo nada que hablar con\nlos que no eligieron ser Magos…"
+    },
+    "IfwaAw": {
+        "en": "Sage Instructor",
+        "pt": "Instrutor dos Sábios",
+        "es": "Instr. de los Sabios"
+    },
+    "IvwaAw": {
+        "en": "[Sage Instructor]\nIf you are a Mage,\nyou will, eventually,\nhave to make a choice.\n^0000FFSages^000000 are the ones\nwho pursue ^8B4513coexistence and symbiosis^000000.\nOur path is that of wisdom and virtue.",
+        "pt": "[Instrutor dos Sábios]\nSe está seguindo o caminho dos Magos,\nterá de fazer uma escolha...\nPense muito bem...\n^0000CDBruxo^000000 é sem dúvidas\na melhor escolha para conhecer mais sobre o mundo!",
+        "es": "[Instr. de los Sabios]\nSi sigues el camino de los Magos,\ntendrás que tomar una decisión…\nPiénsalo muy bien…\n¡^0000FFBrujo^000000 es sin duda\n¡La mejor manera de conocer el mundo!"
+    },
+    "I/waAw": {
+        "en": "[Sage Instructor]\nWhat do you want to know?",
+        "pt": "[Instrutor dos Sábios]\nO que gostaria de saber?",
+        "es": "[Instr. de los Sabios]\n¿Qué te gustaría saber?"
+    },
+    "JPwaAw": {
+        "en": "About Sages",
+        "pt": "^FF5555Sábio^000000?",
+        "es": "^8B4513¿Sabio^000000?"
+    },
+    "JfwaAw": {
+        "en": "Sage skills",
+        "pt": "^FF5555Habilidades do Sábio^000000",
+        "es": "^8B4513Habilidades de Sabio.^000000"
+    },
+    "JvwaAw": {
+        "en": "How to become a Sage",
+        "pt": "^FF5555Trocando para a Classe de Sábio^000000",
+        "es": "^8B4513Cambio a la clase Sabio.^000000"
+    },
+    "J/waAw": {
+        "en": "[Sage Instructor]\nSage is one of the 2nd Jobs\navailable to Mages, but this path\nis ^8B4513different^000000 from that of a Mage.",
+        "pt": "[Instrutor dos Sábios]\nApesar de ser um caminho\nseguido depois de se tornar Mago,\né completamente diferente de tudo.",
+        "es": "[Instr. de los Sabios]\nAunque es un camino\nque se toma después de convertirse en Mago,\nes algo completamente distinto."
+    },
+    "KPwaAw": {
+        "en": "[Sage Instructor]\nAlthough Sages possess\nbasic attack spells, just like Mages,\nthey ^8B4513specialize in^000000\n^8B4513support skills, rather than attack skills^000000.",
+        "pt": "[Instrutor dos Sábios]\nCom o conhecimento de Mago,\nmodifica as Habilidades\npara que possam ser direcionadas\nao ato de ajudar e controlar a batalha.",
+        "es": "[Instr. de los Sabios]\nCon los conocimientos del Mago,\npuedes modificar las habilidades\npara que se orienten\na ayudar y dominar la batalla."
+    },
+    "KfwaAw": {
+        "en": "[Sage Instructor]\nThey can support their ^8B4513allies^000000\nby manipulating the weather to ^8B4513gain upper hand in the battlefield^000000,\nand buff their allies,\nincluding themselves,\nto improve their combat abilities.",
+        "pt": "[Instrutor dos Sábios]\nHabilidades de controle climático\nservem para melhorar as condições de luta.\nDar vantagens ao aliados\nem batalha é mais\num exemplo do poder do Sábio.",
+        "es": "[Instr. de los Sabios]\nLas habilidades de control del clima\nsirven para mejorar las condiciones del combate.\nDar ventaja a los aliados\nen la batalla es otro\nejemplo del poder del Sabio."
+    },
+    "KvwaAw": {
+        "en": "[Sage Instructor]\nThat's why\nSages enjoy\njoining other players ^8B4513and forming teams^000000.",
+        "pt": "[Instrutor dos Sábios]\nSábios só são\nrealmente espertos quando\ntrabalham em grupo.",
+        "es": "[Instr. de los Sabios]\nLos Sabios solo son\nrealmente hábiles cuando\ntrabajan en grupo."
+    },
+    "K/waAw": {
+        "en": "[Sage Instructor]\nWould you use your power in pursuit of ^8B4513coexistence^000000\nbecoming a Sage\nand using your power in pursuit of coexistence?",
+        "pt": "[Instrutor dos Sábios]\nInspire-se no ^8B4513poder da cooperação^000000!\nIsso vai ser a chave\npara o caminho do Sábio!",
+        "es": "[Instr. de los Sabios]\n¡Inspírate con el ^8B4513poder de la cooperación^000000!\n¡Esa será la clave\npara el camino del Sabio!"
+    },
+    "LPwaAw": {
+        "en": "[Sage Instructor]\nIf you have any further questions\nabout Sages,\nI will be happy to answer them.",
+        "pt": "[Instrutor dos Sábios]\nSe tiver mais perguntas,\nsaiba que posso contar tudo!",
+        "es": "[Instr. de los Sabios]\nSi tienes más preguntas\n¡Puedo contártelo todo!"
+    },
+    "LfwaAw": {
+        "en": "[Sage Instructor]\nMost Sage skills\nare AOE support skills.\n^8B4513''Water, Wind, Earth, Fire''^000000\nThey work with these four attributes.",
+        "pt": "[Instrutor dos Sábios]\nHabilidades de Sábio\nsão normalmente em área, baseadas em 4 Propriedades:\n^8B4513Água, Vento, Terra e Fogo^000000.",
+        "es": "[Instr. de los Sabios]\nLas habilidades del Sabio\nsuelen ser de área, basadas en 4propiedades:\n^8B4513Agua, Viento, Tierra y Fuego^000000."
+    },
+    "LvwaAw": {
+        "en": "[Sage Instructor]\nIt would be better for you to experience them firsthand\nrather than listening to my lecture.\nI will show you some major Sage\nspells and abilities now.",
+        "pt": "[Instrutor dos Sábios]\nE, mesmo que eu te falar com detalhes,\nnão há nada como experimentar.\nMostrarei a você as melhores\nHabilidades de um Bruxo!",
+        "es": "[Instr. de los Sabios]\nY aunque te lo explique detalladamente,\nno hay nada como probarlo.\n¡Te enseñaré las mejores\nhabilidades del Brujo!"
+    },
+    "L/waAw": {
+        "en": "^8B4513Volcano^000000",
+        "pt": "^8B4513Vulcão^000000",
+        "es": "^8B4513Volcán^000000."
+    },
+    "MPwaAw": {
+        "en": "^8B4513Deluge^000000",
+        "pt": "^8B4513Dilúvio^000000",
+        "es": "^8B4513Diluvio^000000."
+    },
+    "MfwaAw": {
+        "en": "^8B4513Magnetic Earth^000000",
+        "pt": "^8B4513Proteger Terreno^000000",
+        "es": "^8B4513Protector de tierras^000000."
+    },
+    "MvwaAw": {
+        "en": "[Sage Instructor]\nVolcano turns \na 7x7 cell into\na fiery volcano\nand is an ^8B4513AoE Support^000000 spell.",
+        "pt": "[Instrutor dos Sábios]\nVulcão...\nTem um alcance grande...\nÉ uma magia relacionada ao Fogo...\nE serve como ajuda aos companheiros.",
+        "es": "[Instr. de los Sabios]\nVolcán…\nTiene un gran alcance…\nEs un hechizo relacionado con el Fuego…\nY ayuda a tus compañeros."
+    },
+    "M/waAw": {
+        "en": "[Sage Instructor]\nThe attack attribute of team members, including the caster,\nwithin the location\n^8B4513will turn to fire^000000.\nAnd Fire ATK\nwill also increase.",
+        "pt": "[Instrutor dos Sábios]\nMembros do grupo\nque estiverem na área de efeito,\n^FF5555recebem um aumento no dano^000000\n^FF5555das Habilidades relacionadas^000000\n^FF5555ao Fogo^000000.",
+        "es": "[Instr. de los Sabios]\nLos miembros del grupo\nque se encuentren en el área de efecto,\n^8B4513reciben un aumento del daño^000000\n^8B4513de las habilidades relacionadas^000000\n^8B4513con el Fuego^000000."
+    },
+    "NPwaAw": {
+        "en": "[Sage Instructor]\nSee for yourself.",
+        "pt": "[Instrutor dos Sábios]\nObserve e aprenda...",
+        "es": "[Instr. de los Sabios]\nMira y aprende…"
+    },
+    "NfwaAw": {
+        "en": "[Sage Instructor]\nThe range of spell I showed is pretty small,\nas this was just a demonstration,\nbut the actual spell range\nwould be ^8B4513much larger^000000\nif you use it as a Sage.\nMagnificent, don't you think?",
+        "pt": "[Instrutor dos Sábios]\nComo usei apenas em você,\no alcance foi reduzido.\nMas, se aprender a magia,\no alcance vai se tornar bem maior!\nIsso é ótimo, né?",
+        "es": "[Instr. de los Sabios]\nComo solo lo usé contigo,\nel alcance se redujo.\nPero si aprendes el hechizo,\n¡el alcance será mucho mayor!\nEs genial, ¿verdad?"
+    },
+    "NvwaAw": {
+        "en": "[Sage Instructor]\nDeluge turns \na 7x7 cell into\na watery vortex\nand is an ^8B4513AoE Support^000000 spell.",
+        "pt": "[Instrutor dos Sábios]\nDilúvio...\nTem um alcance grande...\nÉ uma magia relacionada à Água...\nE serve como ajuda aos companheiros.",
+        "es": "[Instr. de los Sabios]\nDiluvio…\nTiene un gran alcance…\nEs un hechizo relacionado con el Agua…\nY ayuda a tus compañeros."
+    },
+    "N/waAw": {
+        "en": "[Sage Instructor]\nThe attack attribute of team members, including the caster,\nwithin the location\n^8B4513turns to water^000000.\nAnd Water ATK\nwill also increase.",
+        "pt": "[Instrutor dos Sábios]\nMembros do grupo\nque estiverem na área de efeito,\n^FF5555recebem um aumento no dano^000000\n^FF5555das Habilidades relacionadas^000000\n^FF5555à Água^000000.",
+        "es": "[Instr. de los Sabios]\nLos miembros del grupo\nque se encuentren en el área de efecto,\n^8B4513reciben un aumento del daño^000000\n^8B4513de las habilidades relacionadas^000000\n^8B4513con el Agua^000000."
+    },
+    "OPwaAw": {
+        "en": "[Sage Instructor]\nMagnetic Earth \naffects an 11x11 cell\nand is an\n^8B4513AoE Support^000000 spell.",
+        "pt": "[Instrutor dos Sábios]\nProteger Terreno...\nTem um alcance bem grande...\nFocada diretamente na\nproteção e no suporte.",
+        "es": "[Instr. de los Sabios]\nProtector de tierras…\nTiene un gran alcance…\nSe centra directamente en la\nprotección y el apoyo."
+    },
+    "OfwaAw": {
+        "en": "[Sage Instructor]\nIn the target area,\n^8B4513all Earth skills will be nullified^000000,\nand Teleport\nis also unavailable.",
+        "pt": "[Instrutor dos Sábios]\nDesativa todas\nas magias lançadas no solo.\nTambém desabilita Teleportes\nem áreas específicas.",
+        "es": "[Instr. de los Sabios]\nDesactiva todos\nlos hechizos lanzados en el terreno.\nTambién desactiva los teletransportes\nen zonas específicas."
+    },
+    "OvwaAw": {
+        "en": "[Sage Instructor]\nWould you want o\nbecome a Sage\nand use your power in pursuit of coexistence?",
+        "pt": "[Instrutor dos Sábios]\nSiga o caminho do Sábio\ne concentre-se no\npoder da cooperação!",
+        "es": "[Instr. de los Sabios]\n¡Sigue el camino de los Sabios\ny céntrate en el\npoder de la cooperación!"
+    },
+    "O/waAw": {
+        "en": "[Sage Instructor]\nif you wish to become a ^8B4513Sage!^000000\nyou must first understand\nthe prerequisites!",
+        "pt": "[Instrutor dos Sábios]\nPara se tornar um Sábio, você precisa\nsaber sobre as\ncondições primeiro!",
+        "es": "[Instr. de los Sabios]\nPara convertirte en Sabio, ¡primero\ntienes que conocer\nlas condiciones!"
+    },
+    "PPwaAw": {
+        "en": "[Sage Instructor]\nYou have to reach at least\n^8B4513Job Level 40^000000.\nIf your job level is less than that,\nyou wouldn't be able to change to your 2nd Job.",
+        "pt": "[Instrutor dos Sábios]\nPrimeiramente, deve possuir\nNível de Classe 40!\nSe o seu Nível de Classe for menor que 40,\nnão poderá evoluir para a Classe de Sábio.",
+        "es": "[Instr. de los Sabios]\nEn primer lugar, ¡debes tener\nnivel de clase 40!\nSi tu nivel de clase es inferior a 40,\nno podrás evolucionar a la clase Sabio."
+    },
+    "PfwaAw": {
+        "en": "[Sage Instructor]\nIf your Job Level is\n40 or higher,\ngo to ^8B4513Northeast Juno^000000\nand visit^8B4513Schwetzervil Magic Academy^000000.\nIf you talk to the ^8B4513Academy Staff^000000,\nthey'll help you to change your Job.",
+        "pt": "[Instrutor dos Sábios]\nSe seu Nível de Classe for\nmaior do que 40,\nvá para o ^FF5555Nordeste de Juno^000000,\naté o ^FF5555Instituto do Aprendiz dos Magos de Schwartzwald^000000.\nFale com alguns funcionários do Instituto do Aprendiz,\neles te ajudarão com a troca de Classe..",
+        "es": "[Instr. de los Sabios]\nSi tu nivel de clase es\nsuperior a40,\nVe al ^8B4513noreste de Juno^000000,\na la ^8B4513Academia de Magia Schweicherbil^000000.\nHabla con algunos de los empleados,\nte ayudarán con el cambio de clase…"
+    },
+    "PvwaAw": {
+        "en": "[Sage Instructor]\nBecoming a Sage\nis no easy task,\nI assure you.\nBut once you overcome the obstacles,\nyou will enter\na whole new world.",
+        "pt": "[Instrutor dos Sábios]\nSeguir o caminho dos Sábios\nnão vai ser sempre\ntão fácil assim...\nMas tenho certeza de que\nconsegue superar isso, pois\naventuras esperam por você.",
+        "es": "[Instr. de los Sabios]\nSeguir el camino de los Sabios\nno siempre\nserá tan fácil…\nPero estoy seguro de que\npodrás superarlo, ya que\nte esperan muchas aventuras."
+    },
+    "P/waAw": {
+        "en": "[Sage Instructor]\nWould you want o\nbecome a ^8B4513Sage^000000\nand use your power in pursuit of coexistence?",
+        "pt": "[Instrutor dos Sábios]\nGaranto que se escolher\no ^8B4513caminho dos Sábios^000000,\nnão vai se arrepender!",
+        "es": "[Instr. de los Sabios]\nTe garantizo que si eliges\nel ^8B4513camino de los Sabios^000000,\n¡no te arrepentirás!"
+    },
+    "QPwaAw": {
+        "en": "[Sage Instructor]\nCome meet me\nwhen you are ready to become a Sage.",
+        "pt": "[Instrutor dos Sábios]\nSe precisar de ajuda com alguma coisa,\né só falar comigo.",
+        "es": "[Instr. de los Sabios]\nSi necesitas ayuda con algo,\nsolo dímelo."
+    },
+    "QfwaAw": {
+        "en": "[Sage Instructor]\nI don't have time to waste\ntalking to those\nwho aren't Mages.",
+        "pt": "[Instrutor dos Sábios]\nDesconsidero aqueles\nque não seguiram\no caminho dos Magos!",
+        "es": "[Instr. de los Sabios]\n¡No me interesan los\nque no siguieron\nel camino de los Magos!"
+    },
+    "QvwaAw": {
+        "en": "Mage Master Instructor",
+        "pt": "Maga Descolada",
+        "es": "Maga popular"
+    },
+    "Q/waAw": {
+        "en": "[Mage Master Instructor]\nHead to the field in the ^8B45133 o' clock direction^000000,\nand go talk to the <NAVI>^4D4DFF[Master Instructor]^000000<INFO>mjolnir_09,48,246,</INFO></NAVI>.\nThe instructor will give you\na mission, by which\nyou can become more powerful!",
+        "pt": "[Maga Descolada]\nSiga o caminho da\nnavegação: <NAVI>^3131FF[Instrutor dos Magos]^000000<INFO>mjolnir_09,48,246,</INFO></NAVI>.\nAssim poderá encontrar\na próxima missão\npara se tornar um Mago mais forte!",
+        "es": "[Maga popular]\nUsa\nel comando <NAVI>^4D4DFF[Instructor de los Magos]^000000<INFO>mjolnir_09, 48, 246,</INFO></NAVI>.\n¡Así podrás encontrar\nla siguiente misión\npara convertirte en un Mago más fuerte!"
+    },
+    "RPwaAw": {
+        "en": "[Mage Master Instructor]\nI don't think\nyou've completed the mission\nthat has been assigned to you.",
+        "pt": "[Maga Descolada]\nAcho que não posso\nte ajudar se não tiver\ncompletado a missão do Instrutor.",
+        "es": "[Maga popular]\nNo creo que pueda\nayudarte si no\ncompletaste la misión del Instructor."
+    },
+    "RfwaAw": {
+        "en": "[Mage Master Instructor]\nIf you want to become a powerful Mage, go beat\n30 ^FF0000Chonchons^000000\nand 30 ^FF0000Fabres^000000\nand report back to me!",
+        "pt": "[Maga Descolada]\nSe quiser se tornar mais forte,\nderrote ^FF0000Chonchon^000000 e\n^FF0000Fabre^000000.\nDepois volte aqui!",
+        "es": "[Maga popular]\nSi quieres ser más fuerte,\nderrota ^FF0000Chonchon^000000 y\n^FF0000Fabre^000000.\nLuego, ¡vuelve aquí!"
+    },
+    "RvwaAw": {
+        "en": "[Mage Master Instructor]\nGood job!\nDon't you think you're\na more powerful Mage now,\nthanks to this experience?",
+        "pt": "[Maga Descolada]\nBom trabalho!\nSente mais força\nem seus poderes de Mago?\nAventuras fazem bem...",
+        "es": "[Maga popular]\n¡Bien hecho!\n¿Sientes que tus\npoderes de Mago son más fuertes?\nLas aventuras te sientan bien…"
+    },
+    "R/waAw": {
+        "en": "[Mage Master Instructor]\nBut there's still a long way to go!\nThe ^8B4513second mission^000000 is awaiting!\nGo beat\n30 ^FF0000Roda Frogs^000000\nand 30 ^FF0000Savage Babes^000000\nin the area!",
+        "pt": "[Maga Descolada]\nMas ainda há um longo caminho a ser seguido!\nTe darei uma ^8B4513Segunda Missão^000000.\nDerrote\n30 ^FF0000Sapos de Rodda^000000\ne 30 ^FF0000Bebes Selvagens^000000!\nNão enrole, hein?!",
+        "es": "[Maga popular]\nPero, ¡aún queda mucho camino por recorrer!\nTe daré una ^8B4513segunda misión^000000.\n¡Derrota\n^FF000030Ranas Roda^000000\ny 30^FF0000Crías de Salvaje^000000!\nNo te compliques, ¡¿eh?!"
+    },
+    "SPwaAw": {
+        "en": "[Mage Master Instructor]\nWhen you're done with the mission,\nhead to the field in the ^8B45133 o' clock direction^000000,\nand go talk to the <NAVI>^4D4DFF[Master Instructor]^000000<INFO>mjolnir_09,48,246,</INFO></NAVI>.\nBest of luck!",
+        "pt": "[Maga Descolada]\nQuando terminar,\nsiga o caminho trilhado pela\nnavegação: <NAVI>^3131FF[Instrutor dos Magos]^000000<INFO>mjolnir_09,48,246,</INFO></NAVI>.\nBoa sorte!",
+        "es": "[Maga popular]\nCuando termines,\nsigue el camino marcado por\nel comando <NAVI>^4D4DFF[Instructor de los Magos]^000000<INFO>mjolnir_09, 48, 246,</INFO></NAVI>.\n¡Buena suerte!"
+    },
+    "SfwaAw": {
+        "en": "[Mage Master Instructor]\nI came here from the Mage Guild\nto help ^8B451333 Novice Mages^000000,\neven though it's so cold.\nHowever, I doubt\nanyone would appreciate\nall the things I've done here.",
+        "pt": "[Maga Descolada]\nBuscando ajudar\naqueles que começaram como Mago,\nestou trabalhando\nmuito duro!\nQueria que reconhecessem meus esforços...",
+        "es": "[Maga popular]\nEn mi búsqueda por ayudar\na los Magos principiantes,\n¡estoy trabajando\nmuy duro!\nDesearía que reconocieran mis esfuerzos…"
+    },
+    "SvwaAw": {
+        "en": "[Mage Master Instructor]\nYour bag looks\nextremely heavy.\nReorganize your bag\nand come and meet me.",
+        "pt": "[Maga Descolada]\nVocê parece estar\ncom peso nas costas...\nEsvazie esse inventário\ne tente novamente!",
+        "es": "[Maga popular]\nParece que\ncargas mucho peso…\nVacía tu inventario\ne inténtalo de nuevo."
+    },
+    "S/waAw": {
+        "en": "[Mage Master Instructor]\nReview information about all the\nhorrendous monsters,\nand head out of here by using the exit in the ^8B45135 o' clock direction^000000, \nand go talk to the <NAVI>^4D4DFF[Master Instructor]^000000<INFO>prt_fild05,285,378,</INFO></NAVI>.\nMake sure you ^8B4513arrive^000000 safely!",
+        "pt": "[Maga Descolada]\nEnfrente os assustadores\nlocais com monstros e criaturas,\nseguindo sempre a navegação:\n<NAVI>^3131FF[Instrutor dos Magos]^000000<INFO>prt_fild05,285,378,</INFO></NAVI>\nÉ certeza que chegará bem!",
+        "es": "[Maga popular]\nAtraviesa los lugares\nterroríficos con monstruos y criaturas,\nusando siempre el comando\n<NAVI>^4D4DFF[Instructor de los Magos]^000000<INFO>prt_fild05, 285, 378,</INFO></NAVI>\n¡Te irá bien!"
+    },
+    "TPwaAw": {
+        "en": "[Mage Master Instructor]\nThe instructor will give you\na mission, by which\nyou can become more powerful!\nBest of luck!",
+        "pt": "[Maga Descolada]\nVou te dar a próxima missão\npara se tornar um\npoderoso Mago!\nBoa sorte!",
+        "es": "[Maga popular]\n¡Así, conseguirás \nmás misiones para\nconvertirte en un poderoso Mago!\n¡Buena suerte!"
+    },
+    "TfwaAw": {
+        "en": "[Mage Master Instructor]\nIf you want to become a powerful Mage, go beat\n30 ^FF0000Roda Frogs^000000\nand 30 ^FF0000Savage Babes^000000\nand report back to me!",
+        "pt": "[Maga Descolada]\nSe quiser ficar mais forte,\nderrote 30 ^FF0000Sapos de Rodda^000000\ne 30 ^FF0000Bebes Selvagens^000000!\nNão enrole, hein?!",
+        "es": "[Maga popular]\nSi quieres ser más fuerte,\nderrota a 30^FF0000Ranas Roda^000000.\ny 30^FF0000Crías de Salvaje^000000!\nNo te compliques, ¡¿eh?!"
+    },
+    "TvwaAw": {
+        "en": "[Mage Master Instructor]\nBut there's still a long way to go!\nThe ^8B4513third mission^000000 is pending.\nThis one is\na bit tricky.",
+        "pt": "[Maga Descolada]\nMas ainda há um longo caminho a ser seguido!\nTe darei uma ^8B4513Terceira Missão^000000.\nEssa missão pode ser fácil\ne difícil ao mesmo tempo.",
+        "es": "[Maga popular]\nPero, ¡aún queda mucho camino por recorrer!\nTe daré una ^8B4513tercera misión^000000.\nEsta misión puede ser fácil\ny difícil a la vez."
+    },
+    "T/waAw": {
+        "en": "[Mage Master Instructor]\nReview information about all the\nhorrendous monsters,\nand head out of here by using the exit in the ^8B45135 o' clock direction^000000, \nand go talk to the <NAVI>^4D4DFF[Master Instructor]^000000<INFO>prt_fild05,285,378,</INFO></NAVI>.\nMake sure you ^8B4513arrive^000000 safely!\nIt won't be easy.",
+        "pt": "[Maga Descolada]\nEnfrente os assustadores\nlocais com monstros e criaturas,\nseguindo sempre a navegação:\n<NAVI>^3131FF[Instrutor dos Magos]^000000<INFO>prt_fild05,285,378,</INFO></NAVI>\nÉ certeza que chegará bem!",
+        "es": "[Maga popular]\nAtraviesa los lugares\nterroríficos con monstruos y criaturas,\nusando siempre el comando\n<NAVI>^4D4DFF[Instructor de los Magos]^000000<INFO>prt_fild05, 285, 378,</INFO></NAVI>\n¡Te irá bien!"
+    },
+    "UPwaAw": {
+        "en": "[Mage Master Instructor]\nI came here from the Mage Guild\nto help ^8B4513Novice Mages^000000,\neven though it's so cold.\nHowever, I doubt\nanyone would appreciate\nall the things I've done here.",
+        "pt": "[Maga Descolada]\nBuscando ajudar\naqueles que começaram como Mago,\nestou trabalhando\nmuito duro!\nQueria que reconhecessem meus esforços...",
+        "es": "[Maga popular]\nEn mi búsqueda por ayudar\na los Magos principiantes,\n¡estoy trabajando\nmuy duro!\nDesearía que reconocieran mis esfuerzos…"
+    },
+    "UfwaAw": {
+        "en": "[Mage Master Instructor]\nYour bag looks\nvery heavy.\nReorganize your bag\nand come and meet me.",
+        "pt": "[Charles]\nVocê parece estar\ncom peso nas costas...\nEsvazie esse inventário\ne fale comigo novamente.",
+        "es": "[Maga popular]\nParece que\ncargas mucho peso…\nVacía tu inventario\ne inténtalo de nuevo."
+    },
+    "UvwaAw": {
+        "en": "[Mage Master Instructor]\n30 ^FF0000Thief Bugs^000000\nand 30 ^FF0000Thief Bug Eggs^000000\nare your prey for this particular hunt!",
+        "pt": "[Maga Descolada]\n30 ^FF0000Besouros-Ladrões^000000\ne 30 ^FF0000Ovos de Besouros-Ladrões^000000 ~!\nNão enrole, hein?!",
+        "es": "[Maga popular]\n¡Derrota ^FF000030Bichos ladrones^000000\ny 30^FF0000Huevos de Bicho ladrón^000000!\nNo te compliques, ¡¿eh?!"
+    },
+    "U/waAw": {
+        "en": "[Mage Master Instructor]\nWhen you are done with the task,\nhead out in the ^8B45133 o' clock direction^000000\nto get to the ^0000FFEntrance of Prontera^000000.\nThere will be a\n<NAVI>^4D4DFF[Master Instructor]^000000<INFO>prt_fild05,359,213,</INFO></NAVI> waiting for you.\nGo talk to the instructor.",
+        "pt": "[Maga Descolada]\nQuando tiver terminado,\nsiga pelos campos até a\nentrada de ^0000CDProntera^000000.\nFale com o\n<NAVI>^3131FF[Instrutor dos Magos]^000000<INFO>prt_fild05,359,213,</INFO></NAVI>\nbem na entrada!",
+        "es": "[Maga popular]\nCuando termines,\nsigue los campos hasta la\nentrada de ^0000FFProntera^000000.\n¡Habla con el\n<NAVI>^4D4DFF[Instructor de los Magos]^000000<INFO>prt_fild05, 359, 213,</INFO></NAVI>\njusto en la entrada!"
+    },
+    "VPwaAw": {
+        "en": "[Mage Master Instructor]\nIt must have been difficult\ncoming all the way here.\nBut during that hard journey,\nyou must have become\na more powerful Mage now,\nthanks to all the things you've been through.",
+        "pt": "[Maga Descolada]\nFoi difícil\nchegar onde você chegou,\nmas tenho certeza\nde que se tornou\num Mago muito\nmais forte!",
+        "es": "[Maga popular]\nFue difícil\nllegar hasta aquí,\n¡pero estoy seguro\nde que te convertiste en\nun Mago mucho\nmás fuerte!"
+    },
+    "VfwaAw": {
+        "en": "[Mage Master Instructor]\nBut there's still a long way to go!\nThe ^8B4513fourth mission^000000 is calling for your attention.\nYou will have to face\nthe strongest monsters\nyou've known so far\nin this mission!",
+        "pt": "[Maga Descolada]\nAinda há objetivos sobrando!\nTe darei uma ^8B4513Quarta Missão^000000.\nEssa será, sem dúvidas,\na missão mais difícil\nque recebeu até \no momento!",
+        "es": "[Maga popular]\n¡Todavía quedan objetivos!\nTe daré una ^8B4513cuarta misión^000000.\n¡Esta será sin duda\nla misión más difícil\nque recibiste hasta \nahora!"
+    },
+    "VvwaAw": {
+        "en": "[Mage Master Instructor]\nI don't think you've hunted the\n30 ^FF0000Thief Bugs^000000\nand 30 ^FF0000Thief Bug Eggs^000000\nthat the previous instructor\nassigned as your next mission.",
+        "pt": "[Maga Descolada]\nParece que ainda não completou a missão...\n30 ^FF0000Besouros-Ladrões^000000\ne 30 ^FF0000Ovos de Besouros-Ladrões^000000!\nLembre-se disso\npara completar a missão!",
+        "es": "[Maga popular]\nParece que aún no completaste la misión…\n¡^FF000030Bichos ladrones^000000\ny 30^FF0000Huevos de Bicho ladrón^000000!\n¡Acuérdate de esto\npara completar la misión!"
+    },
+    "V/waAw": {
+        "en": "[Mage Master Instructor]\nCome meet me\nonce you've finished.",
+        "pt": "[Maga Descolada]\nVenha me ver\nassim que tiver completado.",
+        "es": "[Maga popular]\nVen a verme\nen cuanto la completes."
+    },
+    "WPwaAw": {
+        "en": "[Mage Master Instructor]\nGreat job!\nA ^8B4513Novice^000000 like you coming from ^8B4513Geffen^000000\nall the way to ^8B4513Prontera^000000...\nIt must have been tough!\nThere's no need to be modest,\nI know how hard it must have been on you!",
+        "pt": "[Maga Descolada]\nVocê passou por muita coisa...\nNão é fácil ir de ^FF5555Geffen^000000 até \na entrada de ^FF5555Prontera^000000.\nÉ um desafio e tanto...\nFico feliz que\nconseguiu!",
+        "es": "[Maga popular]\nPasaste por mucho…\nNo es fácil llegar desde ^8B4513Geffen^000000 hasta \nla entrada de ^8B4513Prontera^000000.\nEs todo un reto…\n¡Me alegro de que lo\nconsiguieras!"
+    },
+    "WfwaAw": {
+        "en": "[Mage Master Instructor]\nI have a reward for you,\nas you have done so well!\nIt's nothing fancy,\nbut it will be useful!",
+        "pt": "[Maga Descolada]\nVou te recompensar\npelo bom trabalho!\nNão é muito, eu sei...\nMas será útil!",
+        "es": "[Maga popular]\n¡Te recompensaré \npor tu buen trabajo!\nNo es mucho, lo sé…\n¡Pero te será muy útil!"
+    },
+    "WvwaAw": {
+        "en": "[Mage Master Instructor]\nThe castle standing in front of you\nis ^0000FFProntera^000000.\nIsn't it beautiful?",
+        "pt": "[Maga Descolada]\nO castelo que está na sua frente\né ^0000FFProntera^000000!\nImpressionante, não?",
+        "es": "[Maga popular]\n¡El castillo que está frente a ti\nes ^0000FFProntera^000000!\nImpresionante, ¿no?"
+    },
+    "W/waAw": {
+        "en": "[Mage Master Instructor]\nHead inside,\nand go find the <NAVI>^4D4DFF[Eden Group Teleport Service]^000000<INFO>prontera,124,76,</INFO></NAVI>.\nThey will be helpful to you\nlater on.",
+        "pt": "[Maga Descolada]\nSe entrar e achar o\n<NAVI>^4D4DFF[Serviço de Teleporte do Grupo do Éden]^000000<INFO>prontera,124,76,</INFO></NAVI>\nVocê conseguirá alguma ajuda\nem sua aventura.",
+        "es": "[Maga popular]\nEntra y encuentra el\n<NAVI>^4D4DFF[Servicio de teletrans.]^000000<INFO>prontera, 124, 76,</INFO></NAVI>\nRecibirás ayuda\nen tu aventura."
+    }
+}

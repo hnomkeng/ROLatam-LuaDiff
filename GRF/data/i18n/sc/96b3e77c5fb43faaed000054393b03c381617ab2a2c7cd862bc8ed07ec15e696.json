@@ -1,0 +1,822 @@
+{
+    "YLdH": {
+        "en": "Elephantine",
+        "pt": "Elephantine",
+        "es": "Hotcha"
+    },
+    "YbdH": {
+        "en": "You have too many kinds of things with you to do that. Throw out some of them and try again.",
+        "pt": "Você tem muitos tipos de coisas com você para fazer isso. Jogue fora alguns deles e tente novamente.",
+        "es": "Tienes demasiadas cosas para hacer eso. Deshazte de algunas y vuelve a intentarlo."
+    },
+    "YrdH": {
+        "en": "You are carrying too much weight to do that. Reduce the weight and try again.",
+        "pt": "Você está carregando muito peso para fazer isso. Reduza o peso e tente novamente.",
+        "es": "Llevas demasiado peso para hacer eso. Reduce el peso y vuelve a intentarlo."
+    },
+    "Y7dH": {
+        "en": "[Elephantine]\nHmm, you don't look reliable enough to perform tasks for me.",
+        "pt": "[Elephantine]\nHmm, você não parece ser confiável o suficiente para realizar tarefas para mim.",
+        "es": "[Elephantine]\nMmm, no pareces lo suficientemente confiable para hacer esta tarea por mí."
+    },
+    "ZLdH": {
+        "en": "[Elephantine]\nWhy don't you come back when you've grown stronger? Say around base level 135.\nI can't give you tasks when you're in your current state.",
+        "pt": "[Elephantine]\nPor que você não volta quando estiver mais forte? Digamos, por volta do nível básico 135.\nNão posso lhe dar tarefas quando estiver no seu estado atual.",
+        "es": "[Elephantine]\n¿Por qué no vuelves cuando seas más fuerte? Digamos que alrededor del nivel de base135.\nNo puedo darte tareas con tu estado actual."
+    },
+    "ZbdH": {
+        "en": "[Elephantine]\nI have no additional tasks available now. If I get some, I'll let you know when you come back.",
+        "pt": "[Elephantine]\nNão tenho tarefas adicionais disponíveis no momento. Se eu conseguir alguma, avisarei quando você voltar.",
+        "es": "[Elephantine]\nAhora no tengo tareas adicionales disponibles. Si me llega algo, te avisaré cuando regreses."
+    },
+    "ZrdH": {
+        "en": "[Elephantine]\nWill you please check with ^990099Hotcha^000000\non the details of the previous task?",
+        "pt": "[Elephantine]\nVocê poderia verificar com ^990099Hotcha^000000\nsobre os detalhes da tarefa anterior?",
+        "es": "[Elephantine]\n¿Podrías confirmar con ^990099Hotcha^000000\nlos detalles de la tarea anterior?"
+    },
+    "Z7dH": {
+        "en": "[Elephantine]\nWelcome.\nI have some tasks for you - will you take a look at them?",
+        "pt": "[Elephantine]\nBem-vindo.\nTenho algumas tarefas para você - pode dar uma olhada nelas?",
+        "es": "[Elephantine]\n¡Llegaste!\nTengo algunas tareas para ti, ¿quieres echarles un vistazo?"
+    },
+    "aLdH": {
+        "en": "What kind of tasks do you have for me?",
+        "pt": "Que tipo de tarefas você tem para mim?",
+        "es": "¿Qué tipo de tareas tiene para mí?"
+    },
+    "abdH": {
+        "en": "Tell me about today's task.",
+        "pt": "Fale-me sobre a tarefa de hoje.",
+        "es": "Háblame de la tarea de hoy."
+    },
+    "ardH": {
+        "en": "[Elephantine]\nI'm the Head of the Volunteer Patrol of the Village of Mora. It didn't used to be like this, he he.",
+        "pt": "[Elephantine]\nSou o chefe da Patrulha de Voluntários da Vila de Mora. Não costumava ser assim, he he he.",
+        "es": "[Elephantine]\nSoy el jefe de la patrulla de voluntarios del pueblo de Mora. Antes no era así. Je, je."
+    },
+    "a7dH": {
+        "en": "[Elephantine]\nEach day, I'll be giving you a quest to kill off monsters in the surrounding area.",
+        "pt": "[Elephantine]\nTodos os dias, eu lhe darei uma missão para matar monstros na área ao redor.",
+        "es": "[Elephantine]\nTodos los días te daré una misión para que mates a los monstruos que están en los alrededores."
+    },
+    "bLdH": {
+        "en": "[Elephantine]\nYou might get a task that's far too difficult for you to take care of alone - in that case, try to get help from your fellow adventurers.",
+        "pt": "[Elephantine]\nTalvez você receba uma tarefa que seja difícil demais para ser realizada sozinho. Nesse caso, tente obter ajuda de seus companheiros aventureiros.",
+        "es": "[Elephantine]\nPuede que te toque una tarea demasiado difícil para realizar por tu cuenta; en ese caso, busca la ayuda de otros trotamundos."
+    },
+    "bbdH": {
+        "en": "[Elephantine]\nLet me see what tasks we've got today... Hmm...",
+        "pt": "[Elephantine]\nDeixe-me ver quais são as tarefas que temos hoje... Hmm...",
+        "es": "[Elephantine]\nDéjame ver qué tareas tenemos hoy… Mmm…"
+    },
+    "brdH": {
+        "en": "[Elephantine]\nHow about this one?",
+        "pt": "[Elephantine]\nQue tal este aqui?",
+        "es": "[Elephantine]\n¿Qué te parece esta?"
+    },
+    "b7dH": {
+        "en": "[Elephantine]\nStrange insects that carry fruit on their backs roam this area - you must've seen them.",
+        "pt": "[Elephantine]\nInsetos estranhos que carregam frutas em suas costas vagam por essa área - você já deve tê-los visto.",
+        "es": "[Elephantine]\nPor esta zona deambulan unos extraños insectos que transportan frutas en sus espaldas; seguro que ya los viste."
+    },
+    "cLdH": {
+        "en": "[Elephantine]\nI'd like you to take them out as you see them, before they try to sell anything to the adventurers lost in the forest.",
+        "pt": "[Elephantine]\nGostaria que você os eliminasse quando os vir, antes que eles tentem vender qualquer coisa para os aventureiros perdidos na floresta.",
+        "es": "[Elephantine]\nQuiero que te encargues de ellos cuando los veas, antes de que intenten venderle algo a los trotamundos perdidos en el bosque."
+    },
+    "cbdH": {
+        "en": "You have received the task ^005500Fruit-Carrying Insects^000000. Open and see the quest window for the details.",
+        "pt": "Você recebeu a tarefa ^005500Insetos Carregando Frutas^000000. Abra e veja a janela da missão para obter os detalhes.",
+        "es": "Recibiste la tarea ^005500Insectos que cargan frutas^000000. Abre la ventana de misiones para ver los detalles."
+    },
+    "crdH": {
+        "en": "[Elephantine]\nThere have been a lot of reports lately about mantises disguised as flowers attacking creatures passing by.",
+        "pt": "[Elephantine]\nUltimamente, tem havido muitos relatos sobre louva-a-deus disfarçados de flores atacando criaturas que passam por eles.",
+        "es": "[Elephantine]\nÚltimamente hay muchos informes sobre mantises disfrazadas de flores que atacan a las criaturas que pasan por el sector."
+    },
+    "c7dH": {
+        "en": "[Elephantine]\nNo casualties have been reported yet, but it wouldn't hurt to take precautions. Please deal with them appropriately.",
+        "pt": "[Elephantine]\nNenhuma vítima foi relatada ainda, mas não custa nada tomar precauções. Por favor, lide com eles adequadamente.",
+        "es": "[Elephantine]\nNo se ha reportado ninguna víctima hasta ahora, pero más vale prevenir que lamentar. Por favor, ocúpate de ellas de manera apropiada."
+    },
+    "dLdH": {
+        "en": "You have received the task ^005500Flowery Hunters^000000. Open and see the quest window for the details.",
+        "pt": "Você recebeu a tarefa ^005500Caçadores Floridos^000000. Abra e veja a janela da missão para obter os detalhes.",
+        "es": "Recibiste la tarea ^005500Cazadoras floreadas^000000. Abre la ventana de misiones para ver los detalles."
+    },
+    "dbdH": {
+        "en": "[Elephantine]\nAn adventurer was reported to have been attacked by little birds while gathering resources in the vicinity of Bifrost.",
+        "pt": "[Elephantine]\nFoi relatado que um aventureiro foi atacado por pequenos pássaros enquanto coletava recursos nas proximidades de Bifrost.",
+        "es": "[Elephantine]\nSe nos informó que unos pajaritos atacaron a un trotamundos mientras recogía recursos en las cercanías de Bifrost."
+    },
+    "drdH": {
+        "en": "[Elephantine]\nThey didn't look so ferocious... but the adventurer has asked me to get rid of them, so you'll have to do it.",
+        "pt": "[Elephantine]\nEles não pareciam tão ferozes... mas o aventureiro me pediu para me livrar deles, então você terá que fazer isso.",
+        "es": "[Elephantine]\nNo parecían ser muy feroces…, pero el trotamundos me pidió que nos deshiciéramos de ellos, así que tendrás que hacerlo."
+    },
+    "d7dH": {
+        "en": "You have received the task ^005500Small but Ferocious...^000000. Open and see the quest window for the details.",
+        "pt": "Você recebeu a tarefa ^005500Pequeno mas Feroz...^000000. Abra e veja a janela da missão para obter os detalhes.",
+        "es": "Recibiste la tarea ^005500Pequeño, pero feroz…^000000. Abre la ventana de misiones para ver los detalles."
+    },
+    "eLdH": {
+        "en": "[Elephantine]\nI have qualms about this one, but somebody anonymously asked me to hunt down the naughty fairies.",
+        "pt": "[Elephantine]\nTenho dúvidas sobre essa, mas alguém anonimamente me pediu para caçar as fadas malvadas.",
+        "es": "[Elephantine]\nTengo mis dudas con esta tarea, pero alguien me pidió de forma anónima que cazara a las hadas traviesas."
+    },
+    "ebdH": {
+        "en": "[Elephantine]\nI don't know what grudge he has against the fairies, but a request is a request.",
+        "pt": "[Elephantine]\nNão sei que tipo de ressentimento ele tem contra as fadas, mas um pedido é um pedido.",
+        "es": "[Elephantine]\nNo sé qué problema tendrá con las hadas, pero una solicitud es una solicitud."
+    },
+    "erdH": {
+        "en": "You have received the task ^005500An Unknown Grudge^000000. Open and see the quest window for the details.",
+        "pt": "Você recebeu a tarefa ^005500Um Rancor Desconhecido^000000. Abra e veja a janela da missão para obter os detalhes.",
+        "es": "Recibiste la tarea ^005500Un resentimiento desconocido^000000. Abre la ventana de misiones para ver los detalles."
+    },
+    "e7dH": {
+        "en": "[Elephantine]\nWould you believe it if I said there are balls of blonde hair rolling around? You wouldn't, would you?",
+        "pt": "[Elephantine]\nVocê acreditaria se eu dissesse que há bolas de cabelo loiro rolando por aí? Você não acreditaria, não é?",
+        "es": "[Elephantine]\n¿Me creerías si te dijera que hay bolas de pelo rubio rodando por ahí? No, ¿verdad?"
+    },
+    "fLdH": {
+        "en": "[Elephantine]\nThey don't seem so dangerous, but they are reported to steal books and sweets from adventurers. Please deal with them appropriately.",
+        "pt": "[Elephantine]\nEles não parecem tão perigosos, mas dizem que roubam livros e doces dos aventureiros. Por favor, lide com eles adequadamente.",
+        "es": "[Elephantine]\nNo parecen muy peligrosas, pero se nos informó que roban los libros y caramelos de los trotamundos. Por favor, ocúpate de ellas de manera apropiada."
+    },
+    "fbdH": {
+        "en": "You have received the task ^005500Blondie Ann^000000. Open and see the quest window for the details.",
+        "pt": "Você recebeu a tarefa ^005500Ann Loira^000000. Abra e veja a janela da missão para obter os detalhes.",
+        "es": "Recibiste la tarea ^005500Rubio sedoso^000000. Abre la ventana de misiones para ver los detalles."
+    },
+    "frdH": {
+        "en": "[Elephantine]\nHuh? Did I see wrong? I don't see any tasks... Let me look for them again.",
+        "pt": "[Elephantine]\nHã? Será que eu vi errado? Não estou vendo nenhuma tarefa... Deixe-me procurá-las novamente.",
+        "es": "[Elephantine]\n¿Eh? ¿Acaso me engañan mis ojos? No veo ninguna tarea… Déjame buscarlas de nuevo."
+    },
+    "f7dH": {
+        "en": "Hotcha",
+        "pt": "Hotcha",
+        "es": "Bow-wow"
+    },
+    "gLdH": {
+        "en": "[Hotcha]\nHmm, you don't look reliable enough for Elephantine's tasks.",
+        "pt": "[Hotcha]\nHmm, você não parece ser confiável o suficiente para as tarefas da Elephantine.",
+        "es": "[Hotcha]\nMmm, no pareces lo suficientemente confiable para hacer las tareas de Elephantine."
+    },
+    "gbdH": {
+        "en": "[Hotcha]\nThis place is like a paradise for adventurers. Not for weak ones like you, though.",
+        "pt": "[Hotcha]\nEste lugar é como um paraíso para os aventureiros. Mas não para os fracos como você.",
+        "es": "[Hotcha]\nEste lugar es como un paraíso para los trotamundos. Pero no para débiles como tú."
+    },
+    "grdH": {
+        "en": "[Hotcha]\nI see you haven't received\nany tasks yet.\nGo talk to Elephantine,\nand Elephantine will give you\none of the countless tasks.",
+        "pt": "[Hotcha]\nVejo que você ainda não recebeu\nnenhuma tarefa ainda.\nVá falar com Elephantine,\ne Elephantine lhe dará\numa das inúmeras tarefas.",
+        "es": "[Hotcha]\nVeo que todavía no recibiste\nninguna tarea.\nVe a hablar con Elephantine,\nte dará \nuna de las innumerables tareas."
+    },
+    "g7dH": {
+        "en": "[Hotcha]\nThe time is up to complete the existing tasks.",
+        "pt": "[Hotcha]\nChegou a hora de concluir as tarefas existentes.",
+        "es": "[Hotcha]\nLlegó el momento de completar las tareas pendientes."
+    },
+    "hLdH": {
+        "en": "[Hotcha]\nIf you have any unfinished tasks in your quest log, they are considered 'failed' and removed from the log.",
+        "pt": "[Hotcha]\nSe você tiver tarefas inacabadas no registro de missões, elas serão consideradas 'fracassadas' e removidas do registro.",
+        "es": "[Hotcha]\nSi tienes alguna tarea pendiente en tu registro de misiones, se considerará fallida y se eliminará del registro."
+    },
+    "hbdH": {
+        "en": "[Hotcha]\nOnce they are removed, go talk to Elephantine and you can receive new tasks.",
+        "pt": "[Hotcha]\nDepois que eles forem removidos, vá falar com Elephantine e você poderá receber novas tarefas.",
+        "es": "[Hotcha]\nUna vez eliminadas, ve a hablar con Elephantine para recibir nuevas tareas."
+    },
+    "hrdH": {
+        "en": "[Hotcha]\nWelcome.\nHow may I help you?",
+        "pt": "[Hotcha]\nBem-vindo.\nEm que posso ajudar?",
+        "es": "[Hotcha]\n¡Llegaste!\n¿En qué puedo ayudarte?"
+    },
+    "h7dH": {
+        "en": "I have completed a task.",
+        "pt": "Concluí uma tarefa.",
+        "es": "Completé una tarea."
+    },
+    "iLdH": {
+        "en": "[Hotcha]\nOh.\nHave you?\nPlease wait a minute while I'll check the documents.",
+        "pt": "[Hotcha]\nOh.\nAh é?\nPor favor, aguarde um minuto enquanto eu verifico os documentos.",
+        "es": "[Hotcha]\nAh.\n¿De verdad?\nEspera un minuto mientras compruebo los documentos."
+    },
+    "ibdH": {
+        "en": "[Hotcha]\nYes, I see you've completed the task. It has been confirmed as completed.",
+        "pt": "[Hotcha]\nSim, vejo que você concluiu a tarefa. Ela foi confirmada como concluída.",
+        "es": "[Hotcha]\nSí, veo que completaste la tarea. Confirmo que la completaste."
+    },
+    "irdH": {
+        "en": "[Hotcha]\nHmm...{0} \nIt may be a documentation error, but according to the documents, you have nothing to do with the tasks.",
+        "pt": "[Hotcha]\nHmm...{0} \nPode ser um erro de documentação, mas, de acordo com os documentos, você não tem nada a ver com as tarefas.",
+        "es": "[Hotcha]\nMmm… {0}. \nQuizás sea un error de los documentos, pero según esto, no tienes nada que ver con las tareas."
+    },
+    "i7dH": {
+        "en": "Bow-wow",
+        "pt": "Bow-wow",
+        "es": "Distribuidor General Good"
+    },
+    "jLdH": {
+        "en": "[Bow-wow]\nI try to give tasks only to reliable people. You are......... no, never mind.",
+        "pt": "[Bow-wow]\nTento dar tarefas somente a pessoas confiáveis. Você é......... não, não importa.",
+        "es": "[Bow-wow]\nIntento dar tareas solo a gente de confianza. Tú… no, no importa."
+    },
+    "jbdH": {
+        "en": "[Bow-wow]\nYou really have no clue. What could you do with such a weak body?",
+        "pt": "[Bow-wow]\nVocê realmente não tem a menor ideia. O que você poderia fazer com um corpo tão fraco?",
+        "es": "[Bow-wow]\nRealmente no tienes ni idea. ¿Qué podrías hacer con un cuerpo tan débil?"
+    },
+    "jrdH": {
+        "en": "[Bow-wow]\nI have no additional tasks available now. If I get some, I'll let you know when you come back.",
+        "pt": "[Bow-wow]\nNão tenho tarefas adicionais disponíveis no momento. Se eu conseguir alguma, avisarei quando você voltar.",
+        "es": "[Bow-wow]\nAhora no tengo tareas adicionales disponibles. Si me llega algo, te avisaré cuando regreses."
+    },
+    "j7dH": {
+        "en": "[Bow-wow]\nWill you please check with the ^990099General Goods Dealer^000000\non the details of the previous task?",
+        "pt": "[Bow-wow]\nVocê poderia verificar com o ^990099Vendedor de Mercadorias Gerais^000000\nsobre os detalhes da tarefa anterior?",
+        "es": "[Bow-wow]\n¿Podrías confirmar con el ^990099Comerciante de artículos generales^000000?\nlos detalles de la tarea anterior?"
+    },
+    "kLdH": {
+        "en": "[Bow-wow]\nWelcome.\nI have some tasks for you - will you take a look at them?",
+        "pt": "[Bow-wow]\nBem-vindo.\nTenho algumas tarefas para você - pode dar uma olhada nelas?",
+        "es": "[Bow-wow]\n¡Llegaste!\nTengo algunas tareas para ti, ¿quieres echarles un vistazo?"
+    },
+    "kbdH": {
+        "en": "[Bow-wow]\nHere, we make all kinds of supplies for adventurers.",
+        "pt": "[Bow-wow]\nAqui, fabricamos todos os tipos de suprimentos para aventureiros.",
+        "es": "[Bow-wow]\nAquí fabricamos todo tipo de suministros para trotamundos."
+    },
+    "krdH": {
+        "en": "[Bow-wow]\nWe accept raw materials for the supplies once a day.",
+        "pt": "[Bow-wow]\nAceitamos matérias-primas para os suprimentos uma vez por dia.",
+        "es": "[Bow-wow]\nAceptamos materias primas para los suministros una vez al día."
+    },
+    "k7dH": {
+        "en": "[Bow-wow]\nSometimes, we might ask for materials that are very difficult to obtain. In that case, try to get help from your fellow adventurers.",
+        "pt": "[Bow-wow]\nÀs vezes, podemos pedir materiais que são muito difíceis de obter. Nesse caso, tente obter ajuda de seus colegas aventureiros.",
+        "es": "[Bow-wow]\nA veces podríamos pedir materiales que son difíciles de conseguir. En ese caso, busca la ayuda de otros trotamundos."
+    },
+    "lLdH": {
+        "en": "[Bow-wow]\nLet me see... what supplies are we making today...?",
+        "pt": "[Bow-wow]\nDeixe-me ver... que suprimentos estamos fazendo hoje...?",
+        "es": "[Bow-wow]\nA ver… ¿qué suministros vamos a hacer hoy…?"
+    },
+    "lbdH": {
+        "en": "[Bow-wow]\nHow about this one?",
+        "pt": "[Bow-wow]\nQue tal este aqui?",
+        "es": "[Bow-wow]\n¿Qué te parece esta?"
+    },
+    "lrdH": {
+        "en": "[Bow-wow]\nThe adventurers here make sure to bring with them, on their exploration to dungeons, a preservative to keep their food fresh. Do you know what the preservative is made from?",
+        "pt": "[Bow-wow]\nOs aventureiros daqui fazem questão de levar consigo, em suas explorações às masmorras, um conservante para manter a comida fresca. Você sabe do que é feito o conservante?",
+        "es": "[Bow-wow]\nCuando exploran las mazmorras, los trotamundos de aquí se aseguran de llevar un conservante para mantener frescos sus alimentos. ¿Sabes de qué está hecho el conservante?"
+    },
+    "l7dH": {
+        "en": "[Bow-wow]\n*grin* None other than... Insect Feelers! The General Goods Dealer there asked me to get four of them. I personally would not eat it for all the world...",
+        "pt": "[Bow-wow]\n*sorrisinho* Nada menos que... Antenas de Inseto! O vendedor de produtos gerais de lá me pediu para comprar quatro deles. Eu pessoalmente não comeria isso por nada no mundo...",
+        "es": "[Bow-wow]\n*Sonríe* Nada menos que… ¡Antena de insecto! El Comerciante de artículos generales me pidió que le llevara cuatro. La verdad es que yo no me la comería por nada del mundo…"
+    },
+    "mLdH": {
+        "en": "You have received the task ^880088Material for the Preservative^000000. Open and see the quest window for the details.",
+        "pt": "Você recebeu a tarefa ^880088Material para o Preservador^000000. Abra e veja a janela da missão para obter os detalhes.",
+        "es": "Recibiste la tarea ^880088Material para el conservante^000000. Abre la ventana de misiones para ver los detalles."
+    },
+    "mbdH": {
+        "en": "[Bow-wow]\nThese days, it's common for adventurers here to make talismans to protect themselves on their dangerous adventures. Like a kind of insurance.",
+        "pt": "[Bow-wow]\nHoje em dia, é comum que os aventureiros daqui façam talismãs para se protegerem em suas aventuras perigosas. Como uma espécie de seguro.",
+        "es": "[Bow-wow]\nHoy en día, es normal que los trotamundos fabriquen talismanes para protegerse durante sus peligrosas aventuras. Es como una especie de seguro."
+    },
+    "mrdH": {
+        "en": "[Bow-wow]\nImmortal Hearts seem to be all the rage lately. The General Goods Merchant asked me to get five of them.",
+        "pt": "[Bow-wow]\nOs Corações Imortais parecem estar na moda ultimamente. O Mercador de Produtos Gerais me pediu para comprar cinco deles.",
+        "es": "[Bow-wow]\nLos Corazones inmortales parecen estar de moda últimamente. El Comerciante de artículos generales me pidió que le llevara cinco."
+    },
+    "m7dH": {
+        "en": "You have received the quest ^880088A Symbol of Resistance^000000. Open and see the quest window for the details.",
+        "pt": "Você recebeu a missão ^880088Um Símbolo de Resistência^000000. Abra e veja a janela da missão para obter os detalhes.",
+        "es": "Recibiste la tarea ^880088Un símbolo de resistencia^000000. Abre la ventana de misiones para ver los detalles."
+    },
+    "nLdH": {
+        "en": "[Bow-wow]\nThey need tons of Rotten Bandages for making first aid bandages. They must have run out of new materials.",
+        "pt": "[Bow-wow]\nEles precisam de toneladas de Bandagens Podres para fazer bandagens de primeiros socorros. Eles devem ter ficado sem novos materiais.",
+        "es": "[Bow-wow]\nNecesitan una tonelada de Vendajes podridos para hacer vendajes de primeros auxilios. Deben haberse quedado sin nuevos materiales."
+    },
+    "nbdH": {
+        "en": "[Bow-wow]\nThe client is the General Goods Merchant over there. Three bunches of them will be enough.",
+        "pt": "[Bow-wow]\nO cliente é o Mercador de Produtos Gerais ali. Três montes deles serão suficientes.",
+        "es": "[Bow-wow]\nEl cliente es el Comerciante de artículos generales de ahí. Con tres sería suficiente."
+    },
+    "nrdH": {
+        "en": "You have received the task ^880088Material for First Aid Kits^000000. Open and see the quest window for the details.",
+        "pt": "Você recebeu a tarefa ^880088Material para kits de primeiros socorros^000000. Abra e veja a janela da missão para obter os detalhes.",
+        "es": "Recibiste la tarea ^880088Material para kits de primeros auxilios^000000. Abre la ventana de misiones para ver los detalles."
+    },
+    "n7dH": {
+        "en": "[Bow-wow]\nSymbols of strong warriors give adventurers great support on their journeys. That's why Orcish Vouchers sell like hotcakes.",
+        "pt": "[Bow-wow]\nOs símbolos de guerreiros fortes dão aos aventureiros um grande apoio em suas jornadas. É por isso que os Amuleto dos Orcs são vendidos como pão quente.",
+        "es": "[Bow-wow]\nLos símbolos de guerreros fuertes dan a los trotamundos un gran apoyo en sus viajes. Por eso los Cupones de orco se venden como panqueques."
+    },
+    "oLdH": {
+        "en": "[Bow-wow]\nThe General Goods Dealer asked me to get three Orcish Vouchers, which are to be used to make symbols of courage.",
+        "pt": "[Bow-wow]\nO Mercador de Produtos Gerais me pediu três Amuleto dos Orcs, que devem ser usados para criar símbolos de coragem.",
+        "es": "[Bow-wow]\nEl Comerciante de artículos generales me pidió que consiguiera tres Cupones de orco, los que se usarán para hacer símbolos de valor."
+    },
+    "obdH": {
+        "en": "You have received the task ^880088Symbols of Courage^000000. Open and see the quest window for the details.",
+        "pt": "Você recebeu a tarefa ^880088Símbolo de Coragem^000000. Abra e veja a janela da missão para obter os detalhes.",
+        "es": "Recibiste la tarea ^880088Símbolos de valor^000000. Abre la ventana de misiones para ver los detalles."
+    },
+    "ordH": {
+        "en": "[Bow-wow]\nIt seems to be rumored among adventurers that drinking powdered bones mixed with water helps boost their stamina.",
+        "pt": "[Bow-wow]\nParece que há rumores entre os aventureiros de que beber ossos em pó misturados com água ajuda a aumentar sua resistência.",
+        "es": "[Bow-wow]\nParece ser que entre los trotamundos se rumorea que beber huesos en polvo mezclados con agua ayuda a aumentar la resistencia."
+    },
+    "o7dH": {
+        "en": "[Bow-wow]\nThe General Goods Dealer asked me to get three Skel-Bones, which are to be used to make tonic.",
+        "pt": "[Bow-wow]\nO Mercador de Produtos Gerais me pediu três Ossos, que devem ser usados para fazer um tônico.",
+        "es": "[Bow-wow]\nEl Comerciante de artículos generales me pidió tres Huesos de esqueleto para hacer un tónico."
+    },
+    "pLdH": {
+        "en": "You have received the task ^880088Good for Stamina...^000000. Open and see the quest window for the details.",
+        "pt": "Você recebeu a tarefa ^880088Bom para Estamina...^000000. Abra e veja a janela da missão para obter os detalhes.",
+        "es": "Recibiste la tarea ^880088Bueno para la resistencia…^000000. Abre la ventana de misiones para ver los detalles."
+    },
+    "pbdH": {
+        "en": "[Bow-wow]\nHuh? Did I see wrong? I don't see any tasks... Let me look for them again.",
+        "pt": "[Bow-wow]\nHã? Será que eu vi errado? Não estou vendo nenhuma tarefa... Deixe-me procurá-las novamente.",
+        "es": "[Bow-wow]\n¿Eh? ¿Acaso me engañan mis ojos? No veo ninguna tarea… Déjame buscarlas de nuevo."
+    },
+    "prdH": {
+        "en": "General Good Dealer",
+        "pt": "Mercador de Produtos Gerais",
+        "es": "Woof-grrr"
+    },
+    "p7dH": {
+        "en": "[General Good Dealer]\nHmm, you don't look reliable enough for Bow-wow's tasks.",
+        "pt": "[Mercador de Produtos Gerais]\nHmm, você não parece ser confiável o suficiente para as tarefas do Bow-wow.",
+        "es": "[Comerciante de art.]\nMmm, no pareces lo suficientemente confiable para hacer las tareas de Bau-Bau."
+    },
+    "qLdH": {
+        "en": "[General Good Dealer]\nWhat could you do with that fragile body? Go get some exercise.",
+        "pt": "[Mercador de Produtos Gerais]\nO que você poderia fazer com esse corpo frágil? Vá fazer algum exercício.",
+        "es": "[Comerciante de art.]\n¿Qué podrías hacer con ese cuerpo tan frágil? Ve a hacer ejercicio."
+    },
+    "qbdH": {
+        "en": "[General Good Dealer]\nI see you haven't received\nany tasks yet.\nGo talk to Bow-wow,\nand Bow-wow will give you\none of the countless tasks.",
+        "pt": "[Mercador de Produtos Gerais]\nVejo que você não recebeu\nnenhuma tarefa ainda.\nVá falar com o Bow-wow,\ne o Bow-wow lhe dará\numa das inúmeras tarefas.",
+        "es": "[Comerciante de art.]\nVeo que todavía no recibiste\nninguna tarea.\nVe a hablar con Bau-Bau,\ny Bau-Bau te dará \nuna de las innumerables tareas."
+    },
+    "qrdH": {
+        "en": "[General Good Dealer]\nThe time is up to complete the existing tasks.",
+        "pt": "[Mercador de Produtos Gerais]\nChegou a hora de concluir as tarefas existentes.",
+        "es": "[Comerciante de art.]\nLlegó el momento de completar las tareas pendientes."
+    },
+    "q7dH": {
+        "en": "[General Good Dealer]\nIf you have any unfinished tasks in your quest log, they are considered 'failed' and removed from the log.",
+        "pt": "[Mercador de Produtos Gerais]\nSe houver alguma tarefa inacabada no seu registro de missões, ela será considerada 'fracassada' e removida do registro.",
+        "es": "[Comerciante de art.]\nSi tienes alguna tarea pendiente en tu registro de misiones, se considerará fallida y se eliminará del registro."
+    },
+    "rLdH": {
+        "en": "[General Good Dealer]\nOnce they are removed, go talk to Bow-wow and you can receive new tasks.",
+        "pt": "[Mercador de Produtos Gerais]\nDepois que eles forem removidos, vá falar com Bow-wow e você poderá receber novas tarefas.",
+        "es": "[Comerciante de art.]\nUna vez eliminadas, ve a hablar con Bau-Bau para recibir nuevas tareas."
+    },
+    "rbdH": {
+        "en": "[General Good Dealer]\nWelcome.\nHow may I help you?",
+        "pt": "[Mercador de Produtos Gerais]\nBem-vindo.\nEm que posso ajudar?",
+        "es": "[Comerciante de art.]\n¡Llegaste!\n¿En qué puedo ayudarte?"
+    },
+    "rrdH": {
+        "en": "[General Good Dealer]\nOh.\nHave you?\nPlease wait a minute while I'll check the documents.",
+        "pt": "[Mercador de Produtos Gerais]\nOh.\nVocê tem?\nPor favor, aguarde um minuto enquanto eu verifico os documentos.",
+        "es": "[Comerciante de art.]\nAh.\n¿De verdad?\nEspera un minuto mientras compruebo los documentos."
+    },
+    "r7dH": {
+        "en": "[General Good Dealer]\nI've received the items all right. It will be some time before I have another task for you, so why don't you visit the hot spring and relax?",
+        "pt": "[Mercador de Produtos Gerais]\nRecebi os itens corretamente. Vai levar algum tempo até que eu tenha outra tarefa para você, então por que não visita a fonte termal e relaxa?",
+        "es": "[Comerciante de art.]\nRecibí todos los objetos sin problemas. Pasará tiempo antes de que tenga otra tarea para ti, así que ¿por qué no visitas las aguas termales y te relajas?"
+    },
+    "sLdH": {
+        "en": "[General Good Dealer]\nThe amount is not enough...",
+        "pt": "[Mercador de Produtos Gerais]\nO valor não é suficiente...",
+        "es": "[Comerciante de art.]\nLa cantidad no es suficiente…"
+    },
+    "sbdH": {
+        "en": "[General Good Dealer]\nHmm... {0} \nIt may be a documentation error, but according to the documents, you have nothing to do with the tasks.",
+        "pt": "[Mercador de Produtos Gerais]\nHmm... {0} \nPode ser um erro de documentação, mas, de acordo com os documentos, você não tem nada a ver com as tarefas.",
+        "es": "[Comerciante de art.]\nMmm… {0}. \nQuizás sea un error de los documentos, pero según esto, no tienes nada que ver con las tareas."
+    },
+    "srdH": {
+        "en": "Woof-grrr",
+        "pt": "Woof-grrr",
+        "es": "Comerciante de mercancías"
+    },
+    "s7dH": {
+        "en": "[Woof-grrr]\nCan you please keep away from me? You're getting in the way.",
+        "pt": "[Woof-grrr]\nPode se afastar de mim, por favor? Você está me atrapalhando.",
+        "es": "[Wuf-grrr]\n¿Puedes alejarte de mí? Estás estorbando."
+    },
+    "tLdH": {
+        "en": "[Woof-grrr]\nThis place is not a nursery. Grow up and come back, and I'll gladly give you tasks.",
+        "pt": "[Woof-grrr]\nEste lugar não é um berçário. Cresça e volte, e eu terei prazer em lhe dar tarefas.",
+        "es": "[Wuf-grrr]\nEste lugar no es una guardería. Vuelve cuando hayas madurado, y con gusto te asignaré tareas."
+    },
+    "tbdH": {
+        "en": "[Woof-grrr]\nI have no additional tasks available now. If I get some, I'll let you know when you come back.",
+        "pt": "[Woof-grrr]\nNão tenho tarefas adicionais disponíveis no momento. Se eu conseguir alguma, avisarei quando você voltar.",
+        "es": "[Wuf-grrr]\nAhora no tengo tareas adicionales disponibles. Si me llega algo, te avisaré cuando regreses."
+    },
+    "trdH": {
+        "en": "[Woof-grrr]\nWill you please check with the ^990099Commodities Dealer^000000, standing across from me,\non the details of the previous task?",
+        "pt": "[Woof-grrr]\nVocê poderia verificar com o ^990099Negociante Mercadora^000000, que está à minha frente,\nsobre os detalhes da tarefa anterior?",
+        "es": "[Wuf-grrr]\n¿Podrías confirmar con la ^990099Comerciante de productos^000000, de pie frente a mí,\nlos detalles de la tarea anterior?"
+    },
+    "t7dH": {
+        "en": "[Woof-grrr]\nNice to see you.\nI have some tasks for you - will you take a look at them?",
+        "pt": "[Woof-grrr]\nPrazer em vê-lo.\nTenho algumas tarefas para você - pode dar uma olhada nelas?",
+        "es": "[Wuf-grrr]\nMe alegra verte.\nTengo algunas tareas para ti, ¿quieres echarles un vistazo?"
+    },
+    "uLdH": {
+        "en": "[Woof-grrr]\nBow-wow and I are in the same industry.",
+        "pt": "[Woof-grrr]\nBow-wow e eu estamos no mesmo setor.",
+        "es": "[Wuf-grrr]\nBau-Bau y yo trabajamos en la misma industria."
+    },
+    "ubdH": {
+        "en": "[Woof-grrr]\nWe are a manufacturer of adventurers' supplies.",
+        "pt": "[Woof-grrr]\nSomos um fabricante de suprimentos para aventureiros.",
+        "es": "[Wuf-grrr]\nSomos fabricantes de suministros para trotamundos."
+    },
+    "urdH": {
+        "en": "[Woof-grrr]\nMy tasks won't be easy - you'd better prepare yourself.",
+        "pt": "[Woof-grrr]\nMinhas tarefas não serão fáceis - é melhor você se preparar.",
+        "es": "[Wuf-grrr]\nMis tareas no serán fáciles, así que será mejor que te prepares."
+    },
+    "u7dH": {
+        "en": "[Woof-grrr]\nHmm... What tasks are at hand today?",
+        "pt": "[Woof-grrr]\nHmm... Quais são as tarefas que temos em mãos hoje?",
+        "es": "[Wuf-grrr]\nMmm… ¿Qué tareas tenemos para hoy?"
+    },
+    "vLdH": {
+        "en": "[Woof-grrr]\nOh. This one looks good.",
+        "pt": "[Woof-grrr]\nOh. Este parece bom.",
+        "es": "[Wuf-grrr]\nAh. Esta luce muy bien."
+    },
+    "vbdH": {
+        "en": "[Woof-grrr]\nSome people just hang their talismans around their necks, but more people choose to seal them in special cases and carry them on their bodies.",
+        "pt": "[Woof-grrr]\nAlgumas pessoas simplesmente penduram seus talismãs no pescoço, mas outras optam por selá-los em estojos especiais e carregá-los no corpo.",
+        "es": "[Wuf-grrr]\nAlgunas personas usan sus talismanes en el cuello, pero son más las que optan por sellarlos en estuches especiales y llevarlos en el cuerpo."
+    },
+    "vrdH": {
+        "en": "[Woof-grrr]\nMementos serve as inspirations for designers of those cases. The Commodities Dealer across from me asked me to get two of them.",
+        "pt": "[Woof-grrr]\nAs lembranças servem de inspiração para os designers desses estojos. O Negociante Mercadora à minha frente me pediu para comprar dois deles.",
+        "es": "[Wuf-grrr]\nLos Recuerdos sirven de inspiración a los diseñadores de esos estuches. La Comerciante de productos de enfrente me pidió dos."
+    },
+    "v7dH": {
+        "en": "You have received the task ^880088The Latest Trend in Talismans^000000. Open and see the quest window for the details.",
+        "pt": "Você recebeu a tarefa ^880088A última tendência em Talismãs^000000. Abra e veja a janela da missão para obter os detalhes.",
+        "es": "Recibiste la tarea ^880088La última tendencia en talismanes^000000. Abre la ventana de misiones para ver los detalles."
+    },
+    "wLdH": {
+        "en": "[Woof-grrr]\nAdventurers make sure to keep their talismans safe, because they could save their lives.",
+        "pt": "[Woof-grrr]\nOs aventureiros se certificam de manter seus talismãs seguros, pois eles podem salvar suas vidas.",
+        "es": "[Wuf-grrr]\nLos trotamundos se aseguran de mantener a salvo sus talismanes, porque podrían salvarles la vida."
+    },
+    "wbdH": {
+        "en": "[Woof-grrr]\nThe Commodities Dealer across from me seems to make protective cases out of Shells. I was asked to get three of them.",
+        "pt": "[Woof-grrr]\nO Negociante Mercadora à minha frente parece fazer caixas de proteção com conchas. Pediram-me para comprar três delas.",
+        "es": "[Wuf-grrr]\nLa Comerciante de productos de enfrente parece que hace estuches de protección de Caparazones. Me pidió tres."
+    },
+    "·G": {
+        "en": "You have received the task ^880088Keep Your Valuables Safe^000000. Open and see the quest window for the details.",
+        "pt": "Você recebeu a tarefa ^880088Guarde Bem Seus Pertences^000000. Abra e veja a janela da missão para obter os detalhes.",
+        "es": "Recibiste la tarea ^880088Mantén lo valioso a salvo^000000. Abre la ventana de misiones para ver los detalles."
+    },
+    "÷G": {
+        "en": "[Woof-grrr]\nAdventurers that go into the bushes of the Maze of the Hazy Forest always wear shin guards.",
+        "pt": "[Woof-grrr]\nOs aventureiros que entram nos arbustos do Labirinto da Floresta Nebulosa sempre usam caneleiras.",
+        "es": "[Wuf-grrr]\nLos trotamundos que se adentran en los arbustos del laberinto del Bosque brumoso siempre llevan grebas."
+    },
+    "ķG": {
+        "en": "[Woof-grrr]\nThe Commodities Dealer across from me asked me to get three Scale Shells, which are to be used to make shin guards.",
+        "pt": "[Woof-grrr]\nO Negociante Mercadora à minha frente me pediu para comprar três conchas de escamas, que serão usadas para fazer caneleiras.",
+        "es": "[Wuf-grrr]\nLa Comerciante de productos de enfrente me pidió tres Corazas escamosas, las que usará para hacer grebas."
+    },
+    "ŷG": {
+        "en": "You have received the task ^880088Material for Shin Guards^000000. Open and see the quest window for the details.",
+        "pt": "Você recebeu a tarefa ^880088Material para caneleiras^000000. Abra e veja a janela da missão para obter os detalhes.",
+        "es": "Recibiste la tarea ^880088Material para grebas^000000. Abre la ventana de misiones para ver los detalles."
+    },
+    "ƷG": {
+        "en": "[Woof-grrr]\nI have a task for you at hand, making a vaccine for possible poisonous insects.",
+        "pt": "[Woof-grrr]\nTenho uma tarefa para você: fazer uma vacina para possíveis insetos venenosos.",
+        "es": "[Wuf-grrr]\nTengo una tarea para ti, se trata de hacer una vacuna para posibles insectos venenosos."
+    },
+    "ǷG": {
+        "en": "[Woof-grrr]\nThe Commodities Dealer across from me asked me to get two Venom Canines, which are to be used in the research of the substance.",
+        "pt": "[Woof-grrr]\nO Negociante Mercadora à minha frente me pediu para pegar dois caninos venenosos, que serão usados na pesquisa da substância.",
+        "es": "[Wuf-grrr]\nLa Comerciante de productos de enfrente me pidió dos Colmillos venenosos, los que usará para investigar la sustancia."
+    },
+    "ȷG": {
+        "en": "You have received the task ^880088Poison for Poison...^000000. Open and see the quest window for the details.",
+        "pt": "Você recebeu a tarefa ^880088Veneno por veneno...^000000. Abra e veja a janela da missão para obter os detalhes.",
+        "es": "Recibiste la tarea ^880088Veneno contra veneno…^000000. Abre la ventana de misiones para ver los detalles."
+    },
+    "ɷG": {
+        "en": "[Woof-grrr]\nIt seems they have run out of the material for adding non-slip soles to shoes.",
+        "pt": "[Woof-grrr]\nParece que acabou o material para adicionar solas antiderrapantes aos calçados.",
+        "es": "[Wuf-grrr]\nParece que se agotó el material para colocar suelas antideslizantes en los zapatos."
+    },
+    "ʷG": {
+        "en": "[Woof-grrr]\nThe Commodities Dealer across from me commissioned me to get five globs of Sticky Mucus.",
+        "pt": "[Woof-grrr]\nO Negociante Mercadora à minha frente me encarregou de pegar cinco bolas de Muco Pegajoso.",
+        "es": "[Wuf-grrr]\nLa Comerciante de productos de enfrente me encargó cinco pegotes de Moco pegajoso."
+    },
+    "˷G": {
+        "en": "You have received the task ^880088Don't Slip and Fall^000000. Open and see the quest window for the details.",
+        "pt": "Você recebeu a tarefa ^880088Não escorregue e caia^000000. Abra e veja a janela da missão para obter os detalhes.",
+        "es": "Recibiste la tarea ^880088Cuidado con resbalarte^000000. Abre la ventana de misiones para ver los detalles."
+    },
+    "̷G": {
+        "en": "[Woof-grrr]\nHuh? Did I see wrong? I don't see any tasks... Let me look for them again.",
+        "pt": "[Woof-grrr]\nHã? Será que eu vi errado? Não estou vendo nenhuma tarefa... Deixe-me procurá-las novamente.",
+        "es": "[Wuf-grrr]\n¿Eh? ¿Acaso me engañan mis ojos? No veo ninguna tarea… Déjame buscarlas de nuevo."
+    },
+    "ͷG": {
+        "en": "Commodities Dealer",
+        "pt": "Negociante Mercadora",
+        "es": "Guía del Alma"
+    },
+    "ηG": {
+        "en": "[Commodities Dealer]\nWell, Woof-grrr can't have given a weakling like you tasks.",
+        "pt": "[Negociante Mercadora]\nBem, Woof-grrr não pode ter dado tarefas a um fraco como você.",
+        "es": "[Comerciante de prod.]\nDudo que Wuf-grrr le diera tareas a alguien tan débil como tú."
+    },
+    "ϷG": {
+        "en": "[Commodities Dealer]\nGo away! I can't concentrate on cataloging with you hanging around like that...",
+        "pt": "[Negociante Mercadora]\nVá embora! Não consigo me concentrar na catalogação com você andando por aí desse jeito...",
+        "es": "[Comerciante de prod.]\n¡Largo de aquí! No puedo concentrarme en catalogar mis productos contigo merodeando así…"
+    },
+    "зG": {
+        "en": "[Commodities Dealer]\nI see you haven't received\nany tasks yet.\nGo talk to Woof-grrr,\nand Woof-grrr will give you\none of the countless tasks.",
+        "pt": "[Negociante Mercadora]\nVejo que você não recebeu\nnenhuma tarefa ainda.\nVá falar com Woof-grrr,\ne Woof-grrr dará a você\numa das inúmeras tarefas.",
+        "es": "[Comerciante de prod.]\nVeo que todavía no recibiste\nninguna tarea.\nVe a hablar con Wuf-grrr,\nte dará \nuna de las innumerables tareas."
+    },
+    "ѷG": {
+        "en": "[Commodities Dealer]\nThe time is up to complete the existing tasks.",
+        "pt": "[Negociante Mercadora]\nChegou a hora de concluir as tarefas existentes.",
+        "es": "[Comerciante de prod.]\nLlegó el momento de completar las tareas pendientes."
+    },
+    "ҷG": {
+        "en": "[Commodities Dealer]\nIf you have any unfinished tasks in your quest log, they are considered 'failed' and removed from the log.",
+        "pt": "[Negociante Mercadora]\nSe houver alguma tarefa inacabada no seu registro de missões, ela será considerada 'fracassada' e removida do registro.",
+        "es": "[Comerciante de prod.]\nSi tienes alguna tarea pendiente en tu registro de misiones, se considerará fallida y se eliminará del registro."
+    },
+    "ӷG": {
+        "en": "[Commodities Dealer]\nOnce they are removed, go talk to Woof-grrr and you can receive new tasks.",
+        "pt": "[Negociante Mercadora]\nDepois que eles forem removidos, vá falar com Woof-grrr e você poderá receber novas tarefas.",
+        "es": "[Comerciante de prod.]\nUna vez eliminadas, ve a hablar con Wuf-grrr para recibir nuevas tareas."
+    },
+    "ԷG": {
+        "en": "[Commodities Dealer]\nWelcome.\nHow may I help you?",
+        "pt": "[Negociante Mercadora]\nBem-vindo.\nEm que posso ajudar?",
+        "es": "[Comerciante de prod.]\n¡Llegaste!\n¿En qué puedo ayudarte?"
+    },
+    "շG": {
+        "en": "[Commodities Dealer]\nOh.\nHave you?\nPlease wait a minute while I'll check the documents.",
+        "pt": "[Negociante Mercadora]\nOh.\nVocê tem?\nPor favor, aguarde um minuto enquanto eu verifico os documentos.",
+        "es": "[Comerciante de prod.]\nAh.\n¿De verdad?\nEspera un minuto mientras compruebo los documentos."
+    },
+    "ַG": {
+        "en": "[Commodities Dealer]\nI've received the items all right. I look forward to work with you again.",
+        "pt": "[Negociante Mercadora]\nRecebi os itens corretamente. Estou ansioso para trabalhar com você novamente.",
+        "es": "[Comerciante de prod.]\nRecibí todos los objetos sin problemas. Espero volver a trabajar contigo."
+    },
+    "׷G": {
+        "en": "[Commodities Dealer]\nThe amount is not enough...",
+        "pt": "[Negociante Mercadora]\nO valor não é suficiente...",
+        "es": "[Comerciante de prod.]\nLa cantidad no es suficiente…"
+    },
+    "طG": {
+        "en": "[Commodities Dealer]\nHmm...{0} \nIt may be a documentation error, but according to the documents, you have nothing to do with the tasks.",
+        "pt": "[Negociante Mercadora]\nHmm...{0} \nPode ser um erro de documentação, mas, de acordo com os documentos, você não tem nada a ver com as tarefas.",
+        "es": "[Comerciante de prod.]\nMmm… {0}. \nQuizás sea un error de los documentos, pero según esto, no tienes nada que ver con las tareas."
+    },
+    "ٷG": {
+        "en": "Soul Guide",
+        "pt": "Guia da Alma",
+        "es": "Inicialización Mora Sanjo"
+    },
+    "ڷG": {
+        "en": "[Soul Guide]\nReliability is the primary quality needed in looking for lost souls. You don't look so reliable to me.",
+        "pt": "[Guia da Alma]\nA confiabilidade é a principal qualidade necessária para procurar almas perdidas. Você não me parece tão confiável assim.",
+        "es": "[Guía del Alma]\nLa confiabilidad es la principal cualidad necesaria para buscar almas perdidas. No me pareces muy confiable."
+    },
+    "۷G": {
+        "en": "[Soul Guide]\nYou need to have a strong spirit to do this task. I think you need a lot more discipline.",
+        "pt": "[Guia da Alma]\nVocê precisa ter um espírito forte para realizar essa tarefa. Acho que você precisa de muito mais disciplina.",
+        "es": "[Guía del Alma]\nNecesitas tener un espíritu fuerte para realizar esta tarea. Creo que necesitas mucha más disciplina."
+    },
+    "ܷG": {
+        "en": "You still have marks of the haunting souls on your body.",
+        "pt": "Você ainda tem marcas das almas assombradas em seu corpo.",
+        "es": "Todavía tienes marcas de las almas que te persiguen en el cuerpo."
+    },
+    "ݷG": {
+        "en": "You'll have to come back when the marks have disappeared.",
+        "pt": "Você terá que voltar quando as marcas desaparecerem.",
+        "es": "Tendrás que volver cuando las marcas hayan desaparecido."
+    },
+    "޷G": {
+        "en": "You feel your mind has calmed down once again. You now have enough energy to go look for other souls, so talk to the Guide again.",
+        "pt": "Você sente que sua mente se acalmou mais uma vez. Agora você tem energia suficiente para procurar outras almas, então fale com o Guia novamente.",
+        "es": "Sientes que tu mente se ha calmado una vez más. Ahora tienes suficiente energía para ir a buscar otras almas, así que habla de nuevo con la guía."
+    },
+    "߷G": {
+        "en": "[Soul Guide]\nWelcome.\nAre you ready?",
+        "pt": "[Guia da Alma]\nBem-vindo.\nVocê está pronto?",
+        "es": "[Guía del Alma]\n¡Llegaste!\n¿Tienes todo listo?"
+    },
+    "4LdH": {
+        "en": "[Soul Guide]\nMy job is to gather the remains of the souls haunting the forest and put them to rest.",
+        "pt": "[Guia da Alma]\nMeu trabalho é reunir os restos das almas que assombram a floresta e colocá-los para descansar.",
+        "es": "[Guía del Alma]\nMi trabajo consiste en reunir los restos de las almas que rondan el bosque y ponerlas a descansar."
+    },
+    "4bdH": {
+        "en": "[Soul Guide]\nThere are countless souls trapped in the Maze.",
+        "pt": "[Guia da Alma]\nHá inúmeras almas presas no labirinto.",
+        "es": "[Guía del Alma]\nHay innumerables almas atrapadas en el laberinto."
+    },
+    "4rdH": {
+        "en": "[Soul Guide]\nHelp them get their long-deserved rest.",
+        "pt": "[Guia da Alma]\nAjude-os a ter seu merecido descanso.",
+        "es": "[Guía del Alma]\nAyúdales a conseguir su tan merecido descanso."
+    },
+    "47dH": {
+        "en": "[Soul Guide]\nI'll show you the details of one of the lost souls.",
+        "pt": "[Guia da Alma]\nVou lhe mostrar os detalhes de uma das almas perdidas.",
+        "es": "[Guía del Alma]\nTe mostraré los detalles de una de las almas perdidas."
+    },
+    "5LdH": {
+        "en": "^660066Age 32. Comes from Midgard. Has been missing for 3 months since he went to the Maze of the Hazy Forest in order to collect the native plants. Survival not likely.^000000",
+        "pt": "^660066Idade 32. Vem de Midgard. Está desaparecido há 3 meses, desde que foi ao Labirinto da Floresta Nebulosa para coletar as plantas nativas. Sua sobrevivência é improvável.^000000",
+        "es": "^660066Tiene 32años. Viene de Midgard. Lleva desaparecido 3meses desde que fue al laberinto del Bosque brumoso para recolectar plantas autóctonas. Es poco probable que esté vivo.^000000"
+    },
+    "5bdH": {
+        "en": "^990099Information on missing person Tazar^000000 has been found. Check Quest Window for further information",
+        "pt": "^990099Foram encontradas informações sobre a pessoa desaparecida Tazar^000000. Verifique a Janela de Missão para obter mais informações",
+        "es": "Encontraste ^990099información sobre la persona desaparecida, Tazar^000000. Revisa la ventana de misiones para más información."
+    },
+    "5rdH": {
+        "en": "^660066Age 19. Adventurer who came from far away unknown place by ship. He has been missing for 2 months since he went to explore Maze dressed thin tights despite the protests of all of Mora's residents.^000000\n^660066Even though he alived, will cause trouble to rescue team. ^000000",
+        "pt": "^660066Idade 19. Aventureiro que veio de navio de um lugar distante e desconhecido. Ele está desaparecido há dois meses, desde que foi explorar o Maze vestido com uma meia-calça fina, apesar dos protestos de todos os moradores de Mora.^000000\n^660066Mesmo que tenha sobrevivido, causará problemas à equipe de resgate.^000000",
+        "es": "^660066Tiene 19 años. Un trotamundos que llegó en barco desde un lugar lejano y desconocido. Lleva desaparecido 2meses desde que fue a explorar el laberinto vestido con mallas finas a pesar de las protestas de todos los habitantes de Mora.^000000\n^660066Aunque haya sobrevivido, le causará problemas al equipo de rescate. ^000000"
+    },
+    "57dH": {
+        "en": "^990099Information on missing person Nigel^000000 has been found.  Check Quest Window for further information.",
+        "pt": "^990099Foram encontradas informações sobre a pessoa desaparecida Nigel^000000. Verifique a Janela de Missão para obter mais informações.",
+        "es": "Encontraste ^990099información sobre la persona desaparecida, Nigel^000000.  Revisa la ventana de misiones para más información."
+    },
+    "6LdH": {
+        "en": "^660066Age unknown. Has little bit of a mental illness.  He went alone in order to purify the Maze of the Hazy forest.^000000\n^660066He insist that he came from good ancestry but no one trusts him. He's been missing for 12 years. Survival not likely.^000000",
+        "pt": "^660066Idade desconhecida. Tem um pouco de doença mental. Foi sozinho para purificar o labirinto da floresta Hazy.^000000\n^660066Ele insiste que tem boa ascendência, mas ninguém confia nele. Ele está desaparecido há 12 anos. Sua sobrevivência é improvável.^000000",
+        "es": "^660066Edad desconocida. Sufre de una enfermedad mental.  Viajó solo para purificar el laberinto del Bosque brumoso.^000000\n^660066Insiste en que proviene de buena familia, pero nadie confía en él. Lleva 12años desaparecido. Es poco probable que esté vivo.^000000"
+    },
+    "6bdH": {
+        "en": "^990099Information on missing person Messil^000000 have been found. Check Quest Window for further information",
+        "pt": "^990099Foram encontradas informações sobre a pessoa desaparecida Messil^000000. Verifique a Janela de Missão para obter mais informações",
+        "es": "Encontraste ^990099información sobre la persona desaparecida, Messil^000000. Revisa la ventana de misiones para más información."
+    },
+    "6rdH": {
+        "en": "^660066Age 51. He used to be a biggest thief who stole famous swords from all over the  world. He's gone missing in the Maze after being pursued for running illegal casino house which caused massive casualties in his final years.^000000\nSlim chance of survival at present.^000000",
+        "pt": "^660066Idade 51. Ele costumava ser um grande ladrão que roubava espadas famosas de todo o mundo. Desapareceu no labirinto depois de ser perseguido por administrar uma casa de cassino ilegal, o que causou grandes perdas em seus últimos anos.^000000\nPouca chance de sobrevivência no momento.^000000",
+        "es": "^660066Tiene 51años. Solía ser un gran ladrón que robaba espadas famosas de todo el mundo. Desapareció en el laberinto tras ser perseguido por estar a cargo de un casino ilegal que provocó varias muertes en sus últimos años.^000000\nTiene pocas probabilidades de sobrevivir en la actualidad.^000000"
+    },
+    "67dH": {
+        "en": "^990099Information on missing person Noirit ^000000 has been found. Check Quest Window for further information",
+        "pt": "^990099Foram encontradas informações sobre a pessoa desaparecida Noirit ^000000. Verifique a Janela de Missão para obter mais informações",
+        "es": "Encontraste ^990099información sobre la persona desaparecida, Noirit^000000. Revisa la ventana de misiones para más información."
+    },
+    "7LdH": {
+        "en": "^660066Age 22. Pilot cadet of airship. He has gone missing during his leave while drinking in Mora town. Rumor has it that he fled after signing somewhere. Has been missing for 4 months. Slim chance of survival ^000000",
+        "pt": "^66006622 anos. Cadete piloto de aeronave. Ele desapareceu durante sua licença enquanto bebia na cidade de Mora. Há rumores de que ele fugiu depois de assinar em algum lugar. Está desaparecido há 4 meses. Pouca chance de sobrevivência^000000",
+        "es": "^660066Tiene 22años. Cadete piloto de aeronave. Desapareció durante sus vacaciones mientras bebía en el pueblo de Mora. Se rumorea que huyó después de firmar algo en algún sitio. Lleva desaparecido 4meses. Tiene pocas probabilidades de sobrevivir.^000000"
+    },
+    "7bdH": {
+        "en": "^990099Information on missing person Pajama Sin^000000 has been found. Check Quest Window for further information",
+        "pt": "^990099Foram encontradas informações sobre a pessoa desaparecida Pajama Sin^000000. Verifique a Janela de Missões para obter mais informações",
+        "es": "Encontraste ^990099información sobre la persona desaparecida, Piyama Sin^000000. Revisa la ventana de misiones para más información."
+    },
+    "7rdH": {
+        "en": "^660066Age Unknown. A Female with long hair dressed black. Go on an expedition to the forest of Maze for search for eternal life. Has been missing for 3 months. Slim chance of survival.^000000",
+        "pt": "^660066Idade desconhecida. Mulher de cabelos longos, vestida de preto. Saiu em uma expedição para a floresta do labirinto em busca da vida eterna. Está desaparecida há 3 meses. Pouca chance de sobreviver.^000000",
+        "es": "^660066Edad desconocida. Una mujer de largo cabello vestida de negro. Se embarcó en una expedición al laberinto del bosque en busca de la vida eterna. Lleva desaparecida 3meses. Tiene pocas probabilidades de sobrevivir.^000000"
+    },
+    "77dH": {
+        "en": "^990099Information on missing person Mendel^000000 has been found. Check Quest Window for further information",
+        "pt": "^990099Foram encontradas informações sobre a pessoa desaparecida Mendel^000000. Verifique a janela da missão para obter mais informações",
+        "es": "Encontraste ^990099información sobre la persona desaparecida, Mendel^000000. Revisa la ventana de misiones para más información."
+    },
+    "8LdH": {
+        "en": "^660066Age around 50. The current Mayor of the Mora village. He ran away to the Forest of Maze after being caught from pocketing profit by cheating residence. Survival uncertain^000000",
+        "pt": "^660066Idade em torno de 50 anos. Atual prefeito do vilarejo de Mora. Fugiu para a Floresta do Labirinto depois de ter sido pego embolsando lucros ao trapacear a residência. Sobrevivência incerta^000000",
+        "es": "^660066Tiene alrededor de 50años. Es el alcalde actual del pueblo de Mora. Huyó al laberinto del bosque tras ser sorprendido por malversar fondos y engañar a los residentes. No se sabe si está vivo.^000000"
+    },
+    "8bdH": {
+        "en": "^990099Information on the missing person Milebit^000000 has been found.  Check Quest Window for further information",
+        "pt": "^990099Foram encontradas informações sobre a pessoa desaparecida Milebit^000000. Verifique a Janela de Missão para obter mais informações",
+        "es": "Encontraste ^990099información sobre la persona desaparecida, Milebit^000000.  Revisa la ventana de misiones para más información."
+    },
+    "8rdH": {
+        "en": "^660066Age 29. A young man with unknown background. Fled to the forest of maze after scamming 1200 Mora coins from Mora residents while pretending to start a lot of business and adapting himself in Mora. Survival uncertain^000000",
+        "pt": "^660066Idade 29. Um jovem de origem desconhecida. Fugiu para a floresta do labirinto depois de roubar 1.200 moedas de Mora dos residentes de Mora, enquanto fingia iniciar muitos negócios e se adaptar em Mora. Sobrevivência incerta^000000",
+        "es": "^660066Tiene 29años. Un joven de origen desconocido. Huyó al laberinto del bosque después de estafar a los residentes de Mora con 1200monedas de Mora mientras fingía iniciar muchos negocios y adaptarse a la aldea. No se sabe si está vivo.^000000"
+    },
+    "87dH": {
+        "en": "^990099Information on the missing person Kunmoon^000000 has been found. Check Quest Window for further information",
+        "pt": "^990099Foram encontradas informações sobre a pessoa desaparecida Kunmoon^000000. Verifique a Janela de Missão para obter mais informações",
+        "es": "Encontraste ^990099información sobre la persona desaparecida, Kunmoon^000000. Revisa la ventana de misiones para más información."
+    },
+    "9LdH": {
+        "en": "^660066Age 34.Flurted with several women in Mora. Fled from Mora villagers to the forest of maze. Survival Uncertain^000000",
+        "pt": "^660066Idade: 34 anos. Flertou com várias mulheres em Mora. Fugiu dos aldeões de Mora para a floresta do labirinto. Sobrevivência incerta^000000",
+        "es": "^660066Tiene 34años. Coqueteó con varias mujeres en Mora. Huyó del pueblo de Mora al laberinto del bosque. No se sabe si está vivo.^000000"
+    },
+    "9bdH": {
+        "en": "^990099Information on the missing person Chaihokin^000000 has been Found. Check Quest Window for further information",
+        "pt": "^990099Foram encontradas informações sobre a pessoa desaparecida Chaihokin^000000. Verifique a janela da missão para obter mais informações",
+        "es": "Encontraste ^990099información sobre la persona desaparecida, Chaihokin^000000. Revisa la ventana de misiones para más información."
+    },
+    "9rdH": {
+        "en": "^660066Age Unknown.Disappered with coins which were joint controlled by the villagers. Slim Chance of Survival^000000",
+        "pt": "^660066Desapareceu com moedas que eram controladas em conjunto pelos aldeões. Pouca chance de sobrevivência^000000",
+        "es": "^660066Edad desconocida. Desapareció con monedas que estaban bajo el control de los pueblerinos. Tiene pocas probabilidades de sobrevivir.^000000"
+    },
+    "97dH": {
+        "en": "^990099Information on missing person Tual^000000 has been Found. Check Quest Window for further information",
+        "pt": "^990099Informações sobre a pessoa desaparecida Tual^000000 foram encontradas. Verifique a janela da missão para obter mais informações",
+        "es": "Encontraste ^990099información sobre la persona desaparecida, Tual^000000. Revisa la ventana de misiones para más información."
+    },
+    "+LdH": {
+        "en": "[Soul Guide]\nSomething just doesn't sound right. Please come back after one day.",
+        "pt": "[Guia da Alma]\nAlgo não está certo. Por favor, volte depois de um dia.",
+        "es": "[Guía del Alma]\nAlgo no suena bien. Regresa al cabo de un día."
+    },
+    "+bdH": {
+        "en": "Initializing Mora Sanjo",
+        "pt": "Inicialização do Mora Sanjo",
+        "es": "Cliente Errante"
+    },
+    "+rdH": {
+        "en": "Enter your password",
+        "pt": "Digite sua senha",
+        "es": "Ingresa la contraseña."
+    },
+    "+7dH": {
+        "en": "[Initialization]\n14.1 Initializing all quest window include related daily quest and map and so on",
+        "pt": "[Inicialização]\n14.1 Inicialização de todas as janelas de missões, incluindo missões diárias e mapas relacionados, etc.",
+        "es": "[Inicialización]\n14.1Inicializando la ventana de misiones, esto incluye las misiones diarias, el mapa, etc."
+    },
+    "/LdH": {
+        "en": "Hehe",
+        "pt": "Hehe",
+        "es": "Je, je."
+    },
+    "/bdH": {
+        "en": "Wandering Customer",
+        "pt": "Cliente Errante",
+        "es": "Cliente Aleatorio"
+    },
+    "/rdH": {
+        "en": "[Wandering Customer]\nI don't know whether to believe this art dealer.. He made me standing here like this for days.... Ah.. I feel dizzy.",
+        "pt": "[Cliente errante]\nNão sei se devo acreditar nesse negociante de arte... Ele me fez ficar aqui parado por dias.... Ah... estou me sentindo tonto.",
+        "es": "[Cliente errante]\nNo sé si creerle a este comerciante de arte… Me hizo esperarlo aquí de pie durante días… Ah… Me siento mareada."
+    },
+    "/7dH": {
+        "en": "A Random Customer",
+        "pt": "Um cliente aleatório",
+        "es": "Víctima"
+    },
+    "ALhH": {
+        "en": "[Naive Customer]\nI don't know when carving my pendant will be completed. Since he is reliable art dealer, I suppose he won't break my pendant.",
+        "pt": "[Cliente ingênuo]\nNão sei quando a escultura do meu pingente será concluída. Como ele é um negociante de arte confiável, suponho que não quebrará meu pingente.",
+        "es": "[Clienta ingenua]\nNo sé cuándo terminará de tallar mi pendiente. Como es un comerciante de arte de confianza, supongo que no romperá mi pendiente."
+    },
+    "AbhH": {
+        "en": "Victim",
+        "pt": "Vítima",
+        "es": "Directora de Caballeros"
+    },
+    "ArhH": {
+        "en": "[Victim]\nYou Bastard! I want my rugged outwear! That was passed on to me by my father  *SOB*",
+        "pt": "[Vítima]\nSeu desgraçado! Quero minha roupa robusta! Isso foi passado para mim pelo meu pai *soluço*",
+        "es": "[Víctima]\n¡Infeliz! ¡Quiero mi ropa de exterior resistente! La heredé de mi padre. *Solloza*"
+    },
+    "A7hH": {
+        "en": "^990099 It seems that he has gotten a great deal of damage from the art dealer^000000",
+        "pt": "^990099 Parece que ele sofreu um grande prejuízo com o negociante de arte^000000",
+        "es": "^990099Parece que el comerciante de arte le hizo mucho daño.^000000"
+    }
+}

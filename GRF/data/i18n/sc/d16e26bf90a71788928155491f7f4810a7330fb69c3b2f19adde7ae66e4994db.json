@@ -1,0 +1,435 @@
+{
+    "wDUwBw": {
+        "en": "start",
+        "pt": "start",
+        "es": "start"
+    },
+    "wTUwBw": {
+        "en": "countdown",
+        "pt": "OBJ",
+        "es": "countdown"
+    },
+    "wjUwBw": {
+        "en": "Guillaume Vintenar Axl Rose : Let's attack to burn down Croix's food storage!",
+        "pt": "Suprimentos",
+        "es": "Guillaume Vintenar Axl Rose: ¡Ataquemos para quemar el almacén de comida de Croix!"
+    },
+    "wzUwBw": {
+        "en": "Croix Vintenar Swandery : Master of Valhalla! Let us be gifted with unfailing faith and courage!",
+        "pt": "Soldado Croix Fred Mercury : Suprimentos de Guillaume destruídos! Vencemos! Hahaha!!",
+        "es": "Croix Vintenar Swandery: ¡Amo del Valhalla! ¡Otórganos la fé y el valor inquebrantables que necesitamos!"
+    },
+    "xDUwBw": {
+        "en": "Marollo VII  : Guillaume Marollo, Croix Marollo! Marollo followers!",
+        "pt": "Soldado Guillaume Axl Rose : Suprimentos de Croix destruídos! Vencemos! Hahaha!!",
+        "es": "Marollo VII: ¡Guillaume Marollo, Croix Marollo! ¡Seguidores de Marollo!"
+    },
+    "xTUwBw": {
+        "en": "Marollo VII  : Both camps are competitive, so no camp would be destroyed easily. That means the Marollo kingdoms will never be defeated!",
+        "pt": "barricade",
+        "es": "Marollo VII: Ambos bandos son competitivos, por lo que no se podrán destruir fácilmente. ¡Eso significa que los reinos Marollo nunca serán derrotados!"
+    },
+    "xjUwBw": {
+        "en": "Marollo VII  : I think we'd better terminate the battle, and call it a draw.",
+        "pt": "Barricada",
+        "es": "Marollo VII: Creo que será mejor dar por terminada la batalla y que lo dejemos como un empate."
+    },
+    "xzUwBw": {
+        "en": "Marollo VII  : Hold your royalty and faith for a moment, and let's settle up the battle of Flaviu.",
+        "pt": "Soldado Guillaume Axl Rose : Destruíram nossa Barricada! Chamem o Ferreiro Guillaume para consertá-la!!",
+        "es": "Marollo VII: Contengan su lealtad y su fe por un momento, y resolvamos la batalla de Flaviu."
+    },
+    "yDUwBw": {
+        "en": "Axl Rose, Swandery : Yes sir.",
+        "pt": "Soldado Croix Fred Mercury : Destruíram nossa Barricada! Cadê o Ferreiro Croix para consertá-la?!",
+        "es": "Axl Rose, Swandery: Sí, señor."
+    },
+    "yTUwBw": {
+        "en": "getitem_timer",
+        "pt": "Bandeira Neutra",
+        "es": "getitem_timer"
+    },
+    "yjUwBw": {
+        "en": "OBJ",
+        "pt": "Guillaume conquistou a zona neutra. Eles poderão renascer nessa área.",
+        "es": "OBJ"
+    },
+    "yzUwBw": {
+        "en": "Food Depot",
+        "pt": "Croix conquistou a zona neutra. Eles poderão renascer nessa área.",
+        "es": "Food Depot"
+    },
+    "zDUwBw": {
+        "en": "Guillaume Vintenar Axl Rose : We destroyed Croix's food storehouse. We won that! Wow!",
+        "pt": "NOBJ_mob",
+        "es": "Guillaume Vintenar Axl Rose: Destruimos el mercado de alimentos de Croix. ¡Lo logramos! ¡Vaya!"
+    },
+    "zTUwBw": {
+        "en": "Neutrality Flag",
+        "pt": "Guardião Guillaume",
+        "es": "Neutrality Flag"
+    },
+    "zjUwBw": {
+        "en": "Guillaume obtained a neutrality banner, so they have an advantage.",
+        "pt": "Guardião Croix",
+        "es": "Guillaume obtuvo un estandarte de neutralidad, así que tienen ventaja."
+    },
+    "zzUwBw": {
+        "en": "Croix obtained a neutrality banner so they have an advantage.",
+        "pt": "Ferreiro Guillaume",
+        "es": "Croix obtuvo un estandarte de neutralidad, así que tienen ventaja."
+    },
+    "0DUwBw": {
+        "en": "NOBJ_mob",
+        "pt": "A",
+        "es": "NOBJ_mob"
+    },
+    "0TUwBw": {
+        "en": "Guillaume camp Guardian",
+        "pt": "[Ferreiro Guillaume]\nEita! Barricada destruída!\nPrecisamos de ^00640050 Pedras^000000 para consertá-la!",
+        "es": "Guillaume camp Guardian"
+    },
+    "0jUwBw": {
+        "en": "Croix camp Guardian",
+        "pt": "Consertar",
+        "es": "Croix camp Guardian"
+    },
+    "0zUwBw": {
+        "en": "barricade",
+        "pt": "Ignorar",
+        "es": "barricade"
+    },
+    "1DUwBw": {
+        "en": "Barricade",
+        "pt": "[Ferreiro Guillaume]\nPerfeito! Agora é comigo!",
+        "es": "Barricade"
+    },
+    "1TUwBw": {
+        "en": "Guillaume Vintenar Axl Rose : The barricade in the valley has been destroyed! Where's the blacksmith? We need to build up the barricade again!",
+        "pt": "..",
+        "es": "Guillaume Vintenar Axl Rose: ¡Destruyeron la barricada del valle! ¿Dónde está el herrero? ¡Necesitamos volver a levantar la barricada!"
+    },
+    "1jUwBw": {
+        "en": "Croix Vintenar Swandery : The barricade in the valley is destroyed by the barbarous Guillaume. We need to fix it. Help us! Help us!",
+        "pt": "....",
+        "es": "Croix Vintenar Swandery: La barricada del valle está siendo destruida por el bárbaro Guillaume. Tenemos que arreglarla. ¡Ayúdennos! ¡Ayuda!"
+    },
+    "1zUwBw": {
+        "en": "cell",
+        "pt": "......",
+        "es": "cell"
+    },
+    "2DUwBw": {
+        "en": "A",
+        "pt": "........",
+        "es": "A"
+    },
+    "2TUwBw": {
+        "en": "B",
+        "pt": "..........",
+        "es": "B"
+    },
+    "2jUwBw": {
+        "en": "Guillaume Vintenar",
+        "pt": "............",
+        "es": "Guillaume Vintenar"
+    },
+    "2zUwBw": {
+        "en": "- You will soon be moved to a waiting room. -",
+        "pt": "..............",
+        "es": "-Te trasladarán a una sala de espera pronto.-"
+    },
+    "3DUwBw": {
+        "en": "- Hold on a sec !! -\n- You are carrying too many items -\n- to receive items. -\n- Lighten your things -\n- and please try again. -",
+        "pt": "[Ferreiro Guillaume]\nVou mexer aqui.",
+        "es": "-¡Espera un segundo!-\n-Llevas demasiados objetos.-\n-y no puedes recibir más.-\n-Aligera tu carga-\n-e inténtalo de nuevo.-"
+    },
+    "3TUwBw": {
+        "en": "[Axl Rose]\nBlessed Guillaume!\nLet's enjoy our glorious victory!\n{}, it's a sign reflecting victory.",
+        "pt": "[Ferreiro Guillaume]\nVou mexer aqui. Mover pra lá.",
+        "es": "[Axl Rose]\n¡Bendito sea Guillaume!\n¡Disfrutemos de nuestra gloriosa victoria!\n{}, es un signo que refleja la victoria."
+    },
+    "3jUwBw": {
+        "en": "[Axl Rose]\nBlessed Guillaume!\nLet us celebrate the victory warriors!\n{}, your name will be remembered along with the victory forever!",
+        "pt": "[Ferreiro Guillaume]\nVou mexer aqui. Mover pra lá. Arrumar isso.",
+        "es": "[Axl Rose]\n¡Bendito sea Guillaume!\n¡Celebremos la victoria, guerreros!\n¡{}, tu nombre será recordado por siempre por esta victoria!"
+    },
+    "3zUwBw": {
+        "en": "[Axl Rose]\nYou lost, but you're dedicated to this battle.\nThis is a reward for your great dedication by Guillaume Marollo!\nJust take this defeat as a lesson, and later you would definitely win.",
+        "pt": "[Ferreiro Guillaume]\nVou mexer aqui. Mover pra lá. Arrumar isso. Desfazer aquilo.",
+        "es": "[Axl Rose]\nPerdiste, pero pusiste una gran dedicación a esta batalla.\n¡Esta es una recompensa por tu gran dedicación de parte de Guillaume Marollo!\nToma esta derrota como una lección y ten por seguro que más adelante podrás ganar."
+    },
+    "4DUwBw": {
+        "en": "[Axl Rose]\nYou don't belong here!",
+        "pt": "[Ferreiro Guillaume]\nVou mexer aqui. Mover pra lá. Arrumar isso. Desfazer aquilo. E finalizar essa!",
+        "es": "[Axl Rose]\n¡Tú no perteneces aquí!"
+    },
+    "4TUwBw": {
+        "en": "Croix Vintenar",
+        "pt": "..............\n..............\n..............\n..............\n..............",
+        "es": "Croix Vintenar"
+    },
+    "4jUwBw": {
+        "en": "[Swandery]\nBlessed Croix!\nLet's enjoy our glorious victory!\n{}, it's a sign reflecting victory.",
+        "pt": "[Ferreiro Guillaume]\nTerminei!\nQue alívio.",
+        "es": "[Swandery]\n¡Bendito sea Croix!\n¡Disfrutemos de nuestra gloriosa victoria!\n{}, es un signo que refleja la victoria."
+    },
+    "4zUwBw": {
+        "en": "[Swandery]\nBlessed Croix!\nLet's celebrate the victory!",
+        "pt": "[Ferreiro Guillaume]\nVocê não tem Pedras suficientes!",
+        "es": "[Swandery]\n¡Bendito sea Croix!\n¡Celebremos la victoria!"
+    },
+    "5DUwBw": {
+        "en": "[Swandery]\nOh, {} Don't be sad.\nEven though we didn't win, we did our best.\nThis is a Royal gift from Croix, and please don't forget this battle. We can win the next.",
+        "pt": "[Ferreiro Guillaume]\n^006400Precisamos de 50 Pedras^000000\nDessas que Gatuno coleta do chão!",
+        "es": "[Swandery]\nVaya, {}, no estés triste.\nAunque no ganamos, hicimos nuestro mejor esfuerzo.\nEste es un regalo Real de parte de Croix. Por favor, no olviden esta batalla. Podemos ganar la siguiente."
+    },
+    "5TUwBw": {
+        "en": "[Swandery]\nYou don't belong here!",
+        "pt": "[Ferreiro Guillaume]\nOs inimigos estão chegando! Recuar! Recuar!",
+        "es": "[Swandery]\n¡Tú no perteneces aquí!"
+    },
+    "5jUwBw": {
+        "en": "Therapist in battle",
+        "pt": "[Ferreiro Guillaume]\nVocê é o inimigo!",
+        "es": "Therapist in battle"
+    },
+    "5zUwBw": {
+        "en": "[Therapist in battle]\nJust close your eyes,\nand take a deep breath.\nYou can be free from pain.",
+        "pt": "Ferreiro Croix",
+        "es": "[Terapeuta de batalla]\nCierra los ojos\ny respira hondo.\nPuedes liberarte del dolor."
+    },
+    "6DUwBw": {
+        "en": "Ghost in valley",
+        "pt": "B",
+        "es": "Ghost in valley"
+    },
+    "6TUwBw": {
+        "en": "[Ghost in valley]\nBoo...Boo...",
+        "pt": "[Ferreiro Croix]\nEita! Barricada destruída!\nPrecisamos de ^00640050 Pedras^000000 para consertá-la!",
+        "es": "[Fantasma del valle]\nBuuuu… Buuu…"
+    },
+    "6jUwBw": {
+        "en": "Guillaume Blacksmith",
+        "pt": "[Ferreiro Croix]\nPerfeito! Agora é comigo!",
+        "es": "Guillaume Blacksmith"
+    },
+    "6zUwBw": {
+        "en": "[Guillaume Blacksmith]\nWe are in urgency! The barricade is destroyed!\nTo fix the barricade with ^3131FFStone 50, Sinew of Bear 3, Metal Fragment 500, Rough Elunium 30, Gold 100.^000000We have it all, except Stones!",
+        "pt": "[Ferreiro Croix]\nVou mexer aqui.",
+        "es": "[Herrero de Guillaume]\n¡Tenemos una urgencia! ¡La barricada fue destruida!\nPara arreglar la barricada necesitaremos ^99000050Piedras, 3Tendones de oso, 500Fragmentos de metal, 30Elunium en bruto, 100Oros.^000000¡Tenemos todo, menos las Piedras!"
+    },
+    "7DUwBw": {
+        "en": "Fix.",
+        "pt": "[Ferreiro Croix]\nVou mexer aqui. Mover pra lá.",
+        "es": "Arreglar."
+    },
+    "7TUwBw": {
+        "en": "Don't fix.",
+        "pt": "[Ferreiro Croix]\nVou mexer aqui. Mover pra lá. Arrumar isso.",
+        "es": "No arreglar."
+    },
+    "7jUwBw": {
+        "en": "[Guillaume Blacksmith]\nYou brought enough stones! Let's fix it!",
+        "pt": "[Ferreiro Croix]\nVou mexer aqui. Mover pra lá. Arrumar isso. Desfazer aquilo.",
+        "es": "[Herrero de Guillaume]\n¡Trajiste suficientes piedras! ¡Arreglémosla!"
+    },
+    "7zUwBw": {
+        "en": "..",
+        "pt": "[Ferreiro Croix]\nVou mexer aqui. Mover pra lá. Arrumar isso. Desfazer aquilo. E finalizar essa!",
+        "es": "…"
+    },
+    "8DUwBw": {
+        "en": "....",
+        "pt": "[Ferreiro Croix]\nTerminei!\nQue alívio.",
+        "es": "…"
+    },
+    "8TUwBw": {
+        "en": "......",
+        "pt": "[Ferreiro Croix]\nVocê não tem Pedras suficientes!",
+        "es": "……"
+    },
+    "8jUwBw": {
+        "en": "........",
+        "pt": "[Ferreiro Croix]\n^006400Precisamos de 50 Pedras^000000\nDessas que Gatuno coleta do chão!",
+        "es": "………"
+    },
+    "8zUwBw": {
+        "en": "..........",
+        "pt": "[Ferreiro Croix]\nOs inimigos estão chegando! Recuar! Recuar!",
+        "es": "…………"
+    },
+    "9DUwBw": {
+        "en": "............",
+        "pt": "[Ferreiro Croix]\nVocê é o inimigo!",
+        "es": "……………"
+    },
+    "9TUwBw": {
+        "en": "..............",
+        "pt": "Curandeira",
+        "es": "………………"
+    },
+    "9jUwBw": {
+        "en": "[Guillaume Blacksmith]\nCombine stone and gold in the proper percentage.",
+        "pt": "[Curandeira]\nAguente firme.\nVim curar você.",
+        "es": "[Herrero de Guillaume]\nCombina piedras y oro en el porcentaje adecuado."
+    },
+    "9zUwBw": {
+        "en": "[Guillaume Blacksmith]\nCombine stone and gold in the proper percentage and shape the barricade.",
+        "pt": "Fantasma",
+        "es": "[Herrero de Guillaume]\nCombina piedras y oro en el porcentaje adecuado y dale forma a la barricada."
+    },
+    "+DUwBw": {
+        "en": "[Guillaume Blacksmith]\nCombine stone and gold in the proper percentage and shape the barricade, then put elunium to make it intense.",
+        "pt": "[Fantasma]\nBuuuuu...",
+        "es": "[Herrero de Guillaume]\nCombina piedras y oro en el porcentaje adecuado y dale forma a la barricada; luego, usa el Elunium para darle intensidad."
+    },
+    "+TUwBw": {
+        "en": "[Guillaume Blacksmith]\nCombine stone and gold in the proper percentage and shape the barricade, then put elunium to make it intense. Now decorate with  metal fragment.",
+        "pt": "cell",
+        "es": "[Herrero de Guillaume]\nCombina piedras y oro en el porcentaje adecuado y dale forma a la barricada; luego, usa el Elunium para darle intensidad. Ahora decórala con fragmentos de metal."
+    },
+    "+jUwBw": {
+        "en": "[Guillaume Blacksmith]\nCombine stone and gold in the proper percentage and shape the barricade, then put elunium to make it intense. Decorate with  metal fragment, and plait stones with sinew of bear!",
+        "pt": "Campo Guillaume",
+        "es": "[Herrero de Guillaume]\nCombina piedras y oro en el porcentaje adecuado y dale forma a la barricada; luego, usa el Elunium para darle intensidad. ¡Decórala con fragmentos de metal y une las piedras con los tendones de oso!"
+    },
+    "+zUwBw": {
+        "en": "..............\n..............\n..............\n..............\n..............",
+        "pt": "Campo Croix",
+        "es": "………………\n………………\n………………\n………………\n………………"
+    },
+    "/DUwBw": {
+        "en": "[Guillaume Blacksmith]\nWow! It's done.\nWe are relieved.",
+        "pt": "Soldado Guillaume",
+        "es": "[Herrero de Guillaume]\n¡Vaya! Ya está listo.\nQué alivio."
+    },
+    "/TUwBw": {
+        "en": "[Guillaume Blacksmith]\nNot enough stones!",
+        "pt": "[Axl Rose]\nBênçãos para Guillaume!\nVamos curtir nossa vitória!\n{}, este é seu prêmio.",
+        "es": "[Herrero de Guillaume]\n¡No hay suficientes piedras!"
+    },
+    "/jUwBw": {
+        "en": "[Guillaume Blacksmith]\n^3131FFWe need 50 stones.^000000\nWe are busy, so let's be in a hurry.",
+        "pt": "[Axl Rose]\nTriste pela derrota.\nAgradecemos sua dedicação.\nEsperamos que melhore na próxima.",
+        "es": "[Herrero de Guillaume]\n^990000Necesitamos 50 piedras.^000000\nEstamos ocupados, así que démonos prisa."
+    },
+    "/zUwBw": {
+        "en": "[Guillaume Blacksmith]\nThere are enemies coming! Let's evacuate from here!",
+        "pt": "Soldado Croix",
+        "es": "[Herrero de Guillaume]\n¡Se acerca el enemigo! ¡Evacuemos!"
+    },
+    "ADYwBw": {
+        "en": "[Guillaume Blacksmith]\nThere's the enemy coming!",
+        "pt": "[Fred Mercury]\nBênçãos para Croix!\nVamos curtir nossa vitória!\n{}, este é seu prêmio.",
+        "es": "[Herrero de Guillaume]\n¡Ahí viene el enemigo!"
+    },
+    "ATYwBw": {
+        "en": "Croix Blacksmith",
+        "pt": "[Fred Mercury]\nAh, {}, não chore.\nAgradecemos sua dedicação.\nEsperamos que melhore na próxima.",
+        "es": "Croix Blacksmith"
+    },
+    "AjYwBw": {
+        "en": "[Croix Blacksmith]\nWe are in urgency! The barricade is destroyed!\nTo fix the barricade with ^3131FFStone 50, Sinew of Bear 3, Metal Fragment 500, Rough Elunium 30, Gold 100.^000000We have it all, except stones!",
+        "pt": "countdown",
+        "es": "[Herrero de Croix]\n¡Tenemos una urgencia! ¡La barricada fue destruida!\nPara arreglar la barricada necesitaremos ^99000050 Piedras, 3 Tendones de oso, 500 Fragmentos de metal, 30 Elunium en bruto, 100 Oros.^000000¡Tenemos todo, menos las Piedras!"
+    },
+    "AzYwBw": {
+        "en": "[Croix Blacksmith]\nYou brought enough stones! Let's fix it!",
+        "pt": "Soldado Guillaume Axl Rose : Avante, soldados! Vamos incendiar os Suprimentos de Croix!",
+        "es": "[Herrero de Croix]\n¡Trajiste suficientes piedras! ¡Arreglémosla!"
+    },
+    "BDYwBw": {
+        "en": "[Croix Blacksmith]\nCombine stone and gold in the proper percentage.",
+        "pt": "Soldado Croix Fred Mercury : Deuses do Valhalla! Nos garantam fé e coragem.",
+        "es": "[Herrero de Croix]\nCombina piedras y oro en el porcentaje adecuado."
+    },
+    "BTYwBw": {
+        "en": "[Croix Blacksmith]\nCombine stone and gold in the proper percentage and shape the barricade.",
+        "pt": "Marollo VII : Atenção, Soldados.",
+        "es": "[Herrero de Croix]\nCombina piedras y oro en el porcentaje adecuado y dale forma a la barricada."
+    },
+    "BjYwBw": {
+        "en": "[Croix Blacksmith]\nCombine stone and gold in the proper percentage and shape the barricade, then put elunium to make it intense.",
+        "pt": "Marollo VII : Os exércitos de Croix e Guillaume são inabaláveis. Nosso reino nunca cairá.",
+        "es": "[Herrero de Croix]\nCombina piedras y oro en el porcentaje adecuado y dale forma a la barricada; luego, usa el Elunium para darle intensidad."
+    },
+    "BzYwBw": {
+        "en": "[Croix Blacksmith]\nCombine stone and gold in the proper percentage and shape the barricade, then put elunium to make it intense. Now decorate with  metal fragment.",
+        "pt": "Marollo VII : A perseverança dos exércitos garantirá um empate.",
+        "es": "[Herrero de Croix]\nCombina piedras y oro en el porcentaje adecuado y dale forma a la barricada; luego, usa el Elunium para darle intensidad. Ahora decórala con fragmentos de metal."
+    },
+    "CDYwBw": {
+        "en": "[Croix Blacksmith]\nCombine stone and gold in the proper percentage and shape the barricade, then put elunium to make it intense. Decorate with  metal fragment, and plait stones with  sinew of bear!",
+        "pt": "Marollo VII : Devemos encerrar a batalha e considerar um empate!!",
+        "es": "[Herrero de Croix]\nCombina piedras y oro en el porcentaje adecuado y dale forma a la barricada; luego, usa el Elunium para darle intensidad. ¡Decórala con fragmentos de metal y une las piedras con los tendones de oso!"
+    },
+    "CTYwBw": {
+        "en": "[Croix Blacksmith]\nWow! It's done.\nWe are relieved.",
+        "pt": "Axl Rose, Fred Mercury : Sim, senhor.",
+        "es": "[Herrero de Croix]\n¡Vaya! Ya está listo.\nQué alivio."
+    },
+    "CjYwBw": {
+        "en": "[Croix Blacksmith]\nNot enough stones!",
+        "pt": "getitem_timer",
+        "es": "[Herrero de Croix]\n¡No hay suficientes piedras!"
+    },
+    "CzYwBw": {
+        "en": "[Croix Blacksmith]\n^3131FFWe need 50 stones.^000000\nWe are busy, so let's be in a hurry.",
+        "pt": "Cachorrinho",
+        "es": "[Herrero de Croix]\n^990000Necesitamos 50 piedras.^000000\nEstamos ocupados, así que démonos prisa."
+    },
+    "DDYwBw": {
+        "en": "[Croix Blacksmith]\nThere are enemies coming! Let's evacuate from here!",
+        "pt": "Cancelado",
+        "es": "[Herrero de Croix]\n¡Se acerca el enemigo! ¡Evacuemos!"
+    },
+    "DTYwBw": {
+        "en": "[Croix Blacksmith]\nThere's the enemy coming!",
+        "pt": "Posso ajudar?",
+        "es": "[Herrero de Croix]\n¡Ahí viene el enemigo!"
+    },
+    "DjYwBw": {
+        "en": "Guillaume camp",
+        "pt": "Teleportar todo mundo",
+        "es": "Guillaume camp"
+    },
+    "DzYwBw": {
+        "en": "Croix camp",
+        "pt": "Cancelar",
+        "es": "Croix camp"
+    },
+    "EDYwBw": {
+        "en": "Release all",
+        "pt": "Adeus",
+        "es": "Release all"
+    },
+    "ETYwBw": {
+        "en": "Please try again after installing a special item.",
+        "es": "Vuelve a intentarlo después de que hayas instalado un objeto especial."
+    },
+    "EjYwBw": {
+        "en": "Cancelled.",
+        "es": "Cancelado."
+    },
+    "EzYwBw": {
+        "en": "May I help you?",
+        "es": "¿Puedo ayudarte?"
+    },
+    "FDYwBw": {
+        "en": "Release all.",
+        "es": "Liberar todo."
+    },
+    "FTYwBw": {
+        "en": "Cancel.",
+        "es": "Cancelar."
+    },
+    "FjYwBw": {
+        "en": "Bye",
+        "es": "Adiós."
+    },
+    "FzYwBw": {
+        "en": "Cancelled",
+        "es": "Cancelado."
+    }
+}

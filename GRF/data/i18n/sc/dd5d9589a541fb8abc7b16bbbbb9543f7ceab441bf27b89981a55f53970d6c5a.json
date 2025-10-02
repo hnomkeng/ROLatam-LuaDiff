@@ -1,0 +1,717 @@
+{
+    "ANWSAQ": {
+        "en": "Wandering Merchant",
+        "pt": "Mercador Errante",
+        "es": "Comerciante errante"
+    },
+    "AdWSAQ": {
+        "en": "[Wandering Merchant]\nIf you want to buy this stuff, you can talk to me when you grow up little more.\nThis stuff is for those at least over level 50.",
+        "pt": "[Mercador Errante]\nSe você quiser comprar essas coisas, pode falar comigo quando estiver um pouco mais forte.\nEsse material é para quem tem pelo menos nível 50.",
+        "es": "[Comerciante errante]\nSi quieres comprar estas cosas, puedes hablar conmigo cuando crezcas un poco más.\nEste material es para quienes superen al menos el nivel 50."
+    },
+    "AtWSAQ": {
+        "en": "[Wandering Merchant]\nNice to meet you~~\nI am! YES~~ That's right!\nI'm selling special stuff which you can see only here on our island!",
+        "pt": "[Mercador Errante]\nPrazer em conhecê-lo~~\nSIM! Eu sou~~ É isso mesmo!\nEstou vendendo coisas especiais que só podem ser encontradas aqui na nossa ilha!",
+        "es": "[Comerciante errante]\nGusto en conocerte.\n¡Yo lo soy! SÍ. ¡Así es!\n¡Vendo cosas especiales que solo se ven aquí en nuestra isla!"
+    },
+    "A9WSAQ": {
+        "en": "[Wandering Merchant]\nHow about it? What are you waiting for?\nWhy don't you take a look at what kinds of stuff I have?",
+        "pt": "[Mercador Errante]\nQue tal? O que está esperando?\nPor que não dá uma olhada nos tipos de coisas que eu tenho?",
+        "es": "[Comerciante errante]\n¿Qué te parece? ¿Qué esperas?\n¿Por qué no le echas un vistazo a las cosas que tengo?"
+    },
+    "BNWSAQ": {
+        "en": "[Wandering Merchant]\nOh~\nThese are rental items so make sure you know if you have the ^0000FF1 hour^000000 or ^0000FF7 day^000000 version.",
+        "pt": "[Mercador Errante]\nAh~\nEsses itens são de aluguel, portanto, verifique se você tem a versão de ^0000FF1 hora^000000 ou ^0000FF7 dias^000000.",
+        "es": "[Comerciante errante]\nAh.\nSon objetos de alquiler, así que asegúrate de saber si tienes la versión de ^0000FF1 hora^000000 o la de ^0000FF7 días^000000."
+    },
+    "BdWSAQ": {
+        "en": "[Wandering Merchant]\nWell then, do you want to take a look at what I have now?",
+        "pt": "[Mercador Errante]\nBem, então, quer dar uma olhada no que tenho agora?",
+        "es": "[Comerciante errante]\n¿Quieres echar un vistazo a lo que tengo ahora?"
+    },
+    "BtWSAQ": {
+        "en": "Yes",
+        "pt": "Sim",
+        "es": "Sí."
+    },
+    "B9WSAQ": {
+        "en": "No",
+        "pt": "Não",
+        "es": "No."
+    },
+    "CNWSAQ": {
+        "en": "[Wandering Merchant]\nIt seems that there are too many items in your bag.\nPlease make a space and come back again~",
+        "pt": "[Mercador Errante]\nParece que há muitos itens em sua bolsa.\nAbra um espaço e volte novamente~",
+        "es": "[Comerciante errante]\nParece que hay demasiados objetos en tu bolso.\nVuelve por aquí cuando tengas más espacio."
+    },
+    "CdWSAQ": {
+        "en": "[Wandering Merchant]\nIt seems that you're overweight.\nPlease reduce your weight and come back again~",
+        "pt": "[Mercador Errante]\nVocê está sobrecarregado..\nPor favor, reduza seu peso e volte novamente~",
+        "es": "[Comerciante errante]\nParece que te pasaste con el peso.\nAligera tu carga y regresa."
+    },
+    "CtWSAQ": {
+        "en": "[Wandering Merchant]\nWell, take a good look at them~~~",
+        "pt": "[Mercador Errante]\nBem, dê uma boa olhada nisso~~~",
+        "es": "[Comerciante errante]\nBien, echa un buen vistazo."
+    },
+    "C9WSAQ": {
+        "en": "[Marlin Box(1hr)] 8 E-Coins/50 Cans",
+        "pt": "[Caixa de Marlim (1hr)] 8 E-Moedas/50 Latas",
+        "es": "[Caja de Marlin (1 hora)] 8 monedas de claseE o 50 Latas"
+    },
+    "DNWSAQ": {
+        "en": "[Tuna Box(1hr) ] 8 E-Coins/50 Cans",
+        "pt": "[Caixa de Atum(1hr) ] 8 E-Moedas/50 Latas",
+        "es": "[Caja de Atún (1 hora) ] 8 monedas de claseE o 50 Latas"
+    },
+    "DdWSAQ": {
+        "en": "[Hairtail Box(1hr)] 8 E-Coins/50 Cans",
+        "pt": "[Caixa de Peixe-sabre(1hr)] 8 E-Moedas/50 Latas",
+        "es": "[Caja de Pez sable (1 hora)] 8 monedas de claseE o 50 Latas"
+    },
+    "DtWSAQ": {
+        "en": "[Saurel Box(1hr)] 8 E-Coins/50 Cans",
+        "pt": "[Caixa de Xáreu(1hr)] 8 E-Moedas/50 Latas",
+        "es": "[Caja de Jurel (1 hora)] 8 monedas de claseE o 50 Latas"
+    },
+    "D9WSAQ": {
+        "en": "[Malangdo Crab Box(1hr)] 8 E-Coins/50 Cans",
+        "pt": "[Caixa de Caranguejo de Malangdo(1hr)] 8 E-Moedas/50 Latas",
+        "es": "[Caja de Cangrejo de Malangdo (1 hora)] 8 monedas de claseE o 50 Latas"
+    },
+    "ENWSAQ": {
+        "en": "[Brindle Eel Box(1hr)] 8 E-Coins/50 Cans",
+        "pt": "[Caixa de Enguia Tigrada (1hr)] 8 E-Moedas/50 Latas",
+        "es": "[Caja de Anguila atigrada (1 hora)] 8 monedas de claseE o 50 Latas"
+    },
+    "EdWSAQ": {
+        "en": "[Hairtail Box(7Days)] 10 Silver Vine",
+        "pt": "[Caixa de Peixe-sabre(7Dias)] 10 Frutas dos Gatos",
+        "es": "[Caja de Pez sable (7 días)] 10 Kiwis gatunos"
+    },
+    "EtWSAQ": {
+        "en": "[Spearfish Box(7Days)] 10 Silver Vine",
+        "pt": "[Caixa de Peixe-lança (7Dias)] 10 Frutas dos Gatos",
+        "es": "[Caja de Pez espada (7 días)] 10 Kiwis gatunos"
+    },
+    "E9WSAQ": {
+        "en": "[Saurel Box(7Days)] 10 Silver Vine",
+        "pt": "[Caixa de Xáreu(7Dias)] 10 Frutas dos Gatos",
+        "es": "[Caja de Jurel (7 días)] 10 Kiwis gatunos"
+    },
+    "FNWSAQ": {
+        "en": "[Tuna Box(7Days)] 10 Silver Vine",
+        "pt": "[Caixa de Atum(7Dias)] 10 Frutas dos Gatos",
+        "es": "[Caja de Atún (7 días)] 10 Kiwis gatunos"
+    },
+    "FdWSAQ": {
+        "en": "[Brindle Eel Box(7Days)] 10 Silver Vine",
+        "pt": "[Caixa de Enguia Tigrada (7Dias)] Frutas dos Gatos",
+        "es": "[Caja de Anguila atigrada (7 días)] 10 Kiwis gatunos"
+    },
+    "FtWSAQ": {
+        "en": "[Malangdo Crab Box(7Days)] 10 Silver Vine",
+        "pt": "[Caixa de Caranguejo de Malangdo (7Dias)] Frutas dos Gatos",
+        "es": "[Caja de Cangrejo de Malangdo (7 días)] 10 Kiwis gatunos"
+    },
+    "F9WSAQ": {
+        "en": "End purchasing.",
+        "pt": "Finalizar compra.",
+        "es": "Terminar la compra."
+    },
+    "GNWSAQ": {
+        "en": "[Wandering Merchant]\nAre you interested in ^0000FF[Marlin]^000000?\nThis is a fish that moves according to the season.\nBut this is only a food that I'm talking about, yammy~",
+        "pt": "[Mercador Errante]\nVocê está interessado em ^0000FF[Marlim]^000000?\nEsse é um peixe que se move de acordo com a estação.\nMas estou falando apenas de uma comida, delícia~",
+        "es": "[Comerciante errante]\n¿Te interesa un ^0000FF[Marlin]^000000?\nEs un pez que migra según la estación.\nPero es solo una comida de la que estoy hablando, ñam."
+    },
+    "GdWSAQ": {
+        "en": "[Wandering Merchant]\nOf course, this is a ^DC143CTwo-Handed Spear^000000.\nIt gives a high chance of\ncausing the Bleeding status,\nwhen you're using the Pierce, Clashing Spiral~",
+        "pt": "[Mercador Errante]\nÉ claro que se trata de uma ^DC143CLança de Duas Mãos^000000.\nEla tem uma grande chance de\ncausar o status de Sangramento,\nquando você estiver usando o Perfurar em Espiral~",
+        "es": "[Comerciante errante]\nSe trata de una ^DC143CLanza de dos manos^000000.\nOfrece una alta probabilidad de\ncausar el estado de Sangrado\nal usar Perforación, Espiral Perforante."
+    },
+    "GtWSAQ": {
+        "en": "[Wandering Merchant]\nand it also has...\nincrease 100% of Clashing Spiral ATK and 50% of Inspiration ATK,\nadditional ATK + 30 when Base Lv. is over 100.\nBase ATK is 220.",
+        "pt": "[Mercador Errante]\nE também tem...\nAumento de 100% do ATQ de Perfurar em Espiral e 50% do ATQ de Inspiração,\n+ 30 de ATQ adicional quando o nível básico for superior a 100.\nO ATQ base é 220.",
+        "es": "[Comerciante errante]\ny también…\naumenta en un 100 % el ATQ de Espiral Perforante y en un 50 % el ATQ de Inspiración,\nATQ adicional +30 cuando el nivel de base es superior a 100.\nEl ATQ base es de 220."
+    },
+    "G9WSAQ": {
+        "en": "[Wandering Merchant]\nThe price of the ^0000FF[Marlin]^000000 is \n8 E-Coins or 50 Cans.",
+        "pt": "[Mercador Errante]\nO preço do ^0000FF[Marlim]^000000 é \nde 8 E-Moedas ou 50 Latas.",
+        "es": "[Comerciante errante]\nEl precio de un ^0000FF[Marlin]^000000 es de \n8 monedas de claseE o 50 Latas."
+    },
+    "HNWSAQ": {
+        "en": "[Wandering Merchant]\nWould you like to purchase the ^0000FF[Marlin]^000000\nwith E-Coins?",
+        "pt": "[Mercador Errante]\nVocê gostaria de comprar o ^0000FF[Marlim]^000000\ncom E-Moedas?",
+        "es": "[Comerciante errante]\n¿Quieres comprar el ^0000FF[Marlin]^000000\ncon monedas de claseE?"
+    },
+    "HdWSAQ": {
+        "en": "No, I'll purchase with cans.",
+        "pt": "Não, comprarei com latas.",
+        "es": "No, compraré con latas."
+    },
+    "HtWSAQ": {
+        "en": "I don't want to purchase any.",
+        "pt": "Não quero comprar nada.",
+        "es": "No quiero comprar nada."
+    },
+    "H9WSAQ": {
+        "en": "[Wandering Merchant]\nI'm sorry, you need more coins.",
+        "pt": "[Mercador Errante]\nSinto muito, você precisa de mais moedas.",
+        "es": "[Comerciante errante]\nLo siento, necesitas más monedas."
+    },
+    "INWSAQ": {
+        "en": "[Wandering Merchant]\nSorry, you've purchased too many.\nYou need to make more space in your bag. Please come back later.",
+        "pt": "[Mercador Errante]\nSinto muito, você comprou demais.\nVocê precisa abrir mais espaço em sua bolsa. Volte mais tarde.",
+        "es": "[Comerciante errante]\nLo siento, ya compraste demasiado.\nNecesitas más espacio en tu bolso. Regresa más tarde."
+    },
+    "IdWSAQ": {
+        "en": "[Wandering Merchant]\nThank you.",
+        "pt": "[Mercador Errante]\nObrigado.",
+        "es": "[Comerciante errante]\nGracias."
+    },
+    "ItWSAQ": {
+        "en": "[Wandering Merchant]\nI'm sorry, you need more cans.",
+        "pt": "[Mercador Errante]\nSinto muito, você precisa de mais latas.",
+        "es": "[Comerciante errante]\nLo siento, necesitas más latas."
+    },
+    "I9WSAQ": {
+        "en": "[Wandering Merchant]\nAlways be careful\nwhen you purchase items.",
+        "pt": "[Mercador Errante]\nSempre preste atenção\nao comprar itens.",
+        "es": "[Comerciante errante]\nTen cuidado siempre\nque compres objetos."
+    },
+    "JNWSAQ": {
+        "en": "[Wandering Merchant]\nAre you interested in a ^0000FF[Tuna]^000000?\nThis fish is very popular which is used in various dishes.\nSwordman, Merchant, and Acolyte classes can use it\nas a ^DC143CMace^000000.",
+        "pt": "[Mercador Errante]\nVocê está interessado em um ^0000FF[Atum]^000000?\nEsse peixe é muito popular e é usado em vários pratos.\nAs classes Espadachim, Mercador e Noviço podem usá-lo\ncomo ^DC143CMaça^000000.",
+        "es": "[Comerciante errante]\n¿Te interesa un ^0000FF[Atún]^000000?\nEste pez es muy popular y se usa en diversos platos.\nLas clases Espadachín, Comerciante y Acólito pueden usarlo.\ncomo ^DC143CMaza^000000."
+    },
+    "JdWSAQ": {
+        "en": "[Wandering Merchant]\nIt gives high chance of executing the Stun or Auto-Spell Bash\nwhen attacking close range with physical attack.\nBase ATK is about 180.",
+        "pt": "[Mercador Errante]\nOferece alta chance de executar o Atordoamento ou o Golpe Automático de Feitiço\nao atacar a curta distância com ataque físico.\nO ATQ base é de aproximadamente 180.",
+        "es": "[Comerciante errante]\nDa altas probabilidades de ejecutar Aturdir o el hechizo automático Aporreo\nal atacar a corta distancia con un ataque físico.\nEl ATQ base es de aproximadamente 180."
+    },
+    "JtWSAQ": {
+        "en": "[Wandering Merchant]\nand it also has...\nadditional ATK + 20 when Base Lv. is over 100\nor freeze oneself with low rate.",
+        "pt": "[Mercador Errante]\nE também tem...\n+ 20 de ATQ adicional quando o nível de base for superior a 100\nou congela a si mesmo com baixa taxa.",
+        "es": "[Comerciante errante]\ny también…\nATQ adicional +20 cuando el nivel de base es superior a 100\no Congelarse con una probabilidad baja."
+    },
+    "J9WSAQ": {
+        "en": "[Wandering Merchant]\nThe price of the ^0000FF[Tuna]^000000 is\n8 E-Coins or 50 Cans.",
+        "pt": "[Mercador Errante]\nO preço do ^0000FF[Atum]^000000 é\nde 8 E-Moedas ou 50 Latas.",
+        "es": "[Comerciante errante]\nEl precio de un ^0000FF[Atún]^000000 es de\n8 monedas de claseE o 50 Latas."
+    },
+    "KNWSAQ": {
+        "en": "[Wandering Merchant]\nWould you like to purchase the ^0000FF[Tuna]^000000\nwith E-Coins?",
+        "pt": "[Mercador Errante]\nVocê gostaria de comprar o ^0000FF[Atum]^000000\ncom E-Moedas?",
+        "es": "[Comerciante errante]\n¿Quieres comprar el ^0000FF[Atún]^000000\ncon monedas de claseE?"
+    },
+    "KdWSAQ": {
+        "en": "[Wandering Merchant]\nAre you interested in the ^0000FF[Hairtail]^000000?\nThis is a fish\nthat looks like\na long belt.",
+        "pt": "[Mercador Errante]\nVocê está interessado em ^0000FF[Peixe-sabre]^000000?\nEste é um peixe\nque se parece com\num longo cinto.",
+        "es": "[Comerciante errante]\n¿Te interesa un ^0000FF[Pez sable]^000000?\nEste es un pez\nque parece\nun cinturón largo."
+    },
+    "KtWSAQ": {
+        "en": "[Wandering Merchant]\nThis is a ^DC143CTwo-Handed Sword^000000\nwhich most swordmen use.\nIt increases 50% of critical damage when attacking and CRI + 20.\nBase ATK is 220.",
+        "pt": "[Mercador Errante]\nEsta é uma ^DC143CEspada de Duas Mãos^000000\nque a maioria dos espadachins usa.\nAumenta 50% do dano crítico ao atacar e + 20 de CRI.\nO ATQ base é 220.",
+        "es": "[Comerciante errante]\nEsta es una ^DC143CEspada de dos manos^000000\nque usa la mayoría de los espadachines.\nAumenta en un 50 % el daño crítico al atacar y CRÍT +20.\nEl ATQ base es de 220."
+    },
+    "K9WSAQ": {
+        "en": "[Wandering Merchant]\nand additional ATK + 50 when Base Lv. is over 100.\nThe price of a ^0000FF[Hairtail]^000000 is\n8 E-Coins or 50 Cans.",
+        "pt": "[Mercador Errante]\nE + 50 de ATQ adicional quando o nível base for superior a 100.\nO preço de um ^0000FF[Peixe-sabre]^000000 é\nde 8 E-Moedas ou 50 Latas.",
+        "es": "[Comerciante errante]\ny ATQ adicional +50 cuando el nivel de base es superior a 100.\nEl precio de un ^0000FF[Pez sable]^000000 es de\n8 monedas de claseE o 50 Latas."
+    },
+    "LNWSAQ": {
+        "en": "[Wandering Merchant]\nWould you like to purchase the ^0000FF[Hairtail]^000000\nwith E-Coins?",
+        "pt": "[Mercador Errante]\nVocê gostaria de comprar o ^0000FF[Peixe-sabre]^000000\ncom E-Moedas?",
+        "es": "[Comerciante errante]\n¿Quieres comprar el ^0000FF[Pez sable]^000000\ncon monedas de claseE?"
+    },
+    "LdWSAQ": {
+        "en": "[Wandering Merchant]\nAre you interested in a ^0000FF[Saurel]^000000?\nThis is a ^DC143Cdagger^000000\nwhich gives MATK + 100\nand ATK + 30 for 7sec in a certain rate with each physical attack.",
+        "pt": "[Mercador Errante]\nVocê está interessado em um ^0000FF[Xáreu]^000000?\nEssa é uma adaga ^DC143C^000000\nque concede + 100 de ATQM\ne + 30 de ATQ por 7s em uma determinada taxa com cada ataque físico.",
+        "es": "[Comerciante errante]\n¿Te interesa un ^0000FF[Jurel]^000000?\nEsta es una ^DC143CDaga^000000\nque otorga ATQM +100\ny ATQ +30 durante 7 segundos a una tasa determinada con cada ataque físico."
+    },
+    "LtWSAQ": {
+        "en": "[Wandering Merchant]\nadditional effects are...\ngive MATK + 20 for 7sec in a certain rate with each magical attack\nand additional MATK + 10, ATK + 10 when Base Lv. is over 100.\nBase ATK will be about 160.",
+        "pt": "[Mercador Errante]\nOs efeitos adicionais são...\n+ 20 de ATQM por 7s em uma determinada taxa com cada ataque mágico\ne + 10 de ATQM e + 10 de ATQ adicionais quando o nível base for superior a 100.\nO ATQ base será de aproximadamente 160.",
+        "es": "[Comerciante errante]\nLos efectos adicionales son…\notorga ATQM +20 durante 7 segundos a una tasa determinada con cada ataque mágico\ny ATQM +10 adicional, ATQ +10 cuando el nivel de base es superior a 100.\nEl ATQ base es de aproximadamente 160."
+    },
+    "L9WSAQ": {
+        "en": "[Wandering Merchant]\nThe price of a ^0000FF[Saurel]^000000 is\n8 E-Coins or 50 Cans.",
+        "pt": "[Mercador Errante]\nO preço de um ^0000FF[Xáreu]^000000 é\nde 8 E-Moedas ou 50 Latas.",
+        "es": "[Comerciante errante]\nEl precio de un ^0000FF[Jurel]^000000 es de\n8 monedas de claseE o 50 Latas."
+    },
+    "MNWSAQ": {
+        "en": "[Wandering Merchant]\nWould you like to purchase the ^0000FF[Saurel]^000000\nwith E-Coins?",
+        "pt": "[Mercador Errante]\nVocê gostaria de comprar o ^0000FF[Xáreu]^000000\ncom E-Moedas?",
+        "es": "[Comerciante errante]\n¿Quieres comprar el ^0000FF[Jurel]^000000\ncon monedas de claseE?"
+    },
+    "MdWSAQ": {
+        "en": "[Wandering Merchant]\nAre you interested in a ^0000FF[Malangdo Crab]^000000?\nThis is...\na ^DC143CBow^000000\nwhich increases LUK + 3 and 50% of critical damage.\nAlso increases 20% of long range phyical ATK when Base Lv. is over 100.\nBase ATK is 120.",
+        "pt": "[Mercador Errante]\nVocê está interessado em um ^0000FF[Caranguejo de Malangdo]^000000?\nIsso é...\num ^DC143CArco^000000\nque aumenta + 3 de SOR e 50% do dano crítico.\nTambém aumenta em 20% o ATQ físico de longo alcance quando o nível de base for superior a 100.\nO ATQ base é 120.",
+        "es": "[Comerciante errante]\n¿Te interesa un ^0000FF[Cangrejo de Malangdo]^000000?\nEs…\nun ^DC143CArco^000000\nque aumenta SUE +3 y en un 50 % el daño crítico.\nTambién aumenta en un 20 % el ATQ físico de largo alcance cuando el nivel de base es superior a 100.\nEl ATQ base es de 120."
+    },
+    "MtWSAQ": {
+        "en": "[Wandering Merchant]\nThis can be used by Archer, Thief, or Roge classes.\nThe price of ^0000FF[Malang Crab]^000000 is\n8 E-Coins or 50 Cans.",
+        "pt": "[Mercador Errante]\nPode ser usado pelas classes Arqueiro, Gatuno ou Arruaceiro.\nO preço do ^0000FF[Caranguejo de Malangdo]^000000 é\nde 8 E-Moedas ou 50 Latas.",
+        "es": "[Comerciante errante]\nLo pueden usar las clases Arquero, Ladrón o Pícaro.\nEl precio de un ^0000FF[Cangrejo de Malangdo]^000000 es de\n8 monedas de claseE o 50 Latas."
+    },
+    "M9WSAQ": {
+        "en": "[Wandering Merchant]\nWould you liket to purchse the ^0000FF[Malangdo Crab]^000000\nwith E-Coins?",
+        "pt": "[Mercador Errante]\nVocê gostaria de comprar o ^0000FF[Caranguejo de Malangdo]^000000\ncom E-Moedas?",
+        "es": "[Comerciante errante]\n¿Quieres comprar el ^0000FF[Cangrejo de Malangdo]^000000\ncon monedas de claseE?"
+    },
+    "NNWSAQ": {
+        "en": "[Wandering Merchant]\nAre you interested in a ^0000FF[Brindle Eel]^000000?\nThis is a ^DC143CBow^000000.\nBecause it has the elastic force,\nwe started to use it as a Bow.\nBase ATK is 180.",
+        "pt": "[Mercador Errante]\nVocê está interessado em uma ^0000FF[Enguia Tigrada]^000000?\nEste é um ^DC143CArco^000000.\nPor ter força elástica,\ncomeçamos a usar a enguia como um arco.\nO ATQ base é 180.",
+        "es": "[Comerciante errante]\n¿Te interesa una ^0000FF[Anguila atigrada]^000000?\nEs un ^DC143CArco^000000.\nComo es elástica,\nempezamos a usarla como Arco.\nEl ATQ base es de 180."
+    },
+    "NdWSAQ": {
+        "en": "[Wandering Merchant]\nMore details...\nAGI + 3, and ASPD + 2 for 5sec with certain rate with long range physical attacks.\nAlso gives additional 20% of long range physical ATK when Base Lv. is over 100.\nUsually Hunter, Bard, or Dancer classes uses it.",
+        "pt": "[Mercador Errante]\nMais detalhes...\n+ 3 de AGI e + 2 de VelATQ por 5s com uma determinada taxa de ataques físicos de longo alcance.\nTambém concede 20% adicionais de ATQ físico de longo alcance quando o nível de base for superior a 100.\nGeralmente é usado pelas classes Caçador, Bardo ou Odalisca.",
+        "es": "[Comerciante errante]\nMás detalles…\nAGI +3 y VELA +2 durante 5 segundos a una tasa determinada con ataques físicos de largo alcance.\nTambién otorga un 20 % adicional de ATQ físico de largo alcance cuando el nivel de base es superior a 100.\nNormalmente lo usan las clases Cazador, Bardo o Bailarina."
+    },
+    "NtWSAQ": {
+        "en": "[Wandering Merchant]\nThe price of a ^0000FF[Brindle Eel]^000000 is\n8 E-Coins or 50 Cans.",
+        "pt": "[Mercador Errante]\nO preço de uma ^0000FF[Enguia Tigrada]^000000 é\nde 8 E-Moedas ou 50 Latas.",
+        "es": "[Comerciante errante]\nEl precio de una ^0000FF[Anguila atigrada]^000000 es de\n8 monedas de claseE o 50 Latas."
+    },
+    "N9WSAQ": {
+        "en": "[Wandering Merchant]\nYou're trying to purchase {0} ^0000FF[Brindle Eel]^000000.\nWould like to purchase with E-Coins?",
+        "pt": "[Mercador Errante]\nVocê está tentando comprar {0} ^0000FF[Enguia Tigrada]^000000.\nGostaria de comprar com E-Moedas?",
+        "es": "[Comerciante errante]\nEstás intentando comprar {0} ^0000FF[Anguila atigrada]^000000.\n¿Quieres comprar con monedas de claseE?"
+    },
+    "ONWSAQ": {
+        "en": "[Wandering Merchant]\nAre you interested in a ^0000FF[Hairtail Box(7Days)]^000000?\nThis is a fish\nthat looks like\na long belt.",
+        "pt": "[Mercador Errante]\nVocê está interessado em uma ^0000FF[Caixa de Peixe-sabre(7Dias)]^000000?\nEste é um peixe\nque se parece com\num cinto longo.",
+        "es": "[Comerciante errante]\n¿Te interesa una ^0000FF[Caja de Pez sable (7 días)]^000000?\nEste es un pez\nque parece\nun cinturón largo."
+    },
+    "OdWSAQ": {
+        "en": "[Wandering Merchant]\nThis is ^DC143CTwo-Handed Sword^000000\nwhich are used by Swordmen.\nIt increases 50% of critical damage when attacks and CRI + 20.\nBase ATK is 220.",
+        "pt": "[Mercador Errante]\nEsta é a ^DC143CEspada de Duas Mãos^000000\nque é usada por espadachins.\nAumenta 50% do dano crítico quando ataca e + 20 de CRI.\nO ATQ base é 220.",
+        "es": "[Comerciante errante]\nEs una ^DC143CEspada de dos manos^000000\nque usan los Espadachines.\nAumenta en un 50 % el daño crítico al atacar y CRÍT +20.\nEl ATQ base es de 220."
+    },
+    "OtWSAQ": {
+        "en": "[Wandering Merchant]\nand additional ATK + 50 when Base Lv. is over 100.\nThe price of a ^0000FF[Hairtail Box(7Days)]^000000 is\n10 Silver Vine.",
+        "pt": "[Mercador Errante]\nE+ 50 de ATQ adicional quando o nível base for superior a 100.\nO preço de uma ^0000FF[Caixa de Peixe-sabre(7Dias)]^000000 é\nde 10 Frutas dos Gatos.",
+        "es": "[Comerciante errante]\ny ATQ adicional +50 cuando el nivel de base es superior a 100.\nEl precio de una ^0000FF[Caja de Pez sable (7 días)]^000000 es de\n10 Kiwis gatunos."
+    },
+    "O9WSAQ": {
+        "en": "[Wandering Merchant]\nWould you like to purchase\nthe ^0000FF[Hairtail Box(7Days)]^000000",
+        "pt": "[Mercador Errante]\nVocê gostaria de comprar\na ^0000FF[Caixa de Peixe-sabre(7Dias)]^000000",
+        "es": "[Comerciante errante]\n¿Quieres comprar\nla ^0000FF[Caja de Pez sable (7 días)]^000000"
+    },
+    "PNWSAQ": {
+        "en": "[Wandering Merchant]\nI'm sorry, you need more Silver Vine.",
+        "pt": "[Mercador Errante]\nSinto muito, você precisa de mais Frutas dos Gatos.",
+        "es": "[Comerciante errante]\nLo siento, necesitas más Kiwis gatunos."
+    },
+    "PdWSAQ": {
+        "en": "[Wandering Merchant]\nAre you interested in a ^0000FF[Marlin Box(7Days)]^000000?\nThis is...\na fish that moves according to the season.\nand very tasty!\nBut this is only a food that I'm talking about, yummy~",
+        "pt": "[Mercador Errante]\nVocê está interessado em uma ^0000FF[Caixa de Marlim(7Dias)]^000000?\nEsse é...\num peixe que se move de acordo com a estação.\nE muito saboroso!\nMas é só estou falando de comida, delícia~",
+        "es": "[Comerciante errante]\n¿Te interesa una ^0000FF[Caja de Marlin (7 días)]^000000?\nEs…\nun pez que migra según la estación.\n¡Y muy sabroso!\nPero es solo una comida de la que estoy hablando, ñam."
+    },
+    "PtWSAQ": {
+        "en": "[Wandering Merchant]\nof course, this is ^DC143CTwo-Handed Spear^000000.\nIt gives a high chance of\ncausing the Bleeding status,\nwhen you're using the Pierce, Clashing Spiral~",
+        "pt": "[Mercador Errante]\nÉ claro que se trata da ^DC143CLança de Duas Mãos^000000.\nEla tem uma grande chance de\ncausar o status de Sangramento,\nquando você estiver usando o Perfurar em Espiral~",
+        "es": "[Comerciante errante]\nPor supuesto, esta es una ^DC143CLanza de dos manos^000000.\nOfrece una alta probabilidad de\ncausar el estado de Sangrado\nal usar Perforación, Espiral Perforante."
+    },
+    "P9WSAQ": {
+        "en": "[Wandering Merchant]\nThe price of ^0000FF[Marlin Box(7Days)]^000000 is\n10 Silver Vine.",
+        "pt": "[Mercador Errante]\nO preço da ^0000FF[Caixa de Marlim(7Dias)]^000000 é\nde 10 Frutas dos Gatos.",
+        "es": "[Comerciante errante]\nEl precio de una ^0000FF[Caja de Marlin (7 días)]^000000 es de\n10 Kiwis gatunos."
+    },
+    "QNWSAQ": {
+        "en": "[Wandering Merchant]\nWould you like to purchase\nthe ^0000FF[Marlin Box(7Days)]^000000?",
+        "pt": "[Mercador Errante]\nVocê gostaria de comprar\na ^0000FF[Caixa de Marlim(7Dias)]^000000?",
+        "es": "[Comerciante errante]\n¿Quieres comprar\nla ^0000FF[Caja de Marlin (7 días)]^000000?"
+    },
+    "QdWSAQ": {
+        "en": "[Wandering Merchant]\nAre you interested in a ^0000FF[Saurel Box(7Days)]^000000?\nThis is...\na ^DC143Cdagger^000000\nwhich gives MATK + 100\nand ATK + 30 for 7sec in a certain rate with physical attack.",
+        "pt": "[Mercador Errante]\nVocê está interessado em uma ^0000FF[Caixa de Xáreu(7Dias)]^000000?\nIsso é...\numa ^DC143Cadaga^000000\nque dá + 100 de ATQM\ne + 30 de ATQ por 7s em uma determinada taxa com ataque físico.",
+        "es": "[Comerciante errante]\n¿Te interesa una ^0000FF[Caja de Jurel (7 días)]^000000?\nEs…\nuna ^DC143CDaga^000000\nque otorga ATQM +100\ny ATQ +30 durante 7 segundos a una tasa determinada con cada ataque físico."
+    },
+    "QtWSAQ": {
+        "en": "[Wandering Merchant]\nMore details...\nit gives MATK + 20 for 7sec in a certain rate with each magical attack\nand additional MATK + 10, ATK + 10 when Base Lv. is over 100.\nBase ATK is 160.",
+        "pt": "[Mercador Errante]\nMais detalhes...\nEla dá + 20 de ATQM por 7s em uma determinada taxa com cada ataque mágico\ne + 10 de ATQM adicional, + 10 de ATQ quando o nível base for superior a 100.\nO ATQ base é 160.",
+        "es": "[Comerciante errante]\nMás detalles…\notorga ATQM +20 durante 7 segundos a una tasa determinada con cada ataque mágico\ny ATQM +10 adicional, ATQ +10 cuando el nivel de base es superior a 100.\nEl ATQ base es de 160."
+    },
+    "Q9WSAQ": {
+        "en": "[Wandering Merchant]\nThe price of the ^0000FF[Saurel Box(7Days)]^000000 is\n10 Silver Vine.",
+        "pt": "[Mercador Errante]\nO preço da ^0000FF[Caixa de Xáreu(7Dias)]^000000 é\nde 10 Frutas dos Gatos.",
+        "es": "[Comerciante errante]\nEl precio de una ^0000FF[Caja de Jurel (7 días)]^000000 es de\n10 Kiwis gatunos."
+    },
+    "RNWSAQ": {
+        "en": "[Wandering Merchant]\nWould you like to purchase the\n^0000FF[Saurel Box(7Days)]^000000?",
+        "pt": "[Mercador Errante]\nVocê gostaria de comprar a\n^0000FF[Caixa de Xáreu(7Dias)]^000000?",
+        "es": "[Comerciante errante]\n¿Quieres comprar la\n^0000FF[Caja de Jurel (7 días)]^000000?"
+    },
+    "RdWSAQ": {
+        "en": "[Wandering Merchant]\nAre you interested in a ^0000FF[Tuna Box(7Days)]^000000?\nThis fish is very popular fish\nwhich is used in various dishes.\nSwordman, Merchant, and Acolyte classes can use it\nas a ^DC143CMace^000000.",
+        "pt": "[Mercador Errante]\nVocê está interessado em uma ^0000FF[Caixa de Atum(7Dias)]^000000?\nEsse peixe é muito popular e é usado em vários pratos.\nAs classes Espadachim, Mercador e Noviço podem usá-lo\ncomo ^DC143CMaça^000000.",
+        "es": "[Comerciante errante]\n¿Te interesa una ^0000FF[Caja de Atún (7 días)]^000000?\nEste pez es muy popular\ny se usa en diversos platos.\nLas clases Espadachín, Comerciante y Acólito pueden usarlo.\ncomo ^DC143CMaza^000000."
+    },
+    "RtWSAQ": {
+        "en": "[Wandering Merchant]\nIt gives high chance of executing the Stun or Auto-Spell Bash\nwhen attacks close range of physical attack.\nBase ATK is 180.",
+        "pt": "[Mercador Errante]\nOferece alta chance de executar o Atordoamento ou o Golpe Automático de Feitiço\nao atacar a curta distância com ataque físico.\nO ATQ base é de aproximadamente 180.",
+        "es": "[Comerciante errante]\nDa altas probabilidades de ejecutar Aturdir o el hechizo automático Aporreo\ncuando ataca a corta distancia en un ataque físico.\nEl ATQ base es de 180."
+    },
+    "R9WSAQ": {
+        "en": "[Wandering Merchant]\nThe price of ^0000FF[Tuna Box(7Days)]^000000 is\n10 Silver Vine.",
+        "pt": "[Mercador Errante]\nO preço de ^0000FF[Caixa de Atum(7Dias)]^000000 é\nde 10 Frutas de Gatos.",
+        "es": "[Comerciante errante]\nEl precio de una ^0000FF[Caja de Atún (7 días)]^000000 es de\n10 Kiwis gatunos."
+    },
+    "SNWSAQ": {
+        "en": "[Wandering Merchant]\nWould you like to purchase\nthe ^0000FF[Tuna Box(7Days)]^000000?",
+        "pt": "[Mercador Errante]\nVocê gostaria de comprar\na ^0000FF[Caixa de Atum(7Dias)]^000000?",
+        "es": "[Comerciante errante]\n¿Quieres comprar\nla ^0000FF[Caja de Atún (7 días)]^000000?"
+    },
+    "SdWSAQ": {
+        "en": "[Wandering Merchant]\nAre you interested in a ^0000FF[Brindle Eel Box(7Days)]^000000?\nThis is...\na ^DC143CBow^000000.\nBecause it has the elastic force,\nwe started to use it as a Bow.\nBase ATK is 180.",
+        "pt": "[Mercador Errante]\nVocê está interessado em uma ^0000FF[Caixa de Enguia Tigrada(7Days)]^000000?\nEste é um ^DC143CArco^000000.\nPor ter força elástica,\ncomeçamos a usar a enguia como um arco.\nO ATQ base é 180..",
+        "es": "[Comerciante errante]\n¿Te interesa una ^0000FF[Caja de Anguila atigrada (7 días)]^000000?\nEs…\nun ^DC143CArco^000000\nComo es elástica,\nempezamos a usarla como Arco.\nEl ATQ base es de 180."
+    },
+    "StWSAQ": {
+        "en": "[Wandering Merchant]\nMore details will be like...\nAGI + 3, and ASPD + 2 for 5sec with certain rate when long range physical attacks.\nAlso gives additional 20% of long range physical ATK when Base Lv. is over 100.\nUsually Hunter, Bard, or Dancer classes uses it.",
+        "pt": "[Mercador Errante]\nMais detalhes...\n+ 3 de AGI e + 2 de VelATQ por 5s com uma determinada taxa de ataques físicos de longo alcance.\nTambém concede 20% adicionais de ATQ físico de longo alcance quando o nível de base for superior a 100.\nGeralmente é usado pelas classes Caçador, Bardo ou Odalisca.",
+        "es": "[Comerciante errante]\nMás detalles podrían ser…\nAGI +3 y VELA +2 durante 5 segundos a una tasa determinada al realizar ataques físicos de largo alcance.\nTambién otorga un 20 % adicional de ATQ físico de largo alcance cuando el nivel de base es superior a 100.\nNormalmente lo usan las clases Cazador, Bardo o Bailarina."
+    },
+    "S9WSAQ": {
+        "en": "[Wandering Merchant]\nThe price of a ^0000FF[Brindle Eel Box(7Days)]^000000 is\n10 Silver Vine.",
+        "pt": "[Mercador Errante]\nO preço de uma ^0000FF[Caixa de Enguia Tigrada(7Dias)]^000000 é\nde 10 Frutas dos Gatos.",
+        "es": "[Comerciante errante]\nEl precio de una ^0000FF[Caja de Anguila atigrada (7 días)]^000000 es de\n10 Kiwis gatunos."
+    },
+    "TNWSAQ": {
+        "en": "[Wandering Merchant]\nYou're trying to purchase {0} ^0000FF[Brindle Eel Box(7Days)]^000000.\nWould like to purchase it?",
+        "pt": "[Mercador Errante]\nVocê está tentando comprar {0} ^0000FF[Caixa de Enguia Tigrada(7Dias)]^000000.\nGostaria de comprá-la?",
+        "es": "[Comerciante errante]\nEstás intentando comprar {0} ^0000FF[Caja de Anguila atigrada (7 días)]^000000.\n¿Quieres comprar esto?"
+    },
+    "TdWSAQ": {
+        "en": "[Wandering Merchant]\nAre you interested in a ^0000FF[Malangdo Crab Box(7Days)]^000000?\nThis is...\na ^DC143CBow^000000\nwhich increases LUK + 3 and 50% of critical damage.\nAlso increases 20% of long rage phyical ATK when Base Lv. is over 100.\nBase ATK is 120.",
+        "pt": "[Mercador Errante]\nVocê está interessado na ^0000FF[Caixa de Caranguejo de Malangdo(7Dias)]^000000?\nIsso é...\num ^DC143CArco^000000\nque aumenta + 3 de SOR e 50% do dano crítico.\nTambém aumenta em 20% o ATQ físico de longo alcance quando o nível de base for superior a 100.\nO ATQ base é 120.",
+        "es": "[Comerciante errante]\n¿Te interesa una ^0000FF[Caja de Cangrejo de Malangdo (7 días)]^000000?\nEs…\nun ^DC143CArco^000000\nque aumenta SUE +3 y en un 50 % el daño crítico.\nTambién aumenta en un 20 % el ATQ físico de largo alcance cuando el nivel de base es superior a 100.\nEl ATQ base es de 120."
+    },
+    "TtWSAQ": {
+        "en": "[Wandering Merchant]\nThis can be used by Archer, Thief, or Roge classes.",
+        "pt": "[Mercador Errante]\nPode ser usado pelas classes Arqueiro, Gatuno ou Arruaceiro.",
+        "es": "[Comerciante errante]\nLo pueden usar las clases Arquero, Ladrón o Pícaro."
+    },
+    "T9WSAQ": {
+        "en": "[Wandering Merchant]\nThe price of ^0000FF[Malangdo Crab Box(7Days)]^000000 is\n10 Silver Vine.",
+        "pt": "[Mercador Errante]\nO preço da ^0000FF[Caixa de Caranguejo Malangdo(7Dias)]^000000 é\nde 10 Frutos dos Gatos.",
+        "es": "[Comerciante errante]\nEl precio de una ^0000FF[Caja de Cangrejo de Malangdo (7 días)]^000000 es de\n10 Kiwis gatunos."
+    },
+    "UNWSAQ": {
+        "en": "[Wandering Merchant]\nYou're trying to purchase {0} ^0000FF[Malangdo Crab Box(7Days)]^000000.\nWould like to purchase it?",
+        "pt": "[Mercador Errante]\nVocê está tentando comprar {0} ^0000FF[Caixa de Caranguejo de Malangdo(7Dias)]^000000.\nGostaria de comprá-la?",
+        "es": "[Comerciante errante]\nEstás intentando comprar {0} ^0000FF[Caja de Cangrejo de Malangdo (7 días)]^000000.\n¿Quieres comprar esto?"
+    },
+    "UdWSAQ": {
+        "en": "[Wandering Merchant]\nWell, then. I see you next time.\nThank you. Good Bye",
+        "pt": "[Mercador Errante]\nMuito bem. Até a próxima.\nObrigado. Tchau.",
+        "es": "[Comerciante errante]\nPues bien. Hasta la próxima.\nGracias. Adiós."
+    },
+    "UtWSAQ": {
+        "en": "[Wandering Merchant]\nWell, then. I see you next time.\nGood Bye",
+        "pt": "[Mercador Errante]\nMuito bem. Até a próxima.\nTchau.",
+        "es": "[Comerciante errante]\nPues bien. Hasta la próxima.\nAdiós."
+    },
+    "U9WSAQ": {
+        "en": "Stinky Merchant",
+        "pt": "Mercador Fedorento",
+        "es": "Comerciante apestoso"
+    },
+    "VNWSAQ": {
+        "en": "[Stinky Merchant]\nNice to meet you~~\nI am! YES~~ That's right!\nI'm selling special stuff\nwhich you can only get on Malangdo Island!",
+        "pt": "[Mercador Fedorento]\nPrazer em conhecê-lo~~\nEu sou! SIM~~ É isso mesmo!\nEstou vendendo coisas especiais\nque você só encontra na Ilha de Malangdo!",
+        "es": "[Comerciante apestoso]\nGusto en conocerte.\n¡Yo lo soy! SÍ. ¡Así es!\n¡Vendo cosas especiales\nque solo se consiguen en la isla de Malangdo!"
+    },
+    "VdWSAQ": {
+        "en": "[Stinky Merchant]\nHow about it? What are you waiting for?\nWhy don't you take a look at\nwhat kinds of stuff I have?",
+        "pt": "[Mercador Fedorento]\nQue tal? O que você está esperando?\nPor que não dá uma olhada no\ntipo de coisas eu vendo?",
+        "es": "[Comerciante apestoso]\n¿Qué te parece? ¿Qué esperas?\n¿Por qué no le echas un vistazo a\na las cosas que tengo?"
+    },
+    "VtWSAQ": {
+        "en": "[Stinky Merchant]\nWell then shall we take a good look at them now?",
+        "pt": "[Mercador Fedorento]\nBem, então vamos dar uma boa olhada ?",
+        "es": "[Comerciante apestoso]\nEntonces, ¿les echamos un vistazo?"
+    },
+    "V9WSAQ": {
+        "en": "[Stinky Merchant]\nIt seems that there are too many items in your bag.\nPlease make a space and come back again~",
+        "pt": "[Mercador Fedorento]\nParece que há muitos itens em sua bolsa.\nAbra um espaço e volte novamente~.",
+        "es": "[Comerciante apestoso]\nParece que hay demasiados objetos en tu bolso.\nVuelve por aquí cuando tengas más espacio."
+    },
+    "WNWSAQ": {
+        "en": "[Stinky Merchant]\nIt seems that you're overweight.\nPlease reduce your weight and come back again~",
+        "pt": "[Mercador Fedorento]\nParece que você está sobrecarregado..\nReduza seu peso e volte novamente~",
+        "es": "[Comerciante apestoso]\nParece que te pasaste con el peso.\nAligera tu carga y regresa."
+    },
+    "WdWSAQ": {
+        "en": "[Stinky Merchant]\nWell, take a good look at them~~~",
+        "pt": "[Mercador Fedorento]\nBem, dê uma boa olhada~~~",
+        "es": "[Comerciante apestoso]\nBien, echa un buen vistazo."
+    },
+    "WtWSAQ": {
+        "en": "[Cat's Hand Glove] 32 E-Coins/200 Cans",
+        "pt": "[Luva de Mão de Gato] 32 E-Moedas/200 Latas",
+        "es": "[Guante de Mano Gatuna] 32 monedas de rangoE o 200 Latas"
+    },
+    "W9WSAQ": {
+        "en": "[Cat's Club] 32 E-Coins/200 Cans",
+        "pt": "[Clava do Gato] 32 E-Moedas/200 Latas",
+        "es": "[Garrote de Pata de Gato] 32 monedas de rangoE o 200 Latas"
+    },
+    "XNWSAQ": {
+        "en": "[Stinky Merchant]\nAre you interested in a^0000FF[Cat's Hand Glove]^000000?\nThis is...\na glove which can give happiness just by wearing it.",
+        "pt": "[Mercador Fedorento]\nVocê está interessado em uma^0000FF[Luva de Mão de Gato]^000000?\nIsso é...\numa luva que pode dar felicidade só de usá-la.",
+        "es": "[Comerciante apestoso]\n¿Te interesa un^0000FF[Guante de Mano Gatuna]^000000?\nEs…\nun guante que puede dar la felicidad con solo llevarlo puesto."
+    },
+    "XdWSAQ": {
+        "en": "[Stinky Merchant]\nThis is a ^DC143CAccessory^000000\nand its defense power is 5.\nAdditional effects\nVIT + 1, AGI + 1, DEX + 1, LUK + 1.\nSLOT : 1 / Refine : Unable / Destruction : Unable",
+        "pt": "[Mercador Fedorento]\nEste é um ^DC143CAcessório^000000\ne seu poder de defesa é 5.\nEfeitos adicionais\nVIT + 1, AGI + 1, DES + 1, SOR + 1.\nEspaço: 1 / Refinar : Impossível / Destruição : Impossível",
+        "es": "[Comerciante apestoso]\nEs un ^DC143Caccesorio^000000\ny su poder de defensa es de 5.\nEfectos adicionales\nVIT +1, AGI +1, DES +1, SUE +1.\nRANURA: 1 / Refinar: No disponible / Destrucción: No disponible"
+    },
+    "XtWSAQ": {
+        "en": "[Stinky Merchant]\nThe price of ^0000FF[Cat's Hand Glove]^000000 is\n32 E-Coins or 200 Cans.",
+        "pt": "[Mercador Fedorento]\nO preço da ^0000FF[Luva de Mão de Gato]^000000 é\nde 32 E-Moedas ou 200 Latas.",
+        "es": "[Comerciante apestoso]\nEl precio de un ^0000FF[Guante de Mano Gatuna]^000000 es de\n32 monedas de claseE o 200 Latas."
+    },
+    "X9WSAQ": {
+        "en": "[Stinky Merchant]\nWould you like to purchase the ^0000FF[Cat's Hand Glove]^000000\nwith E-Coins?",
+        "pt": "[Mercador Fedorento]\nVocê gostaria de comprar a ^0000FF[Luva de Mão de Gato]^000000\ncom E-Moedas?",
+        "es": "[Comerciante apestoso]\n¿Quieres comprar el ^0000FF[Guante de Mano Gatuna]^000000\ncon monedas de claseE?"
+    },
+    "YNWSAQ": {
+        "en": "[Stinky Merchant]\nI'm sorry, you need more coins.",
+        "pt": "[Mercador Fedorento]\nSinto muito, você precisa de mais moedas.",
+        "es": "[Comerciante apestoso]\nLo siento, necesitas más monedas."
+    },
+    "YdWSAQ": {
+        "en": "[Stinky Merchant]\nSorry, you've purchased too many.\nYou need to make more space in your bag. Please come back later.",
+        "pt": "[Mercador Fedorento]\nSinto muito, você comprou itens demais.\nVocê precisa abrir mais espaço em sua bolsa. Volte mais tarde.",
+        "es": "[Comerciante apestoso]\nLo siento, ya compraste demasiado.\nNecesitas más espacio en tu bolso. Regresa más tarde."
+    },
+    "YtWSAQ": {
+        "en": "[Stinky Merchant]\nThank you.",
+        "pt": "[Mercador Fedorento]\nObrigado.",
+        "es": "[Comerciante apestoso]\nGracias."
+    },
+    "Y9WSAQ": {
+        "en": "[Stinky Merchant]\nI'm sorry, you need more cans.",
+        "pt": "[Mercador Fedorento]\nSinto muito, você precisa de mais latas.",
+        "es": "[Comerciante apestoso]\nLo siento, necesitas más latas."
+    },
+    "ZNWSAQ": {
+        "en": "[Stinky Merchant]\nAlways be careful\nwhen you purchase items.",
+        "pt": "[Mercador Fedorento]\nSempre preste atenção\nao comprar itens.",
+        "es": "[Comerciante apestoso]\nTen cuidado siempre\nque compres objetos."
+    },
+    "ZdWSAQ": {
+        "en": "[Stinky Merchant]\nAre you interested in the ^0000FF[Cat's Club]^000000?\nIt looks\nit doesn't hurt, don't you think so?\nBut I'm telling you\nit can hurt someone.",
+        "pt": "[Mercador Fedorento]\nVocê está interessado no ^0000FF[Clava do Gato]^000000?\nParece que\nnão faz mal, não acha?\nMas eu te digo,\nele pode machucar muito.",
+        "es": "[Comerciante apestoso]\n¿Te interesa el ^0000FF[Garrote de Pata de Gato]^000000?\nParece que\nno hace doler, ¿cierto?\nPero te digo\nque puede herir a alguien."
+    },
+    "ZtWSAQ": {
+        "en": "[Stinky Merchant]\nIt is a ^DC143CMace^000000\nthat increases 15% of damage to the animal type of monster.\nIts ATK is about 88.\nAnd also there are\nRange : 1 / SLOT : 3 / Refine : Able / Destruction : Unable",
+        "pt": "[Mercador Fedorento]\nÉ uma ^DC143CMaça^000000\nque aumenta em 15% o dano causado a monstros do tipo animal.\nSeu ATQ é de aproximadamente 88.\nE também tem\nAlcance: 1 / Espaço: 3 / Refinar: Possível / Destruição: Impossível",
+        "es": "[Comerciante apestoso]\nEs una ^DC143CMaza^000000\nque aumenta en un 15 % el daño a monstruos de tipo animal.\nSu ATQ es de aproximadamente 88.\nY también tiene\nLargo alcance: 1 / RANURA: 3 / Refinar: Disponible / Destrucción: No disponible"
+    },
+    "Z9WSAQ": {
+        "en": "[Stinky Merchant]\nThe price of the ^0000FF[Cat's Club]^000000 is\n32 E-Coins or 200 Cans.",
+        "pt": "[Mercador Fedorento]\nO preço da ^0000FF[Clava do Gato]^000000 é\nde 32 E-Moedas ou 200 Latas.",
+        "es": "[Comerciante apestoso]\nEl precio de un ^0000FF[Garrote de Pata de Gato]^000000 es de\n32 monedas de claseE o 200 Latas."
+    },
+    "aNWSAQ": {
+        "en": "[Stinky Merchant]\nWould you like to purchase the ^0000FF[Cat's Club]^000000\nwith E-Coins?",
+        "pt": "[Mercador Fedorento]\nVocê gostaria de comprar a ^0000FF[Clava do Gato]^000000\ncom E-Moedas?",
+        "es": "[Comerciante apestoso]\n¿Quieres comprar el ^0000FF[Garrote de Pata de Gato]^000000\ncon monedas de claseE?"
+    },
+    "adWSAQ": {
+        "en": "[Stinky Merchant]\nWell, then. I see you next time.\nThank you. Good Bye",
+        "pt": "[Mercador Fedorento]\nMuito bem. Até a próxima.\nObrigado. Tchau.",
+        "es": "[Comerciante apestoso]\nPues bien. Hasta la próxima.\nGracias. Adiós."
+    },
+    "atWSAQ": {
+        "en": "[Stinky Merchant]\nWell, then. I see you next time.\nGood Bye",
+        "pt": "[Mercador Fedorento]\nMuito bem. Até a próxima.\nTchau.",
+        "es": "[Comerciante apestoso]\nPues bien. Hasta la próxima.\nAdiós."
+    },
+    "a9WSAQ": {
+        "en": "Roving Merchant",
+        "pt": "Comerciante Viajante",
+        "es": "Comerciante ambulante"
+    },
+    "bNWSAQ": {
+        "en": "[Roving Merchant]\nIf you want to buy this stuff, you can talk to me when you grow up little more.\nThis stuff is for those at least over level 50.",
+        "pt": "[Comerciante Viajante]\nSe você quiser comprar essas coisas, pode falar comigo quando for um pouco mais forte.\nEsse material é para quem tem mais de nível 50.",
+        "es": "[Comerciante ambulante]\nSi quieres comprar estas cosas, puedes hablar conmigo cuando crezcas un poco más.\nEste material es para quienes superen al menos el nivel 50."
+    },
+    "bdWSAQ": {
+        "en": "[Roving Merchant]\nNice to meet you~~\nI am! YES~~ That's right!\nI'm selling special stuff\nwhich you can only get here on Malangdo Island!",
+        "pt": "[Comerciante Viajante]\nPrazer em conhecê-lo~~\nEu sou! SIM~~ É isso mesmo!\nEstou vendendo coisas especiais\nque você só encontra aqui na Ilha de Malangdo!",
+        "es": "[Comerciante ambulante]\nGusto en conocerte.\n¡Yo lo soy! SÍ. ¡Así es!\n¡Vendo cosas especiales\nque solo se puede conseguir aquí, en la isla de Malangdo!"
+    },
+    "btWSAQ": {
+        "en": "[Roving Merchant]\nHow about it? What are you waiting for?\nWhy don't you take a look at\nwhat kinds of stuff I have?",
+        "pt": "[Comerciante Viajante]\nQue tal? O que você está esperando?\nPor que não dá uma olhada no\ntipo de coisas eu vendo?",
+        "es": "[Comerciante ambulante]\n¿Qué te parece? ¿Qué esperas?\n¿Por qué no le echas un vistazo a\na las cosas que tengo?"
+    },
+    "b9WSAQ": {
+        "en": "[Roving Merchant]\nJust for your information,\nSow Bug, Starfish, Dried Squid, and Flying Fish are items which you can use for 1 hour.",
+        "pt": "[Comerciante Viajante]\nSó para sua informação,\nTatu-bola, Estrela do Mar, Lula Seca e Peixe-voador são itens que você pode usar por 1 hora.",
+        "es": "[Comerciante ambulante]\nSolo para que lo sepas,\nCochinilla, Estrella de mar, Calamar deshidratado y Pez volador son objetos que puedes usar durante 1 hora."
+    },
+    "cNWSAQ": {
+        "en": "[Roving Merchant]\nWell then, do you want to take a good look at now?",
+        "pt": "[Comerciante Viajante]\nVocê quer dar uma boa olhada?",
+        "es": "[Comerciante ambulante]\nBien, ¿quieres echar un vistazo a lo que tengo ahora?"
+    },
+    "cdWSAQ": {
+        "en": "[Roving Merchant]\nIt seems that there are too many items in your bag.\nPlease make a space and come back again~",
+        "pt": "[Comerciante Viajante]\nParece que você tem muitos itens em sua bolsa.\nAbra um espaço e volte novamente~.",
+        "es": "[Comerciante ambulante]\nParece que hay demasiados objetos en tu bolso.\nVuelve por aquí cuando tengas más espacio."
+    },
+    "ctWSAQ": {
+        "en": "[Roving Merchant]\nIt seems that you're overweight.\nPlease reduce your weight and come back again~",
+        "pt": "[Comerciante Viajante]\nParece que você está sobrecarregado..\nReduza seu peso e volte novamente~",
+        "es": "[Comerciante ambulante]\nParece que te pasaste con el peso.\nAligera tu carga y regresa."
+    },
+    "c9WSAQ": {
+        "en": "[Roving Merchant]\nWell, take a good look at them~~~",
+        "pt": "[Comerciante Viajante]\nBem, dê uma boa olhadinha~~~",
+        "es": "[Comerciante ambulante]\nBien, echa un buen vistazo."
+    },
+    "dNWSAQ": {
+        "en": "[Flying Fish] 200 Cans",
+        "pt": "[Peixe-voador] 200 Latas",
+        "es": "[Pez volador] 200 Latas"
+    },
+    "ddWSAQ": {
+        "en": "[Sow Bug] 200 Cans",
+        "pt": "[Tatu-bola] 200 Latas",
+        "es": "[Cochinilla] 200 Latas"
+    },
+    "dtWSAQ": {
+        "en": "[Dried Squid] 200 Cans",
+        "pt": "[Lula Seca] 200 Latas",
+        "es": "[Calamar deshidratado] 200 Latas"
+    },
+    "d9WSAQ": {
+        "en": "[Starfish] 200 Cans",
+        "pt": "[Estrela do Mar] 200 Latas",
+        "es": "[Estrella de mar] 200 Latas"
+    },
+    "eNWSAQ": {
+        "en": "[Roving Merchant]\nAre you interested in ^0000FF[Flying Fish]^000000?",
+        "pt": "[Comerciante Viajante]\nVocê está interessado no ^0000FF[Peixe-voador]^000000?",
+        "es": "[Comerciante ambulante]\n¿Te interesa el ^0000FF[Pez volador]^000000?"
+    },
+    "edWSAQ": {
+        "en": "[Roving Merchant]\nThis is a ^DC143Cweapon you can throw^000000.\nOf course,\nit can give fatal wounds to the enemy\nwith certain rate when attacks.",
+        "pt": "[Comerciante Viajante]\nEsta é uma arma ^DC143C que você pode arremessar^000000.\nÉ claro,\nela pode causar ferimentos fatais no inimigo\ncom determinada taxa ao atacar.",
+        "es": "[Comerciante ambulante]\nEs un ^DC143CArma arrojadiza^000000.\nPor supuesto,\npuede causar heridas mortales al enemigo\na una tasa determinada al atacar."
+    },
+    "etWSAQ": {
+        "en": "[Roving Merchant]\nIt doesn't have any elemental property and ATK is 50.\nOne box contains 200 items.",
+        "pt": "[Comerciante Viajante]\nNão tem nenhuma propriedade elementar e o ATQ é 50.\nUma caixa contém 200 itens.",
+        "es": "[Comerciante ambulante]\nNo tiene ninguna propiedad elemental y su ATQ es de 50.\nUna caja contiene 200 objetos."
+    },
+    "e9WSAQ": {
+        "en": "[Roving Merchant]\nThe price of ^0000FF[Flying Fish]^000000 is\n200 Cans.",
+        "pt": "[Comerciante Viajante]\nO preço do ^0000FF[Peixe-voador]^000000 é\nde 200 Latas.",
+        "es": "[Comerciante ambulante]\nEl precio del ^0000FF[Pez volador]^000000 es de\n200 latas."
+    },
+    "fNWSAQ": {
+        "en": "[Roving Merchant]\nWould you like \nto purchase the ^0000FF[Flying Fish]^000000?",
+        "pt": "[Comerciante Viajante]\nVocê gostaria de \ncomprar o ^0000FF[Peixe-voador]^000000?",
+        "es": "[Comerciante ambulante]\n¿Quieres \ncomprar el ^0000FF[Pez volador]^000000?"
+    },
+    "fdWSAQ": {
+        "en": "[Roving Merchant]\nI'm sorry, you need more cans.",
+        "pt": "[Comerciante Viajante]\nSinto muito, você precisa de mais latas.",
+        "es": "[Comerciante ambulante]\nLo siento, necesitas más latas."
+    },
+    "ftWSAQ": {
+        "en": "[Roving Merchant]\nSorry, you've purchased too many.\nYou need to make more space in your bag. Please come back later.",
+        "pt": "[Comerciante Viajante]\nDesculpe, você comprou itens demais.\nVocê precisa abrir mais espaço em sua bolsa. Volte mais tarde.",
+        "es": "[Comerciante ambulante]\nLo siento, ya compraste demasiado.\nNecesitas más espacio en tu bolso. Regresa más tarde."
+    },
+    "f9WSAQ": {
+        "en": "[Roving Merchant]\nThank you.",
+        "pt": "[Mercador Viajante]\nObrigado.",
+        "es": "[Comerciante ambulante]\nGracias."
+    },
+    "gNWSAQ": {
+        "en": "[Roving Merchant]\nAlways be careful\nwhen you purchase items.",
+        "pt": "[Comerciante Viajante]\nSempre preste atenção\nao comprar itens.",
+        "es": "[Comerciante ambulante]\nTen cuidado siempre\nque compres objetos."
+    },
+    "gdWSAQ": {
+        "en": "[Roving Merchant]\nAre you interested in a ^0000FF[Sow Bug]^000000?\nIn that case, I'll explain for you.\nThis is a ^DC143Cbullet^000000 which gives stun to the enemy with certain rate when attacking.",
+        "pt": "[Comerciante Viajante]\nVocê está interessado em um ^0000FF[Tatu-bola]^000000?\nEntão vou explicar para você.\nEsse é um ^DC143Cprojétil^000000 que atordoa o inimigo com uma determinada taxa ao atacar.",
+        "es": "[Comerciante ambulante]\n¿Te interesa una ^0000FF[Cochinilla]^000000?\nEn ese caso, te lo explicaré.\nSe trata de una ^DC143CBala^000000 que aturde al enemigo a una tasa determinada al atacar."
+    },
+    "gtWSAQ": {
+        "en": "[Roving Merchant]\nThe price of ^0000FF[Sow Bug]^000000 is\n200 Cans.",
+        "pt": "[Comerciante itinerante]\nO preço do ^0000FF[Tatu-bola]^000000 é\nde 200 Latas.",
+        "es": "[Comerciante ambulante]\nEl precio de una ^0000FF[Cochinilla]^000000 es de\n200 latas."
+    },
+    "g9WSAQ": {
+        "en": "[Roving Merchant]\nWould you like\nto purchase the ^0000FF[Sow Bug]^000000?",
+        "pt": "[Comerciante itinerante]\nVocê gostaria de\ncomprar o ^0000FF[Tatu-bola]^000000?",
+        "es": "[Comerciante ambulante]\n¿Quieres\ncomprar la ^0000FF[Cochinilla]^000000?"
+    },
+    "hNWSAQ": {
+        "en": "[Roving Merchant]\nI'm sorry, you need more coins.",
+        "pt": "[Comerciante itinerante]\nSinto muito, você precisa de mais moedas.",
+        "es": "[Comerciante ambulante]\nLo siento, necesitas más monedas."
+    },
+    "hdWSAQ": {
+        "en": "[Roving Merchant]\nAre you interested in a ^0000FF[Dried Squid]^000000?\nI'll explain about this item.\nThis is a ^DC143Cweapon which you can throw^000000 and it curses darkness with certain rate.\nIt doesn't have any elemental property and ATK is 50.",
+        "pt": "[Roving Mercador]\nVocê está interessado em ^0000FF[Dried Squid]^000000?\nVou lhe explicar sobre esse item.\nTrata-se de uma arma ^DC143C que você pode arremessar^000000 e que amaldiçoa a escuridão com certa frequência.\nEla não tem nenhuma propriedade elementar e seu ATQ é 50.",
+        "es": "[Comerciante ambulante]\n¿Te interesa un ^0000FF[Calamar deshidratado]^000000?\nTe hablaré de este objeto.\nSe trata de un ^DC143CArma arrojadiza^000000 que maldice con oscuridad a una tasa determinada.\nNo tiene ninguna propiedad elemental y su ATQ es de 50."
+    },
+    "htWSAQ": {
+        "en": "[Roving Merchant]\nIt is compressed\nand put in a very small box\nso be careful when you open it.\nOne box contains 200 items.",
+        "pt": "[Comerciante itinerante]\nEle é comprimido\ne colocado em uma caixa muito pequena\nportanto, tenha cuidado ao abri-la.\nUma caixa contém 200 itens.",
+        "es": "[Comerciante ambulante]\nViene comprimida\ny metida en una caja muy pequeña,\nasí que ten cuidado al abrirla.\nUna caja contiene 200 objetos."
+    },
+    "h9WSAQ": {
+        "en": "[Roving Merchant]\nThe price of ^0000FF[Dried Squid]^000000 is\n200 Cans.\nTell me the amount when you purchase.",
+        "pt": "[Comerciante itinerante]\nO preço de ^0000FF[Dried Squid]^000000 é\n200 latas.\nDiga-me a quantidade quando for comprar.",
+        "es": "[Comerciante ambulante]\nEl precio de un ^0000FF[Calamar deshidratado]^000000 es de\n200 latas.\nDime la cantidad cuando hagas la compra."
+    },
+    "iNWSAQ": {
+        "en": "[Roving Merchant]\nWould you like\nto purchase the ^0000FF[Dried Squid]^000000?",
+        "pt": "[Comerciante itinerante]\nVocê gostaria de\ncomprar o ^0000FF[Dried Squid]^000000?",
+        "es": "[Comerciante ambulante]\n¿Quieres\ncomprar el ^0000FF[Calamar deshidratado]^000000?"
+    },
+    "idWSAQ": {
+        "en": "[Roving Merchant]\nAre you interested in a ^0000FF[Starfish]^000000?\nI'll explain about this item.\nThis is a ^DC143CThrowing Weapon^000000.\nwhich stuns enemies with a certain rate.",
+        "pt": "[Comerciante itinerante]\nVocê está interessado em um ^0000FF[Starfish]^000000?\nVou lhe explicar sobre esse item.\nEsta é uma ^DC143CArma de Arremesso^000000.\nque atordoa os inimigos com uma certa frequência.",
+        "es": "[Comerciante ambulante]\n¿Te interesa una ^0000FF[Estrella de mar]^000000?\nTe hablaré de este objeto.\nEs un ^DC143CArma arrojadiza^000000\nque aturde a los enemigos a una tasa determinada."
+    },
+    "itWSAQ": {
+        "en": "[Roving Merchant]\nIt is perfectly organized and packed so you can't even see inside.\nIt doesn't have any elemental property and ATK is 110.\nOne box contains 200 items.",
+        "pt": "[Roving Mercador]\nEstá perfeitamente organizado e embalado de forma que você não consegue ver seu interior.\nNão tem nenhuma propriedade elementar e o ATQ é 110.\nUma caixa contém 200 itens.",
+        "es": "[Comerciante ambulante]\nEstá perfectamente organizado y empacado para que ni siquiera puedas ver en su interior.\nNo tiene ninguna propiedad elemental y su ATQ es de 110.\nUna caja contiene 200 objetos."
+    },
+    "i9WSAQ": {
+        "en": "[Roving Merchant]\nThe price of ^0000FF[Starfish]^000000 is\n200 Cans.",
+        "pt": "[Comerciante itinerante]\nO preço de ^0000FF[Starfish]^000000 é\n200 latas.",
+        "es": "[Comerciante ambulante]\nEl precio de una ^0000FF[Estrella de mar]^000000 es de\n200 latas."
+    },
+    "jNWSAQ": {
+        "en": "[Roving Merchant]\nWould you like to\npurchase the ^0000FF[Starfish]^000000?",
+        "pt": "[Comerciante itinerante]\nVocê gostaria de\ncomprar o ^0000FF[Starfish]^000000?",
+        "es": "[Comerciante ambulante]\n¿Quieres\ncomprar la ^0000FF[Estrella de mar]^000000?"
+    },
+    "jdWSAQ": {
+        "en": "[Roving Merchant]\nWell, then. I see you next time.\nThank you. Good Bye",
+        "pt": "[Comerciante itinerante]\nBem, então. Vejo você na próxima vez.\nAté a próxima. Até logo",
+        "es": "[Comerciante ambulante]\nPues bien. Hasta la próxima.\nGracias. Adiós."
+    },
+    "jtWSAQ": {
+        "en": "[Roving Merchant]\nWell, then. I see you next time.\nGood Bye",
+        "pt": "[Comerciante itinerante]\nBem, então. Vejo você na próxima vez.\nAté a próxima",
+        "es": "[Comerciante ambulante]\nPues bien. Hasta la próxima.\nAdiós."
+    }
+}

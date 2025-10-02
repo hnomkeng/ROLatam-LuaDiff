@@ -1,0 +1,867 @@
+{
+    "YPE9Bw": {
+        "en": "KVM Logistic Officer",
+        "pt": "Negociante de KVM",
+        "es": "Oficial de logística de KVM"
+    },
+    "YfE9Bw": {
+        "en": "Just a second! You're\ncarrying too many items\nright now. You'd better\nput your stuff in Kafra\nStorage or you won't be\nable to pick up anything new...",
+        "pt": "Espere um pouco! Você está \ncarregando itens demais\nagora. É melhor você \ncolocar suas coisas no\nArmazém Kafra ou não vai\npoder pegar mais nada...",
+        "es": "¡Un momento! Llevas\ndemasiados objetos\nen este momento. Será mejor que\nguardes tus cosas en el Depósito\nde Kafra o no podrás\nrecoger nada nuevo…"
+    },
+    "YvE9Bw": {
+        "en": "[Logistics]\nHello?\nI am in charge of distributing reward items for KVM points. Any wrong selection of items will not be reversed. Please be careful. Select the next step please.",
+        "pt": "[Negociante de KVM]\nOlá...\nEstou encarregado de dar recompensas em troca de pontos KVM.\n^FF0000Uma escolha errada de item não poderá ser desfeita. Lembrando também que só é possível escolher itens que podem ser equipados pela sua classe.^000000\n^FF0000Esse item pode ser colocado no armazém, mas não pode ser passado em negociação para outros personagens.^000000",
+        "es": "[Logística]\n¿Hola?\nEstoy a cargo de intercambiar los objetos de recompensa por Puntos KVM. No se podrá anular elecciones erróneas de objetos. Ten cuidado. Seleccionar el siguiente paso."
+    },
+    "Y/E9Bw": {
+        "en": "[Logistics]\nHey you have some KVM Points.. would you like them to become badges?",
+        "pt": "[Negociante de KVM]\nEi, você tem alguns Pontos KVM... gostaria de transformá-los em insígnias?",
+        "es": "[Logística]\nOye, tienes algunos Puntos KVM… ¿te gustaría convertirlos en insignias?"
+    },
+    "ZPE9Bw": {
+        "en": "No",
+        "pt": "Não",
+        "es": "No."
+    },
+    "ZfE9Bw": {
+        "en": "Yes",
+        "pt": "Sim",
+        "es": "Sí."
+    },
+    "ZvE9Bw": {
+        "en": "Read the KVM Catalogue.",
+        "pt": "Ler o Catálogo KVM.",
+        "es": "Leer el Catálogo de KVM."
+    },
+    "Z/E9Bw": {
+        "en": "Purchase KVM Items.",
+        "pt": "Comprar Itens KVM.",
+        "es": "Comprar Objetos de KVM."
+    },
+    "aPE9Bw": {
+        "en": "Confirm KVM Points.",
+        "pt": "Confirmar Pontos KVM.",
+        "es": "Confirmar Puntos KVM."
+    },
+    "afE9Bw": {
+        "en": "Explanation of KVM Rewards.",
+        "pt": "Explicação das Recompensas KVM.",
+        "es": "Explicar las recompensas de KVM."
+    },
+    "avE9Bw": {
+        "en": "Explanation of KVM Points.",
+        "pt": "Explicação dos Pontos KVM.",
+        "es": "Explicar los Puntos KVM."
+    },
+    "a/E9Bw": {
+        "en": "[Logistics]\nHere is the catalogue of KVM items. Each weapon requires a combination of 2,000 KVM points and KVM Badges and each armor from 10 to 1,200 points. So, be careful when selecting a reward.",
+        "pt": "[Negociante de KVM]\nAqui está o catálogo de itens KVM. Cada arma custa 2.000 pontos, e cada item de armadura custa entre 10 e 1.200 pontos. Portanto, tenha cuidado ao escolher uma recompensa.",
+        "es": "[Logística]\nAquí está el catálogo de objetos de KVM. Cada arma requiere una combinación de 2000puntos KVM e Insignias KVM y cada armadura de 10a 1200puntos. Por eso, ten cuidado al seleccionar una recompensa."
+    },
+    "bPE9Bw": {
+        "en": "[Logistics]\nAlthough the Reward items are account bound, KVM Points cannot be transferred between characters in an account so consider this when choosing who fights in the KVM Arena.",
+        "pt": "[Negociante de KVM]\nEmbora os itens de recompensa sejam vinculados à conta, os Pontos KVM não podem ser transferidos entre personagens em uma mesma conta, portanto considere isso ao escolher quem luta na Arena KVM.",
+        "es": "[Logística]\nAunque los objetos de Recompensa están vinculados a la cuenta, los Puntos KVM no se pueden transferir entre personajes de una misma cuenta. Tenlo en cuenta a la hora de elegir quién peleará en la Arena KVM."
+    },
+    "bfE9Bw": {
+        "en": "[Logistics]\nWhich item do you want to see? As for the detailed specification of the items, please refer to the ^3131FFCatalogue^000000.",
+        "pt": "[Negociante de KVM]\nQual item você quer ver? Consulte o ^3131FFCatálogo^000000 para ver especificações detalhadas dos itens.",
+        "es": "[Logística]\n¿Qué objeto quieres ver? Para ver las especificaciones detalladas de los objetos, consulta el ^3131FFCatálogo^000000."
+    },
+    "bvE9Bw": {
+        "en": "Weapon",
+        "pt": "Arma",
+        "es": "Un arma"
+    },
+    "b/E9Bw": {
+        "en": "Armor/Accessory",
+        "pt": "Armadura/Acessório",
+        "es": "Armadura/Accesorio"
+    },
+    "cPE9Bw": {
+        "en": "Mass-Production Armor/Accessory",
+        "pt": "Armadura/Acessório de Suprimento",
+        "es": "Armaduras/Accesorios de fabricación en serie"
+    },
+    "cfE9Bw": {
+        "en": "Popularized Armor/Accessory",
+        "pt": "Armadura/Acessório Público",
+        "es": "Armadura/Accesorio popularizado"
+    },
+    "cvE9Bw": {
+        "en": "[Logistics]\nYou have selected the Weapon Category. Please select a sub-category.",
+        "pt": "[Negociante de KVM]\nVocê escolheu a categoria Arma. Escolha uma subcategoria.",
+        "es": "[Logística]\nSeleccionaste la categoría Arma. Selecciona una subcategoría."
+    },
+    "c/E9Bw": {
+        "en": "Dagger/Sword/Spear",
+        "pt": "Adaga/Espada/Lança",
+        "es": "Daga/Espada/Lanza"
+    },
+    "dPE9Bw": {
+        "en": "Staff/Mace/Axe/Shuriken",
+        "pt": "Cajado/Maça/Machado/Shuriken",
+        "es": "Cetro/Maza/Hacha/Shuriken"
+    },
+    "dfE9Bw": {
+        "en": "Bow/Katar/Instrument/Whip",
+        "pt": "Arco/Katar/Instrumento Musical/Chicote",
+        "es": "Arco/Katar/Instrumento/Látigo"
+    },
+    "dvE9Bw": {
+        "en": "Book/Knuckle",
+        "pt": "Livro/Garra",
+        "es": "Libro/Puño de acero"
+    },
+    "d/E9Bw": {
+        "en": "Revolver/Rifle/Gun/Grenade Launcher",
+        "pt": "Revólver/Rifle/Gatling/Espingarda/Lança-Granadas",
+        "es": "Revólver/Rifle/Pistola/Lanzagranadas"
+    },
+    "ePE9Bw": {
+        "en": "[Logistics]\nYou have selected the Dagger/Sword/Spear category. Please select a sub-category.",
+        "pt": "[Negociante de KVM]\nVocê escolheu a categoria Adaga/Espada/Lança. Escolha uma subcategoria.",
+        "es": "[Logística]\nSeleccionaste la categoría Daga/Espada/Lanza. Selecciona una subcategoría."
+    },
+    "efE9Bw": {
+        "en": "Dagger",
+        "pt": "Adaga",
+        "es": "Daga"
+    },
+    "evE9Bw": {
+        "en": "One-handed Sword",
+        "pt": "Espada de Uma Mão",
+        "es": "Espada de una mano"
+    },
+    "e/E9Bw": {
+        "en": "Two-handed Sword",
+        "pt": "Espada de Duas Mãos",
+        "es": "Espada de dos manos"
+    },
+    "fPE9Bw": {
+        "en": "One-handed Spear",
+        "pt": "Lança de Uma Mão",
+        "es": "Lanza de una mano"
+    },
+    "ffE9Bw": {
+        "en": "Two-handed Spear",
+        "pt": "Lança de Duas Mãos",
+        "es": "Lanza de dos manos"
+    },
+    "fvE9Bw": {
+        "en": "[Logistics]\nThere is only one Dagger; Glorious Gladius.\nYou have selected ^FF0000Glorious Gradius^000000.",
+        "pt": "[Negociante de KVM]\nSó temos uma Adaga: o Gladius Glorioso.\nVocê escolheu o ^FF0000Gladius Glorioso^000000.",
+        "es": "[Logística]\nSolo hay una Daga: Gladius glorificada.\nSeleccionaste ^FF0000Gladius glorificada^000000."
+    },
+    "f/E9Bw": {
+        "en": "[Logistics]\nIt requires a total ^0000FF{0}^000000 KVM Points and/or Badges; and {1}, your total combined points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nEle custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSe necesitan un total de ^0000FF{0}^000000 Puntos KVM o Insignias; pero, {1}, tu total de puntos combinados es: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "gPE9Bw": {
+        "en": "No, I won't purchase it.",
+        "pt": "Não, não quero.",
+        "es": "No, no quiero comprar."
+    },
+    "gfE9Bw": {
+        "en": "Yes, I will purchase it.",
+        "pt": "Sim, quero.",
+        "es": "Sí, quiero comprar."
+    },
+    "gvE9Bw": {
+        "en": "[Logistics]\nYou have selected 'I won't purchase it'.\nWhen purchasing an item, please be careful there are no refunds.",
+        "pt": "[Negociante de KVM]\nVocê optou por não comprar.\nTenha cuidado ao comprar um item.",
+        "es": "[Logística]\nSeleccionaste ''No quiero comprar''.\nAl comprar un objeto, ten en cuenta que no se admiten devoluciones."
+    },
+    "g/E9Bw": {
+        "en": "[Logistics]\nThis weapon is not for your particular class.\nPlease choose one that fits your skills better.",
+        "pt": "[Negociante de KVM]\nEssa arma não é para sua classe.\nPor favor, escolha uma que combine melhor com suas habilidade.",
+        "es": "[Logística]\nEsta arma no es para tu clase en particular.\nElige la que mejor se adapte a tus habilidades."
+    },
+    "hPE9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Gladius.\nYou spent ^0000FF{0}^000000 points, and now your total combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou o Gladius Glorioso.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste el Gladius glorificado.\nGastaste ^0000FF{0}^000000 puntos, ahora tu total de Puntos KVM combinados es: ^580080{1}^000000."
+    },
+    "hfE9Bw": {
+        "en": "[Logistics]\nYou need ^0000FF{0}^000000 KVM Points to purchase this item.\nHowever, your combined KVM Points are now ^580080{1}^000000; not enough to buy it.\nWhen you get enough points, please come back again.",
+        "pt": "[Negociante de KVM]\nVocê precisa de ^0000FF{0}^000000 Pontos KVM para comprar este item.\nMas seus Pontos KVM agora são ^580080{1}^000000; não são suficientes.\nVolte quando tiver pontos suficientes.",
+        "es": "[Logística]\nNecesitas ^0000FF{0}^000000 Puntos KVM para comprar este objeto.\nSin embargo, tus Puntos KVM combinados son ahora ^580080{1}^000000; no es suficiente para comprar.\nVuelve cuando tengas suficientes puntos."
+    },
+    "hvE9Bw": {
+        "en": "[Logistics]\nYou have selected 'One-handed Sword'.\nThere are 3 One-handed Swords: Glorious Flamberge, Glorious Rapier, and Glorious Holy Avenger.\nIf you want their details, please refer to the KVM Catalogue.\nPlease selecet one of them.",
+        "pt": "[Negociante de KVM]\nVocê escolheu as Espadas de Uma Mão.\nTemos três Espadas de Uma Mão: a Flamberge Gloriosa, o Florete Glorioso e a Vingadora Sagrada Gloriosa.\nSe quiser saber seus detalhes, consulte o catálogo KVM.\nPor favor, escolha um dos itens.",
+        "es": "[Logística]\nSeleccionaste ''Espada de una mano''.\nHay 3Espadas de una mano: Flamígera glorificada, Ropera glorificada y Vengadora sagrada glorificada.\nSi deseas conocer sus detalles, consulta el Catálogo KVM.\nPor favor, selecciona un objeto."
+    },
+    "h/E9Bw": {
+        "en": "Glorious Flamberge",
+        "pt": "Flamberge Gloriosa",
+        "es": "Flamígera glorificada"
+    },
+    "iPE9Bw": {
+        "en": "Glorious Rapier",
+        "pt": "Florete Glorioso",
+        "es": "Ropera glorificada"
+    },
+    "ifE9Bw": {
+        "en": "Glorious Holy Avenger",
+        "pt": "Vingadora Sagrada Gloriosa",
+        "es": "Vengadora sagrada glorificada"
+    },
+    "ivE9Bw": {
+        "en": "[Logistics]\nYou have selected ^FF0000Glorious Flamberge^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your total points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nVocê escolheu a ^FF0000Flamberge Gloriosa^000000.\nEla custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSeleccionaste ^FF0000Flamígera glorificada^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos totales son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "i/E9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Flamberge.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou a Flamberge Gloriosa.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste la Flamígera glorificada.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "jPE9Bw": {
+        "en": "[Logistics]\nYou have selected ^FF0000Glorious Rapier^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nVocê escolheu o ^FF0000Florete Glorioso^000000.\nEle custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSeleccionaste ^FF0000Ropera glorificada^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "jfE9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Rapier.\nYou spent ^0000FF{0}^000000 points, and now your KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou o Florete Glorioso.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste la Ropera glorificada.\nGastaste ^0000FF{0}^000000 puntos, ahora tus Puntos KVM son: ^580080{1}^000000."
+    },
+    "jvE9Bw": {
+        "en": "[Logistics]\nYou need ^0000FF{0}^000000 KVM Points to purchase this item.\nHowever, your KVM Points are now ^580080{1}^000000; not enough to buy it.\nWhen you get enough points, please come back again.",
+        "pt": "[Negociante de KVM]\nVocê precisa de ^0000FF{0}^000000 Pontos KVM para comprar este item.\nMas seus Pontos KVM agora são ^580080{1}^000000; não são suficientes.\nVolte quando tiver pontos suficientes.",
+        "es": "[Logística]\nNecesitas ^0000FF{0}^000000 Puntos KVM para comprar este objeto.\nSin embargo, ahora sus Puntos KVM son ^580080{1}^000000; no es suficiente para comprar.\nVuelve cuando tengas suficientes puntos."
+    },
+    "j/E9Bw": {
+        "en": "[Logistics]\nYou have selected ^FF0000Glorious Holy Avenger^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nVocê escolheu a ^FF0000Vingadora Sagrada Gloriosa^000000.\nEla custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSeleccionaste ^FF0000Vengadora sagrada glorificada.^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "kPE9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Holy Avenger.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou a Vingadora Sagrada Gloriosa.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste la Vengadora Sagrada glorificada.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "kfE9Bw": {
+        "en": "[Logistics]\nYou need ^0000FF{0}^000000 KVM Points to purchase this item.\nHowever, your combined KVM Points are now ^580080{1}^000000; not enough to buy it.\nWhen you get enough points, please come back again.",
+        "pt": "[Negociante de KVM]\nVocê precisa de ^0000FF{0}^000000 Pontos KVM para comprar este item.\nMas seus Pontos KVM agora são ^580080{1}^000000; não são suficientes.\nVolte quando tiver pontos suficientes.",
+        "es": "[Logística]\nNecesitas ^0000FF{0}^000000 Puntos KVM para comprar este objeto.\nSin embargo, ahora tus Puntos KVM combinados son ^580080{1}^000000; no es suficiente para comprar.\nVuelve cuando tengas suficientes puntos."
+    },
+    "kvE9Bw": {
+        "en": "[Logistics]\nThere is only one Two-handed Sword: Glorious Claymore.\nYou have selected ^FF0000Glorious Claymore^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nSó temos uma Espada de Duas Mãos: a Claymore Gloriosa.\nVocê escolheu a ^FF0000Claymore Gloriosa^000000.\nEla custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSolo hay una Espada de dos manos: Claymore glorificada.\nSeleccionaste ^FF0000Claymore glorificada^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "k/E9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Claymore.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou a Claymore Gloriosa.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste la Claymore glorificada.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "lPE9Bw": {
+        "en": "[Logistics]\nThere is only one One-handed Spear: Glorious Spear.\nYou have selected ^FF0000Glorious Spear^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nSó temos uma Lança de Uma Mão: a Lança Gloriosa.\nVocê escolheu a ^FF0000Lança Gloriosa^000000.\nEla custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSolo hay una Lanza de una mano: Lanza glorificada.\nSeleccionaste ^FF0000Lanza glorificada^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "lfE9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Spear.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou a Lança Gloriosa.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste la Lanza glorificada.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "lvE9Bw": {
+        "en": "[Logistics]\nThere is only one Two-handed Spear: Glorious Lance.\nYou have selected ^FF0000Glorious Lance^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nSó temos uma Lança de Duas Mãos: a Lança de Duas Mãos Gloriosa.\nVocê escolheu a ^FF0000Lança de Duas Mãos Gloriosa^000000.\nEla custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSolo hay una Lanza de dos manos: Pica glorificada.\nSeleccionaste ^FF0000Pica glorificada^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "l/E9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Lance.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou a Lança de Duas Mãos Gloriosa.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste la Pica glorificada.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "mPE9Bw": {
+        "en": "[Logistics]\nYou have selected the 'Staff/Mace/Axe/Shuriken' category.\nPlease select a sub-category.",
+        "pt": "[Negociante de KVM]\nVocê escolheu a categoria Cajado/Maça/Machado/Shuriken.\nEscolha uma subcategoria.",
+        "es": "[Logística]\nSeleccionaste la categoría ''Cetro/Maza/Hacha/Shuriken''.\nSelecciona una subcategoría."
+    },
+    "mfE9Bw": {
+        "en": "Staff",
+        "pt": "Cajado",
+        "es": "Cetro"
+    },
+    "mvE9Bw": {
+        "en": "Mace",
+        "pt": "Maça",
+        "es": "Maza"
+    },
+    "m/E9Bw": {
+        "en": "One-handed Axe",
+        "pt": "Machado de Uma Mão",
+        "es": "Hacha de una mano"
+    },
+    "nPE9Bw": {
+        "en": "Two-handed Axe",
+        "pt": "Machado de Duas Mãos",
+        "es": "Hacha de dos manos"
+    },
+    "nfE9Bw": {
+        "en": "Shuriken",
+        "pt": "Shuriken",
+        "es": "Shuriken"
+    },
+    "nvE9Bw": {
+        "en": "[Logistics]\nYou have selected 'Staff'.\nThere are 3 Staffs, a Two-handed weapon Glorious Destruction Staff, a One-handed weapon Glorious Archwand and a Glorious Healing Staff.\nIf you want their details, please refer to the KVM Catalogue.\nThen please select one of them.",
+        "pt": "[Negociante de KVM]\nVocê escolheu Cajados.\nTemos três Cajados: o Cajado da Destruição Glorioso (de duas mãos), o Cetro Glorioso (de uma mão) e a Varinha de Cura Gloriosa.\nSe quiser saber seus detalhes, consulte o catálogo KVM.\nPor favor, escolha um dos itens.",
+        "es": "[Logística]\nSeleccionaste ''Cetro''.\nHay 3cetros: un arma de dos manos, Báculo de Destrucción glorificado; Un arma de una mano, Vara glorificada; y un Báculo de curación glorificado.\nSi deseas conocer sus detalles, consulta el Catálogo KVM.\nPor favor, selecciona un objeto."
+    },
+    "n/E9Bw": {
+        "en": "Glorious Destruction Staff",
+        "pt": "Cajado da Destruição Glorioso",
+        "es": "Bastón de destrucción glorificado"
+    },
+    "oPE9Bw": {
+        "en": "Glorious Archwand",
+        "pt": "Cetro Glorioso",
+        "es": "Vara glorificada"
+    },
+    "ofE9Bw": {
+        "en": "Glorious Healing Staff",
+        "pt": "Varinha de Cura Gloriosa",
+        "es": "Báculo de curación glorificado"
+    },
+    "ovE9Bw": {
+        "en": "[Logistics]\nYou have selected ^FF0000Glorious Destruction Staff^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nVocê escolheu o ^FF0000Cajado da Destruição Glorioso^000000.\nEle custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSeleccionaste ^FF0000Báculo de destrucción glorificado^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "o/E9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Destruction Staff.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou o Cajado da Destruição Glorioso.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste el Báculo de destrucción glorificado.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "pPE9Bw": {
+        "en": "[Logistics]\nYou have selected ^FF0000Glorious Arc Wand^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nVocê escolheu o ^FF0000Cetro Glorioso^000000.\nEle custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSeleccionaste ^FF0000Vara glorificada^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "pfE9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Archwand.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou o Cetro Glorioso.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste la Vara glorificada.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "pvE9Bw": {
+        "en": "[Logistics]\nYou have selected ^FF0000Glorious Healing Staff^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nVocê escolheu a ^FF0000Varinha de Cura Gloriosa^000000.\nEla custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSeleccionaste ^FF0000Báculo de curación glorificado^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "p/E9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Healing Staff.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou a Varinha de Cura Gloriosa.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste el Báculo de curación glorificado.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "qPE9Bw": {
+        "en": "[Logistics]\nThere is only one Mace: Glorious Morningstar.\nYou have selected ^FF0000Glorious Morningstar^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nSó temos uma Maça: a Maça de Guerra Gloriosa.\nVocê escolheu a ^FF0000Maça de Guerra Gloriosa^000000.\nEla custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSolo hay una Maza: Lucero del alba glorificado.\nSeleccionaste ^FF0000Lucero del alba glorificado^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "qfE9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Morningstar.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou a Maça de Guerra Gloriosa.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste el Lucero del alba glorificado.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "qvE9Bw": {
+        "en": "[Logistics]\nThere is only one One-handed Axe: Glorious Cleaver.\nYou have selected ^FF0000Glorious Cleaver^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nSó temos um Machado de Uma Mão: o Talhador Glorioso.\nVocê escolheu o ^FF0000Talhador Glorioso^000000.\nEle custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSolo hay un Hacha de una mano: Machete glorificado.\nSeleccionaste ^FF0000Machete glorificado^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "q/E9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Cleaver.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou o Talhador Glorioso.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste el Machete glorificado.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "rPE9Bw": {
+        "en": "[Logistics]\nThere is only one Two-handed Axe: Glorious Two-handed Axe.\nYou have selected ^FF0000Glorious Two-handed Axe^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nSó temos um Machado de Duas Mãos: o Machado de Duas Mãos Glorioso.\nVocê escolheu o ^FF0000Machado de Duas Mãos Glorioso^000000.\nEle custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSolo hay un Hacha de dos manos: Hacha de dos manos glorificada.\nSeleccionaste ^FF0000Hacha de dos manos glorificada^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "rfE9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Two-handed Axe.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou o Machado de Duas Mãos Glorioso.\nVocê gastou ^0000FFf{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste el Hacha de dos manos glorificada.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "rvE9Bw": {
+        "en": "[Logistics]\nThere is only one Shuriken: Glorious Shuriken.\nYou have selected ^FF0000Glorious Shuriken^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nSó temos um Shuriken: o Shuriken Huuma Glorioso.\nVocê escolheu o ^FF0000Shuriken Huuma Glorioso^000000.\nEle custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSolo hay un Shuriken: Shuriken glorificado.\nSeleccionaste ^FF0000Shuriken glorificado^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "r/E9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Shuriken.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou o Shuriken Huuma Glorioso.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste el Shuriken glorificado.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "sPE9Bw": {
+        "en": "[Logistics]\nYou have selected the Bow/Katar/Instrument/Whip category.\nPlease select a sub-category.",
+        "pt": "[Negociante de KVM]\nVocê escolheu a categoria Arco/Katar/Instrumento Musical/Chicote.\nEscolha uma subcategoria.",
+        "es": "[Logística]\nSeleccionaste la categoría Arco/Katar/Instrumento/Látigo.\nSelecciona una subcategoría."
+    },
+    "sfE9Bw": {
+        "en": "Bow",
+        "pt": "Arco",
+        "es": "Arco"
+    },
+    "svE9Bw": {
+        "en": "Katar",
+        "pt": "Katar",
+        "es": "Katar"
+    },
+    "s/E9Bw": {
+        "en": "Instrument",
+        "pt": "Instrumento Musical",
+        "es": "Instrumento"
+    },
+    "tPE9Bw": {
+        "en": "Whip",
+        "pt": "Chicote",
+        "es": "Látigo"
+    },
+    "tfE9Bw": {
+        "en": "[Logistics]\nThere is only one Bow: Glorious Hunter Bow.\nYou have selected ^FF0000Glorious Hunter Bow^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nSó temos um Arco: o Arco de Caçador Glorioso.\nVocê escolheu o ^FF0000Arco de Caçador Glorioso^000000.\nEle custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSolo hay un Arco: Arco de cazador glorificado.\nSeleccionaste ^FF0000Arco de cazador glorificado^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "tvE9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Hunter Bow.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou o Arco Glorioso.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste el Arco de cazador glorificado.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "t/E9Bw": {
+        "en": "[Logistics]\nYou have selected 'Katar'.\nThere are 2 Katars: Glorious Bloody Roar and Glorious Jamadhar.\nIf you want their details, please refer to the KVM Catalogue.\nThen please select one of them.",
+        "pt": "[Negociante de KVM]\nVocê escolheu Katares.\nTemos dois Katares: o Rugido Sangrento Glorioso e o Jamadhar Glorioso.\nSe quiser saber seus detalhes, consulte o catálogo KVM.\nPor favor, escolha um dos itens.",
+        "es": "[Logística]\nSeleccionaste ''Katar''.\nHay 2Katares: Rugido Sangriento glorificado y Jamadhar glorificado.\nSi deseas conocer sus detalles, consulta el Catálogo KVM.\nPor favor, selecciona un objeto."
+    },
+    "uPE9Bw": {
+        "en": "Glorious Bloody Roar",
+        "pt": "Rugido Sangrento Glorioso",
+        "es": "Rugido sangriento glorificado"
+    },
+    "ufE9Bw": {
+        "en": "Glorious Jamadhar",
+        "pt": "Jamadhar Glorioso",
+        "es": "Jamadhar glorificado."
+    },
+    "uvE9Bw": {
+        "en": "[Logistics]\nYou have selected ^FF0000Glorious Bloody Roar^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nVocê escolheu o ^FF0000Rugido Sangrento Glorioso^000000.\nEle custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSeleccionaste ^FF0000Rugido sangriento glorificado^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "u/E9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Bloody Roar.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou o Rugido Sangrento Glorioso.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste el Rugido sangriento glorificado.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "vPE9Bw": {
+        "en": "[Logistics]\nYou have selected ^FF0000Glorious Jamadhar^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nVocê escolheu o ^FF0000Jamadhar Glorioso^000000.\nEle custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSeleccionaste ^FF0000Jamadhar glorificado^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "vfE9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Jamadhar.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou o Jamadhar Glorioso.\nVocê gastou ^0000FF2.000^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste el Jamadhar glorificado.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "vvE9Bw": {
+        "en": "[Logistics]\nThere is only one Instrument: Glorious Guitar.\nYou have selected ^FF0000Glorious Guitar^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nSó temos um Instrumento Musical: a Guitarra Gloriosa.\nVocê escolheu a ^FF0000Guitarra Gloriosa^000000.\nEla custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSolo hay un Instrumento: Guitarra glorificada.\nSeleccionaste ^FF0000Guitarra glorificada^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "v/E9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Guitar.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou a Guitarra Gloriosa.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste la Guitarra glorificada.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "wPE9Bw": {
+        "en": "[Logistics]\nThere is only one Whip: Glorious Lariat.\nYou have seleceted ^FF0000Glorious Lariat^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nSó temos um Chicote: a Serpente Gloriosa.\nVocê escolheu a ^FF0000Serpente Gloriosa^000000.\nEla custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSolo hay un látigo: Lazo glorificado.\nSeleccionaste ^FF0000Lazo glorificado^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "wfE9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Lariat.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou a Serpente Gloriosa.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste el Lazo glorificado.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "wvE9Bw": {
+        "en": "[Logistics]\nYou have selected the 'Book/Knuckle' category.\nPlease select a sub-category.",
+        "pt": "[Negociante de KVM]\nVocê escolheu a categoria Livro/Garra.\nEscolha uma subcategoria.",
+        "es": "[Logística]\nSeleccionaste la categoría ''Libro/Puño de acero''.\nSelecciona una subcategoría."
+    },
+    "w/E9Bw": {
+        "en": "Book",
+        "pt": "Livro",
+        "es": "Libro"
+    },
+    "xPE9Bw": {
+        "en": "Knuckle",
+        "pt": "Garra",
+        "es": "Puño de acero"
+    },
+    "xfE9Bw": {
+        "en": "[Logistics]\nYou have selected the 'Book' category.\nThere are 2 Books: Glorious Tablet and Glorious Apocalypse.\nIf you want their details, please refer to the KVM Catalogue.\nThen please select one of them.",
+        "pt": "[Negociante de KVM]\nVocê escolheu a categoria Livro.\nTemos dois Livros: a Tábula Gloriosa e o Apocalipse Glorioso.\nSe quiser saber seus detalhes, consulte o catálogo KVM.\nPor favor, escolha um dos itens.",
+        "es": "[Logística]\nSeleccionaste la categoría ''Libro''.\nHay 2libros: Tableta glorificada y Apocalipsis glorificado.\nSi deseas conocer sus detalles, consulta el Catálogo KVM.\nPor favor, selecciona un objeto."
+    },
+    "xvE9Bw": {
+        "en": "Glorious Tablet",
+        "pt": "Tábula Gloriosa",
+        "es": "Tableta glorificada"
+    },
+    "x/E9Bw": {
+        "en": "Glorious Apocalypse",
+        "pt": "Apocalipse Glorioso",
+        "es": "Apocalipsis glorificada"
+    },
+    "yPE9Bw": {
+        "en": "[Logistics]\nYou have selected ^FF0000Glorious Tablet^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nVocê escolheu a ^FF0000Tábula Gloriosa^000000.\nEla custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSeleccionaste ^FF0000Tablet glorificada^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "yfE9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Tablet.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou a Tábula Gloriosa.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste la Tableta glorificada.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "yvE9Bw": {
+        "en": "[Logistics]\nYou have selected ^FF0000Glorious Apocalypse^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nVocê escolheu o ^FF0000Apocalipse Glorioso^000000.\nEle custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSeleccionaste ^FF0000Apocalipsis glorificado^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "y/E9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Apocalypse.\nYou spent ^0000FF2,000^000000 points, and now your combined KVM Points are: ^580080{0}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou o Apocalipse Glorioso.\nVocê gastou ^0000FF2.000^000000 pontos, e agora seus Pontos KVM são: ^580080{0}^000000.",
+        "es": "[Logística]\nCompraste el Apocalipsis glorificado.\nGastaste ^0000FF2000puntos^000000, ahora tus Puntos KVM combinados son: ^580080{0}^000000."
+    },
+    "zPE9Bw": {
+        "en": "[Logistics]\nYou have selected the 'Knuckle' category.\nThere are 2 Knuckles: Glorious Claw and Glorious Fist.\nIf you want their details, please refer to the KVM Catalogue.\nThen please select one of them.",
+        "pt": "[Negociante de KVM]\nVocê escolheu a categoria Garra.\nTemos duas Garras: Garra Gloriosa e Punho Glorioso.\nSe quiser saber seus detalhes, consulte o catálogo KVM.\nPor favor, escolha um dos itens.",
+        "es": "[Logística]\nSeleccionaste la categoría ''Puño de acero''.\nHay 2Puños de acero: Garra glorificada y Puño de acero glorificado.\nSi deseas conocer sus detalles, consulta el Catálogo KVM.\nPor favor, selecciona un objeto."
+    },
+    "zfE9Bw": {
+        "en": "Glorious Claw",
+        "pt": "Garra Gloriosa",
+        "es": "Garra glorificada"
+    },
+    "zvE9Bw": {
+        "en": "Glorious Fist",
+        "pt": "Punho Glorioso",
+        "es": "Puño glorificada"
+    },
+    "z/E9Bw": {
+        "en": "[Logistics]\nYou have selected ^FF0000Glorious Claw^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nVocê escolheu a ^FF0000Garra Gloriosa^000000.\nEla custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSeleccionaste ^FF0000Garra glorificada^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "0PE9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Claw.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou a Garra Gloriosa.\nVocê gastou 0000f{0}^000000 pontos, e agora seus Pontos KVM são: ^FF6699{1}^000000.",
+        "es": "[Logística]\nCompraste la Garra glorificada.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "0fE9Bw": {
+        "en": "[Logistics]\nYou have selected ^FF0000Glorious Fist^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nVocê escolheu o ^FF0000Punho Glorioso^000000.\nEle custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSeleccionaste ^FF0000Puño de acero glorificado^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "0vE9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Fist.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou o Punho Glorioso.\nVocê gastou ^0000FF2.000^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste el Puño de acero glorificado.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "0/E9Bw": {
+        "en": "[Logistics]\nYou have selected the 'Revolver/Rifle/Gun/Grenade Launcher' category.\nPlease select a sub-category.",
+        "pt": "[Negociante de KVM]\nVocê escolheu a categoria Revólver/Rifle/Gatling/Espingarda/Lança-Granadas.\nEscolha uma subcategoria.",
+        "es": "[Logística]\nSeleccionaste la categoría ''Revólver/Rifle/Arma/Lanzagranadas''.\nSelecciona una subcategoría."
+    },
+    "1PE9Bw": {
+        "en": "Revolver",
+        "pt": "Revólver",
+        "es": "Revólver"
+    },
+    "1fE9Bw": {
+        "en": "Rifle",
+        "pt": "Rifle",
+        "es": "Rifle"
+    },
+    "1vE9Bw": {
+        "en": "Gatling Gun",
+        "pt": "Metralhadora Gatling",
+        "es": "Ametralladora"
+    },
+    "1/E9Bw": {
+        "en": "Shotgun",
+        "pt": "Espingarda",
+        "es": "Escopeta"
+    },
+    "2PE9Bw": {
+        "en": "Grenade Launcher",
+        "pt": "Lança-Granadas",
+        "es": "Lanzagranadas"
+    },
+    "2fE9Bw": {
+        "en": "[Logistics]\nThere is only one Revolver: Glorious Pistol.\nYou have selected ^FF0000Glorious Pistol^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nSó temos um Revólver: a Pistola Gloriosa.\nVocê escolheu a ^FF0000Pistola Gloriosa^000000.\nEla custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSolo hay un Revólver: Pistola glorificada.\nSeleccionaste ^FF0000Pistola glorificada.^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "2vE9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Pistol.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou a Pistola Gloriosa.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste la Pistola glorificada.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "2/E9Bw": {
+        "en": "[Logistics]\nThere is only one Rifle: Glorious Rifle.\nYou have selected ^FF0000Glorious Rifle^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nSó temos um Rifle: o Rifle Glorioso.\nVocê escolheu o ^FF0000Rifle Glorioso^000000.\nEle custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSolo hay un Rifle: Rifle glorificado.\nSeleccionaste ^FF0000Rifle glorificado^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "3PE9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Rifle.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou o Rifle Glorioso.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste el Rifle glorificado.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "3fE9Bw": {
+        "en": "[Logistics]\nThere is only one Gatling Gun: Glorious Gatling Gun.\nYou have selected ^FF0000Glorious Gatling Gun^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nSó temos uma Metralhadora Gatling: a Metralhadora Gatling Gloriosa.\nVocê escolheu a ^FF0000Metralhadora Gatling Gloriosa^000000.\nEla custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSolo hay una Ametralladora gatling: Ametralladora gatling glorificada.\nSeleccionaste ^FF0000Ametralladora gatling glorificada^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "3vE9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Gatling Gun.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou a Metralhadora Gatling Gloriosa.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste la Ametralladora gatling glorificada.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "3/E9Bw": {
+        "en": "[Logistics]\nThere is only one Shotgun: Glorious Shot Gun.\nYou have selected ^FF0000Glorious Shot Gun^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nSó temos uma Espingarda: a Espingarda Gloriosa.\nVocê escolheu a ^FF0000Espingarda Gloriosa^000000.\nEla custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSolo hay una Escopeta: Escopeta glorificada.\nSeleccionaste ^FF0000Escopeta glorificada^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "4PE9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Shot Gun.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou a Espingarda Gloriosa.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste la Escopeta glorificada.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "4fE9Bw": {
+        "en": "[Logistics]\nThere is only one Grenade Launcher: Glorious Grenade Launcher.\nYou have seleceted ^FF0000Glorious Grenade Launcher^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nSó temos um Lança-Granadas: o Lança-Granadas Glorioso.\nVocê escolheu o ^FF0000Lança-Granadas Glorioso^000000.\nEle custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSolo hay un Lanzagranadas: Lanzagranadas glorificado.\nSeleccionaste ^FF0000Lanzagranadas glorificado^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "4vE9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Grenade Launcher.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou o Lança-Granadas Glorioso.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste el Lanzagranadas glorificado.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "4/E9Bw": {
+        "en": "[Logistics]\nYou have selected the 'Armor/Accessory' category.\nPlease select a sub-category.",
+        "pt": "[Negociante de KVM]\nVocê escolheu a categoria Armadura/Acessório.\nEscolha uma subcategoria.",
+        "es": "[Logística]\nSeleccionaste la categoría ''Armaduras/Accesorios''.\nSelecciona una subcategoría."
+    },
+    "5PE9Bw": {
+        "en": "Armor",
+        "pt": "Armadura",
+        "es": "Armadura"
+    },
+    "5fE9Bw": {
+        "en": "Cloak",
+        "pt": "Capa",
+        "es": "Capa"
+    },
+    "5vE9Bw": {
+        "en": "Shoes",
+        "pt": "Sapatos",
+        "es": "Calzado"
+    },
+    "5/E9Bw": {
+        "en": "Accessory",
+        "pt": "Acessório",
+        "es": "Accesorio"
+    },
+    "6PE9Bw": {
+        "en": "[Logistics]\nYou have selected the 'Armor' category.\nThe armor for one whose Lvl is more than 80 is: ^FF0000Glorious Suit^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nVocê escolheu a categoria Armadura.\nPara quem tem nível acima de 80, a armadura que temos é esta: a ^FF0000Túnica Gloriosa^000000.\nEla custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSeleccionaste la categoría ''Armadura''.\nLa armadura para alguien de Nv. superior a 80es: ^FF0000Traje glorificado^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "6fE9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Suit.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou a Túnica Gloriosa.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste el Traje glorificado.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "6vE9Bw": {
+        "en": "[Logistics]\nYou have selected the 'Cloak' category.\nThe cloak for one whose Lvl is more than 80 is: ^FF0000Glorious Muffler^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nVocê escolheu a categoria Capa.\nPara quem tem nível acima de 80, a capa que temos é esta: a ^FF0000Sobrepeliz Gloriosa^000000.\nEla custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSeleccionaste la categoría ''Capa''.\nLa capa para alguien de Nv. superior a 80es: ^FF0000Foulard glorificado^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "6/E9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Muffler.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou a Sobrepeliz Gloriosa.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste el Foulard glorificado.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "7PE9Bw": {
+        "en": "[Logistics]\nYou have selected the 'Shoes' category.\nThe shoes for one whose Lvl is more than 80 is: ^FF0000Glorious Shoes^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nVocê escolheu a categoria Sapatos.\nPara quem tem nível acima de 80, os sapatos que temos são estes: os ^FF0000Sapatos Gloriosos^000000.\nEles custam ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSeleccionaste la categoría ''Calzado''.\nEl calzado para alguien de Nv. superior a 80es: ^FF0000Calzado glorificado^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "7fE9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Shoes.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou os Sapatos Gloriosos.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste el Calzado glorificado.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "7vE9Bw": {
+        "en": "[Logistics]\nYou have selected the 'Accessory' category.\nThe accessory for one whose Lvl is more than 80 is: ^FF0000Glorious Ring^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nVocê escolheu a categoria Acessório.\nPara quem tem nível acima de 80, o acessório que temos é este: o ^FF0000Anel Glorioso^000000.\nEle custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSeleccionaste la categoría ''Accesorios''.\nEl accesorio para alguien de Nv. superior a 80es: ^FF0000Anillo glorificado^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "7/E9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Ring.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou o Anel Glorioso.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste el Anillo glorificado.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "8PE9Bw": {
+        "en": "[Logistics]\nYou have selected the 'Mass-Production Armor/Accessory' category.\nPlease select a sub-category.",
+        "pt": "[Negociante de KVM]\nVocê escolheu a categoria Armadura/Acessório de Suprimento.\nEscolha uma subcategoria.",
+        "es": "[Logística]\nSeleccionaste la categoría ''Armaduras/Accesorios de fabricación en serie''.\nSelecciona una subcategoría."
+    },
+    "8fE9Bw": {
+        "en": "Mass-Production Armor",
+        "pt": "Armadura de Suprimento",
+        "es": "Armadura de fabricación en serie"
+    },
+    "8vE9Bw": {
+        "en": "Mass-Production Shoes",
+        "pt": "Sapatos de Suprimento",
+        "es": "Calzado de fabricación en serie"
+    },
+    "8/E9Bw": {
+        "en": "Mass-Production Accessory",
+        "pt": "Acessório de Suprimento",
+        "es": "Accesorio de fabricación en serie"
+    },
+    "9PE9Bw": {
+        "en": "[Logistics]\nYou have selected 'Mass-Production Armor'.\nThere is only one Mass-Production Armor: ^FF0000Glorious Mass-Production Suit^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nVocê escolheu a categoria Armadura de Suprimento.\nSó temos uma Armadura de Suprimento: a ^FF0000Túnica Gloriosa Industrializada^000000.\nEla custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSeleccionaste ''Armadura de fabricación en serie''.\nSolo hay una Armadura de fabricación en serie: ^FF0000Traje de fabricación en serie glorificado^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "9fE9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Mass-Production Suit.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou a Túnica Gloriosa Industrializada.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste el Traje de fabricación en serie glorificado.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "9vE9Bw": {
+        "en": "[Logistics]\nYou have selected 'Mass-Production Shoes'.\nThere is only one Mass-Production Shoes: ^FF0000Glorious Mass-Production Shoes^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nVocê escolheu a categoria Sapatos de Suprimento.\nSó temos um tipo de Sapato de Suprimento: os ^FF0000Sapatos Gloriosos Industrializados^000000.\nEles custam ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSeleccionaste ''Calzado de fabricación en serie''.\nSolo hay un Calzado de fabricación en serie: ^FF0000Calzado de fabricación en serie glorificado.^000000\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "9/E9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Mass-Production Shoes.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou os Sapatos Gloriosos Industrializados.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste el Calzado de fabricación en serie glorificado.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "+PE9Bw": {
+        "en": "[Logistics]\nYou have selected 'Mass-Production Accessory'.\nThere is only one Mass-Production Accessory: ^FF0000Glorious Mass-Production Ring^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nVocê escolheu a categoria Acessório de Suprimento.\nSó temos um Acessório de Suprimento: o ^FF0000Anel Glorioso Industrializado^000000.\nEle custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSeleccionaste ''Accesorios de fabricación en serie''.\nSolo hay un Accesorio de fabricación en serie: ^FF0000Anillo de fabricación en serie glorificado^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "+fE9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Mass-Production Ring.\nYou spent ^0000FF{0}^000000 points, and now your KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou o Anel Glorioso Industrializado.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nAdquiriste el Anillo de fabricación en serie glorificado.\nGastaste ^0000FF{0}^000000 puntos, ahora tus Puntos KVM son: ^580080{1}^000000."
+    },
+    "+vE9Bw": {
+        "en": "[Logistics]\nYou have selected the 'Popularized Armor/Accessory' category.\nPlease select a sub-category.",
+        "pt": "[Negociante de KVM]\nVocê escolheu a categoria Armadura/Acessório Público.\nEscolha uma subcategoria.",
+        "es": "[Logística]\nSeleccionaste la categoría ''Armaduras/Accesorios populares''.\nSelecciona una subcategoría."
+    },
+    "+/E9Bw": {
+        "en": "Popularized Armor",
+        "pt": "Armadura Pública",
+        "es": "Armadura popular"
+    },
+    "/PE9Bw": {
+        "en": "Popularized Shoes",
+        "pt": "Sapatos Públicos",
+        "es": "Calzado popular"
+    },
+    "/fE9Bw": {
+        "en": "Popularized Accessory",
+        "pt": "Acessório Público",
+        "es": "Accesorios populares"
+    },
+    "/vE9Bw": {
+        "en": "[Logistics]\nYou have selected 'Popularized Armor'.\nThere is only one Popularized Armor: ^FF0000Glorious Popularized Suit^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nVocê escolheu Armadura Pública.\nSó temos uma Armadura Pública: a ^FF0000Túnica Gloriosa Barata^000000.\nEla custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSeleccionaste ''Armadura popular''.\nSolo hay una Armadura popular: ^FF0000Traje popular glorificado^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "//E9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Popularized Suit.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou a Túnica Gloriosa Barata.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste el Traje popular glorificado.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "API9Bw": {
+        "en": "[Logistics]\nYou have selected 'Popularized Shoes'.\nThere is only one Popularized Shoe: ^FF0000Glorious Popularized Shoes^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nVocê escolheu Sapatos Públicos.\nSó temos um tipo de Sapatos Públicos: os ^FF0000Sapatos Gloriosos Baratos^000000.\nEles custam ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSeleccionaste ''Calzado popular''.\nSolo hay un Calzado popular: ^FF0000Calzado popular glorificado^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "AfI9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Popularized Shoes.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou os Sapatos Gloriosos Baratos.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste el Calzado popular glorificado.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "AvI9Bw": {
+        "en": "[Logistics]\nYou have selected 'Popularized Accessory'.\nThere is only one Popularized Accessory: ^FF0000Glorious Popularized Ring^000000.\nIt requires ^0000FF{0}^000000 KVM Points; and {1}, your points are: ^580080{2}^000000.\nAre you sure you want this item?",
+        "pt": "[Negociante de KVM]\nVocê escolheu Acessório Público.\nSó temos um Acessório Público: o ^FF0000Anel Glorioso Barato^000000.\nEle custa ^0000FF{0}^000000 Pontos KVM. {1}, sua quantidade de pontos é: ^580080{2}^000000.\nTem certeza de que quer este item?",
+        "es": "[Logística]\nSeleccionaste '''Accesorio popular''.\nSolo hay un Accesorio popular: ^FF0000Anillo popular glorificado^000000.\nSe necesitan ^0000FF{0}^000000 Puntos KVM; pero, {1}, tus puntos son: ^580080{2}^000000.\n¿Estás seguro de que quieres este objeto?"
+    },
+    "A/I9Bw": {
+        "en": "[Logistics]\nYou have purchased the Glorious Popularized Ring.\nYou spent ^0000FF{0}^000000 points, and now your combined KVM Points are: ^580080{1}^000000.",
+        "pt": "[Negociante de KVM]\nVocê comprou o Anel Glorioso Barato.\nVocê gastou ^0000FF{0}^000000 pontos, e agora seus Pontos KVM são: ^580080{1}^000000.",
+        "es": "[Logística]\nCompraste el Anillo popular glorificado.\nGastaste ^0000FF{0}^000000 puntos y ahora tus Puntos KVM combinados son: ^580080{1}^000000."
+    },
+    "BPI9Bw": {
+        "en": "[Logistics]\n{0}, your current combined points are ^800080{1}^000000 KVM Points.",
+        "pt": "[Negociante de KVM]\n{0}, no momento você tem ^800080{1}^000000 Pontos KVM.",
+        "es": "[Logística]\n{0}, tus puntos combinados actuales son ^800080{1}^000000 Puntos KVM."
+    },
+    "BfI9Bw": {
+        "en": "[Logistics]\nThere are 3 categories in KVM Rewards: Weapon/Armor/Accessory.",
+        "pt": "[Negociante de KVM]\nHá três categorias de Recompensas KVM: Armas, Armaduras e Acessórios.",
+        "es": "[Logística]\nHay 3categorías en recompensas de KVM: Armas/Armaduras/Accesorios."
+    },
+    "BvI9Bw": {
+        "en": "[Logistics]\nWeapon rewards require 2,000 KVM points for each.\nThere are 3 types of Armor rewards and they require 840/630/580 KVM points for each.\nAccessory rewards require 1,200 KVM points for each.",
+        "pt": "[Negociante de KVM]\nAs Armas custam 2.000 pontos KVM cada.\nHá três tipos de Armaduras, e cada um deles custa 840, 630 e 580 Pontos KVM.\nOs Acessórios custam 1.200 pontos KVM cada.",
+        "es": "[Logística]\nPara las recompensas de armas se necesitan 2000Puntos KVM por cada una.\nHay 3tipos de recompensas de armadura y se necesitan 840/630/580Puntos KVM por cada una.\nPara las recompensas de accesorios se necesitan 1200Puntos KVM por cada una."
+    },
+    "B/I9Bw": {
+        "en": "[Logistics]\nKreiger Weapons are LV 4 Weapons; they can be upgraded and will have special effects: Slaughter, Destruction, and Blessing.",
+        "pt": "[Negociante de KVM]\nAs armas de recompensa KVM são de nível 4; podem ser aprimoradas e têm efeitos especiais: Carniceiro, Destruição e Bênção.",
+        "es": "[Logística]\nLas armas Krieger son armas de Nv. 4; se pueden mejorar y tendrán efectos especiales: Matanza, Destrucción y Bendición."
+    },
+    "CPI9Bw": {
+        "en": "[Logistics]\nWhen you can wear all 3 Armors, you can have a special set of options. Also, when Kreiger Accessory rewards are worn with medals, it will bring you special set effects.",
+        "pt": "[Negociante de KVM]\nAo usar todas as três Armaduras, você terá um conjunto especial de opções. Além disso, quando Acessórios KVM forem usados com medalhas, também gerarão efeitos especiais.",
+        "es": "[Logística]\nCuando usas las 3armaduras, puedes tener un conjunto de opciones especiales. Además, si llevas un medallón junto con las recompensas de accesorios Krieger, recibirás efectos de conjuntos."
+    },
+    "CfI9Bw": {
+        "en": "[Logistics]\nFinally, there are Mass-Production Armor and Accessory rewards. Players whose Lvl is higher than 60 can equip Mass-Production Armors and there is a Lvl limit for Popularized Armor as well.",
+        "pt": "[Negociante de KVM]\nEnfim, temos Armaduras e Acessórios de Suprimento. Jogadores com nível acima de 60 podem se equipar com Armaduras de Suprimento; também há um limite de nível para Armaduras Públicas.",
+        "es": "[Logística]\nPor último, hay recompensas de armaduras y accesorios de fabricación en serie. A partir del Nv. 60los jugadores pueden equipar armaduras de fabricación en serie y también hay un límite de niv. para las armaduras populares."
+    },
+    "CvI9Bw": {
+        "en": "[Logistics]\nAlso please note that although the Reward items are account bound, KVM Points cannot be transferred between characters in an account so consider this when choosing who fights in the KVM Arena.",
+        "pt": "[Negociante de KVM]\nAlém disso, observe que, embora os itens de recompensa sejam vinculados à conta, os Pontos KVM não podem ser transferidos entre personagens na conta, portanto, considere isso ao escolher quem luta na Arena KVM.",
+        "es": "[Logística]\nAunque los objetos de recompensa están vinculados a la cuenta, los Puntos KVM no se pueden transferir entre personajes de una misma cuenta, tenlo en cuenta a la hora de elegir quién peleará en la Arena KVM."
+    },
+    "C/I9Bw": {
+        "en": "[Logistics]\nKVM Points are rewarded when you win, lose, or draw in Kreiger Von Midgard (KVM). You can exchange your KVM Points for special Rewards.",
+        "pt": "[Negociante de KVM]\nOs Pontos KVM são concedidos quando você ganha, perde ou empata batalhas Kreiger Von Midgard (KVM). Você pode trocar esses pontos por recompensas especiais.",
+        "es": "[Logística]\nLos Puntos KVM se obtienen al ganar, perder o empatar en Kreiger Von Midgard (KVM). Puedes canjear tus puntos KVM por recompensas especiales."
+    },
+    "DPI9Bw": {
+        "en": "[Logistics]\nKVM Badges can also be obtained through special events. These can be placed in storage and can be used in combination with any accumulated KVM Points.",
+        "pt": "[Negociante de KVM]\nAs Insígnias KVM também podem ser obtidas em eventos especiais. Elas podem ser depositadas no armazenamento e usadas em combinação com quaisquer Pontos KVM acumulados.",
+        "es": "[Logística]\nLas Insignias KVM también se pueden obtener en eventos especiales. Se pueden almacenar y usar en combinación con Puntos KVM acumulados."
+    }
+}

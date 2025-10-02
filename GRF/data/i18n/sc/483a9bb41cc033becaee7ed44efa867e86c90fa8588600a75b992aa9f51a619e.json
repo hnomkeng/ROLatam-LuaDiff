@@ -1,0 +1,272 @@
+{
+    "wGueCA": {
+        "ko": "무한관리자",
+        "en": "Infinity Manager",
+        "pt": "ADM Infinity",
+        "es": "Gerente da Infinity"
+    },
+    "wWueCA": {
+        "ko": "[연구실 관리자]\n모두 처리되었습니다.",
+        "en": "[Lab Manager]\nAll processed.",
+        "pt": "[Administrador]\nMissão deletada.",
+        "es": "[Gerente de Laboratorio]\nTodo procesado."
+    },
+    "wmueCA": {
+        "ko": "Infinity room",
+        "en": "Infinity Space",
+        "pt": "Infinity Space",
+        "es": "Infinity Space"
+    },
+    "w2ueCA": {
+        "ko": "파티명:{0}\n파티장:{1}\n^0000FF{2} ^000000- 예약실패",
+        "en": "Party name:{0}\nParty leader:{1}\n^0000FF{2} ^000000- Reservation failed",
+        "pt": "Grupo: {0}\nLíder: {1}\nFalha ao reservar ^0000FF{2} ^000000",
+        "es": "Nombre del grupo: {0}\nLíder del grupo: {1}\n^0000FF{2} ^000000- Error en la reserva."
+    },
+    "xGueCA": {
+        "ko": "[무모한 탐험가]\n아래로 내려가려는 통로가 열리고 나면 잠시 숨을 고른후 다시 말을 걸어주세요.",
+        "en": "[Reckless Explorer]\nWhen the passageway to go down opens, take a breath and talk to me again.",
+        "pt": "[Arqueóloga]\nQuando for sua vez na fila, volte a falar comigo.",
+        "es": "[Exploradora Temeraria]\nCuando se abra el pasadizo para bajar, respira hondo y vuelve a hablar conmigo."
+    },
+    "xWueCA": {
+        "ko": "무모한 탐험가",
+        "en": "Reckless Explorer",
+        "pt": "Arqueóloga",
+        "es": "Exploradora Temeraria"
+    },
+    "xmueCA": {
+        "ko": "[무모한 탐험가]\n음, 자네의 도움이 필요할지 모르겠다 싶었는데. 아직은 힘들겠군.",
+        "en": "[Reckless Explorer]\nHmm, I thought I might need your help. It's still going to be tough.",
+        "pt": "[Arqueóloga]\nOh, queria tanto a sua ajuda, mas... nesse nível fica difícil.",
+        "es": "[Exploradora Temeraria]\nMmm, pensé que podría necesitar tu ayuda. Sigue siendo difícil."
+    },
+    "x2ueCA": {
+        "ko": "[무모한 탐험가]\n좀 많이 강해진 뒤에 날 한번 찾아와 주겠나? 그래 한 100 레벨 정도면 좋을까나.",
+        "en": "[Reckless Explorer]\nWould you come see me once you've gotten a lot stronger? Maybe around level 100 would be good.",
+        "pt": "[Arqueóloga]\nPor favor, volte quando for nível base 100 ou superior.",
+        "es": "[Exploradora Temeraria]\n¿Vendrías a verme cuando te hayas vuelto mucho más fuerte? Quizás alrededor del nivel 100 estaría bien."
+    },
+    "yGueCA": {
+        "ko": "^FF0000던전 안에서 몬스터 테이밍 등의 임의의 몬스터 처리를 하실 경우 정상적인 진행으로 간주하지 않습니다. 이 점 유의하시기 바랍니다.^000000",
+        "en": "^FF0000 Taming monsters or randomly dealing with monsters in the dungeon is not considered normal progress. Please keep this in mind. ^000000",
+        "pt": "^FF0000Não domestique monstros dentro da instância. O progresso poderá ser comprometido.^000000",
+        "es": "^FF0000 Domar monstruos o lidiar con ellos aleatoriamente en la mazmorra no se considera progreso normal. Por favor, ten esto en cuenta. ^000000"
+    },
+    "yWueCA": {
+        "ko": "[무모한 탐험가]\n앗, 아니아니 안으로 들어가려던게 아니예요. 위법을 저지를 생각같은건 전혀 없었다구요.",
+        "en": "[Reckless Explorer]\nOh, no, I wasn't trying to go inside. I had no intention of breaking the law.",
+        "pt": "[Arqueóloga]\nOh, eu não ia entrar no farol. Não tinha intenção de infrigir a lei.",
+        "es": "[Exploradora Temeraria]\nOh, no, no intentaba entrar. No tenía intención de infringir la ley."
+    },
+    "ymueCA": {
+        "ko": "무슨 말씀이시죠?",
+        "en": "What are you talking about?",
+        "pt": "Como assim?",
+        "es": "¿De qué estás hablando?"
+    },
+    "y2ueCA": {
+        "ko": "[무모한 탐험가]\n아?",
+        "en": "[Reckless Explorer]\nHuh?",
+        "pt": "[Arqueóloga]\nHã?",
+        "es": "[Exploradora Temeraria]\n¿Eh?"
+    },
+    "zGueCA": {
+        "ko": "[무모한 탐험가]\n흐음, 왕궁에서 보내온 단속반 아니신가요?",
+        "en": "[Reckless Explorer]\nHmm, aren't you a task force sent by the palace?",
+        "pt": "[Arqueóloga]\nVocê não é Policial?",
+        "es": "[Exploradora Temeraria]\nMmm, ¿no eres un grupo de trabajo enviado por el palacio?"
+    },
+    "zWueCA": {
+        "ko": "아니 그냥 평범한 모험가입니다만.",
+        "en": "No, just an ordinary adventurer.",
+        "pt": "Não, sou uma pessoa comum.",
+        "es": "No, solo un aventurero común y corriente."
+    },
+    "zmueCA": {
+        "ko": "[무모한 탐험가]\n휴~ 다행이다.\n처음보는 얼굴이기에 왕궁에서 단속반이 나온 줄 알고 깜짝 놀랬잖아요.",
+        "en": "[Reckless Explorer]\nPhew~ Thank goodness.\nSince it's the first time I've seen you, I was surprised thinking you were a task force from the palace.",
+        "pt": "[Arqueóloga]\nUfa~ Que bom.\nEu nunca te vi por aqui, então achei que era da polícia do reino.",
+        "es": "[Exploradora Temeraria]\nUf~ Menos mal.\nComo es la primera vez que te veo, me sorprendió pensar que eras un grupo de trabajo del palacio."
+    },
+    "z2ueCA": {
+        "ko": "단속반이면 어쩔건가요?",
+        "en": "What if you're a task force?",
+        "pt": "O que a polícia faria?",
+        "es": "¿Y si eres un grupo de trabajo?"
+    },
+    "0GueCA": {
+        "ko": "무슨 일 있나요?",
+        "en": "What's wrong?",
+        "pt": "O que está acontecendo?",
+        "es": "¿Qué pasa?"
+    },
+    "0WueCA": {
+        "ko": "[무모한 탐험가]\n어쩌긴요. 전 그저 산책나온 평범한 처자일뿐이예요. 그럼 전 산책을 마저 하러 오호호...",
+        "en": "[Reckless Explorer]\nWhat can I do? I'm just an ordinary woman out for a walk. Then I'll finish my walk. Hohoho...",
+        "pt": "[Arqueóloga]\nNada demais, afinal, sou apenas uma pobre camponesa passeando por aí... Até mais.",
+        "es": "[Exploradora Temeraria]\n¿Qué puedo hacer? Solo soy una mujer común y corriente que salió a pasear. Luego terminaré mi paseo. Jojojo..."
+    },
+    "0mueCA": {
+        "ko": "[무모한 탐험가]\n여기 파로스 등대가 완전히 붕괴한 소식 처음 들어보시는건가요?",
+        "en": "[Reckless Explorer]\nIs this the first time you've heard that the Pharos Lighthouse has completely collapsed?",
+        "pt": "[Arqueóloga]\nVocê não ficou sabendo do colapso do farol de Pharos?",
+        "es": "[Exploradora Temeraria]\n¿Es la primera vez que oyes que el Faro de Pharos se ha derrumbado por completo?"
+    },
+    "02ueCA": {
+        "ko": "[무모한 탐험가]\n^777700(가까이 다가서는 탐험가)^000000\n여기 파로스 등대가 얼마전에 알수없는 이유로 붕괴되었는데 글쎄 그 아래에 엄청난게 잔뜩 있다는거예요.",
+        "en": "[Reckless Explorer]\n^777700(Explorer approaches)^000000\nThe Pharos Lighthouse collapsed for some unknown reason a while ago, and there's something huge underneath it.",
+        "pt": "[Arqueóloga]\n^777700(Falando bem baixinho)^000000\nO interior do Farol de Pharos desabou recentemente por razões desconhecidas e há muitas relíquias por baixo dos escombros.",
+        "es": "[Exploradora Temeraria]\n^777700(Exploradora se acerca)^000000\nEl Faro de Pharos se derrumbó por alguna razón desconocida hace un tiempo, y hay algo enorme debajo."
+    },
+    "1GueCA": {
+        "ko": "[무모한 탐험가]\n왕궁에서 보낸 복구인원과 경비병 일부도 실종된 상태이고. 소문에 의하면 이 아래엔 몬스터들이 득시글 거린다고 하네요",
+        "en": "[Reckless Explorer]\nSome of the recovery personnel and guards sent from the palace are missing. Rumor has it that monsters are swarming down here.",
+        "pt": "[Arqueóloga]\nUma parte da equipe de arqueologia e alguns guardas estão desaparecidos. Rumores dizem que há monstros lá embaixo.",
+        "es": "[Exploradora Temeraria]\nAlgunos del personal de recuperación y los guardias enviados desde el palacio han desaparecido. Se rumorea que hay monstruos pululando por aquí."
+    },
+    "1WueCA": {
+        "ko": "[무모한 탐험가]\n끝이 없어보인다고 해서 이곳의 사람들은 이 아래를 무한의 공간이라 부르며 두려워하고 있더라고요.",
+        "en": "[Reckless Explorer]\nThe people here call this place the infinite space because it seems endless.",
+        "pt": "[Arqueóloga]\nOs que conseguiram sair disseram que lá dentro parecia um quarto interminável de salas, um espaço infinito.",
+        "es": "[Exploradora Temeraria]\nLa gente de aquí llama a este lugar el espacio infinito porque parece interminable."
+    },
+    "1mueCA": {
+        "ko": "[무모한 탐험가]\n하지만 이미 몰래 들어가서 크게 벌어들인 친구들도 있고 해서 말이죠. 저도 한바탕 해보려는 중인데, 혹시 그쪽은 관심없나요?",
+        "en": "[Reckless Explorer]\nBut some of my friends have already sneaked in and made a lot of money. I'm thinking about giving it a try, so are you interested?",
+        "pt": "[Arqueóloga]\nEu conheço pessoas que entraram sorrateiramente e conseguiram muito dinheiro. Você tem interesse em me ajudar?",
+        "es": "[Exploradora Temeraria]\nPero algunos de mis amigos ya se han colado y han ganado mucho dinero. Estoy pensando en intentarlo, ¿te interesa?"
+    },
+    "12ueCA": {
+        "ko": "관심없다",
+        "en": "Not interested",
+        "pt": "Não tenho interesse",
+        "es": "No me interesa."
+    },
+    "2GueCA": {
+        "ko": "좋다",
+        "en": "Good",
+        "pt": "Parece bom!",
+        "es": "Bien."
+    },
+    "2WueCA": {
+        "ko": "[무모한 탐험가]\n안타깝네요. 생각이 바뀌면 언제든 다시 찾아와요, 전 대 환영이니까",
+        "en": "[Reckless Explorer]\nThat's too bad. If you change your mind, come back anytime, I'm always welcome.",
+        "pt": "[Arqueóloga]\nEntendo. Se mudar de ideia, estarei por aqui.",
+        "es": "[Exploradora Temeraria]\nQué lástima. Si cambias de opinión, vuelve cuando quieras, siempre seré bienvenido."
+    },
+    "2mueCA": {
+        "ko": "[무모한 탐험가]\n좋아요, 일단 전 경험없는 연약한 초보 모험가이니 이 위에서 모험가님이 이 아래를 탐험하는걸 말로 돕겠어요.",
+        "en": "[Reckless Explorer]\nOkay, for now, I'm a weak and inexperienced beginner adventurer, so I'll help you explore down here by talking.",
+        "pt": "[Arqueóloga]\nÓtimo! Eu não tenho os poderes que você tem, mas posso te ajudar a abrir uma passagem.",
+        "es": "[Exploradora Temeraria]\nDe acuerdo, por ahora, soy un aventurero principiante débil e inexperto, así que te ayudaré a explorar aquí abajo hablando."
+    },
+    "22ueCA": {
+        "ko": "[무모한 탐험가]\n저는 모험 견학을 하고, 모험가님은 직접 아래를 탐험하고. 서로 좋은 일 아니겠어요? 준비가 되면 시작해보자구요.",
+        "en": "[Reckless Explorer]\nI'll go on an adventure tour, and you explore down there yourself. Isn't that good for both of us? Let's get started when you're ready.",
+        "pt": "[Arqueóloga]\nSeu objetivo é explorar a área que desabou e me mostrar os tesouros. Isso não é bom para nós dois?",
+        "es": "[Exploradora Temeraria]\nIré de viaje de aventura y tú explorarás ahí abajo. ¿No te parece bien para los dos? Empecemos cuando estés listo."
+    },
+    "3GueCA": {
+        "ko": "[무모한 탐험가]\n자, 그럼 시작해볼까요?",
+        "en": "[Reckless Explorer]\nOkay, shall we begin?",
+        "pt": "[Arqueóloga]\nPodemos começar?",
+        "es": "[Exploradora Temeraria]\nDe acuerdo, ¿comenzamos?"
+    },
+    "3WueCA": {
+        "ko": "[무모한 탐험가]\n이번에도 그곳에 가시는건가요?",
+        "en": "[Reckless Explorer]\nAre you going there again this time?",
+        "pt": "[Arqueóloga]\nVocê vai voltar para lá?",
+        "es": "[Exploradora Temeraria]\n¿Vas a volver allí esta vez?"
+    },
+    "3mueCA": {
+        "ko": "무한의 공간 입장 준비",
+        "en": "Infinite Space Entry Preparation",
+        "pt": "Abrir a porta da instância",
+        "es": "Preparación para la Entrada al Espacio Infinito"
+    },
+    "32ueCA": {
+        "ko": "취소",
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar"
+    },
+    "4GueCA": {
+        "ko": "[무모한 탐험가]\n아~파티의 리더가 아니군요. 리더분을 모시고 오면 제가 입장을 도와드리도록 할께요.",
+        "en": "[Reckless Explorer]\nAh~ You're not the party leader. If you bring the leader, I'll help you enter.",
+        "pt": "[Arqueóloga]\nAh~  Somente o líder do grupo pode reservar a instância.",
+        "es": "[Exploradora Temeraria]\nAh~ No eres el líder del grupo. Si traes al líder, te ayudaré a entrar."
+    },
+    "4WueCA": {
+        "ko": "[무모한 탐험가]\n어머, 온몸으로 피곤하다고 외치고 있잖아요. 이래선 저 아래로 내려갈 수 없다구요.",
+        "en": "[Reckless Explorer]\nOh my, you're screaming that you're tired all over. You can't go down like this.",
+        "pt": "[Arqueóloga]\nCéus~ Estou muito cansada agora. Volte mais tarde.",
+        "es": "[Exploradora Temeraria]\n¡Ay, estás gritando que estás cansado! No puedes bajar así."
+    },
+    "4mueCA": {
+        "ko": "^0000FF무한의 공간을 출입한 모든 피로도가 없어졌습니다. 무모한 탐험가과 대화가 가능해 질 것 같습니다.^000000",
+        "en": "^0000FFAll fatigue from entering and exiting Infinite Space has been removed. It seems that you can now talk to Reckless Explorer.^000000",
+        "pt": "^0000FFA Arqueóloga parece estar descansada. Você pode abrir a instância novamente.^000000",
+        "es": "^0000FFSe ha eliminado toda la fatiga de entrar y salir del Espacio Infinito. Parece que ahora puedes hablar con el Exploradora Temeraria.^000000"
+    },
+    "42ueCA": {
+        "ko": "[무모한 탐험가]\n혼자선 무리예요, 1인 이상의 파티를 구성하거나 파티에 가입한 뒤 다시 오시겠어요?",
+        "en": "[Reckless Explorer]\nI can't do it alone. Would you like to form a party of one or more people or join a party and come back?",
+        "pt": "[Arqueóloga]\nTalvez seja perigoso ir só. Que tal formar um grupo primeiro?",
+        "es": "[Exploradora Temeraria]\nNo puedo hacerlo solo. ¿Te gustaría formar un grupo de una o más personas o unirte a uno y volver?"
+    },
+    "5GueCA": {
+        "ko": "임시 출입구",
+        "en": "Temporary Entrance",
+        "pt": "Entrada",
+        "es": "Entrada Temporal"
+    },
+    "5WueCA": {
+        "ko": "{0} 파티의 {1} 파티원이 {2} 에 입장합니다",
+        "en": "{0} party member {1} enters {md_name}",
+        "pt": "{0}, do grupo {1}, entrou no Espaço Infinito",
+        "es": "{0}, miembro del grupo, {1}, entra en {md_name}"
+    },
+    "5mueCA": {
+        "ko": "[임시 출입구]\n이동을 위한 통로가 활성화되지 않았습니다.",
+        "en": "[Temporary Entrance]\nThe passage for movement is not activated.",
+        "pt": "[Entrada]\nA passagem não foi aberta.",
+        "es": "[Entrada Temporal]\nEl paso de movimiento no está activado."
+    },
+    "52ueCA": {
+        "ko": "[임시 출입구]\n민간인은 이곳에 들어갈 수 없습니다.",
+        "en": "[Temporary Entrance]\nCivilians cannot enter here.",
+        "pt": "[Entrada]\nCivis não são permitidos aqui.",
+        "es": "[Entrada Temporal]\nLos civiles no pueden entrar aquí."
+    },
+    "6GueCA": {
+        "ko": "{0} 파티의 {1} 파티원이 {2} 에 입장합니다",
+        "en": "{0} party member {1} enters {2}",
+        "pt": "{0}, do grupo {1}, entrou no Espaço Infinito",
+        "es": "{0}, miembro del grupo, {1}, entra en {2}"
+    },
+    "6WueCA": {
+        "ko": "[임시 출입구]\n이미 무한의 공간에 출입한 흔적이 있습니다. 계속 접근을 시도하면 경보를 울리겠습니다.",
+        "en": "[Temporary Entrance]\nThere is already evidence of entry into the infinite space. If you continue to attempt to enter, the alarm will sound.",
+        "pt": "[Entrada]\nVocê já entrou aqui hoje. Se continuar vindo no mesmo dia, os guardas podem notar.",
+        "es": "[Entrada Temporal]\nYa hay indicios de entrada al espacio infinito. Si continúa intentando entrar, sonará la alarma."
+    },
+    "6mueCA": {
+        "ko": "^0000FF파티를 결성하지 않은 모험가는 입장이 불가능해보입니다.^000000",
+        "en": "^0000FFAdventurers who are not in a party appear to be unable to enter.^000000",
+        "pt": "^0000FFCrie um grupo para entrar na instância.^000000",
+        "es": "^0000FFLos aventureros que no forman parte de un grupo parecen no poder entrar.^000000"
+    },
+    "62ueCA": {
+        "ko": "파티명:{0}\n파티장:{1}\n^0000FF{2} ^000000- 예약실패",
+        "en": "Party Name: {0}\nParty Leader: {1}\n^0000FF {2} ^000000 - Reservation failed",
+        "pt": "Nome do Grupo: {0}\nLíder do Grupo: {1}\n^0000FF {2} ^000000 - Falha na reserva",
+        "es": "Nombre del Grupo: {0}\nLíder del Grupo: {1}\n^0000FF {2} ^000000 - Reserva fallida"
+    },
+    "7GueCA": {
+        "ko": "[임시 출입구]\n알 수 없는 오류가 발생했습니다.",
+        "en": "[Temporary Entrance] An unknown error has occurred.",
+        "pt": "[Entrada] Ocorreu um erro desconhecido.",
+        "es": "[Entrada Temporal] Ha ocurrido un error desconocido."
+    }
+}

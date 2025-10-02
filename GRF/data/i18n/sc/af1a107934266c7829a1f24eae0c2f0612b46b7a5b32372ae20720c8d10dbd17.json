@@ -1,0 +1,857 @@
+{
+    "AKhh": {
+        "en": "Professor Aide",
+        "pt": "Assistente do Professor",
+        "es": "Profesor Gusano"
+    },
+    "Aahh": {
+        "en": "EEK!",
+        "pt": "EEK!",
+        "es": "¡AY!"
+    },
+    "Aqhh": {
+        "en": "[Briquet toothpick]\nTell me all that you want!",
+        "pt": "[Palito de dente Briquet]\nDiga-me tudo o que quiser!",
+        "es": "[Escarbadientes de briqueta]\n¡Dime todo lo que deseas!"
+    },
+    "A6hh": {
+        "en": "Quest Initialization",
+        "pt": "Inicialização da Missão",
+        "es": "Inicialización de la misión"
+    },
+    "BKhh": {
+        "en": "20 Star Shape Mushrooms",
+        "pt": "20 Cogumelos Estrela",
+        "es": "20 Hongos en forma de estrella"
+    },
+    "Bahh": {
+        "en": "Right before doodle research",
+        "pt": "Logo antes da pesquisa de rabisco",
+        "es": "Justo antes de la investigación de los garabatos"
+    },
+    "Bqhh": {
+        "en": "Right before final compensation",
+        "pt": "Logo antes da compensação final",
+        "es": "Justo antes de la recompensa final"
+    },
+    "B6hh": {
+        "en": "[Operation Briquet]\nThere it is!",
+        "pt": "[Operação Briquet]\nAqui está!",
+        "es": "[Operación briqueta]\n¡Ahí está!"
+    },
+    "CKhh": {
+        "en": "Professor Worm",
+        "pt": "Professor Fabre",
+        "es": "Profesor Lombriz"
+    },
+    "Cahh": {
+        "en": "- You have too many items to proceed with the conversation",
+        "pt": "- Você tem itens demais para prosseguir com a conversa",
+        "es": "-Tienes demasiados objetos para continuar con la conversación-"
+    },
+    "Cqhh": {
+        "en": "[Professor Worm]\nHow did you get up here?\nYou couldn't seem more frail!\nAre you a monster that I created?",
+        "pt": "[Professor Fabre]\nComo chegou até aqui?\nVocê não poderia parecer mais frágil!\nVocê é um monstro que eu criei?",
+        "es": "[Profesor Gusano]\n¿Cómo llegaste aquí arriba?\n¡Te ves demasiado frágil!\n¿Eres uno de los monstruos que creé?"
+    },
+    "C6hh": {
+        "en": "[Professor Worm]\nI have a job for you, so strengthen yourself to the level of an incubus and then return to me!",
+        "pt": "[Professor Fabre]\nEu tenho um trabalho para você, então se fortaleça até o nível de um incubus e depois volte para mim!",
+        "es": "[Profesor Gusano]\nTengo una tarea para ti, ¡así que recupera fuerzas al nivel de un Íncubo y luego vuelve a verme!"
+    },
+    "DKhh": {
+        "en": "[Professor Worm]\nBusy, busy, busy! Monsters, I have to create more monsters!\nDanger! I don't know when attack will come!\nIt's coming! It's all coming!\nLike a tsunami!!",
+        "pt": "[Professor Fabre]\nOcupado, ocupado, ocupado! Monstros, tenho que criar mais monstros!\nPerigo! Não sei quando o ataque virá!\nEstá vindo! Está tudo vindo!\nComo um tsunami!!!",
+        "es": "[Profesor Gusano]\n¡Estoy muy ocupado! ¡Monstruos, tengo que crear más monstruos!\n¡Peligro! ¡No sé cuándo vendrá el ataque!\n¡Está viniendo! ¡Todo está viniendo!\n¡¡Como un tsunami!!"
+    },
+    "Dahh": {
+        "en": "What's coming?",
+        "pt": "O que está vindo?",
+        "es": "¿Qué es lo que está viniendo?"
+    },
+    "Dqhh": {
+        "en": "What are you doing here?",
+        "pt": "O que está fazendo aqui?",
+        "es": "¿Qué haces aquí?"
+    },
+    "D6hh": {
+        "en": "Please tell me about Bifrost.",
+        "pt": "Por favor, fale-me sobre a Bifrost.",
+        "es": "Cuéntame sobre el Bifrost."
+    },
+    "EKhh": {
+        "en": "[Professor Worm]",
+        "pt": "[Professor Fabre]",
+        "es": "[Profesor Gusano]"
+    },
+    "Eahh": {
+        "en": "EEEK!\nHow did you get up here? I kept many monsters around the tower!\nThere's no way anyone could have invaded it! That means, you... you are!",
+        "pt": "EEEK!\nComo você chegou até aqui? Eu mantinha muitos monstros ao redor da torre!\nNão é possível que alguém a tenha invadido! Isso significa que você... você é!",
+        "es": "¡AAAH!\n¿Cómo llegaste aquí arriba? ¡Puse muchos monstruos alrededor de la torre!\n¡No hay forma de que nadie la haya invadido! Eso significa que... ¡eres tú!"
+    },
+    "Eqhh": {
+        "en": "[Professor Worm]\nAre you a monster that I created?\nYou have to be!",
+        "pt": "[Professor Fabre]\nVocê é um monstro que eu criei?\nSó pode ser!",
+        "es": "[Profesor Gusano]\n¿Eres uno de los monstruos que creé?\n¡Tienes que ser tú!"
+    },
+    "E6hh": {
+        "en": "I want to know about the tower.",
+        "pt": "Quero saber sobre a torre.",
+        "es": "Quiero saber sobre la torre."
+    },
+    "FKhh": {
+        "en": "It's a talking worm!",
+        "pt": "É uma minhoca falante!",
+        "es": "¡Es un gusano parlante!"
+    },
+    "Fahh": {
+        "en": "A tower? What tower?\nThis was a tower?\nWhy am I in a tower?\nIt's been so long that I forgot everything!",
+        "pt": "Uma torre? Que torre?\nIsso era uma torre?\nPor que estou em uma torre?\nJá faz tanto tempo que me esqueci de tudo!",
+        "es": "¿Torre? ¿Qué torre?\n¿Esto era una torre?\n¿Porqué estoy en una torre?\n¡Pasó tanto tiempo que me olvidé de todo!"
+    },
+    "Fqhh": {
+        "en": "[Professor Worm]\nWhy am I a bug?\nYou monster!\nJust because I made you without much effort are your eyes just that much deficient?!",
+        "pt": "[Professor Fabre]\nPor que sou um inseto?\nSeu monstro!\nSó porque eu te criei sem muito esforço, seus olhos são tão deficientes assim?",
+        "es": "[Profesor Gusano]\n¿Porqué soy un bicho?\n¡Eres un monstruo!\n¿Será porque te creé sin demasiado esfuerzo que tus ojos son tan defectuosos?"
+    },
+    "F6hh": {
+        "en": "Professor Worm probes his own face and becomes shocked. He sees his own face through the silver plate and is really shocked.",
+        "pt": "O Professor Fabre examina seu próprio rosto e fica chocado. Ele vê seu próprio rosto através da placa de prata e fica realmente chocado.",
+        "es": "El profesor Gusano analiza su propio rostro y queda impactado. Ve su propio rostro en el plato plateado y queda realmente impactado."
+    },
+    "GKhh": {
+        "en": "[Professor Worm]\nWhen did my handsome face become like this? My name is...",
+        "pt": "[Professor Fabre]\nQuando foi que meu rosto bonito ficou assim? Meu nome é...",
+        "es": "[Profesor Gusano]\n¿Cuándo mi hermoso rostro se convirtió en esto? Mi nombre es…"
+    },
+    "Gahh": {
+        "en": "[{0}]\nProfessor Worm!",
+        "pt": "[{0}]\nProfessor Fabre!",
+        "es": "[{0}]\n¡Profesor Gusano!"
+    },
+    "Gqhh": {
+        "en": "[Professor Worm]\nThat's right!\nWait, no that's not it..\nMy goodness, I even forgot the name!\nDon't just stand there please go and find my portrait!",
+        "pt": "[Professor Fabre]\nÉ isso mesmo!\nEspere, não, não é isso...\nMeu Deus, eu até esqueci o nome!\nNão fique aí parado, por favor, vá procurar meu retrato!",
+        "es": "[Profesor Gusano]\n¡Así es!\nEspera, no es ese…\n¡Por todos los cielos, hasta me olvidé del nombre!\nNo te quedes allí inmóvil, ¡ve a buscar mi retrato!"
+    },
+    "G6hh": {
+        "en": "I'm busy!",
+        "pt": "Estou ocupado!",
+        "es": "¡Tengo otras cosas que hacer!"
+    },
+    "HKhh": {
+        "en": "Why should I!",
+        "pt": "Por que eu deveria?",
+        "es": "¿Porqué debería hacerlo?"
+    },
+    "Hahh": {
+        "en": "[Professor Worm]\nYou came all the way up here in your free time and you are telling me you're busy?!",
+        "pt": "[Professor Fabre]\nVocê veio até aqui em seu tempo livre e está me dizendo que está ocupado?",
+        "es": "[Profesor Gusano]\n¿Viniste hasta aquí arriba en tu tiempo libre y ahora me dices que tienes otras cosas que hacer?"
+    },
+    "Hqhh": {
+        "en": "[Professor Worm]\nWell, you have to be curious.\nWhile my memory got worse my intuition improved so much!",
+        "pt": "[Professor Fabre]\nBem, você tem que ser curioso.\nEmbora minha memória tenha piorado, minha intuição melhorou muito!",
+        "es": "[Profesor Gusano]\nBueno, debes tener curiosidad.\nSi bien mi memoria empeoró, ¡mi intuición es mucho mejor!"
+    },
+    "H6hh": {
+        "en": "If you want to hear what you want to hear help me get my memory back!",
+        "pt": "Se você quer ouvir o que quer ouvir, ajude-me a recuperar memória!",
+        "es": "Si quieres que te diga lo que quieres oír, ¡entonces ayúdame a recuperar la memoria!"
+    },
+    "IKhh": {
+        "en": "[Professor Worm]\nAmong the many books on the shelves in this room my portrait is bookmarked inside somewhere. Please find it!",
+        "pt": "[Professor Fabre]\nEntre os muitos livros nas prateleiras desta sala, meu retrato está marcado em algum lugar. Por favor, encontre-o!",
+        "es": "[Profesor Gusano]\nEntre todos los libros que hay en los estantes de esta sala, hay un marcador con mi retrato en algún lugar. ¡Encuéntralo!"
+    },
+    "Iahh": {
+        "en": "That's a difficult question.\nI definitely knew it even until a few hundred years back but I forgot it clearly now.\nI can't do anything but what I do best now.\nCreating monsters and letting them loose.",
+        "pt": "Essa é uma pergunta difícil.\nEu definitivamente sabia disso até algumas centenas de anos atrás, mas me esqueci claramente agora.\nNão posso fazer nada além do que faço melhor agora.\nCriar monstros e deixá-los à solta.",
+        "es": "Es una pregunta difícil.\nSabía la respuesta hasta hace un par de cientos de años, pero ahora la olvidé.\nAhora no puedo hacer otra cosa que lo que hago mejor.\nCrear monstruos y liberarlos."
+    },
+    "Iqhh": {
+        "en": "Bifrost? It's sleeping.\nIt's in a deep sleep.\nI might also be sleeping a lot later..\nIt's going to be my turn next!\nNo, no! I can't just be the one to take it.\nMonsters, I have to let more monsters loose!",
+        "pt": "Bifrost? Ele está dormindo.\nEstá em um sono profundo.\nEu também posso estar dormindo muito mais tarde...\nAgora será a minha vez!\nNão, não! Não posso ser o único a levá-la.\nMonstros, tenho que soltar mais monstros!",
+        "es": "¿El Bifrost? Está durmiendo.\nEstá sumido en un sueño profundo.\nQuizás después yo también duerma mucho…\n¡La próxima vez me toca!\n¡No, no! No puedo ser yo quien lo tome.\nMonstruos, ¡debo liberar más monstruos!"
+    },
+    "I6hh": {
+        "en": "[Professor Worm]\nThis is my portrait?",
+        "pt": "[Professor Fabre]\nEste é o meu retrato?",
+        "es": "[Profesor Gusano]\n¿Este es mi retrato?"
+    },
+    "JKhh": {
+        "en": "[Professor Worm]\nThis is how I used to look?\n...\nOh yeah, it is me!",
+        "pt": "[Professor Fabre]\nÉ assim que eu costumava ser?\n...\nAh, sim, sou eu!",
+        "es": "[Profesor Gusano]\n¿Así me veía?\n…\nAh, sí, ¡soy yo!"
+    },
+    "Jahh": {
+        "en": "But how did I become like this?\nWait a minute...",
+        "pt": "Mas como fiquei assim?\nEspere um pouco...",
+        "es": "¿Pero cómo me convertí en esto?\nEspera un momento…"
+    },
+    "Jqhh": {
+        "en": "[Professor Worm]\nI am remembering something vaguely...\nThe weather, the landscape at the time...",
+        "pt": "[Professor Fabre]\nEstou me lembrando de algo vagamente...\nO clima, a paisagem da época...",
+        "es": "[Profesor Gusano]\nLo recuerdo vagamente…\nEl tiempo, el paisaje de la época…"
+    },
+    "J6hh": {
+        "en": "[Professor Worm]\nI... yeah, it was a land with many blooming flowers where I was collecting something... That's right!\nI was collecting some ^FF0000Star Shape Mushrooms^000000!",
+        "pt": "[Professor Fabre]\nEu... sim, era uma terra com muitas flores desabrochando onde eu estava coletando algo... É isso mesmo!\nEu estava coletando alguns ^FF0000Cogumelos Estrela^000000!",
+        "es": "[Profesor Gusano]\nYo… Sí, había una tierra con muchos pimpollos y yo estaba recolectando algo… ¡Así es!\n¡Estaba recolectando algunos ^FF0000Hongos en forma de estrella^000000!"
+    },
+    "KKhh": {
+        "en": "[Professor Worm]\nWhy was I doing that....",
+        "pt": "[Professor Fabre]\nPor que eu estava fazendo isso....",
+        "es": "[Profesor Gusano]\n¿Porqué estaba haciendo eso…?"
+    },
+    "Kahh": {
+        "en": "Hey monster, if you go to the land of many blooming flowers and bring me some ^FF0000Star Shape Mushrooms^000000,\nI might remember everything you see!",
+        "pt": "Ei, monstro, se você for à terra das muitas flores desabrochando e me trouxer alguns ^FF0000Cogumelos Estrela^000000,\ntalvez eu me lembre de tudo o que você viu!",
+        "es": "Oye monstruo, si vas a la tierra de los pimpollosy me traes unos ^FF0000Hongos en forma de estrella^000000,\n¡tal vez lo recuerde todo!"
+    },
+    "Kqhh": {
+        "en": "Please just try to remember things now.",
+        "pt": "Por favor, tente se lembrar das coisas agora.",
+        "es": "Intenta recordarlo todo ahora, por favor."
+    },
+    "K6hh": {
+        "en": "I'll bring them back for you.",
+        "pt": "Eu os trarei de volta para você.",
+        "es": "Te los traeré."
+    },
+    "LKhh": {
+        "en": "[Professor Worm]\nWell, I even forgot my name and I can't remember anything right now!",
+        "pt": "[Professor Fabre]\nBem, eu até esqueci meu nome e não consigo me lembrar de nada agora!",
+        "es": "[Profesor Gusano]\nBueno, ¡hasta olvidé mi nombre y en este momento no me acuerdo de nada!"
+    },
+    "Lahh": {
+        "en": "[Professor Worm]\nFrom the land of blooming flowers bring me 20 ^FF0000Star Shape Mushrooms^000000.\nI think monster 'Petal' would usually roam with them in their mouths.\nYou couldn't expect me to remember things with just a few mushrooms!",
+        "pt": "[Professor Fabre]\nDa terra das flores desabrochando, traga-me 20 ^FF0000Cogumelos Estrela^000000.\nAcho que o monstro 'Petal' costuma andar com eles na boca.\nNão é de se esperar que eu me lembre de coisas com apenas alguns cogumelos!",
+        "es": "[Profesor Gusano]\nDe la tierra de los pimpollos, tráeme 20^FF0000Hongos con forma de estrella^000000.\nCreo que un monstruo llamado Pétalo solía deambular con ellos en la boca.\n¡No puedes esperar que recuerde todo con solamente un par de Hongos!"
+    },
+    "Lqhh": {
+        "en": "[Professor Worm]\nThere's not enough ^FF0000Star Shape Mushrooms^000000 !\nI was trying to do something at the time with 20 mushrooms. If you don't bring me enough,\nI may not be able to remember enough either!",
+        "pt": "[Professor Fabre]\nNão há ^FF0000Cogumelos Estrela^000000 suficientes!\nEu estava tentando fazer algo no momento com 20 cogumelos. Se você não me trouxer o suficiente,\ntalvez eu também não consiga me lembrar o suficiente!",
+        "es": "[Profesor Gusano]\n¡No hay suficientes ^FF0000Hongos en forma de estrella^000000!\nEn ese momento, intentaba hacer algo con 20 Hongos. Si no me traes los necesarios,\n¡quizás tampoco pueda recordar lo suficiente!"
+    },
+    "L6hh": {
+        "en": "[Professor Worm]\n^FF0000Star Shape Mushrooms^000000 should be easily found through finding Petals roaming the land of blooming flowers.",
+        "pt": "[Professor Fabre]\nOs ^FF0000Cogumelos Estrela^000000 devem ser encontrados facilmente ao encontrar Petals vagando pela terra das flores desabrochando.",
+        "es": "[Profesor Gusano]\nLos ^FF0000Hongos en forma de estrella^000000 deberían ser fáciles de encontrar si buscas Pétalos que deambulen por la tierra de los pimpollos."
+    },
+    "MKhh": {
+        "en": "[Professor Worm]\nYou brought me 20 ^FF0000Star Shape Mushrooms^000000.\nYes, yes, it feels like my memory is about to burst back!",
+        "pt": "[Professor Fabre]\nVocê me trouxe 20 ^FF0000Cogumelos Estrela^000000.\nSim, sim, parece que minha memória está prestes a voltar!",
+        "es": "[Profesor Gusano]\nMe trajiste 20^FF0000Hongos con forma de estrella^000000.\nSí, sí, ¡parece que mi memoria está a punto de regresar!"
+    },
+    "Mahh": {
+        "en": "[Professor Worm]\nI was using these as ingredients for... some potions!\nIt wasn't for anything good though...\nI had other ingredients too...",
+        "pt": "[Professor Fabre]\nEu estava usando isso como ingrediente para... algumas poções!\nMas não era para nada bom...\nEu tinha outros ingredientes também...",
+        "es": "[Profesor Gusano]\nLos estaba usando como ingredientes para... ¡algunas pociones!\nAunque no fue para nada bueno…\nTambién tenía otros ingredientes…"
+    },
+    "Mqhh": {
+        "en": "[Professor Worm]\nBefore I forget, I should make note of these things on the wall. Wait...\nWho doodled so much on this wall?!\nThe writing is just like mine!\n... I must have done it!",
+        "pt": "[Professor Fabre]\nAntes que eu me esqueça, devo anotar essas coisas na parede. Espere...\nQuem rabiscou tanto nesta parede?!\nA escrita é igual à minha!\n...Deve ter sido eu!",
+        "es": "[Profesor Gusano]\nAntes de que se me olvide, debería anotar estas cosas en la pared. Un momento…\n¡¿Quién garabateó tanto en esta pared?!\n¡La letra es igual que la mía!\n… ¡Debo haberlo hecho yo!"
+    },
+    "M6hh": {
+        "en": "Every wall is filled with Professor Worm's notes.\nIf I study the walls carefully I might be able to gain some information on the tower or Bifrost.",
+        "pt": "Todas as paredes estão cheias de anotações do Professor Fabre.\nSe eu estudar as paredes com cuidado, talvez consiga obter alguma informação sobre a torre ou Bifrost.",
+        "es": "Todas las paredes están llenas de notas del profesor Gusano.\nSi estudio las paredes con cuidado, quizá pueda obtener alguna información sobre la torre o el Bifrost."
+    },
+    "NKhh": {
+        "en": "Every wall has so much doodling.\nIt looks like my writing. I must have done it.\nPlease take a look at five different walls, analyze what I doodled, and let me know what you find.\nI'm so curious, so curious that all my memories might float away.",
+        "pt": "Todas as paredes têm muitos rabiscos.\nParece que estou escrevendo. Eu devo ter feito isso.\nPor favor, dê uma olhada em cinco paredes diferentes, analise o que eu rabisquei e me diga o que encontrou.\nEstou tão curioso, tão curioso que todas as minhas lembranças podem desaparecer.",
+        "es": "Todas las paredes están cubiertas de garabatos.\nParece mi letra. Debo haberlo hecho yo.\nPor favor, échale un vistazo a cinco paredes diferentes, analiza lo que garabateé y dime lo que descubras.\nTengo tanta curiosidad, tanta curiosidad que todos mis recuerdos podrían salir a flote."
+    },
+    "Nahh": {
+        "en": "[Professor Worm]\nYou studied all of the doodles?",
+        "pt": "[Professor Fabre]\nVocê estudou todos os rabiscos?",
+        "es": "[Profesor Gusano]\n¿Estudiaste todos los garabatos?"
+    },
+    "Nqhh": {
+        "en": "The contents of the doodles were analyzed and reported to the professor.",
+        "pt": "O conteúdo dos rabiscos foi analisado e relatado ao professor.",
+        "es": "Se analizó e informó al profesor sobre el contenido de los garabatos."
+    },
+    "N6hh": {
+        "en": "I see. I was producing medicines to put Bifrost to sleep. For that, I was punished and transformed into a worm and my memories deteriorated so rapidly.\nLet me think about this for a bit.",
+        "pt": "Entendo. Eu estava produzindo medicamentos para colocar Bifrost para dormir. Por isso, fui punido e transformado em um verme e minha memória se deteriorou rapidamente.\nDeixe-me pensar um pouco sobre isso.",
+        "es": "Ya veo. Estaba produciendo medicinas para hacer dormir al Bifrost. Por ello, me castigaron y transformaron en gusano, y mis recuerdos se deterioraron muy rápidamente.\nDéjame pensar un momento."
+    },
+    "OKhh": {
+        "en": "[Professor Worm]\nHey monster, thanks to you I think my memory is returning bit by bit.\nBut why did I get stuck in this tower?\nAnd for what reason did I put Bifrost to sleep?",
+        "pt": "[Professor Fabre]\nEi, monstro, graças a você, acho que minha memória está voltando pouco a pouco.\nMas por que fiquei preso nesta torre?\nE por qual motivo eu coloquei o Bifrost para dormir?",
+        "es": "[Profesor Gusano]\nOye, monstruo, gracias a ti creo que mi memoria va volviendo poco a poco.\nPero, ¿por qué me quedé atrapado en esta torre?\n¿Y por qué razón puse a dormir al Bifrost?"
+    },
+    "Oahh": {
+        "en": "Don't ask me that!",
+        "pt": "Não me pergunte isso!",
+        "es": "¡No me preguntes eso!"
+    },
+    "Oqhh": {
+        "en": "Think harder!",
+        "pt": "Pense melhor!",
+        "es": "¡Piénsalo mejor!"
+    },
+    "O6hh": {
+        "en": "[Professor Worm]\nHow dare a monster irritate its creator!",
+        "pt": "[Professor Fabre]\nComo um monstro ousa irritar seu criador?",
+        "es": "[Profesor Gusano]\n¡Cómo se atreve un monstruo a irritar a su creador!"
+    },
+    "PKhh": {
+        "en": "[Professor Worm]\nAhhhh, my head feels like it's about to explode.\nI should make more notes on the wall.\nWait, there are no more spaces on the wall!\nWho doodled so much on the walls?\nIs it you, monster?",
+        "pt": "[Professor Fabre]\nAhhhh, parece que minha cabeça está prestes a explodir.\nEu deveria fazer mais anotações na parede.\nEspere, não há mais espaços na parede!\nQuem rabiscou tanto nas paredes?\nÉ você, monstro?",
+        "es": "[Profesor Gusano]\nAhhhh, siento que mi cabeza está a punto de explotar.\nDebería hacer más anotaciones en la pared.\n¡Espera, no hay más espacio en la pared!\n¡¿Quién garabateó tanto en las paredes?!\n¿Acaso fuiste tú, monstruo?"
+    },
+    "Pahh": {
+        "en": "[Professor Worm]\nI guess I would have to write a diary then...\nOh that's right, I used to keep a diary!",
+        "pt": "[Professor Fabre]\nAcho que eu teria que escrever um diário então...\nAh, é verdade, eu costumava ter um diário!",
+        "es": "[Profesor Gusano]\nSupongo que entonces tendría que escribir un diario…\nOh, es verdad, ¡solía llevar un diario!"
+    },
+    "Pqhh": {
+        "en": "What did you do with a diary again?",
+        "pt": "O que você fez com um diário?",
+        "es": "¿Qué hacías con un diario?"
+    },
+    "P6hh": {
+        "en": "Show it to me.",
+        "pt": "Mostre para mim.",
+        "es": "Enséñamelo."
+    },
+    "QKhh": {
+        "en": "[Professor Worm]\nI must have written things that I should have never forgotten!\nWhy are you so sarcastic, anyways?",
+        "pt": "[Professor Fabre]\nEu devo ter escrito coisas que nunca deveria ter esquecido!\nPor que você é tão sarcástico, afinal?",
+        "es": "[Profesor Gusano]\n¡Debo haber escrito cosas que no debería haber olvidado!\n¿Por qué eres hablas con tanto sarcasmo?"
+    },
+    "Qahh": {
+        "en": "[Professor Worm]\nWell.. It's not an ordinary notebook... I used a ^0000FFDiary Frog^000000 which is  a frog that can record things.\nEverytime I was really mad, I threw it all over the place, so they all scattered.",
+        "pt": "[Professor Fabre]\nBem... Não é um caderno comum... Eu usei um ^0000FFSapo-Diário^000000 que é um sapo que pode registrar coisas.\nToda vez que eu estava muito bravo, eu o jogava em todos os lugares, então todos eles se espalharam.",
+        "es": "[Profesor Gusano]\nBueno… No era un cuaderno cualquiera… Utilicé una ^0000FFRana-diario^000000, que es una rana que puede grabar cosas.\nCada vez que me enfadaba de verdad, la lanzaba por todas partes, así que esas cosas se esparcían."
+    },
+    "Qqhh": {
+        "en": "What a temper you have!",
+        "pt": "Que temperamento você tem!",
+        "es": "¡Qué carácter tienes!"
+    },
+    "Q6hh": {
+        "en": "Should I find the Diary Frog?",
+        "pt": "Devo encontrar o Sapo-Diário?",
+        "es": "¿Debería encontrar la Rana-diario?"
+    },
+    "RKhh": {
+        "en": "[Professor Worm]\nWhy don't you try living imprisoned yourself?\nIf you were in my place you wouldn't just throw some frogs, but the entire household!",
+        "pt": "[Professor Fabre]\nPor que você mesmo não tenta viver aprisionado?\nSe estivesse em meu lugar, não jogaria apenas alguns sapos, mas a casa inteira!",
+        "es": "[Profesor Gusano]\n¿Por qué no intentas vivir en prisión tú?\nSi estuvieras en mi lugar no solo lanzarías algunas ranas, ¡sino toda la casa!"
+    },
+    "Rahh": {
+        "en": "[Professor Worm]\nI threw them all over the place.\nIf they didn't scatter too much I'm sure they're still around somewhere.\nLet me see, maybe I can remember a few...",
+        "pt": "[Professor Fabre]\nEu os joguei em todos os lugares.\nSe não se espalharam muito, tenho certeza de que ainda estão em algum lugar.\nDeixe-me ver, talvez eu consiga me lembrar de alguns...",
+        "es": "[Profesor Gusano]\nLas lancé por todas partes.\nSi no se dispersaron demasiado, seguro que aún están por ahí.\nA ver, quizá me acuerde de algunas…"
+    },
+    "Rqhh": {
+        "en": "[Professor Worm]\nThat's right, I threw one Diary Frog to the floor right below.\nWhile you go look for that one,\nI'll try to remember where I threw the others.",
+        "pt": "[Professor Fabre]\nÉ isso mesmo, joguei um Sapo-Diário no chão logo abaixo.\nEnquanto você vai procurar esse,\nvou tentar me lembrar de onde joguei os outros.",
+        "es": "[Profesor Gusano]\nAh, sí, lancé una Rana-diario al piso de abajo.\nMientras buscas esa,\nintentaré recordar dónde lancé las otras."
+    },
+    "R6hh": {
+        "en": "[Professor Worm]\nI threw one Diary Frog to the floor right below.\nWhile you go look for that one I'll try to remember where I threw the others.",
+        "pt": "[Professor Fabre]\nJoguei um Sapo-Diário no chão logo abaixo.\nEnquanto você vai procurar esse, vou tentar lembrar onde joguei os outros.",
+        "es": "[Profesor Gusano]\nLancé una Rana-diario al piso de abajo.\nMientras buscas esa, intentaré recordar dónde lancé las otras."
+    },
+    "SKhh": {
+        "en": "[Professor Worm]\nI just remembered! I threw one Diary Frog to the first floor of the tower.\nIt sure rolled around and about.",
+        "pt": "[Professor Fabre]\nAcabei de me lembrar! Joguei um Sapo-Diário no primeiro andar da torre.\nCom certeza ele rolou para lá e para cá.",
+        "es": "[Profesor Gusano]\n¡Ya me acordé! Lancé una Rana-diario al primer piso de la torre.\nSeguro que rodó por ahí."
+    },
+    "Sahh": {
+        "en": "[Professor Worm]\nI just remembered! I threw one Diary Frog so recklessly, and it just kept on rolling and disappeared out of the tower.\nIt must still be around the tower somewhere.",
+        "pt": "[Professor Fabre]\nAcabei de me lembrar! Eu joguei um Sapo-Diário de forma tão imprudente, que ele continuou rolando e desapareceu da torre.\nEle ainda deve estar em algum lugar da torre.",
+        "es": "[Profesor Gusano]\n¡Ya me acordé! Lancé una Rana-diario tan imprudentemente que salió rodando y desapareció de la torre.\nTodavía debe estar en algún lugar cerca de la torre."
+    },
+    "Sqhh": {
+        "en": "[Professor Worm]\nDid you find all Diary Frogs?\nYou only found three?\nDid all the rest just get destroyed?\nI should have thrown them a little more gently... \nThanks a lot. Thanks to you, I found my portrait and got back some of my memories.",
+        "pt": "[Professor Fabre]\nVocê encontrou todos os Sapos-Diários?\nSó encontrou três?\nTodos os outros foram destruídos?\nEu deveria tê-los jogado com um pouco mais de cuidado... \nMuito obrigado. Graças a você, encontrei meu retrato e recuperei algumas de minhas memórias.",
+        "es": "[Profesor Gusano]\n¿Encontraste todas las Ranas-diario?\n¿Solo encontraste tres?\n¿Se destruyó todo el resto?\nDebería haberlas lanzado con más suavidad… \nMuchas gracias. Gracias a ti, encontré mi retrato y recuperé algunos de mis recuerdos."
+    },
+    "S6hh": {
+        "en": "[Professor Worm]\nBut nothing is still all that clear.\nI'm so curious, that it angers me, but I don't have any more Diary Frogs to throw...",
+        "pt": "[Professor Fabre]\nMas nada ainda está claro.\nEstou tão curioso que fico com raiva, mas não tenho mais Sapos-Diários para jogar...",
+        "es": "[Profesor Gusano]\nPero aún nada está completamente claro.\nTengo tanta curiosidad, que me da rabia, pero no tengo más Ranas-diario que lanzar…"
+    },
+    "TKhh": {
+        "en": "[Professor Worm]\nI'll try to figure out other ways to get back my memory. And when I do please help me again.",
+        "pt": "[Professor Fabre]\nVou tentar descobrir outras maneiras de recuperar minha memória. E, quando eu conseguir, por favor, me ajude novamente.",
+        "es": "[Profesor Gusano]\nIntentaré buscar otras formas de recuperar la memoria. Y cuando lo haga, por favor, ayúdame de nuevo."
+    },
+    "Tahh": {
+        "en": "Thanks a lot for helping me remember.\nBut nothing is still all that clear.\nI'm so curious, that it angers me, but I don't have any more Diary Frogs to throw...",
+        "pt": "Muito obrigado por me ajudar a lembrar.\nMas nada ainda está muito claro.\nEstou tão curioso que fico com raiva, mas não tenho mais nenhum Sapos-Diários para jogar...",
+        "es": "Muchas gracias por ayudarme a recordar.\nPero aún nada está completamente claro.\nTengo tanta curiosidad, que me da rabia, pero no tengo más Ranas-diario que lanzar…"
+    },
+    "Tqhh": {
+        "en": "[Professor Worm]\nI'll try to figure out other ways to get back my memory. And when I do, please help me again.",
+        "pt": "[Professor Fabre]\nVou tentar descobrir outras maneiras de recuperar minha memória. E, quando eu conseguir, por favor, me ajude novamente.",
+        "es": "[Profesor Gusano]\nIntentaré buscar otras formas de recuperar la memoria. Y cuando lo haga, por favor, ayúdame de nuevo."
+    },
+    "T6hh": {
+        "en": "It seems like it's somewhere here.\nLet's look closer.",
+        "pt": "Parece que está em algum lugar aqui.\nVamos dar uma olhada mais de perto.",
+        "es": "Parece que está por aquí.\nMiremos con más atención."
+    },
+    "UKhh": {
+        "en": "Every book is bookmarked with some memos and pictures. It might just be somewhere around here.",
+        "pt": "Todo livro está marcado com alguns memorandos e fotos. Pode ser que esteja em algum lugar por aqui.",
+        "es": "Cada libro está marcado con algunos memos y fotos. Puede que esté por aquí."
+    },
+    "Uahh": {
+        "en": "Found it!\n...or not. It's just a doodle.\nLet's look around here a little more.",
+        "pt": "Encontrei!\n...ou não. É apenas um rabisco.\nVamos dar uma olhada aqui um pouco mais.",
+        "es": "¡Lo encontré!\n…o no. Es solo un garabato.\nMiremos un poco más por aquí."
+    },
+    "Uqhh": {
+        "en": "Just a ton of random things.\nLet's look through anything and everything.",
+        "pt": "Apenas uma tonelada de coisas aleatórias.\nVamos dar uma olhada em tudo e em qualquer coisa.",
+        "es": "Solo un montón de cosas al azar.\nBusquemos por todas partes."
+    },
+    "U6hh": {
+        "en": "Found the portrait!",
+        "pt": "Encontrei o retrato!",
+        "es": "¡Encontré el retrato!"
+    },
+    "VKhh": {
+        "en": "He looked totally different.\nWith so much flamboyance he seems he used to be a magician full of vanity.\nUnfortunately, the paper is too worn out that the name has been erased.",
+        "pt": "Ele parecia totalmente diferente.\nCom tanta extravagância, parece que ele costumava ser um mágico cheio de vaidade.\nInfelizmente, o papel está muito desgastado e o nome foi apagado.",
+        "es": "Se veía totalmente diferente.\nCon tanta ostentación, parece que antes era un mago sumamente vanidoso.\nDesgraciadamente, el papel está tan gastado que se borró el nombre."
+    },
+    "Vahh": {
+        "en": "Let's show this to Professor Worm.",
+        "pt": "Vamos mostrar isso ao Professor Fabre.",
+        "es": "Mostrémosle esto al profesor Gusano."
+    },
+    "Vqhh": {
+        "en": "Professor Worm's portrait has been found.",
+        "pt": "O retrato do Professor Fabre foi encontrado.",
+        "es": "Se encontró el retrato del profesor Gusano."
+    },
+    "V6hh": {
+        "en": "Since Professor Worm's portrait is found there is no need to search through the books anymore.",
+        "pt": "Como o retrato do Professor Fabre foi encontrado, não há mais necessidade de procurar nos livros.",
+        "es": "Dado que se encontró el retrato del profesor Gusano, ya no hace falta revisar los libros."
+    },
+    "WKhh": {
+        "en": "Let's go show it to Professor Worm.",
+        "pt": "Vamos mostrar isso ao Professor Fabre.",
+        "es": "Vamos a enseñárselo al profesor Gusano."
+    },
+    "Wahh": {
+        "en": "There's no telling where it may be among these shelves.\nLet's look for it closely.",
+        "pt": "Não há como saber onde ele pode estar entre essas prateleiras.\nVamos procurá-lo com atenção.",
+        "es": "No se sabe dónde puede estar entre estas estanterías.\nBusquémoslo mejor."
+    },
+    "Wqhh": {
+        "en": "Found it!\n...or not. It's just an old letter.\nLet's look around here a little more.",
+        "pt": "Encontrei!\n...ou não. É apenas uma carta antiga.\nVamos dar uma olhada aqui um pouco mais.",
+        "es": "¡Lo encontré!\n…o no. Es solo una carta antigua.\nMiremos un poco más por aquí."
+    },
+    "W6hh": {
+        "en": "No matter how many pages are flipped through nothing is there.\nLet's look through anything and everything.",
+        "pt": "Não importa quantas páginas sejam folheadas, nada está lá.\nVamos dar uma olhada em tudo e em qualquer coisa.",
+        "es": "Por muchas páginas que se pasen, aquí no hay nada.\nBusquemos por todas partes."
+    },
+    "XKhh": {
+        "en": "The wall is filled with Professor Worm's notes. \nIt seems like some of it can be read.",
+        "pt": "A parede está cheia de anotações do Professor Fabre. \nParece que algumas delas podem ser lidas.",
+        "es": "La pared está cubierta de notas del profesor Gusano. \nParece que algunas se pueden leer."
+    },
+    "Xahh": {
+        "en": "Don't read it!",
+        "pt": "Não leia!",
+        "es": "¡No leerlas!"
+    },
+    "Xqhh": {
+        "en": "Read it.",
+        "pt": "Leia.",
+        "es": "Leerlas."
+    },
+    "X6hh": {
+        "en": "It doesn't seem very interesting at all!",
+        "pt": "Não parece ser nada interessante!",
+        "es": "¡No parece para nada interesante!"
+    },
+    "YKhh": {
+        "en": "Read through the notes.",
+        "pt": "Leia as anotações.",
+        "es": "Leer las notas."
+    },
+    "Yahh": {
+        "en": "[Wall Note 1]\nI succeeded in putting Bifrost to sleep.\nI am just so amazing!\nBut why do I have to remain in a place like this, too?",
+        "pt": "[Nota de Parede 1]\nConsegui colocar o Bifrost para dormir.\nSou simplesmente incrível!\nMas por que também tenho que ficar em um lugar como esse?",
+        "es": "[Nota 1 en la pared]\nLogré poner el Bifrost a dormir.\n¡Soy tan increíble!\nPero, ¿por qué tengo que permanecer yo también en un lugar así?"
+    },
+    "Yqhh": {
+        "en": "Professor Worm's notes on this wall have already been read.",
+        "pt": "As anotações do Professor Fabre sobre essa parede já foram lidas.",
+        "es": "Ya se leyeron las notas del profesor Gusano en esta pared."
+    },
+    "Y6hh": {
+        "en": "Stop reading.",
+        "pt": "Pare de ler.",
+        "es": "Dejar de leer."
+    },
+    "ZKhh": {
+        "en": "Read it again.",
+        "pt": "Leia novamente.",
+        "es": "Leer de nuevo."
+    },
+    "Zahh": {
+        "en": "It's not like it needs to be memorized so I'll just stop reading.",
+        "pt": "Não é que precise ser memorizado, então vou parar de ler.",
+        "es": "No es que haya que memorizarlo, así que dejaré de leer."
+    },
+    "Zqhh": {
+        "en": "Professor Worm's notes on this wall has already been read.",
+        "pt": "As anotações do Professor Fabre sobre essa parede já foram lidas.",
+        "es": "Ya se leyeron las notas del profesor Gusano en esta pared."
+    },
+    "Z6hh": {
+        "en": "The wall is filled with \nProfessor Worm's notes. \nIt seems like some of it can be read.",
+        "pt": "A parede está cheia de \nanotações do Professor Fabre. \nParece que algumas delas podem ser lidas.",
+        "es": "La pared está cubierta de \nnotas del profesor Gusano. \nParece que algunas se pueden leer."
+    },
+    "aKhh": {
+        "en": "[Wall Note 2]\nIt hasn't been too long since I was imprisoned in the tower, but my memories are leaving me so rapidly.\nIt may be Bifrost's strong will to stay awake that is affecting me this way.",
+        "pt": "[Nota de Parede 2]\nNão faz muito tempo que fui aprisionado na torre, mas minhas memórias estão me deixando tão rapidamente.\nTalvez seja a forte vontade de Bifrost de ficar acordado que esteja me afetando dessa forma.",
+        "es": "[Nota 2 en la pared]\nNo pasó mucho tiempo desde que me apresaron en la torre, pero mis recuerdos se borran muy rápidamente.\nPuede que lo que me está afectando de esta manera sea la fuerte voluntad del Bifrost de permanecer despierto."
+    },
+    "aahh": {
+        "en": "[Wall Note 2]\nI wonder if I'll forget even my name... How it worries me...",
+        "pt": "[Nota de Parede 2]\nEu me pergunto se esquecerei até mesmo meu nome... Como isso me preocupa...",
+        "es": "[Nota 2 en la pared]\nMe pregunto si olvidaré hasta mi nombre… Cómo me preocupa…"
+    },
+    "aqhh": {
+        "en": "[Wall Note 3]\nMy appearance is changing!\nMy hands, my skin...\nThis is without a doubt the form of a worm!\nI can't believe I'm changing into a worm..\nHow could this be!",
+        "pt": "[Nota de Parede 3]\nMinha aparência está mudando!\nMinhas mãos, minha pele...\nEsta é, sem dúvida, a forma de um verme!\nNão acredito que estou me transformando em uma minhoca...\nComo isso é possível?",
+        "es": "[Nota 3 en la pared]\n¡Mi aspecto está cambiando!\nMis manos, mi piel…\n¡Esta es sin duda la forma de un gusano!\nNo puedo creer que me estoy convirtiendo en gusano…\n¿Cómo es posible?"
+    },
+    "a6hh": {
+        "en": "[Wall Note 3]\nIs this also because of Bifrost?\nIs it Bifrost's curse against me for putting her to sleep?\nIs it doing this to me while it's asleep?\nI can't believe it... My goodness!",
+        "pt": "[Nota da parede 3]\nIsso também é por causa de Bifrost?\nÉ a maldição de Bifrost contra mim por tê-la colocado para dormir?\nEla está fazendo isso comigo enquanto está dormindo?\nNão posso acreditar nisso... Meu Deus!",
+        "es": "[Nota 3 en la pared]\n¿Esto también se debe al Bifrost?\n¿Es una maldición del Bifrost contra mí por hacerlo dormir?\n¿Me está haciendo esto mientras duerme?\nNo puedo creerlo… ¡Por todos los cielos!"
+    },
+    "bKhh": {
+        "en": "[Wall Note 4]\nBifrost's head is still growing continuously. I can't believe this... She's keep stretching beyond the tower!\nCould it be her strong will, is still awake and is trying to send a message?",
+        "pt": "[Nota de Parede 4]\nA cabeça de Bifrost ainda está crescendo continuamente. Não posso acreditar nisso... Ela continua se esticando para além da torre!\nSerá que, com sua forte vontade, ainda está acordada e tentando enviar uma mensagem?",
+        "es": "[Nota 4 en la pared]\nLa cabeza del Bifrost sigue creciendo continuamente. No puedo creerlo… ¡Sigue extendiéndose más allá de la torre!\n¿Podría ser su fuerte voluntad que sigue despierta y está tratando de enviar un mensaje?"
+    },
+    "bahh": {
+        "en": "[Wall Note 5]\nThe person who will be under attack after Bifrost is none other than me!\nI feel an eerie gaze directed at me!\nI can't just sit here and take it.",
+        "pt": "[Nota da parede 5]\nA pessoa que estará sendo atacada depois de Bifrost não é outra senão eu!\nSinto um olhar sinistro direcionado a mim!\nNão posso simplesmente ficar aqui sentado e aceitar isso.",
+        "es": "[Nota 5 en la pared]\n¡La persona que será atacada después del Bifrost no soy otro que yo!\n¡Siento una mirada inquietante dirigida hacia mí!\nNo puedo sentarme aquí y soportarlo."
+    },
+    "bqhh": {
+        "en": "[Wall Note 5]\nMonsters, I have to create more monsters to protect me. As many as I could possibly create!",
+        "pt": "[Nota de Parede 5]\nMonstros, tenho que criar mais monstros para me proteger. O máximo que eu puder!",
+        "es": "[Nota 5 en la pared]\n¡Monstruos, tengo que crear más monstruos para protegerme! ¡Todos los que pueda crear!"
+    },
+    "b6hh": {
+        "en": "Diary Frog No.3",
+        "pt": "Sapo-Diário nº3",
+        "es": "Rana-diario núm. 3"
+    },
+    "cKhh": {
+        "en": "[Diary Frog No.3]\nProfessor Worm threw me out here.\nHe used to chuck us out anytime he was furious.",
+        "pt": "[Sapo-Diário nº3]\nO Professor Fabre me expulsou daqui.\nEle costumava nos expulsar sempre que estava furioso.",
+        "es": "[Rana-diario núm.3]\nEl profesor Gusano me lanzó aquí afuera.\nSolía lanzarnos por el aire cada vez que se enfurecía."
+    },
+    "cahh": {
+        "en": "A talking frog?",
+        "pt": "Um sapo falante?",
+        "es": "¿Una rana parlante?"
+    },
+    "cqhh": {
+        "en": "I want to listen to Professor Worm's diary.",
+        "pt": "Quero ouvir o diário do Professor Fabre.",
+        "es": "Quiero escuchar el diario del profesor Gusano."
+    },
+    "c6hh": {
+        "en": "[Diary Frog No.3]\nI am a frog made of wood that can be used for recording.\nI'm a masterpiece by Professor Worm.\nSheer loneliness can lead to inventions such as this, isn't it amazing?",
+        "pt": "[Sapo-Diário nº3]\nSou um sapo feito de madeira que pode ser usado para gravação.\nSou uma obra-prima do Professor Fabre.\nA pura solidão pode levar a invenções como essa, não é incrível?",
+        "es": "[Rana-diario núm.3]\nSoy una rana de madera que sirve para grabar.\nSoy una obra maestra del profesor Gusano.\nLa soledad puede llevar a inventos como este, ¿no es asombroso?"
+    },
+    "dKhh": {
+        "en": "[Diary Frog No.3]\nI'll let you listen to it like the real thing.\nI have to imitate Professor's Worm's voice so I have to shape my throat first...\nErhem Erm... Keerhm Cough Cough!",
+        "pt": "[Sapo-Diário nº3]\nVou deixar você ouvir como se fosse de verdade.\nTenho que imitar a voz do Professor Fabre, então preciso moldar minha garganta primeiro...\nErhem Erm... Keerhm cof cof!",
+        "es": "[Rana-diario núm.3]\nTe dejaré escucharlo como si fuera de verdad.\nPara imitar la voz del profesor Gusano, primero tengo que darle forma a mi garganta…\nMmm, eh… ¡Uf! *Cof, cof*"
+    },
+    "dahh": {
+        "en": "[Realistic diary recording by Frog No. 3]\n...He really feared Bifrost!\nHe said that she needs to be eliminated because one day she will endanger him.\nHe sure said it, that person! Ahhhh~ I can't remember him- that person!",
+        "pt": "[Registro realista do diário pelo Sapo nº 3]\n...Ele realmente temia a Bifrost!\nDisse que ela precisa ser eliminada porque um dia ela o colocará em perigo.\nEle disse isso mesmo, essa pessoa! Ahhhh~ Não consigo me lembrar dele - dessa pessoa!",
+        "es": "[Grabación realista de la Rana-diario núm.3]\n¡…Realmente le temía al Bifrost!\nDijo que había que eliminarlo porque un día lo pondría en peligro.\n¡Ciertamente lo dijo, esa persona! Ahhhh No puedo recordar… ¡a esa persona!"
+    },
+    "dqhh": {
+        "en": "[Diary Frog No.3]\nThis is the end of the recording.\nAnother Diary Frog probably got thrown onto the first floor of the tower.",
+        "pt": "[Sapo-Diário nº3]\nEste é o fim da gravação.\nOutro Sapo-Diário provavelmente foi jogado no primeiro andar da torre.",
+        "es": "[Rana-diario núm.3]\nEste es el final de la grabación.\nProbablemente, se haya lanzado otra Rana-diario al primer piso de la torre."
+    },
+    "d6hh": {
+        "en": "[Diary Frog No.3]\nAre you interested in the diary recording?\nI don't have much else to do so would you like to hear it again?",
+        "pt": "[Sapo-Diário nº3]\nVocê tem interesse na gravação do diário?\nNão tenho muito mais o que fazer, então gostaria de ouvi-la novamente?",
+        "es": "[Rana-diario núm.3]\n¿Te interesa la grabación del diario?\nNo tengo mucho más que hacer, así que, ¿quieres volver a oírla?"
+    },
+    "eKhh": {
+        "en": "Where are other Diary Frogs?",
+        "pt": "Onde estão os outros Sapos-Diários?",
+        "es": "¿Dónde hay otras Ranas-diario?"
+    },
+    "eahh": {
+        "en": "Please let me hear it again.",
+        "pt": "Por favor, deixe-me ouvir novamente.",
+        "es": "Quiero oírla otra vez."
+    },
+    "eqhh": {
+        "en": "Is there any more?",
+        "pt": "Há mais algum?",
+        "es": "¿Hay más?"
+    },
+    "e6hh": {
+        "en": "[Diary Frog No.3]\nAnother Diary Frog probably got thrown onto the first floor of the tower.",
+        "pt": "[Sapo-Diário nº3]\nOutro Sapo-Diário provavelmente foi jogado no primeiro andar da torre.",
+        "es": "[Rana-diario núm.3]\nProbablemente, se haya lanzado otra Rana-diario al primer piso de la torre."
+    },
+    "fKhh": {
+        "en": "[Diary Frog No.3]\nI used to have more, but unfortunately, the fuel I need to live is the recordings themselves, so part of it got digested away.\nIt's the way I work so I can't do much about it.",
+        "pt": "[Sapo-Diário nº3]\nEu costumava ter mais, mas, infelizmente, o combustível de que preciso para viver são as próprias gravações, então parte delas foi digerida.\nÉ a maneira como eu trabalho, então não posso fazer muito a respeito.",
+        "es": "[Rana-diario núm.3]\nSolía tener más, pero por desgracia, el combustible que necesito para vivir son las propias grabaciones, así que una parte se fue digiriendo.\nEs como funciono, así que no puedo hacer mucho al respecto."
+    },
+    "fahh": {
+        "en": "[Diary Frog No.3]\nDiary Frog No.6 probably got thrown onto the first floor of the tower.",
+        "pt": "[Sapo-Diário nº3]\nO Sapo-Diário nº6 provavelmente foi jogado no primeiro andar da torre.",
+        "es": "[Rana-diario núm.3]\nProbablemente, se haya lanzado la Rana-diario núm.6 al primer piso de la torre."
+    },
+    "fqhh": {
+        "en": "Diary Frog No. 6",
+        "pt": "Sapo-Diário nº 6",
+        "es": "Rana-diario núm. 6"
+    },
+    "f6hh": {
+        "en": "[Diary Frog No.6]",
+        "pt": "[Sapo-Diário nº 6]",
+        "es": "[Rana-diario núm.6]"
+    },
+    "gKhh": {
+        "en": "Professor Worm dared to throw me out here!\nTo a place where there are so many monsters!",
+        "pt": "O Professor Fabre ousou me jogar aqui fora!\nPara um lugar onde há tantos monstros!",
+        "es": "¡El profesor Gusano se atrevió a lanzarme aquí afuera!\n¡A un lugar donde hay tantos monstruos!"
+    },
+    "gahh": {
+        "en": "[Diary Frog No. 6]\nProfessor Worm was looking for me?\nI thought he threw me out because he didn't need me!\nHe threw me realy hard, he did!",
+        "pt": "[Sapo-Diário nº 6]\nO Professor Fabre estava procurando por mim?\nAchei que ele tinha me jogado fora porque não precisava de mim!\nEle me jogou com muita força, sim!",
+        "es": "[Rana-diario núm.6]\n¿El profesor Gusano me estaba buscando?\n¡Pensé que me había lanzado porque no me necesitaba!\n¡Me lanzó muy fuerte!"
+    },
+    "gqhh": {
+        "en": "You look fine.",
+        "pt": "Você parece bem.",
+        "es": "Te ves bien."
+    },
+    "g6hh": {
+        "en": "Please calm down and let me hear the diary.",
+        "pt": "Por favor, acalme-se e deixe-me ouvir o diário.",
+        "es": "Tranquilízate, por favor, y déjame escuchar el diario."
+    },
+    "hKhh": {
+        "en": "[Diary Frog No. 6]\nYou would only understand if you were abandoned like I am!",
+        "pt": "[Sapo-Diário nº 6]\nVocê só entenderia se fosse abandonado como eu!",
+        "es": "[Rana-diario núm.6]\n¡Solo lo entenderías si te hubieran abandonado como a mí!"
+    },
+    "hahh": {
+        "en": "[Diary Frog No. 6]\nWhy are you interested in other people's diaries?\nIf you do me a favor, I'll let you hear it.\nAmong the many monsters Professor Worm let loose, ^FF0000Lichtern(blue)^000000 keep trying to bite me.",
+        "pt": "[Sapo-Diário nº 6]\nPor que você se interessa pelos diários de outras pessoas?\nSe me fizer um favor, eu te deixarei ouvir.\nEntre os muitos monstros que o Professor Fabre soltou, ^FF0000Lichtern(azul)^000000 continua tentando me morder.",
+        "es": "[Rana-diario núm.6]\n¿Por qué te interesan los diarios de los demás?\nSi me haces un favor, te dejaré escucharlo.\nEntre los muchos monstruos que liberó el profesor Gusano soltó, ^FF0000Lichtern(azul)^000000 sigue intentando morderme."
+    },
+    "hqhh": {
+        "en": "[Diary Frog No. 6]\nI am always living in anxiety.. Who would've thought that the life of a Diary Frog would be so hard?",
+        "pt": "[Sapo-Diário nº 6]\nEstou sempre vivendo em ansiedade... Quem poderia imaginar que a vida de um Sapo-Diário seria tão difícil?",
+        "es": "[Rana-diario núm.6]\nMe da una ansiedad constante… ¿Quién hubiera pensado que la vida de una Rana-diario podría ser tan difícil?"
+    },
+    "h6hh": {
+        "en": "If you return to me after getting rid of 15 ^FF0000Lichtern(blue)^000000\nI'll let you listen to Professor Worm's diary as you wish.",
+        "pt": "Se você voltar para mim depois de se livrar de 15 ^FF0000Lichtern(azul)^000000\neu te deixarei ouvir o diário do Professor Fabre como quiser.",
+        "es": "Si vuelves a mí después de deshacerte de 15^FF0000Lichtern(azul)^000000,\nte permitiré escuchar el diario del profesor Gusano como lo deseas."
+    },
+    "iKhh": {
+        "en": "That's a tough favor!",
+        "pt": "Esse é um favor difícil!",
+        "es": "¡Es un favor difícil!"
+    },
+    "iahh": {
+        "en": "I'll get rid of them.",
+        "pt": "Vou me livrar deles.",
+        "es": "Me desharé de ellos."
+    },
+    "iqhh": {
+        "en": "[Diary Frog No. 6]\nWell, then I won't say a word about the diary!",
+        "pt": "[Sapo-Diário nº 6]\nBem, então não vou dizer uma palavra sobre o diário!",
+        "es": "[Rana-diario núm.6]\n¡Bueno, entonces no diré ni una palabra sobre el diario!"
+    },
+    "i6hh": {
+        "en": "[Diary Frog No. 6]\nOk, be on your way now.\nYou know, right? The recordings I have serve as the fuel I need to live.\nYou should be haste before all of it gets digested away.",
+        "pt": "[Sapo-Diário nº 6]\nOk, vá embora agora.\nVocê sabe, certo? As gravações que tenho servem como combustível que preciso para viver.\nVocê deve se apressar antes que tudo isso seja digerido.",
+        "es": "[Rana-diario núm.6]\nTe dejaré seguir tu camino.\n¿Lo sabes, no? Las grabaciones que tengo me sirven de combustible para vivir.\nDebes darte prisa antes de que todas se digieran."
+    },
+    "jKhh": {
+        "en": "[Diary Frog No. 6]\nYou got rid of 15 ^FF0000Lichtern(blue)^000000.\nNow I can relax a little bit.\nAs I promised, I'll let you hear the diary.\nI have to imitate Professor's Worm's voice so I have to shape my throat first...\nErhem Erm... Keerhm Cough Cough!",
+        "pt": "[Sapo-Diário nº 6]\nVocê se livrou de 15 ^FF0000Lichtern(azul)^000000.\nAgora posso relaxar um pouco.\nComo prometi, vou te deixar ouvir o diário.\nTenho que imitar a voz do Professor Fabre, então preciso moldar minha garganta primeiro...\nErhem Erm... Keerhm cof cof!",
+        "es": "[Rana-diario núm.6]\nTe deshiciste de 15^FF0000Lichtern(azul)^000000.\nAhora puedo relajarme un poco.\nComo prometí, te dejaré escuchar el diario.\nPara imitar la voz del profesor Gusano, primero tengo que darle forma a mi garganta…\nMmm, eh… ¡Uf! *Cof, cof*"
+    },
+    "jahh": {
+        "en": "[Realistic diary recording by Frog No. 6]\nLet's put Bifrost to sleep.\nHe told me to remain here and control her sleep.\nIf she awakes, it would be my fault.\nIt has already been many decades.",
+        "pt": "[Registro realista do diário pelo Sapo nº 6]\nVamos colocar a Bifrost para dormir.\nEle me disse para ficar aqui e controlar o sono dela.\nSe ela acordar, a culpa será minha.\nJá se passaram muitas décadas.",
+        "es": "[Grabación realista de la Rana-diario núm.6]\nDurmamos al Bifrost.\nMe dijo que me quedara aquí y controlara su sueño.\nSi se despierta, será culpa mía.\nYa pasaron muchas décadas."
+    },
+    "jqhh": {
+        "en": "[Realistic diary recording by Frog No. 6]\nIt enrages me! How irritating!\nI want to just awaken her!\nWait... Who do I need to awaken again?",
+        "pt": "[Registro realista do diário pelo Sapo nº 6]\nIsso me enfurece! Que irritante!\nEu quero simplesmente acordá-la!\nEspere... Quem eu preciso acordar de novo?",
+        "es": "[Grabación realista de la Rana-diario núm.6]\n¡Me enfurece! ¡Qué irritante!\n¡Quiero despertarlo!\nUn momento… ¿A quién necesitaba despertar?"
+    },
+    "j6hh": {
+        "en": "A frog? What is this?\nDo I have to wake you up?\nOh whatever, I'm going to throw you out!",
+        "pt": "Um sapo? O que é isso?\nTenho que te acordar?\nAh, tanto faz, vou te expulsar daqui!",
+        "es": "¿Una rana? ¿Qué es esto?\n¿Tengo que despertarte?\n¡Oh, como sea, voy a lanzarte afuera!"
+    },
+    "kKhh": {
+        "en": "[Diary Frog No. 6]\nThis is the end of the recording.\nAnd that's when I was thrown out all the way here.",
+        "pt": "[Sapo-Diário nº 6]\nEste é o final da gravação.\nE foi quando fui expulso até aqui.",
+        "es": "[Rana-diario núm.6]\nEste es el final de la grabación.\nY fue entonces cuando me lanzaron hasta aquí."
+    },
+    "kahh": {
+        "en": "[Diary Frog No. 6]\nAnother Diary Frog would be outside the tower somewhere.\nIf nothing took it away, you'll probably find it without much difficulty.",
+        "pt": "[Sapo-Diário nº 6]\nOutro Sapo-Diário deve estar em algum lugar fora da torre.\nSe nada o levou embora, você provavelmente o encontrará sem muita dificuldade.",
+        "es": "[Rana-diario núm.6]\nPuede haber otra Rana-diario fuera de la torre en alguna parte.\nSi nada se la llevó, probablemente la encuentres fácilmente."
+    },
+    "kqhh": {
+        "en": "[Diary Frog No. 6]\nIf you return to me after getting rid of 15 ^FF0000Lichtern(blue)^000000\nI'll let you listen to Professor Worm's diary as you wish.",
+        "pt": "[Sapo-Diário nº 6]\nSe você voltar para mim depois de se livrar de 15 ^FF0000Lichtern(azul)^000000\neu te deixarei ouvir o diário do Professor Fabre como quiser.",
+        "es": "[Rana-diario núm.6]\nSi vuelves a mí después de deshacerte de 15^FF0000Lichtern(azul)^000000,\nte permitiré escuchar el diario del profesor Gusano como lo deseas."
+    },
+    "k6hh": {
+        "en": "[Diary Frog No. 6]\nDo you want to listen to the diary again?\nI'll let you hear it as much as you want!",
+        "pt": "[Sapo-Diário nº 6]\nVocê quer ouvir o diário novamente?\nVou te deixar ouvir o quanto quiser!",
+        "es": "[Rana-diario núm.6]\n¿Quieres volver a escuchar el diario?\n¡Te dejaré escucharlo todo lo que quieras!"
+    },
+    "lKhh": {
+        "en": "[Diary Frog No. 6]\nI'll let you hear it loud and clear!\nI have to imitate Professor's Worm's voice so I have to shape my throat first...\nErhem Erm... Keerhm Cough Cough!",
+        "pt": "[Sapo-Diário nº 6]\nVou deixar você ouvir em alto e bom som!\nTenho que imitar a voz do Professor Fabre, então preciso moldar minha garganta primeiro...\nErhem Erm... Keerhm cof cof!",
+        "es": "[Rana-diario núm.6]\n¡Te dejaré escucharlo a viva voz!\nPara imitar la voz del profesor Gusano, primero tengo que darle forma a mi garganta…\nMmm, eh… ¡Uf! *Cof, cof*"
+    },
+    "lahh": {
+        "en": "[Realistic diary recording by Frog No. 6]\nIt enrages me! How irritating!\nI want to just awaken her!\nWait... Who do I need to awaken again?\nOnetwothreefourfivesixseveneightninetenonetwothreefourfivesixseven\nA frog? What is this?\nDo I have to wake you up?",
+        "pt": "[Registro realista do diário pelo Sapo nº 6]\nIsso me enfurece! Que irritante!\nEu quero simplesmente acordá-la!\nEspere... Quem eu preciso acordar de novo?\nUm, dois, três, quatro, cinco, seis, sete, oito, nove, dez, um, dois, três, quatro, cinco, seis, sete...\nUm sapo? O que é isso?\nTenho que te acordar?",
+        "es": "[Grabación realista de la Rana-diario núm.6]\n¡Me enfurece! ¡Qué irritante!\n¡Quiero despertarlo!\nUn momento… ¿A quién necesitaba despertar?\nUnodostrescuatrocincoseissieteochonueveunodostrescuatrocincoseissiete\n¿Una rana? ¿Qué es esto?\n¿Tengo que despertarte?"
+    },
+    "lqhh": {
+        "en": "[Diary Frog No. 6]\nOh whatever, I'm going to throw you out!\nThis is the end of the recording.\nAnd that's when I was-",
+        "pt": "[Sapo-Diário nº 6]\nAh, tanto faz, vou expulsar você!\nEste é o fim da gravação.\nE foi quando eu estava...",
+        "es": "[Rana-diario núm.6]\n¡Oh, como sea, voy a lanzarte afuera!\nEste es el final de la grabación.\nY entonces fue cuando…"
+    },
+    "l6hh": {
+        "en": "Diary Frog No. 30",
+        "pt": "Sapo-Diário nº 30",
+        "es": "Rana-diario núm. 30"
+    },
+    "mKhh": {
+        "en": "[Diary Frog No. 30]\nAs you can see, I am a broken Diary Frog.\nProfessor Worm threw me out really hard all the way out here.\nI didn't even do anything wrong!",
+        "pt": "[Sapo-Diário nº 30]\nComo você pode ver, sou um Sapo-Diário quebrado.\nO Professor Fabre me expulsou com muita força daqui.\nEu nem sequer fiz nada de errado!",
+        "es": "[Rana-diario núm.30]\nComo puedes ver, soy una Rana-diario rota.\nEl profesor Gusano me lanzó hasta aquí con mucha fuerza.\n¡Ni siquiera hice algo malo!"
+    },
+    "mahh": {
+        "en": "[Diary Frog No. 30]\nCome over here please. Let me break one of your legs.",
+        "pt": "[Sapo-Diário nº 30]\nVenha até aqui, por favor. Deixe-me quebrar uma de suas pernas.",
+        "es": "[Rana-diario núm.30]\nVen aquí, por favor. Déjame romperte una pierna."
+    },
+    "mqhh": {
+        "en": "[Diary Frog No. 30]\nI got hurt when I was thrown out that I don't have the energy to playback the diary recording.",
+        "pt": "[Sapo-Diário nº 30]\nFiquei magoado quando fui expulso e não tenho energia para reproduzir a gravação do diário.",
+        "es": "[Rana-diario núm.30]\nMe lastimé cuando me lanzaron y ya no tengo energía para reproducir la grabación del diario."
+    },
+    "m6hh": {
+        "en": "To help me repair myself, please bring me 10 ^FF0000Star Shape Mushrooms^000000 from the land of blooming flowers.",
+        "pt": "Para me ajudar a me recuperar, traga 10 ^FF0000Cogumelos Estrela^000000 da terra das flores desabrochando.",
+        "es": "Para ayudarme a que me repare, tráeme 10^FF0000Hongos en forma de estrella^000000 de la tierra de los pimpollos."
+    },
+    "nKhh": {
+        "en": "Just walk it off.",
+        "pt": "Simplesmente vá embora.",
+        "es": "No te pasa nada grave."
+    },
+    "nahh": {
+        "en": "I'll bring them for you.",
+        "pt": "Eu os trarei para você.",
+        "es": "Te los traeré."
+    },
+    "nqhh": {
+        "en": "[Diary Frog No. 30]",
+        "pt": "[Sapo-Diário nº 30]",
+        "es": "[Rana-diario núm.30]"
+    },
+    "n6hh": {
+        "en": "Then, all I can let you hear are my moans and groans.\nARGGGGGG!!!",
+        "pt": "Então, tudo o que posso permitir que você ouça são meus gemidos e lamentações.\nARGGGGGGG!!!",
+        "es": "Entonces, lo único que vas a oír son mis gemidos y quejidos.\n¡¡AAAAAAAAAAY!!"
+    },
+    "oKhh": {
+        "en": "[Diary Frog No. 30]\n^FF0000Star Shape Mushrooms^000000 can be obtained from Petals that roam the land of blooming flowers.",
+        "pt": "[Sapo-Diário nº 30]\nOs ^FF0000Cogumelos Estrela^000000 podem ser obtidos das Pétalas que vagam pela terra das flores desabrochando.",
+        "es": "[Rana-diario núm.30]\nLos^FF0000Hongos en forma de estrella^000000 se pueden obtener de los Pétalos que vagan por la tierra de los pimpollos."
+    },
+    "oahh": {
+        "en": "[Diary Frog No. 30]\nDo you know this?\nMy recordings give me the fuel I need to live.\nIf you come back to late, all you'll hear are my moans and groans.",
+        "pt": "[Sapo-Diário nº 30]\nVocê sabe disso?\nMinhas gravações me dão o combustível de que preciso para viver.\nSe você voltar tarde, tudo o que ouvirá serão meus gemidos e lamentações.",
+        "es": "[Rana-diario núm.30]\n¿Lo sabes?\nMis grabaciones me dan el combustible que necesito para vivir.\nSi vuelves demasiado tarde, solo oirás mis gemidos y quejidos."
+    },
+    "oqhh": {
+        "en": "[Diary Frog No. 30]\nI need 10 ^FF0000Star Shape Mushrooms^000000.\nThey can be obtained from Petals that roam the land of blooming flowers.\nPlease hurry.\nBefore I lose all of the diary recordings!",
+        "pt": "[Sapo-Diário nº 30]\nPreciso de 10 ^FF0000Cogumelos Estrela^000000.\nEles podem ser obtidos de Petals que vagam pela terra das flores desabrochando.\nPor favor, se apresse.\nAntes que eu perca todas as gravações do diário!",
+        "es": "[Rana-diario núm.30]\nNecesito 10^FF0000Hongos en forma de estrella^000000.\nSe pueden obtener de los Pétalos que vala tierra de los pimpollos.\nDate prisa, por favor.\n¡Antes de que pierda todas las grabaciones del diario!"
+    },
+    "o6hh": {
+        "en": "[Diary Frog No. 30]\nYou brought all 10 ^FF0000Star Shape Mushrooms^000000 for me.\nI have to first treat my wounds, so please wait.",
+        "pt": "[Sapo-Diário nº 30]\nVocê trouxe todos os 10 ^FF0000Cogumelos Estrela^000000 para mim.\nPrimeiro preciso tratar meus ferimentos, então, por favor, aguarde.",
+        "es": "[Rana-diario núm.30]\nMe trajiste 10^FF0000Hongos con forma de estrella^000000.\nPrimero tengo que curar mis heridas, así que por favor espera."
+    },
+    "pKhh": {
+        "en": "[Diary Frog No. 30]\nNibble nibble\nGlug glug",
+        "pt": "[Sapo-Diário nº 30]\nBelisca belisca\nGlug glug",
+        "es": "[Rana-diario núm.30]\n*Nom nom*\n*Glug glug*"
+    },
+    "pahh": {
+        "en": "[Diary Frog No. 30]\nI feel all better.\nI'll let you listen to Professor Worm's diary with a well composed voice.\nLet me first shape my throat here...\nErhem.... Prrhaaha!",
+        "pt": "[Sapo-Diário nº 30]\nEstou me sentindo melhor.\nVou deixar você ouvir o diário do Professor Fabre com uma voz bem composta.\nDeixe-me primeiro moldar minha garganta aqui...\nErhem.... Prrhaaha!",
+        "es": "[Rana-diario núm.30]\nYa me siento mejor.\nTe permitiré escuchar el diario del profesor Gusano con una voz bien tranquila.\nPrimero déjame darle forma a mi garganta…\nEjem… ¡Prrhaaha!"
+    },
+    "pqhh": {
+        "en": "[Diary recording by No. 30]\nThis tower posesses amazing secrets!\nHow incredible, oh so incredible!\nAfter hundreds of years, I finally figured it all out! How could this be!\nIt is so shocking that I forgot everything that I ever knew!",
+        "pt": "[Gravação do diário pelo nº 30]\nEsta torre tem segredos incríveis!\nQue incrível, ah, tão incrível!\nDepois de centenas de anos, eu finalmente descobri tudo! Como isso é possível!\nÉ tão chocante que me esqueci de tudo o que sabia!",
+        "es": "[Grabación de la Rana-diario núm.30]\n¡Esta torre esconde secretos asombrosos!\n¡Qué increíble, tan increíble!\nDespués de cientos de años, ¡por fin lo he entendido todo! ¿Cómo es posible?\n¡Es tan sorprendente que había olvidado todo lo que sabía!"
+    },
+    "p6hh": {
+        "en": "[Diary recording by No. 30]\nThis damned frog!\nI'm so mad, I oughta throw this out!",
+        "pt": "[Registro do diário pelo nº 30]\nEsse maldito sapo!\nEstou tão furioso que deveria jogar isso fora!",
+        "es": "[Grabación de la Rana-diario núm.30]\n¡Esta maldita rana!\n¡Estoy tan enfadado que debería lanzarla por el aire!"
+    },
+    "qKhh": {
+        "en": "It seems that a continued search for diary recordings would be meaningless. I should go back to Professor Worm.",
+        "pt": "Parece que uma busca contínua por gravações de diários não faria sentido. Eu deveria voltar para o Professor Fabre.",
+        "es": "Parece que seguir buscando grabaciones de diarios no tiene sentido. Debería volver con el profesor Gusano."
+    },
+    "qahh": {
+        "en": "They were either eaten up by monsters or severely broken after being thrown out.\nI doubt there are other remaining frogs.",
+        "pt": "Elas foram devoradas por monstros ou severamente quebradas após serem jogadas fora.\nDuvido que existam outros sapos remanescentes.",
+        "es": "Fueron devoradas por monstruos o gravemente destrozadas después de que las lanzaran afuera.\nDudo que queden otras ranas."
+    },
+    "qqhh": {
+        "en": "[Diary Frog No. 30]\nI'll let you listen to Professor Worm's diary with a well composed voice.\nLet me first shape my throat here...\nErhem.... Prrhaaha!",
+        "pt": "[Sapo-Diário nº 30]\nVou deixar você ouvir o diário do Professor Fabre com uma voz bem composta.\nDeixe-me primeiro moldar minha garganta aqui...\nErhem.... Prrhaaha!",
+        "es": "[Rana-diario núm.30]\nTe permitiré escuchar el diario del profesor Gusano con una voz bien tranquila.\nPrimero déjame darle forma a mi garganta…\nEjem… ¡Prrhaaha!"
+    }
+}

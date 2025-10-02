@@ -1,0 +1,452 @@
+{
+    "gMkVCg": {
+        "ko": "리처드",
+        "en": "Richard",
+        "pt": "Richard",
+        "es": "Richard"
+    },
+    "gckVCg": {
+        "ko": "보유한 물건의 종류가 너무 많은것 같다. 물건의 종류를 줄인뒤에 다시 진행해보자.",
+        "en": "It seems like there are too many types of items. Let's try again after reducing the types of items.",
+        "pt": "Muitos itens na bolsa. Por favor, esvazie seu inventário.",
+        "es": "Tienes muchos objetos en tu inventario. Reorganiza tu inventario y regresa."
+    },
+    "gskVCg": {
+        "ko": "가진 물건이 너무 무거워 더이상의 진행이 힘들 것 같다. 무게를 줄인 후 다시 도전해보자.",
+        "en": "The things I have are so heavy that it seems difficult to proceed any further. Let's try again after reducing the weight.",
+        "pt": "Muito peso na bolsa. Por favor, esvazie seu inventário.",
+        "es": "Tienes sobrepeso. Reorganiza tu inventario y regresa."
+    },
+    "g8kVCg": {
+        "ko": "^999999왼손 (없음)^000000",
+        "en": "^999999Left hand (none)^000000",
+        "pt": "^999999Mão Esquerda (vazio)^000000",
+        "es": "^999999Mano izquierda (vacía)^000000"
+    },
+    "hMkVCg": {
+        "ko": "^999999오른손 (없음)^000000",
+        "en": "^999999Right hand (none)^000000",
+        "pt": "^999999Mão Direita (vazio)^000000",
+        "es": "^999999Mano derecha (vacía)^000000"
+    },
+    "hckVCg": {
+        "ko": "^999999갑옷 (없음)^000000",
+        "en": "^999999Armor (none)^000000",
+        "pt": "^999999Armadura (vazio)^000000",
+        "es": "^999999Armadura (vacía)^000000"
+    },
+    "hskVCg": {
+        "ko": "^999999신발 (없음)^000000",
+        "en": "^999999Shoes (none)^000000",
+        "pt": "^999999Calçado (vazio)^000000",
+        "es": "^999999Calzado (vacíos)^000000"
+    },
+    "h8kVCg": {
+        "ko": "^999999걸칠것 (없음)^000000",
+        "en": "^999999Garment (none)^000000",
+        "pt": "^999999Capa (vazio)^000000",
+        "es": "^999999Manto (vacía)^000000"
+    },
+    "iMkVCg": {
+        "ko": "^999999투구상단 (없음)^000000",
+        "en": "^999999Helmet - Upper (none)^000000",
+        "pt": "^999999Elmo - Topo (vazio)^000000",
+        "es": "^999999Sombrero - Superior (vacío)^000000"
+    },
+    "ickVCg": {
+        "ko": "^999999액세서리 (없음)^000000",
+        "en": "^999999Accessories (none)^000000",
+        "pt": "^999999Acessório Esquerdo (vazio)^000000",
+        "es": "^999999Accesorio (vacío)^000000"
+    },
+    "iskVCg": {
+        "ko": "^999999액세서리 (없음)^000000",
+        "en": "^999999Accessories (none)^000000",
+        "pt": "^999999Acessório Direito (vazio)^000000",
+        "es": "^999999Accesorio (vacío)^000000"
+    },
+    "i8kVCg": {
+        "ko": "[리처드]\n지금까지 방어구의 카드분리 일을 맡았던 제레미는 여행을 떠나 버렸어요!! 그래서 이젠 제레미가 하던 일까지 제가 도맡아서 해 드리게 되었죠.",
+        "en": "[Richard]\nJeremy, who has been in charge of separating armor cards, has gone on a trip!! So now I take over the work that Jeremy used to do.",
+        "pt": "[Richard]\nOlá~ Eu trabalho com remoção de carta em equipamentos.",
+        "es": "[Richard]\n¡Miau! Soy el responsable de quitar las cartas de los equipamientos y las armas."
+    },
+    "jMkVCg": {
+        "ko": "[리처드]\n기본적인 수수료는 10만 제니, 소켓분리 작업 성공율을 높일 수 있는 특수 아이템을 사용하는 룰은 동일하지요. 특수 아이템 사용시에는 별도의 제니를 받지 않을겁니다.",
+        "en": "[Richard]\nThe basic fee is 100,000 zeny, and the rules for using special items that can increase the success rate of socket removal work are the same. You will not receive separate zeny when using special items.",
+        "pt": "[Richard]\nVocê pode tentar remover por 100.000 zenys ou usar Lubrificantes para aumentar as chances de sucesso. Quando você opta pelos Lubrificantes, não há custo em zeny.",
+        "es": "[Richard]\nTiene un costo de 100 000 zeny, o usa lubricantes para aumentar las posibilidades de éxito."
+    },
+    "jckVCg": {
+        "ko": "[리처드]\n어떤 형태로 소켓 분리를 시도하셔도 장비나 카드가 파괴되진 않을겁니다. 다만 성공률의 차이가 달라질 뿐이죠.",
+        "en": "[Richard]\nNo matter how you attempt to disconnect the socket, the equipment or card will not be destroyed. The only difference is the success rate.",
+        "pt": "[Richard]\nNão se preocupe com as chances de sucesso, você não perde o equipamento ou a carta. Apenas atente-se às Essências de Morroc, estas podem ser perdidas.",
+        "es": "[Richard]\n¿No es tu día de suerte? No hay problema, no perderás la carta ni el equipamiento en caso de falla."
+    },
+    "jskVCg": {
+        "ko": "다음에 하겠소",
+        "en": "I'll do it next time",
+        "pt": "Sair",
+        "es": "Cancelar."
+    },
+    "j8kVCg": {
+        "ko": "[리처드]\n언제든 작업이 필요하시면 찾아와주세요.",
+        "en": "[Richard]\nPlease come by anytime if you need work.",
+        "pt": "[Richard]\nVolte sempre.",
+        "es": "[Richard]\n¡A tus órdenes! Estaré aquí si cambias de opinión."
+    },
+    "kMkVCg": {
+        "ko": "[리처드]\n그 부위엔 아무것도 없는데요?",
+        "en": "[Richard]\nThere's nothing in that area?",
+        "pt": "[Richard]\nE cadê o equipamento?",
+        "es": "[Richard]\n¿Y dónde está el equipamiento?"
+    },
+    "kckVCg": {
+        "ko": "[리처드]\n미안하지만 그 장비는 지원 대상이 아니예요.",
+        "en": "[Richard]\nSorry, that device is not eligible for support.",
+        "pt": "[Richard]\nDesculpe, não tenho serviço para esse equipamento.",
+        "es": "[Richard]\nPerdóname, pero no sé cómo trabajar con este equipamiento."
+    },
+    "kskVCg": {
+        "ko": "소켓1 - 카드 있음",
+        "en": "Socket1 - has card",
+        "pt": "Slot 1 - com Carta",
+        "es": "Slot 1 - com Carta"
+    },
+    "k8kVCg": {
+        "ko": "^777777소켓1 - 카드 없음^000000",
+        "en": "^777777Socket1 - No Card^000000",
+        "pt": "^777777Slot 1 - sem Carta^000000",
+        "es": "^777777Slot 1 - sem Carta^000000"
+    },
+    "lMkVCg": {
+        "ko": "소켓2 - 카드 있음",
+        "en": "Socket 2 - with card",
+        "pt": "Slot 2 - com Carta",
+        "es": "Slot 2 - com Carta"
+    },
+    "lckVCg": {
+        "ko": "^777777소켓2 - 카드 없음^000000",
+        "en": "^777777Socket2 - No Card^000000",
+        "pt": "^777777Slot 2 - sem Carta^000000",
+        "es": "^777777Slot 2 - sem Carta^000000"
+    },
+    "lskVCg": {
+        "ko": "소켓3 - 카드 있음",
+        "en": "Socket 3 - with card",
+        "pt": "Slot 3 - com Carta",
+        "es": "Slot 3 - com Carta"
+    },
+    "l8kVCg": {
+        "ko": "^777777소켓3 - 카드 없음^000000",
+        "en": "^777777Socket3 - No Card^000000",
+        "pt": "^777777Slot 3 - sem Carta^000000",
+        "es": "^777777Slot 3 - sem Carta^000000"
+    },
+    "mMkVCg": {
+        "ko": "소켓4 - 카드 있음",
+        "en": "Socket 4 - with card",
+        "pt": "Slot 4 - com Carta",
+        "es": "Slot 4 - com Carta"
+    },
+    "mckVCg": {
+        "ko": "^777777소켓4 - 카드 없음^000000",
+        "en": "^777777Socket 4 - No Card^000000",
+        "pt": "^777777Slot 4 - sem Carta^000000",
+        "es": "^777777Slot 4 - sem Carta^000000"
+    },
+    "mskVCg": {
+        "ko": "[리처드]\n몇번째 소켓의 카드를 분리하고 싶으십니까?. 가장 왼쪽의 소켓부터 순서대로 1.2.3.4 소켓으로 분류됩니다.",
+        "en": "[Richard]\nWhich socket do you want to remove the card from? They are classified as 1.2.3.4 sockets in order, starting from the leftmost socket.",
+        "pt": "[Richard]\nQual slot deseja remover? A contagem começa da esquerda para a direita = 1 / 2 / 3 / 4",
+        "es": "[Richard]\n¿De qué ranura quieres sacar la carta? El conteo va de izquierda a derecha = 1 / 2 / 3 / 4."
+    },
+    "m8kVCg": {
+        "ko": "작업을 중단합니다",
+        "en": "stop working",
+        "pt": "Cancelar",
+        "es": "Cancelar."
+    },
+    "nMkVCg": {
+        "ko": "[리처드]\n이 소켓은 카드가 장착되지 않았어요. 다시 확인해보시는게 어떨까요",
+        "en": "[Richard]\nThis socket is not equipped with a card. Why not check again?",
+        "pt": "[Richard]\nNão tem cartas nesse slot. Quer conferir de novo?",
+        "es": "[Richard]\nNo hay cartas en la ranura seleccionada. ¿Quieres volver a comprobarlo?"
+    },
+    "nckVCg": {
+        "ko": "^99999910만z 사용(모자람)^000000",
+        "en": "^999999100,000z used (not enough)^000000",
+        "pt": "^999999Pagar 100.000 z ​​(insuficiente)^000000",
+        "es": "^999999Usar 100.000z (insuficiente)^000000"
+    },
+    "nskVCg": {
+        "ko": "10만z 사용(특수아이템 사용없음)",
+        "en": "Use 100,000z (no special items used)",
+        "pt": "Pagar 100.000 z (sem Lubrificante)",
+        "es": "Usar 100.000z (Sem lubrificante)"
+    },
+    "n8kVCg": {
+        "ko": "^999999신형고급윤활제 (없음)^000000",
+        "en": "^999999New advanced lubricant (none)^000000",
+        "pt": "^999999Lubrificante Refinado (indisponível)^000000",
+        "es": "^999999Usar Lubrificante Refinado (insuficiente)^000000"
+    },
+    "oMkVCg": {
+        "ko": "신형고급윤활제 사용",
+        "en": "Use of new high-quality lubricant",
+        "pt": "Lubrificante Refinado",
+        "es": "Usar Lubrificante Refinado"
+    },
+    "ockVCg": {
+        "ko": "^999999신형일반윤활제 (없음)^000000",
+        "en": "^999999New general lubricant (none)^000000",
+        "pt": "^999999Lubrificante Básico (indisponível)^000000",
+        "es": "^999999Usar Lubrificante Básico (insuficiente)^000000"
+    },
+    "oskVCg": {
+        "ko": "신형일반윤활제 사용",
+        "en": "Use of new general lubricant",
+        "pt": "Lubrificante Básico",
+        "es": "Usar Lubrificante Básico"
+    },
+    "o8kVCg": {
+        "ko": "[리처드]\n그럼 작업 수수료를 선택해 주세요.",
+        "en": "[Richard]\nThen please select the task fee.",
+        "pt": "[Richard]\nSelecione a forma de pagamento.",
+        "es": "[Richard]\nSelecciona la forma de pago. ¿Qué quieres usar?"
+    },
+    "pMkVCg": {
+        "ko": "다음 기회에...",
+        "en": "Next time...",
+        "pt": "Deixa pra lá...",
+        "es": "Volveré más tarde…"
+    },
+    "pckVCg": {
+        "ko": "[리처드]\n수수료로 사용할 제니가 부족한 것 같군요. 수수료를 마련하신뒤 다시 방문해주세요",
+        "en": "[Richard]\nLooks like I don't have enough Zeny to use as a fee. Please come back after paying the fee.",
+        "pt": "[Richard]\nVocê precisa de mais zenys para pagar a taxa. Consiga mais zenys e venha novamente.",
+        "es": "[Richard]\nNecesitas más zeny para poder pagar. Consigue más zeny y regresa."
+    },
+    "pskVCg": {
+        "ko": "[리처드]\n제니를 이용한 기본 분리작업의 성공률은 2% 입니다. 실패하더라도 장비나 카드가 파괴되진 않을거예요.",
+        "en": "[Richard]\nThe success rate of basic separation using Zeny is 2%. Even if you fail, your equipment or cards will not be destroyed.",
+        "pt": "[Richard]\nSem lubrificantes? Espero que esteja ciente que a chance de sucesso é 2%. Tem certeza de que quer continuar?",
+        "es": "[Richard]\nSi usas 100 000 zeny, la probabilidad de éxito será del ^FF00002 %^000000. Las cartas y los equipamientos no se perderán en caso de falla."
+    },
+    "p8kVCg": {
+        "ko": "다음기회에...",
+        "en": "Next time...",
+        "pt": "Fica pra próxima...",
+        "es": "Volveré más tarde…"
+    },
+    "qMkVCg": {
+        "ko": "진행한다",
+        "en": "proceed",
+        "pt": "Continuar",
+        "es": "Por favor, quita mi carta."
+    },
+    "qckVCg": {
+        "ko": "[리처드]\n신형고급윤활제를 보유하고 있지 않은 것 같군요",
+        "en": "[Richard]\nI don't think they have the new advanced lubricant.",
+        "pt": "[Richard]\nAcho que você não tem um Lubrificante Sofisticado.",
+        "es": "[Richard]\nNo tienes Lubricante de alta calidad."
+    },
+    "qskVCg": {
+        "ko": "[리처드]\n신형고급윤활제를 이용한 기본 분리작업의 성공률은 20% 입니다. 실패하더라도 장비나 카드가 파괴되진 않을거예요.",
+        "en": "[Richard]\nThe success rate of basic separation work using a new advanced lubricant is 20%. Even if you fail, your equipment or cards will not be destroyed.",
+        "pt": "[Richard]\nLubrificante Sofisticado! Espero que esteja ciente que a chance de sucesso é 20%. Tem certeza de que quer continuar?",
+        "es": "[Richard]\nEl uso de Lubricante de alta calidad hará que la probabilidad de éxito sea del ^FF000020 %^000000. Las cartas y los equipamientos no se perderán en caso de falla."
+    },
+    "q8kVCg": {
+        "ko": "[리처드]\n신형일반윤활제를 보유하고 있지 않은 것 같군요",
+        "en": "[Richard]\nI don't think we have the new general lubricant.",
+        "pt": "[Richard]\nAcho que você não tem um Lubrificante Básico.",
+        "es": "[Richard]\nNo tienes Lubricante general."
+    },
+    "rMkVCg": {
+        "ko": "[리처드]\n신형일반윤활제를 이용한 기본 분리작업의 성공률은 10% 입니다. 실패하더라도 장비나 카드가 파괴되진 않을거예요.",
+        "en": "[Richard]\nThe success rate of basic separation work using a new general lubricant is 10%. Even if you fail, your equipment or cards will not be destroyed.",
+        "pt": "[Richard]\nLubrificante Básico! Espero que esteja ciente que a chance de sucesso é 10%. Tem certeza de que quer continuar?",
+        "es": "[Richard]\nEl uso de Lubricante general hará que la probabilidad de éxito sea del ^FF000010 %^000000. Las cartas y los equipamientos no se perderán en caso de falla."
+    },
+    "rckVCg": {
+        "ko": "[리처드]\n언제든 작업이 필요하시면 찾아와주세용.",
+        "en": "[Richard]\nPlease come to me anytime if you need work.",
+        "pt": "[Richard]\nVolte sempre.",
+        "es": "[Richard]\n¡A tus órdenes! Estaré aquí si cambias de opinión."
+    },
+    "rskVCg": {
+        "ko": "[리처드]\n귀한 보스카드가 장착된 장비로군요. 이 카드는 윤활제종류로는 분리할 수 없어요. 초강력 계면활성가속제 ^0000FF실릿 퐁^000000을 가지고 오시면 제가 작업을 해 드리지요.",
+        "en": "[Richard]\nIt's equipment equipped with a precious boss card. This card cannot be separated with any type of lubricant. Bring the ultra-strong surfactant accelerator ^0000FFSilit Pong^000000 and I will do the work.",
+        "pt": "[Richard]\nUau! Isso é uma carta de MVP! Eu prefiro mexer nesse tipo de carta somente com um ^0000FFÓleo Removedor Especial^000000. Você tem aí?",
+        "es": "[Richard]\n¡Vaya! ¡Es una carta de MVP! Prefiero quitar este tipo de cartas solo con una ^0000FFBotella de sale fácil.^000000."
+    },
+    "r8kVCg": {
+        "ko": "실릿 퐁이라면 가지고 있다구",
+        "en": "If you have Silit Pong, you have it.",
+        "pt": "Eu tenho!",
+        "es": "Usar la Botella de sale fácil."
+    },
+    "sMkVCg": {
+        "ko": "[리처드]\n실릿 퐁을 보유하고 있지 않은 것 같은데요.",
+        "en": "[Richard]\nI don't think you have Silit Pong.",
+        "pt": "[Richard]\nAcho que você não tem o Óleo Removedor Especial.",
+        "es": "[Richard]\nNo creo que tengas la Botella de sale fácil."
+    },
+    "sckVCg": {
+        "ko": "[리처드]\n그럼 계속 진행해도 되겠습니까?",
+        "en": "[Richard]\nSo can we continue?",
+        "pt": "[Richard]\nPosso continuar?",
+        "es": "[Richard]\n¿Puedo continuar con la eliminación de la carta de MVP?"
+    },
+    "sskVCg": {
+        "ko": "알았으니까 빨리 진행해달라구!",
+        "en": "Okay, so please proceed quickly!",
+        "pt": "Pode. Mas faça isso rápido!",
+        "es": "¡Sí, quitar la carta!"
+    },
+    "s8kVCg": {
+        "ko": "[리처드]\n실릿 퐁을 보유하고 있지 않은 것 같군요.",
+        "en": "[Richard]\nIt looks like you don't have Silit Pong.",
+        "pt": "[Richard]\nAcho que você não tem o Óleo Removedor Especial.",
+        "es": "[Richard]\nNo creo que tengas la Botella de sale fácil."
+    },
+    "tMkVCg": {
+        "ko": "[리처드]\n앗. 식사시간이군요. 잠시 뒤에 다시 찾아와 주시겠습니까?",
+        "en": "[Richard]\noh. It's meal time. Could you please come back later?",
+        "pt": "[Richard]\nAh, é hora de comer. Pode voltar mais tarde?",
+        "es": "[Richard]\nHora de comer. ¿Puedes volver en otro momento?"
+    },
+    "tckVCg": {
+        "ko": "[리처드]\n분리에 성공. 장비와 카드에 손상 없음. 성공한 장비와 카드는 인벤토리로 이동시켜드렸습니다.",
+        "en": "[Richard]\nSeparation was successful. No damage to equipment and cards. Successful equipment and cards have been moved to the inventory.",
+        "pt": "[Richard]\nA separação foi um SUCESSO! Por favor, verifique seu inventário.",
+        "es": "[Richard]\n^0000FF¡Tuvimos éxito!^000000 La carta y el equipamiento están en tu inventario."
+    },
+    "tskVCg": {
+        "ko": "[리처드]\n분리에 실패했으나 장비와 카드에 손상 없음. 입은 상태 그대로 보존해드렸습니다.",
+        "en": "[Richard]\nDisconnection failed, but no damage to equipment or card. It has been preserved in its original condition.",
+        "pt": "[Richard]\nA separação foi um FRACASSO! Pelo menos você não perdeu seu equipamento.",
+        "es": "[Richard]\n^FF0000¡Fallamos!^000000 No te preocupes, la carta y el equipamiento no se perdieron."
+    },
+    "t8kVCg": {
+        "ko": "[리처드]\n다음에도 기회가 되실때 이용해주십시오",
+        "en": "[Richard]\nPlease use it next time you have a chance.",
+        "pt": "[Richard]\nIsso encerra o processo de retirada de carta em slot. Por favor, use nosso serviço novamente.",
+        "es": "[Richard]\nEsto finaliza el proceso de eliminación de carta en ranura. Por favor, usa mis servicios siempre que lo necesites."
+    },
+    "uMkVCg": {
+        "ko": "윤활제교환기TX140",
+        "en": "Lubricant exchangerTX140",
+        "pt": "Lubrificatron TX140",
+        "es": "Lubricador TX140"
+    },
+    "uckVCg": {
+        "ko": "[윤활제교환기TX140]\n거래 감사합니다.\n이제 사용할 수 없는 구형 윤활제를 아래의 비율대로 신형 윤활제로 교체해 드리고 있습니다.",
+        "en": "[Lubricant exchanger TX140]\nThank you for your transaction.\nWe are now replacing old lubricants that cannot be used with new lubricants in the ratio below.",
+        "pt": "[Lubrificatron TX140]\nOlá.\nEstamos agora substituindo lubrificantes antigos que não podem ser usados ​​por lubrificantes novos na proporção abaixo.",
+        "es": "[Lubricador TX140]\nGracias por elegirnos.\nCambiamos los antiguos lubricantes por los nuevos."
+    },
+    "uskVCg": {
+        "ko": "^AAAAAA고급윤활제(수량부족)^000000",
+        "en": "^AAAAAAAdvanced lubricant (insufficient quantity)^000000",
+        "pt": "^AAAAAALubrificante Sofisticado (insuficiente)^000000",
+        "es": "^AAAAAALubrificante Sofisticado (insuficiente)^000000"
+    },
+    "u8kVCg": {
+        "ko": "고급윤활제1 > 신형고급윤활제 8",
+        "en": "Advanced Lubricant 1 > New Advanced Lubricant 8",
+        "pt": "1x Lubrificante Sofisticado » 8x Lubrificante Refinado",
+        "es": "Trocar 1 Lubrificante Sofisticado por 8 Lubrificante Refinado"
+    },
+    "vMkVCg": {
+        "ko": "^AAAAAA일반윤활제(수량부족)^000000",
+        "en": "^AAAAAAGeneral lubricant (insufficient quantity)^000000",
+        "pt": "^AAAAAALubrificante Comum (insuficiente)^000000",
+        "es": "^AAAAAALubrificante Comum (insuficiente)^000000"
+    },
+    "vckVCg": {
+        "ko": "일반윤활제1 > 신형일반윤활제 9",
+        "en": "General lubricant 1 > New general lubricant 9",
+        "pt": "1 Lubrificante Comum » 9x Lubrificante Básico",
+        "es": "Trocar 1 Lubrificante Comum por 9 Lubrificante Básico"
+    },
+    "vskVCg": {
+        "ko": "그만둡니다",
+        "en": "I quit",
+        "pt": "Sair",
+        "es": "Parar."
+    },
+    "v8kVCg": {
+        "ko": "[윤활제교환기TX140]\n다음에 또 거래하도록 하지요",
+        "en": "[Lubricant exchanger TX140]\nLet's deal again next time.",
+        "pt": "[Lubrificatron TX140]\nVolte sempre.",
+        "es": "[Lubricador TX140]\nOperación cancelada."
+    },
+    "wMkVCg": {
+        "ko": "고급윤활제",
+        "en": "Advanced lubricant",
+        "pt": "Lubrificante Sofisticado",
+        "es": "High_RankLubricant"
+    },
+    "wckVCg": {
+        "ko": "신형고급윤활제",
+        "en": "New advanced lubricant",
+        "pt": "Lubrificante Refinado",
+        "es": "Lubrificante Refinado"
+    },
+    "wskVCg": {
+        "ko": "[윤활제교환기TX140]\n교환하실 물품을 소지하지 않으셨습니다.",
+        "en": "[Lubricant exchanger TX140]\nYou do not have the item you wish to exchange.",
+        "pt": "[Lubrificatron TX140]\nVocê não possui o item que deseja trocar.",
+        "es": "[Lubricador TX140]\nNo tienes lubricante para cambiar."
+    },
+    "w8kVCg": {
+        "ko": "일반윤활제",
+        "en": "General lubricant",
+        "pt": "Lubrificante Comum",
+        "es": "General_Lubricant"
+    },
+    "xMkVCg": {
+        "ko": "신형일반윤활제",
+        "en": "New general lubricant",
+        "pt": "Lubrificante Básico",
+        "es": "Lubrificante Básico"
+    },
+    "xckVCg": {
+        "ko": "[윤활제교환기TX140]\n한번에 최대 100개의 윤활제를 교환할 수 있습니다. 교환가능한 최대분량을 교환하시겠습니까?",
+        "en": "[Lubricant exchanger TX140]\nUp to 100 lubricants can be changed at one time. Would you like to exchange the maximum amount available?",
+        "pt": "[Lubrificatron TX140]\nAté 100 lubrificantes podem ser trocados de uma só vez. Gostaria de trocar o valor máximo disponível?",
+        "es": "[Lubricador TX140]\nPuedes cambiar hasta 100 lubricantes a la vez. ¿Quieres cambiar la cantidad máxima permitida?"
+    },
+    "xskVCg": {
+        "ko": "그만둔다",
+        "en": "quit",
+        "pt": "Sair",
+        "es": "Parar."
+    },
+    "x8kVCg": {
+        "ko": "최대치로 교환한다",
+        "en": "Exchange to the maximum",
+        "pt": "Troque 100",
+        "es": "Cambiar 100 a la vez."
+    },
+    "yMkVCg": {
+        "ko": "1개만 교환한다",
+        "en": "Exchange only 1",
+        "pt": "Troque 1",
+        "es": "Cambiar 1 a la vez."
+    },
+    "yckVCg": {
+        "ko": "[윤활제교환기TX140]\n이미 보유하신 ^0000FF{0}^000000 수량이 너무 많습니다. 어느정도 소비하신 후에 찾아와 주시기 바랍니다.",
+        "en": "[Lubricant exchanger TX140]\nYou already have too many ^0000FF{0}^000000. Please come back after spending some time.",
+        "pt": "[Lubrificatron TX140]\nVocê tem ^0000FF{0}^000000. Por favor, volte depois de diminuir a quantidade.",
+        "es": "[Lubricador TX140]\nLa cantidad de ^0000FF{0}^000000 es más de lo que puedes cargar. Vuelve más tarde."
+    },
+    "yskVCg": {
+        "ko": "[윤활제교환기TX140]\n{0} ^0000FF{1}^000000개를 {2} ^0000FF{3}^000000개로 교환해 드렸습니다. 이용해주셔서 감사합니다.",
+        "en": "[Lubricant exchanger TX140]\nWe exchanged {0} ^0000FF{1}^000000 for {2} ^0000FF{3}^000000. Thank you for using our service.",
+        "pt": "[Lubrificatron TX140]\nTroquei {0} ^0000FF{1}^000000 por {2} ^0000FF{3}^000000. Obrigada por usar nosso serviço.",
+        "es": "[Lubricador TX140]\n{1} ^0000FF{0}^000000 se cambiaron por {3} ^0000FF{2}^000000. Gracias."
+    }
+}

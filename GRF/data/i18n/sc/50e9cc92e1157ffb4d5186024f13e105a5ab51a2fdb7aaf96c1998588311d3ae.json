@@ -1,0 +1,1347 @@
+{
+    "oAvR": {
+        "en": "Claris",
+        "pt": "Claris",
+        "es": "Claris"
+    },
+    "oQvR": {
+        "en": "[Claris]\nHello. My name is Claris. Isn't it boring to just sit still? How about a game of dice with me?",
+        "pt": "[Claris]\nOlá. Meu nome é Claris. Não é chato só sentar sem fazer nada? Que tal um jogo de dados comigo?",
+        "es": "[Claris]\nHola. Me llamo Claris. ¿No te aburre no hacer nada? ¿Y si juegas a los dados conmigo?"
+    },
+    "ogvR": {
+        "en": "Let's play.",
+        "pt": "Vamos jogar.",
+        "es": "Vamos a jugar."
+    },
+    "owvR": {
+        "en": "Tell me the rules.",
+        "pt": "Quais são as regras?",
+        "es": "Dime las reglas."
+    },
+    "pAvR": {
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar."
+    },
+    "pQvR": {
+        "en": "[Claris]\nYou need Apples to play the game. How many Apples do you want to bet? You can bet up to 50 for one game. Type 0 to cancel.",
+        "pt": "[Claris]\nVocê precisa de Maçãs para jogar. Quantas Maçãs você quer apostar? Você pode apostar até 50 por jogo. Digite 0 para cancelar.",
+        "es": "[Claris]\nNecesitas Manzanas para jugar. ¿Cuántas Manzanas quieres apostar? Puedes apostar hasta 50 por partida. Escribe 0 para cancelar."
+    },
+    "pgvR": {
+        "en": "[Claris]\nI guess you changed your mind. Come again when you're bored. Goodbye.",
+        "pt": "[Claris]\nAcho que você mudou de ideia. Venha novamente quando se entediar. Adeus.",
+        "es": "[Claris]\nSupongo que cambiaste de opinión. Vuelve cuando te hayas aburrido. Adiós."
+    },
+    "pwvR": {
+        "en": "[Claris]\nThe number you typed was beyond the max limit. Please type again.",
+        "pt": "[Claris]\nO número que você digitou está acima do limite. Por favor, digite novamente.",
+        "es": "[Claris]\nEl número que ingresaste supera el límite máximo. Vuelve a escribir."
+    },
+    "qAvR": {
+        "en": "[Claris]\nYou decided to bet ^FF0000{0} Apples^000000. Is that right?",
+        "pt": "[Claris]\nVocê decidiu apostar ^FF0000{0} Maçãs^000000. É isso?",
+        "es": "[Claris]\nDecidiste apostar ^FF0000{0} Manzana(s)^000000. ¿Es correcto?"
+    },
+    "qQvR": {
+        "en": "Yes",
+        "pt": "Sim",
+        "es": "Sí."
+    },
+    "qgvR": {
+        "en": "No",
+        "pt": "Não",
+        "es": "No."
+    },
+    "qwvR": {
+        "en": "[Claris]\nLooks like you don't have that many apple. Please type again.",
+        "pt": "[Claris]\nParece que você não tem tantas maçãs assim. Por favor, digite novamente.",
+        "es": "[Claris]\nParece que no tienes tantas Manzanas. Vuelve a escribir."
+    },
+    "rAvR": {
+        "en": "[Claris]\n^FF0000{0}^000000, it seems you won't be able to take the prize even if you win since you have too many things in your bag. Free up some space first.",
+        "pt": "[Claris]\n^FF0000{0}^000000, parece que você não conseguirá levar o prêmio mesmo se ganhar, pois tem muitas coisas na bolsa. Primeiro, libere espaço.",
+        "es": "[Claris]\n^FF0000{0}^000000, parece que, aunque ganes, no podrás llevarte el premio porque tienes demasiadas cosas en tu bolso. Primero haz algo de espacio."
+    },
+    "rQvR": {
+        "en": "[Claris]\nAlright, let's start the game now. I'll roll the dice first.",
+        "pt": "[Claris]\nMuito bem, vamos começar o jogo agora. Vou lançar os dados primeiro.",
+        "es": "[Claris]\nBien, comencemos. Tiraré los dados primero."
+    },
+    "rgvR": {
+        "en": "[Claris]\nPlease type again.",
+        "pt": "[Claris]\nPor favor, digite novamente.",
+        "es": "[Claris]\nVuelve a escribir."
+    },
+    "rwvR": {
+        "en": "*Tumble tumble*",
+        "pt": "*Pof, pof*",
+        "es": "*Tam, tam, tam*"
+    },
+    "sAvR": {
+        "en": "[Claris]\nI've got ^0000FF{0}^000000 and ^0000FF{1}^000000, which makes a total of ^0000FF{2}^000000. It's your turn now, ^FF0000{3}^000000.",
+        "pt": "[Claris]\nTirei ^0000FF{0}^000000 e ^0000FF + {1}^000000, totalizando ^0000FF{2}^000000. Agora é sua vez, ^FF0000 + {3}^000000.",
+        "es": "[Claris]\nSaqué ^0000FF{0}^000000 y ^0000FF{1}^000000, lo que da un total de ^0000FF{2}^000000. Ahora es tu turno, ^FF0000{3}^000000."
+    },
+    "sQvR": {
+        "en": "Roll the dice.",
+        "pt": "Jogar o dado.",
+        "es": "Tirar los dados."
+    },
+    "sgvR": {
+        "en": "*Tumble tumble--ding ding!*",
+        "pt": "*Pof, pof... ding, ding!*",
+        "es": "*Tam, tam, tam* *¡Din, din!*"
+    },
+    "swvR": {
+        "en": "[Claris]\n^FF0000{0}^000000, you've got ^FF0000{1}^000000 and ^FF0000{2}^000000, which makes a total of ^FF0000{3}^000000.",
+        "pt": "[Claris]\n^FF0000{0}^000000, você tirou ^FF0000 + {1}^000000 e ^FF0000{2}^000000, totalizando ^FF0000 + {3}^000000.",
+        "es": "[Claris]\n^FF0000{0}^000000, sacaste ^FF0000{1}^000000 y ^FF0000{2}^000000, lo que da un total de ^FF0000{3}^000000."
+    },
+    "tAvR": {
+        "en": "[Claris]\nMy total is ^0000FF{0}^000000 and ^FF0000{1}^000000, your total is ^FF0000{2}^000000. You took the lead, ^FF0000{1}^000000. Do you want to roll one more time?",
+        "pt": "[Claris]\nMeu total é ^0000FF{0}^000000 e ^FF0000 + {1}^000000, seu total é ^FF0000{2}^000000. Você está na liderança, ^FF0000 + {1}^000000. Você quer jogar mais uma vez?",
+        "es": "[Claris]\nMi total es de ^FF0000{0}^000000 y tu total es de ^660000{2}^000000. Vas a la cabeza, ^660000{1}^000000. ¿Quieres tirar una vez más?"
+    },
+    "tQvR": {
+        "en": "Roll",
+        "pt": "Jogar",
+        "es": "Tirar."
+    },
+    "tgvR": {
+        "en": "Do not roll",
+        "pt": "Não jogar",
+        "es": "No tirar."
+    },
+    "twvR": {
+        "en": "*Tumble tumble tumble--tick!*",
+        "pt": "*Pof, pof... tique!*",
+        "es": "*Tam, tam, tam* *¡Tic!*"
+    },
+    "uAvR": {
+        "en": "[Claris]\n^FF0000{0}^000000, you've got ^FF0000{1}^000000 this time, which makes a total of ^FF0000{2}^000000. Your sum exceeded 12, so you lost. Better luck next time. Goodbye!",
+        "pt": "[Claris]\n^FF0000{0}^000000, você tirou ^FF0000 + {1}^000000 dessa vez, totalizando ^FF0000{2}^000000. A sua soma excedeu 12, então você perdeu. Mais sorte na próxima vez. Adeus!",
+        "es": "[Claris]\n^FF0000{0}^000000, esta vez sacaste ^FF0000{1}^000000, lo que da un total de ^FF0000{2}^000000. Tu suma está por encima de 12, así que perdiste. ¡Mejor suerte la próxima vez! Adiós."
+    },
+    "uQvR": {
+        "en": "[Claris]\n^FF0000{0}^000000, you've got ^FF0000{1}^000000 this time, which makes a total of ^FF0000{2}^000000. It's my turn now.",
+        "pt": "[Claris]\n^FF0000{0}^000000, você tirou ^FF0000 + {1}^000000 dessa vez, totalizando ^FF0000{2}^000000. Minha vez.",
+        "es": "[Claris]\n^FF0000{0}^000000, esta vez sacaste ^FF0000{1}^000000, lo que da un total de ^FF0000{2}^000000. Ahora me toca a mí."
+    },
+    "ugvR": {
+        "en": "*Tumble tumble tumble----tap!*",
+        "pt": "*Pof, pof... tap!*",
+        "es": "*Tam, tam, tam* *¡Tap!*"
+    },
+    "uwvR": {
+        "en": "[Claris]\nI've got ^0000FF{0}^000000 this time, which makes a total of ^0000FF{1}^000000. My sum exceeded 12, so I lost. Here are your Apples. Let's play again some other time.",
+        "pt": "[Claris]\nTirei ^0000FF{0}^000000 dessa vez, totalizando ^0000FF +{1}^000000. Minha soma excedeu 12, então eu perdi. Aqui estão suas Maçãs. Vamos jogar de novo outra hora.",
+        "es": "[Claris]\nEsta vez saqué ^0000FF{0}^000000, lo que da un total de ^0000FF{1}^000000. Mi suma está por encima de 12, así que perdí. Toma tus Manzanas. Juguemos de nuevo en algún otro momento."
+    },
+    "vAvR": {
+        "en": "[Claris]\nI've got ^0000FF{0}^000000 this time, which makes a total of ^0000FF{1}^000000. ^FF0000{2}^000000, your sum is ^FF0000{3}^000000, so you won. Here are your Apples. Let's play again some other time.",
+        "pt": "[Claris]\nTirei ^0000FF{0}^000000 dessa vez, totalizando ^0000FF +{1}^000000. ^FF0000{2}^000000, sua soma é ^FF0000 + {3}^000000, você venceu. Aqui estão suas Maçãs. Vamos jogar de novo outra hora.",
+        "es": "[Claris]\nEsta vez saqué ^0000FF{0}^000000, lo que da un total de ^0000FF{1}^000000. ^FF0000{2}^000000, tú sumas ^FF0000{3}^000000, así que ganaste. Toma tus Manzanas. Juguemos de nuevo en algún otro momento."
+    },
+    "vQvR": {
+        "en": "[Claris]\nI've got ^0000FF{0}^000000 this time, which makes a total of ^0000FF{1}^000000. ^FF0000{2}^000000, your sum is ^FF0000{3}^000000, so it's a draw. I'll give you back the Apples you bet. Let's play again some other time.",
+        "pt": "[Claris]\nTirei ^0000FF{0}^000000 dessa vez, totalizando ^0000FF +{1}^000000. ^FF0000{2}^000000, sua soma é ^FF0000 + {3}^000000, então empatou. Vou te devolver as Maçãs que você apostou. Vamos jogar de novo outra hora.",
+        "es": "[Claris]\nEsta vez saqué ^0000FF{0}^000000, lo que da un total de ^0000FF{1}^000000. ^FF0000{2}^000000, tú sumas ^FF0000{3}^000000, así que es un empate. Te devolveré las Manzanas que apostaste. Juguemos de nuevo en algún otro momento."
+    },
+    "vgvR": {
+        "en": "[Claris]\nI've got ^0000FF{0}^000000 this time, which makes a total of ^0000FF{1}^000000. ^FF0000{2}^000000, your sum is ^FF0000{3}^000000, so you lost. Better luck next time. Goodbye!",
+        "pt": "[Claris]\nTirei ^0000FF{0}^000000 dessa vez, totalizando ^0000FF +{1}^000000. ^FF0000{2}^000000, sua soma é ^FF0000 + {3}^000000, você perdeu. Mais sorte na próxima vez. Adeus!",
+        "es": "[Claris]\nEsta vez saqué ^0000FF{0}^000000, lo que da un total de ^0000FF{1}^000000. ^FF0000{2}^000000, tú sumas ^FF0000{3}^000000, así que perdiste. ¡Mejor suerte la próxima vez! Adiós."
+    },
+    "vwvR": {
+        "en": "[Claris]\nI guess you don't have to take the risk since you're leading. I'll roll it this time.",
+        "pt": "[Claris]\nAcho que você não tem que se arriscar, já que você está na liderança. Vou jogar dessa vez.",
+        "es": "[Claris]\nSupongo que no es necesario que te arriesgues, ya que vas a la cabeza. Esta vez tiro yo."
+    },
+    "wAvR": {
+        "en": "*Tumble tumble--tumble tumble tumble*",
+        "pt": "*Pof, pof... pof, pof, pof*",
+        "es": "*Tam, tam, tam, tam, tam*"
+    },
+    "wQvR": {
+        "en": "[Claris]\nI've got ^0000FF{0}^000000 this time, which makes a total of ^0000FF{1}^000000. ^FF0000{2}^000000, your sum is ^FF0000{3}^000000, so you won. Here are your Apples. Let's play again some other time.",
+        "pt": "[Claris]\nTirei ^0000FF{0}^000000 dessa vez, totalizando ^0000FF +{1}^000000. ^FF0000{2}^000000, sua soma é ^FF0000 + {3}^000000, você venceu. Aqui estão suas Maçãs. Vamos jogar de novo outra hora.",
+        "es": "[Claris]\nEsta vez saqué ^0000FF{0}^000000, lo que da un total de ^0000FF{1}^000000. ^FF0000{2}^000000, tú sumas ^FF0000{3}^000000, así que ganaste. Toma tus Manzanas. Juguemos de nuevo en algún otro momento."
+    },
+    "wgvR": {
+        "en": "[Claris]\nI've got ^0000FF{0}^000000 this time, which makes a total of ^0000FF{1}^000000. ^FF0000{2}^000000, your sum is ^FF0000{3}^000000, so it's a draw. I'll give you back the Apples you bet. Let's play again some other time.",
+        "pt": "[Claris]\nTirei ^0000FF{0}^000000 dessa vez, totalizando ^0000FF +{1}^000000. ^FF0000{2}^000000, sua soma é ^FF0000 + {3}^000000, então empatou. Vou devolver as Maçãs que você apostou. Vamos jogar de novo outra hora.",
+        "es": "[Claris]\nEsta vez saqué ^0000FF{0}^000000, lo que da un total de ^0000FF{1}^000000. ^FF0000{2}^000000, tú sumas ^FF0000{3}^000000, así que es un empate. Te devolveré las Manzanas que apostaste. Juguemos de nuevo en algún otro momento."
+    },
+    "wwvR": {
+        "en": "[Claris]\nI've got ^0000FF{0}^000000 this time, which makes a total of ^0000FF{1}^000000. ^FF0000{2}^000000, your sum is ^FF0000{3}^000000, so you lost. Better luck next time. Goodbye!",
+        "pt": "[Claris]\nTirei ^0000FF{0}^000000 dessa vez, totalizando ^0000FF +{1}^000000. ^FF0000{2}^000000, sua soma é ^FF0000 + {3}^000000, você perdeu. Mais sorte na próxima vez. Adeus!",
+        "es": "[Claris]\nEsta vez saqué ^0000FF{0}^000000, lo que da un total de ^0000FF{1}^000000. ^FF0000{2}^000000, tú sumas ^FF0000{3}^000000, así que perdiste. ¡Mejor suerte la próxima vez! Adiós."
+    },
+    "xAvR": {
+        "en": "[Claris]\nMy total is ^0000FF{0}^000000 and ^FF0000{1}^000000, your total is ^FF0000{2}^000000. We are even. Do you want to roll one more time?",
+        "pt": "[Claris]\nMeu total é ^0000FF{0}^000000 e ^FF0000 + {1}^000000, seu total é ^FF0000{2}^000000. Estamos quites. Você quer jogar mais uma vez?",
+        "es": "[Claris]\nMi total es de ^0000FF{0}^000000 y, ^FF0000{1}^000000, tu total es de ^FF0000{2}^000000. Empatamos. ¿Quieres tirar una vez más?"
+    },
+    "xQvR": {
+        "en": "*Tumble tumble tumble----tup!*",
+        "pt": "*Pof, pof, pof... tup!*",
+        "es": "*Tam, tam, tam* *Tap*"
+    },
+    "xgvR": {
+        "en": "[Claris]\nYou don't want to take the high risk. I think this number is a little risky too, so we'll call it a draw. Let's play again some other time!",
+        "pt": "[Claris]\nVocê não quer assumir o alto risco. Acho que esse número também é um pouco arriscado, então vamos considerar um empate. Vamos jogar de novo outra hora!",
+        "es": "[Claris]\nNo querrás correr un riesgo tan alto. Creo que este número también es algo arriesgado, así que proclamaremos un empate. ¡Juguemos de nuevo en algún otro momento!"
+    },
+    "xwvR": {
+        "en": "[Claris]\nSo you're going to leave it as it is. I'll roll the dice, then.",
+        "pt": "[Claris]\nEntão você vai deixar as coisas como estão. Vou jogar os dados, então.",
+        "es": "[Claris]\nAsí que vas a dejar todo como está. Entonces tiraré los dados."
+    },
+    "yAvR": {
+        "en": "*Tumble tumble---tip!*",
+        "pt": "*Pof, pof... tip!*",
+        "es": "*Tam, tam* *¡Tip!*"
+    },
+    "yQvR": {
+        "en": "[Claris]\nMy total is ^0000FF{0}^000000 and ^FF0000{1}^000000, your total is ^FF0000{2}^000000. I took the lead. Do you want to roll one more time?",
+        "pt": "[Claris]\nMeu total é ^0000FF{0}^000000 e ^FF0000 + {1}^000000, seu total é ^FF0000{2}^000000. Assumi a liderança. Você quer jogar mais uma vez?",
+        "es": "[Claris]\nMi total es de ^0000FF{0}^000000 y, ^FF0000{1}^000000, tu total es de ^FF0000{2}^000000. Voy a la cabeza. ¿Quieres tirar una vez más?"
+    },
+    "ygvR": {
+        "en": "*Tumble tumble--tumble--beep!*",
+        "pt": "*Pof, pof... tump... bip!*",
+        "es": "*Tam, tam, tam* *¡Bip!*"
+    },
+    "ywvR": {
+        "en": "[Claris]\n^FF0000{0}^000000, you've got ^FF0000{1}^000000 this time, which makes a total of ^FF0000{2}^000000. Your sum is smaller than mine, so you lost. Better luck next time. Goodbye!",
+        "pt": "[Claris]\n^FF0000{0}^000000, você tirou ^FF0000 + {1}^000000 dessa vez, totalizando ^FF0000{2}^000000. Sua soma é menor que a minha, portanto, você perdeu. Mais sorte na próxima vez. Adeus!",
+        "es": "[Claris]\n^FF0000{0}^000000, esta vez sacaste ^FF0000{1}^000000, lo que da un total de ^FF0000{2}^000000. Tu suma es menor que la mía, así que perdiste. ¡Mejor suerte la próxima vez! Adiós."
+    },
+    "zAvR": {
+        "en": "[Claris]\n^FF0000{0}^000000, you've got ^FF0000{1}^000000 this time, which makes a total of ^FF0000{2}^000000. I think this number is a little risky, so we'll call it a draw. Let's play again some other time!",
+        "pt": "[Claris]\n^FF0000{0}^000000, você tirou ^FF0000 + {1}^000000 dessa vez, totalizando ^FF0000{2}^000000. Acho que esse número é um pouco arriscado, então vamos considerar um empate. Vamos jogar de novo outra hora!",
+        "es": "[Claris]\n^FF0000{0}^000000, esta vez sacaste ^FF0000{1}^000000, lo que da un total de ^FF0000{2}^000000. Creo que este número es algo arriesgado, así que proclamaremos un empate. ¡Juguemos de nuevo en algún otro momento!"
+    },
+    "zQvR": {
+        "en": "[Claris]\n^FF0000{0}^000000, you've got ^FF0000{1}^000000 this time, which makes a total of ^FF0000{2}^000000. I'll roll it this time.",
+        "pt": "[Claris]\n^FF0000{0}^000000, você tirou ^FF0000 + {1}^000000 dessa vez, totalizando ^FF0000{2}^000000. Vou jogar dessa vez.",
+        "es": "[Claris]\n^FF0000{0}^000000, esta vez sacaste ^FF0000{1}^000000, lo que da un total de ^FF0000{2}^000000. Esta vez tiro yo."
+    },
+    "zgvR": {
+        "en": "*Tumble--tumble---tap!*",
+        "pt": "*Pof, pof... pof, pof!*",
+        "es": "*Tam, tam* *¡Tap!*"
+    },
+    "zwvR": {
+        "en": "*Tumble--tumble tumble tumble---tick!*",
+        "pt": "*Pof, pof... pof, pof... tique!*",
+        "es": "*Tam, tam, tam, tam* *¡Tic!*"
+    },
+    "0AvR": {
+        "en": "[Claris]\nWhat's there to lose? Well, you gave up your roll, so I won. Better luck next time. Goodbye!",
+        "pt": "[Claris]\nO que há para se perder? Bem, você desistiu de jogar, então eu ganhei. Mais sorte na próxima vez. Adeus!",
+        "es": "[Claris]\n¿Qué puedo perder? Bueno, no tiraste los dados, así que gané. ¡Mejor suerte la próxima vez! Adiós."
+    },
+    "0QvR": {
+        "en": "[Claris]\n^FF0000{0}^000000, you've got ^FF0000{1}^000000 and ^FF0000{2}^000000, which makes a total of ^FF0000{3}^000000.",
+        "pt": "[Claris]\n^FF0000{0}^000000, você tirou ^FF0000 + {1}^000000 e ^FF0000{2}^000000, totalizando ^FF0000 + {3}^000000.",
+        "es": "[Claris]\n^FF0000{0}^000000, sacaste ^FF0000{1}^000000 y ^FF0000{2}^000000, lo que da un total de ^FF0000{3}^000000."
+    },
+    "0gvR": {
+        "en": "[Claris]\nMy total is ^0000FF{0}^000000 and ^FF0000{1}^000000, your total is ^FF0000{2}^000000. You took the lead, ^FF0000{1}^000000. Do you want to roll one more time?",
+        "pt": "[Claris]\nMeu total é ^0000FF{0}^000000 e ^FF0000 + {1}^000000, seu total é ^FF0000{2}^000000. Você está na liderança, ^FF0000 + {1}^000000. Você quer jogar mais uma vez?",
+        "es": "[Claris]\nMi total es de ^0000FF{0}^000000 y, ^FF0000{1}^000000, tu total es de ^FF0000{2}^000000. Vas a la cabeza, ^FF0000{1}^000000. ¿Quieres tirar una vez más?"
+    },
+    "0wvR": {
+        "en": "*Tumble tumble tumble--tip!*",
+        "pt": "*Pof, pof... tique!*",
+        "es": "*Tam, tam, tam* *¡Bip!*"
+    },
+    "1AvR": {
+        "en": "[Claris]\n^FF0000{0}^000000, you've got ^FF0000{1}^000000 this time, which makes a total of ^FF0000{2}^000000. Your sum exceeded 12, so you lost. Better luck next time. Goodbye!",
+        "pt": "[Claris]\n^FF0000{0}^000000, você tirou ^FF0000 + {1}^000000 dessa vez, totalizando ^FF0000{2}^000000. A sua soma excedeu 12, então você perdeu. Mais sorte na próxima vez. Adeus!",
+        "es": "[Claris]\n^FF0000{0}^000000, esta vez sacaste ^FF0000{1}^000000, lo que da un total de ^FF0000{2}^000000. Tu suma está por encima de 12, así que perdiste. ¡Mejor suerte la próxima vez! Adiós."
+    },
+    "1QvR": {
+        "en": "[Claris]\n^FF0000{0}^000000, you've got ^FF0000{1}^000000 this time, which makes a total of ^FF0000{2}^000000. It's my turn now.",
+        "pt": "[Claris]\n^FF0000{0}^000000, você tirou ^FF0000 + {1}^000000 dessa vez, totalizando ^FF0000{2}^000000. Minha vez.",
+        "es": "[Claris]\n^FF0000{0}^000000, esta vez sacaste ^FF0000{1}^000000, lo que da un total de ^FF0000{2}^000000. Ahora me toca a mí."
+    },
+    "1gvR": {
+        "en": "[Claris]\nI've got ^0000FF{0}^000000 this time, which makes a total of ^0000FF{1}^000000. ^FF0000{2}^000000, your sum is ^FF0000{3}^000000, so you won. Here are your Apples. Let's play again some other time.",
+        "pt": "[Claris]\nTirei ^0000FF{0}^000000 dessa vez, totalizando ^0000FF +{1}^000000. ^FF0000{2}^000000, sua soma é ^FF0000 + {3}^000000, você venceu. Aqui estão suas Maçãs. Vamos jogar de novo outra hora.",
+        "es": "[Claris]\nEsta vez saqué ^0000FF{0}^000000, lo que da un total de ^0000FF{1}^000000. ^FF0000{2}^000000, tú sumas ^FF0000{3}^000000, así que ganaste. Toma tus Manzanas. Juguemos de nuevo en algún otro momento."
+    },
+    "1wvR": {
+        "en": "[Claris]\nI've got ^0000FF{0}^000000 this time, which makes a total of ^0000FF{1}^000000. ^FF0000{2}^000000, your sum is ^FF0000{3}^000000, so it's a draw. I'll give you back the Apples you bet. Let's play again some other time.",
+        "pt": "[Claris]\nTirei ^0000FF{0}^000000 dessa vez, totalizando ^0000FF +{1}^000000. ^FF0000{2}^000000, sua soma é ^FF0000 + {3}^000000, então empatou. Vou devolver as Maçãs que você apostou. Vamos jogar de novo outra hora.",
+        "es": "[Claris]\nEsta vez saqué ^0000FF{0}^000000, lo que da un total de ^0000FF{1}^000000. ^FF0000{2}^000000, tú sumas ^FF0000{3}^000000, así que es un empate. Te devolveré las Manzanas que apostaste. Juguemos de nuevo en algún otro momento."
+    },
+    "2AvR": {
+        "en": "[Claris]\nI've got ^0000FF{0}^000000 this time, which makes a total of ^0000FF{1}^000000. ^FF0000{2}^000000, your sum is ^FF0000{3}^000000, so you lost. Better luck next time. Goodbye!",
+        "pt": "[Claris]\nTirei ^0000FF{0}^000000 dessa vez, totalizando ^0000FF +{1}^000000. ^FF0000{2}^000000, sua soma é ^FF0000 + {3}^000000, você perdeu. Mais sorte na próxima vez. Adeus!",
+        "es": "[Claris]\nEsta vez saqué ^0000FF{0}^000000, lo que da un total de ^0000FF{1}^000000. ^FF0000{2}^000000, tú sumas ^FF0000{3}^000000, así que perdiste. ¡Mejor suerte la próxima vez! Adiós."
+    },
+    "2QvR": {
+        "en": "*Tumble tumble---tumble tumble tumble*",
+        "pt": "*Pof, pof... pof, pof... pof, pof...!*",
+        "es": "*Tam, tam, tam, tam, tam*"
+    },
+    "2gvR": {
+        "en": "[Claris]\nI've got ^0000FF{0}^000000 this time, which makes a total of ^0000FF{1}^000000. ^FF0000{2}^000000, your sum is ^FF0000{3}^000000, so you won. Here are your Apples. Let's play again some other time.",
+        "pt": "[Claris]\nTirei ^0000FF{0}^000000 dessa vez, totalizando ^0000FF +{1}^000000. ^FF0000{2}^000000, sua soma é ^FF0000 + {3}^000000, você venceu. Aqui estão suas Maçãs. Vamos jogar de novo outra hora.",
+        "es": "[Claris]\nEsta vez saqué ^0000FF{0}^000000, lo que da un total de ^0000FF{1}^000000. ^FF0000{2}^000000, tú sumas ^FF0000{3}^000000, así que ganaste. Toma tus Manzanas. Juguemos de nuevo en algún otro momento."
+    },
+    "2wvR": {
+        "en": "[Claris]\nI've got ^0000FF{0}^000000 this time, which makes a total of ^0000FF{1}^000000. ^FF0000{2}^000000, your sum is ^FF0000{3}^000000, so it's a draw. I'll give you back the Apples you bet. Let's play again some other time.",
+        "pt": "[Claris]\nTirei ^0000FF{0}^000000 dessa vez, totalizando ^0000FF +{1}^000000. ^FF0000{2}^000000, sua soma é ^FF0000 + {3}^000000, então empatou. Vou te devolver as Maçãs que você apostou. Vamos jogar de novo outra hora.",
+        "es": "[Claris]\nEsta vez saqué ^0000FF{0}^000000, lo que da un total de ^0000FF{1}^000000. ^FF0000{2}^000000, tú sumas ^FF0000{3}^000000, así que es un empate. Te devolveré las Manzanas que apostaste. Juguemos de nuevo en algún otro momento."
+    },
+    "3AvR": {
+        "en": "[Claris]\nI've got ^0000FF{0}^000000 this time, which makes a total of ^0000FF{1}^000000. ^FF0000{2}^000000, your sum is ^FF0000{3}^000000, so you lost. Better luck next time. Goodbye!",
+        "pt": "[Claris]\nTirei ^0000FF{0}^000000 dessa vez, totalizando ^0000FF +{1}^000000. ^FF0000{2}^000000, sua soma é ^FF0000 + {3}^000000, você perdeu. Mais sorte na próxima vez. Adeus!",
+        "es": "[Claris]\nEsta vez saqué ^0000FF{0}^000000, lo que da un total de ^0000FF{1}^000000. ^FF0000{2}^000000, tú sumas ^FF0000{3}^000000, así que perdiste. ¡Mejor suerte la próxima vez! Adiós."
+    },
+    "3QvR": {
+        "en": "[Claris]\nMy total is ^0000FF{0}^000000 and ^FF0000{1}^000000, your total is ^FF0000{2}^000000. We are even. Do you want to roll one more time?",
+        "pt": "[Claris]\nMeu total é ^0000FF{0}^000000 e ^FF0000 + {1}^000000, seu total é ^FF0000{2}^000000. Estamos quites. Você quer jogar mais uma vez?",
+        "es": "[Claris]\nMi total es de ^FF0000{0}^000000 y tu total es de ^660000{2}^000000. Empatamos. ¿Quieres tirar una vez más?"
+    },
+    "3gvR": {
+        "en": "*Tumble--tumble--tumble--tup*!",
+        "pt": "*Pof... pof... tup*",
+        "es": "*Tam, tam, tam* *¡Tap!*"
+    },
+    "3wvR": {
+        "en": "[Claris]\nMy total is ^0000FF{0}^000000 and ^FF0000{1}^000000, your total is ^FF0000{2}^000000. I took the lead. Do you want to roll one more time?",
+        "pt": "[Claris]\nMeu total é ^0000FF{0}^000000 e ^FF0000 + {1}^000000, seu total é ^FF0000{2}^000000. Tomei a liderança. Você quer jogar mais uma vez?",
+        "es": "[Claris]\nMi total es de ^FF0000{0}^000000 y tu total es de ^660000{2}^000000. Voy a la cabeza. ¿Quieres tirar una vez más?"
+    },
+    "4AvR": {
+        "en": "*Tumble tumble tumble--beep!",
+        "pt": "*Pof, pof, pof, bip!",
+        "es": "*Tam, tam, tam* *¡Bip!*"
+    },
+    "4QvR": {
+        "en": "[Claris]\n^FF0000{0}^000000, you've got ^FF0000{1}^000000 this time, which makes a total of ^FF0000{2}^000000. Your sum is smaller than mine, so you lost. Better luck next time. Goodbye!",
+        "pt": "[Claris]\n^FF0000{0}^000000, você tirou ^FF0000 + {1}^000000 dessa vez, totalizando ^FF0000{2}^000000. Sua soma é menor que a minha, portanto, você perdeu. Mais sorte na próxima vez. Adeus!",
+        "es": "[Claris]\n^FF0000{0}^000000, esta vez sacaste ^FF0000{1}^000000, lo que da un total de ^FF0000{2}^000000. Tu suma es menor que la mía, así que perdiste. ¡Mejor suerte la próxima vez! Adiós."
+    },
+    "4gvR": {
+        "en": "[Claris]\n^FF0000{0}^000000, you've got ^FF0000{1}^000000 this time, which makes a total of ^FF0000{2}^000000. I think this number is a little risky, so we'll call it a draw. Let's play again some other time!",
+        "pt": "[Claris]\n^FF0000{0}^000000, você tirou ^FF0000 + {1}^000000 dessa vez, totalizando ^FF0000{2}^000000. Acho que esse número é um pouco arriscado, então vamos considerar um empate. Vamos jogar de novo uma outra hora!",
+        "es": "[Claris]\n^FF0000{0}^000000, esta vez sacaste ^FF0000{1}^000000, lo que da un total de ^FF0000{2}^000000. Creo que este número es algo arriesgado, así que proclamaremos un empate. ¡Juguemos de nuevo en algún otro momento!"
+    },
+    "4wvR": {
+        "en": "[Claris]\n^FF0000{0}^000000, you've got ^FF0000{1}^000000 this time, which makes a total of ^FF0000{2}^000000. I'll roll the dice now.",
+        "pt": "[Claris]\n^FF0000{0}^000000, você tirou ^FF0000 + {1}^000000 dessa vez, totalizando ^FF0000{2}^000000. Vou jogar os dados agora.",
+        "es": "[Claris]\n^FF0000{0}^000000, esta vez sacaste ^FF0000{1}^000000, lo que da un total de ^FF0000{2}^000000. Ahora tiraré los dados."
+    },
+    "5AvR": {
+        "en": "*Tumble tumble tumble--tup!*",
+        "pt": "*Pof, pof, tup!*",
+        "es": "*Tam, tam, tam* *¡Tap!*"
+    },
+    "5QvR": {
+        "en": "*Tumble--tumble tumble--tick!*",
+        "pt": "*Pof, pof, pof... tap!*",
+        "es": "*Tam, tam, tam* *¡Tic!*"
+    },
+    "5gvR": {
+        "en": "*Tumble tumble tumble---tap!*",
+        "pt": "*Pof, pof... pof, tap!*",
+        "es": "*Tam, tam, tam* *¡Tap!*"
+    },
+    "5wvR": {
+        "en": "*Tumble--tumble-tumble--tap!*",
+        "pt": "*Pof, pof, pof... bip!*",
+        "es": "*Tam, tam, tam* *¡Tap!*"
+    },
+    "6AvR": {
+        "en": "*Tumble--tumble tumble tumble--beep!*",
+        "pt": "*Pof, pof... pof, pof, pof... tup!*",
+        "es": "*Tam, tam, tam, tam* *¡Bip!*"
+    },
+    "6QvR": {
+        "en": "*Tumble tumble--tumble tumble tumble--tup!*",
+        "pt": "*Pof, pof... pof, pof, pof, pof... tup!*",
+        "es": "*Tam, tam, tam, tam, tam* *¡Tap!*"
+    },
+    "6gvR": {
+        "en": "[Claris]\nI'll explain the rules. They're simple. First, you can bet up to 50 Apples, which you will leave to me at the start of the game. Naturally, you can't play if you don't have Apples.",
+        "pt": "[Claris]\nVou explicar as regras. São simples. Primeiro, você pode apostar até 50 Maçãs, que deixará para mim no início do jogo. Naturalmente, você não poderá jogar se não tiver Maçãs.",
+        "es": "[Claris]\nTe explicaré las reglas. Son simples. Primero, debes apostar hasta 50 Manzanas que me darás al principio de la partida. Naturalmente, si no tienes Manzanas, no puedes jugar."
+    },
+    "6wvR": {
+        "en": "[Claris]\nNext, each of us rolls dice twice, and the one with a bigger sum wins. But one-and-done is too simple, isn't it? So each player can choose whether to roll one more time or not after the initial two rolls.",
+        "pt": "[Claris]\nEm seguida, cada um de nós joga os dados duas vezes, e o que tiver a maior soma ganha. Mas isso é muito simples, não é? Portanto, cada jogador pode escolher se quer rolar mais uma vez ou não depois das duas jogadas iniciais.",
+        "es": "[Claris]\nLuego, cada uno tira los dados dos veces y quien tenga la suma mayor gana. Pero hacerlo una sola vez es demasiado simple, ¿no? Por eso, cada jugador puede elegir tirar una vez más o plantarse después de los dos tiros iniciales."
+    },
+    "7AvR": {
+        "en": "[Claris]\nIt's each side's call, but if the sum goes beyond 12 after the third roll, that player loses.",
+        "pt": "[Claris]\nA decisão é de cada lado, mas se a soma passar de 12 após a terceira jogada, o jogador perde.",
+        "es": "[Claris]\nEs la decisión de cada persona, pero si la suma supera 12 tras el tercer tiro, esa persona pierde."
+    },
+    "7QvR": {
+        "en": "[Claris]\nFor the third dice roll, you roll first. If your sum exceeds 12, I win automatically without rolling the dice.",
+        "pt": "[Claris]\nNo terceiro lançamento de dados, você lança primeiro. Se a sua soma for maior que 12, ganho automaticamente sem rolar os dados.",
+        "es": "[Claris]\nPara el tercer tiro, tú tiras primero. Si tu suma supera 12, ganaré de forma automática sin tirar los dados."
+    },
+    "7gvR": {
+        "en": "[Claris]\nThe winner takes the Apples both players bet at the start of the game. I think that should be enough.",
+        "pt": "[Claris]\nO vencedor leva as Maçãs que ambos os jogadores apostaram no início do jogo. Acho que isso deve ser suficiente.",
+        "es": "[Claris]\nEl ganador se lleva las Manzanas que apostaron ambos jugadores al comienzo de la partida. Creo que con eso será suficiente."
+    },
+    "7wvR": {
+        "en": "[Claris]\nTell me anytime if you want to play. I'm quite bored myself. Goodbye.",
+        "pt": "[Claris]\nQuando quiser jogar, é só me dizer. Eu estou morrendo de tédio. Adeus.",
+        "es": "[Claris]\nDime cuando quieras jugar. También me aburro bastante. Adiós."
+    },
+    "8AvR": {
+        "en": "Apple Merchant",
+        "pt": "Mercador de Maçãs",
+        "es": "Comerciante de manzanas"
+    },
+    "8QvR": {
+        "en": "[Meltz]\nWelcome. I've got fresh apples. Or I can grind your apples into delicious apple juice.",
+        "pt": "[Meltz]\nBoas-vindas. Tenho maçãs frescas. Ou posso espremer suas maçãs e produzir um delicioso suco de maçã.",
+        "es": "[Meltz]\nTe doy la bienvenida. Vendo manzanas frescas y también puedo usar tus manzanas para hacer un delicioso jugo de manzana."
+    },
+    "8gvR": {
+        "en": "Buy apples",
+        "pt": "Comprar Maçãs",
+        "es": "Comprar manzanas."
+    },
+    "8wvR": {
+        "en": "Grind apples into apple juice",
+        "pt": "Espremer maçãs para produzir suco de maçã",
+        "es": "Hacer jugo de manzana."
+    },
+    "9AvR": {
+        "en": "[Meltz]\nType how many apples you'd like to buy. An apple costs 15z, and you can buy up to 500 at a time. Type 0 to cancel.",
+        "pt": "[Meltz]\nDigite quantas maçãs você quer comprar. Um maçã custa 15 zenys, e você pode comprar até 500 de uma vez. Digite 0 para cancelar.",
+        "es": "[Meltz]\nIndica cuántas manzanas quieres comprar. Una manzana cuesta 15 zeny y puedes comprar hasta 500 a la vez. Escribe 0 para cancelar."
+    },
+    "9QvR": {
+        "en": "[Meltz]\nPlease come again. Good bye!",
+        "pt": "[Meltz]\nVolte sempre. Adeus!",
+        "es": "[Meltz]\nVuelve pronto. ¡Adiós!"
+    },
+    "9gvR": {
+        "en": "[Meltz]\nThe number you typed was beyond the max limit. Please type again.",
+        "pt": "[Meltz]\nO número que você digitou está acima do limite. Por favor, digite novamente.",
+        "es": "[Meltz]\nEl número que ingresaste supera el límite máximo. Vuelve a escribir."
+    },
+    "9wvR": {
+        "en": "[Meltz]\nYou want to buy ^FF0000{0}^000000 apples, so you have to pay ^FF0000{1} Zeny^000000. Would you like to proceed?",
+        "pt": "[Meltz]\nVocê quer comprar ^FF0000{0}^000000 maçãs, então deve pegar ^FF0000 + {1} zenys^000000. Você vai querer levar?",
+        "es": "[Meltz]\nQuieres comprar ^FF0000{0}^000000 manzana(s), así que tienes que pagar ^FF0000{1} zeny^000000. ¿Quieres continuar?"
+    },
+    "+AvR": {
+        "en": "[Meltz]\nLooks like you don't have enough money. You can either bring more money or buy less.",
+        "pt": "[Meltz]\nParece que você não tem dinheiro suficiente. Você pode trazer mais dinheiro ou comprar menos.",
+        "es": "[Meltz]\nParece que no tienes suficiente dinero. Puedes traer más dinero o comprar menos."
+    },
+    "+QvR": {
+        "en": "[Meltz]\nI don't think you have enough space in your bag for all the apples. Please free up some space and come back.",
+        "pt": "[Meltz]\nEu não acho que você tenha espaço suficiente na sua bolsa para todas as maçãs. Por favor, libere algum espaço e volte.",
+        "es": "[Meltz]\nNo creo que tengas suficiente espacio en tu bolso para todas las manzanas. Libera algo de espacio y regresa."
+    },
+    "+gvR": {
+        "en": "[Meltz]\nThank you. Come again anytime if you need apples.",
+        "pt": "[Meltz]\nAgradeço. Volte se você precisar de maçãs.",
+        "es": "[Meltz]\nGracias. Vuelve cuando quieras si necesitas manzanas."
+    },
+    "+wvR": {
+        "en": "[Meltz]\nI can make a bottle of apple juice if you give me ^FF00003 Apples and 1 Empty Bottle^000000. Would you like one?",
+        "pt": "[Meltz]\nEu posso produzir uma garrafa de suco de maçã se você me der ^FF00003 Maçãs e 1 Garrafa Vazia^000000. Gostaria de um?",
+        "es": "[Meltz]\nPuedo hacer una botella de jugo de manzana si me das ^FF00003 Manzanas y 1 Botella vacía^000000. ¿Quieres una?"
+    },
+    "/AvR": {
+        "en": "[Meltz]\nLooks like you don't enough materials. Bring me ^FF00003 Apples and 1 Empty Bottle^000000 to make a bottle of apple juice. Come to me again when you have all the materials.",
+        "pt": "[Meltz]\nParece que você não tem materiais suficientes. Me traga ^FF00003 Maçãs e 1 Garrafa Vazia^000000 para produzir uma garrafa de suco de maçã. Pode contar comigo quando tiver todos os materiais.",
+        "es": "[Meltz]\nParece que no tienes suficientes materiales. Tráeme ^FF00003 Manzanas y 1 Botella vacía^000000 para preparar una botella de jugo de manzana. Vuelve a verme cuando tengas todos los materiales."
+    },
+    "/QvR": {
+        "en": "[Meltz]\nYou brought all the materials.\nOne moment, please!",
+        "pt": "[Meltz]\nVocê trouxe todos os materiais.\nUm momento, por favor!",
+        "es": "[Meltz]\nTrajiste todos los materiales.\n¡Un momento, por favor!"
+    },
+    "/gvR": {
+        "en": "*Slit Slit* *Brrrrrr* *Ka-chang!*",
+        "pt": "*Slit, slit* *Brrrrrr* *Ka-chang!*",
+        "es": "*Chop, chop* *Brrrrrr* *¡Kachín!*"
+    },
+    "/wvR": {
+        "en": "[Meltz]\nHere you are. Come find me again if you need more. Good bye!",
+        "pt": "[Meltz]\nAqui está. Venha me procurar se precisar de mais. Até mais!",
+        "es": "[Meltz]\nAquí tienes. Vuelve si necesitas más. ¡Adiós!"
+    },
+    "AAzR": {
+        "en": "Nils",
+        "pt": "Nils",
+        "es": "El Nilo"
+    },
+    "AQzR": {
+        "en": "[Nils]\nHello. I am Nils, host of ^FF0000Typing of RO^000000. How may I help you?",
+        "pt": "[Nils]\nOlá. Sou Nils, e administro a ^FF0000Digitação de RO^000000. Em que posso ajudar?",
+        "es": "[Nils]\nHola. Soy Nils, anfitrión del ^FF0000Reto de escritura de RO^000000. ¿En qué puedo ayudarte?"
+    },
+    "AgzR": {
+        "en": "Challenge ^FF0000Typing of RO^000000",
+        "pt": "Desafio da ^FF0000Digitação de RO^000000",
+        "es": "Jugar al ^FF0000Reto de escritura de RO^000000."
+    },
+    "AwzR": {
+        "en": "^FF0000Typing of RO^000000 instructions",
+        "pt": "Instruções da ^FF0000Digitação de RO^000000",
+        "es": "Instrucciones del ^FF0000Reto de escritura de RO^000000."
+    },
+    "BAzR": {
+        "en": "Current top record",
+        "pt": "Recorde atual",
+        "es": "Mejores récords actuales."
+    },
+    "BQzR": {
+        "en": "[Nils]\nHere comes the challenger of ^FF0000Typing of RO^000000! Type the sentence correctly within the time limit. Here we go!",
+        "pt": "[Nils]\nAqui está a próxima pessoa a aceitar o desafio da ^FF0000Digitação de RO^000000! Digite a frase corretamente dentro do limite de tempo. Aqui vamos nós!",
+        "es": "[Nils]\n¡Aquí viene el contendiente del ^FF0000Reto de escritura de RO^000000! Escribe la oración de forma correcta dentro del límite de tiempo. ¡Allá vamos!"
+    },
+    "BgzR": {
+        "en": "[Nils]\n^3CBCBCA ram me ma bra ba bra bra rim Breno ^0000FFDran drra ma mababa baabeeeaaaaaaa^000000",
+        "pt": "[Nils]\n^3CBCBCA ram me ma bra ba bra bra rim Breno ^0000FFDran drra ma mababa baabeeeaaaaaaa^000000",
+        "es": "[Nils]\n^3CBCBCA ram me ma bra ba bra bra rim Breno ^0000FFDran drra ma mababa baabeeeaaaaaaa^000000"
+    },
+    "BwzR": {
+        "en": "A ram me ma bra ba bra bra rim bran Dran drra ma mababa baabeeeaaaaaaa",
+        "pt": "A ram me ma bra ba bra bra rim Breno Dran drra ma mababa baabeeeaaaaaaa",
+        "es": "A ram me ma bra ba bra bra rim Breno Dran drra ma mababa baabeeeaaaaaaa"
+    },
+    "CAzR": {
+        "en": "[Nils]\n^FF1493Brra pa pra rrrlandrimdra batuhi ^800080uiebaambam trrrbam ding ding^000000",
+        "pt": "[Nils]\n^FF1493Brra pa pra rrrlandrimdra batuhi ^800080uiebaambam trrrbam ding ding^000000",
+        "es": "[Nils]\n^FF1493Brra pa pra rrrlandrimdra batuhi ^800080uiebaambam trrrbam ding ding^000000"
+    },
+    "CQzR": {
+        "en": "Brra pa pra rrrlandrimdra batuhi uiebaambam trrrbam ding ding",
+        "pt": "Brra pa pra rrrlandrimdra batuhi uiebaambam trrrbam ding ding",
+        "es": "Brra pa pra rrrlandrimdra batuhi uiebaambam trrrbam ding ding"
+    },
+    "CgzR": {
+        "en": "[Nils]\nYou typed everything correctly in ^FF0000{0}^000000 seconds. Your typing speed is {1} letters per second.",
+        "pt": "[Nils]\nVocê digitou tudo corretamente em ^FF0000{0}^000000 segundos. A velocidade da sua digitação é de + {1} letras por segundo.",
+        "es": "[Nils]\nEscribiste todo correctamente en ^FF0000{0}^000000 segundos. Tu velocidad de escritura es de {1} caracteres por segundo."
+    },
+    "CwzR": {
+        "en": "[Nils]\nThis speed is impossible for a human. Did you just copy and paste? Next time, you should play fair.",
+        "pt": "[Nils]\nEssa velocidade é impossível para um ser humano. Você só copiou e colou? Da próxima vez, jogue limpo.",
+        "es": "[Nils]\nEsta velocidad es imposible para un ser humano. ¿Copiaste y pegaste? La próxima debes jugar limpio."
+    },
+    "DAzR": {
+        "en": "[Nils]\n^FF0000{0}^000000 just beat the previous record of ^0000FF{1}^000000's ^0000FF{2} letters per second^000000 and became the new record holder! Congratulations!",
+        "pt": "[Nils]\n^FF0000{0}^000000 superou o recorde anterior de ^0000FF + {1}^000000 de ^0000FF{2} letras por segundo^000000 e se tornou a nova pessoa detentora do recorde! Parabéns!",
+        "es": "[Nils]\n^FF0000{0}^000000 acaba de superar el récord anterior de ^0000FF{1}^000000 de ^0000FF{2} caracteres por segundo^000000 y ahora tiene el nuevo récord. ¡Felicitaciones!"
+    },
+    "DQzR": {
+        "en": "[Nils]\nThe current top record is ^0000FF{0}^000000's ^0000FF{1} letters per second^000000. Work hard and go for the new record!",
+        "pt": "[Nils]\nO recorde atual é de ^0000FF{0}^000000 de ^0000FF + {1} letras por segundo^000000. Esforce-se e busque o novo recorde!",
+        "es": "[Nils]\nEl mejor récord actual es de ^0000FF{0}^000000 con ^0000FF{1} carcateres por segundo^000000. ¡Esfuérzate más y trata de conseguir un nuevo récord!"
+    },
+    "DgzR": {
+        "en": "[Nils]\nYou've made some mistakes. You have to type every letter correctly.",
+        "pt": "[Nils]\nVocê cometeu alguns erros. Você tem que digitar cada letra corretamente.",
+        "es": "[Nils]\nCometiste algunos errores. Tienes que escribir todas las letras correctamente."
+    },
+    "DwzR": {
+        "en": "[Nils]\n^3CBCBCTwinkle twinkle little star ^0000FFHow I wonder what you are^000000",
+        "pt": "[Nils]\n^3CBCBCBrilha, brilha, estrelinha ^0000FFQuero ver você brilhar^000000",
+        "es": "[Nils]\n^3CBCBCDuérmete niño, duérmete ya. ^0000FFQue viene el coco y te llevará.^000000"
+    },
+    "EAzR": {
+        "en": "Twinkle twinkle little star How I wonder what you are",
+        "pt": "Brilha, brilha, estrelinha Quero ver você brilhar",
+        "es": "Duérmete niño, duérmete ya. Que viene el coco y te llevará."
+    },
+    "EQzR": {
+        "en": "[Nils]\n^FF1493Up above the world so high ^800080Like a diamond in the sky^000000",
+        "pt": "[Nils]\n^FF1493Lá no alto lá no céu ^800080Num desenho de cordel^000000",
+        "es": "[Nils]\n^FF1493Duérmete niño, duérmete ya. ^800080Que viene el coco y te comerá.^000000"
+    },
+    "EgzR": {
+        "en": "Up above the world so high Like a diamond in the sky",
+        "pt": "Lá no alto lá no céu, num desenho de cordel",
+        "es": "Duérmete niño, duérmete ya. Que viene el coco y te comerá."
+    },
+    "EwzR": {
+        "en": "[Nils]\n^3CBCBCBrkapitdiphaphickimazyxop^0000FFqeminpnyimnervihelsjaef^000000",
+        "pt": "[Nils]\n^3CBCBCBrkapitdiphaphickimazyxop^0000FFqeminpnyimnervihelsjaef^000000",
+        "es": "[Nils]\n^3CBCBCBrkapitdiphaphickimazyxop^0000FFqeminpnyimnervihelsjaef^000000"
+    },
+    "FAzR": {
+        "en": "Brkapitdiphaphickimazyxopqeminpnyimnervihelsjaef",
+        "pt": "Brkapitdiphaphickimazyxopqeminpnyimnervihelsjaef",
+        "es": "Brkapitdiphaphickimazyxop^0000FFqeminpnyimnervihelsjaef"
+    },
+    "FQzR": {
+        "en": "[Nils]\n^FF1493Tisheoejiklowigovezul^800080rathqujiklemnai^000000",
+        "pt": "[Nils]\n^FF1493Tisheoejiklowigovezul^800080rathqujiklemnai^000000",
+        "es": "[Nils]\n^FF1493Tisheoejiklowigovezul^800080rathqujiklemnai^000000"
+    },
+    "FgzR": {
+        "en": "Tisheoejiklowigovezulrathqujiklemnai",
+        "pt": "Tisheoejiklowigovezulrathqujiklemnai",
+        "es": "Tisheoejiklowigovezulrathqujiklemnai"
+    },
+    "FwzR": {
+        "en": "[Nils]\n^3CBCBCYour efforts never betray you ^0000FFEven if I can turn back time^000000",
+        "pt": "[Nils]\n^3CBCBCSeus esforços nunca te traem ^0000FFMesmo que eu possa voltar no tempo^000000",
+        "es": "[Nils]\n^3CBCBCSi te esfuerzas, nunca te arrepentirás. ^0000FFNi aunque vuelva el tiempo atrás.^000000"
+    },
+    "GAzR": {
+        "en": "Your efforts never betray you Even if I can turn back time",
+        "pt": "Seus esforços nunca te traem Mesmo que eu possa voltar no tempo",
+        "es": "Si te esfuerzas, nunca te arrepentirás. Ni aunque vuelva el tiempo atrás."
+    },
+    "GQzR": {
+        "en": "[Nils]\n^FF1493I will not be able to do it better ^800080This is not an end only a new beginning^000000",
+        "pt": "[Nils]\n^FF1493Não serei capaz de fazer melhor ^800080Isso não é um fim, apenas um novo começo^000000",
+        "es": "[Nils]\n^FF1493No podré mejorar jamás. ^800080Pero no es el fin, solo deja el pasado atrás.^000000"
+    },
+    "GgzR": {
+        "en": "I will not be able to do it better This is not an end only a new beginning",
+        "pt": "Não serei capaz de fazer melhor. Isso não é um fim apenas um novo começo",
+        "es": "No podré mejorar jamás. Pero no es el fin, solo deja el pasado atrás."
+    },
+    "GwzR": {
+        "en": "[Nils]\n^3CBCBCYankee Doodle went to town ^0000FFA-riding on a pony^000000",
+        "pt": "[Nils]\n^3CBCBCYankee Doodle foi para a cidade ^0000FFMontado em um pônei^000000",
+        "es": "[Nils]\n^3CBCBCUn elefante se balanceaba ^0000FFsobre la tela de una araña.^000000"
+    },
+    "HAzR": {
+        "en": "Yankee Doodle went to town A-riding on a pony",
+        "pt": "Yankee Doodle foi para a cidade Montado em um pônei",
+        "es": "Un elefante se balanceaba sobre la tela de una araña."
+    },
+    "HQzR": {
+        "en": "[Nils]\n^FF1493Stuck a feather in his cap ^8B4513And called it macaroni^000000",
+        "pt": "[Nils]\n^FF1493Colocou uma pena em seu boné ^8B4513E o chamou de macarrão^000000",
+        "es": "[Nils]\n^FF1493Como veía que resistía, ^8B4513fue a llamar a otro elefante.^000000"
+    },
+    "HgzR": {
+        "en": "Stuck a feather in his cap And called it macaroni",
+        "pt": "Colocou uma pena em seu boné E o chamou de macarrão",
+        "es": "Como veía que resistía, fue a llamar a otro elefante."
+    },
+    "HwzR": {
+        "en": "[Nils]\n^3CBCBCA miss is worth a mile ^0000FFDon't bite the hand that feeds you ^FF1493No roses without a thorn^000000",
+        "pt": "[Nils]\n^3CBCBCUm erro vale mais que uma milha ^0000FFNão morda a mão que te alimenta ^FF1493Não há rosas sem espinhos^000000",
+        "es": "[Nils]\n^3CBCBCDe casi no se muere nadie. ^0000FFNo muerdas la mano que te da de comer. ^FF1493Todas las rosas tienen espinas.^000000"
+    },
+    "IAzR": {
+        "en": "A miss is worth a mile Don't bite the hand that feeds you No roses without a thorn",
+        "pt": "Um erro vale mais que uma milha. Não morda a mão que te alimenta. Não há rosas sem espinhos",
+        "es": "De casi no se muere nadie. No muerdas la mano que te da de comer. Todas las rosas tienen espinas."
+    },
+    "IQzR": {
+        "en": "[Nils]\n^800080Two heads are better than one ^8B4513A leotard cannot change its spot^000000",
+        "pt": "[Nils]\n^800080Duas cabeças são melhores do que uma ^8B4513Um collant não pode mudar de lugar^000000",
+        "es": "[Nils]\n^800080Cuatro ojos ven más que dos. ^8B4513El zorro pierde el pelo, pero no las mañas.^000000"
+    },
+    "IgzR": {
+        "en": "Two heads are better than one A leotard cannot change its spot",
+        "pt": "Duas cabeças são melhores do que uma. Um collant não pode mudar de lugar",
+        "es": "Cuatro ojos ven más que dos. El zorro pierde el pelo, pero no las mañas."
+    },
+    "IwzR": {
+        "en": "[Nils]\n^3CBCBCWelcome ^0000FFKafra is always with you ^FF1493How may I help you today^000000",
+        "pt": "[Nils]\n^3CBCBCBoas-vindas ^0000FFKafra está sempre com você ^FF1493Como posso te ajudar hoje^000000",
+        "es": "[Nils]\n^3CBCBCTe damos la bienvenida. ^0000FFKafra está siempre a tu disposición. ^FF1493¿En qué puedo ayudarte hoy?^000000"
+    },
+    "JAzR": {
+        "en": "Welcome Kafra is always with you How may I help you today",
+        "pt": "Boas-vindas Kafra está sempre com você. Como posso te ajudar hoje",
+        "es": "Te damos la bienvenida. Kafra está siempre a tu disposición. ¿En qué puedo ayudarte hoy?"
+    },
+    "JQzR": {
+        "en": "[Nils]\n^800080Please tell me where you'd like to go ^8B4513I'm sorry, but you don't have enough Zeny^000000",
+        "pt": "[Nils]\n^800080Por favor, diga para onde gostaria de ir ^8B4513Sinto muito, mas você não tem Zeny suficiente^000000",
+        "es": "[Nils]\n^800080Dime a dónde quieres ir. ^8B4513Lo siento, pero no tienes suficientes zeny.^000000"
+    },
+    "JgzR": {
+        "en": "Please tell me where you'd like to go I'm sorry, but you don't have enough Zeny",
+        "pt": "Por favor, diga para onde gostaria de ir. Sinto muito, mas você não tem Zeny suficiente",
+        "es": "Dime a dónde quieres ir. Lo siento, pero no tienes suficientes zeny."
+    },
+    "JwzR": {
+        "en": "[Nils]\n^FF0000Typing of RO^000000 is a game where you type the phrases I give you correctly using a keyboard as fast as you can. I'm recording the fastest typer and their speed, so try it if you're confident in your typing speed!",
+        "pt": "[Nils]\n^FF0000Digitação de RO^000000 é um jogo em que se digita corretamente as frases que eu te dou usando um teclado o mais rápido que puder.\nEstou registrando o digitador mais rápido e sua velocidade, portanto, experimente se tiver confiança em sua velocidade de digitação!",
+        "es": "[Nils]\nEl ^FF0000Reto de escritura de RO^000000 es un juego en el que tienes que escribir correctamente y lo más rápido que puedas con un teclado las frases que te dicto. Registro a quien escribe más rápido y su velocidad, ¡así que si te tienes confianza puedes intentarlo!"
+    },
+    "KAzR": {
+        "en": "[Nils]\nThe current top record is ^0000FF{0}^000000's ^0000FF{1} letters per second^000000.",
+        "pt": "[Nils]\nO recorde atual é de ^0000FF{0}^000000 de ^0000FF + {1} letras por segundo^000000.",
+        "es": "[Nils]\nEl mejor récord actual es de ^0000FF{0}^000000 con ^0000FF{1} caracteres por segundo^000000."
+    },
+    "KQzR": {
+        "en": "[Nils]\nNot today? Alright. Come to me anytime if you want to challenge ^FF0000Typing of RO^000000!",
+        "pt": "[Nils]\nHoje não? Certo. Venha quando quiser participar do desafio de ^FF0000Digitação de RO^000000!",
+        "es": "[Nils]\n¿Hoy no? Está bien. ¡Ven a verme cuando quieras jugar el ^FF0000Reto de escritura de RO^000000!"
+    },
+    "KgzR": {
+        "en": "Airship",
+        "pt": "Aeroplano",
+        "es": "Aeronave"
+    },
+    "KwzR": {
+        "en": "This Airship is flying toward Izlude.",
+        "pt": "Esse Aeroplano está indo para Izlude.",
+        "es": "Esta aeronave está volando hacia Izlude."
+    },
+    "LAzR": {
+        "en": "This Airship is going to land at Izlude soon.",
+        "pt": "Esse Aeroplano vai aterrissar em Izlude em breve.",
+        "es": "Esta aeronave aterrizará pronto en Izlude."
+    },
+    "LQzR": {
+        "en": "We have arrived at Izlude. We bid farewell to the travelers getting off here.",
+        "pt": "Chegamos a Izlude. Nos despedimos dos viajantes que desembarcam aqui.",
+        "es": "Llegamos a Izlude. Nos despedimos de los viajeros que bajan aquí."
+    },
+    "LgzR": {
+        "en": "We are stopped at Izlude. The Airship will depart soon.",
+        "pt": "Paramos em Izlude. O Aeroplano irá partir em breve.",
+        "es": "Estamos detenidos en Izlude. La aeronave partirá pronto."
+    },
+    "LwzR": {
+        "en": "The Airship will take off. The next stop is Juno.",
+        "pt": "O Aeroplano vai decolar. A próxima parada é Juno.",
+        "es": "La aeronave despegará. La siguiente parada es Juno."
+    },
+    "MAzR": {
+        "en": "This Airship is flying toward Juno.",
+        "pt": "Esse Aeroplano está indo para Juno.",
+        "es": "Esta aeronave está volando hacia Juno."
+    },
+    "MQzR": {
+        "en": "This Airship is going to land at Juno soon.",
+        "pt": "Esse Aeroplano vai aterrissar em Juno em breve.",
+        "es": "Esta aeronave aterrizará pronto en Juno."
+    },
+    "MgzR": {
+        "en": "We have arrived at Juno. We bid farewell to the travelers getting off here.",
+        "pt": "Chegamos a Juno. Nos despedimos dos viajantes que desembarcam aqui.",
+        "es": "Llegamos a Juno. Nos despedimos de los viajeros que bajan aquí."
+    },
+    "MwzR": {
+        "en": "We are stopped at Juno. The Airship will depart soon.",
+        "pt": "Paramos em Juno. O Aeroplano irá partir em breve.",
+        "es": "Estamos detenidos en Juno. La aeronave partirá pronto."
+    },
+    "NAzR": {
+        "en": "The Airship will take off. The next stop is Rachel.",
+        "pt": "O Aeroplano vai decolar. A próxima parada é Rachel.",
+        "es": "La aeronave despegará. La siguiente parada es Rachel."
+    },
+    "NQzR": {
+        "en": "This Airship is flying toward Rachel.",
+        "pt": "Esse Aeroplano está indo para Rachel.",
+        "es": "Esta aeronave está volando hacia Rachel."
+    },
+    "NgzR": {
+        "en": "This Airship is going to land at Rachel soon.",
+        "pt": "Esse Aeroplano vai aterrissar em Rachel em breve.",
+        "es": "Esta aeronave aterrizará pronto en Rachel."
+    },
+    "NwzR": {
+        "en": "We have arrived at Rachel. We bid farewell to the travelers getting off here.",
+        "pt": "Chegamos a Rachel. Nos despedimos dos viajantes que desembarcam aqui.",
+        "es": "Llegamos a Rachel. Nos despedimos de los viajeros que bajan aquí."
+    },
+    "OAzR": {
+        "en": "We are stopped at Rachel. The Airship will depart soon.",
+        "pt": "Paramos em Rachel. O Aeroplano irá partir em breve.",
+        "es": "Estamos detenidos en Rachel. La aeronave partirá pronto."
+    },
+    "OQzR": {
+        "en": "The Airship will take off. The next stop is Izlude.",
+        "pt": "O Aeroplano vai decolar. A próxima parada é Izlude.",
+        "es": "La aeronave despegará. La siguiente parada es Izlude."
+    },
+    "OgzR": {
+        "en": "Observer: Huh? What the... G-group of strange creatures are coming this way!",
+        "pt": "Observador: Hã? O quê... G-Grupo de criaturas estranhas vindo nessa direção!",
+        "es": "Testigo: ¿Cómo? Pero ¿qué…? ¡Hay un grupo de criaturas extrañas que se dirige hacia aquí!"
+    },
+    "OwzR": {
+        "en": "Announcement: Passengers, unidentified monsters are trying to infiltrate this ship.",
+        "pt": "Anúncio: Passageiros, monstros não identificados estão tentando se infiltrar nesta nave.",
+        "es": "Anuncio: Pasajeros, unos monstruos no identificados intentan infiltrarse en la nave."
+    },
+    "PAzR": {
+        "en": "Announcement: Please evacuate from the deck to inside immediately.",
+        "pt": "Anúncio: Por favor, evacue o convés para o interior imediatamente.",
+        "es": "Anuncio: Por favor, abandonen la cubierta y entren inmediatamente."
+    },
+    "PQzR": {
+        "en": "Gremlin",
+        "pt": "Gremlin",
+        "es": "Gremlin"
+    },
+    "PgzR": {
+        "en": "Beholder",
+        "pt": "Beholder",
+        "es": "Beholder"
+    },
+    "PwzR": {
+        "en": "Drainliar",
+        "pt": "Drainliar",
+        "es": "Drainliar"
+    },
+    "QAzR": {
+        "en": "Rotar Zairo",
+        "pt": "Giro-Goblin",
+        "es": "Rotar Zairo"
+    },
+    "QQzR": {
+        "en": "Familiar",
+        "pt": "Familiar",
+        "es": "Familiar"
+    },
+    "QgzR": {
+        "en": "Picky",
+        "pt": "Picky",
+        "es": "Picky"
+    },
+    "QwzR": {
+        "en": "Steel Chonchon",
+        "pt": "ChonChon de Aço",
+        "es": "Steel Chonchon"
+    },
+    "RAzR": {
+        "en": "The monsters are gone. We will resume the flight.",
+        "pt": "Os monstros se foram. Vamos continuar o nosso voo.",
+        "es": "Los monstruos se fueron. Reanudaremos el vuelo."
+    },
+    "RQzR": {
+        "en": "Crew: Captain Ferlock! Captain Ferlock! The Gremlins are going for the propellers!!",
+        "pt": "Tripulação: Capitão Ferlock! Capitão Ferlock! Os Gremlins estão tentando atacar as hélices!",
+        "es": "Tripulación: ¡Capitán Ferlock! ¡Capitán Ferlock! ¡Los Duendes se dirigen a las hélices!"
+    },
+    "RgzR": {
+        "en": "Captain Ferlock: What!? Those filthy little imps! I'll go myself!",
+        "pt": "Capitão Ferlock: O quê?! Esses diabinhos imundos! Pode deixar, estou indo!",
+        "es": "Capitán Ferlock: ¡¿Qué?! ¡Esos asquerosos diablillos! ¡Iré yo mismo!"
+    },
+    "RwzR": {
+        "en": "Captain Ferlock: You brats!! Get down from there now!!",
+        "pt": "Capitão Ferlock: Demônios! Desçam daí agora mesmo!",
+        "es": "Capitán Ferlock: ¡Mocosos! ¡Bajen de ahí ahora mismo!"
+    },
+    "SAzR": {
+        "en": "*Creeak--grrrrr--BOOM! CRACK!*",
+        "pt": "*Creeak... grrrrr... BOOM! CRACK!*",
+        "es": "*Criiic* *Grrrr* *¡BUM!* *¡CRAC!*"
+    },
+    "SQzR": {
+        "en": "Engineer: Whoa!! Rear engine no. 1 has been damaged!",
+        "pt": "Engenharia: Nossa! O motor traseiro nº 1 foi danificado!",
+        "es": "Ingeniero: ¡Vaya! ¡Se dañó el motor trasero núm. 1!"
+    },
+    "SgzR": {
+        "en": "Helmsman: Get the old and the infirm and women to safety first! Hurry!",
+        "pt": "Timoneiro: Primeiro, coloque os idosos, os enfermos e as mulheres em segurança! Rápido!",
+        "es": "Timonel: ¡Primero pongan a salvo a los ancianos, los enfermos y las mujeres! ¡Dense prisa!"
+    },
+    "SwzR": {
+        "en": "Captain Ferlock: So you have chosen to ignore me, huh?",
+        "pt": "Capitão Ferlock: Então você escolheu me ignorar, hein?",
+        "es": "Capitán Ferlock: Entonces decidieron ignorarme, ¿no?"
+    },
+    "TAzR": {
+        "en": "Captain Ferlock: I will teach you what happens when you do malarkey on my ship.",
+        "pt": "Capitão Ferlock: Vou te mostrar o que acontece quando você faz maldades na minha nave.",
+        "es": "Capitán Ferlock: Les enseñaré lo que sucede cuando se cometen bobadas en mi nave."
+    },
+    "TQzR": {
+        "en": "Captain Ferlock: I'll end you with my special-made Exodus Joker XIII Doom Rifle!!",
+        "pt": "Capitão Ferlock: Vou acabar com você com meu Rifle Coringa Especial de Destruição de Êxodo XIII!",
+        "es": "Capitán Ferlock: ¡Los acabaré con mi rifle de perdición hecho a medida, el Éxodo Joker XIII!"
+    },
+    "TgzR": {
+        "en": "*Bang!* *Bang Bang!* *Bang Bang!* *Bang Bang Bang!*",
+        "pt": "*Bang!* *Bang Bang!* *Bang Bang!* *Bang Bang Bang!*",
+        "es": "*¡Bang!* *¡Bang, bang!* *¡Bang, bang!* *¡Bang, bang, bang!*"
+    },
+    "TwzR": {
+        "en": "Captain Ferlock: Hah hah hah! How do you like that now!!?",
+        "pt": "Capitão Ferlock: Hahaha! Gostaram?!",
+        "es": "Capitán Ferlock: ¡Ja, ja, ja! ¡¿Y ahora qué les parece?!"
+    },
+    "UAzR": {
+        "en": "*Boom!* *BOOM!* *KABOOM!* *Boom!*",
+        "pt": "*Boom!* *BOOM!* *KABOOM!* *Boom!*",
+        "es": "*¡Bum!* *¡BUM!* *¡CABUM!* *¡Bum!*"
+    },
+    "UQzR": {
+        "en": "Captain Ferlock: What the!? How dare those things damage engines even more!!",
+        "pt": "Capitão Ferlock: Mas o quê?! Como essas coisas ousam danificar ainda mais os motores?",
+        "es": "Capitán Ferlock: ¿Qué dem…? ¡¿Cómo se atreven esas malditas cosas a dañar los motores aún más?!"
+    },
+    "UgzR": {
+        "en": "Helmsman: Captain! You're going too rough! You're this close to destroying our engines!",
+        "pt": "Timoneiro: Capitão! Você está indo muito rápido! Está muito perto de destruir nossos motores!",
+        "es": "Timonel: ¡Capitán! ¡Va a demasiada potencia! ¡Está a un pelo de destruir los motores!"
+    },
+    "UwzR": {
+        "en": "Captain Ferlock: Uh, am I? Well, life and mistakes are inseparable. Mwah hah hah!",
+        "pt": "Capitão Ferlock: Estou mesmo? Bem, a vida e os erros são inseparáveis. Muahaha!",
+        "es": "Capitán Ferlock: Eh, ¿de verdad? Bueno, es imposible separar la vida de los errores. ¡Ja, ja, ja!"
+    },
+    "VAzR": {
+        "en": "Captain Ferlock: Take care of the rest, you guys. *Bleat!*",
+        "pt": "Capitão Ferlock: Cuidem do resto, pessoal. *Bleat!*",
+        "es": "Capitán Ferlock: Ocúpense del resto, chicos. *¡Quejido!*"
+    },
+    "VQzR": {
+        "en": "Airship Captain",
+        "pt": "Capitão do Aeroplano",
+        "es": "Capitán de la aeronave"
+    },
+    "VgzR": {
+        "en": "[Ferlock]\nI am Ferlock, captain of this airship.\nThose Gremlins are troubling me, so don't talk to me unless it's urgent!",
+        "pt": "[Ferlock]\nEu sou Ferlock, capitão deste aeroplano.\nEsses Gremlins estão me perturbando, portanto, não fale comigo a menos que seja urgente!",
+        "es": "[Ferlock]\nSoy Ferlock, capitán de esta aeronave.\nEsos Duendes me están dando problemas, ¡así que no me hables a menos que sea algo urgente!"
+    },
+    "VwzR": {
+        "en": "[Ferlock]\nI'm Ferlock, captain of this airship.\nYou got a problem with me? Huh!?",
+        "pt": "[Ferlock]\nEu sou Ferlock, capitão deste aeroplano.\nTem algum problema comigo? Hein?!",
+        "es": "[Ferlock]\nSoy Ferlock, capitán de esta aeronave.\n¿Tienes algún problema conmigo? ¡¿Eh?!"
+    },
+    "WAzR": {
+        "en": "A reindeer is a captain?",
+        "pt": "O capitão é uma rena?",
+        "es": "¿El capitán es un reno?"
+    },
+    "WQzR": {
+        "en": "How does an airship operate?",
+        "pt": "Como um aeroplano é operado?",
+        "es": "¿Cómo funciona una aeronave?"
+    },
+    "WgzR": {
+        "en": "[Ferlock]\nReindeer!? Ugh, human kids. They're insolent! Insolent, I say!! I'll throw you out if you keep acting up!!",
+        "pt": "[Ferlock]\nRena?! Argh, crianças humanoides. Insolentes! Muito insolentes, eu diria! Vou expulsar vocês se continuarem agindo assim!",
+        "es": "[Ferlock]\n¡¿Un reno?! Uf, niños humanos. ¡Son muy insolentes! ¡In-so-len-tes! ¡Si te sigues portando mal, te echaré!"
+    },
+    "WwzR": {
+        "en": "[Ferlock]\nMy family is from a centuries-old historic noble household. We are on a different level than you humans! Being the captain of this giant airship is a challenging achievement!",
+        "pt": "[Ferlock]\nMinha família pertence à nobreza histórica com séculos de existência. Estamos em um nível diferente de vocês, humanoides! Ser capitão desse aeroplano gigante é uma conquista desafiadora!",
+        "es": "[Ferlock]\nMi familia viene de una histórica familia noble de hace siglos. ¡Estamos en un nivel diferente al de ustedes los humanos! ¡Ser capitán de esta enorme aeronave es un logro desafiante!"
+    },
+    "XAzR": {
+        "en": "[Ferlock]\nTraveling across the world on an airship is my joy and life goal.",
+        "pt": "[Ferlock]\nViajar pelo mundo em um aeroplano é minha alegria e objetivo de vida.",
+        "es": "[Ferlock]\nViajar por el mundo en una aeronave es mi tesoro y mi objetivo de vida."
+    },
+    "XQzR": {
+        "en": "[Ferlock]\nHow does an airship operate? Do you think I'd tell that to a complete stranger!?",
+        "pt": "[Ferlock]\nComo um aeroplano é operado? Você acha que eu contaria isso a uma pessoa que nem conheço?!",
+        "es": "[Ferlock]\n¿Cómo funciona una aeronave? ¡¿Crees que le contaría a un completo extraño?!"
+    },
+    "XgzR": {
+        "en": "[Ferlock]\nHmph! I'm busy, so don't talk to me unless you have business!",
+        "pt": "[Ferlock]\nHunf! Tenho muita coisa para fazer, então não fale comigo a menos que seja importante!",
+        "es": "[Ferlock]\n¡Fiu! Estoy ocupado, ¡así que no me hables a menos que tengas algo importante para mí!"
+    },
+    "XwzR": {
+        "en": "[Ferlock]\nFeels like someone asked the same question before... Anyway, I won't tell it to a human kid like you!",
+        "pt": "[Ferlock]\nParece que alguém já fez essa mesma pergunta antes... Enfim, não vou contar nada para uma criança humanoide como você!",
+        "es": "[Ferlock]\nCreo que alguien antes me hizo la misma pregunta… En fin, ¡no se lo diré a un niño humano como tú!"
+    },
+    "YAzR": {
+        "en": "[Ferlock]\nFeels like someone asked the same question before... Hey, aren't you the one who asked that question? Are you that curious about it?",
+        "pt": "[Ferlock]\nParece que alguém já fez essa mesma pergunta antes... Ei, não foi você que fez aquela pergunta? Tem tanta curiosidade assim em saber?",
+        "es": "[Ferlock]\nCreo que alguien antes me hizo la misma pregunta… Oye, ¿no fuiste tú quien me hizo esa pregunta? ¿Tanta curiosidad te genera?"
+    },
+    "YQzR": {
+        "en": "Uh, not really.",
+        "pt": "Na verdade, não.",
+        "es": "Eh, en realidad no."
+    },
+    "YgzR": {
+        "en": "Yes, I am.",
+        "pt": "Tenho, sim.",
+        "es": "Sí, así es."
+    },
+    "YwzR": {
+        "en": "[Ferlock]\nYou dare waste my time with half-hearted questions!? Do you want to get thrown out!!?",
+        "pt": "[Ferlock]\nVocê ousa perder meu tempo com perguntas desinteressantes?! Quer que eu te expulse?!",
+        "es": "[Ferlock]\n¡¿Te atreves a malgastar mi tiempo con preguntas poco entusiastas?! ¡¿Quieres que te echen?!"
+    },
+    "ZAzR": {
+        "en": "[Ferlock]\nWell, this is a top-secret only allowed to captains, but that's what the higher-ups think. I have a favor to ask of you, so I'll tell you about it if you do that.",
+        "pt": "[Ferlock]\nBem, isso é ultrassecreto e só é permitido a capitães, mas é isso que os superiores pensam. Tenho um favor a lhe pedir, portanto, se me ajudar, eu conto.",
+        "es": "[Ferlock]\nBueno, esto es ultrasecreto y solo deben saberlo los capitanes, pero eso es lo que creen los superiores. Si me haces un favor, te contaré sobre eso."
+    },
+    "ZQzR": {
+        "en": "[Ferlock]\nI think it's fair deal. What say you?",
+        "pt": "[Ferlock]\nAcho que é um acordo justo. O que você diz?",
+        "es": "[Ferlock]\nCreo que es un trato justo. ¿Qué me dices?"
+    },
+    "ZgzR": {
+        "en": "[Ferlock]\nI won't force you. Come back when you're interested.",
+        "pt": "[Ferlock]\nNão vou te forçar. Volte quando tiver interesse.",
+        "es": "[Ferlock]\nNo te voy a obligar. Vuelve cuando te interese."
+    },
+    "ZwzR": {
+        "en": "[Ferlock]\nStraightforward, aren't you?\nSo about that favor...",
+        "pt": "[Ferlock]\nQue pessoa direta você é, não?\nSobre aquele favor...",
+        "es": "[Ferlock]\nVas directo al grano, ¿cierto?\nAsí que sobre ese favor…"
+    },
+    "aAzR": {
+        "en": "[Ferlock]\nI have a little brother who travels around on an airship like me. Since we both are constantly traveling, we can't see or contact each other.",
+        "pt": "[Ferlock]\nTenho um irmão mais novo que viaja em um aeroplano como eu. Como estamos sempre viajando, não podemos nos ver ou entrar em contato.",
+        "es": "[Ferlock]\nTengo un hermano menor que viaja en una aeronave como yo. Como ambos estamos todo el tiempo viajando, no podemos vernos ni estar en contacto."
+    },
+    "aQzR": {
+        "en": "[Ferlock]\nI wrote a letter to him. Deliver this letter to my brother and get me his reply.",
+        "pt": "[Ferlock]\nEscrevi uma carta para ele. Entregue esta carta para meu irmão e me traga a resposta dele.",
+        "es": "[Ferlock]\nLe escribí una carta. Entrégale la carta a mi hermano y tráeme su respuesta."
+    },
+    "agzR": {
+        "en": "- Ferlock gave me a letter. -",
+        "pt": "- Ferlock me deu uma carta. -",
+        "es": "(Ferlock me dio una carta)."
+    },
+    "awzR": {
+        "en": "[Ferlock]\nI'll be counting on you.",
+        "pt": "[Ferlock]\nEstou contando com você.",
+        "es": "[Ferlock]\nCuento contigo."
+    },
+    "bAzR": {
+        "en": "Here's Captain Turlock's reply.",
+        "pt": "Aqui está a resposta do Capitão Turlock.",
+        "es": "Esta es la respuesta del capitán Tarlock."
+    },
+    "bQzR": {
+        "en": "[Ferlock]\nOh! You really got his reply for me! I didn't expect you to do it, to be honest. Give me a moment to read the letter.",
+        "pt": "[Ferlock]\nAh! Você trouxe mesmo a resposta dele para mim! Eu não esperava que você fosse fazer mesmo isso, sinceramente. Preciso de um momento para ler a carta.",
+        "es": "[Ferlock]\n¡Oh! ¡De verdad me trajiste su respuesta! Francamente, no esperaba que lo hicieras. Dame un momento para leer la carta."
+    },
+    "bgzR": {
+        "en": "Are you finished reading the letter?",
+        "pt": "Terminou de ler a carta?",
+        "es": "¿Terminaste de leer la carta?"
+    },
+    "bwzR": {
+        "en": "[Ferlock]\n*Mumble mumble*... Hah hah hah.\nLooks like he's met a fiancee. But a man's gotta have a solitary life. Holy diver, sole survivor... Where did that come from? *Mumble mumble*",
+        "pt": "[Ferlock]\n*Resmunga, resmunga* ... Hahaha!\nParece que ele ficou noivo. Mas um homem tem que ter uma vida solitária. Quando a gente gosta, é claro que a gente cuida... Nossa, de onde veio isso? *Resmunga, resmunga*",
+        "es": "[Ferlock]\n*Balbucea…* Ja, ja, ja.\nParece que encontró una prometida. Pero los hombres deben llevar una vida solitaria. Santo buzo, único sobreviviente… ¿De dónde salió eso? *Balbucea*"
+    },
+    "cAzR": {
+        "en": "- He's not finished with the letter. I should wait. -",
+        "pt": "- Ele não terminou a carta. Melhor eu esperar. -",
+        "es": "(No ha terminado de leer la carta. Debería esperar)."
+    },
+    "cQzR": {
+        "en": "[Ferlock]\nI'm finished. You should've realized it as you've met him, but he's very different from me. We fought often when we were young because of our personality differences, but we had nothing to fear when we were together.",
+        "pt": "[Ferlock]\nEu terminei. Você deve ter percebido isso quando o conheceu, mas ele é muito diferente de mim. Brigávamos com frequência quando éramos jovens por causa das diferenças de personalidade, mas não tínhamos nada a temer quando estávamos juntos.",
+        "es": "[Ferlock]\nTerminé. Cuando lo conociste, debes haberte dado cuenta de que somos muy diferentes. Cuando éramos jóvenes solíamos pelearnos todo el tiempo porque nuestras personalidades eran muy diferentes, pero, cuando estábamos juntos, no teníamos nada que temer."
+    },
+    "cgzR": {
+        "en": "[Ferlock]\nWell, I'm sure you're not interested in my past. I'll tell you what you wanted to know.",
+        "pt": "[Ferlock]\nBom, tenho certeza de que meu passado não te interessa. Vou lhe dizer o que você queria saber.",
+        "es": "[Ferlock]\nBueno, de seguro no te interesa mi pasado. Te diré lo que querías saber."
+    },
+    "cwzR": {
+        "en": "[Ferlock]\nTo float an airship, you boil water with a large boiler. The pressure from the steam moves pistons, gears, and turbines. Then, the propellers get powered by them. Understood?",
+        "pt": "[Ferlock]\nPara fazer flutuar um aeroplano, você ferve água em uma grande caldeira. A pressão do vapor move pistões, engrenagens e turbinas. Em seguida, as hélices são acionadas por eles. Entendeu?",
+        "es": "[Ferlock]\nPara volar una aeronave, debes hervir agua en una caldera enorme. La presión del vapor mueve los pistones, los engranajes y las turbinas. Luego, todo eso impulsa las hélices. ¿Comprendes?"
+    },
+    "dAzR": {
+        "en": "What? Is that it? I thought there'd be more.",
+        "pt": "O quê? É isso? Achei que teria mais.",
+        "es": "¿Qué? ¿Eso es todo? Pensé que era más complicado."
+    },
+    "dQzR": {
+        "en": "[Ferlock]\nHah! I wanted to shoo you away with a brief talk, but you don't let me. Yeah, there's more. What I just told you is the basic principle everyone knows.",
+        "pt": "[Ferlock]\nHah! Eu queria te mandar embora com uma conversa rápida, mas você não deixa. Sim, tem mais. O que acabei de dizer é o princípio básico que todos conhecem.",
+        "es": "[Ferlock]\n¡Ja! Quería ahuyentarte con una explicación breve, pero parece que no lo logré. Sí, es más complicado. Lo que te dije es solo el principio básico que conoce todo el mundo."
+    },
+    "dgzR": {
+        "en": "[Ferlock]\nYou can't float this heavy ship into the air with steam alone. So we use an amplifier called a ^FF0000Rune Engine^000000.",
+        "pt": "[Ferlock]\nNão é possível fazer essa nave pesada flutuar no ar apenas com vapor. Por isso, usamos um amplificador chamado ^FF0000Motor Rúnico^000000.",
+        "es": "[Ferlock]\nNo puedes hacer que una aeronave tan pesada como esta vuele solo con vapor. Para eso usamos un amplificador llamado ^FF0000Motor rúnico^000000."
+    },
+    "dwzR": {
+        "en": "Rune Engine? What's that?",
+        "pt": "Motor Rúnico? O que é isso?",
+        "es": "¿Motor rúnico? ¿Qué es eso?"
+    },
+    "eAzR": {
+        "en": "[Ferlock]\nA device made with magic stone. What was the name? Yeemiro? MYmiru? I forgot, but that's not important.",
+        "pt": "[Ferlock]\nUm dispositivo feito com pedra mágica. Qual era mesmo o nome? Yeemiro? Mimiru? Eu me esqueci, mas não é importante.",
+        "es": "[Ferlock]\nUn dispositivo fabricado a partir de una piedra mágica. ¿Cómo se llamaba? ¿Yeemiro? ¿Mimiru? Me olvidé, pero no es importante."
+    },
+    "eQzR": {
+        "en": "[Ferlock]\nYou connect an imitation of it to an engine - a steam engine, for example - then the stone's runic power amplifies the energy.",
+        "pt": "[Ferlock]\nSe você conectar uma imitação dela a um motor a vapor, por exemplo, o poder rúnico da pedra amplificará a energia.",
+        "es": "[Ferlock]\nSi conectas una imitación a un motor, por ejemplo, un motor de vapor, entonces el poder rúnico de la piedra amplifica la energía."
+    },
+    "egzR": {
+        "en": "[Ferlock]\nIn short, you can say that a tiny little stone is what powers this big ship. It's that powerful.",
+        "pt": "[Ferlock]\nEm resumo, você pode dizer que uma pequena pedra é o que alimenta essa grande nave. É bem poderosa.",
+        "es": "[Ferlock]\nEn resumen, se podría decir que una piedra pequeña es lo que alimenta esta nave enorme. Es así de poderosa."
+    },
+    "ewzR": {
+        "en": "[Ferlock]\nI'm sure your curiosity is satisfied now. I'm gonna take a break. Thank you for the delivery.",
+        "pt": "[Ferlock]\nTenho certeza de que sua curiosidade está saciada agora. Vou fazer uma pausa. Agradeço pela entrega.",
+        "es": "[Ferlock]\nEspero haber satisfecho tu curiosidad. Me tomaré un descanso. Gracias por la entrega."
+    },
+    "fAzR": {
+        "en": "[Ferlock]\nI explained you the other time!\nDon't trouble me for the same thing twice!!",
+        "pt": "[Ferlock]\nEu já te expliquei da outra vez!\nNão fique me incomodando com a mesma coisa duas vezes!",
+        "es": "[Ferlock]\n¡Ya te lo expliqué la otra vez!\n¡No me molestes dos veces por lo mismo!"
+    },
+    "fQzR": {
+        "en": "[Ferlock]\nHow does an airship operate? You haven't even gotten me my brother's reply! I won't tell you until you do what I told you to do!",
+        "pt": "[Ferlock]\nComo um aeroplano funciona? Você nem mesmo recebeu a resposta do meu irmão! Não vou contar até que você faça o que eu disse para fazer!",
+        "es": "[Ferlock]\n¿Cómo funciona una aeronave? ¡Ni siquiera me trajiste la respuesta de mi hermano! ¡No te lo diré hasta que hagas lo que te dije que hicieras!"
+    },
+    "fgzR": {
+        "en": "Guide Serviceroid",
+        "pt": "Robô Guia#",
+        "es": "Androide guía"
+    },
+    "fwzR": {
+        "en": "Valkyrie Air",
+        "pt": "Valquíria Linhas Aéreas",
+        "es": "Aerolíneas Valkiria"
+    },
+    "gAzR": {
+        "en": "[Guide Serviceroid]\nThank you for taking Valkyrie Air's ^006600Juno-Izlude-Rachel Shuttle Airship^000000. We always strive to provide you with safe and enjoyable travel. How may I help you?",
+        "pt": "[Robô Guia]\nAgradecemos por viajar no ^006600Aeroplano Juno-Izlude-Rachel^000000 da Valquíria Linhas Aéreas. Nós sempre nos esforçamos para proporcionar uma viagem segura e agradável. Em que posso ajudar?",
+        "es": "[Androide guía]\nGracias por viajar con Aerolíneas Valkiria en la ^006600aeronave transbordadora Juno-Izlude-Rachel^000000. Nos esforzamos por brindarte un viaje seguro y entretenido. ¿En qué puedo ayudarte?"
+    },
+    "gQzR": {
+        "en": "How to use the airship",
+        "pt": "Como usar o aeroplano",
+        "es": "Cómo usar la aeronave."
+    },
+    "ggzR": {
+        "en": "Where is the captain's cabin?",
+        "pt": "Onde fica a cabine de comando?",
+        "es": "¿Dónde está la cabina del capitán?"
+    },
+    "gwzR": {
+        "en": "About interior facilities",
+        "pt": "Sobre as instalações internas",
+        "es": "Acerca de las instalaciones interiores."
+    },
+    "hAzR": {
+        "en": "[Guide Serviceroid]\nEvery airship of Valkyrie Air announces the ship's destination and route through an in-flight announcement.\nWhen the airship stops at your destination, you can use the exit on each side to disembark.",
+        "pt": "[Robô Guia]\nCada aeroplano da Valquíria Linhas Aéreas anuncia o destino e a rota da nave por meio de um anúncio a bordo.\nQuando o aeroplano parar no seu destino, você poderá usar a saída de cada lado para desembarcar.",
+        "es": "[Androide guía]\nCada aeronave de Aerolíneas Valkiria anuncia el destino de la nave y la ruta mediante un anuncio a bordo.\nCuando la aeronave llega al destino, puedes usar la salidas a cada lado para desembarcar."
+    },
+    "hQzR": {
+        "en": "[Guide Serviceroid]\nEven if you forgot to disembark at your destination, don't worry. This airship travels back and forth between Juno and Izlude, so you can get off the next time.",
+        "pt": "[Robô Guia]\nMesmo que você se esqueça de desembarcar em seu destino, não se preocupe. Esse aeroplano viaja de um lado para o outro entre Juno e Izlude, para que você possa desembarcar na próxima vez.",
+        "es": "[Androide guía]\nSi te olvidas de desembarcar en tu destino, no te preocupes. Esta aeronave tiene vuelos de ida y vuelta a Juno e Izlude, así que podrás bajarte la próxima vez."
+    },
+    "hgzR": {
+        "en": "[Guide Serviceroid]\nThe <NAVI>[captain's cabin]<INFO>airplane_01.gat,208,53,0,101,0</INFO></NAVI> is at the forefront of this airship. Captain Ferlock and the helmsman who pilots this airship work there.",
+        "pt": "[Robô Guia]\nA <NAVI>[cabine de comando]<INFO>airplane_01.gat,208,53,0,101,0</INFO></NAVI> fica na frente deste aeroplano. Capitão Ferlock e o timoneiro que pilota esse aeroplano trabalham lá.",
+        "es": "[Androide guía]\nLa <NAVI>[cabina del capitán]<INFO>airplane_01.gat,208,53,0,101,0</INFO></NAVI> se encuentra en la parte frontal de la aeronave. Aquí trabajan el capitán Ferlock y el timonel, que son quienes pilotan la aeronave."
+    },
+    "hwzR": {
+        "en": "[Guide Serviceroid]\nThe captain leaves his cabin from time to time. If you have business with him, please leave a message to a crew, and they will deliver it to him later.",
+        "pt": "[Robô Guia]\nO capitão sai de sua cabine de tempos em tempos. Se tiver negócios com ele, deixe uma mensagem para a tripulação, que a entregará a ele mais tarde.",
+        "es": "[Androide guía]\nEl capitán sale de la cabina de vez en cuando. Si tienes algo que hablar con él, déjale un mensaje a la tripulación y ellos se lo comunicarán mas tarde."
+    },
+    "iAzR": {
+        "en": "[Guide Serviceroid]\nInside your cabin are windows for sightseeing, a lounge where you can rest, and mini-games we prepared as recreation.",
+        "pt": "[Robô Guia]\nDentro de sua cabine há janelas para passeios turísticos, um lounge onde você pode descansar e minijogos que preparamos para recreação.",
+        "es": "[Androide guía]\nTu camarote posee ventanas para que puedas observar el paisaje, una sala donde puedes descansar y minijuegos como recreación."
+    },
+    "iQzR": {
+        "en": "[Guide Serviceroid]\nValkyrie Air appreciates your patronage, and we hope you have another peaceful and pleasant trip. Thank you.",
+        "pt": "[Robô Guia]\nA Valquíria Linhas Aéreas agradece por sua preferência, e esperamos que você tenha outra viagem tranquila e agradável. Agradeço.",
+        "es": "[Androide guía]\nAerolíneas Valkiria agradece tu preferencia y esperamos que tengas otro viaje tranquilo y placentero. Gracias."
+    },
+    "igzR": {
+        "en": "Helmsman",
+        "pt": "Timoneiro",
+        "es": "Timonel"
+    },
+    "iwzR": {
+        "en": "[Helmsman]\nWe're currently on 131 degrees east longitude and 37 degrees north latitude. All clear!",
+        "pt": "[Timoneiro]\nNo momento, estamos a 131 graus de longitude leste e 37 graus de latitude norte. Tudo limpo!",
+        "es": "[Timonel]\nEn este momento, alcanzamos los 131 grados de longitud este y 37 grados de latitud norte. ¡Despejado!"
+    },
+    "jAzR": {
+        "en": "[Helmsman]\nIt's cloudy today.\nThis kind of weather is not good...",
+        "pt": "[Timoneiro]\nHoje está nublado.\nEsse tipo de clima não é bom...",
+        "es": "[Timonel]\nHoy está nublado.\nEste clima no es bueno…"
+    },
+    "jQzR": {
+        "en": "[Helmsman]\nThe captain is pretty ill-tempered. When he does something, the crews have to take care of the aftermath. I just hope he won't cause any accidents today. *Sigh*",
+        "pt": "[Timoneiro]\nO capitão é muito mal-humorado. Quando ele faz alguma coisa, a tripulação tem de cuidar das consequências. Só espero que ele não cause nenhum acidente hoje. *Suspiro*",
+        "es": "[Timonel]\nEl capitán tiene un malhumor tremendo. Cuando hace algo, la tripulación debe encargarse de las consecuencias. Solo espero que hoy no cause ningún accidente. *Suspira*"
+    },
+    "jgzR": {
+        "en": "[^FF0000Ferlock^000000]\n^FF0000You there! Cut the chit-chat! Work now! Work!^000000",
+        "pt": "[^FF0000Ferlock^000000]\n^FF0000Você aí! Chega de conversinha paralela! Voltem ao trabalho! Trabalhem!^000000",
+        "es": "[^FF0000Ferlock^000000]\n^FF0000¡Oye, tú! ¡Basta de charla! ¡Ponte a trabajar! ¡A trabajar!^000000"
+    },
+    "jwzR": {
+        "en": "[Helmsman]\nYes, sir...",
+        "pt": "[Timoneiro]\nSim, senhor...",
+        "es": "[Timonel]\nSí, señor…"
+    },
+    "kAzR": {
+        "en": "[Helmsman]\nUgh. This uniform looks cool but is too stuffy. Why can't I work in underwear? No one comes to the captain's cabin anyway.",
+        "pt": "[Timoneiro]\nArgh. Esse uniforme parece legal, mas é muito abafado. Por que não posso trabalhar de roupa de baixo? De qualquer forma, ninguém vai à cabine do capitão.",
+        "es": "[Timonel]\nUf. Este uniforme se ve genial, pero es demasiado sofocante. ¿Por qué no me dejan trabajar en ropa interior? Igual, nadie viene a la cabina del capitán."
+    },
+    "kQzR": {
+        "en": "[Helmsman]\n......",
+        "pt": "[Timoneiro]\n......",
+        "es": "[Timonel]\n......"
+    },
+    "kgzR": {
+        "en": "[Helmsman]\n*Gasp!* W-who are you!?",
+        "pt": "[Timoneiro]\n*Aah!* Q-Quem é você?!",
+        "es": "[Timonel]\n*¡Ah!* ¡¿Q-quién eres?!"
+    },
+    "kwzR": {
+        "en": "Below here is for crews only. Passengers are not allowed there.",
+        "pt": "Aqui embaixo é apenas para a tripulação. Passageiros não são permitidos.",
+        "es": "La parte inferior es solo para la tripulación. No se permiten pasajeros."
+    },
+    "lAzR": {
+        "en": "Girl",
+        "pt": "Menina",
+        "es": "Chica"
+    },
+    "lQzR": {
+        "en": "[Girl]\n*Sob* *Sniff*\nI was playing outside, and a deer yelled at me. It was so scary... *Sniff*",
+        "pt": "[Menina]\n*Soluço* *Sniff*\nEu estava brincando do lado de fora, e um cervo gritou comigo. Foi tão assustador... *Sniff*",
+        "es": "[Chica]\n*Solloza* *Lloriquea*\nEstaba afuera jugando y un ciervo me gritó. Fue muy aterrador… *Solloza*"
+    },
+    "lgzR": {
+        "en": "Noble Gentleman",
+        "pt": "Cavalheiro Nobre",
+        "es": "Caballero noble"
+    },
+    "lwzR": {
+        "en": "[Noble Gentleman]\nIn-flight meals are not to my taste. There is no grace or sense. I should have brought my personal chef.",
+        "pt": "[Cavalheiro Nobre]\nAs refeições de bordo não são do meu agrado. Não têm graça nem sentido. Eu deveria ter trazido meu chef pessoal.",
+        "es": "[Caballero noble]\nLas comidas a bordo no son de mi gusto. No tienen gracia ni sabor. Debería haber traído a mi chef personal."
+    },
+    "mAzR": {
+        "en": "Swordsman",
+        "pt": "Espadachim",
+        "es": "Espadachín"
+    },
+    "mQzR": {
+        "en": "[Swordsman]\nFor what you did 5 years ago......\nI will avenge you......\nI will get you this time!!",
+        "pt": "[Espadachim]\nPelo que você fez há 5 anos......\nEu vou te vingar......\nVou pegar você desta vez!",
+        "es": "[Espadachín]\nPor lo que hiciste hace 5 años…\nMe vengaré…\n¡Esta vez te atraparé!"
+    },
+    "mgzR": {
+        "en": "[Guide Serviceroid]\nThank you for taking Valkyrie Air's ^336699Schwarzwald Domestic Airship^000000. This airship stops at Juno, Hugel, Einbroch, and Lighthalzen. We always strive to provide you with safe and enjoyable travel. How may I help you?",
+        "pt": "[Robô Guia]\nAgradecemos por utilizar o ^336699Aeroplano Doméstico Schwarzwald^000000 da Valquíria Linhas Aéreas.\nEsse dirigível faz paradas em Juno, Hugel, Einbroch e Lighthalzen. Nós sempre nos esforçamos para proporcionar uma viagem segura e agradável. Em que posso ajudar?",
+        "es": "[Androide guía]\nGracias por viajar con Aerolíneas Valkiria en la ^336699aeronave nacional de Schwarzwald^000000. La aeronave hace escala en Juno, Hugel, Einbroch y Lighthalzen. Nos esforzamos por brindarte un viaje seguro y entretenido. ¿En qué puedo ayudarte?"
+    },
+    "mwzR": {
+        "en": "Have you ever heard of the name Teary?",
+        "pt": "Você já ouviu falar do nome Teary?",
+        "es": "¿Has escuchado de alguien llamado Thierry?"
+    },
+    "nAzR": {
+        "en": "[Guide Serviceroid]\nI'm sorry. There is no one with such a name among the passengers.",
+        "pt": "[Robô Guia]\nMe desculpe. Não há ninguém com esse nome entre os passageiros.",
+        "es": "[Androide guía]\nLo siento. Entre los pasajeros no hay nadie con ese nombre."
+    },
+    "nQzR": {
+        "en": "[Guide Serviceroid]\nAirships of Valkyrie Air announce the ship's destination and route through an in-flight announcement.\nWhen the airship stops at your destination, you can use the exit on each side to disembark.",
+        "pt": "[Robô Guia]\nAeroplanos da Valquíria Linhas Aéreas anunciam o destino e a rota da nave por meio de um aviso a bordo.\nQuando o aeroplano parar no seu destino, você poderá usar a saída de cada lado para desembarcar.",
+        "es": "[Androide guía]\nLas aeronaves de Aerolíneas Valkiria anuncian el destino de la nave y la ruta mediante un anuncio a bordo.\nCuando la aeronave llega a destino, puedes usar la salidas a cada lado para desembarcar."
+    },
+    "ngzR": {
+        "en": "[Guide Serviceroid]\nEven if you forgot to disembark at your destination, don't worry. This airship travels through a circular route, so you can get off the next time.",
+        "pt": "[Robô Guia]\nMesmo que você se esqueça de desembarcar em seu destino, não se preocupe. Esse aeroplano viaja por uma rota circular, para que você possa descer na próxima vez.",
+        "es": "[Androide guía]\nSi te olvidas de desembarcar en tu destino, no te preocupes. Esta aeronave viaja en una ruta en círculos, así que podrás bajarte la próxima vez."
+    },
+    "nwzR": {
+        "en": "[Guide Serviceroid]\nThe captain's cabin is at the forefront of this airship. Captain Turlock and the helmsman who pilots this airship work there.",
+        "pt": "[Robô Guia]\nA cabine de comando fica na frente deste aeroplano. Capitão Ferlock e o timoneiro que pilota esse aeroplano trabalham lá.",
+        "es": "[Androide guía]\nLa cabina del capitán se encuentra en la parte frontal de la aeronave. Aquí trabajan el capitán Tarlock y el timonel, que son quienes pilotan la aeronave."
+    },
+    "oAzR": {
+        "en": "[Guide Serviceroid]\nInside your cabin are windows for sightseeing, a lounge where you can rest, and mini-games we prepared as recreation. Please feel free to use those facilities while flying.",
+        "pt": "[Robô Guia]\nDentro de sua cabine há janelas para passeios turísticos, um lounge onde você pode descansar e minijogos que preparamos para recreação. Sinta-se à vontade para usar essas instalações durante o voo.",
+        "es": "[Androide guía]\nTu camarote posee ventanas para que puedas observar el paisaje, una sala donde puedes descansar y minijuegos como recreación. No dudes en usar esas instalaciones al volar."
+    },
+    "oQzR": {
+        "en": "[Guide Serviceroid]\nValkyrie Air appreciates your patronage, and we hope you have another peaceful trip. Thank you.",
+        "pt": "[Robô Guia]\nA Valquíria Linhas Aéreas agradece por sua preferência, e esperamos que você tenha outra viagem tranquila. Agradeço.",
+        "es": "[Androide guía]\nAerolíneas Valkiria agradece tu preferencia y esperamos que tengas otro viaje tranquilo. Gracias."
+    },
+    "ogzR": {
+        "en": "[Helmsman]\nI could definitely use a drink right now... Alcohol is my life! My power! Life without alcohol is nothing!",
+        "pt": "[Timoneiro]\nDefinitivamente, estou precisando de um drinque agora... O álcool é minha vida! Meu poder! A vida sem álcool não é nada!",
+        "es": "[Timonel]\nSin dudas, podría tomarme un trago… ¡El alcohol es mi vida! ¡Mi poder! ¡La vida sin alcohol no es nada!"
+    },
+    "owzR": {
+        "en": "[Helmsman]\nBut drunken piloting is a no-no. Oh, the pain!",
+        "pt": "[Timoneiro]\nMas pilotar bêbado é proibido. Ah, a dor!",
+        "es": "[Timonel]\nPero pilotar bajo el efecto del alcohol está prohibido. ¡Ay, qué dolor!"
+    },
+    "pAzR": {
+        "en": "- He wasn't listening at all... -",
+        "pt": "- Ele não estava ouvindo nada... -",
+        "es": "(No me escuchó en lo absoluto…)."
+    },
+    "pQzR": {
+        "en": "[Helmsman]\nI love the weather today.\nIt's the perfect weather to pilot an airship.",
+        "pt": "[Timoneiro]\nEstou adorando o tempo hoje.\nÉ o clima perfeito para pilotar um aeroplano.",
+        "es": "[Timonel]\nMe encanta el clima de hoy.\nEs el clima perfecto para pilotar una aeronave."
+    },
+    "pgzR": {
+        "en": "[Helmsman]\nOur captain is famous in Schwarzwald for his distinguished personality. Every crew member respects and obeys him.",
+        "pt": "[Timoneiro]\nNosso capitão é famoso em Schwarzwald por sua personalidade distinta. Todos os membros da tripulação o respeitam e obedecem.",
+        "es": "[Timonel]\nNuestro capitán es famoso en Schwarzwald por su personalidad distinguida. Todos los miembros de la tripulación lo respetan y lo obedecen."
+    },
+    "pwzR": {
+        "en": "[Helmsman]\nHis older brother is pretty ill-tempered, but our captain admires him so much. I think the older one borrowed something from our captain. He was looking for something urgently.",
+        "pt": "[Timoneiro]\nSeu irmão mais velho é bastante mal-humorado, mas nosso capitão o admira muito. Acho que o mais velho pediu algo emprestado ao nosso capitão. Ele estava procurando algo com urgência.",
+        "es": "[Timonel]\nSu hermano mayor es bastante malhumorado, pero nuestro capitán lo admira muchísimo. Creo que el mayor le pidió algo prestado a nuestro capitán. Buscaba algo con mucha urgencia."
+    },
+    "qAzR": {
+        "en": "[Girl]\nThis airship stops at Lutie, right? But the announcement never mentions Lutie...",
+        "pt": "[Menina]\nEsse aeroplano faz uma parada em Lutie, certo? Mas o anúncio não menciona Lutie...",
+        "es": "[Chica]\nEsta aeronave se detiene en Lutie, ¿no? Pero el anuncio jamás menciona Lutie…"
+    },
+    "qQzR": {
+        "en": "Zerta",
+        "pt": "Zerta",
+        "es": "Zerta"
+    },
+    "qgzR": {
+        "en": "[Zerta]\nI am traveling to spread my teaching. I hope to unite the entire Rune-Midgard through it.",
+        "pt": "[Zerta]\nEstou viajando para divulgar meus ensinamentos. Espero unir todos os Rune-Midgard por meio dele.",
+        "es": "[Zerta]\nViajo para difundir mis enseñanzas. Con ellas, espero poder unir a todo Rune-Midgard."
+    },
+    "qwzR": {
+        "en": "Anos",
+        "pt": "Anos",
+        "es": "Canos"
+    },
+    "rAzR": {
+        "en": "[Anos]\nThe view from the sky is gorgeous. I want to be bird so I can fly freely.",
+        "pt": "[Anos]\nA vista do céu é maravilhosa. Quero ser um pássaro para poder voar livremente.",
+        "es": "[Canos]\nLa vista desde el cielo es preciosa. Quisiera ser un pájaro para poder volar libremente."
+    }
+}

@@ -1,0 +1,797 @@
+{
+    "ALrb": {
+        "en": "Bundle of Files",
+        "pt": "Monte de Arquivos",
+        "es": "Expedientes esparcidos"
+    },
+    "Abrb": {
+        "en": "^3355FFThere are a bunch\nof files scattered\non the ground.^000000",
+        "pt": "^3355FFHá um monte de\narquivos espalhados\npelo chão.^000000",
+        "es": "^3355FFHay un montón\nde expedientes esparcidos\npor el suelo.^000000"
+    },
+    "Arrb": {
+        "en": "^3355FFThere are a bunch\nof files scattered\non the ground. They\nseem to contain all\nsorts of information,\nbut they're all mixed up.^000000",
+        "pt": "^3355FFHá um monte de\narquivos espalhados\npelo chão. Eles\nparecem conter todo\ntipo de informação,\nmas estão todos misturados.^000000",
+        "es": "^3355FFHay un montón\nde expedientes esparcidos\npor el suelo. Aparentemente,\ncontienen todo\ntipo de información,\npero están todos mezclados.^000000"
+    },
+    "A7rb": {
+        "en": "Rummage through the files.",
+        "pt": "Examinar os arquivos.",
+        "es": "Hurgar en los expedientes."
+    },
+    "BLrb": {
+        "en": "Cancel",
+        "pt": "Cancelar.",
+        "es": "Cancelar."
+    },
+    "Bbrb": {
+        "en": "^3355FFWhile you are\nrummaging through\nthe files, a Red Key\ndrops to the ground\nwith a clink. You decide\nto keep this ^000000Red Key^3355FF.^000000",
+        "pt": "^3355FFQuando você \nestá inspecionando\nos arquivos, uma Chave\nVermelha cai tilintando\nno chão. Você decide\npegar essa ^000000Chave Vermelha^3355FF.^000000",
+        "es": "^3355FFMientras\nhurgas en\nlos expedientes, una Llave roja\ncae al suelo\ncon un tintineo. Decides quedarte\ncon la ^000000Llave Roja^3355FF.^000000"
+    },
+    "Brrb": {
+        "en": "^3355FFThis is the place\nwhere you found the\n^000000Red Key^3355FF while you were\nlooking through the files\nscattered on the ground.^000000",
+        "pt": "^3355FFEste é o lugar\nonde você encontrou a\n^000000Chave Vermelha^3355FF quando \nestava examinado os arquivos\nespalhados pelo chão.^000000",
+        "es": "^3355FFEste es el lugar\nen el que encontraste\nla ^000000Llave Roja^3355FF mientras\nrevisabas los expedientes\nesparcidos por el suelo.^000000"
+    },
+    "B7rb": {
+        "en": "Picture",
+        "pt": "Quadro",
+        "es": "Cuadro"
+    },
+    "CLrb": {
+        "en": "^3355FFThis picture hanging\non the wall catches\nyour attention for some\ninexplicably strange reason.^000000",
+        "pt": "^3355FFEste quadro pendurado\nna parede prende sua\natenção por alguma razão\ninexplicável.^000000",
+        "es": "^3355FFEste cuadro colgado\nen la pared te llama\nla atención por alguna razón\ndifícil de explicar.^000000"
+    },
+    "Cbrb": {
+        "en": "Look behind picture.",
+        "pt": "Olhar atrás do quadro.",
+        "es": "Mirar detrás del cuadro."
+    },
+    "Crrb": {
+        "en": "^3355FFYou push and pull\nwith all your strength,\nbut the picture won't\nbudge. If it's too hard\nto move, there must be\nsomething hidden behind it.^000000",
+        "pt": "^3355FFVocê puxa e empurra\ncom toda a sua força\nmas o quadro não se\nmove. Se é tão difícil\nde mover, então deve ter\nalgo escondido atrás dele.^000000",
+        "es": "^3355FFEmpujas y tiras\ncon todas tus fuerzas,\npero el cuadro\nno se mueve. Si es tan difícil\nde mover, debe haber\nalgo oculto detrás.^000000"
+    },
+    "C7rb": {
+        "en": "^3355FFYou push and pull\nwith all your strength,\nbut this picture is too\nhard to move with just\nbrute strength alone.^000000",
+        "pt": "^3355FFVocê puxa e empurra\ncom toda a sua força\nmas o quadro é muito\ndifícil de se mover só \ncom força bruta.^000000",
+        "es": "^3355FFEmpujas y tiras\ncon todas tus fuerzas,\npero este cuadro es demasiado\ndifícil de mover usando solo\nla fuerza bruta.^000000"
+    },
+    "DLrb": {
+        "en": "Jackknife",
+        "pt": "Canivete",
+        "es": "Navaja"
+    },
+    "Dbrb": {
+        "en": "^3355FFYou take the\nJackknife, thrust\nit under the picture\nand twist it in order to\npry the picture off the wall.^000000",
+        "pt": "^3355FFVocê pega o\ncanivete, enfia\npor trás do quadro\ne o vira para poder\narrancar o quadro da parede.^000000",
+        "es": "^3355FFTomas la\nNavaja, la metes\ndebajo del cuadro\ny la retuerces para\narrancarlo de la pared.^000000"
+    },
+    "Drrb": {
+        "en": "^3355FFBehind the picture, you\nfind that the following\nnumbers are written:^000000",
+        "pt": "^3355FFAtrás do quadro, você \ndescobre que foram escritos\nos seguintes números:^000000",
+        "es": "^3355FFDetrás del cuadro,\ndescubres que están escritos\nlos siguientes números:^000000"
+    },
+    "D7rb": {
+        "en": "4 3 2 9 1 6 8 2 7",
+        "pt": "4 3 2 9 1 6 8 2 7",
+        "es": "4 3 2 9 1 6 8 2 7"
+    },
+    "ELrb": {
+        "en": "3 6 4 1 2 8 7 1 5",
+        "pt": "3 6 4 1 2 8 7 1 5",
+        "es": "3 6 4 1 2 8 7 1 5"
+    },
+    "Ebrb": {
+        "en": "4 9 3 7 6 2 8 6 6",
+        "pt": "4 9 3 7 6 2 8 6 6",
+        "es": "4 9 3 7 6 2 8 6 6"
+    },
+    "Errb": {
+        "en": "^3355FFUnfortunately,\ndoing that apparently\nwasn't enough to move\nthe picture. Perhaps you\nshould try something else.^000000",
+        "pt": "^3355FFInfelizmente,\nparece que isso não é \no suficiente para mover\no quadro. Talvez você deva\ntentar outra coisa.^000000",
+        "es": "^3355FFPor desgracia,\nhacer eso, al parecer,\nno alcanzó para mover\nel cuadro. Tal vez\ndeberías probar otra cosa.^000000"
+    },
+    "E7rb": {
+        "en": "^3355FFThe following numbers\nwere written behind the\npicture. If they were hidden,\nthese numbers must have\nsome kind of importance.^000000",
+        "pt": "^3355FFOs seguintes números\nforam escritos atrás\ndo quadro. Se eles foram escondidos,\nesses números devem ter\nalguma importância.^000000",
+        "es": "^3355FFLos siguientes números\nestaban escritos detrás del\ncuadro. Si estaban ocultos,\nestos números deben ser\nimportantes de algún modo.^000000"
+    },
+    "FLrb": {
+        "en": "^3355FFThere is a picture\nhanging on the wall.^000000",
+        "pt": "^3355FFHá um quadro\npendurado na parede.^000000",
+        "es": "^3355FFHay un cuadro\ncolgado en la pared.^000000"
+    },
+    "Fbrb": {
+        "en": "Look beneath picture.",
+        "pt": "Ver atrás do quadro.",
+        "es": "Mirar debajo del cuadro."
+    },
+    "Frrb": {
+        "en": "^3355FFThere are some\nnumbers behind the\npicture, but now there is\nno need to memorize them.^000000",
+        "pt": "^3355FFHá alguns\nnúmeros atrás do\nquadro, mas agora não é \nnecessário memorizá-los.^000000",
+        "es": "^3355FFHay algunos\nnúmeros detrás del\ncuadro, pero ahora\nno hace falta memorizarlos.^000000"
+    },
+    "F7rb": {
+        "en": "Drawer",
+        "pt": "Gaveteiro",
+        "es": "Cajón"
+    },
+    "GLrb": {
+        "en": "^3355FFThe drawer here\nlooks interesting,\nbut it's locked and\nyou can't open it.^000000",
+        "pt": "^3355FFEste gaveteiro\nparece interessante,\nmas está trancado e\nvocê não pode abri-lo.^000000",
+        "es": "^3355FFEste cajón\nparece interesante,\npero está cerrado y\nno lo puedes abrir.^000000"
+    },
+    "Gbrb": {
+        "en": "^3355FF\tThe drawer here\nlooks interesting, but\nit's locked. Hopefully, you\ncan figure how to open it.^000000",
+        "pt": "^3355FFEste gaveteiro\nparece interessante, mas\nestá trancado. Com sorte, você \nconsegue descobrir como abri-lo.^000000",
+        "es": "^3355FFEste cajón parece interesante, pero está cerrado. Con algo de suerte, puedes averiguar cómo abrirlo.^000000"
+    },
+    "Grrb": {
+        "en": "Red Key",
+        "pt": "Chave Vermelha",
+        "es": "Llave Roja"
+    },
+    "G7rb": {
+        "en": "^3355FFYou insert the Red Key\ninto the lock and open the\ndrawer. Inside, you find a\n^000000Jackknife^3355FF that you decide\nto take. After all, it might\nbe handy sometime.^000000",
+        "pt": "^3355FFVocê insere a Chave Vermelha\nna fechadura e abre o\ngaveteiro. Dentro você descobre um\n^000000Canivete^3355FF e decide\npegá-lo. Afinal, ele pode ser\nbem útil.^000000",
+        "es": "^3355FFInsertas la Llave roja\nen la cerradura y abres el\ncajón. En su interior, encuentras\nuna ^000000Navaja^3355FF que decides\nllevar contigo. Después de todo, podría\nser útil en algún momento.^000000"
+    },
+    "HLrb": {
+        "en": "^3355FFUnfortunately, you\ncan't open or break\nthe lock on the drawer\nby doing that. You need\nto try something else.^000000",
+        "pt": "^3355FFInfelizmente, você \nnão consegue abrir ou quebrar\no cadeado no gaveteiro\nfazendo isso. Você precisa \ntentar outra coisa.^000000",
+        "es": "^3355FFPor desgracia,\nno puedes abrir ni romper\nla cerradura del cajón\nhaciendo eso. Tienes que\nprobar otra cosa.^000000"
+    },
+    "Hbrb": {
+        "en": "^3355FFThis is the drawer\nin which you found the\n^000000Jackknife^3355FF. It is now empty\nand devoid of purpose.^000000",
+        "pt": "^3355FFEste é o gaveteiro\nonde você encontrou o\n^000000Canivete^3355FF. Agora ele está vazio\ne não tem nada de interessante.^000000",
+        "es": "^3355FFEste es el cajón\nen el que encontraste la\n^000000Navaja^3355FF. Ahora está vacío\ny no tiene ningún propósito.^000000"
+    },
+    "Hrrb": {
+        "en": "Chest",
+        "pt": "Baú",
+        "es": "Cofre"
+    },
+    "H7rb": {
+        "en": "^3355FFYou've found a chest\nwith an axe laid on\ntop. The axe's purpose\nis completely utilitarian\nand isn't suited for battle.^000000",
+        "pt": "^3355FFVocê encontra um baú \ncom um machado sobre\nele. O machado é uma\nsimples ferramenta e\nnão serve para lutar.^000000",
+        "es": "^3355FFEncontraste un cofre\ncon un Hacha colocada\nencima. El Hacha\nes meramente de utilería\ny no es apta para la batalla.^000000"
+    },
+    "ILrb": {
+        "en": "^3355FFYou've found a chest,\nbut more importantly,\nthere is a utility Axe\nlaid on top of it.^000000",
+        "pt": "^3355FFVocê encontra um baú,\nmas o mais importante\né que tem um machado comum\nsobre ele.^000000",
+        "es": "^3355FFEncontraste un cofre,\npero, lo más importante,\nhay un Hacha de utilería\ncolocada encima.^000000"
+    },
+    "Ibrb": {
+        "en": "Take the utility Axe.",
+        "pt": "Pegar o Machado.",
+        "es": "Tomar el Hacha de utilería."
+    },
+    "Irrb": {
+        "en": "^3355FFWithout shame or\nan ounce of guilt, you\npick up the utility ^000000Axe^3355FF\nand claim it as your own.^000000",
+        "pt": "^3355FFSem vergonha e\nsem nem um pingo de culpa,\nvocê pega o ^000000Machado^3355FF comum\npara você.^000000",
+        "es": "^3355FFSin vergüenza ni\nuna pizca de culpa,\ntomas el ^000000Hacha^3355FF de utilería\ny la reclamas como propia.^000000"
+    },
+    "I7rb": {
+        "en": "^3355FFThis is just a normal\nchest. There used to be\na utility ^000000Axe^3355FF on top of\nit until you picked it up.^000000",
+        "pt": "^3355FFÉ só um baú \ncomum. Antes tinha\num ^000000Machado^3355FF comum sobre\nele, mas você o pegou.^000000",
+        "es": "^3355FFEsto es solo un cofre\nnormal. Solía tener encima\nun ^000000Hacha^3355FF de utilería,\nhasta que la tomaste.^000000"
+    },
+    "JLrb": {
+        "en": "Barrel",
+        "pt": "Barril",
+        "es": "Barril"
+    },
+    "Jbrb": {
+        "en": "^3355FFYou have\nfound a shabbily\nconstructed barrel.^000000",
+        "pt": "^3355FFVocê encontrou\num barril miseravelmente\nconstruído.^000000",
+        "es": "^3355FFEncontraste\nun barril bastante\nmal construido.^000000"
+    },
+    "Jrrb": {
+        "en": "^3355FFYou have\nfound a shabbily\nconstructed barrel.\nYou sense that there's\nsomething inside, but\nyou need something to\nsmash the barrel open.^000000",
+        "pt": "^3355FFVocê encontrou\num barril miseravelmente\nconstruído. \nVocê percebe que\nhá algo dentro dele, mas\nprecisa de alguma coisa\npara abrir o barril.^000000",
+        "es": "^3355FFEncontraste\nun barril bastante\nmal construido.\nPiensas que tiene\nalgo adentro, pero\nnecesitas algo para romper\nel barril y abrirlo.^000000"
+    },
+    "J7rb": {
+        "en": "Axe",
+        "pt": "Machado",
+        "es": "Hacha"
+    },
+    "KLrb": {
+        "en": "^3355FFAxe in hand, you lift\nit above your head and\nswing it downwards,\nsmashing off the top of\nthe barrel. Inside, you find a\nbox topped with a metal plate.^000000",
+        "pt": "^3355FFCom o machado nas mãos, você \no ergue acima da cabeça e\ne dá uma tremenda\nmachadada no topo do\nbarril. Dentro você descobre uma\ncaixa com uma placa de metal no topo.^000000",
+        "es": "^3355FFTomas el Hacha, la levantas\npor encima de la cabeza\ny la impulsas hacia abajo\npara romper la parte superior\ndel barril. En su interior, encuentras\nuna caja con una placa metálica.^000000"
+    },
+    "Kbrb": {
+        "en": "^3355FFThe numbers one\nthrough nine are\netched on the surface\nof the metal plate on\ntop of the box you found,\nlike some kind of keypad...^000000",
+        "pt": "^3355FFOs números de um\na nove estão gravados,\ncomo um tipo de teclado,\nna superfície da placa de\nmetal que fica sobre a\ncaixa que você encontrou...^000000",
+        "es": "^3355FFLa placa metálica\nde la caja que encontraste\ntiene grabados números\ndel uno al nueve\nen la superficie,\ncomo una especie de teclado…^000000"
+    },
+    "Krrb": {
+        "en": "^3355FFDoing that probably won't\nbreak open this keg. You'll\nneed to try something else.^000000",
+        "pt": "^3355FFFazendo isso você provavelmente\nnão vai abrir esse barril. Você \nprecisa tentar outra coisa.^000000",
+        "es": "^3355FFHacer eso probablemente\nno abrirá este barril. Tendrás\nque probar otra cosa.^000000"
+    },
+    "K7rb": {
+        "en": "^3355FFYou decide to enter\nsome numbers into the\nmetallic keypad. Remember,\nyou can only enter single\ndigit numbers at one time...^000000",
+        "pt": "^3355FFVocê decide tentar\nalguns números no\nteclado metálico. Lembre-se,\nvocê só pode digitar um único\nnúmero de um dígito por vez...^000000",
+        "es": "^3355FFDecides introducir\nalgunos números en el\nteclado metálico. Recuerda que\nsolo puedes introducir\nnúmeros de un dígito a la vez…^000000"
+    },
+    "LLrb": {
+        "en": "^3355FFNothing happened...^000000",
+        "pt": "^3355FFNada acontece...^000000",
+        "es": "^3355FFNo pasó nada…^000000"
+    },
+    "Lbrb": {
+        "en": "^3355FFYou decide to enter\nsome numbers into the\nnumberpad etched on the\nmetal plate on top of the box\nyou found inside the keg.^000000",
+        "pt": "^3355FFVocê decide tentar\nalguns números no\nteclado gravado na\nplaca de metal no topo da caixa\nque você encontrou no barril.^000000",
+        "es": "^3355FFDecides introducir\nalgunos números en el\nteclado numérico grabado en la\nplaca metálica de la caja\nque encontraste dentro del barril.^000000"
+    },
+    "Lrrb": {
+        "en": "^3355FFThe metal plate slides\nopen and you find a key\nKey inside the box. You\nto keep this ^000000Yellow Key^3355FF.^000000",
+        "pt": "^3355FFA placa de metal desliza\nse abrindo e você encontra uma\nChave dentro da caixa. Você \nguarda essa ^000000Chave Amarela^3355FF com você.^000000",
+        "es": "^3355FFLa placa metálica se abre\ny encuentras una Llave\ndentro de la caja. Te\nquedas con la ^000000Llave Amarilla^3355FF.^000000"
+    },
+    "L7rb": {
+        "en": "^3355FFNothing happened.\nIt's likely that you did not\nenter the correct numbers.^000000",
+        "pt": "^3355FFNada aconteceu.\nÉ como se você não tivesse\ndigitado os números corretos.^000000",
+        "es": "^3355FFNo pasó nada.\nEs probable que no hayas\nintroducido los números correctos.^000000"
+    },
+    "MLrb": {
+        "en": "^3355FFThis is the box with\nthe keypad in which you\nfound the ^000000Yellow Key^3355FF.\nThe box is now empty.^000000",
+        "pt": "^3355FFEssa é a caixa com o\nteclado na qual você \nencontrou a ^000000Chave Amarela^3355FF.\nAgora a caixa está vazia.^000000",
+        "es": "^3355FFEsta es la caja con\nel teclado en la que\nencontraste la ^000000Llave Amarilla^3355FF.\nAhora la caja está vacía.^000000"
+    },
+    "Mbrb": {
+        "en": "^3355FFThis is a box\ntopped with a metal\nplate that looks like\na crudely made keypad.^000000",
+        "pt": "^3355FFEssa é a caixa\ncom a placa de\nmetal que parece ser\num teclado mal feito.^000000",
+        "es": "^3355FFEs una caja\ncon una placa de metal\nque parece un teclado\nde fabricación rudimentaria.^000000"
+    },
+    "Mrrb": {
+        "en": "Power Generator",
+        "pt": "Gerador de Força",
+        "es": "Generador"
+    },
+    "M7rb": {
+        "en": "^3355FFThis is a noisily\noperating huge machine\nwith a front panel that has\na strange mark. There is a\nkeyhole on the machine\nright next to this panel.^000000",
+        "pt": "^3355FFIsso é uma máquina\nimensa e barulhenta\ncom um painel frontal que tem\numa marca estranha. Ela tem\num buraco de chave\nlogo ao lado desse painel.^000000",
+        "es": "^3355FFEs una máquina\nenorme y ruidosa\ncon un panel frontal que tiene\nuna marca extraña. Hay\nuna cerradura en la máquina\njusto al lado de este panel.^000000"
+    },
+    "NLrb": {
+        "en": "^3355FFNothing happened.\nYou probably need\nto find the right key to\ninsert into the keyhole.^000000",
+        "pt": "^3355FFNada aconteceu.\nProvavelmente você precise\nencontrar a chave certa\npara colocar no buraco.^000000",
+        "es": "^3355FFNo pasó nada.\nProbablemente, tendrás que\nencontrar la llave correcta para\ninsertarla en la cerradura.^000000"
+    },
+    "Nbrb": {
+        "en": "Yellow Key",
+        "pt": "Chave Amarela",
+        "es": "Llave Amarilla"
+    },
+    "Nrrb": {
+        "en": "^3355FFYou insert the\nYellow Key into the\nkeyhole and turn it,\ncausing the machine\nto sputter and deactivate.^000000",
+        "pt": "^3355FFVocê coloca a\nChave Amarela no\nburaco girando-a,\no que faz com que a máquina\ndê umas tossidas e pare.^000000",
+        "es": "^3355FFInsertas\nla Llave Amarilla en\nla cerradura y la giras,\nlo que hace que la máquina\nchisporrotee y se desactive.^000000"
+    },
+    "N7rb": {
+        "en": "^3355FFYou notice that the\n^000000Status Light ^3355FFnext to the\nbed has now turned off.^000000",
+        "pt": "^3355FFVocê percebe que a\n^000000Luz de Status^3355FF ao lado\nda cama se apagou.^000000",
+        "es": "^3355FFNotas que la\n^000000luz de estado ^3355FFjunto a la cama\nahora está apagada.^000000"
+    },
+    "OLrb": {
+        "en": "^3355FFIt's a giant machine.^000000",
+        "pt": "^3355FFÉ uma máquina imensa.^000000",
+        "es": "^3355FFEs una máquina gigante.^000000"
+    },
+    "Obrb": {
+        "en": "Status Light",
+        "pt": "Luz de Status",
+        "es": "Luz de estado"
+    },
+    "Orrb": {
+        "en": "^3355FFThe Status Light is\non. It looks like there's\nsomething inside the\nbulb, but you can't get\nnear it since it generates\nincredibly scorching heat.^000000",
+        "pt": "^3355FFA Luz de Status está \nacesa. E parece que há algo\ndentro do\nlâmpada, mas você não\nconsegue chegar perto porque ela\ngera um calor incrível.^000000",
+        "es": "^3355FFLa luz de estado está \nencendida. Parece que hay algo\ndentro de la bombilla,\npero no puedes acercarte,\nya que genera un calor\nincreíblemente abrasador.^000000"
+    },
+    "O7rb": {
+        "en": "^3355FFNow, if you could\nsomehow shut down the\nPower Generator in this\nroom, the bulb would be\ncool enough for you to touch...^000000",
+        "pt": "^3355FFMas, se de alguma forma,\nvocê conseguir desligar\no Gerador de Força dessa\nsala, a lâmpada deve\nesfriar o suficiente para você tocá-lo...^000000",
+        "es": "^3355FFSi pudieras\napagar de alguna forma\nel generador de energía\nde esta sala, la bombilla se\nenfriaría y podrías tocarla…^000000"
+    },
+    "PLrb": {
+        "en": "The Status Light\nis now off and the\nbulb has cooled down.",
+        "pt": "A Luz de Status\nestá desligada agora\ne lâmpada já esfriou.",
+        "es": "La luz de estado\nahora está apagada\ny la bombilla se enfrió."
+    },
+    "Pbrb": {
+        "en": "Smash the light bulb.",
+        "pt": "Quebre a lâmpada.",
+        "es": "Romper la bombilla."
+    },
+    "Prrb": {
+        "en": "^3355FFYou smash the\nStatus Light's bulb\nand discover another key.\nYou obtained a ^000000Black Key^3355FF.^000000",
+        "pt": "^3355FFVocê quebra a\nlâmpada da Luz de Status\ne descobre uma outra chave.\nVocê guarda a ^000000Chave Preta^3355FF.^000000",
+        "es": "^3355FFRompes\nla bombilla de la luz de estado\ny descubres otra llave.\nObtuviste una ^000000Llave Negra^3355FF.^000000"
+    },
+    "P7rb": {
+        "en": "^3355FFYou find the remains\nof a broken light bulb.^000000",
+        "pt": "^3355FFVocê acha os restos\nde uma lâmpada quebrada.^000000",
+        "es": "^3355FFEncuentras los restos\nde una bombilla rota.^000000"
+    },
+    "QLrb": {
+        "en": "Desk",
+        "pt": "Mesa",
+        "es": "Escritorio"
+    },
+    "Qbrb": {
+        "en": "^3355FFYou've found\na completely\ncluttered desk.^000000",
+        "pt": "^3355FFVocê encontrou\numa mesa\ncompletamente desorganizada.^000000",
+        "es": "^3355FFEncontraste\nun escritorio\ntotalmente desordenado.^000000"
+    },
+    "Qrrb": {
+        "en": "On the desk",
+        "pt": "Examinar sobre a mesa.",
+        "es": "Sobre el escritorio."
+    },
+    "Q7rb": {
+        "en": "Under the desk",
+        "pt": "Examinar sob a mesa.",
+        "es": "Debajo del escritorio."
+    },
+    "RLrb": {
+        "en": "Desk drawer",
+        "pt": "Examinar a gaveta da mesa.",
+        "es": "Cajón del escritorio."
+    },
+    "Rbrb": {
+        "en": "^3355FFVarious documents,\nbooks and lab equipment\nare scattered on the desk.\nBut none of them seem\nall that useful right now.^000000",
+        "pt": "^3355FFVários documentos,\nlivros e equipamentos de laboratório\nestão amontoados sobre a mesa.\nMas, agora, nenhum deles\nparece ser útil.^000000",
+        "es": "^3355FFVarios documentos,\nlibros y material de laboratorio\nestán esparcidos por el escritorio.\nPero ninguno parece\nmuy útil en este momento.^000000"
+    },
+    "Rrrb": {
+        "en": "^3355FFUnder this desk, of\nall conceivable places,\nyou find a ^000000Short Stick^3355FF\nthat you decide to keep.\nYou never know when\nyou'll need one of those.^000000",
+        "pt": "^3355FFSob essa mesa, de\ntodos os lugares possíveis,\nvocê encontra um ^000000Bastão Curto^3355FF\ne decide guardá-lao.\nNunca se sabe quando\num dessas será necessário.^000000",
+        "es": "^3355FFDebajo de este escritorio, de\ntodos los lugares posibles,\nencuentras una ^000000Vara Corta^3355FF\nque decides llevar contigo.\nNunca se sabe cuándo\nnecesitarás una de esas.^000000"
+    },
+    "R7rb": {
+        "en": "^3355FFThe desk drawer is\nlocked and probably\nwith good reason. After all,\nyou just tried to invade this\nprivate and intimate space.^000000",
+        "pt": "^3355FFA gaveta da mesa está \ntrancada. Provavelmente\npor uma boa razão. Afinal,\nvocê acabou de tentar invadir\nesse lugar íntimo e particular.^000000",
+        "es": "^3355FFEl cajón del escritorio está \ncerrado y probablemente\npor un buen motivo. Después de todo,\nestás intentando invadir\nun espacio íntimo y privado.^000000"
+    },
+    "SLrb": {
+        "en": "^3355FFThis is where you\nfound your ^000000Short Stick^3355FF.\nSadly, there are no more\nhidden treasures for you to\ndiscover beneath this desk.^000000",
+        "pt": "^000099Você está de volta\nà mesa bagunçada que\nprovavelmente é usada\npor um executivo de alto nível\nque deve ter alguém para\narrumar a mesa para ele.^000000",
+        "es": "^3355FFAquí es donde\nencontraste tu ^000000Vara corta^3355FF.\nLamentablemente, ya no quedan\ntesoros ocultos para descubrir\ndebajo del escritorio.^000000"
+    },
+    "Sbrb": {
+        "en": "^3355FFYou're back at the\nmessy desk which\nis probably used by\na high ranking executive\nwho has someone else\ndo his desk tidying for him.^000000",
+        "pt": "^3355FFInfelizmente, não importa\no quanto você fuce,\na bagunça sobre a mesa\ncontinua parecendo inútil para você.^000000",
+        "es": "^3355FFEstás de vuelta en el\nescritorio desordenado,\nprobablemente de un alto\nejecutivo que manda\na otra persona\na que se lo ordene.^000000"
+    },
+    "Srrb": {
+        "en": "^3355FFAlas, no matter how much\nyou rummage through it,\nthe clutter on the desk\nproves to be useless to you.^000000",
+        "pt": "^3355FFInfelizmente, não importa o quanto\nvocê vasculhe,\na bagunça na escrivaninha\nse revela inútil para você.^000000",
+        "es": "^3355FFPor desgracia, aunque\nsigas hurgando,\nel desorden del escritorio\nte resulta inútil.^000000"
+    },
+    "S7rb": {
+        "en": "^3355FFAn issue of the\nDancer magazine,\n''Harmonic Lick'' catches\nyour eye, but you really\nshouldn't be interested\nin that publication just\nbecause of the pictures.^000000",
+        "pt": "^3355FFUm exemplar da\nrevista de dançarinas,\nLábios Harmônicos chama\na sua atenção, mas você \nnão deve ficar interessado\nem uma revista só por\ncausa das fotos.^000000",
+        "es": "^3355FFUn número de la\nrevista Bailarina,\nFraseo armónico, te llama\nla atención pero, en verdad,\nno tendría que interesarte\nesa publicación solo\npor las fotos.^000000"
+    },
+    "TLrb": {
+        "en": "^3355FFAn issue of the female\nentertainment magazine,\n''Magnum Break'' catches\nyour eye, but adventurers\nhave no time to look at\npictures of beautiful men.^000000",
+        "pt": "^3355FFUma edição da revista feminina\nde entretenimento\n''Impacto Explosivo'' chama sua atenção,\nmas os aventureiros\nnão têm tempo para ver\nfotos de homens bonitos.^000000",
+        "es": "^3355FFUn número de la revista\nde entretenimiento para mujeres,\n'Impacto explosivo, te llama\nla atención, pero los trotamundos\nno tienen tiempo para mirar\nfotos de hombres guapos.^000000"
+    },
+    "Tbrb": {
+        "en": "^3355FFUnder the desk, you\ndiscover another Short\nStick which happens to\nfit perfectly into the other\nShort Stick you found earlier.",
+        "pt": "^3355FFSobre a mesa você \ndescobre outra Vareta\nCurta que parece se encaixar\nperfeitamente naquela\nBastão Curto que você tinha encontrado antes.",
+        "es": "^3355FFDebajo del escritorio,\ndescubres otra Vara corta\nque casualmente encaja\na la perfección con la otra\nVara Corta que encontraste antes."
+    },
+    "Trrb": {
+        "en": "^3355FFYou combine the two\nlesser sticks to create\na stick that is superior\nto the sum of its parts.\nYou are now the proud\nbearer of a ^000000Long Stick^3355FF.^000000",
+        "pt": "^3355FFVocê combina os dois\nbastões menores para criar\num bastão que é superior\nà soma de suas partes.\nAgora você é o orgulhoso\nportador de um ^000000Bastão Longo^3355FF.^000000",
+        "es": "^3355FFCombinas las dos\nvaras cortar para crear\nuna vara que es más grande\nque la suma de sus partes.\nAhora portas con orgullo\nuna ^000000Vara Larga^3355FF.^000000"
+    },
+    "T7rb": {
+        "en": "^3355FFThis desk drawer is\nlocked shut and probably\nalways will be. It's likely\nthat nothing really valuable\nis inside, aside from perhaps\na hip flask or a candy stash.",
+        "pt": "^3355FFEssa gaveta está \ntrancada e provavelmente\nficará assim para sempre. Não é provável\nque tenha alguma coisa realmente\nvaliosa dentro dela, exceto,\ntalvez, um cantil ou saco de doces.",
+        "es": "^3355FFEste cajón del escritorio\nestá cerrado y probablemente\nlo estará por siempre. Es probable\nque no tenga nada muy valioso\ndentro, aparte de quizás\nuna petaca o una bolsa de caramelos."
+    },
+    "ULrb": {
+        "en": "^3355FFThis desk is cluttered\nwith all sorts of random\nobjects, but such is its\ndestiny as office equipment.^000000",
+        "pt": "^3355FFEssa mesa está atulhada\ncom todo tipo de objetos,\nmas esse é o destino de todas\nas mesas de escritório.^000000",
+        "es": "^3355FFEs un escritorio abarrotado\nde todo tipo de objetos,\npero tal es su destino\ncomo equipo de oficina.^000000"
+    },
+    "Ubrb": {
+        "en": "^3355FFThere's part of a newspaper\nhere, but it's only the Comics\nsection which, of course, isn't\ninformative enough for world\nsavvy adventurers like you.^000000",
+        "pt": "^3355FFHá parte de um jornal\naqui, mas é apenas a seção de quadrinhos\nque, claro, não é\ninformativa o suficiente para aventureiros\nexperientes como você.^000000",
+        "es": "^3355FFHay parte de un periódico\naquí, pero es solo la sección\nde tiras cómicas que, por supuesto,\nno es lo suficientemente informativa\npara trotamundos inteligentes como tú.^000000"
+    },
+    "Urrb": {
+        "en": "^3355FFThis is where you found\none of two Short Sticks\nto make your ^000000Long Stick^3355FF.\nThere isn't anything else\nunder here, so it's impossible\nto make your stick any longer.^000000",
+        "pt": "^3355FFFoi aqui que você encontrou\num dos dois bastões\npara fazer o seu ^000000Bastão Longo^3355FF.\nNão há mais nada\naqui embaixo, então não dá para deixar\nseu bastão mais longo.^000000",
+        "es": "^3355FFAquí es donde encontraste\nuna de las Varas cortas\npara hacer tu ^000000Vara Larga^3355FF.\nNo hay nada más\naquí abajo, así que es imposible\nhacer que tu vara sea más larga.^000000"
+    },
+    "U7rb": {
+        "en": "^3355FFThis desk drawer is\nlocked very securely.\nThe owner of this desk\nwas wise to provide a\nmeasure of drawer security.\nBut why put sticks under the\ndesk? This is most curious...^000000",
+        "pt": "^3355FFEssa gaveta está \nmuito bem trancada.\nO dono dessa gaveta\nfoi astuto para criar\numa medida de proteção para ela.\nMas porque colocar bastões sob\na mesa? Isso é bastante intrigante...^000000",
+        "es": "^3355FFEste cajón del escritorio\nestá bien cerrado.\nQuien posee este escritorio\ntuvo la prudencia de agregar\nuna medida de seguridad al cajón.\nPero ¿por qué poner varas debajo del\nescritorio? Eso sí es curioso…^000000"
+    },
+    "VLrb": {
+        "en": "Bed",
+        "pt": "Cama",
+        "es": "Cama"
+    },
+    "Vbrb": {
+        "en": "^3355FFYou've found a bed\nin which the sheets\nare slovenly arranged.^000000",
+        "pt": "^3355FFVocê encontrou uma cama\ncom os lençóis\ndesarrumados.^000000",
+        "es": "^3355FFEncontraste una cama\ncon las sábanas\nalgo desarregladas.^000000"
+    },
+    "Vrrb": {
+        "en": "On the bed",
+        "pt": "Examinar sobre a cama.",
+        "es": "Sobre la cama."
+    },
+    "V7rb": {
+        "en": "Under the bed",
+        "pt": "Examinar sob a cama.",
+        "es": "Debajo de la cama."
+    },
+    "WLrb": {
+        "en": "^3355FFNo one's in the bed\nand if you climbed in,\nyou'd just be alone. For\nsome people, this may\nbe an immutable truth.^000000",
+        "pt": "^3355FFNão tem ninguém sobre a cama\ne se você subir,\nvai conseguir ficar sozinha nela. Para\nalgumas pessoas, isso\né uma verdade imutável.^000000",
+        "es": "^3355FFNo hay nadie en la cama;\nsi te acostaras, no habría nadie\njunto a ti. Para\nalgunas personas, esta puede\nser una verdad inmutable.^000000"
+    },
+    "Wbrb": {
+        "en": "^3355FFUnder the bed, you\ndiscover a ^000000Short Stick^3355FF\nwhich you decide to\nkeep. You never know\nwhen certain, seemingly\nuseless objects will save you.^000000",
+        "pt": "^3355FFSob a cama, você \nencontra uma ^000000Bastão Curto^3355FF\nque decide\nguardar. Nunca se sabe\nquando certos tipos de objetos\naparentemente inúteis salvarão sua vida.^000000",
+        "es": "^3355FFDebajo de la cama,\ndescubres una ^000000Vara Corta^3355FF\nque decides llevar\ncontigo. Nunca se sabe\ncuándo ciertos objetos,\naparentemente inútiles, pueden salvarte.^000000"
+    },
+    "Wrrb": {
+        "en": "^3355FFUnder the bed, you\ndiscover another Short\nStick which happens to\nfit perfectly into the other\nShort Stick you found earlier.",
+        "pt": "^3355FFSob a cama, você \ndescobre outro Bastão\nCurto que parece se encaixar\nperfeitamente naquela\nBastão Curto que você tinha encontrado antes.",
+        "es": "^3355FFDebajo de la cama,\ndescubres otra Vara Corta\nque casualmente encaja\na la perfección con la otra\nVara Corta que encontraste antes."
+    },
+    "W7rb": {
+        "en": "^3355FFIn a distant and\ndusty corner beneath\nthe bed, you manage to\nspot an object. If only you\ncould reach it somehow...^000000",
+        "pt": "^3355FFNum canto distante\ne empoeirado debaixo\nda cama, você consegue\nver um objeto. Se você \nconseguisse alcançá-lo...^000000",
+        "es": "^3355FFEn un lejano y\npolvoriento rincón debajo de\nla cama, te las arreglas para\navistar un objeto. Si tan solo pudieras\nalcanzarlo de alguna forma…^000000"
+    },
+    "XLrb": {
+        "en": "Short Stick",
+        "pt": "Bastão Curto",
+        "es": "Vara Corta"
+    },
+    "Xbrb": {
+        "en": "^3355FFYou try to reach\nthe object by using\nyour Short Stick. After\na few attempts, you had no\nchoice but to admit that your\nstick just wasn't long enough.^000000",
+        "pt": "^3355FFVocê tenta alcançar\no objeto usando o\nseu Bastão Curto. Depois\nde algumas tentativas,\nvocê é obrigado a admitir\nque esse bastão é curto demais.^000000",
+        "es": "^3355FFIntentas alcanzar\nel objeto usando\ntu Vara Corta. Después de\nalgunos intentos, no te quedó \nmás que admitir que tu Vara\nno era lo suficientemente larga.^000000"
+    },
+    "Xrrb": {
+        "en": "^3355FFUnfortunately,\nwhatever you used to\ntry to reach the object\ndidn't work. You'll have\nto think of something else.^000000",
+        "pt": "^3355FFInfelizmente,\no que você usou para\nalcançar o objeto\nnão funcionou. Você \nprecisa pensar em outra coisa.^000000",
+        "es": "^3355FFPor desgracia,\nlo que sea que hayas usado\npara alcanzar el objeto\nno sirvió. Tendrás\nque pensar en otra cosa.^000000"
+    },
+    "X7rb": {
+        "en": "^3355FFYou find a messy\nbed that may be more\nthan meets the eye.^000000",
+        "pt": "^3355FFVocê encontra uma\ncama desarrumada onde parece\nter tido uma festa.^000000",
+        "es": "^3355FFEncuentras una cama\ndesordenada que puede ser\nmás de lo que parece.^000000"
+    },
+    "YLrb": {
+        "en": "Long Stick",
+        "pt": "Bastão Longo",
+        "es": "Vara Larga"
+    },
+    "Ybrb": {
+        "en": "^3355FFWith Long Stick in\nhand, you manage to\nreach the object and drag\nit under the bed towards you.\nYou now possess the ^000000Cube^3355FF\nthat was under the bed.^000000",
+        "pt": "^3355FFCom o Bastão Longo na\nmão, você consegue\nalcançar o objeto e arrastá-lo\nsob a cama até você.\nAgora você possui o ^000000Cubo^3355FF \nque estava sob a cama.^000000",
+        "es": "^3355FFCon la Vara Larga en\nmano, te las arreglas para\nalcanzar el objeto y arrastrarlo\ndebajo de la cama hacia ti.\nAhora posees el ^000000Cubo^3355FF\nque estaba debajo de la cama.^000000"
+    },
+    "Yrrb": {
+        "en": "^3355FFThis is where you\nmanaged to find some\nsort of strange ^000000Cube^3355FF.^000000",
+        "pt": "^3355FFAqui é o lugar onde\nvocê descobriu um\ntipo estranho de ^000000Cubo^3355FF.^000000",
+        "es": "^3355FFAquí es donde\nlograste encontrar una especie\nde ^000000Cubo^3355FF extraño.^000000"
+    },
+    "Y7rb": {
+        "en": "Goblet",
+        "pt": "Taça",
+        "es": "Copa"
+    },
+    "ZLrb": {
+        "en": "^3355FFYou see an empty\nbottle and a goblet.\nIt looks like you\nmissed the party.^000000",
+        "pt": "^3355FFVocê descobre uma garrafa\ne uma taça vazias.\nParece que você \nperdeu uma festa.^000000",
+        "es": "^3355FFVes una botella\ny una copa vacías.\nParece que llegaste\ntarde a la fiesta.^000000"
+    },
+    "Zbrb": {
+        "en": "Examine the goblet.",
+        "pt": "Examine a taça.",
+        "es": "Examinar la copa."
+    },
+    "Zrrb": {
+        "en": "^3355FFInside the goblet,\nyou find a ^000000Rusty Key^3355FF\nwhich you decide to keep.\nHowever, you'll need to get\nrid of that rust somehow.\nPerhaps you can dip the key\nin some corrosive chemical?^000000",
+        "pt": "^3355FFDentro da taça,\nvocê encontra uma ^000000Chave Enferrujada^3355FF \nque você decide guardar.\nPorém, de alguma forma você \nprecisa tirar a ferrugem dela.\nTalvez mergulhando a chave\nem alguma substância corrosiva?^000000",
+        "es": "^3355FFDentro de la copa,\nencuentras una ^000000Llave Oxidada^3355FF\nque decides llevar contigo.\nSin embargo, tendrás que deshacerte\nde ese óxido de alguna forma.\n¿Tal vez puedas sumergir la llave\nen algún químico corrosivo?^000000"
+    },
+    "Z7rb": {
+        "en": "^3355FFThis is the goblet where\nyou found that ^000000Rusty Key^3355FF.^000000",
+        "pt": "^3355FFNessa taça você descobriu\naquela ^000000Chave Enferrujada^3355FF.^000000",
+        "es": "^3355FFEsta es la copa en la que\nencontraste la ^000000Llave Oxidada^3355FF.^000000"
+    },
+    "aLrb": {
+        "en": "^3355FFThis is goblet cup where\nyou found that ^000000Rusty Key^3355FF.^000000",
+        "pt": "^3355FFEssa é a taça onde\nvocê encontrou aquela ^000000Chave Enferrujada^3355FF.^000000",
+        "es": "^3355FFEsta es la copa en la que\nencontraste la ^000000Llave Oxidada^3355FF.^000000"
+    },
+    "abrb": {
+        "en": "Chemicals",
+        "pt": "Produtos Químicos",
+        "es": "Químicos"
+    },
+    "arrb": {
+        "en": "^3355FFThere is a bottle\ncontaining slightly\ncorrosive chemicals\nthat is sitting on the ledge.^000000",
+        "pt": "^3355FFNa prateleira\nhá uma garrafa\ncontendo uma substância\nlevemente corrosiva.^000000",
+        "es": "^3355FFHay una botella\nque contiene químicos\nligeramente corrosivos\napoyada en la repisa.^000000"
+    },
+    "a7rb": {
+        "en": "^3355FFWhatever you tried to\npour the chemicals on\nwasn't affected at all.\nYou should try pouring the\nchemicals on something else.^000000",
+        "pt": "^3355FFO produto é mesmo\nbem pouco corrosivo\ne não aconteceu nada.\nVocê deveria tentar derramá-lo\nem alguma outra coisa.^000000",
+        "es": "^3355FFIntentaste\nverter los químicos sobre un objeto,\npero no lo afectó en absoluto.\nDeberías intentar verter\nlos químicos sobre otra cosa.^000000"
+    },
+    "bLrb": {
+        "en": "Rusty Key",
+        "pt": "Chave Enferrujada",
+        "es": "Llave Oxidada"
+    },
+    "bbrb": {
+        "en": "^3355FFPouring the chemicals\non the Rusty Key removes\nthe rust, making it usable\nagain. Now that it is clean,\nthe Rusty Key has become\na sparkling ^000000Green Key^3355FF.^000000",
+        "pt": "^3355FFDerramando o produto\na ferrugem da Chave começa\na se dissolver, deixando-a\npronta para ser usada. Agora que ela está limpa,\nvocê percebe que a Chave Enferrujada\nera uma brilhante ^000000Chave Verde^3355FF.^000000",
+        "es": "^3355FFVerter los químicos\nsobre la Llave oxidada le quitó \nel óxido y permitió que se pueda usar\nde nuevo. Ahora que está limpia,\nla Llave Oxidada se convirtió \nen una reluciente ^000000Llave Verde^3355FF.^000000"
+    },
+    "brrb": {
+        "en": "^3355FFThese are the chemicals\nthat you used to clean the\nRusty Key so that it was\nrestored to its original glory,\nbecoming the ^000000Green Key^3355FF.^000000",
+        "pt": "^3355FFEsses são os produtos\nquímicos que você usou para limpar\na Chave Enferrujada e \nrestaurar a sua gloriosa cor\noriginal, transformando-a na ^000000Chave Verde^3355FF.^000000",
+        "es": "^3355FFEstos son los químicos\nque usaste para limpiar\nla Llave Oxidada y\nrestaurarla a su gloria original,\nlo que la convirtió en la ^000000Llave Verde^3355FF.^000000"
+    },
+    "b7rb": {
+        "en": "Cabinet",
+        "pt": "Gabinete",
+        "es": "Armario"
+    },
+    "cLrb": {
+        "en": "^3355FFYou've found a\ncabinet that contains\nmany drawers. Perhaps\nsomething useful is inside?",
+        "pt": "^3355FFVocê encontrou um\ngabinete que contém\nmuitas gavetas. Será que\nhá algo de útil dentro delas?",
+        "es": "^3355FFEncontraste\nun armario que contiene\nvarios cajones. ¿Quizás\nhaya algo útil dentro?"
+    },
+    "cbrb": {
+        "en": "Open",
+        "pt": "Abra as gavetas.",
+        "es": "Abrir."
+    },
+    "crrb": {
+        "en": "^3355FFUnfortunately, the\ncabinet has been locked.\nYou'll need the right key\nin order to open the drawers.^000000",
+        "pt": "^3355FFInfelizmente, o\ngabinete está trancado.\nVocê precisa da chave certa\npara poder abrir as gavetas.^000000",
+        "es": "^3355FFPor desgracia,\nel armario está cerrado.\nNecesitarás la llave correcta\npara abrir los cajones.^000000"
+    },
+    "c7rb": {
+        "en": "Green Key",
+        "pt": "Chave Verde",
+        "es": "Llave Verde"
+    },
+    "dLrb": {
+        "en": "^3355FFYou take the Green Key\nand finds that it fits into\none of the drawer keyholes.\nYou open the drawer and\nobtain a strange ^000000Polygon^3355FF.^000000",
+        "pt": "^3355FFVocê pega a Chave Verde\ne descobre que ela se encaixa\nna fechadura de uma das gavetas.\nVocê abre a gaveta e\npega um estranho ^000000Polígono^3355FF.^000000",
+        "es": "^3355FFTomas la Llave verde\ny notas que encaja en\nuna de las cerraduras del cajón.\nAbres el cajón y\nobtienes un extraño ^000000Polígono^3355FF.^000000"
+    },
+    "dbrb": {
+        "en": "^3355FFWhatever you tried\ndid not succeed in\nopening this cabinet.\nThink. Think of how\nlocks are unlocked...\nThen you'll find the\nanswer you seek.^000000",
+        "pt": "^3355FFMesmo usando isso \nvocê não consegue\nabrir o gabinete.\nPense. Pense em como\nabrir uma fechadura...\nEntão encontrará a\nresposta que procura.^000000",
+        "es": "^3355FFLo que hayas intentado\nno sirvió para\nabrir este armario.\nPiensa. Piensa en cómo\nse abren las cerraduras…\nEntonces, encontrarás la\nrespuesta que buscas.^000000"
+    },
+    "drrb": {
+        "en": "^3355FFThis is the locker\nwhere you used the\nGreen Key to open one\nof the Drawers and obtained\na ^000000Polygon^3355FF. You're pretty happy\nwith your Polygon and don't\nneed to open the other drawers.^000000",
+        "pt": "^3355FFEsse é o gabinete\nonde você usou a\nChave Verde para abrir uma\ndas Gavetas e pegar um\n^000000Polígono^3355FF. Você está bem contente\ncom o seu Polígono e não\nprecisa abrir as outras gavetas.^000000",
+        "es": "^3355FFEste es el casillero\nen el que usaste la\nLlave verde para abrir uno\nde los cajones y obtuviste\nun ^000000Polígono^3355FF. Estás bastante feliz\ncon tu Polígono y no\nnecesitas abrir los otros cajones.^000000"
+    },
+    "d7rb": {
+        "en": "Experiment Tube",
+        "pt": "Tubo de Ensaio",
+        "es": "Tubo de experimentación"
+    },
+    "eLrb": {
+        "en": "^3355FFYou find a strange\ntube that seems to\ncontain something.\nUnderneath the tube is\na thin plate with a keyhole\nand a card insertion slot.^000000",
+        "pt": "^3355FFVocê encontrou um estranho\ntubo que parece\nconter alguma coisa.\nDebaixo do tubo\ntem uma placa fina com um buraco\npara chave e uma abertura para colocar um cartão.^000000",
+        "es": "^3355FFEncuentras un extraño\ntubo que parece\ncontener algo.\nDebajo del tubo, hay\nuna placa delgada con una cerradura\ny una ranura para insertar tarjetas.^000000"
+    },
+    "ebrb": {
+        "en": "^3355FFNothing happened.\nYou'll probably need\nto find the right key for\nthe keyhole and the correct\ncard to insert into the slot.^000000",
+        "pt": "^3355FFNada aconteceu.\nProvavelmente você precise\nencontrar a chave certa\npara esse buraco e o cartão\ncorreto para a abertura.^000000",
+        "es": "^3355FFNo pasó nada.\nProbablemente, tengas\nque encontrar la llave correcta para\nla cerradura y la tarjeta correcta\npara insertarla en la ranura.^000000"
+    },
+    "errb": {
+        "en": "Black Key",
+        "pt": "Chave Preta",
+        "es": "Llave Negra"
+    },
+    "e7rb": {
+        "en": "^3355FFYou insert the Black Key\ninto the keyhole, causing\nthe experiment tube to open\nand reveal an ^000000Oval^3355FF which you\nyou choose to take with you.^000000",
+        "pt": "^3355FFVocê inseriu a Chave Preta\nno buraco e o tubo\nde ensaio se abriu revelando\num objeto ^000000Oval^3355FF que você \nresolve levar.^000000",
+        "es": "^3355FFInsertas la Llave Negra\nen la cerradura, lo que provoca\nque el tubo de experimentos se abra\ny revele un ^000000Óvalo^3355FF, que\ndecides llevar contigo.^000000"
+    },
+    "fLrb": {
+        "en": "^3355FFThis is where you\nobtained the ^000000Oval^3355FF.\nAs you look around\nthe tube's location,\nyou notice an artificial\nground fissure which\ncan probably open up...^000000",
+        "pt": "^3355FFAqui é o lugar onde\nvocê obteve o objeto ^000000 Oval^3355FF.\nQuando você examina\no lugar onde está o tubo,\npercebe uma fissura artificial\nno chão que provavelmente\npode ser aberta...^000000",
+        "es": "^3355FFAquí es donde\nobtuviste el ^000000Óvalo^3355FF.\nAl mirar alrededor\nde la ubicación del tubo,\nnotas una fisura artificial\nen el suelo que probablemente\npuedas abrir…^000000"
+    },
+    "fbrb": {
+        "en": "^3355FFThere is a narrow,\nrectangular card slot\nin front of the tube.^000000",
+        "pt": "^3355FFHá uma abertura para cartão\nfino e retangular\nna frente do tubo.^000000",
+        "es": "^3355FFHay una ranura estrecha\ny rectangular para tarjetas\ndelante del tubo.^000000"
+    },
+    "frrb": {
+        "en": "Laboratory Permit",
+        "pt": "Passe do Laboratório",
+        "es": "Permiso de Laboratorio"
+    },
+    "f7rb": {
+        "en": "^3355FFYou insert the\nLaboratory Permit\ninto the slot and the\nman made fissure in the\nground splits open, revealing\nan underground staircase.^000000",
+        "pt": "^3355FFVocê coloca o cartão\nde Passe do Laboratório\nna abertura e a fissura\nartificial no chão\nse abre, revelando uma\nescada subterrânea.^000000",
+        "es": "^3355FFInsertas\nel Permiso de Laboratorio\nen la ranura y\nla fisura artificial\nen el suelo se abre para revelar\nuna escalera subterránea.^000000"
+    },
+    "gLrb": {
+        "en": "Go downstairs",
+        "pt": "Descer as escadas.",
+        "es": "Bajar las escaleras."
+    },
+    "gbrb": {
+        "en": "^3355FFYou walk down\nthe long flight\nof winding stairs...^000000",
+        "pt": "^3355FFVocê desce\nos longos lances\nda sinuosa escada...^000000",
+        "es": "^3355FFDesciendes por el largo\ntramo de escaleras\nde caracol…^000000"
+    },
+    "grrb": {
+        "en": "^3355FF..............\nNothing happened.^000000",
+        "pt": "^3355FF..............\nNada aconteceu.^000000",
+        "es": "^3355FF.............\nNo pasó nada.^000000"
+    },
+    "g7rb": {
+        "en": "^3355FFNothing happened.^000000",
+        "pt": "^3355FFNada aconteceu.^000000",
+        "es": "^3355FFNo pasó nada.^000000"
+    },
+    "hLrb": {
+        "en": "^3355FFThis is where you\nobtained the ^000000Oval^3355FF.\nAs you look around\nthe tube's location,\nyou notice an articial\nground fissure which\ncan probably open up...^000000",
+        "pt": "^3355FFAqui é o lugar onde\nvocê obteve o objeto ^000000 Oval^3355FF.\nQuando você examina\no lugar onde está o tubo,\npercebe uma fissura\nartificial no chão que\nprovavelmente pode ser aberta...^000000",
+        "es": "^3355FFAquí es donde\nobtuviste el ^000000Óvalo^3355FF.\nAl mirar alrededor\nde la ubicación del tubo,\nnotas una fisura artificial\nen el suelo que probablemente\npuedas abrir…^000000"
+    },
+    "hbrb": {
+        "en": "Box",
+        "pt": "Caixa",
+        "es": "Caja"
+    },
+    "hrrb": {
+        "en": "^3355FFYou find a box with\nthree distinctively\nshaped holes.^000000",
+        "pt": "^3355FFVocê encontra uma caixa com\ntrês buracos de\ndiferentes formatos.^000000",
+        "es": "^3355FFEncuentras una caja con\ntres agujeros\ncon forma distintiva.^000000"
+    },
+    "h7rb": {
+        "en": "Oval Hole",
+        "pt": "Um buraco oval",
+        "es": "Agujero ovalado."
+    },
+    "iLrb": {
+        "en": "Cubic Hole",
+        "pt": "Um buraco cúbico",
+        "es": "Agujero cúbico."
+    },
+    "ibrb": {
+        "en": "Polygon Hole",
+        "pt": "Um buraco em polígono",
+        "es": "Agujero poligonal."
+    },
+    "irrb": {
+        "en": "Cube Hole",
+        "pt": "Um buraco de cubo",
+        "es": "Agujero cúbico."
+    },
+    "i7rb": {
+        "en": "Oval",
+        "pt": "Oval",
+        "es": "Óvalo"
+    },
+    "jLrb": {
+        "en": "^3355FFYou insert the Oval\ninto the Oval shaped\nhole where it fits perfectly.^000000",
+        "pt": "^3355FFVocê insere o objeto Oval\nno buraco de formato\noval e ele se encaixa perfeitamente.^000000",
+        "es": "^3355FFInsertas el Óvalo\nen el agujero ovalado,\nen el que encaja perfectamente.^000000"
+    },
+    "jbrb": {
+        "en": "^3355FFThe Oval shaped hole\nalready has an Oval in it.\nBesides, it's not you have\nany Ovals to spare, anyway.^000000",
+        "pt": "^3355FFO buraco de formato oval\njá contém um objeto Oval que o preenche.\nAlém disso, você não tem mais\nnada que tenha um formato Oval.^000000",
+        "es": "^3355FFEl agujero ovalado\nya tiene un Óvalo.\nAdemás, no tienes ningún Óvalo\nde sobra.^000000"
+    },
+    "jrrb": {
+        "en": "Cube",
+        "pt": "Cubo",
+        "es": "Cubo"
+    },
+    "j7rb": {
+        "en": "^3355FFYou insert the Cube\ninto the Cubic hole\nand it clicks into place.\nYour formal Kindergarten\ntraining is finally justified.^000000",
+        "pt": "^3355FFVocê insere o Cubo\nno buraco com o formato cúbico\ne ele se encaixa no lugar.\nFinalmente foi justificado todo\nseu treinamento no Jardim de Infância.^000000",
+        "es": "^3355FFInsertas el Cubo\nen el agujero cúbico\ny encaja en su sitio.\nTus estudios formales del jardín\nde infantes por fin se justifican.^000000"
+    },
+    "kLrb": {
+        "en": "^3355FFYou already placed\na Cube into the hole.\nYou could take it back\nout and put it in again,\nbut that would just be\na total waste of time.^000000",
+        "pt": "^3355FFVocê já colocou um\nCubo no buraco.\nVocê poderia tirá-lo\ne colocá-lo de volta,\nmas isso seria uma\ntotal perda de tempo.^000000",
+        "es": "^3355FFYa colocaste\nun Cubo en el agujero.\nPodrías quitarlo\ny volverlo a colocar,\npero eso sería una total\npérdida de tiempo.^000000"
+    },
+    "kbrb": {
+        "en": "Polygon",
+        "pt": "Polígono",
+        "es": "Polígono"
+    },
+    "krrb": {
+        "en": "^3355FFFortunately, the\nnondescript Polygon\nthat you have is exactly\nthe same shape as this\nnondescript Polygonal hole.\nThe Polygon fits perfectly,\nalmost as if it were destiny.^000000",
+        "pt": "^3355FFFelizmente, aquele\nindescritível Polígono\nque você possui tem exatamente\na mesma forma que este\nindescritível buraco em Polígono.\nO Polígono se encaixa perfeitamente,\ncomo se fosse destino dele ficar aqui.^000000",
+        "es": "^3355FFPor suerte, el\ninsulso Polígono\nque tienes es exactamente\nde la misma forma que\neste insulso agujero poligonal.\nEl Polígono encaja a la perfección,\ncasi como si fuera su destino.^000000"
+    },
+    "k7rb": {
+        "en": "^3355FFThe Polygon is already\ninserted into the hole.\nTrust that this is as much\nas this Polygon can do for you.^000000",
+        "pt": "^3355FFO Polígono já foi\ncolocado no buraco.\nAcredite, isso é o melhor\nque um Polígono pode fazer por você.^000000",
+        "es": "^3355FFEl Polígono ya está \ninsertado en el agujero.\nConfía en que eso es todo\nlo que el Polígono puede hacer por ti.^000000"
+    },
+    "lLrb": {
+        "en": "^3355FFYou find a box with\nthree distinctively\nshaped holes that\nare now filled with the\nobjects you've inserted.^000000",
+        "pt": "^3355FFVocê encontra uma caixa com\ntrês buracos de\ndiferentes formatos que\nagora estão preenchidos pelos\nobjetos que você colocou.^000000",
+        "es": "^3355FFEncuentras una caja con\ntres agujeros\ncon forma distintiva que\nahora contienen los objetos\nque insertaste.^000000"
+    },
+    "lbrb": {
+        "en": "Open the box.",
+        "pt": "Abra a caixa.",
+        "es": "Abrir la caja."
+    },
+    "lrrb": {
+        "en": "^3355FFYou open the box\nand find that there's\na small card labeled\n''Laboratory Permit'' inside.\nYou pocket this ^000000Laboratory\nPermit^3355FF, knowing that you\nwill be needing it later.",
+        "pt": "^3355FFVocê abre a caixa e\nencontra um pequeno\ncartão onde está \nescrito \nVocê coloca esse ^000000Passe\ndo Laboratório^3355FF no bolso, porque\nsabe que vai precisar dele mais tarde.",
+        "es": "^3355FFAbres la caja\ny notas que hay\nuna pequeña tarjeta con la etiqueta\nPermiso de laboratorio en el interior.\nTe guardas este ^000000Permiso\nde Laboratorio^3355FF porque sabes que\nlo necesitarás más adelante."
+    },
+    "l7rb": {
+        "en": "^3355FFYou find the open box\nwhich used to contain\nthe ^000000Laboratory Permit^3355FF.\nThis box is no longer\nuseful to you now, but\nonce upon a time, its\nmysteries were a challenge.^000000",
+        "pt": "^3355FFVocê encontra uma caixa aberta\nque continha o \n^000000Passe do Laboratório^3355FF.\nEssa caixa não tem\nmais nenhuma utilidade para você,\nmas os seus mistérios\nforam um grande desafio.^000000",
+        "es": "^3355FFEncuentras la caja abierta\nque solía contener\nel ^000000Permiso de Laboratorio^3355FF.\nEsta caja ya no\nes útil para ti pero,\nalguna vez,\nsus misterios fueron todo un desafío.^000000"
+    },
+    "mLrb": {
+        "en": "Door",
+        "pt": "Porta",
+        "es": "Puerta"
+    },
+    "mbrb": {
+        "en": "^3355FFYou've come upon a\ndoor that leads outside.^000000",
+        "pt": "^3355FFVocê encontra uma porta\nque leva para fora.^000000",
+        "es": "^3355FFTe topaste con\nuna puerta que da al exterior.^000000"
+    },
+    "mrrb": {
+        "en": "Exit",
+        "pt": "Sair",
+        "es": "Salir."
+    },
+    "m7rb": {
+        "en": "^3355FFYou found a passage that\nseems to lead somewhere,\nbut you get the feeling that\nyou shouldn't enter it for now.^000000",
+        "pt": "^3355FFVocê encontra uma passagem que\nparece levar a algum lugar,\nmas tem a sensação de que\né melhor não entrar nela por enquanto.^000000",
+        "es": "^3355FFEncontraste un pasaje que\nparece conducir a alguna parte,\npero tienes la sensación de que\nno deberías entrar ahí por ahora.^000000"
+    },
+    "nLrb": {
+        "en": "Sewer Pipe",
+        "pt": "Tubo de Esgoto",
+        "es": "Tubería de aguas residuales"
+    },
+    "nbrb": {
+        "en": "^3355FFYou found some sort\nof large sewage pipe.\nNaturally, the stench\nemanating from inside\nthe pipe is barely endurable.^000000",
+        "pt": "^3355FFVocê encontra uma espécie de\ncano de esgoto.\nNaturalmente, o mau cheiro\nque emana de dentro\ndo cano é quase insuportável.^000000",
+        "es": "^3355FFEncontraste una especie de gran tubería de aguas residuales. Naturalmente, el hedor que emana del interior de la tubería es apenas soportable.^000000"
+    },
+    "nrrb": {
+        "en": "Enter",
+        "pt": "Entrar",
+        "es": "Entrar."
+    }
+}

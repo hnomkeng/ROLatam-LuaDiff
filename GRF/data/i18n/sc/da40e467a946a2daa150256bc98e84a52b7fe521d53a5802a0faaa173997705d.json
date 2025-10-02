@@ -1,0 +1,662 @@
+{
+    "4FsHCA": {
+        "en": "The sensitive-minded eldest son",
+        "pt": "Trish",
+        "es": "Goma Chara"
+    },
+    "4VsHCA": {
+        "en": "- Hold on a second here!! -\n- You have too many items. -\n- That means you can no longer receive any items. -\n- Free up some space -\n- and try again. -",
+        "pt": "Pera lá! Seu inventário está cheio. Esvazie-o um pouco e tente novamente!",
+        "es": "-¡Espera un segundo!\nTienes demasiados objetos.\nEso significa que ya no puedes recibir más objetos.\nLibera algo de espacio\ne inténtalo de nuevo.-"
+    },
+    "4lsHCA": {
+        "en": "[Goma Chara]\nI'm Goma Chara, the eldest daughter of the Charas. These brats are who quicken my ageing process...\nIf you happen to have the amulet that my brother Yota made, I can polish it for you.",
+        "pt": "[Trish Chara]\nEssas crianças estão me fazendo sentir velha... Eu me chamo Trish Chara, e sou a filha mais velha da família Chara.\nSe você possui um amuleto feito pelo meu irmão mais novo, eu posso melhorá-lo para você.",
+        "es": "[Goma Chara]\nSoy Goma Chara, la hija mayor de los Chara. Estos mocosos son los que me hacen envejecer más rápido…\nSi, por casualidad, tienes el amuleto que hizo mi hermano Yota, puedo perfeccionarlo para ti."
+    },
+    "41sHCA": {
+        "en": "Upgrade Amulet",
+        "pt": "Aperfeiçoar Amuleto",
+        "es": "Mejorar el amuleto."
+    },
+    "5FsHCA": {
+        "en": "About the Family",
+        "pt": "Perguntar sobre a família",
+        "es": "Preguntar sobre la familia."
+    },
+    "5VsHCA": {
+        "en": "[Goma Chara]\nYota often makes quality amulets, but he still needs more polishing.\nIf he pays attention to details, his amulets will be even greater. But he just doesn't care.",
+        "pt": "[Trish Chara]\nEsses amuletos podem parecer muito bons, mas eles são um pouco... rudimentares.\nMas eu posso melhorá-los pra você! O que me diz?",
+        "es": "[Goma Chara]\nYota suele fabricar amuletos de calidad, pero le falta perfeccionarse más.\nSi prestara atención a los detalles, sus amuletos serían aún mejores. Pero no le importa."
+    },
+    "5lsHCA": {
+        "en": "Polish the Saurel Amulet.",
+        "pt": "Aperfeiçoar o Amuleto Sardinha",
+        "es": "Perfeccionar el Amuleto Sardina"
+    },
+    "51sHCA": {
+        "en": "Polish the Leaf Amulet.",
+        "pt": "Aperfeiçoar o Amuleto Folha",
+        "es": "Perfeccionar el Amuleto de Hoja."
+    },
+    "6FsHCA": {
+        "en": "Polish the Bunny Amulet.",
+        "pt": "Aperfeiçoar o Amuleto Lebre",
+        "es": "Perfeccionar el Amuleto de Liebre."
+    },
+    "6VsHCA": {
+        "en": "Basic Saurel Charm",
+        "pt": "Amuleto Sardinha I",
+        "es": "Amuleto de Sardina I"
+    },
+    "6lsHCA": {
+        "en": "Fair Saurel Charm",
+        "pt": "Amuleto Sardinha II",
+        "es": "Amuleto de Sardina II"
+    },
+    "61sHCA": {
+        "en": "[Goma Chara]\n~Grins~ This is perfect. Nothing more, nothing less.",
+        "pt": "[Trish Chara]\nEsse amuleto já está perfeito! Nem precisei mexer nele!",
+        "es": "[Goma Chara]\n*Sonríe* Esto es perfecto. Ni más ni menos."
+    },
+    "7FsHCA": {
+        "en": "[Goma Chara]\nShow me your amulet, will you? I can't seem to find it in your inventory.",
+        "pt": "[Trish Chara]\nTem certeza de que você tem um amuleto aí?",
+        "es": "[Goma Chara]\nMuéstrame tu amuleto, ¿quieres? No puedo encontrarlo en tu inventario."
+    },
+    "7VsHCA": {
+        "en": "Basic Leaf Charm",
+        "pt": "Amuleto Folha I",
+        "es": "Amuleto de Hoja I"
+    },
+    "7lsHCA": {
+        "en": "Fair Leaf Charm",
+        "pt": "Amuleto Folha II",
+        "es": "Amuleto de Hoja II"
+    },
+    "71sHCA": {
+        "en": "Basic Bunny Charm",
+        "pt": "Amuleto Lebre I",
+        "es": "Amuleto de Liebre I"
+    },
+    "8FsHCA": {
+        "en": "Fair Bunny Charm",
+        "pt": "Amuleto Lebre II",
+        "es": "Amuleto de Liebre II"
+    },
+    "8VsHCA": {
+        "en": "[Goma Chara]\nLet me. Hmm...{0}, it is.\n...I knew this was going to happen again. Worse, this one must require a lot more time to polish!",
+        "pt": "[Trish Chara]\nHum, então você tem um {0}.\n...Ai, ai... Se as pessoas fizessem esses amuletos direito, eu não precisava ficar arrumando eles.",
+        "es": "[Goma Chara]\nPermíteme. Mmm…{0}, así es.\n…Sabía que esto volvería a pasar. Peor aún, seguro que este requiere mucho más tiempo para perfeccionarse."
+    },
+    "8lsHCA": {
+        "en": "[Goma Chara]\nHey, if you give me <ITEM>Doram Token<INFO>25142</INFO></ITEM>,{0}I'll fix this for you.\n<ITEM>This should produce the <INFO>{1}</INFO></ITEM> function, I guess. How do you like it?",
+        "pt": "[Trish Chara]\nEnfim. Vou precisar de {0} <ITEM>Emblema(s) Doram<INFO>25142</INFO></ITEM>.",
+        "es": "[Goma Chara]\nOye, si me das <ITEM>Fichas Doram<INFO>25142</INFO></ITEM>,{0} arreglaré esto para ti.\n<ITEM>Esto debería producir la función de <INFO>{1}</INFO></ITEM>, supongo. ¿Qué te parece?"
+    },
+    "81sHCA": {
+        "en": "Upgrade",
+        "pt": "Aperfeiçoar",
+        "es": "Mejorar."
+    },
+    "9FsHCA": {
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar."
+    },
+    "9VsHCA": {
+        "en": "[Goma Chara]\nYou should bring more materials. I can't do the job for free.",
+        "pt": "[Trish Chara]\nPoxa, não posso fazer isso de graça! Cadê seus Emblemas Doram?",
+        "es": "[Goma Chara]\nTienes que traer más materiales. No puedo hacer el trabajo gratis."
+    },
+    "9lsHCA": {
+        "en": "[Goma Chara]\nThe inside of this amulet seems pretty tough.\nBut my dexterity is tougher. Tada! Put my brother's amulet to good use.",
+        "pt": "[Trish Chara]\nAqui está! Novinho em folha!",
+        "es": "[Goma Chara]\nEl interior de este amuleto parece bastante firme.\nPero mi destreza lo es aún más. ¡Tarán! Dale un buen uso al amuleto de mi hermano."
+    },
+    "91sHCA": {
+        "en": "[Goma Chara]\nAs you please.",
+        "pt": "[Trish Chara]\nVolte se mudar de ideia.",
+        "es": "[Goma Chara]\nComo quieras."
+    },
+    "+FsHCA": {
+        "en": "[Goma Chara]\nMy father was a born seaman so went out into the sea a long time ago, saying he'll catch the world's largest tuna.",
+        "pt": "[Trish Chara]\nNosso pai é um marinheiro e tanto. Ele saiu de casa há um tempo, com a promessa de que caçaria o maior Atum já visto nos mares do continente de Lasagna.",
+        "es": "[Goma Chara]\nMi padre era un marinero nato, así que hace tiempo salió al mar diciendo que pescaría el atún más grande del mundo."
+    },
+    "+VsHCA": {
+        "en": "[Goma Chara]\nMy mother can be a collector so she would go into the deepmost side of the forest, looking for the odd fruits. She would come and go even before I know it.",
+        "pt": "[Trish Chara]\nJá a nossa mãe vive na floresta, estudando e catalogando plantas e frutas. Ela passa a maior parte do dia lá.",
+        "es": "[Goma Chara]\nMi madre es recolectora, así que se adentra en lo más profundo del bosque en busca de frutas extrañas. Va y viene incluso antes de que me dé cuenta."
+    },
+    "+lsHCA": {
+        "en": "[Goma Chara]\nSo taking care of these bratty brothers has become my responsibility! I wonder why I was born the eldest! I've almost had it!",
+        "pt": "[Trish Chara]\nComo resultado, cabe a mim cuidar dos meus irmãos. Por que é que logo eu fui ser a mais velha?!",
+        "es": "[Goma Chara]\nAsí que cuidar de estos mocosos se convirtió en mi responsabilidad. ¡Me pregunto por qué tuve que ser la mayor! ¡Ya casi lo tengo!"
+    },
+    "+1sHCA": {
+        "en": "[Goma Chara]\nYota! Tidy up your place after making amulets! Pick up the scales of horse mackerels there. Oh, my days...",
+        "pt": "[Trish Chara]\nEi, Abacchio! Que bagunça é essa? Trate de arrumar essa lambança que você fez!",
+        "es": "[Goma Chara]\n¡Yota! ¡Ordena tu espacio después de hacer amuletos! Recoge las escamas de jurel. Oh, no puede ser…"
+    },
+    "/FsHCA": {
+        "en": "[Goma Chara]\nJogi, Dandi is about to burst into crying. Please behave yourself, will you?",
+        "pt": "[Trish Chara]\nMista, você vai fazer o Narancia chorar. Sossega esse faixo!",
+        "es": "[Goma Chara]\nJogi, Dandi está a punto de llorar. Por favor, compórtate, ¿quieres?"
+    },
+    "/VsHCA": {
+        "en": "[Goma Chara]\n~Signs deeply~ My head is spinning!\nI'm sorry but our chit-chat ends here. Time flies when you're busy taking care of little brothers.",
+        "pt": "[Trish Chara]\nMe desculpa, mas como você pode ver, eu estou muito ocupada com as crianças...",
+        "es": "[Goma Chara]\n*Suspira profundo* ¡Me da vueltas la cabeza!\nLo siento, pero nuestra charla termina aquí. El tiempo vuela cuando cuidas a tus hermanitos."
+    },
+    "/lsHCA": {
+        "en": "The diligent second son",
+        "pt": "Abacchio",
+        "es": "Yota Chara"
+    },
+    "/1sHCA": {
+        "en": "[Yota Chara]\nFather, mother. Please come back home safely.\n(He's making something, mumbling.)",
+        "pt": "[Abacchio Chara]\nPapai, mamãe... Voltem logo, por favor.",
+        "es": "[Yota Chara]\nPapá, mamá. Por favor, vuelvan a casa sanos y salvos.\n(Está haciendo algo, murmura)."
+    },
+    "AFwHCA": {
+        "en": "Craft Amulet",
+        "pt": "Fabricar Amuleto",
+        "es": "Crear amuleto."
+    },
+    "AVwHCA": {
+        "en": "[Yota Chara]\n...Do you have someone you're close to and whom you wish for their wellness?\nIf you want an amulet, you can exchange it with the Doram tokens. I have a bunch of amulets with me.",
+        "pt": "[Abacchio Chara]\nO-oi...",
+        "es": "[Yota Chara]\n¿Tienes a alguien cercano a quien le deseas el bien?\nSi quieres un amuleto, puedes canjearlo por Fichas doram. Tengo un montón de amuletos conmigo."
+    },
+    "AlwHCA": {
+        "en": "Basic Saurel Charm",
+        "pt": "Amuleto Sardinha I",
+        "es": "Amuleto de Sardina I"
+    },
+    "A1wHCA": {
+        "en": "Basic Leaf Charm",
+        "pt": "Amuleto Folha I",
+        "es": "Amuleto de Hoja I"
+    },
+    "BFwHCA": {
+        "en": "Basic Bunny Charm",
+        "pt": "Amuleto Lebre I",
+        "es": "Amuleto de Liebre I"
+    },
+    "BVwHCA": {
+        "en": "Shining Branch Charm",
+        "pt": "Amuleto Galho Cintilante",
+        "es": "Amuleto de Rama Brillante"
+    },
+    "BlwHCA": {
+        "en": "Fresh Tuna Charm",
+        "pt": "Amuleto Atum Fresco",
+        "es": "Amuleto de Atún Fresco"
+    },
+    "B1wHCA": {
+        "en": "Plump Earthworm Charm",
+        "pt": "Amuleto Minhocão",
+        "es": "Amuleto de Lombriz"
+    },
+    "CFwHCA": {
+        "en": "[Yota Chara]\n<ITEM>Basic Saurel Charm <INFO>28413</INFO></ITEM> is for my father who is far out to the sea.\nWill you exchange it for {0} <ITEM>Doram Token<INFO>25142</INFO></ITEM>?",
+        "pt": "[Abacchio Chara]\nEu fiz o <ITEM>Amuleto Sardinha I<INFO>28413</INFO></ITEM> enquanto orava pelo meu pai, que está se aventurando pelos mares.\nGostaria de obtê-lo por {0} <ITEM>Emblema(s) Doram<INFO>25142</INFO></ITEM>?",
+        "es": "[Yota Chara]\nEl <ITEM>Amuleto de Sardina I<INFO>28413</INFO></ITEM> es para mi padre que está lejos en el mar.\n¿Lo canjearías por {0} <ITEM>Fichas Doram<INFO>25142</INFO></ITEM>?"
+    },
+    "CVwHCA": {
+        "en": "[Yota Chara]\n<ITEM>Basic Leaf Charm<INFO>28416</INFO></ITEM> is for my mother who should be wandering about the deep side of the forest.\nWill you exchange it for {0} <ITEM>Doram Token<INFO>25142</INFO></ITEM>?",
+        "pt": "[Abacchio Chara]\nEu fiz o <ITEM>Amuleto Folha I<INFO>28416</INFO></ITEM> enquanto orava pela minha mãe, que está na floresta.\nGostaria de obtê-lo por {0} <ITEM>Emblema(s) Doram<INFO>25142</INFO></ITEM>?",
+        "es": "[Yota Chara]\nEl <ITEM>Amuleto de Hoja I<INFO>28416</INFO></ITEM> es para mi madre, que debe estar caminando en lo profundo del bosque.\n¿Lo canjearías por {0} <ITEM>Fichas doram<INFO>25142</INFO></ITEM>?"
+    },
+    "ClwHCA": {
+        "en": "[Yota Chara]\n<ITEM>Basic Bunny Charm<INFO>28419</INFO></ITEM> is for my brothers' health and wellness.\nWill you exchange it for {0} <ITEM>Doram Token<INFO>25142</INFO></ITEM>?",
+        "pt": "[Abacchio Chara]\nEu fiz o <ITEM>Amuleto Lebre I<INFO>28419</INFO></ITEM> enquanto orava pela saúde dos meus irmãos.\nGostaria de obtê-lo por {0} <ITEM>Emblema(s) Doram<INFO>25142</INFO></ITEM>?",
+        "es": "[Yota Chara]\nEl <ITEM>Amuleto de Liebre I<INFO>28419</INFO></ITEM> es para la salud y el bienestar de mis hermanos.\n¿Lo canjearías por {0} <ITEM>Fichas doram<INFO>25142</INFO></ITEM>?"
+    },
+    "C1wHCA": {
+        "en": "[Yota Chara]\n<ITEM>Shining Branch Charm<INFO>28422</INFO></ITEM> is to wish for my mother to return home safely from anywhere in the world.\nWill you exchange it for {0} <ITEM>Doram Token<INFO>25142</INFO></ITEM>?",
+        "pt": "[Abacchio Chara]\nEu fiz o <ITEM>Amuleto Galho Cintilante<INFO>28422</INFO></ITEM> enquanto orava pela segurança da minha mãe.\nGostaria de obtê-lo por {0} <ITEM>Emblema(s) Doram<INFO>25142</INFO></ITEM>?",
+        "es": "[Yota Chara]\nEl <ITEM>Amuleto de Rama Brillante<INFO>28422</INFO></ITEM> es para desear que mi madre vuelva sana y salva a casa desde cualquier parte del mundo.\n¿Lo canjearías por {0} <ITEM>Fichas doram<INFO>25142</INFO></ITEM>?"
+    },
+    "DFwHCA": {
+        "en": "[Yota Chara]\n<ITEM>Fresh Tuna Charm<INFO>28423</INFO></ITEM> is to wish for my father to return home quick with his ship full of tunas.\nWill you exchange it for {0} <ITEM>Doram Token<INFO>25142</INFO></ITEM>?",
+        "pt": "[Abacchio Chara]\nEu fiz o <ITEM>Amuleto Atum Fresco<INFO>28423</INFO></ITEM> enquanto orava para que meu pai encontrasse logo o Atum gigante e voltasse logo pra casa.\nGostaria de obtê-lo por {0} <ITEM>Emblema(s) Doram<INFO>25142</INFO></ITEM>?",
+        "es": "[Yota Chara]\nEl <ITEM>Amuleto de Atún Fresco<INFO>28423</INFO></ITEM> es para desear que mi padre vuelva rápido a casa con su barco lleno de atunes.\n¿Lo canjearías por {0} <ITEM>Fichas doram<INFO>25142</INFO></ITEM>?"
+    },
+    "DVwHCA": {
+        "en": "[Yota Chara]\n<ITEM>Plump Earthworm Charm<INFO>28424</INFO></ITEM> is to wish for easy fishing so that my family won't be starved.\nWill you exchange it for {0} <ITEM>Doram Token<INFO>25142</INFO></ITEM>?",
+        "pt": "[Abacchio Chara]\nEu fiz o <ITEM>Amuleto Minhocão<INFO>28424</INFO></ITEM> enquanto orava para que a gente sempre tenha pescas muito fartas.\nGostaria de obtê-lo por {0} <ITEM>Emblema(s) Doram<INFO>25142</INFO></ITEM>?",
+        "es": "[Yota Chara]\nEl <ITEM>Amuleto de Lombriz<INFO>28424</INFO></ITEM> es para desear por una pesca fácil, para que mi familia no se muera de hambre.\n¿Lo canjearías por {0} <ITEM>Fichas doram<INFO>25142</INFO></ITEM>?"
+    },
+    "DlwHCA": {
+        "en": "Exchange",
+        "pt": "Trocar",
+        "es": "Canjear."
+    },
+    "D1wHCA": {
+        "en": "[Yota Chara]\nI'm sorry. My sister will get pretty mad if I don't sell it for the proper money.{0}Will you come back with X Doram Tokens?",
+        "pt": "[Abacchio Chara]\nSinto muito, mas preciso de {0} Emblema(s) Doram.",
+        "es": "[Yota Chara]\nLo siento. Mi hermana se enojará mucho si no lo vendo por el precio adecuado.{0}¿Volverás con XFichas doram?"
+    },
+    "EFwHCA": {
+        "en": "[Yota Chara]\nThank you. I hope my amulet will be of good use to you...",
+        "pt": "[Abacchio Chara]\nEspero que você goste do Amuleto!",
+        "es": "[Yota Chara]\nGracias. Espero que mi amuleto te sea útil…"
+    },
+    "EVwHCA": {
+        "en": "[Yota Chara]\nDid...did I misspeak, or what?\nI'm not an expert but I did my best.",
+        "pt": "[Abacchio Chara]\nPuxa, sei que os amuletos não são perfeitos, mas me esforcei muito para fazê-los...",
+        "es": "[Yota Chara]\n¿Me… me expresé mal o qué?\nNo soy experto, pero hice lo mejor que pude."
+    },
+    "ElwHCA": {
+        "en": "[Yota Chara]\n...My parents keep going out into the dangerous areas. I'm still a child to help them, so what I do is to make these amulets for them.",
+        "pt": "[Abacchio Chara]\n...Meus pais continuam indo para áreas perigosas. Eu ainda sou criança para ajudá-los, então o que eu faço é fazer esses amuletos para eles.",
+        "es": "[Yota Chara]\n…Mis padres siguen yendo a las zonas peligrosas. Todavía soy solo un niño para ayudarlos, así que les hago estos amuletos."
+    },
+    "E1wHCA": {
+        "en": "[Yota Chara]\nWhat if some bad news reach us even if I try hard making these amulets for their safety?",
+        "pt": "[Abacchio Chara]\nMeu coração quase sai pela boca toda vez que chega uma carta nova...",
+        "es": "[Yota Chara]\n¿Y si aun así nos llegan malas noticias por más que me esfuerce en hacer estos amuletos para cuidarlos?"
+    },
+    "FFwHCA": {
+        "en": "[Yota Chara]\nI get startled each time some mail arrives...",
+        "pt": "[Abacchio Chara]\nMeu coração quase sai pela boca toda vez que chega uma carta nova...",
+        "es": "[Yota Chara]\nMe asusto cada vez que llega un correo…"
+    },
+    "FVwHCA": {
+        "en": "[Dandi Chara]\nWhatever happened to our parents? ~Bursting into crying~",
+        "pt": "[Narancia Chara]\nVai acontecer alguma coisa com o papai e a mamãe?",
+        "es": "[Dandi Chara]\n¿Qué pasó con nuestros padres? *Estalla en llanto*"
+    },
+    "FlwHCA": {
+        "en": "[Jogi Chara]\nWell, then. I'll be your dad!!",
+        "pt": "[Mista Chara]\nSe acontecer, eu vou ser o substituto do papai!",
+        "es": "[Jogi Chara]\nPues bien. ¡Seré tu padre!"
+    },
+    "F1wHCA": {
+        "en": "[Dandi Chara]\n~Keeps crying uncontrollably~ No way!! Mom!! Dad!!",
+        "pt": "[Narancia Chara]\nBuááá! Papai!!! Mamãe!!! Tô com saudades!!!",
+        "es": "[Dandi Chara]\n*Sigue llorando desconsoladamente* ¡De ninguna manera! ¡Mamá! ¡Papá!"
+    },
+    "GFwHCA": {
+        "en": "[Goma Chara]",
+        "pt": "[Trish Chara]",
+        "es": "[Goma Chara]"
+    },
+    "GVwHCA": {
+        "en": "Both will be totally fine and return to us soon. So quit it! Did you really have to make him cry, huh?!",
+        "pt": "Parem de fazer o Narancia chorar! O papai e a mamãe estão bem!",
+        "es": "Ambos están completamente bien y pronto volverán con nosotros. ¡Así que cálmate! ¡¿De verdad tenías que hacerlo llorar, eh?!"
+    },
+    "GlwHCA": {
+        "en": "- Yota became disheartened and started making another amulet, quietly. -",
+        "pt": "*Abacchio volta a fazer Amuletos, mas seu semblante permanece triste.*",
+        "es": "(Yota se desanima y empieza a fabricar otro amuleto, en silencio)."
+    },
+    "G1wHCA": {
+        "en": "The brave third",
+        "pt": "Mista",
+        "es": "Jogi Chara"
+    },
+    "HFwHCA": {
+        "en": "[Jogi Chara]\n~Whirring~\nHere is Jogi, the bomber from Lasagna!\nDrop your weapons and surrender!",
+        "pt": "[Mista Chara]\nEu me chamo Mista! Sou o mais forte de Lasagna!\nLargue suas armas e se renda!",
+        "es": "[Jogi Chara]\n*Zumbido*\n¡Aquí está Jogi, el bombardero de Lasagna!\n¡Tiren sus armas y ríndanse!"
+    },
+    "HVwHCA": {
+        "en": "Act as if you surrender.",
+        "pt": "Fingir se render.",
+        "es": "Actuar como si te rindieras."
+    },
+    "HlwHCA": {
+        "en": "Ignore him.",
+        "pt": "Fingir que não escutou.",
+        "es": "Ignorarlo."
+    },
+    "H1wHCA": {
+        "en": "[Jogi Chara]\nWahaha! Another victory for me! What a rewarding day!\nWhat should we do next?",
+        "pt": "[Mista Chara]\nHahaha! A vitória é minha mais uma vez!\nQuais são suas últimas palavras?",
+        "es": "[Jogi Chara]\n¡Wa, ja, ja! ¡Otra victoria para mí! ¡Qué día tan gratificante!\n¿Qué hacemos ahora?"
+    },
+    "IFwHCA": {
+        "en": "Exchange Weapons for Doram Token",
+        "pt": "Vender armas por Emblemas Doram",
+        "es": "Canjear fichas por un arma."
+    },
+    "IVwHCA": {
+        "en": "[Jogi Chara]\nWhoa, a new weapon! New power!\nWhat are you going to give me? Do you have a lot of weapons? Can I search into them? Will you exchange it for <ITEM>Doram Token <INFO>25142</INFO></ITEM>?",
+        "pt": "[Mista Chara]\nArmas?! Eu quero!\nQue arma você vai me dar? Posso ver?",
+        "es": "[Jogi Chara]\nVaya, ¡un arma nueva! ¡Un nuevo poder!\n¿Qué me darás? ¿Tienes muchas armas? ¿Puedo verlas? ¿Las canjearías por <ITEM>Fichas doram <INFO>25142</INFO></ITEM>?"
+    },
+    "IlwHCA": {
+        "en": "Search",
+        "pt": "Claro!",
+        "es": "Buscar."
+    },
+    "I1wHCA": {
+        "en": "Marvelous Foxtail",
+        "pt": "Cauda de Gato Arcana Intermediária",
+        "es": "Cola de Gato Arcana Intermedia"
+    },
+    "JFwHCA": {
+        "en": "Foxtail Replica",
+        "pt": "Cauda de Gato Bruta Simples",
+        "es": "Cola de Gato Simple"
+    },
+    "JVwHCA": {
+        "en": "Wondrous Foxtail",
+        "pt": "Cauda de Gato Arcana Avançada",
+        "es": "Cola de Gato Arcana Avanzada"
+    },
+    "JlwHCA": {
+        "en": "Intermediate Foxtail Replica",
+        "pt": "Cauda de Gato Bruta Intermediária",
+        "es": "Cola de Gato Intermedia"
+    },
+    "J1wHCA": {
+        "en": "Magic Foxtail",
+        "pt": "Cauda de Gato Arcana Mestra",
+        "es": "Cola de Gato Arcana Maestra"
+    },
+    "KFwHCA": {
+        "en": "Advanced Foxtail Replica",
+        "pt": "Cauda de Gato Bruta Avançada",
+        "es": "Cola de Gato Avanzada"
+    },
+    "KVwHCA": {
+        "en": "Magic Yellow Foxtail",
+        "pt": "Cauda de Gato Arcana Dourada",
+        "es": "Cola de Gato Arcana Dorada"
+    },
+    "KlwHCA": {
+        "en": "Yellow Foxtail Replica",
+        "pt": "Cauda de Gato Bruta Dourada",
+        "es": "Cola de Gato Dorada"
+    },
+    "K1wHCA": {
+        "en": "[Jogi Chara]\nThat's it?",
+        "pt": "[Mista Chara]\nIsso é tudo?",
+        "es": "[Jogi Chara]\n¿Es todo?"
+    },
+    "LFwHCA": {
+        "en": "Search again.",
+        "pt": "Mostrar as armas",
+        "es": "Volver a buscar."
+    },
+    "LVwHCA": {
+        "en": "Stop.",
+        "pt": "É. Tenho que ir agora, tchau!",
+        "es": "Detenerte."
+    },
+    "LlwHCA": {
+        "en": "[Jogi Chara]\n~Scoffs~ Alright, then.",
+        "pt": "[Mista Chara]\nHmph.",
+        "es": "[Jogi Chara]\n*Burla* Bueno."
+    },
+    "L1wHCA": {
+        "en": "[Jogi Chara]\nWhoa! This is ^3131FF{0}^000000!\nExchange it for <ITEM>Doram Token<INFO>25142</INFO></ITEM>!{1}Please? Will you do it, please?",
+        "pt": "[Mista Chara]\n^3131FF{0}^000000! Esse item é demaaaaais!\nOlha, por essa arma eu te dou {1} <ITEM>Emblemas Doram<INFO>25142</INFO></ITEM>! O que me diz?",
+        "es": "[Jogi Chara]\n¡Vaya! ¡Esto es ^3131FF{0}^000000!\n¡Canjéalas por <ITEM>Fichas Doram<INFO>25142</INFO></ITEM>!{1}¿Por favor? ¿Lo harás, por favor?"
+    },
+    "MFwHCA": {
+        "en": "Quit exchanging",
+        "pt": "Não trocar",
+        "es": "Cancelar intercambio."
+    },
+    "MVwHCA": {
+        "en": "[Jogi Chara]\n~Gasps~ The item is gone, just like that!\nPff! Nothing can't stop me. I'll look for something else.",
+        "pt": "[Mista Chara]\nHum, o item desapareceu. O que houve?",
+        "es": "[Jogi Chara]\n*Grito ahogado* ¡El objeto desapareció, así de fácil!\n¡Pff! Nada puede detenerme. Buscaré otra cosa."
+    },
+    "MlwHCA": {
+        "en": "[Jogi Chara]\nYay!! Thanks a mil!\nCan I look for something else?",
+        "pt": "[Mista Chara]\nMaravilha! Valeu!\nO que mais você tem aí?",
+        "es": "[Jogi Chara]\n¡Sí! ¡Mil gracias!\n¿Puedo buscar otra cosa?"
+    },
+    "M1wHCA": {
+        "en": "[Jogi Chara]\n~Giggles~ We should see each other more often!",
+        "pt": "[Mista Chara]\nHeh heh, volte sempre!",
+        "es": "[Jogi Chara]\n*Risita* ¡Deberíamos vernos más a menudo!"
+    },
+    "NFwHCA": {
+        "en": "[Jogi Chara]\nStop lying.",
+        "pt": "[Mista Chara]\nPare de mentir.",
+        "es": "[Jogi Chara]\nNo mientas."
+    },
+    "NVwHCA": {
+        "en": "[Jogi Chara]\nMy sister told me my parents are warriors! They left for a huge adventure!!",
+        "pt": "[Mista Chara]\nMinha irmã disse que os nossos pais são heróis!",
+        "es": "[Jogi Chara]\n¡Mi hermana me dijo que mis padres son guerreros! ¡Se fueron a una gran aventura!"
+    },
+    "NlwHCA": {
+        "en": "[Jogi Chara]\nI'll join the Militia and become great like my parents!\nI'm still too young to join the Militia, but, I'm positive that I can be the ace of the band once I join it because I'm committed to training myself.",
+        "pt": "[Mista Chara]\nEu também quero ser um herói! Vou me tornar um bravo Farfelle!",
+        "es": "[Jogi Chara]\n¡Me uniré a la milicia y seré tan genial como mis padres!\nAún soy muy joven para unirme a la milicia, pero seguro podré ser el as de la banda cuando me una porque me comprometí a entrenar."
+    },
+    "N1wHCA": {
+        "en": "[Jogi Chara]\nMy family members are very lazy. Unless I train them based on my strong belief, they can never become warriors.\nMost notoriously, my elder and younger brother can be a real pain in my neck!",
+        "pt": "[Mista Chara]\nDessa forma, poderei proteger meus irmãos!",
+        "es": "[Jogi Chara]\nLos miembros de mi familia son muy holgazanes. A menos que los entrene apoyándome en mi firme creencia, nunca podrán convertirse en guerreros.\nSobre todo, mi hermano mayor y mi hermano menor, que pueden ser una verdadera molestia."
+    },
+    "OFwHCA": {
+        "en": "[Jogi Chara]\nDandi! Today's training is to <put 10 earthworms on the head!> Get over here!",
+        "pt": "[Mista Chara]\nNarancia, vamos treinar!",
+        "es": "[Jogi Chara]\n¡Dandi! El entrenamiento de hoy es <put 10 earthworms on the head!> ¡Vengan aquí!"
+    },
+    "OVwHCA": {
+        "en": "[Dandi Chara]\n~Bursting into crying~ Goma Chara!!",
+        "pt": "[Narancia Chara]\nBuááá! Papai!!! Mamãe!!! Tô com saudades!!!",
+        "es": "[Dandi Chara]\n*Estalla en llanto* ¡Goma Chara!"
+    },
+    "OlwHCA": {
+        "en": "[Jogi Chara]\n~Makes a whiffing sound~\n~Thumping sound~\nHuh? Where do you think you're going?",
+        "pt": "[Mista Chara]\nEi... Ei! Onde você tá indo?",
+        "es": "[Jogi Chara]\n*Hace un soplido*\n*Sonido de golpes*\n¿Eh? ¿Adónde crees que vas?"
+    },
+    "O1wHCA": {
+        "en": "The skittish fourth",
+        "pt": "Narancia",
+        "es": "Dandi Chara"
+    },
+    "PFwHCA": {
+        "en": "[Dandi Chara]\n~Shrieks~ Hi...Hiya...\nYou really startled me...I thought it was Jogi.",
+        "pt": "[Narancia Chara]\nO que você tem aí?\nSe for algo útil para nós, eu posso te dar alguns <ITEM>Emblemas Doram<INFO>25142</INFO></ITEM> em troca...",
+        "es": "[Dandi Chara]\n*Chilla* Ho… Hola…\nVaya susto me has dado… Pensé que eras Jogi."
+    },
+    "PVwHCA": {
+        "en": "Exchange Armors for Doram Token",
+        "pt": "Vender armaduras por Emblemas Doram",
+        "es": "Canjear fichas por armadura."
+    },
+    "PlwHCA": {
+        "en": "[Dandi Chara]\nDo you mind if I search you to see the items you have with you?\nIf I find an item suitable for Jogi, I'll pay <ITEM>Doram Token<INFO>25142</INFO> </ITEM>....",
+        "pt": "[Narancia Chara]\nO que você tem aí?\nSe for algo útil para nós, eu posso te dar alguns <ITEM>Emblemas Doram<INFO>25142</INFO></ITEM> em troca...",
+        "es": "[Dandi Chara]\n¿Te importa si miro los objetos que llevas?\nSi encuentro un objeto adecuado para Jogi, te pagaré con <INFO>25142</INFO><ITEM>Fichas doram </ITEM>…"
+    },
+    "P1wHCA": {
+        "en": "Doram Suit",
+        "pt": "Veste Básica de Doram",
+        "es": "Túnica Básica de Doram"
+    },
+    "QFwHCA": {
+        "en": "Doram Manteau",
+        "pt": "Manto Básico de Doram",
+        "es": "Capa Básica de Doram"
+    },
+    "QVwHCA": {
+        "en": "Doram Shoes",
+        "pt": "Sapato Básico de Doram",
+        "es": "Zapato Básico de Doram"
+    },
+    "QlwHCA": {
+        "en": "Fresh Grass Necklace",
+        "pt": "Colar da Semente",
+        "es": "Collar de Semillas"
+    },
+    "Q1wHCA": {
+        "en": "Cute Grass Necklace",
+        "pt": "Colar da Raiz",
+        "es": "Collar de Raíz"
+    },
+    "RFwHCA": {
+        "en": "Charming Grass Necklace",
+        "pt": "Colar da Árvore",
+        "es": "Collar de Árbol"
+    },
+    "RVwHCA": {
+        "en": "Basic Saurel Charm",
+        "pt": "Amuleto Sardinha I",
+        "es": "Amuleto de Sardina I"
+    },
+    "RlwHCA": {
+        "en": "Basic Leaf Charm",
+        "pt": "Amuleto Folha I",
+        "es": "Amuleto de Hoja I"
+    },
+    "R1wHCA": {
+        "en": "Basic Bunny Charm",
+        "pt": "Amuleto Lebre I",
+        "es": "Amuleto de Liebre I"
+    },
+    "SFwHCA": {
+        "en": "Fresh Tuna Charm",
+        "pt": "Amuleto Atum Fresco",
+        "es": "Amuleto de Atún Fresco"
+    },
+    "SVwHCA": {
+        "en": "Shining Branch Charm",
+        "pt": "Amuleto Galho Cintilante",
+        "es": "Amuleto de Rama Brillante"
+    },
+    "SlwHCA": {
+        "en": "Plump Earthworm Charm",
+        "pt": "Amuleto Minhocão",
+        "es": "Amuleto de Lombriz"
+    },
+    "S1wHCA": {
+        "en": "Luxurious Doram Suit",
+        "pt": "Veste Elegante de Doram",
+        "es": "Elegante Traje de Doram"
+    },
+    "TFwHCA": {
+        "en": "Luxurious Doram Manteau",
+        "pt": "Manto Elegante de Doram",
+        "es": "Elegante Capa de Doram"
+    },
+    "TVwHCA": {
+        "en": "Luxurious Doram Shoes",
+        "pt": "Sapato Elegante de Doram",
+        "es": "Elegante Zapato de Doram"
+    },
+    "TlwHCA": {
+        "en": "Fair Saurel Charm",
+        "pt": "Amuleto Sardinha II",
+        "es": "Amuleto de Sardina II"
+    },
+    "T1wHCA": {
+        "en": "Fair Leaf Charm",
+        "pt": "Amuleto Folha II",
+        "es": "Amuleto de Hoja II"
+    },
+    "UFwHCA": {
+        "en": "Fair Bunny Charm",
+        "pt": "Amuleto Lebre II",
+        "es": "Amuleto de Liebre II"
+    },
+    "UVwHCA": {
+        "en": "Elegant Doram Suit",
+        "pt": "Veste Luxuosa de Doram",
+        "es": "Lujosa Túnica de Doram"
+    },
+    "UlwHCA": {
+        "en": "Elegant Doram Manteau",
+        "pt": "Manto Luxuoso de Doram",
+        "es": "Lujoso Manto de Doram"
+    },
+    "U1wHCA": {
+        "en": "Elegant Doram Shoes",
+        "pt": "Sapato Luxuoso de Doram",
+        "es": "Lujoso Zapato de Doram"
+    },
+    "VFwHCA": {
+        "en": "Advanced Saurel Charm",
+        "pt": "Amuleto Sardinha III",
+        "es": "Amuleto de Sardina III"
+    },
+    "VVwHCA": {
+        "en": "Advanced Leaf Charm",
+        "pt": "Amuleto Folha III",
+        "es": "Amuleto de Hoja III"
+    },
+    "VlwHCA": {
+        "en": "Advanced Bunny Charm",
+        "pt": "Amuleto Lebre III",
+        "es": "Amuleto de Liebre III"
+    },
+    "V1wHCA": {
+        "en": "[Dandi Chara]\n...I think That's just it. Should I look over it again, or stop right here?",
+        "pt": "[Narancia Chara]\nAcho que isso é tudo. Certo?",
+        "es": "[Dandi Chara]\n…Creo que eso es todo. ¿Lo reviso de nuevo o me detengo aquí?"
+    },
+    "WFwHCA": {
+        "en": "[Dandi Chara]\nAlright...Thank you for your...help, I guess...",
+        "pt": "[Narancia Chara]\nOK, valeu...",
+        "es": "[Dandi Chara]\nBueno… gracias por tu… ayuda, supongo…"
+    },
+    "WVwHCA": {
+        "en": "[Dandi Chara]\nWhoa, this must be ^3131FF{0}^000000!!\ndon't you want to exchange this with {1} <ITEM>Doram Token<INFO>25142</INFO></ITEM>?",
+        "pt": "[Narancia Chara]\n^3131FF{0}^000000! Não creio que você tem esse item!\nVocê não quer trocar essa armadura por {1} <ITEM>Emblemas Doram<INFO>25142</INFO></ITEM>...?",
+        "es": "[Dandi Chara]\n¡Vaya, esto debe ser ^3131FF{0}^000000!\n¿No quieres canjear esto por {1} de <ITEM>Fichas doram<INFO>25142</INFO></ITEM>?"
+    },
+    "WlwHCA": {
+        "en": "[Dandi Chara]\nWhoa! Was it some kind of magic? The item is gone!\nI'll look for something else.",
+        "pt": "[Narancia Chara]\nUé, cadê o item?",
+        "es": "[Dandi Chara]\n¡Vaya! ¿Fue algún tipo de magia? ¡El objeto desapareció!\nBuscaré otra cosa."
+    },
+    "W1wHCA": {
+        "en": "[Dandi Chara]\nThank you.\nCan I look for something else?",
+        "pt": "[Narancia Chara]\nValeu!\nDeixa eu ver se você tem mais alguma coisa...",
+        "es": "[Dandi Chara]\nGracias.\n¿Puedo buscar otra cosa?"
+    },
+    "XFwHCA": {
+        "en": "[Dandi Chara]\nI know. I searched into your inventory too much. Sorry...",
+        "pt": "[Narancia Chara]\nEh, eu falei alguma coisa errada? Desculpe...",
+        "es": "[Dandi Chara]\nLo sé. Ya busqué demasiado en tu inventario. Lo siento…"
+    },
+    "XVwHCA": {
+        "en": "[Dandi Chara]\nYes...",
+        "pt": "[Narancia Chara]\nTudo bem...",
+        "es": "[Dandi Chara]\nSí…"
+    },
+    "XlwHCA": {
+        "en": "[Dandi Chara]\nShe gets angry easily but makes new clothes for me, saying I deserve pretty ones.\nI like her...",
+        "pt": "[Narancia Chara]\nMinha irmã fica brava muito fácil, mas ela sempre cuida da gente...\nEla é muito legal...",
+        "es": "[Dandi Chara]\nSe enfada con facilidad, pero me hace ropa nueva y bonita, y dice que me la merezco.\nMe agrada…"
+    },
+    "X1wHCA": {
+        "en": "[Dandi Chara]\nMy brothers can be pretty mean. So I try my best to obey what Dandi tells me to.\nStill, Yota would never show his smiles, while Jogi would bring me hideous stuff like an earthworm, saying I should be tougher. ~Makes a sobbing sound~",
+        "pt": "[Narancia Chara]\nJá os meus irmãos são fogo...\nO Abacchio nunca sorri, e o Mista só me maltrata...",
+        "es": "[Dandi Chara]\nMis hermanos pueden ser bastante crueles. Así que intento obedecer a Dandi.\nAun así, Yota nunca me sonríe y Jogi me trae cosas horribles, como una lombriz de tierra, y me dice que debería ser más fuerte. *Solloza*"
+    },
+    "YFwHCA": {
+        "en": "[Dandi Chara]\nWhat's more, Jogi keeps wandering near the forest, saying He's going for the Militia. Mom said it's dangerous...",
+        "pt": "[Narancia Chara]\nAlém disso, Mista fica vagando perto da floresta, dizendo que vai atrás dos bandidos. Mamãe disse que é perigoso...",
+        "es": "[Dandi Chara]\nAdemás, Jogi se la pasa vagando por el bosque, diciendo que se irá a la milicia. Mamá dijo que es peligroso…"
+    },
+    "YVwHCA": {
+        "en": "[Dandi Chara]\nWhat if a monster takes my brother away? That monster's gotta hurt a lot...",
+        "pt": "[Narancia Chara]\nE se um monstro levar meu irmão? Esse monstro deve estar doendo muito...",
+        "es": "[Dandi Chara]\n¿Y si un monstruo se lleva a mi hermano? Ese monstruo debe hacer mucho daño…"
+    },
+    "YlwHCA": {
+        "en": "[Dandi Chara]\nDo you happen to have any piece of armor to spare for my brother? Would you give it to me? I'll pay for it...",
+        "pt": "[Narancia Chara]\nVocê tem alguma peça de armadura sobrando para o meu irmão? Você me daria? Eu pago...",
+        "es": "[Dandi Chara]\nPor casualidad, ¿tienes alguna pieza de armadura de sobra para mi hermano? ¿Me la darías? Pagaré por ella…"
+    },
+    "Y1wHCA": {
+        "en": "^FF0000- Note -^000000\n^FF0000Cards, Enchants and Refine^000000\n^FF0000will be lost in the exchange.^000000\n^FF0000Please, have that in mind.^000000\n^FF0000Do you want to continue?^000000",
+        "pt": "^FF0000- Aviso -^000000\n^FF0000Cartas, encantos e refinos^000000\n^FF0000serão perdidos na troca.^000000\n^FF0000Esteja ciente disso.^000000\n^FF0000Deseja continuar?^000000",
+        "es": "^FF0000- Aviso -^000000\n^FF0000Cartas, encantamientos y refinamiento^000000\n^FF0000Se perderán en el intercambio.^000000\n^FF0000Por favor, tenlo en cuenta.^000000\n^FF0000¿Quieres continuar?^000000"
+    }
+}

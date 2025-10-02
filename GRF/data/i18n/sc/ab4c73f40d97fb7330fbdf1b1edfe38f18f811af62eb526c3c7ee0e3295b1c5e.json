@@ -1,0 +1,1592 @@
+{
+    "IC8UAQ": {
+        "en": "Rachel Priest Quest",
+        "pt": "Missão da Sacerdotisa de Rachel",
+        "es": "Rachel Priest Búsqueda"
+    },
+    "IS8UAQ": {
+        "en": "ma1= {0}\noz= {1}\nbosuk= {2}",
+        "pt": "ma1= {0}\noz= {1}\nbosuk= {2}",
+        "es": "ma 1= {0}\noz= {1}\nbosuk= {2}"
+    },
+    "Ii8UAQ": {
+        "en": "ma1",
+        "pt": "ma1",
+        "es": "ma 1"
+    },
+    "Iy8UAQ": {
+        "en": "oz",
+        "pt": "oz",
+        "es": "oz"
+    },
+    "JC8UAQ": {
+        "en": "bosuk",
+        "pt": "bosuk",
+        "es": "bosuk"
+    },
+    "JS8UAQ": {
+        "en": "Pious Follower",
+        "pt": "Seguidor Devoto",
+        "es": "Seguidor piadoso"
+    },
+    "Ji8UAQ": {
+        "en": "[Arunafeltz Follower]\nExcuse me, but\nare you {0}?",
+        "pt": "[Seguidor de Arunafeltz]\nPerdão, mas\nvocê é {0}?",
+        "es": "[Seguidora de Arunafeltz]\nDisculpa,\n¿eres {0}?"
+    },
+    "Jy8UAQ": {
+        "en": "Yes.",
+        "pt": "Sim.",
+        "es": "Sí."
+    },
+    "KC8UAQ": {
+        "en": "[Arunafeltz Follower]\nHigh Priest Zhed\nwould like to see\nyou right away, {0}.",
+        "pt": "[Seguidor de Arunafeltz]\nO Sumo Sacerdote Zhed\ngostaria de ver\nvocê imediatamente, {0}.",
+        "es": "[Seguidora de Arunafeltz]\nEl sumo sacerdote Zhed…\nquiere reunirse\ncontigo de inmediato, {0}."
+    },
+    "KS8UAQ": {
+        "en": "May ask why?",
+        "pt": "Posso perguntar por quê?",
+        "es": "¿Se puede saber por qué?"
+    },
+    "Ki8UAQ": {
+        "en": "[Arunafeltz Follower]\nWell, I actually have no\nidea. I'm only supposed to\ninform you that he's looking\nfor you. Please visit High\nPriest Zhed in the second\nright room of the temple.",
+        "pt": "[Seguidor de Arunafeltz]\nBem, na verdade não tenho\nideia. Eu só posso\ninformar que ele está procurando\npor você. Por favor, visite o\nSumo Sacerdote Zhed na segunda sala à\ndireita do templo.",
+        "es": "[Seguidora de Arunafeltz]\nMmm, la verdad, no tengo\nidea. Solo debo\ninformarte que quiere\nverte. Visita al sumo\nsacerdote Zhed en la segunda\nsala de la derecha en el templo."
+    },
+    "Ky8UAQ": {
+        "en": "[Arunafeltz Follower]\nMay Freya bless you\non your journeys...",
+        "pt": "[Seguidor de Arunafeltz]\nQue Freya o abençoe\nem suas jornadas...",
+        "es": "[Seguidora de Arunafeltz]\nQue Freya te bendiga\nen tus emprendimientos…"
+    },
+    "LC8UAQ": {
+        "en": "High Priest Zhed",
+        "pt": "Sumo Sacerdote Zhed",
+        "es": "Sumo Sacerdote Zhed"
+    },
+    "LS8UAQ": {
+        "en": "^3355FFWait a second!\nRight now, you're carrying\ntoo many things with you.\nPlease come back after\nusing the Kafra Service\nto store some of your items.^000000",
+        "pt": "^3355FFEspere um segundo!\nVocê está carregando\nmuitas coisas.\nPor favor, volte depois de\nusar o Serviço Kafra\npara armazenar alguns de seus itens.^000000",
+        "es": "^3355FF¡Un momento!\nLlevas.\ndemasiadas cosas.\nVuelve tras\nusar el servicio de Kafra\npara almacenar algunos objetos.^000000"
+    },
+    "Li8UAQ": {
+        "en": "[High Priest Zhed]\nFor some reason, you look\nfamiliar to me. Are you supposed^FFFFFF  ^000000 to be here? Otherwise, you should\nleave this place if you don't have^FFFFFF^000000 the proper authorization...",
+        "pt": "[Sumo Sacerdote Zhed]\nPor alguma razão, você me parece\nfamiliar. Você deveria^FFFFFF ^000000 estar aqui? Caso contrário, você deveria\nsair deste lugar se não tiver^FFFFFF ^000000 a devida autorização...",
+        "es": "[Sumo sacerdote Zhed]\nPor algún motivo me resultas\nfamiliar. ¿Deberías^FFFFFF ^000000estar aquí? Tendrás que\nsalir si no tienes^FFFFFF^000000 la autorización correspondiente…"
+    },
+    "Ly8UAQ": {
+        "en": "I'm here on Vincent's behalf.",
+        "pt": "Estou aqui em nome do Vincent.",
+        "es": "Vine de parte de Vincent."
+    },
+    "MC8UAQ": {
+        "en": "[High Priest Zhed]\nVincent sent you? I see.\nYou must have been looking\nfor me. I am High Priest Zhed,\nand I understand that you\nhave a package for me.",
+        "pt": "[Sumo Sacerdote Zhed]\nVincent o enviou? Entendo.\nVocê deve estar procurando\npor mim. Sou o Sumo Sacerdote Zhed,\ne acredito que você\ntenha um pacote para mim.",
+        "es": "[Sumo sacerdote Zhed]\n¿Te envía Vincent? Ya veo.\nEntonces, seguro querías\nverme. Soy el sumo sacerdote Zhed;\ntengo entendido que\ntienes una entrega para mí."
+    },
+    "MS8UAQ": {
+        "en": "[High Priest Zhed]\nUsually, Vincent doesn't\ntrust strangers to deliver\nthese packages, but perhaps\nthis was necessitated by some\nstrange circumstance. Anyway,\nlet's see what he sent me...",
+        "pt": "[Sumo Sacerdote Zhed]\nNormalmente, Vincent não confia\nem estranhos para entregar\nesses pacotes, mas talvez\nisso tenha sido necessário por alguma\ncircunstância incomum. De qualquer forma,\nvamos ver o que ele me enviou...",
+        "es": "[Sumo sacerdote Zhed]\nEn general, Vincent no\nconfía en nadie para entregar\nestos paquetes, pero quizás\nesto fue necesario por alguna\nsituación particular. En fin,\na ver qué me envió…"
+    },
+    "Mi8UAQ": {
+        "en": "[High Priest Zhed]\nHm? What's this?\nVincent sent a note?\nI suppose this must be\nimportant. Give me just a\nmoment to read this, please...",
+        "pt": "[Sumo Sacerdote Zhed]\nHã? O que é isso?\nVincent enviou um bilhete?\nSuponho que isso deve ser\nimportante. Me dê um\nmomento para ler isso, por favor...",
+        "es": "[Sumo sacerdote Zhed]\n¿Eh? ¿Qué es esto?\n¿Vincent envió una nota?\nSupongo que será\nimportante. Dame un\nmomento para leerla…"
+    },
+    "My8UAQ": {
+        "en": "[High Priest Zhed]\n...............................\n...Hrrrmm. Vincent. Now\nI understand. So he was being\nintentionally cold towards Jenny^FFFFFF  ^000000 and Phobe so other people\nwouldn't get suspicious...",
+        "pt": "[Sumo Sacerdote Zhed]\n...............................\n...Hum. Vincent. Agora\nentendi. Então ele estava sendo\nintencionalmente rude com Jenny^FFFFFF ^000000 e Phobe para que as outras pessoas\nnão suspeitassem...",
+        "es": "[Sumo sacerdote Zhed]\n…\nJuuum… Vincent. Ya\nentiendo. Así que se comportaba\ncon frialdad ante Jenny^FFFFFF^000000 y Phobe a propósito, para que los demás\nno sospecharan…"
+    },
+    "NC8UAQ": {
+        "en": "[High Priest Zhed]\nStill, I don't think he\nhad to do that--it might\nhave been a little too\nmuch. Well, I really\nappreciate your help\nin this matter, adventurer.",
+        "pt": "[Sumo Sacerdote Zhed]\nAinda assim, não acho que ele\nprecisava fazer isso.\nPode ter sido um pouco demais.\nBom, eu realmente\nagradeço sua ajuda\nnessa questão, aventureiro.",
+        "es": "[Sumo sacerdote Zhed]\nAun así, dudo que\nfuera necesario… puede que\nhaya sido un poco\nmucho. Bueno, de verdad\nagradezco tu ayuda\ncon este asunto, trotamundos."
+    },
+    "NS8UAQ": {
+        "en": "[High Priest Zhed]\nBut tell me, did you only\nhelp Vincent and risk your\nlife because you were being\npaid? Were you only being\nmotivated by the money?",
+        "pt": "[Sumo Sacerdote Zhed]\nMas me diga, você só\najudou Vincent e arriscou sua vida\nporque estava sendo\npago? Você estava sendo\nmotivado apenas pelo dinheiro?",
+        "es": "[Sumo sacerdote Zhed]\nPero dime algo: ¿solo\nayudaste a Vincent y arriesgaste la\nvida porque ibas a\ncobrar? ¿Solo te\nmotivó el dinero?"
+    },
+    "Ni8UAQ": {
+        "en": "Actually... I was just curious.",
+        "pt": "Na verdade... Eu só estava curioso.",
+        "es": "En realidad… me daba curiosidad."
+    },
+    "Ny8UAQ": {
+        "en": "[High Priest Zhed]\nYou were doing this just to\nsatisfy your curiosity? Heh\nheh, that's very interesting.\nThat's also the best attitude\nfor a brave adventurer. I like\nthat. May I have your name?",
+        "pt": "[Sumo Sacerdote Zhed]\nVocê estava fazendo isso apenas para\nsatisfazer sua curiosidade? Haha, isso é muito interessante.\nTambém é a melhor atitude\npara um aventureiro corajoso. Eu gosto\ndisso. Posso saber seu nome?",
+        "es": "[Sumo sacerdote Zhed]\n¿Lo hiciste solo para\nsaciar la curiosidad? Je,\nje, qué interesante.\nTambién es la mejor actitud\npara ser trotamundos valiente. Me gusta\neso. ¿Cómo te llamas?"
+    },
+    "OC8UAQ": {
+        "en": "Tell him your name.",
+        "pt": "Dizer a ele seu nome.",
+        "es": "Responder con tu nombre."
+    },
+    "OS8UAQ": {
+        "en": "[High Priest Zhed]\n{0}...\nYes, that's a fine name.\nIt suits you well. I'll be sure\nto remember that. Again, let\nme thank you for risking your\nlife to retrive my belongings.",
+        "pt": "[Sumo Sacerdote Zhed]\n{0}...\nSim, esse é um belo nome.\nCombina muito bem com você. Vou me lembrar disso.\nMais uma vez, deixe-me\nagradecer-lhe por arriscar\nsua vida para recuperar meus pertences.",
+        "es": "[Sumo sacerdote Zhed]\n{0}…\nSí, qué buen nombre.\nTe queda bien. Procuraré\nrecordarlo. De nuevo, te\nagradezco por arriesgar la\nvida para recuperar mis pertenencias."
+    },
+    "Oi8UAQ": {
+        "en": "[High Priest Zhed]\nI shall be praying for\nFreya to guide and protect\nyou in your travels. Peace\nbe with you, {0}.",
+        "pt": "[Sumo Sacerdote Zhed]\nEstarei orando para que\nFreya o guie e o proteja\nem suas viagens. Que a paz\nesteja com você, {0}.",
+        "es": "[Sumo sacerdote Zhed]\nRezaré a\nFreya para que te guíe y te proteja\nen tus viajes. Que la paz\nesté contigo, {0}."
+    },
+    "Oy8UAQ": {
+        "en": "[High Priest Zhed]\nAh, {0}...\nI appreciate that you've\nmanaged to retrieve my\nbelongings for me. You are\na truly talented adventurer.\nMay Freya protect you...",
+        "pt": "[Sumo Sacerdote Zhed]\nAh, {0}...\nEu agradeço por você ter\nrecuperado meus\npertences para mim. Você é\num aventureiro realmente talentoso.\nQue Freya o proteja...",
+        "es": "[Sumo sacerdote Zhed]\nAh, {0}…\nagradezco que hayas\nrecuperado mis\npertenencias. Tienes\ntalento como trotamundos.\nQue Freya te proteja…"
+    },
+    "PC8UAQ": {
+        "en": "[High Priest Zhed]\nAh, good, I was hoping you'd\nshow up here sooner or later.\nI have a favor to ask of you\nsince I'm too busy to do it\nmyself, and I trust you more\nthan any other adventurer.",
+        "pt": "[Sumo Sacerdote Zhed]\nAh, que bom, eu esperava que você\naparecesse aqui mais cedo ou mais tarde.\nTenho um favor a lhe pedir\njá que estou muito ocupado para fazer isso\ne confio mais em você do que em qualquer outro aventureiro.",
+        "es": "[Sumo sacerdote Zhed]\nAh, bien, imaginé que\nvendrías tarde o temprano.\nTengo que pedirte un favor\nporque tengo mucho por hacer y no puedo hacerlo\nyo; además, confío más en ti\nque en nadie."
+    },
+    "PS8UAQ": {
+        "en": "[High Priest Zhed]\nHowever, before I give you\nthe details, you must know\nthat this favor must be kept\nsecret. In other words, once\nI explain the task, you must\naccept my request.",
+        "pt": "[Sumo Sacerdote Zhed]\nNo entanto, antes de eu lhe dar\nos detalhes, você deve saber\nque esse favor deve ser mantido\nem segredo. Em outras palavras, assim que\neu explicar a tarefa, você deve\naceitar minha solicitação.",
+        "es": "[Sumo sacerdote Zhed]\nSin embargo, antes de darte\nlos detalles, debes saber\nque este favor debe mantenerse\nen secreto. En otras palabras, en cuanto\nte explique la tarea, deberás\naceptar el pedido."
+    },
+    "Pi8UAQ": {
+        "en": "Let me think about it.",
+        "pt": "Vou pensar nisso.",
+        "es": "Lo pensaré."
+    },
+    "Py8UAQ": {
+        "en": "Yes, sure.",
+        "pt": "Sim, claro.",
+        "es": "Sí, claro."
+    },
+    "QC8UAQ": {
+        "en": "[High Priest Zhed]\nI understand, but if you\nchange your mind, please\ncome back and let me know.\nIt's very hard for me to find\nsomeone that I can really\nrely on to do this for me...",
+        "pt": "[Sumo Sacerdote Zhed]\nEu entendo, mas se você\nmudar de ideia, por favor\nvolte e me avise.\nÉ muito difícil para mim encontrar\nalguém em quem eu possa realmente\nconfiar para fazer isso...",
+        "es": "[Sumo sacerdote Zhed]\nEntiendo, pero si\ncambias de opinión,\nvuelve y avísame.\nMe cuesta mucho encontrar\na alguien en quien pueda\nconfiar para hacerlo…"
+    },
+    "QS8UAQ": {
+        "en": "[High Priest Zhed]\nAh, I'm relieved to see\nthat you accept. Don't worry,\nthis task isn't complicated,\nnor will it require much\nin the way of sacrifice.",
+        "pt": "[Sumo Sacerdote Zhed]\nAh, fico aliviado em ver\nque você aceitou. Não se preocupe,\nessa tarefa não é complicada,\nnem exigirá muito\nem termos de sacrifício.",
+        "es": "[Sumo sacerdote Zhed]\nAh, me alivia\nque aceptes. Descuida,\nla tarea no es complicada\nni requerirá mucho\nsacrificio."
+    },
+    "Qi8UAQ": {
+        "en": "[High Priest Zhed]\nAs you may already know,\nour country of Arunafeltz\nworships the goddess Freya.\nThere's almost no separation\nbetween politics, society,\nand our religion, really.",
+        "pt": "[Sumo Sacerdote Zhed]\nComo você já deve saber,\nnosso país de Arunafeltz\nadora a deusa Freya.\nQuase não há separação\nentre política, sociedade,\ne religião, na verdade.",
+        "es": "[Sumo sacerdote Zhed]\nComo ya debes saber,\nnuestro país, Arunafeltz,\nadora a la diosa Freya.\nCasi no hay diferencia\nentre política, sociedad\ny religión, la verdad."
+    },
+    "Qy8UAQ": {
+        "en": "[High Priest Zhed]\nNow, the leader of our\nnational religion, our pope,\nis a direct servant of Freya\nand delivers her messages\nto us. As such, she must live\nby very strict guidelines.",
+        "pt": "[Sumo Sacerdote Zhed]\nA líder de nossa\nreligião nacional, nossa Papisa,\né uma serva direta de Freya\ne transmite suas mensagens\npara nós. Como tal, ela precisa seguir regras muito rígidas.",
+        "es": "[Sumo sacerdote Zhed]\nBien, la líder de la\nreligión nacional, la papisa,\nsirve directamente a Freya\ny transmite sus mensajes\nal pueblo. Como tal, debe seguir\nnormas muy estrictas."
+    },
+    "RC8UAQ": {
+        "en": "[High Priest Zhed]\nOur pope is curious about\nthe outside world and wishes\nto learn more about what lies\nbeyond Arunafeltz, but she\ncannot come easily by this\nsort of knowledge.",
+        "pt": "[Sumo Sacerdote Zhed]\nNossa Papisa está curiosa sobre\no mundo exterior e deseja\naprender mais sobre o que existe\nalém de Arunafeltz, mas ela\nnão consegue obter facilmente esse\ntipo de conhecimento.",
+        "es": "[Sumo sacerdote Zhed]\nLa papisa siente intriga por\nel mundo exterior y desea\nconocer más lo que hay\nmás allá de Arunafeltz, pero\nno le resulta fácil conseguir ese\ntipo de información."
+    },
+    "RS8UAQ": {
+        "en": "[High Priest Zhed]\nFirstly, she cannot leave\nRachel, the place where the\nspirit of goddess Freya dwells.\nSecondly, all citizens and priests are forbidden to leave the city in\norder to preserve our sanctity.",
+        "pt": "[Sumo Sacerdote Zhed]\nEm primeiro lugar, ela não pode deixar\nRachel, o lugar onde o\nespírito da deusa Freya habita.\nEm segundo lugar, todos os cidadãos e sacerdotes estão proibidos de deixar a cidade \na fim de preservar nossa santidade.",
+        "es": "[Sumo sacerdote Zhed]\nPrimero, no puede irse de\nRachel; es donde\nreside el espíritu de la diosa Freya.\nSegundo, los ciudadanos y el clero tienen prohibido salir de la ciudad,\na fin de preservar la santidad."
+    },
+    "Ri8UAQ": {
+        "en": "[High Priest Zhed]\nThese are implicit rules that^FFFFFF     ^000000 normally aren't discussed openly,\nbut everyone follows them to\nprevent from being stigmatized.\nFrankly, I think it's somewhat shameful, but we're working on it.",
+        "pt": "[Sumo Sacerdote Zhed]\nEssas são regras implícitas que^FFFFFF ^000000 normalmente não são discutidas abertamente,\nmas todos as seguem para\nevitar a estigmatização.\nFrancamente, acho que é um pouco vergonhoso, mas estamos trabalhando nisso.",
+        "es": "[Sumo sacerdote Zhed]\nSon normas implícitas que,^FFFFFF^000000 en general, no se debaten expresamente,\npero todo el mundo las respeta para\nevitar la deshonra.\nA decir verdad, me resulta lamentable, pero lo estamos estudiando."
+    },
+    "Ry8UAQ": {
+        "en": "[High Priest Zhed]\nFurthermore, our pope must\nmaintain her image of aloof\npiety, so it'd be inappropriate of her to openly question outside\nworld affairs. Although, such\nknowledge would benefit her...",
+        "pt": "[Sumo Sacerdote Zhed]\nAlém disso, nossa Papisa deve\nmanter a imagem da religiosidade indiferente\nportanto, seria inapropriado de sua parte questionar abertamente\nos assuntos do mundo exterior. No entanto, esse\nconhecimento a beneficiaria...",
+        "es": "[Sumo sacerdote Zhed]\nAdemás, la papisa debe\nmostrarse distante\nen su devoción; sería inapropiado que pregunte de frente por los\nasuntos del exterior. Sin embargo, esos\nconocimientos la ayudarían…"
+    },
+    "SC8UAQ": {
+        "en": "[High Priest Zhed]\nThat is why the high priests\ndecided to enlist a trustworthy\nadventurer to inform our pope\nabout the outside world. Now\nyou understand why I've asked\nyou to keep all of this secret.",
+        "pt": "[Sumo Sacerdote Zhed]\nÉ por isso que os sumos sacerdotes\ndecidiram recrutar um aventureiro confiável\npara informar nossa Papisa\nsobre o mundo exterior. Agora\nvocê entende por que eu pedi\nque mantivesse tudo isso em segredo.",
+        "es": "[Sumo sacerdote Zhed]\nPor eso, los sumos sacerdotes\ndecidieron acudir a alguien de confianza,\nun trotamundos, para que informe a la papisa\nsobre el mundo exterior. Ahora\nentenderás por qué te pido\nque lo mantengas en secreto."
+    },
+    "SS8UAQ": {
+        "en": "[High Priest Zhed]\nYou won't need to divulge\noutrageous secrets or anything\nlike that. I presume mundane\ndetails would be enough to\nplease her. Just let her be\nable to envision your homeland.",
+        "pt": "[Sumo Sacerdote Zhed]\nVocê não precisará divulgar\nsegredos ultrajantes ou qualquer coisa assim.\nPresumo que detalhes mundanos\nseriam suficientes para\nagradá-la. Apenas deixe que ela\nvisualize sua terra natal.",
+        "es": "[Sumo sacerdote Zhed]\nNo hace falta que divulgues\nsecretos escandalosos ni nada\npor el estilo. Imagino que lo mundano\nde los detalles bastará para\ncomplacerla. Permítele\nimaginar tu tierra natal."
+    },
+    "Si8UAQ": {
+        "en": "[High Priest Zhed]\nPersonally, I think it would\nbe refreshing for our pope to\nhear a few of your stories as\nshe is always worshipping\nour goddess on the behalf of\neveryone in our glorious city.",
+        "pt": "[Sumo Sacerdote Zhed]\nPessoalmente, acho que seria\nrevigorante para a nossa Papisa\nouvir algumas de suas histórias, já que\nela está sempre adorando\nnossa deusa em nome de\ntodos em nossa gloriosa cidade.",
+        "es": "[Sumo sacerdote Zhed]\nYo opino que sería\ninnovador que la papisa\nconociera algunas de tus historias;\nse pasa todo el tiempo rindiendo culto\na la diosa en nombre de\ntoda la gente de esta gloriosa ciudad."
+    },
+    "Sy8UAQ": {
+        "en": "[High Priest Zhed]\nUnfortunately, I cannot escort\nyou to the priestess, but I will\nrelate the means to which you\ncan gain an audience with her.\nFirst, you will need a ^FF0000High\nPriest's Recommendation^000000.",
+        "pt": "[Sumo Sacerdote Zhed]\nInfelizmente, não posso te acompanhar até\na sacerdotisa, mas vou\nte falar o que é necessário para conseguir uma audiência com ela.\nPrimeiro, você precisará de uma ^FF0000Recomendação do Sumo Sacerdote^000000.",
+        "es": "[Sumo sacerdote Zhed]\nPor desgracia, no puedo escoltarte\nhacia la sacerdotisa, pero te\ncontaré cómo\nconseguirás una audiencia con ella.\nPrimero, necesitas la ^FF0000recomendación\nde un sumo sacerdote^000000."
+    },
+    "TC8UAQ": {
+        "en": "[High Priest Zhed]\nI will write that for you, so\nthere's no need to concern\nyourself with that. Next, you\nwill need to gather ^FF000040 Glacial\nHearts^000000 as symbolic proof of\nyour strength and purity.",
+        "pt": "[Sumo Sacerdote Zhed]\nEu vou escrever isso para você, então\nnão precisa se preocupar\ncom isso. Em seguida, você\nprecisará reunir ^FF000040 Corações Glaciais^000000 como prova simbólica de\nsua força e pureza.",
+        "es": "[Sumo sacerdote Zhed]\nYo la escribiré, así que\nno te preocupes\npor eso. Luego,\ndebes conseguir ^FF000040 Corazones\nglaciales^000000; es evidencia simbólica de\ntu fuerza y pureza."
+    },
+    "TS8UAQ": {
+        "en": "[High Priest Zhed]\nWhile I finish writing this\nrecommendation, let me tell\nyou how to get to the pope's\noffice where you must go once\nyou gather 40 Glacial Hearts.",
+        "pt": "[Sumo Sacerdote Zhed]\nEnquanto termino de escrever esta\nrecomendação, deixe-me lhe dizer\ncomo chegar à sala da Papisa,\nonde você deve ir quando\nreunir os 40 Corações Glaciais.",
+        "es": "[Sumo sacerdote Zhed]\nMientras termino de escribir la\nrecomendación, te contaré\ncómo llegar a la papisa y la\noficina a la que debes ir cuando\nconsigas los 40 Corazones glaciales."
+    },
+    "Ti8UAQ": {
+        "en": "[High Priest Zhed]\nHead west from the chapel\nin the center of the temple,\nand then enter a door guarded\nby two soldiers. Show them your\nrecommendation and Glacial Hearts, and they should grant you passage.",
+        "pt": "[Sumo Sacerdote Zhed]\nSiga para oeste a partir da capela\nno centro do templo,\ne, em seguida, entre em uma porta guardada\npor dois soldados. Mostre a eles a\nrecomendação e os Corações Glaciais, e eles lhe darão passagem.",
+        "es": "[Sumo sacerdote Zhed]\nVe al oeste de la capilla,\nen el centro del templo,\ny luego pasa por una puerta vigilada\npor dos soldados. Muéstrales la\nrecomendación y los Corazones glaciales; deberían dejarte pasar."
+    },
+    "Ty8UAQ": {
+        "en": "[High Priest Zhed]\nAh, here you are.\nI've finished writing\nyour recommendation.\nWell then, I guess I'll\nsee you after you've\ncompleted this task.",
+        "pt": "[Sumo Sacerdote Zhed]\nAh, aqui está você.\nTerminei de escrever\nsua recomendação.\nCerto, acho que vou\nver você depois de ter\nconcluído essa tarefa.",
+        "es": "[Sumo sacerdote Zhed]\nAh, aquí estás.\nTerminé de escribir\nla recomendación.\nBien, supongo que\nte veré cuando hayas\ncompletado la tarea."
+    },
+    "UC8UAQ": {
+        "en": "^3355FFYou received a High\nPriest's recommendation.^000000",
+        "pt": "^3355FFVocê recebeu uma Recomendação do Sumo Sacerdote.^000000",
+        "es": "^3355FFRecibiste la\nrecomendación de un sumo sacerdote.^000000"
+    },
+    "US8UAQ": {
+        "en": "[High Priest Zhed]\nOnce you gather\n^FF000040 Glacial Hearts^000000,\nyou can show them, along\nwith the recommendation I've\nwritten for you, to the soldiers^FFFFFF  ^000000 guarding the pope's office.",
+        "pt": "[Sumo Sacerdote Zhed]\nApós coletar os\n^FF000040 Corações Glaciais^000000,\nvocê só precisa mostrar eles e a recomendação que escrevi\npara os soldados^FFFFFF ^000000 que guardam a sala da Papisa.",
+        "es": "[Sumo sacerdote Zhed]\nCuando consigas\n^FF000040 Corazones glaciales^000000,\nmuéstralos, junto\ncon la recomendación que\nte escribí, a los soldados^FFFFFF^000000 que custodian la oficina de la papisa."
+    },
+    "Ui8UAQ": {
+        "en": "[High Priest Zhed]\nWhen you're ready to go\nto the pope's office, just\nhead west from the chapel\nto the center of the temple:\nthis is where the entrance is.",
+        "pt": "[Sumo Sacerdote Zhed]\nQuando você estiver pronto para ir\npara a sala da Papisa, basta\nseguir para oeste a partir da capela\naté o o centro do templo:\nÉ ali que fica a entrada da sala.",
+        "es": "[Sumo sacerdote Zhed]\nCuando tengas todo listo para ir\na la oficina de la papisa,\nve al oeste de la capilla\nal centro del templo:\nahí está la entrada."
+    },
+    "Uy8UAQ": {
+        "en": "[High Priest Zhed]\nAh, thank you so much\nfor spending some time\nwith the pope for me.\nI can tell that she really\nenjoyed speaking to you.",
+        "pt": "[Sumo Sacerdote Zhed]\nAh, muito obrigado\npor passar algum tempo\ncom a Papisa por mim.\nPosso ver que ela \ngostou muito de falar com você.",
+        "es": "[Sumo sacerdote Zhed]\nAh, muchas gracias\npor dedicarle tiempo\na la papisa por mí.\nMe doy cuenta de que\nle gustó mucho hablar contigo."
+    },
+    "VC8UAQ": {
+        "en": "[High Priest Zhed]\nI am curious, though...\nOur pope is unaccustomed\nto speaking with outsiders,\nso I assume that you have\nyour own questions after\nyour conversation with her...",
+        "pt": "[Sumo Sacerdote Zhed]\nMas estou curioso...\nNossa Papisa não está acostumada\na falar com pessoas de fora,\nportanto, presumo que você tenha\nsuas próprias perguntas após\nconversar com ela...",
+        "es": "[Sumo sacerdote Zhed]\nPero me intriga algo…\nLa papisa no está acostumbrada\na hablar con extraños;\nsupongo que tendrás\npreguntas luego de\nconversar con ella…"
+    },
+    "VS8UAQ": {
+        "en": "Well, she did mention some Holy Ground...",
+        "pt": "Bom, ela falou de um Solo Sagrado...",
+        "es": "Pues, ella mencionó un Suelo sagrado…"
+    },
+    "Vi8UAQ": {
+        "en": "[High Priest Zhed]\nWhat...?!\nShe mentioned\nthe Holy Ground...?!",
+        "pt": "[Sumo Sacerdote Zhed]\nO quê...?!\nEla mencionou\no Solo Sagrado...?!",
+        "es": "[Sumo sacerdote Zhed]\n¡¿Qué?!\n¿Mencionó \nel Suelo sagrado?"
+    },
+    "Vy8UAQ": {
+        "en": "[High Priest Zhed]\nThe Holy Ground is a place\nwhere all humans, including\nthe pope, have been forbidden.\nWe used to allow people to\nvisit in the past, but...",
+        "pt": "[Sumo Sacerdote Zhed]\nO Solo Sagrado é um lugar\nonde todos os humanos, inclusive\na Papisa, foram proibidos.\nNós costumávamos permitir que as pessoas\nvisitassem no passado, mas...",
+        "es": "[Sumo sacerdote Zhed]\nEl Suelo sagrado es un lugar\nal que todos los humanos, incluso\nla papisa, tienen prohibido entrar.\nAntes permitíamos que la gente\nlo visitara, pero…"
+    },
+    "WC8UAQ": {
+        "en": "[High Priest Zhed]\nOnly the gods can access\nthat place now. Listen, if\nthe other priests ask about\nyour conversation with the\npope, please do not make any\nmention of the Holy Ground.",
+        "pt": "[Sumo Sacerdote Zhed]\nSomente os deuses podem acessar\nesse lugar agora. Ouça, se\nos outros sacerdotes perguntarem sobre\nsua conversa com a Papisa, por favor, não mencione o Solo Sagrado.",
+        "es": "[Sumo sacerdote Zhed]\nAhora, solo los dioses pueden ir\nallí. Oye, si\nlos otros sacerdotes preguntan por\ntu conversación con la\npapisa, no digas\nnada sobre el Suelo sagrado."
+    },
+    "WS8UAQ": {
+        "en": "[High Priest Zhed]\nPlease don't ask me\nwhy, but believe me that\nit's very important that\nyou feign ignorance of the\nHoly Ground's existence!",
+        "pt": "[Sumo Sacerdote Zhed]\nPor favor, não me pergunte\npor que, mas acredite\nque é muito importante que\nvocê finja não saber da existência do Solo Sagrado!",
+        "es": "[Sumo sacerdote Zhed]\nTe pido que no me preguntes\npor qué, pero créeme:\n¡es muy importante que\nsimules no saber que\nexiste el Suelo sagrado!"
+    },
+    "Wi8UAQ": {
+        "en": "[????]\nExcuse me, Zhed?\nMay I speak with you\nfor a moment? I need\nto talk to you about\na private matter...",
+        "pt": "[????]\nCom licença, Zhed?\nPosso falar com você\npor um momento? Eu preciso\nfalar sobre\num assunto particular...",
+        "es": "[¿?]\nDisculpa, ¿Zhed?\n¿Puedo hablar contigo\nun momento? Debo\nhablarte sobre\nun asunto privado…"
+    },
+    "Wy8UAQ": {
+        "en": "[High Priest Zhed]\nEr, yes, of course!\nExcuse me for a moment...\nWhile you're waiting for me,\nwhy don't you relax in the\nnext room? Don't forget:\nthere is no Holy Ground.",
+        "pt": "[Sumo Sacerdote Zhed]\nAh, sim, claro!\nMe dê licença por um momento...\nEnquanto espera por mim,\npor que não relaxa na sala ao lado?\nE não se esqueça:\nnão existe nenhum Solo Sagrado.",
+        "es": "[Sumo sacerdote Zhed]\nEh, sí, ¡claro!\nDisculpa un momento…\nMientras me esperas,\ndescansa un poco en\nla sala de al lado. Y no lo olvides:\nel Suelo sagrado no existe."
+    },
+    "XC8UAQ": {
+        "en": "Okay.",
+        "pt": "Está bem.",
+        "es": "Está bien."
+    },
+    "XS8UAQ": {
+        "en": "[High Priest Zhed]\nI'm sorry, but we're not\nquite finished with our\ndiscussion. Why don't you\nwait and relax in the next room\nover there in the meantime?",
+        "pt": "[Sumo Sacerdote Zhed]\nSinto muito, mas ainda não terminamos\nnossa conversa.\nPor que você não\nespera e relaxa na sala ao lado\n, enquanto isso?",
+        "es": "[Sumo sacerdote Zhed]\nLo siento, pero aún no\nterminamos de\nhablar. Te pido que\nesperes y descanses en esa sala de al lado\nmientras tanto."
+    },
+    "Xi8UAQ": {
+        "en": "[High Priest Zhed]\nI apologize for making\nyou wait for so long: I had\nsome crucial matters to\ndiscuss. Now, that look\non your face tells me that\nyou have a pressing question.",
+        "pt": "[Sumo Sacerdote Zhed]\nPeço desculpas por ter feito\nvocê esperar tanto. Eu tinha\nalguns assuntos cruciais para\ndiscutir. Agora, esse olhar\nem seu rosto me diz que\nvocê tem uma pergunta urgente.",
+        "es": "[Sumo sacerdote Zhed]\nTe pido disculpas por hacerte\nesperar tanto. Tenía\nasuntos muy importantes por\nconversar. Bien, esa mirada\nque me echas delata que\ntienes una pregunta acuciante."
+    },
+    "Xy8UAQ": {
+        "en": "Ask about Bekento",
+        "pt": "Perguntar sobre Bekento",
+        "es": "Preguntar por Bekento."
+    },
+    "YC8UAQ": {
+        "en": "[High Priest Zhed]\nBekento? Ah, you must\nhave been speaking to\nHigh Priestess Niren.\nShe's the only one that\ncalls me that. You see, my\nfull name is Zhed Bekento.",
+        "pt": "[Sumo Sacerdote Zhed]\nBekento? Ah, você deve\nter conversado com a\nSuma Sacerdotisa Niren.\nEla é a única que me chama assim.\nMeu\nnome completo é Zhed Bekento.",
+        "es": "[Sumo sacerdote Zhed]\n¿Bekento? Ah, se ve que\nestuviste hablando con\nla suma sacerdotisa Niren.\nEs la única que\nme llama así. Te cuento: mi\nnombre completo es Zhed Bekento."
+    },
+    "YS8UAQ": {
+        "en": "[High Priest Zhed]\nSpeaking of which...\nDid Niren ask you anything\nor tell you something that\nwas out of the ordinary?",
+        "pt": "[Sumo Sacerdote Zhed]\nFalando nisso...\nA Niren perguntou alguma coisa para você\nou disse algo\nfora do comum?",
+        "es": "[Sumo sacerdote Zhed]\nHablando de eso…\n¿Niren te preguntó \no te contó algo\nfuera de lo normal?"
+    },
+    "Yi8UAQ": {
+        "en": "^3355FFAfter a little hesitation,\nyou tell High Priest Zhed\nabout your conversation\nwith High Priestess Niren.^000000",
+        "pt": "^3355FFDepois de um pouco de hesitação,\nvocê conta ao Sumo Sacerdote Zhed\nsobre sua conversa\ncom a Suma Sacerdotisa Niren.^000000",
+        "es": "^3355FFTras vacilar un poco,\nle cuentas al sumo sacerdote Zhed\nsobre tu conversación\ncon la suma sacerdotisa Niren.^000000"
+    },
+    "Yy8UAQ": {
+        "en": "[High Priest Zhed]\nHmm, I see.\nYes. That sounds\nlike something she'd do.\nI'll explain it all later, but\nright now, I need to rest.\nI'm getting old, you know.",
+        "pt": "[Sumo Sacerdote Zhed]\nHum, entendi.\nSim. Isso parece\nalgo que ela faria.\nExplicarei tudo mais tarde, mas\nagora, preciso descansar.\nEstou ficando velho, sabe.",
+        "es": "[Sumo sacerdote Zhed]\nMmm, entiendo.\nSí. Me resulta\nesperable de ella.\nTe lo explicaré más adelante, pero\nahora debo descansar.\nYa no estoy tan joven."
+    },
+    "ZC8UAQ": {
+        "en": "[High Priest Zhed]\nAh, but before you go, let\nme warn you not to ^FF0000go near\nthe Holy Ground^000000. I repeat,\nstay away from the Holy Ground.",
+        "pt": "[Sumo Sacerdote Zhed]\nAh, mas antes de você ir, deixe-me\navisá-lo para não ^FF0000 se aproximar\ndo Solo Sagrado^000000. Eu repito,\nnão se aproxime do Solo Sagrado.",
+        "es": "[Sumo sacerdote Zhed]\nAh, sí. Antes de irte,\nte advierto que no te ^FF0000acerques\nal Suelo sagrado^000000. Repito:\nno te acerques al Suelo sagrado."
+    },
+    "ZS8UAQ": {
+        "en": "^3355FFThe Holy Ground...\nWhy is High Priest Zhed\nso adamant about protecting\nthe Holy Ground? Regardless...\nIf you want to go there, then\njust go there. Who'll stop you?^000000",
+        "pt": "^3355FFO solo sagrado...\nPor que o Sumo Sacerdote Zhed\nestá tão determinado em proteger\no Solo Sagrado? De qualquer forma...\nSe você quiser ir até lá, então\nvá. Quem vai te impedir?^000000",
+        "es": "^3355FFEl Suelo sagrado…\n¿Por qué el sumo sacerdote Zhed\ninsiste tanto en proteger\nel Suelo sagrado? No importa…\nSi quieres ir allí,\nve y ya. ¿Quién te detendrá?^000000"
+    },
+    "Zi8UAQ": {
+        "en": "[High Priest Zhed]\nWhatever you do, whatever\njourneys you take, please\nmake sure that you stay\naway from the Holy Ground!",
+        "pt": "[Sumo Sacerdote Zhed]\nNão importa o que você faça, ,nem quais jornadas inicie, por favor\ncertifique-se de ficar\nlonge do Solo Sagrado!",
+        "es": "[Sumo sacerdote Zhed]\nHagas lo que hagas, sea cual sea\nel viaje que emprendas,\n¡procura mantenerte\nlejos del Suelo sagrado!"
+    },
+    "Zy8UAQ": {
+        "en": "^3355FFNow, more than ever,\nyou feel compelled to\nenter the Holy Ground.^000000",
+        "pt": "^3355FFAgora, mais do que nunca,\nvocê se sente obrigado a\nentrar no Solo Sagrado.^000000",
+        "es": "^3355FFAhora más que nunca,\nsientes la necesidad de\nir al Suelo sagrado.^000000"
+    },
+    "aC8UAQ": {
+        "en": "[High Priest Zhed]\nOh, it's you.\nLet me guess...\nAfter everything I said,\nyou still went ahead and\nvisited the Holy Ground,\ndidn't you? Oh, well...",
+        "pt": "[Sumo Sacerdote Zhed]\nAh, é você.\nDeixe-me adivinhar...\nMesmo depois de tudo o que eu disse,\nvocê foi em frente e\nvisitou o Solo Sagrado,\nnão foi? Fazer o quê...",
+        "es": "[Sumo sacerdote Zhed]\nAh, eres tú.\nA ver si adivino…\nCon todo lo que dije,\nigual te lanzaste y\nfuiste al Suelo sagrado,\n¿cierto? En fin…"
+    },
+    "aS8UAQ": {
+        "en": "Did something happen?",
+        "pt": "Aconteceu alguma coisa?",
+        "es": "¿Pasó algo?"
+    },
+    "ai8UAQ": {
+        "en": "[High Priest Zhed]\nWell, honestly, I've been\ntemporarily suspended from\nwork, but no need to worry.\nIt's not your fault. I've been\nin conflict with the other High\nPriests for a while, anyway.",
+        "pt": "[Sumo Sacerdote Zhed]\nPara ser sincero, eu fui\ntemporariamente suspenso do\ntrabalho, mas não se preocupe,\na culpa não é sua. Eu estou\nem conflito com os outros\nSumos Sacerdotes há algum tempo.",
+        "es": "[Sumo sacerdote Zhed]\nLa verdad, me\nsuspendieron por un tiempo del\ntrabajo, pero no te preocupes.\nNo es tu culpa. Ya estoy\nen malos términos con los otros sumos\nsacerdotes desde hace un tiempo."
+    },
+    "ay8UAQ": {
+        "en": "[High Priest Zhed]\nPlease don't worry about it.\nIf not this, they would have\nfound some other way to attack\nme. It would only be a matter\nof time. They're exaggerating^FFFFFF     ^000000 your intrusion for their benefit.",
+        "pt": "[Sumo Sacerdote Zhed]\nPor favor, não se preocupe com isso.\nSe não fosse isso, eles teriam\nencontrado outra maneira de me atacar.\nEra só uma questão de tempo.\nEles estão exagerando^FFFFFF ^000000 sua intrusão em benefício deles.",
+        "es": "[Sumo sacerdote Zhed]\nNo te preocupes, en serio.\nSi no fuera por esto, habrían\nbuscado otra forma de\natacarme. Era cuestión\nde tiempo. Exageran^FFFFFF^000000 lo de tu intromisión para sacar provecho."
+    },
+    "bC8UAQ": {
+        "en": "[High Priest Zhed]\nAll I want is for\nArunafeltz to be safe\nand at peace. I hope this\nland is not twisted by the\ngreedy humans. I hope all will\nwork according to Freya's will.",
+        "pt": "[Sumo Sacerdote Zhed]\nTudo o que eu quero é que\nArunafeltz esteja seguro\ne em paz. Espero que essa\nterra não seja deturpada pela\nganância dos humanos. Espero que tudo dê certo\nde acordo com a vontade de Freya.",
+        "es": "[Sumo sacerdote Zhed]\nYo solo quiero que\nArunafeltz sea un lugar seguro\ny tenga paz. Ojalá que esta\ntierra no se corrompa con\nla codicia humana. Ojalá todo se\nresuelva según la voluntad de Freya."
+    },
+    "bS8UAQ": {
+        "en": "[High Priest Zhed]\nAh, and please do not\nblame Niren. She must have\nher own reasons for her own\nactions. She has changed\nmuch but in the end, I think\nthat we are still friends.",
+        "pt": "[Sumo Sacerdote Zhed]\nAh, e por favor não\nculpe a Niren. Ela deve ter\nsuas próprias razões para \nfazer o que fez. Ela mudou\nmuito, mas, no final, acho que\nque ainda somos amigos.",
+        "es": "[Sumo sacerdote Zhed]\nAh, sí. También te pido que no\nculpes a Niren. Seguro tendrá \nsus propias razones para\nhacer lo que hizo. Cambió\nmucho, pero, a fin de cuentas, creo\nque aún es mi amiga."
+    },
+    "bi8UAQ": {
+        "en": "[High Priest Zhed]\nOne last thing:\ntry not to let the\nother priests catch you\ndoing anything forbidden.\nIt'd be a little embarassing\nfor me, you understand.",
+        "pt": "[Sumo Sacerdote Zhed]\nUma última coisa:\ntente não deixar que os\noutros sacerdotes te peguem\nfazendo algo proibido.\nSeria um pouco embaraçoso\npara mim, você entende?",
+        "es": "[Sumo sacerdote Zhed]\nLo último:\nprocura que no\nte pesquen los otros sacerdotes\nhaciendo algo que está prohibido.\nSería humillante\npara mí. Espero que entiendas."
+    },
+    "by8UAQ": {
+        "en": "[High Priest Zhed]\nStill, you were secretly\ninvited here, so I'm sure\nthat only a very few of them\nwould be able to recognize\nyou. In the end, you'll do\nwhat you will, right?",
+        "pt": "[Sumo Sacerdote Zhed]\nAinda assim, sua presença aqui era segredo, então tenho certeza\nque apenas alguns deles\nseriam capazes de te reconhecer.\nNo fim das contas, você fará\no que quiser, certo?",
+        "es": "[Sumo sacerdote Zhed]\nDicho eso, fue en secreto que\nte invitaron a venir; seguro\nque no serán muchos quienes\npodrán\nreconocerte. Al final, harás\nlo que quieras, ¿verdad?"
+    },
+    "cC8UAQ": {
+        "en": "[High Priest Zhed]\n...I think I know what\nyou saw in the Holy Ground.\nI'm sure that you have much\nto ask, but now isn't the time\nto seek for answers. Please,\nyou must be patient.",
+        "pt": "[Sumo Sacerdote Zhed]\n...acho que eu sei o que\nvocê viu no Solo Sagrado.\nTenho certeza de que você tem muitas perguntas, mas agora não é o momento\npara buscar respostas. Por favor,\nvocê deve ter paciência.",
+        "es": "[Sumo sacerdote Zhed]\nCreo que sé lo que\nviste en Suelo sagrado.\nSeguro tendrás muchas\npreguntas, pero no es momento\nde buscar respuestas. Te ruego que\ntengas paciencia."
+    },
+    "cS8UAQ": {
+        "en": "[High Priest Zhed]\nUntil the right time\ncomes, I want you not\nto tell anyone else what\nyou saw in the Holy Ground.",
+        "pt": "[Sumo Sacerdote Zhed]\nAté que chegue a hora certa,\nnão quero que você\nconte a mais ninguém o que\nque viu no Solo Sagrado.",
+        "es": "[Sumo sacerdote Zhed]\nHasta que llegue el momento adecuado,\nquiero que no\nle digas a nadie más lo que\nviste en Suelo sagrado."
+    },
+    "ci8UAQ": {
+        "en": "[High Priest Zhed]\nWell then, adventurer,\nthank you for coming by.\nI need to go lay down now,\nso if you'll let me rest...",
+        "pt": "[Sumo Sacerdote Zhed]\nMuito bem, aventureiro,\nobrigado por ter vindo.\nPreciso ir me deitar agora,\nentão, se você puder me deixar descansar...",
+        "es": "[Sumo sacerdote Zhed]\nMuy bien, trotamundos,\ngracias por venir.\nAhora debo ir a acostarme;\ndéjame descansar…"
+    },
+    "cy8UAQ": {
+        "en": "[High Priest Zhed]\nAh, it's been a while,\nhasn't it? You look well,\nand I'm doing fine as you\ncan see. What can I do\nfor you today, {0}?",
+        "pt": "[Sumo Sacerdote Zhed]\nAh, já faz um tempo,\nnão é mesmo? Você parece bem,\ne eu estou indo muito bem, como\npode ver. O que posso fazer\npor você hoje, {0}?",
+        "es": "[Sumo sacerdote Zhed]\nAh, hace mucho que no nos vemos,\n¿cierto? Te veo bien,\ny yo también estoy bien,\ncomo ves. ¿En qué te puedo\nayudar, {0}?"
+    },
+    "dC8UAQ": {
+        "en": "I just wanted to say hi.",
+        "pt": "Eu só queria dizer oi.",
+        "es": "Solo quería saludar."
+    },
+    "dS8UAQ": {
+        "en": "Ask About Veins Incident",
+        "pt": "Perguntar sobre o Incidente de Veins",
+        "es": "Preguntar por el incidente de Veins."
+    },
+    "di8UAQ": {
+        "en": "[High Priest Zhed]\nAs you well know, I'm only\na High Priest in title, and\nlost much of my influence\namongst many of the other\npriests for my views.",
+        "pt": "[Sumo Sacerdote Zhed]\nComo você bem sabe, Sumo Sacerdote agora é apenas um título para mim.\nEu perdi muito de minha influência\nentre a maioria dos outros\nsacerdotes por causa das minhas opiniões.",
+        "es": "[Sumo sacerdote Zhed]\nComo sabes, yo solo\ntengo el título de sumo sacerdote;\nperdí mucho poder\ncon varios de los otros\nsacerdotes debido a mis puntos de vista."
+    },
+    "dy8UAQ": {
+        "en": "[High Priest Zhed]\nStill, I have faith that\njustice and good will\nprevail over the corruption\nthat plagues our priests,\nso long as good people\nare willing to act.",
+        "pt": "[Sumo Sacerdote Zhed]\nMesmo assim, tenho fé que\na justiça e o bem\nprevalecerão sobre a corrupção\nque assola nossos sacerdotes,\ncontanto que as pessoas boas\nestejam dispostas a agir.",
+        "es": "[Sumo sacerdote Zhed]\nAun así, tengo fe en que\nque la justicia y la buena voluntad\nprevalecerán sobre la corrupción\nque pulula entre los sacerdotes,\nsiempre y cuando haya gente buena\ndispuesta a hacer algo."
+    },
+    "eC8UAQ": {
+        "en": "[High Priest Zhed]\nVeins incident?\nI haven't heard of\nanything... Well, perhaps\nif you'd elaborate, then\nI'd understand a bit more.",
+        "pt": "[Sumo Sacerdote Zhed]\nIncidente de Veins?\nNão sei de\nnada... Bem, talvez\nse você me explicar melhor,\neu entenda um pouco mais.",
+        "es": "[Sumo sacerdote Zhed]\n¿El incidente de Veins?\nNo me enteré de\nnada… A ver, tal vez,\nsi me explicas de qué hablas,\nentienda un poco más."
+    },
+    "eS8UAQ": {
+        "en": "^3355FFYou told High Priest\nZhed about the group of\nsmugglers arrested in Veins.^000000",
+        "pt": "^3355FF Você conta ao Sumo Sacerdote\nZhed sobre o grupo de contrabandistas presos em Veins.^000000",
+        "es": "^3355FFLe cuentas al sumo sacerdote\nZhed sobre el grupo de\ncontrabandistas detenidos en Veins.^000000"
+    },
+    "ei8UAQ": {
+        "en": "[High Priest Zhed]\nOh, I think I did hear\nsomething about that earlier.\nLet's see now... Ah, right.\nNiren mentioned something\nstrange about them...",
+        "pt": "[Sumo Sacerdote Zhed]\nAh, acho que ouvi\nalgo sobre isso antes.\nDeixe eu pensar... Ah, certo.\nA Niren mencionou algo\nestranho sobre eles...",
+        "es": "[Sumo sacerdote Zhed]\nAh, creo que oí hablar\nde algo de eso hace un rato.\nVamos a ver… Ah, sí.\nNiren mencionó algo\nextraño sobre ellos…"
+    },
+    "ey8UAQ": {
+        "en": "[High Priest Zhed]\nThe smugglers were with\na high ranking official from\nthe Rune-Midgard Kingdom,\nwhich is why Niren was so\nhesitant to take any action\nagainst them for a while.",
+        "pt": "[Sumo Sacerdote Zhed]\nOs contrabandistas estavam com\num oficial de alto escalão do\ndo Reino de Rune-Midgard,\nPor isso, a Niren \nhesitou em tomar qualquer atitude\ncontra eles por um momento.",
+        "es": "[Sumo sacerdote Zhed]\nLos contrabandistas estaban con\nun funcionario de alto rango del\nreino de Rune-Midgard;\npor eso Niren\ndudó bastante sobre si hacer algo\ncontra ellos por un tiempo."
+    },
+    "fC8UAQ": {
+        "en": "[High Priest Zhed]\nI was too preoccupied with\nother matters, and I didn't\nthink much of it at the time.\nWhy don't you speak to Niren?\nI'm sure that she can tell you\nmore about what happened.",
+        "pt": "[Sumo Sacerdote Zhed]\nEu estava muito preocupado com\noutros assuntos e não pensei muito\nsobre isso na época.\nPor que você não fala com a Niren?\nTenho certeza de que ela pode lhe contar\nmais sobre o que aconteceu.",
+        "es": "[Sumo sacerdote Zhed]\nYo me estaba ocupando de\notros asuntos, y no\nle presté mucha atención en el momento.\n¿Y si hablas con Niren?\nSeguro que ella te contará\nmás detalles de lo que pasó."
+    },
+    "fS8UAQ": {
+        "en": "[High Priest Zhed]\nIf you do decide to\nvisit Niren, please\nsend her my regards.",
+        "pt": "[Sumo Sacerdote Zhed]\nSe você decidir visitar\na Niren, por favor,\nmande lembranças a ela.",
+        "es": "[Sumo sacerdote Zhed]\nSi decides\nvisitar a Niren, te pido que\nla saludes de mi parte."
+    },
+    "fi8UAQ": {
+        "en": "[High Priest Zhed]\nAh, it does my heart to\ngood to see you again.\nAdventurers willing to work\nso hard for the sake of world\npeace like yourself are fairly\nuncommon. I hope you know that.",
+        "pt": "[Sumo Sacerdote Zhed]\nAh, faz bem ao meu coração\nver você novamente.\nAventureiros dispostos a trabalhar\ntão duro pelo bem da paz mundial\ncomo você são bastante\nincomuns. Espero que você saiba disso.",
+        "es": "[Sumo sacerdote Zhed]\nAy, mi corazón se\nregocija de volver a verte.\nLos trotamundos dispuestos a esforzarse\ntanto por el bien de la paz\nmundial, como tú,\nescasean bastante. Ojalá lo sepas."
+    },
+    "fy8UAQ": {
+        "en": "[{0}]\nHuh...?\nPlease don't flatter\nme like that! Saying\nit like that is kind of\noverdoing it, isn't it?",
+        "pt": "[{0}]\nHã...?\nPor favor, não me elogie\nassim!Falar dessa forma é meio que\nexagero, não é?",
+        "es": "[{0}]\n¿Eh?\n¡No me tires\ntantas flores! Si lo dices\nasí, es como que\nexageras, ¿no crees?"
+    },
+    "gC8UAQ": {
+        "en": "[High Priest Zhed]\nNot at all. In fact, I'm\nsure that a place in\nValhalla has already\nbeen secured for you\nby the Valkyries. Now, how\nmay I help you, my friend?",
+        "pt": "[Sumo Sacerdote Zhed]\nDe forma alguma. Na verdade, \ntenho certeza de que um lugar em\nValhalla já foi\ngarantido para você\npelas Valquírias. Agora, como\nposso te ajudar, meu amigo?",
+        "es": "[Sumo sacerdote Zhed]\nPara nada. De hecho,\nno dudo de que ya hay un lugar en\nValhalla\ngarantizado para ti,\ngracias a las Valkirias. Bien, ¿en qué\nte puedo ayudar, camarada?"
+    },
+    "gS8UAQ": {
+        "en": "Mysterious Building in the Volcano",
+        "pt": "Edifício Misterioso no Vulcão",
+        "es": "Edificio misterioso en el volcán."
+    },
+    "gi8UAQ": {
+        "en": "[{0}]\nActually, I was wondering\nif you knew of anything about\nthis facility inside Thor\nVolcano near Veins. There\nmight be something big\ngoing on over there.",
+        "pt": "[{0}]\nNa verdade, eu estava pensando\nse você sabe de algo sobre\nessa instalação dentro do Vulcão de Thor\nperto de Veins. Pode\npode ter alguma coisa grande\nacontecendo por lá.",
+        "es": "[{0}]\nLa verdad, quería ver\nsi sabes algo sobre\nese edificio que está en el volcán Thor,\ncerca de Veins. Es\nposible que algo importante\nesté pasando allí."
+    },
+    "gy8UAQ": {
+        "en": "^3131FFYou told High Priest\nZhed about the shackled\nchild in Thor Volcano, and\nhow you found the building\nhidden there. High Priest Zhed\nseemed disturbed by your words.^000000",
+        "pt": "^3131FFVocê conta ao Sumo Sacerdote\nZhed sobre a criança\nalgemada no Vulcão de Thor, e\ncomo você encontrou a construção escondida lá. O Sumo Sacerdote Zhed\nparece incomodado com suas palavras.^000000",
+        "es": "^3131FFLe cuentas al sumo sacerdote\nZhed sobre la criatura encadenada\nen el volcán Thor y\ncómo encontraste el edificio\nescondido ahí. El sumo sacerdote Zhed\nparece quedar perturbado por tus palabras.^000000"
+    },
+    "hC8UAQ": {
+        "en": "[High Priest Zhed]\nI see. I have my suspicions\nabout what is happening. Now,\nyou're aware that Arunafeltz\nis governed by our church,\nand that our entire nation\nworships the goddess Freya.",
+        "pt": "[Sumo Sacerdote Zhed]\nEntendo. Tenho algumas suspeitas\nsobre o que está acontecendo. Certo,\nvocê sabe que Arunafeltz\né governada pela nossa igreja,\ne que toda a nossa nação\nadora a deusa Freya.",
+        "es": "[Sumo sacerdote Zhed]\nYa veo. Sospecho\nqué podría estar pasando. Ahora bien,\nsabes que Arunafeltz\nse rige por la iglesia,\ny que la nación entera\nadora a la diosa Freya."
+    },
+    "hS8UAQ": {
+        "en": "[High Priest Zhed]\nThe priests that lead this\nnation are split into two main\nfactions: I am considered part\nof the moderate faction, which\nusually butts heads with the\njingoistic hard-liner faction.",
+        "pt": "[Sumo Sacerdote Zhed]\nOs sacerdotes que lideram essa\nnação estão divididos em duas\nfacções principais. Eu sou considerado parte\nda facção moderada, que\ngeralmente bate de frente com a\nfacção fanática e radical.",
+        "es": "[Sumo sacerdote Zhed]\nLos sacerdotes que dirigen esta\nnación se dividen en dos\nfacciones principales: yo soy parte\nde la facción moderada, que\ntiene bastantes conflictos con la\nfacción fanática, más inflexible."
+    },
+    "hi8UAQ": {
+        "en": "[High Priest Zhed]\nThese hard-liner priests\nare more than willing to use\nviolent methods if they believe\nit to be the will of Freya, and\nare the ones that established^FFFFFF     ^000000 the military camp  at Thor Volcano.",
+        "pt": "[Sumo Sacerdote Zhed]\nEsses sacerdotes radicais\nestão mais do que dispostos a usar\nmétodos violentos se acreditarem\nque essa é a vontade de Freya, e\nforam eles que estabeleceram^FFFFFF ^000000 o acampamento militar no Vulcão de Thor.",
+        "es": "[Sumo sacerdote Zhed]\nLos sacerdotes rigurosos\nestán bien dispuestos a recurrir\na métodos violentos si creen\nque acatan la voluntad de Freya;\nson ellos quienes establecieron^FFFFFF^000000 el campamento militar en el volcán Thor."
+    },
+    "hy8UAQ": {
+        "en": "[High Priest Zhed]\nOf course, it's also\nconsidered a geology camp\nsince they're always monitoring\nthat place for volcanic activity,^FFFFFF ^000000 but for all intents and purposes,\nthey are training men to fight.",
+        "pt": "[Sumo Sacerdote Zhed]\nÉ claro que também é\nconsiderado um campo de geologia\njá que eles estão sempre monitorando\no lugar em busca de atividade vulcânica,^FFFFFF ^000000 mas, para todos os efeitos,\neles estão treinando homens para lutar.",
+        "es": "[Sumo sacerdote Zhed]\nPor supuesto, también\nse considera un campamento geológico,\nporque controlan constantemente\nla actividad volcánica del lugar,^FFFFFF^000000 pero, en todo sentido,\nestán entrenando combatientes."
+    },
+    "iC8UAQ": {
+        "en": "[High Priest Zhed]\nIt scares me to think\nabout it, but I'm sure that\nthey have many military supplies^FFFFFF  ^000000 and machines of mass destruction\nhidden over there in the camp.",
+        "pt": "[Sumo Sacerdote Zhed]\nFico assustado só de pensar,\nmas tenho certeza de que\neles têm muitos suprimentos militares^FFFFFF ^000000 e máquinas de destruição em massa\nescondidos no acampamento.",
+        "es": "[Sumo sacerdote Zhed]\nMe da miedo pensarlo,\npero no dudo de que\ntienen muchos suministros militares^FFFFFF^000000 y medios de destrucción masiva\nocultos en el campamento."
+    },
+    "iS8UAQ": {
+        "en": "[{0}]\nWait, what exactly do\nthey hope to accomplish\nby fighting? How do they\nintend to help the goddess\nFreya by using violence?",
+        "pt": "[{0}]\nEspere, o que exatamente\neles esperam conseguir\nlutando? Como eles\npretendem ajudar a deusa\nFreya usando a violência?",
+        "es": "[{0}]\nMomento, ¿qué es lo que\npretenden conseguir\nluchando? ¿Cómo\npretenden ayudar a la diosa\nFreya con violencia?"
+    },
+    "ii8UAQ": {
+        "en": "[High Priest Zhed]\nAll the priests agree that\nreassembling Ymir's Heart will\nrevive Freya. As you know, the\npieces are scattered all over\nthe world. Some are possessed\nby the Rune-Midgard Kingdom.",
+        "pt": "[Sumo Sacerdote Zhed]\nTodos os sacerdotes concordam que\nremontar o Coração de Ymir\nvai reviver Freya. Mas como você sabe, os\npedaços estão espalhados por todo\no mundo. E alguns estão em posse\ndo Reino de Rune-Midgard.",
+        "es": "[Sumo sacerdote Zhed]\nLos sacerdotes coinciden en que,\nsi se restaura el corazón de Ymir,\nFreya revivirá. Como sabes, los\nfragmentos están esparcidos por todo\nel mundo. Algunos pertenecen\nal reino de Rune-Midgard."
+    },
+    "iy8UAQ": {
+        "en": "[High Priest Zhed]\nIn the interest of avoiding\nconflict, the moderate faction\nof priests decided to hire\nscientists to reproduce Ymir's\nHeart, resulting in an\nimitation of that artifact.",
+        "pt": "[Sumo Sacerdote Zhed]\nCom o objetivo de evitar\nconflito, a facção moderada\nde sacerdotes decidiu contratar\ncientistas para reproduzir o\nCoração de Ymir, resultando em uma\nréplica desse artefato.",
+        "es": "[Sumo sacerdote Zhed]\nPara evitar\nconflictos, la facción moderada\nde sacerdotes decidió contratar\ncientíficos para emular el Corazón de Ymir,\ny así crear una\nimitación del artefacto."
+    },
+    "jC8UAQ": {
+        "en": "[{0}]\nAn imitation of Ymir's\nHeart? I think I know of\na famous scientist from the\nSchwartzwald Republic that\nwas working on that! Let's\nsee, his name was...",
+        "pt": "[{0}]\nUma réplica do\nCoração de Ymir? Acho que sei de\num cientista famoso da\nRepública de Schwartzwald que\nestava trabalhando nisso!\nVejamos, o nome dele era...",
+        "es": "[{0}]\n¿Imitar el\nCorazón de Ymir? ¡Creo que conozco a\nun científico famoso de la\nRepública de Schwarzwald que\nestaba trabajando con eso! A\nver, se llamaba…"
+    },
+    "jS8UAQ": {
+        "en": "Varmunt",
+        "pt": "Varmund",
+        "es": "Varmunt"
+    },
+    "ji8UAQ": {
+        "en": "^3131FF{0}^000000.",
+        "pt": "^3131FF{0}^000000.",
+        "es": "^3131FF{0}^000000."
+    },
+    "jy8UAQ": {
+        "en": "[High Priest Zhed]\nOh, you've heard of him?\nYes, his name was Varmunt.\nUnfortunately, he deliberately\ndestroyed the Imitation of\nYmir's Heart into pieces,\nand then disappeared.",
+        "pt": "[Sumo Sacerdote Zhed]\nOh, você já ouviu falar dele?\nSim, seu nome era Varmund.\nInfelizmente, ele\ndestruiu a réplica do\nCoração de Ymir de propósito,\ne depois desapareceu.",
+        "es": "[Sumo sacerdote Zhed]\nAh, ¿te lo han nombrado?\nSí, se llamaba Varmunt.\nPor desgracia, destruyó a propósito\nla imitación del\nCorazón de Ymir y la hizo pedazos;\nluego desapareció."
+    },
+    "kC8UAQ": {
+        "en": "[High Priest Zhed]\n{0}?\nNo, that wasn't him.\nThe man that created the\nimitation of Ymir's Heart\nwas named Varmunt.\nHe was truly a genius.",
+        "pt": "[Sumo Sacerdote Zhed]\n{0}?\nNão, não foi ele.\nO homem que criou a\nréplica do Coração de Ymir\nse chamava Varmund.\nEle era um verdadeiro gênio.",
+        "es": "[Sumo sacerdote Zhed]\n¿{0}?\nNo, no es él.\nEl hombre que creó la\nimitación del Corazón de Ymir\nse llamaba Varmunt.\nEra un verdadero genio."
+    },
+    "kS8UAQ": {
+        "en": "[High Priest Zhed]\nI'm not sure what happened\nto Varmunt. All I know was that\nsomething serious happened\nin the Schwaltzvalt Republic,\nand that he disappeared in\nthe fiasco. It's strange...",
+        "pt": "[Sumo Sacerdote Zhed]\nNão tenho certeza do que aconteceu\ncom Varmund. Tudo o que sei é que\naconteceu algo muito sério\nna República de Schwartzwald,\ne que ele acabou desaparecendo. É estranho...",
+        "es": "[Sumo sacerdote Zhed]\nNo sé bien qué le pasó \na Varmunt. Solo sé que\nocurrió algo grave\nen la República de Schwarzwald,\ny que él desapareció en\nmedio del escándalo. Qué raro…"
+    },
+    "ki8UAQ": {
+        "en": "[High Priest Zhed]\nAlthough the working\nYmir's Heart imitation that\nVarmunt had created was broken\ninto pieces, other scientists\nmanaged to mostly reproduce^FFFFFF       ^000000 his work with unstable Ymir Hearts.",
+        "pt": "[Sumo Sacerdote Zhed]\nEmbora a réplica funcional do\nCoração de Ymir que o\nVarmund criou tenha sido destruída, outros cientistas\nconseguiram reproduzir^FFFFFF ^000000 o trabalho dele com Corações de Ymir instáveis.",
+        "es": "[Sumo sacerdote Zhed]\nSi bien\nla imitación funcional del Corazón de Ymir que\nhabía creado Varmunt quedó hecha\npedazos, otros científicos\nlograron reproducir casi todo^FFFFFF^000000 su trabajo y crearon Corazones de Ymir inestables."
+    },
+    "ky8UAQ": {
+        "en": "[High Priest Zhed]\nSince our moderate faction,\nwas only able to provide\nunstable Ymir Heart imitations,\nthe hard-liner faction quickly\ngained more respectability than\nus in the eyes of the people.",
+        "pt": "[Sumo Sacerdote Zhed]\nComo nossa facção moderada\nsó foi capaz de fornecer\nréplicas instáveis do Coração de Ymir,\na facção radical rapidamente\nganhou mais respeito do que nós\naos olhos do povo.",
+        "es": "[Sumo sacerdote Zhed]\nDado que soy de la facción moderada,\nyo solo pude aportar\nimitaciones del Corazón de Ymir inestables;\nla facción fanática enseguida\nganó más fama que\nla nuestra ante la mirada pública."
+    },
+    "lC8UAQ": {
+        "en": "[High Priest Zhed]\nDespite our advanced weaponry\nand armor, I'm afraid that our\ncountry of Arunafeltz is not as\ncivilized and peaceful as I'd\nlike it to be, and the hard-liners^FFFFFF^000000 control our government now.",
+        "pt": "[Sumo Sacerdote Zhed]\nApesar de nossa artilharia\ne armaduras avançadas, eu temo que nosso\npaís de Arunafeltz não seja tão\ncivilizado e pacífico como eu gostaria\nque fosse, e os radicais^FFFFFF^000000 controlam nosso governo agora.",
+        "es": "[Sumo sacerdote Zhed]\nA pesar de los avances en armamento\ny armadura, me temo que\nArunafeltz no es tan\ncivilizado y pacífico como\nquerría, y los fanáticos^FFFFFF^000000 ahora controlan el gobierno."
+    },
+    "lS8UAQ": {
+        "en": "[High Priest Zhed]\nAlthough the hard-liners\nallowed us to continue\nour research in faithfully\nreproducing Ymir's Heart,\nthey've been developing their\nmilitary might unopposed.",
+        "pt": "[Sumo Sacerdote Zhed]\nEmbora os radicais\ntenham permitido que continuássemos\nnossa pesquisa para reproduzir fielmente\no Coração de Ymir,\neles têm desenvolvido seu\npoderio militar sem oposição.",
+        "es": "[Sumo sacerdote Zhed]\nSi bien los fanáticos\nnos permitieron continuar\ncon la investigación para\ncrear una reproducción fiel del Corazón de Ymir,\nhan estado desarrollando sus\nfuerzas armadas sin oposición."
+    },
+    "li8UAQ": {
+        "en": "[High Priest Zhed]\nSo basically, the moderates\nare trying to recreate Ymir's\nHeart at research centers\nin the Holy Ground and the\nSchwaltzvalt Republic.",
+        "pt": "[Sumo Sacerdote Zhed]\nEntão, basicamente, os moderados\nestão tentando recriar o\nCoração de Ymir em centros de pesquisa\nno Solo Sagrado e na\nRepública de Schwartzwald.",
+        "es": "[Sumo sacerdote Zhed]\nAsí que, básicamente, la facción moderada\nestá tratando de emular el Corazón de Ymir\nen los centros de investigación\nde Suelo sagrado y en la\nRepública de Schwarzwald."
+    },
+    "ly8UAQ": {
+        "en": "[High Priest Zhed]\nThe hard-liners are\ntraining soldiers and\nstoring up military supplies\nand weapons in their camp\nin Thor Volcano. However,\nI don't know any more details.",
+        "pt": "[Sumo Sacerdote Zhed]\nOs radicais estão\ntreinando soldados e\narmazenando suprimentos militares\ne armas em seu acampamento\nno Vulcão de Thor. Mas isso é tudo que eu sei.",
+        "es": "[Sumo sacerdote Zhed]\nLa facción fanática está \nentrenando soldados y\nacopiando suministros bélicos\ny armas en su campamento,\nen el volcán Thor. Sin embargo,\nno sé más que eso."
+    },
+    "mC8UAQ": {
+        "en": "[{0}]\nThis doesn't look good.\nI mean, if they're gearing\nup to take the Ymir Heart\nPieces by force, it'll be war\nagainst the Schwalzvalt Republic^FFFFFF  ^000000 and the Rune-Midgard Kingdom!",
+        "pt": "[{0}]\nIsso não parece bom.\nSe eles estão se preparando\npara tomar os pedaços do Coração de Ymir à força, vai acontecer uma guerra.\n\nentre a República de Schwalzvalt^FFFFFF ^000000 e o Reino de Rune-Midgard!",
+        "es": "[{0}]\nEsto no tiene buena pinta.\nO sea, si se están armando\npara conseguir las piezas del Corazón de Ymir\npor la fuerza, ¡habrá una guerra\ncontra la República de Schwarzwald^FFFFFF^000000 y el reino de Rune-Midgard!"
+    },
+    "mS8UAQ": {
+        "en": "[High Priest Zhed]\nSeeing as I'm part of the\nmoderate faction, as well as\nrecently demoted, I just don't\nhave access to much information\nabout the hard-liners. However,\nthere may still be hope yet...",
+        "pt": "[Sumo Sacerdote Zhed]\nVisto que faço parte da facção\nmoderada, e que acabei de ter sido\nrebaixado recentemente, eu não\ntenho acesso a muitas informações\nsobre os radicais. No entanto,\nainda pode haver esperança...",
+        "es": "[Sumo sacerdote Zhed]\nDado que pertenezco a la\nfacción moderada y, además,\nme destituyeron hace poco, no\ntengo acceso a mucha información\nsobre la facción fanática. Sin embargo,\nqueda un hálito de esperanza…"
+    },
+    "mi8UAQ": {
+        "en": "[High Priest Zhed]\nWar would be bad for all\nparties involved. That is\nwhy I'd like to ask you to\nsneak into the camp at\nThor Volcano for the sake of\nprotecting international peace.",
+        "pt": "[Sumo Sacerdote Zhed]\nA guerra seria ruim para todas\nas partes envolvidas. Por isso,\neu gostaria de pedir para você\nentrar escondido no acampamento do\nVulcão de Thor \npelo bem da paz internacional.",
+        "es": "[Sumo sacerdote Zhed]\nLa guerra perjudicaría a todas\nlas partes implicadas. Por eso\nquiero pedirte que\nte cueles en el campamento del\nvolcán Thor, en pos de\nproteger la paz internacional."
+    },
+    "my8UAQ": {
+        "en": "[{0}]\nI really want to know\nmore about what they're\nplanning to do, but that\nplace is heavily guarded!\nHow am I going to sneak in?",
+        "pt": "[{0}]\nEu realmente quero saber\nmais sobre o que eles estão\nplanejando fazer, mas aquele\nlugar é muito bem guardado!\nComo vou entrar escondido?",
+        "es": "[{0}]\nTengo muchas ganas de saber\nmás sobre lo que\nplanean hacer, pero ¡ese\nlugar está muy vigilado!\n¿Cómo me voy a colar?"
+    },
+    "nC8UAQ": {
+        "en": "[High Priest Zhed]\nYou're right.\nWe'll have to think\nof a really good way\nfor you to infiltrate\nthat place. Hmmmm...",
+        "pt": "[Sumo Sacerdote Zhed]\nVocê tem razão.\nPrecisamos pensar\nem um plano muito bom\npara você conseguir se infiltrar\nnaquele lugar. Hummmm...",
+        "es": "[Sumo sacerdote Zhed]\nTienes razón.\nTendremos que pensar\nen un plan muy bueno\npara que te infiltres\nen ese lugar. Juuum…"
+    },
+    "nS8UAQ": {
+        "en": "[High Priest Zhed]\nHmm...",
+        "pt": "[Sumo Sacerdote Zhed]\nHumm...",
+        "es": "[Sumo sacerdote Zhed]\nMmm…"
+    },
+    "ni8UAQ": {
+        "en": "How to Sneak into the Camp",
+        "pt": "Como Entrar Escondido no Acampamento",
+        "es": "Cómo colarse en el campamento."
+    },
+    "ny8UAQ": {
+        "en": "The Moderates",
+        "pt": "Os Moderados",
+        "es": "Facción moderada."
+    },
+    "oC8UAQ": {
+        "en": "The Hard-Liners",
+        "pt": "Os Radicais",
+        "es": "Facción fanática."
+    },
+    "oS8UAQ": {
+        "en": "[High Priest Zhed]\nI still don't have any\nideas for sneaking into\nthe camp at Thor Volcano.\nGive me a little more time,\nand hopefully we can figure\nsomething out together.",
+        "pt": "[Sumo Sacerdote Zhed]\nEu ainda não tenho nenhuma\nideia para fazer você entrar escondido no acampamento\ndo Vulcão de Thor.\nPreciso de um pouco mais de tempo,\ne, com sorte, vamos pensar em\nalgo juntos.",
+        "es": "[Sumo sacerdote Zhed]\nAún no tengo\nninguna idea para entrar al\ncampamento del volcán Thor.\nDame un poco más de tiempo;\ncon suerte, idearemos\nun plan en conjunto."
+    },
+    "oi8UAQ": {
+        "en": "[High Priest Zhed]\nWe priests of the moderate\nfaction are opposed to war,\nso we've been trying to\ndevelop imitations of Ymir's\nHeart for a long time. We've\nyet to succeed, unfortunately.",
+        "pt": "[Sumo Sacerdote Zhed]\nNós, sacerdotes da facção moderada,\nsomos contra a guerra e,\npor isso, estamos tentando\ndesenvolver réplicas do\nCoração de Ymir há muito tempo. Mas, infelizmente, ainda\nainda não tivemos sucesso.",
+        "es": "[Sumo sacerdote Zhed]\nLos sacerdotes de la facción moderada\nnos oponemos a la guerra,\nasí que estamos intentando\ndesarrollar imitaciones del Corazón de Ymir\ndesde hace mucho tiempo. Aún no\nlo hemos logrado, por desgracia."
+    },
+    "oy8UAQ": {
+        "en": "[High Priest Zhed]\nThe hard-liners actually\nopposed our efforts, but\nthey've let us continue since\nthey think they can eventually\nuse imitation Ymir Hearts for\nmilitary purposes.",
+        "pt": "[Sumo Sacerdote Zhed]\nNa verdade, os radicais\nse opuseram aos nossos esforços,\nmas nos deixaram continuar a pesquisa, pois\neles acham que podem eventualmente\nusar as réplicas dos Corações de Ymir para\nfins militares.",
+        "es": "[Sumo sacerdote Zhed]\nEn realidad, la facción fanática\nse opuso a nuestra labor, pero\nnos dejaron avanzar porque\nconsideran que, al final,\nusarán las imitaciones del Corazón de Ymir\nen sus estrategias bélicas."
+    },
+    "pC8UAQ": {
+        "en": "[High Priest Zhed]\nThe Ymir Heart reproduction\nproject has been frustrating\nthe best minds in the world,\nand some scientists have even\nresorted to using forbidden\nmethods. It's a shame, really.",
+        "pt": "[Sumo Sacerdote Zhed]\nO projeto de reprodução do Coração de Ymir\ntem frustrado\nas melhores mentes do mundo,\ne alguns cientistas até\nrecorreram ao uso de\nmétodos proibidos. É realmente uma pena.",
+        "es": "[Sumo sacerdote Zhed]\nEl proyecto para imitar el Corazón de Ymir\nha sido frustrante para\nlas mejores mentes del mundo;\nincluso, algunos científicos\nrecurrieron a\nmétodos prohibidos. Es una verdadera pena."
+    },
+    "pS8UAQ": {
+        "en": "[High Priest Zhed]\nVarmunt actually succeeded\nin recreating Ymir's Heart,\nbut then he destroyed it and\nhe disappeared. He did it to\nprevent war, but we could\nreally use his help now.",
+        "pt": "[Sumo Sacerdote Zhed]\nO Varmund realmente conseguiu\nrecriar o Coração de Ymir,\nmas depois ele o destruiu e\ndesapareceu. Ele fez isso\npara evitar a guerra, mas ele poderia nos ajudar bastante agora.",
+        "es": "[Sumo sacerdote Zhed]\nEn realidad, Varmunt logró \nemular el Corazón de Ymir,\npero luego lo destruyó y\ndesapareció. Lo hizo para\nevitar la guerra, pero nos vendría\nmuy bien su ayuda."
+    },
+    "pi8UAQ": {
+        "en": "[High Priest Zhed]\nThe hard-liners are especially\nfanatical in their devotion to\nFreya, and will use any means\nto further what they interpret\nas her will. They're willing to\ngo to war for their beliefs.",
+        "pt": "[Sumo Sacerdote Zhed]\nOs radicais são particularmente\nfanáticos em sua devoção a\nFreya, e usarão qualquer meio\npara promover o que eles interpretam\ncomo a vontade dela. Eles estão dispostos\na entrar em guerra por suas crenças.",
+        "es": "[Sumo sacerdote Zhed]\nLa facción fanática es muy\ndevota a\nFreya y acudirá a cualquier medio\npara validar lo que interpreta\ncomo la voluntad de la diosa. Están dispuestos a\nir a la guerra por sus creencias."
+    },
+    "py8UAQ": {
+        "en": "[High Priest Zhed]\nThe fact that they've even\nbuilt a military camp in Thor\nVolcano disturbs me greatly.\nIt's almost certain that they\nintend to wage war against any^FFFFFF    ^000000 nation with a Ymir's Heart piece.",
+        "pt": "[Sumo Sacerdote Zhed]\nO fato deles terem construído um acampamento militar no \nVulcão de Thor me perturba muito.\nÉ quase certo que eles\npretendem entrar em guerra contra qualquer ^FFFFFF ^000000 nação que tenha um pedaço do Coração de Ymir.",
+        "es": "[Sumo sacerdote Zhed]\nEl hecho de que llegaran a\nconstruir un campamento militar en el volcán Thor\nme perturba mucho.\nTengo la certeza de que\npretenden combatir con cualquier^FFFFFF^000000 nación que tenga una pieza del Corazón de Ymir."
+    },
+    "qC8UAQ": {
+        "en": "[{0}]\nWho is in charge of that\ncamp at Thor's Volcano?",
+        "pt": "[{0}]\nQuem é o responsável pelo acampamento\nno Vulcão de Thor?",
+        "es": "[{0}]\n¿Quién está a cargo del\ncampamento en el volcán Thor?"
+    },
+    "qS8UAQ": {
+        "en": "[High Priest Zhed]\nHigh Priest Vildt.\nHe's in charge of all\nimportant buildings in\nArunafeltz. His room is at\nthe other side of the building,^FFFFFF   ^000000 but it's always heavily guarded.",
+        "pt": "[Sumo Sacerdote Zhed]\nO Sumo Sacerdote Vildt.\nEle é o responsável por todas as construções importantes em\nArunafeltz. Sua sala fica no\noutro lado da construção,^FFFFFF ^000000, mas é sempre muito bem guardada.",
+        "es": "[Sumo sacerdote Zhed]\nEl sumo sacerdote Vildt.\nEstá a cargo de todos\nlos edificios importantes de\nArunafeltz. Su habitación está \nen el otro extremo del edificio,^FFFFFF^000000 pero siempre está muy bien vigilada."
+    },
+    "qi8UAQ": {
+        "en": "[High Priest Zhed]\nVildt is one of the\nhighest ranking members\nof the hard-liner priest\nfaction. He rarely makes it\nhis business to see anybody\nthat he sees as beneath him.",
+        "pt": "[Sumo Sacerdote Zhed]\nVildt é um dos\nmembros do mais alto escalão\nda facção de sacerdotes radicais\nEle raramente fala com qualquer pessoa\nque ele considera inferior.",
+        "es": "[Sumo sacerdote Zhed]\nVildt es uno de los\nmiembros de mayor rango\nen la facción fanática\nde los sacerdotes. Casi nunca\nacepta ver a alguien\nque considera inferior a él."
+    },
+    "qy8UAQ": {
+        "en": "[{0}]\nWould you please\ntake a look at this\nfile, High Priest Zhed?",
+        "pt": "[{0}]\nPor favor, você poderia\ndar uma olhada neste\narquivo, Sumo Sacerdote Zhed?",
+        "es": "[{0}]\n¿Podrías\nanalizar este\nexpediente, sumo sacerdote Zhed?"
+    },
+    "rC8UAQ": {
+        "en": "[High Priest Zhed]\nOf course.\nLet's see, what's\nin this File Folder?",
+        "pt": "[Sumo Sacerdote Zhed]\nClaro que sim.\nVejamos, o que temos\nnessa Pasta de Arquivos?",
+        "es": "[Sumo sacerdote Zhed]\nPor supuesto.\nA ver, ¿qué hay\nen este expediente?"
+    },
+    "rS8UAQ": {
+        "en": ".........\n............\n...............",
+        "pt": ".........\n............\n...............",
+        "es": ".........\n............\n..............."
+    },
+    "ri8UAQ": {
+        "en": "[High Priest Zhed]\nThis is a geological\nreport about Thor Volcano?\nAh, I see. They must have\nsomeone regularly check\nto see if it will erupt.",
+        "pt": "[Sumo Sacerdote Zhed]\nIsso é um relatório geológico\nsobre o Vulcão de Thor?\nAh, entendi. Eles devem ter\nalguém para verificar regularmente\nse o vulcão vai entrar em erupção.",
+        "es": "[Sumo sacerdote Zhed]\n¿Es un informe geológico\nsobre el volcán Thor?\nAh, entiendo. Deben tener\na alguien que compruebe de vez en cuando\nsi entrará en erupción."
+    },
+    "ry8UAQ": {
+        "en": "[High Priest Zhed]\nAlthough it's fairly dangerous\nto build a military camp there,\nsome weapon materials can\nonly be forged from the heat\ncoming from Thor's Volcano.",
+        "pt": "[Sumo Sacerdote Zhed]\nEmbora seja muito perigoso\nconstruir um acampamento militar lá,\nalguns materiais de armas\nsó podem ser forjados com o calor\ndo Vulcão de Thor.",
+        "es": "[Sumo sacerdote Zhed]\nSi bien es bastante peligroso\nconstruir un campamento militar ahí,\nalgunos materiales bélicos\nsolo se pueden forjar al calor\nprocedente del volcán Thor."
+    },
+    "sC8UAQ": {
+        "en": "[High Priest Zhed]\nYes, I think it's also\nlikely that there are special\nweapon crafting metals and\nmaterials that can only be\nfound on the volcano. That\nmakes perfect sense.",
+        "pt": "[Sumo Sacerdote Zhed]\nSim, acho que é bem\nprovável que existam\nmetais e materiais especiais para a fabricação de armas\nque só podem ser\nencontrados no vulcão. Isso\nfaz todo o sentido.",
+        "es": "[Sumo sacerdote Zhed]\nSí, también creo que\nes probable que haya\nmetales especiales para fabricar armas y\notros que solo\nse encuentran en el volcán. Tiene\nmucho sentido."
+    },
+    "sS8UAQ": {
+        "en": "[High Priest Zhed]\nAlthough the volcano is\ndormant now, these reports\nclaim that the volcano is\neither safe or ready to erupt\nat any time. The data here\ndoesn't make any sense.",
+        "pt": "[Sumo Sacerdote Zhed]\nEmbora o vulcão esteja\ndormente agora, esses relatórios\nafirmam que ele está\nseguro ou pronto para entrar em erupção\na qualquer momento. Esses dados\nnão fazem o menor sentido.",
+        "es": "[Sumo sacerdote Zhed]\nSi bien el volcán\nestá inactivo, estos informes\nindican que es\nseguro o que puede entrar en erupción\nen cualquier momento. Estos datos\nno tienen ningún sentido."
+    },
+    "si8UAQ": {
+        "en": "[High Priest Zhed]\nHm. This is just a hunch,\nbut seeing these discrepancies\nin his reports, I really think this geologist has an agenda against\nthe camp at Thor Volcano.",
+        "pt": "[Sumo Sacerdote Zhed]\nHum. Isso é apenas um palpite,\nmas vendo essas discrepâncias\nnesses relatórios, eu realmente acho que esse geólogo tem um plano contra \no acampamento no Vulcão de Thor.",
+        "es": "[Sumo sacerdote Zhed]\nMmm. No es más que una sensación,\npero, por estas contradicciones\nen los informes, creo que este geólogo tiene segundas intenciones respecto del\ncampamento del volcán Thor."
+    },
+    "sy8UAQ": {
+        "en": "[High Priest Zhed]\nYou know, if that's true,\nhe might be able to help\nyou sneak into the camp.\nDon't you think it's worth\nchecking out for now?",
+        "pt": "[Sumo Sacerdote Zhed]\nSabe, se isso for verdade,\nele talvez possa te ajudar\na entrar escondido no acampamento.\nVocê não acha que vale a pena\nverificar isso?",
+        "es": "[Sumo sacerdote Zhed]\nSi es así,\nquizás te pueda ayudar\na colarte en el campamento.\n¿No te parece que vale la pena\nintentarlo?"
+    },
+    "tC8UAQ": {
+        "en": "Yes",
+        "pt": "Sim",
+        "es": "Sí."
+    },
+    "tS8UAQ": {
+        "en": "No",
+        "pt": "Não",
+        "es": "No."
+    },
+    "ti8UAQ": {
+        "en": "[High Priest Zhed]\nWell, you never know\nuntil you ask. Besides,\nI don't know if there's\nany other way to sneak\ninto the Thor Volcano Camp...",
+        "pt": "[Sumo Sacerdote Zhed]\nBom, você nunca vai saber\nse não perguntar. Além disso,\nnão sei se existe\noutra forma de entrar escondido\nno Acampamento do Vulcão de Thor...",
+        "es": "[Sumo sacerdote Zhed]\nPues, el no\nya lo tienes. Además,\nno sé si hay\notra forma de escabullirse\nen el campamento del volcán Thor…"
+    },
+    "ty8UAQ": {
+        "en": "[High Priest Zhed]\nI hope you'll go and talk\nto the geologist. He should\nbe in Veins, the desert city\nsouth of Rachel. He's your\nbest chance of entering the Thor^FFFFFF  ^000000 Volcano camp without suspicion.",
+        "pt": "[Sumo Sacerdote Zhed]\nEspero que você vá conversar\ncom o geólogo. Ele deve\nestar em Veins, a cidade do deserto\nao sul de Rachel. Ele é sua\nmelhor chance de entrar no acampamento do ^FFFFFF ^000000 Vulcão de Thor sem suspeitas.",
+        "es": "[Sumo sacerdote Zhed]\nOjalá vayas a hablar\ncon el geólogo. Debe\nestar en Veins, la ciudad desierta\nal sur de Rachel. Es la\nmejor oportunidad para entrar al campamento del volcán Thor^FFFFFF^000000 sin levantar sospechas."
+    },
+    "uC8UAQ": {
+        "en": "[{0}]\nHuh...?\nWhere did I put\nthat File Folder?",
+        "pt": "[{0}]\nHã...?\nOnde eu coloquei\naquela Pasta de Arquivos?",
+        "es": "[{0}]\n¿Eh?\n¿Dónde puse\nel expediente?"
+    },
+    "uS8UAQ": {
+        "en": "[High Priest Zhed]\nOh! You're back!\nWas that geologist able\nto help you sneak into\nthe Thor Volcano camp?",
+        "pt": "[Sumo Sacerdote Zhed]\nAh! Você voltou!\nAquele geólogo conseguiu\najudá-lo a entrar escondido no\nacampamento do Vulcão de Thor?",
+        "es": "[Sumo sacerdote Zhed]\n¡Ah! ¡Volviste!\n¿El geólogo\nte ayudó a colarte\nen el campamento del volcán Thor?"
+    },
+    "ui8UAQ": {
+        "en": "[{0}]\nMore than that. We've\nconvinced the camp that the\nvolcano is going to explode,\nso they're scrambling to\nevacuate. They're really\npanicking over there!",
+        "pt": "[{0}]\nMais do que isso. Nós\nconvencemos o acampamento de que o\nvulcão vai explodir,\nentão eles estão correndo para\nevacuar. Eles estão completamente\nem pânico por lá!",
+        "es": "[{0}]\nEso y más. Convencimos\nal campamento de que el\nvolcán entrará en erupción,\nasí que se están apurando para\nevacuar. ¡Entraron en\npánico total!"
+    },
+    "uy8UAQ": {
+        "en": "[High Priest Zhed]\nHahaha! That's great!\nEven if they do figure\nout that they've been\nfooled, it will take them\nsome time to realize it\nin all that confusion.",
+        "pt": "[Sumo Sacerdote Zhed]\nHahaha! Isso é ótimo!\nMesmo que eles descubram\nque foram\nenganados, vão levar\nalgum tempo para perceber isso\nem meio a toda essa confusão.",
+        "es": "[Sumo sacerdote Zhed]\n¡Ja, ja, ja! ¡Excelente!\nAunque se den cuenta\nde que los\nengañaron, les llevará\nun tiempo\nentre tanta confusión."
+    },
+    "vC8UAQ": {
+        "en": "[High Priest Zhed]\nYes, it might not be the\nperfect time to bring down\nthe hard-liner faction right\nnow, but the opportunity\nshould present itself soon.\nThank you for all your help.",
+        "pt": "[Sumo Sacerdote Zhed]\nSim, talvez agora não seja o melhor\nmomento para derrubar\na facção radical, mas a oportunidade\ndeve se apresentar em breve.\nObrigado por toda sua ajuda.",
+        "es": "[Sumo sacerdote Zhed]\nSí, puede que no sea el\nmomento ideal para derribar\na la facción fanática,\npero la oportunidad\nse presentará pronto.\nGracias por toda la ayuda."
+    },
+    "vS8UAQ": {
+        "en": "[High Priest Zhed]\nPlease relax for a while,\nand I'll take care of the rest.\nWhen the time to strike comes,\nI will be contacting you again.\nTogether, we can protect\npeace between our nations.",
+        "pt": "[Sumo Sacerdote Zhed]\nPor favor, relaxe um pouco,\neu vou cuidar do resto.\nQuando chegar a hora de atacar,\nentrarei em contato com você novamente.\nJuntos, vamos proteger\na paz entre as nações.",
+        "es": "[Sumo sacerdote Zhed]\nDescansa un rato;\nyo me encargaré del resto.\nCuando llegue el momento de atacar,\nte llamaré de nuevo.\nSi nos unimos, podremos proteger\nla paz de nuestras naciones."
+    },
+    "vi8UAQ": {
+        "en": "[High Priest Zhed]\nI'll be sure to contact\nyou again for your help\nwhen the time is right.\nI'm sure there are others\nthat may need you now...",
+        "pt": "[Sumo Sacerdote Zhed]\nEntrarei em contato com você\nnovamente para pedir ajuda\nquando chegar a hora certa.\nTenho certeza de que há outros\nque precisam de você agora...",
+        "es": "[Sumo sacerdote Zhed]\nSin duda, te avisaré\ncuando necesite tu ayuda de nuevo,\nllegado el momento.\nSeguro que hay más gente\nque te necesita…"
+    },
+    "vy8UAQ": {
+        "en": "[{0}]\nWelcome, adventurer.\nI'm glad to see that you're\nhere. I think... I think an\nopportunity has arisen in\nwhich I could use your\nexpert assistance.",
+        "pt": "[{0}]\nBem-vindo, aventureiro!\nFico feliz em ver você\naqui. Acho que... Acho que surgiu uma\noportunidade\nem que eu poderia usar sua\nassistência especializada.",
+        "es": "[{0}]\nTe doy la bienvenida, trotamundos.\nMe alegra que\nhayas venido. Creo… Creo que\nsurgió una oportunidad\npara aprovechar\ntu pericia."
+    },
+    "wC8UAQ": {
+        "en": "[High Priest Zhed]\nThough, I fear that I may be\nmaking the wrong decision.\nAfter all, I no longer have\nmuch influence among the\nother priests... I can't help\nbut think I'm in the wrong.",
+        "pt": "[Sumo Sacerdote Zhed]\nEmbora eu receie que possa estar\ntomando a decisão errada.\nAfinal de contas, não tenho mais\ntanta influência entre os\noutros sacerdotes... Não consigo parar de\npensar que estou errado.",
+        "es": "[Sumo sacerdote Zhed]\nAunque temo estar\ntomando una mala decisión.\nAl fin y al cabo, ya no tengo\nmucha incidencia sobre los\notros sacerdotes… No puedo evitar\npensar que me equivoco."
+    },
+    "wS8UAQ": {
+        "en": "[{0}]\nDon't lose heart,\nHigh Priest Zhed.\nI... I believe in you!",
+        "pt": "[{0}]\nNão desanime,\nSumo Sacerdote Zhed.\nEu... Eu acredito em você!",
+        "es": "[{0}]\nNo te desanimes,\nsumo sacerdote Zhed.\nEh… ¡Confío en ti!"
+    },
+    "wi8UAQ": {
+        "en": "[High Priest Zhed]\nI guess you're right.",
+        "pt": "[Sumo Sacerdote Zhed]\nAcho que você tem razão.",
+        "es": "[Sumo sacerdote Zhed]\nSupongo que tienes razón."
+    },
+    "wy8UAQ": {
+        "en": "[High Priest Zhed]\nAs you well know, the\nhighest authority in\nArunafeltz is our Pope,\nthe reincarnation of\nour goddess Freya.",
+        "pt": "[Sumo Sacerdote Zhed]\nComo você bem sabe, a\nautoridade máxima em\nArunafeltz é a nossa Papisa,\na reencarnação de\nnossa deusa Freya.",
+        "es": "[Sumo sacerdote Zhed]\nComo sabes, la\nmáxima autoridad en\nArunafeltz es la papisa,\nla reencarnación de\nla diosa Freya."
+    },
+    "xC8UAQ": {
+        "en": "[High Priest Zhed]\nUnfortunately, she is too\nyoung and innocent, and she\ndoesn't yet have the experience\nto assert control, and stamp\nout the in-fighting and\ncorruption among the priests.",
+        "pt": "[Sumo Sacerdote Zhed]\nInfelizmente, ela é muito\njovem e inocente, e ela\nainda não tem a experiência necessária\npara exercer o controle e acabar com\ncom as brigas internas e\ncorrupção entre os sacerdotes.",
+        "es": "[Sumo sacerdote Zhed]\nPor desgracia, es muy\njoven e inocente;\naún no tiene la experiencia\npara ejercer el control, reprimir\nlas peleas internas y\ncombatir la corrupción de los sacerdotes."
+    },
+    "xS8UAQ": {
+        "en": "[High Priest Zhed]\nIn these desperate times,\nwe will need someone to\nprovide strong and confident\nleadership to the people\nof Arunafeltz before all\nis lost to war and violence.",
+        "pt": "[Sumo Sacerdote Zhed]\nNestes tempos de desespero,\nvamos precisar de uma liderança forte e confiante\npara o povo\nde Arunafeltz, antes que tudo\nseja perdido para a guerra e a violência.",
+        "es": "[Sumo sacerdote Zhed]\nEn este momento angustiante,\nnecesitamos que alguien\nlidere con fuerza y confianza\nal pueblo\nde Arunafeltz, antes de que todo\nsucumba a la guerra y la violencia."
+    },
+    "xi8UAQ": {
+        "en": "[High Priest Zhed]\n^333333*Sigh...*^000000\nI know it may not be\nright, but someone\nmust do something\nbefore the other High\nPriests ruin our nation.",
+        "pt": "[Sumo Sacerdote Zhed]\n^333333*Suspiro...*^000000\nSei que isso parece errado, mas alguém\ndeve fazer algo\nantes que os outros\nSumos Sacerdotes arruínem nossa nação.",
+        "es": "[Sumo sacerdote Zhed]\n^333333*Suspira*^000000\nPuede que no sea\nlo correcto, pero alguien\ndebe hacer algo\nantes que los otros sumos\nsacerdotes arruinen la nación."
+    },
+    "xy8UAQ": {
+        "en": "[{0}]\nY-you're not thinking\nof overthrowing the\npope are you? I-isn't\nthat a bit extreme?",
+        "pt": "[{0}]\nVocê não está pensando\nem derrubar a Papisa, está? \nIsso não é um pouco exagerado?",
+        "es": "[{0}]\n¿N-no estarás pensando\nen derrocar a la\npapisa, no? ¿N-no te parece\nun poco extremo?"
+    },
+    "yC8UAQ": {
+        "en": "[High Priest Zhed]\nWhat? No, no!\nDon't jump to conclusions\nlike that! Don't misunderstand\nme: I'm loyal to our pope.",
+        "pt": "[Sumo Sacerdote Zhed]\nO quê? Não, não!\nNão tire conclusões precipitadas\nassim! Não tire conclusões precipitadas. Eu sou leal a nossa Papisa.",
+        "es": "[Sumo sacerdote Zhed]\n¿Qué? ¡No, no!\n¿Por qué sacas esas\nconclusiones? No malinterpretes\nlo que digo: soy leal a la papisa."
+    },
+    "yS8UAQ": {
+        "en": "[High Priest Zhed]\nI actually want to work\nvery closely with the pope,\nin essense, rule together with\nher by combining my experience\nand her wisdom. It's ambitious,\nbut what else can I do?",
+        "pt": "[Sumo Sacerdote Zhed]\nNa verdade, eu quero trabalhar\njunto com a Papisa,\nem essência, governar junto\ncom ela, combinando minha experiência\ne sua sabedoria. É ambicioso,\nmas o que mais posso fazer?",
+        "es": "[Sumo sacerdote Zhed]\nDe hecho, quiero\nacercarme mucho a ella;\nbásicamente, gobernar junto a\nella, combinar mi experiencia\ncon su sabiduría. Es ambicioso,\npero ¿qué más puedo hacer?"
+    },
+    "yi8UAQ": {
+        "en": "[High Priest Zhed]\nYou remember how you\nstopped the hard-liner\npriests from carrying out\ntheir plans for war in the\nThor Volcano camp? That will\nonly stop them temporarily.",
+        "pt": "[Sumo Sacerdote Zhed]\nVocê se lembra de como\nimpediu os sacerdotes radicais\nde levar adiante\nseus planos de guerra no acampamento\ndo Vulcão de Thor? Isso vai\napenas pará-los por um tempo.",
+        "es": "[Sumo sacerdote Zhed]\n¿Recuerdas que\nevitaste que la facción fanática\nde sacerdotes ejecutara\nsus planes bélicos en el\ncampamento del volcán Thor? Eso los\ndemorará un poco, nada más."
+    },
+    "yy8UAQ": {
+        "en": "[High Priest Zhed]\nThey'll eventually prepare\nto act out in violence again.\nWe need a permanent solution\nto ensure that this sort of\nthing doesn't happen again.",
+        "pt": "[Sumo Sacerdote Zhed]\nEles acabarão voltando a agir com violência novamente.\nNós precisamos de uma solução permanente\npara garantir que esse tipo de coisa\nnão aconteça novamente.",
+        "es": "[Sumo sacerdote Zhed]\nCon el tiempo, se prepararán\npara ejercer violencia de nuevo.\nNecesitamos una solución permanente\npara garantizar que\nno vuelva a ocurrir algo así."
+    },
+    "zC8UAQ": {
+        "en": "[High Priest Zhed]\nWe need to convince the\npope to finally act, and\ngive my policy of peace\nher full support. Will\nyou help me to do this?",
+        "pt": "[Sumo Sacerdote Zhed]\nPrecisamos convencer a Papisa a agir imediatamente e\nconseguir o apoio total dela à minha política de paz.\n\nVocê vai me ajudar a fazer isso?",
+        "es": "[Sumo sacerdote Zhed]\nTenemos que convencer a la\npapisa de hacer algo de una vez y\nlograr que mi tratado de paz\ntenga todo su apoyo. ¿Me\nayudarías a lograrlo?"
+    },
+    "zS8UAQ": {
+        "en": "Well... Asking for the\npope's support is the only\nsolution I've been able to\nfind. Do you have any ideas\nfor protecting peace here\nin Arunafeltz?",
+        "pt": "Bom... Pedir o apoio da Papisa foi a única\nsolução que consegui\nencontrar. Você tem alguma ideia\npara proteger a paz aqui\nem Arunafeltz?",
+        "es": "Pues… Pedir el\napoyo de la papisa es la única\nsolución que\nencontré hasta ahora. ¿Tienes alguna idea\nsobre cómo mantener la paz\nen Arunafeltz?"
+    },
+    "zi8UAQ": {
+        "en": "[{0}]\n{1}?",
+        "pt": "[{0}]\n{1}?",
+        "es": "[{0}]\n¿{1}?"
+    },
+    "zy8UAQ": {
+        "en": "[High Priest Zhed]\nWell, I don't know.\nIt's a good idea, but\nI fear that it will only\nbe effective in the short\nterm. Why don't we just\ntry what I've proposed first?",
+        "pt": "[Sumo Sacerdote Zhed]\nBem, eu não sei.\nÉ uma boa ideia, mas\ntemo que ela só \nseja eficaz a\ncurto prazo. Por que não tentamos\nfazer o que eu propus primeiro?",
+        "es": "[Sumo sacerdote Zhed]\nLa verdad, no sé.\nEs una buena idea, pero\nme temo que solo\nservirá a corto\nplazo. ¿Y si\nprobamos con mi primera propuesta?"
+    },
+    "0C8UAQ": {
+        "en": "[High Priest Zhed]\nHmm, now how can\nwe convince the pope to\nsupport us? Even as Freya's\nreincarnation... She's just\na young girl. She probably\nknows nothing of politics.",
+        "pt": "[Sumo Sacerdote Zhed]\nHumm, mas como podemos\nconvencer a Papisa a nos apoiar?\nMesmo sendo a\nreencarnação de Freya... Ela é apenas\numa garota jovem que provavelmente\nnão sabe nada de política.",
+        "es": "[Sumo sacerdote Zhed]\nMmm, ¿cómo haremos\npara convencer a la papisa de\nque nos apoye? Si bien es la reencarnación\nde Freya… no deja de ser\njoven. No debe\nsaber nada de política."
+    },
+    "0S8UAQ": {
+        "en": "[High Priest Zhed]\nIt'd probably be best to\ntell her exactly what is\nhappening. The full truth.\nIn my heart, I know that\nwould be best.",
+        "pt": "[Sumo Sacerdote Zhed]\nProvavelmente seria melhor\ncontar a ela exatamente o que está\nacontecendo. Toda a verdade.\nNo meu coração, eu sei que isso\né a melhor escolha.",
+        "es": "[Sumo sacerdote Zhed]\nQuizás lo mejor sea\ncontarle con detalles lo que\nestá pasando. Toda la verdad.\nEn el fondo, sé que\neso sería lo mejor."
+    },
+    "0i8UAQ": {
+        "en": "[High Priest Zhed]\nBut... Maybe it would\nbe better if we sugar\ncoated it a little bit.\nShe might not be too\nreceptive to us if we\ntotally shock her.",
+        "pt": "[Sumo Sacerdote Zhed]\nMas... Talvez fosse\nmelhor nós suavizarmos\num pouco a história.\nEla pode não ficar muito feliz com a gente se a deixarmos em choque.",
+        "es": "[Sumo sacerdote Zhed]\nPero… tal vez sería\nsería mejor dorarle\nun poco la píldora.\nQuizás no esté muy\ndispuesta a escucharnos si\nla sorprendemos tanto."
+    },
+    "0y8UAQ": {
+        "en": "[High Priest Zhed]\nHmm... What do you\nthink? Should we stick\nwith the truth, or do you\nthink it'd be better if we\nexaggerate and... lie when\nwe feel it's necessary?",
+        "pt": "[Sumo Sacerdote Zhed]\nHumm... O que você\nacha? Devemos contar a verdade, ou você\nacha que seria melhor\nexagerar e... mentir quando\nacharmos necessário?",
+        "es": "[Sumo sacerdote Zhed]\nMmm… ¿Qué te\nparece? ¿Nos atenemos\na la verdad, o te\nparece mejor si\nexageramos y… mentimos cuando\nnos parezca necesario?"
+    },
+    "1C8UAQ": {
+        "en": "Truth",
+        "pt": "Verdade",
+        "es": "Decir la verdad."
+    },
+    "1S8UAQ": {
+        "en": "Lies",
+        "pt": "Mentiras",
+        "es": "Mentir."
+    },
+    "1i8UAQ": {
+        "en": "[High Priest Zhed]\nThat's what I think too.\nAlthough I'm worried about\nhow the pope will react at\nour message, I should have\nfaith. I should have faith.",
+        "pt": "[Sumo Sacerdote Zhed]\nIsso é o que eu penso também.\nEmbora eu esteja preocupado em\ncomo a Papisa vai reagir à nossa\nmensagem, devo ter\nfé. Preciso ter fé.",
+        "es": "[Sumo sacerdote Zhed]\nYo pienso igual.\nAunque me preocupa\ncómo reaccionará la papisa a\nnuestro mensaje, debo\ntener fe. Debo tener fe."
+    },
+    "1y8UAQ": {
+        "en": "[High Priest Zhed]\nI suppose that you may\nhave a point. It might not\nbe a good idea to totally\nexpose her to the ugly\ntruth. I'll try to be as\nhonest as I can...",
+        "pt": "[Sumo Sacerdote Zhed]\nAcho que você pode\nter razão. Talvez não seja\numa boa ideia expô-la totalmente\nà essas\nverdades tenebrosas. Vou tentar ser o mais\nhonesto possível...",
+        "es": "[Sumo sacerdote Zhed]\nQuizás tengas\nalgo de razón. Puede que no\nsea buena idea\nexponerla a la cruda\nverdad. Trataré de hablar con la\nmayor sinceridad posible…"
+    },
+    "2C8UAQ": {
+        "en": "[High Priest Zhed]\nWell, there's no time\nto waste. The two of us may\nnot be enough to convince\nthe pope to act for peace.\nI already have someone in\nmind that might help us.",
+        "pt": "[Sumo Sacerdote Zhed]\nBom, não há tempo\na desperdiçar. Nós dois talvez\nnão sejamos suficientes para convencer\na Papisa a agir pela paz.\nMas já tenho alguém em mente\nque pode nos ajudar.",
+        "es": "[Sumo sacerdote Zhed]\nBien, no\nperdamos tiempo. Puede que tú y yo\nno logremos convencer\na la papisa de que abogue por la paz.\nYa tengo a alguien en\nmente que podría ayudarnos."
+    },
+    "2S8UAQ": {
+        "en": "[{0}]\nThat sounds good.\nWho is he?",
+        "pt": "[{0}]\nIsso parece bom.\nQuem é ele?",
+        "es": "[{0}]\nMe parece bien.\n¿Quién es?"
+    },
+    "2i8UAQ": {
+        "en": "[High Priest Zhed]\nMy old friend, High Priest\nNiren. I'm not sure if she'll\nhelp me after all that's\nhappened between us. She\nmay even think I deserve\nto be excommunicated...",
+        "pt": "[Sumo Sacerdote Zhed]\nMinha velha amiga, \nSuma Sacerdotisa Niren. Não tenho certeza se ela vai\nme ajudar depois de tudo o que\naconteceu entre nós. Talvez ela ache até que eu mereça\nser excomungado...",
+        "es": "[Sumo sacerdote Zhed]\nUna vieja amiga, la suma sacerdotisa\nNiren. No sé muy bien si\nme ayudará, con todo\nlo que pasó entre ella y yo. Quizás\nhasta piense que merezco\nla destitución…"
+    },
+    "2y8UAQ": {
+        "en": "[{0}]\nCome on, it wouldn't\nhurt to try! Besides,\nNiren isn't a bad person.\nMaybe she'll understand\nthe way you see things\nif you explain them?",
+        "pt": "[{0}]\nVamos lá, não custa tentar!\nAlém disso,\na Niren não é uma má pessoa.\nTalvez ela entenda\na forma como você enxerga as coisas\nse você explicar para ela.",
+        "es": "[{0}]\n¡Vamos, no se pierde\nnada con intentar! Además,\nNiren no es mala persona.\nQuizás comprenda\ntu modo de ver las cosas\nsi se lo explicas."
+    },
+    "3C8UAQ": {
+        "en": "[High Priest Zhed]\nYou're right, of course.\nI'm just grasping at straws\nhere, but she and I both used\nto believe that peace was\npossible. I don't know why\nshe joined the hard-liners...",
+        "pt": "[Sumo Sacerdote Zhed]\nClaro que você tem razão.\nEstou apenas tentando ver todas as possibilidades, mas tanto eu quanto ela costumávamos\nacreditar que a paz era\npossível. Não sei por que\nela se juntou aos radicais...",
+        "es": "[Sumo sacerdote Zhed]\nTienes razón, claro.\nSerá un manotazo de ahogado,\npero ella y yo\ncreíamos que la paz era\nposible. No sé por qué \nse unió a la facción fanática…"
+    },
+    "3S8UAQ": {
+        "en": "[High Priest Zhed]\n{0}...\nWould you please talk to\nher, and just see how she's\ndoing? It might not be a good\ntime to mention our plan\nright away, though...",
+        "pt": "[Sumo Sacerdote Zhed]\n{0}...\nVocê poderia ir falar com\nela e ver como ela está?\nTalvez não seja uma boa\nideia mencionar nosso plano\nlogo de cara...",
+        "es": "[Sumo sacerdote Zhed]\n{0}…\n¿podrías hablar con\nella y averiguar cómo\nestá? Quizás no sea\nideal mencionar el plan\nenseguida…"
+    },
+    "3i8UAQ": {
+        "en": "[High Priest Zhed]\nIf you think that you\nhave a chance of convincing\nher, then feel free and offer\nmy proposal. Her office is\nlocated across from here,\nbut she's always very busy...",
+        "pt": "[Sumo Sacerdote Zhed]\nSe você acha que consegue convencer\nela, fique à vontade e ofereça\nminha proposta. A sala dela fica\nlogo aqui em frente,\nmas ela está sempre muito ocupada...",
+        "es": "[Sumo sacerdote Zhed]\nSi consideras que\npodrías convencerla,\nsiéntete libre de presentarle\nmi propuesta. Su oficina está\nfrente a aquí,\npero siempre está muy ocupada…"
+    },
+    "3y8UAQ": {
+        "en": "[High Priest Zhed]\nThere's actually\na good chance that\nshe is away somewhere\non business. She is highly\nloved by the people, you know.",
+        "pt": "[Sumo Sacerdote Zhed]\nNa verdade, há\numa boa chance de que\nela esteja fora \na trabalho. Ela é muito\namada pelo povo.",
+        "es": "[Sumo sacerdote Zhed]\nEn realidad,\nes muy posible que\nhaya viajado\npor negocios. Es muy\nquerida por la gente, ¿sabes?"
+    },
+    "4C8UAQ": {
+        "en": "[High Priest Zhed]\nPlease speak to Niren,\nand she if she'd be willing\nto help us convince the pope\nto enforce peace in our nation.",
+        "pt": "[Sumo Sacerdote Zhed]\nPor favor, fale com a Niren,\ne veja se ela estaria disposta\na nos ajudar a convencer a Papisa\na impor a paz em nossa nação.",
+        "es": "[Sumo sacerdote Zhed]\nTe pido que hables con Niren;\naverigua si está dispuesta\na ayudarnos a convencer a la papisa\nde asentar la paz en la nación."
+    },
+    "4S8UAQ": {
+        "en": "[High Priest Zhed]\nWelcome back.\nSo did you get a chance\nto speak to Niren? How did\nshe respond to my proposal?",
+        "pt": "[Sumo Sacerdote Zhed]\nBem-vindo de volta.\nEntão, você \nfalou com a Niren? Como ela\nreagiu à minha proposta?",
+        "es": "[Sumo sacerdote Zhed]\nHola de nuevo.\n¿Pudiste\nhablar con Niren? ¿Cómo\nrespondió a mi propuesta?"
+    },
+    "4i8UAQ": {
+        "en": "^3355FFYou explain Niren's reasons\nfor her disappointment in\nthe Moderate priest faction,\nand tell Zhed that she intends\nto carry out the plans for war.^000000",
+        "pt": "^3355FFVocê explica as razões da Niren\npara sua decepção com\na facção dos sacerdotes moderados,\ne diz a Zhed que ela pretende\nlevar adiante os planos de guerra.000000^000000",
+        "es": "^3355FFExplicas por qué Niren\nse decepcionó con\nla facción moderada de los sacerdotes\ny le cuentas a Zhed que pretende\navanzar con sus planes bélicos.^000000"
+    },
+    "4y8UAQ": {
+        "en": "[High Priest Zhed]\n....................\n....................\n....................",
+        "pt": "[Sumo Sacerdote Zhed]\n....................\n....................\n....................",
+        "es": "[Sumo sacerdote Zhed]\n…\n…\n…"
+    },
+    "5C8UAQ": {
+        "en": "[High Priest Zhed]\nHmm... This explains why\nshe and some other high\npriests started being absent\nfrom their offices. Many of\nthem were invited over to\nthe Schwaltzvalt Republic...",
+        "pt": "[Sumo Sacerdote Zhed]\nHumm... Isso explica por que\nela e alguns outros sumos sacerdotes\ncomeçaram a se ausentar\nde suas salas. Muitos\ndeles foram convidados para ir\na República de Schwartzwald...",
+        "es": "[Sumo sacerdote Zhed]\nMmm… Con razón\nella y otros sumos\nsacerdotes empezaron a ausentarse\nde sus oficinas. Muchos\nrecibieron invitación de la\nla República de Schwarzwald…"
+    },
+    "5S8UAQ": {
+        "en": "[High Priest Zhed]\nRegardless, I know for\na fact that war is never\na solution. It only brings\ndeath and destruction.",
+        "pt": "[Sumo Sacerdote Zhed]\nMesmo assim,eu tenho certeza de que a guerra nunca é\na solução. Ela só traz\nmorte e destruição.",
+        "es": "[Sumo sacerdote Zhed]\nComo sea, sé muy\nbien que la guerra jamás\nsoluciona nada. No hace más que provocar\nmuerte y destrucción."
+    },
+    "5i8UAQ": {
+        "en": "[High Priest Zhed]\nGive me a moment.\nI'm going to write\na letter that I want\nyou to give to Niren.",
+        "pt": "[Sumo Sacerdote Zhed]\nSó um momento.\nVou escrever\numa carta que quero\nque você entregue a Niren.",
+        "es": "[Sumo sacerdote Zhed]\nDame un momento.\nEscribiré\nuna carta; quiero\nque se la des a Niren."
+    },
+    "5y8UAQ": {
+        "en": "[High Priest Zhed]\nPlease bring this letter\nto Niren. I hope what\nI have to say will help\nher understand how I feel\nabout these plans for war.",
+        "pt": "[Sumo Sacerdote Zhed]\nPor favor, leve esta carta\npara a Niren. Espero que o que\ntenho a dizer ajude\nela a entender como me sinto\nsobre esses planos de guerra.",
+        "es": "[Sumo sacerdote Zhed]\nLlévale esta carta\na Niren. Ojalá que lo que\ntengo para decirle la ayude\na entender lo que opino\nsobre esa guerra que tienen planeada."
+    },
+    "6C8UAQ": {
+        "en": "^3355FFYou received a letter for\nNiren from High Priest Zhed.^000000",
+        "pt": "^3355FFVocê recebeu uma carta para\nNiren do Sumo Sacerdote Zhed.^000000",
+        "es": "^3355FFRecibes una carta para\nNiren del sumo sacerdote Zhed.^000000"
+    },
+    "6S8UAQ": {
+        "en": "[High Priest Zhed]\nPlease deliver my\nletter to Niren as\nsoon as you can.\nI really appreciate\nyou helping me on this.",
+        "pt": "[Sumo Sacerdote Zhed]\nPor favor, entregue minha\ncarta a Niren o mais\nrápido que puder.\nEu agradeço muito\npor me ajudar com isso.",
+        "es": "[Sumo sacerdote Zhed]\nEntrega mi\ncarta a Niren\napenas puedas.\nAgradezco mucho\nque me ayudes con esto."
+    },
+    "6i8UAQ": {
+        "en": "[High Priest Zhed]\nGreat news! Niren just\nsent me a reply: I can't\nbelieve that she's willing\nto help me! Would you please\ngive her any help that she\nmay need from now on?",
+        "pt": "[Sumo Sacerdote Zhed]\nÓtimas notícias! Niren acabou de\nme enviar uma resposta. Não acredito que ela está disposta\na me ajudar! Você poderia dar a ela toda a ajuda que ela\nprecisar daqui para frente?",
+        "es": "[Sumo sacerdote Zhed]\n¡Excelentes noticias! Niren\nme acaba de responder. ¡No puedo\ncreer que esté dispuesta\na ayudarme! ¿Podrías\nayudarla en todo lo que\nnecesite a partir de ahora?"
+    },
+    "6y8UAQ": {
+        "en": "[High Priest Zhed]\nAh, I've been\nwaiting for you.",
+        "pt": "[Sumo Sacerdote Zhed]\nAh, eu estava te\nesperando!",
+        "es": "[Sumo sacerdote Zhed]\nAh, te estaba\nesperando."
+    },
+    "7C8UAQ": {
+        "en": "[{0}]\nHigh Priest Zhed,\neverything's ready!\nHigh Priest Niren managed\nto send away all of those\nfollowers that were near the\npope. You won't be interrupted.",
+        "pt": "[{0}]\nSumo Sacerdote Zhed,\nestá tudo pronto!\nA Suma Sacerdotisa Niren conseguiu\nse livrar de todos os\nseguidores que estavam perto da Papisa. Você não será interrompido.",
+        "es": "[{0}]\nSumo sacerdote Zhed,\n¡está todo listo!\nLa suma sacerdotisa Niren logró\nechar a todos los\nseguidores que estaban cerca de la\npapisa. Nadie te interrumpirá."
+    },
+    "7S8UAQ": {
+        "en": "[High Priest Zhed]\nI hope we can get the pope\nto understand the situation\nof our nation. I only...\nOh, Freya help us...",
+        "pt": "[Sumo Sacerdote Zhed]\nEspero que consigamos fazer com que a Papisa\ncompreenda a situação\nda nossa nação. Eu só...\nOh, que Freya nos ajude...",
+        "es": "[Sumo sacerdote Zhed]\nOjalá consigamos que la papisa\nentienda el momento por el que está pasando\nla nación. Si tan solo…\nAy, Freya, ayúdanos…"
+    },
+    "7i8UAQ": {
+        "en": "[High Priest Zhed]\n..............\n..............\n..............",
+        "pt": "[Sumo Sacerdote Zhed]\n..............\n..............\n..............",
+        "es": "[Sumo sacerdote Zhed]\n…\n…\n…"
+    },
+    "7y8UAQ": {
+        "en": "[High Priest Zhed]\nAlright, I'm ready.\nLet's receive an\naudience with the\npope, shall we?",
+        "pt": "[Sumo Sacerdote Zhed]\nMuito bem, estou pronto.\nVamos ter uma\naudiência com a papisa, certo?",
+        "es": "[Sumo sacerdote Zhed]\nBien, ya estoy.\nCelebremos\nuna audiencia con la\npapisa, ¿sí?"
+    },
+    "8C8UAQ": {
+        "en": "[High Priest Zhed]\nI'm a little nervous\nabout talking so brazenly\nto the pope, but I'm\nready to go meet her.",
+        "pt": "[Sumo Sacerdote Zhed]\nEstou um pouco nervoso\npor falar tão descaradamente\ncom a Papisa, mas estou\npronto para ir ao encontro dela.",
+        "es": "[Sumo sacerdote Zhed]\nMe da un poco de nervios\nhablar con tanta insolencia\nante la papisa, pero\nestoy en condiciones para verla."
+    },
+    "8S8UAQ": {
+        "en": "[High Priest Zhed]\nI believe that Niren\nhas something important\nto tell you. Why don't\nyou speak to her before\ncoming back to me?",
+        "pt": "[Sumo Sacerdote Zhed]\nAcredito que a Niren\ntem algo importante\npara lhe dizer. Por que não\nfala com ela antes de\nvoltar para falar comigo?",
+        "es": "[Sumo sacerdote Zhed]\nCreo que Niren\ntiene algo importante\npara decirte. ¿Por qué no\nhablas con ella antes\nde volver a verme?"
+    },
+    "8i8UAQ": {
+        "en": "[High Priest Zhed]\nI'm glad that everything\nturned out great. Your\nhelp was truly a blessing.\nAlthoug Schwaltzvalt will\ncontinue their plans without\nus, we've slowed them down.",
+        "pt": "[Sumo Sacerdote Zhed]\nFico feliz que deu tudo certo.\n. Sua\najuda foi realmente uma bênção.\nEmbora Schwartzwald vá\ncontinuar seus planos sem\nnossa ajuda, pelo menos conseguimos atrasá-los.",
+        "es": "[Sumo sacerdote Zhed]\nMe alegro de que todo\nhaya salido muy bien. Tu\nayuda fue toda una bendición.\nAunque Schwarzwald\navanzará con sus planes sin\nnuestra participación, los atrasamos."
+    },
+    "8y8UAQ": {
+        "en": "[High Priest Zhed]\nYes, without our support,\nSchwaltzvalt won't have\nany excuse to continue\ntheir dangerous research\nfor a little while, at least.",
+        "pt": "[Sumo Sacerdote Zhed]\nSim, sem o nosso apoio,\nSchwartzwald não terá\nnenhuma desculpa para continuar\nsuas pesquisas perigosas.\nPelo menos por um tempo.",
+        "es": "[Sumo sacerdote Zhed]\nSí, sin nuestro apoyo,\nSchwarzwald no tendrá\nexcusa para continuar\ncon su peligrosa investigación,\nal menos por un tiempo."
+    },
+    "9C8UAQ": {
+        "en": "[High Priest Zhed]\nThor Volcano Camp\nshould close down soon,\nnow that we no longer\nhave any use for it.",
+        "pt": "[Sumo Sacerdote Zhed]\nO Acampamento do Vulcão de Thor\ndeve fechar em breve,\nagora que não temos mais\nmais nenhuma utilidade para ele.",
+        "es": "[Sumo sacerdote Zhed]\nEl campamento del volcán Thor\nse levantará pronto,\nya que no\nnos sirve más."
+    },
+    "9S8UAQ": {
+        "en": "[High Priest Zhed]\nI also underestimated our\npope. She is more dignified,\nwilled that I believed.\nI owe her my apologies.",
+        "pt": "[Sumo Sacerdote Zhed]\nEu também subestimei nossa Papisa. Ela é mais digna\ne determinada do que eu acreditava.\nDevo a ela minhas desculpas.",
+        "es": "[Sumo sacerdote Zhed]\nY también subestimé a nuestra\npapisa. Es más digna\ny tenaz de lo que pensaba.\nDebo disculparme con ella."
+    },
+    "9i8UAQ": {
+        "en": "[High Priest Zhed]\nWe won't give up on\nreviving our goddess Freya,\nbut we will retrieve Ymir's\nHeart through diplomacy\nrather than violence.\nIt won't be easy...",
+        "pt": "[Sumo Sacerdote Zhed]\nNão desistiremos de\nreviver nossa deusa Freya,\nmas recuperaremos o Coração de Ymir\npor meio da diplomacia\nem vez da violência.\nNão vai ser fácil...",
+        "es": "[Sumo sacerdote Zhed]\nNo abandonaremos\nel afán por revivir a la diosa Freya,\npero recuperaremos el Corazón de Ymir\nmediante diplomacia,\nen vez de violencia.\nNo será fácil…"
+    },
+    "9y8UAQ": {
+        "en": "[High Priest Zhed]\nYou've been instrumental\nin returning peace here in\nArunafeltz. I've even been\nreinstated, and will be very\nbusy from now on, working\nclosely with the pope...",
+        "pt": "[Sumo Sacerdote Zhed]\nVocê tem sido fundamental\nno retorno da paz aqui em\nArunafeltz. Eu até fui\nreintegrado e estarei muito\nocupado de agora em diante,\ntrabalhando diretamente com a Papisa...",
+        "es": "[Sumo sacerdote Zhed]\nTú fuiste esencial\npara recuperar la paz de\nArunafeltz. Y hasta me\nreincorporaron; tendré mucho\ntrabajo entre manos a partir de ahora,\njunto con la papisa…"
+    },
+    "+C8UAQ": {
+        "en": "[High Priest Zhed]\nI know that the life of\nadventuring beckons you.\nI know she'd like to see\nyou before you leave, but\nshe's sleeping deeply after\nthat exhausting speech...",
+        "pt": "[Sumo Sacerdote Zhed]\nEu sei que a vida de\naventura é o que atrai você.\nSei que ela gostaria de te ver\nantes de você partir, mas\nela está dormindo profundamente depois\ndaquele discurso exaustivo...",
+        "es": "[Sumo sacerdote Zhed]\nSé que la vida de\naventuras te llama.\nSé que ella querría verte\nantes de que te vayas, pero\nduerme profundamente tras\nese discurso agotador…"
+    },
+    "+S8UAQ": {
+        "en": "[High Priest Zhed]\nOn behalf of our pope\nand all the citizens of\nArunafeltz, I'd like to\nthank you for your heroism.\nYour place in Valhalla is\nalready assured, I'm sure.",
+        "pt": "[Sumo Sacerdote Zhed]\nEm nome da nossa Papisa\ne de todos os cidadãos de\nArunafeltz, eu gostaria de\nte agradecer por seu heroísmo.\nSeu lugar em Valhalla\njá está garantido, tenho certeza.",
+        "es": "[Sumo sacerdote Zhed]\nEn nombre de la papisa\ny del pueblo entero de\nArunafeltz, quiero\nagradecerte por tu heroísmo.\nTu lugar en el Valhalla\nya está asegurado, no lo dudo."
+    },
+    "+i8UAQ": {
+        "en": "[High Priest Zhed]\nMay Freya bless you\non all your journeys,\nmy good friend.",
+        "pt": "[Sumo Sacerdote Zhed]\nQue Freya o abençoe\nem todas as suas jornadas,\nmeu bom amigo.",
+        "es": "[Sumo sacerdote Zhed]\nQue Freya te bendiga\nen todos tus viajes,\nmi camarada."
+    },
+    "+y8UAQ": {
+        "en": "[High Priest Zhed]\nUgh...!\nI've got such\na horrible headache!",
+        "pt": "[Sumo Sacerdote Zhed]\nUgh...!\nEstou com uma\ndor de cabeça horrível!",
+        "es": "[Sumo sacerdote Zhed]\n¡Uff!\n¡Se me\nparte la cabeza!"
+    },
+    "/C8UAQ": {
+        "en": "[High Priest Zhed]\nI should rest for now.\nPlease travel in safety.",
+        "pt": "[Sumo Sacerdote Zhed]\nDevo descansar por enquanto.\nPor favor, viaje em segurança.",
+        "es": "[Sumo sacerdote Zhed]\nPor ahora, será mejor que descanse.\nViaja con cuidado."
+    },
+    "/S8UAQ": {
+        "en": "[High Priest Zhed]\nMay Freya be with you.",
+        "pt": "[Sumo Sacerdote Zhed]\nQue Freya esteja com você.",
+        "es": "[Sumo sacerdote Zhed]\nQue Freya te acompañe."
+    },
+    "/i8UAQ": {
+        "en": "^3355FFYou find a small\nshining object laid\non the floor.^000000",
+        "pt": "^3355FFVocê encontra um pequeno\nobjeto brilhante caído no chão.\n^000000",
+        "es": "^3355FFEncuentras un\nobjeto pequeño y brillante\nen el suelo.^000000"
+    },
+    "/y8UAQ": {
+        "en": "Ignore",
+        "pt": "Ignorar",
+        "es": "Ignorar."
+    },
+    "ADAUAQ": {
+        "en": "Pick It Up",
+        "pt": "Pegar",
+        "es": "Recoger."
+    },
+    "ATAUAQ": {
+        "en": "^3355FFYou decided to ignore\nthe small shining object,\nno matter how important it\nmay be to you in the future.^000000",
+        "pt": "^3355FFVocê decidiu ignorar\no pequeno objeto brilhante,\nnão importa o quão importante ele\npossa ser para você no futuro.^000000",
+        "es": "^3355FFDecidiste ignorar\nel objeto pequeño y brillante,\npor más importante que\nte resulte en el futuro.^000000"
+    },
+    "AjAUAQ": {
+        "en": "^3355FFUpon picking up the\nobject, you are able to\nidentify it as a small key.\nPerhaps you can use it to\nopen some kind of lock.^000000",
+        "pt": "^3355FFAo pegar o\nobjeto, você é capaz de\nidentificá-lo como uma pequena chave.\nTalvez você possa usá-la para\nabrir algum tipo de fechadura.^000000",
+        "es": "^3355FFCuando recoges el\nobjeto, lo\nreconoces: es una llavecita.\nQuizás la puedas usar para\nabrir una cerradura.^000000"
+    },
+    "AzAUAQ": {
+        "en": "^3355FFThis must be the\nentrance to the Holy\nGround. However, the\ndoor in your way is locked.^000000",
+        "pt": "^3355FFEsta deve ser a\nentrada para o Solo Sagrado. No entanto, a porta\nem seu caminho está trancada.^000000",
+        "es": "^3355FFEsta debe ser la\nentrada al Suelo\nsagrado. Sin embargo, la\npuerta está cerrada.^000000"
+    },
+    "BDAUAQ": {
+        "en": "Quit",
+        "pt": "Sair",
+        "es": "Salir."
+    },
+    "BTAUAQ": {
+        "en": "Use Small Key",
+        "pt": "Usar Chave Pequena",
+        "es": "Usar llavecita."
+    },
+    "BjAUAQ": {
+        "en": "^3355FFYou insert the Small\nKey that you found in\nHigh Priest Zhed's room,\nand find that it is able\nto unlock this door.^000000",
+        "pt": "^3355FFVocê insere a pequena\nchave que encontrou na sala do\nSumo Sacerdote Zhed,\ne descobriu que ela é capaz de\ndestrancar essa porta.^000000",
+        "es": "^3355FFColocas la\nllavecita que encontraste en\nla habitación del sumo sacerdote Zhed;\nves que\ncorresponde a esta puerta.^000000"
+    },
+    "BzAUAQ": {
+        "en": "^3355FFThis door is locked.^000000",
+        "pt": "^3355FFEsta porta está trancada.^000000",
+        "es": "^3355FFLa puerta está cerrada.^000000"
+    },
+    "CDAUAQ": {
+        "en": "^3355FFThis large area looks\nlike it was artificially built\nfor some reason--it doesn't\nseem like an area naturally\ninfested by monsters.^000000",
+        "pt": "^3355FFEssa grande área parece ter sido\nconstruída artificialmente\npor alguma razão. Não parece\nser uma área naturalmente\ninfestada por monstros.^000000",
+        "es": "^3355FFEsta zona amplia parece\nhaber sido construida\ncon algún fin. No\nparece que se hubiera\nllenado sola de monstruos.^000000"
+    },
+    "CTAUAQ": {
+        "en": "^3355FFPerhaps if you explore\nthis place, you'll be able\nto find something interesting.^000000",
+        "pt": "^3355FFTalvez, se você explorar\neste lugar, você será capaz de\nencontrar algo interessante.^000000",
+        "es": "^3355FFSi la exploras,\nquizás encuentres\nalgo interesante.^000000"
+    },
+    "CjAUAQ": {
+        "en": "^3355FFThere's something here\nbeneath the water. This\nmay warrant a closer look...^000000",
+        "pt": "^3355FFTem alguma coisa aqui\nembaixo d'água. Isso\npode justificar uma olhada mais de perto...^000000",
+        "es": "^3355FFAhí hay algo,\nbajo el agua. Quizás\namerite investigarlo…^000000"
+    },
+    "CzAUAQ": {
+        "en": "^3355FFNo wonder this object\nin the water seems so\nfamiliar: it's a Ymir's\nHeart Piece! In fact, there's\ndozens of them just lying here.^000000",
+        "pt": "^3355FFNão é de se admirar que esse objeto\nna água pareça tão\nfamiliar: é um pedaço de Coração de Ymir! Na verdade, há \ndezenas deles espalhados por aqui.^000000",
+        "es": "^3355FFCon razón este objeto\nque está en el agua me resulta tan\nconocido: ¡es una pieza\ndel Corazón de Ymir! De hecho, hay\ndecenas desparramadas por ahí.^000000"
+    },
+    "DDAUAQ": {
+        "en": "^3355FFWhy would so many of these\npowerful artifacts be here\nin the Holy Ground? Perhaps\nthis is the secret that the\npriests are trying to keep.^000000",
+        "pt": "^3355FFPor que têm tantos desses\nartefatos poderosos aqui\nno Solo Sagrado? Talvez\nseja esse o segredo que os\nsacerdotes estão tentando guardar.^000000",
+        "es": "^3355FF¿Por qué hay tantos\nartefactos poderosos\nen el Suelo sagrado? Quizás\neste es el secreto que\npretenden conservar los sacerdotes.^000000"
+    },
+    "DTAUAQ": {
+        "en": "[High Priestess Niren]\nHow dare you intrude\nthe Holy Ground! Identify\nyourself! I'll have you tried!",
+        "pt": "[Suma Sacerdotisa Niren]\nComo você se atreve a invadir\no Solo Sagrado! Identifique-se!\nFarei com que você seja julgado!",
+        "es": "[Suma sacerdotisa Niren]\n¡¿Cómo te atreves a profanar\nel Suelo sagrado?! ¡Dime quién\neres! ¡Haré que te castiguen!"
+    },
+    "DjAUAQ": {
+        "en": "[High Priestess Niren]\nO-oh! It's you, the\nadventurer recommended\nby Bekento. Hm. I apologize\nfor snapping at you like\nthat. Didn't you know that\nno one's allowed here?",
+        "pt": "[Suma Sacerdotisa Niren]\nAh! É você, o\naventureiro indicado\npor Bekento. Hum. Peço desculpas\npor tê-lo atacado assim\nassim. Você não sabia que\né proibido entrar aqui?",
+        "es": "[Suma sacerdotisa Niren]\n¡A-ah! Eres tú,\nla persona que me recomendó\nBekento. Mmm. Perdón\npor agredirte\nasí. ¿No sabías que\nnadie puede entrar aquí?"
+    },
+    "DzAUAQ": {
+        "en": "[High Priestess Niren]\nHmm. Well, you Rune-Midgard\nadventurers are famous for your\nskills and abilities, but this\nwas not expected. I mean, we\nwe made sure this place was\nabsolutely secure.",
+        "pt": "[Suma Sacerdotisa Niren]\nHum. Bom, vocês, aventureiros de Rune-Midgard,\nsão famosos por suas\nhabilidades e competência, mas isso\nnão era esperado. Quer dizer, nós\nnos certificamos de que esse lugar fosse\ncompletamente seguro.",
+        "es": "[Suma sacerdotisa Niren]\nMmm. Es cierto que ustedes, trotamundos de Rune-Midgard,\nson célebres por sus\nhabilidades y capacidades, pero\nno me esperaba esto. Digo,\nnos aseguramos de que este lugar estuviera\ntotalmente a salvo."
+    },
+    "EDAUAQ": {
+        "en": "[High Priestess Niren]\nWhat's done is done...\nI warned Bekento that he\nmight cause trouble for you,\nbut it seems that you've\ncaused trouble for him.",
+        "pt": "[Suma Sacerdotisa Niren]\nO que está feito está feito...\nEu avisei o Bekento que ele\npoderia causar problemas para você,\nmas parece que você\ncausou problemas para ele.",
+        "es": "[Suma sacerdotisa Niren]\nLo hecho, hecho está…\nLe advertí a Bekento que\npodría causarte problemas,\npero parece que\ntú le causaste problemas a él."
+    },
+    "ETAUAQ": {
+        "en": "[High Priestess Niren]\nUnderstand this:\nmost intruders are\nseverely punished, but\nbecause of my friendship\nwith Bekento, I'm letting\nyou off easy. Remember that...",
+        "pt": "[Suma Sacerdotisa Niren]\nEntenda uma coisa:\na maioria dos intrusos é\nseveramente punida, mas\npor causa de minha amizade\ncom Bekento, vou deixar você sair com um aviso. Lembre-se disso...",
+        "es": "[Suma sacerdotisa Niren]\nDebes entenderlo:\ncasi todos los intrusos reciben\ncastigos severos, pero\napelaré a mi amistad\ncon Bekento y te lo\ndejaré pasar. No lo olvides…"
+    },
+    "EjAUAQ": {
+        "en": "^3355FFNiren began to chant\nin a low voice, and your\neyelids grow heavier as you\ngrow drowsier and sleepier...^000000",
+        "pt": "^3355FFNiren começa a cantar\nem voz baixa, e suas\npálpebras ficam mais pesadas à medida que você\nfica cada vez mais sonolento...^000000",
+        "es": "^3355FFNiren entona un canto\nen voz baja. Te\npesan los párpados\ny te sumes en un sopor total…^000000"
+    },
+    "EzAUAQ": {
+        "en": "^3355FFYou feel a slight headache\nafter you recollect your senses.^FFFFFF  ^3355FF Somehow, you're been brought\nback to Rachel Town. How long\nhave you been unconscious?^000000",
+        "pt": "^3355FFVocê sente uma leve dor de cabeça\ndepois de recuperar seus sentidos.^FFFFFF ^3355FF De alguma forma, você foi trazido\nde volta à Cidade de Rachel. Por quanto tempo será\nque você ficou inconsciente?^000000",
+        "es": "^3355FFSientes un leve dolor de cabeza\ncuando recuperas los sentidos.^FFFFFF^3355FF Alguien te llevó\nde vuelta a Rachel. ¿Cuánto tiempo\nestuviste inconsciente?^000000"
+    },
+    "FDAUAQ": {
+        "en": "^3355FFIt would be best to\nask High Priest Zhed\nabout what had happened.^000000",
+        "pt": "^3355FFÉ melhor\nperguntar ao Sumo Sacerdote Zhed\nsobre o que aconteceu.^000000",
+        "es": "^3355FFLo mejor sería\npreguntarle al sumo sacerdote Zhed\nsobre lo que pasó.^000000"
+    },
+    "FTAUAQ": {
+        "en": "^3355FFIt sounds like they're\nstill talking. It'd be\nbest to patient and wait\njust a little while longer.^000000",
+        "pt": "^3355FFParece que eles\nainda estão conversando. É\nmelhor ser paciente e esperar\num pouco mais.^000000",
+        "es": "^3355FFParece que\nsiguen hablando. Lo\nmejor será tener paciencia y esperar\nun poquito más.^000000"
+    },
+    "FjAUAQ": {
+        "en": "^3355FFIt sounds like they're\nstill talking. It'd be\nbest to patient and wait\njust a little while longer.\nStill... It's awfully boring.^000000",
+        "pt": "^3355FFParece que eles\nainda estão conversando. É\nmelhor ser paciente e esperar\num pouco mais.\nMesmo assim... É muito chato.^000000",
+        "es": "^3355FFParece que\nsiguen hablando. Lo\nmejor será tener paciencia y esperar\nun poquito más.\nPero… es demasiado aburrido.^000000"
+    },
+    "FzAUAQ": {
+        "en": "^3355FFA little eavesdropping\nnever hurt anyone. Maybe\nyou can hear them a little\nbetter if you listen from\nthe left side of the wall.^000000",
+        "pt": "^3355FFUma leve espiadinha\nnunca fez mal a ninguém. Talvez\nvocê consiga ouvi-los um pouco\nmelhor se você ouvir do lado esquerdo da parede.^000000",
+        "es": "^3355FFSi escuchas un poquito\nno pasará nada. Quizás\nescuches\nmejor si vas\nal lado izquierdo de la pared.^000000"
+    },
+    "GDAUAQ": {
+        "en": "^3355FFAt this distance, you\ncan clearly hear the\nvoices from the other\nside of the wall...",
+        "pt": "^3355FFA essa distância, você\npode ouvir claramente as\nvozes do outro\nlado da parede...",
+        "es": "^3355FFA esta distancia,\noyes con claridad\nlas voces al otro\nlado de la pared…"
+    },
+    "GTAUAQ": {
+        "en": "[????]\n...Was it really\nnecessary to involve\nan outside in this\nsituation? Answer me!",
+        "pt": "[????]\n...Foi realmente\nnecessário envolver\num forasteiro nessa\nsituação? Responda-me!",
+        "es": "[¿?]\n¿En serio era\nnecesario involucrar\na alguien de afuera en esta\nsituación? ¡Respóndeme!"
+    },
+    "GjAUAQ": {
+        "en": "[High Priest Zhed]\nIs this about the\naccident? You know that\nI've disagreed with the\nactions that have led to\nthe mana leakage.",
+        "pt": "[Sumo Sacerdote Zhed]\nIsso é sobre o\nacidente? Você sabe que\neu discordei das\nações que levaram ao\nvazamento de mana.",
+        "es": "[Sumo sacerdote Zhed]\n¿Tiene algo que ver con el\naccidente? Sabes que\nno estaba de acuerdo con las\nacciones que llevaron a la\nla filtración de maná."
+    },
+    "GzAUAQ": {
+        "en": "[High Priest Zhed]\nEven though I thought\nit was a reckless decision,\nI've closed the shrine and\ndid my best to cover up this\nunfortunate accident.",
+        "pt": "[Sumo Sacerdote Zhed]\nMesmo que eu tenha achado\nque foi uma decisão imprudente,\neu fechei o santuário e\nfiz o possível para encobrir esse\nacidente infeliz.",
+        "es": "[Sumo sacerdote Zhed]\nMe pareció\nuna decisión imprudente, pero\ncerré el santuario e\nhice todo lo posible por ocultar\nel incidente."
+    },
+    "HDAUAQ": {
+        "en": "[????]\nI'm not blaming you. In\nfact, I'll admit it: that was\nour mistake. We caused\nthe monster infestation by\nletting the mana leak...",
+        "pt": "[????]\nNão estou culpando você. \nNa verdade, eu admito: esse erro foi nosso. Nós causamos\na infestação de monstros ao\ndeixar a mana vazar...",
+        "es": "[¿?]\nNo te culpo. De\nhecho, lo admito: fue\nun error nuestro. Provocamos\nla plaga de monstruos porque\npermitimos que se filtrara el maná…"
+    },
+    "HTAUAQ": {
+        "en": "[????]\nBut that's not related\nto what I'm asking you!\nDo you really think it's\nalright to allow an outsider\nto speak to our pope during\nsuch a tumultuous time?!",
+        "pt": "[????]\nMas isso não tem nada a ver\ncom o que estou te perguntando!\nVocê realmente acha que é\nprudente permitir que um forasteiro\nfale com nossa Papisa durante\num momento tão conturbado?!",
+        "es": "[¿?]\n¡Pero no tiene nada que ver\ncon lo que te estoy preguntando!\n¡¿En serio te parece\nbien permitir que alguien de afuera\nhable con la papisa en\nuna situación tan complicada?!"
+    },
+    "HjAUAQ": {
+        "en": "[High Priest Zhed]\nWhy not? I thought it'd\nbring her great comfort.\nShe is very confused as to\nwhy the Holy Ground has been\nclosed, and she cannot know\nwhat is happening there.",
+        "pt": "[Sumo Sacerdote Zhed]\nPor que não? Achei que isso\ntraria a ela um grande conforto.\nEla está muito confusa quanto ao\npor que o Solo Sagrado foi\nfechado, e ela não pode saber\no que está acontecendo lá.",
+        "es": "[Sumo sacerdote Zhed]\n¿Por qué no? Imaginé que la\nconsolaría mucho.\nEstá muy confundida; no sabe\npor qué el Suelo sagrado quedó \ncerrado, y no tiene forma de saber\nqué está ocurriendo allí."
+    },
+    "HzAUAQ": {
+        "en": "[High Priest Zhed]\nAgain... I strongly\ndisagree with what is\nsecretly going on over\nthere. I know that I can't\nofficially oppose this\ncourse of action, but...",
+        "pt": "[Sumo Sacerdote Zhed]\nMais uma vez... Eu discordo totalmente\ndas coisas secretas\nque estão acontecendo\nlá. Eu sei que não posso me opor oficialmente a essa\ndecisão, mas...",
+        "es": "[Sumo sacerdote Zhed]\nDe nuevo… estoy en total\ndesacuerdo con lo que está \npasando en secreto\nahí. Sé que no puedo\nobjetar oficialmente\nestas medidas, pero…"
+    },
+    "IDAUAQ": {
+        "en": "[????]\nThere's nothing to worry\nabout! It'll all be over before\nyou know it. Besides, it's\ntoo late to turn back now,\nso I warn you: don't you\ndare do anything foolish.",
+        "pt": "[????]\nNão precisa se preocupar\ncom nada! Tudo estará terminado antes\nque você perceba. Além disso, agora é\ntarde demais para voltar atrás,\nportanto, preste atenção: não\nouse fazer nenhuma besteira!",
+        "es": "[¿?]\n¡No hay de qué \npreocuparse! Todo habrá terminado\ncuando te quieras dar cuenta. Además, ya es\nmuy tarde para arrepentirse,\nasí que te lo advierto: ni\nse te ocurra hacer alguna tontería."
+    },
+    "ITAUAQ": {
+        "en": "^3355FFSomeone's coming!\nYou'd better step away\nfrom the way and feign\nignorance as best you can!^000000",
+        "pt": "^3355FFAlguém está vindo!\nÉ melhor você sair\ndo caminho e fingir\nignorância da melhor forma possível!^000000",
+        "es": "^3355FF¡Se acerca alguien!\nSerá mejor que te apartes\ndel camino y finjas\nno saber nada!^000000"
+    },
+    "IjAUAQ": {
+        "en": "[High Priestess Niren]\nOh! You must be the one\nHigh Priest Be- er, Zhed,\ntold me about. It's very nice\nto meet you. High Priestess\nNiren, at your service.",
+        "pt": "[Suma Sacerdotisa Niren]\nAh! Você deve ser a pessoa que o\nSumo Sacerdote Be... hã, Zhed,\nme falou. \nMuito prazer em conhecer você. Suma Sacerdotisa\nNiren, a seu serviço.",
+        "es": "[Suma sacerdotisa Niren]\n¡Ah! Tú debes ser de quien\nme habló el sumo sacerdote Be…\ndigo, Zhed. Es un gusto\nconocerte. Soy la suma sacerdotisa\nNiren, a tu servicio."
+    },
+    "IzAUAQ": {
+        "en": "[High Priestess Niren]\nI hear that you had the\nprivilege of speaking with\nour pope, and that she had\na wonderful time. What did\nyou think of her, hm?",
+        "pt": "[Suma Sacerdotisa Niren]\nEu soube que você teve\no privilégio de falar com\nnossa Papisa, e que ela se divertiu muito\ncom você. \nO que achou dela?",
+        "es": "[Suma sacerdotisa Niren]\nMe dijeron que tuviste el\nprivilegio de hablar con\nla papisa, y que ella\nla pasó muy bien. ¿Qué te\npareció ella?"
+    },
+    "JDAUAQ": {
+        "en": "She's different than what I expected...",
+        "pt": "Ela é diferente do que eu imaginava...",
+        "es": "No es como imaginé…"
+    },
+    "JTAUAQ": {
+        "en": "[High Priestess Niren]\nAh, I know what you mean...\nUsually, most outsiders tell\nme that they expect our pope\nto be a wizened old man.\nBut that's not the case\nhere in Arunafeltz.",
+        "pt": "[Suma Sacerdotisa Niren]\nAh, eu sei o que você quer dizer...\nNormalmente, a maioria dos forasteiros me diz\nque esperavam que a nossa Papisa\nfosse um homem idoso e experiente.\nMas esse não é o caso\naqui em Arunafeltz.",
+        "es": "[Suma sacerdotisa Niren]\nAh, ya sé a qué te refieres…\nCasi toda la gente de afuera me dice\nque pensaba que la papisa\nen realidad es un sabio entrado en años.\nPero no es así \naquí, en Arunafeltz."
+    },
+    "JjAUAQ": {
+        "en": "[High Priestess Niren]\nUsually, our pope is chosen\nby her resemblance to our\ngoddess Freya. She must\nhave silvery blond hair, snowy\nskin, and divinely colored\neyes. You saw, didn't you?",
+        "pt": "[Suma Sacerdotisa Niren]\nNormalmente, nossa Papisa é escolhida\npor sua semelhança com a\ndeusa Freya. Ela deve\nter cabelos loiros prateados, \npele branca como a neve e olhos divinamente coloridos.\nVocê viu, não viu?",
+        "es": "[Suma sacerdotisa Niren]\nEn general, designamos a la papisa\nsegún cuánto se parece a la\ndiosa Freya. Debe\ntener el pelo rubio plateado,\npiel nívea y un color de ojos\ncelestial. Lo viste, ¿verdad?"
+    },
+    "JzAUAQ": {
+        "en": "[High Priestess Niren]\nI'm curious: what kinds\nof things did you and the\npope talk about? As you know,\nwe priests are forbidden from\nleaving Arunafeltz, so...",
+        "pt": "[Suma Sacerdotisa Niren]\nEstou curiosa: sobre o que você e a Papisa conversaram? Como você sabe,\nnós, sacerdotes, somos proibidos de\nsair de Arunafeltz, então...",
+        "es": "[Suma sacerdotisa Niren]\nMe intriga algo: ¿de qué \ntemas\nhablaste con la papisa? Como sabes,\nlos sacerdotes tenemos prohibido\nsalir de Arunafeltz, así que…"
+    },
+    "KDAUAQ": {
+        "en": "^3355FFYou relate the details of\nyour talk with the pope, but\nyou make sure not to mention\nanything about the Holy Ground\nas High Priest Zhed had asked.^000000",
+        "pt": "^3355FFVocê relata os detalhes de\nsua conversa com a Papisa, mas\nnão menciona nada sobre o Solo Sagrado,\ncomo o Sumo Sacerdote Zhed havia pedido.^000000",
+        "es": "^3355FFLe cuentas detalles\nsobre tu conversación con la papisa, pero\nprocuras no mencionar\nnada sobre el Suelo sagrado,\ntal como te pidió el sumo sacerdote Zhed.^000000"
+    },
+    "KTAUAQ": {
+        "en": "[High Priestess Niren]\nAh, that's fairly\ninteresting, your land.\nTell me, how did you come\nto know Bekento, er, I mean,\nHigh Priest Zhed?",
+        "pt": "[Suma Sacerdotisa Niren]\nAh, sua terra parece ser bem interessante.\nDiga-me, como você conheceu\no Bekento, hã, quero dizer,\no Sumo Sacerdote Zhed?",
+        "es": "[Suma sacerdotisa Niren]\nAh, es muy\ninteresante tu tierra.\nDime: ¿cómo llegaste\na conocer a Bekento… digo,\nal sumo sacerdote Zhed?"
+    },
+    "KjAUAQ": {
+        "en": "[{0}]\n(^666666Bekento?^000000)",
+        "pt": "[{0}]\n(^666666Bekento?^000000)",
+        "es": "[{0}]\n(^666666¿Bekento?^000000)"
+    },
+    "KzAUAQ": {
+        "en": "Explain how You Met High Priest Zhed",
+        "pt": "Explicar como Você Conheceu o Sumo Sacerdote Zhed",
+        "es": "Explicar cómo conociste al sumo sacerdote Zhed."
+    },
+    "LDAUAQ": {
+        "en": "......\n.........\n............",
+        "pt": "......\n.........\n............",
+        "es": "…\n.........\n............"
+    },
+    "LTAUAQ": {
+        "en": "[High Priestess Niren]\n......\n..........\nThat's all? Hm? That's \npretty funny. ^333333*Sigh*^000000 I believe\nhe trusts people too much...\nBut that's only my opinion.",
+        "pt": "[Suma Sacerdotisa Niren]\n......\n..........\nIsso é tudo? Hum? Isso é \nbem engraçado. ^333333*Suspiro*^000000 \nAcho que ele confia demais nas pessoas...\nMas essa é apenas a minha opinião.",
+        "es": "[Suma sacerdotisa Niren]\n…\n…\n¿Nada más? ¿Eh? Es \nmuy curioso. ^333333*Suspira*^000000 Creo que\nconfía demasiado en la gente…\nPero es mi opinión, nada más."
+    },
+    "LjAUAQ": {
+        "en": "[High Priestess Niren]\nIf you don't mind...\nI want to give you a bit of\nadvice. Don't get too close\nto High Priest Zhed. If you\ndo, you might end up getting\nyourself in trouble...",
+        "pt": "[Suma Sacerdotisa Niren]\nSe não se importa...\nQuero lhe dar um\nconselho. Não fique muito próximo\ndo Sumo Sacerdote Zhed. Se você\nse aproximar demais, pode acabar \ntendo problemas...",
+        "es": "[Suma sacerdotisa Niren]\nSi no te molesta…\nquiero darte un\nconsejo. No te acerques mucho\nal sumo sacerdote Zhed. Si lo\nhaces, puede que te metas\nen problemas…"
+    },
+    "LzAUAQ": {
+        "en": "^3355FFHigh Priestess Niren left\nas soon as she said those words.\nWhat could she possibly mean?\nFor now, you may as well\ntalk to High Priest Zhed.^000000",
+        "pt": "^3355FFA Suma Sacerdotisa Niren foi embora\nassim que disse essas palavras.\nO que ela poderia estar querendo dizer?\nPor enquanto, é melhor você ir\nfalar com o Sumo Sacerdote Zhed.^000000",
+        "es": "^3355FFLa suma sacerdotisa Niren se va\napenas dice esas palabras.\n¿Qué habrá querido decir?\nPor ahora, será mejor\nhablar con el sumo sacerdote Zhed.^000000"
+    },
+    "MDAUAQ": {
+        "en": "High Priestess Niren",
+        "pt": "Suma Sacerdotisa Niren",
+        "es": "Suma Sacerdotisa Niren"
+    },
+    "MTAUAQ": {
+        "en": "Pope's Office Guard",
+        "pt": "Guarda da Sala da Papisa",
+        "es": "Guardia del Despacho del Papa"
+    },
+    "MjAUAQ": {
+        "en": "[Pope's Office Guard]\nHm? What's that you have\nthere? Oh, you've gathered\n40 Glacial Hearts and brought\na recommendation letter from\na High Priest? Most impressive.",
+        "pt": "[Guarda da Sala da Papisa]\nHum? O que é isso que você tem\naí? Ah, você coletou\n40 Corações Glaciais e trouxe\numa carta de recomendação de\num Sumo Sacerdote? Muito impressionante!",
+        "es": "[Guardia de la oficina papal]\n¿Eh? ¿Qué tienes\nahí? Ah, ¿conseguiste\n40 Corazones glaciales y traes\nuna carta de recomendación de\nun sumo sacerdote? Sorprendente."
+    },
+    "MzAUAQ": {
+        "en": "[Pope's Office Guard]\nI think I know why you're\nhere. Thanks for bringing\nthose to me, and I'll let you\nenter and see the pope.\nWelcome, brave {0}.",
+        "pt": "[Guarda da Sala da Papisa]\nAcho que sei por que você está\naqui. Obrigado por trazer\nisso para mim. Eu vou deixá-lo\nentrar e ver a Papisa.\nBem-vindo, valente {0}.",
+        "es": "[Guardia de la oficina papal]\nCreo que sé por qué\nviniste. Gracias por traerme\neso; te dejaré\npasar y ver a la papisa.\nHola, valiente {0}."
+    },
+    "NDAUAQ": {
+        "en": "[Pope's Office Guard]\nThe pope is inside\nexpecting you, so please\ndon't keep her waiting long.",
+        "pt": "[Guarda do Escritório do Papa]\nA Papisa está lá dentro\naguardando por você, então, por favor\nnão a deixe esperando por muito tempo.",
+        "es": "[Guardia de la oficina papal]\nLa papisa está adentro\naguardando;\nno la hagas esperar."
+    },
+    "NTAUAQ": {
+        "en": "[Pope's Office Guard]\nI've heard about you\nfrom High Priestess Niren.\nPlease use the door to\nvisit the pope. Thank you.",
+        "pt": "[Guarda da Sala da Papisa]\nA Suma Sacerdotisa Niren me falou de você.\nPor favor, use a porta para\nvisitar a Papisa. Obrigado.",
+        "es": "[Guardia de la oficina papal]\nLa suma sacerdotisa Niren\nme habló de ti.\nPasa por la puerta para\nver a la papisa. Gracias."
+    },
+    "NjAUAQ": {
+        "en": "[Pope's Office Guard]\nI'm sorry, but the pope\nis officiating a service\nnow. Please come back\nafter the service is ended.",
+        "pt": "[Guarda da Sala da Papisa]\nDesculpe, mas a Papisa\nestá celebrando um culto\nagora. Por favor, volte\napós o término do culto.",
+        "es": "[Guardia de la oficina papal]\nLo siento, la papisa\nestá oficiando una ceremonia\nen este momento. Vuelve\ncuando haya terminado."
+    },
+    "NzAUAQ": {
+        "en": "[Pope's Office Guard]\nI'm sorry, but outsiders\ntypically aren't allowed\nto visit the pope without\nspecial authorization.",
+        "pt": "[Guarda do Escritório do Papa]\nDesculpe, mas forasteiros\ngeralmente não têm permissão\npara visitar a Papisa sem\numa autorização especial.",
+        "es": "[Guardia de la oficina papal]\nLo siento, la gente de afuera\ncasi nunca tiene permitido\nvisitar a la papisa sin\nuna autorización especial."
+    },
+    "ODAUAQ": {
+        "en": "^3355FFThe door is locked.^000000",
+        "pt": "^3355FFA porta está trancada.^000000",
+        "es": "^3355FFLa puerta está cerrada.^000000"
+    },
+    "OTAUAQ": {
+        "en": "Priest",
+        "pt": "Sacerdote",
+        "es": "Sacerdote"
+    },
+    "OjAUAQ": {
+        "en": "[Priest]\nMay Freya be with you.",
+        "pt": "[Sacerdote]\nQue Freya esteja com você.",
+        "es": "[Sacerdote]\nQue Freya te acompañe."
+    },
+    "OzAUAQ": {
+        "en": "Priestess",
+        "pt": "Sacerdotisa",
+        "es": "Sacerdotisa"
+    },
+    "PDAUAQ": {
+        "en": "[Priestess]\nMay Freya be with you.",
+        "pt": "[Sacerdotisa]\nQue Freya esteja com você.",
+        "es": "[Sacerdotisa]\nQue Freya te acompañe."
+    },
+    "PTAUAQ": {
+        "en": "Male Follower",
+        "pt": "Seguidor",
+        "es": "Seguidor masculino"
+    },
+    "PjAUAQ": {
+        "en": "[Male Follower]\nMay Freya be with you.",
+        "pt": "[Seguidor]\nQue Freya esteja com você.",
+        "es": "[Seguidor]\nQue Freya te acompañe."
+    },
+    "PzAUAQ": {
+        "en": "Female Follower",
+        "pt": "Seguidora",
+        "es": "Seguidora"
+    },
+    "QDAUAQ": {
+        "en": "[Female Follower]\nMay Freya be with you.",
+        "pt": "[Seguidora]\nQue Freya esteja com você.",
+        "es": "[Seguidora]\nQue Freya te acompañe."
+    },
+    "QTAUAQ": {
+        "en": "Pope",
+        "pt": "Papisa",
+        "es": "Papisa"
+    },
+    "QjAUAQ": {
+        "en": "^3355FFTh-this little\ngirl is the pope...?!",
+        "pt": "^3355FF Essa garotinha é a Papisa...?!",
+        "es": "^3355FF¡¿E-esta\nniñita es la papisa?!"
+    },
+    "QzAUAQ": {
+        "en": "[Pope]\n...............................\n..........................Um...\nW-welcome. Is something\nwrong? Oh, I know, it's my\neyes. I'm sorry if they\nscare you a little bit...",
+        "pt": "[Papisa]\n...............................\n..........................Hã...\nBem vindo. Tem algum problema?\nAh, eu sei, são meus\nolhos. Me desculpe se eles\nte assustam um pouco...",
+        "es": "[Papisa]\n…\n…Eh…\nte… doy la bienvenida. ¿Pasa\nalgo? Ah, ya sé, son mis\nojos. Lo siento si\ndan un poco de miedo…"
+    },
+    "RDAUAQ": {
+        "en": "No, not at all...!",
+        "pt": "Não, de jeito nenhum...!",
+        "es": "¡No, para nada!"
+    },
+    "RTAUAQ": {
+        "en": "[Pope]\n......\n......\n.....You know, my appearance....",
+        "pt": "[Papisa]\n......\n......\n.....Sabe, a minha aparência....",
+        "es": "[Papisa]\n…\n…\nSé que mi apariencia…"
+    },
+    "RjAUAQ": {
+        "en": "[Pope]\nIt's alright. Actually,\nI'm used to it. People\nare usually a little shocked\nthe first time they see me.\nSo... Um... Where do you\ncome from, {0}?",
+        "pt": "[Papisa]\nEstá tudo bem. Na verdade,\njá estou acostumada com isso. As pessoas\ngeralmente ficam um pouco assustadas\nna primeira vez que me vêem.\nEntão... Hum... De onde você é, {0}?",
+        "es": "[Papisa]\nEstá bien. En verdad,\nya me acostumbré. La gente\nen general se sorprende\ncuando me ve por primera vez.\nAsí que… Eh… ¿de dónde\nvienes, {0}?"
+    },
+    "RzAUAQ": {
+        "en": "[Pope]\n{0}...?\nI think I might have heard\nabout that place before.\nWow... What did you do\nwhen you lived there?",
+        "pt": "[Papisa]\n{0}...?\nAcho que já ouvi falar\nsobre esse lugar antes.\nUau... O que você fazia\nquando morava lá?",
+        "es": "[Papisa]\n¿{0}?…\nCreo que oí \nnombrar ese lugar.\nGuau… ¿qué hacías\ncuando vivías ahí?"
+    },
+    "SDAUAQ": {
+        "en": "[Pope]\n{0}...?\nWow, that sounds quite\nextraordinary. Ooh, ooh!\nTell me, how have you come\nhere to Rachel? I'm interested\nin knowing more about you~",
+        "pt": "[Papisa]\n{0}...?\nUau, isso parece bastante\nextraordinário. Oh, oh!\nMe diga, como você veio\nparar aqui em Rachel? Estou interessada\nem saber mais sobre você.",
+        "es": "[Papisa]\n¿{0}?…\nGuau, suena\nextraordinario. ¡Guau! ¡Guau!\nCuéntame: ¿cómo llegaste\naquí, a Rachel? Me interesa\nsaber más de ti"
+    },
+    "STAUAQ": {
+        "en": "^3355FFYou and the pope\ncontinued to comfortably\nconverse. As she spoke, she\nseemed more like a young,\nlonely girl than a solemn\nreligious figure for a nation.^000000",
+        "pt": "^3355FFVocê e a Papisa\ncontinuaram conversando tranquilamente.\nEnquanto ela falava, ela\nparecia mais uma jovem\nsolitária do que a figura religiosa\nsolene de uma nação.^000000",
+        "es": "^3355FFLa papisa y tú \nmantienen una conversación\nagradable. Al hablar, ella\nparece más bien una niña\nsolitaria, en vez de una figura\nreligiosa solemne de una nación.^000000"
+    },
+    "SjAUAQ": {
+        "en": "[Pope]\n...Wow, sometimes, I really\nwish I could live like you.\nYou'd think being pope would\nbe great, but they make me work\nall the time. And there are all\nsorts of things I can't do...",
+        "pt": "[Papisa]\n...Uau, às vezes, eu \ngostaria muito de poder viver como você.\nAté parece que ser a Papisa é ótimo, mas eles me fazem trabalhar\no tempo todo. E tem várias coisas que eu não posso fazer...",
+        "es": "[Papisa]\nGuau, a veces tengo muchas\nganas de vivir como tú.\nQuizás pienses que ser papisa\nes genial, pero me hacen trabajar\ntodo el tiempo. Y hay un\nmontón de cosas que no puedo hacer…"
+    },
+    "SzAUAQ": {
+        "en": "[Pope]\nYou know what's weird?\nI think I'm the head of this\nreligion, but there's a sacred\nplace that even I'm not allowed\nto visit. Isn't that so weird?",
+        "pt": "[Papisa]\nSabe o que é estranho?\nEu acho que sou a líder desta\nreligião, mas há um lugar sagrado\nque nem mesmo eu tenho permissão\npara visitar. Isso não é muito estranho?",
+        "es": "[Papisa]\n¿Te cuento algo raro?\nCreo que soy la líder de esta\nreligión, pero hay un\nlugar sagrado al que ni yo puedo\nir. ¿No te parece de lo más raro?"
+    },
+    "TDAUAQ": {
+        "en": "R-really...?",
+        "pt": "Sério...?",
+        "es": "¿E-en serio?…"
+    },
+    "TTAUAQ": {
+        "en": "[Pope]\n...Yeah. I don't know\nmuch about, and I'm not\nreally supposed to talk\nabout it. We just call this\nplace the ''Holy Ground...''",
+        "pt": "[Papisa]\n...Sim. Não sei\nmuito sobre esse lugar, e eu não deveria falar\nsobre isso. Nós apenas chamamos esse\nlugar de ''Solo Sagrado''...",
+        "es": "[Papisa]\nSí. No sé\nmucho de eso, y\nen realidad no debería hablar\ndel tema. Le decimos\nSuelo sagrado…"
+    },
+    "TjAUAQ": {
+        "en": "Holy Ground?",
+        "pt": "Solo Sagrado?",
+        "es": "¿Suelo sagrado?"
+    },
+    "TzAUAQ": {
+        "en": "[Pope]\nI'm sorry... I want\nto tell you more, but...\nThat's all I know. I wonder...\nI wonder what they could\nbe hiding over there...",
+        "pt": "[Papisa]\nMe desculpe... Eu queria\nte contar mais, mas...\nIsso é tudo o que eu sei. Eu me pergunto...\nO que será que eles\nestão escondendo por lá...",
+        "es": "[Papisa]\nLo siento… quiero\ncontarte más, pero…\nes lo único que sé. ¿Qué…?\n¿Qué será lo que\nocultan ahí?…"
+    },
+    "UDAUAQ": {
+        "en": "[Priest]\nI'm sorry to interrupt\nyour Excellency, but it's\ntime to officiate services.\nPardon me.",
+        "pt": "[Sacerdote]\nDesculpe interromper,\nSua Excelência, mas está na hora\nhora de celebrar cultos.\nCom licença.",
+        "es": "[Sacerdote]\nLamento interrumpir,\nSu Excelencia, pero es\nhora de oficiar las ceremonias.\nDisculpe."
+    },
+    "UTAUAQ": {
+        "en": "[Priest]\nAlready?! Hmpf...\nOh, before I forget,\nI needed to tell you that\nHigh Priest Zhed wanted\nto talk to you, {0}.",
+        "pt": "[Sacerdote]\nJá?! Hum...\nAh, antes que eu me esqueça,\no\nSumo Sacerdote Zhed quer\nfalar com você, {0}.",
+        "es": "[Sacerdote]\n¡¿Ya?! Ufa…\nAh, no quiero olvidarme:\ndebo decirte que\nel sumo sacerdote Zhed quiere\nhablar contigo, {0}."
+    },
+    "UjAUAQ": {
+        "en": "[Pope]\nI really want to thank\nyou for coming to speak\nto me. I had a great time\nlearning. Now I have to\ngo officiate services, so...\nThis is goodbye for now...",
+        "pt": "[Papisa]\nEu te agradeço muito\npor ter vindo falar comigo.\nEu me diverti bastante\naprendendo. Agora tenho que\nir celebrar cultos, então...\nPor enquanto, isso é um adeus...",
+        "es": "[Papisa]\nTe agradezco mucho\nque hayas venido a hablar\nconmigo. La pasé muy bien\ny aprendí. Ahora debo\nir a oficiar ceremonias, así que…\nme despido por ahora…"
+    },
+    "UzAUAQ": {
+        "en": "[Pope]\nOh, that's right...\nZhed... Er, High Priest\nZhed wanted to speak to you...",
+        "pt": "[Papisa]\nAh, é mesmo...\nZhed... Hã, o Sumo Sacerdote\nZhed queria falar com você...",
+        "es": "[Papisa]\nAh, cierto…\nZhed… Digo, el sumo sacerdote\nZhed quería hablar contigo…"
+    },
+    "VDAUAQ": {
+        "en": "[Pope]\nOh, hello! It's you again!\nHave you come to tell me\ninteresting stories about\nthe outside world again?",
+        "pt": "[Papisa]\nAh, olá! É você de novo!\nVeio para me contar mais\nhistórias interessantes sobre\no mundo exterior?",
+        "es": "[Papisa]\n¡Ah, hola! ¡Tú de nuevo!\n¿Viniste a contarme\nhistorias interesantes sobre\nel mundo exterior otra vez?"
+    },
+    "VTAUAQ": {
+        "en": "[Pope]\nMm. That sounds pretty\nstrange to me. Well, it's\ngood to hear it from you.",
+        "pt": "[Papisa]\nHum. Isso parece bastante\nestranho para mim. Mas é\nbom ouvir isso de você.",
+        "es": "[Papisa]\nMm. Me suena muy\nraro. En fin, me\nalegra que me lo cuentes tú."
+    },
+    "VjAUAQ": {
+        "en": "[{0}]\n(^333333I can't just leave\nnow. I should try to see\nif I can learn anything\nuseful from the pope...^000000)",
+        "pt": "[{0}]\n(^333333Não posso simplesmente sair\nagora. Preciso ver\nse consigo aprender alguma coisa\nútil com a Papisa...^000000)",
+        "es": "[{0}]\n(^333333No puedo irme\nahora. Será mejor que trate\nde sonsacarle algo\nútil a la papisa…^000000)."
+    },
+    "VzAUAQ": {
+        "en": "Aren't you lonely?",
+        "pt": "Você não se sente solitária?",
+        "es": "¿No te resulta solitario?"
+    },
+    "WDAUAQ": {
+        "en": "Do you ever take a break?",
+        "pt": "Você nunca descansa?",
+        "es": "¿Te tomas algún descanso?"
+    },
+    "WTAUAQ": {
+        "en": "[Pope]\nWell, there are always\nsome priests with me all\nthe time. Some of them\neven watch me when I sleep.\nI don't think I have time\nto feel lonely, actually.",
+        "pt": "[Papisa]\nBem, \nalguns sacerdotes ficam comigo o tempo todo.\nAlguns deles\naté me observam enquanto eu durmo.\nAcho que não tenho tempo\npara me sentir solitária, na verdade.",
+        "es": "[Papisa]\nPues, siempre hay\nsacerdotes conmigo, en todo\nmomento. Algunos\nincluso me vigilan cuando duermo.\nCreo que no tengo tiempo\npara sentir soledad, la verdad."
+    },
+    "WjAUAQ": {
+        "en": "[Pope]\nThank you for asking.\nSometimes... Sometimes\nI wonder if I have a real\nfamily. I don't even know\nwho'd they be or if they\nexist. I don't know...",
+        "pt": "[Papisa]\nObrigada por perguntar.\nÀs vezes... Às vezes\nfico imaginando se eu tenho uma\nfamília. Nem mesmo sei\nquem seriam eles ou se eles\nexistem. Não sei...",
+        "es": "[Papisa]\nGracias por preguntarme.\nA veces… A veces\npienso si tendré una verdadera\nfamilia. Ni siquiera sé\nquiénes serían o si\nexisten. No sé…"
+    },
+    "WzAUAQ": {
+        "en": "[Pope]\nI... I'm sorry.\nI guess you didn't\nexpect to hear something\nlike that. ^666666*Sigh*^000000 I'm feeling\npretty exhausted. I better...\nI better get some rest...",
+        "pt": "[Papisa]\nMe... Me desculpe.\nAcho que você não\nesperava ouvir nada assim. ^666666*Suspiro*^000000 Estou me sentindo muito cansada.\nÉ melhor...\nÉ melhor eu descansar um pouco...",
+        "es": "[Papisa]\nEh… perdón.\nSupongo que no\nesperabas oír algo\nasí. ^666666*Suspira*^000000 Me siento\nmuy agotada. Será mejor…\nSerá mejor que descanse un poco…"
+    },
+    "XDAUAQ": {
+        "en": "[Pope]\nWell, even if I wanted\nto, I can't just go out\nand play. As pope... Well...\nEveryone and everything\nsort of needs my attention.",
+        "pt": "[Papisa]\nBom, mesmo que eu quisesse,\nnão posso simplesmente sair\ne brincar. Como Papisa... Bem...\nTudo e todos\nmeio que precisam da minha atenção.",
+        "es": "[Papisa]\npues, aunque quisiera,\nno puedo salir\na jugar. Soy la papisa… así que bueno…\ncomo que todos y todo\nrequieren mi atención."
+    },
+    "XTAUAQ": {
+        "en": "[Follower]\nThe pope said that she's\nexhausted. Please come\nback when she's feeling\nbetter, and she will have\nan audience with you.",
+        "pt": "[Seguidor]\nA Papisa disse que está\nexausta. Por favor, volte\nquando ela estiver se sentindo\nmelhor, e ela terá\numa audiência com você.",
+        "es": "[Seguidor]\nLa papisa dijo que está \nagotada. Vuelve\ncuando se sienta\nmejor; te dará \nuna audiencia."
+    }
+}

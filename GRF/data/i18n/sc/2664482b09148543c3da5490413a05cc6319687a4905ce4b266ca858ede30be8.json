@@ -1,0 +1,474 @@
+{
+    "wISRBg": {
+        "en": "Thief Trainer",
+        "es": "Thief Trainer"
+    },
+    "wYSRBg": {
+        "en": "[Yierhan]\nEh...?\nA Novice?\nStill thinking\nwhat job you're\ngonna choose...\nAm I right?",
+        "es": "[Yierhan]\n¿Eh…?\n¿Un principiante?\nSigues pensando\nqué clase vas\na elegir…\n¿Estoy en lo correcto?"
+    },
+    "woSRBg": {
+        "en": "[Yierhan]\nListen, if you ever decide to become a Thief--a smart choice\nI might add--come and talk to me. I'll show you the ropes!",
+        "es": "[Yierhan]\nEscucha, si alguna vez decides convertirte en Ladrón… es una elección inteligente…\nDebo añadir... ven y habla conmigo. ¡Yo te enseñaré!"
+    },
+    "w4SRBg": {
+        "en": "[Yierhan]\nWhaaaat are you\ndoin' here? There's\nnothing I can teach you!\nYou're waaay beyond me!",
+        "es": "[Yierhan]\n¿Qué\nhaces aquí? ¡No hay\nnada que pueda enseñarte!\n¡Estás muuuy por encima de mí!"
+    },
+    "xISRBg": {
+        "en": "[Yierhan]\nIn fact, I think\nyou're qualified\nto teach me some stuff!\nCome on! I need new moves!",
+        "es": "[Yierhan]\nDe hecho, ¡creo que\ntienes lo necesario\npara enseñarme algunas cosas!\n¡Vamos…! ¡Necesito nuevos movimientos!"
+    },
+    "xYSRBg": {
+        "en": "[Yierhan]\nHeya pal.\nI'm Yierhan.\nI happen to be\nthe guy in charge\nof training new Thieves.",
+        "es": "[Yierhan]\nHola, colega.\nSoy Yierhan.\nResulta que soy\nel responsable\nde entrenar a nuevos Ladrones."
+    },
+    "xoSRBg": {
+        "en": "Training?",
+        "es": "¿Entrenamiento?"
+    },
+    "x4SRBg": {
+        "en": "Training? Right now?",
+        "es": "¡A entrenar! Ahora mismo,"
+    },
+    "yISRBg": {
+        "en": "[Yierhan]\nYeah, training. I mean, this kind of stuff is second nature to some people, but other guys need a little more help. So this is one of those 'just in case' things.",
+        "es": "[Yierhan]\nSí, entrenamiento. Quiero decir, para algunos, este tipo de cosas es algo natural, pero otros necesitan un poco más de ayuda. Así que esta es una de esas cosas “por si acaso”."
+    },
+    "yYSRBg": {
+        "en": "[Yierhan]\nRight now?\nYeah, right now!\nBut if you're not ready for some reason, I guess I can wait.",
+        "es": "[Yierhan]\nAhora mismo,\n¡Sí, ahora mismo!\nPero si no tienes todo listo por alguna razón, supongo que puedo esperar."
+    },
+    "yoSRBg": {
+        "en": "[Yierhan]\nAlright, first of all, Thieves use melee attacks. Well, most of us do. There are a few who like using long range Bows. But all of us are good at bein' fast!",
+        "es": "[Yierhan]\nMuy bien, en primer lugar, los ladrones usan ataques cuerpo a cuerpo. Bueno, la mayoría de nosotros sí. Hay algunos a los que les gusta usar arcos de largo alcance. ¡Pero a todos se nos da bien ser rápidos!"
+    },
+    "y4SRBg": {
+        "en": "[Yierhan]\nSo for melee attacks, which stat increases your damage? Come on\nnow, you should know this if you didn't skip the Novice Training Grounds.",
+        "es": "[Yierhan]\nEntonces, para los ataques cuerpo a cuerpo, ¿qué estadística aumenta tu daño? Vamos,\ndeberías saber esto si no te saltaste el Campo de entrenamiento de principiantes."
+    },
+    "zISRBg": {
+        "en": "^6B8E23INT^000000",
+        "es": "^3377FFINT^000000"
+    },
+    "zYSRBg": {
+        "en": "^2F4F2FSTR^000000",
+        "es": "^555555FUE^000000"
+    },
+    "zoSRBg": {
+        "en": "^23238EDEX^000000",
+        "es": "^330099DES^000000"
+    },
+    "z4SRBg": {
+        "en": "[Yierhan]\nSay whaaat? ^6B8E23INT^000000 affects magic damage, magic defense and some skills. Thieves don't even work with magic!",
+        "es": "[Yierhan]\n¿Qué diceees? ^3377FFINT^000000 afecta al daño mágico, la defensa mágica y algunas habilidades. ¡Los ladrones ni siquiera trabajan con magia!"
+    },
+    "0ISRBg": {
+        "en": "[Yierhan]\nYou musta skipped the Novice Training Grounds altogether! Not that I blame you though. Anyway, it's ^2F4F2FSTR^000000 that increases your attack damage, got it?",
+        "es": "[Yierhan]\n¡Debes haberte saltado el Campo de entrenamiento de principiantes! Aunque no te culpo. En fin, es ^555555FUE^000000 lo que aumenta tu daño de ataque, ¿entendido?"
+    },
+    "0YSRBg": {
+        "en": "[Yierhan]\nSo if you're feeling like the damage you're making is pretty weak, you might want more stat points in ^2F4F2FSTR^000000. How high your raise your own STR is really up to you.",
+        "es": "[Yierhan]\nAsí que si sientes que el daño que estás haciendo es bastante débil, puede que quieras más puntos de estadísticas en ^555555FUE^000000. El nivel de tu propia FUE depende de ti."
+    },
+    "0oSRBg": {
+        "en": "[Yierhan]\nYeah, that's right! If you wanna increase your damage, you need\nto put some stat points into ^2F4F2FSTR^000000. Increasing STR also increases\nyour Max Weight Limit too.",
+        "es": "[Yierhan]\n¡Sí, eso es! Si quieres aumentar tu daño, debes\nponer algunos puntos de estadísticas en ^555555FUE^000000. Aumentar FUE también aumenta\ntu límite de Peso máximo."
+    },
+    "04SRBg": {
+        "en": "[Yierhan]\nSure, ^23238EDEX^000000 and LUK can\nalso increase your attack damage, but they're insignificant compared to STR. I repeat: ^660000insignificant^000000.",
+        "es": "[Yierhan]\nClaro, ^330099DES^000000 y SUE también\npueden aumentar tu daño de ataque, pero son insignificantes en comparación con FUE. Repito: ^006633insignificante^000000."
+    },
+    "1ISRBg": {
+        "en": "[Yierhan]\nSay whaaat? ^23238EDEX^000000 affects\nyour attack accuracy, not your damage! Well, unless you're using\na Bow. Otherwise, it increases your damage only by a tiny bit.",
+        "es": "[Yierhan]\n¿Qué diceees? ^330099DES^000000 afecta\ntu precisión de ataque, ¡no tu daño! Bueno, a menos que estés usando\nun arco. De lo contrario, aumenta tu daño solo un poco."
+    },
+    "1YSRBg": {
+        "en": "[Yierhan]\nAlright, enough about stats.\nYou know what? I think I'll just talk to you about the skills that we Thieves use.",
+        "es": "[Yierhan]\nMuy bien, basta de estadísticas.\n¿Sabes qué? Creo que solo te hablaré de las habilidades que usamos los ladrones."
+    },
+    "1oSRBg": {
+        "en": "[Yierhan]\nSo level up your skills, learn a few new ones if you want, and\nthen come back over here.",
+        "es": "[Yierhan]\nAsí que sube de nivel tus habilidades, aprende algunas nuevas si quieres, y\nluego vuelve aquí."
+    },
+    "14SRBg": {
+        "en": "[Yierhan]\nOkay, let me see your skills. You know you gotta change your battle strategy depending on what skills you have, right? Skills are just as important as stats!",
+        "es": "[Yierhan]\nBien, déjame ver tus habilidades. Sabes que tienes que cambiar tu estrategia de batalla en función de las habilidades que tengas, ¿verdad? ¡Las habilidades son tan importantes como las estadísticas!"
+    },
+    "2ISRBg": {
+        "en": "[Yierhan]\nYou haven't learned any skills yet? Come on, it's your skills that'll set you apart from Novices and everyone else!",
+        "es": "[Yierhan]\n¿Aún no aprendiste ninguna habilidad? Oye, ¡son tus habilidades las que te diferenciarán de los principiantes y de todos los demás!"
+    },
+    "2YSRBg": {
+        "en": "[Yierhan]\nAh, so you've learned\nLevel {} Double Attack.\nNice! This skill gives you the chance to attack twice in one\nattack. Wicked!",
+        "es": "[Yierhan]\nAh, so you've learned\nDoble ataque nivel {}.\n¡Genial! Esta habilidad te da la oportunidad de atacar dos veces en un\nataque. ¡Increíble!"
+    },
+    "2oSRBg": {
+        "en": "[Yierhan]\nIt's a Passive skill, so it's always in effect and won't have to use any SP to use it. The higher your Double Attack skill level, the more double attacks you'll do.",
+        "es": "[Yierhan]\nEs una habilidad pasiva, por lo que siempre está en efecto y no tendrás que usar ningún PM para usarla. Cuanto mayor sea tu nivel de habilidad Doble ataque, más ataques dobles harás."
+    },
+    "24SRBg": {
+        "en": "[Yierhan]\nLet's see...\nLevel {} Increase Dodge? \nThat increases your Flee Rate, meaning you've got a better chance of dodging attacks from your enemies.",
+        "es": "[Yierhan]\nVeamos…\n¿Nivel {} de Aumento de evasión? \nEso aumenta tu Probabilidad de evasión, lo que significa que tienes más posibilidades de esquivar los ataques de tus enemigos."
+    },
+    "3ISRBg": {
+        "en": "[Yierhan]\nJust like the Double Attack skill, Increase Dodge is a Passive skill. It won't use SP and it's always in\neffect. If you don't like to bruise, this is your skill.",
+        "es": "[Yierhan]\nAl igual que la habilidad Doble ataque, Aumento de evasión es una habilidad pasiva. No usa PM y siempre está en\nefecto. Si no te gustan los moretones, esta es tu habilidad."
+    },
+    "3YSRBg": {
+        "en": "[Yierhan]\nWhoa, so you've\ngot Level {} Steal~\nNow that's the skill which gives our job its name! You can't use\nit against people, though...",
+        "es": "[Yierhan]\nVaya, así que\nobtuviste nivel {} de Robar~.\n¡Esa es la habilidad que da nombre a nuestra clase! De todas formas, no puedes usarla\ncontra las personas…"
+    },
+    "3oSRBg": {
+        "en": "[Yierhan]\nBut you can use Steal to take items from monsters. If you're lucky, you can get some good items that way. Oh, and Steal doesn't affect monster drop rates.",
+        "es": "[Yierhan]\nPero puedes usar Robar para tomar objetos de los monstruos. Si tienes suerte, puedes conseguir buenos objetos de esa forma. Ah, y Robar no afecta el índice de caída de monstruos."
+    },
+    "34SRBg": {
+        "en": "[Yierhan]\nYou've learned\nLevel {} Hiding?\nLet's see, you can only learn\nthat after learning the Steal skill up to a certain level.",
+        "es": "[Yierhan]\n¿Aprendiste\nnivel {} de Ocultamiento?\nVeamos, solo puedes aprender\neso después de aprender la habilidad Robar hasta un cierto nivel."
+    },
+    "4ISRBg": {
+        "en": "[Yierhan]\nOf course, you use \nthe Hiding skill to hide underground in an emergency, like when you're surrounded by tough enemies. Be careful though...",
+        "es": "[Yierhan]\nPor supuesto, usas \nla habilidad Ocultamiento para esconderte bajo tierra en caso de emergencia, como cuando estás rodeado de enemigos difíciles. Pero ten cuidado…"
+    },
+    "4YSRBg": {
+        "en": "[Yierhan]\nCertain monsters will still be able to find you, no matter how well you hide. There are even a few monsters that can flush you out of hiding!",
+        "es": "[Yierhan]\nAlgunos monstruos podrán encontrarte sin importar que tan bien te ocultes. ¡Incluso hay algunos monstruos que pueden hacerte salir de tu escondite!"
+    },
+    "4oSRBg": {
+        "en": "[Yierhan]\nAlright, I see that you\nknow Level {} Envenom.\nYou like being dangerous,\ndon't you?",
+        "es": "[Yierhan]\nMuy bien, veo que\ntienes nivel {} de Envenenamiento.\nTe gusta ser una persona peligrosa,\n¿verdad?"
+    },
+    "44SRBg": {
+        "en": "[Yierhan]\nThis attack skill has the chance\nto poison your enemy for a set amount of time. While poisoned, an enemy will constantly lose its HP and will have decreased defense.",
+        "es": "[Yierhan]\nEsta habilidad de ataque tiene la probabilidad\nde envenenar a tu enemigo durante un tiempo determinado. Mientras esté envenenado, un enemigo perderá constantemente sus PV y verá disminuida su defensa."
+    },
+    "5ISRBg": {
+        "en": "[Yierhan]\nEh, but remember.\nIf the monster's too strong for you, you might not be able to poison it. So don't go crazy.",
+        "es": "[Yierhan]\nEh, pero recuerda.\nSi el monstruo es demasiado fuerte para ti, puede que no seas capaz de envenenarlo. Así que no pierdas la cabeza."
+    },
+    "5YSRBg": {
+        "en": "[Yierhan]\nLevel {} Detoxify.\nIf you took the trouble to learn that, you must be the cautious\ntype or something.",
+        "es": "[Yierhan]\nNivel {} de Desintoxicación.\nSi te tomaste la molestia de aprender eso, debes ser de las personas\ncautelosas o algo así."
+    },
+    "5oSRBg": {
+        "en": "[Yierhan]\nYou can only learn Detoxify\nafter you learn the Envenom skill. Detoxify allows you to counteract the effects of poison on a target.",
+        "es": "[Yierhan]\nSolo puedes aprender Desintoxicación\ndespués de aprender la habilidad Envenenamiento. Desintoxicación te permite contrarrestar los efectos del veneno en un objetivo."
+    },
+    "54SRBg": {
+        "en": "[Yierhan]\nAlright, I guess\nif you want to know\nabout any other skills,\nI can explain real quick.",
+        "es": "[Yierhan]\nDe acuerdo, supongo\nque si quieres saber\nsobre cualquier otra habilidad,\npuedo explicarla muy rápido."
+    },
+    "6ISRBg": {
+        "en": "[Yierhan]\nSo...\nAre there any\nskills you want\nexplained or is this\npretty much stuff you\nalready know?",
+        "es": "[Yierhan]\nAsí que…\n¿Hay alguna\nhabilidad que quieras que\nte explique o todo esto\nson cosas que más o menos\nya sabes?"
+    },
+    "6YSRBg": {
+        "en": "Double Attack",
+        "es": "Doble ataque"
+    },
+    "6oSRBg": {
+        "en": "Increase Dodge",
+        "es": "Aumento de Evasión"
+    },
+    "64SRBg": {
+        "en": "Steal",
+        "es": "Robar."
+    },
+    "7ISRBg": {
+        "en": "Hiding",
+        "es": "Ocultamiento."
+    },
+    "7YSRBg": {
+        "en": "Envenom",
+        "es": "Envenenamiento."
+    },
+    "7oSRBg": {
+        "en": "Detoxify",
+        "es": "Desintoxicación"
+    },
+    "74SRBg": {
+        "en": "I know enough.",
+        "es": "Sé lo suficiente."
+    },
+    "8ISRBg": {
+        "en": "[Yierhan]\nJust like its name,\nDouble Attack gives your attacks the chance to be a double attack, two strikes in one blow.",
+        "es": "[Yierhan]\nIgual que su nombre,\nDoble ataque da a tus ataques la probabilidad de ser un ataque doble, dos golpes en un solo golpe."
+    },
+    "8YSRBg": {
+        "en": "[Yierhan]\nIncrease Dodge\ngives a nice boost\nto your Flee Rate that\nthe other jobs don't offer.\nWhy take your lumps when you\ncan avoid them altogether?",
+        "es": "[Yierhan]\nIncrease Dodge\nda un buen aumento\na tu Probabilidad de evasión que\nlas otras clases no ofrecen.\n¿Por qué aguantar golpes cuando\npuedes evitarlos por completo?"
+    },
+    "8oSRBg": {
+        "en": "[Yierhan]\nSteal is an Active Skill that has the chance of nabbing you some\nfree items! You can't use it against other people, though.",
+        "es": "[Yierhan]\n¡Robar es una habilidad activa que tiene la probabilidad de tomar algunos\nobjetos gratis Sin embargo, no puedes usarla contra otras personas."
+    },
+    "84SRBg": {
+        "en": "[Yierhan]\nBut you can use Steal to take items from monsters! If you're lucky, you can get some good items that way. Oh, and Steal doesn't affect monster drop rates.",
+        "es": "[Yierhan]\n¡Pero puedes usar Robar para tomar objetos de los monstruos!"
+    },
+    "9ISRBg": {
+        "en": "[Yierhan]\nHiding is an active skill where you submerge yourself underground. You can only stay hidden so long, and you can't move, but sometimes it's better than being found!",
+        "es": "[Yierhan]\nOcultamiento es una habilidad activa en la que te sumerges bajo tierra. Solo puedes permanecer oculto un tiempo, y no puedes moverte, ¡pero a veces es mejor que ser encontrado!"
+    },
+    "9YSRBg": {
+        "en": "[Yierhan]\nEnvenom is an offensive Active Skill that every Thief should know. But that's just what I think.",
+        "es": "[Yierhan]\nEnvenenamiento es una habilidad activa ofensiva que todo ladrón debería conocer. Pero eso es solo lo que pienso."
+    },
+    "9oSRBg": {
+        "en": "[Yierhan]\nThis attack skill has the chance\nto poison your enemy for a set amount of time. While poisoned, an enemy will constantly lose its HP and will have decreased defense.\nRemember that.",
+        "es": "[Yierhan]\nEsta habilidad de ataque tiene la probabilidad\nde envenenar a tu enemigo durante un tiempo determinado. Mientras esté envenenado, un enemigo perderá constantemente sus PV y verá disminuida su defensa.\nRecuérdalo."
+    },
+    "94SRBg": {
+        "en": "[Yierhan]\nSince Thieves deal\nquite a bit with poison,\nwe've got to have a way\nto, well, have a taste\nof our own medicine.",
+        "es": "[Yierhan]\nDado que los ladrones tratan\nbastante con veneno,\ntenemos que tener alguna manera\nde, bueno, probar\nnuestra propia medicina."
+    },
+    "+ISRBg": {
+        "en": "[Yierhan]\nYou can learn Detoxify\nafter you learn the Envenom skill. Detoxify allows you to counteract the effects of poison on a target.",
+        "es": "[Yierhan]\nPuedes aprender Desintoxicación\ndespués de aprender la habilidad Envenenamiento. Desintoxicación te permite contrarrestar los efectos del veneno en un objetivo."
+    },
+    "+YSRBg": {
+        "en": "[Yierhan]\nYeah...\nI'm tired of explaining these skills anyway. Let's move on to\nthe next part of Thief training...",
+        "es": "[Yierhan]\nSí…\nDe todas formas estoy cansado de explicar estas habilidades. Pasemos a\nla siguiente parte del entrenamiento de Ladrón…"
+    },
+    "+oSRBg": {
+        "en": "[Yierhan]\nNow that you're such an expert on skills, I want you to level up your skills and come back, got it?",
+        "es": "[Yierhan]\nAhora que eres especialista en habilidades, quiero que subas de nivel y vuelvas, ¿entendido?"
+    },
+    "+4SRBg": {
+        "en": "[Yierhan]\nAlright, we studied the skills and you've been practicing a little, right? You better have...",
+        "es": "[Yierhan]\nMuy bien, estudiamos las habilidades y estuviste practicando un poco, ¿verdad? Será mejor que lo hayas hecho…"
+    },
+    "/ISRBg": {
+        "en": "[Yierhan]\nAlright, now I got some actual fight training I want you to do. Here's a chance for you to figure what skills are best for which situations.",
+        "es": "[Yierhan]\nMuy bien, ahora hay algo de entrenamiento de lucha real que quiero que hagas. Aquí tienes la oportunidad de averiguar qué habilidades son mejores para cada situación."
+    },
+    "/YSRBg": {
+        "en": "[Yierhan]\nGo and get me\n10 ^FF0000Feather of Birds^000000.\nYou can go ahead and kill Pickies to get those. It really shouldn't be that hard. Oh, and use this Wing thingee to come back.",
+        "es": "[Yierhan]\nVe y tráeme\n10^660000Plumas de aves^000000.\nPuedes matar Pickies para conseguirlas. No debería ser tan difícil. Ah, y usa estas Alas para volver."
+    },
+    "/oSRBg": {
+        "en": "[Yierhan]\n'Ey, you don't have the 10 ^FF0000Feather of Birds^000000 I asked you for! You gotta apply what you know, you know.\nNow hurry up and do it!",
+        "es": "[Yierhan]\n¡Oye, no tienes las 10^660000Plumas de aves^000000 que te pedí! Tienes que aplicar lo que sabes.\n¡Ahora date prisa y hazlo!"
+    },
+    "/4SRBg": {
+        "en": "[Yierhan]\nAlright...!\nNice work, pal.\nSeeing as you got these feathers, you must be really gung-ho about becoming a good Thief.",
+        "es": "[Yierhan]\n¡Muy bien…!\nBuen trabajo, colega.\nViendo que tienes estas plumas, debes de tener muchas ganas de convertirte en un buen Ladrón."
+    },
+    "AIWRBg": {
+        "en": "[Yierhan]\nI hope you keep\nputting in the work\nto get better and better.\nAlways do your best! Oh,\nand do you have any questions?",
+        "es": "[Yierhan]\nEspero que sigas\ntrabajando duro\npara mejorar cada vez más.\n¡Da siempre lo mejor de ti! Oh,\ny ¿tienes alguna pregunta?"
+    },
+    "AYWRBg": {
+        "en": "About those traces...",
+        "es": "Sobre esos rastros…"
+    },
+    "AoWRBg": {
+        "en": "Nope.",
+        "es": "No."
+    },
+    "A4WRBg": {
+        "en": "[Yierhan]\nYou found out, eh?\nWell, I didn't really\nwanna tell you this, on\naccount of you bein' a brand\nbrand new Thief and all, but...",
+        "es": "[Yierhan]\nTe enteraste, ¿eh?\nBueno, en realidad no\nquería decirte esto, ya\nque eres un ladrón\nnuevo y todo eso, pero…"
+    },
+    "BIWRBg": {
+        "en": "[Yierhan]\nThere was this\nfight that was in\nthe Southern part\nof this town.",
+        "es": "[Yierhan]\nHubo una\npelea que ocurrió en\nla parte sur\nde este pueblo."
+    },
+    "BYWRBg": {
+        "en": "[Yierhan]\nSince it happened late at night, only a few people actually know about it. As for me, I stayed late at a guild meeting, so it was\ndumb luck that I saw it.",
+        "es": "[Yierhan]\nComo ocurrió a altas horas de la noche, solo unos pocos lo saben. En cuanto a mí, me quedé hasta tarde en una reunión del gremio, así que fue\nde pura suerte que la vi."
+    },
+    "BoWRBg": {
+        "en": "[Yierhan]\nI went back to where the fight happened and I found traces that showed that the guys who were fighting went south.",
+        "es": "[Yierhan]\nVolví al lugar donde se produjo la pelea y encontré rastros que mostraban que los que estaban peleando se fueron hacia el sur."
+    },
+    "B4WRBg": {
+        "en": "[Yierhan]\nSince poison was used in\nthe fight, I'm guessing an Assassin was involved, but I can't be too sure. If you wanna check it out, follow the traces of that fight.",
+        "es": "[Yierhan]\nDado que se usó veneno en\nla pelea, supongo que un Asesino estuvo involucrado, pero no puedo estar muy seguro. Si quieres comprobarlo, sigue los rastros de esa pelea."
+    },
+    "CIWRBg": {
+        "en": "[Yierhan]\nEh, but be careful\nnot to get too close\nto the poison! That stuff\nis pretty strong!",
+        "es": "[Yierhan]\nEh, ¡pero ten cuidado de\nno acercarte demasiado\nal veneno! ¡Esa cosa\nes bastante fuerte!"
+    },
+    "CYWRBg": {
+        "en": "[Yierhan]\nGood!\nLess work for me!\nAlright, you better get stronger the next time I see you. Oh, and you can have this stuff. You know, since you're so gangster and all.",
+        "es": "[Yierhan]\n¡Bien!\n¡Menos trabajo para mí!\nMuy bien, será mejor que te pongas más fuerte la próxima vez que te vea. Ah, y puedes quedarte con esto. Ya sabes, ya que eres tan gángster y todo eso."
+    },
+    "CoWRBg": {
+        "en": "It was nice to meet you.",
+        "es": "Fue un placer conocerte."
+    },
+    "C4WRBg": {
+        "en": "[Yierhan]\nYeah, it was pretty cool just hanging out. Keep fighting\nmonsters the way you do and\nyou'll be a great Thief in no time.",
+        "es": "[Yierhan]\nSí, fue genial pasar el rato. Sigue luchando\nmonstruos de la forma en que lo haces y\nserás un gran Ladrón en poco tiempo."
+    },
+    "DIWRBg": {
+        "en": "[Yierhan]\nAnd since I like\nyou so much, kid,\nyou can have this.\nTake it, it's yours!",
+        "es": "[Yierhan]\nY ya que me caes\nmuy bien,\npuedes quedarte con esto.\n¡Tómalo, es tuyo!"
+    },
+    "DYWRBg": {
+        "en": "[Yierhan]\nYou know...\nThere was this\nfight that was in\nthe Southern part\nof this town.",
+        "es": "[Yierhan]\n¿Sabes…?\nHubo una\npelea que ocurrió en\nla parte sur\nde este pueblo."
+    },
+    "DoWRBg": {
+        "en": "[Yierhan]\nHey, you might run into\npoison, so remember that\nGreen Herbs and Green Potions\nwill counteract it. Oh, and keep in mind that Red Gemstones can\nbe used in poison attacks.",
+        "es": "[Yierhan]\nOye, puede que te encuentres con\nveneno, así que recuerda que\nlas Hierbas y pociones verdes\nlo contrarrestarán. Ah, y ten en cuenta que las Gemas rojas pueden\nusarse en ataques con veneno."
+    },
+    "D4WRBg": {
+        "en": "[Yierhan]\nHey, if you do\ndecide to check it\nout, be real careful\nother there, okay?",
+        "es": "[Yierhan]\nOye, si decides\nir a mirar,\nten mucho cuidado\npor allí, ¿de acuerdo?"
+    },
+    "EIWRBg": {
+        "en": "[Yierhan]\nHeya pal.\nYou doin' alright?",
+        "es": "[Yierhan]\nHola, colega.\n¿Estás bien?"
+    },
+    "EYWRBg": {
+        "en": "[Yierhan]\nFighting against something\nyou know nothing about is always risky. Since I've heard there are outsiders around flaunting their power, you better be careful.",
+        "es": "[Yierhan]\nLuchar contra algo\nde lo que no sabes nada siempre es arriesgado. Como oí que hay forasteros por ahí alardeando de su poder, será mejor que tengas cuidado."
+    },
+    "EoWRBg": {
+        "en": "[Yierhan]\nIt's a good policy to just be really careful on your adventures. Look out for monsters and look\nout for people! Got it?",
+        "es": "[Yierhan]\nEs una buena idea tener mucho cuidado en tus aventuras. ¡Cuidado con los monstruos y\ncon la gente! ¿Entendido?"
+    },
+    "E4WRBg": {
+        "en": "[Yierhan]\nI heard there was\nthis one Assassin\nthat went on a mission\nand never returned.",
+        "es": "[Yierhan]\nOí que había\nun Asesino\nque se fue a una misión\ny nunca regresó."
+    },
+    "FIWRBg": {
+        "en": "[Yierhan]\nWhat's so weird about it was that the Assassin Guild reported that the mission was completed!\nI remember hearing that guy\nwas really good...",
+        "es": "[Yierhan]\n¡Lo raro es que el gremio de asesinos informó que la misión se había completado!\nRecuerdo haber oído que ese tipo\nera realmente bueno…"
+    },
+    "FYWRBg": {
+        "en": "[Yierhan]\nCrazy, isn't it?\nAnyway, take\ncare of yourself.",
+        "es": "[Yierhan]\nUna locura, ¿verdad?\nEn fin, ten\ncuidado."
+    },
+    "FoWRBg": {
+        "en": "[Yierhan]\n'Ey, did you\ncomplete your mission?\nI know, I know, the thing you've gotta do is pretty rough.",
+        "es": "[Yierhan]\nOye, ¿completaste\ntu misión?\nLo sé, lo sé, lo que tienes que hacer es bastante difícil."
+    },
+    "F4WRBg": {
+        "en": "I'm still investigating.",
+        "es": "Sigo investigando."
+    },
+    "GIWRBg": {
+        "en": "Not yet.",
+        "es": "Todavía no."
+    },
+    "GYWRBg": {
+        "en": "Yes, I did.",
+        "es": "Sí, lo hice."
+    },
+    "GoWRBg": {
+        "en": "[Yierhan]\nAh, gotcha. Well, that's understandable. I mean, these things take time, you know?",
+        "es": "[Yierhan]\nAh, entendido. Bueno, eso es entendible. Quiero decir, estas cosas llevan tiempo, ¿sabes?"
+    },
+    "G4WRBg": {
+        "en": "[Yierhan]\nYeah...?\nThat's alright.\nI guess these kinds of things require patience. And thinking.\nYou know, things I'm horrible at.",
+        "es": "[Yierhan]\n¿Sí…?\nAsí es.\nSupongo que este tipo de cosas requieren paciencia. Y pensar.\nYa sabes, cosas en las que no soy para nada bueno."
+    },
+    "HIWRBg": {
+        "en": "[Yierhan]\nAlright...!\nSo what's up?\nHit me up with\nwhat you know~",
+        "es": "[Yierhan]\n¡Muy bien…!\n¿Qué pasa?\nDime\nlo que sabes~."
+    },
+    "HYWRBg": {
+        "en": "^3355FFYou explain the results of your investigation to Yierhan and tell him about the scrap of cloth you found on your mission.^000000",
+        "es": "^2502FDLe explicas a Yierhan los resultados de tu investigación y le hablas del trozo de tela que encontraste en tu misión.^000000"
+    },
+    "HoWRBg": {
+        "en": "[Yierhan]\nScrap of cloth?\nHuh, alright. Say,\nlemme have a looksee.",
+        "es": "[Yierhan]\n¿Un trozo de tela?\nEm, de acuerdo. A ver,\ndéjame echar un vistazo."
+    },
+    "H4WRBg": {
+        "en": "[Yierhan]\nWhoa!\nYou did great.\nThis is some pretty\nimportant information!",
+        "es": "[Yierhan]\n¡Vaya!\nLo hiciste muy bien.\nThis is some pretty\ninformación muy importante!"
+    },
+    "IIWRBg": {
+        "en": "[Yierhan]\nYou see, the pattern on this cloth is sort of like one of the codes Assassins use. And this particular pattern looks like something from one of those higher Assassins.",
+        "es": "[Yierhan]\nVerás, el patrón de esta tela es como uno de los códigos que usan los Asesinos. Y este patrón en particular parece algo de uno de esos Asesinos de mayor rango."
+    },
+    "IYWRBg": {
+        "en": "[Yierhan]\nI might be able to figure out what happened that night with the new information this cloth might lead me to. Thanks a lot!",
+        "es": "[Yierhan]\nQuizá pueda averiguar qué pasó esa noche con la nueva información a la que me lleve esta tela. ¡Muchas gracias!"
+    },
+    "IoWRBg": {
+        "en": "[Yierhan]\nFrom here on,\nthe higher ups in the\nguild will take over this investigation. You did your job perfectly, so it's time for you to hone your skills.",
+        "es": "[Yierhan]\nDe aquí en adelante,\nlos altos cargos del\ngremio se encargarán de esta investigación. Hiciste tu trabajo perfectamente, así que es hora de que perfecciones tus habilidades."
+    },
+    "I4WRBg": {
+        "en": "[Yierhan]\nHey, this stuff is yours. Think of it as a reward for helping us out. Take care of yourself now~",
+        "es": "[Yierhan]\nOye, esto es tuyo. Considéralo una recompensa por ayudarnos. Cuídate ahora~."
+    },
+    "JIWRBg": {
+        "en": "[Yierhan]\nHey...\nYou got dreams,\ndon't you? I know,\nit's a bit of a deep\nsubject I pulled outta\nnowhere, but...",
+        "es": "[Yierhan]\nOye…\nTienes sueños,\n¿verdad? Lo sé,\nes un tema un\npoco profundo que saqué de\nla nada, pero…"
+    },
+    "JYWRBg": {
+        "en": "[Yierhan]\nI just like telling people to follow their dreams. So do it. Life without anything to look forward to is pretty boring, doncha think?",
+        "es": "[Yierhan]\nMe gusta decirle a la gente que siga sus sueños. Pues hazlo. La vida sin nada que esperar es bastante aburrida, ¿no crees?"
+    },
+    "JoWRBg": {
+        "en": "[Yierhan]\nHeya.\nI'm the Thief trainer around here. Sure, it looks like we don't got much in common, but...",
+        "es": "[Yierhan]\nHola.\nSoy el entrenador de Ladrones por aquí. Claro, parece que no tenemos mucho en común, pero…"
+    },
+    "J4WRBg": {
+        "en": "[Yierhan]\nI actually got a few magic using friends here and there. That mystic stuff is waaay over my head, but\nI got a lotta respect for it.",
+        "es": "[Yierhan]\nDe hecho, tengo algunos amigos que usan magia aquí y allá. Esa cosa mística está muy por encima de mi cabeza, pero\nle tengo mucho respeto."
+    },
+    "KIWRBg": {
+        "en": "[Yierhan]\nHm...?\nThat's weird, usually only\nThieves hang around this joint. What's someone like you doing\nhere? Unless...",
+        "es": "[Yierhan]\n¿Mmm?\nEso es raro, por lo general solo\nlos ladrones rondan este antro. ¿Qué hace alguien como tú\naquí? A menos que…"
+    },
+    "KYWRBg": {
+        "en": "I'm here on behalf of 'Mana.'",
+        "es": "Estoy aquí en nombre de “Mana”."
+    },
+    "KoWRBg": {
+        "en": "[Yierhan]\nRight, you must be the help that Mana sent! You came just at the right time. You see, we found something weird in South Morroc.",
+        "es": "[Yierhan]\nCierto, ¡tú debes ser la ayuda que envió Mana! Llegaste en el momento justo. Verás, encontramos algo raro en el sur de Morroc."
+    },
+    "K4WRBg": {
+        "en": "[Yierhan]\nBasically, we found traces of poison that were used in a fight. We were going to investigate it, but we've been swamped with all this other work.",
+        "es": "[Yierhan]\nBásicamente, encontramos rastros de veneno que fueron usados en una pelea. Íbamos a investigarlo, pero estuvimos desbordados con todo este trabajo."
+    },
+    "LIWRBg": {
+        "en": "[Yierhan]\nThat's why we've been asking\nfor help from the Mage Guild. Fortunately, I'm pals with Mana, so...",
+        "es": "[Yierhan]\nEs por eso que estuvimos pidiendo\nayuda al gremio de magos. Afortunadamente, soy amigo de Mana, así que…"
+    },
+    "LYWRBg": {
+        "en": "[Yierhan]\nAnyway, head over to\nSouth Morroc since it seems to be a good place to start investigating. You'll see what we found right outside the South Morroc gate.",
+        "es": "[Yierhan]\nDe todos modos, dirígete al\nsur de Morroc ya que parece ser un buen lugar para empezar a investigar. Verás lo que encontramos justo fuera de la puerta sur de Morroc."
+    },
+    "LoWRBg": {
+        "en": "[Yierhan]\nBe careful, pal.\nIt seems your\ninvestigation\nmight be related to\nthat mysterious Assassin...",
+        "es": "[Yierhan]\nTen cuidado, colega.\nParece que tu\ninvestigación\npuede estar relacionada con\nese misterioso Asesino…"
+    },
+    "L4WRBg": {
+        "en": "[Yierhan]\nSo how's the\ninvestigation\ncoming along?\nI've been so busy,\nI couldn't focus\non it at all...",
+        "es": "[Yierhan]\nEntonces, ¿cómo va\ninvestigación\ntodo?\nTuve tantas cosas para hacer\nque no podía concentrarme\nen eso en absoluto…"
+    },
+    "MIWRBg": {
+        "en": "I'm not done yet...",
+        "es": "Aún no terminé…"
+    },
+    "MYWRBg": {
+        "en": "Oh, I finished~",
+        "es": "Oh, terminé~."
+    },
+    "MoWRBg": {
+        "en": "[Yierhan]\nHey, this stuff is yours. Think of it as a reward for helping us out. Right, and I'll let Mana know you did a great job. Take care of yourself now~",
+        "es": "[Yierhan]\nCierto, y le haré saber a Mana que hiciste un gran trabajo. Cuídate."
+    },
+    "M4WRBg": {
+        "en": "[Yierhan]\nJust as I thought,\nmore than one group\nwas involved in all this.\nHuh. Something real bad\nmight happen soon...",
+        "es": "[Yierhan]\nJusto lo que pensaba,\nmás de un grupo\nestuvo involucrado en todo esto.\nMm. Algo realmente malo\npodría ocurrir pronto…"
+    },
+    "NIWRBg": {
+        "en": "[Yierhan]\nSome people think\nthe desert is just a\ndangerous, uncomfortable\nplace that no one wants\nto be. But there's all\nsorts of great stuff here.",
+        "es": "[Yierhan]\nAlgunas personas piensan\nque el desierto es solo un\nlugar peligroso e incómodo\nen el que nadie quiere\nestar. Pero hay todo\ntipo de cosas buenas aquí."
+    },
+    "NYWRBg": {
+        "en": "[Yierhan]\nWe got the blazing heat that encourages skimpy outfits, we got... Cacti. We got more sand than the beach. Um... Sandstorms?",
+        "es": "[Yierhan]\nTenemos el calor abrasador que anima a llevar poca ropa, tenemos… Cactus. Tenemos más arena que la playa. Em… ¿Tormentas de arena?"
+    }
+}

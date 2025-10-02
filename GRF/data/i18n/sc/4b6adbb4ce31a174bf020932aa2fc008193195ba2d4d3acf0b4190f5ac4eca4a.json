@@ -1,0 +1,732 @@
+{
+    "QIr3AQ": {
+        "en": "Amatsu Guide",
+        "pt": "Guia Amatsu",
+        "es": "Amatsu Guía"
+    },
+    "QYr3AQ": {
+        "en": "[Amachang]\nWelcome to Amatsu,\nthe town of kind towners\nand beautiful cherry blossoms.",
+        "pt": "[Amachang]\nBem-vindo a Amatsu,\na cidade dos gentis habitantes\ne das lindas flores de cerejeira.",
+        "es": "[Amachang]\nTe damos la bienvenida a Amatsu,\nla ciudad de los habitantes amables\ny de las hermosas flores de cerezo."
+    },
+    "Qor3AQ": {
+        "en": "[Amachang]\nI'm Amachang,\nthe 13th Miss Amatsu.\nI will guide you about town\nas Miss Amatsu.\nPlease tell me\nif you want to know something.",
+        "pt": "[Amachang]\nEu sou Amachang,\na 13ª senhorita Amatsu.\nEu o guiarei pela cidade\ncomo Srta. Amatsu.\nPor favor, me diga\nse quiser saber alguma coisa.",
+        "es": "[Amachang]\nSoy Amachang,\nMiss Amatsu número 13.\nTe guiaré por la ciudad\nen mi rol de Miss Amatsu.\nDime\nsi quieres saber algo."
+    },
+    "Q4r3AQ": {
+        "en": "Kafra staff",
+        "pt": "Equipe da Kafra",
+        "es": "Personal de Kafra."
+    },
+    "RIr3AQ": {
+        "en": "Bar",
+        "pt": "Bar",
+        "es": "Cantina."
+    },
+    "RYr3AQ": {
+        "en": "Weapon shop",
+        "pt": "Loja de Armas",
+        "es": "Tienda de armas."
+    },
+    "Ror3AQ": {
+        "en": "Tool shop",
+        "pt": "Loja de Ferramentas",
+        "es": "Tienda de herramientas."
+    },
+    "R4r3AQ": {
+        "en": "Amatsu Castle",
+        "pt": "Castelo de Amatsu",
+        "es": "Castillo de Amatsu."
+    },
+    "SIr3AQ": {
+        "en": "Food Merchant",
+        "pt": "Comerciante de alimentos",
+        "es": "Comerciante de comida."
+    },
+    "SYr3AQ": {
+        "en": "Ninja job change room",
+        "pt": "Sala de troca de trabalho ninja",
+        "es": "Sala de cambio de clase ninja."
+    },
+    "Sor3AQ": {
+        "en": "Ship Captain",
+        "pt": "Capitão do navio",
+        "es": "Capitán del barco."
+    },
+    "S4r3AQ": {
+        "en": "Clear the mini map.",
+        "pt": "Limpe o minimapa.",
+        "es": "Borrar el minimapa."
+    },
+    "TIr3AQ": {
+        "en": "Cancel.",
+        "pt": "Cancelar",
+        "es": "Cancelar."
+    },
+    "TYr3AQ": {
+        "en": "[Amachang]\n<NAVI>Kafra staff<INFO>amatsu,102,149,</INFO></NAVI> is\nmarked on your mini map.\nDo you need anything else?",
+        "pt": "[Amachang]\n<NAVI>A equipe de Kafra<INFO>amatsu,102,149,</INFO></NAVI> está\nmarcado em seu minimapa.\nVocê precisa de mais alguma coisa?",
+        "es": "[Amachang]\nEl <NAVI>personal de Kafra<INFO>amatsu,102,149,</INFO></NAVI> está \nmarcado en tu minimapa.\n¿Necesitas algo más?"
+    },
+    "Tor3AQ": {
+        "en": "[Amachang]\nThe <NAVI>Bar<INFO>amatsu,215,116,</INFO></NAVI> is\nmarked on your mini map.\nDo you need anything else?",
+        "pt": "[Amachang]\nO <NAVI>Bar<INFO>amatsu,215,116,</INFO></NAVI> está\nmarcado em seu minimapa.\nVocê precisa de mais alguma coisa?",
+        "es": "[Amachang]\nLa <NAVI>cantina<INFO>amatsu,215,116,</INFO></NAVI> está \nmarcado en tu minimapa.\n¿Necesitas algo más?"
+    },
+    "T4r3AQ": {
+        "en": "[Amachang]\nThe <NAVI>Weapon Shop<INFO>amatsu,129,117,</INFO></NAVI> is\nmarked on your mini map.\nDo you need anything else?",
+        "pt": "[Amachang]\nO <NAVI>Weapon Shop<INFO>amatsu,129,117,</INFO></NAVI> está\nmarcado em seu minimapa.\nVocê precisa de mais alguma coisa?",
+        "es": "[Amachang]\nLa <NAVI>tienda de armas<INFO>amatsu,129,117,</INFO></NAVI> está \nmarcado en tu minimapa.\n¿Necesitas algo más?"
+    },
+    "UIr3AQ": {
+        "en": "[Amachang]\nTHe <NAVI>Tool Shop<INFO>amatsu,97,117,</INFO></NAVI> is\nmarked on your mini map.\nDo you need anything else?",
+        "pt": "[Amachang]\nA <NAVI>Loja de Ferramentas<INFO>amatsu,97,117,</INFO></NAVI> está\nestá marcado em seu minimapa.\nVocê precisa de mais alguma coisa?",
+        "es": "[Amachang]\nLa <NAVI>tienda de herramientas<INFO>amatsu,97,117,</INFO></NAVI> está \nmarcado en tu minimapa.\n¿Necesitas algo más?"
+    },
+    "UYr3AQ": {
+        "en": "[Amachang]\n<NAVI>Amatsu Castle<INFO>amatsu,87,235,</INFO></NAVI> is\nmarked on your mini map.\nDo you need anything else?",
+        "pt": "[Amachang]\n<NAVI>Castelo de Amatsu<INFO>amatsu,87,235,</INFO></NAVI> está\nmarcado em seu minimapa.\nVocê precisa de mais alguma coisa?",
+        "es": "[Amachang]\nEl <NAVI>castillo de Amatsu<INFO>amatsu,87,235,</INFO></NAVI> está \nmarcado en tu minimapa.\n¿Necesitas algo más?"
+    },
+    "Uor3AQ": {
+        "en": "[Amachang]\nThe <NAVI>Food Merchant<INFO>amatsu,206,150,</INFO></NAVI> is\nmarked on your mini map.\nDo you need anything else?",
+        "pt": "[Amachang]\nO <NAVI>comerciante de alimentos<INFO>amatsu,206,150,</INFO></NAVI> está\nmarcado em seu minimapa.\nVocê precisa de mais alguma coisa?",
+        "es": "[Amachang]\nEl <NAVI>comerciante de comida<INFO>amatsu,206,150,</INFO></NAVI> está \nmarcado en tu minimapa.\n¿Necesitas algo más?"
+    },
+    "U4r3AQ": {
+        "en": "[Amachang]\n<NAVI>Ninja job change room<INFO>amatsu,148,137,</INFO></NAVI> is\nmarked on your mini map.\nDo you need anything else?",
+        "pt": "[Amachang]\n<NAVI>A sala de troca de trabalho ninja<INFO>amatsu,148,137,</INFO></NAVI> está\nmarcada em seu minimapa.\nVocê precisa de mais alguma coisa?",
+        "es": "[Amachang]\nLa <NAVI>sala de cambio de clase ninja<INFO>amatsu,148,137,</INFO></NAVI> está \nmarcado en tu minimapa.\n¿Necesitas algo más?"
+    },
+    "VIr3AQ": {
+        "en": "[Amachang]\nThe <NAVI>Ship Captain<INFO>amatsu,195,79,</INFO></NAVI> is\nmarked on your mini map.\nDo you need anything else?",
+        "pt": "[Amachang]\nO <NAVI>navio Capitão<INFO>amatsu,195,79,</INFO></NAVI> está\nmarcado em seu minimapa.\nPrecisa de mais alguma coisa?",
+        "es": "[Amachang]\nEl <NAVI>capitán del barco<INFO>amatsu,195,79,</INFO></NAVI> está \nmarcado en tu minimapa.\n¿Necesitas algo más?"
+    },
+    "VYr3AQ": {
+        "en": "[Amachang]\nI will remove all marks on your list\nDo you need anything else?",
+        "pt": "[Amachang]\nRemoverei todas as marcas de sua lista\nVocê precisa de mais alguma coisa?",
+        "es": "[Amachang]\nQuitaré todas las marcas de tu lista.\n¿Necesitas algo más?"
+    },
+    "Vor3AQ": {
+        "en": "[Amachang]\nEnjoy your trip~!!",
+        "pt": "[Amachang]\nAproveite sua viagem~!!!",
+        "es": "[Amachang]\n¡Disfruta de tu viaje!"
+    },
+    "V4r3AQ": {
+        "en": "Ayothaya Guide",
+        "pt": "Guia de Ayothaya",
+        "es": "Ayothaya Guía"
+    },
+    "WIr3AQ": {
+        "en": "[Noi]\nHello~\nWelcome to ^8B4513Ayothaya^000000.\nThis town is linked to a river through the wild forest.\nIt's a really calm country.\nTake your time to look around.",
+        "pt": "[Noi]\nOlá!\nBem-vindo a ^8B4513Ayothaya^000000.\nEsta cidade está ligada a um rio que atravessa a floresta selvagem.\nÉ um país realmente calmo.\nNão tenha pressa para dar uma olhada.",
+        "es": "[Noi]\nHola.\nTe damos la bienvenida a ^8B4513Ayothaya^000000.\nEsta ciudad está unida a un río a través del bosque salvaje.\nEs una tierra muy tranquila.\nTómate tu tiempo para echar un vistazo."
+    },
+    "WYr3AQ": {
+        "en": "Pub",
+        "pt": "Pub",
+        "es": "Bar."
+    },
+    "Wor3AQ": {
+        "en": "Temple",
+        "pt": "Templo",
+        "es": "Templo."
+    },
+    "W4r3AQ": {
+        "en": "Fishing area",
+        "pt": "Área de pesca",
+        "es": "Zona de pesca."
+    },
+    "XIr3AQ": {
+        "en": "Return to Alberta",
+        "pt": "Retornar para Alberta",
+        "es": "Volver a Alberta."
+    },
+    "XYr3AQ": {
+        "en": "[Noi]\nThe <NAVI>Weapon Shop<INFO>ayothaya,163,90,</INFO></NAVI>\nin Ayothaya has special weapons.\nYou can see the great weapons.\nDo you need anything else?",
+        "pt": "[Noi]\nO <NAVI>Weapon Shop<INFO>ayothaya,163,90,</INFO></NAVI>\nem Ayothaya tem armas especiais.\nVocê pode ver as armas excelentes.\nPrecisa de mais alguma coisa?",
+        "es": "[Noi]\nEn la <NAVI>tienda de armas<INFO>ayothaya,163,90,</INFO></NAVI>\nde Ayothaya hay armas especiales.\nPuedes ver las grandes armas.\n¿Necesitas algo más?"
+    },
+    "Xor3AQ": {
+        "en": "[Noi]\nOur citizens purchase many products in the <NAVI>Tool Shop<INFO>ayothaya,131,86,</INFO></NAVI>.\nMake sure you get all you need there.\nDo you need anything else?",
+        "pt": "[Noi]\nNossos cidadãos compram muitos produtos na <NAVI>Loja de Ferramentas<INFO>ayothaya,131,86,</INFO></NAVI>.\nCertifique-se de obter tudo o que precisa lá.\nVocê precisa de mais alguma coisa?",
+        "es": "[Noi]\nNuestros ciudadanos compran muchos productos en la <NAVI>tienda de herramientas<INFO>ayothaya,131,86,</INFO></NAVI>.\nAsegúrate de conseguir allí todo lo que necesitas.\n¿Necesitas algo más?"
+    },
+    "X4r3AQ": {
+        "en": "[Noi]\nPart of adventuring is collecting information.\nThe <NAVI>Pub<INFO>ayothaya,229,73,</INFO></NAVI> is crowded with lots of travelers where you can get useful information.\nDo you need anything else?",
+        "pt": "[Noi]\nParte da aventura é coletar informações.\nO <NAVI>Pub<INFO>ayothaya,229,73,</INFO></NAVI> está lotado com muitos viajantes, onde você pode obter informações úteis.\nVocê precisa de mais alguma coisa?",
+        "es": "[Noi]\nParte de una aventura consiste en recolectar información.\nEl <NAVI>bar<INFO>ayothaya,229,73,</INFO></NAVI> está abarrotado de viajeros. Allí obtendrás información útil.\n¿Necesitas algo más?"
+    },
+    "YIr3AQ": {
+        "en": "[Noi]\nTo calm your heart, go to the <NAVI>Temple<INFO>ayothaya,208,280,</INFO></NAVI> and say a prayer.\nDo you need anything else?",
+        "pt": "[Noi]\nPara acalmar seu coração, vá até o <NAVI>Templo<INFO>ayothaya,208,280,</INFO></NAVI> e faça uma oração.\nVocê precisa de mais alguma coisa?",
+        "es": "[Noi]\nPara calmar tu corazón, ve al <NAVI>templo<INFO>ayothaya,208,280,</INFO></NAVI> y di una plegaria.\n¿Necesitas algo más?"
+    },
+    "YYr3AQ": {
+        "en": "[Noi]\nAyothaya is close to the beach, so most people enjoy fishing.\nThey really love to fish.\nGo <NAVI>fishing<INFO>ayothaya,255,99,</INFO></NAVI> and try to grab a big fish.\nDo you need anything else?",
+        "pt": "[Noi]\nAyothaya fica perto da praia, por isso a maioria das pessoas gosta de pescar.\nElas realmente adoram pescar.\nVá <NAVI>pescar<INFO>ayothaya,255,99,</INFO></NAVI> e tente pegar um peixe grande.\nVocê precisa de mais alguma coisa?",
+        "es": "[Noi]\nAyothaya está cerca de la playa, por lo que la mayoría de la gente disfruta de la pesca.\nLes encanta pescar.\nVe a <NAVI>pescar<INFO>ayothaya,255,99,</INFO></NAVI> e intenta capturar un pez grande.\n¿Necesitas algo más?"
+    },
+    "Yor3AQ": {
+        "en": "[Noi]\nIf you want to return home\nfind <NAVI>Park Ting<INFO>ayothaya,151,68,</INFO></NAVI>\nand ask him to send you back.\nDo you need anything else?",
+        "pt": "[Noi]\nSe você quiser voltar para casa\nencontre <NAVI>Park Ting<INFO>ayothaya,151,68,</INFO></NAVI>\ne peça a ele que o mande de volta.\nVocê precisa de mais alguma coisa?",
+        "es": "[Noi]\nSi quieres volver a casa\nencuentra a <NAVI>Park Ting<INFO>ayothaya,151,68,</INFO></NAVI>\ny pídele que te envíe de vuelta.\n¿Necesitas algo más?"
+    },
+    "Y4r3AQ": {
+        "en": "[Noi]\nI will remove all marks on your list\nDo you need anything else?",
+        "pt": "[Noi]\nRemoverei todas as marcas de sua lista\nVocê precisa de mais alguma coisa?",
+        "es": "[Noi]\nQuitaré todas las marcas de tu lista.\n¿Necesitas algo más?"
+    },
+    "ZIr3AQ": {
+        "en": "[Noi]\nEnjoy your trip~!",
+        "pt": "[Noi]\nAproveite sua viagem~!",
+        "es": "[Noi]\n¡Disfruta de tu viaje!"
+    },
+    "ZYr3AQ": {
+        "en": "Ayothaya Guide Noa",
+        "pt": "Guia Ayothaya Noa",
+        "es": "Ayothaya Guía Noa"
+    },
+    "Zor3AQ": {
+        "en": "[Noa]\nHello~\nWelcome to ^8B4513Ayothaya^000000.\nThis town is linked to a river through the wild forest.\nIt's a really calm country.\nTake your time to look around.",
+        "pt": "[Noa]\nOlá~\nBem-vindo a ^8B4513Ayothaya^000000.\nEsta cidade está ligada a um rio que atravessa a floresta selvagem.\nÉ um país realmente calmo.\nNão tenha pressa para dar uma olhada.",
+        "es": "[Noa]\nHola.\nTe damos la bienvenida a ^8B4513Ayothaya^000000.\nEsta ciudad está unida a un río a través del bosque salvaje.\nEs una tierra muy tranquila.\nTómate tu tiempo para echar un vistazo."
+    },
+    "Z4r3AQ": {
+        "en": "[Noa]\n<NAVI>Kafra staff<INFO>ayothaya,203,169,</INFO></NAVI> is\nmarked in the mini map\nCheck your mini map.\nDo you need anything else?",
+        "pt": "[Noa]\n<NAVI>A equipe de Kafra<INFO>ayothaya,203,169,</INFO></NAVI> está\nmarcada no minimapa\nVerifique seu minimapa.\nVocê precisa de mais alguma coisa?",
+        "es": "[Noa]\nEl <NAVI>personal de Kafra<INFO>ayothaya,203,169,</INFO></NAVI> está \nmarcado en el minimapa.\nRevisa tu minimapa.\n¿Necesitas algo más?"
+    },
+    "aIr3AQ": {
+        "en": "[Noa]\nThe <NAVI>Weapon Shop<INFO>ayothaya,163,90,</INFO></NAVI>\nin Ayothaya has special weapons.\nYou can see the great weapons.\nDo you need anything else?",
+        "pt": "[Noa]\nO <NAVI>Weapon Shop<INFO>ayothaya,163,90,</INFO></NAVI>\nem Ayothaya tem armas especiais.\nVocê pode ver as armas excelentes.\nPrecisa de mais alguma coisa?",
+        "es": "[Noa]\nEn la <NAVI>tienda de armas<INFO>ayothaya,163,90,</INFO></NAVI>\nde Ayothaya hay armas especiales.\nPuedes ver las grandes armas.\n¿Necesitas algo más?"
+    },
+    "aYr3AQ": {
+        "en": "[Noa]\nOur citizens purchase many products in the <NAVI>Tool Shop<INFO>ayothaya,131,86,</INFO></NAVI>.\nMake sure you get all you need there.\nDo you need anything else?",
+        "pt": "[Noa]\nNossos cidadãos compram muitos produtos na <NAVI>Loja de Ferramentas<INFO>ayothaya,131,86,</INFO></NAVI>.\nCertifique-se de obter tudo o que precisa lá.\nVocê precisa de mais alguma coisa?",
+        "es": "[Noa]\nNuestros ciudadanos compran muchos productos en la <NAVI>tienda de herramientas<INFO>ayothaya,131,86,</INFO></NAVI>.\nAsegúrate de conseguir allí todo lo que necesitas.\n¿Necesitas algo más?"
+    },
+    "aor3AQ": {
+        "en": "[Noa]\nPart of adventuring is collecting information.\nThe <NAVI>Pub<INFO>ayothaya,229,72,</INFO></NAVI> is crowded with lots of travelers where you can get useful information.\nDo you need anything else?",
+        "pt": "[Noa]\nParte da aventura é coletar informações.\nO <NAVI>Pub<INFO>ayothaya,229,72,</INFO></NAVI> está lotado com muitos viajantes, onde você pode obter informações úteis.\nVocê precisa de mais alguma coisa?",
+        "es": "[Noa]\nParte de una aventura consiste en recolectar información.\nEl <NAVI>bar<INFO>ayothaya,229,72,</INFO></NAVI> está abarrotado de muchos viajeros. Allí, podrás obtener información útil.\n¿Necesitas algo más?"
+    },
+    "a4r3AQ": {
+        "en": "[Noa]\nTo calm your heart, go to the <NAVI>Temple<INFO>ayothaya,208,280,</INFO></NAVI> and say a prayer.\nDo you need anything else?",
+        "pt": "[Noa]\nPara acalmar seu coração, vá até o <NAVI>Templo<INFO>ayothaya,208,280,</INFO></NAVI> e faça uma oração.\nVocê precisa de mais alguma coisa?",
+        "es": "[Noa]\nPara calmar tu corazón, ve al <NAVI>templo<INFO>ayothaya,208,280,</INFO></NAVI> y di una plegaria.\n¿Necesitas algo más?"
+    },
+    "bIr3AQ": {
+        "en": "[Noa]\nAyothaya is close to the beach, so most people enjoy fishing.\nThey really love to fish.\nGo <NAVI>fishing<INFO>ayothaya,255,99,</INFO></NAVI> and try to grab a big fish.\nDo you need anything else?",
+        "pt": "[Noa]\nAyothaya fica perto da praia, por isso a maioria das pessoas gosta de pescar.\nElas realmente adoram pescar.\nVá <NAVI>pescar<INFO>ayothaya,255,99,</INFO></NAVI> e tente pegar um peixe grande.\nVocê precisa de mais alguma coisa?",
+        "es": "[Noa]\nAyothaya está cerca de la playa, por lo que la mayoría de la gente disfruta de la pesca.\nLes encanta pescar.\nVe a <NAVI>pescar<INFO>ayothaya,255,99,</INFO></NAVI> e intenta capturar un pez grande.\n¿Necesitas algo más?"
+    },
+    "bYr3AQ": {
+        "en": "[Noa]\nIf you want to return home\nfind ^00BFFFPark Ting^000000\nand ask him to send you back.\nDo you need anything else?",
+        "pt": "[Noa]\nSe você quiser voltar para casa\nencontre ^00BFFFPark Ting^000000\ne peça a ele que o envie de volta.\nVocê precisa de mais alguma coisa?",
+        "es": "[Noa]\nSi quieres volver a casa\nencuentra a ^00BFFFPark Ting^000000\ny pídele que te envíe de vuelta.\n¿Necesitas algo más?"
+    },
+    "bor3AQ": {
+        "en": "[Noa]\nI will remove all marks on your list\nDo you need anything else?",
+        "pt": "[Noa]\nRemoverei todas as marcas de sua lista\nVocê precisa de mais alguma coisa?",
+        "es": "[Noa]\nQuitaré todas las marcas de tu lista.\n¿Necesitas algo más?"
+    },
+    "b4r3AQ": {
+        "en": "[Noa]\nEnjoy your trip~!",
+        "pt": "[Noa]\nAproveite sua viagem~!",
+        "es": "[Noa]\n¡Disfruta de tu viaje!"
+    },
+    "cIr3AQ": {
+        "en": "Kunlun Guide",
+        "pt": "Guia Kunlun",
+        "es": "Kunlun Guía"
+    },
+    "cYr3AQ": {
+        "en": "[He Yuen Zhe]\nAs always sctivate and passional\ncan meet lots of people every day.\nVisit ^8B4513Gonryun^000000.\nI'm living for guide\nso, if you want to ask anything\nFeel free ask me.",
+        "pt": "[He Yuen Zhe]\nComo sempre ativo e apaixonado\npode conhecer muitas pessoas todos os dias.\nVisite ^8B4513Gonryun^000000.\nEstou vivendo para orientar\nportanto, se você quiser perguntar alguma coisa\nFique à vontade para me perguntar.",
+        "es": "[He Yuen Zhe]\nSiempre activo y pasional,\nconoces mucha gente todos los días.\nVisita ^8B4513Gonryun^000000.\nVivo para guía,\nasí que, si tienes inquietud,\nno dudes preguntarme."
+    },
+    "cor3AQ": {
+        "en": "Owner's house",
+        "pt": "Casa do proprietário",
+        "es": "Casa del propietario."
+    },
+    "c4r3AQ": {
+        "en": "Tool Shop",
+        "pt": "Loja de Ferramentas",
+        "es": "Tienda de herramientas."
+    },
+    "dIr3AQ": {
+        "en": "Weapon Shop",
+        "pt": "Loja de Armas",
+        "es": "Tienda de armas."
+    },
+    "dYr3AQ": {
+        "en": "Armor Shop",
+        "pt": "Loja de Armaduras",
+        "es": "Tienda de armaduras."
+    },
+    "dor3AQ": {
+        "en": "Kunlun PR staff",
+        "pt": "Equipe de relações públicas da Kunlun",
+        "es": "Personal de RP de Kunlun."
+    },
+    "d4r3AQ": {
+        "en": "[He Yuen Zhe]\nThe <NAVI>Kafra staff<INFO>gonryun,159,122,</INFO></NAVI> is\nmarked in the mini map\nDo you need anything else?",
+        "pt": "[He Yuen Zhe]\nO <NAVI>grupo de Kafra<INFO>gonryun,159,122,</INFO></NAVI> está\nmarcado no minimapa\nVocê precisa de mais alguma coisa?",
+        "es": "[He Yuen Zhe]\nEl <NAVI>personal de Kafra<INFO>gonryun,159,122,</INFO></NAVI> está \nmarcado en el minimapa.\n¿Necesitas algo más?"
+    },
+    "eIr3AQ": {
+        "en": "[He Yuen Zhe]\nThe <NAVI>Owner's house<INFO>gonryun,110,131,</INFO></NAVI> is\nmarked in the mini map\nDo you need anything else?",
+        "pt": "[He Yuen Zhe]\nA <NAVI>casa do proprietário<INFO>gonryun,110,131,</INFO></NAVI> está\nmarcada no minimapa\nVocê precisa de mais alguma coisa?",
+        "es": "[He Yuen Zhe]\nLa <NAVI>casa del propietario<INFO>gonryun,110,131,</INFO></NAVI> está \nmarcado en el minimapa.\n¿Necesitas algo más?"
+    },
+    "eYr3AQ": {
+        "en": "[He Yuen Zhe]\nThe <NAVI>Tool Shop<INFO>gonryun,147,84,</INFO></NAVI> is\nmarked in the mini map\nDo you need anything else?",
+        "pt": "[He Yuen Zhe]\nA <NAVI>Loja de Ferramentas<INFO>gonryun,147,84,</INFO></NAVI> está\nmarcado no minimapa\nVocê precisa de mais alguma coisa?",
+        "es": "[He Yuen Zhe]\nLa <NAVI>tienda de herramientas<INFO>gonryun,147,84,</INFO></NAVI> está \nmarcado en el minimapa.\n¿Necesitas algo más?"
+    },
+    "eor3AQ": {
+        "en": "[He Yuen Zhe]\nThe <NAVI>Weapon Shop<INFO>gonryun,174,101,</INFO></NAVI> is\nmarked in the mini map\nDo you need anything else?",
+        "pt": "[He Yuen Zhe]\nA <NAVI>Loja de Armas<INFO>gonryun,174,101,</INFO></NAVI> está\nmarcado no minimapa\nVocê precisa de mais alguma coisa?",
+        "es": "[He Yuen Zhe]\nLa <NAVI>tienda de armas<INFO>gonryun, 174,101,</INFO></NAVI> está \nmarcado en el minimapa.\n¿Necesitas algo más?"
+    },
+    "e4r3AQ": {
+        "en": "[He Yuen Zhe]\nThe <NAVI>Armor Shop<INFO>gonryun,173,84,</INFO></NAVI> is\nmarked in the mini map\nDo you need anything else?",
+        "pt": "[He Yuen Zhe]\nA <NAVI>Loja de Armaduras<INFO>gonryun,173,84,</INFO></NAVI> está\nmarcado no minimapa\nVocê precisa de mais alguma coisa?",
+        "es": "[He Yuen Zhe]\nLa <NAVI>tienda de armaduras<INFO>gonryun,173,84,</INFO></NAVI> está \nmarcado en el minimapa.\n¿Necesitas algo más?"
+    },
+    "fIr3AQ": {
+        "en": "[He Yuen Zhe]\nThe <NAVI>Pub<INFO>gonryun,213,115,</INFO></NAVI> is\nmarked in the mini map\nDo you need anything else?",
+        "pt": "[He Yuen Zhe]\nO <NAVI>Pub<INFO>gonryun,213,115,</INFO></NAVI> está\nmarcado no minimapa\nVocê precisa de mais alguma coisa?",
+        "es": "[He Yuen Zhe]\nEl <NAVI>bar<INFO>gonryun,213,115,</INFO></NAVI> está \nmarcado en el minimapa.\n¿Necesitas algo más?"
+    },
+    "fYr3AQ": {
+        "en": "[He Yuen Zhe]\nThe <NAVI>Kunlun PR staff<INFO>gonryun,161,11,</INFO></NAVI> is\nmarked in the mini map\nDo you need anything else?",
+        "pt": "[He Yuen Zhe]\nA <NAVI>equipe de relações públicas da Kunlun<INFO>gonryun,161,11,</INFO></NAVI> está\nmarcado no minimapa\nVocê precisa de mais alguma coisa?",
+        "es": "[He Yuen Zhe]\nEl <NAVI>personal de RP de Kunlun<INFO>gonryun,161,11,</INFO></NAVI> está \nmarcado en el minimapa.\n¿Necesitas algo más?"
+    },
+    "for3AQ": {
+        "en": "[He Yuen Zhe]\nI will remove all marks on your list\nDo you need anything else?",
+        "pt": "[He Yuen Zhe]\nRemoverei todas as marcas em sua lista\nVocê precisa de mais alguma coisa?",
+        "es": "[He Yuen Zhe]\nQuitaré todas las marcas de tu lista.\n¿Necesitas algo más?"
+    },
+    "f4r3AQ": {
+        "en": "[He Yuen Zhe]\nEnjoy your trip~!",
+        "pt": "[He Yuen Zhe]\nAproveite sua viagem~!",
+        "es": "[He Yuen Zhe]\n¡Disfruta de tu viaje!"
+    },
+    "gIr3AQ": {
+        "en": "Louyang Guide",
+        "pt": "Guia de Louyang",
+        "es": "Louyang Guía"
+    },
+    "gYr3AQ": {
+        "en": "[Representative]\nWelcome to Louyang,\nan ancient land with\na history full of tales\nof bravery.",
+        "pt": "[Representante]\nBem-vindo a Louyang,\numa terra antiga com\numa história cheia de contos\nde bravura.",
+        "es": "[Representante]\nTe damos la bienvenida a Luoyang,\nuna tierra antigua con\nuna historia llena de cuentos\nde valentía."
+    },
+    "gor3AQ": {
+        "en": "[Representative]\nWe now provide an ocean lane to accomodate foreign travelers and intercultural exchange from which all can benefit.",
+        "pt": "[Representante]\nAgora oferecemos uma via marítima para acomodar viajantes estrangeiros e o intercâmbio intercultural do qual todos podem se beneficiar.",
+        "es": "[Representante]\nAhora ofrecemos una vía marítima para acoger a los viajeros extranjeros e impulsar un intercambio intercultural del que todos pueden beneficiarse."
+    },
+    "g4r3AQ": {
+        "en": "[Representative]\nLouyang is famous for\nits elaborate history, as well as specialties that are unique to this nation. Please take your time and enjoy your stay.",
+        "pt": "[Representante]\nLouyang é famosa por\nsua história elaborada, bem como pelas especialidades que são exclusivas dessa nação. Por favor, não tenha pressa e aproveite sua estadia.",
+        "es": "[Representante]\nLuoyang es famosa por\nsu compleja historia, así como por las especialidades propias de esta nación. Tómese su tiempo y disfrute de su estancia."
+    },
+    "hIr3AQ": {
+        "en": "Dragon Castle",
+        "pt": "Castelo do Dragão",
+        "es": "Castillo del Dragón."
+    },
+    "hYr3AQ": {
+        "en": "Congress",
+        "pt": "Congresso",
+        "es": "Congreso."
+    },
+    "hor3AQ": {
+        "en": "Government",
+        "pt": "Governo",
+        "es": "Gobierno."
+    },
+    "h4r3AQ": {
+        "en": "Tavern",
+        "pt": "Taberna",
+        "es": "Taberna."
+    },
+    "iIr3AQ": {
+        "en": "Observatory",
+        "pt": "Observatório",
+        "es": "Observatorio."
+    },
+    "iYr3AQ": {
+        "en": "[Representative]\nThe <NAVI>Dragon Castle<INFO>louyang,218,253,</INFO></NAVI> is located at ^FF3355+^000000. It is where all the nobles reside, including our lord.\nSince you're an outsider, I guess it would be appropriate for you to visit our lord first.\nDo you need anything else?",
+        "pt": "[Representante]\nO <NAVI>Castelo do Dragão<INFO>louyang,218,253,</INFO></NAVI> está localizado em ^FF3355+^000000. É onde residem todos os nobres, inclusive nosso senhor.\nComo você é um forasteiro, acho que seria apropriado visitar nosso senhor primeiro.\nPrecisa de mais alguma coisa?",
+        "es": "[Representante]\nEl <NAVI>castillo del dragón<INFO>louyang,218,253,</INFO></NAVI> se encuentra en ^FF3355+^000000. Es donde residen todos los nobles, incluido nuestro señor.\nYa que eres forastero, supongo que sería apropiado que visitaras primero a nuestro señor.\n¿Necesitas algo más?"
+    },
+    "ior3AQ": {
+        "en": "[Representative]\nIt's a famous <NAVI>Congress<INFO>louyang,261,93,</INFO></NAVI>\naccording to rumor it can cure all diseases. But I'm not sure if it's true or not.\nDo you need anything else?",
+        "pt": "[Representante]\nÉ um famoso <NAVI>Congresso<INFO>louyang,261,93,</INFO></NAVI>\nSegundo os rumores, ela pode curar todas as doenças. Mas não tenho certeza se é verdade ou não.\nVocê precisa de mais alguma coisa?",
+        "es": "[Representante]\nEs un famoso <NAVI>congreso<INFO>louyang,261,93,</INFO></NAVI>\nsegún los rumores puede curar todas las enfermedades. Pero no tengo la seguridad de que sea cierto.\n¿Necesitas algo más?"
+    },
+    "i4r3AQ": {
+        "en": "[Representative]\nWe have a <NAVI>City Hall<INFO>louyang,309,78,</INFO></NAVI> where the federal government operates.\nIt is located at ^A5BAAD+^000000.",
+        "pt": "[Representante]\nTemos uma <NAVI>Prefeitura<INFO>louyang,309,78,</INFO></NAVI> onde funciona o governo federal.\nEla está localizada em ^A5BAAD+^000000.",
+        "es": "[Representante]\nContamos con un <NAVI>ayuntamiento<INFO>louyang,309,78,</INFO></NAVI> donde funciona el Gobierno federal.\nSe encuentra en ^A5BAAD+^000000."
+    },
+    "jIr3AQ": {
+        "en": "[Representative]\nIf you have any problems,\nyou should talk with the\nemployees there.\nDo you need anything else?",
+        "pt": "[Representante]\nSe você tiver algum problema,\nvocê deve conversar com os\nfuncionários de lá.\nO senhor precisa de mais alguma coisa?",
+        "es": "[Representante]\nSi tienes algún problema,\ndebes hablar con los\nempleados de allí.\n¿Necesitas algo más?"
+    },
+    "jYr3AQ": {
+        "en": "[Representative]\nThe <NAVI>Weapon Shop<INFO>louyang,145,172,</INFO></NAVI> is located at ^55FF33+^000000.",
+        "pt": "[Representante]\nA <NAVI>Loja de Armas<INFO>louyang,145,172,</INFO></NAVI> está localizada em ^55FF33+^000000.",
+        "es": "[Representante]\nLa <NAVI>tienda de armas<INFO>louyang,145,172,</INFO></NAVI> se encuentra en ^55FF33+^000000."
+    },
+    "jor3AQ": {
+        "en": "[Representative]\nYou will see\nmarvelous weapons forged\nby the well-experienced\nblacksmiths of Louyang.\nDo you need anything else?",
+        "pt": "[Representante]\nVocê verá\narmas maravilhosas forjadas\npelos ferreiros experientes de\nferreiros de Louyang.\nVocê precisa de mais alguma coisa?",
+        "es": "[Representante]\nVerás\narmas maravillosas forjadas\npor los más experimentados\nherreros de Luoyang.\n¿Necesitas algo más?"
+    },
+    "j4r3AQ": {
+        "en": "[Representative]\nThe <NAVI>Tool Shop<INFO>louyang,138,99,</INFO></NAVI> is located at ^3355FF+^000000.",
+        "pt": "[Representante]\nA <NAVI>Loja de Ferramentas<INFO>louyang,138,99,</INFO></NAVI> está localizada em ^3355FF+^000000.",
+        "es": "[Representante]\nLa <NAVI>tienda de herramientas<INFO>louyang,138,99,</INFO></NAVI> se encuentra en ^3355FF+^000000."
+    },
+    "kIr3AQ": {
+        "en": "[Representative]\nKnowing your enemy\nis half the battle!\nIt's also safer to prepare yourself than to be sorry later. Why don't you go check their supplies?\nDo you need anything else?",
+        "pt": "[Representante]\nConhecer seu inimigo\né metade da batalha!\nTambém é mais seguro se preparar do que se arrepender depois. Por que você não vai verificar os suprimentos deles?\nVocê precisa de mais alguma coisa?",
+        "es": "[Representante]\n¡Conocer al enemigo\nes la mitad de la batalla!\nTambién es más seguro prepararse antes que lamentarse después. ¿Por qué no das un vistazo a sus suministros?\n¿Necesitas algo más?"
+    },
+    "kYr3AQ": {
+        "en": "[Representative]\nWhen you get tired during your trip, I suggest that you visit the <NAVI>Tavern<INFO>louyang,280,165,</INFO></NAVI>. It's located at ^00FF00+^000000.",
+        "pt": "[Representante]\nQuando ficar cansado durante sua viagem, sugiro que visite a <NAVI>Taverna<INFO>louyang,280,165,</INFO></NAVI>. Ela está localizada em ^00FF00+^000000.",
+        "es": "[Representante]\nCuando te canses durante tu viaje, te sugiero que visites la <NAVI>taberna<INFO>louyang,280,165,</INFO></NAVI>. Se encuentra en ^00FF00+^000000."
+    },
+    "kor3AQ": {
+        "en": "[Soldier]\nThe Tavern is a good place\nto meet other tourists, as well as to hear of any news that may be helpful to know.\nDo you need anything else?",
+        "pt": "[Soldado]\nA Taverna é um bom lugar\npara conhecer outros turistas, bem como para saber de qualquer notícia que possa ser útil.\nVocê precisa de mais alguma coisa?",
+        "es": "[Recluta]\nLa Taberna es un buen lugar\npara conocer a otros turistas, así como para enterarse de cualquier noticia que pueda ser útil saber.\n¿Necesitas algo más?"
+    },
+    "k4r3AQ": {
+        "en": "[Representative]\nYou won't get a better view of the world than you can at the <NAVI>Observatory<INFO>louyang,136,245,</INFO></NAVI>.\nIt's a must see here.\nDo you need anything else?",
+        "pt": "[Representante]\nVocê não terá uma visão melhor do mundo do que a que tem no <NAVI>Observatório<INFO>louyang,136,245,</INFO></NAVI>.\nÉ uma visita obrigatória aqui.\nVocê precisa de mais alguma coisa?",
+        "es": "[Representante]\nNo obtendrás una mejor vista del mundo que la del <NAVI>observatorio<INFO>louyang,136,245,</INFO></NAVI>.\nEs una visita obligada.\n¿Necesitas algo más?"
+    },
+    "lIr3AQ": {
+        "en": "[Representative]\nIf you want to return to Alberta,\nfind <NAIV>Kku Nyang<INFO>louyang,218,22,</INFO></NAVI>.\nDo you need anything else?",
+        "pt": "[Representante]\nSe você quiser voltar para Alberta,\nencontre <NAIV>Kku Nyang<INFO>louyang,218,22,</INFO></NAVI>.\nPrecisa de mais alguma coisa?",
+        "es": "[Representante]\nSi quieres volver a Alberta,\nencuentra a <NAIV>Kku Nyang<INFO>louyang,218,22,</INFO></NAVI>.\n¿Necesitas algo más?"
+    },
+    "lYr3AQ": {
+        "en": "[Representative]\nI will remove all marks on your list\nDo you need anything else?",
+        "pt": "[Representante]\nRemoverei todas as marcas de sua lista\nVocê precisa de mais alguma coisa?",
+        "es": "[Representante]\nQuitaré todas las marcas de tu lista.\n¿Necesitas algo más?"
+    },
+    "lor3AQ": {
+        "en": "[Representative]\nEnjoy your trip~!",
+        "pt": "[Representante]\nAproveite sua viagem~!",
+        "es": "[Representante]\n¡Disfruta de tu viaje!"
+    },
+    "l4r3AQ": {
+        "en": "Moscovia Guide",
+        "pt": "Guia de Moscóvia",
+        "es": "Moscovia Guía"
+    },
+    "mIr3AQ": {
+        "en": "[Moscovia Guide]\nWelcome to Moscovia\nA paradise spread on the endless seas.\nYou'll be happy with the beautiful scenery and the sunlight!",
+        "pt": "[Guia de Moscóvia]\nBem-vindo a Moscóvia\nUm paraíso espalhado pelos mares sem fim.\nVocê ficará feliz com a bela paisagem e a luz do sol!",
+        "es": "[Guía de Moscovia]\nTe damos la bienvenida a Moscovia.\nUn paraíso extendido por los mares infinitos.\n¡Estarás feliz con los bellos paisajes y la luz solar!"
+    },
+    "mYr3AQ": {
+        "en": "[Moscovia Guide]\nI was sent from Moscovia Palace\nto guide tourists and to give them information on this town.\nIf you have some questions, please ask me.",
+        "pt": "[Guia de Moscóvia]\nFui enviado pelo Palácio de Moscóvia\npara orientar os turistas e dar-lhes informações sobre esta cidade.\nSe você tiver alguma dúvida, pergunte-me.",
+        "es": "[Guía de Moscovia]\nMe enviaron desde el palacio de Moscovia\npara guiar a turistas y darles información sobre esta ciudad.\nSi tienes alguna duda, pregúntame."
+    },
+    "mor3AQ": {
+        "en": "Palace",
+        "pt": "Palácio",
+        "es": "Palacio."
+    },
+    "m4r3AQ": {
+        "en": "Chapel",
+        "pt": "Capela",
+        "es": "Capilla."
+    },
+    "nIr3AQ": {
+        "en": "Armor shop",
+        "pt": "Loja de Armaduras",
+        "es": "Tienda de armaduras."
+    },
+    "nYr3AQ": {
+        "en": "Inn",
+        "pt": "Pousada",
+        "es": "Posada."
+    },
+    "nor3AQ": {
+        "en": "Moscovia PR envoy",
+        "pt": "Enviado de relações públicas de Moscóvia",
+        "es": "Enviado de RP de Moscovia."
+    },
+    "n4r3AQ": {
+        "en": "[Moscovia Guide]\nThe<NAVI>Kafra staff<INFO>moscovia,223,191,</INFO></NAVI> is\nmarked in the mini map\nDo you need anything else?",
+        "pt": "[Guia Moscovia]\nA<NAVI> equipe da Kafra<INFO>moscovia,223,191,</INFO></NAVI> está\nmarcada no minimapa\nVocê precisa de mais alguma coisa?",
+        "es": "[Guía de Moscovia]\nEl <NAVI>personal de Kafra<INFO>moscovia,223,191,</INFO></NAVI> está \nmarcado en el minimapa.\n¿Necesitas algo más?"
+    },
+    "oIr3AQ": {
+        "en": "[Moscovia Guide]\nIn the <NAVI>Palace<INFO>moscovia,255,140,</INFO></NAVI> you will find our noble leader the Csar and other servants.\nDo you need anything else?",
+        "pt": "[Guia Moscovia]\nNo <NAVI>Palácio<INFO>moscovia,255,140,</INFO></NAVI> você encontrará nosso nobre líder, o Csar, e outros servos.\nVocê precisa de mais alguma coisa?",
+        "es": "[Guía de Moscovia]\nEn el <NAVI>palacio,<INFO>moscovia,255,140,</INFO></NAVI> se encuentran nuestro noble líder, el Zar, y otros sirvientes.\n¿Necesitas algo más?"
+    },
+    "oYr3AQ": {
+        "en": "[Moscovia Guide]\nThe <NAVI>Chapel<INFO>moscovia,253,179,</INFO></NAVI> is located here.\nDo you need anything else?",
+        "pt": "[Guia Moscovia]\nA <NAVI>Chapel<INFO>moscovia,253,179,</INFO></NAVI> está localizada aqui.\nVocê precisa de mais alguma coisa?",
+        "es": "[Guía de Moscovia]\nLa <NAVI>capilla<INFO>moscovia,253,179</INFO></NAVI> está aquí.\n¿Necesitas algo más?"
+    },
+    "oor3AQ": {
+        "en": "[Moscovia Guide]\nOne of the best craftsmen in Moscovia manufacture weapons with their spirit if you go to <NAIV>Weapon shop<INFO>moscovia,186,191,</INFO></NAVI>.\nDo you need anything else?",
+        "pt": "[Guia de Moscóvia]\nUm dos melhores artesãos de Moscóvia fabrica armas com seu espírito se você for à <NAIV>Weapon shop<INFO>moscovia,186,191,</INFO></NAVI>.\nVocê precisa de mais alguma coisa?",
+        "es": "[Guía de Moscovia]\nEncontrarás a uno de los mejores artesanos de Moscovia que fabrica armas con su espíritu si vas a la <NAIV>tienda de armas<INFO>moscovia,186,191,</INFO></NAVI>.\n¿Necesitas algo más?"
+    },
+    "o4r3AQ": {
+        "en": "[Moscovia Guide]\nYou will find only the best gear at the Moscovia <NAVI>Armor Shop<INFO>moscovia,204,169,</INFO></NAVI>.\nDo you need anything else?",
+        "pt": "[Guia de Moscóvia]\nVocê encontrará apenas os melhores equipamentos na <NAVI>Armor Shop<INFO>moscovia,204,169,</INFO></NAVI> de Moscóvia.\nPrecisa de mais alguma coisa?",
+        "es": "[Guía de Moscovia]\nSolo encontrarás el mejor equipo en la <NAVI>tienda de armaduras de Moscovia<INFO>moscovia,204,169,</INFO></NAVI>.\n¿Necesitas algo más?"
+    },
+    "pIr3AQ": {
+        "en": "[Moscovia Guide]\nThe <NAVI>Tool Shop<INFO>moscovia,221,176,</INFO></NAVI> is located just south from the center of town.\nYou can find all sorts of things you need for your travels.\nDo you need anything else?",
+        "pt": "[Guia de Moscóvia]\nA <NAVI>Loja de Ferramentas<INFO>moscovia,221,176,</INFO></NAVI> está localizada ao sul do centro da cidade.\nVocê pode encontrar todos os tipos de coisas que precisa para suas viagens.\nPrecisa de mais alguma coisa?",
+        "es": "[Guía de Moscovia]\nLa <NAVI>tienda de herramientas<INFO>moscovia,221,176,</INFO></NAVI> está justo al sur del centro de la ciudad.\nPuedes encontrar todo tipo de cosas necesarias para tus viajes.\n¿Necesitas algo más?"
+    },
+    "pYr3AQ": {
+        "en": "[Moscovia Guide]\nThe <NAVI>Inn<INFO>moscovia,227,206,</INFO></NAVI> 'Sticky Herb Tree' is just north from the center of town.\nIf you need to rest, there is no better place to stay.\nDo you need anything else?",
+        "pt": "[Guia de Moscóvia]\nA <NAVI>Pousada<INFO>moscovia,227,206,</INFO></NAVI> ''Sticky Herb Tree'' fica ao norte do centro da cidade.\nSe você precisa descansar, não há lugar melhor para ficar.\nPrecisa de mais alguma coisa?",
+        "es": "[Guía de Moscovia]\nLa <NAVI>posada<INFO>moscovia,227,206,</INFO></NAVI> Árbol de hierbas pegajosas está justo al norte del centro de la ciudad.\nSi necesitas descansar, no hay mejor lugar para alojarse.\n¿Necesitas algo más?"
+    },
+    "por3AQ": {
+        "en": "[Moscovia Guide]\nYou can go back to <NAVI>Alberta<INFO>moscovia,166,53,</INFO></NAVI> at the docks.\nDo you need anything else?",
+        "pt": "[Guia Moscovia]\nVocê pode voltar para <NAVI>Alberta<INFO>moscovia,166,53,</INFO></NAVI> nas docas.\nPrecisa de mais alguma coisa?",
+        "es": "[Guía de Moscovia]\nPuedes volver a <NAVI>Alberta<INFO>moscovia,166,53,</INFO></NAVI> desde los muelles.\n¿Necesitas algo más?"
+    },
+    "p4r3AQ": {
+        "en": "[Moscovia Guide]\nI will remove all marks on your list\nDo you need anything else?",
+        "pt": "[Guia Moscovia]\nRemoverei todas as marcas de sua lista\nVocê precisa de mais alguma coisa?",
+        "es": "[Guía de Moscovia]\nQuitaré todas las marcas de tu lista.\n¿Necesitas algo más?"
+    },
+    "qIr3AQ": {
+        "en": "[Moscovia Guide]\nEnjoy your trip~!",
+        "pt": "[Guia de Moscóvia]\nAproveite sua viagem~!",
+        "es": "[Guía de Moscovia]\n¡Disfruta de tu viaje!"
+    },
+    "qYr3AQ": {
+        "en": "[Moscovia Guide]\nA paradise on the sea\nbeautiful wave and warm sunshine\n^8B4513Moscovia^000000 is waitting for you\nwelcome to come here.\nI'm supporting to offer information about here.\nif you want to ask anything just feel free tell me.",
+        "pt": "[Guia da Moscóvia]\nUm paraíso no mar\nbelas ondas e sol quente\n^8B4513Moscóvia^000000 está esperando por você\nbem-vindo para vir aqui.\nEstou apoiando para oferecer informações sobre o local.\nSe quiser perguntar alguma coisa, sinta-se à vontade para me falar.",
+        "es": "[Guía de Moscovia]\nUn paraíso sobre el mar,\nhermosas olas y sol cálido.\n^8B4513Moscovia^000000 te espera\ny tu visita será bien recibida.\nCuenta con mi apoyo si necesitas información sobre este lugar.\nSi quieres preguntar algo, no dudes en decírmelo."
+    },
+    "qor3AQ": {
+        "en": "[Moscovia Guide]\nOne of the best craftsmen in Moscovia manufacture weapons with their spirit if you go to <NAVI>Weapon shop<INFO>moscovia,186,191,</INFO></NAVI>.\nDo you need anything else?",
+        "pt": "[Guia de Moscóvia]\nUm dos melhores artesãos de Moscóvia fabrica armas com seu espírito se você for a <NAVI>Weapon shop<INFO>moscovia,186,191,</INFO></NAVI>.\nVocê precisa de mais alguma coisa?",
+        "es": "[Guía de Moscovia]\nEncontrarás a uno de los mejores artesanos de Moscovia que fabrica armas con su espíritu si vas a la <NAVI>tienda de armas<INFO>moscovia,186,191,</INFO></NAVI>.\n¿Necesitas algo más?"
+    },
+    "q4r3AQ": {
+        "en": "Dewata Guide",
+        "pt": "Guia Dewata",
+        "es": "Dewata Guía"
+    },
+    "rIr3AQ": {
+        "en": "[Dewata Guide]\nGorgeous and beautiful waves~~~\nRelax~~~\nWelcome to visit ^8B4513Dewata^000000.\nI will guide you if you're looking for something.",
+        "pt": "[Guia Dewata]\nOndas lindas e maravilhosas~~~\nRelaxar~~~\nBem-vindo à ^8B4513Dewata^000000.\nEu o guiarei se estiver procurando algo.",
+        "es": "[Guía de Dewata]\nOlas preciosas y hermosas.\nRelájate.\nTe damos la bienvenida a ^8B4513Dewata^000000.\nTe guiaré si buscas algo."
+    },
+    "rYr3AQ": {
+        "en": "Kafra Employee",
+        "pt": "Funcionária Kafra",
+        "es": "Empleada de Kafra."
+    },
+    "ror3AQ": {
+        "en": "Weapon Dealer",
+        "pt": "Vendedor de Armas",
+        "es": "Vendedor de armas."
+    },
+    "r4r3AQ": {
+        "en": "Armor Dealer",
+        "pt": "Vendedor de Armaduras",
+        "es": "Vendedor de armaduras."
+    },
+    "sIr3AQ": {
+        "en": "Tool Dealer",
+        "pt": "Revendedor de ferramentas",
+        "es": "Comerciante de herramientas"
+    },
+    "sYr3AQ": {
+        "en": "Dining Owner",
+        "pt": "Proprietário do refeitório",
+        "es": "Dueño del comedor."
+    },
+    "sor3AQ": {
+        "en": "Krakatau Volcano",
+        "pt": "Vulcão Krakatau",
+        "es": "Volcán Krakatau."
+    },
+    "s4r3AQ": {
+        "en": "Sailor for Alberta",
+        "pt": "Marinheiro para Alberta",
+        "es": "Marinero de Alberta."
+    },
+    "tIr3AQ": {
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar."
+    },
+    "tYr3AQ": {
+        "en": "[Dewata Guide]\n<NAVI>Kafra Employee<INFO>dewata,202,184,</INFO></NAVI> is\nmarked in the mini map\nCheck your mini map.\nDo you need anything else?",
+        "pt": "[Guia Dewata]\n<NAVI>Funcionária Kafra<INFO>dewata,202,184,</INFO></NAVI> está\nmarcado no minimapa\nVerifique seu minimapa.\nVocê precisa de mais alguma coisa?",
+        "es": "[Guía de Dewata]\nEl <NAVI>empleado de Kafra<INFO>dewata,202,184,</INFO></NAVI> está \nmarcado en el minimapa.\nRevisa tu minimapa.\n¿Necesitas algo más?"
+    },
+    "tor3AQ": {
+        "en": "[Dewata Guide]\n<NAVI>Weapon Dealer<INFO>dewata,218,164,</INFO></NAVI> is\nmarked in the mini map\nCheck your mini map.\nDo you need anything else?",
+        "pt": "[Guia Dewata]\n<NAVI>Vendedor de Armas<INFO>dewata,218,164,</INFO></NAVI> está\nmarcado no minimapa\nVerifique seu minimapa.\nVocê precisa de mais alguma coisa?",
+        "es": "[Guía de Dewata]\nEl <NAVI>vendedor de armas<INFO>dewata,218,164,</INFO></NAVI> está \nmarcado en el minimapa.\nRevisa tu minimapa.\n¿Necesitas algo más?"
+    },
+    "t4r3AQ": {
+        "en": "[Dewata Guide]\n<NAVI>Armor Dealer<INFO>dewata,158,182,</INFO></NAVI> is\nmarked in the mini map\nCheck your mini map.\nDo you need anything else?",
+        "pt": "[Guia Dewata]\n<NAVI>Vendedor de Armaduras<INFO>dewata,158,182,</INFO></NAVI> está\nmarcado no minimapa\nVerifique seu minimapa.\nVocê precisa de mais alguma coisa?",
+        "es": "[Guía de Dewata]\nEl <NAVI>vendedor de armaduras<INFO>dewata,158,182,</INFO></NAVI> está \nmarcado en el minimapa.\nRevisa tu minimapa.\n¿Necesitas algo más?"
+    },
+    "uIr3AQ": {
+        "en": "[Dewata Guide]\n<NAVI>Tool Dealer<INFO>dewata,182,164,</INFO></NAVI> is\nmarked in the mini map\nCheck your mini map.\nDo you need anything else?",
+        "pt": "[Guia Dewata]\n<NAVI>Vendedor de Ferramentas<INFO>dewata,182,164,</INFO></NAVI> está\nmarcado no minimapa\nVerifique seu minimapa.\nVocê precisa de mais alguma coisa?",
+        "es": "[Guía de Dewata]\nEl <NAVI>comerciante de herramientas<INFO>dewata,182,164,</INFO></NAVI> está \nmarcado en el minimapa.\nRevisa tu minimapa.\n¿Necesitas algo más?"
+    },
+    "uYr3AQ": {
+        "en": "[Dewata Guide]\n<NAVI>Dining Owner<INFO>dewata,146,109,</INFO></NAVI> is\nmarked in the mini map\nCheck your mini map.\nDo you need anything else?",
+        "pt": "[Guia Dewata]\n<NAVI>Proprietário do restaurante<INFO>dewata,146,109,</INFO></NAVI> está\nmarcado no minimapa\nVerifique seu minimapa.\nVocê precisa de mais alguma coisa?",
+        "es": "[Guía de Dewata]\nEl <NAVI>dueño del comedor<INFO>dewata,146,109,</INFO></NAVI> está \nmarcado en el minimapa.\nRevisa tu minimapa.\n¿Necesitas algo más?"
+    },
+    "uor3AQ": {
+        "en": "[Dewata Guide]\n<NAVI>Krakatau Volcano<INFO>dewata,235,56,</INFO></NAVI> is\nmarked in the mini map\nCheck your mini map.\nDo you need anything else?",
+        "pt": "[Guia Dewata]\n<NAVI>O vulcão Krakatau<INFO>dewata,235,56,</INFO></NAVI> está\nmarcado no minimapa\nVerifique seu minimapa.\nVocê precisa de mais alguma coisa?",
+        "es": "[Guía de Dewata]\nEl <NAVI>volcán Krakatau<INFO>dewata,235,56,</INFO></NAVI> está \nmarcado en el minimapa.\nRevisa tu minimapa.\n¿Necesitas algo más?"
+    },
+    "u4r3AQ": {
+        "en": "[Dewata Guide]\n<NAVI>Sailor for Alberta<INFO>dewata,229,49,</INFO></NAVI> is\nmarked in the mini map\nCheck your mini map.\nDo you need anything else?",
+        "pt": "[Guia Dewata]\n<NAVI>Sailor for Alberta<INFO>dewata,229,49,</INFO></NAVI> está\nmarcado no minimapa\nVerifique seu minimapa.\nVocê precisa de mais alguma coisa?",
+        "es": "[Guía de Dewata]\nEl <NAVI>marinero de Alberta<INFO>dewata,229,49,</INFO></NAVI> está \nmarcado en el minimapa.\nRevisa tu minimapa.\n¿Necesitas algo más?"
+    },
+    "vIr3AQ": {
+        "en": "[Dewata Guide]\nEvery checked marks will be deleted.\nDo you need anything else?",
+        "pt": "[Guia Dewata]\nTodas as marcas marcadas serão excluídas.\nVocê precisa de mais alguma coisa?",
+        "es": "[Guía de Dewata]\nSe borrarán todas las marcas hechas.\n¿Necesitas algo más?"
+    },
+    "vYr3AQ": {
+        "en": "[Dewata Guide]\nEnjoy your trip~!!",
+        "pt": "[Guia Dewata]\nAproveite sua viagem~!!!",
+        "es": "[Guía de Dewata]\n¡Disfruta de tu viaje!"
+    },
+    "vor3AQ": {
+        "en": "Krakatau Volcano",
+        "pt": "Vulcão Krakatau",
+        "es": "Volcán Krakatau."
+    },
+    "v4r3AQ": {
+        "en": "Port Malaya Guide",
+        "pt": "Guia de Port Malaya",
+        "es": "Port Malaya Guía"
+    },
+    "wIr3AQ": {
+        "en": "[Port Malaya Guide]\nWhere cultures and legends come to life!\nYou are at the Breathing Village, ^8B4513Port Malaya^000000.\nWe welcome you.\nI will show you around the village. Please ask me anything you want.",
+        "pt": "[Guia de Port Malaya]\nOnde culturas e lendas ganham vida!\nVocê está no Breathing Village, ^8B4513Port Malaya^000000.\nNós lhe damos as boas-vindas.\nVou lhe mostrar a vila. Por favor, pergunte-me o que quiser.",
+        "es": "[Guía de Puerto Malaya]\n¡Donde las culturas y las leyendas cobran vida!\nTe encuentras en ^8B4513Puerto Malaya^000000, la aldea de la respiración.\nTe damos la bienvenida.\nTe mostraré la aldea. Pregúntame lo que quieras."
+    },
+    "wYr3AQ": {
+        "en": "Inn & Tavern",
+        "pt": "Pousada e Taverna",
+        "es": "Posada y taberna."
+    },
+    "wor3AQ": {
+        "en": "Weapon Shop",
+        "pt": "Loja de Armas",
+        "es": "Tienda de armas."
+    },
+    "w4r3AQ": {
+        "en": "Tool Shop",
+        "pt": "Loja de Ferramentas",
+        "es": "Tienda de herramientas."
+    },
+    "xIr3AQ": {
+        "en": "Hospital",
+        "pt": "Hospital",
+        "es": "Hospital."
+    },
+    "xYr3AQ": {
+        "en": "Park",
+        "pt": "Parque",
+        "es": "Parque."
+    },
+    "xor3AQ": {
+        "en": "Harbor",
+        "pt": "Porto",
+        "es": "Puerto."
+    },
+    "x4r3AQ": {
+        "en": "[Port Malaya Guide]\n<NAVI>Kafra Employee<INFO>malaya,235,204,</INFO></NAVI>\nlocations will be\nmarked on the Mini Map.\nWhat else can I help you with?",
+        "pt": "[Guia de Porto Malaya]\n<NAVI>Funcionária Kafra<INFO>Malaia,235,204,</INFO></NAVI>\nOs locais serão\nmarcados no minimapa.\nEm que mais posso ajudá-lo?",
+        "es": "[Guía de Puerto Malaya]\nLas ubicaciones del <NAVI>empleado de Kafra<INFO>malaya,235,204,</INFO></NAVI>\nse\nmarcarán en el minimapa.\n¿En qué más puedo ayudarte?"
+    },
+    "yIr3AQ": {
+        "en": "[Port Malaya Guide]\n<NAVI>Inn & Tavern<INFO>malaya,193,215,</INFO></NAVI>\nlocations will be\nmarked on the Mini Map.\nWhat else can I help you with?",
+        "pt": "[Guia de Port Malaya]\n<NAVI>Inn & Tavern<INFO>malaya,193,215,</INFO></NAVI>\nOs locais serão\nmarcados no Mini Map.\nEm que mais posso ajudá-lo?",
+        "es": "[Guía de Puerto Malaya]\nLa ubicación de <NAVI>la posada y la taberna<INFO>malaya,193,215,</INFO></NAVI>\nse\nmarcarán en el minimapa.\n¿En qué más puedo ayudarte?"
+    },
+    "yYr3AQ": {
+        "en": "[Port Malaya Guide]\n<NAVI>Weapon Shop<INFO>malaya</INFO></NAVI>\nlocation will be\nmarked on the Mini Map.\nWhat else can I help you with?",
+        "pt": "[Guia de Porto Malaya]\n<NAVI>Loja de Armas<INFO>Malaia</INFO></NAVI>\nA localização será\nmarcado no minimapa.\nEm que mais posso ajudá-lo?",
+        "es": "[Guía de Puerto Malaya]\nLa ubicación de la <NAVI>tienda de armas<INFO>malaya</INFO></NAVI>\nse\nmarcarán en el minimapa.\n¿En qué más puedo ayudarte?"
+    },
+    "yor3AQ": {
+        "en": "[Port Malaya Guide]\n<NAVI>Tool Store<INFO>malaya,261,237,</INFO></NAVI>\nlocation will be\nmarked on the Mini Map.\nWhat else can I help you with?",
+        "pt": "[Guia de Porto Malaya]\n<NAVI>Loja de Ferramentas<INFO>malaya,261,237,</INFO></NAVI>\nA localização será\nmarcado no Mini Map.\nEm que mais posso ajudá-lo?",
+        "es": "[Guía de Puerto Malaya]\nLa ubicación del <NAVI>mercado de herramientas<INFO>malaya,261,237,</INFO></NAVI>\nse\nmarcarán en el minimapa.\n¿En qué más puedo ayudarte?"
+    },
+    "y4r3AQ": {
+        "en": "[Port Malaya Guide]\n<NAVI>Hospital<INFO>malaya,50,75,</INFO></NAVI>\nlocation will be\nmarked on the Mini Map.\nWhat else can I help you with?",
+        "pt": "[Guia de Porto Malaya]\n<NAVI>Hospital<INFO>malaya,50,75,</INFO></NAVI>\nA localização será\nmarcada no Mini Map.\nEm que mais posso ajudá-lo?",
+        "es": "[Guía de Puerto Malaya]\nLa ubicación del <NAVI>hospital<INFO>malaya,50,75,</INFO></NAVI>\nse\nmarcarán en el minimapa.\n¿En qué más puedo ayudarte?"
+    },
+    "zIr3AQ": {
+        "en": "[Port Malaya Guide]\n<NAVI>Park<INFO>malaya,280,371,</INFO></NAVI>\nlocation will be\nmarked on the Mini Map.\nWhat else can I help you with?",
+        "pt": "[Guia de Porto Malaya]\n<NAVI>Parque<INFO>Malaia,280,371,</INFO></NAVI>\nA localização será\nmarcado no Mini Map.\nEm que mais posso ajudá-lo?",
+        "es": "[Guía de Puerto Malaya]\nLa ubicación del <NAVI>parque<INFO>malaya,280,371,</INFO></NAVI>\nse\nmarcarán en el minimapa.\n¿En qué más puedo ayudarte?"
+    },
+    "zYr3AQ": {
+        "en": "[Port Malaya Guide]\n<NAVI>Harbor<INFO>malaya,276,55,</INFO></NAVI>\nlocation will be\nmarked on the Mini Map.\nWhat else can I help you with?",
+        "pt": "[Guia do Porto da Malásia]\n<NAVI>Porto<INFO>Malaia,276,55,</INFO></NAVI>\nA localização será\nmarcado no minimapa.\nEm que mais posso ajudá-lo?",
+        "es": "[Guía de Puerto Malaya]\nLa ubicación del <NAVI>puerto<INFO>malaya,276,55,</INFO></NAVI>\nse\nmarcarán en el minimapa.\n¿En qué más puedo ayudarte?"
+    },
+    "zor3AQ": {
+        "en": "[Port Malaya Guide]\nRemoving marks.\nWhat else can I help you with?",
+        "pt": "[Guia de Port Malaya]\nRemoção de marcas.\nEm que mais posso ajudá-lo?",
+        "es": "[Guía de Puerto Malaya]\nEliminando marcas.\n¿En qué más puedo ayudarte?"
+    },
+    "z4r3AQ": {
+        "en": "[Port Malaya Guide]\nI hope you enjoy your journey.",
+        "pt": "[Guia de Port Malaya]\nEspero que você aproveite sua viagem.",
+        "es": "[Guía de Puerto Malaya]\nEspero que disfrutes de tu viaje."
+    },
+    "0Ir3AQ": {
+        "en": "[Port Malaya Guide]\nWhere cultures and legends come to life!\nAt the Breathing Village, ^8B4513Port Malaya^000000\nWe welcome you.\nI will show you around the village. Please ask me anything you want.",
+        "pt": "[Guia de Port Malaya]\nOnde culturas e lendas ganham vida!\nNo Breathing Village, ^8B4513Port Malaya^000000\nNós lhe damos as boas-vindas.\nEu lhe mostrarei a vila. Por favor, pergunte-me o que quiser.",
+        "es": "[Guía de Puerto Malaya]\n¡Donde las culturas y las leyendas cobran vida!\nEn ^8B4513Puerto Malaya^000000, la aldea de la respiración.\nTe damos la bienvenida.\nTe mostraré la aldea. Pregúntame lo que quieras."
+    },
+    "0Yr3AQ": {
+        "en": "Weapon Store",
+        "pt": "Loja de Armas",
+        "es": "Mercado de armas."
+    }
+}

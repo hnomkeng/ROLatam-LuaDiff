@@ -1,0 +1,951 @@
+{
+    "wPUiBA": {
+        "en": "Chocolate Factory Owner Charles",
+        "pt": "Wonky, Chocolateiro",
+        "es": "Chocolate Factory Owner Charles"
+    },
+    "wfUiBA": {
+        "en": "You are carrying too many kinds of items. Try again after you have less items.",
+        "pt": "^FF0000Você tem muitos itens. Esvazie seu inventário.^000000",
+        "es": "Llevas demasiados tipos de objetos. Vuelve a intentar cuando tengas menos objetos."
+    },
+    "wvUiBA": {
+        "en": "You are carrying too much weight. Let's try again after you reduce your item weight.",
+        "pt": "^FF0000Seu inventário está com o peso bem acima do normal. Esvazie seu inventário.^000000",
+        "es": "Llevas demasiado peso. Inténtalo de nuevo después de reducir el peso de los objetos."
+    },
+    "w/UiBA": {
+        "en": "You have to be at least level 30 to proceed with this quest.",
+        "pt": "É preciso possuir no mínimo nível 30 de base para fazer esta quest.",
+        "es": "Tienes que ser al menos de nivel30 para continuar con esta misión."
+    },
+    "xPUiBA": {
+        "en": "[Charles]\nOh no!! My cacao beans!! What am I supposed to do now...",
+        "pt": "[Wonky]\nArgh! Meus grãos de cacau!!! Não sei o que fazer da vida agora...",
+        "es": "[Charles]\n¡Ay, no! ¡Mis granos de cacao! ¿Y ahora qué se supone que haga…?"
+    },
+    "xfUiBA": {
+        "en": "Is something wrong?",
+        "pt": "Perguntar o que houve",
+        "es": "¿Hay algún problema?"
+    },
+    "xvUiBA": {
+        "en": "Ignore and walk away",
+        "pt": "Ignorar e ir embora",
+        "es": "Ignorar y alejarte."
+    },
+    "x/UiBA": {
+        "en": "[Charles]\nAll my cacao beans disappeared overnight! I need cacao beans to make chocolate for the Sweets Festival...",
+        "pt": "[Wonky]\nTodos os meus grãos de cacau desapareceram da noite pro dia! Preciso deles para fazer meu Festival do Chocolate...",
+        "es": "[Charles]\n¡Todos mis granos de cacao desaparecieron durante la noche! Necesito granos de cacao para preparar chocolate para el Festival de Dulce…"
+    },
+    "yPUiBA": {
+        "en": "[Charles]\nWhat should I do? The sweet shop just told me they need chocolates for the Sweets Festival...",
+        "pt": "[Wonky]\nO que farei? Preciso resolver isso logo...",
+        "es": "[Charles]\n¿Qué debo hacer? La tienda de dulces acaba de informarme que necesitan chocolates para el Festival de Dulce…"
+    },
+    "yfUiBA": {
+        "en": "[Charles]\nAhhhhhhhhh\n......\n*Sigh*",
+        "pt": "[Wonky]\nAiaiai...\n*Suspiro*",
+        "es": "[Charles]\nAhhh.\n......\n**Suspiro**"
+    },
+    "yvUiBA": {
+        "en": "[Charles]\nI think I might know who is responsible for this. They are always after the cacao beans this time of the year. I am sure that those Sweets Drops stole it!",
+        "pt": "[Wonky]\nJÁ SEI! Quer dizer... Acho que sei quem foram os responsáveis por isso: os Quindings!",
+        "es": "[Charles]\nCreo que sé quién es responsable de esto. Siempre busca granos de cacao en esta época del año. ¡Seguro que se los robaron esas Gotas dulces!"
+    },
+    "y/UiBA": {
+        "en": "[Charles]\nHey you... Since fate had us meet each other, can you help me out? Those Sweets Drops must be wandering in the fields right now.",
+        "pt": "[Wonky]\nEi... Sei que acabei de te conhecer, mas você parece bem forte. Não quer me ajudar? Esses Quindings devem estar rondando pelos campos neste momento.",
+        "es": "[Charles]\nOye, tú… Ya que el destino nos reunió, ¿podrías ayudarme? Esas Gotas dulces deben estar deambulando por el campo en este momento."
+    },
+    "zPUiBA": {
+        "en": "[Charles]\nPlease retrieve ^FF000020 stolen cacao beans^000000 for me. I don't have much time left... Please help me!",
+        "pt": "[Wonky]\nSe puder recuperar ^FF000020 grãos de cacau roubados^000000 para mim, ficarei eternamente grato. Por favor... As coisas estão super em cima da hora!",
+        "es": "[Charles]\nRecupérame ^66000020Granos de cacao robados^000000. No me queda mucho tiempo… Por favor, ayúdenme"
+    },
+    "zfUiBA": {
+        "en": "[Charles]\nPlease get ^20 stolen cacao beans^000000 for me from the Sweets Drops. I don't have much time left... Please help me!",
+        "pt": "[Wonky]\nPor favor, recupere os ^FF000020 grãos de cacau roubados^000000 pelos Quindings. Por favor... As coisas estão super em cima da hora!",
+        "es": "[Charles]\nConsígueme ^20Granos de cacao robados^000000 de las Gotas dulces. No me queda mucho tiempo... Por favor, ayúdenme"
+    },
+    "zvUiBA": {
+        "en": "[Charles]\n*Sigh*...If I can't get any beans right now, I will never be able to deliver the chocolate in time...*Sigh*...",
+        "pt": "[Wonky]\n*Suspiro*... Se não conseguir os grãos de cacau a tempo, não vou conseguir fazer os chocolates... *suspiro*...",
+        "es": "[Charles]\n**Suspiro…** Si no puedo conseguir ningún grano de cacao ahora, jamás podré entregar el chocolate a tiempo… **Suspiro…**"
+    },
+    "z/UiBA": {
+        "en": "[Charles]\nOh? You got the cacao beans? Let's see... Yes! That's it! I might be able to deliver the chocolates just in time. I will give the beans to my competent Umbala-tribe employee Roomba so he can make the chocolates.",
+        "pt": "[Wonky]\nHum? Você conseguiu os grãos de cacau? YES! São esses mesmos! Desse jeito, vou conseguir fazer os chocolates. Darei os grãos ao Roomba, meu assistente competentíssimo.",
+        "es": "[Charles]\n¿Eh? ¿Tienes los granos de cacao? Veamos… ¡Sí! ¡Eso es todo! Quizás pueda entregar el chocolate justo a tiempo. Le daré los granos a mi competente empleado de la tribu Umbala, Roomba, para que pueda preparar los chocolates."
+    },
+    "0PUiBA": {
+        "en": "[Charles]\nHey Roomba! Take these cacao beans to make the chocolates for the delivery! We don't have much time!",
+        "pt": "[Wonky]\nEi, Roomba! Pegue estes grãos de cacau para fazer os chocolates! Rápido, não temos muito tempo!",
+        "es": "[Charles]\n¡Hola, Roomba! ¡Toma estos granos de cacao para preparar los chocolates para la entrega! ¡No tenemos mucho tiempo!"
+    },
+    "0fUiBA": {
+        "en": "You can't proceed with the quest because the stolen cacao beans are gone.",
+        "pt": "Você ainda não reuniu os 20 grãos de cacau.",
+        "es": "No puedes continuar con la misión porque desaparecieron los Granos de cacao robados."
+    },
+    "0vUiBA": {
+        "en": "[Charles]\nHey, you are still here? I almost forgot to give you a small present since I was so busy. This is a coin you can use during the Sweets Festival. You can use this coin at the Sweet Shops in each city, so you better collect a lot of these.",
+        "pt": "[Wonky]\nEi, não vai embora ainda não! Tava tão preocupado que até esqueci de te dar essas moedinhas como agradecimento. Reúna muitas delas para trocar por várias coisas legais no Festival do Chocolate.",
+        "es": "[Charles]\nOye, ¿sigues aquí? Con todo lo que tenía en mente, casi me olvido de darte un pequeño regalo. Es una moneda que puedes usar durante el Festival de Dulce. Puedes usar esta moneda en la tienda de dulces de todas las ciudades, así que te conviene conseguir muchas."
+    },
+    "0/UiBA": {
+        "en": "[Charles]\nThe worst is over now but I still need more cacao beans. I will give you Sweets Festival Coins every time you bring me ^FF000020 stolen cacao beans^000000.\nOh and by the way, come and see me if you want to help me deliver the chocolates to the sweet shop.",
+        "pt": "[Wonky]\nA pior parte já foi, mas eu ainda preciso de mais grãos de cacau. Vou te dar essas moedas todas as vezes que você me trouxer os ^FF000020 grãos de cacau roubados^000000.\nAh, aliás, venha me visitar se você quiser me ajudar a entregar os chocolates à loja de doces.",
+        "es": "[Charles]\nLo peor ya pasó, pero todavía necesito más Granos de cacao. Te daré Monedas del Festival de Dulce cada vez que me traigas ^66000020Granos de cacao robados^000000.\nAh, por cierto, ven a verme si quieres ayudarme a entregarle los chocolates a la tienda de dulces."
+    },
+    "1PUiBA": {
+        "en": "Deliver chocolate to the sweet shop",
+        "pt": "Entregar chocolates à loja de doces",
+        "es": "Entregar chocolates en la tienda de dulces."
+    },
+    "1fUiBA": {
+        "en": "Give him the stolen cacao beans",
+        "pt": "Entregar grãos de cacau",
+        "es": "Darle los Granos de cacao robados."
+    },
+    "1vUiBA": {
+        "en": "What is a Sweets Festival?",
+        "pt": "O que é o Festival do Chocolate?",
+        "es": "¿Qué es un Festival de Dulce?"
+    },
+    "1/UiBA": {
+        "en": "End conversation",
+        "pt": "Preciso ir agora!",
+        "es": "Finalizar la conversación."
+    },
+    "2PUiBA": {
+        "en": "[Charles]\nThanks to you, I was able to make some chocolates for the delivery. But since all my workers are working in the factory to make chocolates, I have no one to make the deliveries.",
+        "pt": "[Wonky]\nGraças a você, eu consegui fazer mais alguns chocolates. No entanto, como todos os meus assistentes estão trabalhando na fábrica de chocolates, estou sem ninguém para fazer as entregas.",
+        "es": "[Charles]\nGracias a ti, pude preparar algunos chocolates para la entrega. Pero como todos mis trabajadores están en la fábrica preparando el chocolate, no tengo a nadie para que haga las entregas."
+    },
+    "2fUiBA": {
+        "en": "[Charles]\nI wonder if there is anybody who can make the deliveries...",
+        "pt": "[Wonky]\nÓ, céus! Será que alguém pode me ajudar? Alguém...",
+        "es": "[Charles]\nMe pregunto si hay alguien que pueda hacer las entregas…"
+    },
+    "2vUiBA": {
+        "en": "[Charles]\n...Is there anybody who can make the deliveries?",
+        "pt": "[Wonky]\n...Uma alma caridosa? Alguém?",
+        "es": "[Charles]\n¿…Hay alguien que pueda hacer las entregas?"
+    },
+    "2/UiBA": {
+        "en": "...I can help.",
+        "pt": "...Tá bom, eu ajudo.",
+        "es": "...Puedo ayudar."
+    },
+    "3PUiBA": {
+        "en": "Ignore him",
+        "pt": "Hoje não, Wonky.",
+        "es": "Ignorarlo."
+    },
+    "3fUiBA": {
+        "en": "[Charles]\nHey! why are you ignoring me!",
+        "pt": "[Wonky]\nPoxa vida!",
+        "es": "[Charles]\n¡Ey! ¡¿Por qué me ignoras?!"
+    },
+    "3vUiBA": {
+        "en": "[Charles]\nOh, haha! I don't want to force you, but please help me since I have no one else to make these deliveries.",
+        "pt": "[Wonky]\nOba! Não quero ser chato, mas já sendo... Eu realmente preciso da sua ajuda para fazer as entregas.",
+        "es": "[Charles]\n¡Oh, ja, ja! No quiero obligarte, pero ayúdame, por favor, ya que no tengo a nadie más para que haga estas entregas."
+    },
+    "3/UiBA": {
+        "en": "[Charles]\nHere you go. These are the chocolates for delivery. Please deliver these chocolates to each town's Sweet Shop in the following order: Geffen, Payon, Al De Baran and Prontera. I will help you to get there faster!",
+        "pt": "[Wonky]\nAqui estão os chocolates. Você deverá entregá-los nas Lojas de Doce na seguinte ordem: Geffen, Payon, Al De Baran e Prontera. Posso te ajudar a chegar até essas cidades mais rápido!",
+        "es": "[Charles]\nToma. Estos son los chocolates para la entrega. Entrega estos chocolates a las tiendas de dulces de cada ciudad, en el orden siguiente: Geffen, Payon, Aldebaran y Prontera. ¡Te ayudaré a llegar más rápido!"
+    },
+    "4PUiBA": {
+        "en": "[Charles]\n^I need at least 20 ^FF0000Stolen cacao beans^000000. I will give you 10 Festival Coins for 20 beans.",
+        "pt": "[Wonky]\nPreciso de pelo menos ^FF000020 grãos de cacau^000000. Cada vez que você me entregar os 20, eu te darei 10 Moedas do Festival.",
+        "es": "[Charles]\n^I necesita al menos 20^660000Granos de cacao robados^000000. Te daré 10Monedas del festival por los 20granos."
+    },
+    "4fUiBA": {
+        "en": "[Charles]\nIt seems you don't have enough cacao beans. Give me ^FF000020 stolen cacao beans^000000 from the Sweets Drops wandering in the fields.",
+        "pt": "[Wonky]\nEpa! Acho que você não tem grãos de cacau o suficiente. Preciso de pelo menos ^FF000020 grãos de cacau^000000 roubados pelos Quindings.",
+        "es": "[Charles]\nParece que no tienes suficientes Granos de cacao. Dame ^66000020Granos de cacao robados^000000 de las Gotas dulces que deambulan por el campo."
+    },
+    "4vUiBA": {
+        "en": "[Charles]\nYou can exchange {} cacao beans for {} Festival Coins. Do you want to exchange?",
+        "pt": "[Wonky]\nVocê pode trocar {} grãos de cacau por {} Moedas do Festival. Quer fazer a troca?",
+        "es": "[Charles]\nPuedes cambiar {}Granos de cacao por {}Monedas del festival. ¿Quieres hacer el intercambio?"
+    },
+    "4/UiBA": {
+        "en": "Exchange all",
+        "pt": "Trocar",
+        "es": "Intercambiar todo."
+    },
+    "5PUiBA": {
+        "en": "Don't exchange",
+        "pt": "Não trocar",
+        "es": "No intercambiar."
+    },
+    "5fUiBA": {
+        "en": "[Charles]\nWhew, thanks. But I still need more cacao beans, please keep on bringing the cacao beans to me.",
+        "pt": "[Wonky]\nMuuuito obrigado! Mas ainda preciso de mais grãos de cacau!",
+        "es": "[Charles]\nBueno, gracias. Pero todavía necesito más Granos de cacao, sígueme trayendo los Granos de cacao."
+    },
+    "5vUiBA": {
+        "en": "[Charles]\nDo you want to know more about the Sweets Festival? I guess you didn't know about it. Well, it's a long story.",
+        "pt": "[Wonky]\nTudo bem, só não esqueça de pegar os grãos pra mim!",
+        "es": "[Charles]\n¿Quieres saber más sobre el Festival de Dulce? Supongo que no lo sabías. Bueno, es una larga historia."
+    },
+    "5/UiBA": {
+        "en": "[Charles]\nA long time ago... even before I was born... there was a man called Balon who was the owner of a sweet shop in a small town. He also had a beautiful daughter. Her name was Sweets.",
+        "pt": "[Wonky]\nEntão... Muuuito tempo atrás, antes mesmo de eu nascer... havia um homem chamado Balon, dono de uma loja de doces em uma cidadezinha. Ele também tinha uma filha, que se chamava Docinho.",
+        "es": "[Charles]\nHace mucho tiempo… Incluso antes de que yo naciera… Existía un hombre llamado Balon, que era el dueño de una tienda de dulces en un pequeño pueblo. Además, tenía una hermosa hija. Ella se llamaba Dulce."
+    },
+    "6PUiBA": {
+        "en": "[Charles]\nJust like her name, she loved to eat sweets. Especially the chocolates her father made.",
+        "pt": "[Wonky]\nSeu nome era bem apropriado, porque ela adorava comer doces. Principalmente os chocolates que seu pai fabricava.",
+        "es": "[Charles]\nComo su nombre lo indicaba, le encantaba comer dulces. Más que nada los chocolates que preparaba su padre."
+    },
+    "6fUiBA": {
+        "en": "[Charles]\nThey were a lovely family who always seemed happy, but their happiness ended abruptly. Poor little Sweets suddenly got a rare disease and she did not have much time to live anymore.",
+        "pt": "[Wonky]\nEles eram uma família adorável, e pareciam sempre muito felizes. Mas essa felicidade durou pouco. A pobre Docinho foi diagnosticada com uma doença rara e o pior aconteceu.",
+        "es": "[Charles]\nEra una familia encantadora que siempre parecía estar feliz, pero su felicidad se acabó de forma abrupta. La pobre Dulce contrajo de repente una rara enfermedad y ya no le quedaba mucho tiempo de vida."
+    },
+    "6vUiBA": {
+        "en": "[Charles]\nSeeing her father so miserable broke Sweets' heart. She told him not to mourn her death, but instead remember the happy times they had together when she passes away.",
+        "pt": "[Wonky]\nPouco antes de partir, ela pediu para que seu pai não ficasse triste pela sua despedida, mas sim lembrasse de todas as boas memórias que tiveram juntos.",
+        "es": "[Charles]\nVer a su padre tan triste, le rompió el corazón a Dulce. Le pidió que no lamentara su muerte, sino que cuando muriera, recuerde los tiempos felices que vivieron juntos."
+    },
+    "6/UiBA": {
+        "en": "[Charles]\nSo every year on the day that Sweets passed away, Balon gave out chocolates to the villagers to remember the good times he had with his daughter.",
+        "pt": "[Wonky]\nEntão, todo ano, Balon entregava chocolates aos cidadãos para que todos se lembrem de Docinho e de sua felicidade contagiante.",
+        "es": "[Charles]\nPor eso, todos los años en la fecha en la que Dulce murió, Balon les regalaba chocolates a los aldeanos para recordar los buenos tiempos que pasó con su hija."
+    },
+    "7PUiBA": {
+        "en": "[Charles]\nThis gradually spread throughout the whole Midgard area and became a big festival called the 'Sweets Festival'.",
+        "pt": "[Wonky]\nEssa tradição foi se espalhando por toda a Rune-Midgard e eventualmente se tornou o Festival do Chocolate. Longa história, não?",
+        "es": "[Charles]\nEsto se extendió gradualmente a lo largo del área de Midgard y se convirtió en un gran festival llamado el “Festival de Dulce”."
+    },
+    "7fUiBA": {
+        "en": "[Charles]\nAt first, it was all about sharing chocolates. But as time passed by, people started sharing candy, macarons, and sweets with each other as well. And so that's how the Sweets Festival started. Long story, huh?",
+        "pt": "[Wonky]\nFinalmente! Com esses grãos de cacau finalmente vou conseguir fazer alguns chocolates.",
+        "es": "[Charles]\nAl principio, se trataba de compartir chocolates. Pero con el paso del tiempo, la gente también comenzó a compartir caramelos, macarrones y dulces. Y así empezó el Festival de Dulce. Una historia larga, ¿no?"
+    },
+    "7vUiBA": {
+        "en": "[Charles]\nI can start making chocolates because I finally got some cacao beans. What's up?",
+        "pt": "[Wonky]\nMinha maravilhosa fábrica de chocolates finalmente está funcionando a todo o vapor graças aos seus esforços. Por ora, está tudo certo, mas vou precisar da sua ajuda novamente amanhã!",
+        "es": "[Charles]\nPuedo empezar a preparar chocolates porque al fin tengo algunos granos de cacao. ¿Qué pasa?"
+    },
+    "7/UiBA": {
+        "en": "[Charles]\nMy factory is finally running smoothly thanks to your help in delivering the chocolates. Please help me again tomorrow~",
+        "pt": "Poxa vida!",
+        "es": "[Charles]\nGracias a tu ayuda entregando los chocolates, al fin mi fábrica funciona sin problemas. Por favor, vuélveme a ayudar mañana~."
+    },
+    "8PUiBA": {
+        "en": "- ...I can help",
+        "pt": "[Wonky]\nPreciso de pelo menos 20 ^FF0000grãos de cacau^000000. Cada vez que você me entregar os 20, eu o darei 10 Moedas do Festival.",
+        "es": "-…Puedo ayudar."
+    },
+    "8fUiBA": {
+        "en": "- Ignore him",
+        "pt": "[Wonky]\nRápido! Estamos atrasados! Vou te mandar pra loja de chocolates de Geffen pra ontem!",
+        "es": "-Ignorarlo."
+    },
+    "8vUiBA": {
+        "en": "Hey! why are you ignoring me!",
+        "pt": "[Wonky]\nRápido! Estamos atrasados! Vou te mandar pra loja de chocolates de Payon pra ontem!",
+        "es": "¡Ey! ¡¿Por qué me ignoras?!"
+    },
+    "8/UiBA": {
+        "en": "[Charles]\nHere you go. These are the chocolates for delivery. Please deliver these chocolates to each town's sweet shop in the following order: Geffen, Payon, Al De Baran and Prontera. I will help you to get there faster!",
+        "pt": "[Wonky]\nRápido! Estamos atrasados! Vou te mandar pra loja de chocolates de Al De Baran pra ontem!",
+        "es": "[Charles]\nToma. Estos son los bombones para entregar. Entrega estos chocolates a las tiendas de dulces de cada ciudad, en el orden siguiente: Geffen, Payon, Al De Baran y Prontera. Te ayudaré a llegar más rápido"
+    },
+    "9PUiBA": {
+        "en": "[Charles]\nI need at least 20 ff0000Stolen cacao beans^000000. I will give you 10 Festival Coins for 20 beans.",
+        "pt": "[Wonky]\nRápido! Estamos atrasados! Vou te mandar pra loja de chocolates de Prontera pra ontem!",
+        "es": "[Charles]\nNecestio al menos 20ff0000Granos de cacao robados^000000. Te daré 10 Monedas del Festival por 20 judías."
+    },
+    "9fUiBA": {
+        "en": "[Charles]\nI still need more cacao beans, keep on bringing me the cacao beans.",
+        "pt": "Ed, Assist. da Loja",
+        "es": "[Charles]\nTodavía necesito más Granos de cacao, sígueme trayendo los Granos de cacao."
+    },
+    "9vUiBA": {
+        "en": "[Charles]\nHey! Why are you not delivering the chocolates? We are late! Go to the sweet shop in Geffen! I will help you get there!",
+        "pt": "[Ed]\nVocê não precisa passar na loja de doces de Payon antes?",
+        "es": "[Charles]\n¡Oye! ¿Por qué no entregas los chocolates? ¡Ya es tarde! ¡Ve a la tienda de dulces de Geffen! ¡Te ayudaré a llegar allí!"
+    },
+    "9/UiBA": {
+        "en": "[Charles]\nHey! Why are you not delivering the chocolates? We are late! Go to the sweet shop in Payon! I will help you get there!",
+        "pt": "[Ed]\nHmm, acho que você não terminou de entregar os chocolates ainda.",
+        "es": "[Charles]\n¡Oye! ¿Por qué no entregas los bombones? ¡Llegamos tarde! ¡Ve a la tienda de dulces de Payon! Te ayudaré a conseguirlo"
+    },
+    "+PUiBA": {
+        "en": "[Charles]\nHey! Why are you not delivering the chocolates? We are late! Go to the sweet shop in Al De Baran! I will help you get there!",
+        "pt": "[Menina Aleatória]\nPor Odin, é o Ed! Ele é o meu crush!\nSó de olhar pra ele meu coração já bate mais forte. Quero comprar uns chocolates só pra ele me notar!",
+        "es": "[Charles]\n¡Oye! ¿Por qué no entregas los bombones? ¡Llegamos tarde! ¡Ve a la tienda de dulces de Aldebaran! Te ayudaré a conseguirlo"
+    },
+    "+fUiBA": {
+        "en": "[Charles]\nHey! Why are you not delivering the chocolates? We are late! Go to the sweet shop in Prontera!",
+        "pt": "[Garota Randômica]\nHá! O Ed é areia demais pro seu caminhãozinho! Ele NUNCA vai te notar!",
+        "es": "[Charles]\n¡Oye! ¿Por qué no entregas los bombones? ¡Llegamos tarde! ¡Ve a la tienda de dulces de Prontera!"
+    },
+    "+vUiBA": {
+        "en": "[Charles]\nHey Did you finish making the deliveries? Thanks a lot. The factory is finally running smoothly again thanks to your help. Please help me again tomorrow~",
+        "pt": "[Menina Aleatória]\nE quem é você?\n...Ah, já lembrei! Você é aquela feiosa que tomou um pé na bunda do Ed! Hahahaha",
+        "es": "[Charles]\nOye, ¿terminaste de hacer las entregas? Muchas gracias. Gracias a tu ayuda, al fin la fábrica funciona sin problemas de nuevo. Por favor, ayúdame de nuevo mañana~"
+    },
+    "+/UiBA": {
+        "en": "Sweet Shop Employee Ed",
+        "pt": "[Garota Randômica]\nEu NÃO tomei um pé na bunda! Menina, tá tentando arrumar uma briga? Vaza, fia!",
+        "es": "Sweet Shop Employee Ed"
+    },
+    "/PUiBA": {
+        "en": "[Ed]\nDon't you have something to do at the Sweet Shop in Payon?",
+        "pt": "[Menina Aleatória]\nOi? Foi você quem começou a briga aqui, anjo!",
+        "es": "[Ed]\n¿No tienes trabajo en la tienda de dulces de Payon?"
+    },
+    "/fUiBA": {
+        "en": "[Ed]\nI see you haven't finished delivering the chocolates yet.",
+        "pt": "As duas começam a brigar.",
+        "es": "[Ed]\nVeo que aún no terminaste de entregar los chocolates."
+    },
+    "/vUiBA": {
+        "en": "[Girl A]\nOh my god, it's Ed! He's so handsome and cool!\nJust looking at him makes my heart all warm~ shall I buy some chocolates to get his attention?",
+        "pt": "[Ed]\nVixe... Aquelas duas meninas estão brigando por causa de mim...\nEi, garotas. Parem de brigar. Vamos lá, o Festival do Chocolate é época de ser amigo com todo mundo.",
+        "es": "[Chica A]\n¡Santo cielo, es Ed! ¡Es muy guapo y genial!\nCon solo mirarlo se me entibia el corazón~… ¿Compro unos chocolates para llamarle la atención?"
+    },
+    "//UiBA": {
+        "en": "[Girl B]\nHa! Ed is way out of your league! He won't even notice you!",
+        "pt": "[Ed]\nOpa. Acho que nunca te vi por aqui.",
+        "es": "[Chica B]\n¡Ja! ¡Ed está fuera de tu alcance! ¡Ni siquiera te verá!"
+    },
+    "APYiBA": {
+        "en": "[Girl A]\nWho are you?\nHey... I know you! You're that girl who got dumped by Ed after confessing to him! Haha!",
+        "pt": "Eu vim entregar os chocolates!",
+        "es": "[Chica A]\n¿Quién eres?\nOye… ¡Te conozco! ¡Eres la chica a la que Ed dejó después de que le confesaras tu amor! ¡Ja, ja!"
+    },
+    "AfYiBA": {
+        "en": "[Girl B]\nI did not get dumped! Are you trying to pick a fight with me?",
+        "pt": "[Ed]\nAh, que bom! Muito obrigado!",
+        "es": "[Chica B]\n¡No me dejó! ¿Intentas pelearme?"
+    },
+    "AvYiBA": {
+        "en": "[Girl A]\nWhat? You started it!",
+        "pt": "[Ed]\nSua próxima entrega é em Payon, certo? Bom, já que você se esforçou tanto, vou ajudá-lo a chegar até lá. Até mais!",
+        "es": "[Chica A]\n¿Qué? ¡Tú empezaste!"
+    },
+    "A/YiBA": {
+        "en": "The two girls start fighting.",
+        "pt": "[Ed]\nBoas vindas à Loja de Doces. O que você busca?",
+        "es": "Las dos chicas empiezan a pelear."
+    },
+    "BPYiBA": {
+        "en": "[Ed]\nUh oh... The young girls are fighting again because of me.\nHey girls, stop fighting. Peace~ Let's all be nice during the Sweets Festival~",
+        "pt": "Abrir a Loja de Doces",
+        "es": "[Ed]\nAy, no… Las jovencitas se vuelven a pelear por mí.\nOigan, chicas, dejen de pelear. Paz~… Todos debemos ser amables durante el Festival de Dulce~."
+    },
+    "BfYiBA": {
+        "en": "[Ed]\nOh? I haven't seen you around before.",
+        "pt": "Usar Moedas do Festival",
+        "es": "[Ed]\n¿Eh? No te había visto por aquí antes."
+    },
+    "BvYiBA": {
+        "en": "I came to deliver the chocolates.",
+        "pt": "Cancelar",
+        "es": "Vine a entregar los chocolates."
+    },
+    "B/YiBA": {
+        "en": "[Ed]\nI see. I was getting worried since it took so long. I was even thinking of sending the girls to the factory.",
+        "pt": "[Ed]\nVocê pode usar as <ITEM>Moedas do Festival<INFO>25290</INFO></ITEM> para comprar Pipocas ou um Quinding!",
+        "es": "[Ed]\nYa veo. Ya me estaba preocupando por la tardanza. Incluso pensaba enviar a las chicas a la fábrica."
+    },
+    "CPYiBA": {
+        "en": "Why won't you go by yourself...",
+        "pt": "Comprar Pipocas",
+        "es": "¿Por qué no vas tú…?"
+    },
+    "CfYiBA": {
+        "en": "[Ed]\nWell, we received the chocolates! Is your next delivery in Payon? Hmm... Payon... Hearing that word reminds me of something... But I can't remember what...",
+        "pt": "Conseguir um Quinding",
+        "es": "[Ed]\nBueno, ¡recibimos los chocolates! ¿Tu próxima entrega es en Payon? Mmm… Payon… Escuchar esa palabra me recuerda a algo… Pero no recuerdo qué…"
+    },
+    "CvYiBA": {
+        "en": "[Ed]\nWell anyways, since it took you so much effort to get here, I will help you get there faster! See you around!",
+        "pt": "[Ed]\nA <ITEM>Pipoca Flavorizada<INFO>11612</INFO></ITEM> custa 1 Moeda do Festival. Quer comprá-la?",
+        "es": "[Ed]\nBueno, como te costó tanto llegar hasta aquí, ¡te ayudaré a llegar allí más rápido! ¡Nos vemos!"
+    },
+    "C/YiBA": {
+        "en": "[Ed]\nSweet temptation~ Welcome to the Sweets Shop. What do you need?",
+        "pt": "Sim",
+        "es": "[Ed]\nDulce tentación~. Te doy la bienvenida a la tienda de dulces. ¿Qué necesitas?"
+    },
+    "DPYiBA": {
+        "en": "Buy Sweets",
+        "pt": "Não",
+        "es": "Comprar dulces."
+    },
+    "DfYiBA": {
+        "en": "Buy Costume",
+        "pt": "[Ed]\nHmm, você precisa de 1 Moeda do Festival. Você não tem moedas o suficiente!",
+        "es": "Comprar atuendo."
+    },
+    "DvYiBA": {
+        "en": "Daily Sweets Draw",
+        "pt": "[Ed]\nBoa! Aqui está. Volte sempre!",
+        "es": "Sorteo diario de dulces."
+    },
+    "D/YiBA": {
+        "en": "Cancel",
+        "pt": "[Ed]\nO <ITEM>Ovo de Quinding<INFO>9109</INFO></ITEM> custa 1000 Moedas do Festival. Quer comprá-lo?",
+        "es": "Cancelar."
+    },
+    "EPYiBA": {
+        "en": "[Ed]\nIf you need sweets than you came to the right place! Choose the sweets you like~",
+        "pt": "[Ed]\nHmm, você precisa de 1000 Moedas do Festival. Você não tem moedas o suficiente!",
+        "es": "[Ed]\nSi necesitas dulces, ¡viniste al lugar correcto! Elige los dulces que más te gusten~…"
+    },
+    "EfYiBA": {
+        "en": "Buy Handmade Chocolates with your name engraved in it",
+        "pt": "Allen, Assist. da Loja",
+        "es": "Comprar chocolates artesanales con tu nombre."
+    },
+    "EvYiBA": {
+        "en": "Buy Chewy Macarons",
+        "pt": "[Allen]\nVocê não precisa passar na loja de doces de Al De Baran antes?",
+        "es": "Comprar macarrones masticables."
+    },
+    "E/YiBA": {
+        "en": "Buy Sweet Crepes",
+        "pt": "[Allen]\nHmm, acho que você não terminou de entregar os chocolates ainda.",
+        "es": "Comprar crepes dulces."
+    },
+    "FPYiBA": {
+        "en": "Buy Strawberry Cream Cupcake",
+        "pt": "[Allen]\nOlá! O que deseja?",
+        "es": "Comprar panquecitos de fresa y crema."
+    },
+    "FfYiBA": {
+        "en": "Buy Fruit Parfait",
+        "pt": "[Allen]\nChocolates? Ah, sim! Do festival! Pode deixá-los aqui do lado...",
+        "es": "Comprar parfait de frutas."
+    },
+    "FvYiBA": {
+        "en": "[Ed]\nThese are special handmade chocolates with your name engraved on it. If you want to show your love to someone, this is the best gift. It will cost you 10 Festival Coins. Do you want to buy it?",
+        "pt": "[Allen]\nEntão, pra ser honesto... Eu não trabalho aqui. Um vendedor pediu pra que eu cuidasse da loja dele por um tempo... E aí ele sumiu.",
+        "es": "[Ed]\nEstos son chocolates artesanales especiales que llevan tu nombre grabado. Si quieres mostrarle tu amor a alguien, este es el mejor regalo. Te costarán 10Monedas del festival. ¿Quieres comprarlos?"
+    },
+    "F/YiBA": {
+        "en": "Yes",
+        "pt": "[Allen]\nEle é um cara bem galanteador, com garotas que o seguem dia e noite...",
+        "es": "Sí."
+    },
+    "GPYiBA": {
+        "en": "No",
+        "pt": "...Por acaso é o Ed?",
+        "es": "No."
+    },
+    "GfYiBA": {
+        "en": "[Ed]\nYou need 10 Festival Coins. I don't think you have enough coins.",
+        "pt": "[Allen]\nVocê conhece o Ed? Já faz um tempo desde que ele sumiu...",
+        "es": "[Ed]\nNecesitas 10Monedas del festival. Creo que no tienes monedas suficientes."
+    },
+    "GvYiBA": {
+        "en": "[Ed]\nNice choice! Here you go. Come back again if you want more sweets!",
+        "pt": "[Allen]\n...Você o viu em Geffen? E ele estava de namorico?!\nAHHHHH! Agora eu tô pistola!",
+        "es": "[Ed]\n¡Buena elección! Toma. ¡Regresa si quieres más dulces!"
+    },
+    "G/YiBA": {
+        "en": "[Ed]\nYou need 20 Festival Coins to buy Chewy Macarons. Do you want to buy it?",
+        "pt": "[Allen]\nAi... Calma... Conta até dez...",
+        "es": "[Ed]\nNecesitas 20Monedas del festival para comprar macarrones masticables. ¿Quieres comprarlo?"
+    },
+    "HPYiBA": {
+        "en": "[Ed]\nYou need 20 Festival Coins. You don't have enough coins!",
+        "pt": "[Allen]\nEle vai se ver comigo quando voltar... Bem, obrigado por me contar. Você está indo para Al De Baran? Vou te ajudar a chegar lá!",
+        "es": "[Ed]\nNecesitas 20Monedas del festival. ¡No tienes suficientes monedas!"
+    },
+    "HfYiBA": {
+        "en": "[Ed]\nTo buy Sweet Crepes, you need 20 Festival Coins. Do you want it?",
+        "pt": "[Allen]\nBoas vindas à Loja de Doces. O que você busca?",
+        "es": "[Ed]\nPara comprar crepes dulces, necesitas 20Monedas del festival. ¿Los quieres?"
+    },
+    "HvYiBA": {
+        "en": "[Ed]\nYou need 20 Festival Coins to buy Strawberry Cream Cupcake. Do you want to buy it?",
+        "pt": "[Allen]\nVocê pode usar as <ITEM>Moedas do Festival<INFO>25290</INFO></ITEM> para comprar Pipocas ou um Quinding!",
+        "es": "[Ed]\nNecesitas 20Monedas del festival para comprar panquecitos de fresa y crema. ¿Quieres comprarlo?"
+    },
+    "H/YiBA": {
+        "en": "[Ed]\nYou need 20 Festival Coins to buy the Fruit Parfait. Do you want buy it?",
+        "pt": "[Allen]\nA <ITEM>Pipoca Flavorizada<INFO>11612</INFO></ITEM> custa 1 Moeda do Festival. Quer comprá-la?",
+        "es": "[Ed]\nNecesitas 20Monedas del festival para comprar el parfait de frutas. ¿Quieres comprarlo?"
+    },
+    "IPYiBA": {
+        "en": "[Ed]\nWe are selling Sweets Festival 'Limited Edition' Costumes. Take a look!",
+        "pt": "[Allen]\nHmm, você precisa de 1 Moeda do Festival. Você não tem moedas o suficiente!",
+        "es": "[Ed]\nVendemos atuendos de “edición limitada” del Festival de Dulce. ¡Echa un vistazo!"
+    },
+    "IfYiBA": {
+        "en": "Sweet Candy Costume",
+        "pt": "[Allen]\nBoa! Aqui está. Volte sempre!",
+        "es": "Atuendo de caramelo dulce."
+    },
+    "IvYiBA": {
+        "en": "Chocolate Mini Hat Costume",
+        "pt": "[Allen]\nO <ITEM>Ovo de Quinding<INFO>9109</INFO></ITEM> custa 1000 Moedas do Festival. Quer comprá-lo?",
+        "es": "Minisombrero de chocolate decorativo."
+    },
+    "I/YiBA": {
+        "en": "[Ed]\nYou need 800 Festival Coins to buy the Sweet Candy Costume. Do you want buy it?",
+        "pt": "[Allen]\nHmm, você precisa de 1000 Moedas do Festival. Você não tem moedas o suficiente!",
+        "es": "[Ed]\nNecesitas 800Monedas del festival para comprar el atuendo de caramelo dulce. ¿Quieres comprarlo?"
+    },
+    "JPYiBA": {
+        "en": "[Ed]\nYou need 800 Festival Coins. I don't think you have enough coins.",
+        "pt": "Hans, Assist. da Loja",
+        "es": "[Ed]\nNecesitas 800Monedas del festival. No creo que tengas suficientes monedas."
+    },
+    "JfYiBA": {
+        "en": "[Ed]\nYou need 1000 Festival Coins to buy the Chocolate Mini Hat Costume. Do you want buy it?",
+        "pt": "[Hans]\nVocê não precisa passar na loja de doces de Prontera antes?",
+        "es": "[Ed]\nNecesitas 1000Monedas del festival para comprar el minisombrero de chocolate decorativo. ¿Quieres comprarlo?"
+    },
+    "JvYiBA": {
+        "en": "[Ed]\nYou need 1000 Festival Coins. I don't think you have enough coins.",
+        "pt": "[Hans]\nHmm, acho que você não terminou de entregar os chocolates ainda.",
+        "es": "[Ed]\nNecesitas 1000Monedas del festival. No creo que tengas suficientes monedas."
+    },
+    "J/YiBA": {
+        "en": "[Ed]\nThe Daily Sweets Draw! This is an event where you can randomly win one of the items we are selling at the shop! If you're lucky, you might win yourself a costume! It will cost you 30 Festival Coins. Do you want to try?",
+        "pt": "[Hans]\nOlá! Eu sou Hans, vendedor da Loja de Doces de Al De Baran. O que posso fazer por você?",
+        "es": "[Ed]\n¡El sorteo diario de dulces! ¡Se trata de un evento donde puedes ganar uno de los objetos que vendemos en la tienda de forma aleatoria! Si tienes suerte, ¡podrías ganarte un atuendo! Te costará 30Monedas del festival. ¿Quieres intentarlo?"
+    },
+    "KPYiBA": {
+        "en": "Draw.",
+        "pt": "[Hans]\nEsse chocolate é bem frágil, então tome cuidado com ele, por favor. Pode deixá-lo ali. Muito obrigado!",
+        "es": "Sortear."
+    },
+    "KfYiBA": {
+        "en": "[Ed]\nYou can only draw once a day! Come back tomorrow!",
+        "pt": "[Hans]\nSeu próximo destino é Prontera? Nossa, faz muito tempo desde que eu estive lá. Bom, de qualquer forma, vou te levar até lá. Até mais!",
+        "es": "[Ed]\n¡Solo puedes sortear una vez al día! ¡Regresa mañana!"
+    },
+    "KvYiBA": {
+        "en": "[Ed]\nYou need 30 Festival Coins. You don't have enough coins.",
+        "pt": "[Hans]\nBoas vindas à Loja de Doces. O que você busca?",
+        "es": "[Ed]\nNecesitas 30Monedas del festival. No tienes suficientes monedas."
+    },
+    "K/YiBA": {
+        "en": "[Ed]\nDid you get anything good?",
+        "pt": "[Hans]\nVocê pode usar as <ITEM>Moedas do Festival<INFO>25290</INFO></ITEM> para comprar Pipocas ou um Quinding!",
+        "es": "[Ed]\n¿Conseguiste algo bueno?"
+    },
+    "LPYiBA": {
+        "en": "Sweet Shop Temp Allen",
+        "pt": "[Hans]\nA <ITEM>Pipoca Flavorizada<INFO>11612</INFO></ITEM> custa 1 Moeda do Festival. Quer comprá-la?",
+        "es": "Sweet Shop Temp Allen"
+    },
+    "LfYiBA": {
+        "en": "[Allen]\nAren't you supposed to go to Al De Baran? What are you doing here?",
+        "pt": "[Hans]\nHmm, você precisa de 1 Moeda do Festival. Você não tem moedas o suficiente!",
+        "es": "[Allen]\n¿No se supone que debes ir a Aldebaran? ¿Qué haces aquí?"
+    },
+    "LvYiBA": {
+        "en": "[Allen]\nI don't think you're done making the deliveries!",
+        "pt": "[Hans]\nBoa! Aqui está. Volte sempre!",
+        "es": "[Allen]\n¡Creo que no terminaste de hacer las entregas!"
+    },
+    "L/YiBA": {
+        "en": "[Allen]\nWhere is he?! I thought he was going to the bathroom!!",
+        "pt": "[Hans]\nO <ITEM>Ovo de Quinding<INFO>9109</INFO></ITEM> custa 1000 Moedas do Festival. Quer comprá-lo?",
+        "es": "[Allen]\n¡¿Dónde está?! ¡Pensé que iba al baño!"
+    },
+    "MPYiBA": {
+        "en": "I am here to deliver the chocolates.",
+        "pt": "[Hans]\nHmm, você precisa de 1000 Moedas do Festival. Você não tem moedas o suficiente!",
+        "es": "Vine para entregar los chocolates."
+    },
+    "MfYiBA": {
+        "en": "[Allen]\nDelivery? Aha... I think he mentioned something about a delivery. Put it over here...",
+        "pt": "Mimi, Assist. da Loja",
+        "es": "[Allen]\n¿Entregar? Ajá… Creo que mencionó algo sobre una entrega. Ponlos por aquí…"
+    },
+    "MvYiBA": {
+        "en": "What do you mean by 'he'?",
+        "pt": "[Mimi]\nSe você já fez sua entrega de chocolates, vá conversar com Wonky!",
+        "es": "¿A quién te refieres con “él”?"
+    },
+    "M/YiBA": {
+        "en": "[Allen]\nWhew... Actually I am not an employee of this shop... I was playing my instrument nearby, when suddenly this shop clerk came by and asked me if I could watch over his shop for a minute because he needed to go to the bathroom.",
+        "pt": "[Mimi]\nQuando você vai entregar nossos chocolates?",
+        "es": "[Allen]\nUf… De hecho, no soy empleado de esta tienda… Estaba tocando mi instrumento por aquí cerca, cuando de repente se me acercó este vendedor y me preguntó si podía cuidar su tienda por un minuto porque necesitaba ir al baño."
+    },
+    "NPYiBA": {
+        "en": "[Allen]\nHe's this handsome guy with girls following all the time... He also says 'PEACE~' all the time.",
+        "pt": "[Mimi]\nOlá! O que deseja?",
+        "es": "[Allen]\nEs un tipo muy atractivo, las chicas los siguen todo el tiempo… También todo el tiempo repite “PAZ~”."
+    },
+    "NfYiBA": {
+        "en": "...Ed?",
+        "pt": "[Mimi]\nAiaiai, mas que atraso! Achei que viria mais rápido, já que estamos tão pertos da Fábrica de Chocolates...",
+        "es": "¿…Ed?"
+    },
+    "NvYiBA": {
+        "en": "[Allen]\nDo you know Ed? Did you see him somewhere? It's been a while since he went to the bathroom...",
+        "pt": "[Mimi]\n...Bom, tudo bem. Só deixe os chocolates ali, por favor. Infelizmente, tô meio ocupada aqui e não posso te dar muita atenção agora.",
+        "es": "[Allen]\n¿Conoces a Ed? ¿Lo viste en algún lado? Hace bastante que se fue al baño…"
+    },
+    "N/YiBA": {
+        "en": "[Allen]\n......You saw him in Geffen? And he was playing around with girls??!!\nAHHHHH!!! I AM GETTING SO ANGRY RIGHT NOW!!!!",
+        "pt": "(Melhor ir embora daqui e falar com o Wonky...)",
+        "es": "[Allen]\n¿…Lo viste en Geffen? ¡¿Y estaba jugueteando con unas chicas?!\n¡AHHHHH! ¡ME ESTOY ENFADANDO MUCHO!"
+    },
+    "OPYiBA": {
+        "en": "[Allen]\nHa... Whoo... Relax... Calm down...",
+        "pt": "[Mimi]\nBoas vindas à Loja de Doces. O que você busca?",
+        "es": "[Allen]\nJa… Uh… Relájate… Cálmate…"
+    },
+    "OfYiBA": {
+        "en": "[Allen]\nHe is in big trouble when he gets back here... Well, thank you for telling me this. Is your next location Al De Baran? I will help you get there!",
+        "pt": "[Mimi]\nVocê pode usar as <ITEM>Moedas do Festival<INFO>25290</INFO></ITEM> para comprar Pipocas ou um Quinding!",
+        "es": "[Allen]\nSe meterá en grandes problemas cuando vuelva… Bueno, gracias por decírmelo. ¿Tu próximo destino es Aldebaran? Te ayudaré a conseguirlo"
+    },
+    "OvYiBA": {
+        "en": "[Allen]\nUhm... Welcome to the Sweets Shop. I am not an official employee but I know the prices so I can help you... What do you need?",
+        "pt": "[Mimi]\nA <ITEM>Pipoca Flavorizada<INFO>11612</INFO></ITEM> custa 1 Moeda do Festival. Quer comprá-la?",
+        "es": "[Allen]\nEmm… Te doy la bienvenida a la tienda de dulces. No soy un empleado oficial, pero conozco los precios, así que puedo ayudarte… ¿Qué necesitas?"
+    },
+    "O/YiBA": {
+        "en": "[Allen]\nEating these tasty sweets will make you want to sing! What kind of sweets do you like?",
+        "pt": "[Mimi]\nHmm, você precisa de 1 Moeda do Festival. Você não tem moedas o suficiente!",
+        "es": "[Allen]\n¡Si comes estos deliciosos dulces te darán ganas de cantar! ¿Qué tipo de dulces te gustan?"
+    },
+    "PPYiBA": {
+        "en": "[Allen]\nThese are chocolates with you name engraved in it. It will cost you 10 Festival Coins. Do you want to buy it?",
+        "pt": "[Mimi]\nBoa! Aqui está. Volte sempre!",
+        "es": "[Allen]\nEstos son chocolates con tu nombre. Te costará 10 Monedas del Festival. ¿Quieres comprarlo?"
+    },
+    "PfYiBA": {
+        "en": "[Allen]\nYou need 10 Festival Coins. You don't have enough coins!",
+        "pt": "[Mimi]\nO <ITEM>Ovo de Quinding<INFO>9109</INFO></ITEM> custa 1000 Moedas do Festival. Quer comprá-lo?",
+        "es": "[Allen]\nNecesitas 10 Monedas del Festival. ¡No tienes suficientes monedas!"
+    },
+    "PvYiBA": {
+        "en": "[Allen]\nIs this the one you want? I get confused sometimes because I am just a temp.",
+        "pt": "[Mimi]\nHmm, você precisa de 1000 Moedas do Festival. Você não tem moedas o suficiente!",
+        "es": "[Allen]\n¿Esto es lo que quieres? A veces me confundo porque solo soy un empleado temporal."
+    },
+    "P/YiBA": {
+        "en": "[Allen]\nYou need 20 Festival Coins to buy Chewy Macarons. Do you want to buy it?",
+        "pt": "Menina Aleatória",
+        "es": "[Allen]\nNecesitas 20Monedas del festival para comprar macarrones masticables. ¿Quieres comprarlo?"
+    },
+    "QPYiBA": {
+        "en": "[Allen]\nYou need 20 Festival Coins. You don't have enough coins!",
+        "pt": "Garota Randômica",
+        "es": "[Allen]\nNecesitas 20Monedas del festival. ¡No tienes suficientes monedas!"
+    },
+    "QfYiBA": {
+        "en": "[Allen]\nTo buy Sweet Crepes, you need 20 Festival Coins. Do you want it?",
+        "es": "[Allen]\nPara comprar crepes dulces, necesitas 20Monedas del festival. ¿Los quieres?"
+    },
+    "QvYiBA": {
+        "en": "[Allen]\nYou need 20 Festival Coins to buy Strawberry Cream Cupcake. Do you want to buy it?",
+        "es": "[Allen]\nNecesitas 20Monedas del festival para comprar panquecitos de fresa y crema. ¿Quieres comprarlo?"
+    },
+    "Q/YiBA": {
+        "en": "[Allen]\nYou need 20 Festival Coins to buy the Fruit Parfait. Do you want buy it?",
+        "es": "[Allen]\nNecesitas 20Monedas del festival para comprar el parfait de frutas. ¿Quieres comprarlo?"
+    },
+    "RPYiBA": {
+        "en": "[Allen]\nThese are 'Limited Edition' Costumes you can only buy during the Sweets Festival. I've never seen them before...",
+        "es": "[Allen]\nEstos son atuendos de “edición limitada” que solo puedes comprar durante el Festival de Dulce. Jamás los había visto…"
+    },
+    "RfYiBA": {
+        "en": "[Allen]\nYou need 800 Festival Coins to buy the Sweet Candy Costume. Do you want buy it?",
+        "es": "[Allen]\nNecesitas 800Monedas del festival para comprar el atuendo de caramelo dulce. ¿Quieres comprarlo?"
+    },
+    "RvYiBA": {
+        "en": "[Allen]\nYou need 800 Festival Coins. I don't think you have enough coins.",
+        "es": "[Allen]\nNecesitas 800Monedas del festival. No creo que tengas suficientes monedas."
+    },
+    "R/YiBA": {
+        "en": "[Allen]\nYou need 1000 Festival Coins to buy the Chocolate Mini Hat Costume. Do you want buy it?",
+        "es": "[Allen]\nNecesitas 1000Monedas del festival para comprar el minisombrero de chocolate decorativo. ¿Quieres comprarlo?"
+    },
+    "SPYiBA": {
+        "en": "[Allen]\nYou need 1000 Festival Coins. I don't think you have enough coins.",
+        "es": "[Allen]\nNecesitas 1000Monedas del festival. No creo que tengas suficientes monedas."
+    },
+    "SfYiBA": {
+        "en": "[Allen]\nThis is my personal favorite! The Daily Sweets Draw! This is an event where you can randomly win one of the items we are selling at the shop! If you're lucky, you might win yourself a costume! It will cost you 30 Festival Coins. Do you want to try?",
+        "es": "[Allen]\n¡Y este es mi favorito! Sorteo diario de caramelos Se trata de un evento en el que podrás ganar al azar uno de los artículos que vendemos en la tienda Si tienes suerte, ¡podrás ganar un disfraz! Te costará 30 Monedas del Festival. ¿Quieres intentarlo?"
+    },
+    "SvYiBA": {
+        "en": "[Allen]\nSorry, but you can only draw once a day. Try again tomorrow.",
+        "es": "[Allen]\nLo siento, pero solo puedes sortear una vez al día. Vuelve a intentarlo mañana."
+    },
+    "S/YiBA": {
+        "en": "[Allen]\nYou need 30 Festival Coins. You don't have enough coins.",
+        "es": "[Allen]\nNecesitas 30Monedas del festival. No tienes suficientes monedas."
+    },
+    "TPYiBA": {
+        "en": "[Allen]\nWell, Did you get something nice? Tell me what you got!",
+        "es": "[Allen]\nBueno, ¿conseguiste algo bueno? ¡Dime lo que te tocó!"
+    },
+    "TfYiBA": {
+        "en": "Sweets Shopkeeper Hans",
+        "es": "Sweets Shopkeeper Hans"
+    },
+    "TvYiBA": {
+        "en": "You seem over-burdened. Let's try again after you get rid of some items.",
+        "es": "Parece que llevas una sobrecarga. Inténtalo de nuevo después de que sueltes algunos objetos."
+    },
+    "T/YiBA": {
+        "en": "You have too many items, so you can't move to the next step. Let's reduce your weight and try again.",
+        "es": "Tienes demasiados objetos, así que no puedes avanzar al próximo paso. Reduce el peso y vuelve a intentarlo."
+    },
+    "UPYiBA": {
+        "en": "[Hans]\nYou said you have to visit the Sweets Shop in Prontera?",
+        "es": "[Hans]\n¿Dijiste que tienes que visitar la tienda de dulces de Prontera?"
+    },
+    "UfYiBA": {
+        "en": "[Hans]\nYou haven't finished your chocolate delivery.",
+        "es": "[Hans]\nNo terminaste la entrega de chocolates."
+    },
+    "UvYiBA": {
+        "en": "[Hans]\nWelcome. I am Sweets Shop Al de Baran branch shopkeeper, Hans. What can I do for you?",
+        "es": "[Hans]\nTe damos la bienvenida. Soy el propietario de la sucursal de Aldebaran de la tienda de dulces, Hans. ¿En qué te puedo ayudar?"
+    },
+    "U/YiBA": {
+        "en": "[Hans]\nOh, it's finally here. Actually, it's rather cozy here in Al de Baran, so I was waiting for you to come with a cup of tea.",
+        "es": "[Hans]\nOh, llegó al fin. De hecho, Aldebaran es bastante acogedor, así que te esperaba con una taza de té."
+    },
+    "VPYiBA": {
+        "en": "[Hans]\nPlease bring the stuff here. You shouldn't leave it anywhere else. Chocolate is very sensitive to the environment. We need to handle it carefully. Ah, you can unload it there. You got some dirt on your clothes, so please use my hankie...",
+        "es": "[Hans]\nTrae las cosas aquí. No deberías dejarlas en ningún otro lado. El chocolate es muy sensible al entorno. Hay que tratarlo con cuidado. Ah, puedes descargarlo allí. Tienes algo de mugre en la ropa, puedes usar mi pañuelo…"
+    },
+    "VfYiBA": {
+        "en": "[Hans]\nAs I told you, it's a bit relaxed here, so we don't need clerk. I, the shopkeeper, am in charge of everything about the shop.",
+        "es": "[Hans]\nComo te dije, aquí todo es bastante tranquilo, así que no necesitamos empleados. Yo, el propietario, estoy a cargo de todo en la tienda."
+    },
+    "VvYiBA": {
+        "en": "[Hans]\nOf course, there were clerks once, but I hated their uncleanliness and insincerity, so I started to run my sacred shop by myself.",
+        "es": "[Hans]\nClaro, hubo empleados en el pasado, pero odiaba su suciedad e insinceridad, así que comencé a administrar mi querida tienda por mi cuenta."
+    },
+    "V/YiBA": {
+        "en": "[Hans]\n*Glances at his watch* Oh, it's time to take a nap. It's a very important time to me. I'm so glad I spoke to you.",
+        "es": "[Hans]\n**Se mira el reloj** Oh, es hora de una siesta. Es un momento muy importante para mí. Me alegra mucho haber hablado contigo."
+    },
+    "WPYiBA": {
+        "en": "[Hans]\nIs your next destination Prontera? I haven't been there lately. Because Prontera was so crowded, I don't have good memories... I will help you get there. Bye for now.",
+        "es": "[Hans]\n¿Tu próximo destino es Prontera? Hace mucho que no voy allí. Porque en Prontera hay mucha gente, no me trae buenos recuerdos… Te ayudaré a llegar allí. Nos vemos."
+    },
+    "WfYiBA": {
+        "en": "Buy some sweets",
+        "es": "Comprar algunos dulces."
+    },
+    "WvYiBA": {
+        "en": "Buy costume equipment",
+        "es": "Comprar equipamiento decorativo."
+    },
+    "W/YiBA": {
+        "en": "[Hans]\nThere is no greater happiness than having a tea time with sweets. Pick what you want.",
+        "es": "[Hans]\nNo existe mayor felicidad que tomar el té con dulces. Elige lo que quieras."
+    },
+    "XPYiBA": {
+        "en": "[Hans]\nThese are special handmade chocolates with your name engraved on it. If you want to show your love to someone, this is the best gift. It will cost you 10 Festival Coins. Do you want to buy it?",
+        "es": "[Hans]\nEstos son chocolates artesanales especiales que llevan tu nombre grabado. Si quieres mostrarle tu amor a alguien, este es el mejor regalo. Te costarán 10Monedas del festival. ¿Quieres comprarlos?"
+    },
+    "XfYiBA": {
+        "en": "[Hans]\nYou need 10 Festival Coins. I don't think you have enough coins.",
+        "es": "[Hans]\nNecesitas 10Monedas del festival. Creo que no tienes monedas suficientes."
+    },
+    "XvYiBA": {
+        "en": "[Hans]\nHere you are. If you need anything else, please visit again...",
+        "es": "[Hans]\nToma. Si necesitas algo más, vuelve a visitarme…"
+    },
+    "X/YiBA": {
+        "en": "[Hans]\nYou need 20 Festival Coins to buy Chewy Macarons. Do you want to buy it?",
+        "es": "[Hans]\nNecesitas 20Monedas del festival para comprar macarrones masticables. ¿Quieres comprarlo?"
+    },
+    "YPYiBA": {
+        "en": "[Hans]\nYou need 20 Festival Coins. I don't think you have enough coins.",
+        "es": "[Hans]\nNecesitas 20 Monedas del Festival. No creo que tengas suficientes monedas."
+    },
+    "YfYiBA": {
+        "en": "[Hans]\nTo buy Sweet Crepes, you need 20 Festival Coins. Do you want it?",
+        "es": "[Hans]\nPara comprar crepes dulces, necesitas 20Monedas del festival. ¿Los quieres?"
+    },
+    "YvYiBA": {
+        "en": "[Hans]\nYou need 20 Festival Coins to buy Strawberry Cream Cupcake. Do you want to buy it?",
+        "es": "[Hans]\nNecesitas 20Monedas del festival para comprar panquecitos de fresa y crema. ¿Quieres comprarlo?"
+    },
+    "Y/YiBA": {
+        "en": "[Hans]\nYou need 20 Festival Coins to buy the Fruit Parfait. Do you want buy it?",
+        "es": "[Hans]\nNecesitas 20Monedas del festival para comprar el parfait de frutas. ¿Quieres comprarlo?"
+    },
+    "ZPYiBA": {
+        "en": "[Hans]\nThese are limited costumes available during Sweets Festival. Which costume do you want?",
+        "es": "[Hans]\nEstos son atuendos limitados disponibles durante el Festival de Dulce. ¿Qué atuendo quieres?"
+    },
+    "ZfYiBA": {
+        "en": "[Hans]\nYou need 800 Festival Coins to buy the Sweet Candy Costume. Do you want buy it?",
+        "es": "[Hans]\nNecesitas 800Monedas del festival para comprar el atuendo de caramelo dulce. ¿Quieres comprarlo?"
+    },
+    "ZvYiBA": {
+        "en": "[Hans]\nYou need 800 Festival Coins. I don't think you have enough coins.",
+        "es": "[Hans]\nNecesitas 800Monedas del festival. No creo que tengas suficientes monedas."
+    },
+    "Z/YiBA": {
+        "en": "[Hans]\nYou need 1000 Festival Coins to buy the Chocolate Mini Hat Costume. Do you want buy it?",
+        "es": "[Hans]\nNecesitas 1000Monedas del festival para comprar el minisombrero de chocolate decorativo. ¿Quieres comprarlo?"
+    },
+    "aPYiBA": {
+        "en": "[Hans]\nYou need 1000 Festival Coins. I don't think you have enough coins.",
+        "es": "[Hans]\nNecesitas 1000Monedas del festival. No creo que tengas suficientes monedas."
+    },
+    "afYiBA": {
+        "en": "[Hans]\nThe Daily Sweets Draw! This is an event where you can randomly win one of the items we are selling at the shop! If you're lucky, you might win yourself a costume! It will cost you 30 Festival Coins. Do you want to try?",
+        "es": "[Hans]\n¡El sorteo diario de dulces! ¡Se trata de un evento donde puedes ganar uno de los objetos que vendemos en la tienda de forma aleatoria! Si tienes suerte, ¡podrías ganarte un atuendo! Te costará 30Monedas del festival. ¿Quieres intentarlo?"
+    },
+    "avYiBA": {
+        "en": "Draw",
+        "es": "Sortear."
+    },
+    "a/YiBA": {
+        "en": "[Hans]\nIt is available only once a day. Please come again tomorrow.",
+        "es": "[Hans]\nSolo está disponible una vez al día. Vuelve mañana."
+    },
+    "bPYiBA": {
+        "en": "[Hans]\nYou need 30 Festival Coins. I don't think you have enough coins.",
+        "es": "[Hans]\nNecesitas 30 Monedas del Festival. No creo que tengas suficientes monedas."
+    },
+    "bfYiBA": {
+        "en": "[Hans]\nI hope you got what you wanted.",
+        "es": "[Hans]\nEspero que te tocara lo que querías."
+    },
+    "bvYiBA": {
+        "en": "Sweets Shop Clerk Mimi",
+        "es": "Sweets Shop Clerk Mimi"
+    },
+    "b/YiBA": {
+        "en": "[Mimi]\nHuh? You were still there? If you finished the chocolate delivery, go to Charles!",
+        "es": "[Mimi]\n¿Eh? ¿Seguías allí? Si terminaste la entrega de chocolates, ¡ve a ver a Charles!"
+    },
+    "cPYiBA": {
+        "en": "[Mimi]\nChocolate delivery? When are you going to deliver ours?",
+        "es": "[Mimi]\n¿Entrega de chocolates? ¿Cuándo nos vas a entregar los nuestros?"
+    },
+    "cfYiBA": {
+        "en": "[Mimi]\nGreetings! Welcome to Sweets Shop Prontera branch! How can I help you?",
+        "es": "[Mimi]\n¡Saludos! ¡Te doy la bienvenida a la sucursal de Prontera de la tienda de dulces! ¿Cómo puedo ayudarte?"
+    },
+    "cvYiBA": {
+        "en": "Here comes the chocolate delivery!",
+        "es": "¡Aquí llega la entrega de chocolate!"
+    },
+    "c/YiBA": {
+        "en": "[Mimi]\nErrgh! I have been waiting for it, but why did this come so late!! Does it make sense to arrive here last when this is the closest branch to the chocolate factory?!!",
+        "es": "[Mimi]\n¡Uf! La estaba esperando, ¡¿pero por qué se demoró tanto?! ¡¿Tiene sentido que llegues aquí en último lugar cuando somos la sucursal que está más cerca de la fábrica de chocolate?!"
+    },
+    "dPYiBA": {
+        "en": "[Mimi]\n(Another customer appears) Ah, greetings! Welcome to Sweets Shop Prontera branch! How can I help you?",
+        "es": "[Mimi]\n(Aparece otro cliente) ¡Ah, saludos! ¡Bienvenido a la sucursal de Sweets Shop Prontera! ¿En qué puedo ayudarte?"
+    },
+    "dfYiBA": {
+        "en": "[Mimi]\n......Whoa, there are too many customers to talk to you, so please place the stuff in that warehouse...",
+        "es": "[Mimi]\n…Vaya, hay muchos clientes como para hablar contigo, así que, por favor, coloca las cosas en ese depósito…"
+    },
+    "dvYiBA": {
+        "en": "[Mimi]\nFortunately, I had some inventory, but if you came even later, I'd have to send the customers away empty handed! If I have free time, I'll quibble about the delay to Charles...",
+        "es": "[Mimi]\nPor suerte, tenía algo de inventario, pero si llegabas más tarde, ¡hubiera tenido que despachar a los clientes con las manos vacías! Si me queda tiempo libre, me quejaré con Charles por la demora…"
+    },
+    "d/YiBA": {
+        "en": "[Mimi]\n(Another customer enters) ...Greetings! Welcome to Sweets Shop Prontera...",
+        "es": "[Mimi]\n(Entra otro cliente) ¡…Saludos! Te doy la bienvenida a la sucursal de Prontera…"
+    },
+    "ePYiBA": {
+        "en": "If I stay here longer, she will keep nagging, so let's get back to Charles, the factory owner.",
+        "es": "(Si me quedo aquí, seguirá regañándome, así que volveré con Charles, el dueño de la fábrica)."
+    },
+    "efYiBA": {
+        "en": "[Mimi]\nI feel my stress is relieved when eating sweets! Please tell me what you want.",
+        "es": "[Mimi]\n¡Siento que se me alivia el estrés al comer dulces! Dime qué necesitas."
+    },
+    "evYiBA": {
+        "en": "[Mimi]\nThese are special handmade chocolates with your name engraved on it. If you want to show your love to someone, this is the best gift. It will cost you 10 Festival Coins. Do you want to buy it?",
+        "es": "[Mimi]\nEstos son chocolates artesanales especiales que llevan tu nombre grabado. Si quieres mostrarle tu amor a alguien, este es el mejor regalo. Te costarán 10Monedas del festival. ¿Quieres comprarlos?"
+    },
+    "e/YiBA": {
+        "en": "[Mimi]\nYou need 10 Festival Coins. I don't think you have enough coins.",
+        "es": "[Mimi]\nNecesitas 10Monedas del festival. Creo que no tienes monedas suficientes."
+    },
+    "fPYiBA": {
+        "en": "[Mimi]\nHere you go. Come back again if you want more sweets!",
+        "es": "[Mimi]\nToma. ¡Vuelve otra vez si quieres más dulces!"
+    },
+    "ffYiBA": {
+        "en": "[Mimi]\nYou need 20 Festival Coins to buy Chewy Macarons. Do you want to buy it?",
+        "es": "[Mimi]\nNecesitas 20Monedas del festival para comprar macarrones masticables. ¿Quieres comprarlo?"
+    },
+    "fvYiBA": {
+        "en": "[Mimi]\nYou need 20 Festival Coins. I don't think you have enough coins.",
+        "es": "[Mimi]\nNecesitas 20 Monedas del Festival. No creo que tengas suficientes monedas."
+    },
+    "f/YiBA": {
+        "en": "[Mimi]\nTo buy Sweet Crepes, you need 20 Festival Coins. Do you want it?",
+        "es": "[Mimi]\nPara comprar crepes dulces, necesitas 20Monedas del festival. ¿Los quieres?"
+    },
+    "gPYiBA": {
+        "en": "[Mimi]\nYou need 20 Festival Coins to buy Strawberry Cream Cupcake. Do you want to buy it?",
+        "es": "[Mimi]\nNecesitas 20Monedas del festival para comprar panquecitos de fresa y crema. ¿Quieres comprarlo?"
+    },
+    "gfYiBA": {
+        "en": "[Mimi]\nYou need 20 Festival Coins to buy the Fruit Parfait. Do you want buy it?",
+        "es": "[Mimi]\nNecesitas 20Monedas del festival para comprar el parfait de frutas. ¿Quieres comprarlo?"
+    },
+    "gvYiBA": {
+        "en": "[Mimi]\nThese are limited costumes available during Sweets Festival. They are so cute that I want to have them personally! Which costume do you want?",
+        "es": "[Mimi]\nSe trata de disfraces limitados disponibles durante el Festival del Dulce. ¡Son tan bonitos que quiero tenerlos! ¿Qué disfraz quieres?"
+    },
+    "g/YiBA": {
+        "en": "[Mimi]\nYou need 800 Festival Coins to buy the Sweet Candy Costume. Do you want buy it?",
+        "es": "[Mimi]\nNecesitas 800Monedas del festival para comprar el atuendo de caramelo dulce. ¿Quieres comprarlo?"
+    },
+    "hPYiBA": {
+        "en": "[Mimi]\nYou need 800 Festival Coins. I don't think you have enough coins.",
+        "es": "[Mimi]\nNecesitas 800Monedas del festival. No creo que tengas suficientes monedas."
+    },
+    "hfYiBA": {
+        "en": "[Mimi]\nYou need 1000 Festival Coins to buy the Chocolate Mini Hat Costume. Do you want buy it?",
+        "es": "[Mimi]\nNecesitas 1000Monedas del festival para comprar el minisombrero de chocolate decorativo. ¿Quieres comprarlo?"
+    },
+    "hvYiBA": {
+        "en": "[Mimi]\nYou need 1000 Festival Coins. I don't think you have enough coins.",
+        "es": "[Mimi]\nNecesitas 1000Monedas del festival. No creo que tengas suficientes monedas."
+    },
+    "h/YiBA": {
+        "en": "[Mimi]\nThe Daily Sweets Draw! This is an event where you can randomly win one of the items we are selling at the shop! If you're lucky, you might win yourself a costume! It will cost you 30 Festival Coins. Do you want to try?",
+        "es": "[Mimi]\n¡El sorteo diario de dulces! ¡Se trata de un evento donde puedes ganar uno de los objetos que vendemos en la tienda de forma aleatoria! Si tienes suerte, ¡podrías ganarte un atuendo! Te costará 30Monedas del festival. ¿Quieres intentarlo?"
+    },
+    "iPYiBA": {
+        "en": "[Mimi]\n>Sorry, but you can only draw once a day. Try again tomorrow!",
+        "es": "[Mimi]\n>Lo siento, pero solo puedes sortear una vez al día. Vuelve a intentarlo mañana."
+    },
+    "ifYiBA": {
+        "en": "[Mimi]\nYou need 30 Festival Coins. You need more.",
+        "es": "[Mimi]\nNecesitas 30 Monedas del Festival. Necesitas más."
+    },
+    "ivYiBA": {
+        "en": "[Mimi]\nOh... What did you get? I am curious, curious!",
+        "es": "[Mimi]\nOh… ¿Qué te tocó? ¡Me da curiosidad, mucha curiosidad!"
+    },
+    "i/YiBA": {
+        "en": "Girl A",
+        "es": "Girl A"
+    },
+    "jPYiBA": {
+        "en": "Girl B",
+        "es": "Girl B"
+    }
+}

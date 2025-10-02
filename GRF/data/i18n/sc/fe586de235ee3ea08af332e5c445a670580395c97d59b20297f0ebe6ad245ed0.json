@@ -1,0 +1,977 @@
+{
+    "AGOfAg": {
+        "en": "1st Job Change",
+        "pt": "Mudança de 1ª Classe",
+        "es": "1er Cambio de Clase"
+    },
+    "AWOfAg": {
+        "en": "[1st Job Change]\nI am a 1st Job change helper.\nEnter your Password\nor enter 0 to cancel.",
+        "pt": "[Mudança de 1º emprego]\nEu sou um ajudante de Mudança de 1ª Classe.\nDigite sua senha\nou digite 0 para cancelar.",
+        "es": "[1er Cambio de Clase]\nSoy un ayudante de 1er cambio de clase.\nIntroduzca su contraseña\no introduzca 0 para cancelar."
+    },
+    "AmOfAg": {
+        "en": "[1st Job Change]\nWrong Password",
+        "pt": "[Mudança de 1ª Classe]\nSenha incorreta",
+        "es": "[1er Cambio de Clase]\nContraseña incorrecta"
+    },
+    "A2OfAg": {
+        "en": "[1st Job Change]\nYou have canceled.",
+        "pt": "[Mudança de 1ª Classe]\nVocê cancelou.",
+        "es": "[1er Cambio de Clase]\nHa cancelado."
+    },
+    "BGOfAg": {
+        "en": "[1st Job Change]\nPlease choose your job.",
+        "pt": "[Mudança de 1ª Classe]\nPor favor, escolha seu classe.",
+        "es": "[1er Cambio de Clase]\nPor favor, elija su clase."
+    },
+    "BWOfAg": {
+        "en": "Swordman",
+        "pt": "Espadachim",
+        "es": "Espadachín"
+    },
+    "BmOfAg": {
+        "en": "Mage",
+        "pt": "Mago",
+        "es": "Mago"
+    },
+    "B2OfAg": {
+        "en": "Archer",
+        "pt": "Arqueiro",
+        "es": "Archer"
+    },
+    "CGOfAg": {
+        "en": "Acolyte",
+        "pt": "Noviço",
+        "es": "Acólito"
+    },
+    "CWOfAg": {
+        "en": "Merchant",
+        "pt": "Mercador",
+        "es": "Comerciante"
+    },
+    "CmOfAg": {
+        "en": "Thief",
+        "pt": "Ladrão",
+        "es": "Ladrón"
+    },
+    "C2OfAg": {
+        "en": "Super Novice",
+        "pt": "Super Aprendiz",
+        "es": "Superprincipiante"
+    },
+    "DGOfAg": {
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar"
+    },
+    "DWOfAg": {
+        "en": "[1st Job Change]\nYou've chosen ^3355FFSwordman^000000.\nWould you like to continue?",
+        "pt": "[Mudança de 1ª Classe]\nVocê escolheu ^3355FFEspadachim^000000.\nGostaria de continuar?",
+        "es": "[1er Cambio de Clase]\nHas elegido ^3355FFEspadachín^000000.\n¿Quieres continuar?"
+    },
+    "DmOfAg": {
+        "en": "Yes",
+        "pt": "Sim",
+        "es": "Sí"
+    },
+    "D2OfAg": {
+        "en": "No",
+        "pt": "Não",
+        "es": "No"
+    },
+    "EGOfAg": {
+        "en": "[1st Job Change]\nThank you for using this service.",
+        "pt": "[Mudança de 1ª Classe]\nObrigado por usar este serviço.",
+        "es": "[1er Cambio de Clase]\nGracias por utilizar este servicio."
+    },
+    "EWOfAg": {
+        "en": "[1st Job Change]\nYou've chosen ^3355FFMage^000000.\nWould you like to continue?",
+        "pt": "[Mudança de 1ª Classe]\nVocê escolheu ^3355FFMage^000000.\nGostaria de continuar?",
+        "es": "[1er Cambio de Clase]\nHas elegido ^3355FFMago^000000.\n¿Quieres continuar?"
+    },
+    "EmOfAg": {
+        "en": "[1st Job Change]\nYou've chosen ^3355FFArcher^000000.\nWould you like to continue?",
+        "pt": "[Mudança de 1ª Classe]\nVocê escolheu ^3355FFArqueiro^000000.\nGostaria de continuar?",
+        "es": "[1er Cambio de Clase]\nHa elegido ^3355FFArquero^000000.\n¿Quieres continuar?"
+    },
+    "E2OfAg": {
+        "en": "[1st Job Change]\nYou've chosen ^3355FFAcolyte^000000.\nWould you like to continue?",
+        "pt": "[Mudança de 1ª Classe]\nVocê escolheu ^3355FFNoviço^000000.\nGostaria de continuar?",
+        "es": "[1er Cambio de Clase]\nHas elegido ^3355FFAcólito^000000.\n¿Quieres continuar?"
+    },
+    "FGOfAg": {
+        "en": "[1st Job Change]\nYou've chosen ^3355FFMerchant^000000.\nWould you like to continue?",
+        "pt": "[Mudança de 1ª Classe]\nVocê escolheu ^3355FFMercador^000000.\nGostaria de continuar?",
+        "es": "[1er Cambio de Clase]\nHas elegido ^3355FFComerciante^000000.\n¿Quieres continuar?"
+    },
+    "FWOfAg": {
+        "en": "[1st Job Change]\nYou've chosen ^3355FFThief^000000.\nWould you like to continue?",
+        "pt": "[Mudança de 1ª Classe]\nVocê escolheu ^3355FFGatuno^000000.\nGostaria de continuar?",
+        "es": "[1er Cambio de Clase]\nHas elegido ^3355FFLadrón^000000.\n¿Quieres continuar?"
+    },
+    "FmOfAg": {
+        "en": "[1st Job Change]\nYou've chosen ^3355FFSuper Novice^000000.\nCorrect?",
+        "pt": "[Mudança de 1ª Classe]\nVocê escolheu ^3355FFSuperaprendiz^000000.\nCorreto?",
+        "es": "[1er Cambio de Clase]\nHas elegido ^3355FFSuperprincipiante^000000.\n¿Correcto?"
+    },
+    "F2OfAg": {
+        "en": "2-1st Job Change",
+        "pt": "2-Mudança de 1ª Classe",
+        "es": "[2-1º Cambio de Clase]"
+    },
+    "GGOfAg": {
+        "en": "[2-1st Job Change]\nI am a 2-1st Job change helper.\nEnter your Password\nor enter 0 to cancel.",
+        "pt": "[Mudança de Classe 2-1]\nEu sou um ajudante de Mudança de Classe 2-1.\nDigite sua senha\nou digite 0 para cancelar.",
+        "es": "[2-1º Cambio de Clase]\nSoy un ayudante de cambio de Clase 2-1.\nIntroduzca su contraseña\no introduzca 0 para cancelar."
+    },
+    "GWOfAg": {
+        "en": "[2-1st Job Change]\nWrong Password",
+        "pt": "[2-Mudança de 1ª Classe]\nSenha incorreta",
+        "es": "[2-1º Cambio de Clase]\nContraseña incorrecta"
+    },
+    "GmOfAg": {
+        "en": "[2-1st Job Change]\nYou have canceled.",
+        "pt": "[2-Mudança de 1ª Classe]\nVocê cancelou.",
+        "es": "[2-1º Cambio de Clase]\nHas cancelado."
+    },
+    "G2OfAg": {
+        "en": "[2-1st Job Change]\nPlease choose your job.",
+        "pt": "[2-Mudança de 1ª Classe]\nPor favor, escolha seu classe.",
+        "es": "[2-1º Cambio de Clase]\nPor favor, elija su clase."
+    },
+    "HGOfAg": {
+        "en": "Knight",
+        "pt": "Cavaleiro",
+        "es": "Caballero"
+    },
+    "HWOfAg": {
+        "en": "Priest",
+        "pt": "Sacerdote",
+        "es": "Sacerdote"
+    },
+    "HmOfAg": {
+        "en": "Wizard",
+        "pt": "Bruxo",
+        "es": "Hechicero"
+    },
+    "H2OfAg": {
+        "en": "Blacksmith",
+        "pt": "Ferreiro",
+        "es": "Herrero"
+    },
+    "IGOfAg": {
+        "en": "Hunter",
+        "pt": "Caçador",
+        "es": "Cazador"
+    },
+    "IWOfAg": {
+        "en": "Assassin",
+        "pt": "Mercenário",
+        "es": "Asesino"
+    },
+    "ImOfAg": {
+        "en": "[2-1st Job Change]\nYou've chosen ^3355FFKnight^000000.\nWould you like to continue?",
+        "pt": "[Mudança de Classe 2-1]\nVocê escolheu ^3355FFCavaleiro^000000.\nGostaria de continuar?",
+        "es": "[2-1º Cambio de Clase]\nHas elegido ^3355FFCaballero^000000.\n¿Quieres continuar?"
+    },
+    "I2OfAg": {
+        "en": "[2-1st Job Change]\nThank you for using this service.",
+        "pt": "[Mudança de Classe 2-1]\nObrigado por usar este serviço.",
+        "es": "[2-1º Cambio de Clase]\nGracias por utilizar este servicio."
+    },
+    "JGOfAg": {
+        "en": "[2-1st Job Change]\nYou've chosen ^3355FFPriest^000000.\nWould you like to continue?",
+        "pt": "[2-Mudança de 1ª Classe]\nVocê escolheu ^3355FFSacerdote^000000.\nGostaria de continuar?",
+        "es": "[2-1º Cambio de Clase]\nHas elegido ^3355FFSacerdote^000000.\n¿Quieres continuar?"
+    },
+    "JWOfAg": {
+        "en": "[2-1st Job Change]\nYou've chosen ^3355FFWizard^000000.\nWould you like to continue?",
+        "pt": "[2-Mudança de 1ª Classe]\nVocê escolheu ^3355FFBruxo^000000.\nGostaria de continuar?",
+        "es": "[2-1º Cambio de Clase]\nHas elegido ^3355FFHechicero^000000.\n¿Quieres continuar?"
+    },
+    "JmOfAg": {
+        "en": "[2-1st Job Change]\nYou've chosen ^3355FFBlacksmith^000000.\nWould you like to continue?",
+        "pt": "[2-Mudança de 1ª Classe]\nVocê escolheu ^3355FFFerreiro^000000.\nGostaria de continuar?",
+        "es": "[2-1º Cambio de Clase]\nHas elegido ^3355FFHerrero^000000.\n¿Quieres continuar?"
+    },
+    "J2OfAg": {
+        "en": "[2-1st Job Change]\nYou've chosen ^3355FFHunter^000000.\nWould you like to continue?",
+        "pt": "[2-Mudança de 1ª Classe]\nVocê escolheu ^3355FFCaçador^000000.\nGostaria de continuar?",
+        "es": "[2-1º Cambio de Clase]\nHas elegido ^3355FFCazador^000000.\n¿Desea continuar?"
+    },
+    "KGOfAg": {
+        "en": "[2-1st Job Change]\nYou've chosen ^3355FFAssassin^000000.\nWould you like to continue?",
+        "pt": "[2-Mudança de 1ª Classe]\nVocê escolheu ^3355FFMercenário^000000.\nGostaria de continuar?",
+        "es": "[2-1º Cambio de Clase]\nHas elegido ^3355FFAsesino^000000.\n¿Quieres continuar?"
+    },
+    "KWOfAg": {
+        "en": "[2-1st Job Change]\nI'm sorry, but that's not the correct password.",
+        "pt": "[2-Mudança de 1ª Classe]\nDesculpe-me, mas essa não é a senha correta.",
+        "es": "[2-1º Cambio de Clase]\nLo siento, pero esa no es la contraseña correcta."
+    },
+    "KmOfAg": {
+        "en": "2-2nd Job Change",
+        "pt": "2-Mudança de 2ª Classe",
+        "es": "2-2º Cambio de Clase"
+    },
+    "K2OfAg": {
+        "en": "[2-2nd Job Change]\nI am a 2-2nd Job change helper.\nEnter your Password\nor enter 0 to cancel.",
+        "pt": "[2-Mudança de 2ª Classe]\nSou um ajudante de Mudança de Classe 2-2.\nDigite sua senha\nou digite 0 para cancelar.",
+        "es": "[2-2º Cambio de Clase]\nSoy un ayudante de cambio de Clase 2-2.\nIntroduzca su contraseña\no introduzca 0 para cancelar."
+    },
+    "LGOfAg": {
+        "en": "[2-2nd Job Change]\nWrong Password",
+        "pt": "[2-Mudança de 2ª Classe]\nSenha incorreta",
+        "es": "[2-2º Cambio de Clase]\nContraseña incorrecta"
+    },
+    "LWOfAg": {
+        "en": "[2-2nd Job Change]\nYou have canceled.",
+        "pt": "[2-Mudança de 2ª Classe]\nVocê cancelou.",
+        "es": "[2-2º Cambio de Clase]\nHas cancelado."
+    },
+    "LmOfAg": {
+        "en": "[2-2nd Job Change]\nPlease choose your job.",
+        "pt": "[2-Mudança de 2ª Classe]\nPor favor, escolha seu classe.",
+        "es": "[2-2º Cambio de Clase]\nPor favor, elija su clase."
+    },
+    "L2OfAg": {
+        "en": "Crusader",
+        "pt": "Templário",
+        "es": "Cruzado"
+    },
+    "MGOfAg": {
+        "en": "Sage",
+        "pt": "Sábio",
+        "es": "Sabio"
+    },
+    "MWOfAg": {
+        "en": "Monk",
+        "pt": "Monge",
+        "es": "Monje"
+    },
+    "MmOfAg": {
+        "en": "Rogue",
+        "pt": "Arruaceiro",
+        "es": "Pícaro"
+    },
+    "M2OfAg": {
+        "en": "Bard",
+        "pt": "Bardo",
+        "es": "Bardo"
+    },
+    "NGOfAg": {
+        "en": "Dancer",
+        "pt": "Odalisca",
+        "es": "Bailarina"
+    },
+    "NWOfAg": {
+        "en": "Alchemist",
+        "pt": "Alquimista",
+        "es": "Alquimista"
+    },
+    "NmOfAg": {
+        "en": "[2-2nd Job Change]\nYou've chosen ^3355FFCrusader^000000.\nWould you like to continue?",
+        "pt": "[2-Mudança de 2ª Classe]\nVocê escolheu ^3355FFTemplário^000000.\nGostaria de continuar?",
+        "es": "[2-2º Cambio de Clase]\nHas elegido ^3355FFCruzado^000000.\n¿Quieres continuar?"
+    },
+    "N2OfAg": {
+        "en": "[2-2nd Job Change]\nThank you for using this service.",
+        "pt": "[2-Mudança de 2ª Classe]\nObrigado por usar este serviço.",
+        "es": "[2-2º Cambio de Clase]\nGracias por utilizar este servicio."
+    },
+    "OGOfAg": {
+        "en": "[2-2nd Job Change]\nYou've chosen ^3355FFSage^000000.\nWould you like to continue?",
+        "pt": "[2-Mudança de 2ª Classe]\nVocê escolheu ^3355FFSábio^000000.\nGostaria de continuar?",
+        "es": "[2-2º Cambio de Clase]\nHas elegido ^3355FFSabio^000000.\n¿Quieres continuar?"
+    },
+    "OWOfAg": {
+        "en": "[2-2nd Job Change]\nYou've chosen ^3355FFMonk^000000.\nWould you like to continue?",
+        "pt": "[2-Mudança de 2ª Classe]\nVocê escolheu ^3355FFMonge^000000.\nGostaria de continuar?",
+        "es": "[2-2º Cambio de Clase]\nHas elegido ^3355FFMonje^000000.\n¿Quieres continuar?"
+    },
+    "OmOfAg": {
+        "en": "[2-2nd Job Change]\nYou've chosen ^3355FFRogue^000000.\nWould you like to continue?",
+        "pt": "[2-Mudança de 2ª Classe]\nVocê escolheu ^3355FFArruaceiro^000000.\nGostaria de continuar?",
+        "es": "[2-2º Cambio de Clase]\nHas elegido ^3355FFPícaro^000000.\n¿Desea continuar?"
+    },
+    "O2OfAg": {
+        "en": "[2-2nd Job Change]\nYou've chosen ^3355FFBard^000000.\nWould you like to continue?",
+        "pt": "[2-Mudança de 2ª Classe]\nVocê escolheu ^3355FFBardo^000000.\nGostaria de continuar?",
+        "es": "[2-2º Cambio de Clase]\nHas elegido ^3355FFBardo^000000.\n¿Quieres continuar?"
+    },
+    "PGOfAg": {
+        "en": "[2-2nd Job Change]\nYou've chosen ^3355FFDancer^000000.\nCorrect?",
+        "pt": "[2-Mudança de 2ª Classe]\nVocê escolheu ^3355FFOdalisca^000000.\nCorreto?",
+        "es": "[2-2º Cambio de Clase]\nHas elegido ^3355FFBailarina^000000.\n¿Correcto?"
+    },
+    "PWOfAg": {
+        "en": "[2-2nd Job Change]\nYou've chosen ^3355FFAlchemist^000000.\nWould you like to continue?",
+        "pt": "[2-Mudança de 2ª Classe]\nVocê escolheu ^3355FFAlquimista^000000.\nGostaria de continuar?",
+        "es": "[2-2º Cambio de Clase]\nHas elegido ^3355FFAlquimista^000000.\n¿Quieres continuar?"
+    },
+    "PmOfAg": {
+        "en": "Extra Services",
+        "pt": "Serviços extras",
+        "es": "Servicios adicionales"
+    },
+    "P2OfAg": {
+        "en": "[Extra Services]\nI am a service helper.\nEnter your Password\nor enter 0 to cancel.",
+        "pt": "[Serviços extras]\nEu sou um ajudante de serviço.\nDigite sua senha\nou digite 0 para cancelar.",
+        "es": "[Servicios Extra]\nSoy un ayudante de servicio.\nIntroduzca su contraseña\no introduzca 0 para cancelar."
+    },
+    "QGOfAg": {
+        "en": "[Extra Services]\nWrong Password",
+        "pt": "[Serviços extras]\nSenha incorreta",
+        "es": "[Servicios adicionales]\nContraseña incorrecta"
+    },
+    "QWOfAg": {
+        "en": "[Extra Services]\nYou have canceled.",
+        "pt": "[Serviços extras]\nVocê cancelou.",
+        "es": "[Servicios Extra]\nHa cancelado."
+    },
+    "QmOfAg": {
+        "en": "[Extra Services]\nSelect the service you want.",
+        "pt": "[Serviços extras]\nSelecione o serviço desejado.",
+        "es": "[Servicios adicionales]\nSeleccione el servicio que desee."
+    },
+    "Q2OfAg": {
+        "en": "Storage Service",
+        "pt": "Serviço de armazenamento",
+        "es": "Servicio de almacenamiento"
+    },
+    "RGOfAg": {
+        "en": "Cart Service",
+        "pt": "Serviço de carrinho",
+        "es": "Servicio de carros"
+    },
+    "RWOfAg": {
+        "en": "Falcon Service",
+        "pt": "Serviço Falcão",
+        "es": "Servicio Falcon"
+    },
+    "RmOfAg": {
+        "en": "Peco Peco Service",
+        "pt": "Serviço Peco Peco",
+        "es": "Peco Peco Service"
+    },
+    "R2OfAg": {
+        "en": "[Extra Services]\nYou've chosen to use ^3355FFKafra Storage^000000.\nCorrect?",
+        "pt": "[Serviços extras]\nVocê optou por usar ^3355FFArmazém Kafra^000000.\nCorreto?",
+        "es": "[Servicios Extra]\nHas elegido utilizar ^3355FFAlmacén de Kafra^000000.\n¿Correcto?"
+    },
+    "SGOfAg": {
+        "en": "[Extra Services]\nYou've chosen to use ^3355FFPushcart^000000.\nCorrect?",
+        "pt": "[Serviços extras]\nVocê optou por usar ^3355FFPushcart^000000.\nCorreto?",
+        "es": "[Servicios Extra]\nHa elegido utilizar ^3355FFPushcart^000000.\n¿Es correcto?"
+    },
+    "SWOfAg": {
+        "en": "[Extra Services]\nSorry, your job can't use the cart",
+        "pt": "[Serviços extras]\nDesculpe, sua classe não pode usar o carrinho",
+        "es": "[Servicios Extra]\nLo sentimos, su clase no puede utilizar el carro"
+    },
+    "SmOfAg": {
+        "en": "[Extra Services]\nYou already have the cart.",
+        "pt": "[Serviços extras]\nVocê já tem o carrinho.",
+        "es": "[Servicios Extra]\nYa tienes el carrito."
+    },
+    "S2OfAg": {
+        "en": "[Extra Services]\nYou've chosen to rent a ^3355FFFalcon^000000.\nShall we continue?",
+        "pt": "[Serviços extras]\nVocê optou por alugar um ^3355FFFalcão^000000.\nVamos continuar?",
+        "es": "[Servicios Extra]\nHa elegido alquilar un ^3355FFFalcón^000000.\n¿Continuamos?"
+    },
+    "TGOfAg": {
+        "en": "[Extra Services]\nSorry, your job can't use Falcons.",
+        "pt": "[Serviços extras]\nDesculpe, sua classe não pode usar Falcãos.",
+        "es": "[Servicios Extra]\nLo siento, tu clase no puede usar Halcones."
+    },
+    "TWOfAg": {
+        "en": "[Extra Services]\nYou've chosen to rent a ^3355FFPeco Peco^000000.\nShall we continue?",
+        "pt": "[Serviços extras]\nVocê optou por alugar um ^3355FFPeco Peco^000000.\nVamos continuar?",
+        "es": "[Servicios Extra]\nHa elegido alquilar un ^3355FFPeco Peco^000000.\n¿Continuamos?"
+    },
+    "TmOfAg": {
+        "en": "[Extra Services]\nSorry, your job can't use Peco Pecos.",
+        "pt": "[Serviços extras]\nDesculpe, sua classe não pode usar o Peco Pecos.",
+        "es": "[Servicios Extra]\nLo sentimos, su clase no puede utilizar Peco Pecos."
+    },
+    "T2OfAg": {
+        "en": "[Extra Services]\nWrong Password.",
+        "pt": "[Serviços extras]\nSenha incorreta.",
+        "es": "[Servicios Extra]\nContraseña incorrecta."
+    },
+    "UGOfAg": {
+        "en": "WoE Merchant",
+        "pt": "Comerciante de WoE",
+        "es": "Comerciante WoE"
+    },
+    "UWOfAg": {
+        "en": "Swordman/Archer Skill",
+        "pt": "Habilidade de Espadachim/Arqueiro",
+        "es": "Habilidad Espadachín/Arquero"
+    },
+    "UmOfAg": {
+        "en": "HP Recovery While Moving",
+        "pt": "Recuperar HP em Movimento",
+        "es": "Recuperación de HP al caminar"
+    },
+    "U2OfAg": {
+        "en": "Fatal Blow",
+        "pt": "Golpe Fatal",
+        "es": "Golpe mortal"
+    },
+    "VGOfAg": {
+        "en": "Berserk",
+        "pt": "Berserk",
+        "es": "Berserk"
+    },
+    "VWOfAg": {
+        "en": "Arrow Crafting",
+        "pt": "Criação de flechas",
+        "es": "Fabricación de flechas"
+    },
+    "VmOfAg": {
+        "en": "Arrow Repel",
+        "pt": "Arrow Repel",
+        "es": "Arrow Repel"
+    },
+    "V2OfAg": {
+        "en": "Your job is not proper.",
+        "pt": "Sua classe não é adequado.",
+        "es": "Tu clase no es apropiado."
+    },
+    "WGOfAg": {
+        "en": "Novice/Thief Skill",
+        "pt": "Habilidade de Aprendiz/Gatuno",
+        "es": "Habilidad Novato/Ladrón"
+    },
+    "WWOfAg": {
+        "en": "First Aid",
+        "pt": "Primeiros socorros",
+        "es": "Primeros auxilios"
+    },
+    "WmOfAg": {
+        "en": "Play Dead",
+        "pt": "Jogar morto",
+        "es": "Hazte el muerto"
+    },
+    "W2OfAg": {
+        "en": "Sand Attack",
+        "pt": "Ataque de areia",
+        "es": "Ataque de arena"
+    },
+    "XGOfAg": {
+        "en": "Backslide",
+        "pt": "Retrocesso",
+        "es": "Retroceso"
+    },
+    "XWOfAg": {
+        "en": "Find Stone",
+        "pt": "Encontrar pedra",
+        "es": "Encontrar piedra"
+    },
+    "XmOfAg": {
+        "en": "Stone Fling",
+        "pt": "Flutuação de pedras",
+        "es": "Fling de piedra"
+    },
+    "X2OfAg": {
+        "en": "Mage/Merchant/Acolyte",
+        "pt": "Mago/Mercador/Noviço",
+        "es": "Mago/Mercader/Acolita"
+    },
+    "YGOfAg": {
+        "en": "Energy Coat",
+        "pt": "Casaco de energia",
+        "es": "Capa Energética"
+    },
+    "YWOfAg": {
+        "en": "Cart Revolution",
+        "pt": "Revolução do carrinho",
+        "es": "Revolución de los carros"
+    },
+    "YmOfAg": {
+        "en": "Change Cart",
+        "pt": "Alterar carrinho",
+        "es": "Cambiar carro"
+    },
+    "Y2OfAg": {
+        "en": "Crazy Uproar",
+        "pt": "Loucura",
+        "es": "Loco alboroto"
+    },
+    "ZGOfAg": {
+        "en": "Holy Light",
+        "pt": "Luz Sagrada",
+        "es": "Luz sagrada"
+    },
+    "ZWOfAg": {
+        "en": "Transcendent Class",
+        "pt": "Classe Transcendente",
+        "es": "Clase trascendente"
+    },
+    "ZmOfAg": {
+        "en": "[Huozelo]\nWho are you?",
+        "pt": "[Huozelo]\nQuem é você?",
+        "es": "[Huozelo]\n¿Quién es usted?"
+    },
+    "Z2OfAg": {
+        "en": "[Huozelo]\nWrong! Make like a tree and get the hell outta here~",
+        "pt": "[Huozelo]\nErrado! Faça como uma árvore e dê o fora daqui!",
+        "es": "[Huozelo]\n¡Incorrecto! Haz como un árbol y lárgate de aquí~"
+    },
+    "aGOfAg": {
+        "en": "[Huozelo]\nHey, I didn't even give you the option to cancel, did I?",
+        "pt": "[Huozelo]\nEi, eu nem sequer lhe dei a opção de cancelar, não é?",
+        "es": "[Huozelo]\nOye, ni siquiera te di la opción de cancelar, ¿verdad?"
+    },
+    "aWOfAg": {
+        "en": "[Huozelo]\nWhat do you want to be?",
+        "pt": "[Huozelo]\nO que você quer ser?",
+        "es": "[Huozelo]\n¿Qué quieres ser?"
+    },
+    "amOfAg": {
+        "en": "High Novice",
+        "pt": "Aprendiz T.",
+        "es": "Principiante T."
+    },
+    "a2OfAg": {
+        "en": "High 1st",
+        "pt": "Transclasse 1º",
+        "es": "Trancedente 1ª"
+    },
+    "bGOfAg": {
+        "en": "Trans 2-1st",
+        "pt": "Transclasse 2-1ª",
+        "es": "Transcedente 2-1"
+    },
+    "bWOfAg": {
+        "en": "Trans 2-2nd",
+        "pt": "Transclasse 2-2ª",
+        "es": "Transcedente 2-2"
+    },
+    "bmOfAg": {
+        "en": "^FFFFFFReset Trans Status^000000",
+        "pt": "^FFFFFFReset Trans Status^000000",
+        "es": "^FFFFFFRestablecer Estado Trans^000000"
+    },
+    "b2OfAg": {
+        "en": "[Huozelo]\nCome back after you are ready.\nLeave me also until then.",
+        "pt": "[Huozelo]\nVolte quando estiver pronto.\nDeixe-me também até lá.",
+        "es": "[Huozelo]\nVuelve cuando estés listo.\nDéjame a mí también hasta entonces."
+    },
+    "cGOfAg": {
+        "en": "[Huozelo]\nAlright, player.\nMy work here is done.",
+        "pt": "[Huozelo]\nMuito bem, jogador.\nMeu trabalho aqui está concluído.",
+        "es": "[Huozelo]\nMuy bien, jugador.\nMi trabajo aquí ha terminado."
+    },
+    "cWOfAg": {
+        "en": "[Huozelo]\nHigh First Class?\nAlright!",
+        "pt": "[Huozelo]\nPrimeira classe alta?\nMuito bem!",
+        "es": "[Huozelo]\n¿Alta Primera Clase?\n¡Muy bien!"
+    },
+    "cmOfAg": {
+        "en": "[Huozelo]\nIs that enough?\nLeave me alone.",
+        "pt": "[Huozelo]\nIsso é suficiente?\nMe deixe em paz.",
+        "es": "[Huozelo]\n¿Es suficiente?\nDejadme en paz."
+    },
+    "c2OfAg": {
+        "en": "[Huozelo]\nStop it!",
+        "pt": "[Huozelo]\nPare com isso!",
+        "es": "[Huozelo]\n¡Basta!"
+    },
+    "dGOfAg": {
+        "en": "[Huozelo]\nYou want to change to a\nTranscendent 2-1 Job, eh?",
+        "pt": "[Huozelo]\nVocê quer mudar para um\nTransclasse 2-1, hein?",
+        "es": "[Huozelo]\n¿Quieres cambiar a un\nClase Trascendente 2-1, ¿eh?"
+    },
+    "dWOfAg": {
+        "en": "Lord Knight",
+        "pt": "Lorde",
+        "es": "Lord Caballero"
+    },
+    "dmOfAg": {
+        "en": "High Wizard",
+        "pt": "Arquimaga",
+        "es": "Gran Hechicero"
+    },
+    "d2OfAg": {
+        "en": "Sniper",
+        "pt": "Atirador de Elite",
+        "es": "Francotirador"
+    },
+    "eGOfAg": {
+        "en": "High Priest",
+        "pt": "Sumo Sacerdote",
+        "es": "Sumo Sacerdote"
+    },
+    "eWOfAg": {
+        "en": "MasterSmith",
+        "pt": "Mestre-Ferreiro",
+        "es": "Maestro Herrero"
+    },
+    "emOfAg": {
+        "en": "Assassin Cross",
+        "pt": "Algoz",
+        "es": "Asesino Cruzado"
+    },
+    "e2OfAg": {
+        "en": "[Huozelo]\nHuh. That's\nmore like it!",
+        "pt": "[Huozelo]\nHuh. Isso é\nmais do que isso!",
+        "es": "[Huozelo]\nHuh. Eso es\n¡mucho mejor!"
+    },
+    "fGOfAg": {
+        "en": "[Huozelo]\nYou want to change to a\nTranscendent 2-2 Job, eh?",
+        "pt": "[Huozelo]\nVocê quer mudar para um\nTransclasse 2-2, hein?",
+        "es": "[Huozelo]\n¿Quieres cambiar a un\nClase Trascendente 2-2, ¿eh?"
+    },
+    "fWOfAg": {
+        "en": "Paladin",
+        "pt": "Paladino",
+        "es": "Paladín"
+    },
+    "fmOfAg": {
+        "en": "Professor",
+        "pt": "Professor",
+        "es": "Erudito"
+    },
+    "f2OfAg": {
+        "en": "Minstrel",
+        "pt": "Menestrel",
+        "es": "Ministril"
+    },
+    "gGOfAg": {
+        "en": "Gypsy",
+        "pt": "Cigana",
+        "es": "Gitana"
+    },
+    "gWOfAg": {
+        "en": "Champion",
+        "pt": "Campeão",
+        "es": "Campeón"
+    },
+    "gmOfAg": {
+        "en": "Biochemist",
+        "pt": "Criador",
+        "es": "Bioquímico"
+    },
+    "g2OfAg": {
+        "en": "Stalker",
+        "pt": "Desordeiro",
+        "es": "Perseguidor"
+    },
+    "hGOfAg": {
+        "en": "[Huozelo]\nStop it",
+        "pt": "[Huozelo]\nPare com isso",
+        "es": "[Huozelo]\nPara"
+    },
+    "hWOfAg": {
+        "en": "[Huozelo]\nAlright. Keep it\nreal, street soldier.",
+        "pt": "[Huozelo]\nMuito bem. Continue assim\nreal, soldado de rua.",
+        "es": "[Huozelo]\nMuy bien. Mantenlo\nreal, soldado de la calle."
+    },
+    "hmOfAg": {
+        "en": "[Huozelo]\nWhat?? This is kinda dangerous ...?",
+        "pt": "[Huozelo]\nO quê?? Isso é meio perigoso...?",
+        "es": "[Huozelo]\n¿Qué? ¿Esto es un poco peligroso...?"
+    },
+    "h2OfAg": {
+        "en": "[Huozelo]\nNah, that ain't it.",
+        "pt": "[Huozelo]\nNão, não é isso.",
+        "es": "[Huozelo]\nNo, no es eso."
+    },
+    "iGOfAg": {
+        "en": "[Huozelo]\nCanceling?",
+        "pt": "[Huozelo]\nCancelando?",
+        "es": "[Huozelo]\n¿Cancelar?"
+    },
+    "iWOfAg": {
+        "en": "[Huozelo]\nOkay, currently your transcendent variable is ^3355FF{0}^000000. You might\nwant to ask what that means.\nAnyway, choose a number between 0 and 13.",
+        "pt": "[Huozelo]\nCerto, atualmente sua variável transcendente é ^3355FF{0}^000000. Talvez você queira\nperguntar o que isso significa.\nDe qualquer forma, escolha um número entre 0 e 13.",
+        "es": "[Huozelo]\nBien, actualmente tu variable trascendente es ^3355FF{0}^000000. Usted podría\npreguntar qué significa eso.\nDe todos modos, elige un número entre 0 y 13."
+    },
+    "imOfAg": {
+        "en": "[Huozelo]\nAlright, I changed you",
+        "pt": "[Huozelo]\nTudo bem, eu mudei você",
+        "es": "[Huozelo]\nMuy bien, te he cambiado"
+    },
+    "i2OfAg": {
+        "en": "Hair Dresser",
+        "pt": "Cabeleireiro",
+        "es": "Peluquería"
+    },
+    "jGOfAg": {
+        "en": "[Jovovich]\nHello! Come here and sit; hurry!",
+        "pt": "[Jovovich]\nOlá! Venha aqui e sente-se; rápido!",
+        "es": "[Jovovich]\n¡Hola! Ven aquí y siéntate; ¡deprisa!"
+    },
+    "jWOfAg": {
+        "en": "Change Hair Color.",
+        "pt": "Mudar a cor do cabelo.",
+        "es": "Cambiar el color del pelo."
+    },
+    "jmOfAg": {
+        "en": "Cancel.",
+        "pt": "Cancelar",
+        "es": "Cancela."
+    },
+    "j2OfAg": {
+        "en": "[Jovovich]\nNothing is necessary.\nJust choose any color you want.",
+        "pt": "[Jovovich]\nNão é necessário nada.\nBasta escolher a cor que você quiser.",
+        "es": "[Jovovich]\nNada es necesario.\nElige el color que quieras."
+    },
+    "kGOfAg": {
+        "en": "[Jovovich]\nSo how do you like it? Do you want to try a different color?",
+        "pt": "[Jovovich]\nEntão, o que você acha? Quer experimentar uma cor diferente?",
+        "es": "[Jovovich]\n¿Qué te parece? ¿Quieres probar otro color?"
+    },
+    "kWOfAg": {
+        "en": "[Jovovich]\nAlright then, please tell me which hair color you'd like to try.",
+        "pt": "[Jovovich]\nMuito bem, diga-me qual cor de cabelo você gostaria de experimentar.",
+        "es": "[Jovovich]\nMuy bien entonces, por favor, dime qué color de pelo te gustaría probar."
+    },
+    "kmOfAg": {
+        "en": "[Jovovich]\nWell ... sprry, I should have done better ...\nI will do better next time.",
+        "pt": "[Jovovich]\nBem... primavera, eu deveria ter feito melhor...\nFarei melhor da próxima vez.",
+        "es": "[Jovovich]\nBueno ... sprry, debería haberlo hecho mejor ...\nLo haré mejor la próxima vez."
+    },
+    "k2OfAg": {
+        "en": "Red",
+        "pt": "Vermelho",
+        "es": "Rojo"
+    },
+    "lGOfAg": {
+        "en": "Yellow",
+        "pt": "Amarelo",
+        "es": "Amarillo"
+    },
+    "lWOfAg": {
+        "en": "Purple",
+        "pt": "Roxo",
+        "es": "Morado"
+    },
+    "lmOfAg": {
+        "en": "Orange",
+        "pt": "Laranja",
+        "es": "Naranja"
+    },
+    "l2OfAg": {
+        "en": "Green",
+        "pt": "Verde",
+        "es": "Verde"
+    },
+    "mGOfAg": {
+        "en": "Blue",
+        "pt": "Azul",
+        "es": "Azul"
+    },
+    "mWOfAg": {
+        "en": "White",
+        "pt": "Branco",
+        "es": "Blanco"
+    },
+    "mmOfAg": {
+        "en": "Black",
+        "pt": "Preto",
+        "es": "Negro"
+    },
+    "m2OfAg": {
+        "en": "[Jovovich]\nIt seems that you like the color of hair~",
+        "pt": "[Jovovich]\nParece que você gosta da cor do cabelo~",
+        "es": "[Jovovich]\nParece que te gusta el color del pelo~"
+    },
+    "nGOfAg": {
+        "en": "[Jovovich]\nOh, you changed your mind about changing your hair color? Oh, alright ...",
+        "pt": "[Jovovich]\nOh, você mudou de ideia sobre mudar a cor do seu cabelo? Ah, tudo bem...",
+        "es": "[Jovovich]\nOh, ¿has cambiado de opinión sobre cambiar tu color de pelo? Oh, está bien ..."
+    },
+    "nWOfAg": {
+        "en": "[Jovovich]\nExcuse me, but ... The color you chose is the color of your hair right now. Please select something different.",
+        "pt": "[Jovovich]\nDesculpe-me, mas... A cor que você escolheu é a cor do seu cabelo no momento. Por favor, selecione algo diferente.",
+        "es": "[Jovovich]\nDisculpe, pero ... El color que eligió es el color de su cabello en este momento. Por favor, seleccione algo diferente."
+    },
+    "nmOfAg": {
+        "en": "[Jovovich]\nIt doesn't matter if you're a man or a woman ... Beauty is everything!",
+        "pt": "[Jovovich]\nNão importa se você é homem ou mulher ... A beleza é tudo!",
+        "es": "[Jovovich]\nNo importa si eres un hombre o una mujer ... ¡La belleza lo es todo!"
+    },
+    "n2OfAg": {
+        "en": "Engrave Your Name",
+        "pt": "Grave seu nome",
+        "es": "Grabe su nombre"
+    },
+    "oGOfAg": {
+        "en": "[Namer]\nIf an item is named after a\nspecific character that's been\ndeleted, I can give you a new one with the name of the character\nyou're on right now.\nBut don't be carrying those named items on you!",
+        "pt": "[Nomeador]\nSe um item tiver o nome de um\npersonagem específico que foi\nexcluído, posso lhe dar um novo com o nome do personagem\nem que você está agora.\nMas não carregue esses itens nomeados com você!",
+        "es": "[Namer]\nSi un objeto lleva el nombre de un\npersonaje específico que ha sido\neliminado, puedo darte uno nuevo con el nombre del personaje\nen el que estás ahora.\nPero no lleves esos objetos con nombre encima."
+    },
+    "oWOfAg": {
+        "en": "20 Hand-Made Chocolate",
+        "pt": "20 Chocolate feito à mão",
+        "es": "20 Chocolate artesanal"
+    },
+    "omOfAg": {
+        "en": "20 Handmade White Chocolate",
+        "pt": "20 Chocolate branco artesanal",
+        "es": "20 Chocolate blanco artesanal"
+    },
+    "o2OfAg": {
+        "en": "Santa Hat",
+        "pt": "Chapéu de Papai Noel",
+        "es": "Gorro de Papá Noel"
+    },
+    "pGOfAg": {
+        "en": "Helmet of Orc Hero",
+        "pt": "Capacete do herói orc",
+        "es": "Casco de héroe orco"
+    },
+    "pWOfAg": {
+        "en": "Christmas Gold Ring",
+        "pt": "Anel de ouro de Natal",
+        "es": "Anillo de oro de Navidad"
+    },
+    "pmOfAg": {
+        "en": "Christmas Silver Ring",
+        "pt": "Anel de prata de Natal",
+        "es": "Anillo de plata de Navidad"
+    },
+    "p2OfAg": {
+        "en": "20 Chocolate Drink",
+        "pt": "20 Bebida de chocolate",
+        "es": "20 Bebida de chocolate"
+    },
+    "qGOfAg": {
+        "en": "Gift Box",
+        "pt": "Caixa de presente",
+        "es": "Caja de regalo"
+    },
+    "qWOfAg": {
+        "en": "Gift Pack",
+        "pt": "Pacote de presente",
+        "es": "Paquete de regalo"
+    },
+    "qmOfAg": {
+        "en": "[Namer]\nI asked you not to carry any of these named items.\nPut them in your Kafra storage.",
+        "pt": "[Namer]\nEu lhe pedi para não carregar nenhum desses itens nomeados.\nColoque-os em seu depósito da Kafra.",
+        "es": "[Namer]\nTe pedí que no llevaras ninguno de estos objetos nombrados.\nPonlos en tu almacén Kafra."
+    },
+    "q2OfAg": {
+        "en": "[Namer]\nCompleted.",
+        "pt": "[Namer]\nConcluído.",
+        "es": "[Namer]\nCompletado."
+    },
+    "rGOfAg": {
+        "en": "[Namer]\nYou don't have any chocolates! Where do you want me to write a name?",
+        "pt": "[Namer]\nVocê não tem chocolates! Onde você quer que eu escreva um nome?",
+        "es": "[Namer]\n¡No tienes bombones! ¿Dónde quieres que escriba un nombre?"
+    },
+    "rWOfAg": {
+        "en": "[Namer]\nComplete.",
+        "pt": "[Namer]\nCompleto.",
+        "es": "[Namer]\nCompleto."
+    },
+    "rmOfAg": {
+        "en": "[Namer]\nThere's no gift box. Where should I carve my name?",
+        "pt": "[Namer]\nNão há caixa de presente. Onde devo gravar meu nome?",
+        "es": "[Namer]\nNo hay caja de regalo. ¿Dónde debo grabar mi nombre?"
+    },
+    "r2OfAg": {
+        "en": "[Namer]\nI told you to leave those carved ones.\nIt'll cause trouble ...",
+        "pt": "[Namer]\nEu lhe disse para deixar essas esculturas.\nIsso vai causar problemas...",
+        "es": "[Namer]\nTe dije que dejaras esos tallados.\nCausará problemas..."
+    },
+    "sGOfAg": {
+        "en": "[Namer]\nWhat's this; there's no Gift Pack. Where should I carve my name?",
+        "pt": "[Namer]\nO que é isso? Não há nenhum pacote de presente. Onde devo gravar meu nome?",
+        "es": "[Namer]\n¿Qué es esto? No hay Paquete de Regalos. ¿Dónde debo grabar mi nombre?"
+    },
+    "sWOfAg": {
+        "en": "Extend job chaning helper",
+        "pt": "Ampliar o auxiliar de troca de tarefas",
+        "es": "Ayudante de Cambio de Clase Ampliado"
+    },
+    "smOfAg": {
+        "en": "[Extend job changing helper]\nI'm a helper for extending job changing\nInput the password\nIf you want to cancel, press 0.",
+        "pt": "[Ajudante para estender a Mudança de Classe]\nSou um ajudante para estender a Mudança de Classe\nDigite a senha\nSe quiser cancelar, pressione 0.",
+        "es": "[Ayudante de Cambio de Clase Ampliado]\nSoy un ayudante para ampliar el cambio de clase\nIntroduzca la contraseña\nSi desea cancelar, pulse 0."
+    },
+    "s2OfAg": {
+        "en": "[Extend job changing helper]\nYou entered the wrong password",
+        "pt": "[Estender o auxiliar de Mudança de Classe]\nVocê digitou a senha errada",
+        "es": "[Ayudante de Cambio de Clase Ampliado]\nHa introducido una contraseña incorrecta"
+    },
+    "tGOfAg": {
+        "en": "[Extend job changing helper]\nCanceled",
+        "pt": "[Estender o auxiliar de Mudança de Classe]\nCancelado",
+        "es": "[Ayudante de Cambio de Clase Ampliado]\nCancelado"
+    },
+    "tWOfAg": {
+        "en": "[Extend job changing helper]\nChoose what you want to change the job.",
+        "pt": "[Ampliar o auxiliar de alteração de trabalho]\nEscolha o que você deseja alterar no trabalho.",
+        "es": "[Ayudante de Cambio de Clase Ampliado]\nElija lo que desea cambiar el clase."
+    },
+    "tmOfAg": {
+        "en": "TAEKWON",
+        "pt": "TAEKWON",
+        "es": "TAEKWON"
+    },
+    "t2OfAg": {
+        "en": "NINJA",
+        "pt": "NINJA",
+        "es": "NINJA"
+    },
+    "uGOfAg": {
+        "en": "GUNSLINGER",
+        "pt": "JUSTICEIRO",
+        "es": "PISTOLERO"
+    },
+    "uWOfAg": {
+        "en": "STAR",
+        "pt": "MESTRE TAEKWON",
+        "es": "MAESTRO DE TAEKWON"
+    },
+    "umOfAg": {
+        "en": "LINKER",
+        "pt": "ESPIRITUALISTA",
+        "es": "VINCULADOR DE ALMAS"
+    },
+    "u2OfAg": {
+        "en": "[Extend job changing helper]\n^3355FFTAEKWON^000000will be changed.\nis that right?",
+        "pt": "[Extend job changing helper]\n^3355FFTAEKWON^000000será alterado.\nEstá certo?",
+        "es": "[Ayudante de Cambio de Clase Ampliado]\n^3355FFTAEKWON^000000será cambiado.\n¿Es correcto?"
+    },
+    "vGOfAg": {
+        "en": "Yes.",
+        "pt": "Sim.",
+        "es": "Sí."
+    },
+    "vWOfAg": {
+        "en": "No.",
+        "pt": "Não.",
+        "es": "No."
+    },
+    "vmOfAg": {
+        "en": "[Extend job changing helper]\nThank you for using this service.",
+        "pt": "[Auxiliar de Mudança de Classe estendido]\nObrigado por usar este serviço.",
+        "es": "[Ayudante de Cambio de Clase Ampliado]\nGracias por utilizar este servicio."
+    },
+    "v2OfAg": {
+        "en": "[Extend job changing helper]\n^3355FFNINJA^000000will be changed.\nis that right?",
+        "pt": "[Estender o auxiliar de alteração de trabalho]\n^3355FFNINJA^000000será alterado.\nEstá certo?",
+        "es": "[Ayudante de Cambio de Clase Ampliado]\n^3355FFNINJA^000000será cambiado.\n¿Es correcto?"
+    },
+    "wGOfAg": {
+        "en": "[Extend job changing helper]\n^3355FFGUNSLINGER^000000will be changed.\nis that right?",
+        "pt": "[Estender o auxiliar de Mudança de Classe]\n^3355FFJUSTICEIRO^000000será alterado.\nEstá certo?",
+        "es": "[Ayudante de Cambio de Clase Ampliado]\n^3355FFPISTOLERO^000000será cambiado.\n¿Es correcto?"
+    },
+    "wWOfAg": {
+        "en": "[Extend job changing helper]\n^3355FFSTAR^000000will be changed.\nis that right?",
+        "pt": "[Estender o auxiliar de Mudança de Classe]\n^3355FFMESTRE TAEKWON^000000será alterado.\nEstá certo?",
+        "es": "[Ayudante de Cambio de Clase Ampliado]\n^3355FFMAESTRO TAEKWON^000000será cambiado.\n¿Es correcto?"
+    },
+    "wmOfAg": {
+        "en": "[Extend job changing helper]\n^3355FFLINKER^000000will be changed.\nis that right?",
+        "pt": "[Estender o auxiliar de alteração de trabalho]\n^3355FFESPIRITUALISTA^000000será alterado.\nEstá certo?",
+        "es": "[Ayudante de Cambio de Clase Ampliado]\n^3355FFVINCULADOR DE ALMAS^000000será cambiado.\n¿Es correcto?"
+    }
+}

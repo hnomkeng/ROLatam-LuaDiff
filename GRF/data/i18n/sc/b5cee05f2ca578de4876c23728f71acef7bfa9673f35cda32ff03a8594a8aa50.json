@@ -1,0 +1,2362 @@
+{
+    "IELwAg": {
+        "en": "Information staff",
+        "pt": "Guia da Cidade",
+        "es": "Personal de información"
+    },
+    "IULwAg": {
+        "en": "Quest cannot be continued due to the inventory being full.\nPlease try it again after re-organizing your items.",
+        "pt": "Muitos itens, muitos itens...\nDeixe alguns itens para trás e tente novamente.",
+        "es": "La misión no puede continuar debido a que el inventario está lleno.\nPor favor, inténtalo de nuevo después de reorganizar tus objetos."
+    },
+    "IkLwAg": {
+        "en": "[Information staff]\nHi, how are you?\nI am in charge of navigation directions for Izlude's key locations. Do you want to play a simple game?",
+        "pt": "[Guia da Cidade]\nSaudações.\nSou responsável por guiar aventureiros por Izlude.\nEu gostaria de sugerir uma pequena brincadeira com a ferramenta de Guia, pode ser?",
+        "es": "[Personal de información]\nHola, ¿cómo estás?\nYo me encargo de las direcciones de navegación de los lugares de importancia de Izlude. ¿Quieres jugar un juego fácil?"
+    },
+    "I0LwAg": {
+        "en": "Sure, let's play!",
+        "pt": "Sim, por favor.",
+        "es": "¡Claro, juguemos!"
+    },
+    "JELwAg": {
+        "en": "I already know how to navigate.",
+        "pt": "Já sei de tudinho.",
+        "es": "Ya sé cómo navegar."
+    },
+    "JULwAg": {
+        "en": "[Information staff]\nFirst of all, how to check the mini-map.\nYou can check your location through the mini-map at the top right of the screen",
+        "pt": "[Guia da Cidade]\nPrimeiro, como usar o minimapa.\nVocê poder ver sua localização atual no minimapa do canto superior direito da tela.",
+        "es": "[Personal de información]\nEn primer lugar, veamos cómo ver el minimapa.\nPuedes ver tu ubicación en el minimapa situado en la parte superior derecha de la pantalla."
+    },
+    "JkLwAg": {
+        "en": "[Information staff]\nIf you receive information on a town or a city, a waypoint ^4D4DFF+^000000 can be marked on the map.",
+        "pt": "[Guia da Cidade]\nSe uma missão estiver disponível, um ^4D4DFF+ amarelo^000000 aparecerá no minimapa.",
+        "es": "[Personal de información]\nSi recibes información sobre un pueblo o una ciudad, puedes marcar una ruta ^4D4DFF+^000000 en el mapa."
+    },
+    "J0LwAg": {
+        "en": "[Information staff]\nPress ^4D4DFF [Ctrl] and [ ~ ] on your keyboard and you can see the world map^000000.",
+        "pt": "[Guia da Cidade]\nSe pressionar as teclas ^4D4DFFCtrl + '^000000, um mapa expandido aparecerá na tela.\nAtalho meio difícil esse Ctrl + ', né?",
+        "es": "[Personal de información]\nPresiona ^4D4DFF [Ctrl] y [Ñ] en tu teclado y podrás ver el mapa general^000000."
+    },
+    "KELwAg": {
+        "en": "[Information staff]\nThrough the ^4D4DFF world map you can check the location of you, your party members and the level of monsters in the area.^000000",
+        "pt": "[Guia da Cidade]\nNo mapa expandido você pode ver a sua localização, a de seus membros do grupo e o nível dos monstros em cada área.",
+        "es": "[Personal de información]\nEn el ^4D4DFF mapa general, podrás comprobar tu ubicación, la de los miembros de tu grupo y el nivel de los monstruos de la zona.^000000"
+    },
+    "KULwAg": {
+        "en": "[Information staff]\nThis is useful info to remember.\nNow then, should we play a simple game?",
+        "pt": "[Guia da Cidade]\nEssa era uma informação básica, impossível de passar batida.\nVamos prosseguir com a brincadeira?",
+        "es": "[Personal de información]\nEs útil recordar esta información.\nAhora, ¿quieres que juguemos un juego fácil?"
+    },
+    "KkLwAg": {
+        "en": "[Information staff]\nI will ^4D4DFF mark three specific locations on the mini-map.^000000\nPlease ^4D4DFFvisit those locations ^000000 using the waypoints as reference.",
+        "pt": "[Guia da Cidade]\nPrimeiramente, vou mostrar algumas localizações no minimapa.\nOlhe para o mapa e encontre o lugar!",
+        "es": "[Personal de información]\nMarcaré ^4D4DFF tres lugares específicos en el minimapa.^000000\nPor favor, ^4D4DFFvisita esos lugares ^000000 usando las rutas como referencia."
+    },
+    "K0LwAg": {
+        "en": "[Information staff]\nThink of it as a treasure hunt and go. \nI've hidden some useful items there.",
+        "pt": "[Guia da Cidade]\nVá procurar como se estivesse atrás de um tesouro.",
+        "es": "[Personal de información]\nPiensa que es como una búsqueda del tesoro y ve. \nEscondí algunos objetos útiles allí."
+    },
+    "LELwAg": {
+        "en": "[Information staff]\nVist me again after going by all three locations.\nI will check up on it.",
+        "pt": "[Guia da Cidade]\nDepois de encontrar os três locais, venha falar comigo.\nSaberei se tiver encontrado as três.",
+        "es": "[Personal de información]\nVisítame de nuevo después de pasar por los tres lugares.\nLuego, lo revisaré."
+    },
+    "LULwAg": {
+        "en": "[Information staff]\nAh, there' somebody who started out right before you!\nIf you don't hurry that person will take all the items!\nSo, run!",
+        "pt": "[Guia da Cidade]\nQuase esqueci... Tem alguém que começou primeiro que você!\nSe você não se apressar, todos os tesouros sumirão!\nVá, vá logo!",
+        "es": "[Personal de información]\n¡Ah, hay alguien que empezó justo antes que tú!\n¡Si no te das prisa, esa persona se llevará todos los objetos!\n¡Corre!"
+    },
+    "LkLwAg": {
+        "en": "[Information staff]\nIs that so?\nThen, I will return to my original form as an information staff.",
+        "pt": "[Guia da Cidade]\nPrecisa de ajuda para chegar em algum lugar de Izlude?\nClique no ^1133DDNome do Lugar^000000 e guiarei você com o ^1133DDSistema de Navegação^000000.",
+        "es": "[Personal de información]\n¿De verdad?\nDespués, volveré a mi forma original de personal de información."
+    },
+    "L0LwAg": {
+        "en": "[Information staff]\nWhat's with the long face?\nIt looks like you found all the locations I marked.",
+        "pt": "[Guia da Cidade]\nEi, porque tá me olhando assim?\nAcho que você conferiu todas as localizações possíveis.",
+        "es": "[Personal de información]\n¿Por qué esa cara larga?\nParece que encontraste todos los lugares que marqué."
+    },
+    "MELwAg": {
+        "en": "[Rumin]\nTurtle...",
+        "pt": "[Rumin]\nVocê demorou...\nEsperei tanto, mas tanto, mas tanto que já estava cansado de esperar...",
+        "es": "[Rumin]\nTortuga…"
+    },
+    "MULwAg": {
+        "en": "What!",
+        "pt": "O quê?",
+        "es": "¡Qué!"
+    },
+    "MkLwAg": {
+        "en": "[Rumin]\nBecause you are too slow.\nYes, it is. I have been waiting for you for what seems like forever.",
+        "pt": "[Rumin]\nPorque você é muito lento.\nSim, é isso mesmo. Estou esperando por você há uma eternidade.",
+        "es": "[Rumin]\nPorque eres demasiado lento.\nSí, así es. Siento que llevo esperándote una eternidad."
+    },
+    "M0LwAg": {
+        "en": "[Rumin]\n............Shall I share with you?",
+        "pt": "[Rumin]\nQuer dividir os ganhos?",
+        "es": "[Rumin]\n…………¿Debería compartir contigo?"
+    },
+    "NELwAg": {
+        "en": "I don't need your sympathy.",
+        "pt": "Não preciso de caridade!",
+        "es": "No necesito tu simpatía."
+    },
+    "NULwAg": {
+        "en": "!!!!!",
+        "pt": "Lógico né!",
+        "es": "¡¡¡¡¡!!!!!"
+    },
+    "NkLwAg": {
+        "en": "[Rumin]\nIs that so?\nCaptain always told me to help the poor people.\nBut you get rid of my chance to help.",
+        "pt": "[Rumin]\nAh, é assim...\nBom, o Capitão sempre me falou para dar aos pobres.\nVocê está recusando uma oportunidade de ouro.",
+        "es": "[Rumin]\n¿De verdad?\nEl capitán siempre me decía que ayudara a los pobres.\nPero desprecias mi oportunidad de ayudar."
+    },
+    "N0LwAg": {
+        "en": "[Rumin]\nAhhh. Irritating.",
+        "pt": "[Rumin]\nDepois não se arrependa.",
+        "es": "[Rumin]\nAhhh. Qué irritante."
+    },
+    "OELwAg": {
+        "en": "[Rumin]\nWell, now we can divide 7 to 3?\nI am OK with 6 to 4.",
+        "pt": "[Rumin]\nVamos dividir então, setenta pra mim, trinta pra você.\nDá pra melhorar um pouco se quiser...",
+        "es": "[Rumin]\nBueno, ¿ahora podemos dividir 70 -30?\nMe conformo con 60 -40."
+    },
+    "OULwAg": {
+        "en": "[{0}]\nThis guy...",
+        "pt": "[{0}]\nVocê tá falando sério?",
+        "es": "[{0}]\nEste tipo…"
+    },
+    "OkLwAg": {
+        "en": "[Information staff]\nAhhh, you two calm down.\nRumin took them all.\n{0} I will give you one set separately.",
+        "pt": "[Guia da Cidade]\nEsperem, acalmem-se.\nRumin pode ficar com tudo.\n{0}Te darei a recompensa também.",
+        "es": "[Personal de información]\nAhhh, cálmense ustedes dos.\nRumin se los llevó todos.\n{0}, te daré un conjunto por separado."
+    },
+    "O0LwAg": {
+        "en": "[Information staff]\nThink of the reason, it was my fault to leave one person's but sent both of you.",
+        "pt": "[Guia da Cidade]\nÉ o mínimo que posso fazer por ter enviado duas pessoas para coletar uma recompensa.",
+        "es": "[Personal de información]\nSi lo piensas, fue mi culpa dejar objetos para una persona y enviar a dos."
+    },
+    "PELwAg": {
+        "en": "[Rumin]\nSimple and fair decision.\nOK. Now I am going.\nSee you again, my friend.",
+        "pt": "[Rumin]\nUma decisao mais do que justa!\nEntão, é melhor eu ir.\nVejo você outra hora...",
+        "es": "[Rumin]\nUna decisión simple y justa.\nDe acuerdo. Ya me voy.\nNos vemos, amigo mío."
+    },
+    "PULwAg": {
+        "en": "[Information staff]\nAren't you two friends?\nYou guys both seemed friendly enough right?",
+        "pt": "[Guia da Cidade]\nHahaha! Vocês dois eram amigos.\nPensei que estavam discutindo sério.",
+        "es": "[Personal de información]\n¿No son amigos?\nSe veían amigables, ¿o no?"
+    },
+    "PkLwAg": {
+        "en": "[Information staff]\nWell, this is my present for you.\nHope it will be useful.",
+        "pt": "[Guia da Cidade]\nBom, essa é minha recompensa.\nEspero que seja útil.",
+        "es": "[Personal de información]\nBueno, este es mi regalo para ti.\nEspero que te sea útil."
+    },
+    "P0LwAg": {
+        "en": "[Information staff]\nHave a wonderful journey.",
+        "pt": "[Guia da Cidade]\nSerei mais seletivo com minhas missões da próxima vez.\nTenha uma boa viagem.",
+        "es": "[Personal de información]\nQue tengas un buen viaje."
+    },
+    "QELwAg": {
+        "en": "[Information staff]\nYou do not seem to have found the treasure I hid.\nHere are the locations again.\nHurry up!",
+        "pt": "[Guia da Cidade]\nVocê não achou nenhum de meus tesouros escondidos...\nPassarei novamente a localização.\nCorra antes que alguém chegue antes.",
+        "es": "[Personal de información]\nParece que no encontraste el tesoro que escondí.\nTe compartiré otra vez las ubicaciones.\n¡Date prisa!"
+    },
+    "QULwAg": {
+        "en": "[Information staff]\nThis is Izlude - the satellite city of Prontera.\nDo you need directions?",
+        "pt": "[Guia da Cidade]\nBem vindo à Izlude, a cidade-satélite de Prontera.\nPrecisa de algo?",
+        "es": "[Personal de información]\nEsto es Izlude, la ciudad satélite de Prontera.\n¿Necesitas que te diga a dónde ir?"
+    },
+    "QkLwAg": {
+        "en": "[Information staff]\nIf you click on the ^B9062F[area name]^000000, I can ^B9062Fnavigate^000000 a path for you to follow.",
+        "pt": "[Guia da Cidade]\nClique no ^B9062FNome do Lugar^000000 e guiarei você com o ^B9062FSistema de Navegação^000000.",
+        "es": "[Personal de información]\nSi haces clic en el ^B9062F[nombre de la zona]^000000, puedo ^B9062Fcrear^000000 un camino que podrás navegar."
+    },
+    "Q0LwAg": {
+        "en": "[Main facilities]",
+        "pt": "Localizações Principais",
+        "es": "[Instalaciones principales]"
+    },
+    "RELwAg": {
+        "en": "[Guide & Helper]",
+        "pt": "Mercadores e NPCs Úteis",
+        "es": "[Guía y Ayudante]"
+    },
+    "RULwAg": {
+        "en": "Remove Marks from Mini-Map",
+        "pt": "Limpar Interface do Minimapa",
+        "es": "Eliminar marcas del minimapa."
+    },
+    "RkLwAg": {
+        "en": "Cancel",
+        "pt": "Encerrar conversa.",
+        "es": "Cancelar."
+    },
+    "R0LwAg": {
+        "en": "[Criatura Academy]",
+        "pt": "Academia Criatura",
+        "es": "[Academia de criaturas]"
+    },
+    "SELwAg": {
+        "en": "[Wharf]",
+        "pt": "Docas",
+        "es": "[Muelle]"
+    },
+    "SULwAg": {
+        "en": "[Free (international) Airship]",
+        "pt": "Aeroplano (Internacional)",
+        "es": "[Aeronave gratuita (internacional)]"
+    },
+    "SkLwAg": {
+        "en": "[Arena]",
+        "pt": "Arena",
+        "es": "[Arena]"
+    },
+    "S0LwAg": {
+        "en": "[Weapon & Armor Shop]",
+        "pt": "Loja",
+        "es": "[Tienda de Armas y Armaduras]"
+    },
+    "TELwAg": {
+        "en": "[Swordman Guild]",
+        "pt": "Guilda dos Espadachins",
+        "es": "[Gremio de Espadachines]"
+    },
+    "TULwAg": {
+        "en": "[Blacksmith's workshop]",
+        "pt": "Ferreiro",
+        "es": "[Taller del Herrero]"
+    },
+    "TkLwAg": {
+        "en": "Go back to the previous menu",
+        "pt": "Opções anteriores.",
+        "es": "Volver al menú anterior."
+    },
+    "T0LwAg": {
+        "en": "[Information staff]\nIf you are a new adventurer, the <NAVI>[Criatura Academy]<INFO>iz_ac01,100,39,</INFO></NAVI> can offer a lot of info and help.\nDo you need additonal directions?",
+        "pt": "[Guia da Cidade]\nSe você começou agora sua jornada, a <NAVI>Academia Criatura<INFO>iz_ac01,100,39,</INFO></NAVI> será um ótimo lugar para aprender novas coisas.\nPrecisa de algo mais?",
+        "es": "[Personal de información]\nSi apenas iniciaste como trotamundos, la <NAVI>[Academia de criaturas]<INFO>iz_ac 01,100,39</INFO></NAVI> puede ofrecerte mucha información y ayuda.\n¿Necesitas que te guíe más?"
+    },
+    "UELwAg": {
+        "en": "[Information staff]\nFind the <NAVI>[Wharf]<INFO>izlude,197,205,0,000,0</INFO></NAVI> to the north east.\nFrom there you can sail to ^8B4513Alberta^000000 or ^8B4513Byalan Island^000000.",
+        "pt": "[Guia da Cidade]\nSe seguir ao Nordeste, poderá chegar nas <NAVI>[Docas]<INFO>izlude,197,205,0,000,0</INFO></NAVI>\nLá você pode ir para Alberta ou à Ilha de Byalan.",
+        "es": "[Personal de información]\nEncuentra el <NAVI>[Muelle]<INFO>izlude,197,205,0,000,0</INFO></NAVI> al noreste.\nDesde allí puedes navegar a ^8B4513Alberta^000000 o a la ^8B4513Isla Byalan^000000."
+    },
+    "UULwAg": {
+        "en": "[ Information staff ]\nByalan Island is the scary place with water monsters in ^8B4513Izlude dungeon^000000.\nDo you need additional directions?",
+        "pt": "[Guia da Cidade]\nA Ilha de Byalan é um local com instâncias...\nÉ um pouco assustador...\nPrecisa de algo mais?",
+        "es": "[Personal de información]\nLa Isla Byalan es un lugar terrorífico lleno de monstruos acuáticos en la ^8B4513Mazmorra de Izlude^000000.\n¿Necesitas que te diga a dónde ir?"
+    },
+    "UkLwAg": {
+        "en": "[Information staff]\nTo the southeast is the Free international flight Aka,<NAVI>Airship<INFO>izlude,206,75,</INFO></NAVI>.\nFrom there you can fly to  the Capital of the republic of Schwarzwald -^8B4513Juno^000000, and the capital of Arunafeltz -^8B4513 Rachel^000000.\nDo you need additional directions?",
+        "pt": "[Guia da Cidade]\nIndo ao Sul, o <NAVI>[Aeroplano Internacional]<INFO>izlude,206,75,</INFO></NAVI>\nconecta Juno, a Capital da República Schwartzwald\ncom Rachel, a Capital de Arunafeltz.\nPrecisa de algo mais?",
+        "es": "[Personal de información]\nAl sureste se encuentra el transporte internacional gratuito, también conocido como<NAVI>Aeronave<INFO>izlude,206,75,</INFO></NAVI>.\nDesde allí puedes volar a^8B4513Juno^000000, la capital de la República de Schwarzwald, y a^8B4513 Rachel^000000, la capital de Arunafeltz.\n¿Necesitas que te diga a dónde ir?"
+    },
+    "U0LwAg": {
+        "en": "[Information staff]\n<NAVI>[Arena]<INFO>izlude,213,161,</INFO></NAVI>\nlocated in the east is\nfor testing out your battle ability.\nIt's an excellent place.\nI will mark the location\non the mini map.\nDo you need additional directions?",
+        "pt": "[Guia da Cidade]\nLocalizada no Leste, a <NAVI>Arena<INFO>izlude,213,161,</INFO></NAVI>\né ótima para testar\nsuas habilidades em combate.\nMarcarei o local\nno seu minimapa.\nPrecisa de algo mais?",
+        "es": "[Personal de información]\n<NAVI>[Arena]<INFO>izlude,213,161,</INFO></NAVI>\nsituada en el este\npara poner a prueba tu habilidad en combate.\nEs un lugar excelente.\nMarcaré la ubicación\nen el minimapa.\n¿Necesitas que te diga a dónde ir?"
+    },
+    "VELwAg": {
+        "en": "[Information staff]\nI will mark the location of the <NAVI>[Weapon & Armor Shop]<INFO>izlude,110,182,</INFO></NAVI> on the mini map.\nDo you need additional directions?",
+        "pt": "[Guia da Cidade]\nMarcarei a localização da <NAVI>Loja<INFO>izlude,110,182,</INFO></NAVI>\nno seu minimapa.\nPrecisa de algo mais?",
+        "es": "[Personal de información]\nMarcaré la ubicación de la <NAVI>[Tienda de Armas y Armaduras]<INFO>izlude,110,182</INFO></NAVI> en el minimapa.\n¿Necesitas que te diga a dónde ir?"
+    },
+    "VULwAg": {
+        "en": "[Information staff]\nThe <NAVI>[Swordman Guild]<INFO>izlude,51,172,</INFO></NAVI> is where you can change your job to a Swordman.\nI will mark the location on your mini map.\nDo you need additional directions?",
+        "pt": "[Guia da Cidade]\nA <NAVI>Guilda dos Espadachins<INFO>izlude,51,172,</INFO></NAVI> é um local que organiza a troca de Classes para Espadachim.\nMarcarei o local\nno seu minimapa.\nPrecisa de algo mais?",
+        "es": "[Personal de información]\nEl <NAVI>[gremio de Espadachines]<INFO>izlude,51,172,</INFO></NAVI> es donde puedes cambiar tu clase a Espadachín.\nMarcaré la ubicación en tu minimapa.\n¿Necesitas que te diga a dónde ir?"
+    },
+    "VkLwAg": {
+        "en": "[Information staff]\nI will mark the location of the <NAVI>[Blacksmith's workshop]<INFO>izlude,153,126,</INFO></NAVI> on the mini map.\nDo you need additional directions?",
+        "pt": "[Guia da Cidade]\nMarcarei o <NAVI>Ferreiro<INFO>izlude,153,126,</INFO></NAVI>\nno seu minimapa.\nPrecisa de algo mais?",
+        "es": "[Personal de información]\nMarcaré la ubicación del <NAVI>[Taller del Herrero]<INFO>izlude,153,126,</INFO></NAVI> en el minimapa.\n¿Necesitas que te diga a dónde ir?"
+    },
+    "V0LwAg": {
+        "en": "[Eden Group teleporter]",
+        "pt": "Teleportador do Grupo do Éden",
+        "es": "[Teletransporte del Grupo de Edén]"
+    },
+    "WELwAg": {
+        "en": "[Kafra Employee]",
+        "pt": "Kafra",
+        "es": "[Personal de Kafra]"
+    },
+    "WULwAg": {
+        "en": "[Mesmerizer]",
+        "pt": "Hipnotizador",
+        "es": "[Hipnotizador]"
+    },
+    "WkLwAg": {
+        "en": "[Wedding Secretary]",
+        "pt": "Assistente de Lua de Mel",
+        "es": "[Secretaria de bodas]"
+    },
+    "W0LwAg": {
+        "en": "[Mercenary Guild Official]",
+        "pt": "Guilda dos Soldados",
+        "es": "[Mercenario gremialista]"
+    },
+    "XELwAg": {
+        "en": "[Taming merchant]",
+        "pt": "Adestrador",
+        "es": "[Comerciante domador]"
+    },
+    "XULwAg": {
+        "en": "[Information staff]\nFor now, I will mark the location of\n<NAVI>[Eden Group teleporter]<INFO>izlude,131,148,</INFO></NAVI>\non the mini map.\nDo you need additional directions?",
+        "pt": "[Guia da Cidade]\n<NAVI>Teleportador do Grupo do Éden<INFO>izlude,131,148,</INFO></NAVI>\nMarcarei o local\nno seu minimapa.\nPrecisa de algo mais?",
+        "es": "[Personal de información]\nPor ahora, marcaré la ubicación del\n<NAVI>[Teletransporte del Grupo de Edén]<INFO>izlude,131,148,</INFO></NAVI>\nen el minimapa.\n¿Necesitas que te diga a dónde ir?"
+    },
+    "XkLwAg": {
+        "en": "[Information staff]\nI will mark the location of\n<NAVI>[Kafra staff]<INFO>izlude,128,148,</INFO></NAVI>\non the mini map.",
+        "pt": "[Guia da Cidade]\n<NAVI>Kafra<INFO>izlude,128,148,</INFO></NAVI>\nMarcarei o local\nno seu minimapa.\nPrecisa de algo mais?",
+        "es": "[Personal de información]\nMarcaré la ubicación del\n<NAVI>[Personal de Kafra]<INFO>izlude,128,148,</INFO></NAVI>\nen el minimapa."
+    },
+    "X0LwAg": {
+        "en": "Do you need additional directions?",
+        "pt": "Precisa de mais instruções?",
+        "es": "¿Necesitas que te diga a dónde ir?"
+    },
+    "YELwAg": {
+        "en": "[Information staff]\nI will mark the location of \n<NAVI>[Mesmerizer]<INFO>izlude,127,175,</INFO></NAVI>\non the mini map.\nDo you need additional directions?",
+        "pt": "[Guia da Cidade]\n<NAVI>Hipnotizadora<INFO>izlude,127,175,</INFO></NAVI>\nMarcarei o local\nno seu minimapa.\nPrecisa de algo mais?",
+        "es": "[Personal de información]\nMarcaré la ubicación del \n<NAVI>[Hipnotizador]<INFO>izlude,127,175,</INFO></NAVI>\nen el minimapa.\n¿Necesitas que te diga a dónde ir?"
+    },
+    "YULwAg": {
+        "en": "[Information staff]\nIf you want to go to ^8B4513Jawaii^000000 ask the <NAVI>[Wedding secretary]<INFO>izlude,180,224,</INFO></NAVI>.\nDo you need additional directions?",
+        "pt": "[Guia da Cidade]\nSe quiser ir á ^8B4513Jawaii^000000,\nlocal perfeito para casais, fale com a <NAVI>Assistente de Lua de Mel<INFO>izlude,180,224,</INFO></NAVI>\ne vá aproveitar.\nPrecisa de algo mais?",
+        "es": "[Personal de información]\nSi quieres ir a ^8B4513Jawaii^000000 pregunta a la <NAVI>[Secretaria de bodas]<INFO>izlude,180,224,</INFO></NAVI>.\n¿Necesitas que te diga a dónde ir?"
+    },
+    "YkLwAg": {
+        "en": "[Information staff]\nGo west to find the <NAVI>[Mercenary Guild Official]<INFO>izlude,47,170,</INFO></NAVI>,\nDo you need additional directions?",
+        "pt": "[Guia da Cidade]\nA <NAVI>Guilda dos Soldados<INFO>izlude,47,170,</INFO></NAVI>\npode ser encontrada\nindo para o Oeste.\nPrecisa de algo mais?",
+        "es": "[Personal de información]\nVe hacia el oeste para encontrar al <NAVI>[Oficial del gremio de Mercenarios]<INFO>izlude,47,170,</INFO></NAVI>,\n¿Necesitas que te diga a dónde ir?"
+    },
+    "Y0LwAg": {
+        "en": "[Information staff]\nI will mark the location of the <NAVI>[Taming merchant]<INFO>izlude_in,72,98,0,000,0</INFO></NAVI>\nDo you need additional directions?",
+        "pt": "[Guia da Cidade]\n<NAVI>Adestrador<INFO>izlude_in,72,98,0,000,0</INFO></NAVI>ÀÇ\nMarcarei o local\nno seu minimapa.\nPrecisa de algo mais?",
+        "es": "[Personal de información]\nyo marcaré la ubicación del <NAVI>[Comerciante domador]<INFO>izlude_in,72,98,0,000,0</INFO></NAVI>\n¿Necesitas que te diga a dónde ir?"
+    },
+    "ZELwAg": {
+        "en": "[Information staff]\nSure, I'll remove all marks from your mini-map.\nDo you need addional directions?",
+        "pt": "[Guia da Cidade]\nApagarei qualquer marcação.\nPrecisa de algo mais?",
+        "es": "[Personal de información]\nClaro, quitaré todas las marcas de tu minimapa.\n¿Necesitas que te diga a dónde ir?"
+    },
+    "ZULwAg": {
+        "en": "[Information staff]\nHave a wonderful adventure.\nGood bye~~!",
+        "pt": "[Guia da Cidade]\nTe desejo uma ótima aventura.\nAté breve!",
+        "es": "[Personal de información]\nQue tengas una aventura maravillosa.\n¡Nos vemos!"
+    },
+    "ZkLwAg": {
+        "en": "Free Airship",
+        "pt": "Placa do Aeroplano",
+        "es": "Dirigible libre"
+    },
+    "Z0LwAg": {
+        "en": "===Information for free route===\nTx_01044\nIzlude - Juno - Rachel\nTx_01046\nTravellers bound for either the ^4D4DFFSchwarzwalt Republic^000000 or ^4D4DFFArunafeltz^000000 may board the free airship here.",
+        "pt": "===Informações para rota livre===\nIzlude - Juno - Rachel\nPassageiros que desejam ir à ^4D4DFFRepública de Schwartzwald^000000 ou a ^4D4DFFArunafeltz^000000, por favor embarcar no Aeroplano.",
+        "es": "===Información sobre la ruta gratuita===\nIzlude - Juno - Rachel\nLos viajeros con destino a la ^4D4DFFRepública de Schwarzwald^000000 o ^4D4DFFArunafeltz^000000 pueden subir a la aeronave aquí sin costo."
+    },
+    "aELwAg": {
+        "en": "Except the signboard of the free airship, nothing can be found.",
+        "pt": "Você não consegue achar nada interessante pelas redondezas...",
+        "es": "A excepción del cartel de la Aeronave gratis, parece que no hay nada por aquí."
+    },
+    "aULwAg": {
+        "en": "Where's the hidden treasure?",
+        "pt": "Não pode ser...",
+        "es": "¿Dónde está el tesoro escondido?"
+    },
+    "akLwAg": {
+        "en": "[Rumin]\nYeo.\nSorry pal I got here first.\nShould've used a Fly wing like I did.",
+        "pt": "[Rumin]\nParado aí!\nParece que fui mais rápido que você.\nComo diria o Capitão: rápido como uma gaivota!",
+        "es": "[Rumin]\nEy.\nLo siento, pero yo llegué primero.\nDebiste haber usado Alas de mosca como yo."
+    },
+    "a0LwAg": {
+        "en": "[Rumin]\nWhy do these wings teleport?\nI guess because they're from Creamy monsters...",
+        "pt": "[Rumin]\nSe bem que nem sei porque estava tentando chegar aqui mais rápido...\nSão tantas preocupações que esqueci completamente...",
+        "es": "[Rumin]\n¿Por qué te teletransportan estas alas?\nSupongo que porque son de monstruos Creamy…"
+    },
+    "bELwAg": {
+        "en": "[Rumin]\nAs the captain said, seeing is believing. The world is full of mysteries.",
+        "pt": "[Rumin]\nPode ser que eu seja destinado a voar pelo mundo...\nDespertando assim o espírito de liberdade que reside em mim.",
+        "es": "[Rumin]\nComo dijo el capitán, ver para creer. El mundo está lleno de misterios."
+    },
+    "bULwAg": {
+        "en": "Seems like Rumin beat you again.\nBetter get to the next location before Rumin does.",
+        "pt": "Perdi para o Rumin de novo...\nO melhor a se fazer é deixar ele pra lá e seguir o rumo.",
+        "es": "Parece que Rumin te volvió a ganar.\nSerá mejor que llegues a la siguiente ubicación antes que Rumin."
+    },
+    "bkLwAg": {
+        "en": "[Rumin]\n.......",
+        "pt": "[Rumin]\n.......",
+        "es": "[Rumin]\n……"
+    },
+    "b0LwAg": {
+        "en": "[Rumin]\nMuahahahaha.",
+        "pt": "[Rumin]\nMuahahahaha.",
+        "es": "[Rumin]\nMuajajajajaja."
+    },
+    "cELwAg": {
+        "en": "Are you kidding me?!",
+        "pt": "Tá zoando comigo?!",
+        "es": "¡¿Es una broma?!"
+    },
+    "cULwAg": {
+        "en": "Where's the treasure?",
+        "pt": "O que tem ali?",
+        "es": "¿En dónde está el tesoro?"
+    },
+    "ckLwAg": {
+        "en": "[Rumin]\nNo.\nMeeting three times in one day must be destiny.\nYou and I can be friends.",
+        "pt": "[Rumin]\nMagina...\nNão pode zoar com quem você gosta, isso é lei!\nA menos que você não goste de mim...",
+        "es": "[Rumin]\nNo.\nNos encontramos tres veces en un día, debe ser el destino.\nTú y yo podemos ser amigos."
+    },
+    "c0LwAg": {
+        "en": "Or Frenemies!",
+        "pt": "Gosto de você... Bem longe!",
+        "es": "¡O amienemigos!"
+    },
+    "dELwAg": {
+        "en": "[Rumin]\nFrene-what? Oh well I'm done with the mission.\nTake care.",
+        "pt": "[Rumin]\nCredo, você parece aquele Guia da Cidade.\nSem crise!",
+        "es": "[Rumin]\n¿Amiene… qué? Bueno, ya terminé mi misión.\nCuídate."
+    },
+    "dULwAg": {
+        "en": "[{0}]\nAre you even listening to me?!",
+        "pt": "[{0}]\nNão aceito isso!\nNão posso perder! Tenho o mundo todo para libertar!",
+        "es": "[{0}]\n¡¿Acaso me estás escuchando?!"
+    },
+    "dkLwAg": {
+        "en": "^4D4DFF...I have to report the result to the Information staff...^000000.",
+        "pt": "^4D4DFFVocê deve reportar os resultados ao Guia da Cidade.^000000",
+        "es": "^4D4DFF…tengo que dar mi informe sobre el resultado al personal de información…^000000."
+    },
+    "d0LwAg": {
+        "en": "[Rumin]\nOoo Butterfly Wings.\nIf I hand it over to you, you'll just waste 'em so I'll just keep them.",
+        "pt": "[Rumin]\nAsas de Borboletas.\nSe eu te entregar, você não vai acreditar...",
+        "es": "[Rumin]\nUuuuy, Alas de mariposa.\nSi te las doy, las desperdiciarás, así que me las quedaré."
+    },
+    "eELwAg": {
+        "en": "[Rumin]\nCome on this is just friendly competition.",
+        "pt": "[Rumin]\nAh, e como eu percebo que você gosta de mim...\nPlanejo estar cada vez mais presente em sua jornada.",
+        "es": "[Rumin]\nVamos, esto es solo una competencia amistosa."
+    },
+    "eULwAg": {
+        "en": "[Rumin]\nI am doing this for you to make you stronger.\nNow, so long.",
+        "pt": "[Rumin]\nMe avise se eu estiver insistindo pouco...\nAté...\nPerdedor...",
+        "es": "[Rumin]\nHago esto por ti, para hacerte más fuerte.\nBueno, nos vemos."
+    },
+    "ekLwAg": {
+        "en": "Except for the signboard of the free airship, nothing particular was found.",
+        "pt": "Exceto pela placa de sinalização do aeroplano gratuito, nada de especial foi encontrado.",
+        "es": "A excepción del cartel de la Aeronave gratis, parece que no hay nada por aquí."
+    },
+    "e0LwAg": {
+        "en": "Why is there nothing here?",
+        "pt": "Por que não tem nada aqui?",
+        "es": "¿Por qué no hay nada aquí?"
+    },
+    "fELwAg": {
+        "en": "[Rumin]\nOf course.\nI already packed it in my bag.\nThere were Butterfly Wings here.",
+        "pt": "[Rumin]\nÉ claro que não tem nada...\nJá tá tudo na minha mochila.\nO que estava ali era uma Asa de Borboleta...",
+        "es": "[Rumin]\nPor supuesto.\nYa lo guardé en mi bolso.\nEncontré Alas de mariposa aquí."
+    },
+    "fULwAg": {
+        "en": "So can I have some?",
+        "pt": "Então você chegou primeiro...",
+        "es": "¿No quieres compartir?"
+    },
+    "fkLwAg": {
+        "en": "[Rumin]\nThat's not fair, I was here first so they're mine.\nYou better get to the next stop faster if you want the prize.",
+        "pt": "[Rumin]\nEvidente, né?\nTenho que correr para mais dois lugares ainda.",
+        "es": "[Rumin]\nEso no es justo, yo llegué primero, así que son mías.\nSerá mejor que llegues antes a la siguiente parada si quieres conseguir el premio."
+    },
+    "f0LwAg": {
+        "en": "[Rumin]\nWell, then.....",
+        "pt": "[Rumin]\nAté mais!",
+        "es": "[Rumin]\nBueno, entonces…"
+    },
+    "gELwAg": {
+        "en": "Rumin disappeared with his long hair in the air.\n......",
+        "pt": "Rumin desapareceu...\nEsse cara não perde uma!",
+        "es": "(Rumin desapareció con su larga cabellera al aire).\n……"
+    },
+    "gULwAg": {
+        "en": "===Information for free airship route===\nTx_01127\nIzlude - Juno - Rachel\nTx_01129\nTravellers bound for either the ^4D4DFFSchwarzwalt Republic^000000 or ^4D4DFFArunafeltz^000000 may board the free airship here.",
+        "pt": "===Informações para rota livre===\nIzlude - Juno - Rachel\nPassageiros que desejam ir à ^4D4DFFRepública de Schwartzwald^000000 ou a ^4D4DFFArunafeltz^000000, por favor embarcar no Aeroplano.",
+        "es": "===Información sobre la ruta gratuita===\nIzlude - Juno - Rachel\nLos viajeros con destino a la ^4D4DFFRepública de Schwarzwald^000000 o ^4D4DFFArunafeltz^000000 pueden subir a la aeronave aquí sin costo."
+    },
+    "gkLwAg": {
+        "en": "===Information for non fair base route===\nTx_01132\nIzlude - Juno - Rachel\nTx_01134\nTravellers bound for either the ^4D4DFFSchwarzwalt Republic^000000 or ^4D4DFFArunafeltz^000000 may board the free airship here.",
+        "pt": "===Informações para rota livre===\nIzlude - Juno - Rachel\nPassageiros que desejam ir à ^4D4DFFRepública de Schwartzwald^000000 ou a ^4D4DFFArunafeltz^000000, por favor embarcar no Aeroplano.",
+        "es": "===Información sobre la ruta gratuita===\nIzlude - Juno - Rachel\nLos viajeros con destino a la ^4D4DFFRepública de Schwarzwald^000000 o ^4D4DFFArunafeltz^000000 pueden subir a la aeronave aquí sin costo."
+    },
+    "g0LwAg": {
+        "en": "Arena",
+        "pt": "Arena",
+        "es": "Arena"
+    },
+    "hELwAg": {
+        "en": "== Challenge! Arena! ==\nTx_01140\nBreath taking battle with monsters!\nWhere is your limit?\nPvE party with your comrad!\nAll these at Arena!!",
+        "pt": "== Desafio! Arena! ==\nLutas fantásticas e eletrizantes!\nLimites sendo superados!\nPvE - Ajuda de colegas estonteantes!\nArena, o lugar para ser testado!",
+        "es": "== ¡Arena de desafío! ==\n¡Una batalla contra monstruos que te dejará sin aliento!\n¿Cuál es tu límite?\n¡Grupo PvE con tus compañeros!\n¡¡Todo esto y más en la Arena!!"
+    },
+    "hULwAg": {
+        "en": "Except for the Arena promtional board, nothing can be found here.",
+        "pt": "Esqueça os problemas! Entre na Arena!",
+        "es": "A excepción del Tablero de anuncios de la Arena, aquí no hay nada."
+    },
+    "hkLwAg": {
+        "en": "Nothing again?",
+        "pt": "Nada novo sob a Arena...",
+        "es": "¿Otra vez nada?"
+    },
+    "h0LwAg": {
+        "en": "[Rumin]\nHmmm. Its not nothing....\nThere were potions here...\nI was tired of waiting for you so I took it too.",
+        "pt": "[Rumin]\n...\nPoções, muitas poções.\nBebi várias poções pra ficar numa boa enquanto esperava por você!",
+        "es": "[Rumin]\nMmmm. No era nada…\nHabía pociones aquí…\nEstaba cansado de esperarte, así que también me las llevé."
+    },
+    "iELwAg": {
+        "en": "[Rumin]\nBut why does this potion never make me full?\n*gulp*\nOh well looks like it's all gone.",
+        "pt": "[Rumin]\nSó não sei como continuo com sede depois de ter bebido tudo isso...\nSe bem que foi tudo tão rápido...",
+        "es": "[Rumin]\n¿Por qué será que esta poción nunca me llena?\n*Traga*\nOh, parece que ya se acabó."
+    },
+    "iULwAg": {
+        "en": "Rumin beat you again.\nBetter beat him to the last spot.",
+        "pt": "Perdi pro Rumin, de novo...\nMelhor deixar esse cara pra lá e seguir rumo.",
+        "es": "Rumin te volvió a ganar.\nSerá mejor que llegues a la última ubicación antes que él."
+    },
+    "ikLwAg": {
+        "en": "[Rumin]\nMuahahaha.",
+        "pt": "[Rumin]\nMuahahahaha.",
+        "es": "[Rumin]\nMuajajajaja."
+    },
+    "i0LwAg": {
+        "en": "[Rumin]\nRed potions.\nIf I hand it over to you, you'll just waste 'em so I'll just keep them.",
+        "pt": "[Rumin]\nPoção Vermelha.\nSe eu te entregar, você não vai acreditar...",
+        "es": "[Rumin]\nPociones rojas.\nSi te las doy, las desperdiciarás, así que me las quedaré."
+    },
+    "jELwAg": {
+        "en": "^4D4DFF...I have to report of the result to Information staff...^000000.",
+        "pt": "^4D4DFF...tenho que informar o resultado ao Guia da Cidade...^000000.",
+        "es": "^4D4DFF…tengo que dar mi informe del resultado al personal de información…^000000."
+    },
+    "jULwAg": {
+        "en": "Except for the Arena promotion signboard, nothing can be found.",
+        "pt": "Só avisos por aqui...",
+        "es": "A excepción del Tablero de anuncios de la Arena, aquí no hay nada."
+    },
+    "jkLwAg": {
+        "en": "Why is there nothing?",
+        "pt": "Impossível...",
+        "es": "¿Por qué no hay nada?"
+    },
+    "j0LwAg": {
+        "en": "[Rumin]\nOf course.\nI already packed it.\nThere were Red Potion hidden here.",
+        "pt": "[Rumin]\nÉ claro que não tem nada...\nJá tá tudo na minha mochila.\nA poção vermelha estava muito bem escondida...",
+        "es": "[Rumin]\nPor supuesto.\nYa me lo guardé.\nHabía una Poción roja escondida aquí."
+    },
+    "kELwAg": {
+        "en": "Rumin disappeared with his long hair in the air.\nThis guy...",
+        "pt": "Rumin desapareceu com seus longos cabelos no ar.\nEsse cara...",
+        "es": "(Rumin desapareció con su larga cabellera al aire).\nEste tipo…"
+    },
+    "kULwAg": {
+        "en": "== Challenge! Arena! ==\nTx_01221\nBreath taking battle with monsters!\nWhere is your limit?\nPvE party with your comrades!\nAll these at the Arena!!",
+        "pt": "== Desafio! Arena! ==\nLutas fantásticas e eletrizantes!\nLimites sendo superados!\nPvE - Ajuda de colegas estonteantes!\nArena, o lugar para ser testado!",
+        "es": "== ¡Arena de desafío! ==\n¡Una batalla contra monstruos que te dejará sin aliento!\n¿Cuál es tu límite?\n¡Grupo PvE con tus compañeros!\n¡¡Todo esto y más en la Arena!!"
+    },
+    "kkLwAg": {
+        "en": "== Challenge! Arena! ==\nTx_01227\nBreath taking battle with monsters!\nWhere is your limit?\nPvE party with your comrades!\nAll these at the Arena!!",
+        "pt": "== Desafio! Arena! ==\nLutas fantásticas e eletrizantes!\nLimites sendo superados!\nPvE - Ajuda de colegas estonteantes!\nArena, o lugar para ser testado!",
+        "es": "== ¡Arena de desafío! ==\n¡Una batalla contra monstruos que te dejará sin aliento!\n¿Cuál es tu límite?\n¡Grupo PvE con tus compañeros!\n¡¡Todo esto y más en la Arena!!"
+    },
+    "k0LwAg": {
+        "en": "Bulletin Board",
+        "pt": "Quadro de Avisos",
+        "es": "Tablón de anuncios"
+    },
+    "lELwAg": {
+        "en": "=== Information ===\nTx_01236\nProntera Field.\nThe city of Prontera is located to the north.",
+        "pt": "=== Informações ===\nAviso!\nCaminho para Prontera.\nA direção correta é o Norte.\nSe está indo para Prontera, siga esse caminho!",
+        "es": "=== Información ===\nCampo de Prontera.\nLa ciudad de Prontera se encuentra al norte."
+    },
+    "lULwAg": {
+        "en": "Except for the simple signboard, nothing can be found here.",
+        "pt": "Exceto pela placa simples, não há nada aqui.",
+        "es": "A excepción de un simple Tablero de entrada, aquí ya no hay nada."
+    },
+    "lkLwAg": {
+        "en": "[Rumin]\nYeo.\nSorry but I am quicker than you.\nThere were Fly Wings here..",
+        "pt": "[Rumin]\nOpa...\nTemos aqui uma tartaruga...\nVocê perdeu as Asas de Mosca.",
+        "es": "[Rumin]\nEy.\nLo siento, pero soy más rápido que tú.\nAquí había Alas de mosca…"
+    },
+    "l0LwAg": {
+        "en": "[Rumin]\nIn fact, I don't like Fly's wings.\nFlies are so dirty.",
+        "pt": "[Rumin]\nA real é que eu odeio Moscas.\nElas são.... só Moscas.",
+        "es": "[Rumin]\nDe hecho, no me gustan las Alas de mosca.\nLas moscas son tan sucias."
+    },
+    "mELwAg": {
+        "en": "[Rumin]\nBy the way, why is one of the convenient transportations fly wing shaped?\nPerhaps you know?",
+        "pt": "[Rumin]\nContudo, suas asas são muito velozes! Me ajudam a querer voar pelo mundo!\nVocê gosta de Moscas?",
+        "es": "[Rumin]\nPor cierto, ¿por qué uno de los transportes más convenientes tiene forma de Alas de mosca?\n¿Tú lo sabes?"
+    },
+    "mULwAg": {
+        "en": "[Rumin]\n...you don't know.",
+        "pt": "[Rumin]\nGosta não?",
+        "es": "[Rumin]\n…No lo sabes."
+    },
+    "mkLwAg": {
+        "en": "Defeated by Rumin again.\nKeep calm and find the next location.",
+        "pt": "Perdi pra esse cara... De novo...\nDeixa ele achar que venceu, preciso me concentrar no restante das tarefas.",
+        "es": "Otra vez te derrotó Rumin.\nMantén la calma y busca la siguiente ubicación."
+    },
+    "m0LwAg": {
+        "en": "[Rumin]\n.. Poohut.",
+        "pt": "[Rumin]\n.. Poxa.",
+        "es": "[Rumin]\n… Yuujuu."
+    },
+    "nELwAg": {
+        "en": "[Rumin]\nNo...\nMeeting three times in one day must be destiny.\nYou and I can be friends.",
+        "pt": "[Rumin]\nNão...\nEncontrar-se três vezes em um dia deve ser o destino.\nVocê e eu podemos ser amigos.",
+        "es": "[Rumin]\nNo…\nNos encontramos tres veces en un día, debe ser el destino.\nTú y yo podemos ser amigos."
+    },
+    "nULwAg": {
+        "en": "[Rumin]\nFly Wings.\nIf I hand them over to you, you'll just waste 'em so I think I'll keep them.",
+        "pt": "[Rumin]\nAsas de Mosca.\nSe eu te entregar, você não vai acreditar...",
+        "es": "[Rumin]\nAlas de mosca.\nSi te las doy, las desperdiciarás, entonces creo que mejor me las voy a quedar."
+    },
+    "nkLwAg": {
+        "en": "Except for the simple signboard, nothing can be found.",
+        "pt": "Exceto pela simples placa de sinalização, não há nada aqui.",
+        "es": "A excepción de un simple Tablero de anuncios, aquí ya no hay nada."
+    },
+    "n0LwAg": {
+        "en": "[Rumin]\nOf course.\nFly's wings were here so I already packed them in my bag.",
+        "pt": "[Rumin]\nÉ claro que não tem nada...\nAs Asas de Mosca já estão na minha mochila.",
+        "es": "[Rumin]\nPor supuesto.\nLas Alas de mosca estaban aquí, así que ya las guardé en mi bolso."
+    },
+    "oELwAg": {
+        "en": "Rumin disappeared with his long hair in the air.\nThis guy....",
+        "pt": "Rumin desapareceu com seus longos cabelos no ar.\nEsse cara...",
+        "es": "(Rumindesapareció con su larga cabellera al aire).\nEste tipo…"
+    },
+    "oULwAg": {
+        "en": "=== Information ===\nTx_01321\nProntera Field.\nThe city of Prontera is located to the north.",
+        "pt": "=== Informações ===\nAviso!\nCaminho para Prontera.\nA direção correta é o Norte.\nSe está indo para Prontera, siga esse caminho!",
+        "es": "=== Información ===\nCampo de Prontera.\nLa ciudad de Prontera se encuentra al norte."
+    },
+    "okLwAg": {
+        "en": "=== Information ===\nTx_01326\nProntera Field.\nThe city of Prontera is located to the north.",
+        "pt": "=== Informações ===\nAviso!\nCaminho para Prontera.\nA direção correta é o Norte.\nSe está indo para Prontera, siga esse caminho!",
+        "es": "=== Información ===\nCampo de Prontera.\nLa ciudad de Prontera se encuentra al norte."
+    },
+    "o0LwAg": {
+        "en": "Guest lecturer Mayssel",
+        "pt": "Instrutora Mayshell",
+        "es": "Conferenciante invitado Mayssel"
+    },
+    "pELwAg": {
+        "en": "Quest cannot be continued due to the overfilled inventory. \nPlease try it again after organizing the items.",
+        "pt": "Você não pode prosseguir na missão pois está carregando muitos itens.\nPor favor, organize-se e tente de novo.",
+        "es": "La misión no puede continuar debido a que el inventario está lleno. \nPor favor, inténtalo de nuevo después de organizar los objetos."
+    },
+    "pULwAg": {
+        "en": "[Rumin]\n.......... Then",
+        "pt": "[Rumin]\n.......... Então.",
+        "es": "[Rumin]\n………. Entonces"
+    },
+    "pkLwAg": {
+        "en": "[Mayssel]\nI see, Lue\nmake it as you want.",
+        "pt": "[Mayshell]\nHm...\nQue você consiga o que quer.",
+        "es": "[Mayssel]\nYa veo, Lue,\nhaz lo que te plazca."
+    },
+    "p0LwAg": {
+        "en": "Uh, hi...",
+        "pt": "...",
+        "es": "Eh, hola…"
+    },
+    "qELwAg": {
+        "en": "[Mayssel]\nI am sorry...\nAre you a student of Criatura Academy?\nI didn't intend to ignore you.\nHe is also one of the students in this class.",
+        "pt": "[Mayshell]\nCom licença.\nVocê é um estudante da Academia Criatura?\nDesculpe não lembrar de você...\nSão muitos alunos para ensinar...",
+        "es": "[Mayssel]\nLo siento…\n¿Tú estudias en la Academia de criaturas?\nNo pretendía ignorarte.\nÉl también es uno de los alumnos de esta clase."
+    },
+    "qULwAg": {
+        "en": "[Mayssel]\nHello {0}\nI am Mayssel  the section chief of the Veins section of the Assassin Guild.\nI came here to give you some information about the Thief class.",
+        "pt": "[Mayshell]\n{0}, vou me apresentar adequadamente.\nSou a Mayshell, a instrutora da Guilda dos Sicários.\nEstou aqui para te dar conselhos e instruções sobre Gatunos.",
+        "es": "[Mayssel]\nHola, {0}.\nSoy Mayssel, jefa de la sección de Veins del gremio de Asesinos.\nVine a darte información sobre la clase Ladrón."
+    },
+    "qkLwAg": {
+        "en": "[Mayssel]\nDo you want to know about the Thief class?",
+        "pt": "[Mayshell]\nQuer saber mais sobre os gatunos?",
+        "es": "[Mayssel]\n¿Quieres saber más sobre la clase Ladrón?"
+    },
+    "q0LwAg": {
+        "en": "Yes, please.",
+        "pt": "Eu quero, por favor",
+        "es": "Sí, por favor."
+    },
+    "rELwAg": {
+        "en": "No, I won't be a Thief.",
+        "pt": "Gatuno não dá não!",
+        "es": "No, no seré de la clase Ladrón."
+    },
+    "rULwAg": {
+        "en": "I want to change jobs to a thief.",
+        "pt": "Quero mudar de classe para gatuno.",
+        "es": "Quiero cambiar de clase a Ladrón."
+    },
+    "rkLwAg": {
+        "en": "[Mayssel]\nWell a thief is commonly thought of as a criminal.\nBut our guild is not about taking from those that are in need of it.",
+        "pt": "[Mayshell]\nBasicamente: roubar é crime!\nVocê não pode roubar coisas das outras pessoas. Isso causaria uma perda financeira enorme!",
+        "es": "[Mayssel]\nBueno, comúnmente a los Ladrones se los considera delincuentes.\nPero nuestro gremio no busca quitarles a los que menos tienen."
+    },
+    "r0LwAg": {
+        "en": "[Mayssel]\nFirst, we should make it clear.\nWe don't steal other's belongings.",
+        "pt": "[Mayshell]\nPrecisava esclarecer isso antes.\nNão roubamos coisas dos outros, nunca!",
+        "es": "[Mayssel]\nAntes que nada, hay que dejar eso claro.\nNo robamos las cosas de otros."
+    },
+    "sELwAg": {
+        "en": "[Rumin]\nHow about monsters?",
+        "pt": "[Rumin]\nMonstros?",
+        "es": "[Rumin]\n¿Y los monstruos?"
+    },
+    "sULwAg": {
+        "en": "[Mayssel]\nNow monsters...",
+        "pt": "[Mayshell]\nHmpf...",
+        "es": "[Mayssel]\nSobre los monstruos…"
+    },
+    "skLwAg": {
+        "en": "[Verkhasel]\nHey, take it easy.\nYou said it was a mission for something important. But only a place like this...",
+        "pt": "[Bercassell]\nFalaí!\nDesculpa, pensei que era comigo...",
+        "es": "[Verkhasel]\nOye, calma.\nDijiste que era una misión para algo importante. Pero un lugar como este…"
+    },
+    "s0LwAg": {
+        "en": "[Mayssel]\nI was upset...\nLet me continue.\nA Thief uses techniques that common thieves use to be fast and nimble.",
+        "pt": "[Mayshell]\n... Retomando.\nContinuarei a explicação.\nGeralmente os Gatunos focam em Habilidades úteis e versáteis.",
+        "es": "[Mayssel]\nQué decepción…\nDéjame continuar.\nEl Ladrón usa técnicas típicas de su clase para ser rápido y ágil."
+    },
+    "tELwAg": {
+        "en": "[Mayssel]\nWe use stealth to blend into our surroundings and strike our foes.",
+        "pt": "[Mayshell]\nHabilidades de evasão e distração...\nSão rápidas e combinam com armas pontiagudas.",
+        "es": "[Mayssel]\nUsamos el sigilo para mezclarnos con el entorno y atacar a nuestros enemigos."
+    },
+    "tULwAg": {
+        "en": "[Mayssel]\nOur primary weapon is a dagger and we compensate their attack strength by adding poison property to our attacks.",
+        "pt": "[Mayshell]\nNossa arma principal é a ^3131FFAdaga^000000.\nE nossas técnicas de evasão focam em ^3131FFevitar ataques^000000.",
+        "es": "[Mayssel]\nNuestra arma principal es la Daga, y compensamos su fuerza de ataque agregando la propiedad Veneno a nuestros ataques."
+    },
+    "tkLwAg": {
+        "en": "[Mayssel]\nThe higher class jobs in Thief class are Assassin and Rogue.\nVerkhasel is a Guillotine Cross which is the third class of the Assassin Job.\nand......",
+        "pt": "[Mayshell]\nAs melhores evoluções da Classe de Gatuno são o Sicário e o Renegado.\nBercassell é um de nossos melhores Sicários.\nE...",
+        "es": "[Mayssel]\nLas clases superiores de la clase Ladrón son Asesino y Pícaro.\nVerkhasel es Cortador de cruces, que es la tercera clase de la clase Asesino.\ny…"
+    },
+    "t0LwAg": {
+        "en": "[Mayssel]\nMr. Vicente... I called Dumk..",
+        "pt": "[Mayshell]\nVicente... Um bom Renegado...",
+        "es": "[Mayssel]\nSeñor Vicente… Llamé a Dumk…"
+    },
+    "uELwAg": {
+        "en": "[Vicente]\nAh, that is... Mayssel..\nAs you know well about Master.\nI can explain about Rogues to you.",
+        "pt": "[Vicente]\nAh... Senhorita Mayshell.\n...Todos lembram de meu carisma.\nPosso explicar um pouco como é ser um Renegado, se quiser.",
+        "es": "[Vicente]\nAh, eso es… Mayssel…\nYa que sabes tanto sobre el maestro…\nPuedo explicarte lo de los Pícaros."
+    },
+    "uULwAg": {
+        "en": "[Mayssel]\nI see...\n{0} Sorry but you can learn about the Shadow Chaser class from them.",
+        "pt": "[Mayshell]\nO ego dele é maior do que qualquer outra coisa...\nHmpf...\n{0} , me desculpe por não poder apresentar alguém mais apto a representar os Renegados...",
+        "es": "[Mayssel]\nYa veo…\n{0}, lo siento, pero puedes aprender sobre la clase Perseguidor de sombras con ellos."
+    },
+    "ukLwAg": {
+        "en": "[Mayssel]\nAnyway, these two gentlemen will help you.\n^4D4DFFCome back to me after speaking to Verkhasel and Vicente.^000000",
+        "pt": "[Mayshell]\nBom, talvez eles possam mesmo ajudar...\n^4D4DFFOuça o que Bercassell e Vicente têm a dizer e depois volte.^000000",
+        "es": "[Mayssel]\nDe todos modos, estos dos caballeros te ayudarán.\n^4D4DFFVuelve conmigo después de hablar con Verkhasel y Vicente.^000000"
+    },
+    "u0LwAg": {
+        "en": "[Mayssel]\nIf that's what you mean...",
+        "pt": "[Mayshell]\nUma pena, achei que roubaria... aprenderia com a gente.",
+        "es": "[Mayssel]\nSi te refieres a eso…"
+    },
+    "vELwAg": {
+        "en": "[Mayssel]\nYou've decided on a path.\nWelcome.\nYou have come to the world of shadows...",
+        "pt": "[Mayssel]\nVocê escolheu um caminho.\nBoas-vindas.\nVocê chegou ao mundo das sombras...",
+        "es": "[Mayssel]\nYa elegiste un camino.\nTe damos la bienvenida.\nLlegaste al mundo de las sombras…"
+    },
+    "vULwAg": {
+        "en": "[Mayssel]\nNow, you can change jobs right here through an official dispatched from the guild.\nIf possible, we recommend that you go directly to the job guild and change jobs.",
+        "pt": "[Mayssel]\nAgora, você pode mudar de classe aqui mesmo com um oficial enviado pela guilda.\nSe possível, recomendamos que vá diretamente à guilda da classe para mudar sua classe.",
+        "es": "[Mayssel]\nAhora, puedes cambiar de clase aquí mismo a través de un oficial enviado por el gremio.\nSi es posible, te recomendamos que vayas directamente al gremio de la clase y cambies de clase."
+    },
+    "vkLwAg": {
+        "en": "[Mayssel]\nIf you go to a job guild directly and change jobs\nAs a little bonus, we teach you the skills you need to practice right away.",
+        "pt": "[Mayssel]\nSe você mudar de classe na Guilda...\nEnsinaremos como bônus as habilidades que você precisa praticar imediatamente.",
+        "es": "[Mayssel]\nSi acudes directamente al gremio de una clase para cambiar de clase,\ncomo ayuda extra, te enseñaremos de inmediato las habilidades que necesitas practicar."
+    },
+    "v0LwAg": {
+        "en": "[Mayssel]\nIf you change jobs right here\n^4D4DFFTo acquire additional skills^000000, you need to do some quests.",
+        "pt": "[Mayssel]\nSe mudar de classe aqui,\n^4D4DFFpara obter habilidades adicionais^000000, você terá que fazer algumas missões.",
+        "es": "[Mayssel]\nSi cambias de clase aquí mismo,\n^4D4DFFpara adquirir habilidades adicionales^000000, tendrás que hacer algunas misiones."
+    },
+    "wELwAg": {
+        "en": "[Mayssel]\nEither way, it's up to you...",
+        "pt": "[Mayssel]\nDe qualquer forma, depende de você...",
+        "es": "[Mayssel]\nComo sea, depende de ti…"
+    },
+    "wULwAg": {
+        "en": "Still, I want to change jobs right away.",
+        "pt": "Ainda assim, quero mudar de classe imediatamente.",
+        "es": "Aun así, quiero cambiar de clase enseguida."
+    },
+    "wkLwAg": {
+        "en": "I'll go to the job guild and change jobs.",
+        "pt": "Vou até a guilda da classe para mudar de classe.",
+        "es": "Iré al gremio de la clase y cambiaré de clase."
+    },
+    "w0LwAg": {
+        "en": "[Mayssel]\nPlease change jobs through ^4D4DFFThieves Guild official^000000 here.\nWe respect your choice.",
+        "pt": "[Mayssel]\nMude de classe no ^4D4DFFOficial da Guilda dos Gatunos^000000.\nNós respeitamos sua escolha.",
+        "es": "[Mayssel]\nPor favor, cambia de clase a través del ^4D4DFFgremio de Ladrones^000000 aquí.\nRespetamos tu elección."
+    },
+    "xELwAg": {
+        "en": "[Mayssel]\nYou've decided.",
+        "pt": "[Mayssel]\nVocê decidiu.",
+        "es": "[Mayssel]\nYa decidiste."
+    },
+    "xULwAg": {
+        "en": "[Mayssel]\nWe will send you to Morroc, the shadow-bearing desert.\nIt will be an unfamiliar journey, but this is also a test.\nIf you are smart enough, you will be able to find the path of the shadow.",
+        "pt": "[Mayshell]\nVou te mandar para Morroc, a Joia do deserto.\nÉ uma jornada intensa, que pode ser encarada como um teste.\nSe for seu destino, poderá encontrar o mundo das sombras...",
+        "es": "[Mayssel]\nTe enviaremos a Morroc, el desierto sombrío.\nSerá un viaje desconocido, pero también es una prueba.\nSi eres lo suficientemente inteligente, podrás encontrar el camino sombrío."
+    },
+    "xkLwAg": {
+        "en": "I'll go right now!",
+        "pt": "E lá vou eu!",
+        "es": "¡Iré ahora mismo!"
+    },
+    "x0LwAg": {
+        "en": "I'll go later.",
+        "pt": "Irei... Depois...",
+        "es": "Iré más tarde."
+    },
+    "yELwAg": {
+        "en": "[Mayssel]\n^4D4DFFFirst, find Pyramid.^000000\n^4D4DFFnorthwest of Morroc^000000.\nYou will know the moment you enter the pyramid.",
+        "pt": "[Mayshell]\n^3131FFPrimeiro, encontre a pirâmide.^000000\nEstá na parte Noroeste de Morroc.\nVocê saberá o que fazer quando entrar na pirâmide.",
+        "es": "[Mayssel]\n^4D4DFFPrimero, encuentra la Pirámide^000000\n^4D4DFFal noroeste de Morroc^000000.\nCuando estés dentro de la Pirámide, lo sabrás."
+    },
+    "yULwAg": {
+        "en": "[Mayssel]\nMake a decision after researching other occupations sufficiently.",
+        "pt": "[Mayshell]\nTenha certeza de também conhecer outras Classes.",
+        "es": "[Mayssel]\nToma una decisión después de investigar suficientemente otras clases."
+    },
+    "ykLwAg": {
+        "en": "[Mayssel]\nIt's very... unfortunate, but just like an unripe apple doesn't taste good...\nThe minimum job level required for advancement is still insufficient.",
+        "pt": "[Mayshell]\nAlgo de errado não está certo...\nO nível mínimo de classe não foi atingido...",
+        "es": "[Mayssel]\nEs muy… desafortunado, así como el sabor desagradable de una Manzana inmadura…\nEl nivel de clase mínimo necesario para ascender sigue siendo insuficiente."
+    },
+    "y0LwAg": {
+        "en": "[Mayssel]\nThere are two levels: base level and job level.\nJob level is a numerical representation of your current job.",
+        "pt": "[Mayshell]\nExistem dois níveis: Nível de Base e Nivel de Classe.\nNível de Classe refere-se à sua Classe atual.",
+        "es": "[Mayssel]\nExisten dos niveles: nivel de base y nivel de clase.\nEl nivel de clase es una representación numérica de tu clase actual."
+    },
+    "zELwAg": {
+        "en": "[Mayssel]\n^4D4DFFThe condition for the first job change is job level 10.^000000.\nYou need to gain more experience.",
+        "pt": "[Mayshell]\nA condição para a primeira troca de Classe é o Nível de Classe estar no 10.\nAcumule mais experiência e volte depois.",
+        "es": "[Mayssel]\n^4D4DFFLa condición para el primer cambio de clase es tener el nivel de clase 10.^000000.\nNecesitas adquirir más experiencia."
+    },
+    "zULwAg": {
+        "en": "[Mayssel]\nHave you learned something about Thief, Assassin and Rogue?\nYou don't need to understand everything right now.",
+        "pt": "[Mayshell]\nO que acha dos Gatunos, Sicários e Renegados?\nNão precisa entender tudo agora...",
+        "es": "[Mayssel]\n¿Aprendiste algo sobre las clases Ladrón, Asesino y Pícaro?\nNo necesitas entenderlo todo ahora mismo."
+    },
+    "zkLwAg": {
+        "en": "[Mayssel]\nI only play the role to inform you of there is this one that one...\nThe next course is how to use the experience guide... Let's skim it over.",
+        "pt": "[Mayshell]\nPor sua sorte, combino perfeitamente com minha função de Instrutora.\nO próximo passo é usar um manual... acho que vou pular essa parte...",
+        "es": "[Mayssel]\nMi función solo es informarte sobre qué clases existen…\nLo que sigue sería aprender a usar la Guía de experiencia… Veamos un poco sobre eso."
+    },
+    "z0LwAg": {
+        "en": "[Mayssel]\nThe  guide for skill experience provided by the academy can be used up to level 12.\nRegretfully, only the explanation is available for you.",
+        "pt": "[Mayshell]\nO Manual de Habilidades dado pela Academia Criatura está disponível para uso até o nível 12.\nInfelizmente a explicação para por aqui...",
+        "es": "[Mayssel]\nLa Guía de experiencia en habilidades de la Academia puede usarse hasta el nivel 12.\nLamentablemente, por ahora solo puedes recibir estas explicaciones."
+    },
+    "0ELwAg": {
+        "en": "[Mayssel]\nIf you want to be a Thief, you just come back here.\nI can help you with the 1st step of the job change.",
+        "pt": "[Mayshell]\nSe quiser se tornar um Gatuno, volte até aqui.\nTalvez eu possa te ajudar com o processo de troca de Classe.",
+        "es": "[Mayssel]\nSi quieres convertirte en Ladrón, vuelve aquí.\nPuedo ayudarte con el primer paso del cambio de clase."
+    },
+    "0ULwAg": {
+        "en": "[Mayssel]\nThank you for your hard work.",
+        "pt": "[Mayshell]\nAté mais.",
+        "es": "[Mayssel]\nGracias por tu arduo trabajo."
+    },
+    "0kLwAg": {
+        "en": "[Mayssel]\nI only play the role to inform you of there is this one that one...\nThen, let's talk about the Thief's skills.",
+        "pt": "[Mayshell]\nPor sua sorte, combino perfeitamente com minha função de Instrutora.\nQue tal aprender sobre as Habilidade de um Gatuno?",
+        "es": "[Mayssel]\nMi función solo es informarte sobre qué clases existen…\nA continuación, hablemos de las habilidades de la clase Ladrón."
+    },
+    "00LwAg": {
+        "en": "[Mayssel]\nI will give you the guide to borrow the thief's skill temporarily.\nOrganize the guide items, you can see the useful skills on the 'ETC' skill window.",
+        "pt": "[Mayshell]\nVou te dar um Manual da Habilidades dos Gatunos.\nEquipe o Manual para revelar as Habilidades que pode utilizar.",
+        "es": "[Mayssel]\nTe daré la Guía para que tomes prestadas las habilidades de la clase Ladrón temporalmente.\nSi te fijas en los contenidos de la Guía, puedes ver las habilidades útiles en la ventana de habilidades ETC."
+    },
+    "1ELwAg": {
+        "en": "[Mayssel]\nBy making use of the guide, you may take the missions being asked by Verkhasel and Vicente.",
+        "pt": "[Mayshell]\nUse o Manual e as Habilidades adquiridas para terminar as tarefas do Bercassell e do Vicente.",
+        "es": "[Mayssel]\nHaciendo uso de la Guía, podrás realizar las misiones que te pidan Verkhasel y Vicente."
+    },
+    "1ULwAg": {
+        "en": "[Mayssel]\nVerkhasel and Vicente will give you various information related to the higher class jobs.\nSo, come back to me after listening to them.",
+        "pt": "[Mayshell]\nBercassell e Vicente te atualizarão sobre as tarefas e evoluções de classe.\nFale com os dois!",
+        "es": "[Mayssel]\nVerkhasel y Vicente te darán mucha información relacionada con las clases superiores.\nAsí que vuelve conmigo después de escucharlos."
+    },
+    "1kLwAg": {
+        "en": "[Mayssel]\nPreparation for real battle is next.",
+        "pt": "[Mayshell]\nEscutar e praticar é a maneira correta de ganhar!",
+        "es": "[Mayssel]\nDespués te prepararás para la batalla real."
+    },
+    "10LwAg": {
+        "en": "I see...",
+        "pt": "Beleza!",
+        "es": "Ya veo…"
+    },
+    "2ELwAg": {
+        "en": "I won't do it.",
+        "pt": "Não me interessa no momento",
+        "es": "No lo haré."
+    },
+    "2ULwAg": {
+        "en": "[Mayssel]\nI will compensate for you when your mission is completed.\nCome back to me after speaking to Verkhasel and Vicente.",
+        "pt": "[Mayshell]\nDarei uma recompensa por completar a missão.\nOuça o que os dois têm a falar...",
+        "es": "[Mayssel]\nTe compensaré cuando completes tu misión.\nVuelve conmigo después de hablar con Verkhasel y Vicente."
+    },
+    "2kLwAg": {
+        "en": "[Mayssel]\nI see..\nThis course is now cancelled.",
+        "pt": "[Mayshell]\nHm...\nVou fingir que nada aconteceu...",
+        "es": "[Mayssel]\nYa veo…\nSe canceló el curso."
+    },
+    "20LwAg": {
+        "en": "[Mayssel]\nI only play the role to inform you of there is this one that one...\nThen, let's talk about the thief's skill.",
+        "pt": "[Mayssel]\nO meu papel é informar as opções...\nEntão, vamos falar sobre as habilidades de gatuno.",
+        "es": "[Mayssel]\nMi función solo es informarte sobre qué clases existen…\nEntonces, hablemos de las habilidades de la clase Ladrón."
+    },
+    "3ELwAg": {
+        "en": "[Mayssel]\nHave you got a sense what it is to be a Thief?\nIf you want to use the skill like double attack, visit ^4D4DFFMr. Subino on the 1st floor^000000.",
+        "pt": "[Mayshell]\nVocê tem alguma ideia do que são Gatunos?\nSe quiser usar a Habilidade de Ataque Duplo, fale com o ^4D4DFFSpino^000000 no térreo.",
+        "es": "[Mayssel]\n¿Sabes lo que es ser de la clase Ladrón?\nSi quieres usar la habilidad Doble ataque, visita al ^4D4DFFseñor Subino en el primer piso^000000."
+    },
+    "3ULwAg": {
+        "en": "[Mayssel]\n<NAVI>[Battle Trainer Subino]<INFO>iz_ac01,59,83</INFO></NAVI> will give you several battle missions.",
+        "pt": "[Mayshell]\nO <NAVI>[Instrutor de Combate Spino]<INFO>iz_ac01,59,83</INFO></NAVI> te dará várias missões de combate...",
+        "es": "[Mayssel]\nEl <NAVI>[Instructor Subino]<INFO>iz_ac 01,59,83</INFO></NAVI> te dará varias misiones de batalla."
+    },
+    "3kLwAg": {
+        "en": "[Mayssel]\nI hope you experience other skills with battle Quests.\nDouble attack is somewhat an exciting skill.",
+        "pt": "[Mayshell]\nEspero que possa aproveitar para praticar algumas Habilidades em batalha,\nJá adianto que o Ataque Duplo é muito forte!",
+        "es": "[Mayssel]\nEspero que conozcas otras habilidades en las misiones de batalla.\nDoble ataque es una habilidad emocionante."
+    },
+    "30LwAg": {
+        "en": "[Mayssel]\nMake a decision after you've at least experienced it.\nYou still have a long way and enough time before you make a decision... Think of it deeply.",
+        "pt": "[Mayshell]\nMas tome seu tempo para testar e experimentar...\nSão muitas opções e você tem tempo para escolher.",
+        "es": "[Mayssel]\nToma una decisión después de haberla experimentado.\nAún te queda mucho camino y tiempo antes de tomar una decisión… Piénsalo muy bien."
+    },
+    "4ELwAg": {
+        "en": "[Mayssel]\nThank you for you hard work.",
+        "pt": "[Mayssel]\nAgradeço o trabalho árduo.",
+        "es": "[Mayssel]\nGracias por tu esfuerzo."
+    },
+    "4ULwAg": {
+        "en": "[Mayssel]\nIn the battle training, the actual fighting is more important than theory.\nTo use the skill once is better than all this talking.",
+        "pt": "[Mayshell]\nQuando o assunto é combate, praticar é o mais importante.\nÉ sempre melhor usar a Habilidade do que ficar ouvindo explicações...",
+        "es": "[Mayssel]\nEn el entrenamiento de combate, la teoría no es tan importante como la pelea en sí.\nUsar la habilidad una vez es mejor que toda esta palabrería."
+    },
+    "4kLwAg": {
+        "en": "[Mayssel]\nIf you carry out the mission asked by Verkhasel and Vicente, I will go to the next class.",
+        "pt": "[Mayshell]\nSe você completar as tarefas do Bercassell e do Vicente direitinho, prosseguiremos com os próximos passos.",
+        "es": "[Mayssel]\nSi llevas a cabo la misión solicitada por Verkhasel y Vicente, seguiremos con la siguiente clase."
+    },
+    "40LwAg": {
+        "en": "I see.",
+        "pt": "Beleza",
+        "es": "Ya veo."
+    },
+    "5ELwAg": {
+        "en": "[Mayssel]\nI will compensate for you when your mission is complete.\nCome back to me after listening to Verkhasel and Vicente.",
+        "pt": "[Mayssel]\nEu darei uma recompensa quando a missão for concluída.\nFale comigo depois de ouvir Bercassell e Vicente.",
+        "es": "[Mayssel]\nTe compensaré cuando completes tu misión.\nVuelve conmigo después de escuchar a Verkhasel y Vicente."
+    },
+    "5ULwAg": {
+        "en": "[Mayssel]\nI see.\nThis course is now cancelled.\nThe ongoing lower courses are cancelled.",
+        "pt": "[Mayshell]\nHm...\nVou fingir que nada aconteceu...\nTodas as atividades relacionadas serão canceladas também....",
+        "es": "[Mayssel]\nYa veo.\nSe canceló el curso.\nSe cancelan todos los cursos inferiores actuales."
+    },
+    "5kLwAg": {
+        "en": "No.",
+        "pt": "Quê?! Não faz isso!",
+        "es": "No."
+    },
+    "50LwAg": {
+        "en": "Yes, cancel the course.",
+        "pt": "Sim, cancele tudo!",
+        "es": "Sí, cancelar el curso."
+    },
+    "6ELwAg": {
+        "en": "[Mayssel]\nFortunately...\nGood to see you have patience.",
+        "pt": "[Mayshell]\nUfa...\nVocê me assustou bastante...",
+        "es": "[Mayssel]\nAfortunadamente…\nEs bueno ver que te sobra la paciencia."
+    },
+    "6ULwAg": {
+        "en": "[Mayssel]\nAll the ongoing courses are cancelled.\nThese are not your aptitude.",
+        "pt": "[Mayshell]\nTá cancelado então...\nNão sou a maior fã de ficar cancelando coisas...",
+        "es": "[Mayssel]\nSe cancelan todos los cursos actuales.\nEstas no son tus aptitudes."
+    },
+    "6kLwAg": {
+        "en": "[Mayssel]\nWhat are you curious about?\nIf you want to know about battle, visit <NAVI>[Battle Trainer Subino]<INFO>iz_ac01_c,59,83</INFO></NAVI>.",
+        "pt": "[Mayshell]\nQual sua dúvida?\nSe quiser saber mais sobre batalhas\nvá encontrar o <NAVI>[Instrutor de Combate Spino]<INFO>iz_ac01,59,83</INFO></NAVI>.",
+        "es": "[Mayssel]\n¿Sobre qué sientes curiosidad?\nSi quieres saber más sobre el combate, visita al <NAVI>[Instructor Subino]<INFO>iz_ac 01_c,59,83</INFO></NAVI>."
+    },
+    "60LwAg": {
+        "en": "Change job to Thief.",
+        "pt": "Trocar a Classe para Gatuno",
+        "es": "Cambiar a la clase Ladrón."
+    },
+    "7ELwAg": {
+        "en": "Thief Stat Explanation",
+        "pt": "Sobre as várias características dos Gatunos",
+        "es": "Explicación de las estadísticas de la clase Ladrón."
+    },
+    "7ULwAg": {
+        "en": "Thief Skill Explanation",
+        "pt": "As principais Habilidades dos Gatunos",
+        "es": "Explicación de las habilidades de la clase Ladrón."
+    },
+    "7kLwAg": {
+        "en": "Not curious about it.",
+        "pt": "Não tenho dúvidas",
+        "es": "No tengo curiosidad."
+    },
+    "70LwAg": {
+        "en": "[Mayssel]\nYou have decided on a path.\nWelcome.\nWelcome to the world of shadows...",
+        "pt": "[Mayshell]\nParece que se decidiu...\nFinalmente caminhará para o mundo das sombras...",
+        "es": "[Mayssel]\nYa elegiste un camino.\nTe damos la bienvenida.\nBienvenido al mundo de las sombras…"
+    },
+    "8ELwAg": {
+        "en": "[Mayssel]\nYou want to know more about stats?\nAs Vicente already told you, stats don't have a fixed answer.",
+        "pt": "[Mayshell]\nÉ sobre os atributos?\nAcho que já te falaram isso mas... Não há um consenso sobre os atributos...",
+        "es": "[Mayssel]\n¿Quieres saber más sobre las estadísticas?\nComo ya te dijo Vicente, no hay una única respuesta sobre las estadísticas."
+    },
+    "8ULwAg": {
+        "en": "[Mayssel]\nIf I choose one among them,\n^4D4DFFAGI is related to flee ability^000000,\n^4D4DFFDex is related with hit ratio\nSTR raises physical attacking power^000000",
+        "pt": "[Mayshell]\nHá vários para escolher...\n^3131FFAGI aumenta a agilidade^000000.\n^3131FFDES melhora a precisão^000000.\n^3131FFFOR garante mais dano físico^000000.",
+        "es": "[Mayssel]\nSi vamos una por una,\n^4D4DFFAGI está relacionado con la capacidad de evasión^000000.\n^4D4DFFDES está relacionado con la precisión de los golpes.\nFUE aumenta el poder de ataque físico^000000."
+    },
+    "8kLwAg": {
+        "en": "[Mayssel]\nVit, Luk, Int are valued according your target chosen.\nFor your reference, Verkhasel has high level of Luk.\nA weapon called Katar is good for Critical.",
+        "pt": "[Mayshell]\nVIT, SOR e INT podem ser escolhidas dependendo do caminho que for trilhar.\nO Bercassell, por exemplo, tem muita SOR.\nEle dá crítico toda hora!",
+        "es": "[Mayssel]\nVIT, SUE, INT se valoran según tu objetivo elegido.\nPor ejemplo, Verkhasel tiene un alto nivel de SUE.\nUn arma llamada Katar es buena para los CRÍT."
+    },
+    "80LwAg": {
+        "en": "[Mayssel]\nBut thief's primary weapon is a dagger.\nIn the end, you have only to supplement your weak point, after evaluating you and your enemy.",
+        "pt": "[Mayshell]\nLembrando que a arma principal de um Gatuno é a Adaga.\nContudo, adaptações no combate são recorrentes, então prepare-se sempre!",
+        "es": "[Mayssel]\nPero el arma principal de la clase Ladrón es la Daga.\nAl final, solo tienes que complementar tu punto débil, después de evaluarte a ti y a tu enemigo."
+    },
+    "9ELwAg": {
+        "en": "[Mayssel]\nIf your attack doesn't hit the enemy, you come to think of the hit ratio.\nHope you find the right stats that are suitable to your fighting style.",
+        "pt": "[Mayshell]\nSe não obtiver sucesso, é só focar em outro atributo...\nO ideal é investir no que mais te agrada...",
+        "es": "[Mayssel]\nSi tu ataque no acierta al enemigo, deberás prestar atención a tu tasa de PREC.\nEspero que encuentres las estadísticas adecuadas para tu estilo de lucha."
+    },
+    "9ULwAg": {
+        "en": "[Mayssel]\nWhich skill are you curious about?",
+        "pt": "[Mayshell]\nGostaria de saber mais sobre quais Habilidades?",
+        "es": "[Mayssel]\n¿Por qué habilidad sientes curiosidad?"
+    },
+    "9kLwAg": {
+        "en": "Improve Dodge",
+        "pt": "Perícia em Esquiva",
+        "es": "Evasión mejorada."
+    },
+    "90LwAg": {
+        "en": "Double attack",
+        "pt": "Ataque Duplo",
+        "es": "Doble ataque."
+    },
+    "+ELwAg": {
+        "en": "Hiding and Steal",
+        "pt": "Esconderijo e Furto",
+        "es": "Ocultamiento y Robar."
+    },
+    "+ULwAg": {
+        "en": "Envenom and Detoxify",
+        "pt": "Envenenar e Desintoxicar",
+        "es": "Enveneno y Desintoxicación."
+    },
+    "+kLwAg": {
+        "en": "[Mayssel]\nAs the name implies, ^4D4DFFthis skill increases a certain amount of evasion ratio^000000\nYou want to avoid taking damage from enemy attack, don't you?",
+        "pt": "[Mayshell]\n^4D4DFFAumenta a esquiva por um tempo^000000.\nDevemos sempre desviar dos monstros, né?",
+        "es": "[Mayssel]\nComo su nombre indica, ^4D4DFFesta habilidad aumenta un poco la tasa de evasión^000000.\nQuieres evitar recibir daño de los ataques enemigos, ¿no?"
+    },
+    "+0LwAg": {
+        "en": "[Mayssel]\n^4D4DFFThis skill allows you to deal two damages with only one attack.^000000\nEven though this dagger looks poor, it can damage your enemy severely by the fast two attacks.",
+        "pt": "[Mayshell]\n^4D4DFFAcerta o alvo duas vezes em um único ataque^000000.\nÉ uma habilidade muito poderosa que, quando combinada com os atributos certos, torna qualquer Gatuno um ser letal.",
+        "es": "[Mayssel]\n^4D4DFFEsta habilidad te permite infligir daño dos veces con un solo ataque.^000000\nAunque esta Daga quizá no tenga el mejor aspecto, puede dañar gravemente a tu enemigo con sus dos ataques rápidos."
+    },
+    "/ELwAg": {
+        "en": "[Mayssel]\n^4D4DFFHiding means exactly that... to hide.^000000",
+        "pt": "[Mayshell]\n^4D4DFFEsconderijo cria um buraco para... se esconder^000000.\nNão é covardia tirar um descanso das batalhas intensas...",
+        "es": "[Mayssel]\n^4D4DFFOcultamiento significa exactamente eso… esconderse.^000000"
+    },
+    "/ULwAg": {
+        "en": "[Mayssel]\n^4D4DFFSteal is the skill of stealing enemy's items^000000.\nYou can steal one item from one enemy.",
+        "pt": "[Mayshell]\n^4D4DFFFurto pode ser utilizado nos inimigos^000000.\nVocê esvazia os bolsos dos monstros um por vez...",
+        "es": "[Mayssel]\n^4D4DFFRobar es la habilidad para robar los objetos del enemigo^000000.\nPuedes robar un objeto a un enemigo."
+    },
+    "/kLwAg": {
+        "en": "[Mayssel]\n^4D4DFFEnvenom is used to poison your enemy.^000000\nIf poisoned, it can make a physical attacks slowly eat away at your foe.",
+        "pt": "[Mayshell]\n^4D4DFFEnvenenar aplica veneno aos inimigos^000000.\nDano com o tempo? Tudo de bom!",
+        "es": "[Mayssel]\n^4D4DFFEnveneno se usa para aplicar Veneno a tu enemigo.^000000\nBajo el efecto de Veneno, puedes hacer que un ataque físico devore lentamente la vitalidad de tu enemigo."
+    },
+    "/0LwAg": {
+        "en": "[Mayssel]\nOppositely, the name implies, Detoxify removes poison status.",
+        "pt": "[Mayshell]\n^3131FFDesintoxicar é basicamente remover o veneno^000000.\nUm ato de misericórdia e bondade.",
+        "es": "[Mayssel]\nPor el contrario, como su nombre lo indica, Desintoxicación remueve el estado de Veneno."
+    },
+    "AEPwAg": {
+        "en": "[Mayssel]\nIt is good you have enough knwledge.\nSupplementary the field experiences will make you perfect.",
+        "pt": "[Mayshell]\nA esperteza é um dom seu.\nVá praticar, então...",
+        "es": "[Mayssel]\nEl conocimiento nunca está de más.\nLas experiencias complementarias te perfeccionarán."
+    },
+    "AUPwAg": {
+        "en": "[Mayssel]\nIs that so?\nLike other job guilds, there is a limit learned through theory.\nI would like to recommend you to experience battle first-hand.",
+        "pt": "[Mayshell]\nTá bem...\nNunca se esqueça de sempre treinar bastante!",
+        "es": "[Mayssel]\n¿De verdad?\nAl igual que en los gremios de otras clases, existe un límite a lo que se puede aprender a través de la teoría.\nMe gustaría recomendarte que experimentes el combate de primera mano."
+    },
+    "AkPwAg": {
+        "en": "[Mayssel]\nYou are a stranger.\nExcuse me but I was invited to explain about the jobs for the students,\nI have no words to tell you.",
+        "pt": "[Mayshell]\nVocê não pertence aqui...\nNão tenho nada pra te falar...",
+        "es": "[Mayssel]\nEres un extraño.\nDisculpa, pero me invitaron a explicar las clases a los estudiantes,\nno tengo nada que decirte a ti."
+    },
+    "A0PwAg": {
+        "en": "[Mayssel]\nIt is almost miracle to meet you and me living far away from the light of ground.\nWe should abide by the regulations.",
+        "pt": "[Mayshell]\nNão posso te dar instruções dessa forma...\nAs regras devem ser obedecidas...",
+        "es": "[Mayssel]\nEs casi un milagro que nos encontremos tú y yo viviendo tan lejos de la luz de la tierra.\nDebemos cumplir las normas."
+    },
+    "BEPwAg": {
+        "en": "[Mayssel]\nAttending the class, first you may be a student of Criatura Academy.",
+        "pt": "[Mayshell]\nSe quiser participar e receber conselhos, matricule-se na Academia Criatura.",
+        "es": "[Mayssel]\nPuedes asistir a clases como estudiante de la Academia de criaturas."
+    },
+    "BUPwAg": {
+        "en": "[Mayssel]\nHowever, if you want the information about the thief job itself, I will let you know.",
+        "pt": "[Mayshell]\nContudo, se deseja informações gerais sobre a Classe, posso te explicar.",
+        "es": "[Mayssel]\nSin embargo, si quieres información sobre la clase Ladrón como tal, te la daré."
+    },
+    "BkPwAg": {
+        "en": "About the useful stats for a Thief",
+        "pt": "Sobre as várias utilidades de um Gatuno",
+        "es": "Estadísticas útiles para la clase Ladrón."
+    },
+    "B0PwAg": {
+        "en": "About Thief's primary skills",
+        "pt": "Não preciso de explicações...",
+        "es": "Habilidades principales de la clase Ladrón."
+    },
+    "CEPwAg": {
+        "en": "[Mayssel]\nAfter you register as a student, you can take lessons and gain more experience.",
+        "pt": "[Mayshell]\nSe quiser se aprofundar mais, matricule-se na Academia Criatura...\nFica a dica.",
+        "es": "[Mayssel]\nDespués de inscribirte como estudiante, podrás tomar lecciones y adquirir más experiencia."
+    },
+    "CUPwAg": {
+        "en": "[Mayssel]\nYou are on the way of thief.\nThief is the 1st job.",
+        "pt": "[Mayshell]\nSeu destino está nos Gatunos...\nÉ uma Classe de Nível 1.",
+        "es": "[Mayssel]\nVas camino a convertirte en la clase Ladrón.\nLadrón es la primera clase."
+    },
+    "CkPwAg": {
+        "en": "[Mayssel]\nSomeday, you would transfer to the 2nd job.\nIt would be better to think of whether becoming  a Log or an Assassin now.",
+        "pt": "[Mayshell]\nVocê passará para um a Classe de Nível 2 em breve....\nÉ melhor já começar pensando no que irá se tornar...",
+        "es": "[Mayssel]\nAlgún día, te transferirás a la segunda clase.\nSería mejor pensar ahora si quieres convertirte en Pícaro o Asesino."
+    },
+    "C0PwAg": {
+        "en": "[Mayssel]\nThis is the classroom for thief in Criatura Academy.\nYou are already knowledgeable a lot to be taught something by me.",
+        "pt": "[Mayshell]\nEssa é a parte da Academia Criatura dedicada aos Gatunos.\nVocê parece já saber bastante coisa...",
+        "es": "[Mayssel]\nEsta es el aula para miembros de la clase Ladrón de la Academia de criaturas.\nYa sabes demasiado como para que yo te enseñe algo."
+    },
+    "DEPwAg": {
+        "en": "[Mayssel]\nI see..",
+        "pt": "[Mayshell]\nHm...",
+        "es": "[Mayssel]\nYa veo…"
+    },
+    "DUPwAg": {
+        "en": "Vicente",
+        "pt": "Vicente",
+        "es": "Vicente"
+    },
+    "DkPwAg": {
+        "en": "[Vicente]\nAre you curious about the thief job?\nMayssel will give you the details about it.\nBut, you must be a student of Criatura Academy.",
+        "pt": "[Vicente]\nEstá curioso sobre a Classe de Gatuno?\nMayshell pode te explicar os detalhes.\nMas... Você deveria estar matriculado na Academia Criatura.",
+        "es": "[Vicente]\n¿Sientes curiosidad por la clase Ladrón?\nMayssel te dará los detalles al respecto.\nPero debes ser un estudiante de la Academia de criaturas."
+    },
+    "D0PwAg": {
+        "en": "[Vicente]\nHmmm. Thief.... Then, I need to explain to you about stats, too.",
+        "pt": "[Vicente]\nGatunos... Preciso explicar os atributos.",
+        "es": "[Vicente]\nMmmm. Ladrón… Entonces, también tengo que explicarte lo de las estadísticas."
+    },
+    "EEPwAg": {
+        "en": "[Vicente]\nFirst, ^4D4DFFStr power, Agi agility, Dex hit,^000000 these theree elements are all good for a Thief.\nSupplementary elements are Int intelligence, Vit vitality, Luk luck.",
+        "pt": "[Vicente]\nPrimeiramente é importante saber que ^4D4DFFFOR, AGI e DES^000000 são os principais atributos para os Gatunos.\nComo atributos secundários, você pode optar por INT, VIT ou SOR...",
+        "es": "[Vicente]\nEn primer lugar, ^4D4DFFFUE es tu fuerza, AGI tu agilidad y DES tu capacidad de golpe^000000. Estos tres elementos son importantes para la clase Ladrón.\nLos elementos suplementarios son INT de inteligencia, VIT de vitalidad y SUE de suerte."
+    },
+    "EUPwAg": {
+        "en": "[Vicente]\nAs^4D4DFF Str raises the physical attacking power, it will be your tool to raises your attacking power against a Thief and Rogue who primarily use daggers^000000.\nAnd, I will raise your limit of carrying items, which means you can load more items.",
+        "pt": "[Vicente]\n^4D4DFFFOR aumenta o ataque físico^000000, fazendo com que Gatunos que usem a Adaga como principal instrumento sejam muito fortes.\nTambém aumenta a quantidade de itens que você pode carregar. Dá pra carregar mais itens roubados...",
+        "es": "[Vicente]\nYa que la^4D4DFF FUE aumenta el poder de ataque físico, esta será tu herramienta para aumentar tu poder de ataque contra personas de la clase Ladrón y Pícaro, que usan principalmente Dagas^000000.\nY aumentaré tu límite de carga de objetos, lo que significa que podrás llevar más objetos."
+    },
+    "EkPwAg": {
+        "en": "[Vicente]\n^4D4DFFAgi is to raise your evasion ratio and Aspd attacking speed.^000000 Simply speaking, you become nimble.",
+        "pt": "[Vicente]\n^4D4DFFAGI aumenta a capacidade de esquiva e a velocidade de ataque^000000. Basicamente você vira o Relâmpago Marquinhos.",
+        "es": "[Vicente]\n^4D4DFFAGI es para aumentar tu tasa de evasión y VELA, la velocidad de ataque.^000000 En pocas palabras, te vuelves ágil."
+    },
+    "E0PwAg": {
+        "en": "[Vicente]\nAgi is one of the very important figures as you- a thief wearing a light armor have to evade the enemy's attack rather than facing it head on.",
+        "pt": "[Vicente]\nAGI é muito importante porque combina bem com armaduras leves, fazendo com que as esquivas sejam mais eficientes.",
+        "es": "[Vicente]\nAGI es uno de los aspectos más importantes, ya que tú, que eres de la clase Ladrón y portas una armadura ligera, tendrás que evadir el ataque del enemigo en lugar de enfrentarte a él directamente."
+    },
+    "FEPwAg": {
+        "en": "[Vicente]\nAnd ^4D4DFFDex to hit your attack^000000 is unforgettable.\nYou can do anything once your attack succeeds.",
+        "pt": "[Vicente]\nJá ^4D4DFFDES melhora a precisão^000000, fazendo você acertar mais ataques.\nPense nas possibilidades...",
+        "es": "[Vicente]\nY necesitarás ^4D4DFFDES para que tu golpe^000000 sea inolvidable.\nPuedes hacer cualquier cosa si tu ataque da en el blanco."
+    },
+    "FUPwAg": {
+        "en": "[Vicente]\nIn addition, there are those who are fighting in the War of Emperium with ^4D4DFFthe raised VIT energy level to increase their HP vitality^000000.",
+        "pt": "[Vicente]\nComo exemplo de atributo secundário, a ^4D4DFFVIT aumenta o HP e a defesa^000000...",
+        "es": "[Vicente]\nAdemás, hay quienes luchan en la Guerra del Emperium con ^4D4DFFel nivel de energía VIT elevado para aumentar su vitalidad de HP^000000."
+    },
+    "FkPwAg": {
+        "en": "[Vicente]\nAmong the Rogue skills, there is a skill called 'Intimidate' with which you can learn and use other's skills,\nthere are some who^4D4DFFinvest to Intelligence to use the learned magic from this spell^000000.",
+        "pt": "[Vicente]\nPorém, o Gatuno não é limitado a esses atributos.\nDá pra investir em INT e ^4D4DFFaprender algumas magias diferenciadas^000000.",
+        "es": "[Vicente]\nEntre las habilidades de la clase Pícaro, hay una llamada Intimidación con la que puedes aprender y usar las habilidades de otros,\nhay algunos que ^4D4DFFinvierten en Inteligencia para usar la magia aprendida con este hechizo^000000."
+    },
+    "F0PwAg": {
+        "en": "[Vicente]\nWe I can tell which one is the right choice.\nAccording to the individual tastes and purposes, you have to split your ability.\nBut...",
+        "pt": "[Vicente]\nInfelizmente não posso dizer qual o caminho correto.\nVai muito de gosto...\nMas posso te falar que...",
+        "es": "[Vicente]\nTe puedo decir cuál es la elección correcta.\nLas habilidades se dividen según los gustos y propósitos individuales.\nPero…"
+    },
+    "GEPwAg": {
+        "en": "[Vicente]\nRogues are for ^4D4DFFdisarming the enemy's armor^000000 or ^4D4DFFstealing better than a thief^000000.\nor ^4D4DFF fall back after suddenly being attacked^000000",
+        "pt": "[Vicente]\n^3131FFRenegados roubam coisas dos inimigos de uma forma mais eficiente do que os Gatunos^000000.\n^3131FFVocê também pode usar um ataque surpresa e recuar^000000...",
+        "es": "[Vicente]\nLos Pícaros son buenos para ^4D4DFFdesarmar la armadura del enemigo^000000, para ^4D4DFFrobar mejor que un Ladrón^000000\no para ^4D4DFFretroceder tras recibir un ataque repentino^000000."
+    },
+    "GUPwAg": {
+        "en": "[Vicente]\nHmmhmmm. It may look cowardish but it is upgraded from a thief.\nAs it can have a better eyesight and do the art.",
+        "pt": "[Vicente]\nParecem atos covardes e tals, mas somos apenas mais defensivos...\nTalvez um dia tudo seja melhor compreendido...",
+        "es": "[Vicente]\nMmmmm. Puede parecer cobarde, pero es la versión mejorada del Ladrón.\nYa que puede tener una mejor visión y ser un maestro del arte."
+    },
+    "GkPwAg": {
+        "en": "Haaaaam...",
+        "pt": "Hmm...",
+        "es": "Aaaahhh…"
+    },
+    "G0PwAg": {
+        "en": "Is that so?",
+        "pt": "Entendi...",
+        "es": "¿De verdad?"
+    },
+    "HEPwAg": {
+        "en": "[Vicente]\n.........you were boring.\nAmong the thief's skills, there is an item called 'Improve Dodge'.\nThe stats related to evasion ratio is..",
+        "pt": "[Vicente]\nQuanta chatice, né?\nE vamos de pergunta surpresa...\nTem uma Habilidade de Gatuno que chama Perícia em Esquiva\nO atributo ligado à essa Habilidade é...",
+        "es": "[Vicente]\n… Me aburres.\nEntre las habilidades de la clase Ladrón, hay una llamada Evasión mejorada.\nLas estadísticas relacionadas con la tasa de evasión son…"
+    },
+    "HUPwAg": {
+        "en": "Dex !!",
+        "pt": "DES",
+        "es": "¡DES!"
+    },
+    "HkPwAg": {
+        "en": "Agi !!",
+        "pt": "AGI",
+        "es": "¡AGI!"
+    },
+    "H0PwAg": {
+        "en": "[Rumin]\nDon't mess around with me too much.\nIt's Agi.",
+        "pt": "[Rumin]\nQue piada.\nÉ AGI!",
+        "es": "[Rumin]\nSerá mejor que no me hagas perder el tiempo.\nEs AGI."
+    },
+    "IEPwAg": {
+        "en": "Ah, yes...",
+        "pt": "Ah...",
+        "es": "Ah, sí…"
+    },
+    "IUPwAg": {
+        "en": "[Rumin]\nCompensation is?",
+        "pt": "[Rumin]\n...Quero uma recompensa!",
+        "es": "[Rumin]\n¿Y la compensación es?"
+    },
+    "IkPwAg": {
+        "en": "[Vicente]\nAhhh, yes...\nI will give a gift for Rumin.",
+        "pt": "[Vicente]\nTá bem...\nVamos dar algo ao Rumin...",
+        "es": "[Vicente]\nAhhh, sí…\nLe haré un regalo a Rumin."
+    },
+    "I0PwAg": {
+        "en": "[Vicente]\nNow I will finish my class.\nImportant thing is not theory like what we are talking about.\nActual fighting!! Actual fighting is key!!",
+        "pt": "[Vicente]\nE chega de papo furado...\nNão é a teoria que importa.\nPrática! A prática leva à perfeição!",
+        "es": "[Vicente]\nAhora voy a terminar mi lección.\nLo importante no es la teoría, como lo que estamos hablando.\n¡¡Sino pelear de verdad!! ¡¡Pelear de verdad es esencial!!"
+    },
+    "JEPwAg": {
+        "en": "[Vicente]\nOh, fortunately you have been in the class.\nI didn't feel easy as your face look very boring.\nNow, shall we keep going on?",
+        "pt": "[Vicente]\nAinda bem que está prestando atenção.\nPensei que já estava cansado de tanta informação...\nVamos continuar?",
+        "es": "[Vicente]\nOh, afortunadamente estuviste en la lección.\nNo parecía fácil, ya que se veía que te estabas aburriendo.\nAhora, ¿podemos seguir?"
+    },
+    "JUPwAg": {
+        "en": "[Rumin]\n...... Compensation is?",
+        "pt": "[Rumin]\n...... E a compensação?",
+        "es": "[Rumin]\n…… ¿Y la compensación es?"
+    },
+    "JkPwAg": {
+        "en": "[Vicente]\nAh,,, thank you for your pointout.\nBe successful!",
+        "pt": "[Vicente]\nObrigado por me lembrar.\nVou te dar uma recompensa e finalizamos com teorias...",
+        "es": "[Vicente]\nAh, gracias por señalarlo.\n¡Que tengas éxito!"
+    },
+    "J0PwAg": {
+        "en": "[Vicente]\nImportant thing is not theory but actual fighting.\nDo you agree?",
+        "pt": "[Vicente]\nPorque não é a teoria que importa.\nNão é?!",
+        "es": "[Vicente]\nLo importante no es la teoría, sino luchar de verdad.\n¿Estás de acuerdo?"
+    },
+    "KEPwAg": {
+        "en": "[Vicente]\nTalking about Rogue,\nIt is not a cowardish job as the others complain.",
+        "pt": "[Vicente]\nRenegado.\nNão somos covardes igual todos pensam...",
+        "es": "[Vicente]\nHablando de la clase Pícaro,\nno es un trabajo de cobardes como otros dicen."
+    },
+    "KUPwAg": {
+        "en": "[Rumin]\n.....Don't you have a strange hobby?\nTaking off other's clothings.",
+        "pt": "[Rumin]\n...\nAcho Renegados covardes!",
+        "es": "[Rumin]\n…¿No tienes algún pasatiempo extraño?\nQuitarle la ropa a los demás."
+    },
+    "KkPwAg": {
+        "en": "[Vicente]\nWhat.. What a thing to say!\nLu, you shouldn't say such things!\nRogue is the upper level to a thief.",
+        "pt": "[Vicente]\nQuê!\nVocê não pode dizer essas coisas!\nRenegado é uma das maiores Classes que o Gatuno pode atingir!",
+        "es": "[Vicente]\n¿Qué…? ¡Qué cosas dices!\n¡Lu, no deberías decir esas cosas!\nEl Pícaro es el nivel superior de un Ladrón."
+    },
+    "K0PwAg": {
+        "en": "[Rumin]\nEummm. I won't be a Log.\nHow about you?",
+        "pt": "[Rumin]\nNão sou fã de Renegados...\nE você?",
+        "es": "[Rumin]\nEeeeeh. No seré Pícaro.\n¿Y tú?"
+    },
+    "LEPwAg": {
+        "en": "Eh? Me? I don't want to be.",
+        "pt": "Nem eu...",
+        "es": "¿Eh? ¿Yo? No quiero serlo."
+    },
+    "LUPwAg": {
+        "en": "Me.. I like... Rogue...",
+        "pt": "Até gosto de Renegados...",
+        "es": "Yo… A mí me gusta… La clase Pícaro…"
+    },
+    "LkPwAg": {
+        "en": "[Rumin]\nOk. Then you take the bloody way with me.\nBecoming a shadow in the dark....",
+        "pt": "[Rumin]\nEntão saiam daqui!\nOu farei questão de que virem sombra...",
+        "es": "[Rumin]\nDe acuerdo. Entonces sigue este maldito camino conmigo.\nConvertirse en una sombra en la oscuridad…"
+    },
+    "L0PwAg": {
+        "en": "I don't want to be a thief.",
+        "pt": "Não me tornarei gatuno...",
+        "es": "No quiero ser de la clase Ladrón."
+    },
+    "MEPwAg": {
+        "en": ".... I'm scared!",
+        "pt": "Assustador...Hmpf",
+        "es": "… ¡Tengo miedo!"
+    },
+    "MUPwAg": {
+        "en": "[Rumin]\n... a headache.",
+        "pt": "[Vicente]\nHahahahaha...",
+        "es": "[Rumin]\n…dolor de cabeza."
+    },
+    "MkPwAg": {
+        "en": "[Vicente]\nHahahaha.  Stop talking about the scary story.",
+        "pt": "[Vicente]\nHahahahaha. Pare de falar sobre a história assustadora.",
+        "es": "[Vicente]\nJa, ja, ja, ja.  Deja de contar ese cuento de terror."
+    },
+    "M0PwAg": {
+        "en": "[Rumin]\n.. Hng..",
+        "pt": "[Rumin]\n.. Argh...",
+        "es": "[Rumin]\n… Uuuf…"
+    },
+    "NEPwAg": {
+        "en": "[Rumin]\nIs that so?\nIt is an astonishing fighting skill to make the enemy disarmed and disabled.\nI thumb up the skill.",
+        "pt": "[Rumin]\nTá bem...\nTem seus pontos fortes em poder roubar parte das armaduras dos inimigos...\nDá pra entender o porque de você gostar...",
+        "es": "[Rumin]\n¿De verdad?\nHacer que el enemigo quede desarmado e incapacitado es una asombrosa habilidad de combate.\nMe agrada esta habilidad."
+    },
+    "NUPwAg": {
+        "en": "[Vicente]\nWill you say a different story from what you told before?\nHaha.. To me, Master is good enough, doing the same thing to me.",
+        "pt": "[Vicente]\n...\nBom, isso foi tudo...",
+        "es": "[Vicente]\n¿Contarás una historia diferente a la que contaste antes?\nJa, ja… Para mí, el maestro es lo suficientemente bueno, hace lo mismo conmigo."
+    },
+    "NkPwAg": {
+        "en": "[Vicente]\nKeung....\nI am losing my excitement.",
+        "pt": "[Vicente]\n...\nEstou cansado, de verdade.",
+        "es": "[Vicente]\nCuánta terquedad…\nSe me está pasando la emoción."
+    },
+    "N0PwAg": {
+        "en": "[Vicente]\nTo continue the lession for a thief, talk to Mayssel.\nShe may be a help to you.",
+        "pt": "[Vicente]\nFale com a Mayshell para continuar no caminho do gatuno.\nEla será de grande ajuda.",
+        "es": "[Vicente]\nPara continuar la lección de la clase Ladrón, habla con Mayssel.\nPuede serte de ayuda."
+    },
+    "OEPwAg": {
+        "en": "[Vicente]\nHmmm. It is about the thief's skill using the manual.\nBy the way, this manual is only available for experience up to level 12.",
+        "pt": "[Vicente]\nE vamos de Manual dos Gatunos.\nSó pra avisar, esse Manual vai só até o nível 12.",
+        "es": "[Vicente]\nMmmm. Se trata de usar la habilidad del Ladrón con el Manual.\nPor cierto, este Manual solo está disponible para subir experiencia hasta el nivel 12."
+    },
+    "OUPwAg": {
+        "en": "[Vicente]\nThe actual exercise of ^4D4DFFstealing from monster's items^000000 skill was planned but\nyou may need to know what it is... No need to do the actual exercise.",
+        "pt": "[Vicente]\nTínhamos preparado um treinamento que envolvia roubar itens de monstros, mas...\nMinha função é apenas lhe passar as informações...",
+        "es": "[Vicente]\nEl ejercicio para la habilidad de ^4D4DFFrobo de objetos de monstruo^000000 ya estaba planeado, pero\npuede que necesites saber de qué trata… No es necesario hacer el ejercicio en sí."
+    },
+    "OkPwAg": {
+        "en": "[Vicente]\nI will regard my course as completed.\nBy the way, what is stealing all about?",
+        "pt": "[Vicente]\nVamos! Vamos completar seus ensinamentos.\nVocê sabe o que Furto faz?",
+        "es": "[Vicente]\nDaré por completada mi lección.\nPor cierto, ¿cómo funciona eso de robar?"
+    },
+    "O0PwAg": {
+        "en": "Stealing other's items!",
+        "pt": "Rouba coisas das pessoas!",
+        "es": "¡Robar objetos ajenos!"
+    },
+    "PEPwAg": {
+        "en": "Stealing monster's items!",
+        "pt": "Rouba coisas dos monstros!",
+        "es": "¡Robar objetos de monstruos!"
+    },
+    "PUPwAg": {
+        "en": "Stealing other's enemy!",
+        "pt": "Rouba o coração de alguém comprometido!",
+        "es": "¡Robar al enemigo de otros!"
+    },
+    "PkPwAg": {
+        "en": "Don't know.",
+        "pt": "Eu sei lá...",
+        "es": "No lo sé."
+    },
+    "P0PwAg": {
+        "en": "[Vicente]\nOh no... you shouldn't do it..\nDon't steal others stuff.",
+        "pt": "[Vicente]\nPerdeu a sanidade?\nIsso foi errado demais!",
+        "es": "[Vicente]\nAy, no… no deberías hacerlo…\nNo robes las cosas de los demás."
+    },
+    "QEPwAg": {
+        "en": "[Vicente]\nYes!\nYou remember it well.",
+        "pt": "[Vicente]\nCaramba!\nBoa memória...",
+        "es": "[Vicente]\n¡Sí!\nLo recuerdas bien."
+    },
+    "QUPwAg": {
+        "en": "[Vicente]\nWhy am I doing it?\nDon't say the words!!!!!",
+        "pt": "[Vicente]\nDo que você tá falando?\nIsso tá estranho...",
+        "es": "[Vicente]\n¿Por qué estoy haciendo esto?\n¡¡¡¡¡No digas las palabras!!!!!"
+    },
+    "QkPwAg": {
+        "en": "[Vicente]\nYes, we steal monster items.\nthe higher your skill level and the higher your hit ratio is, the success ratio also becomes higher.",
+        "pt": "[Vicente]\nFurto é uma Habilidade que rouba coisas dos monstros...\nQuanto maior o nível da Habilidade, maior a chance de sucesso.",
+        "es": "[Vicente]\nSí, robamos objetos de monstruos.\nEntre mayor sea tu nivel de habilidad y mayor sea tu tasa de PREC, mayor será también la tasa de éxito."
+    },
+    "Q0PwAg": {
+        "en": "[Vicente]\nAnyway, here I will finish my class.\nIf you want to continue, there is no way as your level is too high.",
+        "pt": "[Vicente]\nBom, terminamos por aqui!\nSe quiser prosseguir... Bom, não dá. O nível é muito alto.",
+        "es": "[Vicente]\nDe todos modos, aquí daré por terminada mi lección.\nSi quieres continuar, no hay manera, ya que tu nivel es demasiado alto."
+    },
+    "REPwAg": {
+        "en": "[Vicente]\nOh, excellent!\nKeep the stone for your souvenir.",
+        "pt": "[Vicente]\nExcelente!\nVou usar de decoração.",
+        "es": "[Vicente]\n¡Ah, excelente!\nConserva la Piedra como recuerdo."
+    },
+    "RUPwAg": {
+        "en": "[Vicente]\nAnyway, it is good enough for your skill experience purpose, let's finish the class here.\nReport to Mayssel.",
+        "pt": "[Vicente]\nVocê já fez o necessário por aqui..\nVá falar com a Senhorita Mayshell.",
+        "es": "[Vicente]\nDe todos modos, con esto tienes lo suficiente experiencia con la habilidad, así que vamos a terminar la lección aquí.\nInforma a Mayssel."
+    },
+    "RkPwAg": {
+        "en": "[Vicente]\nHmmm. What?\nYou are talking about the use of thief skills by using the manual?\nFirst, equip the Thief Manual.",
+        "pt": "[Vicente]\nVocê não consegue nem equipar o Manual....\nComo vai roubar uma pedra?\nUse o Manual dos Gatunos...\nPrimeiro, equipe o Manual.",
+        "es": "[Vicente]\nMmmm. ¿Qué?\n¿Te refieres al uso de habilidades de la clase Ladrón empleando el Manual?\nPrimero, equipa el Manual del Ladrón."
+    },
+    "R0PwAg": {
+        "en": "[Vicente]\nYou can either double click ^4D4DFF the items to be equipped^000000 or drag it to the equipment window.",
+        "pt": "[Vicente]\n^4D4DFFClique duas vezes no item que deseja equipar^000000 ou abra a janela de equipamentos e arraste o item.",
+        "es": "[Vicente]\nPuedes hacer doble clic en ^4D4DFF los objetos que quieres equipar^000000 o arrastrarlos a la ventana de equipamiento."
+    },
+    "SEPwAg": {
+        "en": "[Vicente]\nThen, open the skill window, you can find the added skills in the 'Misc' tab.\nYou can even set the skills in the shortcut bar.",
+        "pt": "[Vicente]\nSe abrir a janela de Habilidades, irá ver uma Habilidade adicionada a seção 'Outros'.\nSe registrar um atalho, será mais fácil...",
+        "es": "[Vicente]\nA continuación, abre la ventana de habilidades, puedes encontrar las habilidades agregadas en la pestaña Jugabilidad.\nIncluso puedes configurar las habilidades en la barra de accesos directos."
+    },
+    "SUPwAg": {
+        "en": "[Vicente]\nNow, out of them, there is a skill called ^4D4DFF Steal^000000.",
+        "pt": "[Vicente]\nNa seção você encontrará a Habilidade de ^3131FFFurto^000000.\n^3131FFÉ uma Habilidade usada para roubar itens de monstros^000000.",
+        "es": "[Vicente]\nAhora, entre ellas, hay una habilidad llamada ^4D4DFFRobar^000000."
+    },
+    "SkPwAg": {
+        "en": "[Vicente]\nHere is an assignment.\nCan you see the ornamental Poring cage?\nSteal ^4D4DFF one Stone from Poring by using the Steal skill.^000000",
+        "pt": "[Vicente]\nAqui está o que tem que fazer.\nEstá vendo a gaiola com Porings?\n^4D4DFFUse o Furto em um Poring para roubar 1 Pedra^000000.",
+        "es": "[Vicente]\nTengo una tarea para ti.\n¿Puedes ver la jaula ornamental de Poring?\nRoba ^4D4DFFuna Piedra al Poring usando la habilidad Robar.^000000"
+    },
+    "S0PwAg": {
+        "en": "[Vicente]\nSteal has a possibility to fail so don't quit.\nGood luck.",
+        "pt": "[Vicente]\nFurto tem uma probabilidade de falhar...\nBoa sorte...",
+        "es": "[Vicente]\nRobar tiene la posibilidad de fallar, así que no vayas a renunciar.\nBuena suerte."
+    },
+    "TEPwAg": {
+        "en": "[Vicente]\nOh, excellent!\nKeep the stone as a souvenir.",
+        "pt": "[Vicente]\nAh, excelente!\nGuarde a pedra como lembrança.",
+        "es": "[Vicente]\n¡Ah, excelente!\nConserva la Piedra como recuerdo."
+    },
+    "TUPwAg": {
+        "en": "[Vicente]\nAnyway, it is good enough for your skill experience purpose, let's finish the class here.\nIf you haven't finished Mr. Verkhasel's assignment, keep going with it.",
+        "pt": "[Vicente]\nVocê já fez o necessário por aqui..\nSe não completou as tarefas do Bercassell, por favor vá falar com ele.",
+        "es": "[Vicente]\nDe todos modos, con esto tienes lo suficiente experiencia con la habilidad, así que vamos a terminar la lección aquí.\nSi no terminaste la tarea del señor Verkhasel, continúa ahora."
+    },
+    "TkPwAg": {
+        "en": "[Vicente]\nSteal one Stone from a Poring.\nWasn't it fun?",
+        "pt": "[Vicente]\nUse o Furto em um Poring para roubar 1 Pedra.\nNão é satisfatório?",
+        "es": "[Vicente]\nRoba una Piedra a un Poring.\n¿No fue divertido?"
+    },
+    "T0PwAg": {
+        "en": "It didn't give me a stone.",
+        "pt": "Não tenho pedras...",
+        "es": "No me dio una Piedra."
+    },
+    "UEPwAg": {
+        "en": "[Vicente]\nHmmm? All porings were stolen of their stones?\nI will summon Porings again, and you, try it once again.",
+        "pt": "[Vicente]\nComo assim? O que você fez com as pedras?\nVou sumonar mais Porings, dessa vez faça certo!",
+        "es": "[Vicente]\n¿Mmmm? ¿A todos los Poring les quitaron sus Piedras?\nInvocaré Poring de nuevo, inténtalo una vez más."
+    },
+    "UUPwAg": {
+        "en": "[Vicente]\nHmmm. Is that so?\nThis is not your aptitude.\nI see. This mission is now cancelled.",
+        "pt": "[Vicente]\nHm, é mesmo?\nBom, nem todo mundo tem bom gosto.\nBom, tudo bem. Cancelarei as tarefas...",
+        "es": "[Vicente]\nMmmm. ¿De verdad?\nEsta no es tu aptitud.\nYa veo. Esta misión ha sido cancelada."
+    },
+    "UkPwAg": {
+        "en": "[Vicente]\nAhhh. Boring, Boring...\nNow I can understand why Master ran away.\nI want to go home.",
+        "pt": "[Vicente]\n...\nAcho que você consegue imaginar porque todos eventualmente fogem.\nQuero ir pra casa...",
+        "es": "[Vicente]\nAhhh. Aburrido, aburrido…\nAhora entiendo por qué el maestro huyó.\nQuiero irme a casa."
+    },
+    "U0PwAg": {
+        "en": "[Verkhasel]\nSo do I.\nMayssel... what did she think of...",
+        "pt": "[Bercassell]\nConcordo...\nO que será que o pessoal pensa da gente?",
+        "es": "[Verkhasel]\nYo también.\nMayssel… ¿Qué pensaba de…?"
+    },
+    "VEPwAg": {
+        "en": "[Rumin]\nHmmm. Did she go AWOL?",
+        "pt": "[Rumin]\nQue talvez só sirvam para dar instruções de Classe?",
+        "es": "[Rumin]\nMmmm. ¿Se ausentó sin permiso?"
+    },
+    "VUPwAg": {
+        "en": "[Verkhasel]\nAre you kidding me?!\nWould you rather be carrying out a fatal mission!?!",
+        "pt": "[Bercassell]\nEngraçadinho...\nPois é exatamente o que fazemos!\nE é uma tarefa muito recompensadora, se quiser saber...",
+        "es": "[Verkhasel]\n¡¿Es una broma?!\n¡¿Preferirías estar llevando a cabo una misión fatal?!"
+    },
+    "VkPwAg": {
+        "en": "[Vicente]\nAh... I don't like it.\nI would rather evaluate jewelry sitting at the workshop as usual...",
+        "pt": "[Vicente]\nAh, não acho...\nPrefiro estar relaxando em uma praia... Tomando um suco de laranja...\nQue delícia...",
+        "es": "[Vicente]\nAh… No me gusta esto.\nPrefiero evaluar las joyas sentado en el taller, como siempre…"
+    },
+    "V0PwAg": {
+        "en": "[Mayssel]\n..........\nI will accept Verkhassel's wish.\nDon't worry hohoho...",
+        "pt": "[Mayshell]\n...\nMuita conversa e pouco trabalho...\nVamos, parem de papear...",
+        "es": "[Mayssel]\n……….\nAceptaré el deseo de Verkhasel.\nNo te preocupes, jo, jo, jo…"
+    },
+    "WEPwAg": {
+        "en": "The mood is becoming gloomy.\nShould I get out of here?",
+        "pt": "Os nervos estão à flor da pele...\nDevo me mandar?",
+        "es": "(Qué sombrío se puso esto.\n¿Debería salir de aquí?)."
+    },
+    "WUPwAg": {
+        "en": "[Vicente]\nYou are doing well.\nI hope to see you again someday.",
+        "pt": "[Vicente]\nVocê está dando seu melhor!\nQueria conhecer alguém com tanto esforço...",
+        "es": "[Vicente]\nLo estás haciendo bien.\nEspero volver a verte algún día."
+    },
+    "WkPwAg": {
+        "en": "[Vicente]\nAh, for your reference, I am operating a small workshop in Lighthalzen.\nVisit me there someday.",
+        "pt": "[Vicente]\nMeu sonho é abrir um comércio só meu...\nTalvez um dia...",
+        "es": "[Vicente]\nAh, para tu referencia, manejo un pequeño taller en Lighthalzen.\nVisítame allí algún día."
+    },
+    "W0PwAg": {
+        "en": "[Vicente]\nPerhaps, I won't forget you...\nHaha...",
+        "pt": "[Vicente]\nProvavelmente vou esquecer de você quando você for embora...\nBrincadeirinha...",
+        "es": "[Vicente]\nQuizás, no te olvidaré…\nJa, ja…"
+    },
+    "XEPwAg": {
+        "en": "[Vicente]\nYou are not a student of Criatura Academy.\nIf you want more explanation about this job, you better register as a student of the Academy.",
+        "pt": "[Vicente]\nVocê não tá matriculado na Academia Criatura...\nSe quiser saber mais sobre cada uma das Classes, é melhor se matricular primeiro...",
+        "es": "[Vicente]\nNo eres estudiante de la Academia de criaturas.\nSi quieres más explicaciones sobre esta clase, será mejor que te inscribas como estudiante de la Academia."
+    },
+    "XUPwAg": {
+        "en": "[Vicente]\nThough only novices can register...",
+        "pt": "[Vicente]\nApenas Aprendizes podem se matricular, lembre-se disso.",
+        "es": "[Vicente]\nAunque solo los principiantes pueden registrarse…"
+    },
+    "XkPwAg": {
+        "en": "[Vicente]\nOh, you became a good thief.\nDon't you want to be a shadow chaser in your future?",
+        "pt": "[Vicente]\nVocê tornou-se um grande gatuno...\nPretende seguir o caminho das sombras no futuro?",
+        "es": "[Vicente]\nRepresentas bien a la clase Ladrón.\n¿No quisieras ser un Perseguidor de sombras en el futuro?"
+    },
+    "X0PwAg": {
+        "en": "[Vicente]\nThis is the higher class applied by the elite Rogues of good artistry.",
+        "pt": "[Vicente]\nCom certeza será o momento mais obscuro da aventura... no bom sentido, claro!",
+        "es": "[Vicente]\nEs la clase superior que se asigna a los Pícaros de élite con gran habilidad."
+    },
+    "YEPwAg": {
+        "en": "[Vicente]\nAbove job level 40, any Thief can be transferred to a Rogue anytime.\nFortunately, the sailing service from Izlude wharf to Pharos lighthouse is available!!",
+        "pt": "[Vicente]\nSe estiver no nível 40 ou maior, pode sempre optar pelo Renegado...\nPor sorte, existem alguns barcos indo para Pharos, a Ilha do Farol!",
+        "es": "[Vicente]\nCuando sobrepasa el nivel de clase 40, cualquier Ladrón puede pasar a Pícaro en cualquier momento.\nAfortunadamente, está disponible el servicio de navegación desde el Muelle de Izlude hasta el faro de Pharos."
+    },
+    "YUPwAg": {
+        "en": "[Verkhasel]\nFirst, is it courteous to ask whether you can be a Rogue or not?\nIf it is an application for an Assassin, what happens to you?",
+        "pt": "[Bercassell]\nCadê os modos Vicente?\nE se a pessoa quiser se tornar Sicário? Temos que considerar...",
+        "es": "[Verkhasel]\nEn primer lugar, ¿es cortés preguntar si se puede ser de la clase Pícaro o no?\nSi se presenta una solicitud para Asesino, ¿qué te ocurriría?"
+    },
+    "YkPwAg": {
+        "en": "[Vicente]\nHaha. You like a bloody job?",
+        "pt": "[Vicente]\nAcho que ninguém quer saber desses trabalhos sangrentos.",
+        "es": "[Vicente]\nJa, ja. ¿Te gustan las clases que trabajan con sangre?"
+    },
+    "Y0PwAg": {
+        "en": "[Vicente]\nHaha... Calm down...\nDon't respond to every tiny matter..",
+        "pt": "[Vicente]\n...\nAlém do mais, os Renegados são melhores.",
+        "es": "[Vicente]\nJa, ja… Cálmate…\nNo respondas a cada minúscula cosa…"
+    },
+    "ZEPwAg": {
+        "en": "......",
+        "pt": "Que torta de climão...",
+        "es": "……"
+    },
+    "ZUPwAg": {
+        "en": "[Vicente]\nWelcome to the Criatura Academy\nHere, I am teaching the basics to the people wishing to be a Thief.",
+        "pt": "[Vicente]\nBoas vindas! Essa é a Academia Criatura.\nEsse local ensina o básico para aqueles que desejam seguir o caminho dos Gatunos...",
+        "es": "[Vicente]\nTe doy la bienvenida a la Academia de criaturas.\nAquí le enseño lo básico a quienes desean ser de la clase Ladrón."
+    },
+    "ZkPwAg": {
+        "en": "[Vicente]\nSo, in other words, I am handling the Novices wanting to be thieves.\nHaha...",
+        "pt": "[Vicente]\nHm.. Veja só, cada vez mais Aprendizes querem se tornar Gatunos...\nCômico, eu diria... Hahahaha",
+        "es": "[Vicente]\nAsí que, en otras palabras, me encargo de los principiantes que quieren ser Ladrones.\nJa, ja…"
+    },
+    "Z0PwAg": {
+        "en": "Verkhasel",
+        "pt": "Bercassell",
+        "es": "Verkhasel"
+    },
+    "aEPwAg": {
+        "en": "[Verkhasel]\nWhat? It interrupts me.",
+        "pt": "[Bercassell]\nQue foi?",
+        "es": "[Verkhasel]\n¿Qué? Me interrumpen."
+    },
+    "aUPwAg": {
+        "en": "[Verkhasel]\nEheee, Eheee, It can't be a joke.\nMayssel's class...\nDid you call upon me for this kind of nasty thing?",
+        "pt": "[Bercassell]\nFalando sério...\nA Mayshell que dá as instruções por aqui.\nEstão querendo alguma coisa de mim?",
+        "es": "[Verkhasel]\nAyy, aaay, no puede ser una broma.\nLa lección de Mayssel…\n¿Me llamaste para este tipo de cosas desagradables?"
+    },
+    "akPwAg": {
+        "en": "...Let's keep working?",
+        "pt": "...Você não dá instruções?",
+        "es": "… ¿Seguimos trabajando?"
+    },
+    "a0PwAg": {
+        "en": "[Rumin]\nIt's a pity. That man is scary.\nBut as long as I am with you, don't be afraid of him.",
+        "pt": "[Rumin]\nVocê nem dá medo...\nQue tipo de Sicário é esse, afinal?",
+        "es": "[Rumin]\nEs una pena. Ese hombre da miedo.\nPero mientras yo esté contigo, no le tengas miedo."
+    },
+    "bEPwAg": {
+        "en": "[Verkhasel]\nWhat are you talking about this time?\nIn the beginning, Lue.. You should not be here...",
+        "pt": "[Bercassell]\nDo que você tá falando, moleque?!\nOs Sicários devem ser respeitados...",
+        "es": "[Verkhasel]\n¿De qué estás hablando esta vez?\nEn principio, Lue… no deberías estar aquí…"
+    },
+    "bUPwAg": {
+        "en": "[Rumin]\n.........Who am I?\nAssistant.... Trainer?",
+        "pt": "[Rumin]\n.........Quem sou eu?\nAssistente.... Treinador?",
+        "es": "[Rumin]\n… ¿Quién soy?\n¿Asistente… del entrenador?"
+    },
+    "bkPwAg": {
+        "en": "[Verkhasel]\nZt...\nWell, which one are you curious about?",
+        "pt": "[Bercassell]\n...\nTá, pergunta logo. O que você quer?",
+        "es": "[Verkhasel]\nTs…\n¿Y? ¿Qué te da curiosidad?"
+    },
+    "b0PwAg": {
+        "en": "Double Attack",
+        "pt": "Habilidades de Ataque dos Gatunos",
+        "es": "Doble ataque."
+    },
+    "cEPwAg": {
+        "en": "Envenom",
+        "pt": "Sobre o Envenenamento",
+        "es": "Envenenamiento."
+    },
+    "cUPwAg": {
+        "en": "Improve Dodge and Hide",
+        "pt": "Esquiva e Esconderijo",
+        "es": "Evasión mejorada y Ocultamiento."
+    },
+    "ckPwAg": {
+        "en": "About you",
+        "pt": "Fala um pouco sobre você",
+        "es": "Acerca de ti."
+    },
+    "c0PwAg": {
+        "en": "That's enough.",
+        "pt": "Tô suave na nave",
+        "es": "Es suficiente."
+    },
+    "dEPwAg": {
+        "en": "[Verkhasel]\nYou  may already know the primary weapon of a Thief is a dagger.\nA Thief's specialty is the ^4D4DFFDouble Attack^000000 by a dagger.",
+        "pt": "[Bercassell]\nVocê já deve saber que a arma principal de um Gatuno é a Adaga...\nA vantagem é utilizar a Adaga com a Habilidade de ^4D4DFFAtaque Duplo^000000.",
+        "es": "[Verkhasel]\nPuede que ya sepas que el arma principal de un Ladrón es una Daga.\nLa especialidad de un Ladrón es el Doble ataque ^4D4DFF^000000 con una Daga."
+    },
+    "dUPwAg": {
+        "en": "[Verkhasel]\nIf you are short of attacking power, it can be covered at a certain degree.\nAny other questions?",
+        "pt": "[Bercassell]\nPode não ser a arma que mais dá dano... Mas oferece vantagens bacanas.\nMais alguma questão?",
+        "es": "[Verkhasel]\nSi te falta poder de ataque, se puede compensar, hasta cierto punto.\n¿Tienes alguna otra pregunta?"
+    },
+    "dkPwAg": {
+        "en": "[Verkhasel]\nThere is a skill called ^4D4DFFEnvenom^000000 to intoxicate your enemy with poison and\nthe other skill called ^4D4DFFDetoxify^000000 to remove the poisoned status.",
+        "pt": "[Bercassell]\n^4D4DFFEnvenenamento^000000 é uma técnica milenar de\naplicar veneno ao inimigo.\n^4D4DFFDesintoxicar^000000 remove os efeitos do envenenamento.",
+        "es": "[Verkhasel]\nExiste una habilidad llamada ^4D4DFFEnvenenamiento^000000 para intoxicar a tu enemigo con veneno y\notra habilidad llamada ^4D4DFFDesintoxicación^000000 para quitar el estado de Veneno."
+    },
+    "d0PwAg": {
+        "en": "[Verkhasel]\nYou can tell the poisoned status by its very pretty purple color.",
+        "pt": "[Bercassell]\nVocê vai conseguir ver inimigos envenenados de longe.\nEles vão ter um gosto meio roxo...",
+        "es": "[Verkhasel]\nSe puede distinguir el estado de Veneno por su bonito color morado."
+    },
+    "eEPwAg": {
+        "en": "[Verkhasel]\nIn case, you are poisoned, venom will decrease your vitality rapidly,\nyou either detoxify right away or take the antidote potion.",
+        "pt": "[Bercassell]\nSe acabar envenenado, sua vida vai ser reduzida aos poucos.\nProcure a melhor maneira de se desintoxicar... Ou morrerá.",
+        "es": "[Verkhasel]\nEn caso de ser afectado con Veneno, el veneno disminuirá tu vitalidad rápidamente.\nO te desintoxicas de inmediato o tomas la Poción de antídoto."
+    },
+    "eUPwAg": {
+        "en": "[Verkhasel]\nIf you have more interest in poison, you may be an assassin.\nThey officially use poison.\nThen next!",
+        "pt": "[Bercassell]\nSe tiver interesse por Envenenamento, considere tornar-se Sicário.\nUsamos muito essas técnicas em batalha.\n... O que acha?",
+        "es": "[Verkhasel]\nSi te interesa saber más del Veneno, puede que seas de la clase Asesino.\nSuelen usar Veneno.\n¡Pasemos a la siguiente!"
+    },
+    "ekPwAg": {
+        "en": "[Verkhasel]\nThiefs train the skill called ^4D4DFFImprove Dodge^000000.\nThis makes the enemy powerless by evading its attack.",
+        "pt": "[Bercassell]\nA ^4D4DFFPerícia em Esquiva^000000 precisa ser praticada.\nServe muito bem para evitar os ataques inimigos.",
+        "es": "[Verkhasel]\nLos Ladrones entrenan la habilidad llamada ^4D4DFFEvasión mejorada^000000.\nEsto hace que el enemigo sea vulnerable, pues te permite evadir sus ataques."
+    },
+    "e0PwAg": {
+        "en": "[Verkhasel]\nRather than being patient after being hit, it is more suitable for a less defensive thief to avoid from it fast.\nBeing this reason, agility [AGI] can't be neglected.",
+        "pt": "[Bercassell]\nPor vezes é melhor desviar e pensar nas ações do que sair atacando...\nPensando nisso, AGI tem que ser a prioridade.",
+        "es": "[Verkhasel]\nEn lugar de ser paciente después de ser golpeado, es más adecuado para un Ladrón que tiene menos defensa evitar los ataques rápidamente.\nPor este motivo, no se puede descuidar la agilidad [AGI]"
+    },
+    "fEPwAg": {
+        "en": "[Verkhasel]\n^4D4DFFHiding^000000 is the skill for refuge.\nIf successful, others can't see you.",
+        "pt": "[Bercassell]\n^4D4DFFEsconderijo^000000 é uma Habilidade furtiva.\nQuando usava, ninguém vai poder te ver.",
+        "es": "[Verkhasel]\n^4D4DFFOcultamiento^000000 es la habilidad para refugiarse.\nSi la usas con éxito, los demás no podrán verte."
+    },
+    "fUPwAg": {
+        "en": "[Verkhasel]\nAh, as it is said you can't cheat a ghost.... You would be found by evil.\nAlso sensitive insects recognize it...",
+        "pt": "[Bercassell]\nPorém, alguns inimigos conseguem...\nInsetos, por exemplo... Desagradável!",
+        "es": "[Verkhasel]\nAh, como bien dicen, no se puede engañar a un fantasma… El mal te encontraría.\nTambién los insectos sensibles pueden notarlo…"
+    },
+    "fkPwAg": {
+        "en": "[Verkhasel]\nOther than these, it will be useful for avoiding emergency situations.\nWhen you become higher jobs like Rogue or Assassin, you can learn more useful skills like Refuge.",
+        "pt": "[Bercassell]\nDe qualquer forma, são técnicas muito úteis.\nVocê pode aperfeiçoar essas Habilidades ao se tornar Sicário ou Renegado.",
+        "es": "[Verkhasel]\nAdemás, será útil para evitar situaciones de emergencia.\nCuando llegas a clases superiores como Pícaro o Asesino, puedes aprender habilidades más útiles, como Refugio."
+    },
+    "f0PwAg": {
+        "en": "[Verkhasel]\nMe? I am a chief of the Guillotine Cross.\n......",
+        "pt": "[Bercassell]\nEu? Sou um dos principais Sicários por aqui!\nFalo sério!",
+        "es": "[Verkhasel]\n¿Yo? Soy jefe de los Cortadores de cruces.\n……"
+    },
+    "gEPwAg": {
+        "en": "[Rumin]\nAs one of the assassins, I am in charge of punishing the law violators, as the member of the execution group.\nFor your reference, the primary weapon of Verkhasel is Katar.",
+        "pt": "[Rumin]\nSicários são conhecidos pela crueldade e frieza nas tarefas.\nO Bercassell deve ser muito malvado...",
+        "es": "[Rumin]\nComo parte de los Asesinos, soy el encargado de castigar a los que violan la ley, en calidad de miembro del grupo de ejecución.\nPara que lo sepas, el arma principal de Verkhasel es el Katar."
+    },
+    "gUPwAg": {
+        "en": "How do you know thatt?",
+        "pt": "Como você sabe?!",
+        "es": "¿Cómo lo sabes?"
+    },
+    "gkPwAg": {
+        "en": "[Rumin]\nThat's my hope.",
+        "pt": "[Rumin]\nBom, foi um palpite.",
+        "es": "[Rumin]\nEs lo que deseo."
+    },
+    "g0PwAg": {
+        "en": "[Verkhasel]\nOh.. Smart funk~~\nThat's enough, Lue.\nAny more questions?",
+        "pt": "[Bercassell]\nQue beleza, espalhando fake news!\nHahahaha.\nMais alguma questão?",
+        "es": "[Verkhasel]\nAh… Te sientes muy listo.\nEs suficiente, Lue.\n¿Alguna otra pregunta?"
+    },
+    "hEPwAg": {
+        "en": "[Verkhasel]\nyou can steal one item from one enemy.\nI feel mortified at stopping here, but it's worse to be neglected...",
+        "pt": "[Bercassell]\nEra suposto você me perguntar algo.\nAgora tô confuso.",
+        "es": "[Verkhasel]\nPuedes robar un objeto a un enemigo.\nOdio tener que detenerme aquí, pero es peor ser descuidado…"
+    },
+    "hUPwAg": {
+        "en": "[Verkhasel]\nOK.\nConsidering your favor not to ignore me, let's finish it now.",
+        "pt": "[Bercassell]\n...\nVamos fingir que você não tentou me cancelar.",
+        "es": "[Verkhasel]\nDe acuerdo.\nComo me hiciste el favor de no ignorarme, vamos a terminar ahora."
+    },
+    "hkPwAg": {
+        "en": "[Verkhasel]\nHonestly, I don't think you need to know the details about the thief's skills.\nThen, just be aware there is something like that..",
+        "pt": "[Bercassell]\nPra ser sincero, acho que você já sabe bastante sobre as Habilidades de gatuno.\nAchei que devesse ter conhecimento disso.",
+        "es": "[Verkhasel]\nSinceramente, no creo que necesites conocer los detalles sobre las habilidades de la clase Ladrón.\nEntonces, solo ten en cuenta que existe algo como eso…"
+    },
+    "h0PwAg": {
+        "en": "[Verkhasel]\nI mean it is good enough now.",
+        "pt": "[Bercassell]\nAgora já deu.",
+        "es": "[Verkhasel]\nQuiero decir que con eso está bien por ahora."
+    },
+    "iEPwAg": {
+        "en": "[Verkhasel]\nAnything else you're curious about?\nI will give you an answer after you finish Mayssel's class.",
+        "pt": "[Bercassell]\nMais alguma questão?\nFicarei feliz de conversar contigo assim que terminar de falar com a Mayshell.",
+        "es": "[Verkhasel]\n¿Te interesa saber algo más?\nTe daré una respuesta cuando termines la lección de Mayssel."
+    },
+    "iUPwAg": {
+        "en": "[Verkhasel]\nI mean that she knows it.\nMayssel will do it for you.",
+        "pt": "[Bercassell]\nEla que toca as coisas por aqui.\n...",
+        "es": "[Verkhasel]\nQuiero decir que ella lo sabe.\nMayssel lo hará por ti."
+    },
+    "ikPwAg": {
+        "en": "[Rumin]\nLazy boy.\nTell me the truth... You are annoying..",
+        "pt": "[Rumin]\n...\nSendo honesto?! Quanta burocracia!",
+        "es": "[Rumin]\nQué perezoso.\nDime la verdad… Qué molesto eres…"
+    },
+    "i0PwAg": {
+        "en": "[Verkhasel]\n.......You........\nZt.. I don't know the enemy..",
+        "pt": "[Bercassell]\n...\nUm dia Rumin... Um dia!",
+        "es": "[Verkhasel]\n…Tú…\nTs… No conozco al enemigo…"
+    },
+    "jEPwAg": {
+        "en": "[Verkhasel]\nTo learn more about the way of a thief, keep going on with Mayssel's class.\nBecause nagging at me here, you can't get anything.",
+        "pt": "[Bercassell]\nSe quiser saber mais sobre os Gatunos, continue a seguir as instruções da Mayshell.\nNão tenho mais nada a dizer!",
+        "es": "[Verkhasel]\nPara aprender más sobre el camino de la clase Ladrón, sigue con la lección de Mayssel.\nPorque no conseguirás nada fastidiándome."
+    },
+    "jUPwAg": {
+        "en": "[Verkhasel]\nActual experience assignments about the skill?\nTo do it, your level is too high.\nI can't use the guide.",
+        "pt": "[Bercassell]\nQuer testar habilidades?\nVocê ja está num nívle muito alto.\nNão dá para usar o Manual...",
+        "es": "[Verkhasel]\n¿Asignaciones de experiencia real sobre la habilidad?\nTu nivel es demasiado alto para hacerlo.\nNo puedo usar la Guía."
+    },
+    "jkPwAg": {
+        "en": "[Verkhasel]\nOriginally, I will let you hunt porings with envenom.\nNo way, if I can't use the skill....",
+        "pt": "[Bercassell]\nNormalmente eu pediria para você usar o Envenenamento para matar Porings.\nMas se não pode usar Habilidades, não dá pra te ajudar.",
+        "es": "[Verkhasel]\nOriginalmente, te dejaría cazar Poring con Enveneno.\nNo puede ser, si no puedo usar la habilidad…"
+    },
+    "j0PwAg": {
+        "en": "[Verkhasel]\nEnvenom is the skill to poison.\nIf not poison him, you can damage to him due to the characteristic of venom.",
+        "pt": "[Bercassell]\nEnvenenamento é uma Habilidade que aplica veneno aos inimigos.\nÉ efetivo e deixa os inimigos roxos.",
+        "es": "[Verkhasel]\nEnveneno es la habilidad para envenenar.\nSi no logras envenenarlo, puedes dañarlo debido a la característica del Veneno."
+    },
+    "kEPwAg": {
+        "en": "[Verkhasel]\nKeep in mind of these. That might be good enough for you.\nAs it is the class to let you know what you can do.\nLet's finish the skill experience.\nCheck with Mayssel.",
+        "pt": "[Bercassell]\nConcentre-se nisso.\nAh, que ótima Habilidade...\nPor isso, treine bastante!\nA Mayshell pode te guiar melhor.",
+        "es": "[Verkhasel]\nTenlo en cuenta. Eso podría ser suficiente para ti.\nYa que es la lección para hacerte saber lo que puedes hacer.\nTerminemos la experiencia en habilidades.\nVe a ver a Mayssel."
+    },
+    "kUPwAg": {
+        "en": "[Verkhasel]\nYou are doing well.\nEnvenom has the poison effect and can damage from venom itself.",
+        "pt": "[Bercassell]\n...\nLembre-se que o Envenenamento dá dano com o tempo...",
+        "es": "[Verkhasel]\nLo estás haciendo bien.\nEnveneno aplica el efecto de Veneno y puede aplicar daño por Veneno."
+    },
+    "kkPwAg": {
+        "en": "[Verkhasel]\nThe skill experience is now enough.\nCheck with Mayssel.",
+        "pt": "[Bercassell]\nPor isso, treine bastante!\nA Mayshell pode te guiar melhor.",
+        "es": "[Verkhasel]\nYa fue suficiente experiencia en habilidades.\nVe a ver a Mayssel."
+    },
+    "k0PwAg": {
+        "en": "[Verkhasel]\nAre you at the level not to wear the manual?\nYou have grown up already.\nNo way.",
+        "pt": "[Bercassell]\nVocê ja está num nívle muito alto.\nNão dá pra usar o manual.\nNada posso fazer a seu respeito.",
+        "es": "[Verkhasel]\n¿Tienes el nivel necesario para no usar el Manual?\nYa crecí.\nDe ninguna manera."
+    },
+    "lEPwAg": {
+        "en": "[Verkhasel]\nEnvenom is the skill to poison your enemy.\nIf not intoxicate him, you can damage to him due to the characteristic of venom.",
+        "pt": "[Bercassell]\nEnvenenamento é uma Habilidade que aplica veneno aos inimigos.\nÉ efetivo e deixa os inimigos roxos.",
+        "es": "[Verkhasel]\nEnveneno es la habilidad para envenenar a tu enemigo.\nSi no logras intoxicarlo, puedes dañarlo debido a la característica del Veneno."
+    },
+    "lUPwAg": {
+        "en": "[Verkhasel]\nKeep this in mind... That might be good enough for you.\nAs it is the class to let you know what you can do.\nLet's finish the skill experience.\nCheck with Mayssel.",
+        "pt": "[Bercassell]\nConcentre-se nisso.\nAh, que ótima Habilidade...\nPor isso, treine bastante!\nA Mayshell pode te guiar melhor.",
+        "es": "[Verkhasel]\nRecuérdalo… Eso podría ser suficiente para ti.\nYa que es la lección para hacerte saber lo que puedes hacer.\nTerminemos la experiencia en habilidades.\nVe a ver a Mayssel."
+    },
+    "lkPwAg": {
+        "en": "[Verkhasel]\nThis is about the use of skill.\nNow if you were an assassin, shall I let you test the skills related to venom which you may continue to use?",
+        "pt": "[Bercassell]\nVamos praticar algumas Habilidades...\nVamos experimentar Habilidades de Veneno, muito utilizadas pelos Sicários.",
+        "es": "[Verkhasel]\nSe trata del uso de la habilidad.\nAhora, si fueras de la clase Asesino, ¿debería dejarte probar las habilidades relacionadas con el Veneno que podrías seguir usando?"
+    },
+    "l0PwAg": {
+        "en": "[Verkhasel]\nLoad the ^4D4DFFthief guide receved by Mayssel and open the skill window by pressing Alt+S key,\nRegister Envenom regisstered on the ETC compartment, by pressing shortcut key^000000",
+        "pt": "[Bercassell]\nDepois de equipar o ^4D4DFFManual de Gatuno^000000 que recebeu da Mayshell, abra a janela de Habilidades usando o atalho ^4D4DFFAlt+S^000000.\nRegistre a Habilidade Envenenamento em algum atalho rápido.",
+        "es": "[Verkhasel]\nCarga el ^4D4DFFManual del Ladrón que te dio Mayssel y abre la ventana de habilidades pulsando las teclas Alt+S.\nRegistra Enveneno en el compartimento ETC, pulsando la tecla de acceso directo^000000"
+    },
+    "mEPwAg": {
+        "en": "[Verkhasel]\nThen, approach the Poring's cage in the center of this room and\nAim at Poring, and ^4D4DFFhunt one poring by using 'envenom'^000000.",
+        "pt": "[Bercassell]\nVá até os Porings dessa sala e\nuse o ^4D4DFFEnvenenamento^000000 para se livrar deles.",
+        "es": "[Verkhasel]\nLuego, acércate a la jaula de Poring en el centro de esta sala,\napunta a un Poring, y ^4D4DFF cázalo usando Enveneno ^000000."
+    },
+    "mUPwAg": {
+        "en": "[Verkhasel]\nThat's my assignment to you.\nYou definitely use envenom to Poring in this room.\ndon't go out faraway to find Porings.",
+        "pt": "[Bercassell]\nEssa é sua tarefa.\nTenha certeza de envenenar os Porings dessa sala.\nNão precisa sair procurando Porings por aí.",
+        "es": "[Verkhasel]\nEsa es la tarea que tengo para ti.\nDebes usar Enveneno sobre los Poring en esta sala.\nNo vayas muy lejos a buscar Poring."
+    },
+    "mkPwAg": {
+        "en": "[Rumin]\nEummm.   \nIt's sad..\nPlease accept my condolence in advance, as you can't experience envenom... hehehe...",
+        "pt": "[Rumin]\n...\nParece que não vai dar pra você praticar...",
+        "es": "[Rumin]\nEeeeeh.   \nQué triste…\nPor favor, acepta mi pésame por adelantado, ya que no puedes experimentar el Enveneno… je, je, je…"
+    },
+    "m0PwAg": {
+        "en": "What are you talking about?",
+        "pt": "O que quer dizer com isso?",
+        "es": "¿De qué estás hablando?"
+    },
+    "nEPwAg": {
+        "en": "[Rumin]\nFrom now, I am going to hunt Poring..\n...Don't misunderstand me for challenging you, as such I  want to make a bet with you.",
+        "pt": "[Rumin]\nEU vou derrotar os Porings.\nTô provocando mesmo porque sou bem melhor!",
+        "es": "[Rumin]\nA partir de ahora, voy a cazar Poring…\n…No me malinterpretes por desafiarte, solo quiero hacer una apuesta contigo."
+    },
+    "nUPwAg": {
+        "en": "Rumin is betting win or loose.",
+        "pt": "Não aguento mais o Rumin.",
+        "es": "Rumin apuesta a ganar o perder."
+    },
+    "nkPwAg": {
+        "en": "[Verkhasel]\nThe skill experience is now enough.\nCheck it with Mayssel.",
+        "pt": "[Bercassell]\nPor isso, treine bastante!\nA Mayshell pode te guiar melhor.",
+        "es": "[Verkhasel]\nYa fue suficiente experiencia en habilidades.\nHabla con Mayssel."
+    },
+    "n0PwAg": {
+        "en": "[Verkhasel]\nCome close to a poring cage and use envenom to poring.\nYou must do it only to porings in this room.",
+        "pt": "[Bercassell]\nChegue perto dos Porings e use o Envenenamento.\nTem que ser os Porings dessa sala, hein?!",
+        "es": "[Verkhasel]\nAcércate a una jaula de Poring y usa Enveneno sobre el Poring.\nDebes hacerlo solo a los Poring de esta sala."
+    },
+    "oEPwAg": {
+        "en": "I see..",
+        "pt": "Beleza",
+        "es": "Ya veo…"
+    },
+    "oUPwAg": {
+        "en": "[Verkhasel]\nOK. Until you kill all the porings in the cage, attack them with venom.",
+        "pt": "[Bercassell]\nEnvenenar até matar... É meu lema!",
+        "es": "[Verkhasel]\nDe acuerdo. Hasta que mates a todos los Poring de la jaula, debes atacarlos con Enveneno."
+    },
+    "okPwAg": {
+        "en": "[Verkhasel]\nThese are not your aptitude.\nI will cancel my assignment, and the other assignments from Mayssel to be cancelled by her.",
+        "pt": "[Bercassell]\nParece que isso não combina muito com você.\nVou cancelar a tarefa. Conversa com a Mayshells para cancelar o restante.",
+        "es": "[Verkhasel]\nEstas no son tus aptitudes.\nVoy a cancelar mi asignación, y Mayssel tendrá que cancelar sus asignaciones."
+    },
+    "o0PwAg": {
+        "en": "Cancel.",
+        "pt": "Cancelar",
+        "es": "Cancelar."
+    },
+    "pEPwAg": {
+        "en": "I will continue..",
+        "pt": "Pensando bem, vamos continuar...",
+        "es": "Continuaré…"
+    },
+    "pUPwAg": {
+        "en": "[Verkhasel]\nCancel the mission to hunt poring with envenom.",
+        "pt": "[Bercassell]\nCanceladíssimo então.",
+        "es": "[Verkhasel]\nCancela la misión de caza de Poring con Enveneno."
+    },
+    "pkPwAg": {
+        "en": "[Verkhasel]\nHave you changed your mind?\nThen, until you kill all the poring in the cage, keep attacking them with envenom.",
+        "pt": "[Bercassell]\nMudou de ideia?\nEntão... Envenenar até matar!",
+        "es": "[Verkhasel]\n¿Cambiaste de opinión?\nLuego, hasta que mates a todos los Poring de la jaula, sigue atacándolos con Enveneno."
+    },
+    "p0PwAg": {
+        "en": "[Verkhasel]\nNow you fully understand what skill venom is..\nAs you completed my assignment, go and check it with Mayssel.",
+        "pt": "[Bercassell]\n...\nVocê completou minha tarefa, olha só...",
+        "es": "[Verkhasel]\nAhora entiendes bien de qué trata la habilidad Enveneno…\nComo completaste mi tarea, ve y habla con Mayssel."
+    },
+    "qEPwAg": {
+        "en": "[Verkhasel]\nYou are the bung finished Mayssel's class complete.\nAny more questions, ask Mayssel.\nIt is the end of my class.",
+        "pt": "[Bercassell]\nVocê conhece a Mayshell, né?.\nSe tiver mais alguma questão, pergunte pra ela.\nMeus deveres acabam aqui.",
+        "es": "[Verkhasel]\nEres quien completó la lección de Mayssel.\nSi tienes más dudas, pregúntale a Mayssel.\nAquí termina mi lección."
+    },
+    "qUPwAg": {
+        "en": "[Verkhasel]\nIf you become a thief, we may meet together in far future..\nIf you become an assassin.",
+        "pt": "[Bercassell]\nSe optar por ser Gatuno, talvez a gente se veja novamente.\nMelhor ainda caso se torne Sicário.",
+        "es": "[Verkhasel]\nSi te conviertes a la clase Ladrón, puede que nos encontremos en un futuro lejano…\nSi te conviertes a la clase Asesino…"
+    },
+    "qkPwAg": {
+        "en": "[Verkhasel]\nThere is no words to tell you guy not belonging to our academy.\nIn fact, I pulled out here unwillingly, I don't have mind to be kind of you...",
+        "pt": "[Bercassell]\nNão tenho nada a falar para aqueles que não se matricularam.\n...",
+        "es": "[Verkhasel]\nNo hay palabras que alcancen para decirte que no pertenecerás a nuestra Academia.\nDe hecho, vine aquí de mala gana, no me importa ser amable contigo…"
+    },
+    "q0PwAg": {
+        "en": "[Mayssel]\nWait, Verkhasel.....\nDon't get even with other innocent....\nHow about helping my class for me?",
+        "pt": "[Mayshell]\nBercassell!\nPor que tão sério?!\nVocê poderia ao menos me ajudar?",
+        "es": "[Mayssel]\nEspera, Verkhasel…\nNo te desquites con los inocentes…\n¿Qué tal si me ayudas con mi lección?"
+    },
+    "rEPwAg": {
+        "en": "... everybody frozen..",
+        "pt": "Ui, que gelo!",
+        "es": "(…Todo el mundo quedó pasmado…)."
+    },
+    "rUPwAg": {
+        "en": "[Verkhasel]\nEhee, you...\nWhat do you want to be?",
+        "pt": "[Bercassell]\nEi, você.\nPrefere qual?",
+        "es": "[Verkhasel]\nEjem, tú…\n¿Qué quieres ser?"
+    },
+    "rkPwAg": {
+        "en": "An assassin.",
+        "pt": "Mercenário",
+        "es": "Asesino."
+    },
+    "r0PwAg": {
+        "en": "A Log.",
+        "pt": "Renegado",
+        "es": "Pícaro."
+    },
+    "sEPwAg": {
+        "en": "[Rumin]\nWelcome to your joining in the way of bloody darness.\nMy comrade.",
+        "pt": "[Rumin]\nBoas vindas ao caminho sangrento!\nÉ a melhor escolha!",
+        "es": "[Rumin]\nNos alegra que decidieras incorporarte al camino de la osadía dictada por la sangre.\nMi camarada."
+    },
+    "sUPwAg": {
+        "en": "[Verkhasel]\n..... ........\n(Verkhasel glancing at sky)\n...\n.. Ha...!",
+        "pt": "[Bercassell]\n...\n(Bercassell se perde nos próprios pensamentos)\n...\nHahahaha",
+        "es": "[Verkhasel]\n………….\n(Verkhasel mira al cielo).\n…\n… ¡Ja…!"
+    },
+    "skPwAg": {
+        "en": "The mood is becoming delicate.",
+        "pt": "Que cara estranho...",
+        "es": "La atmósfera se puso delicada."
+    },
+    "s0PwAg": {
+        "en": "[Verkhasel]\nGo there.",
+        "pt": "[Bercassell]\nSai daqui então.",
+        "es": "[Verkhasel]\nVe allí."
+    },
+    "tEPwAg": {
+        "en": "[Vicente]\nOh,,, Mr. Verkhasel...\nDon't play like this among a family.\nWhy are you dividing us into teams?",
+        "pt": "[Vicente]\nCalma, Bercassell.\nNão faça isso.\nPor que tão grosseiro?",
+        "es": "[Vicente]\nAh, señor Verkhasel…\nNo juegues así en familia.\n¿Por qué nos divides en equipos?"
+    },
+    "tUPwAg": {
+        "en": "[Verkhasel]\nI've never been in your family.\nOriginally, you are not a Log.\nYou were only a merchant.",
+        "pt": "[Bercassell]\nNão estou nem aí!\nVocê nem é Renegado!\nSó um comerciante...",
+        "es": "[Verkhasel]\nNunca fui de tu familia.\nOriginalmente, no eras Pícaro.\nSolo eras un Comerciante."
+    },
+    "tkPwAg": {
+        "en": "[Vicente]\nOh.. No.. What a dirty word.\nHave I asked you for buying something from me?",
+        "pt": "[Vicente]\nPalavras machucam, sabia?!\n...",
+        "es": "[Vicente]\nAh… No… Qué palabra más sucia.\n¿Te pedí que me compraras algo?"
+    },
+    "t0PwAg": {
+        "en": "[Mayssel]\n..........You look friendly.. Two of you...",
+        "pt": "[Mayshell]\nParem... Os dois!",
+        "es": "[Mayssel]\n……….Te ves como alguien amistoso… Dos de ustedes…"
+    },
+    "uEPwAg": {
+        "en": "The mood frozen.",
+        "pt": "Que confusão...",
+        "es": "La atmósfera parece haberse congelado."
+    },
+    "uUPwAg": {
+        "en": "[Verkhasel]\nYou are the guy knows everything you need.\nAre you coming to watch only? Emmm?\nWhy don't you help the juniors without watch only?",
+        "pt": "[Bercassell]\n...\nVeio só pra observar?\nPor que não aproveita e ajuda quem tá começando?",
+        "es": "[Verkhasel]\nTú sabes bien todo lo que necesitas.\n¿Solo vienes a mirar? ¿Ehhh?\n¿Por qué no ayudas a los principiantes en lugar de solo mirar?"
+    },
+    "ukPwAg": {
+        "en": "Rumin",
+        "pt": "Rumin",
+        "es": "Rumin"
+    },
+    "u0PwAg": {
+        "en": "[Rumin]\nYour eagerness and efforst to complete mission moved me to offer something.",
+        "pt": "[Rumin]\nConsiderando seu desejo de terminar a missão, vou sugerir que",
+        "es": "[Rumin]\nTu entusiasmo y tu esfuerzo por cumplir la misión me motivaron a ofrecerte algo."
+    },
+    "vEPwAg": {
+        "en": "[Rumin]\n^4D4DFF It is to hunt all 4 Porings here within 30 seconds^000000.\nIf you do, I will yield to you all the earned item in my hand.",
+        "pt": "[Rumin]\n^4D4DFFMate todos os Porings em 30 segundos!^000000\nSe conseguir, vou te dar todos os itens que eu obtive até agora.",
+        "es": "[Rumin]\n^4D4DFFSe trata de cazar los 4 Poring que hay aquí en 30 segundos^000000.\nSi lo haces, te cederé todos los objetos obtenidos que tengo en mi poder."
+    },
+    "vUPwAg": {
+        "en": "If fail?",
+        "pt": "E se eu falhar?",
+        "es": "¿Y si fallo?"
+    },
+    "vkPwAg": {
+        "en": "[Rumin]\nIt is our bet. You have to give up yours as you lost.\nEmmm. As I am generous, I will receive ^4D4DFF10 beginner's red posions^000000.",
+        "pt": "[Rumin]\nÉ uma aposta, então é lógico que se falhar vai ter que me dar coisas em troca.\nHoje eu estou generoso, então só vou querer ^4D4DFF10 Poções de Aprendiz^000000.",
+        "es": "[Rumin]\nMisma apuesta. Si pierdes, tendrás que renunciar a los tuyos.\nEhhh. Como soy generoso, recibiré ^4D4DFF10 Pociones rojas de principiante^000000."
+    },
+    "v0PwAg": {
+        "en": "Give it up.",
+        "pt": "Não vou entrar nessa",
+        "es": "Ríndete."
+    },
+    "wEPwAg": {
+        "en": "OK. I will accept this bet.",
+        "pt": "Aceito o desafio!",
+        "es": "De acuerdo. Aceptaré la apuesta."
+    },
+    "wUPwAg": {
+        "en": "[Rumin]\n.... Eh...\nCoward",
+        "pt": "[Rumin]\n....\nCovarde!",
+        "es": "[Rumin]\n… Eh…\nCobarde"
+    },
+    "wkPwAg": {
+        "en": "[Rumin]\n.... Good!...\nNow, I am\n^4D4DFF Speak to me once you finish hunting 4 porings in 30 seconds.^000000",
+        "pt": "[Rumin]\n...\nEntão prepare-se!\n^4D4DFFVocê tem que matar todos os 4 Porings e vir falar comigo antes de acabarem os 30 segundos!^000000",
+        "es": "[Rumin]\n… ¡Bien…!\nLo haremos.\n^4D4DFFHáblame cuando termines de cazar 4 Poring en 30 segundos.^000000"
+    },
+    "w0PwAg": {
+        "en": "[Rumin]\nThe intoxicated enemies won't die only from poisoning.\nThey only come close to death.",
+        "pt": "[Rumin]\nConsidere que inimigos envenenados não morrem de veneno.\nEles ficam apenas à beira da morte.",
+        "es": "[Rumin]\nLos enemigos intoxicados no morirán solo por Veneno.\nEso solo los acerca a la muerte."
+    },
+    "xEPwAg": {
+        "en": "[Rumin]\n.. Why do Porings turn their back?",
+        "pt": "[Rumin]\n...",
+        "es": "[Rumin]\n… ¿Por qué los Poring huyen de mí?"
+    },
+    "xUPwAg": {
+        "en": "[Rumin]\n........... passed 30 seconds and have not hunted 4 porings yet.\nThen, it is not interesting.",
+        "pt": "[Rumin]\nJá se passaram 30 segundos e você não matou todos!\n...",
+        "es": "[Rumin]\n………..Pasaron 30 segundos y no cazaste 4 Poring todavía.\nNo lo haces interesante."
+    },
+    "xkPwAg": {
+        "en": "[Rumin]\nIf you don't like do it,,, no way.\nAs I am generous, I disregard the bet this time.",
+        "pt": "[Rumin]\nBom, não posso fazer nada!\nHoje estou generoso, então vou fingir que nada aconteceu!",
+        "es": "[Rumin]\nSi no te gusta hacerlo… déjalo.\nComo soy generoso, esta vez haré caso omiso de la apuesta."
+    },
+    "x0PwAg": {
+        "en": "[Rumin]\nYou may be too busy in^4D4DFF hunting 4 porings in 30 seconds.^000000\nHey, time passes now...",
+        "pt": "[Rumin]\n^4D4DFFMate 4 Porings em 30 segundos^000000.\nO tempo não espera ninguém!",
+        "es": "[Rumin]\nPuede que estés demasiado ocupado ^4D4DFFcazando 4 Poring en 30 segundos.^000000\nEy, el tiempo pasa…"
+    },
+    "yEPwAg": {
+        "en": "[Rumin]\nOh, excellent!\nNow, I will give you the promised trophies.",
+        "pt": "[Rumin]\nOh... Você conseguiu.\nComo prometido, vou te dar todos os itens que obtive.",
+        "es": "[Rumin]\n¡Ah, excelente!\nAhora, te daré los trofeos que prometí."
+    },
+    "yUPwAg": {
+        "en": "[Rumin]\nI had a fun thanks to you.",
+        "pt": "[Rumin]\nAté que foi divertido.",
+        "es": "[Rumin]\nMe divertí mucho gracias a ti."
+    },
+    "ykPwAg": {
+        "en": "[Rumin]\nRegretfully, 30 seconds has passed.",
+        "pt": "[Rumin]\nInfelizmente, já se passaram 30 segundos...",
+        "es": "[Rumin]\nLamentablemente, ya pasaron 30 segundos."
+    },
+    "y0PwAg": {
+        "en": ".....",
+        "pt": "...",
+        "es": "……"
+    },
+    "zEPwAg": {
+        "en": "[Rumin]\nI will give it to you.\nFighting!!!",
+        "pt": "[Rumin]\nVou te dar isso aqui.\nAnime-se.",
+        "es": "[Rumin]\nTe lo daré…\n¡¡…después de luchar!!"
+    },
+    "zUPwAg": {
+        "en": "Why are you treating me like this?",
+        "pt": "Por que tá fazendo isso comigo?",
+        "es": "¿Por qué me tratas así?"
+    },
+    "zkPwAg": {
+        "en": "I lost?",
+        "pt": "Eu perdi?",
+        "es": "¿Perdí?"
+    },
+    "z0PwAg": {
+        "en": "[Rumin]\nYou spent time with me.\nGet it free. I stole them from Porings.",
+        "pt": "[Rumin]\n...\nDeu vontade de ser malvado.",
+        "es": "[Rumin]\nPasaste tiempo conmigo.\nSe pueden conseguir gratis. Los robé a los Poring."
+    },
+    "0EPwAg": {
+        "en": "[Rumin]\nWe may meet again.\nBecoming familiar with others is pleasrue and sad.",
+        "pt": "[Rumin]\nTalvez a gente se encontre novamente...\nDespedidas são animadoras e tristes ao mesmo tempo.",
+        "es": "[Rumin]\nPuede que volvamos a vernos.\nAcercarte a los demás resulta placentero y triste."
+    },
+    "0UPwAg": {
+        "en": "[Rumin]\n... It may be in trouble if it dies upfront..",
+        "pt": "[Rumin]\nÉ difícil ver alguém indo embora.",
+        "es": "[Rumin]\n… Puede ser un problema si se muere antes…"
+    },
+    "0kPwAg": {
+        "en": "[Rumin]\nAt last, the day comes.",
+        "pt": "[Rumin]\nUm dia isso ia acontecer...",
+        "es": "[Rumin]\nPor fin llegó el día."
+    },
+    "00PwAg": {
+        "en": "Rumin changing clothes piece by piece",
+        "pt": "Rumin muda as roupas, uma de cada vez.",
+        "es": "(Rumin se cambia de ropa prenda por prenda)."
+    },
+    "1EPwAg": {
+        "en": "[Rumin]\nI was carrying out my mission.",
+        "pt": "[Rumin]\nEu estava vestido a trabalho...",
+        "es": "[Rumin]\nEstaba cumpliendo mi misión."
+    },
+    "1UPwAg": {
+        "en": "no need to make an excuse....",
+        "pt": "...",
+        "es": "No hace falta dar excusas…"
+    },
+    "1kPwAg": {
+        "en": "[Rumin]\nAt least to you, I don't want to be a stranger.\nForget what you saw today, as I have to introduce to the way of thief guild as many people as possible.",
+        "pt": "[Rumin]\nNão queria que parecesse estranho para você.\nDe qualquer maneira, tenho que atrair quantas pessoas eu conseguir para os Gatunos...",
+        "es": "[Rumin]\nAl menos para ti, no quiero ser un extraño.\nOlvida lo que viste hoy, ya que tengo que introducir en el camino del gremio de Ladrones a tanta gente como sea posible."
+    },
+    "10PwAg": {
+        "en": "Poring",
+        "pt": "Poring",
+        "es": "Poring"
+    },
+    "2EPwAg": {
+        "en": "General Store Owner",
+        "pt": "Everaldo, dono da loja",
+        "es": "Dueño de un almacén"
+    },
+    "2UPwAg": {
+        "en": "[Querrie]\nAre you interested in the beginner's guild?\nI am selling Combination books and kits.",
+        "pt": "[Everaldo]\nInteressado em combinações básicas?\nVendo Livros e Kits de Culinária Iniciantes.",
+        "es": "[Osvaldo]\n¿Te interesa el gremio de Principiantes?\nVendo libros y kits de combinaciones."
+    },
+    "2kPwAg": {
+        "en": "[Querrie]\nto the Criatura students below level 20, a special sale is going on. Hope you to buy a lot!!!",
+        "pt": "[Everaldo]\nItens para os integrantes da Academia Criatura que estão abaixo do nível 20 contam com um desconto especial!",
+        "es": "[Osvaldo]\nJusto ahora hay una venta especial para los estudiantes de la Academia de criaturas que estén por debajo del nivel 20. ¡¡Espero que compren mucho!!"
+    },
+    "20PwAg": {
+        "en": "Novice Combination Book- 1000 z",
+        "pt": "Livro de Culinária Iniciante - 1000 zeny",
+        "es": "Libro de combinaciones para principiantes - 1000 zeny"
+    },
+    "3EPwAg": {
+        "en": "Combination Kit - 30z on sale",
+        "pt": "Kit de Culinária Iniciante - 30 zeny (oferta)",
+        "es": "Kit de combinaciones - 30 zeny (en oferta)"
+    },
+    "3UPwAg": {
+        "en": "[Querrie]\nHave you been treated by the Therapist?\nAt the medical botany class, you may receive a guild book.",
+        "pt": "[Everaldo]\nVocê conhece o Terapeuta Flávio, né?\nSe conhece, uma cópia do Livro de Culinária Iniciante será de grande ajuda.",
+        "es": "[Osvaldo]\n¿Ya te trató el terapeuta?\nEn la lección de botánica médica, puedes recibir un libro del gremio."
+    },
+    "3kPwAg": {
+        "en": "Ah... is that so?",
+        "pt": "Entendo...",
+        "es": "Ah… ¿en serio?"
+    },
+    "30PwAg": {
+        "en": "I lost it.",
+        "pt": "Infelizmente não conheço",
+        "es": "Lo perdí."
+    },
+    "4EPwAg": {
+        "en": "[Querrie]\nLater, buy a lot of the guild combination kits~~~\nI am selling them at a jaw dropping price to students below base level 20.",
+        "pt": "[Everaldo]\nNão deixe de comprar vários...\nEstamos encorajando aventureiros abaixo do nível 20 a aproveitarem as ofertas!",
+        "es": "[Osvaldo]\nMás tarde, compra muchos kits de combinaciones del gremio.\nLos vendo a un precio asombroso para estudiantes que estén por debajo del nivel de base 20."
+    },
+    "4UPwAg": {
+        "en": "[Querrie]\nSay what?\nA book costs you 1000z.",
+        "pt": "[Everaldo]\nHm...\nNesse caso, um é 1000 zeny.",
+        "es": "[Osvaldo]\n¿Cómo dices?\nUn libro te cuesta 1000 zeny."
+    },
+    "4kPwAg": {
+        "en": "Buy",
+        "pt": "Comprar",
+        "es": "Comprar."
+    },
+    "40PwAg": {
+        "en": "Don't buy.",
+        "pt": "Não comprar",
+        "es": "No comprar."
+    },
+    "5EPwAg": {
+        "en": "[Querrie]\nHere you are.\nThis book is for the beginners. But it will allow you combine the useful tools together, if you use it correctly.",
+        "pt": "[Everaldo]\nAqui está.\nÉ o básico do básico, mas é extremamente útil.",
+        "es": "[Osvaldo]\nAquí tienes.\nEste libro es para principiantes. Pero te permitirá combinar las herramientas útiles, si lo usas correctamente."
+    },
+    "5UPwAg": {
+        "en": "[Querrie]\nThe book price is 1000 zeny.\nYou seem to be short of zeny.",
+        "pt": "[Everaldo]\nO preço é 1000 zeny.\nQuando tiver a quantia necessária, retorne aqui.",
+        "es": "[Osvaldo]\nEl precio del libro es de 1000 zeny.\nParece que te faltan zeny."
+    },
+    "5kPwAg": {
+        "en": "[Querrie]\nUse it next time.",
+        "pt": "[Everaldo]\nPense melhor e volte aqui.",
+        "es": "[Osvaldo]\nÚsalo la próxima vez."
+    },
+    "50PwAg": {
+        "en": "[Querrie]\nYou mean the combination book.\nA book costs you 1000 z.",
+        "pt": "[Everaldo]\nLivro de Culinária Iniciante.\nUm é 1000 zeny.",
+        "es": "[Osvaldo]\nTe refieres al libro de combinaciones.\nUn libro te cuesta 1000 zeny."
+    },
+    "6EPwAg": {
+        "en": "[Querrie]\nBreaking news! Special sale for you only!\nOne combination kit only for 30 z!\nHow many do you need?",
+        "pt": "[Everaldo]\nAproveite essa maravilhosa oferta!\nUm Kit de Culinária Iniciante custa 30 zeny.\nDe quantos precisa?",
+        "es": "[Osvaldo]\n¡Últimas noticias! ¡Oferta especial solo para ti!\n¡Un kit de combinaciones solo por 30 zeny!\n¿Cuántos necesitas?"
+    },
+    "6UPwAg": {
+        "en": "[Querrie]\nWell, you don't need to buy it now.\nUse it next time.",
+        "pt": "[Everaldo]\nNão precisa comprar agora...\nPense melhor e volte aqui.",
+        "es": "[Osvaldo]\nBueno, no tienes que comprarlo ahora.\nÚsalo la próxima vez."
+    },
+    "6kPwAg": {
+        "en": "[Querrie]\nHow many pieces do you need?\nYou can buy up to 99 at once.",
+        "pt": "[Everaldo]\nDe quantos precisa?\nPor favor, selecione até 99 por compra.",
+        "es": "[Osvaldo]\n¿Cuántas piezas necesitas?\nPuedes comprar hasta 99 a la vez."
+    },
+    "60PwAg": {
+        "en": "[Querrie]\n{0} combination kits will cost you {1}.... zeny.\nYou look short of money for that amount.",
+        "pt": "[Everaldo]\n{0}unidade de Kit de Culinária Iniciante sai por{1}zeny.\nParece que você não tem zeny suficiente.",
+        "es": "[Osvaldo]\nLos kits de combinaciones de {0} te costarán {1}… zeny.\nParece que te falta dinero para comprar tantos."
+    },
+    "7EPwAg": {
+        "en": "[Querrie]\n{0} combination kits will cost you {1}.... zeny.\nThank you. Come back again.",
+        "pt": "[Everaldo]\n{0}unidade(s) de Kit de Culinária Iniciante saem por{1}zeny.\nObrigado e volte sempre!",
+        "es": "[Osvaldo]\nLos kits de combinaciones de {0} te costarán {1}… zeny.\nGracias. Vuelve luego."
+    },
+    "7UPwAg": {
+        "en": "[Querrie]\nNo sales today.\nOne combination kit costs you 500z.\nTell me how many pieces you need?",
+        "pt": "[Everaldo]\nInfelizmente você não está apto pra oferta...\nUm Kit de Culinária Iniciante sai por 500 zeny.\nDe quantos precisa?",
+        "es": "[Osvaldo]\nHoy no hay ofertas.\nUn kit de combinaciones te cuesta 500 zeny.\n¿Dime cuántas piezas necesitas?"
+    },
+    "7kPwAg": {
+        "en": "===Information for free route===",
+        "pt": "===Informações para rota livre===",
+        "es": "===Información sobre la ruta gratuita==="
+    },
+    "70PwAg": {
+        "en": "Izlude - Juno - Rachel",
+        "pt": "Izlude - Juno - Rachel",
+        "es": "Izlude - Juno - Rachel"
+    },
+    "8EPwAg": {
+        "en": "Travellers bound for either the ^4D4DFFSchwarzwalt Republic^000000 or ^4D4DFFArunafeltz^000000 may board the free airship here.",
+        "pt": "Passageiros que desejam ir à ^4D4DFFRepública de Schwartzwald^000000 ou a ^4D4DFFArunafeltz^000000, por favor embarcar no Aeroplano.",
+        "es": "Los viajeros con destino a la ^4D4DFFRepública de Schwarzwald^000000 o ^4D4DFFArunafeltz^000000 pueden subir a la aeronave aquí sin costo."
+    },
+    "8UPwAg": {
+        "en": "===Information for free airship route===",
+        "pt": "===Informações sobre a rota do aeroplano grátis===",
+        "es": "===Información sobre la ruta gratuita==="
+    },
+    "8kPwAg": {
+        "en": "===Information for non fair base route===",
+        "pt": "===Informações para rota de base não justa===",
+        "es": "===Información sobre la ruta gratuita==="
+    },
+    "80PwAg": {
+        "en": "== Challenge! Arena! ==",
+        "pt": "== Desafio! Arena! ==",
+        "es": "== ¡Arena de desafío! =="
+    },
+    "9EPwAg": {
+        "en": "Breath taking battle with monsters!\nWhere is your limit?\nPvE party with your comrad!\nAll these at Arena!!",
+        "pt": "Lutas fantásticas e eletrizantes!\nLimites sendo superados!\nHPE - Ajuda de colegas estonteantes!\nArena, o lugar para ser testado!",
+        "es": "¡Una batalla contra monstruos que te dejará sin aliento!\n¿Cuál es tu límite?\n¡Grupo PvE con tus compañeros!\n¡¡Todo esto y más en la Arena!!"
+    },
+    "9UPwAg": {
+        "en": "Breath taking battle with monsters!\nWhere is your limit?\nPvE party with your comrades!\nAll these at the Arena!!",
+        "pt": "Esqueça os problemas! Entre na Arena!\nLutas fantásticas e eletrizantes!\nLimites sendo superados!\nHPE - Ajuda de colegas estonteantes!\nArena, o lugar para ser testado!",
+        "es": "¡Una batalla contra monstruos que te dejará sin aliento!\n¿Cuál es tu límite?\n¡Grupo PvE con tus compañeros!\n¡¡Todo esto y más en la Arena!!"
+    },
+    "9kPwAg": {
+        "en": "=== Information ===",
+        "pt": "=== Informações ===",
+        "es": "=== Información ==="
+    },
+    "90PwAg": {
+        "en": "Prontera Field.\nThe city of Prontera is located to the north.",
+        "pt": "Aviso!\nCaminho para Prontera.\nA direção correta é o Norte.\nSe está indo para Prontera, siga esse caminho!",
+        "es": "Campo de Prontera.\nLa ciudad de Prontera se encuentra al norte."
+    }
+}

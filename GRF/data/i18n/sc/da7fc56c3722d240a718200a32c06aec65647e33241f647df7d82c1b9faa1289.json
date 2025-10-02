@@ -1,0 +1,612 @@
+{
+    "wESEAw": {
+        "en": "Museum Employee",
+        "pt": "Diligente do Museu",
+        "es": "Empleado del Museo"
+    },
+    "wUSEAw": {
+        "en": "[Orzo]\nUh, are you an Adventurer? Looking for work?",
+        "pt": "[Orzo]\nHm, você é um aventureiro?",
+        "es": "[Orzo]\nEh, ¿eres trotamundos? ¿Buscas trabajo?"
+    },
+    "wkSEAw": {
+        "en": "[Orzo]\nIt seems like your bag is full. That's inefficient ... \nGo clear some space in your bag and come back.",
+        "pt": "[Orzo]\nVocê tem muitos itens... \nEsvazie o inventário e volte novamente.",
+        "es": "[Orzo]\nParece que tu bolso está lleno. Eso no es eficiente… \nRegresa luego de liberar algo de espacio en tu bolso."
+    },
+    "w0SEAw": {
+        "en": "[Orzo]\nHmm ... I really don't know what to do. This is bad ...",
+        "pt": "[Orzo]\nHm... não consigo fazer isso... vou acabar tendo problemas...",
+        "es": "[Orzo]\nMmm… De verdad no sé qué hacer. Esto es malo…"
+    },
+    "xESEAw": {
+        "en": "[Orzo]\nOh, are you here to see the museum? Excuse me.\nIf you're an Adventurer, may I ask a favor of you?",
+        "pt": "[Orzo]\nAh, você veio visitar o Museu? Perdão.\nEu queria te pedir um favor...",
+        "es": "[Orzo]\nAh, ¿viniste a ver el museo? Disculpa.\nSi eres trotamundos, ¿puedo pedirte un favor?"
+    },
+    "xUSEAw": {
+        "en": "[Orzo]\nOh, you're not from Eden Group.\nI don't have enough money to ask a private Adventurer for help. I'm sorry.",
+        "pt": "[Orzo]\nAh, você não é do Grupo do Éden.\nNão dá para confiar nesses viajantes sem registro.",
+        "es": "[Orzo]\nAh, no eres del Grupo de Edén.\nNo tengo suficiente dinero para contratar a un trotamundos privado. Lo siento."
+    },
+    "xkSEAw": {
+        "en": "[Orzo]\nAre you here to see the museum? Perhaps you're an Adventurer? If you're from Eden Group, may I ask a favor of you?",
+        "pt": "[Orzo]\nAh, você veio visitar o Museu? Se você for do Grupo do Éden...",
+        "es": "[Orzo]\n¿Viniste a ver el museo? ¿Tal vez eres trotamundos? Si eres del Grupo de Edén, ¿puedo pedirte un favor?"
+    },
+    "x0SEAw": {
+        "en": "[Orzo]\nOh, you're still in training.\nThis is a job with hazard pay. You should train some more before taking it ...",
+        "pt": "[Orzo]\nVixe! Você nem tem as habilidades que preciso.\nÉ melhor encontrar alguém mais forte...",
+        "es": "[Orzo]\nAh, todavía estás en entrenamiento.\nEs un trabajo con remuneración por riesgo. Deberías entrenar un poco más antes de aceptarlo…"
+    },
+    "yESEAw": {
+        "en": "- This quest is for Level 100 and up. -",
+        "pt": "- Essa missão é para personagens de nível 100 ou superior. -",
+        "es": "-Esta misión requiere al menos nivel 100.-"
+    },
+    "yUSEAw": {
+        "en": "[Orzo]\nYou took our quest from Eden Group. Thank you.",
+        "pt": "[Orzo]\nObrigado por ter aceito a minha solicitação no Grupo do Éden.",
+        "es": "[Orzo]\nAceptaste la misión del Grupo de Edén. Gracias."
+    },
+    "ykSEAw": {
+        "en": "[Orzo]\nYou completed our quest from Eden Group.\nIf you want to take the same quest from the museum as well, please come back tomorrow.",
+        "pt": "[Orzo]\nVocê completou a solicitação feita lá no Grupo do Éden.\nVolte amanhã para repetir a mesma solicitação comigo.",
+        "es": "[Orzo]\nCompletaste la misión del Grupo de Edén.\nSi quieres hacer la misma misión del museo, vuelve mañana."
+    },
+    "y0SEAw": {
+        "en": "[Orzo]\nWelcome. Are you here to see the museum?\nOr to get some quests as an Adventurer?",
+        "pt": "[Orzo]\nBom dia, você é visitante?\nOu é viajante?",
+        "es": "[Orzo]\nTe doy la bienvenida. ¿Viniste a ver el museo?\n¿O para conseguir algunas misiones como trotamundos?"
+    },
+    "zESEAw": {
+        "en": "I'm an adventurer. I'm here to get some quests.",
+        "pt": "Sou viajante.",
+        "es": "Soy trotamundos. Vine a conseguir algunas misiones."
+    },
+    "zUSEAw": {
+        "en": "I'm just a tourist passing by.",
+        "pt": "Só estou de passagem.",
+        "es": "Solo estoy de paso."
+    },
+    "zkSEAw": {
+        "en": "[Orzo]\nYou came! Thank you.\nI sent a message to Eden Group, hoping that somebody would help me. I'm glad you're here.",
+        "pt": "[Orzo]\nEntão mandaram você! Legal.\nSolicitei ao Grupo do Éden para enviar alguém.",
+        "es": "[Orzo]\n¡Viniste! Gracias.\nEnvié un mensaje al Grupo de Edén con la esperanza de que alguien me ayudara. Me alegra que estés aquí."
+    },
+    "z0SEAw": {
+        "en": "[Orzo]\nThere's a lot to do. Which quest would you like to do first?",
+        "pt": "[Orzo]\nTemos muitos afazeres, por onde quer começar?",
+        "es": "[Orzo]\nHay mucho que hacer. ¿Qué misión te gustaría hacer primero?"
+    },
+    "0ESEAw": {
+        "en": "Capture Nightmare Terrors",
+        "pt": "Filtro dos Sonhos",
+        "es": "Capturar Terrores nocturnos."
+    },
+    "0USEAw": {
+        "en": "Capture Deleters",
+        "pt": "Dragões de Fogo",
+        "es": "Capturar Deleter."
+    },
+    "0kSEAw": {
+        "en": "Collect Lava",
+        "pt": "Estudo Geológico",
+        "es": "Recolectar Lava."
+    },
+    "00SEAw": {
+        "en": "I'm sorry, next time.",
+        "pt": "Fica para a próxima",
+        "es": "Lo siento, la próxima."
+    },
+    "1ESEAw": {
+        "en": "[Orzo]\nI'd like you to capture ^0000CD30 Nightmare Terrors^000000.\nNot only for the museum, but I also need them for Schwetzervil Academy's research.",
+        "pt": "[Orzo]\n^0000CD30 Pesadelos Sombrios^000000 para você caçar.\nEsse número é a soma dos pedidos do Museu e da Universidade.",
+        "es": "[Orzo]\nMe gustaría que capturaras a ^0000CD30 Terrores nocturnos^000000.\nNo solo para el museo, sino también para la investigación de la AcademiaSchweicherbil."
+    },
+    "1USEAw": {
+        "en": "[Orzo]\nBut we don't have enough staff here to acquire so many ...\nThanks to you, I feel much better now. I wish you good luck.",
+        "pt": "[Orzo]\nNinguém do Museu ia conseguir lidar com tantos...\nQue bom que você quer cooperar conosco.",
+        "es": "[Orzo]\nAquí no tenemos personal suficiente para conseguir tantos…\nGracias a ti, ahora me siento mucho mejor. Te deseo buena suerte."
+    },
+    "1kSEAw": {
+        "en": "[Orzo]\nOh, if you find it troublesome to go all the way to Juno after you complete the quest, you can visit the entrance of Nogg Road Magma Dungeon and talk to our employee there instead.\nHe will know what to do.",
+        "pt": "[Orzo]\nAh, para facilitar, enviamos um funcionário na entrada da Caverna de Magma.\nEle vai confirmar que você concluiu a missão.",
+        "es": "[Orzo]\nSi se te complica ir hasta Juno tras completar la misión, puedes visitar la entrada de la Mazmorra Magma en la carretera Nogg y hablar con nuestro empleado.\nÉl sabrá qué hacer."
+    },
+    "10SEAw": {
+        "en": "[Orzo]\nI'd like you to capture ^0000CD30 each of Earth Deleters and Sky Deleters^000000.\nNot only for the museum, but I also need them for Schwetzervil Academy's research.",
+        "pt": "[Orzo]\n^0000CD30 Deletérios e 30 Exterminadores^000000 para você caçar.\nEsse número é a soma dos pedidos do Museu e da Universidade.",
+        "es": "[Orzo]\nMe gustaría que capturaras a ^0000CD30 Deleter de tierra y 30 Deleter del cielo^000000.\nNo solo para el museo, sino también para la investigación de la AcademiaSchweicherbil."
+    },
+    "2ESEAw": {
+        "en": "[Orzo]\nIf it were only to exhibit, it would be cheaper to dye Petites ... Oh, i-i-it's a joke.\nAnyway, good luck!",
+        "pt": "[Orzo]\nGostaríamos de exibí-los no museu.\nBoa sorte!",
+        "es": "[Orzo]\nSi fueran solo para exposición, sería más barato teñir a unos cuantos Petite… Ah, e-es una broma.\nEn fin, ¡buena suerte!"
+    },
+    "2USEAw": {
+        "en": "[Orzo]\nThis is somewhat embarrassing.\nCan you collect ^0000CD10 Lava^000000 for me?",
+        "pt": "[Orzo]\nFico até sem graça de pedir isso.\nPode pegar ^0000CD10 Pedra Pomes^000000 para o Museu?",
+        "es": "[Orzo]\nEsto es algo vergonzoso.\n¿Puedes recolectar ^0000CD10 unidades de Lava^000000 por mí?"
+    },
+    "2kSEAw": {
+        "en": "[Orzo]\nHonestly, the museum needs to cover its losses.\nSo ... I thought I could make some money by refining Lava.\nThe people and the lab can do it with Schwetzervil Academy's help ...",
+        "pt": "[Orzo]\nEstamos com pouco estoque.\nNós... vendemos elas para conseguir recursos.\nTanto o Museu quanto a Universidade precisam de fundos para pesquisa...",
+        "es": "[Orzo]\nSinceramente, el museo necesita cubrir las pérdidas.\nAsí que… Pensé que podría ganar algo de dinero refinando Lava.\nEl pueblo y el laboratorio pueden hacerlo con la ayuda de la AcademiaSchweicherbil…"
+    },
+    "20SEAw": {
+        "en": "[Orzo]\nMy family is on the line here ... I wish you good luck.",
+        "pt": "[Orzo]\nSe ninguém valoriza o trabalho científico, a gente tem que correr atrás.",
+        "es": "[Orzo]\nMi familia está en juego… Te deseo buena suerte."
+    },
+    "3ESEAw": {
+        "en": "[Orzo]\nIf you find it troublesome to go all the way to Juno after you complete the quest, you can visit the entrance of Nogg Road Magma Dungeon and talk to our employee there instead.\nHe will know what to do.",
+        "pt": "[Orzo]\nAh, para facilitar, enviamos um funcionário na entrada da Caverna de Magma.\nEle vai confirmar que você concluiu a missão.",
+        "es": "[Orzo]\nAh, si se te complica ir hasta Juno tras completar la misión, puedes visitar la entrada de la Mazmorra Magma en la carretera Nogg y hablar con nuestro empleado.\nÉl sabrá qué hacer."
+    },
+    "3USEAw": {
+        "en": "[Orzo]\nUh, hmm ... haha.\nOkay. Thanks for stopping by. Please come back again.",
+        "pt": "[Orzo]\nAh, hm... Hah.\nDe qualquer forma, obrigado.",
+        "es": "[Orzo]\nEh, mmm… ja, ja.\nBueno. Gracias por venir. Regresa cuando quieras."
+    },
+    "3kSEAw": {
+        "en": "[Orzo]\nThank you for visiting our monster museum.\nI hope you enjoy it.",
+        "pt": "[Orzo]\nBem... hahah.\nDe toda forma, obrigado por vir.",
+        "es": "[Orzo]\nGracias por visitar nuestro Museo de los Monstruos.\nEspero que lo disfrutes."
+    },
+    "30SEAw": {
+        "en": "[Orzo]\nAdventurer, you're back. Is there something I can help with?\nEveryone in the museum is grateful for all the help you gave us.",
+        "pt": "[Orzo]\nVocê voltou! Em que posso ajudar?\nO Museu agradece aos aventureiros que sempre aparecem para ajudar.",
+        "es": "[Orzo]\nTrotamundos, volviste. ¿Hay algo en lo que pueda ayudar?\nTodo el personal del museo agradece tu ayuda."
+    },
+    "4ESEAw": {
+        "en": "I'm just stopping by.",
+        "pt": "Estou só de passagem.",
+        "es": "Solo pasaba por aquí."
+    },
+    "4USEAw": {
+        "en": "[Orzo]\nBut we don't have enough staff here to acquire so many ...\nThat's why I'm asking you, Adventurer. Will you do it?",
+        "pt": "[Orzo]\nNinguém do Museu ia conseguir lidar com tantos...\nDeseja aceitar essa tarefa, viajante?",
+        "es": "[Orzo]\nAquí no tenemos personal suficiente para conseguir tantos…\nPor eso te pregunto, trotamundos. ¿Lo harás?"
+    },
+    "4kSEAw": {
+        "en": "I'll take it.",
+        "pt": "Aceitar.",
+        "es": "Acepto."
+    },
+    "40SEAw": {
+        "en": "I can't right now.",
+        "pt": "Recusar.",
+        "es": "Ahora no puedo."
+    },
+    "5ESEAw": {
+        "en": "[Orzo]\nThank you. It's ^0000CD30 Nightmare Terrors^000000.",
+        "pt": "[Orzo]\nObrigado. ^0000CD30 Pesadelos Sombrios^000000, por favor.",
+        "es": "[Orzo]\nGracias. Son ^0000CD30 Terrores nocturnos^000000."
+    },
+    "5USEAw": {
+        "en": "[Orzo]\nHaha ... okay. Please come back again.\nFor now ... could you tell me about your adventures if you have time? I want to tell my brother all about it.",
+        "pt": "[Orzo]\nHaha... tranquilo.\nSe quiser voltar e contar suas aventuras, meu irmão adora ouvir histórias.",
+        "es": "[Orzo]\nJa, ja…Está bien. Regresa cuando quieras.\nDe momento… si tienes tiempo, ¿podrías contarme sobre tus aventuras? Quiero contarle todo a mi hermano."
+    },
+    "5kSEAw": {
+        "en": "[Orzo]\nIt's ^0000CD30 Nightmare Terrors^000000. Good luck.\nThere are a lot of monsters in our museum, but Nightmare Terrors are not among them. I want to show them to my brother.",
+        "pt": "[Orzo]\n^0000CD30 Pesadelos Sombrios^000000, por favor. Eu lhe peço.\nHá muitos monstros no Museu, mas nenhum é o Pesadelo Sombrio.",
+        "es": "[Orzo]\nSon ^0000CD30 Terrores nocturnos^000000. Buena suerte.\nHay muchos monstruos en nuestro museo, pero no tenemos Terrores nocturnos. Quiero mostrárselos a mi hermano."
+    },
+    "50SEAw": {
+        "en": "[Orzo]\nYou captured them! Thank you for helping our museum. The captured monsters will be put into our museum or sent to the Academy for research purposes.",
+        "pt": "[Orzo]\nVocê conseguiu! Isso servirá de apoio para pesquisa e exibição no museu.",
+        "es": "[Orzo]\n¡Los capturaste! Gracias por ayudar a nuestro museo. Exhibiremos los monstruos capturados en nuestro museo o los enviaremos a la Academia para su investigación."
+    },
+    "6ESEAw": {
+        "en": "[Orzo]\nOnce they're put on display, I will bring my brother from Pasta here one day. He'll be surprised!",
+        "pt": "[Orzo]\nQuando meu irmão voltar de Lasagna, ele vai adorar ver!",
+        "es": "[Orzo]\nUna vez que estén exhibidos, traeré a mi hermano desde Pasta un día. ¡Se sorprenderá!"
+    },
+    "6USEAw": {
+        "en": "[Orzo]\nIf you want to take the same quest again, please come back tomorrow.\nI'm always grateful for your help.",
+        "pt": "[Orzo]\nSe você quiser repetir essa tarefa, volte ao amanhecer.\nPela sua cooperação, obrigado.",
+        "es": "[Orzo]\nSi quieres repetir la misma misión, vuelve mañana.\nSiempre agradezco tu ayuda."
+    },
+    "6kSEAw": {
+        "en": "[Orzo]\nAdventurer, I'd like to ask you to capture ^0000CD30 Nightmare Terrors^000000 again.\nWe'll need them for Schwetzervil Academy's research. And ... Uh, umm ...",
+        "pt": "[Orzo]\nChegou mais um pedido para caçar ^0000CD30 Pesadelos Sombrios^000000.\nA Universidade e o Museu precisam de você...",
+        "es": "[Orzo]\nTrotamundos, ¿podrías capturar a ^0000CD30 Terrores nocturnos^000000 de nuevo?\nLos necesitamos para la investigación de la AcademiaSchweicherbil. Y… Eh, mmm…"
+    },
+    "60SEAw": {
+        "en": "[Orzo]\nActually ... a few of the Nightmare Terrors you captured for us escaped.\nI don't know what to say ... you worked hard for this.",
+        "pt": "[Orzo]\nA verdade é que... os Pesadelos Sombrios que você trouxe ontem escaparam.\nEles simplesmente fugiram.",
+        "es": "[Orzo]\nEn realidad… algunos de los Terrores nocturnos que capturaste antes escaparon.\nNo sé qué decir… Te esforzaste mucho."
+    },
+    "7ESEAw": {
+        "en": "[Orzo]\nMy older brother was in charge of the pen because I was new to it, but I guess there were too many of them for him to control alone.\nI need to get better at it as soon as possible... I'm sorry for what happened. Can I ask you for the same favor again?",
+        "pt": "[Orzo]\nFoi um descuido nosso, pedimos desculpa.\nPosso pedir isso a você?",
+        "es": "[Orzo]\nMi hermano mayor estaba a cargo del corral porque yo no tengo experiencia, pero eran demasiados para que él los controlara solo.\nTengo que mejorar lo antes posible… Siento lo que pasó. ¿Puedo volver a pedirte el mismo favor?"
+    },
+    "7USEAw": {
+        "en": "I'll go again.",
+        "pt": "Eu farei.",
+        "es": "Iré otra vez."
+    },
+    "7kSEAw": {
+        "en": "Not this time.",
+        "pt": "Agora não dá.",
+        "es": "Esta vez no."
+    },
+    "70SEAw": {
+        "en": "[Orzo]\nThank you. It's ^0000CD30 Nightmare Terrors^000000. \nIf it's too much trouble going from Nogg Road to Juno, you can go to the dungeon's entrance and talk to our employee there.",
+        "pt": "[Orzo]\nEu lhe peço. ^0000CD30 Pesadelos Sombrios^000000, por favor. \nPara facilitar, enviamos um funcionário na entrada da Caverna de Magma.",
+        "es": "[Orzo]\nGracias. Son ^0000CD30 Terrores nocturnos^000000. \nSi se te complica demasiado ir de la carretera Nogg a Juno, puedes ir a la entrada de la mazmorra y hablar con nuestro empleado."
+    },
+    "8ESEAw": {
+        "en": "[Orzo]\n... Sometimes I miss my brother a lot. I left him when he was just a baby and moved to Rune-Midgard.",
+        "pt": "[Orzo]\n......Algumas vezes sinto falta do meu irmão mais novo.",
+        "es": "[Orzo]\n… A veces extraño mucho a mi hermano. Lo dejé cuando era solo un bebé y me mudé a Rune-Midgard."
+    },
+    "8USEAw": {
+        "en": "[Orzo]\nEven with those small eyes, he liked to watch me wave my fishing rod. He must have grown into a big boy by now ... I wonder if he's doing okay. My little brother ...",
+        "pt": "[Orzo]\nEle foi viajou quando ainda era um bebê, hoje deve estar maior...",
+        "es": "[Orzo]\nIncluso con esos ojos tan pequeños, le gustaba verme con la caña de pescar. Ya debe ser un niño grande… Me pregunto si estará bien. Mi hermano pequeño…"
+    },
+    "8kSEAw": {
+        "en": "[Orzo]\nYou captured them! Thank you so much for helping us multiple times.",
+        "pt": "[Orzo]\nDeu certo! Obrigado por ter aceitado a tarefa.",
+        "es": "[Orzo]\n¡Los capturaste! Muchas gracias por ayudarnos varias veces."
+    },
+    "80SEAw": {
+        "en": "[Orzo]\nOnce they're put on display, I will bring my brother from Pasta here one day. To show him his big brother is doing well ... I want to show him.",
+        "pt": "[Orzo]\nQuando expormos esses monstros no Museu, vou convidar o meu irmão para visitar.",
+        "es": "[Orzo]\nUna vez que estén exhibidos, traeré a mi hermano desde Pasta un día. Para demostrarle que a su hermano mayor le va bien… Quiero mostrarle."
+    },
+    "9ESEAw": {
+        "en": "[Orzo]\nHmm ... I think there is a small problem.\nIf I keep on repeating what I said, please screenshot this text and make a bug report.",
+        "pt": "[Orzo]\nhm... erro.\nSe repetir essa mensagem, envie um ticket para a central de suporte.",
+        "es": "[Orzo]\nMmm… Creo que hay un pequeño problema.\nSi sigo repitiendo lo que dije, por favor, haz una captura de pantalla de este texto y envía un informe de error."
+    },
+    "9USEAw": {
+        "en": "[Orzo]\nAdventurer, I'd like to ask you to capture 30 Nightmare Terrors again.\nWe'll need them for Schwetzervil Academy's research. And ... Uh, umm ...",
+        "pt": "[Orzo]\nElimine 30 Pesadelos Sombrios, por favor.\nA Universidade e o Museu precisam de você...",
+        "es": "[Orzo]\nTrotamundos, ¿podrías capturar a 30 Terrores nocturnos de nuevo?\nLos necesitamos para la investigación de la AcademiaSchweicherbil. Y… Eh, mmm…"
+    },
+    "9kSEAw": {
+        "en": "[Orzo]\nIf it were only to exhibit, it would be cheaper to dye Petites ... Oh, i-i-it's a joke.\nWill you take the quest?",
+        "pt": "[Orzo]\nEu estava vigiando eles, mas me distraí com uma lata de sardinhas.\nFoi vacilo meu... Agora preciso da sua ajuda de novo... Pode fazer esse favor?",
+        "es": "[Orzo]\nSi fueran solo para exposición, sería más barato teñir a unos cuantos Petite… Ah, e-es una broma.\n¿Aceptarás la misión?"
+    },
+    "90SEAw": {
+        "en": "Okay.",
+        "pt": "Eu farei.",
+        "es": "Bueno."
+    },
+    "+ESEAw": {
+        "en": "No.",
+        "pt": "Não.",
+        "es": "No."
+    },
+    "+USEAw": {
+        "en": "[Orzo]\nThank you! I'd like you to capture ^0000CD30 each of Earth Deleters and Sky Deleters^000000.",
+        "pt": "[Orzo]\nObrigado! ^0000CD30 Deletérios e 30 Exterminadores^000000 devem dá pro gasto.",
+        "es": "[Orzo]\n¡Gracias! Me gustaría que capturaras a ^0000CD30 Deleter de tierra y 30 Deleter del cielo^000000."
+    },
+    "+kSEAw": {
+        "en": "[Orzo]\nHaha ... okay. Please come back again.\nFor now ... can you tell me about interesting monsters you've faced if you have time? I want to tell my brother all about it.",
+        "pt": "[Orzo]\nHaha... tranquilo.\nSe quiser voltar e contar suas aventuras, meu irmão adora ouvir histórias.",
+        "es": "[Orzo]\nJa, ja…Está bien. Regresa cuando quieras.\nDe momento… si tienes tiempo, ¿podrías contarme sobre los monstruos interesantes a los que te enfrentaste? Quiero contarle todo a mi hermano."
+    },
+    "+0SEAw": {
+        "en": "[Orzo]\nI'd like you to capture ^0000CD30 each of Earth Deleters and Sky Deleters^000000. Good luck.\nIt's surprising how such cute-looking monsters can be so aggressive.",
+        "pt": "[Orzo]\n^0000CD30 Deletérios e 30 Exterminadores^000000, por favor. Eu lhe peço.\nIncrível como um monstro tão fofinho é tão violento.",
+        "es": "[Orzo]\nMe gustaría que capturaras a ^0000CD30 Deleter de tierra y 30 Deleter del cielo^000000. Buena suerte.\nEs sorprendente que unos monstruos tan adorables puedan ser tan agresivos."
+    },
+    "/ESEAw": {
+        "en": "[Orzo]\nAh, you're back. Thank you so much.\nI will put them to good use!",
+        "pt": "[Orzo]\nAh, você conseguiu. Obrigado.\nVamos exbí-los no Museu!",
+        "es": "[Orzo]\nAh, volviste. Muchas gracias.\n¡Les daré un buen uso!"
+    },
+    "/USEAw": {
+        "en": "[Orzo]\nAdventurer, I'd like to ask you to capture ^0000CD30 each of Earth Deleters and Sky Deleters^000000 again.\nWe'll need them for Schwetzervil Academy's research. And ... Uh, umm ...",
+        "pt": "[Orzo]\nViajante, mais um pedido para pegar ^0000CD30 Deletérios e 30 Exterminadores^000000 por favor.\nA Universidade e o Museu precisam de você...",
+        "es": "[Orzo]\nTrotamundos, ¿podrías capturar a ^0000CD30 Deleter de tierra y 30 Deleter del cielo^000000 de nuevo?\nLos necesitamos para la investigación de la AcademiaSchweicherbil. Y… Eh, mmm…"
+    },
+    "/kSEAw": {
+        "en": "[Orzo]\nActually ... a few of the Deleters you captured for us escaped.\nI don't know what to say ... you worked hard for this.",
+        "pt": "[Orzo]\nNa verdade... alguns dragões que você capturou fugiram.\nEles simplesmente fugiram.",
+        "es": "[Orzo]\nEn realidad… algunos de los Deleter que capturaste antes escaparon.\nNo sé qué decir… Te esforzaste mucho."
+    },
+    "/0SEAw": {
+        "en": "[Orzo]\nBecause I'm still new to it ... I left my older brother in charge of it, but they took that chance to escape.\nI should've stayed there ... I'm sorry for what happened. Can I ask you for the same favor again?",
+        "pt": "[Orzo]\nEu estava vigiando eles, mas me distraí com uma lata de sardinhas.\nFoi vacilo meu... Agora preciso da sua ajuda de novo... Pode fazer esse favor?",
+        "es": "[Orzo]\nAún soy nuevo en esto… Dejé a mi hermano mayor a cargo, pero aprovecharon la oportunidad para escapar.\nDebería haberme quedado… Siento lo que pasó. ¿Puedo volver a pedirte el mismo favor?"
+    },
+    "AEWEAw": {
+        "en": "[Orzo]\nI have nothing to say ... It's ^0000CD30 each of Earth Deleters and Sky Deleters^000000.\nAh ... this is too embarrassing. Thank you ...",
+        "pt": "[Orzo]\nCapture ^0000CD30 Deletérios e 30 Exterminadores^000000, por favor.\nAh... que vergonha. Obrigado...",
+        "es": "[Orzo]\nNo sé qué decir… Son ^0000CD30 Deleter de tierra y 30 Deleter del cielo^000000.\nAh… esto es demasiado vergonzoso. Gracias…"
+    },
+    "AUWEAw": {
+        "en": "[Orzo]\nYes, it's my fault ... I can't make someone else clean up my mess. I'll manage to get through this ...",
+        "pt": "[Orzo]\nSim, a culpa foi minha...",
+        "es": "[Orzo]\nSí, es culpa mía… No puedo hacer que alguien más resuelva mis problemas. Me las arreglaré para superar esto…"
+    },
+    "AkWEAw": {
+        "en": "[Orzo]\nI don't want my little brother to ever see this ...",
+        "pt": "[Orzo]\nNão conte para o meu irmão...",
+        "es": "[Orzo]\nNo quiero que mi hermano pequeño vea esto…"
+    },
+    "A0WEAw": {
+        "en": "[Orzo]\nThanks for taking the quest again, Adventurer.\nI swear! I'll keep an eye on the Deleters 24/7 this time!",
+        "pt": "[Orzo]\nObrigado, Viajante.\nEsses dragões cospem fogo!",
+        "es": "[Orzo]\nGracias por aceptar la misión de nuevo, trotamundos.\n¡Lo juro! ¡Esta vez, vigilaré a los Deleter las 24horas del día!"
+    },
+    "BEWEAw": {
+        "en": "[Orzo]\nMy family is on the line here ... can you help me?",
+        "pt": "[Orzo]\nFaria esse favor em nome da ciência?",
+        "es": "[Orzo]\nMi familia está en juego… ¿Puedes ayudarme?"
+    },
+    "BUWEAw": {
+        "en": "I'm sorry.",
+        "pt": "Complicado.",
+        "es": "Lo siento."
+    },
+    "BkWEAw": {
+        "en": "[Orzo]\nThank you, Adventurer! Thank you!\nWe'll do the refining, so you can just bring ^0000CD10 Lava^000000 straight here.",
+        "pt": "[Orzo]\nObrigado, Viajante! 10 devem dá pro gasto!\nEntão, ^0000CDtraga 10 Pedras Pomes^000000 em nome da ciência.",
+        "es": "[Orzo]\n¡Gracias, trotamundos! ¡Gracias!\nNosotros la refinaremos, así que trae ^0000CD10 unidades de Lava^000000 directamente aquí."
+    },
+    "B0WEAw": {
+        "en": "[Orzo]\nHaha ... okay. Please come back again.\nFor now ... can you tell me about your adventures if you have time? I want to tell my brother all about it.",
+        "pt": "[Orzo]\nHaha... tranquilo.\nSe quiser voltar e contar suas aventuras, meu irmão adora ouvir histórias.",
+        "es": "[Orzo]\nJa, ja…Está bien. Regresa cuando quieras.\nDe momento… si tienes tiempo, ¿podrías contarme sobre tus aventuras? Quiero contarle todo a mi hermano."
+    },
+    "CEWEAw": {
+        "en": "[Orzo]\nI'd like you to capture ^0000CD10 Lavas^000000.\nWe'll do the refining, so you can just bring the Lava straight here.",
+        "pt": "[Orzo]\n^0000CDTraga 10 Pedras Pomes^000000, por favor.\nElas são muito necessárias para nós.",
+        "es": "[Orzo]\nMe gustaría que recolectaras ^0000CD10 unidades de Lava^000000.\nNosotros la refinaremos, así que trae la Lava directamente aquí."
+    },
+    "CUWEAw": {
+        "en": "[Orzo]\nYou're back! Must've been hard on you to carry all this. Thank you.\nNow we'll take them to the refinery and sell them for money or use them for research.",
+        "pt": "[Orzo]\nVocê trouxe tudo! Obrigado.\nAgora nós vamos vender para conseguir mais dinheiro para nossa pesquisa.",
+        "es": "[Orzo]\n¡Volviste! Debe haber sido difícil cargar con todo esto. Gracias.\nAhora, la llevaremos a la refinería y la venderemos o la usaremos para la investigación."
+    },
+    "CkWEAw": {
+        "en": "[Orzo]\nWe got some breathing space, thanks to you. Thank you!",
+        "pt": "[Orzo]\nGraças à você, o orçamento deste mês deve ser bastante generoso. Obrigado!",
+        "es": "[Orzo]\nGracias a ti, tenemos un respiro. ¡Gracias!"
+    },
+    "C0WEAw": {
+        "en": "[Orzo]\n...",
+        "pt": "[Orzo]\n......",
+        "es": "[Orzo]\n…"
+    },
+    "DEWEAw": {
+        "en": "[Orzo]\nUh, I-I spaced out a little there. I'm sorry.\nActually ... i think there are some discrepancies between what was in our records, and what we have now ...",
+        "pt": "[Orzo]\nOh, desculpe, eu me distraí.\nEu preciso... manter o foco e me concentrar nas tarefas...",
+        "es": "[Orzo]\nEh, m-me distraje por un segundo. Lo siento.\nEn realidad… creo que hay algunas discrepancias entre lo que había en nuestros registros y lo que tenemos ahora…"
+    },
+    "DUWEAw": {
+        "en": "[Orzo]\nI'll look further into it ... Are you here for a quest today?\nYou have to bring ^0000CD10 Lavas^000000.",
+        "pt": "[Orzo]\nDeixa eu conferir aqui... Ah, quer fazer essa tarefa pra mim?\n^0000CDTraga 10 Pedras Pomes^000000, por favor.",
+        "es": "[Orzo]\nLo investigaré más a fondo… ¿Viniste a buscar una misión?\nTienes que traer ^0000CD10 unidades de Lava^000000."
+    },
+    "DkWEAw": {
+        "en": "I'll do it.",
+        "pt": "Eu farei isso.",
+        "es": "Lo haré."
+    },
+    "D0WEAw": {
+        "en": "Not today.",
+        "pt": "Hoje não.",
+        "es": "Hoy no."
+    },
+    "EEWEAw": {
+        "en": "[Orzo]\nThank you. It's ^0000CD10 Lavas^000000.\nI'll wait for you here!",
+        "pt": "[Orzo]\nObrigado. ^0000CDTraga 10 Pedras Pomes^000000, por favor.\nVou ficar aqui aguardando!",
+        "es": "[Orzo]\nGracias. Son ^0000CD10 unidades de Lava^000000.\n¡Te esperaré aquí!"
+    },
+    "EUWEAw": {
+        "en": "[Orzo]\nOh, okay ... I'm fine. I can last this month thanks to your help last time.\nPlease come back again when you're free.",
+        "pt": "[Orzo]\nAh, tudo bem... outros aventureiros estão coletando para gente.\nE eles vão ser recompensados por isso.",
+        "es": "[Orzo]\nAh, bueno… Estoy bien. Puedo sobrevivir este mes gracias a tu ayuda de la última vez.\nPor favor, regresa cuando tengas tiempo."
+    },
+    "EkWEAw": {
+        "en": "[Orzo]\nThank you. One, two ... The numbers are right.\nI can't enter the refinery, but my little brother will be surprised to see one ...\nI hope one day, if I keep studying, I can get into the Academy.",
+        "pt": "[Orzo]\nObrigado. Um, dois, três... estão todas aí.\nVocê está fazendo um grande favor para a ciência...\nEu queria que meu irmão mais novo estivesse aqui para ver o resultado.",
+        "es": "[Orzo]\nGracias. Uno, dos… Los números cierran.\nNo puedo entrar en la refinería, pero mi hermano pequeño se sorprenderá al ver una…\nEspero poder entrar en la Academia algún día si sigo estudiando."
+    },
+    "E0WEAw": {
+        "en": "[Orzo]\nHow does it feel to go on an adventure?\nI want to do the same one day. If our family was rich enough ... I could've been just like you.",
+        "pt": "[Orzo]\nComo é ser um viajante?\nGostaria de experimentar um dia. Se eu não tivesse que enviar dinheiro para minha família... eu também me aventuraria.",
+        "es": "[Orzo]\n¿Qué se siente al lanzarse a la aventura?\nQuiero hacer lo mismo algún día. Si nuestra familia hubiese tenido el dinero suficiente… podría haber sido como tú."
+    },
+    "FEWEAw": {
+        "en": "[Orzo]\nE-Excuse my muttering. You must have your own problems to deal with.\nIt was selfish for me to say such things.",
+        "pt": "[Orzo]\nCom certeza vocês tem suas dificuldades.\nAcho que eu não daria conta.",
+        "es": "[Orzo]\nD-disculpa que te cuente esto. Debes tener tus propios problemas.\nFue egoísta por mi parte decir esas cosas."
+    },
+    "FUWEAw": {
+        "en": "[Kurda]\nWhat's with that load?\nCan't ask someone like you for help.",
+        "pt": "[Kaio]\nPresta atenção.\nVocê está carregando itens demais.",
+        "es": "[Kurda]\n¿Qué pasa con esa carga?\nNo puedo pedirle ayuda a alguien como tú."
+    },
+    "FkWEAw": {
+        "en": "[Kurda]\nGo clear some space in your bag and come back.",
+        "pt": "[Kaio]\nVolte depois de esvaziar seu inventário.",
+        "es": "[Kurda]\nRegresa luego de liberar algo de espacio en tu bolso."
+    },
+    "F0WEAw": {
+        "en": "[Kurda]\nYou from Eden Group? Got nothin' to do with ya if you ain't.",
+        "pt": "[Kaio]\nCadê o seu Emblema do Grupo do Éden? Ah, você não tem registro lá.",
+        "es": "[Kurda]\n¿Eres del Grupo de Edén? Si no lo eres, no tengo nada que hablar contigo."
+    },
+    "GEWEAw": {
+        "en": "[Kurda]\n... You ain't all that ... why are you even here? Your loss if ya get hurt.",
+        "pt": "[Kaio]\n...Você é uma criança ainda... nem deveria estar aqui, vai acabar fazendo um dodoizinho.",
+        "es": "[Kurda]\n… No lo eres… ¿por qué estás aquí? Si te haces daño, es tu problema."
+    },
+    "GUWEAw": {
+        "en": "[Kurda]\nLooks like ya already got a quest from Eden Group. Ya gotta return to Eden Group after your first quest.\nYou can come to me after.",
+        "pt": "[Kaio]\nVocê aceitou a missão lá no Grupo do Éden.\nVolte amanhã para repetir a mesma solicitação comigo.",
+        "es": "[Kurda]\nParece que ya tienes una misión del Grupo de Edén. Tienes que volver al Grupo de Edén tras tu primera misión.\nPuedes venir a verme después."
+    },
+    "GkWEAw": {
+        "en": "[Kurda]\nAren't ya done with today's Eden Group quest? Ready for more already?\nMust be quite some fighter ... but just come back tomorrow.",
+        "pt": "[Kaio]\nVeio descansar num lugar como esse?\nEu também descansaria um dia depois de completar a missão.",
+        "es": "[Kurda]\n¿No terminaste la misión de hoy del Grupo de Edén? ¿Ya quieres otra aventura?\nLuchar se te debe dar bien… pero vuelve mañana."
+    },
+    "G0WEAw": {
+        "en": "[Kurda]\nOh, you look like an Adventurer. Got any skills?\nInterested in taking a quest from the Monster Museum in Juno?",
+        "pt": "[Kaio]\nHã?\nVocê quer uma missão?",
+        "es": "[Kurda]\nAh, pareces ser trotamundos. ¿Tienes alguna habilidad?\n¿Te interesa hacer una misión en el Museo de los Monstruos de Juno?"
+    },
+    "HEWEAw": {
+        "en": "Sure.",
+        "pt": "Claro.",
+        "es": "Claro."
+    },
+    "HUWEAw": {
+        "en": "[Kurda]\nOh, good. Good. Then pick the one ya like.\nYa sure of yourself, right?",
+        "pt": "[Kaio]\nAh, ótimo.\nE qual seria?",
+        "es": "[Kurda]\nAh, bien. Bueno. Entonces, elige la que más te guste.\nConfías en tu juicio, ¿verdad?"
+    },
+    "HkWEAw": {
+        "en": "Not interested.",
+        "pt": "Não tenho interesse",
+        "es": "No me interesa."
+    },
+    "H0WEAw": {
+        "en": "[Kurda]\nGo get ^0000CD30 Nightmare Terrors^000000.",
+        "pt": "[Kaio]\n^0000CD30 Pesadelos Sombrios^000000 serão necessários para exibição no Museu.",
+        "es": "[Kurda]\nVe a capturar a ^0000CD30 Terrores nocturnos^000000."
+    },
+    "IEWEAw": {
+        "en": "[Kurda]\nYou can return the quest either to me or the little cat over there at the museum in Juno ...\nToo lazy to go that far? Then just come to me.",
+        "pt": "[Kaio]\nVocê pode reportar a missão para mim ou lá no Museu...\nJuno é mais longe, né? Melhor reportar para mim.",
+        "es": "[Kurda]\nPuedes verme a mí o al gatito del museo de Juno para terminar la misión…\n¿Te da pereza ir tan lejos? Entonces, ven a verme a mí."
+    },
+    "IUWEAw": {
+        "en": "[Kurda]\nGo kill ^0000CD30 each of Earth Deleters and Sky Deleters^000000.",
+        "pt": "[Kaio]\n^0000CD30 Deletérios e 30 Exterminadores^000000 serão necessários para exibição no Museu.",
+        "es": "[Kurda]\nVe a matar a ^0000CD30 Deleter de tierra y 30 Deleter del cielo^000000."
+    },
+    "IkWEAw": {
+        "en": "[Kurda]\nGo get ^0000CD10 Lavas^000000.",
+        "pt": "[Kaio]\n^0000CDTraga 10 Pedras Pomes^000000 para a renda do Museu.",
+        "es": "[Kurda]\nVe a recolectar ^0000CD10 unidades de Lava^000000."
+    },
+    "I0WEAw": {
+        "en": "[Kurda]\nIt's fine if ya don't want to ...",
+        "pt": "[Kaio]\nBem, se você não quer...",
+        "es": "[Kurda]\nEstá bien si no quieres…"
+    },
+    "JEWEAw": {
+        "en": "[Kurda]\nYou don't wanna, just go back to your own business.",
+        "pt": "[Kaio]\nBem, se você não quer...",
+        "es": "[Kurda]\nSi no quieres, vuelve a tus asuntos."
+    },
+    "JUWEAw": {
+        "en": "[Kurda]\nYou again? How's the job?\nWell, what are ya after this time?",
+        "pt": "[Kaio]\nVocê de novo?\nQual vai ser a de hoje?",
+        "es": "[Kurda]\n¿Tú otra vez? ¿Qué tal el trabajo?\nBueno, ¿qué buscas esta vez?"
+    },
+    "JkWEAw": {
+        "en": "[Kurda]\nYa want to go kill ^0000CD30 Nightmare Terrors^000000?",
+        "pt": "[Kaio]\n^0000CD30 Pesadelos Sombrios^000000 serão necessários para exibição no Museu.",
+        "es": "[Kurda]\n¿Quieres ir a matar a ^0000CD30 Terrores nocturnos^000000?"
+    },
+    "J0WEAw": {
+        "en": "[Kurda]\nGo get 'em then. It's ^0000CD30 Nightmare Terrors^000000.\nWhat for? That's up to the museum. Aren't you the curious one?",
+        "pt": "[Kaio]\nVá em frente e capture ^0000CD30 Pesadelos Sombrios^000000.\nVamos exibí-los no Museu de Monstros em Juno.",
+        "es": "[Kurda]\nEntonces, ve por ellos. Son ^0000CD30 Terrores nocturnos^000000.\n¿Para qué? Eso depende del museo. ¡Cuánta curiosidad!"
+    },
+    "KEWEAw": {
+        "en": "[Kurda]\nIt's ^0000CD30 Nightmare Terrors.^000000 Be quick.",
+        "pt": "[Kaio]\n^0000CD30 Pesadelos Sombrios^000000 para capturar. Ainda falta muito.",
+        "es": "[Kurda]\nSon ^0000CD30 Terrores nocturnos.^000000 Date prisa."
+    },
+    "KUWEAw": {
+        "en": "[Kurda]\nGood job. Now, off you go.",
+        "pt": "[Kaio]\nBom trabalho.",
+        "es": "[Kurda]\nBien hecho. Ahora, ve."
+    },
+    "KkWEAw": {
+        "en": "[Kurda]\nDon't worry about me.",
+        "pt": "[Kaio]\nAqui está sua recompensa.",
+        "es": "[Kurda]\nNo te preocupes por mí."
+    },
+    "K0WEAw": {
+        "en": "[Kurda]\nDone with today's quest? Ready for more already?\nMust be quite some fighter ... but just come back tomorrow.",
+        "pt": "[Kaio]\nVocê já quer fazer a missão novamente?\nVá dormir, jovem... eu hein.",
+        "es": "[Kurda]\n¿Terminaste la misión de hoy? ¿Ya quieres otra aventura?\nLuchar se te debe dar bien… pero vuelve mañana."
+    },
+    "LEWEAw": {
+        "en": "[Kurda]\nGoing out again today? It's ^6B8E23 Nightmare Terrors.^000000\nWanna do it?",
+        "pt": "[Kaio]\nHoje você vai capturar para nós? ^6B8E2330 Pesadelos Sombrios^000000.\nAceita?",
+        "es": "[Kurda]\n¿Vas a volver a salir hoy? Son ^6B8E2330 Terrores nocturnos^000000.\n¿Quieres hacerlo?"
+    },
+    "LUWEAw": {
+        "en": "[Kurda]\nGo get 'em then. It's ^0000CD30 Nightmare Terrors^000000.\nWhy ya always so curious? They'll use 'em somehow.",
+        "pt": "[Kaio]\nVá em frente e capture ^0000CD30 Pesadelos Sombrios^000000.\nVamos exibí-los no Museu de Monstros em Juno.",
+        "es": "[Kurda]\nEntonces, ve por ellos. Son ^0000CD30 Terrores nocturnos^000000.\n¿Por qué siempre tienes tanta curiosidad? Los usarán de alguna manera."
+    },
+    "LkWEAw": {
+        "en": "[Kurda]\nHuh, what was that?\nIf I keep on repeating what I said, screenshot this text and make a bug report.",
+        "pt": "[Kaio]\nO que rolou?\nSe essa mensagem se repetir, envie um ticket para a central de suporte.",
+        "es": "[Kurda]\n¿Eh? ¿Qué fue eso?\nSi sigo repitiendo lo que dije, haz una captura de pantalla de este texto y envía un informe de error."
+    },
+    "L0WEAw": {
+        "en": "[Kurda]\nIt's ^0000CD30 each of Earth Deleters and Sky Deleters^000000. You going?",
+        "pt": "[Kaio]\n^0000CD30 Deletérios e 30 Exterminadores^000000 para o Museu, ok?",
+        "es": "[Kurda]\nSon ^0000CD30Deleter de tierra y 30Deleter del cielo^000000. ¿Te vas?"
+    },
+    "MEWEAw": {
+        "en": "[Kurda]\nGo get 'em then. It's ^0000CD30 each of Earth Deleters and Sky Deleters^000000.\nWhat for? It's confidential. Aren't you the curious one?",
+        "pt": "[Kaio]\nVá em frente e capture ^0000CD30 Deletérios e 30 Exterminadores^000000.\nVamos exibí-los no Museu de Monstros em Juno.",
+        "es": "[Kurda]\nEntonces, ve por ellos. Son ^0000CD30 Deleter de tierra y 30 Deleter del cielo^000000.\n¿Para qué? Es confidencial. ¡Cuánta curiosidad!"
+    },
+    "MUWEAw": {
+        "en": "[Kurda]\nIt's ^0000CD30 each of Earth Deleters and Sky Deleters^000000. Be quick.",
+        "pt": "[Kaio]\n^0000CD30 Deletérios e 30 Exterminadores^000000 para capturar. Ainda falta muito.",
+        "es": "[Kurda]\nSon ^0000CD30 Deleter de tierra y 30 Deleter del cielo^000000. Date prisa."
+    },
+    "MkWEAw": {
+        "en": "[Kurda]\nGoing out again today? It's ^0000CD30 each of Earth Deleters and Sky Deleters^000000.\nWanna do it?",
+        "pt": "[Kaio]\nHoje você vai capturar para nós? ^0000CD30 Deletérios e 30 Exterminadores^000000.\nAceita?",
+        "es": "[Kurda]\n¿Vas a volver a salir hoy? Son ^0000CD30 Deleter de tierra y 30 Deleter del cielo^000000.\n¿Quieres hacerlo?"
+    },
+    "M0WEAw": {
+        "en": "[Kurda]\nGo get 'em then. It's ^0000CD30 each of Earth Deleters and Sky Deleters^000000.\nWhy ya always so curious? They'll use 'em somehow.",
+        "pt": "[Kaio]\nVá em frente e capture ^0000CD30 Deletérios e 30 Exterminadores^000000.\nVamos exibí-los no Museu de Monstros em Juno.",
+        "es": "[Kurda]\nEntonces, ve por ellos. Son ^0000CD30 Deleter de tierra y 30 Deleter del cielo^000000.\n¿Por qué siempre tienes tanta curiosidad? Los usarán de alguna manera."
+    },
+    "NEWEAw": {
+        "en": "[Kurda]\nYa want to go get ^0000CD10 Lavas^000000?",
+        "pt": "[Kaio]\n^0000CDTraga 10 Pedras Pomes^000000, por favor?",
+        "es": "[Kurda]\n¿Quieres ir a recolectar ^0000CD10 unidades de Lava^000000?"
+    },
+    "NUWEAw": {
+        "en": "[Kurda]\nGo get 'em then. It's ^0000CD10 Lavas^000000.\nWhat for? It's confidential. Aren't you the curious one?",
+        "pt": "[Kaio]\nVá em frente e ^0000CDtraga 10 Pedras Pomes^000000.\nServirão como renda para o Museu de Monstros.",
+        "es": "[Kurda]\nEntonces, ve por ellos. Son ^0000CD10 unidades de Lava^000000.\n¿Para qué? Es confidencial. ¡Cuánta curiosidad!"
+    },
+    "NkWEAw": {
+        "en": "[Kurda]\nIt's ^0000CD10 Lavas^000000. Be quick.",
+        "pt": "[Kaio]\n^0000CDTraga 10 Pedras Pomes^000000. Ainda falta muito.",
+        "es": "[Kurda]\nSon ^0000CD10 unidades de Lava^000000. Date prisa."
+    },
+    "N0WEAw": {
+        "en": "[Kurda]\nGoing out again today? It's ^0000CD10 Lavas^000000.\nAre you going?",
+        "pt": "[Kaio]\nHoje você vai trabalhar para nós? ^0000CDTraga 10 Pedras Pomes^000000.\nAceita?",
+        "es": "[Kurda]\n¿Vas a volver a salir hoy? Son ^0000CD10 unidades de Lava^000000.\n¿Irás?"
+    },
+    "OEWEAw": {
+        "en": "[Kurda]\nGo get 'em then. It's ^0000CD10 Lavas^000000.\nWhy ya always so curious? They'll use 'em somehow.",
+        "pt": "[Kaio]\nVá em frente e ^0000CDtraga 10 Pedras Pomes^000000.\nVamos exibí-los no Museu de Monstros em Juno.",
+        "es": "[Kurda]\nEntonces, ve por ellos. Son ^0000CD10 unidades de Lava^000000.\n¿Por qué siempre tienes tanta curiosidad? Los usarán de alguna manera."
+    },
+    "OUWEAw": {
+        "en": "[Kurda]\nHeh ...",
+        "pt": "[Kaio]\nHeh...",
+        "es": "[Kurda]\nJe…"
+    }
+}

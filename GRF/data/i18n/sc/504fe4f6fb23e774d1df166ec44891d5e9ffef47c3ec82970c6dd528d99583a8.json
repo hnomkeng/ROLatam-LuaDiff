@@ -1,0 +1,752 @@
+{
+    "QFyZCw": {
+        "en": "Orchestra switch",
+        "unknown_6": "Orchestra swich",
+        "pt": "Orchestra switch",
+        "es": "Interruptor de orquesta"
+    },
+    "QVyZCw": {
+        "en": "global var reset",
+        "unknown_6": "global var reset",
+        "pt": "global var reset",
+        "es": "global var reset"
+    },
+    "QlyZCw": {
+        "en": "global var setting",
+        "unknown_6": "global var setting",
+        "pt": "global var setting",
+        "es": "global var setting"
+    },
+    "Q1yZCw": {
+        "en": "treasure_Box5",
+        "unknown_6": "treasure_Box5",
+        "pt": "treasure_Box5",
+        "es": "treasure_Box5"
+    },
+    "RFyZCw": {
+        "en": "{}box reset",
+        "unknown_6": "{}box reset",
+        "pt": "{}box reset",
+        "es": "{}box reset"
+    },
+    "RVyZCw": {
+        "en": "{}box setting",
+        "unknown_6": "{}box setting",
+        "pt": "{}box setting",
+        "es": "{}box setting"
+    },
+    "RlyZCw": {
+        "en": "Please enter a number between 0 and 20",
+        "unknown_6": "Please enter a number between 0 and 20",
+        "pt": "Please enter a number between 0 and 20",
+        "es": "Please enter a number between 0 and 20"
+    },
+    "R1yZCw": {
+        "en": "{}box click",
+        "unknown_6": "{}box click",
+        "pt": "{}box click",
+        "es": "{}box click"
+    },
+    "SFyZCw": {
+        "en": "Orchestra Treasure Box",
+        "unknown_6": "Orchestra Treasure Box",
+        "pt": "Tesouro da Orquestra",
+        "es": "Caja del Tesoro de la Orquesta"
+    },
+    "SVyZCw": {
+        "en": "- You cannot proceed because you have too many items. -",
+        "unknown_6": "- ไอเท็มที่ครอบครองอยู่ตอนนี้มีมากเกินไปจึงไม่สามารถดำเนินการได้ -",
+        "pt": "- Você não pode prosseguir porque possui muitos itens. -",
+        "es": "- No puedes continuar porque tienes demasiados elementos. -"
+    },
+    "SlyZCw": {
+        "en": "Open the box",
+        "unknown_6": "เปิดกล่องสมบัติ",
+        "pt": "Abrir a caixa",
+        "es": "Abre la caja"
+    },
+    "S1yZCw": {
+        "en": "Leave it alone",
+        "unknown_6": "ปล่อยทิ้งไว้",
+        "pt": "Ir embora",
+        "es": "Déjalo en paz"
+    },
+    "TFyZCw": {
+        "en": "- This is a treasure chest that has been used more than 5 times. Please try again in a few minutes -",
+        "unknown_6": "- นี่คือหีบสมบัติที่มีการใช้งานมากกว่า 20 ครั้งโปรดลองอีกครั้งในไม่กี่นาที. -",
+        "pt": "- Este baú de tesouro foi usado mais de 5 vezes. Por favor, tente novamente em alguns minutos -",
+        "es": "- Este es un cofre del tesoro que ha sido usado más de 5 veces. Inténtalo de nuevo en unos minutos."
+    },
+    "TVyZCw": {
+        "en": "Orchestra Doorman",
+        "unknown_6": "Orchestra Doorman",
+        "pt": "Porteiro da Orquestra",
+        "es": "Portero de la Orquesta"
+    },
+    "TlyZCw": {
+        "en": "[Orchestra Doorman]\nHello.\n^0100FFHave you seen or are planning to see [RAGNAROK THE ORCHESTRA CONCERT]^000000?",
+        "unknown_6": "[Orchestra Doorman]\nสวัสดีนักผจญภัยทั้งหลาย!  \nท่านรับชม ^0100FF[RAGNAROK THE ORCHESTRA CONCERT]^000000 มาแล้วงั้นเหรอ?",
+        "pt": "[Porteiro da Orquestra]\nOlá.\n^0100FFVocê já assistiu ou está planejando ver [RAGNAROK THE ORCHESTRA CONCERT]^000000?",
+        "es": "[Portero de orquesta]\nHola.\n^0100FF¿Has visto o tienes previsto ver [CONCIERTO DE LA ORQUESTA DE RAGNAROK]^000000?"
+    },
+    "T1yZCw": {
+        "en": "[Orchestra Doorman]\nWe have prepared a great performance and special event only for those who attended ^0100FF[RAGNAROK THE ORCHESTRA CONCERT]^000000.",
+        "unknown_6": "[Orchestra Doorman]\nทางเราได้เตรียมการแสดงและกิจกรรมสุดพิเศษให้กับผู้เข้าร่วมชมการแสดง ^0100FF[RAGNAROK THE ORCHESTRA CONCERT]^000000 เอาไว้ด้วยนะ",
+        "pt": "[Porteiro da Orquestra]\nPreparamos uma ótima apresentação e um evento especial apenas para quem compareceu ao ^0100FF[RAGNAROK THE ORCHESTRA CONCERT]^000000.",
+        "es": "[Portero de orquesta]\nHemos preparado una gran actuación y un evento especial solo para aquellos que asistieron al ^0100FF[CONCIERTO DE LA ORQUESTA DE RAGNAROK]^000000."
+    },
+    "UFyZCw": {
+        "en": "[Orchestra Doorman]\nPlease bring <ITEM>[The Orchestra Concert Ticket]<INFO>1001727</INFO></ITEM> in time for the performance and we will help you enter the special concert hall.",
+        "unknown_6": "[Orchestra Doorman]\nง่าย ๆ ก็คือ หากท่านนำ <ITEM>[The Orchestra Concert Ticket]<INFO>1001727</INFO></ITEM> มาในช่วงเวลาการแสดง ข้าจะช่วยพาไปยังสถานที่จัดแสดงนะ",
+        "pt": "[Porteiro da Orquestra]\nPor favor, traga o <ITEM>[Ingresso da Orquestra]<INFO>1001727</INFO></ITEM> a tempo para a apresentação e nós te ajudaremos a entrar na sala especial.",
+        "es": "[Portero de orquesta]\nTraiga <ITEM>[Boleto para el concierto de la orquesta]<INFO>1001727</INFO></ITEM> a tiempo para la presentación y lo ayudaremos a ingresar a la sala de conciertos especial."
+    },
+    "UVyZCw": {
+        "en": "[Orchestra Doorman]\nUnfortunately, this is not show time.\nIf you come when there is a performance, we will help you enter.",
+        "unknown_6": "[Orchestra Doorman]\nน่าเสียดายที่ตอนนี้ไม่ใช่ช่วงเวลาการแสดงน่ะสิ  \nหากมาในช่วงเวลาการแสดง ข้าจะช่วยพาไปยังสถานที่จัดแสดงนะ",
+        "pt": "[Porteiro da Orquestra]\nInfelizmente, não é hora do show.\nSe você vier a hora da apresentação, nós te ajudaremos a entrar.",
+        "es": "[Portero de orquesta]\nDesafortunadamente, este no es el momento del espectáculo.\nSi vienes cuando hay una actuación, te ayudaremos a entrar."
+    },
+    "UlyZCw": {
+        "en": "^0100FF< Orchestra Performance Schedule >^000000\n^FF0000First performance: 10:00~11:00^000000\n^FF0000Second performance: 13:00~14:00^000000\n^FF0000Third performance: 16:00~17:00^000000\n^FF0000Fourth performance: 19:00~20:00^000000\n^FF0000Fifth performance: 22:00~23:00^000000",
+        "unknown_6": "^0100FF<<กำหนดการงาน Orchestra>>^000000  \n^FF0000รอบแรก : 10.00~11.00^000000  \n^FF0000รอบที่สอง : 13.00~14.00^000000  \n^FF0000รอบที่สาม : 16.00~17.00^000000  \n^FF0000รอบที่สี่ : 19.00~20.00^000000  \n^FF0000รอบที่ห้า : 22.00~23.00^000000",
+        "pt": "^0100FF< Programação de apresentações da Orquestra >^000000\n^FF0000Primeira apresentação: 10:00~11:00^000000\n^FF0000Segunda apresentação: 13:00~14:00^000000\n^FF0000Terceira apresentação: 16:00~17:00^000000\n^FF0000Quarta apresentação: 19:00~20:00^000000\n^FF0000Quinta apresentação: 22:00~23:00^000000",
+        "es": "^0100FF< Programa de actuaciones de la orquesta >^000000\n^FF0000Primera actuación: 10:00~11:00^000000\n^FF0000Segunda actuación: 13:00~14:00^000000\n^FF0000Tercera actuación: 16:00~17:00^000000\n^FF0000Cuarta actuación: 19:00~20:00^000000\n^FF0000Quinta actuación: 22:00~23:00^000000"
+    },
+    "U1yZCw": {
+        "en": "Admission to the performance",
+        "unknown_6": "เข้าชมการแสดง",
+        "pt": "Entrar na sala especial",
+        "es": "Entrada a la actuación."
+    },
+    "VFyZCw": {
+        "en": "Check show times",
+        "unknown_6": "ตรวจสอบเวลาการแสดง",
+        "pt": "Ver horários de apresentação",
+        "es": "Consultar horarios de espectáculos"
+    },
+    "VVyZCw": {
+        "en": "Participation Rewards",
+        "unknown_6": "รับรางวัลเข้าร่วม",
+        "pt": "Recompensas de participação",
+        "es": "Recompensas por participación"
+    },
+    "VlyZCw": {
+        "en": "quit",
+        "unknown_6": "ยกเลิก",
+        "pt": "Sair",
+        "es": "abandonar"
+    },
+    "V1yZCw": {
+        "en": "[Orchestra Doorman]\nYou have an admission ticket.\nThen we will help you enter.",
+        "unknown_6": "[Orchestra Doorman]\nมีตั๋วเข้าชมการแสดงอยู่นี่นา  \nงั้นจะพาไปยังสถานที่จัดแสดงนะ",
+        "pt": "[Porteiro da Orquestra]\nVocê tem um ingresso.\nEntão nós ajudaremos você a entrar.",
+        "es": "[Portero de orquesta]\nTienes un boleto de admisión.\nEntonces te ayudaremos a entrar."
+    },
+    "WFyZCw": {
+        "en": "[Orchestra Doorman]\nOh, you don't have <ITEM>[The Orchestra Concert Ticket]<INFO>1001727</INFO></ITEM>!\nPlease bring <ITEM>[The Orchestra Concert Ticket]<INFO>1001727</INFO></ITEM> and we will help you enter.",
+        "unknown_6": "[Orchestra Doorman]\nเอ๋ ไม่มีตั๋วเข้าชมการแสดง <ITEM>[The Orchestra Concert Ticket]<INFO>1001727</INFO></ITEM> นี่นา!  \nหากนำ <ITEM>[The Orchestra Concert Ticket]<INFO>1001727</INFO></ITEM> มาในช่วงเวลาการแสดง ข้าจะช่วยพาไปยังสถานที่จัดแสดงนะ",
+        "pt": "[Porteiro da Orquestra]\nAh, você não tem o <ITEM>[Ingresso da Orquestra]<INFO>1001727</INFO></ITEM>!\nPor favor, traga o <ITEM>[Ingresso da Orquestra]<INFO>1001727</INFO></ITEM> e nós te ajudaremos a entrar.",
+        "es": "[Portero de orquesta]\n¡Oh, no tienes <ITEM>[Boleto para el concierto de la orquesta]<INFO>1001727</INFO></ITEM>!\nPor favor trae <ITEM>[Boleto para el concierto de la orquesta]<INFO>1001727</INFO></ITEM> y te ayudaremos a ingresar."
+    },
+    "WVyZCw": {
+        "en": "[Orchestra Doorman]\nAre you curious about the admission time?\nWe will inform you of the orchestra entrance time.",
+        "unknown_6": "[Orchestra Doorman]\nอยากรู้ช่วงเวลาเข้ารับชมการแสดงเหรอ?  \nข้าจะบอกกำหนดการการแสดงให้",
+        "pt": "[Porteiro da Orquestra]\nVocê tem curiosidade sobre o horário de entrada?\nInformaremos os horários da orquestra.",
+        "es": "[Portero de orquesta]\n¿Tienes curiosidad sobre el horario de admisión?\nOs informaremos del horario de entrada de la orquesta."
+    },
+    "WlyZCw": {
+        "en": "[Orchestra Doorman]\nYou have never seen an orchestra performance before.\nWhen you finish watching the orchestra, you will receive a reward.\nWe will exchange it for a special item.",
+        "unknown_6": "[Orchestra Doorman]\nท่านไม่เคยเข้ารับชมการแสดง Orchestra สินะ  \nหากรับชมการแสดงจบแล้ว  \nข้าจะมอบไอเท็มพิเศษให้เป็นรางวัล",
+        "pt": "[Porteiro da Orquestra]\nVocê nunca viu uma apresentação de orquestra antes.\nAo terminar de assistir a orquestra, você receberá uma recompensa.\nTrocaremos por um item especial.",
+        "es": "[Portero de orquesta]\nNunca antes has visto una actuación de orquesta.\nCuando termines de ver la orquesta, recibirás una recompensa.\nLo cambiaremos por un artículo especial."
+    },
+    "W1yZCw": {
+        "en": "[Orchestra Doorman]\nDid you enjoy the orchestra performance we prepared?\nHere's your reward.",
+        "unknown_6": "[Orchestra Doorman]\nท่านสนุกสนานไปกับการชมการแสดง Orchestra ที่เราจัดเตรียมไว้ให้หรือเปล่า?  \nรับของรางวัลไปสิ",
+        "pt": "[Porteiro da Orquestra]\nGostou da apresentação da orquestra que preparamos?\nAqui está sua recompensa.",
+        "es": "[Portero de orquesta]\n¿Disfrutaste la actuación de orquesta que preparamos?\nAquí está tu recompensa."
+    },
+    "XFyZCw": {
+        "en": "[Orchestra Doorman]\nIf you want to see a performance\nIf you arrive on time for the performance, we will help you enter.",
+        "unknown_6": "[Orchestra Doorman]\nหากต้องการรับชมการแสดง  \nโปรดมาในช่วงเวลาการแสดง แล้วข้าจะช่วยพาไปยังสถานที่จัดแสดงนะ",
+        "pt": "[Porteiro da Orquestra]\nSe você quiser ver uma apresentação,\nprimeiro, apareça aqui no horário correto do show e nós lhe ajudaremos a entrar.",
+        "es": "[Portero de orquesta]\nSi quieres ver una actuación\nSi llegas a tiempo a la actuación, te ayudaremos a entrar."
+    },
+    "XVyZCw": {
+        "en": "The Orchestra King Poring: The first performance begins in 2 minutes.",
+        "unknown_6": "The Orchestra King Poring : อีก 2 นาทีจะเริ่มบรรเลงเพลงแรก",
+        "pt": "A Orquestra Rei Poring: A primeira apresentação começa em 2 minutos.",
+        "es": "El Orquesta Rey Poring: La primera actuación comienza en 2 minutos."
+    },
+    "XlyZCw": {
+        "en": "The Orchestra King Poring: The first performance begins in 1 minute.",
+        "unknown_6": "The Orchestra King Poring : อีก 1 นาทีจะเริ่มบรรเลงเพลงแรก",
+        "pt": "A Orquestra Rei Poring: A primeira apresentação começa em 1 minuto.",
+        "es": "El Orquesta Rey Poring: La primera actuación comienza en 1 minuto."
+    },
+    "X1yZCw": {
+        "en": "The Orchestra King Poring: Moves to the center after 30 seconds to play the next song.",
+        "unknown_6": "The Orchestra King Poring : อีก 30 วินาทีจะเคลื่อนย้ายไปยังส่วนกลางเพื่อเริ่มการแสดงเพลงถัดไป",
+        "pt": "A Orquestra Rei Poring: Move-se para o centro após 30 segundos para tocar a próxima música.",
+        "es": "El Orquesta Rey Poring: se mueve hacia el centro después de 30 segundos para reproducir la siguiente canción."
+    },
+    "YFyZCw": {
+        "en": "01",
+        "unknown_6": "01",
+        "pt": "1",
+        "es": "01"
+    },
+    "YVyZCw": {
+        "en": "Title",
+        "unknown_6": "Title",
+        "pt": "Música Título",
+        "es": "Título"
+    },
+    "YlyZCw": {
+        "en": "12",
+        "unknown_6": "12",
+        "pt": "12",
+        "es": "12"
+    },
+    "Y1yZCw": {
+        "en": "Streamside",
+        "unknown_6": "Streamside",
+        "pt": "Ao Lado do Riacho",
+        "es": "junto al arroyo"
+    },
+    "ZFyZCw": {
+        "en": "05",
+        "unknown_6": "05",
+        "pt": "5",
+        "es": "05"
+    },
+    "ZVyZCw": {
+        "en": "Tread on the Ground",
+        "unknown_6": "Tread on the Ground",
+        "pt": "Pise no Chão",
+        "es": "Pisar el suelo"
+    },
+    "ZlyZCw": {
+        "en": "14",
+        "unknown_6": "14",
+        "pt": "14",
+        "es": "14"
+    },
+    "Z1yZCw": {
+        "en": "Theme of Payon",
+        "unknown_6": "Theme of Payon",
+        "pt": "Tema de Payon",
+        "es": "Tema de Payón"
+    },
+    "aFyZCw": {
+        "en": "03",
+        "unknown_6": "03",
+        "pt": "3",
+        "es": "03"
+    },
+    "aVyZCw": {
+        "en": "Peaceful Forest",
+        "unknown_6": "Peaceful Forest",
+        "pt": "Floresta Pacífica",
+        "es": "Bosque pacífico"
+    },
+    "alyZCw": {
+        "en": "13",
+        "unknown_6": "13",
+        "pt": "13",
+        "es": "13"
+    },
+    "a1yZCw": {
+        "en": "Theme of Geffen",
+        "unknown_6": "Theme of Geffen",
+        "pt": "Tema de Geffen",
+        "es": "Tema de Geffen"
+    },
+    "bFyZCw": {
+        "en": "25",
+        "unknown_6": "25",
+        "pt": "25",
+        "es": "25"
+    },
+    "bVyZCw": {
+        "en": "Plateau",
+        "unknown_6": "Plateau",
+        "pt": "Platô",
+        "es": "Meseta"
+    },
+    "blyZCw": {
+        "en": "170",
+        "unknown_6": "170",
+        "pt": "170",
+        "es": "170"
+    },
+    "b1yZCw": {
+        "en": "Welcome to Doram Town",
+        "unknown_6": "Welcome to Doram Town",
+        "pt": "Bem-vindo à cidade de Doram",
+        "es": "Bienvenido a la ciudad de Doram"
+    },
+    "cFyZCw": {
+        "en": "145",
+        "unknown_6": "145",
+        "pt": "145",
+        "es": "145"
+    },
+    "cVyZCw": {
+        "en": "Marshmallow Waltz",
+        "unknown_6": "Marshmallow Waltz",
+        "pt": "Valsa de Marshmallow",
+        "es": "Vals de malvavisco"
+    },
+    "clyZCw": {
+        "en": "11",
+        "unknown_6": "11",
+        "pt": "11",
+        "es": "11"
+    },
+    "c1yZCw": {
+        "en": "Theme of Morocc",
+        "unknown_6": "Theme of Morocc",
+        "pt": "Tema de Morroc",
+        "es": "Tema de Morroc"
+    },
+    "dFyZCw": {
+        "en": "24",
+        "unknown_6": "24",
+        "pt": "24",
+        "es": "24"
+    },
+    "dVyZCw": {
+        "en": "Desert",
+        "unknown_6": "Desert",
+        "pt": "Deserto",
+        "es": "Desierto"
+    },
+    "dlyZCw": {
+        "en": "66",
+        "unknown_6": "66",
+        "pt": "66",
+        "es": "66"
+    },
+    "d1yZCw": {
+        "en": "Wanna be Free!!",
+        "unknown_6": "Wanna be Free!!",
+        "pt": "Quero ser livre!!",
+        "es": "¡¡Quiero ser libre!!"
+    },
+    "eFyZCw": {
+        "en": "39",
+        "unknown_6": "39",
+        "pt": "39",
+        "es": "39"
+    },
+    "eVyZCw": {
+        "en": "Theme of Al De Baran",
+        "unknown_6": "Theme of Al de Baran",
+        "pt": "Tema de Al De Baran",
+        "es": "Tema de Al De Baran"
+    },
+    "elyZCw": {
+        "en": "15",
+        "unknown_6": "15",
+        "pt": "15",
+        "es": "15"
+    },
+    "e1yZCw": {
+        "en": "Theme of Alberta",
+        "unknown_6": "Theme of Alberta",
+        "pt": "Tema de Alberta",
+        "es": "Tema de Alberta"
+    },
+    "fFyZCw": {
+        "en": "76",
+        "unknown_6": "76",
+        "pt": "76",
+        "es": "76"
+    },
+    "fVyZCw": {
+        "en": "Purity of Your Smile",
+        "unknown_6": "Purity of Your Smile",
+        "pt": "Pureza do seu Sorriso",
+        "es": "Pureza de tu sonrisa"
+    },
+    "flyZCw": {
+        "en": "149",
+        "unknown_6": "149",
+        "pt": "149",
+        "es": "149"
+    },
+    "f1yZCw": {
+        "en": "Theme of Port Malaya",
+        "unknown_6": "Theme of Port Malaya",
+        "pt": "Tema de Porto Malaya",
+        "es": "Tema de Puerto Malaya"
+    },
+    "gFyZCw": {
+        "en": "70",
+        "unknown_6": "70",
+        "pt": "70",
+        "es": "70"
+    },
+    "gVyZCw": {
+        "en": "Theme of Juno",
+        "unknown_6": "Theme of Juno",
+        "pt": "Tema de Juno",
+        "es": "Tema de Juno"
+    },
+    "glyZCw": {
+        "en": "84",
+        "unknown_6": "84",
+        "pt": "84",
+        "es": "84"
+    },
+    "g1yZCw": {
+        "en": "Christmas in the 13th Month",
+        "unknown_6": "Christmas in the 13th Month",
+        "pt": "Natal do 13º mês",
+        "es": "Navidad en el mes 13"
+    },
+    "hFyZCw": {
+        "en": "86",
+        "unknown_6": "86",
+        "pt": "86",
+        "es": "86"
+    },
+    "hVyZCw": {
+        "en": "Steel Me",
+        "unknown_6": "Steel Me",
+        "pt": "Alma de Aço",
+        "es": "Acero yo"
+    },
+    "hlyZCw": {
+        "en": "128",
+        "unknown_6": "128",
+        "pt": "128",
+        "es": "128"
+    },
+    "h1yZCw": {
+        "en": "Splendid Dreams",
+        "unknown_6": "Splendid Dreams",
+        "pt": "Sonhos Laphines",
+        "es": "Sueños espléndidos"
+    },
+    "iFyZCw": {
+        "en": "140",
+        "unknown_6": "140",
+        "pt": "140",
+        "es": "140"
+    },
+    "iVyZCw": {
+        "en": "Twilight Heaven",
+        "unknown_6": "Twilight Heaven",
+        "pt": "Céu Crepuscular",
+        "es": "Cielo crepuscular"
+    },
+    "ilyZCw": {
+        "en": "88",
+        "unknown_6": "88",
+        "pt": "88",
+        "es": "88"
+    },
+    "i1yZCw": {
+        "en": "Come In Peace",
+        "unknown_6": "Come In Peace",
+        "pt": "Venha em Paz",
+        "es": "Ven en paz"
+    },
+    "jFyZCw": {
+        "en": "112",
+        "unknown_6": "112",
+        "pt": "112",
+        "es": "112"
+    },
+    "jVyZCw": {
+        "en": "Good Night",
+        "unknown_6": "Good Night",
+        "pt": "Boa Noite",
+        "es": "Buenas noches"
+    },
+    "jlyZCw": {
+        "en": "176",
+        "unknown_6": "176",
+        "pt": "176",
+        "es": "176"
+    },
+    "j1yZCw": {
+        "en": "Tear of Deviant",
+        "unknown_6": "Tear of Deviant",
+        "pt": "Lágrima do Desviante",
+        "es": "Lágrima de desviado"
+    },
+    "kFyZCw": {
+        "en": "160",
+        "unknown_6": "160",
+        "pt": "160",
+        "es": "160"
+    },
+    "kVyZCw": {
+        "en": "Jittering Nightmare",
+        "unknown_6": "Jittering Nightmare",
+        "pt": "Pesadelo Agitado",
+        "es": "Pesadilla nerviosa"
+    },
+    "klyZCw": {
+        "en": "The Orchestra King Poring: Let's start playing the first song.",
+        "unknown_6": "The Orchestra King Poring : การบรรเลงเพลงแรกจะเริ่มขึ้นแล้ว",
+        "pt": "A Orquestra Rei Poring: Vamos começar a tocar a primeira música.",
+        "es": "El Orquesta Rey Poring: Empecemos a tocar la primera canción."
+    },
+    "k1yZCw": {
+        "en": "The Orchestra King Poring: Let's start playing the second song.",
+        "unknown_6": "The Orchestra King Poring : การบรรเลงเพลงที่สองจะเริ่มขึ้นแล้ว",
+        "pt": "A Orquestra Rei Poring: Vamos começar a tocar a segunda música.",
+        "es": "El Orquesta Rey Poring: Empecemos a tocar la segunda canción."
+    },
+    "lFyZCw": {
+        "en": "The Orchestra King Poring: Let's start playing the third song.",
+        "unknown_6": "The Orchestra King Poring : การบรรเลงเพลงที่สามจะเริ่มขึ้นแล้ว",
+        "pt": "A Orquestra Rei Poring: Vamos começar a tocar a terceira música.",
+        "es": "El Orquesta Rey Poring: Empecemos a tocar la tercera canción."
+    },
+    "lVyZCw": {
+        "en": "The Orchestra King Poring: Let's start playing the fourth song.",
+        "unknown_6": "The Orchestra King Poring : การบรรเลงเพลงที่สี่จะเริ่มขึ้นแล้ว",
+        "pt": "A Orquestra Rei Poring: Vamos começar a tocar a quarta música.",
+        "es": "El Orquesta Rey Poring: Empecemos a tocar la cuarta canción."
+    },
+    "llyZCw": {
+        "en": "The Orchestra King Poring: Let's start playing the fifth song.",
+        "unknown_6": "The Orchestra King Poring : การบรรเลงเพลงที่ห้าจะเริ่มขึ้นแล้ว",
+        "pt": "A Orquestra Rei Poring: Vamos começar a tocar a quinta música.",
+        "es": "El Orquesta Rey Poring: Empecemos a tocar la quinta canción."
+    },
+    "l1yZCw": {
+        "en": "The Orchestra King Poring: Let's start playing the sixth song.",
+        "unknown_6": "The Orchestra King Poring : การบรรเลงเพลงที่หกจะเริ่มขึ้นแล้ว",
+        "pt": "A Orquestra Rei Poring: Vamos começar a tocar a sexta música.",
+        "es": "El Orquesta Rey Poring: Empecemos a tocar la sexta canción."
+    },
+    "mFyZCw": {
+        "en": "The Orchestra King Poring: Let's start playing the seventh song.",
+        "unknown_6": "The Orchestra King Poring : การบรรเลงเพลงที่เจ็ดจะเริ่มขึ้นแล้ว",
+        "pt": "A Orquestra Rei Poring: Vamos começar a tocar a sétima música.",
+        "es": "El Orquesta Rey Poring: Empecemos a tocar la séptima canción."
+    },
+    "mVyZCw": {
+        "en": "The Orchestra King Poring: Let's start playing the eighth song.",
+        "unknown_6": "The Orchestra King Poring : การบรรเลงเพลงที่แปดจะเริ่มขึ้นแล้ว",
+        "pt": "A Orquestra Rei Poring: Vamos começar a tocar a oitava música.",
+        "es": "El Orquesta Rey Poring: Empecemos a tocar la octava canción."
+    },
+    "mlyZCw": {
+        "en": "The Orchestra King Poring: Let's start playing the ninth song.",
+        "unknown_6": "The Orchestra King Poring : การบรรเลงเพลงที่เก้าจะเริ่มขึ้นแล้ว",
+        "pt": "A Orquestra Rei Poring: Vamos começar a tocar a nona música.",
+        "es": "El Orquesta Rey Poring: Empecemos a tocar la novena canción."
+    },
+    "m1yZCw": {
+        "en": "The Orchestra King Poring: Let's start playing the tenth song.",
+        "unknown_6": "The Orchestra King Poring : การบรรเลงเพลงที่สิบจะเริ่มขึ้นแล้ว",
+        "pt": "A Orquestra Rei Poring: Vamos começar a tocar a décima música.",
+        "es": "El Orquesta Rey Poring: Empecemos a tocar la décima canción."
+    },
+    "nFyZCw": {
+        "en": "The Orchestra King Poring: Let's start playing the last song.",
+        "unknown_6": "The Orchestra King Poring : การบรรเลงเพลงสุดท้ายจะเริ่มขึ้นแล้ว",
+        "pt": "A Orquestra Rei Poring: Vamos começar a tocar a última música.",
+        "es": "El Orquesta Rey Poring: Empecemos a tocar la última canción."
+    },
+    "nVyZCw": {
+        "en": "The Orchestra King Poring: All performances are over. After a while, we will move to Prontera.",
+        "unknown_6": "The Orchestra King Poring : การแสดงสิ้นสุดลงแล้ว อีกซักครู่จะเคลื่อนย้ายไปยัง Prontera",
+        "pt": "A Orquestra Rei Poring: Todas as apresentações terminaram. Depois de um tempo, iremos para Prontera.",
+        "es": "El Orquesta Rey Poring: Todas las actuaciones han terminado. Al cabo de un rato nos trasladaremos a Prontera."
+    },
+    "nlyZCw": {
+        "en": "The Orchestra King Poring",
+        "unknown_6": "The Orchestra King Poring",
+        "pt": "A Orquestra Rei Poring",
+        "es": "El Orquesta Rey Poring"
+    },
+    "n1yZCw": {
+        "en": "box1 (xu 89 103)",
+        "unknown_6": "box1 (xu 89 103)",
+        "pt": "caixa1 (xu 89 103)",
+        "es": "caja1 (xu 89 103)"
+    },
+    "oFyZCw": {
+        "en": "box2 (xy 98 108)",
+        "unknown_6": "box2 (xy 98 108)",
+        "pt": "caixa2 (xy 98 108)",
+        "es": "caja2 (xy 98 108)"
+    },
+    "oVyZCw": {
+        "en": "box3 (xy 106 101)",
+        "unknown_6": "box3 (xy 106 101)",
+        "pt": "caixa3 (xy 106 101)",
+        "es": "caja3 (xy 106 101)"
+    },
+    "olyZCw": {
+        "en": "box4 (xy 103 94)",
+        "unknown_6": "box4 (xy 103 94)",
+        "pt": "caixa4 (xy 103 94)",
+        "es": "caja4 (xy 103 94)"
+    },
+    "o1yZCw": {
+        "en": "box5 (xy 90 93)",
+        "unknown_6": "box5 (xy 90 93)",
+        "pt": "caixa5 (xy 90 93)",
+        "es": "caja5 (xy 90 93)"
+    },
+    "pFyZCw": {
+        "en": "cancel",
+        "unknown_6": "cancel",
+        "pt": "cancelar",
+        "es": "Cancelar"
+    },
+    "pVyZCw": {
+        "en": "Current number of clicks",
+        "unknown_6": "Current number of clicks",
+        "pt": "Número atual de cliques",
+        "es": "Número actual de clics"
+    },
+    "plyZCw": {
+        "en": "box1 reset complete",
+        "unknown_6": "box1 reset complete",
+        "pt": "redefinição da caixa 1 concluída",
+        "es": "reinicio de caja 1 completo"
+    },
+    "p1yZCw": {
+        "en": "Enter a value between 0 and 20",
+        "unknown_6": "Enter a value between 0 and 20",
+        "pt": "Insira um valor entre 0 e 20",
+        "es": "Introduzca un valor entre 0 y 20"
+    },
+    "qFyZCw": {
+        "en": "{}box1 setting",
+        "unknown_6": "{}box1 setting",
+        "pt": "configuração {}box1",
+        "es": "{}configuración de cuadro1"
+    },
+    "qVyZCw": {
+        "en": "Current number of clicks in box1 :{}",
+        "unknown_6": "Current number of clicks in box1 :{}",
+        "pt": "Número atual de cliques na caixa1:{}",
+        "es": "Número actual de clics en el cuadro 1: {}"
+    },
+    "qlyZCw": {
+        "en": "box2 reset complete",
+        "unknown_6": "box2 reset complete",
+        "pt": "reinicialização do box2 concluída",
+        "es": "reinicio de box2 completo"
+    },
+    "q1yZCw": {
+        "en": "{}box2 setting",
+        "unknown_6": "{}box2 setting",
+        "pt": "configuração {}box2",
+        "es": "{}configuración de box2"
+    },
+    "rFyZCw": {
+        "en": "Current number of clicks in box2 :{}",
+        "unknown_6": "Current number of clicks in box2 :{}",
+        "pt": "Número atual de cliques na box2:{}",
+        "es": "Número actual de clics en el cuadro 2: {}"
+    },
+    "rVyZCw": {
+        "en": "box3 reset complete",
+        "unknown_6": "box3 reset complete",
+        "pt": "reinicialização do box3 concluída",
+        "es": "reinicio de box3 completo"
+    },
+    "rlyZCw": {
+        "en": "{}box3 setting",
+        "unknown_6": "{}box3 setting",
+        "pt": "{}configuração box3",
+        "es": "{}configuración de box3"
+    },
+    "r1yZCw": {
+        "en": "Current number of clicks in box3 :{}",
+        "unknown_6": "Current number of clicks in box3 :{}",
+        "pt": "Número atual de cliques na box3:{}",
+        "es": "Número actual de clics en el cuadro 3: {}"
+    },
+    "sFyZCw": {
+        "en": "box4 reset complete",
+        "unknown_6": "box4 reset complete",
+        "pt": "reinicialização do box4 concluída",
+        "es": "reinicio de box4 completo"
+    },
+    "sVyZCw": {
+        "en": "{}box4 setting",
+        "unknown_6": "{}box4 setting",
+        "pt": "configuração {}box4",
+        "es": "{}configuración de box4"
+    },
+    "slyZCw": {
+        "en": "Current number of clicks in box4 :{}",
+        "unknown_6": "Current number of clicks in box4 :{}",
+        "pt": "Número atual de cliques na box4:{}",
+        "es": "Número actual de clics en el cuadro 4: {}"
+    },
+    "s1yZCw": {
+        "en": "box5 reset complete",
+        "unknown_6": "box5 reset complete",
+        "pt": "reinicialização do box5 concluída",
+        "es": "reinicio de box5 completo"
+    },
+    "tFyZCw": {
+        "en": "{}box5 setting",
+        "unknown_6": "{}box5 setting",
+        "pt": "configuração {}box5",
+        "es": "{}configuración de box5"
+    },
+    "tVyZCw": {
+        "en": "Current number of clicks in box5 :{}",
+        "unknown_6": "Current number of clicks in box5 :{}",
+        "pt": "Número atual de cliques na box5:{}",
+        "es": "Número actual de clics en el cuadro 5: {}"
+    },
+    "tlyZCw": {
+        "en": "[The Orchestra King Poring]\nThe performance will start soon, so please wait a moment.",
+        "unknown_6": "[The Orchestra King Poring]\nการแสดงใกล้จะเริ่มต้นขึ้นแล้ว โปรดรอซักครู่",
+        "pt": "[A Orquestra Rei Poring]\nA apresentação começará em breve, então aguarde um momento.",
+        "es": "[El Orquesta Rey Poring]\nLa actuación comenzará pronto, así que espere un momento."
+    },
+    "t1yZCw": {
+        "en": "[The Orchestra King Poring]\nToday's performances are all over.\nPlease look forward to the next performance.",
+        "unknown_6": "[The Orchestra King Poring]\nการแสดงของวันนี้จบลงแล้ว  \nโปรดรอการแสดงในรอบถัดไป",
+        "pt": "[A Orquestra Rei Poring]\nAs apresentações de hoje acabaram.\nPor favor, aguardem ansiosamente a próxima apresentação.",
+        "es": "[El Orquesta Rey Poring]\nLas actuaciones de hoy han terminado.\nEsperen con ansias la próxima actuación."
+    },
+    "uFyZCw": {
+        "en": "[The Orchestra King Poring]\nAre you curious about the song being played right now?\nThe song playing now is ^0100FF{}^000000.",
+        "unknown_6": "[The Orchestra King Poring]\nอยากรู้ว่าตอนนี้กำลังบรรเลงเพลงอะไรอยู่เหรอ?  \nเพลงที่กำลังบรรเลงอยู่ตอนนี้คือ ^0100FF{}^000000",
+        "pt": "[A Orquestra Rei Poring]\nVocê tem curiosidade sobre a música que está tocando agora?\nEla se chama ^0100FF{}^000000.",
+        "es": "[El Orquesta Rey Poring]\n¿Tienes curiosidad por saber la canción que se está reproduciendo en este momento?\nLa canción que suena ahora es ^0100FF{}^000000."
+    },
+    "uVyZCw": {
+        "en": "[Orchestra Doorman]\nsorry. You can enter the concert hall only once per day. Please visit us again tomorrow.",
+        "unknown_6": "[Orchestra Doorman]\nsorry",
+        "pt": "[Porteiro da Orquestra]\nDesculpe. Você pode entrar na sala de concertos apenas uma vez por dia. Por favor, visite-nos novamente amanhã.",
+        "es": "[Portero de orquesta]\nLo siento. Puedes ingresar a la sala de conciertos solo una vez al día. Por favor visítenos nuevamente mañana."
+    },
+    "ulyZCw": {
+        "en": "Event Start",
+        "unknown_6": "Event Start",
+        "pt": "Event Start",
+        "es": "Event Start"
+    },
+    "u1yZCw": {
+        "en": "Cancel",
+        "unknown_6": "Cancel",
+        "pt": "Cancel",
+        "es": "Cancel"
+    },
+    "vFyZCw": {
+        "en": "- You can no longer open chests. Chests can be opened up to 5 times a day. -",
+        "unknown_6": "- You can no longer open chests. Chests can be opened up to 5 times a day. -",
+        "pt": "- Você não pode mais abrir baús. Baús podem ser abertos até 5 vezes ao dia. -",
+        "es": "- Ya no se pueden abrir cofres. Se pueden abrir hasta 5 veces al día. -"
+    }
+}

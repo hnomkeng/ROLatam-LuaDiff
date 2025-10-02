@@ -1,0 +1,1167 @@
+{
+    "gAdfCg": {
+        "en": "Lumin",
+        "pt": "Rumin",
+        "es": "Rumin"
+    },
+    "gQdfCg": {
+        "en": "[Lumin]\nAre you here for a Job Change?\nTo change your job, talk to that guy or girl with the mean eyes.",
+        "pt": "[Rumin]\nVocê está aqui para mudar de emprego?\nPara mudar de emprego, fale com aquele rapaz ou moça com olhos maus.",
+        "es": "[Rumin]\n¿Viniste a cambiar de clase?\nSi viniste a eso, busca a otra persona aquí."
+    },
+    "ggdfCg": {
+        "en": "[Lumin]\nWhat do you need help with?",
+        "pt": "[Rumin]\nEm que você precisa de ajuda?",
+        "es": "[Rumin]\n¿Necesitas ayuda?"
+    },
+    "gwdfCg": {
+        "en": "Stats.",
+        "pt": "Estatísticas.",
+        "es": "Preguntas sobre las estadísticas."
+    },
+    "hAdfCg": {
+        "en": "Skills.",
+        "pt": "Habilidades.",
+        "es": "Preguntas sobre las habilidades."
+    },
+    "hQdfCg": {
+        "en": "What are odd jobs?",
+        "pt": "O que são biscates?",
+        "es": "¿Qué son las misiones fáciles?"
+    },
+    "hgdfCg": {
+        "en": "No need!",
+        "pt": "Não há necessidade!",
+        "es": "¡No necesito tu ayuda!"
+    },
+    "hwdfCg": {
+        "en": "[Lumin]\nSTR (strength) increases ATK attack power.\nIt's a necessity, but the amount you need to invest in it depends on your weapons and fighting style, so it is for you to decide.",
+        "pt": "[Rumin]\nA STR (força) aumenta o poder de ataque ATK.\nÉ uma necessidade, mas o valor que você precisa investir depende das suas armas e do seu estilo de luta, portanto, cabe a você decidir.",
+        "es": "[Rumin]\nLa FUE aumenta el daño de los ataques físicos.\nEs una estadística importante, pero depende del estilo de juego y de la clase."
+    },
+    "iAdfCg": {
+        "en": "[Lumin]\nAGI (agility) increases FLEE (FLEE rate) and ASPD (attack speed).\nIt's the most important stat for the Thief Branch.",
+        "pt": "[Rumin]\nA AGI (agilidade) aumenta a FLEE (taxa de FLEE) e a ASPD (velocidade de ataque).\nÉ a estatística mais importante para o ramo Thief.",
+        "es": "[Rumin]\nLa AGI aumenta la velocidad de evasión y de ataque.\n¡Es imprescindible para los Ladrones!"
+    },
+    "iQdfCg": {
+        "en": "[Lumin]\nDodge, and then attack quickly.\nWhether Thief, Rogue, or Assassin, it's all part of the job.\nBut it depends on your personal preference as well.",
+        "pt": "[Rumin]\nEsquivar-se e depois atacar rapidamente.\nSeja Thief, Arruaceiro ou Assassin, tudo isso faz parte do trabalho.\nMas isso também depende de sua preferência pessoal.",
+        "es": "[Rumin]\nEvitar los ataques de forma rápida y eficaz…\nIndependientemente de si eres un Ladrón o una clase más avanzada, ¡eso es lo que debes hacer!\nPero sigue siendo tu elección…"
+    },
+    "igdfCg": {
+        "en": "[Lumin]\nDEX primarily affects HIT, and helps increase ASPD slightly.\nDEX is important so that your attacks don't miss the target.",
+        "pt": "[Rumin]\nA DEX afeta principalmente o HIT e ajuda a aumentar ligeiramente a ASPD.\nA DEX é importante para que seus ataques não errem o alvo.",
+        "es": "[Rumin]\nLa DES aumenta la probabilidad de acierto.\nEs muy importante para no fallar en los ataques."
+    },
+    "iwdfCg": {
+        "en": "[Lumin]\nAssassins who use Katars invest more in LUK (luck) rather than in DEX.\nLUK increases CRIT and increases ATK slightly.",
+        "pt": "[Rumin]\nOs Mercenários que usam Katars investem mais em LUK (sorte) do que em DEX.\nA LUK aumenta o CRIT e aumenta ligeiramente o ATK.",
+        "es": "[Rumin]\nDebo decir que algunos invierten más en SUE.\nLo hacen para aumentar sus posibilidades de ataque crítico. Es una buena elección."
+    },
+    "jAdfCg": {
+        "en": "[Lumin]\nAssassins who use Katars invest in LUK owing to the nature of their weapon.\nKatar has twice the chance to CRIT than other weapons.",
+        "pt": "[Rumin]\nOs Mercenários que usam Katars investem em LUK devido à natureza de sua arma.\nA Katar tem duas vezes mais chance de CRITAR do que outras armas.",
+        "es": "[Rumin]\nEn general, las opciones están vinculadas al tipo de arma elegida.\nAlgunas tienen un daño crítico mucho mayor que otras, por lo que vale la pena considerar la SUE."
+    },
+    "jQdfCg": {
+        "en": "[Lumin]\nVIT (vitality) increases health. INT (intelligence) strengthens MATK (magic attack).\nSome Rogues invest in INT and use magic.",
+        "pt": "[Rumin]\nVIT (vitalidade) aumenta a saúde. INT (inteligência) fortalece o MATK (ataque mágico).\nAlguns Arruaceiros investem em INT e usam magia.",
+        "es": "[Rumin]\nLa VIT aumenta la vida máxima y la INT aumenta el poder de los ataques mágicos.\nAlgunos usan la INT para lanzar hechizos sencillos, por lo que podría resultar útil."
+    },
+    "jgdfCg": {
+        "en": "[Lumin]\nOne class of Rogues uses Intimidate to steal their opponents' skills.",
+        "pt": "[Rumin]\nUma classe de Arruaceiros usa Intimidate para roubar as habilidades de seus oponentes.",
+        "es": "[Rumin]\nY algunos Ladrones roban las habilidades de sus enemigos para usarlas."
+    },
+    "jwdfCg": {
+        "en": "[Lumin]\nThat's everything, right?\nFor your information, I primarily invest in AGI.\nAs well as enough DEX, so that I don't miss my target.",
+        "pt": "[Rumin]\nIsso é tudo, certo?\nPara sua informação, eu invisto principalmente em AGI.\nE também em DEX suficiente, para que eu não perca meu alvo.",
+        "es": "[Rumin]\nSuena bien, ¿verdad?\nYo personalmente invierto en AGI…\nY un poco en DES…"
+    },
+    "kAdfCg": {
+        "en": "[Lumin]\nEverything else comes later.",
+        "pt": "[Rumin]\nTodo o resto vem depois.",
+        "es": "[Rumin]\nMm…"
+    },
+    "kQdfCg": {
+        "en": "[Lumin]\nWhat skill do you want to understand more about?",
+        "pt": "[Rumin]\nSobre qual habilidade você quer saber mais?",
+        "es": "[Rumin]\n¿Qué habilidad te llamó la atención?"
+    },
+    "kgdfCg": {
+        "en": "Stone Fling and Back Slide.",
+        "pt": "Stone Fling e Back Slide.",
+        "es": "Lanzamiento de piedras y Retroceso."
+    },
+    "kwdfCg": {
+        "en": "Hiding and Steal.",
+        "pt": "Esconder e roubar.",
+        "es": "Ocultamiento y Robar."
+    },
+    "lAdfCg": {
+        "en": "Improve Dodge and Double Attack.",
+        "pt": "Melhora a esquiva e o ataque duplo.",
+        "es": "Evasión mejorada y Doble ataque."
+    },
+    "lQdfCg": {
+        "en": "Envenom and Detoxify.",
+        "pt": "Envenom e Detoxify.",
+        "es": "Envenenamiento y Desintoxicación."
+    },
+    "lgdfCg": {
+        "en": "End conversation.",
+        "pt": "Encerrar conversa.",
+        "es": "Terminar la conversación."
+    },
+    "lwdfCg": {
+        "en": "[Lumin]\n^4D4DFFStone Fling, Back Slide, and Sand Attack are skills^000000 earned via quests.\nYou can learn these skills in the room across the hallway.",
+        "pt": "[Rumin]\n^4D4DFFStone Fling, Back Slide e Sand Attack são habilidades^000000 obtidas por meio de missões.\nVocê pode aprender essas habilidades na sala do outro lado do corredor.",
+        "es": "[Rumin]\n^4D4DFFLanzamiento de piedras, Retroceso y Ataque de Arena^000000 son habilidades que puedes aprender a través de las misiones.\nAlgunas misiones de por aquí te las enseñan."
+    },
+    "mAdfCg": {
+        "en": "[Lumin]\nStone Fling is when you throw a stone at your opponents. It inflicts a status effect similar to Stun.",
+        "pt": "[Rumin]\nStone Fling é quando você joga uma pedra em seus oponentes. Ele causa um efeito de status semelhante ao de atordoamento.",
+        "es": "[Rumin]\nLanzamiento de piedras… Bueno, lanza una piedra que inflige daño y puede infligir aturdimiento."
+    },
+    "mQdfCg": {
+        "en": "[Lumin]\nBack Slide is a skill by which you slide backwards. It's useful when escaping.",
+        "pt": "[Rumin]\nBack Slide é uma habilidade pela qual você desliza para trás. É útil ao escapar.",
+        "es": "[Rumin]\nRetroceso es una técnica de evasión hacia atrás, ideal para huir."
+    },
+    "mgdfCg": {
+        "en": "[Lumin]\nSand Attack... is when you spray sand on your enemies. But in my view, Stone Fling is more useful.",
+        "pt": "[Rumin]\nSand Attack... é quando você joga areia nos inimigos. Mas, na minha opinião, o Stone Fling é mais útil.",
+        "es": "[Rumin]\nUna habilidad similar al Lanzamiento de piedras es Ataque de arena, pero entre la arena y las piedras, me quedo con las piedras…"
+    },
+    "mwdfCg": {
+        "en": "[Lumin]\nThat's everything, right?",
+        "pt": "[Rumin]\nIsso é tudo, certo?",
+        "es": "[Rumin]\nSuena bien, ¿verdad?"
+    },
+    "nAdfCg": {
+        "en": "[Lumin]\n^4D4DFFHiding is when you hide on the spot.^000000\nIt's good to escape danger, but demons and insects can detect you.",
+        "pt": "[Rumin]\n^4D4DFFEsconderijo é quando você se esconde no local.^000000\nÉ bom para escapar do perigo, mas demônios e insetos podem detectá-lo.",
+        "es": "[Rumin]\nOcultamiento crea un hueco para… Ocultarse…\nEs bueno para una huida de última hora, pero algunos monstruos pueden verte."
+    },
+    "nQdfCg": {
+        "en": "[Lumin]\nOh, and Hunters' Detect, Mages' Sight, Acolytes' Ruwach...\nAny skill that is used to find a hidden enemy will help to detect you.",
+        "pt": "[Rumin]\nAh, e Detectar dos caçadores, Visão dos magos, Ruwach dos noviços...\nQualquer habilidade que seja usada para encontrar um inimigo oculto ajudará a detectá-lo.",
+        "es": "[Rumin]\nEs útil, pero no siempre, aunque es bueno… Me perdí.\nEn cualquier caso, vale la pena intentarlo."
+    },
+    "ngdfCg": {
+        "en": "[Lumin]\nSteal lets you steal items from monsters.\n... What other explanation do you need..?",
+        "pt": "[Rumin]\nSteal permite que você roube itens de monstros.\n... Que outra explicação você precisa...?",
+        "es": "[Rumin]\nRobar es básicamente tomar los objetos de un monstruo sin permiso.\nEs muy divertido…"
+    },
+    "nwdfCg": {
+        "en": "[Lumin]\n^4D4DFFImprove Dodge^000000 and ^4D4DFFDouble Attack^000000 are\n^4D4DFFpassive skills^000000 that your body will execute automatically once you've learned them.",
+        "pt": "[Rumin]\n^4D4DFFMelhorar a Esquiva^000000 e ^4D4DFFAtaque Duplo^000000 são\n^4D4DFFhabilidades passivas^000000 que seu corpo executará automaticamente depois de aprendê-las.",
+        "es": "[Rumin]\nEvasión mejorada y Doble ataque…\nAmbas son lo que llamamos habilidades pasivas…"
+    },
+    "oAdfCg": {
+        "en": "[Lumin]\nEnvenom, Hiding, and Steal are skills that must be invoked to become active,\nwhile Improve Dodge and Double Attack are passive skills that are invoked automatically.",
+        "pt": "[Rumin]\nEnvenenamento, Esconderijo e Roubo são habilidades que precisam ser invocadas para se tornarem ativas,\nenquanto Improve Dodge (Melhorar a esquiva) e Double Attack (Ataque duplo) são habilidades passivas que são invocadas automaticamente.",
+        "es": "[Rumin]\nLa mayoría de las habilidades requieren que las actives para que se produzca el efecto.\nEvasión mejorada y Doble ataque se activan automáticamente."
+    },
+    "oQdfCg": {
+        "en": "[Lumin]\nSkills that must be invoked for them to take effect are called ^4D4DFFactive skills^000000.\nActive Skills use up SP.",
+        "pt": "[Rumin]\nAs habilidades que precisam ser invocadas para que tenham efeito são chamadas de ^4D4DFFhabilidades ativas^000000.\nAs habilidades ativas consomem SP.",
+        "es": "[Rumin]\nLas habilidades se dividen en activas y pasivas.\nLas activas consumen SP para usarlas, a diferencia de las pasivas."
+    },
+    "ogdfCg": {
+        "en": "[Lumin]\nIn other words, if you don't have enough SP, you can't use the skills.",
+        "pt": "[Rumin]\nEm outras palavras, se você não tiver SP suficiente, não poderá usar as habilidades.",
+        "es": "[Rumin]\nAsí que presta atención a los detalles de cada habilidad."
+    },
+    "owdfCg": {
+        "en": "[Lumin]\n^4D4DFFEnvenom uses poison to attack the enemy.^000000\nAnd ^4D4DFFDetoxify lifts the effect of the poison.^000000\n... It's easy. Simple.",
+        "pt": "[Rumin]\n^4D4DFFEnvenom usa veneno para atacar o inimigo.\nE ^4D4DFFDetoxify retira o efeito do veneno.\n... É fácil. Simples.",
+        "es": "[Rumin]\nEnvenenamiento consiste en infligir veneno al enemigo.\nDesintoxicación elimina los efectos del veneno…\nEso fue un poco… Obvio."
+    },
+    "pAdfCg": {
+        "en": "[Lumin]\nSince my duty right now is to provide help and information,\nask me if there's anything else you'd like to know about.",
+        "pt": "[Rumin]\nComo meu dever no momento é fornecer ajuda e informações,\npergunte-me se há algo mais que você gostaria de saber.",
+        "es": "[Rumin]\nBueno, estoy aquí para darte explicaciones, ¿no…?\nPregúntame cualquier cosa…"
+    },
+    "pQdfCg": {
+        "en": "[Lumin]\nThe superiors have left these quests here for their subordinates.\nThey're quite simple, like pushing a rag around with your feet.",
+        "pt": "[Rumin]\nOs superiores deixaram essas missões aqui para seus subordinados.\nElas são bem simples, como empurrar um pano com os pés.",
+        "es": "[Rumin]\nLas misiones iniciales que hacen los veteranos…\nSon tan fáciles que hasta dan sueño."
+    },
+    "pgdfCg": {
+        "en": "[Lumin]\nIf you're curious, you can take one and try.\nThere are some quests that earn you rewards.",
+        "pt": "[Rumin]\nSe estiver curioso, você pode pegar um e experimentar.\nHá algumas missões que lhe dão recompensas.",
+        "es": "[Rumin]\nPuedes aceptar una si quieres…\nPueden ser difíciles para ti… Ja, ja, ja."
+    },
+    "pwdfCg": {
+        "en": "[Lumin]\nHey, you don't have to yell.",
+        "pt": "[Rumin]\nEi, não precisa gritar.",
+        "es": "[Rumin]\nLo sé, lo sé. ¡Pero no grites!"
+    },
+    "qAdfCg": {
+        "en": "[Lumin]\nHm... There's nothing more that I can tell you.\nMy duty right now is to give information to my colleagues.",
+        "pt": "[Rumin]\nHm... Não há mais nada que eu possa lhe dizer.\nMeu dever no momento é dar informações aos meus colegas.",
+        "es": "[Rumin]\nBueno, no tengo nada que decir.\nTengo que dar información, ¿no?"
+    },
+    "qQdfCg": {
+        "en": "[Lumin]\n... .. . . .\nWhere was it that we met?\nSorry. I forget unpleasant memories as soon as possible.",
+        "pt": "[Rumin]\n... .. . . .\nOnde foi que nos conhecemos?\nDesculpe-me. Eu esqueço as lembranças desagradáveis o mais rápido possível.",
+        "es": "[Rumin]\nMm…\n…\nLo siento, se mezclaron mis pensamientos por un momento…"
+    },
+    "qgdfCg": {
+        "en": "Kaizel",
+        "pt": "Kaizel",
+        "es": "Kaizel"
+    },
+    "qwdfCg": {
+        "en": "Unable to continue with quest- your inventory is full.\nTry again after reorganizing your items.",
+        "pt": "Não é possível continuar com a missão - seu inventário está cheio.\nTente novamente depois de reorganizar seus itens.",
+        "es": "Llevas demasiados objetos.\nOrganiza tu inventario e inténtalo de nuevo."
+    },
+    "rAdfCg": {
+        "en": "[Kaizel]\nHey, newbie.\nCan you guess the answer to my question?",
+        "pt": "[Kaizel]\nEi, aprendiz.\nVocê consegue adivinhar a resposta à minha pergunta?",
+        "es": "[Kaizel]\nOye, ¿buscas aventuras?\nPuedo darte misiones emocionantes, ¿quieres?"
+    },
+    "rQdfCg": {
+        "en": "Sure can.",
+        "pt": "Claro que sim.",
+        "es": "Sí, quiero."
+    },
+    "rgdfCg": {
+        "en": "Ah... How annoying.",
+        "pt": "Ah... Que irritante.",
+        "es": "Mm… Tal vez no…"
+    },
+    "rwdfCg": {
+        "en": "[Kaizel]\nIn the vicinity of Morroc, ¡°Drops,¡±",
+        "pt": "[Kaizel]\nNas proximidades de Morroc, ''Drops''.",
+        "es": "[Kaizel]\nEn los alrededores de Morroc, Drops."
+    },
+    "sAdfCg": {
+        "en": "[Kaizel]\n¡°Picky,¡±",
+        "pt": "[Kaizel]\n''Picky,''",
+        "es": "[Kaizel]\nPicky."
+    },
+    "sQdfCg": {
+        "en": "[Kaizel]\nand Baby Desert Wolves reside.\nDo you know what they have in common?",
+        "pt": "[Kaizel]\ne os Bebês Lobos do Deserto residem.\nVocê sabe o que eles têm em comum?",
+        "es": "[Kaizel]\ny Cría de Lobo de desierto.\n¿Sabes qué tienen en común estas tres criaturas?"
+    },
+    "sgdfCg": {
+        "en": "They're animals?",
+        "pt": "Eles são animais?",
+        "es": "¿Son animales?"
+    },
+    "swdfCg": {
+        "en": "Size?",
+        "pt": "Tamanho?",
+        "es": "¿Su tamaño?"
+    },
+    "tAdfCg": {
+        "en": "Elemental Property?",
+        "pt": "Propriedade elementar?",
+        "es": "¿Sus propiedades?"
+    },
+    "tQdfCg": {
+        "en": "I don't know.",
+        "pt": "Eu não sei.",
+        "es": "Ay, no lo sé…"
+    },
+    "tgdfCg": {
+        "en": "[Kaizel]\nUnfortunately, Drops are Plants.\nI don't know how Plants evolve into moving life forms,\nbut they can become Herb Fairies.",
+        "pt": "[Kaizel]\nInfelizmente, os Drops são plantas.\nNão sei como as plantas evoluem para formas de vida móveis,\nmas elas podem se tornar Herb Fairies.",
+        "es": "[Kaizel]\nLamentablemente, no estoy seguro de qué son los Drops…\nAsí que no puedo considerar esa opción…"
+    },
+    "twdfCg": {
+        "en": "[Kaizel]\nUnfortunately, Picky is small and Drops are medium-sized.\nSmall and medium monsters can be fought equally with a dagger.",
+        "pt": "[Kaizel]\nInfelizmente, o Picky é pequeno e os Drops são de tamanho médio.\nMonstros pequenos e médios podem ser combatidos igualmente com uma adaga.",
+        "es": "[Kaizel]\nImposible, el Picky es pequeño y los Drops no…\nAunque la Cría de Lobo de desierto… No importa."
+    },
+    "uAdfCg": {
+        "en": "[Kaizel]\nCorrect!\nSo you know the answer.",
+        "pt": "[Kaizel]\nCorreto!\nEntão você sabe a resposta.",
+        "es": "[Kaizel]\nExacto, ¡acertaste!\nLo sabes todo, ¿verdad?"
+    },
+    "uQdfCg": {
+        "en": "[Kaizel]\nIt must be hard to guess what things that you've never seen have in common.\nThe truth lies in ¡°yellow.¡±",
+        "pt": "[Kaizel]\nDeve ser difícil adivinhar o que coisas que você nunca viu têm em comum.\nA verdade está no ''amarelo''.",
+        "es": "[Kaizel]\nNo te rindas, siempre es bueno aprender.\nEn ese caso, sé que fui un poco duro."
+    },
+    "ugdfCg": {
+        "en": "[Kaizel]\nDrops, Picky, Baby Desert Wolf all have the same ^4D4DFFelemental property^000000.\nThey're all fire.",
+        "pt": "[Kaizel]\nDrops, Picky e Baby Desert Wolf têm a mesma propriedade ^4D4DFFelemental^000000.\nTodos eles são fogo.",
+        "es": "[Kaizel]\nEl punto común son las ^4D4DFFpropiedades^000000.\nLos tres tienen la propiedad Fuego."
+    },
+    "uwdfCg": {
+        "en": "[Kaizel]\nMonsters all have properties.\nFor example, monsters that live in water have water properties.",
+        "pt": "[Kaizel]\nTodos os monstros têm propriedades.\nPor exemplo, os monstros que vivem na água têm propriedades de água.",
+        "es": "[Kaizel]\nCada criatura tiene su propia propiedad.\nPor ejemplo, las criaturas que viven en el agua tienen la propiedad Agua."
+    },
+    "vAdfCg": {
+        "en": "[Kaizel]\n^4D4DFFThere are properties that conflict with each other.\nWhen heading for a battle with monsters, preparing the opposite properties can ensure victory.^000000",
+        "pt": "[Kaizel]\n^4D4DFFHá propriedades que entram em conflito umas com as outras.\nQuando estiver indo para uma batalha com monstros, preparar as propriedades opostas pode garantir a vitória.^000000",
+        "es": "[Kaizel]\nLas propiedades tienen ventajas y desventajas.\n¡Puedes aprovechar esto en las batallas!"
+    },
+    "vQdfCg": {
+        "en": "[Kaizel]\n^4D4DFFFire is weak against Water,\nWater is weak against Wind,\nWind is weak against Earth,\nEarth is weak against Fire.",
+        "pt": "[Kaizel]\n^4D4DFFO fogo é fraco contra a água,\nA água é fraca contra o vento,\nO vento é fraco contra a terra,\nA Terra é fraca contra o Fogo.",
+        "es": "[Kaizel]\nEl Fuego es débil contra el Agua.\nEl Agua es débil contra el Viento.\nEl Viento es débil contra la Tierra.\nLa Tierra es débil contra el Fuego."
+    },
+    "vgdfCg": {
+        "en": "[Kaizel]\nIn other words,\nFire defeats Earth,\nEarth defeats Wind,\nWind is stronger than Water,\nWater defeats Fire.",
+        "pt": "[Kaizel]\nEm outras palavras,\nO fogo derrota a terra,\nA Terra vence o Vento,\nO vento é mais forte que a água,\na água vence o fogo.",
+        "es": "[Kaizel]\nSi lo piensas de otra manera…\nEl Fuego derrota a la Tierra.\nLa Tierra derrota al Viento.\nEl Viento derrota al Agua.\nEl Agua derrota al Fuego."
+    },
+    "vwdfCg": {
+        "en": "[Kaizel]\nIt's okay if you don't get all this right away.\nLet's try hunting 3 types of Fire property enemies now.",
+        "pt": "[Kaizel]\nNão tem problema se você não entender tudo isso logo de cara.\nVamos tentar caçar 3 tipos de inimigos com propriedade Fire agora.",
+        "es": "[Kaizel]\nQuizá no lo entiendas a la primera…\n¿Qué te parece si derrotas criaturas para consolidar los conocimientos?"
+    },
+    "wAdfCg": {
+        "en": "Sure!",
+        "pt": "Com certeza!",
+        "es": "Me gusta la idea."
+    },
+    "wQdfCg": {
+        "en": "No thanks.",
+        "pt": "Não, obrigado.",
+        "es": "No, gracias."
+    },
+    "wgdfCg": {
+        "en": "[Kaizel]\nLet's catch 5 monsters in the field south of Morroc.\nPicky, Drops, Baby Desert Wolves.",
+        "pt": "[Kaizel]\nVamos pegar 5 monstros no campo ao sul de Morroc.\nPicky, Drops, Bebês Lobos do Deserto.",
+        "es": "[Kaizel]\nEntonces, ¡vamos al sur de Morroc y derrótalas!\nPicky, Drops y Crías de Lobo de desierto."
+    },
+    "wwdfCg": {
+        "en": "[Kaizel]\nThe Baby Desert Wolf lives in the southeast fields of Morroc.\nBe careful of scorpions in the desert.",
+        "pt": "[Kaizel]\nO bebê lobo do deserto vive nos campos do sudeste de Morroc.\nCuidado com os escorpiões no deserto.",
+        "es": "[Kaizel]\nComo referencia, la Cría de Lobo de desierto vive en los desiertos al sureste de Morroc…\nCuidado con los Escorpiones."
+    },
+    "xAdfCg": {
+        "en": "[Kaizel]\nI will give credit only for ^4D4DFFregular Pickys that don't use eggshells^000000.",
+        "pt": "[Kaizel]\nDarei crédito apenas para ^4D4DFFPickys regulares que não usam cascas de ovos^000000.",
+        "es": "[Kaizel]\nDaré crédito sólo para ^4D4DFFPickys regulares que no usen cáscaras de huevo^000000."
+    },
+    "xQdfCg": {
+        "en": "[Kaizel]\nYour weapon temporarily has Water properties.\nGo and catch a Fire monster now!",
+        "pt": "[Kaizel]\nSua arma tem temporariamente propriedades de água.\nVá e pegue um monstro de fogo agora!",
+        "es": "[Kaizel]\nAgregué un efecto temporal de propiedad Agua a tu arma.\n¡Ve a derrotar a las criaturas de Fuego!"
+    },
+    "xgdfCg": {
+        "en": "[Kaizel]\n... What useless things have I been doing all this time?",
+        "pt": "[Kaizel]\n... Que coisas inúteis eu tenho feito todo esse tempo?",
+        "es": "[Kaizel]\n… ¿Qué cosas inútiles he estado haciendo todo este tiempo?"
+    },
+    "xwdfCg": {
+        "en": "[Kaizel]\n... I've embarrassed myself.",
+        "pt": "[Kaizel]\n... Eu me envergonhei.",
+        "es": "[Kaizel]\n... Me he avergonzado a mí mismo."
+    },
+    "yAdfCg": {
+        "en": "[Kaizel]\nGo to ^4d4Fields in dffSouth Morroc, Southeast Morroc^000000\nand defeat 5 of each: Drops, Picky, and Baby Desert Wolf.",
+        "pt": "[Kaizel]\nVá para ^4d4Fields em dffSouth Morroc, Southeast Morroc^000000\ne derrote 5 de cada: Drops, Picky e Baby Desert Wolf.",
+        "es": "[Kaizel]\nVe al ^4d4Campos en dffSur de Morroc, Sureste de Morroc^000000 y derrota\n5 Drops, 5 Picky y 5 Crías de Lobo de desierto."
+    },
+    "yQdfCg": {
+        "en": "Got it.",
+        "pt": "Entendi.",
+        "es": "Entendido."
+    },
+    "ygdfCg": {
+        "en": "I give up.",
+        "pt": "Eu desisto.",
+        "es": "¡No quiero seguir!"
+    },
+    "ywdfCg": {
+        "en": "[Kaizel]\nYou know where Morroc is, right?\nIf you're not sure, use ^4D4DFFCtrl + `^000000 to open the map and check the location.",
+        "pt": "[Kaizel]\nVocê sabe onde Morroc está, certo?\nSe não tiver certeza, use ^4D4DFFCtrl + `^000000 para abrir o mapa e verificar a localização.",
+        "es": "[Kaizel]\n¿Sabes dónde está Morroc?\nSi no lo sabes, pulsa ^4D4DFFCtrl+'^000000 y verás la ubicación en el mapa."
+    },
+    "zAdfCg": {
+        "en": "[Kaizel]\nIt seems like the quest was very difficult.\nThat means your skills are very weak.\nWell, there's nothing to do be done if you wouldn't do it. It's canceled.",
+        "pt": "[Kaizel]\nParece que a missão foi muito difícil.\nIsso significa que suas habilidades são muito fracas.\nBem, não há nada a ser feito se você não quiser fazer. Ela foi cancelada.",
+        "es": "[Kaizel]\nNervioso, ¿eh?\n¿Ni siquiera puedes hacer eso?\nDemasiado nervioso, decepcionante."
+    },
+    "zQdfCg": {
+        "en": "[Kaizel]\nConfirmed.\nYou did a good job!\nIf you felt a difference, that's a good thing.",
+        "pt": "[Kaizel]\nConfirmado.\nVocê fez um bom trabalho!\nSe você sentiu uma diferença, isso é bom.",
+        "es": "[Kaizel]\n¡Oh, sí!\n¡Bien hecho!\nRealmente lo lograste…"
+    },
+    "zgdfCg": {
+        "en": "[Kaizel]\nTake your time to learn about the elemental properties.\nDon't forget to learn about properties of weapons , too.",
+        "pt": "[Kaizel]\nReserve um tempo para aprender sobre as propriedades elementares.\nNão se esqueça de aprender também sobre as propriedades das armas.",
+        "es": "[Kaizel]\nYa que aprendiste sobre las propiedades…\nCreo que ahora te interesan más estas cosas…"
+    },
+    "zwdfCg": {
+        "en": "[Kaizel]\nThey will be useful for you, so long as you make use of them, that is.\nWhat weapons you select are important, too.",
+        "pt": "[Kaizel]\nElas serão úteis para você, desde que você as utilize.\nAs armas que você escolher também são importantes.",
+        "es": "[Kaizel]\nLos conocimientos te servirán, ya lo verás…\nEs importante tenerlo todo en cuenta al entrar en combate."
+    },
+    "0AdfCg": {
+        "en": "[Kaizel]\nWeapons with specific properties are forged by master ^4D4DFFBlacksmiths^000000.\nIf there's a specific property you'd like a weapon to have, you can locate a Blacksmith and ask them for help.",
+        "pt": "[Kaizel]\nArmas com propriedades específicas são forjadas por mestres ^4D4DFFFerreiros^000000.\nSe houver uma propriedade específica que você gostaria que uma arma tivesse, você pode localizar um ferreiro e pedir ajuda.",
+        "es": "[Kaizel]\nLas armas con propiedades pueden ser creadas por la clase Herrero.\nSi sabes qué tipo de arma quieres, ¡siempre puedes pedirle a un Herrero que te la fabrique!"
+    },
+    "0QdfCg": {
+        "en": "[Kaizel]\nHey, kid.\nAre you ready to enter this world?\nHah, you're brave indeed!",
+        "pt": "[Kaizel]\nEi, garoto.\nVocê está pronto para entrar neste mundo?\nHah, você é realmente corajoso!",
+        "es": "[Kaizel]\n¡Eh, muchacho!\n¿De verdad andas por aquí?\nVaya, eso sí que es ser valiente…"
+    },
+    "0gdfCg": {
+        "en": "[Kaizel]\nFor your Job Change - can you see the people over there with the forms?\nGo ask them.",
+        "pt": "[Kaizel]\nPara sua Mudança de Classe - você consegue ver as pessoas ali com os formulários?\nVá lhes perguntar.",
+        "es": "[Kaizel]\nSolo no te quedes mirando a la gente, ¿eh?\nPodrías tener problemas…"
+    },
+    "0wdfCg": {
+        "en": "[Kaizel]\nWhy do you big folks come here?\nNothing's going to just fall into your hands here.",
+        "pt": "[Kaizel]\nPor que vocês, pessoas grandes, vêm aqui?\nNada vai cair em suas mãos aqui.",
+        "es": "[Kaizel]\n¿Por qué hay tanta gente aquí?\nEstoy un poco confundido por toda esta gente…"
+    },
+    "1AdfCg": {
+        "en": "[Kaizel]\nSince you're here, why don't you help to train some of the newcomers?\nGive them a hand, maybe teach them a thing or two.",
+        "pt": "[Kaizel]\nJá que você está aqui, por que não ajuda a treinar alguns dos recém-chegados?\nAjude-os, talvez lhes ensine uma ou duas coisas.",
+        "es": "[Kaizel]\nSi quieres, puedes entrenar aquí.\nQuizá un novato pueda enseñarme algo… Ja, ja, ja."
+    },
+    "1QdfCg": {
+        "en": "[Kaizel]\nWhy should people of other professions be here?\nThis isn't a playground.",
+        "pt": "[Kaizel]\nPor que pessoas de outras profissões deveriam estar aqui?\nIsso não é um playground.",
+        "es": "[Kaizel]\n¿Por qué hay tanta gente aquí?\n¡Esta no es la casa de la Madre Joana!"
+    },
+    "1gdfCg": {
+        "en": "Odd Jobs Board",
+        "pt": "Quadro de biscates",
+        "es": "Tablón de Trabajos Variados"
+    },
+    "1wdfCg": {
+        "en": "Quiet Annihilation Plan",
+        "pt": "Plano de aniquilação silenciosa",
+        "es": "Un exterminio silencioso."
+    },
+    "2AdfCg": {
+        "en": "^4D4DFFBid for a Silent Slaying - In Progress^000000",
+        "pt": "^4D4DFFLicitação para um Silent Slaying - Em andamento^000000",
+        "es": "^4D4DFFUn exterminio silencioso: en curso.^000000"
+    },
+    "2QdfCg": {
+        "en": "^FF88A7Quest complete!^000000",
+        "pt": "^FF88A7Quest complete!^000000",
+        "es": "^FF88A7¡Misión cumplida!^000000"
+    },
+    "2gdfCg": {
+        "en": "Memorable Thief Mushroom",
+        "pt": "Cogumelo Ladrão Memorável",
+        "es": "Sopa de hongos."
+    },
+    "2wdfCg": {
+        "en": "^4D4DFFMemorable Mushroom Soup - In Progress^000000",
+        "pt": "^4D4DFFSopa de cogumelos memorável - Em andamento^000000",
+        "es": "^4D4DFFSopa de hongos: en curso.^000000"
+    },
+    "3AdfCg": {
+        "en": "^FF88A7Quest complete!^000000",
+        "pt": "^FF88A7Quest complete!^000000",
+        "es": "^FF88A7¡Misión cumplida!^000000"
+    },
+    "3QdfCg": {
+        "en": "Go to Eden.",
+        "pt": "Ir para o Éden.",
+        "es": "¡Al Grupo de Edén!"
+    },
+    "3gdfCg": {
+        "en": "^4D4DFFGo to Eden - In Progress^000000",
+        "pt": "^4D4DFFGo to Eden - Em andamento^000000",
+        "es": "^4D4DFF¡Al Grupo de Edén!: en curso.^000000"
+    },
+    "3wdfCg": {
+        "en": "^FF88A7Quest complete!^000000",
+        "pt": "^FF88A7Quest complete!^000000",
+        "es": "^FF88A7¡Misión cumplida!^000000"
+    },
+    "4AdfCg": {
+        "en": "The Mighty Pumpkin Knight!",
+        "pt": "O poderoso cavaleiro das abóboras!",
+        "es": "Gloriosos Ambarnitos."
+    },
+    "4QdfCg": {
+        "en": "^4D4DFFThe Mighty Pumpkin Knight - In Progress^000000",
+        "pt": "^4D4DFFThe Mighty Pumpkin Cavaleiro - Em andamento^000000",
+        "es": "^4D4DFFGloriosos Ambarnitos: en curso.^000000"
+    },
+    "4gdfCg": {
+        "en": "^FF88A7Quest complete!^000000",
+        "pt": "^FF88A7Quest complete!^000000",
+        "es": "^FF88A7¡Misión cumplida!^000000"
+    },
+    "4wdfCg": {
+        "en": "17 against 1",
+        "pt": "17 contra 1",
+        "es": "Todos contra uno."
+    },
+    "5AdfCg": {
+        "en": "^4D4DFF17 against 1 - In Progress^000000",
+        "pt": "^4D4DFF17 contra 1 - Em andamento^000000",
+        "es": "^4D4DFFTodos contra uno: en curso.^000000"
+    },
+    "5QdfCg": {
+        "en": "^FF88A7Quest complete!^000000",
+        "pt": "^FF88A7Quest complete!^000000",
+        "es": "^FF88A7¡Misión cumplida!^000000"
+    },
+    "5gdfCg": {
+        "en": "Purify Mushroom Farm",
+        "pt": "Purify Mushroom Farm (Fazenda de Cogumelos Purificados)",
+        "es": "Limpieza de la Granja de hongos."
+    },
+    "5wdfCg": {
+        "en": "^4D4DFFMushroom Farm Cleanup - In Progress^000000",
+        "pt": "^4D4DFFLimpeza da fazenda de cogumelos - Em andamento^000000",
+        "es": "^4D4DFFLimpieza de la Granja de hongos: en curso.^000000"
+    },
+    "6AdfCg": {
+        "en": "^FF88A7Quest complete!^000000",
+        "pt": "^FF88A7Quest complete!^000000",
+        "es": "^FF88A7¡Misión cumplida!^000000"
+    },
+    "6QdfCg": {
+        "en": "- List of Odd Jobs for Rookies -\n1. Pick anything and give it a shot.\n2. Maybe it will suit your skills. Maybe not.\n3. The completion report is on the board!\n4. We did all of this at your age, too.\n5. Probably...",
+        "pt": "- Lista de trabalhos estranhos para aprendizes -\n1. Escolha qualquer coisa e faça uma tentativa.\n2. Talvez seja adequado às suas habilidades. Talvez não.\n3. O relatório de conclusão está no quadro!\n4. Nós também fizemos tudo isso quando tínhamos sua idade.\n5. Provavelmente...",
+        "es": "Lista de misiones fáciles.\n¡Elige tu misión fácil!\n¡Es fácil y te da recompensas!\n¿Qué esperas?"
+    },
+    "6gdfCg": {
+        "en": "Quit",
+        "pt": "Sair",
+        "es": "Salir"
+    },
+    "6wdfCg": {
+        "en": "[Quest Details]\nFamiliars are so annoying.\nVery unlikeable.\nSo I'm going to expel them all.\nBut the higher ups say they don't want to make things look awkward.\nSo let's just get rid of them one by one!\n          - Roux (alias)",
+        "pt": "[Detalhes da missão]\nOs familiares são tão irritantes.\nMuito desagradáveis.\nPor isso, vou expulsar todos eles.\nMas os superiores dizem que não querem que as coisas pareçam estranhas.\nEntão, vamos nos livrar deles um por um!\n- Roux (pseudônimo)",
+        "es": "[Detalles de la misión]\nAlguien está molesto…\nY en una situación desfavorable…\nPor eso, es necesario un exterminio…\nOdio tener que pedirte esto…\n¡Pero guarda discreción!\n-Anónimo."
+    },
+    "7AdfCg": {
+        "en": "[Quest List]\n^4D4DFFDefeat 1 Familiar^000000 blocking the path in Pyramid Dungeon 1F.",
+        "pt": "[Lista de Missões]\n^4D4DFFDerrote 1 Familiar^000000 que esteja bloqueando o caminho no Pyramid Dungeon 1F.",
+        "es": "[Objetivos de la misión]\nDerrota a ^4D4DFF1 Familiar^000000 que bloquea el camino en la Mazmorra de la Pirámide 1F."
+    },
+    "7QdfCg": {
+        "en": "Reward: EXP 3,000, JEXP 800\n*Recommended for level 18 and above",
+        "pt": "Recompensa: EXP 3.000, JEXP 800\n*Recomendado para o nível 18 e acima",
+        "es": "Recompensa: 3000 de EXP, 800 de EXP de clase.\nNivel superior a 18 recomendado."
+    },
+    "7gdfCg": {
+        "en": "Accept quest.",
+        "pt": "Aceitar a missão.",
+        "es": "Aceptar la misión."
+    },
+    "7wdfCg": {
+        "en": "Reject quest.",
+        "pt": "Rejeitar busca.",
+        "es": "No aceptar la misión."
+    },
+    "8AdfCg": {
+        "en": "You agree to complete the quest.\nThe completion report will be available on the board.",
+        "pt": "Você concorda em concluir a missão.\nO relatório de conclusão estará disponível no quadro.",
+        "es": "Aceptas completar la misión.\nRepórtate en el tablero de misiones fáciles."
+    },
+    "8QdfCg": {
+        "en": "You'll complete the quest the next time.",
+        "pt": "Você concluirá a missão na próxima vez.",
+        "es": "Completarás la misión la próxima vez."
+    },
+    "8gdfCg": {
+        "en": "You completed the Bid for a Silent Slaying quest.",
+        "pt": "Você concluiu a missão Bid for a Silent Slaying.",
+        "es": "Un exterminio silencioso: misión cumplida."
+    },
+    "8wdfCg": {
+        "en": "Continue.",
+        "pt": "Continue.",
+        "es": "Continuar."
+    },
+    "9AdfCg": {
+        "en": "Give up.",
+        "pt": "Desistir.",
+        "es": "Renunciar."
+    },
+    "9QdfCg": {
+        "en": "Quest is currently in progress.",
+        "pt": "A Quest está em andamento no momento.",
+        "es": "Misión en curso."
+    },
+    "9gdfCg": {
+        "en": "You've abandoned the quest.",
+        "pt": "Você abandonou a busca.",
+        "es": "¡Renunciaste a la misión!"
+    },
+    "9wdfCg": {
+        "en": "You have already completed this quest.",
+        "pt": "Você já concluiu essa missão.",
+        "es": "Ya has completado esta misión."
+    },
+    "+AdfCg": {
+        "en": "[Quest Details]\nSometimes, I feel like having mushroom soup, but I don't dig for mushrooms anymore.\nAnything is fine, so please bring me some mushrooms from the mushroom farm.\n     - Shay",
+        "pt": "[Detalhes da missão]\nÀs vezes, tenho vontade de tomar sopa de cogumelos, mas não procuro mais cogumelos.\nQualquer coisa serve, então, por favor, traga-me alguns cogumelos da fazenda de cogumelos.\n- Shay",
+        "es": "[Detalles de la misión]\nA veces me dan ganas de comer hongos…\nSi pudieras conseguirme algunos, ¡sería estupendo!\n-Anónimo."
+    },
+    "+QdfCg": {
+        "en": "[Quest List]\n^4D4DFF3 Orange Gooey Mushrooms^000000 harvested from the mushroom farm\nAsk ^4D4DFFMash of the Oasis^000000 for information on the farm's location.\nReward: Exp 3,000 JEXP 500",
+        "pt": "[Lista de Missões]\n^4D4DFF3 Orange Gooey Mushrooms^000000 colhidos na fazenda de cogumelos\nPeça informações sobre a localização da fazenda a ^4D4DFFMash of the Oasis^000000.\nRecompensa: Exp 3.000 JEXP 500",
+        "es": "[Detalles de la misión]\n^4D4DFF3 Hongos pegajosas naranjas^000000 recogidas en la granja de hongos.\nPide a ^4D4DFFTed Ado del Oasis^000000 información sobre la ubicación de la granja.\nRecompensa: 3000 de EXP, 500 de EXP de clase."
+    },
+    "+gdfCg": {
+        "en": "[Lumin]\nDo you know where the mushroom farm is?\nIn the small oasis in front of the pyramid...\nThere you can find ^4D4DFFBored Mash on the southern bank^000000.",
+        "pt": "[Rumin]\nVocê sabe onde fica a fazenda de cogumelos?\nNo pequeno oásis em frente à pirâmide...\nLá você pode encontrar ^4D4DFFBored Mash na margem sul^000000.",
+        "es": "[Rumin]\n¿Sabes dónde está la Granja de hongos?\nHay un pequeño oasis frente a la pirámide…\nBusca a Ted Ado, él te ayudará…"
+    },
+    "+wdfCg": {
+        "en": "[Lumin]\nThere are many insects in the mushroom farm.\nThey get excited and go on all out attack when they see people.\nThey're famished, so there may be bloodshed.",
+        "pt": "[Rumin]\nHá muitos insetos na fazenda de cogumelos.\nEles ficam empolgados e atacam com toda a força quando veem pessoas.\nEles estão famintos, então pode haver derramamento de sangue.",
+        "es": "[Rumin]\nLa granja está llena de insectos.\nAtacan inmediatamente…\nPuede haber sangre y desesperación…"
+    },
+    "/AdfCg": {
+        "en": "You completed the Memorable Mushroom Soup quest.",
+        "pt": "Você concluiu a missão Memorable Mushroom Soup (Sopa de cogumelos memorável).",
+        "es": "Sopa de hongos: misión cumplida."
+    },
+    "/QdfCg": {
+        "en": "[Quest Details]\nSometimes, I feel like having mushroom soup, but I don't dig for mushrooms anymore.\nAnything is fine, so please bring me some mushrooms from the mushroom farm.\n     - Kai",
+        "pt": "[Detalhes da missão]\nÀs vezes, tenho vontade de tomar sopa de cogumelos, mas não procuro mais cogumelos.\nQualquer coisa serve, então, por favor, traga-me alguns cogumelos da fazenda de cogumelos.\n- Kai",
+        "es": "[Detalles de la misión]\nA veces me dan ganas de comer hongos…\nSi pudieras conseguirme algunos, ¡sería estupendo!\n-Anónimo."
+    },
+    "/gdfCg": {
+        "en": "[Quest Details]\nGo to Eden Group.\nGo twice!",
+        "pt": "[Detalhes da missão]\nVá para o Grupo Eden.\nVá duas vezes!",
+        "es": "[Detalles de la misión]\n¡Al Grupo de Edén!\n¡Date prisa!"
+    },
+    "/wdfCg": {
+        "en": "What is this?",
+        "pt": "O que é isso?",
+        "es": "¿Qué es eso?"
+    },
+    "AAhfCg": {
+        "en": "[Lumin]\nEden Group made a list of various quality quests.\nMy plan is to use that list to train the newcomers.",
+        "pt": "[Rumin]\nO Grupo Eden fez uma lista de várias missões de qualidade.\nMeu plano é usar essa lista para treinar os recém-chegados.",
+        "es": "[Rumin]\nEnumeré varias de las misiones del Grupo de Edén.\nPienso usarlas como entrenamiento."
+    },
+    "AQhfCg": {
+        "en": "[Lumin]\nEden Group Teleport Service is available in all big cities. It's even open in front of the Pyramid.\nGo easy.",
+        "pt": "[Rumin]\nO serviço de teletransporte do Grupo Eden está disponível em todas as grandes cidades. Ele está aberto até mesmo em frente à Pirâmide.\nVá com calma.",
+        "es": "[Rumin]\nPor suerte, el portal al Grupo de Edén está en el gremio de Ladrones.\n¡Puedes llegar fácilmente!"
+    },
+    "AghfCg": {
+        "en": "Accept.",
+        "pt": "Aceitar.",
+        "es": "Aceptar."
+    },
+    "AwhfCg": {
+        "en": "Ignore.",
+        "pt": "Ignorar.",
+        "es": "Ignorar"
+    },
+    "BAhfCg": {
+        "en": "[Lumin]\nAh... I accepted it, but nothing happened.",
+        "pt": "[Rumin]\nAh... eu aceitei, mas nada aconteceu.",
+        "es": "[Rumin]\nAh... Acepté, pero no pasó nada."
+    },
+    "BQhfCg": {
+        "en": "[Lumin]\nThis quest...\nShould be undertaken by those below level 20.",
+        "pt": "[Rumin]\nEssa missão...\nDeve ser realizada por aqueles abaixo do nível 20.",
+        "es": "[Rumin]\nEsta mision...\nDebe ser realizado por aquellos por debajo del nivel 20."
+    },
+    "BghfCg": {
+        "en": "You decide to ignore the quest.",
+        "pt": "Você decide ignorar a missão.",
+        "es": "Parece que decidiste hacerlo más tarde…"
+    },
+    "BwhfCg": {
+        "en": "[Lumin]\n... Huh? You're going to give up?\nSomehow, I'm relieved, but sad too...",
+        "pt": "[Rumin]\n... Hã? Você vai desistir?\nDe alguma forma, estou aliviado, mas também triste...",
+        "es": "[Rumin]\n... ¿Eh? ¿Te vas a rendir?\nDe alguna manera me siento aliviado, pero también triste..."
+    },
+    "CAhfCg": {
+        "en": "[Lumin]\nI see you're still not done.",
+        "pt": "[Rumin]\nVejo que você ainda não terminou.",
+        "es": "[Rumin]\nVeo que aun no has terminado."
+    },
+    "CQhfCg": {
+        "en": "[Quest Details]\nHow have you been, lads?\nThe rascal I'll introduce to you today is one of the strongest knights the world has ever seen!\nIt's Ambernite!\nIt will be a long journey. Getting out of the desert will be hard enough.\nGood luck!",
+        "pt": "[Detalhes da missão]\nComo vocês têm passado, rapazes?\nO patife que vou apresentar a vocês hoje é um dos cavaleiros mais fortes que o mundo já viu!\nÉ Ambernite!\nSerá uma longa jornada. Sair do deserto já será bastante difícil.\nBoa sorte!",
+        "es": "[Detalles de la misión]\nEspero que estés preparado…\n¡Este será el mayor reto de tu vida!\n¡Derrota al Ambarnito!\nSerá un largo viaje…\n¡Buena suerte!\n-Anónimo."
+    },
+    "CghfCg": {
+        "en": "- Master Thief Hohenhulhogh",
+        "pt": "- Mestre Ladrão Hohenhulhogh",
+        "es": "- Maestro Ladrón Hohenhulhogh"
+    },
+    "CwhfCg": {
+        "en": "[Quest List]\n^4D4DFFDefeat 10 Ambernite^000000 living in the west of Prontera.\nReward: Exp 3,000 JEXP 1,000\n*Recommended for level 15-20",
+        "pt": "[Lista de Missões]\n^4D4DFFDerrote 10 Ambernitas^000000 que vivem no oeste de Prontera.\nRecompensa: Exp 3.000 JEXP 1.000\n*Recomendado para o nível 15-20",
+        "es": "[Lista de misión]\n^4D4DFFDerrota a 10 Ambernitos^000000 que viven al oeste de Prontera.\nRecompensa: 3000 de EXP, 1000 de EXP de clase.\nNivel 15 a 20 recomendado."
+    },
+    "DAhfCg": {
+        "en": "[Lumin]\nIsn't Hohenhulhogh the legendary master thief?\nLegend has it that he uses seven daggers with perfect mastery.",
+        "pt": "[Rumin]\nHohenhulhogh não é o lendário mestre ladrão?\nDiz a lenda que ele usa sete punhais com perfeita maestria.",
+        "es": "[Rumin]\n¿No es Hohenhulhogh el legendario maestro ladrón?\nCuenta la leyenda que maneja siete dagas con perfecta maestría."
+    },
+    "DQhfCg": {
+        "en": "[Lumin]\nWill you accept it?",
+        "pt": "[Rumin]\nVocê aceitará?",
+        "es": "[Rumin]\n¿Aceptas?"
+    },
+    "DghfCg": {
+        "en": "[Lumin]\nLet me tell you a few things to watch out for:\nFirst, you'll have to ^4D4DFFgo to Prontera^000000.",
+        "pt": "[Rumin]\nVou lhe dizer algumas coisas com as quais você deve tomar cuidado:\nPrimeiro, você terá que ^4D4DFF ir para Prontera^000000.",
+        "es": "[Rumin]\nEntonces necesito decirte algunas cosas…\nCómo llegar a Prontera es una de ellas…"
+    },
+    "DwhfCg": {
+        "en": "[Lumin]\nYou could call it Escape from Morroc.\nAs you know, the area around Morroc is dangerous, so access is restricted.",
+        "pt": "[Rumin]\nVocê poderia chamá-lo de Escape from Morroc (Fuga de Morroc).\nComo você sabe, a área ao redor de Morroc é perigosa, portanto o acesso é restrito.",
+        "es": "[Rumin]\nPodrías llamarlo Fuga de Morroc.\nComo sabes, la zona alrededor de Morroc es peligrosa, así que el acceso está restringido."
+    },
+    "EAhfCg": {
+        "en": "[Lumin]\nThe desert can no longer be crossed on foot.\nSo you'll have to avail the Kafra Teleport Service.",
+        "pt": "[Rumin]\nO deserto não pode mais ser atravessado a pé.\nPortanto, você terá que usar o serviço de teletransporte de Kafra.",
+        "es": "[Rumin]\nEl desierto ya no se puede atravesar a pie.\nPor lo tanto, tendrás que usar el servicio de teletransporte de Kafra"
+    },
+    "EQhfCg": {
+        "en": "[Lumin]\nOnce you get to Prontera, go out of the ^4D4DFFWest Gate^000000.\nIt's far, but if you keep going west, you'll find a large snail.",
+        "pt": "[Rumin]\nQuando você chegar a Prontera, saia pelo ^4D4DFFWest Gate^000000.\nÉ longe, mas se você continuar indo para o oeste, encontrará um caracol grande.",
+        "es": "[Rumin]\nCuando llegues a Prontera, ve a la entrada oeste.\nSal por la puerta y sigue avanzando hasta que veas un gran caracol."
+    },
+    "EghfCg": {
+        "en": "[Lumin]\nThat's Ambernite.\n... There's a rumor that he was once a Knight of Abyss and a worthy opponent, but I don't know if its true...",
+        "pt": "[Rumin]\nIsso é Ambernite.\n... Há um boato de que ele já foi um Cavaleiro do Abismo e um oponente digno, mas não sei se é verdade...",
+        "es": "[Rumin]\nEs Ambarnito.\nCuenta la leyenda que a veces se despojaba de su caparazón y se convertía en un monstruo gigante…"
+    },
+    "EwhfCg": {
+        "en": "[Lumin]\nBe safe.\nIf you run into me, I'll help you.",
+        "pt": "[Rumin]\nFique em segurança.\nSe você me encontrar, eu o ajudarei.",
+        "es": "[Rumin]\nPues, ¡buena suerte!\nSi vuelves a verme, te daré algunas indicaciones."
+    },
+    "FAhfCg": {
+        "en": "You completed The Mighty Pumpkin Knight quest.",
+        "pt": "Você concluiu a missão The Mighty Pumpkin Cavaleiro.",
+        "es": "Gloriosos Ambarnitos: misión cumplida."
+    },
+    "FQhfCg": {
+        "en": "[Quest List]\n^4D4DFFDefeat 10 Ambernite^000000 living in the west of Prontera.",
+        "pt": "[Lista de Missões]\n^4D4DFFDerrote 10 Ambernitas^000000 que vivem no oeste de Prontera.",
+        "es": "[Objetivos de la misión]\nDerrota a ^4D4DFF10 Ambarnitos^000000 que viven al oeste de Prontera."
+    },
+    "FghfCg": {
+        "en": "Reward: Exp 3,000 JEXP 1,000\n*Recommended for level 15-20",
+        "pt": "Recompensa: Exp 3.000 JEXP 1.000\n*Recomendado para o nível 15-20",
+        "es": "Recompensa: 3000 de EXP, 1000 de EXP de clase.\nNivel 15 a 20 recomendado."
+    },
+    "FwhfCg": {
+        "en": "[Lumin]\nAmbernite ^4D4DFFinhabits the Far West Field of Prontera^000000.\nFirst, go to ^4D4DFFProntera using the Kafra Teleport Service^000000.",
+        "pt": "[Rumin]\nAmbernite ^4D4DFFhabita o Campo do Extremo Oeste de Prontera^000000.\nPrimeiro, vá até ^4D4DFFProntera usando o Serviço de Teleporte de Kafra^000000.",
+        "es": "[Rumin]\nAmbernito ^4D4DFFhabita en el Campo del Lejano Oeste de Prontera^000000.\nPrimero, ve a ^4D4DFFProntera usando el Servicio de Teletransporte de Kafra^000000»"
+    },
+    "GAhfCg": {
+        "en": "[Lumin]\nAfter exiting through the west exit of Prontera, proceed straight until you see the snail.\nHmm...",
+        "pt": "[Rumin]\nDepois de sair pela saída oeste de Prontera, siga em frente até ver o caracol.\nHmm...",
+        "es": "[Rumin]\nSigue hacia el oeste y te encontrarás con los Ambarnitos…\n…"
+    },
+    "GQhfCg": {
+        "en": "[Lumin]\nWe'll work together if you are lucky enough to run into me.",
+        "pt": "[Rumin]\nTrabalharemos juntos se você tiver a sorte de me encontrar.",
+        "es": "[Rumin]\nSi vuelves a verme, te daré algunas indicaciones."
+    },
+    "GghfCg": {
+        "en": "[Quest Details]\nOn a day when the sandy winds were gushing strong,\namidst the sprayed sand,\nI faced my enemies.\n17 of the vile beasts!\nI lost the battle,\nand the memory of my defeat tastes bitter.",
+        "pt": "[Detalhes da missão]\nEm um dia em que os ventos arenosos estavam soprando forte,\nem meio à areia pulverizada,\nenfrentei meus inimigos.\n17 das bestas vis!\nPerdi a batalha,\ne a lembrança de minha derrota tem um gosto amargo.",
+        "es": "[Detalles de la misión]\nEn medio de una tormenta de arena…\nCuando no podías ver nada a tu alrededor…\nMe rodearon los enemigos…\nUnos 17 de ellos me amenazaron.\nObviamente perdí…\nFue una buena derrota… Quiero decir, recuerdo."
+    },
+    "GwhfCg": {
+        "en": "[Quest List]\n^4D4DFFDefeat 17 Scorpions^000000.\nArea: South Morroc - South Field",
+        "pt": "[Lista de Missões]\n^4D4DFFDerrote 17 Escorpiões^000000.\nÁrea: Morroc Sul - Campo Sul",
+        "es": "[Objetivos de la misión]\n^4D4DFFDerrota a 17 Escorpiones^000000.\nUbicación: sur de Morroc."
+    },
+    "HAhfCg": {
+        "en": "Reward: Exp 3,000 JEXP 1,000\n*Must be level 17 or up",
+        "pt": "Recompensa: Exp 3.000 JEXP 1.000\n*Deve estar no nível 17 ou superior",
+        "es": "Recompensa: 3000 de EXP, 1000 de EXP de clase.\nNivel superior a 17 recomendado."
+    },
+    "HQhfCg": {
+        "en": "[Lumin]\nScorpions are found in Morroc's far south\nas well as in the south and east.",
+        "pt": "[Rumin]\nOs escorpiões são encontrados no extremo sul de Morroc\nbem como no sul e no leste.",
+        "es": "[Rumin]\nSon los campos situados al sur de Morroc.\nTambién hay Escorpiones un poco al este del sur de Morroc, así que quizá quieras mirar allí también."
+    },
+    "HghfCg": {
+        "en": "[Lumin]\nBe alert to them forming groups and striking first.\nAnd make sure you have enough potions.",
+        "pt": "[Rumin]\nFique atento ao fato de eles formarem grupos e atacarem primeiro.\nE certifique-se de que você tenha poções suficientes.",
+        "es": "[Rumin]\nCuidado, ¡suelen ir en grupo! ¡Así me atraparon!\n¡Lleva pociones y prepárate bien!"
+    },
+    "HwhfCg": {
+        "en": "[Lumin]\nIt's good that you are eager, but that quest is only available for those of level 17 and higher.\nEven if you accept the quest now, you'll only face death.",
+        "pt": "[Rumin]\nÉ bom que você esteja ansioso, mas essa missão só está disponível para aqueles de nível 17 ou superior.\nMesmo que você aceite a missão agora, você só enfrentará a morte.",
+        "es": "[Rumin]\nEs bueno que estés ansioso, pero esta misión sólo está disponible para aquellos superior a nivel 17.\nIncluso si aceptas la misión ahora, sólo te enfrentarás a la muerte."
+    },
+    "IAhfCg": {
+        "en": "Quest completed: 17 Against 1.",
+        "pt": "Missão concluída: 17 Contra 1.",
+        "es": "Todos contra uno: misión cumplida."
+    },
+    "IQhfCg": {
+        "en": "[Quest List]\nDefeat 17 Scorpions.\nArea: South Morroc - South Field",
+        "pt": "[Lista de missões]\nDerrote 17 escorpiões.\nÁrea: Morroc Sul - Campo Sul",
+        "es": "[Objetivos de la misión]\n^4D4DFFDerrota a 17Escorpiones^000000.\nUbicación: sur de Morroc."
+    },
+    "IghfCg": {
+        "en": "[Lumin]\nYou know the location, right?\nIf you don't know, open the map using ^4D4DFFCtrl + `^000000 and check it out.",
+        "pt": "[Rumin]\nVocê sabe a localização, certo?\nSe não souber, abra o mapa usando ^4D4DFFCtrl + `^000000 e dê uma olhada.",
+        "es": "[Rumin]\n¿Ya conoces el lugar?\nSi no sabes dónde está, pulsa ^4D4DFFCtrl+'^000000 y lo verás en el mapa."
+    },
+    "IwhfCg": {
+        "en": "[Lumin]\nSouth Morroc, South Field\nThey seem to be in the south and east regions, but go where you'd like.",
+        "pt": "[Rumin]\nMorroc Sul, Campo Sul\nEles parecem estar nas regiões sul e leste, mas vá para onde quiser.",
+        "es": "[Rumin]\nMorroc Sur, Campo Sur\nParece que están en las regiones sur y este, pero ve donde quieras."
+    },
+    "JAhfCg": {
+        "en": "[Quest Details]\nMore people have been visiting the mushroom farm lately.\nBut there are still many insects.\nThey're very rude and bad-tempered insects. Help me eliminate them.\n     - Bored Mash",
+        "pt": "[Detalhes da missão]\nMais pessoas têm visitado a fazenda de cogumelos ultimamente.\nMas ainda há muitos insetos.\nSão insetos muito rudes e mal-humorados. Ajude-me a eliminá-los.\n- Mash entediado",
+        "es": "[Detalles de la misión]\nMucha gente visita la Granja de hongos.\nY siempre hay insectos ahí…\nPor favor, ¡deshazte de estos insectos!\n-Anónimo."
+    },
+    "JQhfCg": {
+        "en": "[Quest List]\n^4D4DFFDefeat 10 Chonchon and Fabre at the Mushroom Farm^000000",
+        "pt": "[Lista de Missões]\n^4D4DFFDerrote 10 Chonchon e Fabre na Fazenda de Cogumelos^000000",
+        "es": "[Lista de misión]\n^4D4DFFDerrota a 10 Chonchon y Fabre en la Granja de Hongos^000000."
+    },
+    "JghfCg": {
+        "en": "Reward: Exp 3,000 JEXP 1,000",
+        "pt": "Recompensa: Exp 3.000 JEXP 1.000",
+        "es": "Recompensa: 3000 de EXP, 1000 de EXP de clase."
+    },
+    "JwhfCg": {
+        "en": "[Lumin]\nI see. You intend to accept that quest.\nThey're not exactly threatening, but then they're not like the Chonchon and Fabre in other regions.\nIt has to be the Chonchon and Fabre at the mushroom farm.",
+        "pt": "[Rumin]\nEstou vendo. Você pretende aceitar essa missão.\nEles não são exatamente ameaçadores, mas também não são como os Chonchon e Fabre em outras regiões.\nTem que ser o Chonchon e o Fabre da fazenda de cogumelos.",
+        "es": "[Rumin]\nYa veo. Tienes intención de aceptar esta misión.\nNo son exactamente amenazadores, pero tampoco son como los Chonchon y Fabre de otras regiones.\nTienen que ser los Chonchon y Fabre de la granja de hongos."
+    },
+    "KAhfCg": {
+        "en": "[Lumin]\nIf you want to reach the mushroom farm,\nin the small oasis in front of the pyramid...\nThere's um... <NAVI>[Bored Mash]<INFO>moc_ruins,85,142,101,0</INFO></NAVI> there.",
+        "pt": "[Rumin]\nSe você quiser chegar à fazenda de cogumelos,\nno pequeno oásis em frente à pirâmide...\nHá um... <NAVI>[Bored Mash]<INFO>moc_ruins,85,142,101,0</INFO></NAVI> lá.",
+        "es": "[Rumin]\nSi quieres llegar a la granja de setas,\nen el pequeño oasis frente a la pirámide...\nHay un... <NAVI>[Ted Ado]<INFO>moc_ruins,85,142,101,0</INFO></NAVI> allí."
+    },
+    "KQhfCg": {
+        "en": "[Lumin]\nSince it's Mash's quest, Mash will send you there.\nWhen you're finished, you're supposed to write a report on the board, here.",
+        "pt": "[Rumin]\nComo essa é a missão do Mash, ele o enviará para lá.\nQuando terminar, você deve escrever um relatório no quadro, aqui.",
+        "es": "[Rumin]\nComo esta es la misión de Ted Ado, él te enviará allí.\nCuando termines, debes escribir un informe en el tablón de aquí."
+    },
+    "KghfCg": {
+        "en": "Quest completed: Mushroom Farm Cleanup.",
+        "pt": "Missão concluída: Limpeza da fazenda de cogumelos.",
+        "es": "Limpieza de la Granja de hongos: misión cumplida."
+    },
+    "KwhfCg": {
+        "en": "You decide to look again later.",
+        "pt": "Você decide dar uma olhada novamente mais tarde.",
+        "es": "Parece que decidiste hacerlo más tarde…"
+    },
+    "LAhfCg": {
+        "en": "This is the Mission Board run by the Thief Guild.",
+        "pt": "Este é o Mission Board administrado pela Thief Guild.",
+        "es": "Este es un tablero de misiones del gremio de Ladrones."
+    },
+    "LQhfCg": {
+        "en": "[Lumin]\nAre you looking for the Thief Guild?\nWant me to tell you where to find them?",
+        "pt": "[Rumin]\nEstá procurando a Guilda dos Ladrões?\nQuer que eu lhe diga onde encontrá-los?",
+        "es": "[Rumin]\n¿Estás buscando el gremio de Ladrones?\n¿Debería decirte dónde está?"
+    },
+    "LghfCg": {
+        "en": "Yes please.",
+        "pt": "Sim, por favor.",
+        "es": "Si, por favor."
+    },
+    "LwhfCg": {
+        "en": "[Lumin]\nDisplay on minimap.\nSince it's located right in the middle,\nyou won't get lost as long as you follow the map closely.",
+        "pt": "[Rumin]\nExibição no minimapa.\nComo ele está localizado bem no meio,\nvocê não se perderá, desde que siga o mapa de perto.",
+        "es": "[Rumin]\nDe acuerdo, lo marqué en tu minimapa… \nEstá justo en el centro…\nSi te fijas bien, ¡no te perderás!"
+    },
+    "MAhfCg": {
+        "en": "[Lumin]\nSure.\nOkay.",
+        "pt": "[Rumin]\nClaro.\nEstá bem.",
+        "es": "[Rumin]\nClaro.\nDe acuerdo."
+    },
+    "MQhfCg": {
+        "en": "Bored Mash",
+        "pt": "Bored Mash",
+        "es": "Mash Aburrido"
+    },
+    "MghfCg": {
+        "en": "[Mash]\nWhat's wrong?",
+        "pt": "[Mash]\nO que há de errado?",
+        "es": "[Ted Ado]\n¿Qué necesitas?"
+    },
+    "MwhfCg": {
+        "en": "Where is the mushroom farm?",
+        "pt": "Onde fica a fazenda de cogumelos?",
+        "es": "Guíame a la Granja de hongos."
+    },
+    "NAhfCg": {
+        "en": "It's nothing.",
+        "pt": "Não é nada.",
+        "es": "No necesito nada."
+    },
+    "NQhfCg": {
+        "en": "[Mash]\nHuh? A farm?\nThere's been no reason to go there recently...\nAh, you got my quest.",
+        "pt": "[Mash]\nHã? Uma fazenda?\nNão há motivos para ir até lá recentemente...\nAh, você conseguiu minha missão.",
+        "es": "[Ted Ado]\nMm… ¿Granja?\nNadie busca la Granja de hongos últimamente…\nAh, tienes una misión, ¿no?"
+    },
+    "NghfCg": {
+        "en": "[Mash]\nFabre and Chonchon are a little tough. Will you be comfortable?\nThis place is a little dangerous, as it was previously used for the Thief Job Change exam.",
+        "pt": "[Mash]\nFabre e Chonchon são um pouco difíceis. Você se sentirá confortável?\nEste lugar é um pouco perigoso, pois foi usado anteriormente para o exame de Mudança de Classe de ladrão.",
+        "es": "[Ted Ado]\nFabre y Chonchon son un poco difíciles. ¿Te sentirás cómodo?\nEste lugar es un poco peligroso ya que antes se usaba para el examen de Cambio de Clase de Ladrón."
+    },
+    "NwhfCg": {
+        "en": "[Mash]\nPlease come back successfully and quickly.\nI'll send you now.",
+        "pt": "[Mash]\nPor favor, volte com sucesso e rapidamente.\nEu o enviarei agora.",
+        "es": "[Ted Ado]\nBueno, termínalo tan rápido como puedas.\nTe enviaré allá."
+    },
+    "OAhfCg": {
+        "en": "[Mash]\nBland?",
+        "pt": "[Mash]\nSem graça?",
+        "es": "[Ted Ado]\nQué aburrido…"
+    },
+    "OQhfCg": {
+        "en": "[Mash]\nI'm bored. I'm so very bored.\nIt's obvious that everyone has forgotten about the mushroom farm!",
+        "pt": "[Mash]\nEstou entediado. Estou muito entediado.\nÉ óbvio que todos se esqueceram da fazenda de cogumelos!",
+        "es": "[Ted Ado]\nMm… ¿ayudar a Morroc?\nEstoy muy aburrido…"
+    },
+    "OghfCg": {
+        "en": "[Rumin]\n...  .. .\nHere's your reward.\n... Don't accept these kinds of quests next time... They're exhausting.",
+        "pt": "[Rumin]\n... .. .\nAqui está sua recompensa.\n... Não aceite esse tipo de missão da próxima vez... Elas são exaustivas.",
+        "es": "[Rumin]\n…\nAquí está la recompensa de la misión.\nLa próxima vez no tardes tanto…"
+    },
+    "OwhfCg": {
+        "en": "[Rumin]\nSince you accepted that quest, I had to hide and wait for you to return.",
+        "pt": "[Rumin]\nDesde que você aceitou essa missão, tive que me esconder e esperar que você voltasse.",
+        "es": "[Rumin]\nDesde que aceptaste la misión, evité estar al descubierto hasta que volvieras…"
+    },
+    "PAhfCg": {
+        "en": "Generic Desert Thief",
+        "pt": "Ladrão genérico do deserto",
+        "es": "Ladrón del desierto"
+    },
+    "PQhfCg": {
+        "en": "[GDT]\nSo you're a novice?\nWhat are you looking for?\nJust for today, I'll tell you everything I know.",
+        "pt": "[GDT]\nEntão você é um aprendiz?\nO que está procurando?\nSó por hoje, vou lhe dizer tudo o que sei.",
+        "es": "[Ladrón del desierto]\n¿Cómo? ¿Un principiante?\n¿Qué buscas?\nSolo dímelo de una vez…"
+    },
+    "PghfCg": {
+        "en": "Location of Thief Guild",
+        "pt": "Localização da Guilda dos Ladrões",
+        "es": "Ubicación del gremio de Ladrones."
+    },
+    "PwhfCg": {
+        "en": "Location of Pyramid",
+        "pt": "Localização da pirâmide",
+        "es": "Ubicación de la pirámide."
+    },
+    "QAhfCg": {
+        "en": "Where are all the merchants?",
+        "pt": "Onde estão todos os comerciantes?",
+        "es": "¿Dónde están los comerciantes?"
+    },
+    "QQhfCg": {
+        "en": "[GDT]\nThief Guild?\nThat's in the ^4D4DFFpyramid's lower level^000000.",
+        "pt": "[GDT]\nGuilda dos Ladrões?\nFica no nível inferior da pirâmide ^4D4DFF^000000.",
+        "es": "[Ladrón del desierto]\n¿Gremio de Ladrones?\nEstá en el sótano de la pirámide."
+    },
+    "QghfCg": {
+        "en": "[GDT]\nYou'll see the pyramid immediately once you leave from the northwest exit of Morroc.\nIt'll be right in front of you.",
+        "pt": "[GDT]\nVocê verá a pirâmide imediatamente após sair da saída noroeste de Morroc.\nEla estará bem na sua frente.",
+        "es": "[Ladrón del desierto]\nLa pirámide está cerca de la salida noroeste de Morroc.\nEstará justo delante de ti…"
+    },
+    "QwhfCg": {
+        "en": "[GDT]\nIf you go out from the northwest exit of Morroc...!\nThere's an oasis.",
+        "pt": "[GDT]\nSe você sair pela saída noroeste de Morroc...!\nHá um oásis.",
+        "es": "[Ladrón del desierto]\nLa pirámide está cerca de la salida noroeste de Morroc.\nAparecerá un oasis."
+    },
+    "RAhfCg": {
+        "en": "[GDT]\nIt's right there, in the ^4D4DFFnorthwestern part of the oasis^000000.\nJust head over there. You'll recognize the place once you get there.",
+        "pt": "[GDT]\nEstá bem ali, na parte ^4D4DFFnoroeste do oásis^000000.\nBasta ir até lá. Você reconhecerá o local quando chegar lá.",
+        "es": "[Ladrón del desierto]\nEstá al ^4D4DFFnoroeste del oasis^000000.\nVamos, ¡lo encontrarás!"
+    },
+    "RQhfCg": {
+        "en": "[GDT]\nAfter the demons ran amok, people shifted to the oasis' northwest for refuge.\nIf you go out by this exit, there will be a small oasis.",
+        "pt": "[GDT]\nDepois que os demônios se descontrolaram, as pessoas se deslocaram para o noroeste do oásis em busca de refúgio.\nSe você sair por essa saída, haverá um pequeno oásis.",
+        "es": "[Ladrón del desierto]\nDespués de todo lo ocurrido, la gente se acercó al oasis.\nSi tomas la salida noroeste, aparecerá el oasis."
+    },
+    "RghfCg": {
+        "en": "[GDT]\nThat's where the merchants are.\nGo and take a look.",
+        "pt": "[GDT]\nÉ lá que estão os comerciantes.\nVá e dê uma olhada.",
+        "es": "[Ladrón del desierto]\nHabrá comerciantes alrededor del oasis.\n¡Date prisa!"
+    },
+    "RwhfCg": {
+        "en": "[GDT]\nI see... Generic Desert Thief... right...\nNo, I am none other than...!",
+        "pt": "[GDT]\nEstou vendo... Ladrão genérico do deserto... certo...\nNão, eu sou ninguém menos que...!",
+        "es": "[Ladrón del desierto]\n…\nNunca sabrás mi identidad…"
+    },
+    "SAhfCg": {
+        "en": "[GDT]\nWhat are you looking at?\nIs my name that funny?\nYou seem confused.\nIt's an alias. A-li-as",
+        "pt": "[GDT]\nPara onde está olhando?\nMeu nome é tão engraçado assim?\nVocê parece confuso.\nÉ um pseudônimo. A-li-as",
+        "es": "[Ladrón del desierto]\n¿Qué miras?\n¿Te pareció gracioso mi nombre?\nNi siquiera tengo un nombre…\nLlevo tanto tiempo en el desierto que ya lo olvidé."
+    },
+    "SQhfCg": {
+        "en": "[GDT]\nWasn't that brilliant? Very clever!\nIt stands for Greatest Desert Thief! That is just the opposite of generic!\nGDT does not stand for Generic Desert Thief! Stop laughing at me now!",
+        "pt": "[GDT]\nNão foi brilhante? Muito inteligente!\nSignifica Greatest Desert Thief (Maior Ladrão do Deserto)! Isso é exatamente o oposto de genérico!\nGDT não significa Ladrão do Deserto Genérico! Pare de rir de mim agora!",
+        "es": "[Ladrón del desierto]\nSi no te gusta, llámame como quieras.\nEl nombre actual significa que paso mucho tiempo aquí…\n¡Al menos soy bueno en eso!"
+    },
+    "SghfCg": {
+        "en": "[Lumin]\n... Hm...\nDo you know what Odd Jobs are?\nOn the guild's quest board, there's a quest to beat Ambernite.",
+        "pt": "[Rumin]\n... Hm...\nVocê sabe o que são Odd Jobs?\nNo quadro de missões da guilda, há uma missão para derrotar o Ambernite.",
+        "es": "[Rumin]\n…\n¿Conoces las misiones fáciles?\nEs un tipo de misión en el gremio de Ladrones…"
+    },
+    "SwhfCg": {
+        "en": "[Lumin]\nIf it catches your eye, try to complete it.",
+        "pt": "[Rumin]\nSe ela chamar sua atenção, tente completá-la.",
+        "es": "[Rumin]\nSi estás interesado, adelante…"
+    },
+    "TAhfCg": {
+        "en": "[Lumin]\n...\n... Hm...",
+        "pt": "[Rumin]\n...\n... Hm...",
+        "es": "[Rumin]\n…\nMm…"
+    },
+    "TQhfCg": {
+        "en": "What are you doing?",
+        "pt": "O que está fazendo?",
+        "es": "¿Qué estás haciendo?"
+    },
+    "TghfCg": {
+        "en": "[Lumin]\nI'm sorting through my memories to see if I can recognize this fellow.\nHm... Sorry. Not a clue!\n... I am very forgetful.",
+        "pt": "[Rumin]\nEstou examinando minhas memórias para ver se consigo reconhecer esse sujeito.\nHm... Desculpe. Não é uma pista!\n... Sou muito esquecido.",
+        "es": "[Rumin]\nMis pensamientos se tornan conflictivos…\nOcurre de vez en cuando…\nY luego acabo olvidándome de todo."
+    },
+    "TwhfCg": {
+        "en": "[Lumin]\nThe Pumpkin Knight can be considered an Ambernite too,\nbut the target of your quest is none other than that snail.",
+        "pt": "[Rumin]\nO Pumpkin Cavaleiro também pode ser considerado um Ambernite,\nmas o alvo de sua busca não é outro senão aquele caracol.",
+        "es": "[Rumin]\nEl Caballero Calabaza también puede ser considerado un Ambernito,\npero el objetivo de su búsqueda no es otro que ese caracol."
+    },
+    "UAhfCg": {
+        "en": "[Lumin]\nIt kind of feels like it only got to be a knight because it's like a living fossil.\nIf you're having a tough time, ask the bored Priest for help.",
+        "pt": "[Rumin]\nParece que ele só conseguiu ser um cavaleiro porque é como um fóssil vivo.\nSe estiver passando por um momento difícil, peça ajuda ao Sacerdote entediado.",
+        "es": "[Rumin]\nParece que sólo consiguió convertirse en caballero porque es como un fósil viviente.\nSi tienes dificultades, pide ayuda al Sacerdotisa aburrida."
+    },
+    "UQhfCg": {
+        "en": "[Lumin]\nHe'll entertain you with his unbelievable nosiness!\nAlso,^4D4DFFI can accept the completion report in your stead^000000.",
+        "pt": "[Rumin]\nEle vai entretê-lo com sua incrível intromissão!\nAlém disso, posso aceitar o relatório de conclusão em seu lugar^000000.",
+        "es": "[Rumin]\n¡Te entretendrá con sus increíbles entrometimiento!\nAdemás, puedo aceptar el informe de finalización en tu lugar"
+    },
+    "UghfCg": {
+        "en": "[Lumin]\nGoing all the way back to Morroc is quite exhausting, you know.\nIt's the least I can do for a fellow guild member.\n...\nThough it'll only make things harder for me...",
+        "pt": "[Rumin]\nVoltar até Morroc é bastante cansativo, você sabe.\nÉ o mínimo que posso fazer por um colega da guilda.\n...\nEmbora isso só vá tornar as coisas mais difíceis para mim...",
+        "es": "[Rumin]\nSé que es difícil desplazarse por Morroc.\n¡Es una apreciación que hace el propio gremio!\nPero soy el único que habla abiertamente sobre…"
+    },
+    "UwhfCg": {
+        "en": "[Lumin]\nDefeat 10 Ambernite.\nGood! I confirmed your progress.\nHere's your reward.",
+        "pt": "[Rumin]\nDerrote 10 Ambernites.\nMuito bom! Confirmei seu progresso.\nAqui está sua recompensa.",
+        "es": "[Rumin]\nDerrota 10 Ambarnitos.\nBien, todo en orden.\nAquí tienes tu recompensa."
+    },
+    "VAhfCg": {
+        "en": "[Lumin]\nSince it's quite far,\nYou'll get a coupon for the wharf.",
+        "pt": "[Rumin]\nJá que é bem longe,\nVocê receberá um cupom para o cais.",
+        "es": "[Rumin]\nEs una larga distancia…\nTe daré un boleto."
+    },
+    "VQhfCg": {
+        "en": "[Lumin]\nThe bored rubbernecker Priest can probably help you with simple teleportation,\nso make use of his help as you need.",
+        "pt": "[Rumin]\nO sacerdote entediado pode provavelmente ajudá-lo com um simples teletransporte,\nportanto, faça uso de sua ajuda quando precisar.",
+        "es": "[Rumin]\nEl sacerdotisa aburrida probablemente pueda ayudarte con un simple teletransporte,\nasí que aprovecha su ayuda cuando la necesites"
+    },
+    "VghfCg": {
+        "en": "[Lumin]\nDid you like the Ambernites?\nOr was it the field that you liked?",
+        "pt": "[Rumin]\nVocê gostou dos Ambernites?\nOu foi o campo que você gostou?",
+        "es": "[Rumin]\n¿Te gustaron los Ambarnitos?\n¿O prefieres su hábitat?"
+    },
+    "VwhfCg": {
+        "en": "[Lumin]\nWell, none of my business.\nIf there's something you need, go ahead and ask the Priest next to you.",
+        "pt": "[Rumin]\nBem, não é da minha conta.\nSe precisar de algo, vá em frente e peça ao sacerdote ao seu lado.",
+        "es": "[Rumin]\nBueno, no me importa.\nSi necesitas algo, no me lo pidas a mí…\nHabla con la Sacerdotisa que está a mi lado."
+    },
+    "WAhfCg": {
+        "en": "Bored Priest",
+        "pt": "Sacerdote entediado",
+        "es": "Sacerdote Aburrido"
+    },
+    "WQhfCg": {
+        "en": "[Rubbernecker]\nHey, cuties.\nDo you need something?\nTell me everything!",
+        "pt": "[Rubbernecker]\nEi, gatinhas.\nPrecisam de alguma coisa?\nMe contem tudo!",
+        "es": "[Sacerdotisa aburrida]\nSaludos…\n¿Necesitas algo?\nEscucha la melodía…"
+    },
+    "WghfCg": {
+        "en": "I'm tired.",
+        "pt": "Estou cansado.",
+        "es": "El cansancio me consume."
+    },
+    "WwhfCg": {
+        "en": "This is tough.",
+        "pt": "Isso é difícil.",
+        "es": "La cosa está difícil."
+    },
+    "XAhfCg": {
+        "en": "I want to go home.",
+        "pt": "Eu quero ir para casa.",
+        "es": "Quiero irme a casa."
+    },
+    "XQhfCg": {
+        "en": "[Rubbernecker]\nReally?\nSo you just need me to heal you? Just like this?",
+        "pt": "[Rubbernecker]\nSério?\nEntão você só precisa que eu o cure? Assim, sem mais nem menos?",
+        "es": "[Sacerdotisa aburrida]\nPues bien…\nTe curaré…"
+    },
+    "XghfCg": {
+        "en": "[Rubbernecker]\nAh-hah! Are you feeling better now?",
+        "pt": "[Rubbernecker]\nAh-hah! Está se sentindo melhor agora?",
+        "es": "[Sacerdotisa aburrida]\nParece que ahora vivirás, ¿verdad?"
+    },
+    "XwhfCg": {
+        "en": "[Rubbernecker]\nI'll keep you in my prayers then!\nYep!",
+        "pt": "[Rubbernecker]\nVou mantê-lo em minhas orações, então!\nSim!",
+        "es": "[Sacerdotisa aburrida]\nRezaré para que mejores…\n¡Amén!"
+    },
+    "YAhfCg": {
+        "en": "[Rubbernecker]\nOh my... then I'll just send you to a saved location!\n^4D4DFFGo to a saved location?^000000",
+        "pt": "[Rubbernecker]\nOh, meu Deus... então eu o enviarei para um local salvo!\n^4D4DFFIr para um local salvo?^000000",
+        "es": "[Sacerdotisa aburrida]\nPuedo enviarte a la ubicación guardada.\n^4D4DFF¿Quieres ir a la ubicación guardada?^000000"
+    },
+    "YQhfCg": {
+        "en": "Please.",
+        "pt": "Por favor.",
+        "es": "Sí, por favor."
+    },
+    "YghfCg": {
+        "en": "No.",
+        "pt": "Não.",
+        "es": "No, prefiero quedarme aquí."
+    },
+    "YwhfCg": {
+        "en": "[Rubbernecker]\nAll right, then ^4D4DFFplease stand up^000000...\nJust say “Yep!?and you will get started!\nYep!",
+        "pt": "[Rubbernecker]\nTudo bem, então ^4D4DFFpor favor, levante-se^000000...\nBasta dizer 밳ep!? e você começará!\nSim!",
+        "es": "[Rubbernecker]\nMuy bien, entonces ^4D4DFFpor favor de pie^000000...\n¡Sólo di Si!... ¡y empezarás!\n¡Sí!"
+    },
+    "ZAhfCg": {
+        "en": "[Rubbernecker]\nHmm... \nPlease come back and use it later then! Hehe!",
+        "pt": "[Rubbernecker]\nHmm... \nEntão, por favor, volte e use-o mais tarde! Hehe!",
+        "es": "[Rubbernecker]\nHmm... \nPor favor, ¡vuelve y úsalo más tarde! ¡Hehe!"
+    },
+    "ZQhfCg": {
+        "en": "[Lumin]\n............\nI don't think that's a good idea.",
+        "pt": "[Rumin]\n............\nNão acho que seja uma boa ideia.",
+        "es": "[Rumin]\n............\nNo creo que sea una buena idea."
+    },
+    "ZghfCg": {
+        "en": "[Rubbernecker]\nJust as I thought.\nFlaunting my cuteness in this attire is a bit too much, isn't it?",
+        "pt": "[Rubbernecker]\nExatamente como eu pensava.\nExibir minha fofura com esse traje é um pouco demais, não é?",
+        "es": "[Rubbernecker]\nJusto lo que pensaba.\nHacer alarde de mi belleza con este atuendo es demasiado, ¿no?"
+    },
+    "ZwhfCg": {
+        "en": "[Rubbernecker]\nHuh...\nI'll keep my eyes on you only until you exceed level 20.\n20 and 21 may seem like there's barely a difference, but think about it; isn't there a world of difference between 198 and 200 zeny?",
+        "pt": "[Rubbernecker]\nHuh...\nVou ficar de olho em você apenas até que ultrapasse o nível 20.\n20 e 21 podem parecer uma diferença mínima, mas pense nisso: não há uma grande diferença entre 198 e 200 zeny?",
+        "es": "[Rubbernecker]\nHuh...\nTe vigilaré sólo hasta que superes el nivel 20.\n20 y 21 puede parecer que apenas hay diferencia, pero piénsalo; ¿no hay un mundo de diferencia entre 198 y 200 zeny?"
+    },
+    "aAhfCg": {
+        "en": "[Rubbernecker]\nGo away. I'm not interested in people who don't really need my help.",
+        "pt": "[Rubbernecker]\nVá embora. Não estou interessado em pessoas que realmente não precisam de minha ajuda.",
+        "es": "[Rubbernecker]\nVete. No me interesa la gente que no necesita mi ayuda."
+    }
+}

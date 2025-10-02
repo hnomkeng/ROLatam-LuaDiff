@@ -1,0 +1,1287 @@
+{
+    "wHBTAw": {
+        "en": "Quest Reward Agent",
+        "pt": "Tabelião",
+        "es": "Agente de recompensas"
+    },
+    "wXBTAw": {
+        "en": "[Hucheol]\nI clean up quests that we have arranged for you.\nWhen you complete them, I will give you the reward that was offered at the time.",
+        "pt": "[Tabelião]\nOlá, viajante.\nFui contratado para limpar os registros das antigas missões do Grupo do Éden.",
+        "es": "[Hucheol]\n Limpio las misiones que hemos organizado para ti.\n Cuando las completes, te daré la recompensa que se te ofreció en su momento."
+    },
+    "wnBTAw": {
+        "en": "[Hucheol]\nIf you have ^4D4DFFnot yet completed the quest^000000, we will no longer offer that quest and will ^4D4DFFcancel and delete^000000 it.",
+        "pt": "[Tabelião]\nProvavelmente você ^4D4DFFnão precisará^000000 do meu serviço. Já que essas missões antigas ^4D4DFFnunca existiram neste servidor^000000.",
+        "es": "[Hucheol]\nProbablemente ^4D4DFFno necesitarás^000000 mi servicio. Dado que estas antiguas misiones ^4D4DFFnunca existieron en este servidor^000000."
+    },
+    "w3BTAw": {
+        "en": "11-25 Quest Cleanup",
+        "pt": "Missões 11~25",
+        "es": "11-25 Limpieza de Quest"
+    },
+    "xHBTAw": {
+        "en": "26-40 Quest Cleanup",
+        "pt": "Missões 26~40",
+        "es": "26-40 Limpieza de Quest"
+    },
+    "xXBTAw": {
+        "en": "41-55 Quest Cleanup",
+        "pt": "Missões 41~55",
+        "es": "41-55 Limpieza de Quest"
+    },
+    "xnBTAw": {
+        "en": "56-70 Quest Cleanup",
+        "pt": "Missões 56~70",
+        "es": "56-70 Limpieza de Quest"
+    },
+    "x3BTAw": {
+        "en": "71-85 Quest Cleanup",
+        "pt": "Missões 71~85",
+        "es": "71-85 Limpieza de Quest"
+    },
+    "yHBTAw": {
+        "en": "86-90 Quest Cleanup",
+        "pt": "Missões 86~90",
+        "es": "86-90 Limpieza de Quest"
+    },
+    "yXBTAw": {
+        "en": "91-99 Quest Cleanup",
+        "pt": "Missões 91~99",
+        "es": "91-99 Limpieza de Quest"
+    },
+    "ynBTAw": {
+        "en": "100-110 Quest Cleanup",
+        "pt": "Missões 100~110",
+        "es": "100-110 Limpieza de Quest"
+    },
+    "y3BTAw": {
+        "en": "111-120 Quest Cleanup",
+        "pt": "Missões 111~120",
+        "es": "111-120 Limpieza de Quest"
+    },
+    "zHBTAw": {
+        "en": "121-130 Quest Cleanup",
+        "pt": "Missões 121~130",
+        "es": "121-130 Limpieza de Quest"
+    },
+    "zXBTAw": {
+        "en": "131-140 Quest Cleanup",
+        "pt": "Missões 131~140",
+        "es": "131-140 Limpieza de Quest"
+    },
+    "znBTAw": {
+        "en": "Courtesy Ticket Number",
+        "pt": "Ticket de Cortesia",
+        "es": "Número de billete de cortesía"
+    },
+    "z3BTAw": {
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar"
+    },
+    "0HBTAw": {
+        "en": "[Hucheol]\nComplete Hornet Hunting quest.",
+        "pt": "[Tabelião]\nConcluir a missão ''Hornet Hunting''.",
+        "es": "[Hucheol]\n Completa la misión Caza de avispones."
+    },
+    "0XBTAw": {
+        "en": "[Hucheol]\nComplete Condor Hunting quest.",
+        "pt": "[Tabelião]\nConcluir a missão Caça ao Condor.",
+        "es": "[Hucheol]\n Completa la misión Caza del cóndor."
+    },
+    "0nBTAw": {
+        "en": "Complete Grasshopper Leg quest.",
+        "pt": "Complete a missão Grasshopper Leg.",
+        "es": "Completa la misión Pata de saltamontes."
+    },
+    "03BTAw": {
+        "en": "[Hucheol]\nTo complete the Grasshopper Leg quest,\nyou need to bring me 10 Grasshopper's Legs.\nWould you like to abandon the quest?",
+        "pt": "[Tabelião]\nPara concluir a missão Perna de Gafanhoto,\nvocê precisa me trazer 10 Pernas de Gafanhoto.\nVocê gostaria de abandonar a missão?",
+        "es": "[Hucheol]\n Para completar la quest Pata de Saltamontes,\n necesitas traerme 10 Patas de Saltamontes.\n ¿Quieres abandonar la búsqueda?"
+    },
+    "1HBTAw": {
+        "en": "Abandon.",
+        "pt": "Abandonar.",
+        "es": "Abandonar."
+    },
+    "1XBTAw": {
+        "en": "I will complete it.",
+        "pt": "Eu o completarei.",
+        "es": "Lo completaré."
+    },
+    "1nBTAw": {
+        "en": "[Hucheol]\nYou have abandoned the Grasshopper Leg quest.",
+        "pt": "[Tabelião]\nVocê abandonou a missão da Perna de Gafanhoto.",
+        "es": "[Hucheol]\n Has abandonado la misión Pata de saltamontes."
+    },
+    "13BTAw": {
+        "en": "[Hucheol]\nI'll look for other quests that can be completed.",
+        "pt": "[Tabelião]\nVou procurar outras missões que possam ser concluídas.",
+        "es": "[Hucheol]\n Buscaré otras misiones que se puedan completar."
+    },
+    "2HBTAw": {
+        "en": "[Hucheol]\nComplete the Wormtail Hunting quest.",
+        "pt": "[Tabelião]\nConclua a missão Caça a Wormtail.",
+        "es": "[Hucheol]\n Completa la misión Caza de Colagusano."
+    },
+    "2XBTAw": {
+        "en": "[Hucheol]\nComplete the Spore Hunting quest.",
+        "pt": "[Tabelião]\nConcluir a missão Caça aos esporos.",
+        "es": "[Hucheol]\n Completa la misión Caza de esporas."
+    },
+    "2nBTAw": {
+        "en": "[Hucheol]\nComplete the Pest Extermination quest.",
+        "pt": "[Tabelião]\nConclua a missão Extermínio de Pragas.",
+        "es": "[Hucheol]\n Completa la misión Exterminio de plagas."
+    },
+    "23BTAw": {
+        "en": "[Hucheol]\nTo complete the Pest Extermination quest,\nyou need to bring me 10 Chrysalises.\nWould you like to abandon the quest?",
+        "pt": "[Tabelião]\nPara concluir a missão Extermínio de Pragas,\nvocê precisa me trazer 10 crisálidas.\nVocê gostaria de abandonar a missão?",
+        "es": "[Hucheol]\n Para completar la misión Exterminio de plagas,\n necesitas traerme 10 Crisálidas.\n ¿Quieres abandonar la búsqueda?"
+    },
+    "3HBTAw": {
+        "en": "[Hucheol]\nYou have abandoned the Pest Extermination quest.",
+        "pt": "[Tabelião]\nVocê abandonou a missão Extermínio de Pragas.",
+        "es": "[Hucheol]\n Has abandonado la misión Exterminio de plagas."
+    },
+    "3XBTAw": {
+        "en": "[Hucheol]\nComplete the Muka Hunting quest.",
+        "pt": "[Tabelião]\nConcluir a missão Caça ao Muka.",
+        "es": "[Hucheol]\n Completa la misión Caza de Muka."
+    },
+    "3nBTAw": {
+        "en": "[Hucheol]\nComplete the Familiar Hunting quest.",
+        "pt": "[Tabelião]\nConcluir a missão Caça aos Familiares.",
+        "es": "[Hucheol]\n Completa la misión Caza de familiares."
+    },
+    "33BTAw": {
+        "en": "[Hucheol]\nComplete the Feather Gathering quest.",
+        "pt": "[Tabelião]\nConcluir a missão ''Feather Gathering''.",
+        "es": "[Hucheol]\n Completa la misión Recogida de plumas."
+    },
+    "4HBTAw": {
+        "en": "[Hucheol]\nComplete the Poison Spore Gathering quest.",
+        "pt": "[Tabelião]\nComplete a missão Poison Spore Gathering (Coleta de esporos venenosos).",
+        "es": "[Hucheol]\n Completa la misión Recolección de esporas venenosas."
+    },
+    "4XBTAw": {
+        "en": "[Hucheol]\nTo complete the Poison Spore Gathering quest,\nyou need to bring me 5 Poison Spores.\nWould you like to abandon the quest?",
+        "pt": "[Tabelião]\nPara completar a missão Poison Spore Gathering (Coleta de esporos venenosos),\nvocê precisa me trazer 5 esporos venenosos.\nVocê gostaria de abandonar a missão?",
+        "es": "[Hucheol]\n Para completar la quest Recolección de Esporas Venenosas,\n necesitas traerme 5 Esporas Venenosas.\n ¿Quieres abandonar la misión?"
+    },
+    "4nBTAw": {
+        "en": "[Hucheol]\nYou have abandoned the Poison Spore Gathering quest.",
+        "pt": "[Tabelião]\nVocê abandonou a missão Poison Spore Gathering.",
+        "es": "[Hucheol]\n Has abandonado la misión Recolección de esporas venenosas."
+    },
+    "43BTAw": {
+        "en": "[Hucheol]\nThere are no other quests to be completed.",
+        "pt": "[Tabelião]\nNão há outras missões a serem concluídas.",
+        "es": "[Hucheol]\n No hay otras misiones que completar."
+    },
+    "5HBTAw": {
+        "en": "[Hucheol]\nComplete the Poison Spore Hunting quest.",
+        "pt": "[Tabelião]\nComplete a missão Poison Spore Hunting (Caça aos esporos venenosos).",
+        "es": "[Hucheol]\n Completa la misión Caza de esporas venenosas."
+    },
+    "5XBTAw": {
+        "en": "[Hucheol]\nComplete the Smokie Hunting quest.",
+        "pt": "[Tabelião]\nConcluir a missão Caça ao Fumante.",
+        "es": "[Hucheol]\n Completa la misión Caza de Smokies."
+    },
+    "5nBTAw": {
+        "en": "[Hucheol]\nComplete the Elder Willow Hunting quest.",
+        "pt": "[Tabelião]\nConcluir a missão Caça ao Salgueiro Ancião.",
+        "es": "[Hucheol]\n Completa la misión Caza del Sauce Anciano."
+    },
+    "53BTAw": {
+        "en": "[Hucheol]\nComplete the Coco Hunting quest.",
+        "pt": "[Tabelião]\nConcluir a missão Caça ao Coco.",
+        "es": "[Hucheol]\n Completa la misión Caza del Coco."
+    },
+    "6HBTAw": {
+        "en": "[Hucheol]\nComplete the Thara Frog Hunting quest.",
+        "pt": "[Tabelião]\nConcluir a missão Thara Frog Hunting.",
+        "es": "[Hucheol]\n Completa la misión Caza de ranas de Thara."
+    },
+    "6XBTAw": {
+        "en": "[Hucheol]\nWe will deal with the delivered items from the Pest Extermination Delivery quest.\nThank you for your help.",
+        "pt": "[Tabelião]\nLidaremos com os itens entregues na missão de Entrega de Extermínio de Pragas.\nObrigado por sua ajuda.",
+        "es": "[Hucheol]\n Nos ocuparemos de los objetos entregados en la misión Entrega de exterminio de plagas.\n Gracias por su ayuda."
+    },
+    "6nBTAw": {
+        "en": "[Hucheol]\nYou haven't even started the Pest Extermination Delivery quest.\nI'll cancel the quest.",
+        "pt": "[Tabelião]\nVocê ainda nem começou a missão de Entrega de Extermínio de Pragas.\nVou cancelar a missão.",
+        "es": "[Hucheol]\n Ni siquiera has empezado la misión de Entrega de Exterminio de Plagas.\n Voy a cancelar la búsqueda."
+    },
+    "63BTAw": {
+        "en": "[Hucheol]\nWe will deal with the delivered items from the Fur Delivery quest.\nThank you for your help.",
+        "pt": "[Tabelião]\nLidaremos com os itens entregues na missão Fur Delivery.\nObrigado por sua ajuda.",
+        "es": "[Hucheol]\n Nos ocuparemos de los objetos entregados de la misión Entrega de pieles.\n Gracias por su ayuda."
+    },
+    "7HBTAw": {
+        "en": "[Hucheol]\nYou haven't even started the Fur Delivery quest.\nI'll cancel the quest.",
+        "pt": "[Tabelião]\nVocê ainda nem começou a missão de entrega de peles.\nVou cancelar a missão.",
+        "es": "[Hucheol]\n Ni siquiera has empezado la búsqueda de Entrega de Pieles.\n Voy a cancelar la búsqueda."
+    },
+    "7XBTAw": {
+        "en": "[Hucheol]\nWe will deal with the delivered items from the Honey Delivery quest.\nThank you for your help.",
+        "pt": "[Tabelião]\nLidaremos com os itens entregues na missão Honey Delivery.\nObrigado por sua ajuda.",
+        "es": "[Hucheol]\n Nos ocuparemos de los objetos entregados en la misión Entrega de Miel.\n Gracias por su ayuda."
+    },
+    "7nBTAw": {
+        "en": "[Hucheol]\nYou haven't even started the Honey Delivery quest.\nI'll cancel the quest.",
+        "pt": "[Tabelião]\nVocê ainda nem começou a missão de entrega de mel.\nVou cancelar a missão.",
+        "es": "[Hucheol]\n Ni siquiera has empezado la búsqueda de la Entrega de Miel.\n Cancelaré la misión."
+    },
+    "73BTAw": {
+        "en": "[Hucheol]\nComplete the Bone Gathering quest.",
+        "pt": "[Tabelião]\nConclua a missão Bone Gathering (Coleta de ossos).",
+        "es": "[Hucheol]\n Completa la misión Recogida de huesos."
+    },
+    "8HBTAw": {
+        "en": "[Hucheol]\nTo complete the Bone Gathering quest,\nyou need to bring me 5 Skel-Bones.\nWould you like to abandon the quest?",
+        "pt": "[Tabelião]\nPara concluir a missão Bone Gathering (Coleta de ossos),\nvocê precisa me trazer 5 Skel-Bones.\nVocê gostaria de abandonar a missão?",
+        "es": "[Hucheol]\n Para completar la búsqueda de Recolección de Huesos,\n necesitas traerme 5 Skel-Bones.\n ¿Quieres abandonar la búsqueda?"
+    },
+    "8XBTAw": {
+        "en": "[Hucheol]\nYou have abandoned the Bone Gathering quest.",
+        "pt": "[Tabelião]\nVocê abandonou a missão de coleta de ossos.",
+        "es": "[Hucheol]\n Has abandonado la misión Recolección de huesos."
+    },
+    "8nBTAw": {
+        "en": "[Hucheol]\nComplete the Paw Gathering quest.",
+        "pt": "[Tabelião]\nConcluir a missão Paw Gathering.",
+        "es": "[Hucheol]\n Completa la misión Reunión de garras."
+    },
+    "83BTAw": {
+        "en": "[Hucheol]\nTo complete the Paw Gathering quest,\nyou need to bring me 10 Bear's Footskins and 5 Animal Skins.\nWould you like to abandon the quest?",
+        "pt": "[Tabelião]\nPara completar a missão Paw Gathering,\nvocê precisa me trazer 10 peles de pés de urso e 5 peles de animais.\nVocê gostaria de abandonar a missão?",
+        "es": "[Hucheol]\n Para completar la quest Paw Gathering,\n necesitas traerme 10 Pieles de Pata de Oso y 5 Pieles de Animal.\n ¿Quieres abandonar la búsqueda?"
+    },
+    "9HBTAw": {
+        "en": "[Hucheol]\nYou have abandoned the Paw Gathering quest.",
+        "pt": "[Tabelião]\nVocê abandonou a missão Paw Gathering.",
+        "es": "[Hucheol]\n Has abandonado la misión Reunión de patas."
+    },
+    "9XBTAw": {
+        "en": "[Hucheol]\nPeeling Collected Quest",
+        "pt": "[Tabelião]\nPeeling Collected Quest",
+        "es": "[Hucheol]\n Peeling Collected Quest"
+    },
+    "9nBTAw": {
+        "en": "[Hucheol]\nTo complete the Shell Gathering quest,\nyou need to bring me 20 Worm Peelings and 10 Garlets.\nWould you like to abandon the quest?",
+        "pt": "[Tabelião]\nPara concluir a missão Shell Gathering,\nvocê precisa me trazer 20 Worm Peelings e 10 Garlets.\nVocê gostaria de abandonar a missão?",
+        "es": "[Hucheol]\n Para completar la búsqueda de Recolección de Conchas,\n necesitas traerme 20 Worm Peelings y 10 Garlets.\n ¿Quieres abandonar la búsqueda?"
+    },
+    "93BTAw": {
+        "en": "[Hucheol]\nYou have abandoned the Shell Gathering quest.",
+        "pt": "[Tabelião]\nVocê abandonou a missão Shell Gathering.",
+        "es": "[Hucheol]\n Has abandonado la misión Recogida de conchas."
+    },
+    "+HBTAw": {
+        "en": "[Hucheol]\nComplete the Tail Gathering quest.",
+        "pt": "[Tabelião]\nConcluir a missão Tail Gathering.",
+        "es": "[Hucheol]\n Completa la misión Reunión de colas."
+    },
+    "+XBTAw": {
+        "en": "[Hucheol]\nTo complete the Tail Gathering quest,\nyou need to bring me 10 Yoyo Tails, 10 Acorns, and 10 Raccoon Leaves.\nWould you like to abandon the quest?",
+        "pt": "[Tabelião]\nPara concluir a missão Tail Gathering,\nvocê precisa me trazer 10 Yoyo Tails, 10 Acorns e 10 Raccoon Leaves.\nVocê gostaria de abandonar a missão?",
+        "es": "[Hucheol]\n Para completar la misión Recolección de Colas,\n necesitas traerme 10 Colas de Yoyo, 10 Bellotas y 10 Hojas de Mapache.\n ¿Quieres abandonar la búsqueda?"
+    },
+    "+nBTAw": {
+        "en": "[Hucheol]\nYou have abandoned the Tail Gathering quest.",
+        "pt": "[Tabelião]\nVocê abandonou a missão Tail Gathering.",
+        "es": "[Hucheol]\n Has abandonado la misión Reunión de colas."
+    },
+    "+3BTAw": {
+        "en": "[Hucheol]\nComplete the Cookie Gathering quest.",
+        "pt": "[Tabelião]\nComplete a missão Cookie Gathering.",
+        "es": "[Hucheol]\n Completa la misión Recogida de galletas."
+    },
+    "/HBTAw": {
+        "en": "[Hucheol]\nTo complete the Cookie Gathering quest,\nyou need to bring me 5 Well-baked Cookies and 1 Piece of Cake.\nWould you like to abandon the quest?",
+        "pt": "[Tabelião]\nPara concluir a missão Cookie Gathering,\nvocê precisa me trazer 5 biscoitos bem assados e 1 pedaço de bolo.\nVocê gostaria de abandonar a missão?",
+        "es": "[Hucheol]\n Para completar la quest Recogida de Galletas,\n tienes que traerme 5 galletas bien horneadas y 1 trozo de tarta.\n ¿Quieres abandonar la misión?"
+    },
+    "/XBTAw": {
+        "en": "[Hucheol]\nYou have abandoned the Cookie Gathering quest.",
+        "pt": "[Tabelião]\nVocê abandonou a missão Cookie Gathering.",
+        "es": "[Hucheol]\n Has abandonado la misión Recogida de galletas."
+    },
+    "/nBTAw": {
+        "en": "[Hucheol]\nComplete the Whisker Gathering quest.",
+        "pt": "[Tabelião]\nConcluir a missão ''Whisker Gathering''.",
+        "es": "[Hucheol]\n Completa la misión Recogida de bigotes."
+    },
+    "/3BTAw": {
+        "en": "[Hucheol]\nTo complete the Whisker Gathering quest,\nyou need to bring me 5 Mole Whiskers and 3 Mole Claws.\nWould you like to abandon the quest?",
+        "pt": "[Tabelião]\nPara concluir a missão Whisker Gathering,\nvocê precisa me trazer 5 Mole Whiskers e 3 Mole Claws.\nVocê gostaria de abandonar a missão?",
+        "es": "[Hucheol]\n Para completar la misión Recolección de bigotes,\n tienes que traerme 5 bigotes de topo y 3 garras de topo.\n ¿Quieres abandonar la búsqueda?"
+    },
+    "AHFTAw": {
+        "en": "[Hucheol]\nYou have abandoned the Whisker Gathering quest.",
+        "pt": "[Tabelião]\nVocê abandonou a missão ''Whisker Gathering''.",
+        "es": "[Hucheol]\n Has abandonado la misión Recolección de bigotes."
+    },
+    "AXFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Thara Frogs quest.",
+        "pt": "[Tabelião]\nConclua a missão Derrotar sapos de Thara.",
+        "es": "[Hucheol]\n Completa la misión Derrota a las ranas de Thara."
+    },
+    "AnFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Cruisers quest.",
+        "pt": "[Tabelião]\nConcluir a missão Derrotar Templáriores.",
+        "es": "[Hucheol]\n Completa la misión Derrota a los cruceros."
+    },
+    "A3FTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Kukres quest.",
+        "pt": "[Tabelião]\nConcluir a missão Derrotar Kukres.",
+        "es": "[Hucheol]\n Completa la misión Derrota a Kukres."
+    },
+    "BHFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Orc Babies quest.",
+        "pt": "[Tabelião]\nConclua a missão Derrotar Bebês Orcs.",
+        "es": "[Hucheol]\n Completa la misión Derrota a los bebés orcos."
+    },
+    "BXFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Orc Warriors quest.",
+        "pt": "[Tabelião]\nComplete a missão Derrotar Guerreiros Orcs.",
+        "es": "[Hucheol]\n Completa la misión Derrota a los guerreros orcos."
+    },
+    "BnFTAw": {
+        "en": "[Hucheol]\nComplete the Vadon Hunting quest.",
+        "pt": "[Tabelião]\nConcluir a missão Caça a Vadon.",
+        "es": "[Hucheol]\n Completa la misión Caza de Vadon."
+    },
+    "B3FTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Megalodons quest.",
+        "pt": "[Tabelião]\nConclua a missão Derrotar Megalodons.",
+        "es": "[Hucheol]\n Completa la misión Derrota a los megalodones."
+    },
+    "CHFTAw": {
+        "en": "[Hucheol]\nComplete the Marse Hunting quest.",
+        "pt": "[Tabelião]\nConcluir a missão Caça ao Marte.",
+        "es": "[Hucheol]\n Completa la misión Caza de yeguas."
+    },
+    "CXFTAw": {
+        "en": "[Hucheol]\nComplete the Cornutus Hunting quest.",
+        "pt": "[Tabelião]\nConcluir a missão de Caça a Cornutus.",
+        "es": "[Hucheol]\n Completa la misión Caza de Cornutus."
+    },
+    "CnFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Mysts quest.",
+        "pt": "[Tabelião]\nConcluir a missão Derrotar Mysts.",
+        "es": "[Hucheol]\n Completa la misión Derrota a los Mysts."
+    },
+    "C3FTAw": {
+        "en": "[Hucheol]\nComplete the Shellfish Hunting quest.",
+        "pt": "[Tabelião]\nConclua a missão Caça aos mariscos.",
+        "es": "[Hucheol]\n Completa la misión Caza de marisco."
+    },
+    "DHFTAw": {
+        "en": "[Hucheol]\nComplete the Marin Spear Hunting quest.",
+        "pt": "[Tabelião]\nConcluir a missão Caça à Lança de Marin.",
+        "es": "[Hucheol]\n Completa la misión Caza de lanzas de Marin."
+    },
+    "DXFTAw": {
+        "en": "[Hucheol]\nComplete the Phen Hunting quest.",
+        "pt": "[Tabelião]\nComplete a missão Phen Hunting.",
+        "es": "[Hucheol]\n Completa la misión Caza de Phen."
+    },
+    "DnFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Orc Skeletons quest.",
+        "pt": "[Tabelião]\nConclua a missão Derrotar Esqueletos Orcs.",
+        "es": "[Hucheol]\n Completa la misión Derrota a los esqueletos orcos."
+    },
+    "D3FTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Zenorcs quest.",
+        "pt": "[Tabelião]\nConclua a missão Derrotar Zenorcs.",
+        "es": "[Hucheol]\n Completa la misión Derrota a los Zenorcs."
+    },
+    "EHFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Mummies quest.",
+        "pt": "[Tabelião]\nConcluir a missão Derrotar Múmias.",
+        "es": "[Hucheol]\n Completa la misión Derrota a las momias."
+    },
+    "EXFTAw": {
+        "en": "[Hucheol]\nWhat's This Bandage For? complete.",
+        "pt": "[Tabelião]\nPara que serve esse curativo? completo.",
+        "es": "[Hucheol]\n ¿Para qué es esta venda? completa."
+    },
+    "EnFTAw": {
+        "en": "[Hucheol]\nWhat's This Bandage For? has not been completed.\nShould I cancel the quest for you?",
+        "pt": "[Tabelião]\nWhat's This Bandage For? não foi concluída.\nDevo cancelar a missão para você?",
+        "es": "[Hucheol]\n ¿Para qué es esta venda? no se ha completado.\n ¿Debo cancelar la búsqueda por ti?"
+    },
+    "E3FTAw": {
+        "en": "Cancel.",
+        "pt": "Cancelar",
+        "es": "Cancela."
+    },
+    "FHFTAw": {
+        "en": "I'll keep trying.",
+        "pt": "Vou continuar tentando.",
+        "es": "Seguiré intentándolo."
+    },
+    "FXFTAw": {
+        "en": "[Hucheol]\nWhat's This Bandage For? has been canceled.",
+        "pt": "[Tabelião]\nWhat's This Bandage For? foi cancelado.",
+        "es": "[Hucheol]\n ¿Para qué es esta venda? ha sido cancelado."
+    },
+    "FnFTAw": {
+        "en": "[Hucheol]\nThen I'll look for other quests that can be completed.",
+        "pt": "[Tabelião]\nEntão vou procurar outras missões que possam ser concluídas.",
+        "es": "[Hucheol]\n Entonces buscaré otras misiones que se puedan completar."
+    },
+    "F3FTAw": {
+        "en": "[Hucheol]\nComplete Gator Attack.",
+        "pt": "[Tabelião]\nConcluir Gator Attack.",
+        "es": "[Hucheol]\n Completa Ataque de caimanes."
+    },
+    "GHFTAw": {
+        "en": "[Hucheol]\nMy Mermaid Isn't Like This... complete.",
+        "pt": "[Tabelião]\nMinha sereia não é assim... completo.",
+        "es": "[Hucheol]\n Mi sirena no es así... completo."
+    },
+    "GXFTAw": {
+        "en": "[Hucheol]\nComplete The Country Needs You.",
+        "pt": "[Tabelião]\nComplete O país precisa de você.",
+        "es": "[Hucheol]\n Completa El país te necesita."
+    },
+    "GnFTAw": {
+        "en": "[Hucheol]\nThe Country Needs You has not been completed.\nShould I cancel the quest for you?",
+        "pt": "[Tabelião]\nO país precisa de você não foi concluída.\nDevo cancelar a missão para você?",
+        "es": "[Hucheol]\n El país te necesita no se ha completado.\n ¿Debo cancelar la búsqueda por ti?"
+    },
+    "G3FTAw": {
+        "en": "[Hucheol]\nThe Country Needs You has been canceled.",
+        "pt": "[Tabelião]\nO país precisa de você foi cancelado.",
+        "es": "[Hucheol]\n El país te necesita ha sido cancelado."
+    },
+    "HHFTAw": {
+        "en": "[Hucheol]\nComplete Boar Raid Operation.",
+        "pt": "[Tabelião]\nConcluir a operação Boar Raid.",
+        "es": "[Hucheol]\n Completa la operación Asalto al jabalí."
+    },
+    "HXFTAw": {
+        "en": "[Hucheol]\nComplete Preparing For Summer.",
+        "pt": "[Tabelião]\nPreparação completa para o verão.",
+        "es": "[Hucheol]\n Preparación completa para el verano."
+    },
+    "HnFTAw": {
+        "en": "[Hucheol]\nPreparing For Summer has not been completed.\nShould I cancel the quest for you?",
+        "pt": "[Tabelião]\nPreparing For Summer (Preparando-se para o verão) não foi concluída.\nDevo cancelar a missão para você?",
+        "es": "[Hucheol]\n Preparing For Summer no se ha completado.\n ¿Debo cancelar la búsqueda por ti?"
+    },
+    "H3FTAw": {
+        "en": "[Hucheol]\nPreparing For Summer has been canceled.",
+        "pt": "[Tabelião]\nPreparing For Summer foi cancelado.",
+        "es": "[Hucheol]\n Preparing For Summer ha sido cancelado."
+    },
+    "IHFTAw": {
+        "en": "[Hucheol]\nComplete Woman's Grudge.",
+        "pt": "[Tabelião]\nComplete Woman's Grudge.",
+        "es": "[Hucheol]\n Rencor de mujer completo."
+    },
+    "IXFTAw": {
+        "en": "[Hucheol]\nComplete Exotic Ingredient.",
+        "pt": "[Tabelião]\nIngrediente exótico completo.",
+        "es": "[Hucheol]\n Ingrediente exótico completo."
+    },
+    "InFTAw": {
+        "en": "[Hucheol]\nExotic Ingredient has not been completed.\nShould I cancel the quest for you?",
+        "pt": "[Tabelião]\nExotic Ingredient não foi concluída.\nDevo cancelar a missão para você?",
+        "es": "[Hucheol]\n Ingrediente Exótico no se ha completado.\n ¿Debo cancelar la búsqueda por ti?"
+    },
+    "I3FTAw": {
+        "en": "[Hucheol]\nExotic Ingredient has been canceled.",
+        "pt": "[Tabelião]\nExotic Ingredient foi cancelado.",
+        "es": "[Hucheol]\n Ingrediente exótico ha sido cancelado."
+    },
+    "JHFTAw": {
+        "en": "[Hucheol]\nComplete Boar Raid Trace.",
+        "pt": "[Tabelião]\nConcluir o rastro do ataque do javali.",
+        "es": "[Hucheol]\n Completa el Rastro de la Incursión del Jabalí."
+    },
+    "JXFTAw": {
+        "en": "[Hucheol]\nBoar Raid Trace has not been completed.\nShould I cancel the quest for you?",
+        "pt": "[Tabelião]\nBoar Raid Trace não foi concluído.\nDevo cancelar a missão para você?",
+        "es": "[Hucheol]\n El rastro de la incursión del jabalí no se ha completado.\n ¿Debo cancelar la búsqueda para usted?"
+    },
+    "JnFTAw": {
+        "en": "[Hucheol]\nBoar Raid Trace has been canceled.",
+        "pt": "[Tabelião]\nO rastreamento da Incursão do Javali foi cancelado.",
+        "es": "[Hucheol]\n Se ha cancelado el Rastro de la Incursión del Jabalí."
+    },
+    "J3FTAw": {
+        "en": "[Hucheol]\nComplete Tiring Flies.",
+        "pt": "[Tabelião]\nComplete Tiring Flies.",
+        "es": "[Hucheol]\n Completar moscas cansadas."
+    },
+    "KHFTAw": {
+        "en": "[Hucheol]\nComplete Impure Girl.",
+        "pt": "[Tabelião]\nGarota impura completa.",
+        "es": "[Hucheol]\n Chica Impura Completa."
+    },
+    "KXFTAw": {
+        "en": "[Hucheol]\nComplete Weird Hobby.",
+        "pt": "[Tabelião]\nPassatempo estranho completo.",
+        "es": "[Hucheol]\n Complete Weird Hobby."
+    },
+    "KnFTAw": {
+        "en": "[Hucheol]\nWeird Hobby has not been completed.\nShould I cancel the quest for you?",
+        "pt": "[Tabelião]\nWeird Hobby não foi concluída.\nDevo cancelar a missão para você?",
+        "es": "[Hucheol]\n Weird Hobby no se ha completado.\n ¿Debo cancelar la búsqueda por ti?"
+    },
+    "K3FTAw": {
+        "en": "[Hucheol]\nWeird Hobby has been canceled.",
+        "pt": "[Tabelião]\nO Weird Hobby foi cancelado.",
+        "es": "[Hucheol]\n Weird Hobby ha sido cancelado."
+    },
+    "LHFTAw": {
+        "en": "[Hucheol]\nCompleted Dokebi Bat.",
+        "pt": "[Tabelião]\nConcluído Dokebi Bat.",
+        "es": "[Hucheol]\n Dokebi Bat completado."
+    },
+    "LXFTAw": {
+        "en": "[Hucheol]\nDokebi Bat has not been completed.\nShould I cancel the quest for you?",
+        "pt": "[Tabelião]\nDokebi Bat não foi concluída.\nDevo cancelar a missão para você?",
+        "es": "[Hucheol]\n Dokebi Bat no se ha completado.\n ¿Debo cancelar la búsqueda por ti?"
+    },
+    "LnFTAw": {
+        "en": "[Hucheol]\nDokebi Bat has been canceled.",
+        "pt": "[Tabelião]\nDokebi Bat foi cancelado.",
+        "es": "[Hucheol]\n Dokebi Bat ha sido cancelado."
+    },
+    "L3FTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Requiems quest.",
+        "pt": "[Tabelião]\nConclua a missão Derrotar Réquiens.",
+        "es": "[Hucheol]\n Completa la misión Derrota a los Requiems."
+    },
+    "MHFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Marduks quest.",
+        "pt": "[Tabelião]\nConcluir a missão Derrotar Marduks.",
+        "es": "[Hucheol]\n Completa la misión Derrota a Marduks."
+    },
+    "MXFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Pasanas quest.",
+        "pt": "[Tabelião]\nConclua a missão Derrotar Pasanas.",
+        "es": "[Hucheol]\n Completa la misión Derrota a Pasanas."
+    },
+    "MnFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Dark Frames quest.",
+        "pt": "[Tabelião]\nConclua a missão Derrotar Molduras Sombrias.",
+        "es": "[Hucheol]\n Completa la misión Derrota a los marcos oscuros."
+    },
+    "M3FTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Evil Druids quest.",
+        "pt": "[Tabelião]\nConclua a missão Derrotar Druidas Malignos.",
+        "es": "[Hucheol]\n Completa la misión Derrota a los druidas malvados."
+    },
+    "NHFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Wraiths quest.",
+        "pt": "[Tabelião]\nConcluir a missão Derrotar Espectros.",
+        "es": "[Hucheol]\n Completa la misión Derrota a los espectros."
+    },
+    "NXFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Raydrics quest.",
+        "pt": "[Tabelião]\nConclua a missão Derrotar Raydrics.",
+        "es": "[Hucheol]\n Completa la misión Derrota a Raydrics."
+    },
+    "NnFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Grand Peco Pecos quest.",
+        "pt": "[Tabelião]\nConcluir a missão Derrotar o Grande Peco Pecos.",
+        "es": "[Hucheol]\n Completa la misión Derrota al Gran Peco Pecos."
+    },
+    "N3FTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Sleepers quest.",
+        "pt": "[Tabelião]\nConclua a missão ''Derrotar os adormecidos''.",
+        "es": "[Hucheol]\n Completa la misión Derrota a los durmientes."
+    },
+    "OHFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Goats quest.",
+        "pt": "[Tabelião]\nConclua a missão ''Derrotar cabras''.",
+        "es": "[Hucheol]\n Completa la misión Derrota a las cabras."
+    },
+    "OXFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Harpies quest.",
+        "pt": "[Tabelião]\nConcluir a missão Derrotar Harpias.",
+        "es": "[Hucheol]\n Completa la misión Derrota a las arpías."
+    },
+    "OnFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Clocks quest.",
+        "pt": "[Tabelião]\nConclua a missão ''Derrotar relógios''.",
+        "es": "[Hucheol]\n Completa la misión Derrota a los relojes."
+    },
+    "O3FTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Punks quest.",
+        "pt": "[Tabelião]\nComplete a missão Defeat Punks.",
+        "es": "[Hucheol]\n Completa la misión Derrota a los gamberros."
+    },
+    "PHFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Ridewords quest.",
+        "pt": "[Tabelião]\nConcluir a missão ''Derrotar palavras de cavaleiro''.",
+        "es": "[Hucheol]\n Completa la misión Derrota a Ridewords."
+    },
+    "PXFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Uzhas quest.",
+        "pt": "[Tabelião]\nConcluir a missão Derrotar Uzhas.",
+        "es": "[Hucheol]\n Completa la misión Derrota a Uzhas."
+    },
+    "PnFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Miyabi Dolls quest.",
+        "pt": "[Tabelião]\nComplete a missão Defeat Miyabi Dolls.",
+        "es": "[Hucheol]\n Completa la misión Derrota a las muñecas Miyabi."
+    },
+    "P3FTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Mi Gaos quest.",
+        "pt": "[Tabelião]\nConcluir a missão Defeat Mi Gaos.",
+        "es": "[Hucheol]\n Completa la misión Derrota a Mi Gaos."
+    },
+    "QHFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Headless Horses quest.",
+        "pt": "[Tabelião]\nConclua a missão ''Derrotar cavalos sem cabeça''.",
+        "es": "[Hucheol]\n Completa la misión Derrota a los caballos sin cabeza."
+    },
+    "QXFTAw": {
+        "en": "[Hucheol]\nComplete the Noisy Tamruan quest.",
+        "pt": "[Tabelião]\nConcluir a missão ''Noisy Tamruan''.",
+        "es": "[Hucheol]\n Completa la misión Tamruan ruidoso."
+    },
+    "QnFTAw": {
+        "en": "[Hucheol]\nComplete Show Preparation.",
+        "pt": "[Tabelião]\nPreparação completa do show.",
+        "es": "[Hucheol]\n Preparación completa del espectáculo."
+    },
+    "Q3FTAw": {
+        "en": "[Hucheol]\nTo complete Show Preparation, you need 30 Festival Masks.\nShould I cancel the quest for you?",
+        "pt": "[Tabelião]\nPara concluir a Preparação do Show, você precisa de 30 Máscaras do Festival.\nDevo cancelar a missão para você?",
+        "es": "[Hucheol]\n Para completar la Preparación del Espectáculo, necesitas 30 Máscaras del Festival.\n ¿Te cancelo la búsqueda?"
+    },
+    "RHFTAw": {
+        "en": "Cancel the quest.",
+        "pt": "Cancelar a missão.",
+        "es": "Cancela la búsqueda."
+    },
+    "RXFTAw": {
+        "en": "Continue the quest.",
+        "pt": "Continue a missão.",
+        "es": "Continúa la búsqueda."
+    },
+    "RnFTAw": {
+        "en": "[Hucheol]\nShow Preparation has been canceled.",
+        "pt": "[Tabelião]\nO Show Preparation foi cancelado.",
+        "es": "[Hucheol]\n El espectáculo Preparación ha sido cancelado."
+    },
+    "R3FTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Dragon Tails quest.",
+        "pt": "[Tabelião]\nConclua a missão ''Derrote Dragon Tails''.",
+        "es": "[Hucheol]\n Completa la misión Derrota a Colas de Dragón."
+    },
+    "SHFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Spring Rabbits quest.",
+        "pt": "[Tabelião]\nConclua a missão ''Derrote Spring Rabbits''.",
+        "es": "[Hucheol]\n Completa la misión Derrota a los conejos de primavera."
+    },
+    "SXFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Pests quest.",
+        "pt": "[Tabelião]\nConcluir a missão Derrotar Pragas.",
+        "es": "[Hucheol]\n Completa la misión Derrota a las plagas."
+    },
+    "SnFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Bathories quest.",
+        "pt": "[Tabelião]\nConclua a missão ''Derrotar os Batedores''.",
+        "es": "[Hucheol]\n Completa la misión Derrota a los Bathories."
+    },
+    "S3FTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Alarms quest.",
+        "pt": "[Tabelião]\nConcluir a missão Derrotar Alarmes.",
+        "es": "[Hucheol]\n Completa la misión Derrota a las alarmas."
+    },
+    "THFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Baba Yagas quest.",
+        "pt": "[Tabelião]\nConcluir a missão Derrotar Baba Yagas.",
+        "es": "[Hucheol]\n Completa la misión Derrota a Baba Yagas."
+    },
+    "TXFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Yao Juns quest.",
+        "pt": "[Tabelião]\nConcluir a missão Derrotar Yao Juns.",
+        "es": "[Hucheol]\n Completa la misión Derrota a Yao Juns."
+    },
+    "TnFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Firelock Soldiers quest.",
+        "pt": "[Tabelião]\nConclua a missão Derrotar Soldados Firelock.",
+        "es": "[Hucheol]\n Completa la misión Derrota a los soldados de Firelock."
+    },
+    "T3FTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Zipper Bears quest.",
+        "pt": "[Tabelião]\nConclua a missão Derrote os ursos de zíper.",
+        "es": "[Hucheol]\n Completa la misión Derrota a los osos cremallera."
+    },
+    "UHFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Petites quest.",
+        "pt": "[Tabelião]\nConcluir a missão Defeat Petites.",
+        "es": "[Hucheol]\n Completa la misión Derrota a los pequeños."
+    },
+    "UXFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Rafflesias quest.",
+        "pt": "[Tabelião]\nConclua a missão Derrotar Rafflesias.",
+        "es": "[Hucheol]\n Completa la misión Derrota a Rafflesias."
+    },
+    "UnFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Venomouses quest.",
+        "pt": "[Tabelião]\nConclua a missão Derrotar Venomouses.",
+        "es": "[Hucheol]\n Completa la misión Derrota a las Venomouses."
+    },
+    "U3FTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Pitmen quest.",
+        "pt": "[Tabelião]\nConclua a missão ''Derrotar os Homens do Fosso''.",
+        "es": "[Hucheol]\n Completa la misión Derrota a los hombres del foso."
+    },
+    "VHFTAw": {
+        "en": "[Hucheol]\nComplete the Defeat Novuses quest.",
+        "pt": "[Tabelião]\nConclua a missão Defeat Novuses.",
+        "es": "[Hucheol]\n Completa la misión Derrota a los Novus."
+    },
+    "VXFTAw": {
+        "en": "[Hucheol]\nDefeat Dragon Tails quest completion confirmed.",
+        "pt": "[Tabelião]\nConfirmada a conclusão da missão ''Derrote Dragon Tails''.",
+        "es": "[Hucheol]\n Confirmada la finalización de la misión Derrota a Cola de Dragón."
+    },
+    "VnFTAw": {
+        "en": "[Hucheol]\nDefeat Freezers quest completion confirmed.",
+        "pt": "[Tabelião]\nConfirmada a conclusão da missão Defeat Freezers.",
+        "es": "[Hucheol]\n Se ha confirmado la finalización de la misión Derrota a los congeladores."
+    },
+    "V3FTAw": {
+        "en": "[Hucheol]\nDefeat Heaters quest completion confirmed.",
+        "pt": "[Tabelião]\nConfirmada a conclusão da missão Derrotar Aquecedores.",
+        "es": "[Hucheol]\n Se ha confirmado la finalización de la misión Derrota a los calentadores."
+    },
+    "WHFTAw": {
+        "en": "[Hucheol]\nDefeat Injustices quest completion confirmed.",
+        "pt": "[Tabelião]\nConfirmada a conclusão da missão Defeat Injustices.",
+        "es": "[Hucheol]\n Confirmada la finalización de la misión Derrota a las injusticias."
+    },
+    "WXFTAw": {
+        "en": "[Hucheol]\nDefeat Rybios quest completion confirmed.",
+        "pt": "[Tabelião]\nConfirmada a conclusão da missão Derrotar Rybios.",
+        "es": "[Hucheol]\n Se ha confirmado la finalización de la misión Derrota a Rybios."
+    },
+    "WnFTAw": {
+        "en": "[Hucheol]\nDefeat Dark Priests quest completion confirmed.",
+        "pt": "[Tabelião]\nConfirmada a conclusão da missão ''Derrote os Sacerdotes das Trevas''.",
+        "es": "[Hucheol]\n Confirmada la finalización de la misión Derrota a los Sacerdotes Oscuros."
+    },
+    "W3FTAw": {
+        "en": "[Hucheol]\nDefeat Stapos quest completion confirmed.",
+        "pt": "[Tabelião]\nConfirmada a conclusão da missão Derrotar Stapos.",
+        "es": "[Hucheol]\n Se ha confirmado la finalización de la misión Derrota a Stapos."
+    },
+    "XHFTAw": {
+        "en": "[Hucheol]\nDefeat Roweens quest completion confirmed.",
+        "pt": "[Tabelião]\nConfirmada a conclusão da missão Derrotar Roweens.",
+        "es": "[Hucheol]\n Se ha confirmado la finalización de la misión Derrota a Roweens."
+    },
+    "XXFTAw": {
+        "en": "[Hucheol]\nDefeat Siromas quest completion confirmed.",
+        "pt": "[Tabelião]\nConfirmada a conclusão da missão Derrotar Siromas.",
+        "es": "[Hucheol]\n Se ha confirmado la finalización de la misión Derrota a Siromas."
+    },
+    "XnFTAw": {
+        "en": "[Hucheol]\nDefeat Shinobis quest completion confirmed.",
+        "pt": "[Tabelião]\nConfirmada a conclusão da missão Derrotar Shinobis.",
+        "es": "[Hucheol]\n Se ha confirmado la finalización de la misión Derrota a Shinobis."
+    },
+    "X3FTAw": {
+        "en": "[Hucheol]\nDefeat Wicked Nymphs quest completion confirmed.",
+        "pt": "[Tabelião]\nConfirmada a conclusão da missão Defeat Wicked Nymphs.",
+        "es": "[Hucheol]\n Confirmada la finalización de la misión Derrota a las ninfas malvadas."
+    },
+    "YHFTAw": {
+        "en": "[Hucheol]\nDefeat Deviruchis quest completion confirmed.",
+        "pt": "[Tabelião]\nConfirmada a conclusão da missão Derrotar Deviruchis.",
+        "es": "[Hucheol]\n Se ha confirmado la finalización de la misión Derrota a Deviruchis."
+    },
+    "YXFTAw": {
+        "en": "[Hucheol]\nDefeat Minerals quest completion confirmed.",
+        "pt": "[Tabelião]\nConfirmada a conclusão da missão Derrote Minerals.",
+        "es": "[Hucheol]\n Finalización de la misión Derrota a los Minerales confirmada."
+    },
+    "YnFTAw": {
+        "en": "[Hucheol]\nDefeat Kahos quest completion confirmed.",
+        "pt": "[Tabelião]\nConfirmada a conclusão da missão Derrotar Kahos.",
+        "es": "[Hucheol]\n Finalización de la misión Derrota a Kahos confirmada."
+    },
+    "Y3FTAw": {
+        "en": "[Hucheol]\nDefeat Neraids quest completion confirmed.",
+        "pt": "[Tabelião]\nConfirmada a conclusão da missão Derrotar Neraids.",
+        "es": "[Hucheol]\n Finalización de la misión Derrota a Neraids confirmada."
+    },
+    "ZHFTAw": {
+        "en": "[Hucheol]\nDefeat Disguises quest completion confirmed.",
+        "pt": "[Tabelião]\nConfirmada a conclusão da missão ''Derrote os disfarces''.",
+        "es": "[Hucheol]\n Se ha confirmado la finalización de la misión Derrota a los disfraces."
+    },
+    "ZXFTAw": {
+        "en": "[Hucheol]\n[I'm Not Really Laughing] completion confirmed.",
+        "pt": "[Tabelião]\n[Conclusão confirmada.",
+        "es": "[Hucheol]\n [I'm Not Really Laughing] finalización confirmada."
+    },
+    "ZnFTAw": {
+        "en": "[Hucheol]\n[Don't Peel That!] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Don't Peel That!]",
+        "es": "[Hucheol]\n [¡No peles eso!] finalización confirmada."
+    },
+    "Z3FTAw": {
+        "en": "[Hucheol]\n[Pilgrimage - 1] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Peregrinação - 1]",
+        "es": "[Hucheol]\n [Peregrinación - 1] finalización confirmada."
+    },
+    "aHFTAw": {
+        "en": "[Hucheol]\n[Pilgrimage - 2] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Peregrinação - 2]",
+        "es": "[Hucheol]\n [Peregrinación - 2] finalización confirmada."
+    },
+    "aXFTAw": {
+        "en": "[Hucheol]\n[Pilgrimage - 3] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Peregrinação - 3]",
+        "es": "[Hucheol]\n [Peregrinación - 3] finalización confirmada."
+    },
+    "anFTAw": {
+        "en": "[Hucheol]\n[Empathy For Adventurers] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada da [Empatia pelos aventureiros]",
+        "es": "[Hucheol]\n [Empatía para aventureros] finalización confirmada."
+    },
+    "a3FTAw": {
+        "en": "[Hucheol]\n[Trauma] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão [Trauma] confirmada.",
+        "es": "[Hucheol]\n [Trauma] finalización confirmada."
+    },
+    "bHFTAw": {
+        "en": "[Hucheol]\n[Dance With Wolves] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Dance With Wolves]",
+        "es": "[Hucheol]\n Se confirma la finalización de [Danza con lobos]"
+    },
+    "bXFTAw": {
+        "en": "[Hucheol]\n[Noisy Fellows] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Noisy Fellows]",
+        "es": "[Hucheol]\n [Compañeros ruidosos] finalización confirmada."
+    },
+    "bnFTAw": {
+        "en": "[Hucheol]\n[Golem? Golem!] completion confirmed.",
+        "pt": "[Tabelião]\n[Conclusão confirmada.",
+        "es": "[Hucheol]\n [¿Golem? ¡Golem!] finalización confirmada."
+    },
+    "b3FTAw": {
+        "en": "[Hucheol]\n[You In My Hazy Memories] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [You In My Hazy Memories]",
+        "es": "[Hucheol]\n Se confirma la finalización de [You In My Hazy Memories]"
+    },
+    "cHFTAw": {
+        "en": "[Hucheol]\n[One Last Dance With Me] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [One Last Dance With Me]",
+        "es": "[Hucheol]\n Se confirma la finalización de [One Last Dance With Me]"
+    },
+    "cXFTAw": {
+        "en": "[Hucheol]\n[Heavy Breathing] completion confirmed.",
+        "pt": "[Tabelião]\n[Conclusão confirmada.",
+        "es": "[Hucheol]\n [Respiración Pesada] finalización confirmada."
+    },
+    "cnFTAw": {
+        "en": "[Hucheol]\n[A Certain Hairdresser's Despair] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [A Certain Hairdresser's Despair]",
+        "es": "[Hucheol]\n Se confirma la finalización de [La desesperación de cierta peluquera]"
+    },
+    "c3FTAw": {
+        "en": "[Hucheol]\n[Red Star in the Desert] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Estrela Vermelha no Deserto]",
+        "es": "[Hucheol]\n [Estrella roja en el desierto] finalización confirmada."
+    },
+    "dHFTAw": {
+        "en": "[Hucheol]\n[I'm the Alpha Here!] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [I'm the Alpha Here!]",
+        "es": "[Hucheol]\n [¡Soy el Alfa aquí!] finalización confirmada."
+    },
+    "dXFTAw": {
+        "en": "[Hucheol]\n[Raydric Research] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada da [Pesquisa Raydric]",
+        "es": "[Hucheol]\n [Investigación Raydric] finalización confirmada."
+    },
+    "dnFTAw": {
+        "en": "[Hucheol]\n[Khalitzburg Research] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Khalitzburg Research]",
+        "es": "[Hucheol]\n [Investigación de Khalitzburg] finalización confirmada."
+    },
+    "d3FTAw": {
+        "en": "[Hucheol]\n[Wandering One Research] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada da [Pesquisa do Errante]",
+        "es": "[Hucheol]\n [Investigación del Errante] finalización confirmada."
+    },
+    "eHFTAw": {
+        "en": "[Hucheol]\n[Ancient Mimic Research] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada da [Pesquisa de Mímica Antiga]",
+        "es": "[Hucheol]\n Se confirma la finalización de [Investigación de Mímicos Antiguos]"
+    },
+    "eXFTAw": {
+        "en": "[Hucheol]\n[Death Word Research] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada da [Pesquisa de palavras de morte]",
+        "es": "[Hucheol]\n [Investigación de la Palabra de la Muerte] finalización confirmada."
+    },
+    "enFTAw": {
+        "en": "[Hucheol]\n[Owl Baron Research] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada do [Owl Baron Research]",
+        "es": "[Hucheol]\n [Investigación Búho Barón] finalización confirmada."
+    },
+    "e3FTAw": {
+        "en": "[Hucheol]\nTo complete [A Certain Generic's Ancient Tome List], you need to bring me 20 Bloody Pages.",
+        "pt": "[Tabelião]\nPara completar a [Lista de Tomos Antigos de Um Certo Genérico], você precisa me trazer 20 Páginas Sangrentas.",
+        "es": "[Hucheol]\n Para completar la [Lista de Tomos Antiguos de Cierto Genérico], tienes que traerme 20 Páginas Sangrientas."
+    },
+    "fHFTAw": {
+        "en": "Hand them over.",
+        "pt": "Entregue-os.",
+        "es": "Entrégalos."
+    },
+    "fXFTAw": {
+        "en": "[Hucheol]\n[A Certain Generic's Ancient Tome List] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada da [Lista de tomos antigos de um certo genérico]",
+        "es": "[Hucheol] \nConfirmada la finalización de la [Lista de tomos antiguos de un cierto género]"
+    },
+    "fnFTAw": {
+        "en": "[Hucheol]\nThe quest has been canceled.",
+        "pt": "[Tabelião]\nA missão foi cancelada.",
+        "es": "[Hucheol] \nLa misión ha sido cancelada."
+    },
+    "f3FTAw": {
+        "en": "[Hucheol]\n[Pinguicula Research] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada da [Pesquisa Pinguicula]",
+        "es": "[Hucheol] \n[Investigación de Pinguicula] Conclusión confirmada"
+    },
+    "gHFTAw": {
+        "en": "[Hucheol]\n[Nepenthes Research] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Nepenthes Research]",
+        "es": "[Hucheol] \n[Investigación sobre Nepenthes] Confirmada su finalización"
+    },
+    "gXFTAw": {
+        "en": "[Hucheol]\n[Naga Research] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão da [Pesquisa Naga] confirmada.",
+        "es": "[Hucheol] \nSe confirmó la finalización de la [Investigación Naga]."
+    },
+    "gnFTAw": {
+        "en": "[Hucheol]\n[Centipede Larva Research] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada da [Pesquisa de larva de centopeia]",
+        "es": "[Hucheol] \n[Investigación de larvas de ciempiés] Confirmada su finalización"
+    },
+    "g3FTAw": {
+        "en": "[Hucheol]\n[Cornus Research] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Cornus Research]",
+        "es": "[Hucheol] \n[Investigación sobre Cornus] Confirmada su finalización"
+    },
+    "hHFTAw": {
+        "en": "[Hucheol]\nTo complete [We Don't Know the Power of That Horn From That Day], you need to bring me 20 Mystic Horns.",
+        "pt": "[Tabelião]\nPara completar [We Don't Know the Power of That Horn From That Day], você precisa me trazer 20 Mystic Horns.",
+        "es": "[Hucheol] \nPara completar [No sabemos el poder de ese cuerno de ese día], debes traerme 20 cuernos místicos."
+    },
+    "hXFTAw": {
+        "en": "[Hucheol]\n[We Don't Know the Power of That Horn From That Day] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [We Don't Know the Power of That Horn From That Day]",
+        "es": "[Hucheol] \nConfirmada la finalización de [No sabemos el poder de ese cuerno de ese día]"
+    },
+    "hnFTAw": {
+        "en": "[Hucheol]\n[Ancient Mummy Research] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada da [Pesquisa de Múmia Antiga]",
+        "es": "[Hucheol] \n[Investigación sobre momias antiguas] Confirmada su finalización"
+    },
+    "h3FTAw": {
+        "en": "[Hucheol]\n[Geffenia Exploration] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada da [Geffenia Exploration]",
+        "es": "[Hucheol] \n[Exploración Geffenia] Confirmada su finalización"
+    },
+    "iHFTAw": {
+        "en": "[Hucheol]\n[Juperos Exploration] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Juperos Exploration]",
+        "es": "[Hucheol] \n[Exploración Juperos] Confirmada su finalización"
+    },
+    "iXFTAw": {
+        "en": "[Hucheol]\nTo complete [When Discovering a Fragment], you need to bring me 10 Fragments and 20 Screws.",
+        "pt": "[Tabelião]\nPara completar [When Discovering a Fragment], você precisa me trazer 10 fragmentos e 20 parafusos.",
+        "es": "[Hucheol] \nPara completar [Al descubrir un fragmento], debes traerme 10 fragmentos y 20 tornillos."
+    },
+    "inFTAw": {
+        "en": "[Hucheol]\n[When Discovering a Fragment] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Ao descobrir um fragmento]",
+        "es": "[Hucheol] \nConfirmada la finalización de [Al descubrir un fragmento]"
+    },
+    "i3FTAw": {
+        "en": "[Hucheol]\n[Thanatos Tower Investigation] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada da [Investigação da Torre de Thanatos]",
+        "es": "[Hucheol] \n[Investigación de la Torre Thanatos] Confirmada su finalización"
+    },
+    "jHFTAw": {
+        "en": "[Hucheol]\n[Rachel Sanctum Investigation] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada do [Rachel Sanctum Investigation]",
+        "es": "[Hucheol] \n[Investigación del Santuario de Rachel] Conclusión confirmada"
+    },
+    "jXFTAw": {
+        "en": "[Hucheol]\n[Nameless Island Investigation] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada da [Investigação da Ilha Sem Nome]",
+        "es": "[Hucheol] \n[Investigación de la Isla Sin Nombre] Conclusión confirmada"
+    },
+    "jnFTAw": {
+        "en": "[Hucheol]\n[Abyss Lake Investigation] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada da [Investigação do Lago do Abismo]",
+        "es": "[Hucheol] \n[Investigación del Lago Abyss] Confirmada su finalización"
+    },
+    "j3FTAw": {
+        "en": "[Hucheol]\n[Baroness of Retribution] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada da [Baronesa da Retribuição]",
+        "es": "[Hucheol] \n[Baronesa de la Retribución] Finalización confirmada"
+    },
+    "kHFTAw": {
+        "en": "[Hucheol]\n[The Consoling One] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [The Consoling One]",
+        "es": "[Hucheol]\n [El consolador] Se confirmó la finalización"
+    },
+    "kXFTAw": {
+        "en": "[Hucheol]\n[The One Who Brings Rest] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Aquele que traz descanso]",
+        "es": "[Hucheol] \nConfirmada la finalización de [El que trae descanso]"
+    },
+    "knFTAw": {
+        "en": "[Hucheol]\n[The Watcher] completion confirmed.",
+        "pt": "[Tabelião]\n[Conclusão confirmada.",
+        "es": "[Hucheol] \n[Finalización confirmada."
+    },
+    "k3FTAw": {
+        "en": "[Hucheol]\n[Vanberk and Isilla] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Vanberk e Isilla]",
+        "es": "[Hucheol] \n[Vanberk e Isilla] Confirmada su finalización"
+    },
+    "lHFTAw": {
+        "en": "[Hucheol]\n[Hodremlin] completion confirmed.",
+        "pt": "[Tabelião]\n[Conclusão confirmada.",
+        "es": "[Hucheol] \n[Finalización confirmada."
+    },
+    "lXFTAw": {
+        "en": "[Hucheol]\n[Agav and Echio] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Agav e Echio]",
+        "es": "[Hucheol] \nConfirmada la finalización de [Agav y Echio]"
+    },
+    "lnFTAw": {
+        "en": "[Hucheol]\n[Defeat Ragged Zombies] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Derrote Ragged Zombies]",
+        "es": "[Hucheol] \nConfirmada la finalización de [Derrotar a los zombis harapientos]."
+    },
+    "l3FTAw": {
+        "en": "[Hucheol]\n[Defeat Zombie Slaughters] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Derrote Zombie Slaughters]",
+        "es": "[Hucheol] \nConfirmada la finalización de [Derrotar a los zombis]"
+    },
+    "mHFTAw": {
+        "en": "[Hucheol]\n[Defeat Banshees] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Derrotar Banshees]",
+        "es": "[Hucheol] \n[Derrotar Banshees] Finalización confirmada"
+    },
+    "mXFTAw": {
+        "en": "[Hucheol]\n[Defeat Feruses] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Derrotar Feruses]",
+        "es": "[Hucheol]\nConfirmada la finalización de [Derrotando a Feruses]"
+    },
+    "mnFTAw": {
+        "en": "[Hucheol]\n[Defeat Aciduses] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Defeat Aciduses]",
+        "es": "[Hucheol] \nConfirmada la finalización de [Derrotar a los Aciduses]"
+    },
+    "m3FTAw": {
+        "en": "[Hucheol]\n[Egnigem Cenia] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Egnigem Cenia]",
+        "es": "[Hucheol] \n[Egnigem Cenia] Finalización confirmada"
+    },
+    "nHFTAw": {
+        "en": "[Hucheol]\n[Armeyer Dinze] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada [Armeyer Dinze]",
+        "es": "[Hucheol] \nConclusión confirmada [Armeyer Dinze]"
+    },
+    "nXFTAw": {
+        "en": "[Hucheol]\n[Wickebine Tres] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Wickebine Tres]",
+        "es": "[Hucheol] \n[Wickebine Tres] Confirmada su finalización"
+    },
+    "nnFTAw": {
+        "en": "[Hucheol]\n[Kibaq Icarus] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Kibaq Icarus]",
+        "es": "[Hucheol] \n[Kibaq Icarus] Confirmada su finalización"
+    },
+    "n3FTAw": {
+        "en": "[Hucheol]\n[Errende Ebecee] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Errende Ebecee]",
+        "es": "[Hucheol] \nFinalización confirmada de [Errende Ebecee]"
+    },
+    "oHFTAw": {
+        "en": "[Hucheol]\n[Laurell Weinder] completion confirmed.",
+        "pt": "[Tabelião]\n[Laurell Weinder] conclusão confirmada.",
+        "es": "[Hucheol] \n[Laurell Weinder] Conclusión confirmada."
+    },
+    "oXFTAw": {
+        "en": "[Hucheol]\n[Angel and Demon] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Anjo e Demônio]",
+        "es": "[Hucheol] \n[Ángel y Demonio] Se confirmó la finalización"
+    },
+    "onFTAw": {
+        "en": "[Hucheol]\n[Black Nightmare] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Black Nightmare]",
+        "es": "[Hucheol] \n[Pesadilla Negra] Confirmada su finalización"
+    },
+    "o3FTAw": {
+        "en": "[Hucheol]\n[Unreachable Pain] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Unreachable Pain]",
+        "es": "[Hucheol] \n[Dolor inalcanzable] Finalización confirmada"
+    },
+    "pHFTAw": {
+        "en": "[Hucheol]\n[One Means One, Not Two] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [One Means One, Not Two]",
+        "es": "[Hucheol] \n[Uno significa uno, no dos] Finalización confirmada"
+    },
+    "pXFTAw": {
+        "en": "[Hucheol]\n[Two Means Two, Not Three] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Two Means Two, Not Three]",
+        "es": "[Hucheol] \n[Dos significa dos, no tres] Finalización confirmada"
+    },
+    "pnFTAw": {
+        "en": "[Hucheol]\n[Antler Story] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada da [Antler Story]",
+        "es": "[Hucheol] \n[Historia de Antler] Confirmada su finalización"
+    },
+    "p3FTAw": {
+        "en": "[Hucheol]\n[Webfoot Horn Story] completion confirmed.",
+        "pt": "[Tabelião]\nConclusão confirmada de [Webfoot Horn Story]",
+        "es": "[Hucheol] \n[Historia de Webfoot Horn] Confirmada su finalización"
+    },
+    "qHFTAw": {
+        "en": "[Hucheol]\nI can accept any Courtesy Tickets you received from completing Eden Group quests.\nHow do you want to use them?",
+        "pt": "[Tabelião]\nTroco Tickets de Cortesia, mas você não deverá ter um deles, pois não foram disponbilizados neste servidor.\nComo você quer usá-los?",
+        "es": "[Hucheol] \nPuedo aceptar todos los boletos de cortesía que recibiste por completar las misiones del Grupo Edén. \n¿Cómo quieres utilizarlos?"
+    },
+    "qXFTAw": {
+        "en": "Obtain items",
+        "pt": "Trocar por itens",
+        "es": "Obtener artículos"
+    },
+    "qnFTAw": {
+        "en": "Obtain EXP",
+        "pt": "Trocar por EXP",
+        "es": "Obtener EXP"
+    },
+    "q3FTAw": {
+        "en": "[Hucheol]\nYou can obtain random items as before. How many Courtesy Tickets would you like to exchange?",
+        "pt": "[Tabelião]\nVocê pode obter itens aleatórios como antes. Quantos bilhetes de cortesia você gostaria de trocar?",
+        "es": "[Hucheol] \nPuedes obtener elementos aleatorios como antes. ¿Cuántos billetes de cortesía te gustaría canjear?"
+    },
+    "rHFTAw": {
+        "en": "Exchange ^0000CD1 Courtesy Ticket(s)^000000",
+        "pt": "Troca ^0000CD1 Bilhete(s) de cortesia ^000000",
+        "es": "Intercambio ^0000CD1 boleto(s) de cortesía ^000000"
+    },
+    "rXFTAw": {
+        "en": "Exchange ^0000CD10 Courtesy Ticket(s)^000000",
+        "pt": "Troca ^0000CD10 Bilhete(s) de cortesia ^000000",
+        "es": "Intercambio ^0000CD10 boletos de cortesía ^000000"
+    },
+    "rnFTAw": {
+        "en": "[Hucheol]\nYou do not have enough Courtesy Tickets to use this.",
+        "pt": "[Tabelião]\nVocê não tem tíquetes de cortesia suficientes para usar isso.",
+        "es": "[Hucheol] \nNo tienes suficientes boletos de cortesía para usar esto."
+    },
+    "r3FTAw": {
+        "en": "Blue Potion x2",
+        "pt": "Poção azul x2",
+        "es": "Poción azul x2"
+    },
+    "sHFTAw": {
+        "en": "White Slim Potion x10",
+        "pt": "Poção Branca Magra x10",
+        "es": "Poción blanca magra x10"
+    },
+    "sXFTAw": {
+        "en": "Old Blue Box x1",
+        "pt": "Caixa azul antiga x1",
+        "es": "Caja azul vieja x1"
+    },
+    "snFTAw": {
+        "en": "Old Purple Box x1",
+        "pt": "Caixa roxa antiga x1",
+        "es": "Caja morada antigua x1"
+    },
+    "s3FTAw": {
+        "en": "White Slim Potion x5",
+        "pt": "Poção Branca Magra x5",
+        "es": "Poción blanca magra x5"
+    },
+    "tHFTAw": {
+        "en": "[Hucheol]\nI have received the tickets. The item you will receive is...\n{}. Thank you.",
+        "pt": "[Tabelião]\nRecebi os ingressos. O item que você receberá é...\n{}. Obrigado.",
+        "es": "[Hucheol] \nRecibí las entradas. El artículo que recibirás es... {}. \nGracias."
+    },
+    "tXFTAw": {
+        "en": "Yggdrasil Seed x1",
+        "pt": "Semente de Yggdrasil x1",
+        "es": "Semilla de Yggdrasil x1"
+    },
+    "tnFTAw": {
+        "en": "White Slim Potion x100",
+        "pt": "Poção Magra Branca x100",
+        "es": "Poción adelgazante blanca x100"
+    },
+    "t3FTAw": {
+        "en": "Old Card Album x1",
+        "pt": "Álbum de cartões antigos x1",
+        "es": "Álbum de tarjetas antiguo x1"
+    },
+    "uHFTAw": {
+        "en": "White Slim Potion x60",
+        "pt": "Poção fina branca x60",
+        "es": "Poción fina blanca x60"
+    },
+    "uXFTAw": {
+        "en": "[Hucheol]\nYou can obtain EXP by using Courtesy Tickets.\nObtainable EXP depends on the number of Courtesy Tickets.",
+        "pt": "[Tabelião]\nVocê pode obter EXP usando ingressos de cortesia.\nA EXP obtida depende do número de tíquetes de cortesia.",
+        "es": "[Hucheol] \nPuedes obtener EXP usando tickets de cortesía. La EXP obtenida depende de la cantidad de tickets de cortesía."
+    },
+    "unFTAw": {
+        "en": "Use ^0000CD10 Courtesy Tickets^000000",
+        "pt": "Use ^0000CD10 ingressos de cortesia^000000",
+        "es": "Utilice ^0000CD10 entradas de cortesía^000000"
+    },
+    "u3FTAw": {
+        "en": "Use ^0000CD20 Courtesy Tickets^000000",
+        "pt": "Use ^0000CD20 ingressos de cortesia^000000",
+        "es": "Utilice ^0000CD20 entradas de cortesía^000000"
+    },
+    "vHFTAw": {
+        "en": "Use ^0000CD30 Courtesy Tickets^000000",
+        "pt": "Use ^0000CD30 ingressos de cortesia^000000",
+        "es": "Utilice ^0000CD30 entradas de cortesía^000000"
+    },
+    "vXFTAw": {
+        "en": "[Hucheol]\nI will take 10 Courtesy Tickets and will give you 120,000 EXP and 168,000 JEXP in return.",
+        "pt": "[Tabelião]\nEu pegarei 10 ingressos de cortesia e lhe darei 120.000 EXP e 168.000 JEXP em troca.",
+        "es": "[Hucheol] \nTomaré 10 boletos de cortesía y te daré 120.000 EXP y 168.000 JEXP a cambio."
+    },
+    "vnFTAw": {
+        "en": "[Hucheol]\nI will take 20 Courtesy Tickets and will give you 300,000 EXP and 340,000 JEXP in return.",
+        "pt": "[Tabelião]\nEu pegarei 20 ingressos de cortesia e lhe darei 300.000 EXP e 340.000 JEXP em troca.",
+        "es": "[Hucheol] \nTomaré 20 boletos de cortesía y te daré 300.000 EXP y 340.000 JEXP a cambio."
+    },
+    "v3FTAw": {
+        "en": "[Hucheol]\nI will take 30 Courtesy Tickets and will give you 500,000 EXP and 488,000 JEXP in return.",
+        "pt": "[Tabelião]\nVou pegar 30 ingressos de cortesia e lhe darei 500.000 EXP e 488.000 JEXP em troca.",
+        "es": "[Hucheol] \nTomaré 30 boletos de cortesía y te daré 500.000 EXP y 488.000 JEXP a cambio."
+    },
+    "wHFTAw": {
+        "en": "[Hucheol]\nDo you not need them?\nWhat a relief.",
+        "pt": "[Tabelião]\nVocê não precisa deles?\nQue alívio.",
+        "es": "[Hucheol] \n¿No los necesitas? \n¡Qué alivio!"
+    }
+}

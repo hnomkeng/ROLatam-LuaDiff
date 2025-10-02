@@ -1,0 +1,662 @@
+{
+    "`\u0018#": {
+        "en": "Bazett Teablack",
+        "pt": "Bazett Teablack",
+        "es": "Bazett Teablack"
+    },
+    "a\u0018#": {
+        "en": "You are carrying too many items.\nCome back after using storage.",
+        "pt": "Você está carregando muitos itens.\nVolte depois de usar o armazenamento.",
+        "es": "Llevas demasiados objetos.\nVuelve después de usar el almacén."
+    },
+    "b\u0018#": {
+        "en": "You cannot continue the quest until you have lightened your inventory.",
+        "pt": "Você não poderá continuar a missão até que tenha aliviado seu inventário.",
+        "es": "No podrás continuar con la misión hasta que hagas lugar en el inventario."
+    },
+    "c\u0018#": {
+        "en": "[Industrious man]\nHummmmm..\nVery interesting information...\nI will take note of it in my research papers.",
+        "pt": "[Homem trabalhador]\nHummmmm...\nInformações muito interessantes...\nVou tomar nota nos meus trabalhos de pesquisa.",
+        "es": "[Hombre laborioso]\nMmm…\nQué información tan interesante…\nLa anotaré en el informe de mi investigación."
+    },
+    "d\u0018#": {
+        "en": "[Industrious man]\nwrite..write..\ncrunch..crunch..",
+        "pt": "[Homem trabalhador]\nescrever...escrever...\ncrunch...crunch...",
+        "es": "[Hombre laborioso]\n*Escribe… Escribe…*\n*Tris… Tris…*"
+    },
+    "e\u0018#": {
+        "en": "- He doesn't seem to recognize that I am standing next to him as he continues writing something. -",
+        "pt": "- Ele parece não reconhecer que estou ao seu lado enquanto continua a escrever algo. -",
+        "es": "(No parece darse cuenta de que estoy a su lado y sigue escribiendo)."
+    },
+    "f\u0018#": {
+        "en": "[Industrious man]\nwrite..write..\ncrunch..crunch..\n....",
+        "pt": "[Homem trabalhador]\nescrever...escrever...\ncrunch...crunch...\n....",
+        "es": "[Hombre laborioso]\n*Escribe… Escribe…*\n*Tris… Tris…*\n...."
+    },
+    "g\u0018#": {
+        "en": "[Industrious man]\nHu~~\nThat's pretty interesting...\nI will take note of it in my research papers.",
+        "pt": "[Homem trabalhador]\nHã...\nMuito interessante...\nVou anotar nos meus trabalhos de pesquisa.",
+        "es": "[Hombre laborioso]\nEh.\nQué interesante…\nLo anotaré en el informe de mi investigación."
+    },
+    "h\u0018#": {
+        "en": "[Industrious man]\nAuch!!!\nWho...who are you?!\nHow long have you been standing there?",
+        "pt": "[Homem trabalhador]\nAi!\nQuem... quem é você?!\nHá quanto tempo você está aí, só olhando?",
+        "es": "[Hombre laborioso]\n¡Ay!\n¿Quién…? ¡¿Quién eres?!\n¿Hace cuánto que estás ahí?"
+    },
+    "i\u0018#": {
+        "en": "[{0}]\nUh, I'm just passing by.\nYou look like you're busy with something.",
+        "pt": "[{0}]\nEstou só de passagem.\nParece que você está ocupado com alguma coisa.",
+        "es": "[{0}]\nEh, estoy de pasada.\nParece que estás ocupado."
+    },
+    "j\u0018#": {
+        "en": "[{0}]\nSee you~!!",
+        "pt": "[{0}]\nAté mais!",
+        "es": "[{0}]\n¡Nos vemos!"
+    },
+    "k\u0018#": {
+        "en": "[Industrious man]\nUh!! Wait!!\nYour finger... Is that..?!",
+        "pt": "[Homem trabalhador]\nHã! Espere!\nSeu dedo... Isso é...?!",
+        "es": "[Hombre laborioso]\n¡Eh! ¡Espera!\nTu dedo… ¡¿Acaso eso es…?!"
+    },
+    "l\u0018#": {
+        "en": "- He grabs your hand with a surprised look -",
+        "pt": "- Ele agarra sua mão com um olhar surpreso -",
+        "es": "(Te agarra la mano con una expresión de sorpresa)."
+    },
+    "m\u0018#": {
+        "en": "[Industrious man]\nThis is the ^0000FFRing of the Ancient Wise King^000000!!!!!\nThis has to be fate that I've met you!",
+        "pt": "[Homem trabalhador]\nEste é o ^0000FFAnel do Rei Sábio^000000!!!!!\nDeve ser o destino que me levou até você!",
+        "es": "[Hombre laborioso]\n¡Es el ^0000FFAnillo del antiguo rey sabio^000000!\n¡Es obra del destino que nos hayamos encontrado!"
+    },
+    "n\u0018#": {
+        "en": "[Industrious man]\nMy research is not going so well. The god of fate must have sent you to me. I'm sure of it!!",
+        "pt": "[Homem trabalhador]\nMinha pesquisa não está indo muito bem. O deus do destino deve ter enviado você para mim. Tenho certeza disso!",
+        "es": "[Hombre laborioso]\nMi investigación no va muy bien. Te debe haber enviado el dios del destino. ¡No tengo dudas!"
+    },
+    "o\u0018#": {
+        "en": "[{0}]\n......\n.......What?!",
+        "pt": "[{0}]\n......\n....... O quê?!",
+        "es": "[{0}]\n......\n¡¿Qué?!"
+    },
+    "p\u0018#": {
+        "en": "[Industrious man]\nWould you like to help me with my search?",
+        "pt": "[Homem trabalhador]\nGostaria de me ajudar com minha pesquisa?",
+        "es": "[Hombre laborioso]\n¿Quieres ayudarme con mi búsqueda?"
+    },
+    "q\u0018#": {
+        "en": "What kind of search?",
+        "pt": "Que tipo de pesquisa?",
+        "es": "¿Qué tipo de búsqueda?"
+    },
+    "r\u0018#": {
+        "en": "Sure.",
+        "pt": "Com certeza.",
+        "es": "Claro."
+    },
+    "s\u0018#": {
+        "en": "Borrrring.",
+        "pt": "Que chaaato.",
+        "es": "Qué aburriiiidoooo."
+    },
+    "t\u0018#": {
+        "en": "[Industrious man]\nTo put it simply, I'm searching for fairies and gaints that live around here.",
+        "pt": "[Homem trabalhador]\nPara simplificar, estou procurando por fadas e gigantes que vivem por aqui.",
+        "es": "[Hombre laborioso]\nEn pocas palabras, busco hadas y gigantes que vivan por aquí."
+    },
+    "u\u0018#": {
+        "en": "[Industrious man]\nThough I believe they all live in the same place, they are sure to have different cultures...\n...first and foremost is proof of their existence.",
+        "pt": "[Homem trabalhador]\nEmbora eu acredite que todos vivam no mesmo lugar, eles certamente têm culturas diferentes...\n... antes de mais nada, é a prova de sua existência.",
+        "es": "[Hombre laborioso]\nAunque creo que viven todos\nen el mismo lugar, seguro\ntienen culturas muy diferentes…\n… Lo primero y más importante son \nlas pruebas de su existencia."
+    },
+    "v\u0018#": {
+        "en": "[Industrious man]\nWhat about it?\nAre you interested?",
+        "pt": "[Homem trabalhador]\nO que acha disso?\nInteressou?",
+        "es": "[Hombre laborioso]\n¿Qué te parece?\n¿Te interesa?"
+    },
+    "w\u0018#": {
+        "en": "Not really.",
+        "pt": "Na verdade, não.",
+        "es": "La verdad, no."
+    },
+    "x\u0018#": {
+        "en": "[Industrious man]\nHaha... I just know that I'm right!\nHahahaha!!",
+        "pt": "[Homem trabalhador]\nHaha... Eu sei que estou certo!\nHahahahaha!!!",
+        "es": "[Hombre laborioso]\nJa, ja… ¡Sé que tengo razón!\n¡Ja, ja, ja, ja!"
+    },
+    "y\u0018#": {
+        "en": "[Industrious man]\nSo let's work together from this point on. Let me introduce myself.\nAs you can see from my name tag, ny name is ^0000FFBazett Teablack^000000.",
+        "pt": "[Homem trabalhador]\nEntão, vamos trabalhar juntos a partir de agora. Deixe-me apresentar.\nComo você pode ver em meu crachá, meu nome é ^0000FFBazett Teablack^000000.",
+        "es": "[Hombre laborioso]\nA partir de ahora, trabajemos en equipo. Permíteme presentarme.\nComo puedes ver en mi credencial, me llamo ^0000FFBazett Teablack^000000."
+    },
+    "z\u0018#": {
+        "en": "[{0}]\nI am {0}.",
+        "pt": "[{0}]\nEu sou {0}.",
+        "es": "[{0}]\nSoy {0}."
+    },
+    "{\u0018#": {
+        "en": "OK, so what can I do for you?",
+        "pt": "OK, então o que posso fazer por você?",
+        "es": "Bien, ¿en qué te puedo ayudar?"
+    },
+    "|\u0018#": {
+        "en": "[Bazett]\n{0} lets see..!!\nSearch Manuk and Splendide fields everyday for signs of the fairies or giants.",
+        "pt": "[Bazett]\nVamos ver, {0}..!\nProcurem nos campos de Manuk e Esplendor todos os dias por sinais de fadas ou gigantes.",
+        "es": "[Bazett]\n¡Veamos, {0}…!\nExplora los campos de Manuk y Splendide todos los días en busca de señales de las hadas o los gigantes."
+    },
+    "}\u0018#": {
+        "en": "[Bazett]\nIt's not difficult.\nSo please share any information that you can gather as you travel through those areas.",
+        "pt": "[Bazett]\nNão é difícil.\nCompartilhe todas as informações que puder reunir ao viajar por essas áreas.",
+        "es": "[Bazett]\nNo es difícil.\nA medida que atravieses esas zonas, compárteme toda la información que puedas recopilar."
+    },
+    "~\u0018#": {
+        "en": "[Bazett]\nHopefully I can find what I am looking for with the information you can find.",
+        "pt": "[Bazett]\nEspero que eu possa encontrar o que estou procurando.",
+        "es": "[Bazett]\nCon suerte, encontraré lo que estoy buscando con la información que encuentres."
+    },
+    "\u0018#": {
+        "en": "[Industrious man]\n.............\n.............\n.............\n.............\n...........Why!!!!!",
+        "pt": "[Homem trabalhador]\n.............\n.............\n.............\n.............\n........... Por quê?!",
+        "es": "[Hombre laborioso]\n.............\n.............\n.............\n.............\n¡¿Por qué?!"
+    },
+    "gBgj": {
+        "en": "[Industrious man]\nWell if you decide to change your mind, come back to me.",
+        "pt": "[Homem trabalhador]\nBem, se você decidir mudar de ideia, volte aqui.",
+        "es": "[Hombre laborioso]\nBueno, si cambias de opinión, ven a verme."
+    },
+    "gRgj": {
+        "en": "[Industrious man]\nSo let's work together from this point on. Let me introduce myself.\nAs you can see from my name tag, my name is ^0000FFBazett Teablack^000000.",
+        "pt": "[Homem trabalhador]\nEntão, vamos trabalhar juntos a partir de agora. Deixe-me apresentar.\nComo você pode ver em meu crachá, meu nome é ^0000FFBazett Teablack^000000.",
+        "es": "[Hombre laborioso]\nA partir de ahora, trabajemos en equipo. Permíteme presentarme.\nComo puedes ver en mi credencial, me llamo ^0000FFBazett Teablack^000000."
+    },
+    "ghgj": {
+        "en": "[Industrious man]\n.............",
+        "pt": "[Homem trabalhador]\n.............",
+        "es": "[Hombre laborioso]\n............."
+    },
+    "gxgj": {
+        "en": "[Industrious man]\n.............\n.............",
+        "pt": "[Homem trabalhador]\n.............\n.............",
+        "es": "[Hombre laborioso]\n.............\n............."
+    },
+    "hBgj": {
+        "en": "[Industrious man]\n.............\n.............\n.............",
+        "pt": "[Homem trabalhador]\n.............\n.............\n.............",
+        "es": "[Hombre laborioso]\n.............\n.............\n............."
+    },
+    "hRgj": {
+        "en": "[Industrious man]\n.............\n.............\n.............\n...........Why?",
+        "pt": "[Homem trabalhador]\n.............\n.............\n.............\n........... Por quê?",
+        "es": "[Hombre laborioso]\n.............\n.............\n.............\n¿…Por qué?"
+    },
+    "hhgj": {
+        "en": "[Industrious man]\nTalDathMush Di nahDeh\nReAnduDu So sehr",
+        "pt": "[Homem trabalhador]\nTalDathMush Di nahDeh\nReAnduDu So sehr",
+        "es": "[Hombre laborioso]\nTalDathMush Di nahDeh.\nReAnduDu So sehr."
+    },
+    "hxgj": {
+        "en": "[{0}]\n?????\nWhat'd you say?",
+        "pt": "[{0}]\nHã\nO que você disse?",
+        "es": "[{0}]\n¿¿¿???\n¿Qué dijiste?"
+    },
+    "iBgj": {
+        "en": "[Industrious man]\nOh! Sorry, I think I said it wrong...\nI was just infatuated with my research....",
+        "pt": "[Homem trabalhador]\nOh! Desculpe, acho que falei errado...\nEu só estou apaixonado pela minha pesquisa....",
+        "es": "[Hombre laborioso]\n¡Oh! Lo siento, creo que lo dije mal…\nEstaba obsesionado con la investigación…"
+    },
+    "iRgj": {
+        "en": "[Industrious man]\nYou should find a way to understand this strange language that I've discovered here in the Ash Vacuum.",
+        "pt": "[Homem trabalhador]\nVocê precisa encontrar uma maneira de entender essa língua estranha que descobri aqui no Ash Vacuum.",
+        "es": "[Hombre laborioso]\nDeberías encontrar la forma de entender el idioma extraño que descubrí en Ash Vacuum."
+    },
+    "ihgj": {
+        "en": "[Industrious man]\nWithout the ability to communicate it would be really difficult to get around here, don't you think?",
+        "pt": "[Homem trabalhador]\nSem a capacidade de comunicação, seria muito difícil se locomover por aqui, não acha?",
+        "es": "[Hombre laborioso]\nSerá muy difícil andar por aquí sin la capacidad de poder comunicarse, ¿no te parece?"
+    },
+    "ixgj": {
+        "en": "[{0}]\n?????\nHuh?",
+        "pt": "[{0}]\nHã?\nO quê?",
+        "es": "[{0}]\n¿¿¿???\n¿Eh?"
+    },
+    "jBgj": {
+        "en": "[Industrious man]\nOh! I must've said it wrong...\nMy research hasn't been going too well lately...",
+        "pt": "[Homem trabalhador]\nAh! Eu devo ter falado errado...\nMinha pesquisa não está indo muito bem ultimamente...",
+        "es": "[Hombre laborioso]\n¡Oh! Debo haberlo dicho mal…\nEste último tiempo, mi investigación no ha ido muy bien…"
+    },
+    "jRgj": {
+        "en": "[Industrious man]\nThere should be a way for you to understand this strange language here.",
+        "pt": "[Homem trabalhador]\nDeve ter uma maneira de você entender essa língua estranha aqui.",
+        "es": "[Hombre laborioso]\nTiene que existir una forma de que entiendas este idioma extraño."
+    },
+    "jhgj": {
+        "en": "[Industrious man]\nAh! You've returned!\nNow are you interested in my research?",
+        "pt": "[Homem trabalhador]\nAh! Você voltou!\nAgora minha pesquisa interessa?",
+        "es": "[Hombre laborioso]\n¡Ah! ¡Estás de vuelta!\n¿Ahora te interesa mi investigación?"
+    },
+    "jxgj": {
+        "en": "Yes.",
+        "pt": "Sim.",
+        "es": "Sí."
+    },
+    "kBgj": {
+        "en": "No.",
+        "pt": "Não.",
+        "es": "No."
+    },
+    "kRgj": {
+        "en": "[Industrious man]\n.............\nWell if you decide to change your mind, come back to me.",
+        "pt": "[Homem trabalhador]\n.............\nBem, se você decidir mudar de ideia, volte para mim.",
+        "es": "[Hombre laborioso]\n.............\nBueno, si cambias de opinión, ven a verme."
+    },
+    "khgj": {
+        "en": "[Bazett]\nUm... for today can you search for giants in the Manuk Field?\nThat place is pretty cold so, you might need a coat.",
+        "pt": "[Bazett]\nHum... para hoje, você pode procurar gigantes no Campo de Manuk?\nLá é bem frio, então talvez você precise de um casaco.",
+        "es": "[Bazett]\nMmm… ¿Hoy puedes buscar gigantes en los campos de Manuk?\nAhí hace bastante frío, así que quizás necesites un abrigo."
+    },
+    "kxgj": {
+        "en": "[Bazett]\nI used this note so it should still be useful. Take it...\nAh... and don't worry about the title of the note...",
+        "pt": "[Bazett]\nEu usei essa nota, então ela ainda deve ser útil. Pode pegar...\nAh... e não se preocupe com o título da nota...",
+        "es": "[Bazett]\nUsé esta nota que aún debería ser útil. Tómala…\nAh… No te preocupes por el título de la nota…"
+    },
+    "lBgj": {
+        "en": "[Bazett]\nAfter you've finished searching bring that note back to me.",
+        "pt": "[Bazett]\nDepois de terminar a pesquisa, traga a nota para mim.",
+        "es": "[Bazett]\nCuando termines la búsqueda, regrésame la nota."
+    },
+    "lRgj": {
+        "en": "[Bazett]\nGot it? Ok take care and see you soon.",
+        "pt": "[Bazett]\nEntendeu? Beleza, cuide-se e até breve.",
+        "es": "[Bazett]\n¿Entendido? Bueno, cuídate y nos vemos pronto."
+    },
+    "lhgj": {
+        "en": "[Bazett]\nHow's the searching going?",
+        "pt": "[Bazett]\nComo está indo a busca?",
+        "es": "[Bazett]\n¿Cómo va la búsqueda?"
+    },
+    "lxgj": {
+        "en": "[Bazett]\n!!!!!!!\nDid you lose the note?\nGeez...",
+        "pt": "[Bazett]\nAh!\nVocê perdeu a nota?\nPuxa...",
+        "es": "[Bazett]\n¡¡¡!!!\n¿Perdiste la nota?\nJiz…"
+    },
+    "mBgj": {
+        "en": "[Bazett]\nOk, I will give one more but you've got to be more careful with it.",
+        "pt": "[Bazett]\nTá, vou dar mais um, mas você tem que ser mais cuidadoso com ele.",
+        "es": "[Bazett]\nBien, te daré otra, pero debes tener más cuidado."
+    },
+    "mRgj": {
+        "en": "[Bazett]\nTake it easy..",
+        "pt": "[Bazett]\nNão se apresse...",
+        "es": "[Bazett]\nTómalo con calma."
+    },
+    "mhgj": {
+        "en": "[Bazett]\nOh! Did you finish??",
+        "pt": "[Bazett]\nAh! Você terminou?",
+        "es": "[Bazett]\n¡Oh! ¿Terminaste?"
+    },
+    "mxgj": {
+        "en": "Yes",
+        "pt": "Sim",
+        "es": "Sí."
+    },
+    "nBgj": {
+        "en": "Not yet...",
+        "pt": "Ainda não...",
+        "es": "Todavía no…"
+    },
+    "nRgj": {
+        "en": "[Bazett]\n!!!!!!!\nDid you lose the note?\nGosh...",
+        "pt": "[Bazett]\nAh!\nVocê perdeu a nota?\nPuxa...",
+        "es": "[Bazett]\n¡¡¡!!!\n¿Perdiste la nota?\nRayos…"
+    },
+    "nhgj": {
+        "en": "[Bazett]\nToo bad...\nAnyway you must be tired. Take rest.\nTomorrow I will prepare a new note.\nLet's start again the search.",
+        "pt": "[Bazett]\nQue pena...\nDe qualquer forma, você precisar descansar.\nAmanhã prepararei uma nova nota.\nVamos recomeçar a busca.",
+        "es": "[Bazett]\nQué lástima…\nEn fin, te debe matar el cansancio. Descansa un rato.\nPrepararé una nueva nota mañana.\nComencemos de nuevo la búsqueda."
+    },
+    "nxgj": {
+        "en": "[Bazett]\nCan I read the note first?!\nWow~Wow!!!!",
+        "pt": "[Bazett]\nPosso ler a nota primeiro?!\nUau~ Uau!",
+        "es": "[Bazett]\n¡¿Puedo leer el informe primero?!\n¡Vaya, vaya!"
+    },
+    "oBgj": {
+        "en": "- Bazett is reading carefully - \n - Perhaps he doesn't want to  be botherered - \n - Let him read. -",
+        "pt": "- Bazett está lendo com atenção - \n- Talvez ele não queira ser incomodado.- \n- Deixe-o ler. -",
+        "es": "(Bazett lee con atención). \n (Quizás no quiera que lo molesten). \n (Déjalo leer)."
+    },
+    "oRgj": {
+        "en": "[Bazett]\nUm... Oh...my...God!!",
+        "pt": "[Bazett]\nHum... Ah... pelos céus!",
+        "es": "[Bazett]\nEh… ¡Oh… por los dioses!"
+    },
+    "ohgj": {
+        "en": "[Bazett]\nUm... I see...",
+        "pt": "[Bazett]\nHum... entendo..",
+        "es": "[Bazett]\nEh… Ya veo…"
+    },
+    "oxgj": {
+        "en": "[Bazett]\nIt's a little bit simple but arranged well including some interesting stories.\nPerfect dear, {0}!!",
+        "pt": "[Bazett]\nÉ um pouco simples, mas bem organizado, incluindo algumas histórias interessantes.\nPerfeito, {0}!",
+        "es": "[Bazett]\nEs un poco sencillo, pero está bien organizado e incluye algunas historias interesantes.\nPerfecto, {0}, ¡eres un encanto!"
+    },
+    "pBgj": {
+        "en": "[Bazett]\nYou did really a good job.\nToday you must be tired so take a rest. Let's cheer up for tomorrow's searching!!",
+        "pt": "[Bazett]\nVocê realmente fez um bom trabalho.\nHoje você deve ter se cansado, então descanse um pouco. Vamos nos animar para a busca de amanhã!",
+        "es": "[Bazett]\nHiciste un muy buen trabajo.\nHoy deberías descansar, seguro te agobié bastante. ¡Alegrémonos por la búsqueda de mañana!"
+    },
+    "pRgj": {
+        "en": "[Bazett]\nAh...actually here's a coin used by the giants.\nMaybe you can use it to buy something from them.",
+        "pt": "[Bazett]\nAh... aqui, essa é uma moeda usada pelos gigantes.\nTalvez você possa usá-la para comprar algo deles.",
+        "es": "[Bazett]\nAh… De hecho, esta moneda la usan los gigantes.\nQuizá puedas usarla para comprarles algo."
+    },
+    "phgj": {
+        "en": "[Bazett]\nYou did a really good job.\nToday you must be tired so take a rest. Let's cheer up for tomorrow's search!!",
+        "pt": "[Bazett]\nVocê fez um trabalho muito bom.\nHoje você deve ter se cansado, então descanse um pouco. Vamos nos animar para a busca de amanhã!",
+        "es": "[Bazett]\nHiciste un muy buen trabajo.\nHoy deberías descansar, seguro te agobié bastante. ¡Alegrémonos por la búsqueda de mañana!"
+    },
+    "pxgj": {
+        "en": "[Bazett]\nHow is your life here?\nHope you can make yourself at home.",
+        "pt": "[Bazett]\nComo está sua vida aqui?\nEspero que possa se sentir em casa.",
+        "es": "[Bazett]\n¿Qué tal tu vida aquí?\nEspero que te sientas como en casa."
+    },
+    "qBgj": {
+        "en": "[Bazett]\nUm... for today can you search for giants in the Manuk Field?\nI will give you the note that you used yesterday.",
+        "pt": "[Bazett]\nHm... para hoje, você pode procurar gigantes no Campo de Manuk?\nEu te dou a nota que você usou ontem.",
+        "es": "[Bazett]\nMmm… ¿Hoy puedes buscar gigantes en los campos de Manuk?\nTe daré la misma nota que usaste ayer."
+    },
+    "qRgj": {
+        "en": "[Bazett]\nTo put it simply, I'm searching for fairies and gaints that live around here.",
+        "pt": "[Bazett]\nPara simplificar, estou procurando por fadas e gigantes que vivem por aqui.",
+        "es": "[Bazett]\nEn pocas palabras, busco hadas y gigantes que vivan por aquí."
+    },
+    "qhgj": {
+        "en": "[Bazett]\nThough I believe they all live in the same place, they are sure to have different cultures...\n...first and foremost is proof of their existence.",
+        "pt": "[Bazett]\nEmbora eu acredite que todos eles vivam no mesmo lugar, eles certamente têm culturas diferentes...\n... antes de mais nada, é a prova de sua existência.",
+        "es": "[Bazett]\nAunque creo que viven todos en el mismo lugar, es evidente que tienen culturas muy diferentes…\n…Lo primero y más importante: pruebas de su existencia."
+    },
+    "qxgj": {
+        "en": "Worker",
+        "pt": "Trabalhador",
+        "es": "Trabajador"
+    },
+    "rBgj": {
+        "en": "[Worker]\nOops, it's dangerous, almost broken.\nI should hurry to change it...otherwise...",
+        "pt": "[Trabalhador]\nOps, que perigo, quase quebrou.\nPreciso correr pra trocar... senão...",
+        "es": "[Trabajador]\nUy, es peligroso, casi se rompe.\nDebería cambiarlo rápido… Si no…"
+    },
+    "rRgj": {
+        "en": "[{0}]\nWhat's the matter?",
+        "pt": "[{0}]\nO que houve?",
+        "es": "[{0}]\n¿Qué sucede?"
+    },
+    "rhgj": {
+        "en": "[Worker]\nAh....here.....um..\n......\n.........\nNothing!!",
+        "pt": "[Trabalhador]\nAh... aqui... hã...\n......\n.........\nNada!!!",
+        "es": "[Trabajador]\nAh… Listo… Mmm…\n......\n.........\n¡Nada!"
+    },
+    "rxgj": {
+        "en": "[{0}]\nWhat's up?",
+        "pt": "[{0}]\nE aí?",
+        "es": "[{0}]\n¿Qué sucede?"
+    },
+    "sBgj": {
+        "en": "[Worker]\nYou are an outsider.\n......\nI was suprised by your voice.",
+        "pt": "[Trabalhador]\nVocê não é daqui.\n......\nSua voz me assustou.",
+        "es": "[Trabajador]\nNo eres de aquí.\n......\nTu voz me sorprendió."
+    },
+    "sRgj": {
+        "en": "[{0}]\nYes, sorry to startle you.",
+        "pt": "[{0}]\nSim, desculpe por ter te assustado.",
+        "es": "[{0}]\nSí, lamento haberte asustado."
+    },
+    "shgj": {
+        "en": "[Worker]\nHaha, it's ok.\nRecently I heard about people like you but it's the first time I've actually met one.",
+        "pt": "[Trabalhador]\nHaha, tudo bem.\nRecentemente, ouvi falar de pessoas como você, mas é a primeira vez que vejo uma.",
+        "es": "[Trabajador]\nJa, ja, no hay problema.\nHace poco, escuché hablar de personas como tú, pero es la primera vez que me encuentro con una."
+    },
+    "sxgj": {
+        "en": "[Worker]\nYou speak our language pretty good.",
+        "pt": "[Trabalhador]\nVocê fala muito bem o nosso idioma.",
+        "es": "[Trabajador]\nHablas muy bien nuestro idioma."
+    },
+    "tBgj": {
+        "en": "[{0}]\nAh...anyway..you look like you're having some trouble. What happened?",
+        "pt": "[{0}]\nAh... de qualquer forma... parece que você está com problemas. O que aconteceu?",
+        "es": "[{0}]\nAh… En fin, parece que tienes problemas. ¿Qué pasó?"
+    },
+    "tRgj": {
+        "en": "[Worker]\n...Nothing!!",
+        "pt": "[Trabalhador]\n... Nada!",
+        "es": "[Trabajador]\n¡… Nada!"
+    },
+    "thgj": {
+        "en": "[{0}]\nAre you sure? Fate has to have brought us together for a reason.\nTell me~.",
+        "pt": "[{0}]\nTem certeza? O destino deve ter nos unido por algum motivo.\nPode falar~",
+        "es": "[{0}]\n¿Lo dices en serio? El destino nos tiene que haber juntado por alguna razón.\nDime."
+    },
+    "txgj": {
+        "en": "[Worker]\n......\nFrankly......",
+        "pt": "[Trabalhador]\n......\nFrancamente...",
+        "es": "[Trabajador]\n......\nA decir verdad…"
+    },
+    "uBgj": {
+        "en": "[Worker]\nThe screw is too old to use to fix the tent, so I should change it before it breaks.",
+        "pt": "[Trabalhador]\nO parafuso é muito velho para ser usado para consertar a tenda. Preciso trocá-lo antes que se quebre.",
+        "es": "[Trabajador]\nEl tornillo es demasiado viejo como para arreglar la carpa, así que debería cambiarlo antes de que se rompa."
+    },
+    "uRgj": {
+        "en": "[Worker]\nI can't leave so I'm just waiting for my friend to pass by to help me.",
+        "pt": "[Trabalhador]\nNão posso sair. Estou só esperando que meu amigo passe para me ajudar.",
+        "es": "[Trabajador]\nNo me puedo ir de aquí, así que estoy esperando a que venga mi amigo a ayudarme."
+    },
+    "uhgj": {
+        "en": "[{0}]\nCan I help you?",
+        "pt": "[{0}]\nPosso ajudá-lo?",
+        "es": "[{0}]\n¿Te puedo ayudar?"
+    },
+    "uxgj": {
+        "en": "[Worker]\nNo~that's alright. We just met so I can't ask you for a favor.",
+        "pt": "[Trabalhador]\nNão, está tudo bem. Acabamos de nos conhecer! Não posso sair pedindo favores assim.",
+        "es": "[Trabajador]\nNo, está bien. Acabamos de conocernos, no puedo pedirte un favor."
+    },
+    "vBgj": {
+        "en": "[{0}]\nThat's ok! We can help each other!",
+        "pt": "[{0}]\nNão tem problema! Podemos ajudar uns aos outros!",
+        "es": "[{0}]\n¡No pasa nada! ¡Podemos ayudarnos mutuamente!"
+    },
+    "vRgj": {
+        "en": "- Suddenly there is a screeching sound as the screw breaks -",
+        "pt": "- De repente, ouve-se um som estridente quando o parafuso se rompe.-",
+        "es": "(De repente, el tornillo se rompe y emite un chirrido)."
+    },
+    "vhgj": {
+        "en": "[Worker]\nUgh!!!\n**Sigh**",
+        "pt": "[Trabalhador]\nUgh!\n**Suspiro**",
+        "es": "[Trabajador]\n¡Uf!\n**Suspira**"
+    },
+    "vxgj": {
+        "en": "[Worker]\nWell that's that!\nAnyway my name is ^0000FFGill^000000",
+        "pt": "[Trabalhador]\nBem, olha só!\nDe qualquer forma, meu nome é ^0000FFGill^000000",
+        "es": "[Trabajador]\n¡Bueno, muy tarde!\nEn fin, me llamo ^0000FFGill^000000."
+    },
+    "wBgj": {
+        "en": "[Gill]\nI need something to fix the tent with, if you can get^0000FF 30 Horn of Hillslion^000000, I can make them into sturdy enough screws.",
+        "pt": "[Gill]\nPreciso de algo para consertar a tenda. Se você conseguir^0000FF 30 Chifre de Leão da Montanha^000000, posso transformá-los em parafusos bem resistentes.",
+        "es": "[Gill]\nNecesito algo para arreglar la carpa. Si me consigues^0000FF 30 Cuernos de León de montaña^000000, puedo convertirlos en tornillos bastante resistentes."
+    },
+    "wRgj": {
+        "en": "[Gill]\nSorry, again for making you do this but I will be waiting here for you.",
+        "pt": "[Gill]\nDesculpe, mais uma vez, por te obrigar a fazer isso, mas estarei aqui esperando por você.",
+        "es": "[Gill]\nTe pido disculpas de nuevo por pedirte ayuda, pero te estaré esperando."
+    },
+    "whgj": {
+        "en": "[Gill]\nThank you for getting the Horns.",
+        "pt": "[Gill]\nObrigado pelos chifres.",
+        "es": "[Gill]\nGracias por conseguirme los Cuernos."
+    },
+    "wxgj": {
+        "en": "[Gill]\nThanks to you, I can avoid a big accident.\nI have met other tribes like those tiny fairies. But they aren't as nice as you are. It has been an honor to meet you {0}.",
+        "pt": "[Gill]\nGraças a você, posso evitar um grande acidente.\nConheci outras tribos como essas fadinhas. Mas elas não são tão simpáticas quanto você. Foi uma honra conhecer você, {0}.",
+        "es": "[Gill]\nGracias a ti, podré evitar un gran accidente.\nConocí a otras tribus como la de esas haditas. ¡Pero no son tan amables como tú! Fue un honor conocerte, {0}."
+    },
+    "xBgj": {
+        "en": "[Gill]\nSorry, again for making you do this but I will be waiting here for you to bring back the^0000FF 30 Horn of Hillslions.^000000",
+        "pt": "[Gill]\nDesculpe, mais uma vez, por obrigar você, mas estarei esperando aqui os ^0000FF 30 chifres de Leão da Montanha.^000000",
+        "es": "[Gill]\nTe pido disculpas de nuevo por hacerte hacer esto, pero estaré esperando hasta que regreses con los^0000FF 30 Cuernos de León de montaña.^000000"
+    },
+    "xRgj": {
+        "en": "[Gill]\nThank you so much to your effort.\nI have met other tribes like those tiny fairies. But they aren't as nice as you are. It has been an honor to meet you {0}.",
+        "pt": "[Gill]\nMuito obrigado.\nConheci outras tribos, como essas pequenas fadas. Mas elas não são tão simpáticas quanto você. Foi uma honra conhecer você, {0}.",
+        "es": "[Gill]\nMuchas gracias por esforzarte.\nConocí a otras tribus como la de esas haditas. ¡Pero no son tan amables como tú! Fue un honor conocerte, {0}."
+    },
+    "xhgj": {
+        "en": "[Worker]\nOops, it's dangerous, almost broken.\nI should hurry to change it... or else...",
+        "pt": "[Trabalhador]\nOps, que perigo, quase quebrou.\nPreciso correr pra trocar... senão...",
+        "es": "[Trabajador]\nUy, es peligroso, casi se rompe.\nDebería cambiarlo rápido… Si no…"
+    },
+    "xxgj": {
+        "en": "[Worker]\nyou are a outsider.\n......\nI was suprised by your voice.",
+        "pt": "[Trabalhador]\nVocê não é daqui.\n......\nSua voz me assustou.",
+        "es": "[Trabajador]\nEres un extraño.\n......\nTu voz me sorprendió."
+    },
+    "yBgj": {
+        "en": "[Gill]\nOh, you've come back again.\nSometimes just talking is enough to lighten my day.",
+        "pt": "[Gill]\nAh, você voltou de novo.\nÀs vezes, só o fato de conversar já é suficiente para alegrar meu dia.",
+        "es": "[Gill]\nOh, volviste.\nA veces, conversar un rato ya me alegra el día."
+    },
+    "yRgj": {
+        "en": "[Worker]\nEhahdie O Ehai\nOhek Hekdh I dkek\nOhehp Qe Tehdhah",
+        "pt": "[Trabalhador]\nEhahdie O Ehai\nOhek Hekdh I dkek\nOhehp Qe Tehdhah",
+        "es": "[Trabajador]\nEhahdie O Ehai.\nOhek Hekdh I dkek.\nOhehp Qe Tehdhah."
+    },
+    "yhgj": {
+        "en": "[Worker]\nEhaodke Thdieqak Khehdi\nPHhdkel\nThhdqdcczk U dheagelokd dok",
+        "pt": "[Trabalhador]\nEhaodke Thdieqak Khehdi\nPHhdkel\nThhdqdcczk U dheagelokd dok",
+        "es": "[Trabajador]\nEhaodke Thdieqak Khehdi.\nPHhdkel.\nThhdqdcczk U dheagelokd dok."
+    },
+    "yxgj": {
+        "en": "- You can't understand what he is saying. -",
+        "pt": "- Você não consegue entender o que ele está dizendo. -",
+        "es": "(No entiendes lo que dice)."
+    },
+    "zBgj": {
+        "en": "[Worker]\nHello.{0}.\nDid you come here to help me?",
+        "pt": "[Trabalhador]\nOlá, {0}.\nVocê veio me ajudar?",
+        "es": "[Trabajador]\nHola, {0}.\n¿Viniste para ayudarme?"
+    },
+    "zRgj": {
+        "en": "[Gill]\nI need something to fix the tent with,\nif you can get^0000FF 30 Horn of Hillslion^000000, I can make them into sturdy enough screws.",
+        "pt": "[Gill]\nPreciso de algo para consertar a tenda. Se você conseguir^0000FF 30 Chifre de Leão da Montanha^000000, posso transformá-los em parafusos bem resistentes.",
+        "es": "[Gill]\nNecesito algo para arreglar la carpa.\nSi me consigues^0000FF 30 Cuernos de León de montaña^000000, puedo convertirlos en tornillos bastante resistentes."
+    },
+    "zhgj": {
+        "en": "Village Youth",
+        "pt": "Jovem da Aldeia",
+        "es": "Jóven Aldeano"
+    },
+    "zxgj": {
+        "en": "[Village Youth]\nIt's already passed the time we're supposed to meet. Why hasn't he come yet?",
+        "pt": "[Jovem da Vila]\nJá passou a hora em que deveríamos nos encontrar. Por que ele ainda não veio?",
+        "es": "[Joven de la aldea]\nYa pasó la hora en la que teníamos que encontrarnos. ¿Por qué no vino todavía?"
+    },
+    "0Bgj": {
+        "en": "[Village Youth]\nKehdzcb Zdsheoo Idheha",
+        "pt": "[Jovens da Aldeia]\nKehdzcb Zdsheoo Idheha",
+        "es": "[Joven de la aldea]\nKehdzcb Zdsheoo Idheha."
+    },
+    "0Rgj": {
+        "en": "Repairman",
+        "pt": "Consertador",
+        "es": "Reparador"
+    },
+    "0hgj": {
+        "en": "[Repairman]\nOutsiders can't enter.\nIt's dangerous so don't come too close.",
+        "pt": "[Consertador]\nPessoas de fora não podem entrar.\nÉ perigoso. Não chegue muito perto.",
+        "es": "[Reparador]\nLos extraños no pueden entrar.\nEs peligroso, así que no te acerques."
+    },
+    "0xgj": {
+        "en": "[Repairman]\nQheehdi Teoh Eaaarh EEshdk0\nBhehdkaheodk",
+        "pt": "[Reparador]\nQheehdi Teoh Eaaarh EEshdk0\nBhehdkaheodk",
+        "es": "[Reparador]\nQheehdi Teoh Eaaarh EEshdk 0.\nBhehdkaheodk."
+    },
+    "1Bgj": {
+        "en": "[Worker]\nWow~~smells good.\nNow can I turn it over?",
+        "pt": "[Trabalhador]\nUau~~ que cheiro bom.\nAgora posso virar?",
+        "es": "[Trabajador]\nVaya, huele bien.\n¿Ahora puedo darlo vuelta?"
+    },
+    "1Rgj": {
+        "en": "[Worker]\nMmm... I should always cook Hardrock Mammoth steaks rare.",
+        "pt": "[Trabalhador]\nMmm... Eu deveria sempre fazer os bifes do Mamute Rochoso mal passados.",
+        "es": "[Trabajador]\nMmm… Cuando cocino bifes de Mamut rocoso, deberían quedar siempre jugosos."
+    },
+    "1hgj": {
+        "en": "[Worker]\nEHdakcoehdk Ihdoek\nPekdhalqekh",
+        "pt": "[Trabalhador]\nEHdakcoehdk Ihdoek\nPekdhalqekh",
+        "es": "[Trabajador]\nEHdakcoehdk Ihdoek.\nPekdhalqekh."
+    },
+    "1xgj": {
+        "en": "[Worker]\nTHehdakoh Ioendahek Pke ehakd Idohen",
+        "pt": "[Trabalhador]\nTHehdakoh Ioendahek Pke ehakd Idohen",
+        "es": "[Trabajador]\nTHehdakoh Ioendahek Pke ehakd Idohen."
+    },
+    "2Bgj": {
+        "en": "[Worker]\nChef, How many plates should I put down?",
+        "pt": "[Trabalhador]\nChef, quantos pratos devo colocar no chão?",
+        "es": "[Trabajador]\nChef, ¿cuántos platos pongo?"
+    },
+    "2Rgj": {
+        "en": "[Worker]\nThedkh Ihend Hehak Ioehdke",
+        "pt": "[Trabalhador]\nThedkh Ihend Hehak Ioehdke",
+        "es": "[Trabajador]\nThedkh Ihend Hehak Ioehdke."
+    },
+    "2hgj": {
+        "en": "Scientist",
+        "pt": "Cientista",
+        "es": "Científico"
+    },
+    "2xgj": {
+        "en": "[Scientist]\nIs it the only way to survive?",
+        "pt": "[Cientista]\nSerá esse o único jeito maneira de sobreviver?",
+        "es": "[Científico]\n¿Es la única forma de sobrevivir?"
+    },
+    "3Bgj": {
+        "en": "[Scientist]\nThehkdh Oehndhk Mdnahe",
+        "pt": "[Cientista]\nOehndhk Mdnahe",
+        "es": "[Científico]\nThehkdh Oehndhk Mdnahe."
+    },
+    "3Rgj": {
+        "en": "Fairy",
+        "pt": "Fada",
+        "es": "Hada"
+    },
+    "3hgj": {
+        "en": "[Fairy]\nHave you ever gone to the East side?\nTheres lots of ice~\nHow cold...",
+        "pt": "[Fada]\nVocê já foi para o leste?\nTem muito gelo~\nQue frio...",
+        "es": "[Hada]\n¿Alguna vez fuiste al lado este?\nHay mucho hielo.\nQué frío…"
+    },
+    "3xgj": {
+        "en": "[nes]\nVaFuloDor An \nWosNuffremu Ha TurAshTi\nVilTiRini O",
+        "pt": "[nes]\nVaFuloDor An \nWosNuffremu Ha TurAshTi\nVilTiRini O",
+        "es": "[Nes]\nVaFuloDor An. \nWosNuffremu Ha TurAshTi.\nVilTiRini O."
+    },
+    "4Bgj": {
+        "en": "[Fairy]\nWhat are you looking at!",
+        "pt": "[Fada]\nO que está olhando?!",
+        "es": "[Hada]\n¡¿Qué estás mirando?!"
+    },
+    "4Rgj": {
+        "en": "[Fairy]\nOh me! You know beauty when you see it don't you~?!",
+        "pt": "[Fada]\nAh, eu! Você reconhece a beleza quando a vê, não é mesmo?!",
+        "es": "[Hada]\n¡Oh, claro! Reconoces la belleza cuando la ves, ¿cierto?"
+    },
+    "4hgj": {
+        "en": "[nes]\nUorVeLars No Ador",
+        "pt": "[nes]\nUorVeLars No Ador",
+        "es": "[Nes]\nUorVeLars No Ador."
+    },
+    "4xgj": {
+        "en": "[nes]\nSeGothShar An AshDur",
+        "pt": "[nes]\nSeGothShar e AshDur",
+        "es": "[Nes]\nSeGothShar An AshDur."
+    }
+}

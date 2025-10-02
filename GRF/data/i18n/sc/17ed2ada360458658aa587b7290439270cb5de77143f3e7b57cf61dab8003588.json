@@ -1,0 +1,380 @@
+{
+    "IMTOCw": {
+        "ko": "다크 루히르",
+        "en": "Fallen Valkyrie",
+        "pt": "Valquíria Caída",
+        "es": "Valkiria Caída"
+    },
+    "IcTOCw": {
+        "ko": "랜덤옵션 체크 기능 추가.",
+        "en": "Random Bonus Check.",
+        "pt": "Checagem de Bônus Aleatórios.",
+        "es": "Verificación de Bonos Aleatorios."
+    },
+    "IsTOCw": {
+        "ko": "보유한 물건의 종류가 너무 많은것 같다. 물건의 종류를 줄인뒤에 다시 진행해보자.",
+        "en": "You are carrying too many items. Store or sell some items from your inventory.",
+        "pt": "Você está carregando muitos itens. Guarde ou venda alguns itens de seu inventário.",
+        "es": "Estás cargando demasiados objetos. Guarda o vende algunos objetos de tu inventario."
+    },
+    "I8TOCw": {
+        "ko": "가진 물건이 너무 무거워 더이상의 진행이 힘들 것 같다. 무게를 줄인 후 다시 도전해보자.",
+        "en": "You are overweight. Store or sell some items from your inventory.",
+        "pt": "Você está muito pesado. Guarde ou venda alguns itens de seu inventário.",
+        "es": "Estás sobrecargado. Guarda o vende algunos objetos de tu inventario."
+    },
+    "JMTOCw": {
+        "ko": "[다크 루히르]\n타락천사의 날개 시리즈를 장비하신 분들께 아무런 댓가없이 원하는 효능을 부여해 드리고 있습니다.",
+        "en": "[Fallen Valkyrie]\nHello! I'm enchanting a very valuable item, the <ITEM>[Fallen Archangel Wings]<INFO>2589</INFO></ITEM>.",
+        "pt": "[Valquíria Caída]\nOlá! Estou encantando um item muito valioso, as <ITEM>[Asas de Arcanjo Caído]<INFO>2589</INFO></ITEM>.",
+        "es": "[Valkiria Caída]\n¡Hola! Estoy encantando un objeto muy valioso: las <ITEM>[Alas de Arcángel Caído]<INFO>2589</INFO></ITEM>."
+    },
+    "JcTOCw": {
+        "ko": "[다크 루히르]\n타락천사의 날개를 구하셨다면 ^0000FF반드시 장착을 하신 뒤에^000000 제게 말을 걸어주세요",
+        "en": "[Fallen Valkyrie]\nPlease ^0000FFequip the Fallen Archangel Wings^000000, and I can apply enchantments.",
+        "pt": "[Valquíria Caída]\nPor favor ^0000FFequipe as Asas de Arcanjo Caído^000000, e eu poderei aplicar encantamentos.",
+        "es": "[Valkiria Caída]\nPor favor ^0000FFequipa las Alas de Arcángel Caído^000000, y podré aplicar encantamientos."
+    },
+    "JsTOCw": {
+        "ko": "[다크 루히르]\n안녕하세요~ 저는 타락천사의 날개 시리즈를 장비하신 분들께 아무런 댓가없이 원하는 효능을 부여해 드리고 있습니다.",
+        "en": "[Fallen Valkyrie]\nHello! I'm enchanting a very valuable item, the <ITEM>[Fallen Archangel Wings]<INFO>2589</INFO></ITEM>.",
+        "pt": "[Valquíria Caída]\nOlá! Estou encantando um item muito valioso, as <ITEM>[Asas de Arcanjo Caído]<INFO>2589</INFO></ITEM>.",
+        "es": "[Valkiria Caída]\n¡Hola! Estoy encantando un objeto muy valioso: las <ITEM>[Alas de Arcángel Caído]<INFO>2589</INFO></ITEM>."
+    },
+    "J8TOCw": {
+        "ko": "[다크 루히르]\n타락천사의 날개 시리즈를 입수한 분이라면 제가 아무런 댓가없이 원하는 효능을 부여해 드리고 있습니다..",
+        "en": "[Fallen Valkyrie]\nI'm adding extra effects through enchanting completely free of charge.",
+        "pt": "[Valquíria Caída]\nEstou encantando com efeitos extras de maneira totalmente gratuita.",
+        "es": "[Valkiria Caída]\nEstoy aplicando encantamientos adicionales completamente gratis."
+    },
+    "KMTOCw": {
+        "ko": "1.관둔다",
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar"
+    },
+    "KcTOCw": {
+        "ko": "2.타락천사의 날개에 능력치부여",
+        "en": "Enchant the Fallen Archangel Wings",
+        "pt": "Encantar as Asas de Arcanjo Caído",
+        "es": "Encantar las Alas de Arcángel Caído"
+    },
+    "KsTOCw": {
+        "ko": "[다크 루히르]\n그럼 다음에 또...",
+        "en": "[Fallen Valkyrie]\nPerhaps later?",
+        "pt": "[Valquíria Caída]\nQuem sabe mais tarde?",
+        "es": "[Valkiria Caída]\n¿Quizás más tarde?"
+    },
+    "K8TOCw": {
+        "ko": "[다크 루히르]\n1~6제련 장비엔 소켓1개 분량까지, 7~8제련시 소켓 2개 분량까지, \n9제련 이상시 소켓 3개 분량까지 효능을 부여해 드립니다.",
+        "en": "[Fallen Valkyrie]\nIf your Wing is refined between +0 and +6, I can only enchant 1 slot.\nIf refined to +7 or +8, I can enchant 2 slots. If +9 or higher, I can enchant 3 slots.",
+        "pt": "[Valquíria Caída]\nCaso sua Asa esteja refinada entre +0 e +6, poderei encantar apenas 1 slot.\nSe o refinamento for +7 ou +8, poderei encantar 2 slots. Já se for +9 ou maior poderei encantar 3 slots.",
+        "es": "[Valkiria Caída]\nSi tu Ala está refinada entre +0 y +6, solo podré encantar 1 slot.\nSi el refinamiento es +7 u +8, podré encantar 2 slots. Si es +9 o superior, podré encantar 3 slots."
+    },
+    "LMTOCw": {
+        "ko": "[다크 루히르]\n이 장비는 제련도 7 이하의 장비입니다. 따라서 ^FF00004소켓에만^000000 효능부여가 가능함을 염두에 두시기 바랍니다",
+        "en": "[Fallen Valkyrie]\nYour item is refined between +0 and +6. Only ^FF0000one slot^000000 can be enchanted.",
+        "pt": "[Valquíria Caída]\nO seu item está refinado entre +0 e +6. Apenas ^FF0000um slot^000000 pode receber encantamentos.",
+        "es": "[Valkiria Caída]\nTu objeto está refinado entre +0 y +6. Solo ^FF0000una slot^000000 puede recibir encantamientos."
+    },
+    "LcTOCw": {
+        "ko": "[다크 루히르]\n이 장비는 제련도 7~8 에 해당하는 장비입니다. 따라서 ^FF00003,4 소켓에^000000 효능부여가 가능함을 염두에 두시기 바랍니다",
+        "en": "[Fallen Valkyrie]\nYour item is refined between +7 and +8. ^FF0000two slots^000000 can be enchanted.",
+        "pt": "[Valquíria Caída]\nO seu item está refinado entre +7 e +8. ^FF0000dois slots^000000 podem receber encantamentos.",
+        "es": "[Valkiria Caída]\nTu objeto está refinado entre +7 y +8. ^FF0000dos slots^000000 pueden recibir encantamientos."
+    },
+    "LsTOCw": {
+        "ko": "[다크 루히르]\n이 장비는 제련도 9 이상의 장비입니다. 따라서 ^FF00002,3,4 소켓 전부에^000000 효능부여가 가능합니다.",
+        "en": "[Fallen Valkyrie]\nWow! Your item is refined to +9 or higher! I can enchant ^FF0000three slots^000000.",
+        "pt": "[Valquíria Caída]\nUau! O refinamento do seu item é +9 ou maior! Poderei encantar ^FF0000três slots^000000.",
+        "es": "[Valkiria Caída]\n¡Guau! ¡Tu objeto tiene refinamiento +9 o superior! Podré encantar ^FF0000tres slots^000000."
+    },
+    "L8TOCw": {
+        "ko": "어떤 능력치를 부여하시겠습니까?",
+        "en": "Which enchantment do you want?",
+        "pt": "Que encanto você deseja?",
+        "es": "¿Qué encantamiento deseas?"
+    },
+    "MMTOCw": {
+        "ko": "장비를 입고올께요",
+        "en": "Can I think a bit longer?",
+        "pt": "Posso pensar mais um pouco?",
+        "es": "¿Puedo pensarlo un poco más?"
+    },
+    "McTOCw": {
+        "ko": "1.투지",
+        "en": "Fighting Spirit",
+        "pt": "Espírito do Lutador",
+        "es": "Espíritu de Lucha"
+    },
+    "MsTOCw": {
+        "ko": "2.마력",
+        "en": "Spell",
+        "pt": "Pedra de Encantamento",
+        "es": "Hechizo"
+    },
+    "M8TOCw": {
+        "ko": "3.명궁",
+        "en": "Expert Archer",
+        "pt": "Mira Apurada",
+        "es": "Arquero Experto"
+    },
+    "NMTOCw": {
+        "ko": "4.치명",
+        "en": "Fatal",
+        "pt": "Fatal",
+        "es": "Fatal"
+    },
+    "NcTOCw": {
+        "ko": "5.MHP",
+        "en": "Max HP",
+        "pt": "HP Máx.",
+        "es": "HP Máx."
+    },
+    "NsTOCw": {
+        "ko": "6.SP",
+        "en": "Max SP",
+        "pt": "SP Máx.",
+        "es": "SP Máx."
+    },
+    "N8TOCw": {
+        "ko": "7.공격속도",
+        "en": "ASPD",
+        "pt": "Anti-Atraso",
+        "es": "VELA"
+    },
+    "OMTOCw": {
+        "ko": "8.STR",
+        "en": "Strength",
+        "pt": "Força",
+        "es": "Fuerza"
+    },
+    "OcTOCw": {
+        "ko": "9.AGI",
+        "en": "Agility",
+        "pt": "Agilidade",
+        "es": "Agilidad"
+    },
+    "OsTOCw": {
+        "ko": "10.VIT",
+        "en": "Vitality",
+        "pt": "Vitalidade",
+        "es": "Vitalidad"
+    },
+    "O8TOCw": {
+        "ko": "11.INT",
+        "en": "Intelligence",
+        "pt": "Inteligência",
+        "es": "Inteligencia"
+    },
+    "PMTOCw": {
+        "ko": "12.DEX",
+        "en": "Dexterity",
+        "pt": "Destreza",
+        "es": "Destreza"
+    },
+    "PcTOCw": {
+        "ko": "13.LUK",
+        "en": "Luck",
+        "pt": "Sorte",
+        "es": "Suerte"
+    },
+    "PsTOCw": {
+        "ko": "[다크 루히르]\n장비를 장착하고나면 다시 방문해주십시오",
+        "en": "[Fallen Valkyrie]\nCome back after you've made a decision.",
+        "pt": "[Valquíria Caída]\nVolte depois de tomar uma decisão.",
+        "es": "[Valkiria Caída]\nRegresa cuando hayas decidido."
+    },
+    "P8TOCw": {
+        "ko": "[다크 루히르]\n투지 3~5 (ATK+HIT) 까지 랜덤한 수치가 부여됩니다 ^FF0000또한 한번 부여된 능력치는 절대 초기화로 되돌릴 수 없습니다.^000000 이대로 진행 하시겠습니까?",
+        "en": "[Fallen Valkyrie]\nThe level of [Fighting Spirit] will be given randomly between 3 to 5.\n^FF0000Once enchanted, you cannot reset it. Do you wish to continue?^000000",
+        "pt": "[Valquíria Caída]\nO nível de [Espírito do Lutador] será dado entre 3 a 5 aleatoriamente.\n^FF0000Uma vez encantado, você não poderá resetar. Deseja continuar?^000000",
+        "es": "[Valkiria Caída]\nEl nivel de [Espíritu de Lucha] se asignará aleatoriamente entre 3 y 5.\n^FF0000Una vez encantado, no podrás reiniciarlo. ¿Deseas continuar?^000000"
+    },
+    "QMTOCw": {
+        "ko": "2.이 능력치로 선택하겠습니다",
+        "en": "Alright, let's try",
+        "pt": "Tudo bem, vamos tentar",
+        "es": "Está bien, intentémoslo"
+    },
+    "QcTOCw": {
+        "ko": "[다크 루히르]\n마력 4~6 (MATK + 변동캐스팅 시간 단축) 까지 랜덤한 수치가 부여됩니다 ^FF0000또한 한번 부여된 능력치는 절대 초기화로 되돌릴 수 없습니다.^000000 이대로 진행 하시겠습니까?",
+        "en": "[Fallen Valkyrie]\nThe level of [Spell] will be given randomly between 4 to 6.\n^FF0000Once enchanted, you cannot reset it. Do you wish to continue?^000000",
+        "pt": "[Valquíria Caída]\nO nível de [Pedra de Encantamento] será dado entre 4 a 6 aleatoriamente.\n^FF0000Uma vez encantado, você não poderá resetar. Deseja continuar?^000000",
+        "es": "[Valkiria Caída]\nEl nivel de [Hechizo] se asignará aleatoriamente entre 4 y 6.\n^FF0000Una vez encantado, no podrás reiniciarlo. ¿Deseas continuar?^000000"
+    },
+    "QsTOCw": {
+        "ko": "[다크 루히르]\n명궁 1~3 (원거리 물리공격력) 까지 랜덤한 수치가 부여됩니다 ^FF0000또한 한번 부여된 능력치는 절대 초기화로 되돌릴 수 없습니다.^000000 이대로 진행 하시겠습니까?",
+        "en": "[Fallen Valkyrie]\nThe level of [Expert Archer] will be given randomly between 1 to 3.\n^FF0000Once enchanted, you cannot reset it. Do you wish to continue?^000000",
+        "pt": "[Valquíria Caída]\nO nível de [Mira Apurada] será dado entre 1 a 3 aleatoriamente.\n^FF0000Uma vez encantado, você não poderá resetar. Deseja continuar?^000000",
+        "es": "[Valkiria Caída]\nEl nivel de [Arquero Experto] se asignará aleatoriamente entre 1 y 3.\n^FF0000Una vez encantado, no podrás reiniciarlo. ¿Deseas continuar?^000000"
+    },
+    "Q8TOCw": {
+        "ko": "[다크 루히르]\n치명 1~3 (크리티컬데미지 + CRI) 까지 랜덤한 수치가 부여됩니다 ^FF0000또한 한번 부여된 능력치는 절대 초기화로 되돌릴 수 없습니다.^000000 이대로 진행 하시겠습니까?",
+        "en": "[Fallen Valkyrie]\nThe level of [Fatal] will be given randomly between 1 to 3.\n^FF0000Once enchanted, you cannot reset it. Do you wish to continue?^000000",
+        "pt": "[Valquíria Caída]\nO nível de [Fatal] será dado entre 1 a 3 aleatoriamente.\n^FF0000Uma vez encantado, você não poderá resetar. Deseja continuar?^000000",
+        "es": "[Valkiria Caída]\nEl nivel de [Fatal] se asignará aleatoriamente entre 1 y 3.\n^FF0000Una vez encantado, no podrás reiniciarlo. ¿Deseas continuar?^000000"
+    },
+    "RMTOCw": {
+        "ko": "[다크 루히르]\nMHP 1~3 (MHP % 증가) 까지 랜덤한 수치가 부여됩니다 ^FF0000또한 한번 부여된 능력치는 절대 초기화로 되돌릴 수 없습니다.^000000 이대로 진행 하시겠습니까?",
+        "en": "[Fallen Valkyrie]\nThe level of [Max HP] will be given randomly between 1% to 3%.\n^FF0000Once enchanted, you cannot reset it. Do you wish to continue?^000000",
+        "pt": "[Valquíria Caída]\nO nível de [HP Máx.] será dado entre 1% a 3% aleatoriamente.\n^FF0000Uma vez encantado, você não poderá resetar. Deseja continuar?^000000",
+        "es": "[Valkiria Caída]\nEl nivel de [HP Máx.] se asignará aleatoriamente entre 1% y 3%.\n^FF0000Una vez encantado, no podrás reiniciarlo. ¿Deseas continuar?^000000"
+    },
+    "RcTOCw": {
+        "ko": "[다크 루히르]\nSP 25~75 까지 랜덤한 수치가 부여됩니다 ^FF0000또한 한번 부여된 능력치는 절대 초기화로 되돌릴 수 없습니다.^000000 이대로 진행 하시겠습니까?",
+        "en": "[Fallen Valkyrie]\nThe level of [Max SP] will be given randomly between 25 to 75.\n^FF0000Once enchanted, you cannot reset it. Do you wish to continue?^000000",
+        "pt": "[Valquíria Caída]\nO nível de [SP Máx.] será dado entre 25 a 75 aleatoriamente.\n^FF0000Uma vez encantado, você não poderá resetar. Deseja continuar?^000000",
+        "es": "[Valkiria Caída]\nEl nivel de [SP Máx.] se asignará aleatoriamente entre 25 y 75.\n^FF0000Una vez encantado, no podrás reiniciarlo. ¿Deseas continuar?^000000"
+    },
+    "RsTOCw": {
+        "ko": "[다크 루히르]\n공격후딜레이 1~3 (공격 후딜레이 %감소) 까지 랜덤한 수치가 부여됩니다 ^FF0000또한 한번 부여된 능력치는 절대 초기화로 되돌릴 수 없습니다.^000000 이대로 진행 하시겠습니까?",
+        "en": "[Fallen Valkyrie]\nThe level of [ASPD] will be given randomly between 1 to 3.\n^FF0000Once enchanted, you cannot reset it. Do you wish to continue?^000000",
+        "pt": "[Valquíria Caída]\nO nível de [Anti-Atraso] será dado entre 1 a 3 aleatoriamente.\n^FF0000Uma vez encantado, você não poderá resetar. Deseja continuar?^000000",
+        "es": "[Valkiria Caída]\nEl nivel de [VELA] se asignará aleatoriamente entre 1 y 3.\n^FF0000Una vez encantado, no podrás reiniciarlo. ¿Deseas continuar?^000000"
+    },
+    "R8TOCw": {
+        "ko": "[다크 루히르]\nSTR 3~5 까지 랜덤한 수치가 부여됩니다 ^FF0000또한 한번 부여된 능력치는 절대 초기화로 되돌릴 수 없습니다.^000000 이대로 진행 하시겠습니까?",
+        "en": "[Fallen Valkyrie]\nThe level of [STR] will be given randomly between 3 to 5.\n^FF0000Once enchanted, you cannot reset it. Do you wish to continue?^000000",
+        "pt": "[Valquíria Caída]\nO nível de [FOR] será dado entre 3 a 5 aleatoriamente.\n^FF0000Uma vez encantado, você não poderá resetar. Deseja continuar?^000000",
+        "es": "[Valkiria Caída]\nEl nivel de [FUE] se asignará aleatoriamente entre 3 y 5.\n^FF0000Una vez encantado, no podrás reiniciarlo. ¿Deseas continuar?^000000"
+    },
+    "SMTOCw": {
+        "ko": "[다크 루히르]\nAGI 2~4 까지 랜덤한 수치가 부여됩니다 ^FF0000또한 한번 부여된 능력치는 절대 초기화로 되돌릴 수 없습니다.^000000 이대로 진행 하시겠습니까?",
+        "en": "[Fallen Valkyrie]\nThe level of [AGI] will be given randomly between 2 to 4.\n^FF0000Once enchanted, you cannot reset it. Do you wish to continue?^000000",
+        "pt": "[Valquíria Caída]\nO nível de [AGI] será dado entre 2 a 4 aleatoriamente.\n^FF0000Uma vez encantado, você não poderá resetar. Deseja continuar?^000000",
+        "es": "[Valkiria Caída]\nEl nivel de [AGI] se asignará aleatoriamente entre 2 y 4.\n^FF0000Una vez encantado, no podrás reiniciarlo. ¿Deseas continuar?^000000"
+    },
+    "ScTOCw": {
+        "ko": "[다크 루히르]\nVIT 3~5 까지 랜덤한 수치가 부여됩니다 ^FF0000또한 한번 부여된 능력치는 절대 초기화로 되돌릴 수 없습니다.^000000 이대로 진행 하시겠습니까?",
+        "en": "[Fallen Valkyrie]\nThe level of [VIT] will be given randomly between 3 to 5.\n^FF0000Once enchanted, you cannot reset it. Do you wish to continue?^000000",
+        "pt": "[Valquíria Caída]\nO nível de [VIT] será dado entre 3 a 5 aleatoriamente.\n^FF0000Uma vez encantado, você não poderá resetar. Deseja continuar?^000000",
+        "es": "[Valkiria Caída]\nEl nivel de [VIT] se asignará aleatoriamente entre 3 y 5.\n^FF0000Una vez encantado, no podrás reiniciarlo. ¿Deseas continuar?^000000"
+    },
+    "SsTOCw": {
+        "ko": "[다크 루히르]\nINT 3~5 까지 랜덤한 수치가 부여됩니다 ^FF0000또한 한번 부여된 능력치는 절대 초기화로 되돌릴 수 없습니다.^000000 이대로 진행 하시겠습니까?",
+        "en": "[Fallen Valkyrie]\nThe level of [INT] will be given randomly between 3 to 5.\n^FF0000Once enchanted, you cannot reset it. Do you wish to continue?^000000",
+        "pt": "[Valquíria Caída]\nO nível de [INT] será dado entre 3 a 5 aleatoriamente.\n^FF0000Uma vez encantado, você não poderá resetar. Deseja continuar?^000000",
+        "es": "[Valkiria Caída]\nEl nivel de [INT] se asignará aleatoriamente entre 3 y 5.\n^FF0000Una vez encantado, no podrás reiniciarlo. ¿Deseas continuar?^000000"
+    },
+    "S8TOCw": {
+        "ko": "[다크 루히르]\nDEX 3~5 까지 랜덤한 수치가 부여됩니다 ^FF0000또한 한번 부여된 능력치는 절대 초기화로 되돌릴 수 없습니다.^000000 이대로 진행 하시겠습니까?",
+        "en": "[Fallen Valkyrie]\nThe level of [DEX] will be given randomly between 3 to 5.\n^FF0000Once enchanted, you cannot reset it. Do you wish to continue?^000000",
+        "pt": "[Valquíria Caída]\nO nível de [DES] será dado entre 3 a 5 aleatoriamente.\n^FF0000Uma vez encantado, você não poderá resetar. Deseja continuar?^000000",
+        "es": "[Valkiria Caída]\nEl nivel de [DES] se asignará aleatoriamente entre 3 y 5.\n^FF0000Una vez encantado, no podrás reiniciarlo. ¿Deseas continuar?^000000"
+    },
+    "TMTOCw": {
+        "ko": "[다크 루히르]\nLUK 3~5 까지 랜덤한 수치가 부여됩니다 ^FF0000또한 한번 부여된 능력치는 절대 초기화로 되돌릴 수 없습니다.^000000 이대로 진행 하시겠습니까?",
+        "en": "[Fallen Valkyrie]\nThe level of [LUK] will be given randomly between 3 to 5.\n^FF0000Once enchanted, you cannot reset it. Do you wish to continue?^000000",
+        "pt": "[Valquíria Caída]\nO nível de [SOR] será dado entre 3 a 5 aleatoriamente.\n^FF0000Uma vez encantado, você não poderá resetar. Deseja continuar?^000000",
+        "es": "[Valkiria Caída]\nEl nivel de [SUE] se asignará aleatoriamente entre 3 y 5.\n^FF0000Una vez encantado, no podrás reiniciarlo. ¿Deseas continuar?^000000"
+    },
+    "TcTOCw": {
+        "ko": "[다크 루히르]\n장비를 벗고 계신건 아닌가요?",
+        "en": "[Fallen Valkyrie]\nAre you sure you're equipping the correct item?",
+        "pt": "[Valquíria Caída]\nVocê tem certeza que está equipando o item certo?",
+        "es": "[Valkiria Caída]\n¿Estás seguro de que tienes equipado el objeto correcto?"
+    },
+    "TsTOCw": {
+        "ko": "^FF0000랜덤옵션이 확인됩니다. 해당 장비는 작업 하실 수 없습니다.^000000",
+        "en": "^FF0000This item cannot be enchanted. It already has a random bonus.^000000",
+        "pt": "^FF0000Não é possível encantar esse item. Há um bônus aleatório nele.^000000",
+        "es": "^FF0000No se puede encantar este objeto. Ya tiene un bono aleatorio.^000000"
+    },
+    "T8TOCw": {
+        "ko": "[다크 루히르]\n입고있던 장비를 중간에 벗으면 굉장히 위험합니다.",
+        "en": "[Fallen Valkyrie]\nIt's very dangerous to remove the item during the process!",
+        "pt": "[Valquíria Caída]\nÉ muito perigoso remover o item durante o processo!",
+        "es": "[Valkiria Caída]\n¡Es muy peligroso quitar el objeto durante el proceso!"
+    },
+    "UMTOCw": {
+        "ko": "[다크 루히르]\n이 장비는 작업에 적합하지 않아요. 제대로 된 장비은 없는겁니까?",
+        "en": "[Fallen Valkyrie]\nAre you sure these are the correct wings?",
+        "pt": "[Valquíria Caída]\nTem certeza que essas são as asas certas?",
+        "es": "[Valkiria Caída]\n¿Seguro que son las alas correctas?"
+    },
+    "UcTOCw": {
+        "ko": "4",
+        "en": "4",
+        "pt": "4",
+        "es": "4"
+    },
+    "UsTOCw": {
+        "ko": "3",
+        "en": "3",
+        "pt": "3",
+        "es": "3"
+    },
+    "U8TOCw": {
+        "ko": "2",
+        "en": "2",
+        "pt": "2",
+        "es": "2"
+    },
+    "VMTOCw": {
+        "ko": "1",
+        "en": "1",
+        "pt": "1",
+        "es": "1"
+    },
+    "VcTOCw": {
+        "ko": "[타락죽 천사]\n부여된 소켓들을 확인해 본 결과 이미 한계치까지 강화가 된 제품같군요. 이 장비는 더 이상의 강화는 불가능하니 다른 장비를 가지고 오는게 좋겠어요.",
+        "en": "[Fallen Valkyrie]\nThis item seems to have already been enchanted to the maximum. Please equip another Fallen Archangel Wing to enchant.",
+        "pt": "[Valquíria Caída]\nEste item parece que já foi encantado ao máximo. Por favor, equipe outra Asas de Arcanjo Caído para encantar.",
+        "es": "[Valkiria Caída]\nEste objeto parece ya estar encantado al máximo. Por favor, equipa otras Alas de Arcángel Caído para encantar."
+    },
+    "VsTOCw": {
+        "ko": "[타락죽 천사]\n뭔가 알수없는 문제가 생긴듯 한데 잠깐 보고올게요.",
+        "en": "[Fallen Valkyrie]\nSomething strange happened. I think we should check the procedures.",
+        "pt": "[Valquíria Caída]\nAlgo estranho aconteceu. Acho melhor checarmos os procedimentos.",
+        "es": "[Valkiria Caída]\nAlgo extraño sucedió. Mejor revisemos los procedimientos."
+    },
+    "V8TOCw": {
+        "ko": "[다크 루히르]\n뭔가 알수없는 문제가 생긴듯 한데 잠깐 보고올게요.",
+        "en": "[Fallen Valkyrie]\nSomething strange happened. I think we should check the procedures.",
+        "pt": "[Valquíria Caída]\nAlgo estranho aconteceu. Acho melhor checarmos os procedimentos.",
+        "es": "[Valkiria Caída]\nAlgo extraño sucedió. Mejor revisemos los procedimientos."
+    },
+    "WMTOCw": {
+        "ko": "[다크 루히르]\n^0000FF이제 마지막 소켓에 효능을 부여하시는군요. 이 소켓에는 1/4 의 확률로 지금까지의 효능보다 높은 최상위 효능이 부여되기도 합니다. 그럼 진행 하겠습니다.^000000",
+        "en": "[Fallen Valkyrie]\n^0000FFWe will now attempt to enchant the last slot. The chance to receive the best enchantment is 1 in 4. Starting now.^000000",
+        "pt": "[Valquíria Caída]\n^0000FFAgora tentaremos encantar o último slot. A chance dele receber o melhor encantamento é de 1 para 4. Começaremos agora.^000000",
+        "es": "[Valkiria Caída]\n^0000FFAhora intentaremos encantar lo último slot. La probabilidad de obtener el mejor encantamiento es de 1 entre 4. Comenzamos ahora.^000000"
+    },
+    "WcTOCw": {
+        "ko": "[다크 루히르]\n한계치까지 강화가 된 제품같군요",
+        "en": "[Fallen Valkyrie]\nSorry, your item couldn't withstand receiving the enchantment.",
+        "pt": "[Valquíria Caída]\nDesculpe, seu item não suportou receber o encantamento.",
+        "es": "[Valkiria Caída]\nLo siento, tu objeto no resistió el encantamiento."
+    },
+    "WsTOCw": {
+        "ko": "[다크 루히르]\n힘의 균형이 맞지않아 기존의 부여된 능력치들이 소멸되었군요. 아쉽지만 다음기회를 노려보시지요.",
+        "en": "[Fallen Valkyrie]\nThe balance of powers was affected and the enchantments were lost. Better luck next time.",
+        "pt": "[Valquíria Caída]\nO equilíbrio de poderes foi afetado e os encantamentos se perderam. Mais sorte da próxima vez.",
+        "es": "[Valkiria Caída]\nEl equilibrio de poderes se alteró y los encantamientos se perdieron. Más suerte la próxima vez."
+    },
+    "W8TOCw": {
+        "ko": "[다크 루히르]\n이런!\n강력한 능력치를 이기지 못하고 장비가 파괴 되어버렸습니다. 유감입니다.",
+        "en": "[Fallen Valkyrie]\nBy Odin!\nYour item was destroyed because it couldn't withstand such a powerful enchantment. I'm sorry about that.",
+        "pt": "[Valquíria Caída]\nPor Odin!\nSeu item foi destruído porque não foi capaz de suportar um encantamento tão poderoso. Me desculpe por isso.",
+        "es": "[Valkiria Caída]\n¡Por Odín!\nTu objeto fue destruido porque no soportó un encantamiento tan poderoso. Lamento mucho lo sucedido."
+    },
+    "XMTOCw": {
+        "ko": "[다크 루히르]\n장비의 ^990000{0}번째 소켓^000000에 능력치를 부여합니다",
+        "en": "[Fallen Valkyrie]\nWhew! I successfully enchanted the ^990000{0}th slot^000000.",
+        "pt": "[Valquíria Caída]\nUfa! Consegui encantar o ^990000{0}º slot^000000.",
+        "es": "[Valkiria Caída]\n¡Uf! Logré encantar la ^990000{0}ª slot^000000."
+    },
+    "XcTOCw": {
+        "ko": "[다크 루히르]\n장비의 능력치를 초기화 합니다.",
+        "en": "[Fallen Valkyrie]\nResetting the Fallen Archangel Wings removes all enchantments from the equipment.",
+        "pt": "[Valquíria Caída]\nO Reset das Asas de Arcanjo Caído remove todos os encantos do equipamento.",
+        "es": "[Valkiria Caída]\nReiniciar las Alas de Arcángel Caído elimina todos los encantamientos del objeto."
+    },
+    "XsTOCw": {
+        "ko": "[다크 루히르]\n뭔가 잘못된 작업을 선택한듯??",
+        "en": "[Fallen Valkyrie]\nWhat was it you asked me for?",
+        "pt": "[Valquíria Caída]\nO que foi que você me pediu?",
+        "es": "[Valkiria Caída]\n¿Qué fue lo que me pediste?"
+    }
+}

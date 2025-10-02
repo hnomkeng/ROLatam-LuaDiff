@@ -1,3 +1,4 @@
+import sys
 import csv
 import json
 import base64
@@ -68,4 +69,6 @@ def csv_to_json(input_csv, output_json):
 
 # Ejemplo de uso
 if __name__ == "__main__":
-    csv_to_json("UPDATE/MsgStringTable_ml.csv", "UPDATE/MsgStringTable_ml.json")
+    f_from = sys.argv[1]
+    f_dest = sys.argv[2]
+    csv_to_json(f_from, f_dest)

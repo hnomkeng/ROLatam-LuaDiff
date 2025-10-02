@@ -1,0 +1,722 @@
+{
+    "YPKfCA": {
+        "ko": "유적 암거래상",
+        "en": "Infinity Marketer",
+        "pt": "Muambeira",
+        "es": "Comerciante de Reliquias"
+    },
+    "YfKfCA": {
+        "ko": "보유한 물건의 종류가 너무 많은것 같다. 물건의 종류를 줄인뒤에 다시 진행해보자.",
+        "en": "I think you have too many items. Reduce the number of items and try again.",
+        "pt": "Seu inventário não tem espaço suficiente para mais itens.",
+        "es": "Creo que tienes demasiados artículos. Reduzca la cantidad de artículos e intente nuevamente."
+    },
+    "YvKfCA": {
+        "ko": "가진 물건이 너무 무거워 더이상의 진행이 힘들 것 같다. 무게를 줄인 후 다시 도전해보자.",
+        "en": "The items you have are too heavy and it seems difficult to proceed further. Reduce the weight and try again.",
+        "pt": "Você não pode mais carregar itens acima do peso.",
+        "es": "Los artículos que tiene son demasiado pesados y parece difícil continuar más. Reduzca el peso y vuelva a intentarlo."
+    },
+    "Y/KfCA": {
+        "ko": "[유적 암거래상]\n이봐, 매번 여기까지 들락거리는거 힘들지 않아? ^0000FF2만 제니^000000만 내면 유적지 입구까지 고이 모셔줄 스크롤이 있는데 생각 없어?",
+        "en": "[Infinity Marketer]\nHey, isn't it hard to come here every time? I have a scroll that will take you to the entrance of the ruins for ^0000FF20,000 zenys^000000. Don't you think so?",
+        "pt": "[Muambeira]\nEi, gosta de facilidades? Por apenas ^0000FF20.000 zeny^000000, você pode comprar uma <ITEM>[Passagem para Pharos]<INFO>22980</INFO></ITEM>, o que acha?",
+        "es": "[Comerciante de Reliquias]\nOye, ¿no es difícil venir aquí cada vez? Tengo un pergamino que lo llevará a la entrada de las ruinas para ^0000FF 20,000 Zeniths ^000000. ¿No crees que eso?"
+    },
+    "ZPKfCA": {
+        "ko": "하나 줘 보셔",
+        "en": "Give me one.",
+        "pt": "Me veja um!",
+        "es": "Dame uno."
+    },
+    "ZfKfCA": {
+        "ko": "생각없어",
+        "en": "No idea",
+        "pt": "Não tenho interesse.",
+        "es": "Sin idea"
+    },
+    "ZvKfCA": {
+        "ko": "[유적 암거래상]\n좋은 거래였어. 더 필요한가?",
+        "en": "[Infinity Marketer]\nThat was a good deal. Do you need more?",
+        "pt": "[Muambeira]\nNegócio fechado, quer comprar mais?",
+        "es": "[Comerciante de Reliquias]\nEse fue un buen negocio. ¿Necesitas más?"
+    },
+    "Z/KfCA": {
+        "ko": "[유적 암거래상]\n너, 더이상의 돈이 없는것 같은데. 스크롤은 하나에 2만제니라고.",
+        "en": "[Infinity Marketer]\nI don't think you have any more money. The scrolls are 20,000 zenys each.",
+        "pt": "[Muambeira]\nVocê não tem dinheiro. A Passagem custa 20.000 zeny.",
+        "es": "[Comerciante de Reliquias]\nNo creo que tengas más dinero. Los pergaminos cuestan 20.000 cenits cada uno."
+    },
+    "aPKfCA": {
+        "ko": "[유적 암거래상]\n언제든 다시 찾아오라구",
+        "en": "[Infinity Marketer]\nCome back anytime.",
+        "pt": "[Muambeira]\nFique à vontade!",
+        "es": "[Comerciante de Reliquias]\nVuelve cuando quieras."
+    },
+    "afKfCA": {
+        "ko": "유물감정가",
+        "en": "Artifact Appraiser",
+        "pt": "Perita em Relíquias",
+        "es": "Tasador de Reliquias"
+    },
+    "avKfCA": {
+        "ko": "[유물 감정가]\n사고싶은 장비의 종류를 한번 골라보세요. 부서진 마법석만 가지고 있다면 얼마든지 구입하실 수 있습니다.",
+        "en": "[Artifact Appraiser]\nChoose the type of equipment you want to buy. You can buy it as long as you have a broken magic stone.",
+        "pt": "[Perita em Relíquias]\nOlá!\nSou especialista em relíquias encontradas no Farol de Pharos!",
+        "es": "[Tasador de Reliquias]\nElige el tipo de equipo que quieres comprar. Puedes comprarlo siempre que tengas una piedra mágica rota."
+    },
+    "a/KfCA": {
+        "ko": "취소",
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar"
+    },
+    "bPKfCA": {
+        "ko": "무기류",
+        "en": "Weapons",
+        "pt": "Armas",
+        "es": "Armas"
+    },
+    "bfKfCA": {
+        "ko": "방어구류",
+        "en": "Armor",
+        "pt": "Armaduras",
+        "es": "Armadura"
+    },
+    "bvKfCA": {
+        "ko": "[유물 감정가]\n언제든 원하실때 다시 찾아주세요~",
+        "en": "[Artifact Appraiser]\nCome back whenever you want~",
+        "pt": "[Perita em Relíquias]\nVenha quando quiser~",
+        "es": "[Tasador de Reliquias]\n¡Vuelve cuando quieras!~"
+    },
+    "b/KfCA": {
+        "ko": "무한의채찍",
+        "en": "Infinite Whip",
+        "pt": "Chicote Safira",
+        "es": "Látigo Infinito"
+    },
+    "cPKfCA": {
+        "ko": "무한의바이올린",
+        "en": "Infinite Violin",
+        "pt": "Violino Safira",
+        "es": "Violín Infinito"
+    },
+    "cfKfCA": {
+        "ko": "무한의수리검",
+        "en": "Infinite Shuriken",
+        "pt": "Shuriken Safira",
+        "es": "Shuriken Infinito"
+    },
+    "cvKfCA": {
+        "ko": "무한의권총",
+        "en": "Infinite Pistol",
+        "pt": "Revólver Safira",
+        "es": "Pistola Infinita"
+    },
+    "c/KfCA": {
+        "ko": "무한의단검",
+        "en": "Infinite Dagger",
+        "pt": "Adaga Safira",
+        "es": "Daga Infinita"
+    },
+    "dPKfCA": {
+        "ko": "무한의양손지팡이",
+        "en": "Infinite Two-Handed Staff",
+        "pt": "Cetro Safira",
+        "es": "Bastón Infinito a Dos Manos"
+    },
+    "dfKfCA": {
+        "ko": "무한의메이스",
+        "en": "Infinite Mace",
+        "pt": "Clava Safira",
+        "es": "Maza Infinita"
+    },
+    "dvKfCA": {
+        "ko": "무한의양손검",
+        "en": "Infinite Two-Handed Sword",
+        "pt": "Espada Safira",
+        "es": "Espada Infinita a Dos Manos"
+    },
+    "d/KfCA": {
+        "ko": "무한의도끼",
+        "en": "Infinite Axe",
+        "pt": "Machado Safira",
+        "es": "Hacha Infinita"
+    },
+    "ePKfCA": {
+        "ko": "무한의활",
+        "en": "Infinite Bow",
+        "pt": "Arco Safira",
+        "es": "Arco Infinito"
+    },
+    "efKfCA": {
+        "ko": "무한의채찍",
+        "en": "Infinite Whip",
+        "pt": "Chicote Safira",
+        "es": "Látigo Infinito"
+    },
+    "evKfCA": {
+        "ko": "무한의바이올린",
+        "en": "Infinite Violin",
+        "pt": "Violino Safira",
+        "es": "Violín Infinito"
+    },
+    "e/KfCA": {
+        "ko": "무한의수리검",
+        "en": "Infinite Shuriken",
+        "pt": "Shuriken Safira",
+        "es": "Shuriken Infinito"
+    },
+    "fPKfCA": {
+        "ko": "무한의권총",
+        "en": "Infinite Pistol",
+        "pt": "Revólver Safira",
+        "es": "Pistola Infinita"
+    },
+    "ffKfCA": {
+        "ko": "무한의단검",
+        "en": "Infinite Dagger",
+        "pt": "Adaga Safira",
+        "es": "Daga Infinita"
+    },
+    "fvKfCA": {
+        "ko": "무한의양손지팡이",
+        "en": "Infinite Two-Handed Staff",
+        "pt": "Cetro Safira",
+        "es": "Bastón Infinito a Dos Manos"
+    },
+    "f/KfCA": {
+        "ko": "무한의메이스",
+        "en": "Infinite Mace",
+        "pt": "Clava Safira",
+        "es": "Maza Infinita"
+    },
+    "gPKfCA": {
+        "ko": "무한의양손검",
+        "en": "Infinite Two-Handed Sword",
+        "pt": "Espada Safira",
+        "es": "Espada Infinita a Dos Manos"
+    },
+    "gfKfCA": {
+        "ko": "무한의도끼",
+        "en": "Infinite Axe",
+        "pt": "Machado Safira",
+        "es": "Hacha Infinita"
+    },
+    "gvKfCA": {
+        "ko": "무한의활",
+        "en": "Infinite Bow",
+        "pt": "Arco Safira",
+        "es": "Arco Infinito"
+    },
+    "g/KfCA": {
+        "ko": "균열의고대갑옷",
+        "en": "Crack Ancient Armor",
+        "pt": "Cota de Osso Perene",
+        "es": "Armadura Antigua Rompe"
+    },
+    "hPKfCA": {
+        "ko": "균열의슈즈",
+        "en": "Crack Shoes",
+        "pt": "Sapatos de Couro Perene",
+        "es": "Zapatos Rompe"
+    },
+    "hfKfCA": {
+        "ko": "균열의망토",
+        "en": "Crack Cloak",
+        "pt": "Manto de Tinta Perene",
+        "es": "Capa Rompe"
+    },
+    "hvKfCA": {
+        "ko": "균열의고대장식",
+        "en": "Crack Ancient Decoration",
+        "pt": "Tiara de Orquídea Perene",
+        "es": "Decoración Antigua Rompe"
+    },
+    "h/KfCA": {
+        "ko": "균열의고대갑옷",
+        "en": "Crack Ancient Armor",
+        "pt": "Cota de Osso Perene",
+        "es": "Armadura Antigua Rompe"
+    },
+    "iPKfCA": {
+        "ko": "균열의슈즈",
+        "en": "Crack Shoes",
+        "pt": "Sapatos de Couro Perene",
+        "es": "Zapatos Rompe"
+    },
+    "ifKfCA": {
+        "ko": "균열의망토",
+        "en": "Crack Cloak",
+        "pt": "Manto de Tinta Perene",
+        "es": "Capa Rompe"
+    },
+    "ivKfCA": {
+        "ko": "균열의고대장식",
+        "en": "Crack Ancient Decoration",
+        "pt": "Tiara de Orquídea Perene",
+        "es": "Decoración Antigua Rompe"
+    },
+    "i/KfCA": {
+        "ko": "[유물 감정가]\n^0000FF{0}^000000 의 구입을 위해선 부서진 마법석 ^0000FF{1}^000000 개가 필요합니다~",
+        "en": "[Artifact Appraiser]\nTo purchase ^0000FF{0}^000000, ^0000FF{1}^000000 Broken Magic Stones are needed~",
+        "pt": "[Perita em Relíquias]\nPara comprar ^0000FF{0}^000000, você precisa de ^0000FF{1}^000000x Pó Espacial.",
+        "es": "[Tasador de Reliquias]\nPara comprar ^0000FF{0}^000000, ^0000FF{1}^000000 Se necesitan piedras mágicas rotas ~"
+    },
+    "jPKfCA": {
+        "ko": "구매한다",
+        "en": "Purchase",
+        "pt": "Comprar",
+        "es": "Compra"
+    },
+    "jfKfCA": {
+        "ko": "[유물 감정가]\n이용해주셔서 감사합니다. 다음에도 또 찾아주세요.",
+        "en": "[Artifact Appraiser]\nThank you for using our service. Please come back again.",
+        "pt": "[Perita em Relíquias]\nTrocado! Obrigada.",
+        "es": "[Tasador de Reliquias]\nGracias por usar nuestro servicio. Please come back again."
+    },
+    "jvKfCA": {
+        "ko": "[유물 감정가]\n^0000FF{0}^000000 의 구입을 위해선 부서진 마법석 ^0000FF{1}^000000 개가 필요합니다. 조금 부족해보이는데요",
+        "en": "[Artifact Appraiser]\nTo purchase ^0000FF{0}^000000, you need ^0000FF{1}^000000 Broken Magic Stones. It seems a little lacking.",
+        "pt": "[Perita em Relíquias]\nVocê não tem ^0000FF{1}^000000x Pó Espacial para adquirir ^0000FF{0}^000000.",
+        "es": "[Tasador de Reliquias]\nPara comprar ^0000FF {0} ^000000, necesita ^0000FF {1} ^000000 piedras mágicas rotas. Parece un poco falta ."
+    },
+    "j/KfCA": {
+        "ko": "유물강화사",
+        "en": "Artifact Enhancer",
+        "pt": "Ferreira de Relíquias",
+        "es": "Potenciador de Reliquias"
+    },
+    "kPKfCA": {
+        "ko": "랜덤옵션 체크 기능 추가.",
+        "en": "Added random option check function.",
+        "pt": "Função de identificar bônus aleatórios ativado.",
+        "es": "Función de verificación de opción aleatoria agregada."
+    },
+    "kfKfCA": {
+        "ko": "[유물강화사]\n무한의공간에서 얻은 장비를 강화하고 싶다면 제대로 찾아온겁니다. 부서진 마법석은 갖고 계시나요?",
+        "en": "[Artifact Enhancer]\nIf you want to enhance the equipment obtained from the Infinite Space, you have come to the right place. Do you have the Broken Magic Stones?",
+        "pt": "[Ferreira de Relíquias]\nSe veio adicionar encantamentos nas suas relíquias do Farol de Faros, veio ao lugar certo! Em que posso ajudar?",
+        "es": "[Potenciador de Reliquias]\nSi desea mejorar el equipo obtenido del espacio infinito, ha venido al lugar correcto. ¿Tienes las piedras mágicas rotas?"
+    },
+    "kvKfCA": {
+        "ko": "이곳의 인챈트는 어떤 방식입니까?",
+        "en": "What is the enchantment method here?",
+        "pt": "Como funciona?",
+        "es": "¿Cuál es el método de encantamiento aquí?"
+    },
+    "k/KfCA": {
+        "ko": "무한의 장비 시리즈에 능력치 부여",
+        "en": "Enchant Infinite Equipment series",
+        "pt": "Encantar",
+        "es": "Granting abilities to the Infinite Equipment series"
+    },
+    "lPKfCA": {
+        "ko": "무한의 장비 인챈트 초기화",
+        "en": "Reset enchantment",
+        "pt": "Resetar",
+        "es": "Restablecimiento del encantamiento del equipo infinito"
+    },
+    "lfKfCA": {
+        "ko": "[유물강화사]\n이 파로스등대 아래 탐험을 하시다보면 ^0000FF부서진 마법석^000000을 계속해서 얻으실 수 있을거예요.",
+        "en": "[Artifact Enhancer]\nIf you explore under this Pharos Lighthouse, you will be able to continuously obtain ^0000FF Broken Magic Stones^000000.",
+        "pt": "[Ferreira de Relíquias]\nVocê pode obter ^0000FFPó Espacial^000000 ao explorar o Espaço Infinito.",
+        "es": "[Potenciador de Reliquias]\nSi explora bajo este faro de Pharos, podrá obtener continuamente ^0000FF piedras mágicas rotas ^000000."
+    },
+    "lvKfCA": {
+        "ko": "[유물강화사]\n그 물질을 받고, 저는 당신이 들고있는 무한의 공간에서 얻은 장비를 강화해드리는 거지요.",
+        "en": "[Relic Enhancer]\nI will receive that material and enhance the equipment you obtained from the infinite space you are holding.",
+        "pt": "[Ferreira de Relíquias]\nCom esse item, posso adicionar até 2 encantamentos nas Armas Safira ou nos Equipamentos Perenes.",
+        "es": "[Potenciador de Reliquias]\nRecibiré ese material y mejoraré el equipo que obtuvo del espacio infinito que está sosteniendo ."
+    },
+    "l/KfCA": {
+        "ko": "[유물강화사]\n물론 3. 4번째 슬롯에만 부여해 드릴 수 있어요.",
+        "en": "[Relic Enhancer]\nOf course, I can only give it to the 3rd and 4th slots.",
+        "pt": "[Ferreira de Relíquias]\nEncantar não tem chance nenhuma de falha.",
+        "es": "[Potenciador de Reliquias]\nPor supuesto, solo puedo darlo a las ranuras terceras y cuartas."
+    },
+    "mPKfCA": {
+        "ko": "[유물강화사]\n강화 중에는 장비가 파괴되는 일이 없겠지만, 강화된 내용을 초기화 할때엔 높은확률로 파괴될 수 있답니다.",
+        "en": "[Relic Enhancer]\nThe equipment will not be destroyed during enhancement, but there is a high probability that it will be destroyed when resetting the enhanced content.",
+        "pt": "[Ferreira de Relíquias]\nPorém, resetar os encantos pode acarretar na perda total do item.",
+        "es": "[Potenciador de Reliquias]\nEl equipo no será destruido durante la mejora, pero existe una alta probabilidad de que se destruya al restablecer el contenido mejorado ."
+    },
+    "mfKfCA": {
+        "ko": "[유물강화사]\n그럼 장비 강화를 하시고 싶을때 찾아오도록 하세요~",
+        "en": "[Relic Enhancer]\nThen, come visit me when you want to enhance your equipment~",
+        "pt": "[Ferreira de Relíquias]\nVenha encantar quando quiser~",
+        "es": "[Potenciador de Reliquias]\nLuego, ven a visitarme cuando desee mejorar su equipo ~"
+    },
+    "mvKfCA": {
+        "ko": "[유물강화사]\n강화하실 부위를 선택해 주세요",
+        "en": "[Relic Enhancer]\nPlease select the part you want to enhance.",
+        "pt": "[Ferreira de Relíquias]\nPor favor, selecione o local que o item está equipado.",
+        "es": "[Potenciador de Reliquias]\nSeleccione la parte que desea mejorar ."
+    },
+    "m/KfCA": {
+        "ko": "무기",
+        "en": "Weapon",
+        "pt": "Arma",
+        "es": "Arma"
+    },
+    "nPKfCA": {
+        "ko": "갑옷",
+        "en": "Armor",
+        "pt": "Armadura",
+        "es": "Armadura"
+    },
+    "nfKfCA": {
+        "ko": "신발",
+        "en": "Shoes",
+        "pt": "Calçado",
+        "es": "Zapato"
+    },
+    "nvKfCA": {
+        "ko": "걸칠것",
+        "en": "Wear",
+        "pt": "Capa",
+        "es": "Desgaste"
+    },
+    "n/KfCA": {
+        "ko": "투구",
+        "en": "Helmet",
+        "pt": "Elmo",
+        "es": "Casco"
+    },
+    "oPKfCA": {
+        "ko": "[유물강화사]\n초기화 하실 부위를 선택해 주세요",
+        "en": "[Relic Enhancer]\nPlease select the part you want to reset.",
+        "pt": "[Ferreira de Relíquias]\nPor favor, selecione o local que o item está equipado.",
+        "es": "[Potenciador de Reliquias]\nSeleccione la parte que desea restablecer ."
+    },
+    "ofKfCA": {
+        "ko": "[유물강화사]\n장비를 벗고 계신건 아닌가요?",
+        "en": "[Relic Enhancer]\nAre you not taking off your equipment?",
+        "pt": "[Ferreira de Relíquias]\nVocê está equipando o item?",
+        "es": "[Potenciador de Reliquias]\n¿No te quitas el equipo?"
+    },
+    "ovKfCA": {
+        "ko": "^FF0000랜덤옵션이 확인됩니다. 해당 장비는 작업 하실 수 없습니다.^000000",
+        "en": "^FF0000Random option is confirmed. You cannot work on the equipment in question. ^000000",
+        "pt": "^FF0000Esse item possui um bônus aleatório, portanto, não pode ser encantado.^000000",
+        "es": "^FF0000Se confirma la opción aleatoria. No puedes trabajar con el equipo en cuestión. ^000000"
+    },
+    "o/KfCA": {
+        "ko": "[유물강화사]\n입고있던 장비를 중간에 벗으면 굉장히 위험합니다.",
+        "en": "[Relic Enhancer]\nIt is extremely dangerous to take off the equipment you were wearing in the middle.",
+        "pt": "[Ferreira de Relíquias]\nNão remova o item durante o processo.",
+        "es": "[Potenciador de Reliquias]\nEs extremadamente peligroso quitarte el equipo que llevabas puesto en medio."
+    },
+    "pPKfCA": {
+        "ko": "무한의채찍",
+        "en": "Infinite Whip",
+        "pt": "Chicote Safira",
+        "es": "Látigo Infinito"
+    },
+    "pfKfCA": {
+        "ko": "무한의바이올린",
+        "en": "Infinite Violin",
+        "pt": "Violino Safira",
+        "es": "Violín Infinito"
+    },
+    "pvKfCA": {
+        "ko": "무한의수리검",
+        "en": "Infinite Shuriken",
+        "pt": "Shuriken Safira",
+        "es": "Shuriken Infinito"
+    },
+    "p/KfCA": {
+        "ko": "무한의권총",
+        "en": "Infinite Pistol",
+        "pt": "Revólver Safira",
+        "es": "Pistola Infinita"
+    },
+    "qPKfCA": {
+        "ko": "무한의단검",
+        "en": "Infinite Dagger",
+        "pt": "Adaga Safira",
+        "es": "Daga Infinita"
+    },
+    "qfKfCA": {
+        "ko": "무한의양손지팡이",
+        "en": "Infinite Two-Handed Staff",
+        "pt": "Cetro Safira",
+        "es": "Bastón Infinito de Dos Manos"
+    },
+    "qvKfCA": {
+        "ko": "무한의메이스",
+        "en": "Infinite Mace",
+        "pt": "Clava Safira",
+        "es": "Maza Infinita"
+    },
+    "q/KfCA": {
+        "ko": "무한의양손검",
+        "en": "Infinite Two-Handed Sword",
+        "pt": "Espada Safira",
+        "es": "Espada Infinita de Dos Manos"
+    },
+    "rPKfCA": {
+        "ko": "무한의도끼",
+        "en": "Infinite Axe",
+        "pt": "Machado Safira",
+        "es": "Hacha Infinita"
+    },
+    "rfKfCA": {
+        "ko": "무한의활",
+        "en": "Infinite Bow",
+        "pt": "Cota de Osso Perene",
+        "es": "Arco Infinito"
+    },
+    "rvKfCA": {
+        "ko": "균열의고대갑옷",
+        "en": "Crack Ancient Armor",
+        "pt": "Sapatos de Couro Perene",
+        "es": "Armadura Antigua Rompedora"
+    },
+    "r/KfCA": {
+        "ko": "균열의슈즈",
+        "en": "Crack Shoes",
+        "pt": "Manto de Tinta Perene",
+        "es": "Zapatos Rompedores"
+    },
+    "sPKfCA": {
+        "ko": "균열의망토",
+        "en": "Crack Cloak",
+        "pt": "Tiara de Orquídea Perene",
+        "es": "Capa Rompedora"
+    },
+    "sfKfCA": {
+        "ko": "균열의고대장식",
+        "en": "Crack Ancient Ornament",
+        "pt": "Tiara de Orquídea Perene",
+        "es": "Adorno Antiguo Rompedor"
+    },
+    "svKfCA": {
+        "ko": "[유물강화사]\n이 장비는 강화에 적합한 장비가 아니군요, 무한의 장비 시리즈만 히든 인챈트가 가능하다는걸 잊지마세요.",
+        "en": "[Relic Enhancer]\nThis equipment is not suitable for enhancement. Remember that only the Infinite equipment series can be hidden enchanted.",
+        "pt": "[Ferreira de Relíquias]\nApenas Armas Safira e Equipamentos Perenes podem ser encantados.",
+        "es": "[Potenciador de Reliquias]\nEste equipo no es apto para mejoras. Recuerda que solo la serie de equipo Infinito puede estar encantada oculta."
+    },
+    "s/KfCA": {
+        "ko": "[유물강화사]\n이 장비는 이미 한계치까지 강화가 되어버렸군요. 더 이상은 강화가 불가능해요.",
+        "en": "[Relic Enhancer]\nThis equipment has already been enhanced to its limit. It cannot be enhanced any further.",
+        "pt": "[Ferreira de Relíquias]\nEsse item já foi encantado 2 vezes. Se não gostou, você pode resetar os encantos.",
+        "es": "[Potenciador de Reliquias]\nEste equipo ya ha sido mejorado al máximo. No se puede mejorar más."
+    },
+    "tPKfCA": {
+        "ko": "[유물강화사]\n3가지의 유형을 고를 수 있고 요금은 부서진 마법석20개면 됩니다. 강화직전에 받도록 할께요.",
+        "en": "[Relic Enhancer]\nYou can choose from 3 types and the fee is 20 broken magic stones. I will receive it right before enhancement.",
+        "pt": "[Ferreira de Relíquias]\nPor 20 unidades de Pó Espacial, você pode escolher 1 das 3 categorias de encanto.",
+        "es": "[Potenciador de Reliquias]\nPuedes elegir entre 3 tipos y el precio es de 20 piedras mágicas rotas. I will receive it right before enhancement."
+    },
+    "tfKfCA": {
+        "ko": "그만둔다",
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar"
+    },
+    "tvKfCA": {
+        "ko": "물리공격계",
+        "en": "Physical Attack",
+        "pt": "Ataque",
+        "es": "Ataque físico"
+    },
+    "t/KfCA": {
+        "ko": "마법계",
+        "en": "Magic",
+        "pt": "Magia",
+        "es": "Mágico"
+    },
+    "uPKfCA": {
+        "ko": "원거리계",
+        "en": "Ranged",
+        "pt": "Mira",
+        "es": "A distancia"
+    },
+    "ufKfCA": {
+        "ko": "[유물강화사]\n마음이 내킬때 언제든 찾아주세요.",
+        "en": "[Relic Enhancer]\nCome visit whenever you feel like it.",
+        "pt": "[Ferreira de Relíquias]\nPor favor, venha me visitar sempre que quiser.",
+        "es": "[Potenciador de Reliquias]\nVen a visitar siempre que te des dejes"
+    },
+    "uvKfCA": {
+        "ko": "[유물강화사]\n좋아요 첫번째 강화를 시작해보죠. 깨지진 않을테니 걱정마세요",
+        "en": "[Relic Enhancer]\nOkay, let's start the first enhancement. Don't worry, it won't break.",
+        "pt": "[Ferreira de Relíquias]\nVou encantar o 4º slot. Não se preocupe, não vai quebrar.",
+        "es": "[Potenciador de Reliquias]\nBien, comencemos la primera mejora. No te preocupes, no se romperá."
+    },
+    "u/KfCA": {
+        "ko": "나중에 다시오겠습니다",
+        "en": "I'll come back later",
+        "pt": "Volto mais tarde...",
+        "es": "Volveré más tarde"
+    },
+    "vPKfCA": {
+        "ko": "진행해주십시오",
+        "en": "Please proceed",
+        "pt": "Prossiga.",
+        "es": "Por favor continúe"
+    },
+    "vfKfCA": {
+        "ko": "[유물강화사]\n맘이 바뀌면 다시 찾아주세요.",
+        "en": "[Relic Enhancer]\nIf you change your mind, come back again.",
+        "pt": "[Ferreira de Relíquias]\nSe você mudar de ideia, por favor, volte.",
+        "es": "[Potenciador de Reliquias]\nSi cambias de opinión, vuelve de nuevo ."
+    },
+    "vvKfCA": {
+        "ko": "[유물강화사]\n두번째 강화를 시작해볼까요. 이번에도 장비를 파괴하진 않을테니 안심하세요.",
+        "en": "[Relic Enhancer]\nShall we start the second enhancement? Don't worry, I won't break the equipment this time either.",
+        "pt": "[Ferreira de Relíquias]\nVou encantar o 3º slot. Não se preocupe, não vai quebrar.",
+        "es": "[Potenciador de Reliquias]\n¿Comenzamos la segunda mejora? No te preocupes, tampoco romperé el equipo esta vez ."
+    },
+    "v/KfCA": {
+        "ko": "[유물강화사]\n호~ 이건 할만큼 강화한 녀석이군요. 초기화를 하시거나 그냥 쓰시거나 선택은 자유예요.",
+        "en": "[Relic Enhancer]\nWow~ This is a guy that's been enhanced enough. You can reset it or just use it, it's your choice.",
+        "pt": "[Ferreira de Relíquias]\nHeh~ Esse item já foi encantado 2 vezes. Se quiser, pode resetar os encantos.",
+        "es": "[Potenciador de Reliquias]\nWow ~ Este es un tipo que ha sido lo suficientemente mejorado. Puede restablecerlo o simplemente usarlo, es su elección"
+    },
+    "wPKfCA": {
+        "ko": "[유물강화사]\n뭔지 모르겠지만 일이 꼬였군요. 잠시 후에 다시 와 주시겠어요?",
+        "en": "[Relic Enhancer]\nI don't know what it is, but something went wrong. Could you come back later?",
+        "pt": "[Ferreira de Relíquias]\nAlgo deu errado. Pode voltar mais tarde?",
+        "es": "[Potenciador de Reliquias]\nError. ¿Podrías volver más tarde?"
+    },
+    "wfKfCA": {
+        "ko": "[유물강화사]\n뭔가 정확하지 않은 부위를 요청하신것 같은데요. 다시 시도해주시겠어요?",
+        "en": "[Relic Enhancer]\nI think you requested the wrong part. Could you try again?",
+        "pt": "[Ferreira de Relíquias]\nAlgo deu errado. Pode voltar mais tarde?",
+        "es": "[Potenciador de Reliquias]\nCreo que solicitaste la parte incorrecta. ¿Podrías intentarlo de nuevo?"
+    },
+    "wvKfCA": {
+        "ko": "[유물강화사]\n음? 이런일이 있을 수는 없는데. 다시 해보시겠어요?",
+        "en": "[Relic Enhancer]\nHmm? This can't happen. Would you like to try again?",
+        "pt": "[Ferreira de Relíquias]\nHmm? Isso não pode estar acontecendo. Gostaria de tentar novamente?",
+        "es": "[Potenciador de Reliquias]\n¿Mmm? Esto no puede pasar. ¿Te gustaría intentarlo de nuevo?"
+    },
+    "w/KfCA": {
+        "ko": "[유물강화사]\n이건 뭔지 모르겠지만. 내가 건드릴 물건은 아닌 것 같군요.",
+        "en": "[Relic Enhancer]\nI don't know what it is, but it doesn't seem like something I should touch.",
+        "pt": "[Ferreira de Relíquias]\nNão sei o que é isso. Não parece algo que eu tocaria.",
+        "es": "[Potenciador de Reliquias]\nNo sé qué es, pero no parece algo que deba tocar."
+    },
+    "xPKfCA": {
+        "ko": "[유물강화사]\n흠. 잘 처리되었군. 한번 물건을 확인해보세요",
+        "en": "[Relic Enhancer]\nHmm. It's been taken care of. Let's check the item.",
+        "pt": "[Ferreira de Relíquias]\nO encantamento foi um sucesso!!!",
+        "es": "[Potenciador de Reliquias]\nMmm. Ya está solucionado. Vamos a revisar el objeto."
+    },
+    "xfKfCA": {
+        "ko": "[유물강화사]\n흠, 그런데 말이죠. 부서진 마법석을 들고계시지 않은 것 같은데요",
+        "en": "[Relic Enhancer]\nHmm, but. It looks like you're not holding a Broken Magic Stone.",
+        "pt": "[Ferreira de Relíquias]\nIh~ Você não tem Pó Espacial o suficiente.",
+        "es": "[Potenciador de Reliquias]\nMmm, pero... Parece que no tienes una Piedra Mágica Rota."
+    },
+    "xvKfCA": {
+        "ko": "[유물강화사]\n이 장비는 초기화 할 수 없는 장비입니다, 무한의 공간에서 습득한 장비만 초기화 가능하다는걸 잊지마세요.",
+        "en": "[Relic Enhancer]\nThis equipment cannot be initialized. Remember that only equipment obtained from Infinite Space can be initialized.",
+        "pt": "[Ferreira de Relíquias]\nEsse equipamento não pode ser resetado. Somente Armas Safira e Equipamentos Perenes.",
+        "es": "[Potenciador de Reliquias]\nEste equipo no se puede inicializar. Recuerda que solo se puede inicializar el equipo obtenido del Espacio Infinito."
+    },
+    "x/KfCA": {
+        "ko": "[유물강화사]\n무한의 공간 장비 인챈트 효능을 초기화하는 과정에서 운이 없을경우 장비가 파괴될 수 있습니다. 그래도 계속 하실건가요?",
+        "en": "[Relic Enhancer]\nIf you're unlucky while initializing the enchantment effect of Infinite Space equipment, the equipment may be destroyed. Do you still want to continue?",
+        "pt": "[Ferreira de Relíquias]\nHá uma chance de falha e perda total do equipamento. Deseja continuar?",
+        "es": "[Potenciador de Reliquias]\nSi tienes mala suerte al inicializar el efecto de encantamiento del equipo del Espacio Infinito, este podría destruirse. ¿Aún quieres continuar?"
+    },
+    "yPKfCA": {
+        "ko": "계속 진행한다",
+        "en": "Continue",
+        "pt": "Continuar",
+        "es": "Continuar"
+    },
+    "yfKfCA": {
+        "ko": "[유물강화사]\n마음이 바뀌면 언제든 다시 찾아오세요.",
+        "en": "[Relic Enhancer]\nIf you change your mind, come back anytime.",
+        "pt": "[Ferreira de Relíquias]\nSe você mudar de ideia, volte a qualquer hora.",
+        "es": "[Potenciador de Reliquias]\nSi cambias de opinión, vuelve cuando quieras."
+    },
+    "yvKfCA": {
+        "ko": "[유물강화사]\n이 장비엔 초기화 할 정도의 효능이 강화되어 있진 않군요.",
+        "en": "[Relic Enhancer]\nThis equipment doesn't have enough effects to be initialized.",
+        "pt": "[Ferreira de Relíquias]\nNão posso resetar apenas 1 encanto. Volte quando seu item tiver 2 encantamentos.",
+        "es": "[Potenciador de Reliquias]\nEste equipo no tiene suficientes efectos para inicializarse."
+    },
+    "y/KfCA": {
+        "ko": "[유물강화사]\n죄송하지만 초기화에 필요한 만큼의 부서진마법석을 갖고 계시지 않군요, 인벤토리를 다시 한번 확인해 보시겠어요?",
+        "en": "[Relic Enhancer]\nI'm sorry, but you don't have enough Broken Magic Stones to initialize. Would you like to check your inventory again?",
+        "pt": "[Ferreira de Relíquias]\nVocê não tem 30 unidades de Pó Espacial. Que tal coletar mais?",
+        "es": "[Potenciador de Reliquias]\nLo siento, pero no tienes suficientes Piedras Mágicas Rotas para inicializar. ¿Te gustaría revisar tu inventario de nuevo?"
+    },
+    "zPKfCA": {
+        "ko": "[유물강화사]\n안전하게 초기화가 완료된 것 같군요 여기 장비를 받으세요.",
+        "en": "[Relic Enhancer]\nIt looks like the initialization was completed safely. Here, take the equipment.",
+        "pt": "[Ferreira de Relíquias]\nO reset foi um sucesso! Aqui está seu item.",
+        "es": "[Potenciador de Reliquias]\nParece que la inicialización se completó correctamente. Toma, toma el equipo."
+    },
+    "zfKfCA": {
+        "ko": "[유물강화사]\n이런, 운이 없으시네요. 살다보면 이런날도 있는거죠.",
+        "en": "[Relic Enhancer]\nOh, you're unlucky. Life just happens like this.",
+        "pt": "[Ferreira de Relíquias]\nPutz! Sinto muito pela sua perda.",
+        "es": "[Potenciador de Reliquias]\nAy, qué mala suerte. La vida es así."
+    },
+    "zvKfCA": {
+        "ko": "비상식량상인",
+        "en": "Emergency Food Merchant",
+        "pt": "Feirante",
+        "es": "Comerciante de Alimentos"
+    },
+    "z/KfCA": {
+        "ko": "[비상식량상인]\n이것 저것 여러가지 물품이 준비되어있네. 물론 공짜는 아니지만 말이야.",
+        "en": "[Emergency Food Merchant]\nThere are all sorts of items prepared. Of course, they're not free.",
+        "pt": "[Feirante]\nPor favor, compre minhas frutas. Você não sabe o quão difícil é criá-las no deserto.",
+        "es": "[Comerciante de Alimentos]\nHay todo tipo de artículos preparados. Claro, no son gratis."
+    },
+    "0PKfCA": {
+        "ko": "구경꾼",
+        "en": "Onlooker",
+        "pt": "Visitante",
+        "es": "Observador"
+    },
+    "0fKfCA": {
+        "ko": "[구경꾼]\n원래 오지말라고 하면 더 오고싶은게 사람심리 아니겠어요? 근데 딱히 볼거리가 있어보이진 않네요 괴물도 없고...",
+        "en": "[Onlooker]\nIsn't it human nature to want to come more when you tell people not to? But there doesn't seem to be anything to see. There are no monsters...",
+        "pt": "[Visitante]\nMe disseram que aqui tinha uma ótima vista, mas parece que lá dentro desmoronou...",
+        "es": "[Observador]\n¿No es natural que quieras venir más cuando le dices a la gente que no lo haga? Pero no parece haber nada que ver. No hay monstruos..."
+    },
+    "0vKfCA": {
+        "ko": "행인",
+        "en": "Passerby",
+        "pt": "Curiosa",
+        "es": "Transeúnte"
+    },
+    "0/KfCA": {
+        "ko": "[행인]\n아니 난 그냥 지나가다 사람들이 모여있길래...",
+        "en": "[Passerby]\nNo, I was just passing by and saw a crowd of people...",
+        "pt": "[Curiosa]\nNão sei de nada! Só vi esse bando de gente aglomerada e vim conferir o que era...",
+        "es": "[Transeúnte]\nNo, solo pasaba y vi una multitud..."
+    },
+    "1PKfCA": {
+        "ko": "여행자",
+        "en": "Traveler",
+        "pt": "Turista",
+        "es": "Viajero"
+    },
+    "1fKfCA": {
+        "ko": "[여행자]\n이곳 등대 함몰지역 아래에 몬스터들이 우글거린단 소문이 대륙 전체에 좍 퍼졌어요. 저도 저 아래에 한번 내려가보고싶은데...",
+        "en": "[Traveler]\nRumors spread all over the continent that monsters are swarming under this lighthouse collapse. I want to go down there too...",
+        "pt": "[Turista]\nO continente inteiro está comentando de um desmoronamento do farol, por isso vim pra cá saber...",
+        "es": "[Viajero]\nSe han extendido rumores por todo el continente de que hay monstruos pululando bajo el derrumbe de este faro. Yo también quiero bajar..."
+    },
+    "1vKfCA": {
+        "ko": "모험가",
+        "en": "Adventurer",
+        "pt": "Viajante",
+        "es": "Aventurero"
+    },
+    "1/KfCA": {
+        "ko": "[모험가]\n뭔가 굉장한 보물들이 나올것 같지 않아요? 냄새가 난다구요 이 장소.",
+        "en": "[Adventurer]\nDon't you think there's some great treasures out there? This place smells.",
+        "pt": "[Viajante]\nVocê não acha que haverá grandes tesouros saindo deste lugar? Eu espero que sim.",
+        "es": "[Aventurero]\n¿No crees que hay grandes tesoros ahí fuera? Este lugar apesta."
+    }
+}
