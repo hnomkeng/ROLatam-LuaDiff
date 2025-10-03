@@ -9,7 +9,7 @@ foreach($f in (Get-Content $l | ForEach-Object { $_.Trim() })) {
 		
 		$outputPath = Join-Path $directory "$baseName.json"
 
-		python msg_to_json.py $f $outputPath
+		python msg_to_json.py $f $outputPath 1
 	}
 	catch {
 		Write-Output "Error $f"

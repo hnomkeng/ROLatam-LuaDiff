@@ -159,597 +159,642 @@
         "pt": "[Jalapeno]\nE o último encantamento aleatório adicionado é para aumentar AGI, DES ou INT em até +3.",
         "es": "[Jalapeno]\nY el último encantamiento aleatorio agregado es para aumentar la AGI, DES o INT hasta +3."
     },
-    "\u0000h5": {
+    "AGg1": {
         "en": "[Jalapeno]\nWell... some do get broken at the third attempt and I do have some customers complaining when that happens... meow",
         "pt": "[Jalapeno]\nBem... alguns quebram na terceira tentativa e alguns clientes reclamam quando isso acontece... miau.",
         "es": "[Jalapeno]\nBueno… algunas se rompen en el tercer intento y tengo algunos clientes que se quejan cuando pasa eso… Miau."
     },
-    "\u0001h5": {
+    "AWg1": {
         "en": "[Jalapeno]\n... I almost died on one occasion. (murmuring)",
         "pt": "[Jalapeno]\n... Quase morri uma vez. (murmurando)",
         "es": "[Jalapeno]\n… Una vez, casi me matan. *Murmura*"
     },
-    "\u0002h5": {
+    "Amg1": {
         "en": "[Jalapeno]\nReset? Are you sure?\nThis involves ^990000destroying the Feral Boots^000000 you are upgrading and cancelling all records of it.",
         "pt": "[Jalapeno]\nReiniciar? Tem certeza?\nIsso envolve ^990000destruir as Botas Feral^000000 que você está aprimorando e cancelar todos os registros dela.",
         "es": "[Jalapeno]\n¿Restablecer? ¿Te parece?\nEsto significa que ^990000destruirás las Botas salvajes^000000 que estás mejorando y eliminarás todos sus registros."
     },
-    "\u0003h5": {
+    "A2g1": {
         "en": "[Jalapeno]\nIf you want to try again, you'll have to find another pair of Feral Boots. So are you sure?",
         "pt": "[Jalapeno]\nSe quiser tentar novamente, você terá que encontrar outro par de Botas Feral. Então... tem certeza?",
         "es": "[Jalapeno]\nSi quieres volver a intentarlo, tendrás que encontrar otro par de Botas salvajes. ¿Quieres continuar?"
     },
-    "\u0004h5": {
+    "BGg1": {
         "en": "Maybe next time.",
         "pt": "Talvez na próxima.",
         "es": "Quizás en otra ocasión."
     },
-    "\u0005h5": {
+    "BWg1": {
         "en": "Please reset it.",
         "pt": "Por favor, redefina-a.",
         "es": "Restablecer."
     },
-    "\u0006h5": {
+    "Bmg1": {
         "en": "[Jalapeno]\nwhen you are ready,\nPlease come back again",
         "pt": "[Jalapeno]\nQuando estiver tudo certo,\nvolte novamente.",
         "es": "[Jalapeno]\nCuando tengas todo listo,\nregresa cuando quieras."
     },
-    "\u0007h5": {
+    "B2g1": {
         "en": "[Jalapeno]\nThen, take the equipment off first.",
         "pt": "[Jalapeno]\nEntão, tire o equipamento primeiro.",
         "es": "[Jalapeno]\nEntonces, primero, quítate el equipamiento."
     },
-    "\bh5": {
+    "CGg1": {
         "en": "[Jalapeno]\nI only do what I'm asked to do. I've retrieved all equipment and cancelled all records.",
         "pt": "[Jalapeno]\nSó faço o que me pedem para fazer. Recuperei todos os equipamentos e cancelei todos os registros.",
         "es": "[Jalapeno]\nSolo hago lo que me piden. Recolecté el equipamiento y eliminé todos los registros."
     },
-    "h5": {
-        "en": "Cannot proceed because the weight of your items is too heavy. Let's try again after you get rid of some weight.",
-        "pt": "Não é possível prosseguir porque o peso de seus itens é muito grande. Vamos tentar novamente depois que você se livrar de algum peso.",
-        "es": "No puedes continuar porque tus objetos son demasiado pesados. Inténtalo de nuevo después de perder algo de peso."
+    "CWg1": {
+        "en": "[Jalapeno]\nBut...\nyou don't seem to be wearing or even carrying equipment to upgrade on you.",
+        "pt": "[Jalapeno]\nMas...\nVocê não parece estar usando ou mesmo carregando equipamentos para fazer refinamento consigo.",
+        "es": "[Jalapeno]\nPero…\nno pareces tener equipamiento ni tampoco llevas contigo un equipamiento para mejorar."
     },
-    "\u000eh5": {
+    "Cmg1": {
+        "en": "[Jalapeno]\nI'm preparing for the\nfirst step of upgrade.\nOnce equipment is upgraded\nyou cannot change the upgrade\nunless you destroy it first.",
+        "pt": "[Jalapeno]\nEstou me preparando para a\nprimeira etapa de refinamento.\nDepois que o equipamento é refinado,\nnão é possível alterar o refinamento,\na menos que você o destrua primeiro.",
+        "es": "[Jalapeno]\nMe estoy preparando para\nel primer paso de la mejora.\nUna vez que mejores el equipamiento,\nno podrás cambiar la mejora,\na menos que destruyas el equipamiento primero."
+    },
+    "C2g1": {
+        "en": "[Jalapeno]\nFirst upgrade step requires ^9900991 Sapha Certification^000000. Do you want to proceed?",
+        "pt": "[Jalapeno]\nA primeira etapa de refinamento requer ^9900991 Certificação Sapha^000000. Deseja prosseguir?",
+        "es": "[Jalapeno]\nEl primer paso de la mejora requiere ^9900991 Certificación sapha^000000. ¿Quieres continuar?"
+    },
+    "DGg1": {
+        "en": "[Jalapeno]\nBut you don't have enough Sapha Certifications. You need 1 Sapha Certification for the first step of upgrade.",
+        "pt": "[Jalapeno]\nMas você não tem Certificações Sapha suficientes. Você precisa de 1 Certificação Sapha para a primeira etapa de refinamento.",
+        "es": "[Jalapeno]\nPero no tienes suficientes Certificaciones sapha. Necesitas 1 Certificación sapha para el primer paso de la mejora."
+    },
+    "DWg1": {
+        "en": "[Jalapeno]\nThen let's start.",
+        "pt": "[Jalapeno]\nEntão vamos começar.",
+        "es": "[Jalapeno]\nComencemos."
+    },
+    "Dmg1": {
         "en": "[Jalapeno]\nI'm preparing for the\nsecond step of upgrade.\nOnce equipment is upgraded\nyou cannot change the upgrade\nunless you destroy it first.",
         "pt": "[Jalapeno]\nEstou me preparando para a\nsegunda etapa do refinamento.\nDepois que o equipamento é refinado,\nnão é possível alterar o refinamento,\na menos que você o destrua primeiro.",
         "es": "[Jalapeno]\nMe estoy preparando para\nel segundo paso de la mejora.\nUna vez que mejores el equipamiento,\nno podrás cambiar la mejora,\na menos que destruyas el equipamiento primero."
     },
-    "\u000fh5": {
+    "D2g1": {
         "en": "[Jalapeno]\nSecond upgrade step requires ^9900992 Sapha Certifications^000000. Do you want to proceed?",
         "pt": "[Jalapeno]\nA segunda etapa do refinamento requer ^9900992 Certificações Sapha^000000. Deseja prosseguir?",
         "es": "[Jalapeno]\nEl segundo paso de la mejora requiere ^9900992 Certificaciones sapha^000000. ¿Quieres continuar?"
     },
-    "\u0010h5": {
+    "EGg1": {
         "en": "[Jalapeno]\nBut you don't have enough Sapha Certifications. You need 2 Sapha Certifications for the second step of upgrade.",
         "pt": "[Jalapeno]\nMas você não tem Certificações Sapha suficientes. Você precisa de 2 Certificações Sapha para a segunda etapa do refinamento.",
         "es": "[Jalapeno]\nPero no tienes suficientes Certificaciones sapha. Necesitas 2 Certificaciones sapha para el segundo paso de la mejora."
     },
-    "\u0011h5": {
+    "EWg1": {
         "en": "[Jalapeno]\nI'm preparing for the\nthird step of upgrade.\nOnce equipment is upgraded\nyou cannot change the upgrade\nunless you destroy it first.",
         "pt": "[Jalapeno]\nEstou me preparando para a\nterceira etapa de refinamento.\nDepois que o equipamento é refinado,\nnão é possível alterar o refinamento,\na menos que você o destrua primeiro.",
         "es": "[Jalapeno]\nMe estoy preparando para\nel tercer paso de la mejora.\nUna vez que mejores el equipamiento,\nno podrás cambiar la mejora,\na menos que destruyas el equipamiento primero."
     },
-    "\u0012h5": {
+    "Emg1": {
         "en": "[Jalapeno]\nAnd this is the most important,\nthe risk of equipment to break\nduring the third upgrade step is high!\nAnd you need ^9900993 Sapha Certifications^000000 for the procedure.",
         "pt": "[Jalapeno]\nE essa é a parte mais importante.\nO risco de quebra do equipamento\ndurante a terceira etapa de refinamento é alto!\nE você precisa de ^9900993 Certificações Sapha^000000 para o procedimento.",
         "es": "[Jalapeno]\nY esto es lo más importante:\n¡el riesgo de que se rompa el equipamiento\ndurante el tercer paso de la mejora es muy alto!\nY necesitas ^9900993 Certificaciones sapha^000000 para continuar."
     },
-    "\u0013h5": {
+    "E2g1": {
         "en": "[Jalapeno]\nPlease keep in mind that\nthis is a delicate process of\ncasting immense power to the equipment.\nAre you ready?",
         "pt": "[Jalapeno]\nTenha em mente que\nesse é um processo delicado de\nde lançar imensa energia no equipamento.\nTudo pronto?",
         "es": "[Jalapeno]\nTen en cuenta que\neste proceso es muy delicado\nporque se lanza gran poder al equipamiento.\n¿Tienes todo listo?"
     },
-    "\u0014h5": {
+    "FGg1": {
         "en": "[Jalapeno]\nBut you don't have enough Sapha Certifications. You need 3 Sapha Certification for the third step of upgrade.",
         "pt": "[Jalapeno]\nMas você não tem Certificações Sapha suficientes. Você precisa de 3 Certificações Sapha para a terceira etapa de refinamento.",
         "es": "[Jalapeno]\nPero no tienes suficientes Certificaciones sapha. Necesitas 3 Certificaciones sapha para el tercer paso de la mejora."
     },
-    "\u0015h5": {
+    "FWg1": {
         "en": "[Jalapeno]\nYou are done with the\nthird step of upgrade.",
         "pt": "[Jalapeno]\nVocê concluiu a\nterceira etapa de refinamento.",
         "es": "[Jalapeno]\nTerminaste\nel tercer paso de la mejora."
     },
-    "\u0016h5": {
+    "Fmg1": {
         "en": "[Jalapeno]\nIf you do not like\nyour equipment upgrade\nI can withdraw your equipment\nand destroy all records\nof it",
         "pt": "[Jalapeno]\nSe você não gostar do refinamento,\nposso retirar seu equipamento\ne destruir todos os registros dele.",
         "es": "[Jalapeno]\nSi no te gusta\nla mejora del equipamiento,\npuedo quedarme con el equipamiento\ny borrar todos los registros\nde él."
     },
-    "\u0017h5": {
+    "F2g1": {
         "en": "I'll just use it.",
         "pt": "Vou usá-lo.",
         "es": "Lo usaré."
     },
-    "\u0018h5": {
+    "GGg1": {
         "en": "Please take it.",
         "pt": "Por favor, leve-o.",
         "es": "Tómalo."
     },
-    "\u0019h5": {
+    "GWg1": {
         "en": "[Jalapeno]\nwhenever you change your mind.\nPlease come back again",
         "pt": "[Jalapeno]\nSempre que você mudar de ideia, é só voltar.",
         "es": "[Jalapeno]\nSi cambias de opinión,\nregresa cuando quieras."
     },
-    "\u001ah5": {
+    "Gmg1": {
         "en": "[Jalapeno]\nI have erased all previous records\nof upgrades to start all over with\nany new equipment without upgrades\nyou bring.",
         "pt": "[Jalapeno]\nApaguei todos os registros anteriores\nde refinamento para começar tudo de novo com\nqualquer equipamento novo e sem refinamentos\nque você trouxer.",
         "es": "[Jalapeno]\nBorré todos los registros anteriores\nde las mejoras para comenzar\ncon cualquier equipamiento nuevo sin mejoras\nque traigas."
     },
-    "\u001bh5": {
+    "G2g1": {
         "en": "[Jalapeno]\nHm?\nDo you want anything from me?",
         "pt": "[Jalapeno]\nHm?\nQuer alguma coisa de mim?",
         "es": "[Jalapeno]\n¿Eh?\n¿Necesitas algo?"
     },
-    "!h5": {
+    "HGg1": {
+        "en": "[Jalapeno]\nHa ha ha. See, I told you. Oops, sorry. Forget that I just said that!!",
+        "pt": "[Jalapeno]\nHahaha. Viu, eu te disse. Opa, desculpe. Esqueça que acabei de dizer isso!",
+        "es": "[Jalapeno]\nJa, ja, ja. ¿Ves? Te lo advertí. Uy, lo siento. ¡Olvida lo que acabo de decir!"
+    },
+    "HWg1": {
+        "en": "[Jalapeno]\nI'm done. Hehe",
+        "pt": "[Jalapeno]\nJá terminei.Hehe.",
+        "es": "[Jalapeno]\nTerminé. Je, je."
+    },
+    "Hmg1": {
+        "en": "Mancho",
+        "pt": "Mancho",
+        "es": "Brare"
+    },
+    "H2g1": {
+        "en": "You have too many kinds of items. Let's try again after you reduce the number of items.",
+        "pt": "Você tem muitos tipos de itens. Vamos tentar novamente depois que você reduzir o número deles.",
+        "es": "Tienes demasiados tipos de objetos. Inténtalo de nuevo después de reducir la cantidad de objetos."
+    },
+    "IGg1": {
+        "en": "Cannot proceed because the weight of your items is too heavy. Let's try again after you get rid of some weight.",
+        "pt": "Não é possível prosseguir porque o peso de seus itens é muito grande. Vamos tentar novamente depois que você se livrar de algum peso.",
+        "es": "No puedes continuar porque tus objetos son demasiado pesados. Inténtalo de nuevo después de perder algo de peso."
+    },
+    "IWg1": {
         "en": "[Mancho]\nIt is difficult to find fish here. Can't find any so Jahbong would forget that he's busy or angry at the sight of a Fish Tail.",
         "pt": "[Mancho]\nÉ difícil encontrar peixe aqui. Não acho nenhum para que Jahbong esqueça que está ocupado ou zangado porque viu uma Cauda de Peixe.",
         "es": "[Mancho]\nEs difícil encontrar peces aquí. No puedo encontrar ninguno para que Jahbong se olvide de que está ocupado o enojado al ver una Cola de pescado."
     },
-    "\"h5": {
+    "Img1": {
         "en": "[Mancho]\nGrrr... I was punished with a ladle for peeing on my blanket yesterday.",
         "pt": "[Mancho]\nGrrr... Fui castigado com uma concha por fazer xixi no meu cobertor ontem.",
         "es": "[Mancho]\nGrrr… Ayer me castigaron con un cucharón por orinarme en mi cobija."
     },
-    "#h5": {
+    "I2g1": {
         "en": "[Mancho]\nI sometimes dream of a giant patting me on the head. But I feel more annoyed than afraid.",
         "pt": "[Mancho]\nÀs vezes, sonho com um gigante dando tapinhas em minha cabeça. Mas me sinto mais irritado do que com medo.",
         "es": "[Mancho]\nA veces, sueño con un gigante que me acaricia la cabeza. Pero me siento más molesto que asustado."
     },
-    "$h5": {
+    "JGg1": {
         "en": "[Mancho]\nNewbie Jarute, Ahat doesn't seem to look like a Sapha.",
         "pt": "[Mancho]\nAprendiz Jaruth, Ahat não parece ser Sapha.",
         "es": "[Mancho]\nPrincipiante Jarute, Ahat no tiene la apariencia de un sapha."
     },
-    "%h5": {
+    "JWg1": {
         "en": "[Mancho]\nOur people say Ahat looks like a beautiful cat.",
         "pt": "[Mancho]\nNosso povo diz que Ahat parece um lindo gato.",
         "es": "[Mancho]\nNosotros creemos que Ahat parece un hermoso gato."
     },
-    "&h5": {
+    "Jmg1": {
         "en": "[Mancho]\nI heard there was a superior equipment upgrade craftsman in the capital city of Manuk.",
         "pt": "[Mancho]\nOuvi dizer que havia um artesão de refinamento de equipamento superior na capital Manuk.",
         "es": "[Mancho]\nOí que hay un artesano que realiza mejoras de equipamiento superior en la capital de Manuk."
     },
-    "'h5": {
+    "J2g1": {
         "en": "[Mancho]\nGrrr... I don't think my voice sounds normal these days. I think it's the weather.",
         "pt": "[Mancho]\nGrrr... Acho que minha voz não está mais normal hoje em dia. Acho que é por causa do clima.",
         "es": "[Mancho]\nGrrr… Últimamente creo que mi voz no suena normal. Creo que es culpa del tiempo."
     },
-    "(h5": {
+    "KGg1": {
         "en": "[Mancho]\nThere are times when I shout out loud but it is only because I am in a good mood. No need to be startled.",
         "pt": "[Mancho]\nHá momentos em que eu grito bem alto, mas é só porque estou de bom humor. Não precisa se assustar.",
         "es": "[Mancho]\nHay veces que grito muy fuerte, pero es solo porque estoy de muy buen humor. Así que no te asustes."
     },
-    ")h5": {
+    "KWg1": {
         "en": "[Mancho]\nI feel an urge to jump on a pile with my four paws when I see one.",
         "pt": "[Mancho]\nSinto vontade de pular em uma pilha com minhas quatro patas quando vejo uma.",
         "es": "[Mancho]\nSiento ganas de saltar sobre una pila con mis cuatro patas cuando veo una."
     },
-    "*h5": {
+    "Kmg1": {
         "en": "[Mancho]\nI must have been a cat in my previous life.",
         "pt": "[Mancho]\nEu devo ter sido um gato em minha vida anterior.",
         "es": "[Mancho]\nDebo haber sido un gato en mi vida pasada."
     },
-    "+h5": {
+    "K2g1": {
         "en": "[Mancho]\nI dreamt about the giant again. I waved my paws annoyed and he kept on patting me.",
         "pt": "[Mancho]\nSonhei de novo com o gigante. Eu agitava minhas patas, irritado, e ele continuava a me dar tapinhas na cabeça.",
         "es": "[Mancho]\nVolví a soñar con el gigante. Agité mis patas molesto, pero siguió acariciándome."
     },
-    ",h5": {
+    "LGg1": {
         "en": "[Mancho]\nYup!! Was the rumor true that Ahat looks like a human?!",
         "pt": "[Mancho]\nYup! Era verdade o boato de que Ahat se parece com um humano?",
         "es": "[Mancho]\n¡Yep! ¡¿Es verdad el rumor que dice que Ahat tiene apariencia humana?!"
     },
-    "-h5": {
+    "LWg1": {
         "en": "[Mancho]\nI heard on my way that this Pinguicula Dark has a Withered Flower.",
         "pt": "[Mancho]\nOuvi no meu caminho que esse Pinguicula Escura tem uma flor murcha.",
         "es": "[Mancho]\nEn el camino, oí que la Pinguicula oscura tiene una Flor marchita."
     },
-    ".h5": {
+    "Lmg1": {
         "en": "[Mancho]\nThere is a guy named Pinguicula nearby who has the Sharp Leaf nearby.",
         "pt": "[Mancho]\nHá um cara chamado Pinguicula por perto que tem a Folha Afiada.",
         "es": "[Mancho]\nPor aquí cerca, hay un tipo llamado Pinguicula que tiene la Hoja afilada."
     },
-    "/h5": {
+    "L2g1": {
         "en": "[Mancho]\nThere is a guy named Pinguicula nearby who has the Great Leaf nearby.",
         "pt": "[Mancho]\nHá um cara chamado Pinguicula por perto que tem a Grande Folha.",
         "es": "[Mancho]\nPor aquí cerca, hay un tipo llamado Pinguicula que tiene la Hoja enorme."
     },
-    "0h5": {
+    "MGg1": {
         "en": "[Mancho]\nI recommend getting it from the Dracos nearby. But then, they only drop it randomly so you may come back empty handed...",
         "pt": "[Mancho]\nRecomendo obtê-lo nos Dracos próximos. Mas, como eles só o deixam cair aleatoriamente, você pode voltar de mãos vazias...",
         "es": "[Mancho]\nTe recomiendo que derrotes a los Draco que están por aquí. Pero la verdad es que las recompensas son aleatorias, así que podrías volver con las manos vacías…"
     },
-    "1h5": {
+    "MWg1": {
         "en": "[Mancho]\nHmm... This may not be important to you but.",
         "pt": "[Mancho]\nHmm... Isso pode não ser importante para você, mas...",
         "es": "[Mancho]\nMmm… Quizá esto no sea importante para ti, pero…"
     },
-    "2h5": {
+    "Mmg1": {
         "en": "[Mancho]\nIf you work hard in this city, you can get Sapha Certifications from certain people.",
         "pt": "[Mancho]\nSe você trabalhar duro nesta cidade, poderá obter Certificações Sapha de certas pessoas.",
         "es": "[Mancho]\nSi trabajas mucho en esta ciudad, puedes obtener Certificaciones sapha de ciertas personas."
     },
-    "3h5": {
+    "M2g1": {
         "en": "[Mancho]\nIf you do come across one of the certifications, can you bring it to me?",
         "pt": "[Mancho]\nSe você encontrar uma das certificações, pode trazê-la para mim?",
         "es": "[Mancho]\nSi encuentras una de las certificaciones, ¿podrías traérmela?"
     },
-    "4h5": {
+    "NGg1": {
         "en": "[Mancho]\nWe can make an exchange and you won't regret it.",
         "pt": "[Mancho]\nPodemos fazer uma troca e você não se arrependerá.",
         "es": "[Mancho]\nPodemos hacer un canje y no te arrepentirás."
     },
-    "5h5": {
+    "NWg1": {
         "en": "[Mancho]\nYou must be interested in the Feral Tail?",
         "pt": "[Mancho]\nA Cauda Feral interessou você?",
         "es": "[Mancho]\n¿Te interesa la Cola salvaje?"
     },
-    "6h5": {
+    "Nmg1": {
         "en": "I want to upgrade it.",
         "pt": "Quero refinar ela.",
         "es": "Quiero mejorarla."
     },
-    "7h5": {
+    "N2g1": {
         "en": "[Mancho]\nYou say you want me to explain about upgrade?",
         "pt": "[Mancho]\nVocê diz que quer que eu explique sobre o refinamento?",
         "es": "[Mancho]\n¿Quieres que te explique las mejoras?"
     },
-    "8h5": {
+    "OGg1": {
         "en": "[Mancho]\nHmm. The ^990099Feral Tail^000000 is an unique item. It looks just like our tails.",
         "pt": "[Mancho]\nHmm. A ^990099Cauda Feral^000000 é um item único. E se parece com as nossas caudas.",
         "es": "[Mancho]\nMmm. La ^990099Cola salvaje^000000 es un objeto único. Luce igual que nuestras colas."
     },
-    "9h5": {
+    "OWg1": {
         "en": "[Mancho]\nIt is not only strong and warm but is also powerful enough to be enchanted with magical spells in 3 special slots.",
         "pt": "[Mancho]\nEle não é apenas forte e quente, mas também poderoso o suficiente para ser encantado com feitiços mágicos em 3 espaços especiais.",
         "es": "[Mancho]\nNo solo es resistente y cálida, sino también lo suficientemente poderosa para ser encantada con hechizos mágicos en 3 ranuras especiales."
     },
-    ":h5": {
+    "Omg1": {
         "en": "[Mancho]\nThe random enchantment added on the first secret slot is to increase Atk +2% or +3%, Cri +5 or +7, Matk+1% or +2%, or Flee +6 or +12.\nThe random enchantment added on the second secret slot is to increase Agi, Dex, or Int up to +2.",
         "pt": "[Mancho]\nO encantamento aleatório adicionado no primeiro espaço secreto aumenta o ATQ +2% ou +3%, CRI +5 ou +7, ATQM+1% ou +2% ou Esquiva +6 ou +12.\nO encantamento aleatório adicionado ao segundo espaço secreto aumenta a AGI, DES ou INT em até +2.",
         "es": "[Mancho]\nEl encantamiento aleatorio agregado a la primera ranura secreta es para aumentar el ATQ un +2 % o +3 %, el CRÍT en +5 o +7, el ATQM un +1 % o +2 %, o la EVA en +6 o +12.\nEl encantamiento aleatorio agregado a la segunda ranura secreta es para aumentar la AGI, DES o INT hasta +2."
     },
-    ";h5": {
+    "O2g1": {
         "en": "[Mancho]\nAnd the final random enchantment added is to increase Agi, Dex, or Int up to +3.",
         "pt": "[Mancho]\nE o último encantamento aleatório adicionado é para aumentar AGI, DES ou INT em até +3.",
         "es": "[Mancho]\nY el último encantamiento aleatorio agregado es para aumentar la AGI, DES o INT hasta +3."
     },
-    "<h5": {
+    "PGg1": {
         "en": "[Mancho]\nWell... it comes with the same risks as the ^990099Feral Boots^000000 of breaking at the third step of upgrade.",
         "pt": "[Mancho]\nBem... ele tem os mesmos riscos que as ^990099Botas Feral^000000 de quebrar na terceira etapa de refinamento.",
         "es": "[Mancho]\nBueno… también existe el riesgo de que se pueda romper durante el tercer paso de la mejora como las ^990099Botas salvajes^000000."
     },
-    "=h5": {
+    "PWg1": {
         "en": "[Mancho]\nDo you want to reset?\nThis involves ^990000destroying the Feral Tail^000000 and cancelling all records of it.\nBasically you'll have to get another Feral Tail. So are you sure?",
         "pt": "[Mancho]\nVocê quer reiniciar?\nIsso envolve ^990000destruir a Cauda Feral^000000 e cancelar todos os registros dela.\nBasicamente, você terá de obter outra Cauda Feral. Então, tem certeza?",
         "es": "[Mancho]\n¿Quieres restablecer el equipamiento?\nEsto significa que ^990000destruirás la Cola salvaje^000000 y eliminarás todos sus registros.\nBásicamente, tendrás que conseguir otra Cola salvaje. ¿Quieres continuar?"
     },
-    ">h5": {
+    "Pmg1": {
         "en": "[Mancho]\nwhen you are ready,\nPlease come back again",
         "pt": "[Mancho]\nQuando estiver tudo certo,\nvolte novamente.",
         "es": "[Mancho]\nCuando tengas todo listo,\nregresa cuando quieras."
     },
-    "?h5": {
+    "P2g1": {
         "en": "[Mancho]\nThen, take the equipment off first.",
         "pt": "[Mancho]\nEntão, tire o equipamento primeiro.",
         "es": "[Mancho]\nEntonces, primero, quítate el equipamiento."
     },
-    "@h5": {
+    "QGg1": {
         "en": "[Mancho]\nI only do what I'm asked to do. I've retrieved all equipment and cancelled all records.",
         "pt": "[Mancho]\nSó faço o que me pedem para fazer. Recuperei todos os equipamentos e cancelei todos os registros.",
         "es": "[Mancho]\nSolo hago lo que me piden. Recolecté el equipamiento y eliminé todos los registros."
     },
-    "Ah5": {
+    "QWg1": {
         "en": "[Mancho]\nBut...\nyou don't seem to be wearing or even carrying equipment to upgrade on you.",
         "pt": "[Mancho]\nMas...\nVocê não parece estar usando ou mesmo carregando equipamentos para fazer refinamento consigo.",
         "es": "[Mancho]\nPero…\nno pareces tener equipamiento ni tampoco llevas contigo un equipamiento para mejorar."
     },
-    "Bh5": {
+    "Qmg1": {
         "en": "[Mancho]\nI'm preparing for the\nfirst step of upgrade.\nOnce equipment is upgraded\nyou cannot change the upgrade\nunless you destroy it first.",
         "pt": "[Mancho]\nEstou me preparando para a\nprimeira etapa de refinamento.\nDepois que o equipamento é refinado,\nnão é possível alterar o refinamento,\na menos que você o destrua primeiro.",
         "es": "[Mancho]\nMe estoy preparando para\nel primer paso de la mejora.\nUna vez que mejores el equipamiento,\nno podrás cambiar la mejora,\na menos que destruyas el equipamiento primero."
     },
-    "Ch5": {
+    "Q2g1": {
         "en": "[Mancho]\nFirst upgrade step requires ^9900991 Sapha Certification^000000. Do you want to proceed?",
         "pt": "[Mancho]\nA primeira etapa de refinamento requer ^9900991 Certificação Sapha^000000. Deseja prosseguir?",
         "es": "[Mancho]\nEl primer paso de la mejora requiere ^9900991 Certificación sapha^000000. ¿Quieres continuar?"
     },
-    "Dh5": {
+    "RGg1": {
         "en": "[Mancho]\nBut you don't have enough Sapha Certifications. You need 1 Sapha Certification for the first step of upgrade.",
         "pt": "[Mancho]\nMas você não tem Certificações Sapha suficientes. Você precisa de 1 Certificação Sapha para a primeira etapa de refinamento.",
         "es": "[Mancho]\nPero no tienes suficientes Certificaciones sapha. Necesitas 1 Certificación sapha para el primer paso de la mejora."
     },
-    "Eh5": {
+    "RWg1": {
         "en": "[Mancho]\nThen let's start.",
         "pt": "[Mancho]\nEntão vamos começar.",
         "es": "[Mancho]\nComencemos."
     },
-    "Fh5": {
+    "Rmg1": {
         "en": "[Mancho]\nI'm preparing for the\nsecond step of upgrade.\nOnce equipment is upgraded\nyou cannot change the upgrade\nunless you destroy it first.",
         "pt": "[Mancho]\nEstou me preparando para a\nprimeira etapa de refinamento.\nDepois que o equipamento é refinado,\nnão é possível alterar o refinamento,\na menos que você o destrua primeiro.",
         "es": "[Mancho]\nMe estoy preparando para\nel segundo paso de la mejora.\nUna vez que mejores el equipamiento,\nno podrás cambiar la mejora,\na menos que destruyas el equipamiento primero."
     },
-    "Gh5": {
+    "R2g1": {
         "en": "[Mancho]\nSecond upgrade step requires ^9900992 Sapha Certifications^000000. Do you want to proceed?",
         "pt": "[Mancho]\nA segunda etapa do refinamento requer ^9900992 Certificações Sapha^000000. Deseja prosseguir?",
         "es": "[Mancho]\nEl segundo paso de la mejora requiere ^9900992 Certificaciones sapha^000000. ¿Quieres continuar?"
     },
-    "Hh5": {
+    "SGg1": {
         "en": "[Mancho]\nBut you don't have enough Sapha Certifications. You need 2 Sapha Certifications for the second step of upgrade.",
         "pt": "[Mancho]\nMas você não tem Certificações Sapha suficientes. Você precisa de 2 Certificações Sapha para a segunda etapa do refinamento.",
         "es": "[Mancho]\nPero no tienes suficientes Certificaciones sapha. Necesitas 2 Certificaciones sapha para el segundo paso de la mejora."
     },
-    "Ih5": {
+    "SWg1": {
         "en": "[Mancho]\nI'm preparing for the\nlast step of upgrade.\nOnce equipment is upgraded\nyou cannot change the upgrade\nunless you destroy it first.",
         "pt": "[Mancho]\nEstou me preparando para a\nprimeira etapa de refinamento.\nDepois que o equipamento é refinado,\nnão é possível alterar o refinamento,\na menos que você o destrua primeiro.",
         "es": "[Mancho]\nMe estoy preparando para\nel último paso de la mejora.\nUna vez que mejores el equipamiento,\nno podrás cambiar la mejora,\na menos que destruyas el equipamiento primero."
     },
-    "Jh5": {
+    "Smg1": {
         "en": "[Mancho]\nAnd this is the most important,\nthe risk of equipment to break\nduring the third upgrade step is high!\nAnd you need ^9900993 Sapha Certifications^000000 for the procedure.",
         "pt": "[Mancho]\nE essa é a parte mais importante.\nO risco de quebra do equipamento\ndurante a terceira etapa de refinamento é alto!\nE você precisa de ^9900993 Certificações Sapha^000000 para o procedimento.",
         "es": "[Mancho]\nY esto es lo más importante:\n¡el riesgo de que se rompa el equipamiento\ndurante el tercer paso de la mejora es muy alto!\nY necesitas ^9900993 Certificaciones sapha^000000 para continuar."
     },
-    "Kh5": {
+    "S2g1": {
         "en": "[Mancho]\nPlease keep in mind that\nthis is a delicate process of\ncasting immense power to the equipment.\nAre you ready?",
         "pt": "[Mancho]\nTenha em mente que\nesse é um processo delicado de\nde lançar imensa energia no equipamento.\nTudo pronto?",
         "es": "[Mancho]\nTen en cuenta que\neste proceso es muy delicado\nporque se lanza gran poder al equipamiento.\n¿Tienes todo listo?"
     },
-    "Lh5": {
+    "TGg1": {
         "en": "[Mancho]\nBut you don't have enough Sapha Certifications. You need 3 Sapha Certification for the third step of upgrade.",
         "pt": "[Mancho]\nMas você não tem Certificações Sapha suficientes. Você precisa de 3 Certificações Sapha para a terceira etapa de refinamento.",
         "es": "[Mancho]\nPero no tienes suficientes Certificaciones sapha. Necesitas 3 Certificaciones sapha para el tercer paso de la mejora."
     },
-    "Mh5": {
+    "TWg1": {
         "en": "[Mancho]\nYou are done with the\nthird step of upgrade.",
         "pt": "[Mancho]\nVocê terminou a terceira\netapa do refinamento.",
         "es": "[Mancho]\nTerminaste\nel tercer paso de la mejora."
     },
-    "Nh5": {
+    "Tmg1": {
         "en": "[Mancho]\nIf you do not like\nyour equipment upgrade\nI can reset your equipment\nand destroy all records of it.",
         "pt": "[Mancho]\nSe você não gostar do refinamento,\nposso retirar seu equipamento\ne destruir todos os registros dele.",
         "es": "[Mancho]\nSi no te gusta\nla mejora del equipamiento,\nPuedo restablecer el equipamiento\ny borrar todos los registros."
     },
-    "Oh5": {
+    "T2g1": {
         "en": "[Mancho]\nRemember, you will lose the Feral Tail and you will have to bring me another one to enchant.",
         "pt": "[Mancho]\nLembre-se, você perderá a Cauda Feral e terá que me trazer outra para encantar.",
         "es": "[Mancho]\nRecuerda que perderás la Cola salvaje y tendrás que traerme otra para encantarla."
     },
-    "Ph5": {
+    "UGg1": {
         "en": "I'll just keep this one.",
         "pt": "Vou manter este.",
         "es": "Me quedaré con este equipamiento."
     },
-    "Qh5": {
+    "UWg1": {
         "en": "Please take it away.",
         "pt": "Por favor, leve-a.",
         "es": "Llévatelo."
     },
-    "Rh5": {
+    "Umg1": {
         "en": "[Mancho]\nIf you ever change your mind.\nPlease come back again.",
         "pt": "[Mancho]\nSe você mudar de ideia, é só voltar.",
         "es": "[Mancho]\nSi llegas a cambiar de opinión,\nregresa cuando quieras."
     },
-    "Sh5": {
+    "U2g1": {
         "en": "[Mancho]\nI have erased all previous records\nof slot enchants to start all over with\nany new equipment without upgrades\nyou bring.",
         "pt": "[Mancho]\nApaguei todos os registros anteriores\nde refinamento para começar tudo de novo com\nqualquer equipamento novo e sem refinamentos\nque você trouxer.",
         "es": "[Mancho]\nBorré todos los registros anteriores\nde las ranuras de encantos para comenzar\ncon cualquier equipamiento nuevo sin mejoras\nque traigas."
     },
-    "Th5": {
+    "VGg1": {
         "en": "[Mancho]\nHm?\nDo you want anything from me?",
         "pt": "[Mancho]\nHm?\nQuer alguma coisa de mim?",
         "es": "[Mancho]\n¿Eh?\n¿Necesitas algo?"
     },
-    "Uh5": {
+    "VWg1": {
         "en": "[Mancho]\nGreed is the reason for failing investments. Tsk, tsk.",
         "pt": "[Mancho]\nA ganância é a razão do fracasso dos investimentos. Tsk, tsk.",
         "es": "[Mancho]\nLa razón principal por la que fracasan los negocios es la codicia. *Tsc, tsc*"
     },
-    "Vh5": {
+    "Vmg1": {
         "en": "[Mancho]\nI'm done. Hehe",
         "pt": "[Mancho]\nJá terminei. Hehe.",
         "es": "[Mancho]\nTerminé. Je, je."
     },
-    "Wh5": {
+    "V2g1": {
         "en": "Brare",
         "pt": "Brare",
         "es": "Kareka"
     },
-    "Xh5": {
+    "WGg1": {
         "en": "[Brare]\nIt is difficult to find fish here. Can't find any so Jahbong would forget that he's busy or angry at the sight of a Fish Tail.",
         "pt": "[Brare]\nÉ difícil encontrar peixe aqui. Não acho nenhum para que Jahbong esqueça que está ocupado ou zangado porque viu uma Cauda de Peixe.",
         "es": "[Brare]\nEs difícil encontrar peces aquí. No puedo encontrar ninguno para que Jahbong se olvide de que está ocupado o enojado al ver una Cola de pescado."
     },
-    "Yh5": {
+    "WWg1": {
         "en": "[Brare]\nGrrr... I was punished with a ladle for peeing on my blanket yesterday.",
         "pt": "[Brare]\nGrrr... Fui castigado com uma concha por fazer xixi no meu cobertor ontem.",
         "es": "[Brare]\nGrrr… Ayer me castigaron con un cucharón por orinarme en mi cobija."
     },
-    "Zh5": {
+    "Wmg1": {
         "en": "[Brare]\nI sometimes dream of a giant patting me on the head. But I feel more annoyed than afraid.",
         "pt": "[Brare]\nÀs vezes sonho com um gigante dando tapinhas em minha cabeça. Mas me sinto mais irritado do que com medo.",
         "es": "[Brare]\nA veces, sueño con un gigante que me acaricia la cabeza. Pero me siento más molesto que asustado."
     },
-    "[h5": {
+    "W2g1": {
         "en": "[Brare]\nNewbie Jarute, Ahat doesn't seem to look like a Sapha.",
         "pt": "[Brare]\nAprendiz Jaruth, Ahat não parece ser Sapha.",
         "es": "[Brare]\nPrincipiante Jarute, Ahat no tiene la apariencia de un sapha."
     },
-    "\\h5": {
+    "XGg1": {
         "en": "[Brare]\nOur people say Ahat looks like a beautiful cat.",
         "pt": "[Brare]\nNosso povo diz que Ahat parece um lindo gato.",
         "es": "[Brare]\nNosotros creemos que Ahat parece un hermoso gato."
     },
-    "]h5": {
+    "XWg1": {
         "en": "[Brare]\nI heard there was a superior equipment upgrade craftsman in the capital city of Manuk.",
         "pt": "[Brare]\nOuvi dizer que havia um artesão de refinamento de equipamento superior na capital de Manuk.",
         "es": "[Brare]\nOí que hay un artesano que realiza mejoras de equipamiento superior en la capital de Manuk."
     },
-    "^h5": {
+    "Xmg1": {
         "en": "[Brare]\nGrrr... I don't think my voice sounds normal these days. I think it's the weather.",
         "pt": "[Brare]\nGrrr... Acho que minha voz não está mais normal hoje em dia. Acho que é por causa do clima.",
         "es": "[Brare]\nGrrr… Últimamente creo que mi voz no suena normal. Creo que es culpa del tiempo."
     },
-    "_h5": {
+    "X2g1": {
         "en": "[Brare]\nThere are times when I shout out loud but it is only because I am in a good mood. No need to be startled.",
         "pt": "[Brare]\nHá momentos em que eu grito alto, mas é só porque estou de bom humor. Não precisa se assustar.",
         "es": "[Brare]\nHay veces que grito muy fuerte, pero es solo porque estoy de muy buen humor. Así que no te asustes."
     },
-    "`h5": {
+    "YGg1": {
         "en": "[Brare]\nI feel an urge to jump on a pile with my four paws when I see one.",
         "pt": "[Brare]\nSinto vontade de pular em uma pilha com minhas quatro patas quando vejo uma.",
         "es": "[Brare]\nSiento ganas de saltar sobre una pila con mis cuatro patas cuando veo una."
     },
-    "ah5": {
+    "YWg1": {
         "en": "[Brare]\nI must have been a cat in my previous life.",
         "pt": "[Brare]\nEu devo ter sido um gato em minha vida anterior.",
         "es": "[Brare]\nDebo haber sido un gato en mi vida pasada."
     },
-    "bh5": {
+    "Ymg1": {
         "en": "[Brare]\nI dreamt about the giant again. I waved my paws annoyed and he kept on patting me.",
         "pt": "[Brare]\nSonhei novamente com o gigante. Eu agitava minhas patas, irritado, e ele continuava a me dar tapinhas na cabeça.",
         "es": "[Brare]\nVolví a soñar con el gigante. Agité mis patas molesto, pero siguió acariciándome."
     },
-    "ch5": {
+    "Y2g1": {
         "en": "[Brare]\nYup!! Was the rumor true that Ahat looks like a human?!",
         "pt": "[Brare]\nYup! Era verdade o boato de que Ahat se parece com um humano?",
         "es": "[Brare]\n¡Yep! ¡¿Es verdad el rumor que dice que Ahat tiene apariencia humana?!"
     },
-    "dh5": {
+    "ZGg1": {
         "en": "[Brare]\nI heard on my way that this Dark Pinguicula has a Withered Flower.",
         "pt": "[Brare]\nOuvi em meu caminho que esse Pinguicula Escura tem uma flor murcha.",
         "es": "[Brare]\nEn el camino, oí que la Pinguicula oscura tiene una Flor marchita."
     },
-    "eh5": {
+    "ZWg1": {
         "en": "[Brare]\nThere is a guy named Pinguicula nearby who has the Sharp Leaf.",
         "pt": "[Brare]\nHá um cara chamado Pinguicula por perto que tem a Folha Afiada.",
         "es": "[Brare]\nPor aquí cerca, hay un tipo llamado Pinguicula que tiene la Hoja afilada."
     },
-    "fh5": {
+    "Zmg1": {
         "en": "[Brare]\nThere is a guy named Pinguicula nearby who has the Great Leaf.",
         "pt": "[Brare]\nHá um cara chamado Pinguicula por perto que tem a Grande Folha.",
         "es": "[Brare]\nPor aquí cerca, hay un tipo llamado Pinguicula que tiene la Hoja enorme."
     },
-    "gh5": {
+    "Z2g1": {
         "en": "[Brare]\nI recommend getting it from the Dracos nearby. But they only drop it randomly so you may come back empty handed...",
         "pt": "[Brare]\nRecomendo obtê-lo nos Dracos próximos. Mas, como eles só o deixam cair aleatoriamente, você pode voltar de mãos vazias...",
         "es": "[Brare]\nTe recomiendo que derrotes a los Draco que están por aquí. Pero la verdad es que las recompensas son aleatorias, así que podrías volver con las manos vacías…"
     },
-    "hh5": {
+    "aGg1": {
         "en": "[Brare]\nHmm... This may not be important to you but...",
         "pt": "[Brare]\nHmm... Isso pode não ser importante para você, mas...",
         "es": "[Brare]\nMmm… Quizá esto no sea importante para ti, pero…"
     },
-    "ih5": {
+    "aWg1": {
         "en": "[Brare]\nWe had a lot of customers today too.",
         "pt": "[Brare]\nTambém tivemos muitos clientes hoje.",
         "es": "[Brare]\nHoy también tuvimos muchos clientes."
     },
-    "jh5": {
+    "amg1": {
         "en": "[Brare]\nOh... no luck on Sapha Certifications?",
         "pt": "[Brare]\nAh... não teve sorte com as Certificações Sapha?",
         "es": "[Brare]\nOh…, ¿no tuviste suerte con las Certificaciones sapha?"
     },
-    "kh5": {
+    "a2g1": {
         "en": "[Brare]\nSo you haven't got any.....",
         "pt": "[Brare]\nEntão você não arranjou nenhuma...",
         "es": "[Brare]\nAsí que no tienes ninguna…"
     },
-    "lh5": {
+    "bGg1": {
         "en": "[Brare]\nThat's sad. They...very are useful, you know.....",
         "pt": "[Brare]\nIsso é triste. Elas... são muito úteis, sabe...",
         "es": "[Brare]\nQué pena. Son… muy útiles, ¿sabes?…"
     },
-    "mh5": {
+    "bWg1": {
         "en": "[Brare]\nDo you want to look luxurious with Golden Bells?",
         "pt": "[Brare]\nVocê quer parecer chique com os Sinos Dourados?",
         "es": "[Brare]\n¿Quieres verte elegante con las Campanas doradas?"
     },
-    "nh5": {
+    "bmg1": {
         "en": "[Brare]\nHmm. The ^990099Golden Bell^000000 is an accessory awarded to only the best and bravest warriors among our people.",
         "pt": "[Brare]\nHmm. O ^990099Sino Dourado^000000 é um acessório concedido apenas aos melhores e mais corajosos guerreiros de nosso povo.",
         "es": "[Brare]\nMmm. La ^990099Campana dorada^000000 es un accesorio que solo los guerreros más valientes de mi pueblo reciben como premio."
     },
-    "oh5": {
+    "b2g1": {
         "en": "[Brare]\nA random stat effect is casted up to the first and second steps... but...",
         "pt": "[Brare]\nUm efeito aleatório de atributos é lançado até o primeiro e segundo passos... mas...",
         "es": "[Brare]\nSe lanza un efecto aleatorio en el primer y segundo paso… pero…"
     },
-    "ph5": {
+    "cGg1": {
         "en": "[Brare]\nthere is a risk of the item breaking during the third upgrade.",
         "pt": "[Brare]\nHá sempre o risco de o item quebrar durante o terceiro refinamento.",
         "es": "[Brare]\nexiste el riesgo de que el objeto se rompa durante la tercera mejora."
     },
-    "qh5": {
+    "cWg1": {
         "en": "[Bare]\nThe random enchantment added on the first secret slot is to increase Atk +2% or +3%, Cri +5 or +7, Matk+1% or +2%, or Flee +6 or +12.\nThe random enchantment added on the second secret slot is to increase Agi, Dex, or Int up to +2.",
         "pt": "[Brare]\nO encantamento aleatório adicionado no primeiro espaço secreto aumenta o ATQ +2% ou +3%, CRI +5 ou +7, ATQM+1% ou +2% ou Esquiva +6 ou +12.\nO encantamento aleatório adicionado ao segundo espaço secreto aumenta a AGI, DES ou INT em até +2.",
         "es": "[Brare]\nEl encantamiento aleatorio agregado a la primera ranura secreta es para aumentar el ATQ un +2 % o +3 %, el CRÍT en +5 o +7, el ATQM un +1 % o +2 %, o la EVA en +6 o +12.\nEl encantamiento aleatorio agregado a la segunda ranura secreta es para aumentar la AGI, DES o INT hasta +2."
     },
-    "rh5": {
+    "cmg1": {
         "en": "[Bare]\nAnd the final random enchantment added is to increase Agi, Dex, or Int up to +2.",
         "pt": "[Bare]\nE o último encantamento aleatório adicionado é para aumentar AGI, DES ou INT em até +2.",
         "es": "[Brare]\nY el último encantamiento aleatorio agregado es para aumentar la AGI, DES o INT hasta +2."
     },
-    "sh5": {
+    "c2g1": {
         "en": "[Brare]\nReset!!\nThis involves ^990000destroying the Golden Bell^000000 and cancelling all records of it.",
         "pt": "[Brare]\nReiniciar!\nIsso envolve ^990000destruir o Sino Dourado^000000 e cancelar todos os registros dele.",
         "es": "[Brare]\n¡Restablecer!\nEsto significa que ^990000destruirás la Campana dorada^000000 y eliminarás todos sus registros."
     },
-    "th5": {
+    "dGg1": {
         "en": "[Brare]\nBasically, if you want to start over I'll take your current one away and then you can bring me another one to try to enchant. So are you sure?",
         "pt": "[Brare]\nBasicamente, se você quiser começar de novo, eu levo o seu atual e depois você pode me trazer outro para tentar encantar. Então, tem certeza?",
         "es": "[Brare]\nBásicamente, si quieres empezar desde cero, me quedaré con tu equipamiento actual. Luego, me puedes traer otro e intentaré encantarlo. ¿Quieres continuar?"
     },
-    "uh5": {
+    "dWg1": {
         "en": "[Brare]\nwhen you are ready,\nPlease come back again",
         "pt": "[Brare]\nQuando estiver tudo certo,\nvolte novamente.",
         "es": "[Brare]\nCuando tengas todo listo,\nregresa cuando quieras."
     },
-    "vh5": {
+    "dmg1": {
         "en": "[Brare]\nThen, take the equipment off first.",
         "pt": "[Brare]\nEntão, tire o equipamento primeiro.",
         "es": "[Brare]\nEntonces, primero, quítate el equipamiento."
     },
-    "wh5": {
+    "d2g1": {
         "en": "[Brare]\nI've collected all equipment and erased all records as you requested. Now all your equipment and records are clean.",
         "pt": "[Brare]\nRecolhi todos os equipamentos e apaguei todos os registros, conforme solicitado. Agora todos os seus equipamentos e registros estão limpos.",
         "es": "[Brare]\nRecolecté el equipamiento y borré todos los registros como me lo solicitaste. Ahora tu equipamiento y todos tus registros están vacíos."
     },
-    "xh5": {
+    "eGg1": {
         "en": "[Brare]\nBut...\nyou don't seem to be wearing or even carrying equipment to upgrade on you.",
         "pt": "[Brare]\nMas...\nVocê não parece estar usando ou mesmo carregando equipamentos para fazer refinamento consigo.",
         "es": "[Brare]\nPero…\nno pareces tener equipamiento ni tampoco llevas contigo un equipamiento para mejorar."
     },
-    "yh5": {
+    "eWg1": {
         "en": "[Brare]\nI'm preparing for the\nfirst step of upgrade.\nOnce equipment is upgraded\nyou cannot change the upgrade\nunless you destroy it first.",
         "pt": "[Brare]\nEstou me preparando para a\nprimeira etapa de refinamento.\nDepois que o equipamento é refinado,\nnão é possível alterar o refinamento,\na menos que você o destrua primeiro.",
         "es": "[Brare]\nMe estoy preparando para\nel primer paso de la mejora.\nUna vez que mejores el equipamiento,\nno podrás cambiar la mejora,\na menos que destruyas el equipamiento primero."
     },
-    "zh5": {
+    "emg1": {
         "en": "[Brare]\nFirst upgrade step requires ^9900991 Sapha Certification^000000. Do you want to proceed?",
         "pt": "[Brare]\nA primeira etapa de refinamento requer ^9900991 Certificação Sapha^000000. Deseja prosseguir?",
         "es": "[Brare]\nEl primer paso de la mejora requiere ^9900991 Certificación sapha^000000. ¿Quieres continuar?"
     },
-    "{h5": {
+    "e2g1": {
         "en": "[Brare]\nBut you don't have enough Sapha Certifications. You need 1 Sapha Certification for the first step of upgrade.",
         "pt": "[Brare]\nMas você não tem Certificações Sapha suficientes. Você precisa de 1 Certificação Sapha para a primeira etapa de refinamento.",
         "es": "[Brare]\nPero no tienes suficientes Certificaciones sapha. Necesitas 1 Certificación sapha para el primer paso de la mejora."
     },
-    "|h5": {
+    "fGg1": {
         "en": "[Brare]\nThen let's start.",
         "pt": "[Brare]\nEntão vamos começar.",
         "es": "[Brare]\nComencemos."
     },
-    "}h5": {
+    "fWg1": {
         "en": "[Brare]\nI'm preparing for the\nsecond step of upgrade.\nOnce equipment is upgraded\nyou cannot change the upgrade\nunless you destroy it first.",
         "pt": "[Brare]\nEstou me preparando para a\nprimeira etapa de refinamento.\nDepois que o equipamento é refinado,\nnão é possível alterar o refinamento,\na menos que você o destrua primeiro.",
         "es": "[Brare]\nMe estoy preparando para\nel segundo paso de la mejora.\nUna vez que mejores el equipamiento,\nno podrás cambiar la mejora,\na menos que destruyas el equipamiento primero."
     },
-    "~h5": {
+    "fmg1": {
         "en": "[Brare]\nSecond upgrade step requires ^9900992 Sapha Certifications^000000. Do you want to proceed?",
         "pt": "[Brare]\nA segunda etapa do refinamento requer ^9900992 Certificações Sapha^000000. Deseja prosseguir?",
         "es": "[Brare]\nEl segundo paso de la mejora requiere ^9900992 Certificaciones sapha^000000. ¿Quieres continuar?"
     },
-    "h5": {
+    "f2g1": {
         "en": "[Brare]\nBut you don't have enough Sapha Certifications. You need 2 Sapha Certifications for the second step of upgrade.",
         "pt": "[Brare]\nMas você não tem Certificações Sapha suficientes. Você precisa de 2 Certificações Sapha para a segunda etapa do refinamento.",
         "es": "[Brare]\nPero no tienes suficientes Certificaciones sapha. Necesitas 2 Certificaciones sapha para el segundo paso de la mejora."

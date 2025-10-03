@@ -12,7 +12,7 @@ def decode_b64(cell):
     except Exception:
         return cell.strip()
 
-def csv_to_json(input_csv, output_json):
+def csv_to_json(input_csv, output_json, csv_type):
     # Columnas de idioma conocidas
     language_columns = {
         1: "ko",
@@ -30,7 +30,9 @@ def csv_to_json(input_csv, output_json):
             if not row or not row[0]:
                 continue
 
-            error_code = decode_b64(row[0])
+            error_code = row[0]
+            if csv_type == 0:
+                error_code = decode_b64(row[0])
             entry = {}
 
             for idx in range(1, len(row)):
@@ -71,4 +73,5 @@ def csv_to_json(input_csv, output_json):
 if __name__ == "__main__":
     f_from = sys.argv[1]
     f_dest = sys.argv[2]
-    csv_to_json(f_from, f_dest)
+    f_type = sys.argv[3] # 0 for MsgStringsTable, 1 for all i18n files
+    csv_to_json(f_from, f_dest, f_type)

@@ -159,597 +159,642 @@
         "pt": "Parece que suas posses são pesadas demais. Vamos tentar de novo depois de diminuir a carga.",
         "es": "Parece que mis posesiones pesan demasiado. Probemos de nuevo después de aligerar la carga."
     },
-    "\u0000<f": {
+    "ADxm": {
         "en": "[Clever]\nMm? Who are you? You aren't a visitor. Guard~!!! Guard~!!! There is a suspicious person here! What are you doing not taking him away?!",
         "pt": "[Esperto]\nMmm? Quem é você? Você não é um visitante. Guarda~!!! Guarda~!!! Há uma pessoa suspeita aqui! O que você está fazendo?? Leve-o daqui!",
         "es": "[Clever]\n¿Mm? ¿Quién eres? No eres un visitante. ¡Guardia! ¡Guardia! ¡Hay una persona sospechosa aquí! ¡¿Qué haces que no te lo llevas?!"
     },
-    "\u0001<f": {
+    "ATxm": {
         "en": "[Clever]\nHmm, In any case, I've never seen you before. Why are you here to visit me?",
         "pt": "[Esperto]\nHum... De qualquer jeito, nunca te vi antes. Por que você está aqui para me visitar?",
         "es": "[Clever]\nMmm, de todos modos, nunca te había visto. ¿Por qué viniste a visitarme?"
     },
-    "\u0002<f": {
+    "Ajxm": {
         "en": "I never wanted to visit you either.",
         "pt": "Eu nunca quis visitar você.",
         "es": "Yo tampoco tenía intenciones de visitarte."
     },
-    "\u0003<f": {
+    "Azxm": {
         "en": "What crime did you commit?",
         "pt": "O que você fez para estar aqui?",
         "es": "¿Qué delito cometiste?"
     },
-    "\u0004<f": {
+    "BDxm": {
         "en": "[Clever]\nOh~ Really? Ok, you get out of here. I'm going to start torturing the guard. Let's see... Alright, I'll sing to him!",
         "pt": "[Esperto]\nAh~ É mesmo? Está bem, saia daqui. Vou começar a torturar o guarda. Vejamos... Certo, vou cantar para ele!",
         "es": "[Clever]\nOh. ¿De verdad? Está bien, vete de aquí. Voy a empezar a torturar al guardia. Veamos… ¡Muy bien, le cantaré!"
     },
-    "\u0005<f": {
+    "BTxm": {
         "en": "^000099As soon as Clever starts singing, the guard looks at me in exhaustion. Of course, it was torture for myself as well.^000000",
         "pt": "^000099Assim que Esperto começa a cantar, o guarda olha para mim, desesperado. E claro, foi uma tortura para mim também.^000000",
         "es": "^000099En cuanto Clever empieza a cantar, el guardia me mira agotado. Por supuesto, también era una tortura para mí.^000000"
     },
-    "\u0006<f": {
+    "Bjxm": {
         "en": "[Clever]\nHmm?\nFor what crime? Why do you ask such a boring question?",
         "pt": "[Esperto]\nHmm?\nPor qual crime? Por que você faz uma pergunta tão entediante?",
         "es": "[Clever]\n¿Mmm?\n¿Qué delito? ¿Por qué haces una pregunta tan aburrida?"
     },
-    "\u0007<f": {
+    "Bzxm": {
         "en": "[Clever]\nI thought you were kind of interesting, seeing how you come to visit a stranger. How disappointing~ I'm going to sing the rest of this tune.",
         "pt": "[Esperto]\nEu pensei que você fosse um pouco mais interessante, visto ter vindo visitar um desconhecido. Estou desapontado~ Vou cantar o resto dessa canção.",
         "es": "[Clever]\nPensé que eras interesante, ya que viniste a visitar a un extraño. Qué decepcionante. Voy a cantar el resto de esta melodía."
     },
-    "\b<f": {
+    "CDxm": {
         "en": "^000099I saw real fear and despair in the guard's face. The prisoner known as Clever was getting ready to sing.^000000",
         "pt": "^000099Vi medo e desespero real no rosto do guarda. O prisioneiro conhecido como Esperto estava se preparando para cantar.^000000",
         "es": "^000099Realmente vi miedo y desesperación en el rostro del guardia. El prisionero llamado Clever se preparaba para cantar.^000000"
     },
-    "<f": {
-        "en": "[Clever]\nSnore snore...",
-        "pt": "[Esperto]\nZzzzz...",
-        "es": "[Clever]\n*Ronquido*"
+    "CTxm": {
+        "en": "[Prison Guard]\nPlease, I ask you. Please shut Mr. Clever's mouth. I've been listening to him for a year now and it's driving me insane. I can't beat a prisoner either...",
+        "pt": "[Guarda da Prisão]\nPor favor, te peço, faça o Sr. Esperto calar a boca. Estive ouvindo ele por um ano agora, e está me deixando louco, mas não posso espancar um prisioneiro...",
+        "es": "[Guardia]\nPor favor, te lo pido. Haz que el señor Clever cierre la boca. Llevo un año escuchándolo y me está volviendo loco. Tampoco puedo pegarle a un prisionero…"
     },
-    "\u000e<f": {
+    "Cjxm": {
+        "en": "[Clever]\nThe prisoner is singing a song that seems to come from another dimension.",
+        "pt": "[Esperto]\nO prisioneiro está cantando uma música que parece vir de outra dimensão.",
+        "es": "[Clever]\nEl prisionero canta una canción que parece venir de otra dimensión."
+    },
+    "Czxm": {
+        "en": "Wait! Wait! Stop your singing for a minute!",
+        "pt": "Pare de cantar!",
+        "es": "¡Espera! ¡Espera! ¡Deja de cantar por un momento!"
+    },
+    "DDxm": {
+        "en": "[Clever]\nHmm? Why? Do you have an interesting story?",
+        "pt": "[Esperto]\nHmm? Por quê? Você tem uma história interessante?",
+        "es": "[Clever]\n¿Mmm? ¿Por qué? ¿Tienes una historia interesante?"
+    },
+    "DTxm": {
+        "en": "Try entertaining him.",
+        "pt": "Tentar entretê-lo.",
+        "es": "Intentar entretenerlo."
+    },
+    "Djxm": {
         "en": "Tell him about the journey until now.",
         "pt": "Contar sobre a jornada.",
         "es": "Hablarle de tu viaje hasta ahora."
     },
-    "\u000f<f": {
+    "Dzxm": {
         "en": "Tell him about Rune Midgard.",
         "pt": "Contar sobre Midgard.",
         "es": "Hablarle de Rune-Midgard."
     },
-    "\u0010<f": {
+    "EDxm": {
         "en": "Ask him what he wants to eat.",
         "pt": "Perguntar o que quer comer.",
         "es": "Preguntarle qué quiere comer."
     },
-    "\u0011<f": {
+    "ETxm": {
         "en": "[Clever]\nHmm. What do I want to eat? I have lots of things I want to eat. After all, I've been eating stale prison rice all this time. I had one thing in particular.",
         "pt": "[Esperto]\nHmmm... O que quero comer? Tem várias coisas que quero comer. Afinal de contas, estive comendo arroz velho da prisão todo esse tempo. Tenho uma coisa em particular.",
         "es": "[Clever]\nMmm. ¿Qué quiero comer? Hay muchas cosas que quiero comer. Después de todo, en la prisión como arroz rancio todo el tiempo. Hay una cosa en particular."
     },
-    "\u0012<f": {
+    "Ejxm": {
         "en": "[Clever]\nAt one point, some adventurer shared with me as a present some ^000099Grape Extract Herb Tea^000000 and it was really refreshing.",
         "pt": "[Esperto]\nEm dado momento, um aventureiro compartilhou comigo, como presente, um ^000099Chá de Ervas com Uvas^000000 e foi realmente refrescante.",
         "es": "[Clever]\nEn una ocasión, un trotamundos me convidó con un poco de ^000099Té de hierbas con extracto de uva^000000 y era muy refrescante."
     },
-    "\u0013<f": {
+    "Ezxm": {
         "en": "[Clever]\nIf you bring me ^0000991 cup of Grape Extract Herb Tea^000000, I'll tell you various gossip stories of Eclage in return. How's that?",
         "pt": "[Esperto]\nSe você me trouxer ^0000991 xícara de Chá de Ervas com Uvas^000000, te contarei várias fofocas de Eclage como agradecimento. Que tal?",
         "es": "[Clever]\nSi me traes ^0000991 taza de Té de hierbas con extracto de uva^000000, te contaré muchos rumores de Eclage. ¿Qué te parece?"
     },
-    "\u0014<f": {
+    "FDxm": {
         "en": "I'll think about it later.",
         "pt": "Pensarei sobre isso mais tarde.",
         "es": "Lo pensaré luego."
     },
-    "\u0015<f": {
+    "FTxm": {
         "en": "That's no problem.",
         "pt": "Sem problemas.",
         "es": "No hay problema."
     },
-    "\u0016<f": {
+    "Fjxm": {
         "en": "[Clever]\nAlrighty~ It was nice meeting you. I'm going to sing the rest of this tune.",
         "pt": "[Esperto]\nBelezinha~ Foi um prazer conhecê-lo. Vou cantar o resto dessa canção.",
         "es": "[Clever]\nMuy bien. Fue un placer conocerte. Voy a cantar el resto de esta melodía."
     },
-    "\u0017<f": {
+    "Fzxm": {
         "en": "[Clever]\nHo~ Ok, then shall I wait for you getting some sleep?",
         "pt": "[Esperto]\nOh...~ Está bem, então devo esperar por você dormindo?",
         "es": "[Clever]\nJo. Está bien, ¿entonces espero a que duermas un poco?"
     },
-    "\u0018<f": {
+    "GDxm": {
         "en": "[Clever]\nHmm hmm.. Let me think for a bit...",
         "pt": "[Esperto]\nHmm hmm.. Deixe-me pensar um pouco...",
         "es": "[Clever]\nMmm, mmm… Déjame pensar un momento…"
     },
-    "\u0019<f": {
+    "GTxm": {
         "en": "[Clever]\nHmm...",
         "pt": "[Esperto]\nHum...",
         "es": "[Clever]\nMmm…"
     },
-    "\u001a<f": {
+    "Gjxm": {
         "en": "[Clever]\nSorry~ I'd rather be singinig!",
         "pt": "[Esperto]\nDesculpe~ Deveria estar cantando!",
         "es": "[Clever]\nLo siento. ¡Prefiero cantar!"
     },
-    "\u001b<f": {
+    "Gzxm": {
         "en": "[Clever]\nWow, you really brought me some. In any case, did you even request a visit? Hey~ Guard!! Don't you have to see if this guy came here with a formal visitation request? Random people can't be in here!",
         "pt": "[Esperto]\nUau, você realmente me trouxe isso. De qualquer forma, você sequer requisitou uma visita?\nEi~ Guarda!!! Você não precisa ver se esse cara veio aqui com uma requisição formal de visitação? Pessoas não podem vir aqui aleatoriamente!",
         "es": "[Clever]\nVaya, sí que me trajiste un poco. En fin, ¿solicitaste al menos una visita? Ey. ¡Guardia! ¿No tienes que ver si este tipo vino con una solicitud formal de visita? ¡No cualquier persona puede estar aquí!"
     },
-    "!<f": {
+    "HDxm": {
+        "en": "[Prison Guard]\nNO I DON'T HAVE TO! I DON'T HAVE TO CHECK!",
+        "pt": "[Guarda da Prisão]\nNÃO, NÃO TENHO QUE FAZER ISSO! NÃO PRECISO CHECAR!",
+        "es": "[Guardia]\n¡NO TENGO QUE HACERLO! ¡NO TENGO QUE VERIFICARLO!"
+    },
+    "HTxm": {
+        "en": "^000099The guard's irritated voice screamed from afar.^000000",
+        "pt": "^000099O Guarda gritou de longe. Ele parece estar bem irritado.^000000",
+        "es": "^000099La voz irritada del guardia resonó desde lejos.^000000"
+    },
+    "Hjxm": {
+        "en": "[Clever]\nWell, the guard says it's ok. Thanks for bringing it to me. Since I am a prisoner, I don't have much to give aside from praying for a blessing upon home tree.",
+        "pt": "[Esperto]\nBem, o guarda diz que tudo bem. Obrigado por me trazer isso. Já que sou um prisioneiro, não tenho muito a oferecer além de uma prece por uma benção sobre Yggdrasil.",
+        "es": "[Clever]\nBueno, el guardia dice que está bien. Gracias por traérmelo. Como soy un prisionero, lo poco que puedo ofrecer es pedir una bendición para el Árbol del hogar."
+    },
+    "Hzxm": {
+        "en": "^000099Upon receiving the blessings to home tree, you gained experience points and job experience points.^000000",
+        "pt": "^000099Ao receber a bênção de Yggdrasil, você ganhou pontos de experiência de base e classe.^000000",
+        "es": "^000099Al recibir las bendiciones para el Árbol del hogar, ganaste puntos de experiencia y puntos de experiencia de clase.^000000"
+    },
+    "IDxm": {
+        "en": "[Clever]\nSnore snore...",
+        "pt": "[Esperto]\nZzzzz...",
+        "es": "[Clever]\n*Ronquido*"
+    },
+    "ITxm": {
         "en": "^000099He looks like he won't wake up until I bring back some Grape Extract Herb Tea.^000000",
         "pt": "^000099Parece que ele não vai acordar até que eu traga mais Chá de Ervas com Uvas.^000000",
         "es": "^000099Parece que no se despertará hasta que le traiga Té de hierbas con extracto de uva.^000000"
     },
-    "\"<f": {
+    "Ijxm": {
         "en": "[Clever]\nWhew~ How refreshing. You are the only visitor I could appreciate this entire past year of imprisonment.",
         "pt": "[Esperto]\nUfa~ Que refrescante. Você é o único visitante que eu apreciei nesse último ano inteiro de aprisionamento.",
         "es": "[Clever]\nUf. Qué refrescante. Eres el único visitante que pude apreciar durante el último año de encarcelamiento."
     },
-    "#<f": {
+    "Izxm": {
         "en": "Ask about Eclage gossip stories.",
         "pt": "Perguntar sobre fofocas de Eclage.",
         "es": "Preguntar por los rumores de Eclage."
     },
-    "$<f": {
+    "JDxm": {
         "en": "[Clever]\nOh?\nYes, that's right~ I did promise you that.",
         "pt": "[Esperto]\nOh?\nSim, está certo~ Eu te prometi isso.",
         "es": "[Clever]\n¿Eh?\nSí, es cierto. Te lo prometí."
     },
-    "%<f": {
+    "JTxm": {
         "en": "[Clever]\nThere's so many. Why don't you choose one among these topics.",
         "pt": "[Esperto]\nHá tantas delas. Por que você não escolhe entre esses assuntos.",
         "es": "[Clever]\nHay tantos. ¿Por qué no eliges uno de estos temas?"
     },
-    "&<f": {
+    "Jjxm": {
         "en": "A story about the Seneth King's father",
         "pt": "Sobre o pai do Rei Jun Seneth",
         "es": "Una historia sobre el padre del rey Seneth."
     },
-    "'<f": {
+    "Jzxm": {
         "en": "A story about Seneth King's arsony",
         "pt": "Sobre a morte do Rei Jun Seneth",
         "es": "Una historia sobre el incendio intencional del rey Seneth."
     },
-    "(<f": {
+    "KDxm": {
         "en": "The assistant chief of staff's real name",
         "pt": "O nome verdadeiro de Shenime",
         "es": "El verdadero nombre del jefe adjunto de gabinete."
     },
-    ")<f": {
+    "KTxm": {
         "en": "A dimensional rift in nearby regions",
         "pt": "Uma fenda dimensional",
         "es": "Una grieta dimensional en regiones cercanas."
     },
-    "*<f": {
+    "Kjxm": {
         "en": "[Clever]\nThis is a secret gossip related to the old king. Have you heard about a first-rate criminal named Florence? He was a first-rate criminal, but he was the father of an old king named Seneth.",
         "pt": "[Esperto]\nEssa é uma fofoca secreta relacionada ao velho rei. Você já ouviu falar em um criminoso de primeira chamado Florence?\nEle era um criminoso de primeira, mas era o pai de um velho Rei Jun chamado Seneth.",
         "es": "[Clever]\nSe trata de un rumor secreto sobre el antiguo rey. ¿Oíste hablar de un delincuente de primera categoría llamado Florence? Fue un delincuente de primera categoría y el padre de un antiguo rey llamado Seneth."
     },
-    "+<f": {
+    "Kzxm": {
         "en": "[Clever]\nWhat crime did he commit? Haha, no one knows that. But in Eclage, ^000099it's actually prohibited to mention the name Florence^000000.",
         "pt": "[Esperto]\nE qual crime ele cometeu? Haha, ninguém sabe disso. Mas em Eclage, ^000099é proibido mencionar o nome Florence^000000.",
         "es": "[Clever]\n¿Qué delito cometió? Ja, ja, eso no lo sabe nadie. Pero en Eclage, ^000099está prohibido mencionar el nombre de Florence^000000."
     },
-    ",<f": {
+    "LDxm": {
         "en": "[Clever]\nIf you mention his name, you might be in the same situation as I am.",
         "pt": "[Esperto]\nSe você mencionar seu nome, você poderia acabar na mesma situação que eu.",
         "es": "[Clever]\nSi mencionas su nombre, puedes terminar como yo."
     },
-    "-<f": {
+    "LTxm": {
         "en": "[Clever]\nThere's also a secret tale about Florence's son, King Seneth. Because of his low self-esteem related to having a criminal father, he is a king who implemented radical policies.",
         "pt": "[Esperto]\nTambém há um conto secreto sobre o filho de Florence, o Rei Jun Seneth.\nDevido à sua baixa autoestima por ter um pai criminoso, ele é um Rei Jun que implementou políticas radicais.",
         "es": "[Clever]\nTambién hay un relato secreto sobre el hijo de Florence, el rey Seneth. Debido a su baja autoestima por haber tenido un padre delincuente, como rey, implementó políticas muy radicales."
     },
-    ".<f": {
+    "Ljxm": {
         "en": "[Clever]\nThere are also rumors that he had a mental illness, I don't know to what degree that is true. I heard that he actually chewed through the stem of Yggdrasil.",
         "pt": "[Esperto]\nTambém há rumores de que ele tinha uma doença mental, eu não sei até que ponto isso é verdade. Ouvi dizer que ele mastigou o tronco de Yggdrasil.",
         "es": "[Clever]\nTambién hay rumores de que padecía una enfermedad mental, pero no sé hasta qué punto es cierto. Escuché que realmente masticó el tallo de Yggdrasil."
     },
-    "/<f": {
+    "Lzxm": {
         "en": "[Clever]\nCan you imagine? What it could mean for the Mayor to cause harm to Yggdrasil? It's a terrible thing.",
         "pt": "[Esperto]\nJá imaginou? O que poderia ter levado o Rei Jun a causar dano à Yggdrasil? Que coisa terrível.",
         "es": "[Clever]\n¿Te lo imaginas? ¿Qué podría significar para el mayor causarle daño a Yggdrasil? Es algo terrible."
     },
-    "0<f": {
+    "MDxm": {
         "en": "[Clever]\nThere are rumors that after disconnecting himself from Yggdrasil, he grew sicker and sicker, and ultimately set himself on fire.",
         "pt": "[Esperto]\nHá rumores que depois de se soltar de Yggdrasil, ele ficou cada vez mais doente e finalmente ateou fogo à si mesmo.",
         "es": "[Clever]\nSe rumorea que, tras desconectarse de Yggdrasil, se enfermó cada vez más y acabó prendiéndose fuego."
     },
-    "1<f": {
+    "MTxm": {
         "en": "[Clever]\nOf course, it's just a hearsay, so I can't guarantee that it's true, but I'm positive that ^000099he was the first Mayor to break the relationship with Yggdrasil^000000.",
         "pt": "[Esperto]\nÉ claro, isso é só especulação, então não posso garantir que seja verdade, mas tenho certeza de que ^000099ele foi o primeiro Rei Jun a romper o relacionamento com Yggdrasil^000000.",
         "es": "[Clever]\nPor supuesto, es solo un rumor, así que no puedo garantizar que sea cierto, pero estoy seguro de que ^000099fue el primer mayor en romper la relación con Yggdrasil^000000."
     },
-    "2<f": {
+    "Mjxm": {
         "en": "[Clever]\nThis is a story that most Laphines don't recognize. The assistant chief of staff Shenime's real name is not Shenime.",
         "pt": "[Esperto]\nEssa é uma história que a maioria dos Laphines não reconhece. O nome verdadeiro do assistente do chefe de gabinete não é Shenime.",
         "es": "[Clever]\nEsta es una historia que la mayoría de los laphines no reconocen. El verdadero nombre del jefe adjunto de gabinete no es Shinaim."
     },
-    "3<f": {
+    "Mzxm": {
         "en": "[Clever]\nBut no one remembers what is real name is. It's the same with me. It's as if a giant eraser stormed through the mind.",
         "pt": "[Esperto]\nMas ninguém se lembra qual é seu nome verdadeiro. É o mesmo comigo. É como se uma borracha gigante passasse por sua cabeça.",
         "es": "[Clever]\nPero nadie recuerda cuál es su verdadero nombre. A mí me pasa lo mismo. Es como si una enorme goma de borrar hubiese arrasado con mi mente."
     },
-    "4<f": {
+    "NDxm": {
         "en": "[Clever]\nAll I know for sure is that Shenime is not his real name. So I conjured up an interesting story. Do you happen to know what it means to control the public?",
         "pt": "[Esperto]\nTudo que sei com certeza é que Shenime não é seu nome verdadeiro. Então conjurei uma história interessante.\nVocê sabe o que significa controlar o público?",
         "es": "[Clever]\nLo único que sé es que Shinaim no es su verdadero nombre. Así que me inventé una historia interesante. ¿De casualidad sabes lo que significa controlar al público?"
     },
-    "5<f": {
+    "NTxm": {
         "en": "[Clever]\nIf you have a strong ability in controlling the public, I could make you believe that not just my name but my face also ^000099are my original ones even if they really weren't^000000.",
         "pt": "[Esperto]\nSe você tem uma habilidade forte de controlar o público, eu poderia lhe fazer acreditar que não só meu nome, mas meu rosto também^000099são os meus originais, mesmo que não sejam^000000.",
         "es": "[Clever]\nSi tienes una gran habilidad para controlar al público, podría hacerte creer que no solo mi nombre, sino también mi rostro, ^000099son auténticos aunque realmente no lo sean^000000."
     },
-    "6<f": {
+    "Njxm": {
         "en": "[Clever]\nShenime formed that kind of identity... Or rather, changed into such an identity. But this is also one of many rumors. Heh.",
         "pt": "[Esperto]\nShenime formou esse tipo de identidade... Ou, melhor dizendo, mudou para tal identidade. Mas esse também é um de muitos rumores. Heh.",
         "es": "[Clever]\nShinaim creó ese tipo de identidad… O, más bien, se transformó en esa identidad. Pero es también uno de tantos rumores. Je."
     },
-    "7<f": {
+    "Nzxm": {
         "en": "[Clever]\nI don't mean to brag, but I used to be a historian, researching the Alfheim continent along with geography, biology, and archeology.",
         "pt": "[Esperto]\nEu não quero me gabar, mas eu era um historiador pesquisando o continente de Alpheim, sua geografia, biologia e arqueologia.",
         "es": "[Clever]\nNo quiero presumir, pero solía ser historiador e investigaba el continente de Alfheim, además de geografía, biología y arqueología."
     },
-    "8<f": {
+    "ODxm": {
         "en": "[Clever]\nRecently, they discovered a suspicious rift in this vicinity. Because of how I am now, I couldn't check it out myself, but my colleague participated in the research team here and seemed to have brought back something.",
         "pt": "[Esperto]\nRecentemente, eles descobriram uma fenda suspeita nas redondezas.\nDevido à minha situação atual, não pude verificar pessoalmente, mas meu colega participou do time de pesquisa aqui e pareceu trazer algo.",
         "es": "[Clever]\nHace poco, descubrieron una grieta sospechosa cerca de aquí. Debido a cómo estoy ahora, no pude comprobarlo, pero mi colega participó en el equipo de investigación y parece que trajo algo."
     },
-    "9<f": {
+    "OTxm": {
         "en": "What do you mean something? Did he bring back something like a rift fragment?",
         "pt": "Ele trouxe algum fragmento?",
         "es": "¿Qué quieres decir con algo? ¿Trajo algo así como un fragmento de la grieta?"
     },
-    ":<f": {
+    "Ojxm": {
         "en": "[Clever]\nI think so. I don't know if you understand this, but if you utilize a dimensional rift fragment, you can travel through time or different dimensions.",
         "pt": "[Esperto]\nAcho que sim. Não sei se você entende isso, mas se você usar um fragmento de fenda dimensional, pode viajar pelo tempo e dimensões diferentes.",
         "es": "[Clever]\nEso creo. No sé si lo sabes, pero si usas un fragmento de la grieta dimensional, puedes viajar en el tiempo o a otras dimensiones."
     },
-    ";<f": {
+    "Ozxm": {
         "en": "Yes, that is why I am here in the first place.",
         "pt": "Sim, é por isso que estou aqui.",
         "es": "Sí, por eso estoy aquí en primer lugar."
     },
-    "<<f": {
+    "PDxm": {
         "en": "[Clever]\nOh, that's right. You are a human traveler from Midgard, so you would know more about this than I do.",
         "pt": "[Esperto]\nAh, é verdade! Você é um viajante de Midgard, então deve saber mais sobre isso do que eu.",
         "es": "[Clever]\nOh, así es. Eres un viajero humano de Midgard, así que deberías saber más que yo sobre esto."
     },
-    "=<f": {
+    "PTxm": {
         "en": "[Clever]\nIn any case, the discovery of a rift in this vicinity is an absolute secret.",
         "pt": "[Esperto]\nMesmo assim, a descoberta da fenda nas redondezas é um segredo absoluto.",
         "es": "[Clever]\nDe todos modos, el descubrimiento de una grieta cercana es un secreto absoluto."
     },
-    "><f": {
+    "Pjxm": {
         "en": "[Clever]\nHow fun would it be to return to the past with the rift fragment~ I would be able to do whatever I want out of this boring prison.",
         "pt": "[Esperto]\nComo seria divertido voltar para o passado com o fragmento da fenda~ Eu poderia fazer o que quisesse fora dessa prisão entediante.",
         "es": "[Clever]\nQué divertido sería volver al pasado con el fragmento de la grieta. Podría hacer lo que quisiera fuera de esta aburrida prisión."
     },
-    "?<f": {
+    "Pzxm": {
         "en": "[Clever]\nHmm~ I've said too much. I think I talked to much for a cup of herb tea. I'm going to rest a little bit.",
         "pt": "[Esperto]\nHmm~ Falei demais. Acho que falei demais por um copo de chá de ervas. Vou descansar um pouco.",
         "es": "[Clever]\nMmm. Hablé demasiado. Creo que hablé demasiado por una taza de té de hierbas. Voy a descansar un poco."
     },
-    "@<f": {
+    "QDxm": {
         "en": "[Clever]\nOh right. You showed some interest when I talked about the dimensional rift fragment.",
         "pt": "[Esperto]\nOh, certo. Você mostrou algum interesse quando falei sobre o fragmento da fenda dimensional.",
         "es": "[Clever]\nOh, claro. Mostraste cierto interés cuando hablé del fragmento de la grieta dimensional."
     },
-    "A<f": {
+    "QTxm": {
         "en": "[Clever]\nIf you are wondering about something, you can go find my friend ^000099Hiel^000000. He's as crazy as I am, but he's a good guy, hehehe.",
         "pt": "[Esperto]\nSe você está se perguntando sobre algo, pode encontrar meu amigo ^000099Hiel^000000. Ele é tão louco quanto eu, mas é um cara legal, hehehe.",
         "es": "[Clever]\nSi tienes preguntas, puedes ir a buscar a mi amigo ^000099Hiel^000000. Está tan loco como yo, pero es un buen tipo, je, je, je."
     },
-    "B<f": {
+    "Qjxm": {
         "en": "[Clever]\nThanks for being my ears. I don't have the strength to talk any more, so I have to rest up.",
         "pt": "[Esperto]\nObrigado por me escutar. Não tenho força para falar mais, então terei de descansar.",
         "es": "[Clever]\nGracias por escucharme. No tengo fuerzas para seguir hablando, así que voy a descansar."
     },
-    "C<f": {
+    "Qzxm": {
         "en": "^000099Clever seems to be in deep sleep.^000000",
         "pt": "^000099Esperto parece estar em sono profundo.^000000",
         "es": "^000099Clever parece estar profundamente dormido.^000000"
     },
-    "D<f": {
+    "RDxm": {
         "en": "[Clever]\nI have many other gossip stories. What else do you want to hear about?",
         "pt": "[Esperto]\nTenho muitas outras histórias de fofoca. O que mais você quer saber?",
         "es": "[Clever]\nTengo muchos otros rumores. ¿Qué más quieres saber?"
     },
-    "E<f": {
+    "RTxm": {
         "en": "^000099Clever is still deep asleep. Be careful not to awaken him.^000000",
         "pt": "^000099Esperto ainda está dormindo profundamente. Vamos tomar cuidado para não acordá-lo.^000000",
         "es": "^000099Clever sigue profundamente dormido. Ten cuidado de no despertarlo.^000000"
     },
-    "F<f": {
+    "Rjxm": {
         "en": "[Clever]\nHey hey, who's this? You're my friend from earlier. Hehehe.",
         "pt": "[Esperto]\nEi, quem é? Ah, você é meu amigo de antes. Hehehe.",
         "es": "[Clever]\nOye, oye, ¿quién eres? Eres mi amigo de antes. Je, je, je."
     },
-    "G<f": {
+    "Rzxm": {
         "en": "I'm just gonna be on my way.",
         "pt": "Vou nessa.",
         "es": "Voy a seguir mi camino."
     },
-    "H<f": {
+    "SDxm": {
         "en": "I think Hiel's experiment succeeded.",
         "pt": "Acho que o experimento deu certo.",
         "es": "Creo que el experimento de Hiel tuvo éxito."
     },
-    "I<f": {
+    "STxm": {
         "en": "[Clever]\nWhat? You don't find any inspiration from hearing my voice? That's sad.",
         "pt": "[Esperto]\nQue foi? Não sentiu nenhuma inspiração ao ouvir minha voz? Isso é triste.",
         "es": "[Clever]\n¿Qué? ¿No te inspira escuchar mi voz? Qué lástima."
     },
-    "J<f": {
+    "Sjxm": {
         "en": "[Clever]\nHmm?\nHold on... Keep your voice down. What did you just say?",
         "pt": "[Esperto]\nHmm?\nEspere... Fale mais baixo. O que você acabou de dizer?",
         "es": "[Clever]\n¿Mmm?\nEspera… Baja la voz. ¿Qué acabas de decir?"
     },
-    "K<f": {
+    "Szxm": {
         "en": "The experiment succeeded.",
         "pt": "O experimento foi bem sucedido.",
         "es": "El experimento tuvo éxito."
     },
-    "L<f": {
+    "TDxm": {
         "en": "[Clever]\nI can't believe it. Did you help him? Wait, that's not the important part. The most important thing is understanding how that was possible.",
         "pt": "[Esperto]\nNão posso acreditar. Você o ajudou? Espere, isso não é a parte importante. A coisa mais importante é entender como isso foi possível.",
         "es": "[Clever]\nNo puedo creerlo. ¿Lo ayudaste? Espera, esa no es la parte importante. Lo más importante es entender cómo eso fue posible."
     },
-    "M<f": {
+    "TTxm": {
         "en": "[Clever]\nEven a non-engineer like me understands that if the rift fragment reacts to pressure, it releases a force beyond understanding.",
         "pt": "[Esperto]\nMesmo alguém que não seja um engenheiro como eu entende que se um fragmento de fenda reage à pressão, ele libera uma força além da compreensão.",
         "es": "[Clever]\nIncluso alguien que no es ingeniero como yo entiende que si el fragmento de la grieta reacciona a la presión, libera una fuerza incomprensible."
     },
-    "N<f": {
+    "Tjxm": {
         "en": "[Clever]\nBut I couldn't experience anything related to the rift from here. That means...",
         "pt": "[Esperto]\nMas não pude experimentar com nada relacionado à fenda daqui. Isso significa...",
         "es": "[Clever]\nPero no pude experimentar nada relacionado con la grieta desde aquí. Eso significa…"
     },
-    "O<f": {
+    "Tzxm": {
         "en": "That must mean that it succeeded without any particular side effects...",
         "pt": "... que teve sucesso sem nenhum efeito colateral...",
         "es": "Eso debe significar que tuvo éxito sin ningún tipo de efecto secundario…"
     },
-    "P<f": {
+    "UDxm": {
         "en": "[Clever]\nYes, I see that Hiel must have resolved all technical aspects. Did something happen after the reaction? Could you tell me whatever you saw?",
         "pt": "[Esperto]\nSim, eu vejo que Hiel deve ter resolvido todos os aspectos técnicos. Algo aconteceu depois das reações? Você poderia me dizer qualquer coisa que tenha visto?",
         "es": "[Clever]\nSí, veo que Hiel debe haber resuelto todos los aspectos técnicos. ¿Pasó algo después de la reacción? ¿Podrías decirme lo que viste?"
     },
-    "Q<f": {
+    "UTxm": {
         "en": "Demonstrate what happened.",
         "pt": "Demonstrar o que aconteceu.",
         "es": "Demostrar lo que ocurrió."
     },
-    "R<f": {
+    "Ujxm": {
         "en": "[Clever]\nTwo Laphines related to home tree appeared? I have to look for the history records that I organized. Wait here.",
         "pt": "[Esperto]\nDois Laphines relacionados à Yggdrasil apareceram? Eu tenho que conferir os relatos históricos que organizei. Espere aqui.",
         "es": "[Clever]\n¿Aparecieron dos laphines conectados con el Árbol del hogar? Tengo que buscar los registros históricos que organicé. Espera aquí."
     },
-    "S<f": {
+    "Uzxm": {
         "en": "[Clever]\nThis is the area of interest I used to research prior to imprisonment. The history of the birth of Eclage. And they are parts of history that have not been recorded in the official history documents.",
         "pt": "[Esperto]\nEra isso que eu estava pesquisando antes de ser preso. A história do nascimento de Eclage.\nE são partes da história que não foram registradas nos documentos históricos oficiais.",
         "es": "[Clever]\nEsta es el área de interés que solía investigar antes de mi encarcelamiento. La historia del nacimiento de Eclage. Y son partes de la historia que no se registraron en los documentos históricos oficiales."
     },
-    "T<f": {
+    "VDxm": {
         "en": "So it's part of the Unofficial history?",
         "pt": "História não oficial...?",
         "es": "Así que, ¿son parte de la historia no oficial?"
     },
-    "U<f": {
+    "VTxm": {
         "en": "[Clever]\nEven if there are great accomplishments, there are times when those can't be recorded in the history.",
         "pt": "[Esperto]\nMesmo que existam grandes conquistas, há momentos que não podem ser registrados na história.",
         "es": "[Clever]\nAunque haya grandes logros, a veces no pueden quedar registrados en la historia."
     },
-    "V<f": {
+    "Vjxm": {
         "en": "[Clever]\nIf there were ^000099oppositions among Dona forces^000000 of nobility, or ^000099slaughtering among Dona forces^000000, those acts cannot be recorded as official history.",
         "pt": "[Esperto]\nSe houvesse ^000099oposição entre forças dos Dona^000000 da nobreza, ou ^000099chacinas entre forças dos Dona^000000, esses atos não poderiam ser registrados como história oficial.",
         "es": "[Clever]\nSi hubo ^000099oposiciones entre las fuerzas de donas^000000 de la nobleza o ^000099masacres entre las fuerzas de donas^000000, esos actos no pueden registrarse como historia oficial."
     },
-    "W<f": {
+    "Vzxm": {
         "en": "Then how do those accounts get recorded?",
         "pt": "Como esses relatos são registrados?",
         "es": "Entonces, ¿cómo se registran esos sucesos?"
     },
-    "X<f": {
+    "WDxm": {
         "en": "[Clever]\nEven if you don't want to reveal it, history is history. There is unofficial history as handed down among historians like me.",
         "pt": "[Esperto]\nMesmo que você não queira revelar isso, história é história. Há uma história não oficial divulgada por historiadores como eu.",
         "es": "[Clever]\nAunque no quieras revelarla, la historia es la historia. Existe una historia no oficial transmitida entre historiadores como yo."
     },
-    "Y<f": {
+    "WTxm": {
         "en": "[Clever]\nOf course, there would be thorny pieces of history among the higher-level members of Dona forces. There are a lot of facts distorted for political reasons. My job is to discover those aspects and correct them.",
         "pt": "[Esperto]\nÉ claro, existem alguns momentos espinhosos de história entre membros de alto nível das forças dos Dona.\nExistem muitos fatos distorcidos por razões políticas. Meu trabalho é descobrir esses aspectos e corrigi-los.",
         "es": "[Clever]\nPor supuesto, debe haber acontecimientos polémicos de la historia entre los miembros de alto nivel de las fuerzas de donas. Hay muchos hechos tergiversados por razones políticas. Mi trabajo consiste en descubrir esos aspectos y corregirlos."
     },
-    "Z<f": {
+    "Wjxm": {
         "en": "Could your imprisonment be due to...",
         "pt": "Será que a sua prisão foi devido à...",
         "es": "¿Se relaciona con tu encarcelación…?"
     },
-    "[<f": {
+    "Wzxm": {
         "en": "[Clever]\nNo, I was only imprisoned for defacing properties...",
         "pt": "[Esperto]\nNão, eu só fui preso por depredar propriedades...",
         "es": "[Clever]\nNo, solo me encarcelaron por hacer pintadas en propiedades…"
     },
-    "\\<f": {
+    "XDxm": {
         "en": "(I was foolish to expect something like that)",
         "pt": "Ah, é claro...",
         "es": "(Fui un tonto al esperar algo así)."
     },
-    "]<f": {
+    "XTxm": {
         "en": "[Clever]\nI digressed a bit there. The story of the birth of Eclage is actually an unofficial history record handed down as classified material. But there have been parts of it that were incorrect.",
         "pt": "[Esperto]\nEstou divagando um pouco aqui. A história do nascimento de Eclage é, na verdade, um relato não oficial repassado como material secreto.\nMas algumas partes disso estavam incorretas.",
         "es": "[Clever]\nMe desvié un poco del tema. La historia del nacimiento de Eclage es en realidad un registro histórico no oficial compartido como material clasificado. Pero algunas partes eran incorrectas."
     },
-    "^<f": {
+    "Xjxm": {
         "en": "[Clever]\nFirst, the figure with the short hair. He must be the Dona named Etran who was recorded in the unofficial academy. He is the one who argued for Bifrost's recovery.",
         "pt": "[Esperto]\nPrimeiro, a figura de cabelo curto. Ele deve ser o Dona chamado Etran que foi registrado na academia não oficial. Foi ele que argumentou em favor da recuperação de Bifröst.",
         "es": "[Clever]\nPrimero, la figura con el cabello corto. Debe de ser el dona llamado Etran, que se registró en la academia no oficial. Fue quien intercedió en la recuperación de Bifrost."
     },
-    "_<f": {
+    "Xzxm": {
         "en": "[Clever]\nAnd the figure with the long hair, I'm sure he's a Dona named Robert. He's the head of the group that promoted the recovery of Bifrost and restored home tree.",
         "pt": "[Esperto]\nE a figura de cabelos compridos, estou certo que ele é um Dona chamado Robert. Ele é o chefe do grupo que promoveu a recuperação de Bifröst e restaurou a Yggdrasil.",
         "es": "[Clever]\nY la figura con el cabello largo… estoy seguro de que es el dona llamado Robert. Es el jefe del grupo que promovió la recuperación de Bifrost y restauró el Árbol del hogar."
     },
-    "`<f": {
+    "YDxm": {
         "en": "[Clever]\nThey were excluded from the official history records for their deep antagonism despite their profound contribution to the birth of Eclage. However...",
         "pt": "[Esperto]\nEles foram excluídos dos relatos da história oficial por seu enorme antagonismo apesar de sua profunda contribuição no nascimento de Eclage. Entretanto...",
         "es": "[Clever]\nSe excluyeron de los registros históricos oficiales por su profundo antagonismo, a pesar de su gran contribución al nacimiento de Eclage. Sin embargo…"
     },
-    "a<f": {
+    "YTxm": {
         "en": "[Clever]\nHow does it seem from your perspective? Eclage is operating so peacefully. It's way too normal for a city that has been antagonized by high-class Donas.",
         "pt": "[Esperto]\nO que acha disso visto da sua perspectiva? Eclage está operando tão pacificamente... É normal demais para uma cidade que foi antagonizada por Donas da classe alta.",
         "es": "[Clever]\n¿Cuál es tu punto de vista? Eclage funciona con tanta paz. Es demasiado normal para tratarse de una ciudad que fue antagonizada por donas de clase alta."
     },
-    "b<f": {
+    "Yjxm": {
         "en": "Doesn't really seem that way to me.",
         "pt": "Não é o que me parece.",
         "es": "No me parece que sea así."
     },
-    "c<f": {
+    "Yzxm": {
         "en": "It does seem peaceful.",
         "pt": "Parece pacífica.",
         "es": "Es verdad que parece tranquila."
     },
-    "d<f": {
+    "ZDxm": {
         "en": "[Clever]\nReally? But at least take a look at this place's home tree. It's doing just so well! And all of the plant life in Bifrost are vividly alive... If there was an antagonist force, it should have been impossible.",
         "pt": "[Esperto]\nSério? Mas pelo menos dê uma olhada na Yggdrasil desse lugar. Está indo tão bem!\nE toda a flora de Bifröst está tão viva e verdejante... Se houvesse uma força antagônica, isso teria sido impossível.",
         "es": "[Clever]\n¿De verdad? Pero, al menos, mira el Árbol del hogar de este lugar. ¡Le va tan bien! Y todas las plantas de Bifrost están llenas de vida… Si hubiera habido una fuerza enemiga, hubiera sido imposible."
     },
-    "e<f": {
+    "ZTxm": {
         "en": "[Clever]\nYes, it is just as you say. This place's home tree is alive and well. And the plant life of Bifrost are also vivacious...",
         "pt": "[Esperto]\nSim, é como você disse. A Yggdrasil desse lugar está viva e passando bem. E a flora de Bifröst também é vivaz...",
         "es": "[Clever]\nSí, es tal y como dices. El Árbol del hogar de este lugar está vivo y sano. Y las plantas de Bifrost están tan vigorosas…"
     },
-    "f<f": {
+    "Zjxm": {
         "en": "[Clever]\nIf there was really as much antagonism as to be excluded from the history, Eclage and Bifrost could not be the way they are now.",
         "pt": "[Esperto]\nSe realmente houvesse tanto antagonismo até o ponto de removê-lo da história, Eclage e Bifröst não poderiam ser desse jeito agora.",
         "es": "[Clever]\nSi realmente hubiera habido tanto antagonismo como para excluirlo de la historia, Eclage y Bifrost no podrían estar así ahora."
     },
-    "g<f": {
+    "Zzxm": {
         "en": "[Clever]\nThe explanations would not be enough with just the documents in this jail cell. Hold on a minute. I will let you know where there are book references that you can use to look it up yourself.",
         "pt": "[Esperto]\nAs explicações não seriam suficientes levando em conta apenas os documentos nessa cela. Espere um instante.\nVou te dizer onde há referências bibliográficas para que você possa ver pessoalmente.",
         "es": "[Clever]\nNo bastarían solo las explicaciones de los documentos en esta celda. Espera un momento. Te diré dónde hay referencias de libros que puedes usar para buscar por tu cuenta."
     },
-    "h<f": {
+    "aDxm": {
         "en": "^000099Clever scribbled a map on my hand. It looks like the place where the books are.^000000",
         "pt": "^000099Esperto rabisca um mapa na sua mão. Parece ser o lugar onde os livros estão.^000000",
         "es": "^000099Clever garabateó un mapa en mi mano. Parece el lugar donde están los libros.^000000"
     },
-    "i<f": {
+    "aTxm": {
         "en": "[Clever]\nYou are here.",
         "pt": "[Esperto]\nAí está você.",
         "es": "[Clever]\nEstás aquí."
     },
-    "j<f": {
+    "ajxm": {
         "en": "I came back after viewing those references.",
         "pt": "Voltei depois de ver as referências.",
         "es": "Volví después de ver esas referencias."
     },
-    "k<f": {
+    "azxm": {
         "en": "[Clever]\nLooks like you read quite a bit. How did you like that journal? Others claim that it is a third-rate journal, but the information in that journal is actually more accurate than legitimate journals.",
         "pt": "[Esperto]\nParece que você leu um bocado. O que achou da revista?\nOutros afirmam ser uma publicação de terceira, mas a informação nessa revista é mais precisa do que a de outras publicações legítimas.",
         "es": "[Clever]\nParece que lees bastante. ¿Qué te pareció ese diario? Algunos afirman que es un diario de mala categoría, pero en realidad su información es más precisa que la de los diarios legítimos."
     },
-    "l<f": {
+    "bDxm": {
         "en": "[Clever]\nIt's not that the journal itself is very systematic, but more so that it's not examined by the superiors because it's so negatively criticized for being a third-rate.",
         "pt": "[Esperto]\nNão é que a revista em si seja muito sistemática, mas é mais pelo fato de não ser examinada pelos superiores porque é tão negativamente criticada por ser uma terceira categoria.",
         "es": "[Clever]\nNo es que el diario en sí sea muy sistemático, sino que los superiores no lo examinan porque lo critican demasiado por ser de mala categoría."
     },
-    "m<f": {
+    "bTxm": {
         "en": "I didn't really discover much.",
         "pt": "Não esperava descobrir muito.",
         "es": "La verdad es que no descubrí mucho."
     },
-    "n<f": {
+    "bjxm": {
         "en": "I had a question...",
         "pt": "Tinha uma pergunta...",
         "es": "Quería preguntar…"
     },
-    "o<f": {
+    "bzxm": {
         "en": "[Clever]\nReally?\nI thought that you were a savvy adventurer, but I guess I thought wrong.",
         "pt": "[Esperto]\nSério?\nEu achei que você fosse experiente em aventuras, mas devo ter chutado errado.",
         "es": "[Clever]\n¿De verdad?\nPensé que eras un trotamundos experto, pero creo que me equivoqué."
     },
-    "p<f": {
+    "cDxm": {
         "en": "[Clever]\nHoh~ You seem like you discovered something. Great, what did you find there?",
         "pt": "[Esperto]\nUou~ Parece que você descobriu algo. Ótimo, o que você achou lá?",
         "es": "[Clever]\nOh. Parece que descubriste algo. Genial, ¿qué encontraste allí?"
     },
-    "q<f": {
+    "cTxm": {
         "en": "Are Dona and Papang in opposition?",
         "pt": "Os Dona e os Papang estão em oposição?",
         "es": "¿Las clases dona y papang son opositoras?"
     },
-    "r<f": {
+    "cjxm": {
         "en": "Ask about Etran and Robert.",
         "pt": "Perguntar sobre Etran e Robert.",
         "es": "Preguntar por Etran y Robert."
     },
-    "s<f": {
+    "czxm": {
         "en": "Do Laphines like Mayor Jun?",
         "pt": "Os Laphines gostam do Rei Jun?",
         "es": "¿A los laphines les gusta el mayor Jun?"
     },
-    "t<f": {
+    "dDxm": {
         "en": "[Clever]\nNo, Dona and Papang are just words for distinction, not discrimination. Some without thought use them for fun but no one really thinks that way.",
         "pt": "[Esperto]\nNão, Dona e Papang são apenas palavras para distinção, não discriminação. Alguns, sem pensar, usam-na por diversão, mas ninguém pensa dessa forma.",
         "es": "[Clever]\nNo, dona y papang son solo palabras de distinción, no de discriminación. Algunos sin pensarlo las usan para divertirse, pero nadie piensa realmente así."
     },
-    "u<f": {
+    "dTxm": {
         "en": "[Clever]\nIf you walk around talking about those things without caution, you'll become like me. Yes, certainly, I'm not in here because of that. Like I said before, I was charged for anonymous defacement of properties...",
         "pt": "[Esperto]\nSe você andar por aí falando sobre essas coisas sem cuidado, acabará como eu.\nSim, certamente, não estou aqui por causa disso. Como eu disse antes, fui acusado de depredação de propriedades...",
         "es": "[Clever]\nSi hablas por ahí de esas cosas sin cuidado, terminarás como yo. Sí, por supuesto, no estoy aquí por eso. Como dije antes, me acusaron de alterar propiedades de forma anónima…"
     },
-    "v<f": {
+    "djxm": {
         "en": "^000099I ended up imagining Clever's daily life of spray painting the walls, remembering the ones I saw in Monthly Eclage. ^000000",
         "pt": "^000099Acabei imaginando a vida diária de Esperto, pichando paredes, e me lembrei das que vi nas notícias de Eclage. ^000000",
         "es": "^000099Acabé imaginando a Clever en el día a día pintando paredes con aerosol, y recordando las que vi en Monthly Eclage. ^000000"
     },
-    "w<f": {
+    "dzxm": {
         "en": "[Clever]\nOh, you talking about Mayor Jun? Just call him His Majesty. He is an idol-like existence to us.",
         "pt": "[Esperto]\nAh, você está falando sobre o Rei Jun? Apenas chame-o de Sua Majestade. Ele é uma existência superior, como um ídolo para nós.",
         "es": "[Clever]\nOh, ¿estás hablando del mayor Jun? Llámalo Su Majestad. Es un ídolo para nosotros."
     },
-    "x<f": {
+    "eDxm": {
         "en": "[Clever]\nOf course, pure scholars like Hiel and I don't care much for him. I heard he was very beautiful, but I don't really care about the current world.",
         "pt": "[Esperto]\nÉ claro, estudiosos tradicionais como Hiel não ligam muito para ele. Ouvi dizer que ele era muito bonito, mas não me importo muito com o mundo atual.",
         "es": "[Clever]\nPor supuesto, a los eruditos puros, como Hiel y yo, no nos importa demasiado. Escuché que era muy hermoso, pero no me interesa mucho el mundo actual."
     },
-    "y<f": {
+    "eTxm": {
         "en": "^000099Along with that, Clever rattled on about things that I had no idea about like 'Valkyries are best. Uncle loves so much'.^000000",
         "pt": "^000099Seguindo nessa linha, Esperto fica enrolando sobre coisas que não faço ideia como 'Valquírias são as melhores. O tio ama tanto'.^000000",
         "es": "^000099Además, Clever habló sin parar de cosas que yo desconocía, como Las valkirias son lo mejor. El tío las quiere mucho.^000000"
     },
-    "z<f": {
+    "ejxm": {
         "en": "[Clever]\nYou even looked up stories about Etran and Robert. In fact, we know that most Laphines here were established by the elder assemblies that influenced the noble forces at the time.",
         "pt": "[Esperto]\nVocê até chegou a procurar histórias sobre Etran e Robert. Na verdade, sabemos que a maioria dos Laphines aqui foram estabelecidos pelas assembleias de anciões que influenciaram as forças de nobres na época.",
         "es": "[Clever]\nIncluso buscaste historias sobre Etran y Robert. De hecho, sabemos que aquí la mayoría de los laphines fueron establecidos por las asambleas de ancianos que influían en las fuerzas nobles de la época."
     },
-    "{<f": {
+    "ezxm": {
         "en": "[Clever]\nHowever, the real history was built on the sacrifices of the young Laphines. At first, as a historian, I could not accept that truth.",
         "pt": "[Esperto]\nEntretanto, a verdadeira história foi construída com o sacrifício de jovens Laphines. No começo, como historiador, não pude aceitar essa verdade.",
         "es": "[Clever]\nSin embargo, la verdadera historia se construyó sobre los sacrificios de los jóvenes laphines. Al principio, como historiador, no podía aceptar esa verdad."
     },
-    "|<f": {
+    "fDxm": {
         "en": "[Clever]\nUnofficial documents that are being constantly discovered always talk about the sacrifies of two young Laphines, so how could they be believed as legitimate?",
         "pt": "[Esperto]\nDocumentos não oficiais que estão sendo descobertos constantemente sempre falam sobre o sacrifício de dois jovens Laphines, então como poderiam ser aceitos como legítimos?",
         "es": "[Clever]\nLos documentos no oficiales que se descubren todo el tiempo hablan siempre del sacrificio de dos jóvenes laphines, así que ¿cómo podrían creerse legítimos?"
     },
-    "}<f": {
+    "fTxm": {
         "en": "[Clever]\nSo I tried to present on the topic by writing a related paper but... As expected, the outcome was terrible.",
         "pt": "[Esperto]\nTentei apresentar o assunto escrevendo um artigo relacionado, mas... Como esperado, o resultado foi terrível.",
         "es": "[Clever]\nAsí que intenté abordar el tema mediante un artículo, pero… Como era de esperar, el resultado fue terrible."
     },
-    "~<f": {
+    "fjxm": {
         "en": "[Clever]\nI mean what else could be done? It must have been ridiculous for them since a young scholar was insisting on his ideas just because he didn't like the recorded history.",
         "pt": "[Esperto]\nQuer dizer, o que mais poderia ser feito? Deve ter sido ridículo para eles, já que um jovem estudioso insistia em sua ideias só porque não gostava da história registrada.",
         "es": "[Clever]\nO sea, ¿qué otra cosa podría hacerse? Debió de resultarles ridículo que un joven erudito insistiera con sus ideas solo porque no le gustaba la historia registrada."
     },
-    "<f": {
+    "fzxm": {
         "en": "[Clever]\nAfter losing my mind due to the presentation's failure, I was imprisoned after spray painting all Yai's of Eclage with",
         "pt": "[Esperto]\nDepois de perder a cabeça com o fracasso da apresentação, fui aprisionado por pichar todos os Yais de Eclage com Comam sujeira, seus Laphines bocós da Academia Oficial!\nBem, eu poderia ter evitado minha captura.",
         "es": "[Clever]\nTras perder la cabeza por el fracaso de la presentación, me encarcelaron por haber pintado con aerosol todos los yais de Eclage…"
@@ -1394,597 +1439,642 @@
         "pt": "[Hiel]\nEnquanto você estava fora, tentei construir um reator de fenda portátil, mas acho que temos um pequeno problema.",
         "es": "[Hiel]\nMientras no estabas, intenté construir un reactor de grieta portátil, pero creo que hay un pequeño problema."
     },
-    "\u0000=f": {
+    "AD1m": {
         "en": "A slight problem?",
         "pt": "Um pequeno problema?",
         "es": "¿Un pequeño problema?"
     },
-    "\u0001=f": {
+    "AT1m": {
         "en": "[????]\nWho in the world are you! How are you looking just like me? Answer me! Are you an imposter established by the Elder Assembly to be used after assassinating me?!",
         "pt": "[????]\nQuem você pensa que é? Como você tem o mesmo rosto que eu? Responda! Você é um impostor colocado pela Assembleia dos Anciões para ser usado depois de me assassinar?!?",
         "es": "[???]\n¿Quién demonios eres tú? ¿Cómo te pareces a mí? ¡Contéstame! ¡¿Eres un impostor que envió la Asamblea de Ancianos para trabajar para ellos después de asesinarme?!"
     },
-    "\u0002=f": {
+    "Aj1m": {
         "en": "[Hiel]\nExcuse me, please calm down and listen to me. My name is Hiel and the Elder Assembly no longer exists in the world.",
         "pt": "[Hiel]\nCom licença, por favor, se acalme e me escute. Meu nome é Hiel, e a Assembleia dos Anciões não existe mais.",
         "es": "[Hiel]\nPerdón. Por favor, cálmate y escúchame. Me llamo Hiel y la Asamblea de Ancianos ya no existe."
     },
-    "\u0003=f": {
+    "Az1m": {
         "en": "[Hiel]\nYou see... This is very complicated to explain... Where do I start...",
         "pt": "[Hiel]\nVeja... Isso é muito complicado para explicar... Por onde começar...",
         "es": "[Hiel]\nVerás… Esto es muy complicado de explicar… No sé por dónde empezar…"
     },
-    "\u0004=f": {
+    "BD1m": {
         "en": "^000099A Dona that looks surprisingly similar to Hiel (^990000Although he seems so much more dignified...^000099) is holding Hiel by his collar. Who could that Dona be?^000000",
         "pt": "^000099Um Dona que é surpreendentemente parecido com Hiel (^990000Apesar de ser muito mais solene...^000099) está agarrando Hiel pelo colarinho. Quem poderia ser esse Dona?^000000",
         "es": "^000099Un dona que sorprendentemente se parece mucho a Hiel (^990000aunque él parece mucho más digno…^000099) está sujetando a Hiel del cuello. ¿Quién podría ser ese dona?^000000"
     },
-    "\u0005=f": {
+    "BT1m": {
         "en": "I'm sorry, but who are you?",
         "pt": "Sinto muito, mas quem é você?",
         "es": "Lo siento, pero ¿quién eres?"
     },
-    "\u0006=f": {
+    "Bj1m": {
         "en": "[????]\nMy name is ^000099Robert^000000.\nI am a high-level Laphine Life Restorer. How are you related to this look-alike of mine?",
         "pt": "[????]\nMeu nome é ^000099Robert^000000.\nEu sou um Esplêndido Restaurador de Vida de alto nível. Qual é a sua relação com esse sósia meu?",
         "es": "[???]\nMe llamo ^000099Robert^000000.\nSoy un laphine restaurador de vida de alto nivel. ¿Qué relación tienes con este doble mío?"
     },
-    "\u0007=f": {
+    "Bz1m": {
         "en": "^000099Robert?... Is this the Life Restorer whose sillouette I've been seeing all this time?^000000",
         "pt": "^000099Robert?... É esse o Restaurador de Vida cuja silhueta eu estive vendo todo esse tempo?^000000",
         "es": "^000099¿Robert?… ¿Eres el restaurador de vida cuyo calco he estado viendo todo este tiempo?^000000"
     },
-    "\b=f": {
+    "CD1m": {
         "en": "Explain the situation until now.",
         "pt": "Explique a situação até agora.",
         "es": "Explicar la situación hasta ahora."
     },
-    "=f": {
-        "en": "[Hiel]\n^000099(Holding up a very worn out pen)^000000 The pen that Sir Robert was using is still here as proof even though we lost contact with him.",
-        "pt": "[Hiel]\n^000099(Levantando uma caneta muito gasta)^000000 A caneta que Sir Robert estava usando ainda está aqui como prova, apesar de termos perdido contato com ele.",
-        "es": "[Hiel]\n^000099*Levantando un bolígrafo muy gastado*^000000 El bolígrafo que sir Robert usaba sigue aquí como prueba, aunque hayamos perdido el contacto con él."
+    "CT1m": {
+        "en": "[Robert]\nHmm, this is very difficult for me to comprehend. So you are saying that you are from thousands of years away? My head is beginning to hurt.",
+        "pt": "[Robert]\nHmm, isso é algo bem difícil de compreender. Então você está falando que veio de milhares de anos no futuro? Minha cabeça está começando a doer.",
+        "es": "[Robert]\nMmm, esto me resulta muy difícil de comprender. ¿Estás diciendo que vienes de miles de años atrás? Me empieza a doler la cabeza."
     },
-    "\u000e=f": {
+    "Cj1m": {
+        "en": "[{0}]\nYes, but if I were to let you know another thing...",
+        "pt": "[{0}]\nSim, mas e se eu te dissesse outra coisa...",
+        "es": "[{0}]\nSí, pero si te dijera otra cosa…"
+    },
+    "Cz1m": {
+        "en": "[{0}]\nThe engineer scientist Hiel and Sir Robert are very similar in appearance, but the way he carries himself is extremely different. So please refrain yourself from stating that the two look alike. It hurts me to listen.",
+        "pt": "[{0}]\nEnquanto esse cientista engenheiro Hiel e você, Sir Robert, são muito parecidos em aparência, a maneira como se portam é extremamente diferente.\nDe fato, você é muito mais solene que Hiel. Então, por favor, evite afirmar que vocês dois se parecem. Me dói escutar isso.",
+        "es": "[{0}]\nHiel, ingeniero y científico, y sir Robert se parecen mucho en lo que respecta a la apariencia física, pero su forma de comportarse es sumamente diferente. Así que evita afirmar que ambos se parecen. Me duele escucharlo."
+    },
+    "DD1m": {
+        "en": "[Robert]\nI thought I was looking into a mirror.",
+        "pt": "[Robert]\nEu pensei que estava olhando em um espelho.",
+        "es": "[Robert]\nPensé que me estaba mirando en un espejo."
+    },
+    "DT1m": {
+        "en": "[Hiel]\nTo hear that we are so different in quality, I am quite offended... At any rate, let me explain the current situation.",
+        "pt": "[Hiel]\nOuvir que temos personalidades tão diferentes me ofende... De qualquer forma, deixe-me explicar a situação atual.",
+        "es": "[Hiel]\nEscuchar que nuestra personalidad es tan diferente, me ofende bastante… En cualquier caso, déjame explicar la situación actual."
+    },
+    "Dj1m": {
         "en": "^000099Hiel added his explanation of his research up to now. Robert seemed to follow most of the story.^000000",
         "pt": "^000099Hiel acrescenta a explicação de sua pesquisa até agora. Robert parece entender a maior parte da história.^000000",
         "es": "^000099Hiel explicó los detalles de su investigación hasta el momento. Robert parecía seguir la mayor parte de la historia.^000000"
     },
-    "\u000f=f": {
+    "Dz1m": {
         "en": "[Hiel]\nThat's the basic gist. Anyways, I'm having trouble remaining calm. I can't believe you, Sir Robert, really existed.",
         "pt": "[Hiel]\nEssa é a versão resumida. De qualquer forma, estou tendo problemas para permanecer calmo. Não posso acreditar que você, Sir Robert, realmente existiu.",
         "es": "[Hiel]\nEso es lo esencial. En fin, me cuesta mantener la calma. No puedo creer que realmente existieras, sir Robert."
     },
-    "\u0010=f": {
+    "ED1m": {
         "en": "[Hiel]\nYou are like a legend to all engineering scientists. It's almost difficult to believe a person like you existed in the past.",
         "pt": "[Hiel]\nVocê é como uma lenda para todos os cientistas-engenheiros. É difícil acreditar que uma pessoa como você existiu no passado.",
         "es": "[Hiel]\nEres como una leyenda para todos los científicos ingenieros. Es muy difícil creer que una persona como tú existiera en el pasado."
     },
-    "\u0011=f": {
+    "ET1m": {
         "en": "[Hiel]\nIt's just so incredible how you were able to construct home tree in its amazing form by amalgamating the life and the setting.",
         "pt": "[Hiel]\nÉ que é tão incrível como você pôde construir a Yggdrasil em sua forma resplandecente mesclando a vida e seu entorno.",
         "es": "[Hiel]\nEs tan increíble cómo lograste construir el Árbol del hogar en su asombrosa forma al amalgamar la vida y el entorno."
     },
-    "\u0012=f": {
+    "Ej1m": {
         "en": "[Robert]\nhome tree... I can't believe it grew back... It was nearly an impossible task. It has restored to its full form in the future of thousands of years later?",
         "pt": "[Robert]\nYggdrasil... Não acredito que ela cresceu outra vez... Foi uma tarefa quase impossível. Ela se restaurou até sua forma completa no futuro, milhares de anos depois?",
         "es": "[Robert]\nEl Árbol del hogar… No puedo creer que volvió a crecer… Era una tarea casi imposible. ¿Se restauró en su totalidad miles de años más tarde en el futuro?"
     },
-    "\u0013=f": {
+    "Ez1m": {
         "en": "It's true. I can show it to you if you'd like.",
         "pt": "É verdade. Posso mostrá-la, se quiser.",
         "es": "Es verdad. Puedo mostrarte si quieres."
     },
-    "\u0014=f": {
+    "FD1m": {
         "en": "[Robert]\nI thought it was impossible. In the end, it actually succeeded in the future. Please take me to home tree immediately! If you lied to me, I won't let you off easy.",
         "pt": "[Robert]\nAchei que fosse impossível. No fim, realmente tivemos sucesso no futuro. Por favor, me leve até a Yggdrasil imediatamente! Se mentiu para mim, não deixarei você escapar tão fácil.",
         "es": "[Robert]\nPensé que era imposible. Al final, tuvo éxito en el futuro. ¡Llévame al Árbol del hogar ahora! Si me mentiste, no te dejaré ir fácilmente."
     },
-    "\u0015=f": {
+    "FT1m": {
         "en": "[Hiel]\nHis personality is like fire. If you would like to lead the way to home tree, please exit this place and go to the center of the plaza.",
         "pt": "[Hiel]\nSua personalidade é como fogo. Se quiser se dirigir para a Yggdrasil, por favor, saia desse lugar e vá até o centro da plaza.",
         "es": "[Hiel]\nSu personalidad se parece al fuego. Si deseas guiar el camino hacia el Árbol del hogar, sal de este lugar y dirígete al centro de la plaza."
     },
-    "\u0016=f": {
+    "Fj1m": {
         "en": "[Hiel]\nHmm... I think this is the problematic area here. Darn, I should have had studied more.",
         "pt": "[Hiel]\nHum... Acho que essa é a área problemática aqui. Droga, deveria ter estudado mais.",
         "es": "[Hiel]\nMmm… Creo que esta es la zona del conflicto. Maldición, debería haber estudiado más."
     },
-    "\u0017=f": {
+    "Fz1m": {
         "en": "Robert disappeared during the conversation.",
         "pt": "Robert desapareceu durante a conversa.",
         "es": "Robert desapareció durante la conversación."
     },
-    "\u0018=f": {
+    "GD1m": {
         "en": "[Hiel]\nOh, that error. Hoh... Oh no! It's a problem that I did not anticipate.",
         "pt": "[Hiel]\nAh, esse erro. Oh... Oh, não! Esse é um problema que não tinha previsto.",
         "es": "[Hiel]\nOh, ese error. Oh… ¡Ay, no! Es un problema que no había previsto."
     },
-    "\u0019=f": {
+    "GT1m": {
         "en": "That sounds very risky...",
         "pt": "Isso parece ser muito arriscado...",
         "es": "Eso suena muy peligroso…"
     },
-    "\u001a=f": {
+    "Gj1m": {
         "en": "[Hiel]\nAhahhaa, no, it's not like that. I just found out a few minor problems while operating the portable rift reactor.",
         "pt": "[Hiel]\nAhahahaha, não, não é nada assim. Eu acabei de encontrar alguns pequenos problemas enquanto operava o reator de fenda portátil.",
         "es": "[Hiel]\nAjá, no, no es así. Descubrí algunos pequeños problemas mientras operaba el reactor de grieta portátil."
     },
-    "\u001b=f": {
+    "Gz1m": {
         "en": "[Hiel]\nThis thing is made portable, so the output is not very strong. In other words, the range of reaction is very limited.",
         "pt": "[Hiel]\nEssa coisa é portátil, então a saída de energia não é das maiores. Em outras palavras, seu alcance é muito limitado.",
         "es": "[Hiel]\nAl ser portátil, la potencia no es muy fuerte. En otras palabras, el alcance de reacción es muy limitado."
     },
-    "!=f": {
+    "HD1m": {
+        "en": "[Hiel]\nTo find Sir Robert, this machine's chronological frequency is set at the time right when we encountered him. We will be able to meet him many times over.",
+        "pt": "[Hiel]\nPara encontrar Sir Robert, a frequência cronológica dessa máquina está ajustada para o momento em que o encontramos. Vamos poder encontrá-lo muitas vezes.",
+        "es": "[Hiel]\nPara encontrar a sir Robert, la frecuencia cronológica de esta máquina se fija en el momento justo en que lo encontramos. Podremos reunirnos con él muchas veces."
+    },
+    "HT1m": {
+        "en": "[Hiel]\nThe only problem is that... it has to be at a designated location.",
+        "pt": "[Hiel]\nO único problema é que... precisa ser em um local determinado.",
+        "es": "[Hiel]\nEl único problema es que… tiene que ser en un lugar específico."
+    },
+    "Hj1m": {
+        "en": "Does that mean it can't be at any other location?",
+        "pt": "Não pode ser em outro lugar?",
+        "es": "¿Significa que no puede ser en ningún otro lugar?"
+    },
+    "Hz1m": {
+        "en": "[Hiel]\nI think so, according to my estimation. Entities with life cannot communicate beyond the range of this reactor while inanimate objects are not affected the same way.",
+        "pt": "[Hiel]\nAcho que sim, de acordo com minhas estimativas. Entidades vivas não podem se comunicar além do alcance desse reator, enquanto objetos inanimados não são afetados da mesma forma.",
+        "es": "[Hiel]\nAsí es, según mi estimación. Las entidades con vida no pueden comunicarse más allá del alcance de este reactor, mientras que los objetos inanimados no se ven afectados del mismo modo."
+    },
+    "ID1m": {
+        "en": "[Hiel]\n^000099(Holding up a very worn out pen)^000000 The pen that Sir Robert was using is still here as proof even though we lost contact with him.",
+        "pt": "[Hiel]\n^000099(Levantando uma caneta muito gasta)^000000 A caneta que Sir Robert estava usando ainda está aqui como prova, apesar de termos perdido contato com ele.",
+        "es": "[Hiel]\n^000099*Levantando un bolígrafo muy gastado*^000000 El bolígrafo que sir Robert usaba sigue aquí como prueba, aunque hayamos perdido el contacto con él."
+    },
+    "IT1m": {
         "en": "^000099When did he steal that... ^000000",
         "pt": "^000099Quando ele roubou isso...? ^000000",
         "es": "^000099¿Cuándo robó eso…? ^000000"
     },
-    "\"=f": {
+    "Ij1m": {
         "en": "Then could we also meet his contemporary, Etran?",
         "pt": "Poderíamos encontrar seu contemporâneo?",
         "es": "Entonces, ¿podríamos también conocer a su contemporáneo, Etran?"
     },
-    "#=f": {
+    "Iz1m": {
         "en": "[Hiel]\nTheorectically, we could. However, we have to go to the location where he may have been. No matter how many times we operate this reactor here, we can only meet Robert.",
         "pt": "[Hiel]\nTeoricamente, sim. Entretanto, teremos de ir ao local no qual ele teria estado. Não importa quantas vezes operamos esse reator aqui, podemos apenas encontrar Robert.",
         "es": "[Hiel]\nTeóricamente, podríamos. Sin embargo, tenemos que ir al lugar donde pudo haber estado. No importa cuántas veces operemos este reactor, solo podremos reunirnos con Robert."
     },
-    "$=f": {
+    "JD1m": {
         "en": "[Hiel]\nWe could expand this machine's output to increase the range, but at this time it's not possible. We can't do much else for now.",
         "pt": "[Hiel]\nPoderíamos expandir a saída dessa máquina para aumentar seu alcance, mas por enquanto isso não é possível. Não podemos fazer muito mais por enquanto.",
         "es": "[Hiel]\nPodríamos incrementar la potencia de esta máquina para ampliar el alcance, pero en este momento no es posible. No podemos hacer mucho más por ahora."
     },
-    "%=f": {
+    "JT1m": {
         "en": "I see, that's too bad.",
         "pt": "Entendo, é uma pena.",
         "es": "Ya veo, qué pena."
     },
-    "&=f": {
+    "Jj1m": {
         "en": "Would you let me see that reactor for a minute?",
         "pt": "Posso olhar o reator?",
         "es": "¿Me dejarías ver el reactor un momento?"
     },
-    "'=f": {
+    "Jz1m": {
         "en": "[Hiel]\nI don't know how long it will take. It would be difficult to meet Etran and Robert simultaneously for now.",
         "pt": "[Hiel]\nNão sei quanto tempo levará. Será difícil encontrar Etran e Robert simultaneamente por enquanto.",
         "es": "[Hiel]\nNo sé cuánto tiempo llevará. Por ahora, sería difícil reunirse simultáneamente con Etran y Robert."
     },
-    "(=f": {
+    "KD1m": {
         "en": "[Hiel]\nYou are not thinking of taking this out to Bifrost, are you? I think you are taking things too far. It's probably too dangerous.",
         "pt": "[Hiel]\nVocê não está pensando em levar isso até Bifröst, está? Eu acho que está levando isso longe demais. Provavelmente, seria muito perigoso.",
         "es": "[Hiel]\nNo estarás pensando en llevar esto a Bifrost, ¿verdad? Creo que te estás sobrepasando. Probablemente sea demasiado peligroso."
     },
-    ")=f": {
+    "KT1m": {
         "en": "I am a person who made it all the way here alive and well.",
         "pt": "Cheguei aqui a salvo.",
         "es": "Soy una persona que llegó hasta aquí sana y salva."
     },
-    "*=f": {
+    "Kj1m": {
         "en": "Don't you want to test out your theory?",
         "pt": "Não quer testar sua teoria?",
         "es": "¿No quieres poner a prueba tu teoría?"
     },
-    "+=f": {
+    "Kz1m": {
         "en": "[Hiel]\nNo, I'm not worried about you. I'm worried that this precious reactor will break.\nWho's worrying about you?",
         "pt": "[Hiel]\nNão, não estou preocupado com você. Estou preocupado que esse reator precioso quebre.\nQuem está se preocupando com você?",
         "es": "[Hiel]\nNo, no estoy preocupado por ti. Me preocupa que este precioso reactor se rompa.\n¿Quién se preocupa por ti?"
     },
-    ",=f": {
+    "LD1m": {
         "en": "[Hiel]\nHmm...",
         "pt": "[Hiel]\nHum...",
         "es": "[Hiel]\nMmm…"
     },
-    "-=f": {
+    "LT1m": {
         "en": "[Hiel]\nArg...\n(It is so obvious that Hiel is genuinely in a dilemma)",
         "pt": "[Hiel]\nArgh...\n(É bem óbvio que Hiel está genuinamente incomodado)",
         "es": "[Hiel]\nArgh…\n(Es obvio que Hiel se enfrenta a un verdadero dilema)."
     },
-    ".=f": {
+    "Lj1m": {
         "en": "Surely, it is dangerous. But what you're saying is right. The engineer's blood that runs through me wants to test this machine out.",
         "pt": "[Hiel]\nClaro, é perigoso. Mas o que você está dizendo está certo. O sangue de engenheiro que corre pelas minhas veias quer testar a máquina.",
         "es": "Sin duda, es peligroso. Pero lo que dices es cierto. La sangre de ingeniero que corre por mis venas quiere poner a prueba esta máquina."
     },
-    "/=f": {
+    "Lz1m": {
         "en": "[Hiel]\nArg. Well, it can't be helped! Please be careful with this! While I do have a spare, that's the only one with the correct chronological frequency settings!",
         "pt": "[Hiel]\nArgh... Bem, não tenho como evitar! Por favor, tenha cuidado com isso! Apesar de ter um extra, esse é o único com as configurações de frequências cronológicas corretas!",
         "es": "[Hiel]\nArgh. Bueno, ¡no se puede evitar! Por favor, ¡ten cuidado con esto! Aunque tengo uno más, ¡este es el único que tiene los ajustes de frecuencia cronológica correctos!"
     },
-    "0=f": {
+    "MD1m": {
         "en": "^000099Hiel's rift reactor was obtained. The energy from the reactor feels like it's channeling through the body.",
         "pt": "^000099O reator de fenda de Hiel foi obtido. A energia do reator parece estar sendo encaminhada pelo corpo.",
         "es": "^000099Conseguiste el reactor de grieta de Hiel. Parece como si la energía del reactor se canalizara a través del cuerpo."
     },
-    "1=f": {
+    "MT1m": {
         "en": "You gained experience points and job experience points.^000000",
         "pt": "Você ganhou pontos de experiência e pontos de experiência de classe.^000000",
         "es": "Ganaste puntos de experiencia y puntos de experiencia de clase.^000000"
     },
-    "2=f": {
+    "Mj1m": {
         "en": "[Hiel]\nPlease handle the reactor with care. That's the only one we can use at this time...",
         "pt": "[Hiel]\nPor favor, tome cuidado com esse reator. É o único que podemos usar por enquanto...",
         "es": "[Hiel]\nManipula el reactor con cuidado. Por el momento, es el único que podemos usar…"
     },
-    "3=f": {
+    "Mz1m": {
         "en": "[Hiel]\nYou're back.{0}While you were gone, I added various functionalities onto the spare rift reactor.",
         "pt": "[Hiel]\nVocê voltou! {0}, enquanto estava fora, eu adicionei diversas funcionalidades no reator de fenda reserva.",
         "es": "[Hiel]\nVolviste. {0} Mientras no estabas, agregué varias funcionalidades al reactor de grieta de repuesto."
     },
-    "4=f": {
+    "ND1m": {
         "en": "[Hiel]\nNow the rift will react wherever you are at the speed of light. Also infinite data transfer is now made available. Ah, what should I call this?",
         "pt": "[Hiel]\nAgora a fenda reagirá toda vez que você atingir a velocidade da luz. E a transferência infinita de dados agora está disponível. Ah, como devo batizá-lo?",
         "es": "[Hiel]\nAhora la grieta reaccionará, donde quiera que estés, a la velocidad de la luz. Además, es posible transferir una cantidad infinita de datos. Ah, ¿cómo debería llamarlo?"
     },
-    "5=f": {
+    "NT1m": {
         "en": "Can we obtain a leaf of home tree?",
         "pt": "Podemos obter uma folha da Yggdrasil?",
         "es": "¿Podemos conseguir una hoja del Árbol del hogar?"
     },
-    "6=f": {
+    "Nj1m": {
         "en": "[Hiel]\nHuh? Even if the reactor were to be very capable, it can't possibly do something like creating a home tree leaf. That just couldn't be. This is merely a communicator.",
         "pt": "[Hiel]\nHein? Mesmo que o reator seja muito capaz, ele não poderia fazer algo como criar uma Yggdrasil. Isso simplesmente não é possível. Ele é meramente um comunicador.",
         "es": "[Hiel]\n¿Cómo? Aunque el reactor fuera muy capaz, no es posible que haga algo como crear una hoja del Árbol del hogar. Eso no sería posible. No es más que un simple comunicador."
     },
-    "7=f": {
+    "Nz1m": {
         "en": "Explain to him the promise made with Etran.",
         "pt": "Falar sobre a promessa feita a Etran.",
         "es": "Explicarle la promesa que hicieron con Etran."
     },
-    "8=f": {
+    "OD1m": {
         "en": "[Hiel]\nHmm, even so, that's very difficult. Any action that harms a home tree leaf is illegal in Eclage. The consequence is immediate exile.",
         "pt": "[Hiel]\nHmm, mesmo assim, isso é bem difícil. Qualquer ação que fira a folha da Yggdrasil é ilegal em Eclage. A consequência seria exílio imediato.",
         "es": "[Hiel]\nMmm, de todos modos, es muy difícil. Cualquier acción que dañe una hoja del Árbol del hogar es ilegal en Eclage. La consecuencia es el exilio inmediato."
     },
-    "9=f": {
+    "OT1m": {
         "en": "[Hiel]\nBesides, dried up home tree leaves don't just drop to the ground, but transform into life energy and spread throughout the land. It's impossible to even pick them up as dried leaves.",
         "pt": "[Hiel]\nAlém disso, folhas secas da Yggdrasil não caem simplesmente no chão, mas se transformam em energia vital e se espalham pela terra. É impossível até mesmo recolher folhas secas.",
         "es": "[Hiel]\nAdemás, las hojas secas del Árbol del hogar no caen simplemente al suelo, sino que se transforman en energía vital y se esparcen por la tierra. Incluso es imposible recogerlas como hojas secas."
     },
-    ":=f": {
+    "Oj1m": {
         "en": "[Hiel]\nHmm... I wonder if there's a way.",
         "pt": "[Hiel]\nHum... Me pergunto se há alguma forma...",
         "es": "[Hiel]\nMmm… Me pregunto si hay alguna manera."
     },
-    ";=f": {
+    "Oz1m": {
         "en": "[Hiel]\nHmm...Hmm...",
         "pt": "[Hiel]\nHmm...hmm...",
         "es": "[Hiel]\nMmm… Mmm…"
     },
-    "<=f": {
+    "PD1m": {
         "en": "[Hiel]\nMaybe...\nThis is just a maybe.",
         "pt": "[Hiel]\nTalvez...\nÉ só um talvez.",
         "es": "[Hiel]\nTal vez…\nEsto es solo un tal vez."
     },
-    "==f": {
+    "PT1m": {
         "en": "[Hiel]\nIt won't be illegal if the creator of home tree himself hands you its leaf.",
         "pt": "[Hiel]\nNão seria ilegal se o criador da Yggdrasil em pessoa te desse sua folha.",
         "es": "[Hiel]\nNo será ilegal si el propio creador del Árbol del hogar te da una de sus hojas."
     },
-    ">=f": {
+    "Pj1m": {
         "en": "You mean Robert?",
         "pt": "Você quer dizer Robert?",
         "es": "¿Te refieres a Robert?"
     },
-    "?=f": {
+    "Pz1m": {
         "en": "[Hiel]\nThat's right. I don't know why I didn't think of that earlier. If it's Robert who gives you the home tree leaf, it would be perfectly fine.",
         "pt": "[Hiel]\nIsso mesmo. Eu não sei por que não pensei nisso antes. Se Robert te der a folha da Yggdrasil, será perfeitamente aceitável.",
         "es": "[Hiel]\nExacto. No sé por qué no se me ocurrió antes. Si es Robert quien te da la hoja del Árbol del hogar, todo funcionará a la perfección."
     },
-    "@=f": {
+    "QD1m": {
         "en": "[Hiel]\nLet's try channeling our way to Robert. Well... This isn't exactly to test out the machine's new functionality. (Hesitating)",
         "pt": "[Hiel]\nVamos tentar canalizar nosso caminho até Robert. Bem... Isso não é exatamente para testar a nova funcionalidade da nossa máquina. (Hesitando)",
         "es": "[Hiel]\nIntentemos canalizar nuestro camino hacia Robert. Bueno… Esto no es precisamente para probar la nueva funcionalidad de la máquina. *Dudando*"
     },
-    "A=f": {
+    "QT1m": {
         "en": "I'll look for another way.",
         "pt": "Vou buscar outra solução.",
         "es": "Buscaré otra manera."
     },
-    "B=f": {
+    "Qj1m": {
         "en": "Let's try communicating with Robert.",
         "pt": "Vamos tentar falar com Robert.",
         "es": "Intentemos comunicarnos con Robert."
     },
-    "C=f": {
+    "Qz1m": {
         "en": "[Hiel]\nHmm, that's too bad. If you are thinking of attacking home tree, it's way too dangerous. You'll just be jailed.",
         "pt": "[Hiel]\nHmm, é uma pena. Se você está pensando em atacar a Yggdrasil, é perigoso demais. Você acabará na prisão.",
         "es": "[Hiel]\nMmm, qué lástima. Si estás pensando en atacar el Árbol del hogar, es demasiado peligroso. Te encarcelarán."
     },
-    "D=f": {
+    "RD1m": {
         "en": "[Hiel]\nAlright!! Awesome, awesome!\nNow, shall we start our communication? Place your hand on the reactor here.",
         "pt": "[Hiel]\nMuito bem!!! Incrível, incrível!\nAgora, vamos começar nossa comunicação? Coloque sua mão no reator, aqui.",
         "es": "[Hiel]\n¡Muy bien! ¡Impresionante, impresionante!\nAhora, ¿empezamos nuestra comunicación? Pon tu mano aquí en el reactor."
     },
-    "E=f": {
+    "RT1m": {
         "en": "[Hiel]\nFocus on the rift reactor.",
         "pt": "[Hiel]\nTraga seu foco ao reator da fenda.",
         "es": "[Hiel]\nConcéntrate en el reactor de grieta."
     },
-    "F=f": {
+    "Rj1m": {
         "en": "[Hiel]\nIt always feels like looking into a mirror whenever I meet Sir Robert...",
         "pt": "[Hiel]\nÉ sempre como olhar em um espelho quando vejo Sir Robert...",
         "es": "[Hiel]\nCada vez que veo a sir Robert, siento como si me mirara en un espejo…"
     },
-    "G=f": {
+    "Rz1m": {
         "en": "Not in the least bit delightful...",
         "pt": "Nem um pouco agradável...",
         "es": "Para nada encantador…"
     },
-    "H=f": {
+    "SD1m": {
         "en": "[Hiel]\nI only met him twice, and I feel really familiar and somewhat nostalgic when I meet him. I don't know how to call it. It's just a very familiar feeling.",
         "pt": "[Hiel]\nEu só o encontrei duas vezes, e sinto algo familiar e quase nostálgico quando o vejo. Não sei como explicar. É apenas um sentimento familiar.",
         "es": "[Hiel]\nSolo lo vi dos veces, y lo siento muy familiar y algo nostálgico cuando me encuentro con él. No sé cómo llamarlo. Es una sensación muy familiar."
     },
-    "I=f": {
+    "ST1m": {
         "en": "[Hiel]\nOh, anyways, don't you lose your focus on the reactor. It is currently connecting.",
         "pt": "[Hiel]\nOh, de qualquer jeito, não perca seu foco no reator. Ele está conectando agora.",
         "es": "[Hiel]\nOh, de todas formas, no pierdas la concentración en el reactor. En estos momentos, se está conectando."
     },
-    "J=f": {
+    "Sj1m": {
         "en": "[Hiel]\nHey hey~ Now it's almost complete.",
         "pt": "[Hiel]\nEi ei~ Agora está quase completo.",
         "es": "[Hiel]\nEy, ey. Ya casi termina."
     },
-    "K=f": {
+    "Sz1m": {
         "en": "[Hiel]\nThe current range of this reactor surpasses Eclage and reaches Bifrost.",
         "pt": "[Hiel]\nO alcance atual desse reator vai além de Eclage e atinge Bifröst.",
         "es": "[Hiel]\nEl alcance actual de este reactor excede a Eclage y llega hasta Bifrost."
     },
-    "L=f": {
+    "TD1m": {
         "en": "[Hiel]\nIf I modify it a bit, I am sure I could even freely select the time point of interest.",
         "pt": "[Hiel]\nSe eu modificá-lo um pouco, tenho certeza de que poderei até escolher livremente o ponto temporal de interesse.",
         "es": "[Hiel]\nSi lo modifico un poco, estoy seguro de que incluso podría seleccionar libremente el punto temporal de interés."
     },
-    "M=f": {
+    "TT1m": {
         "en": "Etran wanted me to thank you on his behalf.",
         "pt": "Etran queria te agradecer.",
         "es": "Etran quería que te agradeciera de su parte."
     },
-    "N=f": {
+    "Tj1m": {
         "en": "[Hiel]\nReally? I'm glad... I would like to one day help Sir Etran and Sir Robert to reunite within this reactor.",
         "pt": "[Hiel]\nSério? Fico feliz... Eu gostaria de um dia ajudar Sir Etran e Sir Robert a se reunirem nesse reator.",
         "es": "[Hiel]\n¿De verdad? Me alegro… Algún día, me gustaría ayudar a sir Etran y a sir Robert a reunirse dentro de este reactor."
     },
-    "O=f": {
+    "Tz1m": {
         "en": "^000099Instantly, Hiel's smile reminded me of Robert. I must have been in the moment.^000000",
         "pt": "^000099Instantaneamente, o sorriso de Hill me lembra o de Robert. Deve ter sido o momento.^000000",
         "es": "^000099Automáticamente, la sonrisa de Hiel me recordó a Robert. Me dejé llevar por el momento.^000000"
     },
-    "P=f": {
+    "UD1m": {
         "en": "[Hiel]\nOh, hello~ I'm busy as usual, ahah.",
         "pt": "[Hiel]\nAh, olá~ Estou ocupado como de costume, haha.",
         "es": "[Hiel]\nOh, hola. Estoy ocupado como siempre, ja, ja."
     },
-    "Q=f": {
+    "UT1m": {
         "en": "I just came by to say hi.",
         "pt": "Só passei pra dizer um oi.",
         "es": "Solo vine a saludar."
     },
-    "R=f": {
+    "Uj1m": {
         "en": "Ask to modify Etran's necklace.",
         "pt": "Pedir para modificar o colar de Etran.",
         "es": "Pedir modificar el collar de Etran."
     },
-    "S=f": {
+    "Uz1m": {
         "en": "[Hiel]\nWell, there's really nothing else to improve. I'll let you, {0}, especially to use this whenever you want.",
         "pt": "[Hiel]\nBem, não há mais nada para melhorar. Deixarei que você,{0}, especialmente, use isso quando quiser.",
         "es": "[Hiel]\nBueno, en realidad, no hay nada más que mejorar. Te dejo, {0}, sobre todo, usar esto cuando quieras."
     },
-    "T=f": {
+    "VD1m": {
         "en": "[Hiel]\nPlease come anytime to use it. I made it to reach a variety of time channels, but I don't exactly know what will come of it myself.",
         "pt": "[Hiel]\nPor favor, venha aqui a qualquer momento para usá-lo. Fiz com que alcançasse uma variedade de canais temporais, mas nem eu sei exatamente o que acontecerá.",
         "es": "[Hiel]\nVen a usarlo cuando quieras. Lo creé para alcanzar diversos canales temporales, pero no sé exactamente cuáles serán los resultados."
     },
-    "U=f": {
+    "VT1m": {
         "en": "[Hiel]\nYou mean Sir Etran's keepsake? I could try to utilize a special magic power stone to imbue the desired effects, but it is an expensive material costing 10 Splendide Coins...",
         "pt": "[Hiel]\nVocê se refere ao Colar de Etran? Eu poderia tentar usar uma pedra de poder mágico especial para imbuir os efeitos desejados, mas é um material caro que custa 10 Moedas Splendide...",
         "es": "[Hiel]\n¿Te refieres al recuerdo de sir Etran? Podría intentar usar una piedra especial con poderes mágicos para infundir los efectos deseados, pero es un material caro que tiene un costo de 10 monedas de Splendide…"
     },
-    "V=f": {
+    "Vj1m": {
         "en": "I guess I'll come back next time...",
         "pt": "Voltarei mais tarde da próxima vez...",
         "es": "Supongo que volveré la próxima vez…"
     },
-    "W=f": {
+    "Vz1m": {
         "en": "I have the necessary coins.",
         "pt": "Eu tenho as moedas necessárias.",
         "es": "Tengo las monedas necesarias."
     },
-    "X=f": {
+    "WD1m": {
         "en": "[Hiel]\nSure, let me know when you have them ready. I'll imbue the desired effects.",
         "pt": "[Hiel]\nBem, me avise quando estiver tudo pronto. Vou imbuir os efeitos desejados.",
         "es": "[Hiel]\nClaro, avísame cuando las tengas. Infundiré los efectos deseados."
     },
-    "Y=f": {
+    "WT1m": {
         "en": "[Hiel]\nOh ok, then should we try imbuing the effects? This process isn't my specialty so I'm a bit nervous, but... hahaha...",
         "pt": "[Hiel]\nAh, está bem, então devemos tentar imbuir os efeitos? Esse processo não é minha especialidade, então estou um pouco nervoso, mas... hahaha...",
         "es": "[Hiel]\nBien, entonces, ¿intentamos infundir los efectos? Este proceso no es mi especialidad, así que estoy un poco nervioso, pero… ja, ja, ja…"
     },
-    "Z=f": {
+    "Wj1m": {
         "en": "I'll do it next time~",
         "pt": "Farei da próxima vez~",
         "es": "Lo haré la próxima vez."
     },
-    "[=f": {
+    "Wz1m": {
         "en": "Imbue Physical Ability",
         "pt": "Imbuir Habilidade Física",
         "es": "Infundir habilidad física."
     },
-    "\\=f": {
+    "XD1m": {
         "en": "Imbue Magical Ability",
         "pt": "Imbuir Habilidade Mágica",
         "es": "Infundir habilidad mágica."
     },
-    "]=f": {
+    "XT1m": {
         "en": "Imbue Ranged Ability",
         "pt": "Imbuir Habilidade de Longa Distância",
         "es": "Infundir habilidad a distancia."
     },
-    "^=f": {
+    "Xj1m": {
         "en": "Imbue Recovering Ability",
         "pt": "Imbuir Habilidade de Recuperação",
         "es": "Infundir habilidad de recuperación."
     },
-    "_=f": {
+    "Xz1m": {
         "en": "[Hiel]\nSure, let me know when you have them ready. I'll restore its effects.",
         "pt": "[Hiel]\nBem, me avise quando estiver tudo pronto. Vou restaurar seus efeitos.",
         "es": "[Hiel]\nClaro, avísame cuando las tengas. Restauraré sus efectos."
     },
-    "`=f": {
+    "YD1m": {
         "en": "[Hiel]\nThe effect was imbued successfullly.",
         "pt": "[Hiel]\nO efeito foi imbuído com sucesso.",
         "es": "[Hiel]\nEl efecto se infundió con éxito."
     },
-    "a=f": {
+    "YT1m": {
         "en": "[Hiel]\nYou don't seem to carry Etran's keepsake with you right now.",
         "pt": "[Hiel]\nVocê não parece carregar o Colar de Ettlang agora.",
         "es": "[Hiel]\nParece que no tienes el recuerdo de Etran contigo ahora mismo."
     },
-    "b=f": {
+    "Yj1m": {
         "en": "[Hiel]\nIt looks like you don't have enough coins. I would like to take care of it for you, but the material is just way too expensive...",
         "pt": "[Hiel]\nParece que você não tem moedas suficientes. Eu gostaria de tomar conta disso por você, mas o material é simplesmente caro demais...",
         "es": "[Hiel]\nParece que no tienes suficientes monedas. Me gustaría ocuparme de eso, pero el material es demasiado caro…"
     },
-    "c=f": {
+    "Yz1m": {
         "en": "[Hiel]\nHmm, what else should I fix. I should have had studied more...",
         "pt": "[Hiel]\nHmm, o que mais deveria consertar...? Deveria ter estudado mais...",
         "es": "[Hiel]\nMmm, qué más debería arreglar. Debería haber estudiado más…"
     },
-    "d=f": {
+    "ZD1m": {
         "en": "Shelby",
         "pt": "Shelby",
         "es": "Shelby"
     },
-    "e=f": {
+    "ZT1m": {
         "en": "[Shelby]\nHmm\nIf you want cat merchant service, you should look for the agent, not me.",
         "pt": "[Shelby]\nHum.\nSe você quer o serviço do gato mercante, deveria procurar um agente, não a mim.",
         "es": "[Shelby]\nMmm…\nSi deseas los servicios del comerciante gatuno, debes acudir al agente, no a mí."
     },
-    "f=f": {
+    "Zj1m": {
         "en": "What an interesting cat.",
         "pt": "Que gato interessante.",
         "es": "Qué gato tan interesante."
     },
-    "g=f": {
+    "Zz1m": {
         "en": "[Shelby]\nWhy? Is it weird to see me after seeing all the cats that are so polite and overly excited?",
         "pt": "[Shelby]\nPor quê? É estranho me ver depois de ver todos os gatos que são tão educados e empolgados demais?",
         "es": "[Shelby]\n¿Por qué? ¿Es raro verme a mí después de ver a todos los gatos que son tan amables y entusiastas?"
     },
-    "h=f": {
+    "aD1m": {
         "en": "[Shelby]\nMeow~ How are youeow~ I really liked canned fisheow~!!...Is this what you wanted?",
         "pt": "[Shelby]\nMiau~ Como vai você-iau~ Eu realmente queria peixe enlatado-iau~!!...É isso que queria?",
         "es": "[Shelby]\nMiau. ¿Comiau estás? ¡Me gustó mucho la conserva de pescadiau!… ¿Es esto lo que querías?"
     },
-    "i=f": {
+    "aT1m": {
         "en": "[Shelby]\nJust because we are cats, it doesn't mean we are all the same. I'm also really depressed right now, so it's probably best for you to look for other cats to help you.",
         "pt": "[Shelby]\nSó porque somos gatos, não quer dizer que somos todos iguais. Também estou bem deprimido agora, então é melhor você procurar outros gatos para te ajudar.",
         "es": "[Shelby]\nEl hecho de ser gatos no significa que seamos todos iguales. Ahora mismo estoy muy deprimido, así que probablemente sea mejor que busques otros gatos para ayudarte."
     },
-    "j=f": {
+    "aj1m": {
         "en": "Ask about dimensional rift fragments",
         "pt": "Sobre fragmentos da fenda dimensional",
         "es": "Preguntar sobre los fragmentos de la grieta dimensional."
     },
-    "k=f": {
+    "az1m": {
         "en": "[Shelby]\nHaha, I can't believe you are asking a cat about that. Our science is not something a lot of people pay attention to.  We have our biggest interest in commerce and fishery.",
         "pt": "[Shelby]\nHaha, não posso acreditar que você está perguntando a um gato sobre isso. Nossa ciência não é algo que interesse a muitas pessoas. Temos nosso maior interesse no comércio e pescaria.",
         "es": "[Shelby]\nJa, ja, no puedo creer que le estés preguntando a un gato sobre eso. Nuestra ciencia no es algo a lo que mucha gente le preste atención. Nuestros principales intereses son el comercio y la pesca."
     },
-    "l=f": {
+    "bD1m": {
         "en": "[Shelby]\nHere's an advice. Don't waste your time with me. Look for other people to help you out.",
         "pt": "[Shelby]\nAqui está um conselho. Não perca seu tempo comigo. Procure outras pessoas para te ajudar.",
         "es": "[Shelby]\nTe doy un consejo. No pierdas tu tiempo conmigo. Busca a otras personas para que te ayuden."
     },
-    "m=f": {
+    "bT1m": {
         "en": "[Shelby]\nHere's some advice. Don't waste your time with me. Look for other people to help you out.",
         "pt": "[Shelby]\nAqui está um conselho. Não perca seu tempo comigo. Procure outras pessoas para te ajudar.",
         "es": "[Shelby]\nTe doy un consejo. No pierdas tu tiempo conmigo. Busca a otras personas para que te ayuden."
     },
-    "n=f": {
+    "bj1m": {
         "en": "^000099He is busy fighting against Ford. If no one stops this fight, it might be impossible to ever talk to him again.^000000",
         "pt": "^000099Ele está ocupado lutando contra Ford. Se ninguém impedir essa luta, pode ser impossível falar com ele novamente.^000000",
         "es": "^000099Está ocupado peleando contra Ford. Si nadie detiene esta pelea, podría ser imposible volver a hablar con él.^000000"
     },
-    "o=f": {
+    "bz1m": {
         "en": "[Shelby]\nHuh?\nWhere did you find that canned food?",
         "pt": "[Shelby]\nHein?\nOnde você encontrou essa comida enlatada?",
         "es": "[Shelby]\n¿Cómo?\n¿Dónde encontraste esas conservas?"
     },
-    "p=f": {
+    "cD1m": {
         "en": "I got it for myself.",
         "pt": "Consegui por conta própria.",
         "es": "Las compré para mí."
     },
-    "q=f": {
+    "cT1m": {
         "en": "I brought it for you guys.",
         "pt": "Trouxe para vocês.",
         "es": "Las traje para ustedes."
     },
-    "r=f": {
+    "cj1m": {
         "en": "[Shelby]\nYou are a human being and you eat canned food? What are you doing?",
         "pt": "[Shelby]\nVocê é um ser humano, e come comida enlatada? O que está fazendo?",
         "es": "[Shelby]\n¿Eres un ser humano y consumes conservas? ¿Qué estás haciendo?"
     },
-    "s=f": {
+    "cz1m": {
         "en": "[Ford]\nShelby is looking away!! Ford doesn't miss this chance! (Pow pow)",
         "pt": "[Ford]\nShelby olha para o outro lado!!! Ford não perde essa chance! (Soc soc)",
         "es": "[Ford]\n¡Shelby está mirando hacia otro lado! ¡Ford no deja pasar esta oportunidad! *Golpes*"
     },
-    "t=f": {
+    "dD1m": {
         "en": "[Shelby]\nOw~ This useless cat!!",
         "pt": "[Shelby]\nAu~ Esse gato inútil!!!",
         "es": "[Shelby]\nOh. ¡Este gato es un inútil!"
     },
-    "u=f": {
+    "dT1m": {
         "en": "^000099The fight continues. If no one stops this fight, it might be impossible to ever talk to him again.^000000",
         "pt": "^000099A luta continua. Se ninguém impedir essa luta, pode ser impossível falar com ele novamente.^000000",
         "es": "^000099La pelea continúa. Si nadie detiene esta pelea, podría ser imposible volver a hablar con él.^000000"
     },
-    "v=f": {
+    "dj1m": {
         "en": "[Shelby]\nHmm, should I really receive this from you?......",
         "pt": "[Shelby]\nHmm, será que devia realmente receber isso de você...?",
         "es": "[Shelby]\nMmm, ¿realmente debería recibir esto de tu parte?......"
     },
-    "w=f": {
+    "dz1m": {
         "en": "Forget it if you don't want it.",
         "pt": "Esqueça, se não quiser isso.",
         "es": "Si no lo quieres, olvídalo."
     },
-    "x=f": {
+    "eD1m": {
         "en": "Yeah of course~",
         "pt": "Sim, é claro~",
         "es": "Sí, por supuesto."
     },
-    "y=f": {
+    "eT1m": {
         "en": "[Shelby]\nNah, I'm just kidding! Why would I?",
         "pt": "[Shelby]\nNah, estou só brincando. Por que faria isso?",
         "es": "[Shelby]\nNo, ¡solo estoy bromeando! ¿Por qué lo haría?"
     },
-    "z=f": {
+    "ej1m": {
         "en": "[Shelby]\nAlright. What is it that you want? Is it what you asked earlier, about dimensional rift fragment?",
         "pt": "[Shelby]\nTudo bem. O que é que você quer? É sobre o que me perguntou antes, sobre o fragmento da fenda dimensional?",
         "es": "[Shelby]\nEstá bien. ¿Qué es lo que quieres? ¿Es lo que preguntaste antes sobre el fragmento de la grieta dimensional?"
     },
-    "{=f": {
+    "ez1m": {
         "en": "Ask about activating the rift fragment.",
         "pt": "Sobre a ativação do fragmento da fenda.",
         "es": "Preguntar sobre la activación del fragmento de la grieta."
     },
-    "|=f": {
+    "fD1m": {
         "en": "[Shelby]\nI see, that is what you wanted. It was really difficult to find out since even Midgard scientists try to keep the information away from everyone. Although the information itself was relatively simple compared to the security for it.",
         "pt": "[Shelby]\nEntendo, é isso que você queria. Foi realmente difícil de descobrir, já que até cientistas de Midgard tentam manter a informação escondida de todos.\nEmbora a informação em si fosse relativamente simples, comparada à segurança ao seu redor.",
         "es": "[Shelby]\nYa veo, eso es lo que querías. Fue muy difícil averiguarlo, ya que incluso los científicos de Midgard intentan ocultarle la información a todo el mundo. Aunque la información en sí era relativamente sencilla en comparación con la seguridad que la rodeaba."
     },
-    "}=f": {
+    "fT1m": {
         "en": "[Shelby]\nFirst, to activate the dimensional rift fragment, you need ^0000991 Dark Debris ^000000 to serve as a host. Since the fragment reacts with Moroq's body, you need something that at least resembles it.",
         "pt": "[Shelby]\nPrimeiro, para ativar o fragmento da fenda dimensional, você precisa de^0000991 Fragmento da Escuridão ^000000 para servir de hospedeiro.\nJá que o fragmento reage com o corpo de Morroc, você precisa de algo que seja pelo menos semelhante a ele.",
         "es": "[Shelby]\nPrimero, para activar el fragmento de la grieta dimensional, necesitas ^0000991 Escombro oscuro ^000000 que actúe como servidor. Como el fragmento reacciona con el cuerpo de Morroc, necesitas algo que por lo menos se le parezca."
     },
-    "~=f": {
+    "fj1m": {
         "en": "[Shelby]\nIf you have Dark Crystal, you could exert a greater force, but I could not attain that combination method.",
         "pt": "[Shelby]\nSe você tiver o Cristal Negro, poderá exercer uma força ainda maior, mas eu não poderei atingir aquele método de combinação.",
         "es": "[Shelby]\nSi tuvieses Cristal oscuro, podrías ejercer una fuerza mayor, pero no logré ese método de combinación."
     },
-    "=f": {
+    "fz1m": {
         "en": "[Shelby]\nIf I were to arrange all of the ingredients, you need ^0000991Dark Debris ^000000in addition to ^000099Red/Yellow/Blue Gemstones, 2 of each^000000.",
         "pt": "[Shelby]\nSe eu precisasse providenciar todos os ingredientes, eles seriam ^0000991 Fragmento da Escuridão ^000000além de ^000099Gemas Vermelhas, Amarelas e Azuis, 2 de cada^000000.",
         "es": "[Shelby]\nSi tuviese que organizar todos los ingredientes, necesitarías ^0000991 Escombro oscuro, ^000000además de ^0000992 Gemas rojas, 2 Gemas amarillas y 2 Gemas azules^000000."
@@ -2629,597 +2719,642 @@
         "pt": "[{0}]\nQue por mais que confie em mim, ^000099eu confio em você^000000...",
         "es": "[{0}]\nTanto como tú confías en mí, ^000099yo confío en ti^000000."
     },
-    "\u0000>f": {
+    "AD5m": {
         "en": "[Etran]\nRobert really said that? Really?",
         "pt": "[Etran]\nRobert disse isso mesmo? Sério?",
         "es": "[Etran]\n¿Robert dijo eso? ¿De verdad? ¿De verdad?"
     },
-    "\u0001>f": {
+    "AT5m": {
         "en": "[Etran]\nI think this is the first time he's ever said he trusts me ever since we started working together. Now I can just focus and give all my heart to putting energy into this land.",
         "pt": "[Etran]\nAcho que é a primeira vez que ele disse que confia em mim desde que começamos a trabalhar juntos.\nAgora posso focar e me dedicar completamente a colocar energia nessa terra.",
         "es": "[Etran]\nCreo que es la primera vez que dice que confía en mí desde que empezamos a trabajar juntos. Ahora puedo centrarme y poner mi corazón en darle energía a esta tierra."
     },
-    "\u0002>f": {
+    "Aj5m": {
         "en": "^000099Etran's shoulders seem to be trembling.^000000",
         "pt": "^000099Os ombros de Etran parecem tremer.^000000",
         "es": "^000099Los hombros de Etran parecen temblar.^000000"
     },
-    "\u0003>f": {
+    "Az5m": {
         "en": "[Etran]\nI didn't get to know you very long, but thank you, traveler from the future.",
         "pt": "[Etran]\nEu não te conheci por muito tempo, mas te agradeço, viajante do futuro.",
         "es": "[Etran]\nNo llegué a conocerte mucho, viajero del futuro, pero te lo agradezco."
     },
-    "\u0004>f": {
+    "BD5m": {
         "en": "[Etran]\nBy the way, the necklace that Robert refused to keep. I'll give it to you as a token of gratitude. Just keep it for yourself.",
         "pt": "[Etran]\nAliás, o colar que Robert se recusou em guardar. Te darei como sinal de agradecimento. Guarde-o consigo.",
         "es": "[Etran]\nPor cierto, sobre el collar que Robert no quiso quedarse. Te lo daré a ti como muestra de mi gratitud. Es todo tuyo."
     },
-    "\u0005>f": {
+    "BT5m": {
         "en": "[Etran]\nWell then, I should get going. Also, please send my word of appreciation to the person who built this incredible machine.",
         "pt": "[Etran]\nBem, é melhor eu ir. Ah, por favor, envie meus cumprimentos à pessoa que construiu essa máquina incrível.",
         "es": "[Etran]\nBueno, ya tengo que partir. Agradécele también de mi parte a la persona que construyó esta máquina increíble."
     },
-    "\u0006>f": {
+    "Bj5m": {
         "en": "^000099Etran's keepsake was received. It is possible to equit it, but ^FF0000to utilize its full strength,^000099 I would need Hiel's help later.^000000",
         "pt": "^000099Colar de Etran foi obtido. É possível equipá-la, mas para ^FF0000utilizar sua força plena,^000099 devo pedir ajuda a Hiel mais tarde.^000000",
         "es": "^000099Se recibió el recuerdo de Etran. Es posible equiparlo, pero ^FF0000para usar toda su fuerza,^000099 necesitaré la ayuda de Hiel más adelante.^000000"
     },
-    "\u0007>f": {
+    "Bz5m": {
         "en": "^000099This is a grave where communication with Etran was established. He must have spent his last days around here.^000000",
         "pt": "^000099Esse é um túmulo onde a comunicação com Etran foi estabelecida. Ele deve ter passado seus últimos dias aqui.^000000",
         "es": "^000099Esta es la tumba en la que se estableció la comunicación con Etran. Seguro pasó sus últimos días aquí.^000000"
     },
-    "\b>f": {
+    "CD5m": {
         "en": "^000099There is a cemetery unfitting with the tower. It's so worn down that it's difficult to tell whose graves these are.^000000",
         "pt": "^000099Há um cemitério que não combina com a torre. Está tão desgastado que é difícil ler de quem são as lápides.^000000",
         "es": "^000099Hay un cementerio inapropiado para la torre. Está tan desgastado que es difícil distinguir de quiénes son estas tumbas.^000000"
     },
-    ">f": {
-        "en": "[Etran]\nAh, home tree's leaf. Tha's right. If a home tree grows properly, it would bare leaves. It's not something you can see in other plants.",
-        "pt": "[Etran]\nAh, uma folha da Yggdrasil. É isso mesmo. Se uma Yggdrasil crescer corretamente, ela dará folhas. Não é algo que você possa ver em outras plantas.",
-        "es": "[Etran]\nAh, la hoja del Árbol del hogar. Es verdad. Si un Árbol del hogar crece correctamente, tendrá hojas. No es algo que se vea en otras plantas."
+    "CT5m": {
+        "en": "[????]\nThis is tough. The energy consumed by the home tree is greater than I thought. Even if Robert is providing some control, was this impossible to begin with?",
+        "pt": "[????]\nIsso é duro. A energia consumida pela Yggdrasil é maior do que pensei. Mesmo que Robert ofereça algum controle, será que isso sempre foi impossível desde o início.",
+        "es": "[???]\nLa situación es complicada. La energía que consume el Árbol del hogar es mayor de lo que pensaba. Incluso si Robert proporciona un cierto grado de control, ¿se trata de una batalla perdida desde el inicio?"
     },
-    "\u000e>f": {
+    "Cj5m": {
+        "en": "^000099I'm here!! Let's take this reactor closer.^000000",
+        "pt": "^000099Estou aqui!!! Vamos trazer o reator mais perto.^000000",
+        "es": "^000099¡Llegué! Acerquemos este reactor.^000000"
+    },
+    "Cz5m": {
+        "en": "[Etran]\nWhoa... This is..!!!",
+        "pt": "[Etran]\nUou... Isso é...!!!",
+        "es": "[Etran]\nVaya… Esto es…"
+    },
+    "DD5m": {
+        "en": "[Etran]\nIs this real. This isn't a dream, is it... {0}.",
+        "pt": "[Etran]\nIsso é real? Isso não é um sonho, é...{0}.",
+        "es": "[Etran]\n¿Esto es real? Esto no es un sueño, o sí… {0}."
+    },
+    "DT5m": {
+        "en": "It's not a dream",
+        "pt": "Não é um sonho",
+        "es": "No es un sueño."
+    },
+    "Dj5m": {
         "en": "[{0}]\nWhat you are seeing now is home for thousands of Laphine descendants, Bifrost the land of life.",
         "pt": "[{0}]\nO que você está vendo agora é o lar de dezenas de milhares de descendentes de Laphines, Bifröst, a terra da vida.",
         "es": "[{0}]\nLo que estás viendo ahora es el hogar de miles de descendientes de laphines. Bifrost, la tierra de la vida."
     },
-    "\u000f>f": {
+    "Dz5m": {
         "en": "[Etran]\nI wasn't wrong. I wasn't wrong.",
         "pt": "[Etran]\nNão estava errado. Não estava errado.",
         "es": "[Etran]\nNo me equivoqué. No me equivoqué."
     },
-    "\u0010>f": {
+    "ED5m": {
         "en": "^000099Etran started to sob and seemed to be free from the burden of his life. He seemed to remember something and asked a question.^000000",
         "pt": "^000099Etran começa a soluçar e parece estar livre do fardo de sua vida. Ele parece se lembrar de algo que queria perguntar.^000000",
         "es": "^000099Etran empezó a sollozar y pareció liberarse de la carga de su vida. Pareció recordar algo e hizo una pregunta.^000000"
     },
-    "\u0011>f": {
+    "ET5m": {
         "en": "[Etran]\nBut, what about Robert's home tree? What happened to his home tree?",
         "pt": "[Etran]\nMas, e a Yggdrasil de Robert? O que aconteceu com sua Yggdrasil?",
         "es": "[Etran]\nPero, ¿y el Árbol del hogar de Robert? ¿Qué pasó con su Árbol del hogar?"
     },
-    "\u0012>f": {
+    "Ej5m": {
         "en": "His home tree also grew very well.",
         "pt": "Sua Yggdrasil também cresceu bem.",
         "es": "Su Árbol del hogar también creció muy bien."
     },
-    "\u0013>f": {
+    "Ez5m": {
         "en": "[Etran]\nI see. I would like to see the home tree he nurtured... Would you take me there too?",
         "pt": "[Etran]\nEntendo. Eu gostaria de ver a Yggdrasil que ele cultivou... Você poderia me levar até lá também?",
         "es": "[Etran]\nYa veo. Me gustaría ver el Árbol del hogar que cultivó… ¿Me llevarías allí también?"
     },
-    "\u0014>f": {
+    "FD5m": {
         "en": "Unfortunately, that can't happen...",
         "pt": "Isso não pode acontecer...",
         "es": "Por desgracia, no es posible…"
     },
-    "\u0015>f": {
+    "FT5m": {
         "en": "[{0}]\nUnfortunately, this reactor's range is too small that while I try to take you there, the connection will drop. I'm afraid it's impossible.",
         "pt": "[{0}]\nInfelizmente, o alcance desse reator é pequeno demais, e se tentar levar você até lá, a conexão cairá. Temo ser impossível.",
         "es": "[{0}]\nEl alcance de este reactor es tan pequeño que, al intentar llevarte hasta allí, la conexión se cortará. Me temo que es imposible."
     },
-    "\u0016>f": {
+    "Fj5m": {
         "en": "[Etran]\nDid Robert really succeed too? Are you trying to keep his failures from me by any chance?",
         "pt": "[Etran]\nRobert realmente teve êxito também? Você está tentando esconder as falhas dele de mim, por acaso?",
         "es": "[Etran]\n¿De verdad Robert lo logró? Por casualidad, ¿intentas ocultarme sus fracasos?"
     },
-    "\u0017>f": {
+    "Fz5m": {
         "en": "Should I bring something to prove it to you?",
         "pt": "Trago algo para te provar isso?",
         "es": "¿Debería traerte algo para demostrártelo?"
     },
-    "\u0018>f": {
+    "GD5m": {
         "en": "[Etran]\nA proof?",
         "pt": "[Etran]\nUma prova?",
         "es": "[Etran]\n¿Una prueba?"
     },
-    "\u0019>f": {
+    "GT5m": {
         "en": "Bring a cat's canned food.",
         "pt": "Trazer comida de gato enlatada.",
         "es": "Traer una conserva de gato."
     },
-    "\u001a>f": {
+    "Gj5m": {
         "en": "Bring a Laphine coin.",
         "pt": "Trazer uma Moeda Esplêndida.",
         "es": "Traer una moneda de laphine."
     },
-    "\u001b>f": {
+    "Gz5m": {
         "en": "Bring a home tree leaf.",
         "pt": "Trazer uma folha da Yggdrasil.",
         "es": "Traer una hoja del Árbol del hogar."
     },
-    "!>f": {
+    "HD5m": {
+        "en": "[Etran]\nA cat's canned food? How does that have anything to do with home tree?",
+        "pt": "[Etran]\nComida de gato enlatada? O que isso tem a ver com a Yggdrasil?",
+        "es": "[Etran]\n¿Conserva de gato? ¿Qué tiene que ver eso con el Árbol del hogar?"
+    },
+    "HT5m": {
+        "en": "[{0}]\nOh, I was just talking nonsense for a bit.",
+        "pt": "[{0}]\nAh, estava falando besteira por um instante.",
+        "es": "[{0}]\nOh, estaba diciendo tonterías."
+    },
+    "Hj5m": {
+        "en": "[Etran]\nA Laphine's coin? Is it something new? Does home tree produce coins now?",
+        "pt": "[Etran]\nUm moeda de Esplêndido? É algo novo? A Yggdrasil produz moedas agora?",
+        "es": "[Etran]\n¿Una moneda de laphine? ¿Es algo nuevo? ¿El Árbol del hogar ahora produce monedas?"
+    },
+    "Hz5m": {
+        "en": "[{0}]\nNo, that doesn't happen. I just chose a bad example.",
+        "pt": "[{0}]\nNão, isso não acontece. Foi um exemplo ruim.",
+        "es": "[{0}]\nNo, eso no es real. Solo elegí un mal ejemplo."
+    },
+    "ID5m": {
+        "en": "[Etran]\nAh, home tree's leaf. Tha's right. If a home tree grows properly, it would bare leaves. It's not something you can see in other plants.",
+        "pt": "[Etran]\nAh, uma folha da Yggdrasil. É isso mesmo. Se uma Yggdrasil crescer corretamente, ela dará folhas. Não é algo que você possa ver em outras plantas.",
+        "es": "[Etran]\nAh, la hoja del Árbol del hogar. Es verdad. Si un Árbol del hogar crece correctamente, tendrá hojas. No es algo que se vea en otras plantas."
+    },
+    "IT5m": {
         "en": "[{0}]\nHow does a home tree leaf look like? Are there characteristics that make it unique such as color?",
         "pt": "[{0}]\nQual é a aparência dessa folha da Yggdrasil? Tem alguma característica única, como sua cor?",
         "es": "[{0}]\n¿Cómo es la hoja de un Árbol del hogar? ¿Tiene características que la hacen única, como el color?"
     },
-    "\">f": {
+    "Ij5m": {
         "en": "[Etran]\nI only heard about it. I never saw it myself. I've heard that a home tree with abundant life force demonstrates a gold color.",
         "pt": "[Etran]\nEu só ouvi falar nisso. Eu nunca vi uma, pessoalmente. Eu ouvi que a Yggdrasil com força vital abundante demonstra uma cor dourada.",
         "es": "[Etran]\nSolo escuché hablar de eso. Nunca vi una. Escuché que un Árbol del hogar con abundante fuerza vital tiene como un color dorado."
     },
-    "#>f": {
+    "Iz5m": {
         "en": "[Etran]\nI don't know anything besides that. But if it is a real home tree leaf, there's no way I wouldn't be able to tell. The life reaction from a home tree leaf is incredible.",
         "pt": "[Etran]\nEu não sei de nada além disso. Mas se for uma folha de uma Yggdrasil real, eu não seria capaz de esconder.\nA reação vital de uma folha de árvore da vida é incrível.",
         "es": "[Etran]\nNo sé nada más que eso. Es imposible que no me dé cuenta si se trata de una verdadera hoja de Árbol del hogar. La reacción vital de una hoja de Árbol del hogar es increíble."
     },
-    "$>f": {
+    "JD5m": {
         "en": "[Etran]\nIf you bring me a fully grown home tree leaf, I will never give up. You can't fake Robert's success, you see.",
         "pt": "[Etran]\nSe você me trouxer uma folha adulta da árvore da vida, jamais desistirei. Você não pode falsificar o sucesso de Robert, entendeu?",
         "es": "[Etran]\nSi me traes una hoja de Árbol del hogar que haya crecido del todo, nunca me rendiré. No se puede falsear el logro de Robert."
     },
-    "%>f": {
+    "JT5m": {
         "en": "[Etran]\nAlso, I have another favor.",
         "pt": "[Etran]\nAlém disso, peço outro favor.",
         "es": "[Etran]\nPor cierto, necesito otro favor."
     },
-    "&>f": {
+    "Jj5m": {
         "en": "[Etran]\nThis necklace... Please give it to Robert. Tell him that I never gave up and that we must give our all...",
         "pt": "[Etran]\nEsse colar... Entregue isso para Robert. Conte a ele que nunca desisti e que precisamos nos dedicar totalmente...",
         "es": "[Etran]\nEste collar… Dáselo a Robert. Dile que nunca me rendí y que debemos darlo todo…"
     },
-    "'>f": {
+    "Jz5m": {
         "en": "^000099Etran's figure begins to fade out. The reactor's force must have weakened. ^000000",
         "pt": "^000099A figura de Etran começa a desaparecer. O força do reator deve ter enfraquecido. ^000000",
         "es": "^000099La figura de Etran comienza a desvanecerse. La fuerza del reactor se debe haber debilitado. ^000000"
     },
-    "(>f": {
+    "KD5m": {
         "en": "^000099His necklace dropped onto the grass as Etran's figure faded away. ^000000",
         "pt": "^000099Seu colar caiu na grama enquanto a figura de Etran desvanecia. ^000000",
         "es": "^000099Su collar cayó sobre la hierba cuando la figura de Etran se desvaneció. ^000000"
     },
-    ")>f": {
+    "KT5m": {
         "en": "^000099You obtained a worn out necklace. It feels like an unknown energy of life is entering the body.^000000",
         "pt": "^000099Você obteve um colar desgastado. Você sente uma energia desconhecida entrando no corpo.^000000",
         "es": "^000099Obtuviste un collar desgastado. Se siente como si una energía vital desconocida entrara en el cuerpo.^000000"
     },
-    "*>f": {
+    "Kj5m": {
         "en": "^000099You gained experience points and job experience points.^000000",
         "pt": "^000099Você ganhou pontos de experiência e pontos de experiência de classe.^000000",
         "es": "^000099Ganaste puntos de experiencia y puntos de experiencia de clase.^000000"
     },
-    "+>f": {
+    "Kz5m": {
         "en": "[Robert]\nTh... This.",
         "pt": "[Robert]\nEs... Essa.",
         "es": "[Robert]\nEs… Este."
     },
-    ",>f": {
+    "LD5m": {
         "en": "This is the home tree that you nurtured.",
         "pt": "Essa é a Yggdrasil que você cultivou.",
         "es": "Este es el Árbol del hogar que cultivaste."
     },
-    "->f": {
+    "LT5m": {
         "en": "[Robert]\nIt grew up so well. I thought it was impossible... I thought I would never see it.",
         "pt": "[Robert]\nEla cresceu tão bem. Eu achei que fosse impossível... Eu achei que jamais veria isso.",
         "es": "[Robert]\nCreció muy bien. Pensé que era imposible… Pensé que nunca lo vería."
     },
-    ".>f": {
+    "Lj5m": {
         "en": "^000099Robert teared up, full of emotion. Right then, Robert's figure started fading away.^000000",
         "pt": "^000099Robert se enche de lágrimas, tomado pela emoção. Nesse momento, a figura de Robert começa a desaparecer.^000000",
         "es": "^000099Robert lagrimeó, lleno de emoción. En ese momento, la figura de Robert empezó a desvanecerse.^000000"
     },
-    "/>f": {
+    "Lz5m": {
         "en": "[Robert]\nHmm? I feel weird. What's happening to my body? Am I dreaming?",
         "pt": "[Robert]\nHmm? Sinto algo estranho. O que está acontecendo com meu corpo? Estou sonhando?",
         "es": "[Robert]\n¿Mmm? Me siento raro. ¿Qué le pasa a mi cuerpo? ¿Estoy soñando?"
     },
-    "0>f": {
+    "MD5m": {
         "en": "[Robert]\nHey, are you there? I can't hear my own voice. Hey!! {0} Can you hear me?",
         "pt": "[Robert]\nEi, você está aí? Não consigo ouvir minha própria voz. Ei!!! {0}, está me ouvindo?",
         "es": "[Robert]\nHola, ¿estás ahí? No puedo oír mi propia voz. ¡Ey! {0} ¿Puedes oírme?"
     },
-    "1>f": {
+    "MT5m": {
         "en": "^000099It hasn't even been more than a few minutes, but Robert's figure disappeared. Let's go back to Hiel first and figure out what may be going on.^000000",
         "pt": "^000099Não foram mais do que alguns minutos, mas a figura de Robert desapareceu. Vamos voltar para Hiel primeiro e descobrir o que pode estar acontecendo.^000000",
         "es": "^000099No pasaron más que unos pocos minutos, pero la figura de Robert desapareció. Primero, volvamos con Hiel y averigüemos qué puede estar pasando.^000000"
     },
-    "2>f": {
+    "Mj5m": {
         "en": "[????]\nWhoaaa~ It's a green monster! Run awayyy! (Static static)",
         "pt": "[????]\nUooou~ É um monstro verde! Coooooorraaaam!!!! (bzzzzzzzzt)",
         "es": "[???]\nEyyy. ¡Es un monstruo verde! ¡Correee! *Estática*"
     },
-    "3>f": {
+    "Mz5m": {
         "en": "^000099The reactor was activated, but the dimension does not seem to be related to Etran.^000000",
         "pt": "^000099O reator estava ativo, mas as dimensões não pareciam ser relacionadas a Etran.^000000",
         "es": "^000099Se activó el reactor, pero parece que la dimensión no está relacionada con Etran.^000000"
     },
-    "4>f": {
+    "ND5m": {
         "en": "[????]\nIs the meat ready yet? I can't wait any longer... (Static static)",
         "pt": "[????]\nA carne já está pronta? Não posso esperar mais... (bzzzzzzzzt)",
         "es": "[???]\n¿Ya está lista la carne? No puedo esperar más… *Estática*"
     },
-    "5>f": {
+    "NT5m": {
         "en": "[????]\nAyyyy!!! What did I tell you!!!",
         "pt": "[????]\nAhhhhhh!!! O que foi que eu disse?",
         "es": "[???]\n¡Ayyyy! ¡Qué te dije!"
     },
-    "6>f": {
+    "Nj5m": {
         "en": "^000099The reactor was activated, but the dimension does not seem to be related to Etran. It's actually a dimension that makes me feel bad.^000000",
         "pt": "^000099O reator estava ativo, mas as dimensões não pareciam ser relacionadas a Etran. É, na verdade, uma dimensão que faz me sentir mal.^000000",
         "es": "^000099Se activó el reactor, pero parece que la dimensión no está relacionada con Etran. En realidad, es una dimensión que me hace sentir mal.^000000"
     },
-    "7>f": {
+    "Nz5m": {
         "en": "[????]\nMy father did not steal the refined items!!",
         "pt": "[????]\nMeu pai não roubou os itens refinados!!!",
         "es": "[???]\n¡Mi padre no robó los objetos refinados!"
     },
-    "8>f": {
+    "OD5m": {
         "en": "[????]\nQuiet kid. No matter what anyone says, your father is a cheap shot who stole refined items. If you are upset about that, try coming back. I'll face up to your revenge any day.",
         "pt": "[????]\nCala a boca, garoto. Não importa o que diga, seu pai deu um golpe baixo e roubou meus itens refinados. \nSe você está incomodado com isso, tente voltar depois. Vou encarar sua vingança qualquer dia.",
         "es": "[???]\nCállate. No importa lo que digan los demás, tu padre es un tramposo que robó objetos refinados. Si te molesta, intenta volver. Me enfrentaré a tu venganza en cualquier momento."
     },
-    "9>f": {
+    "OT5m": {
         "en": "[????]\nI'll refine your helm with your head in it one day.",
         "pt": "[????]\nRefinarei seu elmo com sua cabeça dentro dele.",
         "es": "[???]\nAlgún día te puliré el casco con tu cabeza dentro."
     },
-    ":>f": {
+    "Oj5m": {
         "en": "[????]\nI... I did it. The restricted area!! Absolute zero ductility!!!!!! And they stole it from me. My gravitational pull of 300 grams.",
         "pt": "[????]\nEu... Consegui. A área restrita!!! Zero absoluto de maleabilidade!!!!!! E eles a roubaram de mim. Minha atração gravitacional de 300 gramas.",
         "es": "[???]\nLo… Lo logré. ¡La zona restringida! ¡Cero absoluto de ductilidad! Y me robaron. Mi fuerza gravitatoria de 300 gramos."
     },
-    ";>f": {
+    "Oz5m": {
         "en": "[????]\nChatting is prohibited in front of the oven, student Orlean.",
         "pt": "[????]\nBater papo em frente ao forno é proibido, Sr. estudante Orleans.",
         "es": "[???]\nEstá prohibido charlar delante del horno, estudiante Orleans."
     },
-    "<>f": {
+    "PD5m": {
         "en": "[????]\nIs this-...(Static static) Is this guy really in the right mind?",
         "pt": "[????]\nIsso é-...(bzzzzzt) esse cara realmente está com a cabeça no lugar?",
         "es": "[???]\n¿Este… *Estática* ¿Este tipo está realmente en sus cabales?"
     },
-    "=>f": {
+    "PT5m": {
         "en": "[????]\nSon... What is the meaning of this.",
         "pt": "[????]\nFilho... Qual é o significado disso?",
         "es": "[???]\nHijo… ¿Qué significa esto?"
     },
-    ">>f": {
+    "Pj5m": {
         "en": "[????]\nI'm putting the equiment to rest, father...",
         "pt": "[????]\nEstou botando o equipamento para descansar em paz, pai...",
         "es": "[???]\nEstoy poniendo el equipamiento a descansar, padre…"
     },
-    "?>f": {
+    "Pz5m": {
         "en": "^000099The reactor was activated, but the dimension does not seem to be related to Etran. It's cold somehow.^000000",
         "pt": "^000099O reator estava ativo, mas as dimensões não pareciam ser relacionadas a Etran. Está frio, por algum motivo.^000000",
         "es": "^000099Se activó el reactor, pero parece que la dimensión no está relacionada con Etran. De algún modo, hace frío.^000000"
     },
-    "@>f": {
+    "QD5m": {
         "en": "[????]\nHuman!! Human Chicken!!!!!!!!",
         "pt": "[????]\nHunan!!! Frango Hunan!!!!!!",
         "es": "[???]\n¡Humano! ¡Gallina de los humanos!"
     },
-    "A>f": {
+    "QT5m": {
         "en": "^000099The reactor was activated, but the dimension does not seem to be related to Etran. It smells delicious somehow.^000000",
         "pt": "^000099O reator estava ativo, mas as dimensões não pareciam ser relacionadas a Etran. Tem um cheiro delicioso, por algum motivo.^000000",
         "es": "^000099Se activó el reactor, pero parece que la dimensión no está relacionada con Etran. De algún modo, huele delicioso.^000000"
     },
-    "B>f": {
+    "Qj5m": {
         "en": "[????]\nYou don't know why I'm upset, do you?",
         "pt": "[????]\nVocê não sabe por que estou triste, sabe?",
         "es": "[???]\nNo sabes por qué estoy enfadado, ¿verdad?"
     },
-    "C>f": {
+    "Qz5m": {
         "en": "[???]\nI said I'm sorry. I'm sorry.",
         "pt": "[???]\nEu pedi desculpas. Desculpe-me.",
         "es": "[???]\nDije que lo sentía. Lo siento."
     },
-    "D>f": {
+    "RD5m": {
         "en": "[????]\nWhat are you sorry about it.",
         "pt": "[????]\nPor que você está pedindo desculpas?",
         "es": "[???]\n¿Por qué lo sientes?"
     },
-    "E>f": {
+    "RT5m": {
         "en": "^000099The reactor was activated but... For some reason, I'm getting annoyed.^000000",
         "pt": "^000099O reator foi ativado, mas... Mas por algum motivo, estou ficando incomodado.^000000",
         "es": "^000099Se activó el reactor, pero… Por alguna razón, me estoy irritando.^000000"
     },
-    "F>f": {
+    "Rj5m": {
         "en": "[???]\nNow now, if you sleep, it will be all over... Such a thing as Christmas.",
         "pt": "[???]\nEi, ei, se você dormir, tudo terá terminado... Igual no Natal.",
         "es": "[???]\nAhora, si te duermes, todo habrá terminado… Algo así, como la Navidad."
     },
-    "G>f": {
+    "Rz5m": {
         "en": "^000099The reactor was activated but... For some reason, I'm getting lonely.^000000",
         "pt": "^000099O reator foi ativado, mas... Por algum motivo, estou me sentindo solitário.^000000",
         "es": "^000099Se activó el reactor, pero… Por alguna razón, me estoy sintiendo solo.^000000"
     },
-    "H>f": {
+    "SD5m": {
         "en": "[???]\n3..8..12..33...31..The last number is erased...",
         "pt": "[???]\n3...8...12...33...31... o último número foi apagado...",
         "es": "[???]\n3..8..12..33...31..El último número está borrado…"
     },
-    "I>f": {
+    "ST5m": {
         "en": "^000099How intriguing...^000000",
         "pt": "^000099Que intrigante...^000000",
         "es": "^000099Qué interesante…^000000"
     },
-    "J>f": {
+    "Sj5m": {
         "en": "[???]\nI'm going insane.\nI give my body and soul to this set of headphones.",
         "pt": "[???]\nEstou ficando louco.\nEu dou meu corpo e alma por esse conjunto de fones de ouvido.",
         "es": "[???]\nMe estoy volviendo loco.\nEntrego mi cuerpo y mi alma por estos auriculares."
     },
-    "K>f": {
+    "Sz5m": {
         "en": "[???]\nMusic is the only drug that the nation allows legally...",
         "pt": "[???]\nMúsica é a única droga que as nações permitem legalmente...",
         "es": "[???]\nLa música es la única droga que la nación permite legalmente…"
     },
-    "L>f": {
+    "TD5m": {
         "en": "^000099The reactor picked up the desperation of an adventurer who acquired some headphones from some place... ^000000",
         "pt": "^000099O reator pegou um pouco do desespero de um aventureiro que adquiriu fones de ouvido de algum lugar... ^000000",
         "es": "^000099El reactor captó la desesperación de un trotamundos que adquirió unos auriculares en algún lugar… ^000000"
     },
-    "M>f": {
+    "TT5m": {
         "en": "[???]\nTurn to the right twice. No, to the left. Yes~ Little bit more to the left. Hold your breath~ Yes, let it out now. Please keep the remaining medication in your mouth.",
         "pt": "[???]\nVire para a direita duas vezes. Não, para a esquerda. Sim~ Mais um pouquinho para a esquerda. Prenda a respiração~ Sim, bote para fora agora.\nPor favor, mantenha o resto do medicamento na sua boca.",
         "es": "[???]\nGira dos veces a la derecha. No, a la izquierda. Sí. Un poco más a la izquierda. Aguanta la respiración. Sí, ahora déjala salir. Por favor, mantén el resto de la medicación en tu boca."
     },
-    "N>f": {
+    "Tj5m": {
         "en": "^000099The reactor was activated. Somehow it felt like I had to do whatever they said in it.^000000",
         "pt": "^000099O reator foi ativado. De alguma forma, senti que devia fazer o que quer que fosse dito.^000000",
         "es": "^000099El reactor se activó. De algún modo, sentía que tenía que hacer todo lo que ellos decían.^000000"
     },
-    "O>f": {
+    "Tz5m": {
         "en": "[????]\nBaby, you don't know why I'm upset, do you?",
         "pt": "[????]\nAmor, você não sabe por que estou triste, sabe?",
         "es": "[???]\nCariño, no sabes el motivo de mi enojo, ¿verdad?"
     },
-    "P>f": {
+    "UD5m": {
         "en": "[????]\nWhat are you sorry about?",
         "pt": "[???]\nEi, ei, se você dormir, tudo terá terminado... Algo como Natal.",
         "es": "[???]\n¿Por qué te disculpas?"
     },
-    "Q>f": {
+    "UT5m": {
         "en": "[????]\nHunan!! Hunan Chicken!!!!!!!!",
         "pt": "[???]\nMúsica é a única droga que as nações permitem ilegalmente...",
         "es": "[???]\n¡Humano! ¡Gallina de los humanos!"
     },
-    "R>f": {
+    "Uj5m": {
         "en": "[Notice]\nPan-galactic ultra genius engineer Hiel's strange and creepy workshop.\nNormal Laphines, animals, and Saphas are prohibited.",
         "pt": "[Aviso]\nA oficina estranha e assustadora do engenheiro ultragenial pan-galático Hiel.\nLaphines normais, animais e Manuks não são permitidos.",
         "es": "[Aviso]\nEl extraño y espeluznante taller del ultragenio y pangaláctico ingeniero Hiel.\nSe prohíben laphines normales, animales y saphas."
     },
-    "S>f": {
+    "Uz5m": {
         "en": "Continue my way.",
         "pt": "Continue pelo meu caminho.",
         "es": "Seguir mi camino."
     },
-    "T>f": {
+    "VD5m": {
         "en": "Enter this place.",
         "pt": "Entre nesse lugar.",
         "es": "Entrar en este lugar."
     },
-    "U>f": {
+    "VT5m": {
         "en": "Supreme electronic rope",
         "pt": "Corda Eletrônica",
         "es": "Cuerda electrónica Supreme"
     },
-    "V>f": {
+    "Vj5m": {
         "en": "If you would like to go down, please press the bell~",
         "pt": "Se desejar descer, por favor, toque o sino~",
         "es": "Si quieres bajar, toca la campana."
     },
-    "W>f": {
+    "Vz5m": {
         "en": "Forget it.",
         "pt": "Deixar para lá.",
         "es": "Olvidarlo."
     },
-    "X>f": {
+    "WD5m": {
         "en": "Go down.",
         "pt": "Descer.",
         "es": "Bajar."
     },
-    "Y>f": {
+    "WT5m": {
         "en": "[????]\nBaby, you don't know why I'm upset, do you?\nPresent{0}Dog",
         "pt": "[????]\nAmor, você não sabe por que estou triste, sabe?\nPresente{0}Cão",
         "es": "[???]\nCariño, no sabes el motivo de mi enojo, ¿verdad?\nUnidad de {0} de regalo"
     },
-    "Z>f": {
+    "Wj5m": {
         "en": "Hiel's Workshop",
         "pt": "Oficina",
         "es": "Taller de Hiel"
     },
-    "[>f": {
+    "Wz5m": {
         "en": "^000099It's a workshop with lots of oddities.^000000",
         "pt": "^000099É uma oficina com diversas coisas estranhas.^000000",
         "es": "^000099Es un taller con muchas rarezas.^000000"
     },
-    "\\>f": {
+    "XD5m": {
         "en": "^000099It looks like Hiel's preliminary rift reactor. It seems like it could be operated upon touching it.^000000",
         "pt": "^000099Parece com o reator de fenda preliminar de Hiel. Parece que poderia ser operado com toque.^000000",
         "es": "^000099Se parece al reactor de grieta preliminar de Hiel. Parece como si se pudiera operar con solo tocarlo.^000000"
     },
-    "]>f": {
+    "XT5m": {
         "en": "[????]\nAccording to the estimation, the time it takes for home tree's restoration is at least 200 years. During that period, 80% of life forms on this land will be destroyed.",
         "pt": "[????]\nDe acordo com a estimativa, o tempo que leva para a restauração da Yggdrasil é de pelo menos 200 anos.\nDurante esse período, 19% das formas de vida nessa terra serão destruídas.",
         "es": "[???]\nSegún las estimaciones, el tiempo que lleva restaurar el Árbol del hogar es de, al menos, 200 años. Durante ese período, se destruirá el 80 % de las formas de vida en esta tierra."
     },
-    "^>f": {
+    "Xj5m": {
         "en": "[????]\nHowever, if we were to take care of the life forms in the land without restoring home tree, without the basic resources to support the life forms, it will inevitably reach destruction. That period would not even last more than 400 years.",
         "pt": "[????]\nEntretanto, se fôssemos tomar conta das formas de vida na terra sem restaurar a Yggdrasil, sem os recursos básicos para suportar as formas de vida, elas inevitavelmente seriam levadas à destruição.\nO período não duraria mais do que 400 anos.",
         "es": "[???]\nSin embargo, si nos ocupáramos de cuidar las formas de vida en la tierra sin restaurar el Árbol del hogar, sin los recursos básicos para mantenerlas, inevitablemente llegaría su destrucción. Ese período no superaría los 400 años."
     },
-    "_>f": {
+    "Xz5m": {
         "en": "[????]\nWill we enjoy long lasting peace taking into account the 200 years of sacrifice? Or, do we just die out after working to sustain life for 400 years.",
         "pt": "[????]\nSerá que desfrutaremos de paz duradoura, levando em conta os 200 anos de sacrifício? Ou simplesmente morremos depois de sustentar a vida por 400 anos?",
         "es": "[???]\n¿Disfrutaremos de una paz duradera si consideramos los 200 años de sacrificio? ¿O simplemente nos extinguimos después de trabajar para sostener la vida durante 400 años?"
     },
-    "`>f": {
+    "YD5m": {
         "en": "[????]\nWe ask for the wisdom of Elder Assembly.",
         "pt": "[????]\nPedimos a sabedoria da Assembleia dos Anciões.",
         "es": "[???]\nSolicitamos la sabiduría de la Asamblea de Ancianos."
     },
-    "a>f": {
+    "YT5m": {
         "en": "[A low voice]\nWe will first consider your report. The assembly's decision is.... (Static... Static)",
         "pt": "[Voz Baixa]\nPrimeiro, vamos levar em conta seu relatório. A decisão da assembleia é... (bzzzzz... bzzzzz)",
         "es": "[Una voz baja]\nPrimero, estudiaremos tu informe. La decisión de la Asamblea es… *Estática… Estática*"
     },
-    "b>f": {
+    "Yj5m": {
         "en": "^000099Noises interfered the voice and the present time returned.^000000",
         "pt": "^000099Ruídos interferiram com a voz e o presente retornou.^000000",
         "es": "^000099Los ruidos interfirieron con la voz y volvió el tiempo presente.^000000"
     },
-    "c>f": {
+    "Yz5m": {
         "en": "^000099Hiel seems to continue with the improvement. It does not seem right to touch it.^000000",
         "pt": "^000099Hiel parece continuar com as melhorias. Não parece ser correto tocá-lo.^000000",
         "es": "^000099Hiel parece continuar con las mejoras. No parece correcto tocarlo.^000000"
     },
-    "d>f": {
+    "ZD5m": {
         "en": "[Robert]\nHmm?\nCould this be... the guys from last time?",
         "pt": "[Robert]\nHmm?\nPoderiam ser... os caras da última vez?",
         "es": "[Robert]\n¿Mmm?\n¿Podrían ser… los tipos de la última vez?"
     },
-    "e>f": {
+    "ZT5m": {
         "en": "[Robert]\nCome to think of it,{0}, you disappeared after leaving me in front of home tree!",
         "pt": "[Robert]\nPensando bem, {0}, você desapareceu depois me de deixar na frente da Yggdrasil!",
         "es": "[Robert]\nAhora que lo pienso,{0}, ¡desapareciste después de dejarme delante del Árbol del hogar!"
     },
-    "f>f": {
+    "Zj5m": {
         "en": "^000099It was good that Robert appeared in such clarity. But he seems really mad about the time when the communication got cut off last time. Let's first calm his hand holding my collar up.^000000",
         "pt": "^000099Ainda bem que Robert apareceu em tal claridade. Mas ele pareceu realmente bravo quando a comunicação foi cortada da última vez.\nVamos primeiro acalmar sua mão levantando meu colarinho.^000000",
         "es": "^000099Fue bueno que Robert apareciera con tanta claridad. Pero parece estar muy enojado por la última vez que se cortó la comunicación. Primero, tranquilicemos la mano que agarra mi cuello.^000000"
     },
-    "g>f": {
+    "Zz5m": {
         "en": "You see...",
         "pt": "Veja...",
         "es": "Verás…"
     },
-    "h>f": {
+    "aD5m": {
         "en": "It's a misunderstanding!",
         "pt": "É um mal-entendido!",
         "es": "¡Es un malentendido!"
     },
-    "i>f": {
+    "aT5m": {
         "en": "This is difficult.",
         "pt": "Isso é complicado.",
         "es": "Esto es difícil."
     },
-    "j>f": {
+    "aj5m": {
         "en": "Please give me some time to explain!",
         "pt": "Me dê tempo para explicar!",
         "es": "Por favor, ¡dame tiempo para darte una explicación!"
     },
-    "k>f": {
+    "az5m": {
         "en": "[Robert]\nHmm? The necklace in your right hand...",
         "pt": "[Robert]\nHmm? O colar na sua mão direita...",
         "es": "[Robert]\n¿Mmm? El collar en tu mano derecha…"
     },
-    "l>f": {
+    "bD5m": {
         "en": "I bought it at the market.",
         "pt": "Eu o comprei no mercado.",
         "es": "Lo compré en el mercado."
     },
-    "m>f": {
+    "bT5m": {
         "en": "I stole it.",
         "pt": "Eu o roubei.",
         "es": "Lo robé."
     },
-    "n>f": {
+    "bj5m": {
         "en": "I met with Sir Etran.",
         "pt": "Eu me encontrei com Sir Etran.",
         "es": "Me reuní con sir Etran."
     },
-    "o>f": {
+    "bz5m": {
         "en": "[Robert]\nYou may fool others, but you can't fool me. Tell me straight. Where is that necklace from?",
         "pt": "[Robert]\nVocê pode enganar os outros, mas não pode me enganar. Conte a verdade. De onde veio esse colar?",
         "es": "[Robert]\nPuedes engañar a otros, pero no puedes engañarme a mí. Dímelo directamente. ¿De dónde es ese collar?"
     },
-    "p>f": {
+    "cD5m": {
         "en": "[{0}]\nAs you know, this is Sir Etran's necklace.",
         "pt": "[{0}]\nComo você sabe, esse é o colar de Sir Etran.",
         "es": "[{0}]\nComo sabes, este es el collar de sir Etran."
     },
-    "q>f": {
+    "cT5m": {
         "en": "[{0}]\nSir Etran seemed exhausted. So I showed him how the future of his work looks like.",
         "pt": "[{0}]\nSir Etran parece exausto. Então eu mostrei a ele como será o seu trabalho no futuro.",
         "es": "[{0}]\nSir Etran parecía estar agotado. Así que le mostré cómo era el futuro de su trabajo."
     },
-    "r>f": {
+    "cj5m": {
         "en": "[Robert]\n......",
         "pt": "[Robert]\n......",
         "es": "[Robert]\n......"
     },
-    "s>f": {
+    "cz5m": {
         "en": "[{0}]\nHe didn't know whether his work was a success or a failure, but after seeing Bifrost full of life, he found the strength to continue.",
         "pt": "[{0}]\nEle não sabia se seu trabalho seria um sucesso ou um fracasso, mas depois de ver Bifröst cheia de vida, encontrou a força para continuar.",
         "es": "[{0}]\nNo sabía si su trabajo había sido un éxito o un fracaso, pero después de ver que Bifrost estaba lleno de vida, encontró fuerzas para continuar."
     },
-    "t>f": {
+    "dD5m": {
         "en": "[Robert]\nI see. That's what happened.",
         "pt": "[Robert]\nEntendo. Foi isso o que aconteceu.",
         "es": "[Robert]\nYa veo. Eso es lo que pasó."
     },
-    "u>f": {
+    "dT5m": {
         "en": "[{0}]\nAnd Sir Etran asked me to deliver this necklace to you. It was to let you know that he won't ever give up the future of Bifrost he's seen.",
         "pt": "[{0}]\nE Sir Etran me pediu para entregar esse colar a você. Para dizer a você que ele jamais desistirá do futuro de Bifröst que testemunhou.",
         "es": "[{0}]\nY sir Etran me pidió que te entregara este collar. Era para hacerte saber que nunca renunciará al futuro que vio de Bifrost."
     },
-    "v>f": {
+    "dj5m": {
         "en": "[{0}]\nThe only thing is.. He was worried about how you were doing. Especially since he couldn't see whether your home tree grew successfully.",
         "pt": "[{0}]\nA única coisa é que... Ele estava preocupado sobre como você estava indo. Especialmente por não conseguir ver se sua Yggdrasil cresceu com sucesso.",
         "es": "[{0}]\nLo único es que… Estaba preocupado por cómo estabas. Sobre todo porque no pudo ver si tu Árbol del hogar pudo crecer con éxito."
     },
-    "w>f": {
+    "dz5m": {
         "en": "[Robert]\nThat can't be helped. The one who is putting in the life force cannot leave the place.",
         "pt": "[Robert]\nNão há o que fazer. Quem está colocando a força vital não pode sair de lá.",
         "es": "[Robert]\nEso no se puede evitar. La persona que se ocupa de aportar la fuerza vital no puede abandonar el lugar."
     },
-    "x>f": {
+    "eD5m": {
         "en": "Is it possible to obtain a home tree leaf?",
         "pt": "É possível obter uma Folha da Yggdrasil?",
         "es": "¿Es posible obtener una hoja de Árbol del hogar?"
     },
-    "y>f": {
+    "eT5m": {
         "en": "[Robert]\nAh, you are trying to show Etran my home tree's leaf. You ask such an obvious question...",
         "pt": "[Robert]\nAh, você está tentando mostrar a Etran minha folha da Yggdrasil. Você faz uma pergunta tão óbvia...",
         "es": "[Robert]\nAh, estás tratando de mostrarle a Etran la hoja de mi Árbol del hogar. Preguntas algo tan obvio…"
     },
-    "z>f": {
+    "ej5m": {
         "en": "[Robert]\nIn fact, my home tree just bloomed up its first leaf. It's very big and full of splendor. Give me a minute.",
         "pt": "[Robert]\nNa verdade, a primeira folha acabou de brotar na minha Yggdrasil. É enorme e cheia de esplendor. Me dê um minuto.",
         "es": "[Robert]\nDe hecho, acaba de brotar la primera hoja de mi Árbol del hogar. Es muy grande y está llena de esplendor. Dame un minuto."
     },
-    "{>f": {
+    "ez5m": {
         "en": "^000099Robert's reaction has not emerged yet. He must be still in the process of obtainig a home tree leaf.^000000",
         "pt": "^000099A reação de Robert surgiu ainda. Ele deve ainda estar no processo de obter uma folha da Yggdrasil.^000000",
         "es": "^000099La reacción de Robert aún no salió a la luz. Debe estar todavía en proceso de obtener una hoja de Árbol del hogar.^000000"
     },
-    "|>f": {
+    "fD5m": {
         "en": "[Robert]\nI kept you waiting.",
         "pt": "[Robert]\nTe deixei esperando.",
         "es": "[Robert]\nTe hice esperar."
     },
-    "}>f": {
+    "fT5m": {
         "en": "[Robert]\nTake this home tree leaf. This is a leaf that I obtained myself, so it won't affect home tree much at all.",
         "pt": "[Robert]\nLeve essa folha da Yggdrasil. Esse é a folha que obtive pessoalmente, então não afetará muito a Yggdrasil.",
         "es": "[Robert]\nToma esta hoja de Árbol del hogar. Esta es una hoja que obtuve yo mismo, así que no afectará mucho el Árbol del hogar."
     },
-    "~>f": {
+    "fj5m": {
         "en": "[Robert]\nAnd the necklace you gave me earlier, I understand very well the will of Etran, so you can just return it back to him.",
         "pt": "[Robert]\nE o colar que você me deu antes, eu entendo muito bem a vontade de Etran, então pode devolver a ele.",
         "es": "[Robert]\nY el collar que me diste antes, entiendo muy bien la voluntad de Etran, así que puedes devolvérselo."
     },
-    ">f": {
+    "fz5m": {
         "en": "[Robert]\nThere's no way I would feel good after receiving a necklace from that kid. I know it might be troublesome, but please give it back to him.",
         "pt": "[Robert]\nEu não me sentiria bem depois de receber um colar daquele moleque. Eu sei que pode ser problemático, mas, por favor, devolva a ele.",
         "es": "[Robert]\nDe ninguna manera me sentiría bien después de recibir un collar de su parte. Sé que puede causarte problemas, pero devuélveselo, por favor."
