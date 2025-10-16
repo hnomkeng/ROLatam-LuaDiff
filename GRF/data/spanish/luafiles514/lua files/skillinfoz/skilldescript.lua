@@ -11418,9 +11418,9 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777715x15 casillas^000000 l ^77777750%^000000 l ^777777-20^000000"
 	},
 	[SKID.GN_SLINGITEM] = {
-		"Honda de objetos",
+		"Honda de Objetos",
 		"Nv. máx.: 1",
-		"Habilidad requerida: ^777777Cambiar material 1^000000",
+		"Habilidad requerida: ^777777Cambiar Material 1^000000",
 		"Forma de habilidad: ^777777Activa^000000",
 		"Descripción: ^777777Lanza bombas de fruta u objetos de lanzamiento Alcance de la habilidad de 11 casillas.^000000"
 	},

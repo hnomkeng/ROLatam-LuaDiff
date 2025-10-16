@@ -11652,43 +11652,43 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[5847] = {
-		Title = "Una historia para Luanda",
+		Title = "Ilusión de Luanda",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Contémosle al <NAVI>[administrador de defensa Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> lo que viste y viviste hace un momento."
+			"Cuenta lo que viste a <NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>."
 		},
 		Summary = "",
 		NpcSpr = "4_M_THAIONGBAK",
 		NpcNavi = "com_d02_i",
 		NpcPosX = 241,
 		NpcPosY = 255,
-		RewardEXP = "1 120 000",
-		RewardJEXP = "650 000"
+		RewardEXP = "1.120.000",
+		RewardJEXP = "650.000"
 	},
 	[5848] = {
-		Title = "Prueba del exterminio de los Megalith",
-		IconName = "ico_nq.bmp",
+		Title = "Muestra de Megalito",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"La aldea pasa por un mal momento por culpa de la tribu Megalith. Trae 3 <ITEM>[Amuletos de Megalith]<INFO>25638</INFO></ITEM>, y el jefe te premiará una vez al día."
+			"Estamos teniendo problemas con el Clan de los Megalitos. Elimina a algunos de ellos y tráenos 3 <ITEM>[Símbolos de Megalito]<INFO>25638</INFO></ITEM>."
 		},
-		Summary = "3 Amuletos de Megalith.",
+		Summary = "3 Símbolos de Megalito",
 		NpcSpr = "4_M_THAIONGBAK",
 		NpcNavi = "com_d02_i",
 		NpcPosX = 241,
 		NpcPosY = 255,
-		RewardEXP = "4 300 000",
-		RewardJEXP = "2 800 000",
+		RewardEXP = "4.300.000",
+		RewardJEXP = "2.800.000",
 		RewardItemList = {
 			{ItemID = 25271, ItemNum = 1}
 		}
 	},
 	[5849] = {
-		Title = "[En espera] Prueba del exterminio de los Megalith",
+		Title = "[Espera] Muestra de Megalito",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"El <NAVI>[administrador de defensa Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> te premiará mañana si traes pruebas de haber derrotado a la tribu Megalith."
+			"Vuelve mañana con <NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Se reinicia a las 4:00.",
+		Summary = "Se reinicia a las 4 de la mañana.­",
 		CoolTimeQuest = 1,
 		NpcSpr = "4_M_THAIONGBAK",
 		NpcNavi = "com_d02_i",
@@ -11696,29 +11696,29 @@ QuestInfoList = {
 		NpcPosY = 255
 	},
 	[5850] = {
-		Title = "Prueba del exterminio de los Wootan",
-		IconName = "ico_nq.bmp",
+		Title = "Muestra de Wootan",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"La aldea pasa por un mal momento por culpa de la tribu Wootan. Trae 3 <ITEM>[Amuletos de Wootan]<INFO>25638</INFO></ITEM>, y el jefe te premiará una vez al día."
+			"Estamos teniendo problemas con el Clan de los Wootans. Elimina a algunos de ellos y tráenos 3 <ITEM>[Símbolos de Wootan]<INFO>25633</INFO></ITEM>."
 		},
-		Summary = "3 Amuletos de Wootan.",
+		Summary = "3 Símbolos de Wootan",
 		NpcSpr = "4_M_THAIONGBAK",
 		NpcNavi = "com_d02_i",
 		NpcPosX = 241,
 		NpcPosY = 255,
-		RewardEXP = "4 300 000",
-		RewardJEXP = "2 800 000",
+		RewardEXP = "4.300.000",
+		RewardJEXP = "2.800.000",
 		RewardItemList = {
 			{ItemID = 25271, ItemNum = 1}
 		}
 	},
 	[5851] = {
-		Title = "[En espera] Prueba del exterminio de los Wootan",
+		Title = "[Espera] Muestra de Wootan",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"El <NAVI>[administrador de defensa Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> te premiará mañana si traes pruebas de haber derrotado a la tribu Wootan."
+			"Vuelve mañana con <NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Se reinicia a las 4:00.",
+		Summary = "Se reinicia a las 4 de la mañana.­",
 		CoolTimeQuest = 1,
 		NpcSpr = "4_M_THAIONGBAK",
 		NpcNavi = "com_d02_i",
@@ -11726,29 +11726,29 @@ QuestInfoList = {
 		NpcPosY = 255
 	},
 	[5852] = {
-		Title = "Cacería de Megalith",
-		IconName = "ico_nq.bmp",
+		Title = "Caza de Megalito",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Planeamos someter a la tribu Megalith. Por favor, derrota a 5 <NAVI>[Trijuntas antiguas]<INFO>ILL_TRI_JOINT,0,0,3,-222,1</INFO></NAVI>, <NAVI>[Gólem de estalactita antiguos]<INFO>ILL_STALACTIC_GOLEM,0,0,3,-222,1</INFO></NAVI> y <NAVI>[Megalith antiguos]<INFO>ILL_MEGALITH,0,0,3,-222,1</INFO></NAVI>. Informa al <NAVI>[administrador de defensa Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> cuando hayas terminado."
+			"Por favor, elimina \n\t\t\t5 <NAVI>[Trilobite Ancestral]<INFO>ILL_TRI_JOINT,0,0,3,-222,1</INFO></NAVI>, \n\t\t\t5 <NAVI>[Gólem Ancestral]<INFO>ILL_STALACTIC_GOLEM,0,0,3,-222,1</INFO></NAVI>, \n\t\t\t5 <NAVI>[Megalito Ancestral]<INFO>ILL_MEGALITH,0,0,3,-222,1</INFO></NAVI>\n\t\t\ty regresa con <NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>."
 		},
-		Summary = "",
+		Summary = "Tribu Megalito",
 		NpcSpr = "4_M_THAIONGBAK",
 		NpcNavi = "com_d02_i",
 		NpcPosX = 241,
 		NpcPosY = 255,
-		RewardEXP = "4 300 000",
-		RewardJEXP = "2 800 000",
+		RewardEXP = "4.300.000",
+		RewardJEXP = "2.800.000",
 		RewardItemList = {
 			{ItemID = 25271, ItemNum = 1}
 		}
 	},
 	[5853] = {
-		Title = "[En espera] Cacería de Megalith",
+		Title = "[Espera] Caza de Megalito",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"El <NAVI>[administrador de defensa Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> espera que te unas mañana a la cacería de Megalith."
+			"Vuelve mañana con <NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Se reinicia a las 4:00.",
+		Summary = "Se reinicia a las 4 de la mañana.­",
 		CoolTimeQuest = 1,
 		NpcSpr = "4_M_THAIONGBAK",
 		NpcNavi = "com_d02_i",
@@ -11756,29 +11756,35 @@ QuestInfoList = {
 		NpcPosY = 255
 	},
 	[5854] = {
-		Title = "Cacería de Wootan",
-		IconName = "ico_nq.bmp",
+		Title = "Caza de Wootan",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Planeamos someter a la tribu Wootan. Derrota a 5 <NAVI>[Tiradores pétreos antiguos]<INFO>ILL_STONE_SHOOTER,0,0,3,-222,1</INFO></NAVI>, <NAVI>[Tiradores Wootan antiguos]<INFO>ILL_WOOTAN_SHOOTER,0,0,3,-222,1</INFO></NAVI>, <NAVI>[Luchadores Wootan antiguos]<INFO>ILL_WOOTAN_FIGHTER,0,0,3,-222,1</INFO></NAVI>. Informa al <NAVI>[administrador de defensa Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> cuando hayas terminado."
+			[[
+Por favor, elimina
+			5 <NAVI>[Lanzador de Piedras]<INFO>ILL_STONE_SHOOTER,0,0,3,-222,1</INFO></NAVI>, 
+			5 <NAVI>[Arquero Wootan]<INFO>ILL_WOOTAN_SHOOTER,0,0,3,-222,1</INFO></NAVI>, 
+			5 <NAVI>[Luchador Wootan]<INFO>ILL_WOOTAN_FIGHTER,0,0,3,-222,1</INFO></NAVI>,
+			y regresa con <NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>.]]
 		},
-		Summary = "",
+		Summary = "Tribu Wootan",
 		NpcSpr = "4_M_THAIONGBAK",
 		NpcNavi = "com_d02_i",
 		NpcPosX = 241,
 		NpcPosY = 255,
-		RewardEXP = "4 300 000",
-		RewardJEXP = "2 800 000",
+		RewardEXP = "4.300.000",
+		RewardJEXP = "2.800.000",
 		RewardItemList = {
 			{ItemID = 25271, ItemNum = 1}
 		}
 	},
 	[5855] = {
-		Title = "[En espera] Cacería de Wootan",
+		Title = "[Espera] Caza de Wootan",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"El <NAVI>[administrador de defensa Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> espera que te unas mañana a la cacería de Wootan."
+			"Vuelve mañana con <NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Se reinicia a las 4:00.",
+		Summary = "Se reinicia a las 4 de la mañana.­",
+		CoolTimeQuest = 1,
 		NpcSpr = "4_M_THAIONGBAK",
 		NpcNavi = "com_d02_i",
 		NpcPosX = 241,
@@ -21041,16 +21047,16 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[8401] = {
-		Title = "En el Talón del Rey",
-		Description = {""},
-		Summary = "Entra a la mazmorra."
+		Title = "A los Pies del Rey",
+		Summary = "Ingresar a la instancia"
 	},
 	[8402] = {
-		Title = "Invisible Quest",
+		Title = "[Espera] A los Pies del Rey",
 		Description = {
-			"Place Holder"
+			"Mañana, volveremos a <NAVI>[Dr. Magnatum]<INFO>verus04,79,114,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "Vuelve mañana.­",
+		CoolTimeQuest = 1
 	},
 	[8500] = {
 		Title = "Se necesita Ramitas de Flores",
@@ -21242,23 +21248,22 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[8527] = {
-		Title = "Seguro de retraso: Cartas de EXP y Pasos",
+		Title = "Compensación",
 		Description = {
-			"Si derrotas a 50 Pasos salvajes y Cartas de EXP dentro de la Sala de invocación, podrás recibir tu recompensa en el tablero que está junto a la salida de la Sala de invocación."
+			"Elimina 50 Roborings que interrumpen el duelo. Al finalizar la instancia, recibirás tu compensación."
 		},
-		Summary = ""
+		Summary = "Eliminar Roborings"
 	},
 	[8528] = {
-		Title = "Seguro de retraso (en espera)",
+		Title = "[Espera] Compensación",
 		Description = {
-			"No es posible volver a registrar el Seguro de retraso de forma instantánea. Espera y vuélvelo a intentar."
+			"Essa missão pode ser repetida diariamente."
 		},
-		Summary = "Se reinicia a las 4:00.",
+		Summary = "Vuelve mañana.­",
 		CoolTimeQuest = 1
 	},
 	[8529] = {
-		Title = "El maestro del Talón del Rey",
-		Description = {""},
+		Title = "A los Pies del Rey",
 		Summary = ""
 	},
 	[8530] = {
@@ -33311,25 +33316,27 @@ QuestInfoList = {
 		Summary = "Place Holder"
 	},
 	[12377] = {
-		Title = "Exploración de la mazmorra del fin de semana",
+		Title = "Cripta",
 		Description = {
-			"Este es un pase que te permite entrar a la mazmorra del recuerdo de fin de semana. Puedes entrar sin restricciones durante una hora."
+			"Puedes acceder a la Cripta que simula la cueva de Payon."
 		},
-		Summary = "Mazmorra del fin de semana"
+		Summary = "1 Hora­"
 	},
 	[12378] = {
-		Title = "Necesitas recuperarte del cansancio",
+		Title = "[Espera] Cripta]",
 		Description = {
-			"No puedes entrar a la mazmorra del fin de semana debido al cansancio acumulado. Todo el cansancio desaparecerá a medianoche."
+			"Ya no puedes entrar a la Cripta. Vuelve el próximo sábado o domingo a partir de la medianoche."
 		},
-		Summary = "Cansancio acumulado."
+		Summary = "Vuelve el fin de semana­",
+		CoolTimeQuest = 1
 	},
 	[12379] = {
-		Title = "Necesitas recuperarte del cansancio",
+		Title = "[Espera] Tumba del Monarca",
 		Description = {
-			"No puedes entrar a la mazmorra del viernes debido al cansancio acumulado. Todo el cansancio desaparecerá a medianoche."
+			"Has accedido a la Tumba del Monarca, donde reside el Lich. Solo puedes acceder a esta ubicación los viernes."
 		},
-		Summary = "Cansancio acumulado."
+		Summary = "Vuelve el viernes­",
+		CoolTimeQuest = 1
 	},
 	[12381] = {
 		Title = "Responsable de alimentos del nuevo continente",
@@ -38088,24 +38095,24 @@ QuestInfoList = {
 		Summary = "De vuelta con Registrador"
 	},
 	[14585] = {
-		Title = "Los Sueños de la Papisa",
+		Title = "Edda de Arunafeltz",
 		Description = {
-			"Es necesario determinar la causa de que la Papisa haya prolongado cada vez más sus horas de sueño en los últimos años. Por favor, entra en el sueño de la Papisa para averiguar y resuelve cualquier problema."
+			"Necesitarás entender por qué el sueño de la Papisa es cada vez más largo. Entra en el sueño de la Papisa, descubre la causa y, si hay algún problema, resuélvelo."
 		},
 		Summary = "Completa la instancia"
 	},
 	[14586] = {
-		Title = "Hora de Dormir",
+		Title = "[Espera] Edda de Arunafeltz",
 		Description = {
-			"La Papisa aún no se durmió. Vuelve mañana."
+			"La Papisa aún no ha dormido. Vuelve mañana."
 		},
-		Summary = "Regresa mañana",
+		Summary = "Vuelve mañana.­",
 		CoolTimeQuest = 1
 	},
 	[14587] = {
-		Title = "Los Sueños de la Papisa",
+		Title = "Edda de Arunafeltz",
 		Description = {
-			"Es necesario determinar la causa de que la Papisa haya prolongado cada vez más sus horas de sueño en los últimos años. Por favor, entra en el sueño de la Papisa para averiguar y resuelve cualquier problema."
+			"Necesitarás entender por qué el sueño de la Papisa es cada vez más largo. Entra en el sueño de la Papisa, descubre la causa y, si hay algún problema, resuélvelo."
 		},
 		Summary = "Completa la instancia"
 	},
@@ -38145,18 +38152,18 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[14593] = {
-		Title = "Envío de correo",
+		Title = "[RODEX] Edda de Arunafeltz",
 		Description = {
-			"Envío de correo"
+			"Misión que identifica que se ha enviado un RODEX al jugador."
 		},
 		Summary = ""
 	},
 	[14594] = {
-		Title = "Preparación para recorrer el camino de los sueños",
+		Title = "Edda de Arunafeltz",
 		Description = {
-			"Si quieres transitar por el camino de los sueños, visítanos de nuevo."
+			"Si estás preparado para recorrer el camino de los sueños, empieza ahora."
 		},
-		Summary = "A Niren"
+		Summary = "Portal de los Sueños"
 	},
 	[14595] = {
 		Title = "Invisible Quest",
@@ -40644,36 +40651,36 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[16215] = {
-		Title = "El sueño sombrío",
+		Title = "El Sueño Sombrío",
 		Description = {
-			"Aceptaste acompañar a Loreche en su investigación. Habla con <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> para entrar a la grieta dimensional."
+			"Has aceptado acompañar a Loreche en la investigación. Habla con <NAVI>[Loreche]<INFO>dali02.gat,108,94,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Investigación de la grieta dimensional."
+		Summary = "Habla con Loreche"
 	},
 	[16216] = {
-		Title = "La ilusión jovial",
+		Title = "El Sueño Sombrío",
 		Description = {
-			"Aceptaste acompañar a Loreche en su investigación. Habla con <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> para entrar a la grieta dimensional."
+			"Has aceptado acompañar a Loreche en la investigación. Habla con <NAVI>[Loreche]<INFO>dali02.gat,108,94,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Investigación de la grieta dimensional."
+		Summary = "Habla con Loreche"
 	},
 	[16217] = {
-		Title = "Descanso y relajación",
+		Title = "[Espera] El Sueño Sombrío",
 		Description = {
-			"Esta es una misión diaria y se puede volver a hacer cuando termine el tiempo de espera. Habla con <NAVI>[Loreche]<INFO>dali02.gat,108,94,0,101,0</INFO></NAVI> en la grieta dimensional para aceptar la misión."
+			"Esta es una misión diaria y puedes retomarla cuando se restablezca el tiempo de reutilización. Habla con <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Se reinicia a las 4:00.",
+		Summary = "Se reinicia a las 4 a. m.­",
 		CoolTimeQuest = 1
 	},
 	[16218] = {
-		Title = "Modificación y cálculo",
+		Title = "El Sueño Sombrío",
 		Description = {
-			"Vamos a buscar <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> para poder entrar a la grieta dimensional."
+			"Habla con Loreche <NAVI>[Loreche]<INFO>dali02.gat,108,94,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Habla con Eugenie."
+		Summary = "Habla con Loreche­"
 	},
 	[16219] = {
-		Title = "Amabilidad y gratitud",
+		Title = "El Sueño Sombrío",
 		Description = {""},
 		Summary = ""
 	},

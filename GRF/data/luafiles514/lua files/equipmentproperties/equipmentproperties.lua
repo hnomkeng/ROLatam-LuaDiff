@@ -109289,7 +109289,7 @@ Item = {
 				AddRangeAttackDamage(1, 3)
 			end
 			if 129 < temp then
-				AddSPdrain(2, 1)
+				AddSPdrain(2, 2)
 			end
 		end,
 		OnStartPretendEquip = true
@@ -111421,7 +111421,12 @@ Item = {
 			0,
 			0,
 			0
-		}
+		},
+		OnStartEquip = function()
+			AddMdamage_Race(10, 10)
+			AddMdamage_Race(11, 10)
+			AddExtParam(0, 140, 3)
+		end
 	},
 	[436001] = {
 		Type = "armor",
@@ -111436,7 +111441,12 @@ Item = {
 			0,
 			0,
 			0
-		}
+		},
+		OnStartEquip = function()
+			RaceAddDamage(10, 10)
+			RaceAddDamage(11, 10)
+			AddExtParam(0, 207, 3)
+		end
 	},
 	[436002] = {
 		Type = "armor",
@@ -111451,7 +111461,12 @@ Item = {
 			0,
 			0,
 			0
-		}
+		},
+		OnStartEquip = function()
+			AddRaceTolerace(10, 5)
+			AddRaceTolerace(11, 5)
+			AddExtParam(0, 111, 5)
+		end
 	},
 	[21205] = {
 		Type = "armor",
@@ -122004,7 +122019,23 @@ Item = {
 			0,
 			0,
 			3
-		}
+		},
+		OnStartEquip = function()
+			local temp, temp2 = 0, 0
+			temp = GetRefineLevel(GetLocation())
+			AddExtParam(0, 41, temp * 5)
+			AddExtParam(0, 200, temp * 3)
+			AddRangeAttackDamage(1, math.floor(temp / 2))
+			temp2 = math.floor(get(11) / 10)
+			SetEquipTempValue(0, temp2)
+			if 12 < temp2 then
+				temp2 = 12
+			end
+			if 2 < temp2 then
+				AddExtParam(0, 41, (temp2 - 2) * 3)
+			end
+		end,
+		OnStartPretendEquip = true
 	},
 	[28105] = {
 		Type = "Mweapon",
@@ -129075,7 +129106,7 @@ Item = {
 				AddExtParam(0, 167, 10)
 			end
 			if 8 < temp then
-				AddDamage_CRI(1, 10)
+				AddDamage_CRI(1, 15)
 			end
 			if 10 < temp then
 				RaceAddDamage(4, 30)
@@ -136423,6 +136454,12 @@ Item = {
 		Type = "card",
 		OnStartEquip = function()
 			AddExtParam(0, 45, 20)
+		end
+	},
+	[29030] = {
+		Type = "card",
+		OnStartEquip = function()
+			AddExtParam(0, 140, 1)
 		end
 	},
 	[29046] = {
@@ -159805,6 +159842,21 @@ Item = {
 			0,
 			3
 		},
+		OnStartEquip = function()
+			local temp, temp2 = 0, 0
+			temp = GetRefineLevel(GetLocation())
+			AddExtParam(0, 41, temp * 3)
+			AddExtParam(0, 200, temp * 3)
+			temp2 = math.floor(get(11) / 10)
+			SetEquipTempValue(0, temp2)
+			if 12 < temp2 then
+				temp2 = 12
+			end
+			if 2 < temp2 then
+				AddExtParam(0, 41, (temp2 - 2) * 3)
+				AddExtParam(0, 200, (temp2 - 2) * 3)
+			end
+		end,
 		OnStartPretendEquip = true
 	},
 	[32004] = {
@@ -176734,11 +176786,53 @@ Combiitem = {
 			end
 		end
 	},
+	[2000000472] = {
+		Item = {20967, 22008},
+		OnStartEquip = function()
+			local temp = 0
+			AddRangeAttackDamage(1, 7)
+			temp = GetRefineLevel(6)
+			if 9 < temp then
+				SetIgnoreDefRace_Percent(2, 30)
+				SetIgnoreDefRace_Percent(6, 30)
+				SetIgnoreMdefRace(2, 30)
+				SetIgnoreMdefRace(6, 30)
+			end
+		end
+	},
+	[2000000473] = {
+		Item = {20966, 22009},
+		OnStartEquip = function()
+			local temp = 0
+			AddExtParam(0, 200, 50)
+			temp = GetRefineLevel(6)
+			if 9 < temp then
+				SetIgnoreDefRace_Percent(2, 30)
+				SetIgnoreDefRace_Percent(6, 30)
+				SetIgnoreMdefRace(2, 30)
+				SetIgnoreMdefRace(6, 30)
+			end
+		end
+	},
 	[2000000492] = {
 		Item = {20968, 22011},
 		OnStartEquip = function()
 			local temp = 0
 			AddExtParam(0, 54, 1)
+			temp = GetRefineLevel(6)
+			if 9 < temp then
+				SetIgnoreDefRace_Percent(2, 30)
+				SetIgnoreDefRace_Percent(6, 30)
+				SetIgnoreMdefRace(2, 30)
+				SetIgnoreMdefRace(6, 30)
+			end
+		end
+	},
+	[2000000474] = {
+		Item = {20963, 22006},
+		OnStartEquip = function()
+			local temp = 0
+			AddExtParam(0, 41, 50)
 			temp = GetRefineLevel(6)
 			if 9 < temp then
 				SetIgnoreDefRace_Percent(2, 30)
@@ -179041,7 +179135,7 @@ Combiitem = {
 			temp1 = GetRefineLevel(2)
 			temp2 = GetRefineLevel(5)
 			temp3 = GetRefineLevel(6)
-			temp4 = temp + temp1 + temp2 + temp
+			temp4 = temp + temp1 + temp2 + temp3
 			AddExtParam(0, 111, 15)
 			AddExtParam(0, 112, 5)
 			AddExtParam(0, 45, 5)

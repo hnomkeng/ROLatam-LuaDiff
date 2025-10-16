@@ -22619,7 +22619,7 @@ tbl = {
 		{
 			id = 24222,
 			prob = 5,
-			name = "Malha Sombria de Terra",
+			name = "Malha Sombria de Pedra",
 			group = 1
 		},
 		{
@@ -22867,7 +22867,7 @@ tbl = {
 		{
 			id = 24244,
 			prob = 5,
-			name = "Unknown Item",
+			name = "Escudo Sombrio da Pós-conjuração",
 			group = 1
 		}
 	},
@@ -23067,7 +23067,7 @@ tbl = {
 		{
 			id = 24243,
 			prob = 5,
-			name = "Unknown Item",
+			name = "Greva Sombria da Pós-conjuração",
 			group = 1
 		}
 	},
@@ -28487,7 +28487,7 @@ tbl = {
 		{
 			id = 24222,
 			prob = 1,
-			name = "Malha Sombria de Terra",
+			name = "Malha Sombria de Pedra",
 			group = 1
 		},
 		{
@@ -28799,7 +28799,7 @@ tbl = {
 		{
 			id = 24222,
 			prob = 1,
-			name = "Malha Sombria de Terra",
+			name = "Malha Sombria de Pedra",
 			group = 2
 		},
 		{
@@ -29439,7 +29439,7 @@ tbl = {
 		{
 			id = 24222,
 			prob = 1,
-			name = "Malha Sombria de Terra",
+			name = "Malha Sombria de Pedra",
 			group = 1
 		},
 		{
@@ -29859,7 +29859,7 @@ tbl = {
 		{
 			id = 24222,
 			prob = 1,
-			name = "Malha Sombria de Terra",
+			name = "Malha Sombria de Pedra",
 			group = 2
 		},
 		{
@@ -31179,7 +31179,7 @@ tbl = {
 		{
 			id = 19300,
 			prob = 1,
-			name = "Quepe do Cão-mandante [1]",
+			name = "Chapéu Símbolo do Poder [1]",
 			group = 1
 		},
 		{
@@ -41795,13 +41795,13 @@ tbl = {
 		{
 			id = 24243,
 			prob = 400,
-			name = "Unknown Item",
+			name = "Greva Sombria da Pós-conjuração",
 			group = 6
 		},
 		{
 			id = 24244,
 			prob = 400,
-			name = "Unknown Item",
+			name = "Escudo Sombrio da Pós-conjuração",
 			group = 6
 		},
 		{
@@ -42031,13 +42031,13 @@ tbl = {
 		{
 			id = 24243,
 			prob = 400,
-			name = "Unknown Item",
+			name = "Greva Sombria da Pós-conjuração",
 			group = 6
 		},
 		{
 			id = 24244,
 			prob = 400,
-			name = "Unknown Item",
+			name = "Escudo Sombrio da Pós-conjuração",
 			group = 6
 		},
 		{
@@ -45455,7 +45455,7 @@ tbl = {
 		{
 			id = 1001578,
 			prob = 0,
-			name = "Ticket de Mascote Senhor das Trevas",
+			name = "Ticket de Mascote Abelha-Rainha",
 			group = 0
 		}
 	},
@@ -46205,6 +46205,522 @@ tbl = {
 			group = 0
 		}
 	},
+	[105659] = {
+		{
+			id = 1000274,
+			prob = 0,
+			name = "Cupom da Kachua",
+			group = 0
+		},
+		{
+			id = 25464,
+			prob = 1400,
+			name = "Passaporte 5",
+			group = 6
+		},
+		{
+			id = 23047,
+			prob = 1400,
+			name = "[Evento] Bênção de Tyr 3",
+			group = 6
+		},
+		{
+			id = 12684,
+			prob = 1400,
+			name = "Poção de Ouro 3",
+			group = 6
+		},
+		{
+			id = 23048,
+			prob = 1400,
+			name = "[Evento] Poção de Regeneração 3",
+			group = 6
+		},
+		{
+			id = 9908,
+			prob = 1400,
+			name = "[Promo] Poção Mental 3",
+			group = 6
+		},
+		{
+			id = 22979,
+			prob = 950,
+			name = "[Evento] Manual & Chiclete",
+			group = 6
+		},
+		{
+			id = 101367,
+			prob = 950,
+			name = "[Evento] Poção Menor de Mana 3",
+			group = 6
+		},
+		{
+			id = 14847,
+			prob = 950,
+			name = "[Promo] Poção Menor de Vida 3",
+			group = 6
+		},
+		{
+			id = 6413,
+			prob = 950,
+			name = "Seguro Estendido 3",
+			group = 6
+		},
+		{
+			id = 6833,
+			prob = 950,
+			name = "[Limitado] Amuleto de Siegfried 3",
+			group = 6
+		},
+		{
+			id = 6635,
+			prob = 600,
+			name = "Bênção do Ferreiro",
+			group = 6
+		},
+		{
+			id = 23330,
+			prob = 600,
+			name = "Cx. Asa de Mosca Gigante (1 dia) 3",
+			group = 6
+		},
+		{
+			id = 23032,
+			prob = 600,
+			name = "Cx. de Poção Menos",
+			group = 6
+		},
+		{
+			id = 25041,
+			prob = 600,
+			name = "Desentupidor",
+			group = 6
+		},
+		{
+			id = 23436,
+			prob = 600,
+			name = "Martelo de Refino Sombrio",
+			group = 6
+		},
+		{
+			id = 105432,
+			prob = 500,
+			name = "Bolsa Sangrenta",
+			group = 6
+		},
+		{
+			id = 24220,
+			prob = 400,
+			name = "Malha Sombria de Fogo",
+			group = 6
+		},
+		{
+			id = 24219,
+			prob = 400,
+			name = "Malha Sombria de Gelo",
+			group = 6
+		},
+		{
+			id = 24221,
+			prob = 400,
+			name = "Malha Sombria de Raio",
+			group = 6
+		},
+		{
+			id = 24222,
+			prob = 400,
+			name = "Malha Sombria de Pedra",
+			group = 6
+		},
+		{
+			id = 22813,
+			prob = 400,
+			name = "Caixa de Sombrios Autoportante",
+			group = 6
+		},
+		{
+			id = 17429,
+			prob = 400,
+			name = "Caixa de Sombrios de Conversão",
+			group = 6
+		},
+		{
+			id = 100707,
+			prob = 300,
+			name = "Caixa de Sombrios do Mamute",
+			group = 6
+		},
+		{
+			id = 23250,
+			prob = 300,
+			name = "Combinador Sombrio Elemental",
+			group = 6
+		},
+		{
+			id = 22529,
+			prob = 200,
+			name = "Combinador de Sombrios",
+			group = 6
+		},
+		{
+			id = 20943,
+			prob = 200,
+			name = "Capa Mágica de Geffen [1]",
+			group = 6
+		},
+		{
+			id = 20944,
+			prob = 200,
+			name = "Capa Anti-Magia [1]",
+			group = 6
+		},
+		{
+			id = 105433,
+			prob = 200,
+			name = "Caixa Ancestral Comum",
+			group = 6
+		},
+		{
+			id = 105434,
+			prob = 200,
+			name = "Caixa Ancestral Incomum",
+			group = 6
+		},
+		{
+			id = 105435,
+			prob = 200,
+			name = "Caixa Ancestral Expandida",
+			group = 6
+		},
+		{
+			id = 23766,
+			prob = 80,
+			name = "Caixa de Armadura Temporal",
+			group = 6
+		},
+		{
+			id = 23135,
+			prob = 80,
+			name = "Caixa de Balões Poring",
+			group = 6
+		},
+		{
+			id = 22171,
+			prob = 70,
+			name = "Botas Ancestrais [1]",
+			group = 6
+		},
+		{
+			id = 436000,
+			prob = 70,
+			name = "Máscara de Maero",
+			group = 6
+		},
+		{
+			id = 436001,
+			prob = 70,
+			name = "Máscara de Despero",
+			group = 6
+		},
+		{
+			id = 436002,
+			prob = 70,
+			name = "Máscara de Odium",
+			group = 6
+		},
+		{
+			id = 100553,
+			prob = 70,
+			name = "Caixa de Brotos Temporais",
+			group = 6
+		},
+		{
+			id = 19300,
+			prob = 20,
+			name = "Chapéu Símbolo do Poder [1]",
+			group = 6
+		},
+		{
+			id = 100751,
+			prob = 10,
+			name = "Envelope de Baixo Refino",
+			group = 6
+		},
+		{
+			id = 105559,
+			prob = 5,
+			name = "Selecionáveis Temporais",
+			group = 6
+		},
+		{
+			id = 23538,
+			prob = 5,
+			name = "Baú Sanguinário",
+			group = 6
+		}
+	},
+	[105660] = {
+		{
+			id = 1000274,
+			prob = 0,
+			name = "Cupom da Kachua",
+			group = 0
+		},
+		{
+			id = 25464,
+			prob = 1400,
+			name = "Passaporte 5",
+			group = 6
+		},
+		{
+			id = 23047,
+			prob = 1400,
+			name = "[Evento] Bênção de Tyr 3",
+			group = 6
+		},
+		{
+			id = 12684,
+			prob = 1400,
+			name = "Poção de Ouro 3",
+			group = 6
+		},
+		{
+			id = 23048,
+			prob = 1400,
+			name = "[Evento] Poção de Regeneração 3",
+			group = 6
+		},
+		{
+			id = 9908,
+			prob = 1400,
+			name = "[Promo] Poção Mental 3",
+			group = 6
+		},
+		{
+			id = 22979,
+			prob = 950,
+			name = "[Evento] Manual & Chiclete",
+			group = 6
+		},
+		{
+			id = 101367,
+			prob = 950,
+			name = "[Evento] Poção Menor de Mana 3",
+			group = 6
+		},
+		{
+			id = 14847,
+			prob = 950,
+			name = "[Promo] Poção Menor de Vida 3",
+			group = 6
+		},
+		{
+			id = 6413,
+			prob = 950,
+			name = "Seguro Estendido 3",
+			group = 6
+		},
+		{
+			id = 6833,
+			prob = 950,
+			name = "[Limitado] Amuleto de Siegfried 3",
+			group = 6
+		},
+		{
+			id = 6635,
+			prob = 600,
+			name = "Bênção do Ferreiro",
+			group = 6
+		},
+		{
+			id = 23330,
+			prob = 600,
+			name = "Cx. Asa de Mosca Gigante (1 dia) 3",
+			group = 6
+		},
+		{
+			id = 23032,
+			prob = 600,
+			name = "Cx. de Poção Menos",
+			group = 6
+		},
+		{
+			id = 25041,
+			prob = 600,
+			name = "Desentupidor",
+			group = 6
+		},
+		{
+			id = 23436,
+			prob = 600,
+			name = "Martelo de Refino Sombrio",
+			group = 6
+		},
+		{
+			id = 105432,
+			prob = 500,
+			name = "Bolsa Sangrenta",
+			group = 6
+		},
+		{
+			id = 24220,
+			prob = 400,
+			name = "Malha Sombria de Fogo",
+			group = 6
+		},
+		{
+			id = 24219,
+			prob = 400,
+			name = "Malha Sombria de Gelo",
+			group = 6
+		},
+		{
+			id = 24221,
+			prob = 400,
+			name = "Malha Sombria de Raio",
+			group = 6
+		},
+		{
+			id = 24222,
+			prob = 400,
+			name = "Malha Sombria de Pedra",
+			group = 6
+		},
+		{
+			id = 22813,
+			prob = 400,
+			name = "Caixa de Sombrios Autoportante",
+			group = 6
+		},
+		{
+			id = 17429,
+			prob = 400,
+			name = "Caixa de Sombrios de Conversão",
+			group = 6
+		},
+		{
+			id = 100707,
+			prob = 300,
+			name = "Caixa de Sombrios do Mamute",
+			group = 6
+		},
+		{
+			id = 23250,
+			prob = 300,
+			name = "Combinador Sombrio Elemental",
+			group = 6
+		},
+		{
+			id = 22529,
+			prob = 200,
+			name = "Combinador de Sombrios",
+			group = 6
+		},
+		{
+			id = 20943,
+			prob = 200,
+			name = "Capa Mágica de Geffen [1]",
+			group = 6
+		},
+		{
+			id = 20944,
+			prob = 200,
+			name = "Capa Anti-Magia [1]",
+			group = 6
+		},
+		{
+			id = 105433,
+			prob = 200,
+			name = "Caixa Ancestral Comum",
+			group = 6
+		},
+		{
+			id = 105434,
+			prob = 200,
+			name = "Caixa Ancestral Incomum",
+			group = 6
+		},
+		{
+			id = 105435,
+			prob = 200,
+			name = "Caixa Ancestral Expandida",
+			group = 6
+		},
+		{
+			id = 23766,
+			prob = 80,
+			name = "Caixa de Armadura Temporal",
+			group = 6
+		},
+		{
+			id = 23135,
+			prob = 80,
+			name = "Caixa de Balões Poring",
+			group = 6
+		},
+		{
+			id = 22171,
+			prob = 70,
+			name = "Botas Ancestrais [1]",
+			group = 6
+		},
+		{
+			id = 436000,
+			prob = 70,
+			name = "Máscara de Maero",
+			group = 6
+		},
+		{
+			id = 436001,
+			prob = 70,
+			name = "Máscara de Despero",
+			group = 6
+		},
+		{
+			id = 436002,
+			prob = 70,
+			name = "Máscara de Odium",
+			group = 6
+		},
+		{
+			id = 100553,
+			prob = 70,
+			name = "Caixa de Brotos Temporais",
+			group = 6
+		},
+		{
+			id = 19300,
+			prob = 20,
+			name = "Chapéu Símbolo do Poder [1]",
+			group = 6
+		},
+		{
+			id = 100751,
+			prob = 10,
+			name = "Envelope de Baixo Refino",
+			group = 6
+		},
+		{
+			id = 105559,
+			prob = 5,
+			name = "Selecionáveis Temporais",
+			group = 6
+		},
+		{
+			id = 23538,
+			prob = 5,
+			name = "Baú Sanguinário",
+			group = 6
+		}
+	},
+	[105673] = {
+		{
+			id = 105660,
+			prob = 0,
+			name = "[Evento] Artefato Oval de Halloween",
+			group = 0
+		}
+	},
 	[200001] = {
 		{
 			id = 25793,
@@ -46429,9 +46945,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105467,
+			id = 105673,
 			prob = 1,
-			name = "Sacola de Artefato 11",
+			name = "Unknown Item 11",
 			group = 0
 		}
 	},
@@ -46443,9 +46959,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105467,
+			id = 105673,
 			prob = 1,
-			name = "Sacola de Artefato",
+			name = "Unknown Item",
 			group = 0
 		}
 	},
@@ -46569,9 +47085,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105467,
+			id = 105673,
 			prob = 1,
-			name = "Sacola de Artefato 11",
+			name = "Unknown Item 11",
 			group = 0
 		}
 	},
@@ -46583,9 +47099,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105467,
+			id = 105673,
 			prob = 1,
-			name = "Sacola de Artefato",
+			name = "Unknown Item",
 			group = 0
 		}
 	},
@@ -46663,9 +47179,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105467,
+			id = 105673,
 			prob = 1,
-			name = "Sacola de Artefato 11",
+			name = "Unknown Item 11",
 			group = 0
 		}
 	},
@@ -46677,9 +47193,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105467,
+			id = 105673,
 			prob = 1,
-			name = "Sacola de Artefato",
+			name = "Unknown Item",
 			group = 0
 		}
 	},
@@ -47161,9 +47677,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105467,
+			id = 105673,
 			prob = 1,
-			name = "Sacola de Artefato 11",
+			name = "Unknown Item 11",
 			group = 0
 		}
 	},

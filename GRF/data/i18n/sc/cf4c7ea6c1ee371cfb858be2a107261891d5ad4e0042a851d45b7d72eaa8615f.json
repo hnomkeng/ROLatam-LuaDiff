@@ -1,267 +1,302 @@
 {
     "gJzkCA": {
-        "en": "Dungeon Portal",
-        "pt": "Day Dungeon Portal",
+        "ko": "요일던전 포탈",
+        "en": "Daily Dungeon Portal",
+        "pt": "Cripta",
         "es": "Dungeon Portal"
     },
     "gZzkCA": {
-        "en": "[Lab Admin]\n0614_normal",
-        "pt": "[Gerente de laboratório]\n0614_Normal",
-        "es": "[Administrador de laboratorio]\n0614_normal"
-    },
-    "gpzkCA": {
-        "en": "[Lab Admin]\nChoose one",
-        "pt": "[Gerente de laboratório]\nescolha",
-        "es": "[Administrador de laboratorio]\nElige uno."
-    },
-    "g5zkCA": {
-        "en": "Set item",
-        "pt": "Variável ep16",
-        "es": "Establecer objeto."
-    },
-    "hJzkCA": {
-        "en": "Enterance ticket",
+        "ko": "재입장/쿨타임 모두 초기화",
+        "en": "Re-entry/Cooldown Reset",
         "pt": "Setar Quest",
         "es": "Boleto de entrada."
     },
-    "hZzkCA": {
-        "en": "Reset quest number",
+    "gpzkCA": {
+        "ko": "마리아쥬 이동",
+        "en": "Move to Mariage",
         "pt": "Resetar Cooldown",
         "es": "Restablecer número de misión."
     },
-    "hpzkCA": {
-        "en": "Gift Clerk",
+    "g5zkCA": {
+        "ko": "선물용품 점원",
+        "en": "Gift Shop Clerk",
         "pt": "Empacotadora",
-        "es": "Gift Clerk"
+        "es": "Encargada de regalos"
     },
-    "h5zkCA": {
-        "en": "You have too many items in your inventory. Please come back after removing some items.",
-        "pt": "Você tem pouco espaço no inventário. Alivie sua carga e tente novamente.",
-        "es": "Tienes demasiados objetos en tu inventario. Vuelve después de quitar algunos objetos."
+    "hJzkCA": {
+        "ko": "^FF0000보유한 물건의 종류나 무게가 너무 많은 것 같습니다. 인벤토리를 정리해주세요.^000000",
+        "en": "^FF0000It seems you have too many items of different types or weights. Please organize your inventory.^000000",
+        "pt": "^FF0000Você tem pouco espaço no inventário. Alivie sua carga e tente novamente.^000000",
+        "es": "^FF0000Tienes demasiados objetos en tu inventario. Vuelve después de quitar algunos objetos.^000000"
     },
-    "iJzkCA": {
-        "en": "Your inventory weight is too high! Please come back after removing some weight from it.",
-        "pt": "Você está carregando muitos itens. Alivie sua carga e tente novamente.",
-        "es": "¡Tu inventario está demasiado pesado! Vuelve después de aligerarlo un poco."
-    },
-    "iZzkCA": {
-        "en": "[Gift Clerk]\nI'm wrapping Potions for those who want to give them as gifts!",
+    "hZzkCA": {
+        "ko": "[선물용품 점원]\n소중한분에게 비약을 선물하고 싶으신 분을 위해 제가 직접 포장을 해드리고 있습니다.",
+        "en": "[Gift Shop Clerk]\nI can personally wrap elixirs for those who want to gift them to someone special.",
         "pt": "[Empacotadora]\nAs Poções Menores encontradas na Cripta não podem ser negociadas, mas eu consigo colocá-las numa caixa totalmente negociável!",
         "es": "[Encargado de regalos]\n¡Estoy envolviendo pociones para los que quieran regalarlas!"
     },
-    "ipzkCA": {
-        "en": "[Gift Clerk]\nIf you have more than 5 Potions of the same type, you can wrap them for 200,000 Zeny. Would you like them wrapped?",
+    "hpzkCA": {
+        "ko": "[선물용품 점원]\n같은 종류의 비약을 5개 이상 소지하고 계시면 포장이 가능하며 별도로 20만제니를 포장 비용으로 받고 있습니다. 지금 바로 포장 해드릴까요?",
+        "en": "[Gift Shop Clerk]\nIf you have five or more elixirs of the same type, we can wrap them for an additional 200,000 Zeny. Would you like me to wrap them right now?",
         "pt": "[Empacotadora]\nQuer fazer negócios?",
-        "es": "[Encargado de regalos]\nSi tienes más de 5pociones del mismo tipo, puedes envolverlas por 200000zeny. ¿Quieres que las envuelva?"
+        "es": "[Encargado de regalos]\nSi tienes más de 5pociones del mismo tipo, puedes envolverlas por 200000 zeny. ¿Quieres que las envuelva?"
     },
-    "i5zkCA": {
+    "h5zkCA": {
+        "ko": "취소",
         "en": "Cancel",
         "pt": "Não, adeus.",
         "es": "Cancelar."
     },
-    "jJzkCA": {
-        "en": "Wrap Minor Growth Potion",
+    "iJzkCA": {
+        "ko": "성장비약 포장",
+        "en": "Packaging Growth Potion",
         "pt": "Empacotar Poções de EXP.",
         "es": "Envolver Poción de crecimiento menor."
     },
-    "jZzkCA": {
-        "en": "Wrap Minor Growth JPotion",
+    "iZzkCA": {
+        "ko": "직업비약 포장",
+        "en": "Packaging Job Elixirs",
         "pt": "Empacotar Poções de Classe.",
         "es": "Envolver Elíxir de crecimiento menor."
     },
-    "jpzkCA": {
-        "en": "[Gift Clerk]\nIf you want it wrapped, please come again.",
+    "ipzkCA": {
+        "ko": "[선물용품 점원]\n언제든 포장을 원하시면 다시 찾아와주세요.",
+        "en": "[Gift Shop Clerk]\nPlease come back anytime to have them wrapped.",
         "pt": "[Empacotadora]\nAté!",
         "es": "[Encargado de regalos]\nSi quieres envolverlas, vuelve pronto."
     },
-    "j5zkCA": {
-        "en": "[Gift Clerk]\nIf you bring 5 Minor Growth Potion, 200,000 Zeny will be charged for packing them. Are you sure?",
+    "i5zkCA": {
+        "ko": "[선물용품 점원]\n최하급 성장 비약 5개를 최하급성장박스로 포장 하는 비용으로 20만 제니가 청구됩니다. 정말 포장하시겠습니까?",
+        "en": "[Gift Shop Clerk]\nWe will charge you 200,000 Zeny for wrapping five Lowest Growth Potions into a Lowest Growth Box. Are you sure you want to wrap them?",
         "pt": "[Empacotadora]\nO serviço de empacotamento exige 5 Poções Menores de EXP e 200.000 zenys. Quer continuar?",
         "es": "[Encargado de regalos]\nSi traes 5Pociones de crecimiento menor, se te cobrarán 200000zeny para empaquetarlas. ¿De verdad?"
     },
-    "kJzkCA": {
-        "en": "Please pack them!",
-        "pt": "Muito caro!!",
+    "jJzkCA": {
+        "ko": "포장해주세요!",
+        "en": "Package!",
+        "pt": "Continuar",
         "es": "¡Empaquétalas, por favor!"
     },
-    "kZzkCA": {
-        "en": "[Gift Clerk]\nThe packaging of the Potion you requested is complete. Please come again!",
-        "pt": "Continuar",
+    "jZzkCA": {
+        "ko": "[선물용품 점원]\n주문하신 비약의 포장이 다 끝났습니다. 다음에 또 이용해 주세요.",
+        "en": "[Gift Shop Clerk]\nThe elixirs you ordered have been wrapped. Please come back again.",
+        "pt": "[Empacotadora]\nObrigada por usar meu serviço.",
         "es": "[Encargado de regalos]\nEl empaquetado de la poción que solicitó está listo. ¡Vuelve pronto!"
     },
-    "kpzkCA": {
-        "en": "[Gift Clerk]\nYou seem to be short of materials or zeny. Please come back when you're ready.",
-        "pt": "[Empacotadora]\nVocê já viu o preço dos alimentos?? Eu preciso sobreviver!!",
+    "jpzkCA": {
+        "ko": "[선물용품 점원]\n재료나 소지금이 부족하신 것 같네요. 준비가 되면 다시 찾아와주세요.",
+        "en": "[Gift Shop Clerk]\nIt seems you're short on materials or funds. Please come back when you're ready.",
+        "pt": "[Empacotadora]\nO serviço de empacotamento exige 5 Poções Menores de EXP e 200.000 zenys.",
         "es": "[Encargado de regalos]\nParece que te faltan materiales o zeny. Vuelve cuando tengas todo listo."
     },
-    "k5zkCA": {
-        "en": "[Gift Clerk]\nIf you bring 5 Minor Growth JPotion, 200,000 Zeny will be charged for packing them. Are you sure?",
-        "pt": "[Empacotadora]\nObrigada por usar meu serviço.",
+    "j5zkCA": {
+        "ko": "[선물용품 점원]\n최하급 직업 비약 5개를 최하급직업박스로 포장 하는 비용으로 20만 제니가 청구됩니다. 정말 포장하시겠습니까?",
+        "en": "[Gift Shop Clerk]\nYou'll be charged 200,000 Zeny for packaging five Lowest Profession Elixirs into a Lowest Profession Box. Are you sure you want to pack them?",
+        "pt": "[Empacotadora]\nO serviço de empacotamento exige 5 Poções Menores de Classe e 200.000 zenys. Quer continuar?",
         "es": "[Encargado de regalos]\nSi traes 5Elíxires de crecimiento menor, se te cobrarán 200000zeny para empaquetarlos. ¿De verdad?"
     },
-    "lJzkCA": {
-        "en": "Please pack!",
-        "pt": "[Empacotadora]\nO serviço de empacotamento exige 5 Poções Menores de EXP e 200.000 zenys.",
-        "es": "¡Empaquétalos, por favor!"
-    },
-    "lZzkCA": {
-        "en": "[Gift Clerk]\nI didn't hear you well. Could you repeat it again?",
-        "pt": "[Empacotadora]\nO serviço de empacotamento exige 5 Poções Menores de Classe e 200.000 zenys. Quer continuar?",
+    "kJzkCA": {
+        "ko": "[선물용품 점원]\n잘 못들었네요. 다시 한번 말씀해 주시겠어요?",
+        "en": "[Gift Shop Clerk]\nI didn't hear you correctly. Could you repeat that?",
+        "pt": "[Empacotadora]\nDesculpe, não entendi.",
         "es": "[Encargado de regalos]\nNo te oí bien. ¿Podrías repetirlo de nuevo?"
     },
-    "lpzkCA": {
+    "kZzkCA": {
+        "ko": "마리아쥬",
         "en": "Mariage",
-        "pt": "[Empacotadora]\nO serviço de empacotamento exige 5 Poções Menores de Classe e 200.000 zenys.",
+        "pt": "Mariaju",
         "es": "Mariage"
     },
+    "kpzkCA": {
+        "ko": "[마리아쥬]\n좋은 날씨야. 같이 페이욘 던전 1층에서 피크닉이라도 즐기고 싶을 정도군.",
+        "en": "[Mariage]\nThe weather is beautiful. I'd love to have a picnic on the first floor of Payon Dungeon.",
+        "pt": "[Mariaju]\nO clima está perfeito para um piquenique na Vila dos Arqueiros.",
+        "es": "[Mariage]\n¡El clima es perfecto para un picnic en la Aldea de los Arqueros!"
+    },
+    "k5zkCA": {
+        "ko": "^FF0000던전 안에서 몬스터 테이밍 등의 임의의 몬스터 처리를 하실 경우 정상적인 진행으로 간주하지 않습니다. 이 점 유의하시기 바랍니다.^000000",
+        "en": "^FF0000Taming or otherwise dealing with monsters within the dungeon will not be considered normal progress. Please be aware of this.^000000",
+        "pt": "^FF0000ATENÇÃO: Não domestique monstros em Instâncias. O avanço poderá ficar comprometido.^000000",
+        "es": "^FF0000ADVERTENCIA: No domestiques monstruos en las instancias. Tu progreso podría verse comprometido.^000000"
+    },
+    "lJzkCA": {
+        "ko": "^0000FF입장 유지시간이 종료되었습니다^000000",
+        "en": "^0000FFEntry timer has expired^000000",
+        "pt": "^0000FFO tempo para visitar a Cripta sumiu.^000000",
+        "es": "^0000FFEl tiempo para visitar la Cripta ha terminado.^000000"
+    },
+    "lZzkCA": {
+        "ko": "[마리아쥬]\n이미 입장 유지시간을 다 쓰셨군요. 후유증이 모두 끝나고 새 던전을 열 수 있을때가 되면 다시 보도록 해요.",
+        "en": "[Mariage]\nYou've already used up your entry timer. Let's meet again when the aftereffects have passed and you can open a new dungeon.",
+        "pt": "[Mariaju]\nO tempo de espera ainda não acabou! Aguarde!",
+        "es": "[Mariage]\n¡El tiempo de espera aún no ha terminado! ¡Por favor, espera!"
+    },
+    "lpzkCA": {
+        "ko": "^0000FF주말 메모리얼 던전을 출입했던 후유증이 사라졌습니다. ^000000",
+        "en": "^0000FFThe aftereffects of entering the Weekend Memorial Dungeon have disappeared.^000000",
+        "pt": "^0000FFO tempo de espera para visitar a Cripta sumiu.^000000",
+        "es": "^0000FFEl tiempo de espera para visitar la Cripta ha terminado.^000000"
+    },
     "l5zkCA": {
-        "en": "[Mariage]\nGood weather we're having. I can't wait to have a picnic on the first floor of Payon Dungeon. (Req. level 60 and greater)",
-        "pt": "[Empacotadora]\nDesculpe, não entendi.",
-        "es": "[Mariage]\nEstamos teniendo buen clima. No puedo esperar para hacer un picnic en el primer piso de la mazmorra de Payon. (Se requiere un nivel de 60 o superior)."
+        "ko": "[마리아쥬]\n어머, 저한테 관심을 가져주는 사람이 다 있네요. 요일 던전들 중 주말을 담당하고 있는 마리아쥬라고 해요.",
+        "en": "[Mariage]\nWow, there's someone interested in me. I'm Mariage, in charge of the weekend dungeons.",
+        "pt": "[Mariaju]\nAhá! Finalmente alguém interessado em conhecer Mariaju, a exploradora de instâncias.",
+        "es": "[Mariage]\n¡Ajá! Por fin, alguien interesado en conocer a Mariage, la exploradora de instancias."
     },
     "mJzkCA": {
-        "en": "^FF0000Any monster modifications, such as monster taming, in a dungeon is not considered progress. Please be aware of this.^000000",
-        "pt": "Mariaju",
-        "es": "^660000Cualquier modificación de monstruos, como domarlos en una mazmorra, no se considera progreso. Ten esto en cuenta.^000000"
+        "ko": "[마리아쥬]\n주말 던전이 뭘 하는 곳이냐고요? 주중의 모험으로 피곤해진 마음을 정리할 겸 오붓하게 자신만의 공간에서 사냥할 수 있도록 특별히 마련한 공간 이예요.",
+        "en": "[Mariage]\nWhat's a weekend dungeon for? It's a special space where you can hunt in your own cozy space and clear your mind of the fatigue from the weekday adventures.",
+        "pt": "[Mariaju]\nEu lhe apresento a Cripta! Uma instância aberta somente nos finais de semana que simula a Caverna de Payon.",
+        "es": "[Mariage]\n¡Conoce la Cripta! Una instancia abierta solo los fines de semana que simula la Cueva de Payon."
     },
     "mZzkCA": {
-        "en": "[Mariage]\nYou've already entered once. If it's still the weekend after midnight, please use it after creating a new dungeon.",
-        "pt": "[Mariaju]\nO clima está perfeito para um piquenique na Vila dos Arqueiros.",
-        "es": "[Mariage]\nYa entraste una vez. Si todavía es fin de semana después de la medianoche, úsalo luego de crear una nueva mazmorra."
+        "ko": "^0000FF주변을 두리번거리는 마리아쥬^000000",
+        "en": "^0000FFMariage looking around^000000",
+        "pt": "^0000FFMariaju^000000 olha de um lado para o outro",
+        "es": "^0000FFMariage^000000 mira a un lado y a otro."
     },
     "mpzkCA": {
-        "en": "^0000FFThe aftereffects of adventuring the Weekend Memorial Dungeon have disappeared. ^000000",
-        "pt": "^FF0000ATENÇÃO: Não domestique monstros em Instâncias. O avanço poderá ficar comprometido.^000000",
-        "es": "^FF0000Las secuelas de aventurarse en la Mazmorra de memorias de fin de semana desaparecieron. ^000000"
+        "ko": "[마리아쥬]\n어디가서 이야기하긴 좀 그런데, 사실 주말에도 갈 파티가 없어서 외로운 모험가 분들이 맘껏 사냥이나 하고 경험치나 드시라고 만든 곳이거든요(소근)",
+        "en": "[Mariage]\nIt's a bit weird to talk about this in public, but it's actually a place where lonely adventurers can hunt and gain experience without having to go to parties on the weekends.",
+        "pt": "[Mariaju]\nA Cripta serve para você evoluir seu personagem de acordo com o nível de dificuldade escolhido.",
+        "es": "[Mariage]\nLa Cripta te permite evolucionar a tu personaje según el nivel de dificultad elegido."
     },
     "m5zkCA": {
-        "en": "[Mariage]\nOh, there's someone who's interested in me! My name is Mariage and I am in charge of the weekend dungeon!",
-        "pt": "[Mariaju]\nO tempo de espera ainda não passou.",
-        "es": "[Mariage]\n¡Ah, hay alguien que está interesado en mí! ¡Me llamo Mariage y estoy a cargo de la Mazmorra de fin de semana!"
+        "ko": "[마리아쥬]\n게다가, 마시기만 해도 경험치가 올라가는 비약도 나오고요.",
+        "en": "[Mariage]\nPlus, it also has elixirs that increase experience points just by drinking them.",
+        "pt": "[Mariaju]\nAlém disso, haverá uma chance de encontrar Baús cheios de Poções que garantem pontos de experiência.",
+        "es": "[Mariage]\nAdemás, tendrás la posibilidad de encontrar cofres llenos de pociones que otorgan puntos de experiencia."
     },
     "nJzkCA": {
-        "en": "[Mariage]\nWhat's the weekend dungeon? It is a special place where you can hunt freely on your own in order to clear your tired mind from the adventures throughout the week.",
-        "pt": "^0000CDO tempo de espera para visitar a Cripta sumiu.^000000",
-        "es": "[Mariage]\n¿Qué es la Mazmorra de fin de semana? Es un lugar especial donde puedes cazar por tu cuenta libremente para despejar tu mente cansada de las aventuras de toda la semana."
+        "ko": "개장 시간은 언제죠?",
+        "en": "When are the opening hours?",
+        "pt": "Que horas a instância abre?",
+        "es": "¿A qué hora abre la instancia?"
     },
     "nZzkCA": {
-        "en": "^0000FFMariage is looking around^000000",
-        "pt": "[Mariaju]\nAhá! Finalmente alguém interessado em conhecer Mariaju, a exploradora de instâncias.",
-        "es": "^FF0000Mariage mira a su alrededor.^000000"
+        "ko": "[마리아쥬]\n금요일 23:59 ~ 일요일 23:59 까지만 제한적으로 개방하고 있답니다. 지금은 주말이 아니라서 입장객을 받고 있진 않아요.",
+        "en": "[Mariage]\nIt's only open from 11:59 PM on Friday to 11:59 PM on Sunday. It's not the weekend, so we're not accepting visitors right now.",
+        "pt": "[Mariaju]\nAbre apenas das 23h59 de sexta-feira às 23h59 de domingo. Como não é final de semana, você não pode entrar.",
+        "es": "[Mariage]\nSolo abre desde las 23:59 del viernes hasta las 23:59 del domingo. Como no es fin de semana, no puedes entrar."
     },
     "npzkCA": {
-        "en": "[Mariage]\nIn fact, it's a place where lonely adventurers can hunt and gain experience, even on weekends!",
-        "pt": "[Mariaju]\nEu lhe apresento a Cripta! Uma instância aberta somente nos finais de semana que simula a Caverna de Payon.",
-        "es": "[Mariage]\nDe hecho, es un lugar donde los trotamundos solitarios pueden cazar y ganar experiencia, ¡incluso los fines de semana!"
+        "ko": "[마리아쥬]\n주말이 되면 보자구요~",
+        "en": "[Mariage]\nSee you on the weekend~",
+        "pt": "[Mariaju]\nVejo você no fim de semana.",
+        "es": "[Mariage]\nNos vemos este fin de semana."
     },
     "n5zkCA": {
-        "en": "[Mariage]\nAlso, there's a special potion for gaining experience just by drinking it.",
-        "pt": "^0000CDMariaju^000000 olha de um lado para o outro",
-        "es": "[Mariage]\nAdemás, hay una poción especial para ganar experiencia solo con beberla."
+        "ko": "[마리아쥬]\n마침 잘 오셨네요, 이제 막 개장 준비가 끝난 참이거든요. 지금 입장 하시겠어요?",
+        "en": "[Mariage]\nYou're welcome. We're just finishing preparing for the opening. Would you like to enter now?",
+        "pt": "[Mariaju]\nGostaria de entrar na Cripta?",
+        "es": "[Mariage]\n¿Te gustaría entrar a la Cripta?"
     },
     "oJzkCA": {
-        "en": "When does it open?",
-        "pt": "[Mariaju]\nA Cripta serve para você evoluir seu personagem de acordo com o nível de dificuldade escolhido.",
-        "es": "¿Cuándo abre?"
+        "ko": "주말 메모리얼",
+        "en": "Weekend",
+        "pt": "Weekend",
+        "es": "Weekend"
     },
     "oZzkCA": {
-        "en": "[Mariage]\nIt's only open from Friday 23:59 to Sunday 23:59. It's not the weekend yet, so I'm not accepting visitors.",
-        "pt": "[Mariaju]\nAlém disso, haverá uma chance de encontrar Baús cheios de Poções que garantem pontos de experiência.",
-        "es": "[Mariage]\nSolo abre desde el viernes a las 23:59 hasta el domingo a las 23:59. Aún no es fin de semana, así que no acepto visitas."
+        "ko": "주말 메모리얼 입장 준비",
+        "en": "Weekend Memorial Entry Preparation",
+        "pt": "Criar instância",
+        "es": "Crear instancia"
     },
     "opzkCA": {
-        "en": "[Mariage]\nI'll see you when weekend comes~",
-        "pt": "Que horas a instância abre?",
-        "es": "[Mariage]\nNos vemos cuando llegue el fin de semana~."
+        "ko": "주말 메모리얼 입장",
+        "en": "Weekend Memorial Entry",
+        "pt": "Entrar na Cripta",
+        "es": "Entrar a la Cripta"
     },
     "o5zkCA": {
-        "en": "[Mariage]\nWelcome! I was just getting ready for the opening. Would you like to enter?",
-        "pt": "[Mariaju]\nAbre apenas das 23h59 de sexta-feira às 23h59 de domingo. Como não é final de semana, você não pode entrar.",
-        "es": "[Mariage]\n¡Te doy la bienvenida! Justo me estaba preparando para la apertura. ¿Te gustaría ingresar?"
+        "ko": "[마리아쥬]\n이미 입장 유지중인 던전이 있지않나요? 이 상태에선 다른 던전을 생성하는건 불가능해요.",
+        "en": "[Mariage]\nIsn't there already a dungeon open? We can't create another one now.",
+        "pt": "[Mariaju]\nA cripta já está aberta!",
+        "es": "[Mariage]\n¡La cripta ya está abierta!"
     },
     "pJzkCA": {
-        "en": "Weekend Memorial",
-        "pt": "[Mariaju]\nVejo você no fim de semana.",
-        "es": "Memorias de fin de semana"
+        "ko": "[마리아쥬]\n새 던전을 생성할만큼 후유증이 사라지지 않았군요. 좀 더 쉬다 오시죠?",
+        "en": "[Mariage]\nThe aftereffects aren't over yet enough to create a new dungeon. Why don't you rest a bit more?",
+        "pt": "[Mariaju]\nO tempo de espera ainda não acabou! Aguarde!",
+        "es": "[Mariage]\n¡Aún no ha terminado! ¡Por favor, espera!"
     },
     "pZzkCA": {
-        "en": "Prepare Weekend Memorial",
-        "pt": "[Mariaju]\nGostaria de entrar na Cripta?",
-        "es": "Preparar Memorias de fin de semana."
+        "ko": "파티명:{0}\n파티장:{1}\n^0000FF{2} ^000000- 예약실패",
+        "en": "Party Name: {0}\nParty Leader: {1}\n^0000FF{2} ^000000 - Reservation Failed",
+        "pt": "Grupo: {0}\nLíder: {1}\nA reserva para a ^0000FF{2}^000000 falhou.",
+        "es": "Grupo: {0}\nLíder: {1}\nLa reserva para ^0000FF{2}^000000 falló."
     },
     "ppzkCA": {
-        "en": "Enter Weekend Memorial",
-        "pt": "Cripta",
-        "es": "Entrar Memorias de fin de semana."
+        "ko": "[마리아쥬]\n입장용 통로를 마련해둘게요. 준비가 완료되면 제게 다시 말을 걸어 입장 하시면 되요.",
+        "en": "[Mariage]\nI'll prepare an entrance passage. Once you're ready, just talk to me again to enter.",
+        "pt": "[Mariaju]\nVou te colocar na fila. Quando a entrada liberar, fale comigo novamente para entrar.",
+        "es": "[Mariage]\nTe pondré en la fila. Cuando la entrada esté libre, habla conmigo de nuevo para entrar."
     },
     "p5zkCA": {
-        "en": "Party name:{}\nParty leader:{}\n^0000FF{} ^000000- Reservation failed",
-        "pt": "Criar instância",
-        "es": "Nombre del grupo:{}\nLíder del grupo:{}\n^FF0000{} ^000000- Reserva fallida"
+        "ko": "[마리아쥬]\n파티의 리더가 아니라면 입장 준비를 도울 수 없어요.",
+        "en": "[Mariage]\nIf you're not the party leader, I can't help you prepare.",
+        "pt": "[Mariaju]\nSe você não é o líder do Grupo, não posso te ajudar.",
+        "es": "[Mariage]\nSi no eres el líder del grupo, no puedo ayudarte."
     },
     "qJzkCA": {
-        "en": "[Mariage]\nI'll set up an entrance passage. When you're ready, you can talk to me again and enter.",
-        "pt": "Entrar na Cripta",
-        "es": "[Mariage]\nPrepararé un pasaje de entrada. Cuando tengas todo listo, puedes volver a hablar conmigo y entrar."
+        "ko": "[마리아쥬]\n아직 준비가 안되셨다구요? 그럼 어쩔 수 없죠.",
+        "en": "[Mariage]\nYou're not ready yet? Then there's nothing we can do.",
+        "pt": "[Mariaju]\nBom, volte quando estiver com tudo pronto.",
+        "es": "[Mariage]\nBueno, vuelve cuando estés listo."
     },
     "qZzkCA": {
-        "en": "[Mariage]\nWe can't help you prepare for the entrance if you're not the party leader.",
-        "pt": "Cancelar",
-        "es": "[Mariage]\nNo podemos ayudarte a prepararte para la entrada si no eres el líder del grupo."
+        "ko": "^0000FF레벨 60 미만의 모험가는 입장할 수 없습니다.^000000",
+        "en": "^0000FFAdventurers under level 60 cannot enter.^000000",
+        "pt": "^0000FFViajantes abaixo do nível 60 de base não podem entrar.^000000",
+        "es": "^0000FFLos viajeros con un nivel base inferior a 60 no pueden entrar.^000000"
     },
     "qpzkCA": {
-        "en": "[Mariage]\nYou're not ready yet? All right then.",
-        "pt": "Grupo: {}\nLíder: {}\nA reserva para a ^0000CD{}^000000 falhou.",
-        "es": "[Mariage]\n¿Aún no tienes todo listo? Muy bien."
+        "ko": "^0000FF입장 가능한 요일이 아닙니다.^000000",
+        "en": "^0000FFThis is not a valid day of the week.^000000",
+        "pt": "^0000FFHoje não é um final de semana.^000000",
+        "es": "^0000FFHoy no es fin de semana.^000000"
     },
     "q5zkCA": {
-        "en": "^0000FFAdventurers below level 60 are not allowed in.^000000",
-        "pt": "[Mariaju]\nVou te colocar na fila. Quando a entrada liberar, fale comigo novamente para entrar.",
-        "es": "^FF0000No se permite la entrada de trotamundos con un nivel inferior a 60.^000000"
+        "ko": "[마리아쥬]\n알 수 없는 오류가 발생했습니다.",
+        "en": "[Mariage]\nAn unknown error has occurred.",
+        "pt": "[Mariaju]\nUm erro desconhecido ocorreu.",
+        "es": "[Mariage]\nHa ocurrido un error desconocido."
     },
     "rJzkCA": {
-        "en": "^0000FFToday is not the day you can enter.^000000",
-        "pt": "[Mariaju]\nSe você não é o líder do Grupo, não posso te ajudar.",
-        "es": "^FF0000Hoy no es el día en el que puedes entrar.^000000"
+        "ko": "[마리아쥬]\n이동을 위한 통로가 활성화되지 않았습니다.",
+        "en": "[Mariage]\nThe passage for movement is not activated.",
+        "pt": "[Mariaju]\nA entrada não está aberta.",
+        "es": "[Mariage]\nLa entrada no está abierta."
     },
     "rZzkCA": {
-        "en": "[Mariage]\nAn unknown error occurred.",
-        "pt": "[Mariaju]\nBom, volte quando estiver com tudo pronto.",
-        "es": "[Mariage]\nSe produjo un error desconocido."
+        "ko": "[마리아쥬]\n이곳에 출입할 자격을 갖지 못했습니다.",
+        "en": "[Mariage]\nYou are not authorized to enter this place.",
+        "pt": "[Mariaju]\nVocê não tem os requisitos para entrar.",
+        "es": "[Mariage]\nNo cumples los requisitos para entrar."
     },
     "rpzkCA": {
-        "en": "[Mariage]\nPathway for movement is not activated.",
-        "pt": "^0000CDAventureiros abaixo do nível 60 de base não podem entrar.^000000",
-        "es": "[Mariage]\nEl camino para el movimiento no está activado."
+        "ko": "{0} 파티의 {1} 파티원이 {2} 에 입장합니다",
+        "en": "{0}'s party member {1} enters {2}",
+        "pt": "{1}, do grupo {0}, entrou na Cripta.",
+        "es": "{1} del grupo {0} ha entrado en Cripta."
     },
     "r5zkCA": {
-        "en": "[Mariage]\nYou're not qualified to enter this place.",
-        "pt": "^0000CDHoje não é um final de semana.^000000",
-        "es": "[Mariage]\nNo estás calificado para entrar en este lugar."
+        "ko": "^0000FF요일던전을 출입한 모든 피로도가 없어졌습니다. 마리아쥬와 대화가 가능해 질 것 같습니다.^000000",
+        "en": "^0000FFAll fatigue from entering the daily dungeon has been removed. It appears you will be able to speak with Mariage.^000000",
+        "pt": "^0000FFO cansaço desapareceu. Acho que posso pedir para Mariaju abrir a instância para mim novamente.^000000",
+        "es": "^0000FFEl cansancio ha desaparecido. Creo que puedo pedirle a Mariage que vuelva a abrir la instancia.^000000"
     },
     "sJzkCA": {
-        "en": "{} party is entering {}.",
-        "pt": "[Mariaju]\nUm erro desconhecido ocorreu.",
-        "es": "{} el grupo esta entrando {}."
+        "ko": "^0000FF파티를 결성하지 않은 모험가는 입장이 불가능해보입니다.^000000",
+        "en": "^0000FFAdventurers who are not in a party appear to be unable to enter.^000000",
+        "pt": "^0000FFVocê não está em um grupo.^000000",
+        "es": "^0000FFNo estás en un grupo.^000000"
     },
     "sZzkCA": {
-        "en": "[Mariage]\nYou've already entered once. If it's still the weekend after midnight, please create a new dungeon and use it.",
-        "pt": "[Mariaju]\nA entrada não está aberta.",
-        "es": "[Mariage]\nYa entraste una vez. Si todavía es fin de semana después de la medianoche, crea una nueva mazmorra y úsala."
-    },
-    "spzkCA": {
-        "en": "^0000FFAll fatigue from adventuring Weekend Dungeon is gone. It will be possible to talk to Mariage.^000000",
-        "pt": "[Mariaju]\nVocê não tem os requisitos para entrar.",
-        "es": "^FF0000Todo el cansancio de la aventura en la Mazmorra de fin de semana desapareció. Será posible hablar con Mariage.^000000"
-    },
-    "s5zkCA": {
-        "en": "^0000FFIt seems impossible to enter an adventurer who did not join a party.^000000",
-        "pt": "{} do grupo {} entrou na {}.",
-        "es": "^FF0000Parece imposible el ingreso de un trotamundos que no se unió a un grupo.^000000"
-    },
-    "tJzkCA": {
-        "en": "[Mariage]\nHmm? I don't know what you mean. Can you tell me again?",
-        "pt": "^0000CDO cansaço desapareceu. Acho que posso pedir para Mariaju abrir a instância para mim novamente.^000000",
-        "es": "[Mariage]\n¿Mmm? No sé a qué te refieres. ¿Puedes repetírmelo?"
+        "ko": "[마리아쥬]\n음? 무슨 말인지 잘 모르겠어요. 다시 이야기해줄래요?",
+        "en": "[Mariage]\nHmm? I don't quite understand what you're saying. Could you explain it again?",
+        "pt": "[Mariaju]\nNão entendi. Podemos conversar de novo?",
+        "es": "[Mariage]\nNo entiendo. ¿Podemos hablar de nuevo?"
     }
 }

@@ -6358,7 +6358,7 @@ tblLapineUpgradeBox = {
 					18984
 				}
 			},
-			NeedSource_String = "Chapéu Memorável"
+			NeedSource_String = "Chap�u Memor�vel"
 		},
 		Loki_Advice = {
 			ItemID = 102277,
@@ -10957,6 +10957,80 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Egir's Magic Box"
 		},
+		Charleston_Parts_W = {
+			ItemID = 23706,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Pilebuncker",
+					1549
+				},
+				{
+					"Pilebuncker_S",
+					16030
+				},
+				{
+					"Pilebuncker_T",
+					16032
+				},
+				{
+					"Pilebuncker_P",
+					16031
+				},
+				{
+					"Robot's_Arm",
+					16033
+				},
+				{
+					"Tornado_Axe",
+					28101
+				},
+				{
+					"Giant_Blade",
+					21011
+				}
+			},
+			NeedSource_String = "Charleston Upgrade Part (Melee)"
+		},
+		Charleston_Parts_R = {
+			ItemID = 23707,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Pilebuncker",
+					1549
+				},
+				{
+					"Pilebuncker_S",
+					16030
+				},
+				{
+					"Pilebuncker_T",
+					16032
+				},
+				{
+					"Pilebuncker_P",
+					16031
+				},
+				{
+					"Robot's_Arm",
+					16033
+				},
+				{
+					"Tornado_Axe",
+					28101
+				},
+				{
+					"Giant_Blade",
+					21011
+				}
+			},
+			NeedSource_String = "Charleston Upgrade Part (Range)"
+		},
 		Loki_Coin_4 = {
 			ItemID = 102676,
 			NeedRefineMin = 0,
@@ -10983,7 +11057,7 @@ tblLapineUpgradeBox = {
 					420269
 				}
 			},
-			NeedSource_String = "Selo de Bastões"
+			NeedSource_String = "Selo de Bast�es"
 		},
 		UPG_TH_7_Ticket = {
 			ItemID = 104133,

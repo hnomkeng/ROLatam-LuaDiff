@@ -1,105 +1,120 @@
 {
     "ICPmCA": {
-        "en": "Please try again after installing a special item.",
-        "pt": "Tente novamente depois de instalar um item especial.",
-        "es": "Vuelve a intentarlo después de que hayas instalado un objeto especial."
-    },
-    "ISPmCA": {
+        "ko": "[관리자]\n광역타이머 적용버전",
         "en": "[Admin]\nWide Area Timer Applied Version",
         "pt": "[gerente]\nVersão aplicada com timer de área ampla",
         "es": "[Admin]\nVersión con temporizador de área amplia aplicado."
     },
-    "IiPmCA": {
+    "ISPmCA": {
+        "ko": "[관리자]\n0614 노멀\n박스표시",
         "en": "[Admin]\n0614 Normal\nDisplay Box",
         "pt": "[gerente]\n0614 Normal\nmarca de caixa",
         "es": "[Admin]\n0614 Normal\nMostrar caja."
     },
-    "IyPmCA": {
+    "IiPmCA": {
+        "ko": "[관리자]\n박스숨김",
         "en": "[Admin]\nHide Box",
         "pt": "[gerente]\nOcultar Caixa",
         "es": "[Admin]\nOcultar caja."
     },
-    "JCPmCA": {
+    "IyPmCA": {
+        "ko": "마리아쥬",
         "en": "Mariage",
         "pt": "Mariaju",
-        "es": "Matrimonio"
+        "es": "Mariage"
     },
-    "JSPmCA": {
+    "JCPmCA": {
+        "ko": "[마리아쥬]\n이곳의 환경을 조성하기 전에 먼저 적절한 레벨을 선택할 기회를 드리죠. 제 임의대로 선택 할 수도 있지만 사람마다 감당 할 수 있는 능력은 제각각이니까요.",
         "en": "[Mariage]\nI'll let you choose the level of the monsters here. Be aware mobs still have their own abilities.",
         "pt": "[Mariaju]\nPara simular a Caverna de Payon, escolha o nível dos monstros que devem aparecer.",
         "es": "[Mariage]\nTe dejaré elegir el nivel de los monstruos aquí. Ten en cuenta que los monstruos tienen sus propias habilidades."
     },
-    "JiPmCA": {
+    "JSPmCA": {
+        "ko": "취소",
         "en": "Cancel",
         "pt": "Cancelar",
         "es": "Cancelar."
     },
-    "JyPmCA": {
+    "JiPmCA": {
+        "ko": "LV60~79",
         "en": "LV60~79",
-        "pt": "Nível 60~79",
+        "pt": "Nível 60 a 79",
         "es": "NV60~79"
     },
-    "KCPmCA": {
+    "JyPmCA": {
+        "ko": "LV80~99",
         "en": "LV80~99",
-        "pt": "Nível 80~99",
+        "pt": "Nível 80 a 99",
         "es": "NV80~99"
     },
-    "KSPmCA": {
+    "KCPmCA": {
+        "ko": "LV100~119",
         "en": "LV100~119",
-        "pt": "Nível 100~119",
+        "pt": "Nível 100 a 119",
         "es": "NV100~119"
     },
-    "KiPmCA": {
+    "KSPmCA": {
+        "ko": "LV120~139",
         "en": "LV120~139",
-        "pt": "Nível 120~139",
+        "pt": "Nível 120 a 139",
         "es": "NV120~139"
     },
-    "KyPmCA": {
+    "KiPmCA": {
+        "ko": "LV140~159",
         "en": "LV140~159",
-        "pt": "Nível 140~159",
+        "pt": "Nível 140 a 159",
         "es": "NV140~159"
     },
-    "LCPmCA": {
+    "KyPmCA": {
+        "ko": "LV160~",
         "en": "LV160~",
-        "pt": "Nível 160~",
+        "pt": "Nível 160 em diante",
         "es": "NV 160~"
     },
-    "LSPmCA": {
+    "LCPmCA": {
+        "ko": "[마리아쥬]\n마음이 바뀌면 언제든 다시 말하세요.",
         "en": "[Mariage]\nTell me if change your mind.",
         "pt": "[Mariaju]\nSe mudar de ideia, estarei aqui.",
         "es": "[Mariage]\nDime si cambias de opinión."
     },
-    "LiPmCA": {
+    "LSPmCA": {
+        "ko": "[마리아쥬]\n파티의 리더는 어디로 갔죠? 시작할 준비를 하려면 그가 필요한데...",
         "en": "[Mariage]\nWhere did the party leader go? I need the leader to get ready to start...",
         "pt": "[Mariaju]\nSó posso conversar com a liderança do seu grupo...",
         "es": "[Mariage]\n¿Adónde fue el líder del grupo? Necesito que el líder se prepare para empezar…"
     },
-    "LyPmCA": {
+    "LiPmCA": {
+        "ko": "마리아쥬: 이제 이곳은 곧 사냥터가 될 거예요. 전 출입문을 폐쇄하고 나가 있도록 할게요.",
         "en": "Mariage: This place will soon become a hunting ground. I'll see myself out.",
         "pt": "Mariaju: Em breve, esse lugar ficará cheio de monstros, vou fechar a porta de saída.",
         "es": "Mariage: Este lugar pronto se convertirá en una zona de caza. Mejor me voy."
     },
-    "MCPmCA": {
+    "LyPmCA": {
+        "ko": "마리아쥬: 행운을 빌어요~",
         "en": "Mariage: Good luck~",
         "pt": "Mariaju: Boa sorte~",
         "es": "Mariage: Buena suerte~."
     },
-    "MSPmCA": {
+    "MCPmCA": {
+        "ko": "스켈레톤#",
         "en": "Skeleton#",
         "pt": "Esqueleto#",
-        "es": "Skeleton#"
+        "es": "Esqueleto#"
     },
-    "MiPmCA": {
+    "MSPmCA": {
+        "ko": "퍼밀리어#",
         "en": "Farmiliar#",
         "pt": "Familiar#",
-        "es": "Farmiliar#"
+        "es": "Familiar#"
     },
-    "MyPmCA": {
+    "MiPmCA": {
+        "ko": "좀비#",
         "en": "Zombie#",
         "pt": "Zumbi#",
-        "es": "Zombie#"
+        "es": "Zombi#"
     },
-    "NCPmCA": {
+    "MyPmCA": {
+        "ko": "던전 어딘가에 보물상자가 나타난 모양입니다. 시간이 지나면 사라질테니 찾아봅시다.",
         "en": "There seems to be a treasure box somewhere in the dungeon. Let's find it because it'll disappear over time.",
         "pt": "Parece haver uma caixa de tesouro em algum lugar da masmorra. Vamos encontrá-la, pois ela desaparecerá com o tempo.",
         "es": "Parece que hay una caja del tesoro en algún lugar de la mazmorra. Busquémoslo porque desaparecerá con el tiempo."

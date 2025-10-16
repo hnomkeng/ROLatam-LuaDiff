@@ -6791,7 +6791,7 @@ tbl = {
 		{
 			id = 18116,
 			prob = 1,
-			name = "^ff0000Intransferible^000000\nUn arma hecha de metal.\n-------------------------\n^0000ffDuplica la probabilidad de infligir un golpe crítico.^000000\n-------------------------\nCon cada refinamiento:\n^0000ffATQ +5.^000000\n^0000ffDaño crítico +1%.^000000\n-------------------------\nPor cada 10 niveles base (desde 20 hasta 120):\n^0000ffATQ +5.^000000\n-------------------------\nTipo: ^777777Katar^000000\nATQ ^77777775^000000 MATQ ^7777770^000000\nPeso: ^77777700^000000\nNivel de arma: ^7777773^000000\nNivel necesario: ^7777771^000000\nClases: ^777777Asesino y evoluciones^000000 [1]",
+			name = "Metal Bow [1]",
 			group = 0
 		},
 		{
@@ -21099,37 +21099,37 @@ tbl = {
 		{
 			id = 24180,
 			prob = 170,
-			name = "Self-supporting dark mesh",
+			name = "Bearer's Shadow Armor",
 			group = 1
 		},
 		{
 			id = 24181,
 			prob = 170,
-			name = "Self-supporting Shadow Grid",
+			name = "Bearer's Shadow Shoes",
 			group = 1
 		},
 		{
 			id = 24182,
 			prob = 170,
-			name = "Self-supporting Dark Shield",
+			name = "Bearer's Shadow Shield",
 			group = 1
 		},
 		{
 			id = 24183,
 			prob = 170,
-			name = "Self-supporting Shadow Glove",
+			name = "Bearer's Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24184,
 			prob = 160,
-			name = "Self-supporting Dark Earring",
+			name = "Bearer's Shadow Earring",
 			group = 1
 		},
 		{
 			id = 24185,
 			prob = 160,
-			name = "Self-supporting Dark Necklace",
+			name = "Bearer's Shadow Pendant",
 			group = 1
 		}
 	},
@@ -22227,7 +22227,7 @@ tbl = {
 		{
 			id = 24183,
 			prob = 5,
-			name = "Self-supporting Shadow Glove",
+			name = "Bearer's Shadow Weapon",
 			group = 1
 		},
 		{
@@ -22517,7 +22517,7 @@ tbl = {
 		{
 			id = 24180,
 			prob = 5,
-			name = "Self-supporting dark mesh",
+			name = "Bearer's Shadow Armor",
 			group = 1
 		},
 		{
@@ -22601,25 +22601,25 @@ tbl = {
 		{
 			id = 24219,
 			prob = 5,
-			name = "Dark Ice Mesh",
+			name = "Cold Bolt Shadow Armor",
 			group = 1
 		},
 		{
 			id = 24220,
 			prob = 5,
-			name = "Dark mesh of fire",
+			name = "Fire Bolt Shadow Armor",
 			group = 1
 		},
 		{
 			id = 24221,
 			prob = 5,
-			name = "Lightning Shadow Mesh",
+			name = "Lightning Bolt Shadow Armor",
 			group = 1
 		},
 		{
 			id = 24222,
 			prob = 5,
-			name = "Dark Earth Mesh",
+			name = "Earth Spike Shadow Armor",
 			group = 1
 		},
 		{
@@ -22759,7 +22759,7 @@ tbl = {
 		{
 			id = 24182,
 			prob = 5,
-			name = "Self-supporting Dark Shield",
+			name = "Bearer's Shadow Shield",
 			group = 1
 		},
 		{
@@ -23013,7 +23013,7 @@ tbl = {
 		{
 			id = 24181,
 			prob = 5,
-			name = "Self-supporting Shadow Grid",
+			name = "Bearer's Shadow Shoes",
 			group = 1
 		},
 		{
@@ -23189,7 +23189,7 @@ tbl = {
 		{
 			id = 24185,
 			prob = 5,
-			name = "Self-supporting Dark Necklace",
+			name = "Bearer's Shadow Pendant",
 			group = 1
 		},
 		{
@@ -23365,7 +23365,7 @@ tbl = {
 		{
 			id = 24184,
 			prob = 5,
-			name = "Self-supporting Dark Earring",
+			name = "Bearer's Shadow Earring",
 			group = 1
 		},
 		{
@@ -28469,25 +28469,25 @@ tbl = {
 		{
 			id = 24219,
 			prob = 1,
-			name = "Dark Ice Mesh",
+			name = "Cold Bolt Shadow Armor",
 			group = 1
 		},
 		{
 			id = 24220,
 			prob = 1,
-			name = "Dark mesh of fire",
+			name = "Fire Bolt Shadow Armor",
 			group = 1
 		},
 		{
 			id = 24221,
 			prob = 1,
-			name = "Lightning Shadow Mesh",
+			name = "Lightning Bolt Shadow Armor",
 			group = 1
 		},
 		{
 			id = 24222,
 			prob = 1,
-			name = "Dark Earth Mesh",
+			name = "Earth Spike Shadow Armor",
 			group = 1
 		},
 		{
@@ -28781,25 +28781,25 @@ tbl = {
 		{
 			id = 24219,
 			prob = 1,
-			name = "Dark Ice Mesh",
+			name = "Cold Bolt Shadow Armor",
 			group = 2
 		},
 		{
 			id = 24220,
 			prob = 1,
-			name = "Dark mesh of fire",
+			name = "Fire Bolt Shadow Armor",
 			group = 2
 		},
 		{
 			id = 24221,
 			prob = 1,
-			name = "Lightning Shadow Mesh",
+			name = "Lightning Bolt Shadow Armor",
 			group = 2
 		},
 		{
 			id = 24222,
 			prob = 1,
-			name = "Dark Earth Mesh",
+			name = "Earth Spike Shadow Armor",
 			group = 2
 		},
 		{
@@ -29421,25 +29421,25 @@ tbl = {
 		{
 			id = 24219,
 			prob = 1,
-			name = "Dark Ice Mesh",
+			name = "Cold Bolt Shadow Armor",
 			group = 1
 		},
 		{
 			id = 24220,
 			prob = 1,
-			name = "Dark mesh of fire",
+			name = "Fire Bolt Shadow Armor",
 			group = 1
 		},
 		{
 			id = 24221,
 			prob = 1,
-			name = "Lightning Shadow Mesh",
+			name = "Lightning Bolt Shadow Armor",
 			group = 1
 		},
 		{
 			id = 24222,
 			prob = 1,
-			name = "Dark Earth Mesh",
+			name = "Earth Spike Shadow Armor",
 			group = 1
 		},
 		{
@@ -29841,25 +29841,25 @@ tbl = {
 		{
 			id = 24219,
 			prob = 1,
-			name = "Dark Ice Mesh",
+			name = "Cold Bolt Shadow Armor",
 			group = 2
 		},
 		{
 			id = 24220,
 			prob = 1,
-			name = "Dark mesh of fire",
+			name = "Fire Bolt Shadow Armor",
 			group = 2
 		},
 		{
 			id = 24221,
 			prob = 1,
-			name = "Lightning Shadow Mesh",
+			name = "Lightning Bolt Shadow Armor",
 			group = 2
 		},
 		{
 			id = 24222,
 			prob = 1,
-			name = "Dark Earth Mesh",
+			name = "Earth Spike Shadow Armor",
 			group = 2
 		},
 		{
@@ -31179,7 +31179,7 @@ tbl = {
 		{
 			id = 19300,
 			prob = 1,
-			name = "Commandant's cap [1]",
+			name = "Dog Officer [1]",
 			group = 1
 		},
 		{
@@ -34337,37 +34337,37 @@ tbl = {
 		{
 			id = 420018,
 			prob = 10,
-			name = "DEX Elder Sprout",
+			name = "Temporal Sprout AGI",
 			group = 6
 		},
 		{
 			id = 420017,
 			prob = 10,
-			name = "Elder Sprout STR",
+			name = "Temporal Sprout STR",
 			group = 6
 		},
 		{
 			id = 420019,
 			prob = 10,
-			name = "AGI Elder Sprout",
+			name = "Temporal Sprout DEX",
 			group = 6
 		},
 		{
 			id = 420020,
 			prob = 10,
-			name = "Elder Sprout LUK",
+			name = "Temporal Sprout LUK",
 			group = 6
 		},
 		{
 			id = 420021,
 			prob = 10,
-			name = "Elder Sprout VIT",
+			name = "Temporal Sprout VIT",
 			group = 6
 		},
 		{
 			id = 420022,
 			prob = 10,
-			name = "Elder Sprout INT",
+			name = "Temporal Sprout INT",
 			group = 6
 		}
 	},
@@ -34819,37 +34819,37 @@ tbl = {
 		{
 			id = 24669,
 			prob = 10,
-			name = "Mammoth Shadow Mesh",
+			name = "Mammoth Shadow Armor",
 			group = 1
 		},
 		{
 			id = 24670,
 			prob = 10,
-			name = "Shadowy Mammoth Grass",
+			name = "Mammoth Shadow Shoes",
 			group = 1
 		},
 		{
 			id = 24671,
 			prob = 10,
-			name = "Dark Mammoth Necklace",
+			name = "Mammoth Shadow Pendant",
 			group = 1
 		},
 		{
 			id = 24672,
 			prob = 10,
-			name = "Dark Mammoth Earring",
+			name = "Mammoth Shadow Earring",
 			group = 1
 		},
 		{
 			id = 24673,
 			prob = 10,
-			name = "Mammoth's Shadow Glove",
+			name = "Mammoth Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24674,
 			prob = 10,
-			name = "Mammoth's Dark Shield",
+			name = "Mammoth Shadow Shield",
 			group = 1
 		},
 		{
@@ -35341,37 +35341,37 @@ tbl = {
 		{
 			id = 24669,
 			prob = 10,
-			name = "Mammoth Shadow Mesh",
+			name = "Mammoth Shadow Armor",
 			group = 2
 		},
 		{
 			id = 24670,
 			prob = 10,
-			name = "Shadowy Mammoth Grass",
+			name = "Mammoth Shadow Shoes",
 			group = 2
 		},
 		{
 			id = 24671,
 			prob = 10,
-			name = "Dark Mammoth Necklace",
+			name = "Mammoth Shadow Pendant",
 			group = 2
 		},
 		{
 			id = 24672,
 			prob = 10,
-			name = "Dark Mammoth Earring",
+			name = "Mammoth Shadow Earring",
 			group = 2
 		},
 		{
 			id = 24673,
 			prob = 10,
-			name = "Mammoth's Shadow Glove",
+			name = "Mammoth Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24674,
 			prob = 10,
-			name = "Mammoth's Dark Shield",
+			name = "Mammoth Shadow Shield",
 			group = 2
 		},
 		{
@@ -35501,37 +35501,37 @@ tbl = {
 		{
 			id = 24669,
 			prob = 1,
-			name = "Mammoth Shadow Mesh",
+			name = "Mammoth Shadow Armor",
 			group = 6
 		},
 		{
 			id = 24674,
 			prob = 1,
-			name = "Mammoth's Dark Shield",
+			name = "Mammoth Shadow Shield",
 			group = 6
 		},
 		{
 			id = 24673,
 			prob = 1,
-			name = "Mammoth's Shadow Glove",
+			name = "Mammoth Shadow Weapon",
 			group = 6
 		},
 		{
 			id = 24670,
 			prob = 1,
-			name = "Shadowy Mammoth Grass",
+			name = "Mammoth Shadow Shoes",
 			group = 6
 		},
 		{
 			id = 24672,
 			prob = 1,
-			name = "Dark Mammoth Earring",
+			name = "Mammoth Shadow Earring",
 			group = 6
 		},
 		{
 			id = 24671,
 			prob = 1,
-			name = "Dark Mammoth Necklace",
+			name = "Mammoth Shadow Pendant",
 			group = 6
 		}
 	},
@@ -46205,6 +46205,522 @@ tbl = {
 			group = 0
 		}
 	},
+	[105659] = {
+		{
+			id = 1000274,
+			prob = 0,
+			name = "Kachua Coupon",
+			group = 0
+		},
+		{
+			id = 25464,
+			prob = 1400,
+			name = "Passport 5",
+			group = 6
+		},
+		{
+			id = 23047,
+			prob = 1400,
+			name = "[Event] Blessing Of Tyr 3",
+			group = 6
+		},
+		{
+			id = 12684,
+			prob = 1400,
+			name = "Golden Potion  3",
+			group = 6
+		},
+		{
+			id = 23048,
+			prob = 1400,
+			name = "[Event] Regenerate Potion 3",
+			group = 6
+		},
+		{
+			id = 9908,
+			prob = 1400,
+			name = "[Scroll] Mental Potion 3",
+			group = 6
+		},
+		{
+			id = 22979,
+			prob = 950,
+			name = "[Event] Manual & Gum",
+			group = 6
+		},
+		{
+			id = 101367,
+			prob = 950,
+			name = "[Event] Small Mana Potion 3",
+			group = 6
+		},
+		{
+			id = 14847,
+			prob = 950,
+			name = "[Scroll] Small Life Potion 3",
+			group = 6
+		},
+		{
+			id = 6413,
+			prob = 950,
+			name = "New Insurance 3",
+			group = 6
+		},
+		{
+			id = 6833,
+			prob = 950,
+			name = "[Limited] Token of Siegfried 3",
+			group = 6
+		},
+		{
+			id = 6635,
+			prob = 600,
+			name = "Blacksmith Blessing",
+			group = 6
+		},
+		{
+			id = 23330,
+			prob = 600,
+			name = "Cx. Giant Fly Wing [1 Day] 3",
+			group = 6
+		},
+		{
+			id = 23032,
+			prob = 600,
+			name = "Stats Soul Potion Box",
+			group = 6
+		},
+		{
+			id = 25041,
+			prob = 600,
+			name = "Pump of Spirit",
+			group = 6
+		},
+		{
+			id = 23436,
+			prob = 600,
+			name = "Dark Refining Hammer",
+			group = 6
+		},
+		{
+			id = 105432,
+			prob = 500,
+			name = "Bloody Bag",
+			group = 6
+		},
+		{
+			id = 24220,
+			prob = 400,
+			name = "Fire Bolt Shadow Armor",
+			group = 6
+		},
+		{
+			id = 24219,
+			prob = 400,
+			name = "Cold Bolt Shadow Armor",
+			group = 6
+		},
+		{
+			id = 24221,
+			prob = 400,
+			name = "Lightning Bolt Shadow Armor",
+			group = 6
+		},
+		{
+			id = 24222,
+			prob = 400,
+			name = "Earth Spike Shadow Armor",
+			group = 6
+		},
+		{
+			id = 22813,
+			prob = 400,
+			name = "Bearer's Shadow Box",
+			group = 6
+		},
+		{
+			id = 17429,
+			prob = 400,
+			name = "Absorb Shadow Box",
+			group = 6
+		},
+		{
+			id = 100707,
+			prob = 300,
+			name = "Mammoth Shadow Box",
+			group = 6
+		},
+		{
+			id = 23250,
+			prob = 300,
+			name = "Magic Compose Combiner",
+			group = 6
+		},
+		{
+			id = 22529,
+			prob = 200,
+			name = "Shadow Combiner",
+			group = 6
+		},
+		{
+			id = 20943,
+			prob = 200,
+			name = "Geffen Magic Muffler [1]",
+			group = 6
+		},
+		{
+			id = 20944,
+			prob = 200,
+			name = "Anti Magic Manteau [1]",
+			group = 6
+		},
+		{
+			id = 105433,
+			prob = 200,
+			name = "Common Ancestral Box",
+			group = 6
+		},
+		{
+			id = 105434,
+			prob = 200,
+			name = "Uncommon Ancestral Box",
+			group = 6
+		},
+		{
+			id = 105435,
+			prob = 200,
+			name = "Expanded Ancestral Box",
+			group = 6
+		},
+		{
+			id = 23766,
+			prob = 80,
+			name = "Temporal Armor Box",
+			group = 6
+		},
+		{
+			id = 23135,
+			prob = 80,
+			name = "Poring Balloon Box",
+			group = 6
+		},
+		{
+			id = 22171,
+			prob = 70,
+			name = "Ancient Hero Boots [1]",
+			group = 6
+		},
+		{
+			id = 436000,
+			prob = 70,
+			name = "Maero's Mask",
+			group = 6
+		},
+		{
+			id = 436001,
+			prob = 70,
+			name = "Despair Mask",
+			group = 6
+		},
+		{
+			id = 436002,
+			prob = 70,
+			name = "Odium Mask",
+			group = 6
+		},
+		{
+			id = 100553,
+			prob = 70,
+			name = "Temporal Sprouts Box",
+			group = 6
+		},
+		{
+			id = 19300,
+			prob = 20,
+			name = "Dog Officer [1]",
+			group = 6
+		},
+		{
+			id = 100751,
+			prob = 10,
+			name = "Low Refining Envelope",
+			group = 6
+		},
+		{
+			id = 105559,
+			prob = 5,
+			name = "Temporal Selectables",
+			group = 6
+		},
+		{
+			id = 23538,
+			prob = 5,
+			name = "Cursed Knight's Shield Box",
+			group = 6
+		}
+	},
+	[105660] = {
+		{
+			id = 1000274,
+			prob = 0,
+			name = "Kachua Coupon",
+			group = 0
+		},
+		{
+			id = 25464,
+			prob = 1400,
+			name = "Passport 5",
+			group = 6
+		},
+		{
+			id = 23047,
+			prob = 1400,
+			name = "[Event] Blessing Of Tyr 3",
+			group = 6
+		},
+		{
+			id = 12684,
+			prob = 1400,
+			name = "Golden Potion  3",
+			group = 6
+		},
+		{
+			id = 23048,
+			prob = 1400,
+			name = "[Event] Regenerate Potion 3",
+			group = 6
+		},
+		{
+			id = 9908,
+			prob = 1400,
+			name = "[Scroll] Mental Potion 3",
+			group = 6
+		},
+		{
+			id = 22979,
+			prob = 950,
+			name = "[Event] Manual & Gum",
+			group = 6
+		},
+		{
+			id = 101367,
+			prob = 950,
+			name = "[Event] Small Mana Potion 3",
+			group = 6
+		},
+		{
+			id = 14847,
+			prob = 950,
+			name = "[Scroll] Small Life Potion 3",
+			group = 6
+		},
+		{
+			id = 6413,
+			prob = 950,
+			name = "New Insurance 3",
+			group = 6
+		},
+		{
+			id = 6833,
+			prob = 950,
+			name = "[Limited] Token of Siegfried 3",
+			group = 6
+		},
+		{
+			id = 6635,
+			prob = 600,
+			name = "Blacksmith Blessing",
+			group = 6
+		},
+		{
+			id = 23330,
+			prob = 600,
+			name = "Cx. Giant Fly Wing [1 Day] 3",
+			group = 6
+		},
+		{
+			id = 23032,
+			prob = 600,
+			name = "Stats Soul Potion Box",
+			group = 6
+		},
+		{
+			id = 25041,
+			prob = 600,
+			name = "Pump of Spirit",
+			group = 6
+		},
+		{
+			id = 23436,
+			prob = 600,
+			name = "Dark Refining Hammer",
+			group = 6
+		},
+		{
+			id = 105432,
+			prob = 500,
+			name = "Bloody Bag",
+			group = 6
+		},
+		{
+			id = 24220,
+			prob = 400,
+			name = "Fire Bolt Shadow Armor",
+			group = 6
+		},
+		{
+			id = 24219,
+			prob = 400,
+			name = "Cold Bolt Shadow Armor",
+			group = 6
+		},
+		{
+			id = 24221,
+			prob = 400,
+			name = "Lightning Bolt Shadow Armor",
+			group = 6
+		},
+		{
+			id = 24222,
+			prob = 400,
+			name = "Earth Spike Shadow Armor",
+			group = 6
+		},
+		{
+			id = 22813,
+			prob = 400,
+			name = "Bearer's Shadow Box",
+			group = 6
+		},
+		{
+			id = 17429,
+			prob = 400,
+			name = "Absorb Shadow Box",
+			group = 6
+		},
+		{
+			id = 100707,
+			prob = 300,
+			name = "Mammoth Shadow Box",
+			group = 6
+		},
+		{
+			id = 23250,
+			prob = 300,
+			name = "Magic Compose Combiner",
+			group = 6
+		},
+		{
+			id = 22529,
+			prob = 200,
+			name = "Shadow Combiner",
+			group = 6
+		},
+		{
+			id = 20943,
+			prob = 200,
+			name = "Geffen Magic Muffler [1]",
+			group = 6
+		},
+		{
+			id = 20944,
+			prob = 200,
+			name = "Anti Magic Manteau [1]",
+			group = 6
+		},
+		{
+			id = 105433,
+			prob = 200,
+			name = "Common Ancestral Box",
+			group = 6
+		},
+		{
+			id = 105434,
+			prob = 200,
+			name = "Uncommon Ancestral Box",
+			group = 6
+		},
+		{
+			id = 105435,
+			prob = 200,
+			name = "Expanded Ancestral Box",
+			group = 6
+		},
+		{
+			id = 23766,
+			prob = 80,
+			name = "Temporal Armor Box",
+			group = 6
+		},
+		{
+			id = 23135,
+			prob = 80,
+			name = "Poring Balloon Box",
+			group = 6
+		},
+		{
+			id = 22171,
+			prob = 70,
+			name = "Ancient Hero Boots [1]",
+			group = 6
+		},
+		{
+			id = 436000,
+			prob = 70,
+			name = "Maero's Mask",
+			group = 6
+		},
+		{
+			id = 436001,
+			prob = 70,
+			name = "Despair Mask",
+			group = 6
+		},
+		{
+			id = 436002,
+			prob = 70,
+			name = "Odium Mask",
+			group = 6
+		},
+		{
+			id = 100553,
+			prob = 70,
+			name = "Temporal Sprouts Box",
+			group = 6
+		},
+		{
+			id = 19300,
+			prob = 20,
+			name = "Dog Officer [1]",
+			group = 6
+		},
+		{
+			id = 100751,
+			prob = 10,
+			name = "Low Refining Envelope",
+			group = 6
+		},
+		{
+			id = 105559,
+			prob = 5,
+			name = "Temporal Selectables",
+			group = 6
+		},
+		{
+			id = 23538,
+			prob = 5,
+			name = "Cursed Knight's Shield Box",
+			group = 6
+		}
+	},
+	[105673] = {
+		{
+			id = 105660,
+			prob = 0,
+			name = "[Event] Halloween Oval Artifact",
+			group = 0
+		}
+	},
 	[200001] = {
 		{
 			id = 25793,
@@ -46429,9 +46945,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105467,
+			id = 105673,
 			prob = 1,
-			name = "Artifact Bag 11",
+			name = "Unknown Item 11",
 			group = 0
 		}
 	},
@@ -46443,9 +46959,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105467,
+			id = 105673,
 			prob = 1,
-			name = "Artifact Bag",
+			name = "Unknown Item",
 			group = 0
 		}
 	},
@@ -46569,9 +47085,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105467,
+			id = 105673,
 			prob = 1,
-			name = "Artifact Bag 11",
+			name = "Unknown Item 11",
 			group = 0
 		}
 	},
@@ -46583,9 +47099,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105467,
+			id = 105673,
 			prob = 1,
-			name = "Artifact Bag",
+			name = "Unknown Item",
 			group = 0
 		}
 	},
@@ -46663,9 +47179,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105467,
+			id = 105673,
 			prob = 1,
-			name = "Artifact Bag 11",
+			name = "Unknown Item 11",
 			group = 0
 		}
 	},
@@ -46677,9 +47193,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105467,
+			id = 105673,
 			prob = 1,
-			name = "Artifact Bag",
+			name = "Unknown Item",
 			group = 0
 		}
 	},
@@ -47161,9 +47677,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105467,
+			id = 105673,
 			prob = 1,
-			name = "Artifact Bag 11",
+			name = "Unknown Item 11",
 			group = 0
 		}
 	},

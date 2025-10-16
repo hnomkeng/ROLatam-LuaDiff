@@ -11970,65 +11970,137 @@ QuestInfoList = {
 	},
 	[5847] = {
 		Title = "Ilusão de Luanda",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Conte para o <NAVI>[Oficial Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> o que você viu."
-		}
+			"Conte o que você viu para <NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255,
+		RewardEXP = "1.120.000",
+		RewardJEXP = "650.000"
 	},
 	[5848] = {
 		Title = "Amostra de Megalito",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Estamos tendo problemas com o Clã dos Megalitos. Elimine alguns deles e nos traga 3 <ITEM>[Símbolos de Megalito]<INFO>25638</INFO></ITEM> como prova da sua caçada."
+			"Estamos tendo problemas com o Clã dos Megalitos. Elimine alguns deles e nos traga 3 <ITEM>[Símbolos de Megalito]<INFO>25638</INFO></ITEM>."
 		},
-		Summary = "3 Símbolos de Megalito"
+		Summary = "3 Símbolos de Megalito",
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255,
+		RewardEXP = "4.300.000",
+		RewardJEXP = "2.800.000",
+		RewardItemList = {
+			{ItemID = 25271, ItemNum = 1}
+		}
 	},
 	[5849] = {
 		Title = "[Espera] Amostra de Megalito",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Oficial Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> espera você amanhã."
+			"Volte amanhã para <NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reseta 4 da manhã"
+		Summary = "Reseta 4 da manhã.­",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255
 	},
 	[5850] = {
 		Title = "Amostra de Wootan",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Estamos tendo problemas com o Clã dos Wootans. Elimine alguns deles e nos traga 3 <ITEM>[Símbolos de Wootan]<INFO>25633</INFO></ITEM> como prova da sua caçada."
+			"Estamos tendo problemas com o Clã dos Wootans. Elimine alguns deles e nos traga 3 <ITEM>[Símbolos de Wootan]<INFO>25633</INFO></ITEM>."
 		},
-		Summary = "3 Símbolos de Wootan"
+		Summary = "3 Símbolos de Wootan",
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255,
+		RewardEXP = "4.300.000",
+		RewardJEXP = "2.800.000",
+		RewardItemList = {
+			{ItemID = 25271, ItemNum = 1}
+		}
 	},
 	[5851] = {
 		Title = "[Espera] Amostra de Wootan",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Oficial Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> espera você amanhã."
+			"Volte amanhã para <NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reseta 4 da manhã"
+		Summary = "Reseta 4 da manhã.­",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255
 	},
 	[5852] = {
 		Title = "Caça ao Megalito",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Por favor, elimine 5 <NAVI>[Trilobita Ancestral]<INFO>ILL_TRI_JOINT,0,0,3,-222,1</INFO></NAVI>, 5 <NAVI>[Golem Ancestral]<INFO>ILL_STALACTIC_GOLEM,0,0,3,-222,1</INFO></NAVI> e 5 <NAVI>[Megalith Ancestral]<INFO>ILL_MEGALITH,0,0,3,-222,1</INFO></NAVI> e reporte para o <NAVI>[Oficial Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI>."
+			"Por favor, elimine \n\t\t\t5 <NAVI>[Trilobita Ancestral]<INFO>ILL_TRI_JOINT,0,0,3,-222,1</INFO></NAVI>, \n\t\t\t5 <NAVI>[Golem Ancestral]<INFO>ILL_STALACTIC_GOLEM,0,0,3,-222,1</INFO></NAVI>, \n\t\t\t5 <NAVI>[Megalith Ancestral]<INFO>ILL_MEGALITH,0,0,3,-222,1</INFO></NAVI>\n\t\t\te retorne a­ <NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Elimine os monstros"
+		Summary = "Tribo Megalito",
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255,
+		RewardEXP = "4.300.000",
+		RewardJEXP = "2.800.000",
+		RewardItemList = {
+			{ItemID = 25271, ItemNum = 1}
+		}
 	},
 	[5853] = {
 		Title = "[Espera] Caça ao Megalito",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Oficial Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> espera você amanhã."
+			"Volte amanhã para <NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reseta 4 da manhã"
+		Summary = "Reseta 4 da manhã.­",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255
 	},
 	[5854] = {
 		Title = "Caça ao Wootan",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Por favor, elimine 5 <NAVI>[Disparador de Pedras]<INFO>ILL_STONE_SHOOTER,0,0,3,-222,1</INFO></NAVI>, e <NAVI>[Arqueiro Wootan]<INFO>ILL_WOOTAN_SHOOTER,0,0,3,-222,1</INFO></NAVI> e 5 <NAVI>[Lutador Wootan]<INFO>ILL_WOOTAN_FIGHTER,0,0,3,-222,1</INFO></NAVI> e reporte para o <NAVI>[Oficial Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI>."
+			"Por favor, elimine\n\t\t\t5 <NAVI>[Disparador de Pedras]<INFO>ILL_STONE_SHOOTER,0,0,3,-222,1</INFO></NAVI>, \n\t\t\t5 <NAVI>[Arqueiro Wootan]<INFO>ILL_WOOTAN_SHOOTER,0,0,3,-222,1</INFO></NAVI>, \n\t\t\t5 <NAVI>[Lutador Wootan]<INFO>ILL_WOOTAN_FIGHTER,0,0,3,-222,1</INFO></NAVI>¸\n\t\t\te retorne a­ <NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Elimine os monstros"
+		Summary = "Tribo Wootan",
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255,
+		RewardEXP = "4.300.000",
+		RewardJEXP = "2.800.000",
+		RewardItemList = {
+			{ItemID = 25271, ItemNum = 1}
+		}
 	},
 	[5855] = {
 		Title = "[Espera] Caça ao Wootan",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Oficial Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> espera você amanhã."
+			"Volte amanhã para <NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reseta 4 da manhã"
+		Summary = "Reseta 4 da manhã.­",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255
 	},
 	[5856] = {
 		Title = "Meu nome é Morning",
@@ -20938,9 +21010,10 @@ QuestInfoList = {
 	[8402] = {
 		Title = "[Espera] Aos Pés do Rei",
 		Description = {
-			"Vamos voltar ao Dr. Magnatum amanhã para entrar na instância."
+			"Amanhã, vamos voltar ao <NAVI>[Dr. Magnatum]<INFO>verus04,79,114,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Volte amanhã."
+		Summary = "Volte amanhã.­",
+		CoolTimeQuest = 1
 	},
 	[8500] = {
 		Title = "Necessita de Raminhos de Flores",
@@ -21111,20 +21184,23 @@ QuestInfoList = {
 		}
 	},
 	[8527] = {
-		Title = "Seguro contra atrasos: Cartão EXP e passo",
+		Title = "Compensação",
 		Description = {
-			"Se você derrotar 50 wild Steps e EXP Cards dentro da Summoning Room, poderá receber sua recompensa no quadro ao lado da saída da Summoning Room."
-		}
+			"Elimine 50 Roborings que estão atrapalhando o duelo. Ao final da instância, sua compensação será paga."
+		},
+		Summary = "Elimine Roborings"
 	},
 	[8528] = {
-		Title = "[Espera] Seguro contra atrasos",
+		Title = "[Espera] Compensação",
 		Description = {
-			"Atraso O novo registro do seguro não pode ser processado instantaneamente. Por favor, aguarde e tente novamente."
+			"Essa missão pode ser repetida diariamente."
 		},
-		Summary = "Reseta 4 da manhã"
+		Summary = "Volte amanhã.­",
+		CoolTimeQuest = 1
 	},
 	[8529] = {
-		Title = "Mestre do calcanhar do rei"
+		Title = "Aos Pés do Rei",
+		Summary = ""
 	},
 	[8530] = {
 		Title = "Vou moer melões para você.",
@@ -33068,25 +33144,27 @@ QuestInfoList = {
 		Summary = "Reserva de Espaço"
 	},
 	[12377] = {
-		Title = "Túmulo do Monarca",
+		Title = "Cripta",
 		Description = {
-			"Você obteve acesso ao Túmulo do Monarca, onde reside o Lich. Você só pode acessar esse local às sextas-feiras."
+			"Você pode acessar a Cripta que simula a caverna de Payon."
 		},
-		Summary = "Entre na instância"
+		Summary = "1 Hora­"
 	},
 	[12378] = {
-		Title = "[Espera] Túmulo do Monarca",
+		Title = "[Espera] Cripta]",
 		Description = {
-			"Você não pode mais entrar no Túmulo do Monarca. Volte na próxima sexta-feira"
+			"Você não pode mais entrar na Cripta. Volte no próximo Sábado ou Domingo, a partir da meia-noite."
 		},
-		Summary = "Volte sexta-feira"
+		Summary = "Volte no Fim de Semana­",
+		CoolTimeQuest = 1
 	},
 	[12379] = {
 		Title = "[Espera] Túmulo do Monarca",
 		Description = {
-			"Você não pode mais entrar na Cripta. Volte no próximo Sábado ou Domingo, a partir da meia-noite."
+			"Você obteve acesso ao Túmulo do Monarca, onde reside o Lich. Você só pode acessar esse local às sextas-feiras."
 		},
-		Summary = "Volte no Fim de Semana"
+		Summary = "Volte na Sexta-Feira­",
+		CoolTimeQuest = 1
 	},
 	[12381] = {
 		Title = "Distribuição de alimentos",
@@ -37740,7 +37818,8 @@ QuestInfoList = {
 		Description = {
 			"A Papisa ainda não dormiu. Volte amanhã."
 		},
-		Summary = "Volte amanhã"
+		Summary = "Volte amanhã.­",
+		CoolTimeQuest = 1
 	},
 	[14587] = {
 		Title = "Quarto Crescente",
@@ -37785,17 +37864,18 @@ QuestInfoList = {
 		Summary = "Volte amanhã"
 	},
 	[14593] = {
-		Title = "Envio de correio",
+		Title = "[RODEX] Quarto Crescente",
 		Description = {
-			"Envio de correio eletrônico"
-		}
+			"Missão que identifica que um RODEX foi enviado para o jogador."
+		},
+		Summary = ""
 	},
 	[14594] = {
-		Title = "Trilha dos Sonhos",
+		Title = "Quarto Crescente",
 		Description = {
-			"Se você tem preparo para trilhar a estrada dos sonhos, encontre-me novamente."
+			"Se você tem preparo para trilhar a estrada dos sonhos, comece agora."
 		},
-		Summary = "Para Niren"
+		Summary = "Portal dos Sonhos"
 	},
 	[14595] = {
 		Title = "Terra Gloria",
@@ -40231,35 +40311,38 @@ QuestInfoList = {
 		}
 	},
 	[16215] = {
-		Title = "O sonho sombrio",
+		Title = "Sonho Sombrio",
 		Description = {
-			"Você concordou em acompanhar a investigação de Loreche. Fale com <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> para entrar no Dimensional Gap."
+			"Vamos ajudar Runane nessa aventura. Fale com <NAVI>[Mingmin]<INFO>dali02.gat,108,94,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Investigação de lacunas dimensionais"
+		Summary = "Fale com Mingmin"
 	},
 	[16216] = {
-		Title = "A ilusão do espumante",
+		Title = "Sonho Sombrio",
 		Description = {
-			"Você concordou em acompanhar a investigação de Loreche. Fale com <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> para entrar no Dimensional Gap."
+			"Vamos ajudar Runane nessa aventura. Fale com <NAVI>[Mingmin]<INFO>dali02.gat,108,94,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Investigação de lacunas dimensionais"
+		Summary = "Fale com Mingmin"
 	},
 	[16217] = {
-		Title = "[Espera] Descanso e relaxamento",
+		Title = "[Espera] Sonho Sombrio",
 		Description = {
-			"Essa é uma missão diária e você pode retomá-la quando o tempo de espera for reiniciado. Fale com <NAVI>[Loreche]<INFO>dali02.gat,108,94,0,101,0</INFO></NAVI>no Dimensional Gap para aceitar a missão."
+			"Essa miss?o pode ser repetida diariamente, fale com <NAVI>[Runane]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reseta 4 da manhã."
+		Summary = "Volte amanh?.ð",
+		CoolTimeQuest = 1
 	},
 	[16218] = {
-		Title = "Modificação e cálculo",
+		Title = "Sonho Sombrio",
 		Description = {
-			"Vamos procurar <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> para que possamos entrar no Dimensional Gap."
+			"Vamos pedir ajuda de <NAVI>[Mingmin]<INFO>dali02.gat,108,94,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Fale com Eugenie"
+		Summary = "Fale com Mingminð"
 	},
 	[16219] = {
-		Title = "Bondade e gratidão"
+		Title = "Sonho Sombrio",
+		Description = {""},
+		Summary = ""
 	},
 	[16222] = {
 		Title = "Missão Invisível",

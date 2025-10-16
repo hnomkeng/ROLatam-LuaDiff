@@ -11650,10 +11650,10 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[5847] = {
-		Title = "A story for Luanda",
+		Title = "Illusion of Luanda",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Let's tell <NAVI>[Defense Manager Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> about what you saw and experienced a little while ago."
+			"Let's tell <NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI> about what you saw and experienced a little while ago."
 		},
 		Summary = "",
 		NpcSpr = "4_M_THAIONGBAK",
@@ -11665,7 +11665,7 @@ QuestInfoList = {
 	},
 	[5848] = {
 		Title = "Proof of Megalith Extermination",
-		IconName = "ico_nq.bmp",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"The village is having a hard time because of the Megalith tribe. Bring back 3 <ITEM>[Megalith Token]<INFO>25638</INFO></ITEM>, and the chief will reward you once a day."
 		},
@@ -11681,12 +11681,12 @@ QuestInfoList = {
 		}
 	},
 	[5849] = {
-		Title = "[Waiting] Proof of Megalith Extermination",
+		Title = "[Wait] Proof of Megalith Extermination",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Defense Manager Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> will reward you tomorrow if you bring evidence of defeating the Megalith tribe."
+			"<NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>  will reward you tomorrow."
 		},
-		Summary = "Reset at 4 AM",
+		Summary = "Reset at 4 AM­",
 		CoolTimeQuest = 1,
 		NpcSpr = "4_M_THAIONGBAK",
 		NpcNavi = "com_d02_i",
@@ -11695,7 +11695,7 @@ QuestInfoList = {
 	},
 	[5850] = {
 		Title = "Proof of Wootan Extermination",
-		IconName = "ico_nq.bmp",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"The village is having a hard time because of the Wootan tribe. Bring back 3 <ITEM>[Wootan Token]<INFO>25633</INFO></ITEM>, and the chief will reward you once a day."
 		},
@@ -11711,12 +11711,12 @@ QuestInfoList = {
 		}
 	},
 	[5851] = {
-		Title = "[Waiting] Proof of Wootan Extermination",
+		Title = "[Wait] Proof of Wootan Extermination",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Defense Manager Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> will reward you tomorrow if you bring evidence of defeating the Wootan tribe."
+			"<NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>  will reward you tomorrow."
 		},
-		Summary = "Reset at 4 AM",
+		Summary = "Reset at 4 AM­",
 		CoolTimeQuest = 1,
 		NpcSpr = "4_M_THAIONGBAK",
 		NpcNavi = "com_d02_i",
@@ -11725,9 +11725,9 @@ QuestInfoList = {
 	},
 	[5852] = {
 		Title = "Megalith Hunt",
-		IconName = "ico_nq.bmp",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"We planned to subdue the Megalith tribe. Please defeat 5 of <NAVI>[Ancient Tri Joint]<INFO>ILL_TRI_JOINT,0,0,3,-222,1</INFO></NAVI>, <NAVI>[Ancient Stalactic Golem]<INFO>ILL_STALACTIC_GOLEM,0,0,3,-222,1</INFO></NAVI>, <NAVI>[Ancient Megalith]<INFO>ILL_MEGALITH,0,0,3,-222,1</INFO></NAVI>. Report to <NAVI>[Defense Manager Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> once you're done."
+			"We planned to subdue the Megalith tribe. Please defeat\n\t\t\t5 <NAVI>[Ancient Tri Joint]<INFO>ILL_TRI_JOINT,0,0,3,-222,1</INFO></NAVI>, \n\t\t\t5 <NAVI>[Ancient Stalactic Golem]<INFO>ILL_STALACTIC_GOLEM,0,0,3,-222,1</INFO></NAVI>, \n\t\t\t5 <NAVI>[Ancient Megalith]<INFO>ILL_MEGALITH,0,0,3,-222,1</INFO></NAVI>\n\t\t\tand report to­ <NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>."
 		},
 		Summary = "",
 		NpcSpr = "4_M_THAIONGBAK",
@@ -11741,12 +11741,12 @@ QuestInfoList = {
 		}
 	},
 	[5853] = {
-		Title = "[Waiting] Megalith Hunt",
+		Title = "[Wait] Megalith Hunt",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Defense Manager Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> is expecting you to join the Megalith Hunt tomorrow."
+			"<NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>  will reward you tomorrow."
 		},
-		Summary = "Reset at 4 AM",
+		Summary = "Reset at 4 AM­",
 		CoolTimeQuest = 1,
 		NpcSpr = "4_M_THAIONGBAK",
 		NpcNavi = "com_d02_i",
@@ -11755,9 +11755,9 @@ QuestInfoList = {
 	},
 	[5854] = {
 		Title = "Wootan Hunt",
-		IconName = "ico_nq.bmp",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"We planned to subdue the Wootan tribe. Please defeat 5 of <NAVI>[Ancient Stone Shooter]<INFO>ILL_STONE_SHOOTER,0,0,3,-222,1</INFO></NAVI>, <NAVI>[Ancient Wootan Shooter]<INFO>ILL_WOOTAN_SHOOTER,0,0,3,-222,1</INFO></NAVI>, <NAVI>[Ancient Wootan Fighter]<INFO>ILL_WOOTAN_FIGHTER,0,0,3,-222,1</INFO></NAVI>. Report to <NAVI>[Defense Manager Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> once you're done."
+			"We planned to subdue the Wootan tribe. Please defeat\n\t\t\t5 <NAVI>[Ancient Stone Shooter]<INFO>ILL_STONE_SHOOTER,0,0,3,-222,1</INFO></NAVI>, \n\t\t\t5 <NAVI>[Ancient Wootan Shooter]<INFO>ILL_WOOTAN_SHOOTER,0,0,3,-222,1</INFO></NAVI>, \n\t\t\t5 <NAVI>[Ancient Wootan Fighter]<INFO>ILL_WOOTAN_FIGHTER,0,0,3,-222,1</INFO></NAVI>\n\t\t\tand report to­ <NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>."
 		},
 		Summary = "",
 		NpcSpr = "4_M_THAIONGBAK",
@@ -11771,12 +11771,13 @@ QuestInfoList = {
 		}
 	},
 	[5855] = {
-		Title = "[Waiting] Wootan Hunt",
+		Title = "[Wait] Wootan Hunt",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Defense Manager Luanda]<INFO>com_d02_i,241,255,000,0</INFO></NAVI> is expecting you to join the Wootan Hunt tomorrow."
+			"<NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>  will reward you tomorrow."
 		},
-		Summary = "Reset at 4 AM",
+		Summary = "Reset at 4 AM­",
+		CoolTimeQuest = 1,
 		NpcSpr = "4_M_THAIONGBAK",
 		NpcNavi = "com_d02_i",
 		NpcPosX = 241,
@@ -21040,16 +21041,17 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[8401] = {
-		Title = "Into the King's Heel",
+		Title = "Into the Kings Heel",
 		Description = {""},
 		Summary = "Enter Dungeon"
 	},
 	[8402] = {
-		Title = "Invisible Quest",
+		Title = "Delay - Kings Heel",
 		Description = {
-			"Place Holder"
+			"Tomorrow, go back to <NAVI>[Dr. Magnatum]<INFO>verus04,79,114,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "Resets at 4 am",
+		CoolTimeQuest = 1
 	},
 	[8500] = {
 		Title = "Deliver Small Sprays of Flower",
@@ -21245,10 +21247,10 @@ QuestInfoList = {
 		Description = {
 			"If you defeat 50 wild Steps and EXP Cards within the Summoning Room, you can receive your reward from the board over by Summoning Room exit."
 		},
-		Summary = ""
+		Summary = "Kill monster"
 	},
 	[8528] = {
-		Title = "Delay Insurance - Wait",
+		Title = "Delay Insurance - Standby",
 		Description = {
 			"Delay Insurance re-registration cannot be instantly processed. Please wait and try again."
 		},
@@ -21256,8 +21258,7 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},
 	[8529] = {
-		Title = "Master of the King's Heel",
-		Description = {""},
+		Title = "Master of the Kings Heel",
 		Summary = ""
 	},
 	[8530] = {
@@ -33249,7 +33250,7 @@ QuestInfoList = {
 		Description = {
 			"Side effects of visiting the interior of Pharos still linger. It is recommended to wait another day."
 		},
-		Summary = "Come back tomorrow­",
+		Summary = "Come back tomorrow",
 		CoolTimeQuest = 1
 	},
 	[12366] = {
@@ -33310,25 +33311,27 @@ QuestInfoList = {
 		Summary = "Place Holder"
 	},
 	[12377] = {
-		Title = "Playing weekend dungeon",
+		Title = "Weekend dungeon",
 		Description = {
 			"This is a token that allows you to enter the Weekend Memorial dungeon. You can enter without restrictions for an hour."
 		},
-		Summary = "Weekend dungeon"
+		Summary = "1 Hour"
 	},
 	[12378] = {
-		Title = "Need to recover from fatigue",
+		Title = "[Wait] Weekend dungeon",
 		Description = {
 			"You can't enter the weekend dungeon because of accumulated fatigue. All fatigue will be recovered by midnight."
 		},
-		Summary = "Accumulated Fatigue"
+		Summary = "Come back on weekends",
+		CoolTimeQuest = 1
 	},
 	[12379] = {
-		Title = "Need to recover from fatigue",
+		Title = "[Wait] Friday]",
 		Description = {
 			"You can't enter the friday dungeon because of accumulated fatigue. All fatigue will be recovered by midnight."
 		},
-		Summary = "Accumulated Fatigue"
+		Summary = "Come back on Friday",
+		CoolTimeQuest = 1
 	},
 	[12381] = {
 		Title = "New Continent's Food Supplier",
@@ -38101,7 +38104,7 @@ QuestInfoList = {
 	[14587] = {
 		Title = "Identifying the cause",
 		Description = {
-			"It is necessary to determine the cause of the Pope's increasingly prolonged sleep time in recent years. Please go into the Pope's dream to find out the cause and solve any problems.]"
+			"It is necessary to determine the cause of the Pope's increasingly prolonged sleep time in recent years. Please go into the Pope's dream to find out the cause and solve any problems."
 		},
 		Summary = "Into the dream"
 	},
@@ -38141,18 +38144,18 @@ QuestInfoList = {
 		Summary = "Reset at 4 am"
 	},
 	[14593] = {
-		Title = "Sending mail",
+		Title = "Sending mail]",
 		Description = {
 			"Sending mail"
 		},
 		Summary = ""
 	},
 	[14594] = {
-		Title = "Preparation to walk on the path of dreams",
+		Title = "Path of dreams",
 		Description = {
 			"If you are ready to walk on the path of dreams, please come back again."
 		},
-		Summary = "To Nirn"
+		Summary = "To Niren"
 	},
 	[14595] = {
 		Title = "Invisible Quest",
@@ -40639,34 +40642,34 @@ QuestInfoList = {
 	[16215] = {
 		Title = "The Shadowed Dream",
 		Description = {
-			"You've agreed to accompany Loreche's investigation. Speak with <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> to enter the Dimensional Gap."
+			"You have agreed to accompany Loreches investigation. Speak with <NAVI>[Loreche]<INFO>dali02.gat,108,94,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Dimensional Gap Investigation"
+		Summary = "Talk to Loreche"
 	},
 	[16216] = {
-		Title = "The Bubbly Illusion",
+		Title = "The Shadowed Dream",
 		Description = {
-			"You've agreed to accompany Loreche's investigation. Speak with <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> to enter the Dimensional Gap."
+			"You have agreed to accompany Loreches investigation. Speak with <NAVI>[Loreche]<INFO>dali02.gat,108,94,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Dimensional Gap Investigation"
+		Summary = "Talk to Loreche"
 	},
 	[16217] = {
-		Title = "Rest and Relaxation",
+		Title = "[Standby] The Shadowed Dream",
 		Description = {
-			"This is a daily quest, and you can re-take it when the cooldown resets. Speak to <NAVI>[Loreche]<INFO>dali02.gat,108,94,0,101,0</INFO></NAVI>in the Dimensional Gap to accept the quest."
+			"This is a daily quest, and you can re-take it when the cooldown resets. Speak to <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Resets at 4 am",
 		CoolTimeQuest = 1
 	},
 	[16218] = {
-		Title = "Modification and Calculation",
+		Title = "The Shadowed Dream",
 		Description = {
-			"Let's go seek out <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI> so we can enter the Dimensional Gap."
+			"Speak with Loreche <NAVI>[Loreche]<INFO>dali02.gat,108,94,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Speak with Eugenie"
+		Summary = "Talk to Loreche"
 	},
 	[16219] = {
-		Title = "Kindness and Gratitude",
+		Title = "The Shadowed Dream",
 		Description = {""},
 		Summary = ""
 	},

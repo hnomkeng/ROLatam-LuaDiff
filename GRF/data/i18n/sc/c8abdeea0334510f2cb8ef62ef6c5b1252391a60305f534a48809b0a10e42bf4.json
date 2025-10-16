@@ -85,14 +85,14 @@
         "es": "[Dr.Magnatum]\nGracias… Ah, cielos. Olvidé preguntarte tu nombre.\nSoy Magnatum. Magnatum el tercero.\nComo muchas otras personas en este lugar, estoy haciendo una investigación arqueológica."
     },
     "8UGyCA": {
-        "en": "[{}]\n...{}.",
-        "pt": "[{}]\n...{}.",
-        "es": "[{}]\n...{}."
+        "en": "[{0}]\n...{0}.",
+        "pt": "[{0}]\n...{0}.",
+        "es": "[{0}]\n...{0}."
     },
     "8kGyCA": {
-        "en": "[Dr. Magnatum]\nRight, {}.\nI'm leaving it up to you, then.\nPlease come back to me once you have successfully completed the Quest.",
-        "pt": "[Dr. Magnatum]\nBacana, {}.\nCom isso, selamos nosso acordo.\nEspero que essa relação gere bons frutos.",
-        "es": "[Dr.Magnatum]\nDe acuerdo, {}.\nTe lo encargo a ti.\nVuelve a hablar conmigo cuando hayas completado con éxito la misión."
+        "en": "[Dr. Magnatum]\nRight, {0}.\nI'm leaving it up to you, then.\nPlease come back to me once you have successfully completed the Quest.",
+        "pt": "[Dr. Magnatum]\nBacana, {0}.\nCom isso, selamos nosso acordo.\nEspero que essa relação gere bons frutos.",
+        "es": "[Dr.Magnatum]\nDe acuerdo, {0}.\nTe lo encargo a ti.\nVuelve a hablar conmigo cuando hayas completado con éxito la misión."
     },
     "80GyCA": {
         "en": "At the King's Heel",
@@ -102,12 +102,12 @@
     "9EGyCA": {
         "en": "^FF0000You must create or join a Party with more than 1 other player to enter.^000000",
         "pt": "^FF0000Por favor, crie um Grupo.^000000",
-        "es": "^660000Debes crear o unirte a un grupo con más de 1jugador para participar.^000000"
+        "es": "^FF0000Debes crear o unirte a un grupo con más de 1jugador para participar.^000000"
     },
     "9UGyCA": {
         "en": "[Dr. Magnatum]\nCollect 50 ^0000FFGolden Cards^000000, and I will trade them for 1 ^0000FFOld Fuel Tank ^000000.",
-        "pt": "[Dr. Magnatum]\nSe você coletar ^0000CD50 Cartas Douradas^000000 posso te dar ^0000CD1 Tanque Velho^000000.",
-        "es": "[Dr.Magnatum]\nRecolecta 50^FF0000Cartas doradas^000000, y te las intercambiaré por 1^FF0000Tanque de combustible viejo^000000."
+        "pt": "[Dr. Magnatum]\nSe você coletar ^0000FF50 Cartas Douradas^000000 posso te dar ^0000FF1 Tanque Velho^000000.",
+        "es": "[Dr.Magnatum]\nRecolecta 50^0000FFCartas doradas^000000, y te las intercambiaré por 1^0000FFTanque de combustible viejo^000000."
     },
     "9kGyCA": {
         "en": "Trade.",
@@ -121,8 +121,8 @@
     },
     "+EGyCA": {
         "en": "[Dr. Magnatum]\nHow many ^0000FFOld Fuel Tanks^000000 do you want?\nI will trade up to 50 at once for you.",
-        "pt": "[Dr. Magnatum]\nQuantos ^0000CDTanques Velhos^000000 quer?\nPosso te dar até 50 Tanques por troca.",
-        "es": "[Dr.Magnatum]\n¿Cuántos ^FF0000Tanques de combustible viejos^000000 quieres?\nTe cambiaré hasta 50 a la vez."
+        "pt": "[Dr. Magnatum]\nQuantos ^0000FFTanques Velhos^000000 quer?\nPosso te dar até 50 Tanques por troca.",
+        "es": "[Dr.Magnatum]\n¿Cuántos ^0000FFTanques de combustible viejos^000000 quieres?\nTe cambiaré hasta 50 a la vez."
     },
     "+UGyCA": {
         "en": "[Dr. Magnatum]\nYou don't need them? That's fine with me.",
@@ -135,9 +135,9 @@
         "es": "[Dr.Magnatum]\nEso parece bastante pesado…\nNo puedo darte tantos a la vez."
     },
     "+0GyCA": {
-        "en": "[Dr. Magnatum]\nEhm, you don't have enough Golden Cards for {} Old Fuel Tank(s).\nPlease check again.",
-        "pt": "[Dr. Magnatum]\nVocê não tem Cartas Douradas o suficiente para receber {} Tanques Velhos.\nVerifique novamente.",
-        "es": "[Dr.Magnatum]\nMmm, no tienes suficientes Cartas doradas para {} Tanques de combustible viejos.\nVuelve a verificar."
+        "en": "[Dr. Magnatum]\nEhm, you don't have enough Golden Cards for {0} Old Fuel Tank(s).\nPlease check again.",
+        "pt": "[Dr. Magnatum]\nVocê não tem Cartas Douradas o suficiente para receber {0} Tanques Velhos.\nVerifique novamente.",
+        "es": "[Dr.Magnatum]\nMmm, no tienes suficientes Cartas doradas para {0} Tanques de combustible viejos.\nVuelve a verificar."
     },
     "/EGyCA": {
         "en": "[Dr. Magnatum]\nAlright, here you are.\nNow I must inquire into the value of those cards you have given me.",
@@ -150,24 +150,24 @@
         "es": "[Dr.Magnatum]\nNo parece que tengas 50cartas contigo…\nLo siento mucho, pero no creo que pueda comerciar contigo. No puedo investigar mucho con tan pocas cartas…"
     },
     "/kGyCA": {
-        "en": "[Dr. Magnatum]\nEhm? You don't seem to be very interested in cards at the moment.\nIf you ever feel the collector's hunger and feel like heading back into the King's Heel again, come find me again,{}.",
-        "pt": "[Dr. Magnatum]\nHm? Não tenho interesse em novas Cartas por agora.\nSe deseja ir na instância, {}, volte amanhã.",
-        "es": "[Dr.Magnatum]\n¿Eh? No demuestras mucho interés en las cartas por el momento.\nSi alguna vez sientes la sed del coleccionista y quieres volver al Talón del Rey, ven a buscarme de nuevo,{}."
+        "en": "[Dr. Magnatum]\nEhm? You don't seem to be very interested in cards at the moment.\nIf you ever feel the collector's hunger and feel like heading back into the King's Heel again, come find me again,{0}.",
+        "pt": "[Dr. Magnatum]\nHm? Não tenho interesse em novas Cartas por agora.\nSe deseja ir na instância, {0}, volte amanhã.",
+        "es": "[Dr.Magnatum]\n¿Eh? No demuestras mucho interés en las cartas por el momento.\nSi alguna vez sientes la sed del coleccionista y quieres volver al Talón del Rey, ven a buscarme de nuevo,{0}."
     },
     "/0GyCA": {
         "en": "[Dr. Magnatum]\nAlternatively, if you can bring me 50 ^0000FFGolden Cards^000000, I will exchange them for 1 ^0000FFOld Fuel Tank^000000.",
-        "pt": "[Dr. Magnatum]\nParalelamente, se você coletar ^0000CD50 Cartas Douradas^000000 posso te dar ^0000CD1 Tanque Velho^000000.",
-        "es": "[Dr.Magnatum]\nPor otro lado, si puedes traerme 50^FF0000Cartas doradas^000000, te las intercambiaré por 1^FF0000Tanque de combustible viejo^000000."
+        "pt": "[Dr. Magnatum]\nParalelamente, se você coletar ^0000FF50 Cartas Douradas^000000 posso te dar ^0000FF1 Tanque Velho^000000.",
+        "es": "[Dr.Magnatum]\nPor otro lado, si puedes traerme 50^0000FFCartas doradas^000000, te las intercambiaré por 1^0000FFTanque de combustible viejo^000000."
     },
     "AEKyCA": {
         "en": "^0000FFThough you once hated the sight of cards, all of that has changed now.^000000\n^0000FFDr. Magnatum would also probably like to get his hands on this.^000000",
-        "pt": "^0000CDParece que o Dr. Magnatum precisa de ajuda.^000000\n^0000CDAcho que ele quer novas Cartas Douradas.^000000",
-        "es": "^FF0000Aunque antes odiabas ver cartas, ahora todo eso cambió.^000000\n^FF0000Probablemente al Dr.Magnatum también le gustaría tener esto en sus manos.^000000"
+        "pt": "^0000FFParece que o Dr. Magnatum precisa de ajuda.^000000\n^0000FFAcho que ele quer novas Cartas Douradas.^000000",
+        "es": "^0000FFAunque antes odiabas ver cartas, ahora todo eso cambió.^000000\n^0000FFProbablemente al Dr.Magnatum también le gustaría tener esto en sus manos.^000000"
     },
     "AUKyCA": {
-        "en": "[Dr. Magnatum]\nGreetings, {}.\nAre you thinking of investigating Card Relics?",
-        "pt": "[Dr. Magnatum]\nOlá, {}.\nVocê veio escavar mais Cartas Douradas?",
-        "es": "[Dr.Magnatum]\nSaludos, {}.\n¿Estás pensando en investigar Reliquias de cartas?"
+        "en": "[Dr. Magnatum]\nGreetings, {0}.\nAre you thinking of investigating Card Relics?",
+        "pt": "[Dr. Magnatum]\nOlá, {0}.\nVocê veio escavar mais Cartas Douradas?",
+        "es": "[Dr.Magnatum]\nSaludos, {0}.\n¿Estás pensando en investigar Reliquias de cartas?"
     },
     "AkKyCA": {
         "en": "Create King's Heel entrance.",
@@ -190,9 +190,9 @@
         "es": "Cancelar."
     },
     "BkKyCA": {
-        "en": "Party name: {}\nParty leader: {}\n^0000FF{}^000000 - Reservation failure",
-        "pt": "Grupo: {}\nLíder: {}\n^0000CD{} ^000000 - falha",
-        "es": "Nombre del grupo: {}.\nLíder del grupo: {}.\n^FF0000{}^000000- Fallo en la reserva."
+        "en": "Party name: {0}\nParty leader: {1}\n^0000FF{2}^000000 - Reservation failure",
+        "pt": "Grupo: {0}\nLíder: {1}\n^0000FF{2} ^000000 - falha",
+        "es": "Nombre del grupo: {0}.\nLíder del grupo: {1}.\n^0000FF{2}^000000- Fallo en la reserva."
     },
     "B0KyCA": {
         "en": "[Dr. Magnatum]\nOne moment, please...\nNo, the Card Pile is down there, so that's really ...",
@@ -202,498 +202,566 @@
     "CEKyCA": {
         "en": "^FF0000An unknown error has occurred.^000000",
         "pt": "^FF0000Erro desconhecido.^000000",
-        "es": "^660000Se ha producido un error desconocido.^000000"
+        "es": "^FF0000Se ha producido un error desconocido.^000000"
     },
     "CUKyCA": {
         "en": "^FF0000The Memorial Dungeon has not been created yet.^000000",
         "pt": "^FF0000A instância não foi criada ainda.^000000",
-        "es": "^660000La Mazmorra del recuerdo aún no fue creada.^000000"
+        "es": "^FF0000La Mazmorra del recuerdo aún no fue creada.^000000"
     },
     "CkKyCA": {
         "en": "^FF0000Must be in a party to enter the dungeon.^000000",
         "pt": "^FF0000Você não pode entrar sem um Grupo.^000000",
-        "es": "^660000Debes estar en un grupo para entrar en la mazmorra.^000000"
+        "es": "^FF0000Debes estar en un grupo para entrar en la mazmorra.^000000"
     },
     "C0KyCA": {
-        "en": "Party member {} now entering {} of party{}.",
-        "pt": "{}, o grupo de {}, entrou na {}.",
-        "es": "El miembro del grupo {} entra ahora en {} del grupo{}."
+        "en": "Party member {0} now entering {1} of party{2}.",
+        "pt": "{0}, do grupo {2}, entrou na instância Aos Pés do Rei.",
+        "es": "{0}, del grupo {2}, ingresó en {1}."
     },
     "DEKyCA": {
         "en": "Entering 'The King's Heel'",
-        "pt": "Sue Winterguard",
-        "es": "Entrando en el “Talón del Rey”."
+        "pt": "Entrar na instância",
+        "es": "Entrando en el [Talón del Rey]."
     },
     "DUKyCA": {
         "en": "Sue Wintergard",
-        "pt": "Você tem muitos itens. Por favor, limpe seu inventário.",
+        "pt": "Sue Winterguard",
         "es": "Sue Wintergard"
     },
     "DkKyCA": {
         "en": "You have too many kinds of items. Reduce your number of item types and try again.",
-        "pt": "Você está com peso em excesso. Alivie seu inventário.",
+        "pt": "Você tem muitos itens. Por favor, limpe seu inventário.",
         "es": "Tienes demasiados tipos de objetos. Reduce la cantidad de tipos de objetos e inténtalo de nuevo."
     },
     "D0KyCA": {
         "en": "Your bag is too heavy to proceed any further. Try again after reducing the weight of the items in your inventory.",
-        "pt": "[Sue Winterguard]\nAh, oi, viajante!\nA Fenda Dimensional daqui é muito interessante.\nAlgo que desperta minha curiosidade.",
+        "pt": "Você está com peso em excesso. Alivie seu inventário.",
         "es": "Tu bolso es demasiado pesado para seguir adelante. Vuelve a intentarlo después de reducir el peso de los objetos de tu inventario."
     },
     "EEKyCA": {
         "en": "[Sue Wintergard]\nOh, hello, Adventurer!\nThe Dimensional Gap is very exciting indeed.\nMy curiosity is absolutely tickled!",
-        "pt": "[Sue Winterguard]\nHã? Cartas Douradas? Não tô interessada nisso. Tenho interesse em melhorar armaduras mecânicas.",
+        "pt": "[Sue Winterguard]\nAh, oi, viajante!\nA Fenda Dimensional daqui é muito interessante.\nAlgo que desperta minha curiosidade.",
         "es": "[Sue Wintergard]\n¡Hola, trotamundos!\nLa grieta dimensional es muy emocionante.\nMe da mucha curiosidad."
     },
     "EUKyCA": {
         "en": "[Sue Wintergard]\nHuh? The Card Pile? Not interested. For me, the only thing that matters is collecting things.",
-        "pt": "[Sue Winterguard]\nPosso adicionar 1 slot de carta na^0000CDPeça de FOR Suplementar^000000 ou ^0000CDAutopeça - Carburador^000000 se me trouxer essas armaduras refinadas no +9 e 300 Componentes Charleston.\n^FF0000Refino, carta e encantos serão perdidos^FF0000.\nCom o slot, elas vão equipar somente no ^FF0000nível 130 ou maior^000000.\nTem interesse?",
+        "pt": "[Sue Winterguard]\nHã? Cartas Douradas? Não tô interessada nisso. Tenho interesse em melhorar armaduras mecânicas.",
         "es": "[Sue Wintergard]\n¿Eh? ¿La Pila de cartas? No me interesa. Para mí, lo único que importa es recolectar cosas."
     },
     "EkKyCA": {
         "en": "[Sue Wintergard]\nIf you give me ^0000FF+9 or higher Strength Amplifying Armor^000000 or ^0000FF+9 or higher Upgrade Part - Gloves^000000 and 300 Charleston Components, I can upgrade your gear with an empty slot.\n^FF0000All Refinements and Enchantments will be reset^FF0000.\nAnd please bear in mind, you must be ^FF0000Level 130 or higher^000000 to equip.\nWhat do you say? Interested?",
-        "pt": "Slotar Peça de FOR Suplementar",
-        "es": "[Sue Wintergard]\nSi me das ^FF0000una Armadura amplificadora de fuerza +9 o superior^000000 o ^FF0000una Pieza de mejora: Guantes +9 o superior^000000 y 300Componentes de Charleston, puedo mejorar tu equipamiento con una ranura vacía.\n^660000Todos los refinamientos y encantamientos se restablecerán^660000.\nTen en cuenta que debes ser de ^660000nivel130 o superior^000000 para equiparte.\n¿Qué dices? ¿Te interesa?"
+        "pt": "[Sue Winterguard]\nPosso adicionar 1 slot de carta na^0000FFPeça de FOR Suplementar^000000 ou ^0000FFAutopeça - Carburador^000000 se me trouxer essas armaduras refinadas no +9 e 300 Componentes Charleston.\n^FF0000Refino, carta e encantos serão perdidos^FF0000.\nCom o slot, elas vão equipar somente no ^FF0000nível 130 ou maior^000000.\nTem interesse?",
+        "es": "[Sue Wintergard]\nSi me das ^0000FFuna Armadura amplificadora de fuerza +9 o superior^000000 o ^0000FFuna Pieza de mejora: Guantes +9 o superior^000000 y 300Componentes de Charleston, puedo mejorar tu equipamiento con una ranura vacía.\n^FF0000Todos los refinamientos y encantamientos se restablecerán^FF0000.\nTen en cuenta que debes ser de ^FF0000nivel130 o superior^000000 para equiparte.\n¿Qué dices? ¿Te interesa?"
     },
     "E0KyCA": {
         "en": "Upgrade Strength Amplifying Armor",
-        "pt": "Slotar Autopeça - Carburador",
+        "pt": "Slotar Peça de FOR Suplementar",
         "es": "Mejorar Armadura amplificadora de fuerza."
     },
     "FEKyCA": {
         "en": "Upgrade Part - Gloves",
-        "pt": "[Sue Winterguard]\nRepetindo.\n^0000CD+9 Peça de FOR Suplementar^000000\n^0000CD300 Componentes de Charleston^000000\n^FF0000Perde refino, carta e encanto^FF0000\n^FF0000Equipa nível 130 ou mais^000000.\nQuer equipar o item para adicionar slot?",
+        "pt": "Slotar Autopeça - Carburador",
         "es": "Pieza de mejora: Guantes."
     },
     "FUKyCA": {
         "en": "Cancel",
-        "pt": "Já está equipado",
+        "pt": "Cancelar.",
         "es": "Cancelar."
     },
     "FkKyCA": {
         "en": "[Sue Wintergard]\nJust so you're sure,\n^0000FF+9 or higher Strength Amplifying Armor^000000 will be changed\nto ^0000FFStrength Amplifying Armor [1]^000000.\n^FF0000All Refinements and Enchantments will be reset^FF0000.\nCan only be equipped at^FF0000Level 130 or higher^000000.\nHave you equipped something that can be upgraded?",
-        "pt": "Vou equipar",
-        "es": "[Sue Wintergard]\nPara que lo tengas claro,\nse intercambiará una ^FF0000Armadura amplificadora de fuerza +9 o superior^000000 por\nuna ^FF0000Armadura amplificadora de fuerza [1]^000000.\n^660000Todos los refinamientos y encantamientos se restablecerán^660000.\nSolo puede equiparse si estás en el^660000nivel130 o uno superior^000000.\n¿Equipaste algo que pueda mejorarse?"
+        "pt": "[Sue Winterguard]\nRepetindo.\n^0000FF+9 Peça de FOR Suplementar^000000\n^0000FF300 Componentes de Charleston^000000\n^FF0000Perde refino, carta e encanto^FF0000\n^FF0000Equipa nível 130 ou mais^000000.\nQuer equipar o item para adicionar slot?",
+        "es": "[Sue Wintergard]\nPara que lo tengas claro,\nse intercambiará una ^0000FFArmadura amplificadora de fuerza +9 o superior^000000 por\nuna ^0000FFArmadura amplificadora de fuerza [1]^000000.\n^FF0000Todos los refinamientos y encantamientos se restablecerán^FF0000.\nSolo puede equiparse si estás en el^FF0000nivel130 o uno superior^000000.\n¿Equipaste algo que pueda mejorarse?"
     },
     "F0KyCA": {
         "en": "Yes, I have",
-        "pt": "[Sue Winterguard]\nAh... você não equipou?\nPor favor, equipe o item correto.",
+        "pt": "Já está equipado",
         "es": "Sí."
     },
     "GEKyCA": {
         "en": "No, I haven't.",
-        "pt": "[Sue Winterguard]\nEu não trabalho com essa armadura~\nPor favor, equipe o item correto.",
+        "pt": "Vou equipar",
         "es": "No, no lo he hecho."
     },
     "GUKyCA": {
         "en": "[Sue Wintergard]\nHey, don't lie...\nIn the meantime, I'll be checking if everything is working properly. Please equip yourself properly and come back for an upgrade.",
-        "pt": "[Sue Winterguard]\nCerto, o refino da armadura é {}... Bravo.",
+        "pt": "[Sue Winterguard]\nAh... você não equipou?\nPor favor, equipe o item correto.",
         "es": "[Sue Wintergard]\nOye, no mientas…\nMientras tanto, comprobaré si todo funciona correctamente. Por favor, equípate adecuadamente y regresa para una mejora."
     },
     "GkKyCA": {
         "en": "[Sue Wintergard]\nHey! That thing you're equipping will not do!\nIn the meantime, I'll be checking if everything is working properly. Please equip yourself properly and come back for your gear change.",
-        "pt": "[Sue Winterguard]\nEssa armadura não está refinada.\nVolte quando ela for +9 ou superior.",
+        "pt": "[Sue Winterguard]\nEu não trabalho com essa armadura~\nPor favor, equipe o item correto.",
         "es": "[Sue Wintergard]\n¡Oye! ¡Eso que estás equipando no servirá!\nMientras tanto, comprobaré si todo funciona correctamente. Por favor, equípate adecuadamente y regresa para tu cambio de equipamiento."
     },
     "G0KyCA": {
-        "en": "[Sue Wintergard]\nGreat, that's right. And the refinement level is ... {}. Great job.",
-        "pt": "[Sue Winterguard]\nCerto, você coletou os 300 Componentes de Charleston...",
-        "es": "[Sue Wintergard]\nGenial, así es. Y el nivel de refinamiento es… {}. Gran trabajo."
+        "en": "[Sue Wintergard]\nGreat, that's right. And the refinement level is ... {0}. Great job.",
+        "pt": "[Sue Winterguard]\nCerto, o refino da armadura é {0}... Bravo.",
+        "es": "[Sue Wintergard]\nGenial, así es. Y el nivel de refinamiento es… {0}. Gran trabajo."
     },
     "HEKyCA": {
         "en": "[Sue Wintergard]\nYou don't meet the upgrade requirements.\nPlease come back once you've attained refinement level 9 or higher.",
-        "pt": "^FF0000Refino, encantos e cartas não serão transferidos^000000\nVocê receberá a <ITEM>[Peça de FOR Suplementar com slot]<INFO>15343</INFO></ITEM>. Deseja trocar?",
+        "pt": "[Sue Winterguard]\nEssa armadura não está refinada.\nVolte quando ela for +9 ou superior.",
         "es": "[Sue Wintergard]\nNo cumples los requisitos de mejora.\nRegresa cuando hayas alcanzado un nivel de refinamiento 9 o superior."
     },
     "HUKyCA": {
         "en": "[Sue Wintergard]\nAll right, you gathered 300 Charleston Components...",
-        "pt": "Trocar",
+        "pt": "[Sue Winterguard]\nCerto, você coletou os 300 Componentes de Charleston...",
         "es": "[Sue Wintergard]\nMuy bien, reuniste 300Componentes de Charleston…"
     },
     "HkKyCA": {
         "en": "^FF0000All refinements and enchantments on the equipped gear will be removed^000000 and\nYou will receive an upgraded <ITEM>Strength Amplifying Armor [1]<INFO>15343</INFO></ITEM>. Are you sure you want to continue?",
-        "pt": "[Sue Winterguard]\nQue pena~...\nVenha quando sentir vontade.",
-        "es": "^660000Todos los refinamientos y encantamientos del equipamiento equipado se eliminarán^000000 y\nrecibirás una <ITEM>Armadura amplificadora de fuerza [1]<INFO>15343</INFO></ITEM>mejorada. ¿Realmente quieres continuar?"
+        "pt": "^FF0000Refino, encantos e cartas não serão transferidos^000000\nVocê receberá a <ITEM>[Peça de FOR Suplementar com slot]<INFO>15343</INFO></ITEM>. Deseja trocar?",
+        "es": "^FF0000Todos los refinamientos y encantamientos del equipamiento equipado se eliminarán^000000 y\nrecibirás una <ITEM>Armadura amplificadora de fuerza [1]<INFO>15343</INFO></ITEM>mejorada. ¿Realmente quieres continuar?"
     },
     "H0KyCA": {
         "en": "Upgrade.",
-        "pt": "[Sue Winterguard]\nNão é o equipamento que procuro.",
+        "pt": "Trocar",
         "es": "Mejorar."
     },
     "IEKyCA": {
         "en": "[Sue Wintergard]\nToo bad...\nCome back to me whenever you feel like it. I will be waiting.",
-        "pt": "[Sue Winterguard]\nHã? Acho que algo deu errado.\nVamos começar de novo, sim?",
+        "pt": "[Sue Winterguard]\nQue pena~...\nVenha quando sentir vontade.",
         "es": "[Sue Wintergard]\nQué lástima…\nVuelve a hablar conmigo cuando quieras. Estaré esperando."
     },
     "IUKyCA": {
         "en": "[Sue Wintergard]\nHey, you're equipping something different now. I won't be able to upgrade this.",
-        "pt": "[Sue Winterguard]\nA adição do slot foi um sucesso.\nQue bom que deu tudo certo.\nVolte quando quiser.",
+        "pt": "[Sue Winterguard]\nNão é o equipamento que procuro.",
         "es": "[Sue Wintergard]\nOye, ahora estás equipando algo diferente. No podré mejorar esto."
     },
     "IkKyCA": {
         "en": "[Sue Wintergard]\nOh? There seems to be a problem.\nDo you want to start over again?",
-        "pt": "[Sue Winterguard]\nVocê não tem ^3131FFComponente de Charleston^000000 suficiente, viu?\nVolte quando coletar 300 unidades.",
+        "pt": "[Sue Winterguard]\nHã? Acho que algo deu errado.\nVamos começar de novo, sim?",
         "es": "[Sue Wintergard]\n¿Eh? Parece que hay un problema.\n¿Quieres empezar de nuevo?"
     },
     "I0KyCA": {
         "en": "[Sue Wintergard]\nGreat, the upgrade worked perfectly.\nA valuable test for me, indeed.\nCome find me again when you need me.",
-        "pt": "[Sue Winterguard]\nPor favor, equipe o item correto.",
+        "pt": "[Sue Winterguard]\nA adição do slot foi um sucesso.\nQue bom que deu tudo certo.\nVolte quando quiser.",
         "es": "[Sue Wintergard]\nGenial, la mejora funcionó a la perfección.\nUna prueba muy valiosa para mí.\nVen a buscarme cuando me necesites."
     },
     "JEKyCA": {
         "en": "[Sue Wintergard]\nUm, you don't seem to have enough ^4D4DFFCharleston Components^000000 for the upgrade.\nYou will have to come back again once you've gotten 300 of them.",
-        "pt": "[Sue Winterguard]\nRepetindo.\n^0000CD+9 Autopeça - Carburador^000000\n^0000CD300 Componentes de Charleston^000000\n^FF0000Perde refino, carta e encanto^FF0000\n^FF0000Equipa nível 130 ou mais^000000\nQuer equipar o item para adicionar slot?",
+        "pt": "[Sue Winterguard]\nVocê não tem ^4D4DFFComponente de Charleston^000000 suficiente, viu?\nVolte quando coletar 300 unidades.",
         "es": "[Sue Wintergard]\nMmm, no pareces tener suficientes ^4D4DFFComponentes de Charleston^000000 para la mejora.\nTendrás que regresar de nuevo cuando hayas conseguido 300."
     },
     "JUKyCA": {
         "en": "[Sue Wintergard]\nIn the meantime, I'll be checking if everything is working properly. Please equip yourself properly and come back for your gear change.",
-        "pt": "[Sue Winterguard]\nEu não trabalho com essa armadura~.\nPor favor, equipe o item correto.",
+        "pt": "[Sue Winterguard]\nPor favor, equipe o item correto.",
         "es": "[Sue Wintergard]\nMientras tanto, comprobaré si todo funciona correctamente. Por favor, equípate adecuadamente y regresa para tu cambio de equipamiento."
     },
     "JkKyCA": {
         "en": "[Sue Wintergard]\nJust so you're sure,\nYour ^0000FF+9 or higher Upgrade Part - Gloves^000000\nwill be changed to ^0000FFUpgrade Part - Gloves [1]^000000.\n^FF0000All Refinements and Enchantments will be reset^FF0000.\nCan only be equipped at^FF0000Level 130 or higher^000000.\nHave you equipped something that can be upgraded?",
-        "pt": "^FF0000Refino, encantos e cartas não serão transferidos^000000\nVocê receberá a <ITEM>[Autopeça - Carburador com slot]<INFO>15344</INFO></ITEM>. Deseja trocar?",
-        "es": "[Sue Wintergard]\nPara que lo tengas claro,\nTu ^FF0000Pieza de mejora: Guantes +9 o superior^000000\nse cambiará por una ^FF0000Pieza de mejora: Guantes [1]^000000.\n^660000Todos los refinamientos y encantamientos se restablecerán^660000.\nSolo puede equiparse si estás en el^660000nivel130 o uno superior^000000.\n¿Equipaste algo que pueda mejorarse?"
+        "pt": "[Sue Winterguard]\nRepetindo.\n^0000FF+9 Autopeça - Carburador^000000\n^0000FF300 Componentes de Charleston^000000\n^FF0000Perde refino, carta e encanto^FF0000\n^FF0000Equipa nível 130 ou mais^000000\nQuer equipar o item para adicionar slot?",
+        "es": "[Sue Wintergard]\nPara que lo tengas claro,\nTu ^0000FFPieza de mejora: Guantes +9 o superior^000000\nse cambiará por una ^0000FFPieza de mejora: Guantes [1]^000000.\n^FF0000Todos los refinamientos y encantamientos se restablecerán^FF0000.\nSolo puede equiparse si estás en el^FF0000nivel130 o uno superior^000000.\n¿Equipaste algo que pueda mejorarse?"
     },
     "J0KyCA": {
         "en": "^FF0000All refinements and enchantments on the equipped gear will be removed^000000 and\nYou will receive <ITEM>Upgrade Part - Gloves [1]<INFO>15344</INFO></ITEM>. Are you sure you want to continue?",
-        "pt": "[Sue Winterguard]\nVolte quando quiser.",
-        "es": "^660000Todos los refinamientos y encantamientos del equipamiento equipado se eliminarán^000000 y\nRecibirás la <ITEM>Pieza de mejora: Guantes [1]<INFO>15344</INFO></ITEM>. ¿Realmente quieres continuar?"
+        "pt": "^FF0000Refino, encantos e cartas não serão transferidos^000000\nVocê receberá a <ITEM>[Autopeça - Carburador com slot]<INFO>15344</INFO></ITEM>. Deseja trocar?",
+        "es": "^FF0000Todos los refinamientos y encantamientos del equipamiento equipado se eliminarán^000000 y\nRecibirás la <ITEM>Pieza de mejora: Guantes [1]<INFO>15344</INFO></ITEM>. ¿Realmente quieres continuar?"
     },
     "KEKyCA": {
         "en": "[Sue Wintergard]\nCome visit me again when you feel like it.",
-        "pt": "Ingrata A",
+        "pt": "[Sue Winterguard]\nVolte quando quiser.",
         "es": "[Sue Wintergard]\nVuelve a visitarme cuando tengas ganas."
     },
     "KUKyCA": {
         "en": "Ingrata A",
-        "pt": "[Ingrata A]\nAh, olá!\nUma pessoa de carne e osso!",
+        "pt": "Ingrata A",
         "es": "Ingrata A"
     },
     "KkKyCA": {
         "en": "[Ingrata A]\nHello.\nAll people with a pulse!",
-        "pt": "[Ingrata A]\nEstou vendendo ^FF0000Autopeça - Carburador^000000 e ^FF0000Peça de FOR Suplementar^000000.\nO preço é ^FF00003.999.999^000000 zeny...!",
+        "pt": "[Ingrata A]\nAh, olá!\nUma pessoa de carne e osso!",
         "es": "[IngrataA]\nHola.\n¡Todas las personas con pulso!"
     },
     "K0KyCA": {
         "en": "[Ingrata A]\nWe are selling ^FF0000Upgrade Part - Gloves^000000 and ^FF0000Strength Amplifying Armor^000000, forged in the virtuous King's Heel.\nFor a mere ^FF00003,999,999^000000 zeny...!",
-        "pt": "[Ingrata A]\nTambém faço a ^FF0000atualização^000000 do ^FF0000Bate-Estacas^000000 para uma versão melhorada!",
-        "es": "[IngrataA]\nVendemos la ^660000Pieza de mejora: Guantes^000000 y la ^660000Armadura amplificadora de fuerza^000000, forjadas en el virtuoso Talón del Rey.\n¡Por tan solo ^6600003999999^000000zeny!"
+        "pt": "[Ingrata A]\nEstou vendendo ^FF0000Autopeça - Carburador^000000 e ^FF0000Peça de FOR Suplementar^000000.\nO preço é ^FF00003.999.999^000000 zeny...!",
+        "es": "[IngrataA]\nVendemos la ^FF0000Pieza de mejora: Guantes^000000 y la ^FF0000Armadura amplificadora de fuerza^000000, forjadas en el virtuoso Talón del Rey.\n¡Por tan solo ^FF00003999999^000000zeny!"
     },
     "LEKyCA": {
         "en": "[Ingrata A]\nWe also offer ^FF0000Upgrades^000000for ^FF0000Pile Bunkers^000000!",
-        "pt": "Conversar",
-        "es": "[IngrataA]\n¡También ofrecemos ^660000mejoras^000000para ^660000Perforaciones de acero^000000!"
+        "pt": "[Ingrata A]\nTambém faço a ^FF0000atualização^000000 do ^FF0000Bate-Estacas^000000 para uma versão melhorada!",
+        "es": "[IngrataA]\n¡También ofrecemos ^FF0000mejoras^000000para ^FF0000Perforaciones de acero^000000!"
     },
     "LUKyCA": {
         "en": "Talk",
-        "pt": "Comprar Autopeça - Carburador",
+        "pt": "Conversar",
         "es": "Hablar."
     },
     "LkKyCA": {
         "en": "Buy Upgrade Part",
-        "pt": "Comprar Peça de FOR Suplementar",
+        "pt": "Comprar Autopeça - Carburador",
         "es": "Comprar Pieza de mejora."
     },
     "L0KyCA": {
         "en": "Buy Amplifying Armor",
-        "pt": "Atualizar Bate-Estacas",
+        "pt": "Comprar Peça de FOR Suplementar",
         "es": "Comprar Armadura amplificadora."
     },
     "MEKyCA": {
         "en": "Pile Bunker Upgrade",
-        "pt": "[Ingrata A]\nA instância [Aos Pés do Rei] é uma casa de duelos que abrange várias dimensões.\nAcho que já joguei cartas com outras formas de vida lá dentro...",
+        "pt": "Atualizar Bate-Estacas",
         "es": "Mejorar Perforaciones de acero."
     },
     "MUKyCA": {
         "en": "[Ingrata A]\nThe virtuous King's Heel is a duel house comprising all dimensions.\nIf memory serves me right, I seem to have played card games with some individuals who did not have a pulse...",
-        "pt": "[Ingrata A]\nEu já não tenho mais lembranças, minhas memórias foram desmembradas a nível molecular.\nQuando acordei, eu estava aqui.",
+        "pt": "[Ingrata A]\nA instância [Aos Pés do Rei] é uma casa de duelos que abrange várias dimensões.\nAcho que já joguei cartas com outras formas de vida lá dentro...",
         "es": "[IngrataA]\nEl virtuoso Talón del Rey es una casa de duelos que abarca todas las dimensiones.\nSi la memoria no me falla, me parece haber jugado a las cartas con algunos individuos que no tenían pulso…"
     },
     "MkKyCA": {
         "en": "[Ingrata A]\nNothing is left aside from my memories, scattered into tiny, molecular pieces.\nWhen I came to my senses, I found myself here.",
-        "pt": "[Ingrata A]\nSerá que eu ainda continuo o mesmo ser do passado?\nNão lembro nem o código Ingrata, mas sei que tenho um desejo imenso por cartas...",
+        "pt": "[Ingrata A]\nEu já não tenho mais lembranças, minhas memórias foram desmembradas a nível molecular.\nQuando acordei, eu estava aqui.",
         "es": "[IngrataA]\nSolo quedan mis recuerdos, esparcidos en trozos diminutos y moleculares.\nCuando recobré el sentido, aparecí aquí."
     },
     "M0KyCA": {
         "en": "[Ingrata A]\nOnce my body reassembled itself, was I reconstructed into the same person I was before?\nI cannot even recall my own name, though the Ingrata Code remains. Thus, my voracious desire for cards remains unchanged...",
-        "pt": "[Ingrata A]\nSe entrar lá, lembre-se de coletar todas as cartas douradas...\n...",
+        "pt": "[Ingrata A]\nSerá que eu ainda continuo o mesmo ser do passado?\nNão lembro nem o código Ingrata, mas sei que tenho um desejo imenso por cartas...",
         "es": "[IngrataA]\nUna vez que mi cuerpo se recompuso, ¿volví a ser la misma persona que era antes?\nNi siquiera puedo recordar mi propio nombre, aunque el Código Ingrata permanece. Por lo tanto, mi voraz deseo por las cartas permanece inalterado…"
     },
     "NEKyCA": {
         "en": "[Ingrata A]\nIf you ever want to return to that place, you must first get make space in your inventory and collect high-level cards...\n...",
-        "pt": "[Ingrata A]\nÉ uma longa história.\nE eu só queria reclamar.",
+        "pt": "[Ingrata A]\nSe entrar lá, lembre-se de coletar todas as cartas douradas...\n...",
         "es": "[IngrataA]\nSi alguna vez quieres regresar a ese lugar, primero debes hacer espacio en tu inventario y recolectar cartas de alto nivel…\n…"
     },
     "NUKyCA": {
         "en": "[Ingrata A]\nI talk too much.\nI just wanted to gripe.",
-        "pt": "[Ingrata A]\nDeseja comprar a <ITEM>[Autopeça - Carburador]<INFO>15111</INFO></ITEM> por 3.999.999 zeny?",
+        "pt": "[Ingrata A]\nÉ uma longa história.\nE eu só queria reclamar.",
         "es": "[IngrataA]\nHablo demasiado.\nSolo quería quejarme."
     },
     "NkKyCA": {
         "en": "[Ingrata A]\nUpgrade Part - Gloves!\nCategory: Armor. Indestructible, too!\nDamage taken from Small, Medium Monsters -10%.\nAt 7 refinements, damage from Large Monsters -10%.\nAt 9 refinements, reduces damage taken from Small, Medium Monsters by 5%.",
-        "pt": "Vou pensar melhor...",
+        "pt": "[Ingrata A]\nVocê selecionou <ITEM>[Autopeça - Carburador]<INFO>15111</INFO></ITEM>!",
         "es": "[IngrataA]\nPieza de mejora: ¡Guantes!\nCategoría: Armadura. Indestructible, también.\nDaño recibido de monstruos pequeños y medianos:-10%.\nA los 7refinamientos, daño recibido de monstruos grandes: -10%.\nCon 9refinamientos, reduce un 5% el daño recibido de monstruos pequeños y medianos."
     },
     "N0KyCA": {
         "en": "[Ingrata A]\nWeight: 300 \nRequired Level: 100\n^FF0000Mechanic only item!^000000\n^FF0000Price: 3,999,999 zeny^000000",
-        "pt": "Comprar",
-        "es": "[IngrataA]\nPeso: 300. \nNivel requerido: 100.\n^660000¡Objeto únicamente para Mecánicos!^000000\n^660000Precio: 3.999.999 zeny^000000"
+        "pt": "[Ingrata A]\n<ITEM>[Autopeça - Carburador]<INFO>15111</INFO></ITEM>. Esse item é voltado para Mecânicos especializados em M.E.C.H.A.",
+        "es": "[IngrataA]\nPeso: 300. \nNivel requerido: 100.\n^FF0000¡Objeto únicamente para Mecánicos!^000000\n^FF0000Precio: 3.999.999 zeny^000000"
     },
     "OEKyCA": {
         "en": "[Ingrata A]\nDo you really want to purchase ^FF0000Upgrade Part - Gloves^000000?",
-        "pt": "[Ingrata A]\nÉ um ótimo produto, mas pense bastante antes de adquirir.",
-        "es": "[IngrataA]\n¿Realmente quieres comprar la ^660000Pieza de mejora: Guantes^000000?"
+        "pt": "[Ingrata A]\nDeseja comprar por 3.999.999 zeny a <ITEM>[Autopeça - Carburador]<INFO>15111</INFO></ITEM>?",
+        "es": "[IngrataA]\n¿Realmente quieres comprar la ^FF0000Pieza de mejora: Guantes^000000?"
     },
     "OUKyCA": {
         "en": "Maybe later.",
-        "pt": "[Ingrata A]\nAqui está seu produto, obrigada...",
+        "pt": "Vou pensar melhor...",
         "es": "Quizá más tarde."
     },
     "OkKyCA": {
         "en": "Purchase.",
-        "pt": "[Ingrata A]\nVocê não tem zeny suficiente para comprar esse produto.",
+        "pt": "Comprar",
         "es": "Comprar."
     },
     "O0KyCA": {
         "en": "[Ingrata A]\nIt's definitely good merchandise, but be sure to give it the appropriate consideration.",
-        "pt": "[Ingrata A]\nDeseja comprar a <ITEM>[Peça de FOR Suplementar]<INFO>15110</INFO></ITEM> por 3.999.999 zeny?",
+        "pt": "[Ingrata A]\nÉ um ótimo produto, mas pense bastante antes de adquirir.",
         "es": "[IngrataA]\nSin duda es una buena mercancía, pero asegúrate de prestarle la debida atención."
     },
     "PEKyCA": {
         "en": "[Ingrata A]\nThank you. With this, those higher level cards...",
-        "pt": "[Ingrata A]\nPreste atenção na lista dos materiais necessários para atualizar o Bate-Estacas.",
+        "pt": "[Ingrata A]\nAqui está seu produto, obrigada...",
         "es": "[IngrataA]\nGracias. Con esto, esas cartas de nivel superior…"
     },
     "PUKyCA": {
         "en": "[Ingrata A]\nFormidable merchandise such as this begs a worthy price. Check your funds, please.",
-        "pt": "[Ingrata A]\nMateriais: \n1 <ITEM>[Bate-Estacas]<INFO>1549</INFO></ITEM>\n300 <ITEM>[Placa de Ferro Amassada]<INFO>6751</INFO></ITEM>\n15 <ITEM>[Motor Quebrado]<INFO>6750</INFO></ITEM>",
+        "pt": "[Ingrata A]\nVocê não tem zeny suficiente para comprar esse produto.",
         "es": "[IngrataA]\nUna mercancía formidable como esta exige un precio digno. Comprueba tus fondos, por favor."
     },
     "PkKyCA": {
         "en": "[Ingrata A]\nStrength Amplifying Armor!\nATK+ 5%!\nATK +1% for every 4 refinements.\nImprove your abilities even further by using it together with Vitality Amplifying Armor, Agility Amplifying Shoes and Dexterity Amplifying Gloves!",
-        "pt": "Bate-Estacas S",
+        "pt": "[Ingrata A]\nVocê escolheu <ITEM>[Peça de FOR Suplementar]<INFO>15110</INFO></ITEM>!",
         "es": "[IngrataA]\nArmadura amplificadora de fuerza.\n¡ATK+ 5%!\nATQ+1% por cada 4refinamientos.\nMejora aún más tus habilidades usándolo junto con la Armadura amplificadora de vitalidad, el Calzado amplificador de agilidad y los Guantes amplificadores de destreza."
     },
     "P0KyCA": {
         "en": "[Ingrata A]\nWeight: 200 \nRequired Level: 100\n^FF0000Mechanic only item!^000000\n^FF0000Price: 3,999,999 zeny^000000",
-        "pt": "Bate-Estacas P",
-        "es": "[IngrataA]\nPeso: 200. \nNivel requerido: 100.\n^660000¡Objeto únicamente para Mecánicos!^000000\n^660000Precio: 3.999.999 zeny^000000"
+        "pt": "[Ingrata A]\n<ITEM>[Peça de FOR Suplementar]<INFO>15110</INFO></ITEM>. Esse item é voltado para a construção de Mecânicos de Machado.",
+        "es": "[IngrataA]\nPeso: 200. \nNivel requerido: 100.\n^FF0000¡Objeto únicamente para Mecánicos!^000000\n^FF0000Precio: 3.999.999 zeny^000000"
     },
     "QEKyCA": {
         "en": "[Ingrata A]\nDo you really want to purchase ^FF0000Strength Amplifying Armor^000000?",
-        "pt": "Bate-Estacas T",
-        "es": "[IngrataA]\n¿Realmente quieres comprar la ^660000Armadura amplificadora de fuerza^000000?"
+        "pt": "[Ingrata A]\nDeseja comprar por 3.999.999 zeny a <ITEM>[Peça de FOR Suplementar]<INFO>15110</INFO></ITEM>?",
+        "es": "[IngrataA]\n¿Realmente quieres comprar la ^FF0000Armadura amplificadora de fuerza^000000?"
     },
     "QUKyCA": {
         "en": "[Ingrata A]\nI don't remember too well... but according to my remaining information, that's a recommended item.",
-        "pt": "[Ingrata A]\nDeseja adquirir o <ITEM>[Bate-Estacas S]<INFO>16030</INFO></ITEM>?",
+        "pt": "[Ingrata A]\nPreste atenção na lista dos materiais necessários para atualizar o Bate-Estacas.",
         "es": "[IngrataA]\nNo recuerdo muy bien… pero según la información que me queda, es un objeto recomendado."
     },
     "QkKyCA": {
         "en": "[Ingrata A]\nFor the Pile Bunker Upgrade, \nfirst you'll need ^FF00001 Pile Bunker,^000000\nthen ^FF0000300 Deformed Iron Plates^000000\nand ^FF000015 Faulty Engines^000000.",
-        "pt": "[Ingrata A]\nVocê não tem os materiais necessários!",
-        "es": "[IngrataA]\nPara la mejora de la Perforación de acero, \nprimero necesitarás ^6600001Perforación de acero,^000000\ndespués ^660000300Placas de hierro deformadas^000000\ny ^66000015Motores defectuosos^000000."
+        "pt": "[Ingrata A]\nMateriais: \n1 <ITEM>[Bate-Estacas]<INFO>1549</INFO></ITEM>\n300 <ITEM>[Placa de Ferro Amassada]<INFO>6751</INFO></ITEM>\n15 <ITEM>[Motor Quebrado]<INFO>6750</INFO></ITEM>",
+        "es": "[IngrataA]\nPara la mejora de la Perforación de acero, \nprimero necesitarás ^FF00001Perforación de acero,^000000\ndespués ^FF0000300Placas de hierro deformadas^000000\ny ^FF000015Motores defectuosos^000000."
     },
     "Q0KyCA": {
         "en": "Pile Bunker S",
-        "pt": "[Ingrata A]\nDeseja adquirir o <ITEM>[Bate-Estacas P]<INFO>16031</INFO></ITEM>?",
+        "pt": "Bate-Estacas S",
         "es": "Pila Bunker S"
     },
     "REKyCA": {
         "en": "Pile Bunker P",
-        "pt": "[Ingrata A]\nDeseja adquirir o <ITEM>[Bate-Estacas T]<INFO>16032</INFO></ITEM>?",
+        "pt": "Bate-Estacas P",
         "es": "Pila Bunker P"
     },
     "RUKyCA": {
         "en": "Pile Bunker T",
-        "pt": "Ingrata M",
+        "pt": "Bate-Estacas T",
         "es": "Pila Bunker T"
     },
     "RkKyCA": {
         "en": "[Ingrata A]\nPile Bunker S!!!\nCategory: Mace\nAttack: 400\nASPD increase for every 2 refinements.",
-        "pt": "[Ingrata M]\nNão sei o que estou fazendo aqui, mas sinto que preciso voltar para algum lugar.\nPara fazer isso, vou precisar de alguns Componentes de Charleston.\nIsso faz parte de algo maior e que preciso...",
+        "pt": "[Ingrata A]\nVocê selecionou o <ITEM>[Bate-Estacas S]<INFO>16030</INFO></ITEM>!",
         "es": "[IngrataA]\n¡Perforación de aceroS!\nCategoría: Mace\nAtaque: 400.\nAumento de VELA por cada 2refinamientos."
     },
     "R0KyCA": {
         "en": "[Ingrata A]\nWeight: 300\nWeapon Level: 4\nRequired Level: 130\nMechanic only! One card slot is also available!",
-        "pt": "[Ingrata M]\nSe me trouxer Componente de Charleston, posso trocar por alguns materiais.",
+        "pt": "[Ingrata A]\nPor favor, leia atentamente a descrição do <ITEM>[Bate-Estacas S]<INFO>16030</INFO></ITEM>.",
         "es": "[IngrataA]\nPeso: 300.\nNivel del arma: 4.\nNivel requerido: 130.\n¡Solo Mecánicos! También tiene una ranura para cartas."
     },
     "SEKyCA": {
         "en": "[Ingrata A]\nDo you really want to upgrade ^FF0000Pile Bunker S^000000?",
-        "pt": "Autopeças",
-        "es": "[IngrataA]\n¿Realmente quieres mejorar la ^660000Perforación de aceroS^000000?"
+        "pt": "[Ingrata A]\nDeseja adquirir o <ITEM>[Bate-Estacas S]<INFO>16030</INFO></ITEM>?",
+        "es": "[IngrataA]\n¿Realmente quieres mejorar la ^FF0000Perforación de aceroS^000000?"
     },
     "SUKyCA": {
         "en": "[Ingrata A]\nYou don't seem to have all the necessary materials for this upgrade.",
-        "pt": "Peças Suplementares",
+        "pt": "[Ingrata A]\nVocê não tem os materiais necessários!",
         "es": "[IngrataA]\nNo parece que tengas todos los materiales necesarios para esta mejora."
     },
     "SkKyCA": {
         "en": "[Ingrata A]\nPile Bunker P!!!\nCategory: Mace\nAttack: 450\nATK +5 for every refinement.",
-        "pt": "Combinadores",
+        "pt": "[Ingrata A]\nVocê selecionou o <ITEM>[Bate-Estacas P]<INFO>16031</INFO></ITEM>!",
         "es": "[IngrataA]\n¡Perforación de aceroP!\nCategoría: Mace\nAtaque: 450.\nATQ+5por cada refinamiento."
     },
     "S0KyCA": {
         "en": "[Ingrata A]\nWeight: 400\nWeapon Level: 4\nRequired Level: 130\nMechanic only!",
-        "pt": "[Ingrata M]\nTodos os produtos custam ^0000CD10 Componentes de Charleston^000000.",
+        "pt": "[Ingrata A]\nPor favor, leia atentamente a descrição do <ITEM>[Bate-Estacas P]<INFO>16031</INFO></ITEM>!",
         "es": "[IngrataA]\nPeso: 400.\nNivel del arma: 4.\nNivel requerido: 130.\n¡Sólo mecánico!"
     },
     "TEKyCA": {
         "en": "[Ingrata A]\nDo you really want to upgrade ^FF0000Pile Bunker P^000000?",
-        "pt": "[Ingrata M]\nTodos os produtos custam ^0000CD15 Componentes de Charleston^000000.",
-        "es": "[IngrataA]\n¿Realmente quieres mejorar la ^660000Perforación de aceroP^000000?"
+        "pt": "[Ingrata A]\nDeseja adquirir o <ITEM>[Bate-Estacas P]<INFO>16031</INFO></ITEM>?",
+        "es": "[IngrataA]\n¿Realmente quieres mejorar la ^FF0000Perforación de aceroP^000000?"
     },
     "TUKyCA": {
         "en": "[Ingrata A]\nPile Bunker T!!!\nCategory: Mace\nAttack: 400\nSP cost -1% per refinement.",
+        "pt": "[Ingrata A]\nVocê selecionou <ITEM>[Bate-Estacas T]<INFO>16032</INFO></ITEM>!",
         "es": "[IngrataA]\n¡Perforación de aceroT!\nCategoría: Mace\nAtaque: 400.\nCosto de PM -1%por refinamiento."
     },
     "TkKyCA": {
         "en": "[Ingrata A]\nWeight: 350\nWeapon Level: 4\nRequired Level: 130\nMechanic only! One card slot is also available!",
+        "pt": "[Ingrata A]\nPor favor, leia atentamente a descrição do <ITEM>[Bate-Estacas T]<INFO>16032</INFO></ITEM>!",
         "es": "[IngrataA]\nPeso: 350.\nNivel del arma: 4.\nNivel requerido: 130.\n¡Solo Mecánicos! También tiene una ranura para cartas."
     },
     "T0KyCA": {
         "en": "[Ingrata A]\nDo you really want to upgrade ^FF0000Pile Bunker T^000000?",
-        "es": "[IngrataA]\n¿Realmente quieres mejorar la ^660000Perforación de aceroT^000000?"
+        "pt": "[Ingrata A]\nDeseja adquirir o <ITEM>[Bate-Estacas T]<INFO>16032</INFO></ITEM>?",
+        "es": "[IngrataA]\n¿Realmente quieres mejorar la ^FF0000Perforación de aceroT^000000?"
     },
     "UEKyCA": {
         "en": "Ingrata M",
+        "pt": "Ingrata M",
         "es": "Ingrata M"
     },
     "UUKyCA": {
         "en": "[Ingrata M]\nThough I have no idea where or how to find them...",
+        "pt": "[Ingrata M]\nEmbora eu não faça ideia de como conseguir esses itens...",
         "es": "[IngrataM]\nAunque no tengo ni idea de dónde o cómo encontrarlos…"
     },
     "UkKyCA": {
         "en": "[Ingrata M]\nIf you bring me Charleston Components, I will give you something useful for them.",
+        "pt": "[Ingrata M]\nSe me trouxer Componente de Charleston, posso trocar por alguns materiais.",
         "es": "[IngrataM]\nSi me traes Componentes de Charleston, te daré algo útil por ellos."
     },
     "U0KyCA": {
         "en": "[Ingrata M]\nI'm not quite sure what I'm doing here, but it seems like I need to head back, wherever 'back' is.\nTo do this I'll need a lot of... parts.\nParts from the big thing I have long coveted...",
+        "pt": "[Ingrata M]\nNão sei o que estou fazendo aqui, mas sinto que preciso voltar para algum lugar.\nPara fazer isso, vou precisar de alguns Componentes de Charleston.\nIsso faz parte de algo maior e que preciso...",
         "es": "[IngrataM]\nNo sé muy bien qué hago aquí, pero parece que tengo que regresar, aunque no sé muy bien adónde.\nPara ello necesitaré muchas… piezas.\nPiezas de la gran cosa que he codiciado durante mucho tiempo…"
     },
     "VEKyCA": {
         "en": "[Ingrata M]\nThis... is a Charleston Component.\nI have some things worth exchanging. Are you interested?",
+        "pt": "[Ingrata M]\nVocê está com um... Componente de Charleston.\nTem interesse em trocá-los comigo?",
         "es": "[IngrataM]\nEsto… es un componente de Charleston.\nTengo algunas cosas que vale la pena intercambiar. ¿Te interesa?"
     },
     "VUKyCA": {
         "en": "Exchange Upgrade Part",
+        "pt": "Comprar Autopeças",
         "es": "Intercambiar Pieza de mejora."
     },
     "VkKyCA": {
         "en": "Exchange Amplifying Armor",
+        "pt": "Comprar Peças Suplementares",
         "es": "Intercambiar Armadura amplificadora."
     },
     "V0KyCA": {
         "en": "Charleston Upgrade Part (Melee)",
+        "pt": "Componente Corporal",
         "es": "Pieza de mejora Charleston (cuerpo a cuerpo)"
     },
     "WEKyCA": {
         "en": "Charleston Upgrade Part (Range)",
+        "pt": "Componente Certeiro",
         "es": "Pieza de mejora Charleston (Gama)"
     },
     "WUKyCA": {
         "en": "Goodbye.",
+        "pt": "Adeus.",
         "es": "Adiós."
     },
     "WkKyCA": {
         "en": "[Ingrata M]\nThat item is sold out. Please come back when I have enough in stock.",
+        "pt": "[Ingrata M]\nEsse item está fora do estoque. Volte quando reestocarmos.",
         "es": "[IngrataM]\nEse objeto está agotado. Regresa cuando tenga suficientes en stock."
     },
     "W0KyCA": {
         "en": "[Ingrata M]\nI'll give you an Upgrade Part for ^0000FF10 Charleston Components^000000.\nWhich Upgrade Part would you like to have?",
-        "es": "[IngrataM]\nTe daré una Pieza de mejora por ^FF000010Componentes de Charleston^000000.\n¿Qué Pieza de mejora te gustaría tener?"
+        "pt": "[Ingrata M]\nTodas as Autopeças custam ^0000FF10 Componentes de Charleston^000000.\nQual equipamento você deseja?",
+        "es": "[IngrataM]\nTe daré una Pieza de mejora por ^0000FF10Componentes de Charleston^000000.\n¿Qué Pieza de mejora te gustaría tener?"
     },
     "XEKyCA": {
         "en": "Upgrade Part - Engine (Garment)",
+        "pt": "[Capa] Autopeça - Motor",
         "es": "Pieza de mejora: Motor (prenda)."
     },
     "XUKyCA": {
         "en": "Upgrade Part - Booster (Shoes)",
+        "pt": "[Calçado] Autopeça - Acelerador",
         "es": "Pieza de mejora: Potenciador (calzado)."
     },
     "XkKyCA": {
         "en": "Upgrade Part - Gun Barrel (Accessory)",
+        "pt": "[Acessório] Autopeça - Exaustor",
         "es": "Pieza de mejora: Cañón (accesorio)."
     },
     "X0KyCA": {
         "en": "[Ingrata M]\nI will see you next time.",
+        "pt": "[Ingrata M]\nVejo você na próxima.",
         "es": "[IngrataM]\nHasta la próxima."
     },
     "YEKyCA": {
         "en": "[Ingrata M]\nI took your 10 Charleston Components and gave you ^4D4DFFUpgrade Part - Engine^000000.",
+        "pt": "[Ingrata M]\nPeguei seus 10 Componentes Charleston e te dei ^4D4DFFAutopeça - Motor^000000.",
         "es": "[IngrataM]\nTomé tus 10Componentes de Charleston y te di tu ^4D4DFFPieza de mejora: Motor^000000."
     },
     "YUKyCA": {
         "en": "[Ingrata M]\nThat's strange. This item is out of stock.\nPlease check again.",
+        "pt": "[Ingrata M]\nQue estranho. Este item está fora de estoque.\nPor favor, verifique novamente.",
         "es": "[IngrataM]\nQué extraño. Este objeto está agotado.\nVuelve a verificar."
     },
     "YkKyCA": {
         "en": "[Ingrata M]\nI took your 10 Charleston Components and gave you ^4D4DFFUpgrade Part - Booster^000000.",
+        "pt": "[Ingrata M]\nPeguei seus 10 Componentes Charleston e te dei ^4D4DFFAutopeça - Acelerador^000000.",
         "es": "[IngrataM]\nTomé tus 10Componentes de Charleston y te di tu ^4D4DFFPieza de mejora: Potenciador^000000."
     },
     "Y0KyCA": {
         "en": "[Ingrata M]\nI took your 10 Charleston Components and gave you ^4D4DFFUpgrade Part - Gun Barrel^000000.",
+        "pt": "[Ingrata M]\nPeguei seus 10 Componentes Charleston e te dei ^4D4DFFAutopeça - Exaustor^000000.",
         "es": "[IngrataM]\nTomé tus 10Componentes de Charleston y te di tu ^4D4DFFPieza de mejora: Cañón^000000."
     },
     "ZEKyCA": {
         "en": "[Ingrata M]\nI exchanged Amplifying Armor for ^0000FF10 Charleston Components^000000.\nWhich Upgrade Part would you like to have?",
-        "es": "[IngrataM]\nIntercambié la Armadura amplificadora por ^FF000010Componentes de Charleston^000000.\n¿Qué Pieza de mejora te gustaría tener?"
+        "pt": "[Ingrata M]\nTodas as Peças Suplementares custam ^0000FF10 Componentes de Charleston^000000.\nQual equipamento você deseja?",
+        "es": "[IngrataM]\nIntercambié la Armadura amplificadora por ^0000FF10Componentes de Charleston^000000.\n¿Qué Pieza de mejora te gustaría tener?"
     },
     "ZUKyCA": {
         "en": "Goodbye",
+        "pt": "Adeus.",
         "es": "Adiós"
     },
     "ZkKyCA": {
         "en": "Vitality Amplifying Armor (Garment)",
+        "pt": "[Capa] Peça de VIT Suplementar",
         "es": "Armadura amplificadora de vitalidad (prenda)."
     },
     "Z0KyCA": {
         "en": "Agility Amplifying Shoes (Shoes)",
+        "pt": "[Calçado] Peça de AGI Suplementar",
         "es": "Calzado amplificador de agilidad (calzado)."
     },
     "aEKyCA": {
         "en": "Dexterity Amplifying Gloves (Accessory)",
+        "pt": "[Acessório] Peça de DES Suplementar",
         "es": "Guantes amplificadores de destreza (accesorio)."
     },
     "aUKyCA": {
         "en": "[Ingrata M]\nI took your 10 Charleston Components and gave you ^4D4DFFVitality Amplifying Armor^000000.",
+        "pt": "[Ingrata M]\nPeguei seus 10 Componentes Charleston e te dei ^4D4DFFPeça de VIT Suplementar^000000.",
         "es": "[IngrataM]\nTomé tus 10Componentes de Charleston y te di tu ^4D4DFFArmadura amplificadora de vitalidad^000000."
     },
     "akKyCA": {
         "en": "[Ingrata M]\nI took your 10 Charleston Components and gave you ^4D4DFFAgility Amplifying Shoes^000000.",
+        "pt": "[Ingrata M]\nPeguei seus 10 Componentes Charleston e te dei ^4D4DFFPeça de AGI Suplementar^000000.",
         "es": "[IngrataM]\nTomé tus 10Componentes de Charleston y te di tu ^4D4DFFCalzado amplificador de agilidad^000000."
     },
     "a0KyCA": {
         "en": "[Ingrata M]\nI took your 10 Charleston Components and gave you ^4D4DFFDexterity Amplifying Gloves^000000.",
+        "pt": "[Ingrata M]\nPeguei seus 10 Componentes Charleston e te dei ^4D4DFFPeça de DES Suplementar^000000.",
         "es": "[IngrataM]\nTomé tus 10Componentes de Charleston y te di tus ^4D4DFFGuantes amplificadores de destreza^000000."
     },
     "bEKyCA": {
         "en": "[Ingrata M]\nI will exchange <ITEM>Charleston Upgrade Part (Melee)<INFO>23706</INFO></ITEM> for ^0000FF15 Charleston Components^000000.\nIf you use this... you can upgrade several weapons.",
-        "es": "[IngrataM]\nIntercambiaré la <ITEM>Pieza de mejora de Charleston (cuerpo a cuerpo)<INFO>23706</INFO></ITEM> por ^FF000015Componentes de Charleston^000000.\nSi usas esto… puedes mejorar varias armas."
+        "pt": "[Ingrata M]\nMe dê ^0000FF15Componentes de Charleston^000000 para ter um <ITEM>[Componente Corporal]<INFO>23706</INFO></ITEM>.\nEsse combinador dá poderes corpo a corpo para suas armas.",
+        "es": "[IngrataM]\nIntercambiaré la <ITEM>Pieza de mejora de Charleston (cuerpo a cuerpo)<INFO>23706</INFO></ITEM> por ^0000FF15Componentes de Charleston^000000.\nSi usas esto… puedes mejorar varias armas."
     },
     "bUKyCA": {
         "en": "[Ingrata M]",
+        "pt": "[Ingrata M]",
         "es": "[IngrataM]"
     },
     "bkKyCA": {
         "en": "I exchanged 15 Charleston Components for ^0000FFCharleston Upgrade Part (Melee)^000000.\nIf you happen to find more parts, don't be a stranger.",
-        "es": "Intercambié 15componentes de Charleston por una ^FF0000Pieza de mejora de Charleston (cuerpo a cuerpo)^000000.\nSi encuentras más piezas, no desaparezcas."
+        "pt": "Troquei 15 Componentes de Charleston por 1 ^0000FFComponente Corporal^000000.\nObrigada.",
+        "es": "Intercambié 15componentes de Charleston por una ^0000FFPieza de mejora de Charleston (cuerpo a cuerpo)^000000.\nSi encuentras más piezas, no desaparezcas."
     },
     "b0KyCA": {
         "en": "[Ingrata M]\nPlease come back whenever you feel like it.",
+        "pt": "[IngrataM]\nVolte sempre.",
         "es": "[IngrataM]\nRegresa cuando quieras."
     },
     "cEKyCA": {
         "en": "[Ingrata M]\nI will exchange <ITEM>Charleston Upgrade Part (Range)<INFO>23707</INFO></ITEM> for ^0000FF15 Charleston Components^000000.\nIf you use this... you can upgrade several weapons.",
-        "es": "[IngrataM]\nIntercambiaré la <ITEM>Pieza de mejora de Charleston (alcance)<INFO>23707</INFO></ITEM> por ^FF000015Componentes de Charleston^000000.\nSi usas esto… puedes mejorar varias armas."
+        "pt": "[Ingrata M]\nMe dê ^0000FF15Componentes de Charleston^000000 para ter um <ITEM>[Componente Certeiro]<INFO>23707</INFO></ITEM>.\nEsse combinador dá poderes físicos à distância para suas armas.",
+        "es": "[IngrataM]\nIntercambiaré la <ITEM>Pieza de mejora de Charleston (alcance)<INFO>23707</INFO></ITEM> por ^0000FF15Componentes de Charleston^000000.\nSi usas esto… puedes mejorar varias armas."
     },
     "cUKyCA": {
         "en": "I exchanged 15 Charleston Components for ^0000FFCharleston Upgrade Part (Range)^000000.\nIf you happen to find more parts, don't be a stranger.",
-        "es": "Intercambié 15componentes de Charleston por una ^FF0000Pieza de mejora de Charleston (alcance)^000000.\nSi encuentras más piezas, no desaparezcas."
+        "pt": "Troquei 15 Componentes de Charleston por 1 ^0000FFComponente Certeiro^000000.\nObrigada.",
+        "es": "Intercambié 15componentes de Charleston por una ^0000FFPieza de mejora de Charleston (alcance)^000000.\nSi encuentras más piezas, no desaparezcas."
     },
     "ckKyCA": {
         "en": "[Ingrata M]\nThat's too bad.\nIf the memories you had before you were atomized are still intact, you should be able to remember what you wanted...",
+        "pt": "[Ingrata M]\nQue pena.\nVocê deveria conseguir se lembrar do que queria...",
         "es": "[IngrataM]\nQué pena.\nSi los recuerdos que tenías antes de la atomización siguen intactos, deberías poder recordar lo que querías…"
+    },
+    "c0KyCA": {
+        "en": "Party name: {0}\nParty leader: {1}\n^0000FF{2}^000000 - Reservation failure",
+        "pt": "Grupo: {0}\nLíder: {1}\n^0000FF{2} ^000000 - falha",
+        "es": "Nombre del grupo: {0}.\nLíder del grupo: {1}.\n^0000FF{2}^000000- Fallo en la reserva."
+    },
+    "dEKyCA": {
+        "en": "Party member {0} now entering {1} of party{2}.",
+        "pt": "{0}, do grupo {2}, entrou na instância Aos Pés do Rei.",
+        "es": "{0}, del grupo {2}, ingresó en {1}."
+    },
+    "dUKyCA": {
+        "en": "Upgrade Part - Gloves",
+        "pt": "Slotar Autopeça - Carburador",
+        "es": "Pieza de mejora: Guantes."
+    },
+    "dkKyCA": {
+        "en": "[Ingrata A]\nWeight: 300\nRequired Level: 100\n^FF0000Mechanic only item!^000000\n^FF0000Price: 3,999,999 zeny^000000",
+        "pt": "[Ingrata A]\n<ITEM>[Autopeça - Carburador]<INFO>15111</INFO></ITEM>. Esse item é voltado para Mecânicos especializados em M.E.C.H.A.",
+        "es": "[IngrataA]\nPeso: 300. \nNivel requerido: 100.\n^FF0000¡Objeto únicamente para Mecánicos!^000000\n^FF0000Precio: 3.999.999 zeny^000000"
+    },
+    "d0KyCA": {
+        "en": "[Ingrata A]\nWeight: 200\nRequired Level: 100\n^FF0000Mechanic only item!^000000\n^FF0000Price: 3,999,999 zeny^000000",
+        "pt": "[Ingrata A]\n<ITEM>[Peça de FOR Suplementar]<INFO>15110</INFO></ITEM>. Esse item é voltado para a construção de Mecânicos de Machado.",
+        "es": "[IngrataA]\nPeso: 200. \nNivel requerido: 100.\n^FF0000¡Objeto únicamente para Mecánicos!^000000\n^FF0000Precio: 3.999.999 zeny^000000"
+    },
+    "eEKyCA": {
+        "en": "[Ingrata A]\nFor the Pile Bunker Upgrade,\nfirst you'll need ^FF00001 Pile Bunker,^000000\nthen ^FF0000300 Deformed Iron Plates^000000\nand ^FF000015 Faulty Engines^000000.",
+        "pt": "[Ingrata A]\nMateriais: \n1 <ITEM>[Bate-Estacas]<INFO>1549</INFO></ITEM>\n300 <ITEM>[Placa de Ferro Amassada]<INFO>6751</INFO></ITEM>\n15 <ITEM>[Motor Quebrado]<INFO>6750</INFO></ITEM>",
+        "es": "[IngrataA]\nPara la mejora de la Perforación de acero, \nprimero necesitarás ^FF00001Perforación de acero,^000000\ndespués ^FF0000300Placas de hierro deformadas^000000\ny ^FF000015Motores defectuosos^000000."
     }
 }

@@ -4917,11 +4917,11 @@ achievement_tbl = {
 		title = "Avatar de amor y odio",
 		content = {
 			details = "Tu personaje es Principiante y alcanza el nivel de base 99.",
-			summary = "Alcanza el nivel de base 99 como Principiante."
+			summary = "Alcanzar el nivel base 99 como Principiante."
 		},
 		resource = {
 			{
-				text = "Alcanza el nivel de base 99 como Principiante."
+				text = "Alcanzar el nivel base 99 como Principiante."
 			}
 		},
 		reward = {buff = 10, item = 16483},
@@ -4935,11 +4935,11 @@ achievement_tbl = {
 		title = "¡Realmente me gustas!",
 		content = {
 			details = "Tu personaje obtuvo la primera clase y alcanza el nivel de base 99.",
-			summary = "Alcanza el nivel de base 99 como primera clase."
+			summary = "Alcanzar el nivel base 99 como primera clase."
 		},
 		resource = {
 			{
-				text = "Alcanza el nivel de base 99 como primera clase."
+				text = "Alcanzar el nivel base 99 como primera clase."
 			}
 		},
 		reward = {buff = 10, item = 101948},

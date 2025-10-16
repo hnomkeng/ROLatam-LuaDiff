@@ -1916,7 +1916,7 @@
     },
     "3124CA": {
         "en": "[Pimpernel]\nThat is correct, a pendant.\nIf you have a ^0000CDPendant of Harmony^000000 and a ^0000CDPendant of Chaos^000000, I will combine them and present you with a better item.",
-        "pt": "[Igu]\nAh, sim. Pingentes.\nO ^9370DBPingente da Harmonia^000000 e o ^9370DBPingente do Caos^000000 podem ser combinados em um único Pingente.",
+        "pt": "[Igu]\nAh, sim. Pingentes.\nO ^0000CDPingente da Harmonia^000000 e o ^0000CDPingente do Caos^000000 podem ser combinados em um único Pingente.",
         "es": "[Pimpinela]\nAsí es, un colgante.\nSi tienes un ^0000CDColgante de la armonía^000000 y un ^0000CDColgante del caos^000000, los puedo combinar y entregarte un mejor objeto a cambio."
     },
     "4F24CA": {
@@ -1951,7 +1951,7 @@
     },
     "5l24CA": {
         "en": "[Pimpernel]\nYou don't appear to be carrying the ^0000CDPendant of Harmony^000000 and ^0000CDPendant of Chaos^000000.",
-        "pt": "[Igu]\nO ^9370DBPingente da Harmonia^000000 e ^9370DBPingente do Caos^000000 não estão no seu inventário.",
+        "pt": "[Igu]\nO ^0000CDPingente da Harmonia^000000 e ^0000CDPingente do Caos^000000 não estão no seu inventário.",
         "es": "[Pimpinela]\nCreo que no traes contigo ambos objetos: el ^0000CDColgante de la armonía^000000 y el ^0000CDColgante del caos^000000."
     },
     "5124CA": {
@@ -1981,7 +1981,7 @@
     },
     "7F24CA": {
         "en": "Don't give.",
-        "pt": "Não dê.",
+        "pt": "Não dar.",
         "es": "No entregarlos."
     },
     "7V24CA": {
@@ -2040,9 +2040,9 @@
         "es": "Álbum de cartas antiguo"
     },
     "+F24CA": {
-        "en": "[Pimpernel]\nYeah! {} is a good one. Please take it.\nThank you. I will ask you later again.",
-        "pt": "[Igu]\nJá sei! Um {} seria ótimo.\nEspero que goste.",
-        "es": "[Pimpinela]\n¡Ya sé! ¿Qué te parece el objeto {}? Es todo tuyo.\nGracias. Espero que volvamos a intercambiar objetos."
+        "en": "[Pimpernel]\nYeah! {0} is a good one. Please take it.\nThank you. I will ask you later again.",
+        "pt": "[Igu]\nJá sei! Um {0} seria ótimo.\nEspero que goste.",
+        "es": "[Pimpinela]\n¡Ya sé! ¿Qué te parece el objeto {0}? Es todo tuyo.\nGracias. Espero que volvamos a intercambiar objetos."
     },
     "+V24CA": {
         "en": "[Pimpernel]\nYou are a little short of amount, 50, that I asked for.",
@@ -2051,7 +2051,7 @@
     },
     "+l24CA": {
         "en": "[Pimpernel]\nIt's difficult for me to come out often, so I would appreciate you if you come back when you have everything ready.",
-        "pt": "[Pimpernel]\nÉ difícil para mim sair com frequência, então eu agradeceria se você voltasse quando tivesse tudo pronto.",
+        "pt": "[Igu]\nÉ difícil para mim sair com frequência, então eu agradeceria se você voltasse quando tivesse tudo pronto.",
         "es": "[Pimpinela]\nMe es difícil salir de aquí, así que te agradecería que me los traigas acá cuando tengas todo listo."
     },
     "+124CA": {

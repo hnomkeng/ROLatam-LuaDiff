@@ -294,10 +294,10 @@
         "es": "{0}Canjear 500 por monedas de nivel bajo"
     },
     "0ZCgAQ": {
-        "ko": "{0}개를 하급코인으로 환전",
-        "en": "Exchange {0} into low level coin",
-        "pt": "Trocar {v[coin_s_db]+coin_name} por Moeda Classe baixa",
-        "es": "Canjear {0}por monedas de nivel bajo"
+        "ko": "{0}{1}개를 하급코인으로 환전",
+        "en": "Exchange {1} {0} into low level coin",
+        "pt": "Trocar {1}x {0} por Moeda Classe baixa",
+        "es": "{0}Canjear {1} por monedas de nivel bajo"
     },
     "0pCgAQ": {
         "ko": "^FF3333상급코인으로 환전 불가^000000",

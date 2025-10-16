@@ -1,936 +1,1154 @@
 {
     "AILeCA": {
+        "ko": "초보 수집가",
         "en": "Novice Collector",
         "pt": "Colecionadora",
-        "es": "Novice Collector"
+        "es": "Coleccionista novato"
     },
     "AYLeCA": {
+        "ko": "랜덤옵션 체크 기능 추가.",
+        "en": "Add random option check",
+        "pt": "NPC atualizado para verificar Bônus Aleatórios.",
+        "es": "Add random option check"
+    },
+    "AoLeCA": {
+        "ko": "보유한 물건의 종류가 너무 많은것 같다. 물건의 종류를 줄인뒤에 다시 진행해보자.",
         "en": "You have too many items in your inventory. Please come back after removing some items.",
         "pt": "Você tem pouco espaço no inventário. Alivie sua carga e tente novamente.",
         "es": "Tienes demasiados objetos en tu inventario. Vuelve después de quitar algunos objetos."
     },
-    "AoLeCA": {
+    "A4LeCA": {
+        "ko": "가진 물건이 너무 무거워 더이상의 진행이 힘들 것 같다. 무게를 줄인 후 다시 도전해보자.",
         "en": "Your inventory weight is too high! Please come back after removing some weight from it.",
         "pt": "Você está carregando muitos itens. Alivie sua carga e tente novamente.",
         "es": "¡Llevas demasiada carga! Vuelve después de aligerarlo un poco."
     },
-    "A4LeCA": {
+    "BILeCA": {
+        "ko": "[초보 수집가]\n세공용 원석을 가져오시면 당신의 액세서리에 멋진효능을 불어넣어 드리겠습니다!",
         "en": "[Novice Collector]\nIf you bring me a Crafted Stone, I can provide a nice effect to your accessories!",
         "pt": "[Colecionadora]\nTraga-me algumas Pedras Brutas e darei aos seus acessórios uma joia maravilhosa!",
         "es": "[Coleccionista novato]\nSi me traes una Piedra artesanal, ¡puedo proporcionarles un bonito efecto a tus accesorios!"
     },
-    "BILeCA": {
+    "BYLeCA": {
+        "ko": "원석으로 어떤걸 할 수 있죠?",
         "en": "What can I do with Crafted Stones?",
         "pt": "Pedras Brutas?",
         "es": "¿Qué puedo hacer con las Piedras artesanales?"
     },
-    "BYLeCA": {
+    "BoLeCA": {
+        "ko": "액세서리 인챈트",
         "en": "Accessory Enchant",
         "pt": "Encantar acessórios",
         "es": "Encantamiento de accesorio."
     },
-    "BoLeCA": {
+    "B4LeCA": {
+        "ko": "액세서리 인챈트 초기화",
         "en": "Accessory Enchant Reset",
         "pt": "Reiniciar encanto",
         "es": "Restablecer encantamiento de accesorio."
     },
-    "B4LeCA": {
+    "CILeCA": {
+        "ko": "[초보 수집가]\n저는 이곳 던전에서 생산되는 세공용 원석을 수집해서 비싸게 거래하는 중개상이예요. 아직 초보라 실력은 그럭저럭이지만 잘 부탁드려요.",
         "en": "[Novice Collector]\nI'm a collector who deals with Crafted Stones dropped in the Dungeon. I'm still a beginner, so I'm a bit clumsy.",
         "pt": "[Colecionadora]\nSão minerais encontrados no Túmulo do Monarca. Estou iniciando a carreira na avaliação de pedras preciosas, então minhas habilidades ainda estão em desenvolvimento.",
         "es": "[Coleccionista novato]\nSoy coleccionista y trabajo con las Piedras artesanales que dejan en la mazmorra. Aún soy principiante, así que soy un poco torpe."
     },
-    "CILeCA": {
+    "CYLeCA": {
+        "ko": "이전에도 들었습니다.",
         "en": "I've heard it before.",
         "pt": "Ok, até.",
         "es": "Escuché esto antes."
     },
-    "CYLeCA": {
+    "CoLeCA": {
+        "ko": "계속 해 주시죠.",
         "en": "Please keep going.",
         "pt": "Conte-me mais.",
         "es": "Por favor, continúa."
     },
-    "CoLeCA": {
+    "C4LeCA": {
+        "ko": "[초보 수집가]\n아 그랬던가요?",
         "en": "[Novice Collector]\nOh, really?",
         "pt": "[Colecionadora]\nAté!",
         "es": "[Coleccionista novato]\nAh, ¿de verdad?"
     },
-    "C4LeCA": {
+    "DILeCA": {
+        "ko": "[초보 수집가]\n조건없이 원석을 가져가는건 아니예요. 원석을 가져가는 대신 당신이 장착한 액세서리 슬롯 하나에 인챈트 효능을 불어넣어드리죠",
         "en": "[Novice Collector]\nIf you bring me the gemstones, I'll use them to enchant one of your accessory slots.",
         "pt": "[Colecionadora]\nQuando você me traz Pedras Brutas, nós vamos infundir uma joia de encantamento em 1 slot de acessório que você tem equipado.",
         "es": "[Coleccionista novato]\nSi me traes las gemas, las usaré para encantar una de las ranuras de tus accesorios."
     },
-    "DILeCA": {
+    "DYLeCA": {
+        "ko": "[초보 수집가]\n필요한 원석은 10개. 그리고 10만제니의 착수금이 필요해요. 인챈트 과정에선 실패가 없어요.",
         "en": "[Novice Collector]\nYou need to bring 10 gemstones and 100,000 Zeny. There's no risk of failure when enchanting either!",
         "pt": "[Colecionadora]\nO número de Pedras Brutas necessárias é 10. E é necessário um depósito de 100.000 Zeny. Não há falha no processo de encantamento.",
         "es": "[Coleccionista novato]\nTienes que traer 10gemas y 100000zeny. ¡Tampoco hay riesgo de fallar al realizar un encantamiento!"
     },
-    "DYLeCA": {
-        "en": "[Novice Collector]\nHowever, if you try to enchant an ^0000FFitem with random options, the random options will disappear,^000000 so please be careful.",
-        "pt": "[Colecionadora]\nSe você encantar um acessório com ^0000CDBônus Aleatórios, eles desaparecerão^000000, tenha isso em mente.",
-        "es": "[Coleccionista novato]\nSin embargo, si intentas encantar un ^FF0000objeto con opciones aleatorias, estas opciones desaparecerán,^000000 así que ten cuidado."
-    },
     "DoLeCA": {
+        "ko": "[초보 수집가]\n하지만 ^0000FF랜덤옵션이 붙은 액세서리를 인챈트 할 경우에 랜덤옵션 부분은 소멸^000000해버리니 그건 염두에 두셔야 할거예요.",
+        "en": "[Novice Collector]\nHowever, if you try to enchant an ^0000FFitem with random options, the random options will disappear,^000000 so please be careful.",
+        "pt": "[Colecionadora]\nSe você encantar um acessório com ^0000FFBônus Aleatórios, eles desaparecerão^000000, tenha isso em mente.",
+        "es": "[Coleccionista novato]\nSin embargo, si intentas encantar un ^0000FFobjeto con opciones aleatorias, estas opciones desaparecerán,^000000 así que ten cuidado."
+    },
+    "D4LeCA": {
+        "ko": "이미 붙여버린 카드는?",
         "en": "What about the cards?",
         "pt": "E as cartas?",
         "es": "¿Y las cartas?"
     },
-    "D4LeCA": {
+    "EILeCA": {
+        "ko": "[초보 수집가]\n장비에 이미 장착된 카드에 대해서는 걱정하지 않아도 될거예요. 인챈트시에 소멸하는 일은 없을테니까요.",
         "en": "[Novice Collector]\nYou don't have to worry about the cards already installed in your equipment. It won't disappear during the enchant.",
         "pt": "[Colecionadora]\nVocê não terá que se preocupar com cartas que já estão no acessório. Elas não vão sumir quando encantar.",
         "es": "[Coleccionista novato]\nNo tienes que preocuparte por las cartas instaladas en tu equipamiento. No desaparecerán durante el encantamiento."
     },
-    "EILeCA": {
+    "EYLeCA": {
+        "ko": "[초보 수집가]\n초기화도 가능하긴 하지만, 제가 그렇게 익숙한 작업이 아니라 성공률은 20% 정도라고 말씀드릴 수 있어요.",
         "en": "[Novice Collector]\nIt's possible to reset the enchants, but the success rate is about 20%. I'm still a beginner!",
         "pt": "[Colecionadora]\nReiniciar o encanto é possível, mas não é algo com o qual estou acostumada, então posso dizer que a taxa de sucesso é de cerca de 20%.",
         "es": "[Coleccionista novato]\nEs posible restablecer los encantamientos, pero el porcentaje de éxito es de un 20% aproximadamente. ¡Todavía soy principiante!"
     },
-    "EYLeCA": {
+    "EoLeCA": {
+        "ko": "[초보 수집가]\n실패시엔 초기화를 시도했던 액세서리는 소멸해버리고, ^0000FF성공하더라도 랜덤옵션이 붙었던 액세서리는 랜덤옵션이 증발^000000할거예요",
         "en": "[Novice Collector]\nIf I fail trying to reset it, the accessory will disappear. Even if we succeed, ^0000FFthe accessory with random options will lose its random options^000000.",
         "pt": "[Colecionadora]\nEm caso de falha, o acessório ^0000CDdesaparecerá^000000. E se for um sucesso, ^0000CDapenas o bônus aleatório será perdido^000000.",
-        "es": "[Coleccionista novato]\nSi fallo al intentar restablecerlo, el accesorio desaparecerá. Aunque lo logremos, ^FF0000el accesorio con opciones aleatorias perderá estas opciones^000000."
+        "es": "[Coleccionista novato]\nSi fallo al intentar restablecerlo, el accesorio desaparecerá. Aunque lo logremos, ^0000FFel accesorio con opciones aleatorias perderá estas opciones^000000."
     },
-    "EoLeCA": {
+    "E4LeCA": {
+        "ko": "[초보 수집가]\n이렇게 큰 패널티가 존재하지만, 당신이 가지고 있는 거의 대부분의 액세서리를 제가 다룰 수 있다는 점이 다른 세공사들과의 차이점이죠",
         "en": "[Novice Collector]\nI know it's a big penalty, but I can handle almost any accessory.",
         "pt": "[Colecionadora]\nA penalidade é grande, mas a diferença entre mim e outros encantadores é que posso lidar com a maioria dos acessórios disponíveis.",
         "es": "[Coleccionista novato]\nSé que es una gran penalización, pero puedo trabajar con casi cualquier accesorio."
     },
-    "E4LeCA": {
-        "en": "[Novice Collector]\nThere's nothing in the right accessory slot. Please equip something there and try again.",
-        "pt": "[Colecionadora]\nAh, mesmo assim, não posso colocar minhas mãos em acessórios que estão além do meu talento.",
-        "es": "[Coleccionista novato]\nNo hay nada en la ranura derecha de accesorios. Por favor, equipa algo allí e inténtalo de nuevo."
-    },
     "FILeCA": {
-        "en": "[Novice Collector]\n... What are you doing?",
-        "pt": "[Colecionadora]\nNão há acessório à direita. Tente novamente após equipar o acessório na direita.",
-        "es": "[Coleccionista novato]\n… ¿Qué estás haciendo?"
+        "ko": "[초보 수집가]\n아, 그렇다고 하더라도 제 능력 범위를 벗어난 장비들에 대해선 저도 손을 댈 수가 없어요. 그건 알아주셔야해요.",
+        "en": "[Novice Collector]\nAh, even so, I can't touch equipment that's beyond my ability. You have to understand that.",
+        "pt": "[Colecionadora]\nAh, mesmo assim, não posso colocar minhas mãos em acessórios que estão além do meu talento.",
+        "es": "[Coleccionista Novato]\nAh, aun así, no puedo tocar equipo que esté fuera de mi alcance. Tienes que entenderlo."
     },
     "FYLeCA": {
-        "en": "Accelerator",
-        "pt": "[Colecionadora]\n... O que você está fazendo?",
-        "es": "Acelerador"
+        "ko": "[초보 수집가]\n오른쪽 액세서리 슬롯에 아무것도 없군요.장비를 장착하신 후에 다시 시도해주세요.",
+        "en": "[Novice Collector]\nThere's nothing in the right accessory slot. Please equip something there and try again.",
+        "pt": "[Colecionadora]\nNão há acessório à direita. Tente novamente após equipar o acessório na direita.",
+        "es": "[Coleccionista novato]\nNo hay nada en la ranura derecha de accesorios. Por favor, equipa algo allí e inténtalo de nuevo."
     },
     "FoLeCA": {
-        "en": "Swordman Figure",
-        "pt": "Acelerador",
-        "es": "Figura de Espadachín"
+        "ko": "^FF0000랜덤옵션이 확인됩니다. 해당 장비는 작업 하실 수 없습니다.^000000",
+        "en": "^FF0000Random option confirmed. This equipment cannot be worked on.^000000",
+        "pt": "^FF0000Seu acessório possui bônus aleatórios. Não posso mexer nisso.^000000",
+        "es": "^FF0000Opción aleatoria confirmada. No se puede trabajar con este equipo.^000000"
     },
     "F4LeCA": {
-        "en": "Wedding Ring",
-        "pt": "Estatueta de Espadachim",
-        "es": "Anillo de matrimonio"
+        "ko": "[초보 수집가]\n... 지금 뭐하시는거죠?",
+        "en": "[Novice Collector]\n... What are you doing?",
+        "pt": "[Colecionadora]\n... O que você está fazendo?",
+        "es": "[Coleccionista novato]\n… ¿Qué estás haciendo?"
     },
     "GILeCA": {
-        "en": "High Quality Cooler",
-        "pt": "Aliança de Casamento",
-        "es": "Enfriador de alta calidad"
+        "ko": "가속장치",
+        "en": "Accelerator",
+        "pt": "Acelerador",
+        "es": "Acelerador"
     },
     "GYLeCA": {
-        "en": "Camouflage Generator",
-        "pt": "Resfriador Avançado",
-        "es": "Generador de camuflaje"
+        "ko": "검사 피규어",
+        "en": "Swordman Figure",
+        "pt": "Estatueta de Espadachim",
+        "es": "Figura de Espadachín"
     },
     "GoLeCA": {
-        "en": "Occult Incense",
-        "pt": "Gerador de Camuflagem",
-        "es": "Incienso místico"
+        "ko": "고급냉각장치",
+        "en": "High Quality Cooler",
+        "pt": "Resfriador Avançado",
+        "es": "Enfriador de alta calidad"
     },
     "G4LeCA": {
+        "ko": "광학 미채 발생기",
+        "en": "Camouflage Generator",
+        "pt": "Gerador de Camuflagem",
+        "es": "Generador de camuflaje"
+    },
+    "HILeCA": {
+        "ko": "구마향포",
+        "en": "Occult Incense",
+        "pt": "Incenso Oculto",
+        "es": "Incienso místico"
+    },
+    "HYLeCA": {
+        "ko": "궁수 피규어",
         "en": "Archer Figure",
         "pt": "Estatueta do Arqueiro",
         "es": "Figura de arquero"
     },
-    "HILeCA": {
+    "HoLeCA": {
+        "ko": "글러브",
         "en": "Glove",
         "pt": "Luvas",
         "es": "Guante"
     },
-    "HYLeCA": {
+    "H4LeCA": {
+        "ko": "글로리어스 링",
         "en": "Glorious Ring",
         "pt": "Anel Glorioso",
         "es": "Anillo glorioso"
     },
-    "HoLeCA": {
+    "IILeCA": {
+        "ko": "글로리어스 보급용 링",
         "en": "Glorious Popularized Ring",
         "pt": "Anel Glorioso Barato",
         "es": "Anillo glorioso popularizado"
     },
-    "H4LeCA": {
+    "IYLeCA": {
+        "ko": "글로리어스 양산형 링",
         "en": "Glorious Mass-Production Ring",
         "pt": "Anel Glorioso Industrializado",
         "es": "Anillo glorioso de producción en serie"
     },
-    "IILeCA": {
+    "IoLeCA": {
+        "ko": "금반지",
         "en": "Gold Ring",
         "pt": "Anel de Ouro",
         "es": "Anillo de oro"
     },
-    "IYLeCA": {
+    "I4LeCA": {
+        "ko": "꽃반지",
         "en": "Flower Ring",
         "pt": "Anel de Flor",
         "es": "Anillo de flores"
     },
-    "IoLeCA": {
+    "JILeCA": {
+        "ko": "나일로즈",
         "en": "Nile Rose",
         "pt": "Rosa do Nilo",
         "es": "Rosa del Nilo"
     },
-    "I4LeCA": {
+    "JYLeCA": {
+        "ko": "냉각장치",
         "en": "Cooling Device",
         "pt": "Resfriador Simples",
         "es": "Dispositivo de refrigeración"
     },
-    "JILeCA": {
+    "JoLeCA": {
+        "ko": "냉정한 마음",
         "en": "Cold Heart",
         "pt": "Coração Frio",
         "es": "Corazón frío"
     },
-    "JYLeCA": {
+    "J4LeCA": {
+        "ko": "네클리스",
         "en": "Necklace",
         "pt": "Colar",
         "es": "Collar"
     },
-    "JoLeCA": {
+    "KILeCA": {
+        "ko": "노비스 암릿",
         "en": "Novice Armlet",
         "pt": "Bracelete de Aprendiz",
         "es": "Brazalete de principiante"
     },
-    "J4LeCA": {
+    "KYLeCA": {
+        "ko": "눈구슬 반지",
         "en": "Eyes Stone Ring",
         "pt": "Anel da Pedra do Olho",
         "es": "Anillo con ojo de piedra"
     },
-    "KILeCA": {
+    "KoLeCA": {
+        "ko": "다이아반지",
         "en": "Diamond Ring",
         "pt": "Anel de Diamante",
         "es": "Anillo de diamantes"
     },
-    "KYLeCA": {
+    "K4LeCA": {
+        "ko": "다크나이트 글로브 A",
         "en": "Dark Knight Glove A",
-        "pt": "Anel do Luar",
+        "pt": "Luva de Cavaleiro Sombrio A",
         "es": "Guante de caballero oscuroA"
     },
-    "KoLeCA": {
+    "LILeCA": {
+        "ko": "다크나이트 글로브 B",
         "en": "Dark Knight Glove B",
-        "pt": "Estatueta de Gatuno",
+        "pt": "Luva de Cavaleiro Sombrio B",
         "es": "Guante de caballero oscuroB"
     },
-    "K4LeCA": {
+    "LYLeCA": {
+        "ko": "다크나이트 벨트 A",
         "en": "Dark Knight Belt A",
-        "pt": "Anel dos Gatunos",
+        "pt": "Cinto de Cavaleiro Sombrio A",
         "es": "Cinturón de caballero oscuroA"
     },
-    "LILeCA": {
+    "LoLeCA": {
+        "ko": "다크나이트 벨트 B",
         "en": "Dark Knight Belt B",
-        "pt": "Olho de Dullahan",
+        "pt": "Cinto de Cavaleiro Sombrio B",
         "es": "Cinturón de caballero oscuroB"
     },
-    "LYLeCA": {
+    "L4LeCA": {
+        "ko": "달빛의 반지",
         "en": "Moonlight Ring",
-        "pt": "Chifres de Bisão",
+        "pt": "Anel do Luar",
         "es": "Anillo de luz de luna"
     },
-    "LoLeCA": {
+    "MILeCA": {
+        "ko": "도둑 피규어",
         "en": "Thief Figure",
-        "pt": "Anel de Diabolus",
+        "pt": "Estatueta de Gatuno",
         "es": "Figura de ladrón"
     },
-    "L4LeCA": {
+    "MYLeCA": {
+        "ko": "도적의 반지",
         "en": "Rogue's Treasure",
-        "pt": "Rosário",
+        "pt": "Anel dos Gatunos",
         "es": "Tesoro del pícaro"
     },
-    "MILeCA": {
+    "MoLeCA": {
+        "ko": "듀라한 아이",
         "en": "Eye of Dullahan",
-        "pt": "Broche Lunático",
+        "pt": "Olho de Dullahan",
         "es": "Ojo de Dullahan"
     },
-    "MYLeCA": {
+    "M4LeCA": {
+        "ko": "들소의 뿔",
         "en": "Bison Horn",
-        "pt": "Pedra Encantada de Morroc",
+        "pt": "Chifres de Bisão",
         "es": "Cuerno de bisonte"
     },
-    "MoLeCA": {
+    "NILeCA": {
+        "ko": "디아볼루스 링",
         "en": "Diabolus Ring",
-        "pt": "Luva de Linho",
+        "pt": "Anel de Diabolus",
         "es": "Anillo demoníaco"
     },
-    "M4LeCA": {
+    "NYLeCA": {
+        "ko": "로자리",
         "en": "Rosary",
-        "pt": "Kit de Reparação",
+        "pt": "Rosário",
         "es": "Rosario"
     },
-    "NILeCA": {
+    "NoLeCA": {
+        "ko": "루나틱 브로치",
         "en": "Lunatic Brooch",
-        "pt": "Anel",
+        "pt": "Broche Lunático",
         "es": "Broche del lunático"
     },
-    "NYLeCA": {
+    "N4LeCA": {
+        "ko": "룬문자 주문석",
         "en": "Rune Spellstone",
-        "pt": "Anel de Runa Mágica",
+        "pt": "Pedra Encantada de Morroc",
         "es": "Piedra de hechizo rúnica"
     },
-    "NoLeCA": {
+    "OILeCA": {
+        "ko": "리넨 글러브",
         "en": "Linen Glove",
-        "pt": "Estatueta de Mago",
+        "pt": "Luva de Linho",
         "es": "Guante de lino"
     },
-    "N4LeCA": {
+    "OYLeCA": {
+        "ko": "리페어 키트",
         "en": "Repair Kit",
-        "pt": "Coleira de Matyr",
+        "pt": "Kit de Reparação",
         "es": "Kit de reparación"
     },
-    "OILeCA": {
+    "OoLeCA": {
+        "ko": "링",
         "en": "Ring",
-        "pt": "Xale do Arqueiro",
+        "pt": "Anel",
         "es": "Anillo"
     },
-    "OYLeCA": {
+    "O4LeCA": {
+        "ko": "마력석 반지",
         "en": "Magic Stone Ring",
-        "pt": "Luva do Arqueiro",
+        "pt": "Anel de Runa Mágica",
         "es": "Anillo de piedra mágica"
     },
-    "OoLeCA": {
+    "PILeCA": {
+        "ko": "마법사 피규어",
         "en": "Mage Figure",
-        "pt": "Manopla Certeira",
+        "pt": "Estatueta de Mago",
         "es": "Figura de mago"
     },
-    "O4LeCA": {
+    "PYLeCA": {
+        "ko": "마타의 목걸이",
         "en": "Matyr's Leash",
-        "pt": "Anel de Morpheus",
+        "pt": "Coleira de Matyr",
         "es": "Correa del mártir"
     },
-    "PILeCA": {
+    "PoLeCA": {
+        "ko": "명궁의 스카프",
         "en": "Bowman Scarf",
-        "pt": "Bracelete de Morpheus",
+        "pt": "Xale do Arqueiro",
         "es": "Bufanda de arquero"
     },
-    "PYLeCA": {
+    "P4LeCA": {
+        "ko": "명사수의장갑",
         "en": "Renown Archer's Glove",
-        "pt": "Cinto de Morrigane",
+        "pt": "Luva do Arqueiro",
         "es": "Guante de arquero de renombre"
     },
-    "PoLeCA": {
+    "QILeCA": {
+        "ko": "명중의 건틀릿",
         "en": "Gauntlet of Hit",
-        "pt": "Pingente de Morrigane",
+        "pt": "Manopla Certeira",
         "es": "Guantelete de golpe"
     },
-    "P4LeCA": {
+    "QYLeCA": {
+        "ko": "모르피셔스의 반지",
         "en": "Morpheus's Ring",
-        "pt": "Medalha de Honra",
+        "pt": "Anel de Morpheus",
         "es": "Anillo de Morfeo"
     },
-    "QILeCA": {
+    "QoLeCA": {
+        "ko": "모르피셔스의 팔찌",
         "en": "Morpheus's Bracelet",
-        "pt": "Broche da Gota d'Água",
+        "pt": "Bracelete de Morpheus",
         "es": "Brazalete de Morfeo"
     },
-    "QYLeCA": {
+    "Q4LeCA": {
+        "ko": "모리아네의 벨트",
         "en": "Morrigane's Belt",
-        "pt": "Tornozeleira da Marinha",
+        "pt": "Cinto de Morrigane",
         "es": "Cinturón de Morrigane"
     },
-    "QoLeCA": {
+    "RILeCA": {
+        "ko": "모리아네의 팬던트",
         "en": "Morrigane's Pendant",
-        "pt": "Piercing da Marinha",
+        "pt": "Pingente de Morrigane",
         "es": "Colgante de Morrigane"
     },
-    "Q4LeCA": {
+    "RYLeCA": {
+        "ko": "무공훈장",
         "en": "Medal of Honor",
-        "pt": "Estola",
+        "pt": "Medalha de Honra",
         "es": "Medalla de honor"
     },
-    "RILeCA": {
+    "RoLeCA": {
+        "ko": "물방울 브로치",
         "en": "Waterdrop Brooch",
-        "pt": "Cinto",
+        "pt": "Broche da Gota d'Água",
         "es": "Broche con gota de agua"
     },
-    "RYLeCA": {
+    "R4LeCA": {
+        "ko": "발찌",
         "en": "Foot Ring",
-        "pt": "Estatueta de Noviço",
+        "pt": "Tornozeleira da Marinha",
         "es": "Anillo de pie"
     },
-    "RoLeCA": {
+    "SILeCA": {
+        "ko": "배꼽찌",
         "en": "Navel Ring",
-        "pt": "Brasão de Seda Vermelha",
+        "pt": "Piercing da Marinha",
         "es": "Anillo de ombligo"
     },
-    "R4LeCA": {
+    "SYLeCA": {
+        "ko": "벨카프",
         "en": "Belcarf",
-        "pt": "Anel de Bradium",
+        "pt": "Estola",
         "es": "Bufanda cinturón"
     },
-    "SILeCA": {
+    "SoLeCA": {
+        "ko": "벨트",
         "en": "Belt",
-        "pt": "Broche de Bradium",
+        "pt": "Cinto",
         "es": "Cinturón"
     },
-    "SYLeCA": {
+    "S4LeCA": {
+        "ko": "복사 피규어",
         "en": "Acolyte Figure",
-        "pt": "Brincos de Bradium",
+        "pt": "Estatueta de Noviço",
         "es": "Figura de acólito"
     },
-    "SoLeCA": {
+    "TILeCA": {
+        "ko": "봉인의 붉은비단",
         "en": "Red Silk Seal",
-        "pt": "Broche",
+        "pt": "Brasão de Seda Vermelha",
         "es": "Sello de seda rojo"
     },
-    "S4LeCA": {
+    "TYLeCA": {
+        "ko": "브라디움 링",
         "en": "Bradium Ring",
-        "pt": "Gato Preto",
+        "pt": "Anel de Bradium",
         "es": "Anillo de bradium"
     },
-    "TILeCA": {
+    "ToLeCA": {
+        "ko": "브라디움 브로치",
         "en": "Bradium Brooch",
-        "pt": "Luva de Bibliotecário",
+        "pt": "Broche de Bradium",
         "es": "Broche de bradium"
     },
-    "TYLeCA": {
+    "T4LeCA": {
+        "ko": "브라디움 이어링",
         "en": "Bradium Earring",
-        "pt": "Estatueta de Mercador",
+        "pt": "Brincos de Bradium",
         "es": "Pendiente de bradium"
     },
-    "ToLeCA": {
+    "UILeCA": {
+        "ko": "브로치",
         "en": "Brooch",
-        "pt": "Anel de Defesa",
+        "pt": "Broche",
         "es": "Broche"
     },
-    "T4LeCA": {
+    "UYLeCA": {
+        "ko": "블랙캣",
         "en": "Black Cat",
-        "pt": "Reconfiguradora",
+        "pt": "Gato Preto",
         "es": "Gato negro"
     },
-    "UILeCA": {
+    "UoLeCA": {
+        "ko": "사서의 장갑",
         "en": "Librarian Glove",
-        "pt": "Anel de Corrida",
+        "pt": "Luva de Bibliotecário",
         "es": "Guante de bibliotecario"
     },
-    "UYLeCA": {
+    "U4LeCA": {
+        "ko": "상인 피규어",
         "en": "Merchant Figure",
-        "pt": "Cinto de Shinobi",
+        "pt": "Estatueta de Mercador",
         "es": "Figura de comerciante"
     },
-    "UoLeCA": {
+    "VILeCA": {
+        "ko": "샤먼 링",
         "en": "Shaman Ring",
-        "pt": "Luva Sacra",
+        "pt": "Anel de Xamã",
         "es": "Anillo de chamán"
     },
-    "U4LeCA": {
+    "VYLeCA": {
+        "ko": "샤먼 이어링",
         "en": "Shaman_Earings",
-        "pt": "Pulso de Ferro",
+        "pt": "Brincos de Xamã",
         "es": "Shaman_Earings"
     },
-    "VILeCA": {
+    "VoLeCA": {
+        "ko": "세이프티 링",
         "en": "Safety Ring",
-        "pt": "Anel Angelical",
+        "pt": "Anel de Defesa",
         "es": "Anillo de seguridad"
     },
-    "VYLeCA": {
+    "V4LeCA": {
+        "ko": "세크리파이스링",
         "en": "Sacrifice Ring",
-        "pt": "Passe do Laboratório",
+        "pt": "Anel do Sacifício",
         "es": "Anillo del sacrificio"
     },
-    "VoLeCA": {
+    "WILeCA": {
+        "ko": "셰이프 쉬프터",
         "en": "Shape Shifter",
-        "pt": "Luvas do Alquimista",
+        "pt": "Reconfiguradora",
         "es": "Cambiaformas"
     },
-    "V4LeCA": {
+    "WYLeCA": {
+        "ko": "스프린트 반지",
         "en": "Sprint Ring",
-        "pt": "Caixinha Noite Feliz",
+        "pt": "Anel de Corrida",
         "es": "Anillo de velocidad"
     },
-    "WILeCA": {
+    "WoLeCA": {
+        "ko": "시노비의 허리띠",
         "en": "Shinobi Sash",
-        "pt": "Luvas de Orleans",
+        "pt": "Cinto de Shinobi",
         "es": "Faja de Shinobi"
     },
-    "WYLeCA": {
+    "W4LeCA": {
+        "ko": "신관의 장갑",
         "en": "Celebrant's Mitten",
-        "pt": "Colar de Orleans",
+        "pt": "Luva Sacra",
         "es": "Manopla del celebrante"
     },
-    "WoLeCA": {
+    "XILeCA": {
+        "ko": "신기한 팬던트",
         "en": "Marvelous Pandent",
-        "pt": "Anel de Prata",
+        "pt": "Pingente Maravilhoso",
         "es": "Colgante maravilloso"
     },
-    "W4LeCA": {
+    "XYLeCA": {
+        "ko": "아우둠라의 혜택",
         "en": "Aumdura's Grace",
-        "pt": "Brinco",
+        "pt": "Graça de Aumdura",
         "es": "Gracia de Aumdura"
     },
-    "XILeCA": {
+    "XoLeCA": {
+        "ko": "아이언 리스트",
         "en": "Iron Wrist",
-        "pt": "Asas de Ícaro",
+        "pt": "Pulso de Ferro",
         "es": "Muñeca de hierro"
     },
-    "XYLeCA": {
+    "X4LeCA": {
+        "ko": "애장판북",
         "en": "Ragnarok Limited Edition",
-        "pt": "Anel do Especialista",
+        "pt": "Ragnarök Edição Limitada",
         "es": "Ragnarok Edición Limitada"
     },
-    "XoLeCA": {
+    "YILeCA": {
+        "ko": "앤젤릭 링",
         "en": "Angelic_Ring",
-        "pt": "Gerador de Magnetismo",
+        "pt": "Anel Angelical",
         "es": "Angelic_Ring"
     },
-    "X4LeCA": {
+    "YYLeCA": {
+        "ko": "엘 디카스테스의 빛",
         "en": "Light of El Dicastes",
-        "pt": "Detonador",
+        "pt": "Luz de El Dicastes",
         "es": "Luz de El Dicastes"
     },
-    "YILeCA": {
+    "YoLeCA": {
+        "ko": "연구소 출입카드",
         "en": "Laboratory Permit",
-        "pt": "Mão Maldita",
+        "pt": "Passe do Laboratório",
         "es": "Permiso de laboratorio"
     },
-    "YYLeCA": {
+    "Y4LeCA": {
+        "ko": "연금술의 글러브",
         "en": "Alchemy Glove",
-        "pt": "Broche Amaldiçoado da Deusa Fortuna",
+        "pt": "Luvas do Alquimista",
         "es": "Guante de alquimia"
     },
-    "YoLeCA": {
+    "ZILeCA": {
+        "ko": "오 홀리 나이트",
         "en": "Christmas Musicbox",
-        "pt": "Anel de Morroc",
+        "pt": "Caixinha Noite Feliz",
         "es": "Caja de música navideña"
     },
-    "Y4LeCA": {
+    "ZYLeCA": {
+        "ko": "오를레앙의 장갑",
         "en": "Orleans's Glove",
-        "pt": "Anel de Kafra",
+        "pt": "Luvas de Orleans",
         "es": "Guante de Orleans"
     },
-    "ZILeCA": {
+    "ZoLeCA": {
+        "ko": "오를레앙의 목걸이",
         "en": "Orleans Necklace",
-        "pt": "Estrela Maldita",
+        "pt": "Colar de Orleans",
         "es": "Collar de Orleans"
     },
-    "ZYLeCA": {
+    "Z4LeCA": {
+        "ko": "은반지",
         "en": "Silver Ring",
-        "pt": "Selo da Guarda Continental",
+        "pt": "Anel de Prata",
         "es": "Anillo de plata"
     },
-    "ZoLeCA": {
+    "aILeCA": {
+        "ko": "이어링",
         "en": "Earring",
-        "pt": "Anel de Ouro de Natal",
+        "pt": "Brinco",
         "es": "Pendiente"
     },
-    "Z4LeCA": {
+    "aYLeCA": {
+        "ko": "이카루스의 날개",
         "en": "Icarus Wings",
-        "pt": "Anel de Prata de Natal",
+        "pt": "Asas de Ícaro",
         "es": "Alas de Ícaro"
     },
-    "aILeCA": {
+    "aoLeCA": {
+        "ko": "익스퍼트 링",
         "en": "Expert Ring",
-        "pt": "Anel Certeiro",
+        "pt": "Anel do Especialista",
         "es": "Anillo de experto"
     },
-    "aYLeCA": {
+    "a4LeCA": {
+        "ko": "자기장 필드 생성기",
         "en": "Magnetic Field Generator",
-        "pt": "Presilha",
+        "pt": "Gerador de Magnetismo",
         "es": "Generador de campo magnético"
     },
-    "aoLeCA": {
+    "bILeCA": {
+        "ko": "자폭장치",
         "en": "Suicidal Device",
-        "pt": "Anel da Telecinese",
+        "pt": "Detonador",
         "es": "Dispositivo suicida"
     },
-    "a4LeCA": {
+    "bYLeCA": {
+        "ko": "저주받은 손",
         "en": "Cursed Hand",
-        "pt": "Anel do Exorcismo",
+        "pt": "Mão Maldita",
         "es": "Mano maldita"
     },
-    "bILeCA": {
+    "boLeCA": {
+        "ko": "저주받은 행운의 여신 브로치",
         "en": "Goddess of Fortune's Cursed Brooch",
-        "pt": "Resfriador Especial",
+        "pt": "Broche Maldito",
         "es": "Broche maldito de la Diosa de la Fortuna"
     },
-    "bYLeCA": {
+    "b4LeCA": {
+        "ko": "죽음의 고리",
         "en": "Death Loop",
-        "pt": "Bolsa de Mercador",
+        "pt": "Anel de Morroc",
         "es": "Broche de la muerte"
     },
-    "boLeCA": {
+    "cILeCA": {
+        "ko": "카프라반지",
         "en": "Kafra Ring",
-        "pt": "Anel de Maçã Verde",
+        "pt": "Anel de Kafra",
         "es": "Anillo de Kafra"
     },
-    "b4LeCA": {
+    "cYLeCA": {
+        "ko": "커즈드 스타",
         "en": "Cursed Star",
-        "pt": "Bola de Ferro Ensanguentada",
+        "pt": "Estrela Maldita",
         "es": "Estrella maldita"
     },
-    "cILeCA": {
+    "coLeCA": {
+        "ko": "컨티넨탈 가드의 인장",
         "en": "Seal of Continental Guard",
-        "pt": "Broche de Pinguicula",
+        "pt": "Selo da Guarda Continental",
         "es": "Sello de la Guardia Continental"
     },
-    "cYLeCA": {
+    "c4LeCA": {
+        "ko": "크리스마스 금반지",
         "en": "Gold Christmas Ring",
-        "pt": "Anel Elemental Menor",
+        "pt": "Anel de Ouro de Natal",
         "es": "Anillo de Navidad de oro"
     },
-    "coLeCA": {
+    "dILeCA": {
+        "ko": "크리스마스 은반지",
         "en": "Silver Christmas Ring",
-        "pt": "Talismã da Armadura",
+        "pt": "Anel de Prata de Natal",
         "es": "Anillo de Navidad de plata"
     },
-    "c4LeCA": {
+    "dYLeCA": {
+        "ko": "크리티컬 링",
         "en": "Critical Ring",
-        "pt": "Anel de Caveira",
+        "pt": "Anel Certeiro",
         "es": "Anillo crítico"
     },
-    "dILeCA": {
+    "doLeCA": {
+        "ko": "클립",
         "en": "Clip",
-        "pt": "Planador",
+        "pt": "Presilha",
         "es": "Clip"
     },
-    "dYLeCA": {
+    "d4LeCA": {
+        "ko": "텔레키네틱 오브",
         "en": "Telekinetic Orb",
-        "pt": "Luva de Puxada",
+        "pt": "Anel da Telecinese",
         "es": "Orbe telequinético"
     },
-    "doLeCA": {
+    "eILeCA": {
+        "ko": "퇴마의 반지",
         "en": "Exorcising Ring",
-        "pt": "Lanterna da Fé",
+        "pt": "Anel do Exorcismo",
         "es": "Anillo de exorcismo"
     },
-    "d4LeCA": {
+    "eYLeCA": {
+        "ko": "특수냉각장치",
         "en": "Special Cooler",
-        "pt": "[Colecionadora]\nNão sei trabalhar com esse equipamento. Se eu exagerar, ele falhará 100% e desaparecerá.",
+        "pt": "Resfriador Especial",
         "es": "Enfriador especial"
     },
-    "eILeCA": {
+    "eoLeCA": {
+        "ko": "패션힙색",
         "en": "Fashion Hip Sack",
-        "pt": "[Colecionadora]\nEste acessório já foi reforçado. Se quiser, você pode resetar o encantamento.",
+        "pt": "Bolsa de Mercador",
         "es": "Bolsa de cintura de moda"
     },
-    "eYLeCA": {
+    "e4LeCA": {
+        "ko": "풋사과 반지",
         "en": "Green Apple Ring",
-        "pt": "[Colecionadora]\nEste acessório já foi fortalecido. Se quiser, você pode resetar o encantamento.",
+        "pt": "Anel de Maçã Verde",
         "es": "Anillo de manzana verde"
     },
-    "eoLeCA": {
+    "fILeCA": {
+        "ko": "피묻은 철구",
         "en": "Bloodied Shackle Ball",
-        "pt": "[Colecionadora]\nEsse item tem encantamentos além do meu controle, não posso fazer nada.",
+        "pt": "Bola de Ferro Ensanguentada",
         "es": "Bola de grillete ensangrentada"
     },
-    "e4LeCA": {
+    "fYLeCA": {
+        "ko": "피사향포",
         "en": "Sacred Incense",
-        "pt": "[Colecionadora]\nDeseja reiniciar todas as joias polidas do acessório? Há uma chance de ^FF000080%^000000 de falha.",
+        "pt": "Incenso Sagrado",
         "es": "Incienso sagrado"
     },
-    "fILeCA": {
+    "foLeCA": {
+        "ko": "핀귀큘라의 코르사주",
         "en": "Pinguicula Corsage",
-        "pt": "Volto mais tarde",
+        "pt": "Broche de Pinguicula",
         "es": "Corsaje de pinguiculas"
     },
-    "fYLeCA": {
+    "f4LeCA": {
+        "ko": "하급정령의 반지",
         "en": "Lesser Elemental Ring",
-        "pt": "Prossiga",
+        "pt": "Anel Elemental Menor",
         "es": "Anillo elemental menor"
     },
-    "foLeCA": {
+    "gILeCA": {
+        "ko": "하이퍼 모드 체인저",
         "en": "Armor Charm",
-        "pt": "[Colecionadora]\nOk.",
+        "pt": "Talismã da Armadura",
         "es": "Amuleto de armadura"
     },
-    "f4LeCA": {
+    "gYLeCA": {
+        "ko": "해골반지",
         "en": "Skull Ring",
-        "pt": "[Colecionadora]\nNão posso reiniciar coisas que não foram encantadas.",
+        "pt": "Anel de Caveira",
         "es": "Anillo de calavera"
     },
-    "gILeCA": {
+    "goLeCA": {
+        "ko": "호버링 부스터",
         "en": "Hovering Booster",
-        "pt": "[Colecionadora]\nO que está acontecendo? Espere um minuto. Eu preciso ver a situação.",
+        "pt": "Planador",
         "es": "Propulsor aéreo"
     },
-    "gYLeCA": {
+    "g4LeCA": {
+        "ko": "활골무",
         "en": "Bow Thimble",
-        "pt": "[Colecionadora]\nEu não sei o que é, mas parece que as coisas estão complicadas. Vamos tentar de novo mais tarde.",
+        "pt": "Luva de Puxada",
         "es": "Dactilera"
     },
-    "goLeCA": {
+    "hILeCA": {
+        "ko": "황금 방울",
         "en": "Gold Trickle",
-        "pt": "[Colecionadora]\nEu não acho que isso é algo que eu tocaria.",
+        "pt": "Sino de Ouro",
         "es": "Cascabel de oro"
     },
-    "g4LeCA": {
+    "hYLeCA": {
+        "ko": "희망의 등잔",
         "en": "Lantern of Hope",
-        "pt": "[Colecionadora]\nEncantamento concluído.",
+        "pt": "Lanterna da Fé",
         "es": "Linterna de esperanza"
     },
-    "hILeCA": {
+    "hoLeCA": {
+        "ko": "[초보 수집가]\n이 장비는 제가 건드릴 수 없는 장비예요. 아마 무리해서 건드렸다간 100% 실패해서 소멸해버리고 말걸요.",
         "en": "[Novice Collector]\nI can't handle this piece of equipment. It'll fail with 100 percent certainty and disappear.",
-        "pt": "[Colecionadora]\nAlgo deu errado...",
+        "pt": "[Colecionadora]\nNão sei trabalhar com esse equipamento. Se eu exagerar, ele falhará 100% e desaparecerá.",
         "es": "[Coleccionista novato]\nNo puedo manejar este equipo. Con un 100% de certeza, fracasará y desaparecerá."
     },
-    "hYLeCA": {
+    "h4LeCA": {
+        "ko": "[초보 수집가]\n이 반지는 이미 강화가 완료된 상태군요. 초기화를 원하실때나 저를 찾아주시는게 좋을 것 같은데요?",
         "en": "[Novice Collector]\nThis accessory has already been enchanted. Come back when you want to reset it.",
-        "pt": "[Colecionadora]\nVocê não selecionou a tarefa certa. Por favor, comece de novo.",
+        "pt": "[Colecionadora]\nEste acessório já foi reforçado. Se quiser, você pode resetar o encantamento.",
         "es": "[Coleccionista novato]\nEste accesorio ya fue encantado. Vuelve cuando quieras restablecerlo."
     },
-    "hoLeCA": {
+    "iILeCA": {
+        "ko": "[초보 수집가]\n이 반지는 이미 강화가 된 상태군요. 초기화를 할때나 다시 찾아 오셔야겠어요.",
         "en": "[Novice Collector]\nIt's too enchanted that I can't touch it. Sorry.",
-        "pt": "[Colecionadora]\nEu preciso de 10 Pedras Brutas e 100.000 zeny. Você não tem tudo isso.",
+        "pt": "[Colecionadora]\nEste acessório já foi fortalecido. Se quiser, você pode resetar o encantamento.",
         "es": "[Coleccionista novato]\nEstá tan encantado que no puedo tocarlo. Lo siento."
     },
-    "h4LeCA": {
-        "en": "[Novice Collector]\nDo you want to reset all of the effects on the accessory? It could be destroyed with an^FF0000 80%^000000 chance, so be aware.",
-        "pt": "Homem Suspeito",
-        "es": "[Coleccionista novato]\n¿Quieres restablecer todos los efectos del accesorio? Hay un^660000 80%^000000 de probabilidad de que se destruya, así que ten cuidado."
-    },
-    "iILeCA": {
-        "en": "I'll be back later.",
-        "pt": "[Homem Suspeito]\nExiste algo que eu preciso fazer?",
-        "es": "Volveré más tarde."
-    },
     "iYLeCA": {
-        "en": "Please proceed.",
-        "pt": "[Homem Suspeito]\nVocê está usando um anel muito precioso. O que quer de mim?",
-        "es": "Continúa."
+        "ko": "[초보 수집가]\n이건 제가 손을 댈 수 없을정도로 강화된 물건이군요. 이건 저도 어쩔 수 없어요.",
+        "en": "[Novice Collector]\nIt's too enchanted that I can't touch it. Sorry.",
+        "pt": "[Colecionadora]\nEsse item tem encantamentos além do meu controle, não posso fazer nada.",
+        "es": "[Coleccionista novato]\nEstá tan encantado que no puedo tocarlo. Lo siento."
     },
     "ioLeCA": {
-        "en": "[Novice Collector]\nOkay.",
-        "pt": "Qual a história deste anel?",
-        "es": "[Coleccionista novato]\nBueno."
+        "ko": "[초보 수집가]\n액세서리에 부여된 강화효과를 모두 초기화 할건가요? 약^FF0000 80% 확률^000000로 파괴될수도 있으니 각오는 하셔야 할 거예요.",
+        "en": "[Novice Collector]\nDo you want to reset all of the effects on the accessory? It could be destroyed with an^FF0000 80%^000000 chance, so be aware.",
+        "pt": "[Colecionadora]\nDeseja reiniciar todas as joias polidas do acessório? Há uma chance de ^FF000080%^000000 de falha.",
+        "es": "[Coleccionista novato]\n¿Quieres restablecer todos los efectos del accesorio? Hay un^FF0000 80%^000000 de probabilidad de que se destruya, así que ten cuidado."
     },
     "i4LeCA": {
-        "en": "[Novice Collector]\nI can't reset something that hasn't been enchanted.",
-        "pt": "Encantar Anel do Monarca",
-        "es": "[Coleccionista novato]\nNo puedo restablecer algo que no se ha encantado."
+        "ko": "나중에 다시오겠습니다",
+        "en": "I'll be back later.",
+        "pt": "Volto mais tarde",
+        "es": "Volveré más tarde."
     },
     "jILeCA": {
-        "en": "[Novice Collector]\nWhat's going on here? Wait a minute, I need to see what's going on.",
-        "pt": "Reiniciar encantos",
-        "es": "[Coleccionista novato]\n¿Qué está pasando aquí? Un momento, necesito ver qué está pasando."
-    },
-    "jYLeCA": {
-        "en": "[Novice Collector]\nI don't know what's going on, but I think something is off. Let's try again later.",
-        "pt": "[Homem Suspeito]\nAntes de tudo, vou lhe dizer que não estou oficialmente mais ativo por motivos pessoais. Então, esqueça tudo o que você ouvirá aqui.",
-        "es": "[Coleccionista novato]\nNo sé qué está pasando, pero creo que algo está mal. Intentémoslo más tarde."
-    },
-    "joLeCA": {
-        "en": "[Novice Collector]\nI don't think this is something I can modify.",
-        "pt": "Então, até logo.",
-        "es": "[Coleccionista novato]\nNo creo que esto sea algo que pueda modificar."
-    },
-    "j4LeCA": {
-        "en": "[Novice Collector]\nIt's done. Check it out!",
-        "pt": "Pode continuar.",
-        "es": "[Coleccionista novato]\nListo. ¡Revísalo!"
-    },
-    "kILeCA": {
-        "en": "[Novice Collector]\nOh, no... I've failed you! I'm sorry, but I can't recover it.",
-        "pt": "[Homem Suspeito]\nVocê tem muita sorte de ter esse anel.",
-        "es": "[Coleccionista novato]\nAy, no… ¡Te fallé! Lo siento, pero no puedo recuperarlo."
-    },
-    "kYLeCA": {
-        "en": "[Novice Collector]\nYou didn't choose the right task. Please start over.",
-        "pt": "[Homem Suspeito]\nNos tempos antigos, haviam três Guardiões que apoiavam um certo monarca. Embora eles não existam nos registros de hoje...",
-        "es": "[Coleccionista novato]\nNo elegiste la tarea adecuada. Tendrás que empezar de nuevo."
-    },
-    "koLeCA": {
-        "en": "[Novice Collector]\nThis job requires 10 Crafted Stones and 100,000 Zeny. What you have is not enough!",
-        "pt": "[Homem Suspeito]\nEste anel era a prova de quem era fiel e protetor do Monarca.",
-        "es": "[Coleccionista novato]\nEste trabajo requiere 10Piedras artesanales y 100000zeny. ¡Lo que tienes no es suficiente!"
-    },
-    "k4LeCA": {
-        "en": "Suspicious man",
-        "pt": "[Homem Suspeito]\nDizem que o anel escolhe seu dono, parece que ele escolheu você.",
-        "es": "Suspicious man"
-    },
-    "lILeCA": {
-        "en": "[Suspicious man]\nDo you need me for something? Move along!",
-        "pt": "Você pode encantá-lo?",
-        "es": "[Hombre sospechoso]\n¿Me necesitas para algo? ¡Muévete!"
-    },
-    "lYLeCA": {
-        "en": "[Suspicious man]\nThat's a nice looking ring you have there. Need any help?",
-        "pt": "[Homem Suspeito]\nSe você quiser, me traga 10 Pedras Brutas e 100.000 zeny.",
-        "es": "[Hombre sospechoso]\nEs un bonito anillo el que tienes ahí. ¿Necesitas ayuda?"
-    },
-    "loLeCA": {
-        "en": "Is there a story behind this ring?",
-        "pt": "[Homem Suspeito]\nDepois de encantá-lo, se você não gostar, pode reiniciar o anel a qualquer momento. O custo é o mesmo, 10 Pedras Brutas e 100.000 zeny.",
-        "es": "¿Hay alguna historia detrás de este anillo?"
-    },
-    "l4LeCA": {
-        "en": "Enchant Ring",
-        "pt": "[Homem Suspeito]\nEnfim, é um prazer conhecer quem o Anel escolheu...",
-        "es": "Anillo encantado."
-    },
-    "mILeCA": {
-        "en": "Reset Ring Enchant",
-        "pt": "[Homem Suspeito]\nPor favor, coloque o anel no slot de acessório à direita. Não posso usar meu poder corretamente a menos que esteja lá.",
-        "es": "Restablecer Anillo encantado"
-    },
-    "mYLeCA": {
-        "en": "[Suspicious man]\nFirst of all, know that I'm not officially on active duty due to personal reasons, so forget everything you hear here.",
-        "pt": "[Homem Suspeito]\n... O que você está fazendo?",
-        "es": "[Hombre sospechoso]\nPrimero, debes saber que no estoy oficialmente en servicio activo por motivos personales, así que olvídate de todo lo que escuches aquí."
-    },
-    "moLeCA": {
-        "en": "Oh, nevermind.",
-        "pt": "Anel do Monarca",
-        "es": "No importa."
-    },
-    "m4LeCA": {
-        "en": "Go on.",
-        "pt": "[Homem Suspeito]\nVocê está me pedindo para encantar este equipamento? Você está brincando demais.",
+        "ko": "진행해주십시오",
+        "en": "Please proceed.",
+        "pt": "Prossiga",
         "es": "Continúa."
     },
+    "jYLeCA": {
+        "ko": "[초보 수집가]\n알겠네.",
+        "en": "[Novice Collector]\nOkay.",
+        "pt": "[Colecionadora]\nOk.",
+        "es": "[Coleccionista novato]\nBueno."
+    },
+    "joLeCA": {
+        "ko": "[초보 수집가]\n강화가 되지 않은 물건을 제가 초기화 해 드릴 순 없죠.",
+        "en": "[Novice Collector]\nI can't reset something that hasn't been enchanted.",
+        "pt": "[Colecionadora]\nNão posso reiniciar coisas que não foram encantadas.",
+        "es": "[Coleccionista novato]\nNo puedo restablecer algo que no se ha encantado."
+    },
+    "j4LeCA": {
+        "ko": "[초보 수집가]\n이게 무슨 일이지? 잠시만요 상황을 좀 봐야겠어요.",
+        "en": "[Novice Collector]\nWhat's going on here? Wait a minute, I need to see what's going on.",
+        "pt": "[Colecionadora]\nO que está acontecendo? Espere um minuto. Eu preciso ver a situação.",
+        "es": "[Coleccionista novato]\n¿Qué está pasando aquí? Un momento, necesito ver qué está pasando."
+    },
+    "kILeCA": {
+        "ko": "[초보 수집가]\n뭔지 모르겠지만 일이 꼬인것같아요. 조금 후에 다시 진행해보죠.",
+        "en": "[Novice Collector]\nI don't know what's going on, but I think something is off. Let's try again later.",
+        "pt": "[Colecionadora]\nEu não sei o que é, mas parece que as coisas estão complicadas. Vamos tentar de novo mais tarde.",
+        "es": "[Coleccionista novato]\nNo sé qué está pasando, pero creo que algo está mal. Intentémoslo más tarde."
+    },
+    "kYLeCA": {
+        "ko": "[초보 수집가]\n이건 제가 건드릴 물건이 아닌것 같아요.",
+        "en": "[Novice Collector]\nI don't think this is something I can modify.",
+        "pt": "[Colecionadora]\nEu não acho que isso é algo que eu tocaria.",
+        "es": "[Coleccionista novato]\nNo creo que esto sea algo que pueda modificar."
+    },
+    "koLeCA": {
+        "ko": "[초보 수집가]\n물건이 완성되었네요. 한번 확인해보세요.",
+        "en": "[Novice Collector]\nIt's done. Check it out!",
+        "pt": "[Colecionadora]\nEncantamento concluído.",
+        "es": "[Coleccionista novato]\nListo. ¡Revísalo!"
+    },
+    "k4LeCA": {
+        "ko": "[초보 수집가]\n아아 이런, 제 힘의 범위를 벗어난 것 같아요. 이젠 복구할 수 없어...",
+        "en": "[Novice Collector]\nOh, no... I've failed you! I'm sorry, but I can't recover it.",
+        "pt": "[Colecionadora]\nAlgo deu errado...",
+        "es": "[Coleccionista novato]\nAy, no… ¡Te fallé! Lo siento, pero no puedo recuperarlo."
+    },
+    "lILeCA": {
+        "ko": "[초보 수집가]\n작업을 제대로 선택하지 않으셨군요. 다시 시작해주세요.",
+        "en": "[Novice Collector]\nYou didn't choose the right task. Please start over.",
+        "pt": "[Colecionadora]\nVocê não selecionou a tarefa certa. Por favor, comece de novo.",
+        "es": "[Coleccionista novato]\nNo elegiste la tarea adecuada. Tendrás que empezar de nuevo."
+    },
+    "lYLeCA": {
+        "ko": "[초보 수집가]\n이 작업엔 세공용 원석 10개와 10만제니가 필요한데 지금 당신이 가진걸론 모자라요.",
+        "en": "[Novice Collector]\nThis job requires 10 Crafted Stones and 100,000 Zeny. What you have is not enough!",
+        "pt": "[Colecionadora]\nEu preciso de 10 Pedras Brutas e 100.000 zeny. Você não tem tudo isso.",
+        "es": "[Coleccionista novato]\nEste trabajo requiere 10Piedras artesanales y 100000zeny. ¡Lo que tienes no es suficiente!"
+    },
+    "loLeCA": {
+        "ko": "수상한 남자",
+        "en": "Suspicious Man",
+        "pt": "Homem Suspeito",
+        "es": "Hombre sospechoso"
+    },
+    "l4LeCA": {
+        "ko": "[수상한 남자]\n내게 볼일이라도 있나? 그냥 가던길이나 계속 가는게 어때?",
+        "en": "[Suspicious Man]\nDo you have any business with me? Why don't you just continue on your way?",
+        "pt": "[Homem Suspeito]\nExiste algo que eu preciso fazer?",
+        "es": "[Hombre sospechoso]\n¿Me necesitas para algo? ¡Muévete!"
+    },
+    "mILeCA": {
+        "ko": "[수상한 남자]\n당신, 꽤 귀한 반지를 차고 있군. 나한테 뭔가 원하는게 있나?",
+        "en": "[Suspicious Man]\nYou're wearing a rather precious ring. Is there something you want from me?",
+        "pt": "[Homem Suspeito]\nVocê está usando um anel muito precioso. O que quer de mim?",
+        "es": "[Hombre sospechoso]\nEs un bonito anillo el que tienes ahí. ¿Necesitas ayuda?"
+    },
+    "mYLeCA": {
+        "ko": "이 반지에 얽힌 사연이 있습니까?",
+        "en": "Is there a story behind this ring?",
+        "pt": "Qual a história deste anel?",
+        "es": "¿Hay alguna historia detrás de este anillo?"
+    },
+    "moLeCA": {
+        "ko": "반지 인챈트",
+        "en": "Ring Enchant",
+        "pt": "Encantar Anel do Monarca",
+        "es": "Anillo encantado."
+    },
+    "m4LeCA": {
+        "ko": "반지 인챈트 초기화",
+        "en": "Reset Ring Enchant",
+        "pt": "Reiniciar encantos",
+        "es": "Restablecer Anillo encantado"
+    },
     "nILeCA": {
-        "en": "[Suspicious man]\nHeh, I'm glad this big-mouthed adventurer owns the ring.",
-        "pt": "[Homem Suspeito]\nEste anel já foi encanttado. Eu não posso ir mais além. Se você quiser reiniciar seus poderes, estarei aqui.",
-        "es": "[Hombre sospechoso]\nMe alegra que este trotamundos lenguaraz tenga el anillo."
+        "ko": "[수상한 남자]\n일단 개인적인 사정으로 난 공식적으로 활동하진 않고있다는걸 먼저 밝히지. 그러니 여기서 들은 내용은 모두 잊도록 해.",
+        "en": "[Suspicious Man]\nFor now, let me state that I'm not officially active due to personal reasons. So, forget everything you heard here.",
+        "pt": "[Homem Suspeito]\nAntes de tudo, vou lhe dizer que não estou oficialmente mais ativo por motivos pessoais. Então, esqueça tudo o que você ouvirá aqui.",
+        "es": "[Hombre sospechoso]\nPrimero, debes saber que no estoy oficialmente en servicio activo por motivos personales, así que olvídate de todo lo que escuches aquí."
     },
     "nYLeCA": {
-        "en": "[Suspicious man]\nIn ancient times, there were three guardians who stood by the king. It's not on the record right now, but...",
-        "pt": "[Homem Suspeito]\nQue tipo de poder você quer?",
-        "es": "[Hombre sospechoso]\nEn la antigüedad, había tres guardianes al lado del rey. Ahora mismo no es oficial, pero…"
+        "ko": "어서 계속 말해주시죠",
+        "en": "Please continue.",
+        "pt": "Pode continuar.",
+        "es": "Continúa."
     },
     "noLeCA": {
-        "en": "[Suspicious man]\nThe ring they kept was a symbol of the king's guardian is the King's Guardian Ring.",
-        "pt": "Me dê um tempo",
-        "es": "[Hombre sospechoso]\nEl anillo que guardaban era un símbolo del guardián del rey. Es el Anillo del guardián real."
+        "ko": "[수상한 남자]\n입이 무거운 자가 그 반지의 주인이라니 그건 다행이군.",
+        "en": "[Suspicious Man]\nIt's fortunate that the man of few words is the owner of that ring.",
+        "pt": "[Homem Suspeito]\nVocê tem muita sorte de ter esse anel.",
+        "es": "[Hombre sospechoso]\nMe alegra que este trotamundos lenguaraz tenga el anillo."
     },
     "n4LeCA": {
-        "en": "[Suspicious man]\nI heard that the ring chooses its owner. I see you've already been chosen, but I don't think it has completely unsealed its powers yet.",
-        "pt": "Poderes Físicos",
-        "es": "[Hombre sospechoso]\nEscuché que el anillo elige a su dueño. Veo que te eligió, pero no creo que sus poderes se hayan desbloqueado del todo."
+        "ko": "[수상한 남자]\n고대에 어떤 왕의 곁을 지키던 3인의 수호자가 있었지. 지금은 기록에도 남아있지 않지만...",
+        "en": "[Suspicious Man]\nIn ancient times, there were three guardians who guarded a certain king. They're no longer recorded, but...",
+        "pt": "[Homem Suspeito]\nNos tempos antigos, haviam três Guardiões que apoiavam um certo monarca. Embora eles não existam nos registros de hoje...",
+        "es": "[Hombre sospechoso]\nEn la antigüedad, había tres guardianes al lado del rey. Ahora mismo no es oficial, pero…"
     },
     "oILeCA": {
-        "en": "It has sealed powers?",
-        "pt": "Poderes Mágicos",
-        "es": "¿Tiene poderes sellados?"
+        "ko": "[수상한 남자]\n그들이 왕을 지키는자 라는 표식으로 간직하고 있던 반지가 바로 그 왕의 수호반지일세.",
+        "en": "[Suspicious Man]\nThe ring they kept as a mark of their king's protection was that king's guardian ring.",
+        "pt": "[Homem Suspeito]\nEste anel era a prova de quem era fiel e protetor do Monarca.",
+        "es": "[Hombre sospechoso]\nEl anillo que guardaban era un símbolo del guardián del rey. Es el Anillo del guardián real."
     },
     "oYLeCA": {
-        "en": "[Suspicious man]\nIf you want, I can unlock the ring's true potential. Bring me 10 Crafted Stones and 100,000 Zeny.",
-        "pt": "Poderes Certeiros",
-        "es": "[Hombre sospechoso]\nSi quieres, puedo desbloquear el verdadero potencial del anillo. Tráeme 10Piedras artesanales y 100000zeny."
+        "ko": "[수상한 남자]\n그 반지는 스스로 주인을 선택한다고 하던데. 자넨 이미 선택받은 모양이군. 하지만 아직 완벽하게 힘의 봉인을 풀지는 않은 것 같은데.",
+        "en": "[Suspicious Man]\nThey say that ring chooses its own master. It seems you've already been chosen. But it seems the seal hasn't been completely broken yet.",
+        "pt": "[Homem Suspeito]\nDizem que o anel escolhe seu dono, parece que ele escolheu você.",
+        "es": "[Hombre sospechoso]\nEscuché que el anillo elige a su dueño. Veo que te eligió, pero no creo que sus poderes se hayan desbloqueado del todo."
     },
     "ooLeCA": {
-        "en": "[Suspicious man]\nIf you don't its unlocked potential, you can always reset it back to normal. Please prepare 10 Crafted Stones and 100,000 Zeny.",
-        "pt": "[Homem Suspeito]\nOk. Volte quando pensar melhor.",
-        "es": "[Hombre sospechoso]\nSi no desbloqueas su potencial, siempre puedes restablecerlo a su estado normal. Reúne 10Piedras artesanales y 100000zeny."
+        "ko": "아직 봉인이 안풀렸다고요?",
+        "en": "The seal hasn't been broken yet?",
+        "pt": "Você pode encantá-lo?",
+        "es": "¿Tiene poderes sellados?"
     },
     "o4LeCA": {
-        "en": "[Suspicious man]\nAnyway, I'm glad the ring has met the chosen one...",
-        "pt": "[Homem Suspeito]\nEu vou encantar o primeiro slot. Posso continuar?",
-        "es": "[Hombre sospechoso]\nEn fin, me alegra que el anillo haya encontrado a la persona elegida…"
+        "ko": "[수상한 남자]\n자네가 원한다면 이 반지의 봉인된 나머지 힘을 개방해 주도록 하지. 세공용 원석 10개를 들고오라구. 그리고 이 불쌍한 걸인을 위해 10만제니도 준비해주면 좋겠어.",
+        "en": "[Suspicious Man]\nIf you wish, I can release the remaining sealed power of this ring. Bring me ten crafting stones. And please prepare 100,000 zeny for this poor beggar.",
+        "pt": "[Homem Suspeito]\nSe você quiser, me traga 10 Pedras Brutas e 100.000 zeny.",
+        "es": "[Hombre sospechoso]\nSi quieres, puedo desbloquear el verdadero potencial del anillo. Tráeme 10Piedras artesanales y 100000zeny."
     },
     "pILeCA": {
-        "en": "[Suspicious man]\nEquip the ring on the right accessory slot. I can't use my powers unless it's located there.",
-        "pt": "Volto depois",
-        "es": "[Hombre sospechoso]\nEquipa el anillo en la ranura derecha de accesorios. No puedo usar mis poderes a menos que se encuentre allí."
+        "ko": "[수상한 남자]\n봉인을 개방한 후에 마음에 들지않는다면 언제든 힘을 초기화 할 수 있지. 그때도 세공용 원석 10개와 10만제니를 준비해주게.",
+        "en": "[Suspicious Man]\nIf you're not satisfied after the seal is released, you can reset the power at any time. Please prepare 10 crafting stones and 100,000 zeny for me as well.",
+        "pt": "[Homem Suspeito]\nDepois de encantá-lo, se você não gostar, pode reiniciar o anel a qualquer momento. O custo é o mesmo, 10 Pedras Brutas e 100.000 zeny.",
+        "es": "[Hombre sospechoso]\nSi no desbloqueas su potencial, siempre puedes restablecerlo a su estado normal. Reúne 10Piedras artesanales y 100000zeny."
     },
     "pYLeCA": {
-        "en": "[Suspicious man]\n... What are you doing??",
-        "pt": "[Homem Suspeito]\nOk.",
-        "es": "[Hombre sospechoso]\n… ¿Qué haces?"
+        "ko": "[수상한 남자]\n어쨌거나 반지가 선택한 자를 만나게 되어 다행이군...",
+        "en": "[Suspicious Man]\nAnyway, I'm glad you met the one the ring has chosen...",
+        "pt": "[Homem Suspeito]\nEnfim, é um prazer conhecer quem o Anel escolheu...",
+        "es": "[Hombre sospechoso]\nEn fin, me alegra que el anillo haya encontrado a la persona elegida…"
     },
     "poLeCA": {
-        "en": "Royal Guardian Ring",
-        "pt": "[Homem Suspeito]\nVou encantar o segundo slot. Posso continuar?",
-        "es": "Anillo del Guardián real"
+        "ko": "[수상한 남자]\n오른쪽 액세서리 슬롯에 반지를 장착해주게. 난 그곳이 아니면 제대로 힘을 발휘할 수 가 없어.",
+        "en": "[Suspicious Man]\nPlease equip the ring in the right accessory slot. I can't fully utilize my power anywhere else.",
+        "pt": "[Homem Suspeito]\nPor favor, coloque o anel no slot de acessório à direita. Não posso usar meu poder corretamente a menos que esteja lá.",
+        "es": "[Hombre sospechoso]\nEquipa el anillo en la ranura derecha de accesorios. No puedo usar mis poderes a menos que se encuentre allí."
     },
     "p4LeCA": {
-        "en": "[Suspicious man]\nAre you asking me to enchant this ring? Ha! What a jokester.",
-        "pt": "[Homem Suspeito]\nSe reiniciar, TODOS os encantos sumirão. Posso continuar? Há 20% de chance dele ser perdido para sempre.",
-        "es": "[Hombre sospechoso]\n¿Me estás pidiendo que encante este anillo? ¡Ha! Qué bromista."
+        "ko": "[수상한 남자]\n... 뭐하는 짓이지?",
+        "en": "[Suspicious Man]\n...What are you doing?",
+        "pt": "[Homem Suspeito]\n... O que você está fazendo?",
+        "es": "[Hombre sospechoso]\n… ¿Qué haces?"
     },
     "qILeCA": {
-        "en": "[Suspicious man]\nThis ring is already unsealed. I can't do anything else. Come find me when you want to reset its power.",
-        "pt": "[Homem Suspeito]\nOK.",
-        "es": "[Hombre sospechoso]\nEste anillo ya está desbloqueado. No puedo hacer nada más. Ven a buscarme cuando quieras restablecer su poder."
+        "ko": "왕의 수호 반지",
+        "en": "King's Guardian Ring",
+        "pt": "Anel do Monarca",
+        "es": "Anillo del Guardián real"
     },
     "qYLeCA": {
-        "en": "[Suspicious man]\nWhat kind of power do you want?",
-        "pt": "[Homem Suspeito]\nEsse anel não foi encantado o suficiente para reiniciá-lo. É melhor você voltar para mim depois que todos os 2 slots forem encantados.",
-        "es": "[Hombre sospechoso]\n¿Qué tipo de poder quieres?"
+        "ko": "[수상한 남자]\n나한테 이런 장비를 손봐달라는건가? 장난이 지나치군.",
+        "en": "[Suspicious Man]\nAre you asking me to repair this equipment? This is too much of a joke.",
+        "pt": "[Homem Suspeito]\nVocê está me pedindo para encantar este equipamento? Você está brincando demais.",
+        "es": "[Hombre sospechoso]\n¿Me estás pidiendo que encante este anillo? ¡Ha! Qué bromista."
     },
     "qoLeCA": {
-        "en": "One second...",
-        "pt": "[Homem Suspeito]\nO que está acontecendo? Você vai voltar mais tarde?",
-        "es": "Un segundo…"
+        "ko": "[수상한 남자]\n이 반지는 이미 봉인이 모두 풀렸네. 더이상은 할 수 없어. 힘을 다시 초기화 하고 싶을때나 날 찾아오게나.",
+        "en": "[Suspicious Man]\nThis ring has already been completely unsealed. I can't do anything more. Come see me when you want to reset its power.",
+        "pt": "[Homem Suspeito]\nEste anel já foi encanttado. Eu não posso ir mais além. Se você quiser reiniciar seus poderes, estarei aqui.",
+        "es": "[Hombre sospechoso]\nEste anillo ya está desbloqueado. No puedo hacer nada más. Ven a buscarme cuando quieras restablecer su poder."
     },
     "q4LeCA": {
-        "en": "Physical Effect",
-        "pt": "[Homem Suspeito]\nEu não sei o que é, mas parece que as coisas deram errado. Você pode voltar em um minuto?",
-        "es": "Efecto físico."
+        "ko": "[수상한 남자]\n어떤 힘을 원하는가?",
+        "en": "[Suspicious Man]\nWhat power do you desire?",
+        "pt": "[Homem Suspeito]\nQue tipo de poder você quer?",
+        "es": "[Hombre sospechoso]\n¿Qué tipo de poder quieres?"
     },
     "rILeCA": {
-        "en": "Magical Effect",
-        "pt": "[Homem Suspeito]\nIsso não é algo que eu vou tocar.",
-        "es": "Efecto mágico."
+        "ko": "다시 생각해본다",
+        "en": "Thinking again",
+        "pt": "Me dê um tempo",
+        "es": "Un segundo…"
     },
     "rYLeCA": {
-        "en": "Ranged Effect",
-        "pt": "[Homem Suspeito]\nO anel foi encantado. Confira.",
-        "es": "Efecto a distancia."
+        "ko": "물리효능",
+        "en": "Physical Effect",
+        "pt": "Poderes Físicos",
+        "es": "Efecto físico."
     },
     "roLeCA": {
-        "en": "[Suspicious man]\nAll right, think carefully.",
-        "pt": "[Homem Suspeito]\nO encanto foi reiniciado com sucesso.",
-        "es": "[Hombre sospechoso]\nMuy bien, piénsalo bien."
+        "ko": "마법효능",
+        "en": "Magical Effect",
+        "pt": "Poderes Mágicos",
+        "es": "Efecto mágico."
     },
     "r4LeCA": {
-        "en": "[Suspicious man]\nI'll unseal the first seal.",
-        "pt": "[Homem Suspeito]\nOh... aparentemente o Anel não escolheu você.",
-        "es": "[Hombre sospechoso]\nVoy a desbloquear el primer sello."
+        "ko": "원거리 효능",
+        "en": "Ranged Effect",
+        "pt": "Poderes Certeiros",
+        "es": "Efecto a distancia."
     },
     "sILeCA": {
-        "en": "[Suspicious man]\nOkay.",
-        "pt": "[Homem Suspeito]\nVocê pode me dizer o que você quer fazer?",
-        "es": "[Hombre sospechoso]\nBueno."
+        "ko": "[수상한 남자]\n좋아. 생각은 깊을수록 좋으니까.",
+        "en": "[Suspicious Man]\nGood. The more thoughtful you are, the better.",
+        "pt": "[Homem Suspeito]\nOk. Volte quando pensar melhor.",
+        "es": "[Hombre sospechoso]\nMuy bien, piénsalo bien."
     },
     "sYLeCA": {
-        "en": "[Suspicious man]\nI'm gonna unseal the second one. Can I go on?",
-        "pt": "[Homem Suspeito]\nEu preciso de 10 Pedras Brutas e 100.000 zeny, mas você não tem isso.",
-        "es": "[Hombre sospechoso]\nVoy a desbloquear el segundo. ¿Puedo seguir?"
+        "ko": "[수상한 남자]\n첫 봉인을 풀겠네.",
+        "en": "[Suspicious Man]\nI will release the first seal.",
+        "pt": "[Homem Suspeito]\nEu vou encantar o primeiro slot. Posso continuar?",
+        "es": "[Hombre sospechoso]\nVoy a desbloquear el primer sello."
     },
     "soLeCA": {
-        "en": "[Suspicious man]\nThis ring is already unsealed. There is nothing left for me to do. Come find me whenever you want to reset its power.",
-        "es": "[Hombre sospechoso]\nEste anillo ya está desbloqueado. No me queda nada por hacer. Ven a buscarme cuando quieras para restablecer su poder."
+        "ko": "[수상한 남자]\n좋아.",
+        "en": "[Suspicious Man]\nGood.",
+        "pt": "[Homem Suspeito]\nOk.",
+        "es": "[Hombre sospechoso]\nBueno."
     },
     "s4LeCA": {
-        "en": "[Suspicious man]\nAre you going to reset all the enchanted effects on the accessories? Careful, it could be destroyed with a 20% chance.",
-        "es": "[Hombre sospechoso]\n¿Vas a restablecer todos los efectos encantados en los accesorios? Cuidado, hay una probabilidad del 20%.de que se destruya."
+        "ko": "[수상한 남자]\n두번째 봉인을 풀거야. 계속 해도 되겠나?",
+        "en": "[Suspicious Man]\nI will release the second seal. May I continue?",
+        "pt": "[Homem Suspeito]\nVou encantar o segundo slot. Posso continuar?",
+        "es": "[Hombre sospechoso]\nVoy a desbloquear el segundo. ¿Puedo seguir?"
     },
     "tILeCA": {
-        "en": "[Suspicious man]\nIt hasn't been unsealed enough to reset. Come back after all the seals are released.",
-        "es": "[Hombre sospechoso]\nNo se desbloqueó lo suficiente como para restablecerlo. Vuelve cuando todos los sellos se hayan liberado."
+        "ko": "[수상한 남자]\n알았네.",
+        "en": "[Suspicious Man]\nUnderstood.",
+        "pt": "[Homem Suspeito]\nOk.",
+        "es": "[Hombre sospechoso]\nBueno."
     },
     "tYLeCA": {
-        "en": "[Suspicious man]\nWhat's going on here? Come back later!",
-        "es": "[Hombre sospechoso]\n¿Qué está pasando aquí? ¡Vuelve más tarde!"
+        "ko": "[수상한 남자]\n액세서리에 부여된 강화효과를 모두 초기화 할건가? 약 20% 확률로 파괴될수도 있다네.",
+        "en": "[Suspicious Man]\nWould you like to reset all the buffs on the accessory? There's about a 20% chance it will be destroyed.",
+        "pt": "[Homem Suspeito]\nSe reiniciar, TODOS os encantos sumirão. Posso continuar? Há 20% de chance dele ser perdido para sempre.",
+        "es": "[Hombre sospechoso]\n¿Vas a restablecer todos los efectos encantados en los accesorios? Cuidado, hay una probabilidad del 20%.de que se destruya."
     },
     "toLeCA": {
-        "en": "[Suspicious man]\nI don't know what is happening, but I think there is a problem. Can you come back in a minute?",
-        "es": "[Hombre sospechoso]\nNo sé qué está pasando, pero creo que hay un problema. ¿Puedes volver en un minuto?"
+        "ko": "[수상한 남자]\n알겠네.",
+        "en": "[Suspicious Man]\nUnderstood.",
+        "pt": "[Homem Suspeito]\nOK.",
+        "es": "[Hombre sospechoso]\nBueno."
     },
     "t4LeCA": {
-        "en": "[Suspicious man]\nThis isn't something I can touch.",
-        "es": "[Hombre sospechoso]\nEsto no es algo que pueda tocar."
+        "ko": "[수상한 남자]\n아직 초기화를 할 만큼 충분히 봉인이 풀리진 않은 물건이군. 모든 봉인이 풀린 뒤에나 날 찾아오는게 좋을거야.",
+        "en": "[Suspicious Man]\nIt's not yet sealed enough to be reset. You'd better come see me after all the seals are released.",
+        "pt": "[Homem Suspeito]\nEsse anel não foi encantado o suficiente para reiniciá-lo. É melhor você voltar para mim depois que todos os 2 slots forem encantados.",
+        "es": "[Hombre sospechoso]\nNo se desbloqueó lo suficiente como para restablecerlo. Vuelve cuando todos los sellos se hayan liberado."
     },
     "uILeCA": {
-        "en": "[Suspicious man]\nThe seal has been unsealed. Check it out!",
-        "es": "[Hombre sospechoso]\nEl sello se desbloqueó. ¡Revísalo!"
+        "ko": "[수상한 남자]\n이게 무슨 일이지? 나중에 다시 찾아오겠나?",
+        "en": "[Suspicious Man]\nWhat's going on? Will you come back later?",
+        "pt": "[Homem Suspeito]\nO que está acontecendo? Você vai voltar mais tarde?",
+        "es": "[Hombre sospechoso]\n¿Qué está pasando aquí? ¡Vuelve más tarde!"
     },
     "uYLeCA": {
-        "en": "[Suspicious man]\nI've performed the reset safely. Phew.",
-        "es": "[Hombre sospechoso]\nRestablecimiento realizado sin problemas. Uf."
+        "ko": "[수상한 남자]\n뭔지 모르겠지만 일이 꼬인것같군. 잠시 후에 다시 와주겠나?.",
+        "en": "[Suspicious Man]\nI don't know what's going on, but things seem to have gone awry. Could you come back later?",
+        "pt": "[Homem Suspeito]\nEu não sei o que é, mas parece que as coisas deram errado. Você pode voltar em um minuto?",
+        "es": "[Hombre sospechoso]\nNo sé qué está pasando, pero creo que hay un problema. ¿Puedes volver en un minuto?"
     },
     "uoLeCA": {
-        "en": "[Suspicious man]\nOh... perhaps it required more force? Unfortunately, these things happen.",
-        "es": "[Hombre sospechoso]\nMmm… ¿Quizá requería más fuerza? Por desgracia, estas cosas pasan."
+        "ko": "[수상한 남자]\n이건 내가 건드릴 물건이 아니군",
+        "en": "[Suspicious Man]\nThis isn't something I should be touching.",
+        "pt": "[Homem Suspeito]\nIsso não é algo que eu vou tocar.",
+        "es": "[Hombre sospechoso]\nEsto no es algo que pueda tocar."
     },
     "u4LeCA": {
-        "en": "[Suspicious man]\nTell me exactly what you want to do.",
-        "es": "[Hombre sospechoso]\nDime exactamente lo que quieres hacer."
+        "ko": "[수상한 남자]\n봉인이 풀렸군. 한번 확인해보게.",
+        "en": "[Suspicious Man]\nThe seal's been released. Let me check it out.",
+        "pt": "[Homem Suspeito]\nO anel foi encantado. Confira.",
+        "es": "[Hombre sospechoso]\nEl sello se desbloqueó. ¡Revísalo!"
     },
     "vILeCA": {
-        "en": "[Suspicious man]\nI need 10 Crafted Stones and 100,000 Zeny, so come back when you have it.",
+        "ko": "[수상한 남자]\n무사히 원래대로 되돌렸군. 다행이야.",
+        "en": "[Suspicious Man]\nYou've safely returned it to its original state. That's a relief.",
+        "pt": "[Homem Suspeito]\nO encanto foi reiniciado com sucesso.",
+        "es": "[Hombre sospechoso]\nRestablecimiento realizado sin problemas. Uf."
+    },
+    "vYLeCA": {
+        "ko": "[수상한 남자]\n이런, 너무 과도하게 힘의 변화가 일어난건가. 가끔은 이렇게 문제가 생기기도 한다네.",
+        "en": "[Suspicious Man]\nOh, the power shift seems to have been too extreme. Sometimes things like this can go wrong.",
+        "pt": "[Homem Suspeito]\nOh... aparentemente o Anel não escolheu você.",
+        "es": "[Hombre sospechoso]\nMmm… ¿Quizá requería más fuerza? Por desgracia, estas cosas pasan."
+    },
+    "voLeCA": {
+        "ko": "[수상한 남자]\n하고싶은 일을 제대로 말해주겠나?",
+        "en": "[Suspicious Man]\nWould you mind telling me exactly what you want to do?",
+        "pt": "[Homem Suspeito]\nVocê pode me dizer o que você quer fazer?",
+        "es": "[Hombre sospechoso]\nDime exactamente lo que quieres hacer."
+    },
+    "v4LeCA": {
+        "ko": "[수상한 남자]\n이 작업엔 세공용 원석 10개와 10만제니가 필요한데 지금 자네가 가진걸론 안되겠는걸.",
+        "en": "[Suspicious Man]\nThis requires 10 pieces of crafting stone and 100,000 zenys, and you won't be able to do it with what you have now.",
+        "pt": "[Homem Suspeito]\nEu preciso de 10 Pedras Brutas e 100.000 zeny, mas você não tem isso.",
         "es": "[Hombre sospechoso]\nNecesito 10Piedras artesanales y 100000zeny, así que vuelve cuando tengas todo."
     }
 }

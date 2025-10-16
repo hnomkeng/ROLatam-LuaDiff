@@ -4935,11 +4935,11 @@ achievement_tbl = {
 		title = "Inspiração Mundial",
 		content = {
 			details = "Alcance o nível base 99 em um personagem da classe Aprendiz.",
-			summary = "Obtenha um Aprendiz no Nv. Base 99"
+			summary = "Alcance o Nv. Base 99 utilizando um Aprendiz."
 		},
 		resource = {
 			{
-				text = "Obtenha um Aprendiz no Nv. Base 99"
+				text = "Alcance o Nv. Base 99 utilizando um Aprendiz."
 			}
 		},
 		reward = {buff = 10, item = 16483},
@@ -4953,11 +4953,11 @@ achievement_tbl = {
 		title = "Eu Prefiro Você!",
 		content = {
 			details = "Alcance o nível base 99 em um personagem da classe 1-1.",
-			summary = "Tenha uma Classe 1 no Nv. Base 99"
+			summary = "Alcance o Nv. Base 99 utilizando uma Classe 1."
 		},
 		resource = {
 			{
-				text = "Tenha uma Classe 1 no Nv. Base 99"
+				text = "Alcance o Nv. Base 99 utilizando uma Classe 1."
 			}
 		},
 		reward = {buff = 10, item = 101948},
