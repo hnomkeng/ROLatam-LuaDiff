@@ -17,7 +17,7 @@
     "A12IBg": {
         "en": "[Jet]\nSpeaking of which...\nLet me tell you a joke!\nTrust me, it's hilarious~\n^333333*Ahem*^000000",
         "pt": "[Jet]\nVocê também quer seguir esse caminho e ser um Bardo?",
-        "es": "[Jet]\nHablando de eso…\n¡déjame contarte un chiste!\nCréeme, es divertidísimo~.\n^FF2400*Ejem*^000000"
+        "es": "[Jet]\nHablando de eso…\n¡déjame contarte un chiste!\nCréeme, es divertidísimo~.\n^333333*Ejem*^000000"
     },
     "BF2IBg": {
         "en": "[Jet]\nA termite walks\ninto a bar and says,\n'Is the bar tender here?'\nHahahahaha!\nBwehehehehe!",
@@ -62,7 +62,7 @@
     "DF2IBg": {
         "en": "[Jet]\nActually I'm a member of\nthe ^3131FFArcher's Guild^000000 'Icarus' which is to the ^3131FFleft of the job change office^000000. You should be able to\nlearn a lot from there.",
         "pt": "Troca de Classe  --->  \n <---     Icarus",
-        "es": "[Jet]\nEn realidad, soy miembro\ndel ^990000gremio de Arqueros^000000 Ícaro, a la ^990000izquierda de la oficina de cambio de clase^000000. Sin duda podrás\naprender mucho allí."
+        "es": "[Jet]\nEn realidad, soy miembro\ndel ^3131FFgremio de Arqueros^000000 Ícaro, a la ^3131FFizquierda de la oficina de cambio de clase^000000. Sin duda podrás\naprender mucho allí."
     },
     "DV2IBg": {
         "en": "[Jet]\nNow now, go learn\neverything and change\njobs so that you can\ncome play with me!",
@@ -102,7 +102,7 @@
     "FF2IBg": {
         "en": "[Jet]\n^333333*Ahem*^000000\nThese are the\nfamous last words\nof a mafia hit man...",
         "pt": "[Mestre Kavaruk]\nPor mais trágica que seja a história, Ícaro tinha um coração valente\ne é isso que rege os nossos valores.",
-        "es": "[Jet]\n^FF2400*Ejem*^000000\nEstas son las\núltimas palabras célebres\nde un asesino a sueldo de la mafia…"
+        "es": "[Jet]\n^333333*Ejem*^000000\nEstas son las\núltimas palabras célebres\nde un asesino a sueldo de la mafia…"
     },
     "FV2IBg": {
         "en": "[Jet]\n'Who put the\nviolin in this\nviolin case?!'\nBwahahahahahahah!\nGet the joke?",
@@ -115,7 +115,7 @@
         "es": "Sign"
     },
     "F12IBg": {
-        "en": "Archer Job Change Office  --->  \n <---     Icarus",
+        "en": "Archer Job Change Office  --->\n <---     Icarus",
         "pt": "[Mestre Kavaruk]\nArpesto está esperando lá fora.\nEle é um veterano\ne poderá te ajudar",
         "es": "Oficina de cambio de clase a Arquero --->  \n <--- Ícaro"
     },
@@ -141,7 +141,7 @@
     },
     "HF2IBg": {
         "en": "Talk about Archers.",
-        "pt": "[Mestre Kavaruk]\nAh! Que bom\nque está aqui, {}.\nAcabei de receber um pedido da Guilda dos\nAlquimistas, em Al De Baran.",
+        "pt": "[Mestre Kavaruk]\nAh! Que bom\nque está aqui, {PcName}.\nAcabei de receber um pedido da Guilda dos\nAlquimistas, em Al De Baran.",
         "es": "Hablar sobre los Arqueros."
     },
     "HV2IBg": {
@@ -205,9 +205,9 @@
         "es": "[Maestro Kavaruk]\nResulta que saben mucho sobre las clases relacionadas con los Arqueros. ¿Por qué no hablas con ellos y aprendes más sobre\nestas otras clases?"
     },
     "KV2IBg": {
-        "en": "[Master Kavaruk]\nOh, it's a good thing\nyou're here, {}.\nI've just received request for support from the Alchemist\nGuild in Al De Baran.",
+        "en": "[Master Kavaruk]\nOh, it's a good thing\nyou're here, {0}.\nI've just received request for support from the Alchemist\nGuild in Al De Baran.",
         "pt": "[Mestre Kavaruk]\nEu não sei...\nRecentemente, não ouvi nenhuma novidade relevante.",
-        "es": "[Maestro Kavaruk]\nAh, qué bueno\nque estés aquí, {}.\nAcabo de recibir una solicitud de apoyo\ndel gremio de Alquimistas de Aldebaran."
+        "es": "[Maestro Kavaruk]\nAh, qué bueno\nque estés aquí, {0}.\nAcabo de recibir una solicitud de apoyo\ndel gremio de Alquimistas de Aldebaran."
     },
     "Kl2IBg": {
         "en": "[Master Kavaruk]\nThey've been taking care\nof a Flora field as a way of supplying their funds, but recently some stray cats seem to have been destroying the plants there.",
@@ -222,12 +222,12 @@
     "LF2IBg": {
         "en": "[Master Kavaruk]\nThey are willing to give rewards for bringing materials such as ^3131FFManeater Blossoms^000000 and ^3131FFStems^000000 which will help them restore\ntheir Flora.",
         "pt": "Hum!\nVocê tem interesse\nem se tornar um Arqueiro?",
-        "es": "[Maestro Kavaruk]\nEstán dispuestos a ofrecer recompensas a quienes les lleven materiales como ^990000Flores carnívoras^000000 y ^990000Tallos^000000, que los ayudarán a restaurar\nsus Floras."
+        "es": "[Maestro Kavaruk]\nEstán dispuestos a ofrecer recompensas a quienes les lleven materiales como ^3131FFFlores carnívoras^000000 y ^3131FFTallos^000000, que los ayudarán a restaurar\nsus Floras."
     },
     "LV2IBg": {
         "en": "[Master Kavaruk]\nIf you're interested, it would probably be best to speak to the Alchemist Guild member who is waiting to hear from us at the ^3131FFshop next to the road south of Icarus^000000.",
         "pt": "Mas você é um expert. Suponho que queira relembrar os básicos, certo?",
-        "es": "[Maestro Kavaruk]\nSi te interesa, lo mejor sería hablar con el miembro del gremio de Alquimistas que está esperando noticias nuestras en la ^990000tienda junto a la carretera al sur de Ícaro^000000."
+        "es": "[Maestro Kavaruk]\nSi te interesa, lo mejor sería hablar con el miembro del gremio de Alquimistas que está esperando noticias nuestras en la ^3131FFtienda junto a la carretera al sur de Ícaro^000000."
     },
     "Ll2IBg": {
         "en": "[Master Kavaruk]\nHmmm...\n..........",
@@ -257,7 +257,7 @@
     "M12IBg": {
         "en": "[Master Kavaruk]\nWould you please go find\n^3131FFArthail of the Wind^000000 for me? Although he doesn't like people, I've ordered for him to wander within the crowds to gather information.",
         "pt": "[Mestre Kavaruk]\nSeisner é bem diligente,\ncomposta, inteligente e\nextremamente capaz. Você \naprenderá muito com ela.",
-        "es": "[Maestro Kavaruk]\n¿Podrías ir a buscar a\n^990000Arthail del Viento^000000 por mí? Aunque no le gusta la gente, le ordené que deambule entre la multitud para recabar información."
+        "es": "[Maestro Kavaruk]\n¿Podrías ir a buscar a\n^3131FFArthail del Viento^000000 por mí? Aunque no le gusta la gente, le ordené que deambule entre la multitud para recabar información."
     },
     "NF2IBg": {
         "en": "[Master Kavaruk]\nPlease find out if he is all right and help him with whatever he\nmay need. In the meantime, I will be waiting to hear from you. Thank you very much.",
@@ -332,12 +332,12 @@
     "Ql2IBg": {
         "en": "[Master Kavaruk]\nAh yes. Well then, please\ntake this message over to ^3131FFSeisner^000000 who is in the Training Grounds west of Icarus.",
         "pt": "[Reidin Corse]\nHum. Foi o Mestre\nKavaruk que te trouxe até aqui, né?",
-        "es": "[Maestro Kavaruk]\nAh, sí. Entonces,\nlleva este mensaje a ^990000Seisner^000000 que se encuentra en el campo de entrenamiento al oeste de Ícaro."
+        "es": "[Maestro Kavaruk]\nAh, sí. Entonces,\nlleva este mensaje a ^3131FFSeisner^000000 que se encuentra en el campo de entrenamiento al oeste de Ícaro."
     },
     "Q12IBg": {
         "en": "^3355FFYou've received\nKavaruk's message\nfor Seisner.^000000",
         "pt": "[Reidin Corse]\nHum?\nOK. Mas você tava com um cara de dúvida...",
-        "es": "^2502FDRecibiste\nel mensaje de Kavaruk\npara Seisner.^000000"
+        "es": "^3355FFRecibiste\nel mensaje de Kavaruk\npara Seisner.^000000"
     },
     "RF2IBg": {
         "en": "[Master Kavaruk]\nSeisner is very diligent,\ncomposed, intelligent and\nextremely capable. I believe\nthat you can learn much from her.",
@@ -352,17 +352,17 @@
     "Rl2IBg": {
         "en": "[Master Kavaruk]\nHmm...?\nWhat are you still\ndoing here? Go to the\nhills west of Icarus and\ntalk to ^3131FFSeisner^000000 to begin your special training.",
         "pt": "Sim senhor, Mestre!",
-        "es": "[Maestro Kavaruk]\n¿Mmm…?\n¿Todavía\nestás aquí? Ve a las\ncolinas al oeste de Ícaro y\nhabla con ^990000Seisner^000000 para comenzar tu entrenamiento especial."
+        "es": "[Maestro Kavaruk]\n¿Mmm…?\n¿Todavía\nestás aquí? Ve a las\ncolinas al oeste de Ícaro y\nhabla con ^3131FFSeisner^000000 para comenzar tu entrenamiento especial."
     },
     "R12IBg": {
-        "en": "[Master Kavaruk]\nSo {},\nDid you have a good experience? Learning theory alone is never too enjoyable, but it is necessary.",
+        "en": "[Master Kavaruk]\nSo {0},\nDid you have a good experience? Learning theory alone is never too enjoyable, but it is necessary.",
         "pt": "Sem chances!",
-        "es": "[Maestro Kavaruk]\nAsí que, {},\n¿tuviste una buena experiencia? Aprender solo teoría no es muy divertido, pero es necesario."
+        "es": "[Maestro Kavaruk]\nAsí que, {0},\n¿tuviste una buena experiencia? Aprender solo teoría no es muy divertido, pero es necesario."
     },
     "SF2IBg": {
         "en": "[Master Kavaruk]\nNow it is time to experience the principles you've just learned firsthand. Go speak to ^3131FFReidin Corse^000000, who is just outside of this building, and he'll tell you about the different skills.",
         "pt": "[Reidin Corse]\nÉ assim que eu gosto!",
-        "es": "[Maestro Kavaruk]\nAhora llegó el momento de experimentar de primera mano los principios que acabas de aprender. Ve a hablar con ^990000Reidin Corse^000000, que está justo fuera de este edificio, y te hablará de las diferentes habilidades."
+        "es": "[Maestro Kavaruk]\nAhora llegó el momento de experimentar de primera mano los principios que acabas de aprender. Ve a hablar con ^3131FFReidin Corse^000000, que está justo fuera de este edificio, y te hablará de las diferentes habilidades."
     },
     "SV2IBg": {
         "en": "[Master Kavaruk]\nStill, there's no need for you to do any field training since only Archers can actually participate\nin that.",
@@ -447,7 +447,7 @@
     "WV2IBg": {
         "en": "[Reidin Corse]\nFrom here on out, you gotta\ncall me ^3131FFChief^000000, got it? Stick with me and you'll become the second best archer in the world! How\nabout it, kid?",
         "pt": "[Reidin Corse]\nComo arqueiros, precisamos saber prever o movimento de nossos inimigos mesmo à distância.",
-        "es": "[Reidin Corse]\nDe aquí en adelante, tienes que\ndecirme “^990000jefe^000000”, ¿entendido? ¡Quédate conmigo y tendrás el segundo puesto entre los Arqueros del mundo! ¿Qué\nte parece?"
+        "es": "[Reidin Corse]\nDe aquí en adelante, tienes que\ndecirme “^3131FFjefe^000000”, ¿entendido? ¡Quédate conmigo y tendrás el segundo puesto entre los Arqueros del mundo! ¿Qué\nte parece?"
     },
     "Wl2IBg": {
         "en": "You got it, Chief!",
@@ -482,7 +482,7 @@
     "YF2IBg": {
         "en": "^3355FFReidin Corse narrows his experienced eyes and sizes you up.^000000",
         "pt": "Ok! Vamos!",
-        "es": "^2502FD(Reidin Corse entrecierra sus experimentados ojos y te evalúa).^000000"
+        "es": "^3355FF(Reidin Corse entrecierra sus experimentados ojos y te evalúa).^000000"
     },
     "YV2IBg": {
         "en": "[Reidin Corse]\nHey! You're ready to change jobs, aren't you? Don't waste time here and just get a new job already! Eh, or you can ask Master Kavaruk for something to do.",
@@ -547,7 +547,7 @@
     "bV2IBg": {
         "en": "[Reidin Corse]\nNow, open your Skill Window (Alt+S). You oughta be able to see two skills: ^FF0000Owl's Eye^000000 and ^FF0000Double Strafe^000000. First, I'll talk about Owl's Eye.",
         "pt": "[Reidin Corse]\nÁguias são conhecidas por atacarem suas presas com rapidez e agilidade.",
-        "es": "[Reidin Corse]\nAhora, abre tu ventana de habilidades (Alt+S). Deberías poder ver dos habilidades: ^660000Ojo de búho^000000 y ^660000Flecha doble^000000. En primer lugar, te hablaré de Ojo de búho."
+        "es": "[Reidin Corse]\nAhora, abre tu ventana de habilidades (Alt+S). Deberías poder ver dos habilidades: ^FF0000Ojo de búho^000000 y ^FF0000Flecha doble^000000. En primer lugar, te hablaré de Ojo de búho."
     },
     "bl2IBg": {
         "en": "[Reidin Corse]\nWe Archers need to be able to preceive the movements of our targets from far away. Now, even during the night, nothing can escape the eyes of an owl.",
@@ -562,7 +562,7 @@
     "cF2IBg": {
         "en": "[Reidin Corse]\nNow, your first assignment\nis to learn ^3131FFLevel 3 Owl's Eye^000000!\nYou need to go to ^3131FF the south side of Morocc^000000 right away, you can fight Condors for your training.",
         "pt": "[Reidin Corse]\nAgora, sugiro que você cace Mandrágoras!\nElas não se movem, então são o alvo perfeito para atacar à distância!",
-        "es": "[Reidin Corse]\nTu primera tarea\nes aprender ^990000el nivel3 de Ojo de búho^000000.\nTienes que ir al ^990000lado sur de Morroc^000000 de inmediato y luchar contra los Cóndores para entrenar."
+        "es": "[Reidin Corse]\nTu primera tarea\nes aprender ^3131FFel nivel3 de Ojo de búho^000000.\nTienes que ir al ^3131FFlado sur de Morroc^000000 de inmediato y luchar contra los Cóndores para entrenar."
     },
     "cV2IBg": {
         "en": "[Reidin Corse]\nYou can head somewhere\nelse if you want, but if you don't know any training areas, then\njust follow my great advice.",
@@ -582,7 +582,7 @@
     "dF2IBg": {
         "en": "[Reidin Corse]\nThen I will send you to Morocc,\nso don't forget the way to go there next time.\nIt's ^3131FFthe south side of Morocc^000000.",
         "pt": "[Reidin Corse]\nAqui estão algumas Flechas de Fogo. As Mandrágoras são monstros de propriedade Terra, então essas flechas serão bem úteis.",
-        "es": "[Reidin Corse]\nEntonces, te enviaré a Morroc,\nasí que no olvides el camino para ir allí la próxima vez.\nEs ^990000el lado sur de Morroc^000000."
+        "es": "[Reidin Corse]\nEntonces, te enviaré a Morroc,\nasí que no olvides el camino para ir allí la próxima vez.\nEs ^3131FFel lado sur de Morroc^000000."
     },
     "dV2IBg": {
         "en": "Leave right away~",
@@ -661,7 +661,7 @@
     },
     "hF2IBg": {
         "en": "Sharp, precise eyes.",
-        "pt": "[{}]\nErrr...\nEu já conheço essa habilidade...",
+        "pt": "[{PcName}]\nErrr...\nEu já conheço essa habilidade...",
         "es": "Ojos agudos y precisos."
     },
     "hV2IBg": {
@@ -677,7 +677,7 @@
     "h12IBg": {
         "en": "[Reidin Corse]\nHahahaha!\nWell, I am famous\nfor my incredible\nvision and precision!\n^333333*Ahem*^000000 Anyway...",
         "pt": "[Reidin Corse]\nA Rajada de Flechas permite que você dê dois disparos de uma vez!",
-        "es": "[Reidin Corse]\n¡Ja, ja, ja, ja!\n¡Bueno, soy famoso\npor mi increíble\nvista y precisión!\n^FF2400*Ejem*^000000 En fin…"
+        "es": "[Reidin Corse]\n¡Ja, ja, ja, ja!\n¡Bueno, soy famoso\npor mi increíble\nvista y precisión!\n^333333*Ejem*^000000 En fin…"
     },
     "iF2IBg": {
         "en": "[Reidin Corse]\nVultures circle the sky, find a target on the ground, and then very swiftly swoop down and ensnare their prey in their claws.",
@@ -692,7 +692,7 @@
     "il2IBg": {
         "en": "[Reidin Corse]\nThe ^3131FFVulture's Eye^000000 skill allows\nyou to train your vision to be like a vulture's. You'll increase your Attack Accuracy and can target enemies from further away.",
         "pt": "[Reidin Corse]\nNem eu a dominei ainda. Mas se você treinar bastante, talvez fique proficiente no uso dessa habilidade!",
-        "es": "[Reidin Corse]\nLa habilidad ^990000Ojo de buitre^000000 permite\nque entrenes tu visión para que sea como la de un buitre. Aumentarás tu precisión de ataque y podrás apuntar a los enemigos desde más lejos."
+        "es": "[Reidin Corse]\nLa habilidad ^3131FFOjo de buitre^000000 permite\nque entrenes tu visión para que sea como la de un buitre. Aumentarás tu precisión de ataque y podrás apuntar a los enemigos desde más lejos."
     },
     "i12IBg": {
         "en": "[Reidin Corse]\nI know that you can attack\nfrom a distance now, but don't\nbe satisfied with just your current attack range. Learn Vulture's Eye so you can attack from even further distances.",
@@ -797,12 +797,12 @@
     "n12IBg": {
         "en": "[Reidin Corse]\nToday I'll tell\nyou all about\n^3131FFDouble Strafe^000000!\nWhaddya think?\nExciting, yes?",
         "pt": "[Reidin Corse]\nConseguiu bater um papo com a Mafra? Ela é bem tímida, mas acho que vocês vão se dar bem.",
-        "es": "[Reidin Corse]\n¡Hoy te contaré\ntodo sobre\n^990000Flecha doble^000000!\n¿Qué te parece?\nEs emocionante, ¿verdad?"
+        "es": "[Reidin Corse]\n¡Hoy te contaré\ntodo sobre\n^3131FFFlecha doble^000000!\n¿Qué te parece?\nEs emocionante, ¿verdad?"
     },
     "oF2IBg": {
-        "en": "[{}]\nI...\nI already know\nabout Double Strafe.",
+        "en": "[{0}]\nI...\nI already know\nabout Double Strafe.",
         "pt": "[Reidin Corse]\nE por fim, mas não menos importante, te digo que você passou no teste!\nParabéns! Aqui está uma pequena recompensa!",
-        "es": "[{}]\nYa…\nya sé\nsobre Flecha doble."
+        "es": "[{0}]\nYa…\nya sé\nsobre Flecha doble."
     },
     "oV2IBg": {
         "en": "[Reidin Corse]\n......",
@@ -811,8 +811,8 @@
     },
     "ol2IBg": {
         "en": "[Reidin Corse]\n^333333*Sigh*^000000\nNext lesson...",
-        "pt": "[Reidin Corse]\nBem, {},\nfoi um prazer conhecer você. Espero que nunca desista do caminho dos Arqueiros! Espero te ver novamente em breve!",
-        "es": "[Reidin Corse]\n^FF2400*Suspira*^000000\nSiguiente lección…"
+        "pt": "[Reidin Corse]\nBem, {PcName},\nfoi um prazer conhecer você. Espero que nunca desista do caminho dos Arqueiros! Espero te ver novamente em breve!",
+        "es": "[Reidin Corse]\n^333333*Suspira*^000000\nSiguiente lección…"
     },
     "o12IBg": {
         "en": "[Reidin Corse]\nJust like its name, Double Strafe allows you to attack enemies with your arrows twice in a row! Booyah~",
@@ -832,7 +832,7 @@
     "pl2IBg": {
         "en": "[Reidin Corse]\nNow, there's another skill known as ^FF0000Arrow Shower^000000. Where Double Strafe uses 2 Arrows, Arrow Shower fires a bunch of arrows at once.",
         "pt": "[Arpesto]\nReidin...\nPare de brincar.\nEi, você. O líder da Guilda Icarus está naquele prédio.",
-        "es": "[Reidin Corse]\nHay otra habilidad conocida como ^660000Lluvia de flechas^000000. Mientras que Flecha doble utiliza 2flechas, Lluvia de flechas dispara un montón de flechas a la vez."
+        "es": "[Reidin Corse]\nHay otra habilidad conocida como ^FF0000Lluvia de flechas^000000. Mientras que Flecha doble utiliza 2flechas, Lluvia de flechas dispara un montón de flechas a la vez."
     },
     "p12IBg": {
         "en": "[Reidin Corse]\nNot even I can handle\nArrow Shower all that well since it's really hard. Still, maybe if you trained more at it, you'd manage to pull it off?",
@@ -857,12 +857,12 @@
     "q12IBg": {
         "en": "Rocker is an earth-property monster!! ^3131FFEarth property is stronger than wind but weaker than the fire property.^000000",
         "pt": "[Reidin Corse]\nÉ verdade... Acho que essa pessoa\nsó precisa relembrar essa habilidade",
-        "es": "¡Los Rockeros son monstruos de propiedad Tierra! ^990000La propiedad Tierra es más fuerte que Viento, pero más débil que la propiedad Fuego.^000000"
+        "es": "¡Los Rockeros son monstruos de propiedad Tierra! ^3131FFLa propiedad Tierra es más fuerte que Viento, pero más débil que la propiedad Fuego.^000000"
     },
     "rF2IBg": {
         "en": "[Reidin Corse]\nGo kill the Rockers and bring me ^3131FF10 Grasshopper's Leg^000000, and by doing that, you'll pass this test.",
         "pt": "[Arpesto]\nRelembrar? Hmm, isso significa\nque vamos ensinar novamente sem custo nenhum.\nAqui está a habilidade Flecha Fantasma.",
-        "es": "[Reidin Corse]\nVe a matar a los Rockeros y tráeme ^99000010Patas de saltamontes^000000. Con eso, pasarás esta prueba."
+        "es": "[Reidin Corse]\nVe a matar a los Rockeros y tráeme ^3131FF10Patas de saltamontes^000000. Con eso, pasarás esta prueba."
     },
     "rV2IBg": {
         "en": "[Reidin Corse]\nRemember that you need to pass through the southern gate of Prontera and then move to west side!\nWell, then go on your way.",
@@ -882,7 +882,7 @@
     "sF2IBg": {
         "en": "[Reidin Corse]\nHey...\nYou gotta bring\n^3131FF10 Tentacles^000000 and\n^3131FF1 Crystal Blue^000000 to pass my midterm! Go back to the dungeon on Byalan Island and get them!",
         "pt": "[Arpesto]\nRápido, traga-me\n^0064005 Rubis Amaldiçoados^000000,\n^00640030 Rações para Bichinhos^000000 and\n^0064005 Penas de Harpia^000000.\nE aí poderei te ensinar\na Flecha Fantasma.",
-        "es": "[Reidin Corse]\nOye…\n¡Tienes que traer\n^99000010Tentáculos^000000 y\n^9900001unidad de Azul cristal^000000 para aprobar mi examen parcial! ¡Vuelve a la mazmorra de la Isla Byalan y consíguelos!"
+        "es": "[Reidin Corse]\nOye…\n¡Tienes que traer\n^3131FF10Tentáculos^000000 y\n^3131FF1unidad de Azul cristal^000000 para aprobar mi examen parcial! ¡Vuelve a la mazmorra de la Isla Byalan y consíguelos!"
     },
     "sV2IBg": {
         "en": "[Reidin Corse]\nAlright, now there's only\none more skill you need to know about. Personally, I think this one is crucial for every Archer...",
@@ -892,7 +892,7 @@
     "sl2IBg": {
         "en": "[Reidin Corse]\nOpen your Skill Window.\nMake sure that you learn\n^FF0000Increase Concentration^000000.\nNow, how can I describe\nhow to do it?",
         "pt": "[Arpesto]\nHmm, ainda te falta um pouco de experiência...\nVolte quando estiver na segunda classe.",
-        "es": "[Reidin Corse]\nAbre la ventana de habilidades.\nAsegúrate de aprender\n^660000Aumento de concentración^000000.\nAhora, ¿cómo puedo describir\ncómo hacerlo?"
+        "es": "[Reidin Corse]\nAbre la ventana de habilidades.\nAsegúrate de aprender\n^FF0000Aumento de concentración^000000.\nAhora, ¿cómo puedo describir\ncómo hacerlo?"
     },
     "s12IBg": {
         "en": "[Reidin Corse]\nI guess that first, you gotta quiet your mind and enter a state of complete concentration. Steadily draw your bowstring back. If there's even a millisecond of imbalance, you'll miss.",
@@ -902,7 +902,7 @@
     "tF2IBg": {
         "en": "[Reidin Corse]\nWe use Increase Concentration\nto keep ourselves calm and focused to ^3131FFmaximize certain abilities and stats^000000. This skill enhances our performance as Archers immensely!",
         "pt": "Hmmm, não...",
-        "es": "[Reidin Corse]\nUtilizamos Aumento de concentración\npara mantener la tranquilidad y concentración para ^990000maximizar ciertas habilidades y estadísticas^000000. Esta habilidad mejora enormemente nuestro rendimiento como Arqueros."
+        "es": "[Reidin Corse]\nUtilizamos Aumento de concentración\npara mantener la tranquilidad y concentración para ^3131FFmaximizar ciertas habilidades y estadísticas^000000. Esta habilidad mejora enormemente nuestro rendimiento como Arqueros."
     },
     "tV2IBg": {
         "en": "[Reidin Corse]\nYou might not be able\nto see it now, but as you become more skilled, you'll eventually recognize all the benefits of this skill.",
@@ -912,7 +912,7 @@
     "tl2IBg": {
         "en": "[Reidin Corse]\n^333333*Sigh*^000000\nIt was a pain in the\nass, but we're finally\ndone with all of your lessons.",
         "pt": "[Arpesto]\nPreciso de\n^0064005 Rubis Amaldiçoados^000000,\n^00640030 Rações para Bichinho^000000 e\n^0064005 Penas de Harpia^000000.",
-        "es": "[Reidin Corse]\n^FF2400*Suspira*^000000\nFue un dolor\nde cabeza, pero por fin terminamos\ntodas tus lecciones."
+        "es": "[Reidin Corse]\n^333333*Suspira*^000000\nFue un dolor\nde cabeza, pero por fin terminamos\ntodas tus lecciones."
     },
     "t12IBg": {
         "en": "[Reidin Corse]\nAh, but it's not time for\nyou to relax yet! Since I've given you a midterm, it's only fitting that I also give you a final!",
@@ -927,7 +927,7 @@
     "uV2IBg": {
         "en": "[Reidin Corse]\nNow, go to Mt. Mjolnir and hunt Floras. Your test will be to bring back ^3131FF5 Maneater Blossoms^000000 and\n^3131FF20 Stems^000000.",
         "pt": "[Reidin Corse]\n...\n......\n.........\n...........Ahaaaaaaam.",
-        "es": "[Reidin Corse]\nAhora, ve al monte Mjolnir y caza Floras. Tu prueba será traer de vuelta ^9900005Flores carnívoras^000000 y\n^99000020Tallos^000000."
+        "es": "[Reidin Corse]\nAhora, ve al monte Mjolnir y caza Floras. Tu prueba será traer de vuelta ^3131FF5Flores carnívoras^000000 y\n^3131FF20Tallos^000000."
     },
     "ul2IBg": {
         "en": "[Reidin Corse]\nI know it's a little dangerous,\nbut I've got a pal who'll be there to help you. Of course, she's still in training, but...",
@@ -975,14 +975,14 @@
         "es": "[Reidin Corse]\nSi hablas con él, el maestro Kavaruk podría tener algo para que hagas. Resulta que me tiene de acá para allá con sus recados\ntambién. ¡Ese asqueroso!"
     },
     "w12IBg": {
-        "en": "[Reidin Corse]\nWell, {},\nIt'd make me really happy if you get to the point where you develop a true love for the art of archery. I'll see you sometime, okay?",
+        "en": "[Reidin Corse]\nWell, {0},\nIt'd make me really happy if you get to the point where you develop a true love for the art of archery. I'll see you sometime, okay?",
         "pt": "Atributos para Arqueiros",
-        "es": "[Reidin Corse]\nBueno, {},\nme haría muy feliz que llegaras al punto de desarrollar un verdadero amor por el arte de la arquería. Nos vemos, ¿sí?"
+        "es": "[Reidin Corse]\nBueno, {0},\nme haría muy feliz que llegaras al punto de desarrollar un verdadero amor por el arte de la arquería. Nos vemos, ¿sí?"
     },
     "xF2IBg": {
         "en": "[Reidin Corse]\nOur targets are the Worm Tails and Spores which threaten ^3131FFPayon forest^000000.\n10 Pointed Scales and 10 Mushroom Spores! Never forget it~!",
         "pt": "Encerrar conversa.",
-        "es": "[Reidin Corse]\nNuestros objetivos son las Colas de gusano y las Esporas que amenazan ^990000el bosque de Payon^000000.\n¡10Escamas puntiagudas y 10Esporas de hongo! ¡Nunca lo olvides~!"
+        "es": "[Reidin Corse]\nNuestros objetivos son las Colas de gusano y las Esporas que amenazan ^3131FFel bosque de Payon^000000.\n¡10Escamas puntiagudas y 10Esporas de hongo! ¡Nunca lo olvides~!"
     },
     "xV2IBg": {
         "en": "[Reidin Corse]\nI really like this town.\nThere's so much lush greenery\nand the birds are always singing. Payon really is peaceful.",
@@ -1002,7 +1002,7 @@
     "yF2IBg": {
         "en": "[Reidin Corse]\nAllow me to introduce myself. I'm the Archer of all Archers, ^3131FFReidin Corse^000000, Master of the Icarus Guild!",
         "pt": "[Seisner]\nArqueiros experientes podem evoluir para uma das segundas classes: ^006400Caçadores^000000, ^006400Bardos^000000 (restrito para personagens do sexo masculino) ou ^006400Odaliscas^000000 (restrita para personagens do sexo feminino).",
-        "es": "[Reidin Corse]\nPermíteme que me presente. ¡Soy el mejor de todos los Arqueros, ^990000Reidin Corse^000000, maestro del gremio Ícaro!"
+        "es": "[Reidin Corse]\nPermíteme que me presente. ¡Soy el mejor de todos los Arqueros, ^3131FFReidin Corse^000000, maestro del gremio Ícaro!"
     },
     "yV2IBg": {
         "en": "[Reidin Corse]\nRight now, we're having a special event! The application fee for the Icarus Guild has been slashed by 50%! Join now and there'll be no annual fees!",
@@ -1022,7 +1022,7 @@
     "zF2IBg": {
         "en": "[Reidin Corse]\nJoin right now\nfor a one time fee of only ^3131FF1,000,000, zeny^000000! Hurry and join the Icarus Guild while\nthis offer still lasts!",
         "pt": "Força",
-        "es": "[Reidin Corse]\n¡Únete ahora mismo\npor una única cuota de solo ^9900001000000 zeny^000000! ¡Date prisa y únete al gremio Ícaro mientras\ndura esta oferta!"
+        "es": "[Reidin Corse]\n¡Únete ahora mismo\npor una única cuota de solo ^3131FF1000000 zeny^000000! ¡Date prisa y únete al gremio Ícaro mientras\ndura esta oferta!"
     },
     "zV2IBg": {
         "en": "[Arpesto]\nReidin...\nStop messing around.\nHey there, kid. The real\nmaster of the Icarus Guild\nis in that building.",
@@ -1036,8 +1036,8 @@
     },
     "z12IBg": {
         "en": "[Reidin Corse]\n^333333*Sigh*^000000\nYou got me, you got me.\nThere's no application fee.\nBut I'll still date all of\nthose cute girls...",
-        "pt": "^0063FFInteligência^000000",
-        "es": "[Reidin Corse]\n^FF2400*Suspira*^000000\nMe atrapaste, me atrapaste.\nNo hay cuota de inscripción.\nPero aún así saldré con\ntodas esas chicas lindas…"
+        "pt": "^333333Inteligência^000000",
+        "es": "[Reidin Corse]\n^333333*Suspira*^000000\nMe atrapaste, me atrapaste.\nNo hay cuota de inscripción.\nPero aún así saldré con\ntodas esas chicas lindas…"
     },
     "0F2IBg": {
         "en": "Arpesto",
@@ -1095,7 +1095,7 @@
         "es": "[Reidin Corse]\n¡Espera! Espera…\n¿No la habías llamado\nLa tercera forma de Arpesto,\no algo así, al principio?"
     },
     "212IBg": {
-        "en": "[Arpesto]\nEr, yes, Arpesto's\n3rd Form, that's right.\nIt's just there's just so\nmany of them, that... \nAnyway, let me teach you\nthe ''Emergency Arrow'' skill.",
+        "en": "[Arpesto]\nEr, yes, Arpesto's\n3rd Form, that's right.\nIt's just there's just so\nmany of them, that...\nAnyway, let me teach you\nthe ''Emergency Arrow'' skill.",
         "pt": "[Seisner]\nAlém disso, ter mais Inteligência aumentará o dano causado por ^006400Falcões^000000, caso você deseje se tornar um Caçador.",
         "es": "[Arpesto]\nEh, sí,\nLa tercer forma de Arpesto.\nEs solo que hay\nmuchas y… \nEn cualquier caso, déjame enseñarte\nla habilidad “Flecha de emergencia”."
     },
@@ -1126,8 +1126,8 @@
     },
     "4V2IBg": {
         "en": "[Reidin Corse]\nYeah, that was the one!\n''^3131FFPhantasmic Arrow^000000'' sounds\nsoooo much cooler than that\nother name you came up with!",
-        "pt": "[Seisner]\nPara Caçadores, a Sorte aumenta a chance de ativar automaticamente o ^006400Ataque Aéreo^000000.",
-        "es": "[Reidin Corse]\n¡Sí, ese era!\n“^990000Flecha fantasmagórica^000000”\nsuena mucho mejor que\nel otro nombre que se te ocurrió."
+        "pt": "[Seisner]\nPara Caçadores, a Sorte aumenta a chance de ativar automaticamente o ^3131FFAtaque Aéreo^000000.",
+        "es": "[Reidin Corse]\n¡Sí, ese era!\n“^3131FFFlecha fantasmagórica^000000”\nsuena mucho mejor que\nel otro nombre que se te ocurrió."
     },
     "4l2IBg": {
         "en": "[Arpesto]\nYou can be pretty handy\nsometimes, Reidin. Now,\nback to the matter at hand.\nI shall teach you my awesome\nskill, Phantasmic Arrow. Now...\nReady your mind and body!",
@@ -1147,17 +1147,17 @@
     "5V2IBg": {
         "en": "[Arpesto]\n^333333*Pant Pant*^000000\nAlright, I used a special\ntechnique to teach you the\nskill-- directly into your brain. You should be able to use it\nnow. Why don't give it a try?",
         "pt": "[Seisner]\nAgora, sugiro que volte a falar com o Mestre Kavaruk. Mas é claro -- se quiser que eu explique mais uma vez, é só conversar comigo novamente.",
-        "es": "[Arpesto]\n^FF2400*Jadea*^000000\nBueno, usé\nuna técnica especial para enseñarte la\nhabilidad… y grabarla directamente en tu cerebro. Ya deberías poder\nutilizarla. ¿Por qué no lo intentas?"
+        "es": "[Arpesto]\n^333333*Jadea*^000000\nBueno, usé\nuna técnica especial para enseñarte la\nhabilidad… y grabarla directamente en tu cerebro. Ya deberías poder\nutilizarla. ¿Por qué no lo intentas?"
     },
     "5l2IBg": {
         "en": "^3355FF*Swwwwwww!*\n*Bang!*^000000",
         "pt": "Noviça",
-        "es": "^2502FD*¡Shuuuuuuu!*\n*¡Bang!*^000000"
+        "es": "^3355FF*¡Shuuuuuuu!*\n*¡Bang!*^000000"
     },
     "512IBg": {
         "en": "[Arpesto]\n^333333*Pant Pant*\n*Cough Cough*\n*Cough Cough*^000000",
         "pt": "[Noviça]\nO-oi... Meu nome é Mafra. Como estou em treinamento para me tornar uma Noviça de verdade, estou ajudando as pessoas que passam pelo treinamento dele.\nEntão vamos treinar juntos... Tudo bem por você?",
-        "es": "[Arpesto]\n^FF2400*Jadea*\n*Cof, cof*\n*Cof, cof*^000000"
+        "es": "[Arpesto]\n^333333*Jadea*\n*Cof, cof*\n*Cof, cof*^000000"
     },
     "6F2IBg": {
         "en": "[Arpesto]\nWHHHHHHHY MEEEEE?!",
@@ -1167,7 +1167,7 @@
     "6V2IBg": {
         "en": "^3355FF*Thump*^000000",
         "pt": "Nah. Valeu, mas não.",
-        "es": "^2502FD*Golpe*^000000"
+        "es": "^3355FF*Golpe*^000000"
     },
     "6l2IBg": {
         "en": "[Reidin Corse]\nAr-Arpesto, no!\n...........................",
@@ -1187,7 +1187,7 @@
     "7V2IBg": {
         "en": "[Arpesto]\nHurry up and bring\n^3131FF5 Cursed Rubies^000000,\n^3131FF30 Pet Foods^000000 and\n^3131FF5 Harpy Feathers^000000.\nThen, I can teach you\nthe Emergency Arrow skill.",
         "pt": "[Noviça]\nPeraí... Eu te conheço...\nV-você é... ^2502FD*Boceja*^000000\nQue soninho. Aqui, uma cura pros seus ferimentos...",
-        "es": "[Arpesto]\nDate prisa y trae\n^9900005Rubíes malditos^000000,\n^99000030unidades de Comida para mascotas^000000 y\n^9900005Plumas de Arpía^000000.\nEntonces, podré enseñarte\nla habilidad Flecha de emergencia."
+        "es": "[Arpesto]\nDate prisa y trae\n^3131FF5Rubíes malditos^000000,\n^3131FF30unidades de Comida para mascotas^000000 y\n^3131FF5Plumas de Arpía^000000.\nEntonces, podré enseñarte\nla habilidad Flecha de emergencia."
     },
     "7l2IBg": {
         "en": "[Arpesto]\nAh, very nice.\nUm, as you demonstrated\nearlier, my teaching technique\nwas perfect. But next time, use\nthe skill on foes that deserve\nto be beaten, alright? Good.",
@@ -1212,7 +1212,7 @@
     "8l2IBg": {
         "en": "[Arpesto]\nIt's a handy skill that\nI developed while battling\nMedusas and running out\nof arrows. I simply call it,\n''^3131FFEmergency Arrow^000000.'' Would you\nbe interested in learning it?",
         "pt": "[Membro dos Alquimistas]\nGostaria de vender seus ^006400Caules^000000\ne ^006400Sementes de Planta Carnívora^000000?\nPagaremos ^00640030 Zeny^000000 por cada Caule e\n^006400130 Zeny^000000 por cada Semente de Planta Carnívora.",
-        "es": "[Arpesto]\nEs una habilidad muy útil que\ndesarrollé cuando luchaba\ncontra las Medusas y me quedé\nsin flechas. Simplemente la llamo,\n“^990000Flecha de emergencia^000000”. ¿Quieres\naprenderla?"
+        "es": "[Arpesto]\nEs una habilidad muy útil que\ndesarrollé cuando luchaba\ncontra las Medusas y me quedé\nsin flechas. Simplemente la llamo,\n“^3131FFFlecha de emergencia^000000”. ¿Quieres\naprenderla?"
     },
     "812IBg": {
         "en": "Yes, please!",
@@ -1242,12 +1242,12 @@
     "+F2IBg": {
         "en": "[Arpesto]\n^333333*Ahem*^000000 Please Reidin,\ndon't entertain unfounded\nrumors. It was only after\ncountless battles with Eddga\nthat I managed to invent and\nperfect Emergency Arrow.",
         "pt": "[Membro dos Alquimistas]\nPrecisamos MUITO de ^006400Caules^000000 e ^006400Sementes de Planta Carnívora^000000\nSem esses recursos, o pior acontecerá...",
-        "es": "[Arpesto]\n^FF2400*Ejem*^000000 Por favor, Reidin,\nno te dejes llevar por\nrumores sin fundamentos. Solo después de\nincontables batallas contra los Eddga\nlogré inventar y\nperfeccionar Flecha de emergencia."
+        "es": "[Arpesto]\n^333333*Ejem*^000000 Por favor, Reidin,\nno te dejes llevar por\nrumores sin fundamentos. Solo después de\nincontables batallas contra los Eddga\nlogré inventar y\nperfeccionar Flecha de emergencia."
     },
     "+V2IBg": {
         "en": "[Reidin Corse]\n^333333*Tsk tsk*^000000 Huh.\nI thought you said\nyou developed it while\nyou were fighting Medusas.",
-        "pt": "[Membro dos Alquimistas]\n^2502FD*Suspiro...*^000000\nNinguém vai nos ajudar?\nEstamos encarando uma crise!",
-        "es": "[Reidin Corse]\n^FF2400*Tsc, tsc.*^000000 Ajá.\nPensé que habías dicho\nque la desarrollaste mientras\nluchabas contra las Medusas."
+        "pt": "[Membro dos Alquimistas]\n^333333*Suspiro...*^000000\nNinguém vai nos ajudar?\nEstamos encarando uma crise!",
+        "es": "[Reidin Corse]\n^333333*Tsc, tsc.*^000000 Ajá.\nPensé que habías dicho\nque la desarrollaste mientras\nluchabas contra las Medusas."
     },
     "+l2IBg": {
         "en": "[Arpesto]\nA-anyway, please bring\nme the following items\nas tuition in exchange for\nme teaching you this skill.",
@@ -1257,7 +1257,7 @@
     "+12IBg": {
         "en": "[Arpesto]\nPlease bring me\n^3131FF5 Cursed Rubies^000000,\n^3131FF30 Pet Foods^000000 and\n^3131FF5 Harpy Feathers^000000.\nThen I can teach\nyou this skill.",
         "pt": "[Arthail]\nEu sou Arthail.\nEmbora seja um bardo, não tenho nenhuma música para compartilhar com você.",
-        "es": "[Arpesto]\nPor favor, tráeme\n^9900005Rubíes malditos^000000,\n^99000030unidades de Comida para mascotas^000000 y\n^9900005Plumas de Arpía^000000.\nEntonces, podré enseñarte\nesta habilidad."
+        "es": "[Arpesto]\nPor favor, tráeme\n^3131FF5Rubíes malditos^000000,\n^3131FF30unidades de Comida para mascotas^000000 y\n^3131FF5Plumas de Arpía^000000.\nEntonces, podré enseñarte\nesta habilidad."
     },
     "/F2IBg": {
         "en": "[Reidin Corse]\n30 Pet Foods?\nWhat the heck do\nyou need all that for?",
@@ -1317,11 +1317,11 @@
     "B16IBg": {
         "en": "^3355FFYou show Seisner\nthe letter that Master\nKavaruk has written\nto her for you.^000000",
         "pt": "[???]\n...",
-        "es": "^2502FDLe muestras a Seisner\nla carta que el maestro\nKavaruk le escribió\nsobre ti.^000000"
+        "es": "^3355FFLe muestras a Seisner\nla carta que el maestro\nKavaruk le escribió\nsobre ti.^000000"
     },
     "CF6IBg": {
         "en": "[Seisner]\nSo Master Kavaruk\nwants me to teach you\nabout Archers and Archery? Alright, what would you like to know more about?",
-        "pt": "[{}]\nHum?\nO que foi esse som?",
+        "pt": "[{PcName}]\nHum?\nO que foi esse som?",
         "es": "[Seisner]\n¿Así que el maestro Kavaruk\nquiere que te enseñe\nsobre los Arqueros y la arquería? Muy bien, ¿sobre qué te gustaría saber más?"
     },
     "CV6IBg": {
@@ -1331,7 +1331,7 @@
     },
     "Cl6IBg": {
         "en": "Stats for Archers",
-        "pt": "[{}]\nSão... São gritos! Vindo de dentro do Castelo de Prontera!",
+        "pt": "[{PcName}]\nSão... São gritos! Vindo de dentro do Castelo de Prontera!",
         "es": "Las estadísticas para Arqueros."
     },
     "C16IBg": {
@@ -1341,8 +1341,8 @@
     },
     "DF6IBg": {
         "en": "[Seisner]\nArchers specialize\nin shooting ^3131FFarrows^000000. We usually attack from a distance, but before we increase our Dodge Rate, we're pretty weak when it comes to one on one battles.",
-        "pt": "[{}]\nBom, deixa ele aí.\nVou investigar isso por conta própria.",
-        "es": "[Seisner]\nLos Arqueros se especializan\nen disparar ^990000flechas^000000. Solemos atacar a distancia, pero antes de aumentar nuestro índice de evasión, somos bastante débiles cuando se trata de batallas uno contra uno."
+        "pt": "[{PcName}]\nBom, deixa ele aí.\nVou investigar isso por conta própria.",
+        "es": "[Seisner]\nLos Arqueros se especializan\nen disparar ^3131FFflechas^000000. Solemos atacar a distancia, pero antes de aumentar nuestro índice de evasión, somos bastante débiles cuando se trata de batallas uno contra uno."
     },
     "DV6IBg": {
         "en": "[Seisner]\nTherefore, Archers tend to attack before the enemy gets too close.\nWe also like to party with other people who can offer close\nrange protection.",
@@ -1357,7 +1357,7 @@
     "D16IBg": {
         "en": "[Seisner]\nWell experienced Archers can move on and change to the Second Job Class, becoming ^3131FFHunters^000000, ^3131FFBards^000000 if they are male, or ^3131FFDancers^000000 if they are female.",
         "pt": "[Arthail]\nEntão quer dizer que ninguém falou nada\nsobre a gritaria que você ouviu?\nMuito esquisito...",
-        "es": "[Seisner]\nLos Arqueros experimentados pueden pasar a la segunda clase y convertirse en ^990000Cazadores^000000; ^990000Bardos^000000, si son hombres, o ^990000Bailarinas^000000, si son mujeres."
+        "es": "[Seisner]\nLos Arqueros experimentados pueden pasar a la segunda clase y convertirse en ^3131FFCazadores^000000; ^3131FFBardos^000000, si son hombres, o ^3131FFBailarinas^000000, si son mujeres."
     },
     "EF6IBg": {
         "en": "[Seisner]\nIf you reach Level 99\nas a Second Job Class character, you can change to a Transcendent Class with Valkyrie's help.",
@@ -1367,7 +1367,7 @@
     "EV6IBg": {
         "en": "[Seisner]\nHunters can ultimately transcend into ^3131FFSnipers^000000, Bards into ^3131FFMinstrels^000000, and Dancers into ^3131FFGypsies^000000. I know that's pretty complex.",
         "pt": "[Arthail]\nHum, vou investigar isso mais a fundo.\nPor ora, sugiro retornar a Payon e falar ao Mestre Kavaruk que estou bem.",
-        "es": "[Seisner]\nLos Cazadores pueden trascender y convertirse en ^990000Francotiradores^000000, los Bardos en ^990000Juglares^000000, y las Bailarinas en ^990000Divas^000000. Sé que es bastante complejo."
+        "es": "[Seisner]\nLos Cazadores pueden trascender y convertirse en ^3131FFFrancotiradores^000000, los Bardos en ^3131FFJuglares^000000, y las Bailarinas en ^3131FFDivas^000000. Sé que es bastante complejo."
     },
     "El6IBg": {
         "en": "[Seisner]\nSo you want to\nknow more about Stats\nand how they affect Archer abilities? I'll do my best to explain.",
@@ -1382,7 +1382,7 @@
     "FF6IBg": {
         "en": "^3131FFAGI^000000",
         "pt": "Novo Líder",
-        "es": "^990000AGI^000000."
+        "es": "^3131FFAGI^000000."
     },
     "FV6IBg": {
         "en": "VIT",
@@ -1391,13 +1391,13 @@
     },
     "Fl6IBg": {
         "en": "^FF9900INT^000000",
-        "pt": "[Novo Líder]\nSeguro em minhas mãos este ^006400Emperium^000000, sinal de que fui escolhido pelo destino! Peço a vocês, ó corajosos, de que\nme emprestem um pouco de suas forças!",
-        "es": "^CC6600INT^000000."
+        "pt": "[Novo Líder]\nSeguro em minhas mãos este ^FF9900Emperium^000000, sinal de que fui escolhido pelo destino! Peço a vocês, ó corajosos, de que\nme emprestem um pouco de suas forças!",
+        "es": "^FF9900INT^000000."
     },
     "F16IBg": {
         "en": "^FF3131DEX^000000",
         "pt": "[Novo Líder]\nContanto que essa joia esteja em minha posse,\nnada poderá nos impedir!",
-        "es": "^FF3333DES^000000."
+        "es": "^FF3131DES^000000."
     },
     "GF6IBg": {
         "en": "LUK",
@@ -1407,7 +1407,7 @@
     "GV6IBg": {
         "en": "[Seisner]\nSTR typically increases the damage of attacks. However, Archer class characters use weapons that rely on ^FF3131DEX^000000 to increase their damage.",
         "pt": "[Maga]\nVocê viu o tal do\nNovo Líder?\nQue cara sem noção!",
-        "es": "[Seisner]\nLa FUE suele aumentar el daño de los ataques. Sin embargo, los personajes de la clase Arquero utilizan armas que dependen de la ^FF3333DES^000000 para aumentar su daño."
+        "es": "[Seisner]\nLa FUE suele aumentar el daño de los ataques. Sin embargo, los personajes de la clase Arquero utilizan armas que dependen de la ^FF3131DES^000000 para aumentar su daño."
     },
     "Gl6IBg": {
         "en": "[Seisner]\nIn a sense, STR might not be necessary for Archers, although I'm sure there are skills or situations where STR will come in handy.",
@@ -1425,19 +1425,19 @@
         "es": "[Seisner]\nAumentar la FUE también\naumentará el peso\nque puede llevar cualquier personaje. Así que si tienes más FUE, puedes llevar más flechas."
     },
     "HV6IBg": {
-        "en": "[Seisner]\n^FF3131AGI^000000 as you know, \n^3131FFincreases Attack Speed\n(ASPD)^000000 and affects ^3131FF Dodge Rate^000000.",
+        "en": "[Seisner]\n^FF3131AGI^000000 as you know,\n^3131FFincreases Attack Speed\n(ASPD)^000000 and affects ^3131FF Dodge Rate^000000.",
         "pt": "Ministro",
-        "es": "[Seisner]\nLa ^FF3333AGI^000000, como ya sabrás, \n^990000aumenta la velocidad de ataque\n(VELA)^000000 y afecta al ^990000índice de evasión^000000."
+        "es": "[Seisner]\nLa ^FF3131AGI^000000, como ya sabrás, \n^3131FFaumenta la velocidad de ataque\n(VELA)^000000 y afecta al ^3131FFíndice de evasión^000000."
     },
     "Hl6IBg": {
         "en": "[Seisner]\nOne of the drawbacks of being an Archer is having weaker strength and lower Dodge Rate. However, the Dodge Rate disadvantage is lessened by increasing your ^FF3131AGI^000000.",
         "pt": "[Ministro]\nA Família Real está bastante ocupada\nno momento, lidando com a administração de nossa nação.\nConverse com as criadas para resolver assuntos pouco importantes.",
-        "es": "[Seisner]\nUna de las desventajas de los Arqueros es que tienen menos fuerza y un índice de evasión más bajo. Sin embargo, la desventaja del índice de evasión se compensa con el aumento de tu ^FF3333AGI^000000."
+        "es": "[Seisner]\nUna de las desventajas de los Arqueros es que tienen menos fuerza y un índice de evasión más bajo. Sin embargo, la desventaja del índice de evasión se compensa con el aumento de tu ^FF3131AGI^000000."
     },
     "H16IBg": {
         "en": "[Seisner]\n^3131FFVIT^000000 will increase\nyour Maximum HP and\nresistance to damage.",
-        "pt": "[{}]\nEu escutei gritos\nlá de fora! Aconteceu algo?",
-        "es": "[Seisner]\nLa ^990000VIT^000000 aumentará\ntus PV máximos y\ntu resistencia a los daños."
+        "pt": "[{PcName}]\nEu escutei gritos\nlá de fora! Aconteceu algo?",
+        "es": "[Seisner]\nLa ^3131FFVIT^000000 aumentará\ntus PV máximos y\ntu resistencia a los daños."
     },
     "IF6IBg": {
         "en": "[Seisner]\nAlthough Archers don't\nspecialize in having any special kind of defense, having VIT will help alleviate the defensive weakness of the Archer class.",
@@ -1452,17 +1452,17 @@
     "Il6IBg": {
         "en": "[Seisner]\n^FF0000INT^000000 is more\nimportant to the\nArcher class than\nyou would think~",
         "pt": "^000099A expressão de urgência do Ministro foi substituída\npor um olhar gelado e ameaçador. É melhor nem falar mais nada.",
-        "es": "[Seisner]\nLa ^660000INT^000000 es más\nimportante para la\nclase Arquero de lo que\npodrías pensar~."
+        "es": "[Seisner]\nLa ^FF0000INT^000000 es más\nimportante para la\nclase Arquero de lo que\npodrías pensar~."
     },
     "I16IBg": {
         "en": "[Seisner]\nAs you increase ^FF0000INT^000000, you'll raise your Maximum SP, meaning you\ncan use special skills more often.",
-        "pt": "[{}]\nHm...\nOuvi dizer que\na Família Real\npode estar encarando problemas.\nPosso ajudar de alguma forma?",
-        "es": "[Seisner]\nA medida que aumentes la ^660000INT^000000, aumentarás tus PM máximos, lo que significa que\npuedes utilizar habilidades especiales más a menudo."
+        "pt": "[{PcName}]\nHm...\nOuvi dizer que\na Família Real\npode estar encarando problemas.\nPosso ajudar de alguma forma?",
+        "es": "[Seisner]\nA medida que aumentes la ^FF0000INT^000000, aumentarás tus PM máximos, lo que significa que\npuedes utilizar habilidades especiales más a menudo."
     },
     "JF6IBg": {
         "en": "[Seisner]\nFor Hunters, one of the Second Job Classes for Archers, having higher INT will increase the damage inflicted by ^3131FFFalcons^000000.",
         "pt": "[Ministro]\nVocê deve estar enganado.\nA Família Real está bem.",
-        "es": "[Seisner]\nPara los Cazadores, una de las segundas clases de los Arqueros, tener una INT más alta aumentará el daño infligido por los ^990000Halcones^000000."
+        "es": "[Seisner]\nPara los Cazadores, una de las segundas clases de los Arqueros, tener una INT más alta aumentará el daño infligido por los ^3131FFHalcones^000000."
     },
     "JV6IBg": {
         "en": "[Seisner]\nNow DEX is almost\nwithout a doubt the\nmost important stat\nfor any Archer.",
@@ -1472,7 +1472,7 @@
     "Jl6IBg": {
         "en": "[Seisner]\n^FF3131DEX^000000 ^3131FFincreases the damage^000000\nof Archer class weapons that fire arrows. These include ^3131FFBows^000000, ^3131FFInstruments^000000 and ^3131FFWhips^000000.",
         "pt": "[Ministro]\nAvise a Igreja de Prontera, e rápido!",
-        "es": "[Seisner]\nLa ^FF3333DES^000000 ^990000aumenta el daño^000000\nde las armas de la clase Arquero que disparan flechas. Se trata de los ^990000arcos^000000, ^990000instrumentos^000000 y ^990000látigos^000000."
+        "es": "[Seisner]\nLa ^FF3131DES^000000 ^3131FFaumenta el daño^000000\nde las armas de la clase Arquero que disparan flechas. Se trata de los ^3131FFarcos^000000, ^3131FFinstrumentos^000000 y ^3131FFlátigos^000000."
     },
     "J16IBg": {
         "en": "[Seisner]\nDexterity enhances an Archer's ability to hit weak points and do more damage, which is why weapons that use arrows don't rely on STR like weapons used by other classes.",
@@ -1482,17 +1482,17 @@
     "KF6IBg": {
         "en": "[Seisner]\nJust like any other class, ^FF3131DEX^000000 increases ^3131FFAccuracy (HIT)^000000 and slightly enhances Attack Speed (ASPD).",
         "pt": "[Bispo Maugins]\nOlá.\nPosso te ajudar com alguma coisa?\nVocê veio até aqui se confessar?",
-        "es": "[Seisner]\nAl igual que cualquier otra clase, la ^FF3333DES^000000 aumenta la ^990000precisión (PREC)^000000 y mejora ligeramente la velocidad de ataque (VELA)."
+        "es": "[Seisner]\nAl igual que cualquier otra clase, la ^FF3131DES^000000 aumenta la ^3131FFprecisión (PREC)^000000 y mejora ligeramente la velocidad de ataque (VELA)."
     },
     "KV6IBg": {
         "en": "[Seisner]\n^FF0000LUK^000000 affects your\nPerfect Dodge rate\nand Critical rate.",
         "pt": "[Bispo Maugins]\nHm? O Palácio?\nSim, eu sou responsável por ele também.",
-        "es": "[Seisner]\nLa ^660000SUE^000000 afecta a tu\níndice de Evasión perfecta\ne índice crítico."
+        "es": "[Seisner]\nLa ^FF0000SUE^000000 afecta a tu\níndice de Evasión perfecta\ne índice crítico."
     },
     "Kl6IBg": {
         "en": "[Seisner]\nFor Hunters, one of the Second Classes for the Archer, LUK increases the chance of ^3131FFBlitz Beat^000000 occurring automatically. So Hunters who rely on their Falcons might want to invest in LUK.",
         "pt": "Aconteceu algo no Palácio?",
-        "es": "[Seisner]\nPara los Cazadores, una de las segundas clases del Arquero, la SUE aumenta la posibilidad de que ^990000Golpe relámpago^000000 ocurra automáticamente. Así que los Cazadores que dependen de sus Halcones podrían querer invertir en SUE."
+        "es": "[Seisner]\nPara los Cazadores, una de las segundas clases del Arquero, la SUE aumenta la posibilidad de que ^3131FFGolpe relámpago^000000 ocurra automáticamente. Así que los Cazadores que dependen de sus Halcones podrían querer invertir en SUE."
     },
     "K16IBg": {
         "en": "[Seisner]\nSo is there\nanything else that\nyou want to ask me?",
@@ -1570,27 +1570,27 @@
     },
     "PF6IBg": {
         "en": "[Acolyte]\nAnd he's so brave\nand funny and smart.\nY-you're lucky to have him.\n^333333*Sniff*^000000 I... I...",
-        "es": "[Acólita]\nY es tan valiente,\ndivertido e inteligente.\nT-tienes suerte de tenerlo.\n^FF2400*Solloza*^000000 Yo… Yo…"
+        "es": "[Acólita]\nY es tan valiente,\ndivertido e inteligente.\nT-tienes suerte de tenerlo.\n^333333*Solloza*^000000 Yo… Yo…"
     },
     "PV6IBg": {
         "en": "[Acolyte]\n^333333*Sniffle*^000000\nI'll d-do my best to help you!\nI wish you both happiness! (Waaaaaah~!)",
-        "es": "[Acólita]\n^FF2400*Solloza*^000000\n¡Haré lo q-que pueda para ayudarte!\nLes deseo felicidad a los dos. *¡Buaaaaa~!*"
+        "es": "[Acólita]\n^333333*Solloza*^000000\n¡Haré lo q-que pueda para ayudarte!\nLes deseo felicidad a los dos. *¡Buaaaaa~!*"
     },
     "Pl6IBg": {
         "en": "[Acolyte]\n^666666Zzzzz...^000000\nWh-wha...?\nWho are you?",
-        "es": "[Acólita]\n^3299CC*Zzzzz…*^000000\n¿Q-qué…?\n¿Quién eres?"
+        "es": "[Acólita]\n^666666*Zzzzz…*^000000\n¿Q-qué…?\n¿Quién eres?"
     },
     "P16IBg": {
         "en": "[Acolyte]\nWait, I know...\nY-you're... ^666666*Yawn*^000000\nSo sleepy. Take this for now...",
-        "es": "[Acólita]\nEspera, ya sé…\nT-tú eres… ^3299CC*Bosteza*^000000\nQué sueño. Toma esto por ahora…"
+        "es": "[Acólita]\nEspera, ya sé…\nT-tú eres… ^666666*Bosteza*^000000\nQué sueño. Toma esto por ahora…"
     },
     "QF6IBg": {
         "en": "[Acolyte]\nReidin Corse?\nI can't believe\nI feel asleep fo--\n^666666Zzzzzzz...^000000",
-        "es": "[Acólita]\n¿Reidin Corse?\nNo puedo creer\nque me dorm…\n^3299CC*Zzzzzzz…*^000000"
+        "es": "[Acólita]\n¿Reidin Corse?\nNo puedo creer\nque me dorm…\n^666666*Zzzzzzz…*^000000"
     },
     "QV6IBg": {
         "en": "[Acolyte]\n^666666Zzzz^000000--Oooh!\nJ-just take this before\nI fall asleep again~! ^666666*Yawn*^000000",
-        "es": "[Acólita]\n^3299CC*Zzzz*^000000 …¡Aaah!\n¡S-solo toma esto antes de\nque me duerma otra vez~! ^3299CC*Bosteza*^000000"
+        "es": "[Acólita]\n^666666*Zzzz*^000000 …¡Aaah!\n¡S-solo toma esto antes de\nque me duerma otra vez~! ^666666*Bosteza*^000000"
     },
     "Ql6IBg": {
         "en": "[Acolyte]\nOkay~!\nLet me try\ncasting a spell\nto help you! Yaa~p!",
@@ -1598,7 +1598,7 @@
     },
     "Q16IBg": {
         "en": "[Acolyte]\n...\nW-why does\ntraveling make\nme sooo sleepy...?\n^666666Zzzzzzzz...^000000",
-        "es": "[Acólita]\n…\n¿P-por qué\nviajar\nme da tanto sueño…?\n^3299CC*Zzzzzzzz…*^000000"
+        "es": "[Acólita]\n…\n¿P-por qué\nviajar\nme da tanto sueño…?\n^666666*Zzzzzzzz…*^000000"
     },
     "RF6IBg": {
         "en": "Alchemist Guildmember",
@@ -1610,7 +1610,7 @@
     },
     "Rl6IBg": {
         "en": "[Alchemist Guildmember]\nWould you like to sell ^3131FFStems^000000\nand ^3131FFManeater Blossoms^000000 to\nthe Alchemist Guild? We'll buy\neach Stem for ^3131FF30 Zeny^000000 and each\nManeater Blossom for ^3131FF130 Zeny^000000.",
-        "es": "[Alquimista del gremio]\n¿Quieres vender ^990000Tallos^000000\ny ^990000Flores carnívoras^000000 al\ngremio de Alquimistas? Compraremos\ncada Tallo por ^99000030zeny^000000 y cada\nFlor carnívora por ^990000130zeny^000000."
+        "es": "[Alquimista del gremio]\n¿Quieres vender ^3131FFTallos^000000\ny ^3131FFFlores carnívoras^000000 al\ngremio de Alquimistas? Compraremos\ncada Tallo por ^3131FF30zeny^000000 y cada\nFlor carnívora por ^3131FF130zeny^000000."
     },
     "R16IBg": {
         "en": "Sell all Stems and Maneater Blossoms",
@@ -1638,11 +1638,11 @@
     },
     "TV6IBg": {
         "en": "[Alchemist Guildmember]\nWe'll reward you if you can bring us ^3131FFStems^000000 and ^3131FFManeater Blossoms^000000\nto help us in our field maintenance efforts. These Flora are crucial since they provide funds for our guild. Without them...",
-        "es": "[Alquimista del gremio]\nTe recompensaremos si nos traes ^990000Tallos^000000 y ^990000Flores carnívoras^000000\npara ayudarnos en nuestros esfuerzos de mantenimiento del campo. Estas Floras son cruciales, ya que proporcionan fondos para nuestro gremio. Sin ellas…"
+        "es": "[Alquimista del gremio]\nTe recompensaremos si nos traes ^3131FFTallos^000000 y ^3131FFFlores carnívoras^000000\npara ayudarnos en nuestros esfuerzos de mantenimiento del campo. Estas Floras son cruciales, ya que proporcionan fondos para nuestro gremio. Sin ellas…"
     },
     "Tl6IBg": {
         "en": "[Alchemist Guildmember]\n^666666*Sigh...*^000000\nIsn't anyone coming\nto help us? We're facing\na really huge crisis here!",
-        "es": "[Alquimista del gremio]\n^3299CC*Suspira…*^000000\n¿No viene nadie\na ayudarnos? ¡Nos enfrentamos a\nuna crisis realmente enorme!"
+        "es": "[Alquimista del gremio]\n^666666*Suspira…*^000000\n¿No viene nadie\na ayudarnos? ¡Nos enfrentamos a\nuna crisis realmente enorme!"
     },
     "T16IBg": {
         "en": "Arthail",
@@ -1702,7 +1702,7 @@
     },
     "XV6IBg": {
         "en": "[Arthail]\n^3131FFEmperium^000000...\nThere are a lot of ambitious people in Morroc that want one of those. Even in my hometown of Payon,\nthere are people clamoring to obtain one...",
-        "es": "[Arthail]\nUn ^990000Emperium^000000…\nHay mucha gente ambiciosa en Morroc que quiere uno de esos. Incluso en Payon, mi ciudad natal,\nhay gente que ansía obtener uno…"
+        "es": "[Arthail]\nUn ^3131FFEmperium^000000…\nHay mucha gente ambiciosa en Morroc que quiere uno de esos. Incluso en Payon, mi ciudad natal,\nhay gente que ansía obtener uno…"
     },
     "Xl6IBg": {
         "en": "[Arthail]\nSupposedly, having an Emperium\nwill give you the power to change the world. People are bound to be attracted to it.",
@@ -1722,7 +1722,7 @@
     },
     "Yl6IBg": {
         "en": "[Arthail]\n^333333*Yawn...*^000000\nI haven't talked\nlike this in so long.\nI'm so tired, I think\nI'll rest just a little...",
-        "es": "[Arthail]\n^FF2400*Bosteza…*^000000\nNo hablo\nasí desde hace mucho.\nEstoy muy cansado, creo\nque voy a descansar un poco…"
+        "es": "[Arthail]\n^333333*Bosteza…*^000000\nNo hablo\nasí desde hace mucho.\nEstoy muy cansado, creo\nque voy a descansar un poco…"
     },
     "Y16IBg": {
         "en": "[Arthail]\n..........",
@@ -1730,43 +1730,43 @@
     },
     "ZF6IBg": {
         "en": "^3355FFArthail of the Wind\nhas fallen fast asleep.^000000",
-        "es": "^2502FD(Arthail del Viento\nse durmió profundamente).^000000"
+        "es": "^3355FF(Arthail del Viento\nse durmió profundamente).^000000"
     },
     "ZV6IBg": {
-        "en": "[{}]\nAh...\nSo peaceful~",
-        "es": "[{}]\nAh…\nQué paz~."
+        "en": "[{0}]\nAh...\nSo peaceful~",
+        "es": "[{0}]\nAh…\nQué paz~."
     },
     "Zl6IBg": {
         "en": "^3355FFThe rhythm of the lapping waters gently eases you into a state of perfect relaxation. The cold, crisp water would feel so refreshing if you dipped your feet into it...^000000",
-        "es": "^2502FD(El ritmo del chapoteo del agua te sumerge suavemente en un estado de relajación perfecta. El agua fría y cristalina te refrescaría si sumergieras los pies en ella…).^000000"
+        "es": "^3355FF(El ritmo del chapoteo del agua te sumerge suavemente en un estado de relajación perfecta. El agua fría y cristalina te refrescaría si sumergieras los pies en ella…).^000000"
     },
     "Z16IBg": {
         "en": "[???]\n...",
         "es": "[¿¿¿???]\n…"
     },
     "aF6IBg": {
-        "en": "[{}]\nHuh?\nWhat was\nthat noise?",
-        "es": "[{}]\n¿Eh?\n¿Qué fue\nese ruido?"
+        "en": "[{0}]\nHuh?\nWhat was\nthat noise?",
+        "es": "[{0}]\n¿Eh?\n¿Qué fue\nese ruido?"
     },
     "aV6IBg": {
         "en": "[????]\nAAAAAAAAAAAAAAAHHHHHHHHHHH!!!!!",
         "es": "[¿¿¿???]\n¡AAAAAAAAAAAAAAAHHHHHHHHH!"
     },
     "al6IBg": {
-        "en": "[{}]\nWhat the--?!\nThat sounds like\nscreams coming from\ninside Prontera Castle!",
-        "es": "[{}]\n¡¿Qué…?!\n¡Parecen\ngritos que provienen del\ninterior del castillo de Prontera!"
+        "en": "[{0}]\nWhat the--?!\nThat sounds like\nscreams coming from\ninside Prontera Castle!",
+        "es": "[{0}]\n¡¿Qué…?!\n¡Parecen\ngritos que provienen del\ninterior del castillo de Prontera!"
     },
     "a16IBg": {
         "en": "^3355FFYou try to wake Arthail\nbut he's deeply asleep\nand won't budge at all.^000000",
-        "es": "^2502FD(Intentas despertar a Arthail\npero está profundamente dormido\ny no se mueve en absoluto).^000000"
+        "es": "^3355FF(Intentas despertar a Arthail\npero está profundamente dormido\ny no se mueve en absoluto).^000000"
     },
     "bF6IBg": {
-        "en": "[{}]\nI can't help it then.\nI'd better go check\nthis out on my own.",
-        "es": "[{}]\nEntonces, no tengo más remedio.\nSerá mejor que vaya a ver\nque pasa por mi cuenta."
+        "en": "[{0}]\nI can't help it then.\nI'd better go check\nthis out on my own.",
+        "es": "[{0}]\nEntonces, no tengo más remedio.\nSerá mejor que vaya a ver\nque pasa por mi cuenta."
     },
     "bV6IBg": {
         "en": "[Arthail]\n^333333Zzzzz...^000000",
-        "es": "[Arthail]\n^FF2400*Zzzzz…*^000000"
+        "es": "[Arthail]\n^333333*Zzzzz…*^000000"
     },
     "bl6IBg": {
         "en": "[Arthail]\nWhere did you go?\nI thought you might have been kidnapped since you weren't\nhere when I woke up.",
@@ -1802,7 +1802,7 @@
     },
     "dl6IBg": {
         "en": "[New Guild Master]\nI hold in my hand this ^3131FFEmperium^000000, sign that I am favored by destiny! Brave ones, I bid you, lend me\nyour power!",
-        "es": "[Maestro del nuevo gremio]\n¡Tengo en mi mano este ^990000Emperium^000000, la señal de que el destino me favorece! ¡Valientes, les pido que me presten\nsu poder!"
+        "es": "[Maestro del nuevo gremio]\n¡Tengo en mi mano este ^3131FFEmperium^000000, la señal de que el destino me favorece! ¡Valientes, les pido que me presten\nsu poder!"
     },
     "d16IBg": {
         "en": "[New Guild Master]\nNothing can stop us!\nSo long as this jewel\nis in my possession,\nthose who call themselves\nmy comrades will never\nknow the taste of defeat!",
@@ -1837,8 +1837,8 @@
         "es": "[Ministro]\nLa familia real\nestá muy ocupada\nen este momento, trabajando en\nla administración de nuestra nación.\nHabla con las sirvientas del salón por esos asuntos."
     },
     "f16IBg": {
-        "en": "[{}]\nI heard screams\nfrom outside! Did\nsomething happen?",
-        "es": "[{}]\n¡Oí gritos\ndesde afuera! ¿Ocurrió\nalgo?"
+        "en": "[{0}]\nI heard screams\nfrom outside! Did\nsomething happen?",
+        "es": "[{0}]\n¡Oí gritos\ndesde afuera! ¿Ocurrió\nalgo?"
     },
     "gF6IBg": {
         "en": "[Minister]\n...\n......",
@@ -1850,11 +1850,11 @@
     },
     "gl6IBg": {
         "en": "^3355FFThe urgency that the Minister expressed earlier has been\nreplaced with a stone cold feeling of sternness. He probably won't tell you much more information,\nno matter how much you ask him.",
-        "es": "^2502FD(La urgencia que el ministro expresó anteriormente fue\nsustituida por un frío sentimiento de severidad. Probablemente no te dará mucha más información,\npor mucho que le preguntes)."
+        "es": "^3355FF(La urgencia que el ministro expresó anteriormente fue\nsustituida por un frío sentimiento de severidad. Probablemente no te dará mucha más información,\npor mucho que le preguntes)."
     },
     "g16IBg": {
-        "en": "[{}]\nUm...\nI hear that\nthe royal family\nmight be in sort of\ntrouble. Is there any\nway I could help?",
-        "es": "[{}]\nEh…\nOí que\nla familia real\npodría estar en\nproblemas. ¿Puedo hacer algo\npara ayudar?"
+        "en": "[{0}]\nUm...\nI hear that\nthe royal family\nmight be in sort of\ntrouble. Is there any\nway I could help?",
+        "es": "[{0}]\nEh…\nOí que\nla familia real\npodría estar en\nproblemas. ¿Puedo hacer algo\npara ayudar?"
     },
     "hF6IBg": {
         "en": "[Minister]\nYou must be mistaken.\nThe royal family is fine,\nespecially since our\nkingdom is at peace.",

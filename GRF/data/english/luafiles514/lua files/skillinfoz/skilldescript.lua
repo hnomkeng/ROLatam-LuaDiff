@@ -6741,6 +6741,7 @@ SKILL_DESCRIPT = {
 		"0.005 seconds. This skill has the same success",
 		"rate as the Prepare Potion skill and has a",
 		"3 second cast time that is unaffected by DEX.",
+		"^ff0000If you do not have enough carrying capacity or inventory space, the skill will fail and materials will be consumed.^000000",
 		"^00BB00Each cast requires enough materials to craft",
 		"200 White Potions.^000000"
 	},
@@ -9970,8 +9971,8 @@ SKILL_DESCRIPT = {
 		"Put your will on the shield and give yourself an effect for 90 seconds.",
 		"Effect cannot be overlapped.^000000",
 		"Level l Bonus",
-		"[Lv 1]: ^777777Recovers 3% of MaxHP every 3 seconds.^000000",
-		"[Lv 2]: ^777777Recovers 5% of MaxSP every 5 seconds.^000000",
+		"[Lv 1]: ^777777Recovers 5% of MaxHP every 3 seconds.^000000",
+		"[Lv 2]: ^777777Recovers 3% of MaxSP every 5 seconds.^000000",
 		"[Lv 3]: ^777777ATQ and MATK +150.^000000"
 	},
 	[SKID.LG_EXEEDBREAK] = {

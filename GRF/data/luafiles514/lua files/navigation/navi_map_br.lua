@@ -742,6 +742,13 @@ Navi_Map = {
 		240
 	},
 	{
+		"com_d02_i",
+		"Ilusão de Luanda",
+		5001,
+		300,
+		300
+	},
+	{
 		"comodo",
 		"Cidade Litor?ea de Comodo ",
 		5001,

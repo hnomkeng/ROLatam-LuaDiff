@@ -5430,15 +5430,13 @@ StateIconList[EFST_IDs.EFST_PORK_RIB_STEW] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Braised Spare Ribs",
+			"Braised short ribs",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
+		{"ASPD +5%."},
 		{
-			"Increase ASPD."
-		},
-		{
-			"Reduce SP consumption."
+			"SP cost -2%."
 		}
 	}
 }
@@ -5457,15 +5455,15 @@ StateIconList[EFST_IDs.EFST_BEEF_RIB_STEW] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Braised Short Ribs",
+			"Grilled ribs",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Reduce Variable Casting Time."
+			"Var. cast -5%."
 		},
 		{
-			"Reduce SP consumption."
+			"SP cost -3%."
 		}
 	}
 }

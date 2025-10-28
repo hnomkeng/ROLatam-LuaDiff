@@ -5491,13 +5491,14 @@ StateIconList[EFST_IDs.EFST_PORK_RIB_STEW] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{"", COLOR_TITLE_BUFF},
-		{"%s", COLOR_TIME},
 		{
-			"Aumentar VELA"
+			" Costillas Estofadas",
+			COLOR_TITLE_BUFF
 		},
+		{" %s", COLOR_TIME},
+		{" VELA +5%."},
 		{
-			"Reducir el consumo de PM."
+			" Coste de SP -2%."
 		}
 	}
 }
@@ -5515,13 +5516,16 @@ StateIconList[EFST_IDs.EFST_BEEF_RIB_STEW] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{"", COLOR_TITLE_BUFF},
-		{"%s", COLOR_TIME},
 		{
-			"Reducir el tiempo de lanzamiento variable."
+			" Costillas Asadas",
+			COLOR_TITLE_BUFF
+		},
+		{" %s", COLOR_TIME},
+		{
+			" Conj. var. -5%."
 		},
 		{
-			"Reducir el consumo de PM."
+			" Coste de SP -3%."
 		}
 	}
 }

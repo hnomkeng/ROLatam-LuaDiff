@@ -43,21 +43,21 @@
     },
     "pwjgCA": {
         "ko": "금요일 메모리얼",
-        "en": "Friday",
+        "en": "Friday Memorial Dungeon",
         "pt": "Friday",
-        "es": "Friday"
+        "es": "Mazmorra del Viernes"
     },
     "qAjgCA": {
         "ko": "금요일 메모리얼 입장 준비",
-        "en": "Create Friday Memorial",
+        "en": "Create Friday Dungeon",
         "pt": "Gerar instância",
-        "es": "Crear Tumba del Monarca"
+        "es": "Crear la Mazmorra del Viernes"
     },
     "qQjgCA": {
         "ko": "금요일 메모리얼 입장",
-        "en": "Enter Friday Memorial",
+        "en": "Enter Friday Dungeon",
         "pt": "Entrar na instância",
-        "es": "Entrar en Tumba del Monarca"
+        "es": "Entrar la Mazmorra del Viernes"
     },
     "qgjgCA": {
         "ko": "파티명:{0}\n파티장:{1}\n^0000FF{2} ^000000- 예약실패",
@@ -67,9 +67,9 @@
     },
     "qwjgCA": {
         "ko": "[마리아쥬]\n입장용 통로를 마련해둘게요. 준비가 완료되면 제게 다시 말을 걸어 입장 하시면 되요.",
-        "en": "[Mariage]\nI will prepare an entrance passage. Once preparations are complete, speak to me again to enter.",
+        "en": "[Mariage]\nI will prepare an entrance passage. \nOnce preparations are complete, speak to me again to enter.",
         "pt": "[Mariaju]\nVou te colocar na fila. Quando a entrada liberar, fale comigo novamente para entrar.",
-        "es": "[Mariage]\nPrepararé un pasaje de entrada. Una vez que terminen los preparativos, háblame de nuevo para entrar."
+        "es": "[Mariage]\nPrepararé un pasaje de entrada. \nUna vez que terminen los preparativos, háblame de nuevo para entrar."
     },
     "rAjgCA": {
         "ko": "[마리아쥬]\n파티의 리더가 아니라면 입장 준비를 도울 수 없어요.",
@@ -79,9 +79,9 @@
     },
     "rQjgCA": {
         "ko": "[마리아쥬]\n아직 준비가 안되셨다구요? 그럼 어쩔 수 없죠.",
-        "en": "[Mariage]\nYou are not ready yet? Then there is nothing we can do.",
+        "en": "[Mariage]\nYou are not ready yet? \nThen there is nothing we can do.",
         "pt": "[Mariaju]\nBom, volte quando estiver com tudo pronto.",
-        "es": "[Mariage]\n¿Aún no estás listo? Entonces no hay nada que podamos hacer."
+        "es": "[Mariage]\n¿Aún no estás listo? \nEntonces no hay nada que podamos hacer."
     },
     "rgjgCA": {
         "ko": "[마리아쥬]\n알 수 없는 오류가 발생했습니다.",
@@ -105,7 +105,7 @@
         "ko": "{0} 파티의 {1} 파티원이 {2} 에 입장합니다",
         "en": "{0}'s party member {1} is entering {2}.",
         "pt": "{1}, do grupo {0}, entrou no Túmulo do Monarca.",
-        "es": "El miembro del grupo de {0}, {1}, está entrando en Tumba del Monarca."
+        "es": "El miembro del grupo de {0}, {1}, está entrando en Mazmorra del Viernes."
     },
     "sgjgCA": {
         "ko": "마리아쥬",
@@ -117,7 +117,7 @@
         "ko": "[마리아쥬]\n아 여긴 별로 쾌적하지 않은 것 같은데...",
         "en": "[Mariage]\nAh, this place doesn't seem very pleasant...",
         "pt": "[Mariaju]\nO clima está perfeito para um piquenique no Mirante ao lado de Geffen...",
-        "es": "[Mariage]\nEl clima es perfecto para un picnic en el Mirador junto a Geffen..."
+        "es": "[Mariage]\nAh, este lugar no parece muy agradable..."
     },
     "tAjgCA": {
         "ko": "^FF0000던전 안에서 몬스터 테이밍 등의 임의의 몬스터 처리를 하실 경우 정상적인 진행으로 간주하지 않습니다. 이 점 유의하시기 바랍니다.^000000",
@@ -135,37 +135,37 @@
         "ko": "^0000FF금요일 메모리얼 던전을 출입했던 후유증이 사라졌습니다. ^000000",
         "en": "^0000FF The aftereffects of entering the Friday Memorial Dungeon have disappeared. ^000000",
         "pt": "^0000FFO tempo de espera para visitar o Túmulo do Monarca sumiu^000000",
-        "es": "^0000FFEl tiempo de reutilización para visitar la Tumba del Monarca ha desaparecido.^000000"
+        "es": "^0000FFEl tiempo de reutilización para visitar la Mazmorra del Viernes ha desaparecido.^000000"
     },
     "twjgCA": {
         "ko": "[마리아쥬]\n요일 던전을 담당하고 있는 마리아쥬라고 해요. 우리 구면이죠?",
-        "en": "[Mariage]\nI'm Mariage, in charge of the daily dungeons. We're old friends, right?",
+        "en": "[Mariage]\nI'm Mariage, in charge of the daily dungeons. \nWe're old friends, right?",
         "pt": "[Mariaju]\nMeu nome é Mariaju, a exploradora de instâncias. Quer ouvir minha história?",
-        "es": "[Mariage]\nMe llamo Mariage, la exploradora de instancias. ¿Quieres escuchar mi historia?"
+        "es": "[Mariage]\nMe llamo Mariage, la exploradora de instancias. \n¿Quieres escuchar mi historia?"
     },
     "uAjgCA": {
         "ko": "[마리아쥬]\n이곳은 금요일 던전의 입구가 있는 게펜 타워예요. 말 그대로 금요일에만 열리는 공간이죠.",
-        "en": "[Mariage]\nThis is Geffen Tower, the entrance to the Friday dungeon. As the name suggests, it's only open on Fridays.",
+        "en": "[Mariage]\nThis is Geffen Tower, the entrance to the Friday dungeon. \nAs the name suggests, it's only open on Fridays.",
         "pt": "[Mariaju]\nA partir da Torre de Geffen, posso abrir uma passagem secreta para o Túmulo do Monarca.",
-        "es": "[Mariage]\nDesde la Torre Geffen, puedo abrir un pasaje secreto a la Tumba del Monarca."
+        "es": "[Mariage]\nEsta es la Torre Geffen, la entrada a la Mazmorra del Viernes. \nComo su nombre indica, solo abre los viernes."
     },
     "uQjgCA": {
         "ko": "[마리아쥬]\n이곳에선 거의 대부분의 액세서리에 인챈트를 부여할 수 있는 세공용 원석이 나온다고 해요.",
-        "en": "[Mariage]\nThey say you can find crafting stones here, which can be used to enchant almost any accessory.",
+        "en": "[Mariage]\nThey say you can find Rough Stones here, which can be used to enchant almost any accessory.",
         "pt": "[Mariaju]\nNesse lugar, você encontrará Pedras Brutas, que são necessárias para encantar quase todos os acessórios conhecidos.",
         "es": "[Mariage]\nEn este lugar encontrarás Piedras Brutas, necesarias para encantar casi todos los accesorios conocidos."
     },
     "ugjgCA": {
         "ko": "[마리아쥬]\n대부분... 이라곤 했지만 그 인챈트 작업을 하는 분이 제 옆의 초보 수집가 분이라. 사실상 일정수준 이상의 액세서리는 논외라고 보셔야 할 것 같아요.",
-        "en": "[Mariage]\nI said most of them... but the person doing the enchanting is a beginner collector next to me. Accessories above a certain level are out of the question.",
+        "en": "[Mariage]\nI said most of them... but the person doing the enchanting is a beginner collector next to me. \nAccessories above a certain level are out of the question.",
         "pt": "[Mariaju]\nQuando eu digo quase... é porque nem sempre o acessório que você quer encantar vai estar disponível.",
-        "es": "[Mariage]\nCuando digo casi... es porque el accesorio que quieres encantar no siempre estará disponible."
+        "es": "[Mariage]\nHe dicho la casi... pero la persona que hace el encantamiento es un Coleccionista Novato a mi lado. \nAccesorios por encima de un cierto nivel están fuera de la cuestión."
     },
     "uwjgCA": {
         "ko": "개장 시간을 정확하게 알려주세요.",
         "en": "Can you tell me the exact opening hours?",
         "pt": "Que dia a instância abre?",
-        "es": "¿Qué día abre la instancia?"
+        "es": "¿Puede decirme el horario exacto de apertura?"
     },
     "vAjgCA": {
         "ko": "저기 저 수상한 남자는 누굽니까?",
@@ -175,33 +175,33 @@
     },
     "vQjgCA": {
         "ko": "[마리아쥬]\n에 누구요? 우리 일행은 아닌데요? 개장 시간 안내나 마저 들으시죠.",
-        "en": "[Mariage]\nWho are you? He's not part of our group. Please listen to the opening hours.",
+        "en": "[Mariage]\nYou know what I don't know? \nHe's not part of our group. \nPlease listen to the opening hours.",
         "pt": "[Mariaju]\nSabe que eu não sei? Podemos continuar com a explicação? Preste atenção ao horário de funcionamento.",
-        "es": "[Mariage]\n¿Sabes que no lo sé? ¿Podemos seguir con la explicación? Presta atención al horario."
+        "es": "[Mariage]\n¿Sabes que no lo sé? \n¿Podemos seguir con la explicación? \nPresta atención al horario."
     },
     "vgjgCA": {
         "ko": "[마리아쥬]\n목요일 23:59 ~ 금요일 23:59 까지만 제한적으로 개방하고 있답니다. 지금은 금요일이 아니라서 입장객을 받고 있진 않아요.",
-        "en": "[Mariage]\nWe're only open from 11:59 PM on Thursday to 11:59 PM on Friday. It's not Friday, so we're not accepting visitors.",
+        "en": "[Mariage]\nWe're only open from 11:59 PM on Thursday to 11:59 PM on Friday. \nIt's not Friday, so we're not accepting visitors.",
         "pt": "[Mariaju]\nAbre apenas das 23h59 de quinta-feira às 23h59 de sexta-feira. Como não é sexta-feira, você não pode entrar.",
-        "es": "[Mariage]\nSolo abre de las 23:59 del jueves a las 23:59 del viernes. Como no es viernes, no puedes entrar."
+        "es": "[Mariage]\nSolo abre de las 23:59 del jueves a las 23:59 del viernes. \nComo no es viernes, no puedes entrar."
     },
     "vwjgCA": {
         "ko": "[마리아쥬]\n금요일이 되면 보자구요~",
         "en": "[Mariage]\nSee you on Friday~",
         "pt": "[Mariaju]\nVejo você na sexta-feira.",
-        "es": "[Mariage]\nNos vemos el viernes."
+        "es": "[Mariage]\nNos vemos el Viernes~"
     },
     "wAjgCA": {
         "ko": "[마리아쥬]\n마침 잘 오셨네요, 이제 막 개장 준비가 끝난 참이거든요. 지금 입장 하시겠어요?",
-        "en": "[Mariage]\nYou're welcome. We've just finished preparing for the opening. Would you like to enter now?",
+        "en": "[Mariage]\nYou're welcome. \nWe've just finished preparing for the opening. \nWould you like to enter now?",
         "pt": "[Mariaju]\nGostaria de entrar no Túmulo do Monarca?",
-        "es": "[Mariage]\n¿Te gustaría entrar a la Tumba del Monarca?"
+        "es": "[Mariage]\nDe nada. \nAcabamos de terminar los preparativos para la inauguración.\n¿Le gustaría entrar ahora?"
     },
     "wQjgCA": {
         "ko": "^0000FF레벨 99 미만의 모험가는 입장할 수 없습니다.^000000",
         "en": "^0000FFAdventurers under level 99 cannot enter.^000000",
         "pt": "^0000FFViajantes abaixo do nível 99 de não podem entrar.^000000",
-        "es": "^0000FFTrotamundos por debajo del nivel 99 no pueden entrar.^000000"
+        "es": "^0000FFTrotamundos menos del nivel 99 no pueden entrar.^000000"
     },
     "wgjgCA": {
         "ko": "^0000FF입장 가능한 요일이 아닙니다.^000000",
@@ -223,8 +223,8 @@
     },
     "xQjgCA": {
         "ko": "[마리아쥬]\n음? 무슨 말인지 잘 모르겠어요. 다시 이야기해줄래요?",
-        "en": "[Mariage]\nHmm? I don't quite understand what you're saying. Could you explain it again?",
+        "en": "[Mariage]\nHmm? \nI don't quite understand what you're saying. \nCould you explain it again?",
         "pt": "[Mariaju]\nHmm? Não tenho certeza do que você quer dizer. Você pode dizer de novo?",
-        "es": "[Mariage]\n¿Mmm? No estoy segura de a qué te refieres. ¿Puedes repetirlo?"
+        "es": "[Mariage]\n¿Mmm? \nNo estoy segura de a qué te refieres. \n¿Puedes repetirlo?"
     }
 }

@@ -7004,6 +7004,9 @@ SKILL_DESCRIPT = {
 		"A chance de criar cada poção é contada",
 		"individualmente e o sucesso é semelhante à",
 		"criação de Preparar Poção.^000000",
+		"^ff0000Se não possuir carga suficiente ou",
+		"espaço no inventário, a habilidade falha e",
+		"os materiais serão consumidos.^000000",
 		"^000088Consome 200 materiais de Poção Branca.^000000"
 	},
 	[SKID.AM_TWILIGHT2] = {
@@ -10826,8 +10829,8 @@ SKILL_DESCRIPT = {
 		"O bônus muda de acordo com o nível e não",
 		"acumula com os bônus dos outros níveis.^000000",
 		"Nível l Bônus",
-		"[Nv 1]: ^777777Cura 3% de HP a cada 3 segundos.^000000",
-		"[Nv 2]: ^777777Cura 5% de SP a cada 5 segundos.^000000",
+		"[Nv 1]: ^777777Cura 5% de HP a cada 3 segundos.^000000",
+		"[Nv 2]: ^777777Cura 3% de SP a cada 5 segundos.^000000",
 		"[Nv 3]: ^777777ATQ e ATQM +150.^000000"
 	},
 	[SKID.LG_EXEEDBREAK] = {

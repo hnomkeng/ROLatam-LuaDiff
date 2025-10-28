@@ -127,7 +127,8 @@ PetNameTable = {
 	[jobtbl.JT_NIGHTMARE_TERROR_H] = "nightmare_terror_mj",
 	[jobtbl.JT_WANDER_MAN_H] = "wander_man_mj",
 	[jobtbl.JT_DARK_LORD2] = "DARK_LORD2",
-	[jobtbl.JT_MISTRESS3] = "MISTRESS2"
+	[jobtbl.JT_MISTRESS3] = "MISTRESS2",
+	[jobtbl.JT_TIMEHOLDER3] = "TIMEHOLDER2"
 }
 PetIllustNameTable = {
 	[jobtbl.JT_BAPHOMET_] = "펫_바포메트.bmp",
@@ -261,7 +262,8 @@ PetIllustNameTable = {
 	[jobtbl.JT_NIGHTMARE_TERROR_H] = "Nightmare_Terror_H.bmp",
 	[jobtbl.JT_WANDER_MAN_H] = "Wander_Man_H.bmp",
 	[jobtbl.JT_DARK_LORD2] = "pet_DARK_LORD2.bmp",
-	[jobtbl.JT_MISTRESS3] = "Pet_MISTRESS2.bmp"
+	[jobtbl.JT_MISTRESS3] = "Pet_MISTRESS2.bmp",
+	[jobtbl.JT_TIMEHOLDER3] = "pet_TIMEHOLDER2.bmp"
 }
 PetIllustNameTable_Eng = {
 	[jobtbl.JT_BAPHOMET_] = "PET_BAPHOMET.bmp",
@@ -395,7 +397,8 @@ PetIllustNameTable_Eng = {
 	[jobtbl.JT_NIGHTMARE_TERROR_H] = "Nightmare_Terror_H.bmp",
 	[jobtbl.JT_WANDER_MAN_H] = "Wander_Man_H.bmp",
 	[jobtbl.JT_DARK_LORD2] = "pet_DARK_LORD2.bmp",
-	[jobtbl.JT_MISTRESS3] = "Pet_MISTRESS2.bmp"
+	[jobtbl.JT_MISTRESS3] = "Pet_MISTRESS2.bmp",
+	[jobtbl.JT_TIMEHOLDER3] = "pet_TIMEHOLDER2.bmp"
 }
 PetAccIDs = {
 	ACC_FIRST = 10000,
@@ -667,7 +670,8 @@ PetStringTable = {
 	[jobtbl.JT_NIGHTMARE_TERROR_H] = "굳은 나이트메어 테러",
 	[jobtbl.JT_WANDER_MAN_H] = "오염된 배회하는 자",
 	[jobtbl.JT_DARK_LORD2] = "다크 로드",
-	[jobtbl.JT_MISTRESS3] = "미스트레스"
+	[jobtbl.JT_MISTRESS3] = "미스트레스",
+	[jobtbl.JT_TIMEHOLDER3] = "타임홀더"
 }
 PetEggItemID_PetJobID = {
 	[9001] = jobtbl.JT_PORING,
@@ -800,7 +804,8 @@ PetEggItemID_PetJobID = {
 	[9116] = jobtbl.JT_NIGHTMARE_TERROR_H,
 	[9117] = jobtbl.JT_WANDER_MAN_H,
 	[9148] = jobtbl.JT_DARK_LORD2,
-	[9193] = jobtbl.JT_MISTRESS3
+	[9193] = jobtbl.JT_MISTRESS3,
+	[9171] = jobtbl.JT_TIMEHOLDER3
 }
 PetFoodTable = {
 	[jobtbl.JT_PORING] = 531,
@@ -935,5 +940,6 @@ PetFoodTable = {
 	[jobtbl.JT_NIGHTMARE_TERROR_H] = 537,
 	[jobtbl.JT_WANDER_MAN_H] = 537,
 	[jobtbl.JT_DARK_LORD2] = 25377,
-	[jobtbl.JT_MISTRESS3] = 25377
+	[jobtbl.JT_MISTRESS3] = 25377,
+	[jobtbl.JT_TIMEHOLDER3] = 25377
 }

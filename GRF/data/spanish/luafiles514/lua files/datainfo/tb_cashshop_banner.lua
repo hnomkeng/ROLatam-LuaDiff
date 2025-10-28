@@ -1,11 +1,11 @@
 tb_cashshop_banner = {
 	[1] = {
 		"01_Cashshop_Banner.bmp",
-		"https://ro.gnjoylatam.com/es/news/notice/169"
+		"https://ro.gnjoylatam.com/es/event/octoberroulette"
 	},
 	[2] = {
 		"02_Cashshop_Banner.bmp",
-		"https://ro.gnjoylatam.com/es/news/notice/169"
+		"https://ro.gnjoylatam.com/es/event/boosterevent"
 	},
 	[3] = {
 		"03_Cashshop_Banner.bmp",

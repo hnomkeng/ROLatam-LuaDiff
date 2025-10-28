@@ -6508,13 +6508,13 @@ QuestInfoList = {
 		Summary = "Gather materials"
 	},
 	[3365] = {
-		Title = "[Event] Luna the Magician",
+		Title = "[Event] Kadu the Magician",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"You heard someone was dispatched from Geffen Tower for this Fire Festival.",
-			"How about meeting up with <NAVI>[Mage Luna]<INFO>alberta,134,162,0,101,0</INFO></NAVI> and hear more about it?"
+			"How about meeting up with <NAVI>[Luna the Mage]<INFO>alberta,134,162,0,101,0</INFO></NAVI> and hear more about it?"
 		},
-		Summary = "Talk to Luna"
+		Summary = "Talk to Kadu"
 	},
 	[3366] = {
 		Title = "[Event] Serena the Hunter",
@@ -6546,7 +6546,7 @@ QuestInfoList = {
 		IconName = "ico_ev.bmp",
 		Description = {
 			"I need you to defeat 10 Revival Branch and bring me 10 High-quality branches. My honor and life depend on it!",
-			"Report to <NAVI>[Mage Luna]<INFO>alberta,134,162,0,101,0</INFO></NAVI> when you're done."
+			"Report to <NAVI>[Kadu the Mage]<INFO>alberta,134,162,0,101,0</INFO></NAVI> when you're done."
 		},
 		Summary = "Collect 10 High-quality branches"
 	},
@@ -6555,7 +6555,7 @@ QuestInfoList = {
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Luna is busy right now. Could you come back later in the morning?",
-			"Come back to <NAVI>[Mage Luna]<INFO>alberta,134,162,0,101,0</INFO></NAVI> tomorrow."
+			"Come back to <NAVI>[Kadu the Mage]<INFO>alberta,134,162,0,101,0</INFO></NAVI> tomorrow."
 		},
 		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1
@@ -11566,81 +11566,81 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[5727] = {
-		Title = "Invisible Quest",
+		Title = "Ban on Teleports",
 		Description = {
-			"Place Holder"
+			"Suddenly, a man named <NAVI>[Vero]<INFO>rebel_in,82,68,0,101,0</INFO></NAVI> appeared. He asked to work together. Let's return with him after 4 AM the next day."
 		},
-		Summary = "Place Holder"
+		Summary = "Resets at 4 AM."
 	},
 	[5728] = {
-		Title = "Invisible Quest",
+		Title = "Ban on Teleports",
 		Description = {
-			"Place Holder"
+			"Let's take a break and wait for Vero to recover."
 		},
-		Summary = "Place Holder"
+		Summary = "Talk to Vero"
 	},
 	[5729] = {
-		Title = "Invisible Quest",
+		Title = "Ban on Teleports",
 		Description = {
-			"Place Holder"
+			"Let's go to the freight train in <NAVI>[Einbech]<INFO>einbech,212,212,0,101,0</INFO></NAVI>. Bring ^C331201x Blazing Heart^000000."
 		},
-		Summary = "Place Holder"
+		Summary = "1 Blazing Heart"
 	},
 	[5730] = {
-		Title = "Invisible Quest",
+		Title = "Ban on Teleports",
 		Description = {
-			"Place Holder"
+			"It seems you need ^C331203x Mystic Ice^000000 to destroy the Teleport Ban device."
 		},
-		Summary = "Place Holder"
+		Summary = "3 Mystic Ice"
 	},
 	[5731] = {
-		Title = "Invisible Quest",
+		Title = "Ban on Teleports",
 		Description = {
-			"Place Holder"
+			"Device destroyed in Einbech. Let's return to <NAVI>[Rookie]<INFO>einbech,215,81,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "To Clana Nemieri"
 	},
 	[5732] = {
-		Title = "Invisible Quest",
+		Title = "Ban on Teleports",
 		Description = {
-			"Place Holder"
+			"Let's take ^C331201x Mystic Ice and 3x Rough Wind^000000 to the water source at the <NAVI>[Rekenber Corporation]<INFO>lighthalzen,137,231,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "To Lighthalzen"
 	},
 	[5733] = {
-		Title = "Invisible Quest",
+		Title = "Ban on Teleports",
 		Description = {
-			"Place Holder"
+			"Device destroyed in Lighthalzen. Let's return to <NAVI>[Rookie]<INFO>einbech,215,81,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "To Clana Nemieri"
 	},
 	[5734] = {
-		Title = "Invisible Quest",
+		Title = "Ban on Teleports",
 		Description = {
-			"Place Holder"
+			"It's hard to say no, so let's bring ^C331201x Star Fragment^000000."
 		},
-		Summary = "Place Holder"
+		Summary = "1 Star Fragment"
 	},
 	[5735] = {
-		Title = "Invisible Quest",
+		Title = "Ban on Teleports",
 		Description = {
-			"Place Holder"
+			"Let's go to <NAVI>[Juno]<INFO>yuno,206,224,0,101,0</INFO></NAVI>. Bring ^C331204x Grand Nature^000000."
 		},
-		Summary = "Place Holder"
+		Summary = "4 Grand Nature"
 	},
 	[5736] = {
-		Title = "Invisible Quest",
+		Title = "Ban on Teleports",
 		Description = {
-			"Place Holder"
+			"Bring ^C331203x Blazing Heart^000000 to the <NAVI>[Wind Park in Einbroch]<INFO>einbroch,260,40,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "3 Blazing Heart"
 	},
 	[5737] = {
-		Title = "Invisible Quest",
+		Title = "Ban on Teleports",
 		Description = {
-			"Place Holder"
+			"As soon as the device was destroyed, Vero also suddenly disappeared... we must return to <NAVI>[Rookie]<INFO>einbech,215,81,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "To Clana Nemieri"
 	},
 	[5846] = {
 		Title = "Corridor of Phantom",
@@ -11686,7 +11686,7 @@ QuestInfoList = {
 		Description = {
 			"<NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>  will reward you tomorrow."
 		},
-		Summary = "Reset at 4 AM­",
+		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1,
 		NpcSpr = "4_M_THAIONGBAK",
 		NpcNavi = "com_d02_i",
@@ -11716,7 +11716,7 @@ QuestInfoList = {
 		Description = {
 			"<NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>  will reward you tomorrow."
 		},
-		Summary = "Reset at 4 AM­",
+		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1,
 		NpcSpr = "4_M_THAIONGBAK",
 		NpcNavi = "com_d02_i",
@@ -11727,7 +11727,11 @@ QuestInfoList = {
 		Title = "Megalith Hunt",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"We planned to subdue the Megalith tribe. Please defeat\n\t\t\t5 <NAVI>[Ancient Tri Joint]<INFO>ILL_TRI_JOINT,0,0,3,-222,1</INFO></NAVI>, \n\t\t\t5 <NAVI>[Ancient Stalactic Golem]<INFO>ILL_STALACTIC_GOLEM,0,0,3,-222,1</INFO></NAVI>, \n\t\t\t5 <NAVI>[Ancient Megalith]<INFO>ILL_MEGALITH,0,0,3,-222,1</INFO></NAVI>\n\t\t\tand report to­ <NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>."
+			"We planned to subdue the Megalith tribe. Please defeat",
+			"5 <NAVI>[Ancient Tri Joint]<INFO>ILL_TRI_JOINT,0,0,3,-222,1</INFO></NAVI>, ",
+			"5 <NAVI>[Ancient Stalactic Golem]<INFO>ILL_STALACTIC_GOLEM,0,0,3,-222,1</INFO></NAVI>, ",
+			"5 <NAVI>[Ancient Megalith]<INFO>ILL_MEGALITH,0,0,3,-222,1</INFO></NAVI>",
+			"and report to <NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>."
 		},
 		Summary = "",
 		NpcSpr = "4_M_THAIONGBAK",
@@ -11746,7 +11750,7 @@ QuestInfoList = {
 		Description = {
 			"<NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>  will reward you tomorrow."
 		},
-		Summary = "Reset at 4 AM­",
+		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1,
 		NpcSpr = "4_M_THAIONGBAK",
 		NpcNavi = "com_d02_i",
@@ -11757,7 +11761,11 @@ QuestInfoList = {
 		Title = "Wootan Hunt",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"We planned to subdue the Wootan tribe. Please defeat\n\t\t\t5 <NAVI>[Ancient Stone Shooter]<INFO>ILL_STONE_SHOOTER,0,0,3,-222,1</INFO></NAVI>, \n\t\t\t5 <NAVI>[Ancient Wootan Shooter]<INFO>ILL_WOOTAN_SHOOTER,0,0,3,-222,1</INFO></NAVI>, \n\t\t\t5 <NAVI>[Ancient Wootan Fighter]<INFO>ILL_WOOTAN_FIGHTER,0,0,3,-222,1</INFO></NAVI>\n\t\t\tand report to­ <NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>."
+			"We planned to subdue the Wootan tribe. Please defeat",
+			"5 <NAVI>[Ancient Stone Shooter]<INFO>ILL_STONE_SHOOTER,0,0,3,-222,1</INFO></NAVI>, ",
+			"5 <NAVI>[Ancient Wootan Shooter]<INFO>ILL_WOOTAN_SHOOTER,0,0,3,-222,1</INFO></NAVI>, ",
+			"5 <NAVI>[Ancient Wootan Fighter]<INFO>ILL_WOOTAN_FIGHTER,0,0,3,-222,1</INFO></NAVI>",
+			"and report to <NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>."
 		},
 		Summary = "",
 		NpcSpr = "4_M_THAIONGBAK",
@@ -11776,7 +11784,7 @@ QuestInfoList = {
 		Description = {
 			"<NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>  will reward you tomorrow."
 		},
-		Summary = "Reset at 4 AM­",
+		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1,
 		NpcSpr = "4_M_THAIONGBAK",
 		NpcNavi = "com_d02_i",
@@ -17693,228 +17701,248 @@ QuestInfoList = {
 		Summary = "Talk to Gnocchi"
 	},
 	[7731] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"We need to know who Bruno is. First, let's meet Crux at the <NAVI>[airport]<INFO>lhz_airport,189,39,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "Talk to Crux"
 	},
 	[7732] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"Let's look for Bruno in <NAVI>[Lighthalzen]<INFO>lighthalzen,186,293,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "Find Bruno"
 	},
 	[7733] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"I know where Bruno is going. Tell Skia, who is waiting near the department store in Lighthalzen, and let's go to the slum to find Bruno!"
 		},
-		Summary = "Place Holder"
+		Summary = "To the Slum"
 	},
 	[7734] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"Bruno successfully captured. First, let's return to the <NAVI>[Prontera Palace]<INFO>prt_cas_q,21,39,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "Talk to Nihil"
 	},
 	[7735] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"The situation requires cooperation with the Schwartzvald Republic. Spica went there to negotiate secretly. Let's meet at the <NAVI>[Juno airport]<INFO>y_airport,168,41,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "Talk to Crux"
 	},
 	[7736] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"Let's find Spica inside the <NAVI>[Lighthalzen Hotel]<INFO>lhz_in02,239,145,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "Talk to Spica"
 	},
 	[7737] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"We must go to Einbroch to talk with a <NAVI>[Special Agent]<INFO>einbroch,239,269,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "To Einbroch"
 	},
 	[7738] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"The negotiation with the Rebellion was a success, now let's go to the <NAVI>[Einbroch Hotel]<INFO>ein_in01,274,246,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "Talk to Nihil"
 	},
 	[7739] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"Let's recover the Star of Covenant! In the fields above Einbroch, talk to the person in charge to the <NAVI>[north]<INFO>ein_fild04,284,330,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "Einbroch Fields"
 	},
 	[7740] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"The Star of Covenant has been recovered. Let's return to the <NAVI>[Einbroch Hotel]<INFO>ein_in01,274,246,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "Talk to Nihil"
 	},
 	[7741] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"We recovered the Star of Covenant. Let's return to the <NAVI>[Prontera Palace]<INFO>prt_cas_q,21,39,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "Talk to Skia"
 	},
 	[7742] = {
-		Title = "Invisible Quest",
+		Title = "Eliminate Cutie",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"It is said that a powerful Chimera never seen before appears in the central room of the <NAVI>[Werner Lab]<INFO>slabw01,240,88,0,101,0</INFO></NAVI>. Eliminate 'Cutie' at the request of <NAVI>[Rookie]<INFO>que_swat,150,58,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "Werner Lab"
 	},
 	[7743] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Eliminate Cutie",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"You have already eliminated Cutie in the <NAVI>[Werner Lab]<INFO>slabw01,240,88,0,101,0</INFO></NAVI>. If you wish to repeat the mission, talk to <NAVI>[Rookie]<INFO>que_swat,150,58,0,101,0</INFO></NAVI> again."
 		},
-		Summary = "Place Holder"
+		Summary = "Resets at 4 AM.",
+		CoolTimeQuest = 1
 	},
 	[7744] = {
-		Title = "Invisible Quest",
+		Title = "Hidden Researchers",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"Find Researchers scattered in the Clandestine Lab at the request of <NAVI>[Tess]<INFO>que_swat,145,57,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "3 Researchers"
 	},
 	[7745] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Hidden Researchers",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"If you wish to repeat the mission, talk to <NAVI>[Tess]<INFO>que_swat,145,57,0,101,0</INFO></NAVI> again."
 		},
-		Summary = "Place Holder"
+		Summary = "Resets at 4 AM.",
+		CoolTimeQuest = 1
 	},
 	[7746] = {
-		Title = "Invisible Quest",
+		Title = "Last Memories",
 		Description = {
-			"Place Holder"
+			"You delivered the rings that Seyren Windsor had bought."
 		},
-		Summary = "Place Holder"
+		Summary = "Old Rings"
 	},
 	[7747] = {
-		Title = "Invisible Quest",
+		Title = "Last Memories",
 		Description = {
-			"Place Holder"
+			"You delivered Kathryne Keyron's last belongings."
 		},
-		Summary = "Place Holder"
+		Summary = "Locket Necklace"
 	},
 	[7748] = {
-		Title = "Invisible Quest",
+		Title = "Last Memories",
 		Description = {
-			"Place Holder"
+			"You delivered Margaretha Sorin's last belongings."
 		},
-		Summary = "Place Holder"
+		Summary = "Wooden Rosary"
 	},
 	[7749] = {
-		Title = "Invisible Quest",
+		Title = "Last Memories",
 		Description = {
-			"Place Holder"
+			"You delivered Howard Alt-Eisen's last belongings."
 		},
-		Summary = "Place Holder"
+		Summary = "Archer's Thimble"
 	},
 	[7750] = {
-		Title = "Invisible Quest",
+		Title = "Last Memories",
 		Description = {
-			"Place Holder"
+			"You delivered Eremes Guile's last belongings."
 		},
-		Summary = "Place Holder"
+		Summary = "Assassin Dagger"
 	},
 	[7751] = {
-		Title = "Invisible Quest",
+		Title = "Last Memories",
 		Description = {
-			"Place Holder"
+			"You delivered Cecil Damon's last belongings."
 		},
-		Summary = "Place Holder"
+		Summary = "Sewing Materials"
 	},
 	[7752] = {
-		Title = "Invisible Quest",
+		Title = "Found you!",
 		Description = {
-			"Place Holder"
+			"I found a hidden Researcher."
 		},
-		Summary = "Place Holder"
+		Summary = ""
 	},
 	[7753] = {
-		Title = "Invisible Quest",
+		Title = "Found you!",
 		Description = {
-			"Place Holder"
+			"I found a hidden Researcher."
 		},
-		Summary = "Place Holder"
+		Summary = ""
 	},
 	[7754] = {
-		Title = "Invisible Quest",
+		Title = "Found you!",
 		Description = {
-			"Place Holder"
+			"I found a hidden Researcher."
 		},
-		Summary = "Place Holder"
+		Summary = ""
 	},
 	[7755] = {
-		Title = "Invisible Quest",
+		Title = "Found you!",
 		Description = {
-			"Place Holder"
+			"I found a hidden Researcher."
 		},
-		Summary = "Place Holder"
+		Summary = ""
 	},
 	[7756] = {
-		Title = "Invisible Quest",
+		Title = "Found you!",
 		Description = {
-			"Place Holder"
+			"I found a hidden Researcher."
 		},
-		Summary = "Place Holder"
+		Summary = ""
 	},
 	[7757] = {
-		Title = "Invisible Quest",
+		Title = "Found you!",
 		Description = {
-			"Place Holder"
+			"I found a hidden Researcher."
 		},
-		Summary = "Place Holder"
+		Summary = ""
 	},
 	[7758] = {
-		Title = "Invisible Quest",
+		Title = "Found you!",
 		Description = {
-			"Place Holder"
+			"I found a hidden Researcher."
 		},
-		Summary = "Place Holder"
+		Summary = ""
 	},
 	[7759] = {
-		Title = "Invisible Quest",
+		Title = "Found you!",
 		Description = {
-			"Place Holder"
+			"I found a hidden Researcher."
 		},
-		Summary = "Place Holder"
+		Summary = ""
 	},
 	[7760] = {
-		Title = "Invisible Quest",
+		Title = "Hidden Researchers",
 		Description = {
-			"Place Holder"
+			"I found all the hidden researchers. Let's report to <NAVI>[Tess]<INFO>que_swat,145,57,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "Talk to Tess"
 	},
 	[7761] = {
-		Title = "Invisible Quest",
+		Title = "Eliminate Chimeras",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"The troops are having difficulty dealing with the violent specimens inside the lab. Eliminate ^4d4dff10 Misshapen Chimeras^000000 and ^4d4dff10 Human Chimeras^000000."
 		},
-		Summary = "Place Holder"
+		Summary = "Hunt the Chimeras"
 	},
 	[7762] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Eliminate Chimeras",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"This mission is daily and you can request it again from <NAVI>[Yuslan]<INFO>que_swat,161,53,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "Resets at 4 AM.",
+		CoolTimeQuest = 1
 	},
 	[7770] = {
 		Title = "Sleepless night, return to the sea beyond ",
@@ -28627,123 +28655,143 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[11454] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"I couldn't convince Rupert, the Leader of the Rebels. Let's convince other people first."
 		},
-		Summary = "Place Holder"
+		Summary = "Convince more people"
 	},
 	[11455] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"I entered Dien's room. Let's talk with the <NAVI>[Veterans]<INFO>rebel_in,164,88,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "Talk to Dien"
 	},
 	[11456] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"After explaining the situation, Dien asks for a moment to think. Let's talk to Dien again after some time."
 		},
-		Summary = "Place Holder"
+		Summary = "Talk to Dien"
 	},
 	[11457] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"I got Dien's consent. Let's convince the Commander of the Special Forces Battalion, <NAVI>[Est Loveloy]<INFO>rebel_in,210,89,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "Talk to Est"
 	},
 	[11458] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"You got Est's consent. Talk to <NAVI>[Rupert]<INFO>rebel_in,122,71,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "Talk to Rupert"
 	},
 	[11459] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"Rupert read Dien's letter and didn't believe its content. He asked Larcis to read it again. Let's see Larcis."
 		},
-		Summary = "Place Holder"
+		Summary = "Talk to Larcis"
 	},
 	[11460] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"He verified the content, but there was nothing wrong. Talk to <NAVI>[Rupert]<INFO>rebel_in,122,71,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "Talk to Rupert"
 	},
 	[11461] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"Dien appeared while talking with Rupert. Talk to Dien."
 		},
-		Summary = "Place Holder"
+		Summary = "Talk to Dien"
 	},
 	[11462] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"Dien and Rupert suddenly appeared and started fighting. Let's hear Rupert's story."
 		},
-		Summary = "Place Holder"
+		Summary = "Talk to Rupert"
 	},
 	[11463] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"I heard something suspicious in front of Dien's room, but I think I should pretend I don't know. After promising to help with the errand, let's enter the room and talk with <NAVI>[Dien]<INFO>rebel_in,164,88,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "Talk to Dien"
 	},
 	[11464] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"Dien told Larcis about the matter. Talk to <NAVI>[Larcis]<INFO>rebel_in,162,87,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "Talk to Larcis"
 	},
 	[11465] = {
-		Title = "Invisible Quest",
+		Title = "Dien's Tea",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"Dien, the veteran of the Rebellion, asks you to bring 1x Sophisticated Tea from the <NAVI>[Military Base]<INFO>ein_fild04,281,337,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "1x Sophisticated Tea"
 	},
 	[11466] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Dien's Tea",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"Dien's mission completed. Come back tomorrow."
 		},
-		Summary = "Place Holder"
+		Summary = "Resets at 4 AM.",
+		CoolTimeQuest = 1
 	},
 	[11467] = {
-		Title = "Invisible Quest",
+		Title = "Ridsh's Letter",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"Ridsh, the veteran of the Rebellion, wants you to bring 1x Old Letter from the <NAVI>[Military Base]<INFO>ein_fild04,281,337,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "1x Old Letter"
 	},
 	[11468] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Ridsh's Letter",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"Ridsh's mission completed. Come back tomorrow."
 		},
-		Summary = "Place Holder"
+		Summary = "Resets at 4 AM.",
+		CoolTimeQuest = 1
 	},
 	[11469] = {
-		Title = "Invisible Quest",
+		Title = "Cotnes' Earrings",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"Cotnes, the veteran of the Rebellion, wants you to bring 1x Shiny Earrings from the <NAVI>[Military Base]<INFO>ein_fild04,281,337,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "1x Shiny Earrings"
 	},
 	[11470] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Cotnes' Earrings",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"Cotnes' mission completed. Come back tomorrow."
 		},
-		Summary = "Place Holder"
+		Summary = "Resets at 4 AM.",
+		CoolTimeQuest = 1
 	},
 	[11471] = {
 		Title = "The Fast & The Old man",
@@ -33290,45 +33338,49 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},
 	[12374] = {
-		Title = "Invisible Quest",
+		Title = "Military Base",
 		Description = {
-			"Place Holder"
+			"Time to invade the Heart Hunter Military Base and make it property of the Rebellion."
 		},
-		Summary = "Place Holder"
+		Summary = "Complete the instance"
 	},
 	[12375] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Military Base]",
 		Description = {
-			"Place Holder"
+			"The Military Base is under maintenance. We are temporarily blocking access for the Engineers to finish adjustments."
 		},
-		Summary = "Place Holder"
+		Summary = "Resets at 4 AM.",
+		CoolTimeQuest = 1
 	},
 	[12376] = {
-		Title = "Invisible Quest",
+		Title = "First Negotiation",
 		Description = {
-			"Place Holder"
+			"You started your first business with Hogar"
 		},
-		Summary = "Place Holder"
+		Summary = "First Negotiation"
 	},
 	[12377] = {
-		Title = "Weekend dungeon",
+		Title = "Weekend Dungeon",
 		Description = {
-			"This is a token that allows you to enter the Weekend Memorial dungeon. You can enter without restrictions for an hour."
+			"You can access the Weekend Dungeon that simulates Payon's cave.",
+			"You can enter without restrictions for an hour."
 		},
 		Summary = "1 Hour"
 	},
 	[12378] = {
-		Title = "[Wait] Weekend dungeon",
+		Title = "[Wait] Weekend Dungeon",
 		Description = {
-			"You can't enter the weekend dungeon because of accumulated fatigue. All fatigue will be recovered by midnight."
+			"You can't enter the Weekend Dungeon because of accumulated fatigue.",
+			"All fatigue will be recovered by midnight."
 		},
-		Summary = "Come back on weekends",
+		Summary = "Come back on Weekend",
 		CoolTimeQuest = 1
 	},
 	[12379] = {
-		Title = "[Wait] Friday]",
+		Title = "[Wait] Friday",
 		Description = {
-			"You can't enter the friday dungeon because of accumulated fatigue. All fatigue will be recovered by midnight."
+			"You can't enter the Friday Dungeon because of accumulated fatigue.",
+			"All fatigue will be recovered by midnight."
 		},
 		Summary = "Come back on Friday",
 		CoolTimeQuest = 1
@@ -38158,151 +38210,177 @@ QuestInfoList = {
 		Summary = "To Niren"
 	},
 	[14595] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"We have to go to <NAVI>[Einbech]<INFO>einbroch,269,268,0,101,0</INFO></NAVI>. If you lose the trail, let's meet at the <NAVI>[train station]<INFO>einbech,46,208,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "To Einbech"
 	},
 	[14596] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"From here, the road gets complicated. Ragey will leave a mark on the mini map, so you have to watch carefully and <NAVI>[follow the path]<INFO>einbech,76,131,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "Follow the trail"
 	},
 	[14597] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"We have to go to the riverbank of Einbech. Follow the <NAVI>[trail]<INFO>einbech,217,82,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "Follow the trail"
 	},
 	[14598] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"Ragey seems to have something to do here. Enter."
 		},
-		Summary = "Place Holder"
+		Summary = "Enter the portal"
 	},
 	[14599] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"As a gesture of gratitude, let's have a cup of tea. Talk to Nemi or Eri and they will let you pass to the other side of the shop."
 		},
-		Summary = "Place Holder"
+		Summary = "Find Ragey"
 	},
 	[14600] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"First, look for Rupert, the Leader of the Rebels, on the 2nd floor. It might not be easy to convince him, if that's the case, look for the veterans."
 		},
-		Summary = "Place Holder"
+		Summary = "Talk to Rupert"
 	},
 	[14601] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"Look for the veterans on the 2nd floor and talk to them. Try to be as courteous as possible."
 		},
-		Summary = "Place Holder"
+		Summary = "Talk to Dien"
 	},
 	[14602] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"Talk to Elena on the 2nd floor. She loves to challenge adventurers, so be careful."
 		},
-		Summary = "Place Holder"
+		Summary = "Talk to Elena"
 	},
 	[14603] = {
-		Title = "Invisible Quest",
+		Title = "Repairs for Denny",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"Bring 5x Steel, 15x Used Iron Plate and eliminate 10x Old Furnace for <NAVI>[Rookie]<INFO>einbech,217,82,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "Collect the items"
 	},
 	[14604] = {
-		Title = "Invisible Quest",
+		Title = "Fuel for Cyan",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"Bring 10x Burnt Wood, 3x Coal and eliminate 10x Old Furnace for <NAVI>[Rookie]<INFO>einbech,217,82,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "Collect the items"
 	},
 	[14605] = {
-		Title = "Invisible Quest",
+		Title = "Crystals for Magenta",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"Bring 10x Crystal Fragment, 10x Black Crystal Fragment and eliminate 5x Obsidian and 5x Mineral for <NAVI>[Rookie]<INFO>einbech,217,82,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Place Holder"
+		Summary = "Collect the items"
 	},
 	[14606] = {
-		Title = "Invisible Quest",
+		Title = "Repairs for Denny",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"To repair the pipe, you need 5 Steel and 15 Used Iron Plates. Ah! And eliminate 10 Old Furnaces too."
 		},
-		Summary = "Place Holder"
+		Summary = "Collect the items"
 	},
 	[14607] = {
-		Title = "Invisible Quest",
+		Title = "Fuel for Cyan",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"I need 10 Burnt Woods and 3 Coal. Ah! And eliminate 10 Old Furnaces."
 		},
-		Summary = "Place Holder"
+		Summary = "Collect the items"
 	},
 	[14608] = {
-		Title = "Invisible Quest",
+		Title = "Crystals for Magenta",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"Bring 10 Crystal Fragments and 10 Black Crystal Fragments. Ah! Eliminate 5 Obsidians and 5 Minerals."
 		},
-		Summary = "Place Holder"
+		Summary = "Collect the items"
 	},
 	[14609] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Rookie's Requests",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"Cyan, Magenta and Denny don't need me now. Tomorrow I'll talk to <NAVI>[Rookie]<INFO>einbech,217,82,0,101,0</INFO></NAVI> again"
 		},
-		Summary = "Place Holder"
+		Summary = "Resets at 4 AM.",
+		CoolTimeQuest = 1
 	},
 	[14610] = {
-		Title = "Invisible Quest",
+		Title = "Recovering Weapons",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"If you go south of Einbech, there will be piles of dirt with Broken Weapon Remains, bring 3 to me. Also, eliminate 5 Weapon Grudge. ",
+			"- <NAVI>[Boss]<INFO>einbech,217,82,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Place Holder"
+		Summary = "3 Broken Weapon Remains"
 	},
 	[14611] = {
-		Title = "Invisible Quest",
+		Title = "Recovering Weapons",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"If you go south of Einbech, there will be piles of dirt with Broken Weapon Remains, bring 3 to me. Also, eliminate 5 Weapon Grudge. ",
+			"- <NAVI>[Boss]<INFO>einbech,217,82,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Place Holder"
+		Summary = "3 Broken Weapon Remains"
 	},
 	[14612] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Recovering Weapons",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"We are fixing the recovered weapons. I would be very grateful if you could visit me again tomorrow. ",
+			"- <NAVI>[Boss]<INFO>einbech,217,82,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Place Holder"
+		Summary = "Resets at 4 AM.",
+		CoolTimeQuest = 1
 	},
 	[14613] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"On the 2nd floor, talk to Est, the Commander of the Rebellion's Special Forces. If you convince her, the next task will be easy."
 		},
-		Summary = "Place Holder"
+		Summary = "Talk to Est"
 	},
 	[14614] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"First, convince the powerful people here. Est, Elena, Rupert and the Veterans. Once you've talked to everyone, come back to me."
 		},
-		Summary = "Place Holder"
+		Summary = "Return to Ragey"
 	},
 	[14615] = {
-		Title = "Invisible Quest",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Place Holder"
+			"They said we had someone ready to cooperate with us. Find the Fighter in the Clana Nemieri hallway."
 		},
-		Summary = "Place Holder"
+		Summary = "Talk to the Fighter"
 	},
 	[14651] = {
 		Title = "Decision on divorce should be made cautiously",
@@ -39486,375 +39564,421 @@ QuestInfoList = {
 		Summary = "Ganaan"
 	},
 	[16009] = {
-		Title = "Quiz time!",
+		Title = "Elena's Challenge",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Go back to Arian and he will let you know the results of the quiz."
+			"Elena Bolkova seems eager for a rematch. Enter the waiting room and fight with <NAVI>[Elena Bolkova]<INFO>rebel_in,70,78,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ganaan"
+		Summary = "Combat Arena"
 	},
 	[16010] = {
-		Title = "Daewoon's Test",
+		Title = "[Wait] Elena's Challenge]",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Now you're supposed to go see Daewoon in Payon for the next part of the examination. Don't forget to show him this Star thingee!"
+			"Elena Bolkova doesn't seem to have put effort into the fight. Rest enough and come back tomorrow for a new battle in <NAVI>[Clana Nemieri]<INFO>einbech,216,80,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Daewoon"
+		Summary = "Resets at 4 AM.",
+		CoolTimeQuest = 1
 	},
 	[16011] = {
-		Title = "Sir Jore's Test",
+		Title = "Elena's Challenge",
 		Description = {
-			"Your next test examiner is Sir Jore, also known as the Ghost of Al de Baran. Find him and take his test."
+			"After preparing, let's enter the battle ring by clicking on the chat of <NAVI>[Ivan Ivanov]<INFO>rebel_in,177,28,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Sir Jore in Al de Baran"
+		Summary = "Enter the Arena"
 	},
 	[16012] = {
-		Title = "Sir Jore's Materials",
+		Title = "Levedev Twins",
 		Description = {
-			"Sir Jore needs a new research sample to replace his ruined one. Bring ^FF000010 Empty Test Tube's, 10 Green Herbs and 1 Yggdrasil Leaf^000000 to him."
+			"Elena Bolkova is worried about the Levedev Twins. On behalf of Elena, let's talk with the <NAVI>[Twins]<INFO>rebel_in,109,54,0,101,0</INFO></NAVI>."
 		},
-		Summary = ""
+		Summary = "Talk to Jana"
 	},
 	[16013] = {
-		Title = "The Stone of Sage",
+		Title = "Levedev Twins",
 		Description = {
-			"Sir Jore requests that you investigate the Stone of Sage by finding a father and daughter who were famous for being great Alchemists. He said that they vanished deep into a forest near here."
+			"Talk about the Levedev Twins to <NAVI>[Milo River]<INFO>rebel_in,108,27,0,101,0</INFO></NAVI>."
 		},
-		Summary = ""
+		Summary = "Talk to Milo River"
 	},
 	[16014] = {
-		Title = "The Stone of Sage",
+		Title = "Levedev Twins",
 		Description = {
-			"You found the Alchemists Gordon and Pleur and they told you all that they know about the Stone of Sage. Go back to Sir Jore and relate to him what they told you."
+			"Talk about the Levedev Twins to <NAVI>[Manson Bender]<INFO>rebel_in,108,27,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Sir Jore"
+		Summary = "Talk to Mason Bender"
 	},
 	[16015] = {
-		Title = "Lady Jesqurienne",
+		Title = "Levedev Twins",
 		Description = {
-			"Sir Jore gave you a piece of the Sobbing Starlight and told you to visit Lady Jesqurienne in Geffen. She travels often so she's probably at the Inn."
+			"Let's ask for help from <NAVI>[Elena Bolkova]<INFO>rebel_in,70,78,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Lady Jesquerinne in Geffen"
+		Summary = "Return to Elena"
 	},
 	[16016] = {
-		Title = "Jesquerinne's Quiz Challenge",
+		Title = "Levedev Twins",
 		Description = {
-			"You found Lady Jesquerinne in a drunken stupor and she has challenged you to a Quiz Challenge that will be administered by Professor Aaron."
+			"Let's ask for advice about the twins by talking to <NAVI>[Ericsson Adler]<INFO>rebel_in,91,67,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Professor Aaron"
+		Summary = "Talk to Ericsson Adler"
 	},
 	[16017] = {
-		Title = "Failed Quiz Challenge",
+		Title = "Levedev Twins",
 		Description = {
-			"You failed to beat Lady Jesquerinne in the Quiz Challenge. Don't give up just yet though..."
+			"I heard the reason why the Levedev twins became everyone's problem. Let's return to <NAVI>[Elena Bolkova]<INFO>rebel_in,70,78,0,101,0</INFO></NAVI>."
 		},
-		Summary = ""
+		Summary = "Return to Elena"
 	},
 	[16018] = {
-		Title = "Quiz Challenge Triumph",
+		Title = "Levedev Twins",
 		Description = {
-			"You have defeated Lady Jesquerinne in the Quiz Challenge. Talk to her again and gloat about your superior intellect."
+			"Elena Bolkova asked me to call the <NAVI>[twins]<INFO>rebel_in,109,54,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Lady Jesquerinne"
+		Summary = "Talk to Jana Levedev"
 	},
 	[16019] = {
-		Title = "Search for Dearles",
+		Title = "Levedev Twins",
 		Description = {
-			"If you want to know more about the Sobbing Starlight, find a man named ^3131CEDearles^000000. It may be hard to find him since he wanders from place to place, but it might help to know that he loves gambling..."
+			"Were the two children satisfied with Elena Bolkova's solution?"
 		},
-		Summary = "Find Dearles"
+		Summary = ""
 	},
 	[16020] = {
-		Title = "Dearles' Test",
+		Title = "[Wait] Levedev Twins",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"You have paid Dearles 30,000 zeny to take his test and he tells you to come back tomorrow to begin your test."
+			"Don't forget Elena Bolkova's request, let's return to the twins tomorrow, in <NAVI>[Clana Nemieri]<INFO>einbech,216,80,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Dearles' after the timer expires."
+		Summary = "Resets at 4 AM.",
+		CoolTimeQuest = 1
 	},
 	[16021] = {
-		Title = "Test of Appreciation",
+		Title = "Twins: Children's Book",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Dearles doesn't give you an exact list of items to get for him. Instead he asks you to bring back items that will test your appreciation for craftsmanship."
+			"Let's borrow the book '^0000CDDizzy from Spinning So Much^000000' from the <NAVI>[Prontera Library]<INFO>prt_in,165,89,0,101,0</INFO></NAVI>. A book about a Cycho that spun too much."
 		},
-		Summary = "Items of craftsmanship"
+		Summary = "To Prontera"
 	},
 	[16022] = {
-		Title = "Dearles' Test Part Two",
+		Title = "Twins: Children's Book",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Dearles says that you're ready for the next step of the test. You are sent to Lamadin for Part Two of the test."
+			"Let's borrow the book '^0000CDRebellion, the history of freedom^000000' from the <NAVI>[Prontera Library]<INFO>prt_in,165,89,0,101,0</INFO></NAVI>. The story of freedom and insurgency of the middle-aged rebels passed down through time!"
 		},
-		Summary = "Examiner Lamadin"
+		Summary = "To Prontera"
 	},
 	[16023] = {
-		Title = "Rhythm Test Passed",
+		Title = "Twins: Children's Book",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"You have passed part two of Dearles' Test. Go back to him and let him know how you did."
+			"Let's borrow the book '^0000CDHorizon of Nifflheim^000000' from the <NAVI>[Prontera Library]<INFO>prt_in,165,89,0,101,0</INFO></NAVI>. A moving essay that beautifully describes the ecology of the creatures inhabiting Nifflheim."
 		},
-		Summary = "Dearles"
+		Summary = "To Prontera"
 	},
 	[16024] = {
-		Title = "Find Bakerlan",
+		Title = "Twins: Children's Book",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"You're done with Dearles' part of the exam. Take the chunk of Sobbing Starlight and find someone named Bakerlan in Alberta."
+			"You borrowed a book from the Librarian. Take it to the Levedev twins in <NAVI>[Clana Nemieri]<INFO>rebel_in,109,54,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Bakerlan in Alberta"
+		Summary = "To Clana Nemieri"
 	},
 	[16025] = {
-		Title = "Bakerlan's delivery",
+		Title = "Twins: Miners",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Bakerlan has asked you to make a delivery of something expensive. Speak to his steward for more information."
+			"Eliminate ^0000CD30 Miners^000000 and bring ^0000CD1x Gunpowder Mixture^000000 to the <NAVI>[Levedev Twins]<INFO>einbech,216,80,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Refined Steward Mahatra"
+		Summary = "1 Gunpowder Mixture"
 	},
 	[16026] = {
-		Title = "Mahatra's delivery",
+		Title = "Twins: Polluted Air",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Mahatra has given you a stone that has your name attached to it. Deliver it to a Knight named Leibech."
+			"Eliminate ^0000CD20 Toxic Clouds, 20 Poison Clouds^000000 and bring ^0000CD1 Explosive Dust^000000 to the <NAVI>[Levedev Twins]<INFO>einbech,216,80,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Leibech."
+		Summary = "1 Explosive Dust"
 	},
 	[16027] = {
-		Title = "Bakerlan's Receipt",
+		Title = "Twins: Cooking",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Leibech is grateful that you brought his delivery to him. He has given you a receipt, take it to Bakerlan."
+			"The Levedev twins want to distribute badly baked sweets to the Rebellion people. Deliver to <NAVI>[Milo River]<INFO>rebel_in,108,27,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Bakerlan"
+		Summary = "Milo River"
 	},
 	[16028] = {
-		Title = "Find Seylin",
+		Title = "Twins: Cooking",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Mahatra says that Bakerlan didn't leave him any instructions. But remembers that he has something for you to do. Help our Seylin... She seems bothered by something..."
+			"The Levedev twins want to distribute badly baked sweets to the Rebellion people. Deliver to <NAVI>[Manson Bender]<INFO>rebel_in,33 43,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Maid, Seylin"
+		Summary = "Manson Bender"
 	},
 	[16029] = {
-		Title = "Vigorgra Medicine",
+		Title = "Twins: Cooking",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Seylin has asked you to find a new medicine called Vigorgra. You may be able to find Vigorgra in the Alchemist's Guild in Al de Baran."
+			"The Levedev twins want to distribute badly baked sweets to the Rebellion people. Deliver to <NAVI>[Rachel Smith]<INFO>rebel_in,90,51,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Alchemist's Guild in Al de Baran"
+		Summary = "Rachel Smith"
 	},
 	[16030] = {
-		Title = "Vigorgra Ingredients",
+		Title = "Twins: Cooking",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Melkeba agrees to make the Vigorgra for you if you bring the following ingredients: ^FF00001 Ment, 20 Honey, 10 Royal Jelly, 30 Bear's Footskins, 1 Hinalle Leaflet, and 1 Empty Bottle.^000000"
+			"The Levedev twins want to distribute badly baked sweets to the Rebellion people. Deliver to <NAVI>[Ericsson Adler]<INFO>rebel_in,91,67,0,101,0</INFO></NAVI>."
 		},
-		Summary = ""
+		Summary = "Ericsson Adler"
 	},
 	[16031] = {
-		Title = "Vigorgra Ingredients",
+		Title = "Twins: Cooking",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Melkeba has helped you by creating the Vigorgra. Bring it back to Seylin"
+			"The Levedev twins want to distribute badly baked sweets to the Rebellion people. Deliver to <NAVI>[Elena Bolkova]<INFO>rebel_in,70,78,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Maid, Seylin"
+		Summary = "Elena Bolkova"
 	},
 	[16032] = {
-		Title = "Seylin's Request",
+		Title = "Veterans' Snack",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Seylin has asked you to bring the Vigorgra to her brother Maruin in Prontera Castle along with a letter she wrote."
+			"Bring at least 1 cooking dish to <NAVI>[Milo River]<INFO>rebel_in,108,27,0,101,0</INFO></NAVI>.",
+			"^0000CDHerb Tea with Grapes, Red Autumn Tea, Herb and Honey Tea, Chocolate Mousse Cake or Fruit Salad^000000."
 		},
-		Summary = "Maruin in Prontera Castle"
+		Summary = "1 Cooking Dish"
 	},
 	[16033] = {
-		Title = "Back to Seylin",
+		Title = "Twins: Cooking",
 		Description = {
-			"You've delivered the Vigorgra and Seylin's letter. You should probably go back and let her know that her brother was grateful for the gift."
+			"Ericsson Adler gave me a special sweet. I'll take it to eat with the <NAVI>[Twins]<INFO>rebel_in,109,54,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Maid, Seylin"
+		Summary = "Talk to Jana Levedev"
 	},
 	[16034] = {
-		Title = "Back to Mahatra",
+		Title = "[Wait] Veterans' Snack",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Go back to Mahatra and let him know that you have completed the task the Seylin set you out to do."
+			"The elders have snacks once a day. Tomorrow, let's visit Milo River in <NAVI>[Clana Nemieri]<INFO>einbech,216,80,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Mahatra"
+		Summary = "Resets at 4 AM.",
+		CoolTimeQuest = 1
 	},
 	[16035] = {
-		Title = "Report to Bakerlan",
+		Title = "Rebellion Armory",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Report to Bakerlan that you have completed the tasks that Mahatra and Seylin have asked you to do."
+			"Go to the Blacksmith Guild in Einbroch to talk about Rachel Smith to the <NAVI>[Blacksmith Jack]<INFO>ein_in01,38,21,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Bakerlan"
+		Summary = "Talk to Blacksmith Jack"
 	},
 	[16036] = {
-		Title = "The last Crumb",
+		Title = "Rebellion Armory",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Bakerlan says that you have finally completed the qualification tests. Go back to Metz in Prontera with all of the Starlight Crumbs."
+			"Let's report the results we heard from Blacksmith Jack to <NAVI>[Rachel Smith]<INFO>einbech,216,80,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Metz in Prontera"
+		Summary = "Talk to Rachel Smith"
 	},
 	[16037] = {
-		Title = "Finding Engel Howard",
+		Title = "[Wait] Rebellion Armory]",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Talk to Brenda Howard's daughter first. She may have something that she wants to give to her father Engel Howard..."
+			"Apparently, it will be possible to work with today's materials. Tomorrow, let's see if we can help <NAVI>[Rachel Smith]<INFO>einbech,216,80,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Liana Howard"
+		Summary = "Resets at 4 AM.",
+		CoolTimeQuest = 1
 	},
 	[16038] = {
-		Title = "Liana's Letter",
+		Title = "Rebellion Armory",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Find Engel Howard and deliver his daughter Liana's letter to him."
+			"Bring ^0000CD2x Oridecon^000000 to <NAVI>[Rachel Smith]<INFO>rebel_in,90,51,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Engel Howard"
+		Summary = "2 Oridecon"
 	},
 	[16039] = {
-		Title = "Combining the Starlight",
+		Title = "Rebellion Armory",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Engel is going to need some materials in order to combine the Crumbs of Sobbing Starlight. Bring ^FF00005 Mini Furnaces, 2 Oridecon Hammers, and 1 good quality Anvil^000000."
+			"Bring ^0000CD2x Elunium^000000 to <NAVI>[Rachel Smith]<INFO>rebel_in,90,51,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Bring the materials to Engel"
+		Summary = "2 Elunium"
 	},
 	[16040] = {
-		Title = "Letter to Engel's Family",
+		Title = "Rebellion Armory",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"While Engel is working on combining the Crumbs of Sobbing Starlight, he has asked you to deliver a letter to his family on his behalf."
+			"Bring ^0000CD5x Iron^000000 to <NAVI>[Rachel Smith]<INFO>rebel_in,90,51,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Deliver the Letter to the Howard Family"
+		Summary = "5 Iron"
 	},
 	[16041] = {
-		Title = "Talk to Liana",
+		Title = "Lost Cat",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Talk to Liana. Apparently she's been waiting to tell you something."
+			"Charity, the Rebellion's cat, didn't show up for dinner. ^0000CDLook in the empty bench in Einbech^000000 and use the Crispy Anchovy."
 		},
-		Summary = "Liana"
+		Summary = "Empty Benches"
 	},
 	[16042] = {
-		Title = "Sobbing Starlight Progress",
+		Title = "[Wait] Lost Cat",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"You received a gift of candy from Liana. It might be time to check with Engel to see if he has made any progress with combining the Crumbs of Sobbing Starlight."
+			"Charity is playing with Milo River. It seems safe for now, so let's return only tomorrow to <NAVI>[Clana Nemieri]<INFO>einbech,216,80,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Engel Howard"
+		Summary = "Resets at 4 AM.",
+		CoolTimeQuest = 1
 	},
 	[16043] = {
-		Title = "Restored Sobbing Starlight",
+		Title = "Lost Cat",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Engel has managed to restore the Sobbing Starlight. You should take this back to Metz and see if he knows what you can do with it."
+			"Milo River is crazy to pet Charity. Let's check an ^0000CDempty bench in Einbech^000000."
 		},
-		Summary = "Metz in Prontera"
+		Summary = "Find a bench"
 	},
 	[16044] = {
-		Title = "Combining the Starlight",
+		Title = "Lost Cat",
 		Description = {
-			"Engel has failed to restore the Sobbing Starlight. You must bring back more materials to re-attempt to restore it. Bring ^FF00005 Mini Furnaces, 2 Oridecon Hammers, and a better quality Anvil (Golden or Emperium Anvil)^000000."
+			"I found Charity! Let's take advantage of Charity being busy eating Crispy Anchovies and take her to <NAVI>[Milo River]<INFO>einbech,216,80,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Bring the materials to Engel"
+		Summary = "To Milo River"
 	},
 	[16045] = {
-		Title = "Starlight message",
+		Title = "Gesture of Affection",
 		Description = {
-			"Metz says that the stone has a secret message to an ancient place... but we need a Wizard to unlock the message within. Visit the Wizards on the top floor of the Geffen Tower and find someone who can help you..."
+			"Ericsson Adler asked you to buy flowers from a Flower Girl, near the Steel Tower of <NAVI>[Einbroch]<INFO>einbroch,167,160,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Geffen Tower"
+		Summary = "To the Flower Girl"
 	},
 	[16046] = {
-		Title = "The man in Umbala",
+		Title = "Gesture of Affection",
 		Description = {
-			"Dhota, in Geffen Tower, tells you that the man who you're looking for has gone somewhere near Umbala to investigate the tribal people there."
+			"Bring ^0000CD3x Piece of Paper^000000 to the <NAVI>[Flower Girl]<INFO>einbroch,167,160,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Investigate Umbala"
+		Summary = "3 Piece of Paper"
 	},
 	[16047] = {
-		Title = "Into the Tree",
+		Title = "Gesture of Affection",
 		Description = {
-			"Laotan in Umbala tells you that there was a weird man in the village but that he went into a big tree and no one has seen him since."
+			"I received the ^0000CDCeremonial Bouquet^000000. Let's place it under the <NAVI>[Great Tree]<INFO>einbroch,162,153,0,101,0</INFO></NAVI>."
 		},
-		Summary = ""
+		Summary = "Great Tree"
 	},
 	[16048] = {
-		Title = "Ancient Papers",
+		Title = "Gesture of Affection",
 		Description = {
-			"Cyon will keep his promise of reading the message on the Sobbing Starlight, but he needs ^FF000010 ancient pieces of paper^000000 in order to do so."
+			"Now that I heard Grandma Lucy's story, let's return to report to <NAVI>[Ericsson Adler]<INFO>rebel_in,91,67,0,101,0</INFO></NAVI>."
 		},
-		Summary = ""
+		Summary = "To Ericsson Adler"
 	},
 	[16049] = {
-		Title = "Record of Ancient Language",
+		Title = "[Wait] Gesture of Affection",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Cyon has given you a Record of Ancient Language from the Sobbing Starlight. You should return to Prontera and show it to Metz."
+			"Even the dead need silence. Tomorrow, let's revisit Ericsson Adler in <NAVI>[Clana Nemieri]<INFO>einbech,216,80,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Metz in Prontera"
+		Summary = "Resets at 4 AM.",
+		CoolTimeQuest = 1
 	},
 	[16050] = {
-		Title = "The Fastidious Old Man",
+		Title = "Gesture of Affection",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"The Document was written in a language that Metz can't read. You should find a man named Frank Franklin who lives on a Sunken Ship in Alberta."
+			"Ericsson Adler asked you to buy flowers from a Flower Girl, near the Steel Tower of <NAVI>[Einbroch]<INFO>einbroch,167,160,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Frank Franklin"
+		Summary = "To the Flower Girl"
 	},
 	[16051] = {
-		Title = "Blurry Vision",
+		Title = "Gesture of Affection",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"You have found Frank but he is complaining of blurry vision and headaches when he reads. Bring him something to aid him with his reading."
+			"Bring ^0000CD3x Piece of Paper^000000 to the <NAVI>[Flower Girl]<INFO>einbroch,167,160,0,101,0</INFO></NAVI>."
 		},
-		Summary = ""
+		Summary = "3 Piece of Paper"
 	},
 	[16052] = {
-		Title = "Translating the Document",
+		Title = "Gesture of Affection",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Frank says that he's the only person in the world that can translate the document. Give him some time to translate the document and ask him if he's done."
+			"I received the ^0000CDCeremonial Bouquet^000000. Let's place it under the <NAVI>[Great Tree]<INFO>einbroch,162,153,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Frank Franklin"
+		Summary = "Great Tree"
 	},
 	[16053] = {
-		Title = "Translated Ancient Language",
+		Title = "Gesture of Affection",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Frank has successfully translated the document. It seems that you need to go somewhere to find out more about it."
+			"Let's return to report to <NAVI>[Ericsson Adler]<INFO>rebel_in,91,67,0,101,0</INFO></NAVI>."
 		},
-		Summary = "4 Resin, 12 Stone Hearts, 365 Coral Reef"
+		Summary = "To Ericsson Adler"
 	},
 	[16054] = {
-		Title = "Where the rejected live",
+		Title = "Leafleting Day",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Valkyrie Sandra has sent you to find the evil influence on your own. You should find someone in a town where the rejected are left behind..."
+			"Distribute to the people of Einbech the leaflets made by <NAVI>[Manson Bender]<INFO>rebel_in,19,48,0,101,0</INFO></NAVI>."
 		},
-		Summary = ""
+		Summary = "Shop Leaflets"
 	},
 	[16055] = {
-		Title = "Misfortunate of Niflheim",
+		Title = "Leaflet: Noisy Train",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"You have decided to help out the misfortunate in Niflheim, in order to do so you must first gain their trust by speaking slowly and close to them."
+			"I delivered a leaflet written in unnecessarily colorful cursive letters to the <NAVI>[Tired Man]<INFO>einbech,71,168,0,101,0</INFO></NAVI>."
 		},
-		Summary = ""
+		Summary = "Tired Man"
 	},
 	[16056] = {
-		Title = "Removed Curse",
+		Title = "Leaflet: Blow it up!",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"You have successfully removed the curse from Ashe Bruce. He gave you a Witch's Spell Book to take to a witch. Continue to find others who need help."
+			"I forcefully delivered a leaflet printed on unnecessarily expensive paper to the <NAVI>[Tired Old Man]<INFO>einbech,79,100,0,101,0</INFO></NAVI>."
 		},
-		Summary = ""
+		Summary = "Tired Old Man"
 	},
 	[16057] = {
-		Title = "Meeting the witch",
+		Title = "Leaflet: Dentures",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Alakina Ann was also told to meet a witch. It may be the same as the one you need to take the Witch's Spell Book to."
+			"I forcefully delivered a leaflet printed on unnecessarily expensive paper to the <NAVI>[Sleepy Old Woman]<INFO>einbech,170,143,0,101,0</INFO></NAVI>."
 		},
-		Summary = ""
+		Summary = "Sleepy Old Woman"
 	},
 	[16058] = {
-		Title = "Wing Of Crow",
+		Title = "[Wait] Leafleting Day",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"You found the witch Kirkena and told her about Alakina Ann.  She gave you a Wing Of Crow to send her back to her home."
+			"<NAVI>[Manson Bender]<INFO>rebel_in,19,48,0,101,0</INFO></NAVI>, the weapon shop owner, is eagerly awaiting a flood of customers as a result of the leafleting. Let's return tomorrow to hear the results."
 		},
-		Summary = "Alakina Ann"
+		Summary = "Resets at 4 AM.",
+		CoolTimeQuest = 1
 	},
 	[16059] = {
-		Title = "Wing Of Crow",
+		Title = "Leafleting Day",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"You gave the Wing Of Crow to Alakina Ann but it didn't seem to do anything... You'd better ask that witch Kirkena why it didn't work"
+			"<NAVI>[Manson Bender]<INFO>rebel_in,19,48,0,101,0</INFO></NAVI>, the weapon shop owner, doesn't seem to have given up and is trying to distribute the leaflets again. I think it would be better to save on printing costs..."
 		},
-		Summary = "Kirkena"
+		Summary = "Shop Leaflets"
 	},
 	[16060] = {
-		Title = "Misfortunate of Niflheim",
+		Title = "Elena's Challenge",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Kirkena tells you the sad news that Alakina Ann does not realize that she is dead because she is so young. There doesn't seem much else you can do here, go back to Serin and report to her."
+			"<NAVI>[Elena Bolkova]<INFO>rebel_in,70,78,0,101,0</INFO></NAVI>, the challenger, is looking at you with interest. Talk to Elena and enter the waiting room."
 		},
-		Summary = "Serin"
+		Summary = "Combat Arena"
 	},
 	[16061] = {
-		Title = "Bard in Niflheim",
+		Title = "Elena's Challenge",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Serin tells you to see a Bard in Niflheim that might know some useful information."
+			"Fight Elena one on one."
 		},
-		Summary = ""
+		Summary = "Defeat Elena"
 	},
 	[16062] = {
 		Title = "Gen of Niflheim",
@@ -46365,7 +46489,7 @@ Talk to Kar=],
 	[21008] = {
 		Title = "First Battle",
 		Description = {
-			"You have been asked to capture a Forling who has stolen the ship's repair materials, recover two pieces of lumber, and deliver them to the crew. Defeat the Forging nearby and retrieve the wood."
+			"You have been asked to capture a Poring who has stolen the ship's repair materials, recover two pieces of lumber, and deliver them to the crew. Defeat the Forging nearby and retrieve the wood."
 		},
 		Summary = "Deliver 2 pieces of wood to the sailor"
 	},

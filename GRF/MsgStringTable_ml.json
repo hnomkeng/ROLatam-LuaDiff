@@ -7547,7 +7547,7 @@
         "ko": "%m월 %d일 %H시 %M분",
         "en": "%m/%d %H:%M",
         "pt": "%d/%m às %H:%M",
-        "es": "%m/%d %H:%M"
+        "es": "%d/%m %H:%M"
     },
     "TVNJX0FQUEVBUkFOQ0VfVElNRV9PRl9CT1NTTU9OMg==": {
         "ko": "보스 몬스터 '%s'(이)가 잠시 후에 등장합니다.",
@@ -8003,7 +8003,7 @@
         "ko": "메모리얼 던전",
         "en": "Memorial Dungeon",
         "pt": "Instância",
-        "es": "Mazmorra del recuerdo"
+        "es": "Mazmorra del Recuerdo"
     },
     "TVNJX01FTU9SSUFMX0RVTl9XQUlUSU5H": {
         "ko": "%s 대기중",
@@ -8045,7 +8045,7 @@
         "ko": "^ff0000%s^000000 내에 입장하지 않을 경우 신청하신 던전이 삭제 됩니다.",
         "en": "The requested dungeon will be removed if you do not enter before ^ff0000%s^000000.",
         "pt": "A instância será encerrada se você não adentrá-la em ^FF0000%s^000000.",
-        "es": "La mazmorra solicitada se eliminará si no entras antes de ^ff0000%s^000000."
+        "es": "La mazmorra solicitada\\nse eliminará si no entras\\nantes de ^ff0000%s^000000."
     },
     "TVNJX01FTU9SSUFMX0RVTl9OT1RJRlky": {
         "ko": "던전 미션 제한 시간 :",
@@ -12167,7 +12167,7 @@
         "ko": "완료",
         "en": "Complete",
         "pt": "Completo",
-        "es": "Completar"
+        "es": "Completo"
     },
     "TVNJX1BMVVNFWFBfVkFMVUU=": {
         "ko": "%d분간 얻을 수 있는 경험치가 %d%% 증가합니다.",
@@ -16018,7 +16018,7 @@
         "ko": "메모리얼",
         "en": "Memorial Dungeon",
         "pt": "Instância",
-        "es": "Mazmorra del recuerdo"
+        "es": "Mazmorra del Recuerdo"
     },
     "TVNJX0FDSElFVkVNRU5UX1RBQl9NRU1PUklBTF9NSURHQVJE": {
         "ko": "미드가르드",
@@ -19593,7 +19593,7 @@
         "ko": "던전 파괴",
         "en": "Dungeon Destroyed",
         "pt": "Encerrar",
-        "es": "Mazmorra destruida"
+        "es": "Destruir mazmorra"
     },
     "TVNJX0JST0FEQ0FTVElOR19SRUZJTklOR19TVUNDRVNTX0xFVkVMXzk=": {
         "ko": "[%s] 님이 제련을 성공하여, [+%d %s] 아이템을 획득하였습니다.",

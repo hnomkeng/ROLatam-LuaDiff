@@ -5810,10 +5810,10 @@ StateIconList[EFST_IDs.EFST_PORK_RIB_STEW] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Bônus de Vel.Atq."
+			"Vel.Atq +5%."
 		},
 		{
-			"Reduz Custo de SP."
+			"Custo de SP -2%."
 		}
 	}
 }
@@ -5837,10 +5837,10 @@ StateIconList[EFST_IDs.EFST_BEEF_RIB_STEW] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Reduz conj. var."
+			"Conj. var. -5%."
 		},
 		{
-			"e Custo de SP."
+			"Custo de SP -3%."
 		}
 	}
 }

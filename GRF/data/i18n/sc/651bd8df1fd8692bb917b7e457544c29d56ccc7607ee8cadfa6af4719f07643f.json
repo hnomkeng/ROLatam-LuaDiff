@@ -47,7 +47,7 @@
     "ydW2CA": {
         "en": "- You must be Lv. 120 or higher to enter this Memorial Dungeon. -",
         "pt": "- Essa instância é para nível de base 120 ou superior. -",
-        "es": "-Debes ser de nivel 120 o superior para entrar en esta Mazmorra del recuerdo.-"
+        "es": "-Debes ser de nivel 120 o superior para entrar en esta Mazmorra del Recuerdo.-"
     },
     "ytW2CA": {
         "en": "[Loreche]\nZzz... Hmm, hmm... Oh, Ohhhhhh! Wait, wait a second! Where do you think you're going?!\nEugenie! Look at this Adventurer. What a find, shiny as gold!",
@@ -72,12 +72,12 @@
     "ztW2CA": {
         "en": "[Eugenie]\n... Hm, they're busy... That won't do.",
         "pt": "[Mingmin]\n......Er, bem não temos muito tempo mesmo, e agora?",
-        "es": "[Eugenie]\n… Mmm, están ocupados… Eso no servirá."
+        "es": "[Eugenie]\n…Mmm, está sin tiempo… Eso no servirá."
     },
     "z9W2CA": {
         "en": "[Loreche]\nWell... If you're busy, then I guess it can't be helped. Goodbye, our dreamy Adventurer.",
         "pt": "[Runane]\nBom... não podemos fazer nada se as pessoas tem outros compromissos.",
-        "es": "[Loreche]\nBueno… Si estás ocupado, supongo que no hay nada que hacer. Adiós, trotamundos de ensueño."
+        "es": "[Loreche]\nBueno… Si estás sin tiempo, supongo que no hay nada que hacer. Adiós, trotamundos de ensueño."
     },
     "0NW2CA": {
         "en": "[Eugenie]\nHooray, a not busy Adventurer!",
@@ -127,7 +127,7 @@
     "2dW2CA": {
         "en": "[Loreche]\n... They don't want to go with us, Eugenie. Good bye, our dreamy Adventurer.",
         "pt": "[Runane]\n...Provavelmente não gostou de nós duas, Mingmin. Não há nada que possamos fazer. Até logo, viajante.",
-        "es": "[Loreche]\n… No quieren ir con nosotros, Eugenie. Adiós, trotamundos de ensueño."
+        "es": "[Loreche]\n…No quieren ir con nosotros, Eugenie. Adiós, trotamundos de ensueño."
     },
     "2tW2CA": {
         "en": "[Loreche]\nAh, you won't regret this! We'll be sure to give you credit in our thesis if everything goes well.",
@@ -142,7 +142,7 @@
     "3NW2CA": {
         "en": "[Loreche]\nThat's {0}, right? You don't mind if we call you by your name, right {0}?\nFantastic, {0}.",
         "pt": "[Runane]\n{0}! Que nome lindo, {0}. Posso repetir?\n{0}.",
-        "es": "[Loreche]\nEso es {0}, ¿verdad? No te importa si te llamamos por tu nombre, ¿verdad, {0}?\nFantástico, {0}."
+        "es": "[Loreche]\n{0}, ¿verdad? ¿No te importa si te llamamos por tu nombre, {0}?\nFantástico, {0}."
     },
     "3dW2CA": {
         "en": "[Loreche]\nEugenie is calculating the path so we can enter the Dimensional Gap. Please talk to Eugenie once you're ready to enter. We'll follow you right after!",
@@ -250,9 +250,9 @@
         "es": "[Eugenie]\nPrimero, regístrate y luego espera a que termine mis cálculos. Te ayudaré una vez que comiences a entrar en la grieta."
     },
     "8tW2CA": {
-        "en": "[Loreche]\nWe'll be right behind you. My brother Luide and his friend are inside, so please wait for us, too!",
+        "en": "[Loreche]\nWe'll be right behind you. My sister Luide and her friend are inside, so please wait for us, too!",
         "pt": "[Runane]\nNós iremos atrás. Minha irmã estará esperando por você lá dentro!",
-        "es": "[Loreche]\nEstaremos detrás de ti. Mi hermano Luide y su amigo están dentro, ¡así que espéranos a nosotros también!"
+        "es": "[Loreche]\nEstaremos detrás de ti. Mi hermana Luide y su amigo están dentro, ¡así que espéranos a nosotros también!"
     },
     "89W2CA": {
         "en": "Sign up to explore the Dimensional Gap",
@@ -292,12 +292,12 @@
     "+tW2CA": {
         "en": "[Eugenie]\nThe party leader must create a Memorial Dungeon before you can enter. Check that you have done so.",
         "pt": "[Mingmin]\nSe o líder do grupo criar uma reserva para a instância, nós podemos ir.",
-        "es": "[Eugenie]\nEl líder del grupo debe crear una Mazmorra del recuerdo antes de que puedas entrar. Verifica que lo hiciste."
+        "es": "[Eugenie]\nEl líder del grupo debe crear una Mazmorra del Recuerdo antes de que puedas entrar. Verifica que lo hiciste."
     },
     "+9W2CA": {
         "en": "[Eugenie]\nThe Memorial Dungeon has not been created. You should try again.",
         "pt": "[Mingmin]\nA instância não foi criada.",
-        "es": "[Eugenie]\nNo se creó la Mazmorra del recuerdo. Deberías intentarlo de nuevo."
+        "es": "[Eugenie]\nNo se creó la Mazmorra del Recuerdo. Deberías intentarlo de nuevo."
     },
     "/NW2CA": {
         "en": "[Eugenie]\nHm, I'm having a hard time calculating. I'm perfect, of course, so the problem must be the Dimensional Gap. Wait a bit, then sign up again.",
@@ -332,12 +332,12 @@
     "Ata2CA": {
         "en": "[Eugenie]\nThe party leader must create a Memorial Dungeon in order to enter. Check with the party leader if it's done.",
         "pt": "[Mingmin]\nSe o líder do grupo criar uma reserva para a instância, nós podemos ir.",
-        "es": "[Eugenie]\nEl líder del grupo debe crear una Mazmorra del recuerdo para poder entrar. Habla con el líder del grupo para saber si lo hizo."
+        "es": "[Eugenie]\nEl líder del grupo debe crear una Mazmorra del Recuerdo para poder entrar. Habla con el líder del grupo para saber si lo hizo."
     },
     "A9a2CA": {
         "en": "[Eugenie]\nThe Memorial Dungeon has not been created, you should talk to your party leader again.",
         "pt": "[Mingmin]\nA instância não foi criada.",
-        "es": "[Eugenie]\nNo se creó la Mazmorra del recuerdo. Debes hablar de nuevo con tu líder del grupo."
+        "es": "[Eugenie]\nNo se creó la Mazmorra del Recuerdo. Debes hablar de nuevo con tu líder del grupo."
     },
     "BNa2CA": {
         "en": "[Eugenie]\nWhy don't you form a party then come back? We'll be there, too, so a one-person party will also suffice.",
@@ -352,7 +352,7 @@
     "Bta2CA": {
         "en": "[Eugenie]\nPlease talk to Loreche first. I'm busy calibrating the entrance, I need to focus.",
         "pt": "[Mingmin]\nPrimeiro, fale com a Runane ao meu lado enquanto realizo os últimos testes.",
-        "es": "[Eugenie]\nPrimero, habla con Loreche. Estoy ocupado calibrando la entrada, necesito concentrarme."
+        "es": "[Eugenie]\nPrimero, habla con Loreche. Estoy ocupada calibrando la entrada, necesito concentrarme."
     },
     "B9a2CA": {
         "en": "Party member {0} now entering {1} of party {2}.",

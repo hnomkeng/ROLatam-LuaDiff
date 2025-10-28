@@ -6939,14 +6939,14 @@ QuestInfoList = {
 		Summary = "Coletar os itens"
 	},
 	[3365] = {
-		Title = "Kadu, o Mago",
+		Title = "[Evento] Kadu, o Mago",
 		Description = {
 			"Conheça <NAVI>[Kadu]<INFO>alberta,134,162,0,101,0</INFO></NAVI> o Mago-Bombeiro do Festival da Colheita."
 		},
 		Summary = "Fale com Kadu"
 	},
 	[3366] = {
-		Title = "Serena, a Caçadora",
+		Title = "[Evento] Serena, a Caçadora",
 		Description = {
 			"Conheça <NAVI>[Serena]<INFO>alberta,152,198,0,101,0</INFO></NAVI> a caçadora de selvagens.",
 			""
@@ -6954,7 +6954,7 @@ QuestInfoList = {
 		Summary = "Fale com Serena"
 	},
 	[3367] = {
-		Title = "Songhwa, o Cozinheiro",
+		Title = "[Evento] Songhwa, o Cozinheiro",
 		Description = {
 			"Conheça <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI> o cozinheiro regional."
 		},
@@ -6968,7 +6968,7 @@ QuestInfoList = {
 		Summary = "Reserva de Espaço"
 	},
 	[3369] = {
-		Title = "Lenha Viva",
+		Title = "[Diária] Lenha Viva",
 		Description = {
 			"Elimine 10 Lenhas Vivas e traga 10 Lenhas de Qualidade para <NAVI>[Kadu]<INFO>alberta,134,162,0,101,0</INFO></NAVI> no Festival da Colheita."
 		},
@@ -6982,7 +6982,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[3371] = {
-		Title = "Capturando Selvagens",
+		Title = "[Diária] Capturando Selvagens",
 		Description = {
 			"Use a Armadilha de Selvagem nos monstros [Selvagens Famintos] até conseguir 10 Selvagem Capturado. Leve-os parta <NAVI>[Serena]<INFO>alberta,152,198,0,101,0</INFO></NAVI> no Festival da Colheita."
 		},
@@ -11885,81 +11885,81 @@ QuestInfoList = {
 		}
 	},
 	[5727] = {
-		Title = "Missão Invisível",
+		Title = "Proibição dos Teleportes",
 		Description = {
-			"Reserva de Espaço"
+			"De repente, apareceu um homem chamado­ <NAVI>[Vero]<INFO>rebel_in,82,68,0,101,0</INFO></NAVI> Ele pediu para trabalharmos juntos. Vamos voltar com ele depois das 4h da manhã do dia seguinte."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Reseta 4 da manhã.­"
 	},
 	[5728] = {
-		Title = "Missão Invisível",
+		Title = "Proibição dos Teleportes",
 		Description = {
-			"Reserva de Espaço"
+			"Vamos fazer uma pausa e aguardar Vero se recompor."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Fale com Vero"
 	},
 	[5729] = {
-		Title = "Missão Invisível",
+		Title = "Proibição dos Teleportes",
 		Description = {
-			"Reserva de Espaço"
+			"Vamos para o trem de carga em <NAVI>[Einbech­]<INFO>einbech,212,212,0,101,0</INFO></NAVI>. Leve ^C331201x Coração Flamejante^000000."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "1 Coração Flamejante"
 	},
 	[5730] = {
-		Title = "Missão Invisível",
+		Title = "Proibição dos Teleportes",
 		Description = {
-			"Reserva de Espaço"
+			"Parece que você precisa de ^C331203x Gelo Místico^000000 para destruir o Proibidor de Teleporte."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "3 Gelo Místico"
 	},
 	[5731] = {
-		Title = "Missão Invisível",
+		Title = "Proibição dos Teleportes",
 		Description = {
-			"Reserva de Espaço"
+			"Dispositivo destruído em Einbech. Voltemos à <NAVI>[Lukie]<INFO>einbech,215,81,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Para Clana Nemieri"
 	},
 	[5732] = {
-		Title = "Missão Invisível",
+		Title = "Proibição dos Teleportes",
 		Description = {
-			"Reserva de Espaço"
+			"Vamos levar ^C331201x Gelo Místico e 3x Vento Bruto^000000 para a fonte de água da <NAVI>[Corporação Rekenber]<INFO>lighthalzen,137,231,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Para Lighthalzen"
 	},
 	[5733] = {
-		Title = "Missão Invisível",
+		Title = "Proibição dos Teleportes",
 		Description = {
-			"Reserva de Espaço"
+			"Dispositivo destruído em Lighthalzen. Voltemos à <NAVI>[Lukie]<INFO>einbech,215,81,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Para Clana Nemieri"
 	},
 	[5734] = {
-		Title = "Missão Invisível",
+		Title = "Proibição dos Teleportes",
 		Description = {
-			"Reserva de Espaço"
+			"É difícil dizer não, então vamos trazer ^C331201x Fragmento Estelar^000000."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "1 Fragmento Estelar"
 	},
 	[5735] = {
-		Title = "Missão Invisível",
+		Title = "Proibição dos Teleportes",
 		Description = {
-			"Reserva de Espaço"
+			"Vamos para <NAVI>[Juno]<INFO>yuno,206,224,0,101,0</INFO></NAVI>. Leve ^C331204x Natureza Grandiosa^000000."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "4 Natureza Grandiosa"
 	},
 	[5736] = {
-		Title = "Missão Invisível",
+		Title = "Proibição dos Teleportes",
 		Description = {
-			"Reserva de Espaço"
+			"Traga ^C331203x Coração Flamejante^000000 para o <NAVI>[Parque Eólico em Einbroch]<INFO>einbroch,260,40,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "3 Coração Flamejante"
 	},
 	[5737] = {
-		Title = "Missão Invisível",
+		Title = "Proibição dos Teleportes",
 		Description = {
-			"Reserva de Espaço"
+			"Assim que o dispositivo é destruído, Vero também desaparece repentinamente... devemos voltar para <NAVI>[Lukie]<INFO>einbech,215,81,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Para Clana Nemieri"
 	},
 	[5846] = {
 		Title = "[Espera] Corredor Fantasma",
@@ -12046,7 +12046,11 @@ QuestInfoList = {
 		Title = "Caça ao Megalito",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Por favor, elimine \n\t\t\t5 <NAVI>[Trilobita Ancestral]<INFO>ILL_TRI_JOINT,0,0,3,-222,1</INFO></NAVI>, \n\t\t\t5 <NAVI>[Golem Ancestral]<INFO>ILL_STALACTIC_GOLEM,0,0,3,-222,1</INFO></NAVI>, \n\t\t\t5 <NAVI>[Megalith Ancestral]<INFO>ILL_MEGALITH,0,0,3,-222,1</INFO></NAVI>\n\t\t\te retorne a­ <NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>."
+			"Por favor, elimine ",
+			"5 <NAVI>[Trilobita Ancestral]<INFO>ILL_TRI_JOINT,0,0,3,-222,1</INFO></NAVI>, ",
+			"5 <NAVI>[Golem Ancestral]<INFO>ILL_STALACTIC_GOLEM,0,0,3,-222,1</INFO></NAVI>, ",
+			"5 <NAVI>[Megalith Ancestral]<INFO>ILL_MEGALITH,0,0,3,-222,1</INFO></NAVI>",
+			"e retorne a­ <NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Tribo Megalito",
 		NpcSpr = "4_M_THAIONGBAK",
@@ -12076,7 +12080,11 @@ QuestInfoList = {
 		Title = "Caça ao Wootan",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Por favor, elimine\n\t\t\t5 <NAVI>[Disparador de Pedras]<INFO>ILL_STONE_SHOOTER,0,0,3,-222,1</INFO></NAVI>, \n\t\t\t5 <NAVI>[Arqueiro Wootan]<INFO>ILL_WOOTAN_SHOOTER,0,0,3,-222,1</INFO></NAVI>, \n\t\t\t5 <NAVI>[Lutador Wootan]<INFO>ILL_WOOTAN_FIGHTER,0,0,3,-222,1</INFO></NAVI>¸\n\t\t\te retorne a­ <NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>."
+			"Por favor, elimine",
+			"5 <NAVI>[Disparador de Pedras]<INFO>ILL_STONE_SHOOTER,0,0,3,-222,1</INFO></NAVI>, ",
+			"5 <NAVI>[Arqueiro Wootan]<INFO>ILL_WOOTAN_SHOOTER,0,0,3,-222,1</INFO></NAVI>, ",
+			"5 <NAVI>[Lutador Wootan]<INFO>ILL_WOOTAN_FIGHTER,0,0,3,-222,1</INFO></NAVI>¸",
+			"e retorne a­ <NAVI>[Luanda]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Tribo Wootan",
 		NpcSpr = "4_M_THAIONGBAK",
@@ -17788,228 +17796,248 @@ QuestInfoList = {
 		Summary = "Fale com Gnocchi"
 	},
 	[7731] = {
-		Title = "Missão Invisível",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Precisamos saber quem é Bruno. Primeiro, vamos nos encontrar com Crux no­ <NAVI>[aeroporto]<INFO>lhz_airport,189,39,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Fale com Crux­"
 	},
 	[7732] = {
-		Title = "Missão Invisível",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Vamos procurar por Bruno em <NAVI>[Lighthalzen]<INFO>lighthalzen,186,293,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Encontre Bruno"
 	},
 	[7733] = {
-		Title = "Missão Invisível",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Eu sei para onde Bruno está indo. Diga a Skia, que está esperando perto da loja de departamentos em Lighthalzen, e vamos até a favela encontrar Bruno!"
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Para a Favela"
 	},
 	[7734] = {
-		Title = "Missão Invisível",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Bruno capturado com sucesso. Primeiro, vamos voltar ao <NAVI>[Palácio de Prontera]<INFO>prt_cas_q,21,39,0,101,0</INFO></NAVI>À."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Fale com Nihil­"
 	},
 	[7735] = {
-		Title = "Missão Invisível",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"A situação exige cooperação com a República de Schwartzwald. Spica foi lá negociar secretamente. Vamos nos encontrar no <NAVI>[aeroporto de Juno]<INFO>y_airport,168,41,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Fale com Crux­"
 	},
 	[7736] = {
-		Title = "Missão Invisível",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Vamos encontrar Spica dentro do <NAVI>[Hotel de Lighthalzen]<INFO>lhz_in02,239,145,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Fale com Spica­"
 	},
 	[7737] = {
-		Title = "Missão Invisível",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Devemos ir para Einbroch falar com um <NAVI>[Agente Especial]<INFO>einbroch,239,269,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Para Einbroch"
 	},
 	[7738] = {
-		Title = "Missão Invisível",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"A negociação com a Rebelião foi um sucesso, agora vamos ao <NAVI>[Hotel de Einbroch]<INFO>ein_in01,274,246,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Fale com Nihil­"
 	},
 	[7739] = {
-		Title = "Missão Invisível",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Vamos recuperar a Estrela da Bênção! Nos campos acima de Einbroch, fale com o responsável ao <NAVI>[norte]<INFO>ein_fild04,284,330,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Campos de Einbroch"
 	},
 	[7740] = {
-		Title = "Missão Invisível",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"A Estrela da Bênção foi recuperada. Vamos voltar ao <NAVI>[Hotel de Einbroch]<INFO>ein_in01,274,246,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Fale com Nihil­"
 	},
 	[7741] = {
-		Title = "Missão Invisível",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Recuperamos a Estrela da Bênção. Vamos retornar ao <NAVI>[Palácio de Prontera]<INFO>prt_cas_q,21,39,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Fale com Skia­"
 	},
 	[7742] = {
-		Title = "Missão Invisível",
+		Title = "Elimine Fofinho",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Diz-se que uma poderosa Quimera que nunca foi vista antes aparece na sala central do <NAVI>[Laboratório Werner]<INFO>slabw01,240,88,0,101,0</INFO></NAVI>. Elimine 'Fofinho' à pedido de <NAVI>[Lukie]<INFO>que_swat,150,58,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Laboratório Werner"
 	},
 	[7743] = {
-		Title = "Missão Invisível",
+		Title = "[Espera] Elimine Fofinho",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Você já eliminou Fofinho no <NAVI>[Laboratório Werner]<INFO>slabw01,240,88,0,101,0</INFO></NAVI>. Se desejar repetir a missão, volte a falar com <NAVI>[Lukie]<INFO>que_swat,150,58,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Reseta 4 da manhã.­",
+		CoolTimeQuest = 1
 	},
 	[7744] = {
-		Title = "Missão Invisível",
+		Title = "Pesquisadores Escondidos",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Encontre Pesquisadores espalhados no Laboratório Clandestino à pedido de <NAVI>[Tess]<INFO>que_swat,145,57,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "3 Pesquisadores"
 	},
 	[7745] = {
-		Title = "Missão Invisível",
+		Title = "[Espera] Pesquisadores Escondidos",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Se desejar repetir a missão, volte a falar com <NAVI>[Tess]<INFO>que_swat,145,57,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Reseta 4 da manhã.­",
+		CoolTimeQuest = 1
 	},
 	[7746] = {
-		Title = "Missão Invisível",
+		Title = "Últimas Memórias",
 		Description = {
-			"Reserva de Espaço"
+			"Você entregou as alianças que Seyren Windsor tinha comprado."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Antigas Alianças"
 	},
 	[7747] = {
-		Title = "Missão Invisível",
+		Title = "Últimas Memórias",
 		Description = {
-			"Reserva de Espaço"
+			"Você entregou os últimos pertences de Kathryne Keyron."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Colar com Medalhão"
 	},
 	[7748] = {
-		Title = "Missão Invisível",
+		Title = "Últimas Memórias",
 		Description = {
-			"Reserva de Espaço"
+			"Você entregou os últimos pertences de Margaretha Sorin."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Rosário de Madeira"
 	},
 	[7749] = {
-		Title = "Missão Invisível",
+		Title = "Últimas Memórias",
 		Description = {
-			"Reserva de Espaço"
+			"Você entregou os últimos pertences de Howard Alt-Eisen."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Dedal de Arco"
 	},
 	[7750] = {
-		Title = "Missão Invisível",
+		Title = "Últimas Memórias",
 		Description = {
-			"Reserva de Espaço"
+			"Você entregou os últimos pertences de Eremes Guile."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Adaga de Assassino"
 	},
 	[7751] = {
-		Title = "Missão Invisível",
+		Title = "Últimas Memórias",
 		Description = {
-			"Reserva de Espaço"
+			"Você entregou os últimos pertences de Cecil Damon."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Materiais de Costura"
 	},
 	[7752] = {
-		Title = "Missão Invisível",
+		Title = "Te achei!",
 		Description = {
-			"Reserva de Espaço"
+			"Encontrei um Pesquisador escondido."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = ""
 	},
 	[7753] = {
-		Title = "Missão Invisível",
+		Title = "Te achei!",
 		Description = {
-			"Reserva de Espaço"
+			"Encontrei um Pesquisador escondido."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = ""
 	},
 	[7754] = {
-		Title = "Missão Invisível",
+		Title = "Te achei!",
 		Description = {
-			"Reserva de Espaço"
+			"Encontrei um Pesquisador escondido."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = ""
 	},
 	[7755] = {
-		Title = "Missão Invisível",
+		Title = "Te achei!",
 		Description = {
-			"Reserva de Espaço"
+			"Encontrei um Pesquisador escondido."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = ""
 	},
 	[7756] = {
-		Title = "Missão Invisível",
+		Title = "Te achei!",
 		Description = {
-			"Reserva de Espaço"
+			"Encontrei um Pesquisador escondido."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = ""
 	},
 	[7757] = {
-		Title = "Missão Invisível",
+		Title = "Te achei!",
 		Description = {
-			"Reserva de Espaço"
+			"Encontrei um Pesquisador escondido."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = ""
 	},
 	[7758] = {
-		Title = "Missão Invisível",
+		Title = "Te achei!",
 		Description = {
-			"Reserva de Espaço"
+			"Encontrei um Pesquisador escondido."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = ""
 	},
 	[7759] = {
-		Title = "Missão Invisível",
+		Title = "Te achei!",
 		Description = {
-			"Reserva de Espaço"
+			"Encontrei um Pesquisador escondido."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = ""
 	},
 	[7760] = {
-		Title = "Missão Invisível",
+		Title = "Pesquisadores Escondidos",
 		Description = {
-			"Reserva de Espaço"
+			"Encontrei todos os pesquisadores escondidos. Vamos relatar para <NAVI>[Tess]<INFO>que_swat,145,57,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Fale com Tess­"
 	},
 	[7761] = {
-		Title = "Missão Invisível",
+		Title = "Elimine Quimeras",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"As tropas estão tendo dificuldade em lidar com os espécimes violentos dentro do laboratório. Elimine ^4d4dff10 Quimeras Disformes^000000 e ^4d4dff10 Quimeras Humanas^000000."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Caça às Quimeras"
 	},
 	[7762] = {
-		Title = "Missão Invisível",
+		Title = "[Espera] Elimine Quimeras",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Esta missão é diária e você poderá solicitar novamente com <NAVI>[Yuslan]<INFO>que_swat,161,53,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Reseta 4 da manhã.­",
+		CoolTimeQuest = 1
 	},
 	[7770] = {
 		Title = "Uma Noite sem Dormir ",
@@ -20514,7 +20542,7 @@ QuestInfoList = {
 		Description = {
 			"Por favor, espere um pouco. Vou criar uma joia com esse mineral, e inserir as informações mágicas. Você parece estar exausto..."
 		},
-		Summary = "Aguarde 1 hora"
+		Summary = ""
 	},
 	[8252] = {
 		Title = "Anel do Rei Sábio",
@@ -28561,123 +28589,143 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[11454] = {
-		Title = "Missão Invisível",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Não consegui convencer Rupert, o Líder dos Insurgentes. Vamos convencer outras pessoas primeiro."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Convença mais pessoas"
 	},
 	[11455] = {
-		Title = "Missão Invisível",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Entrei na sala de Dien. Vamos falar com as <NAVI>[Veteranas]<INFO>rebel_in,164,88,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Fale com Dien­"
 	},
 	[11456] = {
-		Title = "Missão Invisível",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Depois de explicar a situação, Dien pede um momento para pensar. Vamos falar com Dien novamente depois de um tempo."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Fale com Dien­"
 	},
 	[11457] = {
-		Title = "Missão Invisível",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Recebi o consentimento de Dien. Vamos convencer a Comandante do Batalhão das Forças Especiais, <NAVI>[Est Loveloy]<INFO>rebel_in,210,89,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Fale com Est­"
 	},
 	[11458] = {
-		Title = "Missão Invisível",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Você conseguiu o consentimento de Est. Fale com <NAVI>[Rupert]<INFO>rebel_in,122,71,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Fale com Rupert­"
 	},
 	[11459] = {
-		Title = "Missão Invisível",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Rupert leu a carta de Dien e não acreditou no conteúdo. Pediu para Larcis a ler novamente. Vamos ver Larcis."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Fale com Larcis­"
 	},
 	[11460] = {
-		Title = "Missão Invisível",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Ele verificou o conteúdo, mas não havia nada de errado. Fale com <NAVI>[Rupert]<INFO>rebel_in,122,71,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Fale com Rupert­"
 	},
 	[11461] = {
-		Title = "Missão Invisível",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Dien apareceu enquanto falava com Rupert. Fale com Dien."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Fale com Dien­"
 	},
 	[11462] = {
-		Title = "Missão Invisível",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Dien e Rupert apareceram de repente e começaram a brigar. Vamos ouvir a história de Rupert."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Fale com Rupert­"
 	},
 	[11463] = {
-		Title = "Missão Invisível",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Ouvi algo suspeito na frente do quarto de Dien, mas acho que devo fingir que sei. Depois de ter prometido ajudar com o recado, vamos entrar na sala e falar com <NAVI>[Dien]<INFO>rebel_in,164,88,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Fale com Dien­"
 	},
 	[11464] = {
-		Title = "Missão Invisível",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Dien contou a Larcis sobre o assunto. Fale com <NAVI>[Larcis]<INFO>rebel_in,162,87,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Fale com Larcis­"
 	},
 	[11465] = {
-		Title = "Missão Invisível",
+		Title = "Chá de Dien",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Dien, a veterana da Rebelião, pede que você traga 1x Chá Sofisicado da <NAVI>[Base Militar]<INFO>ein_fild04,281,337,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "1x Chá Sofisicado"
 	},
 	[11466] = {
-		Title = "Missão Invisível",
+		Title = "[Espera] Chá de Dien",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Concluída a missão de Dien. Volte amanhã."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Reseta 4 da manhã.­",
+		CoolTimeQuest = 1
 	},
 	[11467] = {
-		Title = "Missão Invisível",
+		Title = "Carta de Ridsh",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Ridsh, a veterana da Rebelião, quer que você traga 1x Carta Antiga da <NAVI>[Base Militar]<INFO>ein_fild04,281,337,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "1x Carta Antiga"
 	},
 	[11468] = {
-		Title = "Missão Invisível",
+		Title = "[Espera] Carta de Ridsh",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Concluída a missão de Ridsh. Volte amanhã."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Reseta 4 da manhã.­",
+		CoolTimeQuest = 1
 	},
 	[11469] = {
-		Title = "Missão Invisível",
+		Title = "Anéis de Cotnes",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Cotnes, a veterana da Rebelião, quer que você traga 1x Anéis Brilhantes da <NAVI>[Base Militar]<INFO>ein_fild04,281,337,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "1x Anéis Brilhantes"
 	},
 	[11470] = {
-		Title = "Missão Invisível",
+		Title = "[Espera] Anéis de Cotnes",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Reserva de Espaço"
+			"Concluída a missão de Cotnes. Volte amanhã."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Reseta 4 da manhã.­",
+		CoolTimeQuest = 1
 	},
 	[11471] = {
 		Title = "Velozes e Velhacos",
@@ -33123,25 +33171,26 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã."
 	},
 	[12374] = {
-		Title = "Missão Invisível",
+		Title = "Base Militar",
 		Description = {
-			"Reserva de Espaço"
+			"Hora de invadir a Base Militar da Caça-Coração e torná-la propriedade da Rebelião."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Complete a instância"
 	},
 	[12375] = {
-		Title = "Missão Invisível",
+		Title = "[Espera] Base Militar]",
 		Description = {
-			"Reserva de Espaço"
+			"A Base Militar está em manutenção. Estamos bloqueando temporariamente o acesso para os Engenheiros terminarem de fazer os ajustes."
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Reseta 4 da manhã.­",
+		CoolTimeQuest = 1
 	},
 	[12376] = {
-		Title = "Missão Invisível",
+		Title = "Primeira Negociação",
 		Description = {
-			"Reserva de Espaço"
+			"Você iniciou seu primeiro negócio com o Hogar"
 		},
-		Summary = "Reserva de Espaço"
+		Summary = "Primeira Negociação"
 	},
 	[12377] = {
 		Title = "Cripta",
@@ -37879,27 +37928,31 @@ QuestInfoList = {
 	},
 	[14595] = {
 		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Temos que ir para a estação de trem de Einbech. Se você perder a trilha, vamos nos encontrar na estação de trem de Einbech..."
+			"Temos que ir para <NAVI>[Einbech]<INFO>einbroch,269,268,0,101,0</INFO></NAVI>. Se você perder a trilha, vamos nos encontrar na <NAVI>[estação de trem]<INFO>einbech,46,208,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Vá para Einbech"
+		Summary = "Para Einbech"
 	},
 	[14596] = {
 		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"A partir daqui, a estrada fica complicada. Nalandro vai deixar uma marca no mini mapa, então você tem que observar com atenção e segui-lo."
+			"A partir daqui, a estrada fica complicada. Nalandro vai deixar uma marca no mini mapa, então você tem que observar com atenção e <NAVI>[seguir o caminho]<INFO>einbech,76,131,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Siga a trilha"
 	},
 	[14597] = {
 		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Temos que ir para a margem do rio de Einbech. Siga a trilha marcada no mapa."
+			"Temos que ir para a margem do rio de Einbech. Siga a <NAVI>[trilha]<INFO>einbech,217,82,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Siga a trilha"
 	},
 	[14598] = {
 		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
 			"Nalandro parece ter algo para fazer aqui. Entre."
 		},
@@ -37907,6 +37960,7 @@ QuestInfoList = {
 	},
 	[14599] = {
 		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
 			"Como gesto de gratidão, vamos tomar uma xícara de chá. Fale com Nemi ou Eri e eles deixarão você passar para o outro lado da loja."
 		},
@@ -37914,6 +37968,7 @@ QuestInfoList = {
 	},
 	[14600] = {
 		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
 			"Primeiro, procure Rupert, o Líder dos Insurgentes, no 2º andar. Pode não ser fácil convencê-lo, se for esse o caso, procure as veteranas."
 		},
@@ -37921,6 +37976,7 @@ QuestInfoList = {
 	},
 	[14601] = {
 		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
 			"Procure pelas veteranas no 2º andar e converse com elas. Tente agir com o máximo de cortesia possível."
 		},
@@ -37928,6 +37984,7 @@ QuestInfoList = {
 	},
 	[14602] = {
 		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
 			"Converse com Elena no 2º andar. Ela adora desafiar aventureiros, então tome cuidado."
 		},
@@ -37935,27 +37992,31 @@ QuestInfoList = {
 	},
 	[14603] = {
 		Title = "Reparos para Denny",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Para reparar o cano, você precisa de 5 Aços e 15 Placas de Ferro Usadas. Ah! E elimine 10 Fornalhas Velhas também."
+			"Traga 5x Aço, 15x Placa de Ferro Usada e elimine 10x Fornalha Velha para <NAVI>[Lukie]<INFO>einbech,217,82,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Colete os itens"
 	},
 	[14604] = {
 		Title = "Combustíveis para Cyan",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Preciso de 10 Madeiras Queimadas e 3 Carvões. Ah! E elimine 10 Fornalhas Velhas."
+			"Traga 10x Madeira Queimada, 3x Carvão e elimine 10x Fornalha Velha para <NAVI>[Lukie]<INFO>einbech,217,82,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Colete os itens"
 	},
 	[14605] = {
 		Title = "Cristais para Magenta",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Traga 10 Fragmentos de Cristal e 10 Fragmentos de Cristal Negro. Ah! Eliminar 5 Obsidianas e 5 Minerais."
+			"Traga 10x Fragmento de Cristal, 10x Fragmento de Cristal Negro e elimine 5x Obsidiana e 5x Mineral para <NAVI>[Lukie]<INFO>einbech,217,82,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Colete os itens"
 	},
 	[14606] = {
 		Title = "Reparos para Denny",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Para reparar o cano, você precisa de 5 Aços e 15 Placas de Ferro Usadas. Ah! E elimine 10 Fornalhas Velhas também."
 		},
@@ -37963,6 +38024,7 @@ QuestInfoList = {
 	},
 	[14607] = {
 		Title = "Combustíveis para Cyan",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Preciso de 10 Madeiras Queimadas e 3 Carvões. Ah! E elimine 10 Fornalhas Velhas."
 		},
@@ -37970,6 +38032,7 @@ QuestInfoList = {
 	},
 	[14608] = {
 		Title = "Cristais para Magenta",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Traga 10 Fragmentos de Cristal e 10 Fragmentos de Cristal Negro. Ah! Eliminar 5 Obsidianas e 5 Minerais."
 		},
@@ -37977,34 +38040,44 @@ QuestInfoList = {
 	},
 	[14609] = {
 		Title = "[Espera] Pedidos de Lukie",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Cyan, Magenta e Denny não precisam de mim agora. Amanhã volto a falar com Lukie."
+			"Cyan, Magenta e Denny não precisam de mim agora. Amanhã volto a falar com <NAVI>[Lukie]<INFO>einbech,217,82,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Volte amanhã"
+		Summary = "Reseta 4 da manhã.­",
+		CoolTimeQuest = 1
 	},
 	[14610] = {
 		Title = "Recuperando Armas",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Se você for ao sul de Einbech, haverá montes de terra com Resto de Arma Quebrada, traga 3 para mim. Aproveite e elimine 5 Rancor de Arma."
+			"Se você for ao sul de Einbech, haverá montes de terra com Resto de Arma Quebrada, traga 3 para mim. Aproveite e elimine 5 Rancor de Arma. ",
+			"- <NAVI>[Chefe]<INFO>einbech,217,82,0,101,0</INFO></NAVI>"
 		},
-		Summary = "3 Restos de Arma Quebrada"
+		Summary = "3 Resto de Arma Quebrada"
 	},
 	[14611] = {
 		Title = "Recuperando Armas",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Se você for ao sul de Einbech, haverá montes de terra com Resto de Arma Quebrada, traga 3 para mim. Aproveite e elimine 5 Rancor de Arma."
+			"Se você for ao sul de Einbech, haverá montes de terra com Resto de Arma Quebrada, traga 3 para mim. Aproveite e elimine 5 Rancor de Arma. ",
+			"- <NAVI>[Chefe]<INFO>einbech,217,82,0,101,0</INFO></NAVI>"
 		},
-		Summary = "3 Restos de Arma Quebrada"
+		Summary = "3 Resto de Arma Quebrada"
 	},
 	[14612] = {
 		Title = "[Espera] Recuperando Armas",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Estamos consertando as armas recuperadas. Eu ficaria muito grata se você pudesse me visitar novamente amanhã."
+			"Estamos consertando as armas recuperadas. Eu ficaria muito grata se você pudesse me visitar novamente amanhã. ",
+			"- <NAVI>[Chefe]<INFO>einbech,217,82,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Volte amanhã"
+		Summary = "Reseta 4 da manhã.­",
+		CoolTimeQuest = 1
 	},
 	[14613] = {
 		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
 			"No 2º andar, fale com Est, a Comandante das Forças Especiais da Rebelião. Se você convencê-la, a próxima tarefa será fácil."
 		},
@@ -38012,13 +38085,15 @@ QuestInfoList = {
 	},
 	[14614] = {
 		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
 			"Primeiro, convença os poderosos daqui. Est, Elena, Rupert e as Veteranas, Assim que falar com todos, volte até mim."
 		},
 		Summary = "Volte a Nalandro"
 	},
 	[14615] = {
-		Title = "Operação Militar",
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
 		Description = {
 			"Disseram que tínhamos alguém pronto para cooperar conosco. Encontre o Combatente no corredor de Clana Nemieri."
 		},
@@ -39201,367 +39276,420 @@ QuestInfoList = {
 		Summary = "Ganaan"
 	},
 	[16009] = {
-		Title = "Hora do Quiz!",
+		Title = "Desafio de Elena",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Volte para Arian e ele lhe informará os resultados do teste."
+			"Elena Bolkova parece estar ansiosa por uma revanche. Entre na sala de espera e lute com <NAVI>[Elena Bolkova]<INFO>rebel_in,70,78,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ganaan"
+		Summary = "Arena de Combate"
 	},
 	[16010] = {
-		Title = "Teste de Daewoon",
+		Title = "[Espera] Desafio de Elena]",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Agora você deve ir ver Daewoon em Payon para a próxima parte do exame. Não se esqueça de mostrar a ele essa estrela!"
+			"Elena Bolkova parece não ter se esforçado na luta. Descanse o suficiente e volte amanhã para uma nova batalha em <NAVI>[Clana Nemieri]<INFO>einbech,216,80,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Daewoon"
+		Summary = "Reseta 4 da manhã.­",
+		CoolTimeQuest = 1
 	},
 	[16011] = {
-		Title = "Teste de Sir Jore",
+		Title = "Desafio de Elena",
 		Description = {
-			"Seu próximo examinador é Sir Jore, também conhecido como o Fantasma de Al De Baran. Encontre-o e faça o teste."
+			"Depois de se preparar, vamos entrar no ringue de batalha clicando no chat de <NAVI>[Ivan Ivanov]<INFO>rebel_in,177,28,0,101,0</INFO></NAVI>¸¦ ÅëÇØ ´ë·ÃÀå¿¡ ÀÔÀåÇÏÀÚ."
 		},
-		Summary = "Sir Jore em Al De Baran"
+		Summary = "Entre na Arena"
 	},
 	[16012] = {
-		Title = "Materiais de Sir Jore",
+		Title = "Gêmeos Levedev",
 		Description = {
-			"Sir Jore precisa de uma nova amostra de pesquisa para substituir a que foi destruída. Leve ^FF000010 tubos de ensaio vazios, 10 ervas verdes e 1 folha de Yggdrasil^000000 para ele."
-		}
+			"Elena Bolkova está preocupada com os Gêmeos Levedev. Em nome de Elena, vamos falar com os <NAVI>[Gêmeos]<INFO>rebel_in,109,54,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Fale com Jana"
 	},
 	[16013] = {
-		Title = "A Pedra do Sábio",
+		Title = "Gêmeos Levedev",
 		Description = {
-			"Sir Jore solicita que você investigue a Pedra do Sábio encontrando um pai e uma filha que eram famosos por serem grandes alquimistas. Ele disse que eles desapareceram nas profundezas de uma floresta próxima daqui."
-		}
+			"Fale dos Gêmeos Levedev para <NAVI>[Milo River]<INFO>rebel_in,108,27,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Fale com Milo River"
 	},
 	[16014] = {
-		Title = "A Pedra do Sábio",
+		Title = "Gêmeos Levedev",
 		Description = {
-			"Você encontrou os alquimistas Gordon e Pleur e eles lhe contaram tudo o que sabiam sobre a Stone of Sage. Volte para Sir Jore e conte a ele o que eles lhe disseram."
+			"Fale dos Gêmeos Levedev para <NAVI>[Manson Bender]<INFO>rebel_in,108,27,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Senhor Jore"
+		Summary = "Fale com Mason Bender"
 	},
 	[16015] = {
-		Title = "Senhora Jesqurienne",
+		Title = "Gêmeos Levedev",
 		Description = {
-			"Sir Jore lhe deu um pedaço do Sobbing Starlight e lhe disse para visitar Lady Jesqurienne em Geffen. Ela viaja com frequência, então provavelmente está na pousada."
+			"Vamos pedir ajuda para <NAVI>[Elena Bolkova]<INFO>rebel_in,70,78,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Lady Jesquerinne em Geffen"
+		Summary = "Volte para Elena"
 	},
 	[16016] = {
-		Title = "Desafio de perguntas de Jesquerinne",
+		Title = "Gêmeos Levedev",
 		Description = {
-			"Você encontrou Lady Jesquerinne em um estado de embriaguez e ela o desafiou para um Quiz Challenge que será administrado pelo Professor Aaron."
+			"Vamos pedir conselhos sobre os gêmeos falando com <NAVI>[Ericsson Adler]<INFO>rebel_in,91,67,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Professor Aaron"
+		Summary = "Fale com Ericsson Adler"
 	},
 	[16017] = {
-		Title = "Desafio de quiz fracassado",
+		Title = "Gêmeos Levedev",
 		Description = {
-			"Você não conseguiu vencer a Lady Jesquerinne no Quiz Challenge. Mas não desista ainda..."
-		}
+			"Eu ouvi a razão pela qual os gêmeos Levedev se tornaram o problema de todos. Vamos voltar a <NAVI>[Elena Bolkova]<INFO>rebel_in,70,78,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Volte para Elena"
 	},
 	[16018] = {
-		Title = "Quiz Desafio Triunfo",
+		Title = "Gêmeos Levedev",
 		Description = {
-			"Você derrotou Lady Jesquerinne no Quiz Challenge. Fale com ela novamente e se vanglorie de seu intelecto superior."
+			"Elena Bolkova me pediu para chamar os <NAVI>[gêmeos]<INFO>rebel_in,109,54,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Senhora Jesquerinne"
+		Summary = "Fale com Jana Levedev"
 	},
 	[16019] = {
-		Title = "Busca por Dearles",
+		Title = "Gêmeos Levedev",
 		Description = {
-			"Se você quiser saber mais sobre o Sobbing Starlight, encontre um homem chamado ^3131CEDearles^000000. Pode ser difícil encontrá-lo, pois ele vaga de um lugar para outro, mas pode ser útil saber que ele adora jogos de azar..."
+			"As duas crianças ficaram satisfeitas com a solução de Elena Bolkova?"
 		},
-		Summary = "Encontre Dearles"
+		Summary = ""
 	},
 	[16020] = {
-		Title = "Teste de Dearles",
+		Title = "[Espera] Gêmeos Levedev",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Você pagou 30.000 zeny a Dearles para fazer o teste e ele lhe disse para voltar amanhã para começar o teste."
+			"Não se esqueça do pedido de Elena Bolkova, vamos voltar para os gêmeos amanhã, em <NAVI>[Clana Nemieri]<INFO>einbech,216,80,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Fale com Dearles' depois que o cronômetro expirar."
+		Summary = "Reseta 4 da manhã.­",
+		CoolTimeQuest = 1
 	},
 	[16021] = {
-		Title = "Teste de apreciação",
+		Title = "Gêmeos: Livro Infantil",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Dearles não lhe dá uma lista exata de itens a serem obtidos para ele. Em vez disso, ele pede que você traga itens que testarão sua apreciação pelo trabalho artesanal."
+			"Vamos pegar emprestado o livro '^0000CDEnjoado de Tanto Girar^000000' na <NAVI>[Biblioteca de Prontera­]<INFO>prt_in,165,89,0,101,0</INFO></NAVI>. Um livro sobre um Sicário que girava demais."
 		},
-		Summary = "Itens de artesanato"
+		Summary = "Para Prontera"
 	},
 	[16022] = {
-		Title = "Parte dois do teste de Dearles",
+		Title = "Gêmeos: Livro Infantil",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Dearles diz que você está pronto para a próxima etapa do teste. Você é enviado a Lamadin para a Parte Dois do teste."
+			"Vamos pegar emprestado o livro '^0000CDRebelião, a história da liberdade^000000' na <NAVI>[Biblioteca de Prontera­]<INFO>prt_in,165,89,0,101,0</INFO></NAVI>. A história de liberdade e insurgência dos rebeldes de meia-idade que foi repassada através dos tempos!"
 		},
-		Summary = "Examinador Lamadin"
+		Summary = "Para Prontera"
 	},
 	[16023] = {
-		Title = "Aprovado no teste de ritmo",
+		Title = "Gêmeos: Livro Infantil",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Você passou na segunda parte do teste de Dearles. Volte para ele e diga como você se saiu."
+			"Vamos pegar emprestado o livro '^0000CDHorizonte de Nifflheim^000000' na <NAVI>[Biblioteca de Prontera­]<INFO>prt_in,165,89,0,101,0</INFO></NAVI>. Um ensaio comovente que descreve lindamente a ecologia das criaturas que habitam Nifflheim."
 		},
-		Summary = "Dearles"
+		Summary = "Para Prontera"
 	},
 	[16024] = {
-		Title = "Encontre a Bakerlan",
+		Title = "Gêmeos: Livro Infantil",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Você terminou a parte do exame de Dearles. Pegue o pedaço de Sobbing Starlight e encontre alguém chamado Bakerlan em Alberta."
+			"Você pegou um livro emprestado da Bibliotecária. Leve-o para os gêmeos Levedev em <NAVI>[Clana Nemieri]<INFO>rebel_in,109,54,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Bakerlan em Alberta"
+		Summary = "Para Clana Nemieri"
 	},
 	[16025] = {
-		Title = "Entrega do Bakerlan",
+		Title = "Gêmeos: Mineradores",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Bakerlan pediu que você fizesse uma entrega de algo caro. Fale com seu mordomo para obter mais informações."
+			"Elimine ^0000CD30 Mineiros^000000 e traga ^0000CD1x Mistura de Pólvora^000000 para os <NAVI>[Gêmeos Levedev]<INFO>einbech,216,80,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Mahatra de administrador refinado"
+		Summary = "1 Mistura de Pólvora"
 	},
 	[16026] = {
-		Title = "Entrega do Mahatra",
+		Title = "Gêmeos: Ar Poluído",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Mahatra lhe deu uma pedra que tem seu nome anexado a ela. Entregue-a a um cavaleiro chamado Leibech."
+			"Elimine ^0000CD20 Nuvens Tóxicas, 20 Nuvens Venenosas^000000 e traga ^0000CD1 Pó Explosivo^000000 para os <NAVI>[Gêmeos Levedev]<INFO>einbech,216,80,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Leibech."
+		Summary = "1 Pó Explosivo"
 	},
 	[16027] = {
-		Title = "Recibo da Bakerlan",
+		Title = "Gêmeos: Culinária",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Leibech está grato por você ter levado a entrega até ele. Ele lhe deu um recibo, leve-o para Bakerlan."
+			"Os gêmeos Levedev querem distribuir doces mal-assados para o povo da Rebelião. Entregue para <NAVI>[Milo River]<INFO>rebel_in,108,27,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Bakerlan"
+		Summary = "Milo River"
 	},
 	[16028] = {
-		Title = "Encontre Seylin",
+		Title = "Gêmeos: Culinária",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Mahatra diz que Bakerlan não lhe deixou nenhuma instrução. Mas lembra que ele tem algo para você fazer. Ajude nossa Seylin... Ela parece incomodada com alguma coisa..."
+			"Os gêmeos Levedev querem distribuir doces mal-assados para o povo da Rebelião. Entregue para <NAVI>[Manson Bender]<INFO>rebel_in,33 43,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Empregada, Seylin"
+		Summary = "Manson Bender"
 	},
 	[16029] = {
-		Title = "Medicina Vigorgra",
+		Title = "Gêmeos: Culinária",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Seylin pediu que você encontrasse um novo medicamento chamado Vigorgra. Talvez você consiga encontrar o Vigorgra na Alchemist's Guild em Al De Baran."
+			"Os gêmeos Levedev querem distribuir doces mal-assados para o povo da Rebelião. Entregue para <NAVI>[Rachel Smith]<INFO>rebel_in,90,51,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Guilda dos Alquimistas em Al De Baran"
+		Summary = "Rachel Smith"
 	},
 	[16030] = {
-		Title = "Ingredientes do Vigorgra",
+		Title = "Gêmeos: Culinária",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Melkeba concorda em fazer o Vigorgra para você se você trouxer os seguintes ingredientes: ^FF00001 Ment, 20 Honey, 10 Royal Jelly, 30 Bear's Footskins, 1 Hinalle Leaflet e 1 Empty Bottle.^000000"
-		}
+			"Os gêmeos Levedev querem distribuir doces mal-assados para o povo da Rebelião. Entregue para <NAVI>[Ericsson Adler]<INFO>rebel_in,91,67,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Ericsson Adler"
 	},
 	[16031] = {
-		Title = "Ingredientes do Vigorgra",
+		Title = "Gêmeos: Culinária",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Melkeba o ajudou a criar o Vigorgra. Traga-o de volta para Seylin"
+			"Os gêmeos Levedev querem distribuir doces mal-assados para o povo da Rebelião. Entregue para <NAVI>[Elena Bolkova]<INFO>rebel_in,70,78,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Empregada, Seylin"
+		Summary = "Elena Bolkova"
 	},
 	[16032] = {
-		Title = "Solicitação de Seylin",
+		Title = "Lanche dos Veteranos",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Seylin pediu que você levasse o Vigorgra para o irmão dela, Maruin, no Castelo de Prontera, junto com uma carta que ela escreveu."
+			"Traga ao menos 1 prato de culinária para <NAVI>[Milo River]<INFO>rebel_in,108,27,0,101,0</INFO></NAVI>.",
+			"^0000CDChá de Ervas com Uvas, Chá Vermelho de Outono, Chá de Ervas e Mel, Bolo-Mousse de Chocolate ou Salada de Frutas^000000."
 		},
-		Summary = "Maruin no Castelo de Prontera"
+		Summary = "1 Prato de Culinária"
 	},
 	[16033] = {
-		Title = "Voltar para Seylin",
+		Title = "Gêmeos: Culinária",
 		Description = {
-			"Você entregou o Vigorgra e a carta de Seylin. Você provavelmente deveria voltar e dizer a ela que seu irmão ficou grato pelo presente."
+			"Ericsson Adler me deu um doce especial. Vou levar para comer com os <NAVI>[Gêmeos]<INFO>rebel_in,109,54,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Empregada, Seylin"
+		Summary = "Fale com Jana Levedev"
 	},
 	[16034] = {
-		Title = "Voltar para Mahatra",
+		Title = "[Espera] Lanche dos Veteranos",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Volte para Mahatra e informe-o de que você concluiu a tarefa que o Seylin lhe designou."
+			"Os mais velhos têm lanches uma vez por dia. Amanhã, vamos visitar Milo River em <NAVI>[Clana Nemieri]<INFO>einbech,216,80,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Mahatra"
+		Summary = "Reseta 4 da manhã.­",
+		CoolTimeQuest = 1
 	},
 	[16035] = {
-		Title = "Reportar para Bakerlan",
+		Title = "Armeira da Rebelião",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Informe a Bakerlan que você concluiu as tarefas que Mahatra e Seylin lhe pediram para fazer."
+			"Vá até a Guilda dos Ferreiros em Einbroch falar sobre Rachel Smith para o <NAVI>[Ferreiro Jack]<INFO>ein_in01,38,21,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Bakerlan"
+		Summary = "Fale com Ferreiro Jack"
 	},
 	[16036] = {
-		Title = "A última migalha",
+		Title = "Armeira da Rebelião",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Bakerlan diz que você finalmente concluiu os testes de qualificação. Volte para Metz em Prontera com todas as Starlight Crumbs."
+			"Vamos informar os resultados que ouvimos do Ferreiro Jack para <NAVI>[Rachel Smith]<INFO>einbech,216,80,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Metz em Prontera"
+		Summary = "Fale com Rachel Smith"
 	},
 	[16037] = {
-		Title = "Como encontrar Engel Howard",
+		Title = "[Espera] Armeira da Rebelião]",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Fale primeiro com a filha de Brenda Howard. Ela pode ter algo que queira dar a seu pai, Engel Howard..."
+			"Aparentemente, vai dá para trabalhar com os materiais de hoje. Amanhã, vamos ver se podemos ajudar <NAVI>[Rachel Smith]<INFO>einbech,216,80,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Liana Howard"
+		Summary = "Reseta 4 da manhã.­",
+		CoolTimeQuest = 1
 	},
 	[16038] = {
-		Title = "Carta de Liana",
+		Title = "Armeira da Rebelião",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Encontre Engel Howard e entregue a ele a carta de sua filha Liana."
+			"Traga ^0000CD2x Oridecon^000000 para <NAVI>[Rachel Smith]<INFO>rebel_in,90,51,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Engel Howard"
+		Summary = "2 Oridecon"
 	},
 	[16039] = {
-		Title = "Combinando o Starlight",
+		Title = "Armeira da Rebelião",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"O Engel precisará de alguns materiais para combinar as Crumbs of Sobbing Starlight. Traga ^FF00005 Mini Fornos, 2 Martelos Oridecon e 1 Bigorna de boa qualidade^000000."
+			"Traga ^0000CD2x Elunium^000000 para <NAVI>[Rachel Smith]<INFO>rebel_in,90,51,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Traga os materiais para a Engel"
+		Summary = "2 Elunium"
 	},
 	[16040] = {
-		Title = "Carta à família de Engel",
+		Title = "Armeira da Rebelião]\n\t\tIconName = [=[ico_dq.bmp",
 		Description = {
-			"Enquanto Engel está trabalhando na combinação das Crumbs of Sobbing Starlight, ele pediu que você entregasse uma carta à família dele em seu nome."
+			"Traga ^0000CD5x Ferro^000000 para <NAVI>[Rachel Smith]<INFO>rebel_in,90,51,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Entregar a carta à família Howard"
+		Summary = "5 Ferro"
 	},
 	[16041] = {
-		Title = "Fale com Liana",
+		Title = "Gata Perdida",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Fale com a Liana. Aparentemente, ela está esperando para lhe dizer algo."
+			"Charity, a gata da Rebelião, não apareceu para jantar. ^0000CDProcure no banco vazio em Einbech^000000 e use a Anchova Crocante."
 		},
-		Summary = "Liana"
+		Summary = "Bancos Vazios"
 	},
 	[16042] = {
-		Title = "Progresso do Sobbing Starlight",
+		Title = "[Espera] Gata Perdida",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Você recebeu um presente de doces de Liana. Talvez seja hora de verificar com Engel se ele fez algum progresso na combinação das Crumbs of Sobbing Starlight."
+			"Charity, está brincando com Milo River. Parece ser seguro por enquanto, então vamos voltar só amanhã para <NAVI>[Clana Nemieri]<INFO>einbech,216,80,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Engel Howard"
+		Summary = "Reseta 4 da manhã.­",
+		CoolTimeQuest = 1
 	},
 	[16043] = {
-		Title = "Sobbing Starlight restaurado",
+		Title = "Gata Perdida",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Engel conseguiu restaurar o Sobbing Starlight. Você deve levar isso de volta para Metz e ver se ele sabe o que você pode fazer com isso."
+			"Milo River está doido para acariciar Charity. Vamos ver um ^0000CDbanco vazio de Einbech^000000."
 		},
-		Summary = "Metz em Prontera"
+		Summary = "Ache um banco"
 	},
 	[16044] = {
-		Title = "Combinando o Starlight",
+		Title = "Gata Perdida",
 		Description = {
-			"Engel não conseguiu restaurar o Sobbing Starlight. Você deve trazer mais materiais para tentar restaurá-la novamente. Traga ^FF00005 minifornos, 2 martelos Oridecon e uma bigorna de melhor qualidade (Golden ou Emperium Anvil)^000000."
+			"Eu encontrei Charity! Vamos aproveitar que Charity está ocupada comendo Anchovas Crocantes e levá-la a­ <NAVI>[Milo River]<INFO>einbech,216,80,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Traga os materiais para Engel"
+		Summary = "Para Milo River"
 	},
 	[16045] = {
-		Title = "Mensagem do Starlight",
+		Title = "Gesto de Carinho",
 		Description = {
-			"Metz diz que a pedra tem uma mensagem secreta para um lugar antigo... mas precisamos de um Mago para desbloquear a mensagem. Visite os Wizards no último andar da Geffen Tower e encontre alguém que possa ajudá-lo..."
+			"Ericsson Adler pediu que você compre flores de uma Menina Florista, perto da Torre de Aço de <NAVI>[Einbroch]<INFO>einbroch,167,160,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Torre de Geffen"
+		Summary = "Para a Menina Florista"
 	},
 	[16046] = {
-		Title = "O homem em Umbala",
+		Title = "Gesto de Carinho",
 		Description = {
-			"Dhota, na Torre de Geffen, lhe diz que o homem que você está procurando foi para algum lugar perto de Umbala para investigar o povo tribal de lá."
+			"Traga ^0000CD3x Pedaço de Papel^000000 para a <NAVI>[Menina Florista]<INFO>einbroch,167,160,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Investigar Umbala"
+		Summary = "3 Pedaço de Papel"
 	},
 	[16047] = {
-		Title = "Para dentro da árvore",
+		Title = "Gesto de Carinho",
 		Description = {
-			"Laotan, em Umbala, conta que havia um homem estranho na aldeia, mas que ele entrou em uma grande árvore e ninguém mais o viu."
-		}
+			"Recebi o ^0000CDBuquê Cerimonial^000000. Vamos colocá-lo debaixo da <NAVI>[Grande Árvore]<INFO>einbroch,162,153,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Grande Árvore"
 	},
 	[16048] = {
-		Title = "Documentos antigos",
+		Title = "Gesto de Carinho",
 		Description = {
-			"Cyon manterá sua promessa de ler a mensagem no Sobbing Starlight, mas precisará de ^FF000010 pedaços de papel antigos^000000 para fazer isso."
-		}
+			"Agora que ouviu a história da Vovó Lucy, vamos voltar para relatar ao <NAVI>[Ericsson Adler]<INFO>rebel_in,91,67,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Para Ericsson Adler"
 	},
 	[16049] = {
-		Title = "Registro de idioma antigo",
+		Title = "[Espera] Gesto de Carinho",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Cyon lhe deu um Registro de Idioma Antigo do Sobbing Starlight. Você deve retornar a Prontera e mostrá-lo a Metz."
+			"Até os mortos precisam de silêncio. Amanhã, vamos revisitar Ericsson Adler em <NAVI>[Clana Nemieri]<INFO>einbech,216,80,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Metz em Prontera"
+		Summary = "Reseta 4 da manhã.­",
+		CoolTimeQuest = 1
 	},
 	[16050] = {
-		Title = "O Velho Fastidioso",
+		Title = "Gesto de Carinho",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"O documento foi escrito em um idioma que Metz não consegue ler. Você deve encontrar um homem chamado Frank Franklin que vive em um navio afundado em Alberta."
+			"Ericsson Adler pediu que você compre flores de uma Menina Florista, perto da Torre de Aço de <NAVI>[Einbroch]<INFO>einbroch,167,160,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Frank Franklin"
+		Summary = "Para a Menina Florista"
 	},
 	[16051] = {
-		Title = "Visão embaçada",
+		Title = "Gesto de Carinho",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Você encontrou Frank, mas ele está reclamando de visão embaçada e dores de cabeça quando lê. Leve a ele algo que o ajude na leitura."
-		}
+			"Traga ^0000CD3x Pedaço de Papel^000000 para a <NAVI>[Menina Florista]<INFO>einbroch,167,160,0,101,0</INFO></NAVI>."
+		},
+		Summary = "3 Pedaço de Papel"
 	},
 	[16052] = {
-		Title = "Tradução do documento",
+		Title = "Gesto de Carinho",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Frank diz que ele é a única pessoa no mundo que pode traduzir o documento. Dê a ele algum tempo para traduzir o documento e pergunte se ele já terminou."
+			"Recebi o ^0000CDBuquê Cerimonial^000000. Vamos colocá-lo debaixo da <NAVI>[Grande Árvore]<INFO>einbroch,162,153,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Frank Franklin"
+		Summary = "Grande Árvore"
 	},
 	[16053] = {
-		Title = "Tradução do idioma antigo",
+		Title = "Gesto de Carinho",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Frank traduziu o documento com sucesso. Parece que você precisa ir a algum lugar para saber mais sobre isso."
+			"Vamos voltar para relatar ao <NAVI>[Ericsson Adler]<INFO>rebel_in,91,67,0,101,0</INFO></NAVI>."
 		},
-		Summary = "4 Resina, 12 Corações de Pedra, 365 Recife de Coral"
+		Summary = "Para Ericsson Adler"
 	},
 	[16054] = {
-		Title = "Onde vivem os rejeitados",
+		Title = "Dia de Panfletagem",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"A Valquíria Sandra enviou você para encontrar a influência maligna por conta própria. Você deve encontrar alguém em uma cidade onde os rejeitados são deixados para trás..."
-		}
+			"Distribua ao povo de Einbech os panfletos feitos por <NAVI>[Manson Bender]<INFO>rebel_in,19,48,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Panfletos de Loja"
 	},
 	[16055] = {
-		Title = "Infortúnio de Nifflheim",
+		Title = "Panfleto: Trem Barulhento",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Você decidiu ajudar os desafortunados de Nifflheim e, para isso, precisa primeiro ganhar a confiança deles falando devagar e perto deles."
+			"Entreguei um panfleto escrito em letras cursivas desnecessariamente coloridas para o <NAVI>[Homem Cansado]<INFO>einbech,71,168,0,101,0</INFO></NAVI>."
 		},
-		Summary = ""
+		Summary = "Homem Cansado"
 	},
 	[16056] = {
-		Title = "Maldição removida",
+		Title = "Panfleto: Que se exploda!",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Você conseguiu remover a maldição de Ashe Bruce. Ele lhe deu um Witch's Spell Book para levar a uma bruxa. Continue encontrando outras pessoas que precisam de ajuda."
+			"Entreguei à força um panfleto impresso em papel desnecessariamente caro para o <NAVI>[Idoso Cansado]<INFO>einbech,79,100,0,101,0</INFO></NAVI>."
 		},
-		Summary = ""
+		Summary = "Idoso Cansado"
 	},
 	[16057] = {
-		Title = "Conhecendo a bruxa",
+		Title = "Panfleto: Dentadura",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Alakina Ann também foi orientada a se encontrar com uma bruxa. Ela pode ser a mesma a quem você precisa levar o Livro de Feitiços da Bruxa."
+			"Entreguei à força um panfleto impresso em papel desnecessariamente caro para a<NAVI>[Idosa Sonolenta]<INFO>einbech,170,143,0,101,0</INFO></NAVI>."
 		},
-		Summary = ""
+		Summary = "Idosa Sonolenta"
 	},
 	[16058] = {
-		Title = "Asa de corvo",
+		Title = "[Espera] Dia de Panfletagem",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Você encontrou a bruxa Kirkena e contou a ela sobre Alakina Ann. Ela lhe deu uma Wing Of Crow (Asa de Corvo) para mandá-la de volta para sua casa."
+			"<NAVI>[Manson Bender]<INFO>rebel_in,19,48,0,101,0</INFO></NAVI>, dono da loja de armas, está aguardando ansiosamente uma enxurrada de clientes como resultado da panfletagem. Vamos voltar amanhã para ouvir os resultados."
 		},
-		Summary = "Alakina Ann"
+		Summary = "Reseta 4 da manhã.­",
+		CoolTimeQuest = 1
 	},
 	[16059] = {
-		Title = "Asa de corvo",
+		Title = "Dia de Panfletagem",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Você deu a Asa de Corvo para Alakina Ann, mas parece que ela não fez nada... É melhor você perguntar àquela bruxa Kirkena por que não funcionou"
+			"<NAVI>[Manson Bender]<INFO>rebel_in,19,48,0,101,0</INFO></NAVI>, dono da loja de armas, parece não ter desistido e está tentando distribuir os panfletos novamente. Acho que seria melhor economizar no custo da impressão..."
 		},
-		Summary = "Kirkena"
+		Summary = "Panfletos de Loja"
 	},
 	[16060] = {
-		Title = "Infortúnio de Nifflheim",
+		Title = "Desafio de Elena",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Kirkena lhe dá a triste notícia de que Alakina Ann não percebe que está morta porque é muito jovem. Não parece haver muito mais que você possa fazer aqui, volte para Serin e informe a ela."
+			"<NAVI>[Elena Bolkova]<INFO>rebel_in,70,78,0,101,0</INFO></NAVI>, a desafiante, está olhando para você com interesse. Fale com Elena e entre na sala de espera."
 		},
-		Summary = "Serin"
+		Summary = "Arena de Combate"
 	},
 	[16061] = {
-		Title = "Bardo em Nifflheim",
+		Title = "Desafio de Elena",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Serin lhe diz para consultar um bardo em Nifflheim que talvez saiba alguma informação útil."
+			"Lute cara a cara com Elena."
 		},
-		Summary = ""
+		Summary = "Derrote Elena"
 	},
 	[16062] = {
 		Title = "Gen de Nifflheim",
@@ -40329,7 +40457,7 @@ QuestInfoList = {
 		Description = {
 			"Essa miss?o pode ser repetida diariamente, fale com <NAVI>[Runane]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Volte amanh?.ð",
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[16218] = {

@@ -6750,6 +6750,7 @@ SKILL_DESCRIPT = {
 		"0,005 segundos. Esta habilidad tiene el mismo porcentaje",
 		"de éxito que Preparación de pociones y tiene un",
 		"tiempo de lanzamiento de 3 segundos, el cual no se ve afectado por la DES.",
+		"^ff0000Si no tienes suficiente capacidad de carga o espacio en el inventario, la habilidad fallará y se consumirán los materiales.^000000",
 		"^00BB00Cada lanzamiento necesita suficientes materiales para fabricar",
 		"200 Pociones blancas.^000000"
 	},
@@ -9977,8 +9978,8 @@ SKILL_DESCRIPT = {
 		"Cargas tu escudo con tu voluntad y obtienes un efecto temporal de 90 segundos.",
 		"El efecto no puede superponerse.^000000",
 		"Nivel l Bono",
-		"[Nv 1]: ^777777Cura 3% de HP cada 3 segundos.^000000",
-		"[Nv 2]: ^777777Cura 5% de SP cada 5 segundos.^000000",
+		"[Nv 1]: ^777777Cura 5% de HP cada 3 segundos.^000000",
+		"[Nv 2]: ^777777Cura 3% de SP cada 5 segundos.^000000",
 		"[Nv 3]: ^777777ATQ e ATQM +150.^000000"
 	},
 	[SKID.LG_EXEEDBREAK] = {

@@ -234,5 +234,24 @@
         "en": "<ITEM>[Mistress Egg Ticket]<INFO>1001578</INFO></ITEM>",
         "pt": "<ITEM>[Ticket de Mascote Abelha-Rainha]<INFO>1001578</INFO></ITEM>",
         "es": "<ITEM>[Boleto de Mascota Abeja reina]<INFO>1001578/INFO></ITEM>"
+    },
+    "B+OaCw": {
+        "ko": "타임홀더",
+        "en": "Time Holder Egg",
+        "pt": "Ovo de Vigia do Tempo",
+        "es": "Huevo de Vigilante de tiempo"
+    },
+    "COOaCw": {
+        "ko": "^999999타임홀더 (티켓 없음)^000000",
+        "en": "^999999Time Holder Egg (not enough ticket)^000000",
+        "pt": "^999999Ovo de Vigia do Tempo (ticket insuficiente)^000000",
+        "unknown_8": "Abelha-Rainha",
+        "es": "^999999Huevo de Vigilante de tiempo (Ticket insuficiente)^000000"
+    },
+    "CeOaCw": {
+        "ko": "<ITEM>[타임홀더 큐펫 교환 티켓]<INFO>1001782</INFO></ITEM>",
+        "en": "<ITEM>[Time Holder Egg Ticket]<INFO>1001782</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Vigia do Tempo]<INFO>1001782</INFO></ITEM>",
+        "es": "<ITEM>[Boleto de Mascota Vigilante de tiempo]<INFO>1001782</INFO></ITEM>"
     }
 }

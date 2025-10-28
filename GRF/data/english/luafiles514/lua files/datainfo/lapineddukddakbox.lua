@@ -7235,6 +7235,35 @@ tblLapineDdukddakBox = {
 				}
 			},
 			NeedSource_String = "Sea Otter Mini Fan"
+		},
+		CriticalHit_Mix = {
+			ItemID = 23669,
+			NeedCount = 2,
+			NeedRefineMin = 7,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"S_Critical_Shoes",
+					1,
+					24333
+				},
+				{
+					"S_Critical_Shield",
+					1,
+					24332
+				},
+				{
+					"S_Cri_Hit_Weapon",
+					1,
+					24032
+				},
+				{
+					"S_Critical_Armor",
+					1,
+					24030
+				}
+			},
+			NeedSource_String = "Ciritical Shadows"
 		}
 	},
 	get_lapine_box = function(in_box_id)
