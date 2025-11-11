@@ -6844,6 +6844,523 @@ achievement_tbl = {
 		},
 		reward = {title = 9999},
 		score = 0
+	},
+	[128038] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Mostre ao Capitão Quem Manda",
+		content = {
+			summary = "Derrote Pherlock",
+			details = "Complete a Masmorra Memorial até o fim."
+		},
+		resource = {
+			[1] = {
+				text = "Derrote Pherlock uma vez.",
+				count = 1
+			}
+		},
+		reward = {},
+		score = 10
+	},
+	[128039] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Mostre ao Capitão Fraco Quem Manda",
+		content = {
+			summary = "Derrote Pherlock",
+			details = "Complete a Masmorra Memorial até o fim."
+		},
+		resource = {
+			[1] = {
+				text = "Derrote Pherlock uma vez.",
+				count = 1
+			}
+		},
+		reward = {},
+		score = 10
+	},
+	[128040] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Motim a Bordo",
+		content = {
+			summary = "Derrote Pherlock",
+			details = "Complete a Masmorra Memorial até o fim."
+		},
+		resource = {
+			[1] = {
+				text = "Derrote Pherlock 10 vezes.",
+				count = 10
+			}
+		},
+		reward = {},
+		score = 20
+	},
+	[128041] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Confusão a Bordo",
+		content = {
+			summary = "Derrote Pherlock",
+			details = "Complete a Masmorra Memorial até o fim."
+		},
+		resource = {
+			[1] = {
+				text = "Derrote Pherlock 10 vezes.",
+				count = 10
+			}
+		},
+		reward = {},
+		score = 20
+	},
+	[128042] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Rebelião a Bordo",
+		content = {
+			summary = "Derrote Pherlock",
+			details = "Complete a Masmorra Memorial até o fim."
+		},
+		resource = {
+			[1] = {
+				text = "Derrote Pherlock 50 vezes.",
+				count = 50
+			}
+		},
+		reward = {},
+		score = 50
+	},
+	[128043] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Motim como uma Rebelião",
+		content = {
+			summary = "Derrote Pherlock",
+			details = "Complete a Masmorra Memorial até o fim."
+		},
+		resource = {
+			[1] = {
+				text = "Derrote Pherlock 50 vezes.",
+				count = 50
+			}
+		},
+		reward = {},
+		score = 50
+	},
+	[128050] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 2,
+		title = "Exorcista Novato",
+		content = {
+			summary = "Derrote o Pilar das Almas em Bongunggot",
+			details = "Complete a Masmorra Memorial até o fim."
+		},
+		resource = {
+			[1] = {
+				text = "Derrote o Pilar das Almas em Bongunggot uma vez.",
+				count = 1
+			}
+		},
+		reward = {},
+		score = 10
+	},
+	[128051] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 2,
+		title = "Exorcista Experiente",
+		content = {
+			summary = "Derrote o Pilar das Almas em Bongunggot",
+			details = "Complete a Masmorra Memorial até o fim."
+		},
+		resource = {
+			[1] = {
+				text = "Derrote o Pilar das Almas em Bongunggot 10 vezes.",
+				count = 10
+			}
+		},
+		reward = {},
+		score = 20
+	},
+	[128052] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 2,
+		title = "Exorcista Lendário",
+		content = {
+			summary = "Derrote o Pilar das Almas em Bongunggot",
+			details = "Complete a Masmorra Memorial até o fim."
+		},
+		resource = {
+			[1] = {
+				text = "Derrote o Pilar das Almas em Bongunggot 50 vezes.",
+				count = 50
+			}
+		},
+		reward = {},
+		score = 50
+	},
+	[130005] = {
+		UI_Type = 0,
+		group = "CHATTING",
+		major = 4,
+		minor = 0,
+		title = "Criador de Reis",
+		content = {
+			summary = "Meu Rei que Eu Criei",
+			details = "Restaure a glória de Terra Gloria e coroe o herói que a reivindicou."
+		},
+		resource = {
+			[1] = {
+				text = "Assista à coroação do novo Rei de Rune-Midgarts."
+			}
+		},
+		reward = {title = 1046},
+		score = 10
+	},
+	[200032] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "O Começo de Outra Aventura!",
+		content = {
+			summary = "Alcance o Nível Base 100!",
+			details = "Alcance o Nível Base 100."
+		},
+		resource = {
+			[1] = {
+				text = "Nível Base 100"
+			}
+		},
+		reward = {item = 23585},
+		score = 10
+	},
+	[200033] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "Com uma Nova Mentalidade! (1)",
+		content = {
+			summary = "Alcance o Nível Base 170 como Classe 3-1!",
+			details = "Alcance o Nível Base 170 com uma Classe 3-1."
+		},
+		resource = {
+			[1] = {
+				text = "Nível Base 170"
+			}
+		},
+		reward = {item = 6959},
+		score = 50
+	},
+	[200034] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "Com uma Nova Mentalidade! (2)",
+		content = {
+			summary = "Alcance o Nível Base 170 como Classe 3-2!",
+			details = "Alcance o Nível Base 170 com uma Classe 3-2."
+		},
+		resource = {
+			[1] = {
+				text = "Nível Base 170"
+			}
+		},
+		reward = {item = 6959},
+		score = 50
+	},
+	[200035] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "Alcance o Nível 200!",
+		content = {
+			summary = "Alcance o Nível Base 200!",
+			details = "Alcance o Nível Base 200."
+		},
+		resource = {
+			[1] = {
+				text = "Nível Base 200"
+			}
+		},
+		reward = {buff = 10, item = 400124},
+		score = 100
+	},
+	[127001] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Fama em Prontera",
+		content = {
+			summary = "Sindicato das Cidades",
+			details = "Sua Fama em Prontera"
+		},
+		resource = {
+			[1] = {
+				text = "Indiferente",
+				count = 3000
+			},
+			[2] = {text = "Iniciante", count = 6000},
+			[3] = {text = "Residente", count = 12000},
+			[4] = {
+				text = "Celebridade",
+				count = 20000
+			},
+			[5] = {text = "Autoridade", count = 1000}
+		},
+		score = 10
+	},
+	[127002] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Fama em Geffen",
+		content = {
+			summary = "Sindicato das Cidades",
+			details = "Sua Fama em Geffen"
+		},
+		resource = {
+			[1] = {
+				text = "Indiferente",
+				count = 3000
+			},
+			[2] = {text = "Iniciante", count = 6000},
+			[3] = {text = "Residente", count = 12000},
+			[4] = {
+				text = "Celebridade",
+				count = 20000
+			},
+			[5] = {text = "Autoridade", count = 1000}
+		},
+		score = 10
+	},
+	[127003] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Fama em Morroc",
+		content = {
+			summary = "Sindicato das Cidades",
+			details = "Sua Fama em Morroc"
+		},
+		resource = {
+			[1] = {
+				text = "Indiferente",
+				count = 3000
+			},
+			[2] = {text = "Iniciante", count = 6000},
+			[3] = {text = "Residente", count = 12000},
+			[4] = {
+				text = "Celebridade",
+				count = 20000
+			},
+			[5] = {text = "Autoridade", count = 1000}
+		},
+		score = 10
+	},
+	[127004] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Fama em Payon",
+		content = {
+			summary = "Sindicato das Cidades",
+			details = "Sua Fama em Payon"
+		},
+		resource = {
+			[1] = {
+				text = "Indiferente",
+				count = 3000
+			},
+			[2] = {text = "Iniciante", count = 6000},
+			[3] = {text = "Residente", count = 12000},
+			[4] = {
+				text = "Celebridade",
+				count = 20000
+			},
+			[5] = {text = "Autoridade", count = 1000}
+		},
+		score = 10
+	},
+	[127005] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Fama em Juno",
+		content = {
+			summary = "Sindicato das Cidades",
+			details = "Sua Fama em Juno"
+		},
+		resource = {
+			[1] = {
+				text = "Indiferente",
+				count = 3000
+			},
+			[2] = {text = "Iniciante", count = 6000},
+			[3] = {text = "Residente", count = 12000},
+			[4] = {
+				text = "Celebridade",
+				count = 20000
+			},
+			[5] = {text = "Autoridade", count = 1000}
+		},
+		score = 10
+	},
+	[127006] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Fama em Lighthalzen",
+		content = {
+			summary = "Sindicato das Cidades",
+			details = "Sua Fama em Lighthalzen"
+		},
+		resource = {
+			[1] = {
+				text = "Indiferente",
+				count = 3000
+			},
+			[2] = {text = "Iniciante", count = 6000},
+			[3] = {text = "Residente", count = 12000},
+			[4] = {
+				text = "Celebridade",
+				count = 20000
+			},
+			[5] = {text = "Autoridade", count = 1000}
+		},
+		score = 10
+	},
+	[127007] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Fama em Einbroch",
+		content = {
+			summary = "Sindicato das Cidades",
+			details = "Sua Fama em Einbroch"
+		},
+		resource = {
+			[1] = {
+				text = "Indiferente",
+				count = 3000
+			},
+			[2] = {text = "Iniciante", count = 6000},
+			[3] = {text = "Residente", count = 12000},
+			[4] = {
+				text = "Celebridade",
+				count = 20000
+			},
+			[5] = {text = "Autoridade", count = 1000}
+		},
+		score = 10
+	},
+	[127008] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Fama em Rachel",
+		content = {
+			summary = "Sindicato das Cidades",
+			details = "Sua Fama em Rachel"
+		},
+		resource = {
+			[1] = {
+				text = "Indiferente",
+				count = 3000
+			},
+			[2] = {text = "Iniciante", count = 6000},
+			[3] = {text = "Residente", count = 12000},
+			[4] = {
+				text = "Celebridade",
+				count = 20000
+			},
+			[5] = {text = "Autoridade", count = 1000}
+		},
+		score = 10
+	},
+	[127009] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Fama em Veins",
+		content = {
+			summary = "Sindicato das Cidades",
+			details = "Sua Fama em Veins"
+		},
+		resource = {
+			[1] = {
+				text = "Indiferente",
+				count = 3000
+			},
+			[2] = {text = "Iniciante", count = 6000},
+			[3] = {text = "Residente", count = 12000},
+			[4] = {
+				text = "Celebridade",
+				count = 20000
+			},
+			[5] = {text = "Autoridade", count = 1000}
+		},
+		score = 10
+	},
+	[190000] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Sindicato das Cidades",
+		content = {
+			summary = "Contribuições ao Sindicato",
+			details = "Deseja desafiar todas as cidades? Os sindicalistas trabalham duro! Trabalhar no sindicato não é tão fácil!"
+		},
+		resource = {
+			[1] = {
+				text = "Nível Ametista",
+				count = 1
+			},
+			[2] = {
+				text = "Nível Peridoto",
+				count = 10
+			},
+			[3] = {
+				text = "Nível Aquamarina",
+				count = 30
+			},
+			[4] = {
+				text = "Nível Diamante",
+				count = 100
+			}
+		},
+		reward = {},
+		score = 50
 	}
 }
 function main()

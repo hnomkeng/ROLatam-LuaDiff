@@ -4,6 +4,10 @@ TB_Layer_Priority = {
 	Default_Bottom = 300,
 	Default_Robe = 400,
 	Items_List = {
+		[ACCESSORY_IDs.ACCESSORY_C_Waggy_Nyar_Hair] = {
+			Default = 143,
+			Direction = {}
+		},
 		[ACCESSORY_IDs.ACCESSORY_C_CLB_DT_TS_Mini] = {Default = 304, isIgnoreRiding = true},
 		[ACCESSORY_IDs.ACCESSORY_C_CLB_DT_TS_Hat] = {
 			Default = 143,

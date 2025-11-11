@@ -1869,7 +1869,7 @@ SKILL_DESCRIPT = {
 		"Nv. máx.: 5",
 		"Forma de habilidad: ^000099Pasiva^000000",
 		"Descripción: ^777777Mejora la resistencia al Fuego y al daño de la propiedad Neutral.^000000",
-		"Nivel l Fogo l Neutro",
+		"Nivel l Fuego l Neutral",
 		"[Nv 1]: ^777777+4%^000000 l ^777777+1%^000000",
 		"[Nv 2]: ^777777+8%^000000 l ^777777+2%^000000",
 		"[Nv 3]: ^777777+12%^000000 l ^777777+3%^000000",

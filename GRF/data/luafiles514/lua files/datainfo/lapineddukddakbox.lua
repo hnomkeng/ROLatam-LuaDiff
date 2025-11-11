@@ -7407,6 +7407,54 @@ tblLapineDdukddakBox = {
 				}
 			},
 			NeedSource_String = "Ciritical Shadows"
+		},
+		ImmunedAthena_Mix = {
+			ItemID = 23666,
+			NeedCount = 2,
+			NeedRefineMin = 7,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"S_Immune_Armor",
+					1,
+					24027
+				},
+				{
+					"S_Athena_Shield",
+					1,
+					24026
+				},
+				{
+					"S_Athena_Earring",
+					1,
+					24051
+				}
+			},
+			NeedSource_String = "Sombra de Atena Imune"
+		},
+		HardChamption_Mix = {
+			ItemID = 23667,
+			NeedCount = 2,
+			NeedRefineMin = 7,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"S_Hard_Armor",
+					1,
+					24028
+				},
+				{
+					"S_Hard_Earring",
+					1,
+					24049
+				},
+				{
+					"S_Champion_Shoes",
+					1,
+					24025
+				}
+			},
+			NeedSource_String = "Sombra do Campeão Duro"
 		}
 	},
 	get_lapine_box = function(in_box_id)

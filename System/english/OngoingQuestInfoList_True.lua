@@ -17931,7 +17931,7 @@ QuestInfoList = {
 		Title = "Eliminate Chimeras",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"The troops are having difficulty dealing with the violent specimens inside the lab. Eliminate ^4d4dff10 Misshapen Chimeras^000000 and ^4d4dff10 Human Chimeras^000000."
+			"The troops are having difficulty dealing with the violent specimens inside the lab. Eliminate ^4d4dff10 Material Chimeras^000000 and ^4d4dff10 Human Chimeras^000000."
 		},
 		Summary = "Hunt the Chimeras"
 	},
@@ -18512,14 +18512,14 @@ QuestInfoList = {
 	[7867] = {
 		Title = "Merc vs. Merc",
 		Description = {
-			"<NAVI>[Juslan]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI> in the special security area, Cor, asked me to take care of Heart Hunters Bellare and Sanare in Os."
+			"<NAVI>[Yuslan]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI> in the special security area, Cor, asked me to take care of Heart Hunters Bellare and Sanare in Os."
 		},
 		Summary = "Defeat Heart Hunters"
 	},
 	[7868] = {
 		Title = "Merc vs. Merc - Pending",
 		Description = {
-			"A Daily quest. It can be repeated after its cooldown through <NAVI>[Juslan]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI> in the special security area, Cor."
+			"A Daily quest. It can be repeated after its cooldown through <NAVI>[Yuslan]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI> in the special security area, Cor."
 		},
 		Summary = "Reset at 04:00 a.m.",
 		CoolTimeQuest = 1
@@ -28780,9 +28780,9 @@ QuestInfoList = {
 		Title = "Cotnes' Earrings",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Cotnes, the veteran of the Rebellion, wants you to bring 1x Shiny Earrings from the <NAVI>[Military Base]<INFO>ein_fild04,281,337,0,101,0</INFO></NAVI>."
+			"Cotnes, the veteran of the Rebellion, wants you to bring 4x Shiny Rings from the <NAVI>[Military Base]<INFO>ein_fild04,281,337,0,101,0</INFO></NAVI>."
 		},
-		Summary = "1x Shiny Earrings"
+		Summary = "4x Shiny Rings"
 	},
 	[11470] = {
 		Title = "[Wait] Cotnes' Earrings",
@@ -33345,7 +33345,7 @@ QuestInfoList = {
 		Summary = "Complete the instance"
 	},
 	[12375] = {
-		Title = "[Wait] Military Base]",
+		Title = "[Wait] Military Base",
 		Description = {
 			"The Military Base is under maintenance. We are temporarily blocking access for the Engineers to finish adjustments."
 		},
@@ -33601,25 +33601,27 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},
 	[12412] = {
-		Title = "Invisible Quest",
+		Title = "Child Mode",
 		Description = {
-			"Place Holder"
+			"Learning about instances in child mode."
 		},
-		Summary = "Place Holder"
+		Summary = "Enter the instance"
 	},
 	[12413] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Child Glastheim",
 		Description = {
-			"Place Holder"
+			"You can enter Child Glastheim again only after Thursday, 4 AM."
 		},
-		Summary = "Place Holder"
+		Summary = "Thursday, 4 AM.",
+		CoolTimeQuest = 1
 	},
 	[12414] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Child Factory",
 		Description = {
-			"Place Holder"
+			"You can enter Child Factory again only after Thursday, 4 AM."
 		},
-		Summary = "Place Holder"
+		Summary = "Thursday, 4 AM.",
+		CoolTimeQuest = 1
 	},
 	[12415] = {
 		Title = "Invisible Quest",
@@ -33666,26 +33668,25 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},
 	[12421] = {
-		Title = "Aftereffect of Saving the World",
+		Title = "[Wait] Crack of Dimension",
 		Description = {
-			"You have received the reward for saving the world. You cannot get it again before it is reset."
+			"You have received your reward for saving another dimension. You will only be able to receive your next reward after the scheduled time."
 		},
-		Summary = "Reset at 04:00",
-		CoolTimeQuest = 1
+		Summary = "Come back tomorrow.­"
 	},
 	[12422] = {
-		Title = "Request of the Overlord",
+		Title = "Crack of Dimension",
 		Description = {
-			"A request from Overlord Barmund has come to join him."
+			"You have received an invitation from the Great Sage Varmunt. Let's proceed to the other dimension."
 		},
-		Summary = "Request of the Overlord"
+		Summary = "Talk to Varmunt"
 	},
 	[12423] = {
-		Title = "The One Who Will Save the World",
+		Title = "Crack of Dimension",
 		Description = {
-			"I am to restore Guardian Stone to help Barmund who is battling in the world of another dimension."
+			"In this new dimension, your objective is to heal the Guardian Stone and protect it from the terrible monsters."
 		},
-		Summary = "Guardian Stone Restoration"
+		Summary = "Heal the Guardian Stone"
 	},
 	[12442] = {
 		Title = "Path of the Soul Reaper 1",
@@ -33786,11 +33787,11 @@ QuestInfoList = {
 		Summary = "Operation pending"
 	},
 	[12456] = {
-		Title = "Aftermath of Removing the Aftereffect of Saving the World",
+		Title = "[Wait] Crack of Dimension]",
 		Description = {
-			"There remains an aftermath of forcibly removing the aftereffect of saving the world."
+			"You have traveled through dimensional rifts and it is recommended to wait for some time."
 		},
-		Summary = "Aftermath of Removing the Aftereffect of Saving the World"
+		Summary = "Come back tomorrow.­"
 	},
 	[12457] = {
 		Title = "Moment of downfall",
@@ -37556,6 +37557,7 @@ QuestInfoList = {
 	},
 	[14492] = {
 		Title = "There Is a Silver Lining",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Would you come back again later? Just enough time for her so that she doesn't feel pressured without forgetting me. After some time, I'd like to deliver my hear to her again! - <NAVI>[Jurgen]<INFO>prt_cas_q,95,9,0,101,0</INFO></NAVI>"
 		},
@@ -37563,6 +37565,7 @@ QuestInfoList = {
 	},
 	[14493] = {
 		Title = "Today I Feel",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"What should I do? I like Mary even more today. Please deliver my love for her with 15 Sea Stones which can be acquired upon hunting the Medusa, and 1 Witherless Rose."
 		},
@@ -37570,6 +37573,7 @@ QuestInfoList = {
 	},
 	[14494] = {
 		Title = "I Have to Turn It Down Again",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Please, I really appreciate his feelings. However, I cannot accept it. Please tell him without hurting his feelings."
 		},
@@ -37670,6 +37674,7 @@ QuestInfoList = {
 	},
 	[14508] = {
 		Title = "Jewel and Cloth",
+		IconName = "ico_nq.bmp",
 		Description = {
 			"Please bring 3 Pearls and 50 strands of soft hair."
 		},
@@ -37677,6 +37682,7 @@ QuestInfoList = {
 	},
 	[14509] = {
 		Title = "Still Making It",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"I am still in the progress of making it with what you have brought me. I'll decide what to make after finishing the work. Would come back after the daybreak?"
 		},
@@ -37684,6 +37690,7 @@ QuestInfoList = {
 	},
 	[14510] = {
 		Title = "Pink Petal-like Dress",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"I will make a dress as beautiful as a pink petal! Would you bring 15 Soft Silky Cloth, 30 Red Herbs and 10 White Herbs to dye the cloth?"
 		},
@@ -37691,6 +37698,7 @@ QuestInfoList = {
 	},
 	[14511] = {
 		Title = "Beautiful Flower Decoration",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"I'll decorate it with humble but beautiful flowers. Please get me 5 pretty flowers, 5 pure flowers and 5 mysterious flowers"
 		},
@@ -37698,6 +37706,7 @@ QuestInfoList = {
 	},
 	[14512] = {
 		Title = "Dress of the Night Sky",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"I'll make a dress as dark as the night sky! I need cloth darker than the night sky. Would you bring 20 pieces of black cloth? Please."
 		},
@@ -37705,6 +37714,7 @@ QuestInfoList = {
 	},
 	[14513] = {
 		Title = "Shawl of the Blazing Sun",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"I want to make a shawl which resembles the blazing sun in the sky. I think I need 20 hot hairs to make it."
 		},
@@ -37712,6 +37722,7 @@ QuestInfoList = {
 	},
 	[14514] = {
 		Title = "Step of the Fairy",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"I'll make a dress as airy and elegant as the step of a fairy. A gorgeous one! I need 5 splendid fairy wings. It would be enough to make an elegant dress."
 		},
@@ -37719,6 +37730,7 @@ QuestInfoList = {
 	},
 	[14515] = {
 		Title = "Sparkling Star",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"I want to sprinkle the dress with sparkling stats! Please get me 5 star dusts to decorate the dress with."
 		},
@@ -37726,6 +37738,7 @@ QuestInfoList = {
 	},
 	[14516] = {
 		Title = "Suspicious Shadow",
+		IconName = "ico_ep.bmp",
 		Description = {
 			"I heard the conversation between a suspicious person and Ian."
 		},
@@ -38237,7 +38250,7 @@ QuestInfoList = {
 		Title = "Terra Gloria",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Ragey seems to have something to do here. Enter."
+			"Lazy seems to have something to do here. Enter."
 		},
 		Summary = "Enter the portal"
 	},
@@ -38247,7 +38260,7 @@ QuestInfoList = {
 		Description = {
 			"As a gesture of gratitude, let's have a cup of tea. Talk to Nemi or Eri and they will let you pass to the other side of the shop."
 		},
-		Summary = "Find Ragey"
+		Summary = "Find Lazy"
 	},
 	[14600] = {
 		Title = "Terra Gloria",
@@ -38285,7 +38298,7 @@ QuestInfoList = {
 		Title = "Fuel for Cyan",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Bring 10x Burnt Wood, 3x Coal and eliminate 10x Old Furnace for <NAVI>[Rookie]<INFO>einbech,217,82,0,101,0</INFO></NAVI>."
+			"Bring 10x Burnt Tree, 3x Coal and eliminate 10x Old Stove for <NAVI>[Rookie]<INFO>einbech,217,82,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Collect the items"
 	},
@@ -38372,7 +38385,7 @@ QuestInfoList = {
 		Description = {
 			"First, convince the powerful people here. Est, Elena, Rupert and the Veterans. Once you've talked to everyone, come back to me."
 		},
-		Summary = "Return to Ragey"
+		Summary = "Return to Lazy"
 	},
 	[14615] = {
 		Title = "Terra Gloria",
@@ -39604,7 +39617,7 @@ QuestInfoList = {
 	[16014] = {
 		Title = "Levedev Twins",
 		Description = {
-			"Talk about the Levedev Twins to <NAVI>[Manson Bender]<INFO>rebel_in,108,27,0,101,0</INFO></NAVI>."
+			"Talk about the Levedev Twins to <NAVI>[Manson Bender]<INFO>rebel_in,19,48,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Talk to Mason Bender"
 	},
@@ -39782,7 +39795,7 @@ QuestInfoList = {
 		Summary = "Talk to Rachel Smith"
 	},
 	[16037] = {
-		Title = "[Wait] Rebellion Armory]",
+		Title = "[Wait] Rebellion Armory",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Apparently, it will be possible to work with today's materials. Tomorrow, let's see if we can help <NAVI>[Rachel Smith]<INFO>einbech,216,80,0,101,0</INFO></NAVI>."
@@ -45873,6 +45886,22 @@ Talk to Kar=],
 			"If you want a Shafka hat, bring the materials that Irina has asked for, so she can make you one!"
 		},
 		Summary = "20 Nine Tails, 10 Yarn, 10 Soft Silk, 20 Sea-otter Fur, 1 Spool"
+	},
+	[18218] = {
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Please come to the <NAVI>[Laboratory Entrance]<INFO>que_swat,145,57,0,101,0</INFO></NAVI>. I have something urgent to tell you."
+		},
+		Summary = "Talk to Tess"
+	},
+	[18219] = {
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"A series of incidents has been concluded. I'm curious about how is <NAVI>[Nihil]<INFO>prt_cas_q,21,39,0,101,0</INFO></NAVI>. Let's go to Prontera Castle to check!"
+		},
+		Summary = "Talk to Nihil"
 	},
 	[19066] = {
 		Title = "Investigator Rudolf's story",
@@ -69571,5 +69600,1819 @@ Talk to Kar=],
 		NpcNavi = "geffen",
 		NpcPosX = 40,
 		NpcPosY = 141
+	},
+	[5470] = {
+		Title = "[Wanted] On hold",
+		Description = {
+			"There are no new [Wanted] missions in the Syndicate. It will restart at 4 a.m. on Wednesday."
+		},
+		Summary = ""
+	},
+	[5471] = {
+		Title = "[Wanted]",
+		Description = {
+			"Defeat Entweihen Crothen in the Endless Tower."
+		},
+		Summary = "Union Coin: 300"
+	},
+	[5472] = {
+		Title = "[Wanted]",
+		Description = {
+			"Defeat Baphomet Sealed at the Altar of the Seal."
+		},
+		Summary = "Union Coin: 200"
+	},
+	[5473] = {
+		Title = "[Wanted]",
+		Description = {
+			"Defeat Bakonawa at Bakonawa Lake."
+		},
+		Summary = "Union Coin: 250"
+	},
+	[5474] = {
+		Title = "[Wanted]",
+		Description = {
+			"Defeat Buwaya in Buwaya's Cave."
+		},
+		Summary = "Union Coin: 250"
+	},
+	[5475] = {
+		Title = "[Wanted]",
+		Description = {
+			"Eliminate Amdarais in Glastheim's Curse."
+		},
+		Summary = "Union Coin: 200"
+	},
+	[5476] = {
+		Title = "[Wanted]",
+		Description = {
+			"Eliminate the Worm Queen in the Worm Lair."
+		},
+		Summary = "Union Coin: 250"
+	},
+	[5477] = {
+		Title = "[Wanted]",
+		Description = {
+			"Defeat Fenrir in the Magic Tournament."
+		},
+		Summary = "Union Coin: 300"
+	},
+	[5478] = {
+		Title = "[Wanted]",
+		Description = {
+			"Eliminate Celine Kimi in the Terror Factory."
+		},
+		Summary = "Union Coin: 250"
+	},
+	[5479] = {
+		Title = "[Wanted]",
+		Description = {
+			"Eliminate the Necromancer of Morroc in Mors' Cave."
+		},
+		Summary = "Union Coin: 300"
+	},
+	[5480] = {
+		Title = "[Wanted]",
+		Description = {
+			"Eliminate Reaper Ankou on Bios Island."
+		},
+		Summary = "Union Coin: 300"
+	},
+	[5481] = {
+		Title = "[Wanted]",
+		Description = {
+			"Defeat God Morroc in the Demon King's Temple."
+		},
+		Summary = "Union Coin: 300"
+	},
+	[5482] = {
+		Title = "[Wanted]",
+		Description = {
+			"Defeat Dark Amdarais in Dark Glastheim."
+		},
+		Summary = "Union Coin: 300"
+	},
+	[5483] = {
+		Title = "[Wanted]",
+		Description = {
+			"Eliminate the Ivory Requiem in Musical Nightmare."
+		},
+		Summary = "Union Coin: 200"
+	},
+	[5484] = {
+		Title = "[Wanted]",
+		Description = {
+			"Eliminate Charleston 03 in Charleston in Crisis."
+		},
+		Summary = "Union Coin: 200"
+	},
+	[5485] = {
+		Title = "[Wanted]",
+		Description = {
+			"Defeat Sara in the Sara vs. Fenrir instance."
+		},
+		Summary = "Union Coin: 200"
+	},
+	[5486] = {
+		Title = "[Wanted]",
+		Description = {
+			"Eliminate Captain Ferlock in the Airplane Raid."
+		},
+		Summary = "Syndicate Currency: 150"
+	},
+	[5487] = {
+		Title = "[Wanted]",
+		Description = {
+			"Eliminate Captain Ferlock in the Airplane Raid."
+		},
+		Summary = "Syndicate Currency: 150"
+	},
+	[5488] = {
+		Title = "[Wanted]",
+		Description = {
+			"Eliminate T_W_O in the Final Room."
+		},
+		Summary = "Union Coin: 200"
+	},
+	[5489] = {
+		Title = "[Wanted]",
+		Description = {
+			"Defeat Bijou in Ymir's Hall."
+		},
+		Summary = "Union Coin: 100"
+	},
+	[5490] = {
+		Title = "[Wanted]",
+		Description = {
+			"Eliminate Jack Wolf in the Dark Whisper."
+		},
+		Summary = "Union Coin: 200"
+	},
+	[5491] = {
+		Title = "[Wanted]",
+		Description = {
+			"Eliminate the Shadow of Nidhogg in Nidhogg's Nest."
+		},
+		Summary = "Union Coin: 150"
+	},
+	[5492] = {
+		Title = "[Wanted]",
+		Description = {
+			"Defeat the Purple Dragon in the Forest Maze."
+		},
+		Summary = "Union Coin: 150"
+	},
+	[5493] = {
+		Title = "[Wanted]",
+		Description = {
+			"Eliminate Bangungot in the Abandoned Hospital."
+		},
+		Summary = "Union Coin: 150"
+	},
+	[5494] = {
+		Title = "[Wanted]",
+		Description = {
+			"Eliminate Lord Irine in Sara's Memories."
+		},
+		Summary = "Union Coin: 100"
+	},
+	[5495] = {
+		Title = "[Wanted]",
+		Description = {
+			"Eliminate the Torturous Anguish in the Palace of Sorrows."
+		},
+		Summary = "Union Coin: 100"
+	},
+	[5496] = {
+		Title = "[Union] On hold",
+		Description = {
+			"There are no new missions registered with the Syndicate. It will restart at 4 a.m. on Wednesday."
+		},
+		Summary = ""
+	},
+	[5497] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In the Underwater Tunnel 4th floor (iz_dun03), deliver 2 units of the Wind Elemental Converter item to ^0565C9Guard^000000 at coordinates (67 76) on the map."
+		},
+		Summary = ""
+	},
+	[5498] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Guard confirmed receipt of order."
+		},
+		Summary = ""
+	},
+	[5499] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In the Underwater Tunnel 5th floor (iz_dun04), deliver 2 units of the Wind Elemental Converter item to ^0565C9Guard^000000 at coordinates (86 45) on the map."
+		},
+		Summary = ""
+	},
+	[5500] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Guard confirmed receipt of order."
+		},
+		Summary = ""
+	},
+	[5501] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In the Village of Good Turtles (tur_dun03), deliver 30 carrots to ^0565C9Lucci^000000 at coordinates (132 156) on the map."
+		},
+		Summary = ""
+	},
+	[5502] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Lucci confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5503] = {
+		Title = "[Delivery A]",
+		Description = {
+			"At Turtle Palace (tur_dun04), deliver 30 Sweet Potatoes to Jung Fan at coordinates (86 175) on the map."
+		},
+		Summary = ""
+	},
+	[5504] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Jung Fan confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5505] = {
+		Title = "[Delivery A]",
+		Description = {
+			"On the 5th floor of the Sphinx (in_sphinx5), deliver 5 Yggdrasil Leaves to ^0565C9Jarman^000000 at coordinates (109 109) on the map."
+		},
+		Summary = ""
+	},
+	[5506] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Jarman confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5507] = {
+		Title = "[Delivery A]",
+		Description = {
+			"On the 4th floor of the Pyramid (moc_pryd04), deliver 5 units of Yggdrasil Leaf to ^0565C9Frau^000000 at coordinates (78 194) on the map."
+		},
+		Summary = ""
+	},
+	[5508] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Frau confirmed that she received the order."
+		},
+		Summary = ""
+	},
+	[5509] = {
+		Title = "[Delivery A]",
+		Description = {
+			"On the 2nd floor of the Pyramid (moc_pryd06), deliver 5 Yggdrasil Leaves to ^0565C9Dodari^000000 at coordinates (97 17) on the map."
+		},
+		Summary = ""
+	},
+	[5510] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Dodari confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5511] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In the Cursed Monastery, 1st floor (abbey01), deliver 10 units of Holy Water to ^0565C9Act^000000 at coordinates (51 45) on the map."
+		},
+		Summary = ""
+	},
+	[5512] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Act confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5513] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In the Cursed Monastery, 2nd floor (abbey02), deliver 500 Silver Arrows to ^0565C9Ellen^000000 at coordinates (157 32) on the map."
+		},
+		Summary = ""
+	},
+	[5514] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Ellen confirmed that she received the order."
+		},
+		Summary = ""
+	},
+	[5515] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In the Cursed Monastery, 3rd floor (abbey03), deliver 30 units of Meat to ^0565C9Kyuk^000000 at coordinates (108 23) on the map."
+		},
+		Summary = ""
+	},
+	[5516] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Kyuk confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5517] = {
+		Title = "[Delivery A]",
+		Description = {
+			"At Thor's Volcano 1st floor (thor_v01), deliver 2 units of the Water Elemental Converter item to ^0565C9Stranger^000000 at coordinates (18 246) on the map."
+		},
+		Summary = ""
+	},
+	[5518] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Stranger confirmed receipt of order."
+		},
+		Summary = ""
+	},
+	[5519] = {
+		Title = "[Delivery A]",
+		Description = {
+			"At Thor's Volcano 2nd floor (thor_v02), deliver 2 units of the Water Elemental Converter item to ^0565C9Stranger^000000 at coordinates (99 200) on the map."
+		},
+		Summary = ""
+	},
+	[5520] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Stranger confirmed receipt of order."
+		},
+		Summary = ""
+	},
+	[5521] = {
+		Title = "[Delivery A]",
+		Description = {
+			"At Thor's Volcano 3rd floor (thor_v03), deliver 2 units of the Water Elemental Converter item to ^0565C9Stranger^000000 at coordinates (44 283) on the map."
+		},
+		Summary = ""
+	},
+	[5522] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Stranger confirmed receipt of order."
+		},
+		Summary = ""
+	},
+	[5523] = {
+		Title = "[Delivery A]",
+		Description = {
+			"At Rachel's Sanctuary 5th floor (ra_san05), deliver 10 Magnifying Glasses to ^0565CScientist^000000 at coordinates (151 89) on the map."
+		},
+		Summary = ""
+	},
+	[5524] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Scientist confirmed receipt of order."
+		},
+		Summary = ""
+	},
+	[5525] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In the Ice Cave 3rd floor (ice_dun03), deliver 2 units of the Water Elemental Converter item to ^0565C9Hotang^000000 at coordinates (150 69) on the map."
+		},
+		Summary = ""
+	},
+	[5526] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Hotang confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5527] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In the Biolaboratory on the 2nd floor (lhz_dun02), deliver 1 unit of the item Bouquet to ^0565C9Lonely Girl^000000 at coordinates (170 23) on the map."
+		},
+		Summary = ""
+	},
+	[5528] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Lonely Girl confirmed that she received the order."
+		},
+		Summary = ""
+	},
+	[5529] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In the Biolaboratory on the 3rd floor (lhz_dun03), deliver 1 unit of the item Bouquet to ^0565C9Lonely Girl^000000 at coordinates (159 122) on the map."
+		},
+		Summary = ""
+	},
+	[5530] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Lonely Girl confirmed that she received the order."
+		},
+		Summary = ""
+	},
+	[5531] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In the Biolaboratory on the 4th floor (lhz_dun04), deliver 1 unit of the item Bouquet to ^0565C9Lonely Girl^000000 at coordinates (238 49) on the map."
+		},
+		Summary = ""
+	},
+	[5532] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Lonely Girl confirmed that she received the order."
+		},
+		Summary = ""
+	},
+	[5533] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In the Tower of Thanatos, 5th floor (tha_t05), deliver 5 Yggdrasil Leaves to ^0565C9Elec^000000 at coordinates (223 99) on the map."
+		},
+		Summary = ""
+	},
+	[5534] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Elec confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5535] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In the Tower of Thanatos, 6th floor (tha_t06), deliver 10 Blue Gems to ^0565C9Elec^000000 at coordinates (135 129) on the map."
+		},
+		Summary = ""
+	},
+	[5536] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Elec confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5537] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In the Tower of Thanatos, 7th floor (tha_t07), deliver 5 Yggdrasil Leaves to ^0565C9Elec^000000 at coordinates (37 178) on the map."
+		},
+		Summary = ""
+	},
+	[5538] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Elec confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5539] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In the Tower of Thanatos, 8th floor (tha_t08), deliver 10 Blue Gems to ^0565C9Elec^000000 at coordinates (49 54) on the map."
+		},
+		Summary = ""
+	},
+	[5540] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Elec confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5541] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In the Tower of Thanatos, 9th floor (tha_t09), deliver 5 Yggdrasil Leaves to ^0565C9Elec^000000 at coordinates (13 114) on the map."
+		},
+		Summary = ""
+	},
+	[5542] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Elec confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5543] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In the Tower of Thanatos, 10th floor (tha_t10), deliver 10 Blue Gems to ^0565C9Elec^000000 at coordinates (158 111) on the map."
+		},
+		Summary = ""
+	},
+	[5544] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Elec confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5545] = {
+		Title = "[Delivery A]",
+		Description = {
+			"On the 11th floor of Thanatos Tower (tha_t11), deliver 5 Yggdrasil Leaves to ^0565C9Elec^000000 at coordinates (34 25) on the map."
+		},
+		Summary = ""
+	},
+	[5546] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Elec confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5547] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In the Tower of Thanatos, 12th floor (tha_t12), deliver 10 Blue Gems to ^0565C9Elec^000000 at coordinates (100 18) on the map."
+		},
+		Summary = ""
+	},
+	[5548] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Elec confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5549] = {
+		Title = "[Delivery A]",
+		Description = {
+			"At Lake of the Abyss 3rd floor (abyss_03), deliver 10 units of Hot Sauce to ^0565C9Glutton^000000 at coordinates (100 40) on the map."
+		},
+		Summary = ""
+	},
+	[5550] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Comilão confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5551] = {
+		Title = "[Delivery A]",
+		Description = {
+			"At the Juperos Center (jupe_core), deliver 30 units of Meat to ^0565C9Wabi^000000 at coordinates (134 283) on the map."
+		},
+		Summary = ""
+	},
+	[5552] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Wabi confirmed receipt of the order."
+		},
+		Summary = ""
+	},
+	[5553] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In Kiel Hyre 2nd floor (kh_dun02) deliver 1 unit of Eternal Rose to ^0565C9Lonely Girl^000000 at coordinates (17 222) on the map."
+		},
+		Summary = ""
+	},
+	[5554] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Lonely Girl confirmed that she received the order."
+		},
+		Summary = ""
+	},
+	[5555] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In the basement of the Clock Tower, 4th floor (alde_dun04), deliver 3 Butterfly Wings to ^0565C9Wounded Man^000000 at coordinates (147 137) on the map."
+		},
+		Summary = ""
+	},
+	[5556] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Wounded Man confirmed receiving the package."
+		},
+		Summary = ""
+	},
+	[5557] = {
+		Title = "[Delivery A]",
+		Description = {
+			"At the Clock Tower 4th floor (c_tower4), deliver 3 Butterfly Wings to ^0565C9Molly^000000 at coordinates (179 57) on the map."
+		},
+		Summary = ""
+	},
+	[5558] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Molly confirmed that she received the order."
+		},
+		Summary = ""
+	},
+	[5559] = {
+		Title = "[Delivery A]",
+		Description = {
+			"At Glastheim Castle 1st floor (gl_cas01), deliver 500 Silver Arrows to ^0565C9Panini^000000 at coordinates (198 37) on the map."
+		},
+		Summary = ""
+	},
+	[5560] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Panini confirmed that they received the order."
+		},
+		Summary = ""
+	},
+	[5561] = {
+		Title = "[Delivery A]",
+		Description = {
+			"At Glastheim Castle 2nd floor (gl_cas02), deliver 500 Silver Arrows to ^0565C9Panini^000000 at coordinates (96 33) on the map."
+		},
+		Summary = ""
+	},
+	[5562] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Panini confirmed that they received the order."
+		},
+		Summary = ""
+	},
+	[5563] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In Glastheim Cave 1st floor (gl_dun01), deliver 10 White Potions to ^0565C9Seoribi^000000 at coordinates (124 265) on the map."
+		},
+		Summary = ""
+	},
+	[5564] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Seoribi confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5565] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In Glastheim Cave 2nd Floor (gl_dun02), deliver 3 Butterfly Wings to ^0565C9Jonapal^000000 at coordinates (225 257) on the map."
+		},
+		Summary = ""
+	},
+	[5566] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Jonapal confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5567] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In Glastheim Cavalry 1st Floor (gl_knt01), deliver 10 Magnifying Glasses to ^0565C9Irita^000000 at coordinates (159 23) on the map."
+		},
+		Summary = ""
+	},
+	[5568] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Irita confirmed that she received the order."
+		},
+		Summary = ""
+	},
+	[5569] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In the Glastheim Cavalry 2nd floor (gl_knt02), deliver 10 Magnifying Glasses to ^0565C9Irash^000000 at coordinates (145 283) on the map."
+		},
+		Summary = ""
+	},
+	[5570] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Irash confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5571] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In Glastheim Prison 1st floor (gl_prison1), deliver 10 Fly Wings to ^0565C9Aeso^000000 at coordinates (160 29) on the map."
+		},
+		Summary = ""
+	},
+	[5572] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Aeso confirmed that they received the order."
+		},
+		Summary = ""
+	},
+	[5573] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In the Glastheim Sewers 3rd Floor (gl_sew03), deliver 500 Fire Arrows to ^0565C9Adolic^000000 at coordinates (182 277) on the map."
+		},
+		Summary = ""
+	},
+	[5574] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Adolic confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5575] = {
+		Title = "[Delivery A]",
+		Description = {
+			"In the Glastheim Sewers 4th Floor (gl_sew04), deliver 3 Butterfly Wings to ^0565C9Wabi^000000 at coordinates (68 262) on the map."
+		},
+		Summary = ""
+	},
+	[5576] = {
+		Title = "[Delivery A] Delivered",
+		Description = {
+			"Wabi confirmed receipt of the order."
+		},
+		Summary = ""
+	},
+	[5577] = {
+		Title = "[Union] On hold",
+		Description = {
+			"There are no new missions registered with the Syndicate. It will restart at 4 a.m. on Wednesday."
+		},
+		Summary = ""
+	},
+	[5578] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In Payon Cave 2nd floor (pay_dun01), deliver 500 Silver Arrows to ^0565C9Motu^000000 at coordinates (53 50) on the map."
+		},
+		Summary = ""
+	},
+	[5579] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Motu confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5580] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In Payon Cave 3rd Floor (pay_dun02), deliver 500 Silver Arrows to ^0565C9Motu^000000 at coordinates (33 63) on the map."
+		},
+		Summary = ""
+	},
+	[5581] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Motu confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5582] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In the Prontera Sewers, 2nd floor (prt_sewb2), deliver 10 Orange Potions to ^0565C9Beginner^000000 at coordinates (19 33) on the map."
+		},
+		Summary = ""
+	},
+	[5583] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Beginner confirmed receipt of order."
+		},
+		Summary = ""
+	},
+	[5584] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In the Prontera Sewers, 3rd floor (prt_sewb3), deliver 10 Yellow Potions to ^0565C9Light-Handed^000000 at coordinates (179 149) on the map."
+		},
+		Summary = ""
+	},
+	[5585] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Mão-Leve confirmed receipt of the order."
+		},
+		Summary = ""
+	},
+	[5586] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In the Prontera Sewers 4th floor (prt_sewb4), deliver 10 White Potions to ^0565C9Algoz^000000 at coordinates (112 86) on the map."
+		},
+		Summary = ""
+	},
+	[5587] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Algoz confirmed that they received the order."
+		},
+		Summary = ""
+	},
+	[5588] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In the Forest Maze, 2nd floor (prt_maze02), deliver 10 Fly Wings to ^0565CTraveler^000000 at coordinates (106 127) on the map."
+		},
+		Summary = ""
+	},
+	[5589] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Traveler confirmed receipt of order."
+		},
+		Summary = ""
+	},
+	[5590] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In the Forest Maze 3rd Floor (prt_maze03) deliver 10 Fly Wings to ^0565C9Tory^000000 at coordinates (17 176) on the map."
+		},
+		Summary = ""
+	},
+	[5591] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Tory confirmed that she received the order."
+		},
+		Summary = ""
+	},
+	[5592] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In the Underwater Tunnel 2nd floor (iz_dun01), deliver 10 Orange Potions to ^0565C9Rieyu^000000 at coordinates (36 53) on the map."
+		},
+		Summary = ""
+	},
+	[5593] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Rieyu confirmed receipt of the order."
+		},
+		Summary = ""
+	},
+	[5594] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In the Underwater Tunnel 3rd floor (iz_dun02), deliver 2 units of the Wind Elemental Converter item to ^0565C9Continental Guard^000000 at coordinates (230 226) on the map."
+		},
+		Summary = ""
+	},
+	[5595] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Guarda Continental confirmed that it received the order."
+		},
+		Summary = ""
+	},
+	[5596] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In Payon Cave 4th floor (pay_dun03), deliver 10 Red Potions to ^0565C9Josh^000000 at coordinates (149 142) on the map."
+		},
+		Summary = ""
+	},
+	[5597] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Josh confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5598] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In Payon Cave 5th floor (pay_dun04), deliver 10 Magnifying Glasses to ^0565C9Meer^000000 at coordinates (33 109) on the map."
+		},
+		Summary = ""
+	},
+	[5599] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Meer confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5600] = {
+		Title = "[Delivery B]",
+		Description = {
+			"On the Ghost Ship, 2nd floor (treasure02), deliver 10 units of the Awakening Potion to ^0565C9Yis^000000 at coordinates (99 41) on the map."
+		},
+		Summary = ""
+	},
+	[5601] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Yis confirmed that she received the order."
+		},
+		Summary = ""
+	},
+	[5602] = {
+		Title = "[Delivery B]",
+		Description = {
+			"On Turtle Island (tur_dun01), deliver 10 units of the Awakening Potion to ^0565C9Ting^000000 at coordinates (164 60) on the map."
+		},
+		Summary = ""
+	},
+	[5603] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Ting confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5604] = {
+		Title = "[Delivery B]",
+		Description = {
+			"On Turtle Island (tur_dun02), deliver 10 White Potions to ^0565CPractitioner^000000 at coordinates (150 243) on the map."
+		},
+		Summary = ""
+	},
+	[5605] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Trainee confirmed receipt of order."
+		},
+		Summary = ""
+	},
+	[5606] = {
+		Title = "[Delivery B]",
+		Description = {
+			"At the Sphinx 2nd floor (in_sphinx2), deliver 10 Orange Potions to ^0565C9Wounded Cat^000000 at coordinates (147 133) on the map."
+		},
+		Summary = ""
+	},
+	[5607] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Wounded Cat confirmed receipt of order."
+		},
+		Summary = ""
+	},
+	[5608] = {
+		Title = "[Delivery B]",
+		Description = {
+			"At the Sphinx 3rd floor (in_sphinx3), deliver 10 units of the Yellow Potion item to Lieutenant 0565C9 at coordinates (205 37) on the map."
+		},
+		Summary = ""
+	},
+	[5609] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Lieutenant confirmed receipt of order."
+		},
+		Summary = ""
+	},
+	[5610] = {
+		Title = "[Delivery B]",
+		Description = {
+			"At the Sphinx 4th floor (in_sphinx4), deliver 10 White Potions to ^0565C9Araki^000000 at coordinates (130 130) on the map."
+		},
+		Summary = ""
+	},
+	[5611] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Araki confirmed receipt of the order."
+		},
+		Summary = ""
+	},
+	[5612] = {
+		Title = "[Delivery B]",
+		Description = {
+			"On the 2nd floor of the Pyramid (moc_pryd02), deliver 10 Red Potions to ^0565C9Sini^000000 at coordinates (20 180) on the map."
+		},
+		Summary = ""
+	},
+	[5613] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Sini confirmed that she received the order."
+		},
+		Summary = ""
+	},
+	[5614] = {
+		Title = "[Delivery B]",
+		Description = {
+			"On the 3rd floor of the Pyramid (moc_pryd03), deliver 10 Orange Potions to ^0565C9Saville^000000 at coordinates (92 83) on the map."
+		},
+		Summary = ""
+	},
+	[5615] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Saville confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5616] = {
+		Title = "[Delivery B]",
+		Description = {
+			"On the 1st floor of the Pyramid (moc_pryd05), deliver 10 Orange Potions to ^0565C9Priss^000000 at coordinates (102 84) on the map."
+		},
+		Summary = ""
+	},
+	[5617] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Priss confirmed that she received the order."
+		},
+		Summary = ""
+	},
+	[5618] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In the basement of Geffen Tower, 2nd floor (gef_dun01), deliver 10 Orange Potions to ^0565C9Believer^000000 at coordinates (120 220) on the map."
+		},
+		Summary = ""
+	},
+	[5619] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Believer confirmed receipt of order."
+		},
+		Summary = ""
+	},
+	[5620] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In the basement of Geffen Tower 3rd floor (gef_dun02), deliver 10 Yellow Potions to ^0565C9Syok^000000 at coordinates (91 127) on the map."
+		},
+		Summary = ""
+	},
+	[5621] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Syok confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5622] = {
+		Title = "[Delivery B]",
+		Description = {
+			"At Rachel's Shrine 1st floor (ra_san01), deliver 10 Magnifying Glasses to ^0565CScientist^000000 at coordinates (140 110) on the map."
+		},
+		Summary = ""
+	},
+	[5623] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Scientist confirmed receipt of order."
+		},
+		Summary = ""
+	},
+	[5624] = {
+		Title = "[Delivery B]",
+		Description = {
+			"At Rachel's Sanctuary 2nd Floor (ra_san02), deliver 10 Magnifying Glasses to ^0565CScientist^000000 at coordinates (219 256) on the map."
+		},
+		Summary = ""
+	},
+	[5625] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Scientist confirmed receipt of order."
+		},
+		Summary = ""
+	},
+	[5626] = {
+		Title = "[Delivery B]",
+		Description = {
+			"At Rachel's Sanctuary 3rd Floor (ra_san03), deliver 10 Magnifying Glasses to ^0565CScientist^000000 at coordinates (20 155) on the map."
+		},
+		Summary = ""
+	},
+	[5627] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Scientist confirmed receipt of order."
+		},
+		Summary = ""
+	},
+	[5628] = {
+		Title = "[Delivery B]",
+		Description = {
+			"At Rachel's Sanctuary 4th floor (ra_san04), deliver 10 Magnifying Glasses to ^0565CScientist^000000 at coordinates (200 193) on the map."
+		},
+		Summary = ""
+	},
+	[5629] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Scientist confirmed receipt of order."
+		},
+		Summary = ""
+	},
+	[5630] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In the Ice Cave 2nd floor (ice_dun02), deliver 2 units of the Wind Elemental Converter item to ^0565C9Street Vendor^000000 at coordinates (168 147) on the map."
+		},
+		Summary = ""
+	},
+	[5631] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Delivery person confirmed receipt of order."
+		},
+		Summary = ""
+	},
+	[5632] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In the Biolaboratory on the 1st floor (lhz_dun01), deliver 1 unit of the item Bouquet to ^0565C9Lonely Girl^000000 at coordinates (162 288) on the map."
+		},
+		Summary = ""
+	},
+	[5633] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Lonely Girl confirmed that she received the order."
+		},
+		Summary = ""
+	},
+	[5634] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In the Abandoned Mine, 2nd floor (mjo_dun02), deliver 10 Fly Wings to ^0565C9Flege^000000 at coordinates (359 354) on the map."
+		},
+		Summary = ""
+	},
+	[5635] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Flege confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5636] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In the Abandoned Mine, 3rd floor (mjo_dun03), deliver 3 Butterfly Wings to ^0565C9Ryoma^000000 at coordinates (310 246) on the map."
+		},
+		Summary = ""
+	},
+	[5637] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Ryoma confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5638] = {
+		Title = "[Delivery B]",
+		Description = {
+			"At the Einbech Mine 2nd floor (ein_dun02), deliver 10 White Potions to ^0565C9Philu^000000 at coordinates (281 273) on the map."
+		},
+		Summary = ""
+	},
+	[5639] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Philu confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5640] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In Magma Cave 2nd floor (mag_dun02), deliver 2 units of the Water Elemental Converter item to ^0565C9Chauberly^000000 at coordinates (43 56) on the map."
+		},
+		Summary = ""
+	},
+	[5641] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Chauberly confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5642] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In the Tower of Thanatos, 2nd floor (tha_t02), deliver 10 units of White Potion to ^0565C9Executioner^000000 at coordinates (146 142) on the map."
+		},
+		Summary = ""
+	},
+	[5643] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Algoz confirmed that they received the order."
+		},
+		Summary = ""
+	},
+	[5644] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In the Tower of Thanatos, 3rd floor (tha_t03), deliver 10 units of White Potion to ^0565C9Executioner^000000 at coordinates (226 139) on the map."
+		},
+		Summary = ""
+	},
+	[5645] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Algoz confirmed that they received the order."
+		},
+		Summary = ""
+	},
+	[5646] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In the Tower of Thanatos, 4th floor (tha_t04), deliver 10 units of White Potion to ^0565C9Executioner^000000 at coordinates (60 157) on the map."
+		},
+		Summary = ""
+	},
+	[5647] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Algoz confirmed that they received the order."
+		},
+		Summary = ""
+	},
+	[5648] = {
+		Title = "[Delivery B]",
+		Description = {
+			"At Lake of the Abyss 2nd floor (abyss_02), deliver 10 units of the item Potion of Wild Fury to ^0565C9Wallaby^000000 at coordinates (262 274) on the map."
+		},
+		Summary = ""
+	},
+	[5649] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Wallaby confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5650] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In the Ruins of Juperos (juperos_02), deliver 10 units of the Potion of Wild Fury to ^0565C9Baramil^000000 at coordinates (46 76) on the map."
+		},
+		Summary = ""
+	},
+	[5651] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Baramil confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5652] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In Kiel Hyre 1st floor (kh_dun01) deliver 1 unit of Eternal Rose to ^0565C9Lonely Girl^000000 at coordinates (2 208) on the map."
+		},
+		Summary = ""
+	},
+	[5653] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Lonely Girl confirmed that she received the order."
+		},
+		Summary = ""
+	},
+	[5654] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In the basement of the Clock Tower, 2nd floor (alde_dun02), deliver 10 Fly Wings to ^0565C9Rurik^000000 at coordinates (262 250) on the map."
+		},
+		Summary = ""
+	},
+	[5655] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Rurik confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5656] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In the basement of the Clock Tower, 3rd floor (alde_dun03), deliver 10 Fly Wings to ^0565C9Opon^000000 at coordinates (273 72) on the map."
+		},
+		Summary = ""
+	},
+	[5657] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Opon confirmed that they received the order."
+		},
+		Summary = ""
+	},
+	[5658] = {
+		Title = "[Delivery B]",
+		Description = {
+			"At the Clock Tower 2nd floor (c_tower2), deliver 10 Fly Wings to ^0565C9Archad^000000 at coordinates (253 33) on the map."
+		},
+		Summary = ""
+	},
+	[5659] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Archad confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5660] = {
+		Title = "[Delivery B]",
+		Description = {
+			"At the Clock Tower 3rd floor (c_tower3), deliver 10 Fly Wings to ^0565C9Yorik^000000 at coordinates (143 227) on the map."
+		},
+		Summary = ""
+	},
+	[5661] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Yorik confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5662] = {
+		Title = "[Delivery B]",
+		Description = {
+			"At Glastheim Abbey (gl_church), deliver 5 units of Yggdrasil Leaf to ^0565C9Messo^000000 at coordinates (148 38) on the map."
+		},
+		Summary = ""
+	},
+	[5663] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Messo confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5664] = {
+		Title = "[Delivery B]",
+		Description = {
+			"At Glastheim Cemetery (gl_chyard), deliver 10 Blue Gems to ^0565C9Tyles^000000 at coordinates (156 52) on the map."
+		},
+		Summary = ""
+	},
+	[5665] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Tyles confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5666] = {
+		Title = "[Delivery B]",
+		Description = {
+			"At the Glastheim Library (gl_in01), deliver 500 Silver Arrows to ^0565C9Corel^000000 at coordinates (157 13) on the map."
+		},
+		Summary = ""
+	},
+	[5667] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Corel has confirmed receipt of the order."
+		},
+		Summary = ""
+	},
+	[5668] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In Glastheim Prison 1st floor (gl_prison), deliver 20 Trap items to ^0565C9Felix^000000 at coordinates (34 75) on the map."
+		},
+		Summary = ""
+	},
+	[5669] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Felix confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5670] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In the Glastheim Sewers 1st floor (gl_sew01), deliver 10 Fly Wings to ^0565C9Epad^000000 at coordinates (270 266) on the map."
+		},
+		Summary = ""
+	},
+	[5671] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Epad confirmed that they received the order."
+		},
+		Summary = ""
+	},
+	[5672] = {
+		Title = "[Delivery B]",
+		Description = {
+			"In the Glastheim Sewers 2nd Floor (gl_sew02), deliver 10 Fly Wings to ^0565C9Sobeu^000000 at coordinates (25 252) on the map."
+		},
+		Summary = ""
+	},
+	[5673] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Sobeu confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5674] = {
+		Title = "[Delivery B]",
+		Description = {
+			"On the Steps of Glastheim (gl_step) deliver 10 units of the item Fly Wing to ^0565C9Seth^000000 at coordinates (30 10) on the map."
+		},
+		Summary = ""
+	},
+	[5675] = {
+		Title = "[Delivery B] Delivered",
+		Description = {
+			"Seth confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5676] = {
+		Title = "[Union] On hold",
+		Description = {
+			"There are no new missions registered with the Syndicate. It will restart at 4 a.m. on Wednesday."
+		},
+		Summary = ""
+	},
+	[5677] = {
+		Title = "[Delivery C]",
+		Description = {
+			"In the Prontera Sewers, 1st floor (prt_sewb1), deliver 10 Red Potions to ^0565C9Agent X^000000 at coordinates (204 229) on the map."
+		},
+		Summary = ""
+	},
+	[5678] = {
+		Title = "[Delivery C] Delivered",
+		Description = {
+			"Agent X confirmed receipt of the order."
+		},
+		Summary = ""
+	},
+	[5679] = {
+		Title = "[Delivery C]",
+		Description = {
+			"In the Forest Maze 1st floor (prt_maze01) deliver 3 Butterfly Wings to ^0565C9Kelrik^000000 at coordinates (100 100) on the map."
+		},
+		Summary = ""
+	},
+	[5680] = {
+		Title = "[Delivery C] Delivered",
+		Description = {
+			"Kelrik confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5681] = {
+		Title = "[Delivery C]",
+		Description = {
+			"In the Underwater Tunnel 1st floor (iz_dun00), deliver 10 Red Potions to ^0565C9Belto^000000 at coordinates (130 138) on the map."
+		},
+		Summary = ""
+	},
+	[5682] = {
+		Title = "[Delivery C] Delivered",
+		Description = {
+			"Belto confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5683] = {
+		Title = "[Delivery C]",
+		Description = {
+			"In Payon Cave 1st floor (pay_dun00), deliver 5 Blue Gems to ^0565C9Tring^000000 at coordinates (36 53) on the map."
+		},
+		Summary = ""
+	},
+	[5684] = {
+		Title = "[Delivery C] Delivered",
+		Description = {
+			"Tring confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5685] = {
+		Title = "[Delivery C]",
+		Description = {
+			"On the Ghost Ship 1st floor (treasure01) deliver 10 units of Holy Water to ^0565C9Haryong^000000 at coordinates (74 52) on the map."
+		},
+		Summary = ""
+	},
+	[5686] = {
+		Title = "[Delivery C] Delivered",
+		Description = {
+			"Haryong confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5687] = {
+		Title = "[Delivery C]",
+		Description = {
+			"In the Infernal Anthill, 1st floor (anthell01), deliver 10 units of the Red Potion item to ^0565C9Gomma^000000 at coordinates (107 124) on the map."
+		},
+		Summary = ""
+	},
+	[5688] = {
+		Title = "[Delivery C] Delivered",
+		Description = {
+			"Gomma confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5689] = {
+		Title = "[Delivery C]",
+		Description = {
+			"In the Infernal Anthill, 2nd floor (anthell02), deliver 10 Red Potions to ^0565C9Ninja Gunga^000000 at coordinates (52 257) on the map."
+		},
+		Summary = ""
+	},
+	[5690] = {
+		Title = "[Delivery C] Delivered",
+		Description = {
+			"Ninja Gunga confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5691] = {
+		Title = "[Delivery C]",
+		Description = {
+			"In Comodo Cave, Karu (beach_dun) delivered 5 units of Green Potion to ^0565C9Milli^000000 at coordinates (90 40) on the map."
+		},
+		Summary = ""
+	},
+	[5692] = {
+		Title = "[Delivery C] Delivered",
+		Description = {
+			"Milli confirmed that she received the order."
+		},
+		Summary = ""
+	},
+	[5693] = {
+		Title = "[Delivery C]",
+		Description = {
+			"In Comodo Cave, Luanda (beach_dun2), deliver 10 units of Yellow Potion to ^0565C9Logyo^000000 at coordinates (157 80) on the map."
+		},
+		Summary = ""
+	},
+	[5694] = {
+		Title = "[Delivery C] Delivered",
+		Description = {
+			"Logyo confirmed receipt of the order."
+		},
+		Summary = ""
+	},
+	[5695] = {
+		Title = "[Delivery C]",
+		Description = {
+			"In Comodo Cave, Mao (beach_dun3) delivered 10 Red Potions to ^0565C9Patinhas^000000 at coordinates (161 252) on the map."
+		},
+		Summary = ""
+	},
+	[5696] = {
+		Title = "[Delivery C] Delivered",
+		Description = {
+			"Patinhas confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5697] = {
+		Title = "[Delivery C]",
+		Description = {
+			"At the Sphinx 1st floor (in_sphinx1), deliver 10 units of the Yellow Potion item to ^0565C9Haka^000000 at coordinates (138 61) on the map."
+		},
+		Summary = ""
+	},
+	[5698] = {
+		Title = "[Delivery C] Delivered",
+		Description = {
+			"Haka confirmed receipt of the order."
+		},
+		Summary = ""
+	},
+	[5699] = {
+		Title = "[Delivery C]",
+		Description = {
+			"On the 1st floor of the Pyramid (moc_pryd01), deliver 10 Red Potions to ^0565C9Nissen^000000 at coordinates (122 112) on the map."
+		},
+		Summary = ""
+	},
+	[5700] = {
+		Title = "[Delivery C] Delivered",
+		Description = {
+			"Nissen confirmed receipt of the order."
+		},
+		Summary = ""
+	},
+	[5701] = {
+		Title = "[Delivery C]",
+		Description = {
+			"In the Orc Cave 1st floor (orcsdun01), deliver 10 Orange Potions to ^0565C9Vanick^000000 at coordinates (95 170) on the map."
+		},
+		Summary = ""
+	},
+	[5702] = {
+		Title = "[Delivery C] Delivered",
+		Description = {
+			"Vanick confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5703] = {
+		Title = "[Delivery C]",
+		Description = {
+			"In the Orc Cave, 2nd floor (orcsdun02), deliver 10 units of the Yellow Potion item to ^0565C9Vanick^000000 at coordinates (60 95) on the map."
+		},
+		Summary = ""
+	},
+	[5704] = {
+		Title = "[Delivery C] Delivered",
+		Description = {
+			"Vanick confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5705] = {
+		Title = "[Delivery C]",
+		Description = {
+			"In the basement of Geffen Tower 1st floor (gef_dun00), deliver 10 Yellow Potions to ^0565C9Bullor^000000 at coordinates (171 174) on the map."
+		},
+		Summary = ""
+	},
+	[5706] = {
+		Title = "[Delivery C] Delivered",
+		Description = {
+			"Bullor confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5707] = {
+		Title = "[Delivery C]",
+		Description = {
+			"In the Ice Cave 1st floor (ice_dun01), deliver 1 Cotton Shirt to ^0565C9Tamonga^000000 at coordinates (233 80) on the map."
+		},
+		Summary = ""
+	},
+	[5708] = {
+		Title = "[Delivery C] Delivered",
+		Description = {
+			"Tamonga confirmed that they received the order."
+		},
+		Summary = ""
+	},
+	[5709] = {
+		Title = "[Delivery C]",
+		Description = {
+			"In the Abandoned Mine, 1st floor (mjo_dun01), deliver 10 Fly Wings to ^0565C9Witch^000000 at coordinates (75 215) on the map."
+		},
+		Summary = ""
+	},
+	[5710] = {
+		Title = "[Delivery C] Delivered",
+		Description = {
+			"The sorceress confirmed that she received the order."
+		},
+		Summary = ""
+	},
+	[5711] = {
+		Title = "[Delivery C]",
+		Description = {
+			"At Einbech Mine 1st floor (ein_dun01), deliver 30 units of Meat to ^0565CHungry Miner^000000 at coordinates (48 252) on the map."
+		},
+		Summary = ""
+	},
+	[5712] = {
+		Title = "[Delivery C] Delivered",
+		Description = {
+			"Hungry Miner confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5713] = {
+		Title = "[Delivery C]",
+		Description = {
+			"In Magma Cave 1st floor (mag_dun01), deliver 30 Sweet Potatoes to ^0565C9Pikiner^000000 at coordinates (221 198) on the map."
+		},
+		Summary = ""
+	},
+	[5714] = {
+		Title = "[Delivery C] Delivered",
+		Description = {
+			"Pikiner confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5715] = {
+		Title = "[Delivery C]",
+		Description = {
+			"In the Tower of Thanatos, 1st floor (tha_t01), deliver 10 Magnifying Glasses to ^0565CArchaeologist^000000 at coordinates (122 44) on the map."
+		},
+		Summary = ""
+	},
+	[5716] = {
+		Title = "[Delivery C] Delivered",
+		Description = {
+			"Archeologist confirmed receipt of order."
+		},
+		Summary = ""
+	},
+	[5717] = {
+		Title = "[Delivery C]",
+		Description = {
+			"At Abyss Lake 1st floor (abyss_01), deliver 10 units of Monster Rations to ^0565C9Gatão^000000 at coordinates (247 267) on the map."
+		},
+		Summary = ""
+	},
+	[5718] = {
+		Title = "[Delivery C] Delivered",
+		Description = {
+			"Gatão confirmed that he received the order."
+		},
+		Summary = ""
+	},
+	[5719] = {
+		Title = "[Delivery C]",
+		Description = {
+			"In the Ruins of Juperos (juperos_01), deliver 10 Concentration Potions to ^0565C9Student^000000 at coordinates (58 227) on the map."
+		},
+		Summary = ""
+	},
+	[5720] = {
+		Title = "[Delivery C] Delivered",
+		Description = {
+			"Student confirmed receipt of order."
+		},
+		Summary = ""
+	},
+	[5721] = {
+		Title = "[Delivery C]",
+		Description = {
+			"In the basement of the Clock Tower, 1st floor (alde_dun01), deliver 10 Fly Wings to ^0565C9Vivi^000000 at coordinates (80 275) on the map."
+		},
+		Summary = ""
+	},
+	[5722] = {
+		Title = "[Delivery C] Delivered",
+		Description = {
+			"Vivi confirmed that she received the order."
+		},
+		Summary = ""
+	},
+	[5723] = {
+		Title = "[Delivery C]",
+		Description = {
+			"On the 1st floor of the Clock Tower (c_tower1), deliver 10 Fly Wings to ^0565C9Vivi^000000 at coordinates (378 118) on the map."
+		},
+		Summary = ""
+	},
+	[5724] = {
+		Title = "[Delivery C] Delivered",
+		Description = {
+			"Vivi confirmed that she received the order."
+		},
+		Summary = ""
+	},
+	[5725] = {
+		Title = "[Delivery C]",
+		Description = {
+			"In Glastheim (glast_01), deliver 20 Trap items to ^0565C9Reidin Corse^000000 at coordinates (260 53) on the map."
+		},
+		Summary = ""
+	},
+	[5726] = {
+		Title = "[Delivery C] Delivered",
+		Description = {
+			"Reidin Corse confirmed that they received the order."
+		},
+		Summary = ""
+	},
+	[12370] = {
+		Title = "Union of Cities",
+		Description = {
+			"From now on, you are a member of the Union of Cities. When you defeat any monster, there is a 20% chance that a Union Coin will appear directly in your inventory."
+		},
+		Summary = "Unionist"
+	},
+	[12371] = {
+		Title = "Fame in the City",
+		Description = {
+			"You have already invested in a city affiliated with the Union for today. Come back at 4 a.m. if you want to invest more."
+		},
+		Summary = "Come back tomorrow.",
+		CoolTimeQuest = 1
 	}
 }

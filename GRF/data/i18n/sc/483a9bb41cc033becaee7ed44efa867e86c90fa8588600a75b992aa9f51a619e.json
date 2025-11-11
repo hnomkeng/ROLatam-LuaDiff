@@ -222,10 +222,10 @@
         "es": "Entrada Temporal"
     },
     "5WueCA": {
-        "ko": "{0} 파티의 {1} 파티원이 {2} 에 입장합니다",
-        "en": "{0} party member {1} enters {md_name}",
-        "pt": "{0}, do grupo {1}, entrou no Espaço Infinito",
-        "es": "{0}, miembro del grupo, {1}, entra en {md_name}"
+        "ko": "[임시 출입구]\n알 수 없는 오류가 발생했습니다.",
+        "en": "[Temporary Entrance] An unknown error has occurred.",
+        "pt": "[Entrada] Ocorreu um erro desconhecido.",
+        "es": "[Entrada Temporal] Ha ocurrido un error desconocido."
     },
     "5mueCA": {
         "ko": "[임시 출입구]\n이동을 위한 통로가 활성화되지 않았습니다.",
@@ -256,17 +256,5 @@
         "en": "^0000FFAdventurers who are not in a party appear to be unable to enter.^000000",
         "pt": "^0000FFCrie um grupo para entrar na instância.^000000",
         "es": "^0000FFLos aventureros que no forman parte de un grupo parecen no poder entrar.^000000"
-    },
-    "62ueCA": {
-        "ko": "파티명:{0}\n파티장:{1}\n^0000FF{2} ^000000- 예약실패",
-        "en": "Party Name: {0}\nParty Leader: {1}\n^0000FF {2} ^000000 - Reservation failed",
-        "pt": "Nome do Grupo: {0}\nLíder do Grupo: {1}\n^0000FF {2} ^000000 - Falha na reserva",
-        "es": "Nombre del Grupo: {0}\nLíder del Grupo: {1}\n^0000FF {2} ^000000 - Reserva fallida"
-    },
-    "7GueCA": {
-        "ko": "[임시 출입구]\n알 수 없는 오류가 발생했습니다.",
-        "en": "[Temporary Entrance] An unknown error has occurred.",
-        "pt": "[Entrada] Ocorreu um erro desconhecido.",
-        "es": "[Entrada Temporal] Ha ocurrido un error desconocido."
     }
 }

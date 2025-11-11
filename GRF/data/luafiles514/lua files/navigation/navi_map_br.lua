@@ -3738,6 +3738,13 @@ Navi_Map = {
 		340
 	},
 	{
+		"que_swat",
+		"Base Militar",
+		5003,
+		360,
+		360
+	},
+	{
 		"que_thor",
 		"Vulc? de Thor ",
 		5001,
@@ -3941,6 +3948,13 @@ Navi_Map = {
 		300
 	},
 	{
+		"rebel_in",
+		"Clana Nemieri",
+		5003,
+		220,
+		100
+	},
+	{
 		"rwc01",
 		"championship4",
 		5001,
@@ -3967,6 +3981,13 @@ Navi_Map = {
 		5001,
 		400,
 		400
+	},
+	{
+		"slabw01",
+		"Laboratório Clandestino",
+		5001,
+		300,
+		180
 	},
 	{
 		"sp_rudus4",

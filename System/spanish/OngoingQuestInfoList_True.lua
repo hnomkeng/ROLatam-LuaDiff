@@ -17721,9 +17721,9 @@ QuestInfoList = {
 		Title = "Terra Gloria",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Sé a dónde va Bruno. ¡Dile a Skia, que está esperando cerca de los grandes almacenes en Lighthalzen, y vayamos a la favela a encontrar a Bruno!"
+			"Sé a dónde va Bruno. ¡Dile a Skia, que está esperando cerca del centro comercial en Lighthalzen, y vayamos a los barrio bajos a encontrar a Bruno!"
 		},
-		Summary = "A la Favela"
+		Summary = "A los Barrios Bajos"
 	},
 	[7734] = {
 		Title = "Terra Gloria",
@@ -18513,14 +18513,14 @@ QuestInfoList = {
 	[7867] = {
 		Title = "Mercenario contra mercenario",
 		Description = {
-			"<NAVI>[Juslan]<INFO>sp_cor, 155, 94, 0, 101, 0</INFO></NAVI> en la zona de seguridad especial, Cor, me pidió que me ocupe de los Cazadores de corazones, Bellare y Sanare, en Os."
+			"<NAVI>[Yuslan]<INFO>sp_cor, 155, 94, 0, 101, 0</INFO></NAVI> en la zona de seguridad especial, Cor, me pidió que me ocupe de los Cazacorazones, Bellare y Sanare, en Os."
 		},
-		Summary = "Derrota a los Cazadores de corazones."
+		Summary = "Derrota a los Cazacorazones."
 	},
 	[7868] = {
-		Title = "Mercenario contra mercenario (pendiente)",
+		Title = "[Espera] Mercenario contra mercenario",
 		Description = {
-			"Una misión diaria. Se puede repetir cuando termine el tiempo de espera través de <NAVI>[Juslan]<INFO>sp_cor, 155, 94, 0, 101, 0</INFO></NAVI> en la zona de seguridad especial, Cor."
+			"Una misión diaria. Se puede repetir cuando termine el tiempo de espera través de <NAVI>[Yuslan]<INFO>sp_cor, 155, 94, 0, 101, 0</INFO></NAVI> en la zona de seguridad especial, Cor."
 		},
 		Summary = "Reinicia a las 4:00.",
 		CoolTimeQuest = 1
@@ -20421,7 +20421,7 @@ QuestInfoList = {
 	[8229] = {
 		Title = "La lección de Guarnien",
 		Description = {
-			"No puedes llevar el título de Comerciante si ni siquiera puedes cargar mercancías para vender. Aumenta la habilidad Límite de peso hasta el nivel 4. Después de eso, podemos hablar más sobre cómo convertirte en Comerciante de verdad."
+			"No puedes llevar el Title de Comerciante si ni siquiera puedes cargar mercancías para vender. Aumenta la habilidad Límite de peso hasta el nivel 4. Después de eso, podemos hablar más sobre cómo convertirte en Comerciante de verdad."
 		},
 		Summary = "Regresa con Guarnien cuando domines la habilidad Aumento del Límite de peso."
 	},
@@ -28658,7 +28658,7 @@ QuestInfoList = {
 		Title = "Terra Gloria",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"No pude convencer a Rupert, el Líder de los Insurgentes. Convenzamos a otras personas primero."
+			"No pude convencer a Rupert, el Líder de los Rebeldes. Convenzamos a otras personas primero."
 		},
 		Summary = "Convence a más personas"
 	},
@@ -28682,7 +28682,7 @@ QuestInfoList = {
 		Title = "Terra Gloria",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Recibí el consentimiento de Dien. Convenzamos a la Comandante del Batallón de Fuerzas Especiales, <NAVI>[Est Loveloy]<INFO>rebel_in,210,89,0,101,0</INFO></NAVI>."
+			"Recibí el consentimiento de Dien. Vamos a convencer a la comandante del batallón de las Fuerzas Especiales, <NAVI>[Est Loveloy]<INFO>rebel_in,210,89,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Habla con Est"
 	},
@@ -28730,7 +28730,7 @@ QuestInfoList = {
 		Title = "Terra Gloria",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Escuché algo sospechoso frente a la habitación de Dien, pero creo que debo fingir que no sé. Después de prometer ayudar con el recado, entremos en la sala y hablemos con <NAVI>[Dien]<INFO>rebel_in,164,88,0,101,0</INFO></NAVI>."
+			"Escuché algo sospechoso frente a la habitación de Dien,pero creo que debería fingir que no oí nada. Después de prometer ayudar, entremos en la habitación y hablemos con <NAVI>[Dien]<INFO>rebel_in,164,88,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Habla con Dien"
 	},
@@ -28777,15 +28777,15 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},
 	[11469] = {
-		Title = "Aretes de Cotnes",
+		Title = "Anillos de Cotnes",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Cotnes, la veterana de la Rebelión, quiere que traigas 1x Aretes Brillantes de la <NAVI>[Base Militar]<INFO>ein_fild04,281,337,0,101,0</INFO></NAVI>."
+			"Cotnes, la veterana de la Rebelión, quiere que traigas 4x Anillo Brillantes de la <NAVI>[Base Militar]<INFO>ein_fild04,281,337,0,101,0</INFO></NAVI>."
 		},
-		Summary = "1x Aretes Brillantes"
+		Summary = "4x Anillos Brillantes"
 	},
 	[11470] = {
-		Title = "[Espera] Aretes de Cotnes",
+		Title = "[Espera] Anillos de Cotnes",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Misión de Cotnes completada. Vuelve mañana."
@@ -33345,7 +33345,7 @@ QuestInfoList = {
 		Summary = "Completa la instancia"
 	},
 	[12375] = {
-		Title = "[Espera] Base Militar]",
+		Title = "[Espera] Base Militar",
 		Description = {
 			"La Base Militar está en mantenimiento. Estamos bloqueando temporalmente el acceso para que los Ingenieros terminen de hacer los ajustes."
 		},
@@ -33601,25 +33601,27 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},
 	[12412] = {
-		Title = "Invisible Quest",
+		Title = "Modo Infantil",
 		Description = {
-			"Place Holder"
+			"Aprendiendo sobre las mazmorras en modo infantil."
 		},
-		Summary = "Place Holder"
+		Summary = "Entrar a la mazmorra"
 	},
 	[12413] = {
-		Title = "Invisible Quest",
+		Title = "[Espera] Glastheim Infantil",
 		Description = {
-			"Place Holder"
+			"Podrás entrar nuevamente a la Glastheim infantil solo después del Jueves, a las 4 de la mañana."
 		},
-		Summary = "Place Holder"
+		Summary = "Jueves, 4 de la mañana.?",
+		CoolTimeQuest = 1
 	},
 	[12414] = {
-		Title = "Invisible Quest",
+		Title = "[Espera] Fábrica Infantil",
 		Description = {
-			"Place Holder"
+			"Podrás entrar nuevamente a la Fábrica infantil solo después del Jueves, a las 4 de la mañana."
 		},
-		Summary = "Place Holder"
+		Summary = "Jueves, 4 de la mañana.?",
+		CoolTimeQuest = 1
 	},
 	[12415] = {
 		Title = "Invisible Quest",
@@ -33666,26 +33668,25 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},
 	[12421] = {
-		Title = "Efectos secundarios de salvar el mundo",
+		Title = "[Espera] Anomalía Dimensional",
 		Description = {
-			"Recibiste el premio por salvar el mundo. No se puede volver a obtener antes de que se reinicie."
+			"Has recibido tu recompensa por haber salvado otra dimensión. Ahora solo podrás recibir tu próxima recompensa después de la hora acordada."
 		},
-		Summary = "Se reinicia a las 4:00.",
-		CoolTimeQuest = 1
+		Summary = "Vuelve mañana.­"
 	},
 	[12422] = {
-		Title = "Solicitud del Líder Demonio",
+		Title = "Anomalía Dimensional",
 		Description = {
-			"Llegó una solicitud del líder demonio Barmund para unirse a él."
+			"Has recibido la invitación del Gran Sabio Varmunt. Sigamos hacia la otra dimensión."
 		},
-		Summary = "Solicitud del Líder Demonio"
+		Summary = "Habla con Varmunt"
 	},
 	[12423] = {
-		Title = "El que salvará al mundo",
+		Title = "Anomalía Dimensional",
 		Description = {
-			"Debo restaurar la piedra guardiana para ayudar a Barmund que está luchando en el mundo de otra dimensión."
+			"En esta nueva dimensión, tu objetivo es curar la Piedra Guardiana y protegerla de los monstruos terribles."
 		},
-		Summary = "Restauración de la piedra guardiana"
+		Summary = "Cura la Piedra Guardiana"
 	},
 	[12442] = {
 		Title = "Senda del Cosechador de Almas 1",
@@ -33786,11 +33787,11 @@ QuestInfoList = {
 		Summary = "Operación pendiente."
 	},
 	[12456] = {
-		Title = "Consecuencias de la eliminación de las secuelas de salvar el mundo",
+		Title = "[Espera] Anomalía Dimensional]",
 		Description = {
-			"Queda una consecuencia de eliminar a la fuerza la secuela de salvar el mundo."
+			"Has viajado entre las grietas dimensionales y se recomienda que esperes un tiempo."
 		},
-		Summary = "Consecuencias de la eliminación de las secuelas de salvar el mundo"
+		Summary = "Vuelve mañana.­"
 	},
 	[12457] = {
 		Title = "Momento de la caída",
@@ -37556,6 +37557,7 @@ QuestInfoList = {
 	},
 	[14492] = {
 		Title = "Un indicio de esperanza",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"¿Puedes volver más tarde? Solo el tiempo suficiente para que no se sienta presionada, pero que no me vaya a olvidar. Pasado un tiempo, ¡me gustaría volver a entregarle mi corazón! - <NAVI>[Jurgen]<INFO>prt_cas_q,95,9,0,101,0</INFO></NAVI>"
 		},
@@ -37563,6 +37565,7 @@ QuestInfoList = {
 	},
 	[14493] = {
 		Title = "Mis sentimientos el día de hoy",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"¿Qué debo hacer? Hoy Mary me gusta aún más. Envíale mi amor con 15 Piedras del Mar, que se pueden conseguir cazando Medusas, y 1 Rosa Eterna."
 		},
@@ -37570,6 +37573,7 @@ QuestInfoList = {
 	},
 	[14494] = {
 		Title = "Tengo que rechazarlo otra vez",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Por favor, realmente aprecio sus sentimientos. Sin embargo, no puedo aceptarlo. Díselo sin herir sus sentimientos."
 		},
@@ -37670,6 +37674,7 @@ QuestInfoList = {
 	},
 	[14508] = {
 		Title = "Joyas y Telas",
+		IconName = "ico_nq.bmp",
 		Description = {
 			"Trae 3 Perlas y 50 Plumas."
 		},
@@ -37677,6 +37682,7 @@ QuestInfoList = {
 	},
 	[14509] = {
 		Title = "Sigo Trabajando",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Todavía intento usar lo que ya me habías traído. Decidiré qué hacer cuando termine el trabajo. ¿Puedes regresar después del amanecer?"
 		},
@@ -37684,6 +37690,7 @@ QuestInfoList = {
 	},
 	[14510] = {
 		Title = "Vestido de Pétalos Rosados",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"¡Haré un vestido tan hermoso como un pétalo rosado! ¿Puedes traer 15 Seda Suave, 30 Hierbas Rojas y 10 Hierbas Blancas para teñir la tela?"
 		},
@@ -37691,6 +37698,7 @@ QuestInfoList = {
 	},
 	[14511] = {
 		Title = "Hermosa Decoración Floral",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Lo decoraré con flores sencillas pero hermosas. Consígueme 5 Flores Hermosas, 5 Flores Elegantes y 5 Flores Misteriosas."
 		},
@@ -37698,6 +37706,7 @@ QuestInfoList = {
 	},
 	[14512] = {
 		Title = "Vestido del Cielo Nocturno",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"¡Haré un vestido tan oscuro como el cielo nocturno! Necesito una tela más oscura que el cielo nocturno. ¿Me puedes traer 20 Trozos de Tela Negra? Por favor."
 		},
@@ -37705,6 +37714,7 @@ QuestInfoList = {
 	},
 	[14513] = {
 		Title = "Manto del Sol Ardiente",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Quiero hacer un manto que se parezca al sol ardiente del cielo. Creo que necesito 20 Cabello en Llamas para hacerlo."
 		},
@@ -37712,6 +37722,7 @@ QuestInfoList = {
 	},
 	[14514] = {
 		Title = "Pasos de Hada",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Haré un vestido tan ligero y elegante como los pasos de un hada. ¡Una preciosidad! Necesito 5 Ala de Hada Elegante. Serán suficientes para hacer un vestido elegante."
 		},
@@ -37719,6 +37730,7 @@ QuestInfoList = {
 	},
 	[14515] = {
 		Title = "Estrellas Brillantes",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"¡Quiero espolvorear el vestido con estrellas brillantes! Por favor, consígueme 5 Polvos de Estrella para decorar el vestido."
 		},
@@ -37726,6 +37738,7 @@ QuestInfoList = {
 	},
 	[14516] = {
 		Title = "Sombra sospechosa",
+		IconName = "ico_ep.bmp",
 		Description = {
 			"Escuché la conversación entre Ian y una Persona Sospechosa."
 		},
@@ -37733,6 +37746,7 @@ QuestInfoList = {
 	},
 	[14517] = {
 		Title = "Entrega de bocadillos a medianoche",
+		IconName = "ico_nq.bmp",
 		Description = {
 			"Entregaste el bocadillo de medianoche."
 		},
@@ -38240,7 +38254,7 @@ QuestInfoList = {
 		Title = "Terra Gloria",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Perezoso parece tener algo que hacer aquí. Entra."
+			"Lazy parece tener algo que hacer aquí. Entra."
 		},
 		Summary = "Entra al portal"
 	},
@@ -38250,13 +38264,13 @@ QuestInfoList = {
 		Description = {
 			"Como gesto de gratitud, tomemos una taza de té. Habla con Nemi o Eri y te dejarán pasar al otro lado de la tienda."
 		},
-		Summary = "Encuentra a Perezoso"
+		Summary = "Encuentra a Lazy"
 	},
 	[14600] = {
 		Title = "Terra Gloria",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Primero, busca a Rupert, el Líder de los Insurgentes, en el 2º piso. Puede que no sea fácil convencerlo, si ese es el caso, busca a las veteranas."
+			"Primero, busca a Rupert, el Líder de los Rebeldes, en el 2º piso. Puede que no sea fácil convencerlo, si ese es el caso, busca a las veteranas."
 		},
 		Summary = "Habla con Rupert"
 	},
@@ -38375,7 +38389,7 @@ QuestInfoList = {
 		Description = {
 			"Primero, convence a los poderosos de aquí. Est, Elena, Rupert y las Veteranas. Una vez que hables con todos, vuelve conmigo."
 		},
-		Summary = "Vuelve con Perezoso"
+		Summary = "Vuelve con Lazy"
 	},
 	[14615] = {
 		Title = "Terra Gloria",
@@ -39578,7 +39592,7 @@ QuestInfoList = {
 		Summary = "Arena de Combate"
 	},
 	[16010] = {
-		Title = "[Espera] Desafío de Elena]",
+		Title = "[Espera] Desafío de Elena",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elena Bolkova parece no haberse esforzado en la lucha. Descansa lo suficiente y vuelve mañana para una nueva batalla en <NAVI>[Clana Nemieri]<INFO>einbech,216,80,0,101,0</INFO></NAVI>."
@@ -39610,7 +39624,7 @@ QuestInfoList = {
 	[16014] = {
 		Title = "Gemelos Levedev",
 		Description = {
-			"Habla de los Gemelos Levedev a <NAVI>[Manson Bender]<INFO>rebel_in,108,27,0,101,0</INFO></NAVI>."
+			"Habla de los Gemelos Levedev a <NAVI>[Manson Bender]<INFO>rebel_in,19,48,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Habla con Mason Bender"
 	},
@@ -39747,7 +39761,7 @@ QuestInfoList = {
 		Summary = "Elena Bolkova"
 	},
 	[16032] = {
-		Title = "Merienda de los Veteranos",
+		Title = "Refrigerios de los Veteranos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Trae al menos 1 plato de cocina a <NAVI>[Milo River]<INFO>rebel_in,108,27,0,101,0</INFO></NAVI>.",
@@ -39763,10 +39777,10 @@ QuestInfoList = {
 		Summary = "Habla con Jana Levedev"
 	},
 	[16034] = {
-		Title = "[Espera] Merienda de los Veteranos",
+		Title = "[Espera] Refrigerios de los Veteranos",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Los mayores toman una merienda una vez al día. Mañana, visitemos a Milo River en <NAVI>[Clana Nemieri]<INFO>einbech,216,80,0,101,0</INFO></NAVI>."
+			"Los veteranos toman una merienda una vez al día. Mañana, visitemos a Milo River en <NAVI>[Clana Nemieri]<INFO>einbech,216,80,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Se reinicia a las 4 AM.",
 		CoolTimeQuest = 1
@@ -39788,7 +39802,7 @@ QuestInfoList = {
 		Summary = "Habla con Rachel Smith"
 	},
 	[16037] = {
-		Title = "[Espera] Armería de la Rebelión]",
+		Title = "[Espera] Armería de la Rebelión",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Aparentemente, será posible trabajar con los materiales de hoy. Mañana, veamos si podemos ayudar a <NAVI>[Rachel Smith]<INFO>einbech,216,80,0,101,0</INFO></NAVI>."
@@ -45879,6 +45893,22 @@ Talk to Kar=],
 			"Si quieres un sombrero Shafka, trae los materiales que Irina te pidió para que haga uno para ti."
 		},
 		Summary = "20 Colas de Nueve colas, 10 Bolas de lana, 10 Trapos de seda suave, 20 Pieles de nutria marina, 1 Carrete."
+	},
+	[18218] = {
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Por favor, ven a la entrada del <NAVI>[Laboratorio]<INFO>que_swat,145,57,0,101,0</INFO></NAVI>. Tengo algo urgente que decirte."
+		},
+		Summary = "Hablar con Tess"
+	},
+	[18219] = {
+		Title = "Terra Gloria",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Una serie de incidentes ha concluido. Tengo curiosidad por saber cómo está ahora <NAVI>[Nihil]<INFO>prt_cas_q,21,39,0,101,0</INFO></NAVI>. ¡Vayamos al Castillo de Prontera a comprobarlo!"
+		},
+		Summary = "Hablar con Nihil"
 	},
 	[19066] = {
 		Title = "La historia del investigador Rudolf",
@@ -69579,5 +69609,1819 @@ Talk to Kar=],
 		NpcNavi = "geffen",
 		NpcPosX = 40,
 		NpcPosY = 141
+	},
+	[5470] = {
+		Title = "[Se busca] En espera",
+		Description = {
+			"No hay nuevas misiones de [Se busca] en el Sindicato. Se reiniciará a las 4 de la mañana del miércoles."
+		},
+		Resumen = ""
+	},
+	[5471] = {
+		Title = "[Se busca]",
+		Description = {
+			"Elimina a Entweihen Crothen en la Torre sin Fin."
+		},
+		Resumen = "Moneda sindical: 300"
+	},
+	[5472] = {
+		Title = "[Se busca]",
+		Description = {
+			"Elimina a Bafomé Sellado en el Altar del Sello."
+		},
+		Resumen = "Moneda sindical: 200"
+	},
+	[5473] = {
+		Title = "[Se busca]",
+		Description = {
+			"Elimina a Bakonawa en el lago Bakonawa."
+		},
+		Resumen = "Moneda sindical: 250"
+	},
+	[5474] = {
+		Title = "[Se busca]",
+		Description = {
+			"Elimina a Buwaya en la Cueva de Buwaya."
+		},
+		Resumen = "Moneda sindical: 250"
+	},
+	[5475] = {
+		Title = "[Se busca]",
+		Description = {
+			"Elimina a los Amdarais en La maldición de Glastheim."
+		},
+		Resumen = "Moneda sindical: 200"
+	},
+	[5476] = {
+		Title = "[Se busca]",
+		Description = {
+			"Elimina a la Reina Gusano en la Guarida de los Gusanos."
+		},
+		Resumen = "Moneda sindical: 250"
+	},
+	[5477] = {
+		Title = "[Se busca]",
+		Description = {
+			"Elimina a Fenrir en el Torneo de Magia."
+		},
+		Resumen = "Moneda sindical: 300"
+	},
+	[5478] = {
+		Title = "[Se busca]",
+		Description = {
+			"Elimina a Celine Kimi en la Fábrica del Terror."
+		},
+		Resumen = "Moneda sindical: 250"
+	},
+	[5479] = {
+		Title = "[Se busca]",
+		Description = {
+			"Elimina al Nigromante de Morroc en la Cueva de Mors."
+		},
+		Resumen = "Moneda sindical: 300"
+	},
+	[5480] = {
+		Title = "[Se busca]",
+		Description = {
+			"Elimina al segador Ankou en la isla Bios."
+		},
+		Resumen = "Moneda sindical: 300"
+	},
+	[5481] = {
+		Title = "[Se busca]",
+		Description = {
+			"Elimina a Dios Morroc en el Templo del Rey Demonio."
+		},
+		Resumen = "Moneda sindical: 300"
+	},
+	[5482] = {
+		Title = "[Se busca]",
+		Description = {
+			"Elimina a Amdarais Oscuro en Glastheim Oscuro."
+		},
+		Resumen = "Moneda sindical: 300"
+	},
+	[5483] = {
+		Title = "[Se busca]",
+		Description = {
+			"Elimina el Réquiem de Marfil en la Pesadilla Musical."
+		},
+		Resumen = "Moneda sindical: 200"
+	},
+	[5484] = {
+		Title = "[Se busca]",
+		Description = {
+			"Elimina Charleston 03 en Charleston en crisis."
+		},
+		Resumen = "Moneda sindical: 200"
+	},
+	[5485] = {
+		Title = "[Se busca]",
+		Description = {
+			"Elimina a Sara en la instancia Sara contra Fenrir."
+		},
+		Resumen = "Moneda sindical: 200"
+	},
+	[5486] = {
+		Title = "[Se busca]",
+		Description = {
+			"Elimina al capitán Ferlock en la invasión del avión."
+		},
+		Resumen = "Moneda sindical: 150"
+	},
+	[5487] = {
+		Title = "[Se busca]",
+		Description = {
+			"Elimina al capitán Ferlock en la invasión del avión."
+		},
+		Resumen = "Moneda sindical: 150"
+	},
+	[5488] = {
+		Title = "[Se busca]",
+		Description = {
+			"Elimina a T_W_O en la sala final."
+		},
+		Resumen = "Moneda sindical: 200"
+	},
+	[5489] = {
+		Title = "[Se busca]",
+		Description = {
+			"Elimina a Bijou en el Salón de Ymir."
+		},
+		Resumen = "Moneda sindical: 100"
+	},
+	[5490] = {
+		Title = "[Se busca]",
+		Description = {
+			"Elimina a Jack Wolf en el Susurro Oscuro."
+		},
+		Resumen = "Moneda sindical: 200"
+	},
+	[5491] = {
+		Title = "[Se busca]",
+		Description = {
+			"Elimina la sombra de Nidhogg en el nido de Nidhogg."
+		},
+		Resumen = "Moneda sindical: 150"
+	},
+	[5492] = {
+		Title = "[Se busca]",
+		Description = {
+			"Elimina al Dragón Púrpura en el Laberinto del Bosque."
+		},
+		Resumen = "Moneda sindical: 150"
+	},
+	[5493] = {
+		Title = "[Se busca]",
+		Description = {
+			"Elimina a Bangungot en el hospital abandonado."
+		},
+		Resumen = "Moneda sindical: 150"
+	},
+	[5494] = {
+		Title = "[Se busca]",
+		Description = {
+			"Elimina a Lord Irine en los recuerdos de Sara."
+		},
+		Resumen = "Moneda sindical: 100"
+	},
+	[5495] = {
+		Title = "[Se busca]",
+		Description = {
+			"Elimine la angustia torturante en el Palacio de las Penas."
+		},
+		Resumen = "Moneda sindical: 100"
+	},
+	[5496] = {
+		Title = "[Sindicato] En espera",
+		Description = {
+			"No hay nuevas misiones registradas en el Sindicato. Se reiniciará a las 4 de la mañana del miércoles."
+		},
+		Resumen = ""
+	},
+	[5497] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En el túnel submarino, 4.ª planta (iz_dun03), entrega a ^0565C9Guarda^000000 el objeto Convertidor elemental de viento, 2 unidades, en las coordenadas (67 76) del mapa."
+		},
+		Resumen = ""
+	},
+	[5498] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"El guardia ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5499] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En el túnel submarino, 5.º piso (iz_dun04), entrega a ^0565C9Guarda^000000 el objeto Convertidor elemental de viento, 2 unidades, en las coordenadas (86 45) del mapa."
+		},
+		Resumen = ""
+	},
+	[5500] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"El guardia ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5501] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En la Aldea de las Buenas Tortugas (tur_dun03), entrega a ^0565C9Lucci^000000 el objeto Zanahoria 30 unidad(es) en las coordenadas (132 156) del mapa."
+		},
+		Resumen = ""
+	},
+	[5502] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Lucci ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5503] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En el Palacio Tortuga (tur_dun04), entrega a ^0565C9Jung Fan^000000 el objeto Batata Doce 30 unidad(es) en las coordenadas (86 175) del mapa."
+		},
+		Resumen = ""
+	},
+	[5504] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Jung Fan ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5505] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En la Esfinge, 5.º piso (in_sphinx5), entrega a ^0565C9Jarman^000000 el objeto Hoja de Yggdrasil, 5 unidades, en las coordenadas (109 109) del mapa."
+		},
+		Resumen = ""
+	},
+	[5506] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Jarman ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5507] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En la pirámide, 4.º piso (moc_pryd04), entrega a ^0565C9Frau^000000 el objeto Hoja de Yggdrasil, 5 unidades, en las coordenadas (78 194) del mapa."
+		},
+		Resumen = ""
+	},
+	[5508] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Frau ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5509] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En la pirámide, 2.º piso (moc_pryd06), entrega a ^0565C9Dodari^000000 el objeto Hoja de Yggdrasil, 5 unidades, en las coordenadas (97 17) del mapa."
+		},
+		Resumen = ""
+	},
+	[5510] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Dodari ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5511] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En el Monasterio Maldito, 1.ª planta (abbey01), entrega a ^0565C9Acto^000000 el objeto Agua bendita, 10 unidades, en las coordenadas (51 45) del mapa."
+		},
+		Resumen = ""
+	},
+	[5512] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Acto confirmó que recibió el pedido."
+		},
+		Resumen = ""
+	},
+	[5513] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En el Monasterio Maldito, 2.º piso (abbey02), entrega a ^0565C9Ellen^000000 el objeto Flecha de plata, 500 unidades, en las coordenadas (157 32) del mapa."
+		},
+		Resumen = ""
+	},
+	[5514] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Ellen ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5515] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En el Monasterio Maldito, 3.ª planta (abbey03), entrega a ^0565C9Kyuk^000000 el objeto Carne, 30 unidades, en las coordenadas (108 23) del mapa."
+		},
+		Resumen = ""
+	},
+	[5516] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Kyuk ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5517] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En el Volcán de Thor, 1.ª planta (thor_v01), entrega a ^0565C9Extraño^000000 el objeto Convertidor elemental de agua, 2 unidades, en las coordenadas (18 246) del mapa."
+		},
+		Resumen = ""
+	},
+	[5518] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"El extraño ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5519] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En el volcán de Thor, 2.º piso (thor_v02), entrega a ^0565C9Extraño^000000 el objeto Convertidor elemental de agua, 2 unidades, en las coordenadas (99 200) del mapa."
+		},
+		Resumen = ""
+	},
+	[5520] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"El extraño ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5521] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En el Volcán de Thor, 3.ª planta (thor_v03), entrega a ^0565C9Extraño^000000 el objeto Convertidor elemental de agua, 2 unidades, en las coordenadas (44 283) del mapa."
+		},
+		Resumen = ""
+	},
+	[5522] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"El extraño ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5523] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En el Santuario de Rachel, 5.º piso (ra_san05), entrega al ^0565C9Cientista^000000 el objeto Lupa, 10 unidades, en las coordenadas (151 89) del mapa."
+		},
+		Resumen = ""
+	},
+	[5524] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"El científico ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5525] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En la Cueva de Hielo, 3.º piso (ice_dun03), entrega a ^0565C9Hotang^000000 el objeto Convertidor elemental de agua, 2 unidades, en las coordenadas (150 69) del mapa."
+		},
+		Resumen = ""
+	},
+	[5526] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Hotang ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5527] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En el Biolaboratorio del 2.º piso (lhz_dun02), entrega a ^0565C9Moça Solitária^000000 el objeto Ramo 1 unidad(es) en las coordenadas (170 23) del mapa."
+		},
+		Resumen = ""
+	},
+	[5528] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"La chica solitaria ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5529] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En el Biolaboratorio del 3.º piso (lhz_dun03), entrega a ^0565C9Moça Solitária^000000 el objeto Ramo 1 unidad(es) en las coordenadas (159 122) del mapa."
+		},
+		Resumen = ""
+	},
+	[5530] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"La chica solitaria ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5531] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En el Biolaboratorio del 4.º piso (lhz_dun04), entrega a ^0565C9Moça Solitária^000000 el objeto Ramo 1 unidad(es) en las coordenadas (238 49) del mapa."
+		},
+		Resumen = ""
+	},
+	[5532] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"La chica solitaria ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5533] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En la Torre de Thanatos, 5.º piso (tha_t05), entrega a ^0565C9Elec^000000 el objeto Hoja de Yggdrasil, 5 unidades, en las coordenadas (223 99) del mapa."
+		},
+		Resumen = ""
+	},
+	[5534] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Elec ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5535] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En la Torre de Thanatos, 6.º piso (tha_t06), entrega a ^0565C9Elec^000000 el objeto Gema azul, 10 unidades, en las coordenadas (135 129) del mapa."
+		},
+		Resumen = ""
+	},
+	[5536] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Elec ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5537] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En la Torre de Thanatos, 7.º piso (tha_t07), entrega a ^0565C9Elec^000000 el objeto Hoja de Yggdrasil, 5 unidades, en las coordenadas (37 178) del mapa."
+		},
+		Resumen = ""
+	},
+	[5538] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Elec ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5539] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En la Torre de Thanatos, 8.º piso (tha_t08), entrega a ^0565C9Elec^000000 el objeto Gema azul, 10 unidades, en las coordenadas (49 54) del mapa."
+		},
+		Resumen = ""
+	},
+	[5540] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Elec ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5541] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En la Torre de Thanatos, 9.º piso (tha_t09), entrega a ^0565C9Elec^000000 el objeto Hoja de Yggdrasil, 5 unidades, en las coordenadas (13 114) del mapa."
+		},
+		Resumen = ""
+	},
+	[5542] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Elec ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5543] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En la Torre de Thanatos, piso 10 (tha_t10), entrega a ^0565C9Elec^000000 el objeto Gema azul, 10 unidades, en las coordenadas (158 111) del mapa."
+		},
+		Resumen = ""
+	},
+	[5544] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Elec ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5545] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En la Torre de Thanatos, piso 11 (tha_t11), entrega a ^0565C9Elec^000000 el objeto Hoja de Yggdrasil, 5 unidades, en las coordenadas (34 25) del mapa."
+		},
+		Resumen = ""
+	},
+	[5546] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Elec ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5547] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En la Torre de Thanatos, piso 12 (tha_t12), entrega a ^0565C9Elec^000000 el objeto Gema azul, 10 unidades, en las coordenadas (100 18) del mapa."
+		},
+		Resumen = ""
+	},
+	[5548] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Elec ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5549] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En el Lago del Abismo, 3.ª planta (abyss_03), entrega a ^0565C9Comilão^000000 el objeto Salsa picante, 10 unidades, en las coordenadas (100 40) del mapa."
+		},
+		Resumen = ""
+	},
+	[5550] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Comilão ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5551] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En el Centro de Juperos (jupe_core), entrega a ^0565C9Wabi^000000 el objeto Carne 30 unidad(es) en las coordenadas (134 283) del mapa."
+		},
+		Resumen = ""
+	},
+	[5552] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Wabi ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5553] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En Kiel Hyre, 2.º piso (kh_dun02), entrega a ^0565C9Moça Solitária^000000 el objeto Rosa Eterna, 1 unidad, en las coordenadas (17 222) del mapa."
+		},
+		Resumen = ""
+	},
+	[5554] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"La chica solitaria ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5555] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En el sótano de la Torre del Reloj, 4.º piso (alde_dun04), entrega a ^0565C9Hombre herido^000000 el objeto Ala de mariposa, 3 unidades, en las coordenadas (147 137) del mapa."
+		},
+		Resumen = ""
+	},
+	[5556] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"El hombre herido confirmó que recibió el pedido."
+		},
+		Resumen = ""
+	},
+	[5557] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En la Torre del Reloj, 4.º piso (c_tower4), entrega a ^0565C9Molly^000000 el objeto Ala de mariposa, 3 unidades, en las coordenadas (179 57) del mapa."
+		},
+		Resumen = ""
+	},
+	[5558] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Molly ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5559] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En el castillo de Glastheim, 1.ª planta (gl_cas01), entrega a ^0565C9Panini^000000 el objeto Flecha de plata, 500 unidades, en las coordenadas (198 37) del mapa."
+		},
+		Resumen = ""
+	},
+	[5560] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Panini ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5561] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En el castillo de Glastheim, 2.º piso (gl_cas02), entrega a ^0565C9Panini^000000 el objeto Flecha de plata, 500 unidades, en las coordenadas (96 33) del mapa."
+		},
+		Resumen = ""
+	},
+	[5562] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Panini ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5563] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En la Cueva de Glastheim, 1.ª planta (gl_dun01), entrega a ^0565C9Seoribi^000000 el objeto Poción blanca, 10 unidades, en las coordenadas (124 265) del mapa."
+		},
+		Resumen = ""
+	},
+	[5564] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Seoribi ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5565] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En la Cueva de Glastheim, 2.º piso (gl_dun02), entrega a ^0565C9Jonapal^000000 el objeto Ala de mariposa, 3 unidades, en las coordenadas (225 257) del mapa."
+		},
+		Resumen = ""
+	},
+	[5566] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Jonapal ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5567] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En la Caballería de Glastheim, 1.ª planta (gl_knt01), entrega a ^0565C9Irita^000000 el objeto Lupa, 10 unidades, en las coordenadas (159 23) del mapa."
+		},
+		Resumen = ""
+	},
+	[5568] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Irita ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5569] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En la Caballería de Glastheim, 2.º piso (gl_knt02), entrega a ^0565C9Irash^000000 el objeto Lupa, 10 unidades, en las coordenadas (145 283) del mapa."
+		},
+		Resumen = ""
+	},
+	[5570] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Irash ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5571] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En la prisión de Glastheim, 1.ª planta (gl_prison1), entrega a ^0565C9Aeso^000000 el objeto Ala de mosca, 10 unidades, en las coordenadas (160 29) del mapa."
+		},
+		Resumen = ""
+	},
+	[5572] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Aeso ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5573] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En el alcantarillado de Glastheim, 3.ª planta (gl_sew03), entrega a ^0565C9Adolic^000000 el objeto Flecha de fuego, 500 unidades, en las coordenadas (182 277) del mapa."
+		},
+		Resumen = ""
+	},
+	[5574] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Adolic ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5575] = {
+		Title = "[Entrega A]",
+		Description = {
+			"En el alcantarillado de Glastheim, 4.º piso (gl_sew04), entrega a ^0565C9Wabi^000000 el objeto Ala de mariposa, 3 unidades, en las coordenadas (68 262) del mapa."
+		},
+		Resumen = ""
+	},
+	[5576] = {
+		Title = "[Entrega A] Entregado",
+		Description = {
+			"Wabi ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5577] = {
+		Title = "[Sindicato] En espera",
+		Description = {
+			"No hay nuevas misiones registradas en el Sindicato. Se reiniciará a las 4 de la mañana del miércoles."
+		},
+		Resumen = ""
+	},
+	[5578] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En la Cueva de Payon, 2.º piso (pay_dun01), entrega a ^0565C9Motu^000000 el objeto Flecha de plata, 500 unidades, en las coordenadas (53 50) del mapa."
+		},
+		Resumen = ""
+	},
+	[5579] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Motu ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5580] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En la Cueva de Payon, 3.º piso (pay_dun02), entrega a ^0565C9Motu^000000 el objeto Flecha de plata, 500 unidades, en las coordenadas (33 63) del mapa."
+		},
+		Resumen = ""
+	},
+	[5581] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Motu ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5582] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En el alcantarillado de Prontera, 2.º piso (prt_sewb2), entrega a ^0565C9Principiante^000000 el objeto Poción naranja, 10 unidades, en las coordenadas (19 33) del mapa."
+		},
+		Resumen = ""
+	},
+	[5583] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"El principiante ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5584] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En el alcantarillado de Prontera, 3.ª planta (prt_sewb3), entrega a ^0565C9Mão-Leve^000000 el objeto Poción amarilla, 10 unidades, en las coordenadas (179 149) del mapa."
+		},
+		Resumen = ""
+	},
+	[5585] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Mão-Leve ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5586] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En el alcantarillado de Prontera, 4.º piso (prt_sewb4), entrega a ^0565C9Algoz^000000 el objeto Poción blanca, 10 unidades, en las coordenadas (112 86) del mapa."
+		},
+		Resumen = ""
+	},
+	[5587] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Algoz ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5588] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En el laberinto del bosque, 2.º piso (prt_maze02), entrega a ^0565C9Viajante^000000 el objeto Ala de mosca, 10 unidades, en las coordenadas (106 127) del mapa."
+		},
+		Resumen = ""
+	},
+	[5589] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"El viajero ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5590] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En el laberinto del bosque, 3.ª planta (prt_maze03), entrega a ^0565C9Tory^000000 el objeto Ala de mosca, 10 unidades, en las coordenadas (17 176) del mapa."
+		},
+		Resumen = ""
+	},
+	[5591] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Tory ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5592] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En el túnel submarino, 2.ª planta (iz_dun01), entrega a ^0565C9Rieyu^000000 el objeto Poción naranja, 10 unidades, en las coordenadas (36 53) del mapa."
+		},
+		Resumen = ""
+	},
+	[5593] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Rieyu ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5594] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En el túnel submarino, 3.ª planta (iz_dun02), entrega a ^0565C9Guardia Continental^000000 el objeto Convertidor elemental de viento, 2 unidades, en las coordenadas (230 226) del mapa."
+		},
+		Resumen = ""
+	},
+	[5595] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Guarda Continental ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5596] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En la Cueva de Payon, 4.º piso (pay_dun03), entrega a ^0565C9Josh^000000 el objeto Poción roja, 10 unidades, en las coordenadas (149 142) del mapa."
+		},
+		Resumen = ""
+	},
+	[5597] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Josh ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5598] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En la Cueva de Payon, 5.º piso (pay_dun04), entrega a ^0565C9Meer^000000 el objeto Lupa, 10 unidades, en las coordenadas (33 109) del mapa."
+		},
+		Resumen = ""
+	},
+	[5599] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Meer ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5600] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En el barco fantasma, 2.º piso (treasure02), entrega a ^0565C9Yis^000000 el objeto Poción del despertar, 10 unidades, en las coordenadas (99 41) del mapa."
+		},
+		Resumen = ""
+	},
+	[5601] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Yis ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5602] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En la Isla Tortuga (tur_dun01), entrega a ^0565C9Ting^000000 el objeto Poción del despertar 10 unidades en las coordenadas (164 60) del mapa."
+		},
+		Resumen = ""
+	},
+	[5603] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Ting ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5604] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En la Isla Tortuga (tur_dun02), entrega al ^0565CPraticante^000000 el objeto Poción Blanca 10 unidades en las coordenadas (150 243) del mapa."
+		},
+		Resumen = ""
+	},
+	[5605] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"El becario ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5606] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En la Esfinge, 2.º piso (in_sphinx2), entrega a ^0565C9Gato Ferido^000000 el objeto Poción naranja 10 unidades en las coordenadas (147 133) del mapa."
+		},
+		Resumen = ""
+	},
+	[5607] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Gato Ferido confirmó que recibió el pedido."
+		},
+		Resumen = ""
+	},
+	[5608] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En la Esfinge, 3.º piso (in_sphinx3), entrega al ^0565C9Teniente^000000 el objeto Poción amarilla, 10 unidades, en las coordenadas (205 37) del mapa."
+		},
+		Resumen = ""
+	},
+	[5609] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"El teniente ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5610] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En la Esfinge, 4.º piso (in_sphinx4), entrega a ^0565C9Araki^000000 el objeto Poción blanca, 10 unidades, en las coordenadas (130 130) del mapa."
+		},
+		Resumen = ""
+	},
+	[5611] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Araki ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5612] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En la pirámide, 2.º piso (moc_pryd02), entrega a ^0565C9Sini^000000 el objeto Poción roja, 10 unidades, en las coordenadas (20 180) del mapa."
+		},
+		Resumen = ""
+	},
+	[5613] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Sini ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5614] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En la pirámide, 3.ª planta (moc_pryd03), entrega a ^0565C9Saville^000000 el objeto Poción naranja, 10 unidades, en las coordenadas (92 83) del mapa."
+		},
+		Resumen = ""
+	},
+	[5615] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Saville ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5616] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En la pirámide, 1.ª planta (moc_pryd05), entrega a ^0565C9Priss^000000 el objeto Poción naranja, 10 unidades, en las coordenadas (102 84) del mapa."
+		},
+		Resumen = ""
+	},
+	[5617] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Priss ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5618] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En el sótano de la Torre de Geffen, 2.º piso (gef_dun01), entrega a ^0565C9Crente^000000 el objeto Poción naranja, 10 unidades, en las coordenadas (120 220) del mapa."
+		},
+		Resumen = ""
+	},
+	[5619] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"El creyente ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5620] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En el sótano de la Torre de Geffen, 3.ª planta (gef_dun02), entrega a ^0565C9Syok^000000 el objeto Poción amarilla, 10 unidades, en las coordenadas (91 127) del mapa."
+		},
+		Resumen = ""
+	},
+	[5621] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Syok ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5622] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En el Santuario de Rachel, 1.ª planta (ra_san01), entrega al ^0565C9Cientista^000000 el objeto Lupa 10 unidades en las coordenadas (140 110) del mapa."
+		},
+		Resumen = ""
+	},
+	[5623] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"El científico ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5624] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En el Santuario de Rachel, 2.º piso (ra_san02), entrega al ^0565C9Cientista^000000 el objeto Lupa 10 unidades en las coordenadas (219 256) del mapa."
+		},
+		Resumen = ""
+	},
+	[5625] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"El científico ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5626] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En el Santuario de Rachel, 3.ª planta (ra_san03), entrega al ^0565C9Cientista^000000 el objeto Lupa 10 unidades en las coordenadas (20 155) del mapa."
+		},
+		Resumen = ""
+	},
+	[5627] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"El científico ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5628] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En el Santuario de Rachel, 4.º piso (ra_san04), entrega al ^0565C9Cientista^000000 el objeto Lupa, 10 unidades, en las coordenadas (200 193) del mapa."
+		},
+		Resumen = ""
+	},
+	[5629] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"El científico ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5630] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En la Cueva de Hielo, 2.º piso (ice_dun02), entrega a ^0565C9Ambulante^000000 el objeto Convertidor elemental de viento, 2 unidades, en las coordenadas (168 147) del mapa."
+		},
+		Resumen = ""
+	},
+	[5631] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"El repartidor ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5632] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En el Biolaboratorio 1.º piso (lhz_dun01), entrega a ^0565C9Moça Solitária^000000 el objeto Ramo 1 unidad(es) en las coordenadas (162 288) del mapa."
+		},
+		Resumen = ""
+	},
+	[5633] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"La chica solitaria ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5634] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En la mina abandonada, 2.º piso (mjo_dun02), entrega a ^0565C9Flege^000000 el objeto Ala de mosca, 10 unidades, en las coordenadas (359 354) del mapa."
+		},
+		Resumen = ""
+	},
+	[5635] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Flege ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5636] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En la mina abandonada, 3.ª planta (mjo_dun03), entrega a ^0565C9Ryoma^000000 el objeto Ala de mariposa, 3 unidades, en las coordenadas (310 246) del mapa."
+		},
+		Resumen = ""
+	},
+	[5637] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Ryoma ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5638] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En la mina de Einbech, 2.º piso (ein_dun02), entrega a ^0565C9Philu^000000 el objeto Poción blanca, 10 unidades, en las coordenadas (281 273) del mapa."
+		},
+		Resumen = ""
+	},
+	[5639] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Philu ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5640] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En la Cueva de Magma, 2.º piso (mag_dun02), entrega a ^0565C9Chauberly^000000 el objeto Convertidor elemental de agua, 2 unidades, en las coordenadas (43 56) del mapa."
+		},
+		Resumen = ""
+	},
+	[5641] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Chauberly ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5642] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En la Torre de Thanatos, 2.º piso (tha_t02), entrega a ^0565C9Algoz^000000 el objeto Poción blanca, 10 unidades, en las coordenadas (146 142) del mapa."
+		},
+		Resumen = ""
+	},
+	[5643] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Algoz ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5644] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En la Torre de Thanatos, 3.º piso (tha_t03), entrega a ^0565C9Algoz^000000 el objeto Poción blanca, 10 unidades, en las coordenadas (226 139) del mapa."
+		},
+		Resumen = ""
+	},
+	[5645] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Algoz ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5646] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En la Torre de Thanatos, 4.º piso (tha_t04), entrega a ^0565C9Algoz^000000 el objeto Poción blanca, 10 unidades, en las coordenadas (60 157) del mapa."
+		},
+		Resumen = ""
+	},
+	[5647] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Algoz ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5648] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En el Lago del Abismo, 2.º piso (abyss_02), entrega a ^0565C9Wallaby^000000 el objeto Poción de furia salvaje, 10 unidades, en las coordenadas (262 274) del mapa."
+		},
+		Resumen = ""
+	},
+	[5649] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Wallaby ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5650] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En las ruinas de Juperos (juperos_02), entrega a ^0565C9Baramil^000000 el objeto Poción de furia salvaje 10 unidades en las coordenadas (46 76) del mapa."
+		},
+		Resumen = ""
+	},
+	[5651] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Baramil ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5652] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En Kiel Hyre, 1.ª planta (kh_dun01), entrega a ^0565C9Moça Solitária^000000 el objeto Rosa Eterna, 1 unidad, en las coordenadas (2 208) del mapa."
+		},
+		Resumen = ""
+	},
+	[5653] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"La chica solitaria ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5654] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En el sótano de la Torre del Reloj, 2.º piso (alde_dun02), entrega a ^0565C9Rurik^000000 el objeto Ala de mosca, 10 unidades, en las coordenadas (262 250) del mapa."
+		},
+		Resumen = ""
+	},
+	[5655] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Rurik ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5656] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En el sótano de la Torre del Reloj, 3.ª planta (alde_dun03), entrega a ^0565C9Opon^000000 el objeto Ala de mosca, 10 unidades, en las coordenadas (273 72) del mapa."
+		},
+		Resumen = ""
+	},
+	[5657] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Opon ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5658] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En la Torre del Reloj, 2.º piso (c_tower2), entrega a ^0565C9Archad^000000 el objeto Ala de mosca, 10 unidades, en las coordenadas (253 33) del mapa."
+		},
+		Resumen = ""
+	},
+	[5659] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Archad ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5660] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En la Torre del Reloj, 3.ª planta (c_tower3), entrega a ^0565C9Yorik^000000 el objeto Ala de mosca, 10 unidades, en las coordenadas (143 227) del mapa."
+		},
+		Resumen = ""
+	},
+	[5661] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Yorik ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5662] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En la Abadía de Glastheim (gl_church), entrega a ^0565C9Messo^000000 el objeto Hoja de Yggdrasil 5 unidad(es) en las coordenadas (148 38) del mapa."
+		},
+		Resumen = ""
+	},
+	[5663] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Messo ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5664] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En el cementerio de Glastheim (gl_chyard), entrega a ^0565C9Tyles^000000 el objeto Gema azul 10 unidades en las coordenadas (156 52) del mapa."
+		},
+		Resumen = ""
+	},
+	[5665] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Tyles ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5666] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En la Biblioteca de Glastheim (gl_in01), entrega a ^0565C9Corel^000000 el objeto Flecha de plata 500 unidad(es) en las coordenadas (157 13) del mapa."
+		},
+		Resumen = ""
+	},
+	[5667] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Corel ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5668] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En la prisión de Glastheim, 1.ª planta (gl_prison), entrega a ^0565C9Felix^000000 el objeto Trampa, 20 unidades, en las coordenadas (34 75) del mapa."
+		},
+		Resumen = ""
+	},
+	[5669] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Felix ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5670] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En el alcantarillado de Glastheim, 1.ª planta (gl_sew01), entrega a ^0565C9Epad^000000 el objeto Ala de mosca, 10 unidades, en las coordenadas (270 266) del mapa."
+		},
+		Resumen = ""
+	},
+	[5671] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Epad ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5672] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En el alcantarillado de Glastheim, 2.º piso (gl_sew02), entrega a ^0565C9Sobeu^000000 el objeto Ala de mosca, 10 unidades, en las coordenadas (25 252) del mapa."
+		},
+		Resumen = ""
+	},
+	[5673] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Sobeu ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5674] = {
+		Title = "[Entrega B]",
+		Description = {
+			"En las escaleras de Glastheim (gl_step), entrega a ^0565C9Seth^000000 el objeto Ala de mosca 10 unidades en las coordenadas (30 10) del mapa."
+		},
+		Resumen = ""
+	},
+	[5675] = {
+		Title = "[Entrega B] Entregado",
+		Description = {
+			"Seth ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5676] = {
+		Title = "[Sindicato] En espera",
+		Description = {
+			"No hay nuevas misiones registradas en el Sindicato. Se reiniciará a las 4 de la mañana del miércoles."
+		},
+		Resumen = ""
+	},
+	[5677] = {
+		Title = "[Entrega C]",
+		Description = {
+			"En el alcantarillado de Prontera, 1.ª planta (prt_sewb1), entrega al ^0565C9Agente X^000000 el objeto Poción roja, 10 unidades, en las coordenadas (204 229) del mapa."
+		},
+		Resumen = ""
+	},
+	[5678] = {
+		Title = "[Entrega C] Entregado",
+		Description = {
+			"El agente X ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5679] = {
+		Title = "[Entrega C]",
+		Description = {
+			"En el laberinto del bosque, 1.ª planta (prt_maze01), entrega a ^0565C9Kelrik^000000 el objeto Ala de mariposa, 3 unidades, en las coordenadas (100 100) del mapa."
+		},
+		Resumen = ""
+	},
+	[5680] = {
+		Title = "[Entrega C] Entregado",
+		Description = {
+			"Kelrik ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5681] = {
+		Title = "[Entrega C]",
+		Description = {
+			"En el túnel submarino, 1.ª planta (iz_dun00), entrega a ^0565C9Belto^000000 el objeto Poción roja, 10 unidades, en las coordenadas (130 138) del mapa."
+		},
+		Resumen = ""
+	},
+	[5682] = {
+		Title = "[Entrega C] Entregado",
+		Description = {
+			"Belto ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5683] = {
+		Title = "[Entrega C]",
+		Description = {
+			"En la Cueva de Payon, 1.ª planta (pay_dun00), entrega a ^0565C9Tring^000000 el objeto Gema azul, 5 unidades, en las coordenadas (36 53) del mapa."
+		},
+		Resumen = ""
+	},
+	[5684] = {
+		Title = "[Entrega C] Entregado",
+		Description = {
+			"Tring ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5685] = {
+		Title = "[Entrega C]",
+		Description = {
+			"En el barco fantasma, 1.ª planta (treasure01), entrega a ^0565C9Haryong^000000 el objeto Agua bendita, 10 unidades, en las coordenadas (74 52) del mapa."
+		},
+		Resumen = ""
+	},
+	[5686] = {
+		Title = "[Entrega C] Entregado",
+		Description = {
+			"Haryong ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5687] = {
+		Title = "[Entrega C]",
+		Description = {
+			"En el Hormiguero Infernal, 1.ª planta (anthell01), entrega a ^0565C9Gomma^000000 el objeto Poción Roja, 10 unidades, en las coordenadas (107 124) del mapa."
+		},
+		Resumen = ""
+	},
+	[5688] = {
+		Title = "[Entrega C] Entregado",
+		Description = {
+			"Gomma ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5689] = {
+		Title = "[Entrega C]",
+		Description = {
+			"En el Hormiguero Infernal, 2.º piso (anthell02), entrega a ^0565C9Ninja Gunga^000000 el objeto Poción Roja, 10 unidades, en las coordenadas (52 257) del mapa."
+		},
+		Resumen = ""
+	},
+	[5690] = {
+		Title = "[Entrega C] Entregado",
+		Description = {
+			"Ninja Gunga ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5691] = {
+		Title = "[Entrega C]",
+		Description = {
+			"En la Cueva de Comodo, Karu (beach_dun) entrega a ^0565C9Milli^000000 el objeto Poción verde 5 unidades en las coordenadas (90 40) del mapa."
+		},
+		Resumen = ""
+	},
+	[5692] = {
+		Title = "[Entrega C] Entregado",
+		Description = {
+			"Milli ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5693] = {
+		Title = "[Entrega C]",
+		Description = {
+			"En la Cueva de Comodo, Luanda (beach_dun2), entrega a ^0565C9Logyo^000000 el objeto Poción amarilla 10 unidades en las coordenadas (157 80) del mapa."
+		},
+		Resumen = ""
+	},
+	[5694] = {
+		Title = "[Entrega C] Entregado",
+		Description = {
+			"Logyo ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5695] = {
+		Title = "[Entrega C]",
+		Description = {
+			"En la Cueva de Comodo, Mao (beach_dun3) entrega a ^0565C9Patinhas^000000 el objeto Poción Roja 10 unidad(es) en las coordenadas (161 252) del mapa."
+		},
+		Resumen = ""
+	},
+	[5696] = {
+		Title = "[Entrega C] Entregado",
+		Description = {
+			"Patinhas ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5697] = {
+		Title = "[Entrega C]",
+		Description = {
+			"En la Esfinge, 1.ª planta (in_sphinx1), entrega a ^0565C9Haka^000000 el objeto Poción amarilla, 10 unidades, en las coordenadas (138 61) del mapa."
+		},
+		Resumen = ""
+	},
+	[5698] = {
+		Title = "[Entrega C] Entregado",
+		Description = {
+			"Haka ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5699] = {
+		Title = "[Entrega C]",
+		Description = {
+			"En la pirámide, 1.ª planta (moc_pryd01), entrega a ^0565C9Nissen^000000 el objeto Poción roja, 10 unidades, en las coordenadas (122 112) del mapa."
+		},
+		Resumen = ""
+	},
+	[5700] = {
+		Title = "[Entrega C] Entregado",
+		Description = {
+			"Nissen ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5701] = {
+		Title = "[Entrega C]",
+		Description = {
+			"En la Cueva de los Orcos, 1.º piso (orcsdun01), entrega a ^0565C9Vanick^000000 el objeto Poción Naranja, 10 unidades, en las coordenadas (95 170) del mapa."
+		},
+		Resumen = ""
+	},
+	[5702] = {
+		Title = "[Entrega C] Entregado",
+		Description = {
+			"Vanick ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5703] = {
+		Title = "[Entrega C]",
+		Description = {
+			"En la Cueva de los Orcos, 2.º piso (orcsdun02), entrega a ^0565C9Vanick^000000 el objeto Poción amarilla, 10 unidades, en las coordenadas (60 95) del mapa."
+		},
+		Resumen = ""
+	},
+	[5704] = {
+		Title = "[Entrega C] Entregado",
+		Description = {
+			"Vanick ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5705] = {
+		Title = "[Entrega C]",
+		Description = {
+			"En el sótano de la Torre de Geffen, 1.ª planta (gef_dun00), entrega a ^0565C9Bullor^000000 el objeto Poción amarilla, 10 unidades, en las coordenadas (171 174) del mapa."
+		},
+		Resumen = ""
+	},
+	[5706] = {
+		Title = "[Entrega C] Entregado",
+		Description = {
+			"Bullor ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5707] = {
+		Title = "[Entrega C]",
+		Description = {
+			"En la Cueva de Hielo, 1.ª planta (ice_dun01), entrega a ^0565C9Tamonga^000000 el objeto Camisa de algodón, 1 unidad, en las coordenadas (233 80) del mapa."
+		},
+		Resumen = ""
+	},
+	[5708] = {
+		Title = "[Entrega C] Entregado",
+		Description = {
+			"Tamonga ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5709] = {
+		Title = "[Entrega C]",
+		Description = {
+			"En la mina abandonada, 1.ª planta (mjo_dun01), entrega a ^0565C9Feiticeira^000000 el objeto Ala de mosca, 10 unidades, en las coordenadas (75 215) del mapa."
+		},
+		Resumen = ""
+	},
+	[5710] = {
+		Title = "[Entrega C] Entregado",
+		Description = {
+			"La bruja ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5711] = {
+		Title = "[Entrega C]",
+		Description = {
+			"En la mina de Einbech, 1.ª planta (ein_dun01), entrega a ^0565C9Mineiro Faminto^000000 el objeto Carne 30 unidades en las coordenadas (48 252) del mapa."
+		},
+		Resumen = ""
+	},
+	[5712] = {
+		Title = "[Entrega C] Entregado",
+		Description = {
+			"Mineiro Faminto confirmó que recibió el pedido."
+		},
+		Resumen = ""
+	},
+	[5713] = {
+		Title = "[Entrega C]",
+		Description = {
+			"En la Cueva de Magma, 1.º piso (mag_dun01), entrega a ^0565C9Pikiner^000000 el objeto Batata Doce (30 unidades) en las coordenadas (221 198) del mapa."
+		},
+		Resumen = ""
+	},
+	[5714] = {
+		Title = "[Entrega C] Entregado",
+		Description = {
+			"Pikiner ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5715] = {
+		Title = "[Entrega C]",
+		Description = {
+			"En la Torre de Thanatos, 1.ª planta (tha_t01), entrega al ^0565C9Arqueólogo^000000 el objeto Lupa, 10 unidades, en las coordenadas (122 44) del mapa."
+		},
+		Resumen = ""
+	},
+	[5716] = {
+		Title = "[Entrega C] Entregado",
+		Description = {
+			"El arqueólogo ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5717] = {
+		Title = "[Entrega C]",
+		Description = {
+			"En el Lago del Abismo, 1.ª planta (abyss_01), entrega a ^0565C9Gatão^000000 el objeto Ración para monstruos, 10 unidades, en las coordenadas (247 267) del mapa."
+		},
+		Resumen = ""
+	},
+	[5718] = {
+		Title = "[Entrega C] Entregado",
+		Description = {
+			"Gatão ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5719] = {
+		Title = "[Entrega C]",
+		Description = {
+			"En las ruinas de Juperos (juperos_01), entrega al ^0565C9Estudiante^000000 el objeto Poción de concentración 10 unidades en las coordenadas (58 227) del mapa."
+		},
+		Resumen = ""
+	},
+	[5720] = {
+		Title = "[Entrega C] Entregado",
+		Description = {
+			"El estudiante ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5721] = {
+		Title = "[Entrega C]",
+		Description = {
+			"En el sótano de la Torre del Reloj, 1.ª planta (alde_dun01), entrega a ^0565C9Vivi^000000 el objeto Ala de mosca, 10 unidades, en las coordenadas (80 275) del mapa."
+		},
+		Resumen = ""
+	},
+	[5722] = {
+		Title = "[Entrega C] Entregado",
+		Description = {
+			"Vivi ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5723] = {
+		Title = "[Entrega C]",
+		Description = {
+			"En la Torre del Reloj, 1.ª planta (c_tower1), entrega a ^0565C9Vivi^000000 el objeto Ala de mosca, 10 unidades, en las coordenadas (378 118) del mapa."
+		},
+		Resumen = ""
+	},
+	[5724] = {
+		Title = "[Entrega C] Entregado",
+		Description = {
+			"Vivi ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[5725] = {
+		Title = "[Entrega C]",
+		Description = {
+			"En Glastheim (glast_01), entrega a ^0565C9Reidin Corse^000000 el objeto Trampa 20 unidad(es) en las coordenadas (260 53) del mapa."
+		},
+		Resumen = ""
+	},
+	[5726] = {
+		Title = "[Entrega C] Entregado",
+		Description = {
+			"Reidin Corse ha confirmado que ha recibido el pedido."
+		},
+		Resumen = ""
+	},
+	[12370] = {
+		Title = "Sindicato de Ciudades",
+		Description = {
+			"A partir de ahora, eres miembro del Sindicato de Ciudades. Al derrotar a cualquier monstruo, habrá un 20 % de probabilidades de que aparezca una moneda del sindicato directamente en tu inventario."
+		},
+		Summary = "Sindicalista"
+	},
+	[12371] = {
+		Title = "Fama en la ciudad",
+		Description = {
+			"Ya has invertido en una ciudad afiliada al Sindicato por hoy. Vuelve a las 4 de la mañana si quieres invertir más."
+		},
+		Summary = "Vuelve mañana.",
+		CoolTimeQuest = 1
 	}
 }

@@ -6838,6 +6838,496 @@ achievement_tbl = {
 		},
 		reward = {title = 9999},
 		score = 0
+	},
+	[128038] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Show the Captain Who’s Boss",
+		content = {
+			summary = "Defeat Pherlock",
+			details = "Complete the Memorial Dungeon until the end."
+		},
+		resource = {
+			[1] = {
+				text = "Defeat Pherlock once.",
+				count = 1
+			}
+		},
+		reward = {},
+		score = 10
+	},
+	[128039] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Show the Weak Captain Who’s Boss",
+		content = {
+			summary = "Defeat Pherlock",
+			details = "Complete the Memorial Dungeon until the end."
+		},
+		resource = {
+			[1] = {
+				text = "Defeat Pherlock once.",
+				count = 1
+			}
+		},
+		reward = {},
+		score = 10
+	},
+	[128040] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Mutiny on Deck",
+		content = {
+			summary = "Defeat Pherlock",
+			details = "Complete the Memorial Dungeon until the end."
+		},
+		resource = {
+			[1] = {
+				text = "Defeat Pherlock 10 times.",
+				count = 10
+			}
+		},
+		reward = {},
+		score = 20
+	},
+	[128041] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Commotion on Deck",
+		content = {
+			summary = "Defeat Pherlock",
+			details = "Complete the Memorial Dungeon until the end."
+		},
+		resource = {
+			[1] = {
+				text = "Defeat Pherlock 10 times.",
+				count = 10
+			}
+		},
+		reward = {},
+		score = 20
+	},
+	[128042] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Rebellion on Deck",
+		content = {
+			summary = "Defeat Pherlock",
+			details = "Complete the Memorial Dungeon until the end."
+		},
+		resource = {
+			[1] = {
+				text = "Defeat Pherlock 50 times.",
+				count = 50
+			}
+		},
+		reward = {},
+		score = 50
+	},
+	[128043] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Riot Like a Rebellion",
+		content = {
+			summary = "Defeat Pherlock",
+			details = "Complete the Memorial Dungeon until the end."
+		},
+		resource = {
+			[1] = {
+				text = "Defeat Pherlock 50 times.",
+				count = 50
+			}
+		},
+		reward = {},
+		score = 50
+	},
+	[128050] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 2,
+		title = "Novice Exorcist",
+		content = {
+			summary = "Defeat the Pillar of Souls in Bongunggot",
+			details = "Complete the Memorial Dungeon until the end."
+		},
+		resource = {
+			[1] = {
+				text = "Defeat the Pillar of Souls in Bongunggot once.",
+				count = 1
+			}
+		},
+		reward = {},
+		score = 10
+	},
+	[128051] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 2,
+		title = "Skilled Exorcist",
+		content = {
+			summary = "Defeat the Pillar of Souls in Bongunggot",
+			details = "Complete the Memorial Dungeon until the end."
+		},
+		resource = {
+			[1] = {
+				text = "Defeat the Pillar of Souls in Bongunggot 10 times.",
+				count = 10
+			}
+		},
+		reward = {},
+		score = 20
+	},
+	[128052] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 2,
+		title = "Legendary Exorcist",
+		content = {
+			summary = "Defeat the Pillar of Souls in Bongunggot",
+			details = "Complete the Memorial Dungeon until the end."
+		},
+		resource = {
+			[1] = {
+				text = "Defeat the Pillar of Souls in Bongunggot 50 times.",
+				count = 50
+			}
+		},
+		reward = {},
+		score = 50
+	},
+	[130005] = {
+		UI_Type = 0,
+		group = "CHATTING",
+		major = 4,
+		minor = 0,
+		title = "King Maker",
+		content = {
+			summary = "My King I Have Made",
+			details = "Restore the glory of Terra Gloria and crown the hero who reclaimed it."
+		},
+		resource = {
+			[1] = {
+				text = "Attend the coronation of the new King of Rune-Midgarts."
+			}
+		},
+		reward = {title = 1046},
+		score = 10
+	},
+	[200032] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "Another Adventure Begins!",
+		content = {
+			summary = "Reach Base Lv 100!",
+			details = "Achieve Base Level 100."
+		},
+		resource = {
+			[1] = {
+				text = "Base Level 100"
+			}
+		},
+		reward = {item = 23585},
+		score = 10
+	},
+	[200033] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "With a Fresh Mindset! (1)",
+		content = {
+			summary = "Reach Base Lv 170 as a 3-1 Class!",
+			details = "Reach Base Level 170 with a 3-1 Class."
+		},
+		resource = {
+			[1] = {
+				text = "Base Level 170"
+			}
+		},
+		reward = {item = 6959},
+		score = 50
+	},
+	[200034] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "With a Fresh Mindset! (2)",
+		content = {
+			summary = "Reach Base Lv 170 as a 3-2 Class!",
+			details = "Reach Base Level 170 with a 3-2 Class."
+		},
+		resource = {
+			[1] = {
+				text = "Base Level 170"
+			}
+		},
+		reward = {item = 6959},
+		score = 50
+	},
+	[200035] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "Reach Level 200!",
+		content = {
+			summary = "Reach Base Lv 200!",
+			details = "Achieve Base Level 200."
+		},
+		resource = {
+			[1] = {
+				text = "Base Level 200"
+			}
+		},
+		reward = {buff = 10, item = 400124},
+		score = 100
+	},
+	[127001] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Fame in Prontera",
+		content = {
+			summary = "City Union",
+			details = "Your Fame in Prontera"
+		},
+		resource = {
+			[1] = {
+				text = "Indifferent",
+				count = 3000
+			},
+			[2] = {text = "Beginner", count = 6000},
+			[3] = {text = "Resident", count = 12000},
+			[4] = {text = "Celebrity", count = 20000},
+			[5] = {text = "Authority", count = 1000}
+		},
+		score = 10
+	},
+	[127002] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Fame in Geffen",
+		content = {
+			summary = "City Union",
+			details = "Your Fame in Geffen"
+		},
+		resource = {
+			[1] = {
+				text = "Indifferent",
+				count = 3000
+			},
+			[2] = {text = "Beginner", count = 6000},
+			[3] = {text = "Resident", count = 12000},
+			[4] = {text = "Celebrity", count = 20000},
+			[5] = {text = "Authority", count = 1000}
+		},
+		score = 10
+	},
+	[127003] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Fame in Morroc",
+		content = {
+			summary = "City Union",
+			details = "Your Fame in Morroc"
+		},
+		resource = {
+			[1] = {
+				text = "Indifferent",
+				count = 3000
+			},
+			[2] = {text = "Beginner", count = 6000},
+			[3] = {text = "Resident", count = 12000},
+			[4] = {text = "Celebrity", count = 20000},
+			[5] = {text = "Authority", count = 1000}
+		},
+		score = 10
+	},
+	[127004] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Fame in Payon",
+		content = {
+			summary = "City Union",
+			details = "Your Fame in Payon"
+		},
+		resource = {
+			[1] = {
+				text = "Indifferent",
+				count = 3000
+			},
+			[2] = {text = "Beginner", count = 6000},
+			[3] = {text = "Resident", count = 12000},
+			[4] = {text = "Celebrity", count = 20000},
+			[5] = {text = "Authority", count = 1000}
+		},
+		score = 10
+	},
+	[127005] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Fame in Juno",
+		content = {
+			summary = "City Union",
+			details = "Your Fame in Juno"
+		},
+		resource = {
+			[1] = {
+				text = "Indifferent",
+				count = 3000
+			},
+			[2] = {text = "Beginner", count = 6000},
+			[3] = {text = "Resident", count = 12000},
+			[4] = {text = "Celebrity", count = 20000},
+			[5] = {text = "Authority", count = 1000}
+		},
+		score = 10
+	},
+	[127006] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Fame in Lighthalzen",
+		content = {
+			summary = "City Union",
+			details = "Your Fame in Lighthalzen"
+		},
+		resource = {
+			[1] = {
+				text = "Indifferent",
+				count = 3000
+			},
+			[2] = {text = "Beginner", count = 6000},
+			[3] = {text = "Resident", count = 12000},
+			[4] = {text = "Celebrity", count = 20000},
+			[5] = {text = "Authority", count = 1000}
+		},
+		score = 10
+	},
+	[127007] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Fame in Einbroch",
+		content = {
+			summary = "City Union",
+			details = "Your Fame in Einbroch"
+		},
+		resource = {
+			[1] = {
+				text = "Indifferent",
+				count = 3000
+			},
+			[2] = {text = "Beginner", count = 6000},
+			[3] = {text = "Resident", count = 12000},
+			[4] = {text = "Celebrity", count = 20000},
+			[5] = {text = "Authority", count = 1000}
+		},
+		score = 10
+	},
+	[127008] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Fame in Rachel",
+		content = {
+			summary = "City Union",
+			details = "Your Fame in Rachel"
+		},
+		resource = {
+			[1] = {
+				text = "Indifferent",
+				count = 3000
+			},
+			[2] = {text = "Beginner", count = 6000},
+			[3] = {text = "Resident", count = 12000},
+			[4] = {text = "Celebrity", count = 20000},
+			[5] = {text = "Authority", count = 1000}
+		},
+		score = 10
+	},
+	[127009] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Fame in Veins",
+		content = {
+			summary = "City Union",
+			details = "Your Fame in Veins"
+		},
+		resource = {
+			[1] = {
+				text = "Indifferent",
+				count = 3000
+			},
+			[2] = {text = "Beginner", count = 6000},
+			[3] = {text = "Resident", count = 12000},
+			[4] = {text = "Celebrity", count = 20000},
+			[5] = {text = "Authority", count = 1000}
+		},
+		score = 10
+	},
+	[190000] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "City Union",
+		content = {
+			summary = "Contributions to the Guild",
+			details = "Do you want to challenge all cities? Guild members work hard! Working in the guild is not that easy!"
+		},
+		resource = {
+			[1] = {
+				text = "Amethyst Level",
+				count = 1
+			},
+			[2] = {
+				text = "Peridot Level",
+				count = 10
+			},
+			[3] = {
+				text = "Aquamarine Level",
+				count = 30
+			},
+			[4] = {
+				text = "Diamond Level",
+				count = 100
+			}
+		},
+		reward = {},
+		score = 50
 	}
 }
 function main()

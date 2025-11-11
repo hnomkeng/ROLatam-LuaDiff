@@ -1,0 +1,386 @@
+{
+    "ILcJBg": {
+        "ko": "쓰러진 모험가",
+        "en": "Fallen Adventurer",
+        "pt": "Vítima",
+        "es": "Aventurero Caído"
+    },
+    "IbcJBg": {
+        "ko": "제로보스 통일",
+        "en": "Zero Boss Unification",
+        "pt": "Restaurar 99% de HP das Pedras Guardiãs?",
+        "es": "Unificación de Jefes Cero"
+    },
+    "IrcJBg": {
+        "ko": "취소",
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar"
+    },
+    "I7cJBg": {
+        "ko": "99% 회복!!",
+        "en": "99% Recovery!!",
+        "pt": "Sim!!",
+        "es": "¡¡Recuperación al 99%!!"
+    },
+    "JLcJBg": {
+        "ko": "이 라운드에선 보스 등장함",
+        "en": "Boss appears this round",
+        "pt": "Aparecer um Chefe nessa rodada.",
+        "es": "El jefe aparece esta ronda"
+    },
+    "JbcJBg": {
+        "ko": "이 라운드에선 보스 등장하지않음",
+        "en": "Boss does not appear this round",
+        "pt": "Não aparecer um Chefe nessa rodada.",
+        "es": "El jefe no aparece esta ronda"
+    },
+    "JrcJBg": {
+        "ko": "리셋 시킴",
+        "en": "Reset",
+        "pt": "Resetar",
+        "es": "Reiniciar"
+    },
+    "J7cJBg": {
+        "ko": "스킵",
+        "en": "Skip",
+        "pt": "Ignorar",
+        "es": "Saltar"
+    },
+    "KLcJBg": {
+        "ko": "쓰러진 시민",
+        "en": "Fallen Citizen",
+        "pt": "Vítima",
+        "es": "Ciudadano Caído"
+    },
+    "KbcJBg": {
+        "ko": "바르문트",
+        "en": "Varmunt",
+        "pt": "Varmunt",
+        "es": "Varmunt"
+    },
+    "KrcJBg": {
+        "ko": "[바르문트]\n이 차원너머의 도시에 있는 4군데의 수호석은 지금 손상되어있소. 이것을 모두 복구하는것이 그대와 내가 할 일이오.",
+        "en": "[Varmunt]\nThe four Guardian Stones in this city beyond dimensions are currently damaged. Restoring all of them is the task for you and me.",
+        "pt": "[Varmunt]\nPrecisamos restaurar o HP das 4 Pedras Guardiãs de Prontera Dimensional.",
+        "es": "[Varmunt]\nLas cuatro Piedras Guardianas en esta ciudad más allá de las dimensiones están actualmente dañadas. Restaurarlas todas es la tarea para usted y para mí."
+    },
+    "K7cJBg": {
+        "ko": "동료가 모이길 기다린다",
+        "en": "Wait for allies to gather",
+        "pt": "Vamos esperar mais pessoas",
+        "es": "Esperar a que se reúnan los aliados"
+    },
+    "LLcJBg": {
+        "ko": "수호석을 복구한다",
+        "en": "Restore the Guardian Stones",
+        "pt": "Vou te ajudar!",
+        "es": "Restaurar las Piedras Guardianas"
+    },
+    "LbcJBg": {
+        "ko": "[바르문트]\n좋소. 가급적 빠른 시간안에 복구작업이 이뤄지길 바라오.",
+        "en": "[Varmunt]\nGood. I hope the restoration work is completed as quickly as possible.",
+        "pt": "[Varmunt]\nCerto, mas precisamos fazer isso com urgência.",
+        "es": "[Varmunt]\nBien. Espero que el trabajo de restauración se complete lo más rápido posible."
+    },
+    "LrcJBg": {
+        "ko": "바르문트: 모험가들이여 이제 준비 하시오. 저 멀리서 수호석을 노리는 마물들이 밀려들어오고 있소.",
+        "en": "Varmunt: Adventurers, prepare yourselves. Monsters targeting the Guardian Stones are swarming in from the distance.",
+        "pt": "Varmunt: Viajantes! Monstros estão aparecendo perto das Pedras Guardiãs!",
+        "es": "Varmunt: Aventureros, prepárense. Monstruos que buscan las Piedras Guardianas están llegando en masa desde la distancia."
+    },
+    "L7cJBg": {
+        "ko": "바르문트: 회복이 가능한 모험가들은 수호석을 회복시켜주시오.",
+        "en": "Varmunt: Adventurers capable of healing, please restore the Guardian Stones.",
+        "pt": "Varmunt: Viajantes que podem curar, restaurem as Pedras Guardiãs!",
+        "es": "Varmunt: Aventureros capaces de sanar, por favor restauren las Piedras Guardianas."
+    },
+    "MLcJBg": {
+        "ko": "바르문트: 전투가 가능한 모험가들은 마물들로부터 수호석을 보호해 주시오!",
+        "en": "Varmunt: Adventurers capable of fighting, please protect the Guardian Stones from the monsters!",
+        "pt": "Varmunt: Viajantes que podem lutar, protejam as Pedras Guardiãs!",
+        "es": "Varmunt: Aventureros capaces de luchar, ¡por favor protejan las Piedras Guardianas de los monstruos!"
+    },
+    "MbcJBg": {
+        "ko": "보유한 물건의 종류가 너무 많은것 같다. 물건의 종류를 줄인뒤에 다시 진행해보자.",
+        "en": "You seem to be carrying too many different types of items. Try again after reducing the variety of items you are carrying.",
+        "pt": "^FF0000Muitos itens. Alivie seu inventário.^000000",
+        "es": "Parece que cargas con demasiados tipos de objetos diferentes. Intenta nuevamente después de reducir la variedad de objetos que llevas."
+    },
+    "MrcJBg": {
+        "ko": "가진 물건이 너무 무거워 더이상의 진행이 힘들 것 같다. 무게를 줄인 후 다시 도전해보자.",
+        "en": "Your belongings are too heavy, making further progress difficult. Try again after reducing your weight.",
+        "pt": "^FF0000Acima do peso. Alivie seu inventário.^000000",
+        "es": "Tus pertenencias son demasiado pesadas, lo que dificulta el progreso. Intenta nuevamente después de reducir tu peso."
+    },
+    "M7cJBg": {
+        "ko": "[바르문트]\n그대는 여기에 와선 안되는 존재인데 어떤 방법으로 오게 된거요. 어서 원래의 자리로 돌아가시오",
+        "en": "[Varmunt]\nYou are a being who should not be here. By what means did you come? Please return to your original place at once.",
+        "pt": "[Varmunt]\nComo uma criança chegou aqui? Vou levar você para um lugar seguro.",
+        "es": "[Varmunt]\nEres un ser que no debería estar aquí. ¿Por qué medios has venido? Por favor, regresa inmediatamente a tu lugar de origen."
+    },
+    "NLcJBg": {
+        "ko": "[바르문트]\n덕분에 무사히 끝났군. 그대와 동료들의 활약에 경의를 표하오. 난 이제 잠시 쉬어야겠소.",
+        "en": "[Varmunt]\nThanks to you, it's over safely. I salute you and your comrades for your efforts. I must rest now.",
+        "pt": "[Varmunt]\nGraças à você, conseguimos impedir a ameaça de hoje.",
+        "es": "[Varmunt]\nGracias a ti, ha terminado de manera segura. Les rindo homenaje a usted y a sus compañeros por sus esfuerzos. Ahora debo descansar."
+    },
+    "NbcJBg": {
+        "ko": "[바르문트]\n그대도 이제 그대의 세계로 돌아가는게 좋겠소.",
+        "en": "[Varmunt]\nIt would be best for you to return to your world now as well.",
+        "pt": "[Varmunt]\nVamos voltar ao nosso mundo. Eu preciso descansar.",
+        "es": "[Varmunt]\nSería mejor que usted también regresara ahora a su mundo."
+    },
+    "NrcJBg": {
+        "ko": "바르문트: 그대들의 도움으로 수호석의 복구를 모두 끝마칠 수 있었소. 광장으로 모이시오.",
+        "en": "Varmunt: With your help, we have successfully completed the restoration of all the Guardian Stones. Gather at the square.",
+        "pt": "Varmunt: Conseguimos restaurar as Pedras Guardiãs. Voltem a falar comigo.",
+        "es": "Varmunt: Con su ayuda, hemos completado con éxito la restauración de todas las Piedras Guardianas. Reúnanse en la plaza."
+    },
+    "N7cJBg": {
+        "ko": "바르문트: 이제 곧 이 세계의 차원이 닫힐 것이오. 하지만 우린 무한한 차원의 흐름속에서 다시 만나게 될거요.",
+        "en": "Varmunt: Soon, the dimension of this world will close. But we shall meet again within the infinite flow of dimensions.",
+        "pt": "Varmunt: Essa dimensão vai se dissipar. Todos voltarão ao seu mundo original.",
+        "es": "Varmunt: Pronto, la dimensión de este mundo se cerrará. Pero nos volveremos a encontrar dentro del flujo infinito de dimensiones."
+    },
+    "OLcJBg": {
+        "ko": "차원의 엔젤링",
+        "en": "Dimensional Angeling",
+        "pt": "Angeling Dimensional",
+        "es": "Angeling Dimensional"
+    },
+    "ObcJBg": {
+        "ko": "차원의 이클립스",
+        "en": "Dimensional Eclipse",
+        "pt": "Eclipse Dimensional",
+        "es": "Eclipse Dimensional"
+    },
+    "OrcJBg": {
+        "ko": "차원의 마스터링",
+        "en": "Dimensional Mastering",
+        "pt": "Mastering Dimensional",
+        "es": "Mastering Dimensional"
+    },
+    "O7cJBg": {
+        "ko": "차원의 떠돌이늑대",
+        "en": "Dimensional Wanderwolf",
+        "pt": "Lobo Dimensional",
+        "es": "Lobo Errante Dimensional"
+    },
+    "PLcJBg": {
+        "ko": "차원의 토드",
+        "en": "Dimensional Toad",
+        "pt": "Sapo Dimensional",
+        "es": "Sapo Dimensional"
+    },
+    "PbcJBg": {
+        "ko": "차원의 아크엔젤링",
+        "en": "Dimensional Archangeling",
+        "pt": "Archangeling Dimensional",
+        "es": "Arcángeingl Dimensional"
+    },
+    "PrcJBg": {
+        "ko": "차원의 다크로드",
+        "en": "Dimensional Dark Lord",
+        "pt": "Senhor Dimensional",
+        "es": "Señor Oscuro Dimensional"
+    },
+    "P7cJBg": {
+        "ko": "차원의 데빌링",
+        "en": "Dimensional Deviling",
+        "pt": "Deviling Dimensional",
+        "es": "Deviling Dimensional"
+    },
+    "QLcJBg": {
+        "ko": "차원의 도플갱어",
+        "en": "Dimensional Doppelganger",
+        "pt": "Doppelganger Dimensional",
+        "es": "Doppelganger Dimensional"
+    },
+    "QbcJBg": {
+        "ko": "차원의 드라큐라",
+        "en": "Dimensional Dracula",
+        "pt": "Drácula Dimensional",
+        "es": "Drácula Dimensional"
+    },
+    "QrcJBg": {
+        "ko": "차원의 드레이크",
+        "en": "Dimensional Drake",
+        "pt": "Drake Dimensional",
+        "es": "Drake Dimensional"
+    },
+    "Q7cJBg": {
+        "ko": "차원의 에드가",
+        "en": "Dimensional Eddga",
+        "pt": "Eddga Dimensional",
+        "es": "Eddga Dimensional"
+    },
+    "RLcJBg": {
+        "ko": "차원의 하티",
+        "en": "Dimensional Garm",
+        "pt": "Hatii Dimensional",
+        "es": "Garm Dimensional"
+    },
+    "RbcJBg": {
+        "ko": "차원의 고스트링",
+        "en": "Dimensional Ghostring",
+        "pt": "Ghostring Dimensional",
+        "es": "Fantasmilla Dimensional"
+    },
+    "RrcJBg": {
+        "ko": "차원의 황금도둑벌레",
+        "en": "Dimensional Golden Thief Bug",
+        "pt": "Besouro Dimensional",
+        "es": "Escarabajo Ladrón Dorado Dimensional"
+    },
+    "R7cJBg": {
+        "ko": "차원의 원령무사",
+        "en": "Dimensional Incantation Samurai",
+        "pt": "Samurai Dimensional",
+        "es": "Samurai Espectral Dimensional"
+    },
+    "SLcJBg": {
+        "ko": "차원의 폭풍의기사",
+        "en": "Dimensional Storm Knight",
+        "pt": "Cavaleiro Dimensional",
+        "es": "Caballero de la Tormenta Dimensional"
+    },
+    "SbcJBg": {
+        "ko": "차원의 미스트레스",
+        "en": "Dimensional Mistress",
+        "pt": "Abelha Dimensional",
+        "es": "Señora Dimensional"
+    },
+    "SrcJBg": {
+        "ko": "차원의 오크로드",
+        "en": "Dimensional Orc Lord",
+        "pt": "Orc Dimensional",
+        "es": "Señor Orco Dimensional"
+    },
+    "S7cJBg": {
+        "ko": "차원의 오크히어로",
+        "en": "Dimensional Orc Hero",
+        "pt": "Herói Dimensional",
+        "es": "Héroe Orco Dimensional"
+    },
+    "TLcJBg": {
+        "ko": "차원의 파라오",
+        "en": "Dimensional Pharaoh",
+        "pt": "Faraó Dimensional",
+        "es": "Faraón Dimensional"
+    },
+    "TbcJBg": {
+        "ko": "차원의 프리오니",
+        "en": "Dimensional Phreeoni",
+        "pt": "Freoni Dimensional",
+        "es": "Freeoni Dimensional"
+    },
+    "TrcJBg": {
+        "ko": "차원의 타오군카",
+        "en": "Dimensional Tao Gunka",
+        "pt": "Tao Gunka Dimensional",
+        "es": "Tao Gunka Dimensional"
+    },
+    "T7cJBg": {
+        "ko": "차원의 터틀제네럴",
+        "en": "Dimensional Turtle General",
+        "pt": "Tartaruga Dimensional",
+        "es": "General Tortuga Dimensional"
+    },
+    "ULcJBg": {
+        "ko": "차원의 아포칼립스",
+        "en": "Dimensional Apocalypse",
+        "pt": "Apocalipse Dimensional",
+        "es": "Apocalipsis Dimensional"
+    },
+    "UbcJBg": {
+        "ko": "차원의 백소진",
+        "en": "Dimensional White Lady",
+        "pt": "Lady Branca Dimensional",
+        "es": "Bacsojin Dimensional"
+    },
+    "UrcJBg": {
+        "ko": "차원의 아몬라",
+        "en": "Dimensional Amon Ra",
+        "pt": "Amon Ra Dimensional",
+        "es": "Amon Ra Dimensional"
+    },
+    "U7cJBg": {
+        "ko": "바르문트: 나타나지 않아야 할 존재가 나타났군. 다들 조심하시오!",
+        "en": "Varmunt: An entity that should not have appeared has shown itself. Everyone, be careful!",
+        "pt": "Varmunt: Uma poderosa criatura dimensional apareceu!",
+        "es": "Varmunt: ¡Una entidad que no debería haber aparecido se ha manifestado! ¡Todos, tengan cuidado!"
+    },
+    "VLcJBg": {
+        "ko": "암흑의 집행인#{0}",
+        "en": "Dark Executioner#{0}",
+        "pt": "Entidade Sombria#{0}",
+        "es": "Ejecutor Oscuro#{0}"
+    },
+    "VbcJBg": {
+        "ko": "왕국성직자",
+        "en": "Royal Priest",
+        "pt": "Curandeira",
+        "es": "Sacerdotisa Real"
+    },
+    "VrcJBg": {
+        "ko": "혹시 회복마법을 쓰실 수 있나요? 여유가 되신다면 수호석에게 회복마법을 써주세요",
+        "en": "Can you use healing magic? If you have the capacity, please use healing magic on the Guardian Stone.",
+        "pt": "Se puder, cure a Pedra Guardiã!",
+        "es": "¿Puedes usar magia de curación? Si tienes capacidad, por favor usa magia de curación en la Piedra Guardiana."
+    },
+    "V7cJBg": {
+        "ko": "수호석은 스스로 회복하기도 하지만 모험가분들이 회복마법으로 회복시킬 수도 있답니다.",
+        "en": "The Guardian Stones can recover on their own, but adventurers can also restore them using healing magic.",
+        "pt": "Curem a Pedra Guardiã rápido!",
+        "es": "Las Piedras Guardianas pueden recuperarse por sí mismas, pero los aventureros también pueden restaurarlas usando magia de curación."
+    },
+    "WLcJBg": {
+        "ko": "마물이 줄어든 틈에 회복마법으로 수호석의 회복을 도와주세요.",
+        "en": "Please help restore the Guardian Stone with healing magic during the lull when monsters have decreased.",
+        "pt": "Ajude a curar a Pedra Guardiã!",
+        "es": "Por favor, ayuda a restaurar la Piedra Guardiana con magia de curación durante la pausa en que los monstruos han disminuido."
+    },
+    "WbcJBg": {
+        "ko": "마물들이 증가하고 있어요 수호석의 회복력이 약해집니다!!",
+        "en": "Monsters are increasing! The Guardian Stone's recovery power is weakening!!",
+        "pt": "Os monstros estão aumentando! A Pedra Guardiã está enfraquecendo!!",
+        "es": "¡Los monstruos están aumentando! ¡El poder de recuperación de la Piedra Guardiana se está debilitando!"
+    },
+    "WrcJBg": {
+        "ko": "주변에 암흑의 기운이 접근하지 못하게 마물들을 처리해주세요!",
+        "en": "Please eliminate the monsters to prevent the dark aura from approaching the area!",
+        "pt": "Mate os monstros para fortalecer a Pedra Guardiã!",
+        "es": "¡Por favor, elimina a los monstruos para evitar que el aura oscura se acerque al área!"
+    },
+    "W7cJBg": {
+        "ko": "마물들이 접근하지 않으면 수호석은 스스로의 힘으로 회복가능할거예요",
+        "en": "If monsters don't approach, the Guardian Stone can recover using its own power.",
+        "pt": "Se ainda tiver monstros, a Pedra Guardiã não conseguirá se recuperar!",
+        "es": "Si los monstruos no se acercan, la Piedra Guardiana puede recuperarse usando su propio poder."
+    },
+    "XLcJBg": {
+        "ko": "마물들의 힘 때문에 수호석이 회복하지 못하고 있어요. 마물을 처리해주세요!",
+        "en": "The Guardian Stone cannot recover due to the monsters' power. Please eliminate the monsters!",
+        "pt": "Por causa dos monstros, a Pedra Guardiã não está aguentando! Elimine os monstros!",
+        "es": "La Piedra Guardiana no puede recuperarse debido al poder de los monstruos. ¡Por favor, elimina a los monstruos!"
+    },
+    "XbcJBg": {
+        "ko": "주변에 암흑의 기운이 너무 강해요 수호석의 회복력이 사라졌습니다!",
+        "en": "The dark aura in the vicinity is too strong! The Guardian Stone's recovery power has vanished!",
+        "pt": "As trevas estão consumindo esse lugar! A Pedra Guardiã não vai sobreviver!",
+        "es": "¡El aura oscura en las inmediaciones es demasiado fuerte! ¡El poder de recuperación de la Piedra Guardiana ha desaparecido!"
+    },
+    "XrcJBg": {
+        "ko": "해냈군요! 이 수호석은 이제 온전한 힘을 되찾았어요.",
+        "en": "You did it! This Guardian Stone has now regained its full power.",
+        "pt": "Você conseguiu! A Pedra Guardiã recuperou sua força total!",
+        "es": "¡Lo lograste! Esta Piedra Guardiana ha recuperado ahora su poder completo."
+    },
+    "X7cJBg": {
+        "ko": "수호석",
+        "en": "Guardian Stone",
+        "pt": "Pedra Guardiã",
+        "es": "Piedra Guardiana"
+    }
+}

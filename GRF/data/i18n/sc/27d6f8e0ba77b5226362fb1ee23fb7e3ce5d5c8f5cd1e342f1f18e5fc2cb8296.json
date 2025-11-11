@@ -5,7 +5,7 @@
         "es": "[Maestro de Refinamiento]"
     },
     "YV0aCg": {
-        "en": "[Refine Master]\nGreetings!\nI'll ^006400refine\nup to same level with ticket you have.^000000\nyou don't have to worry! \nthere is no chance to break your item with me.",
+        "en": "[Refine Master]\nGreetings!\nI'll ^006400refine\nup to same level with ticket you have.^000000\nyou don't have to worry!\nthere is no chance to break your item with me.",
         "pt": "[Mestre do Refino]\nOlá, viajante!\nSou especialista em ^006400refinar equipamentos com Pergaminhos.^000000\nEsse método é seguro, sem chance de quebra!\nO refino do item fica igual ao nível do pergaminho\ne não vai acumular com os refinos anteriores.",
         "es": "[Maestro de Refinamiento]\n¡Saludos!\nVoy a ^006400refinar\nhasta el mismo nivel del ticket que tengas.^000000\n¡No tienes que preocuparte!\nConmigo no hay riesgo de que tu ítem se rompa."
     },
@@ -80,7 +80,7 @@
         "es": "^404040Accesorio2 - [Vacío]^000000"
     },
     "cF0aCg": {
-        "en": "[Refine Master]\nyou have to equip \nan item to refine it.",
+        "en": "[Refine Master]\nyou have to equip\nan item to refine it.",
         "pt": "[Mestre do Refino]\nVocê deve equipar \num item antes de refiná-lo.",
         "es": "[Maestro de Refinamiento]\nDebes equipar\nun objeto para poder refinarlo."
     },
@@ -105,7 +105,7 @@
         "es": "[Maestro de Refinamiento]\nOye, no podemos hacer nada con este equipo. Escuché que hay alguien que sí puede refinarlo."
     },
     "dV0aCg": {
-        "en": "[Refine Master]\nIf you want to refine \n^006400Armor^000000,\nplease come along with ^006400Armor Refine Certificate^000000\nSee you later!",
+        "en": "[Refine Master]\nIf you want to refine\n^006400Armor^000000,\nplease come along with ^006400Armor Refine Certificate^000000\nSee you later!",
         "pt": "[Mestre do Refino]\nSe você quer refinar uma \n^006400Armadura^000000,\nTraga um ^006400Pergaminho de Armadura^000000\nAté mais!",
         "es": "[Maestro de Refinamiento]\nSi deseas refinar\n^006400la Armadura^000000,\npor favor ven con un ^006400Certificado de Refinamiento de Armadura^000000.\n¡Nos vemos luego!"
     },
@@ -195,158 +195,303 @@
         "es": "[Maestro de Refinamiento]\nEl Certificado de Refinamiento de Armadura +12\nno está en tu inventario.\n¿Lo guardaste en el almacenamiento?\nPor favor, revisa nuevamente.\n¡Hasta luego!"
     },
     "h10aCg": {
-        "en": "[Refine Master]\n^8B4513This item is already \nrefined as much as your certificate.^000000\nPlease come by with \nan item refined lower than your ticket.",
+        "en": "[Refine Master]\nThe +13 Armor Refine Certificate\nis not in your inventory.\nDid you put in your storage?\nPlease check once again.\nSee you later!",
+        "pt": "[Mestre do Refino]\nPergaminho de Armadura +13 \nnão está em seu inventário...\nvocê o deixou com a Kafra?\nPor favor, cheque novamente. \nAté mais!",
+        "es": "[Maestro de Refinamiento]\nEl Certificado de Refinamiento de Armadura +13\nno está en tu inventario.\n¿Lo guardaste en el almacenamiento?\nPor favor, revisa nuevamente.\n¡Hasta luego!"
+    },
+    "iF0aCg": {
+        "en": "[Refine Master]\nThe +14 Armor Refine Certificate\nis not in your inventory.\nDid you put in your storage?\nPlease check once again.\nSee you later!",
+        "pt": "[Mestre do Refino]\nPergaminho de Armadura +14 \nnão está em seu inventário...\nvocê o deixou com a Kafra?\nPor favor, cheque novamente. \nAté mais!",
+        "es": "[Maestro de Refinamiento]\nEl Certificado de Refinamiento de Armadura +14\nno está en tu inventario.\n¿Lo guardaste en el almacenamiento?\nPor favor, revisa nuevamente.\n¡Hasta luego!"
+    },
+    "iV0aCg": {
+        "en": "[Refine Master]\nThe +15 Armor Refine Certificate\nis not in your inventory.\nDid you put in your storage?\nPlease check once again.\nSee you later!",
+        "pt": "[Mestre do Refino]\nPergaminho de Armadura +15 \nnão está em seu inventário...\nvocê o deixou com a Kafra?\nPor favor, cheque novamente. \nAté mais!",
+        "es": "[Maestro de Refinamiento]\nEl Certificado de Refinamiento de Armadura +15\nno está en tu inventario.\n¿Lo guardaste en el almacenamiento?\nPor favor, revisa nuevamente.\n¡Hasta luego!"
+    },
+    "il0aCg": {
+        "en": "[Refine Master]\nThe +16 Armor Refine Certificate\nis not in your inventory.\nDid you put in your storage?\nPlease check once again.\nSee you later!",
+        "pt": "[Mestre do Refino]\nPergaminho de Armadura +16 \nnão está em seu inventário...\nvocê o deixou com a Kafra?\nPor favor, cheque novamente. \nAté mais!",
+        "es": "[Maestro de Refinamiento]\nEl Certificado de Refinamiento de Armadura +16\nno está en tu inventario.\n¿Lo guardaste en el almacenamiento?\nPor favor, revisa nuevamente.\n¡Hasta luego!"
+    },
+    "i10aCg": {
+        "en": "[Refine Master]\nThe +17 Armor Refine Certificate\nis not in your inventory.\nDid you put in your storage?\nPlease check once again.\nSee you later!",
+        "pt": "[Mestre do Refino]\nPergaminho de Armadura +17 \nnão está em seu inventário...\nvocê o deixou com a Kafra?\nPor favor, cheque novamente. \nAté mais!",
+        "es": "[Maestro de Refinamiento]\nEl Certificado de Refinamiento de Armadura +17\nno está en tu inventario.\n¿Lo guardaste en el almacenamiento?\nPor favor, revisa nuevamente.\n¡Hasta luego!"
+    },
+    "jF0aCg": {
+        "en": "[Refine Master]\nThe +18 Armor Refine Certificate\nis not in your inventory.\nDid you put in your storage?\nPlease check once again.\nSee you later!",
+        "pt": "[Mestre do Refino]\nPergaminho de Armadura +18 \nnão está em seu inventário...\nvocê o deixou com a Kafra?\nPor favor, cheque novamente. \nAté mais!",
+        "es": "[Maestro de Refinamiento]\nEl Certificado de Refinamiento de Armadura +18\nno está en tu inventario.\n¿Lo guardaste en el almacenamiento?\nPor favor, revisa nuevamente.\n¡Hasta luego!"
+    },
+    "jV0aCg": {
+        "en": "[Refine Master]\nThe +19 Armor Refine Certificate\nis not in your inventory.\nDid you put in your storage?\nPlease check once again.\nSee you later!",
+        "pt": "[Mestre do Refino]\nPergaminho de Armadura +19 \nnão está em seu inventário...\nvocê o deixou com a Kafra?\nPor favor, cheque novamente. \nAté mais!",
+        "es": "[Maestro de Refinamiento]\nEl Certificado de Refinamiento de Armadura +19\nno está en tu inventario.\n¿Lo guardaste en el almacenamiento?\nPor favor, revisa nuevamente.\n¡Hasta luego!"
+    },
+    "jl0aCg": {
+        "en": "[Refine Master]\n^8B4513This item is already\nrefined as much as your certificate.^000000\nPlease come by with\nan item refined lower than your ticket.",
         "pt": "[Mestre do Refino]\nEste item ^8B4513já está bem refinado.^000000\nNão mexo com refinos maiores\nou iguais ao refino do pergaminho.\nVolte com um Pergaminho de refino inferior ao do equipamento.",
         "es": "[Maestro de Refinamiento]\n^8B4513Este objeto ya está\nrefinado al mismo nivel que tu certificado.^000000\nPor favor, vuelve con\nun objeto con refinamiento inferior al de tu ticket."
     },
-    "iF0aCg": {
-        "en": "[Refine Master]\nI'm going to refine the ^006400{0}^8B4513 item \nup to Level {1} ^000000with\nthe ^006400+{1} Refine Certificate^8B4513.\nMay I carry out this job?",
+    "j10aCg": {
+        "en": "[Refine Master]\nI'm going to refine the ^006400{0}^8B4513 item\nup to Level {1} ^000000with\nthe ^006400+{1} Refine Certificate^8B4513.\nMay I carry out this job?",
         "pt": "[Mestre do Refino]\nRefinarei o item ^3355FF{0} ^000000\nem ^FF5555{1}^000000 usando o seu\n^3355FFPergaminho + {1} ^000000. \nPosso começar meu trabalho?",
         "es": "[Maestro de Refinamiento]\nVoy a refinar el objeto ^006400{0}^8B4513\nhasta el Nivel {1} ^000000 con\nel ^006400Certificado de Refinamiento +{1}^8B4513.\n¿Deseas que proceda?"
     },
-    "iV0aCg": {
+    "kF0aCg": {
         "en": "no.",
         "pt": "Não.",
         "es": "no."
     },
-    "il0aCg": {
+    "kV0aCg": {
         "en": "yes.",
         "pt": "Sim.",
         "es": "sí."
     },
-    "i10aCg": {
+    "kl0aCg": {
         "en": "[Refine Master]\nOh, you changed your mind.\nOkay.\nYou may come back later.",
         "pt": "[Mestre do Refino]\nAh, você mudou de ideia. \nOk...\nAté mais!",
         "es": "[Maestro de Refinamiento]\nOh, cambiaste de opinión.\nEstá bien.\nPuedes volver más tarde."
     },
-    "jF0aCg": {
+    "k10aCg": {
         "en": "[Refine Master]\nGreat.\nAs you wish!\nI have my own special way to refine...\n.......Kaboom!",
         "pt": "[Mestre do Refino]\nÓtimo! \nComo desejar!\nEu tenho meu segredinho para aprimorar...\n.......Ka BoOom!",
         "es": "[Maestro de Refinamiento]\n¡Perfecto!\n¡Como tú quieras!\nTengo mi propio método especial de refinamiento…\n.......¡Kaboom!"
     },
-    "jV0aCg": {
+    "lF0aCg": {
         "en": "Error!\nPlease take a screenshot and ask the GM.",
         "pt": "Ops, Erro!\nTire uma screenshot e envie a Central de Suporte.",
         "es": "¡Error!\nPor favor, toma una captura de pantalla y contacta con el GM."
     },
-    "jl0aCg": {
+    "lV0aCg": {
         "en": "[Refine Master]\nAlright, here it is.\nWell, ^0000FF{0}^000000!\nCongratulations on your shining armor.\nYou look GREAT!\nFarewell!",
         "pt": "[Mestre do Refino]\nCerto, aqui está!\nEntão, ^0000FF{0}^000000!\nParabéns pelo seu novo equipamento refinado!\nVocê está RADIANTE com ele!\nAté mais~!",
         "es": "[Maestro de Refinamiento]\nMuy bien, aquí lo tienes.\n¡Bueno, ^0000FF{0}^000000!\nFelicidades por tu brillante armadura.\n¡Te ves GENIAL!\n¡Hasta pronto!"
     },
-    "j10aCg": {
-        "en": "[Refine Master]\nIf you want to refine \na ^006400weapon^000000,\nplease come along with a ^006400Weapon Refine Guarantee Coupon^000000.\nSee you later!",
+    "ll0aCg": {
+        "en": "[Refine Master]\nIf you want to refine\na ^006400weapon^000000,\nplease come along with a ^006400Weapon Refine Guarantee Coupon^000000.\nSee you later!",
         "pt": "[Mestre do Refino]\nSe você quer refinar uma \n^006400Arma^000000,\nTraga um ^006400Pergaminho de Arma^000000\nAté mais!",
         "es": "[Maestro de Refinamiento]\nSi deseas refinar\nun ^006400arma^000000,\npor favor ven con un ^006400Cupón de Garantía de Refinamiento de Arma^000000.\n¡Hasta luego!"
     },
-    "kF0aCg": {
+    "l10aCg": {
         "en": "[Refine Master]\nPlease choose the ^006400Weapon Refine Certificate^000000\nyou want to use.",
         "pt": "[Mestre do Refino]\nPor favor escolha o ^006400Pergaminho de Arma^000000\nque você quer usar.",
         "es": "[Maestro de Refinamiento]\nPor favor elige el ^006400Certificado de Refinamiento de Arma^000000\nque deseas usar."
     },
-    "kV0aCg": {
+    "mF0aCg": {
         "en": "Safe to 5 Weapon Certificate",
         "pt": "Pergaminho de Arma +5",
         "es": "Certificado de Arma Seguro a +5"
     },
-    "kl0aCg": {
+    "mV0aCg": {
         "en": "Safe to 6 Weapon Certificate",
         "pt": "Pergaminho de Arma +6",
         "es": "Certificado de Arma Seguro a +6"
     },
-    "k10aCg": {
+    "ml0aCg": {
         "en": "Safe to 7 Weapon Certificate",
         "pt": "Pergaminho de Arma +7",
         "es": "Certificado de Arma Seguro a +7"
     },
-    "lF0aCg": {
+    "m10aCg": {
         "en": "Safe to 8 Weapon Certificate",
         "pt": "Pergaminho de Arma +8",
         "es": "Certificado de Arma Seguro a +8"
     },
-    "lV0aCg": {
+    "nF0aCg": {
         "en": "Safe to 9 Weapon Certificate",
         "pt": "Pergaminho de Arma +9",
         "es": "Certificado de Arma Seguro a +9"
     },
-    "ll0aCg": {
+    "nV0aCg": {
         "en": "Safe to 10 Weapon Certificate",
         "pt": "Pergaminho de Arma +10",
         "es": "Certificado de Arma Seguro a +10"
     },
-    "l10aCg": {
+    "nl0aCg": {
         "en": "Safe to 11 Weapon Certificate",
         "pt": "Pergaminho de Arma +11",
         "es": "Certificado de Arma Seguro a +11"
     },
-    "mF0aCg": {
+    "n10aCg": {
         "en": "Safe to 12 Weapon Certificate",
         "pt": "Pergaminho de Arma +12",
         "es": "Certificado de Arma Seguro a +12"
     },
-    "mV0aCg": {
+    "oF0aCg": {
+        "en": "Safe to 13 Weapon Certificate",
+        "pt": "Pergaminho de Arma +13",
+        "es": "Certificado de Arma Seguro a +13"
+    },
+    "oV0aCg": {
+        "en": "Safe to 14 Weapon Certificate",
+        "pt": "Pergaminho de Arma +14",
+        "es": "Certificado de Arma Seguro a +14"
+    },
+    "ol0aCg": {
+        "en": "Safe to 15 Weapon Certificate",
+        "pt": "Pergaminho de Arma +15",
+        "es": "Certificado de Arma Seguro a +15"
+    },
+    "o10aCg": {
+        "en": "Safe to 16 Weapon Certificate",
+        "pt": "Pergaminho de Arma +16",
+        "es": "Certificado de Arma Seguro a +16"
+    },
+    "pF0aCg": {
+        "en": "Safe to 17 Weapon Certificate",
+        "pt": "Pergaminho de Arma +17",
+        "es": "Certificado de Arma Seguro a +17"
+    },
+    "pV0aCg": {
+        "en": "Safe to 18 Weapon Certificate",
+        "pt": "Pergaminho de Arma +18",
+        "es": "Certificado de Arma Seguro a +18"
+    },
+    "pl0aCg": {
+        "en": "Safe to 19 Weapon Certificate",
+        "pt": "Pergaminho de Arma +19",
+        "es": "Certificado de Arma Seguro a +19"
+    },
+    "p10aCg": {
         "en": "[Refine Master]\nThe +5 Weapon Refine Certificate\nis not in your inventory.\nDid you put in your storage?\nPlease check once again.\nSee you later!",
         "pt": "[Mestre do Refino]\nPergaminho de Arma +5 \nnão está em seu inventário...\nvocê o deixou com a Kafra?\nPor favor, cheque novamente, \nAté mais!",
         "es": "[Maestro de Refinamiento]\nEl Certificado de Refinamiento de Arma +5\nno está en tu inventario.\n¿Lo guardaste en el almacenamiento?\nPor favor, revisa nuevamente.\n¡Hasta luego!"
     },
-    "ml0aCg": {
+    "qF0aCg": {
         "en": "[Refine Master]\nThe +6 Weapon Refine Certificate\nis not in your inventory.\nDid you put in your storage?\nPlease check once again.\nSee you later!",
         "pt": "[Mestre do Refino]\nPergaminho de Arma +6 \nnão está em seu inventário...\nvocê o deixou com a Kafra?\nPor favor, cheque novamente, \nAté mais!",
         "es": "[Maestro de Refinamiento]\nEl Certificado de Refinamiento de Arma +6\nno está en tu inventario.\n¿Lo guardaste en el almacenamiento?\nPor favor, revisa nuevamente.\n¡Hasta luego!"
     },
-    "m10aCg": {
+    "qV0aCg": {
         "en": "[Refine Master]\nThe +7 Weapon Refine Certificate\nis not in your inventory.\nDid you put in your storage?\nPlease check once again.\nSee you later!",
         "pt": "[Mestre do Refino]\nPergaminho de Arma +7 \nnão está em seu inventário...\nvocê o deixou com a Kafra?\nPor favor, cheque novamente, \nAté mais!",
         "es": "[Maestro de Refinamiento]\nEl Certificado de Refinamiento de Arma +7\nno está en tu inventario.\n¿Lo guardaste en el almacenamiento?\nPor favor, revisa nuevamente.\n¡Hasta luego!"
     },
-    "nF0aCg": {
+    "ql0aCg": {
         "en": "[Refine Master]\nThe +8 Weapon Refine Certificate\nis not in your inventory.\nDid you put in your storage?\nPlease check once again.\nSee you later!",
         "pt": "[Mestre do Refino]\nPergaminho de Arma +8 \nnão está em seu inventário...\nvocê o deixou com a Kafra?\nPor favor, cheque novamente, \nAté mais!",
         "es": "[Maestro de Refinamiento]\nEl Certificado de Refinamiento de Arma +8\nno está en tu inventario.\n¿Lo guardaste en el almacenamiento?\nPor favor, revisa nuevamente.\n¡Hasta luego!"
     },
-    "nV0aCg": {
+    "q10aCg": {
         "en": "[Refine Master]\nThe +9 Weapon Refine Certificate\nis not in your inventory.\nDid you put in your storage?\nPlease check once again.\nSee you later!",
         "pt": "[Mestre do Refino]\nPergaminho de Arma +9 \nnão está em seu inventário...\nvocê o deixou com a Kafra?\nPor favor, cheque novamente, \nAté mais!",
         "es": "[Maestro de Refinamiento]\nEl Certificado de Refinamiento de Arma +9\nno está en tu inventario.\n¿Lo guardaste en el almacenamiento?\nPor favor, revisa nuevamente.\n¡Hasta luego!"
     },
-    "nl0aCg": {
+    "rF0aCg": {
         "en": "[Refine Master]\nThe +10 Weapon Refine Certificate\nis not in your inventory.\nDid you put in your storage?\nPlease check once again.\nSee you later!",
         "pt": "[Mestre do Refino]\nPergaminho de Arma +10 \nnão está em seu inventário...\nvocê o deixou com a Kafra?\nPor favor, cheque novamente, \nAté mais!",
         "es": "[Maestro de Refinamiento]\nEl Certificado de Refinamiento de Arma +10\nno está en tu inventario.\n¿Lo guardaste en el almacenamiento?\nPor favor, revisa nuevamente.\n¡Hasta luego!"
     },
-    "n10aCg": {
+    "rV0aCg": {
         "en": "[Refine Master]\nThe +11 Weapon Refine Certificate\nis not in your inventory.\nDid you put in your storage?\nPlease check once again.\nSee you later!",
         "pt": "[Mestre do Refino]\nPergaminho de Arma +11 \nnão está em seu inventário...\nvocê o deixou com a Kafra?\nPor favor, cheque novamente, \nAté mais!",
         "es": "[Maestro de Refinamiento]\nEl Certificado de Refinamiento de Arma +11\nno está en tu inventario.\n¿Lo guardaste en el almacenamiento?\nPor favor, revisa nuevamente.\n¡Hasta luego!"
     },
-    "oF0aCg": {
+    "rl0aCg": {
+        "en": "[Refine Master]\nThe +12 Weapon Refine Certificate\nis not in your inventory.\nDid you put in your storage?\nPlease check once again.\nSee you later!",
+        "pt": "[Mestre do Refino]\nPergaminho de Arma +12 \nnão está em seu inventário...\nvocê o deixou com a Kafra?\nPor favor, cheque novamente, \nAté mais!",
+        "es": "[Maestro de Refinamiento]\nEl Certificado de Refinamiento de Arma +12\nno está en tu inventario.\n¿Lo guardaste en el almacenamiento?\nPor favor, revisa nuevamente.\n¡Hasta luego!"
+    },
+    "r10aCg": {
+        "en": "[Refine Master]\nThe +13 Weapon Refine Certificate\nis not in your inventory.\nDid you put in your storage?\nPlease check once again.\nSee you later!",
+        "pt": "[Mestre do Refino]\nPergaminho de Arma +13 \nnão está em seu inventário...\nvocê o deixou com a Kafra?\nPor favor, cheque novamente, \nAté mais!",
+        "es": "[Maestro de Refinamiento]\nEl Certificado de Refinamiento de Arma +13\nno está en tu inventario.\n¿Lo guardaste en el almacenamiento?\nPor favor, revisa nuevamente.\n¡Hasta luego!"
+    },
+    "sF0aCg": {
+        "en": "[Refine Master]\nThe +14 Weapon Refine Certificate\nis not in your inventory.\nDid you put in your storage?\nPlease check once again.\nSee you later!",
+        "pt": "[Mestre do Refino]\nPergaminho de Arma +14 \nnão está em seu inventário...\nvocê o deixou com a Kafra?\nPor favor, cheque novamente, \nAté mais!",
+        "es": "[Maestro de Refinamiento]\nEl Certificado de Refinamiento de Arma +14\nno está en tu inventario.\n¿Lo guardaste en el almacenamiento?\nPor favor, revisa nuevamente.\n¡Hasta luego!"
+    },
+    "sV0aCg": {
+        "en": "[Refine Master]\nThe +15 Weapon Refine Certificate\nis not in your inventory.\nDid you put in your storage?\nPlease check once again.\nSee you later!",
+        "pt": "[Mestre do Refino]\nPergaminho de Arma +15 \nnão está em seu inventário...\nvocê o deixou com a Kafra?\nPor favor, cheque novamente, \nAté mais!",
+        "es": "[Maestro de Refinamiento]\nEl Certificado de Refinamiento de Arma +15\nno está en tu inventario.\n¿Lo guardaste en el almacenamiento?\nPor favor, revisa nuevamente.\n¡Hasta luego!"
+    },
+    "sl0aCg": {
+        "en": "[Refine Master]\nThe +16 Weapon Refine Certificate\nis not in your inventory.\nDid you put in your storage?\nPlease check once again.\nSee you later!",
+        "pt": "[Mestre do Refino]\nPergaminho de Arma +16 \nnão está em seu inventário...\nvocê o deixou com a Kafra?\nPor favor, cheque novamente, \nAté mais!",
+        "es": "[Maestro de Refinamiento]\nEl Certificado de Refinamiento de Arma +16\nno está en tu inventario.\n¿Lo guardaste en el almacenamiento?\nPor favor, revisa nuevamente.\n¡Hasta luego!"
+    },
+    "s10aCg": {
+        "en": "[Refine Master]\nThe +17 Weapon Refine Certificate\nis not in your inventory.\nDid you put in your storage?\nPlease check once again.\nSee you later!",
+        "pt": "[Mestre do Refino]\nPergaminho de Arma +17 \nnão está em seu inventário...\nvocê o deixou com a Kafra?\nPor favor, cheque novamente, \nAté mais!",
+        "es": "[Maestro de Refinamiento]\nEl Certificado de Refinamiento de Arma +17\nno está en tu inventario.\n¿Lo guardaste en el almacenamiento?\nPor favor, revisa nuevamente.\n¡Hasta luego!"
+    },
+    "tF0aCg": {
+        "en": "[Refine Master]\nThe +18 Weapon Refine Certificate\nis not in your inventory.\nDid you put in your storage?\nPlease check once again.\nSee you later!",
+        "pt": "[Mestre do Refino]\nPergaminho de Arma +18 \nnão está em seu inventário...\nvocê o deixou com a Kafra?\nPor favor, cheque novamente, \nAté mais!",
+        "es": "[Maestro de Refinamiento]\nEl Certificado de Refinamiento de Arma +18\nno está en tu inventario.\n¿Lo guardaste en el almacenamiento?\nPor favor, revisa nuevamente.\n¡Hasta luego!"
+    },
+    "tV0aCg": {
+        "en": "[Refine Master]\nThe +19 Weapon Refine Certificate\nis not in your inventory.\nDid you put in your storage?\nPlease check once again.\nSee you later!",
+        "pt": "[Mestre do Refino]\nPergaminho de Arma +19 \nnão está em seu inventário...\nvocê o deixou com a Kafra?\nPor favor, cheque novamente, \nAté mais!",
+        "es": "[Maestro de Refinamiento]\nEl Certificado de Refinamiento de Arma +19\nno está en tu inventario.\n¿Lo guardaste en el almacenamiento?\nPor favor, revisa nuevamente.\n¡Hasta luego!"
+    },
+    "tl0aCg": {
         "en": "[Refine Master]\nAlright, here it is.\nWell, ^0000FF{0}^000000!\nCongratulations on your shining weapon.\nYou look GREAT!\nFarewell!",
         "pt": "[Mestre do Refino]\nCerto, aqui está!\nEntão, ^0000FF{0}^000000!\nParabéns pela sua nova arma refinada!\nVocê está RADIANTE com ela!\nAté mais~!",
         "es": "[Maestro de Refinamiento]\nMuy bien, aquí lo tienes.\n¡Bueno, ^0000FF{0}^000000!\nFelicidades por tu brillante arma.\n¡Te ves GENIAL!\n¡Hasta pronto!"
     },
-    "oV0aCg": {
-        "en": "[Refine Master]\nHello!\nWhat's up?\nI'm a specialist \nfor refining items, \nbut I'm not working anymore.",
+    "t10aCg": {
+        "en": "[Refine Master]\nHello!\nWhat's up?\nI'm a specialist\nfor refining items,\nbut I'm not working anymore.",
         "pt": "[Mestre do Refino]\nOlá! Como vai?\nSou um especialista em refinar equipamentos com pergaminhos!\nTraga ^3355FFPergaminhos de Refino^000000 para mim!",
         "es": "[Maestro de Refinamiento]\n¡Hola!\n¿Qué tal?\nSoy un especialista\nen refinar objetos,\npero ya no estoy trabajando."
     },
-    "ol0aCg": {
+    "uF0aCg": {
         "en": "I'll go on my way.",
         "pt": "Vou seguir meu caminho.",
         "es": "Seguiré mi camino."
     },
-    "o10aCg": {
+    "uV0aCg": {
         "en": "hmm.. this guy make me curious",
         "pt": "Hmm.. curioso.",
         "es": "hmm... este tipo me da curiosidad."
     },
-    "pF0aCg": {
+    "ul0aCg": {
         "en": "[Refine Master]\nWell... take care, adventurer.",
         "pt": "[Mestre do Refino]\nBem... cuide-se, viajante.",
         "es": "[Maestro de Refinamiento]\nBueno... cuídate, aventurero."
     },
-    "pV0aCg": {
-        "en": "[Refine Master]\nActually, sometimes I do refine services for adventurers, \nbut only for those who have a ^006400Refine Certificate^000000.\nBye-bye!",
+    "u10aCg": {
+        "en": "[Refine Master]\nActually, sometimes I do refine services for adventurers,\nbut only for those who have a ^006400Refine Certificate^000000.\nBye-bye!",
         "pt": "[Mestre do Refino]\nÉ totalmente grátis!\nVenha! E traga ^006400Pergaminhos de Refino^000000!\nAdeus ~!",
         "es": "[Maestro de Refinamiento]\nEn realidad, a veces sí hago servicios de refinamiento para aventureros,\npero solo para aquellos que tengan un ^006400Certificado de Refinamiento^000000.\n¡Adiós!"
+    },
+    "vF0aCg": {
+        "en": "Safe to 13 Armor Certificate",
+        "pt": "Pergaminho de Armadura +13",
+        "es": "Certificado de Armadura Seguro a +13"
+    },
+    "vV0aCg": {
+        "en": "Safe to 14 Armor Certificate",
+        "pt": "Pergaminho de Armadura +14",
+        "es": "Certificado de Armadura Seguro a +14"
+    },
+    "vl0aCg": {
+        "en": "Safe to 15 Armor Certificate",
+        "pt": "Pergaminho de Armadura +15",
+        "es": "Certificado de Armadura Seguro a +15"
+    },
+    "v10aCg": {
+        "en": "Safe to 16 Armor Certificate",
+        "pt": "Pergaminho de Armadura +16",
+        "es": "Certificado de Armadura Seguro a +16"
+    },
+    "wF0aCg": {
+        "en": "Safe to 17 Armor Certificate",
+        "pt": "Pergaminho de Armadura +17",
+        "es": "Certificado de Armadura Seguro a +17"
+    },
+    "wV0aCg": {
+        "en": "Safe to 18 Armor Certificate",
+        "pt": "Pergaminho de Armadura +18",
+        "es": "Certificado de Armadura Seguro a +18"
+    },
+    "wl0aCg": {
+        "en": "Safe to 19 Armor Certificate",
+        "pt": "Pergaminho de Armadura +19",
+        "es": "Certificado de Armadura Seguro a +19"
     }
 }

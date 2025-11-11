@@ -3130,6 +3130,30 @@ tblLapineUpgradeBox = {
 					24386
 				},
 				{
+					"S_Physical_Shoes",
+					24393
+				},
+				{
+					"S_Physical_Shield",
+					24394
+				},
+				{
+					"S_Physical_Armor",
+					24395
+				},
+				{
+					"S_Magical_Shoes",
+					24396
+				},
+				{
+					"S_Magical_Shield",
+					24397
+				},
+				{
+					"S_Magical_Armor",
+					24398
+				},
+				{
 					"S_KingbirdAncient_Armor",
 					24401
 				},
@@ -11816,6 +11840,68 @@ tblLapineUpgradeBox = {
 				}
 			},
 			NeedSource_String = "UPGrade Foxtail"
+		},
+		Luanda_Box_IL = {
+			ItemID = 100421,
+			NeedRefineMin = 4,
+			NeedRefineMax = 9,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"Hunter_Bow_IL",
+					18174
+				},
+				{"Tablet_IL", 28626},
+				{
+					"Goibne_Armor_IL",
+					15348
+				},
+				{
+					"Goibne_Helmet_IL",
+					19366
+				},
+				{
+					"Goibne_Shoulder_IL",
+					20923
+				},
+				{
+					"Goibne_Boots_IL",
+					22192
+				}
+			},
+			NeedSource_String = "Equipo de la Ilusión de Luanda"
+		},
+		S_Luanda_Box_IL = {
+			ItemID = 100422,
+			NeedRefineMin = 4,
+			NeedRefineMax = 11,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"Hunter_Bow_IL",
+					18174
+				},
+				{"Tablet_IL", 28626},
+				{
+					"Goibne_Armor_IL",
+					15348
+				},
+				{
+					"Goibne_Helmet_IL",
+					19366
+				},
+				{
+					"Goibne_Shoulder_IL",
+					20923
+				},
+				{
+					"Goibne_Boots_IL",
+					22192
+				}
+			},
+			NeedSource_String = "Equipo de la Ilusión de Luanda"
 		}
 	},
 	get_lapine_box = function(in_box_id)

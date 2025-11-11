@@ -278,7 +278,19 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_Qualifier_3rd] = "C_Qualifier_3rd",
 	[SPRITE_ROBE_IDs.ROBE_C_Melon_Cream_Soda] = "C_Melon_Cream_Soda",
 	[SPRITE_ROBE_IDs.ROBE_C_Sorcerer_Cape] = "C_Sorcerer_Cape",
-	[SPRITE_ROBE_IDs.ROBE_Huse_Luk_R_Wing_LT] = "Huse_Luk_R_Wing_LT"
+	[SPRITE_ROBE_IDs.ROBE_Huse_Luk_R_Wing_LT] = "Huse_Luk_R_Wing_LT",
+	[SPRITE_ROBE_IDs.ROBE_C_2025RosFesta] = "C_2025RosFesta",
+	[SPRITE_ROBE_IDs.ROBE_C_Clock_Rod] = "C_Clock_Rod",
+	[SPRITE_ROBE_IDs.ROBE_C_Mechanical_Fairy_Wing] = "C_Mechanical_Fairy_Wing",
+	[SPRITE_ROBE_IDs.ROBE_C_Detective_Mag_Glass] = "C_Detective_Mag_Glass",
+	[SPRITE_ROBE_IDs.ROBE_C_N_Mad_Bunny] = "C_N_Mad_Bunny",
+	[SPRITE_ROBE_IDs.ROBE_C_Herald_Of_GOD] = "C_Herald_Of_GOD",
+	[SPRITE_ROBE_IDs.ROBE_C_Nifl_Bloom_RD] = "C_Nifl_Bloom_RD",
+	[SPRITE_ROBE_IDs.ROBE_Arcanum_Corvus_Corax] = "Arcanum_Corvus_Corax",
+	[SPRITE_ROBE_IDs.ROBE_C_Popcorn_Bucket2] = "C_Popcorn_Bucket2",
+	[SPRITE_ROBE_IDs.ROBE_C_Cursed_Serpent] = "C_Cursed_Serpent",
+	[SPRITE_ROBE_IDs.ROBE_C_Tan_Spear] = "C_Tan_Spear",
+	[SPRITE_ROBE_IDs.ROBE_C_Tris_Sword] = "C_Tris_Sword"
 }
 RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_WINGS] = "ANGEL_WINGS",
@@ -560,7 +572,19 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_Qualifier_3rd] = "C_Qualifier_3rd",
 	[SPRITE_ROBE_IDs.ROBE_C_Melon_Cream_Soda] = "C_Melon_Cream_Soda",
 	[SPRITE_ROBE_IDs.ROBE_C_Sorcerer_Cape] = "C_Sorcerer_Cape",
-	[SPRITE_ROBE_IDs.ROBE_Huse_Luk_R_Wing_LT] = "Huse_Luk_R_Wing_LT"
+	[SPRITE_ROBE_IDs.ROBE_Huse_Luk_R_Wing_LT] = "Huse_Luk_R_Wing_LT",
+	[SPRITE_ROBE_IDs.ROBE_C_2025RosFesta] = "C_2025RosFesta",
+	[SPRITE_ROBE_IDs.ROBE_C_Clock_Rod] = "C_Clock_Rod",
+	[SPRITE_ROBE_IDs.ROBE_C_Mechanical_Fairy_Wing] = "C_Mechanical_Fairy_Wing",
+	[SPRITE_ROBE_IDs.ROBE_C_Detective_Mag_Glass] = "C_Detective_Mag_Glass",
+	[SPRITE_ROBE_IDs.ROBE_C_N_Mad_Bunny] = "C_N_Mad_Bunny",
+	[SPRITE_ROBE_IDs.ROBE_C_Herald_Of_GOD] = "C_Herald_Of_GOD",
+	[SPRITE_ROBE_IDs.ROBE_C_Nifl_Bloom_RD] = "C_Nifl_Bloom_RD",
+	[SPRITE_ROBE_IDs.ROBE_Arcanum_Corvus_Corax] = "Arcanum_Corvus_Corax",
+	[SPRITE_ROBE_IDs.ROBE_C_Popcorn_Bucket2] = "C_Popcorn_Bucket2",
+	[SPRITE_ROBE_IDs.ROBE_C_Cursed_Serpent] = "C_Cursed_Serpent",
+	[SPRITE_ROBE_IDs.ROBE_C_Tan_Spear] = "C_Tan_Spear",
+	[SPRITE_ROBE_IDs.ROBE_C_Tris_Sword] = "C_Tris_Sword"
 }
 RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER,
@@ -736,5 +760,17 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_C_Qualifier_2nd,
 	SPRITE_ROBE_IDs.ROBE_C_Qualifier_3rd,
 	SPRITE_ROBE_IDs.ROBE_C_Melon_Cream_Soda,
-	SPRITE_ROBE_IDs.ROBE_Huse_Luk_R_Wing_LT
+	SPRITE_ROBE_IDs.ROBE_Huse_Luk_R_Wing_LT,
+	SPRITE_ROBE_IDs.ROBE_C_2025RosFesta,
+	SPRITE_ROBE_IDs.ROBE_C_Clock_Rod,
+	SPRITE_ROBE_IDs.ROBE_C_Mechanical_Fairy_Wing,
+	SPRITE_ROBE_IDs.ROBE_C_Detective_Mag_Glass,
+	SPRITE_ROBE_IDs.ROBE_C_N_Mad_Bunny,
+	SPRITE_ROBE_IDs.ROBE_C_Herald_Of_GOD,
+	SPRITE_ROBE_IDs.ROBE_C_Nifl_Bloom_RD,
+	SPRITE_ROBE_IDs.ROBE_Arcanum_Corvus_Corax,
+	SPRITE_ROBE_IDs.ROBE_C_Popcorn_Bucket2,
+	SPRITE_ROBE_IDs.ROBE_C_Cursed_Serpent,
+	SPRITE_ROBE_IDs.ROBE_C_Tan_Spear,
+	SPRITE_ROBE_IDs.ROBE_C_Tris_Sword
 }

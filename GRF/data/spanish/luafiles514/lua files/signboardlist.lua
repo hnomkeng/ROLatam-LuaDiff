@@ -5853,16 +5853,6 @@ SignBoardList = {
 		CONTENTS = "  Sala de Teste",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
-	[740] = {
-		MAPNAME = "lhz_in02",
-		CELLX = 21,
-		CELLY = 19,
-		HEIGHT = 10,
-		ICONID = 3,
-		FILEPATH = "item\\·Î¶Ç12.bmp",
-		CONTENTS = "  1 Bilho",
-		CHARCOLOR = "#0x00FFFFFF"
-	},
 	[749] = {
 		MAPNAME = "ma_fild01",
 		CELLX = 172,
