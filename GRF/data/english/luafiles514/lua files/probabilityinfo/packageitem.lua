@@ -3001,7 +3001,7 @@ tbl = {
 		{
 			id = 25375,
 			prob = 2,
-			name = "Gut",
+			name = "Essence of Powerful Soul",
 			group = 6
 		},
 		{
@@ -16147,37 +16147,37 @@ tbl = {
 		{
 			id = 24114,
 			prob = 170,
-			name = "Shadow Mail of Greed",
+			name = "Shadow Greed Armor",
 			group = 1
 		},
 		{
 			id = 24115,
 			prob = 170,
-			name = "Shadow Greaves of Greed",
+			name = "Greed Shadow Shoes",
 			group = 1
 		},
 		{
 			id = 24116,
 			prob = 170,
-			name = "Shadow Shield of Greed",
+			name = "Greed Shadow Shield",
 			group = 1
 		},
 		{
 			id = 24117,
 			prob = 170,
-			name = "Shadow Weapon of Greed",
+			name = "Shadow Greed Weapon",
 			group = 1
 		},
 		{
 			id = 24118,
 			prob = 160,
-			name = "Shadow Earring of Greed",
+			name = "Greed Shadow Earring",
 			group = 1
 		},
 		{
 			id = 24119,
 			prob = 160,
-			name = "Shadow Pendant of Greed",
+			name = "Greed Shadow Pendant",
 			group = 1
 		}
 	},
@@ -19225,7 +19225,7 @@ tbl = {
 		{
 			id = 14614,
 			prob = 1,
-			name = "Unknown Item 5",
+			name = "Special Defense Potion 5",
 			group = 0
 		},
 		{
@@ -19491,7 +19491,7 @@ tbl = {
 		{
 			id = 12887,
 			prob = 1,
-			name = "Unlimited Wing Of Fly (24)",
+			name = "Unlimited Wing Of Fly (1)",
 			group = 0
 		}
 	},
@@ -21819,6 +21819,344 @@ tbl = {
 			group = 1
 		}
 	},
+	[22893] = {
+		{
+			id = 24087,
+			prob = 5,
+			name = "Gemstone Shadow Gloves",
+			group = 1
+		},
+		{
+			id = 24088,
+			prob = 5,
+			name = "Gemstone Shadow Earring",
+			group = 1
+		},
+		{
+			id = 24089,
+			prob = 5,
+			name = "Gemstone Shadow Pendant",
+			group = 1
+		},
+		{
+			id = 24084,
+			prob = 5,
+			name = "Gemstone Shadow Armor",
+			group = 1
+		},
+		{
+			id = 24085,
+			prob = 5,
+			name = "Gemstone Shadow Shoes",
+			group = 1
+		},
+		{
+			id = 24086,
+			prob = 5,
+			name = "Gemstone Shadow Shield",
+			group = 1
+		},
+		{
+			id = 24183,
+			prob = 5,
+			name = "Bearer's Shadow Gloves",
+			group = 1
+		},
+		{
+			id = 24184,
+			prob = 5,
+			name = "Bearer's Shadow Earring",
+			group = 1
+		},
+		{
+			id = 24185,
+			prob = 5,
+			name = "Bearer's Shadow Pendant",
+			group = 1
+		},
+		{
+			id = 24180,
+			prob = 5,
+			name = "Bearer's Shadow Armor",
+			group = 1
+		},
+		{
+			id = 24181,
+			prob = 5,
+			name = "Bearer's Shadow Shoes",
+			group = 1
+		},
+		{
+			id = 24182,
+			prob = 5,
+			name = "Bearer's Shadow Shield",
+			group = 1
+		},
+		{
+			id = 24231,
+			prob = 5,
+			name = "Dark Grass Suddenly",
+			group = 1
+		},
+		{
+			id = 24232,
+			prob = 5,
+			name = "Sudden Dark Shield",
+			group = 1
+		},
+		{
+			id = 24117,
+			prob = 10,
+			name = "Shadow Greed Weapon",
+			group = 1
+		},
+		{
+			id = 24118,
+			prob = 10,
+			name = "Greed Shadow Earring",
+			group = 1
+		},
+		{
+			id = 24119,
+			prob = 10,
+			name = "Greed Shadow Pendant",
+			group = 1
+		},
+		{
+			id = 24114,
+			prob = 10,
+			name = "Shadow Greed Armor",
+			group = 1
+		},
+		{
+			id = 24115,
+			prob = 10,
+			name = "Greed Shadow Shoes",
+			group = 1
+		},
+		{
+			id = 24116,
+			prob = 10,
+			name = "Greed Shadow Shield",
+			group = 1
+		},
+		{
+			id = 24063,
+			prob = 10,
+			name = "Chief's Shadow Grid",
+			group = 1
+		},
+		{
+			id = 24053,
+			prob = 10,
+			name = "Chief's Dark Shield",
+			group = 1
+		},
+		{
+			id = 24150,
+			prob = 10,
+			name = "Infinity Shadow Earring",
+			group = 1
+		},
+		{
+			id = 24151,
+			prob = 10,
+			name = "Infinity Shadow Pendant",
+			group = 1
+		},
+		{
+			id = 24166,
+			prob = 10,
+			name = "Penetration Shadow Earring",
+			group = 1
+		},
+		{
+			id = 24167,
+			prob = 10,
+			name = "Penetration Shadow Necklace",
+			group = 1
+		},
+		{
+			id = 24156,
+			prob = 10,
+			name = "Executioner Shadow Weapon",
+			group = 1
+		},
+		{
+			id = 24157,
+			prob = 10,
+			name = "Exorcist Shadow Weapon",
+			group = 1
+		},
+		{
+			id = 24168,
+			prob = 10,
+			name = "Tempest Shadow Earring",
+			group = 1
+		},
+		{
+			id = 24169,
+			prob = 10,
+			name = "Tempest Shadow Necklace",
+			group = 1
+		},
+		{
+			id = 24196,
+			prob = 10,
+			name = "Hasty Shadow Shoes",
+			group = 1
+		},
+		{
+			id = 24197,
+			prob = 10,
+			name = "Hasty Shadow Armor",
+			group = 1
+		},
+		{
+			id = 24208,
+			prob = 10,
+			name = "Expert Shadow Shoes",
+			group = 1
+		},
+		{
+			id = 24209,
+			prob = 10,
+			name = "Expert Shadow Shield",
+			group = 1
+		},
+		{
+			id = 24217,
+			prob = 10,
+			name = "Repente Dark Earring",
+			group = 1
+		},
+		{
+			id = 24218,
+			prob = 10,
+			name = "Repente Dark Necklace",
+			group = 1
+		},
+		{
+			id = 24223,
+			prob = 10,
+			name = "Strong Dark Glove",
+			group = 1
+		},
+		{
+			id = 24227,
+			prob = 10,
+			name = "Mystical Dark Glove",
+			group = 1
+		},
+		{
+			id = 24112,
+			prob = 15,
+			name = "Shadow Flow Mesh",
+			group = 1
+		},
+		{
+			id = 24111,
+			prob = 15,
+			name = "Shadow Flow Grid",
+			group = 1
+		},
+		{
+			id = 24113,
+			prob = 15,
+			name = "Dark Shield of Flow",
+			group = 1
+		},
+		{
+			id = 24170,
+			prob = 15,
+			name = "Magic Executioner Shadow Weapon",
+			group = 1
+		},
+		{
+			id = 24171,
+			prob = 15,
+			name = "Magic Exorcist Shadow Weapon",
+			group = 1
+		},
+		{
+			id = 24216,
+			prob = 15,
+			name = "Shadow Mesh Attacker",
+			group = 1
+		},
+		{
+			id = 24211,
+			prob = 15,
+			name = "Beginner Shadow Shield",
+			group = 1
+		},
+		{
+			id = 24210,
+			prob = 15,
+			name = "Beginner Shadow Shoes",
+			group = 1
+		},
+		{
+			id = 24213,
+			prob = 15,
+			name = "Rookie Shadow Shield",
+			group = 1
+		},
+		{
+			id = 24212,
+			prob = 15,
+			name = "Rookie Shadow Shoes",
+			group = 1
+		},
+		{
+			id = 24215,
+			prob = 15,
+			name = "Advanced Shadow Shield",
+			group = 1
+		},
+		{
+			id = 24214,
+			prob = 15,
+			name = "Advanced Shadow Shoes",
+			group = 1
+		},
+		{
+			id = 24224,
+			prob = 15,
+			name = "Strong Dark Glove",
+			group = 1
+		},
+		{
+			id = 24225,
+			prob = 15,
+			name = "Force Shadow Earring",
+			group = 1
+		},
+		{
+			id = 24226,
+			prob = 15,
+			name = "Force Shadow Pendant",
+			group = 1
+		},
+		{
+			id = 24228,
+			prob = 15,
+			name = "Mystic Dark Glove",
+			group = 1
+		},
+		{
+			id = 24229,
+			prob = 15,
+			name = "Spirit Shadow Earring",
+			group = 1
+		},
+		{
+			id = 24230,
+			prob = 15,
+			name = "Spirit Shadow Pendant",
+			group = 1
+		}
+	},
 	[22901] = {
 		{
 			id = 6919,
@@ -22237,7 +22575,7 @@ tbl = {
 		{
 			id = 24117,
 			prob = 5,
-			name = "Shadow Weapon of Greed",
+			name = "Shadow Greed Weapon",
 			group = 1
 		},
 		{
@@ -22273,31 +22611,31 @@ tbl = {
 		{
 			id = 24160,
 			prob = 5,
-			name = "Shadow Fish Hunter Glove",
+			name = "Fishing Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24159,
 			prob = 5,
-			name = "Insect Hunter Dark Glove",
+			name = "Insect Net Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24158,
 			prob = 5,
-			name = "Dark Glove Crusader",
+			name = "Hunting Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24157,
 			prob = 5,
-			name = "Dark Demon Hunter Glove",
+			name = "Exorcist Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24156,
 			prob = 5,
-			name = "Shadow Hunter-Humanoid Glove",
+			name = "Executioner Shadow Weapon",
 			group = 1
 		},
 		{
@@ -22309,91 +22647,91 @@ tbl = {
 		{
 			id = 24179,
 			prob = 5,
-			name = "Dark Anti-Plant Glove",
+			name = "Magic Scissor Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24178,
 			prob = 5,
-			name = "Dark Anti-Dead Glove",
+			name = "Magic Holy Water Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24177,
 			prob = 5,
-			name = "Dark Anti-Amorph Glove",
+			name = "Magic Vibration Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24176,
 			prob = 5,
-			name = "Dark Anti-Angel Glove",
+			name = "Magic Corrupt Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24175,
 			prob = 5,
-			name = "Dark Anti-Dragon Glove",
+			name = "Magic Dragon Killer Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24174,
 			prob = 5,
-			name = "Dark Anti-Fish Glove",
+			name = "Magic Fishing Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24173,
 			prob = 5,
-			name = "Dark Anti-Insect Glove",
+			name = "Magic Insect Net Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24172,
 			prob = 5,
-			name = "Dark Anti-Bruto Glove",
+			name = "Magic Hunting Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24171,
 			prob = 5,
-			name = "Dark Anti-Demon Glove",
+			name = "Magic Exorcist Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24170,
 			prob = 5,
-			name = "Dark Anti-Humanoid Glove",
+			name = "Magic Executioner Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24165,
 			prob = 5,
-			name = "Plant Hunter Shadow Glove",
+			name = "Scissor Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24164,
 			prob = 5,
-			name = "Dark Fighter Glove",
+			name = "Holy Water Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24163,
 			prob = 5,
-			name = "Dark Hunting Glove",
+			name = "Vibration Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24162,
 			prob = 5,
-			name = "Angel Hunter Dark Glove",
+			name = "Corrupt Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24161,
 			prob = 5,
-			name = "Dark Dragon Slayer Glove",
+			name = "Dragon Killer Shadow Weapon",
 			group = 1
 		},
 		{
@@ -22557,7 +22895,7 @@ tbl = {
 		{
 			id = 24114,
 			prob = 5,
-			name = "Shadow Mail of Greed",
+			name = "Shadow Greed Armor",
 			group = 1
 		},
 		{
@@ -22805,7 +23143,7 @@ tbl = {
 		{
 			id = 24116,
 			prob = 5,
-			name = "Shadow Shield of Greed",
+			name = "Greed Shadow Shield",
 			group = 1
 		},
 		{
@@ -23059,7 +23397,7 @@ tbl = {
 		{
 			id = 24115,
 			prob = 5,
-			name = "Shadow Greaves of Greed",
+			name = "Greed Shadow Shoes",
 			group = 1
 		},
 		{
@@ -23211,7 +23549,7 @@ tbl = {
 		{
 			id = 24119,
 			prob = 5,
-			name = "Shadow Pendant of Greed",
+			name = "Greed Shadow Pendant",
 			group = 1
 		},
 		{
@@ -23283,13 +23621,13 @@ tbl = {
 		{
 			id = 24230,
 			prob = 5,
-			name = "Unknown Item",
+			name = "Spirit Shadow Pendant",
 			group = 1
 		},
 		{
 			id = 24226,
 			prob = 5,
-			name = "Unknown Item",
+			name = "Force Shadow Pendant",
 			group = 1
 		},
 		{
@@ -23387,7 +23725,7 @@ tbl = {
 		{
 			id = 24118,
 			prob = 5,
-			name = "Shadow Earring of Greed",
+			name = "Greed Shadow Earring",
 			group = 1
 		},
 		{
@@ -23459,13 +23797,13 @@ tbl = {
 		{
 			id = 24229,
 			prob = 5,
-			name = "Unknown Item",
+			name = "Spirit Shadow Earring",
 			group = 1
 		},
 		{
 			id = 24225,
 			prob = 5,
-			name = "Unknown Item",
+			name = "Force Shadow Earring",
 			group = 1
 		},
 		{
@@ -25995,7 +26333,7 @@ tbl = {
 		{
 			id = 15040,
 			prob = 130,
-			name = "Prisoner's Uniform [1]",
+			name = "Prisoner's Uniform",
 			group = 6
 		},
 		{
@@ -28047,7 +28385,7 @@ tbl = {
 		{
 			id = 23223,
 			prob = 1,
-			name = "[Eveto] STR Biscuit Stick 2",
+			name = "[Event] STR Biscuit Stick 2",
 			group = 0
 		},
 		{
@@ -28709,6 +29047,248 @@ tbl = {
 			prob = 1,
 			name = "Magic Blessing",
 			group = 0
+		}
+	},
+	[23299] = {
+		{
+			id = 25302,
+			prob = 2,
+			name = "Double Attack Stone",
+			group = 1
+		},
+		{
+			id = 25303,
+			prob = 2,
+			name = "Mortal Stone 4",
+			group = 1
+		},
+		{
+			id = 25067,
+			prob = 2,
+			name = "Fixed Cast 1 Stone (Garment)",
+			group = 1
+		},
+		{
+			id = 6964,
+			prob = 8,
+			name = "SP Absorption Stone (Garment)",
+			group = 1
+		},
+		{
+			id = 25000,
+			prob = 8,
+			name = "SP Absorption Stone (Upper)",
+			group = 1
+		},
+		{
+			id = 25306,
+			prob = 8,
+			name = "Variable Casting Stone (Garment)",
+			group = 1
+		},
+		{
+			id = 25205,
+			prob = 8,
+			name = "Graphic Stone: Shrink Effect (Lower)",
+			group = 1
+		},
+		{
+			id = 6963,
+			prob = 16,
+			name = "HP Absorption Stone (Garment)",
+			group = 1
+		},
+		{
+			id = 6999,
+			prob = 16,
+			name = "HP Absorption Stone (Upper)",
+			group = 1
+		},
+		{
+			id = 25068,
+			prob = 16,
+			name = "Atk Speed 1 Stone (Upper)",
+			group = 1
+		},
+		{
+			id = 6908,
+			prob = 16,
+			name = "ASPD Stone (Garment)",
+			group = 1
+		},
+		{
+			id = 25170,
+			prob = 16,
+			name = "Fixed -0.3 Stone (Garment)",
+			group = 1
+		},
+		{
+			id = 6943,
+			prob = 24,
+			name = "ATK Stone (Top)",
+			group = 1
+		},
+		{
+			id = 6642,
+			prob = 24,
+			name = "Stone of ATK (Middle)",
+			group = 1
+		},
+		{
+			id = 25016,
+			prob = 24,
+			name = "Power 1 Stone (Lower)",
+			group = 1
+		},
+		{
+			id = 6944,
+			prob = 24,
+			name = "MATK Stone (Top)",
+			group = 1
+		},
+		{
+			id = 6643,
+			prob = 24,
+			name = "Stone of MATK (Middle)",
+			group = 1
+		},
+		{
+			id = 25017,
+			prob = 24,
+			name = "Magic 1 Stone (Lower)",
+			group = 1
+		},
+		{
+			id = 25061,
+			prob = 24,
+			name = "Ranged 1 Stone (Middle)",
+			group = 1
+		},
+		{
+			id = 25141,
+			prob = 24,
+			name = "EXP Stone +2% (Middle)",
+			group = 1
+		},
+		{
+			id = 25015,
+			prob = 24,
+			name = "EXP 1 Stone (Lower)",
+			group = 1
+		},
+		{
+			id = 25171,
+			prob = 24,
+			name = "EXP Stone +2% (Top)",
+			group = 1
+		},
+		{
+			id = 25174,
+			prob = 24,
+			name = "Variable -3% Stone (Lower)",
+			group = 1
+		},
+		{
+			id = 25173,
+			prob = 24,
+			name = "Variable -3% Stone (Middle)",
+			group = 1
+		},
+		{
+			id = 25172,
+			prob = 24,
+			name = "Variable -3% Stone (Top)",
+			group = 1
+		},
+		{
+			id = 25012,
+			prob = 38,
+			name = "STR Change Stone (Lower)",
+			group = 1
+		},
+		{
+			id = 25003,
+			prob = 38,
+			name = "STR Swap Stone (Middle)",
+			group = 1
+		},
+		{
+			id = 25013,
+			prob = 38,
+			name = "INT Change Stone (Lower)",
+			group = 1
+		},
+		{
+			id = 25005,
+			prob = 38,
+			name = "INT Swap Stone (Middle)",
+			group = 1
+		},
+		{
+			id = 25010,
+			prob = 38,
+			name = "DEX Change Stone (Lower)",
+			group = 1
+		},
+		{
+			id = 25007,
+			prob = 38,
+			name = "DEX Swap Stone (Middle)",
+			group = 1
+		},
+		{
+			id = 25008,
+			prob = 38,
+			name = "VIT Change Stone (Lower)",
+			group = 1
+		},
+		{
+			id = 25006,
+			prob = 38,
+			name = "VIT Swap Stone (Middle)",
+			group = 1
+		},
+		{
+			id = 25009,
+			prob = 38,
+			name = "AGI Change Stone (Lower)",
+			group = 1
+		},
+		{
+			id = 25004,
+			prob = 38,
+			name = "AGI Swap Stone (Middle)",
+			group = 1
+		},
+		{
+			id = 25011,
+			prob = 38,
+			name = "LUK Change Stone (Lower)",
+			group = 1
+		},
+		{
+			id = 25002,
+			prob = 38,
+			name = "LUK Swap Stone (Middle)",
+			group = 1
+		},
+		{
+			id = 25060,
+			prob = 38,
+			name = "Critical 1 Stone (Middle)",
+			group = 1
+		},
+		{
+			id = 25304,
+			prob = 38,
+			name = "Mortal Stone 2",
+			group = 1
+		},
+		{
+			id = 25305,
+			prob = 38,
+			name = "Mortal Stone 3",
+			group = 1
 		}
 	},
 	[23304] = {
@@ -29563,7 +30143,7 @@ tbl = {
 		{
 			id = 23548,
 			prob = 3000,
-			name = "Snow Candy 3",
+			name = "Frozen Candy 3",
 			group = 1
 		},
 		{
@@ -29629,7 +30209,7 @@ tbl = {
 		{
 			id = 23551,
 			prob = 600,
-			name = "Pestie Cookie",
+			name = "Festie Cookie",
 			group = 1
 		},
 		{
@@ -29709,7 +30289,7 @@ tbl = {
 		{
 			id = 6015,
 			prob = 10,
-			name = "M card",
+			name = "Card M",
 			group = 1
 		},
 		{
@@ -29739,13 +30319,13 @@ tbl = {
 		{
 			id = 6017,
 			prob = 10,
-			name = "T-card",
+			name = "Card T",
 			group = 1
 		},
 		{
 			id = 6018,
 			prob = 10,
-			name = "V-Card",
+			name = "Card V",
 			group = 1
 		},
 		{
@@ -29753,6 +30333,84 @@ tbl = {
 			prob = 10,
 			name = "Card W",
 			group = 1
+		}
+	},
+	[23582] = {
+		{
+			id = 12887,
+			prob = 1,
+			name = "Unlimited Wing Of Fly (168)",
+			group = 0
+		}
+	},
+	[23583] = {
+		{
+			id = 19310,
+			prob = 1,
+			name = "Rebeginner Cap",
+			group = 0
+		},
+		{
+			id = 20906,
+			prob = 1,
+			name = "Rebeginner Manteau",
+			group = 0
+		},
+		{
+			id = 15250,
+			prob = 1,
+			name = "Rebeginner Suit [1]",
+			group = 0
+		},
+		{
+			id = 22173,
+			prob = 1,
+			name = "Rebeginner Boots [1]",
+			group = 0
+		},
+		{
+			id = 28566,
+			prob = 1,
+			name = "Rebeginner Ring",
+			group = 0
+		}
+	},
+	[23584] = {
+		{
+			id = 24387,
+			prob = 1,
+			name = "Rebeginner Shadow Armor",
+			group = 0
+		},
+		{
+			id = 24388,
+			prob = 1,
+			name = "Rebeginner Shadow Shield",
+			group = 0
+		},
+		{
+			id = 24389,
+			prob = 1,
+			name = "Rebeginner Shadow Shoes",
+			group = 0
+		},
+		{
+			id = 24390,
+			prob = 1,
+			name = "Rebeginner Shadow Weapon",
+			group = 0
+		},
+		{
+			id = 24391,
+			prob = 1,
+			name = "Rebeginner Shadow Earring",
+			group = 0
+		},
+		{
+			id = 24392,
+			prob = 1,
+			name = "Rebeginner Shadow Pendant",
+			group = 0
 		}
 	},
 	[23663] = {
@@ -34635,7 +35293,7 @@ tbl = {
 		{
 			id = 100328,
 			prob = 10,
-			name = "Reinforced blade hub",
+			name = "Blade Reinforced Cube",
 			group = 6
 		},
 		{
@@ -34713,7 +35371,7 @@ tbl = {
 		{
 			id = 100395,
 			prob = 10,
-			name = "Reinforced Scepter Hub",
+			name = "Scepter Reinforced Cube",
 			group = 6
 		},
 		{
@@ -34749,7 +35407,7 @@ tbl = {
 		{
 			id = 100275,
 			prob = 10,
-			name = "Reinforced Bastarda hub",
+			name = "Bastard Sword Reinforced Cube",
 			group = 6
 		},
 		{
@@ -34791,7 +35449,7 @@ tbl = {
 		{
 			id = 100405,
 			prob = 10,
-			name = "Reinforced Rifle Hub",
+			name = "Rifle Reinforced Cube",
 			group = 6
 		},
 		{
@@ -34833,7 +35491,7 @@ tbl = {
 		{
 			id = 101483,
 			prob = 10,
-			name = "Reinforced knife hub",
+			name = "Knife Reinforced Cube",
 			group = 6
 		}
 	},
@@ -34976,6 +35634,82 @@ tbl = {
 			id = 19308,
 			prob = 1,
 			name = "Amistr Beret [1]",
+			group = 6
+		}
+	},
+	[100541] = {
+		{
+			id = 24250,
+			prob = 1667,
+			name = "Dark Swordsman Necklace",
+			group = 6
+		},
+		{
+			id = 24251,
+			prob = 1667,
+			name = "Dark Merchant Necklace",
+			group = 6
+		},
+		{
+			id = 24252,
+			prob = 1667,
+			name = "Dark Novice Necklace",
+			group = 6
+		},
+		{
+			id = 24253,
+			prob = 1666,
+			name = "Thief's Dark Necklace",
+			group = 6
+		},
+		{
+			id = 24254,
+			prob = 1667,
+			name = "Dark Wizard Necklace",
+			group = 6
+		},
+		{
+			id = 24255,
+			prob = 1666,
+			name = "Dark Archer Necklace",
+			group = 6
+		}
+	},
+	[100542] = {
+		{
+			id = 24246,
+			prob = 1667,
+			name = "Dark Swordsman Earring",
+			group = 6
+		},
+		{
+			id = 24247,
+			prob = 1666,
+			name = "Dark Merchant Earring",
+			group = 6
+		},
+		{
+			id = 24248,
+			prob = 1666,
+			name = "Dark Novice Earring",
+			group = 6
+		},
+		{
+			id = 24249,
+			prob = 1667,
+			name = "Dark Wizard Earring",
+			group = 6
+		},
+		{
+			id = 28391,
+			prob = 1667,
+			name = "Thief's Dark Earring",
+			group = 6
+		},
+		{
+			id = 28392,
+			prob = 1667,
+			name = "Dark Archer Earring",
 			group = 6
 		}
 	},
@@ -35141,61 +35875,61 @@ tbl = {
 		{
 			id = 24156,
 			prob = 10,
-			name = "Shadow Hunter-Humanoid Glove",
+			name = "Executioner Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24157,
 			prob = 10,
-			name = "Dark Demon Hunter Glove",
+			name = "Exorcist Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24158,
 			prob = 10,
-			name = "Dark Glove Crusader",
+			name = "Hunting Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24159,
 			prob = 10,
-			name = "Insect Hunter Dark Glove",
+			name = "Insect Net Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24160,
 			prob = 10,
-			name = "Shadow Fish Hunter Glove",
+			name = "Fishing Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24161,
 			prob = 10,
-			name = "Dark Dragon Slayer Glove",
+			name = "Dragon Killer Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24162,
 			prob = 10,
-			name = "Angel Hunter Dark Glove",
+			name = "Corrupt Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24163,
 			prob = 10,
-			name = "Dark Hunting Glove",
+			name = "Vibration Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24164,
 			prob = 10,
-			name = "Dark Fighter Glove",
+			name = "Holy Water Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24165,
 			prob = 10,
-			name = "Plant Hunter Shadow Glove",
+			name = "Scissor Shadow Weapon",
 			group = 1
 		},
 		{
@@ -35219,31 +35953,31 @@ tbl = {
 		{
 			id = 24434,
 			prob = 10,
-			name = "Shadowhunter's Glove",
+			name = "Executioner Holy Water Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24435,
 			prob = 10,
-			name = "Creepy Hunting Glove",
+			name = "Fishing Insect Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24436,
 			prob = 10,
-			name = "Brutanta Hunter Shadow Glove",
+			name = "Scissors Hunting Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24437,
 			prob = 10,
-			name = "Shadow Slayer Glove",
+			name = "Vibration Dragon Killer Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24438,
 			prob = 10,
-			name = "Dark Glove Anjemon Hunter",
+			name = "Exorcist Corrupt Shadow Weapon",
 			group = 1
 		},
 		{
@@ -35303,61 +36037,61 @@ tbl = {
 		{
 			id = 24170,
 			prob = 10,
-			name = "Dark Anti-Humanoid Glove",
+			name = "Magic Executioner Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24171,
 			prob = 10,
-			name = "Dark Anti-Demon Glove",
+			name = "Magic Exorcist Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24172,
 			prob = 10,
-			name = "Dark Anti-Bruto Glove",
+			name = "Magic Hunting Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24173,
 			prob = 10,
-			name = "Dark Anti-Insect Glove",
+			name = "Magic Insect Net Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24174,
 			prob = 10,
-			name = "Dark Anti-Fish Glove",
+			name = "Magic Fishing Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24175,
 			prob = 10,
-			name = "Dark Anti-Dragon Glove",
+			name = "Magic Dragon Killer Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24176,
 			prob = 10,
-			name = "Dark Anti-Angel Glove",
+			name = "Magic Corrupt Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24177,
 			prob = 10,
-			name = "Dark Anti-Amorph Glove",
+			name = "Magic Vibration Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24178,
 			prob = 10,
-			name = "Dark Anti-Dead Glove",
+			name = "Magic Holy Water Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24179,
 			prob = 10,
-			name = "Dark Anti-Plant Glove",
+			name = "Magic Scissor Shadow Weapon",
 			group = 1
 		},
 		{
@@ -35381,31 +36115,31 @@ tbl = {
 		{
 			id = 24431,
 			prob = 10,
-			name = "Dark Anti-Human Death Glove",
+			name = "Magic Executioner Holy Water Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24430,
 			prob = 10,
-			name = "Dark Anti-seizure Glove",
+			name = "Magic Fishing Insect Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24429,
 			prob = 10,
-			name = "Dark Anti-Brutanta Glove",
+			name = "Magic Scissors Hunting Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24428,
 			prob = 10,
-			name = "Dark Anti-Dragon Glove",
+			name = "Magic Vibration Dragon Killer Shadow Weapon",
 			group = 1
 		},
 		{
 			id = 24427,
 			prob = 10,
-			name = "Dark Anti-Anjomon Glove",
+			name = "Magic Exorcist Corrupt Shadow Weapon",
 			group = 1
 		},
 		{
@@ -35663,61 +36397,61 @@ tbl = {
 		{
 			id = 24156,
 			prob = 10,
-			name = "Shadow Hunter-Humanoid Glove",
+			name = "Executioner Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24157,
 			prob = 10,
-			name = "Dark Demon Hunter Glove",
+			name = "Exorcist Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24158,
 			prob = 10,
-			name = "Dark Glove Crusader",
+			name = "Hunting Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24159,
 			prob = 10,
-			name = "Insect Hunter Dark Glove",
+			name = "Insect Net Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24160,
 			prob = 10,
-			name = "Shadow Fish Hunter Glove",
+			name = "Fishing Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24161,
 			prob = 10,
-			name = "Dark Dragon Slayer Glove",
+			name = "Dragon Killer Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24162,
 			prob = 10,
-			name = "Angel Hunter Dark Glove",
+			name = "Corrupt Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24163,
 			prob = 10,
-			name = "Dark Hunting Glove",
+			name = "Vibration Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24164,
 			prob = 10,
-			name = "Dark Fighter Glove",
+			name = "Holy Water Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24165,
 			prob = 10,
-			name = "Plant Hunter Shadow Glove",
+			name = "Scissor Shadow Weapon",
 			group = 2
 		},
 		{
@@ -35741,31 +36475,31 @@ tbl = {
 		{
 			id = 24434,
 			prob = 10,
-			name = "Shadowhunter's Glove",
+			name = "Executioner Holy Water Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24435,
 			prob = 10,
-			name = "Creepy Hunting Glove",
+			name = "Fishing Insect Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24436,
 			prob = 10,
-			name = "Brutanta Hunter Shadow Glove",
+			name = "Scissors Hunting Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24437,
 			prob = 10,
-			name = "Shadow Slayer Glove",
+			name = "Vibration Dragon Killer Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24438,
 			prob = 10,
-			name = "Dark Glove Anjemon Hunter",
+			name = "Exorcist Corrupt Shadow Weapon",
 			group = 2
 		},
 		{
@@ -35825,61 +36559,61 @@ tbl = {
 		{
 			id = 24170,
 			prob = 10,
-			name = "Dark Anti-Humanoid Glove",
+			name = "Magic Executioner Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24171,
 			prob = 10,
-			name = "Dark Anti-Demon Glove",
+			name = "Magic Exorcist Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24172,
 			prob = 10,
-			name = "Dark Anti-Bruto Glove",
+			name = "Magic Hunting Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24173,
 			prob = 10,
-			name = "Dark Anti-Insect Glove",
+			name = "Magic Insect Net Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24174,
 			prob = 10,
-			name = "Dark Anti-Fish Glove",
+			name = "Magic Fishing Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24175,
 			prob = 10,
-			name = "Dark Anti-Dragon Glove",
+			name = "Magic Dragon Killer Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24176,
 			prob = 10,
-			name = "Dark Anti-Angel Glove",
+			name = "Magic Corrupt Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24177,
 			prob = 10,
-			name = "Dark Anti-Amorph Glove",
+			name = "Magic Vibration Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24178,
 			prob = 10,
-			name = "Dark Anti-Dead Glove",
+			name = "Magic Holy Water Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24179,
 			prob = 10,
-			name = "Dark Anti-Plant Glove",
+			name = "Magic Scissor Shadow Weapon",
 			group = 2
 		},
 		{
@@ -35903,31 +36637,31 @@ tbl = {
 		{
 			id = 24431,
 			prob = 10,
-			name = "Dark Anti-Human Death Glove",
+			name = "Magic Executioner Holy Water Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24430,
 			prob = 10,
-			name = "Dark Anti-seizure Glove",
+			name = "Magic Fishing Insect Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24429,
 			prob = 10,
-			name = "Dark Anti-Brutanta Glove",
+			name = "Magic Scissors Hunting Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24428,
 			prob = 10,
-			name = "Dark Anti-Dragon Glove",
+			name = "Magic Vibration Dragon Killer Shadow Weapon",
 			group = 2
 		},
 		{
 			id = 24427,
 			prob = 10,
-			name = "Dark Anti-Anjomon Glove",
+			name = "Magic Exorcist Corrupt Shadow Weapon",
 			group = 2
 		},
 		{
@@ -37617,21 +38351,9 @@ tbl = {
 	},
 	[101161] = {
 		{
-			id = 104830,
-			prob = 3,
-			name = "[Event] Burning Oval Artifact",
-			group = 6
-		},
-		{
-			id = 6635,
-			prob = 3,
-			name = "Blacksmith Blessing 3",
-			group = 6
-		},
-		{
-			id = 31887,
+			id = 31390,
 			prob = 50,
-			name = "Silk scarf",
+			name = "Costume Let It Snow",
 			group = 6
 		},
 		{
@@ -37641,21 +38363,33 @@ tbl = {
 			group = 6
 		},
 		{
-			id = 31390,
-			prob = 50,
-			name = "Costume Let It Snow",
+			id = 23548,
+			prob = 2300,
+			name = "Frozen Candy",
 			group = 6
 		},
 		{
-			id = 23899,
-			prob = 300,
-			name = "[Event] Almighty",
+			id = 23549,
+			prob = 1600,
+			name = "Snow Cookie",
 			group = 6
 		},
 		{
-			id = 23898,
-			prob = 300,
-			name = "[Event] Unlimited Potion",
+			id = 23550,
+			prob = 1600,
+			name = "Winter Cookie",
+			group = 6
+		},
+		{
+			id = 23551,
+			prob = 1600,
+			name = "Festie Cookie",
+			group = 6
+		},
+		{
+			id = 23552,
+			prob = 1600,
+			name = "Flora Cookie",
 			group = 6
 		},
 		{
@@ -37671,33 +38405,15 @@ tbl = {
 			group = 6
 		},
 		{
-			id = 23552,
-			prob = 1600,
-			name = "Flora Cookie 2",
+			id = 23898,
+			prob = 300,
+			name = "[Event] Unlimited Potion",
 			group = 6
 		},
 		{
-			id = 23551,
-			prob = 1600,
-			name = "Pestie Cookie 2",
-			group = 6
-		},
-		{
-			id = 23550,
-			prob = 1600,
-			name = "Winter Cookie 2",
-			group = 6
-		},
-		{
-			id = 23549,
-			prob = 1600,
-			name = "Snow Cookie 2",
-			group = 6
-		},
-		{
-			id = 23548,
-			prob = 2244,
-			name = "Snow Candy 3",
+			id = 23899,
+			prob = 300,
+			name = "[Event] Almighty",
 			group = 6
 		}
 	},
@@ -37730,6 +38446,154 @@ tbl = {
 			id = 101947,
 			prob = 1,
 			name = "[Challenge] Bubble Gum 10",
+			group = 0
+		}
+	},
+	[102067] = {
+		{
+			id = 24156,
+			prob = 10,
+			name = "+7 Executioner Shadow Weapon",
+			group = 0
+		},
+		{
+			id = 24157,
+			prob = 10,
+			name = "+7 Exorcist Shadow Weapon",
+			group = 0
+		},
+		{
+			id = 24158,
+			prob = 10,
+			name = "+7 Hunting Shadow Weapon",
+			group = 0
+		},
+		{
+			id = 24159,
+			prob = 10,
+			name = "+7 Insect Net Shadow Weapon",
+			group = 0
+		},
+		{
+			id = 24160,
+			prob = 10,
+			name = "+7 Fishing Shadow Weapon",
+			group = 0
+		},
+		{
+			id = 24161,
+			prob = 10,
+			name = "+7 Dragon Killer Shadow Weapon",
+			group = 0
+		},
+		{
+			id = 24162,
+			prob = 10,
+			name = "+7 Corrupt Shadow Weapon",
+			group = 0
+		},
+		{
+			id = 24163,
+			prob = 10,
+			name = "+7 Vibration Shadow Weapon",
+			group = 0
+		},
+		{
+			id = 24164,
+			prob = 10,
+			name = "+7 Holy Water Shadow Weapon",
+			group = 0
+		},
+		{
+			id = 24165,
+			prob = 10,
+			name = "+7 Scissor Shadow Weapon",
+			group = 0
+		},
+		{
+			id = 24166,
+			prob = 10,
+			name = "+9 Penetration Shadow Earring",
+			group = 0
+		},
+		{
+			id = 24167,
+			prob = 10,
+			name = "+9 Penetration Shadow Necklace",
+			group = 0
+		}
+	},
+	[102069] = {
+		{
+			id = 24170,
+			prob = 10,
+			name = "+7 Magic Executioner Shadow Weapon",
+			group = 0
+		},
+		{
+			id = 24171,
+			prob = 10,
+			name = "+7 Magic Exorcist Shadow Weapon",
+			group = 0
+		},
+		{
+			id = 24172,
+			prob = 10,
+			name = "+7 Magic Hunting Shadow Weapon",
+			group = 0
+		},
+		{
+			id = 24173,
+			prob = 10,
+			name = "+7 Magic Insect Net Shadow Weapon",
+			group = 0
+		},
+		{
+			id = 24174,
+			prob = 10,
+			name = "+7 Magic Fishing Shadow Weapon",
+			group = 0
+		},
+		{
+			id = 24175,
+			prob = 10,
+			name = "+7 Magic Dragon Killer Shadow Weapon",
+			group = 0
+		},
+		{
+			id = 24176,
+			prob = 10,
+			name = "+7 Magic Corrupt Shadow Weapon",
+			group = 0
+		},
+		{
+			id = 24177,
+			prob = 10,
+			name = "+7 Magic Vibration Shadow Weapon",
+			group = 0
+		},
+		{
+			id = 24178,
+			prob = 10,
+			name = "+7 Magic Holy Water Shadow Weapon",
+			group = 0
+		},
+		{
+			id = 24179,
+			prob = 10,
+			name = "+7 Magic Scissor Shadow Weapon",
+			group = 0
+		},
+		{
+			id = 24168,
+			prob = 10,
+			name = "+9 Tempest Shadow Earring",
+			group = 0
+		},
+		{
+			id = 24169,
+			prob = 10,
+			name = "+9 Tempest Shadow Necklace",
 			group = 0
 		}
 	},
@@ -40493,93 +41357,93 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 31089,
+			id = 20546,
 			prob = 150,
-			name = "[Costume] Exploding Wave",
+			name = "[Costume] Back Ribbon Bell",
 			group = 6
 		},
 		{
-			id = 480093,
+			id = 480097,
 			prob = 300,
-			name = "[Costume] Royal Scepter",
+			name = "[Costume] Snow Powder",
 			group = 6
 		},
 		{
-			id = 410131,
+			id = 31437,
 			prob = 500,
-			name = "[Costume] White Tiger",
+			name = "[Costume] Baby Penguin",
 			group = 6
 		},
 		{
-			id = 420307,
+			id = 31905,
 			prob = 500,
-			name = "[Costume] Twin Wave Roll Hair",
+			name = "[Costume] Ice Tails",
 			group = 6
 		},
 		{
-			id = 420047,
+			id = 31315,
 			prob = 650,
-			name = "[Costume] Honorable Knight Cloak",
+			name = "[Costume] Stall Of Angel",
 			group = 6
 		},
 		{
-			id = 420554,
+			id = 20219,
 			prob = 650,
-			name = "[Costume] Wig of Nyar",
+			name = "[Costume] Angel Marcher Hat",
 			group = 6
 		},
 		{
-			id = 31179,
+			id = 20242,
 			prob = 650,
-			name = "[Costume] Wolf Masquerade",
+			name = "[Costume] Snowysnow Hat",
 			group = 6
 		},
 		{
-			id = 400692,
+			id = 20401,
 			prob = 800,
-			name = "[Costume] Golden Peony Hat",
+			name = "[Costume] Angel Spirit",
 			group = 6
 		},
 		{
-			id = 31565,
+			id = 19955,
 			prob = 800,
-			name = "[Costume] Crowned Princess Ribbon",
+			name = "[Costume] Christmas Tree Hat",
 			group = 6
 		},
 		{
-			id = 400450,
+			id = 19777,
 			prob = 800,
-			name = "[Costume] Lion King Crown",
+			name = "[Costume] Twinkling Star",
 			group = 6
 		},
 		{
-			id = 420029,
+			id = 31440,
 			prob = 800,
-			name = "[Costume] Imperial Glory",
+			name = "[Costume] Snow Bear Hood",
 			group = 6
 		},
 		{
-			id = 19522,
+			id = 19992,
 			prob = 800,
-			name = "[Costume] Mini Crown",
+			name = "[Costume] Chilly Breath",
 			group = 6
 		},
 		{
-			id = 31449,
+			id = 19826,
 			prob = 800,
-			name = "[Costume] Blue Rose Eyepatch",
+			name = "[Costume] Ice Wing Ears",
 			group = 6
 		},
 		{
-			id = 19726,
+			id = 20433,
 			prob = 900,
-			name = "[Costume] Scarlet Rose",
+			name = "[Costume] Louise Red Hat",
 			group = 6
 		},
 		{
-			id = 31765,
+			id = 19678,
 			prob = 900,
-			name = "[Costume] Garnet Tiara",
+			name = "[Costume] Bell Ribbon",
 			group = 6
 		}
 	},
@@ -46119,7 +46983,7 @@ tbl = {
 		{
 			id = 101048,
 			prob = 0,
-			name = "Box of 3 Hollgrehenn's Shadow Refine Hammers",
+			name = "Shadow Hammer Box",
 			group = 0
 		}
 	},
@@ -48341,7 +49205,7 @@ tbl = {
 		{
 			id = 17600,
 			prob = 600,
-			name = "Cx. Cat Paw Card (1 day)",
+			name = "Cat Paw Card Box (1 day)",
 			group = 6
 		},
 		{
@@ -48371,7 +49235,7 @@ tbl = {
 		{
 			id = 23720,
 			prob = 400,
-			name = "Shadow Enchanter",
+			name = "Shadow Enhancement Box",
 			group = 6
 		},
 		{
@@ -48601,7 +49465,7 @@ tbl = {
 		{
 			id = 17600,
 			prob = 600,
-			name = "Cx. Cat Paw Card (1 day)",
+			name = "Cat Paw Card Box (1 day)",
 			group = 6
 		},
 		{
@@ -48631,7 +49495,7 @@ tbl = {
 		{
 			id = 23720,
 			prob = 400,
-			name = "Shadow Enchanter",
+			name = "Shadow Enhancement Box",
 			group = 6
 		},
 		{
@@ -48812,7 +49676,7 @@ tbl = {
 	[105814] = {
 		{
 			id = 105804,
-			prob = 1,
+			prob = 0,
 			name = "[Event] Crowned Oval Artifact 102",
 			group = 0
 		}
@@ -48938,6 +49802,926 @@ tbl = {
 			id = 105804,
 			prob = 1,
 			name = "[Event] Crowned Oval Artifact 13",
+			group = 0
+		}
+	},
+	[105921] = {
+		{
+			id = 6635,
+			prob = 0,
+			name = "Blacksmith Blessing 3",
+			group = 0
+		},
+		{
+			id = 969,
+			prob = 0,
+			name = "Gold 2",
+			group = 0
+		}
+	},
+	[105922] = {
+		{
+			id = 105924,
+			prob = 0,
+			name = "Special Costume Box 1",
+			group = 0
+		},
+		{
+			id = 100751,
+			prob = 0,
+			name = "Low Refining Envelope",
+			group = 0
+		},
+		{
+			id = 6635,
+			prob = 0,
+			name = "Blacksmith Blessing 5",
+			group = 0
+		}
+	},
+	[105923] = {
+		{
+			id = 105925,
+			prob = 0,
+			name = "Special Costume Box 2",
+			group = 0
+		},
+		{
+			id = 105926,
+			prob = 0,
+			name = "Old Helm 9 Refinement Cube",
+			group = 0
+		},
+		{
+			id = 6635,
+			prob = 0,
+			name = "Blacksmith Blessing 10",
+			group = 0
+		}
+	},
+	[105924] = {
+		{
+			id = 480316,
+			prob = 0,
+			name = "Lábris",
+			group = 0
+		}
+	},
+	[105925] = {
+		{
+			id = 480288,
+			prob = 0,
+			name = "Cloak of the Dark Lord",
+			group = 0
+		}
+	},
+	[105960] = {
+		{
+			id = 100676,
+			prob = 0,
+			name = "[Limited] Combat Manual 5",
+			group = 0
+		},
+		{
+			id = 16862,
+			prob = 0,
+			name = "Job Manual (1) 2",
+			group = 0
+		},
+		{
+			id = 12497,
+			prob = 0,
+			name = "[Limited] Chewing Gum 5",
+			group = 0
+		},
+		{
+			id = 12516,
+			prob = 0,
+			name = "[Event] Minor Life Potion 20",
+			group = 0
+		},
+		{
+			id = 101367,
+			prob = 0,
+			name = "[Event] Small Mana Potion 10",
+			group = 0
+		}
+	},
+	[105961] = {
+		{
+			id = 100061,
+			prob = 0,
+			name = "[Event] Red Booster 50",
+			group = 0
+		},
+		{
+			id = 23899,
+			prob = 0,
+			name = "[Event] Almighty 50",
+			group = 0
+		}
+	},
+	[105962] = {
+		{
+			id = 420525,
+			prob = 0,
+			name = "[Costume] Twin Milkyway Hair",
+			group = 0
+		}
+	},
+	[105963] = {
+		{
+			id = 410277,
+			prob = 0,
+			name = "[Costume] Ragdoll Cat",
+			group = 0
+		}
+	},
+	[105964] = {
+		{
+			id = 480555,
+			prob = 0,
+			name = "[Costume] Laphine Wings",
+			group = 0
+		}
+	},
+	[105965] = {
+		{
+			id = 105978,
+			prob = 0,
+			name = "[Event] Thanksgiving Oval Artifact 100",
+			group = 0
+		}
+	},
+	[105966] = {
+		{
+			id = 6635,
+			prob = 0,
+			name = "Blacksmith Blessing 200",
+			group = 0
+		}
+	},
+	[105967] = {
+		{
+			id = 6635,
+			prob = 0,
+			name = "Blacksmith Blessing 100",
+			group = 0
+		}
+	},
+	[105968] = {
+		{
+			id = 480107,
+			prob = 0,
+			name = "[Costume] Kings Twin Swords",
+			group = 0
+		}
+	},
+	[105969] = {
+		{
+			id = 6635,
+			prob = 0,
+			name = "Blacksmith Blessing 10",
+			group = 0
+		}
+	},
+	[105970] = {
+		{
+			id = 6635,
+			prob = 0,
+			name = "Blacksmith Blessing 5",
+			group = 0
+		}
+	},
+	[105971] = {
+		{
+			id = 6635,
+			prob = 0,
+			name = "Blacksmith Blessing 2",
+			group = 0
+		}
+	},
+	[105972] = {
+		{
+			id = 23436,
+			prob = 0,
+			name = "Dark Refining Hammer 5",
+			group = 0
+		}
+	},
+	[105973] = {
+		{
+			id = 22979,
+			prob = 0,
+			name = "[Event] Manual & Gum 2",
+			group = 0
+		}
+	},
+	[105974] = {
+		{
+			id = 23012,
+			prob = 0,
+			name = "[Event] Small Mana Potion 5",
+			group = 0
+		}
+	},
+	[105975] = {
+		{
+			id = 23898,
+			prob = 0,
+			name = "[Event] Unlimited Potion 5",
+			group = 0
+		}
+	},
+	[105976] = {
+		{
+			id = 25464,
+			prob = 1,
+			name = "Passport 10",
+			group = 0
+		}
+	},
+	[105977] = {
+		{
+			id = 1000274,
+			prob = 0,
+			name = "Kachua Coupon",
+			group = 0
+		},
+		{
+			id = 25464,
+			prob = 1400,
+			name = "Passport 5",
+			group = 6
+		},
+		{
+			id = 23047,
+			prob = 1400,
+			name = "[Event] Blessing Of Tyr 3",
+			group = 6
+		},
+		{
+			id = 12684,
+			prob = 1400,
+			name = "Golden Potion  3",
+			group = 6
+		},
+		{
+			id = 23048,
+			prob = 1400,
+			name = "[Event] Regenerate Potion 3",
+			group = 6
+		},
+		{
+			id = 9908,
+			prob = 1400,
+			name = "[Scroll] Mental Potion 3",
+			group = 6
+		},
+		{
+			id = 22979,
+			prob = 950,
+			name = "[Event] Manual & Gum",
+			group = 6
+		},
+		{
+			id = 101367,
+			prob = 950,
+			name = "[Event] Small Mana Potion 3",
+			group = 6
+		},
+		{
+			id = 14847,
+			prob = 950,
+			name = "[Scroll] Small Life Potion 3",
+			group = 6
+		},
+		{
+			id = 6413,
+			prob = 950,
+			name = "New Insurance 3",
+			group = 6
+		},
+		{
+			id = 6833,
+			prob = 950,
+			name = "[Limited] Token of Siegfried 3",
+			group = 6
+		},
+		{
+			id = 6635,
+			prob = 600,
+			name = "Blacksmith Blessing",
+			group = 6
+		},
+		{
+			id = 105979,
+			prob = 600,
+			name = "Transform Box",
+			group = 6
+		},
+		{
+			id = 23032,
+			prob = 600,
+			name = "Stats Soul Potion Box",
+			group = 6
+		},
+		{
+			id = 25041,
+			prob = 600,
+			name = "Pump of Spirit",
+			group = 6
+		},
+		{
+			id = 23436,
+			prob = 600,
+			name = "Dark Refining Hammer",
+			group = 6
+		},
+		{
+			id = 22893,
+			prob = 500,
+			name = "New Shadow Cube",
+			group = 6
+		},
+		{
+			id = 23663,
+			prob = 400,
+			name = "Shadow Material Cube 3",
+			group = 6
+		},
+		{
+			id = 23720,
+			prob = 400,
+			name = "Shadow Enhancement Box",
+			group = 6
+		},
+		{
+			id = 22529,
+			prob = 400,
+			name = "Shadow Synthesis Box",
+			group = 6
+		},
+		{
+			id = 101048,
+			prob = 400,
+			name = "Shadow Hammer Box",
+			group = 6
+		},
+		{
+			id = 23924,
+			prob = 400,
+			name = "Sigrun Shadow Cube",
+			group = 6
+		},
+		{
+			id = 100058,
+			prob = 400,
+			name = "Hasty Shadow Mix Box",
+			group = 6
+		},
+		{
+			id = 100053,
+			prob = 300,
+			name = "Piercing Shadow Mix Box",
+			group = 6
+		},
+		{
+			id = 100011,
+			prob = 300,
+			name = "Magic Piercing Shadow Mix Box",
+			group = 6
+		},
+		{
+			id = 105980,
+			prob = 200,
+			name = "Middle Headgear Box",
+			group = 6
+		},
+		{
+			id = 100470,
+			prob = 200,
+			name = "Hat Collection",
+			group = 6
+		},
+		{
+			id = 22171,
+			prob = 200,
+			name = "Ancient Hero Boots [1]",
+			group = 6
+		},
+		{
+			id = 105433,
+			prob = 200,
+			name = "Common Ancestral Box",
+			group = 6
+		},
+		{
+			id = 105434,
+			prob = 200,
+			name = "Uncommon Ancestral Box",
+			group = 6
+		},
+		{
+			id = 105435,
+			prob = 200,
+			name = "Expanded Ancestral Box",
+			group = 6
+		},
+		{
+			id = 100541,
+			prob = 80,
+			name = "Dark Cube of Necklaces",
+			group = 6
+		},
+		{
+			id = 100542,
+			prob = 80,
+			name = "Dark Cube of Earrings",
+			group = 6
+		},
+		{
+			id = 100395,
+			prob = 70,
+			name = "Scepter Reinforced Cube",
+			group = 6
+		},
+		{
+			id = 100328,
+			prob = 70,
+			name = "Blade Reinforced Cube",
+			group = 6
+		},
+		{
+			id = 100405,
+			prob = 70,
+			name = "Rifle Reinforced Cube",
+			group = 6
+		},
+		{
+			id = 101483,
+			prob = 70,
+			name = "Knife Reinforced Cube",
+			group = 6
+		},
+		{
+			id = 100275,
+			prob = 70,
+			name = "Bastard Sword Reinforced Cube",
+			group = 6
+		},
+		{
+			id = 100273,
+			prob = 20,
+			name = "Boots Modifying Cube",
+			group = 6
+		},
+		{
+			id = 100751,
+			prob = 10,
+			name = "Low Refining Envelope",
+			group = 6
+		},
+		{
+			id = 105984,
+			prob = 5,
+			name = "Selectable Jetpack",
+			group = 6
+		},
+		{
+			id = 105985,
+			prob = 5,
+			name = "Selectable Exoskeleton",
+			group = 6
+		}
+	},
+	[105978] = {
+		{
+			id = 1000274,
+			prob = 0,
+			name = "Kachua Coupon",
+			group = 0
+		},
+		{
+			id = 25464,
+			prob = 1400,
+			name = "Passport 5",
+			group = 6
+		},
+		{
+			id = 23047,
+			prob = 1400,
+			name = "[Event] Blessing Of Tyr 3",
+			group = 6
+		},
+		{
+			id = 12684,
+			prob = 1400,
+			name = "Golden Potion  3",
+			group = 6
+		},
+		{
+			id = 23048,
+			prob = 1400,
+			name = "[Event] Regenerate Potion 3",
+			group = 6
+		},
+		{
+			id = 9908,
+			prob = 1400,
+			name = "[Scroll] Mental Potion 3",
+			group = 6
+		},
+		{
+			id = 22979,
+			prob = 950,
+			name = "[Event] Manual & Gum",
+			group = 6
+		},
+		{
+			id = 101367,
+			prob = 950,
+			name = "[Event] Small Mana Potion 3",
+			group = 6
+		},
+		{
+			id = 14847,
+			prob = 950,
+			name = "[Scroll] Small Life Potion 3",
+			group = 6
+		},
+		{
+			id = 6413,
+			prob = 950,
+			name = "New Insurance 3",
+			group = 6
+		},
+		{
+			id = 6833,
+			prob = 950,
+			name = "[Limited] Token of Siegfried 3",
+			group = 6
+		},
+		{
+			id = 6635,
+			prob = 600,
+			name = "Blacksmith Blessing",
+			group = 6
+		},
+		{
+			id = 105979,
+			prob = 600,
+			name = "Transform Box",
+			group = 6
+		},
+		{
+			id = 23032,
+			prob = 600,
+			name = "Stats Soul Potion Box",
+			group = 6
+		},
+		{
+			id = 25041,
+			prob = 600,
+			name = "Pump of Spirit",
+			group = 6
+		},
+		{
+			id = 23436,
+			prob = 600,
+			name = "Dark Refining Hammer",
+			group = 6
+		},
+		{
+			id = 22893,
+			prob = 500,
+			name = "New Shadow Cube",
+			group = 6
+		},
+		{
+			id = 23663,
+			prob = 400,
+			name = "Shadow Material Cube 3",
+			group = 6
+		},
+		{
+			id = 23720,
+			prob = 400,
+			name = "Shadow Enhancement Box",
+			group = 6
+		},
+		{
+			id = 22529,
+			prob = 400,
+			name = "Shadow Synthesis Box",
+			group = 6
+		},
+		{
+			id = 101048,
+			prob = 400,
+			name = "Shadow Hammer Box",
+			group = 6
+		},
+		{
+			id = 23924,
+			prob = 400,
+			name = "Sigrun Shadow Cube",
+			group = 6
+		},
+		{
+			id = 100058,
+			prob = 400,
+			name = "Hasty Shadow Mix Box",
+			group = 6
+		},
+		{
+			id = 100053,
+			prob = 300,
+			name = "Piercing Shadow Mix Box",
+			group = 6
+		},
+		{
+			id = 100011,
+			prob = 300,
+			name = "Magic Piercing Shadow Mix Box",
+			group = 6
+		},
+		{
+			id = 105980,
+			prob = 200,
+			name = "Middle Headgear Box",
+			group = 6
+		},
+		{
+			id = 100470,
+			prob = 200,
+			name = "Hat Collection",
+			group = 6
+		},
+		{
+			id = 22171,
+			prob = 200,
+			name = "Ancient Hero Boots [1]",
+			group = 6
+		},
+		{
+			id = 105433,
+			prob = 200,
+			name = "Common Ancestral Box",
+			group = 6
+		},
+		{
+			id = 105434,
+			prob = 200,
+			name = "Uncommon Ancestral Box",
+			group = 6
+		},
+		{
+			id = 105435,
+			prob = 200,
+			name = "Expanded Ancestral Box",
+			group = 6
+		},
+		{
+			id = 100541,
+			prob = 80,
+			name = "Dark Cube of Necklaces",
+			group = 6
+		},
+		{
+			id = 100542,
+			prob = 80,
+			name = "Dark Cube of Earrings",
+			group = 6
+		},
+		{
+			id = 100395,
+			prob = 70,
+			name = "Scepter Reinforced Cube",
+			group = 6
+		},
+		{
+			id = 100328,
+			prob = 70,
+			name = "Blade Reinforced Cube",
+			group = 6
+		},
+		{
+			id = 100405,
+			prob = 70,
+			name = "Rifle Reinforced Cube",
+			group = 6
+		},
+		{
+			id = 101483,
+			prob = 70,
+			name = "Knife Reinforced Cube",
+			group = 6
+		},
+		{
+			id = 100275,
+			prob = 70,
+			name = "Bastard Sword Reinforced Cube",
+			group = 6
+		},
+		{
+			id = 100273,
+			prob = 20,
+			name = "Boots Modifying Cube",
+			group = 6
+		},
+		{
+			id = 100751,
+			prob = 10,
+			name = "Low Refining Envelope",
+			group = 6
+		},
+		{
+			id = 105984,
+			prob = 5,
+			name = "Selectable Jetpack",
+			group = 6
+		},
+		{
+			id = 105985,
+			prob = 5,
+			name = "Selectable Exoskeleton",
+			group = 6
+		}
+	},
+	[105979] = {
+		{
+			id = 12658,
+			prob = 1429,
+			name = "Transformation Scroll (Deviruchi)",
+			group = 6
+		},
+		{
+			id = 12659,
+			prob = 1429,
+			name = "Transformation Scroll (Raydric Archer)",
+			group = 6
+		},
+		{
+			id = 12660,
+			prob = 1429,
+			name = "Transformation Scroll (Mavka)",
+			group = 6
+		},
+		{
+			id = 12661,
+			prob = 1429,
+			name = "Transformation Scroll (Marduk)",
+			group = 6
+		},
+		{
+			id = 12662,
+			prob = 1429,
+			name = "Transformation Scroll (Banshee)",
+			group = 6
+		},
+		{
+			id = 12663,
+			prob = 1429,
+			name = "Transformation Scroll (Poring)",
+			group = 6
+		},
+		{
+			id = 12664,
+			prob = 1426,
+			name = "Transformation Scroll (Golem)",
+			group = 6
+		}
+	},
+	[105980] = {
+		{
+			id = 410079,
+			prob = 3333,
+			name = "Deep Blue Sunglasses",
+			group = 6
+		},
+		{
+			id = 400001,
+			prob = 3333,
+			name = "Victory Wing Ear",
+			group = 6
+		},
+		{
+			id = 410016,
+			prob = 3334,
+			name = "Battle Processor",
+			group = 6
+		}
+	},
+	[105992] = {
+		{
+			id = 14614,
+			prob = 0,
+			name = "Special Defense Potion 50",
+			group = 0
+		},
+		{
+			id = 23046,
+			prob = 0,
+			name = "[Event] Mystical Powder 50",
+			group = 0
+		},
+		{
+			id = 23094,
+			prob = 0,
+			name = "[Event] Glass of Illusion 50",
+			group = 0
+		},
+		{
+			id = 104699,
+			prob = 0,
+			name = "[Event] Defense Scroll 100",
+			group = 0
+		},
+		{
+			id = 105978,
+			prob = 0,
+			name = "[Event] Thanksgiving Oval Artifact 6",
+			group = 0
+		}
+	},
+	[105993] = {
+		{
+			id = 23049,
+			prob = 0,
+			name = "[Event] Sparkling Candy 25",
+			group = 0
+		},
+		{
+			id = 23050,
+			prob = 0,
+			name = "[Event] Magic Candy 25",
+			group = 0
+		},
+		{
+			id = 105978,
+			prob = 0,
+			name = "[Event] Thanksgiving Oval Artifact 11",
+			group = 0
+		}
+	},
+	[105994] = {
+		{
+			id = 12214,
+			prob = 0,
+			name = "Convex Mirror 20",
+			group = 0
+		},
+		{
+			id = 6833,
+			prob = 0,
+			name = "[Limited] Token of Siegfried 20",
+			group = 0
+		},
+		{
+			id = 12404,
+			prob = 0,
+			name = "Energizing Potion 50",
+			group = 0
+		},
+		{
+			id = 14873,
+			prob = 0,
+			name = "[Promo] Bubble Gum 15",
+			group = 0
+		},
+		{
+			id = 105978,
+			prob = 0,
+			name = "[Event] Thanksgiving Oval Artifact 6",
+			group = 0
+		}
+	},
+	[105995] = {
+		{
+			id = 105978,
+			prob = 0,
+			name = "[Event] Thanksgiving Oval Artifact",
+			group = 0
+		}
+	},
+	[106027] = {
+		{
+			id = 101238,
+			prob = 0,
+			name = "[Event]Kafra Buff (7 Days)",
+			group = 0
+		},
+		{
+			id = 12497,
+			prob = 0,
+			name = "[Limited] Chewing Gum 5",
+			group = 0
+		},
+		{
+			id = 100333,
+			prob = 0,
+			name = "[Event] Infinity Drink 10",
 			group = 0
 		}
 	},
@@ -49165,9 +50949,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105811,
+			id = 105995,
 			prob = 1,
-			name = "Artifact Bag 11",
+			name = "Unknown Item 11",
 			group = 0
 		}
 	},
@@ -49179,9 +50963,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105811,
+			id = 105995,
 			prob = 1,
-			name = "Artifact Bag",
+			name = "Unknown Item",
 			group = 0
 		}
 	},
@@ -49305,9 +51089,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105811,
+			id = 105995,
 			prob = 1,
-			name = "Artifact Bag 11",
+			name = "Unknown Item 11",
 			group = 0
 		}
 	},
@@ -49319,9 +51103,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105811,
+			id = 105995,
 			prob = 1,
-			name = "Artifact Bag",
+			name = "Unknown Item",
 			group = 0
 		}
 	},
@@ -49399,9 +51183,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105811,
+			id = 105995,
 			prob = 1,
-			name = "Artifact Bag 11",
+			name = "Unknown Item 11",
 			group = 0
 		}
 	},
@@ -49413,9 +51197,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105811,
+			id = 105995,
 			prob = 1,
-			name = "Artifact Bag",
+			name = "Unknown Item",
 			group = 0
 		}
 	},
@@ -49897,9 +51681,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105811,
+			id = 105995,
 			prob = 1,
-			name = "Artifact Bag 11",
+			name = "Unknown Item 11",
 			group = 0
 		}
 	},
@@ -50508,6 +52292,46 @@ tbl = {
 			id = 105120,
 			prob = 0,
 			name = "[Event] Martial Oval Artifact 12",
+			group = 0
+		}
+	},
+	[200800] = {
+		{
+			id = 6909,
+			prob = 1,
+			name = "Nyangvine 144",
+			group = 0
+		},
+		{
+			id = 23299,
+			prob = 0,
+			name = "Costume Stone Box 12 2",
+			group = 0
+		},
+		{
+			id = 105978,
+			prob = 0,
+			name = "[Event] Thanksgiving Oval Artifact 8",
+			group = 0
+		}
+	},
+	[200801] = {
+		{
+			id = 6909,
+			prob = 1,
+			name = "Nyangvine 288",
+			group = 0
+		},
+		{
+			id = 23299,
+			prob = 0,
+			name = "Costume Stone Box 12 2",
+			group = 0
+		},
+		{
+			id = 105978,
+			prob = 0,
+			name = "[Event] Thanksgiving Oval Artifact 16",
 			group = 0
 		}
 	}

@@ -7483,7 +7483,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777779x9 casillas^000000 l ^77777760 segundos^000000 l ^777777-8^000000"
 	},
 	[SKID.NJ_HYOUSYOURAKU] = {
-		"Ráfada de Copos de Nieve ^777777(Snow Flake Draft)^000000",
+		"Ráfaga de Copos de Nieve ^777777(Snow Flake Draft)^000000",
 		"Nv. máx.: 5",
 		"^777777Habilidades requeridas: Maestría de Ninja 10, Evasión acuática 7^000000",
 		"Forma de habilidad:^777777Ofensiva^0000bb(Hielo)^000000",

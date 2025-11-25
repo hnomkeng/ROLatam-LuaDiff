@@ -341,13 +341,13 @@
     },
     "BHxUBg": {
         "en": "<Priest Guild New Member>",
-        "pt": "[Cecília]\nAgradeço à você, {}. Nossa líder enviou uma mensagem via ^0000CDAndré^000000, é melhor falar com ele.",
+        "pt": "[Cecília]\nAgradeço à você, {PcName}. Nossa líder enviou uma mensagem via ^0000CDAndré^000000, é melhor falar com ele.",
         "es": "<Priest Guild New Member>"
     },
     "BXxUBg": {
-        "en": "[Cecilia]\nThank you for your help, {}. Guild leader left a message through ^0000FFAndrea^000000.",
+        "en": "[Cecilia]\nThank you for your help, {0}. Guild leader left a message through ^0000FFAndrea^000000.",
         "pt": "[Cecília]\nPosso ajudar?",
-        "es": "[Cecilia]\nGracias por tu ayuda, {}. El líder del gremio dejó un mensaje a través de ^FF0000Andrea^000000."
+        "es": "[Cecilia]\nGracias por tu ayuda, {0}. El líder del gremio dejó un mensaje a través de ^FF0000Andrea^000000."
     },
     "BnxUBg": {
         "en": "[Cecilia]\nIs there anything I can help you with?",
@@ -396,28 +396,28 @@
     },
     "D3xUBg": {
         "en": "[Andrea]\nOh, the guild leader said she had a few things to prepare and returned to the guild base for a moment. She said she would return straight to the entrance of the labyrinth.",
-        "pt": "[Andrea]\nEla disse que {} deve ter o tratamento de um membro do nosso clã.",
+        "pt": "[Andrea]\nEla disse que {PcName} deve ter o tratamento de um membro do nosso clã.",
         "es": "[Andrea]\nAh, la líder del gremio dijo que tenía que preparar algunas cosas y se fue un momento a la base del gremio. Dijo que volvería directamente a la entrada del laberinto."
     },
     "EHxUBg": {
-        "en": "[Andrea]\nAlso, she asked me whether {} wants to join us as guest member of the guild.",
+        "en": "[Andrea]\nAlso, she asked me whether {0} wants to join us as guest member of the guild.",
         "pt": "[Andrea]\nEstamos correndo atrás de conseguir dinheiro suficiente para a nossa ressurreição. Por isso ainda estamos nesse estado.",
-        "es": "[Andrea]\nAdemás, me preguntó si {} quiere unirse a nosotros como miembro invitado del gremio."
+        "es": "[Andrea]\nAdemás, me preguntó si {0} quiere unirse a nosotros como miembro invitado del gremio."
     },
     "EXxUBg": {
         "en": "[Andrea]\nWe don't have the manpower to raise funds for the guild revival. So, we are in a situation where even one hand is lacking.",
-        "pt": "[Andrea]\nSe explorarmos esse labirinto, poderíamos conseguir reviver. Por isso confiamos em você para fazer isso, {}.",
+        "pt": "[Andrea]\nSe explorarmos esse labirinto, poderíamos conseguir reviver. Por isso confiamos em você para fazer isso, {PcName}.",
         "es": "[Andrea]\nNo tenemos mano de obra suficiente para recaudar fondos para la resurrección del gremio. Por lo tanto, estamos en una situación en la que incluso nos faltan personas."
     },
     "EnxUBg": {
-        "en": "[Andrea]\nIf we can conquer this newly revealed twisted labyrinth, it will be a spark that can revive our guild. The only person around guild who can do that is {}.",
-        "pt": "[Andrea]\nGostaria de se juntar como membro temporário do nosso clã, {}?",
-        "es": "[Andrea]\nSi podemos conquistar este laberinto retorcido recientemente revelado, será una chispa que podrá revivir nuestro gremio. La única persona del gremio que puede hacerlo es {}."
+        "en": "[Andrea]\nIf we can conquer this newly revealed twisted labyrinth, it will be a spark that can revive our guild. The only person around guild who can do that is {0}.",
+        "pt": "[Andrea]\nGostaria de se juntar como membro temporário do nosso clã, {0}?",
+        "es": "[Andrea]\nSi podemos conquistar este laberinto retorcido recientemente revelado, será una chispa que podrá revivir nuestro gremio. La única persona del gremio que puede hacerlo es {0}."
     },
     "E3xUBg": {
-        "en": "[Andrea]\n{}, would you be able to work as a guest guild member for our guild?",
+        "en": "[Andrea]\n{0}, would you be able to work as a guest guild member for our guild?",
         "pt": "Acho melhor não.",
-        "es": "[Andrea]\n{}, ¿podrías trabajar como miembro invitado para nuestro gremio?"
+        "es": "[Andrea]\n{0}, ¿podrías trabajar como miembro invitado para nuestro gremio?"
     },
     "FHxUBg": {
         "en": "I guess that's too much.",
@@ -451,13 +451,13 @@
     },
     "GnxUBg": {
         "en": "Yes for compensation!",
-        "pt": "[Andrea]\nObrigado. Em nome do nosso clã e da catedral, aceitamos {} como parte da nossa família.",
+        "pt": "[Andrea]\nObrigado. Em nome do nosso clã e da catedral, aceitamos {PcName} como parte da nossa família.",
         "es": "¡Sí, por la compensación!"
     },
     "G3xUBg": {
-        "en": "[Andrea]\nThank you. Now, on behalf of the guild, we would like to ask {} a request related to this twisted labyrinth.",
+        "en": "[Andrea]\nThank you. Now, on behalf of the guild, we would like to ask {0} a request related to this twisted labyrinth.",
         "pt": "[Andrea]\nAinda não é tempo de novos pedidos. Finalize os outros pedidos primeiro.",
-        "es": "[Andrea]\nGracias. Ahora, en nombre del gremio, nos gustaría hacerle a {} una solicitud relacionada con este retorcido laberinto."
+        "es": "[Andrea]\nGracias. Ahora, en nombre del gremio, nos gustaría hacerle a {0} una solicitud relacionada con este retorcido laberinto."
     },
     "HHxUBg": {
         "en": "[Andrea]\nIt's not time to make a new request yet. For now, please complete the previous request first.",
@@ -476,13 +476,13 @@
     },
     "H3xUBg": {
         "en": "There are still some quests left that weren't completed yesterday. ^FF0000If you receive a new request now, any requests that were not completed yesterday will be reset today.^000000 Would you like to receive all of today's requests?",
-        "pt": "Ei, {}. Eu tenho vários pedidos para você. Deseja aceitar todas as missões?",
+        "pt": "Ei, {PcName}. Eu tenho vários pedidos para você. Deseja aceitar todas as missões?",
         "es": "Aún hay algunas misiones que ayer no se completaron. ^660000Si recibes una nueva solicitud ahora, se restablecerán hoy todas las solicitudes que no se completaron ayer.^000000 ¿Deseas recibir todas las solicitudes de hoy?"
     },
     "IHxUBg": {
-        "en": "{}, I have a lot of requests for you. Do you want to accept all requests?",
+        "en": "{0}, I have a lot of requests for you. Do you want to accept all requests?",
         "pt": "Aceitar.",
-        "es": "{}, tengo muchas solicitudes para ti. ¿Quieres aceptar todas las solicitudes?"
+        "es": "{0}, tengo muchas solicitudes para ti. ¿Quieres aceptar todas las solicitudes?"
     },
     "IXxUBg": {
         "en": "Not now",
@@ -501,7 +501,7 @@
     },
     "JHxUBg": {
         "en": "[Andrea]\nPlease work hard today as well.\nThank you always.",
-        "pt": "[Agnes]\nAgradeço à você, {}. Nossa líder enviou uma mensagem via ^0000CDAndré^000000, é melhor falar com ele.",
+        "pt": "[Agnes]\nAgradeço à você, {PcName}. Nossa líder enviou uma mensagem via ^0000CDAndré^000000, é melhor falar com ele.",
         "es": "[Andrea]\nTrabaja duro hoy también.\nGracias, por todo."
     },
     "JXxUBg": {
@@ -510,9 +510,9 @@
         "es": "Anes"
     },
     "JnxUBg": {
-        "en": "[Anes]\nThank you for your help, {}. Guild leader left a message through ^0000FFAndrea^000000.",
+        "en": "[Anes]\nThank you for your help, {0}. Guild leader left a message through ^0000FFAndrea^000000.",
         "pt": "[Agnes]\nHá pedidos que ainda não foram completados. Por favor, reporte-os para Silvano.",
-        "es": "[Anes]\nGracias por tu ayuda, {}. El líder del gremio dejó un mensaje a través de ^FF0000Andrea^000000."
+        "es": "[Anes]\nGracias por tu ayuda, {0}. El líder del gremio dejó un mensaje a través de ^FF0000Andrea^000000."
     },
     "J3xUBg": {
         "en": "[Anes]\nIt's not time to make a new request yet. For now, please complete the previous quest first.",
@@ -526,7 +526,7 @@
     },
     "KXxUBg": {
         "en": "[Anes]",
-        "pt": "Oh, {}, eu tenho um pedido para fazer toda a semana. Deseja aceitar a missão semanal?",
+        "pt": "Oh, {PcName}, eu tenho um pedido para fazer toda a semana. Deseja aceitar a missão semanal?",
         "es": "[Anes]"
     },
     "KnxUBg": {
@@ -535,9 +535,9 @@
         "es": "Aún hay misiones pendientes. ^660000Si recibes una nueva solicitud ahora, se eliminarán todas las misiones que no se completaron la semana pasada.^000000 ¿Deseas recibir una nueva solicitud semanalmente?"
     },
     "K3xUBg": {
-        "en": "{}, there is one weekly request that you can receive weekly. Would you like to receive it?",
+        "en": "{0}, there is one weekly request that you can receive weekly. Would you like to receive it?",
         "pt": "[Agnes]\nVolte quando quiser fazer missões.",
-        "es": "{}, hay una solicitud semanal que puedes recibir semanalmente. ¿Te gustaría recibirla?"
+        "es": "{0}, hay una solicitud semanal que puedes recibir semanalmente. ¿Te gustaría recibirla?"
     },
     "LHxUBg": {
         "en": "Receive 1 weekly request",
@@ -556,7 +556,7 @@
     },
     "L3xUBg": {
         "en": "Silvano",
-        "pt": "[Silvano]\nAgradeço à você, {}. Nossa líder enviou uma mensagem via ^0000CDAndré^000000, é melhor falar com ele.",
+        "pt": "[Silvano]\nAgradeço à você, {PcName}. Nossa líder enviou uma mensagem via ^0000CDAndré^000000, é melhor falar com ele.",
         "es": "Silvano"
     },
     "MHxUBg": {
@@ -565,9 +565,9 @@
         "es": "Parece que tienes demasiados tipos o pesos de artículos. Por favor, organiza tu inventario."
     },
     "MXxUBg": {
-        "en": "[Silvano]\nThank you for your help, {}. Guild leader left a message through ^0000FFAndrea^000000.",
+        "en": "[Silvano]\nThank you for your help, {0}. Guild leader left a message through ^0000FFAndrea^000000.",
         "pt": "Um momento",
-        "es": "[Silvano]\nGracias por tu ayuda, {}. El líder del gremio dejó un mensaje a través de ^FF0000Andrea^000000."
+        "es": "[Silvano]\nGracias por tu ayuda, {0}. El líder del gremio dejó un mensaje a través de ^FF0000Andrea^000000."
     },
     "MnxUBg": {
         "en": "[Silvano]\nIf you have completed a quest, you can receive a reward. Would you like to receive it now?",

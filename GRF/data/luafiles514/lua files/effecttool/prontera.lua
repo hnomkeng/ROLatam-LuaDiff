@@ -17,92 +17,8 @@ _prontera_emitterInfo = {
 			0.7
 		},
 		pos = {
-			11.5,
-			-4,
-			45.5
-		},
-		radius = {
-			0,
-			0,
-			0
-		},
-		color = {
-			255,
-			255,
-			255,
-			255
-		},
-		rate = {1, 3},
-		size = {10, 15},
-		life = {2, 2.5},
-		texture = "effect\\freeze.bmp",
-		speed = {0.4},
-		srcmode = {5},
-		destmode = {2},
-		maxcount = {10},
-		zenable = {1}
-	},
-	[1] = {
-		dir1 = {
-			-3,
-			-5,
-			-3
-		},
-		dir2 = {
-			5,
-			0,
-			5
-		},
-		gravity = {
-			0.7,
-			-2,
-			0.7
-		},
-		pos = {
-			-10.4,
-			-3,
-			50
-		},
-		radius = {
-			0,
-			0,
-			0
-		},
-		color = {
-			255,
-			255,
-			255,
-			100
-		},
-		rate = {1, 2},
-		size = {10, 12},
-		life = {1.5, 1.8},
-		texture = "effect\\freeze.bmp",
-		speed = {0.5},
-		srcmode = {5},
-		destmode = {2},
-		maxcount = {15},
-		zenable = {1}
-	},
-	[2] = {
-		dir1 = {
-			-3,
-			-5,
-			-3
-		},
-		dir2 = {
-			5,
-			0,
-			5
-		},
-		gravity = {
-			0.7,
-			-2,
-			0.7
-		},
-		pos = {
 			12,
-			-3,
+			-7,
 			31.5
 		},
 		radius = {
@@ -126,7 +42,7 @@ _prontera_emitterInfo = {
 		maxcount = {20},
 		zenable = {1}
 	},
-	[3] = {
+	[1] = {
 		dir1 = {
 			-3,
 			-5,
@@ -144,7 +60,7 @@ _prontera_emitterInfo = {
 		},
 		pos = {
 			-0.6,
-			-2,
+			-3,
 			53.9
 		},
 		radius = {
@@ -168,49 +84,7 @@ _prontera_emitterInfo = {
 		maxcount = {20},
 		zenable = {1}
 	},
-	[4] = {
-		dir1 = {
-			-3,
-			-5,
-			-3
-		},
-		dir2 = {
-			5,
-			0,
-			5
-		},
-		gravity = {
-			0.7,
-			-2,
-			0.7
-		},
-		pos = {
-			-9.5,
-			-6,
-			30.7
-		},
-		radius = {
-			0,
-			0,
-			0
-		},
-		color = {
-			255,
-			255,
-			255,
-			255
-		},
-		rate = {1, 3},
-		size = {10, 15},
-		life = {2, 2.5},
-		texture = "effect\\freeze.bmp",
-		speed = {0.4},
-		srcmode = {5},
-		destmode = {2},
-		maxcount = {10},
-		zenable = {1}
-	},
-	[5] = {
+	[2] = {
 		dir1 = {
 			-3,
 			-5,

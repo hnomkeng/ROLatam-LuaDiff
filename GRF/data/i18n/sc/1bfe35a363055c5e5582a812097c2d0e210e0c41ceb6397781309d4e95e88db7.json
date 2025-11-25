@@ -1,8 +1,8 @@
 {
     "AIlXBg": {
-        "en": "X - Y - Flag - Kill Accumulation\n------------------\nAndrea - {} {} - {} - {}\nAnes   - {} {} - {} - {}\nSilvano   - {} {} - {} - {}\nCecilia - {} {} - {} - {}\nBaphomet - {} {} - {} - {}",
-        "pt": "X - Y - Flag - Kill Accumulation\n------------------\nAndrea - {} {} - {} - {}\nAgnes   - {} {} - {} - {}\nSilvano   - {} {} - {} - {}\nCecilia - {} {} - {} - {}\nBafomet - {} {} - {} - {}",
-        "es": "X - Y - Bandera - Asesinatos Acumulados.\n------------------\nAndrea: {} {} - {} - {}\nAnes: {} {} - {} - {}\nSilvano: {} {} - {} - {}\nCecilia: {} {} - {} - {}\nBaphomet: {} {} - {} - {}"
+        "en": "X - Y - Flag - Kill Accumulation\n------------------\nAndrea - {0} {1} - {2} - {3}\nAnes   - {4} {5} - {6} - {7}\nSilvano   - {8} {9} - {10} - {11}\nCecilia - {12} {13} - {14} - {15}\nBaphomet - {16} {17} - {18} - {19}",
+        "pt": "X - Y - Flag - Kill Accumulation\n------------------\nAndrea - {0} {1} - {2} - {3}\nAgnes   - {4} {5} - {6} - {7}\nSilvano   - {8} {9} - {10} - {11}\nCecilia - {12} {13} - {14} - {15}\nBafomet - {16} {17} - {18} - {19}",
+        "es": "X - Y - Bandera - Asesinatos Acumulados.\n------------------\nAndrea: {0} {1} - {2} - {3}\nAnes: {4} {5} - {6} - {7}\nSilvano: {8} {9} - {10} - {11}\nCecilia: {12} {13} - {14} - {15}\nBaphomet: {16} {17} - {18} - {19}"
     },
     "AYlXBg": {
         "en": "Time Check",
@@ -30,9 +30,9 @@
         "es": "Seguimiento de jefe."
     },
     "BolXBg": {
-        "en": "- Midboss Regen Cooldown -\nAndrea {}s\nAnes {}s\nSilvano {}s\nCecilia {}s\n------------\nRemaining time when boss cannot be summoned\nBaphomet {}s",
-        "pt": "- Mid-Boss Regen Cooldown -\nAndrea {} seconds\nAgnes {} seconds\nSilvano {} seconds\nCecilia {} seconds\n------------\nRemaining time to summon boss\nBafomet {} seconds",
-        "es": "-Tiempo de espera de regeneración de jefe intermedio.-\nAndrea: {}segundos.\nAnes: {}segundos.\nSilvano: {}segundos.\nCecilia: {}segundos.\n------------\nTiempo restante cuando no se puede invocar a un jefe.\nBaphomet: {}segundos."
+        "en": "- Midboss Regen Cooldown -\nAndrea {0}s\nAnes {1}s\nSilvano {2}s\nCecilia {3}s\n------------\nRemaining time when boss cannot be summoned\nBaphomet {4}s",
+        "pt": "- Mid-Boss Regen Cooldown -\nAndrea {0} seconds\nAgnes {1} seconds\nSilvano {2} seconds\nCecilia {3} seconds\n------------\nRemaining time to summon boss\nBafomet {4} seconds",
+        "es": "-Tiempo de espera de regeneración de jefe intermedio.-\nAndrea: {0}segundos.\nAnes: {1}segundos.\nSilvano: {2}segundos.\nCecilia: {3}segundos.\n------------\nTiempo restante cuando no se puede invocar a un jefe.\nBaphomet: {4}segundos."
     },
     "B4lXBg": {
         "en": "Midboss summon completed",

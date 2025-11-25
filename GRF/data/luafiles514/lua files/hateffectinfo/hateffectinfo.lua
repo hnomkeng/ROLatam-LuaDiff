@@ -1193,5 +1193,21 @@ hatEffectTable = {
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true,
 		isRenderBeforeCharacter = true
+	},
+	[HatEFID.HAT_EF_ROS_RedSpirit] = {
+		resourceFileName = "efst_ROS_RedSpirit\\kiaura1.str",
+		hatEffectPos = -11,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+		isRenderBeforeCharacter = true
+	},
+	[HatEFID.HAT_EF_ROS_BlueSpirit] = {
+		resourceFileName = "efst_ROS_BlueSpirit\\kiaura2.str",
+		hatEffectPos = -11,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+		isRenderBeforeCharacter = true
 	}
 }

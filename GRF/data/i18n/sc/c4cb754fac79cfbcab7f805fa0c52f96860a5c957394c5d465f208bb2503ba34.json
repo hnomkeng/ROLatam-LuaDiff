@@ -390,19 +390,19 @@
         "es": "[Esmeralda]\nPor un momento, parece diferente del equipamiento que vi antes. Esto no se puede mejorar."
     },
     "7g9ZBg": {
-        "en": "[Esmeralda]\n[<ITEM>{}<INFO>{}</INFO></ITEM>] {}pcs\n[<ITEM>{}<INFO>{}</INFO></ITEM>] {}pcs",
-        "pt": "[Esmeralda]\n[<ITEM>{}<INFO>{}</INFO></ITEM>] {} un.\n[<ITEM>{}<INFO>{}</INFO></ITEM>] {} un.",
-        "es": "[Esmeralda]\n[<ITEM>{}<INFO>{}</INFO></ITEM>] {}unidades.\n[<ITEM>{}<INFO>{}</INFO></ITEM>] {} unidades."
+        "en": "[Esmeralda]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2}pcs\n[<ITEM>{3}<INFO>{4}</INFO></ITEM>] {5}pcs",
+        "pt": "[Esmeralda]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2} un.\n[<ITEM>{3}<INFO>{4}</INFO></ITEM>] {5} un.",
+        "es": "[Esmeralda]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2}unidades.\n[<ITEM>{3}<INFO>{4}</INFO></ITEM>] {5} unidades."
     },
     "7w9ZBg": {
-        "en": "[<ITEM>{}<INFO>{}</INFO></ITEM>] {}pcs\n[<ITEM>{}<INFO>{}</INFO></ITEM>] {}pcs",
-        "pt": "[<ITEM>{}<INFO>{}</INFO></ITEM>] {} un.\n[<ITEM>{}<INFO>{}</INFO></ITEM>] {} un.",
-        "es": "[<ITEM>{}<INFO>{}</INFO></ITEM>] {} unidades.\n[<ITEM>{}<INFO>{}</INFO></ITEM>] {} unidades."
+        "en": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2}pcs\n[<ITEM>{3}<INFO>{4}</INFO></ITEM>] {5}pcs",
+        "pt": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2} un.\n[<ITEM>{3}<INFO>{4}</INFO></ITEM>] {5} un.",
+        "es": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2} unidades.\n[<ITEM>{3}<INFO>{4}</INFO></ITEM>] {5} unidades."
     },
     "8A9ZBg": {
-        "en": "[<ITEM>{}<INFO>{}</INFO></ITEM>] {}pcs",
-        "pt": "[<ITEM>{}<INFO>{}</INFO></ITEM>] {} un.",
-        "es": "[<ITEM>{}<INFO>{}</INFO></ITEM>] {} unidades."
+        "en": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2}pcs",
+        "pt": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2} un.",
+        "es": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2} unidades."
     },
     "8Q9ZBg": {
         "en": "Materials are required.",
@@ -415,13 +415,13 @@
         "es": "[Esmeralda]\nHasta la próxima."
     },
     "8w9ZBg": {
-        "en": "[Esmeralda]\n[<ITEM>{}<INFO>{}</INFO></ITEM>]'s ^FF0000refine level, cards, and enchantments will be lost^000000 and will be upgraded to [<ITEM>{}<INFO>{}</INFO></ITEM>]. Do you want to proceed?",
+        "en": "[Esmeralda]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]'s ^FF0000refine level, cards, and enchantments will be lost^000000 and will be upgraded to [<ITEM>{2}<INFO>{3}</INFO></ITEM>]. Do you want to proceed?",
         "pt": "[Esmeralda]\nVejo você na próxima.",
-        "es": "[Esmeralda]\n^660000Se perderán el nivel de refinamiento, las cartas y los encantamientos^000000 de [<ITEM>{}<INFO>{}</INFO></ITEM>] y se mejorará a [<ITEM>{}<INFO>{}</INFO></ITEM>]. ¿Quieres continuar?"
+        "es": "[Esmeralda]\n^660000Se perderán el nivel de refinamiento, las cartas y los encantamientos^000000 de [<ITEM>{0}<INFO>{1}</INFO></ITEM>] y se mejorará a [<ITEM>{2}<INFO>{3}</INFO></ITEM>]. ¿Quieres continuar?"
     },
     "9A9ZBg": {
         "en": "Upgrade",
-        "pt": "[Esmeralda]\nCarta, refino e encantos do item [<ITEM>{}<INFO>{}</INFO></ITEM>] ^FF0000serão perdidos^000000 para dar o item [<ITEM>{}<INFO>{}</INFO></ITEM>]. Deseja aprimorar?",
+        "pt": "[Esmeralda]\nCarta, refino e encantos do item [<ITEM>{drop_eqdisp1}<INFO>{drop_eq}</INFO></ITEM>] ^FF0000serão perdidos^000000 para dar o item [<ITEM>{get_disp}<INFO>{get_id}</INFO></ITEM>]. Deseja aprimorar?",
         "es": "Mejorar."
     },
     "9Q9ZBg": {

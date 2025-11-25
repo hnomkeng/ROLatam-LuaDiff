@@ -1,0 +1,530 @@
+{
+    "wCc+DA": {
+        "ko": "초심자 무기 담당자",
+        "en": "Rebeginner Weapon Manager",
+        "pt": "Gerente de Armas",
+        "es": "Gerente de Armas"
+    },
+    "wSc+DA": {
+        "ko": "잠깐만! 멈춰 봐. 자네가 가지고 있는 그것 말이야, 나에게 보여주지 않겠어?",
+        "en": "Wait! Stop. That thing you have, won't you show it to me?",
+        "pt": "Espera! Pare. Essa coisa que você tem, não vai me mostrar?",
+        "es": "¡Espera! Para. Eso que tienes, ¿no me lo vas a mostrar?"
+    },
+    "wic+DA": {
+        "ko": "[초심자 무기 담당자]\n짐의 양도 많고 무거워 보이는데 괜찮겠어? 좀 더는 것이 어때?",
+        "en": "[Rebeginner Weapon Manager]\nYour luggage looks heavy and plentiful, are you sure you're okay? How about having a bit more?",
+        "pt": "[Gerente de Armas]\nVocê parece estar acima do peso, tem certeza de que está bem? Que tal esvaziar seu inventário?",
+        "es": "[Gerente de Armas]\nPareces tener sobrepeso, ¿estás seguro de que estás bien? ¿Qué tal si vacías tu inventario?"
+    },
+    "wyc+DA": {
+        "ko": "[초심자 무기 담당자]\n혹시 주변에 ^0000CD100레벨^000000이 넘은 사람 중에 <ITEM>[초심자 장비 교환권]<INFO>25427</INFO></ITEM>이나 <ITEM>[초심자 무기 7제련 이용권]<INFO>25428</INFO></ITEM>을 가진 사람이 있다면 나를 찾아 오라고 해. 알았지?",
+        "en": "[Rebeginner Weapon Manager]\nIf there's anyone around you over ^0000CDLevel 100^000000 who has an <ITEM>[Rebeginner Coupon]<INFO>25427</INFO></ITEM> or <ITEM>[Rebeginner Weapon +7 Refining Voucher]<INFO>25428</INFO></ITEM>, tell them to come find me. Got it?",
+        "pt": "[Gerente de Armas]\nSe houver alguém perto de você acima do ^0000CDnível 100^000000 que tenha um <ITEM>[Cupom Inicial]<INFO>25427</INFO></ITEM> ou um <ITEM>[Refinador Inicial +7]<INFO>25428</INFO></ITEM>, diga para virem me encontrar. Entendeu?",
+        "es": "[Gerente de Armas]\nSi hay alguien cerca de ti por encima del ^0000CDnivel 100^000000 que tenga un <ITEM>[Cupón Inicial]<INFO>25427</INFO></ITEM> o un <ITEM>[Refinador Inicial +7]<INFO>25428</INFO></ITEM>, diles que vengan a verme. ¿Entendido?"
+    },
+    "xCc+DA": {
+        "ko": "[초심자 무기 담당자]\n자네는...! 내가 찾던 그 사람!",
+        "en": "[Rebeginner Weapon Manager]\nYou...! You're the one I was looking for!",
+        "pt": "[Gerente de Armas]\nVocê...! Você é a pessoa que eu estava procurando!",
+        "es": "[Gerente de Armas]\n¡Tú...! ¡Eres la persona que estaba buscando!"
+    },
+    "xSc+DA": {
+        "ko": "[초심자 무기 담당자]\n자네에게 <ITEM>[초심자 장비 교환권]<INFO>25427</INFO></ITEM>이 있으면 초심자가 사용하기 적당한 ^0000CD무기를 주고^000000, <ITEM>[초심자 무기 7제련 이용권]<INFO>25428</INFO></ITEM>이 있다면 초심자 ^0000CD무기를 제련^000000해 줄까 하는데, 어때?",
+        "en": "[Rebeginner Weapon Manager]\nIf you have an <ITEM>[Rebeginner Coupon]<INFO>25427</INFO></ITEM>, I'll give you a ^0000CDweapon suitable for a beginner^000000, and if you have an <ITEM>[Rebeginner Weapon +7 Refining Voucher]<INFO>25428</INFO></ITEM>, I can ^0000CDrefine a beginner's weapon^000000 for you. How about it?",
+        "pt": "[Gerente de Armas]\nSe você tem um <ITEM>[Cupom Inicial]<INFO>25427</INFO></ITEM>, vou te dar uma ^0000CDarma adequada para um iniciante^000000, e se você tem um <ITEM>[Refinador Inicial +7]<INFO>25428</INFO></ITEM>, posso ^0000CDrefinar uma Arma Inicial^000000 para você. Que tal?",
+        "es": "[Gerente de Armas]\nSi tienes un <ITEM>[Cupón Inicial]<INFO>25427</INFO></ITEM>, te daré un ^0000CDarma adecuada para un principiante^000000, y si tienes un <ITEM>[Refinador Inicial +7]<INFO>25428</INFO></ITEM}, puedo ^0000CDrefinar un Arma Inicial^000000 para ti. ¿Qué te parece?"
+    },
+    "xic+DA": {
+        "ko": "[초심자 무기 담당자]\n관심이 있나? 당연히 있겠지! 어떤 것에 관심이 있나?",
+        "en": "[Rebeginner Weapon Manager]\nAre you interested? Of course you are! What are you interested in?",
+        "pt": "[Gerente de Armas]\nTem interesse? Claro que está!?",
+        "es": "[Gerente de Armas]\n¿Te interesa? ¡Claro que sí, ¿verdad?!"
+    },
+    "xyc+DA": {
+        "ko": "초심자 무기 교환",
+        "en": "Rebeginner Weapon Exchange",
+        "pt": "Pegar Arma Inicial",
+        "es": "Obtener Arma Inicial"
+    },
+    "yCc+DA": {
+        "ko": "^AAAAAA초심자 무기 교환 - 교환권 없음^000000",
+        "en": "^AAAAAARebeginner Weapon Exchange - No Coupon^000000",
+        "pt": "^AAAAAA[Sem Cupom] Pegar Arma Inicial^000000",
+        "es": "^AAAAAA[Sin Cupón] Obtener Arma Inicial^000000"
+    },
+    "ySc+DA": {
+        "ko": "초심자 무기 제련",
+        "en": "Rebeginner Weapon Refining",
+        "pt": "Refinar Arma Inicial",
+        "es": "Refinar Arma Inicial"
+    },
+    "yic+DA": {
+        "ko": "^AAAAAA초심자 무기 제련 - 장비 미장착^000000",
+        "en": "^AAAAAARebeginner Weapon Refining - Equipment Not Equipped^000000",
+        "pt": "^AAAAAA[Desequipado] Refinar Arma Inicial^000000",
+        "es": "^AAAAAA[Desequipado] Refinar Arma Inicial^000000"
+    },
+    "yyc+DA": {
+        "ko": "^AAAAAA초심자 무기 제련 - 제련권 없음^000000",
+        "en": "^AAAAAARebeginner Weapon Refining - No Refining Voucher^000000",
+        "pt": "^AAAAAA[Sem Refinador] Refinar Arma Inicial^000000",
+        "es": "^AAAAAA[Sin Refinador] Refinar Arma Inicial^000000"
+    },
+    "zCc+DA": {
+        "ko": "이런걸 왜 해주세요?",
+        "en": "Why are you doing this for me?",
+        "pt": "Por que você está fazendo isso por mim?",
+        "es": "¿Por qué estás haciendo esto por mí?"
+    },
+    "zSc+DA": {
+        "ko": "[초심자 무기 담당자]\n역시 그럴 줄 알았어! 그럼 어디~ 초심자 장비 교환권을 가지고 있는지 확인을 해볼게.",
+        "en": "[Rebeginner Weapon Manager]\nI knew it! Well then, let's see~ I'll check if you have the Rebeginner Coupon.",
+        "pt": "[Gerente de Armas]\nSabia! Bem, então, vamos ver~ Vou verificar se você tem o Cupom Inicial.",
+        "es": "[Gerente de Armas]\n¡Sabía! Bueno, entonces, veamos~ Voy a verificar si tienes el Cupón Inicial."
+    },
+    "zic+DA": {
+        "ko": "[초심자 무기 담당자]\n가만있자... <ITEM>[초심자 장비 교환권]<INFO>25427</INFO></ITEM>이 없는데? 아까도 말했지만 초심자 장비 교환권이 있어야 자네에게 딱 맞는 무기를 내 줄수가 있다고.",
+        "en": "[Rebeginner Weapon Manager]\nWait a minute... You don't have the <ITEM>[Rebeginner Coupon]<INFO>25427</INFO></ITEM>? Like I said before, I need the Rebeginner Coupon to give you a weapon that's just right for you.",
+        "pt": "[Gerente de Armas]\nEspere um minuto... Você não tem o <ITEM>[Cupom Inicial]<INFO>25427</INFO></ITEM>? Como eu disse antes, preciso do Cupom Inicial para te dar uma arma que seja perfeita para você.",
+        "es": "[Gerente de Armas]\nEspera un minuto... ¿No tienes el <ITEM>[Cupón Inicial]<INFO>25427</INFO></ITEM>? Como dije antes, necesito el Cupón Inicial para darte un arma que sea perfecta para ti."
+    },
+    "zyc+DA": {
+        "ko": "[초심자 무기 담당자]\n초심자 장비 교환권은 우리 길드가 대상자들에게, 그러니까 자네같은 초보 모험가들에게 지급하는 일종의 혜택이란 말이야.",
+        "en": "[Rebeginner Weapon Manager]\nThe Rebeginner Coupon is a kind of benefit our guild provides to eligible individuals, that is, beginner adventurers like you.",
+        "pt": "[Gerente de Armas]\nO Cupom Inicial é uma espécie de benefício que nossa guilda oferece para indivíduos elegíveis, ou seja, viajantes iniciantes como você.",
+        "es": "[Gerente de Armas]\nEl Cupón Inicial es una especie de beneficio que nuestro gremio ofrece a individuos elegibles, es decir, viajeros principiantes como tú."
+    },
+    "0Cc+DA": {
+        "ko": "[초심자 무기 담당자]\n이러이러한 걸 들고 오는 사람은 우리가 지원하기로 한 초보자이니 무기를 지급해 주십시오. 하는 증명서라고.",
+        "en": "[Rebeginner Weapon Manager]\nIt's a certificate that says, 'Please issue a weapon to this person, as they are a beginner we have agreed to support, who brings such and such item.'",
+        "pt": "[Gerente de Armas]\nÉ um certificado que diz: 'Por favor, emita uma arma para esta pessoa, pois ela é um iniciante que concordamos em apoiar'.",
+        "es": "[Gerente de Armas]\nEs un certificado que dice: 'Por favor, emita un arma para esta persona, pues es un principiante que acordamos apoyar'."
+    },
+    "0Sc+DA": {
+        "ko": "[초심자 무기 담당자]\n그 비싼 무기들을 아무에게나 줄 수 없다고. 그걸 가지고 와야 우리가 지급 대상인지 아닌지 알아 볼 수가 있지.",
+        "en": "[Rebeginner Weapon Manager]\nWe can't just give those expensive weapons to anyone. You need to bring that so we can identify if you are eligible or not.",
+        "pt": "[Gerente de Armas]\nNão podemos simplesmente dar essas armas para qualquer um. Você precisa trazer isso para que possamos identificar se você é elegível ou não.",
+        "es": "[Gerente de Armas]\nNo podemos simplemente dar estas armas a cualquiera. Necesitas traer esto para que podamos identificar si eres elegible o no."
+    },
+    "0ic+DA": {
+        "ko": "[초심자 무기 담당자]\n혹시나 오다가 흘렸을지 모르니까 가방을 잘 뒤져 보라고!",
+        "en": "[Rebeginner Weapon Manager]\nYou might have dropped it on the way, so search your bag carefully!",
+        "pt": "[Gerente de Armas]\nVocê pode ter perdido por aí, então procure em sua mochila com cuidado!",
+        "es": "[Gerente de Armas]\nPuede que lo hayas perdido por ahí, ¡así que busca en tu mochila con cuidado!"
+    },
+    "0yc+DA": {
+        "ko": "[초심자 무기 담당자]\n초심자 장비 교환권을 가지고 있구만. 무기 지급 대상이 맞아.",
+        "en": "[Rebeginner Weapon Manager]\nYou have the Rebeginner Coupon. You are indeed eligible for a weapon.",
+        "pt": "[Gerente de Armas]\nVocê tem o Cupom Inicial. Você é realmente elegível para uma arma.",
+        "es": "[Gerente de Armas]\nTienes el Cupón Inicial. Realmente eres elegible para un arma."
+    },
+    "1Cc+DA": {
+        "ko": "[초심자 무기 담당자]\n그럼 어떤 무기를 줘야 하나, 그러니까 직업이...?",
+        "en": "[Rebeginner Weapon Manager]\nSo, which weapon should I give you? I mean, what's your job...?",
+        "pt": "[Gerente de Armas]\nEntão, qual arma devo te dar? Quero dizer, qual é a sua classe...?",
+        "es": "[Gerente de Armas]\nEntonces, ¿qué arma debo darte? Quiero decir, ¿cuál es tu clase...?"
+    },
+    "1Sc+DA": {
+        "ko": "초심자 룬나이트의 투핸드소드",
+        "en": "Beginner Rune Knight's Two-Handed Sword",
+        "pt": "Faço parte dos Cavaleiros Rúnicos",
+        "es": "Soy de los Caballeros Rúnicos"
+    },
+    "1ic+DA": {
+        "ko": "[초심자 무기 담당자]\n룬나이트구나. 그럼 이게 딱이지!",
+        "en": "[Rebeginner Weapon Manager]\nA Rune Knight. Then this is perfect!",
+        "pt": "[Gerente de Armas]\nEntão, a arma perfeita para você é uma Espada de Duas Mãos!",
+        "es": "[Gerente de Armas]\n¡Entonces, el arma perfecta para ti es una Espada de Dos Manos!"
+    },
+    "1yc+DA": {
+        "ko": "초심자 로얄가드의 랜스",
+        "en": "Beginner Royal Guard's Lance",
+        "pt": "Faço parte dos Guardiões Reais",
+        "es": "Soy de los Guardia Reales"
+    },
+    "2Cc+DA": {
+        "ko": "[초심자 무기 담당자]\n로얄가드구나. 그럼 이게 딱이지!",
+        "en": "[Rebeginner Weapon Manager]\nA Royal Guard. Then this is perfect!",
+        "pt": "[Gerente de Armas]\nEntão, a arma perfeita para você é uma Lança!",
+        "es": "[Gerente de Armas]\n¡Entonces, el arma perfecta para ti es una Lanza!"
+    },
+    "2Sc+DA": {
+        "ko": "초심자 미케닉의 메이스",
+        "en": "Beginner Mechanic's Mace",
+        "pt": "Faço parte dos Mecânicos",
+        "es": "Soy de los Mecánicos"
+    },
+    "2ic+DA": {
+        "ko": "[초심자 무기 담당자]\n미케닉이구나. 그럼 이게 딱이지!",
+        "en": "[Rebeginner Weapon Manager]\nA Mechanic. Then this is perfect!",
+        "pt": "[Gerente de Armas]\nEntão, a arma perfeita para você é uma Maça!",
+        "es": "[Gerente de Armas]\n¡Entonces, el arma perfecta para ti es una Maza!"
+    },
+    "2yc+DA": {
+        "ko": "초심자 제네릭의 소드",
+        "en": "Beginner Genetic's Sword",
+        "pt": "Faço parte dos Bioquímicos",
+        "es": "Soy de los Genetistas"
+    },
+    "3Cc+DA": {
+        "ko": "[초심자 무기 담당자]\n제네릭이구나. 그럼 이게 딱이지!",
+        "en": "[Rebeginner Weapon Manager]\nA Genetic. Then this is perfect!",
+        "pt": "[Gerente de Armas]\nEntão, a arma perfeita para você é uma Espada!",
+        "es": "[Gerente de Armas]\n¡Entonces, el arma perfecta para ti es una Espada!"
+    },
+    "3Sc+DA": {
+        "ko": "초심자 길로틴크로스의 카타르",
+        "en": "Beginner Guillotine Cross's Katar",
+        "pt": "Faço parte dos Sicários",
+        "es": "Soy de los Cortadores de Cruces"
+    },
+    "3ic+DA": {
+        "ko": "[초심자 무기 담당자]\n길로틴크로스구나. 그럼 이게 딱이지!",
+        "en": "[Rebeginner Weapon Manager]\nA Guillotine Cross. Then this is perfect!",
+        "pt": "[Gerente de Armas]\nEntão, a arma perfeita para você é um Katar!",
+        "es": "[Gerente de Armas]\n¡Entonces, el arma perfecta para ti es un Katar!"
+    },
+    "3yc+DA": {
+        "ko": "초심자 쉐도우체이서의 대거",
+        "en": "Beginner Shadow Chaser's Dagger",
+        "pt": "Faço parte dos Renegados",
+        "es": "Soy de los Perseguidores de Sombras"
+    },
+    "4Cc+DA": {
+        "ko": "[초심자 무기 담당자]\n쉐도우체이서구나. 그럼 이게 딱이지!",
+        "en": "[Rebeginner Weapon Manager]\nA Shadow Chaser. Then this is perfect!",
+        "pt": "[Gerente de Armas]\nEntão, a arma perfeita para você é uma Adaga!",
+        "es": "[Gerente de Armas]\n¡Entonces, el arma perfecta para ti es una Daga!"
+    },
+    "4Sc+DA": {
+        "ko": "초심자 워록의 스태프",
+        "en": "Beginner Warlock's Staff",
+        "pt": "Faço parte dos Arcanos",
+        "es": "Soy de los Brujos"
+    },
+    "4ic+DA": {
+        "ko": "[초심자 무기 담당자]\n워록이구나. 그럼 이게 딱이지!",
+        "en": "[Rebeginner Weapon Manager]\nA Warlock. Then this is perfect!",
+        "pt": "[Gerente de Armas]\nEntão, a arma perfeita para você é um Cajado de Duas Mãos!",
+        "es": "[Gerente de Armas]\n¡Entonces, el arma perfecta para ti es un Bastón de Dos Manos!"
+    },
+    "4yc+DA": {
+        "ko": "초심자 소서러의 지팡이",
+        "en": "Beginner Sorcerer's Staff",
+        "pt": "Faço parte dos Feiticeiros",
+        "es": "Soy de los Conjuradores"
+    },
+    "5Cc+DA": {
+        "ko": "[초심자 무기 담당자]\n소서러구나. 그럼 이게 딱이지!",
+        "en": "[Rebeginner Weapon Manager]\nA Sorcerer. Then this is perfect!",
+        "pt": "[Gerente de Armas]\nEntão, a arma perfeita para você é um Cajado!",
+        "es": "[Gerente de Armas]\n¡Entonces, el arma perfecta para ti es un Bastón!"
+    },
+    "5Sc+DA": {
+        "ko": "초심자 아크비숍의 성서",
+        "en": "Beginner Arch Bishop's Bible",
+        "pt": "Faço parte dos Arcebispos",
+        "es": "Soy de los Arzobispos"
+    },
+    "5ic+DA": {
+        "ko": "[초심자 무기 담당자]\n아크비숍이구나. 그럼 이게 딱이지!",
+        "en": "[Rebeginner Weapon Manager]\nAn Arch Bishop. Then this is perfect!",
+        "pt": "[Gerente de Armas]\nEntão, a arma perfeita para você é um Livro!",
+        "es": "[Gerente de Armas]\n¡Entonces, el arma perfecta para ti es un Libro!"
+    },
+    "5yc+DA": {
+        "ko": "초심자 수라의 너클",
+        "en": "Beginner Sura's Knuckle",
+        "pt": "Faço parte dos Shuras",
+        "es": "Soy de los Suras"
+    },
+    "6Cc+DA": {
+        "ko": "[초심자 무기 담당자]\n수라구나. 그럼 이게 딱이지!",
+        "en": "[Rebeginner Weapon Manager]\nA Sura. Then this is perfect!",
+        "pt": "[Gerente de Armas]\nEntão, a arma perfeita para você é uma Soqueira!",
+        "es": "[Gerente de Armas]\n¡Entonces, el arma perfecta para ti es una Manopla!"
+    },
+    "6Sc+DA": {
+        "ko": "초심자 레인저의 활",
+        "en": "Beginner Ranger's Bow",
+        "pt": "Faço parte dos Sentinelas",
+        "es": "Soy de los Errantes"
+    },
+    "6ic+DA": {
+        "ko": "[초심자 무기 담당자]\n레인저구나. 그럼 이게 딱이지!",
+        "en": "[Rebeginner Weapon Manager]\nA Ranger. Then this is perfect!",
+        "pt": "[Gerente de Armas]\nEntão, a arma perfeita para você é um Arco!",
+        "es": "[Gerente de Armas]\n¡Entonces, el arma perfecta para ti es un Arco!"
+    },
+    "6yc+DA": {
+        "ko": "초심자 원더러&민스트럴의 활",
+        "en": "Beginner Wanderer & Minstrel's Bow",
+        "pt": "Faço parte dos Artistas",
+        "es": "Soy de los Artistas"
+    },
+    "7Cc+DA": {
+        "ko": "[초심자 무기 담당자]\n원더러구나. 그럼 이게 딱이지!",
+        "en": "[Rebeginner Weapon Manager]\nA Wanderer. Then this is perfect!",
+        "pt": "[Gerente de Armas]\nEntão, a arma perfeita para uma Musa é um Arco!",
+        "es": "[Gerente de Armas]\n¡Entonces, el arma perfecta para una Andarilla es un Arco!"
+    },
+    "7Sc+DA": {
+        "ko": "[초심자 무기 담당자]\n민스트럴이구나. 그럼 이게 딱이지!",
+        "en": "[Rebeginner Weapon Manager]\nA Minstrel. Then this is perfect!",
+        "pt": "[Gerente de Armas]\nEntão, a arma perfeita para um Trovador é um Arco!",
+        "es": "[Gerente de Armas]\n¡Entonces, el arma perfecta para un Maestro es un Arco!"
+    },
+    "7ic+DA": {
+        "ko": "초심자 카게로우&오보로의 풍마수리검",
+        "en": "Beginner Kagerou & Oboro's Fuuma Shuriken",
+        "pt": "Faço parte dos Ninjas",
+        "es": "Soy de los Ninjas"
+    },
+    "7yc+DA": {
+        "ko": "[초심자 무기 담당자]\n오보로구나. 그럼 이게 딱이지!",
+        "en": "[Rebeginner Weapon Manager]\nAn Oboro. Then this is perfect!",
+        "pt": "[Gerente de Armas]\nEntão, a arma perfeita para uma Oboro é um Shuriken Huuma!",
+        "es": "[Gerente de Armas]\n¡Entonces, el arma perfecta para una Oboro es un Shuriken Huuma!"
+    },
+    "8Cc+DA": {
+        "ko": "[초심자 무기 담당자]\n카게로우구나. 그럼 이게 딱이지!",
+        "en": "[Rebeginner Weapon Manager]\nA Kagerou. Then this is perfect!",
+        "pt": "[Gerente de Armas]\nEntão, a arma perfeita para um Kagerou é um Shuriken Huuma!",
+        "es": "[Gerente de Armas]\n¡Entonces, el arma perfecta para un Kagerou es un Shuriken Huuma!"
+    },
+    "8Sc+DA": {
+        "ko": "초심자 리벨리온의 리볼버",
+        "en": "Beginner Rebellion's Revolver",
+        "pt": "Faço parte dos Insurgentes",
+        "es": "Soy de los Rebeldes"
+    },
+    "8ic+DA": {
+        "ko": "[초심자 무기 담당자]\n리벨리온이구나. 그럼 이게 딱이지!",
+        "en": "[Rebeginner Weapon Manager]\nA Rebellion. Then this is perfect!",
+        "pt": "[Gerente de Armas]\nEntão, a arma perfeita para você é um Revólver!",
+        "es": "[Gerente de Armas]\n¡Entonces, el arma perfecta para ti es un Revólver!"
+    },
+    "8yc+DA": {
+        "ko": "초심자 소환사의 강아지풀",
+        "en": "Beginner Summoner's Grass Weaved Doll",
+        "pt": "Faço parte dos Invocadores",
+        "es": "Soy de los Invocadores"
+    },
+    "9Cc+DA": {
+        "ko": "[초심자 무기 담당자]\n소환사구나. 그럼 이게 딱이지!",
+        "en": "[Rebeginner Weapon Manager]\nA Summoner. Then this is perfect!",
+        "pt": "[Gerente de Armas]\nEntão, a arma perfeita para você é uma Cauda de Gato!",
+        "es": "[Gerente de Armas]\n¡Entonces, el arma perfecta para ti es una Cola de Gato!"
+    },
+    "9Sc+DA": {
+        "ko": "초심자 슈퍼노비스의 메이스",
+        "en": "Beginner Super Novice's Mace",
+        "pt": "Faço parte dos Superaprendizes",
+        "es": "Soy de los Súper Principiantes"
+    },
+    "9ic+DA": {
+        "ko": "[초심자 무기 담당자]\n한계를 돌파한 슈퍼 노비스구나. 그럼 이게 딱이지!",
+        "en": "[Rebeginner Weapon Manager]\nA Super Novice who has broken the limit! Then this is perfect!",
+        "pt": "[Gerente de Armas]\nEntão, a arma perfeita para alguém como você é uma Maça!",
+        "es": "[Gerente de Armas]\n¡Entonces, el arma perfecta para alguien como tú es una Maza!"
+    },
+    "9yc+DA": {
+        "ko": "[초심자 무기 담당자]\n아... 안타깝다. 정말로 안타깝네. 안타깝게도 ^0000CD한계를 돌파하지 못한 노비스 계열^000000은 무기 지급 대상에서 제외 됐어.",
+        "en": "[Rebeginner Weapon Manager]\nAh... That's unfortunate. Truly unfortunate. Sadly, ^0000CDNovice class characters who haven't broken their limit^000000 are excluded from weapon eligibility.",
+        "pt": "[Gerente de Armas]\nAh... Que pena. Infelizmente, ^0000CDSuperaprendizes abaixo do nível 99^000000 estão excluídos da elegibilidade para armas.",
+        "es": "[Gerente de Armas]\nAh... Qué pena. Desafortunadamente, los ^0000CDSúper Principiantes por debajo del nivel 99^000000 están excluidos de la elegibilidad para armas."
+    },
+    "+Cc+DA": {
+        "ko": "[초심자 무기 담당자]\n어느 정도 무기에 숙달된 사람들이어야만 우리가 지급한 무기를 제대로 다룰 수 있거든. 정말 미안해.",
+        "en": "[Rebeginner Weapon Manager]\nOne needs to be somewhat proficient with weapons to properly handle the ones we issue. I'm really sorry.",
+        "pt": "[Gerente de Armas]\nÉ preciso ter certa proficiência com armas para manusear adequadamente as que emitimos. Sinto muito.",
+        "es": "[Gerente de Armas]\nSe necesita cierta competencia con las armas para manejar adecuadamente las que emitimos. Lo siento."
+    },
+    "+Sc+DA": {
+        "ko": "[초심자 무기 담당자]\n아... 안타깝다. 정말로 안타깝네. 안타깝게도 ^0000CD무기를 지급 받을 수 없는 직업^000000을 가졌구나.",
+        "en": "[Rebeginner Weapon Manager]\nAh... That's unfortunate. Truly unfortunate. Sadly, you have a ^0000CDjob that cannot receive a weapon^000000.",
+        "pt": "[Gerente de Armas]\nAh... Que pena. Infelizmente, você tem uma ^0000CDclasse que não pode receber uma arma^000000.",
+        "es": "[Gerente de Armas]\nAh... Qué pena. Desafortunadamente, tienes una ^0000CDclase que no puede recibir un arma^000000."
+    },
+    "+ic+DA": {
+        "ko": "[초심자 무기 담당자]\n아쉽게 됐어. 나도 어쩔 수 없는 일이야. 미안해. 다음에 기회가 닿으면 다시 또 보자.",
+        "en": "[Rebeginner Weapon Manager]\nIt's a pity. It's something I can't help either. I'm sorry. Let's meet again if we get another chance.",
+        "pt": "[Gerente de Armas]\nÉ uma pena. É algo que também não posso evitar. Sinto muito. Vamos nos encontrar outra vez se tivermos outra chance.",
+        "es": "[Gerente de Armas]\nEs una lástima. Es algo que tampoco puedo evitar. Lo siento. Nos volveremos a encontrar si tenemos otra oportunidad."
+    },
+    "+yc+DA": {
+        "ko": "[장비 지급 담당자]\n^0000CD{0}^000000! 어때? 멋지지 않아? 초심자가 쓸 물건이라고 허투루 만들지 않았다고!",
+        "en": "[Equipment Issuing Manager]\n^0000CD{0}^000000! How is it? Isn't it cool? I didn't make it carelessly just because it's an item for beginners!",
+        "pt": "[Gerente de Armas]\n^0000CD{0}^000000! E aí? Não é legal? Não fiz com as coxas só porque é um item para iniciantes!",
+        "es": "[Gerente de Armas]\n^0000CD{0}^000000! ¿Y bien? ¿No es genial? ¡No lo hice con las patas solo porque es un ítem para principiantes!"
+    },
+    "/Cc+DA": {
+        "ko": "[장비 지급 담당자]\n자, 그럼 가져 가게. 혹시 좀 더 강한 성능을 원한다면 <ITEM>[초심자 무기 7제련 이용권]<INFO>25428</INFO></ITEM>을 들고 와. ^0000CD제련^000000해 줄게.",
+        "en": "[Equipment Issuing Manager]\nHere, take it. If you want even stronger performance, bring the <ITEM>[Rebeginner Weapon +7 Refining Voucher]<INFO>25428</INFO></ITEM>. I'll ^0000CDrefine^000000 it for you.",
+        "pt": "[Gerente de Armas]\nAqui, leve. Se quiser um desempenho ainda mais forte, traga o <ITEM>[Refinador Inicial +7]<INFO>25428</INFO></ITEM>. Vou ^0000CDrefinar^000000 para você.",
+        "es": "[Gerente de Armas]\nToma, llévala. Si quieres un rendimiento aún más fuerte, trae el <ITEM>[Refinador Inicial +7]<INFO>25428</INFO></ITEM>. Lo ^0000CDrefinaré^000000 para ti."
+    },
+    "/Sc+DA": {
+        "ko": "[장비 지급 담당자]\n그럼, 숙련된 모험가가 될 때까지 소중히 다뤄 주게!",
+        "en": "[Equipment Issuing Manager]\nWell then, please treasure it until you become a seasoned adventurer!",
+        "pt": "[Gerente de Armas]\nBem, então, trate com carinho até se tornar um aventureiro experiente!",
+        "es": "[Gerente de Armas]\n¡Bueno, entonces, ¡trátala con cariño hasta que te conviertas en un aventurero experimentado!"
+    },
+    "/ic+DA": {
+        "ko": "[초심자 무기 담당자]\n이런걸 왜 해주냐고? 혹시 이런 생각 해본 적 없어? 아, 나는 이제 막 모험을 시작한 초심자라 아무 것도 없는데 도움을 좀 받고 싶다...",
+        "en": "[Rebeginner Weapon Manager]\nYou ask why we are doing this? Haven't you ever thought this: 'Ah, I'm just a beginner starting my adventure, I have nothing, I wish I could get some help...'",
+        "pt": "[Gerente de Armas]\nPor que fazemos isso? Nunca pensou assim: 'Ah, sou apenas um iniciante começando minha aventura, não tenho nada, gostaria de poder obter alguma ajuda...'?",
+        "es": "[Gerente de Armas]\n¿Por qué hacemos esto? ¿Nunca has pensado así: 'Ah, soy solo un principiante comenzando mi aventura, no tengo nada, me gustaría poder obtener algo de ayuda...'?"
+    },
+    "/yc+DA": {
+        "ko": "[초심자 무기 담당자]\n그래서 우리 길드는 룬 미드가츠 왕국과 손을 잡고 초보 모험가들의 고충을 해결해 주고자 하는 거지. 우리가 가장 잘 할 수 있는 방법으로 말이야.",
+        "en": "[Rebeginner Weapon Manager]\nThat's why our guild has joined hands with the Rune-Midgarts Kingdom to solve the difficulties of novice adventurers. In the way we know best.",
+        "pt": "[Gerente de Armas]\nÉ por isso que nossa guilda se uniu ao Reino de Rune-Midgard para resolver as dificuldades dos novatos da maneira que melhor conhecemos.",
+        "es": "[Gerente de Armas]\nEs por eso que nuestro gremio se unió al Reino de Rune-Midgard para resolver las dificultades de los novatos de la manera que mejor conocemos."
+    },
+    "ACg+DA": {
+        "ko": "[초심자 무기 담당자]\n초보 모험가들에게 도움이 될만한 무기를 무료로 지급하고, 더 강한 힘을 원할 경우에는 그 무기를 제련까지 해 주고 있어. 물론 무료로.",
+        "en": "[Rebeginner Weapon Manager]\nWe issue helpful weapons to beginner adventurers for free, and if they desire greater power, we even refine those weapons for them. Of course, for free.",
+        "pt": "[Gerente de Armas]\nEmitimos armas úteis para aventureiros iniciantes gratuitamente, e se desejam mais poder, até refinamos essas armas para eles. Claro, de graça.",
+        "es": "[Gerente de Armas]\nEmitimos armas útiles para aventureros principiantes gratuitamente, y si desean más poder, hasta refinamos esas armas para ellos. Claro, gratis."
+    },
+    "ASg+DA": {
+        "ko": "[초심자 무기 담당자]\n왜냐고? 초보 모험가들이 숙련된 모험가가가 될 때까지의 과정을 생각해 봐. 더 많은 무기를 필요로 할 거고 더 많은 제련을 할 거잖아.",
+        "en": "[Rebeginner Weapon Manager]\nWhy, you ask? Think about the process of beginner adventurers becoming seasoned ones. They will need more weapons and do more refining, right?",
+        "pt": "[Gerente de Armas]\nPor que, pergunta? Pense no processo dos aventureiros iniciantes se tornarem experientes. Eles precisarão de mais armas e farão mais refinamentos, certo?",
+        "es": "[Gerente de Armas]\n¿Por qué, preguntas? Piensa en el proceso de los aventureros principiantes volviéndose expertos. Necesitarán más armas y harán más refinamientos, ¿verdad?"
+    },
+    "Aig+DA": {
+        "ko": "[초심자 무기 담당자]\n이제 감이 좀 오지? 우리는 미래를 위한 투자를 하고 있는 거라고.",
+        "en": "[Rebeginner Weapon Manager]\nGetting the idea now? We are making an investment for the future.",
+        "pt": "[Gerente de Armas]\nEstá entendendo agora? Estamos fazendo um investimento para o futuro.",
+        "es": "[Gerente de Armas]\n¿Lo estás entendiendo ahora? Estamos haciendo una inversión para el futuro."
+    },
+    "Ayg+DA": {
+        "ko": "[초심자 무기 담당자]\n그렇지만 아무나 다 지원하지는 않아.  미드가츠 왕국에서 지급한 초심자 지원 상자를 가진 초보 모험가들에게만 지원을 해 주지.",
+        "en": "[Rebeginner Weapon Manager]\nHowever, we don't support just anyone. We only provide support to novice adventurers who have the Beginner Support Box issued by the Midgarts Kingdom.",
+        "pt": "[Gerente de Armas]\nNo entanto, não apoiamos qualquer um. Só fornecemos suporte a aventureiros novatos que têm a Caixa Inicial emitida pelo Reino de Midgard.",
+        "es": "[Gerente de Armas]\nSin embargo, no apoyamos a cualquiera. Solo proporcionamos soporte a aventureros novatos que tienen la Caja Inicial emitida por el Reino de Midgard."
+    },
+    "BCg+DA": {
+        "ko": "[초심자 무기 담당자]\n그 안에 들어 있는 <ITEM>[초심자 장비 교환권]<INFO>25427</INFO></ITEM>과 <ITEM>[초심자 무기 7제련 이용권]<INFO>25428</INFO></ITEM>을 가지고 오면 무기를 지급하거나 제련을 해 줘.",
+        "en": "[Rebeginner Weapon Manager]\nIf you bring the <ITEM>[Rebeginner Coupon]<INFO>25427</INFO></ITEM> and <ITEM>[Rebeginner Weapon +7 Refining Voucher]<INFO>25428</INFO></ITEM> inside it, we will issue you a weapon or perform refining.",
+        "pt": "[Gerente de Armas]\nSe você trouxer o <ITEM>[Cupom Inicial]<INFO>25427</INFO></ITEM> e o <ITEM>[Refinador Inicial +7]<INFO>25428</INFO></ITEM> que estão dentro, emitiremos uma arma ou realizaremos o refinamento.",
+        "es": "[Gerente de Armas]\nSi traes el <ITEM>[Cupón Inicial]<INFO>25427</INFO></ITEM> y el <ITEM>[Refinador Inicial +7]<INFO>25428</INFO></ITEM> que están dentro, emitiremos un arma o realizaremos el refinamiento."
+    },
+    "BSg+DA": {
+        "ko": "[초심자 무기 담당자]\n자네도 생각이 있으면 언제든지 찾아 와.",
+        "en": "[Rebeginner Weapon Manager]\nIf you change your mind, feel free to visit anytime.",
+        "pt": "[Gerente de Armas]\nSe mudar de ideia, sinta-se à vontade para nos visitar a qualquer momento.",
+        "es": "[Gerente de Armas]\nSi cambias de opinión, siéntete libre de visitarnos en cualquier momento."
+    },
+    "Big+DA": {
+        "ko": "[초심자 무기 담당자]\n역시 그럴 줄 알았어! 그럼 어디~ 초심자 무기 7제련 이용권을 가지고 있는지 확인을 해볼게.",
+        "en": "[Rebeginner Weapon Manager]\nI knew it! Well then, let's see~ I'll check if you have the Rebeginner Weapon +7 Refining Voucher.",
+        "pt": "[Gerente de Armas]\nSabia! Bem, então, vamos ver~ Vou verificar se você tem o Refinador Inicial +7.",
+        "es": "[Gerente de Armas]\n¡Sabía! Bueno, entonces, veamos~ Voy a verificar si tienes el Refinador Inicial +7."
+    },
+    "Byg+DA": {
+        "ko": "[초심자 무기 담당자]\n이용권을 가지고 있군. 무기 제련 대상이야. 제련에 앞서 몇가지 확인을 좀 해보겠네.",
+        "en": "[Rebeginner Weapon Manager]\nYou have the voucher. You are eligible for weapon refining. Before refining, let me check a few things.",
+        "pt": "[Gerente de Armas]\nVocê tem o vale. Você é elegível para o refinamento de armas. Antes de refinar, deixe-me verificar algumas coisas.",
+        "es": "[Gerente de Armas]\nTienes el vale. Eres elegible para el refinamiento de armas. Antes de refinar, déjame verificar algunas cosas."
+    },
+    "CCg+DA": {
+        "ko": "[초심자 무기 담당자]\n가만있자... <ITEM>[초심자 무기 7제련 이용권]<INFO>25428</INFO></ITEM>이 없는데? 아까도 말했지만 초심자 무기 7제련 이용권이 있어야 자네에게 딱 맞는 무기를 내 줄수가 있다고.",
+        "en": "[Rebeginner Weapon Manager]\nWait a minute... You don't have the <ITEM>[Rebeginner Weapon +7 Refining Voucher]<INFO>25428</INFO></ITEM>? Like I said before, I need the Rebeginner Weapon +7 Refining Voucher to refine a weapon for you.",
+        "pt": "[Gerente de Armas]\nEspere um minuto... Você não tem o <ITEM>[Refinador Inicial +7]<INFO>25428</INFO></ITEM>? Como eu disse antes, preciso do Refinador Inicial +7 para refinar uma arma para você.",
+        "es": "[Gerente de Armas]\nEspera un minuto... ¿No tienes el <ITEM>[Refinador Inicial +7]<INFO>25428</INFO></ITEM>? Como dije antes, necesito el Refinador Inicial +7 para refinar un arma para ti."
+    },
+    "CSg+DA": {
+        "ko": "[초심자 무기 담당자]\n초심자 무기 7제련 이용권은 우리 길드가 대상자들에게, 그러니까 자네같은 초보 모험가들에게 지급하는 일종의 혜택이란 말이야.",
+        "en": "[Rebeginner Weapon Manager]\nThe Rebeginner Weapon +7 Refining Voucher is a kind of benefit our guild provides to eligible individuals, that is, beginner adventurers like you.",
+        "pt": "[Gerente de Armas]\nO Refinador Inicial +7 é uma espécie de benefício que nossa guilda oferece para indivíduos elegíveis, ou seja, iniciantes como você.",
+        "es": "[Gerente de Armas]\nEl Refinador Inicial +7 es una especie de beneficio que nuestro gremio ofrece a individuos elegibles, es decir, principiantes como tú."
+    },
+    "Cig+DA": {
+        "ko": "[초심자 무기 담당자]\n이러이러한 걸 들고 오는 사람은 우리가 지원하기로 한 초보자이니 무기를 제련해 주십시오. 하는 증명서라고.",
+        "en": "[Rebeginner Weapon Manager]\nIt's a certificate that says, 'Please refine the weapon for this person, as they are a beginner we have agreed to support, who brings such and such item.'",
+        "pt": "[Gerente de Armas]\nÉ um certificado que diz: 'Por favor, refine a arma para esta pessoa, pois ela é um iniciante que concordamos em apoiar'.",
+        "es": "[Gerente de Armas]\nEs un certificado que dice: 'Por favor, refine el arma para esta persona, pues es un principiante que acordamos apoyar'."
+    },
+    "Cyg+DA": {
+        "ko": "[초심자 무기 담당자]\n아무에게나 무기들을 제련해 줄 수 없다고. 그걸 가지고 와야 우리가 제련 대상인지 아닌지 알아 볼 수가 있지.",
+        "en": "[Rebeginner Weapon Manager]\nWe can't refine weapons for just anyone. You need to bring that so we can identify if you are eligible for refining or not.",
+        "pt": "[Gerente de Armas]\nNão podemos refinar armas para qualquer um. Você precisa trazer isso para que possamos identificar se você é elegível para o refinamento ou não.",
+        "es": "[Gerente de Armas]\nNo podemos refinar armas para cualquiera. Necesitas traer esto para que podamos identificar si eres elegible para el refinamiento o no."
+    },
+    "DCg+DA": {
+        "ko": "[초심자 무기 담당자]\n저런! 아무 것도 들고 있지 않잖아? 전에 내가 지급한 ^0000CD초심자 무기^000000를 들고 와야지!",
+        "en": "[Rebeginner Weapon Manager]\nOh no! You're not holding anything? You need to bring the ^0000CDRebeginner Weapon^000000 I gave you before!",
+        "pt": "[Gerente de Armas]\nOh não! Você não está segurando nada? Precisa trazer a ^0000CDArma Inicial^000000 que eu te dei antes!",
+        "es": "[Gerente de Armas]\n¡Oh no! ¿No estás sosteniendo nada? ¡Necesitas traer el ^0000CDArma Inicial^000000 que te di antes!"
+    },
+    "DSg+DA": {
+        "ko": "[초심자 무기 담당자]\n이건 제련해 줄 수가 없어. 우리가 지급한 무기가 아니잖아? 우리가 지급한 무기들은 앞에 ^0000CD<초심자>^000000라는 단어가 붙는다고.",
+        "en": "[Rebeginner Weapon Manager]\nI can't refine this. This isn't a weapon we issued, is it? The weapons we issue have the word ^0000CD<Beginner>^000000 in front of their name.",
+        "pt": "[Gerente de Armas]\nNão posso refinar isso. Esta não é uma arma que emitimos, é? As armas que emitimos têm a palavra ^0000CD<Inicial>^000000 no nome.",
+        "es": "[Gerente de Armas]\nNo puedo refinar esto. Esta no es un arma que emitimos, ¿verdad? Las armas que emitimos tienen la palabra ^0000CD<Inicial>^000000 en el nombre."
+    },
+    "Dig+DA": {
+        "ko": "[초심자 무기 담당자]\n가서 초심자의 무기를 장착하고 오라고.",
+        "en": "[Rebeginner Weapon Manager]\nGo equip a Rebeginner Weapon and come back.",
+        "pt": "[Gerente de Armas]\nVá equipar uma Arma Inicial e volte.",
+        "es": "[Gerente de Armas]\nVe a equipar un Arma Inicial y vuelve."
+    },
+    "Dyg+DA": {
+        "ko": "[초심자 무기 담당자]\n잠깐만? 이거 ^0000CD이미 7이상 제련이 된^000000 거잖아? 제련을 더 하려고?",
+        "en": "[Rebeginner Weapon Manager]\nWait a second? This is ^0000CDalready refined to +7 or higher^000000? You want to refine it further?",
+        "pt": "[Gerente de Armas]\nEspere um segundo? Isso já está ^0000CDrefinado para +7 ou mais^000000? Quer refinar mais?",
+        "es": "[Gerente de Armas]\n¿Espera un segundo? ¿Esto ya está ^0000CDrefinado a +7 o más^000000? ¿Quieres refinarlo más?"
+    },
+    "ECg+DA": {
+        "ko": "[초심자 무기 담당자]\n그렇지만 이 제련 이용권으로 나에게서 제련을 한다고 해도 ^EE00007제련 밖에^000000 안돼. 다시 생각해 봐. 제련 이용권을 그냥 버리게 되는 거라고!",
+        "en": "[Rebeginner Weapon Manager]\nBut even if you use this refining voucher with me, it will ^EE0000only go up to +7^000000. Think again. You'll just be wasting the refining voucher!",
+        "pt": "[Gerente de Armas]\nMas mesmo se você usar este vale de refinamento comigo, ^EE0000só vai até +7^000000. Pense novamente. Você só vai estar desperdiçando o vale de refinamento!",
+        "es": "[Gerente de Armas]\nPero incluso si usas este vale de refinamiento conmigo, ^EE0000solo llega hasta +7^000000. Piensa de nuevo. ¡Solo estarás desperdiciando el vale de refinamiento!"
+    },
+    "ESg+DA": {
+        "ko": "큰일날 뻔했네요.",
+        "en": "That was close.",
+        "pt": "Quase que deu problema.",
+        "es": "Casi me meto en problemas."
+    },
+    "Eig+DA": {
+        "ko": "그래도 제련해주세요.",
+        "en": "Please refine it anyway.",
+        "pt": "Por favor, refine mesmo assim.",
+        "es": "Por favor, refina de todos modos."
+    },
+    "Eyg+DA": {
+        "ko": "[초심자 무기 담당자]\n그렇지? 잠시 착각한 거지? 그 무기는 이제 제법 강해졌으니까 가서 잘 사용 하라고! 더 강하게 제련하고 싶으면 제련소를 찾아 가면 돼.",
+        "en": "[Rebeginner Weapon Manager]\nRight? You were mistaken for a moment, right? That weapon has become quite strong now, so go use it well! If you want to refine it further, you can visit the Refinery.",
+        "pt": "[Gerente de Armas]\nCerto? Você se confundiu por um momento, certo? Essa arma ficou bastante forte agora, então vá usá-la! Se quiser refiná-la mais, pode visitar a Refinaria.",
+        "es": "[Gerente de Armas]\n¿Verdad? Te confundiste por un momento, ¿verdad? Este arma se volvió bastante fuerte ahora, ¡así que ve a usarla! Si quieres refinarla más, puedes visitar la Refinería."
+    },
+    "FCg+DA": {
+        "ko": "[초심자 무기 담당자]\n그래도 하겠다고? 원 이상한 사람을 다 보겠네? 알았어. 해달라니까 해주긴 하는데 ^EE0000그래봤자 7제련^000000이니까 명심하라고!",
+        "en": "[Rebeginner Weapon Manager]\nYou still want to do it? Well, I've seen all kinds of strange people. Alright. Since you asked, I'll do it, but ^EE0000remember, it will only be +7^000000!",
+        "pt": "[Gerente de Armas]\nAinda assim quer fazer? Bem, já vi todo tipo de pessoa estranha. Tudo bem. Já que você pediu, vou fazer, mas ^EE0000lembre-se, só será +7^000000!",
+        "es": "[Gerente de Armas]\n¿Aún así quieres hacerlo? Bueno, ya he visto todo tipo de persona extraña. Está bien. Ya que lo pediste, lo haré, pero ^EE0000¡recuerda, solo será +7^000000!"
+    },
+    "FSg+DA": {
+        "ko": "[초심자 무기 담당자]\n자네가 장착하고 있는 ^0000CD{0}^000000!! 내가 지금 당장 7제련 해줄게. 난 이 때가 제일 신나더라!",
+        "en": "[Rebeginner Weapon Manager]\nThe ^0000CD{0}^000000 you have equipped!! I'll refine it to +7 right now. This is the part that excites me the most!",
+        "pt": "[Gerente de Armas]\nVou refinar o item '^0000CD{0}^000000' para o +7 agora mesmo. Essa é a parte que mais me anima!",
+        "es": "[Gerente de Armas]\nVoy a refinar el ítem '^0000CD{0}^000000' a +7 ahora mismo. ¡Esta es la parte que más me emociona!"
+    },
+    "Fig+DA": {
+        "ko": "[초심자 무기 담당자]\n자, 여기 7제련이 된 ^0000CD{0}!^000000 전에 사용할 때보다 좀 더 강해졌을 거야.",
+        "en": "[Rebeginner Weapon Manager]\nHere, your ^0000CD{0} refined to +7!^000000 It should be stronger than before.",
+        "pt": "[Gerente de Armas]\nAqui, ^0000CD{0} com refino +7!^000000 Deve estar mais forte que antes.",
+        "es": "[Gerente de Armas]\n¡Aquí, ^0000CD{0} con refinamiento +7!^000000 Debe estar más fuerte que antes."
+    },
+    "Fyg+DA": {
+        "ko": "[초심자 무기 담당자]\n어서 가지고 가서 한 번 시험해 보게!!",
+        "en": "[Rebeginner Weapon Manager]\nGo ahead, take it and test it out!!",
+        "pt": "[Gerente de Armas]\nVá em frente, pegue e teste!!",
+        "es": "[Gerente de Armas]\n¡¡Adelante, tómalo y pruébalo!!"
+    }
+}

@@ -192,12 +192,12 @@
     "Zi2kBw": {
         "en": "[Rookie]\nDid you call it a pet child?\nSeems like they are completely leaving that guy to the adventurer",
         "pt": "[Lukie]\nVocê o chamou de Fofinho?\nParece que vai ser trabalho seu.",
-        "es": "[Lukie]\n¿Lo llamaste “niño mascota”?\nParece que le están dejando ese individuo al trotamundos."
+        "es": "[Lukie]\n¿Lo llamaste “Bonitito”?\nParece que le están dejando ese individuo al trotamundos."
     },
     "Zy2kBw": {
         "en": "[Rookie]\nIf you want, do not hesitate to tell me any time.\nI will give you a mission to kill the pet child.",
         "pt": "[Lukie]\nSe quiser, pode me dizer a qualquer momento.\nEu lhe darei uma missão para matar o Fofinho.",
-        "es": "[Lukie]\nSi lo quieres, no dudes en decírmelo en cualquier momento.\nTe daré una misión para matar al niño mascota."
+        "es": "[Lukie]\nSi lo quieres, no dudes en decírmelo en cualquier momento.\nTe daré una misión para matar al Bonitito."
     },
     "aC2kBw": {
         "en": "[Rookie]\nIt's in the central room. The place full of strange spirits in the middle of the central room.\nLet me open the door for you first.",
@@ -217,12 +217,12 @@
     "ay2kBw": {
         "en": "[Rookie]\nWelcome.\nWithout any further ado,\nWe would like to hunt the ^4D4DFFpet child^000000 guy. Will you join us?",
         "pt": "[Lukie]\nBoas-vindas.\nIndo direto ao ponto,\ngostaríamos de caçar o ^4D4DFFFofinho^000000. Quer nos acompanhar?",
-        "es": "[Lukie]\nBienvenido.\nSin más preámbulos,\nNos gustaría cazar a ese ^4D4DFFniño mascota^000000. ¿Nos acompañas?"
+        "es": "[Lukie]\nBienvenido.\nSin más preámbulos,\nNos gustaría cazar a ese ^4D4DFFBonitito^000000. ¿Nos acompañas?"
     },
     "bC2kBw": {
         "en": "I am the pet child hunter!",
         "pt": "Quero!",
-        "es": "¡Soy el cazador de niños mascota!"
+        "es": "¡Quiero!"
     },
     "bS2kBw": {
         "en": "Reject!",
@@ -307,7 +307,7 @@
     "fS2kBw": {
         "en": "[Tess]\nThe ^4D4DFFSchwartz Honor Token^000000 that I am about to give you is a sort of reward currency used in the Rebellion as well.",
         "pt": "[Tess]\nO ^4D4DFFBrasão de Honra^000000 que vou te entregar entregar é um tipo de moeda também usada na Rebelião.",
-        "es": "[Tess]\nLa ^4D4DFFInsignia de honor de Schwarzwald^000000 que te voy a dar es una especie de moneda de recompensa que también se usa en la Rebelión."
+        "es": "[Tess]\nEl ^4D4DFFEscudo de Honor^000000 que te voy a dar es una especie de moneda de recompensa que también se usa en la Rebelión."
     },
     "fi2kBw": {
         "en": "[Tess]\nSince you are an adventurer, we thought it would be helpful for you.\nYou can exchange it for an item you need.",
@@ -402,7 +402,7 @@
     "kC2kBw": {
         "en": "[Tess]\nPlease take charge of the investigation.\nIf you do this for us, we will give you the Schwartz Honor Token.",
         "pt": "[Tess]\nPor favor, assuma o controle da investigação.\nSe fizer isso por nós, daremos a você o Brasão de Honra.",
-        "es": "[Tess]\nPor favor, ocúpate de la investigación.\nSi haces esto por nosotros, te daremos la Insignia de honor de Schwarzwald."
+        "es": "[Tess]\nPor favor, ocúpate de la investigación.\nSi haces esto por nosotros, te daremos el Escudo de Honor."
     },
     "kS2kBw": {
         "en": "Accept.",
@@ -632,7 +632,7 @@
     "vi2kBw": {
         "en": "{0} Party's {1} member enters {2}",
         "pt": "{1}, do grupo {partyname} entrou no Laboratório Werner",
-        "es": "{1}, del grupo {partyname}, se unió al Laboratorio Werner."
+        "es": "{1}, del grupo {partyname}, entró al Laboratorio Werner."
     },
     "vy2kBw": {
         "en": "Around the gate, you feel the flow of the magic power is unstable.\nThe gate that was shaking and unstable disappeared after completing its job.",
@@ -652,7 +652,7 @@
     "wi2kBw": {
         "en": "[Rookie]\nBut let's call it a day.\nLet's go there once the pet child is found.",
         "pt": "[Lukie]\nMas vamos encerrar por hoje.\nVamos para lá assim que o Fofinho for encontrado.",
-        "es": "[Lukie]\nPero dejémoslo aquí por hoy.\nVayamos allí cuando aparezca el niño mascota."
+        "es": "[Lukie]\nPero dejémoslo aquí por hoy.\nVayamos allí cuando aparezca el Bonitito."
     },
     "wy2kBw": {
         "en": "I have no idea how to operate the gate!",
@@ -702,7 +702,7 @@
     "zC2kBw": {
         "en": "Nothing special now.",
         "pt": "Nada de especial.",
-        "es": "Nada especial ahora."
+        "es": "No hay nada especial."
     },
     "zS2kBw": {
         "en": "Hiding researcher",
@@ -877,6 +877,6 @@
     "7y2kBw": {
         "en": "{0} Party's {1} member enters {2}",
         "pt": "{1}, do grupo {0}, entrou no Laboratório Werner.",
-        "es": "El miembro {1} del grupo {0} entra a {2}."
+        "es": "{1}, del grupo {partyname}, entró al Laboratorio Werner."
     }
 }

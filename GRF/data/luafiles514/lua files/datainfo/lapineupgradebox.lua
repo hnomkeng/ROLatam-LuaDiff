@@ -3154,6 +3154,14 @@ tblLapineUpgradeBox = {
 					24398
 				},
 				{
+					"S_ImmunedAthena_Shield",
+					24399
+				},
+				{
+					"S_HardChamption_Shoes",
+					24400
+				},
+				{
 					"S_KingbirdAncient_Armor",
 					24401
 				},
@@ -12020,6 +12028,131 @@ tblLapineUpgradeBox = {
 				}
 			},
 			NeedSource_String = "Equipamento da Ilusão de Luanda"
+		},
+		Old_9Refine_Cube = {
+			ItemID = 105926,
+			NeedRefineMin = 0,
+			NeedRefineMax = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"Old_Rune_Circlet",
+					18971
+				},
+				{"Old_Mitra", 18972},
+				{
+					"Old_Driver_Band_R",
+					18973
+				},
+				{
+					"Old_Driver_Band_Y",
+					18974
+				},
+				{
+					"Old_Shadow_Handicraft",
+					18975
+				},
+				{
+					"Old_Minstrel_Song_Hat",
+					18976
+				},
+				{
+					"Old_Midas_Whisper",
+					18977
+				},
+				{
+					"Old_Magic_Stone_Hat",
+					18978
+				},
+				{
+					"Old_Blazing_Soul",
+					18979
+				},
+				{
+					"Old_Wind_Whisper",
+					18980
+				},
+				{
+					"Old_Dying_Swan",
+					18981
+				},
+				{
+					"Old_Circlet_Of_Bone",
+					18982
+				},
+				{
+					"Old_Protect_Of_Crown",
+					18983
+				},
+				{
+					"Old_Camo_RabbitHood",
+					18984
+				}
+			},
+			NeedSource_String = "Warrior's Helm"
+		},
+		Labyrinth_Box_IL = {
+			ItemID = 100423,
+			NeedRefineMin = 4,
+			NeedRefineMax = 9,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"Taegoolyeon_IL",
+					21050
+				},
+				{"Butcher_IL", 28254},
+				{
+					"Gold_Lux_IL",
+					32301
+				},
+				{
+					"Bazerald_IL",
+					28762
+				},
+				{
+					"Morpheus_Hood_IL",
+					19428
+				},
+				{
+					"Morpheus_Shawl_IL",
+					20948
+				}
+			},
+			NeedSource_String = "Equipamento da Ilusão do Labirinto"
+		},
+		S_Teddy_Labyrinth_IL = {
+			ItemID = 100424,
+			NeedRefineMin = 4,
+			NeedRefineMax = 11,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"Taegoolyeon_IL",
+					21050
+				},
+				{"Butcher_IL", 28254},
+				{
+					"Gold_Lux_IL",
+					32301
+				},
+				{
+					"Bazerald_IL",
+					28762
+				},
+				{
+					"Morpheus_Hood_IL",
+					19428
+				},
+				{
+					"Morpheus_Shawl_IL",
+					20948
+				}
+			},
+			NeedSource_String = "Equipamento da Ilusão do Labirinto"
 		}
 	},
 	get_lapine_box = function(in_box_id)

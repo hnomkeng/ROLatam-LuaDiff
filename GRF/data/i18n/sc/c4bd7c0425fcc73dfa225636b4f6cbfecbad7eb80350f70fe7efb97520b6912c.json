@@ -213,7 +213,7 @@
         "ko": "도시 상인연합 게시판",
         "en": "Union Board",
         "pt": "Quadro do Sindicato",
-        "es": "Cuadro del Sindicato"
+        "es": "Tablero de la Unión"
     },
     "RAIYDA": {
         "ko": "- 소지하고 계신 아이템이 많아 진행할 수 없습니다. -",
@@ -225,7 +225,7 @@
         "ko": "도시 상인연합 게시판을 이용하기 위해서는 도시 상인연합에 가입해야 합니다.",
         "en": "You must join the union to use the board.",
         "pt": "Você deve se juntar ao sindicato para usar o quadro.",
-        "es": "Debes unirte al sindicato para usar el tablón."
+        "es": "Debes unirte a la unión para usar el tablón."
     },
     "RgIYDA": {
         "ko": "[사무관 가뷰너스]\n조금만 기다려 주시겠어요? 새로 들어온 의뢰로 바꿔 게시해야 해서요.",
@@ -793,13 +793,13 @@
     },
     "pAIYDA": {
         "ko": "[B급-배달] 게펜 지하던전 2층",
-        "en": "[Delivery B] Geffen Tower 2nd floor",
+        "en": "[Delivery B] Geffen Dungeon 2nd floor",
         "pt": "[Entrega B] Torre de Geffen 2º andar",
         "es": "[Entrega B] Torre de Geffen, 2.º piso"
     },
     "pQIYDA": {
         "ko": "[B급-배달] 게펜 지하던전 3층",
-        "en": "[Delivery B] Geffen Tower 3rd Floor",
+        "en": "[Delivery B] Geffen Dungeon 3rd Floor",
         "pt": "[Entrega B] Torre de Geffen 3º andar",
         "es": "[Entrega B] Torre de Geffen, 3.º piso"
     },
@@ -841,13 +841,13 @@
     },
     "rAIYDA": {
         "ko": "[B급-배달] 묘르닐 폐광 2층",
-        "en": "[Delivery B] Abandoned Mine 2nd Floor",
+        "en": "[Delivery B] Dead Pit 2nd Floor",
         "pt": "[Entrega B] Mina Abandonada 2º andar",
         "es": "[Entrega B] Mina abandonada, 2.º piso"
     },
     "rQIYDA": {
         "ko": "[B급-배달] 묘르닐 폐광 3층",
-        "en": "[Delivery B] Abandoned Mine 3rd Floor",
+        "en": "[Delivery B] Dead Pit 3rd Floor",
         "pt": "[Entrega B] Mina Abandonada 3º andar",
         "es": "[Entrega B] Mina abandonada, 3.º piso"
     },
@@ -1027,13 +1027,13 @@
     },
     "ywIYDA": {
         "ko": "[C급-배달] 개미지옥 1층",
-        "en": "[Delivery C] Anthill 1st Floor",
+        "en": "[Delivery C] Ant hell 1st Floor",
         "pt": "[Entrega C] Formigueiro 1º andar",
         "es": "[Entrega C] Hormiguero 1.º piso"
     },
     "zAIYDA": {
         "ko": "[C급-배달] 개미지옥 2층",
-        "en": "[Delivery C] Anthill 2nd Floor",
+        "en": "[Delivery C] Ant hell 2nd Floor",
         "pt": "[Entrega C] Formigueiro 2º andar",
         "es": "[Entrega C] Hormiguero 2.º piso"
     },
@@ -1081,7 +1081,7 @@
     },
     "1AIYDA": {
         "ko": "[C급-배달] 게펜 지하던전 1층",
-        "en": "[Delivery C] Geffen Tower 1st Floor",
+        "en": "[Delivery C] Geffen Dungeon 1st Floor",
         "pt": "[Entrega C] Torre de Geffen 1º andar",
         "es": "[Entrega C] Torre de Geffen, 1.º piso"
     },
@@ -1093,7 +1093,7 @@
     },
     "1gIYDA": {
         "ko": "[C급-배달] 묘르닐 폐광 1층",
-        "en": "[Delivery C] Abandoned Mine 1st Floor",
+        "en": "[Delivery C] Dead Pit 1st Floor",
         "pt": "[Entrega C] Mina Abandonada 1º andar",
         "es": "[Entrega C] Mina abandonada, 1.º piso"
     },
@@ -1209,7 +1209,7 @@
         "ko": "도시 상인연합 의뢰를 하기 위해서는 우선 도시 상인연합에 가입해야 합니다.",
         "en": "First, you must join the City Union.",
         "pt": "Primeiro, você deve se afiliar ao Sindicato das Cidades.",
-        "es": "Primero, debes afiliarte al Sindicato de Ciudades."
+        "es": "Primero, debes afiliarte a la Unión de las Ciudades."
     },
     "6gIYDA": {
         "ko": "완료한 의뢰입니다. 누군가 청소했는지 지저분하던 게시판이 정리되어 있습니다.",
@@ -1227,7 +1227,7 @@
         "ko": "[A급-배달] 의뢰는 아쿠아마린 등급부터 가능합니다.",
         "en": "[Delivery A] These missions are only available for the Aquamarine level.",
         "pt": "[Entrega A] Essas missões só estão disponíveis para o nível Aquamarina.",
-        "es": "[Entrega A] Estas misiones solo están disponibles para el nivel Aquamarina."
+        "es": "[Entrega A] Estas misiones solo están disponibles para el nivel Aguamarina."
     },
     "7QIYDA": {
         "ko": "의뢰용지가 있어야 할 자리는 다른 누군가 가져간 듯 비어져있습니다.",
@@ -1293,11 +1293,11 @@
         "ko": "바포메트",
         "en": "Baphomet",
         "pt": "Bafomé",
-        "es": "Bafomé"
+        "es": "Baphomet"
     },
     "+AIYDA": {
         "ko": "목격장소\n봉인의 신전",
-        "en": "Location\nSealed Shrine",
+        "en": "Location\nSealed Catacomb",
         "pt": "Local\nAltar do Selo",
         "es": "Ubicación\nAltar del Sello"
     },
@@ -1339,7 +1339,7 @@
     },
     "/wIYDA": {
         "ko": "목격장소\n옛 글래스트 헤임",
-        "en": "Location\nOld Glastheim",
+        "en": "Location\nOld Glast heim",
         "pt": "Local\nMaldição de Glastheim",
         "es": "Ubicación\nMaldición de Glastheim"
     },
@@ -1347,11 +1347,11 @@
         "ko": "페이스웜 퀸",
         "en": "Faceworm Queen",
         "pt": "Rainha Verme",
-        "es": "Reina Gusano"
+        "es": "Reina Lombrirrostro"
     },
     "AQMYDA": {
         "ko": "목격장소\n페이스웜의 둥지",
-        "en": "Location\nFaceworm Nest",
+        "en": "Location\nFaceworm's Nest",
         "pt": "Local\nCovil de Vermes",
         "es": "Ubicación\nCueva de los gusanos"
     },
@@ -1381,13 +1381,13 @@
     },
     "BgMYDA": {
         "ko": "모로크의 네크로맨서",
-        "en": "Necromancer of Morroc",
+        "en": "Morocc Necromancer",
         "pt": "Necromante de Morroc",
-        "es": "Necromante de Morroc"
+        "es": "Nigromante de Morroc"
     },
     "BwMYDA": {
         "ko": "목격장소\n모르스의 동굴",
-        "en": "Location\nCave of Mors",
+        "en": "Location\nMorse's Cave",
         "pt": "Local\nCaverna de Mors",
         "es": "Ubicación\nCueva de Mors"
     },
@@ -1399,7 +1399,7 @@
     },
     "CQMYDA": {
         "ko": "목격장소\n비오스의 섬",
-        "en": "Location\nBios Island",
+        "en": "Location\nIsle of Bios",
         "pt": "Local\nIlha Bios",
         "es": "Ubicación\nIsla Bios"
     },
@@ -1453,9 +1453,9 @@
     },
     "EgMYDA": {
         "ko": "목격장소\n펜릴과 사라",
-        "en": "Location\nSarah vs. Fenrir",
+        "en": "Location\nFenrir and Sarah",
         "pt": "Local\nSarah vs Fenrir",
-        "es": "Local\nSarah contra Fenrir"
+        "es": "Ubicación\nSarah vs Fenrir"
     },
     "EwMYDA": {
         "ko": "[현상수배]\n현상금 연합의 증표 150",
@@ -1471,7 +1471,7 @@
     },
     "FQMYDA": {
         "ko": "목격장소\n비공정 습격",
-        "en": "Location\nAirship Raid",
+        "en": "Location\nAssault on the Airship",
         "pt": "Local\nInvasão ao Aeroplano",
         "es": "Ubicación\nInvasión Aérea"
     },
@@ -1561,7 +1561,7 @@
     },
     "JAMYDA": {
         "ko": "목격장소\n사라의 기억",
-        "en": "Location\nMemories of Sarah",
+        "en": "Location\nSara's Memory",
         "pt": "Local\nMemórias de Sarah",
         "es": "Ubicación\nMemorias de Sarah"
     },
@@ -1701,7 +1701,7 @@
         "ko": "물품 - 성수 10\n보상 - 연합의 증표 40",
         "en": "Item - 10 Holy Water\nUnion Coins: 40",
         "pt": "Item - 10 Água Benta\nMoedas Sindicais: 40",
-        "es": "Objeto: 10 agua bendita\nMonedas sindicales: 40"
+        "es": "Objeto: 10 Agua Bendita\nMonedas sindicales: 40"
     },
     "PAMYDA": {
         "ko": "인수자 - 쉐도우체이서 액토",
@@ -2431,7 +2431,7 @@
     },
     "tQMYDA": {
         "ko": "[물품의뢰서-B]\n게펜 지하 던전 2층",
-        "en": "[Delivery B]\nGeffen Tower 2nd floor",
+        "en": "[Delivery B]\nGeffen Dungeon 2nd floor",
         "pt": "[Entrega B]\nTorre de Geffen 2º andar",
         "es": "[Entrega B]\nTorre de Geffen, 2.º piso"
     },
@@ -2443,7 +2443,7 @@
     },
     "twMYDA": {
         "ko": "[물품의뢰서-B]\n게펜 지하 던전 3층",
-        "en": "[Delivery B]\nGeffen Tower 3rd floor",
+        "en": "[Delivery B]\nGeffen Dungeon 3rd floor",
         "pt": "[Entrega B]\nTorre de Geffen 3º andar",
         "es": "[Entrega B]\nTorre de Geffen, 3.º piso"
     },
@@ -2509,7 +2509,7 @@
     },
     "wgMYDA": {
         "ko": "[물품의뢰서-B]\n묘르닐 폐광 2층",
-        "en": "[Delivery B]\nAbandoned Mine 2nd Floor",
+        "en": "[Delivery B]\nDead Pit 2nd Floor",
         "pt": "[Entrega B]\nMina Abandonada 2º andar",
         "es": "[Entrega B]\nMina abandonada 2.º piso"
     },
@@ -2521,7 +2521,7 @@
     },
     "xAMYDA": {
         "ko": "[물품의뢰서-B]\n묘르닐 폐광 3층",
-        "en": "[Delivery B]\nAbandoned Mine 3rd Floor",
+        "en": "[Delivery B]\nDead Pit 3rd Floor",
         "pt": "[Entrega B]\nMina Abandonada 3º andar",
         "es": "[Entrega B]\nMina abandonada, 3.º piso"
     },
@@ -2857,9 +2857,9 @@
     },
     "/AMYDA": {
         "ko": "[물품의뢰서-C]\n알베르타 침몰선 1층",
-        "en": "[Delivery C]\nGhost Ship 1st Floor",
+        "en": "[Delivery C]\nSunken Ship 1st Floor",
         "pt": "[Entrega C]\nNavio Fantasma 1º andar",
-        "es": "[Entrega C]\nBarco fantasma, 1.º piso"
+        "es": "[Entrega C]\nBarco Hundido, 1.º piso"
     },
     "/QMYDA": {
         "ko": "물품 - 성수 10\n보상 - 연합의 증표 20",
@@ -2875,7 +2875,7 @@
     },
     "/wMYDA": {
         "ko": "[물품의뢰서-C]\n모로크 개미지옥 던전 1층",
-        "en": "[Delivery C]\nHellish Anthill 1st Floor",
+        "en": "[Delivery C]\nHellish Ant hell 1st Floor",
         "pt": "[Entrega C]\nFormigueiro Infernal 1º andar",
         "es": "[Entrega C]\nHormiguero infernal, 1.º piso"
     },
@@ -2887,7 +2887,7 @@
     },
     "AQQYDA": {
         "ko": "[물품의뢰서-C]\n모로크 개미지옥 던전 2층",
-        "en": "[Delivery C]\nHellish Anthill 2nd Floor",
+        "en": "[Delivery C]\nHellish Ant hell 2nd Floor",
         "pt": "[Entrega C]\nFormigueiro Infernal 2º andar",
         "es": "[Entrega C]\nHormiguero infernal, 2.º piso"
     },
@@ -2941,7 +2941,7 @@
     },
     "CgQYDA": {
         "ko": "인수자 - 상단고양이 고씨",
-        "en": "Applicant - Patinhas",
+        "en": "Applicant - Pawz",
         "pt": "Requerente - Patinhas",
         "es": "Solicitante: Patitas"
     },
@@ -3001,7 +3001,7 @@
     },
     "FAQYDA": {
         "ko": "[물품의뢰서-C]\n게펜 지하 던전 1층",
-        "en": "[Delivery C]\nGeffen Tower 1st Floor",
+        "en": "[Delivery C]\nGeffen Dungeon 1st Floor",
         "pt": "[Entrega C]\nTorre de Geffen 1º andar",
         "es": "[Entrega C]\nTorre de Geffen, 1.º piso"
     },
@@ -3037,7 +3037,7 @@
     },
     "GgQYDA": {
         "ko": "[물품의뢰서-C]\n묘르닐 폐광 1층",
-        "en": "[Delivery C]\nAbandoned Mine 1st Floor",
+        "en": "[Delivery C]\nDead Pit 1st Floor",
         "pt": "[Entrega C]\nMina Abandonada 1º andar",
         "es": "[Entrega C]\nMina abandonada, 1.º piso"
     },
@@ -3219,7 +3219,7 @@
         "ko": "도시 상인연합 게시판에서 의뢰용지를 챙겼습니다.",
         "en": "You have accepted the mission.",
         "pt": "Você aceitou a missão.",
-        "es": "Ha aceptado la misión."
+        "es": "Has aceptado la misión."
     },
     "OQQYDA": {
         "ko": "사무관 가뷰너스",
@@ -3231,13 +3231,13 @@
         "ko": "[사무관 가뷰너스]\n반가워요~ 모험가님. 전 가뷰너스라고 해요. 도시 상인연합에는 처음 오셨죠?",
         "en": "[Government Official]\nNice to meet you, traveler. I am a Government Official. You are interested in joining the Cities Union, aren't you?",
         "pt": "[Oficial do Governo]\nPrazer em te conhecer, viajante. Eu sou uma Oficial do Governo. Você tem interesse em participar do Sindicato das Cidades, não é?",
-        "es": "[Funcionaria del Gobierno]\nEncantada de conocerte, viajero. Soy una funcionaria del Gobierno. ¿Te interesa participar en el Sindicato de Ciudades, verdad?"
+        "es": "[Funcionaria del Gobierno]\nEncantada de conocerte, viajero. Soy una funcionaria del Gobierno. ¿Te interesa participar en el Unión de las Ciudades, verdad?"
     },
     "OwQYDA": {
         "ko": "[사무관 가뷰너스]\n도시 상인연합은 어떤 곳인지 많은 분들이 물어보시는 것 위주로 리스트를 꾸려봤어요.",
         "en": "[Government Official]\nI've prepared a list of frequently asked questions that people ask when they join the union.",
         "pt": "[Oficial do Governo]\nEu preparei uma lista de perguntas frequentes que as pessoas fazem quando se afiliam ao sindicato.",
-        "es": "[Funcionaria del Gobierno]\nHe preparado una lista de preguntas frecuentes que la gente suele hacer cuando se afilia al sindicato."
+        "es": "[Funcionaria del Gobierno]\nHe preparado una lista de preguntas frecuentes que la gente suele hacer cuando se afilia la unión."
     },
     "PAQYDA": {
         "ko": "[사무관 가뷰너스]\n궁금한걸 물어 봐주세요.",
@@ -3255,7 +3255,7 @@
         "ko": "도시 상인연합이란?",
         "en": "What is the Cities Union?",
         "pt": "O que é o Sindicato das Cidades?",
-        "es": "¿Qué es el Sindicato de Ciudades?"
+        "es": "¿Qué es la Unión de las Ciudades?"
     },
     "PwQYDA": {
         "ko": "등급에 대해..",
@@ -3279,7 +3279,7 @@
         "ko": "[사무관 가뷰너스]\n도시 상인연합은\n프론테라 게펜 모로크 폐이욘 유노 리히타르젠 아인브로크 라헬 베인스 9개의 도시 상인들이 주축이 되어 만든 연합이에요.",
         "en": "[Government Official]\nThe Union of Cities.\nThis is a union between the 9 cities: Prontera, Morroc, Geffen, Payon, Juno, Einbroch, Lighthalzen, Rachel, and Veins.",
         "pt": "[Oficial do Governo]\nO Sindicato das Cidades.\nTrata-se de uma união entre as 9 cidades: Prontera, Morroc, Geffen, Payon, Juno, Einbroch, Lighthalzen, Rachel e Veins.",
-        "es": "[Funcionaria del Gobierno]\nEl Sindicato de Ciudades.\nSe trata de una unión entre las 9 ciudades: Prontera, Morroc, Geffen, Payon, Juno, Einbroch, Lighthalzen, Rachel y Veins."
+        "es": "[Funcionaria del Gobierno]\nEl Unión de las Ciudades.\nSe trata de una unión entre las 9 ciudades: Prontera, Morroc, Geffen, Payon, Juno, Einbroch, Lighthalzen, Rachel y Veins."
     },
     "QwQYDA": {
         "ko": "[사무관 가뷰너스]\n연합을 만든 김에 조금 특별한 배달 서비스를 시작했을 뿐이고 비싼 땅값 때문에 연합 사무실은 못 구한데다. 서비스의 치솟는 인기 때문에 배달 물량은 점점 많아지고 해서",
@@ -3297,7 +3297,7 @@
         "ko": "[사무관 가뷰너스]\n연합이래서 거창해 보이지만 별거 없죠? 안타깝게도 도시 상인연합에서 하는 일은 이게 다에요. 연합이 더 커진 나중 일은 모르겠지만..",
         "en": "[Government Official]\nIt seems big, but it's no big deal. Unfortunately, not all cities have agreed to participate, but who knows, maybe one day the Union will grow...",
         "pt": "[Oficial do Governo]\nParece grande, mas não é nada demais. Infelizmente, nem todas as cidades aceitaram participar, mas quem sabe um dia o Sindicato cresça...",
-        "es": "[Funcionaria del Gobierno]\nParece grande, pero no es gran cosa. Por desgracia, no todas las ciudades han aceptado participar, pero quién sabe, quizá algún día el Sindicato crezca...."
+        "es": "[Funcionaria del Gobierno]\nParece grande, pero no es gran cosa. Por desgracia, no todas las ciudades han aceptado participar, pero quién sabe, quizá algún día la Unión crezca...."
     },
     "RgQYDA": {
         "ko": "[사무관 가뷰너스]\n아무래도 물건을 배달하는 일이다 보니 신용 문제도 있고 해서",
@@ -3307,15 +3307,15 @@
     },
     "RwQYDA": {
         "ko": "[사무관 가뷰너스]\n일하는 모험가 분들을 부득이 ^FFFAAA아메디스트 ^3D83E6사드오닉스 ^C33120아쿠아마린 ^F10FF1다이아몬드^000000 4단계 등급으로 나눠 관리하고 있어요.",
-        "en": "[Government Official]\nThe fame of adventurers is divided into 4 levels: ^FFFAAAAmethyst, Peridot, Aquamarine, and Diamond^000000.",
-        "pt": "[Oficial do Governo]\nA fama dos aventureiros é dividida entre 4 níveis: ^FFFAAAAmetista, Peridoto, Aquamarina e Diamante^000000.",
-        "es": "[Funcionaria del Gobierno]\nLa fama de los aventureros se divide en cuatro niveles: ^FFFAAAAmatista, Peridoto, Aguamarina y Diamante^000000."
+        "en": "[Government Official]\nThe fame of adventurers is divided into 4 levels: ^FFFAAAAmethyst, ^3D83E6Peridot, ^C33120Aquamarine, and ^F10FF1Diamond^000000.",
+        "pt": "[Oficial do Governo]\nA fama dos aventureiros é dividida entre 4 níveis: ^FFFAAAAmetista, ^3D83E6Peridoto, ^C33120Aquamarina e ^F10FF1Diamante^000000.",
+        "es": "[Funcionaria del Gobierno]\nLa fama de los aventureros se divide en cuatro niveles: ^FFFAAAAmatista, ^3D83E6Peridoto, ^C33120Aguamarina y ^F10FF1Diamante^000000."
     },
     "SAQYDA": {
         "ko": "[사무관 가뷰너스]\n어렵고 힘들긴 하지만 착실하게 도시 상인연합의 의뢰를 하다 보면 등급이 오르니까 너무 걱정 마세요.",
         "en": "[Government Official]\nIt may seem difficult, but don't worry about it. Just complete the missions and your fame in the city will increase.",
         "pt": "[Oficial do Governo]\nPode parecer difícil, mas não se preocupe com isso. Basta fazer as missões que sua fama na cidade vai aumentando.",
-        "es": "[Funcionaria del Gobierno]\nPuede parecer difícil, pero no se preocupe por eso. Solo tiene que completar las misiones y su fama en la ciudad irá aumentando."
+        "es": "[Funcionaria del Gobierno]\nPuede parecer difícil, pero no se preocupe por eso. Simplemente completa las misiones y tu fama en la ciudad aumentará."
     },
     "SQQYDA": {
         "ko": "[사무관 가뷰너스]\n열심히 하다 보면 언젠가는 찬란하게 빛나는 다이아몬드 등급이 되지 않겠어요?",
@@ -3333,7 +3333,7 @@
         "ko": "[사무관 가뷰너스]\n모험가님들을 고용하기로 조합에서 결정하면서 본격적으로 현상수배 의뢰까지 취급하기 시작했어요. 덕분에 제 일만 산더미.. 에휴..",
         "en": "[Government Official]\nThat's why the union decided to leave this matter to the adventurers... hehe... and you guys are doing very well...",
         "pt": "[Oficial do Governo]\nPor isso, o sindicato decidiu deixar esse assunto para os aventureiros... hehe... e vocês estão se saindo muito bem...",
-        "es": "[Funcionaria del Gobierno]\nPor eso, el sindicato decidió dejar este asunto en manos de los aventureros... jeje... y vosotros lo estáis haciendo muy bien...."
+        "es": "[Funcionaria del Gobierno]\nPor eso, la unión decidió dejar este asunto en manos de los aventureros... jeje... y a ustedes les está yendo muy bien…"
     },
     "TAQYDA": {
         "ko": "[사무관 가뷰너스]\n매주 수요일 오전 4시에 새 의뢰로 변경되고요. ^FFFAAA아메디스트^000000 등급이라도 도전할 수 있으니 능력과 여유가 되시면 한번 도전해보세요.",
@@ -3345,7 +3345,7 @@
         "ko": "[사무관 가뷰너스]\n저희 도시 상인연합의 가장 핵심적인 서비스라고 할 수 있어요.",
         "en": "[Government Official]\nThis is our union's most important service.",
         "pt": "[Oficial do Governo]\nEsse é o serviço mais importante do nosso sindicato.",
-        "es": "[Funcionaria del Gobierno]\nEste es el servicio más importante de nuestro sindicato."
+        "es": "[Funcionaria del Gobierno]\nEste es el servicio más importante de nuestra unión."
     },
     "TgQYDA": {
         "ko": "[사무관 가뷰너스]\n눈치 채셨을지 모르겠지만, 수 많은 단체들이 세계 각지에서 활동중인 건 알고 계시죠?",
@@ -3369,7 +3369,7 @@
         "ko": "[사무관 가뷰너스]\n이번에 사업이 대 히트 치면서 모험가님들까지 고용했으니 조금 더 빠르고 안전한 서비스 제공을 목표로 해도 되겠죠?",
         "en": "[Government Official]\nAs demand has increased, we are hiring adventurers to help us, since you can reach these more dangerous places, right?",
         "pt": "[Oficial do Governo]\nComo a demanda aumentou, estamos contratando aventureiros para nos ajudar, já que vocês conseguem chegar nesses lugares mais perigos, não é?",
-        "es": "[Funcionaria del Gobierno]\nComo la demanda ha aumentado, estamos contratando aventureros para que nos ayuden, ya que ustedes pueden llegar a esos Ubicaciónes más peligrosos, ¿no?"
+        "es": "[Funcionaria del Gobierno]\nDebido al aumento de la demanda, estamos contratando aventureros para que nos ayuden, ya que ustedes pueden llegar a estos lugares más peligrosos, ¿no?"
     },
     "UgQYDA": {
         "ko": "[사무관 가뷰너스]\n뭐 더 궁금한 점은 없으신가요?",
@@ -3387,7 +3387,7 @@
         "ko": "[사무관 가뷰너스]\n알겠습니다. 그럼 처음 오셨으니 도시 상인연합의 아메디스트 등급에 이름을 올려둘게요.",
         "en": "[Government Official]\nWell, since this is your first time, I'll put your name in the Amethyst rank of our union.",
         "pt": "[Oficial do Governo]\nBom, já que essa é a sua primeira vez, vou colocar seu nome no rank Ametista do nosso sindicato.",
-        "es": "[Funcionaria del Gobierno]\nBueno, como es tu primera vez, pondré tu nombre en el rango Amatista de nuestro sindicato."
+        "es": "[Funcionaria del Gobierno]\nBueno, como es tu primera vez, pondré tu nombre en el rango Amatista de nuestra unión."
     },
     "VQQYDA": {
         "ko": "[사무관 가뷰너스]\n열심히 일하셔서 꼭 다이아몬드 등급에 도달하셨으면 좋겠네요. 수고해주세요.",
@@ -3399,7 +3399,7 @@
         "ko": "[사무관 가뷰너스]\n아! 도시 상인연합에 최근에 가입하신 모험가 분이죠? 제게 무슨 볼일이라도?",
         "en": "[Government Official]\nHey! You joined the City Union, didn't you? Do you have something to discuss with me?",
         "pt": "[Oficial do Governo]\nOpa! Você se filiou ao Sindicato das Cidades, não é? Você tem algo para tratar comigo?",
-        "es": "[Funcionaria del Gobierno]\n¡Hola! Te has afiliado al Sindicato de Ciudades, ¿verdad? ¿Tienes algo que tratar conmigo?"
+        "es": "[Funcionaria del Gobierno]\n¡Hola! Te has afiliado a la Unión de las Ciudades, ¿verdad? ¿Tienes algo que tratar conmigo?"
     },
     "VwQYDA": {
         "ko": "[사무관 가뷰너스]\n아..! 성함이..? 아! 분명 자주 뵙는 분이라 외웠었는데.. 에잉 제게 무슨 볼일이라도 있으세요?",
@@ -3423,7 +3423,7 @@
         "ko": "[사무관 가뷰너스]\n안녕하세요. 제게 무슨 볼일이라도 있으세요?",
         "en": "[Government Official]\nHello, is there something you need to discuss with me?",
         "pt": "[Oficial do Governo]\nOlá, tem algo a tratar comigo?",
-        "es": "[Funcionaria del Gobierno]\nHola, ¿tienes algo que tratar conmigo?"
+        "es": "[Funcionaria del Gobierno]\nHola, ¿hay algo que necesites hablar conmigo?"
     },
     "WwQYDA": {
         "ko": "[사무관 가뷰너스]\n으.. 많이 봤는데.. 아! 아니에요. 제게 무슨 볼일이라도 있으세요?",
@@ -3495,7 +3495,7 @@
         "ko": "[사무관 가뷰너스]\n아.. 보고할 의뢰도 없으면서.. 귀찮게..",
         "en": "[Government Official]\nOh, you don't even have a mission to report...",
         "pt": "[Oficial do Governo]\nAh, você nem tem missão para reportar...",
-        "es": "[Funcionaria del Gobierno]\nAh, ni siquiera tienes ninguna misión que informar..."
+        "es": "[Funcionaria del Gobierno]\nAh, ni siquiera tienes una misión que reportar..."
     },
     "ZwQYDA": {
         "ko": "[사무관 가뷰너스]\n보고할 의뢰는요? 장난치지 말아주세요.",
@@ -3549,13 +3549,13 @@
         "ko": "[사무관 가뷰너스]\n(Code-01)치명적인 오류가 발생하였습니다. 재시도 시에도 같은 형상이 발생한다면 스크린샷을 찍어 운영팀에 문의해 주세요.",
         "en": "[Government Official]\n(Code-01) An error has occurred. Please take a screenshot and send it to Support.",
         "pt": "[Oficial do Governo]\n(Code-01) Um erro ocorreu. Por favor, tire uma screenshot e envie para a Central de Suporte.",
-        "es": "[Funcionaria del Gobierno]\n(Código-01) Se ha producido un error. Por favor, haz una captura de pantalla y envíala al Centro de asistencia."
+        "es": "[Funcionaria del Gobierno]\n(Código-01) Se ha producido un error. Por favor, haz una captura de pantalla y envíala al Centro de Soporte."
     },
     "cAQYDA": {
         "ko": "[사무관 가뷰너스]\n아! 이번 의뢰가 도시 상인연합에서 10번째 의뢰였네요.",
         "en": "[Government Official]\nWow! That's the 10th mission completed in the City Union.",
         "pt": "[Oficial do Governo]\nEita! Essa é a 10ª missão completada no Sindicato das Cidades.",
-        "es": "[Funcionaria del Gobierno]\n¡Vaya! Esta es la décima misión completada en el Sindicato de Ciudades."
+        "es": "[Funcionaria del Gobierno]\n¡Vaya! Esta es la décima misión completada en la Unión de las Ciudades."
     },
     "cQQYDA": {
         "ko": "사드오닉스 등급이 되셨네요. 축하해요.",
@@ -3573,7 +3573,7 @@
         "ko": "[사무관 가뷰너스]\n우와! 이번 의뢰가 도시 상인연합에서 30번째 의뢰셨네요.",
         "en": "[Government Official]\nWow! That's the 30th mission completed in the City Union.",
         "pt": "[Oficial do Governo]\nUau! Essa é a 30ª missão completada no Sindicato das Cidades.",
-        "es": "[Funcionaria del Gobierno]\n¡Vaya! Esta es la misión número 30 completada en el Sindicato de Ciudades."
+        "es": "[Funcionaria del Gobierno]\n¡Guau! Esa es la misión número 30 completada en la Unión de las Ciudades."
     },
     "dAQYDA": {
         "ko": "아쿠아마린 등급이 되셨네요. 축하해요.",
@@ -3585,7 +3585,7 @@
         "ko": "[사무관 가뷰너스]\n아쿠아마린 등급이 되신 거 축하 드려요. 내일부터는 [A급-배달]의뢰까지 자유롭게 선택 가능하세요.",
         "en": "[Government Official]\nCongratulations on becoming Aquamarine. Starting tomorrow, [Delivery A] missions will be available to you!",
         "pt": "[Oficial do Governo]\nParabéns por se tornar Aquamarina. Começando amanhã, as missões [Entrega A] estarão disponíveis para você!",
-        "es": "[Funcionaria del Gobierno]\n¡Enhorabuena por convertirte en Aquamarina. A partir de mañana, las misiones [Entrega A] estarán disponibles para ti!"
+        "es": "[Funcionaria del Gobierno]\n¡Enhorabuena por convertirte en Aguamarina. A partir de mañana, las misiones [Entrega A] estarán disponibles para ti!"
     },
     "dgQYDA": {
         "ko": "[사무관 가뷰너스]\n다이아몬드 등급이 되실 때까지 힘내주세요.",
@@ -3615,7 +3615,7 @@
         "ko": "[사무관 가뷰너스]\n고생하셨어요. 도시 상인연합의 일이란 게 많이 힘들 텐데 익숙해지셨는지 모르겠네요.",
         "en": "[Government Official]\nGood work. The Syndicate's missions are difficult, but you're getting the hang of it.",
         "pt": "[Oficial do Governo]\nBom trabalho. As missões do Sindicato são difíceis, mas você está levando jeito.",
-        "es": "[Funcionaria del Gobierno]\nBuen trabajo. Las misiones del Sindicato son difíciles, pero se te da bien."
+        "es": "[Funcionaria del Gobierno]\nBuen trabajo. Las misiones de la Unión son difíciles, pero se te da bien."
     },
     "ewQYDA": {
         "ko": "[사무관 가뷰너스]\n언제나 깔끔한 일 처리 대단해요. 고생하셨습니다.",
@@ -3627,13 +3627,13 @@
         "ko": "[사무관 가뷰너스]\n{0} 님 같은 분이 안 계시면 도시 상인연합은 제대로 돌아가지 않을 거에요. 고생하셨습니다.",
         "en": "[Government Official]\nThe City Union wouldn't function as well if it weren't for you, {0}! Thank you.",
         "pt": "[Oficial do Governo]\nO Sindicato das Cidades não funcionaria tão bem se não fosse por você, {0}! Obrigada.",
-        "es": "[Funcionaria del Gobierno]\n¡El Sindicato de las Ciudades no funcionaría tan bien si no fuera por ti, {0}! Gracias."
+        "es": "[Funcionaria del Gobierno]\n¡La Unión de las Ciudades no funcionaría tan bien si no fuera por ti, {0}! Gracias."
     },
     "fQQYDA": {
         "ko": "[사무관 가뷰너스]\n의뢰를 포기하신다고요. 도시 상인연합의 의뢰들이 어렵다 보니 이해합니다. 어디 볼까요?.",
         "en": "[Government Official]\nQuit? I see. The Union's missions are tough. Which mission do you want to quit?",
         "pt": "[Oficial do Governo]\nAbandonar? Entendo. As missões do Sindicato são difíceis mesmo. Que missão quer desistir?",
-        "es": "[Funcionaria del Gobierno]\n¿Abandonar? Lo entiendo. Las misiones del Sindicato son realmente difíciles. ¿Qué misión quieres abandonar?"
+        "es": "[Funcionaria del Gobierno]\n¿Abandonar? Lo entiendo. Las misiones de la Unión son realmente difíciles. ¿Qué misión quieres abandonar?"
     },
     "fgQYDA": {
         "ko": "[사무관 가뷰너스]\n일에 제법 익숙해지셨던 게 아니었나요? 아니라면 어쩔 수 없죠. 그럼 어디 볼까요?",
@@ -4153,13 +4153,13 @@
     },
     "1AQYDA": {
         "ko": "[B급-배달] 게펜 지하던전 2층",
-        "en": "[Delivery B] Geffen Tower 2nd floor",
+        "en": "[Delivery B] Geffen Dungeon 2nd floor",
         "pt": "[Entrega B] Torre de Geffen 2º andar",
         "es": "[Entrega B] Torre de Geffen, 2.º piso"
     },
     "1QQYDA": {
         "ko": "[B급-배달] 게펜 지하던전 3층",
-        "en": "[Delivery B] Geffen Tower 3rd Floor",
+        "en": "[Delivery B] Geffen Dungeon 3rd Floor",
         "pt": "[Entrega B] Torre de Geffen 3º andar",
         "es": "[Entrega B] Torre de Geffen, 3.º piso"
     },
@@ -4201,13 +4201,13 @@
     },
     "3AQYDA": {
         "ko": "[B급-배달] 묘르닐 폐광 2층",
-        "en": "[Delivery B] Abandoned Mine 2nd Floor",
+        "en": "[Delivery B] Dead Pit 2nd Floor",
         "pt": "[Entrega B] Mina Abandonada 2º andar",
         "es": "[Entrega B] Mina abandonada, 2.º piso"
     },
     "3QQYDA": {
         "ko": "[B급-배달] 묘르닐 폐광 3층",
-        "en": "[Delivery B] Abandoned Mine 3rd Floor",
+        "en": "[Delivery B] Dead Pit 3rd Floor",
         "pt": "[Entrega B] Mina Abandonada 3º andar",
         "es": "[Entrega B] Mina abandonada, 3.º piso"
     },
@@ -4357,13 +4357,13 @@
     },
     "9gQYDA": {
         "ko": "[C급-배달] 개미지옥 1층",
-        "en": "[Delivery C] Anthill 1st Floor",
+        "en": "[Delivery C] Ant hell Floor 1",
         "pt": "[Entrega C] Formigueiro 1º andar",
         "es": "[Entrega C] Hormiguero 1.º piso"
     },
     "9wQYDA": {
         "ko": "[C급-배달] 개미지옥 2층",
-        "en": "[Delivery C] Anthill 2nd Floor",
+        "en": "[Delivery C] Ant hell Floor 2",
         "pt": "[Entrega C] Formigueiro 2º andar",
         "es": "[Entrega C] Hormiguero 2.º piso"
     },
@@ -4411,7 +4411,7 @@
     },
     "/wQYDA": {
         "ko": "[C급-배달] 게펜 지하던전 1층",
-        "en": "[Delivery C] Geffen Tower 1st Floor",
+        "en": "[Delivery C] Geffen Dungeon Floor 1",
         "pt": "[Entrega C] Torre de Geffen 1º andar",
         "es": "[Entrega C] Torre de Geffen, 1.º piso"
     },
@@ -4423,7 +4423,7 @@
     },
     "AQUYDA": {
         "ko": "[C급-배달] 묘르닐 폐광 1층",
-        "en": "[Delivery C] Abandoned Mine 1st Floor",
+        "en": "[Delivery C] Dead Pit 1st Floor",
         "pt": "[Entrega C] Mina Abandonada 1º andar",
         "es": "[Entrega C] Mina abandonada, 1.º piso"
     },
@@ -4539,7 +4539,7 @@
         "ko": "[사무관 가뷰너스]\n^A662D9{0}^000000\n의뢰는 다른 분이 가져가실 수 있도록 게시판에 다시 붙여놔야겠네요. 가져갈지는 모르겠지만..",
         "en": "[Government Official]\n^A662D9{0}^000000\nI've put this request back on the quest board so someone else can take it. I hope someone wants it...",
         "pt": "[Oficial do Governo]\n^A662D9{0}^000000\nColoquei essa solicitação de volta ao quadro de missões para que alguém possa aceitá-la. Espero que alguém queira...",
-        "es": "[Funcionaria del Gobierno]\n^A662D9{0}^000000\nHe vuelto a poner esta solicitud en el tablón de misiones para que alguien pueda aceptarla. Espero que alguien quiera..."
+        "es": "[Funcionaria del Gobierno]\n^A662D9{0}^000000\nHe vuelto a poner esta solicitud en el tablón de misiones para que alguien pueda aceptarla. Espero que alguien la quiera..."
     },
     "FQUYDA": {
         "ko": "[사무관 가뷰너스]\n^A662D9{0}^000000\n의뢰는 한번 더 확인 후에 게시판에 다시 붙여놔야겠네요.",
@@ -4623,13 +4623,13 @@
         "ko": "[사무관 가뷰너스]\n아 오늘은 {0}월의 첫날이네요. 이런 날은 신나게 놀아줘야 되는데..",
         "en": "[Government Official]\nToday is the first day of the month of {0}. My paycheck won't come in for another 4 days...",
         "pt": "[Oficial do Governo]\nHoje é o primeiro dia do mês de {0}. Meu salário só cai daqui a 4 dias...",
-        "es": "[Funcionaria del Gobierno]\nHoy es el primer día del mes de {0}. Mi sueldo no llegará hasta dentro de cuatro días..."
+        "es": "[Funcionaria del Gobierno]\nHoy es el primer día del mes de {0}. Mi sueldo no llegará hasta dentro de 4 días..."
     },
     "IwUYDA": {
         "ko": "[사무관 가뷰너스]\n아 벌써 {0}월의 마지막 날이네요. 이런 날은 신나게 놀아줘야 되는데..",
         "en": "[Government Official]\nToday is the last day of the month of {0}. My salary won't be paid for another 5 days...",
         "pt": "[Oficial do Governo]\nHoje é o último dia do mês de {0}. Meu salário só cai daqui a 5 dias...",
-        "es": "[Funcionaria del Gobierno]\nHoy es el último día del mes de {0}. Mi sueldo no llegará hasta dentro de cinco días..."
+        "es": "[Funcionaria del Gobierno]\nHoy es el último día del mes de {0}. Mi sueldo no llegará hasta dentro de 5 días..."
     },
     "JAUYDA": {
         "ko": "[사무관 가뷰너스]\n아아아아 오늘은 그냥 일하기 정말 싫다.",
@@ -4689,13 +4689,13 @@
         "ko": "[사무관 가뷰너스]\n주민들이 어려운 살림에 돈을 모아 현상금도 내걸었으니 한번 도전해보세요.",
         "en": "[Government Official]\nThe residents have set up a fund to pay for an advertisement asking for help.",
         "pt": "[Oficial do Governo]\nOs moradores fizeram uma vaquinha para pagar um anúncio pedindo ajuda.",
-        "es": "[Funcionaria del Gobierno]\nLos residentes hicieron una colecta para pagar un anuncio pidiendo ayuda."
+        "es": "[Funcionaria del Gobierno]\nLos residentes han creado un fondo para pagar un anuncio solicitando ayuda."
     },
     "LgUYDA": {
         "ko": "[사무관 가뷰너스]\n포트말라야에 부워여 동굴 이란 곳이 있다고 하던데, 가보셨는지 모르겠네요.",
         "en": "[Government Official]\nI don't know if you've heard of a cave in Malaya Harbor where the terrible Buwaya lives.",
         "pt": "[Oficial do Governo]\nNão sei se você já ouviu falar numa Caverna em Porto Malaya onde habita o terrível Buwaya.",
-        "es": "[Funcionaria del Gobierno]\nNo sé si has oído hablar de una cueva en Porto Malaya donde habita el terrible Buwaya."
+        "es": "[Funcionaria del Gobierno]\nNo sé si has oído hablar de una cueva en Puerto Malaya donde habita el terrible Buwaya."
     },
     "LwUYDA": {
         "ko": "[사무관 가뷰너스]\n부워여라는 몬스터가 살고 있어서 부워여 동굴이라는 것 같던데, 요즘 동굴에 갔다가 실종되는 사람이 많다고 해요.",
@@ -4707,7 +4707,7 @@
         "ko": "[사무관 가뷰너스]\n더 이상 안되겠다고 판단했는지 마을 주민들이 돈을 모아 현상금을 내걸었네요.",
         "en": "[Government Official]\nThe residents of Porto Malaya are asking adventurers for help in dealing with this situation.",
         "pt": "[Oficial do Governo]\nOs moradores de Porto Malaya estão pedindo ajuda aos aventureiros para lidar com essa situação.",
-        "es": "[Funcionaria del Gobierno]\nLos habitantes de Porto Malaya están pidiendo ayuda a los aventureros para hacer frente a esta situación."
+        "es": "[Funcionaria del Gobierno]\nLos habitantes de Puerto Malaya están pidiendo ayuda a los aventureros para hacer frente a esta situación."
     },
     "MQUYDA": {
         "ko": "[사무관 가뷰너스]\n으 이번 현상수배 의뢰는 제가 싫어하는 타입의 의뢰네요.",
@@ -4719,25 +4719,25 @@
         "ko": "[사무관 가뷰너스]\n뭐가 켕겨서 본인의 이름을 숨기고 의뢰를 하는지. 이런 의뢰는 딱히 정보도 없고..",
         "en": "[Government Official]\nPeople just don't fill out the form correctly, and there's no name on it for who requested this mission...",
         "pt": "[Oficial do Governo]\nAs pessoas simplesmente não preenchem o formulário corretamente e não tem o nome de quem pediu essa missão...",
-        "es": "[Funcionaria del Gobierno]\nLa gente simplemente no rellena el formulario correctamente y no pone el nombre de quien ha solicitado esta misión...."
+        "es": "[Funcionaria del Gobierno]\nLa gente simplemente no rellena el formulario correctamente y no pone el nombre de quien solicitó esta misión...."
     },
     "MwUYDA": {
         "ko": "[사무관 가뷰너스]\n옛 글래스트 헤임의 보스 암다이라스를 잡아달라고 하네요.",
         "en": "[Government Official]\nWell, ~someone~ requested that adventurers face Amdarais in the Old Glastheim.",
         "pt": "[Oficial do Governo]\nBom, ~alguém~ pediu que os aventureiros enfrentem Amdarais na Maldição de Glastheim.",
-        "es": "[Funcionaria del Gobierno]\nBueno, ~alguien~ ha pedido que los aventureros se enfrenten a Amdarais en La maldición de Glastheim."
+        "es": "[Funcionaria del Gobierno]\nBueno, ~alguien~ ha pedido que los aventureros se enfrenten a Amdarais en la Maldición de Glastheim."
     },
     "NAUYDA": {
         "ko": "[사무관 가뷰너스]\n도시 상인연합의 가맹연합이나 마찬가지인 알베르타 상인 연합의 의뢰네요.",
         "en": "[Government Official]\nThere's a request from the Alberta Guild.",
         "pt": "[Oficial do Governo]\nTem uma solicitação do Sindicato de Alberta.",
-        "es": "[Funcionaria del Gobierno]\nHay una solicitud del Sindicato de Alberta."
+        "es": "[Funcionaria del Gobierno]\nHay una solicitud del Gremio de Alberta."
     },
     "NQUYDA": {
         "ko": "[사무관 가뷰너스]\n알베르타에서 폐이욘으로 가는 무역로에 페이스 웜이 창궐했다는 것 같더라고요.",
         "en": "[Government Official]\nIt seems there is an infestation of Face Worms on the trade route between Alberta and Payon.",
         "pt": "[Oficial do Governo]\nParece que há uma infestação de Vermes com Rosto na rota comercial entre Alberta e Payon.",
-        "es": "[Funcionaria del Gobierno]\nParece que hay una plaga de gusanos con cara en la ruta comercial entre Alberta y Payon."
+        "es": "[Funcionaria del Gobierno]\nParece que hay una plaga de Lombrirrostro en la ruta comercial entre Alberta y Payon."
     },
     "NgUYDA": {
         "ko": "[사무관 가뷰너스]\n많은 관심 부탁 드려요.",
@@ -4809,7 +4809,7 @@
         "ko": "[사무관 가뷰너스]\n비오스 섬이란 곳의 보스인 사신 안쿠를 처리해 달라고 하던데..",
         "en": "[Government Official]\nThey want help eliminating the Reaper Ankou from Bios Island.",
         "pt": "[Oficial do Governo]\nEles querem ajuda para eliminar o Ceifador Ankou, da ilha Bios.",
-        "es": "[Funcionaria del Gobierno]\nQuieren ayuda para eliminar al segador Ankou, de la isla Bios."
+        "es": "[Funcionaria del Gobierno]\nQuieren ayuda para eliminar al Segador Ankou, de la isla Bios."
     },
     "QgUYDA": {
         "ko": "[사무관 가뷰너스]\n아아~ 다 필요 없고 잘생긴 컨티넨탈 가드 오빠들 보고 싶다.",
@@ -4845,7 +4845,7 @@
         "ko": "[사무관 가뷰너스]\n후 지겹네요. 이름도 못 밝히는 의뢰인들 연합에선 왜 이런 사람들 의뢰를 받아드리는지.",
         "en": "[Government Official]\nIt appears to be a stronger version of the Old Glastheim.",
         "pt": "[Oficial do Governo]\nParece ser uma versão mais forte da Maldição de Glastheim.",
-        "es": "[Funcionaria del Gobierno]\nParece ser una versión más fuerte de la maldición de Glastheim."
+        "es": "[Funcionaria del Gobierno]\nParece ser una versión más fuerte de la Maldición de Glastheim."
     },
     "SAUYDA": {
         "ko": "[사무관 가뷰너스]\n내가 연합 대표면 이런 의뢰는 절대 안 받을 텐데..",
@@ -5187,7 +5187,7 @@
         "ko": "[사무관 가뷰너스]\n도시 상인연합이 많이 세지긴 했군요. 예전엔 무명섬에 배달 같은 건 상상도 못했는데..",
         "en": "[Government Official]\nOur union has grown so much, I can't believe we've made it to Forgotten Island...",
         "pt": "[Oficial do Governo]\nO nosso sindicato cresceu muito, nem acredito que chegamos até a ilha Esquecida...",
-        "es": "[Funcionaria del Gobierno]\nNuestro sindicato ha crecido mucho, no puedo creer que hayamos llegado hasta la isla Olvidada..."
+        "es": "[Funcionaria del Gobierno]\nNuestra unión ha crecido mucho, no puedo creer que hayamos llegado hasta la isla Olvidada..."
     },
     "gQUYDA": {
         "ko": "[사무관 가뷰너스]\n[A급-배달]의뢰인이 엘렌양 이었구나.",
@@ -5499,7 +5499,7 @@
         "ko": "[사무관 가뷰너스]\n이용해주시는 분들 중에 와비님이 도시 상인연합을 가장 유용하게 잘 사용하시는 것 같아요.",
         "en": "[Government Official]\nWabi is such a frequent customer of our Union that I can't stand to look at his face anymore.",
         "pt": "[Oficial do Governo]\nWabi é um cliente tão frequente do nosso Sindicato, que eu não aguento mais olhar para a cara dele.",
-        "es": "[Funcionaria del Gobierno]\nWabi es un cliente tan habitual de nuestro sindicato que ya no soporto verle la cara."
+        "es": "[Funcionaria del Gobierno]\nWabi es un cliente tan habitual de nuestra Unión que ya no soporto verle la cara."
     },
     "tQUYDA": {
         "ko": "[사무관 가뷰너스]\n오늘 [B급-배달]의뢰는 페이욘 던전 2층에 은화살을 배달하는 의뢰군요.",
@@ -5559,7 +5559,7 @@
         "ko": "[사무관 가뷰너스]\n종종 길드에서 임무중인 길드원에게 보급품을 보낼 때 도시 상인연합을 이용하기도 하더라고요.",
         "en": "[Government Official]\nIt's quite common for the Mercenary Guild to request supplies from the Syndicate.",
         "pt": "[Oficial do Governo]\nÉ bem comum a Guilda dos Mercenários solicitar suprimentos do Sindicato.",
-        "es": "[Funcionaria del Gobierno]\nEs muy común que el Gremio de Mercenarios solicite suministros al Sindicato."
+        "es": "[Funcionaria del Gobierno]\nEs muy común que el Gremio de Mercenarios solicite suministros a la Unión."
     },
     "vwUYDA": {
         "ko": "[사무관 가뷰너스]\n오늘 [B급-배달]의뢰의 의뢰인은 이계에서 온 여행자에요.",
@@ -5739,7 +5739,7 @@
         "ko": "[사무관 가뷰너스]\n포트말라야는 종종 거액의 현상수배 의뢰를 의뢰해 와서 도시 상인연합과는 긴밀한 관계에요.",
         "en": "[Government Official]\nAlthough not part of the Cities Union, Port Malaya has a great relationship with the association.",
         "pt": "[Oficial do Governo]\nApesar de não fazer parte do Sindicato das Cidades, Porto Malaya tem um ótimo relacionamento com a associação.",
-        "es": "[Funcionaria del Gobierno]\nAunque no forma parte del Sindicato de Ciudades, Puerto Malaya tiene una excelente relación con la asociación."
+        "es": "[Funcionaria del Gobierno]\nAunque no forma parte de la Unión de las Ciudades, Puerto Malaya tiene una excelente relación con la asociación."
     },
     "3QUYDA": {
         "ko": "[사무관 가뷰너스]\n아마 수련 중에 필요한 보급품을 신청한 모양이네요.",
@@ -5757,13 +5757,13 @@
         "ko": "[사무관 가뷰너스]\n꽤 오래 전부터 도시 상인연합과는 긴밀한 관계에 있는 마을이에요.",
         "en": "[Government Official]\nAlthough not part of the City Union, Amatsu has a great relationship with the association.",
         "pt": "[Oficial do Governo]\nApesar de não fazer parte do Sindicato das Cidades, Amatsu tem um ótimo relacionamento com a associação.",
-        "es": "[Funcionaria del Gobierno]\nAunque no forma parte del Sindicato de Ciudades, Amatsu tiene una excelente relación con la asociación."
+        "es": "[Funcionaria del Gobierno]\nAunque no forma parte de la Unión de las Ciudades, Amatsu tiene una excelente relación con la asociación."
     },
     "4AUYDA": {
         "ko": "[사무관 가뷰너스]\n부끄럽지만 도시 상인연합은 대부분의 단체와 긴밀한 관계구축을 위해 노력하고 있답니다.",
         "en": "[Government Official]\nI don't understand why it isn't part of the union yet.",
         "pt": "[Oficial do Governo]\nNão entendo o motivo dela ainda não fazer parte do sindicato.",
-        "es": "[Funcionaria del Gobierno]\nNo entiendo por qué aún no forma parte del sindicato."
+        "es": "[Funcionaria del Gobierno]\nNo entiendo por qué aún no forma parte de la unión."
     },
     "4QUYDA": {
         "ko": "[사무관 가뷰너스]\n웩.. 마음에 없는 말을 했더니 속이 느글느글..",
@@ -5781,7 +5781,7 @@
         "ko": "[사무관 가뷰너스]\n발차기가 매력적인 참 밝은 소녀에요. 아! 사실 이건 비밀인데요. 도시 상인연합 회원 중에..",
         "en": "[Government Official]\nShe's great at hand-to-hand combat and makes a lot of requests to the Syndicate.",
         "pt": "[Oficial do Governo]\nEla é ótima no combate corporal e faz muitas solicitações para o Sindicato.",
-        "es": "[Funcionaria del Gobierno]\nEs muy buena en el combate cuerpo a cuerpo y hace muchas solicitudes al Sindicato."
+        "es": "[Funcionaria del Gobierno]\nEs muy buena en el combate cuerpo a cuerpo y hace muchas solicitudes a la Unión."
     },
     "5AUYDA": {
         "ko": "[사무관 가뷰너스]\n시르를 쫓아 다니다가 발차기 맞고 기절을… 풉 푸하하하.. 아이고 배야..",
@@ -5821,7 +5821,7 @@
     },
     "6gUYDA": {
         "ko": "[사무관 가뷰너스]\n[B급-배달] 의뢰가 게펜 지하던전 2층으로 가야 하는 의뢰네요.",
-        "en": "[Government Official]\nToday, [Delivery B] requires going to the 2nd basement of the Geffen Tower.",
+        "en": "[Government Official]\nToday, [Delivery B] requires going to the 2nd basement of the Geffen Dungeon.",
         "pt": "[Oficial do Governo]\nHoje, a [Entrega B] requer ir até o 2º subsolo da Torre de Geffen.",
         "es": "[Funcionaria del Gobierno]\nHoy, la [Entrega B] requiere ir al segundo sótano de la Torre de Geffen."
     },
@@ -5851,7 +5851,7 @@
     },
     "7wUYDA": {
         "ko": "[사무관 가뷰너스]\n아무리 연구라도 무서워 보이는 곳은 잘 안가는 분이신데..",
-        "en": "[Government Official]\nGetting to the third basement level of the Geffen Tower isn't something just anyone can do...",
+        "en": "[Government Official]\nGetting to the third basement level of the Geffen Dungeon isn't something just anyone can do...",
         "pt": "[Oficial do Governo]\nChegar até o 3º subsolo da Torre de Geffen não é para qualquer um...",
         "es": "[Funcionaria del Gobierno]\nLlegar al tercer sótano de la Torre de Geffen no es para cualquiera..."
     },
@@ -5877,7 +5877,7 @@
         "ko": "[사무관 가뷰너스]\n오늘 [B급-배달] 의뢰는 도시 상인연합의 조합원이세요.",
         "en": "[Government Official]\nToday, [Delivery B] is for a member of our Union.",
         "pt": "[Oficial do Governo]\nHoje, a [Entrega B] é para um membro do nosso Sindicato.",
-        "es": "[Funcionaria del Gobierno]\nHoy, la [Entrega B] es para un miembro de nuestro sindicato."
+        "es": "[Funcionaria del Gobierno]\nHoy, la [Entrega B] es para un miembro de nuestra unión."
     },
     "9AUYDA": {
         "ko": "[사무관 가뷰너스]\n저번에 이곳에 들르셨을 때 행상 일을 하신다고 들었는데, 행상을 라헬 얼음 동굴 2층까지 나가신 모양이네요.",
@@ -5911,7 +5911,7 @@
     },
     "+QUYDA": {
         "ko": "[사무관 가뷰너스]\n광석 구하려고 묘르닐 폐광까지 가셨나 보네.",
-        "en": "[Government Official]\nThe Abandoned Mine of Mount Mjolnir still attracts a lot of people.",
+        "en": "[Government Official]\nThe Dead Pit of Mount Mjolnir still attracts a lot of people.",
         "pt": "[Oficial do Governo]\nA Mina Abandonada do Monte Mjolnir ainda atrai bastante gente.",
         "es": "[Funcionaria del Gobierno]\nLa mina abandonada del monte Mjolnir sigue atrayendo a mucha gente."
     },
@@ -6219,7 +6219,7 @@
         "ko": "[사무관 가뷰너스]\n오늘 [C급-배달] 의뢰는 클릭씨의 의뢰네요.",
         "en": "[Government Official]\nToday, [Delivery C] is for a former member of the Union.",
         "pt": "[Oficial do Governo]\nHoje, a [Entrega C] é para um antigo membro do Sindicato.",
-        "es": "[Funcionaria del Gobierno]\nHoy, la [Entrega C] es para un antiguo miembro del Sindicato."
+        "es": "[Funcionaria del Gobierno]\nHoy, la [Entrega C] es para un antiguo miembro de la Unión."
     },
     "LQYYDA": {
         "ko": "[사무관 가뷰너스]\n클릭씨는 예전에 도시 상인연합에서 일하던 분이세요.",
@@ -6415,7 +6415,7 @@
     },
     "TQYYDA": {
         "ko": "[사무관 가뷰너스]\n아.. 오늘 [C급-배달] 의뢰는 게펜 지하 던전으로 가셔야 해요.",
-        "en": "[Government Official]\nAh... Today, [Delivery C] is in the basement of Geffen Tower.",
+        "en": "[Government Official]\nAh... Today, [Delivery C] is in the basement of Geffen Dungeon.",
         "pt": "[Oficial do Governo]\nAh.. Hoje, a [Entrega C] é no subsolo da Torre de Geffen.",
         "es": "[Funcionaria del Gobierno]\nAh... Hoy, la [Entrega C] es en el sótano de la Torre de Geffen."
     },
@@ -6451,7 +6451,7 @@
     },
     "UwYYDA": {
         "ko": "[사무관 가뷰너스]\n[C급-배달] 의뢰는 하셨나요? 오늘 의뢰가 아마 묘르닐 폐광으로 가는 거였죠?",
-        "en": "[Government Official]\nToday, [Delivery C] is a request from someone at... the Abandoned Mine?",
+        "en": "[Government Official]\nToday, [Delivery C] is a request from someone at... the Dead Pit?",
         "pt": "[Oficial do Governo]\nHoje, a [Entrega C] é uma solicitação de alguém na... Mina Abandonada?",
         "es": "[Funcionaria del Gobierno]\nHoy, la [Entrega C] es una solicitud de alguien en... ¿la mina abandonada?"
     },
@@ -6705,7 +6705,7 @@
         "ko": "[사무관 가뷰너스]\n배달의뢰는 도시 상인연합의 가장 핵심적인 서비스라고 할 수 있어요.",
         "en": "[Government Official]\nThis work is extremely important for the Union.",
         "pt": "[Oficial do Governo]\nEsse trabalho é extremamente importante para o Sindicato.",
-        "es": "[Funcionaria del Gobierno]\nEste trabajo es extremadamente importante para el Sindicato."
+        "es": "[Funcionaria del Gobierno]\nEste trabajo es extremadamente importante para la Unión."
     },
     "fgYYDA": {
         "ko": "[사무관 가뷰너스]\n이 서비스 덕분에 연합도 커지고 일도 많아지고 바빠지고.. 아 일하기 싫다.",
@@ -6729,7 +6729,7 @@
         "ko": "[사무관 가뷰너스]\n조합에서 모험가님들을 고용하기로 결정하면서 현상수배 의뢰까지 취급하기 시작했어요.",
         "en": "[Government Official]\nWhen the Union decided to hire adventurers, we decided to post these [Wanted] requests for you.",
         "pt": "[Oficial do Governo]\nQuando o Sindicato decidiu contratar aventureiros, decidimos colocar essas solicitações de [Procura-se] para vocês.",
-        "es": "[Funcionaria del Gobierno]\nCuando el Sindicato decidió contratar aventureros, decidimos publicar estas solicitudes de [Se busca] para ustedes."
+        "es": "[Funcionaria del Gobierno]\nCuando la Unión decidió contratar aventureros, decidimos publicar estas solicitudes de [Se busca] para ustedes."
     },
     "ggYYDA": {
         "ko": "[사무관 가뷰너스]\n에휴.. 덕분에 내 일만 추가로 산더미..",
@@ -6831,7 +6831,7 @@
         "ko": "[사무관 가뷰너스]\n도시 상인연합 게시판에 낙서가 보이세요?",
         "en": "[Government Official]\nDid you see that the union board was vandalized?",
         "pt": "[Oficial do Governo]\nViu que o Quadro do Sindicato foi pichado?",
-        "es": "[Funcionaria del Gobierno]\n¿Has visto que han pintado grafitis en el tablón del sindicato?"
+        "es": "[Funcionaria del Gobierno]\n¿Has visto que han pintado grafitis en el tablón de la unión?"
     },
     "kwYYDA": {
         "ko": "[사무관 가뷰너스]\n하.. 아무리 닦고 닦고 또 닦아도 안 지워지네요. 정말 누가 낙서한 건지..",
@@ -7065,7 +7065,7 @@
         "ko": "[사무관 가뷰너스]\n연합에서 이계 쪽은 서비스를 안하고 있긴 하지만, 이계에 있다는 비프로스트에 가보셨는지 모르겠네요.",
         "en": "[Government Official]\nOur Union doesn't reach certain places, like Bifröst in the New World.",
         "pt": "[Oficial do Governo]\nNosso Sindicato não alcança certos lugares, como Bifröst no Novo Mundo.",
-        "es": "Nuestro sindicato no llega a ciertos Ubicaciónes, como Bifröst en el Nuevo Mundo.\""
+        "es": "Nuestra Unión no llega a ciertos Ubicaciónes, como Bifröst en el Nuevo Mundo.\""
     },
     "ugYYDA": {
         "ko": "[사무관 가뷰너스]\n그 동네에서는 누구나 언어를 몰라도 대화가 통한다고 하더라고요.",
@@ -7113,7 +7113,7 @@
         "ko": "아! 혹시 무역연합에서 나오신 분?",
         "en": "Hey! Are you from the Union?",
         "pt": "Ei! Você é do Sindicato?",
-        "es": "¡Eh! ¿Eres del sindicato?"
+        "es": "¡Eh! ¿Eres de la Unión?"
     },
     "wgYYDA": {
         "ko": "경비병 요래요",
@@ -7131,7 +7131,7 @@
         "ko": "네! 무역연합입니다.",
         "en": "I'm from the Union.",
         "pt": "Eu sou do Sindicato.",
-        "es": "Soy del Sindicato."
+        "es": "Soy de la Unión."
     },
     "xQYYDA": {
         "ko": "지나가다 들렸다.",
@@ -7155,13 +7155,13 @@
         "ko": "[경비병 요래요]\n아! 그러시군요. 전 무역연합 사람을 기다리는 중이라 살펴가십시오.",
         "en": "[Guard]\nI see! I'm waiting for someone from the Syndicate.",
         "pt": "[Guarda]\nEntendi! Estou aguardando alguém do Sindicato.",
-        "es": "[Guardia]\n¡Entendido! Estoy esperando a alguien del Sindicato."
+        "es": "[Guardia]\n¡Entendido! Estoy esperando a alguien de la Unión."
     },
     "yQYYDA": {
         "ko": "무역연합에서 나오신 분이십니까?",
         "en": "Are you from the... Union?",
         "pt": "Você é do... Sindicato?",
-        "es": "¿Eres del... Sindicato?"
+        "es": "¿Eres de la... Unión?"
     },
     "ygYYDA": {
         "ko": "경비병 야래요",
@@ -7179,13 +7179,13 @@
         "ko": "[경비병 야래요]\n소문과는 다르군요. 빠르고 정확하게 부탁한 물건을 가져다 준다고 들었는데..",
         "en": "[Guard]\nContrary to what they say, the Syndicate doesn't deliver that fast...",
         "pt": "[Guarda]\nAo contrário do que dizem, o Sindicato não entrega tão rápido assim...",
-        "es": "[Guardia]\nAl contrario de lo que dicen, el Sindicato no entrega tan rápido..."
+        "es": "[Guardia]\nAl contrario de lo que dicen, la Unión no entrega tan rápido..."
     },
     "zQYYDA": {
         "ko": "[경비병 야래요]\n하하하 이런 속았군요. 전 또 무역연합 사람인줄 알고..",
         "en": "[Guard]\nHahah! Sorry, I thought it was from the Syndicate...",
         "pt": "[Guarda]\nHahah! Perdão, achei que fosse do Sindicato...",
-        "es": "[Guardia]\n¡Ja, ja, ja! Lo siento, pensé que era del Sindicato..."
+        "es": "[Guardia]\n¡Ja, ja, ja! Lo siento, pensé que era de la Unión..."
     },
     "zgYYDA": {
         "ko": "여깁니다. 여기~",
@@ -7221,7 +7221,7 @@
         "ko": "[피크니커 루치]\n무역연합에서 온 게 아니었구나..",
         "en": "[Lucci]\nI thought it was from the Union...",
         "pt": "[Lucci]\nPensei que fosse do Sindicato...",
-        "es": "[Lucci]\nPensé que era del Sindicato..."
+        "es": "[Lucci]\nPensé que era de la Unión..."
     },
     "1AYYDA": {
         "ko": "혹시 고구마 가져오신 분입니까?",
@@ -7275,7 +7275,7 @@
         "ko": "[초보마법사 져먼]\n흐흐흐 난 대마법사 져먼 님이시다. 물건은 확실하겠지?",
         "en": "[Jarman]\nI'm the great Jarman, are you from the Syndicate?",
         "pt": "[Jarman]\nEu sou o grande Jarman, você é do Sindicato?",
-        "es": "[Jarman]\nSoy el gran Jarman, ¿eres del Sindicato?"
+        "es": "[Jarman]\nSoy el gran Jarman, ¿eres de la Unión?"
     },
     "3QYYDA": {
         "ko": "[초보마법사 져먼]\n물건은 확실하군. 그럼 난 바빠서 이만..",
@@ -7299,7 +7299,7 @@
         "ko": "혹시.. 무역연합?",
         "en": "Hey... Union?",
         "pt": "Ei... Sindicato?",
-        "es": "Oye... ¿Sindicato?"
+        "es": "Oye... ¿Unión?"
     },
     "4QYYDA": {
         "ko": "크리에이터 프이라",
@@ -7311,7 +7311,7 @@
         "ko": "[크리에이터 프이라]\n무역연합에서 나오신 분 맞으시죠?",
         "en": "[Frau]\nAre you from the Cities Union?",
         "pt": "[Frau]\nVocê é do Sindicato das Cidades?",
-        "es": "[Frau]\n¿Eres del Sindicato de las Ciudades?"
+        "es": "[Frau]\n¿Eres de la Unión de las Ciudades?"
     },
     "4wYYDA": {
         "ko": "[크리에이터 프이라]\n아 고마워요. 제가 지금 좀 바빠서 조심해서 가세요.",
@@ -7347,7 +7347,7 @@
         "ko": "[민스트럴 도다리]\n무역연합에서 나온 거 맞지?",
         "en": "[Dodari]\nYou're from the Syndicate, aren't you?",
         "pt": "[Dodari]\nVocê é do Sindicato, não é?",
-        "es": "[Dodari]\nEres del Sindicato, ¿verdad?"
+        "es": "[Dodari]\nEres de la Unión, ¿verdad?"
     },
     "6QYYDA": {
         "ko": "[민스트럴 도다리]\n땡큐~ 아 혹시 몰라서 그러는데 나 별명 생선 아니야. 수고",
@@ -7365,13 +7365,13 @@
         "ko": "[민스트럴 도다리]\n하하하 이거 속았잖아? 내가 무역연합 사람을 너무 기다렸나 보네.",
         "en": "[Dodari]\nHahah! Sorry, I mistook you for someone from the Syndicate.",
         "pt": "[Dodari]\nHahah! Desculpe, confundi você com alguém do Sindicato.",
-        "es": "[Dodari]\n¡Jajaja! Lo siento, te he confundido con alguien del Sindicato."
+        "es": "[Dodari]\n¡Jajaja! Lo siento, te he confundido con alguien de la Unión."
     },
     "7AYYDA": {
         "ko": "무역연합 사람인가?",
         "en": "Are you from the Syndicate?",
         "pt": "Você é do Sindicato?",
-        "es": "¿Eres del Sindicato?"
+        "es": "¿Eres de la Unión?"
     },
     "7QYYDA": {
         "ko": "쉐도우체이서 액토",
@@ -7383,7 +7383,7 @@
         "ko": "[쉐도우체이서 액토]\n역시 무역연합 사람이었나? 고맙네 이곳 녀석들의 저주가 여간 귀찮은 게 아니었거든.",
         "en": "[Acto]\nYou're from the Union! Finally.",
         "pt": "[Acto]\nVocê é do Sindicato! Até que enfim.",
-        "es": "[Acto]\n¡Eres del Sindicato! Por fin."
+        "es": "[Acto]\n¡Eres de la Unión! Por fin."
     },
     "7wYYDA": {
         "ko": "[쉐도우체이서 액토]\n뭐야 물건을 안 가지고 온 건가? 이곳까지 오느라 힘들었겠지만 뭐 어쩌겠나? 다시 가져와야지.",
@@ -7413,7 +7413,7 @@
         "ko": "[레인져 엘렌]\n이것 참 무역연합 분들은 구분이 영.. 무역연합에서 나오신 분 맞으시죠?",
         "en": "[Ellen]\nI was waiting for you... Are you from the Cities Union?",
         "pt": "[Ellen]\nEu estava te esperando... Você é do Sindicato das Cidades?",
-        "es": "[Ellen]\nTe estaba esperando... ¿Eres del Sindicato de Ciudades?"
+        "es": "[Ellen]\nTe estaba esperando... ¿Eres de la Unión de Ciudades?"
     },
     "9AYYDA": {
         "ko": "[레인져 엘렌]\n감사합니다. 화살이 조금 부족해서 곤란하던 참이었거든요.",
@@ -7455,7 +7455,7 @@
         "ko": "[수라 큐크]\n오 무역연합 사람이었군. 고기 고맙네.",
         "en": "[Kyuk]\nOh, you're from the Union. Thank you for bringing meat.",
         "pt": "[Kyuk]\nOh, você é do Sindicato. Agradeço por trazer Carne.",
-        "es": "[Kyuk]\nOh, eres del Sindicato. Gracias por traer carne."
+        "es": "[Kyuk]\nOh, eres de la Unión. Gracias por traer carne."
     },
     "+wYYDA": {
         "ko": "[수라 큐크]\n뭐야? 고기는? 에헤이~ 잊어버렸나 보군.",
@@ -7485,7 +7485,7 @@
         "ko": "[얼굴을 가린 사내]\n물건은?",
         "en": "[Strange]\nUnion?",
         "pt": "[Estranho]\nSindicato?",
-        "es": "[Extraño]\n¿Sindicato?"
+        "es": "[Extraño]\n¿Unión?"
     },
     "AAcYDA": {
         "ko": "[얼굴을 가린 사내]\n… … …!",
@@ -7515,13 +7515,13 @@
         "ko": "[성역연구신관]\n아! 무역연합에서 온 분이셨군요. 덕분에 연구를 계속할 수 있겠네요. 고마워요.",
         "en": "[Scientist]\nAh! You're from the City Union. Now I can continue my research. Thanks.",
         "pt": "[Cientista]\nAh! Você é do Sindicato das Cidades. Agora posso continuar minha pesquisa. Valeu.",
-        "es": "[Cientista]\n¡Ah! Eres del Sindicato de Ciudades. Ahora puedo continuar con mi investigación. Gracias."
+        "es": "[Cientista]\n¡Ah! Eres de la Unión de Ciudades. Ahora puedo continuar con mi investigación. Gracias."
     },
     "BQcYDA": {
         "ko": "[성역연구신관]\n아! 무역연합에서 온 분이셨군요. 그런데 부탁 드린 돋보기는…?",
         "en": "[Scientist]\nAh! You're from the Cities Union. Did you bring the Magnifying Glass...?",
         "pt": "[Cientista]\nAh! Você é do Sindicato das Cidades. Você trouxe a Lupa...?",
-        "es": "[Científico]\n¡Ah! Eres del Sindicato de las Ciudades. ¿Has traído la lupa...?"
+        "es": "[Científico]\n¡Ah! Eres de la Unión de las Ciudades. ¿Has traído la lupa...?"
     },
     "BgcYDA": {
         "ko": "[성역연구신관]\n아! 그러시군요. 알겠습니다.",
@@ -7569,7 +7569,7 @@
         "ko": "무역연합에서 나오셨군요.",
         "en": "You're from the Union.",
         "pt": "Você é do Sindicato.",
-        "es": "Eres del Sindicato."
+        "es": "Eres de la Unión."
     },
     "DgcYDA": {
         "ko": "쓸쓸해 보이는 여인",
@@ -7617,7 +7617,7 @@
         "ko": "[크리에이터 엘렉]\n무역연합 사람 맞죠? 물건 빨리 주시겠어요? 기다리느라 동료들하고 뒤쳐져서",
         "en": "[Elec]\nAre you from the Union? Can you help me? I'm right behind the rest of my group.",
         "pt": "[Elec]\nVocê é do Sindicato? Pode me ajudar? Estou bem atrás do restante do meu grupo.",
-        "es": "[Elec]\n¿Eres del Sindicato? ¿Puedes ayudarme? Estoy justo detrás del resto de mi grupo."
+        "es": "[Elec]\n¿Eres de la Unión? ¿Puedes ayudarme? Estoy justo detrás del resto de mi grupo."
     },
     "FgcYDA": {
         "ko": "[크리에이터 엘렉]\n아! 감사합니다. 더 뒤쳐지기 전에 빨리 따라가봐야겠어요.",
@@ -7659,7 +7659,7 @@
         "ko": "[괴식가 불러버]\n역시 무역연합 사람이었군. 크하하하 잘 먹겠네.",
         "en": "[Glutton]\nAs expected, the City Union. Hahah, now I'm going to eat well.",
         "pt": "[Comilão]\nComo esperado, o Sindicato das Cidades. Hahah agora vou comer bem.",
-        "es": "[Glotón]\nComo era de esperar, el Sindicato de las Ciudades. Jajaja, ahora voy a comer bien."
+        "es": "[Glotón]\nComo era de esperar, la Unión de las Ciudades. Jajaja, ahora voy a comer bien."
     },
     "HQcYDA": {
         "ko": "[괴식가 불러버]\n이런.. 소스는 없는 건가? 색다른 맛을 볼까 했는데 아쉽군.",
@@ -7671,13 +7671,13 @@
         "ko": "[괴식가 불러버]\n무역연합 사람이 아니었나? 그래도 반갑군.",
         "en": "[Glutton]\nAren't you from the City Union? Nice to see you.",
         "pt": "[Comilão]\nVocê não é do Sindicato das Cidades? Prazer em te ver.",
-        "es": "[Glotón]\n¿No eres del Sindicato de las Ciudades? Me alegro de verte."
+        "es": "[Glotón]\n¿No eres de la Unión de las Ciudades? Me alegro de verte."
     },
     "HwcYDA": {
         "ko": "무역연합에서 온 도시락이오?",
         "en": "Hi, are you from the Union?",
         "pt": "Oi, é do Sindicato?",
-        "es": "Hola, ¿eres del Sindicato?"
+        "es": "Hola, ¿eres de la Unión?"
     },
     "IAcYDA": {
         "ko": "몽크 와비",
@@ -7731,7 +7731,7 @@
         "ko": "[빈사상태의 남성]\n자네 무역연합에서 온 친구 맞지? 제발 맞는다고 말해줘.",
         "en": "[Wounded Man]\nAre you from the Union? For Odin's sake, say yes.",
         "pt": "[Homem Ferido]\nVocê é do Sindicato? Pelo amor de Odin, diga que sim.",
-        "es": "[Hombre herido]\n¿Eres del Sindicato? Por el amor de Odín, di que sí."
+        "es": "[Hombre herido]\n¿Eres de la Unión? Por el amor de Odín, di que sí."
     },
     "KQcYDA": {
         "ko": "[빈사상태의 남성]\n으어~ 살았다. 흑흑 정말 죽는 줄 알았다고. 고마워 난 빨리 안전한 곳으로..",
@@ -7773,13 +7773,13 @@
         "ko": "[모험가 몰리]\n어?! 무역연합 사람이었어? 무역연합에서 대단한 사람을 고용했군. 뭐 어쨌든 고맙네.",
         "en": "[Molly]\nHuh?! Are you from the Union? It's amazing you came all this way. Thanks.",
         "pt": "[Molly]\nHã?! Você é do Sindicato? Incrível você ter vindo tão longe. Valeu.",
-        "es": "[Molly]\n¿Eh? ¿Eres del Sindicato? Es increíble que hayas venido tan lejos. Gracias."
+        "es": "[Molly]\n¿Eh? ¿Eres de la Unión? Es increíble que hayas venido tan lejos. Gracias."
     },
     "MAcYDA": {
         "ko": "[모험가 몰리]\n어?! 무역연합 사람이었어? 여기까지 와서 대단하긴 한데.. 물건은 어디에?",
         "en": "[Molly]\nHuh?! Are you from the Union? You came all this way and... you didn't bring the item?",
         "pt": "[Molly]\nHã?! Você é do Sindicato? Você veio de tão longe e... não trouxe o item?",
-        "es": "[Molly]\n¿Eh? ¿Eres del Sindicato? ¿Has venido desde tan lejos y... no has traído el objeto?"
+        "es": "[Molly]\n¿Eh? ¿Eres de la Unión? ¿Has venido desde tan lejos y... no has traído el objeto?"
     },
     "MQcYDA": {
         "ko": "[모험가 몰리]\n모험가의 축복을 받아 원하는 목표를 이루길..",
@@ -7809,13 +7809,13 @@
         "ko": "[헌터 파니니]\n아! 무역연합에서 나온 분이군요. 화살 잘 받았습니다. 잘 쓸게요.",
         "en": "[Panini]\nAh! You're from the Union. And you brought the arrows. I'll take that.",
         "pt": "[Panini]\nAh! Você é do Sindicato. E trouxe as flechas. Vou ficar com isso.",
-        "es": "[Panini]\n¡Ah! Eres del Sindicato. Y has traído las flechas. Me quedaré con eso."
+        "es": "[Panini]\n¡Ah! Eres de la Unión. Y has traído las flechas. Me quedaré con eso."
     },
     "NgcYDA": {
         "ko": "[헌터 파니니]\n아! 무역연합에서 나온 분이군요. 제가 분명 은화살을 부탁 드렸던 거 같은데 은화살은 어디에?",
         "en": "[Panini]\nAh! You're from the Union. I believe I asked for Silver Arrows, where are they?",
         "pt": "[Panini]\nAh! Você é do Sindicato. Eu acredito que pedi Flechas de Prata, onde estão?",
-        "es": "[Panini]\n¡Ah! Eres del Sindicato. Creo que pedí flechas de plata, ¿dónde están?"
+        "es": "[Panini]\n¡Ah! Eres de la Unión. Creo que pedí flechas de plata, ¿dónde están?"
     },
     "NwcYDA": {
         "ko": "[헌터 파니니]\n원하는 결과 얻으시길",
@@ -7827,7 +7827,7 @@
         "ko": "보급품을 가져온 무역연합 분이시오?",
         "en": "Union?",
         "pt": "Sindicato?",
-        "es": "¿Sindicato?"
+        "es": "¿Unión?"
     },
     "OQcYDA": {
         "ko": "크루세이더 서리비",
@@ -7845,13 +7845,13 @@
         "ko": "[크루세이더 서리비]\n역시 무역연합 사람이었군. 고맙소. 수행에 큰 도움이 될 것이오.",
         "en": "[Seoribi]\nAs expected, the City Union. Thanks. This will help with my training.",
         "pt": "[Seoribi]\nComo esperado, o Sindicato das Cidades. Valeu. Isso ajudará no meu treinamento.",
-        "es": "[Seoribi]\nComo esperaba, el Sindicato de las Ciudades. Gracias. Esto me ayudará en mi entrenamiento."
+        "es": "[Seoribi]\nComo esperaba, la Unión de las Ciudades. Gracias. Esto me ayudará en mi entrenamiento."
     },
     "PAcYDA": {
         "ko": "[크루세이더 서리비]\n무역연합 사람이었소? 그런데 주문한 물건은 어디 있소?",
         "en": "[Seoribi]\nAre you really from the Union? Where's what I asked for?",
         "pt": "[Seoribi]\nVocê é mesmo do Sindicato? Onde está o que pedi?",
-        "es": "[Seoribi]\n¿De verdad eres del Sindicato? ¿Dónde está lo que pedí?"
+        "es": "[Seoribi]\n¿De verdad eres de la Unión? ¿Dónde está lo que pedí?"
     },
     "PQcYDA": {
         "ko": "[크루세이더 서리비]\n여행자셨군. 이곳은 위험한 곳이니 조심하시오.",
@@ -7863,7 +7863,7 @@
         "ko": "별 기대는 안 했는데 정말 왔잖아?",
         "en": "Could it be someone from the Union?",
         "pt": "Seria alguém do Sindicato?",
-        "es": "¿Será alguien del Sindicato?"
+        "es": "¿Será alguien de la Unión?"
     },
     "PwcYDA": {
         "ko": "기사 요나팔",
@@ -7873,9 +7873,9 @@
     },
     "QAcYDA": {
         "ko": "[기사 요나팔]\n무역연합 사람이지? 지인이 소개해 줘서 주문해 본건데 좋은데?",
-        "en": "[Jonapal]\nAre you from the union? I made a request to them, did you bring it?\n[Jonapal]",
+        "en": "[Jonapal]\nAre you from the union? I made a request to them, did you bring it?",
         "pt": "[Jonapal]\nVocê é do Sindicato? Eu fiz uma solicitação para eles, você trouxe?",
-        "es": "[Jonapal]\n¿Eres del sindicato? Les hice una solicitud, ¿la trajiste?"
+        "es": "[Jonapal]\n¿Eres de la Unión? Les hice una solicitud, ¿la trajiste?"
     },
     "QQcYDA": {
         "ko": "[기사 요나팔]\n오~ 수고했어. 편리하니 앞으로 자주 이용해야겠네.",
@@ -7887,7 +7887,7 @@
         "ko": "[기사 요나팔]\n뭐야? 물건은? 없는 거야? 무연연합 별로 네..",
         "en": "[Jonapal]\nWhat is it? Union? But where is it? You don't have the item I requested.",
         "pt": "[Jonapal]\nO que é? Sindicato? Mas cadê? Você não tem o item que pedi.",
-        "es": "[Jonapal]\n¿Qué es? ¿Sindicato? Pero ¿dónde está? No tienes el Objeto que te pedí."
+        "es": "[Jonapal]\n¿Qué es? ¿Unión? Pero ¿dónde está? No tienes el Objeto que te pedí."
     },
     "QwcYDA": {
         "ko": "[기사 요나팔]\n앗! 아니었군. 착각해서 죄송합니다.",
@@ -7899,7 +7899,7 @@
         "ko": "이봐 당신 무역연합 사람인가?",
         "en": "Hey, are you from the Union?",
         "pt": "Ei, é do Sindicato?",
-        "es": "Oye, ¿eres del Sindicato?"
+        "es": "Oye, ¿eres de la Unión?"
     },
     "RQcYDA": {
         "ko": "로그 이리타",
@@ -7911,7 +7911,7 @@
         "ko": "[로그 이리타]\n물건은 확실하겠지?",
         "en": "[Irita]\nAre you sure you're from the Union?",
         "pt": "[Irita]\nCerteza que é do Sindicato?",
-        "es": "[Irita]\n¿Seguro que eres del Sindicato?"
+        "es": "[Irita]\n¿Seguro que eres de la Unión?"
     },
     "RwcYDA": {
         "ko": "[로그 이리타]\n미확인 아이템을 발견했는데 분명 좋은 거겠지? 빨리 확인하러 가야겠다.",
@@ -7923,7 +7923,7 @@
         "ko": "[로그 이리타]\n뭐야! 물건은? 아.. 빨리 가져와줘.",
         "en": "[Irita]\nThe Syndicate? Ah... bring the item over here.",
         "pt": "[Irita]\nO Sindicato? Ah.. traga logo o item.",
-        "es": "[Irita]\n¿El Sindicato? Ah... tráelo enseguida."
+        "es": "[Irita]\n¿La Unión? Ah... tráelo enseguida."
     },
     "SQcYDA": {
         "ko": "[로그 이리타]\n아니었군.",
@@ -7935,7 +7935,7 @@
         "ko": "이야~ 고생이 많으시오.",
         "en": "Hey~ Syndicate.",
         "pt": "Ei~ Sindicato.",
-        "es": "Eh, Sindicato."
+        "es": "Hola~ Unión."
     },
     "SwcYDA": {
         "ko": "로그 이라쉬",
@@ -7947,13 +7947,13 @@
         "ko": "[로그 이라쉬]\n무역연합에 주문한 물건이 있는데 언제쯤 오려나.",
         "en": "[Irash]\nI have a request from the City Union.",
         "pt": "[Irash]\nEu tenho um pedido do Sindicato das Cidades.",
-        "es": "[Irash]\nTengo una petición del Sindicato de Ciudades."
+        "es": "[Irash]\nTengo una petición de la Unión de Ciudades."
     },
     "TQcYDA": {
         "ko": "[로그 이라쉬]\n아! 무역연합 분이셨군. 고맙소 미안하지만 바빠서 이만.",
         "en": "[Irash]\nAh! You're from the Union. Thanks, but I need to take care of something here right now.",
         "pt": "[Irash]\nAh! Você é do Sindicato. Valeu, mas agora preciso me ocupar aqui.",
-        "es": "[Irash]\n¡Ah! Eres del Sindicato. Gracias, pero ahora tengo que ocuparme de esto."
+        "es": "[Irash]\n¡Ah! Eres de la Unión. Gracias, pero ahora tengo que ocuparme de esto."
     },
     "TgcYDA": {
         "ko": "[로그 이라쉬]\n장난하지 마시오. 주문한 물건도 안 들고 왔으면서..",
@@ -7971,7 +7971,7 @@
         "ko": "무역연합에서 나오신 분이죠?",
         "en": "Hey, are you from the Union?",
         "pt": "Ei, é do Sindicato?",
-        "es": "Oye, ¿eres del Sindicato?"
+        "es": "Oye, ¿eres de la Unión?"
     },
     "UQcYDA": {
         "ko": "위저드 애서",
@@ -7983,7 +7983,7 @@
         "ko": "[위저드 애서]\n반갑습니다. 무역연합에서 나오신 분이죠?",
         "en": "[Aeso]\nGood to see you. Are you from the Union?",
         "pt": "[Aeso]\nBom te ver. Você é do Sindicato?",
-        "es": "[Aeso]\nMe alegro de verte. ¿Eres del Sindicato?"
+        "es": "[Aeso]\nMe alegro de verte. ¿Eres de la Unión?"
     },
     "UwcYDA": {
         "ko": "[위저드 애서]\n감사합니다. 비상용으로 가지고 다니던 게 떨어진걸 모르고 사냥터에 오는 바람에..",
@@ -8055,13 +8055,13 @@
         "ko": "[몽크 와비]\n아 역시 무역연합 분이셨군요. 감사합니다. 전 수련이 끝났으니 이만.",
         "en": "[Wabi]\nAh! You're from the Union. Thanks. I should finish my training now.",
         "pt": "[Wabi]\nAh! Você é do Sindicato. Valeu. Devo terminar meu treino agora.",
-        "es": "[Wabi]\n¡Ah! Eres del Sindicato. Gracias. Debo terminar mi entrenamiento ahora."
+        "es": "[Wabi]\n¡Ah! Eres de la Unión. Gracias. Debo terminar mi entrenamiento ahora."
     },
     "XwcYDA": {
         "ko": "[몽크 와비]\n아 역시 무역연합 분이셨군요. 그런데 부탁 드린 물건은 어디 있습니까?",
         "en": "[Wabi]\nAh! You're from the Union. And where's my item?",
         "pt": "[Wabi]\nAh! Você é do Sindicato. E onde está meu item?",
-        "es": "[Wabi]\n¡Ah! Eres del Sindicato. ¿Y dónde está mi objeto?"
+        "es": "[Wabi]\n¡Ah! Eres de la Unión. ¿Y dónde está mi objeto?"
     },
     "YAcYDA": {
         "ko": "[몽크 와비]\n아! 수고하십시오.",
@@ -8097,7 +8097,7 @@
         "ko": "[레인저 모뚜]\n무역연합에서 오셨다면서.. 부탁 드린 물건은 어디에?",
         "en": "[Motu]\nYou're from the Union... but where are my items?",
         "pt": "[Motu]\nVocê é do Sindicato.. mas cadê meus itens?",
-        "es": "[Motu]\nTú eres del Sindicato... pero ¿dónde están mis objetos?"
+        "es": "[Motu]\nTú eres de la Unión... pero ¿dónde están mis objetos?"
     },
     "ZgcYDA": {
         "ko": "[레인저 모뚜]\n잘 가요. 만나서 반가웠어요.",
@@ -8127,19 +8127,19 @@
         "ko": "[사냥중인 노비스]\n아~ 아! 무연연합이었군. 너무 늦잖아. 계속 이러면 다음부터 일을 시킬 수 없다고.",
         "en": "[Beginner]\nAh~ Ah! Finally, someone from the Union. You're very late. If you keep this up, I won't ask for anything else.",
         "pt": "[Iniciante]\nAh~ Ah! Finalmente alguém do Sindicato. Atrasou muito. Se continuarem assim, não peço mais nada.",
-        "es": "[Principiante]\nAh~ ¡Ah! Por fin alguien del Sindicato. Llegas muy tarde. Si seguís así, no voy a pedir nada más."
+        "es": "[Principiante]\nAh~ ¡Ah! Por fin alguien de la Unión. Llegas muy tarde. Si seguís así, no voy a pedir nada más."
     },
     "awcYDA": {
         "ko": "[사냥중인 노비스]\n아~ 아! 무연연합이었군. 가져다 달라는 물건은 대체 어디 있는 거야?",
         "en": "[Beginner]\nAh~ Ah! Finally, someone from the Union. But where's my order?",
         "pt": "[Iniciante]\nAh~ Ah! Finalmente alguém do Sindicato. Mas cadê a minha encomenda?",
-        "es": "[Principiante]\nAh~ ¡Ah! Por fin alguien del Sindicato. Pero ¿dónde está mi pedido?"
+        "es": "[Principiante]\nAh~ ¡Ah! Por fin alguien de la Unión. Pero ¿dónde está mi pedido?"
     },
     "bAcYDA": {
         "ko": "[사냥중인 노비스]\n에휴.. 계속 이렇게 늦으면 계약을 해지하던지 해야지.",
         "en": "[Beginner]\nMeh... If these Union people are any later, I'm canceling the contract.",
         "pt": "[Iniciante]\nMeh.. Se esse pessoal do Sindicato atrasar mais, eu vou cancelar o contrato.",
-        "es": "[Principiante]\nMeh... Si esta gente del Sindicato se retrasa más, voy a cancelar el contrato."
+        "es": "[Principiante]\nMeh... Si esta gente de la Unión se retrasa más, voy a cancelar el contrato."
     },
     "bQcYDA": {
         "ko": "으으.. 징그러운 벌레녀석들..",
@@ -8199,13 +8199,13 @@
         "ko": "[어쎄신길드원]\n아! 무역연합 사람이었군. 물건은 잘 받았다고 전해주게.",
         "en": "[Tormentor]\nAh! You must be from the Union. Give me the items I need.",
         "pt": "[Algoz]\nAh! Você deve ser do Sindicato. Me dê os itens de que preciso.",
-        "es": "[Verdugo]\n¡Ah! Debes ser del sindicato. Dame los objetos que necesito."
+        "es": "[Verdugo]\n¡Ah! Debes ser de la Unión. Dame los objetos que necesito."
     },
     "dwcYDA": {
         "ko": "[어쎄신길드원]\n아! 무역연합 사람이었군. 그런데 길드에서 전하라는 물건은 어디 있는 건가?",
         "en": "[Tormentor]\nAh! You must be from the Union. However, you didn't bring my items?",
         "pt": "[Algoz]\nAh! Você deve ser do Sindicato. Entretanto, não trouxe meus itens?",
-        "es": "[Verdugo]\n¡Ah! Debes de ser del Sindicato. Sin embargo, ¿no has traído mis objetos?"
+        "es": "[Verdugo]\n¡Ah! Debes de ser de la Unión. Sin embargo, ¿no has traído mis objetos?"
     },
     "eAcYDA": {
         "ko": "[어쎄신길드원]\n수상적은 행동은 삼가도록 하게.",
@@ -8307,13 +8307,13 @@
         "ko": "[건달 리유]\n아! 무역연합에서 온 인간이었군. 줄 거 다 줬으면 그만 가보지 그래?",
         "en": "[Rieyu]\nAh! You're from the Union. Would you like to take a break?",
         "pt": "[Rieyu]\nAh! Você é do Sindicato. Não quer fazer uma pausa?",
-        "es": "[Rieyu]\n¡Ah! Eres del Sindicato. ¿No quieres tomarte un descanso?"
+        "es": "[Rieyu]\n¡Ah! Eres de la Unión. ¿No quieres tomarte un descanso?"
     },
     "iQcYDA": {
         "ko": "[건달 리유]\n무역연합이면 물건을 가져와야 할거 아냐!! 썩 사라지지 못해.",
         "en": "[Rieyu]\nYou're from the Union, but you don't have my item.",
         "pt": "[Rieyu]\nÉ do Sindicato, mas não está com meu item.",
-        "es": "[Rieyu]\nEs del Sindicato, pero no tiene mi objeto."
+        "es": "[Rieyu]\nEs de la Unión, pero no tiene mi objeto."
     },
     "igcYDA": {
         "ko": "[건달 리유]\n수상적은 행동은 하지 말라고.",
@@ -8379,7 +8379,7 @@
         "ko": "[초보모험가 쟈쉬]\n아! 무역연합에서 오셨구나. 살짝 위험할 뻔 해서 포션을 다 쓰는 바람에.. 고마워요.",
         "en": "[Josh]\nAh! You're from the Union. I ran out of potions during training... Thanks.",
         "pt": "[Josh]\nAh! Você é do Sindicato. Eu fiquei sem poções durante o treino.. Valeu.",
-        "es": "[Josh]\n¡Ah! Eres del Sindicato. Me quedé sin pociones durante el entrenamiento... Gracias."
+        "es": "[Josh]\n¡Ah! Eres de la Unión. Me quedé sin pociones durante el entrenamiento... Gracias."
     },
     "lQcYDA": {
         "ko": "[초보모험가 쟈쉬]\n포션! 포션! 포션! 포션! 내가 주문한 포션은 어디 있죠?",
@@ -8421,7 +8421,7 @@
         "ko": "[고고학자 메르]\n무역연합이라.. 물건을 주문하긴 했지. 그래서 물건은 어디에 있나?",
         "en": "[Meer]\nUnion. Where are my items?",
         "pt": "[Meer]\nSindicato. Onde estão meus itens?",
-        "es": "[Meer]\nSindicato. ¿Dónde están mis cosas?"
+        "es": "[Meer]\nUnión. ¿Dónde están mis cosas?"
     },
     "nAcYDA": {
         "ko": "[고고학자 메르]\n부탁하나 하지. 주변 구조물을 파괴하진 말게.",
@@ -8451,7 +8451,7 @@
         "ko": "[여행자 이스]\n허허.. 이리도 편리한 서비스라니.. 내 자주 이용하도록 하지.",
         "en": "[Yis]\nHeh... I love this delivery service from the Union.",
         "pt": "[Yis]\nHeh.. Eu amo esse serviço de entregas do Sindicato.",
-        "es": "[Yis]\nJe... Me encanta este servicio de entregas del Sindicato."
+        "es": "[Yis]\nJe... Me encanta este servicio de entregas de la Unión."
     },
     "oQcYDA": {
         "ko": "[여행자 이스]\n내가 정신이 없어 잘못 들은 것으로 하겠네.",
@@ -8487,13 +8487,13 @@
         "ko": "[수행자 팅]\n아! 무역연합에서 온 사람이었군. 수행에 필요한 물건은 잘 받았네. 조심해서 돌아가게.",
         "en": "[Ting]\nAh! You're from the City Union. I'll take care of this. Be careful on your way home.",
         "pt": "[Ting]\nAh! Você é do Sindicato das Cidades. Eu vou ficar com isso. Tenha cuidado na volta para casa.",
-        "es": "[Ting]\n¡Ah! Eres del Sindicato de las Ciudades. Me quedaré con esto. Ten cuidado al volver a casa."
+        "es": "[Ting]\n¡Ah! Eres de la Unión de las Ciudades. Me quedaré con esto. Ten cuidado al volver a casa."
     },
     "pwcYDA": {
         "ko": "[수행자 팅]\n아! 무역연합에서 온 사람이었군. 그런데 주문한 물건도 안 가지고 여긴 왜 온 건가?",
         "en": "[Ting]\nAh! You're from the Cities Union. Did you come here empty-handed?",
         "pt": "[Ting]\nAh! Você é do Sindicato das Cidades. Você veio até aqui de mãos vazias?",
-        "es": "[Ting]\n¡Ah! Eres del Sindicato de las Ciudades. ¿Has venido aquí con las manos vacías?"
+        "es": "[Ting]\n¡Ah! Eres de la Unión de las Ciudades. ¿Has venido aquí con las manos vacías?"
     },
     "qAcYDA": {
         "ko": "[수행자 팅]\n던전 깊숙한 곳에 볼일이 있나 보군. 행운이 뒤따르시길..",
@@ -8595,13 +8595,13 @@
         "ko": "[경비대원 서위]\n아! 무역연합 분이시었소? 매번 큰 도움이 된다오. 고맙소.",
         "en": "[Lieutenant]\nAh! Are you from the Union? Always helping out. Thanks.",
         "pt": "[Tenente]\nAh! Você é do Sindicato? Sempre ajudando. Valeu.",
-        "es": "[Teniente]\n¡Ah! ¿Eres del Sindicato? Siempre ayudando. Gracias."
+        "es": "[Teniente]\n¡Ah! ¿Eres de la Unión? Siempre ayudando. Gracias."
     },
     "uQcYDA": {
         "ko": "[경비대원 서위]\n아! 무역연합 분이시었소? 주문한 포션은 안 가져오신 것이오?",
         "en": "[Lieutenant]\nAh! You're from the Union? You didn't bring what I asked for, did you?",
         "pt": "[Tenente]\nAh! Você é do Sindicato? Você não trouxe o que pedi, não é?",
-        "es": "[Teniente]\n¡Ah! ¿Eres del Sindicato? No has traído lo que te pedí, ¿verdad?"
+        "es": "[Teniente]\n¡Ah! ¿Eres de la Unión? No has traído lo que te pedí, ¿verdad?"
     },
     "ugcYDA": {
         "ko": "[경비대원 서위]\n반가웠소.",
@@ -8625,7 +8625,7 @@
         "ko": "[병사 아라키]\n기다리고 있었습니다. 무역연합 분이시죠?",
         "en": "[Araki]\nI was waiting for you. Are you from the Union?",
         "pt": "[Araki]\nEstava te esperando. Você é do Sindicato?",
-        "es": "[Araki]\nTe estaba esperando. ¿Eres del Sindicato?"
+        "es": "[Araki]\nTe estaba esperando. ¿Eres de la Unión?"
     },
     "vgcYDA": {
         "ko": "[병사 아라키]\n이곳 몬스터들은 만만하게 생각하면 안 되겠더군요. 감사합니다.",
@@ -8637,7 +8637,7 @@
         "ko": "[병사 아라키]\n헛! 무역연합 분이 아니셨군요. 죄송합니다.",
         "en": "[Araki]\nAh! You're not from the Union. Sorry.",
         "pt": "[Araki]\nAh! Você não é do Sindicato. Perdão.",
-        "es": "[Araki]\n¡Ah! No eres del Sindicato. Lo siento."
+        "es": "[Araki]\n¡Ah! No eres de la Unión. Lo siento."
     },
     "wAcYDA": {
         "ko": "[병사 아라키]\n아.. 아닌가 보군..",
@@ -8661,7 +8661,7 @@
         "ko": "[태권소녀 시르]\n반가워요. 반가워~ 음침하니 분위기 좋죠?",
         "en": "[Sini]\nGood to see you. Hello~ Are you from the Union?",
         "pt": "[Sini]\nBom te ver. Olá~ Você é do Sindicato?",
-        "es": "[Sini]\nMe alegro de verte. Hola~ ¿Eres del sindicato?"
+        "es": "[Sini]\nMe alegro de verte. Hola~ ¿Eres de la Unión?"
     },
     "xAcYDA": {
         "ko": "[태권소녀 시르]\n어머! 주문한 물건이 왔네? 바라던 멋진 왕자님은 아니었지만, 그래도 고마워요. 바이바이~",
@@ -8703,7 +8703,7 @@
         "ko": "[아크비숍 샤빌]\n아! 무역연합에서 오셨어요? 고마워요. 전 계속 운동이나..",
         "en": "[Saville]\nOh! Union? Thanks. I'm going back to my push-ups.",
         "pt": "[Saville]\nAh! Sindicato? Valeu. Vou voltar para as flexões.",
-        "es": "[Saville]\n¡Ah! ¿El sindicato? Gracias. Voy a seguir con las flexiones."
+        "es": "[Saville]\n¡Ah! ¿Unión? Gracias. Voy a seguir con las flexiones."
     },
     "ywcYDA": {
         "ko": "[아크비숍 샤빌]\n주문이 안 들어 갔나요? 물건이…",
@@ -8739,13 +8739,13 @@
         "ko": "[룬 나이트 프레스]\n응? 무역연합이라고? 친구가 보냈나 보군. 일단 내 앞으로 왔으니 받아두겠네.",
         "en": "[Priss]\nHuh? Union? A friend must have asked for me.",
         "pt": "[Priss]\nHã? Sindicato? Um amigo deve ter pedido por mim.",
-        "es": "[Priss]\n¿Eh? ¿Sindicato? Un amigo debe de haber preguntado por mí."
+        "es": "[Priss]\n¿Eh? ¿Unión? Un amigo debe de haber preguntado por mí."
     },
     "0QcYDA": {
         "ko": "[룬 나이트 프레스]\n응? 무역연합이라고? 흠.. 내가 뭘 주문했던가? 친구가 보냈나?",
         "en": "[Priss]\nHuh? Union? Hm... and where's the package?",
         "pt": "[Priss]\nHã? Sindicato? Hm... e onde está a encomenda?",
-        "es": "[Priss]\n¿Eh? ¿Sindicato? Hm... ¿Y dónde está el paquete?"
+        "es": "[Priss]\n¿Eh? ¿Unión? Hm... ¿Y dónde está el paquete?"
     },
     "0gcYDA": {
         "ko": "[룬 나이트 프레스]\n크으.. 지나가는 사람마저 따분하군.",
@@ -8853,7 +8853,7 @@
         "ko": "[행상인 아즈]\n하하.. 무역연합이시죠? 설마 이 깊숙한 곳에 모험가가 오진 않을 겁니다.",
         "en": "[Street Vendor]\nHah... Are you from the Union? I bet not everyone gets here.",
         "pt": "[Ambulante]\nHah.. Você é do Sindicato? Aposto que nem todo mundo chega aqui.",
-        "es": "[Vendedor ambulante]\nJa... ¿Eres del Sindicato? Apuesto a que no todo el mundo llega hasta aquí."
+        "es": "[Vendedor ambulante]\nJa... ¿Eres de la Unión? Apuesto a que no todo el mundo llega hasta aquí."
     },
     "5AcYDA": {
         "ko": "[행상인 아즈]\n역시.. 가끔 이걸 찾는 손님이 있어서요. 하하 전 이만 장사를 하러 가봐야겠습니다.",
@@ -8901,7 +8901,7 @@
         "ko": "[대장장이 플리지]\n무역연합에서 왔는데 아직 난 길을 잃어 버린 상태로군. 참 아이러니해 그렇지?",
         "en": "[Flege]\nYou're from the Union, and you don't have any deliveries?",
         "pt": "[Flege]\nVocê é do Sindicato e não tem nenhuma entrega?",
-        "es": "[Flege]\n¿Eres del Sindicato y no tienes ninguna entrega?"
+        "es": "[Flege]\n¿Eres de la Unión y no tienes ninguna entrega?"
     },
     "7AcYDA": {
         "ko": "[대장장이 플리지]\n여행자였구먼, 나처럼 길을 잃지 않도록 조심하시게.",
@@ -8925,7 +8925,7 @@
         "ko": "[소서러 료마]\n무역연합 사람 맞지? 왜 이리 늦었어?",
         "en": "[Ryoma]\nAre you from the Union? Why did it take you so long?",
         "pt": "[Ryoma]\nVocê é do Sindicato? Por que demorou tanto?",
-        "es": "[Ryoma]\n¿Eres del Sindicato? ¿Por qué has tardado tanto?"
+        "es": "[Ryoma]\n¿Eres de la Unión? ¿Por qué has tardado tanto?"
     },
     "8AcYDA": {
         "ko": "[소서러 료마]\n비싼 돈 내고 부르는데 다음에도 늦으면 재미없을 줄 알아. 알았어?",
@@ -9033,7 +9033,7 @@
         "ko": "[어쎄신길드원]\n아아! 무역연합.. 길드에서 언질을 받았습니다. 물건은 확실하게 인수했습니다.",
         "en": "[Executioner]\nAh! The Syndicate... My Guild informed me about it. I'll keep this.",
         "pt": "[Algoz]\nAh! Sindicato.. Minha Guilda me informou a respeito. Eu ficarei com isto.",
-        "es": "[Verdugo]\n¡Ah! Sindicato... Mi Gremio me informó al respecto. Me quedaré con esto."
+        "es": "[Verdugo]\n¡Ah! Unión... Mi Gremio me informó al respecto. Me quedaré con esto."
     },
     "AggYDA": {
         "ko": "[어쎄신길드원]\n고맙다.",
@@ -9063,13 +9063,13 @@
         "ko": "[룬 나이트 왈라비]\n오옷! 무역연합에서 왔다고? 크하하하 드디어 녀석들을 쓸어버릴 수 있겠군.",
         "en": "[Wallaby]\nAaaah! Union? Hahah, that's great.",
         "pt": "[Wallaby]\nAaaah! Sindicato? Hahah que ótimo.",
-        "es": "[Wallaby]\n¡Aaaah! ¿El sindicato? Jajaja, qué bien."
+        "es": "[Wallaby]\n¡Aaaah! ¿Unión? Jajaja, qué bien."
     },
     "BwgYDA": {
         "ko": "[룬 나이트 왈라비]\n무역연합에서 왔다고? 그럼 내게 줄 물건이 있을 텐데? 왜 없지?",
         "en": "[Wallaby]\nUnion? So, you should have something for me? Right?",
         "pt": "[Wallaby]\nSindicato? Então, você deveria ter algo para mim? Certo?",
-        "es": "[Wallaby]\n¿Sindicato? Entonces, ¿deberías tener algo para mí? ¿Verdad?"
+        "es": "[Wallaby]\n¿Unión? Entonces, ¿deberías tener algo para mí? ¿Verdad?"
     },
     "CAgYDA": {
         "ko": "[룬 나이트 왈라비]\n아! 지나가는 길이었군. 잘 지나가게.",
@@ -9099,13 +9099,13 @@
         "ko": "[룬 나이트 배라밀]\n꽤 신세를 진 무역연합의 친구였군. 하하 이번에도 신세 졌네. 언젠가 크게 갚도록 하지.",
         "en": "[Wallaby]\nI will always be grateful to the Union. I hope to repay this favor.",
         "pt": "[Baramil]\nEu serei sempre grato ao Sindicato. Espero retribuir de volta esse favor.",
-        "es": "[Baramil]\nSiempre estaré agradecido al Sindicato. Espero poder devolverles el favor."
+        "es": "[Baramil]\nSiempre estaré agradecido a la Unión. Espero poder devolverles el favor."
     },
     "DQgYDA": {
         "ko": "[룬 나이트 배라밀]\n무역연합 소속인가? 물건 없이 오는 경우는 처음 같군.",
         "en": "[Wallaby]\nAre you really from the Union? You don't have my order.",
         "pt": "[Baramil]\nVocê é mesmo do Sindicato? Você não está com a minha encomenda.",
-        "es": "[Baramil]\n¿De verdad eres del Sindicato? No tienes mi pedido."
+        "es": "[Baramil]\n¿De verdad eres de la Unión? No tienes mi pedido."
     },
     "DggYDA": {
         "ko": "[룬 나이트 배라밀]\n만나서 반가웠네.",
@@ -9117,7 +9117,7 @@
         "ko": "곤란했는데 무역연합 덕에 살았군.",
         "en": "I think you're from the Union.",
         "pt": "Acho que é do Sindicato.",
-        "es": "Creo que es del Sindicato."
+        "es": "Creo que es de la Unión."
     },
     "EAgYDA": {
         "ko": "마법사 루릭",
@@ -9135,7 +9135,7 @@
         "ko": "[마법사 루릭]\n길을 잃어 당황했는데, 무역연합 덕에 살았군. 이젠 두렵지 않아.",
         "en": "[Rurik]\nI was embarrassed that I got lost. I'm glad the Union exists.",
         "pt": "[Rurik]\nEstava envergonhado por ter me perdido. Que bom que existe o Sindicato.",
-        "es": "[Rurik]\nMe avergonzaba haberme perdido. Menos mal que existe el Sindicato."
+        "es": "[Rurik]\nMe avergonzaba haberme perdido. Menos mal que existe la Unión."
     },
     "EwgYDA": {
         "ko": "[마법사 루릭]\n날 더 당황스럽게 하는군. 물건을 안 가져오다니.",
@@ -9171,7 +9171,7 @@
         "ko": "[기사 어폰]\n이거 무역연합 덕에 많은 이들이 긴장을 풀고 게을러지겠군. 확실히 너무 편리해..",
         "en": "[Opon]\nIf the Union becomes popular, many adventurers will become sloppy...",
         "pt": "[Opon]\nSe o Sindicato se popularizar, muitos aventureiros vão ficar desleixados...",
-        "es": "[Opon]\nSi el Sindicato se populariza, muchos aventureros se volverán descuidados..."
+        "es": "[Opon]\nSi la Unión se populariza, muchos aventureros se volverán descuidados..."
     },
     "GQgYDA": {
         "ko": "[기사 어폰]\n이런 상황해결을 위해 온건 아니었군.",
@@ -9201,7 +9201,7 @@
         "ko": "[궁수 아도]\n정말.. 무역연합에서 나오신 거에요?",
         "en": "[Archad]\nAre you really from... the Union?",
         "pt": "[Archad]\nVocê é mesmo do... Sindicato?",
-        "es": "[Archad]\n¿De verdad eres del... Sindicato?"
+        "es": "[Archad]\n¿De verdad eres de la...  Unión?"
     },
     "HggYDA": {
         "ko": "[궁수 아도]\n으힝.. 나비의 날개가 필요했는데.. 주문을 잘못했다. 그래도 고마워요.",
@@ -9249,7 +9249,7 @@
         "ko": "[위저드 요릭]\n무역연합? 응? 으헤헤 저기 시계다 시계..",
         "en": "[Yorik]\nUnion? Huh? My package didn't arrive...",
         "pt": "[Yorik]\nSindicato? Hã? Não veio meu pacote...",
-        "es": "[Yorik]\n¿Sindicato? ¿Eh? No me ha llegado mi paquete..."
+        "es": "[Yorik]\n¿Unión? ¿Eh? No me ha llegado mi paquete..."
     },
     "JggYDA": {
         "ko": "[위저드 요릭]\n똑딱똑딱 어디 있어? 응?",
@@ -9351,13 +9351,13 @@
         "ko": "[궁수 코렐]\n혹시나 했는데 역시 무역연합에서 왔구나? 편리하네.",
         "en": "[Corel]\nUnion? How convenient.",
         "pt": "[Corel]\nSindicato? Que conveniente.",
-        "es": "[Corel]\n¿Sindicato? Qué conveniente."
+        "es": "[Corel]\n¿Unión? Qué conveniente."
     },
     "NwgYDA": {
         "ko": "[궁수 코렐]\n어?! 무역연합이었구나? 그런데 화살은?",
         "en": "[Corel]\nHuh?! Union? Where are the arrows?",
         "pt": "[Corel]\nHã?! Sindicato? Cadê as flechas?",
-        "es": "[Corel]\n¿Eh? ¿Sindicato? ¿Dónde están las flechas?"
+        "es": "[Corel]\n¿Eh? ¿Unión? ¿Dónde están las flechas?"
     },
     "OAgYDA": {
         "ko": "[궁수 코렐]\n여기서 갈 때가 있나? 혹시 길 잃은 거 아니야?",
@@ -9387,13 +9387,13 @@
         "ko": "[로그교관 플렉스]\n무역연합? 아! 길드에 부탁한 트랩이 온 건가? 길드에서 말해준 대로군.",
         "en": "[Felix]\nUnion? Ah! Did you bring my order? Just in time.",
         "pt": "[Felix]\nSindicato? Ah! Trouxe minha encomenda? Bem na hora.",
-        "es": "[Felix]\n¿Sindicato? ¡Ah! ¿Has traído mi pedido? Justo a tiempo."
+        "es": "[Felix]\n¿Unión? ¡Ah! ¿Has traído mi pedido? Justo a tiempo."
     },
     "PQgYDA": {
         "ko": "[로그교관 플렉스]\n무역연합? 아! 길드에서 트랩을 보낸다고 했는데 그건가? 뭐 가져오진 않은 것 같군.",
         "en": "[Felix]\nUnion? Ah! Where's my package? You guys used to be better.",
         "pt": "[Felix]\nSindicato? Ah! Onde está minha encomenda? Vocês já foram melhores.",
-        "es": "[Felix]\n¿Sindicato? ¡Ah! ¿Dónde está mi pedido? Antes eran mejores."
+        "es": "[Felix]\n¿Unión? ¡Ah! ¿Dónde está mi pedido? Antes eran mejores."
     },
     "PggYDA": {
         "ko": "[로그교관 플렉스]\n그냥 지나는 객이었군.",
@@ -9417,7 +9417,7 @@
         "ko": "[기사 에파드]\n난 에파드라 하오. 무역연합에서 나온 분 맞으시오?",
         "en": "[Epad]\nMy name is Epad. Are you from the Union?",
         "pt": "[Epad]\nMeu nome é Epad. Você é do Sindicato?",
-        "es": "[Epad]\nMe llamo Epad. ¿Eres del Sindicato?"
+        "es": "[Epad]\nMe llamo Epad. ¿Eres de la Unión?"
     },
     "QggYDA": {
         "ko": "[기사 에파드]\n급하게 가야 할 일 생겨서 이용하게 되었소. 내가 진정한 기사였다면 이용하지 않았겠지만..",
@@ -9453,7 +9453,7 @@
         "ko": "[캣 나이트 서브]\n무역연합의 비린내가 나냥? 인간 무역연합 사람이 분명하다냥.",
         "en": "[Sobeu]\nWhat's that smell? Oh, it looks like it's from the Union.",
         "pt": "[Sobeu]\nQue cheiro é esse? Ah, parece do Sindicato.",
-        "es": "[Sobeu]\n¿Qué es ese olor? Ah, parece del Sindicato."
+        "es": "[Sobeu]\n¿Qué es ese olor? Ah, parece de la Unión."
     },
     "SAgYDA": {
         "ko": "[캣 나이트 서브]\n캬릉~ 왜이리 늦게 왔냥~ 쥐 다 잡아버리겠다냥.",
@@ -9495,7 +9495,7 @@
         "ko": "[사막전사 세트]\n무역연합은 어디든 배달한다더니 정말 이런 곳까지 왔군.",
         "en": "[Seth]\nI heard that the Syndicate would deliver anywhere. And it's true.",
         "pt": "[Seth]\nOuvi dizer que o Sindicato entregaria em qualquer lugar. E é verdade.",
-        "es": "[Seth]\nOí decir que el Sindicato haría entregas en cualquier Ubicación. Y es cierto."
+        "es": "[Seth]\nOí decir que la Unión haría entregas en cualquier Ubicación. Y es cierto."
     },
     "TwgYDA": {
         "ko": "[사막전사 세트]\n가져와야 할 것은 잊은 것 같지만 용케 이곳까지 찾아왔군.",
@@ -9525,7 +9525,7 @@
         "ko": "[요원X]\n아 놀랐습니다. 무역연합에서 나온 분이시지요? 이쪽입니다.",
         "en": "[Agent X]\nWhat a shock. Are you from the Syndicate? This way.",
         "pt": "[Agente X]\nQue susto. Você é do Sindicato? Por aqui.",
-        "es": "[Agente X]\n¡Qué susto! ¿Eres del Sindicato? Por aquí."
+        "es": "[Agente X]\n¡Qué susto! ¿Eres de la Unión? Por aquí."
     },
     "VAgYDA": {
         "ko": "[요원X]\n덕분에 무리 없이 임무를 계속할 수 있겠군요. 감사합니다.",
@@ -9549,7 +9549,7 @@
         "ko": "딱 봐도 무역연합 사람 이고만, 어서 와.",
         "en": "You look like you're from the Syndicate.",
         "pt": "Você tem cara de ser do Sindicato.",
-        "es": "Tienes pinta de ser del Sindicato."
+        "es": "Tienes pinta de ser de la Unión."
     },
     "WAgYDA": {
         "ko": "수련몽크 클릭",
@@ -9603,7 +9603,7 @@
         "ko": "[마을꼬마 띠]\n아! 맞다! 무역연합에 포션 주문했었지. 고마워요. 아자!! 다시 도전!!",
         "en": "[Belto]\nAh! That's right! I ordered potions from the Union. Thanks. Ah!! Now I'm going to do well!!",
         "pt": "[Belto]\nAh! É mesmo! Eu pedi poções do Sindicato. Valeu. Ah!! Agorra vou me dar bem!!",
-        "es": "[Belto]\n¡Ah! ¡Es verdad! Pedí pociones al Sindicato. Gracias. ¡Ah! ¡Ahora me va a ir bien!"
+        "es": "[Belto]\n¡Ah! ¡Es verdad! Pedí pociones la Unión. Gracias. ¡Ah! ¡Ahora me va a ir bien!"
     },
     "YQgYDA": {
         "ko": "[마을꼬마 띠]\n뭐야? 무슨 물품? 이상한 사람이네.",
@@ -9645,7 +9645,7 @@
         "ko": "[수도사 트링]\n아! 무역연합 사람이었나? 그런데 부탁한 블루 젬스톤은?",
         "en": "[Tring]\nAh! Are you from the Union? Where is the Blue Gem?",
         "pt": "[Tring]\nAh! Você é do Sindicato? Onde está a Gema Azul?",
-        "es": "[Tring]\n¡Ah! ¿Eres del Sindicato? ¿Dónde está la Gema Azul?"
+        "es": "[Tring]\n¡Ah! ¿Eres de la Unión? ¿Dónde está la Gema Azul?"
     },
     "aAgYDA": {
         "ko": "[수도사 트링]\n아! 모험가로군. 혹시 주변에 쓰러진 자가 있다면 말해주게.",
@@ -9741,7 +9741,7 @@
         "ko": "[닌자 구간]\n무역연합에서 온 겁니까?",
         "en": "[Ninja Gunga]\nAre you with the Syndicate?",
         "pt": "[Ninja Gunga]\nVocê é do Sindicato?",
-        "es": "[Ninja Gunga]\n¿Eres del Sindicato?"
+        "es": "[Ninja Gunga]\n¿Eres de la Unión?"
     },
     "eAgYDA": {
         "ko": "[닌자 구간]\n아직 실력이 미천하여 이곳의 보스 마야는 감당하기 힘들군요. 더 열심히 해야겠습니다.",
@@ -9759,7 +9759,7 @@
         "ko": "[닌자 구간]\n아 그러십니까? 무역연합에서는 언제쯤 올는지.",
         "en": "[Ninja Gunga]\nOh, really? I wonder when the Syndicate will come.",
         "pt": "[Ninja Gunga]\nAh, é? Me questiono quando o Sindicato virá.",
-        "es": "[Ninja Gunga]\n¿Ah, sí? Me pregunto cuándo vendrá el Sindicato."
+        "es": "[Ninja Gunga]\n¿Ah, sí? Me pregunto cuándo vendrá la Unión."
     },
     "ewgYDA": {
         "ko": "크와와악~ 콰악!",
@@ -9801,7 +9801,7 @@
         "ko": "[로그 에이요]\n요~ 무역연합 요~ 언제 와 요~",
         "en": "[Logyo]\nHey~ Union~ Glad you came~",
         "pt": "[Logyo]\nEi~ Sindicato~ Que bom que veio~",
-        "es": "[Logyo]\n¡Eh~ Sindicato~ Qué bien que hayas venido~"
+        "es": "[Logyo]\n¡Eh~ Unión~ Qué bien que hayas venido~"
     },
     "gggYDA": {
         "ko": "[로그 에이요]\n요~ 고마워요~ 잘 가세요~ 몬스터요~ 다잡아요~",
@@ -9819,7 +9819,7 @@
         "ko": "[로그 에이요]\n무연연합 요~ 늦네요~ 에헤헤요~",
         "en": "[Logyo]\nUnion~ you're~ taking too long~",
         "pt": "[Logyo]\nSindicato~ está~ demorando~",
-        "es": "[Logyo]\nSindicato~ ¿A qué esperas?"
+        "es": "[Logyo]\nUnión~ ¿A qué esperas?"
     },
     "hQgYDA": {
         "ko": "좋은 물건 많다 냥~ 보고 가라 냥~",
@@ -9837,7 +9837,7 @@
         "ko": "[상단고양이 고씨]\n옹~ 믿을 수 있는 고양이 상단이다 냥. 좋은 물건 많다 냥.",
         "en": "[Pawz]\nMeow~ Someone from the Union, meow. I hope you brought my order.",
         "pt": "[Patinhas]\nMiau~ Alguém do Sindicato, miau. Espero que tenha trazido minha encomenda.",
-        "es": "[Patitas]\nMiau~ Alguien del Sindicato, miau. Espero que haya traído mi pedido."
+        "es": "[Patitas]\nMiau~ Alguien de la Unión, miau. Espero que haya traído mi pedido."
     },
     "iAgYDA": {
         "ko": "[상단고양이 고씨]\n아! 무역연합 이었냥? 인간들은 많이 느리지만 편리하다냥. 종종 보자냥~",
@@ -10131,7 +10131,7 @@
         "ko": "쉿! 혹시 무역연합? 이쪽이에요 이쪽!",
         "en": "Quick! Are you with the Union? Here!",
         "pt": "Rápido! É do Sindicato? Aqui!",
-        "es": "¡Rápido! ¿Eres del Sindicato? ¡Aquí!"
+        "es": "¡Rápido! ¿Eres de la Unión? ¡Aquí!"
     },
     "uQgYDA": {
         "ko": "고고학자 미엔",
@@ -10149,7 +10149,7 @@
         "ko": "[고고학자 미엔]\n아! 고마워요. 역시 무역연합은 믿을만한 단체에요. 들키면 안 되니 조용히 흩어지죠.",
         "en": "[Archeologist]\nAh! Thanks. The Syndicate never disappoints. I'll get back to my work.",
         "pt": "[Arqueologista]\nAh! Valeu. O Sindicato nunca decepciona. Voltarei ao meu trabalho.",
-        "es": "[Arqueólogo]\n¡Ah! Gracias. El Sindicato nunca defrauda. Volveré a mi trabajo."
+        "es": "[Arqueólogo]\n¡Ah! Gracias. La Unión nunca defrauda. Volveré a mi trabajo."
     },
     "vAgYDA": {
         "ko": "[고고학자 미엔]\n엣?! 설마 부탁한 물건을 놓고 온 거에요? 들키지 않게 숨어있을 테니 가져다 줘요.",
@@ -10179,7 +10179,7 @@
         "ko": "[형님 고양이]\n아 뭐냐? 인간이었나? 난 또 건방지게 이 몸의 펫이 되길 거부하는 용 인줄 알았다..",
         "en": "[Big Cat]\nWhat? A human? I hope it's from the Union...",
         "pt": "[Gatão]\nO quê? Um humano? Espero que seja do Sindicato..",
-        "es": "[Gato]\n¿Qué? ¿Un humano? Espero que sea del Sindicato..."
+        "es": "[Gato]\n¿Qué? ¿Un humano? Espero que sea de la Unión..."
     },
     "wQgYDA": {
         "ko": "[형님 고양이]\n고맙다 인간 먹고 힘내서 꼭 용을 테이밍하겠다.",
@@ -10293,7 +10293,7 @@
         "ko": "[레이딘 커스]\n응? 무연연합? 마스터가 보낸 건가? 트랩같은 건 이미 챙겼지만 또 준다니 고맙게 받도록 하지.",
         "en": "[Reidin Corse]\nHuh? Union? You're here already? Thanks for bringing the package.",
         "pt": "[Reidin Corse]\nHã? Sindicato? Já chegou? Obrigado por trazer a encomenda.",
-        "es": "[Reidin Corse]\n¿Eh? ¿El sindicato? ¿Ya ha llegado? Gracias por traer el paquete."
+        "es": "[Reidin Corse]\n¿Eh? ¿Unión? ¿Ya ha llegado? Gracias por traer el paquete."
     },
     "1AgYDA": {
         "ko": "[레이딘 커스]\n난 주문한 적이 없는데? 잘못 알고 온 것 아냐?",
@@ -10308,36 +10308,69 @@
         "es": "[Reidin Corse]\nEstá bien... ¡Estoy tan cansado que ni siquiera quiero hablar!"
     },
     "1ggYDA": {
-        "ko": "[사무관 가뷰너스]\n일하는 모험가 분들을 부득이 ^A662D9아메디스트 ^E25A68사드오닉스 ^5C57E4아쿠아마린 ^B3DFFB다이아몬드^000000 4단계 등급으로 나눠 관리하고 있어요."
+        "ko": "[사무관 가뷰너스]\n일하는 모험가 분들을 부득이 ^A662D9아메디스트 ^E25A68사드오닉스 ^5C57E4아쿠아마린 ^B3DFFB다이아몬드^000000 4단계 등급으로 나눠 관리하고 있어요.",
+        "en": "[Government Official]\nThe fame of adventurers is divided into 4 levels: ^A662D9Amethyst, ^E25A68Peridot, ^5C57E4Aquamarine, and ^B3DFFBDiamond^000000.",
+        "pt": "[Oficial do Governo]\nA fama dos aventureiros é dividida entre 4 níveis: ^A662D9Ametista, ^E25A68Peridoto, ^5C57E4Aquamarina e ^B3DFFBDiamante^000000.",
+        "es": "[Funcionaria del Gobierno]\nLa fama de los aventureros se divide en cuatro niveles: ^A662D9Amatista, ^E25A68Peridoto, ^5C57E4Aguamarina y ^B3DFFBDiamante^000000."
     },
     "1wgYDA": {
-        "ko": "[사무관 가뷰너스]\n매주 수요일 오전 4시에 새 의뢰로 변경되고요. ^A662D9아메디스트^000000 등급이라도 도전할 수 있으니 능력과 여유가 되시면 한번 도전해보세요."
+        "ko": "[사무관 가뷰너스]\n매주 수요일 오전 4시에 새 의뢰로 변경되고요. ^A662D9아메디스트^000000 등급이라도 도전할 수 있으니 능력과 여유가 되시면 한번 도전해보세요.",
+        "en": "[Government Official]\nThe missions change at 4 a.m. on Wednesday. If you are level ^A662D9Amethyst^000000, you can already do these missions.",
+        "pt": "[Oficial do Governo]\nAs missões mudam às 4 horas da manhã de Quarta-Feira. Se você for do nível ^A662D9Ametista^000000, já pode fazer essas missões.",
+        "es": "[Funcionaria del Gobierno]\nLas misiones cambian a las 4 de la madrugada del miércoles. Si tienes el nivel ^A662D9Ametista^000000, ya puedes realizar estas misiones."
     },
     "2AgYDA": {
-        "ko": "[사무관 가뷰너스]\n^CD5B45{0}^000000\n인가요? 비교적 간단한 의뢰도 포기하면, 나중에는.. 아! 주제 넘었네요. 죄송합니다. 정말 포기할건가요?"
+        "ko": "[사무관 가뷰너스]\n^CD5B45{0}^000000\n인가요? 비교적 간단한 의뢰도 포기하면, 나중에는.. 아! 주제 넘었네요. 죄송합니다. 정말 포기할건가요?",
+        "en": "[Government Official]\n^CD5B45{0}^000000\nIs that the mission? Well, are you sure you want to give it up?",
+        "pt": "[Oficial do Governo]\n^CD5B45{0}^000000\nSeria essa a missão? Bem, tem certeza de que quer desistir dela?",
+        "es": "[Funcionaria del Gobierno]\n^CD5B45{0}^000000\n¿Esa es la misión? Bueno, ¿estás seguro de que quieres abandonarla?"
     },
     "2QgYDA": {
-        "ko": "[사무관 가뷰너스]\n^CD5B45{0}^000000\n인가요? 뭐 어려운 장소라면 포기할 수도 있죠. 정말 포기할건가요?"
+        "ko": "[사무관 가뷰너스]\n^CD5B45{0}^000000\n인가요? 뭐 어려운 장소라면 포기할 수도 있죠. 정말 포기할건가요?",
+        "en": "[Government Official]\n^CD5B45{0}^000000\nIs that the mission? It really does seem like a difficult mission. Well, are you sure you want to give it up?",
+        "pt": "[Oficial do Governo]\n^CD5B45{0}^000000\nSeria essa a missão? Realmente, parece ser uma missão difícil. Bem, tem certeza de que quer desistir dela?",
+        "es": "[Funcionaria del Gobierno]\n^CD5B45{0}^000000\n¿Esa sería la misión? La verdad es que parece una misión difícil. Bueno, ¿estás seguro de que quieres renunciar a ella?"
     },
     "2ggYDA": {
-        "ko": "[사무관 가뷰너스]\n^CD5B45{0}^000000\n인가요? 정말 어려운 의뢰인가 봐요? 포기를 다하시고 정말 포기하실 거에요?"
+        "ko": "[사무관 가뷰너스]\n^CD5B45{0}^000000\n인가요? 정말 어려운 의뢰인가 봐요? 포기를 다하시고 정말 포기하실 거에요?",
+        "en": "[Government Official]\n^CD5B45{0}^000000\nIs that the mission? If it's too difficult, it's better to abandon it. Are you sure you want to give up on it?",
+        "pt": "[Oficial do Governo]\n^CD5B45{0}^000000\nSeria essa a missão? Se for muito difícil, é melhor abandoná-la. Quer mesmo desistir dela?",
+        "es": "[Funcionaria del Gobierno]\n^CD5B45{0}^000000\n¿Esa sería la misión? Si es muy difícil, es mejor abandonarla. ¿De verdad quieres renunciar a ella?"
     },
     "2wgYDA": {
-        "ko": "[사무관 가뷰너스]\n^CD5B45{0}^000000\n인가요? {1} 님 같은 분이 포기하시면 이 의뢰를 할 사람이 있으려나 모르겠네요. 정말 포기하실 거에요?"
+        "ko": "[사무관 가뷰너스]\n^CD5B45{0}^000000\n인가요? {1} 님 같은 분이 포기하시면 이 의뢰를 할 사람이 있으려나 모르겠네요. 정말 포기하실 거에요?",
+        "en": "[Government Official]\n^CD5B45{0}^000000\nIs that the mission? Damn, {1}... if even you don't want to make this request, imagine how the others feel... Well, are you sure you want to give it up?",
+        "pt": "[Oficial do Governo]\n^CD5B45{0}^000000\nSeria essa a missão? Caramba, {1}... se nem você quer fazer essa solicitação, imagine os outros... Bem, tem certeza de que quer desistir dela?",
+        "es": "[Funcionaria del Gobierno]\n^CD5B45{0}^000000\n¿Esa sería la misión? Vaya, {1}... si ni siquiera tú quieres hacer esa solicitud, imagínate los demás... Bueno, ¿estás seguro de que quieres renunciar a ella?"
     },
     "3AgYDA": {
-        "ko": "[사무관 가뷰너스]\n^CD5B45{0}^000000\n의뢰는 다른 분이 가져가실 수 있도록 게시판에 다시 붙여놔야겠네요."
+        "ko": "[사무관 가뷰너스]\n^CD5B45{0}^000000\n의뢰는 다른 분이 가져가실 수 있도록 게시판에 다시 붙여놔야겠네요.",
+        "en": "[Government Official]\n^CD5B45{0}^000000\nI put this request back on the mission board so someone else can take it.",
+        "pt": "[Oficial do Governo]\n^CD5B45{0}^000000\nColoquei essa solicitação de volta ao quadro de missões para que alguém possa aceitá-la.",
+        "es": "[Funcionaria del Gobierno]\n^CD5B45{0}^000000\nHe vuelto a poner esta solicitud en el tablón de misiones para que alguien pueda aceptarla."
     },
     "3QgYDA": {
-        "ko": "[사무관 가뷰너스]\n^CD5B45{0}^000000\n의뢰는 다른 분이 가져가실 수 있도록 게시판에 다시 붙여놔야겠네요. 가져갈지는 모르겠지만.."
+        "ko": "[사무관 가뷰너스]\n^CD5B45{0}^000000\n의뢰는 다른 분이 가져가실 수 있도록 게시판에 다시 붙여놔야겠네요. 가져갈지는 모르겠지만..",
+        "en": "[Government Official]\n^CD5B45{0}^000000\nI've put this request back on the quest board so someone else can take it. I hope someone wants it...",
+        "pt": "[Oficial do Governo]\n^CD5B45{0}^000000\nColoquei essa solicitação de volta ao quadro de missões para que alguém possa aceitá-la. Espero que alguém queira...",
+        "es": "[Funcionaria del Gobierno]\n^CD5B45{0}^000000\nHe vuelto a poner esta solicitud en el tablón de misiones para que alguien pueda aceptarla. Espero que alguien quiera..."
     },
     "3ggYDA": {
-        "ko": "[사무관 가뷰너스]\n^CD5B45{0}^000000\n의뢰는 한번 더 확인 후에 게시판에 다시 붙여놔야겠네요."
+        "ko": "[사무관 가뷰너스]\n^CD5B45{0}^000000\n의뢰는 한번 더 확인 후에 게시판에 다시 붙여놔야겠네요.",
+        "en": "[Government Official]\n^CD5B45{0}^000000\nI've put this request back on the quest board so someone can complete it.",
+        "pt": "[Oficial do Governo]\n^CD5B45{0}^000000\nColoquei essa solicitação de volta ao quadro de missões para que alguém possa completá-la.",
+        "es": "[Funcionaria del Gobierno]\n^CD5B45{0}^000000\nHe vuelto a colocar esta solicitud en el tablón de misiones para que alguien pueda completarla."
     },
     "3wgYDA": {
-        "ko": "[사무관 가뷰너스]\n^CD5B45{0}^000000\n의뢰는 확인 후에 게시판에 다시 붙여놓겠지만, 할만한 분이 계실지 모르겠네요."
+        "ko": "[사무관 가뷰너스]\n^CD5B45{0}^000000\n의뢰는 확인 후에 게시판에 다시 붙여놓겠지만, 할만한 분이 계실지 모르겠네요.",
+        "en": "[Government Official]\n^CD5B45{0}^000000\nI've put this request back on the quest board so someone else can take a look at it.",
+        "pt": "[Oficial do Governo]\n^CD5B45{0}^000000\nColoquei essa solicitação de volta ao quadro de missões para que alguém possa dar uma olhada nela.",
+        "es": "[Funcionaria del Gobierno]\n^CD5B45{0}^000000\nHe vuelto a colocar esta solicitud en el tablón de misiones para que alguien pueda echarle un vistazo."
     },
     "4AgYDA": {
-        "ko": "[사무관 가뷰너스]\n일하는 모험가 분들을 부득이 ^A662D9아메디스트^000000 ^E25A68사드오닉스^000000 ^5C57E4아쿠아마린^000000 ^B3DFFB다이아몬드^000000 4단계 등급으로 나눠 관리하고 있어요."
+        "ko": "[사무관 가뷰너스]\n일하는 모험가 분들을 부득이 ^A662D9아메디스트^000000 ^E25A68사드오닉스^000000 ^5C57E4아쿠아마린^000000 ^B3DFFB다이아몬드^000000 4단계 등급으로 나눠 관리하고 있어요.",
+        "en": "[Government Official]\nWe divide trust into a fame ranking, between ^A662D9Amethyst^000000, ^E25A68Peridot^000000, ^5C57E4Aquamarine^000000, and ^B3DFFBDiamond^000000.",
+        "pt": "[Oficial do Governo]\nDividimos a confiança em um ranking de fama, entre ^A662D9Ametista^000000, ^E25A68Peridoto^000000, ^5C57E4Aquamarina^000000 e ^B3DFFBDiamante^000000.",
+        "es": "[Funcionaria del Gobierno]\nHemos dividido la confianza en una clasificación de fama, entre ^A662D9Amatista^000000, ^E25A68Peridoto^000000, ^5C57E4Aguamarina^000000 y ^B3DFFBDiamante^000000."
     }
 }
