@@ -1,98 +1,194 @@
 {
     "gBo7DA": {
-        "ko": "은행직원"
+        "ko": "은행직원",
+        "en": "Bank Teller",
+        "pt": "Atendente do Banco",
+        "es": "Empleado del Banco"
     },
     "gRo7DA": {
-        "ko": "[은행직원]\n어서 오세요.\nGC은행 락릿지 지점입니다. 무엇을 도와드릴까요?"
+        "ko": "[은행직원]\n어서 오세요.\nGC은행 락릿지 지점입니다. 무엇을 도와드릴까요?",
+        "en": "[Bank Teller]\nWelcome.\nThis is the Rockridge branch of GC Bank. How can I help you?",
+        "pt": "[Atendente do Banco]\nBoas vindas.\nEsta é a agência Rockridge do Banco GC. Em que posso ajudar?",
+        "es": "[Empleado del Banco]\nBienvenido.\nEsta es la sucursal Rockridge del Banco GC. ¿En qué puedo ayudarle?"
     },
     "gho7DA": {
-        "ko": "계좌를 확인한다."
+        "ko": "계좌를 확인한다.",
+        "en": "Check my account.",
+        "pt": "Verificar minha conta.",
+        "es": "Revisar mi cuenta."
     },
     "gxo7DA": {
-        "ko": "투자상품에 가입한다."
+        "ko": "투자상품에 가입한다.",
+        "en": "Sign up for an investment product.",
+        "pt": "Contratar um produto de investimento.",
+        "es": "Contratar un producto de inversión."
     },
     "hBo7DA": {
-        "ko": "GC은행?"
+        "ko": "GC은행?",
+        "en": "GC Bank?",
+        "pt": "Banco GC?",
+        "es": "¿Banco GC?"
     },
     "hRo7DA": {
-        "ko": "지나다가 들렀다."
+        "ko": "지나다가 들렀다.",
+        "en": "Just stopped by.",
+        "pt": "Só estou passando.",
+        "es": "Sólo pasaba por aquí."
     },
     "hho7DA": {
-        "ko": "[은행직원]\n{0} 고객님이시죠?"
+        "ko": "[은행직원]\n{0} 고객님이시죠?",
+        "en": "[Bank Teller]\nYou are {0}, correct?",
+        "pt": "[Atendente do Banco]\nVocê é {0}, correto?",
+        "es": "[Empleado del Banco]\nUsted es {0}, ¿verdad?"
     },
     "hxo7DA": {
-        "ko": "[은행직원]\n저희 계좌는 아니지만 {0} 이름으로 개설되어 있는 계좌가 존재하네요. 도와드리겠습니다."
+        "ko": "[은행직원]\n저희 계좌는 아니지만 {0} 이름으로 개설되어 있는 계좌가 존재하네요. 도와드리겠습니다.",
+        "en": "[Bank Teller]\nIt's not an account with us, but there is an account opened under the name {0}. I can assist you.",
+        "pt": "[Atendente do Banco]\nNão é uma conta conosco, mas existe uma conta aberta no nome de {0}. Posso te ajudar.",
+        "es": "[Empleado del Banco]\nNo es una cuenta con nosotros, pero existe una cuenta abierta bajo el nombre de {0}. Le puedo ayudar."
     },
     "iBo7DA": {
-        "ko": "[은행직원]\n죄송합니다.\n본사 지침 상 개인 고객님께는 투자상품을 판매하고 있지 않습니다."
+        "ko": "[은행직원]\n죄송합니다.\n본사 지침 상 개인 고객님께는 투자상품을 판매하고 있지 않습니다.",
+        "en": "[Bank Teller]\nI'm sorry.\nAccording to head office policy, we do not sell investment products to individual customers.",
+        "pt": "[Atendente do Banco]\nSinto muito.\nDe acordo com as políticas da matriz, não vendemos produtos de investimento para clientes individuais.",
+        "es": "[Empleado del Banco]\nLo siento.\nSegún las políticas de la matriz, no vendemos productos de inversión a clientes individuales."
     },
     "iRo7DA": {
-        "ko": "[은행직원]\nGC은행 말입니까?\n아무래도 지점이 거어어어어이 없기 때문에 모르는 분이 많을 겁니다."
+        "ko": "[은행직원]\nGC은행 말입니까?\n아무래도 지점이 거어어어어이 없기 때문에 모르는 분이 많을 겁니다.",
+        "en": "[Bank Teller]\nGC Bank, you ask?\nWell, since our braaaaaaanches are nowhere to be found, I suppose many people wouldn't know about us.",
+        "pt": "[Atendente do Banco]\nBanco GC, você pergunta?\nBem, como nossas agêêêências não estão em lugar nenhum, suponho que muitas pessoas não nos conheçam.",
+        "es": "[Empleado del Banco]\n¿El Banco GC, dice?\nBueno, como nuestras suuuuuucursales no se encuentran por ningún lado, supongo que mucha gente no nos conoce."
     },
     "iho7DA": {
-        "ko": "[은행직원]\n주 업무는 기업과의 거래라 할 수 있겠군요."
+        "ko": "[은행직원]\n주 업무는 기업과의 거래라 할 수 있겠군요.",
+        "en": "[Bank Teller]\nYou could say our main business is dealing with corporations.",
+        "pt": "[Atendente do Banco]\nPode-se dizer que nosso principal negócio é lidar com empresas.",
+        "es": "[Empleado del Banco]\nSe podría decir que nuestro negocio principal es tratar con empresas."
     },
     "ixo7DA": {
-        "ko": "[은행직원]\n물론 개인고객의 계좌조회도 도와드리긴 합니다만, 은행은 아무래도 기업과 거래를 해야 돈을 버니까요."
+        "ko": "[은행직원]\n물론 개인고객의 계좌조회도 도와드리긴 합니다만, 은행은 아무래도 기업과 거래를 해야 돈을 버니까요.",
+        "en": "[Bank Teller]\nOf course, we do assist individual customers with account inquiries, but ultimately, a bank needs to do business with companies to make money.",
+        "pt": "[Atendente do Banco]\nClaro, ajudamos clientes individuais com consultas de conta, mas no final, um banco precisa fazer negócios com empresas para ganhar dinheiro.",
+        "es": "[Empleado del Banco]\nPor supuesto, ayudamos a clientes individuales con consultas de cuenta, pero al final, un banco necesita hacer negocios con empresas para ganar dinero."
     },
     "jBo7DA": {
-        "ko": "[은행직원]\n사담이지만, GC은행 설립자가 금화를 좋아해서 은행이름도 Gold Coin을 줄여서 GC은행이 되었다고 합니다."
+        "ko": "[은행직원]\n사담이지만, GC은행 설립자가 금화를 좋아해서 은행이름도 Gold Coin을 줄여서 GC은행이 되었다고 합니다.",
+        "en": "[Bank Teller]\nJust some trivia, but they say the founder of GC Bank liked gold coins so much that he named the bank GC, short for Gold Coin.",
+        "pt": "[Atendente do Banco]\nSó uma curiosidade, mas dizem que o fundador do Banco GC gostava tanto de moedas de ouro que batizou o banco de GC, abreviação de Gold Coin (Moeda de Ouro).",
+        "es": "[Empleado del Banco]\nSólo un dato curioso, pero dicen que al fundador del Banco GC le gustaban tanto las monedas de oro que llamó al banco GC, por Gold Coin (Moneda de Oro)."
     },
     "jRo7DA": {
-        "ko": "[은행직원]\n혹시 보이지 않으십니까? 지붕 위에 크고 아름다운 금화가?"
+        "ko": "[은행직원]\n혹시 보이지 않으십니까? 지붕 위에 크고 아름다운 금화가?",
+        "en": "[Bank Teller]\nCan you see it? The big, beautiful gold coin on the roof?",
+        "pt": "[Atendente do Banco]\nConsegue ver? A grande e bela moeda de ouro no telhado?",
+        "es": "[Empleado del Banco]\n¿Puede verla? ¿La moneda de oro grande y hermosa en el techo?"
     },
     "jho7DA": {
-        "ko": "[은행직원]\n하하 그러시군요.\n사막이고 건물로 들어가지도 못해 땡볕에 서있어야 하지만, 편히 쉬다 가시길."
+        "ko": "[은행직원]\n하하 그러시군요.\n사막이고 건물로 들어가지도 못해 땡볕에 서있어야 하지만, 편히 쉬다 가시길.",
+        "en": "[Bank Teller]\nHaha, I see.\nEven though it's the desert, you can't enter the building, and have to stand under the scorching sun, please feel free to rest here.",
+        "pt": "[Atendente do Banco]\nHaha, entendo.\nMesmo estando no deserto, você não pode entrar no prédio e tem que ficar sob o sol escaldante, sinta-se à vontade para descansar aqui.",
+        "es": "[Empleado del Banco]\nJaja, ya veo.\nAunque estemos en el desierto, no puede entrar al edificio y tiene que pararse bajo el sol abrasador, siéntase libre de descansar aquí."
     },
     "jxo7DA": {
-        "ko": "알랑 모를렝"
+        "ko": "알랑 모를렝",
+        "en": "Allang Morelleng",
+        "pt": "Allang Morelleng",
+        "es": "Allang Morelleng"
     },
     "kBo7DA": {
-        "ko": "[알랑 모를렝]\n이봐 왜 대출이 안 된다는 거야?"
+        "ko": "[알랑 모를렝]\n이봐 왜 대출이 안 된다는 거야?",
+        "en": "[Allang Morelleng]\nHey, why won't you give me a loan?",
+        "pt": "[Allang Morelleng]\nEi, por que você não me concede um empréstimo?",
+        "es": "[Allang Morelleng]\nOye, ¿por qué no me das un préstamo?"
     },
     "kRo7DA": {
-        "ko": "[은행직원]\n죄송합니다. 본사지침 상 개인고객과의 거래는 금지되어 있습니다."
+        "ko": "[은행직원]\n죄송합니다. 본사지침 상 개인고객과의 거래는 금지되어 있습니다.",
+        "en": "[Bank Teller]\nI'm sorry. Head office policy prohibits transactions with individual customers.",
+        "pt": "[Atendente do Banco]\nSinto muito. A política da matriz proíbe transações com clientes individuais.",
+        "es": "[Empleado del Banco]\nLo siento. La política de la matriz prohíbe las transacciones con clientes individuales."
     },
     "kho7DA": {
-        "ko": "[알랑 모를렝]\n아오 답답해. 이 봐 어제도 나와 거래를 했잖아? 잘 봐봐 내 얼굴 몰라?"
+        "ko": "[알랑 모를렝]\n아오 답답해. 이 봐 어제도 나와 거래를 했잖아? 잘 봐봐 내 얼굴 몰라?",
+        "en": "[Allang Morelleng]\nUgh, this is so frustrating. Look, you did business with me just yesterday! Take a good look, don't you recognize my face?",
+        "pt": "[Allang Morelleng]\nAff, isso é tão frustrante. Olha, você fez negócio comigo ontem! Olhe bem, não reconhece minha cara?",
+        "es": "[Allang Morelleng]\nUf, esto es tan frustrante. ¡Mira, hiciste negocio conmigo ayer! Mira bien, ¿no reconoces mi cara?"
     },
     "kxo7DA": {
-        "ko": "[은행직원]\n고객님 신분증을 제시해 주십시오. 고객님도 아시지 않잖습니까? 비슷한 얼굴을 가진 자들이 얼마나 많은지.."
+        "ko": "[은행직원]\n고객님 신분증을 제시해 주십시오. 고객님도 아시지 않잖습니까? 비슷한 얼굴을 가진 자들이 얼마나 많은지..",
+        "en": "[Bank Teller]\nPlease present your ID. You know how it is, don't you? There are so many people with similar faces...",
+        "pt": "[Atendente do Banco]\nPor favor, apresente sua identificação. Você sabe como é, não? Há tantas pessoas com rostos parecidos...",
+        "es": "[Empleado del Banco]\nPor favor, muestre su identificación. Usted sabe cómo es, ¿no? Hay mucha gente con caras similares..."
     },
     "lBo7DA": {
-        "ko": "[은행직원]\n사고가 나면 다 제가 책임져야 합니다. 고객님 제발 제 사정도 좀 봐주세요."
+        "ko": "[은행직원]\n사고가 나면 다 제가 책임져야 합니다. 고객님 제발 제 사정도 좀 봐주세요.",
+        "en": "[Bank Teller]\nIf something goes wrong, I'll be held responsible. Please, consider my situation.",
+        "pt": "[Atendente do Banco]\nSe algo der errado, terei problemas. Por favor, compreenda minha situação.",
+        "es": "[Empleado del Banco]\nSi algo sale mal, yo seré el responsable. Por favor, considere mi situación."
     },
     "lRo7DA": {
-        "ko": "[알랑 모를렝]\n큭.. .. .."
+        "ko": "[알랑 모를렝]\n큭.. .. ..",
+        "en": "[Allang Morelleng]\nGrr... .. ..",
+        "pt": "[Allang Morelleng]\nGrr... .. ..",
+        "es": "[Allang Morelleng]\nGrr... .. .."
     },
     "lho7DA": {
-        "ko": "[은행직원]\n이해해주셔서 감사합니다. 살펴가세요. 고객님"
+        "ko": "[은행직원]\n이해해주셔서 감사합니다. 살펴가세요. 고객님",
+        "en": "[Bank Teller]\nThank you for your understanding. Please take care, sir.",
+        "pt": "[Atendente do Banco]\nAgradeço pela compreensão. Tchau, senhor.",
+        "es": "[Empleado del Banco]\nGracias por su comprensión. Cuídese, señor."
     },
     "lxo7DA": {
-        "ko": "빵집 주인"
+        "ko": "빵집 주인",
+        "en": "Baker",
+        "pt": "Padeiro",
+        "es": "Panadero"
     },
     "mBo7DA": {
-        "ko": "오늘 아침에 구운 빵입니다."
+        "ko": "오늘 아침에 구운 빵입니다.",
+        "en": "Freshly baked bread this morning.",
+        "pt": "Pão fresquinho!",
+        "es": "Pan recién horneado esta mañana."
     },
     "mRo7DA": {
-        "ko": "빵 사세요. 빵~ 따뜻한 빵 있어요~"
+        "ko": "빵 사세요. 빵~ 따뜻한 빵 있어요~",
+        "en": "Buy some bread. Bre~ad! We have warm bread~",
+        "pt": "Compre pãão! Temos pão quentinho~",
+        "es": "Compre pan. ¡Paaan! Tenemos pan calientito~"
     },
     "mho7DA": {
-        "ko": "둘이 먹다. 열이 죽어도 모를 맛있는 빵 팔아요."
+        "ko": "둘이 먹다. 열이 죽어도 모를 맛있는 빵 팔아요.",
+        "en": "Bread so delicious you wouldn't notice if you dropped dead eating it with someone.",
+        "pt": "Um pão tão delicioso que a manteiga derrete!",
+        "es": "Un pan tan delicioso que no notarías si te mueres comiéndolo con alguien."
     },
     "mxo7DA": {
-        "ko": "오빵 따위 다 필요 없습니다. 먹는 빵이 최고에요. 빵 드세요."
+        "ko": "오빵 따위 다 필요 없습니다. 먹는 빵이 최고에요. 빵 드세요.",
+        "en": "We don't need fancy pastries or anything. Simple bread is the best. Give me bread.",
+        "pt": "Não precisamos de bolos chiques nem nada. Pão simples é o melhor!",
+        "es": "No necesitamos pasteles finos ni nada. El pan simple es el mejor. Deme pan."
     },
     "nBo7DA": {
-        "ko": "빵! 빵빵! 빵빵빵!"
+        "ko": "빵! 빵빵! 빵빵빵!",
+        "en": "Bread! Bread, bread! Bread, bread, bread!",
+        "pt": "Pão! Pão, pão! Pão, pão, pão!",
+        "es": "¡Pan! ¡Pan, pan! ¡Pan, pan, pan!"
     },
     "nRo7DA": {
-        "ko": "거기 자네. 빵 사지 않겠는가?"
+        "ko": "거기 자네. 빵 사지 않겠는가?",
+        "en": "You there! Won't you buy some bread?",
+        "pt": "Você aí! Não quer comprar pão?",
+        "es": "¡Oye tú! ¿No quieres comprar pan?"
     },
     "nho7DA": {
-        "ko": "이곳에서는 빵을 팔지. 정말 빵 딱! 하나만 판다네."
+        "ko": "이곳에서는 빵을 팔지. 정말 빵 딱! 하나만 판다네.",
+        "en": "We sell bread here. Seriously, we sell just one, perfect loaf!",
+        "pt": "Aqui vendemos pão. Sério, vendemos apenas um pão perfeito!",
+        "es": "Aquí vendemos pan. En serio, ¡vendemos sólo una barra perfecta!"
     },
     "nxo7DA": {
-        "ko": "어서 옵쇼~"
+        "ko": "어서 옵쇼~",
+        "en": "Come on in~",
+        "pt": "Venham, venham~",
+        "es": "Pase, pase~"
     }
 }

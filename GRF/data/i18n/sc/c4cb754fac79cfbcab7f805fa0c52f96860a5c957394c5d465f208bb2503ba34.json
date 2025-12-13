@@ -1,437 +1,146 @@
 {
     "oA9ZBg": {
+        "ko": "에스메랄다",
         "en": "Esmeralda",
         "pt": "Esmeralda",
         "es": "Esmeralda"
     },
     "oQ9ZBg": {
-        "en": "<Priest Guild Leader>",
+        "ko": "<사제회 길드장>",
+        "en": "Guild Leader",
         "pt": "Líder do Clã",
-        "es": "<Priest Guild Leader>"
+        "es": "Líder del Clan"
     },
     "og9ZBg": {
-        "en": "It seems like you have too many types or weights of items. Please organize your inventory.",
+        "ko": "보유한 물건의 종류나 무게가 너무 많은 것 같습니다. 인벤토리를 정리해주세요.",
+        "en": "Reorganize your inventory and come back again.",
         "pt": "Reorganize seu inventário e volte novamente.",
-        "es": "Parece que tienes demasiados tipos o pesos de objetos. Organiza tu inventario."
+        "es": "Reorganiza tu inventario y vuelve otra vez."
     },
     "ow9ZBg": {
-        "en": "[Esmeralda]\nOh, I thought we parted ways without even saying goodbye, but I guess you decided to work as a guest guild member for us?",
+        "ko": "[에스메랄다]\n오, 인사도 못한채로 헤어지나 했는데 저희 객원 길드원으로 활동 해 주시기로 했나봐요?",
+        "en": "[Esmeralda]\nAh, I left without saying goodbye, but it seems you agreed to help the recruits, right?",
         "pt": "[Esmeralda]\nAh, eu saí sem me despedir, mas parece que você aceitou ajudar os recrutas, certo?",
-        "es": "[Esmeralda]\nPensé que nos habíamos separado sin despedirnos, pero supongo que decidiste trabajar para nosotros como miembro invitado del gremio."
+        "es": "[Esmeralda]\nAh, me fui sin despedirme, pero parece que aceptaste ayudar a los reclutas, ¿verdad?"
     },
     "pA9ZBg": {
-        "en": "It happened to be like that",
+        "ko": "어쩌다보니 그리 되었다",
+        "en": "Yeah, it happens.",
         "pt": "É, acontece.",
-        "es": "Así fue."
+        "es": "Sí, sucede."
     },
     "pQ9ZBg": {
-        "en": "I don't think it's any harm",
+        "ko": "딱히 손해는 아닌것 같아서",
+        "en": "Alright.",
         "pt": "Certo.",
-        "es": "No creo que haya ningún problema."
+        "es": "De acuerdo."
     },
     "pg9ZBg": {
-        "en": "[Esmeralda]\nIt's a good choice. We will be of great help to each other.",
+        "ko": "[에스메랄다]\n좋은 선택이예요. 서로에게 많은 도움이 될 거예요.",
+        "en": "[Esmeralda]\nYou did well. It will be a big help.",
         "pt": "[Esmeralda]\nVocê fez bem. Vai ajudar bastante.",
-        "es": "[Esmeralda]\nEs una buena elección. Nos ayudaremos mutuamente."
+        "es": "[Esmeralda]\nHiciste bien. Será de gran ayuda."
     },
     "pw9ZBg": {
-        "en": "Why don't you send other guild members?",
+        "ko": "어째서 길드원들을 돌려보내지 않습니까?",
+        "en": "Why don't you revive them?",
         "pt": "Por que você não os revive?",
-        "es": "¿Por qué no envías a otros miembros del gremio?"
+        "es": "¿Por qué no los revives tú?"
     },
     "qA9ZBg": {
-        "en": "[Esmeralda]\nThere is a reason for that.\nThose guys didn't make a contract with the Guardian Relic. So, there is no insurance whatsoever. If I send other members to perform exorcism, those lost souls will be gone forever.",
+        "ko": "[에스메랄다]\n그럴만한 사정이 있긴해요.\n저 녀석들은 수호 성물과 계약하지 않았거든요. 아무런 보험이 없는 셈이죠. 마을 주변에서 얼쩡거리다 구마의식이라도 당하면 완전히 소멸 할걸요.",
+        "en": "[Esmeralda]\nThere's a good reason.\nThey didn't sign the Divine Being's contract. If they go to the city in spirit form, they would be exorcised and annihilated.",
         "pt": "[Esmeralda]\nHá um bom motivo.\nEles não assinaram o contrato do Ser Divino. Se eles forem para a cidade na forma de espírito, seriam exorcizados e aniquilados.",
-        "es": "[Esmeralda]\nHay una razón para ello.\nEsos tipos no hicieron un contrato con la reliquia guardiana. Por lo tanto, no hay ningún tipo de seguro. Si envío a otros miembros a realizar exorcismos, esas almas perdidas se irán para siempre."
+        "es": "[Esmeralda]\nHay una buena razón.\nEllos no firmaron el contrato del Ser Divino. Si van a la ciudad en forma de espíritu, serían exorcizados y aniquilados."
     },
     "qQ9ZBg": {
-        "en": "[Esmeralda]\nI thought it would be safer to stay here for the time being, so I gave instructions to keep myself hidden and only appear to you who helped me.",
+        "ko": "[에스메랄다]\n당분간은 이곳에 머무르는것이 안전할 것 같아서 평소엔 몸을 숨기고 있다가 도움을 준 당신 눈에만 나타나도록 지시를 해둔 상태예요.",
+        "en": "[Esmeralda]\nIt's better for them to stay hidden there. That's why I'm also hiding and only appearing to those I trust.",
         "pt": "[Esmeralda]\nÉ melhor que eles fiquem escondidos ali. Por isso, eu também estou escondida para aparecer somente em quem eu confio.",
-        "es": "[Esmeralda]\nPensé que sería más seguro quedarme aquí por el momento, así que di instrucciones para ocultarme y solo aparecer ante quien me ayudó."
+        "es": "[Esmeralda]\nEs mejor que se queden escondidos allí. Por eso yo también estoy escondida y solo me aparezco a quienes confío."
     },
     "qg9ZBg": {
-        "en": "[Esmeralda]\nFirst of all, since the guild has very little funds, it will likely take quite some time for them to be fully revived. So, I'm thinking of stopping running the guild for a while and starting a business here.",
+        "ko": "[에스메랄다]\n일단 길드의 자금이 너무 없는 관계로 녀석들의 온전한 부활엔 꽤 많은 시간이 필요할 것 같아요. 그래서 저도 잠시 길드 운영을 멈추고 여기서 장사나 해볼까 해요.",
+        "en": "[Esmeralda]\nFirst of all, the Cathedral doesn't have enough money for revival, so I quit my job to handle this personally.",
         "pt": "[Esmeralda]\nPrimeiramente, a Catedral não tem dinheiro suficiente para reviver, então eu larguei o meu posto de trabalho para cuidar disso pessoalmente.",
-        "es": "[Esmeralda]\nPrimero, dado que el gremio dispone de muy pocos fondos, es probable que tarden mucho tiempo en revivir por completo. Así que estoy pensando en dejar de dirigir el gremio por un tiempo y empezar un negocio aquí."
+        "es": "[Esmeralda]\nEn primer lugar, la Catedral no tiene suficiente dinero para revivir, así que dejé mi trabajo para encargarme de esto personalmente."
     },
     "qw9ZBg": {
-        "en": "What kind of business are you planning on doing?",
+        "ko": "어떤 장사를 할 셈이죠?",
+        "en": "And now?",
         "pt": "E agora?",
-        "es": "¿Qué tipo de negocio piensas hacer?"
+        "es": "¿Y ahora?"
     },
     "rA9ZBg": {
-        "en": "[Esmeralda]\nAs you know, items called Illusion Stone appear in unknown dungeons all over the continent these days. That... is a very valuable item in this world.",
+        "ko": "[에스메랄다]\n아시겠지만 요즘 대륙 곳곳에 나타나는 미지의 던전들에선 환상석이라는 물건이 나오잖아요. 그거... 꽤 이쪽세계에선 값어치 높은 물건이예요.",
+        "en": "[Esmeralda]\nYou must have heard about the Illusion Caves that have been appearing everywhere. There's a mineral called Illusion Stone.",
         "pt": "[Esmeralda]\nVocê já deve ter ouvido falar nas Cavernas Ilusionais que vêm aparecendo em todo o canto. Há um minério chamado Pedra Ilusional.",
-        "es": "[Esmeralda]\nComo sabes, los objetos llamados Piedras de la ilusión están apareciendo en mazmorras desconocidas por todo el continente. Ese… es un objeto muy valioso en este mundo."
+        "es": "[Esmeralda]\nDebes haber oído de las Cuevas de Ilusión que han aparecido por todas partes. Hay un mineral llamado Piedra de Ilusión."
     },
     "rQ9ZBg": {
-        "en": "[Esmeralda]\nI heard that there is a guild that started exploring this dungeon first. And I also received information that Illusion Stone was also found.",
+        "ko": "[에스메랄다]\n이 던전의 탐사를 먼저 시작한 길드가 있다는 이야기를 들었어요. 그리고 환상석이 나온다는 정보도 입수했고요.",
+        "en": "[Esmeralda]\nThis stone is very valuable, and apparently, they are coming from this distorted labyrinth.",
         "pt": "[Esmeralda]\nEssa pedra tem muito valor e, aparentemente, elas estão saindo desse labirinto distorcido.",
-        "es": "[Esmeralda]\nEscuché que hay un gremio que empezó primero a explorar esta mazmorra. Y también recibí información de que encontraron la Piedra de la ilusión."
+        "es": "[Esmeralda]\nEsta piedra es muy valiosa, y aparentemente, están saliendo de este laberinto distorsionado."
     },
     "rg9ZBg": {
-        "en": "[Esmeralda]\nI'm thinking of doing something like equipment upgrade service near the entrance. Of course, you will receive Illusion Stone and various materials as payment.",
+        "ko": "[에스메랄다]\n전 이곳 입구 근처에서 장비 업그레이드를 해주는 일을 해볼까 해요. 물론 비용으로 환상석과 각종 재료를 받을 예정이예요.",
+        "en": "[Esmeralda]\nI'm thinking of using them as material to upgrade some equipment to sell and make money.",
         "pt": "[Esmeralda]\nEstou pensando em usá-las como material para atualizar alguns equipamentos para vender e ganhar dinheiro.",
-        "es": "[Esmeralda]\nEstoy pensando en ofrecer algo así como un servicio de mejora de equipamiento cerca de la entrada. Por supuesto, recibirás como pago la Piedra de la ilusión y varios materiales."
+        "es": "[Esmeralda]\nEstoy pensando en usarlas como material para actualizar algunos equipos y venderlos para ganar dinero."
     },
     "rw9ZBg": {
-        "en": "[Esmeralda]\nI think that if I work hard for a few months, I will soon have enough money to revive my guild members.\nThis is probably the best for now.",
+        "ko": "[에스메랄다]\n몇 달만 고생하면 아마 길드원들 부활시킬 자금정도는 금방 모일것 같아요.\n이게 지금으로선 최선이겠죠.",
+        "en": "[Esmeralda]\nIf I work hard, in a few years I'll have what's needed to revive the novices.\nIt's the best I can do.",
         "pt": "[Esmeralda]\nSe eu trabalhar bastante, em alguns anos vou ter o necessário para reviver os noviços.\nÉ o melhor que posso fazer.",
-        "es": "[Esmeralda]\nCreo que si trabajo duro durante algunos meses, pronto tendré suficiente dinero para revivir a los miembros de mi gremio.\nPor ahora, quizá esto sea lo mejor."
+        "es": "[Esmeralda]\nSi trabajo duro, en unos años tendré lo necesario para revivir a los novicios.\nEs lo mejor que puedo hacer."
     },
     "sA9ZBg": {
-        "en": "Is that all it is?",
+        "ko": "단지 그것뿐인가요?",
+        "en": "That's it?",
         "pt": "Só isso?",
-        "es": "¿Eso es todo?"
+        "es": "¿Solo eso?"
     },
     "sQ9ZBg": {
-        "en": "[Esmeralda]\nWell... there are countless other places to put money. I will skip explaining it in detail.",
+        "ko": "[에스메랄다]\n뭐... 그 외의 잡다하게 돈 들어갈 구석은 셀 수 없이 많으니까. 일일이 설명하는건 생략할게요.",
+        "en": "[Esmeralda]\nWell... it's the easiest way I found to raise money.",
         "pt": "[Esmeralda]\nBom... é a forma mais fácil que eu encontrei para levantar dinheiro.",
-        "es": "[Esmeralda]\nBueno… hay innumerables lugares donde poner dinero. No voy a explicarlo en detalle."
+        "es": "[Esmeralda]\nBueno... es la forma más fácil que encontré para conseguir dinero."
     },
     "sg9ZBg": {
-        "en": "[Esmeralda]\nAnyway, next time I come, will I see you as a customer and vendor? Please continue to take good care of me.",
+        "ko": "[에스메랄다]\n어쨌든, 다음에 올땐 손님과 장사꾼으로서 보게 되는건가요? 앞으로도 잘 부탁해요.",
+        "en": "[Esmeralda]\nAnyway, next time you talk to me, I'll be offering my equipment enhancement services.",
         "pt": "[Esmeralda]\nDe toda forma, na próxima vez que você conversar comigo, estarei oferecendo meus serviços de aprimoramento de equipamentos.",
-        "es": "[Esmeralda]\nDe todos modos, la próxima vez que venga, ¿serás cliente y proveedor? Por favor, sigue cuidándome."
+        "es": "[Esmeralda]\nDe todas formas, la próxima vez que hables conmigo, estaré ofreciendo mis servicios de mejora de equipos."
     },
     "sw9ZBg": {
-        "en": "+9 Morpheus's Hood",
-        "pt": "+9 Faixa de Morpheus",
-        "es": "+9Cinta de Morfeo."
+        "ko": "[에스메랄다]\n목록의 장비를 가지고 계시다면 뒤틀린 미궁에서 얻은 물품들로 업그레이드를 하실 수 있어요.",
+        "en": "[Esmeralda]\nIf you have the right equipment, I can enhance it using materials from the Labyrinth Illusion.",
+        "pt": "[Esmeralda]\nSe você tiver os equipamentos corretos, eu consigo aprimorá-los usando materiais da Ilusão do Labirinto.",
+        "es": "[Esmeralda]\nSi tienes los equipos correctos, puedo mejorarlos usando materiales de la Ilusión del Laberinto."
     },
     "tA9ZBg": {
-        "en": "+9 Morpheus's Shawl",
-        "pt": "+9 Véu de Morpheus",
-        "es": "+9Manto de Morfeo."
-    },
-    "tQ9ZBg": {
-        "en": "Morpheus's Ring",
-        "pt": "Anel de Morpheus (Direito)",
-        "es": "Anillo de Morfeo."
-    },
-    "tg9ZBg": {
-        "en": "Morpheus's Bracelet",
-        "pt": "Bracelete de Morpheus (Direito)",
-        "es": "Brazalete de Morfeo."
-    },
-    "tw9ZBg": {
-        "en": "+9 Butcher [1]",
-        "pt": "+9 Retalhadora [1]",
-        "es": "+9Carnicero [1]."
-    },
-    "uA9ZBg": {
-        "en": "+9 Tae Goo Lyeon",
-        "pt": "+9 Tae Goo Lyeon",
-        "es": "+9Tae Goo Lyeon."
-    },
-    "uQ9ZBg": {
-        "en": "+9 Gold Lux",
-        "pt": "+9 Brilho Dourado",
-        "es": "+9Lux de oro."
-    },
-    "ug9ZBg": {
-        "en": "+9 Bazerald",
-        "pt": "+9 Bazerald",
-        "es": "+9Bazerald."
-    },
-    "uw9ZBg": {
-        "en": "[Esmeralda]\nIf you have the equipment listed below, you can upgrade it with items obtained from the Illusion of Labyrinth.",
-        "pt": "[Esmeralda]\nSe você tiver os equipamentos abaixo, eu consigo aprimorá-los usando materiais da Ilusão do Labirinto.",
-        "es": "[Esmeralda]\nSi tienes el equipamiento que se indica a continuación, puedes mejorarlo con objetos obtenidos de la ilusión del laberinto."
-    },
-    "vA9ZBg": {
+        "ko": "취소",
         "en": "Cancel",
         "pt": "Cancelar",
-        "es": "Cancelar."
+        "es": "Cancelar"
     },
-    "vQ9ZBg": {
-        "en": "[Esmeralda]\nAll right. Please stop by again next time.",
-        "pt": "[Esmeralda]\nTudo bem. Volte quando quiser.",
-        "es": "[Esmeralda]\nDe acuerdo. Vuelve a visitarnos."
+    "tQ9ZBg": {
+        "ko": "일루전 업그레이드 장비를 본다.",
+        "en": "View Equipment List",
+        "pt": "Ver lista de Equipamentos",
+        "es": "Ver lista de Equipos"
     },
-    "vg9ZBg": {
-        "en": "Illusion Morpheus's Hood [1]",
-        "pt": "Faixa Morpheus Ilusional",
-        "es": "Cinta ilusoria de Morfeo [1]."
-    },
-    "vw9ZBg": {
-        "en": "Morpheus's_Hood",
-        "pt": "Morpheus's_Hood",
-        "es": "Morpheus's_Hood"
-    },
-    "wA9ZBg": {
-        "en": "Morpheus's Hood",
-        "pt": "Faixa de Morpheus",
-        "es": "Cinta de Morfeo."
-    },
-    "wQ9ZBg": {
-        "en": "Soft Scarf",
-        "pt": "Tecido Macio",
-        "es": "Bufanda suave."
-    },
-    "wg9ZBg": {
-        "en": "Cold Holy Water",
-        "pt": "Tigela de Água",
-        "es": "Agua bendita fría."
-    },
-    "ww9ZBg": {
-        "en": "Illusion Stone",
-        "pt": "Pedra Ilusional",
-        "es": "Piedra de la ilusión."
-    },
-    "xA9ZBg": {
-        "en": "0",
-        "pt": "0",
-        "es": "0"
-    },
-    "xQ9ZBg": {
-        "en": "Illusion Morpheus's Shawl [1]",
-        "pt": "Véu Morpheus Ilusional",
-        "es": "Manto ilusorio de Morfeo [1]."
-    },
-    "xg9ZBg": {
-        "en": "Morpheus's_Shawl",
-        "pt": "Morpheus's_Shawl",
-        "es": "Morpheus's_Shawl"
-    },
-    "xw9ZBg": {
-        "en": "Morpheus's Shawl",
-        "pt": "Véu de Morpheus",
-        "es": "Manto de Morfeo."
-    },
-    "yA9ZBg": {
-        "en": "Brilliant Jelly",
-        "pt": "Geleia Brilhante",
-        "es": "Gelatina brillante."
-    },
-    "yQ9ZBg": {
-        "en": "Medicinal Bags",
-        "pt": "Saco de Remédios",
-        "es": "Bolsas medicinales."
-    },
-    "yg9ZBg": {
-        "en": "Illusion Morpheus's Ring [1]",
-        "pt": "Anel Morpheus Ilusional",
-        "es": "Anillo ilusorio de Morfeo [1]."
-    },
-    "yw9ZBg": {
-        "en": "Morpheus's_Ring",
-        "pt": "Morpheus's_Ring",
-        "es": "Morpheus's_Ring"
-    },
-    "zA9ZBg": {
-        "en": "Morpheus's Ring",
-        "pt": "Anel de Morpheus",
-        "es": "Anillo de Morfeo."
-    },
-    "zQ9ZBg": {
-        "en": "Purple Solid Shell",
-        "pt": "Casca Roxa",
-        "es": "Caparazón sólido morado."
-    },
-    "zg9ZBg": {
-        "en": "Little Lovely Candle",
-        "pt": "Pequena Vela Decorativa",
-        "es": "Pequeña vela encantadora."
-    },
-    "zw9ZBg": {
-        "en": "Essence of Demon",
-        "pt": "Essência do Demônio",
-        "es": "Esencia del demonio."
-    },
-    "0A9ZBg": {
-        "en": "Illusion Morpheus's Bracelet [1]",
-        "pt": "Bracelete Morpheus Ilusional",
-        "es": "Brazalete ilusorio de Morfeo [1]."
-    },
-    "0Q9ZBg": {
-        "en": "Morpheus's_Armlet",
-        "pt": "Morpheus's_Armlet",
-        "es": "Morpheus's_Armlet"
-    },
-    "0g9ZBg": {
-        "en": "Morpheus's Bracelet",
-        "pt": "Bracelete de Morpheus",
-        "es": "Brazalete de Morfeo."
-    },
-    "0w9ZBg": {
-        "en": "Suspicious Sap",
-        "pt": "Garrafa de Seiva",
-        "es": "Savia sospechosa."
-    },
-    "1A9ZBg": {
-        "en": "Small Flashlight",
-        "pt": "Lanterna Fraca",
-        "es": "Linterna pequeña."
-    },
-    "1Q9ZBg": {
-        "en": "Illusion Butcher [2]",
-        "pt": "Retalhadora Ilusional",
-        "es": "Carnicero ilusorio [2]."
-    },
-    "1g9ZBg": {
-        "en": "Butcher_",
-        "pt": "Butcher_",
-        "es": "Butcher_"
-    },
-    "1w9ZBg": {
-        "en": "Butcher [1]",
-        "pt": "Retalhadora [1]",
-        "es": "Carnicero [1]."
-    },
-    "2A9ZBg": {
-        "en": "Delicious Juice",
-        "pt": "Barril de Suco",
-        "es": "Zumo delicioso."
-    },
-    "2Q9ZBg": {
-        "en": "Illusion Stone",
-        "pt": "Pedra Ilusional",
-        "es": "Piedra de la ilusión."
-    },
-    "2g9ZBg": {
-        "en": "0",
-        "pt": "0",
-        "es": "0"
-    },
-    "2w9ZBg": {
-        "en": "Illusion Tae Goo Lyeon [2]",
-        "pt": "Tae Goo Lyeon Ilusional",
-        "es": "Tae Goo Lyeon ilusoria [2]."
-    },
-    "3A9ZBg": {
-        "en": "Tae_Goo_Lyeon",
-        "pt": "Tae_Goo_Lyeon",
-        "es": "Tae_Goo_Lyeon"
-    },
-    "3Q9ZBg": {
-        "en": "Tae Goo Lyeon [2]",
-        "pt": "Tae Goo Lyeon",
-        "es": "Tae Goo Lyeon [2]."
-    },
-    "3g9ZBg": {
-        "en": "Short Rope",
-        "pt": "Corda Curta",
-        "es": "Cuerda corta."
-    },
-    "3w9ZBg": {
-        "en": "Illusion Gold Lux",
-        "pt": "Brilho Ilusional",
-        "es": "Lux de oro ilusorio."
-    },
-    "4A9ZBg": {
-        "en": "Gold_Lux",
-        "pt": "Gold_Lux",
-        "es": "Gold_Lux"
-    },
-    "4Q9ZBg": {
-        "en": "Gold Lux",
-        "pt": "Brilho Dourado",
-        "es": "Lux de oro."
-    },
-    "4g9ZBg": {
-        "en": "Snake Venom",
-        "pt": "Veneno de Cobra",
-        "es": "Veneno de serpiente."
-    },
-    "4w9ZBg": {
-        "en": "Illusion Bazerald [2]",
-        "pt": "Bazerald Ilusional",
-        "es": "Bazerald ilusoria [2]."
-    },
-    "5A9ZBg": {
-        "en": "Bazerald",
-        "pt": "Bazerald",
-        "es": "Bazerald."
-    },
-    "5Q9ZBg": {
-        "en": "Bazerald",
-        "pt": "Bazerald",
-        "es": "Bazerald."
-    },
-    "5g9ZBg": {
-        "en": "Mantis Flower",
-        "pt": "Alamanda Amarela",
-        "es": "Flor de Mantis."
-    },
-    "5w9ZBg": {
-        "en": "[Esmeralda]\nI can't see the equipment. Please equip it first.",
-        "pt": "[Esmeralda]\nO equipamento escolhido não está no local correto.",
-        "es": "[Esmeralda]\nNo puedo ver el equipamiento. Primero, equípalo."
-    },
-    "6A9ZBg": {
-        "en": "[Esmeralda]\nThis equipment is not suitable for reinforcement.",
-        "pt": "[Esmeralda]\nEsse equipamento não pode ser aprimorado. Não quer verificar novamente?",
-        "es": "[Esmeralda]\nEste equipamiento no es apto para refuerzo."
-    },
-    "6Q9ZBg": {
-        "en": "[Esmeralda]\nThe minimum refinement level required for the upgrade was not met.",
-        "pt": "[Esmeralda]\nSeu equipamento não tem o nível de refinamento necessário.",
-        "es": "[Esmeralda]\nNo se alcanzó el nivel mínimo de refinamiento para la mejora."
-    },
-    "6g9ZBg": {
-        "en": "[Esmeralda]\nThe equipment you want to upgrade includes cards and enchantments. Please be informed that ^FF0000all options will be lost^000000 upon upgrade. Do you wish to proceed?",
-        "pt": "[Esmeralda]\nEste item tem cartas ou encantos. Quando eu aprimorar esse item, ^FF0000cartas e encantos serão perdidos^000000. Deseja continuar?",
-        "es": "[Esmeralda]\nEl equipamiento que quieres mejorar incluye cartas y encantamientos. Le informamos que a partir de la mejora ^660000se perderán todas las opciones^000000. ¿Deseas continuar?"
-    },
-    "6w9ZBg": {
-        "en": "Proceed",
-        "pt": "Aprimorar",
-        "es": "Continuar."
-    },
-    "7A9ZBg": {
-        "en": "[Esmeralda]\nWell, take your time.",
-        "pt": "[Esmeralda]\nEntendi.",
-        "es": "[Esmeralda]\nTómate tu tiempo."
-    },
-    "7Q9ZBg": {
-        "en": "[Esmeralda]\nFor a moment, it seems different from the equipment I saw earlier. This cannot be upgraded.",
-        "pt": "[Esmeralda]\nEsse item é diferente do item que eu vi você equipando. Não posso mexer com isso.",
-        "es": "[Esmeralda]\nPor un momento, parece diferente del equipamiento que vi antes. Esto no se puede mejorar."
-    },
-    "7g9ZBg": {
-        "en": "[Esmeralda]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2}pcs\n[<ITEM>{3}<INFO>{4}</INFO></ITEM>] {5}pcs",
-        "pt": "[Esmeralda]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2} un.\n[<ITEM>{3}<INFO>{4}</INFO></ITEM>] {5} un.",
-        "es": "[Esmeralda]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2}unidades.\n[<ITEM>{3}<INFO>{4}</INFO></ITEM>] {5} unidades."
-    },
-    "7w9ZBg": {
-        "en": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2}pcs\n[<ITEM>{3}<INFO>{4}</INFO></ITEM>] {5}pcs",
-        "pt": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2} un.\n[<ITEM>{3}<INFO>{4}</INFO></ITEM>] {5} un.",
-        "es": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2} unidades.\n[<ITEM>{3}<INFO>{4}</INFO></ITEM>] {5} unidades."
-    },
-    "8A9ZBg": {
-        "en": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2}pcs",
-        "pt": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2} un.",
-        "es": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2} unidades."
-    },
-    "8Q9ZBg": {
-        "en": "Materials are required.",
-        "pt": "São os itens necessários.",
-        "es": "Se necesitan materiales."
-    },
-    "8g9ZBg": {
-        "en": "[Esmeralda]\nSee you again next time.",
-        "pt": "Continuar.",
-        "es": "[Esmeralda]\nHasta la próxima."
-    },
-    "8w9ZBg": {
-        "en": "[Esmeralda]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]'s ^FF0000refine level, cards, and enchantments will be lost^000000 and will be upgraded to [<ITEM>{2}<INFO>{3}</INFO></ITEM>]. Do you want to proceed?",
+    "tg9ZBg": {
+        "ko": "[에스메랄다]\n알겠습니다. 다음에 또 들러주세요.",
+        "en": "[Esmeralda]\nSee you next time.",
         "pt": "[Esmeralda]\nVejo você na próxima.",
-        "es": "[Esmeralda]\n^660000Se perderán el nivel de refinamiento, las cartas y los encantamientos^000000 de [<ITEM>{0}<INFO>{1}</INFO></ITEM>] y se mejorará a [<ITEM>{2}<INFO>{3}</INFO></ITEM>]. ¿Quieres continuar?"
+        "es": "[Esmeralda]\nNos vemos la próxima vez."
     },
-    "9A9ZBg": {
-        "en": "Upgrade",
-        "pt": "[Esmeralda]\nCarta, refino e encantos do item [<ITEM>{drop_eqdisp1}<INFO>{drop_eq}</INFO></ITEM>] ^FF0000serão perdidos^000000 para dar o item [<ITEM>{get_disp}<INFO>{get_id}</INFO></ITEM>]. Deseja aprimorar?",
-        "es": "Mejorar."
-    },
-    "9Q9ZBg": {
-        "en": "[Esmeralda]\nYou don't have enough ingredients. I will explain the materials needed again.",
-        "pt": "[Esmeralda]\nVocê não tem itens suficientes. Vou repetir os materiais.",
-        "es": "[Esmeralda]\nNo tienes suficientes ingredientes. Explicaré de nuevo los materiales que se necesitan."
-    },
-    "9g9ZBg": {
-        "en": "[Esmeralda]\nThe upgrade was completed successfully. Let's check it out.",
-        "pt": "[Esmeralda]\nO aprimoramento foi um sucesso.",
-        "es": "[Esmeralda]\nLa mejora se completó con éxito. Vamos a comprobarlo."
+    "tw9ZBg": {
+        "ko": "[에스메랄다]\n업그레이드하실 장비에 카드나 인챈트의 효능이 깃들어 있다면 ^FF0000재료로 사용 시 소멸^000000되어 버리니 참고해 주세요.",
+        "en": "[Esmeralda]\nWhen enhancing an item with me, ^FF0000cards and enchants will be lost^000000.",
+        "pt": "[Esmeralda]\nAo aprimorar um item comigo, ^FF0000cartas e encantos serão perdidos^000000.",
+        "es": "[Esmeralda]\nAl mejorar un objeto conmigo, ^FF0000las cartas y encantamientos se perderán^000000."
     }
 }

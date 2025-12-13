@@ -53639,7 +53639,12 @@ Item = {
 			0,
 			0,
 			0
-		}
+		},
+		OnStartEquip = function()
+			local temp = 0
+			temp = GetRefineLevel(10)
+			EnableSkill(692, 1)
+		end
 	},
 	[19051] = {
 		Type = "armor",
@@ -63120,7 +63125,17 @@ Item = {
 			0,
 			0,
 			0
-		}
+		},
+		OnStartEquip = function()
+			local temp, temp1 = 0, 0
+			temp = GetRefineLevel(2)
+			temp1 = math.floor(temp / 2)
+			AddBowAttackDamage(1, temp1 * 3)
+			if 8 < temp then
+				AddDamage_SKID(1, 2288, 20)
+			end
+		end,
+		Combiitem = {2000001638}
 	},
 	[28441] = {
 		Type = "armor",
@@ -63135,7 +63150,12 @@ Item = {
 			0,
 			0,
 			0
-		}
+		},
+		OnStartEquip = function()
+			AddBowAttackDamage(1, 5)
+			AddExtParam(0, 50, 10)
+		end,
+		Combiitem = {2000001638}
 	},
 	[15177] = {
 		Type = "armor",
@@ -63150,7 +63170,23 @@ Item = {
 			0,
 			0,
 			0
-		}
+		},
+		OnStartEquip = function()
+			local temp, temp1, temp2 = 0, 0, 0
+			temp = GetRefineLevel(2)
+			temp1 = math.floor(temp / 2)
+			temp2 = GetSkillLevel(21)
+			SetEquipTempValue(0, temp2)
+			if temp2 < 5 then
+				temp2 = 5
+			end
+			AddExtParam(0, 200, temp1 * 5)
+			AddExtParam(0, 167, 10)
+			if 8 < temp then
+			end
+		end,
+		OnStartPretendEquip = true,
+		Combiitem = {2000001639}
 	},
 	[20820] = {
 		Type = "armor",
@@ -63165,7 +63201,18 @@ Item = {
 			0,
 			0,
 			0
-		}
+		},
+		OnStartEquip = function()
+			local temp, temp1 = 0, 0
+			temp = GetRefineLevel(5)
+			temp1 = math.floor(temp / 3)
+			AddAttrTolerace(0, 10)
+			AddExtParam(0, 50, 10 + temp1 * 5)
+			if 8 < temp then
+				AddExtParam(0, 167, 5)
+			end
+		end,
+		Combiitem = {2000001639}
 	},
 	[20821] = {
 		Type = "armor",
@@ -63180,7 +63227,19 @@ Item = {
 			0,
 			0,
 			0
-		}
+		},
+		OnStartEquip = function()
+			local temp = 0
+			temp = GetRefineLevel(5)
+			AddExtParam(0, 50, 20)
+			if 6 < temp then
+				AddRangeAttackDamage(1, 5)
+			end
+			if 8 < temp then
+				AddRangeAttackDamage(1, 5)
+			end
+		end,
+		Combiitem = {2000001641, 2000001642}
 	},
 	[15178] = {
 		Type = "armor",
@@ -63195,7 +63254,17 @@ Item = {
 			0,
 			0,
 			0
-		}
+		},
+		OnStartEquip = function()
+			local temp, temp1 = 0, 0
+			temp = GetRefineLevel(2)
+			temp1 = math.floor(temp / 2)
+			AddExtParam(0, 50, temp1 * 5)
+			if 8 < temp then
+				AddDamage_SKID(1, 3007, 20)
+			end
+		end,
+		Combiitem = {2000001641, 2000001642}
 	},
 	[15179] = {
 		Type = "armor",
@@ -63210,7 +63279,17 @@ Item = {
 			0,
 			0,
 			0
-		}
+		},
+		OnStartEquip = function()
+			local temp, temp1 = 0, 0
+			temp = GetRefineLevel(2)
+			temp1 = math.floor(temp / 2)
+			AddExtParam(0, 50, 10 + temp1 * 4)
+			if 8 < temp then
+				AddExtParam(0, 52, 50)
+			end
+		end,
+		Combiitem = {2000001640}
 	},
 	[20822] = {
 		Type = "armor",
@@ -63225,7 +63304,17 @@ Item = {
 			0,
 			0,
 			0
-		}
+		},
+		OnStartEquip = function()
+			local temp, temp1 = 0, 0
+			temp = GetRefineLevel(5)
+			temp1 = math.floor(temp / 2)
+			AddExtParam(0, 167, 5 + temp1)
+			if 8 < temp then
+				AddExtParam(0, 41, 20)
+			end
+		end,
+		Combiitem = {2000001640}
 	},
 	[15180] = {
 		Type = "armor",
@@ -63240,7 +63329,21 @@ Item = {
 			0,
 			0,
 			0
-		}
+		},
+		OnStartEquip = function()
+			local temp, temp1 = 0, 0
+			temp = GetRefineLevel(2)
+			temp1 = GetSkillLevel(46)
+			SetEquipTempValue(0, temp1)
+			if temp1 < 3 then
+				temp1 = 3
+			end
+			AddExtParam(0, 41, 20)
+			if 8 < temp then
+			end
+		end,
+		OnStartPretendEquip = true,
+		Combiitem = {2000001643, 2000001644}
 	},
 	[28442] = {
 		Type = "armor",
@@ -63255,7 +63358,12 @@ Item = {
 			0,
 			0,
 			0
-		}
+		},
+		OnStartEquip = function()
+			AddExtParam(0, 52, 50)
+			AddExtParam(0, 50, 5)
+		end,
+		Combiitem = {2000001643, 2000001644}
 	},
 	[31132] = {
 		Type = "armor",
@@ -63285,7 +63393,26 @@ Item = {
 			0,
 			0,
 			0
-		}
+		},
+		OnStartEquip = function()
+			local temp1, temp2, temp3 = 0, 0, 0
+			temp1 = get(32)
+			SetEquipTempValue(0, temp1)
+			temp2 = get(36)
+			SetEquipTempValue(1, temp2)
+			temp3 = get(34)
+			SetEquipTempValue(2, temp3)
+			if 89 < temp1 then
+				AddExtParam(0, 207, 3)
+			end
+			if 89 < temp2 then
+				AddRangeAttackDamage(1, 3)
+			end
+			if 89 < temp3 then
+				AddExtParam(0, 109, 1000)
+			end
+		end,
+		OnStartPretendEquip = true
 	},
 	[28496] = {
 		Type = "armor",
@@ -63300,7 +63427,26 @@ Item = {
 			0,
 			0,
 			0
-		}
+		},
+		OnStartEquip = function()
+			local temp1, temp2, temp3 = 0, 0, 0
+			temp1 = get(35)
+			SetEquipTempValue(0, temp1)
+			temp2 = get(36)
+			SetEquipTempValue(1, temp2)
+			temp3 = get(34)
+			SetEquipTempValue(2, temp3)
+			if 89 < temp1 then
+				AddExtParam(0, 140, 3)
+			end
+			if 89 < temp2 then
+				SubSpellCastTime(5)
+			end
+			if 89 < temp3 then
+				AddExtParam(0, 109, 1000)
+			end
+		end,
+		OnStartPretendEquip = true
 	},
 	[20834] = {
 		Type = "armor",
@@ -63315,7 +63461,18 @@ Item = {
 			0,
 			0,
 			0
-		}
+		},
+		OnStartEquip = function()
+			local temp = 0
+			temp = GetRefineLevel(5)
+			AddAttrTolerace(0, 20)
+			if 8 < temp then
+				AddAttrTolerace(0, 5)
+			end
+			if 6 < temp then
+				AddAttrTolerace(0, 5)
+			end
+		end
 	},
 	[22131] = {
 		Type = "armor",
@@ -63330,7 +63487,19 @@ Item = {
 			0,
 			0,
 			0
-		}
+		},
+		OnStartEquip = function()
+			local temp = 0
+			temp = GetRefineLevel(6)
+			AddExtParam(0, 112, 5)
+			if 8 < temp then
+				Condition(14, 9999, 100)
+				AddExtParam(0, 112, 5)
+			end
+			if 6 < temp then
+				AddExtParam(0, 112, 5)
+			end
+		end
 	},
 	[31140] = {
 		Type = "armor",
@@ -68985,38 +69154,22 @@ Item = {
 		end,
 		Combiitem = {
 			2000001617,
-			2000001638,
-			2000001639,
-			2000001640,
-			2000001641,
-			2000001642,
-			2000001643,
-			2000001644,
-			2000001645,
-			2000001646,
-			2000001647,
-			2000001648,
-			2000001649,
-			2000001650,
-			2000001651,
-			2000001652,
-			2000001653,
-			2000001638,
-			2000001639,
-			2000001640,
-			2000001641,
-			2000001642,
-			2000001643,
-			2000001644,
-			2000001645,
-			2000001646,
-			2000001647,
-			2000001648,
-			2000001649,
-			2000001650,
-			2000001651,
-			2000001652,
-			2000001653
+			2000001619,
+			2000001620,
+			2000001621,
+			2000001622,
+			2000001623,
+			2000001624,
+			2000001625,
+			2000001626,
+			2000001627,
+			2000001628,
+			2000001629,
+			2000001630,
+			2000001631,
+			2000001632,
+			2000001633,
+			2000001634
 		}
 	},
 	[15250] = {
@@ -69047,38 +69200,22 @@ Item = {
 		end,
 		Combiitem = {
 			2000001617,
-			2000001638,
-			2000001639,
-			2000001640,
-			2000001641,
-			2000001642,
-			2000001643,
-			2000001644,
-			2000001645,
-			2000001646,
-			2000001647,
-			2000001648,
-			2000001649,
-			2000001650,
-			2000001651,
-			2000001652,
-			2000001653,
-			2000001638,
-			2000001639,
-			2000001640,
-			2000001641,
-			2000001642,
-			2000001643,
-			2000001644,
-			2000001645,
-			2000001646,
-			2000001647,
-			2000001648,
-			2000001649,
-			2000001650,
-			2000001651,
-			2000001652,
-			2000001653
+			2000001619,
+			2000001620,
+			2000001621,
+			2000001622,
+			2000001623,
+			2000001624,
+			2000001625,
+			2000001626,
+			2000001627,
+			2000001628,
+			2000001629,
+			2000001630,
+			2000001631,
+			2000001632,
+			2000001633,
+			2000001634
 		}
 	},
 	[20906] = {
@@ -69101,38 +69238,22 @@ Item = {
 		end,
 		Combiitem = {
 			2000001617,
-			2000001638,
-			2000001639,
-			2000001640,
-			2000001641,
-			2000001642,
-			2000001643,
-			2000001644,
-			2000001645,
-			2000001646,
-			2000001647,
-			2000001648,
-			2000001649,
-			2000001650,
-			2000001651,
-			2000001652,
-			2000001653,
-			2000001638,
-			2000001639,
-			2000001640,
-			2000001641,
-			2000001642,
-			2000001643,
-			2000001644,
-			2000001645,
-			2000001646,
-			2000001647,
-			2000001648,
-			2000001649,
-			2000001650,
-			2000001651,
-			2000001652,
-			2000001653
+			2000001619,
+			2000001620,
+			2000001621,
+			2000001622,
+			2000001623,
+			2000001624,
+			2000001625,
+			2000001626,
+			2000001627,
+			2000001628,
+			2000001629,
+			2000001630,
+			2000001631,
+			2000001632,
+			2000001633,
+			2000001634
 		}
 	},
 	[22173] = {
@@ -69158,38 +69279,22 @@ Item = {
 		end,
 		Combiitem = {
 			2000001617,
-			2000001638,
-			2000001639,
-			2000001640,
-			2000001641,
-			2000001642,
-			2000001643,
-			2000001644,
-			2000001645,
-			2000001646,
-			2000001647,
-			2000001648,
-			2000001649,
-			2000001650,
-			2000001651,
-			2000001652,
-			2000001653,
-			2000001638,
-			2000001639,
-			2000001640,
-			2000001641,
-			2000001642,
-			2000001643,
-			2000001644,
-			2000001645,
-			2000001646,
-			2000001647,
-			2000001648,
-			2000001649,
-			2000001650,
-			2000001651,
-			2000001652,
-			2000001653
+			2000001619,
+			2000001620,
+			2000001621,
+			2000001622,
+			2000001623,
+			2000001624,
+			2000001625,
+			2000001626,
+			2000001627,
+			2000001628,
+			2000001629,
+			2000001630,
+			2000001631,
+			2000001632,
+			2000001633,
+			2000001634
 		}
 	},
 	[28566] = {
@@ -69212,38 +69317,22 @@ Item = {
 		end,
 		Combiitem = {
 			2000001617,
-			2000001638,
-			2000001639,
-			2000001640,
-			2000001641,
-			2000001642,
-			2000001643,
-			2000001644,
-			2000001645,
-			2000001646,
-			2000001647,
-			2000001648,
-			2000001649,
-			2000001650,
-			2000001651,
-			2000001652,
-			2000001653,
-			2000001638,
-			2000001639,
-			2000001640,
-			2000001641,
-			2000001642,
-			2000001643,
-			2000001644,
-			2000001645,
-			2000001646,
-			2000001647,
-			2000001648,
-			2000001649,
-			2000001650,
-			2000001651,
-			2000001652,
-			2000001653
+			2000001619,
+			2000001620,
+			2000001621,
+			2000001622,
+			2000001623,
+			2000001624,
+			2000001625,
+			2000001626,
+			2000001627,
+			2000001628,
+			2000001629,
+			2000001630,
+			2000001631,
+			2000001632,
+			2000001633,
+			2000001634
 		}
 	},
 	[28562] = {
@@ -111214,6 +111303,111 @@ Item = {
 			AddExtParam(0, 105, 5)
 		end
 	},
+	[401147] = {
+		Type = "armor",
+		Stat = {
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		},
+		OnStartEquip = function()
+			local temp = 0
+			temp = GetRefineLevel(GetLocation())
+			AddExtParam(0, 41, math.floor(temp / 2) * 15)
+			AddRangeAttackDamage(1, math.floor(temp / 3) * 4)
+			if 6 < temp then
+				AddHPdrain(5, 5)
+				AddSPdrain(1, 3)
+			end
+			if 8 < temp then
+				AddDamage_Size(1, 0, 10)
+				AddDamage_Size(1, 1, 10)
+				AddDamage_Size(1, 2, 10)
+			end
+			if 10 < temp then
+				SubSpellDelay(15)
+			end
+		end,
+		Combiitem = {
+			2000001663,
+			2000001664,
+			2000001665,
+			2000001666,
+			2000001667
+		}
+	},
+	[470411] = {
+		Type = "armor",
+		Stat = {
+			10,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		},
+		OnStartEquip = function()
+			local temp = 0
+			temp = GetRefineLevel(GetLocation())
+			AddDamage_SKID(1, 46, 15 + temp * 2)
+			AddDamage_SKID(1, 524, 15 + temp * 2)
+			AddDamage_SKID(1, 324, 15 + temp * 2)
+			AddDamage_SKID(1, 316, 15 + temp * 2)
+			if 6 < temp then
+				AddExtParam(0, 41, 20)
+			end
+			if 8 < temp then
+			end
+			if 10 < temp then
+				AddExtParam(0, 167, 10)
+			end
+		end,
+		Combiitem = {
+			2000001668,
+			2000001669,
+			2000001670,
+			2000001671,
+			2000001672
+		}
+	},
+	[490863] = {
+		Type = "armor",
+		Stat = {
+			10,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		},
+		OnStartEquip = function()
+			local temp = 0
+			temp = GetLocation()
+			if temp == 8 then
+				AddMeleeAttackDamage(1, 7)
+				AddRangeAttackDamage(1, 7)
+			end
+			if temp == 7 then
+				AddSkillMDamage(10, 7)
+				AddExtParam(0, 140, 7)
+			end
+		end
+	},
 	[2278] = {
 		Type = "armor",
 		Stat = {
@@ -123603,7 +123797,8 @@ Item = {
 			if 8 < temp then
 				AddDamage_SKID(1, 3009, 20)
 			end
-		end
+		end,
+		Combiitem = {2000001642}
 	},
 	[28116] = {
 		Type = "Mweapon",
@@ -123629,7 +123824,8 @@ Item = {
 			if 8 < temp then
 				AddDamage_CRI(1, 10)
 			end
-		end
+		end,
+		Combiitem = {2000001640, 2000001668}
 	},
 	[26007] = {
 		Type = "Mweapon",
@@ -123888,7 +124084,7 @@ Item = {
 				AddDamage_CRI(1, 7)
 			end
 		end,
-		Combiitem = {2000001638, 2000001638}
+		Combiitem = {2000001619}
 	},
 	[26015] = {
 		Type = "Mweapon",
@@ -123913,7 +124109,7 @@ Item = {
 				AddDamage_SKID(1, 2317, 15)
 			end
 		end,
-		Combiitem = {2000001646, 2000001646}
+		Combiitem = {2000001627}
 	},
 	[28027] = {
 		Type = "Mweapon",
@@ -123938,7 +124134,7 @@ Item = {
 				AddDamage_CRI(1, 7)
 			end
 		end,
-		Combiitem = {2000001647, 2000001647}
+		Combiitem = {2000001628}
 	},
 	[2046] = {
 		Type = "Mweapon",
@@ -123963,7 +124159,7 @@ Item = {
 				AddDamage_SKID(1, 2211, 15)
 			end
 		end,
-		Combiitem = {2000001651, 2000001651}
+		Combiitem = {2000001632}
 	},
 	[13341] = {
 		Type = "Mweapon",
@@ -123988,7 +124184,7 @@ Item = {
 				AddDamage_SKID(1, 3009, 15)
 			end
 		end,
-		Combiitem = {2000001643, 2000001643}
+		Combiitem = {2000001624}
 	},
 	[2048] = {
 		Type = "Mweapon",
@@ -129910,7 +130106,8 @@ Item = {
 				AddDamage_SKID(1, 46, 50)
 			end
 		end,
-		OnStartPretendEquip = true
+		OnStartPretendEquip = true,
+		Combiitem = {2000001638, 2000001669}
 	},
 	[18149] = {
 		Type = "Rweapon",
@@ -130010,7 +130207,7 @@ Item = {
 				AddDamage_SKID(1, 2233, 15)
 			end
 		end,
-		Combiitem = {2000001640, 2000001640}
+		Combiitem = {2000001621}
 	},
 	[18166] = {
 		Type = "Rweapon",
@@ -130033,7 +130230,7 @@ Item = {
 				AddDamage_SKID(1, 2516, 15)
 			end
 		end,
-		Combiitem = {2000001641, 2000001641}
+		Combiitem = {2000001622}
 	},
 	[18170] = {
 		Type = "Rweapon",
@@ -140196,6 +140393,133 @@ Item = {
 		end,
 		Combiitem = {2000000595, 2000000600}
 	},
+	[29460] = {
+		Type = "card",
+		OnStartEquip = function()
+			local temp = 0
+			temp = GetSkillLevel(55)
+			SetEquipTempValue(0, temp)
+			AddExtParam(0, 41, temp * 2)
+		end,
+		OnStartPretendEquip = true,
+		Combiitem = {2000001656}
+	},
+	[29461] = {
+		Type = "card",
+		OnStartEquip = function()
+			AddDamage_SKID(1, 397, 15)
+		end,
+		Combiitem = {2000001654}
+	},
+	[29462] = {
+		Type = "card",
+		OnStartEquip = function()
+			local temp = 0
+			temp = GetSkillLevel(64)
+			SetEquipTempValue(0, temp)
+			AddExtParam(0, 167, temp)
+		end,
+		OnStartPretendEquip = true,
+		Combiitem = {2000001652}
+	},
+	[29463] = {
+		Type = "card",
+		OnStartEquip = function()
+			AddDamage_SKID(1, 2008, 10)
+			AddDamage_SKID(1, 5004, 10)
+		end,
+		Combiitem = {
+			2000001651,
+			2000001652,
+			2000001653,
+			2000001654,
+			2000001655,
+			2000001656
+		}
+	},
+	[29464] = {
+		Type = "card",
+		OnStartEquip = function()
+			local temp = 0
+			temp = GetSkillLevel(227)
+			SetEquipTempValue(0, temp)
+			AddExtParam(0, 41, temp * 2)
+		end,
+		OnStartPretendEquip = true,
+		Combiitem = {2000001650}
+	},
+	[29465] = {
+		Type = "card",
+		OnStartEquip = function()
+			local temp = 0
+			temp = GetSkillLevel(231)
+			SetEquipTempValue(0, temp)
+			AddHealValue(temp * 2)
+			AddHealModifyPercent(temp * 2)
+		end,
+		OnStartPretendEquip = true,
+		Combiitem = {2000001648}
+	},
+	[29466] = {
+		Type = "card",
+		OnStartEquip = function()
+			AddDamage_SKID(1, 230, 20)
+		end,
+		Combiitem = {2000001646}
+	},
+	[29467] = {
+		Type = "card",
+		OnStartEquip = function()
+			AddDamage_SKID(1, 2477, 10)
+		end,
+		Combiitem = {
+			2000001645,
+			2000001646,
+			2000001647,
+			2000001648,
+			2000001649,
+			2000001650
+		}
+	},
+	[29468] = {
+		Type = "card",
+		OnStartEquip = function()
+			local temp = 0
+			temp = GetSkillLevel(366)
+			SetEquipTempValue(0, temp)
+			AddExtParam(0, 200, temp * 2)
+		end,
+		OnStartPretendEquip = true,
+		Combiitem = {2000001662}
+	},
+	[29469] = {
+		Type = "card",
+		OnStartEquip = function()
+			AddDamage_SKID(1, 83, 20)
+		end,
+		Combiitem = {2000001660}
+	},
+	[29470] = {
+		Type = "card",
+		OnStartEquip = function()
+			AddDamage_SKID(1, 80, 20)
+		end,
+		Combiitem = {2000001658}
+	},
+	[29471] = {
+		Type = "card",
+		OnStartEquip = function()
+			AddDamage_SKID(1, 2211, 10)
+		end,
+		Combiitem = {
+			2000001657,
+			2000001658,
+			2000001659,
+			2000001660,
+			2000001661,
+			2000001662
+		}
+	},
 	[27181] = {
 		Type = "card",
 		OnStartEquip = function()
@@ -140375,12 +140699,13 @@ Item = {
 		OnStartEquip = function()
 			local temp = 0
 			temp = GetRefineLevel(GetLocation())
-			NoDispell(0)
-			AddExtParam(0, 111, 12)
-			AddExtParam(0, 112, 6)
+			NoDispell(1)
 			if 9 < temp then
 				SubExtParam(0, 111, 6)
 				SubExtParam(0, 112, 3)
+			else
+				SubExtParam(0, 111, 12)
+				SubExtParam(0, 112, 6)
 			end
 		end
 	},
@@ -144357,6 +144682,42 @@ Item = {
 		Type = "card",
 		Combiitem = {2000001594}
 	},
+	[310881] = {
+		Type = "card",
+		Combiitem = {2000001655}
+	},
+	[310882] = {
+		Type = "card",
+		Combiitem = {2000001653}
+	},
+	[310883] = {
+		Type = "card",
+		Combiitem = {2000001651}
+	},
+	[310884] = {
+		Type = "card",
+		Combiitem = {2000001661}
+	},
+	[310885] = {
+		Type = "card",
+		Combiitem = {2000001659}
+	},
+	[310886] = {
+		Type = "card",
+		Combiitem = {2000001657}
+	},
+	[311008] = {
+		Type = "card",
+		Combiitem = {2000001649}
+	},
+	[311009] = {
+		Type = "card",
+		Combiitem = {2000001647}
+	},
+	[311010] = {
+		Type = "card",
+		Combiitem = {2000001645}
+	},
 	[300308] = {
 		Type = "card",
 		OnStartEquip = function()
@@ -146196,7 +146557,7 @@ Item = {
 				AddDamage_SKID(1, 2561, 15)
 			end
 		end,
-		Combiitem = {2000001642, 2000001642}
+		Combiitem = {2000001623}
 	},
 	[13146] = {
 		Type = "Rweapon",
@@ -146226,7 +146587,8 @@ Item = {
 			if 11 < temp then
 				AddRangeAttackDamage(1, 5)
 			end
-		end
+		end,
+		Combiitem = {2000001667}
 	},
 	[28240] = {
 		Type = "Rweapon",
@@ -146256,7 +146618,8 @@ Item = {
 			if 11 < temp then
 				AddRangeAttackDamage(1, 5)
 			end
-		end
+		end,
+		Combiitem = {2000001664}
 	},
 	[28241] = {
 		Type = "Rweapon",
@@ -146287,7 +146650,8 @@ Item = {
 			if 11 < temp then
 				AddRangeAttackDamage(1, 5)
 			end
-		end
+		end,
+		Combiitem = {2000001666}
 	},
 	[28242] = {
 		Type = "Rweapon",
@@ -146318,7 +146682,8 @@ Item = {
 			if 11 < temp then
 				subspconsumption(15, 2554)
 			end
-		end
+		end,
+		Combiitem = {2000001663}
 	},
 	[28243] = {
 		Type = "Rweapon",
@@ -146349,7 +146714,8 @@ Item = {
 			if 11 < temp then
 				AddDamage_SKID(1, 2566, 15)
 			end
-		end
+		end,
+		Combiitem = {2000001665}
 	},
 	[28244] = {
 		Type = "Rweapon",
@@ -161021,7 +161387,8 @@ Item = {
 				AddDamage_SKID(1, 20, 10)
 				AddDamage_SKID(1, 90, 10)
 			end
-		end
+		end,
+		Combiitem = {2000001639}
 	},
 	[28721] = {
 		Type = "Mweapon",
@@ -161051,7 +161418,8 @@ Item = {
 				AddRangeAttackDamage(1, 3)
 			end
 		end,
-		OnStartPretendEquip = true
+		OnStartPretendEquip = true,
+		Combiitem = {2000001641, 2000001670}
 	},
 	[1944] = {
 		Type = "Mweapon",
@@ -161081,7 +161449,8 @@ Item = {
 				AddExtParam(0, 54, 1)
 			end
 		end,
-		OnStartPretendEquip = true
+		OnStartPretendEquip = true,
+		Combiitem = {2000001643, 2000001672}
 	},
 	[26200] = {
 		Type = "Mweapon",
@@ -161111,7 +161480,8 @@ Item = {
 				AddExtParam(0, 54, 1)
 			end
 		end,
-		OnStartPretendEquip = true
+		OnStartPretendEquip = true,
+		Combiitem = {2000001644, 2000001671}
 	},
 	[16060] = {
 		Type = "Mweapon",
@@ -161143,7 +161513,18 @@ Item = {
 			0,
 			0,
 			3
-		}
+		},
+		OnStartEquip = function()
+			local temp = 0
+			temp = GetRefineLevel(4)
+			AddHealValue(10)
+			if 8 < temp then
+				AddHealValue(10)
+			end
+			if 6 < temp then
+				AddHealValue(5)
+			end
+		end
 	},
 	[28725] = {
 		Type = "Mweapon",
@@ -161641,7 +162022,7 @@ Item = {
 				AddSkillMDamage(8, 7)
 			end
 		end,
-		Combiitem = {2000001648, 2000001648}
+		Combiitem = {2000001629}
 	},
 	[16075] = {
 		Type = "Mweapon",
@@ -161666,7 +162047,7 @@ Item = {
 				AddDamage_SKID(1, 2256, 15)
 			end
 		end,
-		Combiitem = {2000001649, 2000001649}
+		Combiitem = {2000001630}
 	},
 	[13483] = {
 		Type = "Mweapon",
@@ -161691,7 +162072,7 @@ Item = {
 				AddDamage_SKID(1, 2477, 15)
 			end
 		end,
-		Combiitem = {2000001650, 2000001650}
+		Combiitem = {2000001631}
 	},
 	[26119] = {
 		Type = "Mweapon",
@@ -161716,7 +162097,7 @@ Item = {
 				AddDamage_SKID(1, 2449, 15)
 			end
 		end,
-		Combiitem = {2000001652, 2000001652}
+		Combiitem = {2000001633}
 	},
 	[28616] = {
 		Type = "Mweapon",
@@ -161741,7 +162122,7 @@ Item = {
 				AddDamage_SKID(1, 2040, 15)
 			end
 		end,
-		Combiitem = {2000001653, 2000001653}
+		Combiitem = {2000001634}
 	},
 	[1848] = {
 		Type = "Mweapon",
@@ -161766,7 +162147,7 @@ Item = {
 				AddDamage_SKID(1, 2330, 15)
 			end
 		end,
-		Combiitem = {2000001639, 2000001639}
+		Combiitem = {2000001620}
 	},
 	[16076] = {
 		Type = "Mweapon",
@@ -161791,7 +162172,7 @@ Item = {
 				AddDamage_CRI(1, 7)
 			end
 		end,
-		Combiitem = {2000001644, 2000001644}
+		Combiitem = {2000001625}
 	},
 	[26120] = {
 		Type = "Mweapon",
@@ -161816,7 +162197,7 @@ Item = {
 				AddDamage_SKID(1, 5028, 15)
 			end
 		end,
-		Combiitem = {2000001645, 2000001645}
+		Combiitem = {2000001626}
 	},
 	[13485] = {
 		Type = "Mweapon",
@@ -192730,7 +193111,7 @@ Combiitem = {
 		end,
 		OnStartPretendEquip = true
 	},
-	[2000001638] = {
+	[2000001619] = {
 		Item = {
 			19310,
 			20906,
@@ -192752,7 +193133,7 @@ Combiitem = {
 		end,
 		OnStartPretendEquip = true
 	},
-	[2000001639] = {
+	[2000001620] = {
 		Item = {
 			19310,
 			20906,
@@ -192774,7 +193155,7 @@ Combiitem = {
 		end,
 		OnStartPretendEquip = true
 	},
-	[2000001640] = {
+	[2000001621] = {
 		Item = {
 			19310,
 			20906,
@@ -192796,7 +193177,7 @@ Combiitem = {
 		end,
 		OnStartPretendEquip = true
 	},
-	[2000001641] = {
+	[2000001622] = {
 		Item = {
 			19310,
 			20906,
@@ -192818,7 +193199,7 @@ Combiitem = {
 		end,
 		OnStartPretendEquip = true
 	},
-	[2000001642] = {
+	[2000001623] = {
 		Item = {
 			19310,
 			20906,
@@ -192840,7 +193221,7 @@ Combiitem = {
 		end,
 		OnStartPretendEquip = true
 	},
-	[2000001643] = {
+	[2000001624] = {
 		Item = {
 			19310,
 			20906,
@@ -192863,7 +193244,7 @@ Combiitem = {
 		end,
 		OnStartPretendEquip = true
 	},
-	[2000001644] = {
+	[2000001625] = {
 		Item = {
 			19310,
 			20906,
@@ -192884,7 +193265,7 @@ Combiitem = {
 		end,
 		OnStartPretendEquip = true
 	},
-	[2000001645] = {
+	[2000001626] = {
 		Item = {
 			19310,
 			20906,
@@ -192906,7 +193287,7 @@ Combiitem = {
 		end,
 		OnStartPretendEquip = true
 	},
-	[2000001646] = {
+	[2000001627] = {
 		Item = {
 			19310,
 			20906,
@@ -192928,7 +193309,7 @@ Combiitem = {
 		end,
 		OnStartPretendEquip = true
 	},
-	[2000001647] = {
+	[2000001628] = {
 		Item = {
 			19310,
 			20906,
@@ -192950,7 +193331,7 @@ Combiitem = {
 		end,
 		OnStartPretendEquip = true
 	},
-	[2000001648] = {
+	[2000001629] = {
 		Item = {
 			19310,
 			20906,
@@ -192972,7 +193353,7 @@ Combiitem = {
 		end,
 		OnStartPretendEquip = true
 	},
-	[2000001649] = {
+	[2000001630] = {
 		Item = {
 			19310,
 			20906,
@@ -192994,7 +193375,7 @@ Combiitem = {
 		end,
 		OnStartPretendEquip = true
 	},
-	[2000001650] = {
+	[2000001631] = {
 		Item = {
 			19310,
 			20906,
@@ -193016,7 +193397,7 @@ Combiitem = {
 		end,
 		OnStartPretendEquip = true
 	},
-	[2000001651] = {
+	[2000001632] = {
 		Item = {
 			19310,
 			20906,
@@ -193038,7 +193419,7 @@ Combiitem = {
 		end,
 		OnStartPretendEquip = true
 	},
-	[2000001652] = {
+	[2000001633] = {
 		Item = {
 			19310,
 			20906,
@@ -193060,7 +193441,7 @@ Combiitem = {
 		end,
 		OnStartPretendEquip = true
 	},
-	[2000001653] = {
+	[2000001634] = {
 		Item = {
 			19310,
 			20906,
@@ -193128,6 +193509,335 @@ Combiitem = {
 			if 22 < temp2 then
 				AddMeleeAttackDamage(1, temp2)
 				AddRangeAttackDamage(1, temp2)
+			end
+		end
+	},
+	[2000001638] = {
+		Item = {
+			15176,
+			18145,
+			28441
+		},
+		OnStartEquip = function()
+			AddDamage_SKID(1, 46, 50)
+			SubSkillSP(2288, 10)
+		end
+	},
+	[2000001639] = {
+		Item = {
+			28608,
+			15177,
+			20820
+		},
+		OnStartEquip = function()
+			local temp = 0
+			temp = GetSkillLevel(17)
+			SetEquipTempValue(0, temp)
+			if temp < 5 then
+				temp = 5
+			end
+		end
+	},
+	[2000001641] = {
+		Item = {
+			20821,
+			15178,
+			28721
+		},
+		OnStartEquip = function()
+			AddDamage_SKID(1, 3007, 50)
+			AddDamage_SKID(1, 3006, 20)
+		end
+	},
+	[2000001642] = {
+		Item = {
+			20821,
+			15178,
+			13332
+		},
+		OnStartEquip = function()
+			AddRangeAttackDamage(1, 15)
+			SubSkillDelay(3009, 1000)
+		end
+	},
+	[2000001643] = {
+		Item = {
+			28442,
+			15180,
+			1944
+		},
+		OnStartEquip = function()
+			AddExtParam(0, 41, 30)
+			AddExtParam(0, 54, 1)
+			AddDamage_CRI(1, 20)
+		end
+	},
+	[2000001644] = {
+		Item = {
+			28442,
+			15180,
+			26200
+		},
+		OnStartEquip = function()
+			AddExtParam(0, 41, 30)
+			AddExtParam(0, 54, 1)
+			AddDamage_CRI(1, 20)
+		end
+	},
+	[2000001640] = {
+		Item = {
+			20822,
+			28116,
+			15179
+		},
+		OnStartEquip = function()
+			AddExtParam(0, 207, 5)
+			AddExtParam(0, 167, 10)
+			AddDamage_CRI(1, 10)
+		end
+	},
+	[2000001645] = {
+		Item = {311010, 29467},
+		OnStartEquip = function()
+			AddDamage_SKID(1, 490, 15)
+		end
+	},
+	[2000001646] = {
+		Item = {29466, 29467},
+		OnStartEquip = function()
+			AddRangeAttackDamage(1, 5)
+		end
+	},
+	[2000001647] = {
+		Item = {311009, 29467},
+		OnStartEquip = function()
+			AddDamage_SKID(1, 2477, 15)
+		end
+	},
+	[2000001648] = {
+		Item = {29465, 29467},
+		OnStartEquip = function()
+			SubSkillDelay(2492, 3000)
+		end
+	},
+	[2000001649] = {
+		Item = {311008, 29467},
+		OnStartEquip = function()
+			AddDamage_SKID(1, 490, 15)
+		end
+	},
+	[2000001650] = {
+		Item = {29464, 29467},
+		OnStartEquip = function()
+			AddDamage_SKID(1, 2477, 15)
+		end
+	},
+	[2000001651] = {
+		Item = {310883, 29463},
+		OnStartEquip = function()
+			AddExtParam(0, 111, 10)
+			AddExtParam(0, 112, 10)
+		end
+	},
+	[2000001652] = {
+		Item = {29462, 29463},
+		OnStartEquip = function()
+			SubSpellDelay(5)
+		end
+	},
+	[2000001653] = {
+		Item = {310882, 29463},
+		OnStartEquip = function()
+			AddDamage_SKID(1, 2008, 15)
+			AddDamage_SKID(1, 5004, 15)
+		end
+	},
+	[2000001654] = {
+		Item = {29461, 29463},
+		OnStartEquip = function()
+			subspconsumption(10, 2008)
+			subspconsumption(10, 5004)
+		end
+	},
+	[2000001655] = {
+		Item = {310881, 29463},
+		OnStartEquip = function()
+			SubSpellCastTime(10)
+		end
+	},
+	[2000001656] = {
+		Item = {29460, 29463},
+		OnStartEquip = function()
+			AddDamage_SKID(1, 2008, 10)
+			AddDamage_SKID(1, 5004, 10)
+		end
+	},
+	[2000001657] = {
+		Item = {310886, 29471},
+		OnStartEquip = function()
+			AddDamage_SKID(1, 2215, 15)
+		end
+	},
+	[2000001658] = {
+		Item = {29470, 29471},
+		OnStartEquip = function()
+			AddSkillMDamage(3, 5)
+		end
+	},
+	[2000001659] = {
+		Item = {310885, 29471},
+		OnStartEquip = function()
+			AddDamage_SKID(1, 2211, 15)
+		end
+	},
+	[2000001660] = {
+		Item = {29469, 29471},
+		OnStartEquip = function()
+			local temp = 0
+			temp = math.floor(GetSkillLevel(364) / 2)
+			SetEquipTempValue(0, temp)
+			SubSFCTEquipAmount(100 * temp, 0)
+		end,
+		OnStartPretendEquip = true
+	},
+	[2000001661] = {
+		Item = {310884, 29471},
+		OnStartEquip = function()
+			AddDamage_SKID(1, 2202, 15)
+		end
+	},
+	[2000001662] = {
+		Item = {29468, 29471},
+		OnStartEquip = function()
+			AddDamage_SKID(1, 2211, 15)
+		end
+	},
+	[2000001663] = {
+		Item = {401147, 28242},
+		OnStartEquip = function()
+			local temp = 0
+			temp = GetRefineLevel(4)
+			AddExtParam(0, 112, 2)
+			if 9 < temp then
+				SubSkillDelay(2554, 1500)
+			end
+		end
+	},
+	[2000001664] = {
+		Item = {401147, 28240},
+		OnStartEquip = function()
+			local temp = 0
+			temp = GetRefineLevel(4)
+			AddExtParam(0, 52, math.floor(temp / 2) * 40)
+			AddDamage_CRI(1, math.floor(temp / 2) * 3)
+			if 9 < temp then
+			end
+		end
+	},
+	[2000001665] = {
+		Item = {401147, 28243},
+		OnStartEquip = function()
+			local temp = 0
+			temp = GetRefineLevel(4)
+			AddExtParam(0, 167, math.floor(temp / 2) * 3)
+			if 9 < temp then
+				SubSkillDelay(2566, 3000)
+			end
+		end
+	},
+	[2000001666] = {
+		Item = {401147, 28241},
+		OnStartEquip = function()
+			local temp = 0
+			temp = GetRefineLevel(4)
+			AddExtParam(0, 51, math.floor(temp / 2) * 30)
+			if 9 < temp then
+				ClassSubDamage(0, 0, 15)
+			end
+		end
+	},
+	[2000001667] = {
+		Item = {401147, 13146},
+		OnStartEquip = function()
+			local temp = 0
+			temp = GetRefineLevel(4)
+			ClassAddDamage(1, 1, math.floor(temp / 2) * 3)
+			if 9 < temp then
+				ClassSubDamage(1, 0, 15)
+			end
+		end
+	},
+	[2000001668] = {
+		Item = {470411, 28116},
+		OnStartEquip = function()
+			local temp, temp1, temp2 = 0, 0, 0
+			temp = GetRefineLevel(4)
+			temp1 = GetRefineLevel(6)
+			temp2 = temp + temp1
+			AddMeleeAttackDamage(1, 5)
+			if 11 < temp2 then
+			end
+			if 17 < temp2 then
+			end
+		end
+	},
+	[2000001669] = {
+		Item = {470411, 18145},
+		OnStartEquip = function()
+			local temp, temp1, temp2 = 0, 0, 0
+			temp = GetRefineLevel(4)
+			temp1 = GetRefineLevel(6)
+			temp2 = temp + temp1
+			AddDamage_CRI(1, 5)
+			if 11 < temp2 then
+				EnableSkill(382, 3)
+			end
+			if 17 < temp2 then
+				AddDamage_SKID(1, 382, 15)
+			end
+		end
+	},
+	[2000001670] = {
+		Item = {470411, 28721},
+		OnStartEquip = function()
+			local temp, temp1, temp2 = 0, 0, 0
+			temp = GetRefineLevel(4)
+			temp1 = GetRefineLevel(6)
+			temp2 = temp + temp1
+			SubSpellDelay(5)
+			if 11 < temp2 then
+				SubSkillDelay(3006, 1000)
+			end
+			if 17 < temp2 then
+				AddDamage_SKID(1, 3006, 15)
+			end
+		end
+	},
+	[2000001671] = {
+		Item = {470411, 26200},
+		OnStartEquip = function()
+			local temp, temp1, temp2 = 0, 0, 0
+			temp = GetRefineLevel(4)
+			temp1 = GetRefineLevel(6)
+			temp2 = temp + temp1
+			AddRangeAttackDamage(1, 5)
+			if 11 < temp2 then
+			end
+			if 17 < temp2 then
+			end
+		end
+	},
+	[2000001672] = {
+		Item = {470411, 1944},
+		OnStartEquip = function()
+			local temp, temp1, temp2 = 0, 0, 0
+			temp = GetRefineLevel(4)
+			temp1 = GetRefineLevel(6)
+			temp2 = temp + temp1
+			AddRangeAttackDamage(1, 5)
+			if 11 < temp2 then
+			end
+			if 17 < temp2 then
 			end
 		end
 	}

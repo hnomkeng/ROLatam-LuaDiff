@@ -7034,6 +7034,24 @@ achievement_tbl = {
 		reward = {title = 1046},
 		score = 10
 	},
+	[200032] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "O Começo de Outra Aventura!",
+		content = {
+			summary = "Alcance o Nível Base 100!",
+			details = "Alcance o Nível Base 100."
+		},
+		resource = {
+			[1] = {
+				text = "Nível Base 100"
+			}
+		},
+		reward = {item = 23585},
+		score = 10
+	},
 	[200033] = {
 		UI_Type = 0,
 		group = "GOAL_LEVEL",

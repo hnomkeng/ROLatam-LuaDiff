@@ -1583,10 +1583,24 @@ Navi_Map = {
 	},
 	{
 		"har_in01",
-		"Rock Ridge",
+		"Interior de Rockridge",
 		5003,
 		120,
 		120
+	},
+	{
+		"harboro1",
+		"Rockridge",
+		5001,
+		400,
+		360
+	},
+	{
+		"harboro2",
+		"Subterrâneo de Rockridge",
+		5001,
+		360,
+		340
 	},
 	{
 		"hu_fild01",
@@ -3605,6 +3619,13 @@ Navi_Map = {
 		300
 	},
 	{
+		"prt_mz03_i",
+		"Floresta do Labirinto Distorcido",
+		5001,
+		200,
+		200
+	},
+	{
 		"prt_pri00",
 		"Carceragem de Prontera ",
 		5001,
@@ -3955,6 +3976,34 @@ Navi_Map = {
 		100
 	},
 	{
+		"rockmi1",
+		"Mina de Rockridge (1)",
+		5001,
+		400,
+		400
+	},
+	{
+		"rockmi2",
+		"Mina de Rockridge (2)",
+		5001,
+		140,
+		140
+	},
+	{
+		"rockrdg1",
+		"Deserto Kiwawa (1)",
+		5001,
+		400,
+		400
+	},
+	{
+		"rockrdg2",
+		"Deserto Kiwawa (2)",
+		5001,
+		400,
+		400
+	},
+	{
 		"rwc01",
 		"championship4",
 		5001,
@@ -4065,6 +4114,13 @@ Navi_Map = {
 		5001,
 		200,
 		200
+	},
+	{
+		"tha_scene01",
+		"",
+		5001,
+		400,
+		400
 	},
 	{
 		"tha_t01",

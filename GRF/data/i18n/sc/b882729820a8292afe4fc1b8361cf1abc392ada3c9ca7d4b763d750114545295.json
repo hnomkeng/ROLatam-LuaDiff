@@ -1,0 +1,758 @@
+{
+    "oLtCDA": {
+        "ko": "예언자 K",
+        "en": "Prophet K",
+        "pt": "Profeta K",
+        "es": "Profeta K"
+    },
+    "obtCDA": {
+        "ko": "소지하고 계시는 아이템의 갯수가 많아 퀘스트를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
+        "en": "You are carrying too many items and cannot proceed with the quest.\nPlease organize your inventory and try again.",
+        "pt": "Você está carregando itens demais e não pode prosseguir com a missão.\nPor favor, organize seu inventário e tente novamente.",
+        "es": "Tienes demasiados objetos en tu inventario y no puedes continuar con la misión.\nPor favor organiza tu inventario e inténtalo de nuevo."
+    },
+    "ortCDA": {
+        "ko": "[예언자 K]",
+        "en": "[Prophet K]",
+        "pt": "[Profeta K]",
+        "es": "[Profeta K]"
+    },
+    "o7tCDA": {
+        "ko": "강한!",
+        "en": "Strong!",
+        "pt": "Forte!",
+        "es": "¡Fuerte!"
+    },
+    "pLtCDA": {
+        "ko": "호랑이의 영혼조각을\n구해오는 것에\n성공한 것 같군!\n훌륭해!!",
+        "en": "It seems you have succeeded\nin gathering the\nTiger Soul Shards!\nExcellent!!",
+        "pt": "Parece que você conseguiu\nreunir os\nFragmentos de Alma de Tigre!\nExcelente!!",
+        "es": "¡Parece que has tenido éxito\nreuniendo los\nFragmentos de Alma de Tigre!\n¡¡Excelente!!"
+    },
+    "pbtCDA": {
+        "ko": "[예언자 K]\n자 그럼 바로\n호랑이의 영혼조각을 이용해\n12지신 중 호랑이의 기운을 받은\n영웅의 위치를 찾는 의식을\n시작하도록 하지!",
+        "en": "[Prophet K]\nWell then, let's begin the ritual\nusing the Tiger Soul Shards\nto locate the hero\nwho has received the energy\nof the Tiger from the 12 Zodiac Gods,\nright away!",
+        "pt": "[Profeta K]\nBem então, vamos começar o ritual\nusando os Fragmentos de Alma de Tigre\npara localizar o herói\nque recebeu a energia\ndo Tigre dos 12 Deuses do Zodíaco,\nimediatamente!",
+        "es": "[Profeta K]\n¡Bien entonces, comencemos el ritual\nusando los Fragmentos de Alma de Tigre\npara localizar al héroe\nque ha recibido la energía\ndel Tigre de los 12 Dioses del Zodiaco,\ninmediatamente!"
+    },
+    "prtCDA": {
+        "ko": "[예언자 K]\n흠! 차..찾은거 같군!!\n평온하고 안락해 보이는\n마을이 보이는군..",
+        "en": "[Prophet K]\nHmm! I...I think I've found it!!\nI see a village\nthat looks peaceful and comfortable..",
+        "pt": "[Profeta K]\nHmm! Acho... que encontrei!!\nVejo uma vila\nque parece pacífica e aconchegante..",
+        "es": "[Profeta K]\n¡Hmm! Creo... ¡¡que lo he encontrado!!\nVeo una aldea\nque parece pacífica y acogedora.."
+    },
+    "p7tCDA": {
+        "ko": "[예언자 K]\n푸르른 나무와..\n초가집이 보이는 그곳..\n고풍스런 정자 앞에..\n말끔히 정장을 입은\n한 사내가 보이는군!",
+        "en": "[Prophet K]\nThe place with green trees..\nand thatched-roof houses..\nIn front of an old-fashioned pavilion..\nI see a man dressed neatly\nin a suit!",
+        "pt": "[Profeta K]\nO lugar com árvores verdes..\ne casas de teto de palha..\nNa frente de um pavilhão antigo..\nVejo um homem vestido impecavelmente\ncom um terno!",
+        "es": "[Profeta K]\nEl lugar con árboles verdes..\ny casas con techo de paja..\nFrente a un pabellón antiguo..\n¡Veo a un hombre vestido pulcramente\ncon un traje!"
+    },
+    "qLtCDA": {
+        "ko": "[예언자 K]\n영혼의 부적을 안가져왔나?\n이미 효과가 다했으니, 그냥 자네가 알아서 처리해도 상관없네만.\n하던 이야기를 계속 하지.",
+        "en": "[Prophet K]\nDid you not bring the Soul Amulet?\nIts effect has already worn off, so it doesn't matter if you handle it yourself.\nLet's continue our story.",
+        "pt": "[Profeta K]\nVocê não trouxe o Amuleto de Alma?\nSeu efeito já acabou, então não importa se você lidar com isso sozinho.\nVamos continuar nossa história.",
+        "es": "[Profeta K]\n¿No trajiste el Amuleto de Alma?\nSu efecto ya se agotó, así que no importa si lo manejas tú mismo.\nContinuemos nuestra historia."
+    },
+    "qbtCDA": {
+        "ko": "[예언자 K]\n아마도 지역은\n페이욘으로 추정되는데..\n가서 그 사람을 찾아봐주길\n바라네!",
+        "en": "[Prophet K]\nThe area is presumed to be\nPayon..\nI hope you can go\nand find that person!",
+        "pt": "[Profeta K]\nA área é presumida ser\nPayon..\nEspero que você possa ir\ne encontrar essa pessoa!",
+        "es": "[Profeta K]\nSe presume que el área es\nPayon..\n¡Espero que puedas ir\ny encontrar a esa persona!"
+    },
+    "qrtCDA": {
+        "ko": "[예언자 K]\n그를 찾아서 내가 준\n밀서를 건네주도록 하게.\n그 이후에 판단은\n그가 스스로 하겠지..\n모든 것 은 하늘의 뜻 대로..\n후후..",
+        "en": "[Prophet K]\nFind him and deliver\nthe secret letter I gave you.\nHe will judge for himself\nwhat to do after that..\nEverything is according to heaven's will..\nHuhu..",
+        "pt": "[Profeta K]\nEncontre-o e entregue\na carta secreta que eu te dei.\nEle julgará por si mesmo\no que fazer depois disso..\nTudo está de acordo com a vontade do céu..\nHuhu..",
+        "es": "[Profeta K]\nEncuéntralo y entrégale\nla carta secreta que te di.\nÉl juzgará por sí mismo\nqué hacer después de eso..\nTodo es según la voluntad del cielo..\nJuju.."
+    },
+    "q7tCDA": {
+        "ko": "[예언자 K]\n호랑이의 영혼조각을\n모아오는 일은\n잘 되고 있는가?\n아직은 조금 부족한 것 같군.\n그래, 나에게 무슨 할 말이라도\n있는가?",
+        "en": "[Prophet K]\nIs the task of gathering\nthe Tiger Soul Shards\ngoing well?\nIt still seems a bit insufficient.\nSo, did you have something\nyou wanted to say to me?",
+        "pt": "[Profeta K]\nA tarefa de reunir\nos Fragmentos de Alma de Tigre\nestá indo bem?\nAinda parece um pouco insuficiente.\nEntão, você tinha algo\nque queria me dizer?",
+        "es": "[Profeta K]\n¿Va bien la tarea de reunir\nlos Fragmentos de Alma de Tigre?\nTodavía parece un poco insuficiente.\nEntonces, ¿tenías algo\nque querías decirme?"
+    },
+    "rLtCDA": {
+        "ko": "영혼을 얻는 위치를 물어본다.",
+        "en": "Ask about the location to get soul shards.",
+        "pt": "Perguntar sobre a localização para obter fragmentos de alma.",
+        "es": "Preguntar sobre la ubicación para obtener fragmentos de alma."
+    },
+    "rbtCDA": {
+        "ko": "대화를 종료한다",
+        "en": "End the conversation.",
+        "pt": "Terminar a conversa.",
+        "es": "Terminar la conversación."
+    },
+    "rrtCDA": {
+        "ko": "[예언자 K]\n알베르타에서 용지성으로 가는\n배를 타고 용지성 왕릉으로 가면\n이매망량을 볼 수 있을 것이네.\n이매망량을 사냥해서\n호랑이의 영혼조각 150개를\n구해오거나....",
+        "en": "[Prophet K]\nIf you take the ship from Alberta to Payon\nand go to the Payon Cave,\nyou should be able to see Illusionary Foxes.\nHunt the Illusionary Foxes\nand bring back\n150 Tiger Soul Shards\nor....",
+        "pt": "[Profeta K]\nSe você pegar o navio de Alberta para Payon\ne for para a Caverna de Payon,\nvocê deverá ver Raposas Ilusórias.\nCace as Raposas Ilusórias\ne traga\n150 Fragmentos de Alma de Tigre\nou....",
+        "es": "[Profeta K]\nSi tomas el barco de Alberta a Payon\ny vas a la Cueva de Payon,\ndeberías poder ver Zorros Ilusorios.\nCaza a los Zorros Ilusorios\ny trae\n150 Fragmentos de Alma de Tigre\no...."
+    },
+    "r7tCDA": {
+        "ko": "[예언자 K]\n페이욘 필드에 가면\n무시무시한 에드가 라는\n호랑이가 살고 있는데..\n그 호랑이를 사냥해서\n강한 호랑이의 영혼조각 1개를\n구해와야 하네.",
+        "en": "[Prophet K]\nIf you go to the Payon fields,\na fearsome tiger named\nEdga lives there..\nYou must hunt that tiger\nand bring back\n1 Strong Tiger Soul Shard.",
+        "pt": "[Profeta K]\nSe você for para os campos de Payon,\num tigre temível chamado\nEdga vive lá..\nVocê deve caçar esse tigre\ne trazer\n1 Fragmento de Alma de Tigre Forte.",
+        "es": "[Profeta K]\nSi vas a los campos de Payon,\nun tigre temible llamado\nEdga vive allí..\nDebes cazar a ese tigre\ny traer\n1 Fragmento de Alma de Tigre Fuerte."
+    },
+    "sLtCDA": {
+        "ko": "[예언자 K]\n이매망량을 사냥해서\n호랑이의 영혼조각 150개를\n가져오거나\n에드가를 사냥해서\n강한 호랑이의 영혼조각 1개를\n가져와주게! 부탁하네!",
+        "en": "[Prophet K]\nEither hunt the Illusionary Foxes\nand bring back 150 Tiger Soul Shards,\nor hunt Edga\nand bring back 1 Strong Tiger Soul Shard!\nI'm counting on you!",
+        "pt": "[Profeta K]\nOu cace as Raposas Ilusórias\ne traga 150 Fragmentos de Alma de Tigre,\nou cace Edga\ne traga 1 Fragmento de Alma de Tigre Forte!\nEstou contando com você!",
+        "es": "[Profeta K]\n¡O caza a los Zorros Ilusorios\ny trae 150 Fragmentos de Alma de Tigre,\no caza a Edga\ny trae 1 Fragmento de Alma de Tigre Fuerte!\n¡Cuento contigo!"
+    },
+    "sbtCDA": {
+        "ko": "[예언자 K]\n그 정도라면 분명히\n호랑이의 기운을 받은 사람을\n찾는 의식에 부족함이 없을거야.",
+        "en": "[Prophet K]\nThat amount should surely be\nsufficient for the ritual to find\nthe person who has received the Tiger's energy.",
+        "pt": "[Profeta K]\nEssa quantidade certamente será\nsuficiente para o ritual para encontrar\na pessoa que recebeu a energia do Tigre.",
+        "es": "[Profeta K]\nEsa cantidad seguramente será\nsuficiente para el ritual de encontrar\na la persona que ha recibido la energía del Tigre."
+    },
+    "srtCDA": {
+        "ko": "[예언자 K]\n영혼 조각을 전부 모으고\n나를 다시 찾아와주길 바라네.",
+        "en": "[Prophet K]\nI hope you gather all the soul shards\nand come find me again.",
+        "pt": "[Profeta K]\nEspero que você reúna todos os fragmentos de alma\ne me encontre novamente.",
+        "es": "[Profeta K]\nEspero que reúnas todos los fragmentos de alma\ny me busques de nuevo."
+    },
+    "s7tCDA": {
+        "ko": "[예언자 K]\n나는 예언자 K라고 하네,\n12지신을 모시고 있는\n사제이기도 하며,\n주로 예지몽을 이용해\n미래를 예측하고는 하지.",
+        "en": "[Prophet K]\nMy name is Prophet K,\nI am a priest who serves\nthe 12 Zodiac Gods,\nand I mainly predict the future\nusing prophetic dreams.",
+        "pt": "[Profeta K]\nMeu nome é Profeta K,\nSou um sacerdote que serve\naos 12 Deuses do Zodíaco,\ne eu principalmente prevejo o futuro\nusando sonhos proféticos.",
+        "es": "[Profeta K]\nMi nombre es Profeta K,\nsoy un sacerdote que sirve\na los 12 Dioses del Zodiaco,\ny principalmente predigo el futuro\nusando sueños proféticos."
+    },
+    "tLtCDA": {
+        "ko": "[예언자 K]\n어제 저녁에 드디어\n12지신의 계시를 받아\n잠을 자다가 예지몽을 꿨어..\n이건 정말 중요한\n꿈 인 것 같아, 그래서 내가\n부탁할 사람이 필요한데..",
+        "en": "[Prophet K]\nLast night, I finally\nreceived a revelation from the 12 Zodiac Gods\nand had a prophetic dream while sleeping..\nThis seems like a very important\ndream, so I need\nsomeone to do me a favor..",
+        "pt": "[Profeta K]\nOntem à noite, eu finalmente\nrecebi uma revelação dos 12 Deuses do Zodíaco\ne tive um sonho profético enquanto dormia..\nParece um sonho muito\nimportante, então preciso\nque alguém me faça um favor..",
+        "es": "[Profeta K]\nAnoche, finalmente\nrecibí una revelación de los 12 Dioses del Zodiaco\ny tuve un sueño profético mientras dormía..\nParece un sueño muy\nimportante, así que necesito\nque alguien me haga un favor.."
+    },
+    "tbtCDA": {
+        "ko": "^8B4513예지몽^000000에 대해서 듣는다.",
+        "en": "Listen about the ^8B4513Prophetic Dream^000000.",
+        "pt": "Ouvir sobre o ^8B4513Sonho Profético^000000.",
+        "es": "Escuchar sobre el ^8B4513Sueño Profético^000000."
+    },
+    "trtCDA": {
+        "ko": "예언자 K의 ^8B4513부탁^000000을 들어본다",
+        "en": "Hear Prophet K's ^8B4513Request^000000.",
+        "pt": "Ouvir o ^8B4513Pedido^000000 do Profeta K.",
+        "es": "Escuchar la ^8B4513Solicitud^000000 del Profeta K."
+    },
+    "t7tCDA": {
+        "ko": "[예언자 K]\n그래 그 꿈은 마치\n피 비린내 나는 밀림같은\n긴장감이 확연히 느껴지는\n그런 곳 이었어.",
+        "en": "[Prophet K]\nWell, the dream was a place\nlike a jungle filled with the smell of blood,\nwhere you could clearly feel\na sense of tension.",
+        "pt": "[Profeta K]\nBem, o sonho era um lugar\ncomo uma selva cheia do cheiro de sangue,\nonde você podia sentir claramente\numa sensação de tensão.",
+        "es": "[Profeta K]\nBueno, el sueño era un lugar\ncomo una jungla llena del olor a sangre,\ndonde se podía sentir claramente\nuna sensación de tensión."
+    },
+    "uLtCDA": {
+        "ko": "[예언자 K]\n내가 어리둥절해 하던\n그때였어 12지신 중\n호랑이의 신께서 내 앞에\n나타나셨고,",
+        "en": "[Prophet K]\nIt was at that moment, while I was bewildered,\nthat the Tiger God\nfrom among the 12 Zodiac Gods\nappeared before me,",
+        "pt": "[Profeta K]\nFoi naquele momento, enquanto eu estava desnorteado,\nque o Deus Tigre\nentre os 12 Deuses do Zodíaco\napareceu diante de mim,",
+        "es": "[Profeta K]\nFue en ese momento, mientras estaba desconcertado,\nque el Dios Tigre\nde entre los 12 Dioses del Zodiaco\napareció ante mí,"
+    },
+    "ubtCDA": {
+        "ko": "[예언자 K]\n곧 주변은 시들어버린 나무와\n풀 들로 가득했지..\n마치 모든 생물이 죽어버린\n죽음의 숲 같은느낌이었어..",
+        "en": "[Prophet K]\nSoon the surroundings were filled with\nwithered trees and grass..\nIt felt like a forest of death\nwhere all living things had died..",
+        "pt": "[Profeta K]\nLogo os arredores ficaram cheios de\nárvores e grama murchas..\nParecia uma floresta da morte\nonde todos os seres vivos haviam morrido..",
+        "es": "[Profeta K]\nPronto los alrededores se llenaron de\nárboles y hierba marchitos..\nSe sentía como un bosque de la muerte\ndonde todos los seres vivos habían muerto.."
+    },
+    "urtCDA": {
+        "ko": "[예언자 K]\n그 때 알게 되었지,\n아 이건 예지몽이다!\n큰 환란이 앞으로\n일어날 것이다! 라고",
+        "en": "[Prophet K]\nThat's when I realized,\nAh, this is a prophetic dream!\nA great calamity\nis going to happen! I thought",
+        "pt": "[Profeta K]\nFoi quando eu percebi,\nAh, isso é um sonho profético!\nUma grande calamidade\nvai acontecer! Eu pensei",
+        "es": "[Profeta K]\nFue entonces cuando me di cuenta,\n¡Ah, este es un sueño profético!\n¡Una gran calamidad\nva a suceder! Pensé"
+    },
+    "u7tCDA": {
+        "ko": "[예언자 K]\n그리고는 호랑이의 신 께서\n내게 말했어!\n12지신의 기운을 받은\n사람을 찾아야 한다고..\n그래야 이 환란을\n막을 수 있다고..",
+        "en": "[Prophet K]\nAnd then the Tiger God\nspoke to me!\nHe said we must find\nthe person who has received the energy of the 12 Zodiac Gods..\nOnly then can we\nstop this calamity..",
+        "pt": "[Profeta K]\nE então o Deus Tigre\nfalou comigo!\nEle disse que devemos encontrar\na pessoa que recebeu a energia dos 12 Deuses do Zodíaco..\nSó então podemos\nparar esta calamidade..",
+        "es": "[Profeta K]\n¡Y entonces el Dios Tigre\nme habló!\nDijo que debemos encontrar\na la persona que ha recibido la energía de los 12 Dioses del Zodiaco..\nSolo entonces podremos\ndetener esta calamidad.."
+    },
+    "vLtCDA": {
+        "ko": "[예언자 K]\n아직 그 사람의 이름도,\n사는 곳도 전혀 모르지만,\n이 예지몽은 나에게\n그 를 찾아야 한다고\n말하고 있어!.",
+        "en": "[Prophet K]\nI still don't know his name,\nor where he lives at all,\nbut this prophetic dream\nis telling me\nthat I must find him!.",
+        "pt": "[Profeta K]\nAinda não sei o nome dele,\nou onde ele mora,\nmas este sonho profético\nestá me dizendo\nque devo encontrá-lo!.",
+        "es": "[Profeta K]\nTodavía no sé su nombre,\nni dónde vive en absoluto,\npero este sueño profético\nme está diciendo\n¡que debo encontrarlo!."
+    },
+    "vbtCDA": {
+        "ko": "[예언자 K]\n역시 이대로는 단서가\n너무 부족해, 그래서\n나의 예언 능력을 발휘하는\n의식을 통해 그 를 찾아야 해",
+        "en": "[Prophet K]\nAs expected, the clues are\ntoo scarce like this, so\nwe must find him through a ritual\nwhere I utilize my prophetic abilities.",
+        "pt": "[Profeta K]\nComo esperado, as pistas são\nmuito escassas assim, então\ndevemos encontrá-lo através de um ritual\nonde eu utilizo minhas habilidades proféticas.",
+        "es": "[Profeta K]\nComo era de esperar, las pistas son\ndemasiado escasas así, así que\ndebemos encontrarlo a través de un ritual\ndonde utilice mis habilidades proféticas."
+    },
+    "vrtCDA": {
+        "ko": "[예언자 K]\n그 의식을 하기 위해서는\n의식에 가장 중요한\n찾고자 하는 대상을\n나타내는 물품, 또는 유사한\n기운, 에너지가 필요하지.",
+        "en": "[Prophet K]\nTo perform that ritual,\nwe need the most important item for it:\nan object representing the target we seek,\nor a similar\nenergy, aura.",
+        "pt": "[Profeta K]\nPara realizar esse ritual,\nprecisamos do item mais importante para ele:\num objeto representando o alvo que buscamos,\nou uma energia, aura\nsimilar.",
+        "es": "[Profeta K]\nPara realizar ese ritual,\nnecesitamos el objeto más importante para ello:\nun objeto que represente al objetivo que buscamos,\no una energía, aura\nsimilar."
+    },
+    "v7tCDA": {
+        "ko": "[예언자 K]\n그래서 그걸 구하기 위해\n자네의 도움이 필요한거야.",
+        "en": "[Prophet K]\nSo, to obtain that,\nI need your help.",
+        "pt": "[Profeta K]\nEntão, para obter isso,\npreciso da sua ajuda.",
+        "es": "[Profeta K]\nAsí que, para obtener eso,\nnecesito tu ayuda."
+    },
+    "wLtCDA": {
+        "ko": "[예언자 K]\n그래서 이번에 꾼 꿈은\n호랑이의 기운을 받은\n사람을 말하는 것\n이라고 생각해.",
+        "en": "[Prophet K]\nSo, I think the dream I had this time\nrefers to the person\nwho has received\nthe Tiger's energy.",
+        "pt": "[Profeta K]\nEntão, acho que o sonho que tive desta vez\nrefere-se à pessoa\nque recebeu\na energia do Tigre.",
+        "es": "[Profeta K]\nAsí que, creo que el sueño que tuve esta vez\nse refiere a la persona\nque ha recibido\nla energía del Tigre."
+    },
+    "wbtCDA": {
+        "ko": "[예언자 K]\n그래서 말야\n호랑이의 영혼 조각이 필요한데\n나를 도와 영혼 조각을\n찾아 줄 수 있겠는가?",
+        "en": "[Prophet K]\nSo, you see,\nI need Tiger Soul Shards.\nCan you help me\nfind the soul shards?",
+        "pt": "[Profeta K]\nEntão, veja bem,\npreciso de Fragmentos de Alma de Tigre.\nVocê pode me ajudar\na encontrar os fragmentos de alma?",
+        "es": "[Profeta K]\nAsí que, verás,\nnecesito Fragmentos de Alma de Tigre.\n¿Puedes ayudarme\na encontrar los fragmentos de alma?"
+    },
+    "wrtCDA": {
+        "ko": "부탁을 들어준다.",
+        "en": "Agree to the request.",
+        "pt": "Aceitar o pedido.",
+        "es": "Aceptar la petición."
+    },
+    "w7tCDA": {
+        "ko": "부탁을 거절한다.",
+        "en": "Refuse the request.",
+        "pt": "Recusar o pedido.",
+        "es": "Rechazar la petición."
+    },
+    "xLtCDA": {
+        "ko": "[예언자 K]\n고맙네.\n여기 영혼의 부적을 주겠네\n이걸 가지고 있는 상태로\n호랑이의 영혼을 얻을 수 있는\n몬스터를 사냥해야 하네.",
+        "en": "[Prophet K]\nThank you.\nI'll give you this Soul Amulet.\nWhile you have this,\nyou must hunt monsters\nfrom which you can obtain Tiger Souls.",
+        "pt": "[Profeta K]\nObrigado.\nVou te dar este Amuleto de Alma.\nEnquanto você tiver isso,\nvocê deve caçar monstros\ndos quais você pode obter Almas de Tigre.",
+        "es": "[Profeta K]\nGracias.\nTe daré este Amuleto de Alma.\nMientras tengas esto,\ndebes cazar monstruos\nde los cuales puedas obtener Almas de Tigre."
+    },
+    "xbtCDA": {
+        "ko": "[예언자 K]\n알베르타로 가서\n쿤룬 행 배를 타면\n쿤룬으로 갈 수 있다네.",
+        "en": "[Prophet K]\nIf you go to Alberta\nand take the ship bound for Kunlun,\nyou can go to Kunlun.",
+        "pt": "[Profeta K]\nSe você for para Alberta\ne pegar o navio com destino a Kunlun,\nvocê pode ir para Kunlun.",
+        "es": "[Profeta K]\nSi vas a Alberta\ny tomas el barco con destino a Kunlun,\npuedes ir a Kunlun."
+    },
+    "xrtCDA": {
+        "ko": "[예언자 K]\n쿤룬 필드에 있는\n아기 표범을 사냥하면\n호랑이의 영혼 조각을\n얻을수가 있을 것이네.",
+        "en": "[Prophet K]\nIf you hunt the Baby Leopards\nin the Kunlun fields,\nyou should be able\nto obtain Tiger Soul Shards.",
+        "pt": "[Profeta K]\nSe você caçar os Filhotes de Leopardo\nnos campos de Kunlun,\nvocê deverá conseguir\nobter Fragmentos de Alma de Tigre.",
+        "es": "[Profeta K]\nSi cazas a los Bebés Leopardo\nen los campos de Kunlun,\ndeberías poder\nobtener Fragmentos de Alma de Tigre."
+    },
+    "x7tCDA": {
+        "ko": "[예언자 K]\n조각 100개를\n모아오도록 하게\n그 정도라면 충분히\n호랑이의 기운을 받은 사람을\n찾는 의식에 부족함이 없을거야.",
+        "en": "[Prophet K]\nPlease gather\n100 shards.\nThat amount should be sufficiently\nenough for the ritual to find\nthe person who has received the Tiger's energy.",
+        "pt": "[Profeta K]\nPor favor, reúna\n100 fragmentos.\nEssa quantidade deve ser suficientemente\nadequada para o ritual para encontrar\na pessoa que recebeu a energia do Tigre.",
+        "es": "[Profeta K]\nPor favor reúne\n100 fragmentos.\nEsa cantidad debería ser suficientemente\nadecuada para el ritual de encontrar\na la persona que ha recibido la energía del Tigre."
+    },
+    "yLtCDA": {
+        "ko": "[예언자 K]\n가방에 소지품이 가득하게\n차 있군. 소지품을 줄여야\n나를 도와줄 수 있다네.\n소지품을 줄이고 다시\n다시 나를 찾아오게",
+        "en": "[Prophet K]\nYour bag is completely\nfull of items. You must reduce your belongings\nto be able to help me.\nReduce your belongings and\ncome find me again.",
+        "pt": "[Profeta K]\nSua bolsa está completamente\ncheia de itens. Você deve reduzir seus pertences\npara poder me ajudar.\nReduza seus pertences e\nme encontre novamente.",
+        "es": "[Profeta K]\nTu mochila está completamente\nllena de objetos. Debes reducir tus pertenencias\npara poder ayudarme.\nReduce tus pertenencias y\nven a buscarme de nuevo."
+    },
+    "ybtCDA": {
+        "ko": "[예언자 K]\n어쩔 수 없지\n자네의 생각이 그렇다면..\n나에게 더 궁금한 점이 있나?",
+        "en": "[Prophet K]\nIt can't be helped\nif that's your decision..\nDo you have anything else you're curious about?",
+        "pt": "[Profeta K]\nNão tem jeito\nse essa é sua decisão..\nVocê tem mais alguma curiosidade?",
+        "es": "[Profeta K]\nNo se puede hacer nada\nsi esa es tu decisión..\n¿Hay algo más que te intrigue?"
+    },
+    "yrtCDA": {
+        "ko": "[예언자 K]\n세계의 운명이 달린..\n일인데...\n다시 생각 해 보고\n찾아오길 바라네.",
+        "en": "[Prophet K]\nIt's a matter concerning\nthe fate of the world...\nI hope you think it over again\nand come back.",
+        "pt": "[Profeta K]\nÉ uma questão concernente\nao destino do mundo...\nEspero que você pense novamente\ne volte.",
+        "es": "[Profeta K]\nEs un asunto que concierne\nal destino del mundo...\nEspero que lo reconsideres de nuevo\ny regreses."
+    },
+    "y7tCDA": {
+        "ko": "영혼을 모아오는 걸 포기한다",
+        "en": "Give up on gathering the soul shards.",
+        "pt": "Desistir de reunir os fragmentos de alma.",
+        "es": "Renunciar a reunir los fragmentos de alma."
+    },
+    "zLtCDA": {
+        "ko": "[예언자 K]\n이런... 정말 포기하려 하는가?\n이런... 큰일났군..\n나의 예지몽은 분명히 그들을\n찾아야 하는데...\n정말 포기할텐가?",
+        "en": "[Prophet K]\nOh my... Are you really giving up?\nOh my... This is terrible..\nMy prophetic dream clearly said we must\nfind them...\nAre you really going to give up?",
+        "pt": "[Profeta K]\nOh céus... Você está mesmo desistindo?\nOh céus... Isso é terrível..\nMeu sonho profético disse claramente que devemos\nencontrá-los...\nVocê vai mesmo desistir?",
+        "es": "[Profeta K]\nDios mío... ¿De verdad te rindes?\nDios mío... Esto es terrible..\nMi sueño profético dijo claramente que debemos\nencontrarlos...\n¿De verdad vas a rendirte?"
+    },
+    "zbtCDA": {
+        "ko": "포기한다.",
+        "en": "Give up.",
+        "pt": "Desistir.",
+        "es": "Rendirse."
+    },
+    "zrtCDA": {
+        "ko": "포기하지 않는다.",
+        "en": "Don't give up.",
+        "pt": "Não desistir.",
+        "es": "No rendirse."
+    },
+    "z7tCDA": {
+        "ko": "[예언자 K]\n정 생각이 그렇다면\n어쩔 수 없지.\n생각이 바뀌면\n다시 나를 찾아오도록 하게.",
+        "en": "[Prophet K]\nIf that's really what you think,\nthen it can't be helped.\nIf you change your mind,\nplease come find me again.",
+        "pt": "[Profeta K]\nSe é realmente isso que você pensa,\nentão não tem jeito.\nSe mudar de ideia,\npor favor me encontre novamente.",
+        "es": "[Profeta K]\nSi realmente eso es lo que piensas,\nentonces no se puede hacer nada.\nSi cambias de opinión,\npor favor ven a buscarme de nuevo."
+    },
+    "0LtCDA": {
+        "ko": "[예언자 K]\n그래, 잘 생각했네.\n어서 빨리 영혼 조각을\n찾아오도록 하게!",
+        "en": "[Prophet K]\nGood, you thought well.\nPlease quickly go\nand find the soul shards!",
+        "pt": "[Profeta K]\nBom, você pensou bem.\nPor favor, vá rapidamente\ne encontre os fragmentos de alma!",
+        "es": "[Profeta K]\nBien, pensaste bien.\n¡Por favor ve rápidamente\ny encuentra los fragmentos de alma!"
+    },
+    "0btCDA": {
+        "ko": "[예언자 K]\n호랑이의 영혼조각을 모아오는\n것에 성공한 것 같군!\n훌륭해!!",
+        "en": "[Prophet K]\nIt seems you have succeeded\nin gathering the Tiger Soul Shards!\nExcellent!!",
+        "pt": "[Profeta K]\nParece que você conseguiu\nreunir os Fragmentos de Alma de Tigre!\nExcelente!!",
+        "es": "[Profeta K]\n¡Parece que has tenido éxito\nreuniendo los Fragmentos de Alma de Tigre!\n¡¡Excelente!!"
+    },
+    "0rtCDA": {
+        "ko": "[예언자 K]\n흠.. 하지만 이걸 어쩐다..\n아무래도 아기표범의\n호랑이의 영혼 조각 100개로는\n12지신 중 호랑이의 기운을 받은\n영웅의 위치를 찾는 의식을\n하기 부족한 것 같아..",
+        "en": "[Prophet K]\nHmm.. But what to do about this..\nIt seems that 100 Tiger Soul Shards\nfrom Baby Leopards are insufficient\nfor the ritual to find the hero\nwho has received the energy of the Tiger from the 12 Zodiac Gods..",
+        "pt": "[Profeta K]\nHmm.. Mas o que fazer sobre isso..\nParece que 100 Fragmentos de Alma de Tigre\ndos Filhotes de Leopardo são insuficientes\npara o ritual para encontrar o herói\nque recebeu a energia do Tigre dos 12 Deuses do Zodíaco..",
+        "es": "[Profeta K]\nHmm.. Pero qué hacer con esto..\nParece que 100 Fragmentos de Alma de Tigre\nde Bebés Leopardo son insuficientes\npara el ritual de encontrar al héroe\nque ha recibido la energía del Tigre de los 12 Dioses del Zodiaco.."
+    },
+    "07tCDA": {
+        "ko": "[예언자 K]\n아무래도 말이야..\n호랑이의 영혼조각이\n더 필요할 것 같은데 말이야..\n아니면 특별한 영혼조각이\n필요하거나...",
+        "en": "[Prophet K]\nIt seems, you see..\nthat we need more\nTiger Soul Shards..\nOr perhaps we need a special soul shard...",
+        "pt": "[Profeta K]\nParece, veja bem..\nque precisamos de mais\nFragmentos de Alma de Tigre..\nOu talvez precisemos de um fragmento de alma especial...",
+        "es": "[Profeta K]\nParece, verás..\nque necesitamos más\nFragmentos de Alma de Tigre..\nO quizás necesitamos un fragmento de alma especial..."
+    },
+    "1LtCDA": {
+        "ko": "[예언자 K]\n음....!\n호랑이의 영혼조각 150개를\n더 구해오거나,\n강한 호랑이의 영혼조각 1개를\n가져와야 할 것 같네.",
+        "en": "[Prophet K]\nHmm....!\nIt seems you need to either\nget 150 more Tiger Soul Shards,\nor bring back\n1 Strong Tiger Soul Shard.",
+        "pt": "[Profeta K]\nHmm....!\nParece que você precisa, ou\nconseguir mais 150 Fragmentos de Alma de Tigre,\nou trazer\n1 Fragmento de Alma de Tigre Forte.",
+        "es": "[Profeta K]\n¡Hmm....!\nParece que necesitas, o bien\nconseguir 150 Fragmentos de Alma de Tigre más,\no traer\n1 Fragmento de Alma de Tigre Fuerte."
+    },
+    "1btCDA": {
+        "ko": "정말..수상한데..",
+        "en": "This is really... suspicious..",
+        "pt": "Isso é realmente... suspeito..",
+        "es": "Esto es realmente... sospechoso.."
+    },
+    "1rtCDA": {
+        "ko": "[{0}]\n지난 번 때도 그렇고\n이번에 자꾸 배 타고 어디\n가라던지.. 말도 안되게 쎈\n에드가 잡아오라는게\n뭔가 못 미더운데....",
+        "en": "[{0}]\nLast time was like that too,\nand now you keep telling me to take a ship somewhere..\nTelling me to hunt the ridiculously strong\nEdga...\nSomething feels unreliable about this....",
+        "pt": "[{0}]\nDa última vez foi assim também,\ne agora você fica me mandando pegar um navio para algum lugar..\nMe mandando caçar o ridiculamente forte\nEdga...\nAlgo parece pouco confiável nisso....",
+        "es": "[{0}]\nLa última vez fue así también,\ny ahora no dejas de decirme que tome un barco a algún lugar..\nDecirme que cace al ridículamente fuerte\nEdga...\nAlgo se siente poco fiable en esto...."
+    },
+    "17tCDA": {
+        "ko": "[{0}]\n제가 모르는 무슨\n꿍꿍이 같은거 있는게\n아니에요???",
+        "en": "[{0}]\nDo you have some kind of\nhidden motive\nthat I don't know about???",
+        "pt": "[{0}]\nVocê tem algum tipo de\nmotivo oculto\nque eu não conheço???",
+        "es": "[{0}]\n¿Tienes algún tipo de\nmotivo oculto\nque yo no conozco???"
+    },
+    "2LtCDA": {
+        "ko": "[예언자 K]\n탐욕스런 인간아.\n왜 이리도 어리석느뇨.\n12간지신께서 노할지니!\n내 이번에 너를 위해\n특별히 600만 제니짜리\n모자를 선물로 주려 했거늘..",
+        "en": "[Prophet K]\nGreedy human.\nWhy are you so foolish.\nThe 12 Zodiac Gods will be angry!\nThis time, for you,\nI was going to specially give you a hat\nworth 6 million Zeny as a gift..",
+        "pt": "[Profeta K]\nHumano ganancioso.\nPor que você é tão tolo.\nOs 12 Deuses do Zodíaco ficarão zangados!\nDesta vez, para você,\neu ia te dar especialmente um chapéu\nno valor de 6 milhões de Zeny como presente..",
+        "es": "[Profeta K]\nHumano codicioso.\nPor qué eres tan tonto.\n¡Los 12 Dioses del Zodiaco se enojarán!\nEsta vez, para ti,\niba a regalarte especialmente un sombrero\nvalorado en 6 millones de Zeny.."
+    },
+    "2btCDA": {
+        "ko": "[{0}]\n헉... 6...600만!\n으...으흠...\n하지만... 그래도..\n너무..힘든데..",
+        "en": "[{0}]\nGasp... 6...6 million!\nAhem... ahem...\nBut... even so..\nIt's too... difficult..",
+        "pt": "[{0}]\nUau... 6...6 milhões!\nAhem... ahem...\nMas... mesmo assim..\nÉ... muito difícil..",
+        "es": "[{0}]\nUf... ¡6...6 millones!\nEjem... ejem...\nPero... aun así..\nEs... muy difícil.."
+    },
+    "2rtCDA": {
+        "ko": "[예언자 K]\n이번에는 특별히 백호의.\n기운이 담긴 물품이라네..\n하지만 그 불경한 입으로\n주변에 말하고 다니지는 말게!\n12간지의 신 께서\n큰 화를 내실 것이야!",
+        "en": "[Prophet K]\nThis time, it's an item\ncontaining the energy of the White Tiger..\nBut don't go around talking about it\nwith that impious mouth of yours!\nThe God of the 12 Zodiacs\nwill be greatly angry!",
+        "pt": "[Profeta K]\nDesta vez, é um item\ncontendo a energia do Tigre Branco..\nMas não saia por aí falando sobre isso\ncom sua boca ímpia!\nO Deus dos 12 Zodíacos\nficará muito zangado!",
+        "es": "[Profeta K]\nEsta vez, es un objeto\nque contiene la energía del Tigre Blanco..\n¡Pero no andes contándolo por ahí\ncon esa boca impía tuya!\n¡El Dios de los 12 Zodiacos\nse enfadará mucho!"
+    },
+    "27tCDA": {
+        "ko": "[{0}]\n아...알겠습니다..\n12간지 신이시여...\n진노하지 마소서...",
+        "en": "[{0}]\nAh... I understand..\nOh God of the 12 Zodiacs...\nPlease do not be wrathful...",
+        "pt": "[{0}]\nAh... Entendo..\nÓ Deus dos 12 Zodíacos...\nPor favor, não fique irado...",
+        "es": "[{0}]\nAh... Entiendo..\nOh Dios de los 12 Zodiacos...\nPor favor no seáis iracundo..."
+    },
+    "3LtCDA": {
+        "ko": "[예언자 K]\n오해가 풀려서 다행이군\n후후후.....\n어서 구해와주길 부탁하네.\n훗....",
+        "en": "[Prophet K]\nI'm glad the misunderstanding is cleared up.\nHuhuhu.....\nPlease go and get them for me.\nHmph....",
+        "pt": "[Profeta K]\nEstou feliz que o mal-entendido foi esclarecido.\nHuhuhu.....\nPor favor, vá e consiga eles para mim.\nHmph....",
+        "es": "[Profeta K]\nMe alegra que se haya aclarado el malentendido.\nJujuju.....\nPor favor ve y consíguelos para mí.\nJum...."
+    },
+    "3btCDA": {
+        "ko": "[예언자 K]\n12지신 중 호랑이의 기운을 받은\n영웅의 위치를 아직 찾지\n못 했나 보군",
+        "en": "[Prophet K]\nIt seems you still haven't found\nthe location of the hero\nwho has received the Tiger's energy from the 12 Zodiac Gods.",
+        "pt": "[Profeta K]\nParece que você ainda não encontrou\na localização do herói\nque recebeu a energia do Tigre dos 12 Deuses do Zodíaco.",
+        "es": "[Profeta K]\nParece que todavía no has encontrado\nla ubicación del héroe\nque ha recibido la energía del Tigre de los 12 Dioses del Zodiaco."
+    },
+    "3rtCDA": {
+        "ko": "[예언자 K]\n어서 찾아가 내가 준\n밀서를 건네주길 바라네.\n부탁하네!",
+        "en": "[Prophet K]\nPlease go find him\nand deliver the secret letter I gave you.\nI'm counting on you!",
+        "pt": "[Profeta K]\nPor favor, vá encontrá-lo\ne entregue a carta secreta que eu te dei.\nEstou contando com você!",
+        "es": "[Profeta K]\n¡Por favor ve a encontrarlo\ny entrégale la carta secreta que te di!\n¡Cuento contigo!"
+    },
+    "37tCDA": {
+        "ko": "[예언자 K]\n내가 준 밀서를 잃어버린건가?\n어쩔 수 없구만.\n다시 주겠네.",
+        "en": "[Prophet K]\nDid you lose the secret letter I gave you?\nIt can't be helped.\nI'll give it to you again.",
+        "pt": "[Profeta K]\nVocê perdeu a carta secreta que eu te dei?\nNão tem jeito.\nVou te dar novamente.",
+        "es": "[Profeta K]\n¿Perdiste la carta secreta que te di?\nNo hay remedio.\nTe la daré de nuevo."
+    },
+    "4LtCDA": {
+        "ko": "[예언자 K]\n오 돌아왔군!\n호랑이의 기운을 받은\n영웅은 잘 찾았나?\n그래, 이야기는 어떻게\n진행됐나?",
+        "en": "[Prophet K]\nOh, you're back!\nDid you find the hero\nwho received the Tiger's energy well?\nSo, how did\nthe conversation go?",
+        "pt": "[Profeta K]\nOh, você voltou!\nVocê encontrou bem o herói\nque recebeu a energia do Tigre?\nEntão, como\nfoi a conversa?",
+        "es": "[Profeta K]\n¡Oh, has vuelto!\n¿Encontraste bien al héroe\nque recibió la energía del Tigre?\nEntonces, ¿cómo\nfue la conversación?"
+    },
+    "4btCDA": {
+        "ko": "- 그 동안 있었던 일을 -\n- 전부 이야기 했다. -",
+        "en": "- I told him everything -\n- that happened in the meantime. -",
+        "pt": "- Contei tudo a ele -\n- que aconteceu nesse meio tempo. -",
+        "es": "- Le conté todo -\n- lo que sucedió mientras tanto. -"
+    },
+    "4rtCDA": {
+        "ko": "[예언자 K]\n그래...그런 일이 있었군.\n좋아, 나머지는 내가 직접\n찾아가서 이야기 해 보도록\n하겠어.",
+        "en": "[Prophet K]\nI see... So that's what happened.\nGood, I will go myself\nto find him and talk to him\nfor the rest.",
+        "pt": "[Profeta K]\nEntendo... Então foi isso que aconteceu.\nBom, eu mesmo irei\nencontrá-lo e falar com ele\npara o restante.",
+        "es": "[Profeta K]\nYa veo... Eso fue lo que pasó.\nBien, yo mismo iré\na encontrarlo y hablaré con él\npara lo que queda."
+    },
+    "47tCDA": {
+        "ko": "[예언자 K]\n그 동안 너무 고마웠네\n그에대한 보답으로\n자네가 구해왔던\n영혼 조각이 조금 남아서\n12지신의 기운을 담아\n모자를 한번 만들어봤네.",
+        "en": "[Prophet K]\nThank you so much for your help.\nAs a reward for that,\nthere were some soul shards left\nfrom what you gathered,\nso I tried making a hat\nby infusing it with the energy of the 12 Zodiac Gods.",
+        "pt": "[Profeta K]\nMuito obrigado pela sua ajuda.\nComo recompensa por isso,\nhavia alguns fragmentos de alma sobrando\ndos que você reuniu,\nentão tentei fazer um chapéu\ninfundindo-o com a energia dos 12 Deuses do Zodíaco.",
+        "es": "[Profeta K]\nMuchas gracias por tu ayuda.\nComo recompensa por eso,\nsobraron algunos fragmentos de alma\nde los que reuniste,\nasí que intenté hacer un sombrero\ninfundiéndolo con la energía de los 12 Dioses del Zodiaco."
+    },
+    "5LtCDA": {
+        "ko": "[예언자 K]\n특별한 12지신의 기운이\n담긴 모자라서 600만 제니의\n가치가 있지만 자네는 나를\n도와줬으니 특별히 10만제니에\n주도록 하지. 어떤가?",
+        "en": "[Prophet K]\nIt's a hat containing the special energy\nof the 12 Zodiac Gods, worth 6 million Zeny,\nbut since you helped me,\nI'll specially give it to you for 100,000 Zeny.\nWhat do you say?",
+        "pt": "[Profeta K]\nÉ um chapéu contendo a energia especial\ndos 12 Deuses do Zodíaco, no valor de 6 milhões de Zeny,\nmas como você me ajudou,\nvou te dar especialmente por 100.000 Zeny.\nO que você diz?",
+        "es": "[Profeta K]\nEs un sombrero que contiene la energía especial\nde los 12 Dioses del Zodiaco, valorado en 6 millones de Zeny,\npero como me ayudaste,\nte lo daré especialmente por 100,000 Zeny.\n¿Qué dices?"
+    },
+    "5btCDA": {
+        "ko": "[{0}]\n어째.. 점점 가격이..\n비싸..",
+        "en": "[{0}]\nSomehow.. the price keeps getting..\nmore expensive..",
+        "pt": "[{0}]\nDe alguma forma... o preço continua...\nficando mais caro..",
+        "es": "[{0}]\nDe algún modo... el precio sigue...\nsubiendo.."
+    },
+    "5rtCDA": {
+        "ko": "[예언자 K]\n잘 생각 해보게.\n무려 600만 제니야!\n단지 나는 소정의\n수고비 명복으로\n받는 것 뿐이야..\n오해하지 말게나.",
+        "en": "[Prophet K]\nThink about it carefully.\nIt's a whopping 6 million Zeny!\nI am only receiving\na small fee for my efforts..\nDon't misunderstand.",
+        "pt": "[Profeta K]\nPense bem sobre isso.\nSão 6 milhões de Zeny!\nEstou apenas recebendo\numa pequena taxa pelos meus esforços..\nNão entenda mal.",
+        "es": "[Profeta K]\nPiénsalo cuidadosamente.\n¡Son 6 millones de Zeny!\nSolo estoy recibiendo\nuna pequeña tarifa por mis esfuerzos..\nNo lo malinterpretes."
+    },
+    "57tCDA": {
+        "ko": "제니가 부족..",
+        "en": "Not enough Zeny..",
+        "pt": "Não tenho Zeny suficiente..",
+        "es": "No tengo suficiente Zeny.."
+    },
+    "6LtCDA": {
+        "ko": "알겠어요, 10만제니에 주세요.",
+        "en": "Okay, I'll take it for 100,000 Zeny.",
+        "pt": "Ok, eu levo por 100.000 Zeny.",
+        "es": "Está bien, lo tomaré por 100,000 Zeny."
+    },
+    "6btCDA": {
+        "ko": "[예언자 K]\n흐흠....\n12지신의 기운이 담긴!\n600만 제니의 가치를 지닌\n신의 영물인데...\n애인한테 라도 빌려보는 건\n어떤가..?",
+        "en": "[Prophet K]\nAhem....\nIt contains the energy of the 12 Zodiac Gods!\nA divine relic worth 6 million Zeny...\nHow about borrowing it from\nyour lover or something..?",
+        "pt": "[Profeta K]\nAhem....\nContém a energia dos 12 Deuses do Zodíaco!\nUma relíquia divina no valor de 6 milhões de Zeny...\nQue tal pedir emprestado\npara seu namorado(a) ou algo assim..?",
+        "es": "[Profeta K]\nEjem....\n¡Contiene la energía de los 12 Dioses del Zodiaco!\nUna reliquia divina valorada en 6 millones de Zeny...\n¿Qué tal si se lo pides prestado\na tu enamorado/a o algo así..?"
+    },
+    "6rtCDA": {
+        "ko": "[예언자 K]\n아.. 애인이 없...\n미안하네..",
+        "en": "[Prophet K]\nAh.. You don't have a lover...\nMy apologies..",
+        "pt": "[Profeta K]\nAh.. Você não tem um(a) namorado(a)...\nMinhas desculpas..",
+        "es": "[Profeta K]\nAh.. No tienes enamorado/a...\nMis disculpas.."
+    },
+    "67tCDA": {
+        "ko": "[예언자 K]\n특별히 아주 강한 옵션을\n넣을 수 있도록 노력했지만..\n아쉽게도 그렇게\n만들지는 못했어.\n어쨋든 마음에 들었으면\n좋겠군.",
+        "en": "[Prophet K]\nI tried specially to put in\nvery strong options..\nBut unfortunately,\nI couldn't make it that way.\nI hope you like it anyway.",
+        "pt": "[Profeta K]\nTentei especialmente colocar\nopções muito fortes..\nMas infelizmente,\nnão consegui fazer assim.\nEspero que você goste mesmo assim.",
+        "es": "[Profeta K]\nIntenté especialmente poner\nopciones muy fuertes..\nPero desafortunadamente,\nno pude hacerlo de esa manera.\nEspero que te guste de todos modos."
+    },
+    "7LtCDA": {
+        "ko": "[예언자 K]\n하지만,\n아무래도 나의 예지몽은\n아직 끝나지 않은 것 같아.\n분명히 그 이후 12지신의\n기운을 받은 영웅들에 대한\n예지몽이 이어질 것 같네.",
+        "en": "[Prophet K]\nHowever,\nit seems my prophetic dream\nis not over yet.\nIt seems the prophetic dreams about\nthe heroes who received the energy\nof the other 12 Zodiac Gods will surely continue.",
+        "pt": "[Profeta K]\nNo entanto,\nparece que meu sonho profético\nainda não terminou.\nParece que os sonhos proféticos sobre\nos heróis que receberam a energia\ndos outros 12 Deuses do Zodíaco certamente continuarão.",
+        "es": "[Profeta K]\nSin embargo,\nparece que mi sueño profético\naún no ha terminado.\nParece que los sueños proféticos sobre\nlos héroes que recibieron la energía\nde los otros 12 Dioses del Zodiaco seguramente continuarán."
+    },
+    "7btCDA": {
+        "ko": "[예언자 K]\n얼마 후 다시 나를 찾아와주게\n분명히 도와줄 일이 있을거야.",
+        "en": "[Prophet K]\nPlease come find me again\nin a little while.\nThere will surely be something you can help with.",
+        "pt": "[Profeta K]\nPor favor, me encontre novamente\ndaqui a pouco.\nCertamente haverá algo em que você possa ajudar.",
+        "es": "[Profeta K]\nPor favor ven a buscarme de nuevo\ndentro de un tiempo.\nSeguramente habrá algo en lo que puedas ayudar."
+    },
+    "7rtCDA": {
+        "ko": "[예언자 K]\n제니가 부족하군!\n12지신의 기운이 담긴!\n600만 제니의 가치를 지닌\n신의 영물인데...\n애인한테 라도 빌려보는 건\n어떤가..?",
+        "en": "[Prophet K]\nYou don't have enough Zeny!\nIt contains the energy of the 12 Zodiac Gods!\nA divine relic worth 6 million Zeny...\nHow about borrowing it from\nyour lover or something..?",
+        "pt": "[Profeta K]\nVocê não tem Zeny suficiente!\nContém a energia dos 12 Deuses do Zodíaco!\nUma relíquia divina no valor de 6 milhões de Zeny...\nQue tal pedir emprestado\npara seu namorado(a) ou algo assim..?",
+        "es": "[Profeta K]\n¡No tienes suficiente Zeny!\n¡Contiene la energía de los 12 Dioses del Zodiaco!\nUna reliquia divina valorada en 6 millones de Zeny...\n¿Qué tal si se lo pides prestado\na tu enamorado/a o algo así..?"
+    },
+    "77tCDA": {
+        "ko": "[예언자 K]\n아무래도 나의 예지몽은\n아직 끝나지 않은 것 같아.\n분명히 그 이후 12지신의\n기운을 받은 영웅들에 대한\n예지몽이 이어질 것 같아.",
+        "en": "[Prophet K]\nIt seems my prophetic dream\nis not over yet.\nIt seems the prophetic dreams about\nthe heroes who received the energy\nof the other 12 Zodiac Gods will surely continue.",
+        "pt": "[Profeta K]\nParece que meu sonho profético\nainda não terminou.\nParece que os sonhos proféticos sobre\nos heróis que receberam a energia\ndos outros 12 Deuses do Zodíaco certamente continuarão.",
+        "es": "[Profeta K]\nParece que mi sueño profético\naún no ha terminado.\nParece que los sueños proféticos sobre\nlos héroes que recibieron la energía\nde los otros 12 Dioses del Zodiaco seguramente continuarán."
+    },
+    "8LtCDA": {
+        "ko": "마르크 필호",
+        "en": "Mark Philho",
+        "pt": "Mark Philho",
+        "es": "Mark Philho"
+    },
+    "8btCDA": {
+        "ko": "[마르크 필호]\n음....\n왠지 마음에 걸리는데..",
+        "en": "[Mark Philho]\nHmm....\nFor some reason, I'm concerned..",
+        "pt": "[Mark Philho]\nHmm....\nPor alguma razão, estou preocupado..",
+        "es": "[Mark Philho]\nHmm....\nPor alguna razón, me preocupa.."
+    },
+    "8rtCDA": {
+        "ko": "-예언자 K가 말한 사람이 맞는 것 같은데 ^4D4DFF예언자 K의 밀서^000000가 없다.-",
+        "en": "- It seems like he is the person Prophet K mentioned, but I don't have ^4D4DFFProphet K's Secret Letter^000000. -",
+        "pt": "- Parece que ele é a pessoa que o Profeta K mencionou, mas eu não tenho a ^4D4DFFCarta Secreta do Profeta K^000000. -",
+        "es": "- Parece que él es la persona que mencionó el Profeta K, pero no tengo la ^4D4DFFCarta Secreta del Profeta K^000000. -"
+    },
+    "87tCDA": {
+        "ko": "[마르크 필호]\n날씨도 좋고..\n바람도 좋고..\n뭐 즐거운 일 없을까..",
+        "en": "[Mark Philho]\nThe weather is nice..\nThe wind is pleasant..\nI wonder if there's anything fun to do..",
+        "pt": "[Mark Philho]\nO tempo está bom..\nO vento está agradável..\nSerá que tem algo divertido para fazer..",
+        "es": "[Mark Philho]\nEl clima es agradable..\nLa brisa es pleasant..\nMe pregunto si hay algo divertido que hacer.."
+    },
+    "9LtCDA": {
+        "ko": "- 뭐라고 말을 걸어야 할까? -",
+        "en": "- What should I say to him? -",
+        "pt": "- O que devo dizer a ele? -",
+        "es": "- ¿Qué debería decirle? -"
+    },
+    "9btCDA": {
+        "ko": "인상이 참 좋으세요.",
+        "en": "You have a very good impression.",
+        "pt": "Você passa uma impressão muito boa.",
+        "es": "Tienes una muy buena impresión."
+    },
+    "9rtCDA": {
+        "ko": "기운이 참 좋으세요",
+        "en": "You have very good energy.",
+        "pt": "Você tem uma energia muito boa.",
+        "es": "Tienes muy buena energía."
+    },
+    "97tCDA": {
+        "ko": "얼굴에서 빛이 나시네요",
+        "en": "Your face is glowing.",
+        "pt": "Seu rosto está brilhando.",
+        "es": "Tu rostro está radiante."
+    },
+    "+LtCDA": {
+        "ko": "조상님이 공덕을 많이 쌓았나봐요",
+        "en": "Your ancestors must have accumulated a lot of virtue.",
+        "pt": "Seus ancestrais devem ter acumulado muita virtude.",
+        "es": "Tus ancestros deben haber acumulado mucha virtud."
+    },
+    "+btCDA": {
+        "ko": "[마르크 필호]\n훗.. 잘생긴건..\n어딜가도 다 알지요..",
+        "en": "[Mark Philho]\nHmph.. Being handsome..\nis known everywhere..",
+        "pt": "[Mark Philho]\nHmph.. Ser bonito..\né conhecido em todo lugar..",
+        "es": "[Mark Philho]\nJum.. Ser guapo..\nes conocido en todas partes.."
+    },
+    "+rtCDA": {
+        "ko": "[마르크 필호]\n그런데 무슨일로...\n저를 찾아 오셨나요?",
+        "en": "[Mark Philho]\nBut for what reason...\nhave you come to find me?",
+        "pt": "[Mark Philho]\nMas por qual razão...\nvocê veio me encontrar?",
+        "es": "[Mark Philho]\nPero por qué razón...\nhas venido a buscarme?"
+    },
+    "+7tCDA": {
+        "ko": "예언자 K의 밀서를 건넨다",
+        "en": "Hand over Prophet K's secret letter.",
+        "pt": "Entregar a carta secreta do Profeta K.",
+        "es": "Entregar la carta secreta del Profeta K."
+    },
+    "/LtCDA": {
+        "ko": "- 에언자 K의 밀서를 -\n- 건네고 자초지종을 -\n- 이야기 했다. -",
+        "en": "- Handed over Prophet K's secret letter -\n- and explained the whole story -\n- from beginning to end. -",
+        "pt": "- Entregou a carta secreta do Profeta K -\n- e explicou a história completa -\n- do começo ao fim. -",
+        "es": "- Entregó la carta secreta del Profeta K -\n- y explicó toda la historia -\n- de principio a fin. -"
+    },
+    "/btCDA": {
+        "ko": "[마르크 필호]\n솔직히 당신의 말을\n쉽게 믿을 수는 없어요.\n꼭 신화속에 나오는\n이야기 같잖아요?",
+        "en": "[Mark Philho]\nFrankly, it's hard\nto easily believe your words.\nIt sounds just like a story\nfrom a myth, doesn't it?",
+        "pt": "[Mark Philho]\nFrancamente, é difícil\nacreditar facilmente em suas palavras.\nParece uma história\nde um mito, não parece?",
+        "es": "[Mark Philho]\nFrancamente, es difícil\ncreer tus palabras fácilmente.\nSuena como una historia\nde un mito, ¿no crees?"
+    },
+    "/rtCDA": {
+        "ko": "[마르크 필호]\n당신의 말을 믿고\n이 밀서를 읽게 하고 싶다면\n당신에 대한 신뢰가 필요해요.",
+        "en": "[Mark Philho]\nIf you want me to believe your words\nand read this secret letter,\nI need to have trust in you.",
+        "pt": "[Mark Philho]\nSe você quer que eu acredite em suas palavras\ne leia esta carta secreta,\npreciso ter confiança em você.",
+        "es": "[Mark Philho]\nSi quieres que crea tus palabras\ny lea esta carta secreta,\nnecesito tener confianza en ti."
+    },
+    "/7tCDA": {
+        "ko": "제가 어떻게 하면..될까요?",
+        "en": "What should I do..?",
+        "pt": "O que devo fazer..?",
+        "es": "¿Qué debo hacer..?"
+    },
+    "ALxCDA": {
+        "ko": "[마르크 필호]\n음... 제가 지금\n꼭 필요한게 있거든요,\n그 걸 가져다 주시면\n그쪽에서 그만큼 의지가\n있는 걸로 판단 할게요",
+        "en": "[Mark Philho]\nHmm... There's something\nI really need right now.\nIf you can bring that for me,\nI'll take it as a sign\nof your determination.",
+        "pt": "[Mark Philho]\nHmm... Tem algo\nque eu realmente preciso agora.\nSe você puder trazer isso para mim,\nvou tomar como um sinal\nda sua determinação.",
+        "es": "[Mark Philho]\nHmm... Hay algo\nque realmente necesito ahora mismo.\nSi puedes traerme eso,\nlo tomaré como una señal\nde tu determinación."
+    },
+    "AbxCDA": {
+        "ko": "[마르크 필호]\n제가 보석 수집이\n취미인데.. 특별한 보석\n2종만 구해다 줘요.\n진주 1개 사파이어 1개만\n구해다 주세요.",
+        "en": "[Mark Philho]\nMy hobby is\ncollecting gems.. Please get me\njust 2 types of special gems.\nJust bring me 1 Pearl and 1 Sapphire.",
+        "pt": "[Mark Philho]\nMeu hobby é\ncolecionar gemas.. Por favor, consiga para mim\napenas 2 tipos de gemas especiais.\nApenas me traga 1 Pérola e 1 Safira.",
+        "es": "[Mark Philho]\nMi hobby es\ncoleccionar gemas.. Por favor consígueme\nsolo 2 tipos de gemas especiales.\nSolo tráeme 1 Perla y 1 Zafiro."
+    },
+    "ArxCDA": {
+        "ko": "[마르크 필호]\n구하기 힘든 보석인데..\n아마 코모도 해변에\n해달이 그 보석을\n좋아한다고 하더군요.",
+        "en": "[Mark Philho]\nThey are gems that are hard to obtain..\nI heard that the otters at Comodo Beach\nreally like those gems.",
+        "pt": "[Mark Philho]\nSão gemas difíceis de obter..\nOuvi dizer que as lontras na Praia de Comodo\nrealmente gostam dessas gemas.",
+        "es": "[Mark Philho]\nSon gemas difíciles de obtener..\nOí que a las nutrias en la Playa Comodo\nrealmente les gustan esas gemas."
+    },
+    "A7xCDA": {
+        "ko": "[마르크 필호]\n그 정도 성의를 보여주시면\n충분히 당신의 이야기와\n이 밀서에 관한 내용에\n신뢰가 갈 것 같아요.\n그래 주실거죠?\n기다리고 있을게요~!",
+        "en": "[Mark Philho]\nIf you show that much sincerity,\nI should be able to\nsufficiently trust your story\nand the contents of this secret letter.\nYou'll do that for me, right?\nI'll be waiting~!",
+        "pt": "[Mark Philho]\nSe você mostrar essa sinceridade,\ndeverei ser capaz de\nconfiar suficientemente na sua história\ne nos conteúdos desta carta secreta.\nVocê fará isso por mim, certo?\nEstarei esperando~!",
+        "es": "[Mark Philho]\nSi muestras esa sinceridad,\ndebería poder\nconfiar suficientemente en tu historia\ny en los contenidos de esta carta secreta.\nLo harás por mí, ¿verdad?\n¡Estaré esperando~!"
+    },
+    "BLxCDA": {
+        "ko": "[마르크 필호]\n음..? 나한테\n할 말이 있어 보였는데..",
+        "en": "[Mark Philho]\nHmm..? It seemed like\nyou had something to say to me..",
+        "pt": "[Mark Philho]\nHmm..? Parecia que\nvocê tinha algo para me dizer..",
+        "es": "[Mark Philho]\n¿Hmm..? Parecía que\ntenías algo que decirme.."
+    },
+    "BbxCDA": {
+        "ko": "[마르크 필호]\n요즘 보약을 좀\n먹었는데.. 그렇게나\n티가 나나요?\n훗..",
+        "en": "[Mark Philho]\nI've been taking some tonic\nlately.. Does it really\nshow that much?\nHmph..",
+        "pt": "[Mark Philho]\nTenho tomado um tônico\nultimamente.. Realmente\nestá tão visível assim?\nHmph..",
+        "es": "[Mark Philho]\nHe estado tomando un tónico\núltimamente.. ¿Realmente\nse nota tanto?\nJum.."
+    },
+    "BrxCDA": {
+        "ko": "[마르크 필호]\n솔직히 당신의 말을\n쉽게 믿을 수는 없어요.\n꼭 만화속에 나오는\n이야기 같잖아요?",
+        "en": "[Mark Philho]\nFrankly, it's hard\nto easily believe your words.\nIt sounds just like a story\nfrom a comic book, doesn't it?",
+        "pt": "[Mark Philho]\nFrancamente, é difícil\nacreditar facilmente em suas palavras.\nParece uma história\nde história em quadrinhos, não parece?",
+        "es": "[Mark Philho]\nFrancamente, es difícil\ncreer tus palabras fácilmente.\nSuena como una historia\nde un libro de cómics, ¿no crees?"
+    },
+    "B7xCDA": {
+        "ko": "[마르크 필호]\n사실 오늘..\n귀찮아서 세수 안했는데..\n그래서 그런가..후후..",
+        "en": "[Mark Philho]\nActually, today..\nI was too lazy to wash my face..\nI guess that's why.. Huhu..",
+        "pt": "[Mark Philho]\nNa verdade, hoje..\nEstava com preguiça de lavar o rosto..\nAcho que é por isso.. Huhu..",
+        "es": "[Mark Philho]\nEn realidad, hoy..\nTuve pereza de lavarme la cara..\nSupongo que por eso.. Juju.."
+    },
+    "CLxCDA": {
+        "ko": "[마르크 필호]\n안그래도 요즘에\n자꾸 할아버지가\n나오셔서 무슨 숫자를\n말씀하시던데..",
+        "en": "[Mark Philho]\nLately, I've been\nseeing my grandfather\nappearing and telling me\nsome numbers..",
+        "pt": "[Mark Philho]\nUltimamente, tenho\nvisto meu avô\naparecendo e me dizendo\nalguns números..",
+        "es": "[Mark Philho]\nÚltimamente, he estado\nviendo a mi abuelo\naparecer y decirme\nalgunos números.."
+    },
+    "CbxCDA": {
+        "ko": "[마르크 필호]\n왠지 저한테 할 이야기가..\n있어 보이는데..",
+        "en": "[Mark Philho]\nFor some reason, it seems like\nyou have a story for me..",
+        "pt": "[Mark Philho]\nPor alguma razão, parece que\nvocê tem uma história para mim..",
+        "es": "[Mark Philho]\nPor alguna razón, parece que\ntienes una historia para mí.."
+    },
+    "CrxCDA": {
+        "ko": "[마르크 필호]\n그 정도 성의를 보여주시면\n충분히 당신의 이야기와\n이 밀서에 관한 내용에\n신뢰가 갈 것 같아요.\n그래 주실거죠?",
+        "en": "[Mark Philho]\nIf you show that much sincerity,\nI should be able to\nsufficiently trust your story\nand the contents of this secret letter.\nYou'll do that for me, right?",
+        "pt": "[Mark Philho]\nSe você mostrar essa sinceridade,\ndeverei ser capaz de\nconfiar suficientemente na sua história\ne nos conteúdos desta carta secreta.\nVocê fará isso por mim, certo?",
+        "es": "[Mark Philho]\nSi muestras esa sinceridad,\ndebería poder\nconfiar suficientemente en tu historia\ny en los contenidos de esta carta secreta.\nLo harás por mí, ¿verdad?"
+    },
+    "C7xCDA": {
+        "ko": "부탁한 걸 가져왔어요",
+        "en": "I've brought what you asked for.",
+        "pt": "Trouxe o que você pediu.",
+        "es": "He traído lo que me pediste."
+    },
+    "DLxCDA": {
+        "ko": "[마르크 필호]\n음? 구해오시다니..\n신뢰를 드릴 수 밖에 없군요.\n이 정도 노력이라면\n12지신님도 감동하실거에요.\n물론 제 신뢰도\n무한히 쌓였습니다~!",
+        "en": "[Mark Philho]\nOh? You actually went and got them..\nI have no choice but to give you my trust.\nWith this much effort,\neven the 12 Zodiac Gods would be moved.\nOf course, my trust in you\nhas built up infinitely~!",
+        "pt": "[Mark Philho]\nOh? Você realmente foi e conseguiu..\nNão tenho escolha a não ser te dar minha confiança.\nCom esse esforço,\naté os 12 Deuses do Zodíaco ficariam comovidos.\nClaro, minha confiança em você\ncresceu infinitamente~!",
+        "es": "[Mark Philho]\n¿Oh? Realmente fuiste y los conseguiste..\nNo tengo más remedio que darte mi confianza.\nCon este esfuerzo,\nincluso los 12 Dioses del Zodiaco se conmoverían.\nPor supuesto, mi confianza en ti\n¡se ha construido infinitamente~!"
+    },
+    "DbxCDA": {
+        "ko": "[마르크 필호]\n구해 오신건\n잘 받도록 하겠습니다.\n그리고 당신이 이야기한\n내용과 이 밀서를 신중하게\n읽어보겠습니다.",
+        "en": "[Mark Philho]\nI'll accept\nwhat you've brought.\nAnd I will carefully read\nthe story you told me\nand this secret letter.",
+        "pt": "[Mark Philho]\nVou aceitar\no que você trouxe.\nE vou ler cuidadosamente\na história que você me contou\ne esta carta secreta.",
+        "es": "[Mark Philho]\nAceptaré\nlo que has traído.\nY leeré cuidadosamente\nla historia que me contaste\ny esta carta secreta."
+    },
+    "DrxCDA": {
+        "ko": "[마르크 필호]\n그럼 이 밀서를 보내준\n예언자 K라는 분에게도\n잘 이야기해주시길.",
+        "en": "[Mark Philho]\nThen, please also tell\nthe person named Prophet K who sent this letter\nabout this.",
+        "pt": "[Mark Philho]\nEntão, por favor, diga também\nà pessoa chamada Profeta K que enviou esta carta\nsobre isso.",
+        "es": "[Mark Philho]\nEntonces, por favor dile también\na la persona llamada Profeta K que envió esta carta\nsobre esto."
+    },
+    "D7xCDA": {
+        "ko": "[마르크 필호]\n음...? 아직 부족해 보이는데요?\n진주 1개 사파이어 1개를\n가져다 주세요~!",
+        "en": "[Mark Philho]\nHmm...? It still seems insufficient?\nPlease bring me\n1 Pearl and 1 Sapphire~!",
+        "pt": "[Mark Philho]\nHmm...? Ainda parece insuficiente?\nPor favor, me traga\n1 Pérola e 1 Safira~!",
+        "es": "[Mark Philho]\n¿Hmm...? ¿Todavía parece insuficiente?\n¡Por favor tráeme\n1 Perla y 1 Zafiro~!"
+    },
+    "ELxCDA": {
+        "ko": "[마르크 필호]\n후~ 날씨가 좋군요~\n이런날에는\n놀러 가야하는데~",
+        "en": "[Mark Philho]\nHoo~ The weather is nice~\nOn a day like this,\nI should go out to play~",
+        "pt": "[Mark Philho]\nHoo~ O tempo está bom~\nNum dia como este,\ndeveria sair para brincar~",
+        "es": "[Mark Philho]\nUh~ El clima está bien~\nEn un día como este,\n¡debería salir a jugar~!"
+    },
+    "EbxCDA": {
+        "ko": "예언자 K 조수",
+        "en": "Prophet K Assistant",
+        "pt": "Assistente do Profeta K",
+        "es": "Asistente del Profeta K"
+    },
+    "ErxCDA": {
+        "ko": "[예언자 K 조수]\n12지신의 증표를 받았지만\n그 축복을 미처 받지 못한\n분들에게 축복을 대신\n내려드리고 있습니다.",
+        "en": "[Prophet K Assistant]\nI bestow blessings upon those\nwho have received the Token of the 12 Zodiac Gods\nbut were unable to receive their blessing in time.",
+        "pt": "[Assistente do Profeta K]\nConcedo bênçãos àqueles\nque receberam o Símbolo dos 12 Deuses do Zodíaco\nmas não conseguiram receber sua bênção a tempo.",
+        "es": "[Asistente del Profeta K]\nConcedo bendiciones a aquellos\nque han recibido el Símbolo de los 12 Dioses del Zodiaco\npero no pudieron recibir su bendición a tiempo."
+    },
+    "E7xCDA": {
+        "ko": "[예언자 K 조수]\n12지신의 증표인\n의상 생쥐 모자와\n의상 젖소 모자를\n가져오면 그에 맞는\n축복을 내려드리겠습니다.",
+        "en": "[Prophet K Assistant]\nIf you bring me the Costume Mouse Hat\nand the Costume Milk Cow Hat,\nwhich are Tokens of the 12 Zodiac Gods,\nI will bestow the corresponding\nblessing upon you.",
+        "pt": "[Assistente do Profeta K]\nSe você me trouxer o Chapéu de Rato de Fantasia\ne o Chapéu de Vaca Leiteira de Fantasia,\nque são Símbolos dos 12 Deuses do Zodíaco,\nconcederei a bênção\ncorrespondente a você.",
+        "es": "[Asistente del Profeta K]\nSi me traes el Gorro de Ratón de Disfraz\ny el Gorro de Vaca Lechera de Disfraz,\nque son Símbolos de los 12 Dioses del Zodiaco,\nte concederé la\nbendición correspondiente."
+    },
+    "FLxCDA": {
+        "ko": "쥐의 신 축복 받기",
+        "en": "Receive the Rat God's Blessing.",
+        "pt": "Receber a Bênção do Deus Rato.",
+        "es": "Recibir la Bendición del Dios Rata."
+    },
+    "FbxCDA": {
+        "ko": "소의 신 축복 받기",
+        "en": "Receive the Ox God's Blessing.",
+        "pt": "Receber a Bênção do Deus Boi.",
+        "es": "Recibir la Bendición del Dios Buey."
+    },
+    "FrxCDA": {
+        "ko": "[예언자 K 조수]\n당신은 이미\n12지신의 증표와 축복을\n받은 분 입니다.",
+        "en": "[Prophet K Assistant]\nYou are already someone\nwho has received both the Token and the Blessing\nof the 12 Zodiac Gods.",
+        "pt": "[Assistente do Profeta K]\nVocê já é alguém\nque recebeu tanto o Símbolo quanto a Bênção\ndos 12 Deuses do Zodíaco.",
+        "es": "[Asistente del Profeta K]\nYa eres alguien\nque ha recibido tanto el Símbolo como la Bendición\nde los 12 Dioses del Zodiaco."
+    },
+    "F7xCDA": {
+        "ko": "[예언자 K 조수]\n당신은 12지신 중\n쥐의 신의 증표를 받았지만\n축복을 받지 못한 분 이군요!",
+        "en": "[Prophet K Assistant]\nYou have received the Token of the Rat God\nfrom the 12 Zodiac Gods,\nbut have not received the blessing!",
+        "pt": "[Assistente do Profeta K]\nVocê recebeu o Símbolo do Deus Rato\ndos 12 Deuses do Zodíaco,\nmas não recebeu a bênção!",
+        "es": "[Asistente del Profeta K]\n¡Has recibido el Símbolo del Dios Rata\nde los 12 Dioses del Zodiaco,\npero no has recibido la bendición!"
+    },
+    "GLxCDA": {
+        "ko": "[예언자 K 조수]\n12지신 쥐의 축복을\n당신에게 드리곘습니다.\n언제나 12지신의 축복이\n함께 하시길..",
+        "en": "[Prophet K Assistant]\nI will now bestow upon you\nthe blessing of the 12 Zodiac Rat God.\nMay the blessing of the 12 Zodiac Gods\nbe with you always..",
+        "pt": "[Assistente do Profeta K]\nAgora concederei a você\na bênção do Deus Rato dos 12 Zodíacos.\nQue a bênção dos 12 Deuses do Zodíaco\nesteja com você sempre..",
+        "es": "[Asistente del Profeta K]\nAhora te concederé\nla bendición del Dios Rata de los 12 Zodiacos.\nQue la bendición de los 12 Dioses del Zodiaco\nte acompañe siempre.."
+    },
+    "GbxCDA": {
+        "ko": "[예언자 K 조수]\n당신은 12지신의 증표인\n의상 생쥐 모자를\n가지고 있지 않습니다.",
+        "en": "[Prophet K Assistant]\nYou do not possess\nthe Costume Mouse Hat,\nthe Token of the 12 Zodiac Gods.",
+        "pt": "[Assistente do Profeta K]\nVocê não possui\no Chapéu de Rato de Fantasia,\no Símbolo dos 12 Deuses do Zodíaco.",
+        "es": "[Asistente del Profeta K]\nNo posees\nel Gorro de Ratón de Disfraz,\nel Símbolo de los 12 Dioses del Zodiaco."
+    },
+    "GrxCDA": {
+        "ko": "[예언자 K 조수]\n당신은 12지신 중\n소의 신의 증표를 받았지만\n축복을 받지 못한 분 이군요!",
+        "en": "[Prophet K Assistant]\nYou have received the Token of the Ox God\nfrom the 12 Zodiac Gods,\nbut have not received the blessing!",
+        "pt": "[Assistente do Profeta K]\nVocê recebeu o Símbolo do Deus Boi\ndos 12 Deuses do Zodíaco,\nmas não recebeu a bênção!",
+        "es": "[Asistente del Profeta K]\n¡Has recibido el Símbolo del Dios Buey\nde los 12 Dioses del Zodiaco,\npero no has recibido la bendición!"
+    },
+    "G7xCDA": {
+        "ko": "[예언자 K 조수]\n12지신 소의 축복을\n당신에게 드리곘습니다.\n언제나 12지신의 축복이\n함께 하시길..",
+        "en": "[Prophet K Assistant]\nI will now bestow upon you\nthe blessing of the 12 Zodiac Ox God.\nMay the blessing of the 12 Zodiac Gods\nbe with you always..",
+        "pt": "[Assistente do Profeta K]\nAgora concederei a você\na bênção do Deus Boi dos 12 Zodíacos.\nQue a bênção dos 12 Deuses do Zodíaco\nesteja com você sempre..",
+        "es": "[Asistente del Profeta K]\nAhora te concederé\nla bendición del Dios Buey de los 12 Zodiacos.\nQue la bendición de los 12 Dioses del Zodiaco\nte acompañe siempre.."
+    },
+    "HLxCDA": {
+        "ko": "[예언자 K 조수]\n당신은 12지신의 증표인\n의상 젖소 모자를\n가지고 있지 않습니다.",
+        "en": "[Prophet K Assistant]\nYou do not possess\nthe Costume Milk Cow Hat,\nthe Token of the 12 Zodiac Gods.",
+        "pt": "[Assistente do Profeta K]\nVocê não possui\no Chapéu de Vaca Leiteira de Fantasia,\no Símbolo dos 12 Deuses do Zodíaco.",
+        "es": "[Asistente del Profeta K]\nNo posees\nel Gorro de Vaca Lechera de Disfraz,\nel Símbolo de los 12 Dioses del Zodiaco."
+    },
+    "HbxCDA": {
+        "ko": "[예언자 K 조수]\n언제나 12지신의 축복이\n당신과 함께 하길..",
+        "en": "[Prophet K Assistant]\nMay the blessing of the 12 Zodiac Gods\nbe with you always..",
+        "pt": "[Assistente do Profeta K]\nQue a bênção dos 12 Deuses do Zodíaco\nesteja com você sempre..",
+        "es": "[Asistente del Profeta K]\nQue la bendición de los 12 Dioses del Zodiaco\nte acompañe siempre.."
+    }
+}

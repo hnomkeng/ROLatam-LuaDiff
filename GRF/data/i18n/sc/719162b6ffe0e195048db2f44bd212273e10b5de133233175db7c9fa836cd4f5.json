@@ -1,797 +1,1592 @@
 {
     "4JM5DA": {
-        "ko": "관리자"
+        "ko": "관리자",
+        "en": "Administrator",
+        "pt": "Administrador",
+        "es": "Administrador"
     },
     "4ZM5DA": {
-        "ko": "^0000FF[소지량 도우미]^000000\n^0000FF캐릭터의 모든 장비를 삭제하시겠습니까.^000000\n^0000FFPPL 제거버전.^000000"
+        "ko": "^0000FF[소지량 도우미]^000000\n^0000FF캐릭터의 모든 장비를 삭제하시겠습니까.^000000\n^0000FFPPL 제거버전.^000000",
+        "en": "^0000FF[Possession Helper]^000000\n^0000FFWould you like to delete all of the character's equipment?^000000\n^0000FFPPL Removal Version.^000000",
+        "pt": "^0000FF[Assistente de Posses]^000000\n^0000FFDeseja deletar todo o equipamento do personagem?^000000\n^0000FFVersão de Remoção PPL.^000000",
+        "es": "^0000FF[Asistente de Posesión]^000000\n^0000FF¿Deseas eliminar todo el equipo del personaje?^000000\n^0000FFVersión sin PPL.^000000"
     },
     "4pM5DA": {
-        "ko": "그만둔다"
+        "ko": "그만둔다",
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar"
     },
     "45M5DA": {
-        "ko": "모두 삭제"
+        "ko": "모두 삭제",
+        "en": "Delete All",
+        "pt": "Deletar Tudo",
+        "es": "Eliminar Todo"
     },
     "5JM5DA": {
-        "ko": "삭제를 중지합니다"
+        "ko": "삭제를 중지합니다",
+        "en": "Stopping deletion",
+        "pt": "Parando a deleção",
+        "es": "Cancelando eliminación"
     },
     "5ZM5DA": {
-        "ko": "삭제가 불가능한 아이템이 존재합니다."
+        "ko": "삭제가 불가능한 아이템이 존재합니다.",
+        "en": "There are items that cannot be deleted.",
+        "pt": "Existem itens que não podem ser deletados.",
+        "es": "Hay objetos que no se pueden eliminar."
     },
     "5pM5DA": {
-        "ko": "초기화 완료"
+        "ko": "초기화 완료",
+        "en": "Reset Complete",
+        "pt": "Redefinição Completa",
+        "es": "Reinicio Completado"
     },
     "55M5DA": {
-        "ko": "거상의 낙타"
+        "ko": "거상의 낙타",
+        "en": "Giant's Camel",
+        "pt": "Camelo Gigante",
+        "es": "Camello del Gigante"
     },
     "6JM5DA": {
-        "ko": "[낙타]\n부우우우....."
+        "ko": "[낙타]\n부우우우.....",
+        "en": "[Camel]\nBuuuuu.....",
+        "pt": "[Camelo]\nBuuuuu.....",
+        "es": "[Camello]\nBuuuuu....."
     },
     "6ZM5DA": {
-        "ko": "[낙타]\n푸르륵~"
+        "ko": "[낙타]\n푸르륵~",
+        "en": "[Camel]\nPurrrrk~",
+        "pt": "[Camelo]\nGrrruuuu~",
+        "es": "[Camello]\nGrrruuuu~"
     },
     "6pM5DA": {
-        "ko": "[낙타]\n아니 아까부터 왜 자꾸 쿡쿡 찌르는거요?"
+        "ko": "[낙타]\n아니 아까부터 왜 자꾸 쿡쿡 찌르는거요?",
+        "en": "[Camel]\nWhy do you keep poking me over and over since a while ago?",
+        "pt": "[Camelo]\nPor que você fica me cutucando sem parar desde um tempo atrás?",
+        "es": "[Camello]\n¿Por qué me sigues pinchando una y otra vez desde hace rato?"
     },
     "65M5DA": {
-        "ko": "[낙타]\n아....\n아니, 지금건 못들은걸로 해줘요."
+        "ko": "[낙타]\n아....\n아니, 지금건 못들은걸로 해줘요.",
+        "en": "[Camel]\nAh....\nNo, let's pretend I didn't hear that just now.",
+        "pt": "[Camelo]\nAh....\nNão, vamos fingir que não ouvi isso agora.",
+        "es": "[Camello]\nAh....\nNo, hagamos de cuenta que no oí eso."
     },
     "7JM5DA": {
-        "ko": "[낙타]\n부우우~~...."
+        "ko": "[낙타]\n부우우~~....",
+        "en": "[Camel]\nBuuuu~~....",
+        "pt": "[Camelo]\nBuuuu~~....",
+        "es": "[Camello]\nBuuuu~~...."
     },
     "7ZM5DA": {
-        "ko": "[낙타]\n푸르르륵~"
+        "ko": "[낙타]\n푸르르륵~",
+        "en": "[Camel]\nPurrrrrk~",
+        "pt": "[Camelo]\nGrrruuuuu~",
+        "es": "[Camello]\nGrrruuuuu~"
     },
     "7pM5DA": {
-        "ko": "샤를롯트"
+        "ko": "샤를롯트",
+        "en": "Charlotte",
+        "pt": "Charlotte",
+        "es": "Charlotte"
     },
     "75M5DA": {
-        "ko": "꽤애애애애액!!!!!!!!!!"
+        "ko": "꽤애애애애액!!!!!!!!!!",
+        "en": "Kkyyaaaaaaaa!!!!!!!!!!",
+        "pt": "Aaaaa!!!!!!!!!!",
+        "es": "¡¡Kkyaaaaaaaa!!!!!!!!!!"
     },
     "8JM5DA": {
-        "ko": "이국의 상인: 무슨일이늬~ 샤를롯트~!!"
+        "ko": "이국의 상인: 무슨일이늬~ 샤를롯트~!!",
+        "en": "Foreign Merchant: What's going on~ Charlotte~!!",
+        "pt": "Comerciante Estrangeiro: O que está acontecendo?? Charlotte~!!",
+        "es": "Comerciante Extranjero: ¿Qué pasa~ Charlotte~!!"
     },
     "8ZM5DA": {
-        "ko": "상인의 함"
+        "ko": "상인의 함",
+        "en": "Merchant's Box",
+        "pt": "Baú do Comerciante",
+        "es": "Cofre del Comerciante"
     },
     "8pM5DA": {
-        "ko": "이국의 상인: 후딘의 보물상자!! 막 건드리면 안됨미돠~!"
+        "ko": "이국의 상인: 후딘의 보물상자!! 막 건드리면 안됨미돠~!",
+        "en": "Foreign Merchant: Houdin's treasure chest!! You mustn't touch it carelessly~!",
+        "pt": "Comerciante Estrangeiro: O baú do tesouro do Houdin!! Você não deve tocá-lo assim~!",
+        "es": "Comerciante Extranjero: ¡¡El cofre del tesoro de Houdin!! ¡No debes tocarlo a la ligera~!"
     },
     "85M5DA": {
-        "ko": "배고픈 노동자"
+        "ko": "배고픈 노동자",
+        "en": "Hungry Laborer",
+        "pt": "Servente com Fome",
+        "es": "Trabajador Hambriento"
     },
     "9JM5DA": {
-        "ko": "배고픈 노동자: 으으 배고파. 왜 줄이 줄어들 생각을 안하는거지."
+        "ko": "배고픈 노동자: 으으 배고파. 왜 줄이 줄어들 생각을 안하는거지.",
+        "en": "Hungry Laborer: Ugh, I'm hungry. Why won't this line get any shorter?",
+        "pt": "Servente com Fome: Ugh, estou com fome. Por que essa fila não diminui?",
+        "es": "Trabajador Hambriento: Ugh, tengo hambre. ¿Por qué no se acorta esta fila?"
     },
     "9ZM5DA": {
-        "ko": "그냥 줄 서본 사람"
+        "ko": "그냥 줄 서본 사람",
+        "en": "Person Just Standing in Line",
+        "pt": "Alguém na Fila",
+        "es": "Persona Solo en Fila"
     },
     "9pM5DA": {
-        "ko": "그냥 줄 서본 사람: 이건 뭐하는 줄이지? 뭔가 상품이라도 주는건가?"
+        "ko": "그냥 줄 서본 사람: 이건 뭐하는 줄이지? 뭔가 상품이라도 주는건가?",
+        "en": "Person Just Standing in Line: What is this line for? Are they giving out something?",
+        "pt": "Alguém na Fila: Para que é essa fila? Estão dando algo?",
+        "es": "Persona Solo en Fila: ¿Para qué es esta fila? ¿Están regalando algo?"
     },
     "95M5DA": {
-        "ko": "배고픈 노동자: 밥먹으려고 3시간이나 줄을 서야하다니. 이건 너무 심한데?"
+        "ko": "배고픈 노동자: 밥먹으려고 3시간이나 줄을 서야하다니. 이건 너무 심한데?",
+        "en": "Hungry Laborer: I have to wait in line for 3 hours just to eat? This is too much.",
+        "pt": "Servente com Fome: Tenho que esperar na fila por 3 horas só para comer? Isso é demais.",
+        "es": "Trabajador Hambriento: ¿Tengo que esperar en fila 3 horas solo para comer? Esto es demasiado."
     },
     "+JM5DA": {
-        "ko": "배고픈 노동자: 이제 조금만 더 기다리면 내 차례다!!"
+        "ko": "배고픈 노동자: 이제 조금만 더 기다리면 내 차례다!!",
+        "en": "Hungry Laborer: Just a little more and it'll be my turn!!",
+        "pt": "Servente com Fome: Só mais um pouco e será minha vez!!",
+        "es": "Trabajador Hambriento: ¡¡Solo un poco más y será mi turno!!"
     },
     "+ZM5DA": {
-        "ko": "배고픈 노동자: 어이! 다들 줄 서고 있는거 안보여? 뒤로 가서 줄을 서라고 줄!"
+        "ko": "배고픈 노동자: 어이! 다들 줄 서고 있는거 안보여? 뒤로 가서 줄을 서라고 줄!",
+        "en": "Hungry Laborer: Hey! Can't you see everyone's standing in line? Go to the back and line up!",
+        "pt": "Servente com Fome: Ei! Não consegue ver que todos estão na fila? Vá para o final e entre na fila!",
+        "es": "Trabajador Hambriento: ¡Oye! ¿No ves que todos están haciendo fila? ¡Ve al final y haz fila!"
     },
     "+pM5DA": {
-        "ko": "의욕에 찬 구직자"
+        "ko": "의욕에 찬 구직자",
+        "en": "Eager Job Seeker",
+        "pt": "Desempregado Ansioso",
+        "es": "Buscador de Empleo Entusiasta"
     },
     "+5M5DA": {
-        "ko": "겁에질린 숙련공"
+        "ko": "겁에질린 숙련공",
+        "en": "Terrified Skilled Worker",
+        "pt": "Trabalhador Horrorizado",
+        "es": "Trabajador Calificado Aterrorizado"
     },
     "/JM5DA": {
-        "ko": "의욕에 찬 구직자: 나 정도면 바로 현장에 투입할만한데 왜 거부하는거요?"
+        "ko": "의욕에 찬 구직자: 나 정도면 바로 현장에 투입할만한데 왜 거부하는거요?",
+        "en": "Eager Job Seeker: I'm good enough to be put straight to work, why are you rejecting me?",
+        "pt": "Desempregado Ansioso: Sou bom o suficiente para trabalhar, por que está me rejeitando?",
+        "es": "Buscador de Empleo Entusiasta: Soy lo suficientemente bueno para trabajar ya, ¿por qué me rechazan?"
     },
     "/ZM5DA": {
-        "ko": "의욕에 찬 구직자: 누군 여기서 낮잠이나 자려고 온 줄 알아? 빨리 일거리를 내놓으라고!"
+        "ko": "의욕에 찬 구직자: 누군 여기서 낮잠이나 자려고 온 줄 알아? 빨리 일거리를 내놓으라고!",
+        "en": "Eager Job Seeker: Who do you think comes here to take a nap? Give me work, now!",
+        "pt": "Desempregado Ansioso: Me dê trabalho, agora!",
+        "es": "Buscador de Empleo Entusiasta: ¿Quién crees que viene aquí para tomar una siesta? ¡Dame trabajo, ahora!"
     },
     "/pM5DA": {
-        "ko": "형씨 걸리적 거리지 말고 내게서 좀 떨어져 주겠소? 방해가 되는군."
+        "ko": "형씨 걸리적 거리지 말고 내게서 좀 떨어져 주겠소? 방해가 되는군.",
+        "en": "Hey buddy, stop bothering me and get away from me, will you? You're being a nuisance.",
+        "pt": "Ei, para de me incomodar e se afasta de mim! Você está sendo um incômodo.",
+        "es": "Oye amigo, deja de molestarme y aléjate de mí, ¿quieres? Estás siendo un estorbo."
     },
     "/5M5DA": {
-        "ko": "의욕에 찬 구직자: 미드가르드에서 온 촌뜨기인가? 이리 저리 헤매는게 꼴 사납군..."
+        "ko": "의욕에 찬 구직자: 미드가르드에서 온 촌뜨기인가? 이리 저리 헤매는게 꼴 사납군...",
+        "en": "Eager Job Seeker: Are you some hick from Midgard? You look pathetic wandering around like that...",
+        "pt": "Desempregado Ansioso: Você é de Midgard? Você parece patético vagando assim...",
+        "es": "Buscador de Empleo Entusiasta: ¿Eres un palurdo de Midgard? Te ves patético vagando así..."
     },
     "AJQ5DA": {
-        "ko": "의욕에 찬 구직자: 난 왜 안된다는거야? 바깥의 코요테 정도는 충분히 잡을 수 있다고!"
+        "ko": "의욕에 찬 구직자: 난 왜 안된다는거야? 바깥의 코요테 정도는 충분히 잡을 수 있다고!",
+        "en": "Eager Job Seeker: Why won't you let me? I can definitely handle coyotes outside!",
+        "pt": "Desempregado Ansioso: Eu consigo lidar com os coiotes lá fora!",
+        "es": "Buscador de Empleo Entusiasta: ¿Por qué no me dejan? ¡Definitivamente puedo manejar a los coyotes afuera!"
     },
     "AZQ5DA": {
-        "ko": "의욕에 찬 구직자: 소적단 코요테 토벌 파티 모십니다. 5분 컷 가능하신분 환영"
+        "ko": "의욕에 찬 구직자: 소적단 코요테 토벌 파티 모십니다. 5분 컷 가능하신분 환영",
+        "en": "Eager Job Seeker: Recruiting for Small Gang Coyote subjugation party. Welcome those who can clear in 5 minutes.",
+        "pt": "Desempregado Ansioso: Recrutando para caçar Coiotes dos Búfalos Bandidos. Bem-vindos aqueles que conseguirem finalizar em 5 minutos.",
+        "es": "Buscador de Empleo Entusiasta: Reclutando para grupo de caza de Coyotes de Banda Pequeña. Bienvenidos los que puedan acabar en 5 minutos."
     },
     "ApQ5DA": {
-        "ko": "의욕에 찬 구직자: 이봐! 우린 어쩌라는거야!"
+        "ko": "의욕에 찬 구직자: 이봐! 우린 어쩌라는거야!",
+        "en": "Eager Job Seeker: Hey! What are we supposed to do!",
+        "pt": "Desempregado Ansioso: Ei! O que devemos fazer!",
+        "es": "Buscador de Empleo Entusiasta: ¡Oye! ¿Qué se supone que hagamos?"
     },
     "A5Q5DA": {
-        "ko": "의욕에 찬 구직자: 나도 일을 달라고 일!!"
+        "ko": "의욕에 찬 구직자: 나도 일을 달라고 일!!",
+        "en": "Eager Job Seeker: Give me work too! Work!!",
+        "pt": "Desempregado Ansioso: Me dê trabalho também! Trabalho!!",
+        "es": "Buscador de Empleo Entusiasta: ¡¡A mí también dame trabajo!! ¡¡Trabajo!!"
     },
     "BJQ5DA": {
-        "ko": "의욕에 찬 구직자: 사람 골라가며 일 주는거냐!?"
+        "ko": "의욕에 찬 구직자: 사람 골라가며 일 주는거냐!?",
+        "en": "Eager Job Seeker: Are you picking and choosing who to give work to!?",
+        "pt": "Desempregado Ansioso: Está escolhendo para quem dar trabalho!?",
+        "es": "Buscador de Empleo Entusiasta: ¡¿Estás eligiendo a quién darle trabajo?!"
     },
     "BZQ5DA": {
-        "ko": "의욕에 찬 구직자: 너무하는거 아니냐고 이거!"
+        "ko": "의욕에 찬 구직자: 너무하는거 아니냐고 이거!",
+        "en": "Eager Job Seeker: Don't you think this is too much!",
+        "pt": "Desempregado Ansioso: Não acha que isso é demais!",
+        "es": "Buscador de Empleo Entusiasta: ¡¿No crees que esto es demasiado?!"
     },
     "BpQ5DA": {
-        "ko": "겁에질린 숙련공: 이 아래는 작업할만한 장소가 아니야."
+        "ko": "겁에질린 숙련공: 이 아래는 작업할만한 장소가 아니야.",
+        "en": "Terrified Skilled Worker: This area below isn't a suitable place to work.",
+        "pt": "Trabalhador Horrorizado: Esta área abaixo não é um local adequado para trabalhar.",
+        "es": "Trabajador Calificado Aterrorizado: Esta área de abajo no es un lugar adecuado para trabajar."
     },
     "B5Q5DA": {
-        "ko": "겁에질린 숙련공: 재해 보상금도 안 줄거면 이 일은 관두겠어!"
+        "ko": "겁에질린 숙련공: 재해 보상금도 안 줄거면 이 일은 관두겠어!",
+        "en": "Terrified Skilled Worker: If you won't even give disaster compensation, I'm quitting this job!",
+        "pt": "Trabalhador Horrorizado: Se nem vão dar compensação por desastre, estou saindo deste trabalho!",
+        "es": "Trabajador Calificado Aterrorizado: ¡Si ni siquiera van a dar compensación por desastre, dejo este trabajo!"
     },
     "CJQ5DA": {
-        "ko": "겁에질린 숙련공: 그렇게 큰 벌레는 처음 봤어. 난 더이상 여기서 일 못해."
+        "ko": "겁에질린 숙련공: 그렇게 큰 벌레는 처음 봤어. 난 더이상 여기서 일 못해.",
+        "en": "Terrified Skilled Worker: I've never seen such a big bug before. I can't work here anymore.",
+        "pt": "Trabalhador Horrorizado: Nunca vi um inseto tão grande antes. Não posso mais trabalhar aqui.",
+        "es": "Trabajador Calificado Aterrorizado: Nunca había visto un bicho tan grande. No puedo trabajar aquí más."
     },
     "CZQ5DA": {
-        "ko": "겁에질린 숙련공: 쓰러진 동료들 위로 그놈들이 몰려드는데 난 아무것도 할 수 없었어. 왜 그런 곳이라고 말 하지 않았지?"
+        "ko": "겁에질린 숙련공: 쓰러진 동료들 위로 그놈들이 몰려드는데 난 아무것도 할 수 없었어. 왜 그런 곳이라고 말 하지 않았지?",
+        "en": "Terrified Skilled Worker: Those swarmed over my fallen colleagues, and I couldn't do anything. Why didn't you tell me it was such a place?",
+        "pt": "Trabalhador Horrorizado: Aqueles se amontoaram sobre meus colegas caídos, e eu não pude fazer nada. Por que não me disseram que era um lugar assim?",
+        "es": "Trabajador Calificado Aterrorizado: Esos se amontonaron sobre mis colegas caídos, y no pude hacer nada. ¿Por qué no me dijeron que era un lugar así?"
     },
     "CpQ5DA": {
-        "ko": "겁에질린 숙련공: 이런곳에 사람을 보내려거든 그만한 보호 설비는 마련해라!"
+        "ko": "겁에질린 숙련공: 이런곳에 사람을 보내려거든 그만한 보호 설비는 마련해라!",
+        "en": "Terrified Skilled Worker: If you're going to send people to a place like this, at least provide proper protective equipment!",
+        "pt": "Trabalhador Horrorizado: Se vão mandar pessoas para um lugar assim, pelo menos forneçam equipamento de proteção adequado!",
+        "es": "Trabajador Calificado Aterrorizado: ¡Si van a mandar gente a un lugar así, al menos provean equipo de protección adecuado!"
     },
     "C5Q5DA": {
-        "ko": "겁에질린 숙련공: 당신 직접 내려가 본 적 없지? 지금 이 아래가 어떤 모양새인지 직접 보여주고 싶군."
+        "ko": "겁에질린 숙련공: 당신 직접 내려가 본 적 없지? 지금 이 아래가 어떤 모양새인지 직접 보여주고 싶군.",
+        "en": "Terrified Skilled Worker: You've never been down there yourself, have you? I'd like to show you right now what it's like down there.",
+        "pt": "Trabalhador Horrorizado: Você nunca esteve lá embaixo, não é? Gostaria de te mostrar agora mesmo como é lá embaixo.",
+        "es": "Trabajador Calificado Aterrorizado: Tú nunca has estado allá abajo, ¿verdad? Me gustaría mostrarte ahora mismo cómo es allá abajo."
     },
     "DJQ5DA": {
-        "ko": "겁에질린 숙련공: 이 아래는 아니야! 아니라고! 지금이라도 늦지 않았으니까 그만둬!"
+        "ko": "겁에질린 숙련공: 이 아래는 아니야! 아니라고! 지금이라도 늦지 않았으니까 그만둬!",
+        "en": "Terrified Skilled Worker: Not down there! No! It's not too late, just stop!",
+        "pt": "Trabalhador Horrorizado: Não lá embaixo! Não! Não é tarde, apenas pare!",
+        "es": "Trabajador Calificado Aterrorizado: ¡No allá abajo! ¡No! ¡No es tarde, solo detente!"
     },
     "DZQ5DA": {
-        "ko": "겁에질린 숙련공: 결국 젊은 친구가 사지로 가는군."
+        "ko": "겁에질린 숙련공: 결국 젊은 친구가 사지로 가는군.",
+        "en": "Terrified Skilled Worker: So a young friend is heading to his doom after all.",
+        "pt": "Trabalhador Horrorizado: Então um jovem amigo está seguindo para sua perdição afinal.",
+        "es": "Trabajador Calificado Aterrorizado: Así que un joven amigo se dirige a su perdición después de todo."
     },
     "DpQ5DA": {
-        "ko": "겁에질린 숙련공: 당신 다시 생각하는게 좋아. 지상 아래는 위험해."
+        "ko": "겁에질린 숙련공: 당신 다시 생각하는게 좋아. 지상 아래는 위험해.",
+        "en": "Terrified Skilled Worker: You'd better think again. Below the surface is dangerous.",
+        "pt": "Trabalhador Horrorizado: É melhor você pensar de novo. Abaixo da superfície é perigoso.",
+        "es": "Trabajador Calificado Aterrorizado: Será mejor que lo pienses de nuevo. Debajo de la superficie es peligroso."
     },
     "D5Q5DA": {
-        "ko": "겁에질린 숙련공: 이봐! 젊은 사람이 돈이 아무리 궁해도 그렇지..."
+        "ko": "겁에질린 숙련공: 이봐! 젊은 사람이 돈이 아무리 궁해도 그렇지...",
+        "en": "Terrified Skilled Worker: Hey! No matter how desperate a young person is for money...",
+        "pt": "Trabalhador Horrorizado: Ei! Não importa o quão desesperado um jovem esteja por dinheiro...",
+        "es": "Trabajador Calificado Aterrorizado: ¡Oye! No importa cuán desesperado esté un joven por dinero..."
     },
     "EJQ5DA": {
-        "ko": "제이미"
+        "ko": "제이미",
+        "en": "Jamie",
+        "pt": "Jamie",
+        "es": "Jamie"
     },
     "EZQ5DA": {
-        "ko": "[제이미]\n추근대는건 삼가해주실래요? 전 회장님의 전속 비서라구요."
+        "ko": "[제이미]\n추근대는건 삼가해주실래요? 전 회장님의 전속 비서라구요.",
+        "en": "[Jamie]\nCould you refrain from being so familiar? I am the Chairman's personal secretary.",
+        "pt": "[Jamie]\nPoderia parar de ser tão familiar? Eu sou a secretária pessoal do Presidente.",
+        "es": "[Jamie]\n¿Podría abstenerse de ser tan familiar? Soy la secretaria personal del Sr. Director."
     },
     "EpQ5DA": {
-        "ko": "지하로 통하는 통로"
+        "ko": "지하로 통하는 통로",
+        "en": "Passage Leading Underground",
+        "pt": "Passagem Subterrânea",
+        "es": "Pasaje al Subsuelo"
     },
     "E5Q5DA": {
-        "ko": "^0000FF락릿지의 지하마을로 이동하시겠습니까?^000000"
+        "ko": "^0000FF락 릿지의 지하마을로 이동하시겠습니까?^000000",
+        "en": "^0000FFMove to Rockridge's Underground Village?^000000",
+        "pt": "^0000FFMover para o subterrâneo de Rockridge?^000000",
+        "es": "^0000FF¿Moverte a la Aldea Subterránea de Rockridge?^000000"
     },
     "FJQ5DA": {
-        "ko": "이동한다"
+        "ko": "이동한다",
+        "en": "Move",
+        "pt": "Mover",
+        "es": "Mover"
     },
     "FZQ5DA": {
-        "ko": "나중에 다시 시도한다"
+        "ko": "나중에 다시 시도한다",
+        "en": "Try Again Later",
+        "pt": "Mais tarde",
+        "es": "Intentar más tarde"
     },
     "FpQ5DA": {
-        "ko": "지하 통로의 이용을 그만 두었습니다."
+        "ko": "지하 통로의 이용을 그만 두었습니다.",
+        "en": "Stopped using the underground passage.",
+        "pt": "Você não quis usar a passagem.",
+        "es": "Se dejó de usar el pasaje subterráneo."
     },
     "F5Q5DA": {
-        "ko": "^0000FF경고! 허약한 사람의 출입을 금합니다.^000000"
+        "ko": "^0000FF경고! 허약한 사람의 출입을 금합니다.^000000",
+        "en": "^0000FFWarning! Entry prohibited for the frail.^000000",
+        "pt": "^0000FFAviso! Entrada proibida para os fracos.^000000",
+        "es": "^0000FF¡Advertencia! Prohibida la entrada para personas débiles.^000000"
     },
     "GJQ5DA": {
-        "ko": "^0000FF락릿지 지상으로 이동하시겠습니까?^000000"
+        "ko": "^0000FF락 릿지 지상으로 이동하시겠습니까?^000000",
+        "en": "^0000FFMove to Rockridge above ground?^000000",
+        "pt": "^0000FFMover para a superfície de Rockridge?^000000",
+        "es": "^0000FF¿Moverte a Rockridge en la superficie?^000000"
     },
     "GZQ5DA": {
-        "ko": "이용을 중단했습니다."
+        "ko": "이용을 중단했습니다.",
+        "en": "Usage has been stopped.",
+        "pt": "Foi interrompido.",
+        "es": "Uso interrumpido."
     },
     "GpQ5DA": {
-        "ko": "급식 담당자"
+        "ko": "급식 담당자",
+        "en": "Meal Supervisor",
+        "pt": "Gerente de Refeição",
+        "es": "Supervisor de Comedores"
     },
     "G5Q5DA": {
-        "ko": "보유한 물건의 종류가 너무 많은것 같다. 물건의 종류를 줄인뒤에 다시 진행해보자."
+        "ko": "보유한 물건의 종류가 너무 많은것 같다. 물건의 종류를 줄인뒤에 다시 진행해보자.",
+        "en": "It seems you have too many types of items. Let's try again after reducing the types of items.",
+        "pt": "Parece que você tem muitos tipos de itens. Vamos tentar novamente após reduzir os tipos de itens.",
+        "es": "Parece que tienes demasiados tipos de objetos. Intentemos de nuevo después de reducir los tipos de objetos."
     },
     "HJQ5DA": {
-        "ko": "가진 물건이 너무 무거워 더이상의 진행이 힘들 것 같다. 무게를 줄인 후 다시 도전해보자."
+        "ko": "가진 물건이 너무 무거워 더이상의 진행이 힘들 것 같다. 무게를 줄인 후 다시 도전해보자.",
+        "en": "Your belongings are too heavy, further progress seems difficult. Let's try again after reducing the weight.",
+        "pt": "Suas pertences estão muito pesadas. Vamos tentar novamente após reduzir o peso.",
+        "es": "Tus pertenencias son demasiado pesadas, parece difícil progresar más. Intentemos de nuevo después de reducir el peso."
     },
     "HZQ5DA": {
-        "ko": "[급식 담당자]\n응? 너한테까지 줄 음식은 없어!"
+        "ko": "[급식 담당자]\n응? 너한테까지 줄 음식은 없어!",
+        "en": "[Meal Supervisor]\nHuh? I don't have any food to give to you too!",
+        "pt": "[Gerente de Refeição]\nHã? Eu não tenho comida para dar para você também!",
+        "es": "[Supervisor de Comedores]\n¿Eh? ¡¡Yo tampoco tengo comida para darte a ti!"
     },
     "HpQ5DA": {
-        "ko": "[급식 담당자]\n이봐, 저기 길게 줄을 서 있는게 안보이나? 네가 어디의 누구이건 간에 배식을 받고 싶으면 줄을 서도록 해. 안그러면 국물도 없어."
+        "ko": "[급식 담당자]\n이봐, 저기 길게 줄을 서 있는게 안보이나? 네가 어디의 누구이건 간에 배식을 받고 싶으면 줄을 서도록 해. 안그러면 국물도 없어.",
+        "en": "[Meal Supervisor]\nHey, can't you see that long line over there? No matter who you are or where you're from, if you want rations, get in line. Otherwise, you won't even get the broth.",
+        "pt": "[Gerente de Refeição]\nEi, não consegue ver aquela fila longa ali? Não importa quem você é ou de onde vem, se quer refeição, entre na fila. Caso contrário, não vai nem ganhar o caldo.",
+        "es": "[Supervisor de Comedores]\nOye, ¿no ves esa larga fila allá? No importa quién seas o de dónde vengas, si quieres raciones, haz fila. Si no, ni siquiera tendrás caldo."
     },
     "H5Q5DA": {
-        "ko": "밥을 먹으러 온거 아닌데?"
+        "ko": "밥을 먹으러 온거 아닌데?",
+        "en": "You're not here to eat?",
+        "pt": "Não vim para comer",
+        "es": "¿No viniste a comer?"
     },
     "IJQ5DA": {
-        "ko": "줄을 서도록 하겠습니다"
+        "ko": "줄을 서도록 하겠습니다",
+        "en": "I'll get in line",
+        "pt": "Vou entrar na fila",
+        "es": "Me pondré en fila"
     },
     "IZQ5DA": {
-        "ko": "[급식 담당자]\n흥, 그래야지."
+        "ko": "[급식 담당자]\n흥, 그래야지.",
+        "en": "[Meal Supervisor]\nHmph, that's more like it.",
+        "pt": "[Gerente de Refeição]\nHum, assim é melhor.",
+        "es": "[Supervisor de Comedores]\nHum, así me gusta."
     },
     "IpQ5DA": {
-        "ko": "[급식 담당자]\n밥을 먹으러 온게 아니라구? 아니 그거... 으음, 이거 실례가 많았군."
+        "ko": "[급식 담당자]\n밥을 먹으러 온게 아니라구? 아니 그거... 으음, 이거 실례가 많았군.",
+        "en": "[Meal Supervisor]\nYou say you're not here to eat? Well, that's... um, my apologies then.",
+        "pt": "[Gerente de Refeição]\nVocê diz que não veio para comer? Bem, isso é... um, minhas desculpas então.",
+        "es": "[Supervisor de Comedores]\n¿Dices que no viniste a comer? Bueno, eso es... um, mis disculpas entonces."
     },
     "I5Q5DA": {
-        "ko": "[급식 담당자]\n아니 잠깐! 그럼 왜 내 앞에서 어슬렁 대는거야? 지금 가뜩이나 배식 펑크가 나서 심란해 죽겠는데!"
+        "ko": "[급식 담당자]\n아니 잠깐! 그럼 왜 내 앞에서 어슬렁 대는거야? 지금 가뜩이나 배식 펑크가 나서 심란해 죽겠는데!",
+        "en": "[Meal Supervisor]\nNo, wait! Then why are you loitering in front of me? I'm already going crazy because the rations have run out!",
+        "pt": "[Gerente de Refeição]\nNão, espere! Então por que está vagando na minha frente? Já estou enlouquecendo porque as refeições acabaram!",
+        "es": "[Supervisor de Comedores]\n¡No, espera! ¡Entonces por qué merodeas frente a mí! ¡Ya me estoy volviendo loco porque se acabaron las raciones!"
     },
     "JJQ5DA": {
-        "ko": "배식이 펑크났다고?"
+        "ko": "배식이 펑크났다고?",
+        "en": "The rations ran out?",
+        "pt": "As refeições acabaram?",
+        "es": "¿Se acabaron las raciones?"
     },
     "JZQ5DA": {
-        "ko": "그건 당신 사정이지"
+        "ko": "그건 당신 사정이지",
+        "en": "That's your problem",
+        "pt": "Isso é problema seu",
+        "es": "Ese es tu problema"
     },
     "JpQ5DA": {
-        "ko": "[급식 담당자]\n제길, 재수 없는놈이구만. 너한테까지 신경쓸 시간 없으니 썩 꺼져버려!"
+        "ko": "[급식 담당자]\n제길, 재수 없는놈이구만. 너한테까지 신경쓸 시간 없으니 썩 꺼져버려!",
+        "en": "[Meal Supervisor]\nDammit, what an unlucky fellow. I don't have time to deal with you too, get lost!",
+        "pt": "[Gerente de Refeição]\nDroga. Não tenho tempo para lidar com você também, suma!",
+        "es": "[Supervisor de Comedores]\nMaldición, qué tipo más desafortunado. No tengo tiempo para ocuparme de ti también, ¡vete!"
     },
     "J5Q5DA": {
-        "ko": "[급식 담당자]\n이 꼴을 봐. 지금 저 사람들은 몇 시간째 기다리고 있는거야. 재료가 없으니 돌아가라는 말은 차마 해 주질 못하고 있어."
+        "ko": "[급식 담당자]\n이 꼴을 봐. 지금 저 사람들은 몇 시간째 기다리고 있는거야. 재료가 없으니 돌아가라는 말은 차마 해 주질 못하고 있어.",
+        "en": "[Meal Supervisor]\nLook at this. These people have been waiting for hours. I can't bring myself to tell them to go back because we're out of ingredients.",
+        "pt": "[Gerente de Refeição]\nOlhe isso. Essas pessoas estão esperando há horas. Não consigo dizer para elas voltarem porque estamos sem ingredientes.",
+        "es": "[Supervisor de Comedores]\nMira esto. Esta gente ha estado esperando horas. No puedo decirles que se vayan porque se nos acabaron los ingredientes."
     },
     "KJQ5DA": {
-        "ko": "[급식 담당자]\n미드가르드에서 지금쯤이면 도착했어야 할 한 식재료가단 한박스도 도착하지 않았다구. 기다리라고 하는것도 정도가 있지..."
+        "ko": "[급식 담당자]\n미드가르드에서 지금쯤이면 도착했어야 할 한 식재료가단 한박스도 도착하지 않았다구. 기다리라고 하는것도 정도가 있지...",
+        "en": "[Meal Supervisor]\nA shipment of ingredients from Midgard that should have arrived by now hasn't delivered a single box. There's a limit to making people wait...",
+        "pt": "[Gerente de Refeição]\nUm carregamento de ingredientes de Midgard que deveria ter chegado agora não entregou uma única caixa. Tem um limite para fazer as pessoas esperarem...",
+        "es": "[Supervisor de Comedores]\nUn cargamento de ingredientes de Midgard que debería haber llegado ya, no ha entregado ni una sola caja. Hay un límite para hacer esperar a la gente..."
     },
     "KZQ5DA": {
-        "ko": "밖에서 재료를 조달해보는건?"
+        "ko": "밖에서 재료를 조달해보는건?",
+        "en": "What about procuring ingredients from outside?",
+        "pt": "Que tal conseguir ingredientes de fora?",
+        "es": "¿Y qué tal conseguir ingredientes afuera?"
     },
     "KpQ5DA": {
-        "ko": "거 고생 많구먼. 수고하쇼"
+        "ko": "거 고생 많구먼. 수고하쇼",
+        "en": "That sounds tough. Keep up the good work.",
+        "pt": "Continue com o bom trabalho.",
+        "es": "Suena difícil. Sigue con el buen trabajo."
     },
     "K5Q5DA": {
-        "ko": "[급식 담당자]\n나라고 그 생각을 못해본 건 아니야. 당연히 이쯤 되니 근처에서라도 재료를 구해보려고 시도는 했었지."
+        "ko": "[급식 담당자]\n나라고 그 생각을 못해본 건 아니야. 당연히 이쯤 되니 근처에서라도 재료를 구해보려고 시도는 했었지.",
+        "en": "[Meal Supervisor]\nIt's not like I haven't thought of that. Of course, by now I've tried to find ingredients nearby.",
+        "pt": "[Gerente de Refeição]\nNão é que eu não tenha pensado nisso. Claro, até agora tentei encontrar ingredientes por perto.",
+        "es": "[Supervisor de Comedores]\nNo es que no lo haya pensado. Claro, ya intenté encontrar ingredientes cerca."
     },
     "LJQ5DA": {
-        "ko": "[급식 담당자]\n바깥을 헤매봤지만 모래랑 자갈 뿐이고 어딜가도 먹을것 따윈 없어. 이런 곳에서 급식소를 운영하려 했다니 내가 미쳤지."
+        "ko": "[급식 담당자]\n바깥을 헤매봤지만 모래랑 자갈 뿐이고 어딜가도 먹을것 따윈 없어. 이런 곳에서 급식소를 운영하려 했다니 내가 미쳤지.",
+        "en": "[Meal Supervisor]\nI wandered outside, but it's just sand and gravel, and there's nothing to eat anywhere. I must have been crazy to try running a meal station in a place like this.",
+        "pt": "[Gerente de Refeição]\nVaguei lá fora, mas é só areia e cascalho, e em lugar nenhum tem nada para comer. Eu devia estar louco por tentar administrar um posto de refeições em um lugar assim.",
+        "es": "[Supervisor de Comedores]\nVagé afuera, pero solo hay arena y grava, y en ninguna parte hay nada para comer. Debo haber estado loco al intentar dirigir un comedor en un lugar así."
     },
     "LZQ5DA": {
-        "ko": "[배고픈 노동자]\n^990000잠깐 지금 재료가 없다는거야? 음식이 다 떨어졌다고?!^000000"
+        "ko": "[배고픈 노동자]\n^990000잠깐 지금 재료가 없다는거야? 음식이 다 떨어졌다고?!^000000",
+        "en": "[Hungry Laborer]\n^990000Wait, you mean there are no ingredients right now? The food is all gone?!^000000",
+        "pt": "[Servente com Fome]\n^990000Espere, quer dizer que não há ingredientes agora? A comida acabou?!^000000",
+        "es": "[Trabajador Hambriento]\n^990000Espera, ¿quieres decir que no hay ingredientes ahora? ¡¿La comida se acabó?!^000000"
     },
     "LpQ5DA": {
-        "ko": "배고픈 노동자: 잠깐 지금 재료가 없다는거야? 음식이 다 떨어졌다고?!"
+        "ko": "배고픈 노동자: 잠깐 지금 재료가 없다는거야? 음식이 다 떨어졌다고?!",
+        "en": "Hungry Laborer: Wait, you mean there are no ingredients right now? The food is all gone?!",
+        "pt": "Servente com Fome: Espere, quer dizer que não há ingredientes agora? A comida acabou?!",
+        "es": "Trabajador Hambriento: Espera, ¿quieres decir que no hay ingredientes ahora? ¡¿La comida se acabó?!"
     },
     "L5Q5DA": {
-        "ko": "[급식 담당자]\n^990000아니 오해다. 잠깐 배식이 지연되는 것 뿐이야 이상한 소리 하지말라구!^000000"
+        "ko": "[급식 담당자]\n^990000아니 오해다. 잠깐 배식이 지연되는 것 뿐이야 이상한 소리 하지말라구!^000000",
+        "en": "[Meal Supervisor]\n^990000No, it's a misunderstanding. The distribution is just delayed, that's all. Don't say strange things!^000000",
+        "pt": "[Gerente de Refeição]\n^990000Não, é um mal-entendido. A distribuição está apenas atrasada, só isso. Não diga coisas estranhas!^000000",
+        "es": "[Supervisor de Comedores]\n^990000No, es un malentendido. La distribución solo se retrasa, eso es todo. ¡No digas cosas raras!^000000"
     },
     "MJQ5DA": {
-        "ko": "급식 담당자: 아니 오해다. 잠깐 배식이 지연되는 것 뿐이야 이상한 소리 하지말라구!"
+        "ko": "급식 담당자: 아니 오해다. 잠깐 배식이 지연되는 것 뿐이야 이상한 소리 하지말라구!",
+        "en": "Meal Supervisor: No, it's a misunderstanding. The distribution is just delayed, that's all. Don't say strange things!",
+        "pt": "Gerente de Refeição: Não, é um mal-entendido. A distribuição está apenas atrasada, só isso. Não diga coisas estranhas!",
+        "es": "Supervisor de Comedores: No, es un malentendido. La distribución solo se retrasa, eso es todo. ¡No digas cosas raras!"
     },
     "MZQ5DA": {
-        "ko": "내가 도와 줄 수도 있다"
+        "ko": "내가 도와 줄 수도 있다",
+        "en": "Maybe I can help",
+        "pt": "Talvez eu possa ajudar",
+        "es": "Tal vez pueda ayudar"
     },
     "MpQ5DA": {
-        "ko": "잘 해보슈"
+        "ko": "잘 해보슈",
+        "en": "Good luck with that",
+        "pt": "Boa sorte com isso",
+        "es": "Buena suerte con eso"
     },
     "M5Q5DA": {
-        "ko": "[급식 담당자]\n도와주겠다고? 날? 어떻게?"
+        "ko": "[급식 담당자]\n도와주겠다고? 날? 어떻게?",
+        "en": "[Meal Supervisor]\nYou'll help me? How?",
+        "pt": "[Gerente de Refeição]\nVocê vai me ajudar? Como?",
+        "es": "[Supervisor de Comedores]\n¿Me ayudarás? ¿Cómo?"
     },
     "NJQ5DA": {
-        "ko": "식자재가 필요한거 아닌가?"
+        "ko": "식자재가 필요한거 아닌가?",
+        "en": "You need ingredients, right?",
+        "pt": "Você precisa de ingredientes, certo?",
+        "es": "Necesitas ingredientes, ¿verdad?"
     },
     "NZQ5DA": {
-        "ko": "그건 네가 생각해야지"
+        "ko": "그건 네가 생각해야지",
+        "en": "That's for you to figure out",
+        "pt": "Isso é com você para descobrir",
+        "es": "Eso es lo que tú tienes que resolver"
     },
     "NpQ5DA": {
-        "ko": "[급식 담당자]\n그래! 그럼 이렇게 하자구. 내가 당장 필요한 물품들을 지금 메모해서 주도록 하지. 그걸 네가 대륙에서 미드가르드 본토에서 배달 해주는건 어때?"
+        "ko": "[급식 담당자]\n그래! 그럼 이렇게 하자구. 내가 당장 필요한 물품들을 지금 메모해서 주도록 하지. 그걸 네가 대륙에서 미드가르드 본토에서 배달 해주는건 어때?",
+        "en": "[Meal Supervisor]\nRight! Then let's do this. I'll make a memo of the items I need right now. How about you deliver them from the Midgard mainland?",
+        "pt": "[Gerente de Refeição]\nCerto! Então vamos fazer assim. Vou fazer uma nota dos itens que preciso agora. Que tal você entregá-los do continente de Midgard?",
+        "es": "[Supervisor de Comedores]\n¡Correcto! Entonces hagamos esto. Haré una nota de los artículos que necesito ahora. ¿Qué tal si los traes del continente de Midgard?"
     },
     "N5Q5DA": {
-        "ko": "그러지"
+        "ko": "그러지",
+        "en": "Alright",
+        "pt": "Certo",
+        "es": "De acuerdo"
     },
     "OJQ5DA": {
-        "ko": "여기까지 와서 거절하면 내 시간이 아깝지"
+        "ko": "여기까지 와서 거절하면 내 시간이 아깝지",
+        "en": "I've come all this way, refusing would be a waste of my time",
+        "pt": "Eu vim até aqui, recusar seria um desperdício do meu tempo",
+        "es": "Vine hasta aquí, rechazar sería una pérdida de mi tiempo"
     },
     "OZQ5DA": {
-        "ko": "[급식 담당자]\n좋았어! 계약 성립이야. 그럼 일단 물품 목록을 작성 할테니까 잠시 후에 날 찾아오도록 해. 일 이야기는 그때 하자구."
+        "ko": "[급식 담당자]\n좋았어! 계약 성립이야. 그럼 일단 물품 목록을 작성 할테니까 잠시 후에 날 찾아오도록 해. 일 이야기는 그때 하자구.",
+        "en": "[Meal Supervisor]\nGreat! It's a deal. I'll prepare the item list now, so come find me again in a little while. We'll talk about the job then.",
+        "pt": "[Gerente de Refeição]\nÓtimo! Combinado. Vou preparar a lista de itens agora, então me procure novamente daqui a pouco. Falaremos sobre o trabalho então.",
+        "es": "[Supervisor de Comedores]\n¡Genial! Trato hecho. Prepararé la lista de artículos ahora, así que búscame de nuevo en un rato. Hablaremos del trabajo entonces."
     },
     "OpQ5DA": {
-        "ko": "[급식 담당자]\n본토에서 <ITEM>고구마<INFO>516</INFO></ITEM> 160개를 구해서 내게 갖다 줘!. 대도시의 상인들이 취급하고 있을거야."
+        "ko": "[급식 담당자]\n본토에서 <ITEM>고구마<INFO>516</INFO></ITEM> 160개를 구해서 내게 갖다 줘!. 대도시의 상인들이 취급하고 있을거야.",
+        "en": "[Meal Supervisor]\nGet me 160 <ITEM>Sweet Potatoes<INFO>516</INFO></ITEM> from the mainland! The merchants in the big cities should have them.",
+        "pt": "[Gerente de Refeição]\nConsiga 160 <ITEM>Batatas Doces <INFO>516</INFO></ITEM> do continente! Os comerciantes nas grandes cidades devem tê-las.",
+        "es": "[Supervisor de Comedores]\n¡Consígueme 160 <ITEM>Batatas<INFO>516</INFO></ITEM> del continente! Los comerciantes de las grandes ciudades deberían tenerlas."
     },
     "O5Q5DA": {
-        "ko": "[급식 담당자]\n본토에서 <ITEM>고기<INFO>517</INFO></ITEM> 50개를 구해서 내게 갖다 줘!. 대도시의 상인들이 취급하고 있을거야."
+        "ko": "[급식 담당자]\n본토에서 <ITEM>고기<INFO>517</INFO></ITEM> 50개를 구해서 내게 갖다 줘!. 대도시의 상인들이 취급하고 있을거야.",
+        "en": "[Meal Supervisor]\nGet me 50 <ITEM>Meat<INFO>517</INFO></ITEM> from the mainland! The merchants in the big cities should have them.",
+        "pt": "[Gerente de Refeição]\nConsiga 50 <ITEM>Carne <INFO>517</INFO></ITEM> do continente! Os comerciantes nas grandes cidades devem tê-las.",
+        "es": "[Supervisor de Comedores]\n¡Consígueme 50 <ITEM>Carne<INFO>517</INFO></ITEM> del continente! Los comerciantes de las grandes ciudades deberían tenerlas."
     },
     "PJQ5DA": {
-        "ko": "[급식 담당자]\n본토에서 <ITEM>당근<INFO>515</INFO></ITEM> 160개를 구해서 내게 갖다 줘!. 대도시의 상인들이 취급하고 있을거야."
+        "ko": "[급식 담당자]\n본토에서 <ITEM>당근<INFO>515</INFO></ITEM> 160개를 구해서 내게 갖다 줘!. 대도시의 상인들이 취급하고 있을거야.",
+        "en": "[Meal Supervisor]\nGet me 160 <ITEM>Carrots<INFO>515</INFO></ITEM> from the mainland! The merchants in the big cities should have them.",
+        "pt": "[Gerente de Refeição]\nConsiga 160 <ITEM>Cenouras <INFO>515</INFO></ITEM> do continente! Os comerciantes nas grandes cidades devem tê-las.",
+        "es": "[Supervisor de Comedores]\n¡Consígueme 160 <ITEM>Zanahorias<INFO>515</INFO></ITEM> del continente! Los comerciantes de las grandes ciudades deberían tenerlas."
     },
     "PZQ5DA": {
-        "ko": "[급식 담당자]\n본토에서 <ITEM>바나나<INFO>513</INFO></ITEM> 160개를 구해서 내게 갖다 줘!. 대도시의 상인들이 취급하고 있을거야."
+        "ko": "[급식 담당자]\n본토에서 <ITEM>바나나<INFO>513</INFO></ITEM> 160개를 구해서 내게 갖다 줘!. 대도시의 상인들이 취급하고 있을거야.",
+        "en": "[Meal Supervisor]\nGet me 160 <ITEM>Bananas<INFO>513</INFO></ITEM> from the mainland! The merchants in the big cities should have them.",
+        "pt": "[Gerente de Refeição]\nConsiga 160 <ITEM>Bananas <INFO>513</INFO></ITEM> do continente! Os comerciantes nas grandes cidades devem tê-las.",
+        "es": "[Supervisor de Comedores]\n¡Consígueme 160 <ITEM>Plátanos<INFO>513</INFO></ITEM> del continente! Los comerciantes de las grandes ciudades deberían tenerlas."
     },
     "PpQ5DA": {
-        "ko": "[급식 담당자]\n본토에서 <ITEM>호박<INFO>535</INFO></ITEM> 160개를 구해서 내게 갖다 줘!. 대도시의 상인들이 취급하고 있을거야."
+        "ko": "[급식 담당자]\n본토에서 <ITEM>호박<INFO>535</INFO></ITEM> 160개를 구해서 내게 갖다 줘!. 대도시의 상인들이 취급하고 있을거야.",
+        "en": "[Meal Supervisor]\nGet me 160 <ITEM>Pumpkins<INFO>535</INFO></ITEM> from the mainland! The merchants in the big cities should have them.",
+        "pt": "[Gerente de Refeição]\nConsiga 160 <ITEM>Abóboras <INFO>535</INFO></ITEM> do continente! Os comerciantes nas grandes cidades devem tê-las.",
+        "es": "[Supervisor de Comedores]\n¡Consígueme 160 <ITEM>Calabazas<INFO>535</INFO></ITEM> del continente! Los comerciantes de las grandes ciudades deberían tenerlas."
     },
     "P5Q5DA": {
-        "ko": "[급식 담당자]\n본토에서 <ITEM>식용버섯<INFO>581</INFO></ITEM> 60개를 구해서 내게 갖다 줘!. 본토의 요리재료 상인들이 판매하고 있을거야."
+        "ko": "[급식 담당자]\n본토에서 <ITEM>식용버섯<INFO>581</INFO></ITEM> 60개를 구해서 내게 갖다 줘!. 본토의 요리재료 상인들이 판매하고 있을거야.",
+        "en": "[Meal Supervisor]\nGet me 60 <ITEM>Edible Mushrooms<INFO>581</INFO></ITEM> from the mainland! The cooking ingredient merchants on the mainland should be selling them.",
+        "pt": "[Gerente de Refeição]\nConsiga 60 <ITEM>Cogumelos Comestíveis <INFO>581</INFO></ITEM> do continente! Os comerciantes de ingredientes culinários no continente devem estar vendendo.",
+        "es": "[Supervisor de Comedores]\n¡Consígueme 60 <ITEM>Champiñones Comestibles<INFO>581</INFO></ITEM> del continente! Los comerciantes de ingredientes de cocina del continente deberían venderlos."
     },
     "QJQ5DA": {
-        "ko": "[급식 담당자]\n휴~ 자네 덕분이야. 다행히도 급한 고비는 넘길 수 있을 것 같아. 일단 이 식재료로 어떻게든 해봐야지!"
+        "ko": "[급식 담당자]\n휴~ 자네 덕분이야. 다행히도 급한 고비는 넘길 수 있을 것 같아. 일단 이 식재료로 어떻게든 해봐야지!",
+        "en": "[Meal Supervisor]\nPhew~ It's thanks to you. It seems we can get through this critical moment. I'll have to manage somehow with these ingredients for now!",
+        "pt": "[Gerente de Refeição]\nUfa~ É graças a você. Parece que podemos superar este momento crítico. Vou ter que me virar de alguma forma com esses ingredientes por agora!",
+        "es": "[Supervisor de Comedores]\nUf~ Es gracias a ti. Parece que podemos superar este momento crítico. ¡Tendré que arreglármelas de alguna manera con estos ingredientes por ahora!"
     },
     "QZQ5DA": {
-        "ko": "[급식 담당자]\n다행히도 급한 고비는 넘긴 것 같아. 다음에도 부탁좀 하자구."
+        "ko": "[급식 담당자]\n다행히도 급한 고비는 넘긴 것 같아. 다음에도 부탁좀 하자구.",
+        "en": "[Meal Supervisor]\nLuckily, it seems we've passed the critical moment. Let me ask for your help next time too.",
+        "pt": "[Gerente de Refeição]\nPor sorte, parece que passamos do momento crítico. Deixe-me pedir sua ajuda na próxima vez também.",
+        "es": "[Supervisor de Comedores]\nPor suerte, parece que hemos pasado el momento crítico. Permíteme pedirte ayuda la próxima vez también."
     },
     "QpQ5DA": {
-        "ko": "[급식 담당자]\n으으, 지금 당장 필요한 식재료 목록이 여기 있어. 최대한 빨리 배송될까?"
+        "ko": "[급식 담당자]\n으으, 지금 당장 필요한 식재료 목록이 여기 있어. 최대한 빨리 배송될까?",
+        "en": "[Meal Supervisor]\nUgh, here's the list of ingredients I need right now. Can they be delivered as soon as possible?",
+        "pt": "[Gerente de Refeição]\nUgh, aqui está a lista de ingredientes que preciso agora. Eles podem ser entregues o mais rápido possível?",
+        "es": "[Supervisor de Comedores]\nUgh, aquí está la lista de ingredientes que necesito ahora. ¿Pueden entregarlos lo más rápido posible?"
     },
     "Q5Q5DA": {
-        "ko": "아니 바쁘니 다음기회에..."
+        "ko": "아니 바쁘니 다음기회에...",
+        "en": "No, I'm busy... maybe next time...",
+        "pt": "Não, estou ocupado... talvez na próxima...",
+        "es": "No, estoy ocupado... quizá la próxima vez..."
     },
     "RJQ5DA": {
-        "ko": "[급식 담당자]\n이봐 그러지말고 사정한번만 봐주면 안될까? 여기 다들 굶고있다구."
+        "ko": "[급식 담당자]\n이봐 그러지말고 사정한번만 봐주면 안될까? 여기 다들 굶고있다구.",
+        "en": "[Meal Supervisor]\nHey, come on, can't you help me out just this once? Everyone here is starving.",
+        "pt": "[Gerente de Refeição]\nEi, qual é, não pode me ajudar só desta vez? Todos aqui estão passando fome.",
+        "es": "[Supervisor de Comedores]\nOye, vamos, ¿no puedes ayudarme solo esta vez? Todos aquí se mueren de hambre."
     },
     "RZQ5DA": {
-        "ko": "[급식 담당자]\n오늘 메뉴중에 고구마 고로케를 만들어야하는 상황인데. 보시다시피 오기로 한 정기화물이 도착하질 않고 있어"
+        "ko": "[급식 담당자]\n오늘 메뉴중에 고구마 고로케를 만들어야하는 상황인데. 보시다시피 오기로 한 정기화물이 도착하질 않고 있어",
+        "en": "[Meal Supervisor]\nI'm supposed to make sweet potato croquettes for today's menu. As you can see, the scheduled shipment hasn't arrived.",
+        "pt": "[Gerente de Refeição]\nDeveria fazer croquetes de batata-doce para o cardápio de hoje. Como pode ver, o carregamento programado não chegou.",
+        "es": "[Supervisor de Comedores]\nSe supone que debo hacer croquetas de batata para el menú de hoy. Como ves, el cargamento programado no ha llegado."
     },
     "RpQ5DA": {
-        "ko": "[급식 담당자]\n사람은 많은데 메인 재료인 고기가 다 떨어져버렸어!! 이건 재앙이지."
+        "ko": "[급식 담당자]\n사람은 많은데 메인 재료인 고기가 다 떨어져버렸어!! 이건 재앙이지.",
+        "en": "[Meal Supervisor]\nThere are so many people, but the main ingredient, meat, has run out!! This is a disaster.",
+        "pt": "[Gerente de Refeição]\nHá tantas pessoas, mas o ingrediente principal, a carne, acabou!! Isso é um desastre.",
+        "es": "[Supervisor de Comedores]\n¡¡Hay tanta gente, pero el ingrediente principal, la carne, se acabó!! Esto es un desastre."
     },
     "R5Q5DA": {
-        "ko": "[급식 담당자]\n뭐? 고기를 빼고 만들면 되지않냐고? 그래도 되지. 그런데 다들 고기를 찾아대잖아. 어쩌겠어 넣어줘야지."
+        "ko": "[급식 담당자]\n뭐? 고기를 빼고 만들면 되지않냐고? 그래도 되지. 그런데 다들 고기를 찾아대잖아. 어쩌겠어 넣어줘야지.",
+        "en": "[Meal Supervisor]\nWhat? You say just make it without meat? Well, I could. But everyone's asking for meat. What can I do, I have to put it in.",
+        "pt": "[Gerente de Refeição]\nO quê? Você diz para fazer sem carne? Bem, eu poderia. Mas todos estão pedindo carne. O que posso fazer, tenho que colocar.",
+        "es": "[Supervisor de Comedores]\n¿Qué? ¿Dices que simplemente lo haga sin carne? Bueno, podría. Pero todos piden carne. ¿Qué puedo hacer? Tengo que ponerla."
     },
     "SJQ5DA": {
-        "ko": "[급식 담당자]\n여기 뒤 텃밭에 자라는 당근 봤어? 당근?"
+        "ko": "[급식 담당자]\n여기 뒤 텃밭에 자라는 당근 봤어? 당근?",
+        "en": "[Meal Supervisor]\nSee those carrots growing in the garden back there? Carrots?",
+        "pt": "[Gerente de Refeição]\nVê aquelas cenouras crescendo no jardim lá atrás? Cenouras?",
+        "es": "[Supervisor de Comedores]\n¿Ves esas zanahorias creciendo en el jardín de atrás? ¿Zanahorias?"
     },
     "SZQ5DA": {
-        "ko": "[급식 담당자]\n하도 작아서 손가락인줄 알았네. 스튜에 넣어야하는데 당근이 너무 작아서 손가락을 대신 넣을 뻔했다구"
+        "ko": "[급식 담당자]\n하도 작아서 손가락인줄 알았네. 스튜에 넣어야하는데 당근이 너무 작아서 손가락을 대신 넣을 뻔했다구",
+        "en": "[Meal Supervisor]\nThey're so small I thought they were fingers. I need them for the stew, but the carrots are so small I almost used my fingers instead!",
+        "pt": "[Gerente de Refeição]\nElas são tão pequenas que pensei que eram dedos. Preciso delas para o ensopado, mas as cenouras são tão pequenas que quase usei meus dedos no lugar!",
+        "es": "[Supervisor de Comedores]\nSon tan pequeñas que pensé que eran dedos. Las necesito para el estofado, ¡pero las zanahorias son tan pequeñas que casi uso mis dedos en su lugar!"
     },
     "SpQ5DA": {
-        "ko": "[급식 담당자]\n바나나빵 같은거 메뉴로 집어넣는게 아니었어. 당연히 시간맞춰 식재료 박스로 담겨 올 줄 알았다구. 뭐? 당연히 지금 없지!"
+        "ko": "[급식 담당자]\n바나나빵 같은거 메뉴로 집어넣는게 아니었어. 당연히 시간맞춰 식재료 박스로 담겨 올 줄 알았다구. 뭐? 당연히 지금 없지!",
+        "en": "[Meal Supervisor]\nI didn't plan to put things like banana bread on the menu. I thought the ingredient boxes would arrive on time, of course. What? Of course we don't have any now!",
+        "pt": "[Gerente de Refeição]\nNão planejei colocar coisas como pão de banana no cardápio. Pensei que as caixas de ingredientes chegariam a tempo, claro. O quê? Claro que não temos agora!",
+        "es": "[Supervisor de Comedores]\nNo planeé poner cosas como pan de plátano en el menú. Pensé que las cajas de ingredientes llegarían a tiempo, por supuesto. ¿Qué? ¡Claro que no tenemos ahora!"
     },
     "S5Q5DA": {
-        "ko": "[급식 담당자]\n호박 스튜를 만들어야하는데 호박이 없단말이지. 이게 뭘 의미하는지 아나? 식빵없이 토스트를 창조해야한단 소리야."
+        "ko": "[급식 담당자]\n호박 스튜를 만들어야하는데 호박이 없단말이지. 이게 뭘 의미하는지 아나? 식빵없이 토스트를 창조해야한단 소리야.",
+        "en": "[Meal Supervisor]\nI need to make pumpkin stew, but there are no pumpkins. Do you know what that means? It means I have to create toast without bread.",
+        "pt": "[Gerente de Refeição]\nPreciso fazer ensopado de abóbora, mas não há abóboras. Sabe o que isso significa? Significa que tenho que criar torradas sem pão.",
+        "es": "[Supervisor de Comedores]\nNecesito hacer estofado de calabaza, pero no hay calabazas. ¿Sabes lo que eso significa? Significa que tengo que crear tostadas sin pan."
     },
     "TJQ5DA": {
-        "ko": "[급식 담당자]\n지금 남은 재료로 할 수 있는건 버섯스프 정도인데, 버섯이 없어. 식용버섯을 좀 구해주지 않겠나?"
+        "ko": "[급식 담당자]\n지금 남은 재료로 할 수 있는건 버섯스프 정도인데, 버섯이 없어. 식용버섯을 좀 구해주지 않겠나?",
+        "en": "[Meal Supervisor]\nThe only thing I can make with the remaining ingredients is mushroom soup, but there are no mushrooms. Could you get me some edible mushrooms?",
+        "pt": "[Gerente de Refeição]\nA única coisa que posso fazer com os ingredientes restantes é sopa de cogumelos, mas não há cogumelos. Você poderia me conseguir alguns cogumelos comestíveis?",
+        "es": "[Supervisor de Comedores]\nLo único que puedo hacer con los ingredientes restantes es sopa de champiñones, pero no hay champiñones. ¿Podrías conseguirme algunos champiñones comestibles?"
     },
     "TZQ5DA": {
-        "ko": "강철 자경단"
+        "ko": "강철 자경단",
+        "en": "Steel Self-Defense Force",
+        "pt": "Vigilante de Autodefesa",
+        "es": "Autodefensa de Acero"
     },
     "TpQ5DA": {
-        "ko": "[강철 자경단]\n미안하지만 우린 좀 더 강한 녀석이 필요해. 당신같은 약골 말고..."
+        "ko": "[강철 자경단]\n미안하지만 우린 좀 더 강한 녀석이 필요해. 당신같은 약골 말고...",
+        "en": "[Steel Self-Defense Force]\nSorry, but we need someone stronger. Not a weakling like you...",
+        "pt": "[Vigilante de Autodefesa]\nDesculpe, mas precisamos de alguém mais forte. Não um fracote como você...",
+        "es": "[Autodefensa de Acero]\nLo siento, pero necesitamos a alguien más fuerte. No a un débil como tú..."
     },
     "T5Q5DA": {
-        "ko": "[강철 자경단]\n엇, 거기 형씨. 꽤나 세보이는걸. 여기 일 받으러 온거지?"
+        "ko": "[강철 자경단]\n엇, 거기 형씨. 꽤나 세보이는걸. 여기 일 받으러 온거지?",
+        "en": "[Steel Self-Defense Force]\nHey, there, mister. You look pretty tough. You here for work?",
+        "pt": "[Vigilante de Autodefesa]\nEi, olá. Você parece bem forte. Veio para trabalhar?",
+        "es": "[Autodefensa de Acero]\nOye, señor. Te ves bastante rudo. ¿Viniste por trabajo?"
     },
     "UJQ5DA": {
-        "ko": "아니 그냥 산책중인 여행객인데"
+        "ko": "아니 그냥 산책중인 여행객인데",
+        "en": "No, I'm just a traveler out for a walk",
+        "pt": "Não, estou passeando",
+        "es": "No, solo soy un viajero paseando"
     },
     "UZQ5DA": {
-        "ko": "[강철 자경단]\n아니 그렇게 단칼에 거절하지 말고! 말하는 사람의 성의라는것도 있잖아. 딱히 나쁜 이야기는 아닌데 좀 들어보는건 어때?"
+        "ko": "[강철 자경단]\n아니 그렇게 단칼에 거절하지 말고! 말하는 사람의 성의라는것도 있잖아. 딱히 나쁜 이야기는 아닌데 좀 들어보는건 어때?",
+        "en": "[Steel Self-Defense Force]\nHey, don't refuse so quickly! Have some consideration for the person asking. It's not a bad story, how about listening?",
+        "pt": "[Vigilante de Autodefesa]\nEi, não recuse tão rápido! Tenha alguma consideração por quem está perguntando. Não é uma história ruim, que tal ouvir?",
+        "es": "[Autodefensa de Acero]\n¡Oye, no te niegues tan rápido! Ten un poco de consideración por quien pregunta. No es una mala historia, ¿qué tal si escuchas?"
     },
     "UpQ5DA": {
-        "ko": "그럽시다"
+        "ko": "그럽시다",
+        "en": "Alright then",
+        "pt": "Está bem então",
+        "es": "Está bien entonces"
     },
     "U5Q5DA": {
-        "ko": "귀찮은데"
+        "ko": "귀찮은데",
+        "en": "It's a bother",
+        "pt": "É um incômodo",
+        "es": "Es una molestia"
     },
     "VJQ5DA": {
-        "ko": "[강철 자경단]\n그런가, 쩝... 아쉽게 되었군."
+        "ko": "[강철 자경단]\n그런가, 쩝... 아쉽게 되었군.",
+        "en": "[Steel Self-Defense Force]\nIs that so, tsk... What a shame.",
+        "pt": "[Vigilante de Autodefesa]\nÉ mesmo? Tss... Que pena.",
+        "es": "[Autodefensa de Acero]\n¿Es así? Tss... Qué lástima."
     },
     "VZQ5DA": {
-        "ko": "[강철 자경단]\n그래그래, 거 완전 꽉 막힌 형씨는 아니구만 그래."
+        "ko": "[강철 자경단]\n그래그래, 거 완전 꽉 막힌 형씨는 아니구만 그래.",
+        "en": "[Steel Self-Defense Force]\nYeah, yeah, so you're not a completely stubborn guy after all.",
+        "pt": "[Vigilante de Autodefesa]\nÉ, é, então você não é um cara completamente teimoso afinal.",
+        "es": "[Autodefensa de Acero]\nSí, sí, así que no eres un tipo completamente terco después de todo."
     },
     "VpQ5DA": {
-        "ko": "[강철 자경단]\n이 락릿지가 제대로 교통 요충지가 되려면 주변의 몬스터 개체를 어떻게든 줄여야 하거든. 그런데 막상 실행하려 보니 생각보다 쓸만한 인재가 없어."
+        "ko": "[강철 자경단]\n이 락 릿지가 제대로 교통 요충지가 되려면 주변의 몬스터 개체를 어떻게든 줄여야 하거든. 그런데 막상 실행하려 보니 생각보다 쓸만한 인재가 없어.",
+        "en": "[Steel Self-Defense Force]\nFor this Rockridge to become a proper transportation hub, we need to reduce the monster population around here somehow. But when we actually try to do it, there aren't as many capable people as we thought.",
+        "pt": "[Vigilante de Autodefesa]\nPara Rockridge se tornar um centro de transporte adequado, precisamos reduzir a população de monstros por aqui de alguma forma. Mas quando realmente tentamos fazer isso, não há tantas pessoas capazes quanto pensávamos.",
+        "es": "[Autodefensa de Acero]\nPara que este Rockridge se convierta en un centro de transporte adecuado, necesitamos reducir la población de monstruos por aquí de alguna manera. Pero cuando realmente intentamos hacerlo, no hay tantas personas capaces como pensábamos."
     },
     "V5Q5DA": {
-        "ko": "여기 앞에 사람들이 이렇게나 많은데?"
+        "ko": "여기 앞에 사람들이 이렇게나 많은데?",
+        "en": "There are so many people right here, though?",
+        "pt": "Mas há tantas pessoas bem aqui, não?",
+        "es": "Pero hay mucha gente aquí, ¿no?"
     },
     "WJQ5DA": {
-        "ko": "[강철 자경단]\n하! 이친구들 말인가? 예정대로면 이친구들을 쓰려고 했었지. 근데 생각보다 바깥의 몬스터들이 강하더란 말이야."
+        "ko": "[강철 자경단]\n하! 이친구들 말인가? 예정대로면 이친구들을 쓰려고 했었지. 근데 생각보다 바깥의 몬스터들이 강하더란 말이야.",
+        "en": "[Steel Self-Defense Force]\nHa! These guys? I planned to use them initially. But the monsters outside turned out to be stronger than expected.",
+        "pt": "[Vigilante de Autodefesa]\nHa! Esses caras? Eu planejei usá-los inicialmente. Mas os monstros lá fora acabaram sendo mais fortes do que o esperado.",
+        "es": "[Autodefensa de Acero]\n¡Ja! ¿Estos tipos? Planeé usarlos inicialmente. Pero los monstruos afuera resultaron ser más fuertes de lo esperado."
     },
     "WZQ5DA": {
-        "ko": "[강철 자경단]\n이 앞에 모인 녀석들이 나가면 아마 돈값 제대로 못한채로 저녁에 복귀도 못하겠지. 또 그걸 수습하러 다녀야 하니 이쪽은 두배로 손해라구."
+        "ko": "[강철 자경단]\n이 앞에 모인 녀석들이 나가면 아마 돈값 제대로 못한채로 저녁에 복귀도 못하겠지. 또 그걸 수습하러 다녀야 하니 이쪽은 두배로 손해라구.",
+        "en": "[Steel Self-Defense Force]\nIf these guys in front go out, they probably won't even be worth their pay and won't return by evening. And then we'd have to go clean that up, so it's a double loss for us.",
+        "pt": "[Vigilante de Autodefesa]\nSe esses caras da frente saírem, eles provavelmente não valerão seu pagamento e não voltarão à noite. E então teríamos que ir limpar isso, então é uma perda dupla para nós.",
+        "es": "[Autodefensa de Acero]\nSi estos tipos de adelante salen, probablemente no valdrán su paga y no regresarán por la noche. Y luego tendríamos que ir a limpiar eso, así que es una doble pérdida para nosotros."
     },
     "WpQ5DA": {
-        "ko": "[강철 자경단]\n그러다 마침 자네가 눈에 띄었는데, 내 기준에선 뭐 ... 매우 좋아! 합격!! 완전 합격 이라는거지!!"
+        "ko": "[강철 자경단]\n그러다 마침 자네가 눈에 띄었는데, 내 기준에선 뭐 ... 매우 좋아! 합격!! 완전 합격 이라는거지!!",
+        "en": "[Steel Self-Defense Force]\nThen just now, you caught my eye, and by my standards, well... very good! Passed!! Completely passed!!",
+        "pt": "[Vigilante de Autodefesa]\nEntão agora, você chamou minha atenção, e pelos meus padrões, bem... muito bom! Aprovado!! Completamente aprovado!!",
+        "es": "[Autodefensa de Acero]\nY justo ahora, llamaste mi atención, y para mis estándares, bueno... ¡muy bien! ¡¡Aprobado!! ¡¡Completamente aprobado!!"
     },
     "W5Q5DA": {
-        "ko": "난 당신이랑 일 한다고 한 적 없어."
+        "ko": "난 당신이랑 일 한다고 한 적 없어.",
+        "en": "I never said I'd work with you.",
+        "pt": "Eu nunca disse que trabalharia com você.",
+        "es": "Nunca dije que trabajaría contigo."
     },
     "XJQ5DA": {
-        "ko": "[강철 자경단]\n또...또... 그런다!! 그러지말고 형씨. 나랑 일 한번 같이 하자. 사람 좀 살려주는 셈 치고..."
+        "ko": "[강철 자경단]\n또...또... 그런다!! 그러지말고 형씨. 나랑 일 한번 같이 하자. 사람 좀 살려주는 셈 치고...",
+        "en": "[Steel Self-Defense Force]\nAgain... again with that!! Come on, mister. Work with me just once. Do me a solid...",
+        "pt": "[Vigilante de Autodefesa]\nDe novo... de novo com isso!! Qual é, senhor. Trabalhe comigo só uma vez. Me faça um favor...",
+        "es": "[Autodefensa de Acero]\n¡¡Otra vez... otra vez con eso!! Vamos, señor. Trabaja conmigo solo una vez. Hazme el favor..."
     },
     "XZQ5DA": {
-        "ko": "좋아"
+        "ko": "좋아",
+        "en": "Okay",
+        "pt": "Ok",
+        "es": "De acuerdo"
     },
     "XpQ5DA": {
-        "ko": "생각 좀 해보고..."
+        "ko": "생각 좀 해보고...",
+        "en": "Let me think about it...",
+        "pt": "Deixe-me pensar sobre isso...",
+        "es": "Déjame pensarlo..."
     },
     "X5Q5DA": {
-        "ko": "[강철 자경단]\n그래그래 무지 바쁜 냥반인건 알겠어. 하지만 형씨한테도 딱히 나쁜 조건은 아닐거야."
+        "ko": "[강철 자경단]\n그래그래 무지 바쁜 냥반인건 알겠어. 하지만 형씨한테도 딱히 나쁜 조건은 아닐거야.",
+        "en": "[Steel Self-Defense Force]\nYeah, yeah, I get you're a busy adventurer. But it wouldn't be a bad deal for you either.",
+        "pt": "[Vigilante de Autodefesa]\nÉ, é, entendo que você é um aventureiro ocupado. Mas não seria um mau negócio para você também.",
+        "es": "[Autodefensa de Acero]\nSí, sí, entiendo que eres un aventurero ocupado. Pero no sería un mal trato para ti tampoco."
     },
     "YJQ5DA": {
-        "ko": "[강철 자경단]\n일단 찬찬히 내가 일거리를 정리해서 보여줄테니까 잠시후에 날 다시 찾아와줘. 보수는 섭섭치 않게 쳐줄테니까..."
+        "ko": "[강철 자경단]\n일단 찬찬히 내가 일거리를 정리해서 보여줄테니까 잠시후에 날 다시 찾아와줘. 보수는 섭섭치 않게 쳐줄테니까...",
+        "en": "[Steel Self-Defense Force]\nFirst, I'll organize the jobs and show you, so come find me again in a little while. The pay won't be disappointing...",
+        "pt": "[Vigilante de Autodefesa]\nPrimeiro, vou organizar os trabalhos e mostrar para você, então me procure novamente daqui a pouco. O pagamento não será decepcionante...",
+        "es": "[Autodefensa de Acero]\nPrimero, organizaré los trabajos y te los mostraré, así que búscame de nuevo en un rato. La paga no será decepcionante..."
     },
     "YZQ5DA": {
-        "ko": "[강철 자경단]\n당신 정말 굉장한걸? 정말 해 낼 줄은 몰랐단 말이야. 이거 정말 고맙네."
+        "ko": "[강철 자경단]\n당신 정말 굉장한걸? 정말 해 낼 줄은 몰랐단 말이야. 이거 정말 고맙네.",
+        "en": "[Steel Self-Defense Force]\nYou're really amazing, you know? I didn't think you could actually do it. Thank you so much.",
+        "pt": "[Vigilante de Autodefesa]\nVocê é realmente incrível, sabe? Não achei que você realmente conseguiria. Muito obrigado.",
+        "es": "[Autodefensa de Acero]\nEres realmente increíble, ¿sabes? No pensé que realmente pudieras hacerlo. Muchas gracias."
     },
     "YpQ5DA": {
-        "ko": "[강철 자경단]\n해야할 일을 잊은건가? 그럼 다시 알려주지."
+        "ko": "[강철 자경단]\n해야할 일을 잊은건가? 그럼 다시 알려주지.",
+        "en": "[Steel Self-Defense Force]\nDid you forget what you need to do? Then I'll tell you again.",
+        "pt": "[Vigilante de Autodefesa]\nEsqueceu o que precisa fazer? Então vou te contar de novo.",
+        "es": "[Autodefensa de Acero]\n¿Olvidaste lo que debes hacer? Entonces te lo diré de nuevo."
     },
     "Y5Q5DA": {
-        "ko": "[강철 자경단]\n이곳 주변 필드에서 우리에게 가장 큰 위협이 되고 있는 몬스터라면 역시 소적단이지. 지성을 지닌데다 잔혹무도하고 거침이 없어"
+        "ko": "[강철 자경단]\n이곳 주변 필드에서 우리에게 가장 큰 위협이 되고 있는 몬스터라면 역시 소적단이지. 지성을 지닌데다 잔혹무도하고 거침이 없어",
+        "en": "[Steel Self-Defense Force]\nThe monsters that pose the biggest threat to us in the surrounding fields are definitely the Small Gangs. They are intelligent, cruel, and relentless.",
+        "pt": "[Vigilante de Autodefesa]\nOs monstros que representam a maior ameaça para nós nos campos ao redor são definitivamente os Búfalos Bandidos. Eles são inteligentes, cruéis e implacáveis.",
+        "es": "[Autodefensa de Acero]\nLos monstruos que representan la mayor amenaza para nosotros en los campos circundantes son definitivamente las Bandas Pequeñas. Son inteligentes, crueles e implacables."
     },
     "ZJQ5DA": {
-        "ko": "[강철 자경단]\n최근들어 이 마을을 노리고 간헐적으로 습격을 해온단 말이야. 마치 어느정도까지 우리가 버틸 수 있나 가늠해보듯 말이야."
+        "ko": "[강철 자경단]\n최근들어 이 마을을 노리고 간헐적으로 습격을 해온단 말이야. 마치 어느정도까지 우리가 버틸 수 있나 가늠해보듯 말이야.",
+        "en": "[Steel Self-Defense Force]\nLately, they've been intermittently attacking this village. It's as if they're testing how much we can withstand.",
+        "pt": "[Vigilante de Autodefesa]\nUltimamente, eles têm atacado esta vila intermitentemente. É como se estivessem testando o quanto podemos aguentar.",
+        "es": "[Autodefensa de Acero]\nÚltimamente, han estado atacando esta villa intermitentemente. Es como si estuvieran probando cuánto podemos aguantar."
     },
     "ZZQ5DA": {
-        "ko": "[강철 자경단]\n우리가 먼저 본보기를 보여서 그들의 행동을 억제해둘 필요가 있어. 소적단 중에서 ^0000FF장총을 든 녀석들^000000을 15명 정도 처치해 줘."
+        "ko": "[강철 자경단]\n우리가 먼저 본보기를 보여서 그들의 행동을 억제해둘 필요가 있어. 소적단 중에서 ^0000FF장총을 든 녀석들^000000을 15명 정도 처치해 줘.",
+        "en": "[Steel Self-Defense Force]\nWe need to set an example first to suppress their actions. Please defeat about 15 of the Small Gang members ^0000FFwielding long rifles^000000.",
+        "pt": "[Vigilante de Autodefesa]\nPrecisamos dar um exemplo primeiro para suprimir suas ações. Por favor, derrote cerca de 15 membros dos Búfalos Bandidos ^0000FFempunhando rifles longos^000000.",
+        "es": "[Autodefensa de Acero]\nNecesitamos dar un ejemplo primero para suprimir sus acciones. Por favor, derrota a unos 15 miembros de la Banda Pequeña ^0000FFque empuñan rifles largos^000000."
     },
     "ZpQ5DA": {
-        "ko": "[강철 자경단]\n우리가 먼저 본보기를 보여서 그들의 행동을 억제해둘 필요가 있어. 소적단 중에서 ^0000FF붉은 복면을 쓴 녀석들^000000을 15명 정도 처치해 줘."
+        "ko": "[강철 자경단]\n우리가 먼저 본보기를 보여서 그들의 행동을 억제해둘 필요가 있어. 소적단 중에서 ^0000FF붉은 복면을 쓴 녀석들^000000을 15명 정도 처치해 줘.",
+        "en": "[Steel Self-Defense Force]\nWe need to set an example first to suppress their actions. Please defeat about 15 of the Small Gang members ^0000FFwearing red masks^000000.",
+        "pt": "[Vigilante de Autodefesa]\nPrecisamos dar um exemplo primeiro para suprimir suas ações. Por favor, derrote cerca de 15 membros dos Búfalos Bandidos ^0000FFusando máscaras vermelhas^000000.",
+        "es": "[Autodefensa de Acero]\nNecesitamos dar un ejemplo primero para suprimir sus acciones. Por favor, derrota a unos 15 miembros de la Banda Pequeña ^0000FFque usan máscaras rojas^000000."
     },
     "Z5Q5DA": {
-        "ko": "[강철 자경단]\n우리가 먼저 본보기를 보여서 그들의 행동을 억제해둘 필요가 있어. 소적단 중에서 ^0000FF안대를 쓴 녀석들^000000을 15명 정도 처치해 줘."
+        "ko": "[강철 자경단]\n우리가 먼저 본보기를 보여서 그들의 행동을 억제해둘 필요가 있어. 소적단 중에서 ^0000FF안대를 쓴 녀석들^000000을 15명 정도 처치해 줘.",
+        "en": "[Steel Self-Defense Force]\nWe need to set an example first to suppress their actions. Please defeat about 15 of the Small Gang members ^0000FFwearing eye patches^000000.",
+        "pt": "[Vigilante de Autodefesa]\nPrecisamos dar um exemplo primeiro para suprimir suas ações. Por favor, derrote cerca de 15 membros dos Búfalos Bandidos ^0000FFusando tapa-olhos^000000.",
+        "es": "[Autodefensa de Acero]\nNecesitamos dar un ejemplo primero para suprimir sus acciones. Por favor, derrota a unos 15 miembros de la Banda Pequeña ^0000FFque usan parches en los ojos^000000."
     },
     "aJQ5DA": {
-        "ko": "[강철 자경단]\n캑터족과 이 마을은 나름 우호적인 교류를 하고 있는 상태인데 최근 그곳으로 통하는 길목에 코요테가 급격히 불어난 것 같아"
+        "ko": "[강철 자경단]\n캑터족과 이 마을은 나름 우호적인 교류를 하고 있는 상태인데 최근 그곳으로 통하는 길목에 코요테가 급격히 불어난 것 같아",
+        "en": "[Steel Self-Defense Force]\nThe Kacter tribe and this village have a somewhat friendly exchange, but recently it seems the number of Coyotes has rapidly increased on the path leading there.",
+        "pt": "[Vigilante de Autodefesa]\nA tribo Kacter e esta vila têm um intercâmbio um tanto amigável, mas recentemente parece que o número de Coiotes aumentou rapidamente no caminho que leva até lá.",
+        "es": "[Autodefensa de Acero]\nLa tribu Kacter y esta villa tienen un intercambio algo amigable, pero recientemente parece que el número de Coyotes ha aumentado rápidamente en el camino que conduce allí."
     },
     "aZQ5DA": {
-        "ko": "[강철 자경단]\n코요테 자체가 공격적인 녀석들은 아니지만 캑터족들이 코요테 때문에 바깥 활동을 제대로 하질 못하면 그건 좀 문제야."
+        "ko": "[강철 자경단]\n코요테 자체가 공격적인 녀석들은 아니지만 캑터족들이 코요테 때문에 바깥 활동을 제대로 하질 못하면 그건 좀 문제야.",
+        "en": "[Steel Self-Defense Force]\nCoyotes themselves aren't particularly aggressive monsters, but if the Kacter tribe can't properly go outside because of them, that's a problem.",
+        "pt": "[Vigilante de Autodefesa]\nOs Coiotes em si não são monstros particularmente agressivos, mas se a tribo Kacter não consegue sair adequadamente por causa deles, isso é um problema.",
+        "es": "[Autodefensa de Acero]\nLos Coyotes en sí no son monstruos particularmente agresivos, pero si la tribu Kacter no puede salir adecuadamente por culpa de ellos, eso es un problema."
     },
     "apQ5DA": {
-        "ko": "[강철 자경단]\n마을간의 교류를 위해서 ^0000FF코요테^000000를 20마리 정도 처치해 줘."
+        "ko": "[강철 자경단]\n마을간의 교류를 위해서 ^0000FF코요테^000000를 20마리 정도 처치해 줘.",
+        "en": "[Steel Self-Defense Force]\nFor inter-village exchange, please defeat about 20 ^0000FFCoyotes^000000.",
+        "pt": "[Vigilante de Autodefesa]\nPara intercâmbio entre vilas, por favor derrote cerca de 20 ^0000FFCoiotes^000000.",
+        "es": "[Autodefensa de Acero]\nPara el intercambio entre villas, por favor derrota a unos 20 ^0000FFCoyotes^000000."
     },
     "a5Q5DA": {
-        "ko": "[강철 자경단]\n마을의 지하에서 일하던 인부들이 계속해서 사라지고 있어서 원인을 파악해봤는데, 아무래도 몬스터들에게 당한 것 같아."
+        "ko": "[강철 자경단]\n마을의 지하에서 일하던 인부들이 계속해서 사라지고 있어서 원인을 파악해봤는데, 아무래도 몬스터들에게 당한 것 같아.",
+        "en": "[Steel Self-Defense Force]\nWorkers who were working underground in the village keep disappearing. We looked into the cause, and it seems they fell victim to monsters.",
+        "pt": "[Vigilante de Autodefesa]\nTrabalhadores que estavam trabalhando no subterrâneo da vila continuam desaparecendo. Investigamos a causa, e parece que foram vítimas de monstros.",
+        "es": "[Autodefensa de Acero]\nLos trabajadores que trabajaban bajo tierra en la villa siguen desapareciendo. Investigamos la causa, y parece que fueron víctimas de monstruos."
     },
     "bJQ5DA": {
-        "ko": "[강철 자경단]\n습지 아크라우스라고 매우 빠른 육식성 벌레가 그곳에서 개체수를 불리고 있는 모양인데 인부들이 겁을 먹고 작업을 거부하고 있어."
+        "ko": "[강철 자경단]\n습지 아크라우스라고 매우 빠른 육식성 벌레가 그곳에서 개체수를 불리고 있는 모양인데 인부들이 겁을 먹고 작업을 거부하고 있어.",
+        "en": "[Steel Self-Defense Force]\nIt seems a Swamp Arclouse, a very fast carnivorous insect, is increasing its numbers down there. The workers are refusing to work out of fear.",
+        "pt": "[Vigilante de Autodefesa]\nParece que um Arclouse Pantanoso, um inseto carnívoro muito rápido, está aumentando seu número lá embaixo. Os trabalhadores estão se recusando a trabalhar com medo.",
+        "es": "[Autodefensa de Acero]\nParece que una Arácnida del Pantano, un insecto carnívoro muy rápido, está aumentando su número allá abajo. Los trabajadores se niegan a trabajar por miedo."
     },
     "bZQ5DA": {
-        "ko": "[강철 자경단]\n만약 그곳에 갈 일이 있다면 ^0000FF습지 아크라우스^000000 10 마리를 해치워 줘."
+        "ko": "[강철 자경단]\n만약 그곳에 갈 일이 있다면 ^0000FF습지 아크라우스^000000 10 마리를 해치워 줘.",
+        "en": "[Steel Self-Defense Force]\nIf you have business down there, please defeat 10 ^0000FFSwamp Arclouse^000000.",
+        "pt": "[Vigilante de Autodefesa]\nSe você tiver negócios lá embaixo, por favor derrote 10 ^0000FFArclouse Pantanoso^000000.",
+        "es": "[Autodefensa de Acero]\nSi tienes asuntos allá abajo, por favor derrota 10 ^0000FFArácnidas del Pantano^000000."
     },
     "bpQ5DA": {
-        "ko": "[강철 자경단]\n지하에서 실종된 인부들의 사체를 찾았는데, 훼손이 너무 심해서 가족들에게 보여주기도 힘들었다고 하더군"
+        "ko": "[강철 자경단]\n지하에서 실종된 인부들의 사체를 찾았는데, 훼손이 너무 심해서 가족들에게 보여주기도 힘들었다고 하더군",
+        "en": "[Steel Self-Defense Force]\nWe found the bodies of the workers who went missing underground, but they were so badly mutilated we couldn't even show them to their families.",
+        "pt": "[Vigilante de Autodefesa]\nEncontramos os corpos dos trabalhadores que desapareceram no subterrâneo, mas estavam tão mutilados que nem conseguimos mostrá-los às suas famílias.",
+        "es": "[Autodefensa de Acero]\nEncontramos los cuerpos de los trabajadores desaparecidos bajo tierra, pero estaban tan mutilados que ni siquiera pudimos mostrárselos a sus familias."
     },
     "b5Q5DA": {
-        "ko": "[강철 자경단]\n그곳에서 번식하기 시작한 시궁쥐의 소행인것 같은데. 살아있는 사람도 공격한다는 소문이 있어. 그게 사실이라면 매우 큰 일이지."
+        "ko": "[강철 자경단]\n그곳에서 번식하기 시작한 시궁쥐의 소행인것 같은데. 살아있는 사람도 공격한다는 소문이 있어. 그게 사실이라면 매우 큰 일이지.",
+        "en": "[Steel Self-Defense Force]\nIt seems to be the work of Sewer Rats that started breeding down there. There are rumors they attack living people too. If that's true, it's a very big problem.",
+        "pt": "[Vigilante de Autodefesa]\nParece ser obra dos Ratos que começaram a se reproduzir lá embaixo. Há rumores de que eles atacam pessoas vivas também. Se for verdade, é um problema muito grande.",
+        "es": "[Autodefensa de Acero]\nParece que es obra de Ratas de Alcantarilla que comenzaron a reproducirse allá abajo. Hay rumores de que también atacan a personas vivas. Si eso es cierto, es un gran problema."
     },
     "cJQ5DA": {
-        "ko": "[강철 자경단]\n만약 마을 지하로 가게 된다면 ^0000FF시궁쥐^000000 10 마리를 해치워 줘."
+        "ko": "[강철 자경단]\n만약 마을 지하로 가게 된다면 ^0000FF시궁쥐^000000 10 마리를 해치워 줘.",
+        "en": "[Steel Self-Defense Force]\nIf you go to the village underground, please defeat 10 ^0000FFSewer Rats^000000.",
+        "pt": "[Vigilante de Autodefesa]\nSe você for ao subterrâneo da vila, por favor derrote 10 ^0000FFGabirus^000000.",
+        "es": "[Autodefensa de Acero]\nSi vas al subsuelo de la villa, por favor derrota 10 ^0000FFRatas de Alcantarilla^000000."
     },
     "cZQ5DA": {
-        "ko": "[강철 자경단]\n당장 급한 불은 끈 것 같군. 다시 찾게될 일이 있을테니 그때까진 힘을 비축해두라구 형씨."
+        "ko": "[강철 자경단]\n당장 급한 불은 끈 것 같군. 다시 찾게될 일이 있을테니 그때까진 힘을 비축해두라구 형씨.",
+        "en": "[Steel Self-Defense Force]\nIt seems we've put out the immediate fire. I'm sure we'll need you again, so save your strength until then, mister.",
+        "pt": "[Vigilante de Autodefesa]\nParece que apagamos o fogo imediato. Tenho certeza de que precisaremos de você novamente, então guarde suas forças até lá, senhor.",
+        "es": "[Autodefensa de Acero]\nParece que hemos apagado el fuego inmediato. Estoy seguro de que te necesitaremos de nuevo, así que guarda fuerzas hasta entonces, señor."
     },
     "cpQ5DA": {
-        "ko": "의욕에 찬 구직자: 코요테 사냥가시는 분 남는 자리 하나 있으시면 초대 좀..."
+        "ko": "의욕에 찬 구직자: 코요테 사냥가시는 분 남는 자리 하나 있으시면 초대 좀...",
+        "en": "Eager Job Seeker: Anyone going Coyote hunting, if you have a spare spot, please invite me...",
+        "pt": "Desempregado Ansioso: Alguém indo caçar Coiotes, se tiver uma vaga sobrando, por favor me convide...",
+        "es": "Buscador de Empleo Entusiasta: Alguien que vaya a cazar Coyotes, si tienen un lugar libre, por favor invítenme..."
     },
     "c5Q5DA": {
-        "ko": "[강철 자경단]\n하하 관심은 고맙다만 네 손까지 빌릴정도로 우리가 다급하진 않아."
+        "ko": "[강철 자경단]\n하하 관심은 고맙다만 네 손까지 빌릴정도로 우리가 다급하진 않아.",
+        "en": "[Steel Self-Defense Force]\nHaha, I appreciate the interest, but we're not so desperate that we need your help yet.",
+        "pt": "[Vigilante de Autodefesa]\nHaha, agradeço o interesse, mas não estamos tão desesperados a ponto de precisar da sua ajuda ainda.",
+        "es": "[Autodefensa de Acero]\nJaja, agradezco el interés, pero no estamos tan desesperados como para necesitar tu ayuda todavía."
     },
     "dJQ5DA": {
-        "ko": "^0000FF140레벨 이상이 아니면 받을 수 없는 의뢰인 듯 합니다.^000000"
+        "ko": "^0000FF140레벨 이상이 아니면 받을 수 없는 의뢰인 듯 합니다.^000000",
+        "en": "^0000FFIt seems this request cannot be accepted unless you are level 140 or above.^000000",
+        "pt": "^0000FFParece que este pedido não pode ser aceito a menos que você seja nível 140 ou superior.^000000",
+        "es": "^0000FFParece que esta solicitud no se puede aceptar a menos que seas nivel 140 o superior.^000000"
     },
     "dZQ5DA": {
-        "ko": "[강철 자경단]\n음? 우리 자경단 소속은 아니군, 일자리를 원한다면 다른 곳을 찾아보는게 어떤가 친구?"
+        "ko": "[강철 자경단]\n음? 우리 자경단 소속은 아니군, 일자리를 원한다면 다른 곳을 찾아보는게 어떤가 친구?",
+        "en": "[Steel Self-Defense Force]\nHmm? You're not a member of our Self-Defense Force. If you're looking for work, why not try elsewhere, friend?",
+        "pt": "[Vigilante de Autodefesa]\nHmm? Você não é membro da nossa Força de Autodefesa. Se está procurando trabalho, por que não tenta em outro lugar, amigo?",
+        "es": "[Autodefensa de Acero]\n¿Mmm? No eres miembro de nuestra Autodefensa. Si buscas trabajo, ¿por qué no pruebas en otro lado, amigo?"
     },
     "dpQ5DA": {
-        "ko": "[강철 자경단]\n솜씨가 좋군. 다음에도 당신에게 의뢰를 했으면 하는데..."
+        "ko": "[강철 자경단]\n솜씨가 좋군. 다음에도 당신에게 의뢰를 했으면 하는데...",
+        "en": "[Steel Self-Defense Force]\nYou're quite skilled. I'd like to entrust you with requests in the future too...",
+        "pt": "[Vigilante de Autodefesa]\nVocê é bastante habilidoso. Gostaria de confiar pedidos a você no futuro também...",
+        "es": "[Autodefensa de Acero]\nEres bastante hábil. Me gustaría confiarte solicitudes en el futuro también..."
     },
     "d5Q5DA": {
-        "ko": "[강철 자경단]\n해야할 일을 잊은건가? 다시 알려주도록 하지."
+        "ko": "[강철 자경단]\n해야할 일을 잊은건가? 다시 알려주도록 하지.",
+        "en": "[Steel Self-Defense Force]\nDid you forget what you need to do? Let me tell you again.",
+        "pt": "[Vigilante de Autodefesa]\nEsqueceu o que precisa fazer? Deixe-me contar de novo.",
+        "es": "[Autodefensa de Acero]\n¿Olvidaste lo que debes hacer? Déjame decirte de nuevo."
     },
     "eJQ5DA": {
-        "ko": "[강철 자경단]\n소적단 중에서 일개 무리를 이끌정도로 강력한 능력을 지닌 녀석들을 엘리트 소적단이라고 부르고 있는데. 그녀석들에 대한 일이야"
+        "ko": "[강철 자경단]\n소적단 중에서 일개 무리를 이끌정도로 강력한 능력을 지닌 녀석들을 엘리트 소적단이라고 부르고 있는데. 그녀석들에 대한 일이야",
+        "en": "[Steel Self-Defense Force]\nAmong the Small Gangs, there are those strong enough to lead a group; we call them Elite Small Gangs. This is about them.",
+        "pt": "[Vigilante de Autodefesa]\nEntre os Búfalos Bandidos, há aqueles fortes o suficiente para liderar um grupo; nós os chamamos de Búfalos Bandidos de Elite. É sobre eles.",
+        "es": "[Autodefensa de Acero]\nEntre las Bandas Pequeñas, hay aquellos lo suficientemente fuertes como para liderar un grupo; los llamamos Bandas Pequeñas de Élite. Se trata de ellos."
     },
     "eZQ5DA": {
-        "ko": "[강철 자경단]\n장총을 든 소적단을 상대해 봤겠지?. 그중에 ^0000FF눈이 푸르게 빛나는 녀석^000000을 혹시 본 적이 있는지 모르겠군."
+        "ko": "[강철 자경단]\n장총을 든 소적단을 상대해 봤겠지?. 그중에 ^0000FF눈이 푸르게 빛나는 녀석^000000을 혹시 본 적이 있는지 모르겠군.",
+        "en": "[Steel Self-Defense Force]\nYou've fought the Small Gangs with long rifles, right?. I wonder if you've ever seen one among them with ^0000FFglowing blue eyes^000000.",
+        "pt": "[Vigilante de Autodefesa]\nVocê lutou contra os Búfalos Bandidos com rifles longos, certo?. Me pergunto se você já viu um entre eles com ^0000FFolhos brilhando em azul^000000.",
+        "es": "[Autodefensa de Acero]\nHas luchado contra las Bandas Pequeñas con rifles largos, ¿verdad?. Me pregunto si alguna vez has visto a uno entre ellos con ^0000FFojos que brillan en azul^000000."
     },
     "epQ5DA": {
-        "ko": "[강철 자경단]\n그녀석이 장총을 든 소적단을 이끄는 중간 우두머리급 몬스터지. ^0000FF푸르게 빛나는 눈의 장총을 든 소적단^000000을 10명 해치워 줘"
+        "ko": "[강철 자경단]\n그녀석이 장총을 든 소적단을 이끄는 중간 우두머리급 몬스터지. ^0000FF푸르게 빛나는 눈의 장총을 든 소적단^000000을 10명 해치워 줘",
+        "en": "[Steel Self-Defense Force]\nThat guy is a mid-boss level monster leading the rifle-wielding Small Gangs. Defeat 10 ^0000FFSmall Gang members with long rifles and glowing blue eyes^000000.",
+        "pt": "[Vigilante de Autodefesa]\nAquele cara é um monstro de nível subchefe liderando os Búfalos Bandidos com rifles. Derrote 10 ^0000FFmembros dos Búfalos Bandidos com rifles longos e olhos azuis brilhantes^000000.",
+        "es": "[Autodefensa de Acero]\nEse tipo es un monstruo de nivel subjefe que lidera a las Bandas Pequeñas con rifles. Derrota a 10 ^0000FFmiembros de Banda Pequeña con rifles largos y ojos azules brillantes^000000."
     },
     "e5Q5DA": {
-        "ko": "[강철 자경단]\n복면을 쓴 소적단을 상대해 봤겠지?. 그 중에 혹시 ^0000FF녹색 복면을 쓴 자^000000를 만난 적이 있는지 모르겠군."
+        "ko": "[강철 자경단]\n복면을 쓴 소적단을 상대해 봤겠지?. 그 중에 혹시 ^0000FF녹색 복면을 쓴 자^000000를 만난 적이 있는지 모르겠군.",
+        "en": "[Steel Self-Defense Force]\nYou've fought the masked Small Gangs, right?. I wonder if you've ever met one among them with a ^0000FFgreen mask^000000.",
+        "pt": "[Vigilante de Autodefesa]\nVocê lutou contra os Búfalos Bandidos mascaradas, certo?. Me pergunto se você já encontrou um entre eles com uma ^0000FFmáscara verde^000000.",
+        "es": "[Autodefensa de Acero]\nHas luchado contra las Bandas Pequeñas enmascaradas, ¿verdad?. Me pregunto si alguna vez te encontraste con uno entre ellos con una ^0000FFmáscara verde^000000."
     },
     "fJQ5DA": {
-        "ko": "[강철 자경단]\n그녀석이 쌍권총을 든 복면 소적단을 이끄는 중간 우두머리급 몬스터지. ^0000FF녹색 복면을 한 소적단^000000을 10명 해치워 줘"
+        "ko": "[강철 자경단]\n그녀석이 쌍권총을 든 복면 소적단을 이끄는 중간 우두머리급 몬스터지. ^0000FF녹색 복면을 한 소적단^000000을 10명 해치워 줘",
+        "en": "[Steel Self-Defense Force]\nThat guy is a mid-boss level monster leading the dual-pistol wielding masked Small Gangs. Defeat 10 ^0000FFSmall Gang members with green masks^000000.",
+        "pt": "[Vigilante de Autodefesa]\nAquele cara é um monstro de nível subchefe liderando os Búfalos Bandidos mascaradas com pistolas duplas. Derrote 10 ^0000FFmembros dos Búfalos Bandidos com máscaras verdes^000000.",
+        "es": "[Autodefensa de Acero]\nEse tipo es un monstruo de nivel subjefe que lidera a las Bandas Pequeñas enmascaradas con pistolas duales. Derrota a 10 ^0000FFmiembros de Banda Pequeña con máscaras verdes^000000."
     },
     "fZQ5DA": {
-        "ko": "[강철 자경단]\n안대를 쓴 소적단을 상대해 봤겠지?. 그 중에 혹시 ^0000FF옅은 초록색의 조끼를 입은^000000 녀석을 본 적이 있는지 모르겠군."
+        "ko": "[강철 자경단]\n안대를 쓴 소적단을 상대해 봤겠지?. 그 중에 혹시 ^0000FF옅은 초록색의 조끼를 입은^000000 녀석을 본 적이 있는지 모르겠군.",
+        "en": "[Steel Self-Defense Force]\nYou've fought the Small Gangs with eye patches, right?. I wonder if you've ever seen one among them wearing a ^0000FFlight green vest^000000.",
+        "pt": "[Vigilante de Autodefesa]\nVocê lutou contra os Búfalos Bandidos com tapa-olhos, certo?. Me pergunto se você já viu um entre eles vestindo um ^0000FFcolete verde claro^000000.",
+        "es": "[Autodefensa de Acero]\nHas luchado contra las Bandas Pequeñas con parches en los ojos, ¿verdad?. Me pregunto si alguna vez has visto a uno entre ellos vistiendo un ^0000FFchaleco verde claro^000000."
     },
     "fpQ5DA": {
-        "ko": "[강철 자경단]\n그녀석이 칼을 쓰는 소적단을 이끄는 중간 우두머리급 몬스터지. ^0000FF옅은 초록색의 조끼를 입고 안대를 낀 소적단^000000을 10명 해치워 줘"
+        "ko": "[강철 자경단]\n그녀석이 칼을 쓰는 소적단을 이끄는 중간 우두머리급 몬스터지. ^0000FF옅은 초록색의 조끼를 입고 안대를 낀 소적단^000000을 10명 해치워 줘",
+        "en": "[Steel Self-Defense Force]\nThat guy is a mid-boss level monster leading the sword-wielding Small Gangs. Defeat 10 ^0000FFSmall Gang members wearing light green vests and eye patches^000000.",
+        "pt": "[Vigilante de Autodefesa]\nAquele cara é um monstro de nível chefe liderando os Búfalos Bandidos que usam espadas. Derrote 10 ^0000FFmembros dos Búfalos Bandidos com coletes verde claro e tapa-olhos^000000.",
+        "es": "[Autodefensa de Acero]\nEse tipo es un monstruo de nivel subjefe que lidera a las Bandas Pequeñas que usan espadas. Derrota a 10 ^0000FFmiembros de Banda Pequeña con chalecos verde claro y parches en los ojos^000000."
     },
     "f5Q5DA": {
-        "ko": "[강철 자경단]\n광맥을 캐러 다니던 일꾼들이 제보해 온 내용인데, 신경독으로 사람을 마비시키는 가스형 몬스터가 있다고 하더군."
+        "ko": "[강철 자경단]\n광맥을 캐러 다니던 일꾼들이 제보해 온 내용인데, 신경독으로 사람을 마비시키는 가스형 몬스터가 있다고 하더군.",
+        "en": "[Steel Self-Defense Force]\nWorkers mining for ore reported that there's a gas-type monster that paralyzes people with neurotoxin.",
+        "pt": "[Vigilante de Autodefesa]\nTrabalhadores minerando minério relataram que há um monstro tipo gás que paralisa pessoas com neurotoxina.",
+        "es": "[Autodefensa de Acero]\nTrabajadores que extraían minerales reportaron que hay un monstruo tipo gas que paraliza a las personas con neurotoxina."
     },
     "gJQ5DA": {
-        "ko": "[강철 자경단]\n가스터라는 이름의 보라빛을 띄고 있는 몬스터이고 먼저 건드리지 않으면 공격해오진 않는 모양이야. 그렇다고 하더라도 위협이 된다는 사실엔 변함이 없지만..."
+        "ko": "[강철 자경단]\n가스터라는 이름의 보라빛을 띄고 있는 몬스터이고 먼저 건드리지 않으면 공격해오진 않는 모양이야. 그렇다고 하더라도 위협이 된다는 사실엔 변함이 없지만...",
+        "en": "[Steel Self-Defense Force]\nIt's a monster called Gaster, purple in color, and it seems it won't attack unless provoked first. Even so, the fact that it's a threat remains...",
+        "pt": "[Vigilante de Autodefesa]\nÉ um monstro chamado Gaster, roxo na cor, e parece que ele não ataca a menos que seja provocado primeiro. Mesmo assim, o fato de ser uma ameaça permanece...",
+        "es": "[Autodefensa de Acero]\nEs un monstruo llamado Gaster, de color púrpura, y parece que no ataca a menos que lo provoquen primero. Aun así, el hecho de que sea una amenaza permanece..."
     },
     "gZQ5DA": {
-        "ko": "[강철 자경단]\n마을 밖의 광산 내부에서 ^0000FF가스터^000000 를 10마리 처치해 줘."
+        "ko": "[강철 자경단]\n마을 밖의 광산 내부에서 ^0000FF가스터^000000 를 10마리 처치해 줘.",
+        "en": "[Steel Self-Defense Force]\nDefeat 10 ^0000FFGasters^000000 inside the mine outside the village.",
+        "pt": "[Vigilante de Autodefesa]\nDerrote 10 ^0000FFGasters^000000 dentro da mina fora da vila.",
+        "es": "[Autodefensa de Acero]\nDerrota 10 ^0000FFGasters^000000 dentro de la mina fuera de la villa."
     },
     "gpQ5DA": {
-        "ko": "[강철 자경단]\n당신, 꽤나 강해보이니 좀 어려운 일을 맡길까 하는데... 괜찮겠나?"
+        "ko": "[강철 자경단]\n당신, 꽤나 강해보이니 좀 어려운 일을 맡길까 하는데... 괜찮겠나?",
+        "en": "[Steel Self-Defense Force]\nYou seem quite strong, so I was thinking of giving you a more difficult task... Is that alright?",
+        "pt": "[Vigilante de Autodefesa]\nVocê parece bastante forte, então estava pensando em te dar uma tarefa mais difícil... Tudo bem?",
+        "es": "[Autodefensa de Acero]\nPareces bastante fuerte, así que estaba pensando en darte una tarea más difícil... ¿Está bien?"
     },
     "g5Q5DA": {
-        "ko": "[강철 자경단]\n아쉽군, 나중에라도 생각이 바뀌면 날 다시 찾아줬으면 해."
+        "ko": "[강철 자경단]\n아쉽군, 나중에라도 생각이 바뀌면 날 다시 찾아줬으면 해.",
+        "en": "[Steel Self-Defense Force]\nThat's a shame. If you change your mind later, I hope you'll come find me again.",
+        "pt": "[Vigilante de Autodefesa]\nQue pena. Se mudar de ideia depois, espero que me procure novamente.",
+        "es": "[Autodefensa de Acero]\nQué pena. Si cambias de opinión más tarde, espero que me busques de nuevo."
     },
     "hJQ5DA": {
-        "ko": "의욕에 찬 구직자: 장총 소적단 가시는분 1자리 비면 저도 초대 좀..."
+        "ko": "의욕에 찬 구직자: 장총 소적단 가시는분 1자리 비면 저도 초대 좀...",
+        "en": "Eager Job Seeker: Anyone going after the rifle Small Gangs, if you have a spare spot, please invite me...",
+        "pt": "Desempregado Ansioso: Alguém indo atrás das Búfalos Bandidos de rifle, se tiver uma vaga sobrando, por favor me convide...",
+        "es": "Buscador de Empleo Entusiasta: Alguien que vaya tras las Bandas Pequeñas con rifles, si tienen un lugar libre, por favor invítenme..."
     },
     "hZQ5DA": {
-        "ko": "의욕에 찬 구직자: 복면 소적단 가시는분 1자리 비면 저도 초대 좀..."
+        "ko": "의욕에 찬 구직자: 복면 소적단 가시는분 1자리 비면 저도 초대 좀...",
+        "en": "Eager Job Seeker: Anyone going after the masked Small Gangs, if you have a spare spot, please invite me...",
+        "pt": "Desempregado Ansioso: Alguém indo atrás das Búfalos Bandidos mascaradas, se tiver uma vaga sobrando, por favor me convide...",
+        "es": "Buscador de Empleo Entusiasta: Alguien que vaya tras las Bandas Pequeñas enmascaradas, si tienen un lugar libre, por favor invítenme..."
     },
     "hpQ5DA": {
-        "ko": "의욕에 찬 구직자: 안대 소적단 가시는분 1자리 비면 저도 초대 좀..."
+        "ko": "의욕에 찬 구직자: 안대 소적단 가시는분 1자리 비면 저도 초대 좀...",
+        "en": "Eager Job Seeker: Anyone going after the eye-patch Small Gangs, if you have a spare spot, please invite me...",
+        "pt": "Desempregado Ansioso: Alguém indo atrás das Búfalos Bandidos de tapa-olho, se tiver uma vaga sobrando, por favor me convide...",
+        "es": "Buscador de Empleo Entusiasta: Alguien que vaya tras las Bandas Pequeñas con parches, si tienen un lugar libre, por favor invítenme..."
     },
     "h5Q5DA": {
-        "ko": "의욕에 찬 구직자: 가스터 잡으러 가시는분 1자리 비면 저도 초대 좀..."
+        "ko": "의욕에 찬 구직자: 가스터 잡으러 가시는분 1자리 비면 저도 초대 좀...",
+        "en": "Eager Job Seeker: Anyone going to hunt Gasters, if you have a spare spot, please invite me...",
+        "pt": "Desempregado Ansioso: Alguém indo caçar Gasters, se tiver uma vaga sobrando, por favor me convide...",
+        "es": "Buscador de Empleo Entusiasta: Alguien que vaya a cazar Gasters, si tienen un lugar libre, por favor invítenme..."
     },
     "iJQ5DA": {
-        "ko": "담수시설 관리소장"
+        "ko": "담수시설 관리소장",
+        "en": "Freshwater Facility Manager",
+        "pt": "Gerente de Água Potável",
+        "es": "Gerente de la Planta de Agua Dulce"
     },
     "iZQ5DA": {
-        "ko": "[담수시설 관리소장]\n뭐야, 급료를 받아갈 만큼의 실력도 안되는 녀석이 여긴 왜 얼쩡거리고 있어?"
+        "ko": "[담수시설 관리소장]\n뭐야, 급료를 받아갈 만큼의 실력도 안되는 녀석이 여긴 왜 얼쩡거리고 있어?",
+        "en": "[Freshwater Facility Manager]\nWhat's this, a guy who isn't even skilled enough to earn his pay, loitering around here?",
+        "pt": "[Gerente de Água Potável]\nO que é isso, um cara que nem tem habilidade suficiente para ganhar seu pagamento, vagando por aqui?",
+        "es": "[Gerente de la Planta de Agua Dulce]\n¿Qué es esto, un tipo que ni siquiera tiene la habilidad para ganar su paga, merodeando por aquí?"
     },
     "ipQ5DA": {
-        "ko": "[담수시설 관리소장]\n우리 사무소엔 도둑놈이 너무 많아. 이놈도 저놈도 추가 수당 달라고 징징대기나 하지 제대로 일을 할 줄 아는놈은 보이지도 않고 말야!"
+        "ko": "[담수시설 관리소장]\n우리 사무소엔 도둑놈이 너무 많아. 이놈도 저놈도 추가 수당 달라고 징징대기나 하지 제대로 일을 할 줄 아는놈은 보이지도 않고 말야!",
+        "en": "[Freshwater Facility Manager]\nThere are too many thieves in our office. This one and that one just whine for extra pay, but I don't see anyone who actually knows how to work properly!",
+        "pt": "[Gerente de Água Potável]\nHá muitos ladrões em nosso escritório. Este e aquele só choram por pagamento extra, mas não vejo ninguém que realmente saiba trabalhar direito!",
+        "es": "[Gerente de la Planta de Agua Dulce]\n¡Hay demasiados ladrones en nuestra oficina! ¡Este y aquel solo lloriquean por pago extra, pero no veo a nadie que realmente sepa trabajar bien!"
     },
     "i5Q5DA": {
-        "ko": "?????"
+        "ko": "?????",
+        "en": "?????",
+        "pt": "?????",
+        "es": "¿¿¿¿¿?"
     },
     "jJQ5DA": {
-        "ko": "[담수시설 관리소장]\n그래 넌 또 뭘 얼마나 받아가려고 왔나? 미리 말해두지만 가불같은건 어림도 없어."
+        "ko": "[담수시설 관리소장]\n그래 넌 또 뭘 얼마나 받아가려고 왔나? 미리 말해두지만 가불같은건 어림도 없어.",
+        "en": "[Freshwater Facility Manager]\nSo, what did you come to get, and how much? Let me tell you in advance, don't even think about an advance.",
+        "pt": "[Gerente de Água Potável]\nEntão, o que você veio buscar, e quanto? Deixe-me dizer de antemão, nem pense em um adiantamento.",
+        "es": "[Gerente de la Planta de Agua Dulce]\nEntonces, ¿qué viniste a obtener y cuánto? Déjame decirte por adelantado, ni siquiera pienses en un anticipo."
     },
     "jZQ5DA": {
-        "ko": "그냥 지나가는 행인이다"
+        "ko": "그냥 지나가는 행인이다",
+        "en": "I'm just a passerby",
+        "pt": "Sou apenas um transeunte",
+        "es": "Solo soy un transeúnte"
     },
     "jpQ5DA": {
-        "ko": "1억제니를 가불하고싶다."
+        "ko": "1억제니를 가불하고싶다.",
+        "en": "I want a 100 million zeny advance.",
+        "pt": "Quero um adiantamento de 100 milhões de zeny.",
+        "es": "Quiero un anticipo de 100 millones de zeny."
     },
     "j5Q5DA": {
-        "ko": "[담수시설 관리소장]\n..."
+        "ko": "[담수시설 관리소장]\n...",
+        "en": "[Freshwater Facility Manager]\n...",
+        "pt": "[Gerente de Água Potável]\n...",
+        "es": "[Gerente de la Planta de Agua Dulce]\n..."
     },
     "kJQ5DA": {
-        "ko": "[담수시설 관리소장]\n완전히 미쳤군."
+        "ko": "[담수시설 관리소장]\n완전히 미쳤군.",
+        "en": "[Freshwater Facility Manager]\nYou're completely insane.",
+        "pt": "[Gerente de Água Potável]\nVocê está completamente insano.",
+        "es": "[Gerente de la Planta de Agua Dulce]\nEstás completamente loco."
     },
     "kZQ5DA": {
-        "ko": "제이미: 1억 제니를 달라는 사람이면 그만한 능력이 있지 않을까요? 한번 고용해 보시죠 회장님."
+        "ko": "제이미: 1억 제니를 달라는 사람이면 그만한 능력이 있지 않을까요? 한번 고용해 보시죠 회장님.",
+        "en": "Jamie: Someone asking for 100 million zeny probably has the ability, don't you think? Why not hire him, Chairman?",
+        "pt": "Jamie: Alguém pedindo 100 milhões de zeny provavelmente tem a habilidade, não acha? Por que não o contrata, Presidente?",
+        "es": "Jamie: Alguien que pide 100 millones de zeny probablemente tenga la habilidad, ¿no crees? ¿Por qué no lo contratas, Señor Director?"
     },
     "kpQ5DA": {
-        "ko": "[담수시설 관리소장]\n응? 행인이라고? 행인 치고는 몸이 꽤 다부져 보이는데."
+        "ko": "[담수시설 관리소장]\n응? 행인이라고? 행인 치고는 몸이 꽤 다부져 보이는데.",
+        "en": "[Freshwater Facility Manager]\nHuh? A passerby? For a passerby, you look pretty sturdy.",
+        "pt": "[Gerente de Água Potável]\nHã? Um transeunte? Para um transeunte, você parece bem resistente.",
+        "es": "[Gerente de la Planta de Agua Dulce]\n¿Eh? ¿Un transeúnte? Para ser un transeúnte, te ves bastante robusto."
     },
     "k5Q5DA": {
-        "ko": "뭐, 딱히 용무는 없으니 이만..."
+        "ko": "뭐, 딱히 용무는 없으니 이만...",
+        "en": "Well, I have no particular business, so I'll be going...",
+        "pt": "Bem, não tenho nenhum negócio em particular, então vou indo...",
+        "es": "Bueno, no tengo ningún asunto en particular, así que me iré..."
     },
     "lJQ5DA": {
-        "ko": "[담수시설 관리소장]\n잠깐!!!"
+        "ko": "[담수시설 관리소장]\n잠깐!!!",
+        "en": "[Freshwater Facility Manager]\nWait!!!",
+        "pt": "[Gerente de Água Potável]\nEspere!!!",
+        "es": "[Gerente de la Planta de Agua Dulce]\n¡¡¡Espera!!!"
     },
     "lZQ5DA": {
-        "ko": "[담수시설 관리소장]\n잠깐 기다려. 그래..."
+        "ko": "[담수시설 관리소장]\n잠깐 기다려. 그래...",
+        "en": "[Freshwater Facility Manager]\nWait a moment. Okay...",
+        "pt": "[Gerente de Água Potável]\nEspere um momento. Ok...",
+        "es": "[Gerente de la Planta de Agua Dulce]\nEspera un momento. De acuerdo..."
     },
     "lpQ5DA": {
-        "ko": "[담수시설 관리소장]\n이봐! 제이미!! 지금 마을 수로에 인력이 몇명이나 부족하다고 했지?"
+        "ko": "[담수시설 관리소장]\n이봐! 제이미!! 지금 마을 수로에 인력이 몇명이나 부족하다고 했지?",
+        "en": "[Freshwater Facility Manager]\nHey! Jamie!! How many workers did you say we're short for the village water channels?",
+        "pt": "[Gerente de Água Potável]\nEi! Jamie!! Quantos trabalhadores você disse que estão faltando para os canais de água da vila?",
+        "es": "[Gerente de la Planta de Agua Dulce]\n¡Oye! ¡¡Jamie!! ¿Cuántos trabajadores dijiste que nos faltan para los canales de agua de la villa?"
     },
     "l5Q5DA": {
-        "ko": "인력사무소장: 이봐! 제이미!! 지금 마을 수로에 인력이 몇명이나 부족하다고 했지?"
+        "ko": "인력사무소장: 이봐! 제이미!! 지금 마을 수로에 인력이 몇명이나 부족하다고 했지?",
+        "en": "Personnel Manager: Hey! Jamie!! How many workers did you say we're short for the village water channels?",
+        "pt": "Gerente de Pessoal: Ei! Jamie!! Quantos trabalhadores você disse que estão faltando para os canais de água da vila?",
+        "es": "Gerente de Personal: ¡Oye! ¡¡Jamie!! ¿Cuántos trabajadores dijiste que nos faltan para los canales de agua de la villa?"
     },
     "mJQ5DA": {
-        "ko": "[제이미]\n^000077어제 2명이 사라져서 현재 15명이 부족합니다. 다들 거길 내려가기 꺼려하고 있거든요^000000"
+        "ko": "[제이미]\n^000077어제 2명이 사라져서 현재 15명이 부족합니다. 다들 거길 내려가기 꺼려하고 있거든요^000000",
+        "en": "[Jamie]\n^000077Two disappeared yesterday, so we're currently short by 15. Everyone is reluctant to go down there.^000000",
+        "pt": "[Jamie]\n^000077Dois desapareceram ontem, então atualmente faltam 15. Todos estão relutantes em descer lá.^000000",
+        "es": "[Jamie]\n^000077Dos desaparecieron ayer, así que actualmente faltan 15. Todos son reacios a bajar allí.^000000"
     },
     "mZQ5DA": {
-        "ko": "제이미: 어제 2명이 사라져서 현재 15명이 부족합니다. 다들 거길 내려가기 꺼려하고 있거든요"
+        "ko": "제이미: 어제 2명이 사라져서 현재 15명이 부족합니다. 다들 거길 내려가기 꺼려하고 있거든요",
+        "en": "Jamie: Two disappeared yesterday, so we're currently short by 15. Everyone is reluctant to go down there.",
+        "pt": "Jamie: Dois desapareceram ontem, então atualmente faltam 15. Todos estão relutantes em descer lá.",
+        "es": "Jamie: Dos desaparecieron ayer, así que actualmente faltan 15. Todos son reacios a bajar allí."
     },
     "mpQ5DA": {
-        "ko": "[담수시설 관리소장]\n그래. 들었지? 보시다시피 지금 우리 사무소는 인력난에 시달리고 있다."
+        "ko": "[담수시설 관리소장]\n그래. 들었지? 보시다시피 지금 우리 사무소는 인력난에 시달리고 있다.",
+        "en": "[Freshwater Facility Manager]\nSee? You heard. As you can see, our office is suffering from a labor shortage.",
+        "pt": "[Gerente de Água Potável]\nViu? Você ouviu. Como pode ver, nosso escritório está sofrendo com falta de mão de obra.",
+        "es": "[Gerente de la Planta de Agua Dulce]\n¿Ves? Lo oíste. Como puedes ver, nuestra oficina sufre de escasez de mano de obra."
     },
     "m5Q5DA": {
-        "ko": "이렇게나 구직자가 많은데?"
+        "ko": "이렇게나 구직자가 많은데?",
+        "en": "There are so many job seekers here?",
+        "pt": "Há tantos desempregados aqui",
+        "es": "¿Hay tantos buscadores de empleo aquí?"
     },
     "nJQ5DA": {
-        "ko": "내 알바 아니지"
+        "ko": "내 알바 아니지",
+        "en": "Not my problem",
+        "pt": "Não é meu problema",
+        "es": "No es mi problema"
     },
     "nZQ5DA": {
-        "ko": "[담수시설 관리소장]\n아니! 이봐!! 사람말을 끝까지!!!"
+        "ko": "[담수시설 관리소장]\n아니! 이봐!! 사람말을 끝까지!!!",
+        "en": "[Freshwater Facility Manager]\nNo! Hey!! Let me finish!!!",
+        "pt": "[Gerente de Água Potável]\nNão! Ei!! Deixe-me terminar!!!",
+        "es": "[Gerente de la Planta de Agua Dulce]\n¡¡No! ¡¡Oye!! ¡¡Déjame terminar!!!"
     },
     "npQ5DA": {
-        "ko": "[담수시설 관리소장]\n구직자는 많지! 다들 비실비실하고 작업에 써먹지도 못할 인력이라 문제지."
+        "ko": "[담수시설 관리소장]\n구직자는 많지! 다들 비실비실하고 작업에 써먹지도 못할 인력이라 문제지.",
+        "en": "[Freshwater Facility Manager]\nThere are plenty of job seekers! The problem is they're all weaklings and not usable for the work.",
+        "pt": "[Gerente de Água Potável]\nHá muitos candidatos! O problema é que todos são fracotes e não servem para o trabalho.",
+        "es": "[Gerente de la Planta de Agua Dulce]\n¡Hay muchos buscadores de empleo! El problema es que todos son débiles y no son útiles para el trabajo."
     },
     "n5Q5DA": {
-        "ko": "[담수시설 관리소장]\n지금 사람이 턱없이 부족한 공사현장이 있는데. 그게 좀... 아주 약~간 위험하긴 하지만 말야 자네라면 충분히 할 수 있을 것 같거든"
+        "ko": "[담수시설 관리소장]\n지금 사람이 턱없이 부족한 공사현장이 있는데. 그게 좀... 아주 약~간 위험하긴 하지만 말야 자네라면 충분히 할 수 있을 것 같거든",
+        "en": "[Freshwater Facility Manager]\nThere's a construction site right now that's critically short on workers. It's a bit... just a *little* dangerous, but I think someone like you could handle it just fine.",
+        "pt": "[Gerente de Água Potável]\nHá um canteiro de obras agora que está criticamente sem trabalhadores. É um pouco... só um *pouquinho* perigoso, mas acho que alguém como você poderia lidar bem.",
+        "es": "[Gerente de la Planta de Agua Dulce]\nHay un sitio de construcción ahora mismo que críticamente carece de trabajadores. Es un poco... solo un *poquito* peligroso, pero creo que alguien como tú podría manejarlo bien."
     },
     "oJQ5DA": {
-        "ko": "[담수시설 관리소장]\n어때? 한번 같이 일해볼 생각 없나? 보수는 섭섭치 않게 지불하도록 하지."
+        "ko": "[담수시설 관리소장]\n어때? 한번 같이 일해볼 생각 없나? 보수는 섭섭치 않게 지불하도록 하지.",
+        "en": "[Freshwater Facility Manager]\nHow about it? Interested in working together? The pay won't be disappointing.",
+        "pt": "[Gerente de Água Potável]\nQue tal? Interessado em trabalhar junto? O pagamento não será decepcionante.",
+        "es": "[Gerente de la Planta de Agua Dulce]\n¿Qué tal? ¿Interesado en trabajar juntos? La paga no será decepcionante."
     },
     "oZQ5DA": {
-        "ko": "일단 일의 내용을 설명해라."
+        "ko": "일단 일의 내용을 설명해라.",
+        "en": "Explain the job details first.",
+        "pt": "Explique os detalhes do trabalho primeiro.",
+        "es": "Explica los detalles del trabajo primero."
     },
     "opQ5DA": {
-        "ko": "생각해보겠다"
+        "ko": "생각해보겠다",
+        "en": "I'll think about it",
+        "pt": "Vou pensar sobre isso",
+        "es": "Lo pensaré"
     },
     "o5Q5DA": {
-        "ko": "[담수시설 관리소장]\n생각하고 자시고 이건 자네한테도 나쁜 일이 아니야!"
+        "ko": "[담수시설 관리소장]\n생각하고 자시고 이건 자네한테도 나쁜 일이 아니야!",
+        "en": "[Freshwater Facility Manager]\nThinking or not, this isn't a bad deal for you either!",
+        "pt": "[Gerente de Água Potável]\nPensando ou não, isso também não é um mau negócio para você!",
+        "es": "[Gerente de la Planta de Agua Dulce]\n¡Pensar o no, esto tampoco es un mal trato para ti!"
     },
     "pJQ5DA": {
-        "ko": "[담수시설 관리소장]\n일단 찬찬히 설명해 주도록 하지. 이 마을의 지하에는 이전에 바다에 매몰되기 전의 도시가 남아있어."
+        "ko": "[담수시설 관리소장]\n일단 찬찬히 설명해 주도록 하지. 이 마을의 지하에는 이전에 바다에 매몰되기 전의 도시가 남아있어.",
+        "en": "[Freshwater Facility Manager]\nLet me explain carefully. Underground this village lies a city that remained from before it was submerged by the sea.",
+        "pt": "[Gerente de Água Potável]\nDeixe-me explicar com cuidado. Sob esta vila há uma cidade que permaneceu de antes de ser submersa pelo mar.",
+        "es": "[Gerente de la Planta de Agua Dulce]\nDéjame explicarte con cuidado. Bajo esta villa yace una ciudad que quedó de antes de que fuera sumergida por el mar."
     },
     "pZQ5DA": {
-        "ko": "[담수시설 관리소장]\n우리가 완전히 그곳을 매몰하지 못하는 이유는, 이곳의 담수시설이 아래에 남아있기 때문이야."
+        "ko": "[담수시설 관리소장]\n우리가 완전히 그곳을 매몰하지 못하는 이유는, 이곳의 담수시설이 아래에 남아있기 때문이야.",
+        "en": "[Freshwater Facility Manager]\nThe reason we can't completely bury that place is because the freshwater facilities for this area remain below.",
+        "pt": "[Gerente de Água Potável]\nA razão pela qual não podemos enterrar completamente aquele lugar é porque as instalações de água doce para esta área permanecem abaixo.",
+        "es": "[Gerente de la Planta de Agua Dulce]\nLa razón por la que no podemos enterrar completamente ese lugar es porque las instalaciones de agua dulce para esta área permanecen abajo."
     },
     "ppQ5DA": {
-        "ko": "다른 곳에서 물을 얻을 수도 있잖나."
+        "ko": "다른 곳에서 물을 얻을 수도 있잖나.",
+        "en": "Couldn't you get water from elsewhere?",
+        "pt": "Não poderiam obter água de outro lugar?",
+        "es": "¿No podrían obtener agua de otro lugar?"
     },
     "p5Q5DA": {
-        "ko": "[담수시설 관리소장]\n그러기엔 이 주변은 너무 건조한 사막지대야. 해수를 담수로 바꾸는게 훨씬 더 싸게 먹힌다구."
+        "ko": "[담수시설 관리소장]\n그러기엔 이 주변은 너무 건조한 사막지대야. 해수를 담수로 바꾸는게 훨씬 더 싸게 먹힌다구.",
+        "en": "[Freshwater Facility Manager]\nThe surrounding area is too dry, it's a desert region. Converting seawater to freshwater is much cheaper.",
+        "pt": "[Gerente de Água Potável]\nA área ao redor é muito seca, é uma região desértica. Converter água do mar em água doce é muito mais barato.",
+        "es": "[Gerente de la Planta de Agua Dulce]\nEl área circundante es demasiado seca, es una región desértica. Convertir agua de mar en agua dulce es mucho más barato."
     },
     "qJQ5DA": {
-        "ko": "[담수시설 관리소장]\n어쨌든 지하의 담수시설은 아직까진 별다른 문제 없지만 거미줄 처럼 얽힌 배관들은 쉽게 부식되고 망가지기 일수라 계속해서 관리를 해 주고 있는 상태야."
+        "ko": "[담수시설 관리소장]\n어쨌든 지하의 담수시설은 아직까진 별다른 문제 없지만 거미줄 처럼 얽힌 배관들은 쉽게 부식되고 망가지기 일수라 계속해서 관리를 해 주고 있는 상태야.",
+        "en": "[Freshwater Facility Manager]\nAnyway, the underground freshwater facility is still functioning without major issues, but the intricate network of pipes corrodes and breaks easily, so we continuously maintain them.",
+        "pt": "[Gerente de Água Potável]\nDe qualquer forma, a instalação de água doce subterrânea ainda está funcionando sem grandes problemas, mas a intricada rede de canos corrói e quebra facilmente, então nós fazemos manutenção continuamente.",
+        "es": "[Gerente de la Planta de Agua Dulce]\nDe todos modos, la instalación de agua dulce subterránea todavía funciona sin mayores problemas, pero la intrincada red de tuberías se corroe y rompe fácilmente, así que las mantenemos continuamente."
     },
     "qZQ5DA": {
-        "ko": "[담수시설 관리소장]\n헌데 언제부터인가 그곳에 몬스터들이 출몰하기 시작해서 인부들이 작업을 거부하고있지. 그게 보시다시피 이런 상황이야."
+        "ko": "[담수시설 관리소장]\n헌데 언제부터인가 그곳에 몬스터들이 출몰하기 시작해서 인부들이 작업을 거부하고있지. 그게 보시다시피 이런 상황이야.",
+        "en": "[Freshwater Facility Manager]\nBut at some point, monsters started appearing there, and the workers are refusing to work. Hence this situation, as you can see.",
+        "pt": "[Gerente de Água Potável]\nMas em algum ponto, monstros começaram a aparecer lá, e os trabalhadores estão se recusando a trabalhar. Daí esta situação, como você pode ver.",
+        "es": "[Gerente de la Planta de Agua Dulce]\nPero en algún momento, los monstruos comenzaron a aparecer allí, y los trabajadores se niegan a trabajar. De ahí esta situación, como puedes ver."
     },
     "qpQ5DA": {
-        "ko": "내가 거절하면 어떻게 되나?"
+        "ko": "내가 거절하면 어떻게 되나?",
+        "en": "What happens if I refuse?",
+        "pt": "O que acontece se eu recusar?",
+        "es": "¿Qué pasa si me niego?"
     },
     "q5Q5DA": {
-        "ko": "[담수시설 관리소장]\n이 마을은 물을 쓸 수 없게되겠지. 누군가는 해야 할 일이야. 나도 생긴것마냥 돈만 밝히는 그런 사업가인건 아니라구."
+        "ko": "[담수시설 관리소장]\n이 마을은 물을 쓸 수 없게되겠지. 누군가는 해야 할 일이야. 나도 생긴것마냥 돈만 밝히는 그런 사업가인건 아니라구.",
+        "en": "[Freshwater Facility Manager]\nThis village won't have water to use. Someone has to do it. I'm not the kind of businessman who only cares about money, despite appearances.",
+        "pt": "[Gerente de Água Potável]\nEsta vila não terá água para usar. Alguém tem que fazer isso. Não sou o tipo de empresário que só se importa com dinheiro, apesar das aparências.",
+        "es": "[Gerente de la Planta de Agua Dulce]\nEsta villa no tendrá agua para usar. Alguien tiene que hacerlo. No soy el tipo de empresario que solo se preocupa por el dinero, a pesar de las apariencias."
     },
     "rJQ5DA": {
-        "ko": "[담수시설 관리소장]\n어때? 이쯤 되면 할 마음이 생기나? 그래도 아니라면 어쩔 수 없고."
+        "ko": "[담수시설 관리소장]\n어때? 이쯤 되면 할 마음이 생기나? 그래도 아니라면 어쩔 수 없고.",
+        "en": "[Freshwater Facility Manager]\nSo? Feeling inclined to help now? If not, then there's nothing I can do.",
+        "pt": "[Gerente de Água Potável]\nEntão? Sentindo-se inclinado a ajudar agora? Se não, então não há nada que eu possa fazer.",
+        "es": "[Gerente de la Planta de Agua Dulce]\nEntonces, ¿te sientes inclinado a ayudar ahora? Si no, entonces no hay nada que pueda hacer."
     },
     "rZQ5DA": {
-        "ko": "[제이미]\n^000077사장님, 방금 지하에서 연락입니다. 몬스터 습격으로 인부 5명이 또 피해를 입었다고 합니다.^000000"
+        "ko": "[제이미]\n^000077사장님, 방금 지하에서 연락입니다. 몬스터 습격으로 인부 5명이 또 피해를 입었다고 합니다.^000000",
+        "en": "[Jamie]\n^000077Boss, we just got a call from underground. They say 5 more workers were injured in a monster attack.^000000",
+        "pt": "[Jamie]\n^000077Chefe, acabamos de receber uma ligação do subterrâneo. Eles dizem que mais 5 trabalhadores foram feridos em um ataque de monstros.^000000",
+        "es": "[Jamie]\n^000077Jefe, acabamos de recibir una llamada del subsuelo. Dicen que 5 trabajadores más resultaron heridos en un ataque de monstruos.^000000"
     },
     "rpQ5DA": {
-        "ko": "제이미: 사장님, 방금 지하에서 연락입니다. 몬스터 습격으로 인부 5명이 또 피해를 입었다고 합니다."
+        "ko": "제이미: 사장님, 방금 지하에서 연락입니다. 몬스터 습격으로 인부 5명이 또 피해를 입었다고 합니다.",
+        "en": "Jamie: Boss, we just got a call from underground. They say 5 more workers were injured in a monster attack.",
+        "pt": "Jamie: Chefe, acabamos de receber uma ligação do subterrâneo. Eles dizem que mais 5 trabalhadores foram feridos em um ataque de monstros.",
+        "es": "Jamie: Jefe, acabamos de recibir una llamada del subsuelo. Dicen que 5 trabajadores más resultaron heridos en un ataque de monstruos."
     },
     "r5Q5DA": {
-        "ko": "[담수시설 관리소장]\n이런, 난 잠시 저 상황을 처리해야겠군. 나중에라도 맘이 바뀌면 언제든 날 찾아오게."
+        "ko": "[담수시설 관리소장]\n이런, 난 잠시 저 상황을 처리해야겠군. 나중에라도 맘이 바뀌면 언제든 날 찾아오게.",
+        "en": "[Freshwater Facility Manager]\nOh dear, I need to deal with that situation for a moment. If you change your mind later, feel free to come find me anytime.",
+        "pt": "[Gerente de Água Potável]\nNossa, preciso lidar com aquela situação por um momento. Se mudar de ideia depois, sinta-se à vontade para me encontrar a qualquer hora.",
+        "es": "[Gerente de la Planta de Agua Dulce]\nCielos, necesito ocuparme de esa situación un momento. Si cambias de opinión más tarde, no dudes en buscarme cuando quieras."
     },
     "sJQ5DA": {
-        "ko": "[담수시설 관리소장]\n정말 수고 많았네. 오늘 하루는 무사히 이 곳 주민들이 물 걱정 없이 살 수 있겠군."
+        "ko": "[담수시설 관리소장]\n정말 수고 많았네. 오늘 하루는 무사히 이 곳 주민들이 물 걱정 없이 살 수 있겠군.",
+        "en": "[Freshwater Facility Manager]\nYou've worked really hard. Thanks to you, the residents here can live today without worrying about water.",
+        "pt": "[Gerente de Água Potável]\nVocê trabalhou muito. Graças a você, os residentes aqui podem viver hoje sem se preocupar com água.",
+        "es": "[Gerente de la Planta de Agua Dulce]\nTe has esforzado mucho. Gracias a ti, los residentes aquí pueden vivir hoy sin preocuparse por el agua."
     },
     "sZQ5DA": {
-        "ko": "[담수시설 관리소장]\n아직 배관정비가 다 끝나지 않은 모양이군. 곧 단수가 될 것 같은데 서둘러주면 안되겠나?"
+        "ko": "[담수시설 관리소장]\n아직 배관정비가 다 끝나지 않은 모양이군. 곧 단수가 될 것 같은데 서둘러주면 안되겠나?",
+        "en": "[Freshwater Facility Manager]\nIt seems the pipe maintenance isn't finished yet. We might face a water cutoff soon, could you hurry?",
+        "pt": "[Gerente de Água Potável]\nParece que a manutenção dos canos não terminou. Podemos enfrentar um corte de água em breve, você poderia se apressar?",
+        "es": "[Gerente de la Planta de Agua Dulce]\nParece que el mantenimiento de las tuberías no ha terminado. Podríamos enfrentar un corte de agua pronto, ¿podrías apurarte?"
     },
     "spQ5DA": {
-        "ko": "[담수시설 관리소장]\n피곤하지도 않나? 당장은 보수 작업자가 필요없으니 다른 일을 하고 있는건 어떤가?"
+        "ko": "[담수시설 관리소장]\n피곤하지도 않나? 당장은 보수 작업자가 필요없으니 다른 일을 하고 있는건 어떤가?",
+        "en": "[Freshwater Facility Manager]\nAren't you tired? We don't need maintenance workers right now, how about doing another job?",
+        "pt": "[Gerente de Água Potável]\nNão está cansado? Não precisamos de trabalhadores de manutenção agora, que tal fazer outro trabalho?",
+        "es": "[Gerente de la Planta de Agua Dulce]\n¿No estás cansado? No necesitamos trabajadores de mantenimiento ahora, ¿qué tal hacer otro trabajo?"
     },
     "s5Q5DA": {
-        "ko": "[담수시설 관리소장]\n지하에서 일 할 생각이 들었나?"
+        "ko": "[담수시설 관리소장]\n지하에서 일 할 생각이 들었나?",
+        "en": "[Freshwater Facility Manager]\nDid you decide to work underground?",
+        "pt": "[Gerente de Água Potável]\nDecidiu trabalhar no subterrâneo?",
+        "es": "[Gerente de la Planta de Agua Dulce]\n¿Decidiste trabajar bajo tierra?"
     },
     "tJQ5DA": {
-        "ko": "[담수시설 관리소장]\n아쉽군, 나중에라도 생각이 바뀌면 날 다시 찾아주게."
+        "ko": "[담수시설 관리소장]\n아쉽군, 나중에라도 생각이 바뀌면 날 다시 찾아주게.",
+        "en": "[Freshwater Facility Manager]\nThat's a shame. If you change your mind later, please come find me again.",
+        "pt": "[Gerente de Água Potável]\nQue pena. Se mudar de ideia depois, por favor me procure novamente.",
+        "es": "[Gerente de la Planta de Agua Dulce]\nQué pena. Si cambias de opinión más tarde, por favor búscame de nuevo."
     },
     "tZQ5DA": {
-        "ko": "[담수시설 관리소장]\n좋아. 할 일부터 알려주도록 하지. 우선 내 왼쪽에 있는 담수 저장고의 아래에 있는 지하로 통하는 입구를 봐주게"
+        "ko": "[담수시설 관리소장]\n좋아. 할 일부터 알려주도록 하지. 우선 내 왼쪽에 있는 담수 저장고의 아래에 있는 지하로 통하는 입구를 봐주게",
+        "en": "[Freshwater Facility Manager]\nGood. Let me tell you what you need to do. First, look at the entrance to the underground below the freshwater storage tank on my left.",
+        "pt": "[Gerente de Água Potável]\nBom. Deixe-me dizer o que você precisa fazer. Primeiro, olhe a entrada para o subterrâneo abaixo do tanque de armazenamento de água doce à minha esquerda.",
+        "es": "[Gerente de la Planta de Agua Dulce]\nBien. Déjame decirte lo que necesitas hacer. Primero, mira la entrada al subsuelo debajo del tanque de almacenamiento de agua dulce a mi izquierda."
     },
     "tpQ5DA": {
-        "ko": "포탈같이 생긴 출입구 말인가?"
+        "ko": "포탈같이 생긴 출입구 말인가?",
+        "en": "You mean the portal-like entrance?",
+        "pt": "Quer dizer a entrada tipo portal?",
+        "es": "¿Te refieres a la entrada que parece un portal?"
     },
     "t5Q5DA": {
-        "ko": "[담수시설 관리소장]\n그래. 평소에는 닫혀있지만 지하에 용무가 있는 자는 출입이 가능한 곳이야."
+        "ko": "[담수시설 관리소장]\n그래. 평소에는 닫혀있지만 지하에 용무가 있는 자는 출입이 가능한 곳이야.",
+        "en": "[Freshwater Facility Manager]\nYes. It's usually closed, but those with business underground can enter.",
+        "pt": "[Gerente de Água Potável]\nSim. Normalmente está fechada, mas aqueles com negócios no subterrâneo podem entrar.",
+        "es": "[Gerente de la Planta de Agua Dulce]\nSí. Normalmente está cerrada, pero aquellos con asuntos bajo tierra pueden entrar."
     },
     "uJQ5DA": {
-        "ko": "[담수시설 관리소장]\n담수시설 정비외에도 자경단의 의뢰나 하수도 청소를 하러 가는 사람들의 빠른 출입통로라고나 할까."
+        "ko": "[담수시설 관리소장]\n담수시설 정비외에도 자경단의 의뢰나 하수도 청소를 하러 가는 사람들의 빠른 출입통로라고나 할까.",
+        "en": "[Freshwater Facility Manager]\nIt's a quick access passage for those going down for freshwater facility maintenance, Self-Defense Force requests, or sewer cleaning.",
+        "pt": "[Gerente de Água Potável]\nÉ uma passagem de acesso rápido para aqueles que descem para manutenção da instalação de água doce, pedidos da Força de Autodefesa, ou limpeza de esgoto.",
+        "es": "[Gerente de la Planta de Agua Dulce]\nEs un pasaje de acceso rápido para aquellos que bajan por mantenimiento de las instalaciones de agua dulce, solicitudes de la Autodefensa o limpieza de alcantarillas."
     },
     "uZQ5DA": {
-        "ko": "[담수시설 관리소장]\n자네가 할 일은 4가지 종류의 배관을 찾아 그곳에 누수가 발생하지 않도록 단단히 조이는 작업이야."
+        "ko": "[담수시설 관리소장]\n자네가 할 일은 4가지 종류의 배관을 찾아 그곳에 누수가 발생하지 않도록 단단히 조이는 작업이야.",
+        "en": "[Freshwater Facility Manager]\nYour job is to find 4 types of pipes and tighten them firmly so they don't leak.",
+        "pt": "[Gerente de Água Potável]\nSeu trabalho é encontrar 4 tipos de canos e apertá-los firmemente para que não vazem.",
+        "es": "[Gerente de la Planta de Agua Dulce]\nTu trabajo es encontrar 4 tipos de tuberías y ajustarlas firmemente para que no tengan fugas."
     },
     "upQ5DA": {
-        "ko": "[담수시설 관리소장]\n배관은 색상으로 구분되고 있으니까 아마 금방 찾을 수 있을거야. 준비가 되면 왼쪽의 지하통로를 이용해서 들어가도록 해."
+        "ko": "[담수시설 관리소장]\n배관은 색상으로 구분되고 있으니까 아마 금방 찾을 수 있을거야. 준비가 되면 왼쪽의 지하통로를 이용해서 들어가도록 해.",
+        "en": "[Freshwater Facility Manager]\nThe pipes are color-coded, so you should find them quickly. When you're ready, use the underground passage on the left to enter.",
+        "pt": "[Gerente de Água Potável]\nOs canos são codificados por cor, então você deve encontrá-los rapidamente. Quando estiver pronto, use a passagem subterrânea à esquerda para entrar.",
+        "es": "[Gerente de la Planta de Agua Dulce]\nLas tuberías están codificadas por colores, así que deberías encontrarlas rápidamente. Cuando estés listo, usa el pasaje subterráneo a la izquierda para entrar."
     },
     "u5Q5DA": {
-        "ko": "이국의 상인"
+        "ko": "이국의 상인",
+        "en": "Foreign Merchant",
+        "pt": "Comerciante Estrangeiro",
+        "es": "Comerciante Extranjero"
     },
     "vJQ5DA": {
-        "ko": "[이국의 상인]\n응? 만나서 반갑.... 슴미돠만~ . 당쉰~ 여기 올 만한 능력 안되는것 같아요우...."
+        "ko": "[이국의 상인]\n응? 만나서 반갑.... 슴미돠만~ . 당쉰~ 여기 올 만한 능력 안되는것 같아요우....",
+        "en": "[Foreign Merchant]\nHuh? Nice to meet.... ~ but~ . You~ seem to lack the ability to come here....",
+        "pt": "[Comerciante Estrangeiro]\nHã? Muito prazer.... ~ mas~ . Você~ parece carecer da habilidade para vir aqui....",
+        "es": "[Comerciante Extranjero]\n¿Eh? Mucho gusto... ~ pero~ . Tú~ pareces carecer de la habilidad para venir aquí...."
     },
     "vZQ5DA": {
-        "ko": "[이국의 상인]\n만나서 반갑습니돠~\n나 이국 상인. 아브라함 이븐 후딘이라고 합니돠!"
+        "ko": "[이국의 상인]\n만나서 반갑습니돠~\n나 이국 상인. 아브라함 이븐 후딘이라고 합니돠!",
+        "en": "[Foreign Merchant]\nNice to meet you~\nMe foreign merchant. Name Abraham Ibn Houdin!",
+        "pt": "[Comerciante Estrangeiro]\nMuito prazer~\nEu comerciante estrangeiro. Nome Abraham Ibn Houdin!",
+        "es": "[Comerciante Extranjero]\n¡Mucho gusto~\nYo comerciante extranjero. ¡Me llamo Abraham Ibn Houdin!"
     },
     "vpQ5DA": {
-        "ko": "[이국의 상인]\n혹시 나와 거래할만한 귀한 물건 가지고 있어요우?"
+        "ko": "[이국의 상인]\n혹시 나와 거래할만한 귀한 물건 가지고 있어요우?",
+        "en": "[Foreign Merchant]\nPerhaps you have valuable items to trade with me?",
+        "pt": "[Comerciante Estrangeiro]\nTalvez você tenha itens valiosos para negociar comigo?",
+        "es": "[Comerciante Extranjero]\n¿Quizás tienes objetos valiosos para comerciar conmigo?"
     },
     "v5Q5DA": {
-        "ko": "어떤 물건을 말하는지?"
+        "ko": "어떤 물건을 말하는지?",
+        "en": "What kind of items are you talking about?",
+        "pt": "De que tipo de itens você está falando?",
+        "es": "¿De qué tipo de objetos hablas?"
     },
     "wJQ5DA": {
-        "ko": "난 거래같은건 안해!"
+        "ko": "난 거래같은건 안해!",
+        "en": "I don't do things like trade!",
+        "pt": "Eu não faço coisas como negociar!",
+        "es": "¡Yo no hago cosas como comerciar!"
     },
     "wZQ5DA": {
-        "ko": "[이국의 상인]\n오우~! 모험가 난폭합니돠. 이런 야만적인 사람과는 거래할 수 없쒀요우~"
+        "ko": "[이국의 상인]\n오우~! 모험가 난폭합니돠. 이런 야만적인 사람과는 거래할 수 없쒀요우~",
+        "en": "[Foreign Merchant]\nOoh~! Adventurer violent. Cannot trade with such barbaric person~",
+        "pt": "[Comerciante Estrangeiro]\nOoh~! Que violência. Não posso negociar com pessoa tão bárbara~",
+        "es": "[Comerciante Extranjero]\n¡Ooh~! Aventurero violento. No puedo comerciar con persona tan bárbara~"
     },
     "wpQ5DA": {
-        "ko": "[이국의 상인]\n후딘, 세계를 돕니돠~ 귀한 물건 많이많이 삽니돠~ 이번엔 신대륙의 특산품을 모우고 있습니돠~"
+        "ko": "[이국의 상인]\n후딘, 세계를 돕니돠~ 귀한 물건 많이많이 삽니돠~ 이번엔 신대륙의 특산품을 모우고 있습니돠~",
+        "en": "[Foreign Merchant]\nHoudin, help world~ Buy many many precious items~ Currently collecting specialties from new continent~",
+        "pt": "[Comerciante Estrangeiro]\nHoudin, ajudar mundo~ Comprar muitos muitos itens preciosos~ Atualmente coletando especialidades do novo continente~",
+        "es": "[Comerciante Extranjero]\nHoudin, ayudar mundo~ Comprar muchos muchos objetos preciosos~ Actualmente recolectando especialidades de nuevo continente~"
     },
     "w5Q5DA": {
-        "ko": "(발음을 알아듣기가 힘든걸...)"
+        "ko": "(발음을 알아듣기가 힘든걸...)",
+        "en": "(His accent is hard to understand...)",
+        "pt": "(O sotaque dele é difícil de entender...)",
+        "es": "(Su acento es difícil de entender...)"
     },
     "xJQ5DA": {
-        "ko": "[이국의 상인]\n우응? 뭐라고 하셨습니카?"
+        "ko": "[이국의 상인]\n우응? 뭐라고 하셨습니카?",
+        "en": "[Foreign Merchant]\nOong? What did you say?",
+        "pt": "[Comerciante Estrangeiro]\nOong? O que você disse?",
+        "es": "[Comerciante Extranjero]\n¿Oong? ¿Qué dijiste?"
     },
     "xZQ5DA": {
-        "ko": "아니, 잘 듣고 있습니다."
+        "ko": "아니, 잘 듣고 있습니다.",
+        "en": "No, I'm listening carefully.",
+        "pt": "Não, estou ouvindo com atenção.",
+        "es": "No, estoy escuchando con atención."
     },
     "xpQ5DA": {
-        "ko": "무슨 말인지 못 알아 듣겠어요우!"
+        "ko": "무슨 말인지 못 알아 듣겠어요우!",
+        "en": "I can't understand what you're saying!",
+        "pt": "Não consigo entender o que você está dizendo!",
+        "es": "¡No entiendo lo que dices!"
     },
     "x5Q5DA": {
-        "ko": "[이국의 상인]\n모험가!! 너무 합니돠!!"
+        "ko": "[이국의 상인]\n모험가!! 너무 합니돠!!",
+        "en": "[Foreign Merchant]\nAdventurer!! Too much!!",
+        "pt": "[Comerciante Estrangeiro]\nViajante!! Demais!!",
+        "es": "[Comerciante Extranjero]\n¡¡Aventurero!! ¡¡Demasiado!!"
     },
     "yJQ5DA": {
-        "ko": "[이국의 상인]\n어쨌든! 저 후딘. 이곳 개척지의 특별한 물건들을 구함미돠! 모험가도 이곳의 물건 구하면 나게..아니 내게... 주세오!"
+        "ko": "[이국의 상인]\n어쨌든! 저 후딘. 이곳 개척지의 특별한 물건들을 구함미돠! 모험가도 이곳의 물건 구하면 나게..아니 내게... 주세오!",
+        "en": "[Foreign Merchant]\nAnyway! Me Houdin. Seek special items from this frontier! If adventurer get items from here.. give to me... please!",
+        "pt": "[Comerciante Estrangeiro]\nDe qualquer forma! Eu Houdin. Buscar itens especiais desta fronteira! Se aventureiro conseguir itens daqui.. dar para mim... por favor!",
+        "es": "[Comerciante Extranjero]\n¡De todos modos! Yo Houdin. ¡Buscar objetos especiales de esta frontera! Si aventurero consigue objetos de aquí.. darme a mí... ¡por favor!"
     },
     "yZQ5DA": {
-        "ko": "[이국의 상인]\n후딘 가격 잘 쳐드림미돠. 언제든 환영함니돠."
+        "ko": "[이국의 상인]\n후딘 가격 잘 쳐드림미돠. 언제든 환영함니돠.",
+        "en": "[Foreign Merchant]\nHoudin give good price. Welcome anytime.",
+        "pt": "[Comerciante Estrangeiro]\nHoudin dar bom preço. Boas vindas a qualquer hora.",
+        "es": "[Comerciante Extranjero]\nHoudin dar buen precio. Bienvenido cuando quieras."
     },
     "ypQ5DA": {
-        "ko": "[이국의 상인]\n오우~ 오늘은 더 거래 안합니돠~ 내일 옷쎼요우~"
+        "ko": "[이국의 상인]\n오우~ 오늘은 더 거래 안합니돠~ 내일 옷쎼요우~",
+        "en": "[Foreign Merchant]\nOoh~ No more trade today~ Come back tomorrow ok~",
+        "pt": "[Comerciante Estrangeiro]\nOoh~ Sem mais negócios hoje~ Volte amanhã ok~",
+        "es": "[Comerciante Extranjero]\nOoh~ No más comercio hoy~ Vuelve mañana ok~"
     },
     "y5Q5DA": {
-        "ko": "[이국의 상인]\n오늘 후딘과 거래할 물건은 무엇이 있나요우?"
+        "ko": "[이국의 상인]\n오늘 후딘과 거래할 물건은 무엇이 있나요우?",
+        "en": "[Foreign Merchant]\nWhat items do you have to trade with Houdin today?",
+        "pt": "[Comerciante Estrangeiro]\nQuais itens você tem para negociar com Houdin hoje?",
+        "es": "[Comerciante Extranjero]\n¿Qué artículos tienes para comerciar con Houdin hoy?"
     },
     "zJQ5DA": {
-        "ko": "^777777깨끗한 뼈 모자람^000000"
+        "ko": "^777777깨끗한 뼈 모자람^000000",
+        "en": "^777777Clean Bone Shortage^000000",
+        "pt": "^7777775x Osso Lambido^000000",
+        "es": "^777777Escasez de Huesos Limpios^000000"
     },
     "zZQ5DA": {
-        "ko": "^777777맹독가루 모자람^000000"
+        "ko": "^777777맹독가루 모자람^000000",
+        "en": "^777777Deadly Poison Powder Shortage^000000",
+        "pt": "^7777775x Pó Tóxico^000000",
+        "es": "^777777Escasez de Polvo Venenoso Mortal^000000"
     },
     "zpQ5DA": {
-        "ko": "^777777조잡한탄약 모자람^000000"
+        "ko": "^777777조잡한탄약 모자람^000000",
+        "en": "^777777Crude Ammo Shortage^000000",
+        "pt": "^7777775x Munição Ilegal^000000",
+        "es": "^777777Escasez de Munición Toscana^000000"
     },
     "z5Q5DA": {
-        "ko": "^777777도적단스카프 모자람^000000"
+        "ko": "^777777도적단스카프 모자람^000000",
+        "en": "^777777Bandit's Scarf Shortage^000000",
+        "pt": "^7777775x Pano de Bandido^000000",
+        "es": "^777777Escasez de Pañuelo de Bandido^000000"
     },
     "0JQ5DA": {
-        "ko": "^777777갈색머플러 모자람^000000"
+        "ko": "^777777갈색머플러 모자람^000000",
+        "en": "^777777Brown Muffler Shortage^000000",
+        "pt": "^7777775x Lenço Marrom^000000",
+        "es": "^777777Escasez de Buffanda Marrón^000000"
     },
     "0ZQ5DA": {
-        "ko": "^777777고장난샷건 모자람^000000"
+        "ko": "^777777고장난샷건 모자람^000000",
+        "en": "^777777Broken Shotgun Shortage^000000",
+        "pt": "^7777775x Espingarda Quebrada^000000",
+        "es": "^777777Escasez de Escopeta Rota^000000"
     },
     "0pQ5DA": {
-        "ko": "^777777낡은리볼버 모자람^000000"
+        "ko": "^777777낡은리볼버 모자람^000000",
+        "en": "^777777Worn Revolver Shortage^000000",
+        "pt": "^7777775x Revólver Velho^000000",
+        "es": "^777777Escasez de Revólver Gastado^000000"
     },
     "05Q5DA": {
-        "ko": "^777777조잡한시미터 모자람^000000"
+        "ko": "^777777조잡한시미터 모자람^000000",
+        "en": "^777777Crude Scimitar Shortage^000000",
+        "pt": "^7777775x Espada Cega^000000",
+        "es": "^777777Escasez de Cimitarra Tosca^000000"
     },
     "1JQ5DA": {
-        "ko": "^777777습지벌레의껍질 모자람^000000"
+        "ko": "^777777습지벌레의껍질 모자람^000000",
+        "en": "^777777Swamp Bug Shell Shortage^000000",
+        "pt": "^7777775x Pele de Tapuru^000000",
+        "es": "^777777Escasez de Caparazón de Bicho de Pantano^000000"
     },
     "1ZQ5DA": {
-        "ko": "^777777시궁쥐의꼬리 모자람^000000"
+        "ko": "^777777시궁쥐의꼬리 모자람^000000",
+        "en": "^777777Brown Rat Tail Shortage^000000",
+        "pt": "^7777775x Cauda de Gabiru^000000",
+        "es": "^777777Escasez de Cola de Rata Parda^000000"
     },
     "1pQ5DA": {
-        "ko": "깨끗한 뼈 5개"
+        "ko": "깨끗한 뼈 5개",
+        "en": "5x Clean Bone",
+        "pt": "5x Osso Lambido",
+        "es": "5x Hueso Limpio"
     },
     "15Q5DA": {
-        "ko": "맹독가루 5개"
+        "ko": "맹독가루 5개",
+        "en": "5x Deadly Poison Powder",
+        "pt": "5x Pó Tóxico",
+        "es": "5x Polvo Venenoso Mortal"
     },
     "2JQ5DA": {
-        "ko": "조잡한탄약 5개"
+        "ko": "조잡한탄약 5개",
+        "en": "5x Crude Ammo",
+        "pt": "5x Munição Ilegal",
+        "es": "5x Munición Toscana"
     },
     "2ZQ5DA": {
-        "ko": "도적단스카프 5개"
+        "ko": "도적단스카프 5개",
+        "en": "5x Bandit's Scarf",
+        "pt": "5x Pano de Bandido",
+        "es": "5x Pañuelo de Bandido"
     },
     "2pQ5DA": {
-        "ko": "갈색머플러 5개"
+        "ko": "갈색머플러 5개",
+        "en": "5x Brown Muffler",
+        "pt": "5x Lenço Marrom",
+        "es": "5x Buffanda Marrón"
     },
     "25Q5DA": {
-        "ko": "고장난샷건 5개"
+        "ko": "고장난샷건 5개",
+        "en": "5x Broken Shotgun",
+        "pt": "5x Espingarda Quebrada",
+        "es": "5x Escopeta Rota"
     },
     "3JQ5DA": {
-        "ko": "낡은리볼버 5개"
+        "ko": "낡은리볼버 5개",
+        "en": "5x Worn Revolver",
+        "pt": "5x Revólver Velho",
+        "es": "5x Revólver Gastado"
     },
     "3ZQ5DA": {
-        "ko": "조잡한시미터 5개"
+        "ko": "조잡한시미터 5개",
+        "en": "5x Crude Scimitar",
+        "pt": "5x Espada Cega",
+        "es": "5x Cimitarra Tosca"
     },
     "3pQ5DA": {
-        "ko": "습지벌레의껍질 5개"
+        "ko": "습지벌레의껍질 5개",
+        "en": "5x Swamp Bug Shell",
+        "pt": "5x Pele de Tapuru",
+        "es": "5x Caparazón de Bicho de Pantano"
     },
     "35Q5DA": {
-        "ko": "시궁쥐의꼬리 5개"
+        "ko": "시궁쥐의꼬리 5개",
+        "en": "5x Brown Rat Tail",
+        "pt": "5x  Cauda de Gabiru",
+        "es": "5x Cola de Rata Parda"
     },
     "4JQ5DA": {
-        "ko": "취소"
+        "ko": "취소",
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar"
     },
     "4ZQ5DA": {
-        "ko": "[이국의 상인]\n오... 반품입니콰?"
+        "ko": "[이국의 상인]\n오... 반품입니콰?",
+        "en": "[Foreign Merchant]\nO... Is this a return?",
+        "pt": "[Comerciante Estrangeiro]\nO... Isto é uma devolução?",
+        "es": "[Comerciante Extranjero]\nO... ¿Es una devolución?"
     },
     "4pQ5DA": {
-        "ko": "[이국의 상인]\n응? 어디로 간겁니카? 후딘에게 준다던 물건!"
+        "ko": "[이국의 상인]\n응? 어디로 간겁니카? 후딘에게 준다던 물건!",
+        "en": "[Foreign Merchant]\nHuh? Where are you going? Items you promised Houdin!",
+        "pt": "[Comerciante Estrangeiro]\nHã? Para onde está indo? Itens que você prometeu a Houdin!",
+        "es": "[Comerciante Extranjero]\n¿Eh? ¿A dónde vas? ¡Artículos que le prometiste a Houdin!"
     },
     "45Q5DA": {
-        "ko": "[이국의 상인]\n오...이런 물건은 받는다고 한 적 없습니돠~"
+        "ko": "[이국의 상인]\n오...이런 물건은 받는다고 한 적 없습니돠~",
+        "en": "[Foreign Merchant]\nO... I never said I would accept such items~",
+        "pt": "[Comerciante Estrangeiro]\nO... Eu nunca disse que aceitaria tais itens~",
+        "es": "[Comerciante Extranjero]\nO... Nunca dije que aceptaría tales artículos~"
     },
     "5JQ5DA": {
-        "ko": "[이국의 상인]\n좋은 거래였습니돠~. 다른 곳에서 못보던 특이한 물건들입니돠. 후딘 아주 맘에 듭니돠!"
+        "ko": "[이국의 상인]\n좋은 거래였습니돠~. 다른 곳에서 못보던 특이한 물건들입니돠. 후딘 아주 맘에 듭니돠!",
+        "en": "[Foreign Merchant]\nGood trade~. Very unusual items not seen elsewhere. Houdin very pleased!",
+        "pt": "[Comerciante Estrangeiro]\nBom negócio~. Itens muito incomuns não vistos em outros lugares. Houdin muito satisfeito!",
+        "es": "[Comerciante Extranjero]\n¡Buen comercio~. Objetos muy inusuales no vistos en otros lugares. ¡Houdin muy complacido!"
     },
     "5ZQ5DA": {
-        "ko": "붉은 배관"
+        "ko": "붉은 배관",
+        "en": "Red Pipe",
+        "pt": "Cano Vermelho",
+        "es": "Tubería Roja"
     },
     "5pQ5DA": {
-        "ko": "푸른 배관"
+        "ko": "푸른 배관",
+        "en": "Blue Pipe",
+        "pt": "Cano Azul",
+        "es": "Tubería Azul"
     },
     "55Q5DA": {
-        "ko": "노란 배관"
+        "ko": "노란 배관",
+        "en": "Yellow Pipe",
+        "pt": "Cano Amarelo",
+        "es": "Tubería Amarilla"
     },
     "6JQ5DA": {
-        "ko": "하얀 배관"
+        "ko": "하얀 배관",
+        "en": "White Pipe",
+        "pt": "Cano Branco",
+        "es": "Tubería Blanca"
     }
 }

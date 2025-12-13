@@ -5015,5 +5015,6 @@ JobNameTable = {
 	[jobtbl.JT_MANDURING] = "MANDURING",
 	[jobtbl.JT_DARK_LORD2] = "DARK_LORD2",
 	[jobtbl.JT_MISTRESS3] = "MISTRESS2",
-	[jobtbl.JT_TIMEHOLDER3] = "TIMEHOLDER2"
+	[jobtbl.JT_TIMEHOLDER3] = "TIMEHOLDER2",
+	[jobtbl.JT_4_VENDING_MACHINE2] = "4_vending_machine"
 }

@@ -1,185 +1,368 @@
 {
     "YHkzDA": {
-        "ko": "도구 상인"
+        "ko": "도구 상인",
+        "en": "Tool Merchant",
+        "pt": "Comerciante de Ferramentas",
+        "es": "Comerciante de Herramientas"
     },
     "YXkzDA": {
-        "ko": "무기 상인"
+        "ko": "무기 상인",
+        "en": "Weapon Merchant",
+        "pt": "Comerciante de Armas",
+        "es": "Comerciante de Armas"
     },
     "YnkzDA": {
-        "ko": "[무기 상인]\n무기를 구입하시기에는 가방이 무거워 보이는군요.\n가방을 비우고 다시 오시면 판매하도록 하겠습니다."
+        "ko": "[무기 상인]\n무기를 구입하시기에는 가방이 무거워 보이는군요.\n가방을 비우고 다시 오시면 판매하도록 하겠습니다.",
+        "en": "[Weapon Merchant]\nYour bag looks too heavy to purchase weapons.\nCome back after emptying your bag, and I'll sell to you then.",
+        "pt": "[Comerciante de Armas]\nSua mochila parece muito pesada para comprar armas.\nVolte depois de esvaziar seu inventário.",
+        "es": "[Comerciante de Armas]\nParece que tu mochila está muy pesada para comprar armas.\nRegresa después de vaciar tu mochila y entonces te venderé."
     },
     "Y3kzDA": {
-        "ko": "[무기 상인]\n우리 취급 품목은 샷건 및 리볼버, 탄환이에요.\n어떤 물건이 필요하신지 말해 주시면 목록을 보여드리지요."
+        "ko": "[무기 상인]\n우리 취급 품목은 샷건 및 리볼버, 탄환이에요.\n어떤 물건이 필요하신지 말해 주시면 목록을 보여드리지요.",
+        "en": "[Weapon Merchant]\nOur inventory includes shotguns, revolvers, and ammunition.\nTell me what you need, and I'll show you the list.",
+        "pt": "[Comerciante de Armas]\nNossos produtos incluem espingardas, revólveres e munição.\nDiga o que você precisa e eu mostro a lista.",
+        "es": "[Comerciante de Armas]\nNuestros productos incluyen escopetas, revólveres y munición.\nDime qué necesitas y te mostraré la lista."
     },
     "ZHkzDA": {
-        "ko": "샷건"
+        "ko": "샷건",
+        "en": "Shotgun",
+        "pt": "Espingarda",
+        "es": "Escopeta"
     },
     "ZXkzDA": {
-        "ko": "리볼버"
+        "ko": "리볼버",
+        "en": "Revolver",
+        "pt": "Revólver",
+        "es": "Revólver"
     },
     "ZnkzDA": {
-        "ko": "탄환"
+        "ko": "탄환",
+        "en": "Ammunition",
+        "pt": "Munição",
+        "es": "Munición"
     },
     "Z3kzDA": {
-        "ko": "소지품 판매"
+        "ko": "소지품 판매",
+        "en": "Sell Items",
+        "pt": "Vender Itens",
+        "es": "Vender Objetos"
     },
     "aHkzDA": {
-        "ko": "취소"
+        "ko": "취소",
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar"
     },
     "aXkzDA": {
-        "ko": "[무기 상인]\n샷건 말씀이시군요.\n마침 좋은 물건들이 있어요."
+        "ko": "[무기 상인]\n샷건 말씀이시군요.\n마침 좋은 물건들이 있어요.",
+        "en": "[Weapon Merchant]\nShotguns, you say.\nI happen to have some good ones in stock.",
+        "pt": "[Comerciante de Armas]\nEspingardas?\nPor acaso tenho umas boas em estoque.",
+        "es": "[Comerciante de Armas]\nEscopetas, dices.\nPor casualidad tengo unas buenas en stock."
     },
     "ankzDA": {
-        "ko": "[무기 상인]\n리볼버 말씀이시군요.\n마침 쓸만한 물건들이 들어온 참이에요."
+        "ko": "[무기 상인]\n리볼버 말씀이시군요.\n마침 쓸만한 물건들이 들어온 참이에요.",
+        "en": "[Weapon Merchant]\nRevolvers, you say.\nSome usable ones just came in, as it happens.",
+        "pt": "[Comerciante de Armas]\nRevólveres?\nAlguns bem úteis acabaram de chegar.",
+        "es": "[Comerciante de Armas]\nRevólveres, dices.\nJusto acaban de llegar unos bastante útiles."
     },
     "a3kzDA": {
-        "ko": "[무기 상인]\n탄환 말씀이시군요.\n품질은 늘 최상이지요."
+        "ko": "[무기 상인]\n탄환 말씀이시군요.\n품질은 늘 최상이지요.",
+        "en": "[Weapon Merchant]\nAmmunition, you say.\nThe quality is always top-notch.",
+        "pt": "[Comerciante de Armas]\nMunição?\nA qualidade é sempre da melhor.",
+        "es": "[Comerciante de Armas]\nMunición, dices.\nLa calidad siempre es de primera."
     },
     "bHkzDA": {
-        "ko": "[무기 상인]\n저희가 매입하는 물건 목록이라면...\n일단 뭘 가져오셨는지 한번 볼까요?"
+        "ko": "[무기 상인]\n저희가 매입하는 물건 목록이라면...\n일단 뭘 가져오셨는지 한번 볼까요?",
+        "en": "[Weapon Merchant]\nAs for the list of items we buy...\nShall we first take a look at what you've brought?",
+        "pt": "[Comerciante de Armas]\nQuanto aos itens que compramos...\nVamos primeiro ver o que você trouxe?",
+        "es": "[Comerciante de Armas]\nEn cuanto a la lista de cosas que compramos...\n¿Por qué no vemos primero qué has traído?"
     },
     "bXkzDA": {
-        "ko": "[무기 상인]\n다음에 다시 찾아주세요."
+        "ko": "[무기 상인]\n다음에 다시 찾아주세요.",
+        "en": "[Weapon Merchant]\nPlease visit us again next time.",
+        "pt": "[Comerciante de Armas]\nPor favor, nos visite outra hora.",
+        "es": "[Comerciante de Armas]\nPor favor, visítanos otra vez."
     },
     "bnkzDA": {
-        "ko": "방어구 상인"
+        "ko": "방어구 상인",
+        "en": "Armor Merchant",
+        "pt": "Comerciante de Armaduras",
+        "es": "Comerciante de Armaduras"
     },
     "b3kzDA": {
-        "ko": "[방어구 상인]\n뭔가 더 사시기에는 짐이 너무 많으신데요.\n가방을 좀 정리하고 오시는 게 좋겠군요."
+        "ko": "[방어구 상인]\n뭔가 더 사시기에는 짐이 너무 많으신데요.\n가방을 좀 정리하고 오시는 게 좋겠군요.",
+        "en": "[Armor Merchant]\nIt seems you're carrying too much to buy anything more.\nYou should probably organize your bag a bit first.",
+        "pt": "[Comerciante de Armaduras]\nParece que você está carregando peso demais para comprar mais coisas.\nSeria melhor organizar seu inventário primeiro.",
+        "es": "[Comerciante de Armaduras]\nParece que cargas con demasiado para comprar algo más.\nSerá mejor que ordenes un poco tu mochila primero."
     },
     "cHkzDA": {
-        "ko": "[방어구 상인]\n오늘은 영업하지 않는 날입니다.\n일주일에 한 번, 몸과 마음을 정결히 하고 종일 믿음과 감사 안에서 지내는 날이지요."
+        "ko": "[방어구 상인]\n오늘은 영업하지 않는 날입니다.\n일주일에 한 번, 몸과 마음을 정결히 하고 종일 믿음과 감사 안에서 지내는 날이지요.",
+        "en": "[Armor Merchant]\nWe're closed for business today.\nOnce a week, it's a day to purify body and mind and spend the entire day in faith and gratitude.",
+        "pt": "[Comerciante de Armaduras]\nNão estamos abertos hoje.\nUma vez por semana, é um dia para purificar corpo e mente e passar o dia inteiro em fé e gratidão.",
+        "es": "[Comerciante de Armaduras]\nHoy no abrimos.\nUna vez a la semana, es un día para purificar el cuerpo y la mente y pasar el día entero en fe y gratitud."
     },
     "cXkzDA": {
-        "ko": "[방어구 상인]\n...뭐, 화물편이 쉬는 날이기도 하고요."
+        "ko": "[방어구 상인]\n...뭐, 화물편이 쉬는 날이기도 하고요.",
+        "en": "[Armor Merchant]\n...Well, it's also the day the cargo shipments don't run.",
+        "pt": "[Comerciante de Armaduras]\n...Bem, também é o dia que os carregamentos não chegam.",
+        "es": "[Comerciante de Armaduras]\n...Bueno, también es el día que no llegan los cargamentos."
     },
     "cnkzDA": {
-        "ko": "올드스터 로멘스와 웨스턴 그레이스, 깃털모자가"
+        "ko": "올드스터 로멘스와 웨스턴 그레이스, 깃털모자가",
+        "en": "Romantic Gent and Western Grace, and Feather Bonnet",
+        "pt": "Chapéu Romântico, Chapéu do Velho Oeste e Chapéu com Pluma",
+        "es": "Sombrero Romántico y Gracia del Oeste, y Sombrero de Pluma"
     },
     "c3kzDA": {
-        "ko": "솜브레로와 인디안 머리띠, 카우보이 모자가"
+        "ko": "솜브레로와 인디안 머리띠, 카우보이 모자가",
+        "en": "Sombrero and Indian Fillet, Cowboy Hat",
+        "pt": "Sombrero, Penacho e Chapéu de Cowboy",
+        "es": "Sombrero y Cinta Emplumado, Sombrero de Vaquero"
     },
     "dHkzDA": {
-        "ko": "담배와 파이프담배, 흰수염이"
+        "ko": "담배와 파이프담배, 흰수염이",
+        "en": "Cigarette and Pipe, Grampa Beard",
+        "pt": "Cigarro, Cachimbo e Bigode Grisalho",
+        "es": "Cigarrillo y Pipa, Barba gris"
     },
     "dXkzDA": {
-        "ko": "솜브레로와 인디안 머리띠에 카우보이 모자, 그리고 일주일에 한번 극소량 입고되는 의상 인디안 깃털 머리띠가"
+        "ko": "솜브레로와 인디안 머리띠에 카우보이 모자, 그리고 일주일에 한번 극소량 입고되는 의상 인디안 깃털 머리띠가",
+        "en": "Sombrero and Indian Fillet and Cowboy Hat, and the [Costume] Indian Feather Headband which comes in extremely limited quantities once a week.",
+        "pt": "Sombrero, Penacho e Chapéu de Cowboy. AH! E o [Visual] Cocar Indígena, que chega em quantidade limitada uma vez por semana.",
+        "es": "Sombrero y Cinta Emplumado y Sombrero de Vaquero, y el [Disfraz] Cinta India de Plumas que llega en cantidades extremadamente limitadas una vez por semana."
     },
     "dnkzDA": {
-        "ko": "[방어구 상인]\n안녕하세요, 락 릿지 방어구 상점입니다.\n오늘은 {0} 입고되었습니다만..."
+        "ko": "[방어구 상인]\n안녕하세요, 락 릿지 방어구 상점입니다.\n오늘은 {0} 입고되었습니다만...",
+        "en": "[Armor Merchant]\nHello, welcome to Rockridge Armor Shop.\nToday, we have {0} in stock, but...",
+        "pt": "[Comerciante de Armaduras]\nBoas vindas à Loja de Armaduras de Rockridge.\nNo estoque de hoje, temos {0}, mas...",
+        "es": "[Comerciante de Armaduras]\nHola, bienvenido a la Tienda de Armaduras de Rockridge.\nHoy tenemos {0} en stock, pero..."
     },
     "d3kzDA": {
-        "ko": "[방어구 상인]\n무기와 달리, 방어구는 매주 오는 화물편에 의지하고 있어서 물건이 부족하거든요.\n목록을 보여드릴 텐데, 혹시 ^0000CD아무 것도 나오지 않으면 전부 팔린 겁니다^000000."
+        "ko": "[방어구 상인]\n무기와 달리, 방어구는 매주 오는 화물편에 의지하고 있어서 물건이 부족하거든요.\n목록을 보여드릴 텐데, 혹시 ^0000CD아무 것도 나오지 않으면 전부 팔린 겁니다^000000.",
+        "en": "[Armor Merchant]\nUnlike weapons, we rely on the weekly cargo shipments for armor, so we often run short.\nI'll show you the list, but ^0000CDif nothing appears, it means everything is sold out^000000.",
+        "pt": "[Comerciante de Armaduras]\nDiferente das armas, dependemos dos carregamentos semanais para armaduras, então muitas vezes ficamos sem estoque.\nVou mostrar a lista, mas ^0000CDse nada aparecer, é porque tudo foi vendido^000000.",
+        "es": "[Comerciante de Armaduras]\nA diferencia de las armas, dependemos de los cargamentos semanales para la armadura, así que a menudo nos quedamos sin stock.\nTe mostraré la lista, pero ^0000CDsi no aparece nada, es que todo está vendido^000000."
     },
     "eHkzDA": {
-        "ko": "[방어구 상인]\n그런 이유로 ^0000CD따로 할인을 해드리기도 어렵습니다^000000만...\n그래도 ^0000CD다른 곳에서는 구하기 번거로운 상품들을 어렵게 수급해서 팔고 있으니^000000, 한번 보시지요."
+        "ko": "[방어구 상인]\n그런 이유로 ^0000CD따로 할인을 해드리기도 어렵습니다^000000만...\n그래도 ^0000CD다른 곳에서는 구하기 번거로운 상품들을 어렵게 수급해서 팔고 있으니^000000, 한번 보시지요.",
+        "en": "[Armor Merchant]\nFor that reason, ^0000CDit's also difficult for me to offer any special discounts^000000...\nNevertheless, ^0000CDI go through the trouble of sourcing items that are hard to find elsewhere^000000, so please take a look.",
+        "pt": "[Comerciante de Armaduras]\nPor isso, também é difícil para oferecer ^0000CDDesconto^000000...\nMesmo assim, me esforço para conseguir ^0000CDitens difíceis^000000 de encontrar em outros lugares, então por favor, dê uma olhada.",
+        "es": "[Comerciante de Armaduras]\nPor esa razón, ^0000CDtambién es difícil para mí ofrecer descuentos especiales^000000...\nSin embargo, ^0000CDme esfuerzo por conseguir artículos difíciles de encontrar en otros lugares^000000, así que por favor échale un vistazo."
     },
     "eXkzDA": {
-        "ko": "온화한 부인"
+        "ko": "온화한 부인",
+        "en": "Gentle Lady",
+        "pt": "Dona Generosa",
+        "es": "Señora Amable"
     },
     "enkzDA": {
-        "ko": "[온화한 부인]\n기운 좋은 모험가님이시네요. 그렇게 무거운 가방을 들고 다니다니."
+        "ko": "[온화한 부인]\n기운 좋은 모험가님이시네요. 그렇게 무거운 가방을 들고 다니다니.",
+        "en": "[Gentle Lady]\nMy, you look like an energetic adventurer. Carrying such a heavy bag around.",
+        "pt": "[Dona Generosa]\nOra, você parece ter muita energia. Carregando uma mochila tão pesada.",
+        "es": "[Señora Amable]\nVaya, pareces un aventurero lleno de energía. Cargando con una mochila tan pesada."
     },
     "e3kzDA": {
-        "ko": "[온화한 부인]\n가방 정리를 하고 싶으시다면 카프라 직원분은 보안관 사무실 쪽으로 가다 보면 계신답니다."
+        "ko": "[온화한 부인]\n가방 정리를 하고 싶으시다면 카프라 직원분은 보안관 사무실 쪽으로 가다 보면 계신답니다.",
+        "en": "[Gentle Lady]\nIf you want to organize your bag, you can find the Kafra employee near the Sheriff's office.",
+        "pt": "[Dona Generosa]\nSe quiser organizar seu inventário, você pode falar com a Kafra perto do escritório do Xerife.",
+        "es": "[Señora Amable]\nSi quieres organizar tu mochila, puedes encontrar al empleada de Kafra cerca de la oficina del Sheriff."
     },
     "fHkzDA": {
-        "ko": "[온화한 부인]\n열정 넘치는 모험가님이로군요. 보기 참 좋네.\n그런데 혹시, ...^0000CD그거^000000 필요해요?"
+        "ko": "[온화한 부인]\n열정 넘치는 모험가님이로군요. 보기 참 좋네.\n그런데 혹시, ...^0000CD그거^000000 필요해요?",
+        "en": "[Gentle Lady]\nWhat a passionate adventurer. Lovely to see.\nBut by any chance... do you need ^0000CDthat^000000?",
+        "pt": "[Dona Generosa]\nQue bom ver você.\nPor acaso... você precisa ^0000CDdaquilo^000000?",
+        "es": "[Señora Amable]\nQué aventurero tan apasionado. Es un gusto verlo.\nPero, casualmente... ¿necesitas ^0000CDeso^000000?"
     },
     "fXkzDA": {
-        "ko": "그거라니요?"
+        "ko": "그거라니요?",
+        "en": "What do you mean by 'that'?",
+        "pt": "O seria 'daquilo'?",
+        "es": "¿A qué te refieres con 'eso'?"
     },
     "fnkzDA": {
-        "ko": "필요합니다."
+        "ko": "필요합니다.",
+        "en": "Yes, I need it.",
+        "pt": "Sim, eu preciso.",
+        "es": "Sí, lo necesito."
     },
     "f3kzDA": {
-        "ko": "[온화한 부인]\n아이 참, 모르는 척 하기는. 락 릿지에서만 파는 특별한 방어구 말이에요."
+        "ko": "[온화한 부인]\n아이 참, 모르는 척 하기는. 락 릿지에서만 파는 특별한 방어구 말이에요.",
+        "en": "[Gentle Lady]\nOh dear, playing dumb, are we? I'm talking about the special armor sold only in Rockridge.",
+        "pt": "[Dona Generosa]\nAh, fingindo que não sabe, é? Estou falando das armaduras vendidas somente em Rockridge.",
+        "es": "[Señora Amable]\nAy, cielos, haciéndose el despistado, ¿eh? Hablo de la armadura especial que sólo venden en Rockridge."
     },
     "gHkzDA": {
-        "ko": "[온화한 부인]\n방어구 상점에 매주 금요일마다 들어온다고 하더라구요. 워낙 빨리 팔려나가서 나도 가끔밖에 못 본답니다."
+        "ko": "[온화한 부인]\n방어구 상점에 매주 금요일마다 들어온다고 하더라구요. 워낙 빨리 팔려나가서 나도 가끔밖에 못 본답니다.",
+        "en": "[Gentle Lady]\nI hear it comes in every Friday at the armor shop. It sells out so fast I hardly ever get to see it myself.",
+        "pt": "[Dona Generosa]\nOuvi dizer que chega toda sexta-feira na loja de armaduras. Vende tão rápido que eu mesma quase nunca consigo ver.",
+        "es": "[Señora Amable]\nOigo que llega todos los viernes a la tienda de armaduras. Se vende tan rápido que yo misma casi nunca logro verla."
     },
     "gXkzDA": {
-        "ko": "[온화한 부인]\n후후... ^0000CD걸치는 거^000000, 아니면 ^0000CD꽂거나 다는 거^000000?"
+        "ko": "[온화한 부인]\n후후... ^0000CD걸치는 거^000000, 아니면 ^0000CD꽂거나 다는 거^000000?",
+        "en": "[Gentle Lady]\nHoho... ^0000CDSomething you wear over your shoulders^000000, or ^0000CDsomething you pin or attach^000000?",
+        "pt": "[Dona Generosa]\nHoho...  uma ^0000CDcapa^000000 ou uma ^0000CDarmadura^000000?",
+        "es": "[Señora Amable]\nJuju... ¿^0000CDAlgo que te pones sobre los hombros^000000, o ^0000CDalgo que prendes o sujetas^000000?"
     },
     "gnkzDA": {
-        "ko": "어... 아무거나요."
+        "ko": "어... 아무거나요.",
+        "en": "Uh... Anything is fine.",
+        "pt": "Hm... Tanto faz.",
+        "es": "Eh... Lo que sea."
     },
     "g3kzDA": {
-        "ko": "걸치는 것"
+        "ko": "걸치는 것",
+        "en": "Something you wear over your shoulders",
+        "pt": "Capa",
+        "es": "Algo que te pones sobre los hombros"
     },
     "hHkzDA": {
-        "ko": "꽂거나 다는 것"
+        "ko": "꽂거나 다는 것",
+        "en": "Something you pin or attach",
+        "pt": "Armadura",
+        "es": "Algo que prendes o sujetas"
     },
     "hXkzDA": {
-        "ko": "[온화한 부인]\n후후후... 그래요. 젊을 땐 아무 거나 입고 다녀도 예쁘지.\n그래도 뭔가 특별한 게 필요하다면 방어구 상점에 가봐요."
+        "ko": "[온화한 부인]\n후후후... 그래요. 젊을 땐 아무 거나 입고 다녀도 예쁘지.\n그래도 뭔가 특별한 게 필요하다면 방어구 상점에 가봐요.",
+        "en": "[Gentle Lady]\nHohoho... I see. When you're young, you look good in anything you wear.\nBut if you need something special, go check the armor shop.",
+        "pt": "[Dona Generosa]\nHohoho... Entendo. Quando se é jovem, fica bem com qualquer coisa que veste.\nMas se precisa de algo especial, vá dar uma olhada na loja de armaduras.",
+        "es": "[Señora Amable]\nJujuju... Ya veo. Cuando eres joven, te ves bien con cualquier cosa que te pongas.\nPero si necesitas algo especial, ve a la tienda de armaduras."
     },
     "hnkzDA": {
-        "ko": "[온화한 부인]\n원하는 걸 고르면 설명해 줄게요.\n가격은 전부 똑같이 ^0000CD3,000,000제니^000000랍니다."
+        "ko": "[온화한 부인]\n원하는 걸 고르면 설명해 줄게요.\n가격은 전부 똑같이 ^0000CD3,000,000제니^000000랍니다.",
+        "en": "[Gentle Lady]\nChoose what you want, and I'll explain it.\nThe price is the same for all: ^0000CD3,000,000 Zeny^000000.",
+        "pt": "[Dona Generosa]\nEscolha o que quer e eu explico.\nO preço é o mesmo para todos: ^0000CD3.000.000 Zeny^000000.",
+        "es": "[Señora Amable]\nElige lo que quieras y te lo explicaré.\nEl precio es el mismo para todos: ^0000CD3,000,000 Zeny^000000."
     },
     "h3kzDA": {
-        "ko": "원소의 망토"
+        "ko": "원소의 망토",
+        "en": "Elemental Cloak",
+        "pt": "Capa dos Elementos",
+        "es": "Capa Elemental"
     },
     "iHkzDA": {
-        "ko": "골든 스카프"
+        "ko": "골든 스카프",
+        "en": "Golden Scarf",
+        "pt": "Cachecol Ninja",
+        "es": "Pañuelo Dorado"
     },
     "iXkzDA": {
-        "ko": "마인워커 백 팩"
+        "ko": "마인워커 백 팩",
+        "en": "Minewalker Backpack",
+        "pt": "Mochila Mineradora",
+        "es": "Mochila Minewalker"
     },
     "inkzDA": {
-        "ko": "무슨 말씀인지 잘 모르겠어요."
+        "ko": "무슨 말씀인지 잘 모르겠어요.",
+        "en": "I don't really understand what you're talking about.",
+        "pt": "Não tô entendendo...",
+        "es": "Realmente no entiendo de qué estás hablando."
     },
     "i3kzDA": {
-        "ko": "원소의 망토"
+        "ko": "원소의 망토",
+        "en": "Elemental Cloak",
+        "pt": "Capa dos Elementos",
+        "es": "Capa Elemental"
     },
     "jHkzDA": {
-        "ko": "골든 스카프"
+        "ko": "골든 스카프",
+        "en": "Golden Scarf",
+        "pt": "Cachecol Ninja",
+        "es": "Pañuelo Dorado"
     },
     "jXkzDA": {
-        "ko": "마인워커 백 팩"
+        "ko": "마인워커 백 팩",
+        "en": "Minewalker Backpack",
+        "pt": "Mochila Mineradora",
+        "es": "Mochila Minewalker"
     },
     "jnkzDA": {
-        "ko": "[온화한 부인]\n아이 참, 내 정신 좀 봐. 순진한 모험가님에게 모를 소리를 했네.\n지금 들은 말은 모두 잊어요. 알았지? 안 그러면 곤란해질지도 모른답니다."
+        "ko": "[온화한 부인]\n아이 참, 내 정신 좀 봐. 순진한 모험가님에게 모를 소리를 했네.\n지금 들은 말은 모두 잊어요. 알았지? 안 그러면 곤란해질지도 모른답니다.",
+        "en": "[Gentle Lady]\nOh dear, look at me, losing my mind. Talking nonsense to an innocent adventurer.\nForget everything you just heard. Understand? It might get complicated if you don't.",
+        "pt": "[Dona Generosa]\nAh, querido, olha para mim, perdendo a cabeça. Falando nonsense para um aventureiro inocente.\nEsqueça tudo o que ouviu. Entendeu? Pode ficar complicado se não fizer isso.",
+        "es": "[Señora Amable]\nAy, cielos, mírame, perdiendo la cabeza. Diciendo tonterías a un aventurero inocente.\nOlvida todo lo que acabas de oír. ¿Entendido? Podría complicarse las cosas si no lo haces."
     },
     "j3kzDA": {
-        "ko": "[온화한 부인]\n어디 보자, [<ITEM>{0}<INFO>{1}</INFO></ITEM>]에 관심이 있으신가.\n이름을 클릭하면 자세한 내용을 볼 수 있어요.\n가격은 말씀드렸다시피 ^0000CD3,000,000제니^000000. 살 거예요?"
+        "ko": "[온화한 부인]\n어디 보자, [<ITEM>{0}<INFO>{1}</INFO></ITEM>]에 관심이 있으신가.\n이름을 클릭하면 자세한 내용을 볼 수 있어요.\n가격은 말씀드렸다시피 ^0000CD3,000,000제니^000000. 살 거예요?",
+        "en": "[Gentle Lady]\nLet's see, are you interested in [<ITEM>{0}<INFO>{1}</INFO></ITEM>].\nYou can click the name to see the details.\nThe price, as I mentioned, is ^0000CD3,000,000 Zeny^000000. Will you buy it?",
+        "pt": "[Dona Generosa]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]?\nLeia a descrição atentamente.\nO preço é ^0000CD3.000.000 Zeny^000000. Vai comprar?",
+        "es": "[Señora Amable]\nVeamos, ¿estás interesado en [<ITEM>{0}<INFO>{1}</INFO></ITEM>]?\nPuedes hacer clic en el nombre para ver los detalles.\nEl precio, como mencioné, es ^0000CD3,000,000 Zeny^000000. ¿Lo comprarás?"
     },
     "kHkzDA": {
-        "ko": "사겠습니다."
+        "ko": "사겠습니다.",
+        "en": "I'll buy it.",
+        "pt": "Vou comprar.",
+        "es": "Lo compraré."
     },
     "kXkzDA": {
-        "ko": "안 삽니다."
+        "ko": "안 삽니다.",
+        "en": "I won't buy it.",
+        "pt": "Não vou comprar.",
+        "es": "No lo compraré."
     },
     "knkzDA": {
-        "ko": "[온화한 부인]\n이런, 곤란하네. 모험가님이 가진 돈이 이 아이들을 데려가기엔 부족하시군요.\n여기서 기다리고 있을 테니, 다음에 다시 와요."
+        "ko": "[온화한 부인]\n이런, 곤란하네. 모험가님이 가진 돈이 이 아이들을 데려가기엔 부족하시군요.\n여기서 기다리고 있을 테니, 다음에 다시 와요.",
+        "en": "[Gentle Lady]\nOh dear, this is troublesome. The money you have isn't enough to take these items home.\nI'll be waiting here, so come back another time.",
+        "pt": "[Dona Generosa]\nAh, isso é problemático. O dinheiro que você tem não é suficiente para levar estes itens para casa.\nFicarei esperando aqui, então volte outra hora.",
+        "es": "[Señora Amable]\nAy, esto es problemático. El dinero que tienes no es suficiente para llevarte estos artículos a casa.\nEstaré esperando aquí, así que regresa en otro momento."
     },
     "k3kzDA": {
-        "ko": "[온화한 부인]\n그래요, 자. 여기 내 줄게요, {0}."
+        "ko": "[온화한 부인]\n그래요, 자. 여기 내 줄게요, {0}.",
+        "en": "[Gentle Lady]\nAlright, here you go. Here's your {0}.",
+        "pt": "[Dona Generosa]\nCerto, aqui está o item '{0}'.",
+        "es": "[Señora Amable]\nMuy bien, aquí tienes. Toma tu {0}."
     },
     "lHkzDA": {
-        "ko": "[온화한 부인]\n사람의 눈은 의외로 현혹되기 쉽죠. 이 사연있는 아이들을 이런 나이든 여자가 팔고 있으리라고는 보통 생각을 못하거든요.\n다음에 필요해지면 또 오세요. 난 늘 여기 있을 거랍니다. 후후..."
+        "ko": "[온화한 부인]\n사람의 눈은 의외로 현혹되기 쉽죠. 이 사연있는 아이들을 이런 나이든 여자가 팔고 있으리라고는 보통 생각을 못하거든요.\n다음에 필요해지면 또 오세요. 난 늘 여기 있을 거랍니다. 후후...",
+        "en": "[Gentle Lady]\nPeople's eyes are surprisingly easy to deceive. They usually don't think an old woman like me would be selling these items with such history.\nCome back if you need more. I'll always be here. Hoho...",
+        "pt": "[Dona Generosa]\nOs olhos das pessoas são surpreendentemente fáceis de enganar. Normalmente não pensam que uma mulher velha como eu venderia estes itens com tanta história.\nVolte se precisar de mais. Estarei sempre aqui. Hoho...",
+        "es": "[Señora Amable]\nLos ojos de la gente son sorprendentemente fáciles de engañar. Normalmente no piensan que una mujer mayor como yo vendería estos objetos con tanta historia.\nRegresa si necesitas más. Siempre estaré aquí. Juju..."
     },
     "lXkzDA": {
-        "ko": "[온화한 부인]\n후후... 여기까지 이야기를 들어 놓고 그냥 가겠다니 곤란한 모험가님이시네.\n사연이 있는 아이들을 두고 가면 요 녀석들, 못된 마음을 품을지도 몰라요."
+        "ko": "[온화한 부인]\n후후... 여기까지 이야기를 들어 놓고 그냥 가겠다니 곤란한 모험가님이시네.\n사연이 있는 아이들을 두고 가면 요 녀석들, 못된 마음을 품을지도 몰라요.",
+        "en": "[Gentle Lady]\nHoho... It's troublesome, adventurer, to have listened this far and then just leave.\nIf you leave these items with their stories behind, they might start harboring ill intentions.",
+        "pt": "[Dona Generosa]\nOh... Ter ouvido tudinho e depois simplesmente ir embora...\nSe você deixar estes itens para trás, eles podem começar a se esgotarem.",
+        "es": "[Señora Amable]\nJuju... Es problemático, aventurero, haber escuchado hasta aquí y luego simplemente irte.\nSi dejas estos objetos con sus historias atrás, podrían empezar a albergar malas intenciones."
     },
     "lnkzDA": {
-        "ko": "[온화한 부인]\n그러니 오늘 나눈 이야기는 다른 아무에게도 이야기하면 안 되는 것... 물론 알고 있겠지요?\n다음에 또 온다고 약속한다면, 내 이 아이들은 잘 타일러서 얌전하게 만들어 둘게요."
+        "ko": "[온화한 부인]\n그러니 오늘 나눈 이야기는 다른 아무에게도 이야기하면 안 되는 것... 물론 알고 있겠지요?\n다음에 또 온다고 약속한다면, 내 이 아이들은 잘 타일러서 얌전하게 만들어 둘게요.",
+        "en": "[Gentle Lady]\nSo, you must never tell anyone else about our conversation today... You understand, of course?\nIf you promise to come again, I'll talk to these items and calm them down for you.",
+        "pt": "[Dona Generosa]\nEntão, você não deve contar a ninguém sobre nossa conversa de hoje... Você entendeu, né?\nSe prometer voltar, vou ter mais itens para você.",
+        "es": "[Señora Amable]\nAsí que, no debes contarle a nadie más sobre nuestra conversación de hoy... Entiendes, ¿verdad?\nSi prometes volver, hablaré con estos objetos y los calmaré por ti."
     },
     "l3kzDA": {
-        "ko": "[온화한 부인]\n원하는 걸 고르면 설명해 줄게요.\n가격은 전부 똑같이 ^0000CD1,500,000제니^000000랍니다."
+        "ko": "[온화한 부인]\n원하는 걸 고르면 설명해 줄게요.\n가격은 전부 똑같이 ^0000CD1,500,000제니^000000랍니다.",
+        "en": "[Gentle Lady]\nChoose what you want, and I'll explain it.\nThe price is the same for all: ^0000CD1,500,000 Zeny^000000.",
+        "pt": "[Dona Generosa]\nEscolha o que quer e eu explico.\nO preço é o mesmo para todos: ^0000CD1.500.000 Zeny^000000.",
+        "es": "[Señora Amable]\nElige lo que quieras y te lo explicaré.\nEl precio es el mismo para todos: ^0000CD1,500,000 Zeny^000000."
     },
     "mHkzDA": {
-        "ko": "자경단 뱃지"
+        "ko": "자경단 뱃지",
+        "en": "Vigilante Badge",
+        "pt": "Insígnia do Vigilante",
+        "es": "Insignia de Vigilante"
     },
     "mXkzDA": {
-        "ko": "히피의 깃털"
+        "ko": "히피의 깃털",
+        "en": "Hippie's Feather",
+        "pt": "Miçanga Hippie",
+        "es": "Pluma Hippie"
     },
     "mnkzDA": {
-        "ko": "자경단 뱃지"
+        "ko": "자경단 뱃지",
+        "en": "Militia Badge",
+        "pt": "Insígnia do Vigilante",
+        "es": "Insignia de Vigilante"
     },
     "m3kzDA": {
-        "ko": "히피의 깃털"
+        "ko": "히피의 깃털",
+        "en": "Hippie's Feather",
+        "pt": "Miçanga Hippie",
+        "es": "Pluma Hippie"
     },
     "nHkzDA": {
-        "ko": "[온화한 부인]\n어디 보자, [<ITEM>{0}<INFO>{1}</INFO></ITEM>]에 관심이 있으신가.\n이름을 클릭하면 자세한 내용을 볼 수 있어요.\n가격은 말씀드렸다시피 ^0000CD1,500,000제니^000000. 살 거예요?"
+        "ko": "[온화한 부인]\n어디 보자, [<ITEM>{0}<INFO>{1}</INFO></ITEM>]에 관심이 있으신가.\n이름을 클릭하면 자세한 내용을 볼 수 있어요.\n가격은 말씀드렸다시피 ^0000CD1,500,000제니^000000. 살 거예요?",
+        "en": "[Gentle Lady]\nLet's see, are you interested in [<ITEM>{0}<INFO>{1}</INFO></ITEM>].\nYou can click the name to see the details.\nThe price, as I mentioned, is ^0000CD1,500,000 Zeny^000000. Will you buy it?",
+        "pt": "[Dona Generosa]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]?\nLeia a descrição atentamente.\nO preço é ^0000CD1.500.000 Zeny^000000. Vai comprar?",
+        "es": "[Señora Amable]\nVeamos, ¿estás interesado en [<ITEM>{0}<INFO>{1}</INFO></ITEM>]?\nPuedes hacer clic en el nombre para ver los detalles.\nEl precio, como mencioné, es ^0000CD1,500,000 Zeny^000000. ¿Lo comprarás?"
     }
 }

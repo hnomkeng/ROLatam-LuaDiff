@@ -1,0 +1,632 @@
+{
+    "ADVBDA": {
+        "ko": "예언자 K",
+        "en": "Prophet K",
+        "pt": "Profeta K",
+        "es": "Profeta K"
+    },
+    "ATVBDA": {
+        "ko": "소지하고 계시는 아이템의 갯수가 많아 퀘스트를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
+        "en": "You are carrying too many items to proceed with the quest.\nPlease organize your inventory and try again.",
+        "pt": "Você está carregando itens demais para prosseguir com a missão.\nPor favor, organize seu inventário e tente novamente.",
+        "es": "Tienes demasiados objetos para continuar con la misión.\nPor favor, organiza tu inventario e inténtalo de nuevo."
+    },
+    "AjVBDA": {
+        "ko": "[예언자 K]\n소의 영혼조각과\n쇠코뚜레를 구해오는\n것에 성공한 것 같군!\n훌륭해!!",
+        "en": "[Prophet K]\nIt seems you have successfully\nretrieved the Ox Soul Fragments\nand the Iron Nose Rings!\nExcellent!!",
+        "pt": "[Profeta K]\nParece que você conseguiu\nrecuperar os Fragmentos de Alma de Touro\ne os Argolas!\nExcelente!!",
+        "es": "[Profeta K]\n¡Parece que has tenido éxito\nrecogiendo los Fragmentos de Alma de Buey\ny los Anillos de Nariz de Hierro!\n¡¡Excelente!!"
+    },
+    "AzVBDA": {
+        "ko": "[예언자 K]\n자 그럼 바로\n소의 영혼조각을 이용해\n12지신 중 소의 기운을 받은\n영웅의 위치를 찾는 의식을\n시작하도록 하지!",
+        "en": "[Prophet K]\nWell then, let's begin the ritual\nto use the Ox Soul Fragments\nto locate the hero\nimbued with the energy of the Ox,\none of the 12 Zodiac Deities!",
+        "pt": "[Profeta K]\nBem, então, vamos começar o ritual\npara usar os Fragmentos de Alma de Touro\npara localizar o herói\nimbuído com a energia do Touro,\numa das 12 Deidades do Zodíaco!",
+        "es": "[Profeta K]\n¡Bien entonces, comencemos el ritual\npara usar los Fragmentos de Alma de Buey\npara localizar al héroe\nimbuido con la energía del Buey,\nuna de las 12 Deidades del Zodiaco!"
+    },
+    "BDVBDA": {
+        "ko": "[예언자 K]\n흠! 차..찾은거 같군!!\n한가한 시골마을..\n북 쪽... 비공정이 보이고\n말끔히 정장을 입은\n한 사내가 보이는군!",
+        "en": "[Prophet K]\nHmm! I... I think I've found it!!\nA quiet rural village...\nTo the north... I see an airship\nand a man dressed\nin a neat suit!",
+        "pt": "[Profeta K]\nHum! Acho... que encontrei!!\nUma vila rural tranquila...\nAo norte... Vejo uma aeronave\ne um homem vestido\ncom um terno impecável!",
+        "es": "[Profeta K]\n¡¡Hmm! Creo... ¡¡que lo he encontrado!!\nUn pueblo rural tranquilo...\nAl norte... Veo una aeronave\ny un hombre vestido\ncon un traje impecable!"
+    },
+    "BTVBDA": {
+        "ko": "[예언자 K]\n영혼의 부적을 안가져왔나?\n이미 효과가 다했으니, 그냥 자네가 알아서 처리해도 상관없네만.\n하던 이야기를 계속 하지.",
+        "en": "[Prophet K]\nDid you not bring the Soul Amulet?\nIts effects have already worn off, so you can handle it as you see fit.\nLet's continue our conversation.",
+        "pt": "[Profeta K]\nVocê não trouxe o Amuleto da Alma?\nSeus efeitos já passaram, então você pode lidar com isso como quiser.\nVamos continuar nossa conversa.",
+        "es": "[Profeta K]\n¿No trajiste el Amuleto de Alma?\nSus efectos ya se disiparon, así que puedes encargarte de ello como quieras.\nContinuemos nuestra conversación."
+    },
+    "BjVBDA": {
+        "ko": "[예언자 K]\n아마도 지역은 휘겔로..\n추정되는데..\n가서 그 사람을 찾아봐주길\n바라네!",
+        "en": "[Prophet K]\nThe area is likely Hugel...\nPlease go and find\nthat person!",
+        "pt": "[Profeta K]\nA área é provavelmente Hugel...\nPor favor, vá e encontre\nessa pessoa!",
+        "es": "[Profeta K]\nEl área parece ser Hugel...\n¡Por favor, ve y encuentra\na esa persona!"
+    },
+    "BzVBDA": {
+        "ko": "[예언자 K]\n그를 찾아서 내가 준\n밀서를 건네주도록 하게.\n그 이후에 판단은\n그가 스스로 하겠지..\n모든 것 은 하늘의 뜻 대로..\n후후..",
+        "en": "[Prophet K]\nFind him and deliver\nthe secret letter I gave you.\nHe will then make his own judgment...\nEverything is according to heaven's will...\nHuhu...",
+        "pt": "[Profeta K]\nEncontre-o e entregue\na carta secreta que eu lhe dei.\nEle então tomará sua própria decisão...\nTudo está de acordo com a vontade do céu...\nHuhu...",
+        "es": "[Profeta K]\nEncuéntralo y entrégale\nla carta secreta que te di.\nÉl entonces tomará su propia decisión...\nTodo es según la voluntad del cielo...\nJuju..."
+    },
+    "CDVBDA": {
+        "ko": "[예언자 K]\n소의 영혼조각과\n쇠코뚜레를 모아오는\n일은 잘 되고 있는가?\n아직은 조금 부족한 것 같군.\n그래, 나에게 무슨 할 말이라도\n있는가?",
+        "en": "[Prophet K]\nHow is the task of gathering\nthe Ox Soul Fragments and\nthe Iron Nose Rings going?\nIt still seems a bit lacking.\nSo, did you have something\nyou wanted to say to me?",
+        "pt": "[Profeta K]\nComo está indo a tarefa de coletar\nos Fragmentos de Alma de Touro e\nos Argolas?\nAinda parece um pouco insuficiente.\nEntão, você tinha algo\nque queria me dizer?",
+        "es": "[Profeta K]\n¿Cómo va la tarea de recolectar\nlos Fragmentos de Alma de Buey y\nlos Anillos de Nariz de Hierro?\nTodavía parece un poco insuficiente.\nEntonces, ¿tenías algo\nque querías decirme?"
+    },
+    "CTVBDA": {
+        "ko": "영혼을 얻는 위치를 물어본다.",
+        "en": "Ask about the soul acquisition location.",
+        "pt": "Perguntar sobre o local de obtenção das almas.",
+        "es": "Preguntar sobre la ubicación para obtener almas."
+    },
+    "CjVBDA": {
+        "ko": "대화를 종료한다",
+        "en": "End the conversation.",
+        "pt": "Encerrar a conversa.",
+        "es": "Terminar la conversación."
+    },
+    "CzVBDA": {
+        "ko": "[예언자 K]\n글레스트 헤임 지하동굴\n2층에 있는\n메이저 우로스!를\n사냥하면 소의 영혼 조각을\n얻을수가 있을 것이네.",
+        "en": "[Prophet K]\nHunt the Majoruros! located\nin the Glastheim Underground Cave\n2nd Floor to obtain\nthe Ox Soul Fragments.",
+        "pt": "[Profeta K]\nCace o Majoruros! localizado\nno Subsolo da Caverna de Glastheim,\n2º Andar, para obter\nos Fragmentos de Alma de Touro.",
+        "es": "[Profeta K]\nCaza al Majoruros! ubicado\nen la Cueva Subterránea de Glastheim,\nSegundo Piso, para obtener\nlos Fragmentos de Alma de Buey."
+    },
+    "DDVBDA": {
+        "ko": "[예언자 K]\n소의 영혼 조각 100개와\n쇠코뚜레 150개를\n모아오도록 하게\n그 정도라면 충분히\n소의 기운을 받은 사람을\n찾는 의식에 부족함이 없을거야.",
+        "en": "[Prophet K]\nPlease gather\n100 Ox Soul Fragments and\n150 Iron Nose Rings.\nThat amount should be sufficient\nfor the ritual to find the person\nimbued with the Ox's energy.",
+        "pt": "[Profeta K]\nPor favor, reúna\n100 Fragmentos de Alma de Touro e\n150 Argolas.\nEssa quantidade deve ser suficiente\npara o ritual para encontrar a pessoa\nimbuída com a energia do Touro.",
+        "es": "[Profeta K]\nPor favor, reúne\n100 Fragmentos de Alma de Buey y\n150 Anillos de Nariz de Hierro.\nEsa cantidad debería ser suficiente\npara el ritual para encontrar a la persona\nimbuida con la energía del Buey."
+    },
+    "DTVBDA": {
+        "ko": "[예언자 K]\n영혼 조각을 전부 모으고\n나를 다시 찾아와주길 바라네.",
+        "en": "[Prophet K]\nI hope you gather all the soul fragments\nand come find me again.",
+        "pt": "[Profeta K]\nEspero que você reúna todos os fragmentos de alma\ne me encontre novamente.",
+        "es": "[Profeta K]\nEspero que reúnas todos los fragmentos de alma\ny me busques de nuevo."
+    },
+    "DjVBDA": {
+        "ko": "[예언자 K]\n나는 예언자 K라고 하네,\n12지신을 모시고 있는\n사제이기도 하며,\n주로 예지몽을 이용해\n미래를 예측하고는 하지.",
+        "en": "[Prophet K]\nI am Prophet K.\nI am a priest who serves\nthe 12 Zodiac Deities,\nand I primarily predict the future\nusing prophetic dreams.",
+        "pt": "[Profeta K]\nEu sou o Profeta K.\nSou um sacerdote que serve\nàs 12 Deidades do Zodíaco,\ne eu principalmente prevejo o futuro\nusando sonhos proféticos.",
+        "es": "[Profeta K]\nSoy el Profeta K.\nSoy un sacerdote que sirve\na las 12 Deidades del Zodiaco,\ny principalmente predigo el futuro\nusando sueños proféticos."
+    },
+    "DzVBDA": {
+        "ko": "[예언자 K]\n어제 저녁에 드디어\n12지신의 계시를 받아\n잠을 자다가 예지몽을 꿨어..\n이건 정말 중요한\n꿈 인 것 같아, 그래서 내가\n부탁할 사람이 필요한데..",
+        "en": "[Prophet K]\nLast night, I finally received\na revelation from the 12 Zodiac Deities\nand had a prophetic dream in my sleep...\nIt seems to be a very important dream,\nso I need someone to do me a favor...",
+        "pt": "[Profeta K]\nOntem à noite, finalmente recebi\numa revelação das 12 Deidades do Zodíaco\ne tive um sonho profético durante o sono...\nParece ser um sonho muito importante,\nentão preciso que alguém me faça um favor...",
+        "es": "[Profeta K]\nAnoche, finalmente recibí\nuna revelación de las 12 Deidades del Zodiaco\ny tuve un sueño profético mientras dormía...\nParece ser un sueño muy importante,\nasí que necesito que alguien me haga un favor..."
+    },
+    "EDVBDA": {
+        "ko": "^8B4513예지몽^000000에 대해서 듣는다.",
+        "en": "Listen about the ^8B4513Prophetic Dream^000000.",
+        "pt": "Ouvir sobre o ^8B4513Sonho Profético^000000.",
+        "es": "Escuchar sobre el ^8B4513Sueño Profético^000000."
+    },
+    "ETVBDA": {
+        "ko": "예언자 K의 ^8B4513부탁^000000을 들어본다",
+        "en": "Hear Prophet K's ^8B4513Request^000000.",
+        "pt": "Ouvir o ^8B4513Pedido^000000 do Profeta K.",
+        "es": "Escuchar la ^8B4513Solicitud^000000 del Profeta K."
+    },
+    "EjVBDA": {
+        "ko": "[예언자 K]\n그래 그 꿈은 마치\n넓고 황량한, 하지만 삭막함이\n느껴지는 그런 공간이었어.\n모래바람이 불고있는\n새벽처럼 조용한 곳 이었지.",
+        "en": "[Prophet K]\nWell, the dream was like\na vast, desolate, yet feeling bleak space.\nIt was a quiet place like dawn\nwith sandstorms blowing.",
+        "pt": "[Profeta K]\nBem, o sonho era como\num espaço vasto, desolado, mas que parecia sombrio.\nEra um lugar silencioso como o amanhecer\ncom tempestades de areia soprando.",
+        "es": "[Profeta K]\nBueno, el sueño era como\nun espacio vasto, desolado, pero que se sentía lúgubre.\nEra un lugar tranquilo como el amanecer\ncon tormentas de arena soplando."
+    },
+    "EzVBDA": {
+        "ko": "[예언자 K]\n그때였어 12지신 중\n소의 신께서 내 앞에\n나타나셨고,\n곧 주변은 시체들로 가득히\n쌓여있게 되었어.\n그 곳은 룬 미드가츠였어..",
+        "en": "[Prophet K]\nThat's when it happened. The Ox Deity,\none of the 12 Zodiac Deities,\nappeared before me,\nand soon the surroundings were piled high\nwith corpses.\nThat place was Rune-Midgard...",
+        "pt": "[Profeta K]\nFoi quando aconteceu. A Deidade do Touro,\numa das 12 Deidades do Zodíaco,\napareceu diante de mim,\ne logo os arredores ficaram cheios\nde cadáveres.\nAquele lugar era Rune-Midgard...",
+        "es": "[Profeta K]\nFue entonces. La Deidad del Buey,\nuna de las 12 Deidades del Zodiaco,\napareció ante mí,\ny pronto los alrededores se amontonaron\ncon cadáveres.\nEse lugar era Rune-Midgard..."
+    },
+    "FDVBDA": {
+        "ko": "[예언자 K]\n그 때 알게 되었지,\n아 이건 예지몽이다!\n큰 환란이 앞으로\n일어날 것이다! 라고",
+        "en": "[Prophet K]\nThat's when I realized,\nah, this is a prophetic dream!\nA great calamity\nwill occur in the future!",
+        "pt": "[Profeta K]\nFoi quando eu percebi,\nah, este é um sonho profético!\nUma grande calamidade\nocorrerá no futuro!",
+        "es": "[Profeta K]\n¡Fue entonces cuando me di cuenta,\nah, este es un sueño profético!\n¡Una gran calamidad\nocurrirá en el futuro!"
+    },
+    "FTVBDA": {
+        "ko": "[예언자 K]\n그리고는 소의 신 께서\n내게 말했어!\n12지신의 기운을 받은\n사람을 찾아야 한다고..\n그래야 이 환란을\n막을 수 있다고..",
+        "en": "[Prophet K]\nAnd then the Ox Deity\nspoke to me!\nWe must find the people\nimbued with the energy of the 12 Zodiac Deities..\nOnly then can we stop\nthis calamity..",
+        "pt": "[Profeta K]\nE então a Deidade do Touro\nfalou comigo!\nDevemos encontrar as pessoas\nimbuídas com a energia das 12 Deidades do Zodíaco!\nSó assim podemos parar\nesta calamidade..",
+        "es": "[Profeta K]\n¡Y entonces la Deidad del Buey\nme habló!\n¡Debemos encontrar a las personas\nimbuidas con la energía de las 12 Deidades del Zodiaco!\nSolo entonces podremos detener\nesta calamidad.."
+    },
+    "FjVBDA": {
+        "ko": "[예언자 K]\n아직 그 사람의 이름도,\n사는 곳도 전혀 모르지만,\n이 예지몽은 나에게\n그 를 찾아야 한다고\n말하고 있어!.",
+        "en": "[Prophet K]\nI still don't know their names\nor where they live at all,\nbut this prophetic dream\nis telling me\nthat I must find them!",
+        "pt": "[Profeta K]\nAinda não sei seus nomes\nou onde moram,\nmas este sonho profético\nestá me dizendo\nque devo encontrá-los!",
+        "es": "[Profeta K]\nTodavía no sé sus nombres\nni dónde viven en absoluto,\npero este sueño profético\nme está diciendo\nque debo encontrarlos!"
+    },
+    "FzVBDA": {
+        "ko": "[예언자 K]\n역시 이대로는 단서가\n너무 부족해, 그래서\n나의 예언 능력을 발휘하는\n의식을 통해 그 를 찾아야 해",
+        "en": "[Prophet K]\nAs expected, there are too few clues like this.\nTherefore, we must find them\nthrough a ritual where I utilize\nmy prophetic abilities.",
+        "pt": "[Profeta K]\nComo esperado, há poucas pistas assim.\nPortanto, devemos encontrá-los\natravés de um ritual onde utilizo\nminhas habilidades proféticas.",
+        "es": "[Profeta K]\nComo era de esperar, hay muy pocas pistas así.\nPor lo tanto, debemos encontrarlos\na través de un ritual donde utilice\nmis habilidades proféticas."
+    },
+    "GDVBDA": {
+        "ko": "[예언자 K]\n그 의식을 하기 위해서는\n의식에 가장 중요한\n찾고자 하는 대상을\n나타내는 물품, 또는 유사한\n기운, 에너지가 필요하지.",
+        "en": "[Prophet K]\nTo perform that ritual,\nwe need the most crucial item:\nan object representing the target we seek,\nor a similar aura, energy.",
+        "pt": "[Profeta K]\nPara realizar esse ritual,\nprecisamos do item mais crucial:\num objeto representando o alvo que procuramos,\nou uma aura, energia similar.",
+        "es": "[Profeta K]\nPara realizar ese ritual,\nnecesitamos el elemento más crucial:\nun objeto que represente al objetivo que buscamos,\no un aura, energía similar."
+    },
+    "GTVBDA": {
+        "ko": "[예언자 K]\n그래서 그걸 구하기 위해\n자네의 도움이 필요한거야.",
+        "en": "[Prophet K]\nThat's why I need your help\nto obtain it.",
+        "pt": "[Profeta K]\nÉ por isso que preciso da sua ajuda\npara obtê-lo.",
+        "es": "[Profeta K]\nPor eso necesito tu ayuda\npara obtenerlo."
+    },
+    "GjVBDA": {
+        "ko": "[예언자 K]\n그래서 이번에 꾼 꿈은\n소의 기운을 받은\n사람을 말하는 것\n이라고 생각해.",
+        "en": "[Prophet K]\nSo, I believe the dream I had this time\nrefers to the person\nimbued with the Ox's energy.",
+        "pt": "[Profeta K]\nEntão, acredito que o sonho que tive desta vez\nrefere-se à pessoa\nimbuída com a energia do Touro.",
+        "es": "[Profeta K]\nAsí que, creo que el sueño que tuve esta vez\nse refiere a la persona\nimbuida con la energía del Buey."
+    },
+    "GzVBDA": {
+        "ko": "[예언자 K]\n그래서 말야\n소의 영혼 조각이 필요한데\n나를 도와 영혼 조각을\n찾아 줄 수 있겠는가?",
+        "en": "[Prophet K]\nSo, you see,\nI need Ox Soul Fragments.\nCan you help me\nfind the soul fragments?",
+        "pt": "[Profeta K]\nEntão, veja bem,\npreciso de Fragmentos de Alma de Touro.\nVocê pode me ajudar\na encontrar os fragmentos de alma?",
+        "es": "[Profeta K]\nAsí que, verás,\nnecesito Fragmentos de Alma de Buey.\n¿Puedes ayudarme\na encontrar los fragmentos de alma?"
+    },
+    "HDVBDA": {
+        "ko": "부탁을 들어준다.",
+        "en": "Agree to the request.",
+        "pt": "Aceitar o pedido.",
+        "es": "Aceptar la solicitud."
+    },
+    "HTVBDA": {
+        "ko": "부탁을 거절한다.",
+        "en": "Refuse the request.",
+        "pt": "Recusar o pedido.",
+        "es": "Rechazar la solicitud."
+    },
+    "HjVBDA": {
+        "ko": "[예언자 K]\n고맙네.\n여기 영혼의 부적을 주겠네\n이걸 가지고 있는 상태로\n소의 영혼을 얻을 수 있는\n몬스터를 사냥해야 하네.",
+        "en": "[Prophet K]\nThank you.\nI'll give you this Soul Amulet.\nYou must carry this\nand hunt monsters that can drop\nthe Ox Soul Fragments.",
+        "pt": "[Profeta K]\nObrigado.\nVou te dar este Amuleto da Alma.\nVocê deve carregar isto\ne caçar monstros que possam dropar\nos Fragmentos de Alma de Touro.",
+        "es": "[Profeta K]\nGracias.\nTe daré este Amuleto de Alma.\nDebes llevar esto\ny cazar monstruos que puedan soltar\nlos Fragmentos de Alma de Buey."
+    },
+    "HzVBDA": {
+        "ko": "[예언자 K]\n모로크에 있는\n피라미드 지하 1층과\n스핑크스 지하 4층에 가서\n마이너 우로스!를\n사냥하면 소의 영혼 조각을\n얻을수가 있을 것이네.",
+        "en": "[Prophet K]\nGo to the Pyramid Basement 1 in Morroc\nand the Sphinx Basement 4.\nHunt the Minoruros!\nto obtain the Ox Soul Fragments.",
+        "pt": "[Profeta K]\nVá ao Subsolo 1 da Pirâmide em Morroc\ne ao Subsolo 4 da Esfinge.\nCace o Minoruros!\npara obter os Fragmentos de Alma de Touro.",
+        "es": "[Profeta K]\nVe al Sótano 1 de la Pirámide en Morroc\ny al Sótano 4 de la Esfinge.\n¡Caza al Minoruros!\npara obtener los Fragmentos de Alma de Buey."
+    },
+    "IDVBDA": {
+        "ko": "[예언자 K]\n조각 100개를\n모아오도록 하게\n그 정도라면 충분히\n소의 기운을 받은 사람을\n찾는 의식에 부족함이 없을거야.",
+        "en": "[Prophet K]\nPlease gather\n100 fragments.\nThat amount should be sufficient\nfor the ritual to find the person\nimbued with the Ox's energy.",
+        "pt": "[Profeta K]\nPor favor, reúna\n100 fragmentos.\nEssa quantidade deve ser suficiente\npara o ritual para encontrar a pessoa\nimbuída com a energia do Touro.",
+        "es": "[Profeta K]\nPor favor, reúne\n100 fragmentos.\nEsa cantidad debería ser suficiente\npara el ritual para encontrar a la persona\nimbuida con la energía del Buey."
+    },
+    "ITVBDA": {
+        "ko": "[예언자 K]\n가방에 소지품이 가득하게\n차 있군. 소지품을 줄여야\n나를 도와줄 수 있다네.\n소지품을 줄이고 다시\n다시 나를 찾아오게",
+        "en": "[Prophet K]\nYour bag is full of items.\nYou must reduce your belongings\nto be able to help me.\nReduce your possessions and\ncome find me again.",
+        "pt": "[Profeta K]\nSua mochila está cheia de itens.\nVocê deve reduzir seus pertences\npara poder me ajudar.\nReduza suas posses e\nvenha me encontrar novamente.",
+        "es": "[Profeta K]\nTu mochila está llena de objetos.\nDebes reducir tus pertenencias\npara poder ayudarme.\nReduce tus posesiones y\nven a buscarme de nuevo."
+    },
+    "IjVBDA": {
+        "ko": "[예언자 K]\n어쩔 수 없지\n자네의 생각이 그렇다면..\n나에게 더 궁금한 점이 있나?",
+        "en": "[Prophet K]\nIt can't be helped\nif that's your decision...\nDo you have any other questions for me?",
+        "pt": "[Profeta K]\nNão há o que fazer\nse essa é sua decisão...\nVocê tem alguma outra pergunta para mim?",
+        "es": "[Profeta K]\nNo se puede hacer nada\nsi esa es tu decisión...\n¿Tienes alguna otra pregunta para mí?"
+    },
+    "IzVBDA": {
+        "ko": "[예언자 K]\n세계의 운명이 달린..\n일인데...\n다시 생각 해 보고\n찾아오길 바라네.",
+        "en": "[Prophet K]\nIt's a matter concerning\nthe fate of the world...\nI hope you think it over\nand come back.",
+        "pt": "[Profeta K]\nÉ uma questão concernente\nao destino do mundo...\nEspero que você reconsidere\ne volte.",
+        "es": "[Profeta K]\nEs un asunto que concierne\nal destino del mundo...\nEspero que lo reconsideres\ny regreses."
+    },
+    "JDVBDA": {
+        "ko": "[예언자 K]\n소의 영혼조각을 모아오는\n일은 잘 되고 있는가?\n아직은 조금 부족한 것 같군.\n그래, 나에게 무슨 할 말이라도\n있는가?",
+        "en": "[Prophet K]\nHow is the task of gathering\nthe Ox Soul Fragments going?\nIt still seems a bit lacking.\nSo, did you have something\nyou wanted to say to me?",
+        "pt": "[Profeta K]\nComo está indo a tarefa de coletar\nos Fragmentos de Alma de Touro?\nAinda parece um pouco insuficiente.\nEntão, você tinha algo\nque queria me dizer?",
+        "es": "[Profeta K]\n¿Cómo va la tarea de recolectar\nlos Fragmentos de Alma de Buey?\nTodavía parece un poco insuficiente.\nEntonces, ¿tenías algo\nque querías decirme?"
+    },
+    "JTVBDA": {
+        "ko": "영혼을 모아오는 걸 포기한다",
+        "en": "Give up on gathering the souls.",
+        "pt": "Desistir de coletar as almas.",
+        "es": "Rendirse al recolectar las almas."
+    },
+    "JjVBDA": {
+        "ko": "[예언자 K]\n이런... 정말 포기하려 하는가?\n이런... 큰일났군..\n나의 예지몽은 분명히 그들을\n찾아야 하는데...\n정말 포기할텐가?",
+        "en": "[Prophet K]\nOh my... Are you really giving up?\nOh my... This is terrible...\nMy prophetic dream clearly said we must find them...\nAre you really going to give up?",
+        "pt": "[Profeta K]\nNossa... Você está mesmo desistindo?\nNossa... Que terrível...\nMeu sonho profético disse claramente que devemos encontrá-los...\nVocê vai mesmo desistir?",
+        "es": "[Profeta K]\nDios mío... ¿De verdad te vas a rendir?\nDios mío... Esto es terrible...\nMi sueño profético decía claramente que debemos encontrarlos...\n¿De verdad vas a rendirte?"
+    },
+    "JzVBDA": {
+        "ko": "포기한다.",
+        "en": "Give up.",
+        "pt": "Desistir.",
+        "es": "Rendirse."
+    },
+    "KDVBDA": {
+        "ko": "포기하지 않는다.",
+        "en": "Don't give up.",
+        "pt": "Não desistir.",
+        "es": "No rendirse."
+    },
+    "KTVBDA": {
+        "ko": "[예언자 K]\n정 생각이 그렇다면\n어쩔 수 없지.\n생각이 바뀌면\n다시 나를 찾아오도록 하게.",
+        "en": "[Prophet K]\nIf that's what you think,\nthen it can't be helped.\nIf you change your mind,\ncome find me again.",
+        "pt": "[Profeta K]\nSe é isso que você pensa,\nentão não há o que fazer.\nSe mudar de ideia,\nvenha me encontrar novamente.",
+        "es": "[Profeta K]\nSi eso piensas,\nentonces no hay nada que hacer.\nSi cambias de opinión,\nven a buscarme de nuevo."
+    },
+    "KjVBDA": {
+        "ko": "[예언자 K]\n그래, 잘 생각했네.\n어서 빨리 영혼 조각을\n찾아오도록 하게!",
+        "en": "[Prophet K]\nGood, you thought well.\nHurry and bring back\nthe soul fragments quickly!",
+        "pt": "[Profeta K]\nBom, você pensou bem.\nRápido, traga\nos fragmentos de alma rapidamente!",
+        "es": "[Profeta K]\nBien, has pensado bien.\n¡Date prisa y trae\nlos fragmentos de alma rápidamente!"
+    },
+    "KzVBDA": {
+        "ko": "[예언자 K]\n소의 영혼조각을 모아오는\n것에 성공한 것 같군!\n훌륭해!!",
+        "en": "[Prophet K]\nIt seems you have successfully\ngathered the Ox Soul Fragments!\nExcellent!!",
+        "pt": "[Profeta K]\nParece que você conseguiu\ncoletar os Fragmentos de Alma de Touro!\nExcelente!!",
+        "es": "[Profeta K]\n¡Parece que has logrado\nrecolectar los Fragmentos de Alma de Buey!\n¡¡Excelente!!"
+    },
+    "LDVBDA": {
+        "ko": "[예언자 K]\n흠.. 하지만 이걸 어쩐다..\n아무래도 마이너우로스의\n소의 영혼 조각 100개로는\n12지신 중 소의 기운을 받은\n영웅의 위치를 찾는 의식을\n하기 부족한 것 같아..",
+        "en": "[Prophet K]\nHmm... But what to do about this...\nIt seems that the 100 Ox Soul Fragments\nfrom the Minoruros\nare insufficient for the ritual\nto locate the hero imbued with the energy\nof the Ox, one of the 12 Zodiac Deities...",
+        "pt": "[Profeta K]\nHum... Mas o que fazer sobre isso...\nParece que os 100 Fragmentos de Alma de Touro\ndo Minoruros\nsão insuficientes para o ritual\nde localizar o herói imbuído com a energia\ndo Touro, uma das 12 Deidades do Zodíaco...",
+        "es": "[Profeta K]\nHmm... Pero qué hacer con esto...\nParece que los 100 Fragmentos de Alma de Buey\ndel Minoruros\nson insuficientes para el ritual\nde localizar al héroe imbuido con la energía\ndel Buey, una de las 12 Deidades del Zodiaco..."
+    },
+    "LTVBDA": {
+        "ko": "[예언자 K]\n아무래도 말이야..\n소의 영혼조각 100개를 더\n구해와야 하겠네.\n거기에 소의 기운이 강하게\n담긴 쇠코뚜레 150개를\n추가로 구해와주게.",
+        "en": "[Prophet K]\nIt seems that...\nwe need to gather 100 more\nOx Soul Fragments.\nAdditionally, please gather\n150 Iron Nose Rings\nstrongly imbued with the Ox's energy.",
+        "pt": "[Profeta K]\nParece que...\nprecisamos coletar mais 100\nFragmentos de Alma de Touro.\nAlém disso, por favor, reúna\n150 Argolas\nfortemente imbuídos com a energia do Touro.",
+        "es": "[Profeta K]\nParece que...\nnecesitamos recolectar 100\nFragmentos de Alma de Buey más.\nAdicionalmente, por favor reúne\n150 Anillos de Nariz de Hierro\nfuertemente imbuidos con la energía del Buey."
+    },
+    "LjVBDA": {
+        "ko": "[예언자 K]\n아무래도 소의 기운이 부족한\n이유는 마이너우로스에게서\n구해왔기 때문이라고 생각하네.\n이 번에는 메이저우로스에게\n가서 소의 영혼조각 100개와\n쇠코뚜레 150개를 가져와주게",
+        "en": "[Prophet K]\nI think the reason the Ox's energy is lacking\nis because we got them from the Minoruros.\nThis time, please go to the Majoruros\nand bring back 100 Ox Soul Fragments\nand 150 Iron Nose Rings.",
+        "pt": "[Profeta K]\nAcho que a razão da energia do Touro estar faltando\né porque os obtivemos do Minoruros.\nDesta vez, por favor, vá ao Majoruros\ne traga 100 Fragmentos de Alma de Touro\ne 150 Argolas.",
+        "es": "[Profeta K]\nCreo que la razón por la que falta la energía del Buey\nes porque los obtuvimos del Minoruros.\nEsta vez, por favor ve al Majoruros\ny trae 100 Fragmentos de Alma de Buey\ny 150 Anillos de Nariz de Hierro."
+    },
+    "LzVBDA": {
+        "ko": "[예언자 K]\n그 정도라면 분명히\n소의 기운을 받은 사람을\n찾는 의식에 부족함이 없을거야.",
+        "en": "[Prophet K]\nThat amount should definitely\nbe sufficient for the ritual\nto find the person imbued with the Ox's energy.",
+        "pt": "[Profeta K]\nEssa quantidade definitivamente\ndeve ser suficiente para o ritual\npara encontrar a pessoa imbuída com a energia do Touro.",
+        "es": "[Profeta K]\nEsa cantidad definitivamente\ndebería ser suficiente para el ritual\npara encontrar a la persona imbuida con la energía del Buey."
+    },
+    "MDVBDA": {
+        "ko": "아니..잠깐만요..",
+        "en": "No... Wait a minute...",
+        "pt": "Não... Espere um minuto...",
+        "es": "No... Espera un minuto..."
+    },
+    "MTVBDA": {
+        "ko": "[{0}]\n근데 저번에 쥐의 영혼조각\n구해오랄때도 그렇고\n뭔가 느낌이 이상했는데\n이번에는 소의 영혼조각에\n쇠코뚜레 까지 구해오라니요.",
+        "en": "[{0}]\nBut last time, when you asked for the Rat soul fragments,\nit felt strange,\nand now you're asking for Ox soul fragments\nand even Iron Nose Rings?",
+        "pt": "[{0}]\nMas da última vez, quando você pediu os fragmentos de alma de Rato,\nfoi estranho,\ne agora pede fragmentos de Alma de Touro\ne ainda Argolas?",
+        "es": "[{0}]\nPero la última vez, cuando pediste los fragmentos de alma de Rata,\nse sintió extraño,\n¿y ahora pides fragmentos de alma de Buey\ne incluso Anillos de Nariz de Hierro?"
+    },
+    "MjVBDA": {
+        "ko": "[{0}]\n자꾸 제니며 아이템이며\n요구하는게 이상했는데\n쇠코뚜레 가지고\n수집품 상인한테\n팔아먹으려는거 아니에요?\n뭔가 수상한데..",
+        "en": "[{0}]\nIt was suspicious how you kept asking\nfor Zeny and items,\nbut are you planning to sell\nthe Iron Nose Rings\nto a collection merchant?\nSomething feels fishy...",
+        "pt": "[{0}]\nEra suspeito como você sempre pedia\nZeny e itens,\nmas você está planejando vender\nos Argolas\npara um mercador de coleções?\nAlgo parece estranho...",
+        "es": "[{0}]\nEra sospechoso cómo seguías pidiendo\nZeny y objetos,\n¿pero planeas vender\nlos Anillos de Nariz de Hierro\na un mercader de colecciones?\nAlgo no me cuadra..."
+    },
+    "MzVBDA": {
+        "ko": "[예언자 K]\n어리석은 인간아.\n왜 이리도 어리석느뇨.\n12간지신께서 노할지니!\n내 이번에 너를 위해\n특별히 500만 제니짜리\n모자를 선물로 주려 했거늘..",
+        "en": "[Prophet K]\nFoolish human.\nWhy are you so foolish?\nThe 12 Zodiac Deities will be angry!\nThis time, I was going to give you\na special hat worth 5,000,000 Zeny\nas a gift...",
+        "pt": "[Profeta K]\nHumano tolo.\nPor que você é tão tolo?\nAs 12 Deidades do Zodíaco ficarão zangadas!\nDesta vez, eu ia te dar\num chapéu especial no valor de 5.000.000 Zeny\ncomo presente...",
+        "es": "[Profeta K]\nHumano tonto.\n¿Por qué eres tan tonto?\n¡Las 12 Deidades del Zodiaco se enojarán!\nEsta vez, iba a darte\nun sombrero especial valorado en 5,000,000 Zeny\ncomo regalo..."
+    },
+    "NDVBDA": {
+        "ko": "[{0}]\n그..그랬군요!!\n제가 그런 깊은 뜻을\n헤아리지 못하고 그만..\n미안해요!\n어서 구해오도록 할게요.",
+        "en": "[{0}]\nI... I see!!\nI failed to grasp\nsuch a deep meaning...\nI'm sorry!\nI'll go get them right away.",
+        "pt": "[{0}]\nE... Era isso!!\nEu não consegui compreender\num significado tão profundo...\nSinto muito!\nVou buscá-los agora mesmo.",
+        "es": "[{0}]\n¡¡Ya... Ya veo!!\nNo logré comprender\nun significado tan profundo...\n¡Lo siento!\nIré a buscarlos ahora mismo."
+    },
+    "NTVBDA": {
+        "ko": "[예언자 K]\n오해가 풀려서 다해이군\n후후후후......\n어서 구해와주길 부탁하네.\n흠흠....",
+        "en": "[Prophet K]\nI'm glad the misunderstanding is cleared up.\nHuhuhu...\nPlease go get them quickly.\nAhem, ahem...",
+        "pt": "[Profeta K]\nEstou feliz que o mal-entendido foi esclarecido.\nHuhuhu...\nPor favor, vá buscá-los rápido.\nAhem, ahem...",
+        "es": "[Profeta K]\nMe alegra que se haya aclarado el malentendido.\nJujuju...\nPor favor, ve a buscarlos rápido.\nEjem, ejem..."
+    },
+    "NjVBDA": {
+        "ko": "[예언자 K]\n12지신 중 소의 기운을 받은\n영웅의 위치를 아직 찾지\n못 했나 보군",
+        "en": "[Prophet K]\nIt seems you haven't yet found\nthe location of the hero imbued with\nthe Ox's energy, one of the 12 Zodiac Deities.",
+        "pt": "[Profeta K]\nParece que você ainda não encontrou\na localização do herói imbuído com\na energia do Touro, uma das 12 Deidades do Zodíaco.",
+        "es": "[Profeta K]\nParece que aún no has encontrado\nla ubicación del héroe imbuido con\nla energía del Buey, una de las 12 Deidades del Zodiaco."
+    },
+    "NzVBDA": {
+        "ko": "[예언자 K]\n한가한 시골마을..\n북 쪽... 비공정이 보이고\n말끔히 정장을 입은\n한 사내가 보이는군!",
+        "en": "[Prophet K]\nA quiet rural village...\nTo the north... I see an airship\nand a man dressed\nin a neat suit!",
+        "pt": "[Profeta K]\nUma vila rural tranquila...\nAo norte... Vejo uma aeronave\ne um homem vestido\ncom um terno impecável!",
+        "es": "[Profeta K]\nUn pueblo rural tranquilo...\nAl norte... Veo una aeronave\ny un hombre vestido\ncon un traje impecable!"
+    },
+    "ODVBDA": {
+        "ko": "[예언자 K]\n아마도 지역은 휘겔로\n추정되는데..\n가서 그 사람을 찾아봐주길\n바라네!",
+        "en": "[Prophet K]\nThe area is likely Hugel...\nPlease go and find\nthat person!",
+        "pt": "[Profeta K]\nA área é provavelmente Hugel...\nPor favor, vá e encontre\nessa pessoa!",
+        "es": "[Profeta K]\nEl área parece ser Hugel...\n¡Por favor, ve y encuentra\na esa persona!"
+    },
+    "OTVBDA": {
+        "ko": "[예언자 K]\n어서 찾아가 내가 준\n밀서를 건네주길 바라네.\n부탁하네!",
+        "en": "[Prophet K]\nI hope you quickly go and deliver\nthe secret letter I gave you.\nI ask of you!",
+        "pt": "[Profeta K]\nEspero que você vá rapidamente e entregue\na carta secreta que eu lhe dei.\nEu lhe peço!",
+        "es": "[Profeta K]\nEspero que vayas rápidamente y entregues\nla carta secreta que te di.\n¡Te lo pido!"
+    },
+    "OjVBDA": {
+        "ko": "[예언자 K]\n내가 준 밀서를 잃어버린건가?\n어쩔 수 없구만.\n다시 주겠네.",
+        "en": "[Prophet K]\nDid you lose the secret letter I gave you?\nIt can't be helped.\nI'll give you another one.",
+        "pt": "[Profeta K]\nVocê perdeu a carta secreta que eu lhe dei?\nNão há remédio.\nVou te dar outra.",
+        "es": "[Profeta K]\n¿Perdiste la carta secreta que te di?\nNo hay remedio.\nTe daré otra."
+    },
+    "OzVBDA": {
+        "ko": "[예언자 K]\n오 돌아왔군!\n소의 기운을 받은\n영웅은 잘 찾았나?\n그래, 이야기는 어떻게\n진행됐나?",
+        "en": "[Prophet K]\nOh, you're back!\nDid you find the hero\nimbued with the Ox's energy?\nWell, how did the conversation\ngo?",
+        "pt": "[Profeta K]\nOh, você voltou!\nVocê encontrou o herói\nimbuído com a energia do Touro?\nBem, como foi a conversa?",
+        "es": "[Profeta K]\n¡Oh, has vuelto!\n¿Encontraste al héroe\nimbuido con la energía del Buey?\nBueno, ¿cómo fue la conversación?"
+    },
+    "PDVBDA": {
+        "ko": "- 그 동안 있었던 일을 -\n- 전부 이야기 했다. -",
+        "en": "- You told him -\n- everything that happened. -",
+        "pt": "- Você contou a ele -\n- tudo o que aconteceu. -",
+        "es": "- Le contaste -\n- todo lo que sucedió. -"
+    },
+    "PTVBDA": {
+        "ko": "[예언자 K]\n그래...그런 일이 있었군.\n좋아, 나머지는 내가 직접\n찾아가서 이야기 해 보도록\n하겠어.",
+        "en": "[Prophet K]\nI see... So that's what happened.\nGood, I will go myself\nand talk to him\nfrom here on out.",
+        "pt": "[Profeta K]\nEntendo... Isso foi o que aconteceu.\nBom, eu mesmo irei\ne falarei com ele\ndaqui para frente.",
+        "es": "[Profeta K]\nYa veo... Eso fue lo que pasó.\nBien, iré yo mismo\ny hablaré con él\nde aquí en adelante."
+    },
+    "PjVBDA": {
+        "ko": "[예언자 K]\n그 동안 너무 고마웠네\n그에대한 보답으로\n자네가 구해왔던\n소의 영혼 조각이 조금 남아서\n12지신의 기운을 담아\n모자를 한번 만들어봤네.",
+        "en": "[Prophet K]\nThank you so much for all your help.\nAs a reward,\nthere were some Ox Soul Fragments left\nfrom what you gathered,\nso I infused them with the energy of the 12 Zodiac Deities\nand made a hat.",
+        "pt": "[Profeta K]\nMuito obrigado por toda sua ajuda.\nComo recompensa,\nhaviam alguns Fragmentos de Alma de Touro sobrando\ndos que você coletou,\nentão eu os infundi com a energia das 12 Deidades do Zodíaco\ne fiz um chapéu.",
+        "es": "[Profeta K]\nMuchas gracias por toda tu ayuda.\nComo recompensa,\nsobraron algunos Fragmentos de Alma de Buey\nde los que recolectaste,\nasí que los infundí con la energía de las 12 Deidades del Zodiaco\ne hice un sombrero."
+    },
+    "PzVBDA": {
+        "ko": "[예언자 K]\n특별한 12지신의 기운이\n담긴 모자라서 500만 제니 정도의\n가치가 있지만 자네는 나를\n도와줬으니 특별히 5만제니에\n주도록 하지. 어떤가?",
+        "en": "[Prophet K]\nIt's a special hat imbued with the energy\nof the 12 Zodiac Deities, worth about 5,000,000 Zeny,\nbut since you helped me,\nI'll specially give it to you for 50,000 Zeny.\nWhat do you say?",
+        "pt": "[Profeta K]\nÉ um chapéu especial imbuído com a energia\ndas 12 Deidades do Zodíaco, vale cerca de 5.000.000 Zeny,\nmas como você me ajudou,\nvou te dar especialmente por 50.000 Zeny.\nO que você acha?",
+        "es": "[Profeta K]\nEs un sombrero especial imbuido con la energía\nde las 12 Deidades del Zodiaco, valorado en unos 5,000,000 Zeny,\npero como me ayudaste,\nte lo daré especialmente por 50,000 Zeny.\n¿Qué dices?"
+    },
+    "QDVBDA": {
+        "ko": "[{0}]\n아까는 그냥 선물로 주신다고\n해놓고.. 말이 다르잖아요..",
+        "en": "[{0}]\nEarlier you said you'd give it as a gift...\nYour story keeps changing...",
+        "pt": "[{0}]\nAntes você disse que daria de presente...\nSua história muda o tempo todo...",
+        "es": "[{0}]\nAntes dijiste que lo darías como regalo...\nTu historia cambia constantemente..."
+    },
+    "QTVBDA": {
+        "ko": "[예언자 K]\n거저 주는거나 다름 없다네.\n무려 500만 제니야!\n단지 만드는 데 들어간 약간의\n수고비만 받는 것 뿐이라네.\n오해하지 말게나.",
+        "en": "[Prophet K]\nIt's practically giving it away.\nIt's a whopping 5,000,000 Zeny!\nI'm only charging a small fee\nfor the effort of making it.\nDon't misunderstand.",
+        "pt": "[Profeta K]\nÉ praticamente de graça.\nSão 5.000.000 Zeny!\nEstou apenas cobrando uma pequena taxa\npelo esforço de fazê-lo.\nNão entenda mal.",
+        "es": "[Profeta K]\nEs prácticamente regalarlo.\n¡Son 5,000,000 Zeny!\nSolo cobro una pequeña tarifa\npor el esfuerzo de hacerlo.\nNo lo malinterpretes."
+    },
+    "QjVBDA": {
+        "ko": "제니가 부족..",
+        "en": "Not enough Zeny...",
+        "pt": "Não tenho Zeny suficiente...",
+        "es": "No tengo suficiente Zeny..."
+    },
+    "QzVBDA": {
+        "ko": "알겠어요, 5만제니에 주세요.",
+        "en": "Alright, I'll take it for 50,000 Zeny.",
+        "pt": "Tudo bem, vou levar por 50.000 Zeny.",
+        "es": "Está bien, lo tomaré por 50,000 Zeny."
+    },
+    "RDVBDA": {
+        "ko": "[예언자 K]\n흐흠....\n12지신의 기운이 담긴!\n500만 제니의 가치를 지닌\n신의 영물인데...\n친구한테라도 빌려보는 건\n어떤가..?",
+        "en": "[Prophet K]\nAhem...\nImbued with the energy of the 12 Zodiac Deities!\nA divine relic with a value of 5,000,000 Zeny...\nHow about borrowing from a friend...?",
+        "pt": "[Profeta K]\nAhem...\nImbuído com a energia das 12 Deidades do Zodíaco!\nUma relíquia divina com valor de 5.000.000 Zeny...\nQue tal pedir emprestado a um amigo...?",
+        "es": "[Profeta K]\nEjem...\n¡Imbuido con la energía de las 12 Deidades del Zodiaco!\n¡Una reliquia divina con un valor de 5,000,000 Zeny...\n¿Qué tal si le pides prestado a un amigo...?"
+    },
+    "RTVBDA": {
+        "ko": "[예언자 K]\n특별히 아주 훌륭한 옵션을\n넣을 수 있도록 노력했지만..\n아쉽게도 그렇게\n만들지는 못했어.\n어쨋든 마음에 들었으면\n좋겠군.",
+        "en": "[Prophet K]\nI tried specially to add excellent options,\nbut...\nUnfortunately, I couldn't make it\nthat way.\nI hope you like it anyway.",
+        "pt": "[Profeta K]\nTentei especialmente adicionar opções excelentes,\nmas...\nInfelizmente, não consegui fazê-lo\ndessa forma.\nEspero que goste de qualquer maneira.",
+        "es": "[Profeta K]\nIntenté especialmente añadir opciones excelentes,\npero...\nDesafortunadamente, no pude hacerlo\nde esa manera.\nEspero que te guste de todos modos."
+    },
+    "RjVBDA": {
+        "ko": "[예언자 K]\n하지만,\n아무래도 나의 예지몽은\n아직 끝나지 않은 것 같아.\n분명히 그 이후 12지신의\n기운을 받은 영웅들에 대한\n예지몽이 이어질 것 같네.",
+        "en": "[Prophet K]\nHowever,\nit seems my prophetic dream\nis not over yet.\nIt seems the prophetic dreams about\nthe heroes imbued with the energy\nof the other Zodiac Deities will continue.",
+        "pt": "[Profeta K]\nNo entanto,\nparece que meu sonho profético\nainda não terminou.\nParece que os sonhos proféticos sobre\nos heróis imbuídos com a energia\ndas outras Deidades do Zodíaco continuarão.",
+        "es": "[Profeta K]\nSin embargo,\nparece que mi sueño profético\naún no ha terminado.\nParece que los sueños proféticos sobre\nlos héroes imbuidos con la energía\nde las otras Deidades del Zodiaco continuarán."
+    },
+    "RzVBDA": {
+        "ko": "[예언자 K]\n얼마 후 다시 나를 찾아와주게\n분명히 도와줄 일이 있을거야.",
+        "en": "[Prophet K]\nCome find me again soon.\nI'm sure there will be something you can help with.",
+        "pt": "[Profeta K]\nVolte para me encontrar novamente em breve.\nTenho certeza que haverá algo em que você possa ajudar.",
+        "es": "[Profeta K]\nVuelve a buscarme pronto.\nEstoy seguro de que habrá algo en lo que puedas ayudar."
+    },
+    "SDVBDA": {
+        "ko": "[예언자 K]\n제니가 부족하군!\n12지신의 기운이 담긴!\n500만 제니의 가치를 지닌\n신의 영물인데...\n친구한테라도 빌려보는 건\n어떤가..?",
+        "en": "[Prophet K]\nYou lack the Zeny!\nIt's a divine relic imbued with the energy of the 12 Zodiac Deities!\nWorth 5,000,000 Zeny...\nHow about borrowing from a friend...?",
+        "pt": "[Profeta K]\nVocê não tem Zeny suficiente!\nÉ uma relíquia divina imbuída com a energia das 12 Deidades do Zodíaco!\nVale 5.000.000 Zeny...\nQue tal pedir emprestado a um amigo...?",
+        "es": "[Profeta K]\n¡Te falta Zeny!\n¡Es una reliquia divina imbuida con la energía de las 12 Deidades del Zodiaco!\nCon un valor de 5,000,000 Zeny...\n¿Qué tal si le pides prestado a un amigo...?"
+    },
+    "STVBDA": {
+        "ko": "[예언자 K]\n아무래도 나의 예지몽은\n아직 끝나지 않은 것 같아.\n분명히 그 이후 12지신의\n기운을 받은 영웅들에 대한\n예지몽이 이어질 것 같아.",
+        "en": "[Prophet K]\nIt seems my prophetic dream\nis not over yet.\nIt seems the prophetic dreams about\nthe heroes imbued with the energy\nof the other Zodiac Deities will continue.",
+        "pt": "[Profeta K]\nParece que meu sonho profético\nainda não terminou.\nParece que os sonhos proféticos sobre\nos heróis imbuídos com a energia\ndas outras Deidades do Zodíaco continuarão.",
+        "es": "[Profeta K]\nParece que mi sueño profético\naún no ha terminado.\nParece que los sueños proféticos sobre\nlos héroes imbuidos con la energía\nde las otras Deidades del Zodiaco continuarán."
+    },
+    "SjVBDA": {
+        "ko": "오르드만",
+        "en": "Ordman",
+        "pt": "Ordman",
+        "es": "Ordman"
+    },
+    "SzVBDA": {
+        "ko": "[오르드만]\n흠흠.... 곧 온다고 했는데..\n아직인가..",
+        "en": "[Ordman]\nHmm... They said they'd come soon...\nNot yet, I guess...",
+        "pt": "[Ordman]\nHum... Disseram que viriam em breve...\nAinda não, acho...",
+        "es": "[Ordman]\nMmm... Dijeron que vendrían pronto...\n¿Todavía no, supongo...?"
+    },
+    "TDVBDA": {
+        "ko": "-예언자 K가 말한 사람이 맞는 것 같은데 ^4D4DFF예언자 K의 밀서^000000가 없다.-",
+        "en": "- It seems like the person Prophet K mentioned, but I don't have ^4D4DFFProphet K's Secret Letter^000000. -",
+        "pt": "- Parece ser a pessoa que o Profeta K mencionou, mas não tenho a ^4D4DFFCarta Secreta do Profeta K^000000. -",
+        "es": "- Parece ser la persona que mencionó el Profeta K, pero no tengo la ^4D4DFFCarta Secreta del Profeta K^000000. -"
+    },
+    "TTVBDA": {
+        "ko": "[오르드만]\n지루한 일상... 재미없다..\n뭐 화끈한 일 없을까..",
+        "en": "[Ordman]\nBoring routine... So dull...\nI wish something exciting would happen...",
+        "pt": "[Ordman]\nRotina chata... Tão monótona...\nQueria que algo emocionante acontecesse...",
+        "es": "[Ordman]\nRutina aburrida... Tan monótona...\nOjalá pasara algo emocionante..."
+    },
+    "TjVBDA": {
+        "ko": "- 뭐라고 말을 걸어야 할까? -",
+        "en": "- What should I say to him? -",
+        "pt": "- O que devo dizer a ele? -",
+        "es": "- ¿Qué debería decirle? -"
+    },
+    "TzVBDA": {
+        "ko": "인상이 참 좋으세요.",
+        "en": "You have a great vibe.",
+        "pt": "Você tem uma vibe ótima.",
+        "es": "Tienes una vibra genial."
+    },
+    "UDVBDA": {
+        "ko": "기운이 참 좋으세요",
+        "en": "You have great energy.",
+        "pt": "Você tem uma energia ótima.",
+        "es": "Tienes muy buena energía."
+    },
+    "UTVBDA": {
+        "ko": "얼굴에서 빛이 나시네요",
+        "en": "Your face is glowing.",
+        "pt": "Seu rosto está brilhando.",
+        "es": "Tu rostro brilla."
+    },
+    "UjVBDA": {
+        "ko": "조상님이 공덕을 많이 쌓았나봐요",
+        "en": "Your ancestors must have accumulated much virtue.",
+        "pt": "Seus ancestrais devem ter acumulado muita virtude.",
+        "es": "Tus ancestros deben haber acumulado mucha virtud."
+    },
+    "UzVBDA": {
+        "ko": "[오르드만]\n후후.. 제가 좀\n생기긴 했죠..",
+        "en": "[Ordman]\nHuhu.. I guess I am\na bit vibrant..",
+        "pt": "[Ordman]\nHuhu.. Acho que sou\num pouco vibrante mesmo..",
+        "es": "[Ordman]\nJuju.. Supongo que soy\nun poco vibrante.."
+    },
+    "VDVBDA": {
+        "ko": "[오르드만]\n그런데 무슨일로...\n저를 찾아 오셨나요?",
+        "en": "[Ordman]\nBut what brings you...\nhere to see me?",
+        "pt": "[Ordman]\nMas o que te traz...\naté mim?",
+        "es": "[Ordman]\nPero, ¿a qué debes...\ntu visita?"
+    },
+    "VTVBDA": {
+        "ko": "예언자 K의 밀서를 건넨다",
+        "en": "Hand over Prophet K's Secret Letter.",
+        "pt": "Entregar a Carta Secreta do Profeta K.",
+        "es": "Entregar la Carta Secreta del Profeta K."
+    },
+    "VjVBDA": {
+        "ko": "- 에언자 K의 밀서를 -\n- 건네고 자초지종을 -\n- 이야기 했다. -",
+        "en": "- Handed over Prophet K's Secret Letter -\n- and explained the whole story. -",
+        "pt": "- Entregou a Carta Secreta do Profeta K -\n- e explicou toda a história. -",
+        "es": "- Entregó la Carta Secreta del Profeta K -\n- y explicó toda la historia. -"
+    },
+    "VzVBDA": {
+        "ko": "[오르드만]\n솔직히 당신의 말을\n쉽게 믿을 수는 없어요.\n꼭 만화속에 나오는\n이야기 같잖아요?",
+        "en": "[Ordman]\nFrankly, I can't easily\nbelieve your story.\nIt sounds like something\nstraight out of a comic, doesn't it?",
+        "pt": "[Ordman]\nSinceramente, não consigo\nacreditar na sua história facilmente.\nParece algo saído\nde uma história em quadrinhos, não acha?",
+        "es": "[Ordman]\nSinceramente, no puedo\ncreer tu historia fácilmente.\nSuena como algo\nsacado de un cómic, ¿no?"
+    },
+    "WDVBDA": {
+        "ko": "[오르드만]\n당신의 말을 믿고\n이 밀서를 읽게 하고 싶다면\n당신에 대한 신뢰가 필요해요.",
+        "en": "[Ordman]\nIf you want me to believe you\nand read this secret letter,\nI need to trust you first.",
+        "pt": "[Ordman]\nSe você quer que eu acredite em você\ne leia esta carta secreta,\npreciso confiar em você primeiro.",
+        "es": "[Ordman]\nSi quieres que te crea\ny lea esta carta secreta,\nnecesito confiar en ti primero."
+    },
+    "WTVBDA": {
+        "ko": "제가 어떻게 하면..될까요?",
+        "en": "What should I do...?",
+        "pt": "O que devo fazer...?",
+        "es": "¿Qué debo hacer...?"
+    },
+    "WjVBDA": {
+        "ko": "[오르드만]\n음... 제가 지금\n꼭 필요한게 있거든요,\n그 걸 가져다 주시면\n그쪽에서 그만큼 의지가\n있는 걸로 판단 할게요",
+        "en": "[Ordman]\nWell... There's something\nI really need right now.\nIf you can bring it to me,\nI'll take that as a sign\nof your sincerity.",
+        "pt": "[Ordman]\nBem... Tem algo\nque eu realmente preciso agora.\nSe você puder trazer para mim,\nvou tomar isso como um sinal\nda sua sinceridade.",
+        "es": "[Ordman]\nBueno... Hay algo\nque realmente necesito ahora.\nSi puedes traérmelo,\nlo tomaré como una señal\nde tu sinceridad."
+    },
+    "WzVBDA": {
+        "ko": "[오르드만]\n제가 새로운 농사를\n준비중인데 농사를 위해\n식물의 싹이 필요해요.\n네잎 클로버 1개 히나레 1개\n새싹 5개, 클로버 5개만\n가져다 주세요.",
+        "en": "[Ordman]\nI'm preparing for a new kind of farming,\nand for that, I need plant sprouts.\nPlease bring me\n1 Four-Leaf Clover, 1 Hinale,\n5 Sprouts, and 5 Clovers.",
+        "pt": "[Ordman]\nEstou preparando um novo tipo de plantação,\ne para isso, preciso de brotos de plantas.\nPor favor, traga para mim\n1 Trevo de Quatro Folhas, 1 Hinale,\n5 Brotos e 5 Trevos.",
+        "es": "[Ordman]\nEstoy preparando un nuevo tipo de cultivo,\ny para eso, necesito brotes de plantas.\nPor favor, tráeme\n1 Trébol de Cuatro Hojas, 1 Hinale,\n5 Brotes y 5 Tréboles."
+    },
+    "XDVBDA": {
+        "ko": "[오르드만]\n그 정도 성의를 보여주시면\n충분히 당신의 이야기와\n이 밀서에 관한 내용에\n신뢰가 갈 것 같아요.\n그래 주실거죠?\n기다리고 있을게요~!",
+        "en": "[Ordman]\nIf you show that much sincerity,\nI think I'll be able to trust\nyour story and the contents\nof this secret letter.\nYou'll do it, right?\nI'll be waiting~!",
+        "pt": "[Ordman]\nSe você mostrar essa sinceridade,\nacho que poderei confiar\nna sua história e no conteúdo\ndesta carta secreta.\nVocê fará isso, certo?\nEstarei esperando~!",
+        "es": "[Ordman]\nSi muestras esa sinceridad,\ncreo que podré confiar\nen tu historia y en los contenidos\nde esta carta secreta.\nLo harás, ¿verdad?\n¡Estaré esperando~!"
+    },
+    "XTVBDA": {
+        "ko": "[오르드만]\n음..? 나한테\n할 말이 있어 보였는데..",
+        "en": "[Ordman]\nHmm..? I thought you\nhad something to tell me..",
+        "pt": "[Ordman]\nHum..? Achei que você\ntinha algo para me dizer..",
+        "es": "[Ordman]\n¿Mmm..? Pensé que\ntenías algo que decirme.."
+    },
+    "XjVBDA": {
+        "ko": "[오르드만]\n제가 기가 쎈 편이긴 한데\n한 눈에 알아보시다니..\n후후..",
+        "en": "[Ordman]\nI am quite powerful,\nbut you noticed at a glance..\nHuhu..",
+        "pt": "[Ordman]\nSou bastante poderoso,\nmas você percebeu de imediato..\nHuhu..",
+        "es": "[Ordman]\nSoy bastante poderoso,\npero lo notaste de inmediato..\nJuju.."
+    },
+    "XzVBDA": {
+        "ko": "[오르드만]\n오늘 새로 산 로션을\n발라서 그런가바요..\n잘샀어~! 후후..",
+        "en": "[Ordman]\nMaybe it's the lotion I bought today..\nGood buy~! Huhu..",
+        "pt": "[Ordman]\nTalvez seja a loção que comprei hoje..\nBoa compra~! Huhu..",
+        "es": "[Ordman]\nQuizás sea la loción que compré hoy..\n¡Buena compra~! Juju.."
+    },
+    "YDVBDA": {
+        "ko": "[오르드만]\n오~! 그래 같아 보이나요?\n우리 외할머니가\n과수원을 물려주셨는데..\n요번에 농사가 잘 될려나?",
+        "en": "[Ordman]\nOh~! Really, it seems that way?\nMy grandmother left me\nan orchard..\nI wonder if the farming will go well this time?",
+        "pt": "[Ordman]\nOh~! Sério, parece mesmo?\nMinha avó me deixou\num pomar..\nSerá que a plantação vai dar certo desta vez?",
+        "es": "[Ordman]\n¡Oh~! ¿En serio, así lo parece?\nMi abuela me dejó\nuna granja de frutales..\n¿Me pregunto si la agricultura irá bien esta vez?"
+    },
+    "YTVBDA": {
+        "ko": "[오르드만]\n왠지 저한테 할 이야기가..\n있어 보이는데..",
+        "en": "[Ordman]\nI feel like you have\nsomething to tell me..",
+        "pt": "[Ordman]\nSinto que você tem\nalgo para me contar..",
+        "es": "[Ordman]\nSiento que tienes\nalgo que contarme.."
+    },
+    "YjVBDA": {
+        "ko": "[오르드만]\n그 정도 성의를 보여주시면\n충분히 당신의 이야기와\n이 밀서에 관한 내용에\n신뢰가 갈 것 같아요.\n그래 주실거죠?",
+        "en": "[Ordman]\nIf you show that much sincerity,\nI think I'll be able to trust\nyour story and the contents\nof this secret letter.\nYou'll do it, right?",
+        "pt": "[Ordman]\nSe você mostrar essa sinceridade,\nacho que poderei confiar\nna sua história e no conteúdo\ndesta carta secreta.\nVocê fará isso, certo?",
+        "es": "[Ordman]\nSi muestras esa sinceridad,\ncreo que podré confiar\nen tu historia y en los contenidos\nde esta carta secreta.\nLo harás, ¿verdad?"
+    },
+    "YzVBDA": {
+        "ko": "부탁한 걸 가져왔어요",
+        "en": "I've brought what you asked for.",
+        "pt": "Trouxe o que você pediu.",
+        "es": "He traído lo que pediste."
+    },
+    "ZDVBDA": {
+        "ko": "[오르드만]\n음? 구해오시다니..\n신뢰를 드릴 수 밖에 없군요.\n이 정도 노력이라면\n12지신님도 감동하실거에요.\n물론 제 신뢰도\n무한히 쌓였습니다~!",
+        "en": "[Ordman]\nOh? You actually went and got them..\nI have no choice but to trust you.\nWith this much effort,\neven the 12 Zodiac Deities would be touched.\nOf course, my trust in you\nhas grown infinitely~!",
+        "pt": "[Ordman]\nOh? Você realmente foi e conseguiu..\nNão tenho escolha a não ser confiar em você.\nCom esse esforço,\naté as 12 Deidades do Zodíaco ficariam comovidas.\nClaro, minha confiança em você\ncresceu infinitamente~!",
+        "es": "[Ordman]\n¿Oh? En verdad fuiste y los conseguiste..\nNo tengo más remedio que confiar en ti.\nCon este esfuerzo,\nhasta las 12 Deidades del Zodiaco se conmoverían.\nPor supuesto, mi confianza en ti\nha crecido infinitamente~!"
+    },
+    "ZTVBDA": {
+        "ko": "[오르드만]\n구해 오신건\n잘 쓰도록 하겠습니다.\n그리고 당신이 이야기한\n내용과 이 밀서를 신중하게\n읽어보겠습니다.",
+        "en": "[Ordman]\nI'll make good use\nof what you brought.\nAnd I will carefully read\nthe contents you told me about\nand this secret letter.",
+        "pt": "[Ordman]\nVou usar bem\no que você trouxe.\nE vou ler cuidadosamente\no conteúdo que você me contou\ne esta carta secreta.",
+        "es": "[Ordman]\nUsaré bien\nlo que trajiste.\nY leeré cuidadosamente\nlos contenidos que me contaste\ny esta carta secreta."
+    },
+    "ZjVBDA": {
+        "ko": "[오르드만]\n그럼 이 밀서를 보내준\n예언자 K라는 분에게도\n잘 이야기해주시길.",
+        "en": "[Ordman]\nPlease convey this to Prophet K,\nthe one who sent this secret letter.",
+        "pt": "[Ordman]\nPor favor, transmita isso ao Profeta K,\nquem enviou esta carta secreta.",
+        "es": "[Ordman]\nPor favor, transmite esto al Profeta K,\nquien envió esta carta secreta."
+    },
+    "ZzVBDA": {
+        "ko": "[오르드만]\n음...? 아직 부족해 보이는데요?\n네잎 클로버 1개 히나레 1개\n클로버 5개, 새싹 5개를\n가져다 주세요~!",
+        "en": "[Ordman]\nHmm...? It still seems insufficient.\nPlease bring me\n1 Four-Leaf Clover, 1 Hinale,\n5 Clovers, and 5 Sprouts~!",
+        "pt": "[Ordman]\nHum...? Ainda parece insuficiente.\nPor favor, traga para mim\n1 Trevo de Quatro Folhas, 1 Hinale,\n5 Trevos e 5 Brotos~!",
+        "es": "[Ordman]\n¿Mmm...? Todavía parece insuficiente.\nPor favor, tráeme\n1 Trébol de Cuatro Hojas, 1 Hinale,\n5 Tréboles y 5 Brotes~!"
+    },
+    "aDVBDA": {
+        "ko": "[오르드만]\n후~ 날씨가 좋군요~\n이런날에는\n놀러 가야하는데~",
+        "en": "[Ordman]\nWhew~ The weather is nice~\nOn a day like this,\nI should go out~",
+        "pt": "[Ordman]\nUfa~ O tempo está bom~\nNum dia desses,\neu deveria sair~!",
+        "es": "[Ordman]\nUf~ Hace buen clima~\nEn un día como este,\n¡debería salir a pasear~!"
+    }
+}

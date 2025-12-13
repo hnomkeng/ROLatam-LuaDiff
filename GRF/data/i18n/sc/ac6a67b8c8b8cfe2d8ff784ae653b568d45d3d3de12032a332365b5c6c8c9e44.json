@@ -33,7 +33,7 @@
         "ko": "[초심자 무기 담당자]\n자네에게 <ITEM>[초심자 장비 교환권]<INFO>25427</INFO></ITEM>이 있으면 초심자가 사용하기 적당한 ^0000CD무기를 주고^000000, <ITEM>[초심자 무기 7제련 이용권]<INFO>25428</INFO></ITEM>이 있다면 초심자 ^0000CD무기를 제련^000000해 줄까 하는데, 어때?",
         "en": "[Rebeginner Weapon Manager]\nIf you have an <ITEM>[Rebeginner Coupon]<INFO>25427</INFO></ITEM>, I'll give you a ^0000CDweapon suitable for a beginner^000000, and if you have an <ITEM>[Rebeginner Weapon +7 Refining Voucher]<INFO>25428</INFO></ITEM>, I can ^0000CDrefine a beginner's weapon^000000 for you. How about it?",
         "pt": "[Gerente de Armas]\nSe você tem um <ITEM>[Cupom Inicial]<INFO>25427</INFO></ITEM>, vou te dar uma ^0000CDarma adequada para um iniciante^000000, e se você tem um <ITEM>[Refinador Inicial +7]<INFO>25428</INFO></ITEM>, posso ^0000CDrefinar uma Arma Inicial^000000 para você. Que tal?",
-        "es": "[Gerente de Armas]\nSi tienes un <ITEM>[Cupón Inicial]<INFO>25427</INFO></ITEM>, te daré un ^0000CDarma adecuada para un principiante^000000, y si tienes un <ITEM>[Refinador Inicial +7]<INFO>25428</INFO></ITEM}, puedo ^0000CDrefinar un Arma Inicial^000000 para ti. ¿Qué te parece?"
+        "es": "[Gerente de Armas]\nSi tienes un <ITEM>[Cupón Inicial]<INFO>25427</INFO></ITEM>, te daré un ^0000CDarma adecuada para un principiante^000000, y si tienes un <ITEM>[Refinador Inicial +7]<INFO>25428</INFO></ITEM>, puedo ^0000CDrefinar un Arma Inicial^000000 para ti. ¿Qué te parece?"
     },
     "xic+DA": {
         "ko": "[초심자 무기 담당자]\n관심이 있나? 당연히 있겠지! 어떤 것에 관심이 있나?",
@@ -127,9 +127,9 @@
     },
     "1Sc+DA": {
         "ko": "초심자 룬나이트의 투핸드소드",
-        "en": "Beginner Rune Knight's Two-Handed Sword",
-        "pt": "Faço parte dos Cavaleiros Rúnicos",
-        "es": "Soy de los Caballeros Rúnicos"
+        "en": "Rebeginner Claymore",
+        "pt": "Claymore Inicial",
+        "es": "Claymore Inicial"
     },
     "1ic+DA": {
         "ko": "[초심자 무기 담당자]\n룬나이트구나. 그럼 이게 딱이지!",
@@ -139,9 +139,9 @@
     },
     "1yc+DA": {
         "ko": "초심자 로얄가드의 랜스",
-        "en": "Beginner Royal Guard's Lance",
-        "pt": "Faço parte dos Guardiões Reais",
-        "es": "Soy de los Guardia Reales"
+        "en": "Rebeginner Lance",
+        "pt": "Lança Inicial",
+        "es": "Lanza Inicial"
     },
     "2Cc+DA": {
         "ko": "[초심자 무기 담당자]\n로얄가드구나. 그럼 이게 딱이지!",
@@ -151,9 +151,9 @@
     },
     "2Sc+DA": {
         "ko": "초심자 미케닉의 메이스",
-        "en": "Beginner Mechanic's Mace",
-        "pt": "Faço parte dos Mecânicos",
-        "es": "Soy de los Mecánicos"
+        "en": "Rebeginner Mace",
+        "pt": "Maça Inicial",
+        "es": "Maza Inicial"
     },
     "2ic+DA": {
         "ko": "[초심자 무기 담당자]\n미케닉이구나. 그럼 이게 딱이지!",
@@ -163,9 +163,9 @@
     },
     "2yc+DA": {
         "ko": "초심자 제네릭의 소드",
-        "en": "Beginner Genetic's Sword",
-        "pt": "Faço parte dos Bioquímicos",
-        "es": "Soy de los Genetistas"
+        "en": "Rebeginner Sword",
+        "pt": "Espada Inicial",
+        "es": "Espada Inicial"
     },
     "3Cc+DA": {
         "ko": "[초심자 무기 담당자]\n제네릭이구나. 그럼 이게 딱이지!",
@@ -175,9 +175,9 @@
     },
     "3Sc+DA": {
         "ko": "초심자 길로틴크로스의 카타르",
-        "en": "Beginner Guillotine Cross's Katar",
-        "pt": "Faço parte dos Sicários",
-        "es": "Soy de los Cortadores de Cruces"
+        "en": "Rebeginner Katar",
+        "pt": "Katar Inicial",
+        "es": "Katar Inicial"
     },
     "3ic+DA": {
         "ko": "[초심자 무기 담당자]\n길로틴크로스구나. 그럼 이게 딱이지!",
@@ -187,9 +187,9 @@
     },
     "3yc+DA": {
         "ko": "초심자 쉐도우체이서의 대거",
-        "en": "Beginner Shadow Chaser's Dagger",
-        "pt": "Faço parte dos Renegados",
-        "es": "Soy de los Perseguidores de Sombras"
+        "en": "Rebeginner Dagger",
+        "pt": "Adaga Inicial",
+        "es": "Daga Inicial"
     },
     "4Cc+DA": {
         "ko": "[초심자 무기 담당자]\n쉐도우체이서구나. 그럼 이게 딱이지!",
@@ -199,9 +199,9 @@
     },
     "4Sc+DA": {
         "ko": "초심자 워록의 스태프",
-        "en": "Beginner Warlock's Staff",
-        "pt": "Faço parte dos Arcanos",
-        "es": "Soy de los Brujos"
+        "en": "Rebeginner Staff",
+        "pt": "Bastão Inicial",
+        "es": "Báculo Inicial"
     },
     "4ic+DA": {
         "ko": "[초심자 무기 담당자]\n워록이구나. 그럼 이게 딱이지!",
@@ -211,9 +211,9 @@
     },
     "4yc+DA": {
         "ko": "초심자 소서러의 지팡이",
-        "en": "Beginner Sorcerer's Staff",
-        "pt": "Faço parte dos Feiticeiros",
-        "es": "Soy de los Conjuradores"
+        "en": "Rebeginner Staff",
+        "pt": "Cajado Inicial",
+        "es": "Báculo Inicial"
     },
     "5Cc+DA": {
         "ko": "[초심자 무기 담당자]\n소서러구나. 그럼 이게 딱이지!",
@@ -223,9 +223,9 @@
     },
     "5Sc+DA": {
         "ko": "초심자 아크비숍의 성서",
-        "en": "Beginner Arch Bishop's Bible",
-        "pt": "Faço parte dos Arcebispos",
-        "es": "Soy de los Arzobispos"
+        "en": "Rebeginner Bible",
+        "pt": "Bíblia Inicial",
+        "es": "Biblia Inicial"
     },
     "5ic+DA": {
         "ko": "[초심자 무기 담당자]\n아크비숍이구나. 그럼 이게 딱이지!",
@@ -235,9 +235,9 @@
     },
     "5yc+DA": {
         "ko": "초심자 수라의 너클",
-        "en": "Beginner Sura's Knuckle",
-        "pt": "Faço parte dos Shuras",
-        "es": "Soy de los Suras"
+        "en": "Rebeginner Knuckles",
+        "pt": "Soqueira Inicial",
+        "es": "Nudillo Inicial"
     },
     "6Cc+DA": {
         "ko": "[초심자 무기 담당자]\n수라구나. 그럼 이게 딱이지!",
@@ -247,9 +247,9 @@
     },
     "6Sc+DA": {
         "ko": "초심자 레인저의 활",
-        "en": "Beginner Ranger's Bow",
-        "pt": "Faço parte dos Sentinelas",
-        "es": "Soy de los Errantes"
+        "en": "Rebeginner Arbalest",
+        "pt": "Arbaleste Inicial",
+        "es": "Ballesta Inicial"
     },
     "6ic+DA": {
         "ko": "[초심자 무기 담당자]\n레인저구나. 그럼 이게 딱이지!",
@@ -259,9 +259,9 @@
     },
     "6yc+DA": {
         "ko": "초심자 원더러&민스트럴의 활",
-        "en": "Beginner Wanderer & Minstrel's Bow",
-        "pt": "Faço parte dos Artistas",
-        "es": "Soy de los Artistas"
+        "en": "Rebeginner Bow",
+        "pt": "Arco Inicial",
+        "es": "Arco Inicial"
     },
     "7Cc+DA": {
         "ko": "[초심자 무기 담당자]\n원더러구나. 그럼 이게 딱이지!",
@@ -277,9 +277,9 @@
     },
     "7ic+DA": {
         "ko": "초심자 카게로우&오보로의 풍마수리검",
-        "en": "Beginner Kagerou & Oboro's Fuuma Shuriken",
-        "pt": "Faço parte dos Ninjas",
-        "es": "Soy de los Ninjas"
+        "en": "Rebeginner Huuma Shuriken",
+        "pt": "Shuriken Huuma Inicial",
+        "es": "Shuriken Huuma Inicial"
     },
     "7yc+DA": {
         "ko": "[초심자 무기 담당자]\n오보로구나. 그럼 이게 딱이지!",
@@ -295,9 +295,9 @@
     },
     "8Sc+DA": {
         "ko": "초심자 리벨리온의 리볼버",
-        "en": "Beginner Rebellion's Revolver",
-        "pt": "Faço parte dos Insurgentes",
-        "es": "Soy de los Rebeldes"
+        "en": "Rebeginner Revolver",
+        "pt": "Revólver Inicial",
+        "es": "Revólver Inicial"
     },
     "8ic+DA": {
         "ko": "[초심자 무기 담당자]\n리벨리온이구나. 그럼 이게 딱이지!",
@@ -307,9 +307,9 @@
     },
     "8yc+DA": {
         "ko": "초심자 소환사의 강아지풀",
-        "en": "Beginner Summoner's Grass Weaved Doll",
-        "pt": "Faço parte dos Invocadores",
-        "es": "Soy de los Invocadores"
+        "en": "Rebeginner Foxtail",
+        "pt": "Cauda de Gato Inicial",
+        "es": "Cola de Gato Inicial"
     },
     "9Cc+DA": {
         "ko": "[초심자 무기 담당자]\n소환사구나. 그럼 이게 딱이지!",
@@ -319,9 +319,9 @@
     },
     "9Sc+DA": {
         "ko": "초심자 슈퍼노비스의 메이스",
-        "en": "Beginner Super Novice's Mace",
-        "pt": "Faço parte dos Superaprendizes",
-        "es": "Soy de los Súper Principiantes"
+        "en": "Rebeginner Club",
+        "pt": "Clava Inicial",
+        "es": "Clava Inicial"
     },
     "9ic+DA": {
         "ko": "[초심자 무기 담당자]\n한계를 돌파한 슈퍼 노비스구나. 그럼 이게 딱이지!",

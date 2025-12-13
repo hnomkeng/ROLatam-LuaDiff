@@ -1,110 +1,218 @@
 {
     "QNgrDA": {
-        "ko": "도노반"
+        "ko": "도노반",
+        "en": "Donovan",
+        "pt": "Donovan",
+        "es": "Donovan"
     },
     "QdgrDA": {
-        "ko": "[도노반]\n안녕하세요"
+        "ko": "- 소지하고 계신 아이템이 많아 진행할 수 없습니다. -",
+        "en": "[Donovan]\nHello",
+        "pt": "[Donovan]\nOlá",
+        "es": "[Donovan]\nHola"
     },
     "QtgrDA": {
-        "ko": "[도노반]\n본토에서 건너오신 모험가시죠?\n저는 하수도 관리를 하고있는\n도노반 입니다."
+        "ko": "[도노반]\n본토에서 건너오신 모험가시죠?\n저는 하수도 관리를 하고있는\n도노반 입니다.",
+        "en": "[Donovan]\nYou must be the adventurer from the mainland?\nI'm Donovan,\nthe one who manages the sewers.",
+        "pt": "[Donovan]\nVocê é de outro continente?\nEu sou o Donovan,\no responsável pelos esgotos.",
+        "es": "[Donovan]\n¿Debes ser el trotamundos del continente?\nSoy Donovan,\nel que se encarga de las cloacas."
     },
     "Q9grDA": {
-        "ko": "[도노반]\n지금은 소적단이니 광산이니\n문제가 워낙 많아서 아무도\n하수도에 신경을 안쓰지만요.\n소적단 문제부터 먼저\n해결해야 겠어요."
+        "ko": "[도노반]\n지금은 소적단이니 광산이니\n문제가 워낙 많아서 아무도\n하수도에 신경을 안쓰지만요.\n소적단 문제부터 먼저\n해결해야 겠어요.",
+        "en": "[Donovan]\nRight now, \nwith so many problems like the \npetty thieves gang and the mines,\nnobody pays any attention to the sewers.\nWe need to solve the petty thieves problem first.",
+        "pt": "[Donovan]\nNo momento, \ncom tantos problemas com \nos Búfalos Bandidos,\nninguém presta atenção nos esgotos.\nPrecisamos resolver o problema dos bandidos primeiro.",
+        "es": "[Donovan]\nAhora mismo, \ncon tantos problemas como \nla banda de ladronzuelos y las minas,\nnadie le presta atención a las cloacas.\nNecesitamos resolver el problema de los ladronzuelos primero."
     },
     "RNgrDA": {
-        "ko": "[도노반]\n오!\n소적놈들을 쫓아내 주신 분이군요!\n영광입니다!"
+        "ko": "[도노반]\n오!\n소적놈들을 쫓아내 주신 분이군요!\n영광입니다!",
+        "en": "[Donovan]\nOh!\nYou're the one who drove out those petty thieves!\nIt's an honor!",
+        "pt": "[Donovan]\nOh!\nVocê é quem expulsou aqueles bandidos!\nÉ uma honra!",
+        "es": "[Donovan]\n¡Oh!\n¡Tú eres quien echó a esos ladronzuelos!\n¡Es un honor!"
     },
     "RdgrDA": {
-        "ko": "[도노반]\n음 모험가님 이라면\n소적놈들을 쫓아내신 것 처럼\n저도 도와주실 거라 믿어요.\n괜찮으세요??"
+        "ko": "[도노반]\n음 모험가님 이라면\n소적놈들을 쫓아내신 것 처럼\n저도 도와주실 거라 믿어요.\n괜찮으세요??",
+        "en": "[Donovan]\nHmm, if you're an adventurer,\nI believe you'll help me too, just like you drove out the petty thieves.\nIs that okay??",
+        "pt": "[Donovan]\nHmm, se você é um desses aventureiros,\nacredito que você também vai me ajudar, assim como expulsou os bandidos.\nCerto??",
+        "es": "[Donovan]\nMmm, si eres un aventurero,\ncreo que tú también me ayudarás, tal como echaste a los ladronzuelos.\n¿Te parece bien?"
     },
     "RtgrDA": {
-        "ko": "[{0}]\n- 음 무슨 문제가 또 있나요?"
+        "ko": "[{0}]\n- 음 무슨 문제가 또 있나요?",
+        "en": "[{0}]\n- Hmm, is there another problem?",
+        "pt": "[{0}]\nHmm, tem outro problema?",
+        "es": "[{0}]\n- Mmm, ¿hay otro problema?"
     },
     "R9grDA": {
-        "ko": "[도노반]\n아 이런 제 소개도 안했네요.\n저는 하수도 관리를 하고있는\n도노반 입니다.\n마을 지하에 있는 펌프와\n하수도를 관리하죠."
+        "ko": "[도노반]\n아 이런 제 소개도 안했네요.\n저는 하수도 관리를 하고있는\n도노반 입니다.\n마을 지하에 있는 펌프와\n하수도를 관리하죠.",
+        "en": "[Donovan]\nAh, right, I haven't even introduced myself properly.\nI'm Donovan,\nthe one who manages the sewers.\nI take care of the pumps and sewers\nunderneath the town.",
+        "pt": "[Donovan]\nAh, certo, nem me apresentei direito.\nEu sou o Donovan,\no responsável pelos esgotos.\nEu cuido das bombas e dos esgotos\nembaixo da cidade.",
+        "es": "[Donovan]\nAh, cierto, ni siquiera me he presentado bien.\nSoy Donovan,\nel que gestiona las cloacas.\nMe encargo de las bombas y las cloacas\ndebajo del pueblo."
     },
     "SNgrDA": {
-        "ko": "[도노반]\n마을 지하에서 주기적으로\n지하수가 솟아올라 와요.\n그래서 이 물을 바다 밖으로\n퍼내지 않으면 마을이 또 침수 될거예요."
+        "ko": "[도노반]\n마을 지하에서 주기적으로\n지하수가 솟아올라 와요.\n그래서 이 물을 바다 밖으로\n퍼내지 않으면 마을이 또 침수 될거예요.",
+        "en": "[Donovan]\nPeriodically, groundwater\ngushes up from under the town.\nIf we don't pump this water out to the sea,\nthe town will flood again.",
+        "pt": "[Donovan]\nPeriodicamente, a água subterrânea\njorra de baixo da cidade.\nSe não bombearmos essa água para o mar,\na cidade vai inundar novamente.",
+        "es": "[Donovan]\nPeriódicamente, el agua subterránea\nbrota desde debajo del pueblo.\nSi no bombeamos esta agua al mar,\nel pueblo se inundará de nuevo."
     },
     "SdgrDA": {
-        "ko": "[도노반]\n그래서 펌프와 하수도가 제대로\n작동 하는지 확인하고 관리를\n해줘야 해요.\n그리고 그게 제 일이죠."
+        "ko": "[도노반]\n그래서 펌프와 하수도가 제대로\n작동 하는지 확인하고 관리를\n해줘야 해요.\n그리고 그게 제 일이죠.",
+        "en": "[Donovan]\nSo we need to check if the pumps and sewers\nare working properly and maintain them.\nAnd that's my job.",
+        "pt": "[Donovan]\nPor isso precisamos verificar se as bombas e esgotos\nestão funcionando direito e fazer a manutenção.\nE esse é o meu trabalho.",
+        "es": "[Donovan]\nAsí que necesitamos verificar que las bombas y cloacas\nfuncionen correctamente y mantenerlas.\nY ese es mi trabajo."
     },
     "StgrDA": {
-        "ko": "[도노반]\n근데 저 혼자 그 일을 하기엔\n신경쓸 일이 너무 많아져서\n도와줄 사람을 찾고 있어요.\n일은 그리 어려운게 아니니\n모험가님이 도와주시겠어요?"
+        "ko": "[도노반]\n근데 저 혼자 그 일을 하기엔\n신경쓸 일이 너무 많아져서\n도와줄 사람을 찾고 있어요.\n일은 그리 어려운게 아니니\n모험가님이 도와주시겠어요?",
+        "en": "[Donovan]\nBut there's too much to handle alone,\nso I'm looking for someone to help.\nThe work isn't very difficult,\nso will you help me, adventurer?",
+        "pt": "[Donovan]\nMas tem muita coisa para lidar sozinho,\nentão estou procurando alguém para ajudar.\nO trabalho não é muito difícil,\nentão você me ajuda, viajante?",
+        "es": "[Donovan]\nPero hay demasiado para manejar solo,\nasí que estoy buscando a alguien que me ayude.\nEl trabajo no es muy difícil,\nasí que, ¿me ayudarás, trotamundos?"
     },
     "S9grDA": {
-        "ko": "예 그러죠."
+        "ko": "예 그러죠.",
+        "en": "Yes, sure.",
+        "pt": "Sim, claro.",
+        "es": "Sí, claro."
     },
     "TNgrDA": {
-        "ko": "지금은 좀 바빠서..."
+        "ko": "지금은 좀 바빠서...",
+        "en": "I'm a bit busy right now...",
+        "pt": "Estou um pouco ocupado agora...",
+        "es": "Estoy un poco ocupado ahora..."
     },
     "TdgrDA": {
-        "ko": "[도노반]\n와우~ 정말 감사합니다.\n별로 어려운 일은 아녜요.\n지하로 내려가셔서\n파이프나 펌프에 붙어있는\n말미잘들을 제거해 주시면 되요."
+        "ko": "[도노반]\n와우~ 정말 감사합니다.\n별로 어려운 일은 아녜요.\n지하로 내려가셔서\n파이프나 펌프에 붙어있는\n말미잘들을 제거해 주시면 되요.",
+        "en": "[Donovan]\nWow~ Thank you so much.\nIt's not really hard work.\nYou just need to go down underground\nand remove the sea anemones\nattached to the pipes or pumps.",
+        "pt": "[Donovan]\nUau~ Muito obrigado.\nNão é um trabalho difícil.\nVocê só precisa descer para o subsolo\ne remover as Anêmonas-do-Mar\ngrudadas nos canos ou nas bombas.",
+        "es": "[Donovan]\nGuau~ Muchas gracias.\nRealmente no es un trabajo difícil.\nSolo necesitas bajar al subsuelo\ny eliminar las anémonas\nadheridas a las tuberías o bombas."
     },
     "TtgrDA": {
-        "ko": "[도노반]\n지하로 내려가시려면\n여기서 동쪽으로 쭈욱 가셔서\n죠를 찾아가 보세요.\n그에게 얘기하시면\n지하로 들여보내 줄꺼예요."
+        "ko": "[도노반]\n지하로 내려가시려면\n여기서 동쪽으로 쭈욱 가셔서\n죠를 찾아가 보세요.\n그에게 얘기하시면\n지하로 들여보내 줄꺼예요.",
+        "en": "[Donovan]\nTo go underground,\nhead straight east from here\nand try to find Jow.\nIf you talk to him,\nhe'll let you in.",
+        "pt": "[Donovan]\nPara descer ao subsolo,\nsiga direto para leste daqui\ne tente encontrar Jow.\nSe falar com ele,\nele vai te deixar entrar.",
+        "es": "[Donovan]\nPara bajar al subsuelo,\nve directo al este desde aquí\ne intenta encontrar a Jow.\nSi le hablas,\nte dejará entrar."
     },
     "T9grDA": {
-        "ko": "[도노반]\n우리끼리는 '과묵한 죠' 라고 부릅니다.\n그럼 잘 부탁 드립니다!"
+        "ko": "[도노반]\n우리끼리는 '과묵한 죠' 라고 부릅니다.\n그럼 잘 부탁 드립니다!",
+        "en": "[Donovan]\nAmong us, we call him 'Quiet Jo'.\nWell then, I'm counting on you!",
+        "pt": "[Donovan]\nEu o chamo de 'Jow, o Quieto'.\nEntão, conto com você!",
+        "es": "[Donovan]\nEntre nosotros, lo llamamos 'Jo el Callado'.\n¡Bien, entonces, cuento contigo!"
     },
     "UNgrDA": {
-        "ko": "[도노반]\n아 그러신가요?\n흐음... 어쩔 수 없죠.\n나중에라도 들러 주세요."
+        "ko": "[도노반]\n아 그러신가요?\n흐음... 어쩔 수 없죠.\n나중에라도 들러 주세요.",
+        "en": "[Donovan]\nAh, is that so?\nHmm... I guess there's no helping it.\nPlease stop by later.",
+        "pt": "[Donovan]\nAh, é mesmo?\nHmm... não tem jeito então.\nPor favor, apareça mais tarde.",
+        "es": "[Donovan]\nAh, ¿es así?\nMmm... Supongo que no hay remedio.\nPasa por aquí más tarde, por favor."
     },
     "UdgrDA": {
-        "ko": "[도노반]\n여기서 동쪽으로 가시다 보면\n죠를 만날 수 있을꺼예요.\n그에게 말을 걸면\n지하로 들여보내 줄껍니다.\n어서 가보세요."
+        "ko": "[도노반]\n여기서 동쪽으로 가시다 보면\n죠를 만날 수 있을꺼예요.\n그에게 말을 걸면\n지하로 들여보내 줄껍니다.\n어서 가보세요.",
+        "en": "[Donovan]\nIf you go east from here,\nyou should be able to meet Jow.\nIf you talk to him,\nhe'll let you underground.\nGo ahead quickly.",
+        "pt": "[Donovan]\nSe você for para leste daqui,\ndeve conseguir encontrar o Jow.\nSe falar com ele,\nele vai te deixar entrar no subsolo.\nVá logo.",
+        "es": "[Donovan]\nSi vas hacia el este desde aquí,\ndeberías poder encontrar a Jow.\nSi le hablas,\nte dejará bajar al subsuelo.\nVe rápido."
     },
     "UtgrDA": {
-        "ko": "[도노반]\n아 모험가님 다시 오셨군요.\n말미잘들은 좀 제거 하셨나요?\n그리 어려운 일은 아니었죠?"
+        "ko": "[도노반]\n아 모험가님 다시 오셨군요.\n말미잘들은 좀 제거 하셨나요?\n그리 어려운 일은 아니었죠?",
+        "en": "[Donovan]\nAh, adventurer, you're back.\nDid you manage to remove some of the sea anemones?\nIt wasn't too difficult, right?",
+        "pt": "[Donovan]\nAh, viajante, você voltou.\nConseguiu remover algumas Anêmonas-do-Mar?\nNão foi muito difícil, né?",
+        "es": "[Donovan]\nAh, trotamundos, has vuelto.\n¿Lograste eliminar algunas de las anémonas?\nNo fue muy difícil, ¿verdad?"
     },
     "U9grDA": {
-        "ko": "[{0}]\n- 네 어렵진 않더군요...\n- 좀 지겹긴 했지만요."
+        "ko": "[{0}]\n- 네 어렵진 않더군요...\n- 좀 지겹긴 했지만요.",
+        "en": "[{0}]\n- Yes, it wasn't difficult...\n- It was a bit tedious, though.",
+        "pt": "[{0}]\nNão, não foi difícil...\nMas foi um pouco chato.",
+        "es": "[{0}]\n- Sí, no fue difícil...\n- Aunque fue un poco tedioso."
     },
     "VNgrDA": {
-        "ko": "[도노반]\n하핫 그 일이 좀 그렇죠.\n그놈들은 지겹지도 않게\n조금만 관리를 소흘히 하면\n어느틈에 생겨나서 파이프에\n달라붙어 버려요."
+        "ko": "[도노반]\n와우~ 정말 감사합니다.\n별로 어려운 일은 아녜요.\n지하로 내려가셔서\n파이프나 펌프에 붙어있는\n말미잘들을 제거해 주시면 돼요.",
+        "en": "[Donovan]\nHah, that job is a bit like that, isn't it?\nThose guys appear out of nowhere and cling to the pipes\nif you neglect the maintenance even a little,\nand they never get tedious.",
+        "pt": "[Donovan]\nHah, esse trabalho é assim mesmo, né?\nEsses bichos aparecem do nada e grudam nos canos\nse a gente negligencia a manutenção um pouquinho,\neles se dispersam rapidamente.",
+        "es": "[Donovan]\nJa, ese trabajo es un poco así, ¿no?\nEsos tipos aparecen de la nada y se aferran a las tuberías\nsi descuidas el mantenimiento aunque sea un poco,\ny ellos nunca se vuelven tediosos."
     },
     "VdgrDA": {
-        "ko": "[도노반]\n그래서 꾸준히 제거하는게\n나름대로 큰 일이랍니다.\n도와주셔서 정말 고맙습니다.\n말미잘은 또 생겨날테니\n나중에 또 와주세요."
+        "ko": "[도노반]\n지하로 내려가시려면\n여기서 동쪽으로 쭈욱 가셔서\n죠를 찾아가 보세요.\n그에게 얘기하시면\n지하로 들여보내 줄 거예요.",
+        "en": "[Donovan]\nSo removing them consistently\nis quite an important task, really.\nThank you so much for your help.\nSince the sea anemones will grow back,\nplease come again later.",
+        "pt": "[Donovan]\nPor isso, removê-los constantemente\né uma tarefa bem importante, sim.\nMuito obrigado pela sua ajuda.\nComo as Anêmonas-do-Mar vão crescer de novo,\npor favor volte mais tarde.",
+        "es": "[Donovan]\nAsí que eliminarlos consistentemente\nes una tarea bastante importante, la verdad.\nMuchas gracias por tu ayuda.\nComo las anémonas volverán a crecer,\npor favor vuelve más tarde."
     },
     "VtgrDA": {
-        "ko": "[도노반]\n다행히 아직은 파이프에\n말미잘들이 붙어있지 않네요.\n시간이 좀 더 지난 뒤에\n다시 와주시겠어요?"
+        "ko": "[도노반]\n다행히 아직은 파이프에\n말미잘들이 붙어있지 않네요.\n시간이 좀 더 지난 뒤에\n다시 와주시겠어요?",
+        "en": "[Donovan]\nFortunately, there are no sea anemones\nstuck to the pipes yet.\nCould you come back again\nafter a bit more time has passed?",
+        "pt": "[Donovan]\nPor sorte, ainda não tem Anêmonas-do-Mar\ngrudadas nos canos.\nPode voltar de novo\ndepois de passar mais um tempinho?",
+        "es": "[Donovan]\nAfortunadamente, aún no hay anémonas\npegadas a las tuberías.\n¿Podrías volver otra vez\ndespués de que pase un poco más de tiempo?"
     },
     "V9grDA": {
-        "ko": "[도노반]\n오! 잘 와주셨어요.\n안그래도 슬슬 파이프에\n말미잘들이 달라붙어 있길래\n처리해야 할 때가 왔다고 생각 했거든요."
+        "ko": "[도노반]\n오! 잘 와주셨어요.\n안그래도 슬슬 파이프에\n말미잘들이 달라붙어 있길래\n처리해야 할 때가 왔다고 생각 했거든요.",
+        "en": "[Donovan]\nOh! You came at the right time.\nI was just thinking it was time to deal with them,\nas the sea anemones were starting to cling to the pipes.",
+        "pt": "[Donovan]\nOh! Você veio na hora certa.\nEstava mesmo pensando que era hora de lidar com elas,\njá que as Anêmonas-do-Mar estavam começando a grudar nos canos.",
+        "es": "[Donovan]\n¡Oh! Llegaste en el momento justo.\nJusto estaba pensando que era hora de ocuparse de ellas,\nya que las anémonas empezaban a adherirse a las tuberías."
     },
     "WNgrDA": {
-        "ko": "말미잘 제거는 제가 하죠"
+        "ko": "말미잘 제거는 제가 하죠",
+        "en": "I'll handle the sea anemone removal.",
+        "pt": "Vou lidar com a remoção das Anêmonas-do-Mar.",
+        "es": "Yo me encargaré de eliminar las anémonas."
     },
     "WdgrDA": {
-        "ko": "[도노반]\n지하수로로 가는 길은 아시죠?\n그럼 잘 부탁 드립니다!"
+        "ko": "[도노반]\n지하수로로 가는 길은 아시죠?\n그럼 잘 부탁 드립니다!",
+        "en": "[Donovan]\nYou know the way to the underground waterway, right?\nWell then, I'm counting on you!",
+        "pt": "[Donovan]\nVocê sabe o caminho para o canal subterrâneo, né?\nEntão, conto com você!",
+        "es": "[Donovan]\nConoces el camino a la canalización subterránea, ¿verdad?\n¡Bien, entonces, cuento contigo!"
     },
     "WtgrDA": {
-        "ko": "[도노반]\n잘 와주셨어요.\n안그래도 슬슬 파이프에\n말미잘들이 달라붙어 있길래\n처리해야 할 때가 왔다고 생각 했거든요."
+        "ko": "[도노반]\n잘 와주셨어요.\n안그래도 슬슬 파이프에\n말미잘들이 달라붙어 있길래\n처리해야 할 때가 왔다고 생각 했거든요.",
+        "en": "[Donovan]\nYou came at the right time.\nI was just thinking it was time to deal with them,\nas the sea anemones were starting to cling to the pipes.",
+        "pt": "[Donovan]\nVocê veio na hora certa.\nEstava mesmo pensando que era hora de lidar com elas,\njá que as Anêmonas-do-Mar estavam começando a grudar nos canos.",
+        "es": "[Donovan]\nLlegaste en el momento justo.\nJusto estaba pensando que era hora de ocuparse de ellas,\nya que las anémonas empezaban a adherirse a las tuberías."
     },
     "W9grDA": {
-        "ko": "[도노반]\n저는 하수도 관리를 하고있는\n도노반 입니다."
+        "ko": "[도노반]\n저는 하수도 관리를 하고있는\n도노반 입니다.",
+        "en": "[Donovan]\nI'm Donovan,\nthe one who manages the sewers.",
+        "pt": "[Donovan]\nEu sou o Donovan,\no responsável pelos esgotos.",
+        "es": "[Donovan]\nSoy Donovan,\nel que gestiona las cloacas."
     },
     "XNgrDA": {
-        "ko": "죠"
+        "ko": "죠",
+        "en": "Jow",
+        "pt": "Jow",
+        "es": "Jow"
     },
     "XdgrDA": {
-        "ko": "[죠]\n......"
+        "ko": "[죠]\n......",
+        "en": "[Jow]\n......",
+        "pt": "[Jow]\n......",
+        "es": "[Jow]\n......"
     },
     "XtgrDA": {
-        "ko": "[죠]\n들어가실 겁니까?"
+        "ko": "[죠]\n들어가실 겁니까?",
+        "en": "[Jow]\nDo you want to enter?",
+        "pt": "[Jow]\nQuer entrar?",
+        "es": "[Jow]\n¿Quieres entrar?"
     },
     "X9grDA": {
-        "ko": "네"
+        "ko": "네",
+        "en": "Yes",
+        "pt": "Sim",
+        "es": "Sí"
     },
     "YNgrDA": {
-        "ko": "아니오"
+        "ko": "아니오",
+        "en": "No",
+        "pt": "Não",
+        "es": "No"
     },
     "YdgrDA": {
-        "ko": "[죠]\n일이 끝나면\n잽싸게 나오십쇼."
+        "ko": "[죠]\n일이 끝나면\n잽싸게 나오십쇼.",
+        "en": "[Jow]\nWhen you're done with your work,\nget out quickly.",
+        "pt": "[Jow]\nQuando terminar seu trabalho,\nsaia rápido.",
+        "es": "[Jow]\nCuando termines con tu trabajo,\nsal rápidamente."
     },
     "YtgrDA": {
-        "ko": "[도노반]\n......"
+        "ko": "[도노반]\n......",
+        "en": "[Donovan]\n......",
+        "pt": "[Donovan]\n......",
+        "es": "[Donovan]\n......"
     },
     "Y9grDA": {
-        "ko": "[죠]\n하수도에 들어가기엔\n너무 약하시군요.\n돌아가십시오."
+        "ko": "[죠]\n하수도에 들어가기엔\n너무 약하시군요.\n돌아가십시오.",
+        "en": "[Jow]\nYou seem too weak\nto enter the sewers.\nPlease go back.",
+        "pt": "[Jow]\nVocê é criança demais\npara entrar nos esgotos.\nPor favor, volte quando for mais forte.",
+        "es": "[Jow]\nPareces demasiado débil\npara entrar a las cloacas.\nRegresa, por favor."
     }
 }

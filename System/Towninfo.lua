@@ -1687,7 +1687,7 @@ mapNPCInfoTable = {
 			TYPE = 4
 		},
 		{
-			name = "Utilidades",
+			name = "Loja",
 			X = 312,
 			Y = 193,
 			TYPE = 0

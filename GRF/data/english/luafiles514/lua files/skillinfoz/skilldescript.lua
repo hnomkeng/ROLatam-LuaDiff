@@ -443,7 +443,7 @@ SKILL_DESCRIPT = {
 		"[Lv 10]: ^777777+30^000000"
 	},
 	[SKID.AL_DEMONBANE] = {
-		"Demonbane",
+		"Demon Bane",
 		"Max. Lv: 10",
 		"Skill Requirement: ^777777Divine Protection 3^000000",
 		"Skill Type: ^000099Passive^000000",
@@ -473,7 +473,7 @@ SKILL_DESCRIPT = {
 	[SKID.AL_PNEUMA] = {
 		"Pneuma",
 		"Max. Lv: 1",
-		"Skill Requirement: ^777777Warp portal 4^000000",
+		"Skill Requirement: ^777777Warp Portal 4^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Supportive^000000",
 		"Type : ^7777771 cell on ground^000000",
@@ -495,7 +495,7 @@ SKILL_DESCRIPT = {
 	[SKID.AL_WARP] = {
 		"Warp Portal",
 		"Max. Lv: 4",
-		"Skill Requirement: ^777777Teleportation 2^000000",
+		"Skill Requirement: ^777777Teleport 2^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Supportive^000000",
 		"Type : ^7777771 cell on ground^000000",
@@ -512,7 +512,7 @@ SKILL_DESCRIPT = {
 	[SKID.AL_HEAL] = {
 		"Heal",
 		"Max. Lv: 10",
-		"14Skill Requirement: ^777777Faith 10, Demon Bane 5^000000",
+		"Skill Requirement: ^777777Faith 10, Demon Bane 5^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Recovery^000000",
 		"Target: ^7777771 Target^000000",
@@ -543,7 +543,7 @@ SKILL_DESCRIPT = {
 	[SKID.AL_DECAGI] = {
 		"Decrease Agility",
 		"Max. Lv: 10",
-		"Skill Requirement: ^777777Increase agility 1^000000",
+		"Skill Requirement: ^777777Increase Agility 1^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Debuff^000000",
 		"Target: ^7777771 Target^000000",
@@ -825,7 +825,7 @@ SKILL_DESCRIPT = {
 	[SKID.AC_DOUBLE] = {
 		"Double Strafe",
 		"Max. Lv: 10",
-		"17Skill Requirement: ^777777Vulture's Eye 10^000000",
+		"Skill Requirement: ^777777Vulture's Eye 10^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Ranged Physical Attack^000000",
 		"Target: ^7777771 Enemy^000000",
@@ -976,7 +976,7 @@ SKILL_DESCRIPT = {
 	[SKID.ALL_RESURRECTION] = {
 		"Resurrection",
 		"Max. Lv: 4",
-		"Skill Requirement: ^777777Imporves SP recovery 4, Recovery 1^000000",
+		"Skill Requirement: ^777777Increase SP Recovery 4, Status Recovery 1^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Recovery^000000",
 		"Target: ^7777771 Target^000000",
@@ -1279,7 +1279,7 @@ SKILL_DESCRIPT = {
 		"Description : ^777777Stops the HP drain from the Poison status effect that affects a single target.^000000"
 	},
 	[SKID.PR_STRECOVERY] = {
-		"Recovery",
+		"Status Recovery",
 		"Max. Lv: 1",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Supportive^000000",
@@ -1327,7 +1327,7 @@ SKILL_DESCRIPT = {
 		"Gloria",
 		"Max. Lv: 5",
 		"Skill Requirement: ^777777Kyrie Eleison 4, Magnificat 3^000000",
-		"4190Skill Requirement: ^777777Sanctuary 7 ^000000",
+		"Skill Requirement: ^777777Sanctuary 7 ^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Buff^000000",
 		"Target : ^777777Immediately^000000",
@@ -1996,7 +1996,7 @@ SKILL_DESCRIPT = {
 		"[Lv 5]: ^77777740 seconds^000000"
 	},
 	[SKID.HT_ANKLESNARE] = {
-		"Anklesnare",
+		"Ankle Snare",
 		"Max. Lv: 5",
 		"Skill Requirement: ^777777Skid Trap 1^000000",
 		"Skill Type: ^993300Active^000000",
@@ -2015,7 +2015,7 @@ SKILL_DESCRIPT = {
 	[SKID.HT_SHOCKWAVE] = {
 		"Shockwave Trap",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Anklesnare 1^000000",
+		"Skill Requirement: ^777777Ankle Snare 1^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Installation^000000",
 		"Type : ^7777771 cell on ground^000000",
@@ -2138,7 +2138,7 @@ SKILL_DESCRIPT = {
 		"^000088Consumes 1 Trap.^000000"
 	},
 	[SKID.HT_BEASTBANE] = {
-		"Beastbane",
+		"Beast Bane",
 		"Max. Lv: 10",
 		"Skill Type: ^000099Passive^000000",
 		"Description : ^777777Enhances attack (Weapon Mastery) against Brute and Insect race monsters.^000000",
@@ -2157,7 +2157,7 @@ SKILL_DESCRIPT = {
 	[SKID.HT_FALCON] = {
 		"Falconry Mastery",
 		"Max. Lv: 1",
-		"Skill Requirement: ^777777Beastbane 1^000000",
+		"Skill Requirement: ^777777Beast Bane 1^000000",
 		"Skill Type: ^000099Passive^000000",
 		"Description : ^777777Enables Hunters to command a Falcon.",
 		"Additionally, the falcon flutes can be used to load falcons.^000000"
@@ -2183,7 +2183,7 @@ SKILL_DESCRIPT = {
 	[SKID.HT_BLITZBEAT] = {
 		"Blitz Beat",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Falconly Mastery 1^000000",
+		"Skill Requirement: ^777777Falconry Mastery 1^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777special physics^000000",
 		"Target: ^7777771 Enemy^000000",
@@ -2198,9 +2198,9 @@ SKILL_DESCRIPT = {
 		"[Lv 5]: ^7777775^000000 l ^77777722^000000"
 	},
 	[SKID.HT_DETECTING] = {
-		"Detecting",
+		"Detect",
 		"Max. Lv: 4",
-		"Skill Requirement: ^777777Improve Concentration 1, Falconly Mastery 1^000000",
+		"Skill Requirement: ^777777Improve Concentration 1, Falconry Mastery 1^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Supportive^000000",
 		"Type : ^7777771 cell on ground^000000",
@@ -2215,7 +2215,7 @@ SKILL_DESCRIPT = {
 	[SKID.HT_SPRINGTRAP] = {
 		"Spring Trap",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Remove Trap 1, Falconly Mastery^000000",
+		"Skill Requirement: ^777777Remove Trap 1, Falconry Mastery 1^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Supportive^000000",
 		"Type : ^7777771 cell on ground^000000",
@@ -2242,7 +2242,7 @@ SKILL_DESCRIPT = {
 	[SKID.AS_LEFT] = {
 		"Left Hand Mastery",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Righthand Mastery 2^000000",
+		"Skill Requirement: ^777777Right Hand Mastery 2^000000",
 		"Skill Type: ^000099Passive^000000",
 		"Description : ^777777Restores right-hand damage that is reduced when using two-hand weapons.^000000",
 		"Level l Restored ATK",
@@ -2253,7 +2253,7 @@ SKILL_DESCRIPT = {
 		"[Lv 5]: ^77777780%^000000"
 	},
 	[SKID.AS_KATAR] = {
-		"Katar Matery",
+		"Katar Mastery",
 		"Max. Lv: 10",
 		"Skill Type: ^000099Passive^000000",
 		"Description : ^777777Enhances attack (Weapon Mastery) with Katar class weapons.^000000",
@@ -2297,7 +2297,7 @@ SKILL_DESCRIPT = {
 	[SKID.AS_SONICBLOW] = {
 		"Sonic Blow",
 		"Max. Lv: 10",
-		"Skill Requirement: ^777777Katar Matery 4^000000",
+		"Skill Requirement: ^777777Katar Mastery 4^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Physical Attack^000000",
 		"Target: ^7777771 Enemy^000000",
@@ -2320,7 +2320,7 @@ SKILL_DESCRIPT = {
 	[SKID.AS_GRIMTOOTH] = {
 		"Grimtooth",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777 2, Sonic Blow 5^000000",
+		"Skill Requirement: ^777777Cloaking 2, Sonic Blow 5^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777PATK^000000",
 		"Target: ^7777771 Enemy^000000",
@@ -2571,7 +2571,7 @@ SKILL_DESCRIPT = {
 		"by the barrier accumulate.^000000"
 	},
 	[SKID.RG_SNATCHER] = {
-		"Snatcher",
+		"Gank",
 		"Max. Lv: 10",
 		"Skill Requirement: ^777777Steal 1^000000",
 		"Skill Type: ^000099Passive^000000",
@@ -2590,9 +2590,9 @@ SKILL_DESCRIPT = {
 		"[Lv 10]: ^77777720%^000000"
 	},
 	[SKID.RG_STEALCOIN] = {
-		"Steal Coin ^777777(Gank)^000000",
+		"Mug ^777777(Gank)^000000",
 		"Max. Lv: 10",
-		"Skill Requirement: ^777777Snatcher 4^000000",
+		"Skill Requirement: ^777777Gank 4^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Supportive^000000",
 		"Target: ^7777771 Enemy^000000",
@@ -2614,7 +2614,7 @@ SKILL_DESCRIPT = {
 	[SKID.RG_BACKSTAP] = {
 		"Back Stab",
 		"Max. Lv: 10",
-		"Skill Requirement: ^777777Steal Coin 4^000000",
+		"Skill Requirement: ^777777Mug 4^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Supportive^000000",
 		"Target: ^7777771 Enemy^000000",
@@ -2646,9 +2646,9 @@ SKILL_DESCRIPT = {
 		"[Lv 5]: ^77777750%^000000"
 	},
 	[SKID.RG_RAID] = {
-		"Raid",
+		"Slightless Mind",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Stalk 2, Back Stap 2^000000",
+		"Skill Requirement: ^777777Stalk 2, Back Stab 2^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Physical Attack^000000",
 		"Target : ^777777Immediately^000000",
@@ -2664,7 +2664,7 @@ SKILL_DESCRIPT = {
 		"[Lv 5]: ^777777800%^000000 l ^77777725%^000000"
 	},
 	[SKID.RG_STRIPWEAPON] = {
-		"Strip Weapon",
+		"Divest Weapon",
 		"Max. Lv: 5",
 		"Skill Requirement: ^777777Strip Armor 5^000000",
 		"Skill Type: ^993300Active^000000",
@@ -2681,7 +2681,7 @@ SKILL_DESCRIPT = {
 		"[Lv 5]: ^77777730%^000000"
 	},
 	[SKID.RG_STRIPSHIELD] = {
-		"Strip Shield",
+		"Divest Shield",
 		"Max. Lv: 5",
 		"Skill Requirement: ^777777Strip Helm 5^000000",
 		"Skill Type: ^993300Active^000000",
@@ -2698,7 +2698,7 @@ SKILL_DESCRIPT = {
 		"[Lv 5]: ^77777730%^000000"
 	},
 	[SKID.RG_STRIPARMOR] = {
-		"Strip Armor",
+		"Divest Armor",
 		"Max. Lv: 5",
 		"Skill Requirement: ^777777Strip Shield 5^000000",
 		"Skill Type: ^993300Active^000000",
@@ -2716,9 +2716,9 @@ SKILL_DESCRIPT = {
 		"[Lv 5]: ^77777730%^000000"
 	},
 	[SKID.RG_STRIPHELM] = {
-		"Strip Helm",
+		"Divest Helm",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Steal Coin 2^000000",
+		"Skill Requirement: ^777777Mug 2^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Debuff^000000",
 		"Target: ^7777771 Enemy^000000",
@@ -2734,9 +2734,9 @@ SKILL_DESCRIPT = {
 		"[Lv 5]: ^77777730%^000000"
 	},
 	[SKID.RG_INTIMIDATE] = {
-		"Intimidate",
+		"Snatch",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Raid 5, Back Stap 4^000000",
+		"Skill Requirement: ^777777Slightless Mind 5, Back Stab 4^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Physical Attack^000000",
 		"Target: ^7777771 Enemy^000000",
@@ -2750,9 +2750,9 @@ SKILL_DESCRIPT = {
 		"[Lv 5]: ^777777250%^000000"
 	},
 	[SKID.RG_GRAFFITI] = {
-		"Graffiti",
+		"Scribble",
 		"Max. Lv: 1",
-		"Skill Requirement: ^777777Flag Graffiti 5^000000",
+		"Skill Requirement: ^777777Piece 5^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Supportive^000000",
 		"Type : ^7777771 cell on ground^000000",
@@ -2761,7 +2761,7 @@ SKILL_DESCRIPT = {
 		"Instances of this skill cannot be overlapped.^000000"
 	},
 	[SKID.RG_FLAGGRAFFITI] = {
-		"Flag Graffiti",
+		"Piece",
 		"Max. Lv: 5",
 		"Skill Requirement: ^777777Remover 1^000000",
 		"Skill Type: ^993300Active^000000",
@@ -2773,24 +2773,24 @@ SKILL_DESCRIPT = {
 	[SKID.RG_CLEANER] = {
 		"Remover",
 		"Max. Lv: 1",
-		"Skill Requirement: ^777777GangSter Paradise^000000",
+		"Skill Requirement: ^777777Slyness 1^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Supportive^000000",
 		"Target: ^777777Flag^000000",
 		"Description : ^777777Cleans graffiti from the targeted Guild Flag. Each cast consumes 1 Wet Duster^000000"
 	},
 	[SKID.RG_GANGSTER] = {
-		"Gangster's Paradise",
+		"Slyness",
 		"Max. Lv: 1",
-		"Skill Requirement: ^777777Strip Shield 3^000000",
+		"Skill Requirement: ^777777Divest Shield 3^000000",
 		"Skill Type: ^000099Passive^000000",
 		"Description : ^777777When two or more Rogues are sitting adjacent to each other and at least one of them knows this skill, monsters will not attack them.",
 		"This skill does not affect boss monsters.^000000"
 	},
 	[SKID.RG_COMPULSION] = {
-		"Compulsion Discount",
+		"Haggle",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777GangSter's Paradise 1^000000",
+		"Skill Requirement: ^777777Slyness 1^000000",
 		"Skill Type: ^000099Passive^000000",
 		"Description : ^777777Enables to purchase items from NPC Shops at lower prices.^000000",
 		"^000088Does not work with Barter Market NPCs.^000000",
@@ -2804,7 +2804,7 @@ SKILL_DESCRIPT = {
 	[SKID.RG_PLAGIARISM] = {
 		"Intimidate (Plagiarism)",
 		"Max. Lv: 10",
-		"Skill Requirement: ^777777Intimidate 5^000000",
+		"Skill Requirement: ^777777Snatch 5^000000",
 		"Skill Type: ^000099Passive^000000",
 		"Description : ^777777Attack speed increases with skill level,",
 		"Enables to use the last skill that was inflicted by the enemy, which does not need to connect in order to be plagiarized.",
@@ -2840,7 +2840,7 @@ SKILL_DESCRIPT = {
 		"[Lv 10]: ^777777+30^000000"
 	},
 	[SKID.AM_LEARNINGPOTION] = {
-		"Learning Potion",
+		"Potion Research",
 		"Max. Lv: 10",
 		"Skill Type: ^000099Passive^000000",
 		"Description : ^777777Enhances the success rate for brewing. This skill also increases the effectiveness of healing potions.^000000",
@@ -2857,7 +2857,7 @@ SKILL_DESCRIPT = {
 		"[Lv 10]: ^777777+50%^000000"
 	},
 	[SKID.AM_PHARMACY] = {
-		"Pharmacy",
+		"Prepare Potion",
 		"Max. Lv: 10",
 		"Skill Requirement: ^777777Learning Potion 5^000000",
 		"Skill Type: ^993300Active^000000",
@@ -2866,7 +2866,7 @@ SKILL_DESCRIPT = {
 		"Description : ^777777Brews an item, available from the Creation Guides the user is carrying. Each cast consumes a Medicine Bowl.^000000"
 	},
 	[SKID.AM_DEMONSTRATION] = {
-		"Demonstration",
+		"Bomb",
 		"Max. Lv: 5",
 		"Skill Requirement: ^777777Pharmacy 4^000000",
 		"Skill Type: ^993300Active^000000",
@@ -2900,7 +2900,7 @@ SKILL_DESCRIPT = {
 		"[Lv 5]: ^7777771.000%^000000 l ^77777745%^000000 l ^77777715%^000000"
 	},
 	[SKID.AM_POTIONPITCHER] = {
-		"Potion Pitcher",
+		"Aid Potion",
 		"Max. Lv: 5",
 		"Skill Requirement: ^777777Pharmacy 3^000000",
 		"Skill Type: ^993300Active^000000",
@@ -2919,7 +2919,7 @@ SKILL_DESCRIPT = {
 		"[Lv 5]: ^777777150%^000000 l ^777777450%^000000 l ^777777Blue Potion^000000"
 	},
 	[SKID.AM_CANNIBALIZE] = {
-		"Bio Cannibalize",
+		"Summon Flora",
 		"Max. Lv: 5",
 		"Skill Requirement: ^777777Pharmacy 6^000000",
 		"Skill Type: ^993300Active^000000",
@@ -2939,7 +2939,7 @@ SKILL_DESCRIPT = {
 		"[Lv 5]: ^7777771 minute^000000 l ^7777771^000000 l ^777777Geographer^000000"
 	},
 	[SKID.AM_SPHEREMINE] = {
-		"Marine Sphere",
+		"Summon Marine Sphere",
 		"Max. Lv: 5",
 		"Skill Requirement: ^777777Pharmacy 2^000000",
 		"Skill Type: ^993300Active^000000",
@@ -3063,7 +3063,7 @@ SKILL_DESCRIPT = {
 		"Description : ^777777Calls out an existing homunculus that is in resting with the Vaporize skill or creates a new homunculus with an embryo.^000000"
 	},
 	[SKID.AM_REST] = {
-		"Rest",
+		"Vaporize",
 		"Max. Lv: 1",
 		"Skill Requirement: ^777777Bioethics 1^000000",
 		"Skill Type: ^993300Active^000000",
@@ -3327,7 +3327,7 @@ SKILL_DESCRIPT = {
 	[SKID.MO_IRONHAND] = {
 		"Iron Fists",
 		"Max. Lv: 10",
-		"Skill Requirement: ^777777Demonbane, Divine Protection 10^000000",
+		"Skill Requirement: ^777777Demon Bane, Divine Protection 10^000000",
 		"Skill Type: ^000099Passive^000000",
 		"Description : ^777777Increases ATK (Weapon Mastery) with Knuckle class weapons or Bare Handed.^000000",
 		"Level l ATK",
@@ -3685,7 +3685,7 @@ SKILL_DESCRIPT = {
 		"[Lv 10]: ^77777720%^000000 l ^777777Thunder storm/Heaven's Drive^000000"
 	},
 	[SKID.SA_FLAMELAUNCHER] = {
-		"Flame Launcher",
+		"Endow Blaze",
 		"Max. Lv: 5",
 		"Skill Requirement: ^777777Fire Bolt 1, Study 5^000000",
 		"Skill Type: ^993300Active^000000",
@@ -3703,7 +3703,7 @@ SKILL_DESCRIPT = {
 		"[Lv 5]: ^77777730 minutes^000000 l ^777777+5%^000000000"
 	},
 	[SKID.SA_FROSTWEAPON] = {
-		"Frost Weapon",
+		"Endow Tsunami",
 		"Max. Lv: 5",
 		"Skill Requirement: ^777777Cold Bolt 1, Study 5^000000",
 		"Skill Type: ^993300Active^000000",
@@ -3719,7 +3719,7 @@ SKILL_DESCRIPT = {
 		"[Lv 5]: ^77777730 minutes^000000 l ^777777+5%^000000"
 	},
 	[SKID.SA_LIGHTNINGLOADER] = {
-		"Lightning Loader",
+		"Endow Tornado",
 		"Max. Lv: 5",
 		"Skill Requirement: ^777777Lightning Bolt 1, Study 5^000000",
 		"Skill Type: ^993300Active^000000",
@@ -3735,7 +3735,7 @@ SKILL_DESCRIPT = {
 		"[Lv 5]: ^77777730 minutes^000000 l ^777777+5%^000000"
 	},
 	[SKID.SA_SEISMICWEAPON] = {
-		"Seismic Weapon",
+		"Endow Quake",
 		"Max. Lv: 5",
 		"Skill Requirement: ^777777Stone Curse 1, Study 5^000000",
 		"Skill Type: ^993300Active^000000",
@@ -3766,7 +3766,7 @@ SKILL_DESCRIPT = {
 	[SKID.SA_VOLCANO] = {
 		"Volcano",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Flame Launcher 2^000000",
+		"Skill Requirement: ^777777Endow Blaze 2^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Installation^000000",
 		"Type : ^7777771 cell on ground^000000",
@@ -3807,7 +3807,7 @@ SKILL_DESCRIPT = {
 		"[Lv 5]: ^777777+20%^000000 l ^777777+15%^000000"
 	},
 	[SKID.SA_VIOLENTGALE] = {
-		"Whirlwind ^777777(Violent Gale)^000000",
+		"Whirlwind ^777777(Whirlwind)^000000",
 		"Max. Lv: 5",
 		"Skill Requirement: ^777777Lightning Loader 2^000000",
 		"Skill Type: ^993300Active^000000",
@@ -3863,9 +3863,9 @@ SKILL_DESCRIPT = {
 		"[Lv 5]: ^777777100%^000000"
 	},
 	[SKID.SA_ABRACADABRA] = {
-		"Hocus Pocus",
+		"Hocus-pocus",
 		"Max. Lv: 10",
-		"Skill Requirement: ^777777Auto Spell 5, Dispell 1, Land Protector 1^000000",
+		"Skill Requirement: ^777777Hindsight 5, Dispell 1, Land Protector 1^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777???^000000",
 		"Target: ^777777???^000000",
@@ -4020,7 +4020,7 @@ SKILL_DESCRIPT = {
 	[SKID.BD_ETERNALCHAOS] = {
 		"Down Tempo",
 		"Max. Lv: 1",
-		"Skill Requirement: ^777777Classic Pluck 1^000000",
+		"Skill Requirement: ^777777Classical Pluck 1^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777ensemble skill^000000",
 		"Target: ^777777 9*9 cells around the user^000000",
@@ -4118,7 +4118,7 @@ SKILL_DESCRIPT = {
 	},
 	[SKID.BD_RAGNAROK] = {"Ragnar�k"},
 	[SKID.BA_MUSICALLESSON] = {
-		"Musical Lesson",
+		"Music Lessons",
 		"Max. Lv: 10",
 		"Skill Type: ^000099Passive^000000",
 		"Description : ^777777Enhances attack (Weapon Mastery) with Instrument class weapons and enables movement while playing songs.",
@@ -4192,7 +4192,7 @@ SKILL_DESCRIPT = {
 	[SKID.BA_WHISTLE] = {
 		"Perfect Tablature",
 		"Max. Lv: 10",
-		"Skill Requirement: ^777777Dissonance 3^000000",
+		"Skill Requirement: ^777777Unchained Serenade 3^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Instrumental Skill^000000",
 		"Target : ^777777Self and Party members around 31 X 31 cell^000000",
@@ -4213,7 +4213,7 @@ SKILL_DESCRIPT = {
 	[SKID.BA_ASSASSINCROSS] = {
 		"Impressive Riff",
 		"Max. Lv: 10",
-		"Skill Requirement: ^777777Dissonance 3^000000",
+		"Skill Requirement: ^777777Unchained Serenade 3^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Instrumental Skill^000000",
 		"Target : ^777777Self and Party members around 31 X 31 cell^000000",
@@ -4234,7 +4234,7 @@ SKILL_DESCRIPT = {
 	[SKID.BA_POEMBRAGI] = {
 		"Magic Strings",
 		"Max. Lv: 10",
-		"Skill Requirement: ^777777Dissonance 3^000000",
+		"Skill Requirement: ^777777Unchained Serenade 3^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Instrumental Skill^000000",
 		"Target : ^777777Self and Party members around 31 X 31 cell^000000",
@@ -4255,7 +4255,7 @@ SKILL_DESCRIPT = {
 	[SKID.BA_APPLEIDUN] = {
 		"Song of Lutie",
 		"Max. Lv: 10",
-		"Skill Requirement: ^777777Dissonance 3^000000",
+		"Skill Requirement: ^777777Unchained Serenade 3^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Instrumental Skill^000000",
 		"Target : ^777777Self and Party members around 31 X 31 cell^000000",
@@ -4274,7 +4274,7 @@ SKILL_DESCRIPT = {
 		"[Lv 10]: ^777777+20%^000000 l ^777777+20%^000000"
 	},
 	[SKID.DC_DANCINGLESSON] = {
-		"Dancing Lesson",
+		"Dance Lessons",
 		"Max. Lv: 10",
 		"Skill Type: ^000099Passive^000000",
 		"Description :  ^777777Enhances attack (Weapon Mastery) with Whip class weapons and enables movement while dancing.",
@@ -4294,7 +4294,7 @@ SKILL_DESCRIPT = {
 	[SKID.DC_THROWARROW] = {
 		"Slinging Arrow ^777777(Throw Arrow)^000000",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Dancing Lesson 3^000000",
+		"Skill Requirement: ^777777Dance Lessons 3^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Ranged Physical Attack^000000",
 		"Target: ^7777771 Target^000000",
@@ -4312,7 +4312,7 @@ SKILL_DESCRIPT = {
 	[SKID.DC_UGLYDANCE] = {
 		"Hip Shaker (Ugly Dance)",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Amp 1, Dancing Lesson 1^000000",
+		"Skill Requirement: ^777777Amp 1, Dance Lessons 1^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Dance skill^000000",
 		"Target: ^7777779*9 cells around the user^000000",
@@ -4391,7 +4391,7 @@ SKILL_DESCRIPT = {
 	[SKID.DC_FORTUNEKISS] = {
 		"Lady Luck",
 		"Max. Lv: 10",
-		"Skill Requirement: ^777777Ugly Dance 3^000000",
+		"Skill Requirement: ^777777Hip Shaker 3^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Dance Skill^000000",
 		"Target : ^777777Self and Party members around 31 X 31 cell^000000",
@@ -4801,7 +4801,7 @@ SKILL_DESCRIPT = {
 	[SKID.ASC_KATAR] = {
 		"Advanced Katar Mastery",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Double Attack 5, Katar Matery 7^000000",
+		"Skill Requirement: ^777777Double Attack 5, Katar Mastery 7^000000",
 		"Skill Type: ^000099Passive^000000",
 		"Description : ^777777Enhance the damage that is",
 		"inflicted with Katar Class Weapons.^000000",
@@ -4828,7 +4828,7 @@ SKILL_DESCRIPT = {
 	[SKID.ASC_BREAKER] = {
 		"Soul Destroyer",
 		"Max. Lv: 10",
-		"Skill Requirement: ^777777Double Attack 5, Envenom 5,  3, Enchant Poison 6^000000",
+		"Skill Requirement: ^777777Double Attack 5, Envenom 5, Cloaking 3, Enchant Poison 6^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Ranged physical^000000",
 		"Target : ^7777771 target^000000",
@@ -4851,7 +4851,7 @@ SKILL_DESCRIPT = {
 		"Falcon Eyes",
 		"Max. Lv: 10",
 		"Skill Requirement: ^777777Owl's Eye 10 , Vulture's Eye 10,",
-		"Improve Concentration 10, Falconly Mastery 1^000000",
+		"Improve Concentration 10, Falconry Mastery 1^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Buff^000000",
 		"Target: ^777777Caster Only^000000",
@@ -4884,7 +4884,7 @@ SKILL_DESCRIPT = {
 	[SKID.SN_SHARPSHOOTING] = {
 		"Focused Arrow Strike",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Double Strafe 5, Attention Concentrate 10^000000",
+		"Skill Requirement: ^777777Double Strafe 5, Improve Concentration 10^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Ranged physical^000000",
 		"Target : ^777777Target 1^000000",
@@ -5203,7 +5203,7 @@ SKILL_DESCRIPT = {
 		"Meteor Assault",
 		"Max. Lv: 10",
 		"Skill Requirement :^777777Katar Mastery 5,",
-		"Righthand Mastery 3, Sonic Blow 5,",
+		"Right Hand Mastery 3, Sonic Blow 5,",
 		"Soul Destroyer 1^000000",
 		"Skill Form: ^777777Aggressive^000000",
 		"Description: ^777777Damage all enemies in a 5*5 cell",
@@ -5500,11 +5500,11 @@ SKILL_DESCRIPT = {
 		"Skill Type: ^777777Passive^000000",
 		"Details : ^777777Increases your physical attack power.^000000",
 		"Level l Bonus",
-		"[Lv 1] ^777777+25%^000000",
-		"[Lv 2] ^777777+40%^000000",
-		"[Lv 3] ^777777+55%^000000",
-		"[Lv 4] ^777777+70%^000000",
-		"[Lv 5] ^777777+85%^000000"
+		"[Lv 1] ^777777+2%^000000",
+		"[Lv 2] ^777777+4%^000000",
+		"[Lv 3] ^777777+6%^000000",
+		"[Lv 4] ^777777+8%^000000",
+		"[Lv 5] ^777777+10%^000000"
 	},
 	[SKID.TK_SEVENWIND] = {
 		"Mild Wind",
@@ -6022,7 +6022,7 @@ SKILL_DESCRIPT = {
 		"[Lv 5] ^777777350 seconds^000000 l ^77777760^000000"
 	},
 	[SKID.SL_BARDDANCER] = {
-		"Bard and Dancer Spirits",
+		"Bard and Dancer Spirit",
 		"Max. Lv: 5",
 		"Skill Form: ^777777Supportive^000000",
 		"Description: ^777777Summon the spirit of history's most",
@@ -6211,6 +6211,7 @@ SKILL_DESCRIPT = {
 	},
 	[SKID.SL_KAITE] = {
 		"Kaite",
+		"Max. Lv: 7",
 		"Skill Requirement: ^777777Wizard Spirit 1,",
 		"Sage Spirit 1^000000",
 		"Skill Form: ^777777Supportive^000000",
@@ -6512,7 +6513,7 @@ SKILL_DESCRIPT = {
 	[SKID.PF_DOUBLECASTING] = {
 		"Double Bolt",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Hindsignts 1^000000",
+		"Skill Requirement: ^777777Hindsight 1^000000",
 		"Description: ^777777Enable the chance of repeating any",
 		"Bolt skill that is cast for this skill's",
 		"90 second duration.^000000",
@@ -6531,7 +6532,7 @@ SKILL_DESCRIPT = {
 		"Description: ^777777Enable the chance of canceling any",
 		"ground targeting magic spell cast on a 3*3 cell",
 		"area around the targeted spot. This skill will",
-		"cancel Magnetic Earth on areas that have been",
+		"cancel Land Protector on areas that have been",
 		"enchanted by that skill. This skill is",
 		"unaffected by items or skills that remove",
 		"Gemstone requirements. ^00BB00Each cast requires",
@@ -6857,7 +6858,7 @@ SKILL_DESCRIPT = {
 		"duration.^000000"
 	},
 	[SKID.GS_MAGICALBULLET] = {
-		"Magicial Bullet",
+		"Magical Bullet",
 		"Max. Lv: 1",
 		"Skill Requirement: ^777777Coin Flip 1^000000",
 		"Skill Form: ^777777Supportive^000000",
@@ -7068,7 +7069,7 @@ SKILL_DESCRIPT = {
 	[SKID.GS_FULLBUSTER] = {
 		"Full Blast",
 		"Max. Lv: 10",
-		"Skill Requirement: ^777777 Chain Action 3^000000",
+		"Skill Requirement: ^777777Crowd Control Shot 3^000000",
 		"Skill Form:^777777Offensive^000000",
 		"Description: ^777777Inflict devastating damage to an",
 		"enemy by firing multiple bullets at once. This",
@@ -7112,7 +7113,7 @@ SKILL_DESCRIPT = {
 	[SKID.GS_GROUNDDRIFT] = {
 		"Gunslinger Mine",
 		"Max. Lv: 10",
-		"Skill Requirement: ^777777Spread Shot 7^000000",
+		"Skill Requirement: ^777777Spread Attack 7^000000",
 		"Skill Form: ^777777Offensive^000000",
 		"Description: ^777777Plant Bullet Spheres into the",
 		"ground that will explode upon enemy approach.",
@@ -7289,7 +7290,7 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_KIRIKAGE] = {
 		"Shadow Slash",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Haze Slashwer 5^000000",
+		"Skill Requirement: ^777777Haze Slasher 5^000000",
 		"Skill Type: ^993300Active^000000",
 		"Type : ^777777Physical Melee^000000",
 		"Target : ^777777 1 target^000000",
@@ -7516,7 +7517,7 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_RAIGEKISAI] = {
 		"Lightning Jolt",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Wind Blade^000000",
+		"Skill Requirement: ^777777Wind Blade 5^000000",
 		"Skill Form:^777777Offensive^bbbb00(Lightning)^000000",
 		"Description: ^777777Summon lightning bolts around the",
 		"caster to damage enemies within the skill's",
@@ -8195,7 +8196,7 @@ SKILL_DESCRIPT = {
 	[SKID.GC_POISONINGWEAPON] = {
 		"Poisonous Weapon",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Research New Poison 1 ^000000",
+		"Skill Requirement: ^777777New Poison Creation 1 ^000000",
 		"Skill Type: ^777777  Active / Buff  ^000000",
 		"Description : ^777777  Make the caster's weapon coated by Guillotine Cross's new poison. During duration, caster's melee physical damage increases, provides special effect based on what's coated.",
 		"Has a change to poison the target by attacking.^000000",
@@ -8209,7 +8210,7 @@ SKILL_DESCRIPT = {
 	[SKID.GC_WEAPONBLOCKING] = {
 		"Weapon Blocking",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Lefthand Mastery 5 ^000000",
+		"Skill Requirement: ^777777Left Hand Mastery 5 ^000000",
 		"Skill Type: ^777777  Active / Buff  ^000000",
 		"Description : ^777777  Has a chance to cancel an enemy's",
 		"melee physical attack and can use Weapon Crush when skill is active.",
@@ -8260,7 +8261,7 @@ SKILL_DESCRIPT = {
 		"Venom Pressure",
 		"Max. Lv: 5",
 		"Skill Requirement: ^777777Weapon Blocking 1,",
-		"Poisoning Weapon 3 ^000000",
+		"Poisonous Weapon 3 ^000000",
 		"Skill Type: ^777777Active / Buff  ^000000",
 		"Description : ^777777Gives damage to the enemy nearby",
 		"and poisons the enemy with the poisoned",
@@ -8276,7 +8277,7 @@ SKILL_DESCRIPT = {
 	[SKID.GC_POISONSMOKE] = {
 		"Poisonous Smoke",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Venom Pressure 5, Poisoning Weapon 5 ^000000",
+		"Skill Requirement: ^777777Venom Pressure 5, Poisonous Weapon 5 ^000000",
 		"Skill Type: ^777777Active / Buff  ^000000",
 		"Description : ^777777With Poisoning Weapon activated, spread a poisonous smoke around 5x5 cells. Enemy in the range have a 20% chance of getting poisoned every 2 seconds. When casting, Poisoning Weapon effect gets removed.^000000",
 		"Level l Duration",
@@ -8287,9 +8288,9 @@ SKILL_DESCRIPT = {
 		"[Lv 5]: ^77777718 seconds^000000"
 	},
 	[SKID.GC_CLOAKINGEXCEED] = {
-		" Exceed",
+		"Cloaking Exceed",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777 3 ^000000",
+		"Skill Requirement: ^777777Cloaking 3 ^000000",
 		"Skill Type: ^777777Active / Special  ^000000",
 		"Description : ^777777Cannot be found by Insect and",
 		"Demon type monsters. Not released until the",
@@ -8306,7 +8307,7 @@ SKILL_DESCRIPT = {
 		"Phantom Menace",
 		"Max. Lv: 1",
 		"Skill Requirement: ^777777Dark Illusion 5,",
-		" Exceed 5 ^000000",
+		"Cloaking Exceed 5 ^000000",
 		"Skill Type: ^777777Active / Detecting  ^000000",
 		"Description : ^777777Guillotine Cross attacks all",
 		"hidden enemies within a 7x7 range for 300%",
@@ -8419,9 +8420,9 @@ SKILL_DESCRIPT = {
 		"[Lv 3]: ^777777240 seconds^000000 l ^77777731x31 cells^000000"
 	},
 	[SKID.AB_CANTO] = {
-		"Cantocandidus",
+		"Canto Candidus",
 		"Max. Lv:  3",
-		"Skill Requirement: ^777777Increase AGI 1^000000",
+		"Skill Requirement: ^777777Increase Agility 1^000000",
 		"Skill Type: ^777777Supportive^000000",
 		"Description : ^777777Casts 'Increase AGI' on the caster and any party members within range. AGI effect goes up based on caster's JobLevel.^000000",
 		"Level l Duration l AoE",
@@ -8499,7 +8500,7 @@ SKILL_DESCRIPT = {
 	[SKID.AB_LAUDAAGNUS] = {
 		"Lauda Agnus",
 		"Max. Lv:  4",
-		"Skill Requirement: ^777777Recovery 1^000000",
+		"Skill Requirement: ^777777Status Recovery 1^000000",
 		"Skill Type: ^777777Recover^000000",
 		"Description : ^777777Recover Freezing, Stone Curse, Dark Curse, Frozen, Crystallization, and Burning of all party members. MaxHP bonus when casting on normal condition party member. ^000000",
 		"Level l Chance l Max. HP",
@@ -8557,7 +8558,7 @@ SKILL_DESCRIPT = {
 	[SKID.AB_CLEARANCE] = {
 		"Clearance",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Laudaramus 2  ^000000",
+		"Skill Requirement: ^777777Lauda Ramus 2  ^000000",
 		"Skill Type: ^777777Special^000000",
 		"Description : ^777777Remove all party members and monsters' buffs, debuffs, and status effects. ^000000",
 		"Level l Chance",
@@ -8570,7 +8571,7 @@ SKILL_DESCRIPT = {
 	[SKID.AB_EXPIATIO] = {
 		"Expiatio",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Oratio 5  Duple Light 5 ^000000",
+		"Skill Requirement: ^777777Oratio 5, Duple Light 5 ^000000",
 		"Skill Type: ^777777Active^000000",
 		"Description : ^777777Grants divine power to one's weapon to penetrate armors when physical/magical attacks. ^000000",
 		"Level l Duration l DEF e MDEF ignored",
@@ -8677,7 +8678,7 @@ SKILL_DESCRIPT = {
 		"[Lv 5]: ^7777772.500%^000000 l ^7777774.200%^000000 l ^77777711x11 cells^000000"
 	},
 	[SKID.WL_MARSHOFABYSS] = {
-		"Marsh Of Abyss",
+		"Marsh of Abyss",
 		"Max LV 5",
 		"Skill Requirement: ^777777Quagmire 1  ^000000",
 		"Skill Type: ^777777Debuff ^000000",
@@ -8808,7 +8809,7 @@ SKILL_DESCRIPT = {
 	[SKID.WL_CHAINLIGHTNING] = {
 		"Chain Lightning",
 		"Max LV 5",
-		"Skill Requirement: ^777777Summon Ball Lightning 1^000000",
+		"Skill Requirement: ^777777Summon Lightning Ball 1^000000",
 		"Skill Type: ^777777Active / Damage  ^000000",
 		"Description : ^777777Summons lightning to deal multiple (Wind Element) damage to a target and enemies around it.^000000",
 		"Level l MATK l Chains",
@@ -9234,11 +9235,11 @@ SKILL_DESCRIPT = {
 		"Damage increases based on BaseLv and DEX.",
 		"Range: 11 Cells.^000000",
 		"Level l ATK l SP",
-		"[Lv 1]: ^777777340%^000000 l ^7777775^000000",
-		"[Lv 2]: ^777777580%^000000 l ^77777710^000000",
-		"[Lv 3]: ^777777820%^000000 l ^77777715^000000",
-		"[Lv 4]: ^7777771.060%^000000 l ^77777720^000000",
-		"[Lv 5]: ^7777771.300%^000000 l ^77777725^000000"
+		"[Lv 1]: ^777777300%^000000 l ^7777775^000000",
+		"[Lv 2]: ^777777500%^000000 l ^77777710^000000",
+		"[Lv 3]: ^777777700%^000000 l ^77777715^000000",
+		"[Lv 4]: ^777777900%^000000 l ^77777720^000000",
+		"[Lv 5]: ^7777771.100%^000000 l ^77777725^000000"
 	},
 	[SKID.NC_PILEBUNKER] = {
 		"Pile Bunker",
@@ -9260,9 +9261,9 @@ SKILL_DESCRIPT = {
 		"Consumes one Vulcan Bullet. Damage increases based on BaseLv and DEX.",
 		"Range: 13 Cells.^000000",
 		"Level l ATK l SP Cost",
-		"[Lv 1]: ^777777230%^000000 l ^7777779^000000",
-		"[Lv 2]: ^777777460%^000000 l ^77777712^000000",
-		"[Lv 3]: ^777777690%^000000 l ^77777715^000000"
+		"[Lv 1]: ^777777140%^000000 l ^7777779^000000",
+		"[Lv 2]: ^777777280%^000000 l ^77777712^000000",
+		"[Lv 3]: ^777777420%^000000 l ^77777715^000000"
 	},
 	[SKID.NC_FLAMELAUNCHER] = {
 		"Flame Launcher",
@@ -9295,12 +9296,12 @@ SKILL_DESCRIPT = {
 		"Damage increases based on BaseLv.",
 		"Each cast consumes 1 Magic Gear Fuel and 1 Cannon Ball, the property of which depends the property of this skill.",
 		"Range: 9 Cells.^000000",
-		"Level l AoE l Cooldown l ATK",
-		"[Lv 1] ^7777773x3 cells^000000 l ^7777770,35 seconds^000000 l ^777777750%^000000",
-		"[Lv 2] ^7777773x3 cells^000000 l ^7777770,30 seconds^000000 l ^7777771.100%^000000",
-		"[Lv 3] ^7777775x5 cells^000000 l ^7777770,25 seconds^000000 l ^7777771.450%^000000",
-		"[Lv 4] ^7777775x5 cells^000000 l ^7777770,20 seconds^000000 l ^7777771.800%^000000",
-		"[Lv 5] ^7777777x7 cells^000000 l ^7777770,15 seconds^000000 l ^7777772.150%^000000"
+		"Level l AoE l ATK",
+		"[Lv 1] ^7777773x3 cells^000000 l ^777777700%^000000",
+		"[Lv 2] ^7777773x3 cells^000000 l ^7777771.000%^000000",
+		"[Lv 3] ^7777773x3 cells^000000 l ^7777771.300%^000000",
+		"[Lv 4] ^7777775x5 cells^000000 l ^7777771.600%^000000",
+		"[Lv 5] ^7777775x5 cells^000000 l ^7777771.900%^000000"
 	},
 	[SKID.NC_ACCELERATION] = {
 		"Acceleration",
@@ -9519,7 +9520,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_AXETORNADO] = {
 		"Axe Tornado",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Axe Training 1  ^000000",
+		"Skill Requirement: ^777777Axe mASTERY 1  ^000000",
 		"Skill Type: ^777777  Active / Damage ^000000",
 		"Description : ^777777  Deals melee physical damage by spining axes.",
 		"Damage increases based on BaseLv and VIT. ^000000",
@@ -9857,11 +9858,11 @@ SKILL_DESCRIPT = {
 		"Critical rate is applied equal to the player's critical rate.",
 		"Half of Critical Damage option is applied.^000000",
 		"Level l ATK l AoE",
-		"[Lv 1]: ^777777120 +(STR x1)%^000000 l ^7777773x3 cells^000000",
-		"[Lv 2]: ^777777240 +(STR x2)%^000000 l ^7777773x3 cells^000000",
-		"[Lv 3]: ^777777360 +(STR x3)%^000000 l ^7777775x5 cells^000000",
-		"[Lv 4]: ^777777480 +(STR x4)%^000000 l ^7777775x5 cells^000000",
-		"[Lv 5]: ^777777600 +(STR x5)%^000000 l ^7777777x7 cells^000000"
+		"[Lv 1]: ^77777750%^000000 l ^7777773x3 cells^000000",
+		"[Lv 2]: ^777777100%^000000 l ^7777773x3 cells^000000",
+		"[Lv 3]: ^777777150%^000000 l ^7777775x5 cells^000000",
+		"[Lv 4]: ^777777200%^000000 l ^7777775x5 cells^000000",
+		"[Lv 5]: ^777777250%^000000 l ^7777775x5 cells^000000"
 	},
 	[SKID.LG_BANISHINGPOINT] = {
 		"Vanishing Point",
@@ -9871,17 +9872,17 @@ SKILL_DESCRIPT = {
 		"Description : ^777777  Spear Weapon Skill. Deals ranged physical damage to 1 target.",
 		"Hit increases as skill level increases, Damage increases based on BaseLv and Bash skill level.",
 		"Range 7 Cells.^000000",
-		"Nivel l ATK + (Bash Lv x 70)",
-		"[Nv 1]: ^777777100%^000000",
-		"[Nv 2]: ^777777200%^000000",
-		"[Nv 3]: ^777777300%^000000",
-		"[Nv 4]: ^777777400%^000000",
-		"[Nv 5]: ^777777500%^000000",
-		"[Nv 6]: ^777777600%^000000",
-		"[Nv 7]: ^777777700%^000000",
-		"[Nv 8]: ^777777800%^000000",
-		"[Nv 9]: ^777777900%^000000",
-		"[Nv 10]: ^7777771.000%^000000"
+		"Nivel l ATK + (Bash Lv x 50)",
+		"[Lv 1]: ^77777780%^000000",
+		"[Lv 2]: ^777777160%^000000",
+		"[Lv 3]: ^777777240%^000000",
+		"[Lv 4]: ^777777320%^000000",
+		"[Lv 5]: ^777777400%^000000",
+		"[Lv 6]: ^777777480%^000000",
+		"[Lv 7]: ^777777560%^000000",
+		"[Lv 8]: ^777777640%^000000",
+		"[Lv 9]: ^777777720%^000000",
+		"[Lv 10]: ^777777800%^000000"
 	},
 	[SKID.LG_TRAMPLE] = {
 		"Trample",
@@ -9996,11 +9997,11 @@ SKILL_DESCRIPT = {
 		"Description : ^777777  Spear Weapon Skill. Inflicts Melee Physical Damage to all enemies within 7 x 7 area.",
 		"While in Moon Slasher effect, it deals more damage. Damage increases based on BaseLv, STR and DEX.^000000",
 		"Level l ATK l ATK (Moon Slasher)",
-		"[Nv 1]: ^777777350%^000000 l ^777777500%^000000",
-		"[Nv 2]: ^777777700%^000000 l ^7777771.000%^000000",
-		"[Nv 3]: ^7777771.050%^000000 l ^7777771.500%^000000",
-		"[Nv 4]: ^7777771.400%^000000 l ^7777772.000%^000000",
-		"[Nv 5]: ^7777771.750%^000000 l ^7777772.500%^000000"
+		"[Lv 1]: ^777777300%^000000 l ^777777450%^000000",
+		"[Lv 2]: ^777777600%^000000 l ^777777900%^000000",
+		"[Lv 3]: ^777777900%^000000 l ^7777771.350%^000000",
+		"[Lv 4]: ^7777771.200%^000000 l ^7777771.800%^000000",
+		"[Lv 5]: ^7777771.500%^000000 l ^7777772.250%^000000"
 	},
 	[SKID.LG_PRESTIGE] = {
 		"Prestige",
@@ -10053,17 +10054,17 @@ SKILL_DESCRIPT = {
 		"Skill Type: ^777777  Active / Damage ^000000",
 		"Description : ^777777Inflicts Holy property Magic damage to all enemies in a 11x11 area around the Caster. Versus Undead property and Demon race monsters, it has a 50% chance of leaving them blind.",
 		"Damage increases based on BaseLv and INT. During Inpiration, attack becomes Neutral property.^000000",
-		"Level l MATK",
-		"[Lv 1]: ^777777350%^000000",
-		"[Lv 2]: ^777777700%^000000",
-		"[Lv 3]: ^7777771.050%^000000",
-		"[Lv 4]: ^7777771.400%^000000",
-		"[Lv 5]: ^7777771.750%^000000",
-		"[Lv 6]: ^7777772.100%^000000",
-		"[Lv 7]: ^7777772.450%^000000",
-		"[Lv 8]: ^7777772.800%^000000",
-		"[Lv 9]: ^7777773.150%^000000",
-		"[Lv 10]: ^7777773.500%^000000"
+		"Level l MATK l MATK (Inspiration)",
+		"[Lv 1]: ^777777230%^000000 l ^777777300%^000000",
+		"[Lv 2]: ^777777460%^000000 l ^777777600%^000000",
+		"[Lv 3]: ^777777690%^000000 l ^777777900%^000000",
+		"[Lv 4]: ^777777920%^000000 l ^7777771.200%^000000",
+		"[Lv 5]: ^7777771.150%^000000 l ^7777771.500%^000000",
+		"[Lv 6]: ^7777771.380%^000000 l ^7777771.800%^000000",
+		"[Lv 7]: ^7777771.610%^000000 l ^7777772.100%^000000",
+		"[Lv 8]: ^7777771.840%^000000 l ^7777772.400%^000000",
+		"[Lv 9]: ^7777772.070%^000000 l ^7777772.700%^000000",
+		"[Lv 10]: ^7777772.300%^000000 l ^7777773.000%^000000"
 	},
 	[SKID.LG_PIETY] = {
 		"Piety",
@@ -10337,7 +10338,7 @@ SKILL_DESCRIPT = {
 	[SKID.SR_GATEOFHELL] = {
 		"Gates of Hell",
 		"Max. Lv: 10",
-		"Skill Requirement: ^777777Rising Dragon 5 / Tiger Cannon 5 ^000000",
+		"Skill Requirement: ^777777Rampage Blast 5 / Tiger Cannon 5 ^000000",
 		"Skill Type: ^777777Active / Damage ^000000",
 		"Description : ^777777Strikes the target with countless blows. The lower your HP, the more damage it deals.",
 		"Can be used after Fallen Empire, in that case the damage is slightly higher.^000000",
@@ -10530,7 +10531,7 @@ SKILL_DESCRIPT = {
 		"[Lv 10]: ^777777+300^000000 l ^77777733^000000"
 	},
 	[SKID.WM_METALICSOUND] = {
-		"Metalic Sound",
+		"Metallic Sound",
 		"Max. Lv: 10",
 		"Skill Requirement: ^777777Reverberation 5 ^000000",
 		"Skill Type: ^777777  Active / Damage ^000000",
@@ -10551,7 +10552,7 @@ SKILL_DESCRIPT = {
 	[SKID.WM_REVERBERATION] = {
 		"Reverberation",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Dissonance or Ugly Dance 5 ^000000",
+		"Skill Requirement: ^777777Unchained Seranade or Hip Shaker 5 ^000000",
 		"Skill Type: ^777777  Active / Damage ^000000",
 		"Description : ^777777Skills for Whips and Instruments.",
 		"Shoots multiple arrows that generate high-frequency sound wave, and deals magical damage to all targets in 5 x 5 Area of Effect. Damage property follows the property of the equipped arrow.",
@@ -10567,7 +10568,7 @@ SKILL_DESCRIPT = {
 	[SKID.WM_SEVERE_RAINSTORM] = {
 		"Severe Rainstorm",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Throw Arrow Or Musical Strike 5 ^000000",
+		"Skill Requirement: ^777777Slinging Arrow or Melody Strike 5 ^000000",
 		"Skill Type: ^777777  Active / Damage ^000000",
 		"Description : ^777777 Bow, Whips, Instrument skill.",
 		"Shoots a volley of arrows into the air and rain down arrows on enemies in a 11 x 11 area, dealing damage 12 times.",
@@ -10727,7 +10728,7 @@ SKILL_DESCRIPT = {
 		"[Lv 5]: ^7777779x9 cells^000000 l ^7777772.750%^000000"
 	},
 	[SKID.WM_SONG_OF_MANA] = {
-		"Song Of Mana",
+		"Song of Mana",
 		"Max. Lv: 5",
 		"Skill Requirement: ^777777Harmonize / Swing Dance,",
 		"Windmill Rush / Lover Symphony & Echo Song /",
@@ -10838,7 +10839,7 @@ SKILL_DESCRIPT = {
 	[SKID.WM_MELODYOFSINK] = {
 		"Sinking Melody",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Song Of Mana 1^000000",
+		"Skill Requirement: ^777777Song of Mana 1^000000",
 		"Skill Type: ^777777Active / Buff / Chorus ^000000",
 		"Target : Enemy player in range",
 		"Description : ^777777Decrease MaxSP and INT of enemy players around the caster.",
@@ -10915,7 +10916,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_SPELLFIST] = {
 		"Spell Fist",
 		"Max. Lv: 10",
-		"Skill Requirement: ^777777Autospell 4 ^000000",
+		"Skill Requirement: ^777777Hindsight 4 ^000000",
 		"Skill Type: ^777777  Active / Special / Damage ^000000",
 		"Description : ^777777 When Spell Fist is used during the casting of Fire, Cold, Lighting Bolt, the casting is interrupted.",
 		"When performing a physical attack on a target, the target is dealt the interrupted elemental bolt damage.",
@@ -10938,7 +10939,7 @@ SKILL_DESCRIPT = {
 		"Skill Requirement: ^777777 Earth Spike 5 ^000000",
 		"Skill Type: ^777777  Active / Damage  ^000000",
 		"Description : ^777777  Summons spears of solid earth from underneath a targeted location that will inflict Earth property magic damage. Has a chance to bleed enemies.",
-		"Damage increases based on skill level, INT, BaseLv and skill level of Seismic Weapon.",
+		"Damage increases based on skill level, INT, BaseLv and skill level of Endow Quake.",
 		"Can damage targets in Hiding.^000000",
 		"Level l AoE",
 		"[Lv 1]: ^7777777x7 cells^000000",
@@ -10953,7 +10954,7 @@ SKILL_DESCRIPT = {
 		"Skill Requirement: ^777777 Deluge 3 ^000000",
 		"Skill Type: ^777777  Active / Damage  ^000000",
 		"Description : ^777777  Deals water property damage in AoE and provokes Frozen effect.",
-		"Damage increases based on Skill level, caster's INT, skill level of Frost Weapon, and BaseLv.^000000",
+		"Damage increases based on Skill level, caster's INT, skill level of Endow Tsunami, and BaseLv.^000000",
 		"Level l AoE",
 		"[Lv 1]: ^7777777x7 cells^000000",
 		"[Lv 2]: ^7777777x7 cells^000000",
@@ -10993,7 +10994,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_CLOUD_KILL] = {
 		"Killing Cloud",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777 Heavens Drive 5  ^000000",
+		"Skill Requirement: ^777777 Heaven's Drive 5  ^000000",
 		"Skill Type: ^777777  Active / Damage  ^000000",
 		"Description : ^777777 Summons a poison cloud in 7x7Cell AoE. During the duration, deals poison property magic damage in AoE and leaves Cloud Poison effect.",
 		"Targets' resistance in Cloud Poison effect decreases.",
@@ -11008,7 +11009,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_STRIKING] = {
 		"Striking",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777 Flame Launcher 1 / Frost Weapon 1 / Lightning Loader 1 / Seismic Weapon 1  ^000000",
+		"Skill Requirement: ^777777Endow Blaze 1 / Endow Tsunami 1 / Endow Tornado 1 / Endow Quake 1  ^000000",
 		"Skill Type: ^777777  Active / Buff  ^000000",
 		"Description : ^777777  Increases caster and 1 party member's ATK and chance to guide hit for 90 sec.",
 		"Targets with Striking buff consumes some SP every sec.",
@@ -11036,7 +11037,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_VACUUM_EXTREME] = {
 		"Extreme Vacuum",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Magnetic Earth 2 ^000000",
+		"Skill Requirement: ^777777Land Protector 2 ^000000",
 		"Skill Type: ^777777Active / Special  ^000000",
 		"Description : ^777777Create a vacuum on a cell that suspends all targets in a 7x7 area. Targets in the area cannot move until the skill duration expires.^000000",
 		"Level l AoE l Duration",
@@ -11049,7 +11050,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_VARETYR_SPEAR] = {
 		"Varetyr Spear",
 		"Max. Lv: 10",
-		"Skill Requirement: ^777777 Seismic Weapon 1 / Violent Gale 4 ^000000",
+		"Skill Requirement: ^777777Endow Quake 1 / Whirlwind 4 ^000000",
 		"Skill Type: ^777777  Active / Damage  ^000000",
 		"Description : ^777777  Summons a huge lightning spear, inflicts wind property magic damage to a target and enemies around it.",
 		"Adds a chance to stun damaged targets.",
@@ -11140,6 +11141,7 @@ SKILL_DESCRIPT = {
 	},
 	[SKID.SO_EL_ANALYSIS] = {
 		"Analyze Element",
+		"Max. Lv: 2",
 		"Skill Requirement: ^777777 Flame Launcher 1 / Endow Tsunami 1 / Endow Tornado 1 / Endow Quake 1   ^000000",
 		"Skill Type: ^777777Active  ^000000",
 		"Description : ^777777Analyze enchanted ores which are used as catalyst items for summoning spirits into pure gemstones.",
@@ -11354,7 +11356,7 @@ SKILL_DESCRIPT = {
 	[SKID.GN_CRAZYWEED] = {
 		"Crazy Vines",
 		"Max. Lv: 10",
-		"Skill Requirement: ^777777Wall of Thorns 3 ^000000",
+		"Skill Requirement: ^777777Thorn Wall 3 ^000000",
 		"Skill Type: ^777777  Active / Damage ^000000",
 		"Description : ^777777 Consuming one Seed of Thorns, summoning and dropping a huge block of plants, inflicting ranged physical damage on all targets in the area. It eliminates traps and effects laid on the ground.",
 		"As the skill level increases, the number of plant lumps summoned increases, and the damage is further increased based on BaseLv. ^000000",
@@ -11507,7 +11509,7 @@ SKILL_DESCRIPT = {
 	[SKID.SR_RIDEINLIGHTNING] = {
 		"Lightning Ride",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777 Spirit Sphere 3 ^000000",
+		"Skill Requirement: ^777777Throw Spirit Sphere 3 ^000000",
 		"Skill Type: ^777777  Active / Damage ^000000",
 		"Description : ^777777  Inflicts Ranged Physical Damage to all enemies in a set area around the targeted location by using 2 Spheres.",
 		"Damage increases depending on caster's base level, and if the equipped weapon is a Knuckle, this skill will inflict additional damage.^000000",
@@ -12490,7 +12492,7 @@ SKILL_DESCRIPT = {
 		"SP for its duration.^000000"
 	},
 	[SKID.KO_RIGHT] = {
-		"Righthand Mastery",
+		"Right Hand Mastery",
 		"Max. Lv: 5  (Passive)",
 		"Description: ^777777Restores your right-hand ATK, which decreases when you're equipped with two weapons.",
 		"At Levels 4 and 5, it also increases your ATK past the single-wield limit.^000000",
@@ -12941,7 +12943,7 @@ SKILL_DESCRIPT = {
 	[SKID.WM_FRIGG_SONG] = {
 		"Frigg's Song",
 		"Max. Lv: 5",
-		"Skill Requirement: ^777777Lesson 2 ^000000",
+		"Skill Requirement: ^777777Voice Lessons 2 ^000000",
 		"Type : ^777777  Active / Buff ^000000",
 		"Description : ^777777 Increase MaxHP of",
 		"allies for 60 sec and recover certain HP.",

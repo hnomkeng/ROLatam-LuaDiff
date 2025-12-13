@@ -1604,18 +1604,21 @@ QuestInfoList = {
 		Summary = "Habla con el líder de los Misioneros de la Perdición."
 	},
 	[1298] = {
-		Title = "¡Gas! ¡Gas!",
+		Title = "¡Gas! ¡¡Gas!!",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Ghast, frente a la mina Cresta rocosa, me pidió que cazara Gaster. Debo eliminar 20 Gaster."
+			"<NAVI>[Gast]<INFO>rockrdg2,295,328,0,101,0</INFO></NAVI>, frente a la mina de Rock Ridge, pidió ayuda para eliminar a los Gasters. Derrota a 20 <NAVI>[Gasters]<INFO>GASTER,0,0,3,-222,1</INFO></NAVI> dentro de la mina."
 		},
-		Summary = "Elimina 20 Gaster."
+		Summary = "Derrotar 20 Gasters."
 	},
 	[1299] = {
-		Title = "Patrulla una vez al día",
+		Title = "Espera: La patrulla es una vez al día",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Ghast dijo que solo me necesita para cazar Gaster una vez al día, antes de que comience su turno de patrulla. Debo esperar hasta que empiece su turno a las 4:00 del día siguiente."
+			"Gast dice que solo necesita que eliminen a los Gasters una vez al día, justo antes de su ronda de patrulla. Esperemos hasta las 4 a.m., cuando comienza su jornada."
 		},
-		Summary = "Vuelve a visitar Ghast después de las 4:00 del día siguiente."
+		Summary = "Reinicia a las 04:00",
+		CoolTimeQuest = 1
 	},
 	[1300] = {
 		Title = "Invisible Quest",
@@ -1765,88 +1768,105 @@ QuestInfoList = {
 		Summary = "Place Holder"
 	},
 	[1321] = {
-		Title = "Spotty y su Anillo",
+		Title = "El anillo que se llevó Baedugi",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Spotty se llevó el Anillo de la Sra. McPhy, y el Sr. McPhy teme demasiado a los Bandidos búfalo como para ir a buscarlo. Debo ayudarlos."
+			"El Escuadrón Socheok ayudará a encontrar el anillo de oro de <NAVI>[Sra. MacPhee]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>, que fue robado por Baedugi, en lugar del temible Sr. MacPhee."
 		},
-		Summary = "Busca el Anillo que se llevó Spotty."
+		Summary = "Encontrar el anillo que se llevó Baedugi"
 	},
 	[1322] = {
 		Title = "Encontré algo",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Encontré algo brillante dentro de uno de los agujeros que cavó Spotty, pero no es un anillo de oro. Ya busqué bastante a lo largo de la alambrada. Debo volver con la Sra. McPhy."
+			"Encontré algo brillante en lo que parece ser un hoyo cavado por Baedugi, pero no era el anillo de oro. Parece que ya revisé cerca de la cerca de alambre, así que primero regresemos con <NAVI>[Sra. MacPhee]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Vuelve con la Sra. McPhy."
+		Summary = "Regresar con la Sra. MacPhee"
 	},
 	[1323] = {
-		Title = "¡Spotty, no!",
+		Title = "Baedugi, así no se puede",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Spotty se llevó más cosas de la casa al descampado, para consternación de la Sra. McPhy. Debo buscar los objetos que faltan."
+			"Dicen que Baedugi volvió a llevarse enseres domésticos y salió corriendo hacia el <NAVI>[Yermo]<INFO>rockrdg1,37,246,0,101,0</INFO></NAVI>. Ayuda a <NAVI>[Sra. MacPhee]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>, quien está pasando apuros porque Baedugi se lleva cosas todos los días, encontrando los objetos perdidos."
 		},
-		Summary = "Busca los objetos domésticos que Spotty se llevó."
+		Summary = "Encontrar los enseres domésticos que se llevó Baedugi"
 	},
 	[1324] = {
-		Title = "¡Spotty, no!",
+		Title = "Baedugi, así no se puede",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Spotty se llevó más cosas de la casa al descampado, para consternación de la Sra. McPhy. Debo buscar los objetos que faltan."
+			"Dicen que Baedugi volvió a llevarse enseres domésticos y salió corriendo hacia el <NAVI>[Yermo]<INFO>rockrdg1,37,246,0,101,0</INFO></NAVI>. Ayuda a <NAVI>[Sra. MacPhee]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>, quien está pasando apuros porque Baedugi se lleva cosas todos los días, encontrando los objetos perdidos."
 		},
-		Summary = "Busca los objetos domésticos que Spotty se llevó."
+		Summary = "Encontrar los enseres domésticos que se llevó Baedugi"
 	},
 	[1325] = {
-		Title = "¡Spotty, no!",
+		Title = "Baedugi, así no se puede",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Spotty se llevó más cosas de la casa al descampado, para consternación de la Sra. McPhy. Debo buscar los objetos que faltan."
+			"Dicen que Baedugi volvió a llevarse enseres domésticos y salió corriendo hacia el <NAVI>[Yermo]<INFO>rockrdg1,37,246,0,101,0</INFO></NAVI>. Ayuda a <NAVI>[Sra. MacPhee]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>, quien está pasando apuros porque Baedugi se lleva cosas todos los días, encontrando los objetos perdidos."
 		},
-		Summary = "Busca los objetos domésticos que Spotty se llevó."
+		Summary = "Encontrar los enseres domésticos que se llevó Baedugi"
 	},
 	[1326] = {
-		Title = "¡Spotty, no!",
+		Title = "Baedugi, así no se puede",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Spotty se llevó más cosas de la casa al descampado, para consternación de la Sra. McPhy. Debo buscar los objetos que faltan."
+			"Dicen que Baedugi volvió a llevarse enseres domésticos y salió corriendo hacia el <NAVI>[Yermo]<INFO>rockrdg1,37,246,0,101,0</INFO></NAVI>. Ayuda a <NAVI>[Sra. MacPhee]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>, quien está pasando apuros porque Baedugi se lleva cosas todos los días, encontrando los objetos perdidos."
 		},
-		Summary = "Busca los objetos domésticos que Spotty se llevó."
+		Summary = "Encontrar los enseres domésticos que se llevó Baedugi"
 	},
 	[1327] = {
-		Title = "¡Spotty, no!",
+		Title = "Baedugi, así no se puede",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Spotty se llevó más cosas de la casa al descampado, para consternación de la Sra. McPhy. Debo buscar los objetos que faltan."
+			"Dicen que Baedugi volvió a llevarse enseres domésticos y salió corriendo hacia el <NAVI>[Yermo]<INFO>rockrdg1,37,246,0,101,0</INFO></NAVI>. Ayuda a <NAVI>[Sra. MacPhee]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>, quien está pasando apuros porque Baedugi se lleva cosas todos los días, encontrando los objetos perdidos."
 		},
-		Summary = "Busca los objetos domésticos que Spotty se llevó."
+		Summary = "Encontrar los enseres domésticos que se llevó Baedugi"
 	},
 	[1328] = {
-		Title = "Encontré los objetos perdidos",
+		Title = "Encontré lo que se llevó",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Encontré lo que busca la Sra. McPhy dentro de uno de los agujeros que cavó Spotty. Debo volver con la Sra. McPhy."
+			"Encontré lo que la Sra. MacPhee pidió buscar, dentro del hoyo cavado por Baedugi. Regresemos con <NAVI>[Sra. MacPhee]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Vuelve con la Sra. McPhy."
+		Summary = "Regresar con la Sra. MacPhee"
 	},
 	[1329] = {
-		Title = "Spotty en el país de los sueños",
+		Title = "Espera: Baedugi se fue al país de los sueños",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Spotty parece haber terminado por hoy, está profundamente dormido. Debo volver mañana después de las 4:00 y preguntarle a la Sra. McPhy si necesita ayuda."
+			"Parece que Baedugi jugó lo suficiente por hoy y no tiene intención de salir más. Después de las 4 a.m., visitemos a <NAVI>[Sra. MacPhee]<INFO>harboro1,347,65,0,101,0</INFO></NAVI> para ver si tal vez necesita ayuda de nuevo."
 		},
-		Summary = "Vuelve a visitar a la Sra. McPhy después de las 4:00 del día siguiente."
+		Summary = "Reinicia a las 04:00",
+		CoolTimeQuest = 1
 	},
 	[1330] = {
-		Title = "Los agujeros de Spotty",
+		Title = "¿Dónde está el hoyo que cavó Baedugi?",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"El Sr. McPhy me dirá dónde cree que hizo los agujeros Spotty. Debo salir de la aldea y buscarlo."
+			"Parece que el Sr. MacPhee tiene una idea de dónde pudo haber cavado Baedugi el hoyo. Salgamos del pueblo y busquemos a <NAVI>[Sr. MacPhee]<INFO>rockrdg1,36,250,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Busca al Sr. McPhy fuera de la aldea."
+		Summary = "Encontrar al Sr. MacPhee fuera del pueblo"
 	},
 	[1331] = {
-		Title = "Vengar a Spotty",
+		Title = "Venganza por Baedugi",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"El Sr. McPhy, convencido de que los Bandidos búfalo lastimaron a Spotty, me pidió que me encargara de ellos. Debo eliminar a 3 Bandidos búfalo de pelo amarillo, 3 de pelo negro y 3 de pelo blanco."
+			"<NAVI>[Sr. MacPhee]<INFO>harboro1,344,61,0,101,0</INFO></NAVI> cree que el Escuadrón Socheok es el culpable de molestar a Baedugi y pidió que los castigara en su lugar.",
+			"Castiga a tres <NAVI>[Socheok de cabello amarillo]<INFO>COWRAIDERS1,0,0,3,-222,1</INFO></NAVI>,",
+			"tres <NAVI>[Socheok de cabello negro]<INFO>COWRAIDERS2,0,0,3,-222,1</INFO></NAVI>,",
+			"y tres <NAVI>[Socheok de cabello blanco]<INFO>COWRAIDERS3,0,0,3,-222,1</INFO></NAVI>."
 		},
-		Summary = "Elimina a los Bandidos búfalo."
+		Summary = "Derrotar Socheok"
 	},
 	[1332] = {
-		Title = "Sangre por sangre",
+		Title = "Espera: Lavar la sangre con sangre",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"El Sr. McPhy aún no termina de vengar a Spotty. Debo volver con el Sr. McPhy a la ciudad después de las 4:00 del día siguiente."
+			"Parece que el Sr. MacPhee quiere castigar más a los Socheok. Después de las 4 a.m., busquemos de nuevo a <NAVI>[Sr. MacPhee]<INFO>harboro1,344,61,0,101,0</INFO></NAVI> en el pueblo."
 		},
-		Summary = "Vuelve a visitar al Sr. McPhy después de las 4:00 del día siguiente."
+		Summary = "Reinicia a las 04:00",
+		CoolTimeQuest = 1
 	},
 	[1333] = {
 		Title = "Dulce tentación",
@@ -11660,7 +11680,7 @@ QuestInfoList = {
 	[5485] = {
 		Title = "[Se busca]",
 		Description = {
-			"Elimina a Sara en la instancia Sara vs Fenrir."
+			"Elimina a Sara en la instancia Sarah y Fenrir."
 		}
 	},
 	[5486] = {
@@ -19631,142 +19651,167 @@ QuestInfoList = {
 		Summary = "Habla con Muyeon en el Palacio independiente."
 	},
 	[7790] = {
-		Title = "Cresta Rocosa, la tierra de las oportunidades",
+		Title = "Tierra de Oportunidades: Rock Ridge",
 		Description = {
-			"Karam Pucci decidió no cobrarte el boleto del barco a Cresta Rocosa a modo de obsequio."
+			"Karam Puchi te llevó gratis en el barco a Rock Ridge como servicio."
 		},
 		Summary = ""
 	},
 	[7791] = {
-		Title = "Problemas en Cresta Rocosa",
+		Title = "El Problema de Rock Ridge",
+		IconName = "ico_lq.bmp",
 		Description = {
-			"Karam Pucci dijo que Cresta Rocosa necesita ayuda. Tengo que ir a Cresta Rocosa y hablar con el alcalde Costello en el muelle."
+			"Dicen que hay problemas en Rock Ridge y necesitan ayuda. Cuando llegues a Rock Ridge, encuentra al Alcalde <NAVI>[Costel]<INFO>harboro1,80,218,0,101,0</INFO></NAVI> cerca del puerto."
 		},
-		Summary = "Habla con Costello."
+		Summary = "Hablar con Costel"
 	},
 	[7792] = {
-		Title = "Problemas en Cresta Rocosa 2",
+		Title = "El Problema de Rock Ridge 2",
+		IconName = "ico_lq.bmp",
 		Description = {
-			"El alcalde Costello dijo que Cresta Rocosa tiene problemas debido a los Bandidos búfalo, y que quiere que resuelva el problema junto con el sheriff. ^4d4dffTengo que ir a la oficina del sheriff para ver a Wyatt Warp^000000."
+			"El alcalde Costel dice que Rock Ridge está en problemas por los Socheok y pide cooperación con el sheriff del pueblo. Encuentra a <NAVI>[Wyatt Warp]<INFO>har_in01,20,30,0,101,0</INFO></NAVI> en la oficina del sheriff."
 		},
-		Summary = "Habla con Wyatt Warp."
+		Summary = "Hablar con Wyatt Warp"
 	},
 	[7793] = {
 		Title = "Buenas noticias",
+		IconName = "ico_lq.bmp",
 		Description = {
-			"Johnny James, el líder de los Bandidos búfalo, solo quiere negociar con el alcalde Costello. Debo contarle estas emocionantes noticias a ^4d4dffCostello en el muelle^000000."
+			"El líder de los Socheok, \"Johnny James\", nombró al \"Alcalde Costel\" como su interlocutor para las negociaciones. Ve al puerto y cuéntale esta (¿alegre?) noticia a <NAVI>[Costel]<INFO>harboro1,80,218,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Habla con Costello."
+		Summary = "Hablar con Costel"
 	},
 	[7794] = {
-		Title = "Respuesta esperada",
+		Title = "Reacción esperada",
+		IconName = "ico_lq.bmp",
 		Description = {
-			"Costello, con demasiado miedo de los bandidos para negociar con ellos, me pidió que fuera por él. Debería ir a decírselo al sheriff Warp."
+			"Parece que al alcalde Costel no le agrada la idea de ir a negociar. Informa su opinión, de que vayas tú a escuchar la propuesta en su lugar, al sheriff <NAVI>[Wyatt Warp]<INFO>har_in01,20,30,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Habla con Wyatt Warp."
+		Summary = "Hablar con Wyatt Warp"
 	},
 	[7795] = {
-		Title = "Negociación en las vías del tren",
+		Title = "Negociaciones sobre los rieles",
+		IconName = "ico_lq.bmp",
 		Description = {
-			"La reunión de negociación se llevará a cabo al costado del ^4d4dffunmovingtren de carga^000000. Lo podré encontrar si salgo de la aldea por la puerta del este y sigo las vías del tren."
+			"El lugar de negociación es donde está el <NAVI>[Tren de carga detenido]<INFO>rockrdg1,152,305,0,101,0</INFO></NAVI>. Saliendo hacia el este del pueblo y siguiendo las vías, dicen que es fácil de encontrar."
 		},
-		Summary = "Encuentra el tren de carga detenido."
+		Summary = "Encontrar el Tren de carga detenido"
 	},
 	[7796] = {
-		Title = "Un arresto inesperado",
+		Title = "Captura inesperada",
+		IconName = "ico_lq.bmp",
 		Description = {
-			"Los justicieros cactus nos han ayudaron a capturar a Johnny James, el líder de los Bandidos búfalo. Tengo que regresar a la oficina del ^4d4dffsheriffsheriff para planificar nuestra próxima jugada^000000."
+			"Con la ayuda de la patrulla ciudadana de los Cacter, capturamos con vida al líder de los Socheok, \"Johnny James\". Regresemos a la <NAVI>[Oficina del Sheriff]<INFO>har_in01,20,25,0,101,0</INFO></NAVI> para discutir los próximos pasos."
 		},
-		Summary = "Habla con Wyatt e Ivoka."
+		Summary = "Hablar con Wyatt Warp e Ivoka Skudi"
 	},
 	[7797] = {
-		Title = "Escucha esto 1",
+		Title = "Escuchemos Primero 1",
+		IconName = "ico_lq.bmp",
 		Description = {
-			"Como sugirió Ivoka, tengo que hablar con Johnny James para sembrarle la duda sobre Albert Ford."
+			"Siguiendo la opinión de Ivoka Skudi, visita a <NAVI>[Johnny James]<INFO>har_in01,89,23,0,101,0</INFO></NAVI>, encarcelado, y aviva sus sospechas sobre Albert Ford, quien escapó."
 		},
-		Summary = "Habla con Johnny James."
+		Summary = "Hablar con Johnny James"
 	},
 	[7798] = {
-		Title = "Una carnada perfecta",
+		Title = "Los Preparativos están Completos.",
+		IconName = "ico_lq.bmp",
 		Description = {
-			"Johnny James está convencido de que Albert Ford lo traicionó. Me pidió que me deshiciera de Albert y que trajera su crin como prueba. Tengo que visitar al sheriff ahora."
+			"Parece que Johnny James cree que Albert Ford lo traicionó. Pide que ejecutes al traidor Albert Ford y le traigas su pelaje como prueba. Primero, informemos al sheriff <NAVI>[Wyatt Warp]<INFO>har_in01,20,30,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Habla con Wyatt Warp."
+		Summary = "Hablar con Wyatt Warp"
 	},
 	[7799] = {
 		Title = "El arma de Shawn McCurdy 1",
+		IconName = "ico_lq.bmp",
 		Description = {
-			"El sheriff Warp dijo que el ^4d4dffcapataz McCurdy^000000 tiene una buena arma de negociación. Está en la plaza."
+			"El sheriff Iiert Warp mencionó que el capataz Shawn McCurdy tiene un arma muy buena para las negociaciones y dijo que lo visitaras. <NAVI>[Shawn McCurdy]<INFO>harboro1,288,193,0,101,0</INFO></NAVI> está en la plaza."
 		},
-		Summary = "Habla con Shawn McCurdy."
+		Summary = "Hablar con Shawn McCurdy"
 	},
 	[7800] = {
 		Title = "El arma de Shawn McCurdy 2",
+		IconName = "ico_lq.bmp",
 		Description = {
-			"Pude conseguir algunas unidades de Mineral morado, que pensé que ya no se podía extraer debido a los Bandidos búfalo. Tengo que encontrar a Shawn McCurdy, ^4d4dffsouthque está al sur de la entrada a la mina^000000."
+			"Parece que Shawn McCurdy sabe una manera de obtener nuevamente el mineral púrpura que no se pudo extraer más después de que los Socheok ocuparan la mina. Encuentra a <NAVI>[Shawn McCurdy]<INFO>rockrdg2,347,216,0,101,0</INFO></NAVI> en la <NAVI>[parte inferior de la entrada de la mina]<INFO>rockrdg2,347,216,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Habla con Shawn McCurdy."
+		Summary = "Hablar con Shawn McCurdy"
 	},
 	[7801] = {
 		Title = "El arma de Shawn McCurdy 3",
+		IconName = "ico_lq.bmp",
 		Description = {
-			"Pudimos escabullirnos en el piso 2 de la mina. Tengo que conseguir ^4d4dff1 1 Mineral morado^000000 y luego hablar con Shawn."
+			"Entramos al segundo piso de la mina siguiendo a Shawn McCurdy. Extrae 1 <ITEM>[Mineral púrpura]<INFO>25247</INFO></ITEM> en la mina y luego habla con <NAVI>[Shawn McCurdy]<INFO>rockmi2,10,86,0,101,0</INFO></NAVI>.",
+			"",
+			"^FF0000?El 2do piso de la mina no tiene guía automática desde el exterior.?^000000"
 		},
-		Summary = "1 Mineral morado"
+		Summary = "Mineral Púrpura 1"
 	},
 	[7802] = {
-		Title = "Escucha esto 2",
+		Title = "Escuchemos Primero 2",
+		IconName = "ico_lq.bmp",
 		Description = {
-			"Tengo que ^4d4dffknocktocar la roca de señalización 3 veces^000000 y luego hablar con Albert Ford sobre el futuro de su pandilla."
+			"Como te dijo Johnny James, golpea la <NAVI>[Roca de señal]<INFO>rockrdg2,279,312,0,101,0</INFO></NAVI> frente a la mina tres veces para llamar a Albert Ford, muéstrale el <ITEM>[Mineral Púrpura]<INFO>25247</INFO></ITEM> extraído en el 2do piso de la mina y ten una buena (?) conversación sobre el futuro."
 		},
-		Summary = "Habla con Albert Ford."
+		Summary = "Hablar con Albert Ford"
 	},
 	[7803] = {
-		Title = "Feliz por la confianza rota",
+		Title = "Riendo Por la Confianza Rota.",
+		IconName = "ico_lq.bmp",
 		Description = {
-			"Albert Ford, convencido de que Johnny James traicionó a su banda, decidió hacer un trato. Tengo que entregarle la crin de Albert a Johnny James como prueba."
+			"Albert Ford cree que Johnny James traicionó a los Búfalo Bandidos y aceptó negociar. Entrega el <ITEM>[Pelaje de Búfalo Bandido]<INFO>25249</INFO></ITEM> recibido de Albert Ford, como prueba de la negociación, a <NAVI>[Johnny James]<INFO>har_in01,89,23,0,101,0</INFO></NAVI> en la cárcel."
 		},
-		Summary = "Habla con Johnny James."
+		Summary = "Hablar con Johnny James"
 	},
 	[7804] = {
-		Title = "Ubicación del Mineral 1",
+		Title = "El Paradero del Mineral",
+		IconName = "ico_lq.bmp",
 		Description = {
-			"Johnny me dijo dónde escondió el Mineral: ^4d4dffunder debajo del ascensor del piso 2 de la mina^000000. Tengo que llevar esta información al sheriff Warp."
+			"Obtuvimos la ubicación del mineral de Johnny James. Informa la información obtenida al sheriff <NAVI>[Wyatt Warp]<INFO>har_in01,20,30,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Habla con Wyatt Warp."
+		Summary = "Hablar con Wyatt Warp"
 	},
 	[7805] = {
-		Title = "Ubicación del Mineral 2",
+		Title = "El Paradero del Mineral 2",
+		IconName = "ico_lq.bmp",
 		Description = {
-			"^4d4dffShawn McCurdy^000000 está en la ^4d4dfftemporaryentrada al piso 2 de la mina^000000. Tengo que decirle dónde está el Mineral y seguirlo hasta el interior de la mina."
+			"Ve con <NAVI>[Shawn McCurdy]<INFO>rockrdg2,347,216,0,101,0</INFO></NAVI>, quien está vigilando la entrada temporal al 2do piso de la mina en la <NAVI>[parte inferior de la entrada de la mina]<INFO>rockrdg2,347,216,0,101,0</INFO></NAVI>, infórmale la ubicación del mineral obtenida de Johnny James y recibe su ayuda."
 		},
-		Summary = "Habla con Shawn McCurdy."
+		Summary = "Hablar con Shawn McCurdy"
 	},
 	[7806] = {
-		Title = "Ubicación del Mineral 3",
+		Title = "El Paradero del Mineral 3",
+		IconName = "ico_lq.bmp",
 		Description = {
-			"El ascensor averiado está al norte desde el centro del piso 2. Tengo que encontrar una ^4d4dffCaja de mineral^000000 que está debajo del ascensor y llevársela a Shawn McCurdy."
+			"Dicen que si vas hacia arriba desde el centro de la mina,",
+			"encontrarás un <NAVI>[Elevador dañado]<INFO>rockmi2,97,119,0,101,0</INFO></NAVI]. Busca",
+			"1 <ITEM>[Caja de mineral púrpura]<INFO>25248</INFO></ITEM> debajo del elevador y regresa con <NAVI>[Shawn McCurdy]<INFO>rockmi2,10,86,0,101,0</INFO></NAVI>.",
+			"",
+			"^FF0000?El 2do piso de la mina no tiene guía automática desde el exterior.?^000000"
 		},
-		Summary = "1 Caja de mineral."
+		Summary = "Caja de Mineral 1"
 	},
 	[7807] = {
-		Title = "Un as bajo la manga",
+		Title = "El Movimiento Final",
+		IconName = "ico_lq.bmp",
 		Description = {
-			"Tengo que deshacerme de algunos Bandidos búfalo y recolectar ^4d4dff55 Bufandas marrones y 5 Bufandas de bandidos^000000 para mostrárselos a Albert Ford. Estallará en cólera."
+			"Parece que encontramos la <ITEM>[Caja de mineral púrpura]<INFO>25248</INFO></ITEM> objetivo en la mina. Para hacer la situación más dramática, consigue 5 <ITEM>[Bufanda marrón]<INFO>25283</INFO></ITEM> y 5 <ITEM>[Pañuelo de banda de ladrones]<INFO>25278</INFO></ITEM>, llama a Albert Ford golpeando la <NAVI>[Roca de señal]<INFO>rockrdg2,279,312,0,101,0</INFO></NAVI> y muéstraselos."
 		},
-		Summary = "5 Bufandas marrones y 5 Bufandas de bandidos."
+		Summary = "Bufanda Marrón 5, Pañuelo de Banda de Ladrones 5"
 	},
 	[7808] = {
 		Title = "Caso resuelto",
+		IconName = "ico_lq.bmp",
 		Description = {
-			"Creo que acabo de romper todos mis lazos con Albert Ford, pero no me importa. Ya no tengo que volver a verlo. Tengo que informar al sheriff Warp."
+			"Parece que me gané un gran odio de Albert Ford, pero como no hay razón para mantener una relación amistosa con ellos, supongo que no importa. Informa al sheriff <NAVI>[Iiert Warp]<INFO>har_in01,20,30,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Habla con Wyatt Warp."
+		Summary = "Hablar con Iiert Warp"
 	},
 	[7809] = {
-		Title = "Recolección de Mineral",
+		Title = "Mineral recuperado",
+		IconName = "ico_lq.bmp",
 		Description = {
-			"Recolecté el Mineral."
+			"Se recuperó el mineral."
 		},
 		Summary = ""
 	},
@@ -26066,6 +26111,419 @@ QuestInfoList = {
 		},
 		Summary = "Reúnete con el profesor Bernhard."
 	},
+	[9340] = {
+		Title = "Recolectar Fragmentos de Alma de Rata.",
+		Description = {
+			"Debes cazar Tarous en las Cloacas de Prontera y Cocos en el Campo de Prontera y el Bosque de Payon para recolectar 100 Fragmentos de Alma de Rata."
+		},
+		Summary = "Obtener 100 Fragmentos de Alma de Rata."
+	},
+	[9341] = {
+		Title = "Buscar a la persona con la energía de la Rata.",
+		Description = {
+			"Ve a Alberta y busca a la persona con la energía de la Rata en un lugar con vista al mar."
+		},
+		Summary = "Encontrar a la persona con la energía de la Rata."
+	},
+	[9342] = {
+		Title = "Ganar la confianza de Schumacher.",
+		Description = {
+			"Para ganar la confianza de Schumacher, debes recolectar 1 Oridecon, 1 Elunium, 5 Hierros y 5 Aceros."
+		},
+		Summary = "Ganar la confianza de Schumacher."
+	},
+	[9343] = {
+		Title = "Regresar con el Profeta K.",
+		Description = {
+			"Regresa con el Profeta K, cuéntale toda la situación y recibe tu recompensa."
+		},
+		Summary = "Regresar con el Profeta K."
+	},
+	[9344] = {
+		Title = "Recolectar Fragmentos de Alma de Buey.",
+		Description = {
+			"Ve al sótano 1 de la Pirámide en Morroc y al sótano 4 de la Esfinge para cazar Minorous y recolectar 100 Fragmentos de Alma de Buey."
+		},
+		Summary = "Obtener 100 Fragmentos de Alma de Buey."
+	},
+	[9345] = {
+		Title = "Recolectar Fragmentos de Alma de Buey y Argollas de Nariz.",
+		Description = {
+			"Ve a la Cueva Subterránea de Glast Heim, 2do piso, y caza Majoruros para recolectar 100 Fragmentos de Alma de Buey y 150 Argollas de Nariz."
+		},
+		Summary = "Obtener 100 Fragmentos de Alma de Buey y 150 Argollas de Nariz."
+	},
+	[9346] = {
+		Title = "Buscar a la persona con la energía del Buey.",
+		Description = {
+			"Ve a Hugel y busca a la persona con la energía del Buey."
+		},
+		Summary = "Encontrar a la persona con la energía del Buey."
+	},
+	[9347] = {
+		Title = "Ganar la confianza de Orderman.",
+		Description = {
+			"Para ganar la confianza de Orderman, debes recolectar 1 Trébol de Cuatro Hojas, 1 Hierba Hinare, 5 Brotes y 5 Tréboles."
+		},
+		Summary = "Ganar la confianza de Orderman."
+	},
+	[9348] = {
+		Title = "Regresar con el Profeta K.",
+		Description = {
+			"Regresa con el Profeta K, cuéntale toda la situación y recibe tu recompensa."
+		},
+		Summary = "Regresar con el Profeta K."
+	},
+	[9349] = {
+		Title = "Recolectar Fragmentos de Alma de Tigre.",
+		Description = {
+			"Ve al Campo de Kunlun y caza Baby Leopards para recolectar 100 Fragmentos de Alma de Tigre."
+		},
+		Summary = "Obtener 100 Fragmentos de Alma de Tigre."
+	},
+	[9350] = {
+		Title = "Recolectar Fragmentos de Alma de Tigre o Tigre Fuerte.",
+		Description = {
+			"Ve a la Tumba del Emperador de Yongzhi y recolecta 150 Fragmentos de Alma de Tigre de Li Me Mang Ryang, o ve al Campo de Payon y recolecta 1 Fragmento de Alma de Tigre Fuerte de Eddga."
+		},
+		Summary = "Obtener 150 Fragmentos de Alma de Tigre o 1 Fragmento de Alma de Tigre Fuerte."
+	},
+	[9351] = {
+		Title = "Buscar a la persona con la energía del Tigre.",
+		Description = {
+			"Ve a Payon y busca a la persona con la energía del Tigre."
+		},
+		Summary = "Encontrar a la persona con la energía del Tigre."
+	},
+	[9352] = {
+		Title = "Ganar la confianza de Mark Philho.",
+		Description = {
+			"Para ganar la confianza de Mark Philho, ve a la Playa de Komodo y recolecta 1 Perla y 1 Zafiro de las Nutrias."
+		},
+		Summary = "Ganar la confianza de Mark Philho."
+	},
+	[9353] = {
+		Title = "Regresar con el Profeta K.",
+		Description = {
+			"Regresa con el Profeta K, cuéntale toda la situación y recibe tu recompensa."
+		},
+		Summary = "Regresar con el Profeta K."
+	},
+	[9354] = {
+		Title = "Recolectar Fragmentos de Alma de Conejo o Zanahorias Arcoíris.",
+		Description = {
+			"Caza Lunatics en el Campo de Prontera para recolectar 100 Fragmentos de Alma de Conejo, o trae 2 Zanahorias Arcoíris."
+		},
+		Summary = "Obtener 100 Fragmentos de Alma de Conejo o 2 Zanahorias Arcoíris."
+	},
+	[9355] = {
+		Title = "Recolectar Fragmentos de Alma de Conejo.",
+		Description = {
+			"Ve desde Alberta a la Isla Tortuga y recolecta 150 Fragmentos de Alma de Conejo de los Spring Rabbits."
+		},
+		Summary = "Obtener 150 Fragmentos de Alma de Conejo."
+	},
+	[9356] = {
+		Title = "Buscar a la persona con la energía del Conejo.",
+		Description = {
+			"Ve a Geffen y busca a la persona con la energía del Conejo."
+		},
+		Summary = "Encontrar a la persona con la energía del Conejo."
+	},
+	[9357] = {
+		Title = "Ganar la confianza de Lutenberg.",
+		Description = {
+			"Para ganar la confianza de Lutenberg, debes recolectar 5 Vientos de Verdigris, 5 Hojas Verdes, 5 Cristales Azules y 5 Sangres Rojas cada uno."
+		},
+		Summary = "Ganar la confianza de Lutenberg."
+	},
+	[9358] = {
+		Title = "Regresar con el Profeta K.",
+		Description = {
+			"Regresa con el Profeta K, cuéntale toda la situación y recibe tu recompensa."
+		},
+		Summary = "Regresar con el Profeta K."
+	},
+	[9359] = {
+		Title = "Recolectar Fragmentos de Alma de Dragón.",
+		Description = {
+			"Caza Petits en el Campo de Geffen para recolectar 150 Fragmentos de Alma de Dragón."
+		},
+		Summary = "Recolectar 150 Fragmentos de Alma de Dragón."
+	},
+	[9360] = {
+		Title = "Recolectar Fragmentos de Alma de Dragón Fuerte.",
+		Description = {
+			"Ve al Pantano Jinay de Komodo, cerca de Komodo, y recolecta 5 Fragmentos de Alma de Dragón Fuerte de los Mutant Dragonoids."
+		},
+		Summary = "Obtener 5 Fragmentos de Alma de Dragón Fuerte."
+	},
+	[9361] = {
+		Title = "Buscar a la persona con la energía del Dragón.",
+		Description = {
+			"Ve a Komodo y busca a la persona con la energía del Dragón."
+		},
+		Summary = "Encontrar a la persona con la energía del Dragón."
+	},
+	[9362] = {
+		Title = "Ganar la confianza de Zayla.",
+		Description = {
+			"Ve al Campo de Prontera y consigue 10 Pieles de Animal de los Savage Babes, y ve al Desierto de Sograt y consigue 10 Pieles de Lombriz de los Horongs. Llévaselas a Zayla."
+		},
+		Summary = "Ganar la confianza de Zayla."
+	},
+	[9363] = {
+		Title = "Regresar con el Profeta K.",
+		Description = {
+			"Regresa con el Profeta K, cuéntale toda la situación y recibe tu recompensa."
+		},
+		Summary = "Regresar con el Profeta K."
+	},
+	[9364] = {
+		Title = "Recolectar Fragmentos de Alma de Serpiente.",
+		Description = {
+			"Caza Boas en el Bosque de Payon para recolectar 100 Fragmentos de Alma de Serpiente."
+		},
+		Summary = "Recolectar 100 Fragmentos de Alma de Serpiente."
+	},
+	[9365] = {
+		Title = "Recolectar Fragmentos de Alma de Serpiente Fuerte.",
+		Description = {
+			"Caza Side Winders en el área norte de las Montañas Mjolnir para recolectar 150 Fragmentos de Alma de Serpiente."
+		},
+		Summary = "Obtener 150 Fragmentos de Alma de Serpiente."
+	},
+	[9366] = {
+		Title = "Buscar a la persona con la energía de la Serpiente.",
+		Description = {
+			"Ve a Morroc y busca a la persona con la energía de la Serpiente."
+		},
+		Summary = "Encontrar a la persona con la energía de la Serpiente."
+	},
+	[9367] = {
+		Title = "Ganar la confianza de Fabius.",
+		Description = {
+			"Caza Condores o Lobos en el Desierto de Sograt y lleva 10 Garras de Ave y 10 Garras de Lobo cada una a Fabius."
+		},
+		Summary = "Ganar la confianza de Fabius."
+	},
+	[9368] = {
+		Title = "Regresar con el Profeta K.",
+		Description = {
+			"Regresa con el Profeta K, cuéntale toda la situación y recibe tu recompensa."
+		},
+		Summary = "Regresar con el Profeta K."
+	},
+	[9369] = {
+		Title = "Recolectar Fragmentos de Alma de Caballo.",
+		Description = {
+			"Ve a la Torre Central de Geffen, Calabozo Subterráneo de Geffen, 2do piso, y caza Nightmares para recolectar 100 Fragmentos de Alma de Caballo."
+		},
+		Summary = "Recolectar 100 Fragmentos de Alma de Caballo."
+	},
+	[9370] = {
+		Title = "Recolectar Fragmentos de Alma de Caballo Fuerte.",
+		Description = {
+			"Toma un barco desde Alberta al Campo de Brasilis y caza Mulas sin Cabeza para recolectar 150 Fragmentos de Alma de Caballo."
+		},
+		Summary = "Obtener 150 Fragmentos de Alma de Caballo."
+	},
+	[9371] = {
+		Title = "Buscar a la persona con la energía del Caballo.",
+		Description = {
+			"Ve a Umbala y busca a la persona con la energía del Caballo."
+		},
+		Summary = "Encontrar a la persona con la energía del Caballo."
+	},
+	[9372] = {
+		Title = "Ganar la confianza de Jimmy Robert.",
+		Description = {
+			"Ve a la Aldea Gitana cerca de Geffen o a las laderas norte de las Montañas Mjolnir, caza Cremies y Dustinesses y lleva 20 Polvos de Ala de Mariposa y 20 Polvos de Ala de Polilla cada uno a Jimmy Robert."
+		},
+		Summary = "Ganar la confianza de Jimmy Robert."
+	},
+	[9373] = {
+		Title = "Regresar con el Profeta K.",
+		Description = {
+			"Regresa con el Profeta K, cuéntale toda la situación y recibe tu recompensa."
+		},
+		Summary = "Regresar con el Profeta K."
+	},
+	[9374] = {
+		Title = "Recolectar Fragmentos de Alma de Oveja.",
+		Description = {
+			"Ve a la Mazmorra Laberinto de Prontera, 3er piso, y caza Baphomet Juniors para recolectar 100 Fragmentos de Alma de Oveja."
+		},
+		Summary = "Recolectar 100 Fragmentos de Alma de Oveja."
+	},
+	[9375] = {
+		Title = "Recolectar Fragmentos de Alma de Oveja Fuerte.",
+		Description = {
+			"Caza Goats en el Campo de Yuno para recolectar 150 Fragmentos de Alma de Oveja."
+		},
+		Summary = "Obtener 150 Fragmentos de Alma de Oveja."
+	},
+	[9376] = {
+		Title = "Buscar a la persona con la energía de la Oveja.",
+		Description = {
+			"Ve a Yuno y busca a la persona con la energía de la Oveja."
+		},
+		Summary = "Encontrar a la persona con la energía de la Oveja."
+	},
+	[9377] = {
+		Title = "Ganar la confianza de Michael Tail.",
+		Description = {
+			"Caza Geógrafos en el Campo de Yuno y Willows en el Bosque de Payon, y lleva 20 Raíces de Planta Carnívora y 20 Raíces de Árbol Viejo cada una a Michael Tail."
+		},
+		Summary = "Ganar la confianza de Michael Tail."
+	},
+	[9378] = {
+		Title = "Regresar con el Profeta K.",
+		Description = {
+			"Regresa con el Profeta K, cuéntale toda la situación y recibe tu recompensa."
+		},
+		Summary = "Regresar con el Profeta K."
+	},
+	[9379] = {
+		Title = "Recolectar Fragmentos de Alma de Mono.",
+		Description = {
+			"Caza Yoyos en el Campo de Prontera y el Campo de Ayothaya para recolectar 100 Fragmentos de Alma de Mono."
+		},
+		Summary = "Recolectar 100 Fragmentos de Alma de Mono."
+	},
+	[9380] = {
+		Title = "Recolectar Fragmentos de Alma de Mono Fuerte.",
+		Description = {
+			"Caza Wootan Fighters y Wootan Shooters en el Campo de Umbala para recolectar 150 Fragmentos de Alma de Mono."
+		},
+		Summary = "Obtener 150 Fragmentos de Alma de Mono."
+	},
+	[9381] = {
+		Title = "Buscar a la persona con la energía del Mono.",
+		Description = {
+			"Ve a Einbroch y busca a la persona con la energía del Mono."
+		},
+		Summary = "Encontrar a la persona con la energía del Mono."
+	},
+	[9382] = {
+		Title = "Ganar la confianza de Mark Han.",
+		Description = {
+			"Ve a la Mazmorra de Hielo, 1er piso, y consigue 20 Corazones de Hielo de los Siromas, y ve a Noggroad, 1er piso, y consigue 20 Corazones Ardientes de los Blazers. Llévaselos a Mark Han."
+		},
+		Summary = "Ganar la confianza de Mark Han."
+	},
+	[9383] = {
+		Title = "Regresar con el Profeta K.",
+		Description = {
+			"Regresa con el Profeta K, cuéntale toda la situación y recibe tu recompensa."
+		},
+		Summary = "Regresar con el Profeta K."
+	},
+	[9384] = {
+		Title = "Recolectar Fragmentos de Alma de Gallo.",
+		Description = {
+			"Caza Pickys en el Desierto de Sograt, cerca de Morroc, para recolectar 100 Fragmentos de Alma de Gallo."
+		},
+		Summary = "Recolectar 100 Fragmentos de Alma de Gallo."
+	},
+	[9385] = {
+		Title = "Recolectar Fragmentos de Alma de Gallo Fuerte.",
+		Description = {
+			"Caza Grand Pecos en el Campo de la Academia de Kiel Hyre, cerca de Yuno, para recolectar 150 Fragmentos de Alma de Gallo."
+		},
+		Summary = "Obtener 150 Fragmentos de Alma de Gallo."
+	},
+	[9386] = {
+		Title = "Buscar a la persona con la energía del Gallo.",
+		Description = {
+			"Ve a Geffen y busca a la persona con la energía del Gallo."
+		},
+		Summary = "Encontrar a la persona con la energía del Gallo."
+	},
+	[9387] = {
+		Title = "Ganar la confianza de Balun Gray.",
+		Description = {
+			"Muévete desde Izlude a la Isla de Byalan y luego ve a la Cueva Submarina de Izlude. Caza Cornutus y Vadons y recolecta 20 Conchas y 20 Pinzas cada una para llevárselas a Balun Gray."
+		},
+		Summary = "Ganar la confianza de Balun Gray."
+	},
+	[9388] = {
+		Title = "Regresar con el Profeta K.",
+		Description = {
+			"Regresa con el Profeta K, cuéntale toda la situación y recibe tu recompensa."
+		},
+		Summary = "Regresar con el Profeta K."
+	},
+	[9389] = {
+		Title = "Recolectar Fragmentos de Alma de Perro.",
+		Description = {
+			"Caza Lobos en el Desierto de Sograt, cerca de Payon, para recolectar 100 Fragmentos de Alma de Perro."
+		},
+		Summary = "Recolectar 100 Fragmentos de Alma de Perro."
+	},
+	[9390] = {
+		Title = "Recolectar Fragmentos de Alma de Perro Fuerte.",
+		Description = {
+			"Caza Lobos del Desierto en la Pradera Rachel Audumla, cerca de Rachel, para recolectar 150 Fragmentos de Alma de Perro."
+		},
+		Summary = "Obtener 150 Fragmentos de Alma de Perro."
+	},
+	[9391] = {
+		Title = "Buscar a la persona con la energía del Perro.",
+		Description = {
+			"Ve a Payon y busca a la persona con la energía del Perro."
+		},
+		Summary = "Encontrar a la persona con la energía del Perro."
+	},
+	[9392] = {
+		Title = "Ganar la confianza de Spark Lee.",
+		Description = {
+			"Caza Yoyos en el Campo de Prontera (parte superior) y Escorpiones en el Desierto de Sograt (parte inferior de Morroc), y lleva 20 Colas de Mono y 20 Colas de Escorpión cada una a Spark Lee."
+		},
+		Summary = "Ganar la confianza de Spark Lee."
+	},
+	[9393] = {
+		Title = "Regresar con el Profeta K.",
+		Description = {
+			"Regresa con el Profeta K, cuéntale toda la situación y recibe tu recompensa."
+		},
+		Summary = "Regresar con el Profeta K."
+	},
+	[9394] = {
+		Title = "Recolectar Fragmentos de Alma de Cerdo.",
+		Description = {
+			"Caza Savage Babes en las laderas sur de las Montañas Mjolnir, cerca de Prontera, para recolectar 100 Fragmentos de Alma de Cerdo."
+		},
+		Summary = "Recolectar 100 Fragmentos de Alma de Cerdo."
+	},
+	[9395] = {
+		Title = "Recolectar Fragmentos de Alma de Cerdo Fuerte.",
+		Description = {
+			"Caza Savages en el área sur de las Montañas Mjolnir, cerca de Geffen, para recolectar 150 Fragmentos de Alma de Cerdo."
+		},
+		Summary = "Obtener 150 Fragmentos de Alma de Cerdo."
+	},
+	[9396] = {
+		Title = "Buscar a la persona con la energía del Cerdo.",
+		Description = {
+			"Ve afuera de la Puerta Principal de Prontera y busca a la persona con la energía del Cerdo."
+		},
+		Summary = "Encontrar a la persona con la energía del Cerdo."
+	},
+	[9397] = {
+		Title = "Ganar la confianza de Fate Jun.",
+		Description = {
+			"Caza Coconuts en el Campo de Geffen (cerca de Geffen) y Elder Willows en el Campo de Prontera (cerca de Prontera), y lleva 20 Bellotas y 20 Savias de Árbol Viejo cada una a Fate Jun."
+		},
+		Summary = "Ganar la confianza de Fate Jun."
+	},
+	[9398] = {
+		Title = "Regresar con el Profeta K.",
+		Description = {
+			"Regresa con el Profeta K, cuéntale toda la situación y recibe tu recompensa."
+		},
+		Summary = "Regresar con el Profeta K."
+	},
 	[9418] = {
 		Title = "Ataque en la Fortaleza celestial que invade a Prontera",
 		Description = {
@@ -26103,172 +26561,181 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[9438] = {
-		Title = "¡A la nueva tierra!",
+		Title = "¡Al Nuevo Continente!",
 		Description = {
-			"Habla con Karam Pucci en Alberta y ve a la nueva tierra."
+			"Encuentra a Karam Puchi en Alberta y ve al Nuevo Continente."
 		},
-		Summary = "Habla con Karam Pucci en Alberta."
+		Summary = "Encontrar a Karam Puchi en Alberta"
 	},
 	[9439] = {
-		Title = "Un grave problema",
+		Title = "Un problema molesto",
 		Description = {
-			"Costello, en Cresta Rocosa, necesita ayuda con un problema que tiene su aldea."
+			"Costel de Rock Ridge dice que debo ir urgentemente debido a un problema en el pueblo."
 		},
-		Summary = "Reúnete con Costello en Cresta rocosa."
+		Summary = "Encontrar a Costel en Rock Ridge"
 	},
 	[9440] = {
-		Title = "Para abordar el problema",
+		Title = "Para resolver el problema",
 		Description = {
-			"Pídele al sheriff de la aldea, Wyatt Warp, más detalles sobre el problema."
+			"Encuentra al sheriff del pueblo, Iiert Warp, y escucha los detalles."
 		},
-		Summary = "Habla con Wyatt Warp en la oficina del sheriff en Cresta Rocosa."
+		Summary = "Encontrar a Iiert Warp en la oficina del sheriff de Rock Ridge"
 	},
 	[9441] = {
-		Title = "La solución más rápida",
+		Title = "Una solución fácil y simple",
 		Description = {
-			"Pregúntale su opinión a Costello sobre cómo solucionar el problema."
+			"Escucha la opinión de Costel para resolver el problema."
 		},
-		Summary = "Habla con Costello."
+		Summary = "Encontrar a Costel"
 	},
 	[9442] = {
-		Title = "Jugar a los enemigos",
+		Title = "Dividir",
 		Description = {
-			"Pregúntale su opinión a Ivoka Skudi sobre cómo solucionar el problema."
+			"Escucha la opinión de Iboka Scoody para resolver el problema."
 		},
-		Summary = "Habla con Ivoka Skudi en la oficina del sheriff."
+		Summary = "Encontrar a Iboka Scoody en la oficina del sheriff"
 	},
 	[9443] = {
-		Title = "Nos tomamos nuestro tiempo",
+		Title = "El tiempo está de nuestro lado",
 		Description = {
-			"Pregúntale su opinión a Shawn McCurdy sobre cómo solucionar el problema."
+			"Escucha la opinión de Sean McCready para resolver el problema."
 		},
-		Summary = "Habla con Shawn McCurdy en Cresta Rocosa."
+		Summary = "Encontrar a Sean McCready en el pueblo de Rock Ridge"
 	},
 	[9444] = {
-		Title = "La decisión",
+		Title = "¿Será esta la mejor opción?",
 		Description = {
-			"Elige una de las tres propuestas."
+			"Elige una de las tres soluciones."
 		},
-		Summary = "Habla con Wyatt Warp."
+		Summary = "Hablar con Iiert Warp"
 	},
 	[9445] = {
-		Title = "¿Cuánto?",
+		Title = "¿Cuánto? ¿Con cuánto te arreglas?",
 		Description = {
-			"Dale a Costello 1 millón de zeny por la negociación."
+			"Encuentra a Costel y dale 1 millón de Zeny para la negociación."
 		},
-		Summary = "Habla con Costello mientras llevas 1 millón de zeny."
+		Summary = "Encontrar a Costel con 1,000,000 de Zeny"
 	},
 	[9446] = {
-		Title = "Jugar a los enemigos",
+		Title = "Dividir",
 		Description = {
-			"Habla con Ivoka Skudi en la oficina del sheriff, y luego habla con Johnny James en la celda subterránea."
+			"Habla con Iboka Scoody en la oficina del sheriff y luego habla con Johnny James en la cárcel subterránea."
 		},
-		Summary = "Habla con Ivoka Skudi y Johnny James."
+		Summary = "Encontrar a Iboka Scoody y luego a Johnny James"
 	},
 	[9447] = {
-		Title = "Jugar a los enemigos",
+		Title = "Dividir",
 		Description = {
-			"Ahora que convencí a Johnny James, es hora de convencer a Albert Ford."
+			"Engañaste a Johnny James, ahora es turno de engañar a Albert Ford."
 		},
-		Summary = "Habla con Albert Ford junto a la entrada de la mina."
+		Summary = "Encontrar a Albert Ford en la entrada de la mina"
 	},
 	[9448] = {
-		Title = "Jugar a los enemigos",
+		Title = "Dividir",
 		Description = {
-			"Usa el crin de Albert Ford para tranquilizar a Johnny James."
+			"Usa el pelaje de Albert Ford para engañar a Johnny James de nuevo."
 		},
-		Summary = "Lleva la crin a Johnny James."
+		Summary = "Encontrar a Johnny James con el Pelaje"
 	},
 	[9449] = {
-		Title = "Jugar a los enemigos",
+		Title = "Dividir",
 		Description = {
-			"Ahora sé dónde está el Mineral. Debo informar a Ivoka Skudi y Wyatt Warp."
+			"Descubriste dónde está escondido el mineral, informa a Iboka Scoody e Iiert Warp."
 		},
-		Summary = "Habla con Ivoka Skudi y Wyatt Warp."
+		Summary = "Encontrar a Iboka Scoody y luego a Iiert Warp"
 	},
 	[9450] = {
-		Title = "Jugar a los enemigos",
+		Title = "Dividir",
 		Description = {
-			"Habla con Shawn McCurdy y descubre el pasadizo secreto para entrar a la mina."
+			"Encuentra a Sean McCready y escucha sobre el pasaje secreto a la mina."
 		},
-		Summary = "Habla con Shawn McCurdy en Cresta Rocosa."
+		Summary = "Encontrar a Sean McCready en el pueblo de Rock Ridge"
 	},
 	[9451] = {
-		Title = "Jugar a los enemigos",
+		Title = "Dividir",
 		Description = {
-			"Habla con Shawn McCurdy junto a la entrada de la mina e ingresa a ella."
+			"Encuentra a Sean McCready cerca de la entrada del pasaje secreto de la mina y entra a la mina."
 		},
-		Summary = "Habla con Shawn McCurdy en el campo de Cresta Rocosa."
+		Summary = "Encontrar a Sean McCready en el campo de Rock Ridge"
 	},
 	[9452] = {
-		Title = "Sudor por sangre",
+		Title = "El sudor nunca traiciona",
 		Description = {
-			"Tengo que hablar con Shawn McCurdy sobre la minería."
+			"Habla con Sean McCready sobre el trabajo de extracción de mineral."
 		},
-		Summary = "Habla con Shawn McCurdy en Cresta Rocosa."
+		Summary = "Encontrar a Sean McCready en el pueblo de Rock Ridge"
 	},
 	[9453] = {
-		Title = "Sudor por sangre",
+		Title = "El sudor nunca traiciona",
 		Description = {
-			"Habla con Shawn McCurdy junto a la entrada de la mina e ingresa a ella."
+			"Encuentra a Sean McCready cerca de la entrada del pasaje secreto de la mina y entra a la mina."
 		},
-		Summary = "Habla con Shawn McCurdy en el campo de Cresta Rocosa."
+		Summary = "Encontrar a Sean McCready en el campo de Rock Ridge"
 	},
 	[9454] = {
-		Title = "Sudor por sangre",
+		Title = "El sudor nunca traiciona",
 		Description = {
-			"Recolecta Mineral morado en la mina y llévale a Costello al menos 20 unidades."
+			"Extrae minerales púrpuras en la mina. Reúne más de 20 minerales púrpuras y llévaselos a Costel para completar la misión."
 		},
-		Summary = "Recolecta 20 unidades de Mineral morado y llévaselo a Costello."
+		Summary = "Obtener más de 20 Minerales púrpuras y encontrarse con Costel"
 	},
 	[9455] = {
-		Title = "Sudor por sangre",
+		Title = "El sudor nunca traiciona",
 		Description = {
-			"Llévale el Mineral a Albert Ford, junto a la entrada de la mina, y vuelve a negociar con él."
+			"Toma el mineral y negocia de nuevo con Albert Ford en la entrada de la mina."
 		},
-		Summary = "Recolecta 20 unidades de Mineral morado y llévaselo a Albert Ford."
+		Summary = "Obtener más de 20 Minerales púrpuras y encontrarse con Albert Ford"
 	},
 	[9456] = {
-		Title = "Sudor por sangre",
+		Title = "El sudor nunca traiciona",
 		Description = {
-			"Revisa los detalles de la nueva negociación con Albert Ford y luego informa a Costello."
+			"Después de confirmar la nueva propuesta de negociación con Albert Ford, comunícasela a Costel."
 		},
-		Summary = "Habla con Costello."
+		Summary = "Encontrarse con Costel"
 	},
 	[9457] = {
-		Title = "Al fin y al cabo, se resolvió ",
+		Title = "Resuelto de todos modos",
+		IconName = "ico_lq.bmp",
 		Description = {
-			"Resuelve el problema de la aldea Cresta Rocosa."
+			"Resuelve el problema del pueblo de Rock Ridge."
 		},
-		Summary = "Habla con Wyatt Warp."
+		Summary = "Encontrarse con Iiert Warp"
 	},
 	[9458] = {
 		Title = "Limpieza de tuberías",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Elimina a las Anémonas de mar que se adhieren a las tuberías de agua en el sótano de Cresta Rocosa."
+			"Ve al <NAVI>[Colector de Aguas]<INFO>harboro2,329,187,0,101,0</INFO></NAVI> del pueblo de Rock Ridge, elimina las <NAVI>[Anémonas]<INFO>SEAANEMONE,0,0,3,-222,1</INFO></NAVI> adheridas a las tuberías e informa a <NAVI>[Donovan]<INFO>harboro1,138,157,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Elimina 20 Anémonas de mar."
+		Summary = "Eliminar 20 Anémonas"
 	},
 	[9459] = {
-		Title = "Demasiado pronto para limpiar las tuberías",
+		Title = "Espera: La limpieza de tuberías aún no",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Todavía quedan muchas Anémona de mar por eliminar."
+			"Dicen que aún no hay muchas anémonas. Después de un tiempo, busca a <NAVI>[Donovan]<INFO>harboro1,138,157,0,101,0</INFO></NAVI> y haz la limpieza de tuberías de nuevo."
 		},
-		Summary = ""
+		Summary = "Reinicia a las 04:00",
+		CoolTimeQuest = 1
 	},
 	[9460] = {
-		Title = "Recolección de Fragmentos de Mineral",
+		Title = "Recolectar fragmentos de mineral",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Caza monstruos en los campos y minas de Cresta Rocosa y recolecta Fragmentos de Mineral."
+			"En el <NAVI>[Desierto de Kiwawa 1]<INFO>rockrdg1,37,246,0,101,0</INFO></NAVI>, <NAVI>[Desierto de Kiwawa 2]<INFO>rockrdg2,31,207,0,101,0</INFO></NAVI> y la <NAVI>[Mina de Rock Ridge]<INFO>rockmi1,247,19,0,101,0</INFO></NAVI>",
+			"caza para recolectar 10 <ITEM>[Fragmento de mineral púrpura]<INFO>25260</INFO></ITEM> y",
+			"regresa con el <NAVI>[Caballo agachado]<INFO>rockrdg1,262,90,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Recolecta 10 Fragmentos de Mineral y entrégaselos a Caballo Agachado."
+		Summary = "10 Fragmentos de mineral púrpura"
 	},
 	[9461] = {
-		Title = "Hay suficiente Mineral",
+		Title = "Espera: Mineral abundante",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Caballo Agachado no necesita más Mineral en este momento."
+			"El <NAVI>[Caballo agachado]<INFO>rockrdg1,262,90,0,101,0</INFO></NAVI> dice que por ahora no necesita mineral. Visítalo de nuevo al amanecer."
 		},
-		Summary = ""
+		Summary = "Reinicia a las 04:00",
+		CoolTimeQuest = 1
 	},
 	[10000] = {
 		Title = "A la corte real de Prontera",
@@ -33932,7 +34399,7 @@ QuestInfoList = {
 		Summary = "Cerca de prt_fild02 280 328."
 	},
 	[12214] = {
-		Title = "Doc. sobre Pinchas de cactus",
+		Title = "Doc. sobre Espinas de Cactus",
 		Description = {
 			"La superficie de una planta que puede sobrevivir en desiertos, casi sin humedad."
 		},
@@ -34874,7 +35341,7 @@ QuestInfoList = {
 	[12370] = {
 		Title = "Unión de Ciudades",
 		Description = {
-			"A partir de ahora, eres miembro de la Unión de Ciudades. Al derrotar a cualquier monstruo, habrá un 20 % de probabilidades de que aparezca una moneda de unión directamente en tu inventario."
+			"A partir de ahora, eres miembro de la Unión de las Ciudades. Al derrotar a cualquier monstruo, habrá un 20 % de probabilidades de que aparezca una moneda de unión directamente en tu inventario."
 		},
 		Summary = "Unionista"
 	},
@@ -34943,218 +35410,254 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},
 	[12381] = {
-		Title = "Responsable de alimentos del nuevo continente",
+		Title = "Proveedor de alimentos del Nuevo Continente",
 		Description = {
-			"Proporciona los ingredientes al nuevo continente lo mejor que puedas."
+			"Ahora debes dar lo mejor de ti como proveedor de alimentos del Nuevo Continente."
 		},
-		Summary = "Responsable de alimentos del nuevo continente."
+		Summary = "Proveedor de alimentos del Nuevo Continente"
 	},
 	[12382] = {
-		Title = "Distribución de alimentos",
+		Title = "Espera: ¡Ahora puedo repartir comida!",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Gracias a ti, el distribuidor de alimentos ya tiene suficientes ingredientes y puede cocinar para todos quienes esperaban su comida."
+			"Parece que los materiales recolectados aliviaron las preocupaciones del <NAVI>[Encargado de comedor]<INFO>harboro1,357,163,0,101,0</INFO></NAVI>. Por un tiempo, no habrá problemas con las comidas para la gente."
 		},
-		Summary = "La misión se reinicia a las 4:00.",
+		Summary = "Reinicia a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[12383] = {
-		Title = "Entrega de Batatas dulces",
+		Title = "Suministro de batatas",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Consigue 160 Batatas dulces del continente y haz la entrega al distribuidor de alimentos de Cresta Rocosa. Puedes conseguirlas de los comerciantes en las grandes ciudades."
+			"Consigue 160 <ITEM>[Batatas]<INFO>516</INFO></ITEM> en el continente principal y envíalas rápidamente al <NAVI>[Encargado de comedor]<INFO>harboro1,357,163,0,101,0</INFO></NAVI> de Rock Ridge. Puedes conseguirlas de los comerciantes en las grandes ciudades."
 		},
-		Summary = "160 Batatas dulces."
+		Summary = "160 Batatas"
 	},
 	[12384] = {
-		Title = "Entrega de Carne",
+		Title = "Suministro de carne",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Consigue 50 unidades de Carne del continente y haz la entrega al distribuidor de alimentos de Cresta Rocosa. Puedes conseguirlas de los comerciantes en las grandes ciudades."
+			"Consigue 50 <ITEM>[Carnes]<INFO>517</INFO></ITEM> en el continente principal y envíalas rápidamente al <NAVI>[Encargado de comedor]<INFO>harboro1,357,163,0,101,0</INFO></NAVI> de Rock Ridge. Puedes conseguirlas de los comerciantes en las grandes ciudades."
 		},
-		Summary = "50 unidades de Carne."
+		Summary = "50 Carnes"
 	},
 	[12385] = {
-		Title = "Entrega de Zanahorias",
+		Title = "Suministro de zanahorias",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Consigue 160 Zanahorias del continente y haz la entrega al distribuidor de alimentos de Cresta Rocosa. Puedes conseguirlas de los comerciantes en las grandes ciudades."
+			"Consigue 160 <ITEM>[Zanahorias]<INFO>515</INFO></ITEM> en el continente principal y envíalas rápidamente al <NAVI>[Encargado de comedor]<INFO>harboro1,357,163,0,101,0</INFO></NAVI> de Rock Ridge. Puedes conseguirlas de los comerciantes en las grandes ciudades."
 		},
-		Summary = "160 Zanahorias."
+		Summary = "160 Zanahorias"
 	},
 	[12386] = {
-		Title = "Entrega de Bananas",
+		Title = "Suministro de plátanos",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Consigue 160 Bananas del continente y haz la entrega al distribuidor de alimentos de Cresta Rocosa. Puedes conseguirlas de los comerciantes en las grandes ciudades."
+			"Consigue 160 <ITEM>[Plátanos]<INFO>513</INFO></ITEM> en el continente principal y envíalas rápidamente al <NAVI>[Encargado de comedor]<INFO>harboro1,357,163,0,101,0</INFO></NAVI> de Rock Ridge. Puedes conseguirlas de los comerciantes en las grandes ciudades."
 		},
-		Summary = "160 Bananas."
+		Summary = "160 Plátanos"
 	},
 	[12387] = {
-		Title = "Entrega de Calabazas",
+		Title = "Suministro de calabazas",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Consigue 160 Calabazas del continente y haz la entrega al distribuidor de alimentos de Cresta Rocosa. Puedes conseguirlas de los comerciantes en las grandes ciudades."
+			"Consigue 160 <ITEM>[Calabazas]<INFO>535</INFO></ITEM> en el continente principal y envíalas rápidamente al <NAVI>[Encargado de comedor]<INFO>harboro1,357,163,0,101,0</INFO></NAVI> de Rock Ridge. Puedes conseguirlas de los comerciantes en las grandes ciudades."
 		},
-		Summary = "160 Calabazas."
+		Summary = "160 Calabazas"
 	},
 	[12388] = {
-		Title = "Entrega de Hongos",
+		Title = "Suministro de champiñones",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Consigue 60 Hongos del continente y entrégalas al distribuidor de alimentos de Cresta Rocosa. Puedes conseguirlas de los comerciantes en las grandes ciudades."
+			"Consigue 60 <ITEM>[Champiñones]<INFO>581</INFO></ITEM> en el continente principal y envíalas rápidamente al <NAVI>[Encargado de comedor]<INFO>harboro1,357,163,0,101,0</INFO></NAVI> de Rock Ridge. Puedes conseguirlas de los comerciantes de ingredientes en las grandes ciudades."
 		},
-		Summary = "60 Hongos."
+		Summary = "60 Champiñones"
 	},
 	[12389] = {
-		Title = "El guardián de Cresta Rocosa",
+		Title = "Guardián de Rock Ridge",
 		Description = {
-			"Te uniste al grupo de justicieros de la aldea pionera en el nuevo continente."
+			"Ahora actuarás como miembro de la patrulla ciudadana del asentamiento del Nuevo Continente."
 		},
-		Summary = "Justicieros en el nuevo continente."
+		Summary = "Patrulla ciudadana del Nuevo Continente"
 	},
 	[12390] = {
-		Title = "Aliviado por ahora",
+		Title = "Espera: Ahora estoy menos preocupado por un tiempo",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Con esto, la aldea pionera está a salvo de los monstruos… por ahora."
+			"Los monstruos alrededor del asentamiento deben haberse debilitado hasta este punto. No habrá ataques por un tiempo, ¿verdad? Al amanecer, visitemos de nuevo a la <NAVI>[Patrulla de Acero]<INFO>harboro1,357,155,0,101,0</INFO></NAVI> para verificar una vez más."
 		},
-		Summary = "La misión se reinicia a las 4:00.",
+		Summary = "Reinicia a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[12391] = {
-		Title = "Búfalos con rifles",
+		Title = "Vacas con rifles",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Elimina a 15 ^ff0000rifleBandidos búfalo de rifle^000000."
+			"Debes derrotar a 15 <NAVI>[Bandido Bufalo Tirador]<INFO>COWRAIDERS1,0,0,3,-222,1</INFO></NAVI>.",
+			"Después de derrotarlos, repórtate con la <NAVI>[Autodefensa de Acero]<INFO>harboro1,357,155,0,101,0</INFO></NAVI> para recibir tu recompensa."
 		},
-		Summary = "Elimina a 15 Bandidos búfalo."
+		Summary = "Derrotar 15 Bandido Buffalo"
 	},
 	[12392] = {
-		Title = "Castigo a las máscaras rojas",
+		Title = "Eliminación de las máscaras rojas",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Elimina a 15 ^ff0000redBandidos búfalo de la máscara roja^000000."
+			"Debes derrotar a 15 <NAVI>[Socheok con máscara roja]<INFO>COWRAIDERS2,0,0,3,-222,1</INFO></NAVI>.",
+			"Después de derrotarlos, repórtate con la <NAVI>[Patrulla de Acero]<INFO>harboro1,357,155,0,101,0</INFO></NAVI> para recibir tu recompensa."
 		},
-		Summary = "Elimina a 15 Bandidos búfalo."
+		Summary = "Derrotar 15 Socheok"
 	},
 	[12393] = {
-		Title = "Desperados del parche para un ojo",
+		Title = "Forajidos con parches",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Elimina a 15 ^ff0000eyeBandidos búfalo con parche en el ojo^000000."
+			"Debes derrotar a 15 <NAVI>[Socheok con parche]<INFO>COWRAIDERS3,0,0,3,-222,1</INFO></NAVI>.",
+			"Después de derrotarlos, repórtate con la <NAVI>[Patrulla de Acero]<INFO>harboro1,357,155,0,101,0</INFO></NAVI> para recibir tu recompensa."
 		},
-		Summary = "Elimina a 15 Bandidos búfalo."
+		Summary = "Derrotar 15 Socheok"
 	},
 	[12394] = {
-		Title = "Exterminar a las bestias cuadrúpedas grises",
+		Title = "Eliminación de bestias grises",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Elimina a 20 monstruos ^ff0000Coyote^000000. Se pueden encontrar principalmente en el valle estrecho al oeste de Cresta Rocosa"
+			"Debes derrotar a 20 <NAVI>[Coyotes]<INFO>COYOTE,0,0,3,-222,1</INFO></NAVI>. Los Coyotes habitan abundantemente en el desierto al oeste de Rock Ridge, en las estrechas gargantas.",
+			"Después de derrotarlos, repórtate con la <NAVI>[Patrulla de Acero]<INFO>harboro1,357,155,0,101,0</INFO></NAVI> para recibir tu recompensa."
 		},
-		Summary = "Elimina a 20 coyotes."
+		Summary = "Derrotar 20 Coyotes"
 	},
 	[12395] = {
-		Title = "Exterminar los monstruos Arclouze de pantano",
+		Title = "Eliminación de Arclouse del pantano",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Elimina a 10 monstruos ^ff0000Arclouze de pantano^000000. Se encuentran en el sótano de Cresta Rocosa."
+			"Debes derrotar a 10 <NAVI>[Arclouse del pantano]<INFO>RR_ARCLOUSE,0,0,3,-222,1</INFO></NAVI>. Los Arclouse del pantano habitan en la aldea subterránea de Rock Ridge.",
+			"Después de derrotarlos, repórtate con la <NAVI>[Patrulla de Acero]<INFO>harboro1,357,155,0,101,0</INFO></NAVI> para recibir tu recompensa."
 		},
-		Summary = "Elimina a 10 monstruos Arclouze de pantano."
+		Summary = "Derrotar 10 Arclouse del pantano"
 	},
 	[12396] = {
-		Title = "Exterminar a los monstruos Rata parda",
+		Title = "Eliminación de ratas",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Elimina a 10 monstruos ^ff0000Rata parda^000000. Se encuentran en el sótano de Cresta Rocosa."
+			"Debes derrotar a 10 <NAVI>[Ratas]<INFO>RR_CRAMP,0,0,3,-222,1</INFO></NAVI>. Las Ratas habitan en la aldea subterránea de Rock Ridge.",
+			"Después de derrotarlos, repórtate con la <NAVI>[Patrulla de Acero]<INFO>harboro1,357,155,0,101,0</INFO></NAVI> para recibir tu recompensa."
 		},
-		Summary = "Elimina a 10 monstruos Rata parda."
+		Summary = "Derrotar 10 Ratas"
 	},
 	[12398] = {
-		Title = "Eres fenomenal",
+		Title = "Espera: Tienes buena habilidad.",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Completaste perfectamente una misión complicada. Ahora puedes descansa un poco."
+			"Completaste una misión bastante difícil sin problemas. Deberías descansar bien por un tiempo. Después de un tiempo, puedes visitar a la <NAVI>[Patrulla de Acero]<INFO>harboro1,357,152,0,101,0</INFO></NAVI> para recibir misiones."
 		},
-		Summary = "La misión se reinicia a las 4:00.",
+		Summary = "Reinicia a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[12399] = {
-		Title = "Cacería de criminales atroces",
+		Title = "Caza de criminales peligrosos",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Elimina a 10 ^ff0000rifleBandidos búfalo de rifle con ojos azules brillantes^000000."
+			"Debes derrotar a 10 <NAVI>[Socheok con rifle de ojos brillantes azules]<INFO>E_COWRAIDERS1,0,0,3,-222,1</INFO></NAVI>.",
+			"Después de derrotarlos, repórtate con la <NAVI>[Patrulla de Acero]<INFO>harboro1,357,152,0,101,0</INFO></NAVI> para recibir tu recompensa."
 		},
-		Summary = "Elimina a 10 Bandidos búfalo."
+		Summary = "Derrotar 10 Socheok de élite"
 	},
 	[12400] = {
-		Title = "Cacería de criminales atroces",
+		Title = "Caza de criminales peligrosos",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Elimina a 10 ^ff0000Bandidos búfalo con máscaras verdes^000000."
+			"Debes derrotar a 10 <NAVI>[Socheok con máscara verde]<INFO>E_COWRAIDERS2,0,0,3,-222,1</INFO></NAVI>.",
+			"Después de derrotarlos, repórtate con la <NAVI>[Patrulla de Acero]<INFO>harboro1,357,152,0,101,0</INFO></NAVI> para recibir tu recompensa."
 		},
-		Summary = "Elimina a 10 Bandidos búfalo."
+		Summary = "Derrotar 10 Socheok de élite"
 	},
 	[12401] = {
-		Title = "Cacería de criminales atroces",
+		Title = "Caza de Criminales Peligrosos",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Elimina a 10 ^ff0000Bandidos búfalo con un parche en el ojo y un chaleco verde claro^000000."
+			"Debes derrotar a 10 <NAVI>[Socheok con chaleco verde claro y parche]<INFO>E_COWRAIDERS3,0,0,3,-222,1</INFO></NAVI>.",
+			"Después de derrotarlos, repórtate con la <NAVI>[Patrulla de Acero]<INFO>harboro1,357,152,0,101,0</INFO></NAVI> para recibir tu recompensa."
 		},
-		Summary = "Elimina a 10 Bandidos búfalo."
+		Summary = "Derrotar 10  de Bandidos Búfalo Elite"
 	},
 	[12402] = {
-		Title = "Eliminar los gases peligrosos",
+		Title = "Eliminación de gas peligroso",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Elimina a 10 monstruos ^ff0000Gasters^000000."
+			"Debes derrotar a 10 <NAVI>[Gasters]<INFO>GASTER,0,0,3,-222,1</INFO></NAVI>.",
+			"Después de derrotarlos, repórtate con la <NAVI>[Patrulla de Acero]<INFO>harboro1,357,152,0,101,0</INFO></NAVI> para recibir tu recompensa."
 		},
-		Summary = "Elimina a 10 monstruos Gasters."
+		Summary = "Derrotar 10 Gasters"
 	},
 	[12403] = {
-		Title = "Obreros de Cresta Rocosa",
+		Title = "Trabajador de Rock Ridge",
 		Description = {
-			"Conviértete en el responsable del agua para la aldea pionera en el nuevo continente."
+			"Debes convertirte en el proveedor de agua del asentamiento del Nuevo Continente."
 		},
-		Summary = "Protege el agua en el nuevo continente."
+		Summary = "Protege el agua del Nuevo Continente"
 	},
 	[12404] = {
-		Title = "¿No te has cansado?",
+		Title = "Espera: ¿No es demasiado difícil?",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Hiciste el mantenimiento de todas las tuberías del sótano de Cresta Rocosa. El sistema de desalinización debe funcionar bien por un tiempo."
+			"Se revisaron todas las tuberías subterráneas de Rock Ridge. Por el momento, no debería haber problemas mayores con la planta de tratamiento de agua. Después del amanecer, visitemos al <NAVI>[Director de la planta de tratamiento]<INFO>harboro1,334,135,0,101,0</INFO></NAVI> para verificar si la instalación está bien."
 		},
-		Summary = "La misión se reinicia a las 4:00.",
+		Summary = "Reinicia a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[12405] = {
-		Title = "Mantenimiento de la tubería roja",
+		Title = "Mantenimiento de tubería roja",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Repara la tubería roja que gotea. Encuentra un punto rojo brillante en el sótano de Cresta Rocosa y haz clic en él para reparar la tubería."
+			"Debes reparar las fugas en la tubería roja. Encuentra un lugar que brille en rojo en el <NAVI>[Subsuelo de Rock Ridge]<INFO>harboro2,329,187,0,101,0</INFO></NAVI> y haz clic para repararlo."
 		},
-		Summary = "Encuentra un punto rojo brillante en el sótano de Cresta Rocosa."
+		Summary = "Encuentra un lugar que brilla en rojo en el subsuelo de Rock Ridge."
 	},
 	[12406] = {
-		Title = "Mantenimiento de la tubería azul",
+		Title = "Mantenimiento de tubería azul",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Repara la tubería azul que gotea. Encuentra un punto azul brillante en el sótano de Cresta Rocosa y haz clic en él para reparar la tubería."
+			"Debes reparar las fugas en la tubería azul. Encuentra un lugar que brille en azul en el <NAVI>[Subsuelo de Rock Ridge]<INFO>harboro2,329,187,0,101,0</INFO></NAVI> y haz clic para repararlo."
 		},
-		Summary = "Encuentra un punto azul brillante en el sótano de Cresta Rocosa."
+		Summary = "Encuentra un lugar que brilla en azul en el subsuelo de Rock Ridge."
 	},
 	[12407] = {
-		Title = "Mantenimiento de la tubería amarilla",
+		Title = "Mantenimiento de tubería amarilla",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Repara la tubería amarilla que gotea. Encuentra un punto amarillo brillante en el sótano de Cresta Rocosa y haz clic en él para reparar la tubería."
+			"Debes reparar las fugas en la tubería amarilla. Encuentra un lugar que brille en amarillo en el <NAVI>[Subsuelo de Rock Ridge]<INFO>harboro2,329,187,0,101,0</INFO></NAVI> y haz clic para repararlo."
 		},
-		Summary = "Encuentra un punto amarillo brillante en el sótano de Cresta Rocosa."
+		Summary = "Encuentra un lugar que brilla en amarillo en el subsuelo de Rock Ridge."
 	},
 	[12408] = {
-		Title = "Mantenimiento de la tubería blanca",
+		Title = "Mantenimiento de tubería blanca",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Repara la tubería blanca que gotea. Encuentra un punto blanco brillante en el sótano de Cresta Rocosa y haz clic en él para reparar la tubería."
+			"Debes reparar las fugas en la tubería blanca. Encuentra un lugar que brille en blanco en el <NAVI>[Subsuelo de Rock Ridge]<INFO>harboro2,329,187,0,101,0</INFO></NAVI> y haz clic para repararlo."
 		},
-		Summary = "Encuentra un punto blanco brillante en el sótano de Cresta Rocosa."
+		Summary = "Encuentra un lugar que brilla en blanco en el subsuelo de Rock Ridge."
 	},
 	[12409] = {
-		Title = "Mantenimiento de las tuberías",
+		Title = "Mantenimiento de tuberías completado",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Le realizaste el mantenimiento a todas las tuberías. Ahora regresa al primer piso y habla con el administrador de las instalaciones de desalinización."
+			"Completaste todo el mantenimiento de tuberías. Regresa a la superficie y habla con el <NAVI>[Director de la planta de tratamiento]<INFO>harboro1,334,135,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Regresa al primer piso."
+		Summary = "Regresar a la superficie"
 	},
 	[12410] = {
-		Title = "Contrato con el comerciante rico",
+		Title = "Contrato con el comerciante",
 		Description = {
-			"Aceptaste un contrato con el comerciante rico."
+			"Contrato con el comerciante completado."
 		},
-		Summary = "Aceptaste un contrato con el comerciante rico."
+		Summary = "Contrato con el comerciante completado"
 	},
 	[12411] = {
-		Title = "Regresa mañana",
+		Title = "Espera: Negociemos de nuevo mañana",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Ya terminó sus negocios contigo por el día de hoy. Regresa mañana."
+			"Parece que hoy no aceptará más tratos. Mañana visitemos de nuevo al <NAVI>[Comerciante extranjero]<INFO>harboro1,231,254,0,101,0</INFO></NAVI>."
 		},
-		Summary = "La misión se reinicia a las 4:00.",
+		Summary = "Reinicia a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[12412] = {
@@ -35407,324 +35910,313 @@ QuestInfoList = {
 		}
 	},
 	[12470] = {
-		Title = "[Diario] La venganza de Andrea 1",
+		Title = "[Diario] La venganza de Andrea I",
 		Description = {
-			"Andrea is mortally wounded by a scythe wielded by a small creature. He wants you to punish upon this small creature that caused his death.",
+			"Andrea murió por la guadaña de una pequeña criatura. Quiere que castigues a esta pequeña criatura que causó su muerte.",
 			"",
-			"^ff0000\"Don't be fooled by its cute appearance. It's worse than the devil.\"^000000",
+			"^ff0000\"No te dejes engañar por su adorable apariencia.\"^000000",
 			"",
-			"I guess I'll have to check to see if it's really cute though.",
-			""
+			"Creo que tendré que comprobar si es realmente adorable."
 		},
-		Summary = "Derrota al Baphomet Jr. caótico.",
-		RewardEXP = "1 750 000",
-		RewardJEXP = "1 137 500",
+		Summary = "Derrota al Baphomet Jr. Caótico",
+		RewardEXP = "1750000",
+		RewardJEXP = "1137500",
 		RewardItemList = {
 			{ItemID = 25271, ItemNum = 1}
 		}
 	},
 	[12471] = {
-		Title = "[Diario] La venganza de Andrea 2",
+		Title = "[Diario] La venganza de Andrea II",
 		Description = {
-			"After suffering a fatal injury, Andrea tried to heal with his own spiritual power, but he was overpowered by this chaotic entities.",
+			"Después de sufrir una herida fatal, Andrea intentó curarse con su propio poder espiritual, pero fue superado por estas entidades caóticas.",
 			"",
-			"^ff0000\"It's probably the soul of an adventurer who died long before me. What else?\"^000000",
+			"^ff0000\"Probablemente sea el alma de un aventurero que murió mucho antes que yo. ¿Qué más?\"^000000",
 			"",
-			"It is unknown whether Andrea was such a hot blooded acolyte even when he was alive.",
-			""
+			"Se desconoce si Andrea era un acólito tan temperamental incluso cuando estaba vivo."
 		},
-		Summary = "Derrota al Ghostring caótico.",
-		RewardEXP = "1 750 000",
-		RewardJEXP = "1 137 500",
+		Summary = "Derrota al Ghostring Caótico",
+		RewardEXP = "1750000",
+		RewardJEXP = "1137500",
 		RewardItemList = {
 			{ItemID = 25271, ItemNum = 1}
 		}
 	},
 	[12472] = {
-		Title = "[Diario] La venganza de Anes 1",
+		Title = "[Diario] La venganza de Anes I",
 		Description = {
-			"This fast and vicious insect dealt a decisive blow to Anes. She believes that all winged insects should be eradicated from the world.",
+			"Este insecto rápido y cruel le dio un golpe decisivo a Anes. Ella cree que todos los insectos alados deberían ser erradicados del mundo.",
 			"",
-			"^ff0099\"Don't let down your guard just because it looks like a fly. Because their prey includes 'living' people...\"^000000",
+			"^ff0099\"No bajes la guardia solo porque parece una mosca. Su presa también incluye personas vivas...\"^000000",
 			"",
-			"It seems that there are no good memories between her and this insect.",
+			"Parece que no hay buenos recuerdos entre ella y este insecto.",
 			""
 		},
-		Summary = "Derrota a la Mosca cazadora caótica.",
-		RewardEXP = "1 750 000",
-		RewardJEXP = "1 137 500",
+		Summary = "Derrota a la Mosca Cazadora Caótica",
+		RewardEXP = "1750000",
+		RewardJEXP = "1137500",
 		RewardItemList = {
 			{ItemID = 25271, ItemNum = 1}
 		}
 	},
 	[12473] = {
-		Title = "[Diario] La venganza de Anes 2",
+		Title = "[Diario] La venganza de Anes II",
 		Description = {
-			"As she lost her way, she was attacked by this cruel predator that jumped out of the bushes.",
-			"Unfortunately, it happened just as she was about to take a bite of the sandwich she had made since dawn for her expedition.",
+			"Anes estaba almorzando cuando fue asesinada por ese monstruo que apareció escondido detrás de un arbusto.",
 			"",
-			"^ff0099\"When you find that damn thing, take off all its legs and throw it in the mud.\"^000000",
+			"^ff0099\"Cuando encuentres a esa maldita cosa, arráncale todas las patas y tírala al lodo.\"^000000",
 			"",
 			"",
-			"If anyone disturbs her meal time, it will be a big problem.",
+			"Si alguien interrumpe su hora de comida, será un gran problema.",
 			""
 		},
-		Summary = "Derrota a la Mantis asesina caótica.",
-		RewardEXP = "1 750 000",
-		RewardJEXP = "1 137 500",
+		Summary = "Derrota a la Mantis Asesina Caótica",
+		RewardEXP = "1750000",
+		RewardJEXP = "1137500",
 		RewardItemList = {
 			{ItemID = 25271, ItemNum = 1}
 		}
 	},
 	[12474] = {
-		Title = "[Diario] La venganza de Silvano 1",
+		Title = "[Diario] La venganza de Silvano I",
 		Description = {
-			"Silvano clearly remembers who attacked him and left him in a near-death state.",
-			"The enemy in his memory looked similar to the monster that attacked Anes, but it clearly had different characteristics.",
+			"Silvano no recuerda muy bien cómo murió, pero sabe que fue un monstruo igual al de su hermana Anes.",
 			"",
-			"^ff0077\"What did Agnes want? Right, exterminate them all.\"^000000",
+			"^ff0077\"Quiero que ese monstruo se extinga\"^000000",
 			""
 		},
-		Summary = "Derrota a la Mantis caótica.",
-		RewardEXP = "1 750 000",
-		RewardJEXP = "1 137 500",
+		Summary = "Derrota a la Mantis Caótica",
+		RewardEXP = "1750000",
+		RewardJEXP = "1137500",
 		RewardItemList = {
 			{ItemID = 25781, ItemNum = 1}
 		}
 	},
 	[12475] = {
-		Title = "[Diario] La venganza de Silvano 2",
+		Title = "[Diario] La venganza de Silvano II",
 		Description = {
-			"Silvano, who was in a near-death state, did not even have time to chant a recovery spell, so he tried to use potions.",
-			"But all the potions in his inventory had been swallowed by this mushy monster.",
+			"Silvano, que estaba al borde de la muerte cuando intentó beber algunas pociones.",
+			"Sin embargo, se dio cuenta de que habían sido robadas.",
 			"",
-			"^ff0077\"I just hope that no other adventurer suffers the same fate.\"^000000",
+			"^ff0077\"Solo espero que ningún otro aventurero sufra el mismo destino.\"^000000",
 			"",
-			"It will be up to the next adventurer to grant his small wish.",
+			"Vamos a vengarnos de los monstruos que se comieron las pociones.",
 			""
 		},
-		Summary = "Derrota al Poporing caótico.",
-		RewardEXP = "1 750 000",
-		RewardJEXP = "1 137 500",
+		Summary = "Derrota al Poporing Caótico",
+		RewardEXP = "1750000",
+		RewardJEXP = "1137500",
 		RewardItemList = {
 			{ItemID = 25782, ItemNum = 1}
 		}
 	},
 	[12476] = {
-		Title = "[Diario] La venganza de Cecilia 1",
+		Title = "[Diario] La venganza de Cecilia I",
 		Description = {
-			"^0000ff\"Watch out for that snake, it's much fiercer than it looks. The moment you look away, it will attack.\"^000000",
+			"^0000ff\"Cuidado con esa serpiente, es mucho más feroz de lo que parece.\"^000000",
 			"",
-			"Cecilia was momentarily exhausted and was bitten by this monster where she was sitting.",
-			"She became unable to move due to the paralyzing poison that quickly spread through her body.",
+			"Cecilia fue mordida por una serpiente mientras descansaba. Su cuerpo se paralizó rápidamente debido al veneno.",
 			"",
-			"^0000ff\"If you want to take a break in the labyrinth, I won't stop you. But if I were alive, I would avoid that...\"^000000",
+			"^0000ff\"Si decides descansar en el laberinto, ten precaución...\"^000000",
 			""
 		},
-		Summary = "Derrota al Crótalo caótico.",
-		RewardEXP = "1 750 000",
-		RewardJEXP = "1 137 500",
+		Summary = "Derrota al Crótalo Caótico",
+		RewardEXP = "1750000",
+		RewardJEXP = "1137500",
 		RewardItemList = {
 			{ItemID = 25783, ItemNum = 1}
 		}
 	},
 	[12477] = {
-		Title = "[Diario] La venganza de Cecilia 2",
+		Title = "[Diario] La venganza de Cecilia II",
 		Description = {
-			"She was in a situation where she couldn't move due to paralyzing poison, and she suffered a wound from this spiky monster.",
+			"Mientras Cecilia agonizaba por el veneno, fue atacada por este monstruo lleno de púas.",
 			"",
-			"^0000ff\"Do you know the feeling of not being able to move due to paralyze? It's all because of that damn skewered monster!!\"^000000",
+			"^0000ff\"¡Fue horrible ser atravesada por este monstruo mientras mi cuerpo estaba paralizado!\"^000000",
 			"",
-			"Her anger is understandable.",
+			"Su enojo es comprensible.",
 			""
 		},
-		Summary = "Derrota al Gusano de tallo caótico.",
-		RewardEXP = "1 750 000",
-		RewardJEXP = "1 137 500",
+		Summary = "Derrota al Gusano de Tallo Caótico",
+		RewardEXP = "1750000",
+		RewardJEXP = "1137500",
 		RewardItemList = {
 			{ItemID = 25784, ItemNum = 1}
 		}
 	},
 	[12478] = {
-		Title = "[Semanal] Purificación del alma: Andrea",
+		Title = "[Semanal] Purificación del Alma",
 		Description = {
-			"This is a quest to exorcise one of the four acolytes wandering the labyrinth.",
-			"These thoughts are born from the condensation of acolytes' resentment and hatred during their end.",
+			"Esta solicitud es para purificar una de las cuatro almas de los acólitos reclutas del laberinto. Este proceso podría facilitar su resurrección.",
 			"",
-			"^ff0000This mission can only be performed once a week.^000000",
+			"^ff0000* Esta misión solo puede realizarse 1 vez por semana.^000000",
 			"",
-			"^ff00ccPurification targets may change every week.^000000",
+			"^ff00ccEl objetivo puede cambiar semanalmente.^000000",
 			""
 		},
-		Summary = "Derrota a Andrea caótico.",
-		RewardEXP = "2 500 000",
-		RewardJEXP = "1 625 000",
+		Summary = "Derrota a Andrea Caótico",
+		RewardEXP = "2500000",
+		RewardJEXP = "1625000",
 		RewardItemList = {
 			{ItemID = 25781, ItemNum = 3}
 		}
 	},
 	[12479] = {
-		Title = "[Semanal] Purificación del alma: Anes",
+		Title = "[Semanal] Purificación del Alma",
 		Description = {
-			"This is a quest to exorcise one of the four acolytes wandering the labyrinth.",
-			"These thoughts are born from the condensation of acolytes' resentment and hatred during their end.",
+			"Esta solicitud es para purificar una de las cuatro almas de los acólitos reclutas del laberinto. Este proceso podría facilitar su resurrección.",
 			"",
-			"^ff0000This mission can only be performed once a week.^000000",
+			"^ff0000* Esta misión solo puede realizarse 1 vez por semana.^000000",
 			"",
-			"^ff00ccPurification targets may change every week.^000000",
+			"^ff00ccEl objetivo puede cambiar semanalmente.^000000",
 			""
 		},
-		Summary = "Derrota a Anes caótica.",
-		RewardEXP = "2 500 000",
-		RewardJEXP = "1 625 000",
+		Summary = "Derrota a Anes Caótica",
+		RewardEXP = "2500000",
+		RewardJEXP = "1625000",
 		RewardItemList = {
 			{ItemID = 25782, ItemNum = 3}
 		}
 	},
 	[12480] = {
-		Title = "[Semanal] Purificación del alma: Silvano",
+		Title = "[Semanal] Purificación del Alma",
 		Description = {
-			"This is a quest to exorcise one of the four acolytes wandering the labyrinth.",
-			"These thoughts are born from the condensation of acolytes' resentment and hatred during their end.",
+			"Esta solicitud es para purificar una de las cuatro almas de los acólitos reclutas del laberinto. Este proceso podría facilitar su resurrección.",
 			"",
-			"^ff0000This mission can only be performed once a week.^000000",
+			"^ff0000* Esta misión solo puede realizarse 1 vez por semana.^000000",
 			"",
-			"^ff00ccPurification targets may change every week.^000000",
+			"^ff00ccEl objetivo puede cambiar semanalmente.^000000",
 			""
 		},
-		Summary = "Derrota a Silvano caótico.",
-		RewardEXP = "2 500 000",
-		RewardJEXP = "1 625 000",
+		Summary = "Derrota a Silvano Caótica",
+		RewardEXP = "2500000",
+		RewardJEXP = "1625000",
 		RewardItemList = {
 			{ItemID = 25783, ItemNum = 3}
 		}
 	},
 	[12481] = {
-		Title = "[Semanal] Purificación del alma: Cecilia",
+		Title = "[Semanal] Purificación del Alma",
 		Description = {
-			"This is a quest to exorcise one of the four acolytes wandering the labyrinth.",
-			"These thoughts are born from the condensation of acolytes' resentment and hatred during their end.",
+			"Esta solicitud es para purificar una de las cuatro almas de los acólitos reclutas del laberinto. Este proceso podría facilitar su resurrección.",
 			"",
-			"^ff0000This mission can only be performed once a week.^000000",
+			"^ff0000* Esta misión solo puede realizarse 1 vez por semana.^000000",
 			"",
-			"^ff00ccPurification targets may change every week.^000000",
+			"^ff00ccEl objetivo puede cambiar semanalmente.^000000",
 			""
 		},
-		Summary = "Derrota a Cecilia caótica.",
-		RewardEXP = "2 500 000",
-		RewardJEXP = "1 625 000",
+		Summary = "Derrota a Cecilia Caótica",
+		RewardEXP = "2500000",
+		RewardJEXP = "1625000",
 		RewardItemList = {
 			{ItemID = 25784, ItemNum = 3}
 		}
 	},
 	[12482] = {
-		Title = "Desaparición de un colega",
+		Title = "Desaparición de un Colega",
 		Description = {
-			"Talk to <NAVI>Esmeralda<INFO>prontera.gat,213,321,0,101,0</INFO></NAVI> around Prontera Cathedral.",
+			"Habla con <NAVI>Esmeralda<INFO>prontera.gat,213,321,0,101,0</INFO></NAVI> alrededor de la Catedral de Prontera.",
 			"",
-			"At Irene's request, you must inform Esmeralda, the guild leader about the situation of missing guild members.",
+			"A petición de Irene, debes informarle a Esmeralda, la líder del gremio, sobre la situación de los miembros desaparecidos.",
 			""
 		},
-		Summary = "Habla con Esmeralda sobre la situación."
+		Summary = "Habla con Esmeralda"
 	},
 	[12483] = {
-		Title = "Seguimiento",
+		Title = "Ilusión del Laberinto",
 		Description = {
-			"Talk to <NAVI>Esmeralda<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.",
+			"Encuentra a <NAVI>Esmeralda<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> en el laberinto.",
 			"",
-			"I relayed the news to the Priest guild leader, but I'm curious about the next action.",
-			"Let's follow Esmeralda into the labyrinth and see what happened next.",
+			"Dirígete al laberinto del bosque y habla con la líder del gremio de los acólitos de la Catedral de Prontera.",
 			""
 		},
-		Summary = "Habla con Esmeralda dentro del laberinto."
+		Summary = "Ve hasta Esmeralda"
 	},
 	[12484] = {
-		Title = "En busca del rastro: Andrea",
+		Title = "En Busca del Rastro: Andrea",
 		Description = {
-			"You must find traces of Andrea who entered the Illusion of Labyrinth.",
+			"Debes encontrar rastros de Andrea, quien entró en la Ilusión del Laberinto.",
 			"",
-			"^0000ffThere is an information to compare physical characteristics. If I find remains, let's approach and compare them.^000000",
+			"^0000ffHay información para comparar características físicas. Si encuentro restos, acerquémonos y comparémoslos.^000000",
 			""
 		},
-		Summary = "Busca a Andrea."
+		Summary = "Busca a Andrea"
 	},
 	[12485] = {
-		Title = "En busca del rastro: Anes",
+		Title = "En Busca del Rastro: Anes",
 		Description = {
-			"You must find traces of Anes who entered the Illusion of Labyrinth.",
+			"Debes encontrar rastros de Anes, quien entró en la Ilusión del Laberinto.",
 			"",
-			"^0000ffThere is an information to compare physical characteristics. If I find remains, let's approach and compare them.^000000",
+			"^0000ffHay información para comparar características físicas. Si encuentro restos, acerquémonos y comparémoslos.^000000",
 			""
 		},
-		Summary = "Busca a Anes."
+		Summary = "Busca a Anes"
 	},
 	[12486] = {
-		Title = "En busca del rastro: Silvano",
+		Title = "En Busca del Rastro: Silvano",
 		Description = {
-			"You must find traces of Silvano who entered the Illusion of Labyrinth.",
+			"Debes encontrar rastros de Silvano, quien entró en la Ilusión del Laberinto.",
 			"",
-			"^0000ffThere is an information to compare physical characteristics. If I find remains, let's approach and compare them.^000000",
+			"^0000ffHay información para comparar características físicas. Si encuentro restos, acerquémonos y comparémoslos.^000000",
 			""
 		},
-		Summary = "Busca a Silvano."
+		Summary = "Busca a Silvano"
 	},
 	[12487] = {
-		Title = "En busca del rastro: Cecilia",
+		Title = "En Busca del Rastro: Cecilia",
 		Description = {
-			"You must find traces of Cecilia who entered the Illusion of Labyrinth.",
+			"Debes encontrar rastros de Cecilia, quien entró en la Ilusión del Laberinto.",
 			"",
-			"^0000ffThere is an information to compare physical characteristics. If I find remains, let's approach and compare them.^000000",
+			"^0000ffHay información para comparar características físicas. Si encuentro restos, acerquémonos y comparémoslos.^000000",
 			""
 		},
-		Summary = "Busca a Cecilia."
+		Summary = "Busca a Cecilia"
 	},
 	[12488] = {
-		Title = "Resultado de búsqueda",
+		Title = "Resultado de Búsqueda",
 		Description = {
-			"Talk to <NAVI>Esmeralda<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.",
+			"Habla con <NAVI>[Esmeralda]<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> en el laberinto.",
 			"",
-			"We have found all traces of the four missing acolytes. Let's meet Esmeralda and gives her the search result.",
-			""
+			"Has encontrado todos los rastros de los cuatro acólitos desaparecidos. Encontrémonos con Esmeralda y entrégale el resultado de la búsqueda."
 		},
-		Summary = "Informa a Esmeralda lo que encontraste."
+		Summary = "Informa a Esmeralda"
 	},
 	[12489] = {
-		Title = "Miembro temporal del gremio",
+		Title = "Miembro Temporal del Gremio",
 		Description = {
-			"Talk to <NAVI>Esmeralda<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.",
+			"Habla con <NAVI>[Esmeralda]<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> en el laberinto.",
 			"",
-			"Lets meet the acolytes who have been revived as souls and work as guest guild members.",
+			"Reunámonos con los acólitos que han sido revividos como almas y trabaja como miembro temporal del gremio.",
 			""
 		},
-		Summary = "Únete como miembro temporal del gremio."
+		Summary = "Únete como Miembro Temporal"
 	},
 	[12490] = {
-		Title = "[Tiempo de espera] Misión diaria",
+		Title = "[Espera] Misión Diaria",
 		Description = {
-			"Talk to <NAVI>Priest Guild Member<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.",
+			"Habla con los <NAVI>[Acólitos]<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> en el laberinto.",
 			"",
-			"As the guest member of Prontera Priest guild, I have received all daily quests. These missions can be accepted ^ff0000every day at 4 AM^000000 and cannot be received multiple times.",
+			"Como completaste todas las misiones, ^ff0000pueden repetirse^000000 después de un cierto período..",
 			""
 		},
-		Summary = "Se reinicia a las 4:00 del día siguiente."
+		Summary = "Se Reinicia a las 4:00."
 	},
 	[12491] = {
-		Title = "[Tiempo de espera] Misión semanal",
+		Title = "[Espera] Misión Semanal",
 		Description = {
-			"Talk to <NAVI>Priest Guild Member<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.",
+			"Habla con los <NAVI>[Acólitos]<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> en el laberinto.",
 			"",
-			"As the guest member of Prontera Priest guild, I have received the weekly quest. This mission can be accepted ^ff0000every Saturday at 4 AM^000000 and cannot be received multiple times.",
+			"Como completaste la misión semanal, ^ff0000puede repetirse^000000 el sábado.",
 			""
 		},
-		Summary = "Se reinicia todos los sábados a las 4:00."
+		Summary = "Se Reinicia los Sábados a las 4:00"
 	},
 	[12492] = {
-		Title = "Esmeralda",
+		Title = "Ilusión del Laberinto",
 		Description = {
-			"Talk to Esmeralda to find out her story.",
+			"Habla con Esmeralda para conocer su historia.",
 			""
 		},
-		Summary = "Habla con Esmeralda."
+		Summary = "Fin de la conversación"
 	},
 	[12493] = {
 		Title = "Secuela del desafío",
@@ -40114,18 +40606,22 @@ QuestInfoList = {
 		Summary = "Recoger Sangre Pegajosa y Savia de Hongo"
 	},
 	[14672] = {
-		Title = "Preparativos para el Festival de Fuegos Artificiales",
+		Title = "Preparativos Para el Festival de Pólvora",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Los Gaster sueltan un Polvo venenoso mortal y un Polvo explosivo. Tráeme 10 unidades de Polvo venenoso mortal y 1 unidades de Polvo explosivo. Ah, y no te olvides de cazar 15 Gaster."
+			"¿Sabes que cuando cazas Gasters, dan Polvo venenoso y Polvo explosivo? Solo tráeme 10 <ITEM>[Polvo Venenoso]<INFO>25277</INFO></ITEM> y 1 <ITEM>[Polvo Explosivo]<INFO>6213</INFO></ITEM>. ¡Oye! ¡Y no olvides reducir su número cazando <NAVI>[Gasters]<INFO>GASTER,0,0,3,-222,1</INFO></NAVI>! Con 15 está bien.",
+			"-<NAVI>[Demon]<INFO>harboro2,164,80,0,101,0</INFO></NAVI>"
 		},
-		Summary = "10 unidades de Polvo venenoso mortal y 1 de Polvo explosivo."
+		Summary = "10 Polvo Venenoso, 1 Polvo Explosivo"
 	},
 	[14673] = {
-		Title = "Hora de hacer bombas",
+		Title = "Espera: Tiempo para hacer bombas",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Trajiste suficientes ingredientes para fabricar bombas toda la noche. Regresa mañana temprano por la mañana. Es el mejor momento para hacer las cosas. - Demonio."
+			"Trabajaré toda la noche con lo que trajiste. Descansa bien, novato, y regresa después del amanecer. Es un buen momento para moverse.",
+			"-<NAVI>[Demon]<INFO>harboro2,164,80,0,101,0</INFO></NAVI>"
 		},
-		Summary = "La misión se reinicia a las 4:00.",
+		Summary = "Reinicia a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[14674] = {
@@ -40443,93 +40939,110 @@ QuestInfoList = {
 		Summary = "Place Holder"
 	},
 	[14849] = {
-		Title = "Elaboración de un Ramo de flores de nieve",
+		Title = "Creación del Ramo de Flores de Nieve ",
 		Description = {
-			"¿Quieres hacer un Ramo de flores de nieve? Entonces, recolecta 10 Flores mágicas de nieve y regresa."
+			"¿Quieres hacer un Ramo de flores de nieve?",
+			"Entonces, recolecta 10 Flores mágicas de nieve y regresa."
 		},
 		Summary = "10 Flores mágicas de nieve."
 	},
 	[14850] = {
-		Title = "Elaboración de un Ramo de flores de nieve",
+		Title = "Creación del Ramo de Flores de Nieve ",
 		Description = {
 			"Encuentra al ilusionista de la Flor de nieve. Si te interesa, busca el lugar."
 		},
 		Summary = "Con el ilusionista de la Flor de nieve."
 	},
 	[14851] = {
-		Title = "Para sobrellevar el frío invierno",
+		Title = "Para Superar el Caluroso Invierno",
 		Description = {
-			"¡Nieve para la región donde no cae y ropa de algodón para las regiones frías! Si quieres sobrellevar el invierno, busca a Coti y a Ulsi."
+			"¡Nieve para la región donde no cae y ropa de algodón para las regiones frías!",
+			"Si quieres sobrellevar el invierno, busca a Koti y a Ulsi."
 		},
 		Summary = "Con Coti."
 	},
 	[14852] = {
 		Title = "Canje de la carta del Festival",
 		Description = {
-			"¿Encontraste una carta especial en tu Caja de regalo? Entonces, llévasela a Twinkle. Recibirás un regalo especial."
+			"¿Encontraste una carta especial en tu Caja de regalo?",
+			"Entonces, llévasela a Twinkle.",
+			"Recibirás un regalo especial."
 		},
 		Summary = "Con Twinkle."
 	},
 	[14853] = {
-		Title = "Elaboración de un Ramo de flores de nieve",
+		Title = "Hacer un Ramo de Flores de Nieve",
 		Description = {
-			"Para hacer un Ramo de flores de nieve, necesitas 10 Flores mágicas de nieve. Y no te olvides de traer 1 Zanahoria para decorar al hombre de nieve. - Marine"
+			"Para hacer un Ramo de flores de nieve, necesitas 10 Flores mágicas de nieve.",
+			"Y no te olvides de traer 1 Zanahoria para decorar al hombre de nieve. - Marine"
 		},
 		Summary = "10 Flores de nieve, 1 Zanahoria."
 	},
 	[14854] = {
 		Title = "La sensación de frío persiste",
 		Description = {
-			"El efecto de las Flores mágicas de nieve continúa. Regresa después del amanecer. - Marine."
+			"El efecto de las Flores mágicas de nieve continúa.",
+			"Regresa después del amanecer. - Marine."
 		},
 		Summary = "En espera."
 	},
 	[14855] = {
 		Title = "Sobrellevar el invierno",
 		Description = {
-			"¡Nieve para los niños! ¡Ropa de Algodón cálido para los niños en la región fría! Dona 10 unidades de Algodón cálido."
+			"¡Nieve para los niños!",
+			"¡Ropa de Algodón cálido para los niños en la región fría! Dona 10 unidades de Algodón cálido."
 		},
 		Summary = "10 unidades de Algodón cálido."
 	},
 	[14856] = {
 		Title = "Están envolviendo el algodón",
 		Description = {
-			"Están envolviendo el algodón. Parece que terminarán de envolverlo al amanecer, así que vuelve luego. - Coti"
+			"Están envolviendo el algodón.",
+			"Parece que terminarán de envolverlo al amanecer, así que vuelve luego. - Coti"
 		},
 		Summary = "En espera."
 	},
 	[14857] = {
 		Title = "Canje de la carta del Festival",
 		Description = {
-			"¡¡Tu palabra de la suerte NEVADO!! Abre el sobre de la Flor de nieve de tu Caja de regalo. En el sobre, puedes encontrar estas letras: N. E. V. A. D. O. 6 letras en total. - Twinkle"
+			"¡¡Tu palabra de la suerte NEVADO!!",
+			"Abre el sobre de la Flor de nieve de tu Caja de regalo.",
+			"En el sobre, puedes encontrar estas letras: N. E. V. A. D. O. 6 letras en total. - Twinkle"
 		},
 		Summary = "Recolecta la Carta NEVADO."
 	},
 	[14858] = {
 		Title = "Canje de la carta del Festival",
 		Description = {
-			"¡¡Tu palabra de la suerte es FRÍO!! Abre el sobre de la Flor de nieve de tu Caja de regalo. En el sobre, puedes encontrar estas letras: F. R. Í. O. 4 letras en total. - Twinkle."
+			"¡¡Tu palabra de la suerte es FRÍO!!",
+			"Abre el sobre de la Flor de nieve de tu Caja de regalo.",
+			"En el sobre, puedes encontrar estas letras: F. R. Í. O. 4 letras en total. - Twinkle."
 		},
 		Summary = "Recolecta la Carta FRÍO."
 	},
 	[14859] = {
 		Title = "Canje de la carta del Festival",
 		Description = {
-			"¡¡Tu palabra de la suerte es FESTIVAL!! Abre el sobre de la Flor de nieve de tu Caja de regalo. En el sobre, puedes encontrar estas letras: F. E. S. T. I. V. A. L. 8 letras en total. - Twinkle."
+			"¡¡Tu palabra de la suerte es FESTIVAL!!",
+			"Abre el sobre de la Flor de nieve de tu Caja de regalo.",
+			"En el sobre, puedes encontrar estas letras: F. E. S. T. I. V. A. L. 8 letras en total. - Twinkle."
 		},
 		Summary = "Recolecta la Carta FESTIVAL."
 	},
 	[14860] = {
 		Title = "Canje de la carta del Festival",
 		Description = {
-			"¡¡Tu palabra de la suerte es FLORES!! Abre el sobre de la Flor de nieve de tu Caja de regalo. En el sobre, puedes encontrar estas letras: F. L. O. R. E. S. 6 letras en total. - Twinkle."
+			"¡¡Tu palabra de la suerte es FLORES!!",
+			"Abre el sobre de la Flor de nieve de tu Caja de regalo.",
+			"En el sobre, puedes encontrar estas letras: F. L. O. R. E. S. 6 letras en total. - Twinkle."
 		},
 		Summary = "Recolecta la Carta FLORES."
 	},
 	[14861] = {
 		Title = "El canje de cartas se hace una vez al día",
 		Description = {
-			"El canje de cartas del alfabeto se hace una vez al día. ¿Está bien? Así que regresa después del amanecer. - Twinkle."
+			"El canje de cartas del alfabeto se hace una vez al día.",
+			"¿Está bien? Así que regresa después del amanecer. - Twinkle."
 		},
 		Summary = "En espera."
 	},
@@ -41670,74 +42183,104 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[16078] = {
-		Title = "Visita a Dama del infierno",
+		Title = "Paz familiar",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Kirkena dice que Dama del infierno quiere verte por alguna razón…"
+			"El Sr. <NAVI>[Cacteron]<INFO>rockrdg1,341,133,0,101,0</INFO></NAVI> pidió encontrar 5 <ITEM>[Paquetes de mezcla de jugo]<INFO>25246</INFO></ITEM> perdidos en el yermo para su hijo. También cazaremos 30 <NAVI>[Coyotes]<INFO>COYOTE,0,0,3,-222,1</INFO></NAVI> para que la gente del pueblo no sufra daños."
 		},
-		Summary = ""
+		Summary = "Obtener 5 Paquetes de mezcla de jugo, Cazar Coyotes"
 	},
 	[16079] = {
-		Title = "La señal",
+		Title = "Espera: Caza de Coyotes de nuevo mañana",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Recibiste el premio “La señal”, un símbolo que mostrará a todos que eres un gran guerrero y cuya valentía fue puesta a prueba por los mismos dioses. ¿A quién se lo muestro primero?"
+			"Esta misión es una misión diaria. Cuando expire el tiempo de espera, puedes aceptarla y realizarla nuevamente. Puedes aceptar la misión a través del Sr. <NAVI>[Cacteron]<INFO>rockrdg1,341,133,0,101,0</INFO></NAVI> en el Desierto de Kiwawa."
 		},
-		Summary = ""
+		Summary = "Reinicia a las 04:00",
+		CoolTimeQuest = 1
 	},
 	[16080] = {
-		Title = "El regreso del Lord oscuro",
+		Title = "Caza de Coyotes de nuevo",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"No lograste evitar que Serin invoque a Lord oscuro. Será mejor que le cuentes a Kirkena que fallaste en tu misión."
+			"Caza 30 <NAVI>[Coyotes]<INFO>COYOTE,0,0,3,-222,1</INFO></NAVI> para que la gente del pueblo no sufra daños y regresa con el Sr. <NAVI>[Cacteron]<INFO>rockrdg1,341,133,0,101,0</INFO></NAVI> para reportarte."
 		},
-		Summary = ""
+		Summary = "Cazar Coyotes"
 	},
 	[16081] = {
-		Title = "Las ambiciones de Serin",
-		Description = {
-			"Serin te dijo que Kirkena está tratando de invocar a Lord oscuro hacia Rune-Midgarts. Debes encontrar la manera de evitar que esto ocurra."
-		},
+		Title = "Fallo al obtener el Paquete de mezcla de jugo",
+		Description = {""},
 		Summary = ""
 	},
 	[16082] = {
-		Title = "El regreso del Lord oscuro",
-		Description = {
-			"Probablemente deberías decirle a Metz que fracasaste en tu misión."
-		},
-		Summary = "Metz en Prontera."
+		Title = "Montículo de arena sospechoso encontrado",
+		Description = {""},
+		Summary = ""
 	},
 	[16083] = {
-		Title = "La comprensión de Serin",
-		Description = {
-			"Pudiste detener los ambiciosos planes de Serin. Deberías contarle a la bruja Kirkena lo que te pasó en Niflheim."
-		},
-		Summary = "Kirkena."
+		Title = "Cactertón del yermo encontrado",
+		Description = {""},
+		Summary = ""
 	},
 	[16084] = {
-		Title = "La señal",
-		Description = {
-			"Metz dice que “La señal” se puede usar para entrar a Valhalla, pero que primero debes ver a Engel Howard, quien es la única persona en Rune-Midgarts que sabe cómo funciona."
-		},
-		Summary = "Engel Howard."
+		Title = "Montículo de arena sospechoso encontrado",
+		Description = {""},
+		Summary = ""
 	},
 	[16085] = {
-		Title = "La señal",
-		Description = {
-			"Engel Howard terminó de trabajar con “La señal”. Te dice que se siente honrado de haber tenido la oportunidad de trabajar con ella. Muéstrasela a Metz para que sepa que completaste tu trabajo."
-		},
-		Summary = "Metz."
+		Title = "Coyote encontrado",
+		Description = {""},
+		Summary = ""
 	},
 	[16086] = {
-		Title = "La señal",
-		Description = {
-			"Espera a que Metz termine de examinar “La señal”. Solo debería tomar un par de horas."
-		},
-		Summary = "Regresa a Metz cuando transcurra el tiempo de espera."
+		Title = "Montículo de arena sospechoso encontrado",
+		Description = {""},
+		Summary = ""
 	},
 	[16087] = {
-		Title = "La señal",
-		Description = {
-			"Espera a que Engel termine su trabajo con “La señal” y regresa después del tiempo señalado."
-		},
-		Summary = "Regresa con Engel cuando termine el tiempo de espera."
+		Title = "Chica Cacter encontrada",
+		Description = {""},
+		Summary = ""
+	},
+	[16088] = {
+		Title = "Coyote encontrado",
+		Description = {""},
+		Summary = ""
+	},
+	[16089] = {
+		Title = "Montículo de arena sospechoso encontrado",
+		Description = {""},
+		Summary = ""
+	},
+	[16090] = {
+		Title = "Montículo de arena sospechoso encontrado",
+		Description = {""},
+		Summary = ""
+	},
+	[16091] = {
+		Title = "Montículo de arena sospechoso encontrado",
+		Description = {""},
+		Summary = ""
+	},
+	[16092] = {
+		Title = "Montículo de arena sospechoso encontrado",
+		Description = {""},
+		Summary = ""
+	},
+	[16093] = {
+		Title = "Montículo de arena sospechoso encontrado",
+		Description = {""},
+		Summary = ""
+	},
+	[16094] = {
+		Title = "Montículo de arena sospechoso encontrado",
+		Description = {""},
+		Summary = ""
+	},
+	[16095] = {
+		Title = "Montículo de arena sospechoso encontrado",
+		Description = {""},
+		Summary = ""
 	},
 	[16096] = {
 		Title = "Ilusión de abismo (Isla de la tortuga)",
@@ -45579,28 +46122,28 @@ Talk to Kar=],
 		Summary = "Ve a la casa de té."
 	},
 	[17382] = {
-		Title = "Creación del Ramo de flores de nieve",
+		Title = "Creación de Muñeco de Nieve",
 		Description = {
-			"¿Quieres hacer un Ramo de flores de nieve? Entonces trae 10 <ITEM>Flores de nieve mágica<INFO>25425</INFO></ITEM> y vuelve <NAVI>[aquí]<INFO>aldebaran,174,164,0,101,0</INFO></NAVI>."
+			"¿Quieres hacer un muñeco de nieve? Entonces trae 10 <ITEM>Copo de Nieve<INFO>25425</INFO></ITEM> y vuelve <NAVI>[aquí]<INFO>aldebaran,174,164,0,101,0</INFO></NAVI>."
 		},
-		Summary = "10 Flores de nieve mágica."
+		Summary = "Copos de Nieve X 10"
 	},
 	[17383] = {
-		Title = "Creación del Ramo de flores de nieve",
+		Title = "Creación de Muñecos de Nieve",
 		Description = {
 			"En adelante, el <NAVI>[Mago de la nieve ilusoria]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI> se encargará del evento de creación de Ramos de nieve. Si te interesa, visítanos."
 		},
-		Summary = "Con el Mago de la nieve ilusoria."
+		Summary = "Al mago de la nieve ilusión"
 	},
 	[17384] = {
-		Title = "Días de invierno entrañables",
+		Title = "Días Cálidos de Invierno",
 		Description = {
 			"¡Nieve blanca para las regiones cálidas y abrigos de algodón acolchados para las regiones frías! ¿Quieres ayudar a que los días de invierno sean entrañables? Entonces ve con <NAVI>[Cotti]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI> y Woolsie."
 		},
-		Summary = "Con Cotti."
+		Summary = "Con Coti."
 	},
 	[17385] = {
-		Title = "Canje de cartas Festa",
+		Title = "Canje de Cartas Festa",
 		Description = {
 			"¿Encontraste una carta especial de tu Caja de regalo? Llévala a <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI> y Bling. Te podrán dar regalos especiales."
 		},
@@ -45609,31 +46152,31 @@ Talk to Kar=],
 	[17386] = {
 		Title = "Mezclarse con los participantes",
 		Description = {
-			"¿Qué tal si disfrutas de Festa de Nieve con otros <NAVI>[participantes]<INFO>aldebaran,162,127,0,101,0</INFO></NAVI>?"
+			"¿Qué tal si disfrutas de Festival de Los Copos de Nieve con otros <NAVI>[participantes]<INFO>aldebaran,162,127,0,101,0</INFO></NAVI>?"
 		},
-		Summary = "A la Torre de reloj."
+		Summary = "A la Torre de Reloj."
 	},
 	[17387] = {
-		Title = "Creación del Ramo de flores de nieve",
+		Title = "Creación de Muñecos de Nieve II",
 		Description = {
-			"Para hacer un Ramo de nieve, necesitas 10 <ITEM>Flores de nieve mágica<INFO>25425</INFO></ITEM>. No olvides traer una <ITEM>Zanahoria<INFO>515</INFO></ITEM> porque los muñecos de nieve quieren tener nariz. - <NAVI>[Marin]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"
+			"Para hacer un Muñeco de nieve, necesitas 10 <ITEM>Copos de nieve mágica<INFO>25425</INFO></ITEM>. No olvides traer una <ITEM>Zanahoria<INFO>515</INFO></ITEM> porque los muñecos de nieve quieren tener nariz. - <NAVI>[Marin]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"
 		},
-		Summary = "10 Flores de nieve, 1 Zanahoria."
+		Summary = "10 Copos de nieve, 1 Zanahoria."
 	},
 	[17388] = {
 		Title = "[En espera] El frío permanece",
 		Description = {
-			"Aún tienes el efecto de Flor de nieve mágica. Vuelve después del amanecer. - <NAVI>[Marin]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"
+			"Aún tienes el efecto del copo de nieve. Vuelve después del amanecer. - <NAVI>[Marin]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Se reinicia a las 4:00.",
 		CoolTimeQuest = 1
 	},
 	[17389] = {
-		Title = "Días de invierno entrañables",
+		Title = "Días Cálidos de Invierno",
 		Description = {
 			"¡Nieve para los niños que no ven la nieve! ¡Abrigo de algodón acolchado para niños de regiones frías! ¡<NAVI>[Aceptamos]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI> donaciones de 10 unidades de Algodón cálido!"
 		},
-		Summary = "10 unidades de Algodón cálido."
+		Summary = "10 unidades de Algodón Calientito.."
 	},
 	[17390] = {
 		Title = "[En espera] Empacado de algodón",
@@ -45646,30 +46189,34 @@ Talk to Kar=],
 	[17391] = {
 		Title = "Canje de cartas Festa",
 		Description = {
-			"¡¡Tu palabra de la suerte es FESTIVOS!! Abre el paquete especial de cartas Festa de Nieve Azul que encontrarás en tu Caja de regalo. Recolecta las cartas F, E, S, T, I, V, O y S y tráemelas. Son ocho cartas. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
+			"¡¡Tu palabra de la suerte es DECEMBER!! Abre el paquete especial de cartas Festa de Nieve Azul que encontrarás en tu Caja de regalo.",
+			"Recolecta las cartas D, E, C, E, M, B, E y R y tráemelas. Son ocho cartas. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Recolecta las cartas que forman FESTIVOS."
+		Summary = "Recolecta las cartas que forman DECEMBER ."
 	},
 	[17392] = {
 		Title = "Canje de cartas Festa",
 		Description = {
-			"¡¡Tu palabra de la suerte es FRÍO!! Abre el paquete especial de cartas Festa de Nieve Azul que encontrarás en tu Caja de regalo. Tráeme las cartas F, R, Í y O. Son cuatro cartas. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
+			"¡¡Tu palabra de la suerte es SNOW!! Abre el paquete especial de cartas Festa de Nieve Azul que encontrarás en tu Caja de regalo.",
+			"Tráeme las cartas S, N, O y W. Son cuatro cartas. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Recolecta las cartas que forman FRÍO."
+		Summary = "Recolecta las cartas que forman SNOW."
 	},
 	[17393] = {
 		Title = "Canje de cartas Festa",
 		Description = {
-			"¡¡Tu palabra de la suerte es FESTIVAL!! Abre el paquete especial de cartas Festa de Nieve Azul que encontrarás en tu Caja de regalo. Tráeme las cartas F, E, S, T, I, V, A y L. Son ocho cartas. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
+			"¡¡Tu palabra de la suerte es FESTIVAL!! Abre el paquete especial de cartas Festa de Nieve Azul que encontrarás en tu Caja de regalo.",
+			"Tráeme las cartas F, E, S, T, I, V, A y L. Son ocho cartas. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Recolecta las cartas que forman FESTIVAL."
 	},
 	[17394] = {
 		Title = "Canje de cartas Festa",
 		Description = {
-			"¡¡Tu palabra de la suerte es NÍVEO!! Abre el paquete especial de cartas Festa de Nieve Azul que encontrarás en tu Caja de regalo. Recolecta las cartas N, I, V, E y O y tráemelas. Habrá cinco. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
+			"¡¡Tu palabra de la suerte es WHITE!! Abre el paquete especial de cartas Festa de Nieve Azul que encontrarás en tu Caja de regalo.",
+			"Tráeme las cartas W, H, I, T y E y tráemelas. Habrá cinco. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Recolecta cartas que forman NÍVEO."
+		Summary = "Recolecta cartas que forman WHITE."
 	},
 	[17395] = {
 		Title = "[En espera] Canje de cartas una vez al día",
@@ -45689,7 +46236,7 @@ Talk to Kar=],
 	[17397] = {
 		Title = "Oh, tiempo, detén tu paso apresurado",
 		Description = {
-			"¡Tráeme 3 Batatas, 3 unidades de Leche y las cartas azules A, M, O y R, una de cada una! - <NAVI>[Sparkle]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>"
+			"¡Tráeme 3 Batatas, 3 unidades de Leche y las cartas azules L, O, V y E, una de cada una! - <NAVI>[Sparkle]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Bocadillo invernal de amor."
 	},
@@ -45719,7 +46266,7 @@ Talk to Kar=],
 		Description = {
 			"¡Ahora volvamos a la Torre del relog e impidamos que el <NAVI>[Villano jefe]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI> ejecute su plan!"
 		},
-		Summary = "A la Torre de reloj."
+		Summary = "A la Torre de Reloj."
 	},
 	[17402] = {
 		Title = "Necesitan atención",
@@ -61234,7 +61781,7 @@ Talk to Kar=],
 	[62496] = {
 		Title = "La alfombra de Sam, el sospechoso",
 		Description = {
-			"Llévale al Comerciante Sam 10 Telas, 5 Telarañas y 1 Pincha de cactus."
+			"Llévale al Comerciante Sam 10 Telas, 5 Telarañas y 1 Espina de Cactus."
 		},
 		Summary = ""
 	},

@@ -3130,6 +3130,30 @@ tblLapineUpgradeBox = {
 					24386
 				},
 				{
+					"Rebeginer_Armor_S",
+					24387
+				},
+				{
+					"Rebeginer_Shield_S",
+					24388
+				},
+				{
+					"Rebeginer_Shoes_S",
+					24389
+				},
+				{
+					"Rebeginer_Weapon_S",
+					24390
+				},
+				{
+					"Rebeginer_Earring_S",
+					24391
+				},
+				{
+					"Rebeginer_Pendant_S",
+					24392
+				},
+				{
 					"S_Physical_Shoes",
 					24393
 				},
@@ -3164,6 +3188,10 @@ tblLapineUpgradeBox = {
 				{
 					"S_KingbirdAncient_Armor",
 					24401
+				},
+				{
+					"S_CriticalHit_Armor",
+					15280
 				},
 				{
 					"S_Rebellion_Armor",
@@ -5078,6 +5106,30 @@ tblLapineUpgradeBox = {
 				{
 					"S_Infinity_Weapon",
 					24386
+				},
+				{
+					"Rebeginer_Armor_S",
+					24387
+				},
+				{
+					"Rebeginer_Shield_S",
+					24388
+				},
+				{
+					"Rebeginer_Shoes_S",
+					24389
+				},
+				{
+					"Rebeginer_Weapon_S",
+					24390
+				},
+				{
+					"Rebeginer_Earring_S",
+					24391
+				},
+				{
+					"Rebeginer_Pendant_S",
+					24392
 				},
 				{
 					"S_Physical_Shoes",

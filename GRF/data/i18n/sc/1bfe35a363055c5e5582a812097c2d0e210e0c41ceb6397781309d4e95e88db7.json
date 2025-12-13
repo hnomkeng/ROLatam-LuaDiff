@@ -1,132 +1,158 @@
 {
     "AIlXBg": {
-        "en": "X - Y - Flag - Kill Accumulation\n------------------\nAndrea - {0} {1} - {2} - {3}\nAnes   - {4} {5} - {6} - {7}\nSilvano   - {8} {9} - {10} - {11}\nCecilia - {12} {13} - {14} - {15}\nBaphomet - {16} {17} - {18} - {19}",
-        "pt": "X - Y - Flag - Kill Accumulation\n------------------\nAndrea - {0} {1} - {2} - {3}\nAgnes   - {4} {5} - {6} - {7}\nSilvano   - {8} {9} - {10} - {11}\nCecilia - {12} {13} - {14} - {15}\nBafomet - {16} {17} - {18} - {19}",
-        "es": "X - Y - Bandera - Asesinatos Acumulados.\n------------------\nAndrea: {0} {1} - {2} - {3}\nAnes: {4} {5} - {6} - {7}\nSilvano: {8} {9} - {10} - {11}\nCecilia: {12} {13} - {14} - {15}\nBaphomet: {16} {17} - {18} - {19}"
+        "ko": "X - Y - 플래그 - 킬누적\n------------------\n안드레아 - {0} {1} - {2} - {3}\n아네스   - {4} {5} - {6} - {7}\n실바노   - {8} {9} - {10} - {11}\n세실리아 - {12} {13} - {14} - {15}\n바포메트 - {16} {17} - {18} - {19}",
+        "en": "X - Y - Flag - Kill Count\n------------------\nAndrea - {0} {1} - {2} - {3}\nAgnes   - {4} {5} - {6} - {7}\nSilvano   - {8} {9} - {10} - {11}\nCecilia - {12} {13} - {14} - {15}\nBaphomet - {16} {17} - {18} - {19}",
+        "pt": "Contagem de Caça\n------------------\nAndrea - {0} {1} - {2} - {3}\nAgnes   - {4} {5} - {6} - {7}\nSilvano   - {8} {9} - {10} - {11}\nCecilia - {12} {13} - {14} - {15}\nBafomé - {16} {17} - {18} - {19}",
+        "es": "X - Y - Bandera - Acumulado de Muertes\n------------------\nAndrea - {0} {1} - {2} - {3}\nAgnes   - {4} {5} - {6} - {7}\nSilvano   - {8} {9} - {10} - {11}\nCecilia - {12} {13} - {14} - {15}\nBaphomet - {16} {17} - {18} - {19}"
     },
     "AYlXBg": {
+        "ko": "시간체크",
         "en": "Time Check",
-        "pt": "Check Time",
-        "es": "Control de tiempo."
+        "pt": "Ver cronômetro",
+        "es": "Verificar Tiempo"
     },
     "AolXBg": {
+        "ko": "보스리셋",
         "en": "Boss Reset",
-        "pt": "Reset Boss",
-        "es": "Restablecer jefe."
+        "pt": "Reiniciar Chefe",
+        "es": "Reiniciar Jefe"
     },
     "A4lXBg": {
-        "en": "Inter Summoning",
-        "pt": "Summon Mid-Boss",
-        "es": "Interinvocación."
+        "ko": "중보소환",
+        "en": "Mid-Boss Summon",
+        "pt": "Invocar Noviço",
+        "es": "Invocar Subjefe"
     },
     "BIlXBg": {
+        "ko": "보스소환",
         "en": "Boss Summon",
-        "pt": "Summon Boss",
-        "es": "Invocación de jefe."
+        "pt": "Invocar Chefe",
+        "es": "Invocar Jefe"
     },
     "BYlXBg": {
+        "ko": "보스추적",
         "en": "Boss Tracking",
-        "pt": "Chase Boss",
-        "es": "Seguimiento de jefe."
+        "pt": "Ir até o Chefe",
+        "es": "Rastrear Jefe"
     },
     "BolXBg": {
-        "en": "- Midboss Regen Cooldown -\nAndrea {0}s\nAnes {1}s\nSilvano {2}s\nCecilia {3}s\n------------\nRemaining time when boss cannot be summoned\nBaphomet {4}s",
-        "pt": "- Mid-Boss Regen Cooldown -\nAndrea {0} seconds\nAgnes {1} seconds\nSilvano {2} seconds\nCecilia {3} seconds\n------------\nRemaining time to summon boss\nBafomet {4} seconds",
-        "es": "-Tiempo de espera de regeneración de jefe intermedio.-\nAndrea: {0}segundos.\nAnes: {1}segundos.\nSilvano: {2}segundos.\nCecilia: {3}segundos.\n------------\nTiempo restante cuando no se puede invocar a un jefe.\nBaphomet: {4}segundos."
+        "ko": "- 중보스 리젠 쿨타임 -\n안드레아 {0}초\n아네스 {1}초\n실바노 {2}초\n세실리아 {3}초\n------------\n보스 소환불가 잔여시간\n바포메트 {4}초",
+        "en": "- Mid-Boss Respawn Cooldown -\nAndrea {0}sec\nAgnes {1}sec\nSilvano {2}sec\nCecilia {3}sec\n------------\nBoss Summon Unavailable Time Remaining\nBaphomet {4}sec",
+        "pt": "- Respawn do Noviço -\nAndrea {0} segundos\nAgnes {1} segundos\nSilvano {2} segundos\nCecilia {3} segundos\n------------\nTempo restante para invocar o Chefe:\nBafomé {4} segundos",
+        "es": "- Tiempo de Reaparición de Subjefe -\nAndrea {0}seg\nAgnes {1}seg\nSilvano {2}seg\nCecilia {3}seg\n------------\nTiempo Restante para Invocar al Jefe\nBaphomet {4}seg"
     },
     "B4lXBg": {
-        "en": "Midboss summon completed",
-        "pt": "Completed summoning of the mid-boss",
-        "es": "Invocación del jefe intermedio completada."
+        "ko": "중보스 소환완료",
+        "en": "Mid-Boss Summon Complete",
+        "pt": "Invocação completa dos Noviços",
+        "es": "Invocación de Subjefe Completada"
     },
     "CIlXBg": {
+        "ko": "안드레아",
         "en": "Andrea",
         "pt": "Andrea",
-        "es": "Andrea."
+        "es": "Andrea"
     },
     "CYlXBg": {
-        "en": "Anes",
+        "ko": "아네스",
+        "en": "Agnes",
         "pt": "Agnes",
-        "es": "Anes."
+        "es": "Agnes"
     },
     "ColXBg": {
+        "ko": "실바노",
         "en": "Silvano",
         "pt": "Silvano",
-        "es": "Silvano."
+        "es": "Silvano"
     },
     "C4lXBg": {
+        "ko": "세실리아",
         "en": "Cecilia",
         "pt": "Cecilia",
-        "es": "Cecilia."
+        "es": "Cecilia"
     },
     "DIlXBg": {
+        "ko": "보스",
         "en": "Boss",
-        "pt": "Boss",
-        "es": "Jefe."
+        "pt": "Chefe",
+        "es": "Jefe"
     },
     "DYlXBg": {
-        "en": "A dreadful being has descended from beyond the chaos of the abyss.",
+        "ko": "깊은 심연의 혼돈 너머에서 끔찍한 존재가 강림하였습니다.",
+        "en": "A terrifying entity has descended from beyond the deep abyss of chaos.",
         "pt": "Uma terrível criatura ourinda do caos apareceu.",
-        "es": "Un ser espantoso descendió de las profundidades del caos del abismo."
+        "es": "Una entidad aterradora ha descendido desde más allá del abismo profundo del caos."
     },
     "DolXBg": {
-        "en": "Chaotic Baphomet",
+        "ko": "혼돈의 바포메트",
+        "en": "Baphomet of Chaos",
         "pt": "Bafomé Caótico",
-        "es": "Chaotic Baphomet"
+        "es": "Baphomet del Caos"
     },
     "D4lXBg": {
-        "en": "Catch and follow me if you dare.",
+        "ko": "따라올테면 따라와 봐라",
+        "en": "Follow me if you dare.",
         "pt": "Sigam-me, meus fiéis apóstolos!",
-        "es": "Atrápame y sígueme si te atreves."
+        "es": "Sígueme si te atreves."
     },
     "EIlXBg": {
-        "en": "It's hard to play with because it's boring.",
+        "ko": "지루해서 같이 놀아주기 힘들군.",
+        "en": "It's hard to play along when it's so boring.",
         "pt": "Vocês são tão patéticos.",
-        "es": "Jugar es difícil porque es aburrido."
+        "es": "Es difícil jugar contigo cuando es tan aburrido."
     },
     "EYlXBg": {
-        "en": "How about training for another 100 years?",
+        "ko": "100년은 더 수련하고 오는게 어때?",
+        "en": "Maybe you should train for another hundred years?",
         "pt": "Por que você não treina pelos próximos 100 anos?",
-        "es": "¿Qué tal entrenar otros 100 años más?"
+        "es": "¿Quizás deberías entrenar por otros cien años?"
     },
     "EolXBg": {
-        "en": "Did you just attack me?",
+        "ko": "겨우 그정도로 내게 덤빈 것이냐?",
+        "en": "You dare challenge me with such pitiful strength?",
         "pt": "Quer mesmo que eu gaste minha força contra você?",
-        "es": "¿Acabas de atacarme?"
+        "es": "¿Te atreves a desafiarme con una fuerza tan patética?"
     },
     "E4lXBg": {
-        "en": "Can you find me?",
+        "ko": "네놈이 날 찾을 수 있을까?",
+        "en": "Do you think you can find me?",
         "pt": "Consegue me peitar?",
-        "es": "¿Puedes encontrarme?"
+        "es": "¿Crees que puedes encontrarme?"
     },
     "FIlXBg": {
-        "en": "Chaotic Baphomet becomes invicible",
+        "ko": "혼돈의 바포메트가 무적 상태가 됩니다.",
+        "en": "Baphomet of Chaos has become invincible.",
         "pt": "Bafomé Caótico ativou a invencibilidade.",
-        "es": "Baphomet caótico se vuelve invencible."
+        "es": "Baphomet del Caos se ha vuelto invencible."
     },
     "FYlXBg": {
-        "en": "The invincibility from Chaotic Baphomet has been lifted.",
+        "ko": "혼돈의 바포메트에 걸린 무적상태가 해제되었습니다.",
+        "en": "The invincibility status on Baphomet of Chaos has been removed.",
         "pt": "Bafomé Caótico não está mais invencível.",
-        "es": "Se terminó la invencibilidad de Baphomet caótico."
+        "es": "El estado de invencibilidad en Baphomet del Caos ha sido removido."
     },
     "FolXBg": {
-        "en": "Chaotic Andrea",
+        "ko": "혼돈의 안드레아",
+        "en": "Andrea of Chaos",
         "pt": "Andrea Caótico",
-        "es": "Chaotic Andrea"
+        "es": "Andrea del Caos"
     },
     "F4lXBg": {
-        "en": "Chaotic Anes",
+        "ko": "혼돈의 아네스",
+        "en": "Agnes of Chaos",
         "pt": "Agnes Caótica",
-        "es": "Chaotic Anes"
+        "es": "Agnes del Caos"
     },
     "GIlXBg": {
-        "en": "Chaotic Silvano",
+        "ko": "혼돈의 실바노",
+        "en": "Silvano of Chaos",
         "pt": "Silvano Caótico",
-        "es": "Chaotic Silvano"
+        "es": "Silvano del Caos"
     },
     "GYlXBg": {
-        "en": "Chaotic Cecilia",
+        "ko": "혼돈의 세실리아",
+        "en": "Cecilia of Chaos",
         "pt": "Cecília Caótica",
-        "es": "Chaotic Cecilia"
+        "es": "Cecilia del Caos"
     }
 }

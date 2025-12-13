@@ -16305,13 +16305,13 @@ tbl = {
 		{
 			id = 24139,
 			prob = 170,
-			name = "Unknown Item",
+			name = "Teleport Shadow Shoes",
 			group = 1
 		},
 		{
 			id = 24140,
 			prob = 170,
-			name = "Unknown Item",
+			name = "Teleport Shadow Shield",
 			group = 1
 		},
 		{
@@ -16323,13 +16323,13 @@ tbl = {
 		{
 			id = 24142,
 			prob = 160,
-			name = "Unknown Item",
+			name = "Teleport Shadow Earring",
 			group = 1
 		},
 		{
 			id = 24143,
 			prob = 160,
-			name = "Unknown Item",
+			name = "Teleport Shadow Pendant",
 			group = 1
 		}
 	},
@@ -23167,7 +23167,7 @@ tbl = {
 		{
 			id = 24140,
 			prob = 5,
-			name = "Unknown Item",
+			name = "Teleport Shadow Shield",
 			group = 1
 		},
 		{
@@ -23421,7 +23421,7 @@ tbl = {
 		{
 			id = 24139,
 			prob = 5,
-			name = "Unknown Item",
+			name = "Teleport Shadow Shoes",
 			group = 1
 		},
 		{
@@ -23579,7 +23579,7 @@ tbl = {
 		{
 			id = 24143,
 			prob = 5,
-			name = "Unknown Item",
+			name = "Teleport Shadow Pendant",
 			group = 1
 		},
 		{
@@ -23755,7 +23755,7 @@ tbl = {
 		{
 			id = 24142,
 			prob = 5,
-			name = "Unknown Item",
+			name = "Teleport Shadow Earring",
 			group = 1
 		},
 		{
@@ -25297,7 +25297,7 @@ tbl = {
 		{
 			id = 13332,
 			prob = 3,
-			name = "Huuma Shuriken of Dancing Petals [2] [2]",
+			name = "Huuma Shuriken of Dancing Petals [2]",
 			group = 6
 		},
 		{
@@ -30227,7 +30227,7 @@ tbl = {
 		{
 			id = 31390,
 			prob = 200,
-			name = "Costume Let It Snow",
+			name = "[Costume] Let It Snow",
 			group = 1
 		}
 	},
@@ -30411,6 +30411,248 @@ tbl = {
 			prob = 1,
 			name = "Rebeginner Shadow Pendant",
 			group = 0
+		}
+	},
+	[23629] = {
+		{
+			id = 25302,
+			prob = 2,
+			name = "Double Attack Stone",
+			group = 6
+		},
+		{
+			id = 25303,
+			prob = 2,
+			name = "Mortal Stone 4",
+			group = 6
+		},
+		{
+			id = 25067,
+			prob = 2,
+			name = "Fixed Cast 1 Stone (Garment)",
+			group = 6
+		},
+		{
+			id = 6964,
+			prob = 8,
+			name = "SP Absorption Stone (Garment)",
+			group = 6
+		},
+		{
+			id = 25000,
+			prob = 8,
+			name = "SP Absorption Stone (Upper)",
+			group = 6
+		},
+		{
+			id = 25306,
+			prob = 8,
+			name = "Variable Casting Stone (Garment)",
+			group = 6
+		},
+		{
+			id = 25205,
+			prob = 8,
+			name = "Graphic Stone: Shrink Effect (Lower)",
+			group = 6
+		},
+		{
+			id = 6963,
+			prob = 16,
+			name = "HP Absorption Stone (Garment)",
+			group = 6
+		},
+		{
+			id = 6999,
+			prob = 16,
+			name = "HP Absorption Stone (Upper)",
+			group = 6
+		},
+		{
+			id = 25068,
+			prob = 16,
+			name = "Atk Speed 1 Stone (Upper)",
+			group = 6
+		},
+		{
+			id = 6908,
+			prob = 16,
+			name = "ASPD Stone (Garment)",
+			group = 6
+		},
+		{
+			id = 25170,
+			prob = 16,
+			name = "Fixed -0.3 Stone (Garment)",
+			group = 6
+		},
+		{
+			id = 25448,
+			prob = 16,
+			name = "Rune Knight Stone (Garment)",
+			group = 6
+		},
+		{
+			id = 25449,
+			prob = 16,
+			name = "Biochemist Stone (Garment)",
+			group = 6
+		},
+		{
+			id = 25456,
+			prob = 16,
+			name = "Warlock Stone (Garment)",
+			group = 6
+		},
+		{
+			id = 25061,
+			prob = 24,
+			name = "Ranged 1 Stone (Middle)",
+			group = 6
+		},
+		{
+			id = 25141,
+			prob = 24,
+			name = "EXP Stone +2% (Middle)",
+			group = 6
+		},
+		{
+			id = 25015,
+			prob = 24,
+			name = "EXP 1 Stone (Lower)",
+			group = 6
+		},
+		{
+			id = 25171,
+			prob = 24,
+			name = "EXP Stone +2% (Top)",
+			group = 6
+		},
+		{
+			id = 25174,
+			prob = 24,
+			name = "Variable -3% Stone (Lower)",
+			group = 6
+		},
+		{
+			id = 25173,
+			prob = 24,
+			name = "Variable -3% Stone (Middle)",
+			group = 6
+		},
+		{
+			id = 25172,
+			prob = 24,
+			name = "Variable -3% Stone (Top)",
+			group = 6
+		},
+		{
+			id = 25445,
+			prob = 37,
+			name = "Lord Knight Stone (Top)",
+			group = 6
+		},
+		{
+			id = 25446,
+			prob = 37,
+			name = "Lord Knight Stone (Middle)",
+			group = 6
+		},
+		{
+			id = 25447,
+			prob = 37,
+			name = "Lord Knight Stone (Bottom)",
+			group = 6
+		},
+		{
+			id = 25450,
+			prob = 37,
+			name = "Creator Stone (Top)",
+			group = 6
+		},
+		{
+			id = 25451,
+			prob = 37,
+			name = "Creator Stone (Middle)",
+			group = 6
+		},
+		{
+			id = 25452,
+			prob = 37,
+			name = "Creator Stone (Bottom)",
+			group = 6
+		},
+		{
+			id = 25453,
+			prob = 37,
+			name = "High Wizard Stone (Top)",
+			group = 6
+		},
+		{
+			id = 25454,
+			prob = 37,
+			name = "High Wizard Stone (Middle)",
+			group = 6
+		},
+		{
+			id = 25455,
+			prob = 37,
+			name = "High Wizard Stone (Bottom)",
+			group = 6
+		},
+		{
+			id = 6943,
+			prob = 37,
+			name = "ATK Stone (Top)",
+			group = 6
+		},
+		{
+			id = 6642,
+			prob = 37,
+			name = "Stone of ATK (Middle)",
+			group = 6
+		},
+		{
+			id = 25016,
+			prob = 37,
+			name = "Power 1 Stone (Lower)",
+			group = 6
+		},
+		{
+			id = 6944,
+			prob = 37,
+			name = "MATK Stone (Top)",
+			group = 6
+		},
+		{
+			id = 6643,
+			prob = 37,
+			name = "Stone of MATK (Middle)",
+			group = 6
+		},
+		{
+			id = 25017,
+			prob = 37,
+			name = "Magic 1 Stone (Lower)",
+			group = 6
+		},
+		{
+			id = 25060,
+			prob = 37,
+			name = "Critical 1 Stone (Middle)",
+			group = 6
+		},
+		{
+			id = 25304,
+			prob = 37,
+			name = "Mortal Stone 2",
+			group = 6
+		},
+		{
+			id = 25305,
+			prob = 37,
+			name = "Mortal Stone 3",
+			group = 6
 		}
 	},
 	[23663] = {
@@ -31849,7 +32091,7 @@ tbl = {
 		{
 			id = 27343,
 			prob = 1000,
-			name = "Novices of Chaos Card",
+			name = "Chaotic Acolyte Card",
 			group = 6
 		},
 		{
@@ -33765,6 +34007,14 @@ tbl = {
 			group = 0
 		}
 	},
+	[23952] = {
+		{
+			id = 6443,
+			prob = 1,
+			name = "Silit Pong Bottle",
+			group = 0
+		}
+	},
 	[100045] = {
 		{
 			id = 15410,
@@ -35216,7 +35466,7 @@ tbl = {
 	[100197] = {
 		{
 			id = 7665,
-			prob = 1,
+			prob = 0,
 			name = "Dragon Tail Missile 500",
 			group = 0
 		}
@@ -35329,7 +35579,7 @@ tbl = {
 		{
 			id = 100379,
 			prob = 10,
-			name = "Reinforced Spell Cube",
+			name = "Chilling Cane Cube",
 			group = 6
 		},
 		{
@@ -35341,7 +35591,7 @@ tbl = {
 		{
 			id = 100377,
 			prob = 10,
-			name = "Reinforced Gakkung Cube",
+			name = "Scarlet Dragon Leather Bow Cube",
 			group = 6
 		},
 		{
@@ -35365,7 +35615,7 @@ tbl = {
 		{
 			id = 100396,
 			prob = 10,
-			name = "Reinforced crosstalk hub",
+			name = "Blue Crystal Staff Cube",
 			group = 6
 		},
 		{
@@ -35395,7 +35645,7 @@ tbl = {
 		{
 			id = 100388,
 			prob = 10,
-			name = "Reinforced claw hub",
+			name = "Enhanced Iron Nail Cube",
 			group = 6
 		},
 		{
@@ -35431,7 +35681,7 @@ tbl = {
 		{
 			id = 100400,
 			prob = 10,
-			name = "Wakizashi Reinforced Hub",
+			name = "Kiri no Tsuyu Cube",
 			group = 6
 		},
 		{
@@ -37007,37 +37257,37 @@ tbl = {
 		{
 			id = 24723,
 			prob = 1,
-			name = "Dark Mesh of Autoconjuration",
+			name = "Autospell Shadow Armor",
 			group = 6
 		},
 		{
 			id = 24722,
 			prob = 1,
-			name = "Dark Shield of Self-Conjuration",
+			name = "Autospell Shadow Shield",
 			group = 6
 		},
 		{
 			id = 24725,
 			prob = 1,
-			name = "Dark Glove of Self-Conjuration",
+			name = "Autospell Shadow Weapon",
 			group = 6
 		},
 		{
 			id = 24724,
 			prob = 1,
-			name = "Dark Strike of Self-Conjuration",
+			name = "Autospell Shadow Shoes",
 			group = 6
 		},
 		{
 			id = 24727,
 			prob = 1,
-			name = "Dark Earring of Autoconjuration",
+			name = "Autospell Shadow Earring",
 			group = 6
 		},
 		{
 			id = 24726,
 			prob = 1,
-			name = "Dark Necklace of Autoconjuration",
+			name = "Autospell Shadow Pendant",
 			group = 6
 		}
 	},
@@ -38353,13 +38603,13 @@ tbl = {
 		{
 			id = 31390,
 			prob = 50,
-			name = "Costume Let It Snow",
+			name = "[Costume] Let It Snow",
 			group = 6
 		},
 		{
 			id = 31588,
 			prob = 50,
-			name = "Blizzard Tiara",
+			name = "[Costume] Blizzard Tiara",
 			group = 6
 		},
 		{
@@ -49863,7 +50113,7 @@ tbl = {
 		{
 			id = 480316,
 			prob = 0,
-			name = "Lábris",
+			name = "[Costume] Labrys",
 			group = 0
 		}
 	},
@@ -49871,7 +50121,7 @@ tbl = {
 		{
 			id = 480288,
 			prob = 0,
-			name = "Cloak of the Dark Lord",
+			name = "[Costume] Dark Lord Cloak",
 			group = 0
 		}
 	},
@@ -50231,13 +50481,13 @@ tbl = {
 		{
 			id = 100541,
 			prob = 80,
-			name = "Dark Cube of Necklaces",
+			name = "Class Shadow Pendant Cube",
 			group = 6
 		},
 		{
 			id = 100542,
 			prob = 80,
-			name = "Dark Cube of Earrings",
+			name = "Class Shadow Earring Cube",
 			group = 6
 		},
 		{
@@ -50485,13 +50735,13 @@ tbl = {
 		{
 			id = 100541,
 			prob = 80,
-			name = "Dark Cube of Necklaces",
+			name = "Class Shadow Pendant Cube",
 			group = 6
 		},
 		{
 			id = 100542,
 			prob = 80,
-			name = "Dark Cube of Earrings",
+			name = "Class Shadow Earring Cube",
 			group = 6
 		},
 		{
@@ -50725,6 +50975,652 @@ tbl = {
 			group = 0
 		}
 	},
+	[106088] = {
+		{
+			id = 1000274,
+			prob = 0,
+			name = "Kachua Coupon",
+			group = 0
+		},
+		{
+			id = 25464,
+			prob = 1400,
+			name = "Passport 5",
+			group = 6
+		},
+		{
+			id = 23047,
+			prob = 1400,
+			name = "[Event] Blessing Of Tyr 3",
+			group = 6
+		},
+		{
+			id = 12684,
+			prob = 1400,
+			name = "Golden Potion  3",
+			group = 6
+		},
+		{
+			id = 23048,
+			prob = 1400,
+			name = "[Event] Regenerate Potion 3",
+			group = 6
+		},
+		{
+			id = 9908,
+			prob = 1400,
+			name = "[Scroll] Mental Potion 3",
+			group = 6
+		},
+		{
+			id = 22979,
+			prob = 950,
+			name = "[Event] Manual & Gum",
+			group = 6
+		},
+		{
+			id = 101367,
+			prob = 950,
+			name = "[Event] Small Mana Potion 3",
+			group = 6
+		},
+		{
+			id = 14847,
+			prob = 950,
+			name = "[Scroll] Small Life Potion 3",
+			group = 6
+		},
+		{
+			id = 6413,
+			prob = 950,
+			name = "New Insurance 3",
+			group = 6
+		},
+		{
+			id = 6833,
+			prob = 950,
+			name = "[Limited] Token of Siegfried 3",
+			group = 6
+		},
+		{
+			id = 6635,
+			prob = 600,
+			name = "Blacksmith Blessing",
+			group = 6
+		},
+		{
+			id = 105979,
+			prob = 600,
+			name = "Transform Box",
+			group = 6
+		},
+		{
+			id = 101470,
+			prob = 600,
+			name = "Selectable Minus Potion",
+			group = 6
+		},
+		{
+			id = 25041,
+			prob = 600,
+			name = "Pump of Spirit",
+			group = 6
+		},
+		{
+			id = 23436,
+			prob = 600,
+			name = "Dark Refining Hammer",
+			group = 6
+		},
+		{
+			id = 100785,
+			prob = 500,
+			name = "Autospell Shadow Box",
+			group = 6
+		},
+		{
+			id = 17429,
+			prob = 400,
+			name = "Absorb Shadow Box",
+			group = 6
+		},
+		{
+			id = 23720,
+			prob = 400,
+			name = "Shadow Enhancement Box",
+			group = 6
+		},
+		{
+			id = 100542,
+			prob = 400,
+			name = "Class Shadow Earring Cube",
+			group = 6
+		},
+		{
+			id = 100541,
+			prob = 400,
+			name = "Class Shadow Pendant Cube",
+			group = 6
+		},
+		{
+			id = 23241,
+			prob = 400,
+			name = "Earring Combinator",
+			group = 6
+		},
+		{
+			id = 23240,
+			prob = 400,
+			name = "Necklace Matcher",
+			group = 6
+		},
+		{
+			id = 100691,
+			prob = 300,
+			name = "Absorption Combiner",
+			group = 6
+		},
+		{
+			id = 100783,
+			prob = 300,
+			name = "Autospell Combiner",
+			group = 6
+		},
+		{
+			id = 105980,
+			prob = 200,
+			name = "Middle Headgear Box",
+			group = 6
+		},
+		{
+			id = 100470,
+			prob = 200,
+			name = "Hat Collection",
+			group = 6
+		},
+		{
+			id = 22171,
+			prob = 200,
+			name = "Ancient Hero Boots [1]",
+			group = 6
+		},
+		{
+			id = 105433,
+			prob = 200,
+			name = "Common Ancestral Box",
+			group = 6
+		},
+		{
+			id = 105434,
+			prob = 200,
+			name = "Uncommon Ancestral Box",
+			group = 6
+		},
+		{
+			id = 105435,
+			prob = 200,
+			name = "Expanded Ancestral Box",
+			group = 6
+		},
+		{
+			id = 106115,
+			prob = 80,
+			name = "Rockridge Box",
+			group = 6
+		},
+		{
+			id = 100100,
+			prob = 80,
+			name = "Temporal Cloak Box",
+			group = 6
+		},
+		{
+			id = 100388,
+			prob = 70,
+			name = "Enhanced Iron Nail Cube",
+			group = 6
+		},
+		{
+			id = 100400,
+			prob = 70,
+			name = "Kiri no Tsuyu Cube",
+			group = 6
+		},
+		{
+			id = 100396,
+			prob = 70,
+			name = "Blue Crystal Staff Cube",
+			group = 6
+		},
+		{
+			id = 100377,
+			prob = 70,
+			name = "Scarlet Dragon Leather Bow Cube",
+			group = 6
+		},
+		{
+			id = 100379,
+			prob = 70,
+			name = "Chilling Cane Cube",
+			group = 6
+		},
+		{
+			id = 100273,
+			prob = 20,
+			name = "Boots Modifying Cube",
+			group = 6
+		},
+		{
+			id = 100751,
+			prob = 5,
+			name = "Low Refining Envelope",
+			group = 6
+		},
+		{
+			id = 100750,
+			prob = 5,
+			name = "High Refine Envelope",
+			group = 6
+		},
+		{
+			id = 23952,
+			prob = 5,
+			name = "Silit Pong Bottle Box",
+			group = 6
+		},
+		{
+			id = 23538,
+			prob = 5,
+			name = "Cursed Knight's Shield Box",
+			group = 6
+		}
+	},
+	[106089] = {
+		{
+			id = 1000274,
+			prob = 0,
+			name = "Kachua Coupon",
+			group = 0
+		},
+		{
+			id = 25464,
+			prob = 1400,
+			name = "Passport 5",
+			group = 6
+		},
+		{
+			id = 23047,
+			prob = 1400,
+			name = "[Event] Blessing Of Tyr 3",
+			group = 6
+		},
+		{
+			id = 12684,
+			prob = 1400,
+			name = "Golden Potion  3",
+			group = 6
+		},
+		{
+			id = 23048,
+			prob = 1400,
+			name = "[Event] Regenerate Potion 3",
+			group = 6
+		},
+		{
+			id = 9908,
+			prob = 1400,
+			name = "[Scroll] Mental Potion 3",
+			group = 6
+		},
+		{
+			id = 22979,
+			prob = 950,
+			name = "[Event] Manual & Gum",
+			group = 6
+		},
+		{
+			id = 101367,
+			prob = 950,
+			name = "[Event] Small Mana Potion 3",
+			group = 6
+		},
+		{
+			id = 14847,
+			prob = 950,
+			name = "[Scroll] Small Life Potion 3",
+			group = 6
+		},
+		{
+			id = 6413,
+			prob = 950,
+			name = "New Insurance 3",
+			group = 6
+		},
+		{
+			id = 6833,
+			prob = 950,
+			name = "[Limited] Token of Siegfried 3",
+			group = 6
+		},
+		{
+			id = 6635,
+			prob = 600,
+			name = "Blacksmith Blessing",
+			group = 6
+		},
+		{
+			id = 105979,
+			prob = 600,
+			name = "Transform Box",
+			group = 6
+		},
+		{
+			id = 101470,
+			prob = 600,
+			name = "Selectable Minus Potion",
+			group = 6
+		},
+		{
+			id = 25041,
+			prob = 600,
+			name = "Pump of Spirit",
+			group = 6
+		},
+		{
+			id = 23436,
+			prob = 600,
+			name = "Dark Refining Hammer",
+			group = 6
+		},
+		{
+			id = 100785,
+			prob = 500,
+			name = "Autospell Shadow Box",
+			group = 6
+		},
+		{
+			id = 17429,
+			prob = 400,
+			name = "Absorb Shadow Box",
+			group = 6
+		},
+		{
+			id = 23720,
+			prob = 400,
+			name = "Shadow Enhancement Box",
+			group = 6
+		},
+		{
+			id = 100542,
+			prob = 400,
+			name = "Class Shadow Earring Cube",
+			group = 6
+		},
+		{
+			id = 100541,
+			prob = 400,
+			name = "Class Shadow Pendant Cube",
+			group = 6
+		},
+		{
+			id = 23241,
+			prob = 400,
+			name = "Earring Combinator",
+			group = 6
+		},
+		{
+			id = 23240,
+			prob = 400,
+			name = "Necklace Matcher",
+			group = 6
+		},
+		{
+			id = 100691,
+			prob = 300,
+			name = "Absorption Combiner",
+			group = 6
+		},
+		{
+			id = 100783,
+			prob = 300,
+			name = "Autospell Combiner",
+			group = 6
+		},
+		{
+			id = 105980,
+			prob = 200,
+			name = "Middle Headgear Box",
+			group = 6
+		},
+		{
+			id = 100470,
+			prob = 200,
+			name = "Hat Collection",
+			group = 6
+		},
+		{
+			id = 22171,
+			prob = 200,
+			name = "Ancient Hero Boots [1]",
+			group = 6
+		},
+		{
+			id = 105433,
+			prob = 200,
+			name = "Common Ancestral Box",
+			group = 6
+		},
+		{
+			id = 105434,
+			prob = 200,
+			name = "Uncommon Ancestral Box",
+			group = 6
+		},
+		{
+			id = 105435,
+			prob = 200,
+			name = "Expanded Ancestral Box",
+			group = 6
+		},
+		{
+			id = 106115,
+			prob = 80,
+			name = "Rockridge Box",
+			group = 6
+		},
+		{
+			id = 100100,
+			prob = 80,
+			name = "Temporal Cloak Box",
+			group = 6
+		},
+		{
+			id = 100388,
+			prob = 70,
+			name = "Enhanced Iron Nail Cube",
+			group = 6
+		},
+		{
+			id = 100400,
+			prob = 70,
+			name = "Kiri no Tsuyu Cube",
+			group = 6
+		},
+		{
+			id = 100396,
+			prob = 70,
+			name = "Blue Crystal Staff Cube",
+			group = 6
+		},
+		{
+			id = 100377,
+			prob = 70,
+			name = "Scarlet Dragon Leather Bow Cube",
+			group = 6
+		},
+		{
+			id = 100379,
+			prob = 70,
+			name = "Chilling Cane Cube",
+			group = 6
+		},
+		{
+			id = 100273,
+			prob = 20,
+			name = "Boots Modifying Cube",
+			group = 6
+		},
+		{
+			id = 100751,
+			prob = 5,
+			name = "Low Refining Envelope",
+			group = 6
+		},
+		{
+			id = 100750,
+			prob = 5,
+			name = "High Refine Envelope",
+			group = 6
+		},
+		{
+			id = 23952,
+			prob = 5,
+			name = "Silit Pong Bottle Box",
+			group = 6
+		},
+		{
+			id = 23538,
+			prob = 5,
+			name = "Cursed Knight's Shield Box",
+			group = 6
+		}
+	},
+	[106115] = {
+		{
+			id = 401147,
+			prob = 3333,
+			name = "Kiwawa Hat [1]",
+			group = 6
+		},
+		{
+			id = 470411,
+			prob = 3333,
+			name = "Cowboy Boots [1]",
+			group = 6
+		},
+		{
+			id = 490863,
+			prob = 3334,
+			name = "Cowboy Coin [1]",
+			group = 6
+		}
+	},
+	[106116] = {
+		{
+			id = 23375,
+			prob = 0,
+			name = "Unknown Item 10",
+			group = 0
+		},
+		{
+			id = 23374,
+			prob = 0,
+			name = "Unknown Item 10",
+			group = 0
+		},
+		{
+			id = 23377,
+			prob = 0,
+			name = "Unknown Item 10",
+			group = 0
+		},
+		{
+			id = 106089,
+			prob = 0,
+			name = "[Event] Western Oval Artifact 2",
+			group = 0
+		}
+	},
+	[106117] = {
+		{
+			id = 12522,
+			prob = 0,
+			name = "[Event] LV10 Blessing Scroll 35",
+			group = 0
+		},
+		{
+			id = 12523,
+			prob = 0,
+			name = "[Event] LV10 Agil Scroll 35",
+			group = 0
+		},
+		{
+			id = 14593,
+			prob = 0,
+			name = "Mystical Amplification Scroll 35",
+			group = 0
+		},
+		{
+			id = 12218,
+			prob = 0,
+			name = "LV5 Assumptio Scroll 35",
+			group = 0
+		},
+		{
+			id = 106089,
+			prob = 0,
+			name = "[Event] Western Oval Artifact 6",
+			group = 0
+		}
+	},
+	[106118] = {
+		{
+			id = 6909,
+			prob = 0,
+			name = "Nyangvine 144",
+			group = 0
+		},
+		{
+			id = 23629,
+			prob = 0,
+			name = "Costume Stone Box 14 2",
+			group = 0
+		},
+		{
+			id = 106089,
+			prob = 0,
+			name = "[Event] Western Oval Artifact 8",
+			group = 0
+		}
+	},
+	[106119] = {
+		{
+			id = 6909,
+			prob = 0,
+			name = "Nyangvine 288",
+			group = 0
+		},
+		{
+			id = 23629,
+			prob = 0,
+			name = "Costume Stone Box 14 2",
+			group = 0
+		},
+		{
+			id = 106089,
+			prob = 0,
+			name = "[Event] Western Oval Artifact 16",
+			group = 0
+		}
+	},
+	[106127] = {
+		{
+			id = 106089,
+			prob = 0,
+			name = "[Event] Western Oval Artifact",
+			group = 0
+		}
+	},
 	[200001] = {
 		{
 			id = 25793,
@@ -50949,9 +51845,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105995,
+			id = 106127,
 			prob = 1,
-			name = "Unknown Item 11",
+			name = "[Event] Artifact Bag 11",
 			group = 0
 		}
 	},
@@ -50963,9 +51859,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105995,
+			id = 106127,
 			prob = 1,
-			name = "Unknown Item",
+			name = "[Event] Artifact Bag",
 			group = 0
 		}
 	},
@@ -51089,9 +51985,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105995,
+			id = 106127,
 			prob = 1,
-			name = "Unknown Item 11",
+			name = "[Event] Artifact Bag 11",
 			group = 0
 		}
 	},
@@ -51103,9 +51999,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105995,
+			id = 106127,
 			prob = 1,
-			name = "Unknown Item",
+			name = "[Event] Artifact Bag",
 			group = 0
 		}
 	},
@@ -51183,9 +52079,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105995,
+			id = 106127,
 			prob = 1,
-			name = "Unknown Item 11",
+			name = "[Event] Artifact Bag 11",
 			group = 0
 		}
 	},
@@ -51197,9 +52093,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105995,
+			id = 106127,
 			prob = 1,
-			name = "Unknown Item",
+			name = "[Event] Artifact Bag",
 			group = 0
 		}
 	},
@@ -51681,9 +52577,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 105995,
+			id = 106127,
 			prob = 1,
-			name = "Unknown Item 11",
+			name = "[Event] Artifact Bag 11",
 			group = 0
 		}
 	},

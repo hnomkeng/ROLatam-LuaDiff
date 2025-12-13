@@ -1215,7 +1215,7 @@
     },
     "s2TDCQ": {
         "en": "^FF0000 Caution ^000000\n^FF0000This upgrade can be failed.^000000\n^FF0000Success: existing enchant stone(if any) in {0} will be replaced with {1}.^000000\n^FF0000Failure: existing enchant stone and new enchant stone will be destroyed.^000000\n^FF0000Are you sure about upgrading this item?^000000",
-        "pt": "^FF0000 Ø Avisos Ø^000000\n^FF0000Há uma chance de falha.^000000\n^FF0000O encanto{1}será adicionado no Visual equipável em{0}^000000\n^FF0000Posso continuar?^000000",
+        "pt": "^FF0000 Ø Avisos Ø^000000\n^FF0000Há uma chance de falha.^000000\n^FF0000O encanto [{1}] será adicionado no Visual equipável em {0}.^000000\n^FF0000Posso continuar?^000000",
         "es": "^FF0000 Precaución ^000000\n^FF0000Esta mejora puede fallar.^000000\n^FF0000Éxito: La piedra de encantamiento existente (si la hay) en {0} se reemplazará con {1}.^000000\n^FF0000Error: La piedra de encantamiento existente y la nueva serán destruidas.^000000\n^FF0000¿Estás seguro de mejorar este objeto?^000000"
     },
     "tGTDCQ": {
@@ -1505,7 +1505,7 @@
     },
     "7WTDCQ": {
         "en": "^FF0000 Caution ^000000\n^FF0000This upgrade can be failed.^000000\n^FF0000Success: existing enchant stone(if any) in {0} will be replaced with {1}.^000000\n^FF0000Failure: existing enchant stone in {0} and new enchant stone will be destroyed.^000000\n^FF0000Are you sure about upgrading this item?^000000",
-        "pt": "^FF0000Ø Avisos Ø^000000\n^FF0000Há uma chance de falha.^000000\n^FF0000O encanto{1}{1}será adicionado no Visual que equipa em{0}.^000000\n^FF0000Posso continuar?^000000",
+        "pt": "^FF0000Ø Avisos Ø^000000\n^FF0000Há uma chance de falha.^000000\n^FF0000O encanto [{1}]  será adicionado no Visual que equipa em [{0}].^000000\n^FF0000Posso continuar?^000000",
         "es": "^FF0000 Precaución ^000000\n^FF0000Esta mejora puede fallar.^000000\n^FF0000Éxito: La piedra de encantamiento existente (si la hay) en {0} se reemplazará con {1}.^000000\n^FF0000Fallo: La piedra de encantamiento existente en {0} y la nueva piedra de encantamiento se destruirán.^000000\n^FF0000¿Estás seguro de mejorar este objeto?^000000"
     },
     "7mTDCQ": {
@@ -1645,7 +1645,7 @@
     },
     "CWXDCQ": {
         "en": "Twinkle({0})",
-        "pt": "Pedra de Efeito Cintilante (Meio) ({0} un)",
+        "pt": "Pedra Gráfica: Cintilação ({0} un)",
         "es": "Brillo ({0})"
     },
     "CmXDCQ": {
@@ -1655,62 +1655,62 @@
     },
     "C2XDCQ": {
         "en": "Ghost({0})",
-        "pt": "Pedra de Efeito Fantasma (Meio) ({0} un)",
+        "pt": "Pedra Gráfica: Fantasmas ({0} un)",
         "es": "Fantasma {0})"
     },
     "DGXDCQ": {
         "en": "Electric({0})",
-        "pt": "Pedra de Efeito Elétrico (Meio) ({0} un)",
+        "pt": "Pedra Gráfica: Raios Azuis ({0} un)",
         "es": "Eléctrico {0})"
     },
     "DWXDCQ": {
         "en": "Shrink({0})",
-        "pt": "Pedra de Efeito Encolhido (Meio) ({0} un)",
+        "pt": "Pedra Gráfica: Miniatura ({0} un)",
         "es": "Encoger {0})"
     },
     "DmXDCQ": {
         "en": "BlueAura({0})",
-        "pt": "Pedra de Efeito Aura Azul (Meio) ({0} un)",
+        "pt": "Pedra Gráfica: Aura Azul (Meio) ({0} un)",
         "es": "Aura Azul {0})"
     },
     "D2XDCQ": {
         "en": "Shadow({0})",
-        "pt": "Pedra de Efeito Sombra (Meio) ({0} un)",
+        "pt": "Pedra Gráfica: Sombra ({0} un)",
         "es": "Sombra {0})"
     },
     "EGXDCQ": {
         "en": "Pink Glow({0})",
-        "pt": "Pedra de Efeito Bolinha Rosa (Meio) ({0} un)",
+        "pt": "Pedra Gráfica: Bolha Rosa ({0} un)",
         "es": "Resplandor Rosa {0})"
     },
     "EWXDCQ": {
         "en": "White Body({0})",
-        "pt": "Pedra de Efeito Esbranquiçado (Meio) ({0} un)",
+        "pt": "Pedra Gráfica: Palidez ({0} un)",
         "es": "Cuerpo Blanco {0})"
     },
     "EmXDCQ": {
         "en": "Crimson Wave({0})",
-        "pt": "Pedra de Efeito Faísca (Meio) ({0} un)",
+        "pt": "Pedra Gráfica: Raios Vermelhos ({0} un)",
         "es": "Ola Carmesí {0})"
     },
     "E2XDCQ": {
         "en": "Green Floor({0})",
-        "pt": "Pedra de Efeito Aura Verde (Baixo) ({0} un)",
+        "pt": "Pedra Gráfica: Aura Verde ({0} un)",
         "es": "Suelo Verde {0})"
     },
     "FGXDCQ": {
         "en": "Water Field({0})",
-        "pt": "Pedra de Efeito Lagoa (Baixo) ({0} un)",
+        "pt": "Pedra Gráfica: Poça d'Água ({0} un)",
         "es": "Campo de Agua {0})"
     },
     "FWXDCQ": {
         "en": "Shrink({0})",
-        "pt": "Pedra de Efeito Encolhido (Baixo) ({0} un)",
+        "pt": "Pedra Gráfica: Miniatura (Baixo) ({0} un)",
         "es": "Encoger {0})"
     },
     "FmXDCQ": {
         "en": "^FF0000 Caution ^000000\n^FF0000The effect applies to only 1 equipment regardless of the location.^000000\n^FF0000Applying {0} to {1}.^000000\n^FF0000Please confirm.^000000",
-        "pt": "^FF0000 Ø ATENÇÃO Ø^000000\n^FF0000Não há chances de falha.^000000\n^FF0000O visual ({1}) será encantado com [{0}]^000000\n^FF0000Deseja continuar?^000000",
+        "pt": "^FF0000 Ø ATENÇÃO Ø^000000\n^FF0000Não há chances de falha.^000000\n^FF0000O encanto [{0}]  será adicionado no Visual que equipa em [{1}].^000000\n^FF0000Deseja continuar?^000000",
         "es": "^FF0000 Precaución ^000000\n^FF0000El efecto solo se aplica a un equipo, independientemente de la ubicación.^000000\n^FF0000Aplicando {0} a {1}.^000000\n^FF0000Por favor, confirma.^000000"
     },
     "F2XDCQ": {
@@ -1810,12 +1810,12 @@
     },
     "KmXDCQ": {
         "en": "Toothless Footprints ({0} left)",
-        "pt": "Pegadas do Banguela ({0} restantes)",
+        "pt": "Pegadas do Banguela ({0} un)",
         "es": "Huellas de Chimuelo ({0} restantes)"
     },
     "K2XDCQ": {
         "en": "Bouncing Toothless Footprints ({0} left)",
-        "pt": "Pulinhos do Banguela ({0} restantes)",
+        "pt": "Pulinhos do Banguela ({0} un)",
         "es": "Huellas Saltarinas de Chimuelo ({0} restantes)"
     },
     "LGXDCQ": {
