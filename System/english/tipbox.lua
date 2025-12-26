@@ -1008,6 +1008,213 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 				<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>]]
 		}
 	},
+	[4193] = {
+		Title = "Monster Society",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Visit the Monster Society Assistants to teleport to the Hunting Mission Agent.\n\t\t\t\n\t\t\t<NAVI>[Assistant Mumuz]<INFO>rachel,142,152,0,101,0</INFO></NAVI>\n\t\t\t<NAVI>[Assistant Eureka]<INFO>veins,215,122,0,101,0</INFO></NAVI>\n\t\t\t<NAVI>[Assistant Stafe]<INFO>lighthalzen,171,106,0,101,0</INFO></NAVI>\n\t\t\t<NAVI>[Assistant Lemain]<INFO>einbroch,246,186,0,101,0</INFO></NAVI>\n\t\t\t<NAVI>[Assistant Avery]<INFO>yuno,177,179,0,101,0</INFO></NAVI>\n\t\t\t<NAVI>[Assistant Kihana]<INFO>geffen,151,68,0,101,0</INFO></NAVI>\n\t\t\t<NAVI>[Assistant Alonzo]<INFO>prontera,168,125,0,101,0</INFO></NAVI>\n\t\t\t<NAVI>[Assistant Dunea]<INFO>alberta,124,59,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>Ø [71] Northwest Geffen<INFO>4196</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [75] Thanatos Entrance<INFO>4198</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [75] Star Coral<INFO>4199</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [75] Turtle Island<INFO>4197</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [80] Turtle Cave<INFO>4200</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [80] Turtle Village<INFO>4201</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [70] Northeast Einbroch<INFO>4194</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [76] Northwest Einbroch<INFO>4202</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [71] North Lighthalzen<INFO>4195</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [77] Lighthalzen Field<INFO>4203</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [80] Ida Plain<INFO>4204</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [85] North Ida Plain<INFO>4206</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [86] Hill Village<INFO>4209</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [85] Ice Cave<INFO>4208</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [86] Audhumbla Prairie<INFO>4210</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [87] Kobold Village<INFO>4211</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [88] Wolf Den<INFO>4215</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [93] Portus Luna<INFO>4212</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [86] Veins Fields<INFO>4205</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [90] Veins Fields<INFO>4207</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [90] Volcano Surroundings<INFO>4213</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [95] Volcano Entrance<INFO>4214</INFO></TIPBOX>\n\t\t\t\n\t\t\t<TIPBOX>» Missions<INFO>4100</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Missions by Level<INFO>4115</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Home Page<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4194] = {
+		Title = "Ø [70] Northeast Einbroch",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"There is a hunting mission in the surroundings of Einbroch. Talk to the Agent to start.\n\t\t\tMap: Northeast Einbroch\n\t\t\tTarget: Holden and Metaling\n\t\t\t^663399Minimum Level: 70^000000\n\t\t\t\n\t\t\t<NAVI>[Agent Infinity]<INFO>ein_fild06,257,351,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Monster Society<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Home Page<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4195] = {
+		Title = "Ø [71] North Lighthalzen#70",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"There is a hunting mission in the surroundings of Lighthalzen. Talk to the Agent to start.\n\t\t\tMap: North Lighthalzen\n\t\t\tTarget: Rafflesia, Wormtail and Metaling\n\t\t\t^663399Minimum Level: 71^000000\n\t\t\t\n\t\t\t<NAVI>[Agent Lippiri]<INFO>lhz_fild01,240,107,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Monster Society<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Home Page<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4196] = {
+		Title = "Ø [71] Northwest Geffen#70",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"There is a hunting mission in the surroundings of Geffen. Talk to the Agent to start.\n\t\t\tMap: Northwest Geffen­\n\t\t\tTarget: Petite Verde, Stalker and Mantis\n\t\t\t^663399Minimum Level: 71^000000\n\t\t\t\n\t\t\t<NAVI>[Agent Geppel]<INFO>gef_fild06,209,31,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Monster Society<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Home Page<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4197] = {
+		Title = "Ø [75] Turtle Island#70",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"There is a hunting mission on Turtle Island. Talk to the Agent to start.\n\t\t\tMap: Turtle Island\n\t\t\tTarget: Rabbit, Laundress, Plague and Scout\n\t\t\t^663399Minimum Level: 75^000000\n\t\t\t\n\t\t\t<NAVI>[Agent Terel]<INFO>tur_dun01,159,46,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Monster Society<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Home Page<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4198] = {
+		Title = "Ø [75] Thanatos Entrance#70",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"There is a hunting mission at the entrance of Thanatos Tower. Talk to the Agent to start.\n\t\t\tMap: Hugel Surroundings\n\t\t\tTarget: Novus, Dragon Egg and Carnivorous Plant\n\t\t\t^663399Minimum Level: 75^000000\n\t\t\t\n\t\t\t<NAVI>[Agent Hugo]<INFO>hu_fild01,133,157,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Monster Society<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Home Page<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4199] = {
+		Title = "Ø [75] Star Coral#70",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"There is a hunting mission in the Malangdo cave. Talk to the Agent to start.\n\t\t\tMap: Star Coral\n\t\t\tTarget: Red Eruma and Siorava\n\t\t\t^663399Minimum Level: 75^000000\n\t\t\t\n\t\t\t<NAVI>[Agent Madewon]<INFO>mal_dun01,141,126,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Monster Society<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Home Page<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4200] = {
+		Title = "Ø [80] Turtle Cave",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"There is a hunting mission in the Turtle Island cave. Talk to the Agent to start.\n\t\t\tMap: Turtle Island Cave\n\t\t\tTarget: Plague, Scout, Hardener and Freezer\n\t\t\t^663399Minimum Level: 80^000000\n\t\t\t\n\t\t\t<NAVI>[Agent Tydon]<INFO>tur_dun02,151,256,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Monster Society<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Home Page<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4201] = {
+		Title = "Ø [80] Turtle Village",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"There is a hunting mission in the Turtle Island cave. Talk to the Agent to start.\n\t\t\tMap: Good Turtle Village\n\t\t\tTarget: Aggressor, Heater, Freezer and Scout\n\t\t\t^663399Minimum Level: 80^000000\n\t\t\t\n\t\t\t<NAVI>[Agent Tsen­]<INFO>tur_dun03,125,186,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Monster Society<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Home Page<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4202] = {
+		Title = "Ø [76] Northwest Einbroch#70",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"There is a hunting mission in the surroundings of Einbroch. Talk to the Agent to start.\n\t\t\tMap: Northwest Einbroch\n\t\t\tTarget: Teddy Bear, Miners, Toxic Cloud and Poisonous Cloud\n\t\t\t^663399Minimum Level: 76^000000\n\t\t\t\n\t\t\t<NAVI>[Agent Tailing]<INFO>ein_fild03,135,46,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Monster Society<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Home Page<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4203] = {
+		Title = "Ø [77] Lighthalzen Field#70",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"There is a hunting mission in the surroundings of Lighthalzen. Talk to the Agent to start.\n\t\t\tMap: Lighthalzen Field\n\t\t\tTarget: Breeze, Wormtail, Metalling and Rafflesia\n\t\t\t^663399Minimum Level: 77^000000\n\t\t\t\n\t\t\t<NAVI>[Agent Madaka]<INFO>lhz_fild03,167,344,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Monster Society<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Home Page<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4204] = {
+		Title = "Ø [80] Ida Plain",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"There is a hunting mission in Ida Plain. Talk to the Agent to start.\n\t\t\tMap: Ida Plain\n\t\t\tTarget: Anopheles and Roween\n\t\t\t^663399Minimum Level: 80^000000\n\t\t\t\n\t\t\t<NAVI>[Agent Karina]<INFO>ra_fild12,50,219,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Monster Society<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Home Page<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4205] = {
+		Title = "Ø [86] Veins Fields#80",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"There is a hunting mission in the surroundings of Veins. Talk to the Agent to start.\n\t\t\tMap: Veins Fields\n\t\t\tTarget: Stapo, Drosera and Muscipular\n\t\t\t^663399Minimum Level: 86^000000\n\t\t\t\n\t\t\t<NAVI>[Agent Chaveco]<INFO>ve_fild07,158,354,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Monster Society<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Home Page<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4206] = {
+		Title = "Ø [85] North Ida Plain#80",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"There is a hunting mission in Ida Plain. Talk to the Agent to start.\n\t\t\tMap: North Ida Plain\n\t\t\tTarget: Anaconda, Roween, Anopheles and Hill Wind\n\t\t\t^663399Minimum Level: 85^000000\n\t\t\t\n\t\t\t<NAVI>[Agent Ersia]<INFO>ra_fild08,163,47,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Monster Society<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Home Page<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4207] = {
+		Title = "Ø [90] Veins Fields",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"There is a hunting mission in the surroundings of Veins. Talk to the Agent to start.\n\t\t\tMap: Veins Fields\n\t\t\tTarget: Galion, Stapo, Drosera and Muscipular\n\t\t\t^663399Minimum Level: 90^000000\n\t\t\t\n\t\t\t<NAVI>[Agent Suiron]<INFO>ve_fild01,354,280,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Monster Society<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Home Page<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4208] = {
+		Title = "Ø [85] Ice Cave#80",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"There is a hunting mission in the Ice Cave. Talk to the Agent to start.\n\t\t\tMap: Ice Cave\n\t\t\tTarget: Siroma, Gazeti, Muscipular and Roween\n\t\t\t^663399Minimum Level: 85^000000\n\t\t\t\n\t\t\t<NAVI>[Agent Dora]<INFO>ice_dun01,161,13,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Monster Society<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Home Page<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4209] = {
+		Title = "Ø [86] Hill Village#80",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"There is a hunting mission in Ida Plain. Talk to the Agent to start.\n\t\t\tMap: Rachel Surroundings\n\t\t\tTarget: Hill Wind, Roween, Anopheles and Anaconda\n\t\t\t^663399Minimum Level: 86^000000\n\t\t\t\n\t\t\t<NAVI>[Agent Lauren]<INFO>ra_fild03,368,183,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Monster Society<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Home Page<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4210] = {
+		Title = "Ø [86] Audhumbla Prairie#80",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"There is a hunting mission in the surroundings of Rachel. Talk to the Agent to start.\n\t\t\tMap: Rachel Surroundings\n\t\t\tTarget: Hill Wind, Desert Wolf, Roween and Anopheles\n\t\t\t^663399Minimum Level: 86^000000\n\t\t\t\n\t\t\t<NAVI>[Agent Sukumari]<INFO>ra_fild04,274,69,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Monster Society<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Home Page<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4211] = {
+		Title = "Ø [87] Kobold Village#80",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"There is a hunting mission in the surroundings of Rachel. Talk to the Agent to start.\n\t\t\tMap: Rachel Surroundings\n\t\t\tTarget: Kobold, Anopheles\n\t\t\t^663399Minimum Level: 87^000000\n\t\t\t\n\t\t\t<NAVI>[Agent Valangela]<INFO>ra_fild05,48,356,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Monster Society<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Home Page<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4212] = {
+		Title = "Ø [93] Portus Luna#90",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"There is a hunting mission in the surroundings of Rachel. Talk to the Agent to start.\n\t\t\tMap: Portus Luna\n\t\t\tTarget: Kobold Archer, Kobold, Anopheles\n\t\t\t^663399Minimum Level: 93^000000\n\t\t\t\n\t\t\t<NAVI>[Agent Kantu]<INFO>ra_fild06,292,39,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Monster Society<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Home Page<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4213] = {
+		Title = "Ø [90] Volcano Surroundings",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"There is a hunting mission in the surroundings of Veins. Talk to the Agent to start.\n\t\t\tMap: Veins Surroundings\n\t\t\tTarget: Muscipular, Drosera and Galion\n\t\t\t^663399Minimum Level: 90^000000\n\t\t\t\n\t\t\t<NAVI>[Agent Rania]<INFO>ve_fild04,52,242,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Monster Society<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Home Page<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4214] = {
+		Title = "Ø [95] Volcano Entrance#90",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"There is a hunting mission in the surroundings of Veins. Talk to the Agent to start.\n\t\t\tMap: Veins Surroundings\n\t\t\tTarget: Muscipular, Drosera and Magmaring\n\t\t\t^663399Minimum Level: 95^000000\n\t\t\t\n\t\t\t<NAVI>[Agent Dew]<INFO>ve_fild03,348,230,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Monster Society<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Home Page<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4215] = {
+		Title = "Ø [88] Wolf Den#80",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"There is a hunting mission in the surroundings of Rachel. Talk to the Agent to start.\n\t\t\tMap: Rachel Surroundings\n\t\t\tTarget: Desert Wolf, Roween, Anopheles\n\t\t\t^663399Minimum Level: 88^000000\n\t\t\t\n\t\t\t<NAVI>[Agent Siaro]<INFO>ra_fild01,224,319,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Monster Society<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Home Page<INFO>1000</INFO></TIPBOX>"
+		}
+	},
 	[7132] = {
 		Title = "Ghost Palace (120)#Dimensional Rift",
 		Search = 1,
@@ -1141,6 +1348,166 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
 			"The discovery of a futuristic city is mobilizing historians, archaeologists, travelers, and adventurers for a journey that aims to revolutionize science!\n\n\t\t\t<TIPBOX>» EP 15.1<INFO>10001</INFO></TIPBOX>\n\t\t\t<TIPBOX>» EP 15.2<INFO>10013</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>» View Episode List<INFO>4101</INFO></TIPBOX>\n\t\t\t<TIPBOX>» View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9085] = {
+		Title = "Illusion",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			[[
+A place that is neither here nor now, yet still real and present. From this side you can see the other, but from the other side this place cannot be seen. These interdimensional spaces are called Illusions.
+			Illusions generally have no drop-rate or experience-level penalties and are dimensional lands where <ITEM>[Phantom Stone]<INFO>25271</INFO></ITEM> can always be found.
+			
+			<TIPBOX>Illusion of Moonlight<INFO>9086</INFO></TIPBOX>
+			<TIPBOX>Illusion of Vampire<INFO>9087</INFO></TIPBOX>
+			<TIPBOX>Illusion of Frozen<INFO>9088</INFO></TIPBOX>
+			<TIPBOX>Illusion of Gu Yanggong<INFO>9089</INFO></TIPBOX>
+			<TIPBOX>Illusion of Teddy Bear<INFO>9090</INFO></TIPBOX>
+			<TIPBOX>Illusion of Luanda<INFO>9091</INFO></TIPBOX>
+			<TIPBOX>Illusion of Labyrinth<INFO>9092</INFO></TIPBOX>
+			<TIPBOX>Illusion of Underwater<INFO>9093</INFO></TIPBOX>
+			<TIPBOX>Illusion of Twins<INFO>9157</INFO></TIPBOX>
+			
+			About the Illusion Research Team
+			The Illusion Research Team, which specializes in studying Illusions, welcomes all adventurers wishing to explore them.
+			After applying for membership with the team leader <NAVI>[Joel]<INFO>prt_in,136,34,</INFO></NAVI> in Prontera, you can perform daily subjugation quests inside each Illusion dungeon.
+			<TIPBOX>Illusion Research Team<INFO>9126</INFO></TIPBOX>
+			
+			<TIPBOX>Back to Previous Page<INFO>4100</INFO></TIPBOX>
+			<TIPBOX>View Tip List<INFO>1000</INFO></TIPBOX>]]
+		}
+	},
+	[9157] = {
+		Title = "Illusion of Twins",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			[=[
+An unknown space discovered somewhere on the second floor of Ant Hell.
+			They say an adventurer entered alone, claiming a friend identical to themselves was in danger.
+			The adventurer's companions insist they must have seen a hallucination, and ask for a rescue...
+			^663399Level 160 or higher^000000
+			
+			<NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>
+			
+			Illusion Research Team Subjugation Quest
+			<TIPBOX>Q Defeat 100 Illusion of Twins monsters (160)<INFO>10088</INFO></TIPBOX>
+			
+			Daily quests available after completing the main quest
+			<TIPBOX>Q Geological Survey (160)<INFO>9158</INFO></TIPBOX>
+			<TIPBOX>Q Source of Power (160)<INFO>9159</INFO></TIPBOX>
+			<TIPBOX>Q Identical Things (160)<INFO>9160</INFO></TIPBOX>
+			<TIPBOX>Q Shared Memories (160)<INFO>9161</INFO></TIPBOX>
+			
+			While progressing through Illusion of Twins, you can use <ITEM>[Phantom Stone]<INFO>25271</INFO></ITEM> and other items obtained there as materials to exchange certain equipment for enhanced versions.
+			The equipment to be exchanged must be refined to +9 or higher, and all previous upgrades, cards, and options will be removed.
+			^663399Exchange Location^000000
+			<NAVI>[Fromm]<INFO>ant_d02_i,175,186,0,101,0</INFO></NAVI>
+			<ITEM>[Illusion Sprint Mail[1]]<INFO>450182</INFO></ITEM>
+			+9 <ITEM>[Sprint Mail[1]]<INFO>2387</INFO></ITEM>, <ITEM>[Bat Furball]<INFO>1000517</INFO></ITEM> 125 ea, <ITEM>[Worn Gaia Hat]<INFO>1000514</INFO></ITEM> 55 ea, <ITEM>[Phantom Stone]<INFO>25271</INFO></ITEM> 100 ea
+			<ITEM>[Illusion Sprint Shoes[1]]<INFO>470066</INFO></ITEM>
+			+9<ITEM>[Sprint Shoes[1]]<INFO>2440</INFO></ITEM>, <ITEM>[Small Shovel]<INFO>1000515</INFO></ITEM> 75 ea, <ITEM>[Ant Leg]<INFO>1000511</INFO></ITEM> 125 ea, <ITEM>[Phantom Stone]<INFO>25271</INFO></ITEM> 100 ea
+			<ITEM>[Illusion Dark<INFO>550030</INFO></ITEM>
+			<ITEM>Thorn Staff[2]]<INFO>550030</INFO></ITEM>
+			+9<ITEM>[Dark Thorn Staff]<INFO>1636</INFO></ITEM>, <ITEM>[Bat Jawbone]<INFO>1000516</INFO></ITEM> 75 ea, <ITEM>[Small Shovel]<INFO>1000515</INFO></ITEM> 75 ea, <ITEM>[Phantom Stone]<INFO>25271</INFO></ITEM> 135 ea
+			<ITEM>[Illusion Staff of<INFO>550031</INFO></ITEM>
+			<ITEM>Dea[2]]<INFO>550031</INFO></ITEM>
+			+9 <ITEM>[Staff of Dea[1]]<INFO>2005</INFO></ITEM>, <ITEM>[Maya's Crown]<INFO>1000518</INFO></ITEM> 15 ea, <ITEM>[Ant Leg]<INFO>1000511</INFO></ITEM> 125 ea, <ITEM>[Small Shovel]<INFO>1000515</INFO></ITEM> 75 ea, <ITEM>[Phantom Stone]<INFO>25271</INFO></ITEM> 150 ea
+			<ITEM>[Illusion Gelerdria[2]]<INFO>530015</INFO></ITEM>
+			+9 <ITEM>[Gelerdria]<INFO>1414</INFO></ITEM>, <ITEM>[Worn Gaia Hat]<INFO>1000514</INFO></ITEM> 55 ea, <ITEM>[Ant Antenna]<INFO>1000510</INFO></ITEM> 125 ea, <ITEM>[Phantom Stone]<INFO>25271</INFO></ITEM> 150 ea
+			<ITEM>[Illusion Excalibur[2]]<INFO>500030</INFO></ITEM>
+			+9 <ITEM>[Excalibur]<INFO>1137</INFO></ITEM>, <ITEM>[Bat Jawbone]<INFO>1000516</INFO></ITEM> 75 ea, <ITEM>[Dangerous Acid]<INFO>1000513</INFO></ITEM> 75 ea, <ITEM>[Phantom Stone]<INFO>25271</INFO></ITEM> 135 ea
+			<ITEM>[Illusion Doom Slayer[2]]<INFO>620010</INFO></ITEM>
+			+9 <ITEM>[Doom Slayer]<INFO>1370</INFO></ITEM>, <ITEM>[Dangerous Acid]<INFO>500030</INFO></ITEM> 75 ea, <ITEM>[Ant Leg]<INFO>1000511</INFO></ITEM> 125 ea, <ITEM>[Phantom Stone]<INFO>25271</INFO></ITEM> 150 ea
+			<ITEM>[Illusion Ancient Dagger[2]]<INFO>510034</INFO></ITEM>
+			+9 <ITEM>[Ancient Dagger]<INFO>13062</INFO></ITEM>, <ITEM>[Bat Jawbone]<INFO>1000516</INFO></ITEM> 75 ea, <ITEM>[Bat Furball]<INFO>1000517</INFO></ITEM> 125 ea, <ITEM>[Phantom Stone]<INFO>25271</INFO></ITEM> 135 ea
+			<ITEM>[Illusion Guard[1]]<INFO>460017</INFO></ITEM>
+			+9 <ITEM>[Guard]<INFO>2101</INFO></ITEM>, <ITEM>[Ant Antenna]<INFO>1000510</INFO></ITEM> 75 ea, <ITEM>[Bat Furball]<INFO>1000517</INFO></ITEM> 125 ea, <ITEM>[Phantom Stone]<INFO>25271</INFO></ITEM> 100 ea
+			<ITEM>[Illusion Silver Guard[1]]<INFO>460018</INFO></ITEM>
+			+9 <ITEM>[Silver Guard[1]]<INFO>2146</INFO></ITEM>, <ITEM>[Ant Jaw]<INFO>1000512</INFO></ITEM> 55 ea, <ITEM>[Ant Antenna]<INFO>1000510</INFO></ITEM> 125 ea, <ITEM>[Phantom Stone]<INFO>25271</INFO></ITEM> 100 ea
+			<ITEM>[Illusion Sprint Ring[1]]<INFO>490120</INFO></ITEM>
+			<ITEM>[Sprint Ring]<INFO>2744</INFO></ITEM>, <ITEM>[Dangerous Acid]<INFO>1000513</INFO></ITEM> 75 ea, <ITEM>[Ant Antenna]<INFO>1000510</INFO></ITEM> 125 ea, <ITEM>[Phantom Stone]<INFO>25271</INFO></ITEM> 120 ea
+			<ITEM>[Illusion Sprint<INFO>490121</INFO></ITEM>
+			<ITEM>Glove[1]]<INFO>490121</INFO></ITEM>
+			<ITEM>[Sprint Glove[1]]<INFO>2935</INFO></ITEM>, <ITEM>[Ant Jaw]<INFO>1000512</INFO></ITEM> 55 ea, <ITEM>[Bat Furball]<INFO>1000517</INFO></ITEM> 125 ea, <ITEM>[Phantom Stone]<INFO>25271</INFO></ITEM> 120 ea
+
+			<TIPBOX>Back to Previous Page<INFO>9085</INFO></TIPBOX>
+			<TIPBOX>View Tip List<INFO>1000</INFO></TIPBOX>]=]
+		}
+	},
+	[9158] = {
+		Title = "Q Geological Survey (160)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			[[
+Mirko asks you to retrieve 20 Dry Sand from the bold Gaius.
+	
+			<NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>
+
+	<TIPBOX>Illusion of Twins<INFO>9157</INFO></TIPBOX> Complete
+	^663399Level 160 or higher^000000
+
+	<TIPBOX>Back to Previous Page<INFO>9093</INFO></TIPBOX>
+	<TIPBOX>View Tip List<INFO>1000</INFO></TIPBOX>]]
+		}
+	},
+	[9159] = {
+		Title = "Q Source of Power (160)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			[[
+Mirko asks you to retrieve 20 Opaque Liquids from the diligent Deniro and diligent Andre.
+	
+			<NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>
+
+	<TIPBOX>Illusion of Twins<INFO>9157</INFO></TIPBOX> Complete
+	^663399Level 160 or higher^000000
+
+	<TIPBOX>Back to Previous Page<INFO>9093</INFO></TIPBOX>
+	<TIPBOX>View Tip List<INFO>1000</INFO></TIPBOX>]]
+		}
+	},
+	[9160] = {
+		Title = "Q Things Alike (160)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			[[
+Mirko asks you to defeat 10 of each: diligent Vitata, diligent Soldier Andre, and diligent Pierre.
+	
+			<NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>
+
+	<TIPBOX>Illusion of Twins<INFO>9157</INFO></TIPBOX> Complete
+	^663399Level 160 or higher^000000
+
+	<TIPBOX>Back to Previous Page<INFO>9093</INFO></TIPBOX>
+	<TIPBOX>View Tip List<INFO>1000</INFO></TIPBOX>]]
+		}
+	},
+	[9161] = {
+		Title = "Q Shared Memory (160)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			[[
+Mirko asks you to gather 20 Recognition Shells.
+	
+			<NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>
+
+	<TIPBOX>Illusion of Twins<INFO>9157</INFO></TIPBOX> Complete
+	^663399Level 160 or higher^000000
+
+	<TIPBOX>Back to Previous Page<INFO>9093</INFO></TIPBOX>
+	<TIPBOX>View Tip List<INFO>1000</INFO></TIPBOX>]]
 		}
 	}
 }

@@ -1,650 +1,1298 @@
 {
     "YBhYDA": {
-        "ko": "조사관 테일링"
+        "ko": "조사관 테일링",
+        "en": "Investigator Tailing",
+        "pt": "Agente Tailing",
+        "es": "Agente Tailing"
     },
     "YRhYDA": {
-        "ko": "<유노 몬스터 학회>"
+        "ko": "<유노 몬스터 학회>",
+        "en": "<Juno Monster Society>",
+        "pt": "Sociedade de Monstros",
+        "es": "Sociedad de Monstruos"
     },
     "YhhYDA": {
-        "ko": "- 소지하고 계신 아이템이 많아 진행할 수 없습니다. -"
+        "ko": "- 소지하고 계신 아이템이 많아 진행할 수 없습니다. -",
+        "en": "- You cannot proceed because you have too many items. -",
+        "pt": "- Você tem muitos itens e não pode prosseguir. -",
+        "es": "'- Tienes demasiados ítems y no puedes continuar. -"
     },
     "YxhYDA": {
-        "ko": "[조사관 테일링]\n유노 몬스터 학회에서는 토벌 의뢰를 진행하고 있습니다. 근데 아직 의뢰를 수행하기에는 조금 약해 보이시네요."
+        "ko": "[조사관 테일링]\n유노 몬스터 학회에서는 토벌 의뢰를 진행하고 있습니다. 근데 아직 의뢰를 수행하기에는 조금 약해 보이시네요.",
+        "en": "[Investigator Tailing]\nYou are too weak, I only accept Adventurer with level 76 or above.",
+        "pt": "[Agente Tailing]\nA Sociedade Juniana de Monstros só aceita viajantes com o nível de base adequado para as missões.",
+        "es": "[Agente Tailing]\nLa Sociedad Juniana de Monstruos solo acepta viajeros con el nivel base adecuado para las misiones."
     },
     "ZBhYDA": {
-        "ko": "[조사관 테일링]\n안녕하세요!! 유노 몬스터 학회에서 파견 온 조사관 테일링이라고 합니다!"
+        "ko": "[조사관 테일링]\n안녕하세요!! 유노 몬스터 학회에서 파견 온 조사관 테일링이라고 합니다!",
+        "en": "[Investigator Tailing]\nHello!! I'm Tailing, an investigator dispatched from the Juno Monster Society!",
+        "pt": "[Agente Tailing]\nOlá!! Me chamo Tailing, sou da Sociedade Juniana de Monstros!",
+        "es": "[Agente Tailing]\n¡Hola!! Me llamo Tailing, soy de la Sociedad Juniana de Monstruos."
     },
     "ZRhYDA": {
-        "ko": "토벌 의뢰를 받는다."
+        "ko": "토벌 의뢰를 받는다.",
+        "en": "Receive hunting quest.",
+        "pt": "Iniciar caçada.",
+        "es": "Iniciar cacería."
     },
     "ZhhYDA": {
-        "ko": "가까운 도시로 순간이동."
+        "ko": "가까운 도시로 순간이동.",
+        "en": "Teleport to nearby city.",
+        "pt": "Teleportar para cidade.",
+        "es": "Teletransportar a ciudad."
     },
     "ZxhYDA": {
-        "ko": "토벌 의뢰에 대해 묻는다."
+        "ko": "토벌 의뢰에 대해 묻는다.",
+        "en": "About hunting quest.",
+        "pt": "Perguntar como funciona.",
+        "es": "Preguntar cómo funciona."
     },
     "aBhYDA": {
-        "ko": "다음에 온다."
+        "ko": "다음에 온다.",
+        "en": "Goodbye.",
+        "pt": "Te vejo depois.",
+        "es": "Nos vemos luego."
     },
     "aRhYDA": {
-        "ko": "[조사관 테일링]\n오, 의뢰를 받으시겠어요?"
+        "ko": "[조사관 테일링]\n오, 의뢰를 받으시겠어요?",
+        "en": "[Investigator Tailing]\nOh, would you like to take a quest?",
+        "pt": "[Agente Tailing]\nAh, você deseja fazer a missão de caça?",
+        "es": "[Agente Tailing]\nAh, ¿deseas realizar la misión de caza?"
     },
     "ahhYDA": {
-        "ko": "[조사관 테일링]\n제가 나와 있는 이 필드에 존재하는 몬스터 80마리를 처치해주시면 됩니다."
+        "ko": "[조사관 테일링]\n제가 나와 있는 이 필드에 존재하는 몬스터 80마리를 처치해주시면 됩니다.",
+        "en": "[Investigator Tailing]\nYou just need to defeat 80 monsters in this field where I am.",
+        "pt": "[Agente Tailing]\nVocê só precisa eliminar 80 monstros de qualquer espécie nesse mapa.",
+        "es": "[Agente Tailing]\nSolo necesitas eliminar 80 monstruos de cualquier especie en este mapa."
     },
     "axhYDA": {
-        "ko": "[조사관 테일링]\n그럼 기다리고 있겠습니다, 무사히 돌아오시길."
+        "ko": "[조사관 테일링]\n그럼 기다리고 있겠습니다, 무사히 돌아오시길.",
+        "en": "[Investigator Tailing]\nI will be waiting for you. I hope you come back safely.",
+        "pt": "[Agente Tailing]\nVou estar esperando você aqui quando terminar.",
+        "es": "[Agente Tailing]\nEstaré esperando por ti aquí cuando termines."
     },
     "bBhYDA": {
-        "ko": "[조사관 테일링]\n여기서 가장 가까운 도시는 아인브로크네요!"
+        "ko": "[조사관 테일링]\n여기서 가장 가까운 도시는 아인브로크네요!",
+        "en": "[Investigator Tailing]\nThe closest city from here is Einbroch.",
+        "pt": "[Agente Tailing]\nA cidade mais próxima daqui é Einbroch!",
+        "es": "[Agente Tailing]\n¡La ciudad más cercana de aquí es Einbroch!"
     },
     "bRhYDA": {
-        "ko": "[조사관 테일링]\n초절탄산수 1개만 주시면 바로 보내드리도록 하겠습니다!"
+        "ko": "[조사관 테일링]\n초절탄산수 1개만 주시면 바로 보내드리도록 하겠습니다!",
+        "en": "[Investigator Tailing]\nJust give me one bottle of sparkling carbonated water and I'll teleport you right away!",
+        "pt": "[Agente Tailing]\nMe dê 1 Água Mineral que envio você até a cidade!",
+        "es": "[Agente Tailing]\n¡Dame 1 Agua Mineral y te enviaré a la ciudad!"
     },
     "bhhYDA": {
-        "ko": "이동한다."
+        "ko": "이동한다.",
+        "en": "Give it.",
+        "pt": "Dar a Água Mineral.",
+        "es": "Dar el Agua Mineral."
     },
     "bxhYDA": {
-        "ko": "이동하지 않는다."
+        "ko": "이동하지 않는다.",
+        "en": "Don't give.",
+        "pt": "Ficar aqui.",
+        "es": "Quedarse aquí."
     },
     "cBhYDA": {
-        "ko": "[조사관 테일링]\n네! 그럼 이동시켜드리겠습니다!!"
+        "ko": "[조사관 테일링]\n네! 그럼 이동시켜드리겠습니다!!",
+        "en": "[Investigator Tailing]\nThank you, I will teleport you now.~",
+        "pt": "[Agente Tailing]\nÓtimo! Então, vou teleportar você!!",
+        "es": "[Agente Tailing]\n¡Genial! ¡Entonces, te teletransportaré!"
     },
     "cRhYDA": {
-        "ko": "[조사관 테일링]\n이런, 초절탄산수를 가지고 있지 않으세요~"
+        "ko": "[조사관 테일링]\n이런, 초절탄산수를 가지고 있지 않으세요~",
+        "en": "[Investigator Tailing]\nOops, you don't have any Sparkling carbonated water.~",
+        "pt": "[Agente Tailing]\nOps~ Você não tem Água Mineral~",
+        "es": "[Agente Tailing]\n¡Uy~! No tienes Agua Mineral~"
     },
     "chhYDA": {
-        "ko": "[조사관 테일링]\n순간이동에는 초절탄산수가 1개 필요합니다."
+        "ko": "[조사관 테일링]\n순간이동에는 초절탄산수가 1개 필요합니다.",
+        "en": "[Investigator Tailing]\nTeleport cost 1 Sparkling carbonated water.",
+        "pt": "[Agente Tailing]\nO teleporte requer 1 Água Mineral. Não faço meu trabalho de graça.",
+        "es": "[Agente Tailing]\nEl teletransporte requiere 1 Agua Mineral. No trabajo gratis."
     },
     "cxhYDA": {
-        "ko": "[조사관 테일링]\n네~ 순간이동이 필요하면 언제든지 말씀 주세요!!"
+        "ko": "[조사관 테일링]\n네~ 순간이동이 필요하면 언제든지 말씀 주세요!!",
+        "en": "[Investigator Tailing]\nIf you want to teleport to city, just talk to me.",
+        "pt": "[Agente Tailing]\nCerto, se precisar de teleporte, basta falar comigo!!",
+        "es": "[Agente Tailing]\nBien, si necesitas teletransporte, ¡solo háblame!"
     },
     "dBhYDA": {
-        "ko": "[조사관 테일링]\n얼마 전부터 몬스터 군락지가 확장되는 현상이 발견되기 시작했어요."
+        "ko": "[조사관 테일링]\n얼마 전부터 몬스터 군락지가 확장되는 현상이 발견되기 시작했어요.",
+        "en": "[Investigator Tailing]\nWe started noticing the expansion of monster colonies a while ago.",
+        "pt": "[Agente Tailing]\nNós observamos que a população de monstros saiu do controle.",
+        "es": "[Agente Tailing]\nObservamos que la población de monstruos se salió de control."
     },
     "dRhYDA": {
-        "ko": "[조사관 테일링]\n한 때, 토벌이 활발하게 진행되었었지만 요즘은 다소 소홀해진 결과라고 볼 수 있겠죠."
+        "ko": "[조사관 테일링]\n한 때, 토벌이 활발하게 진행되었었지만 요즘은 다소 소홀해진 결과라고 볼 수 있겠죠.",
+        "en": "[Investigator Tailing]\nAt one time, the subjugation was actively carried out, but these days, it can be seen as a result of somewhat neglect.",
+        "pt": "[Agente Tailing]\nInfelizmente, as pessoas negligenciaram essa informação e agora está faltando gente para ajudar.",
+        "es": "[Agente Tailing]\nLamentablemente, la gente desestimó esa información y ahora falta gente que ayude."
     },
     "dhhYDA": {
-        "ko": "[조사관 테일링]\n이 현상이 계속 진행된다면 위험하기 때문에 유노 몬스터 학회에서는 본격적인 토벌을 하기로 결정했습니다."
+        "ko": "[조사관 테일링]\n이 현상이 계속 진행된다면 위험하기 때문에 유노 몬스터 학회에서는 본격적인 토벌을 하기로 결정했습니다.",
+        "en": "[Investigator Tailing]\nIt is dangerous if this phenomenon continues, so the Juno Monster Society has decided to launch a full-scale suppression.",
+        "pt": "[Agente Tailing]\nPor isso a Sociedade Juniana de Monstros entrou em ação, para não piorar essa situação.",
+        "es": "[Agente Tailing]\nPor eso la Sociedad Juniana de Monstruos entró en acción, para que la situación no empeore."
     },
     "dxhYDA": {
-        "ko": "[조사관 테일링]\n이렇게 토벌이 필요한 지역마다 조사관을 배치하여 토벌을 진행하고 있는 것이지요!"
+        "ko": "[조사관 테일링]\n이렇게 토벌이 필요한 지역마다 조사관을 배치하여 토벌을 진행하고 있는 것이지요!",
+        "en": "[Investigator Tailing]\nIn this way, investigators are deployed to each area that needs to be subjugated and the subjugation is in progress!",
+        "pt": "[Agente Tailing]\nAssim, os Agentes são enviados em áreas mais críticas para contornar o problema!",
+        "es": "[Agente Tailing]\n¡Así que los Agentes son enviados a áreas más críticas para solucionar el problema!"
     },
     "eBhYDA": {
-        "ko": "[조사관 테일링]\n앗, 어디가세요??"
+        "ko": "[조사관 테일링]\n앗, 어디가세요??",
+        "en": "[Investigator Tailing]\nOh, where are you going??",
+        "pt": "[Agente Tailing]\nEi, pra onde você vai??",
+        "es": "[Agente Tailing]\n¡Oye, ¿a dónde vas??!"
     },
     "eRhYDA": {
-        "ko": "[조사관 테일링]\n이 지역에서 종류와 상관 없이 80마리의 몬스터를 토벌해주시면 됩니다."
+        "ko": "[조사관 테일링]\n이 지역에서 종류와 상관 없이 80마리의 몬스터를 토벌해주시면 됩니다.",
+        "en": "[Investigator Tailing]\nYou just need to defeat 80 monsters of any type in this area.",
+        "pt": "[Agente Tailing]\nVocê só precisa eliminar 80 monstros de qualquer espécie nesse mapa.",
+        "es": "[Agente Tailing]\nSolo necesitas eliminar 80 monstruos de cualquier especie en este mapa."
     },
     "ehhYDA": {
-        "ko": "[조사관 테일링]\n토벌 후에는 저에게 오셔서 보상을 받아가세요!!"
+        "ko": "[조사관 테일링]\n토벌 후에는 저에게 오셔서 보상을 받아가세요!!",
+        "en": "[Investigator Tailing]\nAfter you finish, come to me to get your reward!!",
+        "pt": "[Agente Tailing]\nQuando completar a missão, volte a falar comigo!!",
+        "es": "[Agente Tailing]\n¡Cuando completes la misión, vuelve a hablar conmigo!"
     },
     "exhYDA": {
-        "ko": "[조사관 테일링]\n무사히 돌아오셨군요!"
+        "ko": "[조사관 테일링]\n무사히 돌아오셨군요!",
+        "en": "[Investigator Tailing]\nYou came back safely!",
+        "pt": "[Agente Tailing]\nVocê voltou com vida!",
+        "es": "[Agente Tailing]\n¡Regresaste con vida!"
     },
     "fBhYDA": {
-        "ko": "[조사관 테일링]\n이렇게 오늘의 목표는 겨우 달성했네요..."
+        "ko": "[조사관 테일링]\n이렇게 오늘의 목표는 겨우 달성했네요...",
+        "en": "[Investigator Tailing]\nI barely achieved my goal for today...",
+        "pt": "[Agente Tailing]\nEu nem consegui terminar o meu trabalho...",
+        "es": "[Agente Tailing]\nNi siquiera pude terminar mi trabajo..."
     },
     "fRhYDA": {
-        "ko": "[조사관 테일링]\n혹시 내일에도 여유가 되신다면 또 와주세요!!"
+        "ko": "[조사관 테일링]\n혹시 내일에도 여유가 되신다면 또 와주세요!!",
+        "en": "[Investigator Tailing]\nIf you have time tomorrow, please come again!!",
+        "pt": "[Agente Tailing]\nSe você tiver tempo livre amanhã, por favor, volte novamente!!",
+        "es": "[Agente Tailing]\n¡Si tienes tiempo libre mañana, por favor, ¡vuelve otra vez!"
     },
     "fhhYDA": {
-        "ko": "[조사관 테일링]\n아아, 오늘의 토벌은 이것으로 충분합니다!"
+        "ko": "[조사관 테일링]\n아아, 오늘의 토벌은 이것으로 충분합니다!",
+        "en": "[Investigator Tailing]\nAh, enough for today's Hunting quest!",
+        "pt": "[Agente Tailing]\nAh! Isso é tudo por hoje!",
+        "es": "[Agente Tailing]\n¡Ah! ¡Eso es todo por hoy!"
     },
     "fxhYDA": {
-        "ko": "[조사관 테일링]\n내일 또 오셔서 몬스터 토벌을 도와주시면 감사하겠습니다!!"
+        "ko": "[조사관 테일링]\n내일 또 오셔서 몬스터 토벌을 도와주시면 감사하겠습니다!!",
+        "en": "[Investigator Tailing]\nI would appreciate it if you could come again tomorrow and help me defeat the monster!!",
+        "pt": "[Agente Tailing]\nEu adoraria se você pudesse voltar amanhã para mais caçada!!",
+        "es": "[Agente Tailing]\n¡Me encantaría que pudieras volver mañana para más cacería!"
     },
     "gBhYDA": {
-        "ko": "초절탄산수를 건넨다."
+        "ko": "초절탄산수를 건넨다.",
+        "en": "Gives 3 Sparkling carbonated water.",
+        "pt": "Dar Água Mineral.",
+        "es": "Dar Agua Mineral."
     },
     "gRhYDA": {
-        "ko": "건네지 않는다."
+        "ko": "건네지 않는다.",
+        "en": "Don't give anything.",
+        "pt": "Cancelar.",
+        "es": "Cancelar."
     },
     "ghhYDA": {
-        "ko": "[조사관 테일링]\n아~!! 정말 감사드려요~ 마침 목이 매우 말랐는데~"
+        "ko": "[조사관 테일링]\n아~!! 정말 감사드려요~ 마침 목이 매우 말랐는데~",
+        "en": "[Investigator Tailing]\nAh~!! Thank you so much~ I was really thirsty right now~",
+        "pt": "[Agente Tailing]\nAh~!! Agradeço sua gentileza~ Eu estava com muita sede~",
+        "es": "[Agente Tailing]\n¡Ah~!! Agradezco tu amabilidad~ Tenía mucha sed~"
     },
     "gxhYDA": {
-        "ko": "[조사관 테일링]\n꿀꺽~ 꿀꺽~~~"
+        "ko": "[조사관 테일링]\n꿀꺽~ 꿀꺽~~~",
+        "en": "[Investigator Tailing]\nGulp~ Gulp~~~",
+        "pt": "[Agente Tailing]\nGlub~ Glub~~~",
+        "es": "[Agente Tailing]\nGlub~ Glub~~~"
     },
     "hBhYDA": {
-        "ko": "[조사관 테일링]\n흐어어... 이 강렬한 맛...!"
+        "ko": "[조사관 테일링]\n흐어어... 이 강렬한 맛...!",
+        "en": "[Investigator Tailing]\nHuhhh.. so refreshing!",
+        "pt": "[Agente Tailing]\nOh... que refrescante...!",
+        "es": "[Agente Tailing]\nOh... ¡qué refrescante...!"
     },
     "hRhYDA": {
-        "ko": "[조사관 테일링]\n에에.. 처음 뵙는 분이시군요, 잠시만요 저 이것좀 마저 마실테니까 잠깐만 있다가 말을 걸어주시겠어요?"
+        "ko": "[조사관 테일링]\n에에.. 처음 뵙는 분이시군요, 잠시만요 저 이것좀 마저 마실테니까 잠깐만 있다가 말을 걸어주시겠어요?",
+        "en": "[Investigator Tailing]\nEh... this is my first time seeing you. Wait a minute. I'm going to finish my drink.",
+        "pt": "[Agente Tailing]\nEr... pois não? Essa é a primeira vez que te vejo. Deixe-me terminar essa água e já falo com você, ok?",
+        "es": "[Agente Tailing]\nEh... ¿dime? Es la primera vez que te veo. Déjame terminar esta agua y ya hablo contigo, ¿ok?"
     },
     "hhhYDA": {
-        "ko": "- 초절탄산수 3개가 필요하다. -"
+        "ko": "- 초절탄산수 3개가 필요하다. -",
+        "en": "- You need 3 Sparkling Carbonated Water. -",
+        "pt": "- Você precisa de 3 Águas Minerais. -",
+        "es": "- Necesitas 3 Aguas Minerales. -"
     },
     "hxhYDA": {
-        "ko": "[조사관 테일링]\n안녕하세요!! 또 오셨군요! 유노 몬스터 학회에서 파견 온 조사관 테일링입니다!"
+        "ko": "[조사관 테일링]\n안녕하세요!! 또 오셨군요! 유노 몬스터 학회에서 파견 온 조사관 테일링입니다!",
+        "en": "[Investigator Tailing]\nHello!! You're here again! I'm Tailing, an investigator dispatched by the Juno Monster Society!",
+        "pt": "[Agente Tailing]\nOlá!! Você novamente! Me chamo Tailing, sou da Sociedade Juniana de Monstros!",
+        "es": "[Agente Tailing]\n¡Hola!! ¡Tú otra vez! Me llamo Tailing, soy de la Sociedad Juniana de Monstruos."
     },
     "iBhYDA": {
-        "ko": "조사관 모다카"
+        "ko": "조사관 모다카",
+        "en": "Investigator Madaka",
+        "pt": "Agente Madaka",
+        "es": "Agente Madaka"
     },
     "iRhYDA": {
-        "ko": "[조사관 모다카]\n유노 몬스터 학회에서는 토벌 의뢰를 진행하고 있습니다. 근데 아직 의뢰를 수행하기에는 조금 약해 보이시네요."
+        "ko": "[조사관 모다카]\n유노 몬스터 학회에서는 토벌 의뢰를 진행하고 있습니다. 근데 아직 의뢰를 수행하기에는 조금 약해 보이시네요.",
+        "en": "[Investigator Madaka]\nI only accept Adventurer with level 77 or above.",
+        "pt": "[Agente Madaka]\nA Sociedade Juniana de Monstros só aceita viajantes com o nível de base adequado para as missões.",
+        "es": "[Agente Madaka]\nLa Sociedad Juniana de Monstruos solo acepta viajeros con el nivel base adecuado para las misiones."
     },
     "ihhYDA": {
-        "ko": "[조사관 모다카]\n안녕하세요~ 유노 몬스터 학회에서 파견 온 조사관 모다카라고 합니다."
+        "ko": "[조사관 모다카]\n안녕하세요~ 유노 몬스터 학회에서 파견 온 조사관 모다카라고 합니다.",
+        "en": "[Investigator Madaka]\nHello~ I'm Madaka, an investigator dispatched from the Juno Monster Society.",
+        "pt": "[Agente Madaka]\nOlá~ Eu sou Madaka, funcionária da Sociedade Juniana de Monstros.",
+        "es": "[Agente Madaka]\nHola~ Soy Madaka, empleada de la Sociedad Juniana de Monstruos."
     },
     "ixhYDA": {
-        "ko": "[조사관 모다카]\n앗, 의뢰를 받으시겠어요?"
+        "ko": "[조사관 모다카]\n앗, 의뢰를 받으시겠어요?",
+        "en": "[Investigator Madaka]\nOh, would you like to take the quest?",
+        "pt": "[Agente Madaka]\nAh, você deseja aceitar uma missão?",
+        "es": "[Agente Madaka]\nAh, ¿deseas aceptar una misión?"
     },
     "jBhYDA": {
-        "ko": "[조사관 모다카]\n제가 위치하고 있는 이 필드에 존재하는 몬스터 80마리를 처치해주시면 됩니다~"
+        "ko": "[조사관 모다카]\n제가 위치하고 있는 이 필드에 존재하는 몬스터 80마리를 처치해주시면 됩니다~",
+        "en": "[Investigator Madaka]\nYou just need to defeat 80 monsters in this field where I am.",
+        "pt": "[Agente Madaka]\nVocê só precisa eliminar 80 monstros nesse mesmo mapa em que estou~",
+        "es": "[Agente Madaka]\nSolo necesitas eliminar 80 monstruos en este mismo mapa en el que estoy~"
     },
     "jRhYDA": {
-        "ko": "[조사관 모다카]\n그럼 저는 여기서 기다리고 있을게요, 조심히 다녀오세요~!"
+        "ko": "[조사관 모다카]\n그럼 저는 여기서 기다리고 있을게요, 조심히 다녀오세요~!",
+        "en": "[Investigator Madaka]\nThen I'll be waiting here. Take care!",
+        "pt": "[Agente Madaka]\nQuando completar a missão, volte a falar comigo~!",
+        "es": "[Agente Madaka]\nCuando completes la misión, vuelve a hablar conmigo~!"
     },
     "jhhYDA": {
-        "ko": "[조사관 모다카]\n여기서 가장 가까운 도시는 리히타르젠이에요~"
+        "ko": "[조사관 모다카]\n여기서 가장 가까운 도시는 리히타르젠이에요~",
+        "en": "[Investigator Madaka]\nThe closest city from here is Lighthalzen.",
+        "pt": "[Agente Madaka]\nA cidade mais perto daqui é Lighthalzen~",
+        "es": "[Agente Madaka]\nLa ciudad más cerca de aquí es Lighthalzen~"
     },
     "jxhYDA": {
-        "ko": "[조사관 모다카]\n초절탄산수 1개만 주시면 바로 보내드리도록 하겠습니다!"
+        "ko": "[조사관 모다카]\n초절탄산수 1개만 주시면 바로 보내드리도록 하겠습니다!",
+        "en": "[Investigator Madaka]\nJust give me one bottle of sparkling carbonated water and I'll teleport you right away!",
+        "pt": "[Agente Madaka]\nMe dê 1 Água Mineral que envio você até a cidade!",
+        "es": "[Agente Madaka]\n¡Dame 1 Agua Mineral y te envío a la ciudad!"
     },
     "kBhYDA": {
-        "ko": "[조사관 모다카]\n네~ 그럼 이동시켜드리겠습니다!!"
+        "ko": "[조사관 모다카]\n네~ 그럼 이동시켜드리겠습니다!!",
+        "en": "[Investigator Madaka]\nYes, then I will teleport you!!",
+        "pt": "[Agente Madaka]\nOk~ Tenha uma boa viagem!!",
+        "es": "[Agente Madaka]\n¡Ok~ Ten un buen viaje!"
     },
     "kRhYDA": {
-        "ko": "[조사관 모다카]\n이런, 초절탄산수를 가지고 있지 않으세요~"
+        "ko": "[조사관 모다카]\n이런, 초절탄산수를 가지고 있지 않으세요~",
+        "en": "[Investigator Madaka]\nOops, you don't have any Sparkling carbonated water.~",
+        "pt": "[Agente Madaka]\nOps~ Você não tem Água Mineral~",
+        "es": "[Agente Madaka]\n¡Uy~! No tienes Agua Mineral~"
     },
     "khhYDA": {
-        "ko": "[조사관 모다카]\n순간이동에는 초절탄산수가 1개 필요합니다."
+        "ko": "[조사관 모다카]\n순간이동에는 초절탄산수가 1개 필요합니다.",
+        "en": "[Investigator Madaka]\nTeleport cost 1 Sparkling carbonated water.",
+        "pt": "[Agente Madaka]\nO teleporte requer 1 Água Mineral. Não faço meu trabalho de graça.",
+        "es": "[Agente Madaka]\nEl teletransporte requiere 1 Agua Mineral. No trabajo gratis."
     },
     "kxhYDA": {
-        "ko": "[조사관 모다카]\n네~ 순간이동이 필요하면 언제든지 말씀 주세요!"
+        "ko": "[조사관 모다카]\n네~ 순간이동이 필요하면 언제든지 말씀 주세요!",
+        "en": "[Investigator Madaka]\nIf you need to teleport, please let me know anytime!",
+        "pt": "[Agente Madaka]\nCerto, se precisar de teleporte, basta falar comigo!",
+        "es": "[Agente Madaka]\nBien, si necesitas teletransporte, solo háblame."
     },
     "lBhYDA": {
-        "ko": "[조사관 모다카]\n얼마 전부터 몬스터 군락지가 확장되는 현상이 발견되기 시작했어요."
+        "ko": "[조사관 모다카]\n얼마 전부터 몬스터 군락지가 확장되는 현상이 발견되기 시작했어요.",
+        "en": "[Investigator Madaka]\nWe started noticing the expansion of monster colonies a while ago.",
+        "pt": "[Agente Madaka]\nNós observamos que a população de monstros saiu do controle.",
+        "es": "[Agente Madaka]\nObservamos que la población de monstruos se salió de control."
     },
     "lRhYDA": {
-        "ko": "[조사관 모다카]\n한 때, 토벌이 활발하게 진행되었었지만 요즘은 다소 소홀해진 결과라고 볼 수 있겠죠."
+        "ko": "[조사관 모다카]\n한 때, 토벌이 활발하게 진행되었었지만 요즘은 다소 소홀해진 결과라고 볼 수 있겠죠.",
+        "en": "[Investigator Madaka]\nAt one time, the subjugation was actively carried out, but these days, it can be seen as a result of somewhat neglect.",
+        "pt": "[Agente Madaka]\nInfelizmente, as pessoas negligenciaram essa informação e agora está faltando gente para ajudar.",
+        "es": "[Agente Madaka]\nLamentablemente, la gente desestimó esa información y ahora falta gente que ayude."
     },
     "lhhYDA": {
-        "ko": "[조사관 모다카]\n이 현상이 계속 진행된다면 위험하기 때문에 유노 몬스터 학회에서는 본격적인 토벌을 하기로 결정했습니다."
+        "ko": "[조사관 모다카]\n이 현상이 계속 진행된다면 위험하기 때문에 유노 몬스터 학회에서는 본격적인 토벌을 하기로 결정했습니다.",
+        "en": "[Investigator Madaka]\nIt is dangerous if this phenomenon continues, so the Juno Monster Society has decided to launch a full-scale suppression.",
+        "pt": "[Agente Madaka]\nPor isso a Sociedade Juniana de Monstros entrou em ação, para não piorar essa situação.",
+        "es": "[Agente Madaka]\nPor eso la Sociedad Juniana de Monstruos entró en acción, para que la situación no empeore."
     },
     "lxhYDA": {
-        "ko": "[조사관 모다카]\n이렇게 토벌이 필요한 지역마다 조사관을 배치하여 토벌을 진행하고 있는 것이지요!"
+        "ko": "[조사관 모다카]\n이렇게 토벌이 필요한 지역마다 조사관을 배치하여 토벌을 진행하고 있는 것이지요!",
+        "en": "[Investigator Madaka]\nIn this way, investigators are deployed to each area that needs to be subjugated and the subjugation is in progress!",
+        "pt": "[Agente Madaka]\nAssim, os Agentes são enviados em áreas mais críticas para contornar o problema!",
+        "es": "[Agente Madaka]\n¡Así que los Agentes son enviados a áreas más críticas para solucionar el problema!"
     },
     "mBhYDA": {
-        "ko": "[조사관 모다카]\n앗, 어디가세요??"
+        "ko": "[조사관 모다카]\n앗, 어디가세요??",
+        "en": "[Investigator Madaka]\nOh, where are you going??",
+        "pt": "[Agente Madaka]\nEi, pra onde você vai??",
+        "es": "[Agente Madaka]\n¡Oye, ¿a dónde vas??!"
     },
     "mRhYDA": {
-        "ko": "[조사관 모다카]\n제가 있는 지역에서 종류와 상관 없이 80마리의 몬스터를 토벌해주시면 됩니다~"
+        "ko": "[조사관 모다카]\n제가 있는 지역에서 종류와 상관 없이 80마리의 몬스터를 토벌해주시면 됩니다~",
+        "en": "[Investigator Madaka]\nAll you have to do is defeat 80 monsters of any type in this area.",
+        "pt": "[Agente Madaka]\nTudo o que você tem que fazer é eliminar 80 monstros nesse mapa~",
+        "es": "[Agente Madaka]\nTodo lo que tienes que hacer es eliminar 80 monstruos en este mapa~"
     },
     "mhhYDA": {
-        "ko": "[조사관 모다카]\n토벌하고 나셔서 저에게 다시 찾아와주세요~"
+        "ko": "[조사관 모다카]\n토벌하고 나셔서 저에게 다시 찾아와주세요~",
+        "en": "[Investigator Madaka]\nPlease come back to me after you defeat the monsters~",
+        "pt": "[Agente Madaka]\nVolte até mim quando completar a missão~",
+        "es": "[Agente Madaka]\nVuelve conmigo cuando completes la misión~"
     },
     "mxhYDA": {
-        "ko": "[조사관 모다카]\n오셨군요~"
+        "ko": "[조사관 모다카]\n오셨군요~",
+        "en": "[Investigator Madaka]\nYou're here~",
+        "pt": "[Agente Madaka]\nVocê voltou~",
+        "es": "[Agente Madaka]\nRegresaste~"
     },
     "nBhYDA": {
-        "ko": "[조사관 모다카]\n오늘의 목표가 달성된 것 같아요. 감사합니다~"
+        "ko": "[조사관 모다카]\n오늘의 목표가 달성된 것 같아요. 감사합니다~",
+        "en": "[Investigator Madaka]\nI think today's goal has been achieved. Thank you~",
+        "pt": "[Agente Madaka]\nAgradeço demais pelo seu esforço~",
+        "es": "[Agente Madaka]\nAgradezco mucho tu esfuerzo~"
     },
     "nRhYDA": {
-        "ko": "[조사관 모다카]\n내일도 와 주시면 좋겠는데!!!"
+        "ko": "[조사관 모다카]\n내일도 와 주시면 좋겠는데!!!",
+        "en": "[Investigator Madaka]\nI hope you comeback tomorrow!!",
+        "pt": "[Agente Madaka]\nEspero que você volte amanhã!!!",
+        "es": "[Agente Madaka]\n¡Espero que regreses mañana!"
     },
     "nhhYDA": {
-        "ko": "[조사관 모다카]\n아아, 오늘의 토벌은 이것으로 충분합니다!"
+        "ko": "[조사관 모다카]\n아아, 오늘의 토벌은 이것으로 충분합니다!",
+        "en": "[Investigator Madaka]\nAh, enough for today's Hunting quest!",
+        "pt": "[Agente Madaka]\nAh! Isso é tudo por hoje!",
+        "es": "[Agente Madaka]\n¡Ah! ¡Eso es todo por hoy!"
     },
     "nxhYDA": {
-        "ko": "[조사관 모다카]\n내일 또 오셔서 몬스터 토벌을 도와주시면 감사하겠습니다!!"
+        "ko": "[조사관 모다카]\n내일 또 오셔서 몬스터 토벌을 도와주시면 감사하겠습니다!!",
+        "en": "[Investigator Madaka]\nI would appreciate it if you could come again tomorrow and help me defeat the monster!!",
+        "pt": "[Agente Madaka]\nEu adoraria se você pudesse voltar amanhã para mais caçada!!",
+        "es": "[Agente Madaka]\n¡Me encantaría que pudieras volver mañana para más cacería!"
     },
     "oBhYDA": {
-        "ko": "[조사관 모다카]\n어멋, 정말 감사해요~ 시원한 탄산수네요~?"
+        "ko": "[조사관 모다카]\n어멋, 정말 감사해요~ 시원한 탄산수네요~?",
+        "en": "[Investigator Madaka]\nWow, thank you so much~ It's refreshing~",
+        "pt": "[Agente Madaka]\nAh, valeu~ Isso é Água Mineral geladinha~?",
+        "es": "[Agente Madaka]\nAh, gracias~ ¿Esto es Agua Mineral bien fría~?"
     },
     "oRhYDA": {
-        "ko": "[조사관 모다카]\n꼴깍~ 꼴깍~~~"
+        "ko": "[조사관 모다카]\n꼴깍~ 꼴깍~~~",
+        "en": "[Investigator Madaka]\nGulp~ Gulp~~~",
+        "pt": "[Agente Madaka]\nGlub~ Glub~~~",
+        "es": "[Agente Madaka]\nGlub~ Glub~~~"
     },
     "ohhYDA": {
-        "ko": "[조사관 모다카]\n아아, 시원해~!"
+        "ko": "[조사관 모다카]\n아아, 시원해~!",
+        "en": "[Investigator Madaka]\nAh, it's cool~!",
+        "pt": "[Agente Madaka]\nAh, que delícia~!",
+        "es": "[Agente Madaka]\n¡Ah, qué delicia~!"
     },
     "oxhYDA": {
-        "ko": "[조사관 모다카]\n어머, 모험가님 잠시만요~ 이것좀 목에 넘길 시간을 주세요, 조금만 있다가 다시 말을 걸어주세요~"
+        "ko": "[조사관 모다카]\n어머, 모험가님 잠시만요~ 이것좀 목에 넘길 시간을 주세요, 조금만 있다가 다시 말을 걸어주세요~",
+        "en": "[Investigator Madaka]\nOh, new adventurer, just a moment~ Please give me time to drink this.",
+        "pt": "[Agente Madaka]\nAh, viajante, me dê só um instante, eu preciso terminar essa água~",
+        "es": "[Agente Madaka]\nAh, viajero, dame solo un instante, necesito terminar esta agua~"
     },
     "pBhYDA": {
-        "ko": "[조사관 모다카]\n안녕하세요!! 또 오셨군요! 유노 몬스터 학회에서 파견 온 조사관 모다카입니다!"
+        "ko": "[조사관 모다카]\n안녕하세요!! 또 오셨군요! 유노 몬스터 학회에서 파견 온 조사관 모다카입니다!",
+        "en": "[Investigator Madaka]\nHello!! You're here again! I'm Madaka, an investigator dispatched from the Juno Monster Society!",
+        "pt": "[Agente Madaka]\nOlá!! Você voltou! Eu sou Madaka, funcionária da Sociedade Juniana de Monstros!",
+        "es": "[Agente Madaka]\n¡Hola!! ¡Regresaste! Soy Madaka, empleada de la Sociedad Juniana de Monstruos!"
     },
     "pRhYDA": {
-        "ko": "[조사관 모다카]"
+        "ko": "[조사관 모다카]",
+        "en": "[Investigator Madaka]",
+        "pt": "[Agente Madaka]",
+        "es": "[Agente Madaka]"
     },
     "phhYDA": {
-        "ko": "조사관 차카리나"
+        "ko": "조사관 차카리나",
+        "en": "Investigator Karina",
+        "pt": "Agente Karina",
+        "es": "Agente Karina"
     },
     "pxhYDA": {
-        "ko": "[조사관 차카리나]\n유노 몬스터 학회에서는 토벌 의뢰를 진행하고 있습니다. 근데 아직 의뢰를 수행하기에는 조금 약해 보이시네요."
+        "ko": "[조사관 차카리나]\n유노 몬스터 학회에서는 토벌 의뢰를 진행하고 있습니다. 근데 아직 의뢰를 수행하기에는 조금 약해 보이시네요.",
+        "en": "[Investigator Karina]\nI only accept Adventurer with level 80 and above.",
+        "pt": "[Agente Karina]\nA Sociedade Juniana de Monstros só aceita viajantes com o nível de base adequado para as missões.",
+        "es": "[Agente Karina]\nLa Sociedad Juniana de Monstruos solo acepta viajeros con el nivel base adecuado para las misiones."
     },
     "qBhYDA": {
-        "ko": "[조사관 차카리나]\n안녕하세욧! 유노 몬스터 학회에서 파견 온 조사관 차카리나에요~!"
+        "ko": "[조사관 차카리나]\n안녕하세욧! 유노 몬스터 학회에서 파견 온 조사관 차카리나에요~!",
+        "en": "[Investigator Karina]\nHello! I'm Karina, an investigator dispatched from the Juno Monster Society!",
+        "pt": "[Agente Karina]\nOlá, eu sou Karina, da Sociedade Juniana de Monstros~!",
+        "es": "[Agente Karina]\n¡Hola, soy Karina, de la Sociedad Juniana de Monstruos~!"
     },
     "qRhYDA": {
-        "ko": "[조사관 차카리나]\n의뢰를 받아주시는 것인가요?!"
+        "ko": "[조사관 차카리나]\n의뢰를 받아주시는 것인가요?!",
+        "en": "[Investigator Karina]\nAre you accepting my request?!",
+        "pt": "[Agente Karina]\nAh, você topa uma missão de caça?!",
+        "es": "[Agente Karina]\n¡Ah, ¿aceptas una misión de caza?!"
     },
     "qhhYDA": {
-        "ko": "[조사관 차카리나]\n제가 위치하고 있는 이 필드에 존재하는 몬스터 80마리를 처치해주시면 됩니다!"
+        "ko": "[조사관 차카리나]\n제가 위치하고 있는 이 필드에 존재하는 몬스터 80마리를 처치해주시면 됩니다!",
+        "en": "[Investigator Karina]\nAll you have to do is defeat 80 monsters in this field where I am located!",
+        "pt": "[Agente Karina]\nVocê só precisa eliminar 80 monstros nesse mesmo mapa em que estou!",
+        "es": "[Agente Karina]\n¡Solo necesitas eliminar 80 monstruos en este mismo mapa en el que estoy!"
     },
     "qxhYDA": {
-        "ko": "[조사관 차카리나]\n빠르게 마치고 오시리라 믿고 있을게요!!"
+        "ko": "[조사관 차카리나]\n빠르게 마치고 오시리라 믿고 있을게요!!",
+        "en": "[Investigator Karina]\nI believe that you will finish it quickly!!",
+        "pt": "[Agente Karina]\nVolte até mim quando concluir a missão!!",
+        "es": "[Agente Karina]\n¡Vuelve conmigo cuando concluyas la misión!"
     },
     "rBhYDA": {
-        "ko": "[조사관 차카리나]\n라헬이 여기와는 가장 가까워요!!"
+        "ko": "[조사관 차카리나]\n라헬이 여기와는 가장 가까워요!!",
+        "en": "[Investigator Karina]\nRachel is the closest city from here.",
+        "pt": "[Agente Karina]\nA cidade mais próxima daqui é Rachel!!",
+        "es": "[Agente Karina]\n¡La ciudad más cercana de aquí es Rachel!"
     },
     "rRhYDA": {
-        "ko": "[조사관 차카리나]\n초절탄산수 1개만 주시면 바로 날려보내 드릴게요!"
+        "ko": "[조사관 차카리나]\n초절탄산수 1개만 주시면 바로 날려보내 드릴게요!",
+        "en": "[Investigator Karina]\nGive me 1 Sparkling carbonated water and I'll teleport you right away!",
+        "pt": "[Agente Karina]\nPosso te enviar pra lá se me der 1 Água Mineral!",
+        "es": "[Agente Karina]\n¡Puedo enviarte allá si me das 1 Agua Mineral!"
     },
     "rhhYDA": {
-        "ko": "[조사관 차카리나]\n네! 그럼 준비하시고~!!"
+        "ko": "[조사관 차카리나]\n네! 그럼 준비하시고~!!",
+        "en": "[Investigator Karina]\nI'll teleport you now!!",
+        "pt": "[Agente Karina]\nTá bem! Boa viagem~!!",
+        "es": "[Agente Karina]\n¡Está bien! ¡Buen via~je!"
     },
     "rxhYDA": {
-        "ko": "[조사관 차카리나]\n어? 초절탄산수를 가지고 있지 않으시잖아요!!"
+        "ko": "[조사관 차카리나]\n어? 초절탄산수를 가지고 있지 않으시잖아요!!",
+        "en": "[Investigator Karina]\nHuh? You don't have any Sparkling carbontaed water!!",
+        "pt": "[Agente Karina]\nOi? Você tem que prestar mais atenção!!",
+        "es": "[Agente Karina]\n¿Oye? ¡Tienes que prestar más atención!"
     },
     "sBhYDA": {
-        "ko": "[조사관 차카리나]\n순간이동에는 초절탄산수가 1개 필요해요!"
+        "ko": "[조사관 차카리나]\n순간이동에는 초절탄산수가 1개 필요해요!",
+        "en": "[Investigator Karina]\nTeleportation cost 1 Sparkling carbonated water!",
+        "pt": "[Agente Karina]\nO teleporte para a cidade custa 1 Água Mineral!",
+        "es": "[Agente Karina]\n¡El teletransporte a la ciudad cuesta 1 Agua Mineral!"
     },
     "sRhYDA": {
-        "ko": "[조사관 차카리나]\n네, 순간이동이 필요하면 언제든지 말해주세요!!"
+        "ko": "[조사관 차카리나]\n네, 순간이동이 필요하면 언제든지 말해주세요!!",
+        "en": "[Investigator Karina]\nIf you need to teleport, please let me know anytime!!",
+        "pt": "[Agente Karina]\nOk, eu vou ficar por aqui!!",
+        "es": "[Agente Karina]\nOk, ¡me quedaré por aquí!"
     },
     "shhYDA": {
-        "ko": "[조사관 차카리나]\n몬스터 군락지 확장 현상에 대해 들으신 적은 있으시죠??"
+        "ko": "[조사관 차카리나]\n몬스터 군락지 확장 현상에 대해 들으신 적은 있으시죠??",
+        "en": "[Investigator Karina]\nHave you ever heard about the expansion of monster colonies?",
+        "pt": "[Agente Karina]\nVocê nunca ouviu falar do descontrole populacional de monstros??",
+        "es": "[Agente Karina]\n¿Nunca escuchaste sobre el descontrol poblacional de los monstruos??"
     },
     "sxhYDA": {
-        "ko": "[조사관 차카리나]\n지속적으로 토벌이 이루어졌어야 했는데, 잠깐의 공백 때문에 위험한 상황으로 치닫기 직전까지 온 것 같아요."
+        "ko": "[조사관 차카리나]\n지속적으로 토벌이 이루어졌어야 했는데, 잠깐의 공백 때문에 위험한 상황으로 치닫기 직전까지 온 것 같아요.",
+        "en": "[Investigator Karina]\nThe subjugation should have been carried out continuously, but because of the brief gap, the monster colonies expand.",
+        "pt": "[Agente Karina]\nEra para as missões de caçada darem certo, mas pouca gente está se oferecendo para ajudar.",
+        "es": "[Agente Karina]\nSe suponía que las misiones de caza funcionarían, pero poca gente se ofrece a ayudar."
     },
     "tBhYDA": {
-        "ko": "[조사관 차카리나]\n그리하여 유노 몬스터 학회에서는 여러 조사관들을 파견하였고 저는 여기로 오게 된 것이에요."
+        "ko": "[조사관 차카리나]\n그리하여 유노 몬스터 학회에서는 여러 조사관들을 파견하였고 저는 여기로 오게 된 것이에요.",
+        "en": "[Investigator Karina]\nSo the Juno Monster Society dispatched several investigators and I came here.",
+        "pt": "[Agente Karina]\nEntão, a Sociedade Juniana de Monstros decidiu enviar mais agentes para o campo.",
+        "es": "[Agente Karina]\nEntonces, la Sociedad Juniana de Monstruos decidió enviar más agentes al campo."
     },
     "tRhYDA": {
-        "ko": "[조사관 차카리나]\n또 만나요!!"
+        "ko": "[조사관 차카리나]\n또 만나요!!",
+        "en": "[Investigator Karina]\nLet's meet again!!",
+        "pt": "[Agente Karina]\nAté logo!!",
+        "es": "[Agente Karina]\n¡Hasta luego!"
     },
     "thhYDA": {
-        "ko": "[조사관 차카리나]\n이 지역에서 종류와 상관 없이 80마리의 몬스터를 토벌해주시면 됩니다."
+        "ko": "[조사관 차카리나]\n이 지역에서 종류와 상관 없이 80마리의 몬스터를 토벌해주시면 됩니다.",
+        "en": "[Investigator Karina]\nYou just need to defeat 80 monsters of any type in this area.",
+        "pt": "[Agente Karina]\nVocê só precisa eliminar 80 monstros de qualquer espécie nesse mapa.",
+        "es": "[Agente Karina]\nSolo necesitas eliminar 80 monstruos de cualquier especie en este mapa."
     },
     "txhYDA": {
-        "ko": "[조사관 차카리나]\n토벌하고 오시면 좋은 보상을 드릴게요~!!"
+        "ko": "[조사관 차카리나]\n토벌하고 오시면 좋은 보상을 드릴게요~!!",
+        "en": "[Investigator Karina]\nIf you finish the quest, I will give you a good reward~!!",
+        "pt": "[Agente Karina]\nQuando terminar, reporte a situação para mim~!!",
+        "es": "[Agente Karina]\nCuando termines, ¡repórtame la situación~!"
     },
     "uBhYDA": {
-        "ko": "[조사관 차카리나]\n역시, 빠르게 마치고 오셨네요!!"
+        "ko": "[조사관 차카리나]\n역시, 빠르게 마치고 오셨네요!!",
+        "en": "[Investigator Karina]\nAs expected, you finished quickly!!",
+        "pt": "[Agente Karina]\nComo esperado, você fez bem rapidinho!!",
+        "es": "[Agente Karina]\n¡Como era de esperar, lo hiciste bien rápido!"
     },
     "uRhYDA": {
-        "ko": "[조사관 차카리나]\n모험가님만 있으면 토벌 작업에는 문제가 없을 것 같은데..."
+        "ko": "[조사관 차카리나]\n모험가님만 있으면 토벌 작업에는 문제가 없을 것 같은데...",
+        "en": "[Investigator Karina]\nI don't think there will be any problem with the hunting work as long as there is an adventurer..",
+        "pt": "[Agente Karina]\nAcho que não teremos muito trabalho se você continuar ajudando...",
+        "es": "[Agente Karina]\nCreo que no tendremos mucho trabajo si sigues ayudando..."
     },
     "uhhYDA": {
-        "ko": "[조사관 차카리나]\n내일도 오셔서 도와주셨으면 좋겠네요...!"
+        "ko": "[조사관 차카리나]\n내일도 오셔서 도와주셨으면 좋겠네요...!",
+        "en": "[Investigator Karina]\nI hope you come and help me tomorrow too...!",
+        "pt": "[Agente Karina]\nEspero que você volte amanhã também...!",
+        "es": "[Agente Karina]\n¡Espero que regreses mañana también...!"
     },
     "uxhYDA": {
-        "ko": "[조사관 차카리나]\n오늘은 이제 괜찮아요!!"
+        "ko": "[조사관 차카리나]\n오늘은 이제 괜찮아요!!",
+        "en": "[Investigator Karina]\nYou just finished hunting quest for today!!",
+        "pt": "[Agente Karina]\nPor hoje é só!!",
+        "es": "[Agente Karina]\n¡Por hoy es todo!"
     },
     "vBhYDA": {
-        "ko": "[조사관 차카리나]\n토벌을 더 하고 싶으시다면 내일 다시 찾아와주세요!!"
+        "ko": "[조사관 차카리나]\n토벌을 더 하고 싶으시다면 내일 다시 찾아와주세요!!",
+        "en": "[Investigator Karina]\nIf you want to hunt more, please come back tomorrow!!",
+        "pt": "[Agente Karina]\nSe quiser caçar mais, volte amanhã!!",
+        "es": "[Agente Karina]\n¡Si quieres cazar más, vuelve mañana!"
     },
     "vRhYDA": {
-        "ko": "[조사관 차카리나]\n저에게 주시는거에요~?? 잘 마시겠습니다!!"
+        "ko": "[조사관 차카리나]\n저에게 주시는거에요~?? 잘 마시겠습니다!!",
+        "en": "[Investigator Karina]\nAre you giving it to me~?? I'll enjoy it!!",
+        "pt": "[Agente Karina]\nVocê tá me dando de graça~?? Oh, maravilha!!",
+        "es": "[Agente Karina]\n¿Me la estás regalando~?? ¡Oh, maravilloso!"
     },
     "vhhYDA": {
-        "ko": "[조사관 차카리나]\n꿀꺽~ 꿀꺽~~~!!!!"
+        "ko": "[조사관 차카리나]\n꿀꺽~ 꿀꺽~~~!!!!",
+        "en": "[Investigator Karina]\nGulp~ Gulp~~~!!!!",
+        "pt": "[Agente Karina]\nGlub~ Glub~~~!!!!",
+        "es": "[Agente Karina]\n¡Glub~ Glub~~~!"
     },
     "vxhYDA": {
-        "ko": "[조사관 차카리나]\n으으으..?? 무엇일까, 이 미묘한 맛은..."
+        "ko": "[조사관 차카리나]\n으으으..?? 무엇일까, 이 미묘한 맛은...",
+        "en": "[Investigator Karina]\nUgh..?? What is this subtle taste...",
+        "pt": "[Agente Karina]\nHmmm...? Esse gosto...",
+        "es": "[Agente Karina]\nMmmm...? Este sabor..."
     },
     "wBhYDA": {
-        "ko": "[조사관 차카리나]\n어어... 지금 잠깐 몽롱해서 그런데 잠시 후에 말을 다시 걸어주시겠어요??"
+        "ko": "[조사관 차카리나]\n어어... 지금 잠깐 몽롱해서 그런데 잠시 후에 말을 다시 걸어주시겠어요??",
+        "en": "[Investigator Karina]\nUh, I'm a little dazed right now, but can you talk to me again later?",
+        "pt": "[Agente Karina]\nAhn... acho que estou delirando um pouco, você pode esperar um momento??",
+        "es": "[Agente Karina]\nAhn... creo que estoy alucinando un poco, ¿puedes esperar un momento?"
     },
     "wRhYDA": {
-        "ko": "[조사관 차카리나]\n안녕하세요!! 또 오셨군요! 유노 몬스터 학회에서 파견 온 조사관 차카리나입니다!"
+        "ko": "[조사관 차카리나]\n안녕하세요!! 또 오셨군요! 유노 몬스터 학회에서 파견 온 조사관 차카리나입니다!",
+        "en": "[Investigator Karina]\nHello!! You're here again! I'm Karina, an investigator dispatched from the Juno Monster Society!",
+        "pt": "[Agente Karina]\nOlá!! Você voltou! Eu sou Karina, da Sociedade Juniana de Monstros!",
+        "es": "[Agente Karina]\n¡Hola!! ¡Regresaste! Soy Karina, de la Sociedad Juniana de Monstruos!"
     },
     "whhYDA": {
-        "ko": "조사관 셰브코"
+        "ko": "조사관 셰브코",
+        "en": "Investigator Chaveco",
+        "pt": "Agente Chaveco",
+        "es": "Agente Chaveco"
     },
     "wxhYDA": {
-        "ko": "[조사관 셰브코]\n유노 몬스터 학회에서는 토벌 의뢰를 진행하고 있습니다. 근데 아직 의뢰를 수행하기에는 조금 약해 보이시네요."
+        "ko": "[조사관 셰브코]\n유노 몬스터 학회에서는 토벌 의뢰를 진행하고 있습니다. 근데 아직 의뢰를 수행하기에는 조금 약해 보이시네요.",
+        "en": "[Investigator Chaveco]\nI only accept Adventurer with level 86 or above.",
+        "pt": "[Agente Chaveco]\nA Sociedade Juniana de Monstros só aceita viajantes com o nível de base adequado para as missões.",
+        "es": "[Agente Chaveco]\nLa Sociedad Juniana de Monstruos solo acepta viajeros con el nivel base adecuado para las misiones."
     },
     "xBhYDA": {
-        "ko": "[조사관 셰브코]\n안녕하십니까, 유노 몬스터 학회의 셰브코입니다."
+        "ko": "[조사관 셰브코]\n안녕하십니까, 유노 몬스터 학회의 셰브코입니다.",
+        "en": "[Investigator Chaveco]\nHello, this is Chaveco from the Juno Monster Society.",
+        "pt": "[Agente Chaveco]\nOlá, eu me chamo Chaveco, da Sociedade Juniana de Monstros.",
+        "es": "[Agente Chaveco]\nHola, me llamo Chaveco, de la Sociedad Juniana de Monstruos."
     },
     "xRhYDA": {
-        "ko": "[조사관 셰브코]\n토벌 의뢰를 받으시겠습니까?"
+        "ko": "[조사관 셰브코]\n토벌 의뢰를 받으시겠습니까?",
+        "en": "[Investigator Chaveco]\nWould you like to accept a hunting quest?",
+        "pt": "[Agente Chaveco]\nAh, você quer começar uma missão de caça?",
+        "es": "[Agente Chaveco]\nAh, ¿quieres empezar una misión de caza?"
     },
     "xhhYDA": {
-        "ko": "[조사관 셰브코]\n현재 우리가 위치하고 있는 이 필드의 몬스터를 80마리 처치해주시면 됩니다."
+        "ko": "[조사관 셰브코]\n현재 우리가 위치하고 있는 이 필드의 몬스터를 80마리 처치해주시면 됩니다.",
+        "en": "[Investigator Chaveco]\nYou just need to defeat 80 monsters in this field where we are currently located.",
+        "pt": "[Agente Chaveco]\nCerto, tudo o que você precisa fazer é eliminar 80 monstros nesse mapa.",
+        "es": "[Agente Chaveco]\nBien, todo lo que necesitas hacer es eliminar 80 monstruos en este mapa."
     },
     "xxhYDA": {
-        "ko": "[조사관 셰브코]\n그럼 행운을 빌겠습니다."
+        "ko": "[조사관 셰브코]\n그럼 행운을 빌겠습니다.",
+        "en": "[Investigator Chaveco]\nThen good luck.",
+        "pt": "[Agente Chaveco]\nQuando completar a caçada, venha falar comigo.",
+        "es": "[Agente Chaveco]\nCuando completes la cacería, ven a hablar conmigo."
     },
     "yBhYDA": {
-        "ko": "[조사관 셰브코]\n이 곳과 가장 가까운 도시는 베인스입니다."
+        "ko": "[조사관 셰브코]\n이 곳과 가장 가까운 도시는 베인스입니다.",
+        "en": "[Investigator Chaveco]\nThe closest city from here is Veins.",
+        "pt": "[Agente Chaveco]\nA cidade mais próxima de nós é Veins.",
+        "es": "[Agente Chaveco]\nLa ciudad más cercana a nosotros es Veins."
     },
     "yRhYDA": {
-        "ko": "[조사관 셰브코]\n초절탄산수 1개를 주시면 바로 이동시켜 드리도록 하겠습니다."
+        "ko": "[조사관 셰브코]\n초절탄산수 1개를 주시면 바로 이동시켜 드리도록 하겠습니다.",
+        "en": "[Investigator Chaveco]\nGive me 1 Sparkling carbonated water.",
+        "pt": "[Agente Chaveco]\nPosso teleportar você pra lá se me der 1 Água Mineral.",
+        "es": "[Agente Chaveco]\nPuedo teletransportarte allá si me das 1 Agua Mineral."
     },
     "yhhYDA": {
-        "ko": "[조사관 셰브코]\n좋습니다, 그럼 이동하시지요."
+        "ko": "[조사관 셰브코]\n좋습니다, 그럼 이동하시지요.",
+        "en": "[Investigator Chaveco]\nOkay, then let's move.",
+        "pt": "[Agente Chaveco]\nMuito bem, boa viagem.",
+        "es": "[Agente Chaveco]\nMuy bien, buen viaje."
     },
     "yxhYDA": {
-        "ko": "[조사관 셰브코]\n초절탄산수가 없으시네요."
+        "ko": "[조사관 셰브코]\n초절탄산수가 없으시네요.",
+        "en": "[Investigator Chaveco]\nYou don't have any Sparkling carbonated water.",
+        "pt": "[Agente Chaveco]\nDê uma boa olhada no seu inventário, viajante.",
+        "es": "[Agente Chaveco]\nDa una buena mirada a tu inventario, viajero."
     },
     "zBhYDA": {
-        "ko": "[조사관 셰브코]\n순간이동에는 초절탄산수가 1개 필요합니다."
+        "ko": "[조사관 셰브코]\n순간이동에는 초절탄산수가 1개 필요합니다.",
+        "en": "[Investigator Chaveco]\nTeleport cost 1 Sparkling carbonated water.",
+        "pt": "[Agente Chaveco]\nO teleporte requer 1 Água Mineral. Não faço meu trabalho de graça.",
+        "es": "[Agente Chaveco]\nEl teletransporte requiere 1 Agua Mineral. No trabajo gratis."
     },
     "zRhYDA": {
-        "ko": "[조사관 셰브코]\n필요하게 되시면 언제든지 말씀 주십시오."
+        "ko": "[조사관 셰브코]\n필요하게 되시면 언제든지 말씀 주십시오.",
+        "en": "[Investigator Chaveco]\nIf you need anything, please let me know.",
+        "pt": "[Agente Chaveco]\nSem problemas, eu também vou ficar aqui.",
+        "es": "[Agente Chaveco]\nSin problemas, yo también me quedaré aquí."
     },
     "zhhYDA": {
-        "ko": "[조사관 셰브코]\n각 필드에 서식하는 몬스터의 개체 수가 어느 때 부터인가 계속해서 늘어나기 시작했어요."
+        "ko": "[조사관 셰브코]\n각 필드에 서식하는 몬스터의 개체 수가 어느 때 부터인가 계속해서 늘어나기 시작했어요.",
+        "en": "[Investigator Chaveco]\nAt some point, the number of monsters inhabiting each field began to increase.",
+        "pt": "[Agente Chaveco]\nPor algum motivo, a quantidade de monstros está maior que o normal.",
+        "es": "[Agente Chaveco]\nPor alguna razón, la cantidad de monstruos es mayor a la normal."
     },
     "zxhYDA": {
-        "ko": "[조사관 셰브코]\n조금씩 몬스터의 수가 많아지고 있었다는 것을 알았었지만 대수롭지 않게 여긴 결과입니다."
+        "ko": "[조사관 셰브코]\n조금씩 몬스터의 수가 많아지고 있었다는 것을 알았었지만 대수롭지 않게 여긴 결과입니다.",
+        "en": "[Investigator Chaveco]\nI knew that the number of monsters was gradually increasing, but before we did not take it seriously.",
+        "pt": "[Agente Chaveco]\nEu sabia dessa informação, mas não dei muita bola.",
+        "es": "[Agente Chaveco]\nSabía de esa información, pero no le di mucha importancia."
     },
     "0BhYDA": {
-        "ko": "[조사관 셰브코]\n다시 예전의 상태로 되돌리기 위해 유노 몬스터 학회에서는 조사관들을 각지에 파견했습니다."
+        "ko": "[조사관 셰브코]\n다시 예전의 상태로 되돌리기 위해 유노 몬스터 학회에서는 조사관들을 각지에 파견했습니다.",
+        "en": "[Investigator Chaveco]\nIn order to return it to its previous state, the Juno Monster Society dispatched investigators to various locations.",
+        "pt": "[Agente Chaveco]\nEntretanto, a situação é tão preocupante que a Sociedade Juniana de Monstros está enviando agentes para os campos.",
+        "es": "[Agente Chaveco]\nSin embargo, la situación es tan preocupante que la Sociedad Juniana de Monstruos está enviando agentes a los campos."
     },
     "0RhYDA": {
-        "ko": "[조사관 셰브코]\n저도 그 조사관들 중 하나에요, 용감한 모험가님들의 토벌 지원을 기다리고 있는 중입니다."
+        "ko": "[조사관 셰브코]\n저도 그 조사관들 중 하나에요, 용감한 모험가님들의 토벌 지원을 기다리고 있는 중입니다.",
+        "en": "[Investigator Chaveco]\nI am also one of those investigators. I am awaiting hunting support from brave adventurers.",
+        "pt": "[Agente Chaveco]\nE também está recrutando viajantes como você para ajudar.",
+        "es": "[Agente Chaveco]\nY también está reclutando viajeros como tú para ayudar."
     },
     "0hhYDA": {
-        "ko": "[조사관 셰브코]\n좋은 하루 되십시오."
+        "ko": "[조사관 셰브코]\n좋은 하루 되십시오.",
+        "en": "[Investigator Chaveco]\nHave a good day.",
+        "pt": "[Agente Chaveco]\nAté mais tarde.",
+        "es": "[Agente Chaveco]\nHasta luego."
     },
     "0xhYDA": {
-        "ko": "[조사관 셰브코]\n이 지역에서 종류와 상관 없이 80마리의 몬스터를 토벌해주시면 됩니다."
+        "ko": "[조사관 셰브코]\n이 지역에서 종류와 상관 없이 80마리의 몬스터를 토벌해주시면 됩니다.",
+        "en": "[Investigator Chaveco]\nYou just need to defeat 80 monsters of any type in this area.",
+        "pt": "[Agente Chaveco]\nVocê só precisa eliminar 80 monstros de qualquer espécie nesse mapa.",
+        "es": "[Agente Chaveco]\nSolo necesitas eliminar 80 monstruos de cualquier especie en este mapa."
     },
     "1BhYDA": {
-        "ko": "[조사관 셰브코]\n토벌 후에는 잊지 말고 저에게 알려주시길 바랍니다."
+        "ko": "[조사관 셰브코]\n토벌 후에는 잊지 말고 저에게 알려주시길 바랍니다.",
+        "en": "[Investigator Chaveco]\nLet me know if you finish the hunting quest.",
+        "pt": "[Agente Chaveco]\nQuando terminar, venha falar comigo.",
+        "es": "[Agente Chaveco]\nCuando termines, ven a hablar conmigo."
     },
     "1RhYDA": {
-        "ko": "[조사관 셰브코]\n상처 하나 없이 돌아오시다니... 역시 대단한 분이셨군요."
+        "ko": "[조사관 셰브코]\n상처 하나 없이 돌아오시다니... 역시 대단한 분이셨군요.",
+        "en": "[Investigator Chaveco]\nYou came back without a single wound... You must be an amazing person.",
+        "pt": "[Agente Chaveco]\nVocê se saiu muito bem nessa missão.",
+        "es": "[Agente Chaveco]\nTe desempeñaste muy bien en esta misión."
     },
     "1hhYDA": {
-        "ko": "[조사관 셰브코]\n덕분의 오늘의 토벌 목표치를 무사히 달성할 수 있게 되었습니다, 감사드립니다."
+        "ko": "[조사관 셰브코]\n덕분의 오늘의 토벌 목표치를 무사히 달성할 수 있게 되었습니다, 감사드립니다.",
+        "en": "[Investigator Chaveco]\nThanks to you, we were able to safely achieve today's hunting goal. Thank you.",
+        "pt": "[Agente Chaveco]\nAcho que por hoje, a missão já está completa.",
+        "es": "[Agente Chaveco]\nCreo que por hoy, la misión ya está completa."
     },
     "1xhYDA": {
-        "ko": "[조사관 셰브코]\n내일에도 가능하시다면 또 만났으면 좋겠군요."
+        "ko": "[조사관 셰브코]\n내일에도 가능하시다면 또 만났으면 좋겠군요.",
+        "en": "[Investigator Chaveco]\nI hope we can meet again tomorrow, if possible.",
+        "pt": "[Agente Chaveco]\nEspero te ver novamente amanhã, viajante.",
+        "es": "[Agente Chaveco]\nEspero verte nuevamente mañana, viajero."
     },
     "2BhYDA": {
-        "ko": "[조사관 셰브코]\n오늘의 의뢰 접수는 마감되었습니다."
+        "ko": "[조사관 셰브코]\n오늘의 의뢰 접수는 마감되었습니다.",
+        "en": "[Investigator Chaveco]\nToday's hunting quest is closed.",
+        "pt": "[Agente Chaveco]\nA missão de hoje já foi entregue.",
+        "es": "[Agente Chaveco]\nLa misión de hoy ya fue entregada."
     },
     "2RhYDA": {
-        "ko": "[조사관 셰브코]\n내일 다시 접수하니 그 때 뵙도록 하시죠."
+        "ko": "[조사관 셰브코]\n내일 다시 접수하니 그 때 뵙도록 하시죠.",
+        "en": "[Investigator Chaveco]\nI'll be re-applying tomorrow, so I'll see you then.",
+        "pt": "[Agente Chaveco]\nEntão, espero te ver novamente amanhã.",
+        "es": "[Agente Chaveco]\nEntonces, espero verte nuevamente mañana."
     },
     "2hhYDA": {
-        "ko": "[조사관 셰브코]\n음? 이건 무엇이죠? 일단 잘 마시겠습니다."
+        "ko": "[조사관 셰브코]\n음? 이건 무엇이죠? 일단 잘 마시겠습니다.",
+        "en": "[Investigator Chaveco]\nHmm? What is this? I'll drink it first.",
+        "pt": "[Agente Chaveco]\nHã? Você é muito gentil.",
+        "es": "[Agente Chaveco]\n¿Eh? Eres muy amable."
     },
     "2xhYDA": {
-        "ko": "[조사관 셰브코]\n꾸울꺽~~~"
+        "ko": "[조사관 셰브코]\n꾸울꺽~~~",
+        "en": "[Investigator Chaveco]\nGulp~~~",
+        "pt": "[Agente Chaveco]\nGlub~~~",
+        "es": "[Agente Chaveco]\nGlub~~~"
     },
     "3BhYDA": {
-        "ko": "[조사관 셰브코]\n음!!! 특이한 맛인데 이건... 에..."
+        "ko": "[조사관 셰브코]\n음!!! 특이한 맛인데 이건... 에...",
+        "en": "[Investigator Chaveco]\nIt's so refreshing!!~",
+        "pt": "[Agente Chaveco]\nAh!! Que refrescante... sensacional...",
+        "es": "[Agente Chaveco]\n¡Ah!! Qué refrescante... sensacional..."
     },
     "3RhYDA": {
-        "ko": "[조사관 셰브코]\n........."
+        "ko": "[조사관 셰브코]\n.........",
+        "en": "[Investigator Chaveco]\n.........",
+        "pt": "[Agente Chaveco]\n.........",
+        "es": "[Agente Chaveco]\n........."
     },
     "3hhYDA": {
-        "ko": "[조사관 셰브코]\n죄송합니다, 잠깐 졸았습니다. 금방 정신 차릴 수 있을 것 같으니 조금만 있다가 말씀 부탁드립니다."
+        "ko": "[조사관 셰브코]\n죄송합니다, 잠깐 졸았습니다. 금방 정신 차릴 수 있을 것 같으니 조금만 있다가 말씀 부탁드립니다.",
+        "en": "[Investigator Chaveco]\nI'm sorry, I dozed off for a moment. I think I'll wake up soon, so please speak later.",
+        "pt": "[Agente Chaveco]\nEu não sei o que aconteceu, mas... eu preciso de um tempo.",
+        "es": "[Agente Chaveco]\nNo sé qué pasó, pero... necesito un tiempo."
     },
     "3xhYDA": {
-        "ko": "[조사관 셰브코]\n반갑습니다, 유노 몬스터 학회의 조사관 셰브코입니다."
+        "ko": "[조사관 셰브코]\n반갑습니다, 유노 몬스터 학회의 조사관 셰브코입니다.",
+        "en": "[Investigator Chaveco]\nNice to meet you, I'm Chaveco, an investigator at the Juno Monster Society.",
+        "pt": "[Agente Chaveco]\nOlá! Eu sou Chaveco, da Sociedade Juniana de Monstros.",
+        "es": "[Agente Chaveco]\n¡Hola! Soy Chaveco, de la Sociedad Juniana de Monstruos."
     },
     "4BhYDA": {
-        "ko": "[조사관 셰브코]\n또 만나는군요, 유노 몬스터 학회의 조사관 셰브코입니다!"
+        "ko": "[조사관 셰브코]\n또 만나는군요, 유노 몬스터 학회의 조사관 셰브코입니다!",
+        "en": "[Investigator Chaveco]\nWe meet again, I'm Chaveco, an investigator at the Juno Monster Society!",
+        "pt": "[Agente Chaveco]\nOlá! Eu sou Chaveco, da Sociedade Juniana de Monstros!",
+        "es": "[Agente Chaveco]\n¡Hola! Soy Chaveco, de la Sociedad Juniana de Monstruos!"
     },
     "4RhYDA": {
-        "ko": "조사관 르시아"
+        "ko": "조사관 르시아",
+        "en": "Investigator Ersia",
+        "pt": "Agente Ersia",
+        "es": "Agente Ersia"
     },
     "4hhYDA": {
-        "ko": "[조사관 르시아]\n유노 몬스터 학회에서는 토벌 의뢰를 진행하고 있습니다. 근데 아직 의뢰를 수행하기에는 조금 약해 보이시네요."
+        "ko": "[조사관 르시아]\n유노 몬스터 학회에서는 토벌 의뢰를 진행하고 있습니다. 근데 아직 의뢰를 수행하기에는 조금 약해 보이시네요.",
+        "en": "[Investigator Ersia]\nI only accept Adventurer with level 85 or above.",
+        "pt": "[Agente Ersia]\nA Sociedade Juniana de Monstros só aceita viajantes com o nível de base adequado para as missões.",
+        "es": "[Agente Ersia]\nLa Sociedad Juniana de Monstruos solo acepta viajeros con el nivel base adecuado para las misiones."
     },
     "4xhYDA": {
-        "ko": "[조사관 르시아]\n유노 몬스터 학회의 르시아라고 합니다."
+        "ko": "[조사관 르시아]\n유노 몬스터 학회의 르시아라고 합니다.",
+        "en": "[Investigator Ersia]\nMy name is Ersia from the Juno Monster Society.",
+        "pt": "[Agente Ersia]\nOlá, me chamo Ersia, agente da Sociedade Juniana de Monstros.",
+        "es": "[Agente Ersia]\nHola, me llamo Ersia, agente de la Sociedad Juniana de Monstruos."
     },
     "5BhYDA": {
-        "ko": "[조사관 르시아]\n도움의 손길이 간절했답니다."
+        "ko": "[조사관 르시아]\n도움의 손길이 간절했답니다.",
+        "en": "[Investigator Ersia]\nI was desperate for help.",
+        "pt": "[Agente Ersia]\nCerto, você deseja caçar nessa área.",
+        "es": "[Agente Ersia]\nBien, deseas cazar en esta área."
     },
     "5RhYDA": {
-        "ko": "[조사관 르시아]\n이 필드에 서식하고 있는 몬스터 80마리를 처치해주세요."
+        "ko": "[조사관 르시아]\n이 필드에 서식하고 있는 몬스터 80마리를 처치해주세요.",
+        "en": "[Investigator Ersia]\nPlease defeat 80 monsters in this field.",
+        "pt": "[Agente Ersia]\nVocê só precisa eliminar 80 monstros nesse lugar em que estamos.",
+        "es": "[Agente Ersia]\nSolo necesitas eliminar 80 monstruos en este lugar en el que estamos."
     },
     "5hhYDA": {
-        "ko": "[조사관 르시아]\n피해 없이 돌아오시길 바랍니다."
+        "ko": "[조사관 르시아]\n피해 없이 돌아오시길 바랍니다.",
+        "en": "[Investigator Ersia]\nI hope you come back without any damage.",
+        "pt": "[Agente Ersia]\nReporte a missão para mim quando concluir.",
+        "es": "[Agente Ersia]\nRepórtame la misión cuando la concluyas."
     },
     "5xhYDA": {
-        "ko": "[조사관 르시아]\n라헬이 가장 가까워요."
+        "ko": "[조사관 르시아]\n라헬이 가장 가까워요.",
+        "en": "[Investigator Ersia]\nRachel is the nearest city.",
+        "pt": "[Agente Ersia]\nA cidade mais perto daqui é Rachel.",
+        "es": "[Agente Ersia]\nLa ciudad más cerca de aquí es Rachel."
     },
     "6BhYDA": {
-        "ko": "[조사관 르시아]\n초절탄산수 1개만 주시면 돕도록 하죠."
+        "ko": "[조사관 르시아]\n초절탄산수 1개만 주시면 돕도록 하죠.",
+        "en": "[Investigator Ersia]\nGive me 1 Sparkling carbonated water.",
+        "pt": "[Agente Ersia]\nMe dê 1 Água Mineral que envio você até a cidade.",
+        "es": "[Agente Ersia]\nDame 1 Agua Mineral y te envío a la ciudad."
     },
     "6RhYDA": {
-        "ko": "[조사관 르시아]\n그럼 준비해주세요."
+        "ko": "[조사관 르시아]\n그럼 준비해주세요.",
+        "en": "[Investigator Ersia]\nOkay, have a safe trip.",
+        "pt": "[Agente Ersia]\nBoa viagem.",
+        "es": "[Agente Ersia]\nBuen viaje."
     },
     "6hhYDA": {
-        "ko": "[조사관 르시아]\n초절탄산수가 없으신 모양이에요."
+        "ko": "[조사관 르시아]\n초절탄산수가 없으신 모양이에요.",
+        "en": "[Investigator Ersia]\nYou don't have any Sparkling carbonated water.",
+        "pt": "[Agente Ersia]\nVerifique seu inventário, viajante.",
+        "es": "[Agente Ersia]\nVerifica tu inventario, viajero."
     },
     "6xhYDA": {
-        "ko": "[조사관 르시아]\n순간이동에는 초절탄산수가 1개 필요해요."
+        "ko": "[조사관 르시아]\n순간이동에는 초절탄산수가 1개 필요해요.",
+        "en": "[Investigator Ersia]\nTeleport cost 1 Sparkling carbonated water.",
+        "pt": "[Agente Ersia]\nO teleporte para a cidade custa 1 Água Mineral.",
+        "es": "[Agente Ersia]\nEl teletransporte a la ciudad cuesta 1 Agua Mineral."
     },
     "7BhYDA": {
-        "ko": "[조사관 르시아]\n필요할 때 다시 말씀주세요."
+        "ko": "[조사관 르시아]\n필요할 때 다시 말씀주세요.",
+        "en": "[Investigator Ersia]\nLet me know if you want to teleport.",
+        "pt": "[Agente Ersia]\nCerto, temos muito trabalho pela frente.",
+        "es": "[Agente Ersia]\nBien, tenemos mucho trabajo por delante."
     },
     "7RhYDA": {
-        "ko": "[조사관 르시아]\n어느 날부턴가... 조금씩 수가 늘어나는 몬스터를 방치한 채로 시간이 꽤 흘렀어요."
+        "ko": "[조사관 르시아]\n어느 날부턴가... 조금씩 수가 늘어나는 몬스터를 방치한 채로 시간이 꽤 흘렀어요.",
+        "en": "[Investigator Ersia]\nIt is quite a bit of time passed as we left the monsters growing in number little by little.",
+        "pt": "[Agente Ersia]\nBem... a quantidade de monstros cresceu absurdamente.",
+        "es": "[Agente Ersia]\nBueno... la cantidad de monstruos creció absurdamente."
     },
     "7hhYDA": {
-        "ko": "[조사관 르시아]\n이제는 위험 수치에 다다르게 되었습니다."
+        "ko": "[조사관 르시아]\n이제는 위험 수치에 다다르게 되었습니다.",
+        "en": "[Investigator Ersia]\nNow we have reached a critical mass.",
+        "pt": "[Agente Ersia]\nMuitas pessoas não percebem o quão perigoso isso pode ser para a humanidade.",
+        "es": "[Agente Ersia]\nMucha gente no se da cuenta de lo peligroso que puede ser esto para la humanidad."
     },
     "7xhYDA": {
-        "ko": "[조사관 테일링]\n유노 몬스터 학회에서 움직일 수 밖에 없었어요."
+        "ko": "[조사관 테일링]\n유노 몬스터 학회에서 움직일 수 밖에 없었어요.",
+        "en": "[Investigator Tailing]\nI had no choice but to move from the Juno Monster Society.",
+        "pt": "[Agente Tailing]\nÉ por isso que a Sociedade Juniana de Monstros está preocupada.",
+        "es": "[Agente Tailing]\nPor eso la Sociedad Juniana de Monstruos está preocupada."
     },
     "8BhYDA": {
-        "ko": "[조사관 르시아]\n토벌이 필요한 지역마다 이렇게 조사관을 파견하게 되었답니다."
+        "ko": "[조사관 르시아]\n토벌이 필요한 지역마다 이렇게 조사관을 파견하게 되었답니다.",
+        "en": "[Investigator Ersia]\nInvestigators were dispatched to each area that needed subjugation.",
+        "pt": "[Agente Ersia]\nNosso objetivo é controlar essa explosão demográfica de monstros.",
+        "es": "[Agente Ersia]\nNuestro objetivo es controlar esta explosión demográfica de monstruos."
     },
     "8RhYDA": {
-        "ko": "[조사관 르시아]\n잘가요."
+        "ko": "[조사관 르시아]\n잘가요.",
+        "en": "[Investigator Ersia]\nGoodbye.",
+        "pt": "[Agente Ersia]\nTchau.",
+        "es": "[Agente Ersia]\nAdiós."
     },
     "8hhYDA": {
-        "ko": "[조사관 르시아]\n모두 마치게 된다면 저를 다시 찾아와주세요."
+        "ko": "[조사관 르시아]\n모두 마치게 된다면 저를 다시 찾아와주세요.",
+        "en": "[Investigator Ersia]\nPlease come see me again when you're done.",
+        "pt": "[Agente Ersia]\nVolte quando atingir esse número.",
+        "es": "[Agente Ersia]\nVuelve cuando alcances ese número."
     },
     "8xhYDA": {
-        "ko": "[조사관 르시아]\n다치지 않고 돌아오셔서 다행이에요."
+        "ko": "[조사관 르시아]\n다치지 않고 돌아오셔서 다행이에요.",
+        "en": "[Investigator Ersia]\nI'm glad you came back unscathed.",
+        "pt": "[Agente Ersia]\nVocê fez um ótimo trabalho, viajante.",
+        "es": "[Agente Ersia]\nHiciste un gran trabajo, viajero."
     },
     "9BhYDA": {
-        "ko": "[조사관 르시아]\n한동안은 괜찮을 것 같습니다."
+        "ko": "[조사관 르시아]\n한동안은 괜찮을 것 같습니다.",
+        "en": "[Investigator Ersia]\nI think it will be okay for a while.",
+        "pt": "[Agente Ersia]\nAs missões podem ser feitas todos os dias.",
+        "es": "[Agente Ersia]\nLas misiones pueden hacerse todos los días."
     },
     "9RhYDA": {
-        "ko": "[조사관 르시아]\n내일도 와 주시면 좋겠네요."
+        "ko": "[조사관 르시아]\n내일도 와 주시면 좋겠네요.",
+        "en": "[Investigator Ersia]\nI hope you can come tomorrow.",
+        "pt": "[Agente Ersia]\nEntão, espero ver você novamente amanhã.",
+        "es": "[Agente Ersia]\nEntonces, espero verte nuevamente mañana."
     },
     "9hhYDA": {
-        "ko": "[조사관 르시아]\n오늘은 이만 하시죠."
+        "ko": "[조사관 르시아]\n오늘은 이만 하시죠.",
+        "en": "[Investigator Ersia]\nEnough hunting for today.",
+        "pt": "[Agente Ersia]\nA missão de hoje já foi completada.",
+        "es": "[Agente Ersia]\nLa misión de hoy ya fue completada."
     },
     "9xhYDA": {
-        "ko": "[조사관 르시아]\n내일 다시 와 주세요."
+        "ko": "[조사관 르시아]\n내일 다시 와 주세요.",
+        "en": "[Investigator Ersia]\nPlease come back tomorrow.",
+        "pt": "[Agente Ersia]\nEntão, resta apenas voltar amanhã pela manhã.",
+        "es": "[Agente Ersia]\nEntonces, solo resta volver mañana por la mañana."
     },
     "+BhYDA": {
-        "ko": "[조사관 르시아]\n음... 목이 마르긴 한데... 이거 마셔도 되는거 맞죠?"
+        "ko": "[조사관 르시아]\n음... 목이 마르긴 한데... 이거 마셔도 되는거 맞죠?",
+        "en": "[Investigator Ersia]\nUm... I'm thirsty, but... I can drink this, right?",
+        "pt": "[Agente Ersia]\nAh... como você sabia... que eu estava com tanta sede?",
+        "es": "[Agente Ersia]\nAh... ¿cómo sabías... que tenía tanta sed?"
     },
     "+RhYDA": {
-        "ko": "[조사관 르시아]\n꼴깍."
+        "ko": "[조사관 르시아]\n꼴깍.",
+        "en": "[Investigator Ersia]\nGulp.",
+        "pt": "[Agente Ersia]\nGlub.",
+        "es": "[Agente Ersia]\nGlub."
     },
     "+hhYDA": {
-        "ko": "[조사관 르시아]\n어맛... 기분이 이상해...!"
+        "ko": "[조사관 르시아]\n어맛... 기분이 이상해...!",
+        "en": "[Investigator Ersia]\nOh my... I feel strange...!",
+        "pt": "[Agente Ersia]\nOh... isso é...!",
+        "es": "[Agente Ersia]\nOh... ¡esto es...!"
     },
     "+xhYDA": {
-        "ko": "[조사관 르시아]\n음... 의뢰를 받으러 오셨나요? 받으셨었던가요...?"
+        "ko": "[조사관 르시아]\n음... 의뢰를 받으러 오셨나요? 받으셨었던가요...?",
+        "en": "[Investigator Ersia]\nUm.. did you come to receive hunting quest? Did you receive it..?",
+        "pt": "[Agente Ersia]\nAh... refrescante, talvez...?",
+        "es": "[Agente Ersia]\nAh... refrescante, quizás...?"
     },
     "/BhYDA": {
-        "ko": "[조사관 르시아]\n지금 좀 멍한 상태니까 잠시만 있다가 말 걸어주세요."
+        "ko": "[조사관 르시아]\n지금 좀 멍한 상태니까 잠시만 있다가 말 걸어주세요.",
+        "en": "[Investigator Ersia]\nI'm a bit dazed right now, so please wait a moment and then talk to me.",
+        "pt": "[Agente Ersia]\nAh, eu não me lembro de nada. Viajante, poderia voltar daqui a alguns minutinhos? Por favor.",
+        "es": "[Agente Ersia]\nAh, no recuerdo nada. Viajero, ¿podrías volver en unos minutitos? Por favor."
     },
     "/RhYDA": {
-        "ko": "[조사관 르시아]\n또 만나네요, 유노 몬스터 학회의 르시아입니다."
+        "ko": "[조사관 르시아]\n또 만나네요, 유노 몬스터 학회의 르시아입니다.",
+        "en": "[Investigator Ersia]\nWe meet again, this is Ersia from the Juno Monster Society.",
+        "pt": "[Agente Ersia]\nOlá, eu sou Ersia, da Sociedade Juniana de Monstros.",
+        "es": "[Agente Ersia]\nHola, soy Ersia, de la Sociedad Juniana de Monstruos."
     },
     "/hhYDA": {
-        "ko": "조사관 서이룬"
+        "ko": "조사관 서이룬",
+        "en": "Investigator Suiron",
+        "pt": "Agente Suiron",
+        "es": "Agente Suiron"
     },
     "/xhYDA": {
-        "ko": "[조사관 서이룬]\n유노 몬스터 학회에서는 토벌 의뢰를 진행하고 있습니다. 근데 아직 의뢰를 수행하기에는 조금 약해 보이시네요."
+        "ko": "[조사관 서이룬]\n유노 몬스터 학회에서는 토벌 의뢰를 진행하고 있습니다. 근데 아직 의뢰를 수행하기에는 조금 약해 보이시네요.",
+        "en": "[Investigator Suiron]\nI only accept Adventurer with level 90 or above.",
+        "pt": "[Agente Suiron]\nA Sociedade Juniana de Monstros só aceita viajantes com o nível de base adequado para as missões.",
+        "es": "[Agente Suiron]\nLa Sociedad Juniana de Monstruos solo acepta viajeros con el nivel base adecuado para las misiones."
     },
     "ABlYDA": {
-        "ko": "[조사관 서이룬]\n안녕하세요!! 유노 몬스터 학회에서 파견 온 조사관 서이룬이라고 합니다!"
+        "ko": "[조사관 서이룬]\n안녕하세요!! 유노 몬스터 학회에서 파견 온 조사관 서이룬이라고 합니다!",
+        "en": "[Investigator Suiron]\nHello!! I'm Suiron, an investigator dispatched from the Juno Monster Society!",
+        "pt": "[Agente Suiron]\nOlá!! Eu sou Suiron, agente da Sociedade Juniana de Monstros!",
+        "es": "[Agente Suiron]\n¡Hola!! ¡Soy Suiron, agente de la Sociedad Juniana de Monstruos!"
     },
     "ARlYDA": {
-        "ko": "[조사관 서이룬]\n오, 의뢰를 받으시겠어요?"
+        "ko": "[조사관 서이룬]\n오, 의뢰를 받으시겠어요?",
+        "en": "[Investigator Suiron]\nOh, would you like to take a quest?",
+        "pt": "[Agente Suiron]\nAh, você deseja fazer a missão de caça?",
+        "es": "[Agente Suiron]\nAh, ¿deseas realizar la misión de caza?"
     },
     "AhlYDA": {
-        "ko": "[조사관 서이룬]\n제가 나와 있는 이 필드에 존재하는 몬스터 80마리를 처치해주시면 됩니다."
+        "ko": "[조사관 서이룬]\n제가 나와 있는 이 필드에 존재하는 몬스터 80마리를 처치해주시면 됩니다.",
+        "en": "[Investigator Suiron]\nYou just need to defeat 80 monsters in this field where I am.",
+        "pt": "[Agente Suiron]\nVocê só precisa eliminar 80 monstros de qualquer espécie nesse mapa.",
+        "es": "[Agente Suiron]\nSolo necesitas eliminar 80 monstruos de cualquier especie en este mapa."
     },
     "AxlYDA": {
-        "ko": "[조사관 서이룬]\n그럼 기다리고 있겠습니다, 무사히 돌아오시길."
+        "ko": "[조사관 서이룬]\n그럼 기다리고 있겠습니다, 무사히 돌아오시길.",
+        "en": "[Investigator Suiron]\nI will be waiting for you. I hope you come back safely.",
+        "pt": "[Agente Suiron]\nVou estar esperando você aqui quando terminar.",
+        "es": "[Agente Suiron]\nEstaré esperando por ti aquí cuando termines."
     },
     "BBlYDA": {
-        "ko": "[조사관 서이룬]\n여기서 가장 가까운 도시는 아인브로크네요!"
+        "ko": "[조사관 서이룬]\n여기서 가장 가까운 도시는 아인브로크네요!",
+        "en": "[Investigator Suiron]\nThe closest city from here is Veins.",
+        "pt": "[Agente Suiron]\nA cidade mais próxima daqui é Veins!",
+        "es": "[Agente Suiron]\n¡La ciudad más cercana de aquí es Veins!"
     },
     "BRlYDA": {
-        "ko": "[조사관 서이룬]\n초절탄산수 1개만 주시면 바로 보내드리도록 하겠습니다!"
+        "ko": "[조사관 서이룬]\n초절탄산수 1개만 주시면 바로 보내드리도록 하겠습니다!",
+        "en": "[Investigator Suiron]\nJust give me one bottle of sparkling carbonated water and I'll teleport you right away!",
+        "pt": "[Agente Suiron]\nMe dê 1 Água Mineral que envio você até a cidade!",
+        "es": "[Agente Suiron]\n¡Dame 1 Agua Mineral y te enviaré a la ciudad!"
     },
     "BhlYDA": {
-        "ko": "[조사관 서이룬]\n네! 그럼 이동시켜드리겠습니다!!"
+        "ko": "[조사관 서이룬]\n네! 그럼 이동시켜드리겠습니다!!",
+        "en": "[Investigator Suiron]\nThank you, I will teleport you now.~",
+        "pt": "[Agente Suiron]\nÓtimo! Então, vou teleportar você!!",
+        "es": "[Agente Suiron]\n¡Genial! ¡Entonces, te teletransportaré!"
     },
     "BxlYDA": {
-        "ko": "[조사관 서이룬]\n이런, 초절탄산수를 가지고 있지 않으세요~"
+        "ko": "[조사관 서이룬]\n이런, 초절탄산수를 가지고 있지 않으세요~",
+        "en": "[Investigator Suiron]\nOops, you don't have any Sparkling carbonated water.~",
+        "pt": "[Agente Suiron]\nOps~ Você não tem Água Mineral~",
+        "es": "[Agente Suiron]\n¡Uy~! No tienes Agua Mineral~"
     },
     "CBlYDA": {
-        "ko": "[조사관 서이룬]\n순간이동에는 초절탄산수가 1개 필요합니다."
+        "ko": "[조사관 서이룬]\n순간이동에는 초절탄산수가 1개 필요합니다.",
+        "en": "[Investigator Suiron]\nTeleport cost 1 Sparkling carbonated water.",
+        "pt": "[Agente Suiron]\nO teleporte requer 1 Água Mineral. Não faço meu trabalho de graça.",
+        "es": "[Agente Suiron]\nEl teletransporte requiere 1 Agua Mineral. No trabajo gratis."
     },
     "CRlYDA": {
-        "ko": "[조사관 서이룬]\n네~ 순간이동이 필요하면 언제든지 말씀 주세요!!"
+        "ko": "[조사관 서이룬]\n네~ 순간이동이 필요하면 언제든지 말씀 주세요!!",
+        "en": "[Investigator Suiron]\nIf you want to teleport to city, just talk to me.",
+        "pt": "[Agente Suiron]\nCerto, se precisar de teleporte, basta falar comigo!!",
+        "es": "[Agente Suiron]\nBien, si necesitas teletransporte, ¡solo háblame!"
     },
     "ChlYDA": {
-        "ko": "[조사관 서이룬]\n얼마 전부터 몬스터 군락지가 확장되는 현상이 발견되기 시작했어요."
+        "ko": "[조사관 서이룬]\n얼마 전부터 몬스터 군락지가 확장되는 현상이 발견되기 시작했어요.",
+        "en": "[Investigator Suiron]\nWe started noticing the expansion of monster colonies a while ago.",
+        "pt": "[Agente Suiron]\nNós observamos que a população de monstros saiu do controle.",
+        "es": "[Agente Suiron]\nObservamos que la población de monstruos se salió de control."
     },
     "CxlYDA": {
-        "ko": "[조사관 서이룬]\n한 때, 토벌이 활발하게 진행되었었지만 요즘은 다소 소홀해진 결과라고 볼 수 있겠죠."
+        "ko": "[조사관 서이룬]\n한 때, 토벌이 활발하게 진행되었었지만 요즘은 다소 소홀해진 결과라고 볼 수 있겠죠.",
+        "en": "[Investigator Suiron]\nAt one time, the subjugation was actively carried out, but these days, it can be seen as a result of somewhat neglect.",
+        "pt": "[Agente Suiron]\nInfelizmente, as pessoas negligenciaram essa informação e agora está faltando gente para ajudar.",
+        "es": "[Agente Suiron]\nLamentablemente, la gente desestimó esa información y ahora falta gente que ayude."
     },
     "DBlYDA": {
-        "ko": "[조사관 서이룬]\n이 현상이 계속 진행된다면 위험하기 때문에 유노 몬스터 학회에서는 본격적인 토벌을 하기로 결정했습니다."
+        "ko": "[조사관 서이룬]\n이 현상이 계속 진행된다면 위험하기 때문에 유노 몬스터 학회에서는 본격적인 토벌을 하기로 결정했습니다.",
+        "en": "[Investigator Suiron]\nIt is dangerous if this phenomenon continues, so the Juno Monster Society has decided to launch a full-scale suppression.",
+        "pt": "[Agente Suiron]\nPor isso a Sociedade Juniana de Monstros entrou em ação, para não piorar essa situação.",
+        "es": "[Agente Suiron]\nPor eso la Sociedad Juniana de Monstruos entró en acción, para que la situación no empeore."
     },
     "DRlYDA": {
-        "ko": "[조사관 서이룬]\n이렇게 토벌이 필요한 지역마다 조사관을 배치하여 토벌을 진행하고 있는 것이지요!"
+        "ko": "[조사관 서이룬]\n이렇게 토벌이 필요한 지역마다 조사관을 배치하여 토벌을 진행하고 있는 것이지요!",
+        "en": "[Investigator Suiron]\nIn this way, investigators are deployed to each area that needs to be subjugated and the subjugation is in progress!",
+        "pt": "[Agente Suiron]\nAssim, os Agentes são enviados em áreas mais críticas para contornar o problema!",
+        "es": "[Agente Suiron]\n¡Así que los Agentes son enviados a áreas más críticas para solucionar el problema!"
     },
     "DhlYDA": {
-        "ko": "[조사관 서이룬]\n앗, 어디가세요??"
+        "ko": "[조사관 서이룬]\n앗, 어디가세요??",
+        "en": "[Investigator Suiron]\nOh, where are you going??",
+        "pt": "[Agente Suiron]\nEi, pra onde você vai??",
+        "es": "[Agente Suiron]\n¡Oye, ¿a dónde vas??!"
     },
     "DxlYDA": {
-        "ko": "[조사관 서이룬]\n이 지역에서 종류와 상관 없이 80마리의 몬스터를 토벌해주시면 됩니다."
+        "ko": "[조사관 서이룬]\n이 지역에서 종류와 상관 없이 80마리의 몬스터를 토벌해주시면 됩니다.",
+        "en": "[Investigator Suiron]\nYou just need to defeat 80 monsters of any type in this area.",
+        "pt": "[Agente Suiron]\nVocê só precisa eliminar 80 monstros de qualquer espécie nesse mapa.",
+        "es": "[Agente Suiron]\nSolo necesitas eliminar 80 monstruos de cualquier especie en este mapa."
     },
     "EBlYDA": {
-        "ko": "[조사관 서이룬]\n토벌 후에는 저에게 오셔서 보상을 받아가세요!!"
+        "ko": "[조사관 서이룬]\n토벌 후에는 저에게 오셔서 보상을 받아가세요!!",
+        "en": "[Investigator Suiron]\nAfter you finish, come to me to get your reward!!",
+        "pt": "[Agente Suiron]\nQuando completar a missão, volte a falar comigo!!",
+        "es": "[Agente Suiron]\n¡Cuando completes la misión, vuelve a hablar conmigo!"
     },
     "ERlYDA": {
-        "ko": "[조사관 서이룬]\n무사히 돌아오셨군요!"
+        "ko": "[조사관 서이룬]\n무사히 돌아오셨군요!",
+        "en": "[Investigator Suiron]\nYou came back safely!",
+        "pt": "[Agente Suiron]\nVocê voltou com vida!",
+        "es": "[Agente Suiron]\n¡Regresaste con vida!"
     },
     "EhlYDA": {
-        "ko": "[조사관 서이룬]\n이렇게 오늘의 목표는 겨우 달성했네요..."
+        "ko": "[조사관 서이룬]\n이렇게 오늘의 목표는 겨우 달성했네요...",
+        "en": "[Investigator Suiron]\nI barely achieved my goal for today...",
+        "pt": "[Agente Suiron]\nEu nem consegui terminar o meu trabalho...",
+        "es": "[Agente Suiron]\nNi siquiera pude terminar mi trabajo..."
     },
     "ExlYDA": {
-        "ko": "[조사관 서이룬]\n혹시 내일에도 여유가 되신다면 또 와주세요!!"
+        "ko": "[조사관 서이룬]\n혹시 내일에도 여유가 되신다면 또 와주세요!!",
+        "en": "[Investigator Suiron]\nIf you have time tomorrow, please come again!!",
+        "pt": "[Agente Suiron]\nSe você tiver tempo livre amanhã, por favor, volte novamente!!",
+        "es": "[Agente Suiron]\n¡Si tienes tiempo libre mañana, por favor, ¡vuelve otra vez!"
     },
     "FBlYDA": {
-        "ko": "[조사관 서이룬]\n아아, 오늘의 토벌은 이것으로 충분합니다!"
+        "ko": "[조사관 서이룬]\n아아, 오늘의 토벌은 이것으로 충분합니다!",
+        "en": "[Investigator Suiron]\nAh, enough for today's Hunting quest!",
+        "pt": "[Agente Suiron]\nAh! Isso é tudo por hoje!",
+        "es": "[Agente Suiron]\n¡Ah! ¡Eso es todo por hoy!"
     },
     "FRlYDA": {
-        "ko": "[조사관 서이룬]\n내일 또 오셔서 몬스터 토벌을 도와주시면 감사하겠습니다!!"
+        "ko": "[조사관 서이룬]\n내일 또 오셔서 몬스터 토벌을 도와주시면 감사하겠습니다!!",
+        "en": "[Investigator Suiron]\nI would appreciate it if you could come again tomorrow and help me defeat the monster!!",
+        "pt": "[Agente Suiron]\nEu adoraria se você pudesse voltar amanhã para mais caçada!!",
+        "es": "[Agente Suiron]\n¡Me encantaría que pudieras volver mañana para más cacería!"
     },
     "FhlYDA": {
-        "ko": "[조사관 서이룬]\n아~!! 정말 감사드려요~ 마침 목이 매우 말랐는데~"
+        "ko": "[조사관 서이룬]\n아~!! 정말 감사드려요~ 마침 목이 매우 말랐는데~",
+        "en": "[Investigator Suiron]\nAh~!! Thank you so much~ I was really thirsty right now~",
+        "pt": "[Agente Suiron]\nAh~!! Agradeço sua gentileza~ Eu estava com muita sede~",
+        "es": "[Agente Suiron]\n¡Ah~!! Agradezco tu amabilidad~ Tenía mucha sed~"
     },
     "FxlYDA": {
-        "ko": "[조사관 서이룬]\n꿀꺽~ 꿀꺽~~~"
+        "ko": "[조사관 서이룬]\n꿀꺽~ 꿀꺽~~~",
+        "en": "[Investigator Suiron]\nGulp~ Gulp~~~",
+        "pt": "[Agente Suiron]\nGlub~ Glub~~~",
+        "es": "[Agente Suiron]\nGlub~ Glub~~~"
     },
     "GBlYDA": {
-        "ko": "[조사관 서이룬]\n흐어어... 이 강렬한 맛...!"
+        "ko": "[조사관 서이룬]\n흐어어... 이 강렬한 맛...!",
+        "en": "[Investigator Suiron]\nHuhhh.. so refreshing!",
+        "pt": "[Agente Suiron]\nOh... que refrescante...!",
+        "es": "[Agente Suiron]\nOh... ¡qué refrescante...!"
     },
     "GRlYDA": {
-        "ko": "[조사관 서이룬]\n에에.. 처음 뵙는 분이시군요, 잠시만요 저 이것좀 마저 마실테니까 잠깐만 있다가 말을 걸어주시겠어요?"
+        "ko": "[조사관 서이룬]\n에에.. 처음 뵙는 분이시군요, 잠시만요 저 이것좀 마저 마실테니까 잠깐만 있다가 말을 걸어주시겠어요?",
+        "en": "[Investigator Suiron]\nEh... this is my first time seeing you. Wait a minute. I'm going to finish my drink.",
+        "pt": "[Agente Suiron]\nEr... pois não? Essa é a primeira vez que te vejo. Deixe-me terminar essa água e já falo com você, ok?",
+        "es": "[Agente Suiron]\nEh... ¿dime? Es la primera vez que te veo. Déjame terminar esta agua y ya hablo contigo, ¿ok?"
     },
     "GhlYDA": {
-        "ko": "[조사관 서이룬]\n안녕하세요!! 또 오셨군요! 유노 몬스터 학회에서 파견 온 조사관 서이룬입니다!"
+        "ko": "[조사관 서이룬]\n안녕하세요!! 또 오셨군요! 유노 몬스터 학회에서 파견 온 조사관 서이룬입니다!",
+        "en": "[Investigator Suiron]\nHello!! You're here again! I'm Suiron, an investigator dispatched from the Juno Monster Society!",
+        "pt": "[Agente Suiron]\nOlá!! Você voltou! Eu sou Suiron, agente da Sociedade Juniana de Monstros!",
+        "es": "[Agente Suiron]\n¡Hola!! ¡Regresaste! Soy Suiron, agente de la Sociedad Juniana de Monstruos!"
     },
     "GxlYDA": {
-        "ko": "조사관 도브"
+        "ko": "조사관 도브",
+        "en": "Investigator Dove",
+        "pt": "Agente Dora",
+        "es": "Agente Dora"
     },
     "HBlYDA": {
-        "ko": "[조사관 도브]\n유노 몬스터 학회에서는 토벌 의뢰를 진행하고 있습니다. 근데 아직 의뢰를 수행하기에는 조금 약해 보이시네요."
+        "ko": "[조사관 도브]\n유노 몬스터 학회에서는 토벌 의뢰를 진행하고 있습니다. 근데 아직 의뢰를 수행하기에는 조금 약해 보이시네요.",
+        "en": "[Investigator Dove]\nI only accept Adventurer with level 85 or above.",
+        "pt": "[Agente Dora]\nA Sociedade Juniana de Monstros só aceita viajantes com o nível de base adequado para as missões.",
+        "es": "[Agente Dora]\nLa Sociedad Juniana de Monstruos solo acepta viajeros con el nivel base adecuado para las misiones."
     },
     "HRlYDA": {
-        "ko": "[조사관 도브]\n안녕하세요!! 유노 몬스터 학회에서 파견 온 조사관 테일링이라고 합니다!"
+        "ko": "[조사관 도브]\n안녕하세요!! 유노 몬스터 학회에서 파견 온 조사관 테일링이라고 합니다!",
+        "en": "[Investigator Dove]\nHello!! I'm Dove, an investigator dispatched from the Juno Monster Society!",
+        "pt": "[Agente Dora]\nOlá!! Me chamo Dora, sou da Sociedade Juniana de Monstros!",
+        "es": "[Agente Dora]\n¡Hola!! Me llamo Dora, soy de la Sociedad Juniana de Monstruos!"
     },
     "HhlYDA": {
-        "ko": "[조사관 도브]\n오, 의뢰를 받으시겠어요?"
+        "ko": "[조사관 도브]\n오, 의뢰를 받으시겠어요?",
+        "en": "[Investigator Dove]\nOh, would you like to take a quest?",
+        "pt": "[Agente Dora]\nAh, você deseja fazer a missão de caça?",
+        "es": "[Agente Dora]\nAh, ¿deseas realizar la misión de caza?"
     },
     "HxlYDA": {
-        "ko": "[조사관 도브]\n제가 나와 있는 이 필드에 존재하는 몬스터 80마리를 처치해주시면 됩니다."
+        "ko": "[조사관 도브]\n제가 나와 있는 이 필드에 존재하는 몬스터 80마리를 처치해주시면 됩니다.",
+        "en": "[Investigator Dove]\nYou just need to defeat 80 monsters in this field where I am.",
+        "pt": "[Agente Dora]\nVocê só precisa eliminar 80 monstros de qualquer espécie nesse mapa.",
+        "es": "[Agente Dora]\nSolo necesitas eliminar 80 monstruos de cualquier especie en este mapa."
     },
     "IBlYDA": {
-        "ko": "[조사관 도브]\n그럼 기다리고 있겠습니다, 무사히 돌아오시길."
+        "ko": "[조사관 도브]\n그럼 기다리고 있겠습니다, 무사히 돌아오시길.",
+        "en": "[Investigator Dove]\nI will be waiting for you. I hope you come back safely.",
+        "pt": "[Agente Dora]\nVou estar esperando você aqui quando terminar.",
+        "es": "[Agente Dora]\nEstaré esperando por ti aquí cuando termines."
     },
     "IRlYDA": {
-        "ko": "[조사관 도브]\n여기서 가장 가까운 도시는 아인브로크네요!"
+        "ko": "[조사관 도브]\n여기서 가장 가까운 도시는 아인브로크네요!",
+        "en": "[Investigator Dove]\nThe closest city from here is Rachel.",
+        "pt": "[Agente Dora]\nA cidade mais próxima daqui é Rachel!",
+        "es": "[Agente Dora]\n¡La ciudad más cercana de aquí es Rachel!"
     },
     "IhlYDA": {
-        "ko": "[조사관 도브]\n초절탄산수 1개만 주시면 바로 보내드리도록 하겠습니다!"
+        "ko": "[조사관 도브]\n초절탄산수 1개만 주시면 바로 보내드리도록 하겠습니다!",
+        "en": "[Investigator Dove]\nJust give me one bottle of sparkling carbonated water and I'll teleport you right away!",
+        "pt": "[Agente Dora]\nMe dê 1 Água Mineral que envio você até a cidade!",
+        "es": "[Agente Dora]\n¡Dame 1 Agua Mineral y te enviaré a la ciudad!"
     },
     "IxlYDA": {
-        "ko": "[조사관 도브]\n네! 그럼 이동시켜드리겠습니다!!"
+        "ko": "[조사관 도브]\n네! 그럼 이동시켜드리겠습니다!!",
+        "en": "[Investigator Dove]\nThank you, I will teleport you now.~",
+        "pt": "[Agente Dora]\nÓtimo! Então, vou teleportar você!!",
+        "es": "[Agente Dora]\n¡Genial! ¡Entonces, te teletransportaré!"
     },
     "JBlYDA": {
-        "ko": "[조사관 도브]\n이런, 초절탄산수를 가지고 있지 않으세요~"
+        "ko": "[조사관 도브]\n이런, 초절탄산수를 가지고 있지 않으세요~",
+        "en": "[Investigator Dove]\nOops, you don't have any Sparkling carbonated water.~",
+        "pt": "[Agente Dora]\nOps~ Você não tem Água Mineral~",
+        "es": "[Agente Dora]\n¡Uy~! No tienes Agua Mineral~"
     },
     "JRlYDA": {
-        "ko": "[조사관 도브]\n순간이동에는 초절탄산수가 1개 필요합니다."
+        "ko": "[조사관 도브]\n순간이동에는 초절탄산수가 1개 필요합니다.",
+        "en": "[Investigator Dove]\nTeleport cost 1 Sparkling carbonated water.",
+        "pt": "[Agente Dora]\nO teleporte requer 1 Água Mineral. Não faço meu trabalho de graça.",
+        "es": "[Agente Dora]\nEl teletransporte requiere 1 Agua Mineral. No trabajo gratis."
     },
     "JhlYDA": {
-        "ko": "[조사관 도브]\n네~ 순간이동이 필요하면 언제든지 말씀 주세요!!"
+        "ko": "[조사관 도브]\n네~ 순간이동이 필요하면 언제든지 말씀 주세요!!",
+        "en": "[Investigator Dove]\nIf you want to teleport to city, just talk to me.",
+        "pt": "[Agente Dora]\nCerto, se precisar de teleporte, basta falar comigo!!",
+        "es": "[Agente Dora]\nBien, si necesitas teletransporte, ¡solo háblame!"
     },
     "JxlYDA": {
-        "ko": "[조사관 도브]\n얼마 전부터 몬스터 군락지가 확장되는 현상이 발견되기 시작했어요."
+        "ko": "[조사관 도브]\n얼마 전부터 몬스터 군락지가 확장되는 현상이 발견되기 시작했어요.",
+        "en": "[Investigator Dove]\nWe started noticing the expansion of monster colonies a while ago.",
+        "pt": "[Agente Dora]\nNós observamos que a população de monstros saiu do controle.",
+        "es": "[Agente Dora]\nObservamos que la población de monstruos se salió de control."
     },
     "KBlYDA": {
-        "ko": "[조사관 도브]\n한 때, 토벌이 활발하게 진행되었었지만 요즘은 다소 소홀해진 결과라고 볼 수 있겠죠."
+        "ko": "[조사관 도브]\n한 때, 토벌이 활발하게 진행되었었지만 요즘은 다소 소홀해진 결과라고 볼 수 있겠죠.",
+        "en": "[Investigator Dove]\nAt one time, the subjugation was actively carried out, but these days, it can be seen as a result of somewhat neglect.",
+        "pt": "[Agente Dora]\nInfelizmente, as pessoas negligenciaram essa informação e agora está faltando gente para ajudar.",
+        "es": "[Agente Dora]\nLamentablemente, la gente desestimó esa información y ahora falta gente que ayude."
     },
     "KRlYDA": {
-        "ko": "[조사관 도브]\n이 현상이 계속 진행된다면 위험하기 때문에 유노 몬스터 학회에서는 본격적인 토벌을 하기로 결정했습니다."
+        "ko": "[조사관 도브]\n이 현상이 계속 진행된다면 위험하기 때문에 유노 몬스터 학회에서는 본격적인 토벌을 하기로 결정했습니다.",
+        "en": "[Investigator Dove]\nIt is dangerous if this phenomenon continues, so the Juno Monster Society has decided to launch a full-scale suppression.",
+        "pt": "[Agente Dora]\nPor isso a Sociedade Juniana de Monstros entrou em ação, para não piorar essa situação.",
+        "es": "[Agente Dora]\nPor eso la Sociedad Juniana de Monstruos entró en acción, para que la situación no empeore."
     },
     "KhlYDA": {
-        "ko": "[조사관 도브]\n이렇게 토벌이 필요한 지역마다 조사관을 배치하여 토벌을 진행하고 있는 것이지요!"
+        "ko": "[조사관 도브]\n이렇게 토벌이 필요한 지역마다 조사관을 배치하여 토벌을 진행하고 있는 것이지요!",
+        "en": "[Investigator Dove]\nIn this way, investigators are deployed to each area that needs to be subjugated and the subjugation is in progress!",
+        "pt": "[Agente Dora]\nAssim, os Agentes são enviados em áreas mais críticas para contornar o problema!",
+        "es": "[Agente Dora]\n¡Así que los Agentes son enviados a áreas más críticas para solucionar el problema!"
     },
     "KxlYDA": {
-        "ko": "[조사관 도브]\n앗, 어디가세요??"
+        "ko": "[조사관 도브]\n앗, 어디가세요??",
+        "en": "[Investigator Dove]\nOh, where are you going??",
+        "pt": "[Agente Dora]\nEi, pra onde você vai??",
+        "es": "[Agente Dora]\n¡Oye, ¿a dónde vas??!"
     },
     "LBlYDA": {
-        "ko": "[조사관 도브]\n이 지역에서 종류와 상관 없이 80마리의 몬스터를 토벌해주시면 됩니다."
+        "ko": "[조사관 도브]\n이 지역에서 종류와 상관 없이 80마리의 몬스터를 토벌해주시면 됩니다.",
+        "en": "[Investigator Dove]\nYou just need to defeat 80 monsters of any type in this area.",
+        "pt": "[Agente Dora]\nVocê só precisa eliminar 80 monstros de qualquer espécie nesse mapa.",
+        "es": "[Agente Dora]\nSolo necesitas eliminar 80 monstruos de cualquier especie en este mapa."
     },
     "LRlYDA": {
-        "ko": "[조사관 도브]\n토벌 후에는 저에게 오셔서 보상을 받아가세요!!"
+        "ko": "[조사관 도브]\n토벌 후에는 저에게 오셔서 보상을 받아가세요!!",
+        "en": "[Investigator Dove]\nAfter you finish, come to me to get your reward!!",
+        "pt": "[Agente Dora]\nQuando completar a missão, volte a falar comigo!!",
+        "es": "[Agente Dora]\n¡Cuando completes la misión, vuelve a hablar conmigo!"
     },
     "LhlYDA": {
-        "ko": "[조사관 도브]\n무사히 돌아오셨군요!"
+        "ko": "[조사관 도브]\n무사히 돌아오셨군요!",
+        "en": "[Investigator Dove]\nYou came back safely!",
+        "pt": "[Agente Dora]\nVocê voltou com vida!",
+        "es": "[Agente Dora]\n¡Regresaste con vida!"
     },
     "LxlYDA": {
-        "ko": "[조사관 도브]\n이렇게 오늘의 목표는 겨우 달성했네요..."
+        "ko": "[조사관 도브]\n이렇게 오늘의 목표는 겨우 달성했네요...",
+        "en": "[Investigator Dove]\nI barely achieved my goal for today...",
+        "pt": "[Agente Dora]\nEu nem consegui terminar o meu trabalho...",
+        "es": "[Agente Dora]\nNi siquiera pude terminar mi trabajo..."
     },
     "MBlYDA": {
-        "ko": "[조사관 도브]\n혹시 내일에도 여유가 되신다면 또 와주세요!!"
+        "ko": "[조사관 도브]\n혹시 내일에도 여유가 되신다면 또 와주세요!!",
+        "en": "[Investigator Dove]\nIf you have time tomorrow, please come again!!",
+        "pt": "[Agente Dora]\nSe você tiver tempo livre amanhã, por favor, volte novamente!!",
+        "es": "[Agente Dora]\n¡Si tienes tiempo libre mañana, por favor, ¡vuelve otra vez!"
     },
     "MRlYDA": {
-        "ko": "[조사관 도브]\n아아, 오늘의 토벌은 이것으로 충분합니다!"
+        "ko": "[조사관 도브]\n아아, 오늘의 토벌은 이것으로 충분합니다!",
+        "en": "[Investigator Dove]\nAh, enough for today's Hunting quest!",
+        "pt": "[Agente Dora]\nAh! Isso é tudo por hoje!",
+        "es": "[Agente Dora]\n¡Ah! ¡Eso es todo por hoy!"
     },
     "MhlYDA": {
-        "ko": "[조사관 도브]\n내일 또 오셔서 몬스터 토벌을 도와주시면 감사하겠습니다!!"
+        "ko": "[조사관 도브]\n내일 또 오셔서 몬스터 토벌을 도와주시면 감사하겠습니다!!",
+        "en": "[Investigator Dove]\nI would appreciate it if you could come again tomorrow and help me defeat the monster!!",
+        "pt": "[Agente Dora]\nEu adoraria se você pudesse voltar amanhã para mais caçada!!",
+        "es": "[Agente Dora]\n¡Me encantaría que pudieras volver mañana para más cacería!"
     },
     "MxlYDA": {
-        "ko": "[조사관 도브]\n아~!! 정말 감사드려요~ 마침 목이 매우 말랐는데~"
+        "ko": "[조사관 도브]\n아~!! 정말 감사드려요~ 마침 목이 매우 말랐는데~",
+        "en": "[Investigator Dove]\nAh~!! Thank you so much~ I was really thirsty right now~",
+        "pt": "[Agente Dora]\nAh~!! Agradeço sua gentileza~ Eu estava com muita sede~",
+        "es": "[Agente Dora]\n¡Ah~!! Agradezco tu amabilidad~ Tenía mucha sed~"
     },
     "NBlYDA": {
-        "ko": "[조사관 도브]\n꿀꺽~ 꿀꺽~~~"
+        "ko": "[조사관 도브]\n꿀꺽~ 꿀꺽~~~",
+        "en": "[Investigator Dove]\nGulp~ Gulp~~~",
+        "pt": "[Agente Dora]\nGlub~ Glub~~~",
+        "es": "[Agente Dora]\nGlub~ Glub~~~"
     },
     "NRlYDA": {
-        "ko": "[조사관 도브]\n흐어어... 이 강렬한 맛...!"
+        "ko": "[조사관 도브]\n흐어어... 이 강렬한 맛...!",
+        "en": "[Investigator Dove]\nHuhhh.. so refreshing!",
+        "pt": "[Agente Dora]\nOh... que refrescante...!",
+        "es": "[Agente Dora]\nOh... ¡qué refrescante...!"
     },
     "NhlYDA": {
-        "ko": "[조사관 도브]\n에에.. 처음 뵙는 분이시군요, 잠시만요 저 이것좀 마저 마실테니까 잠깐만 있다가 말을 걸어주시겠어요?"
+        "ko": "[조사관 도브]\n에에.. 처음 뵙는 분이시군요, 잠시만요 저 이것좀 마저 마실테니까 잠깐만 있다가 말을 걸어주시겠어요?",
+        "en": "[Investigator Dove]\nEh... this is my first time seeing you. Wait a minute. I'm going to finish my drink.",
+        "pt": "[Agente Dora]\nEr... pois não? Essa é a primeira vez que te vejo. Deixe-me terminar essa água e já falo com você, ok?",
+        "es": "[Agente Dora]\nEh... ¿dime? Es la primera vez que te veo. Déjame terminar esta agua y ya hablo contigo, ¿ok?"
     },
     "NxlYDA": {
-        "ko": "[조사관 도브]\n안녕하세요!! 또 오셨군요! 유노 몬스터 학회에서 파견 온 조사관 도브입니다!"
+        "ko": "[조사관 도브]\n안녕하세요!! 또 오셨군요! 유노 몬스터 학회에서 파견 온 조사관 도브입니다!",
+        "en": "[Investigator Dove]\nHello!! You're here again! I'm Dove, an investigator dispatched from the Juno Monster Society!",
+        "pt": "[Agente Dora]\nOlá!! Você novamente! Eu sou Dora, da Sociedade Juniana de Monstros!",
+        "es": "[Agente Dora]\n¡Hola!! ¡Tú otra vez! Soy Dora, de la Sociedad Juniana de Monstruos."
     }
 }

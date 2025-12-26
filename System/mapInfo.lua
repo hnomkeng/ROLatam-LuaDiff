@@ -1230,11 +1230,11 @@ mapTbl = {
 		backgroundBmp = "dungeon"
 	},
 	["ant_d02_i.rsw"] = {
-		displayName = "Ilusão das Gêmeas",
+		displayName = "Jardim da Percep??o",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Ilusão das Gêmeas",
-			mainTitle = "Jardim da Percepção"
+			subTitle = "Ilus?o",
+			mainTitle = "Jardim da Percep??o"
 		},
 		backgroundBmp = "dungeon"
 	},

@@ -730,6 +730,213 @@ tbl = {
 			"Estado religioso governado por uma Papisa e seus sacerdotes. Por serem adoradores de Freya, seus nativos discriminam nativos de Rune-Midgard, por serem devotos de Odin. Arunafeltz foi fundada por imigrantes que eram perseguidos religiosamente no passado. A capital, Rachel, tem um enorme templo, Sessrumnir.\n\n\t\t\t\t<TIPBOX>» Página anterior<INFO>4001</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>» Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
+	[4193] = {
+		Title = "Sociedade de Monstros",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Visite os Auxiliares da Sociedade de Monstros para teleportar até o Agente de Missões de Caça.\n\t\t\t\n\t\t\t<NAVI>[Auxiliar Mumuz]<INFO>rachel,142,152,0,101,0</INFO></NAVI>\n\t\t\t<NAVI>[Auxiliar Eureka]<INFO>veins,215,122,0,101,0</INFO></NAVI>\n\t\t\t<NAVI>[Auxiliar Stafe]<INFO>lighthalzen,171,106,0,101,0</INFO></NAVI>\n\t\t\t<NAVI>[Auxiliar Lemain]<INFO>einbroch,246,186,0,101,0</INFO></NAVI>\n\t\t\t<NAVI>[Auxiliar Avery]<INFO>yuno,177,179,0,101,0</INFO></NAVI>\n\t\t\t<NAVI>[Auxiliar Kihana]<INFO>geffen,151,68,0,101,0</INFO></NAVI>\n\t\t\t<NAVI>[Auxiliar Alonzo]<INFO>prontera,168,125,0,101,0</INFO></NAVI>\n\t\t\t<NAVI>[Auxiliar Dunea]<INFO>alberta,124,59,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>Ø [71] Noroeste de Geffen<INFO>4196</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [75] Entrada de Thanatos<INFO>4198</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [75] Coral Estrelado<INFO>4199</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [75] Ilha da Tartaruga<INFO>4197</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [80] Caverna Tartaruga<INFO>4200</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [80] Vila Tartaruga<INFO>4201</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [70] Nordeste de Einbroch<INFO>4194</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [76] Noroeste de Einbroch<INFO>4202</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [71] Norte de Lighthalzen<INFO>4195</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [77] Campo de Lighthalzen<INFO>4203</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [80] Planície de Ida<INFO>4204</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [85] Planície Norte de Ida<INFO>4206</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [86] Vila da Colina<INFO>4209</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [85] Caverna de Gelo<INFO>4208</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [86] Pradaria Audhumbla<INFO>4210</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [87] Vila dos Kobolds<INFO>4211</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [88] Covil dos Lobos<INFO>4215</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [93] Portus Luna<INFO>4212</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [86] Campos de Veins<INFO>4205</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [90] Campos de Veins<INFO>4207</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [90] Arredor do Vulcão<INFO>4213</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø [95] Entrada do Vulcão<INFO>4214</INFO></TIPBOX>\n\t\t\t\n\t\t\t<TIPBOX>» Missões<INFO>4100</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Missões por Nível<INFO>4115</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4194] = {
+		Title = "Ø [70] Nordeste de Einbroch",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Há uma missão de caçada nos arredores de Einbroch. Fale com o Agente para começar.\n\t\t\tMapa: Nordeste de Einbroch\n\t\t\tAlvo: Holden e Metaling\n\t\t\t^663399Nível mínimo: 70^000000\n\t\t\t\n\t\t\t<NAVI>[Agente Infinity]<INFO>ein_fild06,257,351,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Sociedade de Monstros<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4195] = {
+		Title = "Ø [71] Norte de Lighthalzen#70",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Há uma missão de caçada nos arredores de Lighthalzen. Fale com o Agente para começar.\n\t\t\tMapa: Norte de Lighthalzen\n\t\t\tAlvo: Rafflesia, Talo de Verme e Metaling\n\t\t\t^663399Nível mínimo: 71^000000\n\t\t\t\n\t\t\t<NAVI>[Agente Lippiri]<INFO>lhz_fild01,240,107,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Sociedade de Monstros<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4196] = {
+		Title = "Ø [71] Noroeste de Geffen#70",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Há uma missão de caçada nos arredores de Geffen. Fale com o Agente para começar.\n\t\t\tMapa: Noroeste de Geffen­\n\t\t\tAlvo: Petite Verde, Sorrateiro e Louva-a-deus\n\t\t\t^663399Nível mínimo: 71^000000\n\t\t\t\n\t\t\t<NAVI>[Agente Geppel]<INFO>gef_fild06,209,31,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Sociedade de Monstros<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4197] = {
+		Title = "Ø [75] Ilha da Tartaruga#70",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Há uma missão de caçada na Ilha da Tartaruga. Fale com o Agente para começar.\n\t\t\tMapa: Ilha da Tartaruga\n\t\t\tAlvo: Coelho, Lavadeira, Peste e Batedor\n\t\t\t^663399Nível mínimo: 75^000000\n\t\t\t\n\t\t\t<NAVI>[Agente Terel]<INFO>tur_dun01,159,46,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Sociedade de Monstros<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4198] = {
+		Title = "Ø [75] Entrada de Thanatos#70",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Há uma missão de caçada na entrada da Torre de Thanatos. Fale com o Agente para começar.\n\t\t\tMapa: Arredores de Hugel\n\t\t\tAlvo: Novus, Ovo de Dragão e Planta Carnívora\n\t\t\t^663399Nível mínimo: 75^000000\n\t\t\t\n\t\t\t<NAVI>[Agente Hugo]<INFO>hu_fild01,133,157,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Sociedade de Monstros<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4199] = {
+		Title = "Ø [75] Coral Estrelado#70",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Há uma missão de caçada na caverna de Malangdo. Fale com o Agente para começar.\n\t\t\tMapa: Coral Estrelado\n\t\t\tAlvo: Eruma Vermelho e Siorava\n\t\t\t^663399Nível mínimo: 75^000000\n\t\t\t\n\t\t\t<NAVI>[Agente Madewon]<INFO>mal_dun01,141,126,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Sociedade de Monstros<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4200] = {
+		Title = "Ø [80] Caverna Tartaruga",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Há uma missão de caçada na caverna da Ilha da Tartaruga. Fale com o Agente para começar.\n\t\t\tMapa: Caverna da Ilha Tartaruga\n\t\t\tAlvo: Peste, Batedor, Solidificador e Congelador\n\t\t\t^663399Nível mínimo: 80^000000\n\t\t\t\n\t\t\t<NAVI>[Agente Tydon]<INFO>tur_dun02,151,256,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Sociedade de Monstros<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4201] = {
+		Title = "Ø [80] Vila Tartaruga",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Há uma missão de caçada na caverna da Ilha da Tartaruga. Fale com o Agente para começar.\n\t\t\tMapa: Vila das Boas Tartarugas\n\t\t\tAlvo: Agressor, Aquecedor, Congelador e Batedor\n\t\t\t^663399Nível mínimo: 80^000000\n\t\t\t\n\t\t\t<NAVI>[Agente Tsen­]<INFO>tur_dun03,125,186,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Sociedade de Monstros<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4202] = {
+		Title = "Ø [76] Noroeste de Einbroch#70",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Há uma missão de caçada nos arredores de Einbroch. Fale com o Agente para começar.\n\t\t\tMapa:Noroeste de Einbroch\n\t\t\tAlvo: Ursinho, Mineiros, Nuvem Tóxica e Nuvem Venenosa\n\t\t\t^663399Nível mínimo: 76^000000\n\t\t\t\n\t\t\t<NAVI>[Agente Tailing]<INFO>ein_fild03,135,46,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Sociedade de Monstros<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4203] = {
+		Title = "Ø [77] Campo de Lighthalzen#70",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Há uma missão de caçada nos arredores de Lighthalzen. Fale com o Agente para começar.\n\t\t\tMapa: Campo de Lighthalzen\n\t\t\tAlvo: Breeze, Talo de Verme, Metalling e Rafflesia\n\t\t\t^663399Nível mínimo: 77^000000\n\t\t\t\n\t\t\t<NAVI>[Agente Madaka]<INFO>lhz_fild03,167,344,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Sociedade de Monstros<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4204] = {
+		Title = "Ø [80] Planície de Ida",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Há uma missão de caçada na Planície de Ida. Fale com o Agente para começar.\n\t\t\tMapa: Planície de Ida\n\t\t\tAlvo: Anopheles e Roween\n\t\t\t^663399Nível mínimo: 80^000000\n\t\t\t\n\t\t\t<NAVI>[Agente Karina]<INFO>ra_fild12,50,219,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Sociedade de Monstros<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4205] = {
+		Title = "Ø [86] Campos de Veins#80",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Há uma missão de caçada nos arredores de Veins. Fale com o Agente para começar.\n\t\t\tMapa: Campos de Veins\n\t\t\tAlvo: Stapo, Drosera e Muscipular\n\t\t\t^663399Nível mínimo: 86^000000\n\t\t\t\n\t\t\t<NAVI>[Agente Chaveco]<INFO>ve_fild07,158,354,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Sociedade de Monstros<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4206] = {
+		Title = "Ø [85] Planície Norte de Ida#80",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Há uma missão de caçada na Planície de Ida. Fale com o Agente para começar.\n\t\t\tMapa: Planície Norte de Ida\n\t\t\tAlvo: Anaconda, Roween, Anopheles e Vento da Colina\n\t\t\t^663399Nível mínimo: 85^000000\n\t\t\t\n\t\t\t<NAVI>[Agente Ersia]<INFO>ra_fild08,163,47,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Sociedade de Monstros<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4207] = {
+		Title = "Ø [90] Campos de Veins",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Há uma missão de caçada nos arredores de Veins. Fale com o Agente para começar.\n\t\t\tMapa: Campos de Veins\n\t\t\tAlvo: Galion, Stapo, Drosera e Muscipular\n\t\t\t^663399Nível mínimo: 90^000000\n\t\t\t\n\t\t\t<NAVI>[Agente Suiron]<INFO>ve_fild01,354,280,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Sociedade de Monstros<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4208] = {
+		Title = "Ø [85] Caverna de Gelo#80",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Há uma missão de caçada na Caverna de Gelo. Fale com o Agente para começar.\n\t\t\tMapa: Caverna de Gelo\n\t\t\tAlvo: Siroma, Gazeti, Muscipular e Roween\n\t\t\t^663399Nível mínimo: 85^000000\n\t\t\t\n\t\t\t<NAVI>[Agente Dora]<INFO>ice_dun01,161,13,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Sociedade de Monstros<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4209] = {
+		Title = "Ø [86] Vila da Colina#80",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Há uma missão de caçada na Planície de Ida. Fale com o Agente para começar.\n\t\t\tMapa: Arredores de Rachel\n\t\t\tAlvo: Vento da Colina, Roween, Anopheles e Anaconda\n\t\t\t^663399Nível mínimo: 86^000000\n\t\t\t\n\t\t\t<NAVI>[Agente Lauren]<INFO>ra_fild03,368,183,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Sociedade de Monstros<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4210] = {
+		Title = "Ø [86] Pradaria Audhumbla#80",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Há uma missão de caçada nos arredores de Rachel. Fale com o Agente para começar.\n\t\t\tMapa: Arredores de Rachel\n\t\t\tAlvo: Vento da Colina, Lobo do Deserto, Roween e Anopheles\n\t\t\t^663399Nível mínimo: 86^000000\n\t\t\t\n\t\t\t<NAVI>[Agente Sukumari]<INFO>ra_fild04,274,69,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Sociedade de Monstros<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4211] = {
+		Title = "Ø [87] Vila dos Kobolds#80",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Há uma missão de caçada nos arredores de Rachel. Fale com o Agente para começar.\n\t\t\tMapa: Arredores de Rachel\n\t\t\tAlvo: Kobold, Anopheles\n\t\t\t^663399Nível mínimo: 87^000000\n\t\t\t\n\t\t\t<NAVI>[Agente Valangela]<INFO>ra_fild05,48,356,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Sociedade de Monstros<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4212] = {
+		Title = "Ø [93] Portus Luna#90",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Há uma missão de caçada nos arredores de Rachel. Fale com o Agente para começar.\n\t\t\tMapa: Portus Luna\n\t\t\tAlvo: Kobold Arqueiro, Kobold, Anopheles\n\t\t\t^663399Nível mínimo: 93^000000\n\t\t\t\n\t\t\t<NAVI>[Agente Kantu]<INFO>ra_fild06,292,39,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Sociedade de Monstros<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4213] = {
+		Title = "Ø [90] Arredor do Vulcão",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Há uma missão de caçada nos arredores de Veins. Fale com o Agente para começar.\n\t\t\tMapa: Arredores de Veins\n\t\t\tAlvo: Muscipular, Drosera e Galion\n\t\t\t^663399Nível mínimo: 90^000000\n\t\t\t\n\t\t\t<NAVI>[Agente Rania]<INFO>ve_fild04,52,242,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Sociedade de Monstros<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4214] = {
+		Title = "Ø [95] Entrada do Vulcão#90",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Há uma missão de caçada nos arredores de Veins. Fale com o Agente para começar.\n\t\t\tMapa: Arredores de Veins\n\t\t\tAlvo: Muscipular, Drosera e Magmaring\n\t\t\t^663399Nível mínimo: 95^000000\n\t\t\t\n\t\t\t<NAVI>[Agente Dew]<INFO>ve_fild03,348,230,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Sociedade de Monstros<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4215] = {
+		Title = "Ø [88] Covil dos Lobos#80",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Há uma missão de caçada nos arredores de Rachel. Fale com o Agente para começar.\n\t\t\tMapa: Arredores de Rachel\n\t\t\tAlvo: Lobo do Deserto, Roween, Anopheles\n\t\t\t^663399Nível mínimo: 88^000000\n\t\t\t\n\t\t\t<NAVI>[Agente Siaro]<INFO>ra_fild01,224,319,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Sociedade de Monstros<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
 	[7132] = {
 		Title = "Palácio das Mágoas (120)#Fenda Dimensional",
 		Search = 1,
@@ -863,6 +1070,60 @@ tbl = {
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
 			"A descoberta de uma cidade futurística está mobilizando historiadores, arqueólogos, viajantes e aventureiros para uma jornada que pretende revolucionar a ciência!\n\n\t\t\t<TIPBOX>» EP 15.1<INFO>10001</INFO></TIPBOX>\n\t\t\t<TIPBOX>» EP 15.2<INFO>10013</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>» Ver lista de Episódios<INFO>4101</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9085] = {
+		Title = "Ilusão",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Um lugar que não é aqui nem agora, mas ainda assim é real e existente. Deste lado você vê o outro, mas quem está do outro lado não consegue ver este lugar. Chamam esses espaços interdimensionais de Ilusões.\n\t\t\tAs Ilusões geralmente não possuem penalidade de nível para taxa de drops ou experiência, e são terras dimensionais onde <ITEM>[Pedra Fantasma]<INFO>25271</INFO></ITEM> sempre pode ser encontrada.\n\t\t\t\n\t\t\t<TIPBOX>»Ilusão da Luz da Lua<INFO>9086</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ilusão do Vampiro<INFO>9087</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ilusão do Gélido<INFO>9088</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ilusão de Gu Yanggong<INFO>9089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ilusão do Ursinho<INFO>9090</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ilusão de Luanda<INFO>9091</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ilusão do Labirinto<INFO>9092</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ilusão Subaquática<INFO>9093</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ilusão dos Gêmeos<INFO>9157</INFO></TIPBOX>\n\t\t\t\n\t\t\t§Sobre a Equipe de Pesquisa das Ilusões\n\t\t\tA Equipe de Pesquisa das Ilusões, especializada em investigar Ilusões, dá as boas-vindas aos aventureiros que desejam explorá-las.\n\t\t\tApós solicitar inscrição ao líder da equipe, <NAVI>[Joel]<INFO>prt_in,136,34,</INFO></NAVI>, em Prontera, você poderá realizar missões diárias de subjugação dentro de cada masmorra de Ilusão.\n\t\t\t<TIPBOX>»Equipe de Pesquisa das Ilusões<INFO>9126</INFO></TIPBOX>\n\t\t\t\n\t\t\t<TIPBOX>§Página Anterior<INFO>4100</INFO></TIPBOX>\n\t\t\t<TIPBOX>§Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9157] = {
+		Title = "Ilusão dos Gêmeos",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Um espaço desconhecido descoberto em algum lugar do 2º andar do Formigueiro.\n\t\t\tDizem que uma aventureira entrou sozinha, afirmando que uma amiga idêntica a ela estava em perigo.\n\t\t\tOs companheiros da aventureira insistem que ela deve ter visto uma ilusão e pedem que você a resgate...\n\t\t\t^663399◆Nível 160 ou superior^000000\n\t\t\t\n\t\t\t<NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t§Missão de Subjugação da Equipe de Pesquisa das Ilusões\n\t\t\t<TIPBOX>Q Derrotar 100 monstros da Ilusão dos Gêmeos (160)<INFO>10088</INFO></TIPBOX>\n\t\t\t\n\t\t\t§Missões diárias disponíveis após concluir a missão principal\n\t\t\t<TIPBOX>Q Pesquisa Geológica (160)<INFO>9158</INFO></TIPBOX>\n\t\t\t<TIPBOX>Q Fonte do Poder (160)<INFO>9159</INFO></TIPBOX>\n\t\t\t<TIPBOX>Q Coisas Idênticas (160)<INFO>9160</INFO></TIPBOX>\n\t\t\t<TIPBOX>Q Memórias Compartilhadas (160)<INFO>9161</INFO></TIPBOX>\n\t\t\t\n\t\t\tEnquanto avança pela Ilusão dos Gêmeos, você pode usar a <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM> e outros itens obtidos ali como materiais para trocar certos equipamentos por versões de desempenho superior.\n\t\t\tO equipamento a ser trocado deve estar refinado em +9 ou mais, e quaisquer melhorias anteriores, cartas ou opções serão removidas.\n\t\t\t^663399◆Local de Troca^000000\n\t\t\t§<NAVI>[Fromm]<INFO>ant_d02_i,175,186,0,101,0</INFO></NAVI>\n\t\t\t»<ITEM>[Malha Corredora Ilusional[1]]<INFO>450182</INFO></ITEM>\n\t\t\t+9 <ITEM>[Malha Corredora[1]]<INFO>2387</INFO></ITEM>, <ITEM>[Bola de Pelo de Morcego]<INFO>1000517</INFO></ITEM> 125°³, <ITEM>[Chapéu Gasto de Gaia]<INFO>1000514</INFO></ITEM> 55°³, <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM> 100°³\n\t\t\t»<ITEM>[Sapato Corredor Ilusional[1]]<INFO>470066</INFO></ITEM>\n\t\t\t+9 <ITEM>[Sapato Corredor[1]]<INFO>2440</INFO></ITEM>, <ITEM>[Pé Pequena]<INFO>1000515</INFO></ITEM> 75°³, <ITEM>[Perna de Formiga]<INFO>1000511</INFO></ITEM> 125°³, <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM> 100°³\n\t\t\t»<ITEM>[Ilusão do<INFO>550030</INFO></ITEM>\n\t\t\t<ITEM>Bastão de Espinhos Sombrio[2]]<INFO>550030</INFO></ITEM>\n\t\t\t+9 <ITEM>[Bastão de Espinhos Sombrio]<INFO>1636</INFO></ITEM>, <ITEM>[Mandíbula de Morcego]<INFO>1000516</INFO></ITEM> 75°³, <ITEM>[Pé Pequena]<INFO>1000515</INFO></ITEM> 75°³, <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM> 135°³\n\t\t\t»<ITEM>[Dea Ilusionnal<INFO>550031</INFO></ITEM>\n\t\t\t<ITEM>[Dea Ilusionnal[2]]<INFO>550031</INFO></ITEM>\n\t\t\t+9 <ITEM>[Dea Ilusionnal[1]]<INFO>2005</INFO></ITEM>, <ITEM>[Coroa da Maya]<INFO>1000518</INFO></ITEM> 15°³, <ITEM>[Perna de Formiga]<INFO>1000511</INFO></ITEM> 125°³, <ITEM>[Pé Pequena]<INFO>1000515</INFO></ITEM> 75°³, <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM> 150°³\n\t\t\t»<ITEM>[Gelerdria Ilusional[2]]<INFO>530015</INFO></ITEM>\n\t\t\t+9 <ITEM>[Gelerdria]<INFO>1414</INFO></ITEM>, <ITEM>[Chapéu Gasto de Gaia]<INFO>1000514</INFO></ITEM> 55°³, <ITEM>[Antena de Formiga]<INFO>1000510</INFO></ITEM> 125°³, <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM> 150°³\n\t\t\t»<ITEM>[Excalibur Ilusional[2]]<INFO>500030</INFO></ITEM>\n\t\t\t+9 <ITEM>[Excalibur]<INFO>1137</INFO></ITEM>, <ITEM>[Mandíbula de Morcego]<INFO>1000516</INFO></ITEM> 75°³, <ITEM>[Ácido Perigoso]<INFO>1000513</INFO></ITEM> 75°³, <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM> 135°³\n\t\t\t»<ITEM>[Apocalíptico Ilusional[2]]<INFO>620010</INFO></ITEM>\n\t\t\t+9 <ITEM>[Apocalíptico]<INFO>1370</INFO></ITEM>, <ITEM>[Ácido Perigoso]<INFO>500030</INFO></ITEM> 75°³, <ITEM>[Perna de Formiga]<INFO>1000511</INFO></ITEM> 125°³, <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM> 150°³\n\t\t\t»<ITEM>[Adaga Ancestral Ilusional[2]]<INFO>510034</INFO></ITEM>\n\t\t\t+9 <ITEM>[Adaga Ancestral]<INFO>13062</INFO></ITEM>, <ITEM>[Mandíbula de Morcego]<INFO>1000516</INFO></ITEM> 75°³, <ITEM>[Bola de Pelo de Morcego]<INFO>1000517</INFO></ITEM> 125°³, <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM> 135°³\n\t\t\t»<ITEM>[Vembrassa Ilusional[1]]<INFO>460017</INFO></ITEM>\n\t\t\t+9 <ITEM>[Vembrassa]<INFO>2101</INFO></ITEM>, <ITEM>[Antena de Formiga]<INFO>1000510</INFO></ITEM> 75°³, <ITEM>[Bola de Pelo de Morcego]<INFO>1000517</INFO></ITEM> 125°³, <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM> 100°³\n\t\t\t»<ITEM>[Prateada Ilusional[1]]<INFO>460018</INFO></ITEM>\n\t\t\t+9 <ITEM>[Prateada[1]]<INFO>2146</INFO></ITEM>, <ITEM>[Mandíbula de Formiga]<INFO>1000512</INFO></ITEM> 55°³, <ITEM>[Antena de Formiga]<INFO>1000510</INFO></ITEM> 125°³, <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM> 100°³\n\t\t\t»<ITEM>[Anel Corredor Ilusional[1]]<INFO>490120</INFO></ITEM>\n\t\t\t<ITEM>[Anel Corredor]<INFO>2744</INFO></ITEM>, <ITEM>[Ácido Perigoso]<INFO>1000513</INFO></ITEM> 75°³, <ITEM>[Antena de Formiga]<INFO>1000510</INFO></ITEM> 125°³, <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM> 120°³\n\t\t\t»<ITEM>[Luva Corredora Ilusional<INFO>490121</INFO></ITEM>\n\t\t\t<ITEM>[Luva Corredora[1]]<INFO>490121</INFO></ITEM>\n\t\t\t<ITEM>[Luva Corredora[1]]<INFO>2935</INFO></ITEM>, <ITEM>[Mandíbula de Formiga]<INFO>1000512</INFO></ITEM> 55°³, <ITEM>[Bola de Pelo de Morcego]<INFO>1000517</INFO></ITEM> 125°³, <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM> 120°³\n\n\t\t\t<TIPBOX>§Página Anterior<INFO>9085</INFO></TIPBOX>\n\t\t\t<TIPBOX>§Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9158] = {
+		Title = "Q Pesquisa Geológica (160)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Mirko pede que você recupere 20 Areias Secas do corajoso Gaia.\n\t\n\t\t\t<NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>§Ilusão dos Gêmeos<INFO>9157</INFO></TIPBOX> Concluído\n\t^663399◆Nível 160 ou superior^000000\n\n\t<TIPBOX>§Página Anterior<INFO>9093</INFO></TIPBOX>\n\t<TIPBOX>§Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9159] = {
+		Title = "Q Fonte do Poder (160)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Mirko pede que você recupere 20 Líquidos Opacos dos diligentes Deniro e Andre.\n\t\n\t\t\t<NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>§Ilusão dos Gêmeos<INFO>9157</INFO></TIPBOX> Concluído\n\t^663399◆Nível 160 ou superior^000000\n\n\t<TIPBOX>§Página Anterior<INFO>9093</INFO></TIPBOX>\n\t<TIPBOX>§Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9160] = {
+		Title = "Q Coisas Idênticas (160)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Mirko pede que você derrote 10 de cada: Vitata Diligente, Andre Soldado Diligente e Pierre Diligente.\n\t\n\t\t\t<NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>§Ilusão dos Gêmeos<INFO>9157</INFO></TIPBOX> Concluído\n\t^663399◆Nível 160 ou superior^000000\n\n\t<TIPBOX>§Página Anterior<INFO>9093</INFO></TIPBOX>\n\t<TIPBOX>§Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9161] = {
+		Title = "Q Memórias Compartilhadas (160)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Mirko pede que você reúna 20 Cascas de Reconhecimento.\n\t\n\t\t\t<NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>§Ilusão dos Gêmeos<INFO>9157</INFO></TIPBOX> Concluído\n\t^663399◆Nível 160 ou superior^000000\n\n\t<TIPBOX>§Página Anterior<INFO>9093</INFO></TIPBOX>\n\t<TIPBOX>§Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	}
 }

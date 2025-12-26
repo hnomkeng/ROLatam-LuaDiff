@@ -24359,16 +24359,16 @@ QuestInfoList = {
 	[8719] = {
 		Title = "A new section somewhere in ant hell",
 		Description = {
-			"While exploring on the second floor of the Ant Hells, Mirco and Yolanda have discovered a new ant burrow somewhere in the dungeon. But the place is..."
+			"While exploring on the second floor of the Ant Hells, Mirko and Yolanda have discovered a new ant burrow somewhere in the dungeon. But the place is..."
 		},
-		Summary = "Talk to Mirco"
+		Summary = "Talk to Mirko"
 	},
 	[8720] = {
-		Title = "Mirco Request (1)",
+		Title = "Mirko Request (1)",
 		Description = {
-			"Mirco tells you that fellow adventurer Briashen has gone missing."
+			"Mirko tells you that fellow adventurer Briashen has gone missing."
 		},
-		Summary = "Talk to Mirco"
+		Summary = "Talk to Mirko"
 	},
 	[8721] = {
 		Title = "Where is Briashen?",
@@ -24380,14 +24380,14 @@ QuestInfoList = {
 	[8722] = {
 		Title = "A message from Briashen",
 		Description = {
-			"Briashen said, she can't go back right now, and asked me to tell <NAVI>[Mirco]<INFO>anthell02,177,190,0,101,0</INFO></NAVI> that I'm okay. She seems strangely fine."
+			"Briashen said, she can't go back right now, and asked me to tell <NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI> that I'm okay. She seems strangely fine."
 		},
-		Summary = "Talk to Mirco"
+		Summary = "Talk to Mirko"
 	},
 	[8723] = {
-		Title = "Mirco Request (2)",
+		Title = "Mirko Request (2)",
 		Description = {
-			"Giving up on getting Briashen out of the Garden of Perception, Mirco asks you to help her instead."
+			"Giving up on getting Briashen out of the Garden of Perception, Mirko asks you to help her instead."
 		},
 		Summary = "Talk to Briashen"
 	},
@@ -24401,7 +24401,7 @@ QuestInfoList = {
 	[8725] = {
 		Title = "It looks just like...? (1)",
 		Description = {
-			"A ranger named Rwella says she's looking for Briashen.But that's not the name she's looking for...? She says so, and Rwella disappears."
+			"A ranger named Ruelle says she's looking for Briashen.But that's not the name she's looking for...? She says so, and Ruelle disappears."
 		},
 		Summary = ""
 	},
@@ -24422,9 +24422,9 @@ QuestInfoList = {
 	[8728] = {
 		Title = "Who is Kharis?",
 		Description = {
-			"The people who look like Briashen in the Garden of Perception don't seem to be human, at least not human. Let's go back to <NAVI>[Mirco]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>."
+			"The people who look like Briashen in the Garden of Perception don't seem to be human, at least not human. Let's go back to <NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Mirco"
+		Summary = "Talk to Mirko"
 	},
 	[8729] = {
 		Title = "Where is Briashen? (2)",
@@ -24436,74 +24436,74 @@ QuestInfoList = {
 	[8730] = {
 		Title = "Maze of Perceptions",
 		Description = {
-			"Mirco is uneasy when you tell him that you actually saw Kharis and that you think it was an ant. Getting Briashen out of the Garden of Perception seems to be the top priority."
+			"Mirko is uneasy when you tell him that you actually saw Kharis and that you think it was an ant. Getting Briashen out of the Garden of Perception seems to be the top priority."
 		},
-		Summary = "Take Briashen to Mirco"
+		Summary = "Take Briashen to Mirko"
 	},
 	[8731] = {
-		Title = "(Daily) Geological Survey",
+		Title = "Geological Survey",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Mirco needs 20 Fine Dry Sand from Interpid Giearth"
+			"Mirko needs 20 Fine Dry Sand from Intrepid Giearth"
 		},
 		Summary = "Bring 20 Fine Dry Sand"
 	},
 	[8732] = {
-		Title = "(Cooldown) Geological Survey",
+		Title = "[Cooldown] Geological Survey",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Daily quest cooldown, talk to Mirco tomorrow."
+			"Daily quest cooldown, talk to <NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI> tomorrow."
 		},
 		Summary = "Reset at 4.00am",
 		CoolTimeQuest = 1
 	},
 	[8733] = {
-		Title = "(Daily) Source of Power",
+		Title = "Source of Power",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Mirco needs 20 Opaque Liquids from Dilligent Andre Larva."
+			"<NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI> needs 20 Opaque Liquids from Dilligent Andre Larva."
 		},
 		Summary = "Bring 20 Opaque Liquids"
 	},
 	[8734] = {
-		Title = "(Cooldown) Source of Power",
+		Title = "[Cooldown] Source of Power",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Daily quest cooldown, talk to Mirco tomorrow."
+			"Daily quest cooldown, talk to <NAVI>Mirko<INFO>anthell02,177,190,0,101,0</INFO></NAVI> tomorrow."
 		},
 		Summary = "Reset at 4.00am",
 		CoolTimeQuest = 1
 	},
 	[8735] = {
-		Title = "(Daily) Same Thing",
+		Title = "Same Thing",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Mirco ask you to defeat 10 Diligent Vitata, 10 Diligent Soldier Andre, and 10 Diligent Piere."
+			"<NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI> ask you to defeat 10 Diligent Vitata, 10 Diligent Soldier Andre, and 10 Diligent Piere."
 		},
-		Summary = "Talk to Mirco when complete"
+		Summary = "Talk to Mirko when complete"
 	},
 	[8736] = {
-		Title = "(Cooldown) Same Thing",
+		Title = "[Cooldown] Same Thing",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Daily quest cooldown, talk to Mirco tomorrow."
+			"Daily quest cooldown, talk to <NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI> tomorrow."
 		},
 		Summary = "Reset at 4.00am",
 		CoolTimeQuest = 1
 	},
 	[8737] = {
-		Title = "(Daily) Shared Memory",
+		Title = "Shared Memory",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Collect 20 Shell of Cognition."
+			"Collect 20 <ITEM>[Shell of Cognition]<INFO>1000506</INFO></ITEM>. Talk to <NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI> when complete"
 		},
 		Summary = "Bring 20 Shell of Cognition."
 	},
 	[8738] = {
-		Title = "(Cooldown) Shared Memory",
+		Title = "[Cooldown] Shared Memory",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Daily quest cooldown, talk to Mirco tomorrow."
+			"Daily quest cooldown, talk to <NAVI>Mirko<INFO>anthell02,177,190,0,101,0</INFO></NAVI> tomorrow."
 		},
 		Summary = "Reset at 4.00am",
 		CoolTimeQuest = 1
@@ -71940,5 +71940,47 @@ Talk to Kar=],
 		NpcNavi = "geffen",
 		NpcPosX = 40,
 		NpcPosY = 141
+	},
+	[20000] = {
+		Title = "User Character Verification Complete",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Your user character verification for RagFes has been completed!"
+		},
+		Summary = "RagFes"
+	},
+	[20022] = {
+		Title = "I Am the God of Refinement! (1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The \"I Am the God of Refinement!\" event (Round 1) is currently in progress."
+		},
+		Summary = ""
+	},
+	[20023] = {
+		Title = "I Am the God of Refinement! (2)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The \"I Am the God of Refinement!\" event (Round 2) is currently in progress."
+		},
+		Summary = ""
+	},
+	[20024] = {
+		Title = "I Am the God of Refinement! (3)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The \"I Am the God of Refinement!\" event (Round 3) is currently in progress."
+		},
+		Summary = ""
+	},
+	[20025] = {
+		Title = "[Waiting] I Am the God of Refinement!",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Today's \"I Am the God of Refinement!\" event has ended.",
+			"You can try again after the event venue opens tomorrow."
+		},
+		Summary = "Reset at 11:00",
+		CoolTimeQuest = 1
 	}
 }

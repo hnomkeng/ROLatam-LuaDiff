@@ -20,5 +20,23 @@ RecommendedQuestInfoList = {
 		QuestInfo3 = {
 			"^ff0000* This page is not the actual Quest page but an introduction for it. It won't be deleted, even if you complete the quest.^000000"
 		}
+	},
+	[79] = {
+		Title = "Illusion of Twins",
+		IconName = "ico_sc.bmp",
+		Summary = "Four adventurers with the same appearance. Whose illusion is it?",
+		BgName = "reco_79.bmp",
+		QuestInfo1 = {
+			"Someone in Ant Hell Dungeon claims to have seen an adventurer who looks exactly like themselves...",
+			"But strangely, no one else has seen such a thing.",
+			"Go to <NAVI>[Ant Hell]<INFO>anthell02,177,190,0,101,0</INFO></NAVI> and find out what happened!"
+		},
+		QuestInfo2 = {
+			"Requirements",
+			"^990000Adventurer level 160 or higher^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000* This page is not a quest but an update introduction. It will not be removed even if the quest is completed. Please keep this in mind.^000000"
+		}
 	}
 }

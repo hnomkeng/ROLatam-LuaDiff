@@ -7948,6 +7948,15 @@ mapTbl = {
 		notifyEnter = true,
 		signName = {mainTitle = "Bazar"},
 		backgroundBmp = "village_s2"
+	},
+	["ant_d02_i.rsw"] = {
+		displayName = "Jardín de la Percepción",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Ilusión",
+			mainTitle = "Jardín de la Percepción"
+		},
+		backgroundBmp = "dungeon"
 	}
 }
 function main()

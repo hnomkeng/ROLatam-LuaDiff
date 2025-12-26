@@ -1,554 +1,1106 @@
 {
     "wJFWDA": {
-        "ko": "조사관 인피유"
+        "ko": "조사관 인피유",
+        "en": "Investigator Infinity",
+        "pt": "Agente Infinity",
+        "es": "Agente Infinity"
     },
     "wZFWDA": {
-        "ko": "<유노 몬스터 학회>"
+        "ko": "<유노 몬스터 학회>",
+        "en": "<Juno Monster Society>",
+        "pt": "Sociedade de Monstros",
+        "es": "Sociedad de Monstruos"
     },
     "wpFWDA": {
-        "ko": "- 소지하고 계신 아이템이 많아 진행할 수 없습니다. -"
+        "ko": "- 소지하고 계신 아이템이 많아 진행할 수 없습니다. -",
+        "en": "- You cannot proceed because you have too many items. -",
+        "pt": "- Você tem muitos itens e não pode prosseguir. -",
+        "es": "- Tienes demasiados ítems y no puedes continuar. -"
     },
     "w5FWDA": {
-        "ko": "[조사관 인피유]\n유노 몬스터 학회에서는 토벌 의뢰를 진행하고 있습니다. 근데 아직 의뢰를 수행하기에는 약해 보이시네요."
+        "ko": "[조사관 인피유]\n유노 몬스터 학회에서는 토벌 의뢰를 진행하고 있습니다. 근데 아직 의뢰를 수행하기에는 약해 보이시네요.",
+        "en": "[Investigator Infinity]\nSorry you are too weak, we only accept Adventurer with level 70 or higher.",
+        "pt": "[Agente Infinity]\nA Sociedade Juniana de Monstros necessita de pessoas experientes para a pesquisa. Infelizmente, você não está no nível adequado.",
+        "es": "[Agente Infinity]\nLa Sociedad Juniana de Monstruos necesita personas con experiencia para la investigación. Lamentablemente, no tienes el nivel adecuado."
     },
     "xJFWDA": {
-        "ko": "[조사관 인피유]\n안녕하세요~ 모험가님~ 유노 몬스터 학회에서 파견 나온 인피유에요."
+        "ko": "[조사관 인피유]\n안녕하세요~ 모험가님~ 유노 몬스터 학회에서 파견 나온 인피유에요.",
+        "en": "[Investigator Infinity]\nHello~ Adventurer~ I'm Infinity, I am from the Juno Monster Society.",
+        "pt": "[Agente Infinity]\nOi~ Meu nome é Infinity, da Sociedade Juniana de Monstros.",
+        "es": "[Agente Infinity]\nHola~ Mi nombre es Infinity, de la Sociedad Juniana de Monstruos."
     },
     "xZFWDA": {
-        "ko": "토벌 의뢰를 받는다."
+        "ko": "토벌 의뢰를 받는다.",
+        "en": "Receive Hunting Quest.",
+        "pt": "Iniciar caçada.",
+        "es": "Iniciar cacería."
     },
     "xpFWDA": {
-        "ko": "토벌 의뢰?"
+        "ko": "토벌 의뢰?",
+        "en": "Monster Society Hunting Quest?",
+        "pt": "Como funciona?",
+        "es": "¿Cómo funciona?"
     },
     "x5FWDA": {
-        "ko": "가까운 도시로 순간이동."
+        "ko": "가까운 도시로 순간이동.",
+        "en": "Teleport to nearby city.",
+        "pt": "Teleportar para cidade.",
+        "es": "Teletransportar a ciudad."
     },
     "yJFWDA": {
-        "ko": "반갑게 인사한다."
+        "ko": "반갑게 인사한다.",
+        "en": "Greetings ~",
+        "pt": "Só vim dizer oi.",
+        "es": "Solo vine a saludar."
     },
     "yZFWDA": {
-        "ko": "[조사관 인피유]\n우와! 정말요? 의뢰는 간단해요. 이곳 아인브로크 필드의 몬스터 80마리를 잡는 일이에요."
+        "ko": "[조사관 인피유]\n우와! 정말요? 의뢰는 간단해요. 이곳 아인브로크 필드의 몬스터 80마리를 잡는 일이에요.",
+        "en": "[Investigator Infinity]\nWow! Really? The quest is simple. It's to kill 80 monsters in Einbroch Field.",
+        "pt": "[Agente Infinity]\nEita, já? A pesquisa é simples: Elimine 80 monstros desse campo de Einbroch.",
+        "es": "[Agente Infinity]\n¿Oh, ya? La investigación es simple: Elimina 80 monstruos en este campo de Einbroch."
     },
     "ypFWDA": {
-        "ko": "[조사관 인피유]\n모험가님 실력이라면 간단하게 해결하고 돌아오실 수 있겠죠? 기대할게요."
+        "ko": "[조사관 인피유]\n모험가님 실력이라면 간단하게 해결하고 돌아오실 수 있겠죠? 기대할게요.",
+        "en": "[Investigator Infinity]\nIf you're an adventurer, this quest is easy, right?",
+        "pt": "[Agente Infinity]\nQuando finalizar, volte até mim para dar baixa nos relatórios.",
+        "es": "[Agente Infinity]\nCuando termines, regresa conmigo para entregar los reportes."
     },
     "y5FWDA": {
-        "ko": "[조사관 인피유]\n최근 몬스터 군락지가 확장하는 현상을 감지했답니다."
+        "ko": "[조사관 인피유]\n최근 몬스터 군락지가 확장하는 현상을 감지했답니다.",
+        "en": "[Investigator Infinity]\nWe have recently detected an expansion of monster colonies.",
+        "pt": "[Agente Infinity]\nRecentemente a SJM detectou uma explosão demográfica dos monstros.",
+        "es": "[Agente Infinity]\nRecientemente, la SJM detectó una explosión demográfica de monstruos."
     },
     "zJFWDA": {
-        "ko": "[조사관 인피유]\n몬스터의 개체 수가 늘어서 그런 것 같은데, 아무래도 예전만큼 몬스터 토벌을 하지 않아서 그런 것 같아요."
+        "ko": "[조사관 인피유]\n몬스터의 개체 수가 늘어서 그런 것 같은데, 아무래도 예전만큼 몬스터 토벌을 하지 않아서 그런 것 같아요.",
+        "en": "[Investigator Infinity]\nI think it's because the number of monsters has increased, but I think it's because I don't hunt monsters as much as I used to.",
+        "pt": "[Agente Infinity]\nNós nunca fizemos controle populacional, então é importante sabermos os dados para pesquisas futuras.",
+        "es": "[Agente Infinity]\nNunca hemos hecho control poblacional, así que es importante conocer los datos para futuras investigaciones."
     },
     "zZFWDA": {
-        "ko": "[조사관 인피유]\n더 이상 몬스터 군락지가 확장하는 것을 막기위해 유노 몬스터 학회에서는 대대적인 토벌을 계획하게 되었어요."
+        "ko": "[조사관 인피유]\n더 이상 몬스터 군락지가 확장하는 것을 막기위해 유노 몬스터 학회에서는 대대적인 토벌을 계획하게 되었어요.",
+        "en": "[Investigator Infinity]\nIn order to prevent further expansion of monster colonies, the Yuno Monster Society has planned a large-scale subjugation.",
+        "pt": "[Agente Infinity]\nPara coletar essas informações e prevenir aumento de mais monstros, foi criada a SJM.",
+        "es": "[Agente Infinity]\nPara recolectar esta información y prevenir el aumento de más monstruos, se creó la SJM."
     },
     "zpFWDA": {
-        "ko": "[조사관 인피유]\n개체 수가 증가한 군락지들끼리 충돌하면, 주변 주민에게 피해가 갈 수 있으니까요."
+        "ko": "[조사관 인피유]\n개체 수가 증가한 군락지들끼리 충돌하면, 주변 주민에게 피해가 갈 수 있으니까요.",
+        "en": "[Investigator Infinity]\nIf there is too many monster, it will be dangerous to nearby resident.",
+        "pt": "[Agente Infinity]\nSe a quantidade de monstros aumentar, será ruim para nossa população.",
+        "es": "[Agente Infinity]\nSi la cantidad de monstruos aumenta, será malo para nuestra población."
     },
     "z5FWDA": {
-        "ko": "[조사관 인피유]\n아인브로크로 이동시켜 드릴까요? <ITEM>[초절탄산수]<INFO>1000374</INFO></ITEM> 1개를 주면 보내드릴 수 있어요."
+        "ko": "[조사관 인피유]\n아인브로크로 이동시켜 드릴까요? <ITEM>[초절탄산수]<INFO>1000374</INFO></ITEM> 1개를 주면 보내드릴 수 있어요.",
+        "en": "[Investigator Infinity]\nWould you like to teleport to Einbroch? It cost 1 <ITEM>[Carbonated Water]<INFO>1000374</INFO></ITEM>.",
+        "pt": "[Agente Infinity]\nDeseja ir para Einbroch? Me dê 1 <ITEM>[Água Mineral]<INFO>1000374</INFO></ITEM> para o teleporte.",
+        "es": "[Agente Infinity]\n¿Deseas ir a Einbroch? Dame 1 <ITEM>[Agua Mineral]<INFO>1000374</INFO></ITEM> para el teletransporte."
     },
     "0JFWDA": {
-        "ko": "초절탄산수 1개를 준다."
+        "ko": "초절탄산수 1개를 준다.",
+        "en": "Give 1 Sparkling Carbonated Water.",
+        "pt": "Dar Água Mineral.",
+        "es": "Dar Agua Mineral."
     },
     "0ZFWDA": {
-        "ko": "[조사관 인피유]\n바이바이~ 다음에 또 봐요."
+        "ko": "[조사관 인피유]\n바이바이~ 다음에 또 봐요.",
+        "en": "[Investigator Infinity]\nBye bye~ See you next time.",
+        "pt": "[Agente Infinity]\nAté logo~ Vejo você em breve.",
+        "es": "[Agente Infinity]\nHasta luego~ Te veo pronto."
     },
     "0pFWDA": {
-        "ko": "[조사관 인피유]\n초절탄산수 없으시면서 근데 유노 몬스터 학회에서는 이걸 왜 받으라고 했을까요? 그냥 음료수인데."
+        "ko": "[조사관 인피유]\n초절탄산수 없으시면서 근데 유노 몬스터 학회에서는 이걸 왜 받으라고 했을까요? 그냥 음료수인데.",
+        "en": "[Investigator Infinity]\nYou don't have enough Carbonated Water.",
+        "pt": "[Agente Infinity]\nVocê não tem a Água Mineral. Dá pra comprar uma em um Bebedouro.",
+        "es": "[Agente Infinity]\nNo tienes el Agua Mineral. Puedes comprar una en un Bebedero."
     },
     "05FWDA": {
-        "ko": "[조사관 인피유]\n나도 반가워요. 토벌 의뢰를 받아주면 더 반가울 거 같은데?"
+        "ko": "[조사관 인피유]\n나도 반가워요. 토벌 의뢰를 받아주면 더 반가울 거 같은데?",
+        "en": "[Investigator Infinity]\nHello Adventurer.",
+        "pt": "[Agente Infinity]\nOi~",
+        "es": "[Agente Infinity]\nHola~"
     },
     "1JFWDA": {
-        "ko": "[조사관 인피유]\n이곳 아인브로크 필드의 몬스터 80마리를 잡아주시면 된답니다. 다 잡으신 후에는 저에게 돌아와서 보상을 받으시고요."
+        "ko": "[조사관 인피유]\n이곳 아인브로크 필드의 몬스터 80마리를 잡아주시면 된답니다. 다 잡으신 후에는 저에게 돌아와서 보상을 받으시고요.",
+        "en": "[Investigator Infinity]\nYou just need to kill 80 monsters here in Einbroch Field. After you defeat them all, come back to me and receive your reward.",
+        "pt": "[Agente Infinity]\nElimine 80 monstros desse Campo de Einbroch e reporte para mim.",
+        "es": "[Agente Infinity]\nElimina 80 monstruos de este Campo de Einbroch e infórmame."
     },
     "1ZFWDA": {
-        "ko": "[조사관 인피유]\n고맙고 또 고생하셨어요.\n요즘 위에서는 실적이 없다고 쪼아 대지 이 삭막한 곳에 나와 피곤하고 힘들지."
+        "ko": "[조사관 인피유]\n고맙고 또 고생하셨어요.\n요즘 위에서는 실적이 없다고 쪼아 대지 이 삭막한 곳에 나와 피곤하고 힘들지.",
+        "en": "[Investigator Infinity]\nThank you for your hard work.\nThese days, the higher-ups are pecking at me for my lack of performance, so I'm tired and tired out here in this dreary place.",
+        "pt": "[Agente Infinity]\nObrigada.\nFico lisonjeada pela sua dedicação.",
+        "es": "[Agente Infinity]\nGracias.\nMe siento honrada por tu dedicación."
     },
     "1pFWDA": {
-        "ko": "[조사관 인피유]\n미안해요. 너무 감사해서 잠깐 하소연 좀 해봤어요. 내일도 도와주시면, 두 배로 고마울 거 같은데, 잘 부탁해요."
+        "ko": "[조사관 인피유]\n미안해요. 너무 감사해서 잠깐 하소연 좀 해봤어요. 내일도 도와주시면, 두 배로 고마울 거 같은데, 잘 부탁해요.",
+        "en": "[Investigator Infinity]\nSorry. I was so grateful that I took a moment to complain. If you help me tomorrow, I'll be doubly grateful, so please take care of it.",
+        "pt": "[Agente Infinity]\nSe você desejar, pode retornar amanhã para refazer a pesquisa.",
+        "es": "[Agente Infinity]\nSi lo deseas, puedes regresar mañana para repetir la investigación."
     },
     "15FWDA": {
-        "ko": "[조사관 인피유]\n인피유는 과도한 업무로 피곤해하고 있으니, 내일 와주세요. 토벌 의뢰는 하루에 한번만 가능하니까요."
+        "ko": "[조사관 인피유]\n인피유는 과도한 업무로 피곤해하고 있으니, 내일 와주세요. 토벌 의뢰는 하루에 한번만 가능하니까요.",
+        "en": "[Investigator Infinity]\nIm so tired from excessive work, so please come tomorrow. Subjugation quests can only be completed once per day..",
+        "pt": "[Agente Infinity]\nEstou bem cansada por hoje. Por que não volta amanhã?",
+        "es": "[Agente Infinity]\nEstoy bastante cansada por hoy. ¿Por qué no vuelves mañana?"
     },
     "2JFWDA": {
-        "ko": "피곤해 보이시는데 음료수 좀 드릴까요?"
+        "ko": "피곤해 보이시는데 음료수 좀 드릴까요?",
+        "en": "You look tired. Can I get you 3 drinks?",
+        "pt": "Quer 3x Água Mineral?",
+        "es": "¿Quieres 3x Agua Mineral?"
     },
     "2ZFWDA": {
-        "ko": "[조사관 인피유]\n고마워요. 피곤했는데 잘 됐네요."
+        "ko": "[조사관 인피유]\n고마워요. 피곤했는데 잘 됐네요.",
+        "en": "[Investigator Infinity]\nThank you. I was tired, but it worked out well..",
+        "pt": "[Agente Infinity]\nObrigada, estou com sede.",
+        "es": "[Agente Infinity]\nGracias, tengo sed."
     },
     "2pFWDA": {
-        "ko": "꿀꺽- 꿀꺽-"
+        "ko": "꿀꺽- 꿀꺽-",
+        "en": "Gulp- Gulp-",
+        "pt": "*Glub* *Glub*",
+        "es": "*Glup* *Glup*"
     },
     "25FWDA": {
-        "ko": "[조사관 인피유]\n응? 깜빡 잠들었 나보네요. 제가 토벌 의뢰에 대해 말 했나요? 응? 잠 좀 깨게 조금 있다 다시 말 걸어 주실래요?"
+        "ko": "[조사관 인피유]\n응? 깜빡 잠들었 나보네요. 제가 토벌 의뢰에 대해 말 했나요? 응? 잠 좀 깨게 조금 있다 다시 말 걸어 주실래요?",
+        "en": "[Investigator Infinity]\nhuh? I guess I fell asleep. Did I mention the subjugation request? huh? Could you please talk to me again later so I can wake up?",
+        "pt": "[Agente Infinity]\nHã? O quê? Ah! Eu devo ter esquecido de te dar a missão de hoje. Fale comigo novamente, por favor!",
+        "es": "[Agente Infinity]\n¿Eh? ¿Qué? ¡Ah! Debo haberme olvidado de darte la misión de hoy. ¡Háblame de nuevo, por favor!"
     },
     "3JFWDA": {
-        "ko": "[조사관 인피유]\n초절탄산수는 어디에 있어요? 힝- 좋다 말았네. 3개쯤 받을 줄 알았는데."
+        "ko": "[조사관 인피유]\n초절탄산수는 어디에 있어요? 힝- 좋다 말았네. 3개쯤 받을 줄 알았는데.",
+        "en": "[Investigator Infinity]\nWhere is the carbonated water? I thought I would get about 3 Sparkling Carbonated Water.",
+        "pt": "[Agente Infinity]\nTá, mas... onde está a Água Mineral? Eu, hein.",
+        "es": "[Agente Infinity]\nEstá bien, pero... ¿dónde está el Agua Mineral? Qué cosa..."
     },
     "3ZFWDA": {
-        "ko": "[조사관 인피유]\n토벌 의뢰를 다시 진행하실 수 있어요."
+        "ko": "[조사관 인피유]\n토벌 의뢰를 다시 진행하실 수 있어요.",
+        "en": "[Investigator Infinity]\nYou can proceed with the Hunting quest again.",
+        "pt": "[Agente Infinity]\nPodemos fazer a missão novamente.",
+        "es": "[Agente Infinity]\nPodemos hacer la misión nuevamente."
     },
     "3pFWDA": {
-        "ko": "[E-R-R-O-R]\n오류 상황을 해결했습니다. 재 시도 시에도 같은 현상이 발행하면 스크린 샷을 찍어 운영팀에 문의해주세요."
+        "ko": "[E-R-R-O-R]\n오류 상황을 해결했습니다. 재 시도 시에도 같은 현상이 발행하면 스크린 샷을 찍어 운영팀에 문의해주세요.",
+        "en": "[E-R-R-O-R]\nFixed the error situation. If the same problem occurs even after retrying, please take a screenshot and contact the operation team.",
+        "pt": "[E-R-R-O-R]\nUm erro ocorreu. Tire uma screenshot e envie para a Central de Suporte.",
+        "es": "[E-R-R-O-R]\nOcurrió un error. Toma una captura de pantalla y envíala al Centro de Soporte."
     },
     "35FWDA": {
-        "ko": "조사관 리피리"
+        "ko": "조사관 리피리",
+        "en": "Investigator Lippiri",
+        "pt": "Agente Lippiri",
+        "es": "Agente Lippiri"
     },
     "4JFWDA": {
-        "ko": "[조사관 리피리]\n유노 몬스터 학회에서 진행하는 토벌 의뢰를 수행하시기에는 부족해 보이시네요. 최소 71레벨부터 토벌 의뢰를 드리라는 지시를 받았거든요."
+        "ko": "[조사관 리피리]\n유노 몬스터 학회에서 진행하는 토벌 의뢰를 수행하시기에는 부족해 보이시네요. 최소 71레벨부터 토벌 의뢰를 드리라는 지시를 받았거든요.",
+        "en": "[Investigator Lippiri]\nIt looks like you're not good enough to fulfill the hunting request from the Juno Monster Society. I was instructed to submit subjugation quests starting at level 71.",
+        "pt": "[Agente Lippiri]\nA Sociedade Juniana de Monstros necessita de pessoas experientes para a pesquisa. Infelizmente, você não está no nível adequado.",
+        "es": "[Agente Lippiri]\nLa Sociedad Juniana de Monstruos necesita personas con experiencia para la investigación. Lamentablemente, no tienes el nivel adecuado."
     },
     "4ZFWDA": {
-        "ko": "[조사관 리피리]\n유노 몬스터 학회 입니다."
+        "ko": "[조사관 리피리]\n유노 몬스터 학회 입니다.",
+        "en": "[Investigator Lippiri]\nThis is the Juno Monster Society.",
+        "pt": "[Agente Lippiri]\nSou da Sociedade Juniana de Monstros.",
+        "es": "[Agente Lippiri]\nSoy de la Sociedad Juniana de Monstruos."
     },
     "4pFWDA": {
-        "ko": "왜 이렇게 퉁명해요?"
+        "ko": "왜 이렇게 퉁명해요?",
+        "en": "Why are you so blunt?",
+        "pt": "Por que está tão sério?",
+        "es": "¿Por qué tan serio?"
     },
     "45FWDA": {
-        "ko": "[조사관 리피리]\n이곳 리히타르젠 필드의 몬스터를 80마리 잡아주시면 됩니다."
+        "ko": "[조사관 리피리]\n이곳 리히타르젠 필드의 몬스터를 80마리 잡아주시면 됩니다.",
+        "en": "[Investigator Lippiri]\nYou just need to kill 80 monsters here in Lighthalzen Field.",
+        "pt": "[Agente Lippiri]\nBasta eliminar 80 monstros neste campo de Lighthalzen.",
+        "es": "[Agente Lippiri]\nSolo debes eliminar 80 monstruos en este campo de Lighthalzen."
     },
     "5JFWDA": {
-        "ko": "[조사관 리피리]\n고맙고 감사합니다. 실적이 생겼네요."
+        "ko": "[조사관 리피리]\n고맙고 감사합니다. 실적이 생겼네요.",
+        "en": "[Investigator Lippiri]\nComeback again when you done.",
+        "pt": "[Agente Lippiri]\nAgradeceria se voltasse aqui para reportar seus resultados.",
+        "es": "[Agente Lippiri]\nTe agradecería si volvieras aquí para reportar tus resultados."
     },
     "5ZFWDA": {
-        "ko": "[조사관 리피리]\n저도 아르바이트로 나와 있는 거라. 자세한 내용은 모르겠네요."
+        "ko": "[조사관 리피리]\n저도 아르바이트로 나와 있는 거라. 자세한 내용은 모르겠네요.",
+        "en": "[Investigator Lippiri]\nI'm also working part-time. I don't know the details.",
+        "pt": "[Agente Lippiri]\nEstou aqui como estagiário, então não entendo muito bem o funcionamento.",
+        "es": "[Agente Lippiri]\nEstoy aquí como pasante, así que no entiendo muy bien el funcionamiento."
     },
     "5pFWDA": {
-        "ko": "[조사관 리피리]\n몬스터 군락지 어쩌고 개체 수 어쩌고 하는 설명을 시작할 때 듣긴 했는데.."
+        "ko": "[조사관 리피리]\n몬스터 군락지 어쩌고 개체 수 어쩌고 하는 설명을 시작할 때 듣긴 했는데..",
+        "en": "[Investigator Lippiri]\nI heard it at the beginning when they started explaining things like monster colonies and population numbers.",
+        "pt": "[Agente Lippiri]\nNo começo, tinha ouvido falar que havia uma superpoulação de monstros, mas...",
+        "es": "[Agente Lippiri]\nAl principio, escuché que había una superpoblación de monstruos, pero..."
     },
     "55FWDA": {
-        "ko": "[조사관 리피리]\n설명 듣는데 좀 졸아가지고요. 설명이 너무 어렵더라구요."
+        "ko": "[조사관 리피리]\n설명 듣는데 좀 졸아가지고요. 설명이 너무 어렵더라구요.",
+        "en": "[Investigator Lippiri]\nI fell asleep while listening to the explanation. It was too difficult to explain.",
+        "pt": "[Agente Lippiri]\nEu estava sonolento na hora da explicação e perdi o fio da meada.",
+        "es": "[Agente Lippiri]\nEstaba somnoliento durante la explicación y perdí el hilo."
     },
     "6JFWDA": {
-        "ko": "[조사관 리피리]\n뭐 중요한 건 리히타르젠 필드의 몬스터를 잡고 보상을 받아가는 거 아닐까요?"
+        "ko": "[조사관 리피리]\n뭐 중요한 건 리히타르젠 필드의 몬스터를 잡고 보상을 받아가는 거 아닐까요?",
+        "en": "[Investigator Lippiri]\nWell, isn't the important thing to catch monsters in Lighthalzen Field and receive rewards?",
+        "pt": "[Agente Lippiri]\nAcho que você deve só caçar monstros nesse campo, certo?",
+        "es": "[Agente Lippiri]\nCreo que solo debes cazar monstruos en este campo, ¿verdad?"
     },
     "6ZFWDA": {
-        "ko": "[조사관 리피리]\n가까운 도시면 리히타르젠이네요. <ITEM>[초절탄산수]<INFO>1000374</INFO></ITEM> 1개를 주면 보내드릴 수 있어요."
+        "ko": "[조사관 리피리]\n가까운 도시면 리히타르젠이네요. <ITEM>[초절탄산수]<INFO>1000374</INFO></ITEM> 1개를 주면 보내드릴 수 있어요.",
+        "en": "[Investigator Lippiri]\nThe nearest city is Lighthalzen. It cost 1 <ITEM>[Carbonated Water]<INFO>1000374</INFO></ITEM>.",
+        "pt": "[Agente Lippiri]\nA cidade mais próxima é Lighthalzen. Me dê 1 <ITEM>[Água Mineral]<INFO>1000374</INFO></ITEM> para o teleporte.",
+        "es": "[Agente Lippiri]\nLa ciudad más cercana es Lighthalzen. Dame 1 <ITEM>[Agua Mineral]<INFO>1000374</INFO></ITEM> para teletransportarte."
     },
     "6pFWDA": {
-        "ko": "[조사관 리피리]\n다음에 또 봐요~"
+        "ko": "[조사관 리피리]\n다음에 또 봐요~",
+        "en": "[Investigator Lippiri]\nSee you next time~",
+        "pt": "[Agente Lippiri]\nAté.",
+        "es": "[Agente Lippiri]\nHasta luego."
     },
     "65FWDA": {
-        "ko": "[조사관 리피리]\n에? 초절탄산수는 어디 있나요?"
+        "ko": "[조사관 리피리]\n에? 초절탄산수는 어디 있나요?",
+        "en": "[Investigator Lippiri]\nWhere is the Carbonated Water?",
+        "pt": "[Agente Lippiri]\nHã? Você verificou se está mesmo com o item?",
+        "es": "[Agente Lippiri]\n¿Eh? ¿Verificaste si realmente tienes el ítem?"
     },
     "7JFWDA": {
-        "ko": "[조사관 리피리]\n미안하게 됐네요. 너무 졸려서요. 보수가 짭짤해서 아르바이트 나왔더니"
+        "ko": "[조사관 리피리]\n미안하게 됐네요. 너무 졸려서요. 보수가 짭짤해서 아르바이트 나왔더니",
+        "en": "[Investigator Lippiri]\nI sorry. I'm so sleepy. Im here for part-time job because the pay was good.",
+        "pt": "[Agente Lippiri]\nDesculpe, é que estou sonolento. Só topei esse estágio porque o salário é ótimo.",
+        "es": "[Agente Lippiri]\nDisculpa, es que tengo sueño. Solo acepté esta pasantía porque el salario es excelente."
     },
     "7ZFWDA": {
-        "ko": "[조사관 리피리]\n대타도 없이.. 왠 종일 세워 둘 줄이야.. 일단은 착실하게 일하고 나중에 그만 둔 후에 고소해 버릴 거에요."
+        "ko": "[조사관 리피리]\n대타도 없이.. 왠 종일 세워 둘 줄이야.. 일단은 착실하게 일하고 나중에 그만 둔 후에 고소해 버릴 거에요.",
+        "en": "[Investigator Lippiri]\nI never thought I'd work all day... I'll work hard for now and later quit and sue..",
+        "pt": "[Agente Lippiri]\nSó não... esperava ter que ficar em pé no sol o dia inteiro, mas acho que vale a pena.",
+        "es": "[Agente Lippiri]\nSolo que... no esperaba tener que estar de pie bajo el sol todo el día, pero creo que vale la pena."
     },
     "7pFWDA": {
-        "ko": "[조사관 리피리]\n리히타르젠 필드의 몬스터 80마리를 잡아주시면 됩니다. 다 잡으시면 저에게 확인 받으시고 보상을 받아가세요."
+        "ko": "[조사관 리피리]\n리히타르젠 필드의 몬스터 80마리를 잡아주시면 됩니다. 다 잡으시면 저에게 확인 받으시고 보상을 받아가세요.",
+        "en": "[Investigator Lippiri]\nAll you have to do is defeat 80 monsters in Lighthalzen Field. If you defeat them all, please confirm with me and receive a reward..",
+        "pt": "[Agente Lippiri]\nAssim que eliminar 80 monstros desse campo, venha à mim para concluirmos o relatório.",
+        "es": "[Agente Lippiri]\nTan pronto como elimines 80 monstruos de este campo, ven a mí para concluir el reporte."
     },
     "75FWDA": {
-        "ko": "[조사관 리피리]\n고생하셨습니다. 어.. 토벌 의뢰는 개체 수 어쩌고 하는 문제 때문에 하루에 한번만 가능해서 내일 다시 하실 수 있어요."
+        "ko": "[조사관 리피리]\n고생하셨습니다. 어.. 토벌 의뢰는 개체 수 어쩌고 하는 문제 때문에 하루에 한번만 가능해서 내일 다시 하실 수 있어요.",
+        "en": "[Investigator Lippiri]\nThank you for your hard work. Uh... Hunting quests can only be done once a day, so you can do it again tomorrow.",
+        "pt": "[Agente Lippiri]\nObrigado pelo seu esforço... er... essa missão só pode ser completada uma vez por dia, então, te vejo amanhã.",
+        "es": "[Agente Lippiri]\nGracias por tu esfuerzo... eh... esta misión solo se puede completar una vez al día, así que te veo mañana."
     },
     "8JFWDA": {
-        "ko": "[조사관 리피리]\n아 너무 피곤하네요. 제발 대타가 좀 구해졌으면.."
+        "ko": "[조사관 리피리]\n아 너무 피곤하네요. 제발 대타가 좀 구해졌으면..",
+        "en": "[Investigator Lippiri]\nOh, I'm so tired..",
+        "pt": "[Agente Lippiri]\nUaah... que sono...",
+        "es": "[Agente Lippiri]\nUaah... qué sueño..."
     },
     "8ZFWDA": {
-        "ko": "[조사관 리피리]\n리히타르젠 필드 토벌 의뢰는 내일 다시 하실 수 있습니다. 피곤하실 텐데 들어가 쉬세요. 저도 좀 피곤하네요."
+        "ko": "[조사관 리피리]\n리히타르젠 필드 토벌 의뢰는 내일 다시 하실 수 있습니다. 피곤하실 텐데 들어가 쉬세요. 저도 좀 피곤하네요.",
+        "en": "[Investigator Lippiri]\nYou can repeat the Lighthalzen Field subjugation request tomorrow. You must be tired, so go in and rest. I'm a little tired too.",
+        "pt": "[Agente Lippiri]\nVocê pode repetir a missão de caçada amanhã. Você deveria tirar um cochilo... e eu também.",
+        "es": "[Agente Lippiri]\nPuedes repetir la misión de cacería mañana. Deberías tomar una siesta... y yo también."
     },
     "8pFWDA": {
-        "ko": "[조사관 리피리]\n정말요?! 말로만 들었지 한번도 마셔본 적은 없는데, 그게 효과가 그렇게 좋다 던데."
+        "ko": "[조사관 리피리]\n정말요?! 말로만 들었지 한번도 마셔본 적은 없는데, 그게 효과가 그렇게 좋다 던데.",
+        "en": "[Investigator Lippiri]\nReally?! i always want Sparkling Carbonated Water.",
+        "pt": "[Agente Lippiri]\nSério? Poxa, obrigado, estava morrendo de sede.",
+        "es": "[Agente Lippiri]\n¿En serio? Vaya, gracias, me moría de sed."
     },
     "85FWDA": {
-        "ko": "꿀꺽- 촵촵- 캬아~"
+        "ko": "꿀꺽- 촵촵- 캬아~",
+        "en": "Gulp- ??- Kya~",
+        "pt": "*Glub* Aaahh~",
+        "es": "*Glup* Aaahh~"
     },
     "9JFWDA": {
-        "ko": "[조사관 리피리]\n어?! 아 맞다. 아르바이트 중 이었지? 앗! 유노 몬스터 학회 입니다. 어서오세욧!"
+        "ko": "[조사관 리피리]\n어?! 아 맞다. 아르바이트 중 이었지? 앗! 유노 몬스터 학회 입니다. 어서오세욧!",
+        "en": "[Investigator Lippiri]\nHuh?! Oh, that's right. You were working part-time, right? Ah! This is the Juno Monster Society. Welcome!!",
+        "pt": "[Agente Lippiri]\nHã?! Ah, você veio aqui para uma missão, certo?! Sou da Sociedade Juniana de Monstros. Vamos fazer a caçada do dia!",
+        "es": "[Agente Lippiri]\n¡¿Eh?! ¡Ah, viniste aquí por una misión, cierto! Soy de la Sociedad Juniana de Monstruos. ¡Hagamos la cacería del día!"
     },
     "9ZFWDA": {
-        "ko": "[조사관 리피리]\n와... 안 그래도 피곤한데 놀리지 마세요. 3개는 들이켜야 좀 덜 피곤할 거 같은데."
+        "ko": "[조사관 리피리]\n와... 안 그래도 피곤한데 놀리지 마세요. 3개는 들이켜야 좀 덜 피곤할 거 같은데.",
+        "en": "[Investigator Lippiri]\nDon't make fun of me. I think I'll feel less tired if I drink three Sparking Carbonated Water..",
+        "pt": "[Agente Lippiri]\nUrgh... Eu já estou cansado e você ainda tira uma onda comigo fingindo que tem Água Mineral.",
+        "es": "[Agente Lippiri]\nUrgh... Ya estoy cansado y encima te burlas de mí fingiendo que tienes Agua Mineral."
     },
     "9pFWDA": {
-        "ko": "[조사관 리피리]\n토벌 의뢰를 다시 진행하실 수 있겠네요."
+        "ko": "[조사관 리피리]\n토벌 의뢰를 다시 진행하실 수 있겠네요.",
+        "en": "[Investigator Lippiri]\nYou can proceed with the Hunting quest again.",
+        "pt": "[Agente Lippiri]\nVocê pode repetir a missão de caçada hoje.",
+        "es": "[Agente Lippiri]\nPuedes repetir la misión de cacería hoy."
     },
     "95FWDA": {
-        "ko": "조사관 게필"
+        "ko": "조사관 게필",
+        "en": "Investigator Geppel",
+        "pt": "Agente Geppel",
+        "es": "Agente Geppel"
     },
     "+JFWDA": {
-        "ko": "[조사관 게필]\n토벌 의뢰를 수행하시기엔 부족해 보이십니다만, 71레벨 정도는 수행하고 오시죠."
+        "ko": "[조사관 게필]\n토벌 의뢰를 수행하시기엔 부족해 보이십니다만, 71레벨 정도는 수행하고 오시죠.",
+        "en": "[Investigator Geppel]\nYou may not be able to complete the Hunting quest, you should reach level 71 first.",
+        "pt": "[Agente Geppel]\nVocê precisa ter o nível maior ou igual a 71 para prosseguir com o diálogo.",
+        "es": "[Agente Geppel]\nNecesitas tener nivel mayor o igual a 71 para continuar con el diálogo."
     },
     "+ZFWDA": {
-        "ko": "[조사관 게필]\n유노 몬스터 학회에서 토벌 의뢰를 하실 분을 모집하고 있습니다."
+        "ko": "[조사관 게필]\n유노 몬스터 학회에서 토벌 의뢰를 하실 분을 모집하고 있습니다.",
+        "en": "[Investigator Geppel]\nThe Juno Monster Society is recruiting people to submit subjugation requests.",
+        "pt": "[Agente Geppel]\nA Sociedade Juniana de Monstros está recrutando aventureiros para missões de caça diária.",
+        "es": "[Agente Geppel]\nLa Sociedad Juniana de Monstruos está reclutando aventureros para misiones de caza diaria."
     },
     "+pFWDA": {
-        "ko": "여유가 있어 보이시네요?"
+        "ko": "여유가 있어 보이시네요?",
+        "en": "You look relaxed?",
+        "pt": "Você tá bem?",
+        "es": "¿Estás bien?"
     },
     "+5FWDA": {
-        "ko": "[조사관 게필]\n감사합니다. 이곳 게펜 필드의 몬스터 80마리를 잡아주시면 됩니다. 다 잡으시면, 저에게 오셔서 보고해주시면 되겠습니다."
+        "ko": "[조사관 게필]\n감사합니다. 이곳 게펜 필드의 몬스터 80마리를 잡아주시면 됩니다. 다 잡으시면, 저에게 오셔서 보고해주시면 되겠습니다.",
+        "en": "[Investigator Geppel]\nThank you You just need to defeat 80 monsters here in Geffen Field. If you defeat them all, you can come and report to me..",
+        "pt": "[Agente Geppel]\nValeu. Você deve matar 80 monstros aqui nos campos de Geffen. Assim que eliminá-los, reporte a missão para mim.",
+        "es": "[Agente Geppel]\nGracias. Debes matar 80 monstruos aquí en los campos de Geffen. Tan pronto como los elimines, repórtame la misión."
     },
     "/JFWDA": {
-        "ko": "[조사관 게필]\n최근 몬스터의 개체수가 증가하는 추세를 보이고 있어서요."
+        "ko": "[조사관 게필]\n최근 몬스터의 개체수가 증가하는 추세를 보이고 있어서요.",
+        "en": "[Investigator Geppel]\nRecently, the population of monsters has been increasing.",
+        "pt": "[Agente Geppel]\nRecentemente, notamos que a população de monstros aumentou muito.",
+        "es": "[Agente Geppel]\nRecientemente, notamos que la población de monstruos aumentó mucho."
     },
     "/ZFWDA": {
-        "ko": "[조사관 게필]\n아무래도 몬스터가 증가하다 보면, 군락지가 넓어지고 몬스터끼리 세력다툼으로 충돌하면 인간이 피해볼 수 있으니까요."
+        "ko": "[조사관 게필]\n아무래도 몬스터가 증가하다 보면, 군락지가 넓어지고 몬스터끼리 세력다툼으로 충돌하면 인간이 피해볼 수 있으니까요.",
+        "en": "[Investigator Geppel]\nAs the number of monsters increases, the colony area expands, and if monsters clash for power, humans cant avoid them.",
+        "pt": "[Agente Geppel]\nÀ medida que o número de monstros aumenta, a área da colônia se expande e, se os monstros lutarem por poder, os humanos poderão temê-los.",
+        "es": "[Agente Geppel]\nA medida que el número de monstruos crece, el área de la colonia se expande y, si los monstruos luchan por poder, los humanos podrían temerles."
     },
     "/pFWDA": {
-        "ko": "[조사관 게필]\n미리미리 방지하는 차원이죠."
+        "ko": "[조사관 게필]\n미리미리 방지하는 차원이죠.",
+        "en": "[Investigator Geppel]\nIt's about prevention in advance.",
+        "pt": "[Agente Geppel]\nÉ uma questão de prevenção antecipada.",
+        "es": "[Agente Geppel]\nEs una cuestión de prevención anticipada."
     },
     "/5FWDA": {
-        "ko": "[조사관 게필]\n<ITEM>[초절탄산수]<INFO>1000374</INFO></ITEM> 1개를 주시면 게펜으로 보내드릴 수 있습니다."
+        "ko": "[조사관 게필]\n<ITEM>[초절탄산수]<INFO>1000374</INFO></ITEM> 1개를 주시면 게펜으로 보내드릴 수 있습니다.",
+        "en": "[Investigator Geppel]\nIf you give me one <ITEM>[Sparkling Carbonated Water]<INFO>1000374</INFO></ITEM>, I can send you to Geffen.",
+        "pt": "[Agente Geppel]\nSe me der 1 <ITEM>[Água Mineral]<INFO>1000374</INFO></ITEM> posso enviar você para Geffen.",
+        "es": "[Agente Geppel]\nSi me das 1 <ITEM>[Agua Mineral]<INFO>1000374</INFO></ITEM> puedo enviarte a Geffen."
     },
     "AJJWDA": {
-        "ko": "[조사관 게필]\n그럼 다음에 또 뵙겠습니다. 좋은 여행하시길.."
+        "ko": "[조사관 게필]\n그럼 다음에 또 뵙겠습니다. 좋은 여행하시길..",
+        "en": "[Investigator Geppel]\nSee you next time. Have a nice trip.",
+        "pt": "[Agente Geppel]\nVejo você uma outra hora. Até a próxima.",
+        "es": "[Agente Geppel]\nTe veo en otra ocasión. Hasta la próxima."
     },
     "AZJWDA": {
-        "ko": "[조사관 게필]\n초절탄산수를 안 가지고 계시군요. 겨우 음료수지만 말입니다."
+        "ko": "[조사관 게필]\n초절탄산수를 안 가지고 계시군요. 겨우 음료수지만 말입니다.",
+        "en": "[Investigator Geppel]\nYou don't have Sparkling carbonated water.",
+        "pt": "[Agente Geppel]\nVocê não tem nenhuma Água Mineral.",
+        "es": "[Agente Geppel]\nNo tienes Agua Mineral."
     },
     "ApJWDA": {
-        "ko": "[조사관 게필]\n아! 그래 보이십니까? 피곤을 늘 달고 사는 편이라 서요. 모든 걸 내려 놓고 피곤을 받아들여서 그렇게 보이는게 아닐까요? 대체 제가 뭔 소릴 하는 걸까요?"
+        "ko": "[조사관 게필]\n아! 그래 보이십니까? 피곤을 늘 달고 사는 편이라 서요. 모든 걸 내려 놓고 피곤을 받아들여서 그렇게 보이는게 아닐까요? 대체 제가 뭔 소릴 하는 걸까요?",
+        "en": "[Investigator Geppel]\nAh! Does it look like that? I'm the type of person who always feels tired. Isn't it because we let go of everything and accepted the fatigue that makes us look like that? What on earth am I talking about?",
+        "pt": "[Agente Geppel]\nAh! Você notou? Sou o tipo de pessoa que vive com um cansaço constante. Será que é porque deixo tudo de lado e aceito o cansaço que me faz parecer assim? Do que diabos estou falando?",
+        "es": "[Agente Geppel]\n¡Ah! ¿Lo notaste? Soy el tipo de persona que vive con un cansancio constante. ¿Será porque dejo todo de lado y acepto el cansancio lo que me hace parecer así? ¿De qué diablos estoy hablando?"
     },
     "A5JWDA": {
-        "ko": "[조사관 게필]\n피곤하니까 별 소릴 다하네요."
+        "ko": "[조사관 게필]\n피곤하니까 별 소릴 다하네요.",
+        "en": "[Investigator Geppel]\nBecause I'm tired, I'm not saying anything.",
+        "pt": "[Agente Geppel]\nEu falo demais porque vivo com esse cansaço.",
+        "es": "[Agente Geppel]\nHablo demasiado porque vivo con este cansancio."
     },
     "BJJWDA": {
-        "ko": "[조사관 게필]\n이곳 게펜 필드의 몬스터 80마리를 잡으신 후 저에게 오셔서 보고하시면 됩니다."
+        "ko": "[조사관 게필]\n이곳 게펜 필드의 몬스터 80마리를 잡으신 후 저에게 오셔서 보고하시면 됩니다.",
+        "en": "[Investigator Geppel]\nAfter defeating 80 monsters here in Geffen Field, you can come and report to me..",
+        "pt": "[Agente Geppel]\nAssim que eliminar 80 monstros dos campos de Geffen, volte a falar comigo.",
+        "es": "[Agente Geppel]\nTan pronto como elimines 80 monstruos de los campos de Geffen, vuelve a hablar conmigo."
     },
     "BZJWDA": {
-        "ko": "[조사관 게필]\n고생하셨습니다. 당분간은 또 안심이겠군요. 저도 이제 쉴 수 있겠습니다. 토벌 의뢰는 내일 또 가능하니 시간이 되신다면 또 들러주세요."
+        "ko": "[조사관 게필]\n고생하셨습니다. 당분간은 또 안심이겠군요. 저도 이제 쉴 수 있겠습니다. 토벌 의뢰는 내일 또 가능하니 시간이 되신다면 또 들러주세요.",
+        "en": "[Investigator Geppel]\nThank you for your hard work. I guess I'll feel safe again for a while. I can rest now too. The Hunting quest is available again tomorrow, so please stop by again if you have time..",
+        "pt": "[Agente Geppel]\nAgradeço seu trabalho árduo. Posso descansar agora. Os pedidos de caça estarão disponíveis novamente amanhã, então, se você tiver tempo, por favor, passe por aqui novamente.",
+        "es": "[Agente Geppel]\nAgradezco tu trabajo arduo. Puedo descansar ahora. Las solicitudes de caza estarán disponibles nuevamente mañana, así que, si tienes tiempo, por favor, pasa por aquí otra vez."
     },
     "BpJWDA": {
-        "ko": "[조사관 게필]\n토벌 의뢰는 내일 다시 수행하실 수 있습니다. 피곤하실 텐데 도시로 돌아가 쉬시지요."
+        "ko": "[조사관 게필]\n토벌 의뢰는 내일 다시 수행하실 수 있습니다. 피곤하실 텐데 도시로 돌아가 쉬시지요.",
+        "en": "[Investigator Geppel]\nYou can complete the Hunting quest again tomorrow. You must be tired. Let's go back to the city and rest..",
+        "pt": "[Agente Geppel]\nVocê pode refazer a caçada só amanhã. Você deve estar nas últimas, então volte para a cidade e descanse.",
+        "es": "[Agente Geppel]\nPuedes repetir la cacería solo mañana. Debes estar agotado, así que regresa a la ciudad y descansa."
     },
     "B5JWDA": {
-        "ko": "[조사관 게필]\n아! 요즘 인기라는 초절탄산수인가요? 잘 마시겠습니다."
+        "ko": "[조사관 게필]\n아! 요즘 인기라는 초절탄산수인가요? 잘 마시겠습니다.",
+        "en": "[Investigator Geppel]\nAh! Is this Sparkling carbonated water that popular these days? I'll drink it!!",
+        "pt": "[Agente Geppel]\nAh! A famosa Água Mineral que todos falam? Vou experimentar.",
+        "es": "[Agente Geppel]\n¡Ah! ¿La famosa Agua Mineral de la que todos hablan? Voy a probarla."
     },
     "CJJWDA": {
-        "ko": "[조사관 게필]\n어?! 여기는 어디지? 아! 깜빡 잠들었나? 손님이 오셨군요."
+        "ko": "[조사관 게필]\n어?! 여기는 어디지? 아! 깜빡 잠들었나? 손님이 오셨군요.",
+        "en": "[Investigator Geppel]\nUh?! Where am I? ah! Did I fall asleep? An adventurer has arrived..",
+        "pt": "[Agente Geppel]\nHã?! Onde estou? Ah! Adormeci? Oh, viajante.",
+        "es": "[Agente Geppel]\n¡¿Eh?! ¿Dónde estoy? ¡Ah! ¿Me dormí? Oh, viajero."
     },
     "CZJWDA": {
-        "ko": "[조사관 게필]\n초절탄산수를 안 가지고 계시군요. 겨우 음료수 3개지만 말입니다."
+        "ko": "[조사관 게필]\n초절탄산수를 안 가지고 계시군요. 겨우 음료수 3개지만 말입니다.",
+        "en": "[Investigator Geppel]\nYou don't have Sparkling carbonated water. I need 3..",
+        "pt": "[Agente Geppel]\nVocê não tem Água Mineral... precisaria de umas 3 delas.",
+        "es": "[Agente Geppel]\nNo tienes Agua Mineral... necesitarías unas 3."
     },
     "CpJWDA": {
-        "ko": "[조사관 게필]\n토벌 의뢰를 다시 진행하실 수 있으십니다."
+        "ko": "[조사관 게필]\n토벌 의뢰를 다시 진행하실 수 있으십니다.",
+        "en": "[Investigator Geppel]\nYou can proceed with the hunting quest again.",
+        "pt": "[Agente Geppel]\nVocê pode fazer a missão de caça novamente.",
+        "es": "[Agente Geppel]\nPuedes hacer la misión de caza nuevamente."
     },
     "C5JWDA": {
-        "ko": "조사관 터얼"
+        "ko": "조사관 터얼",
+        "en": "Investigator Terel",
+        "pt": "Agente Terel",
+        "es": "Agente Terel"
     },
     "DJJWDA": {
-        "ko": "[조사관 터얼]\n거북이 섬 토벌 의뢰는 75레벨부터 가능합니다."
+        "ko": "[조사관 터얼]\n거북이 섬 토벌 의뢰는 75레벨부터 가능합니다.",
+        "en": "[Investigator Terel]\nTurtle Island Hunting quests are available starting from level 75.",
+        "pt": "[Agente Terel]\nVocê precisa ter o nível de base maior ou igual a 75 para iniciar a missão.",
+        "es": "[Agente Terel]\nNecesitas tener nivel base mayor o igual a 75 para iniciar la misión."
     },
     "DZJWDA": {
-        "ko": "[조사관 터얼]\n히힉.. 아이고 몬스터인 줄 알았네요. 토벌 의뢰를 받으러 오셨나요?"
+        "ko": "[조사관 터얼]\n히힉.. 아이고 몬스터인 줄 알았네요. 토벌 의뢰를 받으러 오셨나요?",
+        "en": "[Investigator Terel]\nHehe... Oh my, I thought you are a monster. Have you come to receive a Hunting quest?",
+        "pt": "[Agente Terel]\nAaah... Nossa, pensei que fosse um monstro. Você está aqui para receber uma missão de caça?",
+        "es": "[Agente Terel]\nAaah... Vaya, pensé que eras un monstruo. ¿Estás aquí para recibir una misión de caza?"
     },
     "DpJWDA": {
-        "ko": "요리사 아니에요?"
+        "ko": "요리사 아니에요?",
+        "en": "Aren't you a chef?",
+        "pt": "Você não é um Chef?",
+        "es": "¿No eres un Chef?"
     },
     "D5JWDA": {
-        "ko": "[조사관 터얼]\n타라 프로그를 제외한 거북이 섬의 몬스터 80마리를 잡으시면 됩니다. 다 잡으시면, 저에게 오셔서 보상을 받으시고요."
+        "ko": "[조사관 터얼]\n타라 프로그를 제외한 거북이 섬의 몬스터 80마리를 잡으시면 됩니다. 다 잡으시면, 저에게 오셔서 보상을 받으시고요.",
+        "en": "[Investigator Terel]\nYou just need to defeat 80 monsters on Turtle Island, excluding Thara Frog. If you defeat them all, come to me and get your reward.",
+        "pt": "[Agente Terel]\nTudo o que você precisa fazer é matar 80 monstros na Ilha da Tartaruga, exceto os Sapos de Thara. Se você pegar todos eles, venha até mim para receber sua recompensa.",
+        "es": "[Agente Terel]\nTodo lo que debes hacer es matar 80 monstruos en la Isla de la Tortuga, excepto los Sapos de Thara. Si los cazas a todos, ven a mí para recibir tu recompensa."
     },
     "EJJWDA": {
-        "ko": "[조사관 터얼]\n여기 거북이 섬의 몬스터를 80마리 잡으시면 되는 의뢰입니다."
+        "ko": "[조사관 터얼]\n여기 거북이 섬의 몬스터를 80마리 잡으시면 되는 의뢰입니다.",
+        "en": "[Investigator Terel]\nThis is a quest that requires you to kill 80 monsters on Turtle Island.",
+        "pt": "[Agente Terel]\nEsta é uma missão onde você tem que matar 80 monstros na Ilha da Tartaruga.",
+        "es": "[Agente Terel]\nEsta es una misión donde debes matar 80 monstruos en la Isla de la Tortuga."
     },
     "EZJWDA": {
-        "ko": "[조사관 터얼]\n아아! 그러고보니 타라 프로그는 잡아도 카운트 되지 않습니다. 뭐 건들지 않으면 얌전한 몬스터 이니 피해다시시면 되겠네요."
+        "ko": "[조사관 터얼]\n아아! 그러고보니 타라 프로그는 잡아도 카운트 되지 않습니다. 뭐 건들지 않으면 얌전한 몬스터 이니 피해다시시면 되겠네요.",
+        "en": "[Investigator Terel]\nAh! Come to think of it, even if you catch a Thara Frog, it doesn't count. It's a quiet monster if you don't touch it, so you can just avoid it.",
+        "pt": "[Agente Terel]\nAh! Pensando bem, Sapos de Thara não contam. É um monstro calmo se você não incomodá-lo, então você pode simplesmente ignorar.",
+        "es": "[Agente Terel]\n¡Ah! Pensándolo bien, los Sapos de Thara no cuentan. Es un monstruo tranquilo si no lo molestas, así que simplemente puedes ignorarlo."
     },
     "EpJWDA": {
-        "ko": "[조사관 터얼]\n<ITEM>[초절탄산수]<INFO>1000374</INFO></ITEM> 1개를 주시면 알베르타로 보내드릴 수 있습니다."
+        "ko": "[조사관 터얼]\n<ITEM>[초절탄산수]<INFO>1000374</INFO></ITEM> 1개를 주시면 알베르타로 보내드릴 수 있습니다.",
+        "en": "[Investigator Terel]\n<ITEM>[Sparking Carbonated Water]<INFO>1000374</INFO></ITEM> If you give me one, I can send you to Alberta.",
+        "pt": "[Agente Terel]\n<ITEM>[Água Mineral]<INFO>1000374</INFO></ITEM>, tem uma aí? Se me der 1, posso te enviar para Alberta.",
+        "es": "[Agente Terel]\n<ITEM>[Agua Mineral]<INFO>1000374</INFO></ITEM>, ¿tienes una? Si me das 1, puedo enviarte a Alberta."
     },
     "E5JWDA": {
-        "ko": "[조사관 터얼]\n저도 가고 싶네요. 그럼 안녕히 가세요."
+        "ko": "[조사관 터얼]\n저도 가고 싶네요. 그럼 안녕히 가세요.",
+        "en": "[Investigator Terel]\nThen goodbye.",
+        "pt": "[Agente Terel]\nEntão, tchau.",
+        "es": "[Agente Terel]\nEntonces, adiós."
     },
     "FJJWDA": {
-        "ko": "[조사관 터얼]\n초절탄산수를 주셔야 알베르타로 보내드립니다."
+        "ko": "[조사관 터얼]\n초절탄산수를 주셔야 알베르타로 보내드립니다.",
+        "en": "[Investigator Terel]\nIf you give me 1 Sparkling carbonated water, I will send you to Alberta..",
+        "pt": "[Agente Terel]\nVocê não tem Água Mineral...",
+        "es": "[Agente Terel]\nNo tienes Agua Mineral..."
     },
     "FZJWDA": {
-        "ko": "[조사관 터얼]\n네 그렇습니다. 전 요리사죠. 지금 익숙하지 않은 업무로 피곤해서 기억은 잘 안 나긴 한데요."
+        "ko": "[조사관 터얼]\n네 그렇습니다. 전 요리사죠. 지금 익숙하지 않은 업무로 피곤해서 기억은 잘 안 나긴 한데요.",
+        "en": "[Investigator Terel]\nYes, that's right. I'm a chef. I'm tired from unfamiliar work, so I don't remember much.",
+        "pt": "[Agente Terel]\nSim, isso mesmo. Sou chef de cozinha. Estou cansado do meu trabalho, mas não me lembro de muita coisa.",
+        "es": "[Agente Terel]\nSí, así es. Soy chef de cocina. Estoy cansado de mi trabajo, pero no recuerdo muchas cosas."
     },
     "FpJWDA": {
-        "ko": "[조사관 터얼]\n전 분명 주방보조 아르바이트를 구한다고 서류에 적은 것 같은 기분인데요. 정신을 차려보니 어째선지 여기서 토벌 의뢰 조사관으로 일하고 있네요."
+        "ko": "[조사관 터얼]\n전 분명 주방보조 아르바이트를 구한다고 서류에 적은 것 같은 기분인데요. 정신을 차려보니 어째선지 여기서 토벌 의뢰 조사관으로 일하고 있네요.",
+        "en": "[Investigator Terel]\nI feel like I wrote on paper that I was looking for a part-time job as a kitchen assistant. When I came to, I somehow found myself working here as an investigator for Hunting quests.",
+        "pt": "[Agente Terel]\nEu escrevi no papel que estava procurando um emprego na cozinha. Quando acordei, de alguma forma me vi trabalhando aqui como investigador da Sociedade Juniana de Monstros.",
+        "es": "[Agente Terel]\nEscribí en un papel que buscaba trabajo en cocina. Cuando desperté, de alguna manera me vi trabajando aquí como investigador de la Sociedad Juniana de Monstruos."
     },
     "F5JWDA": {
-        "ko": "[조사관 터얼]\n진짜 왜지? 이거 대충 할 수도 없고 환장하겠네요."
+        "ko": "[조사관 터얼]\n진짜 왜지? 이거 대충 할 수도 없고 환장하겠네요.",
+        "en": "[Investigator Terel]\nReally why? I can't do this roughly and I'm going crazy..",
+        "pt": "[Agente Terel]\nSério, por quê? Não posso fazer isso sem entusiasmo e estou ficando louco.",
+        "es": "[Agente Terel]\nEn serio, ¿por qué? No puedo hacer esto sin entusiasmo y me estoy volviendo loco."
     },
     "GJJWDA": {
-        "ko": "[조사관 터얼]\n타라 프로그를 제외한 거북이 섬의 몬스터 80마리를 잡고 저에게 오셔서 보상을 받으시면 됩니다."
+        "ko": "[조사관 터얼]\n타라 프로그를 제외한 거북이 섬의 몬스터 80마리를 잡고 저에게 오셔서 보상을 받으시면 됩니다.",
+        "en": "[Investigator Terel]\nAll you have to do is defeat 80 monsters on Turtle Island, excluding Thara Frog, and come to me to receive a reward.",
+        "pt": "[Agente Terel]\nBasta matar 80 monstros na Ilha da Tartaruga, excluindo o Sapo de Thara, e vir até mim para receber uma recompensa.",
+        "es": "[Agente Terel]\nSolo mata 80 monstruos en la Isla de la Tortuga, excluyendo al Sapo de Thara, y ven a mí para recibir una recompensa."
     },
     "GZJWDA": {
-        "ko": "[조사관 터얼]\n약속 드린 보상입니다. 토벌 의뢰는 내일 다시 진행하실 수 있으니 시간이 되신다면, 와 주세요."
+        "ko": "[조사관 터얼]\n약속 드린 보상입니다. 토벌 의뢰는 내일 다시 진행하실 수 있으니 시간이 되신다면, 와 주세요.",
+        "en": "[Investigator Terel]\nThis is the promised reward. You can proceed with the Hunting quest again tomorrow, so if you have time, please come.",
+        "pt": "[Agente Terel]\nEsta é a recompensa prometida. Você pode repetir a missão amanhã, então, se tiver tempo, por favor, venha aqui.",
+        "es": "[Agente Terel]\nEsta es la recompensa prometida. Puedes repetir la misión mañana, así que, si tienes tiempo, por favor, ven aquí."
     },
     "GpJWDA": {
-        "ko": "[조사관 터얼]\n거북이 섬 토벌 의뢰는 내일 다시 하실 수 있습니다. 하 전 언제쯤 요리사로 돌아갈 수 있을까요?"
+        "ko": "[조사관 터얼]\n거북이 섬 토벌 의뢰는 내일 다시 하실 수 있습니다. 하 전 언제쯤 요리사로 돌아갈 수 있을까요?",
+        "en": "[Investigator Terel]\nYou can do the turtle island Hunting quest again tomorrow. Ha, when will I be able to return to being a chef?",
+        "pt": "[Agente Terel]\nVocê pode refazer a missão amanhã. Ai, ai, quando vou voltar a ser chef de cozinha?",
+        "es": "[Agente Terel]\nPuedes repetir la misión mañana. Ay, ay, ¿cuándo volveré a ser chef de cocina?"
     },
     "G5JWDA": {
-        "ko": "[조사관 터얼]\n오! 초절탄산수?! 이거 만드신 분이 돈을 엄청나게 벌었다던데, 잘 마시겠습니다."
+        "ko": "[조사관 터얼]\n오! 초절탄산수?! 이거 만드신 분이 돈을 엄청나게 벌었다던데, 잘 마시겠습니다.",
+        "en": "[Investigator Terel]\nOh! Sparkling carbonated water?! I heard the person who made this made a lot of money. I'll drink it well.",
+        "pt": "[Agente Terel]\nOh! Água Mineral?! Vou beber uma agora mesmo.",
+        "es": "[Agente Terel]\n¡Oh! ¡¿Agua Mineral?! Voy a beber una ahora mismo."
     },
     "HJJWDA": {
-        "ko": "크윽.. 짜릿하네요."
+        "ko": "크윽.. 짜릿하네요.",
+        "en": "Ugh.. it's thrilling.",
+        "pt": "Aaah... refrescante.",
+        "es": "Aaah... refrescante."
     },
     "HZJWDA": {
-        "ko": "[조사관 터얼]\n으히힉.. 몬스터인 줄 알았네요. 왜 기척도 없이 서 계시나요?"
+        "ko": "[조사관 터얼]\n으히힉.. 몬스터인 줄 알았네요. 왜 기척도 없이 서 계시나요?",
+        "en": "[Investigator Terel]\nUgh... I thought you are a monster. Why are you standing there?",
+        "pt": "[Agente Terel]\nArgh... pensei que você fosse um monstro. Por que você está aí sem me avisar?",
+        "es": "[Agente Terel]\nArgh... pensé que eras un monstruo. ¿Por qué estás ahí sin avisarme?"
     },
     "HpJWDA": {
-        "ko": "[조사관 터얼]\n초절탄산수가 없으시군요. 3개 정도는 주셔야 피곤이 가실 듯 한데."
+        "ko": "[조사관 터얼]\n초절탄산수가 없으시군요. 3개 정도는 주셔야 피곤이 가실 듯 한데.",
+        "en": "[Investigator Terel]\nYou don't have Spakrling carbonated water. I think you need to give me about 3 to help with the fatigue..",
+        "pt": "[Agente Terel]\nAff! Você não tem Água Mineral! Eu deveria cobrar mais 3 unidades pela sua petulância.",
+        "es": "[Agente Terel]\n¡Aff! ¡No tienes Agua Mineral! Debería cobrarte 3 unidades más por tu petulancia."
     },
     "H5JWDA": {
-        "ko": "[조사관 터얼]\n거북이 섬 토벌 의뢰를 다시 하실 수 있네요."
+        "ko": "[조사관 터얼]\n거북이 섬 토벌 의뢰를 다시 하실 수 있네요.",
+        "en": "[Investigator Terel]\nYou can repeat the Hunting quest to conquer Turtle Island.",
+        "pt": "[Agente Terel]\nVocê pode repetir a missão de caçada na Ilha da Tartaruga novamente.",
+        "es": "[Agente Terel]\nPuedes repetir la misión de cacería en la Isla de la Tortuga nuevamente."
     },
     "IJJWDA": {
-        "ko": "조사관 휴프"
+        "ko": "조사관 휴프",
+        "en": "Investigator Hugo",
+        "pt": "Agente Hugo",
+        "es": "Agente Hugo"
     },
     "IZJWDA": {
-        "ko": "[조사관 휴프]\n타나토스 타워 앞 토벌 의뢰는 75레벨부터 가능합니다."
+        "ko": "[조사관 휴프]\n타나토스 타워 앞 토벌 의뢰는 75레벨부터 가능합니다.",
+        "en": "[Investigator Hugo]\nHunting quests in front of Thanatos Tower are available from level 75.",
+        "pt": "[Agente Hugo]\nVocê precisa ter nível de base maior ou igual a 75 para iniciar a missão.",
+        "es": "[Agente Hugo]\nNecesitas tener nivel base mayor o igual a 75 para iniciar la misión."
     },
     "IpJWDA": {
-        "ko": "[조사관 휴프]\n유노 몬스터 학회에서 토벌 의뢰를 진행하고 있습니다."
+        "ko": "[조사관 휴프]\n유노 몬스터 학회에서 토벌 의뢰를 진행하고 있습니다.",
+        "en": "[Investigator Hugo]\nThe Juno Monster Society is accepting Hunting quests..",
+        "pt": "[Agente Hugo]\nA Sociedade Juniana de Monstros tem um pedido de caçada aos aventureiros.",
+        "es": "[Agente Hugo]\nLa Sociedad Juniana de Monstruos tiene una solicitud de cacería para los aventureros."
     },
     "I5JWDA": {
-        "ko": "포트 말라야에서 오셨나요?"
+        "ko": "포트 말라야에서 오셨나요?",
+        "en": "Are you from Port Malaya?",
+        "pt": "Você é de Porto Malaya?",
+        "es": "¿Eres de Puerto Malaya?"
     },
     "JJJWDA": {
-        "ko": "[조사관 휴프]\n이 장소 타나토스 타워 앞 필드의 몬스터 80마리를 잡으시면 됩니다. 다 잡으신 후에는 저에게 보고해주시고요."
+        "ko": "[조사관 휴프]\n이 장소 타나토스 타워 앞 필드의 몬스터 80마리를 잡으시면 됩니다. 다 잡으신 후에는 저에게 보고해주시고요.",
+        "en": "[Investigator Hugo]\nYou just need to defeat 80 monsters in the field in front of Thanatos Tower here. After you defeat them all, report it to me.",
+        "pt": "[Agente Hugo]\nTudo o que você precisa fazer é matar 80 monstros no campo em frente à Torre Thanatos. Depois de cumprir a missão, me informe.",
+        "es": "[Agente Hugo]\nTodo lo que debes hacer es matar 80 monstruos en el campo frente a la Torre Thanatos. Después de cumplir la misión, infórmame."
     },
     "JZJWDA": {
-        "ko": "[조사관 휴프]\n타나토스 앞 몬스터의 개체 수를 줄여달라는 토벌 의뢰입니다."
+        "ko": "[조사관 휴프]\n타나토스 앞 몬스터의 개체 수를 줄여달라는 토벌 의뢰입니다.",
+        "en": "[Investigator Hugo]\nThis is a subjugation request to reduce the number of monsters in front of Thanatos Tower.",
+        "pt": "[Agente Hugo]\nEssa é a missão de caçada aos monstros na frente da Torre de Thanatos.",
+        "es": "[Agente Hugo]\nEsta es la misión de cacería de monstruos frente a la Torre de Thanatos."
     },
     "JpJWDA": {
-        "ko": "[조사관 휴프]\n몬스터의 개체 수가 늘어 피해가 발생할 수 있으니 미리 줄여보자는 의도 같더군요."
+        "ko": "[조사관 휴프]\n몬스터의 개체 수가 늘어 피해가 발생할 수 있으니 미리 줄여보자는 의도 같더군요.",
+        "en": "[Investigator Hugo]\nIt seemed like the intention was to reduce the number of monsters in advance, as damage could increase.",
+        "pt": "[Agente Hugo]\nParece que a intenção é reduzir o número de monstros, pois poderiam ocorrer danos devido a um aumento descontrolado da população.",
+        "es": "[Agente Hugo]\nParece que la intención es reducir el número de monstruos, pues podrían ocurrir daños debido a un aumento descontrolado de la población."
     },
     "J5JWDA": {
-        "ko": "[조사관 휴프]\n아르바이트 전에는 몬스터 학회는 노는 줄로만 알았는데, 일을 하긴 하나 보네요."
+        "ko": "[조사관 휴프]\n아르바이트 전에는 몬스터 학회는 노는 줄로만 알았는데, 일을 하긴 하나 보네요.",
+        "en": "[Investigator Hugo]\nBefore my part-time job, I thought the Monster Society was just for fun, but it looks like it's also work.",
+        "pt": "[Agente Hugo]\nAntes de começar a participar disso aqui, pensava que a Sociedade Juniana de Monstros era apenas para diversão, mas parece que também é trabalho.",
+        "es": "[Agente Hugo]\nAntes de empezar a participar aquí, pensaba que la Sociedad Juniana de Monstruos era solo por diversión, pero parece que también es trabajo."
     },
     "KJJWDA": {
-        "ko": "[조사관 휴프]\n집에 가시는 겁니까? 가까운 도시면 휘겔이군요. <ITEM>[초절탄산수]<INFO>1000374</INFO></ITEM> 1개로 보내드리고 있습니다."
+        "ko": "[조사관 휴프]\n집에 가시는 겁니까? 가까운 도시면 휘겔이군요. <ITEM>[초절탄산수]<INFO>1000374</INFO></ITEM> 1개로 보내드리고 있습니다.",
+        "en": "[Investigator Hugo]\nAre you going home? The nearest city is Hugel. It cost one <ITEM>[Sparkling Carbonated Water]<INFO>1000374</INFO></ITEM>.",
+        "pt": "[Agente Hugo]\nVocê quer sair daqui? A cidade mais próxima é Hugel. Me traga 1 <ITEM>[Água Mineral]<INFO>1000374</INFO></ITEM> para teleportar você.",
+        "es": "[Agente Hugo]\n¿Quieres salir de aquí? La ciudad más cercana es Hugel. Tráeme 1 <ITEM>[Agua Mineral]<INFO>1000374</INFO></ITEM> para teletransportarte."
     },
     "KZJWDA": {
-        "ko": "[조사관 휴프]\n즐거운 여행하십시오."
+        "ko": "[조사관 휴프]\n즐거운 여행하십시오.",
+        "en": "[Investigator Hugo]\nHave a nice trip.",
+        "pt": "[Agente Hugo]\nTenha uma boa viagem.",
+        "es": "[Agente Hugo]\nTen un buen viaje."
     },
     "KpJWDA": {
-        "ko": "[조사관 휴프]\n가까운 도시로는 초절탄산수 1개가 필요합니다."
+        "ko": "[조사관 휴프]\n가까운 도시로는 초절탄산수 1개가 필요합니다.",
+        "en": "[Investigator Hugo]\nYou don't have Sparkling carbonated water.",
+        "pt": "[Agente Hugo]\nEu preciso de 1 Água Mineral, no mínimo.",
+        "es": "[Agente Hugo]\nNecesito 1 Agua Mineral, como mínimo."
     },
     "K5JWDA": {
-        "ko": "[조사관 휴프]\n하하하.. 포트말라야를 아십니까? 참 좋은 곳이죠."
+        "ko": "[조사관 휴프]\n하하하.. 포트말라야를 아십니까? 참 좋은 곳이죠.",
+        "en": "[Investigator Hugo]\nHahaha.. Do you know Port Malaya? It's a really nice place.",
+        "pt": "[Agente Hugo]\nHahaha.. Você conhece Porto Malaya? É um lugar muito legal.",
+        "es": "[Agente Hugo]\nJajaja... ¿Conoces Puerto Malaya? Es un lugar muy agradable."
     },
     "LJJWDA": {
-        "ko": "[조사관 휴프]\n혹시 오해하실까 봐 드리는 말인데요. 전 포트 말라야의 경비 대장이 아닙니다."
+        "ko": "[조사관 휴프]\n혹시 오해하실까 봐 드리는 말인데요. 전 포트 말라야의 경비 대장이 아닙니다.",
+        "en": "[Investigator Hugo]\nI'm afraid you may misunderstand. I am not the head of the security at Port Malaya.",
+        "pt": "[Agente Hugo]\nReceio que você possa ter entendido mal. Não sou o chefe da segurança em Porto Malaya.",
+        "es": "[Agente Hugo]\nMe temo que puedes haberte confundido. No soy el jefe de seguridad en Puerto Malaya."
     },
     "LZJWDA": {
-        "ko": "[조사관 휴프]\n이 대장 옷이 너무 멋지고 그래서 입고 싶었는데 그곳에서 입으면 사칭이 되어 버리니까. 고향을 떠나 입고 다니는 것뿐입니다."
+        "ko": "[조사관 휴프]\n이 대장 옷이 너무 멋지고 그래서 입고 싶었는데 그곳에서 입으면 사칭이 되어 버리니까. 고향을 떠나 입고 다니는 것뿐입니다.",
+        "en": "[Investigator Hugo]\nThis captain's clothes are really cool, so I wanted to wear them, but if I wear them there, I'll look like an impersonator. All I can do is wear them away from my hometown.",
+        "pt": "[Agente Hugo]\nAs roupas deste capitão são muito legais, então eu queria usá-las, mas se eu usá-las lá, vou parecer um invejoso. Tudo o que posso fazer é usá-las fora da minha cidade natal.",
+        "es": "[Agente Hugo]\nLa ropa de este capitán es muy genial, así que quería usarla, pero si la uso allá, pareceré un envidioso. Todo lo que puedo hacer es usarla fuera de mi ciudad natal."
     },
     "LpJWDA": {
-        "ko": "[조사관 휴프]\n아.. 갑자기 고향에 가고 싶다. 엄마가 집 떠나면 고생 이랬는데 정말이었어."
+        "ko": "[조사관 휴프]\n아.. 갑자기 고향에 가고 싶다. 엄마가 집 떠나면 고생 이랬는데 정말이었어.",
+        "en": "[Investigator Hugo]\nAh.. I suddenly want to go to my hometown. My mom said that it would be hard if I left home, and it was true.",
+        "pt": "[Agente Hugo]\nAh... de repente eu quero ir para minha cidade natal. Minha mãe disse que seria difícil se eu saísse de casa, e era verdade.",
+        "es": "[Agente Hugo]\nAh... de repente quiero ir a mi ciudad natal. Mi madre dijo que sería difícil si salía de casa, y era verdad."
     },
     "L5JWDA": {
-        "ko": "[조사관 휴프]\n타나토스 타워 앞의 몬스터 80마리를 잡으신 후 저에게 보고해주세요."
+        "ko": "[조사관 휴프]\n타나토스 타워 앞의 몬스터 80마리를 잡으신 후 저에게 보고해주세요.",
+        "en": "[Investigator Hugo]\nPlease report to me after killing 80 monsters in front of Thanatos Tower.",
+        "pt": "[Agente Hugo]\nPor favor, volte até mim depois de matar 80 monstros na frente da Torre Thanatos.",
+        "es": "[Agente Hugo]\nPor favor, regresa a mí después de matar 80 monstruos frente a la Torre Thanatos."
     },
     "MJJWDA": {
-        "ko": "[조사관 휴프]\n고생하셨습니다. 토벌 의뢰는 매일 하실 수 있으니 시간이 되신다면, 또 와주십셔."
+        "ko": "[조사관 휴프]\n고생하셨습니다. 토벌 의뢰는 매일 하실 수 있으니 시간이 되신다면, 또 와주십셔.",
+        "en": "[Investigator Hugo]\nThank you for your hard work. You can do Hunting quests every day, so if you have time, please come again.",
+        "pt": "[Agente Hugo]\nObrigado pelo seu trabalho duro. Você pode fazer as missões diariamente, então, se tiver tempo, volte novamente amanhã.",
+        "es": "[Agente Hugo]\nGracias por tu trabajo duro. Puedes hacer las misiones diariamente, así que, si tienes tiempo, vuelve otra vez mañana."
     },
     "MZJWDA": {
-        "ko": "[조사관 휴프]\n혼자서 여기 며칠째 서 있는데, 내일은 꼭 인수 인계할 사람이 왔으면 좋겠습니다."
+        "ko": "[조사관 휴프]\n혼자서 여기 며칠째 서 있는데, 내일은 꼭 인수 인계할 사람이 왔으면 좋겠습니다.",
+        "en": "[Investigator Hugo]\nI've been standing here alone for several days, and I hope that someone will come tomorrow to take over.",
+        "pt": "[Agente Hugo]\nEstou aqui em pé à dias. Espero que outro Agente venha ocupar essa base amanhã.",
+        "es": "[Agente Hugo]\nLlevo aquí parado días. Espero que otro Agente venga a ocupar esta base mañana."
     },
     "MpJWDA": {
-        "ko": "[조사관 휴프]\n처음 보는 음료수 군요? 새로운 맛에 도전하는 건 언제나 즐겁죠. 감사합니다."
+        "ko": "[조사관 휴프]\n처음 보는 음료수 군요? 새로운 맛에 도전하는 건 언제나 즐겁죠. 감사합니다.",
+        "en": "[Investigator Hugo]\nIt's always fun to try new flavors. Thank you.",
+        "pt": "[Agente Hugo]\nComo sabia que eu estava com sede? Vou querer sim. Valeu.",
+        "es": "[Agente Hugo]\n¿Cómo sabías que tenía sed? Sí, quiero. Gracias."
     },
     "M5JWDA": {
-        "ko": "크으- 오! 제법 맛이.."
+        "ko": "크으- 오! 제법 맛이..",
+        "en": "Uu-oh! It tastes pretty good..",
+        "pt": "Oh! Que gostoso...",
+        "es": "¡Oh! Qué rico..."
     },
     "NJJWDA": {
-        "ko": "[조사관 휴프]\n엇?! 잠깐 한눈 판 사이에 손님이 오셨군요."
+        "ko": "[조사관 휴프]\n엇?! 잠깐 한눈 판 사이에 손님이 오셨군요.",
+        "en": "[Investigator Hugo]\nHuh?! Suddenly a guest arrived in the blink of an eye.",
+        "pt": "[Agente Hugo]\nHã?! C-como você...? Quem é você? Ah...",
+        "es": "[Agente Hugo]\n¡¿Eh?! C-cómo tú...? ¿Quién eres? Ah..."
     },
     "NZJWDA": {
-        "ko": "[조사관 휴프]\n초절탄산수 3개를 주시기로 하지 않으셨습니까? 아니었나요? 죄송합니다 제가 좀 피곤해서 이제 헛소리도 들리나 보네요."
+        "ko": "[조사관 휴프]\n초절탄산수 3개를 주시기로 하지 않으셨습니까? 아니었나요? 죄송합니다 제가 좀 피곤해서 이제 헛소리도 들리나 보네요.",
+        "en": "[Investigator Hugo]\nI need 3 Sparkling carbonated water.",
+        "pt": "[Agente Hugo]\nEu estou tão cansado que aceitaria até 3 Águas Minerais para beber.",
+        "es": "[Agente Hugo]\nEstoy tan cansado que aceptaría hasta 3 Aguas Minerales para beber."
     },
     "NpJWDA": {
-        "ko": "[조사관 휴프]\n토벌 의뢰를 다시 하실 수 있으십니다."
+        "ko": "[조사관 휴프]\n토벌 의뢰를 다시 하실 수 있으십니다.",
+        "en": "[Investigator Hugo]\nYou can repeat the Hunting quest.",
+        "pt": "[Agente Hugo]\nVocê pode repetir a missão.",
+        "es": "[Agente Hugo]\nPuedes repetir la misión."
     },
     "N5JWDA": {
-        "ko": "조사관 마더원"
+        "ko": "조사관 마더원",
+        "en": "Investigator Madewon",
+        "pt": "Agente Madewon",
+        "es": "Agente Madewon"
     },
     "OJJWDA": {
-        "ko": "[조사관 마더원]\n뭐야~ 별빛산호지대 토벌 의뢰는 75레벨부터 할 수 있는 거 몰랐어?"
+        "ko": "[조사관 마더원]\n뭐야~ 별빛산호지대 토벌 의뢰는 75레벨부터 할 수 있는 거 몰랐어?",
+        "en": "[Investigator Madewon]\nWhat~ Didn't you know that the Starry Coral Area Hunting quest can be done starting at level 75?",
+        "pt": "[Agente Madewon]\nOh~ Você precisa ter o nível base mínimo de 75 para fazer a missão, sabia?",
+        "es": "[Agente Madewon]\nOh~ Necesitas tener nivel base mínimo de 75 para hacer la misión, ¿sabías?"
     },
     "OZJWDA": {
-        "ko": "[조사관 마더원]\n지금 바쁘니까. 토벌 의뢰를 하실 분만 말 걸어 주세요."
+        "ko": "[조사관 마더원]\n지금 바쁘니까. 토벌 의뢰를 하실 분만 말 걸어 주세요.",
+        "en": "[Investigator Madewon]\nI'm busy right now. I only talk to those who want to take Hunting quest.",
+        "pt": "[Agente Madewon]\nEstou um pouco ocupada. Fale comigo apenas se aceitar alguma missão",
+        "es": "[Agente Madewon]\nEstoy un poco ocupada. Háblame solo si aceptas alguna misión."
     },
     "OpJWDA": {
-        "ko": "뭐하고 있어?"
+        "ko": "뭐하고 있어?",
+        "en": "What are you doing?",
+        "pt": "O que você está fazendo?",
+        "es": "¿Qué estás haciendo?"
     },
     "O5JWDA": {
-        "ko": "[조사관 마더원]\n손님이었어? 그럼 친절해야지.\n별빛산호지대의 몬스터를 80마리 잡아오면 되는데, 조개, 게, 에스터는 잡아도 카운팅 되지 않으니까! 굳이 잡지 않아도 돼. 그럼 수고!!"
+        "ko": "[조사관 마더원]\n손님이었어? 그럼 친절해야지.\n별빛산호지대의 몬스터를 80마리 잡아오면 되는데, 조개, 게, 에스터는 잡아도 카운팅 되지 않으니까! 굳이 잡지 않아도 돼. 그럼 수고!!",
+        "en": "[Investigator Madewon]\nWere you an Adventurer? You are so kind.\nYou just have to defeat 80 monsters in the Starry Coral Arean, but even if you defeat clams, crabs, and esters, they don't count! You don't have to defeat them. Good luck!",
+        "pt": "[Agente Madewon]\nVocê é um desses aventureiros? Então, eu deveria ser mais gentil.\nVocê deve eliminar 80 monstros dessa área, mas Caranguejo, Molusco e Estrelas-do-Mar não contam!!",
+        "es": "[Agente Madewon]\n¿Eres uno de esos aventureros? Entonces, debería ser más amable.\nDebes eliminar 80 monstruos de esta área, ¡¡pero Cangrejo, Molusco y Estrellas de Mar no cuentan!!"
     },
     "PJJWDA": {
-        "ko": "[조사관 마더원]\n아?! 이렇게 날 또 방해하네. 그래도 손님이 될 수도 있으니 친.절.하.게."
+        "ko": "[조사관 마더원]\n아?! 이렇게 날 또 방해하네. 그래도 손님이 될 수도 있으니 친.절.하.게.",
+        "en": "[Investigator Madewon]\nOh?! You're disturbing me like this again. But you might be a customer, so be kind.",
+        "pt": "[Agente Madewon]\nOh?! Você está me perturbando assim de novo. Mas você pode ser um cliente, então serei gentil.",
+        "es": "[Agente Madewon]\n¡¿Oh?! Me estás molestando así otra vez. Pero puedes ser un cliente, así que seré amable."
     },
     "PZJWDA": {
-        "ko": "[조사관 마더원]\n개체 수 조절을 위해 별빛산호지대의 몬스터를 잡는 의뢰인데요."
+        "ko": "[조사관 마더원]\n개체 수 조절을 위해 별빛산호지대의 몬스터를 잡는 의뢰인데요.",
+        "en": "[Investigator Madewon]\nThis is a request to kill monsters in the Starry Coral Area to control the population.",
+        "pt": "[Agente Madewon]\nEste é um pedido para eliminar monstros na Área de Corais Estrelados para controlar a população.",
+        "es": "[Agente Madewon]\nEsta es una solicitud para eliminar monstruos en el Área de Corales Estrellados para controlar la población."
     },
     "PpJWDA": {
-        "ko": "[조사관 마더원]\n조개, 게, 에스터는 굳이 개체 수 조절을 할 필요가 없어서 잡지 않아도 된답니다."
+        "ko": "[조사관 마더원]\n조개, 게, 에스터는 굳이 개체 수 조절을 할 필요가 없어서 잡지 않아도 된답니다.",
+        "en": "[Investigator Madewon]\nThere is no need to control the population of clams, crabs, and esters, so there is no need to catch them.",
+        "pt": "[Agente Madewon]\nNão há necessidade de controlar a população de Moluscos, Caranguejos e Estrelas-do-Mar, portanto não os cace.",
+        "es": "[Agente Madewon]\nNo hay necesidad de controlar la población de Moluscos, Cangrejos y Estrellas de Mar, por lo tanto no los caces."
     },
     "P5JWDA": {
-        "ko": "[조사관 마더원]\n이유는 물어보지 마세요. 저도 아르바이트라 모르니까요. 손님!"
+        "ko": "[조사관 마더원]\n이유는 물어보지 마세요. 저도 아르바이트라 모르니까요. 손님!",
+        "en": "[Investigator Madewon]\nDon't ask me why. I don't know because I'm a part-time worker. Sir!",
+        "pt": "[Agente Madewon]\nNão me pergunte o motivo!",
+        "es": "[Agente Madewon]\n¡No me preguntes el motivo!"
     },
     "QJJWDA": {
-        "ko": "[조사관 마더원]\n말랑도? 가려면 초절탄산수 1개를 줘. 근데 여기서면 걸어가는 게 낫지 않아?"
+        "ko": "[조사관 마더원]\n말랑도? 가려면 초절탄산수 1개를 줘. 근데 여기서면 걸어가는 게 낫지 않아?",
+        "en": "[Investigator Madewon]\nGive me 1 Sparkling carbonated water and i'll teleport you to Malangdo",
+        "pt": "[Agente Madewon]\nMalangdo? Se você quiser ir, me dê 1 Água Mineral. Mas não seria melhor caminhar daqui?",
+        "es": "[Agente Madewon]\n¿Malangdo? Si quieres ir, dame 1 Agua Mineral. ¿Pero no sería mejor caminar desde aquí?"
     },
     "QZJWDA": {
-        "ko": "[조사관 마더원]\n좋았어! 잘 가~ 다음에 또 오고~"
+        "ko": "[조사관 마더원]\n좋았어! 잘 가~ 다음에 또 오고~",
+        "en": "[Investigator Madewon]\nGood! Bye~ Come again next time~",
+        "pt": "[Agente Madewon]\nTchau!~ Até a próxima~",
+        "es": "[Agente Madewon]\n¡Adiós!~ Hasta la próxima~"
     },
     "QpJWDA": {
-        "ko": "[조사관 마더원]\n초절탄산수 1개야. 근데 그냥 걸어가는 걸 추천해."
+        "ko": "[조사관 마더원]\n초절탄산수 1개야. 근데 그냥 걸어가는 걸 추천해.",
+        "en": "[Investigator Madewon]\nYou don't have Sparkling carbonated water.",
+        "pt": "[Agente Madewon]\nPreciso só de 1 Água Mineral, mas sugiro caminhar.",
+        "es": "[Agente Madewon]\nSolo necesito 1 Agua Mineral, pero sugiero que camines."
     },
     "Q5JWDA": {
-        "ko": "[조사관 마더원]\n아?! 진짜!! 엄청들 방해하네. 저기 서 있는 에스터 보이지? 분명 말을 할 줄 아는 거 같은데 내가 말을 걸면, 대답을 안 한단 말이야?"
+        "ko": "[조사관 마더원]\n아?! 진짜!! 엄청들 방해하네. 저기 서 있는 에스터 보이지? 분명 말을 할 줄 아는 거 같은데 내가 말을 걸면, 대답을 안 한단 말이야?",
+        "en": "[Investigator Madewon]\nDo you see Esther standing over there? She seems to know how to talk, but when I talk to her, she doesn't answer?",
+        "pt": "[Agente Madewon]\nAh?! Sério!! Você vê aquela Estrela-do-Mar ali parada? Ela definitivamente sabe falar, mas quando eu falo com ela, ela não responde, que doido, né?",
+        "es": "[Agente Madewon]\n¡¡Ah!! ¿En serio? ¿Ves esa Estrella de Mar allí parada? Definitivamente sabe hablar, pero cuando le hablo, no responde, qué loco, ¿no?"
     },
     "RJJWDA": {
-        "ko": "[조사관 마더원]\n분명 주변을 지나다니는 모험가들을 보면 대화를 나누는 거 같은데, 부끄럼쟁이인 걸까? 왜 나랑은 이야기하려고 안하지?"
+        "ko": "[조사관 마더원]\n분명 주변을 지나다니는 모험가들을 보면 대화를 나누는 거 같은데, 부끄럼쟁이인 걸까? 왜 나랑은 이야기하려고 안하지?",
+        "en": "[Investigator Madewon]\nIt seems like she's having a conversation with adventurers passing by, but is she shy? Why don't she want to talk to me?",
+        "pt": "[Agente Madewon]\nParece que eles estão conversando com aventureiros que estão passando, mas eles são tímidos, acredito? Por que eles não querem falar comigo?",
+        "es": "[Agente Madewon]\nParece que están conversando con aventureros que pasan, pero son tímidos, ¿creo? ¿Por qué no quieren hablar conmigo?"
     },
     "RZJWDA": {
-        "ko": "[조사관 마더원]\n별빛산호지대의 몬스터 80마리를 잡으면, 저에게 말을 걸어주세요."
+        "ko": "[조사관 마더원]\n별빛산호지대의 몬스터 80마리를 잡으면, 저에게 말을 걸어주세요.",
+        "en": "[Investigator Madewon]\nIf you defeat 80 monsters in the Starry Coral Area, please talk to me.",
+        "pt": "[Agente Madewon]\nSe você eliminar 80 monstros na Área de Coral Estrelado, por favor fale comigo.",
+        "es": "[Agente Madewon]\nSi eliminas 80 monstruos en el Área de Coral Estrellado, por favor háblame."
     },
     "RpJWDA": {
-        "ko": "[조사관 마더원]\n조개, 게, 에스터는 잡아도 카운팅 되지 않으니 나중에 와서 따지지 마.시.고.요."
+        "ko": "[조사관 마더원]\n조개, 게, 에스터는 잡아도 카운팅 되지 않으니 나중에 와서 따지지 마.시.고.요.",
+        "en": "[Investigator Madewon]\nEven if you defeat clams, crabs, and esters, they don't count.",
+        "pt": "[Agente Madewon]\nMesmo se você caçar Moluscos, Caranguejos e Estrelas-do-Mar, eles não serão contados, então não se preocupe com eles.",
+        "es": "[Agente Madewon]\nIncluso si cazas Moluscos, Cangrejos y Estrellas de Mar, no se contarán, así que no te preocupes por ellos."
     },
     "R5JWDA": {
-        "ko": "[조사관 마더원]\n오! 수고했어. 토벌 의뢰는 내일도 할 수 있으니까. 한가하면 오던지 말던지."
+        "ko": "[조사관 마더원]\n오! 수고했어. 토벌 의뢰는 내일도 할 수 있으니까. 한가하면 오던지 말던지.",
+        "en": "[Investigator Madewon]\nOh! great job. You can do the Hunting quest tomorrow as well. Come when you're free.",
+        "pt": "[Agente Madewon]\nOh! Bom trabalho. Você também pode repetir a missão amanhã. Você pode vir quando estiver livre.",
+        "es": "[Agente Madewon]\n¡Oh! Buen trabajo. También puedes repetir la misión mañana. Puedes venir cuando estés libre."
     },
     "SJJWDA": {
-        "ko": "[조사관 마더원]\n토벌 의뢰는 내일 할 수 있다니까? 피곤하니까 말 걸지 말아주라?"
+        "ko": "[조사관 마더원]\n토벌 의뢰는 내일 할 수 있다니까? 피곤하니까 말 걸지 말아주라?",
+        "en": "[Investigator Madewon]\nI said you can do the Hunting quest tomorrow. I'm tired so please don't talk to me.",
+        "pt": "[Agente Madewon]\nEu não disse que você só pode repetir a missão amanhã? Estou cansada, então por favor não fale comigo, tá bem?",
+        "es": "[Agente Madewon]\n¿No dije que solo puedes repetir la misión mañana? Estoy cansada, así que por favor no me hables, ¿de acuerdo?"
     },
     "SZJWDA": {
-        "ko": "[조사관 마더원]\n정말? 나중에 다른 말하기 없기다?"
+        "ko": "[조사관 마더원]\n정말? 나중에 다른 말하기 없기다?",
+        "en": "[Investigator Madewon]\nReally? Thank you man!",
+        "pt": "[Agente Madewon]\nSério? Posso beber a sua?",
+        "es": "[Agente Madewon]\n¿En serio? ¿Puedo beber la tuya?"
     },
     "SpJWDA": {
-        "ko": "크흐~ 짜릿해.."
+        "ko": "크흐~ 짜릿해..",
+        "en": "Haha~ It's thrilling.",
+        "pt": "Hehe~ Que refrescante..",
+        "es": "Jeje~ Qué refrescante..."
     },
     "S5JWDA": {
-        "ko": "[조사관 마더원]\n아앗! 쟤.. 쟤 또 말한다. 아이쒸~ 뭐라고 하는 거지?"
+        "ko": "[조사관 마더원]\n아앗! 쟤.. 쟤 또 말한다. 아이쒸~ 뭐라고 하는 거지?",
+        "en": "[Investigator Madewon]\nAh! He... who are you again?",
+        "pt": "[Agente Madewon]\nAh... er.. o que eu estava fazendo?",
+        "es": "[Agente Madewon]\nAh... eh... ¿qué estaba haciendo?"
     },
     "TJJWDA": {
-        "ko": "[조사관 마더원]\n뭐야? 내 초절탄산수 3개 어디 갔어?"
+        "ko": "[조사관 마더원]\n뭐야? 내 초절탄산수 3개 어디 갔어?",
+        "en": "[Investigator Madewon]\nI need 3 Sparkling carbonated water.",
+        "pt": "[Agente Madewon]\nCadê? Eu gostaria de 3 Águas Minerais, tem aí?",
+        "es": "[Agente Madewon]\n¿Dónde está? Me gustarían 3 Aguas Minerales, ¿tienes?"
     },
     "TZJWDA": {
-        "ko": "[조사관 마더원]\n앗! 토벌 의뢰를 다시 할 수 있겠네. 나도 일할 때가 된 건가?"
+        "ko": "[조사관 마더원]\n앗! 토벌 의뢰를 다시 할 수 있겠네. 나도 일할 때가 된 건가?",
+        "en": "[Investigator Madewon]\nYou want to go to Malangdo?",
+        "pt": "[Agente Madewon]\nAh! Você pode repetir a missão novamente, o que acha?",
+        "es": "[Agente Madewon]\n¡Ah! Puedes repetir la misión nuevamente, ¿qué te parece?"
     },
     "TpJWDA": {
-        "ko": "조사관 티듄"
+        "ko": "조사관 티듄",
+        "en": "Investigator Tydon",
+        "pt": "Agente Tydon",
+        "es": "Agente Tydon"
     },
     "T5JWDA": {
-        "ko": "[조사관 티듄]\n유노 몬스터 학회에서 준비한 거북이 섬 던전 토벌 의뢰는 80레벨부터 수행할 수 있다오."
+        "ko": "[조사관 티듄]\n유노 몬스터 학회에서 준비한 거북이 섬 던전 토벌 의뢰는 80레벨부터 수행할 수 있다오.",
+        "en": "[Investigator Tydon]\nThe quest to conquer the Turtle Island Dungeon by the Juno Monster Society can be completed from level 80.",
+        "pt": "[Agente Tydon]\nVocê precisa ter, no mínimo, nível de base 80 para aceitar essa missão.",
+        "es": "[Agente Tydon]\nNecesitas tener, al menos, nivel base 80 para aceptar esta misión."
     },
     "UJJWDA": {
-        "ko": "[조사관 티듄]\n유노 몬스터 학회에서 거북이 섬 던전 토벌 의뢰를 준비했다오. 생각 있으시오?"
+        "ko": "[조사관 티듄]\n유노 몬스터 학회에서 거북이 섬 던전 토벌 의뢰를 준비했다오. 생각 있으시오?",
+        "en": "[Investigator Tydon]\nThe Juno Monster Society has prepared a request to conquer the Turtle Island Dungeon. Do you have any thoughts?",
+        "pt": "[Agente Tydon]\nA Sociedade Juniana de Monstros preparou uma missão de caça nesse calabouço. O que deseja?",
+        "es": "[Agente Tydon]\nLa Sociedad Juniana de Monstruos preparó una misión de caza en esta mazmorra. ¿Qué deseas?"
     },
     "UZJWDA": {
-        "ko": "세번째"
+        "ko": "세번째",
+        "en": "Are you a ninja?",
+        "pt": "Fale de você.",
+        "es": "Habla de ti."
     },
     "UpJWDA": {
-        "ko": "[조사관 티듄]\n거북이 섬 던전의 몬스터 80마리를 잡은 후에 내게 와서 보고하면 되오. 그럼 그대의 무운을 빌겠소."
+        "ko": "[조사관 티듄]\n거북이 섬 던전의 몬스터 80마리를 잡은 후에 내게 와서 보고하면 되오. 그럼 그대의 무운을 빌겠소.",
+        "en": "[Investigator Tydon]\nAfter you defeat 80 monsters in the Turtle Island Dungeon, come report to me. Then, I will wish you good luck.",
+        "pt": "[Agente Tydon]\nDepois de eliminar 80 monstros desse lugar, reporte o resultado para mim.",
+        "es": "[Agente Tydon]\nDespués de eliminar 80 monstruos de este lugar, reporta el resultado a mí."
     },
     "U5JWDA": {
-        "ko": "[조사관 티듄]\n몬스터의 개체 수 증가로 군락지들간의 충돌이 예측된다고 들었소."
+        "ko": "[조사관 티듄]\n몬스터의 개체 수 증가로 군락지들간의 충돌이 예측된다고 들었소.",
+        "en": "[Investigator Tydon]\nI heard that conflicts between colonies are predicted as the population of monsters increases.",
+        "pt": "[Agente Tydon]\nFiquei sabendo de um aumento exponencial da população de monstros.",
+        "es": "[Agente Tydon]\nMe enteré de un aumento exponencial de la población de monstruos."
     },
     "VJJWDA": {
-        "ko": "[조사관 티듄]\n몬스터 군락지들간에 충돌하면 인간이 피해보니 미리미리 개체 수를 줄여 놓으려고 하는게 아니겠소?"
+        "ko": "[조사관 티듄]\n몬스터 군락지들간에 충돌하면 인간이 피해보니 미리미리 개체 수를 줄여 놓으려고 하는게 아니겠소?",
+        "en": "[Investigator Tydon]\nIf there is a conflict between monster colonies, humans will suffer, so wouldn't they be trying to reduce the population in advance?",
+        "pt": "[Agente Tydon]\nSe a quantidade sair do controle, a humanidade pode ter problemas. Entendeu agora?",
+        "es": "[Agente Tydon]\nSi la cantidad se sale de control, la humanidad podría tener problemas. ¿Entiendes ahora?"
     },
     "VZJWDA": {
-        "ko": "[조사관 티듄]\n<ITEM>[초절탄산수]<INFO>1000374</INFO></ITEM> 1개를 주면 가까운 도시인 알베르타로 보내줄 수 있다오."
+        "ko": "[조사관 티듄]\n<ITEM>[초절탄산수]<INFO>1000374</INFO></ITEM> 1개를 주면 가까운 도시인 알베르타로 보내줄 수 있다오.",
+        "en": "[Investigator Tydon]\n<ITEM>[Sparkling Carbonated Water]<INFO>1000374</INFO></ITEM>, If you give me one, I can send you to Alberta.",
+        "pt": "[Agente Tydon]\nSe me der 1 <ITEM>[Água Mineral]<INFO>1000374</INFO></ITEM> posso enviar você para a cidade mais próxima, Alberta.",
+        "es": "[Agente Tydon]\nSi me das 1 <ITEM>[Agua Mineral]<INFO>1000374</INFO></ITEM> puedo enviarte a la ciudad más cercana, Alberta."
     },
     "VpJWDA": {
-        "ko": "[조사관 티듄]\n즐거운 여행 하시오."
+        "ko": "[조사관 티듄]\n즐거운 여행 하시오.",
+        "en": "[Investigator Tydon]\nGood bye.",
+        "pt": "[Agente Tydon]\nTenha uma boa viagem.",
+        "es": "[Agente Tydon]\nTen un buen viaje."
     },
     "V5JWDA": {
-        "ko": "[조사관 티듄]\n가까운 도시로 순간이동은 초절탄산수 1개를 받고 있다고 그냥 보내주고 싶지만, 공식적인 가격이라.."
+        "ko": "[조사관 티듄]\n가까운 도시로 순간이동은 초절탄산수 1개를 받고 있다고 그냥 보내주고 싶지만, 공식적인 가격이라..",
+        "en": "[Investigator Tydon]\nYou don't have Sparkling carbonate water.",
+        "pt": "[Agente Tydon]\nPreciso de 1 Água Mineral para enviar você.",
+        "es": "[Agente Tydon]\nNecesito 1 Agua Mineral para enviarte."
     },
     "WJJWDA": {
-        "ko": "[조사관 티듄]\n조용한 장소를 찾아다니다 마침 적당한 일거리까지 있기에 조사관으로 지원했소."
+        "ko": "[조사관 티듄]\n조용한 장소를 찾아다니다 마침 적당한 일거리까지 있기에 조사관으로 지원했소.",
+        "en": "[Investigator Tydon]\nI was looking for a quiet place and happened to find a suitable job, so I applied to be an investigator.",
+        "pt": "[Agente Tydon]\nEu estava procurando um emprego adequado, então me candidatei para ser investigador.",
+        "es": "[Agente Tydon]\nEstaba buscando un trabajo adecuado, así que me postulé para ser investigador."
     },
     "WZJWDA": {
-        "ko": "[조사관 티듄]\n문제라면 내 예상보다 점점 체류 시간이 길어지고 있다는 것이오."
+        "ko": "[조사관 티듄]\n문제라면 내 예상보다 점점 체류 시간이 길어지고 있다는 것이오.",
+        "en": "[Investigator Tydon]\nThe problem is that the stay time is getting longer than I expected..",
+        "pt": "[Agente Tydon]\nO problema é que esse trabalho está demorando mais do que eu esperava.",
+        "es": "[Agente Tydon]\nEl problema es que este trabajo está tomando más tiempo del que esperaba."
     },
     "WpJWDA": {
-        "ko": "[조사관 티듄]\n이제 슬슬 집으로 돌아가고 싶은데.."
+        "ko": "[조사관 티듄]\n이제 슬슬 집으로 돌아가고 싶은데..",
+        "en": "[Investigator Tydon]\nNow I really want to go home..",
+        "pt": "[Agente Tydon]\nAgora eu realmente preciso ir para casa...",
+        "es": "[Agente Tydon]\nAhora realmente necesito ir a casa..."
     },
     "W5JWDA": {
-        "ko": "[조사관 티듄]\n거북이 섬 던전의 몬스터 80마리를 잡은 후에 내게 와서 보고하면 된다오. 기다리고 있겠소."
+        "ko": "[조사관 티듄]\n거북이 섬 던전의 몬스터 80마리를 잡은 후에 내게 와서 보고하면 된다오. 기다리고 있겠소.",
+        "en": "[Investigator Tydon]\nAfter you defeat 80 monsters in the Turtle Island Dungeon, come and report to me. I'll be waiting.",
+        "pt": "[Agente Tydon]\nVolte até mim depois de eliminar 80 monstros desse calabouço.",
+        "es": "[Agente Tydon]\nRegresa a mí después de eliminar 80 monstruos de esta mazmorra."
     },
     "XJJWDA": {
-        "ko": "[조사관 티듄]\n빠른 시간에 해결했군. 훌륭하오. 이 토벌 의뢰는 내일 다시 할 수 있으니 시간이 된다면 또 보겠소."
+        "ko": "[조사관 티듄]\n빠른 시간에 해결했군. 훌륭하오. 이 토벌 의뢰는 내일 다시 할 수 있으니 시간이 된다면 또 보겠소.",
+        "en": "[Investigator Tydon]\nExcellent. You can do this Hunting quest again tomorrow, so I'll see you again when I have time..",
+        "pt": "[Agente Tydon]\nVocê resolveu rapidamente. Isso é ótimo. Você pode refazer essa missão, então até amanhã.",
+        "es": "[Agente Tydon]\nLo resolviste rápidamente. Eso es genial. Puedes repetir esta misión, así que hasta mañana."
     },
     "XZJWDA": {
-        "ko": "[조사관 티듄]\n거북이 섬 던전의 토벌 의뢰는 내일 다시 할 수 있다오. 피곤할 텐데 어서 집에 가서 쉬시오."
+        "ko": "[조사관 티듄]\n거북이 섬 던전의 토벌 의뢰는 내일 다시 할 수 있다오. 피곤할 텐데 어서 집에 가서 쉬시오.",
+        "en": "[Investigator Tydon]\nYou can do the quest to subdue the Turtle Island dungeon again tomorrow. You must be tired, so go home and rest.",
+        "pt": "[Agente Tydon]\nVocê pode refazer a missão amanhã. Você deveria ir para casa e descansar.",
+        "es": "[Agente Tydon]\nPuedes repetir la misión mañana. Deberías ir a casa y descansar."
     },
     "XpJWDA": {
-        "ko": "[조사관 티듄]\n오! 감사하오. 그대는 참 친절하군. 잘 마시겠소."
+        "ko": "[조사관 티듄]\n오! 감사하오. 그대는 참 친절하군. 잘 마시겠소.",
+        "en": "[Investigator Tydon]\nOh! Thank you. That's very kind of you. I'll enjoy it.",
+        "pt": "[Agente Tydon]\nOh! Obrigado. Isso é muito gentil da sua parte.",
+        "es": "[Agente Tydon]\n¡Oh! Gracias. Eso es muy amable de tu parte."
     },
     "X5JWDA": {
-        "ko": "허허 청량감에 휩싸이는 기분이오."
+        "ko": "허허 청량감에 휩싸이는 기분이오.",
+        "en": "Hehe, I feel like I'm being engulfed in a refreshing feeling.",
+        "pt": "Que sensação maravilhosa.",
+        "es": "Qué sensación maravillosa."
     },
     "YJJWDA": {
-        "ko": "[조사관 티듄]\n흠?! 손님이 오셨나보오."
+        "ko": "[조사관 티듄]\n흠?! 손님이 오셨나보오.",
+        "en": "[Investigator Tydon]\nHmm?! I guess a guest has arrived.",
+        "pt": "[Agente Tydon]\nHm!? Ah, não vi que você estava aí.",
+        "es": "[Agente Tydon]\n¡¿Hm?! Ah, no vi que estabas ahí."
     },
     "YZJWDA": {
-        "ko": "[조사관 티듄]\n초절탄산수 3개를 준다고 들은 것 같은데 내가 잘못 들었나 보오."
+        "ko": "[조사관 티듄]\n초절탄산수 3개를 준다고 들은 것 같은데 내가 잘못 들었나 보오.",
+        "en": "[Investigator Tydon]\nI need 3 Sparkling carbonated water.",
+        "pt": "[Agente Tydon]\nPensei ter ouvido você falar que me daria 3 Águas Minerais.",
+        "es": "[Agente Tydon]\nPensé que te escuché decir que me darías 3 Aguas Minerales."
     },
     "YpJWDA": {
-        "ko": "[조사관 티듄]\n거북이 섬 던전의 토벌 의뢰를 다시 할 수 있소."
+        "ko": "[조사관 티듄]\n거북이 섬 던전의 토벌 의뢰를 다시 할 수 있소.",
+        "en": "[Investigator Tydon]\nYou can repeat the quest to conquer the Turtle Island dungeon.",
+        "pt": "[Agente Tydon]\nVocê pode fazer a missão de hoje novamente.",
+        "es": "[Agente Tydon]\nPuedes hacer la misión de hoy nuevamente."
     },
     "Y5JWDA": {
-        "ko": "조사관 트센서"
+        "ko": "조사관 트센서",
+        "en": "Investigator Tsen",
+        "pt": "Agente Tsen",
+        "es": "Agente Tsen"
     },
     "ZJJWDA": {
-        "ko": "[조사관 트센서]\n여~ 친구 레벨이 맞는 곳에서 놀아야 하지 않겠어? 이런 장소는 80레벨쯤 오라고."
+        "ko": "[조사관 트센서]\n여~ 친구 레벨이 맞는 곳에서 놀아야 하지 않겠어? 이런 장소는 80레벨쯤 오라고.",
+        "en": "[Investigator Tsen]\nShouldn't you hang out in a place where your friends are at the right level? Come to a place like this at around level 80.",
+        "pt": "[Agente Tsen]\nOh~ Não te falaram? Você precisa ter, no mínimo, nível base 80 ou superior.",
+        "es": "[Agente Tsen]\nOh~ ¿No te dijeron? Necesitas tener, al menos, nivel base 80 o superior."
     },
     "ZZJWDA": {
-        "ko": "[조사관 트센서]\n어서 와! 혹시 토벌 의뢰 할 생각 없어?"
+        "ko": "[조사관 트센서]\n어서 와! 혹시 토벌 의뢰 할 생각 없어?",
+        "en": "[Investigator Tsen]\nCome on! Do you have any intention for Hunting quest?",
+        "pt": "[Agente Tsen]\nBoas-vindas! Você tem alguma intenção de aceitar uma missão de caçada?",
+        "es": "[Agente Tsen]\n¡Bienvenido! ¿Tienes alguna intención de aceptar una misión de cacería?"
     },
     "ZpJWDA": {
-        "ko": "노비스?"
+        "ko": "노비스?",
+        "en": "A Novice?",
+        "pt": "Um Aprendiz?",
+        "es": "¿Un Aprendiz?"
     },
     "Z5JWDA": {
-        "ko": "[조사관 트센서]\n그래! 그래! 여기 양거촌 몬스터 80마리를 호다닥 가서 잡아오라고 다 잡으면 보고는 나한테 와서 하고."
+        "ko": "[조사관 트센서]\n그래! 그래! 여기 양거촌 몬스터 80마리를 호다닥 가서 잡아오라고 다 잡으면 보고는 나한테 와서 하고.",
+        "en": "[Investigator Tsen]\nYes! Yes! Go and defeat all 80 monsters here in Good Turtle Village. When you defeat them all, come see me and do it.¡±.",
+        "pt": "[Agente Tsen]\nSim! Sim! Vá e elimine os 80 monstros aqui na Vila das Boas Tartarugas. Quando você caçar todos eles, venha até mim.",
+        "es": "[Agente Tsen]\n¡Sí! ¡Sí! Ve y elimina 80 monstruos aquí en la Villa de las Buenas Tortugas. Cuando hayas cazado a todos, ven a mí."
     },
     "aJJWDA": {
-        "ko": "[조사관 트센서]\n뭐 말만 거창하지 그냥 몬스터 잡는 의뢰야."
+        "ko": "[조사관 트센서]\n뭐 말만 거창하지 그냥 몬스터 잡는 의뢰야.",
+        "en": "[Investigator Tsen]\nNo need to say too much. It's just a request to kill monsters.",
+        "pt": "[Agente Tsen]\nNão tem muita explicação. É apenas um pedido para matar monstros.",
+        "es": "[Agente Tsen]\nNo hay mucha explicación. Es solo una solicitud para matar monstruos."
     },
     "aZJWDA": {
-        "ko": "[조사관 트센서]\n그래도 뭐! 퍼머터 20마리, 프리저 20마리 의뢰를 받고 퍼머터는 다 잡았는데 프리저가 아직 다섯 마리 네?"
+        "ko": "[조사관 트센서]\n그래도 뭐! 퍼머터 20마리, 프리저 20마리 의뢰를 받고 퍼머터는 다 잡았는데 프리저가 아직 다섯 마리 네?",
+        "en": "[Investigator Tsen]\nJust defeat monsters for the quest.",
+        "pt": "[Agente Tsen]\nDroga! Recebi uma solicitação de caçar tartarugas de terra! Eu estava caçando as de água!!",
+        "es": "[Agente Tsen]\n¡Maldición! ¡Recibí una solicitud para cazar tortugas de tierra! ¡¡Yo estaba cazando las de agua!!"
     },
     "apJWDA": {
-        "ko": "[조사관 트센서]\n이런 일은 없게 그냥 이 동네 몬스터를 다 때려잡으면 된다고 얼마나 좋아? 안 그래?"
+        "ko": "[조사관 트센서]\n이런 일은 없게 그냥 이 동네 몬스터를 다 때려잡으면 된다고 얼마나 좋아? 안 그래?",
+        "en": "[Investigator Tsen]\nHow great would it be to just kill all the monsters in this neighborhood so that nothing like this happens?",
+        "pt": "[Agente Tsen]\nSeria ótimo se fosse só para caçar qualquer tartaruga, independente do elemento, não acha?",
+        "es": "[Agente Tsen]\nSería genial si fuera solo para cazar cualquier tortuga, independientemente del elemento, ¿no crees?"
     },
     "a5JWDA": {
-        "ko": "[조사관 트센서]\n알베르타 급행 <ITEM>[초절탄산수]<INFO>1000374</INFO></ITEM> 1개 바로 출발."
+        "ko": "[조사관 트센서]\n알베르타 급행 <ITEM>[초절탄산수]<INFO>1000374</INFO></ITEM> 1개 바로 출발.",
+        "en": "[Investigator Tsen]\nAlberta Express need 1 <ITEM>[Sparkling Carbonated Water]<INFO>1000374</INFO></ITEM>.",
+        "pt": "[Agente Tsen]\nMe traga 1 <ITEM>[Água Mineral]<INFO>1000374</INFO></ITEM> para teleportar você de volta a Alberta.",
+        "es": "[Agente Tsen]\nTráeme 1 <ITEM>[Agua Mineral]<INFO>1000374</INFO></ITEM> para teletransportarte de vuelta a Alberta."
     },
     "bJJWDA": {
-        "ko": "[조사관 트센서]\n알베르타 급행 출발합니다. 수고~"
+        "ko": "[조사관 트센서]\n알베르타 급행 출발합니다. 수고~",
+        "en": "[Investigator Tsen]\nGood Bye~",
+        "pt": "[Agente Tsen]\nTenha uma boa viagem~",
+        "es": "[Agente Tsen]\nTen un buen viaje~"
     },
     "bZJWDA": {
-        "ko": "[조사관 트센서]\n죄송. 초절탄산수 1개 안 주면 안 보내줌. 수고."
+        "ko": "[조사관 트센서]\n죄송. 초절탄산수 1개 안 주면 안 보내줌. 수고.",
+        "en": "[Investigator Tsen]\nYou don't have any Sparkling carbonated water.",
+        "pt": "[Agente Tsen]\nCredo. Você nem tem 1 Água Mineral.",
+        "es": "[Agente Tsen]\nCaray. Ni siquiera tienes 1 Agua Mineral."
     },
     "bpJWDA": {
-        "ko": "[조사관 트센서]\n응? 노비스 처음 봐?"
+        "ko": "[조사관 트센서]\n응? 노비스 처음 봐?",
+        "en": "[Investigator Tsen]\nHuh? Is this your first time seeing Novice?",
+        "pt": "[Agente Tsen]\nUé? Nunca viu um Aprendiz?",
+        "es": "[Agente Tsen]\n¿Eh? ¿Nunca has visto un Aprendiz?"
     },
     "b5JWDA": {
-        "ko": "[조사관 트센서]\n나 때는 노비스로 생체 던전 같은데도 막 가고 그랬다고 여기 정도야 껌이지 껌."
+        "ko": "[조사관 트센서]\n나 때는 노비스로 생체 던전 같은데도 막 가고 그랬다고 여기 정도야 껌이지 껌.",
+        "en": "[Investigator Tsen]\nWhen I was a novice, I just went to a biological dungeon, so that's it...",
+        "pt": "[Agente Tsen]\nQuando eu tinha menos nível, eu costumava evoluir no Biolaboratório, era muito fácil lá.",
+        "es": "[Agente Tsen]\nCuando tenía menos nivel, solía evolucionar en el Biolaboratorio, era muy fácil allí."
     },
     "cJJWDA": {
-        "ko": "[조사관 트센서]\n뭐해? 양거촌 몬스터 80마리를 호다닥 가서 잡아오지 않고?"
+        "ko": "[조사관 트센서]\n뭐해? 양거촌 몬스터 80마리를 호다닥 가서 잡아오지 않고?",
+        "en": "[Investigator Tsen]\nWhat are you doing? Why don't you go and defeat 80 monsters in Good Turtle Village?",
+        "pt": "[Agente Tsen]\nNão entendeu? Volte somente quando eliminar 80 monstros da Vila das Tartarugas, entendeu?",
+        "es": "[Agente Tsen]\n¿No entendiste? Regresa solo cuando hayas eliminado 80 monstruos de la Villa de las Tortugas, ¿entendido?"
     },
     "cZJWDA": {
-        "ko": "[조사관 트센서]\n뭐 나보단 못 하지만 실력이 나쁘진 않네. 내일도 토벌 의뢰를 하려면 하고 말려면 말고 난 계속 이 자리에 있을 거니까."
+        "ko": "[조사관 트센서]\n뭐 나보단 못 하지만 실력이 나쁘진 않네. 내일도 토벌 의뢰를 하려면 하고 말려면 말고 난 계속 이 자리에 있을 거니까.",
+        "en": "[Investigator Tsen]\nWell, you are not as good as me, but your skills aren't bad. I'll still be here tomorrow if I have to do a Hunting quest.",
+        "pt": "[Agente Tsen]\nInteressante, suas habilidades não são tão ruins. Volte amanhã para repetir essa missão, caso queira.",
+        "es": "[Agente Tsen]\nInteresante, tus habilidades no son tan malas. Regresa mañana para repetir esta misión, si quieres."
     },
     "cpJWDA": {
-        "ko": "[조사관 트센서]\n그렇게 할 일이 없어? 내일 오라니까 왜 또 말을 거는 거야?"
+        "ko": "[조사관 트센서]\n그렇게 할 일이 없어? 내일 오라니까 왜 또 말을 거는 거야?",
+        "en": "[Investigator Tsen]\nDon't you have anything to do? Why are you talking to me again when I tell you to come tomorrow?",
+        "pt": "[Agente Tsen]\nNão ficou sabendo que as missões só podem ser feitas uma vez por dia?",
+        "es": "[Agente Tsen]\n¿No te enteraste que las misiones solo se pueden hacer una vez al día?"
     },
     "c5JWDA": {
-        "ko": "[조사관 트센서]\n오 뭘 좀 아는 친구구나? 잘 마실게. 마셔보고 싶었는데 비싸서 못 마셔봤거든."
+        "ko": "[조사관 트센서]\n오 뭘 좀 아는 친구구나? 잘 마실게. 마셔보고 싶었는데 비싸서 못 마셔봤거든.",
+        "en": "[Investigator Tsen]\nOh, you know something, my friend? I wanted to drink it, but I couldn't because it's expensive.",
+        "pt": "[Agente Tsen]\nOh, obrigado pela gentileza, eu aceito sim.",
+        "es": "[Agente Tsen]\nOh, gracias por la amabilidad, sí acepto."
     },
     "dJJWDA": {
-        "ko": "크~ 이런 맛이었군."
+        "ko": "크~ 이런 맛이었군.",
+        "en": "Wow, it tasted Super!!",
+        "pt": "*glub* *glub*",
+        "es": "*glup* *glup*"
     },
     "dZJWDA": {
-        "ko": "[조사관 트센서]\n어?! 친구 우리 본적 있었나? 아닌가? 처음 보는 거 같기도 하고.."
+        "ko": "[조사관 트센서]\n어?! 친구 우리 본적 있었나? 아닌가? 처음 보는 거 같기도 하고..",
+        "en": "[Investigator Tsen]\nUh?! Friend, have we seen each other? It feels like I'm seeing you for the first time.",
+        "pt": "[Agente Tsen]\nAhh... Que refresc- Ei! Já nos vimos antes...?",
+        "es": "[Agente Tsen]\nAhh... Qué refresca- ¡Ey! ¿Ya nos habíamos visto antes...?"
     },
     "dpJWDA": {
-        "ko": "[조사관 트센서]\n하하.. 초절탄산수가 얼마나 비싼데 그걸 3개나 나에게 줄리가 없지."
+        "ko": "[조사관 트센서]\n하하.. 초절탄산수가 얼마나 비싼데 그걸 3개나 나에게 줄리가 없지.",
+        "en": "[Investigator Tsen]\nI need 3 Sparkling carbonated water.",
+        "pt": "[Agente Tsen]\nHah.. Você nem tem 3 Águas Minerais para me dar.",
+        "es": "[Agente Tsen]\nJa... Ni siquiera tienes 3 Aguas Minerales para darme."
     },
     "d5JWDA": {
-        "ko": "[조사관 트센서]\n여~ 토벌 의뢰를 다시 할 수 있게 됐어. 생각 있어?"
+        "ko": "[조사관 트센서]\n여~ 토벌 의뢰를 다시 할 수 있게 됐어. 생각 있어?",
+        "en": "[Investigator Tsen]\nYou can now do the Hunting quest again. Do you have any thoughts?",
+        "pt": "[Agente Tsen]\nEi~ você já pode fazer a missão de hoje, sabia?",
+        "es": "[Agente Tsen]\nOye~ ya puedes hacer la misión de hoy, ¿sabías?"
     }
 }

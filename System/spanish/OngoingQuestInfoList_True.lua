@@ -1779,7 +1779,7 @@ QuestInfoList = {
 		Title = "Encontré algo",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Encontré algo brillante en lo que parece ser un hoyo cavado por Baedugi, pero no era el anillo de oro. Parece que ya revisé cerca de la cerca de alambre, así que primero regresemos con <NAVI>[Sra. MacPhee]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>."
+			"Encontré algo brillante en lo que parece ser un hoyo cavado por cachorro, pero no era el anillo de oro. Parece que ya revisé cerca de la cerca de alambre, así que primero regresemos con <NAVI>[Sra. MacPhee]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Regresar con la Sra. MacPhee"
 	},
@@ -24100,153 +24100,153 @@ QuestInfoList = {
 		Summary = "Habla con Horim."
 	},
 	[8719] = {
-		Title = "Una nueva sección en algún lugar del infierno de las hormigas",
+		Title = "Ilusión de las Gemelas",
 		Description = {
-			"Mientras exploraban el piso 2 de los Infiernos de las hormigas, Mirco y Yolanda descubrieron un nuevo hormiguero en algún lugar de la mazmorra. Pero el lugar es…"
+			"Mientras exploraban el piso 2 del Infiernos de Hormigas, Mirko y Yolanda descubrieron un nuevo túnel en algún lugar la mazmorra, pero..."
 		},
-		Summary = "Habla con Mirco."
+		Summary = "Habla con Mirko"
 	},
 	[8720] = {
-		Title = "Solicitud de Mirco (1)",
+		Title = "Ilusión de las Gemelas",
 		Description = {
-			"Mirco te cuenta que su compañera de aventuras, Briashen, desapareció."
+			"Mirko te cuenta que la aventurera, Briashen, desapareció."
 		},
-		Summary = "Habla con Mirco."
+		Summary = "Habla con Mirko"
 	},
 	[8721] = {
-		Title = "¿Dónde está Briashen?",
+		Title = "Ilusión de las Gemelas",
 		Description = {
-			"Debemos buscar a Briashen en el Jardín de la percepción. Solo espero que esté viva."
+			"Debemos buscar a Briashen en el Jardín de la Percepción. Solo espero que esté viva."
 		},
-		Summary = "Habla con Briashen."
+		Summary = "Habla con Briashen"
 	},
 	[8722] = {
-		Title = "Un mensaje de Briashen",
+		Title = "Ilusión de las Gemelas",
 		Description = {
-			"Briashen dijo que no puede volver ahora y me pide que le diga a <NAVI>[Mirco]<INFO>anthell02,177,190,0,101,0</INFO></NAVI> que está bien. Se ve extrañamente bien."
+			"Briashen dijo que no puede volver ahora y me pide que le diga a <NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI> que está bien. Se ve extrañamente bien."
 		},
-		Summary = "Habla con Mirco."
+		Summary = "Habla con Mirko"
 	},
 	[8723] = {
-		Title = "Solicitud de Mirco (2)",
+		Title = "Ilusión de las Gemelas",
 		Description = {
-			"Como Briashen permanecerá en el Jardín de la Percepción, Mirco pide tu ayuda en su lugar."
+			"Como Briashen permanecerá en el Jardín de la Percepción, Mirko pide tu ayuda en su lugar."
 		},
-		Summary = "Habla con Briashen."
+		Summary = "Habla con Briashen"
 	},
 	[8724] = {
-		Title = "¿Dónde está Kharis?",
+		Title = "Ilusión de las Gemelas",
 		Description = {
-			"Por mucho que intentes escuchar la historia de Briashen, es imposible mantener una conversación normal con ella. Te pide que encuentres a Kharis. Alguien que se parezca a ella… algo."
+			"Por mucho que intentes escuchar la historia de Briashen, es imposible mantener una conversación normal con ella. Te pide que encuentres a Kharis. Alguien que se parezca a ella… algo así."
 		},
-		Summary = "Habla con trotamundos que se parezcan a Briashen."
+		Summary = "Busca a Kharis"
 	},
 	[8725] = {
 		Title = "¿Se parece a…? (1)",
 		Description = {
-			"Una guardabosques llamada Rwella dice que está buscando a Briashen, pero no con ese nombre… Ella dice eso, y Rwella desaparece."
+			"Una Errante llamada Ruelle dice que está buscando a Briashen. Pero ese no era el nombre que buscábamos… Después de eso, Ruelle desapareció."
 		},
 		Summary = ""
 	},
 	[8726] = {
 		Title = "¿Se parece a…? (2)",
 		Description = {
-			"Se dice que un guardabosques llamado Kharis busca a un amigo de quien se separó. Pero también dicen que Briashen se perdió en esta mazmorra. Dije que era diferente, pero Kharis desapareció."
+			"Una errante llamado Kharis busca a una amiga de quien se separó. Pero después de oír la historia, fue Briashen quien resultó herida… Cuando conté que la historia era diferente, Kharis desapareció."
 		},
 		Summary = ""
 	},
 	[8727] = {
 		Title = "¿Se parece a…? (3)",
 		Description = {
-			"Un pistolero llamado Kharis dice que está buscando a un amigo perdido. Pero ¿acaso Briashen es un Errante…? En cuanto dice eso, Kharis desaparece."
+			"Una pistolera llamado Kharis dice que está buscando a una amiga perdida. Pero la Kharis que Briashen buscaba es una Errante… Después de decir eso, Kharis desapareció."
 		},
 		Summary = ""
 	},
 	[8728] = {
-		Title = "¿Quién es Kharis?",
+		Title = "Ilusión de las Gemelas",
 		Description = {
-			"La gente que se parece a Briashen en el Jardín de la percepción no parece humana. Volvamos con <NAVI>[Mirco]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>."
+			"La personas que se parecen a Briashen en el Jardín de la Percepción no parecen ser humanos. Volvamos con <NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Habla con Mirco."
+		Summary = "Habla con Mirko"
 	},
 	[8729] = {
-		Title = "¿Dónde está Briashen? (2)",
+		Title = "Ilusión de las Gemelas",
 		Description = {
-			"Puede que Kahris sea un Vitata, pero ¿cuál es su intención? Sin saber nada, Mirko vuelve a pedirte que entres en el Jardín de la percepción, esta vez para salvar a Briashen."
+			"Kharis podría ser una Vitata. ¿Cuál es su intención...? Sin saber nada, Mirko vuelve a pedir que entres al Jardín de la Percepción y rescates a Briashen."
 		},
-		Summary = "Regresa al calabozo."
+		Summary = "Encuentra a Briashen"
 	},
 	[8730] = {
-		Title = "Laberinto de percepciones",
+		Title = "Ilusión de las Gemelas",
 		Description = {
-			"Mirco se inquieta cuando le dices que sí viste a Kharis y que crees que era una hormiga. Sacar a Briashen del Jardín de la percepción parece ser la máxima prioridad."
+			"Mirko se inquieta al saber que realmente viste a Kharis y que crees que era una hormiga. Sacar a Briashen del Jardín de la Percepción parece ser la prioridad principal."
 		},
-		Summary = "Lleva a Briashen con Mirco."
+		Summary = "Vuelve con Mirko"
 	},
 	[8731] = {
-		Title = "(Diario) Estudio geológico",
+		Title = "Estudio Geológico",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Mirco necesita 20 unidades de Arena fina seca de Giearth intrépido."
+			"<NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI> necesita 20 <ITEM>[Arenas Resecas]<INFO>1000504</INFO></ITEM> del Giearth Intrépido."
 		},
-		Summary = "Trae 20 unidades de Arena fina seca."
+		Summary = "20 Arenas Resecas"
 	},
 	[8732] = {
-		Title = "(Tiempo de espera) Estudio geológico",
+		Title = "[Espera] Estudio Geológico",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Misión diaria en tiempo de espera. Habla con Mirco mañana."
+			"Misión completada. Se puede repetir tras el tiempo de espera hablando con <NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Se reinicia a las 4:00.",
+		Summary = "Se reinicia a las 4:00",
 		CoolTimeQuest = 1
 	},
 	[8733] = {
-		Title = "(Diario) Fuente de poder",
+		Title = "Fuente de Poder",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Mirco necesita 20 unidades de Líquido opaco de Larva de Andre diligente."
+			"<NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI> necesita 20 <ITEM>[Líquidos Opacos]<INFO>1000505</INFO></ITEM> de las hormigas en el Jardin de la Percepción."
 		},
-		Summary = "Trae 20 unidades de Líquido opaco."
+		Summary = "20 Líquidos Opacos"
 	},
 	[8734] = {
-		Title = "(Tiempo de espera) Fuente de poder",
+		Title = "[Espera] Fuente de Poder",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Misión diaria en tiempo de espera. Habla con Mirco mañana."
+			"Misión completada. Se puede repetir tras el tiempo de espera hablando con <NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Se reinicia a las 4:00.",
+		Summary = "Se reinicia a las 4:00",
 		CoolTimeQuest = 1
 	},
 	[8735] = {
-		Title = "(Diario) Lo mismo",
+		Title = "Lo Mismo",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Mirco te pide que derrotes a 10 Vitata diligente, 10 Soldados Andre diligente y 10 Piere diligente."
+			"<NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI> te pide que derrotes a 10 Vitata Diligente, 10 Soldados Andre Diligente y 10 Piere Diligente."
 		},
-		Summary = "Habla con Mirco cuando hayas terminado."
+		Summary = "Elimina a los monstruos"
 	},
 	[8736] = {
-		Title = "(Tiempo de espera) Lo mismo",
+		Title = "[Espera] Lo Mismo",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Misión diaria en tiempo de espera. Habla con Mirco mañana."
+			"Misión completada. Se puede repetir tras el tiempo de espera hablando con <NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Se reinicia a las 4:00.",
+		Summary = "Se reinicia a las 4:00",
 		CoolTimeQuest = 1
 	},
 	[8737] = {
-		Title = "(Diario) Memoria compartida",
+		Title = "Memoria Compartida",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Recoge 20 Caparazones del conocimiento."
+			"<NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI> necesita 20 <ITEM>[Pieles de Hormigas]<INFO>1000506</INFO></ITEM> de los monstruos en el Jardin de la Percepción."
 		},
-		Summary = "Trae 20 Caparazones del conocimiento."
+		Summary = "20 Pieles de Hormiga"
 	},
 	[8738] = {
-		Title = "(Tiempo de espera) Memoria compartida",
+		Title = "[Espera] Memoria compartida",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Misión diaria en tiempo de espera. Habla con Mirco mañana."
+			"Misión completada. Se puede repetir tras el tiempo de espera hablando con <NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Se reinicia a las 4:00.",
 		CoolTimeQuest = 1
@@ -71713,5 +71713,47 @@ Talk to Kar=],
 		NpcNavi = "geffen",
 		NpcPosX = 40,
 		NpcPosY = 141
+	},
+	[20000] = {
+		Title = "Verificación del Personaje del Usuario Completada",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"¡La verificación del personaje del usuario para RagFes se ha completado!"
+		},
+		Summary = "RagFes"
+	},
+	[20022] = {
+		Title = "¡Soy el Dios del Refinamiento! (1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"El evento “¡Soy el Dios del Refinamiento!” (1.ª ronda) está en progreso."
+		},
+		Summary = ""
+	},
+	[20023] = {
+		Title = "¡Soy el Dios del Refinamiento! (2)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"El evento “¡Soy el Dios del Refinamiento!” (2.ª ronda) está en progreso."
+		},
+		Summary = ""
+	},
+	[20024] = {
+		Title = "¡Soy el Dios del Refinamiento! (3)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"El evento “¡Soy el Dios del Refinamiento!” (3.ª ronda) está en progreso."
+		},
+		Summary = ""
+	},
+	[20025] = {
+		Title = "[En espera] ¡Soy el Dios del Refinamiento!",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"El evento de hoy “¡Soy el Dios del Refinamiento!” ha finalizado.",
+			"Podrás intentarlo de nuevo después de que el recinto del evento abra mañana."
+		},
+		Summary = "Reinicio a las 11:00",
+		CoolTimeQuest = 1
 	}
 }

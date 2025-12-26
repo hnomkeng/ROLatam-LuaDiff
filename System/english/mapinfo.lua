@@ -7854,6 +7854,15 @@ mapTbl = {
 		notifyEnter = true,
 		signName = {mainTitle = "Bazaar"},
 		backgroundBmp = "village_s2"
+	},
+	["ant_d02_i.rsw"] = {
+		displayName = "Garden of Perception",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Illusion",
+			mainTitle = "Garden of Perception"
+		},
+		backgroundBmp = "dungeon"
 	}
 }
 function main()

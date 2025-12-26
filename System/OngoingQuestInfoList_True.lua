@@ -24168,14 +24168,14 @@ QuestInfoList = {
 	[8720] = {
 		Title = "Ilusão das Gêmeas",
 		Description = {
-			"Mirko diz que o aventureiro Briashen desapareceu. Briashen foi explorar o recém-descoberto Jardim da Percepção, mas não voltou."
+			"Mirko diz que a Sentinela Briashen desapareceu. Briashen foi explorar o recém-descoberto Jardim da Percepção, mas não voltou."
 		},
 		Summary = "Fale com Mirko"
 	},
 	[8721] = {
 		Title = "Ilusão das Gêmeas",
 		Description = {
-			"Você deve encontrar Briashen no Jardim da Percepção. Espero que esteja vivo."
+			"Você deve encontrar Briashen no Jardim da Percepção. Espero que esteja viva."
 		},
 		Summary = "Fale com Briashen"
 	},
@@ -24196,26 +24196,26 @@ QuestInfoList = {
 	[8724] = {
 		Title = "Ilusão das Gêmeas",
 		Description = {
-			"Não importa o quanto tentemos aceitar a história de Briashen, uma conversa normal é impossível. Ele pede para você encontrar Kharis. Alguém muito parecido com ele."
+			"Não importa o quanto tentemos aceitar a história de Briashen, uma conversa normal é impossível. Ela pede para você encontrar Kharis. Alguém muito parecido com ela."
 		},
 		Summary = "Procure Kharis"
 	},
 	[8725] = {
-		Title = "Um Gêmeo (1)",
+		Title = "Uma Gêmea (1)",
 		Description = {
-			"Uma Sentinela chamada Leila está procurando Briashen. Mas esse não era o nome que procuramos... Depois disso, Leila desapareceu."
+			"Uma Sentinela chamada Ruelle está procurando Briashen. Mas esse não era o nome que procuramos... Depois disso, Ruelle desapareceu."
 		}
 	},
 	[8726] = {
-		Title = "Um Gêmeo (2)",
+		Title = "Uma Gêmea (2)",
 		Description = {
-			"Um Sentinela chamado Kharis está procurando um amigo perdido. Mas depois de ouvir a história, foi Briashen quem se feriu... Quando contei que a história era diferente, Kharis desapareceu."
+			"Uma Sentinela chamada Kharis está procurando uma amiga perdida. Mas depois de ouvir a história, foi Briashen quem se feriu... Quando contei que a história era diferente, Kharis desapareceu."
 		}
 	},
 	[8727] = {
-		Title = "Um Gêmeo (3)",
+		Title = "Uma Gêmea (3)",
 		Description = {
-			"Um Justiceiro chamado Kharis está procurando um amigo perdido. Mas o Kharis que Briashen procurava é um Sentinela... Depois de dizer isso, Kharis desapareceu."
+			"Uma Justiceira chamada Kharis está procurando uma amiga perdida. Mas Kharis que Briashen procurava é uma Sentinela... Depois de dizer isso, Kharis desapareceu."
 		}
 	},
 	[8728] = {
@@ -24242,7 +24242,7 @@ QuestInfoList = {
 	[8731] = {
 		Title = "Levantamento Geológico",
 		Description = {
-			"<NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI> pediu 20 <ITEM>[Areias Ressecadas]<INFO>1000504</INFO></ITEM> que caem do Giearth Intrépido no Jardim da Percepção."
+			"<NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI> pediu 20 <ITEM>[Areias Ressecadas]<INFO>1000504</INFO></ITEM>. Elas são encontradas pelo Giearth Intrépido no Jardim da Percepção."
 		},
 		Summary = "20 Areias Ressecadas"
 	},
@@ -26652,16 +26652,16 @@ QuestInfoList = {
 	[9394] = {
 		Title = "As Profecias de K",
 		Description = {
-			"Vá para o sopé sul do Monte Mjolnir, perto de Prontera, e cace Bebês Selvagens para coletar 100 Espíritos de Porco"
+			"Vá para o sopé sul do Monte Mjolnir, perto de Prontera, e cace Bebês Selvagens para coletar 100 Fragmentos de Alma de Porco"
 		},
 		Summary = "100 Fragmento de Alma de Porco"
 	},
 	[9395] = {
 		Title = "As Profecias de K",
 		Description = {
-			"Vá para a área sul do Monte Mjolnir, perto de Geffen, e cace Selvagens para coletar 150 Espíritos de Porco"
+			"Vá para a área sul do Monte Mjolnir, perto de Geffen, e cace Selvagens para coletar 150 Fragmentos de Alma de Porco"
 		},
-		Summary = "150 Espíritos de Porco"
+		Summary = "150 Fragmentos de Alma de Porco"
 	},
 	[9396] = {
 		Title = "As Profecias de K",
@@ -26673,7 +26673,7 @@ QuestInfoList = {
 	[9397] = {
 		Title = "As Profecias de K",
 		Description = {
-			"Cace Kokos no Campo de Geffen e Salgueiro Ancião no Campo de Prontera e leve 20 Bolotas e 20 Seivas de Árvore Antiga para Fate Jun"
+			"Cace Kokos no Campo de Geffen e Salgueiro Ancião no Campo de Prontera e leve 20 Avelãs e 20 Resinas para Fate Jun"
 		},
 		Summary = "Conquiste Fate Jun"
 	},
@@ -70237,5 +70237,47 @@ NpcSpr = [=[4_M_RACHMAN1]]
 			""
 		},
 		Summary = "Reseta após 20 horas"
+	},
+	[20000] = {
+		Title = "Verificação do Personagem do Usu?rio Conclu?da",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"A verificação do personagem do usuário para o RagFes foi concluída!"
+		},
+		Summary = "RagFes"
+	},
+	[20022] = {
+		Title = "Eu Sou o Deus do Refinamento! (1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"O evento \"Eu Sou o Deus do Refinamento!\" (1ª rodada) está em andamento."
+		},
+		Summary = ""
+	},
+	[20023] = {
+		Title = "Eu Sou o Deus do Refinamento! (2)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"O evento \"Eu Sou o Deus do Refinamento!\" (2ª rodada) está em andamento."
+		},
+		Summary = ""
+	},
+	[20024] = {
+		Title = "Eu Sou o Deus do Refinamento! (3)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"O evento \"Eu Sou o Deus do Refinamento!\" (3ª rodada) está em andamento."
+		},
+		Summary = ""
+	},
+	[20025] = {
+		Title = "[Aguardando] Eu Sou o Deus do Refinamento!",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"O evento de hoje \"Eu Sou o Deus do Refinamento!\" foi encerrado.",
+			"Você poderá tentar novamente após a abertura do local do evento amanhã."
+		},
+		Summary = "Reinício às 11:00",
+		CoolTimeQuest = 1
 	}
 }
