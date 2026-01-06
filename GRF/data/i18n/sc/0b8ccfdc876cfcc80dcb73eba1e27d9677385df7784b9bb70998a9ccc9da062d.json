@@ -250,5 +250,23 @@
         "en": "<ITEM>[Time Holder Egg Ticket]<INFO>1001782</INFO></ITEM>",
         "pt": "<ITEM>[Ticket de Mascote Vigia do Tempo]<INFO>1001782</INFO></ITEM>",
         "es": "<ITEM>[Boleto de Mascota Vigilante de tiempo]<INFO>1001782</INFO></ITEM>"
+    },
+    "CuOaCw": {
+        "ko": "푸어링",
+        "en": "Pouring Egg",
+        "pt": "Ovo de Aguaring",
+        "es": "Huevo de Pouring"
+    },
+    "C+OaCw": {
+        "ko": "^999999푸어링 (티켓 없음)^000000",
+        "en": "^999999Pouring Egg (not enough ticket)^000000",
+        "pt": "^999999Ovo de Aguaring (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Pouring (Ticket insuficiente)^000000"
+    },
+    "DOOaCw": {
+        "ko": "<ITEM>[푸어링 큐펫 교환 티켓]<INFO>25463</INFO></ITEM>",
+        "en": "<ITEM>[Pouring Pet Ticket]<INFO>25463</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Pouring]<INFO>25463</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Pouring]<INFO>25463</INFO></ITEM>"
     }
 }

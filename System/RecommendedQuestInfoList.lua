@@ -1,9 +1,9 @@
 RecommendedQuestInfoList = {}
 RecommendedQuestInfoList = {
 	[1] = {
-		Title = "Bem vindo ao mundo de RagnarÃ¶k!",
+		Title = "Bem vindo ao mundo de Ragnarök!",
 		IconName = "ico_gq.bmp",
-		Summary = "IntroduÃ§Ã£o ao jogo.",
+		Summary = "Introdução ao jogo.",
 		NpcSpr = "4_F_01",
 		NpcNavi = "iz_ac01",
 		NpcPosX = 102,
@@ -11,14 +11,14 @@ RecommendedQuestInfoList = {
 		BgName = "reco_01.bmp",
 		QuestInfo1 = {
 			"[Bem vindo!]",
-			"Se vocÃª estÃ¡ iniciando suas aventuras em RagnarÃ¶k Online, nÃ£o deixe de visitar o Instituto do Aprendiz para conseguir ajuda, informaÃ§Ãµes e itens especiais!"
+			"Se você está iniciando suas aventuras em Ragnarök Online, não deixe de visitar o Instituto do Aprendiz para conseguir ajuda, informações e itens especiais!"
 		},
 		QuestInfo2 = {
 			"Seja sempre gentil",
 			"com jogadores novos!"
 		},
 		QuestInfo3 = {
-			"^ff0000Esta Ã© uma pÃ¡gina permanente de boas vindas.^000000"
+			"^ff0000Esta é uma página permanente de boas vindas.^000000"
 		}
 	},
 	[2] = {
@@ -28,16 +28,16 @@ RecommendedQuestInfoList = {
 		BgName = "reco_02.bmp",
 		QuestInfo1 = {
 			"Aos Dominadores do Universo!!",
-			"Mestres Taekwons finalmente poderÃ£o se tornar Mestres Estelares.",
-			"VÃ¡ para <NAVI>[Payon]<INFO>payon.gat,171,171,0,101,0</INFO></NAVI> para comeÃ§ar."
+			"Mestres Taekwons finalmente poderão se tornar Mestres Estelares.",
+			"Vá para <NAVI>[Payon]<INFO>payon.gat,171,171,0,101,0</INFO></NAVI> para começar."
 		},
 		QuestInfo2 = {
-			"CondiÃ§Ã£o",
+			"Condição",
 			"Mestre Taekwon",
 			"Nv.99/50"
 		},
 		QuestInfo3 = {
-			"^ff0000PÃ¡gina de anÃºncio.^000000"
+			"^ff0000Página de anúncio.^000000"
 		}
 	},
 	[3] = {
@@ -46,17 +46,17 @@ RecommendedQuestInfoList = {
 		Summary = "O Guia das Almas",
 		BgName = "reco_03.bmp",
 		QuestInfo1 = {
-			"Aos GuardiÃµes do Submundo!!",
+			"Aos Guardiões do Submundo!!",
 			"Espiritualistas podem virar Ceifadores de Almas.",
-			"VÃ¡ para a <NAVI>[Floresta de Payon]<INFO>pay_fild08.gat,51,82,0,101,0</INFO></NAVI> para comeÃ§ar."
+			"Vá para a <NAVI>[Floresta de Payon]<INFO>pay_fild08.gat,51,82,0,101,0</INFO></NAVI> para começar."
 		},
 		QuestInfo2 = {
-			"CondiÃ§Ã£o",
+			"Condição",
 			"Espiritualista",
 			"Nv.99/50"
 		},
 		QuestInfo3 = {
-			"^ff0000PÃ¡gina de anÃºncio.^000000"
+			"^ff0000Página de anúncio.^000000"
 		}
 	}
 }

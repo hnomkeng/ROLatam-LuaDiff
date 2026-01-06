@@ -211,7 +211,7 @@ tbl_AgitInfo = {
 	},
 	["payg_cas01.gat"] = {
 		Number = 16,
-		Name = "PalÃ¡cio do Sol (BC1)",
+		Name = "Palácio do Sol (BC1)",
 		Warp = {
 			TargetPosX = 115,
 			TargetPosY = 57,
@@ -225,7 +225,7 @@ tbl_AgitInfo = {
 	},
 	["payg_cas02.gat"] = {
 		Number = 17,
-		Name = "PalÃ¡cio do Lago Sagrado (BC2)",
+		Name = "Palácio do Lago Sagrado (BC2)",
 		Warp = {
 			TargetPosX = 26,
 			TargetPosY = 265,
@@ -239,7 +239,7 @@ tbl_AgitInfo = {
 	},
 	["payg_cas03.gat"] = {
 		Number = 18,
-		Name = "PalÃ¡cio da Sombra (BC3)",
+		Name = "Palácio da Sombra (BC3)",
 		Warp = {
 			TargetPosX = 43,
 			TargetPosY = 264,
@@ -253,7 +253,7 @@ tbl_AgitInfo = {
 	},
 	["payg_cas04.gat"] = {
 		Number = 19,
-		Name = "PalÃ¡cio Escarlate (BC4)",
+		Name = "Palácio Escarlate (BC4)",
 		Warp = {
 			TargetPosX = 36,
 			TargetPosY = 272,
@@ -267,7 +267,7 @@ tbl_AgitInfo = {
 	},
 	["payg_cas05.gat"] = {
 		Number = 20,
-		Name = "PalÃ¡cio da Colina (BC5)",
+		Name = "Palácio da Colina (BC5)",
 		Warp = {
 			TargetPosX = 274,
 			TargetPosY = 246,

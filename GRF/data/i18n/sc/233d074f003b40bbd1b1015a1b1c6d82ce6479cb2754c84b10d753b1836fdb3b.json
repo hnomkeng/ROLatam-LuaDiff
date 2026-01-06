@@ -1,956 +1,1160 @@
 {
     "YAO4Bw": {
-        "en": "- You're carrying too many items to continue. -",
-        "pt": "- Você não pode prosseguir porque tem muitos itens. -",
-        "es": "-Llevas demasiados objetos para continuar.-"
+        "ko": "^4D4DFF!-주의-!^000000\n^4D4DFF인벤토리에 여유공간이 없거나 동일한 아이템을 한계치에 가깝게 소지하고 있습니다.^000000\n^4D4DFF카프라나 존다의 창고 서비스를 이용해서 정리해 주세요.^000000",
+        "en": "^4D4DFF!-Caution-!^000000\n^4D4DFFYour inventory is either full or you are carrying close to the maximum amount of the same item.^000000\n^4D4DFFPlease use the Kafra or Jonda storage service to organize your items.^000000",
+        "pt": "^4D4DFF!-Atenção-!^000000\n^4D4DFFSeu inventário está sem espaço ou você está carregando quase o limite máximo do mesmo item.^000000\n^4D4DFFPor favor, utilize o serviço de armazenamento da Kafra ou da Jonda para organizar seus itens.^000000",
+        "es": "^4D4DFF¡-Atención-!^000000\n^4D4DFFNo tienes suficiente espacio en el inventario o llevas una cantidad cercana al límite del mismo objeto.^000000\n^4D4DFFPor favor, utiliza el servicio de almacén de Kafra o Zonda para organizar tus objetos.^000000"
     },
     "YQO4Bw": {
-        "en": "There are piles of junk around this rock. The ground underneath me feels soft, as if it was recently dug, and then refilled. Should I dig the ground?",
-        "pt": "Tem algo estranho nesse chão batido. Devo cavar?",
-        "es": "Hay montones de chatarra alrededor de esta roca. El tierra se siente blanda al pisarla, como si alguien hubiera excavado recientemente y luego hubiera rellenado el lugar. ¿Debo cavar en la tierra?"
+        "ko": "바위 주변에 잡동사니가 쌓여있다. 주변 땅이 푹신푹신한 것이 무엇인가 묻고 얼마 지나지 않은 것 같다. 땅을 파볼까?",
+        "en": "There are piles of odds and ends around the rock. The ground nearby feels soft, as if something was recently buried here. Should I try digging?",
+        "pt": "Há uma pilha de tralhas ao redor da rocha. O chão ao redor está macio, como se algo tivesse sido enterrado ali recentemente. Será que devo cavar o solo?",
+        "es": "Alrededor de la roca se han acumulado varios objetos. El suelo cercano se siente esponjoso, como si algo hubiera sido enterrado allí hace poco tiempo. ¿Debería cavar en la tierra?"
     },
     "YgO4Bw": {
-        "en": "Dig.",
-        "pt": "Cavar.",
-        "es": "Cavar."
+        "ko": "파본다.",
+        "en": "I'll break it.",
+        "pt": "Vou quebrar.",
+        "es": "Lo rompo."
     },
     "YwO4Bw": {
-        "en": "Quit.",
-        "pt": "Cancelar.",
-        "es": "Salir."
+        "ko": "그만둔다.",
+        "en": "I quit.",
+        "pt": "Vou desistir.",
+        "es": "Me rindo."
     },
     "ZAO4Bw": {
-        "en": "I dug the ground and found a note.",
-        "pt": "Quando cavei o chão, encontrei um bilhete que alguém enterrou.",
-        "es": "Cavé y encontré una nota."
+        "ko": "땅을 파자 누군가 묻어놓은 쪽지가 나왔다.",
+        "en": "As I dug the ground, I found a note that someone had buried.",
+        "pt": "Ao cavar o chão, encontrei um bilhete que alguém havia enterrado.",
+        "es": "Al cavar la tierra, apareció una nota que alguien había enterrado."
     },
     "ZQO4Bw": {
-        "en": "I've found a note with someone's request. What should I do?",
-        "pt": "Encontrei um bilhete de alguém. O que devo fazer?",
-        "es": "Encontré una nota con la solicitud de alguien. ¿Qué debo hacer?"
+        "ko": "누군가의 부탁을 적은 것이 분명한 쪽지를 발견했다. 어찌할까?",
+        "en": "You found a note that clearly contains someone's request. What will you do?",
+        "pt": "Você encontrou um bilhete que claramente contém o pedido de alguém. O que você vai fazer?",
+        "es": "Has encontrado una nota que claramente contiene la petición de alguien. ¿Qué deberías hacer?"
     },
     "ZgO4Bw": {
-        "en": "Read it.",
-        "pt": "Pegar o bilhete",
-        "es": "Leerla."
+        "ko": "꺼내서 읽어본다.",
+        "en": "You take it out and read it.",
+        "pt": "Você tira e lê.",
+        "es": "Lo sacas y lo lees."
     },
     "ZwO4Bw": {
-        "en": "Bury it again.",
-        "pt": "Enterrar novamente.",
-        "es": "Enterrarla de nuevo."
+        "ko": "다시 땅에 묻는다.",
+        "en": "Bury it in the ground again.",
+        "pt": "Enterro novamente no chão.",
+        "es": "Lo entierro de nuevo en la tierra."
     },
     "aAO4Bw": {
-        "en": "I've removed the note.",
-        "pt": "Você pegou o bilhete.",
-        "es": "Quité la nota."
+        "ko": "쪽지를 꺼냈다.",
+        "en": "You took out a note.",
+        "pt": "Você tirou uma carta.",
+        "es": "Sacaste una nota."
     },
     "aQO4Bw": {
-        "en": "Someone already must have taken whatever was buried in here.",
-        "pt": "Não há mais nada para cavar aqui.",
-        "es": "Alguien ya debe haber tomado lo que estaba enterrado aquí."
+        "ko": "이미 누군가 파낸 듯 남아있는 것은 없는 것 같다.",
+        "en": "It seems like someone has already dug here, and there’s nothing left.",
+        "pt": "Parece que alguém já cavou aqui antes e não restou nada.",
+        "es": "Parece que alguien ya ha excavado aquí y no queda nada."
     },
     "agO4Bw": {
+        "ko": "아침",
         "en": "Morning",
-        "pt": "Morning",
+        "pt": "Manhã",
         "es": "Morning"
     },
     "awO4Bw": {
-        "en": "A child is standing with a bright smile on his face, looking out of place.",
-        "pt": "O belo sorriso da criança não combina com esse lugar.",
-        "es": "Un niño permanece de pie con una sonrisa brillante en el rostro, pareciendo estar en un lugar donde no pertenece."
+        "ko": "아이가 장소와 어울리지 않게 밝은 미소로 방글방글 웃고있다.",
+        "en": "The child is beaming with a bright smile, which seems out of place in this setting.",
+        "pt": "A criança está sorrindo alegremente com um rosto radiante, mesmo que o local não combine com esse tipo de felicidade.",
+        "es": "El niño sonríe alegremente con una brillante sonrisa, que no parece encajar con el lugar."
     },
     "bAO4Bw": {
-        "en": "SavePPL : Episode Quest Clear Coupon-added version",
-        "pt": "Modo Administrador",
-        "es": "SavePPL: Versión con cupón añadido para completar el episodio de misión"
+        "ko": "운영자모드 - 아침이밥 로테이션 오류수정",
+        "en": "Administrator Mode - Fixed the Morning meal rotation error",
+        "pt": "Modo de administrador - Correção do erro na rotação do café da manhã",
+        "es": "Modo de administrador: se ha corregido el error de rotación de comidas de Morning."
     },
     "bQO4Bw": {
-        "en": "Ignore and continue.",
-        "pt": "Ignorar e continuar",
-        "es": "Ignorar y continuar."
+        "ko": "무시하고 진행",
+        "en": "Proceed without paying attention.",
+        "pt": "Ignore e continue",
+        "es": "Ignorar y continuar"
     },
     "bgO4Bw": {
-        "en": "[GM] Delete cooldown.",
-        "pt": "[GM] Deletar cooldown",
-        "es": "[GM] Eliminar tiempo de espera."
+        "ko": "[운] 쿨 타임 삭제",
+        "en": "Cooldown removed",
+        "pt": "Remoção do tempo de recarga",
+        "es": "Tiempo de reutilización eliminado"
     },
     "bwO4Bw": {
-        "en": "[M] Check/set Daily quests.",
-        "pt": "[M] Missão de hoje",
-        "es": "[M] Comprobar/configurar misiones diarias."
+        "ko": "[영] 일일 퀘스트 확인/세팅",
+        "en": "Check/Set Daily Quest",
+        "pt": "Verificar/Configurar missão diária",
+        "es": "Comprobar/configurar misión diaria"
     },
     "cAO4Bw": {
-        "en": "[O] Check/set Closeness.",
-        "pt": "[O] Intimidade",
-        "es": "[O] Comprobar/ajustar cercanía."
+        "ko": "[자] 친밀도 확인/세팅",
+        "en": "Check/Set Affinity",
+        "pt": "Verificar/Configurar afinidade",
+        "es": "Comprobar/ajustar afinidad"
     },
     "cQO4Bw": {
-        "en": "[D] Get testing supplies.",
-        "pt": "[D] Receber itens",
-        "es": "[D] Conseguir suministros de pruebas."
+        "ko": "[모] 테스트 아이템 지원",
+        "en": "Test Item Support",
+        "pt": "test item",
+        "es": "Soporte de ítems de Test"
     },
     "cgO4Bw": {
-        "en": "[E] Reset Morning quests.",
-        "pt": "[E] Resetar missão",
-        "es": "[E] Restablecer misiones de Morning."
+        "ko": "[드] 아침이Q 초기화",
+        "en": "MorningQ Reset",
+        "pt": "O Q da manhã foi reiniciado.",
+        "es": "MorningQ reiniciar"
     },
     "cwO4Bw": {
-        "en": "Delete cooldown.",
-        "pt": "Cooldown deletado",
-        "es": "Eliminar tiempo de espera."
+        "ko": "쿨타임 제거",
+        "en": "Cooldown removed",
+        "pt": "Remover o tempo de recarga",
+        "es": "Eliminación del tiempo de reutilización"
     },
     "dAO4Bw": {
-        "en": "Current: {}\nJellopy: 1, Tree Root: 2, Grasshopper's Leg: 3, Clover: 4, Feather Of Birds: 5, Rat Tail: 6, Venom Canine: 7, Yoyo Tail: 8, Tooth of Bat: 9, and Bear's Footskin: 10\nPlease don't edit while the servers are running. 1-10",
-        "pt": "Hoje: {}\nNÃO EDITAR se o servidor estiver aberto. Digite entre 1 a 10.\nJellopy 1. Raiz 2. Perna de Gafanhoto 3. Trevo 4. Pluma 5. Cauda de Rato 6. Canino 7. Cauda de Yoyo 8. Dente de Morcego 9. Pata de Urso 10.",
-        "es": "Actual: {}\nJellopy: 1, Raíz de árbol: 2, Pata de saltamontes: 3, Trébol: 4, Pluma de pájaro: 5, Cola de rata: 6, Canino venenoso: 7, Cola de Yoyo: 8, Diente de murciélago: 9 y Piel de pata de oso: 10\nPor favor, no edites mientras los servidores están funcionando. 1-10"
+        "ko": "현재: {0}\n젤로피(1)나무뿌리(2)메뚜기뒷다리(3)클로버(4)새의깃털(5)쥐의꼬리(6)독송곳니(7)원숭이꼬리(8)박쥐의이빨(9)곰발바닥(10)\n서버 오픈중이라면 수정하지 마세요. 1-10",
+        "en": "Current: {0}\nJellopy (1), Tree Root (2), Grasshopper's Leg (3), Clover (4), Bird Feather (5), Rat Tail (6), Venomous Canine (7), Monkey Tail (8), Tooth of Bat (9), Bear's Footskin (10)\nIf the server is open, do not modify. 1-10",
+        "pt": "Atual: {0}\nJellopy(1)Raiz de Árvore(2)Perna de Gafanhoto(3)Trevo(4)Plumas de Ave(5)Cauda de Rato(6)Canino Venenoso(7)Cauda de Yoyo(8)Dente de Morcego(9)Pata de Urso(10)\nSe o servidor estiver aberto, não faça alterações. 1-10",
+        "es": "Actualmente: {0}\nJellopy(1)Raíz de árbol(2)Pata de Saltamontes(3)Trébol(4)Pluma de ave(5)Cola de rata(6)Colmillo Venenoso(7)Cola de mono(8)Diente de murciélago(9)Piel de pata de oso(10)\nSi el servidor está abierto, no lo modifiques. 1-10"
     },
     "dQO4Bw": {
-        "en": "Confirm",
-        "pt": "Ok",
-        "es": "Confirmar."
+        "ko": "확인완료",
+        "en": "Confirmation complete.",
+        "pt": "Confirmação concluída.",
+        "es": "Confirmado"
     },
     "dgO4Bw": {
-        "en": "Edit",
-        "pt": "Editar",
-        "es": "Editar."
+        "ko": "수정",
+        "en": "Crystal",
+        "pt": "Cristal",
+        "es": "Corrección"
     },
     "dwO4Bw": {
-        "en": "Range error. Terminated.",
-        "pt": "Número inválido. Encerrando.",
-        "es": "Error de rango. Terminado."
+        "ko": "범위 에러 종료",
+        "en": "Range error terminated.",
+        "pt": "Encerramento devido a erro de alcance",
+        "es": "Error de rango: finalización"
     },
     "eAO4Bw": {
-        "en": "{} set.",
-        "pt": "Editado para {}.",
-        "es": "{} establecido."
+        "ko": "{0} 세팅완료",
+        "en": "{0} Setup complete.",
+        "pt": "Configuração concluída",
+        "es": "Configuración completada."
     },
     "eQO4Bw": {
-        "en": "Current: {}\nEditing range: 0 - 29,999",
-        "pt": "Hoje: {}\nDigite o valor de intimidade entre 0 a 29999",
-        "es": "Actual: {}\nRango de edición: 0 - 29999"
+        "ko": "현재: {0}\n수정범위 0-29999",
+        "en": "Current: {0}\nEdit range 0-29999",
+        "pt": "Atualmente: {0}\nFaixa de modificação 0-29999",
+        "es": "Actualmente: {0}\nRango de modificación 0-29999"
     },
     "egO4Bw": {
-        "en": "Closeness set to {}.",
-        "pt": "Configurado para {} de intimidade.",
-        "es": "Cercanía fijada en {}."
+        "ko": "친밀도 {0} 세팅완료",
+        "en": "Affinity {0} has been set.",
+        "pt": "Configuração de afinidade {0} concluída.",
+        "es": "Configuración de afinidad {0} completada."
     },
     "ewO4Bw": {
-        "en": "Quest items can be issued in increments of 10 per kind (1 per pet egg [infertile]). Select an item.",
-        "pt": "Escolha o item que você quer receber.",
-        "es": "Los objetos de misión pueden emitirse en incrementos de 10 por clase (1 por huevo de mascota [infértil]). Selecciona un objeto."
+        "ko": "잡템은 10개, 알은 1개(무정란) 줍니다. 받을 아이템을 고르세요.",
+        "en": "You will receive 10 miscellaneous items and 1 egg (unfertilized). Please choose the item you wish to receive.",
+        "pt": "Itens comuns: 10 unidades, ovo: 1 unidade (ovo não fertilizado). Escolha o item que deseja receber.",
+        "es": "Los objetos comunes son 10 unidades, y el huevo es 1 unidad (huevo infértil). Elige el objeto que deseas recibir."
     },
     "fAO4Bw": {
+        "ko": "젤로피",
         "en": "Jellopy",
         "pt": "Jellopy",
-        "es": "Jellopy."
+        "es": "Jellopy"
     },
     "fQO4Bw": {
+        "ko": "나무뿌리",
         "en": "Tree Root",
         "pt": "Raiz de Árvore",
         "es": "Raíz de árbol"
     },
     "fgO4Bw": {
-        "en": "Grasshopper's Leg",
+        "ko": "메뚜기뒷다리",
+        "en": "Grasshopper Leg",
         "pt": "Perna de Gafanhoto",
-        "es": "Pata de saltamontes"
+        "es": "Pata de Saltamontes"
     },
     "fwO4Bw": {
+        "ko": "클로버",
         "en": "Clover",
         "pt": "Trevo",
         "es": "Trébol"
     },
     "gAO4Bw": {
-        "en": "Feather Of Birds",
+        "ko": "새의깃털",
+        "en": "Feather of Bird",
         "pt": "Plumas de Ave",
         "es": "Pluma de ave"
     },
     "gQO4Bw": {
+        "ko": "쥐의꼬리",
         "en": "Rat Tail",
         "pt": "Cauda de Rato",
         "es": "Cola de rata"
     },
     "ggO4Bw": {
-        "en": "Venom Canine",
+        "ko": "독송곳니",
+        "en": "Venomous Canine",
         "pt": "Canino Venenoso",
-        "es": "Canino venenoso"
+        "es": "Colmillo Venenoso"
     },
     "gwO4Bw": {
-        "en": "Yoyo Tail",
+        "ko": "원숭이꼬리",
+        "en": "Monkey Tail",
         "pt": "Cauda de Yoyo",
-        "es": "Cola de Yoyo"
+        "es": "Cola de mono"
     },
     "hAO4Bw": {
+        "ko": "박쥐의이빨",
         "en": "Tooth of Bat",
         "pt": "Dente de Morcego",
         "es": "Diente de murciélago"
     },
     "hQO4Bw": {
+        "ko": "곰발바닥",
         "en": "Bear's Footskin",
         "pt": "Pata de Urso",
-        "es": "Piel de oso"
+        "es": "Piel de pata de oso"
     },
     "hgO4Bw": {
+        "ko": "포링알",
         "en": "Poring Egg",
         "pt": "Ovo de Poring",
         "es": "Huevo de Poring"
     },
     "hwO4Bw": {
+        "ko": "로커알",
         "en": "Rocker Egg",
         "pt": "Ovo de Rocker",
-        "es": "Huevo de Rockero"
+        "es": "Huevo de Rockero."
     },
     "iAO4Bw": {
+        "ko": "픽키알",
         "en": "Picky Egg",
         "pt": "Ovo de Picky",
         "es": "Huevo de Picky"
     },
     "iQO4Bw": {
-        "en": "Lunatic",
+        "ko": "루나틱알",
+        "en": "Lunatic Egg",
         "pt": "Ovo de Lunático",
-        "es": "Lunático"
+        "es": "Huevo de Lunática"
     },
     "igO4Bw": {
-        "en": "Reset?",
-        "pt": "Resetar?",
-        "es": "¿Restablecer?"
+        "ko": "초기화해요?",
+        "en": "Are you going to reset?",
+        "pt": "Deseja redefinir?",
+        "es": "¿Quieres reiniciar?"
     },
     "iwO4Bw": {
-        "en": "No",
+        "ko": "No",
+        "en": "아니요",
         "pt": "Não",
-        "es": "No."
+        "es": "No"
     },
     "jAO4Bw": {
+        "ko": "GoGoGo",
         "en": "GoGoGo",
-        "pt": "Sim",
-        "es": "GoGoGo"
+        "pt": "Vamos, vamos, vamos!",
+        "es": "¡Vamos, vamos, vamos!"
     },
     "jQO4Bw": {
-        "en": "Reset completed.",
-        "pt": "Reset concluído",
-        "es": "Reinicio completado."
+        "ko": "초기화완료",
+        "en": "Reset complete.",
+        "pt": "Redefinição concluída.",
+        "es": "Inicialización completada"
     },
     "jgO4Bw": {
-        "en": "Mr. Adventurer",
-        "pt": "Estranho",
-        "es": "Señor Trotamundos"
+        "ko": "모험가 아저씨",
+        "en": "Adventurer Uncle",
+        "pt": "Tio Aventureiro",
+        "es": "Señor Aventurero"
     },
     "jwO4Bw": {
-        "en": "Miss Adventurer",
-        "pt": "Estranha",
-        "es": "Señorita Trotamundos"
+        "ko": "모험가 아줌마",
+        "en": "Adventurer Lady",
+        "pt": "Aventureira Tia",
+        "es": "Señora aventurera"
     },
     "kAO4Bw": {
-        "en": "Mighty Adventurer",
-        "pt": "Aventureiro",
-        "es": "Aventurero poderoso"
+        "ko": "모험가 형아",
+        "en": "Adventurer bro",
+        "pt": "Irmão aventureiro",
+        "es": "Hermano aventurero"
     },
     "kQO4Bw": {
-        "en": "Pretty Adventurer",
-        "pt": "Aventura",
-        "es": "Aventurero de buena pinta"
+        "ko": "모험가 누나",
+        "en": "Adventurer Sister",
+        "pt": "Irmã aventureira",
+        "es": "Hermana aventurera"
     },
     "kgO4Bw": {
-        "en": "Brother",
+        "ko": "형아",
+        "en": "Big bro",
         "pt": "Maninho",
-        "es": "Hermano"
+        "es": "Hermano mayor"
     },
     "kwO4Bw": {
-        "en": "Sister",
-        "pt": "Maninha",
-        "es": "Hermana"
+        "ko": "누나",
+        "en": "Noona",
+        "pt": "Mana irmã mais velha",
+        "es": "Hermana mayor"
     },
     "lAO4Bw": {
-        "en": "Morning, I've got you a Poring.",
-        "pt": "Eu trouxe um Poring para você.",
-        "es": "Morning, te conseguí un Poring."
+        "ko": "아침아 포링 데려왔어.",
+        "en": "Morning, I brought a Poring.",
+        "pt": "Acorda, eu trouxe um Poring.",
+        "es": "He traído un Poring Morning."
     },
     "lQO4Bw": {
-        "en": "Morning, I've got you a grasshopper.",
-        "pt": "Eu trouxe um Rocker para você.",
-        "es": "Morning, te conseguí un saltamontes."
+        "ko": "아침아 베짱이 데려왔어.",
+        "en": "I brought Grasshopper, Morning.",
+        "pt": "Trouxe o Besouro para você, Achima.",
+        "es": "Morning He traído al saltamontes."
     },
     "lgO4Bw": {
-        "en": "Morning, I've got you a chick.",
-        "pt": "Eu trouxe um Picky para você.",
-        "es": "Morning, te conseguí un pollito."
+        "ko": "아침아 삐약이 데려왔어.",
+        "en": "I brought Chirper, Morning.",
+        "pt": "Acorda, eu trouxe o Piyaki.",
+        "es": "Morning He traído al pollito."
     },
     "lwO4Bw": {
-        "en": "Morning, I've got you a Lunatic.",
-        "pt": "Eu trouxe um Lunático para você.",
-        "es": "Morning, te conseguí una Lunática."
+        "ko": "아침아 루나틱 데려왔어.",
+        "en": "I brought Lunatic, Morning.",
+        "pt": "Bom dia, trouxe um Lunatic.",
+        "es": "He traído un Lunatic, Morning."
     },
     "mAO4Bw": {
-        "en": "It's about time that Morning gets hungry.",
-        "pt": "Morning, você está com fome?",
-        "es": "Ya es la hora en la que Morning tiene hambre."
+        "ko": "이제 슬슬 아침이가 배고플 것 같은데?",
+        "en": "I think Morning must be getting hungry by now, don't you think?",
+        "pt": "Acho que a essa altura a Achimi já deve estar com fome, não é?",
+        "es": "Creo que Morning ya debe estar empezando a tener hambre, ¿no?"
     },
     "mQO4Bw": {
-        "en": "*Rumble*",
-        "pt": "*Acena com a cabeça*",
-        "es": "*Gruñe*"
+        "ko": "꼬- 르륵-",
+        "en": "Grrr- Growl-",
+        "pt": "Ronc... ronc...",
+        "es": "Gruñido~ rugido~"
     },
     "mgO4Bw": {
-        "en": "Morning, do you want to eat?",
-        "pt": "Morning! Vamos comer?",
-        "es": "Morning, ¿quieres comer?"
+        "ko": "아침아! 맘마 먹을까?",
+        "en": "Morning! Should we eat?",
+        "pt": "Bom dia! Vamos comer?",
+        "es": "¡Morning! ¿Quieres comer algo?"
     },
     "mwO4Bw": {
-        "en": "Yay! Thank you, {}!",
-        "pt": "Oh! Obrigado, {}",
-        "es": "¡Sí! ¡Gracias, {}!"
+        "ko": "우와아! 잘 먹겠습니다. {0}",
+        "en": "Wow! Thank you for the meal. {0}",
+        "pt": "Uau! Vou comer com gosto. {0}",
+        "es": "¡Guau! ¡Voy a disfrutar esta comida. {0}"
     },
     "nAO4Bw": {
-        "en": "*Chomp, Chomp* *Crunch, Crunch*",
-        "pt": "*Morde* *Mastiga* *Engole*",
-        "es": "*Muerde, muerde*, *mastica, mastica*"
+        "ko": "오물오물 톡톡~☆",
+        "en": "Nibble nibble, pop pop~☆",
+        "pt": "Mastigando e estalando~☆",
+        "es": "¡Ñam ñam, pop~☆!"
     },
     "nQO4Bw": {
-        "en": "Poing, poing, poing! Jellopies are the best!",
-        "pt": "Poing~ Poing~ Poing~ Jellopy é realmente delicioso!",
-        "es": "¡Ping, ping, ping! ¡Los Jellopys son los mejores!"
+        "ko": "뽀잉~ 뽀잉~ 뽀잉~ 젤로피는 정말 맛있져요!",
+        "en": "Poying~ Poying~ Poying~ Jellopy is really delicious!",
+        "pt": "Poin~ Poin~ Poin~ Jellopy é realmente delicioso!",
+        "es": "¡Poin~ poin~ poin~ Jellopy es realmente delicioso!"
     },
     "ngO4Bw": {
-        "en": "Mr. Olg left this {}. I'll give it to you.",
-        "pt": "O Sr. Olg deixou isso, {}, pode ficar com você.",
-        "es": "El señor Olg dejó a {}. Te lo daré."
+        "ko": "올그 아저씨가 두고 간 거에요. {0} 줄게요.",
+        "en": "This is something Mr. Olge left behind. I'll give it to {0}.",
+        "pt": "Foi algo que o Sr. Olge deixou para trás. Vou te dar {0}.",
+        "es": "Es algo que el señor Olge dejó. Te lo daré, {0}."
     },
     "nwO4Bw": {
-        "en": "*Chew, Chew*",
-        "pt": "Vou cantar para você~~! Lá lalalala ~~? Uhuuul ~~~ Hi ih~~~~!!!?",
-        "es": "*Mastica, mastica*"
+        "ko": "질겅질겅..",
+        "en": "Chew, chew...",
+        "pt": "Mastigando, mastigando...",
+        "es": "Masticando..."
     },
     "oAO4Bw": {
-        "en": "Let me comfort your soul! Yeah, yeah, yeah!  Bulleeetttt traiiiiiiin!!",
-        "pt": "Ahhh~ Não~ Sniff~ Sniff~",
-        "es": "¡Le daré consuelo a tu alma! ¡Sí, sí, sí!  ¡Como una bala!"
+        "ko": "영혼을 위로해 주마~~! 이예이에에에!~~♬ 뷸~~렛~~~트레인~~~~!!!♬",
+        "en": "I will comfort your soul~~! Yeiyeiyei!~~♬ Bul~~let~~~Train~~~~!!!♬",
+        "pt": "Vou consolar sua alma~~! Iêiêiêêê!~~♬ Buuuu~~let~~~Train~~~~!!!♬",
+        "es": "¡Voy a consolar tu alma~~! ¡Iyeieiee!~~♬ ¡Buu~~llet~~~Train~~~~!!!♬"
     },
     "oQO4Bw": {
-        "en": "*Crunch, Crunch* *Gulp*",
-        "pt": "Trevo simboliza a felicidade. Você sempre será feliz, Morning.",
-        "es": "*Tritura, tritura* *Traga*"
+        "ko": "우물우물 꼴깍~",
+        "en": "Munch munch, gulp~",
+        "pt": "Mastigando devagar, glup~",
+        "es": "Masticando y luego... ¡glup!"
     },
     "ogO4Bw": {
-        "en": "Oh, no! Fratricide! *Sniffle* *Flop*",
-        "pt": "Quê... ? Você comeu minha mãe!!",
-        "es": "¡Ay, no! ¡Fratricidio! *Snif* *Plop*"
+        "ko": "아이고~ 데이고~ 훌쩍훌쩍~ 킁~",
+        "en": "Oh no~ Ouch~ *sob sob*~ Sniff~",
+        "pt": "Ai ai~ Ai de mim~ Snif snif~ Buá~",
+        "es": "Ay~ Ay~ Snif, snif~ Hic~"
     },
     "owO4Bw": {
-        "en": "*Chew, Chew* *Slurp*",
-        "pt": "Ah, parece delicioso!",
-        "es": "*Mastica, mastica* *Glup*"
+        "ko": "우물우물 촵촵~",
+        "en": "Munch munch, chomp chomp~",
+        "pt": "Mastigando devagar, nhac nhac~",
+        "es": "Ñam ñam, ¡glup glup~!"
     },
     "pAO4Bw": {
-        "en": "Clover symbolizes happiness, lu. Since Morning lives on clovers, you'll always be happy, lu.",
-        "pt": "Isso dá dor de estômago! É perigoso!!",
-        "es": "El trébol simboliza la felicidad, Mo. Como Morning se alimenta de tréboles, siempre serás feliz, Mo."
+        "ko": "클로버의 의미는 행복이래루. 아침이는 클로버를 먹고 사니까 언제나 행복해질거루~",
+        "en": "The meaning of a clover is happiness. Since Morning lives by eating clovers, they'll always be happy~",
+        "pt": "O significado de Trevo é felicidade. Como o Achim come Trevo, ele sempre ficará feliz~",
+        "es": "Dicen que el significado de Trébol es la felicidad. Como Morning se alimenta de Trébol, siempre será feliz~"
     },
     "pQO4Bw": {
-        "en": "Wah! Mother! You murderer!",
-        "pt": "Você não quer comer outra coisa além disso?",
-        "es": "¡Bua! ¡Mamá! ¡Asesino!"
+        "ko": "우앙...ㅠ.ㅠ  울엄마 살려내!!",
+        "en": "Waaah...ㅠ.ㅠ Bring my mom back!!",
+        "pt": "Uaaah…T.T Devolva minha mãe!!",
+        "es": "¡Uaaah... T.T  ¡Devuélveme a mi mamá!"
     },
     "pgO4Bw": {
-        "en": "*Chew, Chew* *Spit*",
-        "pt": "Isso não tem um gosto bom...",
-        "es": "*Mastica, mastica* *Escupe*"
+        "ko": "질겅질겅 톡!",
+        "en": "Chew chew, pop!",
+        "pt": "Mastigando e estalando!",
+        "es": "¡Mastica y explota!"
     },
     "pwO4Bw": {
-        "en": "Oooh, yum!",
-        "pt": "Eu gosto mais de cenouras!",
-        "es": "¡Qué rico!"
+        "ko": "아웅 맛나게생겨따",
+        "en": "Oh, that looks so delicious!",
+        "pt": "Hmm, parece tão apetitoso!",
+        "es": "¡Aww, se ve delicioso!"
     },
     "qAO4Bw": {
-        "en": "*Chomp, Chomp* *Gulp*",
-        "pt": "Por que seu nome é Morning?",
-        "es": "*Muerde, muerde* *Traga*"
+        "ko": "오독오독 꼴깍~",
+        "en": "Crunch crunch, gulp~",
+        "pt": "Croc croc, glup~",
+        "es": "Crujido, crujido... ¡glup~!"
     },
     "qQO4Bw": {
-        "en": "No! What if you get a tummyache, lu?",
-        "pt": "Quem é Olg?",
-        "es": "¡No! ¿Y si te duele la barriga, Mo?"
+        "ko": "배탈난다루! 위험하다루!!",
+        "en": "You'll get a stomachache-ru! It's dangerous-ru!!",
+        "pt": "Vai dar dor de barriga! É perigoso!!",
+        "es": "¡Me va a doler el estómago! ¡¡Es peligroso!!"
     },
     "qgO4Bw": {
-        "en": "Don't you want to eat something else?",
-        "pt": "Booo!",
-        "es": "¿No quieres comer algo más?"
+        "ko": "그런 거 말고 다른 거 먹고 싶지 않냐?",
+        "en": "Don’t you want to eat something else instead of that?",
+        "pt": "Você não gostaria de comer outra coisa em vez disso?",
+        "es": "¿No te gustaría comer algo diferente en lugar de eso?"
     },
     "qwO4Bw": {
-        "en": "*Chomp, Chomp* *Crunch*",
-        "pt": "Por que você gosta tanto de Poring?",
-        "es": "*Muerde, muerde* *Tritura*"
+        "ko": "오독오독- 오독오독-",
+        "en": "Crunch crunch—crunch crunch—",
+        "pt": "Croc croc- croc croc-",
+        "es": "Crujido, crujido... crujido, crujido..."
     },
     "rAO4Bw": {
-        "en": "We pets eat what we're fed, but even we don't like these. They're tasteless... T.T",
-        "pt": "Quer ir para casa?",
-        "es": "Las mascotas comemos lo que nos dan, pero ni a nosotros nos gustan estos. No saben a nada… T.T"
+        "ko": "주는대로 먹는 펫이라지만, 이런건 시러 ㅠㅠ 맛도 없고..",
+        "en": "I'm a pet that eats whatever I'm given, but I really don't like this ㅠㅠ. It doesn't even taste good...",
+        "pt": "Dizem que sou um pet que come qualquer coisa que me dão, mas isso aqui eu não quero ㅠㅠ Nem é gostoso...",
+        "es": "Aunque soy una mascota que come lo que me den, esto no me gusta ㅠㅠ. No tiene buen sabor..."
     },
     "rQO4Bw": {
-        "en": "*Munch, Munch* *Mumble, Mumble*",
-        "pt": "Que tipo de pessoa é Olg?",
-        "es": "*Saborea, saborea* *Masculla, masculla*"
+        "ko": "와구 와구 우물우물",
+        "en": "Munch munch, nom nom.",
+        "pt": "Nhac nhac, mastigando mastigando.",
+        "es": "Ñam ñam, masticando, saboreando."
     },
     "rgO4Bw": {
-        "en": "We Lunatics love carrots the best!",
-        "pt": "Que tipo de lugar é Rudus?",
-        "es": "¡A las Lunáticas nos encantan las zanahorias!"
+        "ko": "루나틱은 당근이 제일 좋아루!",
+        "en": "Lunatic loves carrots the most!",
+        "pt": "Lunatic adora cenouras acima de tudo!",
+        "es": "¡A Lunatic le encantan las zanahorias!"
     },
     "rwO4Bw": {
-        "en": "why is your name Morning?",
-        "pt": "O dia não está bonito, hoje?",
-        "es": "¿Por qué te llamas Morning?"
+        "ko": "왜 아침이야?",
+        "en": "Why is it Morning?",
+        "pt": "Por que já é de manhã?",
+        "es": "¿Por qué Morning?"
     },
     "sAO4Bw": {
-        "en": "who's Olg?",
-        "pt": "Do que você deseja brincar, Morning?",
+        "ko": "올그는 누구야?",
+        "en": "Who is Olge?",
+        "pt": "Quem é Olg?",
         "es": "¿Quién es Olg?"
     },
     "sQO4Bw": {
-        "en": "peekaboo!",
-        "pt": "Por que você gosta de Jellopy?",
-        "es": "¡Cucú!"
+        "ko": "우루루루 까꿍!",
+        "en": "Urururu peekaboo!",
+        "pt": "Uru ru ru, peekaboo!",
+        "es": "¡Uru ru ru, cucú!"
     },
     "sgO4Bw": {
-        "en": "do you love Porings that much?",
-        "pt": "Tem certeza que quer dar o que Olg deixou para você?",
-        "es": "¿Tanto te gustan los Porings?"
+        "ko": "포링이 그렇게 좋아?",
+        "en": "Do you like Poring that much?",
+        "pt": "Você gosta tanto assim de Poring?",
+        "es": "¿Te gusta tanto el Poring?"
     },
     "swO4Bw": {
+        "ko": "집에 가고 싶다.",
         "en": "I want to go home.",
-        "pt": "Por que você gosta de ficar em Rudus?",
-        "es": "Quiero irme a casa."
+        "pt": "Quero ir para casa.",
+        "es": "Quiero ir a casa."
     },
     "tAO4Bw": {
-        "en": "what kind of person was Olg?",
-        "pt": "Você já esteve em outros andares de Rudus?",
-        "es": "¿Qué clase de persona era Olg?"
+        "ko": "올그는 어떤 사람이야?",
+        "en": "What kind of person is Olge?",
+        "pt": "Como é o Olge?",
+        "es": "¿Cómo es Olge?"
     },
     "tQO4Bw": {
-        "en": "what kind of place is Rudus?",
-        "pt": "O que você pensa que eu sou?",
-        "es": "¿Qué clase de lugar es Rudus?"
+        "ko": "루두스는 어떤 곳이야?",
+        "en": "What kind of place is Ludeus?",
+        "pt": "Como é o lugar chamado Ludus?",
+        "es": "¿Qué tipo de lugar es Ludus?"
     },
     "tgO4Bw": {
-        "en": "it's a beautiful day today, isn't it?",
-        "pt": "Você tem algo interessante para me contar?",
-        "es": "Hoy es un día precioso, ¿verdad?"
+        "ko": "오늘은 날씨가 좋네.",
+        "en": "The weather is nice today.",
+        "pt": "Hoje o tempo está bom.",
+        "es": "Hoy hace buen tiempo."
     },
     "twO4Bw": {
-        "en": "what do you do to play?",
-        "pt": "Qual comida é a mais deliciosa?",
-        "es": "¿Qué haces para jugar?"
+        "ko": "아침이는 뭐하고 놀아?",
+        "en": "What does Morning do for fun?",
+        "pt": "O que a Achimi gosta de fazer para se divertir?",
+        "es": "¿Qué hace Morning para divertirse?"
     },
     "uAO4Bw": {
-        "en": "why do you like Jellopies?",
-        "pt": "Até, Morning!",
-        "es": "¿Por qué te gustan los Jellopy?"
+        "ko": "젤로피가 왜 좋아?",
+        "en": "Why do you like Jellopy?",
+        "pt": "Por que você gosta tanto de Jellopy?",
+        "es": "¿Por qué te gusta Jellopy?"
     },
     "uQO4Bw": {
-        "en": "are you sure you can give me what Mr. Olg left with you?",
-        "pt": "Esta criança parece ser Morning.",
-        "es": "¿De veras puedes darme lo que te dejó el señor Olg?"
+        "ko": "올그 아저씨가 두고 간걸 나 줘도 돼?",
+        "en": "Can I have what Mr. Olge left behind?",
+        "pt": "Posso ficar com o que o tio Olge deixou para trás?",
+        "es": "¿Puedo quedarme con lo que el señor Olge dejó?"
     },
     "ugO4Bw": {
-        "en": "how do you like staying in Rudus?",
-        "pt": "Morning está sorrindo de novo hoje.",
-        "es": "¿Te gusta estar en Rudus?"
+        "ko": "루두스는 지내기 어때?",
+        "en": "How are you finding life in Ludeus?",
+        "pt": "Como está sendo viver em Ludos?",
+        "es": "¿Qué tal te va en Ludeus?"
     },
     "uwO4Bw": {
-        "en": "have you ever been to the different floors in Rudus?",
-        "pt": "Alimentar Morning.",
-        "es": "¿Alguna vez fuiste a los diferentes pisos de Rudus?"
+        "ko": "루두스 다른 층에 가본적 있니?",
+        "en": "Have you ever been to another floor of Ludeus?",
+        "pt": "Você já visitou outros andares de Ludos?",
+        "es": "¿Has estado alguna vez en otro piso de Ludos?"
     },
     "vAO4Bw": {
-        "en": "what kind of person do you think I am?",
-        "pt": "Conversar com Morning",
-        "es": "¿Qué clase de persona crees que soy?"
+        "ko": "난 어떤 거 같아?",
+        "en": "What do you think of me?",
+        "pt": "O que você acha de mim?",
+        "es": "¿Qué te parezco?"
     },
     "vQO4Bw": {
-        "en": "do you have anything interesting to tell me?",
-        "pt": "{}, já posso comer?",
-        "es": "¿Tienes algo interesante que contarme?"
+        "ko": "재미있는 일 없어?",
+        "en": "Isn't there anything fun to do?",
+        "pt": "Não tem nada divertido acontecendo?",
+        "es": "¿No tienes nada divertido que hacer?"
     },
     "vgO4Bw": {
-        "en": "what kind of food do you like the most?",
-        "pt": "Morning, o que você quer comer?",
-        "es": "¿Qué comida te gusta más?"
+        "ko": "어떤 맘마가 가장 맛있어?",
+        "en": "Which mammon do you think tastes the best?",
+        "pt": "Qual é a mamadeira mais gostosa?",
+        "es": "¿Cuál es la comida que más te gusta?"
     },
     "vwO4Bw": {
-        "en": "good morning!",
-        "pt": "Morning, o que você quer comer hoje?",
-        "es": "¡Buenos días!"
+        "ko": "아침아 안녕!",
+        "en": "Morning, hello!",
+        "pt": "Bom dia, manhã!",
+        "es": "¡Hola! Morning"
     },
     "wAO4Bw": {
-        "en": "He must be the Morning.",
-        "pt": "Jellopy!",
-        "es": "Él debe ser el Morning."
+        "ko": "이 아이가 아침이 인 것 같다.",
+        "en": "It seems that this child is Morning.",
+        "pt": "Parece que esta criança é Achimi.",
+        "es": "Parece que este niño es Morning."
     },
     "wQO4Bw": {
-        "en": "Morning is smiling as usual.",
-        "pt": "Jellopy",
-        "es": "Morning está sonriendo como siempre."
+        "ko": "아침이는 오늘도 방글방글 웃고 있다.",
+        "en": "Morning is smiling brightly again today.",
+        "pt": "A Achimi está sorrindo alegremente mais uma vez hoje.",
+        "es": "Morning también sonríe alegremente hoy."
     },
     "wgO4Bw": {
-        "en": "Feed Morning.",
-        "pt": "Raiz de árvores!",
-        "es": "Alimentar a Morning."
+        "ko": "아침이 식사 챙겨주기.",
+        "en": "Prepare Morning meal.",
+        "pt": "Preparar o café da manhã.",
+        "es": "Preparar la comida de la Morning."
     },
     "wwO4Bw": {
-        "en": "Chat with Morning.",
-        "pt": "Raizes de Árvore",
-        "es": "Charlar con Morning."
+        "ko": "아침이와 잡담하기",
+        "en": "Chatting with Morning",
+        "pt": "Conversar com Achimi",
+        "es": "Charlar con Morning"
     },
     "xAO4Bw": {
-        "en": "{}, can't I eat yet?",
-        "pt": "Perna de Gafanhoto!?",
-        "es": "{}, ¿todavía no puedo comer?"
+        "ko": "{0} 맘마는 아직 이야?",
+        "en": "Is {0} Mamma still not here yet?",
+        "pt": "{0} Mamá ainda não chegou?",
+        "es": "¿Todavía no está {0} Mamá?"
     },
     "xQO4Bw": {
-        "en": "Morning, are you hungry? What do you want to eat?",
-        "pt": "Pernas de Gafanhoto",
-        "es": "Morning, ¿tienes hambre? ¿Qué quieres comer?"
+        "ko": "아침아! 맘마 먹을까? 뭐 먹고 싶니?",
+        "en": "Morning! Should we have something to eat? What would you like to eat?",
+        "pt": "Bom dia! Vamos comer alguma coisa? O que você gostaria de comer?",
+        "es": "¡Morning! ¿Quieres comer algo? ¿Qué te gustaría comer?"
     },
     "xgO4Bw": {
-        "en": "Morning, what do you want to eat today?",
-        "pt": "Trevo!",
-        "es": "Morning, ¿qué quieres comer hoy?"
+        "ko": "아침아! 오늘은 무슨 맘마가 먹고 싶니?",
+        "en": "Morning! What kind of food do you want to eat today?",
+        "pt": "Bom dia, Ahchima! O que você gostaria de comer hoje?",
+        "es": "¡Morning! ¿Qué te gustaría comer hoy?"
     },
     "xwO4Bw": {
-        "en": "Jellopies! Morning wants Jellopies.",
-        "pt": "Trevos",
-        "es": "¡Jellopy! Morning quiere Jellopy."
+        "ko": "젤로피! 아침이 젤로피 먹을래.",
+        "en": "Jellopy! Morning I want to eat Jellopy.",
+        "pt": "Jellopy! Quero comer Jellopy no café da manhã.",
+        "es": "¡Jellopy! Quiero comer Jellopy por la Morning."
     },
     "yAO4Bw": {
-        "en": "Jellopies",
-        "pt": "Plumas de Ave!",
-        "es": "Jellopys"
+        "ko": "젤로피",
+        "en": "Jellopy",
+        "pt": "Jellopy",
+        "es": "Jellopy"
     },
     "yQO4Bw": {
-        "en": "Tree roots! Morning wants tree roots.",
-        "pt": "Plumas de Ave",
-        "es": "¡Raíces de árbol! Morning quiere raíces de árbol."
+        "ko": "나무뿌리! 아침이 늙은나무의 뿌리 먹을래.",
+        "en": "Tree root! Morning I want to eat the root of an Old Tree.",
+        "pt": "Raiz de Árvore! Quero comer a raiz da árvore velha de manhã.",
+        "es": "¡Raíz de árbol! Morning Quiero comer la raíz de un árbol viejo."
     },
     "ygO4Bw": {
-        "en": "Tree Roots",
-        "pt": "Cauda de Rato!",
-        "es": "Raíces de los árboles"
+        "ko": "늙은나무의 뿌리",
+        "en": "Root of Old Tree",
+        "pt": "Raiz de Árvore Anciã",
+        "es": "Raíz de árbol viejo"
     },
     "ywO4Bw": {
-        "en": "Grasshopper legs! Morning wants grasshopper legs.",
-        "pt": "Caudas de Rato",
-        "es": "¡Patas de saltamontes! Morning quiere patas de saltamontes."
+        "ko": "메뚜기! 아침이 메뚜기 뒷다리 먹을래.",
+        "en": "Grasshopper! Morning I want to eat grasshopper's legs.",
+        "pt": "Gafanhoto! De manhã, quero comer a perna traseira do gafanhoto.",
+        "es": "¡Saltamontes! Morning Quiero comer la pata trasera del saltamontes."
     },
     "zAO4Bw": {
-        "en": "Grasshopper's Legs",
-        "pt": "Canino Venenoso!",
-        "es": "Patas de saltamontes"
+        "ko": "메뚜기의 뒷다리",
+        "en": "Grasshopper's Leg",
+        "pt": "Pernas traseiras de gafanhoto",
+        "es": "Pata trasera de saltamontes"
     },
     "zQO4Bw": {
-        "en": "Clovers! Morning wants clover.",
-        "pt": "Caninos Venenosos",
-        "es": "¡Tréboles! Morning quiere tréboles."
+        "ko": "클로버! 아침이 클로버 먹을래.",
+        "en": "Clover! Morning I want to eat clover.",
+        "pt": "Trevo! Quero comer Trevo de manhã.",
+        "es": "¡Trébol! Quiero comer Morning Trébol."
     },
     "zgO4Bw": {
-        "en": "Clovers",
-        "pt": "Cauda de Yoyo!",
-        "es": "Tréboles"
+        "ko": "클로버",
+        "en": "Clover",
+        "pt": "Trevo",
+        "es": "Trébol"
     },
     "zwO4Bw": {
-        "en": "Feathers! Morning wants bird feathers.",
-        "pt": "Caudas de Yoyo",
-        "es": "¡Plumas! Morning quiere plumas de pájaros."
+        "ko": "깃털! 아침이 새의 깃털 먹을래.",
+        "en": "Feathers! I want to eat the feathers of a Morning bird.",
+        "pt": "Pena! De manhã, quero comer a pena do pássaro.",
+        "es": "¡Plumas! Quiero comer plumas de pájaro de Morning."
     },
     "0AO4Bw": {
-        "en": "Feathers of Birds",
-        "pt": "Dente de Morcego!",
-        "es": "Plumas de pájaros"
+        "ko": "새의 깃털",
+        "en": "Bird Feather",
+        "pt": "Pena de pássaro",
+        "es": "Pluma de ave"
     },
     "0QO4Bw": {
-        "en": "Rat tails! Morning wants rat tails.",
-        "pt": "Dentes de Morcego",
-        "es": "¡Colas de rata! Morning quiere colas de rata."
+        "ko": "쥐꼬리! 아침이 쥐의 꼬리 먹을래.",
+        "en": "Rat tail! Morning I want to eat a rat's tail.",
+        "pt": "Rabo de rato! De manhã, quero comer o rabo do rato.",
+        "es": "¡Cola de ratón! Morning Quiero comer la cola de un ratón."
     },
     "0gO4Bw": {
-        "en": "Rat Tails",
-        "pt": "Patas de Urso!",
-        "es": "Colas de rata"
+        "ko": "쥐의 꼬리",
+        "en": "Rat Tail",
+        "pt": "Cauda de rato",
+        "es": "Cola de ratón"
     },
     "0wO4Bw": {
-        "en": "Venom canines! Morning wants venom canines.",
-        "pt": "Patas de Urso",
-        "es": "¡Caninos venenosos! Morning quiere caninos venenosos."
+        "ko": "독니! 아침이 독 송곳니 먹을래.",
+        "en": "Venom fang! Morning Do you want to eat a Venomous Canine?",
+        "pt": "Presas venenosas! De manhã, quero comer as presas venenosas.",
+        "es": "¡Colmillo venenoso! Morning ¿Quieres comer un colmillo venenoso?"
     },
     "1AO4Bw": {
-        "en": "Venom Canines",
-        "pt": "É o que Morning quer!",
-        "es": "Caninos venenosos"
+        "ko": "독 송곳니",
+        "en": "Venomous Canine",
+        "pt": "Presa Venenosa",
+        "es": "Colmillo venenoso"
     },
     "1QO4Bw": {
-        "en": "Tails! Morning wants Yoyo tails.",
-        "pt": "10 {}? Dez unidades?",
-        "es": "¡Colas! Morning quiere colas de Yoyo."
+        "ko": "꼬리! 아침이 원숭이의 꼬리 먹을래.",
+        "en": "Tail! I want to eat the tail of a Morning monkey.",
+        "pt": "Cauda! De manhã, quero comer o rabo do macaco.",
+        "es": "¡Cola! Quiero comer la cola de mono de Morning."
     },
     "1gO4Bw": {
-        "en": "Yoyo Tails",
-        "pt": "Vou cuidar disso.",
-        "es": "Colas de Yoyo"
+        "ko": "원숭이의 꼬리",
+        "en": "Monkey Tail",
+        "pt": "Cauda de macaco",
+        "es": "Cola de mono"
     },
     "1wO4Bw": {
-        "en": "Teeth! Morning wants bat teeth.",
-        "pt": "Agora não dá.",
-        "es": "¡Dientes! Morning quiere dientes de murciélago."
+        "ko": "이빨! 아침이 박쥐의 이빨 먹을래.",
+        "en": "Teeth! I want to eat the Tooth of Bat.",
+        "pt": "Dentes! Quero comer os dentes de morcego do café da manhã.",
+        "es": "¡Dientes! Quiero comer los dientes de Morning Murciélago."
     },
     "2AO4Bw": {
-        "en": "Teeth of Bat",
-        "pt": "Morning, espere aí que vou trazer.",
-        "es": "Dientes de murciélago"
+        "ko": "박쥐의 이빨",
+        "en": "Tooth of Bat",
+        "pt": "Dente de Morcego",
+        "es": "Diente de murciélago"
     },
     "2QO4Bw": {
-        "en": "Pads! Morning wants bear paws.",
-        "pt": "Yaay! Comida! Comida!",
-        "es": "¡Almohadillas! Morning quiere patas de oso."
+        "ko": "발바닥! 아침이 곰의 발바닥 먹을래.",
+        "en": "Paw! Morning I want to eat Bear's Footskin",
+        "pt": "Pata! De manhã, quero comer a pata do urso.",
+        "es": "¡Patas! Quiero comer la pata de oso de Morning."
     },
     "2gO4Bw": {
-        "en": "Bear's Footskins",
-        "pt": "Morning está com raiva de fome?",
-        "es": "Piel de patas de oso"
+        "ko": "곰의 발바닥",
+        "en": "Bear's Footskin",
+        "pt": "Pata de urso",
+        "es": "Almohadilla de oso"
     },
     "2wO4Bw": {
-        "en": "I see. Morning wants",
-        "pt": "Parece que não quer falar comigo.",
-        "es": "Ya veo. Morning quiere"
+        "ko": "그렇군! 아침이가 원하는 것은?!",
+        "en": "I see! What is it that Morning wants?!",
+        "pt": "Entendi! O que a Achimi quer?!",
+        "es": "¡Ya veo! ¿Qué es lo que quiere Morning?!"
     },
     "3AO4Bw": {
-        "en": "{}. 10 should be enough, right?",
-        "pt": "Morning! Eu trouxe um Poring.",
-        "es": "{}. Con 10 debería bastar, ¿no?"
+        "ko": "{0}인 건가? 10개 정도면 충분하겠지?",
+        "en": "Is it {0}? Ten should be enough, right?",
+        "pt": "{0}é isso? Acho que uns 10 devem ser suficientes, né?",
+        "es": "¿Es esto {0}? ¿Crees que con unas 10 será suficiente?"
     },
     "3QO4Bw": {
-        "en": "Bring them.",
-        "pt": "Hmpf! É mentira...",
-        "es": "Traerlos."
+        "ko": "가져온다.",
+        "en": "Bringing it.",
+        "pt": "Traz.",
+        "es": "Lo traigo."
     },
     "3gO4Bw": {
-        "en": "I've got something else to do.",
-        "pt": "Morning! Eu trouxe um Rocker.",
-        "es": "Tengo que hacer otra cosa."
+        "ko": "급한 일이 생겼다.",
+        "en": "Something urgent has come up.",
+        "pt": "Aconteceu uma emergência.",
+        "es": "Ha surgido un asunto urgente."
     },
     "3wO4Bw": {
-        "en": "Morning, give me a moment. I'll bring them to you.",
-        "pt": "Morning! Eu trouxe um Picky.",
-        "es": "Morning, dame un momento. Te traeré lo que pides."
+        "ko": "아침아 조금만 기다려 맘마 가져다 줄게.",
+        "en": "Morning, just wait a moment. I'll bring you your food.",
+        "pt": "Espere só um pouquinho, Achima, vou trazer sua comida.",
+        "es": "Morning Espera un momento, te traeré la comida."
     },
     "4AO4Bw": {
-        "en": "Yee! Food! Food!",
-        "pt": "Morning! Eu trouxe um Lunático.",
-        "es": "¡Sí! ¡Comida! ¡Comida!"
+        "ko": "우와~ 맘마다! 맘마!",
+        "en": "Wow~ Mamma! Mamma!",
+        "pt": "Uau~ Mamamada! Mamma!",
+        "es": "¡Guau~ Mamá! ¡Mamá!"
     },
     "4QO4Bw": {
-        "en": "Is Morning too hungry and grumpy to talk?",
-        "pt": "Ocorreu um erro. Se o mesmo problema for encontrado após tentar novamente, faça uma captura de tela e entre em contato com a equipe de gerenciamento.",
-        "es": "¿Está Morning demasiado hambriento y malhumorado como para hablar?"
+        "ko": "아침이가 배가 고파 짜증이라도 난 걸까?",
+        "en": "Is Morning just irritated because they're hungry?",
+        "pt": "Será que a Achimi está irritada porque está com fome?",
+        "es": "¿Será que Morning está de mal humor porque tiene hambre?"
     },
     "4gO4Bw": {
-        "en": "I don't think he wants to talk to me at all.",
-        "pt": "...{}",
-        "es": "No creo que quiera hablar conmigo en absoluto."
+        "ko": "대화할 의지가 전혀 없어 보인다.",
+        "en": "They don't seem willing to talk at all.",
+        "pt": "Parece que não tem nenhuma vontade de conversar.",
+        "es": "Parece que no tiene ninguna intención de conversar."
     },
     "4wO4Bw": {
-        "en": "Morning, I've got you a Poring.",
-        "pt": "É porque fui abandonado aqui pela manhã.",
-        "es": "Morning, te conseguí un Poring."
+        "ko": "아침아! 포링 데려왔어.",
+        "en": "Morning! I brought a Poring.",
+        "pt": "Bom dia! Eu trouxe um Poring.",
+        "es": "¡Morning! He traído un Poring."
     },
     "5AO4Bw": {
-        "en": "Whoa, Poring Prince! Poring Prince! Thank you!",
-        "pt": "Sr. Olg foi a primeira pessoa a me chamar de 'Morning'.",
-        "es": "¡Guau, príncipe Poring! ¡Príncipe Poring! ¡Gracias!"
+        "ko": "우와! 포링왕자다! 포링왕자! 감사합니다.",
+        "en": "Wow! It's Poring Prince! Poring Prince! Thank you.",
+        "pt": "Uau! É o Príncipe Poring! O Príncipe Poring! Muito obrigado.",
+        "es": "¡Guau! ¡Es el Príncipe Poring! ¡El Príncipe Poring! Muchas gracias."
     },
     "5QO4Bw": {
-        "en": "Hmpf, liar...",
-        "pt": "...?",
-        "es": "Pfff, mentiroso…"
+        "ko": "흥! 거짓말쟁이..",
+        "en": "Hmph! Liar...",
+        "pt": "Hum! Mentiroso...",
+        "es": "¡Hmph! Mentiroso..."
     },
     "5gO4Bw": {
-        "en": "Morning, I've got you a grasshopper.",
-        "pt": "Poing!! Poing!! Poing!!...",
-        "es": "Morning, te conseguí un saltamontes."
+        "ko": "아침아! 베짱이 데려왔어.",
+        "en": "Morning!  You brought Grasshopper.",
+        "pt": "Bom dia! Eu trouxe o gafanhoto.",
+        "es": "¡Morning! He traído al saltamontes."
     },
     "5wO4Bw": {
-        "en": "Wee! A grasshopper! Let's sing, Grasshopper.",
-        "pt": "Pare de magoar meu mestre! Grrr! Aumente o volume! Eu vou animá-lo com música!",
-        "es": "¡Wii! ¡Un saltamontes! Cantemos, saltamontes."
+        "ko": "와! 베짱이네. 같이 노래 부르자. 베짱아.",
+        "en": "Wow! It's a Grasshopper. Let's sing together, grasshopper.",
+        "pt": "Uau! Que vida tranquila você leva. Vamos cantar juntos. Vamos lá, gafanhoto.",
+        "es": "¡Guau! Qué despreocupado eres. Cantemos juntos. Vamos, saltamontes."
     },
     "6AO4Bw": {
-        "en": "Morning, I've got you a chick.",
-        "pt": "Ugh... essa foi ruim...",
-        "es": "Morning, te conseguí un pollito."
+        "ko": "아침아! 삐약이 데려왔어.",
+        "en": "Morning!  You brought Chirper.",
+        "pt": "Bom dia! Eu trouxe o Piyaki.",
+        "es": "¡Morning! He traído al pollito."
     },
     "6QO4Bw": {
-        "en": "Whoa, a chick! Chick, did you come here on an adventure? Come on, let's play!",
-        "pt": "Próximo!!",
-        "es": "¡Guau, un pollito! Pollito, ¿viniste de aventura? ¡Vamos, juguemos!"
+        "ko": "우와! 삐약아 여기까지 모험하러 왔구나. 나랑 놀자.",
+        "en": "Wow! Piyak, you've come all the way here for an adventure. Let's play together!",
+        "pt": "Uau! Piyak, você veio até aqui para se aventurar. Vamos brincar juntos!",
+        "es": "¡Vaya! ¡Ppiyak, has venido hasta aquí para aventurarte! Juguemos juntos."
     },
     "6gO4Bw": {
-        "en": "Morning, I've got you a Lunatic.",
-        "pt": "Eu não sou exigente como o príncipe Poring.",
-        "es": "Morning, te conseguí una Lunática."
+        "ko": "아침아! 루나틱 데려왔어.",
+        "en": "Morning! You brought a Lunatic.",
+        "pt": "Bom dia! Eu trouxe um Lunatic.",
+        "es": "¡Morning! He traído un Lunatic."
     },
     "6wO4Bw": {
-        "en": "Did Hopper come from the moon? Oh, wait. Where's the moon?",
-        "pt": "Poing~? Eu não sou exigente, sou?",
-        "es": "¿Vino Hopper de la luna? Ah, espera. ¿Dónde está la luna?"
+        "ko": "깡총이는 달에서 왔나요? 어?! 그러고보니 달이 어디지?",
+        "en": "Did Hopper come from the moon? Huh?! Come to think of it, where is the moon?",
+        "pt": "O Kangchong veio da lua? Hã?! Agora que penso nisso, onde está a lua?",
+        "es": "¿Kangchongi vino de la luna? ¡¿Eh?! Ahora que lo pienso, ¿dónde está la luna?"
     },
     "7AO4Bw": {
-        "en": "An error has occurred. If this problem persists, please take a screenshot and submit it to the Operation Team.",
-        "pt": "Casa? Já estou em casa, {}.",
-        "es": "Se ha producido un error. Si el problema persiste, haz una captura de pantalla y envíala al equipo de operaciones."
+        "ko": "오류가 발생하였습니다. 재 시도해도 같은 현상이 발견된다면, 스크린샷을 찍어 운영팀에 문의해주세요.",
+        "en": "An error has occurred. If the same issue persists after retrying, please take a screenshot and contact the support team.",
+        "pt": "Ocorreu um erro. Se o mesmo problema persistir após tentar novamente, por favor, tire uma captura de tela e entre em contato com a equipe de suporte.",
+        "es": "Se ha producido un error. Si el mismo problema persiste incluso después de volver a intentarlo, por favor toma una captura de pantalla y contacta al equipo de soporte."
     },
     "7QO4Bw": {
-        "en": "Morning, {}",
-        "pt": "Sr. Olg? Ele é uma criatura feia.",
-        "es": "Morning, {}"
+        "ko": "아침아, {0}",
+        "en": "Morning, {0}",
+        "pt": "Bom dia, {0}",
+        "es": "Morning, {0}"
     },
     "7gO4Bw": {
-        "en": "Why? Because I was abandoned here in the morning.",
-        "pt": "Aw~~ Te amo s2",
-        "es": "¿Por qué? Porque me abandonaron aquí por la mañana."
+        "ko": "아침이? 아침에 여기 버려서 아침이래요.",
+        "en": "Morning? They say it's called Morning because it was abandoned here at Morning.",
+        "pt": "Manhã? Dizem que é de manhã porque fui deixado aqui de manhã.",
+        "es": "¿Morning? Dicen que esto es Morning porque lo dejaron aquí en Morning."
     },
     "7wO4Bw": {
-        "en": "Mr. Olg was the first person to call me Morning.",
-        "pt": "... *Bleeeeh*... Ops... Não fiz isso por causa de Olg. Eu juro.",
-        "es": "El señor Olg fue la primera persona que me llamó Morning."
+        "ko": "올그 아저씨는 아침이를 아침이라고 처음 부른 아저씨.",
+        "en": "Oldge is the man who first called Morning as Morning.",
+        "pt": "O tio Olge foi o primeiro a chamar a Achimi de \"Achimi\".",
+        "es": "El señor Olg fue el primero en llamar a Morning como Morning."
     },
     "8AO4Bw": {
-        "en": "...?",
-        "pt": "Piu! Sem comentários.",
-        "es": "¿…?"
+        "ko": ". . . . . . ?",
+        "en": ". . . . . . ?",
+        "pt": ". . . . . . ?",
+        "es": ". . . . . . ?"
     },
     "8QO4Bw": {
-        "en": "Poing, poing, poing! Poing, poing! ... Go away already.",
-        "pt": "Concordo.",
-        "es": "¡Ping, ping, ping! ¡Ping, ping! … Vete ya."
+        "ko": "뽀잉!! 뽀잉!! 뽀잉!!.;;.. 뽀잉!! 뽀잉!!....  안가구 머해?",
+        "en": "Poring!! Poring!! Poring!!.;;.. Poring!! Poring!!....  Why aren't you going? What are you doing?",
+        "pt": "Poring!! Poring!! Poring!!... Poring!! Poring!!... Por que você não vai embora? O que está fazendo?",
+        "es": "¡Poring!! ¡Poring!! ¡Poring!...;;... ¡Poring!! ¡Poring!!... ¿Por qué no te vas? ¿Qué estás haciendo?"
     },
     "8gO4Bw": {
-        "en": "Who's bothering my master? Grr! Max volume! Max distortion! I'll heal you with my music!",
-        "pt": "Rudus é um lugar escuro. Muito escuro.",
-        "es": "¿Quién está molestando a mi amo? ¡Grr! ¡Máximo volumen! ¡Máxima distorsión! ¡Te curaré con mi música!"
+        "ko": "누가 우리 주인님을 이렇게 괴롭히는거야! 에잇!볼륨 최대!토션 최대!음악으로 치유해 드릴께요!",
+        "en": "Who dares to bother our master like this! Take this! Volume up! Tension up! I'll heal you with music!",
+        "pt": "Quem está incomodando o nosso mestre assim?! Ei! Volume no máximo! Torsão no máximo! Vou curá-lo com música!",
+        "es": "¡¿Quién se atreve a molestar así a nuestro amo?! ¡Eh! ¡Volumen al máximo! ¡Torsión al máximo! ¡Te curaré con música!"
     },
     "8wO4Bw": {
-        "en": "See, I told you not to do it.",
-        "pt": "E quieto~ Muito quieto~",
-        "es": "¿Ves? Te dije que no lo hicieras."
+        "ko": "거바 거바.. 무리라고 했자너",
+        "en": "See, see... I told you it was impossible.",
+        "pt": "Viu só, viu só... Eu disse que era impossível.",
+        "es": "Mira, mira... Te dije que era imposible."
     },
     "9AO4Bw": {
-        "en": "Next, next, next, next!",
-        "pt": "Não sei, {}... Em Rudus é tudo igual...",
-        "es": "¡Siguiente, siguiente, siguiente!"
+        "ko": "다음다음다음다음다음!!",
+        "en": "Next next next next next!!",
+        "pt": "Próximo, próximo, próximo, próximo, próximo!!",
+        "es": "¡Siguiente, siguiente, siguiente, siguiente, siguiente!"
     },
     "9QO4Bw": {
-        "en": "Morning is not a picky eater like Poring Prince.",
-        "pt": "Morning nunca viu o céu~~",
+        "ko": "아침이는 포링왕자처럼 편식같은 건 안해요.",
+        "en": "Morning isn’t picky about food like Poring Prince.",
+        "pt": "A Achimi não é exigente com comida como o Príncipe Poring.",
         "es": "Morning no es quisquilloso con la comida como el Príncipe Poring."
     },
     "9gO4Bw": {
-        "en": "Poing? Who says I'm a picky eater?",
-        "pt": "Ah, eu gosto só de ouvir histórias, como a que o Sr. Olg me contou sobre o príncipe Poring.",
-        "es": "¿Ping? ¿Quién dice que soy quisquilloso con la comida?"
+        "ko": "뽀잉~? 난 편식 안했는데?",
+        "en": "Poying~? I didn't even pick at my food!",
+        "pt": "Poring~? Eu não fui exigente com a comida, não!",
+        "es": "¿Poring~? ¿Yo no fui quisquilloso con la comida?"
     },
     "9wO4Bw": {
-        "en": "Home? This is my home, {}.",
-        "pt": "Já disse... eu não sou um príncipe...",
-        "es": "¿Casa? Esta es mi casa, {}."
+        "ko": "집? 아침이는 여기가 집이에요. {0}",
+        "en": "Home? Morning This is home. {0}",
+        "pt": "Casa? Para Achimi, aqui é a casa. {0}",
+        "es": "¿Casa? Morning, este es tu hogar. {0}"
     },
     "+AO4Bw": {
-        "en": "Mr. Olg? He's terrible-looking. He's ugly.",
-        "pt": "Ah, eu gosto só de ouvir histórias, como a que o Sr. Olg me contou sobre Pula-Pula.",
-        "es": "¿Señor Olg? Se ve terrible. Es feo."
+        "ko": "올그 아저씨? 올그 아저씨 엄청 못 생겼어. 못 생긴 생명체야.",
+        "en": "Olge mister? Mister Olge is really ugly. He's a hideous creature.",
+        "pt": "O Sr. Olge? O Sr. Olge é muito feio. Ele é uma criatura feia.",
+        "es": "¿El señor Olg? El señor Olg es muy feo. Es una criatura fea."
     },
     "+QO4Bw": {
-        "en": "Squee! Congrats!",
-        "pt": "Que tipo de histórias falam de mim?",
-        "es": "¡Squii! ¡Felicidades!"
+        "ko": "꺄~~ 추카해~♡",
+        "en": "Kyaa~~ Congratulations~♡",
+        "pt": "Kya~~ Parabéns~♡",
+        "es": "¡Kya~~ Felicidades~♡"
     },
     "+gO4Bw": {
-        "en": "... *Retch* I didn't do that because of Olg. I swear.",
-        "pt": "Ah, eu gosto só de ouvir histórias, como a que o Sr. Olg me contou sobre o Galinho...",
-        "es": "… *Arcadas* No hice eso por Olg. Lo juro."
+        "ko": "...우욱.. 올그 때문에 그런 거 아니다. 그냥 한 거야.",
+        "en": "...Ugh... It's not because of Olg. I just did it.",
+        "pt": "...Ugh... Não foi por causa do Olg. Eu só fiz isso, só isso.",
+        "es": "...Ugh... No es por culpa de Olg. Simplemente lo hice."
     },
     "+wO4Bw": {
-        "en": "*Peep, Peep, Chirp* No comment.",
-        "pt": "Me confundem com o Ticoliro! Piu!",
-        "es": "*Pía, pía, gorjea* Sin comentarios."
+        "ko": "짹- 짹- 노코멘트 하겠슴다.",
+        "en": "Chirp- chirp- No comment.",
+        "pt": "Piu-piu... Sem comentários.",
+        "es": "Pío, pío... Sin comentarios."
     },
     "/AO4Bw": {
-        "en": "I have to agree with him, lu.",
-        "pt": "Ah, eu gosto só de ouvir histórias, como a que o Sr. Olg me contou sobre Coelhinho.",
-        "es": "Tengo que darle la razón, Mu."
+        "ko": "인정한다루",
+        "en": "I admit it, aru.",
+        "pt": "Eu reconheço.",
+        "es": "Lo admito."
     },
     "/QO4Bw": {
-        "en": "Rudus is dark. Really dark.",
-        "pt": "Hã~? Quem está falando de mim?",
-        "es": "Rudus es oscuro. Realmente oscuro."
+        "ko": "루두스는 깜깜한 곳이에요. 그냥 깜깜해요.",
+        "en": "Ludeus is a pitch-dark place. It's just completely dark.",
+        "pt": "Ludeus é um lugar completamente escuro. Simplesmente não há luz.",
+        "es": "Ludus es un lugar muy oscuro. Simplemente está todo a oscuras."
     },
     "/gO4Bw": {
-        "en": "And quiet. Really quiet.",
-        "pt": "Porque o príncipe Poring também come!",
-        "es": "Y tranquilo. Muy tranquilo."
+        "ko": "그리고 조용하다루~ 너무 조용하다루~",
+        "en": "And it's so quiet~ It's way too quiet~",
+        "pt": "E está tão silencioso~ Silencioso demais~",
+        "es": "Y también está tranquilo~ Demasiado tranquilo~"
     },
     "/wO4Bw": {
-        "en": "Does weather change in other places? Because {}, it never does in Rudus.",
-        "pt": "Não coma tudo sozinho, divide comigo!",
-        "es": "¿El clima cambia en otros lugares? Porque, {}, eso nunca pasa en Rudus."
+        "ko": "날씨가 나쁠 때도 있어요? {0} 루두스는 항상 날씨가 같아요.",
+        "en": "Are there times when the weather is bad? {0} Ludeus always has the same weather.",
+        "pt": "O tempo também pode ficar ruim? {0} Ludus sempre tem o mesmo clima.",
+        "es": "¿A veces hay mal tiempo? En {0} Ludos, el clima siempre es el mismo."
     },
     "AAS4Bw": {
-        "en": "Yeah, Morning doesn't know what weather is~",
-        "pt": "Sim. O sr. Olg é feio, mas ele é legal.",
-        "es": "Sí, Morning no sabe lo que es el clima~."
+        "ko": "예에~ 아침이는 날씨가 뭔지 몰~~라~~",
+        "en": "Yay~ Morning doesn't kno~~w~~ what the weather is~~",
+        "pt": "Sim~ A Achimi não faz ideia de como está o tempo~~",
+        "es": "¡Sí~ Morning no sabe nada sobre el clima~~!"
     },
     "AQS4Bw": {
-        "en": "I think about the stories Olg told me. I like the Poring Prince.",
-        "pt": "Aqui é quieto, apesar do sr. Caput ser barulhento.",
-        "es": "Pienso en las historias que me contó Olg. Me agrada el Príncipe Poring."
+        "ko": "올그 아저씨가 해준 이야기를 다시 생각해요. 포링왕자 이야기 재밋어요.",
+        "en": "I’m thinking again about the story that Mr. Olg told me. The Poring Prince story is really fun.",
+        "pt": "Estou pensando novamente na história que o senhor Olge me contou. A história do Príncipe Poring é muito divertida.",
+        "es": "Estoy recordando la historia que me contó el señor Olge. La historia del Príncipe Poring es muy divertida."
     },
     "AgS4Bw": {
-        "en": "I'm telling you, I'm not a prince.",
-        "pt": "Eu acho os gafanhotos mais barulhentos",
-        "es": "Te digo que no soy un príncipe."
+        "ko": "매번 말하지만 난 왕자가 아니다.",
+        "en": "I keep telling you, I'm not a prince.",
+        "pt": "Eu sempre digo isso, mas não sou um príncipe.",
+        "es": "Siempre lo digo, pero no soy un príncipe."
     },
     "AwS4Bw": {
-        "en": "I think about the stories Olg told me. I like the Grasshopper.",
-        "pt": "... ......",
-        "es": "Pienso en las historias que me contó Olg. Me agrada el saltamontes."
+        "ko": "올그 아저씨가 해준 이야기를 다시 생각해요. 베짱이 이야기 재밋어요.",
+        "en": "I’m thinking again about the story that Mr. Olge told me. The Grasshopper story is really interesting.",
+        "pt": "Estou pensando novamente na história que o tio Olg contou. A história do gafanhoto é divertida.",
+        "es": "Estoy recordando la historia que me contó el señor Olge. La historia del saltamontes es divertida."
     },
     "BAS4Bw": {
-        "en": "What kinds of things do people say about me?",
-        "pt": "Sr. Olg disse que os outros andares eram assustadores...",
-        "es": "¿Qué cosas dice la gente de mí?"
+        "ko": "대체 나에 대한 무슨 이야기가 돌고 있는 거냐?",
+        "en": "What on earth are people saying about me?",
+        "pt": "Afinal, que tipo de histórias estão circulando sobre mim?",
+        "es": "¿Pero qué clase de rumores están circulando sobre mí?"
     },
     "BQS4Bw": {
-        "en": "I think about the stories Olg told me. I like the Chick.",
-        "pt": "Uhhh... essa é uma pergunta difícil. Sr. Olg dizia que ninguém faz esse tipo de pergunta...",
-        "es": "Pienso en las historias que me contó Olg. Me agrada el pollito."
+        "ko": "올그 아저씨가 해준 이야기를 다시 생각해요. 삐약이 이야기 재밋어요.",
+        "en": "I’m thinking again about the story that Mr. Olg told me. The Chirper story is really interesting.",
+        "pt": "Estou pensando novamente na história que o senhor Olge contou. A história do Piyak é divertida.",
+        "es": "Estoy recordando la historia que me contó el señor Olge. La historia de Ppiyak es divertida."
     },
     "BgS4Bw": {
-        "en": "Who's this chick? *Peep, Peep*",
-        "pt": "Mas já que perguntou, eu vou te dar uma resposta.",
-        "es": "¿Quién es este pollito? *Pía, pía*"
+        "ko": "삐약이는 또 뉘 집 애여? 삐약-",
+        "en": "Whose kid is Chirper this time? Peep-",
+        "pt": "De quem é esse Piyaki de novo? Piyak-",
+        "es": "¿De quién es este Piyaki otra vez? ¡Piyak-!"
     },
     "BwS4Bw": {
-        "en": "I think about the stories Olg told me. I like the Hopper.",
-        "pt": "Você não é uma criatura bonita, mas também não acho que seja uma criatura feia.",
-        "es": "Pienso en las historias que me contó Olg. Me agrada Hopper."
+        "ko": "올그 아저씨가 해준 이야기를 다시 생각해요. 깡총이 이야기 재밋어요.",
+        "en": "I’m thinking again about the story that Mr. Olge told me. The Hopper story is really interesting.",
+        "pt": "Estou pensando novamente na história que o senhor Olge contou. A história do Kangchong é divertida.",
+        "es": "Estoy recordando la historia que me contó el señor Olge. La historia de Kangchong es divertida."
     },
     "CAS4Bw": {
-        "en": "Myo? Who told you about us Lunatics, lu?",
-        "pt": "Haha! O sr. Caput se desequilibrou ao tentar bater no irmão.",
-        "es": "¿Myo? ¿Quién te habló de nosotras las Lunáticas, Mu?"
+        "ko": "냥? 누가 루나틱 얘기를 한다루?",
+        "en": "Meow? Who's talking about Lunatic?",
+        "pt": "Miau? Alguém está falando sobre o Lunatic?",
+        "es": "¿Miau? ¿Alguien está hablando de Lunatic?"
     },
     "CQS4Bw": {
-        "en": "Jellopies? Poring Prince eats them, so I eat them, too.",
-        "pt": "Jellopy é delicioso, mas eu como qualquer coisa.",
-        "es": "¿Jellopy? El Príncipe Poring se los come, así que yo también los como."
+        "ko": "젤로피? 포링왕자도 먹었어요. 아침이도 그래서 먹어요.",
+        "en": "Jellopy? I even got Poring Prince. That's why I'm also getting Morning.",
+        "pt": "Jellopy? Até o Príncipe Poring comeu. Por isso, o Achimi também come.",
+        "es": "¿Jellopy? Incluso el Príncipe Poring se lo comió. Por eso también come Morning."
     },
     "CgS4Bw": {
-        "en": "Share them with me next time.",
-        "pt": "Você devia compartilhar comida comigo!!",
-        "es": "Compártelos conmigo la próxima vez."
+        "ko": "혼자 먹지 말고 나도 좀 줘라",
+        "en": "Don't eat it all by yourself—share some with me, too.",
+        "pt": "Não coma tudo sozinho, me dê um pouco também.",
+        "es": "No te lo comas todo tú solo, ¡dame un poco a mí también!"
     },
     "CwS4Bw": {
-        "en": "Yes. Mr. Olg may be ugly, but he's got a heart of gold.",
-        "pt": "Poing~ Você está aqui para alimentar Morning? Poing~",
-        "es": "Sí. El señor Olg puede ser feo, pero tiene un corazón de oro."
+        "ko": "괜찮아요. 올그 아저씨 못생겼지만 착해.",
+        "en": "It's okay. Oldge may be ugly, but he's kind.",
+        "pt": "Tudo bem. O senhor Olg pode não ser bonito, mas é uma boa pessoa.",
+        "es": "Está bien. El señor Olge es feo, pero es buena persona."
     },
     "DAS4Bw": {
-        "en": "It's okay, except that Mr. Kapu can be quite loud sometimes.",
-        "pt": "Bater cabelo é o melhor quando você está alimentado! Ahhh~!!",
-        "es": "Está bien, excepto que el señor Kapu puede ser bastante ruidoso a veces."
+        "ko": "다들 조용한데 카푸 아저씨가 조금 시끄러워요.",
+        "en": "Everyone is quiet, but the Kafra guy is a bit noisy.",
+        "pt": "Todos estão quietos, mas o tio Kafra está um pouco barulhento.",
+        "es": "Todos están en silencio, pero el señor Kafra es un poco ruidoso."
     },
     "DQS4Bw": {
-        "en": "I think the Grasshopper is louder, lu.",
-        "pt": "Heh~ Eu como o dobro do meu peso~",
-        "es": "Creo que el saltamontes es más ruidoso, Mu."
+        "ko": "난 베짱이가 더 시끄럽다고 생각한다루",
+        "en": "I think Grasshopper is even noisier.",
+        "pt": "Eu acho que o grilo é ainda mais barulhento.",
+        "es": "Yo creo que los grillos son aún más ruidosos."
     },
     "DgS4Bw": {
-        "en": "...",
-        "pt": "Que bom te ver! Sinto sua falta~",
-        "es": "…"
+        "ko": "... ... ...",
+        "en": "... ... ...",
+        "pt": "... ... ...",
+        "es": "... ... ..."
     },
     "DwS4Bw": {
-        "en": "Mr. Olg said the other floors are too scary. Scary...",
-        "pt": "Ah {}! Hihi!",
-        "es": "El señor Olg dijo que los otros pisos dan mucho miedo. Dan miedo…"
+        "ko": "올그 아저씨가 다른 층은 무섭다고 그랬어요. 무셔..",
+        "en": "Mr. Olge said that the other floors are scary. I'm scared...",
+        "pt": "O tio Olge disse que os outros andares são assustadores. Que medo...",
+        "es": "El señor Olg dijo que los otros pisos dan miedo. Qué miedo..."
     },
     "EAS4Bw": {
-        "en": "Mm, that's a difficult question. Mr. Olg said people shouldn't ask questions like that...",
-        "pt": "Morning parece estar falando com o bichinho de estimação, mas é difícil de entender.",
-        "es": "Mmm, es una pregunta difícil. El señor Olg dijo que las personas no deberían preguntar esas cosas…"
+        "ko": "으흠.. 곤란한 질문이야. 올그 아저씨가 그런 질문하는게 아니랬는데..",
+        "en": "Hmm... That's a tricky question. Olge told me not to ask questions like that...",
+        "pt": "Hmm... essa é uma pergunta difícil. O tio Olge disse que não era para fazer esse tipo de pergunta...",
+        "es": "Hmm... es una pregunta difícil. El señor Olge me dijo que no debía hacer ese tipo de preguntas..."
     },
     "EQS4Bw": {
-        "en": "But since you asked, I'll answer you.",
-        "pt": "Com quem Morning está falando?",
-        "es": "Pero ya que preguntas, te responderé."
+        "ko": "물어봤으니까 대답해줄 게.",
+        "en": "You asked, so I'll answer.",
+        "pt": "Já que você perguntou, vou responder.",
+        "es": "Ya que preguntaste, te responderé."
     },
     "EgS4Bw": {
-        "en": "You're not a good-looking creature, but not an ugly one, either.",
-        "pt": "Príncipe Poring",
-        "es": "No eres una criatura guapa, pero tampoco fea."
+        "ko": "잘생긴 생명체는 아니지만, 못생긴 생명체도 아니라고 생각해.",
+        "en": "I don't think it's a handsome creature, but I wouldn't say it's an ugly one either.",
+        "pt": "Não acho que seja uma criatura bonita, mas também não acho que seja uma criatura feia.",
+        "es": "No creo que sea una criatura guapa, pero tampoco pienso que sea una criatura fea."
     },
     "EwS4Bw": {
-        "en": "Heh heh heh. Mr. Kapu bumped into Gnum and fell.",
-        "pt": "Pula-Pula",
-        "es": "Je, je, je. El señor Kapu chocó con Gnum y se cayó."
+        "ko": "헤헤헤 카푸 아저씨가 눔 형아랑 부딪쳐서 넘어졌어요.",
+        "en": "Hehehe, Kafra Uncle bumped into Noom hyung and fell over.",
+        "pt": "Hehehe, o tio Kafra tropeçou e caiu depois de esbarrar no irmão Noon.",
+        "es": "Jejeje, el señor Kafra se tropezó y cayó al chocar con el hermano Noom."
     },
     "FAS4Bw": {
-        "en": "I like Jellopies the best, but I'm not a picky eater. I can eat anything.",
-        "pt": "Galinho",
-        "es": "Lo que más me gusta son los Jellopy, pero no soy muy quisquilloso con la comida. Puedo comer de todo."
+        "ko": "젤로피가 맛있어요. 하지만 아침이는 편식하지 않아요. 골고루 잘 먹어요.",
+        "en": "Jellopy is delicious. However, Morning is not a picky eater. They eat a well-balanced diet.",
+        "pt": "Jellopy é delicioso. Mas Achimi não é exigente com comida. Ela come de tudo, de forma equilibrada.",
+        "es": "Jellopy es delicioso. Pero Morning no es quisquilloso con la comida; come de todo de manera equilibrada."
     },
     "FQS4Bw": {
-        "en": "Stop keeping them to yourself! I want them, too! Come on!",
-        "pt": "Coelhinho",
-        "es": "¡Deja de guardártelos para ti! ¡Yo también los quiero! ¡Vamos!"
+        "ko": "혼자 먹지 말고 나도 좀 달라고! 밥 줘!! 밥!!",
+        "en": "Don't eat it all by yourself—give me some too! Give me food!! Food!!",
+        "pt": "Não coma tudo sozinho, me dá um pouco também! Me dá comida!! Comida!!",
+        "es": "¡No te lo comas todo tú solo, dame un poco a mí también! ¡Dame comida! ¡Comida!"
     },
     "FgS4Bw": {
-        "en": "Poing! Former Master, did you come to feed Morning? Poing!",
-        "es": "¡Ping! Antiguo maestro, ¿viene a alimentar a Morning? ¡Ping!"
+        "ko": "뽀잉~ 전 주인님 밥 줄려고 온 거야? 뽀잉~",
+        "en": "Poying~ Did you come to feed me, master? Poying~",
+        "pt": "Poring~ Você veio me dar comida, mestre? Poring~",
+        "es": "¿Poring~? ¿Has venido a darme de comer, amo? ¡Poring~!"
     },
     "FwS4Bw": {
-        "en": "When I'm full, I get in the mood for some headbanging. Yeah!",
-        "es": "Cuando estoy lleno, me dan ganas de cabecear al ritmo de la música. ¡Sí!"
+        "ko": "역시 배가 좀 부르면 헤드뱅잉이 최고죠! 아싸~!!",
+        "en": "As expected, nothing beats headbanging when you're feeling full! Oh yeah~!!",
+        "pt": "Realmente, nada melhor do que um pouco de headbanging quando estamos de barriga cheia! Uhul~!!",
+        "es": "¡Definitivamente, cuando tienes el estómago lleno, el headbanging es lo mejor! ¡Genial~!"
     },
     "GAS4Bw": {
-        "en": "Hmpf, I eat more than I look. This is not even a snack.",
-        "es": "Uff, como más de lo que aparento. Esto ni siquiera es un bocadillo."
+        "ko": "엥~ 생각보다 나도 대식가양~ 이거가지고 되겠엉?",
+        "en": "Huh~ I guess I'm more of a big eater than I thought~ Do you think this will be enough?",
+        "pt": "Ué~ Acho que eu também sou mais comilona do que pensava~ Será que isso vai ser suficiente?",
+        "es": "¡Eh~ Resulta que yo también soy más glotona de lo que pensaba~! ¿Crees que esto será suficiente?"
     },
     "GQS4Bw": {
-        "en": "Former Master, good to see you! I missed you so much!",
-        "es": "Antiguo maestro, ¡me alegro de verlo! ¡Lo eché mucho de menos!"
+        "ko": "전 쥔님 방가워루~ 너무너무 보고싶었다루~",
+        "en": "Hello, master~ I missed you so, so much~",
+        "pt": "Oi, mestre~ Que saudade eu estava de você~ Estava morrendo de vontade de te ver~",
+        "es": "¡Hola, amo! ¡Te he echado muchísimo de menos!"
     },
     "GgS4Bw": {
-        "en": "{}! Hello! Heh heh!",
-        "es": "¡{}! ¡Hola! Je, je"
+        "ko": "{0}! 안녕하세욧! 헤헷!",
+        "en": "Hello, {0}! Hi there! Hehe!",
+        "pt": "{0}! Olá! Hehe!",
+        "es": "¡Hola, {0}! ¡Jeje!"
     },
     "GwS4Bw": {
-        "en": "He's talking to his pets, but I can hardly hear him.",
-        "es": "Está hablando con sus mascotas, pero apenas lo oigo."
+        "ko": "펫과 무엇인가 이야기하는 것 같지만, 알아듣기 힘들다.",
+        "en": "It seems to be talking with its pet about something, but it's hard to understand.",
+        "pt": "Parece que está conversando com o pet sobre alguma coisa, mas é difícil entender.",
+        "es": "Parece que está hablando con su mascota sobre algo, pero es difícil entenderlo."
     },
     "HAS4Bw": {
-        "en": "Who is he talking to?",
-        "es": "¿A quién le habla?"
+        "ko": "누군가와 대화를 나누는 것 같은데?",
+        "en": "It looks like they're having a conversation with someone.",
+        "pt": "Parece que está conversando com alguém, não é?",
+        "es": "¿Parece que está conversando con alguien?"
     },
     "HQS4Bw": {
+        "ko": "포링왕자",
         "en": "Poring Prince",
-        "es": "Poring Prince"
+        "pt": "Príncipe Poring",
+        "es": "Príncipe Poring"
     },
     "HgS4Bw": {
+        "ko": "베짱이",
         "en": "Grasshopper",
-        "es": "Grasshopper"
+        "pt": "Gafanhoto",
+        "es": "Saltamontes"
     },
     "HwS4Bw": {
-        "en": "Chick",
-        "es": "Chick"
+        "ko": "삐약이",
+        "en": "Chirper",
+        "pt": "Pintinho",
+        "es": "Pollito"
     },
     "IAS4Bw": {
+        "ko": "깡총이",
         "en": "Hopper",
-        "es": "Hopper"
+        "pt": "Kangchongi",
+        "es": "Saltarín"
     }
 }

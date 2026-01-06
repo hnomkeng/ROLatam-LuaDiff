@@ -14446,6 +14446,384 @@ tblLapineUpgradeBox = {
 				}
 			},
 			NeedSource_String = "Illusion of Twins Equipment"
+		},
+		EP17_1_SPC05 = {
+			ItemID = 23776,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Cannon_Rapier_OS",
+					13493
+				},
+				{
+					"Beam_Claymore_OS",
+					21047
+				},
+				{
+					"Rutilus_Stick_OS",
+					26151
+				},
+				{
+					"Circuit_Board_OS",
+					28629
+				},
+				{"Blasti_OS", 28136},
+				{
+					"Saphir_Hall_OS",
+					16088
+				},
+				{
+					"Virtual_Bow_OS",
+					18178
+				},
+				{"MH_P89_OS", 18179},
+				{
+					"Meuchler_OS",
+					28038
+				},
+				{
+					"Burning_Knuckle_OS",
+					1862
+				},
+				{"HR_S55_OS", 28253},
+				{"Kuroiro_OS", 28755},
+				{"AC_B44_OS", 18180},
+				{
+					"Boost_Lance_OS",
+					32019
+				},
+				{
+					"Ultio_Spes_OS",
+					16089
+				},
+				{
+					"ElectricFox_OS",
+					26164
+				},
+				{
+					"Repeat_Dagger_OS",
+					510184
+				}
+			},
+			NeedSource_String = "OS Weapon"
+		},
+		EP17_1_SPC06 = {
+			ItemID = 23777,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Cannon_Rapier_OS",
+					13493
+				},
+				{
+					"Beam_Claymore_OS",
+					21047
+				},
+				{
+					"Rutilus_Stick_OS",
+					26151
+				},
+				{
+					"Circuit_Board_OS",
+					28629
+				},
+				{"Blasti_OS", 28136},
+				{
+					"Saphir_Hall_OS",
+					16088
+				},
+				{
+					"Virtual_Bow_OS",
+					18178
+				},
+				{"MH_P89_OS", 18179},
+				{
+					"Meuchler_OS",
+					28038
+				},
+				{
+					"Burning_Knuckle_OS",
+					1862
+				},
+				{"HR_S55_OS", 28253},
+				{"Kuroiro_OS", 28755},
+				{"AC_B44_OS", 18180},
+				{
+					"Boost_Lance_OS",
+					32019
+				},
+				{
+					"Ultio_Spes_OS",
+					16089
+				},
+				{
+					"ElectricFox_OS",
+					26164
+				},
+				{
+					"Repeat_Dagger_OS",
+					510184
+				}
+			},
+			NeedSource_String = "OS Weapon"
+		},
+		EP17_1_SPC07 = {
+			ItemID = 23778,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Cannon_Rapier_OS",
+					13493
+				},
+				{
+					"Beam_Claymore_OS",
+					21047
+				},
+				{
+					"Rutilus_Stick_OS",
+					26151
+				},
+				{
+					"Circuit_Board_OS",
+					28629
+				},
+				{"Blasti_OS", 28136},
+				{
+					"Saphir_Hall_OS",
+					16088
+				},
+				{
+					"Virtual_Bow_OS",
+					18178
+				},
+				{"MH_P89_OS", 18179},
+				{
+					"Meuchler_OS",
+					28038
+				},
+				{
+					"Burning_Knuckle_OS",
+					1862
+				},
+				{"HR_S55_OS", 28253},
+				{"Kuroiro_OS", 28755},
+				{"AC_B44_OS", 18180},
+				{
+					"Boost_Lance_OS",
+					32019
+				},
+				{
+					"Ultio_Spes_OS",
+					16089
+				},
+				{
+					"ElectricFox_OS",
+					26164
+				},
+				{
+					"Repeat_Dagger_OS",
+					510184
+				}
+			},
+			NeedSource_String = "OS Weapon"
+		},
+		EP17_1_SPC08 = {
+			ItemID = 23779,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Cannon_Rapier_OS",
+					13493
+				},
+				{
+					"Beam_Claymore_OS",
+					21047
+				},
+				{
+					"Rutilus_Stick_OS",
+					26151
+				},
+				{
+					"Circuit_Board_OS",
+					28629
+				},
+				{"Blasti_OS", 28136},
+				{
+					"Saphir_Hall_OS",
+					16088
+				},
+				{
+					"Virtual_Bow_OS",
+					18178
+				},
+				{"MH_P89_OS", 18179},
+				{
+					"Meuchler_OS",
+					28038
+				},
+				{
+					"Burning_Knuckle_OS",
+					1862
+				},
+				{"HR_S55_OS", 28253},
+				{"Kuroiro_OS", 28755},
+				{"AC_B44_OS", 18180},
+				{
+					"Boost_Lance_OS",
+					32019
+				},
+				{
+					"Ultio_Spes_OS",
+					16089
+				},
+				{
+					"ElectricFox_OS",
+					26164
+				},
+				{
+					"Repeat_Dagger_OS",
+					510184
+				}
+			},
+			NeedSource_String = "OS Weapon"
+		},
+		EP17_1_SPC09 = {
+			ItemID = 23780,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Cannon_Rapier_OS",
+					13493
+				},
+				{
+					"Beam_Claymore_OS",
+					21047
+				},
+				{
+					"Rutilus_Stick_OS",
+					26151
+				},
+				{
+					"Circuit_Board_OS",
+					28629
+				},
+				{"Blasti_OS", 28136},
+				{
+					"Saphir_Hall_OS",
+					16088
+				},
+				{
+					"Virtual_Bow_OS",
+					18178
+				},
+				{"MH_P89_OS", 18179},
+				{
+					"Meuchler_OS",
+					28038
+				},
+				{
+					"Burning_Knuckle_OS",
+					1862
+				},
+				{"HR_S55_OS", 28253},
+				{"Kuroiro_OS", 28755},
+				{"AC_B44_OS", 18180},
+				{
+					"Boost_Lance_OS",
+					32019
+				},
+				{
+					"Ultio_Spes_OS",
+					16089
+				},
+				{
+					"ElectricFox_OS",
+					26164
+				},
+				{
+					"Repeat_Dagger_OS",
+					510184
+				}
+			},
+			NeedSource_String = "OS Weapon"
+		},
+		EP17_1_SPC10 = {
+			ItemID = 23781,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Cannon_Rapier_OS",
+					13493
+				},
+				{
+					"Beam_Claymore_OS",
+					21047
+				},
+				{
+					"Rutilus_Stick_OS",
+					26151
+				},
+				{
+					"Circuit_Board_OS",
+					28629
+				},
+				{"Blasti_OS", 28136},
+				{
+					"Saphir_Hall_OS",
+					16088
+				},
+				{
+					"Virtual_Bow_OS",
+					18178
+				},
+				{"MH_P89_OS", 18179},
+				{
+					"Meuchler_OS",
+					28038
+				},
+				{
+					"Burning_Knuckle_OS",
+					1862
+				},
+				{"HR_S55_OS", 28253},
+				{"Kuroiro_OS", 28755},
+				{"AC_B44_OS", 18180},
+				{
+					"Boost_Lance_OS",
+					32019
+				},
+				{
+					"Ultio_Spes_OS",
+					16089
+				},
+				{
+					"ElectricFox_OS",
+					26164
+				},
+				{
+					"Repeat_Dagger_OS",
+					510184
+				}
+			},
+			NeedSource_String = "OS Weapon"
 		}
 	},
 	get_lapine_box = function(in_box_id)

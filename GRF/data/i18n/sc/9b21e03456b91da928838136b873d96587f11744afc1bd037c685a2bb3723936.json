@@ -1,542 +1,644 @@
 {
     "oEXHBw": {
-        "en": "Please try again after installing a special item.",
-        "pt": "[Gerente do Tempo]\nCP do Chefe Atual - {}\nAdicionar PPL EP17_1_EVT05",
-        "es": "Vuelve a intentarlo después de que hayas instalado un objeto especial."
+        "ko": "[시간의 관리자]\n현재 보스 CP등급 - {0}\nEP17_1_EVT05 PPL 추가",
+        "en": "[Time Manager]\nCurrent Boss CP Grade - {0}\nEP17_1_EVT05 PPL added",
+        "pt": "[Gerente do Tempo]\nClassificação atual de CP do chefe - {0}\nEP17_1_EVT05 PPL adicionado",
+        "es": "[Gestor del tiempo]\nNivel actual de CP de jefe - {0}\nEP17_1_EVT05 PPL añadido"
     },
     "oUXHBw": {
-        "en": "[Time Controller]\nCurrent Boss CP Grade: {}\nAdd EP17_1_EVT05 PPL.",
+        "ko": "취소",
+        "en": "Cancel",
         "pt": "Cancelar",
-        "es": "[Controlador del tiempo]\nGrado de PC del jefe actual: {}\nAgregar PPL de EP17_1_EVT05."
+        "es": "Cancelar"
     },
     "okXHBw": {
-        "en": "Cancel",
-        "pt": "Resetar Pesquisa",
-        "es": "Cancelar."
+        "ko": "수색지 초기화",
+        "en": "Search Area Reset",
+        "pt": "Reinicialização da área de busca",
+        "es": "Reiniciar la zona de búsqueda"
     },
     "o0XHBw": {
-        "en": "Reset Search",
-        "pt": "Começar Chefe",
-        "es": "Restablecer búsqueda."
+        "ko": "보스시작",
+        "en": "Boss start",
+        "pt": "Início do chefe",
+        "es": "Comienzo del jefe"
     },
     "pEXHBw": {
-        "en": "Start Boss",
-        "pt": "Começar Chefe Modo Fácil",
-        "es": "Iniciar jefe."
+        "ko": "치킨모드 보스시작",
+        "en": "Chicken Mode Boss Start",
+        "pt": "Início do modo frango: chefe aparecendo",
+        "es": "Inicio del modo pollo: comienza el jefe."
     },
     "pUXHBw": {
-        "en": "Start Chicken Mode Boss",
-        "pt": "Oficial de Operações: Equipe Alfa, preparem-se para lutar assim que os Mutantes detectarem vocês.",
-        "es": "Iniciar jefe de modo Gallina."
+        "ko": "작전장교: 알파팀은 주변에서 뮤턴트의 반응이 느껴지는대로 전투가 가능하도록 준비하기 바란다.",
+        "en": "Operations Officer: Alpha Team, be prepared to engage in combat as soon as you detect any mutant activity in the area.",
+        "pt": "Oficial de Operações: Peço que a equipe Alfa esteja pronta para entrar em combate assim que detectar qualquer sinal de mutantes nas proximidades.",
+        "es": "Oficial de operaciones: Que el equipo Alfa se prepare para entrar en combate en cuanto detecten la presencia de mutantes en los alrededores."
     },
     "pkXHBw": {
-        "en": "Operations Officer: Alpha, be ready to fight as soon as Mutants are detected around you.",
-        "pt": "Oficial de Operações: Não há civis nesta área, então vocês podem atirar em qualquer coisa que se move.",
-        "es": "Oficial de operaciones: Alfa, prepárate para pelear tan pronto como detectes mutantes a tu alrededor."
+        "ko": "작전장교: 본 수색지역내에 민간인은 존재하지 않으니 움직이는 생명체는 제압해도 좋다.",
+        "en": "Operations Officer: There are no civilians in this search area, so you are authorized to neutralize any moving life forms.",
+        "pt": "Oficial de operações: Não há civis nesta área de busca, então você pode neutralizar qualquer forma de vida em movimento.",
+        "es": "Oficial de operaciones: No hay civiles en esta zona de búsqueda, así que puedes neutralizar cualquier ser vivo en movimiento."
     },
     "p0XHBw": {
-        "en": "Operations Officer: There are no civilians in this area. You may subdue anything in it that moves.",
-        "pt": "Oficial de Operações: Equipe Delta, se forem pegos de surpresa, não precisam reportar a situação, apenas atirem.",
-        "es": "Oficial de operaciones: No hay civiles en esta zona. Pueden someter a todo lo que se mueva por aquí."
+        "ko": "작전장교: 찰리, 델타팀도 교전상황이 발생하면 보고없이 바로 전투 돌입하도록.",
+        "en": "Operations Officer: Charlie, Delta Team should also engage in combat immediately if a skirmish breaks out, without waiting for a report.",
+        "pt": "Oficial de operações: Charlie, se a equipe Delta também entrar em combate, inicie a batalha imediatamente sem necessidade de relatório prévio.",
+        "es": "Oficial de operaciones: Charlie, asegúrate de que el equipo Delta también entre en combate de inmediato si se produce una situación de enfrentamiento, sin necesidad de informar primero."
     },
     "qEXHBw": {
-        "en": "Operations Officer: Charlie, Delta. If you see enemies, don't report to me. Just engage them right away.",
-        "pt": "Oficial de Operações: Atenção aos informes da operação.",
-        "es": "Oficial de operaciones: Charlie, Delta. Si ven enemigos, no me informen. Simplemente ataquen de inmediato."
+        "ko": "작전장교: 본 수색지역내의 주의사항에 대해 알린다.",
+        "en": "Operations Officer: I will inform you of the precautions within this search area.",
+        "pt": "Oficial de Operações: Informarei sobre as precauções nesta área de busca.",
+        "es": "Oficial de operaciones: Te informaré sobre las precauciones que debes tener en esta zona de búsqueda."
     },
     "qUXHBw": {
-        "en": "Operations Officer: There are a few things you must know before you search.",
-        "pt": "Oficial de Operações: Os Mutantes A013 não ficam na base inimiga.",
-        "es": "Oficial de operaciones: Hay algunas cosas que debes saber antes de salir a buscar."
+        "ko": "작전장교: A013 이라는 표식을 달고있는 뮤턴트는 거점과는 관계없는 독자적인 뮤턴트다.",
+        "en": "Operations Officer: The mutant marked with A013 is an independent mutant unrelated to the base.",
+        "pt": "Oficial de Operações: O mutante com a marca A013 é um mutante independente, sem relação com a base.",
+        "es": "Oficial de operaciones: El mutante que lleva la marca A013 es un mutante independiente que no tiene relación con la base."
     },
     "qkXHBw": {
-        "en": "Operations Officer: The Mutants marked A013 operate independently from the others in the enemy bases.",
-        "pt": "Oficial de Operações: Eles são muito fortes, então, evite lutar contra eles.",
-        "es": "Oficial de operaciones: Los mutantes marcados con A013 operan independientemente de los demás en las bases enemigas."
+        "ko": "작전장교: 전투 능력이 일반 뮤턴트보다 강하다고 하니 여의치않으면 전투를 피하도록.",
+        "en": "Operations Officer: Their combat abilities are said to be stronger than those of regular mutants, so if things get difficult, avoid engaging in battle.",
+        "pt": "Oficial de Operações: Dizem que as capacidades de combate deles são superiores às dos mutantes comuns, então evite o confronto se a situação não estiver favorável.",
+        "es": "Oficial de operaciones: Se dice que su capacidad de combate es superior a la de un mutante común, así que si la situación se complica, evita el enfrentamiento."
     },
     "q0XHBw": {
-        "en": "Operations Officer: And they're stronger. Avoid fighting them if possible.",
-        "pt": "Oficial de Operações: Cuidado ao lidar com mutantes de CP4 ou de rank superior.",
-        "es": "Oficial de operaciones: Y son más fuertes. Evita pelear contra ellos, si es posible."
+        "ko": "작전장교: CP4 이상 등급 뮤턴트와 상대할때는 주의하기 바란다.",
+        "en": "Operations Officer: Please be careful when facing mutants of CP4 grade or higher.",
+        "pt": "Oficial de Operações: Tenha cuidado ao enfrentar mutantes de classe CP4 ou superior.",
+        "es": "Oficial de operaciones: Ten cuidado cuando te enfrentes a mutantes de grado CP4 o superior."
     },
     "rEXHBw": {
-        "en": "Operations Officer: Watch for CP4 or higher-ranked Mutants.",
-        "pt": "Oficial de Operações: Eles têm a mesma aparência que os CP1, mas mais fortes.",
-        "es": "Oficial de operaciones: Cuídate de los mutantes PC4 o de rango superior."
+        "ko": "작전장교: CP1 과 같은 개체이지만 등급이 높아진 만큼 파괴력이 높아진다. 포위되지 않게 주의해라",
+        "en": "Operations Officer: It's the same type of entity as CP1, but its destructive power has increased along with its rank. Be careful not to get surrounded.",
+        "pt": "Oficial de Operações: É uma unidade semelhante à CP1, mas com um nível mais alto, o que significa que seu poder destrutivo também é maior. Tome cuidado para não ser cercado.",
+        "es": "Oficial de operaciones: Es una entidad similar a CP1, pero su poder destructivo aumenta a medida que su rango es más alto. Ten cuidado de no quedar rodeado."
     },
     "rUXHBw": {
-        "en": "Operations Officer: They're of the same kind as CP1, but more dangerous. Don't let them surround you.",
-        "pt": "Oficial de Operações: Dizem que há uma pasta de Arquivo Confidencial no Setor 4.",
-        "es": "Oficial de operaciones: Son del mismo tipo que los PC1, pero más peligrosos. No dejes que te rodeen."
+        "ko": "작전장교: 4번 구역은 기밀 문서 보관실이었다고 한다.",
+        "en": "Operations Officer: I heard that Area 4 used to be a classified document storage room.",
+        "pt": "Oficial de Operações: Dizem que a Área 4 era uma sala de armazenamento de documentos confidenciais.",
+        "es": "Oficial de operaciones: Dicen que la zona 4 era una sala de almacenamiento de documentos confidenciales."
     },
     "rkXHBw": {
-        "en": "Operations Officer: It's said Sector 4 was a secret document archive.",
-        "pt": "Oficial de Operação: A Equipe vasculhou a área, mas não encontraram nada.",
-        "es": "Oficial de operaciones: Dicen que el sector4 era un archivo secreto de documentos."
+        "ko": "작전장교: 선발대가 주변을 수색했지만 특별한 건 없었다고 하니 포위되지 않게 전투에 집중하도록.",
+        "en": "Operations Officer: The Advance Party has scouted the area but found nothing unusual, so stay focused on the battle and make sure we don't get surrounded.",
+        "pt": "Oficial de operações: A equipe de reconhecimento vasculhou a área, mas não encontrou nada de especial. Portanto, concentre-se no combate para não sermos cercados.",
+        "es": "Oficial de operaciones: El equipo de reconocimiento revisó los alrededores, pero no encontraron nada fuera de lo común. Así que concéntrate en el combate para no quedar rodeado."
     },
     "r0XHBw": {
-        "en": "Operations Officer: The advance party searched the perimeter, but didn't find anything. Be careful not to get surrounded by enemies while you're fighting.",
-        "pt": "Oficial de Operações: Equipe Bravo, cuidaremos dos mutantes de CP6, mas tomem cuidado.",
-        "es": "Oficial de operaciones: El grupo de avanzada registró el perímetro, pero no encontró nada. No dejes que los enemigos te rodeen mientras peleas."
+        "ko": "작전장교: 브라보팀. CP6 등급들과 교전중이다. 공격력이 매우 강력하다.",
+        "en": "Operations Officer: Bravo Team. Currently engaging CP6-class enemies. Their attack power is extremely strong.",
+        "pt": "Oficial de Operações: Equipe Bravo, estamos em combate com os de classe CP6. O poder de ataque deles é extremamente forte.",
+        "es": "Oficial de operaciones: Equipo Bravo, estamos en combate con los de clase CP6. Su poder de ataque es extremadamente fuerte."
     },
     "sEXHBw": {
-        "en": "Operations Officer: Bravo has engaged CP6 enemies. They have extremely high attack power.",
-        "pt": "Oficial de Operações: Equipe Alfa e Delta, evitem os mutantes CP6!",
-        "es": "Oficial de operaciones: Bravo se enfrentó a enemigos PC6. Tienen un poder de ataque extremadamente alto."
+        "ko": "작전장교: 알파 찰리 델타팀도 각별히 주의 바란다. CP6 등급에게 절대 포위당하지 마라!",
+        "en": "Operations Officer: Alpha, Charlie, and Delta teams, stay especially alert. Never let yourselves get surrounded by CP6-class!",
+        "pt": "Oficial de Operações: As equipes Alpha, Charlie e Delta também devem ter cuidado redobrado. Nunca deixem que o CP6 de nível superior os cerque!",
+        "es": "Oficial de operaciones: Se solicita especial precaución también a los equipos Alfa, Charlie y Delta. ¡No permitan bajo ninguna circunstancia ser rodeados por los de nivel CP6!"
     },
     "sUXHBw": {
-        "en": "Operations Officer: Alpha, Charlie, and Delta. Be careful. Don't let CP6 surround you!",
-        "pt": "Dolor CP{} #{}",
-        "es": "Oficial de operaciones: Alfa, Charlie y Delta. Tengan cuidado. ¡No se dejen rodear por PC6!"
+        "ko": "CP{0} 돌로르#{1}",
+        "en": "CP{0} Dolor#{1}",
+        "pt": "CP{0} Derrote #{1} Dolor",
+        "es": "CP{0} Doloror#{1}"
     },
     "skXHBw": {
-        "en": "CP{} Dolor#{}",
-        "pt": "Caput CP{} #{}",
-        "es": "PC{} Dolor#{}"
+        "ko": "CP{0} 카푸트#{1}",
+        "en": "CP{0} Kaput#{1}",
+        "pt": "CP{0} Kaput#{1}",
+        "es": "CP{0} Kaput#{1}"
     },
     "s0XHBw": {
-        "en": "CP{} Caput#{}",
-        "pt": "Bellare CP{} #{}",
-        "es": "PC{} Caput#{}"
+        "ko": "CP{0} 벨라레#{1}",
+        "en": "CP{0} Bellare#{1}",
+        "pt": "CP{0} Bellare#{1}",
+        "es": "CP{0} Belare#{1}"
     },
     "tEXHBw": {
-        "en": "CP{} Bellare#{}",
-        "pt": "{}ª base segura.",
-        "es": "PC{} Bellare#{}"
+        "ko": "{0} 번째 거점 확보",
+        "en": "Secured the {0}th base",
+        "pt": "Conquista do {0}º ponto estratégico",
+        "es": "Asegura el {0}º punto estratégico."
     },
     "tUXHBw": {
-        "en": "{}th base secured.",
-        "pt": "Mutantes remanescentes -{}",
-        "es": "Base {} asegurada."
+        "ko": "잔여 뮤턴트 생존 반응 - {0}",
+        "en": "Remaining mutant survival responses - {0}",
+        "pt": "Reação de sobrevivência de mutantes restantes - {0}",
+        "es": "Reacción de supervivencia de mutantes restantes - {0}"
     },
     "tkXHBw": {
-        "en": "Remaining Mutant Vital Signs: {}",
-        "pt": "Oficial de Operações: Equioe, se virem mutantes rank S, por favor, eliminem o mais rápido possível.",
-        "es": "Signos vitales de mutantes restantes: {}"
+        "ko": "작전장교: 각 팀. S 급 뮤턴트를 발견하면 바로 전투에 참여하기 바란다.",
+        "en": "Operations Officer: All teams, if you spot an S-class mutant, engage in combat immediately.",
+        "pt": "Oficial de operações: Todas as equipes, ao avistarem um mutante de classe S, entrem imediatamente em combate.",
+        "es": "Oficial de operaciones: A todos los equipos. Si encuentran un mutante de rango S, participen en el combate de inmediato."
     },
     "t0XHBw": {
-        "en": "Operations Officer: Everyone, if you see Grade S Mutants, engage them right away.",
-        "pt": "????: Grrr...",
-        "es": "Oficial de operaciones: Todos, si ven mutantes de grado S, atáquenlos de inmediato."
+        "ko": "????: 크르르르...",
+        "en": "????: Grrrr...",
+        "pt": "????: Grrrrr...",
+        "es": "????: Grrrrr..."
     },
     "uEXHBw": {
-        "en": "?: Grr...",
-        "pt": "Oficial de Operações: Mutantes com CP alto são difíceis de lidar, cuidado!",
-        "es": "¿?: Grrr…"
+        "ko": "작전장교: CP 등급이 높은 뮤턴트는 상대하기 까다로우니까 조심해!",
+        "en": "Operations Officer: Be careful! Mutants with a high CP rank are tough opponents.",
+        "pt": "Oficial de Operações: Mutantes com alto nível de CP são difíceis de enfrentar, então tome cuidado!",
+        "es": "Oficial de operaciones: ¡Ten cuidado, los mutantes con un alto nivel de CP son difíciles de enfrentar!"
     },
     "uUXHBw": {
-        "en": "Operations Officer: Watch out for higher CP Mutants. They'll be tough to handle!",
-        "pt": "Miguel CP{}",
-        "es": "Oficial de operaciones: Cuidado con los mutantes de PC más alto. ¡Serán difíciles de manejar!"
+        "ko": "CP{0} 미구엘",
+        "en": "CP{0} Miguel",
+        "pt": "CP{0} Miguel",
+        "es": "CP{0} Miguel"
     },
     "ukXHBw": {
-        "en": "CP{} Miguel",
-        "pt": "Aviso: Mutantes rank S se fortalecem quando estão longe da área.",
-        "es": "Miguel de PC{}"
+        "ko": "경고: S 등급 뮤턴트는 자신의 거처를 벗어나면 급격히 광폭화합니다",
+        "en": "Warning: S-class mutants will go into a berserk state rapidly if they leave their habitat.",
+        "pt": "Aviso: Mutantes de classe S entram em fúria rapidamente ao deixarem seu habitat.",
+        "es": "Advertencia: Los mutantes de clase S entran en un estado de furia extrema si abandonan su guarida."
     },
     "u0XHBw": {
-        "en": "Warning: Grade S Mutants rage out of control when they're out of their haunt.",
-        "pt": "#poison2",
-        "es": "Advertencia: Los mutantes de grado S se descontrolan cuando están fuera de su guarida."
-    },
-    "vEXHBw": {
+        "ko": "#poison2",
         "en": "#poison2",
-        "pt": "#poison4",
+        "pt": "#poison2",
         "es": "#poison2"
     },
-    "vUXHBw": {
+    "vEXHBw": {
+        "ko": "#poison4",
         "en": "#poison4",
-        "pt": "#poison5",
+        "pt": "#poison4",
         "es": "#poison4"
     },
-    "vkXHBw": {
+    "vUXHBw": {
+        "ko": "#poison5",
         "en": "#poison5",
-        "pt": "#poison7",
+        "pt": "#poison5",
         "es": "#poison5"
     },
-    "v0XHBw": {
+    "vkXHBw": {
+        "ko": "#poison7",
         "en": "#poison7",
-        "pt": "Oficial de Operações",
+        "pt": "#poison7",
         "es": "#poison7"
     },
-    "wEXHBw": {
+    "v0XHBw": {
+        "ko": "작전장교",
         "en": "Operations Officer",
-        "pt": "Oficial de Operações: Desculpe, me atrasei!",
-        "es": "Operations Officer"
+        "pt": "Oficial de Operações",
+        "es": "Oficial de operaciones"
+    },
+    "wEXHBw": {
+        "ko": "작전장교: 내가 좀 늦은것같군!",
+        "en": "Operations Officer: Looks like I'm a bit late!",
+        "pt": "Oficial de operações: Acho que cheguei um pouco atrasado!",
+        "es": "Oficial de operaciones: ¡Parece que he llegado un poco tarde!"
     },
     "wUXHBw": {
-        "en": "Operations Officer: I'm sorry I'm late.",
-        "pt": "^FF0000- Seu inventário está cheio. Verifique o peso e a quantidade de itens que você tem antes de continuar. -^000000",
-        "es": "Oficial de operaciones: Siento llegar tarde."
+        "ko": "^FF0000- 인벤토리가 가득 찼습니다. 소지 무게와 소지 물품 수량 확인 뒤 진행해 주십시오. -^000000",
+        "en": "^FF0000- Your inventory is full. Please check your carrying weight and the number of items you have before proceeding. -^000000",
+        "pt": "^FF0000- O inventário está cheio. Por favor, verifique o peso carregado e a quantidade de itens antes de continuar. -^000000",
+        "es": "^FF0000- El inventario está lleno. Por favor, verifica el peso y la cantidad de objetos que llevas antes de continuar. -^000000"
     },
     "wkXHBw": {
-        "en": "^FF0000- Your inventory is full. Please check your weight and carrying item quantities, and then try again. -^000000",
-        "pt": "Seu talento é incrível. Eu respeito você!",
-        "es": "^660000- Tu inventario está lleno. Comprueba tu peso y la cantidad de objetos que llevas e inténtalo de nuevo. -^000000"
+        "ko": "자네 부대의 전투력이 놀랍군. 경의를 표하네!",
+        "en": "The combat strength of your unit is impressive. I salute you!",
+        "pt": "O poder de combate da sua unidade é impressionante. Receba meus respeitos!",
+        "es": "La fuerza de combate de tu escuadrón es asombrosa. ¡Mis respetos!"
     },
     "w0XHBw": {
-        "en": "Your unit is quite impressive. My hat's off to you!",
-        "pt": "Muito bem! Você fez um bom trabalho!",
-        "es": "Tu unidad es impresionante. ¡Te felicito!"
+        "ko": "아주 훌륭해! 고생 많았어!",
+        "en": "Excellent! You did a great job!",
+        "pt": "Muito bem! Você se esforçou bastante!",
+        "es": "¡Excelente trabajo! ¡Te has esforzado mucho!"
     },
     "xEXHBw": {
-        "en": "That was amazing! Good job!",
-        "pt": "Pelo menos, você conseguiu.",
-        "es": "¡Eso fue increíble! ¡Buen trabajo!"
+        "ko": "고생이 많았네",
+        "en": "You’ve been through a lot.",
+        "pt": "Você se esforçou bastante.",
+        "es": "Has trabajado mucho."
     },
     "xUXHBw": {
-        "en": "Good job!",
-        "pt": "Agradecemos sua ajuda.",
-        "es": "¡Buen trabajo!"
+        "ko": "수고했어.",
+        "en": "Good job.",
+        "pt": "Bom trabalho.",
+        "es": "Buen trabajo."
     },
     "xkXHBw": {
-        "en": "Thank you for your help.",
-        "pt": "Não foi tão ruim, né?",
-        "es": "Gracias por tu ayuda."
+        "ko": "뭐... 전투는 무난했지?",
+        "en": "Well... the battle went smoothly, right?",
+        "pt": "Bem... a batalha foi tranquila, não foi?",
+        "es": "Bueno... ¿el combate fue sencillo, verdad?"
     },
     "x0XHBw": {
-        "en": "Well, it wasn't too bad, was it?",
-        "pt": "Você teve sorte de principiante.",
-        "es": "Bueno, no estuvo tan mal, ¿verdad?"
+        "ko": "이번 수색은 운이좋았지?",
+        "en": "We were lucky with this search, weren't we?",
+        "pt": "Desta vez tivemos sorte na busca, não foi?",
+        "es": "¿Tuvimos suerte en esta búsqueda, verdad?"
     },
     "yEXHBw": {
-        "en": "You got lucky during this search, didn't you?",
-        "pt": "[Oficial de Operações]\nVocê lidou com mutantes de CP{}. {}",
-        "es": "Tuviste suerte durante esta búsqueda, ¿verdad?"
+        "ko": "[작전장교]\nCP{0}등급의 뮤턴트를 처리했군 {1}",
+        "en": "[Operations Officer]\nYou’ve taken care of a CP{0} grade mutant. {1}",
+        "pt": "[Oficial de Operações]\nVocê eliminou um mutante de grau CP{0} {1}",
+        "es": "[Oficial de operaciones]\nHas eliminado a un mutante de grado CP{0} {1}"
     },
     "yUXHBw": {
-        "en": "[Operations Officer]\nYou took care of Grade CP{} Mutants.{}",
-        "pt": "[Oficial de Operações]\nIrei condecorar você com as honras das nossas tropas.",
-        "es": "[Oficial de operaciones]\nTe encargaste de los mutantes de PC grado{}.{}"
+        "ko": "[작전장교]\n여기 작전에 참여한 부대원들에게 주어지는 보급품과 경험치야. 받아.",
+        "en": "[Operations Officer]\nThese are the supplies and experience points given to the members who participated in the operation. Take them.",
+        "pt": "[Oficial de Operações]\nAqui estão os suprimentos e a experiência concedidos aos membros da unidade que participaram desta missão. Pegue.",
+        "es": "[Oficial de operaciones]\nEstos son los suministros y la experiencia que se otorgan a los miembros de la unidad que participaron en la operación. Tómalos."
     },
     "ykXHBw": {
-        "en": "[Operations Officer]\nHere, take these supplies and EXP for those who joined this operation.",
-        "pt": "Vou te dar a maior recompensa de EXP.",
-        "es": "[Oficial de operaciones]\nToma estos suministros y EXP para los participantes de esta operación."
+        "ko": "추가경험치를 최대한 많이 챙겨 넣었어.",
+        "en": "I packed in as much extra experience as possible.",
+        "pt": "Coloquei o máximo possível de experiência adicional.",
+        "es": "He añadido la mayor cantidad posible de experiencia adicional."
     },
     "y0XHBw": {
-        "en": "I gave you as much extra EXP as I can manage.",
-        "pt": "Vou te dar um pouco de EXP extra.",
-        "es": "Te di tanta EXP adicional como pude."
+        "ko": "추가경험치를 꽤 넉넉히 챙겨 넣었어.",
+        "en": "I’ve added a generous amount of extra experience points.",
+        "pt": "Adicionei uma quantidade bem generosa de experiência extra.",
+        "es": "He añadido una cantidad bastante generosa de experiencia adicional."
     },
     "zEXHBw": {
-        "en": "I gave you a fairly large amount of extra EXP.",
-        "pt": "Vou te dar a EXP que você merece.",
-        "es": "Te di una cantidad bastante grande de EXP adicional."
+        "ko": "추가경험치를 그리 많이 챙겨주진 못했어.",
+        "en": "I couldn't give you that much extra experience.",
+        "pt": "Eu não consegui te dar tanta experiência extra assim.",
+        "es": "No pude darte tanta experiencia adicional."
     },
     "zUXHBw": {
-        "en": "I gave you some extra EXP.",
-        "pt": "Vou te dar a quantia de EXP proporcional ao seu trabalho.",
-        "es": "Te di un poco de EXP adicional."
+        "ko": "추가경험치를 거의 챙겨주지 못해 유감이군.",
+        "en": "It's a shame that I couldn't give you much extra experience.",
+        "pt": "É uma pena que eu não possa te dar quase nenhuma experiência extra.",
+        "es": "Lamento no poder otorgarte casi experiencia adicional."
     },
     "zkXHBw": {
-        "en": "I'm sorry I can't give you very much extra EXP.",
-        "pt": "[Oficial de Operações]\nCP{}, certo? {}",
-        "es": "Lamento no poder darte mucha EXP adicional."
+        "ko": "[작전장교]\nCP{0}등급이라 {1}",
+        "en": "[Operations Officer]\nSince your CP grade is {0}, {1}",
+        "pt": "[Oficial de Operações]\nComo você é CP{0}, {1}",
+        "es": "[Oficial de operaciones]\nComo tienes el rango CP{0}, {1}"
     },
     "z0XHBw": {
-        "en": "[Operations Officer]\nCP{}, huh?{}",
-        "pt": "[Oficial de Operações]\nEntão vamos sair agora. Teremos que fazer uma manutenção rápida.",
-        "es": "[Oficial de operaciones]\nPC{}, ¿eh?{}"
+        "ko": "[작전장교]\n그럼 이제 밖으로 나가지. 빠르게 정비도 해야할테니.",
+        "en": "[Operations Officer]\nAlright, let's head outside now. We need to get ready quickly.",
+        "pt": "[Oficial de Operações]\nEntão, vamos sair agora. Precisamos nos preparar rapidamente.",
+        "es": "[Oficial de operaciones]\nEntonces, salgamos ahora. También debemos prepararnos rápidamente."
     },
     "0EXHBw": {
-        "en": "[Operations Officer]\nAlright, then let's get out of here. We need to regroup quickly.",
-        "pt": "Dar uma volta",
-        "es": "[Oficial de operaciones]\nMuy bien, entonces salgamos de aquí. Tenemos que reagruparnos rápidamente."
+        "ko": "좀더 둘러본다",
+        "en": "Look around a bit more.",
+        "pt": "Olhar em volta mais um pouco.",
+        "es": "Explorar un poco más."
     },
     "0UXHBw": {
-        "en": "Stay.",
-        "pt": "Vamos sair",
-        "es": "Quedarse."
+        "ko": "나간다",
+        "en": "I'm leaving.",
+        "pt": "Vou sair.",
+        "es": "Salgo."
     },
     "0kXHBw": {
-        "en": "Leave.",
-        "pt": "[Oficial de Operações]\nÉ mesmo? Não demore muito.",
-        "es": "Irte."
+        "ko": "[작전장교]\n그런가? 너무 오래 지체하진 말라구.",
+        "en": "[Operations Officer]\nIs that so? Just don't take too long.",
+        "pt": "[Oficial de Operações]\nÉ mesmo? Então não demore muito.",
+        "es": "[Oficial de operaciones]\n¿Ah, sí? No te demores demasiado."
     },
     "00XHBw": {
-        "en": "[Operations Officer]\nAlright, but don't stay behind for too long.",
+        "ko": "???",
+        "en": "???",
         "pt": "???",
-        "es": "[Oficial de operaciones]\nDe acuerdo, pero no te quedes atrás mucho tiempo."
+        "es": "¿???"
     },
     "1EXHBw": {
-        "en": "?",
-        "pt": "[Relatório de Experimentos]\n#002413Miguel\n#Código de Pesquisa\nPlataforma 4-26",
-        "es": "?"
+        "ko": "[실험체 관련 정보]\n#002413 미구엘\n#Critical process\n4~26 플랫폼",
+        "en": "[Experimental Subject Information]\n#002413 Miguel\n#Critical process\nPlatform 4~26",
+        "pt": "[Informações sobre o espécime]\n#002413 Miguel\n#Processo crítico\nPlataforma 4~26",
+        "es": "[Información relacionada con el sujeto de experimentación]\n#002413 Miguel\n#Proceso crítico\nPlataforma 4~26"
     },
     "1UXHBw": {
-        "en": "[Test Subject-related Info]\n#002413 Miguel\n#Critical Process\nPlatforms 4 - 26",
-        "pt": "[Metodologia]\nParte de um projeto que combina uma cobaia Humana com outros animais.",
-        "es": "[Información relacionada con el sujeto de prueba]\nMiguel #002413\n#Critical Process\nPlataformas4 - 26"
+        "ko": "[제작과정]\n전투력을 지닌 인간과 금수의 혼합 실험인 베티 프로젝트의 일환",
+        "en": "[Production Process]\nPart of the Betty Project, an experimental fusion of humans and beasts possessing combat abilities",
+        "pt": "[Processo de Criação]\nParte do Projeto Betty, um experimento de hibridização entre humanos e feras com poder de combate",
+        "es": "[Proceso de fabricación]\nParte del Proyecto Betty, un experimento de hibridación entre humanos y bestias con poder de combate."
     },
     "1kXHBw": {
-        "en": "[Creation Process]\nPart of the Betty Project that combined human combatants and other creatures.",
-        "pt": "[Metodologia]\nFoi administrado 150ml de soro de Eddga na corrente sanguínea e observamos o seu processo evolutivo.",
-        "es": "[Proceso de creación]\nParte del proyecto Betty que combinaba combatientes humanos con otras criaturas."
+        "ko": "[제작과정]\n에드가의 혈청을 투입한 전투사병을 4~26 플랫폼으로 이송하여 각각의 진화과정을 겪게한다.",
+        "en": "[Production Process]\nTransfer the combat soldiers injected with Edga's serum to platforms 4 through 26, where they will each undergo their respective evolution processes.",
+        "pt": "[Processo de fabricação]\nOs soldados de combate que receberam o soro de Eddga são transferidos para as plataformas 4 a 26, onde passam por seus respectivos processos de evolução.",
+        "es": "[Proceso de fabricación]\nSe transporta a los soldados de combate que han recibido el suero de Edga a las plataformas 4~26 para que pasen por sus respectivos procesos de evolución."
     },
     "10XHBw": {
-        "en": "[Creation Process]\nMoved the combatants who had been injected with Eddga's blood serum to Platforms 4 to 26, and observed their evolution processes.",
-        "pt": "[Resultados]\nTodas as cobaias, exceto Miguel, sofreram sequelas psicológicas. Colocamos Miguel em quarentena até entendermos o que aconteceu.",
-        "es": "[Proceso de creación]\nSe trasladó a los combatientes que habían sido inyectados con el suero de sangre de Eddga a las plataformas 4 a 26 y se observaron sus procesos de evolución."
+        "ko": "[결과]\n오리지널 미구엘 개체이외의 모든 개체가 정신적 후유증을 겪음. 문제 해결을 위해 오리지널 개체는 격리보관 예정",
+        "en": "[Result]\nAll entities except for the original Miguel are experiencing psychological aftereffects. To resolve the issue, the original entity is scheduled to be placed in isolation.",
+        "pt": "[Resultado]\nTodas as entidades, exceto o Miguel original, sofreram sequelas psicológicas. Para resolver o problema, a entidade original será mantida em isolamento.",
+        "es": "[Resultado]\nTodos los individuos, excepto el Miguel original, presentan secuelas psicológicas. Para resolver el problema, se tiene previsto aislar y resguardar al individuo original."
     },
     "2EXHBw": {
-        "en": "[Results]\nAll the other subjects except for the original Miguel experienced psychological trauma. The original subject will be kept separately until this problem is resolved.",
-        "pt": "[Relatório de Experimentos]\n#002422 Caput\n#Atividade\nUse qualquer plataforma para despejar a cobaia.",
-        "es": "[Resultados]\nTodos los demás sujetos, salvo el Miguel original, experimentaron traumas psicológicos. El sujeto original se conservará por separado hasta que se resuelva este problema."
+        "ko": "[실험체 관련 정보]\n#002422 카푸트\n#activity\n방류장 구분없이 잔여 플랫폼 사용",
+        "en": "[Experiment Subject Information]\n#002422 Kaput\n#activity\nUse remaining platforms regardless of release site",
+        "pt": "[Informações sobre o espécime]\n#002422 Kaput\n#atividade\nUso de plataforma remanescente sem distinção de área de liberação",
+        "es": "[Información relacionada con el sujeto de experimentación]\n#002422 Kaput\n#actividad\nUso de la plataforma restante sin distinción de zona de liberación"
     },
     "2UXHBw": {
-        "en": "[Test Subject-related Info]\n#002422 Caput\n#activity\nUse whatever remaining platforms are available for its disposal.",
-        "pt": "[Metodologia]\nA cabeça de um Filhote de Orc inteligente foi transplantada no corpo de um Filhote de Orc de ótimo porte físico.",
-        "es": "[Información relacionada con el sujeto de prueba]\nCaput #002422\n#activity\nUtilizar las plataformas que queden disponibles para su eliminación."
+        "ko": "[제작과정]\n지성이 강한 오크베이비의 머리와 육체적 능력이 강한 오크베이비의 샴 시술과정 거침.",
+        "en": "[Production Process]\nA procedure was performed to conjoin the head of an Orc Baby with strong intelligence and the body of an Orc Baby with superior physical abilities.",
+        "pt": "[Processo de fabricação]\nPassou-se pelo procedimento de enxerto siamesa entre a cabeça de um Orc Baby com grande inteligência e o corpo de um Orc Baby com habilidades físicas superiores.",
+        "es": "[Proceso de fabricación]\nSe ha realizado un procedimiento de siameses entre la cabeza de un Orc Baby con gran inteligencia y el cuerpo de un Orc Baby con grandes habilidades físicas."
     },
     "2kXHBw": {
-        "en": "[Creation Process]\nThe head of an intelligent Orc Baby has been surgically attached to the body of an athletic Orc Baby.",
-        "pt": "[Objetivos]\nO objetivo é testar se a inteligência afetaria a capacidade de combate da cobaia.",
-        "es": "[Proceso de creación]\nLa cabeza de un bebé orco inteligente se unió quirúrgicamente al cuerpo de un bebé orco atlético."
+        "ko": "[제작목적]\n지성이 강한 개체의 육체 잠식을 통해 전투력과 생존능력의 향상을 테스트하는것이 목적",
+        "en": "[Purpose of Production]\nThe goal is to Tesst the enhancement of combat power and survivability by parasitizing the bodies of highly intelligent beings.",
+        "pt": "[Propósito da criação]\nO objetivo é «T:Tess»trar o aprimoramento do poder de combate e da capacidade de sobrevivência através da assimilação física de entidades com grande inteligência.",
+        "es": "[Propósito de fabricación]\nEl objetivo es Tesstrar una mejora en la capacidad de combate y supervivencia mediante la posesión física de entidades con gran inteligencia."
     },
     "20XHBw": {
-        "en": "[Creation Purpose]\nThis will test if intelligence can affect one's combat capability and survivability.",
-        "pt": "[Resultados]\nO corpo do Filhote de Orc parou de se desenvolver e as duas cabeças entram em constante contradição.",
-        "es": "[Propósito de la creación]\nEsto pondrá a prueba si la inteligencia puede afectar a la propia capacidad de combate y supervivencia."
+        "ko": "[결과]\n성장을 멈추어 용도에 맞지않음. 자가분열하는 특이체가 되었기에 다른 베티 프로젝트의 데이터로 수집.",
+        "en": "[Result]\nGrowth has stopped, making it unsuitable for its intended purpose. Since it has become an anomalous entity capable of self-division, it has been collected as data for other Betty Project experiments.",
+        "pt": "[Resultado]\nO crescimento foi interrompido, tornando-o inadequado para o propósito. Tornou-se uma entidade peculiar que se divide sozinha, por isso foi coletado como dado para outros projetos Betty.",
+        "es": "[Resultado]\nHa dejado de crecer y ya no es adecuado para su propósito. Se ha convertido en una entidad peculiar que se divide por sí misma, por lo que se recopila como dato para otros proyectos Betty."
     },
     "3EXHBw": {
-        "en": "[Results]\nThe subject stopped growing, causing the test to fail. Its newly developed auto-cloning capacity was initially considered for a different Betty Project test...",
-        "pt": "[Resultados]\nPor causa da deformação física e crise de personalidade, a cobaia pode ser despejada em qualquer plataforma.",
-        "es": "[Resultados]\nEl sujeto dejó de crecer, lo que provocó el fracaso de la prueba. Inicialmente, su capacidad de autoclonación, recientemente desarrollada, se consideró para una prueba diferente del proyecto Betty…"
+        "ko": "[결과]\n또한 자가분열로 외형과 성격의 붕괴발생. 해당 개체는 방류폐기 결정. 방류장 구분없이 여분의 플랫폼을 이용하여 방류예정",
+        "en": "[Result]\nAdditionally, self-division has caused a collapse in both appearance and personality. It has been decided that this specimen will be disposed of by release. Regardless of the release site, it is scheduled to be released using any available platform.",
+        "pt": "[Resultado]\nAlém disso, ocorreu colapso na aparência e personalidade devido à autofissão. Foi decidido descartar o espécime. O descarte será realizado utilizando uma plataforma extra, independentemente da área de descarte.",
+        "es": "[Resultado]\nAdemás, se ha producido una desintegración de la apariencia y la personalidad debido a la autofisión. Se ha decidido desechar y liberar dicho espécimen. Se prevé su liberación utilizando una plataforma adicional, sin importar la zona de descarga."
     },
     "3UXHBw": {
-        "en": "[Results]\nBut the auto-cloning process caused physical deformation and a personality crisis. This subject will be disposed through whatever platforms are available for its disposal.",
-        "pt": "[Relatório de Experimentos]\n#000088Venenum\n#Atividade\nUse qualquer plataforma para despejar a cobaia.",
-        "es": "[Resultados]\nPero el proceso de autoclonación provocó una deformación física y una crisis de personalidad. Este sujeto se eliminará con las plataformas disponibles para ello."
+        "ko": "[실험체 관련 정보]\n#000088 베네눔\n#activity\n방류장 구분없이 잔여 플랫폼 사용",
+        "en": "[Experiment Subject Information]\n#000088 Venenum\n#activity\nUse remaining platforms regardless of release site",
+        "pt": "[Informações sobre o espécime]\n#000088 Venenum\n#activity\nUso da plataforma restante sem distinção de área de liberação",
+        "es": "[Información relacionada con el sujeto de experimentación]\n#000088 Venenum\n#activity\nUso de la plataforma restante sin distinción de zona de liberación"
     },
     "3kXHBw": {
-        "en": "[Test Subject-related Info]\n#000088 Venenum\n#activity\nUse whatever remaining platforms are available for its disposal.",
-        "pt": "[Metodologia]\nParte do projeto de armamento.\nAcomplação de todos os tipos de armas em monstros com biosinais ativos",
-        "es": "[Información relacionada con el sujeto de prueba]\nVenenum #000088\n#activity\nUtilizar las plataformas que queden disponibles para su eliminación."
+        "ko": "[제작과정]\n몬스터의 병기화 프로젝트 네오베티의 일환.\n생체신호가 활발한 몬스터에 장착가능한 모든 병기를 시술",
+        "en": "[Production Process]\nPart of the monster weaponization project, Neo Betty.\nAll available weapons are implanted into monsters with active biological signals.",
+        "pt": "[Processo de fabricação]\nParte do projeto de armamento de monstros, Neo Betty.\nTodos os tipos de armamentos possíveis foram implantados em monstros com sinais vitais ativos.",
+        "es": "[Proceso de fabricación]\nParte del proyecto de armamento de monstruos Neo Betty.\nSe implantaron todas las armas posibles en monstruos con señales biológicas activas."
     },
     "30XHBw": {
-        "en": "[Creation Process]\nPart of the monster weaponization project, Neo Betty.\nAll kinds of weapons have been attached to monsters with strong vital signs.",
-        "pt": "[Objetivos]\nEntender a letalidade da combinação entre armas de última geração e o instinto animal.",
-        "es": "[Proceso de creación]\nParte del proyecto de armamento de monstruos, Neo Betty.\nSe unieron todo tipo de armas a los monstruos que presentaban signos vitales fuertes."
+        "ko": "[제작목적]\n동물적인 감각과 최신병기의 조합으로 어느정도의 살상력을 유도할 수 있는가의 데이터 수집.",
+        "en": "[Purpose of Production]\nCollecting data on how much lethality can be achieved by combining animal instincts with the latest weaponry.",
+        "pt": "[Objetivo da produção]\nColetar dados sobre até que ponto é possível obter poder letal ao combinar instintos animais com armamentos de última geração.",
+        "es": "[Propósito de fabricación]\nRecopilación de datos sobre hasta qué punto se puede inducir capacidad letal mediante la combinación de instintos animales y armamento de última generación."
     },
     "4EXHBw": {
-        "en": "[Creation Purpose]\nThis will test how much killing power can be achieved through a marriage between animalistic instincts and high-tech weapons.",
-        "pt": "[Resultados]\nTodas as armas físicas falharam, exceto o spray de veneno, que é uma arma biológica. No entanto, projeto foi descartado por não diferenciar aliados e inimigos.",
-        "es": "[Propósito de la creación]\nEsto pondrá a prueba cuánta potencia asesina se puede lograr al unir los instintos animales con armas de alta tecnología."
+        "ko": "[결과]\n물리무기는 모두 실패. 생체병기인 독살포 기기만 정상동작. 단 제어가 불가능하여 아군 살상 확률이 비약적으로 높아져 폐기함",
+        "en": "[Result]\nAll physical weapons failed. Only the biological weapon, the Poison Launcher device, operated normally. However, since it cannot be controlled, the probability of friendly fire increased dramatically, so it was discarded.",
+        "pt": "[Resultado]\nTodas as armas físicas falharam. Apenas o dispositivo de arma biológica, o lançador de veneno, funcionou normalmente. No entanto, como não era possível controlá-lo, a probabilidade de causar baixas entre aliados aumentou drasticamente, levando ao seu descarte.",
+        "es": "[Resultado]\nTodas las armas físicas fallaron. Solo el dispositivo biológico de veneno, cañón envenenado, funcionó correctamente. Sin embargo, como no se puede controlar, la probabilidad de causar bajas entre aliados aumentó drásticamente, por lo que fue descartado."
     },
     "4UXHBw": {
-        "en": "[Results]\nAll the physical weapons failed except for the biochemical sprays. The subjects had to be disposed as they killed more allies than enemies.",
-        "pt": "[Relatório de Experimentos]\n#000211 Dolor\n#CP #Atividade\n1-5",
-        "es": "[Resultados]\nTodas las armas físicas fallaron excepto los aerosoles bioquímicos. Hubo que deshacerse de los sujetos, ya que mataban a más aliados que enemigos."
+        "ko": "[실험체 관련 정보]\n#000211 돌로르\n#CP #activity\n1~5",
+        "en": "[Experimental Subject Information]\n#000211 Dolor\n#CP #activity\n1~5",
+        "pt": "[Informações sobre o espécime]\n#000211 Dolor\n#CP #atividade\n1~5",
+        "es": "[Información relacionada con el sujeto de experimentación]\n#000211 Dolor\n#CP #actividad\n1~5"
     },
     "4kXHBw": {
-        "en": "[Test Subject-related Info]\n#000211 Dolor\n#CP #activity\n1 - 5",
-        "pt": "[Metodologia]\nParte do projeto que combina cobaias Humanas e Plantas.\nFoi decidido que um DNA vegetal seria agregado ao DNA humano.",
-        "es": "[Información relacionada con el sujeto de prueba]\nDolor #000211\n#CP #activity\n1 - 5"
+        "ko": "[제작과정]\n전투력을 지닌 인간과 금수의 혼합 실험인 베티 프로젝트의 일환\n해당 개체는 식물의 DNA 를 이식하는것으로 최종 결정되었다.",
+        "en": "[Production Process]\nAs part of the Betty Project, which is a hybrid experiment combining humans and beasts with combat capabilities,\nit was ultimately decided that this specimen would have plant DNA implanted.",
+        "pt": "[Processo de Criação]\nComo parte do Projeto Betty, um experimento de hibridização entre humanos e feras com poder de combate,\nfoi decidido que este espécime receberia o DNA de uma planta.",
+        "es": "[Proceso de creación]\nComo parte del Proyecto Betty, un experimento de hibridación entre humanos y bestias con capacidades de combate,\nse decidió finalmente que este espécimen recibiría la implantación de ADN vegetal."
     },
     "40XHBw": {
-        "en": "[Creation Process]\nPart of the Betty Project that combined human combatants and other creatures.\nIt has been decided that plant DNA will be transplanted in these subjects.",
-        "pt": "[Objetivos]\nFocar na capacidade regenerativa das plantas, deseja-se que a cobaia tenha capacidade de fotossíntese como as plantas e se movimentar como os humanos.",
-        "es": "[Proceso de creación]\nParte del proyecto Betty que combinaba combatientes humanos con otras criaturas.\nSe decidió trasplantar ADN de plantas a estos sujetos."
+        "ko": "[제작목적]\n식물의 재생능력과 형태변이능력에 초점을 맞추었으며 제작된 개체가 잠입과 은신능력을 이끌어 내기를 요망함",
+        "en": "[Purpose of Production]\nThe focus is on the regenerative abilities and morphological transformation of plants, with the hope that the created entity will be capable of infiltration and stealth.",
+        "pt": "[Propósito da criação]\nFocou-se na capacidade de regeneração das plantas e em sua habilidade de mudança de forma, esperando que o indivíduo criado possa desenvolver habilidades de infiltração e furtividade.",
+        "es": "[Propósito de creación]\nSe ha enfocado en la capacidad de regeneración y la habilidad de cambio de forma de las plantas, esperando que la entidad creada pueda desarrollar habilidades de infiltración y sigilo."
     },
     "5EXHBw": {
-        "en": "[Creation Purpose]\nPlants with regenerative and transformation properties will be used to enable the subjects to move and infiltrate stealthily.",
-        "pt": "[Resultados]\nO DNA da soja e da batata-doce teve um efeito adverso. A capacidade de regeneração desapareceu. A aparência física da cobaia evoluiu para deformações descontroladas.",
-        "es": "[Propósito de la creación]\nSe utilizarán plantas con propiedades regenerativas y de transformación para que los sujetos puedan desplazarse e infiltrarse sigilosamente."
+        "ko": "[결과]\n콩과 고구마의 DNA 가 악영향을 끼쳐 재생과 증식 능력의 리미트가 사라졌음. 회복능력의 비약적인 수치로 인해 외형의 유지가 매우 어려운 상태.",
+        "en": "[Result]\nThe DNA of beans and sweet potatoes has had a negative effect, removing the limits on regeneration and proliferation abilities. Due to the dramatically increased recovery rate, it has become extremely difficult to maintain its appearance.",
+        "pt": "[Resultado]\nO DNA do feijão e da batata-doce teve um efeito negativo, eliminando o limite das habilidades de regeneração e multiplicação. Devido ao aumento extraordinário da capacidade de recuperação, está extremamente difícil manter a aparência física.",
+        "es": "[Resultado]\nEl ADN de los frijoles y las batatas ha tenido un efecto negativo, eliminando el límite de las capacidades de regeneración y proliferación. Debido al aumento drástico en la capacidad de recuperación, mantener la forma física se ha vuelto extremadamente difícil."
     },
     "5UXHBw": {
-        "en": "[Results]\nThe bean and sweet potato DNA created adverse effects, which resulted in infinite regeneration and multiplication. The subjects' healing ability increased so drastically that they're unable to sustain their appearance.",
-        "pt": "[Resultados]\nComo não obtivemos o resultado esperado, descartamos as cobaias nas plataformas.",
-        "es": "[Resultados]\nEl ADN de los frijoles y la batata dulce creó efectos adversos que dieron lugar a una regeneración y multiplicación infinitas. La capacidad de curación de los sujetos aumentó tan drásticamente que son incapaces de mantener su apariencia."
+        "ko": "[결과]\n원하는 형태변이 능력은 갖추지 못했으며 제어가 불가능 한 관계로 각 방류장으로 폐기 결정되었다.",
+        "en": "[Result]\nIt was decided to dispose of them at each release site, as they did not possess the desired transformation abilities and could not be controlled.",
+        "pt": "[Resultado]\nComo não adquiriu a habilidade de mutação desejada e não pode ser controlado, foi decidido que será descartado em cada estação de despejo.",
+        "es": "[Resultado]\nNo se logró obtener la habilidad de mutación deseada y, debido a que no se puede controlar, se ha decidido desecharlo en cada área de eliminación."
     },
     "5kXHBw": {
-        "en": "[Results]\nThey also failed to develop the ability to transform, and went out of control. They will be disposed at all available disposal sites.",
-        "pt": "[Relatório de Experimentos]\n#000666 Plaga\n#Atividade\nDesconhecido",
-        "es": "[Resultados]\nTampoco desarrollaron la capacidad de transformación y se descontrolaron. Se eliminarán en todos los vertederos disponibles."
+        "ko": "[실험체 관련 정보]\n#000666 프라가\n#activity\n불명",
+        "en": "[Experiment Subject Information]\n#000666 Praga\n#activity\nUnknown",
+        "pt": "[Informações sobre o espécime]\n#000666 Praga\n#atividade\nDesconhecida",
+        "es": "[Información relacionada con el sujeto de prueba]\n#000666 Praga\n#actividad\nDesconocido"
     },
     "50XHBw": {
-        "en": "[Test Subject-related Info]\n#000666 Fraga\n#activity\nUnknown",
-        "pt": "[Metodologia]\nParte do Projeto que combina humanos com partes do corpo de dragões.",
-        "es": "[Información relacionada con el sujeto de prueba]\nFraga #000666\n#activity\nDesconocido"
+        "ko": "[제작목적]\n드래곤의 DNA 투입으로 강력한 내성과 물리, 마법능력의 발현을 기대함",
+        "en": "[Purpose of Production]\nBy injecting dragon DNA, we expect to achieve strong resistance as well as the manifestation of physical and magical abilities.",
+        "pt": "[Objetivo da produção]\nCom a inserção do DNA de dragão, espera-se o surgimento de uma resistência poderosa, bem como o desenvolvimento de habilidades físicas e mágicas.",
+        "es": "[Propósito de fabricación]\nSe espera que, al introducir el ADN de dragón, se manifiesten una gran resistencia y habilidades tanto físicas como mágicas."
     },
     "6EXHBw": {
-        "en": "[Creation Purpose]\nTransplanted with a dragon's DNA in hopes of achieving powerful resistance and physical and magical capabilities.",
-        "pt": "[Objetivos]\nEsperamos alta resistência, habilidades físicas e mágicas com a combinação do DNA de um dragão.",
-        "es": "[Propósito de la creación]\nTrasplantado con el ADN de un dragón con la esperanza de conseguir una poderosa resistencia y capacidades físicas y mágicas."
+        "ko": "[결과]\n연구자 12명. 공정 제어자 34명. 경비대 128명. 시설관리요원 42명 사망.",
+        "en": "[Result]\n12 researchers. 34 process controllers. 128 security guards. 42 facility managers dead.",
+        "pt": "[Resultado]\n12 pesquisadores. 34 controladores de processos. 128 guardas. 42 funcionários de manutenção de instalações mortos.",
+        "es": "[Resultado]\n12 investigadores. 34 controladores de procesos. 128 guardias de seguridad. 42 encargados de mantenimiento de instalaciones fallecidos."
     },
     "6UXHBw": {
-        "en": "[Results]\nResulted in the deaths of 12 researchers, 34 process controllers, 128 security guards, and 42 facility management staff.",
-        "pt": "[Resultados]\nA morte de 12 pesquisadores, 34 técnicos, 128 guardas e 42 gerenciadores da unidade.",
-        "es": "[Resultados]\nProvocó la muerte de 12investigadores, 34controladores de procesos, 128guardias de seguridad y 42miembros del personal de administración de las instalaciones."
+        "ko": "[결과]\n해당 개체에 대한 문건과 제조공정을 파기하려 하였으나 해당 개체들을 뚫고 제조라인을 파괴할 수 없어 출입만 폐쇄한다",
+        "en": "[Result]\nWe attempted to destroy the documents and manufacturing process related to the entity, but were unable to break through the entities and destroy the production line, so we have only sealed off access.",
+        "pt": "[Resultado]\nTentamos destruir os documentos e o processo de fabricação relacionados a esse objeto, mas como não conseguimos atravessar os objetos para destruir a linha de produção, apenas fechamos o acesso ao local.",
+        "es": "[Resultado]\nSe intentó destruir los documentos y el proceso de fabricación relacionados con dicho ente, pero al no poder atravesar a los entes ni destruir la línea de producción, solo se procedió a cerrar el acceso."
     },
     "6kXHBw": {
-        "en": "[Results]\nWe tried to destroy the documents and production equipment related to these subjects, but to no avail. So, we've just sealed them all off.",
-        "pt": "[Resultados]\nTentamos destruir os documentos e o equipamento de criação da cobaia, mas sem sucesso. Então apenas descartamos as cobaias.",
-        "es": "[Resultados]\nIntentamos destruir los documentos y el equipamiento de producción relacionados con estos temas, pero fue en vano. Así que los sellamos a todos."
+        "ko": "[실험체 관련 정보]\n#000001 아침이\n#activity\n불명",
+        "en": "[Experiment Subject Information]\n#000001 Morning\n#activity\nUnknown",
+        "pt": "[Informações sobre o espécime]\n#000001 Achimi\n#activity\nDesconhecido",
+        "es": "[Información relacionada con el sujeto de experimentación]\n#000001 Morning\n#activity\nDesconocido"
     },
     "60XHBw": {
-        "en": "[Test Subject-related Info]\n#000001 Morning\n#activity\nUnknown",
-        "pt": "[Relatório de Experimentos]\n#000001 Morning\n#Atividade\nDesconhecido",
-        "es": "[Información relacionada con el sujeto de prueba]\nMorning #000001\n#activity\nDesconocido"
+        "ko": "[제작과정]\n미성숙 인간개체의 대뇌피질에 나노기기 투입을 통한 능력치 향상 시술. 외부 주파수와의 동조를 위한 전해질 농도 조정작업",
+        "en": "[Production Process]\nA procedure to enhance abilities by injecting nanodevices into the cerebral cortex of immature human subjects. Electrolyte concentration adjustment is performed to synchronize with external frequencies.",
+        "pt": "[Processo de fabricação]\nProcedimento de aprimoramento de atributos por meio da inserção de nanodispositivos no córtex cerebral de espécimes humanos imaturos. Ajuste da concentração de eletrólitos para sincronização com frequências externas.",
+        "es": "[Proceso de fabricación]\nProcedimiento de mejora de atributos mediante la inserción de nanodispositivos en la corteza cerebral de sujetos humanos inmaduros. Ajuste de la concentración de electrolitos para la sintonización con frecuencias externas."
     },
     "7EXHBw": {
-        "en": "[Creation Process]\nNanomachines have been added to an immature human's cerebral cortex for performance enhancement. Its electrolyte density has been adjusted to better respond to external wavelengths.",
-        "pt": "[Metodologia]\nImplementação de Nanodispositivos no córtex cerebral de humanos não-amadurecidos.seres humanos imaturos. A concentração de eletrólitos precisa sincronizar com fatores externos.",
-        "es": "[Proceso de creación]\nSe agregaron nanomáquinas a la corteza cerebral de un ser humano inmaduro para mejorar su rendimiento. Se ajustó su densidad electrolítica para que responda mejor a las longitudes de onda externas."
+        "ko": "[제작목적]\n대뇌피질 개조를 통한 능력치 개화를 목표로 함. 베티 프로젝트 생산물들의 현장 통솔능력 기대.",
+        "en": "[Purpose of Production]\nAiming to unlock abilities through cerebral cortex modification. Expecting field command capabilities from the products of the Betty Project.",
+        "pt": "[Objetivo de produção]\nVisa o desenvolvimento de atributos por meio da modificação do córtex cerebral. Espera-se que os produtos do Projeto Betty demonstrem habilidades de liderança em campo.",
+        "es": "[Propósito de fabricación]\nEl objetivo es el desarrollo de habilidades mediante la modificación de la corteza cerebral. Se espera que los productos del Proyecto Betty demuestren capacidad de liderazgo en el campo."
     },
     "7UXHBw": {
-        "en": "[Creation Purpose]\nThis will test enhanced performance through cerebral cortex modifications. We expect it to be the controller of the other Betty Project creations.",
-        "pt": "[Objetivos]\nMelhorar a performance através da remodelação do córtex cerebral. Com expectativa de ser um líder para as outras cobaias do projeto.",
-        "es": "[Propósito de la creación]\nEsto pondrá a prueba el rendimiento mejorado mediante las modificaciones de la corteza cerebral. Esperamos que sea el controlador de las demás creaciones del proyecto Betty."
+        "ko": "[결과]\n전투능력 발현불가. 신체 변형 능력 각성 - 해당 능력은 발현 기대치 이외의 값으로 오류로 판단.",
+        "en": "[Result]\nCombat abilities cannot be manifested. Physical transformation ability awakened – this ability is considered an error due to values outside the expected manifestation range.",
+        "pt": "[Resultado]  \nCapacidade de combate indisponível. Habilidade de transformação corporal despertada – esta habilidade foi considerada um erro devido a valores fora do esperado.",
+        "es": "[Resultado]\nNo es posible manifestar la capacidad de combate. Habilidad de transformación corporal despertada: se considera un error ya que esta habilidad se ha manifestado con un valor diferente al esperado."
     },
     "7kXHBw": {
-        "en": "[Results]\nFailed to develop fighting capability. Awakened to physical transformation ability, which was unintended, and therefore an error.",
-        "pt": "[Resultados]\nIncapacidade de batalha. A velocidade de crescimento da criança reduziu muito, o que consideramos um erro.",
-        "es": "[Resultados]\nNo pudo desarrollar capacidad de combate. Despertó la capacidad de transformación física, que no era intencional, y por lo tanto se considera un error."
+        "ko": "[결과]\n감정 기복이 심하며 이에 따라 통제도 불가능 한 상황 다수 발생. 추가적인 능력치 발현이 예상되나 상부로 부터 폐기 지침이 발동되어 폐기처분함",
+        "en": "[Result]\nFrequent mood swings have led to numerous uncontrollable situations. Although further manifestation of abilities was anticipated, disposal was carried out following an order for termination from higher authorities.",
+        "pt": "[Resultado]\nApresenta grandes oscilações emocionais, resultando em diversas situações incontroláveis. Embora se espere a manifestação de atributos adicionais, foi emitida uma ordem de descarte pelas autoridades superiores, levando à sua eliminação.",
+        "es": "[Resultado]\nPresenta cambios de humor extremos, lo que ha provocado numerosas situaciones fuera de control. Se espera la manifestación de atributos adicionales, pero se ha emitido una orden de desecho desde la dirección, por lo que ha sido descartado."
     },
     "70XHBw": {
-        "en": "[Results]\nThe subject exhibited severe mood swings and became impossible to control. It shows potential for additional abilities, but its disposal has been ordered by the upper management.",
-        "pt": "[Resultados]\nA cobaia tem picos emocionais graves. Apesar de ter capacidade de aprender coisas novas, nossos superiores optaram pelo despejo da cobaia.",
-        "es": "[Resultados]\nEl sujeto presentaba graves cambios de humor y se volvió imposible de controlar. Muestra cierto potencial para adquirir capacidades adicionales, pero los altos mandos ordenaron su eliminación."
+        "ko": "[기밀등급 - D]\nCP 등급에 관하여",
+        "en": "[Confidential Level - D]\nAbout the CP grade",
+        "pt": "[Classificação Confidencial - D]\nSobre a classificação CP",
+        "es": "[Confidencialidad - D]\nAcerca del nivel CP"
     },
     "8EXHBw": {
-        "en": "[Secret Grade: D]\nAbout the CP Grades",
-        "pt": "[Confidencial - D]\nSignificado de CP",
-        "es": "[Grado secreto: D]\nAcerca de los grados de PC"
+        "ko": "[기밀등급 - D]\nCritical process 는 생산 플랫폼의 일련번호로 공정의 복잡성과 위험도로 등급을 구분한다.",
+        "en": "[Confidential Level - D]\nCritical process is classified by the serial number of the production platform, distinguishing the grade based on the complexity and risk level of the process.",
+        "pt": "[Classificação Confidencial - D]\nO Critical process é classificado de acordo com o número de série da plataforma de produção, diferenciando os níveis de complexidade e risco do processo.",
+        "es": "[Confidencialidad - D]\nCritical process se clasifica según el número de serie de la plataforma de producción, diferenciando el grado de complejidad y riesgo del proceso."
     },
     "8UXHBw": {
-        "en": "[Secret Grade: D]\nCritical Process (''CP'') is a production platform serial number that determines the complexity and danger of a certain creation process.",
-        "pt": "[Confidencial - D]\nCP significa Código de Pesquisa e corresponde ao número que corresponde à complexidade e risco da criação da cobaia.",
-        "es": "[Grado secreto: D]\nEl Proceso Crítico (“PC”) es un número de serie de la plataforma de producción que determina la complejidad y peligrosidad de un determinado proceso de creación."
+        "ko": "[기밀등급 - D]\n개체의 원형, 또는 자아를 손상하지 않았거나 위험도가 적을수록 낮은 번호를 부여한다.",
+        "en": "[Confidential Level - D]\nA lower number is assigned if the entity's original form or ego has not been damaged, or if the level of danger is low.",
+        "pt": "[Classificação Confidencial - D]\nÉ atribuído um número mais baixo quanto menos o protótipo ou a identidade da entidade tiverem sido danificados, ou quanto menor for o grau de perigo.",
+        "es": "[Clasificación confidencial - D]\nSe asigna un número más bajo a los objetos cuyo prototipo o identidad no ha sido dañado, o cuyo nivel de peligro es menor."
     },
     "8kXHBw": {
-        "en": "[Secret Grade: D]\nThe less a unit is modified or damaged, the lower its serial number. Its sanity and procedural risks also affect its serial number.",
-        "pt": "[Confidencial - D]\nQuanto menor esse valor, menor foi a rejeição da cobaia ao experimento, ou seja, possui mais sanidade mental.",
-        "es": "[Grado secreto: D]\nCuanto menos modificada o dañada esté una unidad, menor será su número de serie. Su cordura y sus riesgos procesales también influyen en su número de serie."
+        "ko": "[기밀등급 - D]\nCP 에서 출시된 개체는 CP 넘버를 부여하며 이 과정에서 유실되거나 탈주한 경우 별도의 넘버를 부여한다.",
+        "en": "[Confidential Level - D]\nEntities released from CP are assigned a CP number, and if they are lost or escape during this process, a separate number is given.",
+        "pt": "[Classificação Confidencial - D]\nAs entidades lançadas pela CP recebem um número CP, e, caso sejam perdidas ou escapem durante esse processo, recebem um número separado.",
+        "es": "[Confidencial - Nivel D]\nA las entidades lanzadas desde CP se les asigna un número CP, y en caso de que se pierdan o escapen durante este proceso, se les otorga un número diferente."
     },
     "80XHBw": {
-        "en": "[Secret Grade: D]\nAll CP products are given a CP number. Those who get lost or escape midway are given a separate number.",
-        "pt": "[Confidencial - D]\nTodas as cobaias possuem um número de CP, exceto as fugitivas, que possuem um código diferenciado.",
-        "es": "[Grado secreto: D]\nTodos los productos de PC reciben un número de PC. Los que se pierden o escapan a mitad de camino reciben un número aparte."
+        "ko": "[실험체 관련 정보]\n#557038 벨라레\n#CP\n1~5",
+        "en": "[Experiment Subject Information]\n#557038 Bellare\n#CP\n1~5",
+        "pt": "[Informações sobre o espécime]\n#557038 Bellare\n#CP\n1~5",
+        "es": "[Información relacionada con el sujeto de experimentación]\n#557038 Bellare\n#CP\n1~5"
     },
     "9EXHBw": {
-        "en": "[Test Subject-related Info]\n#557038 Bellare\n#CP\n1 - 5",
-        "pt": "[Relatório de Experimentos]\n#557038 Bellare\n#CP\n1-5",
-        "es": "[Información relacionada con el sujeto de prueba]\nBellare #557038\n#CP\n1 - 5"
+        "ko": "[제작과정]\n신체 건장한 직업군인 남성의 신체에 현대 원거리 살상병기 이식시술. 원거리 시야 향상 및 반응속도 향상을 위한 대뇌피질개조",
+        "en": "[Production Process]\nImplantation of modern ranged lethal weapons into the body of a physically robust male from a military profession. Cerebral cortex modification to enhance long-range vision and reaction speed.",
+        "pt": "[Processo de fabricação]\nImplantação de armas modernas de ataque à distância no corpo de um homem de profissão fisicamente robusta. Modificação do córtex cerebral para aprimorar a visão de longo alcance e a velocidade de reação.",
+        "es": "[Proceso de fabricación]\nImplantación de un arma moderna de ataque a distancia en el cuerpo de un hombre físicamente robusto perteneciente a una clase militar. Modificación del córtex cerebral para mejorar la visión a larga distancia y la velocidad de reacción."
     },
     "9UXHBw": {
-        "en": "[Creation Process]\nModern projectile weapons have been added to healthy professional male soldiers. Their cerebral cortex also has been modified to improve vision and reflexes.",
-        "pt": "[Metodologia]\nImplantação de arma letal de longa distância no corpo de um forte soldado profissional. Remodelação do córtex cerebral para melhorar a visão à distância e o reflexo.",
-        "es": "[Proceso de creación]\nSe agregaron armas de proyectiles modernas a los soldados profesionales masculinos sanos. También se modificó su corteza cerebral para mejorar la visión y los reflejos."
+        "ko": "[제작목적]\n순수한 육체적 전투능력의 한계치까지 도달한 생체병기의 대량양산.",
+        "en": "[Purpose of Production]\nMass production of bioweapons that have reached the limits of pure physical combat capability.",
+        "pt": "[Objetivo de produção]\nProdução em massa de armas biológicas que atingiram o limite máximo de capacidade de combate físico puro.",
+        "es": "[Propósito de fabricación]\nProducción en masa de armas biológicas que han alcanzado el límite máximo de sus capacidades de combate físico puro."
     },
     "9kXHBw": {
-        "en": "[Creation Purpose]\nThe plan is to manufacture bio weapons with maximum physical capability.",
-        "pt": "[Objetivos]\nProdução em massa de armas biológicas com capacidade física.",
-        "es": "[Propósito de la creación]\nEl plan es fabricar armas biológicas con la máxima capacidad física."
+        "ko": "[결과]\n전투능력 우수. 반응속도 우수. 원거리 저격능력 최상급. 신체 방어능력 및 생존능력 대폭 향상",
+        "en": "[Result]\nExcellent combat ability. Excellent reaction speed. Top-tier long-range sniping capability. Greatly enhanced physical defense and survivability.",
+        "pt": "[Resultado]\nCapacidade de combate excelente. Velocidade de reação excelente. Habilidade de atirador de longa distância de nível superior. Capacidade de defesa física e sobrevivência significativamente aprimoradas.",
+        "es": "[Resultado]\nCapacidad de combate excelente. Velocidad de reacción excelente. Habilidad de francotirador a larga distancia de nivel superior. Las capacidades de defensa física y supervivencia han mejorado considerablemente."
     },
     "90XHBw": {
-        "en": "[Results]\nExcellent combat capability and reflexes. Superb sniping ability. Significant improvement in physical defense capability and survivability.",
-        "pt": "[Resultados]\nExcelente capacidade de combate, reflexos e visão de alto nível. Instinto de sobrevivência melhorado.",
-        "es": "[Resultados]\nExcelente capacidad de combate y reflejos. Excelente capacidad de francotirador. Mejora significativa de la capacidad de defensa física y la capacidad de supervivencia."
+        "ko": "[결과]\n단, 대뇌피질 개조의 부작용으로 인해 작전 투입시 피아 구분없는 살상의지가 오류로 지적됨. 개선을 시도하였으나 불가능하여 폐기처분함.",
+        "en": "[Result]\nHowever, due to the side effects of cerebral cortex modification, a malfunction was detected during operations where the subject exhibited a will to kill indiscriminately, unable to distinguish between friend and foe. Attempts were made to correct this, but it was deemed impossible, so the subject was disposed of.",
+        "pt": "[Resultado]\nNo entanto, devido aos efeitos colaterais da modificação do córtex cerebral, foi relatado um erro na identificação de aliados e inimigos durante as operações, resultando em uma vontade incontrolável de matar indiscriminadamente. Tentativas de correção foram feitas, mas como não foi possível, o projeto foi descartado.",
+        "es": "[Resultado]\nSin embargo, debido a los efectos secundarios de la modificación de la corteza cerebral, se detectó un error en la voluntad de matar sin distinguir entre aliados y enemigos durante la operación. Se intentó corregirlo, pero al ser imposible, fue desechado."
     },
     "+EXHBw": {
-        "en": "[Results]\nBut the cerebral cortex modification created adverse effects, making them unable to distinguish between friend and foe. It was impossible to address this flaw, and thus their disposal has been decided.",
-        "pt": "[Resultados]\nNo entanto, não sabe distinguir entre inimigo e aliado. Cobaias descartadas.",
-        "es": "[Resultados]\nSin embargo, la modificación de la corteza cerebral provocó efectos adversos y los incapacitó para distinguir entre amigos y enemigos. Fue imposible corregir este defecto, por lo que se decidió su eliminación."
+        "ko": "[일지#421]\n사람과 에드가의 DNA 배환이라니 이 조직은 미쳐도 단단히 미쳤다. 대체 어떤놈의 머리에서 내 놓은 아이디어냐 이건.",
+        "en": "[Log#421]\nSwapping human and Eddga DNA? This organization is completely insane. Whose twisted mind came up with this idea, anyway?",
+        "pt": "[Diário#421]\nTroca de DNA entre humanos e Eddga... essa organização está completamente louca. De quem foi a ideia absurda de fazer algo assim?",
+        "es": "[Diario#421]\nIntercambiar el ADN entre humanos y Eddga... Esta organización está completamente loca. ¿De quién fue la idea demente de hacer algo así?"
     },
     "+UXHBw": {
-        "en": "[Journal#421]\nMixing people's and Eddga's DNA? Something's seriously wrong with this organization. Who came up with this idea, anyway?",
-        "pt": "[Diário nº 421]\nMisturar DNA humano com o de um Eddga? Que tipo de gente eu estou trabalhando?",
-        "es": "[Diario#421]\n¿Mezclar el ADN de las personas con el de Eddga? Algo está muy mal en esta organización. ¿A quién se le ocurrió esta idea?"
+        "ko": "[일지#455]\n제품명 돌로르의 생산과정에서 가장 적절한 재생매개체로 몇가지 식물이 추천되었는데 도무지 그 이유를 알 수가 없는게 몇개 섞여있다.",
+        "en": "[Log#455]\nDuring the production process of the product named Dolor, several plants were recommended as the most suitable regeneration mediums, but there are a few among them whose reasons for selection I simply cannot understand.",
+        "pt": "[Diário#455]\nDurante o processo de produção do produto chamado Dolor, algumas plantas foram recomendadas como os meios de regeneração mais adequados, mas há algumas misturadas entre elas cujos motivos para a recomendação eu simplesmente não consigo entender.",
+        "es": "[Diario#455]\nDurante el proceso de producción del producto Dolor, se recomendaron varias plantas como los medios de regeneración más adecuados, pero hay algunas mezcladas entre ellas cuyo motivo de selección no logro comprender en absoluto."
     },
     "+kXHBw": {
-        "en": "[Journal#455]\nA few plants have been suggested for the regenerative properties that will be added to the product, Dolor. Some of them are perplexing.",
-        "pt": "[Diário nº 455]\nOs vegetais sugeridos para combinar o DNA para a criação do Dolor são muito fora da curva.",
-        "es": "[Diario#455]\nSe sugirieron algunas plantas por sus propiedades regenerativas que se agregarán al producto Dolor. Algunas de ellas son desconcertantes."
+        "ko": "[일지#455]\n강낭콩과 고구마 줄기를 제시한 연구원이 어떤놈인지 꼭 봐야겠다. 제시할 식물이 없어서 집에서 키우던걸 들고온 게 아닐까.",
+        "en": "[Log#455]\nI really need to see what kind of person this Researcher is, the one who presented kidney beans and sweet potato vines. Maybe they just brought whatever plants they were growing at home because they had nothing else to show.",
+        "pt": "[Diário#455]\nPreciso descobrir quem é o pesquisador que apresentou o feijão e o caule de batata-doce. Será que ele trouxe as plantas de casa porque não tinha mais nada para apresentar?",
+        "es": "[Diario#455]\nDefinitivamente tengo que averiguar quién es el investigador que presentó la judía y el tallo de batata. ¿No será que, al no tener ninguna planta para mostrar, simplemente trajo las que cultivaba en su casa?"
     },
     "+0XHBw": {
-        "en": "[Journal#455]\nI'd better find out who suggested kidney beans and sweet potato stems. He must have brought them from home because he couldn't think of any other plants to suggest.",
-        "pt": "[Diário nº 455]\nQueria saber quem foi que sugeriu talos de feijão e batata-doce. Talvez ele tenha trazido plantas de casa, porque não temos plantas aqui.",
-        "es": "[Diario#455]\nSerá mejor que averigüe quién sugirió frijoles rojos y tallos de batata. Seguramente las tenía en su casa y las trajo porque no se le ocurrió ninguna otra planta para sugerir."
+        "ko": "[일지#515]\n수석 연구원님. 프라가의 개발에 대해서는 다시한번 숙고해주시기 바랍니다.",
+        "en": "[Log#515]\nChief Researcher, please reconsider the development of Praga once again.",
+        "pt": "[Diário#515]\nCaro pesquisador-chefe, por favor, reconsidere mais uma vez o desenvolvimento de Praga.",
+        "es": "[Diario#515]\nEstimado investigador principal, le ruego que reconsidere una vez más el desarrollo de Praga."
     },
     "/EXHBw": {
-        "en": "[Journal#515]\nSenior Researcher, please reconsider Fraga's development.",
-        "pt": "[Diário nº 515]\nPesquisador-Chefe, por favor, reconsidere a pesquisa de Plaga.",
-        "es": "[Diario#515]\nInvestigador sénior, por favor reconsidere el desarrollo de Fraga."
+        "ko": "[일지#515]\n드래곤과 사람의 DNA 융합이라는것은 고결한 생명체를 더럽히는 범죄 행위에 가깝습니다.",
+        "en": "[Log#515]\nThe fusion of dragon and human DNA is an act that borders on a crime, defiling a noble lifeform.",
+        "pt": "[Diário#515]\nA fusão do DNA de dragão com o de humanos é um ato que se aproxima de um crime, pois corrompe uma criatura nobre.",
+        "es": "[Diario#515]\nLa fusión del ADN de un dragón y un humano es un acto que se asemeja más a un crimen que mancilla a una criatura noble."
     },
     "/UXHBw": {
-        "en": "[Journal#515]\nCombining a dragon's DNA with people's is all but a crime that defiles the nobility of life.",
-        "pt": "[Diário nº 515]\nA fusão do DNA de dragão com humano é um projeto antiético.",
-        "es": "[Diario#515]\nCombinar el ADN de un dragón con el de las personas es un crimen que mancilla la nobleza de la vida."
+        "ko": "[일지#515]\n완전 무결한 드래곤에 저열하기 짝이 없는 인간의 DNA 라니요!. 그건 진화가 아니라 생명체의 존엄을 바닥으로 떨구는 짓입니다!",
+        "en": "[Log#515]\nThe DNA of lowly humans in a perfectly flawless dragon? That’s not evolution—it’s an act that drags the dignity of living beings down to the lowest level!",
+        "pt": "[Diário#515]\nComo podem misturar o DNA de um dragão absolutamente perfeito com o de um humano tão inferior! Isso não é evolução, é rebaixar a dignidade de um ser vivo ao nível mais baixo!",
+        "es": "[Diario#515]\n¡¿Cómo pueden mezclar el ADN de un dragón perfecto e impecable con el de un humano tan inferior?! ¡Eso no es evolución, es rebajar la dignidad de los seres vivos al nivel más bajo!"
     },
     "/kXHBw": {
-        "en": "[Journal#515]\nWe can't sully the flawless DNA of dragons by mixing it with humans'! That's not evolution--that's a travesty!",
-        "pt": "[Diário nº 515]\nNão se combina DNA de pessoas e dragões inocentes em nome da ciência!",
-        "es": "[Diario#515]\n¡No podemos mancillar el ADN puro de los dragones con el de los humanos! Eso no es evolución- ¡es una farsa!"
+        "ko": "[일지#515]\n굳이 실험을 강행하신다면 드래곤과 발키리 정도의 등급 조율을 강력히 건의드리는 바입니다",
+        "en": "[Log#515]\nIf you insist on proceeding with the experiment, I strongly recommend adjusting the grade to at least that of a Dragon or Valkyrie.",
+        "pt": "[Diário#515]\nCaso insista em prosseguir com o experimento, recomendo fortemente ajustar o nível para algo equivalente ao de um Dragão ou uma Valquíria.",
+        "es": "[Diario#515]\nSi insiste en llevar a cabo el experimento, recomiendo encarecidamente ajustar el nivel al de un Dragón o una Valquiria."
     },
     "/0XHBw": {
-        "en": "[Journal#515]\nIf we really have to proceed with this experiment, I strongly suggest that we use Valkyries instead of humans.",
-        "pt": "[Diário nº 515]\nSe realmente querem continuar com isso, eu sugiro usar DNA das Valquírias ao invés dos Dragões.",
-        "es": "[Diario#515]\nSi realmente tenemos que proceder con este experimento, sugiero encarecidamente que utilicemos Valquirias en lugar de humanos."
+        "ko": "[시행문 A]\n최근 전투능력이 뛰어난 전투원 신체가 상당량 요구되는 바. 잠입을 강행하는 리벨리온 병력을 사살하지 않고 생포하도록 결정하였다.",
+        "en": "[Directive A]\nRecently, there has been a significant demand for combatants with exceptional combat abilities. It has been decided to capture the infiltrating Rebellion forces alive rather than kill them.",
+        "pt": "[Documento de Execução A]\nRecentemente, devido à necessidade considerável de corpos de combatentes com habilidades excepcionais em batalha, foi decidido capturar vivos, e não eliminar, as tropas de «T:Rebellion» que tentarem infiltração.",
+        "es": "[Documento A]\nRecientemente, se ha requerido una cantidad considerable de combatientes con habilidades excepcionales en batalla. Se ha decidido capturar con vida a las fuerzas de Rebellion que intenten infiltrarse, en lugar de eliminarlas."
     },
     "AEbHBw": {
-        "en": "[Operation Instructions A]\nLately, our experiment has been demanding an increasing number of the bodies of able combatants. It's been decided that we capture the members of the Rebellion who infiltrate our facility, instead of getting rid of them.",
-        "pt": "[Novas instruções A]\nPrecisamos de muito mais cobaias para os nossos experimentos. Decidimos capturar membros da Rebelião que invadirem nossas unidades, ao invés de matá-los.",
-        "es": "[Instrucciones de operación A]\nÚltimamente, nuestro experimento exige una cantidad cada vez mayor de cuerpos de combatientes aptos. Se decidió que capturemos a los miembros de la Rebelión que se infiltren en nuestras instalaciones, en lugar de deshacernos de ellos."
+        "ko": "[시행문 A]\n생포시의 신체 손상등급에 따라 CP 플랫폼에 분배할 것이며 이들에 대한 육체적인 대우는 가급적 최상의 상태를 유지할것을 권고한다.",
+        "en": "[Directive A]\nDistribution to the CP platform will be based on the degree of physical damage at the time of capture, and it is recommended to maintain their physical condition in the best possible state whenever possible.",
+        "pt": "[Documento de Execução A]\nA distribuição na plataforma CP será feita de acordo com o grau de dano físico no momento da captura, e recomenda-se que o tratamento físico destes indivíduos seja mantido, sempre que possível, nas melhores condições.",
+        "es": "[Documento A]\nLa distribución en la plataforma CP se realizará según el grado de daño físico al momento de la captura, y se recomienda mantener el mejor estado físico posible para estos individuos."
     },
     "AUbHBw": {
-        "en": "[Operation Instructions A]\nThe prisoners will be distributed across the CP platforms, depending on the damage to their bodies at the time of their capture. It's strongly recommended that you preserve their physical integrity as best as you can.",
-        "pt": "[Novas instruções A]\nÉ altamente recomendável mantê-los vivos para que possamos associar um CP a eles.",
-        "es": "[Instrucciones de operación A]\nLos prisioneros se distribuirán en las plataformas de PC, según los daños que sufrieron en el cuerpo en el momento de la captura. Se recomienda preservar su integridad física lo mejor posible."
+        "ko": "[일지#55]\n카푸트 3차 조합성공을 자축하는 치킨과 맥주 파티가 벌어졌다.",
+        "en": "[Log#55]\nA chicken and beer party was held to celebrate the successful third combination of Kaput.",
+        "pt": "[Diário#55]\nHouve uma festa de frango e cerveja para comemorar o sucesso da terceira combinação de Kaput.",
+        "es": "[Diario#55]\nSe celebró una fiesta de pollo y cerveza para conmemorar el éxito de la tercera combinación de Caput."
     },
     "AkbHBw": {
-        "en": "[Journal#55]\nWe had a chicken and beer party to celebrate our success in combining Caput for the third time.",
-        "pt": "[Diário nº 55]\nTivemos uma festa com frango e cerveja para comemorar o sucesso da 3ª combinação de Caput.",
-        "es": "[Diario#55]\nHicimos una fiesta de pollo y cerveza para celebrar nuestro éxito al combinar Caput por tercera vez."
+        "ko": "[일지#55]\n듣자하니 어느 연구동에선 맥주와 치킨이 금구라고 하는데 무슨 사연인지는 모르겠다.",
+        "en": "[Log#55]\nI heard that in one of the research buildings, beer and chicken are forbidden, but I have no idea why.",
+        "pt": "[Diário#55]\nOuvi dizer que em um dos laboratórios de pesquisa, cerveja e frango frito são proibidos, mas não faço ideia do motivo.",
+        "es": "[Diario#55]\nHe oído que en cierto laboratorio de investigación la cerveza y el pollo están prohibidos, pero no sé cuál es la razón."
     },
     "A0bHBw": {
-        "en": "[Journal#55]\nI've heard chicken and beers is banned in some lab complexes. I wonder why.",
-        "pt": "[Diário nº 55]\nOuvi falar que a cerveja e frango foram banidos do laboratório, mas não sei o motivo.",
-        "es": "[Diario#55]\nEscuché que el pollo y las cervezas están prohibidos en algunos complejos de laboratorios. Me pregunto por qué."
+        "ko": "[일지#55]\n치킨에서 날개가 3개 나온건 좀 신경 쓰인다",
+        "en": "[Log#55]\nIt bothers me a bit that the chicken had three wings.",
+        "pt": "[Diário#55]\nMe incomoda um pouco quando o frango vem com três asas.",
+        "es": "[Diario#55]\nMe molesta un poco que el pollo haya salido con tres alas."
     },
     "BEbHBw": {
-        "en": "[Journal#55]\nIt bothers me that one chicken had three wings, though.",
-        "pt": "[Diário nº 55]\nMas me incomoda o fato de um dos frangos ter três olhos.",
-        "es": "[Diario#55]\nAunque me molestó que un pollo tuviera tres alas."
+        "ko": "[일지#1223]\n인간이길 버린듯한 이 연구시설에서도 인외의 지경으로 분류되는 놈들이 있다는 이야기를 들었다.",
+        "en": "[Log#1223]\nEven in this research facility, where it seems humanity has been abandoned, I've heard there are beings classified as something beyond human.",
+        "pt": "[Diário#1223]\nMesmo neste centro de pesquisas, onde parece que todos já abandonaram sua humanidade, ouvi dizer que existem criaturas que são classificadas como algo além do humano.",
+        "es": "[Diario#1223]\nIncluso en este centro de investigación, donde parece que han abandonado su humanidad, he oído que existen criaturas que se consideran más allá de lo humano."
     },
     "BUbHBw": {
-        "en": "[Journal#1223]\nEveryone in this lab has given up on being human, and some of us are worse than the others.",
-        "pt": "[Diário nº 1223]\nTodos os pesquisadores desse lugar desistiram da sua humanidade. Alguns são piores que outros.",
-        "es": "[Diario#1223]\nTodo el mundo en este laboratorio renunció a ser humano, y algunos de nosotros somos peores que los demás."
+        "ko": "[일지#1223]\n나같은 하급 연구원들로서는 그 진위를 확인할 길이 없지만. 이른바 R 등급으로 분류되는 개체들이 있는 것 같다",
+        "en": "[Log#1223]\nAs a low-ranking Researcher like myself, there's no way for me to verify the truth. However, it seems that there are entities classified as so-called R grade.",
+        "pt": "[Diário#1223]\nPara pesquisadores de baixo nível como eu, não há como verificar a veracidade disso. No entanto, parece que existem entidades classificadas como o chamado grau R.",
+        "es": "[Diario#1223]\nPara investigadores de bajo rango como yo, no hay manera de comprobar la veracidad de esto. Sin embargo, parece que existen entidades clasificadas como de grado R."
     },
     "BkbHBw": {
-        "en": "[Journal#1223]\nI know no way of confirming this rumor, being a lowly researcher that I am, but it says that there are creatures graded R.",
-        "pt": "[Diário nº 1223]\nEu sou apenas um pesquisador júnior, mas ouvi falarem de cobaias de Rank R.",
-        "es": "[Diario#1223]\nNo tengo forma de confirmar este rumor, ya que soy un investigador de rango bajo, pero se dice que hay criaturas de grado R."
+        "ko": "[일지#1223]\n대체 어느정도의 나락으로 떨어진 개체일까...",
+        "en": "[Log#1223]\nJust how far into the abyss has this being fallen...?",
+        "pt": "[Diário#1223]\nAté que ponto esse ser caiu no abismo...",
+        "es": "[Diario#1223]\n¿Hasta qué punto habrá caído este ser en la perdición...?"
     },
     "B0bHBw": {
-        "en": "[Journal#1223]\nHow terrible are these R creatures?",
-        "pt": "[Diário nº 1223]\nO quão poderosas seriam essas cobaias de rank R...?",
-        "es": "[Diario#1223]\n¿Cuán terribles son estas criaturas R?"
+        "ko": "[일지#876]\nA 등급의 개체를 연구소 바깥에 방출한다는 소식을 전해들었다. 실제 야전 생존실험을 겸한다고 하는데 왠지 예감이 좋지않다.",
+        "en": "[Log#876]\nI heard that an A-rank specimen will be released outside the laboratory. They say it's also meant to serve as a real field survival experiment, but I have a bad feeling about this.",
+        "pt": "[Diário#876]\nOuvi dizer que uma criatura de classe A será liberada fora do laboratório. Dizem que isso faz parte de um experimento de sobrevivência em campo real, mas tenho um pressentimento ruim sobre isso.",
+        "es": "[Diario#876]\nHe oído que van a liberar una entidad de grado A fuera del laboratorio. Dicen que también servirá como un experimento de supervivencia en el campo real, pero tengo un mal presentimiento al respecto."
     },
     "CEbHBw": {
-        "en": "[Journal#876]\nI've heard that Grade A creatures will be released outside the lab, to test their field survivability, among other things. I have a bad feeling about this.",
-        "pt": "[Diário nº 876]\nOuvi dizer que vão soltar cobaias Rank A para fora do laboratório, para adquirirem experiência de sobrevivência em campo, mas tenho um mau pressentimento nisso.",
-        "es": "[Diario#876]\nEscuché que las criaturas de grado A se soltarán fuera del laboratorio, para probar su capacidad de supervivencia en el campo, entre otras cosas. Tengo un mal presentimiento."
+        "ko": "[일지#752]\n언데드 좋아~",
+        "en": "[Log#752]\nI love Undead~",
+        "pt": "[Diário#752]\nEu adoro mortos-vivos~",
+        "es": "[Diario#752]\n¡Me encantan los no-muertos~!"
     },
     "CUbHBw": {
-        "en": "[Journal#752]\nI love the undead!",
-        "pt": "[Diário nº 752]\nEu amo mortos-vivos~",
-        "es": "[Diario#752]\n¡Me encantan los muertos vivientes!"
+        "ko": "^0000FF특이한 취향을 가진 연구원인듯 하다^000000",
+        "en": "^0000FFSeems to be a Researcher with unusual tastes^000000",
+        "pt": "^0000FFParece ser um pesquisador com gostos peculiares^000000",
+        "es": "^0000FFParece ser un investigador con gustos peculiares^000000"
     },
     "CkbHBw": {
-        "en": "^0000FFThis researcher seems to have peculiar taste.^000000",
-        "pt": "^0000CDEsse pesquisador parece ter gostos duvidosos^000000",
-        "es": "^FF0000Este investigador parece tener un gusto peculiar.^000000"
-    },
-    "C0bHBw": {
-        "en": "[Journal#1153]\nRumor has it that there's an even more secret research facility across the central railroad tracks. I'm going to go over there tonight.",
-        "pt": "[Diário nº 1153]\nOuvi rumores de que há uma unidade chamada Amicitia mais fundo daqui.",
-        "es": "[Diario#1153]\nDicen que hay un laboratorio aún más secreto del otro lado de las vías del tren central. Iré allí esta noche."
+        "ko": "[일지#1153]\n중앙 철로 너머에 한단계 높은 기밀의 연구시설이 존재한다는 소문을 들었다. 오늘 밤에 철로를 넘어 볼 예정이다.",
+        "en": "[Log#1153]\nI heard a rumor that there is a higher-level classified research facility beyond the central railway. Tonight, I plan to cross the tracks and check it out.",
+        "pt": "[Diário#1153]\nOuvi um boato de que existe uma instalação de pesquisa de nível ainda mais alto de sigilo além da ferrovia central. Pretendo atravessar a ferrovia esta noite para conferir.",
+        "es": "[Diario#1153]\nHe escuchado rumores de que, más allá de la vía central, existe una instalación de investigación de un nivel de confidencialidad aún mayor. Esta noche planeo cruzar la vía para comprobarlo."
     }
 }

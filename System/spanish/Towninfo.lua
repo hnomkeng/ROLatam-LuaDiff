@@ -37,31 +37,31 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 154,
 			Y = 187,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 282,
 			Y = 208,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 29,
 			Y = 200,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 160,
 			Y = 29,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 159,
 			Y = 326,
 			TYPE = 4
@@ -79,7 +79,7 @@ mapNPCInfoTable = {
 			TYPE = 1
 		},
 		{
-			name = "RefinerÃ­a",
+			name = "Refinería",
 			X = 178,
 			Y = 186,
 			TYPE = 3
@@ -147,19 +147,19 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 129,
 			Y = 175,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 133,
 			Y = 113,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 120,
 			Y = 206,
 			TYPE = 4
@@ -171,7 +171,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "RefinerÃ­a",
+			name = "Refinería",
 			X = 158,
 			Y = 128,
 			TYPE = 3
@@ -191,25 +191,25 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 203,
 			Y = 116,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 118,
 			Y = 62,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 36,
 			Y = 123,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 123,
 			Y = 203,
 			TYPE = 4
@@ -227,7 +227,7 @@ mapNPCInfoTable = {
 			TYPE = 1
 		},
 		{
-			name = "RefinerÃ­a",
+			name = "Refinería",
 			X = 182,
 			Y = 59,
 			TYPE = 3
@@ -247,25 +247,25 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 139,
 			Y = 63,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 243,
 			Y = 143,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 135,
 			Y = 243,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 36,
 			Y = 135,
 			TYPE = 4
@@ -297,25 +297,25 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 160,
 			Y = 67,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 151,
 			Y = 182,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 221,
 			Y = 85,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 233,
 			Y = 324,
 			TYPE = 4
@@ -333,7 +333,7 @@ mapNPCInfoTable = {
 			TYPE = 1
 		},
 		{
-			name = "RefinerÃ­a",
+			name = "Refinería",
 			X = 144,
 			Y = 173,
 			TYPE = 3
@@ -353,7 +353,7 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 86,
 			Y = 33,
 			TYPE = 4
@@ -379,25 +379,25 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 153,
 			Y = 286,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 154,
 			Y = 38,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 296,
 			Y = 213,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 28,
 			Y = 170,
 			TYPE = 4
@@ -409,7 +409,7 @@ mapNPCInfoTable = {
 			TYPE = 1
 		},
 		{
-			name = "RefinerÃ­a",
+			name = "Refinería",
 			X = 47,
 			Y = 47,
 			TYPE = 3
@@ -435,19 +435,19 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 154,
 			Y = 53,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 70,
 			Y = 164,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 65,
 			Y = 44,
 			TYPE = 4
@@ -479,19 +479,19 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 23,
 			Y = 238,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 184,
 			Y = 143,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 123,
 			Y = 59,
 			TYPE = 4
@@ -509,7 +509,7 @@ mapNPCInfoTable = {
 			TYPE = 1
 		},
 		{
-			name = "RefinerÃ­a",
+			name = "Refinería",
 			X = 35,
 			Y = 41,
 			TYPE = 3
@@ -547,13 +547,13 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 150,
 			Y = 122,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 59,
 			Y = 212,
 			TYPE = 4
@@ -571,13 +571,13 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "RefinerÃ­a",
+			name = "Refinería",
 			X = 120,
 			Y = 138,
 			TYPE = 3
 		},
 		{
-			name = "MuniÃ§Ãµes",
+			name = "Munições",
 			X = 205,
 			Y = 103,
 			TYPE = 1
@@ -597,25 +597,25 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 322,
 			Y = 178,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 197,
 			Y = 149,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 37,
 			Y = 219,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 181,
 			Y = 347,
 			TYPE = 4
@@ -647,25 +647,25 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 72,
 			Y = 202,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 155,
 			Y = 43,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 252,
 			Y = 320,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 162,
 			Y = 317,
 			TYPE = 4
@@ -677,7 +677,7 @@ mapNPCInfoTable = {
 			TYPE = 1
 		},
 		{
-			name = "RefinerÃ­a",
+			name = "Refinería",
 			X = 255,
 			Y = 109,
 			TYPE = 3
@@ -697,13 +697,13 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 67,
 			Y = 37,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 48,
 			Y = 214,
 			TYPE = 4
@@ -735,31 +735,31 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 207,
 			Y = 310,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 220,
 			Y = 311,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 154,
 			Y = 100,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 247,
 			Y = 82,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 307,
 			Y = 224,
 			TYPE = 4
@@ -797,13 +797,13 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 98,
 			Y = 56,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 187,
 			Y = 172,
 			TYPE = 4
@@ -835,7 +835,7 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 138,
 			Y = 146,
 			TYPE = 4
@@ -873,13 +873,13 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 210,
 			Y = 345,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 189,
 			Y = 101,
 			TYPE = 4
@@ -911,7 +911,7 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 219,
 			Y = 97,
 			TYPE = 4
@@ -943,13 +943,13 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 202,
 			Y = 106,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 197,
 			Y = 184,
 			TYPE = 4
@@ -987,19 +987,19 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 71,
 			Y = 72,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 250,
 			Y = 83,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 224,
 			Y = 204,
 			TYPE = 4
@@ -1031,7 +1031,7 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 224,
 			Y = 104,
 			TYPE = 4
@@ -1057,13 +1057,13 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 203,
 			Y = 169,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 146,
 			Y = 86,
 			TYPE = 4
@@ -1089,13 +1089,13 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 161,
 			Y = 76,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 226,
 			Y = 191,
 			TYPE = 4
@@ -1133,7 +1133,7 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 202,
 			Y = 91,
 			TYPE = 4
@@ -1159,7 +1159,7 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 163,
 			Y = 60,
 			TYPE = 4
@@ -1191,13 +1191,13 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 128,
 			Y = 94,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 99,
 			Y = 158,
 			TYPE = 4
@@ -1223,7 +1223,7 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 201,
 			Y = 187,
 			TYPE = 4
@@ -1281,7 +1281,7 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 189,
 			Y = 191,
 			TYPE = 4
@@ -1295,7 +1295,7 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 218,
 			Y = 101,
 			TYPE = 4
@@ -1313,7 +1313,7 @@ mapNPCInfoTable = {
 			TYPE = 5
 		},
 		{
-			name = "RefinerÃ­a",
+			name = "Refinería",
 			X = 224,
 			Y = 172,
 			TYPE = 3
@@ -1327,7 +1327,7 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 140,
 			Y = 137,
 			TYPE = 4
@@ -1373,19 +1373,19 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 129,
 			Y = 175,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 133,
 			Y = 113,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 120,
 			Y = 206,
 			TYPE = 4
@@ -1397,7 +1397,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "RefinerÃ­a",
+			name = "Refinería",
 			X = 162,
 			Y = 125,
 			TYPE = 3
@@ -1411,19 +1411,19 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 129,
 			Y = 175,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 133,
 			Y = 113,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 120,
 			Y = 206,
 			TYPE = 4
@@ -1435,7 +1435,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "RefinerÃ­a",
+			name = "Refinería",
 			X = 162,
 			Y = 125,
 			TYPE = 3
@@ -1449,19 +1449,19 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 129,
 			Y = 175,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 133,
 			Y = 113,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 120,
 			Y = 206,
 			TYPE = 4
@@ -1473,7 +1473,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "RefinerÃ­a",
+			name = "Refinería",
 			X = 162,
 			Y = 125,
 			TYPE = 3
@@ -1487,19 +1487,19 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 129,
 			Y = 175,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 133,
 			Y = 113,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 120,
 			Y = 206,
 			TYPE = 4
@@ -1511,7 +1511,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "RefinerÃ­a",
+			name = "Refinería",
 			X = 162,
 			Y = 125,
 			TYPE = 3
@@ -1531,7 +1531,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 176,
 			Y = 160,
 			TYPE = 4
@@ -1603,13 +1603,13 @@ mapNPCInfoTable = {
 			TYPE = 5
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 356,
 			Y = 211,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 80,
 			Y = 211,
 			TYPE = 4
@@ -1653,31 +1653,31 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 252,
 			Y = 300,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 299,
 			Y = 67,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 71,
 			Y = 20,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 24,
 			Y = 256,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 161,
 			Y = 171,
 			TYPE = 4
@@ -1739,31 +1739,31 @@ mapNPCInfoTable = {
 			TYPE = 6
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 252,
 			Y = 300,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 299,
 			Y = 67,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 71,
 			Y = 20,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 24,
 			Y = 256,
 			TYPE = 4
 		},
 		{
-			name = "GuÃ­a",
+			name = "Guía",
 			X = 161,
 			Y = 171,
 			TYPE = 4

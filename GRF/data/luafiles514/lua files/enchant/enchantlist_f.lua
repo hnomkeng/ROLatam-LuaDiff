@@ -22,14 +22,14 @@ function CreateEnchantInfo()
 	end
 	function EnchantInfo:SetSlotOrder(...)
 		if #arg < 1 or MAX_SLOT_NUM < #arg then
-			self:SetFailed("SetSlotOrder", "ì¸ìì˜ ê°œìˆ˜ëŠ” 1ê°œì—ì„œ " .. MAX_SLOT_NUM .. "ê°œ ì‚¬ì´ì–´ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetSlotOrder", "ÀÎÀÚÀÇ °³¼ö´Â 1°³¿¡¼­ " .. MAX_SLOT_NUM .. "°³ »çÀÌ¾î¾ß ÇÕ´Ï´Ù.")
 		end
 		self.SlotOrder = {}
 		for i, v in ipairs(arg) do
 			if type(v) ~= "number" then
-				self:SetFailed("SetSlotOrder", i .. "ë²ˆì§¸ ê°’ì€ ìˆ«ìì—¬ì•¼ í•©ë‹ˆë‹¤.")
+				self:SetFailed("SetSlotOrder", i .. "¹øÂ° °ªÀº ¼ıÀÚ¿©¾ß ÇÕ´Ï´Ù.")
 			elseif v < 0 or v > MAX_SLOT_NUM - 1 then
-				self:SetFailed("SetSlotOrder", i .. "ë²ˆì§¸ ê°’ì€ 0ì—ì„œ " .. MAX_SLOT_NUM - 1 .. "ì‚¬ì´ì–´ì•¼ í•©ë‹ˆë‹¤.")
+				self:SetFailed("SetSlotOrder", i .. "¹øÂ° °ªÀº 0¿¡¼­ " .. MAX_SLOT_NUM - 1 .. "»çÀÌ¾î¾ß ÇÕ´Ï´Ù.")
 			end
 			table.insert(self.SlotOrder, v)
 		end
@@ -39,13 +39,13 @@ function CreateEnchantInfo()
 	end
 	function EnchantInfo:AddTargetItem(in_targetItem)
 		if nil == self.SlotOrder then
-			self:SetFailed("AddTargetItem", "SetSlotOrder í•¨ìˆ˜ê°€ ë¨¼ì € í˜¸ì¶œë˜ì–´ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("AddTargetItem", "SetSlotOrder ÇÔ¼ö°¡ ¸ÕÀú È£ÃâµÇ¾î¾ß ÇÕ´Ï´Ù.")
 		end
 		if type(in_targetItem) ~= "string" then
-			self:SetFailed("AddTargetItem", "ê°’ì€ ë¬¸ìì—´ì´ì–´ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("AddTargetItem", "°ªÀº ¹®ÀÚ¿­ÀÌ¾î¾ß ÇÕ´Ï´Ù.")
 		end
 		if nil ~= table.find(GlobalTargetItemTbl, in_targetItem) then
-			self:SetFailed("AddTargetItem", "[ " .. in_targetItem .. " ]ì€ ì¤‘ë³µëœ ëŒ€ìƒ ì•„ì´í…œì…ë‹ˆë‹¤.")
+			self:SetFailed("AddTargetItem", "[ " .. in_targetItem .. " ]Àº Áßº¹µÈ ´ë»ó ¾ÆÀÌÅÛÀÔ´Ï´Ù.")
 		else
 			table.insert(GlobalTargetItemTbl, in_targetItem)
 		end
@@ -53,7 +53,7 @@ function CreateEnchantInfo()
 		if 0 < slotCount then
 			for k, slotNum in pairs(EnchantInfo.SlotOrder) do
 				if slotNum < slotCount then
-					EnchantInfo:SetFailed("AddTargetItem", "[ " .. in_targetItem .. " ] í™œì„±í™” ëœ ìŠ¬ë¡¯ì—ëŠ” ì¸ì±ˆíŠ¸ë¥¼ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤. í•´ë‹¹ ì•„ì´í…œì˜ ìŠ¬ë¡¯ ê°œìˆ˜ë¥¼ í™•ì¸í•´ì£¼ì„¸ìš”.")
+					EnchantInfo:SetFailed("AddTargetItem", "[ " .. in_targetItem .. " ] È°¼ºÈ­ µÈ ½½·Ô¿¡´Â ÀÎÃ¦Æ®¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù. ÇØ´ç ¾ÆÀÌÅÛÀÇ ½½·Ô °³¼ö¸¦ È®ÀÎÇØÁÖ¼¼¿ä.")
 				end
 			end
 		end
@@ -62,72 +62,72 @@ function CreateEnchantInfo()
 	end
 	function EnchantInfo:AddTargetItem_Duplicate(in_targetItem)
 		if nil == self.SlotOrder then
-			self:SetFailed("AddTargetItem", "SetSlotOrder í•¨ìˆ˜ê°€ ë¨¼ì € í˜¸ì¶œë˜ì–´ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("AddTargetItem", "SetSlotOrder ÇÔ¼ö°¡ ¸ÕÀú È£ÃâµÇ¾î¾ß ÇÕ´Ï´Ù.")
 		end
 		if type(in_targetItem) ~= "string" then
-			self:SetFailed("AddTargetItem", "ê°’ì€ ë¬¸ìì—´ì´ì–´ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("AddTargetItem", "°ªÀº ¹®ÀÚ¿­ÀÌ¾î¾ß ÇÕ´Ï´Ù.")
 		end
 		local slotCount = C_GetSlotCount(in_targetItem)
 		if 0 < slotCount then
 			for k, slotNum in pairs(EnchantInfo.SlotOrder) do
 				if slotNum < slotCount then
-					EnchantInfo:SetFailed("AddTargetItem", "[ " .. in_targetItem .. " ] í™œì„±í™” ëœ ìŠ¬ë¡¯ì—ëŠ” ì¸ì±ˆíŠ¸ë¥¼ í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤. í•´ë‹¹ ì•„ì´í…œì˜ ìŠ¬ë¡¯ ê°œìˆ˜ë¥¼ í™•ì¸í•´ì£¼ì„¸ìš”.")
+					EnchantInfo:SetFailed("AddTargetItem", "[ " .. in_targetItem .. " ] È°¼ºÈ­ µÈ ½½·Ô¿¡´Â ÀÎÃ¦Æ®¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù. ÇØ´ç ¾ÆÀÌÅÛÀÇ ½½·Ô °³¼ö¸¦ È®ÀÎÇØÁÖ¼¼¿ä.")
 				end
 			end
 		end
 		self.TargetItemTbl = self.TargetItemTbl or {}
 		if nil ~= table.find(self.TargetItemTbl, in_targetItem) then
-			self:SetFailed("ê°™ì€ í…Œì´ë¸” ë‚´ì— AddTargetItem_Duplicate", "[ " .. in_targetItem .. " ] ì•„ì´í…œì´ ìˆìŠµë‹ˆë‹¤.")
+			self:SetFailed("°°Àº Å×ÀÌºí ³»¿¡ AddTargetItem_Duplicate", "[ " .. in_targetItem .. " ] ¾ÆÀÌÅÛÀÌ ÀÖ½À´Ï´Ù.")
 		end
 		table.insert(self.TargetItemTbl, in_targetItem)
 	end
 	function EnchantInfo:SetCondition(in_minRefine, in_minGrade)
 		if type(in_minRefine) ~= "number" then
-			self:SetFailed("SetCondition", "1ë²ˆì§¸ ê°’[ìµœì†Œ ì œë ¨ë„]ì€ ìˆ«ìì—¬ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetCondition", "1¹øÂ° °ª[ÃÖ¼Ò Á¦·Ãµµ]Àº ¼ıÀÚ¿©¾ß ÇÕ´Ï´Ù.")
 		elseif type(in_minGrade) ~= "number" then
-			self:SetFailed("SetCondition", "2ë²ˆì§¸ ê°’[ìµœì†Œ ë“±ê¸‰]ì€ ìˆ«ìì—¬ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetCondition", "2¹øÂ° °ª[ÃÖ¼Ò µî±Ş]Àº ¼ıÀÚ¿©¾ß ÇÕ´Ï´Ù.")
 		end
 		if in_minRefine < 0 or in_minRefine > MAX_REFINE_LEVEL then
-			self:SetFailed("SetCondition", "1ë²ˆì§¸ ê°’[ìµœì†Œ ì œë ¨ë„]ì€ 0ê³¼ " .. MAX_REFINE_LEVEL .. "ì‚¬ì´ì–´ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetCondition", "1¹øÂ° °ª[ÃÖ¼Ò Á¦·Ãµµ]Àº 0°ú " .. MAX_REFINE_LEVEL .. "»çÀÌ¾î¾ß ÇÕ´Ï´Ù.")
 		elseif in_minGrade < 0 or in_minGrade > MAX_GRADE_LEVEL then
-			self:SetFailed("SetCondition", "2ë²ˆì§¸ ê°’[ìµœì†Œ ë“±ê¸‰]ì€ 0ê³¼ " .. MAX_GRADE_LEVEL .. "ì‚¬ì´ì–´ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetCondition", "2¹øÂ° °ª[ÃÖ¼Ò µî±Ş]Àº 0°ú " .. MAX_GRADE_LEVEL .. "»çÀÌ¾î¾ß ÇÕ´Ï´Ù.")
 		end
 		local tbl = {MinRefine = in_minRefine, MinGrade = in_minGrade}
 		self.Condition = tbl
 	end
 	function EnchantInfo:ApproveRandomOption(in_check)
 		if type(in_check) ~= "boolean" then
-			self:SetFailed("ApproveRandomOption", "ì¸ìëŠ” true í˜¹ì€ falseì—¬ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("ApproveRandomOption", "ÀÎÀÚ´Â true È¤Àº false¿©¾ß ÇÕ´Ï´Ù.")
 		end
 		self.bApproveRandomOpt = in_check
 	end
 	function EnchantInfo:SetReset(in_bReset, in_Rate, in_Zeny, ...)
 		if type(in_bReset) ~= "boolean" then
-			self:SetFailed("SetReset", "1ë²ˆì§¸ ê°’ì€ true í˜¹ì€ falseì—¬ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetReset", "1¹øÂ° °ªÀº true È¤Àº false¿©¾ß ÇÕ´Ï´Ù.")
 		elseif type(in_Rate) ~= "number" then
-			self:SetFailed("SetReset", "2ë²ˆì§¸ ê°’ì€ ìˆ«ìì—¬ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetReset", "2¹øÂ° °ªÀº ¼ıÀÚ¿©¾ß ÇÕ´Ï´Ù.")
 		elseif type(in_Zeny) ~= "number" then
-			self:SetFailed("SetReset", "3ë²ˆì§¸ ê°’ì€ ìˆ«ìì—¬ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetReset", "3¹øÂ° °ªÀº ¼ıÀÚ¿©¾ß ÇÕ´Ï´Ù.")
 		end
 		if in_Rate < 0 or 100000 < in_Rate then
-			self:SetFailed("SetReset", "2ë²ˆì§¸ ê°’ì€ 0ì—ì„œ 100000ì‚¬ì´ì–´ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetReset", "2¹øÂ° °ªÀº 0¿¡¼­ 100000»çÀÌ¾î¾ß ÇÕ´Ï´Ù.")
 		end
 		if type(in_Zeny) ~= "number" then
-			self:SetFailed("SetReset", "3ë²ˆì§¸ ê°’ì€ ìˆ«ìì—¬ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetReset", "3¹øÂ° °ªÀº ¼ıÀÚ¿©¾ß ÇÕ´Ï´Ù.")
 		elseif in_Zeny < 0 then
-			self:SetFailed("SetReset", "3ë²ˆì§¸ ê°’ì€ 0ë³´ë‹¤ ì»¤ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetReset", "3¹øÂ° °ªÀº 0º¸´Ù Ä¿¾ß ÇÕ´Ï´Ù.")
 		end
 		if MAX_MATERIAL_NUM < #arg then
-			self:SetFailed("SetReset", "ì¬ë£ŒëŠ” " .. MAX_MATERIAL_NUM .. "ì¢… ì´í•˜ì—¬ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetReset", "Àç·á´Â " .. MAX_MATERIAL_NUM .. "Á¾ ÀÌÇÏ¿©¾ß ÇÕ´Ï´Ù.")
 		end
 		local tempMatTbl = {}
 		for i, matInfo in ipairs(arg) do
 			if type(matInfo) ~= "table" then
-				self:SetFailed("SetReset", "ì¬ë£ŒëŠ” í…Œì´ë¸” í˜•ì‹ìœ¼ë¡œ ì‘ì„±ë˜ì–´ì•¼ í•©ë‹ˆë‹¤.")
+				self:SetFailed("SetReset", "Àç·á´Â Å×ÀÌºí Çü½ÄÀ¸·Î ÀÛ¼ºµÇ¾î¾ß ÇÕ´Ï´Ù.")
 			elseif type(matInfo[1]) ~= "string" then
-				self:SetFailed("SetReset", "ì¬ë£Œ ëª©ë¡ì´ ì˜ëª» ì‘ì„±ë˜ì—ˆìŠµë‹ˆë‹¤.")
+				self:SetFailed("SetReset", "Àç·á ¸ñ·ÏÀÌ Àß¸ø ÀÛ¼ºµÇ¾ú½À´Ï´Ù.")
 			elseif type(matInfo[2]) ~= "number" then
-				self:SetFailed("SetReset", "ì¬ë£Œ ëª©ë¡ì´ ì˜ëª» ì‘ì„±ë˜ì—ˆìŠµë‹ˆë‹¤.")
+				self:SetFailed("SetReset", "Àç·á ¸ñ·ÏÀÌ Àß¸ø ÀÛ¼ºµÇ¾ú½À´Ï´Ù.")
 			end
 			tempMatTbl[matInfo[1]] = matInfo[2]
 		end
@@ -141,7 +141,7 @@ function CreateEnchantInfo()
 	end
 	function EnchantInfo:SetCaution(in_msg)
 		if type(in_msg) ~= "string" then
-			self:SetFailed("SetCaution", "ê°’ì€ ë¬¸ìì—´ì´ì–´ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetCaution", "°ªÀº ¹®ÀÚ¿­ÀÌ¾î¾ß ÇÕ´Ï´Ù.")
 		end
 		self.CautionMsg = in_msg
 	end
@@ -168,21 +168,21 @@ function CreateSlotInfo()
 	end
 	function SlotInfo:SetRequire(in_Zeny, ...)
 		if type(in_Zeny) ~= "number" then
-			self:SetFailed("SetRequire", "1ë²ˆì§¸ ê°’ì€ ìˆ«ìì—¬ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetRequire", "1¹øÂ° °ªÀº ¼ıÀÚ¿©¾ß ÇÕ´Ï´Ù.")
 		elseif in_Zeny < 0 then
-			self:SetFailed("SetRequire", "1ë²ˆì§¸ ê°’ì€ 0ë³´ë‹¤ ì»¤ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetRequire", "1¹øÂ° °ªÀº 0º¸´Ù Ä¿¾ß ÇÕ´Ï´Ù.")
 		end
 		if MAX_MATERIAL_NUM < #arg then
-			self:SetFailed("SetRequire", "ì¬ë£ŒëŠ” " .. MAX_MATERIAL_NUM .. "ì¢… ì´í•˜ì—¬ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetRequire", "Àç·á´Â " .. MAX_MATERIAL_NUM .. "Á¾ ÀÌÇÏ¿©¾ß ÇÕ´Ï´Ù.")
 		end
 		local tempMatTbl = {}
 		for i, matInfo in ipairs(arg) do
 			if type(matInfo) ~= "table" then
-				self:SetFailed("SetRequire", "ì¬ë£ŒëŠ” í…Œì´ë¸” í˜•ì‹ìœ¼ë¡œ ì‘ì„±ë˜ì–´ì•¼ í•©ë‹ˆë‹¤.")
+				self:SetFailed("SetRequire", "Àç·á´Â Å×ÀÌºí Çü½ÄÀ¸·Î ÀÛ¼ºµÇ¾î¾ß ÇÕ´Ï´Ù.")
 			elseif type(matInfo[1]) ~= "string" then
-				self:SetFailed("SetRequire", "ì¬ë£Œ ëª©ë¡ì´ ì˜ëª» ì‘ì„±ë˜ì—ˆìŠµë‹ˆë‹¤.")
+				self:SetFailed("SetRequire", "Àç·á ¸ñ·ÏÀÌ Àß¸ø ÀÛ¼ºµÇ¾ú½À´Ï´Ù.")
 			elseif type(matInfo[2]) ~= "number" then
-				self:SetFailed("SetRequire", "ì¬ë£Œ ëª©ë¡ì´ ì˜ëª» ì‘ì„±ë˜ì—ˆìŠµë‹ˆë‹¤.")
+				self:SetFailed("SetRequire", "Àç·á ¸ñ·ÏÀÌ Àß¸ø ÀÛ¼ºµÇ¾ú½À´Ï´Ù.")
 			end
 			tempMatTbl[matInfo[1]] = matInfo[2]
 		end
@@ -192,38 +192,38 @@ function CreateSlotInfo()
 	end
 	function SlotInfo:SetSuccessRate(in_successRate)
 		if type(in_successRate) ~= "number" then
-			self:SetFailed("SetSuccessRate", "ê°’ì€ ìˆ«ìì—¬ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetSuccessRate", "°ªÀº ¼ıÀÚ¿©¾ß ÇÕ´Ï´Ù.")
 		elseif in_successRate < 0 or 100000 < in_successRate then
-			self:SetFailed("SetSuccessRate", "ê°’ì€ 0ì—ì„œ 100000ì‚¬ì´ì–´ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetSuccessRate", "°ªÀº 0¿¡¼­ 100000»çÀÌ¾î¾ß ÇÕ´Ï´Ù.")
 		end
 		self.SuccessRate = in_successRate
 	end
 	function SlotInfo:SetGradeBonus(in_Grade, in_bonusRate)
 		if type(in_Grade) ~= "number" then
-			self:SetFailed("SetGradeBonus", "1ë²ˆì§¸ ê°’ì€ ìˆ«ìì—¬ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetGradeBonus", "1¹øÂ° °ªÀº ¼ıÀÚ¿©¾ß ÇÕ´Ï´Ù.")
 		elseif type(in_bonusRate) ~= "number" then
-			self:SetFailed("SetGradeBonus", "2ë²ˆì§¸ ê°’ì€ ìˆ«ìì—¬ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetGradeBonus", "2¹øÂ° °ªÀº ¼ıÀÚ¿©¾ß ÇÕ´Ï´Ù.")
 		end
 		if in_Grade < 0 or in_Grade > MAX_GRADE_LEVEL then
-			self:SetFailed("SetGradeBonus", "1ë²ˆì§¸ ê°’ì€ 0ê³¼ " .. MAX_GRADE_LEVEL .. "ì‚¬ì´ì–´ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetGradeBonus", "1¹øÂ° °ªÀº 0°ú " .. MAX_GRADE_LEVEL .. "»çÀÌ¾î¾ß ÇÕ´Ï´Ù.")
 		elseif in_bonusRate < 0 or 100000 < in_bonusRate then
-			self:SetFailed("SetGradeBonus", "2ë²ˆì§¸ ê°’ì€ 0ì—ì„œ 100000ì‚¬ì´ì–´ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetGradeBonus", "2¹øÂ° °ªÀº 0¿¡¼­ 100000»çÀÌ¾î¾ß ÇÕ´Ï´Ù.")
 		end
 		self.GradeBonusTbl = self.GradeBonusTbl or {}
 		self.GradeBonusTbl[in_Grade] = in_bonusRate
 	end
 	function SlotInfo:SetEnchant(in_Grade, in_ItemDB, in_Rate)
 		if type(in_Grade) ~= "number" then
-			self:SetFailed("SetEnchant", "1ë²ˆì§¸ ê°’ì€ ìˆ«ìì—¬ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetEnchant", "1¹øÂ° °ªÀº ¼ıÀÚ¿©¾ß ÇÕ´Ï´Ù.")
 		elseif type(in_ItemDB) ~= "string" then
-			self:SetFailed("SetEnchant", "2ë²ˆì§¸ ê°’ì€ ë¬¸ìì—´ì´ì–´ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetEnchant", "2¹øÂ° °ªÀº ¹®ÀÚ¿­ÀÌ¾î¾ß ÇÕ´Ï´Ù.")
 		elseif type(in_Rate) ~= "number" then
-			self:SetFailed("SetEnchant", "3ë²ˆì§¸ ê°’ì€ ìˆ«ìì—¬ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetEnchant", "3¹øÂ° °ªÀº ¼ıÀÚ¿©¾ß ÇÕ´Ï´Ù.")
 		end
 		if in_Grade < 0 or in_Grade > MAX_GRADE_LEVEL then
-			self:SetFailed("SetEnchant", "1ë²ˆì§¸ ê°’ì€ 0ê³¼ " .. MAX_GRADE_LEVEL .. "ì‚¬ì´ì–´ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetEnchant", "1¹øÂ° °ªÀº 0°ú " .. MAX_GRADE_LEVEL .. "»çÀÌ¾î¾ß ÇÕ´Ï´Ù.")
 		elseif in_Rate < 0 or 100000 < in_Rate then
-			self:SetFailed("SetEnchant", "3ë²ˆì§¸ ê°’ì€ 0ì—ì„œ 100000ì‚¬ì´ì–´ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetEnchant", "3¹øÂ° °ªÀº 0¿¡¼­ 100000»çÀÌ¾î¾ß ÇÕ´Ï´Ù.")
 		end
 		self.EnchantRateTbl = self.EnchantRateTbl or {}
 		self.EnchantRateTbl[in_Grade] = self.EnchantRateTbl[in_Grade] or {}
@@ -231,24 +231,24 @@ function CreateSlotInfo()
 	end
 	function SlotInfo:AddPerfectEnchant(in_ItemDB, in_Zeny, ...)
 		if type(in_ItemDB) ~= "string" then
-			self:SetFailed("AddPerfectEnchant", "1ë²ˆì§¸ ê°’ì€ ë¬¸ìì—´ì´ì–´ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("AddPerfectEnchant", "1¹øÂ° °ªÀº ¹®ÀÚ¿­ÀÌ¾î¾ß ÇÕ´Ï´Ù.")
 		elseif type(in_Zeny) ~= "number" then
-			self:SetFailed("AddPerfectEnchant", "2ë²ˆì§¸ ê°’ì€ ìˆ«ìì—¬ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("AddPerfectEnchant", "2¹øÂ° °ªÀº ¼ıÀÚ¿©¾ß ÇÕ´Ï´Ù.")
 		end
 		if in_Zeny < 0 then
-			self:SetFailed("AddPerfectEnchant", "2ë²ˆì§¸ ê°’ì€ 0ë³´ë‹¤ ì»¤ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("AddPerfectEnchant", "2¹øÂ° °ªÀº 0º¸´Ù Ä¿¾ß ÇÕ´Ï´Ù.")
 		end
 		if MAX_MATERIAL_NUM < #arg then
-			self:SetFailed("AddPerfectEnchant", "ì¬ë£ŒëŠ” " .. MAX_MATERIAL_NUM .. "ì¢… ì´í•˜ì—¬ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("AddPerfectEnchant", "Àç·á´Â " .. MAX_MATERIAL_NUM .. "Á¾ ÀÌÇÏ¿©¾ß ÇÕ´Ï´Ù.")
 		end
 		local tempMatTbl = {}
 		for i, matInfo in ipairs(arg) do
 			if type(matInfo) ~= "table" then
-				self:SetFailed("AddPerfectEnchant", "ì¬ë£ŒëŠ” í…Œì´ë¸” í˜•ì‹ìœ¼ë¡œ ì‘ì„±ë˜ì–´ì•¼ í•©ë‹ˆë‹¤.")
+				self:SetFailed("AddPerfectEnchant", "Àç·á´Â Å×ÀÌºí Çü½ÄÀ¸·Î ÀÛ¼ºµÇ¾î¾ß ÇÕ´Ï´Ù.")
 			elseif type(matInfo[1]) ~= "string" then
-				self:SetFailed("AddPerfectEnchant", "ì¬ë£Œ ëª©ë¡ì´ ì˜ëª» ì‘ì„±ë˜ì—ˆìŠµë‹ˆë‹¤.")
+				self:SetFailed("AddPerfectEnchant", "Àç·á ¸ñ·ÏÀÌ Àß¸ø ÀÛ¼ºµÇ¾ú½À´Ï´Ù.")
 			elseif type(matInfo[2]) ~= "number" then
-				self:SetFailed("AddPerfectEnchant", "ì¬ë£Œ ëª©ë¡ì´ ì˜ëª» ì‘ì„±ë˜ì—ˆìŠµë‹ˆë‹¤.")
+				self:SetFailed("AddPerfectEnchant", "Àç·á ¸ñ·ÏÀÌ Àß¸ø ÀÛ¼ºµÇ¾ú½À´Ï´Ù.")
 			end
 			tempMatTbl[matInfo[1]] = matInfo[2]
 		end
@@ -257,29 +257,29 @@ function CreateSlotInfo()
 	end
 	function SlotInfo:AddUpgradeEnchant(in_ItemDB, in_ResultItemDB, in_Zeny, ...)
 		if nil ~= self.UpgradeNewVer and true == self.UpgradeNewVer then
-			self:SetFailed("AddUpgradeEnchant", "ê°™ì€ ìŠ¬ë¡¯ì— AddPerfectUpgradeEnchantì™€ í˜¼ìš©í•˜ì—¬ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.")
+			self:SetFailed("AddUpgradeEnchant", "°°Àº ½½·Ô¿¡ AddPerfectUpgradeEnchant¿Í È¥¿ëÇÏ¿© »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.")
 		end
 		if type(in_ItemDB) ~= "string" then
-			self:SetFailed("AddUpgradeEnchant", "1ë²ˆì§¸ ê°’ì€ ë¬¸ìì—´ì´ì–´ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("AddUpgradeEnchant", "1¹øÂ° °ªÀº ¹®ÀÚ¿­ÀÌ¾î¾ß ÇÕ´Ï´Ù.")
 		elseif type(in_ResultItemDB) ~= "string" then
-			self:SetFailed("AddUpgradeEnchant", "2ë²ˆì§¸ ê°’ì€ ë¬¸ìì—´ì´ì–´ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("AddUpgradeEnchant", "2¹øÂ° °ªÀº ¹®ÀÚ¿­ÀÌ¾î¾ß ÇÕ´Ï´Ù.")
 		elseif type(in_Zeny) ~= "number" then
-			self:SetFailed("AddUpgradeEnchant", "3ë²ˆì§¸ ê°’ì€ ìˆ«ìì—¬ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("AddUpgradeEnchant", "3¹øÂ° °ªÀº ¼ıÀÚ¿©¾ß ÇÕ´Ï´Ù.")
 		end
 		if in_Zeny < 0 then
-			self:SetFailed("AddUpgradeEnchant", "3ë²ˆì§¸ ê°’ì€ 0ë³´ë‹¤ ì»¤ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("AddUpgradeEnchant", "3¹øÂ° °ªÀº 0º¸´Ù Ä¿¾ß ÇÕ´Ï´Ù.")
 		end
 		if MAX_MATERIAL_NUM < #arg then
-			self:SetFailed("AddUpgradeEnchant", "ì¬ë£ŒëŠ” " .. MAX_MATERIAL_NUM .. "ì¢… ì´í•˜ì—¬ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("AddUpgradeEnchant", "Àç·á´Â " .. MAX_MATERIAL_NUM .. "Á¾ ÀÌÇÏ¿©¾ß ÇÕ´Ï´Ù.")
 		end
 		local tempMatTbl = {}
 		for i, matInfo in ipairs(arg) do
 			if type(matInfo) ~= "table" then
-				self:SetFailed("AddPerfectEnchant", "ì¬ë£ŒëŠ” í…Œì´ë¸” í˜•ì‹ìœ¼ë¡œ ì‘ì„±ë˜ì–´ì•¼ í•©ë‹ˆë‹¤.")
+				self:SetFailed("AddPerfectEnchant", "Àç·á´Â Å×ÀÌºí Çü½ÄÀ¸·Î ÀÛ¼ºµÇ¾î¾ß ÇÕ´Ï´Ù.")
 			elseif type(matInfo[1]) ~= "string" then
-				self:SetFailed("AddPerfectEnchant", "ì¬ë£Œ ëª©ë¡ì´ ì˜ëª» ì‘ì„±ë˜ì—ˆìŠµë‹ˆë‹¤.")
+				self:SetFailed("AddPerfectEnchant", "Àç·á ¸ñ·ÏÀÌ Àß¸ø ÀÛ¼ºµÇ¾ú½À´Ï´Ù.")
 			elseif type(matInfo[2]) ~= "number" then
-				self:SetFailed("AddPerfectEnchant", "ì¬ë£Œ ëª©ë¡ì´ ì˜ëª» ì‘ì„±ë˜ì—ˆìŠµë‹ˆë‹¤.")
+				self:SetFailed("AddPerfectEnchant", "Àç·á ¸ñ·ÏÀÌ Àß¸ø ÀÛ¼ºµÇ¾ú½À´Ï´Ù.")
 			end
 			tempMatTbl[matInfo[1]] = matInfo[2]
 		end
@@ -289,95 +289,95 @@ function CreateSlotInfo()
 			MatTbl = tempMatTbl
 		}
 		if nil ~= self.UpgradeECTbl[in_ItemDB] then
-			self:SetFailed("AddPerfectEnchant", "[ " .. in_ItemDB .. " ]ì˜ ì •ë³´ê°€ ì¤‘ë³µë˜ì—ˆìŠµë‹ˆë‹¤.")
+			self:SetFailed("AddPerfectEnchant", "[ " .. in_ItemDB .. " ]ÀÇ Á¤º¸°¡ Áßº¹µÇ¾ú½À´Ï´Ù.")
 		end
 		self.UpgradeNewVer = false
 		self.UpgradeECTbl[in_ItemDB] = tbl
 	end
 	function SlotInfo:SetRandomUpgradeRequire(in_ItemDB, in_Zeny, ...)
 		if type(in_ItemDB) ~= "string" then
-			self:SetFailed("SetRandomUpgradeRequire", "1ë²ˆì§¸ ê°’ì€ ë¬¸ìì—´ì´ì–´ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetRandomUpgradeRequire", "1¹øÂ° °ªÀº ¹®ÀÚ¿­ÀÌ¾î¾ß ÇÕ´Ï´Ù.")
 		elseif type(in_Zeny) ~= "number" then
-			self:SetFailed("SetRandomUpgradeRequire", "2ë²ˆì§¸ ê°’ì€ ìˆ«ìì—¬ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetRandomUpgradeRequire", "2¹øÂ° °ªÀº ¼ıÀÚ¿©¾ß ÇÕ´Ï´Ù.")
 		end
 		if in_Zeny < 0 then
-			self:SetFailed("SetRandomUpgradeRequire", "2ë²ˆì§¸ ê°’ì€ 0ë³´ë‹¤ ì»¤ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetRandomUpgradeRequire", "2¹øÂ° °ªÀº 0º¸´Ù Ä¿¾ß ÇÕ´Ï´Ù.")
 		end
 		if MAX_MATERIAL_NUM < #arg then
-			self:SetFailed("SetRandomUpgradeRequire", "ì¬ë£ŒëŠ” " .. MAX_MATERIAL_NUM .. "ì¢… ì´í•˜ì—¬ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("SetRandomUpgradeRequire", "Àç·á´Â " .. MAX_MATERIAL_NUM .. "Á¾ ÀÌÇÏ¿©¾ß ÇÕ´Ï´Ù.")
 		end
 		local tempMatTbl = {}
 		for i, matInfo in ipairs(arg) do
 			if type(matInfo) ~= "table" then
-				self:SetFailed("SetRequire", "ì¬ë£ŒëŠ” í…Œì´ë¸” í˜•ì‹ìœ¼ë¡œ ì‘ì„±ë˜ì–´ì•¼ í•©ë‹ˆë‹¤.")
+				self:SetFailed("SetRequire", "Àç·á´Â Å×ÀÌºí Çü½ÄÀ¸·Î ÀÛ¼ºµÇ¾î¾ß ÇÕ´Ï´Ù.")
 			elseif type(matInfo[1]) ~= "string" then
-				self:SetFailed("SetRequire", "ì¬ë£Œ ëª©ë¡ì´ ì˜ëª» ì‘ì„±ë˜ì—ˆìŠµë‹ˆë‹¤.")
+				self:SetFailed("SetRequire", "Àç·á ¸ñ·ÏÀÌ Àß¸ø ÀÛ¼ºµÇ¾ú½À´Ï´Ù.")
 			elseif type(matInfo[2]) ~= "number" then
-				self:SetFailed("SetRequire", "ì¬ë£Œ ëª©ë¡ì´ ì˜ëª» ì‘ì„±ë˜ì—ˆìŠµë‹ˆë‹¤.")
+				self:SetFailed("SetRequire", "Àç·á ¸ñ·ÏÀÌ Àß¸ø ÀÛ¼ºµÇ¾ú½À´Ï´Ù.")
 			end
 			tempMatTbl[matInfo[1]] = matInfo[2]
 		end
 		self.RandomUpgradeECTbl = self.RandomUpgradeECTbl or {}
 		self.RandomUpgradeECTbl[in_ItemDB] = self.RandomUpgradeECTbl[in_ItemDB] or {}
 		if nil ~= self.RandomUpgradeECTbl[in_ItemDB].RequireTbl then
-			self:SetFailed("SetRandomUpgradeRequire", "[ " .. in_ItemDB .. " ]ì˜ ì •ë³´ê°€ ì¤‘ë³µë˜ì—ˆìŠµë‹ˆë‹¤.")
+			self:SetFailed("SetRandomUpgradeRequire", "[ " .. in_ItemDB .. " ]ÀÇ Á¤º¸°¡ Áßº¹µÇ¾ú½À´Ï´Ù.")
 		end
 		local tbl = {Zeny = in_Zeny, MatTbl = tempMatTbl}
 		self.RandomUpgradeECTbl[in_ItemDB].RequireTbl = tbl
 	end
 	function SlotInfo:AddRandomUpgradeEnchant(in_ItemDB, in_ResultItemDB, in_Rate)
 		if nil ~= self.UpgradeNewVer and false == self.UpgradeNewVer then
-			self:SetFailed("AddPerfectUpgradeEnchant", "ê°™ì€ ìŠ¬ë¡¯ì— AddUpgradeEnchantì™€ í˜¼ìš©í•˜ì—¬ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.")
+			self:SetFailed("AddPerfectUpgradeEnchant", "°°Àº ½½·Ô¿¡ AddUpgradeEnchant¿Í È¥¿ëÇÏ¿© »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.")
 		end
 		if type(in_ItemDB) ~= "string" then
-			self:SetFailed("AddRandomUpgradeEnchant", "1ë²ˆì§¸ ê°’ì€ ë¬¸ìì—´ì´ì–´ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("AddRandomUpgradeEnchant", "1¹øÂ° °ªÀº ¹®ÀÚ¿­ÀÌ¾î¾ß ÇÕ´Ï´Ù.")
 		elseif type(in_ResultItemDB) ~= "string" then
-			self:SetFailed("AddRandomUpgradeEnchant", "2ë²ˆì§¸ ê°’ì€ ë¬¸ìì—´ì´ì–´ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("AddRandomUpgradeEnchant", "2¹øÂ° °ªÀº ¹®ÀÚ¿­ÀÌ¾î¾ß ÇÕ´Ï´Ù.")
 		elseif type(in_Rate) ~= "number" then
-			self:SetFailed("AddRandomUpgradeEnchant", "3ë²ˆì§¸ ê°’ì€ ìˆ«ìì—¬ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("AddRandomUpgradeEnchant", "3¹øÂ° °ªÀº ¼ıÀÚ¿©¾ß ÇÕ´Ï´Ù.")
 		end
 		if in_Rate < 0 or 100000 < in_Rate then
-			self:SetFailed("AddRandomUpgradeEnchant", "3ë²ˆì§¸ ê°’ì€ 0ì—ì„œ 100000ì‚¬ì´ì–´ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("AddRandomUpgradeEnchant", "3¹øÂ° °ªÀº 0¿¡¼­ 100000»çÀÌ¾î¾ß ÇÕ´Ï´Ù.")
 		end
 		if nil == self.RandomUpgradeECTbl or nil == self.RandomUpgradeECTbl[in_ItemDB] or nil == self.RandomUpgradeECTbl[in_ItemDB].RequireTbl then
-			self:SetFailed("AddRandomUpgradeEnchant", "SetRandomUpgradeRequire í•¨ìˆ˜ê°€ ë¨¼ì € í˜¸ì¶œë˜ì–´ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("AddRandomUpgradeEnchant", "SetRandomUpgradeRequire ÇÔ¼ö°¡ ¸ÕÀú È£ÃâµÇ¾î¾ß ÇÕ´Ï´Ù.")
 		end
 		self.RandomUpgradeECTbl[in_ItemDB].ResultTbl = self.RandomUpgradeECTbl[in_ItemDB].ResultTbl or {}
 		if nil ~= self.RandomUpgradeECTbl[in_ItemDB].ResultTbl[in_ResultItemDB] then
-			self:SetFailed("AddRandomUpgradeEnchant", "[ " .. in_ItemDB .. " ][ " .. in_ResultItemDB .. " ]ì˜ ì •ë³´ê°€ ì¤‘ë³µë˜ì—ˆìŠµë‹ˆë‹¤.")
+			self:SetFailed("AddRandomUpgradeEnchant", "[ " .. in_ItemDB .. " ][ " .. in_ResultItemDB .. " ]ÀÇ Á¤º¸°¡ Áßº¹µÇ¾ú½À´Ï´Ù.")
 		end
 		self.UpgradeNewVer = true
 		self.RandomUpgradeECTbl[in_ItemDB].ResultTbl[in_ResultItemDB] = in_Rate
 	end
 	function SlotInfo:AddPerfectUpgradeEnchant(in_ItemDB, in_ResultItemDB, in_Zeny, ...)
 		if type(in_ItemDB) ~= "string" then
-			self:SetFailed("AddPerfectUpgradeEnchant", "1ë²ˆì§¸ ê°’ì€ ë¬¸ìì—´ì´ì–´ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("AddPerfectUpgradeEnchant", "1¹øÂ° °ªÀº ¹®ÀÚ¿­ÀÌ¾î¾ß ÇÕ´Ï´Ù.")
 		elseif type(in_ResultItemDB) ~= "string" then
-			self:SetFailed("AddPerfectUpgradeEnchant", "3ë²ˆì§¸ ê°’ì€ ë¬¸ìì—´ì´ì–´ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("AddPerfectUpgradeEnchant", "3¹øÂ° °ªÀº ¹®ÀÚ¿­ÀÌ¾î¾ß ÇÕ´Ï´Ù.")
 		elseif type(in_Zeny) ~= "number" then
-			self:SetFailed("AddPerfectUpgradeEnchant", "3ë²ˆì§¸ ê°’ì€ ìˆ«ìì—¬ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("AddPerfectUpgradeEnchant", "3¹øÂ° °ªÀº ¼ıÀÚ¿©¾ß ÇÕ´Ï´Ù.")
 		end
 		if in_Zeny < 0 then
-			self:SetFailed("AddPerfectUpgradeEnchant", "3ë²ˆì§¸ ê°’ì€ 0ë³´ë‹¤ ì»¤ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("AddPerfectUpgradeEnchant", "3¹øÂ° °ªÀº 0º¸´Ù Ä¿¾ß ÇÕ´Ï´Ù.")
 		end
 		if MAX_MATERIAL_NUM < #arg then
-			self:SetFailed("AddPerfectUpgradeEnchant", "ì¬ë£ŒëŠ” " .. MAX_MATERIAL_NUM .. "ì¢… ì´í•˜ì—¬ì•¼ í•©ë‹ˆë‹¤.")
+			self:SetFailed("AddPerfectUpgradeEnchant", "Àç·á´Â " .. MAX_MATERIAL_NUM .. "Á¾ ÀÌÇÏ¿©¾ß ÇÕ´Ï´Ù.")
 		end
 		local tempMatTbl = {}
 		for i, matInfo in ipairs(arg) do
 			if type(matInfo) ~= "table" then
-				self:SetFailed("AddPerfectUpgradeEnchant", "ì¬ë£ŒëŠ” í…Œì´ë¸” í˜•ì‹ìœ¼ë¡œ ì‘ì„±ë˜ì–´ì•¼ í•©ë‹ˆë‹¤.")
+				self:SetFailed("AddPerfectUpgradeEnchant", "Àç·á´Â Å×ÀÌºí Çü½ÄÀ¸·Î ÀÛ¼ºµÇ¾î¾ß ÇÕ´Ï´Ù.")
 			elseif type(matInfo[1]) ~= "string" then
-				self:SetFailed("AddPerfectUpgradeEnchant", "ì¬ë£Œ ëª©ë¡ì´ ì˜ëª» ì‘ì„±ë˜ì—ˆìŠµë‹ˆë‹¤.")
+				self:SetFailed("AddPerfectUpgradeEnchant", "Àç·á ¸ñ·ÏÀÌ Àß¸ø ÀÛ¼ºµÇ¾ú½À´Ï´Ù.")
 			elseif type(matInfo[2]) ~= "number" then
-				self:SetFailed("AddPerfectUpgradeEnchant", "ì¬ë£Œ ëª©ë¡ì´ ì˜ëª» ì‘ì„±ë˜ì—ˆìŠµë‹ˆë‹¤.")
+				self:SetFailed("AddPerfectUpgradeEnchant", "Àç·á ¸ñ·ÏÀÌ Àß¸ø ÀÛ¼ºµÇ¾ú½À´Ï´Ù.")
 			end
 			tempMatTbl[matInfo[1]] = matInfo[2]
 		end
 		self.PerfectUpgradeECTbl = self.PerfectUpgradeECTbl or {}
 		self.PerfectUpgradeECTbl[in_ItemDB] = self.PerfectUpgradeECTbl[in_ItemDB] or {}
 		if nil ~= self.PerfectUpgradeECTbl[in_ItemDB][in_ResultItemDB] then
-			self:SetFailed("AddPerfectUpgradeEnchant", "[ " .. in_ItemDB .. " ][ " .. in_ResultItemDB .. " ]ì˜ ì •ë³´ê°€ ì¤‘ë³µë˜ì—ˆìŠµë‹ˆë‹¤.")
+			self:SetFailed("AddPerfectUpgradeEnchant", "[ " .. in_ItemDB .. " ][ " .. in_ResultItemDB .. " ]ÀÇ Á¤º¸°¡ Áßº¹µÇ¾ú½À´Ï´Ù.")
 		end
 		local tbl = {Zeny = in_Zeny, MatTbl = tempMatTbl}
 		self.PerfectUpgradeECTbl[in_ItemDB][in_ResultItemDB] = tbl
@@ -387,40 +387,40 @@ end
 function CheckFile()
 	for EnchantNum, EnchantInfo in pairs(Table) do
 		if nil == EnchantInfo.SlotOrder then
-			EnchantInfo:SetFailed("SetSlotOrder", "ìŠ¬ë¡¯ í…Œì´ë¸” ì •ë³´ê°€ ì¡´ì¬í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.")
+			EnchantInfo:SetFailed("SetSlotOrder", "½½·Ô Å×ÀÌºí Á¤º¸°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.")
 		end
 		if nil == EnchantInfo.TargetItemTbl then
-			EnchantInfo:SetFailed("AddTargetItem", "ëŒ€ìƒ ì•„ì´í…œ ì •ë³´ê°€ ì¡´ì¬í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.")
+			EnchantInfo:SetFailed("AddTargetItem", "´ë»ó ¾ÆÀÌÅÛ Á¤º¸°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.")
 		end
 		if nil == EnchantInfo.Condition then
-			EnchantInfo:SetFailed("SetCondition", "ì œí•œ ì„¤ì • ì •ë³´ê°€ ì¡´ì¬í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.")
+			EnchantInfo:SetFailed("SetCondition", "Á¦ÇÑ ¼³Á¤ Á¤º¸°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.")
 		end
 		if nil == EnchantInfo.bApproveRandomOpt then
-			EnchantInfo:SetFailed("ApproveRandomOption", "ëœë¤ì˜µì…˜ ì œí•œ ì„¤ì • ì •ë³´ê°€ ì¡´ì¬í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.")
+			EnchantInfo:SetFailed("ApproveRandomOption", "·£´ı¿É¼Ç Á¦ÇÑ ¼³Á¤ Á¤º¸°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.")
 		end
 		if nil == EnchantInfo.Reset then
-			EnchantInfo:SetFailed("SetReset", "ì´ˆê¸°í™” ì •ë³´ê°€ ì¡´ì¬í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.")
+			EnchantInfo:SetFailed("SetReset", "ÃÊ±âÈ­ Á¤º¸°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.")
 		end
 		if nil == EnchantInfo.CautionMsg then
-			EnchantInfo:SetFailed("SetCaution", "ì£¼ì˜ì‚¬í•­ ë©”ì„¸ì§€ê°€ ì¡´ì¬í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.")
+			EnchantInfo:SetFailed("SetCaution", "ÁÖÀÇ»çÇ× ¸Ş¼¼Áö°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.")
 		end
 		for slotNum, slotInfo in pairs(EnchantInfo.Slot) do
 			if nil ~= slotInfo.RequireTbl or nil ~= slotInfo.SuccessRate or nil ~= slotInfo.GradeBonusTbl or nil ~= slotInfo.EnchantRateTbl then
 				if nil == slotInfo.RequireTbl then
-					slotInfo:SetFailed("SetRequire", "ëœë¤ì¸ì±ˆíŠ¸ì˜ ì¬ë£Œ ì •ë³´ê°€ ì¡´ì¬í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.")
+					slotInfo:SetFailed("SetRequire", "·£´ıÀÎÃ¦Æ®ÀÇ Àç·á Á¤º¸°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.")
 				end
 				if nil == slotInfo.SuccessRate then
-					slotInfo:SetFailed("SetSuccessRate", "ì¸ì±ˆíŠ¸ ì„±ê³µí™•ë£” ì •ë³´ê°€ ì¡´ì¬í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.")
+					slotInfo:SetFailed("SetSuccessRate", "ÀÎÃ¦Æ® ¼º°øÈ®·ã Á¤º¸°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.")
 				end
 				if nil == slotInfo.GradeBonusTbl then
-					slotInfo:SetFailed("SetGradeBonus", "ë“±ê¸‰ë³„ ì„±ê³µ ë³´ë„ˆìŠ¤ ì •ë³´ê°€ ì¡´ì¬í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.")
+					slotInfo:SetFailed("SetGradeBonus", "µî±Şº° ¼º°ø º¸³Ê½º Á¤º¸°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.")
 				end
 				if nil == slotInfo.EnchantRateTbl then
-					slotInfo:SetFailed("SetEnchant", "ëœë¤ì¸ì±ˆíŠ¸ ì •ë³´ê°€ ì¡´ì¬í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.")
+					slotInfo:SetFailed("SetEnchant", "·£´ıÀÎÃ¦Æ® Á¤º¸°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.")
 				end
 				for grade, gradeBonus in pairs(slotInfo.GradeBonusTbl) do
 					if slotInfo.SuccessRate + gradeBonus > 100000 then
-						slotInfo:SetFailed("SetGradeBonus", "SuccessRate + SetGradeBonus( " .. grade .. " )ì˜ ê°’ì´ 100000ì„ ë„˜ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.")
+						slotInfo:SetFailed("SetGradeBonus", "SuccessRate + SetGradeBonus( " .. grade .. " )ÀÇ °ªÀÌ 100000À» ³ÑÀ» ¼ö ¾ø½À´Ï´Ù.")
 					end
 				end
 				for grade, rateTbl in pairs(slotInfo.EnchantRateTbl) do
@@ -429,24 +429,24 @@ function CheckFile()
 						totalRate = totalRate + rate
 					end
 					if totalRate ~= 100000 then
-						slotInfo:SetFailed("SetEnchant", grade .. "ë“±ê¸‰ì˜ í™•ë¥  ì´í•©ì´ 100000ì´ ì•„ë‹™ë‹ˆë‹¤.")
+						slotInfo:SetFailed("SetEnchant", grade .. "µî±ŞÀÇ È®·ü ÃÑÇÕÀÌ 100000ÀÌ ¾Æ´Õ´Ï´Ù.")
 					end
 				end
 			end
 			if nil ~= slotInfo.RandomUpgradeECTbl then
 				for ItemDB, RandomUpgradeECTInfo in pairs(slotInfo.RandomUpgradeECTbl) do
 					if nil == RandomUpgradeECTInfo.RequireTbl then
-						slotInfo:SetFailed("SetRandomUpgradeRequire", "[ " .. ItemDB .. " ] ëœë¤ ì—…ê·¸ë ˆì´ë“œ ì¸ì±ˆíŠ¸ì˜ ì¬ë£Œ ì •ë³´ê°€ ì¡´ì¬í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.")
+						slotInfo:SetFailed("SetRandomUpgradeRequire", "[ " .. ItemDB .. " ] ·£´ı ¾÷±×·¹ÀÌµå ÀÎÃ¦Æ®ÀÇ Àç·á Á¤º¸°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.")
 					end
 					if nil == RandomUpgradeECTInfo.ResultTbl then
-						slotInfo:SetFailed("AddRandomUpgradeEnchant", "[ " .. ItemDB .. " ] ëœë¤ ì—…ê·¸ë ˆì´ë“œ ì¸ì±ˆíŠ¸ ì •ë³´ê°€ ì¡´ì¬í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.")
+						slotInfo:SetFailed("AddRandomUpgradeEnchant", "[ " .. ItemDB .. " ] ·£´ı ¾÷±×·¹ÀÌµå ÀÎÃ¦Æ® Á¤º¸°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.")
 					else
 						local TotalRate = 0
 						for ResultItemDB, Rate in pairs(RandomUpgradeECTInfo.ResultTbl) do
 							TotalRate = TotalRate + Rate
 						end
 						if TotalRate ~= 100000 then
-							slotInfo:SetFailed("AddRandomUpgradeEnchant", "[ " .. ItemDB .. " ] ëœë¤ ì—…ê·¸ë ˆì´ë“œ ì¸ì±ˆíŠ¸ì˜ í™•ë¥  ì´í•©ì´ 100000ì´ ì•„ë‹™ë‹ˆë‹¤.")
+							slotInfo:SetFailed("AddRandomUpgradeEnchant", "[ " .. ItemDB .. " ] ·£´ı ¾÷±×·¹ÀÌµå ÀÎÃ¦Æ®ÀÇ È®·ü ÃÑÇÕÀÌ 100000ÀÌ ¾Æ´Õ´Ï´Ù.")
 						end
 					end
 				end
@@ -454,14 +454,14 @@ function CheckFile()
 		end
 	end
 	if true == LoadFailed then
-		return false, "EnchantList.lua íŒŒì¼ì´ ì˜¬ë°”ë¥´ê²Œ ì‘ì„±ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤."
+		return false, "EnchantList.lua ÆÄÀÏÀÌ ¿Ã¹Ù¸£°Ô ÀÛ¼ºµÇÁö ¾Ê¾Ò½À´Ï´Ù."
 	end
 	return true, "good"
 end
 function GetEnchantInfo(in_EnchantNum)
 	local EnchantInfo = Table[in_EnchantNum]
 	if nil == EnchantInfo then
-		return false, in_EnchantNum .. " : í•´ë‹¹ ì¸ì±ˆíŠ¸ ì •ë³´ë¥¼ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤."
+		return false, in_EnchantNum .. " : ÇØ´ç ÀÎÃ¦Æ® Á¤º¸¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù."
 	end
 	result, msg = C_SetSlotOrder(in_EnchantNum, EnchantInfo.SlotOrder)
 	if not result then

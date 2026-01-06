@@ -1,7 +1,7 @@
 SKILL_INFO_LIST = {
 	[SKID.NV_BASIC] = {
 		"NV_BASIC",
-		SkillName = "Habilidad B√°sica",
+		SkillName = "Habilidad B·sica",
 		MaxLv = 9,
 		SpAmount = {
 			0,
@@ -29,7 +29,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SM_SWORD] = {
 		"SM_SWORD",
-		SkillName = "Maestr√≠a de Espada",
+		SkillName = "MaestrÌa de Espada",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -59,7 +59,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SM_TWOHAND] = {
 		"SM_TWOHAND",
-		SkillName = "Maestr√≠a de Mandoble",
+		SkillName = "MaestrÌa de Mandoble",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -95,7 +95,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SM_RECOVERY] = {
 		"SM_RECOVERY",
-		SkillName = "Aumentar Recuperaci√≥n de HP",
+		SkillName = "Aumentar RecuperaciÛn de HP",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -257,7 +257,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MG_SRECOVERY] = {
 		"MG_SRECOVERY",
-		SkillName = "Aumentar Recuperaci√≥n de SP",
+		SkillName = "Aumentar RecuperaciÛn de SP",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -287,7 +287,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MG_SIGHT] = {
 		"MG_SIGHT",
-		SkillName = "Visi√≥n",
+		SkillName = "VisiÛn",
 		MaxLv = 1,
 		SpAmount = {10},
 		bSeperateLv = false,
@@ -325,7 +325,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MG_SAFETYWALL] = {
 		"MG_SAFETYWALL",
-		SkillName = "Barrera de Protecci√≥n",
+		SkillName = "Barrera de ProtecciÛn",
 		MaxLv = 10,
 		SpAmount = {
 			30,
@@ -443,7 +443,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MG_FROSTDIVER] = {
 		"MG_FROSTDIVER",
-		SkillName = "Congelaci√≥n",
+		SkillName = "CongelaciÛn",
 		MaxLv = 10,
 		SpAmount = {
 			25,
@@ -615,7 +615,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MG_LIGHTNINGBOLT] = {
 		"MG_LIGHTNINGBOLT",
-		SkillName = "Rel√°mpago",
+		SkillName = "Rel·mpago",
 		MaxLv = 10,
 		SpAmount = {
 			12,
@@ -681,7 +681,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AL_DP] = {
 		"AL_DP",
-		SkillName = "Protecci√≥n Divina",
+		SkillName = "ProtecciÛn Divina",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -755,7 +755,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AL_RUWACH] = {
 		"AL_RUWACH",
-		SkillName = "Revelaci√≥n",
+		SkillName = "RevelaciÛn",
 		MaxLv = 1,
 		SpAmount = {10},
 		bSeperateLv = false,
@@ -777,7 +777,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AL_TELEPORT] = {
 		"AL_TELEPORT",
-		SkillName = "Teletransportaci√≥n",
+		SkillName = "TeletransportaciÛn",
 		MaxLv = 2,
 		SpAmount = {10, 9},
 		bSeperateLv = false,
@@ -973,7 +973,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AL_ANGELUS] = {
 		"AL_ANGELUS",
-		SkillName = "√Ångelus",
+		SkillName = "¡ngelus",
 		MaxLv = 10,
 		SpAmount = {
 			23,
@@ -1009,7 +1009,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AL_BLESSING] = {
 		"AL_BLESSING",
-		SkillName = "Bendici√≥n",
+		SkillName = "BendiciÛn",
 		MaxLv = 10,
 		SpAmount = {
 			28,
@@ -1067,7 +1067,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MC_INCCARRY] = {
 		"MC_INCCARRY",
-		SkillName = "Aumentar L√≠mite de Peso",
+		SkillName = "Aumentar LÌmite de Peso",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -1279,7 +1279,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AC_OWL] = {
 		"AC_OWL",
-		SkillName = "Ojo de B√∫ho",
+		SkillName = "Ojo de B˙ho",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -1348,7 +1348,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AC_CONCENTRATION] = {
 		"AC_CONCENTRATION",
-		SkillName = "Mejorar Concentraci√≥n",
+		SkillName = "Mejorar ConcentraciÛn",
 		MaxLv = 10,
 		SpAmount = {
 			25,
@@ -1488,7 +1488,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TF_MISS] = {
 		"TF_MISS",
-		SkillName = "Evasi√≥n Mejorada",
+		SkillName = "EvasiÛn Mejorada",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -1614,7 +1614,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TF_DETOXIFY] = {
 		"TF_DETOXIFY",
-		SkillName = "Desintoxicaci√≥n",
+		SkillName = "DesintoxicaciÛn",
 		MaxLv = 1,
 		SpAmount = {10},
 		bSeperateLv = false,
@@ -1628,7 +1628,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ALL_RESURRECTION] = {
 		"ALL_RESURRECTION",
-		SkillName = "Resurrecci√≥n",
+		SkillName = "ResurrecciÛn",
 		MaxLv = 4,
 		SpAmount = {
 			60,
@@ -1656,7 +1656,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KN_SPEARMASTERY] = {
 		"KN_SPEARMASTERY",
-		SkillName = "Maestr√≠a de Lanza",
+		SkillName = "MaestrÌa de Lanza",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -1762,7 +1762,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KN_SPEARSTAB] = {
 		"KN_SPEARSTAB",
-		SkillName = "Pu√±alada de Lanza",
+		SkillName = "PuÒalada de Lanza",
 		MaxLv = 10,
 		SpAmount = {
 			9,
@@ -1798,7 +1798,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KN_SPEARBOOMERANG] = {
 		"KN_SPEARBOOMERANG",
-		SkillName = "Lanza Bumer√°n",
+		SkillName = "Lanza Bumer·n",
 		MaxLv = 5,
 		SpAmount = {
 			10,
@@ -1960,7 +1960,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KN_CAVALIERMASTERY] = {
 		"KN_CAVALIERMASTERY",
-		SkillName = "Maestr√≠a de Caballer√≠a",
+		SkillName = "MaestrÌa de CaballerÌa",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -1986,7 +1986,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.PR_MACEMASTERY] = {
 		"PR_MACEMASTERY",
-		SkillName = "Maestr√≠a de Maza",
+		SkillName = "MaestrÌa de Maza",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -2172,7 +2172,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.PR_STRECOVERY] = {
 		"PR_STRECOVERY",
-		SkillName = "Recuperaci√≥n",
+		SkillName = "RecuperaciÛn",
 		MaxLv = 1,
 		SpAmount = {5},
 		bSeperateLv = false,
@@ -2216,7 +2216,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.PR_MAGNIFICAT] = {
 		"PR_MAGNIFICAT",
-		SkillName = "Magn√≠ficat",
+		SkillName = "MagnÌficat",
 		MaxLv = 5,
 		SpAmount = {
 			40,
@@ -2444,7 +2444,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WZ_SIGHTRASHER] = {
 		"WZ_SIGHTRASHER",
-		SkillName = "Explosi√≥n de Llamas",
+		SkillName = "ExplosiÛn de Llamas",
 		MaxLv = 10,
 		SpAmount = {
 			35,
@@ -2916,7 +2916,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BS_ENCHANTEDSTONE] = {
 		"BS_ENCHANTEDSTONE",
-		SkillName = "Creaci√≥n de Piedra Encantada",
+		SkillName = "CreaciÛn de Piedra Encantada",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -2942,7 +2942,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BS_ORIDEOCON] = {
 		"BS_ORIDEOCON",
-		SkillName = "Investigaci√≥n de Oridecon",
+		SkillName = "InvestigaciÛn de Oridecon",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -3116,7 +3116,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BS_HILTBINDING] = {
 		"BS_HILTBINDING",
-		SkillName = "Vinculaci√≥n de Empu√±adura",
+		SkillName = "VinculaciÛn de EmpuÒadura",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = false,
@@ -3142,7 +3142,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BS_WEAPONRESEARCH] = {
 		"BS_WEAPONRESEARCH",
-		SkillName = "Investigaci√≥n de Armamento",
+		SkillName = "InvestigaciÛn de Armamento",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -3232,7 +3232,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BS_ADRENALINE] = {
 		"BS_ADRENALINE",
-		SkillName = "R√°faga de Adrenalina",
+		SkillName = "R·faga de Adrenalina",
 		MaxLv = 5,
 		SpAmount = {
 			20,
@@ -3258,7 +3258,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BS_WEAPONPERFECT] = {
 		"BS_WEAPONPERFECT",
-		SkillName = "Perfecci√≥n de Arma",
+		SkillName = "PerfecciÛn de Arma",
 		MaxLv = 5,
 		SpAmount = {
 			18,
@@ -3288,7 +3288,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BS_OVERTHRUST] = {
 		"BS_OVERTHRUST",
-		SkillName = "Propulsi√≥n M√°xima",
+		SkillName = "PropulsiÛn M·xima",
 		MaxLv = 5,
 		SpAmount = {
 			18,
@@ -3648,7 +3648,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.HT_FALCON] = {
 		"HT_FALCON",
-		SkillName = "Maestr√≠a en Ave de Presa",
+		SkillName = "MaestrÌa en Ave de Presa",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = false,
@@ -3724,7 +3724,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.HT_DETECTING] = {
 		"HT_DETECTING",
-		SkillName = "Detecci√≥n",
+		SkillName = "DetecciÛn",
 		MaxLv = 4,
 		SpAmount = {
 			8,
@@ -3781,7 +3781,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AS_RIGHT] = {
 		"AS_RIGHT",
-		SkillName = "Maestr√≠a de Mano Derecha",
+		SkillName = "MaestrÌa de Mano Derecha",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -3801,7 +3801,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AS_LEFT] = {
 		"AS_LEFT",
-		SkillName = "Maestr√≠a de Mano Izquierda",
+		SkillName = "MaestrÌa de Mano Izquierda",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -3827,7 +3827,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AS_KATAR] = {
 		"AS_KATAR",
-		SkillName = "Maestr√≠a de Katar",
+		SkillName = "MaestrÌa de Katar",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -3893,7 +3893,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AS_SONICBLOW] = {
 		"AS_SONICBLOW",
-		SkillName = "Impacto S√≥nico",
+		SkillName = "Impacto SÛnico",
 		MaxLv = 10,
 		SpAmount = {
 			16,
@@ -3929,7 +3929,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AS_GRIMTOOTH] = {
 		"AS_GRIMTOOTH",
-		SkillName = "Colmillo Sombr√≠o",
+		SkillName = "Colmillo SombrÌo",
 		MaxLv = 5,
 		SpAmount = {
 			3,
@@ -3995,7 +3995,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AS_POISONREACT] = {
 		"AS_POISONREACT",
-		SkillName = "Reacci√≥n Venenosa",
+		SkillName = "ReacciÛn Venenosa",
 		MaxLv = 10,
 		SpAmount = {
 			25,
@@ -4125,7 +4125,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SM_MOVINGRECOVERY] = {
 		"SM_MOVINGRECOVERY",
-		SkillName = "Recuperaci√≥n de HP al Moverse",
+		SkillName = "RecuperaciÛn de HP al Moverse",
 		MaxLv = 1,
 		Type = "Quest",
 		SpAmount = {0},
@@ -4206,7 +4206,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MC_CARTREVOLUTION] = {
 		"MC_CARTREVOLUTION",
-		SkillName = "Revoluci√≥n Rodante",
+		SkillName = "RevoluciÛn Rodante",
 		MaxLv = 1,
 		Type = "Quest",
 		SpAmount = {12},
@@ -4215,7 +4215,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MC_CHANGECART] = {
 		"MC_CHANGECART",
-		SkillName = "Modificaci√≥n de Carreta",
+		SkillName = "ModificaciÛn de Carreta",
 		MaxLv = 1,
 		Type = "Quest",
 		SpAmount = {40},
@@ -4242,7 +4242,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MG_ENERGYCOAT] = {
 		"MG_ENERGYCOAT",
-		SkillName = "Protecci√≥n Arcana",
+		SkillName = "ProtecciÛn Arcana",
 		MaxLv = 1,
 		Type = "Quest",
 		SpAmount = {30},
@@ -4343,7 +4343,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RG_BACKSTAP] = {
 		"RG_BACKSTAP",
-		SkillName = "Pu√±alada por la Espalda",
+		SkillName = "PuÒalada por la Espalda",
 		MaxLv = 10,
 		SpAmount = {
 			12,
@@ -4539,7 +4539,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RG_INTIMIDATE] = {
 		"RG_INTIMIDATE",
-		SkillName = "Intimidaci√≥n",
+		SkillName = "IntimidaciÛn",
 		MaxLv = 5,
 		SpAmount = {
 			13,
@@ -4623,7 +4623,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RG_GANGSTER] = {
 		"RG_GANGSTER",
-		SkillName = "Para√≠so de Mafiosos",
+		SkillName = "ParaÌso de Mafiosos",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = false,
@@ -4699,7 +4699,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_AXEMASTERY] = {
 		"AM_AXEMASTERY",
-		SkillName = "Maestr√≠a de Hacha",
+		SkillName = "MaestrÌa de Hacha",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -4759,7 +4759,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_PHARMACY] = {
 		"AM_PHARMACY",
-		SkillName = "Preparaci√≥n de Pociones",
+		SkillName = "PreparaciÛn de Pociones",
 		MaxLv = 10,
 		SpAmount = {
 			5,
@@ -4821,7 +4821,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_ACIDTERROR] = {
 		"AM_ACIDTERROR",
-		SkillName = "Terror √Åcido",
+		SkillName = "Terror ¡cido",
 		MaxLv = 5,
 		SpAmount = {
 			15,
@@ -4847,7 +4847,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_POTIONPITCHER] = {
 		"AM_POTIONPITCHER",
-		SkillName = "Lanzar Poci√≥n",
+		SkillName = "Lanzar PociÛn",
 		MaxLv = 5,
 		SpAmount = {
 			1,
@@ -4925,7 +4925,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_CP_WEAPON] = {
 		"AM_CP_WEAPON",
-		SkillName = "Protecci√≥n Qu√≠mica (Arma)",
+		SkillName = "ProtecciÛn QuÌmica (Arma)",
 		MaxLv = 5,
 		SpAmount = {
 			30,
@@ -4951,7 +4951,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_CP_SHIELD] = {
 		"AM_CP_SHIELD",
-		SkillName = "Protecci√≥n Qu√≠mica (Escudo)",
+		SkillName = "ProtecciÛn QuÌmica (Escudo)",
 		MaxLv = 5,
 		SpAmount = {
 			25,
@@ -4977,7 +4977,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_CP_ARMOR] = {
 		"AM_CP_ARMOR",
-		SkillName = "Protecci√≥n Qu√≠mica (Armadura)",
+		SkillName = "ProtecciÛn QuÌmica (Armadura)",
 		MaxLv = 5,
 		SpAmount = {
 			25,
@@ -5003,7 +5003,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_CP_HELM] = {
 		"AM_CP_HELM",
-		SkillName = "Protecci√≥n Qu√≠mica (Yelmo)",
+		SkillName = "ProtecciÛn QuÌmica (Yelmo)",
 		MaxLv = 5,
 		SpAmount = {
 			20,
@@ -5029,7 +5029,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_BIOETHICS] = {
 		"AM_BIOETHICS",
-		SkillName = "Bio√©tica",
+		SkillName = "BioÈtica",
 		MaxLv = 1,
 		Type = "Quest",
 		SpAmount = {0},
@@ -5038,7 +5038,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_BIOTECHNOLOGY] = {
 		"AM_BIOTECHNOLOGY",
-		SkillName = "Biotecnolog√≠a",
+		SkillName = "BiotecnologÌa",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -5068,7 +5068,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_CREATECREATURE] = {
 		"AM_CREATECREATURE",
-		SkillName = "Creaci√≥n de Criaturas",
+		SkillName = "CreaciÛn de Criaturas",
 		MaxLv = 5,
 		SpAmount = {
 			30,
@@ -5128,7 +5128,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_CALLHOMUN] = {
 		"AM_CALLHOMUN",
-		SkillName = "Invocar Hom√∫nculo",
+		SkillName = "Invocar Hom˙nculo",
 		MaxLv = 1,
 		SpAmount = {10},
 		bSeperateLv = false,
@@ -5142,7 +5142,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_REST] = {
 		"AM_REST",
-		SkillName = "Evaporizaci√≥n",
+		SkillName = "EvaporizaciÛn",
 		MaxLv = 1,
 		SpAmount = {50},
 		bSeperateLv = false,
@@ -5156,7 +5156,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_DRILLMASTER] = {
 		"AM_DRILLMASTER",
-		SkillName = "Maestro de Simulaci√≥n",
+		SkillName = "Maestro de SimulaciÛn",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -5186,7 +5186,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_HEALHOMUN] = {
 		"AM_HEALHOMUN",
-		SkillName = "Curaci√≥n de Hom√∫nculo",
+		SkillName = "CuraciÛn de Hom˙nculo",
 		MaxLv = 10,
 		SpAmount = {
 			12,
@@ -5216,7 +5216,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_RESURRECTHOMUN] = {
 		"AM_RESURRECTHOMUN",
-		SkillName = "Resurrecci√≥n de Hom√∫nculo",
+		SkillName = "ResurrecciÛn de Hom˙nculo",
 		MaxLv = 5,
 		SpAmount = {
 			74,
@@ -5328,7 +5328,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.CR_SHIELDBOOMERANG] = {
 		"CR_SHIELDBOOMERANG",
-		SkillName = "Escudo Bumer√°n",
+		SkillName = "Escudo Bumer·n",
 		MaxLv = 5,
 		SpAmount = {
 			12,
@@ -5466,7 +5466,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.CR_DEVOTION] = {
 		"CR_DEVOTION",
-		SkillName = "Devoci√≥n",
+		SkillName = "DevociÛn",
 		MaxLv = 5,
 		SpAmount = {
 			25,
@@ -5552,7 +5552,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.CR_SPEARQUICKEN] = {
 		"CR_SPEARQUICKEN",
-		SkillName = "Aceleraci√≥n de Lanza",
+		SkillName = "AceleraciÛn de Lanza",
 		MaxLv = 10,
 		SpAmount = {
 			24,
@@ -5588,7 +5588,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MO_IRONHAND] = {
 		"MO_IRONHAND",
-		SkillName = "Pu√±os de Hierro",
+		SkillName = "PuÒos de Hierro",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -5628,7 +5628,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MO_SPIRITSRECOVERY] = {
 		"MO_SPIRITSRECOVERY",
-		SkillName = "Restauraci√≥n Espiritual",
+		SkillName = "RestauraciÛn Espiritual",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -5752,7 +5752,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MO_DODGE] = {
 		"MO_DODGE",
-		SkillName = "Maestr√≠a en Esquivar",
+		SkillName = "MaestrÌa en Esquivar",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -5922,7 +5922,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MO_EXTREMITYFIST] = {
 		"MO_EXTREMITYFIST",
-		SkillName = "Pu√±o Supremo de Asura",
+		SkillName = "PuÒo Supremo de Asura",
 		MaxLv = 5,
 		SpAmount = {
 			1,
@@ -5952,7 +5952,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MO_CHAINCOMBO] = {
 		"MO_CHAINCOMBO",
-		SkillName = "Golpe Furioso Cu√°druple",
+		SkillName = "Golpe Furioso Cu·druple",
 		MaxLv = 5,
 		SpAmount = {
 			5,
@@ -6060,7 +6060,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SA_MAGICROD] = {
 		"SA_MAGICROD",
-		SkillName = "Cetro M√°gico",
+		SkillName = "Cetro M·gico",
 		MaxLv = 5,
 		SpAmount = {
 			2,
@@ -6304,7 +6304,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SA_DRAGONOLOGY] = {
 		"SA_DRAGONOLOGY",
-		SkillName = "Dragonolog√≠a",
+		SkillName = "DragonologÌa",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -6330,7 +6330,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SA_VOLCANO] = {
 		"SA_VOLCANO",
-		SkillName = "Volc√°n",
+		SkillName = "Volc·n",
 		MaxLv = 5,
 		SpAmount = {
 			48,
@@ -6408,7 +6408,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SA_LANDPROTECTOR] = {
 		"SA_LANDPROTECTOR",
-		SkillName = "√Årea de Protecci√≥n",
+		SkillName = "¡rea de ProtecciÛn",
 		MaxLv = 5,
 		SpAmount = {
 			66,
@@ -6602,7 +6602,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SA_REVERSEORCISH] = {
 		"SA_REVERSEORCISH",
-		SkillName = "Transformaci√≥n de Orco",
+		SkillName = "TransformaciÛn de Orco",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -6722,7 +6722,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SA_QUESTION] = {
 		"SA_QUESTION",
-		SkillName = "Interrogaci√≥n",
+		SkillName = "InterrogaciÛn",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -6812,7 +6812,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SA_INSTANTDEATH] = {
 		"SA_INSTANTDEATH",
-		SkillName = "Muerte Instant√°nea",
+		SkillName = "Muerte Instant·nea",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -6842,7 +6842,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SA_FULLRECOVERY] = {
 		"SA_FULLRECOVERY",
-		SkillName = "Recuperaci√≥n Total",
+		SkillName = "RecuperaciÛn Total",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -6910,7 +6910,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BD_ENCORE] = {
 		"BD_ENCORE",
-		SkillName = "Una m√°s",
+		SkillName = "Una m·s",
 		MaxLv = 1,
 		SpAmount = {1},
 		bSeperateLv = false,
@@ -6924,7 +6924,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BD_LULLABY] = {
 		"BD_LULLABY",
-		SkillName = "Canci√≥n de Cuna",
+		SkillName = "CanciÛn de Cuna",
 		MaxLv = 1,
 		SpAmount = {40},
 		bSeperateLv = false,
@@ -6946,7 +6946,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BD_RICHMANKIM] = {
 		"BD_RICHMANKIM",
-		SkillName = "Percepci√≥n Mental",
+		SkillName = "PercepciÛn Mental",
 		MaxLv = 5,
 		SpAmount = {
 			62,
@@ -7020,7 +7020,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BD_RINGNIBELUNGEN] = {
 		"BD_RINGNIBELUNGEN",
-		SkillName = "Fraseo Arm√≥nico",
+		SkillName = "Fraseo ArmÛnico",
 		MaxLv = 5,
 		SpAmount = {
 			64,
@@ -7046,7 +7046,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BD_ROKISWEIL] = {
 		"BD_ROKISWEIL",
-		SkillName = "Punteo Cl√°sico",
+		SkillName = "Punteo Cl·sico",
 		MaxLv = 1,
 		SpAmount = {180},
 		bSeperateLv = false,
@@ -7082,7 +7082,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BD_SIEGFRIED] = {
 		"BD_SIEGFRIED",
-		SkillName = "Ritmo Ac√∫stico",
+		SkillName = "Ritmo Ac˙stico",
 		MaxLv = 5,
 		SpAmount = {
 			40,
@@ -7122,7 +7122,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BA_MUSICALLESSON] = {
 		"BA_MUSICALLESSON",
-		SkillName = "Lecciones de M√∫sica",
+		SkillName = "Lecciones de M˙sica",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -7643,7 +7643,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WE_CALLPARTNER] = {
 		"WE_CALLPARTNER",
-		SkillName = "Encuentro Rom√°ntico",
+		SkillName = "Encuentro Rom·ntico",
 		MaxLv = 1,
 		SpAmount = {1},
 		bSeperateLv = false,
@@ -7689,7 +7689,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LK_PARRYING] = {
 		"LK_PARRYING",
-		SkillName = "Desv√≠o",
+		SkillName = "DesvÌo",
 		MaxLv = 10,
 		SpAmount = {
 			50,
@@ -7733,7 +7733,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LK_CONCENTRATION] = {
 		"LK_CONCENTRATION",
-		SkillName = "Lanza D√≠namo",
+		SkillName = "Lanza DÌnamo",
 		MaxLv = 5,
 		SpAmount = {
 			14,
@@ -7831,7 +7831,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.HP_BASILICA] = {
 		"HP_BASILICA",
-		SkillName = "Bas√≠lica",
+		SkillName = "BasÌlica",
 		MaxLv = 5,
 		SpAmount = {
 			40,
@@ -7865,7 +7865,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.HP_MEDITATIO] = {
 		"HP_MEDITATIO",
-		SkillName = "Meditaci√≥n",
+		SkillName = "MeditaciÛn",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -7949,7 +7949,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.HW_MAGICCRASHER] = {
 		"HW_MAGICCRASHER",
-		SkillName = "Golpe m√°gico",
+		SkillName = "Golpe m·gico",
 		MaxLv = 1,
 		SpAmount = {8},
 		bSeperateLv = false,
@@ -7963,7 +7963,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.HW_MAGICPOWER] = {
 		"HW_MAGICPOWER",
-		SkillName = "Amplificaci√≥n M√≠stica",
+		SkillName = "AmplificaciÛn MÌstica",
 		MaxLv = 10,
 		SpAmount = {
 			35,
@@ -8027,7 +8027,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.PA_SACRIFICE] = {
 		"PA_SACRIFICE",
-		SkillName = "Sacrificio del M√°rtir",
+		SkillName = "Sacrificio del M·rtir",
 		MaxLv = 5,
 		SpAmount = {
 			100,
@@ -8131,7 +8131,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.CH_TIGERFIST] = {
 		"CH_TIGERFIST",
-		SkillName = "Pu√±o Glaciar",
+		SkillName = "PuÒo Glaciar",
 		MaxLv = 5,
 		SpAmount = {
 			4,
@@ -8209,7 +8209,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.PF_HPCONVERSION] = {
 		"PF_HPCONVERSION",
-		SkillName = "Conversi√≥n de Salud",
+		SkillName = "ConversiÛn de Salud",
 		MaxLv = 5,
 		SpAmount = {
 			1,
@@ -8239,7 +8239,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.PF_SOULCHANGE] = {
 		"PF_SOULCHANGE",
-		SkillName = "Exhalaci√≥n del Alma",
+		SkillName = "ExhalaciÛn del Alma",
 		MaxLv = 1,
 		SpAmount = {5},
 		bSeperateLv = false,
@@ -8291,7 +8291,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ASC_KATAR] = {
 		"ASC_KATAR",
-		SkillName = "Maestr√≠a de Katar Avanzada",
+		SkillName = "MaestrÌa de Katar Avanzada",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -8395,7 +8395,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SN_SIGHT] = {
 		"SN_SIGHT",
-		SkillName = "Visi√≥n Total",
+		SkillName = "VisiÛn Total",
 		MaxLv = 10,
 		SpAmount = {
 			20,
@@ -8443,7 +8443,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SN_FALCONASSAULT] = {
 		"SN_FALCONASSAULT",
-		SkillName = "Asalto del Halc√≥n",
+		SkillName = "Asalto del HalcÛn",
 		MaxLv = 5,
 		SpAmount = {
 			30,
@@ -8595,7 +8595,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WS_CREATECOIN] = {
 		"WS_CREATECOIN",
-		SkillName = "Creaci√≥n de Monedas",
+		SkillName = "CreaciÛn de Monedas",
 		MaxLv = 3,
 		SpAmount = {
 			10,
@@ -8611,7 +8611,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WS_CREATENUGGET] = {
 		"WS_CREATENUGGET",
-		SkillName = "Creaci√≥n de Pepitas",
+		SkillName = "CreaciÛn de Pepitas",
 		MaxLv = 3,
 		SpAmount = {
 			10,
@@ -8651,7 +8651,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WS_SYSTEMCREATE] = {
 		"WS_SYSTEMCREATE",
-		SkillName = "Creaci√≥n de M√°quinas de Batalla",
+		SkillName = "CreaciÛn de M·quinas de Batalla",
 		MaxLv = 1,
 		SpAmount = {40},
 		bSeperateLv = false,
@@ -8735,13 +8735,13 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.CR_SYNTHESISPOTION] = {
 		"CR_SYNTHESISPOTION",
-		SkillName = "S√≠ntesis de Pociones",
+		SkillName = "SÌntesis de Pociones",
 		MaxLv = 0,
 		bSeperateLv = false
 	},
 	[SKID.CG_ARROWVULCAN] = {
 		"CG_ARROWVULCAN",
-		SkillName = "Volc√°n Flecha",
+		SkillName = "Volc·n Flecha",
 		MaxLv = 10,
 		SpAmount = {
 			12,
@@ -8911,7 +8911,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LK_HEADCRUSH] = {
 		"LK_HEADCRUSH",
-		SkillName = "Golpe Traum√°tico",
+		SkillName = "Golpe Traum·tico",
 		MaxLv = 5,
 		SpAmount = {
 			23,
@@ -9051,7 +9051,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.PF_MEMORIZE] = {
 		"PF_MEMORIZE",
-		SkillName = "Previsi√≥n",
+		SkillName = "PrevisiÛn",
 		MaxLv = 1,
 		SpAmount = {1},
 		bSeperateLv = false,
@@ -9091,7 +9091,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.PF_SPIDERWEB] = {
 		"PF_SPIDERWEB",
-		SkillName = "Bloqueo Ar√°cnido",
+		SkillName = "Bloqueo Ar·cnido",
 		MaxLv = 1,
 		SpAmount = {30},
 		bSeperateLv = false,
@@ -9105,7 +9105,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ASC_METEORASSAULT] = {
 		"ASC_METEORASSAULT",
-		SkillName = "Asalto Mete√≥rico",
+		SkillName = "Asalto MeteÛrico",
 		MaxLv = 10,
 		SpAmount = {
 			13,
@@ -9175,7 +9175,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WE_BABY] = {
 		"WE_BABY",
-		SkillName = "¬°Mam√°, pap√°, los amo!",
+		SkillName = "°Mam·, pap·, los amo!",
 		MaxLv = 1,
 		SpAmount = {10},
 		bSeperateLv = false,
@@ -9183,7 +9183,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WE_CALLPARENT] = {
 		"WE_CALLPARENT",
-		SkillName = "¬°Mam√°, pap√°, los extra√±o!",
+		SkillName = "°Mam·, pap·, los extraÒo!",
 		MaxLv = 1,
 		SpAmount = {1},
 		bSeperateLv = false,
@@ -9191,7 +9191,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WE_CALLBABY] = {
 		"WE_CALLBABY",
-		SkillName = "Ven a m√≠, cari√±o~",
+		SkillName = "Ven a mÌ, cariÒo~",
 		MaxLv = 1,
 		SpAmount = {1},
 		bSeperateLv = false,
@@ -9267,7 +9267,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TK_READYDOWN] = {
 		"TK_READYDOWN",
-		SkillName = "Postura de Patada de Tal√≥n",
+		SkillName = "Postura de Patada de TalÛn",
 		MaxLv = 1,
 		SpAmount = {1},
 		bSeperateLv = false,
@@ -9281,7 +9281,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TK_DOWNKICK] = {
 		"TK_DOWNKICK",
-		SkillName = "Patada de Tal√≥n",
+		SkillName = "Patada de TalÛn",
 		MaxLv = 7,
 		SpAmount = {
 			14,
@@ -9557,7 +9557,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_FEEL] = {
 		"SG_FEEL",
-		SkillName = "Percepci√≥n Solar, Lunar y Estelar",
+		SkillName = "PercepciÛn Solar, Lunar y Estelar",
 		MaxLv = 3,
 		SpAmount = {
 			100,
@@ -9639,7 +9639,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_SUN_COMFORT] = {
 		"SG_SUN_COMFORT",
-		SkillName = "Protecci√≥n Solar",
+		SkillName = "ProtecciÛn Solar",
 		MaxLv = 4,
 		SpAmount = {
 			70,
@@ -9663,7 +9663,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_MOON_COMFORT] = {
 		"SG_MOON_COMFORT",
-		SkillName = "Protecci√≥n Lunar",
+		SkillName = "ProtecciÛn Lunar",
 		MaxLv = 4,
 		SpAmount = {
 			70,
@@ -9687,7 +9687,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_STAR_COMFORT] = {
 		"SG_STAR_COMFORT",
-		SkillName = "Protecci√≥n Estelar",
+		SkillName = "ProtecciÛn Estelar",
 		MaxLv = 4,
 		SpAmount = {
 			70,
@@ -9711,7 +9711,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_HATE] = {
 		"SG_HATE",
-		SkillName = "Oposici√≥n Solar, Lunar y Estelar",
+		SkillName = "OposiciÛn Solar, Lunar y Estelar",
 		MaxLv = 3,
 		SpAmount = {
 			100,
@@ -9959,7 +9959,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_FUSION] = {
 		"SG_FUSION",
-		SkillName = "Uni√≥n Solar, Lunar y Estelar",
+		SkillName = "UniÛn Solar, Lunar y Estelar",
 		MaxLv = 1,
 		Type = "Soul",
 		SpAmount = {100},
@@ -9974,7 +9974,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_ALCHEMIST] = {
 		"SL_ALCHEMIST",
-		SkillName = "Esp√≠ritu de Alquimista",
+		SkillName = "EspÌritu de Alquimista",
 		MaxLv = 5,
 		SpAmount = {
 			460,
@@ -9994,7 +9994,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_BERSERKPITCHER] = {
 		"AM_BERSERKPITCHER",
-		SkillName = "Lanzar Poci√≥n Berserk",
+		SkillName = "Lanzar PociÛn Berserk",
 		MaxLv = 1,
 		Type = "Soul",
 		SpAmount = {10},
@@ -10003,7 +10003,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_MONK] = {
 		"SL_MONK",
-		SkillName = "Esp√≠ritu de Monje",
+		SkillName = "EspÌritu de Monje",
 		MaxLv = 5,
 		SpAmount = {
 			460,
@@ -10023,7 +10023,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_STAR] = {
 		"SL_STAR",
-		SkillName = "Esp√≠ritu de Maestro de Taekwon",
+		SkillName = "EspÌritu de Maestro de Taekwon",
 		MaxLv = 5,
 		SpAmount = {
 			460,
@@ -10043,7 +10043,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_SAGE] = {
 		"SL_SAGE",
-		SkillName = "Esp√≠ritu de Sabio",
+		SkillName = "EspÌritu de Sabio",
 		MaxLv = 5,
 		SpAmount = {
 			460,
@@ -10063,7 +10063,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_CRUSADER] = {
 		"SL_CRUSADER",
-		SkillName = "Esp√≠ritu de Cruzado",
+		SkillName = "EspÌritu de Cruzado",
 		MaxLv = 5,
 		SpAmount = {
 			460,
@@ -10083,7 +10083,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_SUPERNOVICE] = {
 		"SL_SUPERNOVICE",
-		SkillName = "Esp√≠ritu de Superprincipiante",
+		SkillName = "EspÌritu de Superprincipiante",
 		MaxLv = 5,
 		SpAmount = {
 			460,
@@ -10109,7 +10109,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_KNIGHT] = {
 		"SL_KNIGHT",
-		SkillName = "Esp√≠ritu de Caballero",
+		SkillName = "EspÌritu de Caballero",
 		MaxLv = 5,
 		SpAmount = {
 			460,
@@ -10135,7 +10135,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_WIZARD] = {
 		"SL_WIZARD",
-		SkillName = "Esp√≠ritu de Hechicero",
+		SkillName = "EspÌritu de Hechicero",
 		MaxLv = 5,
 		SpAmount = {
 			460,
@@ -10161,7 +10161,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_PRIEST] = {
 		"SL_PRIEST",
-		SkillName = "Esp√≠ritu de Sacerdote",
+		SkillName = "EspÌritu de Sacerdote",
 		MaxLv = 5,
 		SpAmount = {
 			460,
@@ -10187,7 +10187,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_BARDDANCER] = {
 		"SL_BARDDANCER",
-		SkillName = "Esp√≠ritus de Bardo y Bailarina",
+		SkillName = "EspÌritus de Bardo y Bailarina",
 		MaxLv = 5,
 		SpAmount = {
 			460,
@@ -10207,7 +10207,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_ROGUE] = {
 		"SL_ROGUE",
-		SkillName = "Esp√≠ritu de P√≠caro",
+		SkillName = "EspÌritu de PÌcaro",
 		MaxLv = 5,
 		SpAmount = {
 			460,
@@ -10233,7 +10233,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_ASSASIN] = {
 		"SL_ASSASIN",
-		SkillName = "Esp√≠ritu de Asesino",
+		SkillName = "EspÌritu de Asesino",
 		MaxLv = 5,
 		SpAmount = {
 			460,
@@ -10253,7 +10253,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_BLACKSMITH] = {
 		"SL_BLACKSMITH",
-		SkillName = "Esp√≠ritu de Herrero",
+		SkillName = "EspÌritu de Herrero",
 		MaxLv = 5,
 		SpAmount = {
 			460,
@@ -10279,7 +10279,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BS_ADRENALINE2] = {
 		"BS_ADRENALINE2",
-		SkillName = "R√°faga de Adrenalina Avanzada",
+		SkillName = "R·faga de Adrenalina Avanzada",
 		MaxLv = 1,
 		Type = "Soul",
 		SpAmount = {64},
@@ -10294,7 +10294,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_HUNTER] = {
 		"SL_HUNTER",
-		SkillName = "Esp√≠ritu de Cazador",
+		SkillName = "EspÌritu de Cazador",
 		MaxLv = 5,
 		SpAmount = {
 			460,
@@ -10320,7 +10320,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_SOULLINKER] = {
 		"SL_SOULLINKER",
-		SkillName = "Esp√≠ritu de Vinculador de Almas",
+		SkillName = "EspÌritu de Vinculador de Almas",
 		MaxLv = 5,
 		SpAmount = {
 			460,
@@ -10754,7 +10754,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.CR_SLIMPITCHER] = {
 		"CR_SLIMPITCHER",
-		SkillName = "Lanzar Poci√≥n Concentrada",
+		SkillName = "Lanzar PociÛn Concentrada",
 		MaxLv = 10,
 		SpAmount = {
 			30,
@@ -10790,7 +10790,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.CR_FULLPROTECTION] = {
 		"CR_FULLPROTECTION",
-		SkillName = "Protecci√≥n Qu√≠mica Total",
+		SkillName = "ProtecciÛn QuÌmica Total",
 		MaxLv = 5,
 		SpAmount = {
 			40,
@@ -10828,7 +10828,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.PA_SHIELDCHAIN] = {
 		"PA_SHIELDCHAIN",
-		SkillName = "Impacto R√°pido",
+		SkillName = "Impacto R·pido",
 		MaxLv = 5,
 		SpAmount = {
 			28,
@@ -11006,7 +11006,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WS_OVERTHRUSTMAX] = {
 		"WS_OVERTHRUSTMAX",
-		SkillName = "Propulsi√≥n de Poder M√°ximo",
+		SkillName = "PropulsiÛn de Poder M·ximo",
 		MaxLv = 5,
 		SpAmount = {
 			15,
@@ -11082,7 +11082,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.CG_HERMODE] = {
 		"CG_HERMODE",
-		SkillName = "B√°culo de Hermode",
+		SkillName = "B·culo de Hermode",
 		MaxLv = 5,
 		SpAmount = {
 			20,
@@ -11166,7 +11166,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.CR_ACIDDEMONSTRATION] = {
 		"CR_ACIDDEMONSTRATION",
-		SkillName = "Bomba √Åcida",
+		SkillName = "Bomba ¡cida",
 		MaxLv = 10,
 		SpAmount = {
 			50,
@@ -11214,7 +11214,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TK_MISSION] = {
 		"TK_MISSION",
-		SkillName = "Misi√≥n de Taekwon",
+		SkillName = "MisiÛn de Taekwon",
 		MaxLv = 1,
 		SpAmount = {10},
 		bSeperateLv = false,
@@ -11228,7 +11228,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_HIGH] = {
 		"SL_HIGH",
-		SkillName = "Esp√≠ritu de Trascendente",
+		SkillName = "EspÌritu de Trascendente",
 		MaxLv = 5,
 		SpAmount = {
 			460,
@@ -11254,7 +11254,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KN_ONEHAND] = {
 		"KN_ONEHAND",
-		SkillName = "Aceleraci√≥n de Una Mano",
+		SkillName = "AceleraciÛn de Una Mano",
 		MaxLv = 1,
 		Type = "Soul",
 		SpAmount = {
@@ -11291,7 +11291,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_TWILIGHT1] = {
 		"AM_TWILIGHT1",
-		SkillName = "Creaci√≥n de Poci√≥n Espiritual¬†1",
+		SkillName = "CreaciÛn de PociÛn Espiritual†1",
 		MaxLv = 1,
 		Type = "Soul",
 		SpAmount = {200},
@@ -11306,7 +11306,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_TWILIGHT2] = {
 		"AM_TWILIGHT2",
-		SkillName = "Creaci√≥n de Poci√≥n Espiritual¬†2",
+		SkillName = "CreaciÛn de PociÛn Espiritual†2",
 		MaxLv = 1,
 		Type = "Soul",
 		SpAmount = {200},
@@ -11321,7 +11321,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_TWILIGHT3] = {
 		"AM_TWILIGHT3",
-		SkillName = "Creaci√≥n de Poci√≥n Espiritual¬†3",
+		SkillName = "CreaciÛn de PociÛn Espiritual†3",
 		MaxLv = 1,
 		Type = "Soul",
 		SpAmount = {200},
@@ -11385,7 +11385,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GS_TRIPLEACTION] = {
 		"GS_TRIPLEACTION",
-		SkillName = "Acci√≥n Triple",
+		SkillName = "AcciÛn Triple",
 		MaxLv = 1,
 		SpAmount = {20},
 		bSeperateLv = false,
@@ -11413,7 +11413,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GS_MADNESSCANCEL] = {
 		"GS_MADNESSCANCEL",
-		SkillName = "√öltima L√≠nea",
+		SkillName = "⁄ltima LÌnea",
 		MaxLv = 1,
 		SpAmount = {30},
 		bSeperateLv = false,
@@ -11427,7 +11427,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GS_ADJUSTMENT] = {
 		"GS_ADJUSTMENT",
-		SkillName = "P√°nico de Pistolero",
+		SkillName = "P·nico de Pistolero",
 		MaxLv = 1,
 		SpAmount = {15},
 		bSeperateLv = false,
@@ -11441,7 +11441,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GS_INCREASING] = {
 		"GS_INCREASING",
-		SkillName = "Aumentar Precisi√≥n",
+		SkillName = "Aumentar PrecisiÛn",
 		MaxLv = 1,
 		SpAmount = {30},
 		bSeperateLv = false,
@@ -11455,7 +11455,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GS_MAGICALBULLET] = {
 		"GS_MAGICALBULLET",
-		SkillName = "Bala M√°gica",
+		SkillName = "Bala M·gica",
 		MaxLv = 1,
 		SpAmount = {7},
 		bSeperateLv = false,
@@ -11483,7 +11483,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GS_SINGLEACTION] = {
 		"GS_SINGLEACTION",
-		SkillName = "Acci√≥n Simple",
+		SkillName = "AcciÛn Simple",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -11543,7 +11543,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GS_CHAINACTION] = {
 		"GS_CHAINACTION",
-		SkillName = "Acci√≥n en Cadena",
+		SkillName = "AcciÛn en Cadena",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -11667,7 +11667,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GS_RAPIDSHOWER] = {
 		"GS_RAPIDSHOWER",
-		SkillName = "Secuencia Fren√©tica",
+		SkillName = "Secuencia FrenÈtica",
 		MaxLv = 10,
 		SpAmount = {
 			22,
@@ -11739,7 +11739,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GS_GATLINGFEVER] = {
 		"GS_GATLINGFEVER",
-		SkillName = "Metralleta en Frenes√≠",
+		SkillName = "Metralleta en FrenesÌ",
 		MaxLv = 10,
 		SpAmount = {
 			30,
@@ -11815,7 +11815,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GS_FULLBUSTER] = {
 		"GS_FULLBUSTER",
-		SkillName = "Explosi√≥n Total",
+		SkillName = "ExplosiÛn Total",
 		MaxLv = 10,
 		SpAmount = {
 			20,
@@ -11923,7 +11923,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NJ_TOBIDOUGU] = {
 		"NJ_TOBIDOUGU",
-		SkillName = "Pr√°ctica de Lanzamiento de Dagas",
+		SkillName = "Pr·ctica de Lanzamiento de Dagas",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -12141,7 +12141,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NJ_SHADOWJUMP] = {
 		"NJ_SHADOWJUMP",
-		SkillName = "Salto Sombr√≠o",
+		SkillName = "Salto SombrÌo",
 		MaxLv = 5,
 		SpAmount = {
 			10,
@@ -12263,7 +12263,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NJ_NINPOU] = {
 		"NJ_NINPOU",
-		SkillName = "Maestr√≠a de Ninja",
+		SkillName = "MaestrÌa de Ninja",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -12293,7 +12293,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NJ_KOUENKA] = {
 		"NJ_KOUENKA",
-		SkillName = "P√©talos de Fuego",
+		SkillName = "PÈtalos de Fuego",
 		MaxLv = 10,
 		SpAmount = {
 			18,
@@ -12365,7 +12365,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NJ_BAKUENRYU] = {
 		"NJ_BAKUENRYU",
-		SkillName = "Drag√≥n Explosivo",
+		SkillName = "DragÛn Explosivo",
 		MaxLv = 5,
 		SpAmount = {
 			20,
@@ -12395,7 +12395,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NJ_HYOUSENSOU] = {
 		"NJ_HYOUSENSOU",
-		SkillName = "Lanza G√©lida",
+		SkillName = "Lanza GÈlida",
 		MaxLv = 10,
 		SpAmount = {
 			15,
@@ -12431,7 +12431,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NJ_SUITON] = {
 		"NJ_SUITON",
-		SkillName = "Evasi√≥n Acu√°tica",
+		SkillName = "EvasiÛn Acu·tica",
 		MaxLv = 10,
 		SpAmount = {
 			15,
@@ -12467,7 +12467,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NJ_HYOUSYOURAKU] = {
 		"NJ_HYOUSYOURAKU",
-		SkillName = "R√°faga de Copos de Nieve",
+		SkillName = "R·faga de Copos de Nieve",
 		MaxLv = 5,
 		SpAmount = {
 			40,
@@ -12533,7 +12533,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NJ_RAIGEKISAI] = {
 		"NJ_RAIGEKISAI",
-		SkillName = "Descarga Rel√°mpago",
+		SkillName = "Descarga Rel·mpago",
 		MaxLv = 5,
 		SpAmount = {
 			16,
@@ -12699,7 +12699,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MB_TAIMING_PUTI] = {
 		"MB_TAIMING_PUTI",
-		SkillName = "Domesticaci√≥n de Puti",
+		SkillName = "DomesticaciÛn de Puti",
 		MaxLv = 7,
 		SpAmount = {
 			0,
@@ -12723,7 +12723,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MB_WHITEPOTION] = {
 		"MB_WHITEPOTION",
-		SkillName = "Poci√≥n Blanca",
+		SkillName = "PociÛn Blanca",
 		MaxLv = 1,
 		SpAmount = {1},
 		bSeperateLv = false,
@@ -12769,7 +12769,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MB_PETPITCHER] = {
 		"MB_PETPITCHER",
-		SkillName = "Expulsar al Beb√© ",
+		SkillName = "Expulsar al BebÈ ",
 		MaxLv = 10,
 		SpAmount = {
 			10,
@@ -12913,7 +12913,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MB_MISSION] = {
 		"MB_MISSION",
-		SkillName = "Tiempo de la Misi√≥n",
+		SkillName = "Tiempo de la MisiÛn",
 		MaxLv = 1,
 		SpAmount = {10},
 		bSeperateLv = false,
@@ -12989,7 +12989,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MB_B_GATHERING] = {
 		"MB_B_GATHERING",
-		SkillName = "Reuni√≥n de Bongun",
+		SkillName = "ReuniÛn de Bongun",
 		MaxLv = 7,
 		SpAmount = {
 			17,
@@ -13013,7 +13013,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MB_M_GATHERING] = {
 		"MB_M_GATHERING",
-		SkillName = "Reuni√≥n de Munak",
+		SkillName = "ReuniÛn de Munak",
 		MaxLv = 7,
 		SpAmount = {
 			32,
@@ -13037,7 +13037,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MB_B_EXCLUDE] = {
 		"MB_B_EXCLUDE",
-		SkillName = "Exclusi√≥n de Bongun",
+		SkillName = "ExclusiÛn de Bongun",
 		MaxLv = 5,
 		SpAmount = {
 			180,
@@ -13169,7 +13169,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MB_M_REINCARNATION] = {
 		"MB_M_REINCARNATION",
-		SkillName = "Reencarnaci√≥n de Munak",
+		SkillName = "ReencarnaciÛn de Munak",
 		MaxLv = 5,
 		SpAmount = {
 			50,
@@ -13197,7 +13197,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_DEATHKNIGHT] = {
 		"SL_DEATHKNIGHT",
-		SkillName = "Esp√≠ritu de Caballero de la Muerte",
+		SkillName = "EspÌritu de Caballero de la Muerte",
 		MaxLv = 5,
 		SpAmount = {
 			460,
@@ -13217,7 +13217,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_COLLECTOR] = {
 		"SL_COLLECTOR",
-		SkillName = "Esp√≠ritu de Coleccionista de Almas",
+		SkillName = "EspÌritu de Coleccionista de Almas",
 		MaxLv = 5,
 		SpAmount = {
 			460,
@@ -13237,7 +13237,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_NINJA] = {
 		"SL_NINJA",
-		SkillName = "Esp√≠ritu de Ninja",
+		SkillName = "EspÌritu de Ninja",
 		MaxLv = 5,
 		SpAmount = {
 			460,
@@ -13257,7 +13257,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_GUNNER] = {
 		"SL_GUNNER",
-		SkillName = "Esp√≠ritu de Pistolero",
+		SkillName = "EspÌritu de Pistolero",
 		MaxLv = 5,
 		SpAmount = {
 			460,
@@ -13277,7 +13277,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_TWILIGHT4] = {
 		"AM_TWILIGHT4",
-		SkillName = "Creaci√≥n de Poci√≥n Espiritual¬†4",
+		SkillName = "CreaciÛn de PociÛn Espiritual†4",
 		MaxLv = 1,
 		SpAmount = {200},
 		bSeperateLv = false,
@@ -13285,7 +13285,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.DE_BERSERKAIZER] = {
 		"DE_BERSERKAIZER",
-		SkillName = "K√°iser Berserk",
+		SkillName = "K·iser Berserk",
 		MaxLv = 1,
 		SpAmount = {10},
 		bSeperateLv = false,
@@ -13399,7 +13399,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.DE_PCRITICAL] = {
 		"DE_PCRITICAL",
-		SkillName = "Da√±o Cr√≠tico de Muerte",
+		SkillName = "DaÒo CrÌtico de Muerte",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -13513,7 +13513,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.DE_ENERGY] = {
 		"DE_ENERGY",
-		SkillName = "Energ√≠a",
+		SkillName = "EnergÌa",
 		MaxLv = 5,
 		SpAmount = {
 			1,
@@ -13751,7 +13751,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.DE_INSTANT] = {
 		"DE_INSTANT",
-		SkillName = "Instant√°neo",
+		SkillName = "Instant·neo",
 		MaxLv = 7,
 		SpAmount = {
 			50,
@@ -13855,7 +13855,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.DE_GTIME] = {
 		"DE_GTIME",
-		SkillName = "Tiempo¬†G",
+		SkillName = "Tiempo†G",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -13875,7 +13875,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.DE_GPAIN] = {
 		"DE_GPAIN",
-		SkillName = "Dolor¬†G",
+		SkillName = "Dolor†G",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -13895,7 +13895,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.DE_GSKILL] = {
 		"DE_GSKILL",
-		SkillName = "Habilidad¬†G",
+		SkillName = "Habilidad†G",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -13925,7 +13925,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.DE_GKILL] = {
 		"DE_GKILL",
-		SkillName = "Asesinato¬†G",
+		SkillName = "Asesinato†G",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -13945,7 +13945,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.DE_ACCEL] = {
 		"DE_ACCEL",
-		SkillName = "Aceleraci√≥n",
+		SkillName = "AceleraciÛn",
 		MaxLv = 5,
 		SpAmount = {
 			50,
@@ -14163,7 +14163,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.DA_ENERGY] = {
 		"DA_ENERGY",
-		SkillName = "Energ√≠a",
+		SkillName = "EnergÌa",
 		MaxLv = 5,
 		SpAmount = {
 			10,
@@ -14271,7 +14271,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.DA_TRANSFORM] = {
 		"DA_TRANSFORM",
-		SkillName = "Transformaci√≥n",
+		SkillName = "TransformaciÛn",
 		MaxLv = 5,
 		SpAmount = {
 			180,
@@ -14291,7 +14291,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.DA_EXPLOSION] = {
 		"DA_EXPLOSION",
-		SkillName = "Explosi√≥n",
+		SkillName = "ExplosiÛn",
 		MaxLv = 5,
 		SpAmount = {
 			140,
@@ -14339,7 +14339,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.DA_ITEMREBUILD] = {
 		"DA_ITEMREBUILD",
-		SkillName = "Reconstrucci√≥n de Objetos",
+		SkillName = "ReconstrucciÛn de Objetos",
 		MaxLv = 5,
 		SpAmount = {
 			50,
@@ -14359,7 +14359,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.DA_ILLUSION] = {
 		"DA_ILLUSION",
-		SkillName = "Ilusi√≥n",
+		SkillName = "IlusiÛn",
 		MaxLv = 5,
 		SpAmount = {
 			120,
@@ -14467,7 +14467,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.DA_EARPLUG] = {
 		"DA_EARPLUG",
-		SkillName = "Tap√≥n para los O√≠dos",
+		SkillName = "TapÛn para los OÌdos",
 		MaxLv = 5,
 		SpAmount = {
 			60,
@@ -14515,7 +14515,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.DA_DREAM] = {
 		"DA_DREAM",
-		SkillName = "Sue√±o",
+		SkillName = "SueÒo",
 		MaxLv = 5,
 		SpAmount = {
 			600,
@@ -14535,7 +14535,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.DA_MAGICCART] = {
 		"DA_MAGICCART",
-		SkillName = "Carreta M√°gica",
+		SkillName = "Carreta M·gica",
 		MaxLv = 5,
 		SpAmount = {
 			50,
@@ -14667,7 +14667,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.DA_EGUARDIAN] = {
 		"DA_EGUARDIAN",
-		SkillName = "Guardi√°n",
+		SkillName = "Guardi·n",
 		MaxLv = 5,
 		SpAmount = {
 			1300,
@@ -14892,7 +14892,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_WIDEFREEZE] = {
 		"NPC_WIDEFREEZE",
-		SkillName = "Coraz√≥n Helado",
+		SkillName = "CorazÛn Helado",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -14973,7 +14973,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_WIDECONFUSE] = {
 		"NPC_WIDECONFUSE",
-		SkillName = "Regla de la Confusi√≥n",
+		SkillName = "Regla de la ConfusiÛn",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -15000,7 +15000,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_WIDESLEEP] = {
 		"NPC_WIDESLEEP",
-		SkillName = "Sue√±o de Morfeo",
+		SkillName = "SueÒo de Morfeo",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -15027,7 +15027,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_WIDESIGHT] = {
 		"NPC_WIDESIGHT",
-		SkillName = "Visi√≥n Amplia",
+		SkillName = "VisiÛn Amplia",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = false,
@@ -15080,7 +15080,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_MAGICMIRROR] = {
 		"NPC_MAGICMIRROR",
-		SkillName = "Espejo M√°gico",
+		SkillName = "Espejo M·gico",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -15130,7 +15130,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_CRITICALWOUND] = {
 		"NPC_CRITICALWOUND",
-		SkillName = "Heridas Cr√≠ticas",
+		SkillName = "Heridas CrÌticas",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -15374,7 +15374,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_ALLHEAL] = {
 		"NPC_ALLHEAL",
-		SkillName = "Curaci√≥n Completa",
+		SkillName = "CuraciÛn Completa",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = false,
@@ -15382,7 +15382,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GM_SANDMAN] = {
 		"GM_SANDMAN",
-		SkillName = "Buenas noches, cari√±o",
+		SkillName = "Buenas noches, cariÒo",
 		MaxLv = 1,
 		SpAmount = {1},
 		bSeperateLv = false,
@@ -15436,7 +15436,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ALL_DREAM_SUMMERNIGHT] = {
 		"ALL_DREAM_SUMMERNIGHT",
-		SkillName = "Sue√±o de verano",
+		SkillName = "SueÒo de verano",
 		MaxLv = 1,
 		SpAmount = {20},
 		bSeperateLv = false,
@@ -15541,7 +15541,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_WIDECOLD] = {
 		"NPC_WIDECOLD",
-		SkillName = "Congelaci√≥n de las zonas Amplias",
+		SkillName = "CongelaciÛn de las zonas Amplias",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -15568,7 +15568,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_WIDE_DEEP_SLEEP] = {
 		"NPC_WIDE_DEEP_SLEEP",
-		SkillName = "Sue√±o profundo de las zonas Amplias",
+		SkillName = "SueÒo profundo de las zonas Amplias",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -15595,7 +15595,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_WIDESIREN] = {
 		"NPC_WIDESIREN",
-		SkillName = "Fascinaci√≥n por las zonas Amplias",
+		SkillName = "FascinaciÛn por las zonas Amplias",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -15764,7 +15764,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_MAXPAIN] = {
 		"NPC_MAXPAIN",
-		SkillName = "Dolor M√°xima",
+		SkillName = "Dolor M·xima",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -15885,7 +15885,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_REVERBERATION] = {
 		"NPC_REVERBERATION",
-		SkillName = "Reverberaci√≥n",
+		SkillName = "ReverberaciÛn",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -15959,7 +15959,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_SR_CURSEDCIRCLE] = {
 		"NPC_SR_CURSEDCIRCLE",
-		SkillName = "C√≠rculo Maldito",
+		SkillName = "CÌrculo Maldito",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -15986,7 +15986,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_DRAGONBREATH] = {
 		"NPC_DRAGONBREATH",
-		SkillName = "Aliento de Drag√≥n",
+		SkillName = "Aliento de DragÛn",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -16082,7 +16082,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_MANDRAGORA] = {
 		"NPC_MANDRAGORA",
-		SkillName = "Rugido de Mandr√°gora",
+		SkillName = "Rugido de Mandr·gora",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -16109,7 +16109,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_PSYCHIC_WAVE] = {
 		"NPC_PSYCHIC_WAVE",
-		SkillName = "Oleada Ps√≠quica",
+		SkillName = "Oleada PsÌquica",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -16151,7 +16151,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_RAYOFGENESIS] = {
 		"NPC_RAYOFGENESIS",
-		SkillName = "Rayo G√©nesis",
+		SkillName = "Rayo GÈnesis",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -16220,7 +16220,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_IGNITIONBREAK] = {
 		"NPC_IGNITIONBREAK",
-		SkillName = "Ruptura √çgnea",
+		SkillName = "Ruptura Õgnea",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -16247,7 +16247,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_HALLUCINATIONWALK] = {
 		"NPC_HALLUCINATIONWALK",
-		SkillName = "Passos da Ilus√£o",
+		SkillName = "Passos da Ilus„o",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -16267,7 +16267,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_ELECTRICWALK] = {
 		"NPC_ELECTRICWALK",
-		SkillName = "Passos de S√≠lfide",
+		SkillName = "Passos de SÌlfide",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -16327,7 +16327,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_WIDELEASH] = {
 		"NPC_WIDELEASH",
-		SkillName = "Pux√£o",
+		SkillName = "Pux„o",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -16409,7 +16409,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_WIDEBLEEDING2] = {
 		"NPC_WIDEBLEEDING2",
-		SkillName = "Sangrado Masivo Demon√≠aco",
+		SkillName = "Sangrado Masivo DemonÌaco",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -16436,7 +16436,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_WIDESILENCE2] = {
 		"NPC_WIDESILENCE2",
-		SkillName = "Silencio Masivo Demon√≠aco",
+		SkillName = "Silencio Masivo DemonÌaco",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -16463,7 +16463,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_WIDESTUN2] = {
 		"NPC_WIDESTUN2",
-		SkillName = "Aturdimiento Masivo Demon√≠aco",
+		SkillName = "Aturdimiento Masivo DemonÌaco",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -16490,7 +16490,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_WIDESTONE2] = {
 		"NPC_WIDESTONE2",
-		SkillName = "Piedra Masiva Demon√≠aca",
+		SkillName = "Piedra Masiva DemonÌaca",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -16517,7 +16517,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_WIDESLEEP2] = {
 		"NPC_WIDESLEEP2",
-		SkillName = "Sue√±o Masivo Demon√≠aco",
+		SkillName = "SueÒo Masivo DemonÌaco",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -16544,7 +16544,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_WIDECURSE2] = {
 		"NPC_WIDECURSE2",
-		SkillName = "Maldici√≥n Masiva Demon√≠aca",
+		SkillName = "MaldiciÛn Masiva DemonÌaca",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -16571,7 +16571,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_WIDECONFUSE2] = {
 		"NPC_WIDECONFUSE2",
-		SkillName = "Confusi√≥n Masiva Demon√≠aca",
+		SkillName = "ConfusiÛn Masiva DemonÌaca",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -16598,7 +16598,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_WIDEFREEZE2] = {
 		"NPC_WIDEFREEZE2",
-		SkillName = "Congelaci√≥n Masiva Demon√≠aca",
+		SkillName = "CongelaciÛn Masiva DemonÌaca",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -16625,7 +16625,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_EVILLAND2] = {
 		"NPC_EVILLAND2",
-		SkillName = "Tierra del Mal Demon√≠aca",
+		SkillName = "Tierra del Mal DemonÌaca",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -16667,7 +16667,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_HELLJUDGEMENT2] = {
 		"NPC_HELLJUDGEMENT2",
-		SkillName = "Juicio del Infierno Demon√≠aco",
+		SkillName = "Juicio del Infierno DemonÌaco",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -16709,7 +16709,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KN_CHARGEATK] = {
 		"KN_CHARGEATK",
-		SkillName = "Ataque R√°pido",
+		SkillName = "Ataque R·pido",
 		MaxLv = 1,
 		Type = "Quest",
 		SpAmount = {40},
@@ -16727,7 +16727,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AS_SONICACCEL] = {
 		"AS_SONICACCEL",
-		SkillName = "Aceleraci√≥n S√≥nica",
+		SkillName = "AceleraciÛn SÛnica",
 		MaxLv = 1,
 		Type = "Quest",
 		SpAmount = {0},
@@ -16754,7 +16754,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WZ_SIGHTBLASTER] = {
 		"WZ_SIGHTBLASTER",
-		SkillName = "Destello de Visi√≥n",
+		SkillName = "Destello de VisiÛn",
 		MaxLv = 1,
 		Type = "Quest",
 		SpAmount = {80},
@@ -16799,7 +16799,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.DC_WINKCHARM] = {
 		"DC_WINKCHARM",
-		SkillName = "Gui√±o Encantador",
+		SkillName = "GuiÒo Encantador",
 		MaxLv = 1,
 		Type = "Quest",
 		SpAmount = {40},
@@ -16826,7 +16826,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.PR_REDEMPTIO] = {
 		"PR_REDEMPTIO",
-		SkillName = "Redenci√≥n",
+		SkillName = "RedenciÛn",
 		MaxLv = 1,
 		Type = "Quest",
 		SpAmount = {800},
@@ -16916,7 +16916,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_SONICWAVE] = {
 		"RK_SONICWAVE",
-		SkillName = "Onda S√≥nica",
+		SkillName = "Onda SÛnica",
 		MaxLv = 10,
 		SpAmount = {
 			33,
@@ -16952,7 +16952,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_DEATHBOUND] = {
 		"RK_DEATHBOUND",
-		SkillName = "Reflejar Da√±o",
+		SkillName = "Reflejar DaÒo",
 		MaxLv = 10,
 		SpAmount = {
 			50,
@@ -17028,7 +17028,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_WINDCUTTER] = {
 		"RK_WINDCUTTER",
-		SkillName = "R√°faga Cortante",
+		SkillName = "R·faga Cortante",
 		MaxLv = 5,
 		SpAmount = {
 			23,
@@ -17054,7 +17054,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_IGNITIONBREAK] = {
 		"RK_IGNITIONBREAK",
-		SkillName = "Explosi√≥n √çgnea",
+		SkillName = "ExplosiÛn Õgnea",
 		MaxLv = 5,
 		SpAmount = {
 			35,
@@ -17114,7 +17114,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_DRAGONBREATH] = {
 		"RK_DRAGONBREATH",
-		SkillName = "Aliento de Drag√≥n",
+		SkillName = "Aliento de DragÛn",
 		MaxLv = 10,
 		SpAmount = {
 			30,
@@ -17150,7 +17150,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_DRAGONHOWLING] = {
 		"RK_DRAGONHOWLING",
-		SkillName = "Rugido de Drag√≥n",
+		SkillName = "Rugido de DragÛn",
 		MaxLv = 5,
 		SpAmount = {
 			30,
@@ -17176,7 +17176,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_RUNEMASTERY] = {
 		"RK_RUNEMASTERY",
-		SkillName = "Maestr√≠a en Runas",
+		SkillName = "MaestrÌa en Runas",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -17246,7 +17246,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_VITALITYACTIVATION] = {
 		"RK_VITALITYACTIVATION",
-		SkillName = "Activaci√≥n de Vitalidad",
+		SkillName = "ActivaciÛn de Vitalidad",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = false,
@@ -17254,7 +17254,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_STORMBLAST] = {
 		"RK_STORMBLAST",
-		SkillName = "R√°faga de Tormentas",
+		SkillName = "R·faga de Tormentas",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = false,
@@ -17262,7 +17262,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_FIGHTINGSPIRIT] = {
 		"RK_FIGHTINGSPIRIT",
-		SkillName = "Determinaci√≥n",
+		SkillName = "DeterminaciÛn",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = false,
@@ -17278,7 +17278,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_PHANTOMTHRUST] = {
 		"RK_PHANTOMTHRUST",
-		SkillName = "Propulsi√≥n Espectral",
+		SkillName = "PropulsiÛn Espectral",
 		MaxLv = 5,
 		SpAmount = {
 			15,
@@ -17304,7 +17304,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GC_VENOMIMPRESS] = {
 		"GC_VENOMIMPRESS",
-		SkillName = "Impresi√≥n Venenosa",
+		SkillName = "ImpresiÛn Venenosa",
 		MaxLv = 5,
 		SpAmount = {
 			12,
@@ -17356,7 +17356,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GC_DARKILLUSION] = {
 		"GC_DARKILLUSION",
-		SkillName = "Ilusi√≥n Oscura",
+		SkillName = "IlusiÛn Oscura",
 		MaxLv = 5,
 		SpAmount = {
 			40,
@@ -17382,7 +17382,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GC_RESEARCHNEWPOISON] = {
 		"GC_RESEARCHNEWPOISON",
-		SkillName = "Investigaci√≥n de Veneno Nuevo",
+		SkillName = "InvestigaciÛn de Veneno Nuevo",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -17412,7 +17412,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GC_CREATENEWPOISON] = {
 		"GC_CREATENEWPOISON",
-		SkillName = "Creaci√≥n de Veneno Nuevo",
+		SkillName = "CreaciÛn de Veneno Nuevo",
 		MaxLv = 1,
 		SpAmount = {10},
 		bSeperateLv = false,
@@ -17426,7 +17426,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GC_ANTIDOTE] = {
 		"GC_ANTIDOTE",
-		SkillName = "Ant√≠doto",
+		SkillName = "AntÌdoto",
 		MaxLv = 1,
 		SpAmount = {10},
 		bSeperateLv = false,
@@ -17554,7 +17554,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GC_VENOMPRESSURE] = {
 		"GC_VENOMPRESSURE",
-		SkillName = "Presi√≥n de Veneno",
+		SkillName = "PresiÛn de Veneno",
 		MaxLv = 5,
 		SpAmount = {
 			30,
@@ -17874,7 +17874,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_CHEAL] = {
 		"AB_CHEAL",
-		SkillName = "Curaci√≥n Masiva",
+		SkillName = "CuraciÛn Masiva",
 		MaxLv = 3,
 		SpAmount = {
 			200,
@@ -18046,7 +18046,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_EUCHARISTICA] = {
 		"AB_EUCHARISTICA",
-		SkillName = "Eucar√≠stica",
+		SkillName = "EucarÌstica",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -18110,7 +18110,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_HIGHNESSHEAL] = {
 		"AB_HIGHNESSHEAL",
-		SkillName = "Sanaci√≥n Suprema",
+		SkillName = "SanaciÛn Suprema",
 		MaxLv = 5,
 		SpAmount = {
 			70,
@@ -18162,7 +18162,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_EXPIATIO] = {
 		"AB_EXPIATIO",
-		SkillName = "Expiaci√≥n",
+		SkillName = "ExpiaciÛn",
 		MaxLv = 5,
 		SpAmount = {
 			35,
@@ -18572,7 +18572,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_CRIMSONROCK] = {
 		"WL_CRIMSONROCK",
-		SkillName = "Roca Carmes√≠ ",
+		SkillName = "Roca CarmesÌ ",
 		MaxLv = 5,
 		SpAmount = {
 			60,
@@ -18650,7 +18650,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_CHAINLIGHTNING] = {
 		"WL_CHAINLIGHTNING",
-		SkillName = "Rel√°mpago de Cadena",
+		SkillName = "Rel·mpago de Cadena",
 		MaxLv = 5,
 		SpAmount = {
 			80,
@@ -18676,7 +18676,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_EARTHSTRAIN] = {
 		"WL_EARTHSTRAIN",
-		SkillName = "Temblor S√≠smico",
+		SkillName = "Temblor SÌsmico",
 		MaxLv = 5,
 		SpAmount = {
 			70,
@@ -18806,7 +18806,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_RELEASE] = {
 		"WL_RELEASE",
-		SkillName = "Liberaci√≥n",
+		SkillName = "LiberaciÛn",
 		MaxLv = 2,
 		SpAmount = {10, 10},
 		bSeperateLv = true,
@@ -18918,7 +18918,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_RANGERMAIN] = {
 		"RA_RANGERMAIN",
-		SkillName = "T√°cticas de Supervivencia",
+		SkillName = "T·cticas de Supervivencia",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -18998,7 +18998,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_ELECTRICSHOCKER] = {
 		"RA_ELECTRICSHOCKER",
-		SkillName = "Trampa El√©ctrica",
+		SkillName = "Trampa ElÈctrica",
 		MaxLv = 5,
 		SpAmount = {
 			35,
@@ -19234,7 +19234,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_RESEARCHTRAP] = {
 		"RA_RESEARCHTRAP",
-		SkillName = "Investigaci√≥n de Trampas",
+		SkillName = "InvestigaciÛn de Trampas",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -19382,7 +19382,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_MADOLICENCE] = {
 		"NC_MADOLICENCE",
-		SkillName = "Licencia de Meca M√°gico",
+		SkillName = "Licencia de Meca M·gico",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -19402,7 +19402,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_BOOSTKNUCKLE] = {
 		"NC_BOOSTKNUCKLE",
-		SkillName = "Propulsi√≥n de Pu√±o de Acero",
+		SkillName = "PropulsiÛn de PuÒo de Acero",
 		MaxLv = 5,
 		SpAmount = {
 			5,
@@ -19428,7 +19428,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_PILEBUNKER] = {
 		"NC_PILEBUNKER",
-		SkillName = "Perforaci√≥n de Acero",
+		SkillName = "PerforaciÛn de Acero",
 		MaxLv = 3,
 		SpAmount = {
 			50,
@@ -19516,7 +19516,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_ARMSCANNON] = {
 		"NC_ARMSCANNON",
-		SkillName = "Ca√±√≥n de Brazo",
+		SkillName = "CaÒÛn de Brazo",
 		MaxLv = 5,
 		SpAmount = {
 			40,
@@ -19546,7 +19546,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_ACCELERATION] = {
 		"NC_ACCELERATION",
-		SkillName = "Aceleraci√≥n",
+		SkillName = "AceleraciÛn",
 		MaxLv = 3,
 		SpAmount = {
 			20,
@@ -19634,7 +19634,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_SELFDESTRUCTION] = {
 		"NC_SELFDESTRUCTION",
-		SkillName = "Destrucci√≥n Suicida",
+		SkillName = "DestrucciÛn Suicida",
 		MaxLv = 3,
 		SpAmount = {
 			200,
@@ -19694,7 +19694,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_INFRAREDSCAN] = {
 		"NC_INFRAREDSCAN",
-		SkillName = "Exploraci√≥n Infrarroja",
+		SkillName = "ExploraciÛn Infrarroja",
 		MaxLv = 1,
 		SpAmount = {45},
 		bSeperateLv = false,
@@ -19730,7 +19730,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_MAGNETICFIELD] = {
 		"NC_MAGNETICFIELD",
-		SkillName = "Campo Magn√©tico",
+		SkillName = "Campo MagnÈtico",
 		MaxLv = 3,
 		SpAmount = {
 			60,
@@ -19826,7 +19826,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_TRAININGAXE] = {
 		"NC_TRAININGAXE",
-		SkillName = "Maestr√≠a de Hacha",
+		SkillName = "MaestrÌa de Hacha",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -19856,7 +19856,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_RESEARCHFE] = {
 		"NC_RESEARCHFE",
-		SkillName = "Investigaci√≥n de Tierra y Fuego",
+		SkillName = "InvestigaciÛn de Tierra y Fuego",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -19876,7 +19876,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_AXEBOOMERANG] = {
 		"NC_AXEBOOMERANG",
-		SkillName = "Hacha Bumer√°n",
+		SkillName = "Hacha Bumer·n",
 		MaxLv = 5,
 		SpAmount = {
 			20,
@@ -19990,7 +19990,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_MAGICDECOY] = {
 		"NC_MAGICDECOY",
-		SkillName = "Francotirador M√°gico",
+		SkillName = "Francotirador M·gico",
 		MaxLv = 5,
 		SpAmount = {
 			40,
@@ -20138,7 +20138,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_SHADOWFORM] = {
 		"SC_SHADOWFORM",
-		SkillName = "Formaci√≥n de Sombras",
+		SkillName = "FormaciÛn de Sombras",
 		MaxLv = 5,
 		SpAmount = {
 			40,
@@ -20254,7 +20254,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_DEADLYINFECT] = {
 		"SC_DEADLYINFECT",
-		SkillName = "Infecci√≥n Mortal",
+		SkillName = "InfecciÛn Mortal",
 		MaxLv = 5,
 		SpAmount = {
 			40,
@@ -20284,7 +20284,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_ENERVATION] = {
 		"SC_ENERVATION",
-		SkillName = "Mascarada: Enervaci√≥n",
+		SkillName = "Mascarada: EnervaciÛn",
 		MaxLv = 3,
 		SpAmount = {
 			30,
@@ -20306,7 +20306,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_GROOMY] = {
 		"SC_GROOMY",
-		SkillName = "Mascarada: Melanc√≥lico",
+		SkillName = "Mascarada: MelancÛlico",
 		MaxLv = 3,
 		SpAmount = {
 			30,
@@ -20506,7 +20506,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_CHAOSPANIC] = {
 		"SC_CHAOSPANIC",
-		SkillName = "P√°nico Ca√≥tico",
+		SkillName = "P·nico CaÛtico",
 		MaxLv = 3,
 		SpAmount = {
 			30,
@@ -20612,7 +20612,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_CANNONSPEAR] = {
 		"LG_CANNONSPEAR",
-		SkillName = "Lanza Ca√±√≥n",
+		SkillName = "Lanza CaÒÛn",
 		MaxLv = 5,
 		SpAmount = {
 			30,
@@ -20690,7 +20690,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_SHIELDPRESS] = {
 		"LG_SHIELDPRESS",
-		SkillName = "Presi√≥n de Escudo",
+		SkillName = "PresiÛn de Escudo",
 		MaxLv = 10,
 		SpAmount = {
 			10,
@@ -20726,7 +20726,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_REFLECTDAMAGE] = {
 		"LG_REFLECTDAMAGE",
-		SkillName = "Reflejo de Da√±o",
+		SkillName = "Reflejo de DaÒo",
 		MaxLv = 5,
 		SpAmount = {
 			60,
@@ -20838,7 +20838,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_EXEEDBREAK] = {
 		"LG_EXEEDBREAK",
-		SkillName = "Superaci√≥n de L√≠mites",
+		SkillName = "SuperaciÛn de LÌmites",
 		MaxLv = 5,
 		SpAmount = {
 			20,
@@ -20920,7 +20920,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_BANDING] = {
 		"LG_BANDING",
-		SkillName = "Formaci√≥n Real",
+		SkillName = "FormaciÛn Real",
 		MaxLv = 5,
 		SpAmount = {
 			30,
@@ -20976,7 +20976,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_RAYOFGENESIS] = {
 		"LG_RAYOFGENESIS",
-		SkillName = "Rayo G√©nesis",
+		SkillName = "Rayo GÈnesis",
 		MaxLv = 10,
 		SpAmount = {
 			30,
@@ -21094,7 +21094,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_INSPIRATION] = {
 		"LG_INSPIRATION",
-		SkillName = "Inspiraci√≥n",
+		SkillName = "InspiraciÛn",
 		MaxLv = 5,
 		SpAmount = {
 			80,
@@ -21128,7 +21128,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_DRAGONCOMBO] = {
 		"SR_DRAGONCOMBO",
-		SkillName = "Combo de Drag√≥n",
+		SkillName = "Combo de DragÛn",
 		MaxLv = 10,
 		SpAmount = {
 			3,
@@ -21216,7 +21216,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_FALLENEMPIRE] = {
 		"SR_FALLENEMPIRE",
-		SkillName = "Imperio Ca√≠do",
+		SkillName = "Imperio CaÌdo",
 		MaxLv = 10,
 		SpAmount = {
 			18,
@@ -21252,7 +21252,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_TIGERCANNON] = {
 		"SR_TIGERCANNON",
-		SkillName = "Ca√±√≥n de Tigre",
+		SkillName = "CaÒÛn de Tigre",
 		MaxLv = 10,
 		SpAmount = {
 			30,
@@ -21288,7 +21288,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_RAMPAGEBLASTER] = {
 		"SR_RAMPAGEBLASTER",
-		SkillName = "R√°faga de Explosiones",
+		SkillName = "R·faga de Explosiones",
 		MaxLv = 5,
 		SpAmount = {
 			100,
@@ -21340,7 +21340,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_CURSEDCIRCLE] = {
 		"SR_CURSEDCIRCLE",
-		SkillName = "C√≠rculo Maldito",
+		SkillName = "CÌrculo Maldito",
 		MaxLv = 5,
 		SpAmount = {
 			40,
@@ -21366,7 +21366,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_LIGHTNINGWALK] = {
 		"SR_LIGHTNINGWALK",
-		SkillName = "Paseo Rel√°mpago",
+		SkillName = "Paseo Rel·mpago",
 		MaxLv = 5,
 		SpAmount = {
 			40,
@@ -21442,7 +21442,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_RAISINGDRAGON] = {
 		"SR_RAISINGDRAGON",
-		SkillName = "Drag√≥n Ascendente",
+		SkillName = "DragÛn Ascendente",
 		MaxLv = 10,
 		SpAmount = {
 			120,
@@ -21482,7 +21482,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_ASSIMILATEPOWER] = {
 		"SR_ASSIMILATEPOWER",
-		SkillName = "Absorci√≥n de Poder",
+		SkillName = "AbsorciÛn de Poder",
 		MaxLv = 1,
 		SpAmount = {10},
 		bSeperateLv = false,
@@ -21500,7 +21500,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_POWERVELOCITY] = {
 		"SR_POWERVELOCITY",
-		SkillName = "ImPlantaci√≥n de Poder",
+		SkillName = "ImPlantaciÛn de Poder",
 		MaxLv = 1,
 		SpAmount = {50},
 		bSeperateLv = false,
@@ -21601,7 +21601,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_GENTLETOUCH_ENERGYGAIN] = {
 		"SR_GENTLETOUCH_ENERGYGAIN",
-		SkillName = "Toque Suave: Aumento de Energ√≠a",
+		SkillName = "Toque Suave: Aumento de EnergÌa",
 		MaxLv = 5,
 		SpAmount = {
 			40,
@@ -21627,7 +21627,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_GENTLETOUCH_CHANGE] = {
 		"SR_GENTLETOUCH_CHANGE",
-		SkillName = "Toque Suave: Conversi√≥n",
+		SkillName = "Toque Suave: ConversiÛn",
 		MaxLv = 5,
 		SpAmount = {
 			40,
@@ -21721,7 +21721,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WA_SYMPHONY_OF_LOVER] = {
 		"WA_SYMPHONY_OF_LOVER",
-		SkillName = "Sinfon√≠a del Amante",
+		SkillName = "SinfonÌa del Amante",
 		MaxLv = 5,
 		SpAmount = {
 			60,
@@ -21773,7 +21773,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MI_RUSH_WINDMILL] = {
 		"MI_RUSH_WINDMILL",
-		SkillName = "Sinfon√≠a de los Vientos",
+		SkillName = "SinfonÌa de los Vientos",
 		MaxLv = 5,
 		SpAmount = {
 			82,
@@ -21799,7 +21799,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MI_ECHOSONG] = {
 		"MI_ECHOSONG",
-		SkillName = "Canci√≥n del Eco",
+		SkillName = "CanciÛn del Eco",
 		MaxLv = 5,
 		SpAmount = {
 			86,
@@ -21881,7 +21881,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_METALICSOUND] = {
 		"WM_METALICSOUND",
-		SkillName = "Sonido Met√°lico",
+		SkillName = "Sonido Met·lico",
 		MaxLv = 10,
 		SpAmount = {
 			62,
@@ -21917,7 +21917,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_REVERBERATION] = {
 		"WM_REVERBERATION",
-		SkillName = "Reverberaci√≥n",
+		SkillName = "ReverberaciÛn",
 		MaxLv = 5,
 		SpAmount = {
 			56,
@@ -21951,7 +21951,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_DOMINION_IMPULSE] = {
 		"WM_DOMINION_IMPULSE",
-		SkillName = "Detonaci√≥n S√≠smica",
+		SkillName = "DetonaciÛn SÌsmica",
 		MaxLv = 1,
 		SpAmount = {10},
 		bSeperateLv = false,
@@ -21999,7 +21999,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_POEMOFNETHERWORLD] = {
 		"WM_POEMOFNETHERWORLD",
-		SkillName = "Canci√≥n de la Desesperaci√≥n",
+		SkillName = "CanciÛn de la DesesperaciÛn",
 		MaxLv = 5,
 		SpAmount = {
 			12,
@@ -22051,7 +22051,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_DEADHILLHERE] = {
 		"WM_DEADHILLHERE",
-		SkillName = "Canci√≥n de Regreso",
+		SkillName = "CanciÛn de Regreso",
 		MaxLv = 5,
 		SpAmount = {
 			50,
@@ -22077,7 +22077,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_LULLABY_DEEPSLEEP] = {
 		"WM_LULLABY_DEEPSLEEP",
-		SkillName = "Canci√≥n de Descanso",
+		SkillName = "CanciÛn de Descanso",
 		MaxLv = 5,
 		SpAmount = {
 			80,
@@ -22103,7 +22103,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_SIRCLEOFNATURE] = {
 		"WM_SIRCLEOFNATURE",
-		SkillName = "C√≠rculo de la Naturaleza",
+		SkillName = "CÌrculo de la Naturaleza",
 		MaxLv = 5,
 		SpAmount = {
 			42,
@@ -22129,7 +22129,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_RANDOMIZESPELL] = {
 		"WM_RANDOMIZESPELL",
-		SkillName = "Canci√≥n Improvisada",
+		SkillName = "CanciÛn Improvisada",
 		MaxLv = 5,
 		SpAmount = {
 			20,
@@ -22155,7 +22155,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_GLOOMYDAY] = {
 		"WM_GLOOMYDAY",
-		SkillName = "Timidez Sombr√≠a",
+		SkillName = "Timidez SombrÌa",
 		MaxLv = 5,
 		SpAmount = {
 			42,
@@ -22207,7 +22207,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_SONG_OF_MANA] = {
 		"WM_SONG_OF_MANA",
-		SkillName = "Canci√≥n de Man√° ",
+		SkillName = "CanciÛn de Man· ",
 		MaxLv = 5,
 		SpAmount = {
 			120,
@@ -22307,7 +22307,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_SOUND_OF_DESTRUCTION] = {
 		"WM_SOUND_OF_DESTRUCTION",
-		SkillName = "Canci√≥n de la Destrucci√≥n",
+		SkillName = "CanciÛn de la DestrucciÛn",
 		MaxLv = 5,
 		SpAmount = {
 			80,
@@ -22337,7 +22337,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_SATURDAY_NIGHT_FEVER] = {
 		"WM_SATURDAY_NIGHT_FEVER",
-		SkillName = "Fiebre de S√°bado por la Noche",
+		SkillName = "Fiebre de S·bado por la Noche",
 		MaxLv = 5,
 		SpAmount = {
 			150,
@@ -22363,7 +22363,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_LERADS_DEW] = {
 		"WM_LERADS_DEW",
-		SkillName = "Roc√≠o de Lerad",
+		SkillName = "RocÌo de Lerad",
 		MaxLv = 5,
 		SpAmount = {
 			80,
@@ -22413,7 +22413,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_MELODYOFSINK] = {
 		"WM_MELODYOFSINK",
-		SkillName = "Melod√≠a Debilitadora",
+		SkillName = "MelodÌa Debilitadora",
 		MaxLv = 5,
 		SpAmount = {
 			120,
@@ -22521,7 +22521,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_ELECTRICWALK] = {
 		"SO_ELECTRICWALK",
-		SkillName = "Camino El√©ctrico",
+		SkillName = "Camino ElÈctrico",
 		MaxLv = 5,
 		SpAmount = {
 			30,
@@ -22547,7 +22547,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_SPELLFIST] = {
 		"SO_SPELLFIST",
-		SkillName = "Pu√±os M√°gicos",
+		SkillName = "PuÒos M·gicos",
 		MaxLv = 10,
 		SpAmount = {
 			40,
@@ -22635,7 +22635,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_POISON_BUSTER] = {
 		"SO_POISON_BUSTER",
-		SkillName = "R√°faga Venenosa",
+		SkillName = "R·faga Venenosa",
 		MaxLv = 5,
 		SpAmount = {
 			70,
@@ -22661,7 +22661,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_PSYCHIC_WAVE] = {
 		"SO_PSYCHIC_WAVE",
-		SkillName = "Onda Ps√≠quica",
+		SkillName = "Onda PsÌquica",
 		MaxLv = 5,
 		SpAmount = {
 			48,
@@ -22751,7 +22751,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_WARMER] = {
 		"SO_WARMER",
-		SkillName = "Zona C√°lida",
+		SkillName = "Zona C·lida",
 		MaxLv = 5,
 		SpAmount = {
 			40,
@@ -22781,7 +22781,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_VACUUM_EXTREME] = {
 		"SO_VACUUM_EXTREME",
-		SkillName = "Vac√≠o Extremo",
+		SkillName = "VacÌo Extremo",
 		MaxLv = 5,
 		SpAmount = {
 			34,
@@ -23001,7 +23001,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_EL_ACTION] = {
 		"SO_EL_ACTION",
-		SkillName = "Acci√≥n Elemental",
+		SkillName = "AcciÛn Elemental",
 		MaxLv = 1,
 		SpAmount = {50},
 		bSeperateLv = false,
@@ -23189,7 +23189,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_REMODELING_CART] = {
 		"GN_REMODELING_CART",
-		SkillName = "Remodelaci√≥n de Carreta",
+		SkillName = "RemodelaciÛn de Carreta",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -23245,7 +23245,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_CARTCANNON] = {
 		"GN_CARTCANNON",
-		SkillName = "Ca√±√≥n de Carreta",
+		SkillName = "CaÒÛn de Carreta",
 		MaxLv = 5,
 		SpAmount = {
 			40,
@@ -23271,7 +23271,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_CARTBOOST] = {
 		"GN_CARTBOOST",
-		SkillName = "Propulsi√≥n de Carreta",
+		SkillName = "PropulsiÛn de Carreta",
 		MaxLv = 5,
 		SpAmount = {
 			20,
@@ -23349,7 +23349,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_SPORE_EXPLOSION] = {
 		"GN_SPORE_EXPLOSION",
-		SkillName = "Explosi√≥n de Espora",
+		SkillName = "ExplosiÛn de Espora",
 		MaxLv = 10,
 		SpAmount = {
 			48,
@@ -23447,7 +23447,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_DEMONIC_FIRE] = {
 		"GN_DEMONIC_FIRE",
-		SkillName = "Fuego Demon√≠aco",
+		SkillName = "Fuego DemonÌaco",
 		MaxLv = 5,
 		SpAmount = {
 			24,
@@ -23473,7 +23473,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_FIRE_EXPANSION] = {
 		"GN_FIRE_EXPANSION",
-		SkillName = "Expansi√≥n del Fuego",
+		SkillName = "ExpansiÛn del Fuego",
 		MaxLv = 5,
 		SpAmount = {
 			30,
@@ -23525,7 +23525,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_MANDRAGORA] = {
 		"GN_MANDRAGORA",
-		SkillName = "Rugido de Mandr√°gora",
+		SkillName = "Rugido de Mandr·gora",
 		MaxLv = 5,
 		SpAmount = {
 			40,
@@ -23587,7 +23587,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_MAKEBOMB] = {
 		"GN_MAKEBOMB",
-		SkillName = "Creaci√≥n de Bombas",
+		SkillName = "CreaciÛn de Bombas",
 		MaxLv = 2,
 		SpAmount = {5, 40},
 		bSeperateLv = true,
@@ -23661,7 +23661,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_HOWLINGOFLION] = {
 		"SR_HOWLINGOFLION",
-		SkillName = "Rugido de Le√≥n",
+		SkillName = "Rugido de LeÛn",
 		MaxLv = 5,
 		SpAmount = {
 			70,
@@ -23691,7 +23691,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_RIDEINLIGHTNING] = {
 		"SR_RIDEINLIGHTNING",
-		SkillName = "Ataque Rel√°mpago",
+		SkillName = "Ataque Rel·mpago",
 		MaxLv = 5,
 		SpAmount = {
 			25,
@@ -23717,7 +23717,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ALL_ODINS_RECALL] = {
 		"ALL_ODINS_RECALL",
-		SkillName = "Llamada de Od√≠n",
+		SkillName = "Llamada de OdÌn",
 		MaxLv = 1,
 		SpAmount = {1},
 		bSeperateLv = false,
@@ -23741,7 +23741,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ALL_GUARDIAN_RECALL] = {
 		"ALL_GUARDIAN_RECALL",
-		SkillName = "Llamada del Guardi√°n",
+		SkillName = "Llamada del Guardi·n",
 		MaxLv = 1,
 		SpAmount = {10},
 		bSeperateLv = false,
@@ -23749,7 +23749,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ALL_ODINS_POWER] = {
 		"ALL_ODINS_POWER",
-		SkillName = "El Poder de Od√≠n",
+		SkillName = "El Poder de OdÌn",
 		MaxLv = 2,
 		SpAmount = {70, 100},
 		bSeperateLv = false,
@@ -23861,7 +23861,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MC_CARTDECORATE] = {
 		"MC_CARTDECORATE",
-		SkillName = "Decoraci√≥n de Carreta",
+		SkillName = "DecoraciÛn de Carreta",
 		MaxLv = 1,
 		SpAmount = {40},
 		bSeperateLv = false,
@@ -23877,7 +23877,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GM_ITEM_ATKMIN] = {
 		"GM_ITEM_ATKMIN",
-		SkillName = "Probabilidad de Ataque del objeto f√≠sico m√°x.",
+		SkillName = "Probabilidad de Ataque del objeto fÌsico m·x.",
 		MaxLv = 1,
 		SpAmount = {1},
 		bSeperateLv = false,
@@ -23885,7 +23885,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GM_ITEM_MATKMAX] = {
 		"GM_ITEM_MATKMAX",
-		SkillName = "Minimizar la probabilidad de Ataque del objeto f√≠sico",
+		SkillName = "Minimizar la probabilidad de Ataque del objeto fÌsico",
 		MaxLv = 1,
 		SpAmount = {1},
 		bSeperateLv = false,
@@ -23893,7 +23893,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GM_ITEM_MATKMIN] = {
 		"GM_ITEM_MATKMIN",
-		SkillName = "Minimizar la probabilidad de Ataque del objeto M√°gico",
+		SkillName = "Minimizar la probabilidad de Ataque del objeto M·gico",
 		MaxLv = 1,
 		SpAmount = {1},
 		bSeperateLv = false,
@@ -24087,7 +24087,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_QD_SHOT] = {
 		"RL_QD_SHOT",
-		SkillName = "Tiro R√°pido",
+		SkillName = "Tiro R·pido",
 		MaxLv = 1,
 		SpAmount = {5},
 		bSeperateLv = false,
@@ -24101,7 +24101,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_C_MARKER] = {
 		"RL_C_MARKER",
-		SkillName = "Marcador Carmes√≠ ",
+		SkillName = "Marcador CarmesÌ ",
 		MaxLv = 1,
 		SpAmount = {10},
 		bSeperateLv = false,
@@ -24203,7 +24203,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_FALLEN_ANGEL] = {
 		"RL_FALLEN_ANGEL",
-		SkillName = "√Ångel Ca√≠do",
+		SkillName = "¡ngel CaÌdo",
 		MaxLv = 1,
 		SpAmount = {10},
 		bSeperateLv = false,
@@ -24253,7 +24253,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_D_TAIL] = {
 		"RL_D_TAIL",
-		SkillName = "Cola de Drag√≥n",
+		SkillName = "Cola de DragÛn",
 		MaxLv = 10,
 		SpAmount = {
 			55,
@@ -24345,7 +24345,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_AM_BLAST] = {
 		"RL_AM_BLAST",
-		SkillName = "Explosi√≥n Antimaterial",
+		SkillName = "ExplosiÛn Antimaterial",
 		MaxLv = 5,
 		SpAmount = {
 			80,
@@ -24371,7 +24371,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_SLUGSHOT] = {
 		"RL_SLUGSHOT",
-		SkillName = "Destrucci√≥n Primordial",
+		SkillName = "DestrucciÛn Primordial",
 		MaxLv = 5,
 		SpAmount = {
 			80,
@@ -24659,7 +24659,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SJ_NOVAEXPLOSING] = {
 		"SJ_NOVAEXPLOSING",
-		SkillName = "Explosi√≥n Nova",
+		SkillName = "ExplosiÛn Nova",
 		MaxLv = 5,
 		SpAmount = {
 			60,
@@ -24851,7 +24851,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SJ_PURIFY] = {
 		"SJ_PURIFY",
-		SkillName = "Purificaci√≥n Solar, Lunar y Estelar",
+		SkillName = "PurificaciÛn Solar, Lunar y Estelar",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = false,
@@ -24913,7 +24913,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SJ_SOLARBURST] = {
 		"SJ_SOLARBURST",
-		SkillName = "Explosi√≥n Solar",
+		SkillName = "ExplosiÛn Solar",
 		MaxLv = 10,
 		SpAmount = {
 			34,
@@ -25019,7 +25019,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_SOULGOLEM] = {
 		"SP_SOULGOLEM",
-		SkillName = "Alma de G√≥lem",
+		SkillName = "Alma de GÛlem",
 		MaxLv = 5,
 		SpAmount = {
 			250,
@@ -25045,7 +25045,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_SOULSHADOW] = {
 		"SP_SOULSHADOW",
-		SkillName = "Alma Sombr√≠a",
+		SkillName = "Alma SombrÌa",
 		MaxLv = 5,
 		SpAmount = {
 			250,
@@ -25071,7 +25071,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_SOULFALCON] = {
 		"SP_SOULFALCON",
-		SkillName = "Alma de Halc√≥n",
+		SkillName = "Alma de HalcÛn",
 		MaxLv = 5,
 		SpAmount = {
 			250,
@@ -25123,7 +25123,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_CURSEEXPLOSION] = {
 		"SP_CURSEEXPLOSION",
-		SkillName = "Explosi√≥n de Maldiciones",
+		SkillName = "ExplosiÛn de Maldiciones",
 		MaxLv = 10,
 		SpAmount = {
 			50,
@@ -25159,7 +25159,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_SOULCURSE] = {
 		"SP_SOULCURSE",
-		SkillName = "Maldici√≥n de Alma Maligna",
+		SkillName = "MaldiciÛn de Alma Maligna",
 		MaxLv = 5,
 		SpAmount = {
 			70,
@@ -25313,7 +25313,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_SOULDIVISION] = {
 		"SP_SOULDIVISION",
-		SkillName = "Divisi√≥n del Alma",
+		SkillName = "DivisiÛn del Alma",
 		MaxLv = 5,
 		SpAmount = {
 			36,
@@ -25369,7 +25369,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_SOULREVOLVE] = {
 		"SP_SOULREVOLVE",
-		SkillName = "Circulaci√≥n de Almas",
+		SkillName = "CirculaciÛn de Almas",
 		MaxLv = 3,
 		SpAmount = {
 			50,
@@ -25395,7 +25395,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_SOULCOLLECT] = {
 		"SP_SOULCOLLECT",
-		SkillName = "Colecci√≥n de Almas",
+		SkillName = "ColecciÛn de Almas",
 		MaxLv = 5,
 		SpAmount = {
 			100,
@@ -25415,7 +25415,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_SOULEXPLOSION] = {
 		"SP_SOULEXPLOSION",
-		SkillName = "Explosi√≥n del Alma",
+		SkillName = "ExplosiÛn del Alma",
 		MaxLv = 5,
 		SpAmount = {
 			30,
@@ -25457,7 +25457,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_SOULENERGY] = {
 		"SP_SOULENERGY",
-		SkillName = "Investigaci√≥n de Almas",
+		SkillName = "InvestigaciÛn de Almas",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -25523,7 +25523,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_RIGHT] = {
 		"KO_RIGHT",
-		SkillName = "Maestr√≠a de Mano Derecha",
+		SkillName = "MaestrÌa de Mano Derecha",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -25543,7 +25543,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_LEFT] = {
 		"KO_LEFT",
-		SkillName = "Maestr√≠a de Mano Izquierda",
+		SkillName = "MaestrÌa de Mano Izquierda",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -25599,7 +25599,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_SETSUDAN] = {
 		"KO_SETSUDAN",
-		SkillName = "C√∫ter de Almas",
+		SkillName = "C˙ter de Almas",
 		MaxLv = 5,
 		SpAmount = {
 			12,
@@ -25625,7 +25625,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_BAKURETSU] = {
 		"KO_BAKURETSU",
-		SkillName = "Explosi√≥n de Kunai",
+		SkillName = "ExplosiÛn de Kunai",
 		MaxLv = 5,
 		SpAmount = {
 			5,
@@ -25677,7 +25677,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_MUCHANAGE] = {
 		"KO_MUCHANAGE",
-		SkillName = "Lanzamiento R√°pido",
+		SkillName = "Lanzamiento R·pido",
 		MaxLv = 10,
 		SpAmount = {
 			50,
@@ -25713,7 +25713,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_HUUMARANKA] = {
 		"KO_HUUMARANKA",
-		SkillName = "P√©talo Arremolinado",
+		SkillName = "PÈtalo Arremolinado",
 		MaxLv = 10,
 		SpAmount = {
 			22,
@@ -25801,7 +25801,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_ZANZOU] = {
 		"KO_ZANZOU",
-		SkillName = "Ilusi√≥n: Sombra",
+		SkillName = "IlusiÛn: Sombra",
 		MaxLv = 5,
 		SpAmount = {
 			40,
@@ -25827,7 +25827,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_KYOUGAKU] = {
 		"KO_KYOUGAKU",
-		SkillName = "Ilusi√≥n: Choque",
+		SkillName = "IlusiÛn: Choque",
 		MaxLv = 5,
 		SpAmount = {
 			40,
@@ -25853,7 +25853,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_JYUSATSU] = {
 		"KO_JYUSATSU",
-		SkillName = "Ilusi√≥n: Muerte",
+		SkillName = "IlusiÛn: Muerte",
 		MaxLv = 5,
 		SpAmount = {
 			40,
@@ -25955,7 +25955,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_GENWAKU] = {
 		"KO_GENWAKU",
-		SkillName = "Ilusi√≥n: Embrujo",
+		SkillName = "IlusiÛn: Embrujo",
 		MaxLv = 5,
 		SpAmount = {
 			40,
@@ -25981,7 +25981,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_IZAYOI] = {
 		"KO_IZAYOI",
-		SkillName = "Noche¬†16",
+		SkillName = "Noche†16",
 		MaxLv = 5,
 		SpAmount = {
 			70,
@@ -26033,7 +26033,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KG_KYOMU] = {
 		"KG_KYOMU",
-		SkillName = "Sombra Vac√≠a",
+		SkillName = "Sombra VacÌa",
 		MaxLv = 5,
 		SpAmount = {
 			50,
@@ -26111,7 +26111,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.OB_OBOROGENSOU] = {
 		"OB_OBOROGENSOU",
-		SkillName = "Fantas√≠a de Luna",
+		SkillName = "FantasÌa de Luna",
 		MaxLv = 5,
 		SpAmount = {
 			55,
@@ -26171,7 +26171,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ECL_PEONYMAMY] = {
 		"ECL_PEONYMAMY",
-		SkillName = "Madre Peon√≠a",
+		SkillName = "Madre PeonÌa",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = false,
@@ -26261,7 +26261,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_UNLIMIT] = {
 		"RA_UNLIMIT",
-		SkillName = "Sin L√≠mites",
+		SkillName = "Sin LÌmites",
 		MaxLv = 5,
 		SpAmount = {
 			100,
@@ -26287,7 +26287,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_ILLUSIONDOPING] = {
 		"GN_ILLUSIONDOPING",
-		SkillName = "Droga Alucin√≥gena",
+		SkillName = "Droga AlucinÛgena",
 		MaxLv = 5,
 		SpAmount = {
 			60,
@@ -26313,7 +26313,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_DRAGONBREATH_WATER] = {
 		"RK_DRAGONBREATH_WATER",
-		SkillName = "Aliento de Drag√≥n de Agua",
+		SkillName = "Aliento de DragÛn de Agua",
 		MaxLv = 10,
 		SpAmount = {
 			30,
@@ -26384,7 +26384,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_FRIGG_SONG] = {
 		"WM_FRIGG_SONG",
-		SkillName = "Canci√≥n de Frigg",
+		SkillName = "CanciÛn de Frigg",
 		MaxLv = 5,
 		SpAmount = {
 			200,
@@ -26526,7 +26526,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_TELEKINESIS_INTENSE] = {
 		"WL_TELEKINESIS_INTENSE",
-		SkillName = "Intensificaci√≥n",
+		SkillName = "IntensificaciÛn",
 		MaxLv = 5,
 		SpAmount = {
 			100,
@@ -26578,7 +26578,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ALL_FULL_THROTTLE] = {
 		"ALL_FULL_THROTTLE",
-		SkillName = "Velocidad M√°xima",
+		SkillName = "Velocidad M·xima",
 		MaxLv = 5,
 		SpAmount = {
 			1,
@@ -26593,7 +26593,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_BASIC_SKILL] = {
 		"SU_BASIC_SKILL",
-		SkillName = "Nueva Habilidad B√°sica",
+		SkillName = "Nueva Habilidad B·sica",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = false,
@@ -26629,7 +26629,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_SCRATCH] = {
 		"SU_SCRATCH",
-		SkillName = "Rasgu√±o",
+		SkillName = "RasguÒo",
 		MaxLv = 3,
 		SpAmount = {
 			20,
@@ -26687,7 +26687,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_SPRITEMABLE] = {
 		"SU_SPRITEMABLE",
-		SkillName = "Canica de Esp√≠ritus",
+		SkillName = "Canica de EspÌritus",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = false,
@@ -26911,7 +26911,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_LUNATICCARROTBEAT] = {
 		"SU_LUNATICCARROTBEAT",
-		SkillName = "Zanahoria Lun√°tica",
+		SkillName = "Zanahoria Lun·tica",
 		MaxLv = 5,
 		SpAmount = {
 			15,
@@ -26937,7 +26937,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_POWEROFSEA] = {
 		"SU_POWEROFSEA",
-		SkillName = "Poder de Oc√©ano",
+		SkillName = "Poder de OcÈano",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = false,
@@ -26951,7 +26951,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_TUNABELLY] = {
 		"SU_TUNABELLY",
-		SkillName = "Vientre de At√∫n",
+		SkillName = "Vientre de At˙n",
 		MaxLv = 5,
 		SpAmount = {
 			20,
@@ -26977,7 +26977,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_TUNAPARTY] = {
 		"SU_TUNAPARTY",
-		SkillName = "Banquete de At√∫n",
+		SkillName = "Banquete de At˙n",
 		MaxLv = 5,
 		SpAmount = {
 			20,
@@ -27088,7 +27088,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_SVG_SPIRIT] = {
 		"SU_SVG_SPIRIT",
-		SkillName = "Esp√≠ritu de Salvaje",
+		SkillName = "EspÌritu de Salvaje",
 		MaxLv = 5,
 		SpAmount = {
 			60,
@@ -27216,7 +27216,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_SPIRITOFLIFE] = {
 		"SU_SPIRITOFLIFE",
-		SkillName = "Esp√≠ritu de Vida",
+		SkillName = "EspÌritu de Vida",
 		MaxLv = 1,
 		bSeperateLv = false,
 		_NeedSkillList = {
@@ -27247,7 +27247,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_SPIRITOFLAND] = {
 		"SU_SPIRITOFLAND",
-		SkillName = "Esp√≠ritu de Tierra",
+		SkillName = "EspÌritu de Tierra",
 		MaxLv = 1,
 		bSeperateLv = false,
 		_NeedSkillList = {
@@ -27278,7 +27278,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_SPIRITOFSEA] = {
 		"SU_SPIRITOFSEA",
-		SkillName = "Esp√≠ritu de Mar",
+		SkillName = "EspÌritu de Mar",
 		MaxLv = 1,
 		bSeperateLv = false,
 		_NeedSkillList = {
@@ -27306,7 +27306,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WE_CHEERUP] = {
 		"WE_CHEERUP",
-		SkillName = "¬°Adelante! ¬°Adelante, padres!",
+		SkillName = "°Adelante! °Adelante, padres!",
 		MaxLv = 1,
 		SpAmount = {50},
 		bSeperateLv = false,
@@ -27400,7 +27400,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NV_BREAKTHROUGH] = {
 		"NV_BREAKTHROUGH",
-		SkillName = "Superaci√≥n",
+		SkillName = "SuperaciÛn",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -27421,7 +27421,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NV_HELPANGEL] = {
 		"NV_HELPANGEL",
-		SkillName = "¬°Ayuda, √Ångel!",
+		SkillName = "°Ayuda, ¡ngel!",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = false,
@@ -27521,7 +27521,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.HLIF_BRAIN] = {
 		"HLIF_BRAIN",
-		SkillName = "Cirug√≠a Cerebral",
+		SkillName = "CirugÌa Cerebral",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -27577,7 +27577,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.HAMI_DEFENCE] = {
 		"HAMI_DEFENCE",
-		SkillName = "Basti√≥n de Amistr",
+		SkillName = "BastiÛn de Amistr",
 		MaxLv = 5,
 		SpAmount = {
 			20,
@@ -27729,7 +27729,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.HVAN_CHAOTIC] = {
 		"HVAN_CHAOTIC",
-		SkillName = "Bendiciones Ca√≥ticas",
+		SkillName = "Bendiciones CaÛticas",
 		MaxLv = 5,
 		SpAmount = {
 			40,
@@ -27769,7 +27769,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.HVAN_EXPLOSION] = {
 		"HVAN_EXPLOSION",
-		SkillName = "Autodestrucci√≥n",
+		SkillName = "AutodestrucciÛn",
 		MaxLv = 3,
 		SpAmount = {
 			1,
@@ -27785,7 +27785,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_SUMMON_LEGION] = {
 		"MH_SUMMON_LEGION",
-		SkillName = "Invocar a Legi√≥n",
+		SkillName = "Invocar a LegiÛn",
 		MaxLv = 5,
 		SpAmount = {
 			60,
@@ -27805,7 +27805,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_NEEDLE_OF_PARALYZE] = {
 		"MH_NEEDLE_OF_PARALYZE",
-		SkillName = "Aguja de Par√°lisis",
+		SkillName = "Aguja de Par·lisis",
 		MaxLv = 10,
 		SpAmount = {
 			42,
@@ -27855,7 +27855,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_PAIN_KILLER] = {
 		"MH_PAIN_KILLER",
-		SkillName = "Analg√©sico",
+		SkillName = "AnalgÈsico",
 		MaxLv = 10,
 		SpAmount = {
 			48,
@@ -27885,7 +27885,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_LIGHT_OF_REGENE] = {
 		"MH_LIGHT_OF_REGENE",
-		SkillName = "Luz de Regeneraci√≥n",
+		SkillName = "Luz de RegeneraciÛn",
 		MaxLv = 5,
 		SpAmount = {
 			40,
@@ -27925,7 +27925,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_ERASER_CUTTER] = {
 		"MH_ERASER_CUTTER",
-		SkillName = "C√∫ter Borrador",
+		SkillName = "C˙ter Borrador",
 		MaxLv = 10,
 		SpAmount = {
 			25,
@@ -28013,7 +28013,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_SONIC_CRAW] = {
 		"MH_SONIC_CRAW",
-		SkillName = "Garra S√≥nica",
+		SkillName = "Garra SÛnica",
 		MaxLv = 5,
 		SpAmount = {
 			20,
@@ -28033,7 +28033,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_SILVERVEIN_RUSH] = {
 		"MH_SILVERVEIN_RUSH",
-		SkillName = "R√°faga Trepadora",
+		SkillName = "R·faga Trepadora",
 		MaxLv = 10,
 		SpAmount = {
 			17,
@@ -28063,7 +28063,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_MIDNIGHT_FRENZY] = {
 		"MH_MIDNIGHT_FRENZY",
-		SkillName = "Frenes√≠ de Medianoche",
+		SkillName = "FrenesÌ de Medianoche",
 		MaxLv = 10,
 		SpAmount = {
 			18,
@@ -28093,7 +28093,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_STAHL_HORN] = {
 		"MH_STAHL_HORN",
-		SkillName = "Luc√°nido de Stahl",
+		SkillName = "Luc·nido de Stahl",
 		MaxLv = 10,
 		SpAmount = {
 			43,
@@ -28143,7 +28143,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_STEINWAND] = {
 		"MH_STEINWAND",
-		SkillName = "B√°culo de Stein",
+		SkillName = "B·culo de Stein",
 		MaxLv = 5,
 		SpAmount = {
 			80,
@@ -28253,7 +28253,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_EQC] = {
 		"MH_EQC",
-		SkillName = "Combo Eterno R√°pido",
+		SkillName = "Combo Eterno R·pido",
 		MaxLv = 5,
 		SpAmount = {
 			24,
@@ -28293,7 +28293,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_GRANITIC_ARMOR] = {
 		"MH_GRANITIC_ARMOR",
-		SkillName = "Armadura Gran√≠tica",
+		SkillName = "Armadura GranÌtica",
 		MaxLv = 5,
 		SpAmount = {
 			54,
@@ -28343,7 +28343,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_PYROCLASTIC] = {
 		"MH_PYROCLASTIC",
-		SkillName = "Pirocl√°stico",
+		SkillName = "Pirocl·stico",
 		MaxLv = 10,
 		SpAmount = {
 			20,
@@ -28373,7 +28373,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_VOLCANIC_ASH] = {
 		"MH_VOLCANIC_ASH",
-		SkillName = "Ceniza Volc√°nica",
+		SkillName = "Ceniza Volc·nica",
 		MaxLv = 5,
 		SpAmount = {
 			60,
@@ -28483,7 +28483,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MS_PARRYING] = {
 		"MS_PARRYING",
-		SkillName = "Desv√≠o",
+		SkillName = "DesvÌo",
 		MaxLv = 10,
 		SpAmount = {
 			50,
@@ -28543,7 +28543,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MS_BERSERK] = {
 		"MS_BERSERK",
-		SkillName = "Frenes√≠ ",
+		SkillName = "FrenesÌ ",
 		MaxLv = 1,
 		SpAmount = {200},
 		bSeperateLv = false,
@@ -28857,7 +28857,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ML_DEVOTION] = {
 		"ML_DEVOTION",
-		SkillName = "Devoci√≥n",
+		SkillName = "DevociÛn",
 		MaxLv = 5,
 		SpAmount = {
 			25,
@@ -28877,7 +28877,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MER_MAGNIFICAT] = {
 		"MER_MAGNIFICAT",
-		SkillName = "Magn√≠ficat",
+		SkillName = "MagnÌficat",
 		MaxLv = 5,
 		SpAmount = {
 			40,
@@ -28897,7 +28897,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MER_QUICKEN] = {
 		"MER_QUICKEN",
-		SkillName = "Aceleraci√≥n de Arma",
+		SkillName = "AceleraciÛn de Arma",
 		MaxLv = 10,
 		SpAmount = {
 			14,
@@ -28927,7 +28927,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MER_SIGHT] = {
 		"MER_SIGHT",
-		SkillName = "Visi√≥n",
+		SkillName = "VisiÛn",
 		MaxLv = 1,
 		SpAmount = {10},
 		bSeperateLv = false,
@@ -28971,7 +28971,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MER_BENEDICTION] = {
 		"MER_BENEDICTION",
-		SkillName = "Santificaci√≥n",
+		SkillName = "SantificaciÛn",
 		MaxLv = 1,
 		SpAmount = {10},
 		bSeperateLv = false,
@@ -28979,7 +28979,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MER_RECUPERATE] = {
 		"MER_RECUPERATE",
-		SkillName = "Recuperaci√≥n",
+		SkillName = "RecuperaciÛn",
 		MaxLv = 1,
 		SpAmount = {10},
 		bSeperateLv = false,
@@ -29147,7 +29147,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MER_BLESSING] = {
 		"MER_BLESSING",
-		SkillName = "Bendici√≥n",
+		SkillName = "BendiciÛn",
 		MaxLv = 10,
 		SpAmount = {
 			28,
@@ -29207,7 +29207,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MER_INVINCIBLEOFF2] = {
 		"MER_INVINCIBLEOFF2",
-		SkillName = "Purificaci√≥n Mental",
+		SkillName = "PurificaciÛn Mental",
 		MaxLv = 1,
 		SpAmount = {1},
 		bSeperateLv = false,
@@ -29215,7 +29215,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.EL_CIRCLE_OF_FIRE] = {
 		"EL_CIRCLE_OF_FIRE",
-		SkillName = "C√≠rculo de Fuego",
+		SkillName = "CÌrculo de Fuego",
 		MaxLv = 1,
 		SpAmount = {40},
 		bSeperateLv = false,
@@ -29255,7 +29255,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.EL_WATER_BARRIER] = {
 		"EL_WATER_BARRIER",
-		SkillName = "Barrera Acu√°tica",
+		SkillName = "Barrera Acu·tica",
 		MaxLv = 1,
 		SpAmount = {80},
 		bSeperateLv = false,
@@ -29287,7 +29287,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.EL_SOLID_SKIN] = {
 		"EL_SOLID_SKIN",
-		SkillName = "Piel s√≥lida",
+		SkillName = "Piel sÛlida",
 		MaxLv = 1,
 		SpAmount = {40},
 		bSeperateLv = false,
@@ -29327,7 +29327,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.EL_TROPIC] = {
 		"EL_TROPIC",
-		SkillName = "Tr√≥pico",
+		SkillName = "TrÛpico",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = false,
@@ -29349,7 +29349,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.EL_CHILLY_AIR] = {
 		"EL_CHILLY_AIR",
-		SkillName = "Aire fr√≠o",
+		SkillName = "Aire frÌo",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = false,
@@ -29397,7 +29397,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.EL_UPHEAVAL] = {
 		"EL_UPHEAVAL",
-		SkillName = "Conmoci√≥n",
+		SkillName = "ConmociÛn",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = false,
@@ -29485,7 +29485,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.EL_HURRICANE] = {
 		"EL_HURRICANE",
-		SkillName = "Hurac√°n",
+		SkillName = "Hurac·n",
 		MaxLv = 1,
 		SpAmount = {60},
 		bSeperateLv = false,
@@ -29493,7 +29493,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.EL_HURRICANE_ATK] = {
 		"EL_HURRICANE_ATK",
-		SkillName = "Ataque de hurac√°n",
+		SkillName = "Ataque de hurac·n",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = false,
@@ -29501,7 +29501,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.EL_TYPOON_MIS] = {
 		"EL_TYPOON_MIS",
-		SkillName = "Niebla tif√≥nica",
+		SkillName = "Niebla tifÛnica",
 		MaxLv = 1,
 		SpAmount = {80},
 		bSeperateLv = false,
@@ -29509,7 +29509,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.EL_TYPOON_MIS_ATK] = {
 		"EL_TYPOON_MIS_ATK",
-		SkillName = "Ataque de Niebla tif√≥nica",
+		SkillName = "Ataque de Niebla tifÛnica",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = false,
@@ -29549,7 +29549,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GD_APPROVAL] = {
 		"GD_APPROVAL",
-		SkillName = "Aprobaci√≥n como Gremio Oficial",
+		SkillName = "AprobaciÛn como Gremio Oficial",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = false,
@@ -29565,7 +29565,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GD_GUARDRESEARCH] = {
 		"GD_GUARDRESEARCH",
-		SkillName = "Investigaci√≥n de Guardianes",
+		SkillName = "InvestigaciÛn de Guardianes",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = false,
@@ -29589,7 +29589,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GD_EXTENSION] = {
 		"GD_EXTENSION",
-		SkillName = "Ampliaci√≥n del Gremio",
+		SkillName = "AmpliaciÛn del Gremio",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -29665,7 +29665,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GD_SOULCOLD] = {
 		"GD_SOULCOLD",
-		SkillName = "Coraz√≥n Fr√≠o",
+		SkillName = "CorazÛn FrÌo",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -29713,7 +29713,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GD_REGENERATION] = {
 		"GD_REGENERATION",
-		SkillName = "Regeneraci√≥n",
+		SkillName = "RegeneraciÛn",
 		MaxLv = 3,
 		SpAmount = {
 			0,
@@ -29729,7 +29729,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GD_RESTORE] = {
 		"GD_RESTORE",
-		SkillName = "Restauraci√≥n",
+		SkillName = "RestauraciÛn",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = false,
@@ -29769,7 +29769,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GD_GUILD_STORAGE] = {
 		"GD_GUILD_STORAGE",
-		SkillName = "Almac√©n del Gremio",
+		SkillName = "AlmacÈn del Gremio",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -29849,7 +29849,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_DEADLYCURSE2] = {
 		"NPC_DEADLYCURSE2",
-		SkillName = "Amplia Maldici√≥n Mortal",
+		SkillName = "Amplia MaldiciÛn Mortal",
 		MaxLv = 5,
 		SpAmount = {
 			0,
@@ -30024,7 +30024,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.DK_SERVANT_W_DEMOL] = {
 		"DK_SERVANT_W_DEMOL",
-		SkillName = "Arma de Servidor: Demolici√≥n",
+		SkillName = "Arma de Servidor: DemoliciÛn",
 		MaxLv = 5,
 		SpAmount = {
 			30,
@@ -30050,7 +30050,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.DK_CHARGINGPIERCE] = {
 		"DK_CHARGINGPIERCE",
-		SkillName = "Carga de Perforaci√≥n",
+		SkillName = "Carga de PerforaciÛn",
 		MaxLv = 10,
 		SpAmount = {
 			25,
@@ -30152,7 +30152,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.DK_DRAGONIC_AURA] = {
 		"DK_DRAGONIC_AURA",
-		SkillName = "Aura Drag√≥nica",
+		SkillName = "Aura DragÛnica",
 		MaxLv = 10,
 		SpAmount = {
 			100,
@@ -30320,7 +30320,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AG_DEADLY_PROJECTION] = {
 		"AG_DEADLY_PROJECTION",
-		SkillName = "Proyecci√≥n Mortal",
+		SkillName = "ProyecciÛn Mortal",
 		MaxLv = 5,
 		SpAmount = {
 			80,
@@ -30346,7 +30346,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AG_DESTRUCTIVE_HURRICANE] = {
 		"AG_DESTRUCTIVE_HURRICANE",
-		SkillName = "Hurac√°n Destructor",
+		SkillName = "Hurac·n Destructor",
 		MaxLv = 5,
 		SpAmount = {
 			80,
@@ -30398,7 +30398,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AG_MYSTERY_ILLUSION] = {
 		"AG_MYSTERY_ILLUSION",
-		SkillName = "Ilusi√≥n Misteriosa",
+		SkillName = "IlusiÛn Misteriosa",
 		MaxLv = 5,
 		SpAmount = {
 			80,
@@ -30484,7 +30484,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AG_STRANTUM_TREMOR] = {
 		"AG_STRANTUM_TREMOR",
-		SkillName = "Temblor Geol√≥gico",
+		SkillName = "Temblor GeolÛgico",
 		MaxLv = 5,
 		SpAmount = {
 			35,
@@ -30510,7 +30510,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AG_ALL_BLOOM] = {
 		"AG_ALL_BLOOM",
-		SkillName = "Explosi√≥n Floreciente",
+		SkillName = "ExplosiÛn Floreciente",
 		MaxLv = 5,
 		SpAmount = {
 			80,
@@ -30588,7 +30588,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AG_TWOHANDSTAFF] = {
 		"AG_TWOHANDSTAFF",
-		SkillName = "Maestr√≠a de Cetro de Dos Manos",
+		SkillName = "MaestrÌa de Cetro de Dos Manos",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -30700,7 +30700,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AG_CLIMAX] = {
 		"AG_CLIMAX",
-		SkillName = "Cl√≠max",
+		SkillName = "ClÌmax",
 		MaxLv = 5,
 		SpAmount = {
 			60,
@@ -30763,7 +30763,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AG_STORM_CANNON] = {
 		"AG_STORM_CANNON",
-		SkillName = "Ca√±√≥n de Tormenta",
+		SkillName = "CaÒÛn de Tormenta",
 		MaxLv = 5,
 		SpAmount = {
 			60,
@@ -30789,7 +30789,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AG_CRIMSON_ARROW] = {
 		"AG_CRIMSON_ARROW",
-		SkillName = "Flecha Carmes√≠",
+		SkillName = "Flecha CarmesÌ",
 		MaxLv = 5,
 		SpAmount = {
 			65,
@@ -31280,7 +31280,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.IQ_THIRD_CONSECRATION] = {
 		"IQ_THIRD_CONSECRATION",
-		SkillName = "Tercera Consagraci√≥n",
+		SkillName = "Tercera ConsagraciÛn",
 		MaxLv = 5,
 		SpAmount = {
 			65,
@@ -31365,7 +31365,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.IG_GUARDIAN_SHIELD] = {
 		"IG_GUARDIAN_SHIELD",
-		SkillName = "Escudo de Guardi√°n",
+		SkillName = "Escudo de Guardi·n",
 		MaxLv = 5,
 		SpAmount = {
 			60,
@@ -31417,7 +31417,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.IG_SHIELD_MASTERY] = {
 		"IG_SHIELD_MASTERY",
-		SkillName = "Maestr√≠a de Escudo",
+		SkillName = "MaestrÌa de Escudo",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -31447,7 +31447,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.IG_SPEAR_SWORD_M] = {
 		"IG_SPEAR_SWORD_M",
-		SkillName = "Maestr√≠a de Espada y de Lanza",
+		SkillName = "MaestrÌa de Espada y de Lanza",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -31477,7 +31477,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.IG_ATTACK_STANCE] = {
 		"IG_ATTACK_STANCE",
-		SkillName = "Posici√≥n de Ataque",
+		SkillName = "PosiciÛn de Ataque",
 		MaxLv = 5,
 		SpAmount = {
 			50,
@@ -31821,7 +31821,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.CD_MACE_BOOK_M] = {
 		"CD_MACE_BOOK_M",
-		SkillName = "Maestr√≠a del Libro de Maza",
+		SkillName = "MaestrÌa del Libro de Maza",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -32156,7 +32156,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.CD_DILECTIO_HEAL] = {
 		"CD_DILECTIO_HEAL",
-		SkillName = "Curaci√≥n Dilectio",
+		SkillName = "CuraciÛn Dilectio",
 		MaxLv = 5,
 		SpAmount = {
 			50,
@@ -32316,7 +32316,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SHC_SHADOW_EXCEED] = {
 		"SHC_SHADOW_EXCEED",
-		SkillName = "Superaci√≥n Sombr√≠a",
+		SkillName = "SuperaciÛn SombrÌa",
 		MaxLv = 10,
 		SpAmount = {
 			100,
@@ -32542,7 +32542,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SHC_SHADOW_STAB] = {
 		"SHC_SHADOW_STAB",
-		SkillName = "Pu√±alada Sombr√≠a",
+		SkillName = "PuÒalada SombrÌa",
 		MaxLv = 5,
 		SpAmount = {
 			45,
@@ -32580,7 +32580,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SHC_IMPACT_CRATER] = {
 		"SHC_IMPACT_CRATER",
-		SkillName = "Cr√°ter de Impacto",
+		SkillName = "Cr·ter de Impacto",
 		MaxLv = 5,
 		SpAmount = {
 			43,
@@ -32648,7 +32648,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SHC_FATAL_SHADOW_CROW] = {
 		"SHC_FATAL_SHADOW_CROW",
-		SkillName = "Garra Sombr√≠a Fatal",
+		SkillName = "Garra SombrÌa Fatal",
 		MaxLv = 10,
 		SpAmount = {
 			150,
@@ -32726,7 +32726,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MT_RUSH_QUAKE] = {
 		"MT_RUSH_QUAKE",
-		SkillName = "R√°faga de Terremoto",
+		SkillName = "R·faga de Terremoto",
 		MaxLv = 10,
 		SpAmount = {
 			150,
@@ -32774,7 +32774,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MT_M_MACHINE] = {
 		"MT_M_MACHINE",
-		SkillName = "M√°quina de Fabricaci√≥n",
+		SkillName = "M·quina de FabricaciÛn",
 		MaxLv = 5,
 		SpAmount = {
 			30,
@@ -32880,7 +32880,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MT_ABR_M] = {
 		"MT_ABR_M",
-		SkillName = "Maestr√≠a de ABR",
+		SkillName = "MaestrÌa de ABR",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -32940,7 +32940,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MT_SUMMON_ABR_DUAL_CANNON] = {
 		"MT_SUMMON_ABR_DUAL_CANNON",
-		SkillName = "ABR: Ca√±√≥n Doble",
+		SkillName = "ABR: CaÒÛn Doble",
 		MaxLv = 4,
 		SpAmount = {
 			30,
@@ -33042,7 +33042,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ABC_DAGGER_AND_BOW_M] = {
 		"ABC_DAGGER_AND_BOW_M",
-		SkillName = "Maestr√≠a de Arco y de Daga",
+		SkillName = "MaestrÌa de Arco y de Daga",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -33072,7 +33072,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ABC_MAGIC_SWORD_M] = {
 		"ABC_MAGIC_SWORD_M",
-		SkillName = "Maestr√≠a de Espada M√°gica",
+		SkillName = "MaestrÌa de Espada M·gica",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -33362,7 +33362,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ABC_DEFT_STAB] = {
 		"ABC_DEFT_STAB",
-		SkillName = "Pu√±alada H√°bil",
+		SkillName = "PuÒalada H·bil",
 		MaxLv = 10,
 		SpAmount = {
 			28,
@@ -33402,7 +33402,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ABC_ABYSS_SQUARE] = {
 		"ABC_ABYSS_SQUARE",
-		SkillName = "Abismo Cuadr√°tico",
+		SkillName = "Abismo Cuadr·tico",
 		MaxLv = 5,
 		SpAmount = {
 			65,
@@ -33432,7 +33432,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ABC_FRENZY_SHOT] = {
 		"ABC_FRENZY_SHOT",
-		SkillName = "Tiro Fren√©tico",
+		SkillName = "Tiro FrenÈtico",
 		MaxLv = 10,
 		SpAmount = {
 			35,
@@ -33544,7 +33544,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WH_HAWKRUSH] = {
 		"WH_HAWKRUSH",
-		SkillName = "Fiebre del Halc√≥n",
+		SkillName = "Fiebre del HalcÛn",
 		MaxLv = 5,
 		SpAmount = {
 			40,
@@ -33570,7 +33570,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WH_HAWK_M] = {
 		"WH_HAWK_M",
-		SkillName = "Maestr√≠a de Halc√≥n",
+		SkillName = "MaestrÌa de HalcÛn",
 		MaxLv = 1,
 		SpAmount = {5},
 		bSeperateLv = false,
@@ -33584,7 +33584,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WH_CALAMITYGALE] = {
 		"WH_CALAMITYGALE",
-		SkillName = "Vendaval Catastr√≥fico",
+		SkillName = "Vendaval CatastrÛfico",
 		MaxLv = 1,
 		SpAmount = {300},
 		ApAmount = {200},
@@ -33603,7 +33603,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WH_HAWKBOOMERANG] = {
 		"WH_HAWKBOOMERANG",
-		SkillName = "Bumer√°n de Halc√≥n",
+		SkillName = "Bumer·n de HalcÛn",
 		MaxLv = 5,
 		SpAmount = {
 			120,
@@ -33698,7 +33698,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WH_SOLIDTRAP] = {
 		"WH_SOLIDTRAP",
-		SkillName = "Trampa S√≥lida",
+		SkillName = "Trampa SÛlida",
 		MaxLv = 5,
 		SpAmount = {
 			70,
@@ -33812,7 +33812,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BO_BIONIC_PHARMACY] = {
 		"BO_BIONIC_PHARMACY",
-		SkillName = "Farmacia Bi√≥nica",
+		SkillName = "Farmacia BiÛnica",
 		MaxLv = 5,
 		SpAmount = {
 			30,
@@ -33838,7 +33838,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BO_BIONICS_M] = {
 		"BO_BIONICS_M",
-		SkillName = "Maestr√≠a Bi√≥nica",
+		SkillName = "MaestrÌa BiÛnica",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -33868,7 +33868,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BO_THE_WHOLE_PROTECTION] = {
 		"BO_THE_WHOLE_PROTECTION",
-		SkillName = "Protecci√≥n Grupal",
+		SkillName = "ProtecciÛn Grupal",
 		MaxLv = 5,
 		SpAmount = {
 			220,
@@ -33894,7 +33894,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BO_ADVANCE_PROTECTION] = {
 		"BO_ADVANCE_PROTECTION",
-		SkillName = "Protecci√≥n Total en la Sombra",
+		SkillName = "ProtecciÛn Total en la Sombra",
 		MaxLv = 4,
 		SpAmount = {
 			120,
@@ -34108,7 +34108,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BO_RESEARCHREPORT] = {
 		"BO_RESEARCHREPORT",
-		SkillName = "Informe de Investigaci√≥n",
+		SkillName = "Informe de InvestigaciÛn",
 		MaxLv = 1,
 		SpAmount = {60},
 		ApAmount = {100},
@@ -34127,7 +34127,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BO_HELLTREE] = {
 		"BO_HELLTREE",
-		SkillName = "Crear √Årbol del Infierno",
+		SkillName = "Crear ¡rbol del Infierno",
 		MaxLv = 5,
 		SpAmount = {
 			100,
@@ -34198,7 +34198,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TR_MYSTIC_SYMPHONY] = {
 		"TR_MYSTIC_SYMPHONY",
-		SkillName = "Sinfon√≠a M√≠stica",
+		SkillName = "SinfonÌa MÌstica",
 		MaxLv = 1,
 		SpAmount = {250},
 		ApAmount = {125},
@@ -34282,7 +34282,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TR_RHYTHMSHOOTING] = {
 		"TR_RHYTHMSHOOTING",
-		SkillName = "Tiro R√≠tmico",
+		SkillName = "Tiro RÌtmico",
 		MaxLv = 5,
 		SpAmount = {
 			66,
@@ -34302,7 +34302,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TR_METALIC_FURY] = {
 		"TR_METALIC_FURY",
-		SkillName = "Furia Met√°lica",
+		SkillName = "Furia Met·lica",
 		MaxLv = 5,
 		SpAmount = {
 			120,
@@ -34484,7 +34484,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TR_NIPELHEIM_REQUIEM] = {
 		"TR_NIPELHEIM_REQUIEM",
-		SkillName = "R√©quiem de Niflheim",
+		SkillName = "RÈquiem de Niflheim",
 		MaxLv = 5,
 		SpAmount = {
 			120,
@@ -34540,7 +34540,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.EM_MAGIC_BOOK_M] = {
 		"EM_MAGIC_BOOK_M",
-		SkillName = "Maestr√≠a del Libro de Magia",
+		SkillName = "MaestrÌa del Libro de Magia",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -34681,7 +34681,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.EM_LIGHTNING_LAND] = {
 		"EM_LIGHTNING_LAND",
-		SkillName = "Tierra de Rel√°mpagos",
+		SkillName = "Tierra de Rel·mpagos",
 		MaxLv = 5,
 		SpAmount = {
 			65,
@@ -34733,7 +34733,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.EM_CONFLAGRATION] = {
 		"EM_CONFLAGRATION",
-		SkillName = "Conflagraci√≥n",
+		SkillName = "ConflagraciÛn",
 		MaxLv = 5,
 		SpAmount = {
 			70,
@@ -34785,7 +34785,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.EM_ELEMENTAL_SPIRIT_M] = {
 		"EM_ELEMENTAL_SPIRIT_M",
-		SkillName = "Maestr√≠a de Esp√≠ritus Elementales",
+		SkillName = "MaestrÌa de EspÌritus Elementales",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -35067,7 +35067,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NW_GRENADE_MASTERY] = {
 		"NW_GRENADE_MASTERY",
-		SkillName = "Maestr√≠a de Granadas",
+		SkillName = "MaestrÌa de Granadas",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -35317,7 +35317,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NW_HASTY_FIRE_IN_THE_HOLE] = {
 		"NW_HASTY_FIRE_IN_THE_HOLE",
-		SkillName = "Alerta Apresurada de Explosi√≥n",
+		SkillName = "Alerta Apresurada de ExplosiÛn",
 		MaxLv = 5,
 		SpAmount = {
 			50,
@@ -35369,7 +35369,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NW_AUTO_FIRING_LAUNCHER] = {
 		"NW_AUTO_FIRING_LAUNCHER",
-		SkillName = "Lanzador Autom√°tico de Granadas",
+		SkillName = "Lanzador Autom·tico de Granadas",
 		MaxLv = 5,
 		SpAmount = {
 			90,
@@ -35447,7 +35447,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NW_MISSION_BOMBARD] = {
 		"NW_MISSION_BOMBARD",
-		SkillName = "Operaci√≥n Bombardeo",
+		SkillName = "OperaciÛn Bombardeo",
 		MaxLv = 10,
 		SpAmount = {
 			150,
@@ -35499,7 +35499,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SOA_TALISMAN_MASTERY] = {
 		"SOA_TALISMAN_MASTERY",
-		SkillName = "Maestr√≠a de Talismanes",
+		SkillName = "MaestrÌa de Talismanes",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -35529,7 +35529,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SOA_SOUL_MASTERY] = {
 		"SOA_SOUL_MASTERY",
-		SkillName = "Maestr√≠a de Almas",
+		SkillName = "MaestrÌa de Almas",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -35559,7 +35559,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SOA_TALISMAN_OF_PROTECTION] = {
 		"SOA_TALISMAN_OF_PROTECTION",
-		SkillName = "Talism√°n de Protecci√≥n",
+		SkillName = "Talism·n de ProtecciÛn",
 		MaxLv = 5,
 		SpAmount = {
 			50,
@@ -35585,7 +35585,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SOA_TALISMAN_OF_WARRIOR] = {
 		"SOA_TALISMAN_OF_WARRIOR",
-		SkillName = "Talism√°n del Guerrero",
+		SkillName = "Talism·n del Guerrero",
 		MaxLv = 5,
 		SpAmount = {
 			50,
@@ -35611,7 +35611,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SOA_TALISMAN_OF_MAGICIAN] = {
 		"SOA_TALISMAN_OF_MAGICIAN",
-		SkillName = "Talism√°n del Mago",
+		SkillName = "Talism·n del Mago",
 		MaxLv = 5,
 		SpAmount = {
 			50,
@@ -35637,7 +35637,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SOA_SOUL_GATHERING] = {
 		"SOA_SOUL_GATHERING",
-		SkillName = "Reuni√≥n de Almas",
+		SkillName = "ReuniÛn de Almas",
 		MaxLv = 5,
 		SpAmount = {
 			80,
@@ -35667,7 +35667,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SOA_TOTEM_OF_TUTELARY] = {
 		"SOA_TOTEM_OF_TUTELARY",
-		SkillName = "T√≥tem del Tutelar",
+		SkillName = "TÛtem del Tutelar",
 		MaxLv = 5,
 		SpAmount = {
 			76,
@@ -35697,7 +35697,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SOA_TALISMAN_OF_FIVE_ELEMENTS] = {
 		"SOA_TALISMAN_OF_FIVE_ELEMENTS",
-		SkillName = "Talism√°n de los Cinco Elementos",
+		SkillName = "Talism·n de los Cinco Elementos",
 		MaxLv = 5,
 		SpAmount = {
 			50,
@@ -35723,7 +35723,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SOA_TALISMAN_OF_SOUL_STEALING] = {
 		"SOA_TALISMAN_OF_SOUL_STEALING",
-		SkillName = "Talism√°n del Robo de Almas",
+		SkillName = "Talism·n del Robo de Almas",
 		MaxLv = 5,
 		SpAmount = {
 			30,
@@ -35783,7 +35783,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SOA_TALISMAN_OF_BLUE_DRAGON] = {
 		"SOA_TALISMAN_OF_BLUE_DRAGON",
-		SkillName = "Talism√°n del Drag√≥n Azul",
+		SkillName = "Talism·n del DragÛn Azul",
 		MaxLv = 5,
 		SpAmount = {
 			42,
@@ -35809,7 +35809,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SOA_TALISMAN_OF_WHITE_TIGER] = {
 		"SOA_TALISMAN_OF_WHITE_TIGER",
-		SkillName = "Talism√°n del Tigre Blanco",
+		SkillName = "Talism·n del Tigre Blanco",
 		MaxLv = 5,
 		SpAmount = {
 			66,
@@ -35835,7 +35835,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SOA_TALISMAN_OF_RED_PHOENIX] = {
 		"SOA_TALISMAN_OF_RED_PHOENIX",
-		SkillName = "Talism√°n del F√©nix Rojo",
+		SkillName = "Talism·n del FÈnix Rojo",
 		MaxLv = 5,
 		SpAmount = {
 			65,
@@ -35861,7 +35861,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SOA_TALISMAN_OF_BLACK_TORTOISE] = {
 		"SOA_TALISMAN_OF_BLACK_TORTOISE",
-		SkillName = "Talism√°n de la Tortuga Negra",
+		SkillName = "Talism·n de la Tortuga Negra",
 		MaxLv = 5,
 		SpAmount = {
 			67,
@@ -35887,7 +35887,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SOA_TALISMAN_OF_FOUR_BEARING_GOD] = {
 		"SOA_TALISMAN_OF_FOUR_BEARING_GOD",
-		SkillName = "Talism√°n de los Cuatro Dioses Portadores",
+		SkillName = "Talism·n de los Cuatro Dioses Portadores",
 		MaxLv = 5,
 		SpAmount = {
 			70,
@@ -35925,7 +35925,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SOA_CIRCLE_OF_DIRECTIONS_AND_ELEMENTALS] = {
 		"SOA_CIRCLE_OF_DIRECTIONS_AND_ELEMENTALS",
-		SkillName = "C√≠rculo de Direcciones y Elementales",
+		SkillName = "CÌrculo de Direcciones y Elementales",
 		MaxLv = 5,
 		SpAmount = {
 			90,
@@ -36026,7 +36026,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SH_MYSTICAL_CREATURE_MASTERY] = {
 		"SH_MYSTICAL_CREATURE_MASTERY",
-		SkillName = "Maestr√≠a de Criaturas M√≠sticas",
+		SkillName = "MaestrÌa de Criaturas MÌsticas",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -36056,7 +36056,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SH_COMMUNE_WITH_CHUL_HO] = {
 		"SH_COMMUNE_WITH_CHUL_HO",
-		SkillName = "Comuni√≥n con Chulho",
+		SkillName = "ComuniÛn con Chulho",
 		MaxLv = 1,
 		bSeperateLv = false,
 		AttackRange = {1},
@@ -36073,7 +36073,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SH_CHUL_HO_SONIC_CLAW] = {
 		"SH_CHUL_HO_SONIC_CLAW",
-		SkillName = "Garra S√≥nica de Chulho",
+		SkillName = "Garra SÛnica de Chulho",
 		MaxLv = 7,
 		SpAmount = {
 			24,
@@ -36171,7 +36171,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SH_COMMUNE_WITH_KI_SUL] = {
 		"SH_COMMUNE_WITH_KI_SUL",
-		SkillName = "Comuni√≥n con Kisul",
+		SkillName = "ComuniÛn con Kisul",
 		MaxLv = 1,
 		bSeperateLv = false,
 		AttackRange = {1},
@@ -36188,7 +36188,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SH_KI_SUL_WATER_SPRAYING] = {
 		"SH_KI_SUL_WATER_SPRAYING",
-		SkillName = "Roc√≠o de Agua de Kisul",
+		SkillName = "RocÌo de Agua de Kisul",
 		MaxLv = 7,
 		SpAmount = {
 			61,
@@ -36316,7 +36316,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SH_COMMUNE_WITH_HYUN_ROK] = {
 		"SH_COMMUNE_WITH_HYUN_ROK",
-		SkillName = "Comuni√≥n con Hyunrok",
+		SkillName = "ComuniÛn con Hyunrok",
 		MaxLv = 1,
 		bSeperateLv = false,
 		AttackRange = {1},
@@ -36397,7 +36397,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SH_HYUN_ROK_CANNON] = {
 		"SH_HYUN_ROK_CANNON",
-		SkillName = "Ca√±√≥n de Hyunrok",
+		SkillName = "CaÒÛn de Hyunrok",
 		MaxLv = 7,
 		SpAmount = {
 			44,
@@ -36431,7 +36431,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SH_TEMPORARY_COMMUNION] = {
 		"SH_TEMPORARY_COMMUNION",
-		SkillName = "Comuni√≥n temporal",
+		SkillName = "ComuniÛn temporal",
 		MaxLv = 5,
 		SpAmount = {
 			100,
@@ -36464,7 +36464,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SH_BLESSING_OF_MYSTICAL_CREATURES] = {
 		"SH_BLESSING_OF_MYSTICAL_CREATURES",
-		SkillName = "Bendici√≥n de Criaturas M√≠sticas",
+		SkillName = "BendiciÛn de Criaturas MÌsticas",
 		MaxLv = 5,
 		SpAmount = {
 			100,
@@ -36501,7 +36501,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.HN_SELFSTUDY_TATICS] = {
 		"HN_SELFSTUDY_TATICS",
-		SkillName = "T√°cticas de Autoaprendizaje",
+		SkillName = "T·cticas de Autoaprendizaje",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -36531,7 +36531,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.HN_SELFSTUDY_SOCERY] = {
 		"HN_SELFSTUDY_SOCERY",
-		SkillName = "Hechicer√≠a Autodidacta",
+		SkillName = "HechicerÌa Autodidacta",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -36597,7 +36597,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.HN_MEGA_SONIC_BLOW] = {
 		"HN_MEGA_SONIC_BLOW",
-		SkillName = "Mega Impacto S√≥nico",
+		SkillName = "Mega Impacto SÛnico",
 		MaxLv = 10,
 		SpAmount = {
 			27,
@@ -36633,7 +36633,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.HN_SHIELD_CHAIN_RUSH] = {
 		"HN_SHIELD_CHAIN_RUSH",
-		SkillName = "R√°faga de Escudos en Cadena",
+		SkillName = "R·faga de Escudos en Cadena",
 		MaxLv = 10,
 		SpAmount = {
 			38,
@@ -36669,7 +36669,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.HN_SPIRAL_PIERCE_MAX] = {
 		"HN_SPIRAL_PIERCE_MAX",
-		SkillName = "Perforaci√≥n M√°xima en Espiral",
+		SkillName = "PerforaciÛn M·xima en Espiral",
 		MaxLv = 10,
 		SpAmount = {
 			20,
@@ -36849,7 +36849,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.HN_GROUND_GRAVITATION] = {
 		"HN_GROUND_GRAVITATION",
-		SkillName = "Gravitaci√≥n Terrestre",
+		SkillName = "GravitaciÛn Terrestre",
 		MaxLv = 10,
 		SpAmount = {
 			70,
@@ -36921,7 +36921,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.HN_BREAKINGLIMIT] = {
 		"HN_BREAKINGLIMIT",
-		SkillName = "Romper los L√≠mites",
+		SkillName = "Romper los LÌmites",
 		MaxLv = 1,
 		SpAmount = {150},
 		ApAmount = {150},
@@ -36983,7 +36983,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SKE_SKY_MASTERY] = {
 		"SKE_SKY_MASTERY",
-		SkillName = "Maestr√≠a del Cielo",
+		SkillName = "MaestrÌa del Cielo",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -37013,7 +37013,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SKE_WAR_BOOK_MASTERY] = {
 		"SKE_WAR_BOOK_MASTERY",
-		SkillName = "Maestr√≠a del Libro de Guerra",
+		SkillName = "MaestrÌa del Libro de Guerra",
 		MaxLv = 10,
 		SpAmount = {
 			0,
@@ -37069,7 +37069,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SKE_NOON_BLAST] = {
 		"SKE_NOON_BLAST",
-		SkillName = "R√°faga del Mediod√≠a",
+		SkillName = "R·faga del MediodÌa",
 		MaxLv = 5,
 		SpAmount = {
 			24,
@@ -37099,7 +37099,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SKE_SUNSET_BLAST] = {
 		"SKE_SUNSET_BLAST",
-		SkillName = "R√°faga del Crep√∫sculo",
+		SkillName = "R·faga del Crep˙sculo",
 		MaxLv = 5,
 		SpAmount = {
 			28,
@@ -37241,7 +37241,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SKE_STAR_BURST] = {
 		"SKE_STAR_BURST",
-		SkillName = "Explosi√≥n Estelar",
+		SkillName = "ExplosiÛn Estelar",
 		MaxLv = 5,
 		SpAmount = {
 			41,
@@ -37271,7 +37271,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SKE_STAR_CANNON] = {
 		"SKE_STAR_CANNON",
-		SkillName = "Ca√±√≥n Estelar",
+		SkillName = "CaÒÛn Estelar",
 		MaxLv = 5,
 		SpAmount = {
 			29,
@@ -37457,7 +37457,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SS_AKUMUKESU] = {
 		"SS_AKUMUKESU",
-		SkillName = "Eliminaci√≥n de Pesadillas",
+		SkillName = "EliminaciÛn de Pesadillas",
 		MaxLv = 1,
 		SpAmount = {10},
 		bSeperateLv = false,
@@ -37473,7 +37473,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SS_KAGEGARI] = {
 		"SS_KAGEGARI",
-		SkillName = "Cacer√≠a de Sombras",
+		SkillName = "CacerÌa de Sombras",
 		MaxLv = 10,
 		SpAmount = {
 			30,
@@ -37617,7 +37617,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SS_FUUMAKOUCHIKU] = {
 		"SS_FUUMAKOUCHIKU",
-		SkillName = "Huuma Shuriken: L√≠nea Recta",
+		SkillName = "Huuma Shuriken: LÌnea Recta",
 		MaxLv = 10,
 		SpAmount = {
 			34,
@@ -37653,7 +37653,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SS_KUNAIWAIKYOKU] = {
 		"SS_KUNAIWAIKYOKU",
-		SkillName = "Kunai: Distorsi√≥n",
+		SkillName = "Kunai: DistorsiÛn",
 		MaxLv = 10,
 		SpAmount = {
 			28,
@@ -37689,7 +37689,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SS_KUNAIKAITEN] = {
 		"SS_KUNAIKAITEN",
-		SkillName = "Kunai: Rotaci√≥n",
+		SkillName = "Kunai: RotaciÛn",
 		MaxLv = 5,
 		SpAmount = {
 			55,
@@ -37715,7 +37715,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SS_KUNAIKUSSETSU] = {
 		"SS_KUNAIKUSSETSU",
-		SkillName = "Kunai: Refracci√≥n",
+		SkillName = "Kunai: RefracciÛn",
 		MaxLv = 10,
 		SpAmount = {
 			50,
@@ -37751,7 +37751,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SS_SEKIENHOU] = {
 		"SS_SEKIENHOU",
-		SkillName = "Ca√±√≥n de Llamas Rojas",
+		SkillName = "CaÒÛn de Llamas Rojas",
 		MaxLv = 10,
 		SpAmount = {
 			44,
@@ -37781,7 +37781,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SS_REIKETSUHOU] = {
 		"SS_REIKETSUHOU",
-		SkillName = "Ca√±√≥n Implacable",
+		SkillName = "CaÒÛn Implacable",
 		MaxLv = 10,
 		SpAmount = {
 			34,
@@ -37811,7 +37811,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SS_RAIDENPOU] = {
 		"SS_RAIDENPOU",
-		SkillName = "Ca√±√≥n Atronador",
+		SkillName = "CaÒÛn Atronador",
 		MaxLv = 10,
 		SpAmount = {
 			44,
@@ -37841,7 +37841,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SS_KINRYUUHOU] = {
 		"SS_KINRYUUHOU",
-		SkillName = "Ca√±√≥n del Drag√≥n Dorado",
+		SkillName = "CaÒÛn del DragÛn Dorado",
 		MaxLv = 10,
 		SpAmount = {
 			30,
@@ -37871,7 +37871,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SS_ANTENPOU] = {
 		"SS_ANTENPOU",
-		SkillName = "Ca√±√≥n Oscurecedor",
+		SkillName = "CaÒÛn Oscurecedor",
 		MaxLv = 10,
 		SpAmount = {
 			40,
@@ -37947,7 +37947,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SS_ANKOKURYUUAKUMU] = {
 		"SS_ANKOKURYUUAKUMU",
-		SkillName = "Drag√≥n Oscuro: Pesadilla",
+		SkillName = "DragÛn Oscuro: Pesadilla",
 		MaxLv = 1,
 		SpAmount = {120},
 		ApAmount = {30},
@@ -38022,7 +38022,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.EM_EL_FLAMETECHNIC] = {
 		"EM_EL_FLAMETECHNIC",
-		SkillName = "T√©cnica de Llama",
+		SkillName = "TÈcnica de Llama",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = true,
@@ -38046,7 +38046,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.EM_EL_COLD_FORCE] = {
 		"EM_EL_COLD_FORCE",
-		SkillName = "Fuerza Fr√≠a",
+		SkillName = "Fuerza FrÌa",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = true,
@@ -38102,7 +38102,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.EM_EL_STRONG_PROTECTION] = {
 		"EM_EL_STRONG_PROTECTION",
-		SkillName = "Protecci√≥n Fuerte",
+		SkillName = "ProtecciÛn Fuerte",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = true,
@@ -38150,7 +38150,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ABR_DUAL_CANNON_FIRE] = {
 		"ABR_DUAL_CANNON_FIRE",
-		SkillName = "Disparo de Ca√±√≥n Doble",
+		SkillName = "Disparo de CaÒÛn Doble",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = true,
@@ -38158,7 +38158,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ABR_NET_REPAIR] = {
 		"ABR_NET_REPAIR",
-		SkillName = "Reparaci√≥n de Red",
+		SkillName = "ReparaciÛn de Red",
 		MaxLv = 1,
 		SpAmount = {0},
 		bSeperateLv = true,

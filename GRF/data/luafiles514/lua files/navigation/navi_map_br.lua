@@ -414,21 +414,21 @@ Navi_Map = {
 	},
 	{
 		"ba_2whs01",
-		"Piso Superior do DepÃ³sito TÃ¡rtaros",
+		"Piso Superior do Depósito Tártaros",
 		5001,
 		320,
 		320
 	},
 	{
 		"ba_2whs02",
-		"Piso Inferior do DepÃ³sito TÃ¡rtaros",
+		"Piso Inferior do Depósito Tártaros",
 		5001,
 		360,
 		360
 	},
 	{
 		"ba_bath",
-		"Banho de MeditaÃ§Ã£o Grande",
+		"Banho de Meditação Grande",
 		5001,
 		320,
 		320
@@ -449,14 +449,14 @@ Navi_Map = {
 	},
 	{
 		"ba_in01",
-		"Dentro da MansÃ£o Varmunt",
+		"Dentro da Mansão Varmunt",
 		5003,
 		400,
 		400
 	},
 	{
 		"ba_lib",
-		"SalÃ£o de MemÃ³rias da Biblioteca",
+		"Salão de Memórias da Biblioteca",
 		5001,
 		320,
 		320
@@ -470,14 +470,14 @@ Navi_Map = {
 	},
 	{
 		"ba_maison",
-		"Jardim da MansÃ£o Varmunt",
+		"Jardim da Mansão Varmunt",
 		5001,
 		400,
 		400
 	},
 	{
 		"ba_pw01",
-		"Usina MÃ¡gica 1",
+		"Usina Mágica 1",
 		5001,
 		300,
 		300
@@ -491,7 +491,7 @@ Navi_Map = {
 	},
 	{
 		"ba_pw03",
-		"Usina MÃ¡gica 2",
+		"Usina Mágica 2",
 		5001,
 		300,
 		300
@@ -743,7 +743,7 @@ Navi_Map = {
 	},
 	{
 		"com_d02_i",
-		"IlusÃ£o de Luanda",
+		"Ilusão de Luanda",
 		5001,
 		300,
 		300
@@ -1597,7 +1597,7 @@ Navi_Map = {
 	},
 	{
 		"harboro2",
-		"SubterrÃ¢neo de Rockridge",
+		"Subterrâneo de Rockridge",
 		5001,
 		360,
 		340
@@ -2171,7 +2171,7 @@ Navi_Map = {
 	},
 	{
 		"lhz_in01",
-		"Sede da CorporaÃ§Ã£o Rekenber ",
+		"Sede da Corporação Rekenber ",
 		5003,
 		300,
 		280
@@ -2416,7 +2416,7 @@ Navi_Map = {
 	},
 	{
 		"mal_dun01",
-		"Ãrea de Coral Estrelado ",
+		"Área de Coral Estrelado ",
 		5001,
 		260,
 		260
@@ -2486,14 +2486,14 @@ Navi_Map = {
 	},
 	{
 		"mid_camp",
-		"Acampamento da ExpediÃ§Ã£o da Alian? ",
+		"Acampamento da Expedição da Alian? ",
 		5001,
 		400,
 		400
 	},
 	{
 		"mid_campin",
-		"Acampamento da ExpediÃ§Ã£o da Alian? ",
+		"Acampamento da Expedição da Alian? ",
 		5003,
 		400,
 		200
@@ -3151,28 +3151,28 @@ Navi_Map = {
 	},
 	{
 		"ordeal_3-1",
-		"Batalha de ProvaÃ§Ã£o ",
+		"Batalha de Provação ",
 		5001,
 		300,
 		300
 	},
 	{
 		"ordeal_3-2",
-		"Batalha de ProvaÃ§Ã£o ",
+		"Batalha de Provação ",
 		5001,
 		308,
 		308
 	},
 	{
 		"ordeal_3-3",
-		"Batalha de ProvaÃ§Ã£o ",
+		"Batalha de Provação ",
 		5001,
 		300,
 		300
 	},
 	{
 		"ordeal_3-4",
-		"Batalha de ProvaÃ§Ã£o ",
+		"Batalha de Provação ",
 		5001,
 		308,
 		308
@@ -3207,7 +3207,7 @@ Navi_Map = {
 	},
 	{
 		"paramk",
-		"Mercado Paralelo do Ã‰den",
+		"Mercado Paralelo do Éden",
 		5003,
 		200,
 		200
@@ -4033,7 +4033,7 @@ Navi_Map = {
 	},
 	{
 		"slabw01",
-		"LaboratÃ³rio Clandestino",
+		"Laboratório Clandestino",
 		5001,
 		300,
 		180
@@ -4180,7 +4180,7 @@ Navi_Map = {
 	},
 	{
 		"thana_boss",
-		"Torre de Thanatos ?Ãrea Desconhecida ",
+		"Torre de Thanatos ?Área Desconhecida ",
 		5001,
 		280,
 		280
@@ -4607,7 +4607,7 @@ Navi_Map = {
 	},
 	{
 		"xmas_dun02",
-		"Sala de ConstruÃ§Ã£o de Brinquedos ",
+		"Sala de Construção de Brinquedos ",
 		5001,
 		260,
 		260

@@ -6,7 +6,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Refrigerator Robber",
 		content = {
-			details = "Entregue um Vinho de Mastela para o P√© Grande na carceragem do Pal√°cio de Prontera.",
+			details = "Entregue um Vinho de Mastela para o PÈ Grande na carceragem do Pal·cio de Prontera.",
 			summary = "Quem nunca comeu de madrugada?"
 		},
 		resource = {
@@ -24,18 +24,18 @@ achievement_tbl = {
 		minor = 0,
 		title = "Witness",
 		content = {
-			details = "O pr√≠ncipe Jurgen Wigner parece ser bem popular.",
-			summary = "Fale com os f√£s do pr√≠ncipe"
+			details = "O prÌncipe Jurgen Wigner parece ser bem popular.",
+			summary = "Fale com os f„s do prÌncipe"
 		},
 		resource = {
 			{
 				text = "Mulher Elegante"
 			},
 			{
-				text = "Mo√ßa Bonita"
+				text = "MoÁa Bonita"
 			},
 			{
-				text = "Garota Rom√¢ntica"
+				text = "Garota Rom‚ntica"
 			},
 			{
 				text = "Mulher Bonita"
@@ -2688,7 +2688,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Factory Crasher",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Celine Kimi"
 		},
 		resource = {
@@ -2707,7 +2707,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Factory Worker",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Celine Kimi"
 		},
 		resource = {
@@ -2726,7 +2726,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Employee of the Month",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Celine Kimi"
 		},
 		resource = {
@@ -2745,7 +2745,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Factory Manager",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Celine Kimi"
 		},
 		resource = {
@@ -2764,7 +2764,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Doll Fan",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Celine Kimi"
 		},
 		resource = {
@@ -2783,7 +2783,7 @@ achievement_tbl = {
 		minor = 2,
 		title = "Dangerous Fishing",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Bakonawa"
 		},
 		resource = {
@@ -2802,7 +2802,7 @@ achievement_tbl = {
 		minor = 2,
 		title = "Immune to Meteors",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Bakonawa"
 		},
 		resource = {
@@ -2821,7 +2821,7 @@ achievement_tbl = {
 		minor = 2,
 		title = "Gong Master",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Bakonawa"
 		},
 		resource = {
@@ -2840,13 +2840,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Exceptional Exorcist",
 		content = {
-			details = "Complete a inst√¢ncia",
-			summary = "Elimine Bafom√© Selado"
+			details = "Complete a inst‚ncia",
+			summary = "Elimine BafomÈ Selado"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Bafom√© Selado 1 vez"
+				text = "Elimine BafomÈ Selado 1 vez"
 			}
 		},
 		reward = {},
@@ -2859,13 +2859,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Cult Member",
 		content = {
-			details = "Complete a inst√¢ncia",
-			summary = "Elimine Bafom√© Selado"
+			details = "Complete a inst‚ncia",
+			summary = "Elimine BafomÈ Selado"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Elimine Bafom√© Selado 10 vezes"
+				text = "Elimine BafomÈ Selado 10 vezes"
 			}
 		},
 		reward = {},
@@ -2878,13 +2878,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Goat Rival",
 		content = {
-			details = "Complete a inst√¢ncia",
-			summary = "Elimine Bafom√© Selado"
+			details = "Complete a inst‚ncia",
+			summary = "Elimine BafomÈ Selado"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Elimine Bafom√© Selado 50 vezes"
+				text = "Elimine BafomÈ Selado 50 vezes"
 			}
 		},
 		reward = {},
@@ -2897,7 +2897,7 @@ achievement_tbl = {
 		minor = 1,
 		title = "Morning Watchman",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Ceifador Ankou"
 		},
 		resource = {
@@ -2916,7 +2916,7 @@ achievement_tbl = {
 		minor = 1,
 		title = "Afternoon Watchman",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Ceifador Ankou"
 		},
 		resource = {
@@ -2935,7 +2935,7 @@ achievement_tbl = {
 		minor = 1,
 		title = "Night Watchman",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Ceifador Ankou"
 		},
 		resource = {
@@ -2954,7 +2954,7 @@ achievement_tbl = {
 		minor = 2,
 		title = "Crocodile Armor",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Buwaya"
 		},
 		resource = {
@@ -2973,7 +2973,7 @@ achievement_tbl = {
 		minor = 2,
 		title = "Box Tourist",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Buwaya"
 		},
 		resource = {
@@ -2992,7 +2992,7 @@ achievement_tbl = {
 		minor = 2,
 		title = "Crocodile Bag",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Buwaya"
 		},
 		resource = {
@@ -3011,7 +3011,7 @@ achievement_tbl = {
 		minor = 1,
 		title = "Saved the World",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Deus Morroc"
 		},
 		resource = {
@@ -3030,7 +3030,7 @@ achievement_tbl = {
 		minor = 1,
 		title = "Not today, Satan!",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Deus Morroc"
 		},
 		resource = {
@@ -3049,7 +3049,7 @@ achievement_tbl = {
 		minor = 1,
 		title = "Light of Hope",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Deus Morroc"
 		},
 		resource = {
@@ -3068,7 +3068,7 @@ achievement_tbl = {
 		minor = 1,
 		title = "Demigod",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Deus Morroc"
 		},
 		resource = {
@@ -3087,7 +3087,7 @@ achievement_tbl = {
 		minor = 1,
 		title = "Divinity",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Deus Morroc"
 		},
 		resource = {
@@ -3106,7 +3106,7 @@ achievement_tbl = {
 		minor = 1,
 		title = "Necromancy",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Necromante de Morroc"
 		},
 		resource = {
@@ -3125,7 +3125,7 @@ achievement_tbl = {
 		minor = 1,
 		title = "Unholy Enemy",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Necromante de Morroc"
 		},
 		resource = {
@@ -3144,7 +3144,7 @@ achievement_tbl = {
 		minor = 1,
 		title = "Soulless",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Necromante de Morroc"
 		},
 		resource = {
@@ -3163,7 +3163,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Your Majesty",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Rainha Verme"
 		},
 		resource = {
@@ -3182,7 +3182,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Anabolic Earthworm",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine a Rainha Verme (Terra)"
 		},
 		resource = {
@@ -3201,13 +3201,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Water Ball Survivor",
 		content = {
-			details = "Complete a inst√¢ncia",
-			summary = "Elimine a Rainha Verme (√Ågua)"
+			details = "Complete a inst‚ncia",
+			summary = "Elimine a Rainha Verme (¡gua)"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine a Rainha Verme (√Ågua) 1 vez"
+				text = "Elimine a Rainha Verme (¡gua) 1 vez"
 			}
 		},
 		reward = {},
@@ -3220,7 +3220,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Queen's Wrath",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine a Rainha Verme (Vento)"
 		},
 		resource = {
@@ -3239,7 +3239,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Witness to the Curse",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Amdarais"
 		},
 		resource = {
@@ -3258,7 +3258,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "It's just a walk...",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Amdarais"
 		},
 		resource = {
@@ -3277,7 +3277,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Varmunt's Triumph",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Amdarais"
 		},
 		resource = {
@@ -3296,7 +3296,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Victim of the Curse",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Amdarais Sombrio"
 		},
 		resource = {
@@ -3315,7 +3315,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Knights' Hope",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Amdarais Sombrio"
 		},
 		resource = {
@@ -3334,7 +3334,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Castle Guard",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Amdarais Sombrio"
 		},
 		resource = {
@@ -3353,7 +3353,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Time Traveler",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Sara Irine"
 		},
 		resource = {
@@ -3372,7 +3372,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "History Specialist",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Sara Irine"
 		},
 		resource = {
@@ -3391,7 +3391,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Relic Master",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Sara Irine"
 		},
 		resource = {
@@ -3410,7 +3410,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Tournament Champion",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Fenrir"
 		},
 		resource = {
@@ -3429,7 +3429,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Colosseum Gladiator",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Fenrir"
 		},
 		resource = {
@@ -3448,7 +3448,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Invincible Challenger",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Fenrir"
 		},
 		resource = {
@@ -3467,7 +3467,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Leader of the Demons",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Naght Sieger"
 		},
 		resource = {
@@ -3486,7 +3486,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Stair Climber",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Naght Sieger"
 		},
 		resource = {
@@ -3505,7 +3505,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Monarch of the Tower",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Naght Sieger"
 		},
 		resource = {
@@ -4320,30 +4320,30 @@ achievement_tbl = {
 		minor = 0,
 		title = "Parte da Realeza",
 		content = {
-			details = "Apresente-se para as 7 fam√≠lias reais.",
-			summary = "Visitar as 7 Fam√≠lias Reais"
+			details = "Apresente-se para as 7 famÌlias reais.",
+			summary = "Visitar as 7 FamÌlias Reais"
 		},
 		resource = {
 			{
-				text = "Visite a Fam√≠lia Heine"
+				text = "Visite a FamÌlia Heine"
 			},
 			{
-				text = "Visite a Fam√≠lia Nerius"
+				text = "Visite a FamÌlia Nerius"
 			},
 			{
-				text = "Visite a Fam√≠lia Walter"
+				text = "Visite a FamÌlia Walter"
 			},
 			{
-				text = "Visite a Fam√≠lia Wigner"
+				text = "Visite a FamÌlia Wigner"
 			},
 			{
-				text = "Visite a Fam√≠lia Richard"
+				text = "Visite a FamÌlia Richard"
 			},
 			{
-				text = "Visite a Fam√≠lia Gaebolg"
+				text = "Visite a FamÌlia Gaebolg"
 			},
 			{
-				text = "Visite a Fam√≠lia Lugenburg"
+				text = "Visite a FamÌlia Lugenburg"
 			}
 		},
 		reward = {title = 1034},
@@ -4354,14 +4354,14 @@ achievement_tbl = {
 		group = "HEAR",
 		major = 4,
 		minor = 0,
-		title = "M√∫sica Harmoniosa",
+		title = "M˙sica Harmoniosa",
 		content = {
-			details = "Ou√ßa uma m√∫sica especial do Bardo Ornit no s√£o do Banquete Real.",
+			details = "OuÁa uma m˙sica especial do Bardo Ornit no s„o do Banquete Real.",
 			summary = "Escute a Orquesta de Prontera"
 		},
 		resource = {
 			{
-				text = "Escute a m√∫sica secreta da Orquestra de Prontera"
+				text = "Escute a m˙sica secreta da Orquestra de Prontera"
 			}
 		},
 		reward = {},
@@ -6844,7 +6844,7 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Show the Captain Who‚Äôs Boss",
+		title = "Show the Captain Whoís Boss",
 		content = {
 			summary = "Defeat Pherlock",
 			details = "Complete the Memorial Dungeon until the end."
@@ -6863,7 +6863,7 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Show the Weak Captain Who‚Äôs Boss",
+		title = "Show the Weak Captain Whoís Boss",
 		content = {
 			summary = "Defeat Pherlock",
 			details = "Complete the Memorial Dungeon until the end."

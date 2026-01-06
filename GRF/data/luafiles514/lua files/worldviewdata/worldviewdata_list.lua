@@ -18,19 +18,19 @@ World_List = {
 		"worldmap_dimension.bmp"
 	},
 	{
-		"EspaÃ§o Dimensional",
+		"Espaço Dimensional",
 		"worldtable_Crack_of_Dimension1",
 		"worldtable_Crack_of_Dimension1_Dun",
 		"Crack_of_Dimension1.jpg"
 	},
 	{
-		"NaÃ§Ãµes 1",
+		"Nações 1",
 		"worldtable_localizing1",
 		"worldtable_localizing1_Dun",
 		"worldmap_localizing1.bmp"
 	},
 	{
-		"NaÃ§Ãµes 2",
+		"Nações 2",
 		"worldtable_localizing2",
 		"worldtable_localizing2_Dun",
 		"worldmap_localizing2.bmp"

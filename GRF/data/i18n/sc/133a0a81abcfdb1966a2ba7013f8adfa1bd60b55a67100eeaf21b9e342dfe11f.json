@@ -1,17 +1,20 @@
 {
     "QOpw": {
-        "en": "Imperial Exchanger",
-        "pt": "Ilustre Mascate",
-        "es": "Imperial Exchanger"
+        "ko": "임페리얼 교환원",
+        "en": "Imperial Exchange Officer",
+        "pt": "Trocador Imperial",
+        "es": "Intercambiador Imperial"
     },
     "Qepw": {
-        "en": "[Imperial Exchanger]\nHello, promising adventurer.\nYou're so close to getting the Imperial equipment set we've prepared for you.\nKeep up the good work until Level 125!",
-        "pt": "[Ilustre Mascate]\nOlá, viajante em evolução.\nVocê está muito perto de receber o conjunto de equipamento Ilustre que preparamos para você.\nContinue fazendo um bom trabalho até o nível 125!",
-        "es": "[Intercambiador imperial]\nHola, trotamundos prometedor.\nEstás a punto de conseguir el conjunto de equipamiento imperial que te preparamos.\n¡Sigue así hasta alcanzar el nivel 125!"
+        "ko": "[임페리얼 교환원]\n안녕하세요.\n전도유망한 모험가님, 조금 더 성장하시면 저희가 마련한 임페리얼 장비 세트를 사용하실 수 있겠네요?\n125Lv 까지 힘내요!",
+        "en": "[Imperial Exchange Officer]\nHello.\nPromising adventurer, once you grow a bit more, you'll be able to use the Imperial equipment set we've prepared for you.\nKeep it up until you reach 125Lv!",
+        "pt": "[Trocador Imperial]\nOlá.\nAventureiro(a) promissor(a), se você crescer só mais um pouco, poderá usar o conjunto de equipamentos Imperial que preparamos para você!\nContinue se esforçando até o nível 125!",
+        "es": "[Intercambiador Imperial]\n¡Hola!\nAventurero prometedor, si sigues creciendo un poco más, ¿podrás usar el set de equipo Imperial que hemos preparado?\n¡Ánimo hasta el nivel 125!"
     },
     "Qupw": {
-        "en": "[Imperial Exchanger]\nHello, promising adventurer.\nI can trade ^4D4DFFImperial^000000 equipment for your <ITEM>[Schwarzwald Honor Tokens]<INFO>25155</INFO></ITEM>.\nLet me show you the available items for your class.",
-        "pt": "[Ilustre Mascate]\nOlá, viajante em evolução.\nPosso trocar equipamentos ^4D4DFFIlustres^000000 pelos seus <ITEM>[Sinais de Honra de Schwarzwald]<INFO>25155</INFO></ITEM>.\nDeixe-me mostrar os itens disponíveis para sua classe.",
-        "es": "[Intercambiador imperial]\nHola, trotamundos prometedor.\nPuedo darte un equipamiento ^4D4DFFimperial^000000 a cambio de tus <ITEM>[Insignias de honor de Schwarzwald]<INFO>25155</INFO></ITEM>.\nDéjame que te muestre los objetos disponibles para tu clase."
+        "ko": "[임페리얼 교환원]\n안녕하세요.\n<ITEM>[슈발츠 명예의 증표]<INFO>25155</INFO></ITEM>로 교환 가능한 ^4D4DFF임페리얼^000000 장비가 준비되어 있습니다.\n직업별로 교환 가능한 품목을 안내해 드릴게요.",
+        "en": "[Imperial Exchange Officer]\nHello.\nWe have ^4D4DFFImperial^000000 equipment available for exchange with <ITEM>[Schwartz Honor Token]<INFO>25155</INFO></ITEM>.\nLet me show you the items you can exchange for, based on your job.",
+        "pt": "[Trocador Imperial]\nOlá.\nOs equipamentos ^4D4DFFImperial^000000 que podem ser trocados por <ITEM>[Schwartz Medal of Honor]<INFO>25155</INFO></ITEM> estão prontos.\nVou informar quais itens podem ser trocados de acordo com cada classe.",
+        "es": "[Intercambiador Imperial]\nHola.\nTenemos disponibles equipos ^4D4DFFImperial^000000 que puedes canjear por <ITEM>[Insignia de Honor de Schwarz]<INFO>25155</INFO></ITEM>.\nTe mostraré los artículos que puedes intercambiar según tu clase."
     }
 }

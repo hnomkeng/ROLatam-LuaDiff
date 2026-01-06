@@ -13611,117 +13611,293 @@ QuestInfoList = {
 		NpcPosY = 255
 	},
 	[5856] = {
-		Title = "My Name Is Morning",
+		Title = "My name is Morning",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Hello to whoever's reading this! I have to go somewhere in a hurry, and I had to leave behind this kid you're seeing, a test subject abandoned here in Rudus. You can call him <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>. I'm not completely abandoning him. I'll come to see him whenever I can. In the meantime, would you mind feeding him regularly? Please just give him what he wants since I can't take him with me for now. Thank you for your help! - Olg"
+			"Hello! Friend who is reading this note",
+			"I had to leave in a hurry, so I ended up leaving the child behind. That child is an experimental subject abandoned in Ludeus.",
+			"Just call me <NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI>.",
+			"I'm not trying to push this onto you, but I'll come by to check whenever I have time, so just make sure to give them a Morning meal. Just give them what they ask for. I can't take them with me right now. Please, I'm counting on you.",
+			"Org"
 		},
-		Summary = ""
+		Summary = "",
+		NpcSpr = "4_EP17_MORNING",
+		NpcNavi = "sp_rudus",
+		NpcPosX = 130,
+		NpcPosY = 200
 	},
 	[5857] = {
-		Title = "Befriending Morning",
+		Title = "Making Friends with Morning",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Hello to whoever's reading this! Thank you for feeding Morning. Maybe it's because I told him about Porings the other day, but now he's obsessed with them. He wouldn't be so lonely if he had a pet Poring. Could you get him a <ITEM>[Poring Egg]<INFO>9001</INFO></ITEM>? Thank you, my friend! - Olg"
+			"Hello! Friend who is reading this note",
+			"Thank you for taking care of my Morning meal. Maybe it's because you told me about Poring recently, but they really seem to love Porings. If only they had a Poring pet, even just one, they might feel a little less lonely.",
+			"So, could you get me one <ITEM>[Poring's Egg]<INFO>9001</INFO></ITEM> and deliver it to Morning? Please, my friend.",
+			"Org"
 		},
-		Summary = "Poring Egg"
+		Summary = "Poring's Egg",
+		NpcSpr = "4_EP17_MORNING",
+		NpcNavi = "sp_rudus",
+		NpcPosX = 130,
+		NpcPosY = 200,
+		RewardEXP = "Lv110 5%",
+		RewardJEXP = "800000",
+		RewardItemList = {
+			{ItemID = 25723, ItemNum = 3}
+		}
 	},
 	[5858] = {
-		Title = "Befriending Morning",
+		Title = "Making Friends with Morning",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Hello, my friend! It seems Morning now recognizes you as the hand that feeds him. Ah, I'm just joking. A while ago, I told him about the singing grasshopper, Rocker. Now, he wants to see it. Could you get him a <ITEM>[Rocker Egg]<INFO>9011</INFO></ITEM> this time? Thank you, my friend! - Olg"
+			"Hello! Friend.",
+			"It seems that Morning recognizes you as the one who feeds them, doesn't it?",
+			"Ah, that was just nonsense, but recently I told them a story about a singing Grasshopper Rocker. Now it seems like they want to see a Rocker this time.",
+			"This time, could you get me one <ITEM>[Rocker's Egg]<INFO>9011</INFO></ITEM>? Please, my friend.",
+			"Org"
 		},
-		Summary = "Rocker Egg"
+		Summary = "Rocker's Egg",
+		NpcSpr = "4_EP17_MORNING",
+		NpcNavi = "sp_rudus",
+		NpcPosX = 130,
+		NpcPosY = 200,
+		RewardEXP = "Lv110 5%",
+		RewardJEXP = "800000",
+		RewardItemList = {
+			{ItemID = 25723, ItemNum = 3}
+		}
 	},
 	[5859] = {
-		Title = "Befriending Morning",
+		Title = "Making Friends with Morning",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Hello, my friend! Maybe it's because I told him this story, Adventures of the Chick, but now he's curious about Pickys. Could you get him a <ITEM>[Picky Egg]<INFO>9005</INFO></ITEM> this time? Since I can't be there for him all the time, I at least want him to have as many friends around him as I can get. Thank you, my friend! - Olg"
+			"Hello! Friend.",
+			"Did you tell Morning about Chirper's adventure? Now they're curious about Picky, aren't they?",
+			"This time, could you get me <ITEM>[Picky's Egg]<INFO>9005</INFO></ITEM>? I can't take care of it often, so I should at least help it make lots of friends. Please, my friend.",
+			"Org"
 		},
-		Summary = "Picky Egg"
+		Summary = "Picky's Egg",
+		NpcSpr = "4_EP17_MORNING",
+		NpcNavi = "sp_rudus",
+		NpcPosX = 130,
+		NpcPosY = 200,
+		RewardEXP = "Lv110 5%",
+		RewardJEXP = "800000",
+		RewardItemList = {
+			{ItemID = 25723, ItemNum = 3}
+		}
 	},
 	[5860] = {
-		Title = "Befriending Morning",
+		Title = "Making friends with Morning",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Hello, my friend! I'm sorry I keep asking you for favors. I told him about the rabbit that lives on the moon, and now he's curious about Lunatics. Could you get him a <ITEM>[Lunatic Egg]<INFO>9004</INFO></ITEM>? Thank you, my friend! - Olg"
+			"Hello! Friend.",
+			"I feel bad for always asking for favors. Is it because I told you the story about the rabbit that lives on the moon? Now you're curious about Lunatic.",
+			"Can you get me a <ITEM>[Lunatic's Egg]<INFO>9004</INFO></ITEM>? Please, my friend.",
+			"Org"
 		},
-		Summary = "Lunatic Egg"
+		Summary = "Lunatic's Egg",
+		NpcSpr = "4_EP17_MORNING",
+		NpcNavi = "sp_rudus",
+		NpcPosX = 130,
+		NpcPosY = 200,
+		RewardEXP = "Lv110 5%",
+		RewardJEXP = "800000",
+		RewardItemList = {
+			{ItemID = 25723, ItemNum = 6}
+		}
 	},
 	[5861] = {
-		Title = "[Pending] Taking Care of Morning",
+		Title = "[Waiting] Take care of Morning",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"I fed <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>. If I can, I should feed him tomorrow as well."
+			"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI>'s meal has been prepared. If you have time, wouldn't it be good to prepare it again tomorrow?"
 		},
-		Summary = "Reset at 4:00 a.m.",
-		CoolTimeQuest = 1
+		Summary = "Reset at 4 AM",
+		NpcSpr = "4_EP17_MORNING",
+		NpcNavi = "sp_rudus",
+		NpcPosX = 130,
+		NpcPosY = 200
 	},
 	[5862] = {
-		Title = "Morning's Menu Selection",
+		Title = "Menu selection for Morning",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"It seems <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> wants to eat jellopies today. I should bring 10 <ITEM>[Jellopies]<INFO>909</INFO></ITEM>."
+			"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> seems to want to eat some Jellopy today. Let's bring <ITEM>[Jellopy]<INFO>909</INFO></ITEM> 10 of them."
 		},
-		Summary = "Jellopy 10"
+		Summary = "10 Jellopy",
+		NpcSpr = "4_EP17_MORNING",
+		NpcNavi = "sp_rudus",
+		NpcPosX = 130,
+		NpcPosY = 200,
+		RewardEXP = "300000",
+		RewardJEXP = "300000",
+		RewardItemList = {
+			{ItemID = 25669, ItemNum = 5},
+			{ItemID = 25723, ItemNum = 1}
+		}
 	},
 	[5863] = {
-		Title = "Morning's Menu Selection",
+		Title = "Menu selection for Morning",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"It seems <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> wants to eat tree roots today. I should bring 10 <ITEM>[Tree Roots]<INFO>902</INFO></ITEM>."
+			"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> seems to want to eat some Old Tree Roots today. Let's bring <ITEM>[Old Tree Root]<INFO>902</INFO></ITEM> 10 of them."
 		},
-		Summary = "Tree Root 10"
+		Summary = "10 Old Tree Roots",
+		NpcSpr = "4_EP17_MORNING",
+		NpcNavi = "sp_rudus",
+		NpcPosX = 130,
+		NpcPosY = 200,
+		RewardEXP = "300000",
+		RewardJEXP = "300000",
+		RewardItemList = {
+			{ItemID = 25669, ItemNum = 5},
+			{ItemID = 25723, ItemNum = 1}
+		}
 	},
 	[5864] = {
-		Title = "Morning's Menu Selection",
+		Title = "Menu selection for Morning",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"It seems <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> wants to eat grasshopper legs today. I should bring 10 <ITEM>[Grasshopper's Legs]<INFO>940</INFO></ITEM>."
+			"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> seems to want to eat some Grasshopper Hind Legs today. Let's bring <ITEM>[Grasshopper Hind Leg]<INFO>940</INFO></ITEM> x10."
 		},
-		Summary = "Grasshopper's Leg 10"
+		Summary = "10 Grasshopper Hind Legs",
+		NpcSpr = "4_EP17_MORNING",
+		NpcNavi = "sp_rudus",
+		NpcPosX = 130,
+		NpcPosY = 200,
+		RewardEXP = "300000",
+		RewardJEXP = "300000",
+		RewardItemList = {
+			{ItemID = 25669, ItemNum = 5},
+			{ItemID = 25723, ItemNum = 1}
+		}
 	},
 	[5865] = {
-		Title = "Morning's Menu Selection",
+		Title = "Menu selection for Morning",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"It seems <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> wants to eat clover today. I should bring 10 <ITEM>[Clovers]<INFO>705</INFO></ITEM>."
+			"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> seems to want to eat clovers today. Let's bring <ITEM>[Clover]<INFO>705</INFO></ITEM> 10 of them."
 		},
-		Summary = "Clover 10"
+		Summary = "Clover 10",
+		NpcSpr = "4_EP17_MORNING",
+		NpcNavi = "sp_rudus",
+		NpcPosX = 130,
+		NpcPosY = 200,
+		RewardEXP = "300000",
+		RewardJEXP = "300000",
+		RewardItemList = {
+			{ItemID = 25669, ItemNum = 5},
+			{ItemID = 25723, ItemNum = 1}
+		}
 	},
 	[5866] = {
-		Title = "Morning's Menu Selection",
+		Title = "Menu selection for Morning",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"It seems <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> wants to eat bird feathers today. I should bring 10 <ITEM>[Feathers Of Birds]<INFO>916</INFO></ITEM>."
+			"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> seems to want to eat some Bird Feathers today. Let's bring <ITEM>[Bird Feather]<INFO>916</INFO></ITEM> x10."
 		},
-		Summary = "Feather Of Birds 10"
+		Summary = "10 Bird Feathers",
+		NpcSpr = "4_EP17_MORNING",
+		NpcNavi = "sp_rudus",
+		NpcPosX = 130,
+		NpcPosY = 200,
+		RewardEXP = "300000",
+		RewardJEXP = "300000",
+		RewardItemList = {
+			{ItemID = 25669, ItemNum = 5},
+			{ItemID = 25723, ItemNum = 1}
+		}
 	},
 	[5867] = {
-		Title = "Morning's Menu Selection",
+		Title = "Menu selection for Morning",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"It seems <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> wants to eat rat tails today. I should bring 10 <ITEM>[Rat Tails]<INFO>1016</INFO></ITEM>."
+			"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> seems to want to eat some Rat Tails today. Let's bring <ITEM>[Rat Tail]<INFO>1016</INFO></ITEM> x10."
 		},
-		Summary = "Rat Tail 10"
+		Summary = "10 Rat Tails",
+		NpcSpr = "4_EP17_MORNING",
+		NpcNavi = "sp_rudus",
+		NpcPosX = 130,
+		NpcPosY = 200,
+		RewardEXP = "300000",
+		RewardJEXP = "300000",
+		RewardItemList = {
+			{ItemID = 25669, ItemNum = 5},
+			{ItemID = 25723, ItemNum = 1}
+		}
 	},
 	[5868] = {
-		Title = "Morning's Menu Selection",
+		Title = "Menu selection for Morning",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"It seems <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> wants to eat poisonous fangs today. I should bring 10 <ITEM>[Venom Canines]<INFO>937</INFO></ITEM>."
+			"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> seems to want to eat some Poison Fangs today. Let's bring <ITEM>[Poison Fang]<INFO>937</INFO></ITEM> x10."
 		},
-		Summary = "Venom Canine 10"
+		Summary = "10 Poison Fangs",
+		NpcSpr = "4_EP17_MORNING",
+		NpcNavi = "sp_rudus",
+		NpcPosX = 130,
+		NpcPosY = 200,
+		RewardEXP = "300000",
+		RewardJEXP = "300000",
+		RewardItemList = {
+			{ItemID = 25669, ItemNum = 5},
+			{ItemID = 25723, ItemNum = 1}
+		}
 	},
 	[5869] = {
-		Title = "Morning's Menu Selection",
+		Title = "Menu selection for Morning",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"It seems <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> wants to eat monkey tails today. I should bring 10 <ITEM>[Yoyo Tails]<INFO>942</INFO></ITEM>."
+			"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> seems to want to eat Monkey Tails today. Let's bring <ITEM>[Monkey Tail]<INFO>942</INFO></ITEM> x10."
 		},
-		Summary = "Yoyo Tail 10"
+		Summary = "10 Monkey Tails",
+		NpcSpr = "4_EP17_MORNING",
+		NpcNavi = "sp_rudus",
+		NpcPosX = 130,
+		NpcPosY = 200,
+		RewardEXP = "300000",
+		RewardJEXP = "300000",
+		RewardItemList = {
+			{ItemID = 25669, ItemNum = 5},
+			{ItemID = 25723, ItemNum = 1}
+		}
 	},
 	[5870] = {
-		Title = "Morning's Menu Selection",
+		Title = "Menu selection for Morning",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"It seems <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> wants to eat bat teeth today. I should bring 10 <ITEM>[Teeth of Bat]<INFO>913</INFO></ITEM>."
+			"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> seems to want to eat Bat Teeth today. Let's bring <ITEM>[Bat Teeth]<INFO>913</INFO></ITEM> x10."
 		},
-		Summary = "Tooth of Bat 10"
+		Summary = "10 Bat Teeth",
+		NpcSpr = "4_EP17_MORNING",
+		NpcNavi = "sp_rudus",
+		NpcPosX = 130,
+		NpcPosY = 200,
+		RewardEXP = "300000",
+		RewardJEXP = "300000",
+		RewardItemList = {
+			{ItemID = 25669, ItemNum = 5},
+			{ItemID = 25723, ItemNum = 1}
+		}
 	},
 	[5871] = {
-		Title = "Morning's Menu Selection",
+		Title = "Menu selection for Morning",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"It seems <NAVI>[Morning]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI> wants to eat bear paws today. I should bring 10 <ITEM>[Bear's Footskins]<INFO>948</INFO></ITEM>."
+			"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> seems to want to eat Bear's Paw today. Let's bring <ITEM>[Bear's Paw]<INFO>948</INFO></ITEM> x10."
 		},
-		Summary = "Bear's Footskin 10"
+		Summary = "10 Bear Paws",
+		NpcSpr = "4_EP17_MORNING",
+		NpcNavi = "sp_rudus",
+		NpcPosX = 130,
+		NpcPosY = 200,
+		RewardEXP = "300000",
+		RewardJEXP = "300000",
+		RewardItemList = {
+			{ItemID = 25669, ItemNum = 5},
+			{ItemID = 25723, ItemNum = 1}
+		}
 	},
 	[5892] = {
 		Title = "Cleaner Robot Omega",
@@ -20235,138 +20411,171 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},
 	[7850] = {
-		Title = "Cat on a Bullet",
+		Title = "Bullet Cat",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"The member of the Rebellion I met in Einbech said that his group is using an Einbroch store as a base to cover its area of operations that's gotten bigger as of late. I should find the <NAVI>[Cat on a Bullet]<INFO>einbroch,302,329,0,101,0</INFO></NAVI> in Einbroch."
+			"The Rebellion Member you met in Einbech told you that, in order to cover the recently expanded area of operations, they are currently using a shop in Einbroch as their hideout. Head to Einbroch and look for <NAVI>[Bullet Cat]<INFO>einbroch,302,329,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Tes at the Cat"
+		Summary = "Talk to Tess in Yaongi."
 	},
 	[7851] = {
-		Title = "New Area of Operations",
+		Title = "New Operation Area",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Tes told me about the new area of operations, <NAVI>[Rudus]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI>. I should go there and join the members of the Rebellion there."
+			"I have received new information about the operation area <NAVI>[Ludus]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI> from Tess. Let's head to the operation area and join forces with Rebellion."
 		},
-		Summary = "Talk to Elena Volkova"
+		Summary = "Talk to Elena Volkova."
 	},
 	[7852] = {
-		Title = "Behind the Wall",
+		Title = "Beyond the barrier",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Elena Volkova in the new area of operations, <NAVI>[Rudus]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI>, asked me to talk to Rookie who's investigating the wall, and then find out what's behind the wall."
+			"Elena Volkova, who is waiting at the new operation area <NAVI>[Ludus]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI>, asks you to investigate beyond the barrier after speaking with Rookie, who is currently examining the barrier."
 		},
-		Summary = "Talk to Rookie"
+		Summary = "Talk to Rookie."
 	},
 	[7853] = {
-		Title = "Investigating around the Wall",
+		Title = "Investigate around the barricade.",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Rookie inside <NAVI>[Rudus]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI> asked me to investigate around the wall. I should collect everything that looks suspicious and let him know."
+			"<NAVI>[Ludus]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI> Inside, Rookie asks you to investigate around the partition wall. If you find anything unusual, collect it and report back."
 		},
-		Summary = "Investigate around the wall"
+		Summary = "Investigate the area around the barrier."
 	},
 	[7854] = {
-		Title = "Wall on the Railroad",
+		Title = "The wall on the tracks",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"There's a wall standing on the railroad. It must have been built after the mine was closed."
+			"A barricade has been set up on the tracks. It seems the barricade was built after the mine was abandoned."
 		},
 		Summary = ""
 	},
 	[7855] = {
 		Title = "Watchtower",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"This watchtower is tall enough to look beyond the wall. I don't think the ore-refining process would need watchtowers like this."
+			"A watchtower so tall you can see beyond the barricade at a glance. There shouldn't be any need for such a watchtower just for mineral refining..."
 		},
 		Summary = ""
 	},
 	[7856] = {
-		Title = "Small Hole",
+		Title = "Dog Hole",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Where the edge of the wall meets the rock, there's a hole barely big enough to let a small child to crawl through."
+			"At the point where the end of the barrier meets the rock, there is a Dog Hole just big enough for a very small child to barely squeeze through."
 		},
 		Summary = ""
 	},
 	[7857] = {
-		Title = "Report to Rookie",
+		Title = "Report to Rookie.",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"I've looked around the wall. I should give the information I've collected to Rookie."
+			"It looks like I've explored most of the area around the barricade. Let's report the information we've gathered to Rookie."
 		},
-		Summary = "Talk to Rookie"
+		Summary = "Talk to Rookie."
 	},
 	[7858] = {
-		Title = "Investigate Ominous Noise",
+		Title = "Investigate the source of the ominous sound",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Some of the Rebellion members are already on the move to identify the noise coming from the other side of the wall. Rookie asked me to take care of its source if it's monsters."
+			"Some of the Rebellion Member have already set out to uncover the source of the sounds coming from beyond the partition. Rookie asked you to take care of it in style if the source turns out to be a monster."
 		},
-		Summary = "Monster hunt"
+		Summary = "Monster Hunting",
+		RewardEXP = "800000",
+		RewardJEXP = "800000",
+		RewardItemList = {
+			{ItemID = 25723, ItemNum = 15}
+		}
 	},
 	[7859] = {
-		Title = "Report to Tes",
+		Title = "Report to Tess.",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Elena Volkova asked me to go back to the Cat on a Bullet and let <NAVI>[Tess]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI> know the situation beyond the wall is not normal. From what she says, it's a dump."
+			"Elena Volkova noticed that something was wrong beyond the barricade and told you to report back to <NAVI>[Tess]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI> as fast as a bullet cat. Elena mentioned it was a junkyard..."
 		},
-		Summary = "Report to Tes"
+		Summary = "Report to Tess."
 	},
 	[7860] = {
-		Title = "Unexpected Guest",
+		Title = "An unexpected Customer",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Tes]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI> at the Cat on a Bullet took me to a secret room in the back to discuss some urgent matter."
+			"<NAVI>[Tess]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>, whom you met at Bullet Cat, said there was something urgent and guided you to a secret room inside."
 		},
-		Summary = "Talk to Tes in the Secret Room"
+		Summary = "Talk to Tess in the secret room."
 	},
 	[7861] = {
-		Title = "The Corporation in Crisis",
+		Title = "Corporate Crisis",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"I've decided to join forces with Est and others to reclaim the Regenschirm Laboratory from those traitors. I should go to Lighthalzen and meet the <NAVI>[Republic Guard]<INFO>lighthalzen,56,270,0,101,0</INFO></NAVI> waiting for me there."
+			"I decided to join Est and the group to reclaim the Regenschirm Laboratory, which has been taken over by an insider traitor. Meet <NAVI>[Republic Guard]<INFO>lighthalzen,56,270,0,101,0</INFO></NAVI>, who is waiting for the operation in Lighthalzen."
 		},
-		Summary = "Talk to Republic Guard"
+		Summary = "Talk to Republic Guard."
 	},
 	[7862] = {
-		Title = "Regenschirm Reclamation",
+		Title = "Regenchirm Recapture Operation",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"We've decided to infiltrate the Lab and clear what's inside. I can enter the Lab through <NAVI>[Oscar]<INFO>lighthalzen,55,278,0,101,0</INFO></NAVI>."
+			"We decided to infiltrate the laboratory and take care of things inside. You can enter the laboratory through <NAVI>[Oscar]<INFO>lighthalzen,55,278,0,101,0</INFO></NAVI>, who is currently on standby."
 		},
-		Summary = "Reclaim the Lab"
+		Summary = "Recapturing the Laboratory"
 	},
 	[7863] = {
-		Title = "Data Obtained from the Lab",
+		Title = "Data obtained from the laboratory",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Data related to the Lab's Security Team 1."
+			"This is data related to Security Team 1 of the laboratory."
 		},
-		Summary = "Report to Tes"
+		Summary = "Report to Tess.",
+		RewardEXP = "200000",
+		RewardJEXP = "200000"
 	},
 	[7864] = {
-		Title = "A Change of Air",
+		Title = "Ventilation",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"While Tes analyzes the data, I've decided to help Rage. I should look for him in the pub."
+			"While Tess analyzes the data, you decided to help Leizi. Let's look for Leizi, who should be somewhere in the tavern."
 		},
-		Summary = "Talk to Rage"
+		Summary = "Talk to Leizi."
 	},
 	[7865] = {
 		Title = "Second Operation",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"A new operation will take place in the closed mine in the northwestern Einbroch field. I should meet with the <NAVI>[Rebellion Member]<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI> waiting there and join the operation."
+			"A new operation is scheduled to take place at the abandoned mine in the northwestern field of Einbroch. Meet with the waiting <NAVI>[Rebellion Member]<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI> and join the operation."
 		},
-		Summary = "Talk to Rebellion Member"
+		Summary = "Talk to Rebellion Member."
 	},
 	[7866] = {
-		Title = "To the Cat on a Bullet",
+		Title = "Like a bullet cat!",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"I should go back to the Cat on a Bullet and report to <NAVI>[Tes]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI> about what happened at the Lab."
+			"You must return as the 'Bullet Cat' and report the full story of the laboratory to <NAVI>[Tess]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Tes"
+		Summary = "Talk to Tess.",
+		RewardEXP = "1000000",
+		RewardJEXP = "800000",
+		RewardItemList = {
+			{ItemID = 25669, ItemNum = 25}
+		}
 	},
 	[7867] = {
-		Title = "Merc vs. Merc",
+		Title = "Mercenary vs Mercenary",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Yuslan]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI> in the special security area, Cor, asked me to take care of Heart Hunters Bellare and Sanare in Os."
+			"In the Special Border Area, Kor's <NAVI>[Yuslan]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI> has asked you to defeat Heart Hunter Bellare and Sanare, who appear inside Oth."
 		},
-		Summary = "Defeat Heart Hunters"
+		Summary = "Defeat the Heart Hunter",
+		RewardEXP = "200000",
+		RewardJEXP = "200000"
 	},
 	[7868] = {
-		Title = "Merc vs. Merc - Pending",
+		Title = "Mercenary vs Mercenary - Waiting",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"A Daily quest. It can be repeated after its cooldown through <NAVI>[Yuslan]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI> in the special security area, Cor."
+			"This quest is a daily quest and can be accepted and completed again once the cooldown period has expired.",
+			"You can accept the quest through <NAVI>[Yuslan]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI> in the Special Border Area Core."
 		},
-		Summary = "Reset at 04:00 a.m.",
-		CoolTimeQuest = 1
+		Summary = "Reset at 4 AM"
 	},
 	[7879] = {
 		Title = "New Poison Gas Research",
@@ -23177,158 +23386,172 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},
 	[8541] = {
-		Title = "An Empty Thing",
+		Title = "There is nothing inside.",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Nillem asks you to hunt 20 Contaminated Raydrics and 20 Contaminated Raydric Archers, and see what's in them."
+			"<NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> asks you to hunt 20 Contaminated Raydric and 20 Contaminated Raydric Archer, and then check their contents."
 		},
-		Summary = "Defeat Contaminated Raydric and Contaminated Raydric Archer"
+		Summary = "Defeat Contaminated Raydric and Contaminated Raydric Archer."
 	},
 	[8542] = {
-		Title = "An Empty Thing- Wait",
+		Title = "Empty contents - Waiting",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"This quest is a daily quest. When the waiting time is over, you can talk to [Nillem] to get the quest again."
+			"This quest is a daily quest, and you can receive and complete it again from <NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> once the cooldown period has expired."
 		},
-		Summary = "Reset at 04:00 am",
-		CoolTimeQuest = 1
+		Summary = "Reset at 4 AM"
 	},
 	[8543] = {
-		Title = "Perhaps, An Empty Thing",
+		Title = "It probably doesn't contain anything.",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Nillem asks you to hunt 20 Contaminated Raydrics and 20 Contaminated Raydric Archers, and see what's in them."
+			"<NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> asks you to hunt 20 Contaminated Raydric and 20 Contaminated Raydric Archer, and then check their contents."
 		},
-		Summary = "Defeat Contaminated Raydric and Contaminated Raydric Archer"
+		Summary = "Defeat Contaminated Raydric and Contaminated Raydric Archer."
 	},
 	[8544] = {
-		Title = "A Thing with High Freezing Point",
+		Title = "A higher freezing point",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Nillem asks you to defeat 5 Frozen Gargoyles and 5 Prison Breakers, and  allow him to see a change."
+			"<NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> asks you to defeat 5 Frozen Gargoyle and 5 Prison Breaker and then return to witness the change."
 		},
-		Summary = "Defeat Frozen Gargoyle and Prison Breaker"
+		Summary = "Defeat Frozen Gargoyle and Prison Breaker."
 	},
 	[8545] = {
-		Title = "A Thing with High Freezing Point- Wait",
+		Title = "High Freezing Point - Air",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"This quest is a daily quest. When the waiting time is over, you can talk to [Nillem] to get the quest again."
+			"This quest is a daily quest, and you can receive and complete it again from <NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> once the cooldown period has expired."
 		},
-		Summary = "Reset at 04:00 am",
-		CoolTimeQuest = 1
+		Summary = "Reset at 4 AM"
 	},
 	[8546] = {
-		Title = "A Thing with Pretty High Freezing Point",
+		Title = "A very high freezing point",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Nillem asks you to defeat 5 Frozen Gargoyles and 5 Prison Breakers, and  allow him to see a change."
+			"<NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> asks you to defeat 5 Frozen Gargoyle and 5 Prison Breaker and then return to see what changes occur."
 		},
-		Summary = "Defeat Frozen Gargoyle and Prison Breaker"
+		Summary = "Defeat Frozen Gargoyle and Prison Breaker."
 	},
 	[8547] = {
-		Title = "A Thing Like A Mirror",
+		Title = "Something like a mirror",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Nillem asks you to defeat 10 Ice Ghosts and 10 Flame Ghosts, allow him to see a change."
+			"<NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> asks you to defeat 10 Ice Ghost and 10 Flame Ghosts, and then show him the results."
 		},
-		Summary = "Defeat Ice Ghost and Flame Ghost"
+		Summary = "Ice Ghost, Flame Ghost"
 	},
 	[8548] = {
-		Title = "A Thing Like A Mirror- Wait",
+		Title = "Something Like a Mirror - Waiting",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"This quest is a daily quest. When the waiting time is over, you can talk to [Nillem] to get the quest again."
+			"This quest is a daily quest, and once the cooldown expires, you can receive and complete it again from <NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reset at 04:00 am",
-		CoolTimeQuest = 1
+		Summary = "Reset at 4 AM"
 	},
 	[8549] = {
-		Title = "A Thing Like A Mysterious Mirror",
+		Title = "It's just like a mirror.",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Nillem asks you to defeat 10 Ice Ghosts and 10 Flame Ghosts, allow him to see a change."
+			"<NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> asks you to defeat 10 Ice Ghost and 10 Flame Ghosts, then return to show the results."
 		},
-		Summary = "Defeat Ice Ghost and Flame Ghost"
+		Summary = "Ice Ghost, Flame Ghost"
 	},
 	[8550] = {
-		Title = "Abnormally Evolved Deleter",
+		Title = "Deleter that has undergone abnormal evolution",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Lily Blanc asks to fight with 15 Stiff Deleters(Sky) and 15 Stiff Deleters(Ground), and report ethnic differences."
+			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> asks you to fight 15 Stiff Deleter(Sky) and 15 Stiff Deleter(Ground), then report back on the differences between the races."
 		},
-		Summary = "Defeat Stiff Deleter(Sky) and Stiff Deleter(Ground)"
+		Summary = "Defeat Stiff Deleter(Sky) and Stiff Deleter(Ground)."
 	},
 	[8551] = {
-		Title = "Abnormally Evolved Deleter- Wait",
+		Title = "Deleter that has undergone abnormal evolution - Standby",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"This quest is a daily quest. When the waiting time is over, you can talk to [Lily Blanc] to get the quest again."
+			"This quest is a daily quest, and you can receive and complete it again from <NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> once the cooldown period has expired."
 		},
-		Summary = "Reset at 04:00 am",
-		CoolTimeQuest = 1
+		Summary = "Reset at 4 AM"
 	},
 	[8552] = {
-		Title = "Reinvestigation of Abnormally Evolved Deleter",
+		Title = "Reinvestigation of the Deleter that underwent abnormal evolution",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Lily Blanc asks to fight with 15 Stiff Deleters(Sky) and 15 Stiff Deleters(Ground), and report ethnic differences."
+			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> asks you to fight 15 Stiff Deleter(Sky) and 15 Stiff Deleter(Ground), then report back on the differences between the races."
 		},
-		Summary = "Defeat Stiff Deleter(Sky) and Stiff Deleter(Ground)"
+		Summary = "Defeat Stiff Deleter(Sky) and Stiff Deleter(Ground)."
 	},
 	[8553] = {
-		Title = "Defeat Real Nightmare",
+		Title = "Defeating the Materialized Nightmare",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Lily Blanc asks to fight with 10 Stiff Nightmare Terrors and report ethnic differences."
+			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> asks you to fight 10 Stiff Nightmare Terror and report back on the differences between the races."
 		},
 		Summary = "Defeat Stiff Nightmare Terror"
 	},
 	[8554] = {
-		Title = "Defeat Real Nightmare- Wait",
+		Title = "Defeat the Materialized Nightmare - Waiting",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"This quest is a daily quest. When the waiting time is over, you can talk to [Lily Blanc] to get the quest again."
+			"This quest is a daily quest, and you can receive and complete it again from <NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> once the cooldown period has expired."
 		},
-		Summary = "Reset at 04:00 am",
-		CoolTimeQuest = 1
+		Summary = "Reset at 4 AM"
 	},
 	[8555] = {
-		Title = "Defeat Real Scary Nightmare",
+		Title = "Defeating the Terrifying Nightmare That Has Taken Form",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Lily Blanc asks to fight with 10 Stiff Nightmare Terrors and report ethnic differences."
+			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> asks you to fight 10 Stiff Nightmare Terror and report back on the differences between the races."
 		},
 		Summary = "Defeat Stiff Nightmare Terror"
 	},
 	[8556] = {
-		Title = "Density Verification",
+		Title = "Check the density.",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Lily Blancasks to defeat 10 Stiff Lava Golems and report ethnic differences."
+			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> asks you to defeat 10 Stiff Lava Golem and report back about the differences between the races."
 		},
 		Summary = "Defeat Stiff Lava Golem"
 	},
 	[8557] = {
-		Title = "Density Verification- Wait",
+		Title = "Density Check - Standby",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"This quest is a daily quest. When the waiting time is over, you can talk to [Lily Blanc] to get the quest again."
+			"This quest is a daily quest, and you can receive and complete it again from <NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> once the cooldown period has expired."
 		},
-		Summary = "Reset at 04:00 am",
-		CoolTimeQuest = 1
+		Summary = "Reset at 4 AM"
 	},
 	[8558] = {
-		Title = "Density Verification Again",
+		Title = "Check the density once more.",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Lily Blancasks to defeat 10 Stiff Lava Golems and report ethnic differences."
+			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> asks you to defeat 10 Stiff Lava Golem and report back about the differences between the races."
 		},
 		Summary = "Defeat Stiff Lava Golem"
 	},
 	[8559] = {
-		Title = "The Small Things That Rustle",
+		Title = "Small things that crumble away",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Lily Blancasks to defeat 10 Stiff Explosions and 10 Stiff Blazers and report ethnic differences."
+			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> asks you to defeat 10 Stiff Explosion and 10 Stiff Blazer, then report back on the differences between the species."
 		},
-		Summary = "Defeat Stiff Explosion and Stiff Blazer"
+		Summary = "Defeat Stiff Explosion and Stiff Blazer."
 	},
 	[8560] = {
-		Title = "The Small Things That Rustle- Wait",
+		Title = "Small Things That Crumble - Waiting",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"This quest is a daily quest. When the waiting time is over, you can talk to [Lily Blanc] to get the quest again."
+			"This quest is a daily quest, and once the cooldown expires, you can receive and complete it again from <NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reset at 04:00 am",
-		CoolTimeQuest = 1
+		Summary = "Reset at 4 AM"
 	},
 	[8561] = {
-		Title = "The Very Small Things That Rustle",
+		Title = "Things that crumble are often very small.",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Lily Blancasks to defeat 10 Stiff Explosions and 10 Stiff Blazers and report ethnic differences."
+			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> asks you to defeat 10 Stiff Explosion and 10 Stiff Blazer, then report back on the differences between the races."
 		},
-		Summary = "Defeat Stiff Explosion and Stiff Blazer"
+		Summary = "Defeat Stiff Explosion and Stiff Blazer."
 	},
 	[8577] = {
 		Title = "Will grind a melon for you.",
@@ -31862,59 +32085,73 @@ QuestInfoList = {
 	},
 	[11596] = {
 		Title = "Old Memories",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"I've found an enemy base near Einbroch that's disguised as a closed mine. I'd better check the perimeter for more enemies."
+			"It seems we've found the enemy's hideout disguised as an abandoned mine near Einbroch. Let's check the surroundings to make sure there are no other enemies nearby."
 		},
-		Summary = "Search around"
+		Summary = "Search the surroundings"
 	},
 	[11597] = {
 		Title = "Old Memories",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Nothing looks out of place. I'd better check elsewhere."
+			"Nothing special can be seen. Let's look somewhere else."
 		},
-		Summary = "Search around"
+		Summary = "Search the surroundings"
 	},
 	[11598] = {
 		Title = "Old Memories",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Nothing looks out of place. I'd better check elsewhere."
+			"Nothing special can be seen. Let's look somewhere else."
 		},
-		Summary = "Search around"
+		Summary = "Search the surroundings"
 	},
 	[11599] = {
 		Title = "Old Memories",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Nothing looks out of place. I should go back to that Rebellion Member."
+			"Nothing special can be seen. Let's return to Rebellion Member."
 		},
-		Summary = "Talk to Rebellion Member"
+		Summary = "Talk to Rebellion Member.",
+		RewardEXP = 100000,
+		RewardJEXP = 100000
 	},
 	[11600] = {
 		Title = "Old Memories",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"I should check the inside of the closed mine that's blocked."
+			"Let's take a look inside the abandoned mine, where the path is blocked."
 		},
-		Summary = "Enter"
+		Summary = "Inside",
+		RewardEXP = 600000,
+		RewardJEXP = 600000
 	},
 	[11601] = {
 		Title = "Old Memories",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"A path to the next area has been opened. I should report back to the Cat on a Bullet, and pick up the thing that Dien wants from his room."
+			"A path to the next area has opened. Return to Clananemieri to deliver the news, then go to Dien's room and bring back the item that Dien is looking for."
 		},
-		Summary = "To the Cat on a Bullet"
+		Summary = "Clana Nemieri"
 	},
 	[11602] = {
 		Title = "Old Memories",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Pick up what Dien wants from his room."
+			"Let's return to Dien's room with the item that Dien is looking for."
 		},
-		Summary = "Dien's Charm"
+		Summary = "Talisman of Dien"
 	},
 	[11603] = {
 		Title = "Old Memories",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"I've found Dien's Charm. I should go back to Dien."
+			"You have found Dien's talisman. Let's return to Dien."
 		},
-		Summary = "Back to Dien"
+		Summary = "Go back to Dien.",
+		RewardEXP = 200000,
+		RewardJEXP = 100000
 	},
 	[11604] = {
 		Title = "Jakk the Giant Pumpkin",
@@ -36076,32 +36313,32 @@ QuestInfoList = {
 		Summary = "Path of the Soul Reaper"
 	},
 	[12452] = {
-		Title = "Os Occupation",
+		Title = "Os Occupation Operation",
 		Description = {
-			"A train transport route has been secured. Now, I'd better clear Os of the enemy remnants."
+			"The railway transport route has been secured. Let's completely dominate all of Os by eliminating the remaining forces."
 		},
-		Summary = "Os Occupation"
+		Summary = "Os Occupation Operation"
 	},
 	[12453] = {
-		Title = "Operation Pending",
+		Title = "Standing by for operation",
 		Description = {
-			"The gateway to Os is temporarily blocked. I should wait until it's released."
+			"The gateway to Os is temporarily closed. Please wait until the blockade is lifted."
 		},
-		Summary = "Operation pending"
+		Summary = "Standing by for operation"
 	},
 	[12454] = {
 		Title = "Additional Search Mission",
 		Description = {
-			"I should also check the northeastern side of Os and eliminate any possible threats."
+			"Let's conduct an additional search in the northeastern part of Os, and eliminate any abnormal signs or threats if they arise."
 		},
 		Summary = "Additional Search Mission"
 	},
 	[12455] = {
-		Title = "Operation Pending",
+		Title = "Standing by for operation",
 		Description = {
-			"The gateway to Os is temporarily blocked. I should wait until it's released."
+			"The gateway to Os is temporarily closed. Let's wait until the blockade is lifted."
 		},
-		Summary = "Operation pending"
+		Summary = "Standing by for operation"
 	},
 	[12456] = {
 		Title = "[Wait] Crack of Dimension]",
@@ -43656,181 +43893,212 @@ QuestInfoList = {
 		Summary = "Pop Popcorn Hat Enchant"
 	},
 	[16352] = {
-		Title = "Elena Volkova's Call",
+		Title = "The Call of Elena Volkova",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Talk to Elena Volkova."
-		},
-		Summary = ""
+			"Let's talk to Elena Volkova."
+		}
 	},
 	[16353] = {
-		Title = "Golden Troublemaker",
+		Title = "Golden Mischief-Maker",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"An explosion has occurred near an important facility. Follow Elena and check the <NAVI>[situation]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>."
+			"An explosion occurred near a major facility. Follow Elena and check <NAVI>[Status]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Elena"
+		Summary = "Talk to Elena."
 	},
 	[16354] = {
-		Title = "Eliumina Acquisition Operation",
+		Title = "Operation to Secure Eliumina",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Get to know the <NAVI>[area]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI> and carry out a special operation to secure Eliumina. Report to Elena after the operation."
+			"Introduce <NAVI>[Area]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI> and begin the special operation. After safely securing Eliumina, report back to Elena."
 		},
 		Summary = "Secure Eliumina"
 	},
 	[16355] = {
 		Title = "Suspicious Box",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"The box has been turned on. Step on the Bio Batteries to get rid of them and the monsters, and then talk to the Rebellion."
+			"The box has been activated. Step on and remove the bio-batteries, defeat the monsters, and then talk to Rebellion."
 		},
-		Summary = "Remove Batteries and monsters"
+		Summary = "Defeat monsters while removing the battery."
 	},
 	[16356] = {
 		Title = "Suspicious Box",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"The box has been turned on. Hunt monsters without touching the Chemical Poison, and then talk to the Rebellion."
+			"The box has been activated. Carefully defeat the monsters without touching the chemical poison, then talk to Rebellion."
 		},
-		Summary = "Hunt monsters without touching Chemical Poison"
+		Summary = "Be careful of chemical poison while defeating monsters."
 	},
 	[16357] = {
 		Title = "Secure Eliumina",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"I've successfully secured the scientist of Illusion. I should take a break, and then go back to <NAVI>[Elena]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>."
+			"We have safely secured the Illusion scientist. Let's take a short break and then return to <NAVI>[Elena]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Elena"
+		Summary = "Talk to Elena."
 	},
 	[16358] = {
-		Title = "Innocent Villain",
+		Title = "Pure Villain",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"The captured scientist of Illusion will be interrogated. I should go to the <NAVI>[Tent]<INFO>sp_cor,136,210,0,101,0</INFO></NAVI> and observe his interrogation."
+			"We are going to interrogate the Illusion scientist who has been taken prisoner. Head over to <NAVI>[Barracks]<INFO>sp_cor,136,210,0,101,0</INFO></NAVI> and observe the interrogation."
 		},
-		Summary = "Talk to Goni"
+		Summary = "Talk to Goni."
 	},
 	[16359] = {
-		Title = "Innocent Menace",
+		Title = "Pure Mischief",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Rookie]<INFO>sp_cor,135,216,0,101,0</INFO></NAVI> will lead the interrogation. I should stand next to him and just glare as best I can."
+			"<NAVI>[Rookie]<INFO>sp_cor,135,216,0,101,0</INFO></NAVI> has decided to lead the interrogation. Stand by their side and glare as fiercely as you can."
 		},
-		Summary = "Talk to Rookie"
+		Summary = "Talk to Rookie."
 	},
 	[16360] = {
-		Title = "Innocent Truth",
+		Title = "Pure fact",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Eliumina told us how to enter the Barmund Mansion. I'd better go check the <NAVI>[entrance]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI>."
+			"With Eliumina's testimony, we've discovered a way to enter the Varmundt Mansion. Let's go check the <NAVI>[Entrance]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Rookie"
+		Summary = "Talk to Rookie."
 	},
 	[16361] = {
-		Title = "Innocent Cleanup",
+		Title = "Pure Cleanup",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Ask Elena's <NAVI>[Subordinate]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI> why they haven't collected all Eliumina's monsters and traps after capturing him."
+			"Ask Elena's <NAVI>[subordinate]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI> about the reason why the monsters and traps left behind by Eliumina after the Eliumina capture operation have not yet been cleared."
 		},
-		Summary = "Talk to the Rebellion"
+		Summary = "Talk to Rebellion."
 	},
 	[16362] = {
-		Title = "Innocent Cleanup - Pending",
+		Title = "Pure Cleanup - Standby",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"A Daily quest. It can be repeated after its cooldown through <NAVI>[Rebellion]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI> in Cor."
+			"This quest is a daily quest, and you can accept and complete it again once the cooldown period has expired. You can accept the quest from Kor via <NAVI>[Rebellion]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reset at 04:00 a.m.",
-		CoolTimeQuest = 1
+		Summary = "Reset at 4 AM"
 	},
 	[16363] = {
-		Title = "Take Care of EL1_A17T",
+		Title = "EL1_A17T processing",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"I've successfully taken care of EL1_A17T."
-		},
-		Summary = ""
+			"Successfully dealt with EL1_A17T."
+		}
 	},
 	[16364] = {
-		Title = "Help the Farm",
+		Title = "Farmhand",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Because of this incident, the <NAVI>[Farm]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI> is in need of help. I should tend to the young vegetables in the patch."
+			"A request has come in from <NAVI>[Farm]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI>, where they're now short-handed because of this incident. Let's help out by taking care of the young vegetables in the field."
 		},
-		Summary = "Help the Farm"
+		Summary = "Helping with farm work"
 	},
 	[16365] = {
-		Title = "Help the Farm - Pending",
+		Title = "Farmhand - Waiting",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"A Daily quest. It can be repeated after its cooldown through <NAVI>[Farmhand]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI> in Cor."
+			"This quest is a daily quest and can be accepted and completed again once the cooldown period has expired.",
+			"You can accept the quest through Kor's <NAVI>[Farm Worker]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reset at 04:00 a.m.",
-		CoolTimeQuest = 1
+		Summary = "Reset at 4 AM"
 	},
 	[16366] = {
-		Title = "Help the Farm",
+		Title = "Farmhand",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Because of this incident, the <NAVI>[Farm]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI> is in need of help. I should tend to the young vegetables in the patch."
+			"A request has come in from <NAVI>[Farm]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI>, where they're short-handed due to recent events. Let's help out by taking care of the young vegetables in the field."
 		},
 		Summary = ""
 	},
 	[16367] = {
-		Title = "Unripe Grapes",
+		Title = "A still young Grape",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Small, unripe <NAVI>[grapes]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI> are hanging from the vines. Catch aphids."
+			"A small, green <NAVI>[Grape]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI> is still hanging from the stem. Let's get rid of the aphids."
 		},
 		Summary = ""
 	},
 	[16368] = {
-		Title = "Unripe Grapes",
+		Title = "Still a young Grape",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Small, unripe <NAVI>[grapes]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI> are hanging from the vines. Spread fertilizer."
+			"A small, green <NAVI>[Grape]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI> is still hanging from the stem. Let's fertilize it."
 		},
 		Summary = ""
 	},
 	[16369] = {
-		Title = "Unripe Grapes",
+		Title = "A still young Grape",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Small, unripe <NAVI>[grapes]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI> are hanging from the vines. Pull weeds."
+			"A small, green <NAVI>[Grape]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI> is still hanging from the stem. Let's pull out the weeds."
 		},
 		Summary = ""
 	},
 	[16370] = {
-		Title = "Fuzzy Green Beans",
+		Title = "Still fluffy Pod Bean",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"These fuzzy <NAVI>[green beans]<INFO>sp_cor,163,135,0,101,0</INFO></NAVI> aren't even as big as a pinky nail. Catch aphids."
+			"The fluffy <NAVI>[Pod Bean]<INFO>sp_cor,163,135,0,101,0</INFO></NAVI> is still smaller than a pinky nail. Let's help it by catching some aphids."
 		},
 		Summary = ""
 	},
 	[16371] = {
-		Title = "Fuzzy Green Beans",
+		Title = "Still fluffy Pod Bean",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"These fuzzy <NAVI>[green beans]<INFO>sp_cor,163,135,0,101,0</INFO></NAVI> aren't even as big as a pinky nail. Spread fertilizer."
+			"The fluffy <NAVI>[Pod Bean]<INFO>sp_cor,163,135,0,101,0</INFO></NAVI> is still smaller than a pinky nail. Let's give it some fertilizer."
 		},
 		Summary = ""
 	},
 	[16372] = {
-		Title = "Fuzzy Green Beans",
+		Title = "Still fluffy Pod Bean",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"These fuzzy <NAVI>[green beans]<INFO>sp_cor,163,135,0,101,0</INFO></NAVI> aren't even as big as a pinky nail. Pull weeds."
+			"The fluffy <NAVI>[Pod Bean]<INFO>sp_cor,163,135,0,101,0</INFO></NAVI> is still smaller than a pinky nail. Let's pull out the weeds for it."
 		},
 		Summary = ""
 	},
 	[16373] = {
-		Title = "Tiny Pumpkins",
+		Title = "Still a tiny Pumpkin",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Small green <NAVI>[pumpkins]<INFO>sp_cor,240,87,0,101,0</INFO></NAVI> are hanging on the vines. Catch aphids."
+			"A small, blue <NAVI>[Pumpkin]<INFO>sp_cor,240,87,0,101,0</INFO></NAVI> is hanging from the stem. Let's get rid of the aphids."
 		},
 		Summary = ""
 	},
 	[16374] = {
-		Title = "Tiny Pumpkins",
+		Title = "Still a tiny Pumpkin",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Small green <NAVI>[pumpkins]<INFO>sp_cor,240,87,0,101,0</INFO></NAVI> are hanging on the vines. Spread fertilizer."
+			"A small, blue <NAVI>[Pumpkin]<INFO>sp_cor,240,87,0,101,0</INFO></NAVI> is hanging from the stem. Let's fertilize it."
 		},
 		Summary = ""
 	},
 	[16375] = {
-		Title = "Tiny Pumpkins",
+		Title = "Still a tiny Pumpkin",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Small green <NAVI>[pumpkins]<INFO>sp_cor,240,87,0,101,0</INFO></NAVI> are hanging on the vines. Pull weeds."
+			"A small, blue <NAVI>[Pumpkin]<INFO>sp_cor,240,87,0,101,0</INFO></NAVI> is hanging from the stem. Let's pull out the weeds."
 		},
 		Summary = ""
 	},
 	[16376] = {
-		Title = "Subdue EL1_A17T",
+		Title = "EL1_A17T Suppression",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"I've successfully subdued EL1_A17T."
+			"You have defeated EL1_A17T."
 		},
 		Summary = ""
+	},
+	[16377] = {
+		Title = "EL1_A17T Suppression - Standby",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have dealt with a troublesome matter. Take a short rest."
+		},
+		Summary = "Resets after 10 minutes",
+		CoolTimeQuest = 1
 	},
 	[16378] = {
 		Title = "Invisible Quest",
@@ -44858,6 +45126,14 @@ QuestInfoList = {
 		},
 		Summary = "Talk to Ansuria"
 	},
+	[16546] = {
+		Title = "Farm Help",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You helped with all the farm work. Return to the <NAVI>[Farm Worker]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
 	[16547] = {
 		Title = "Juno Monster Society",
 		IconName = "ico_nq.bmp",
@@ -45354,257 +45630,329 @@ Talk to Kar=],
 		Summary = "Talk to Elena"
 	},
 	[17000] = {
-		Title = "Refusal to Talk",
+		Title = "Refuse conversation",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Rage]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI> refuses to talk to Vice President Kaya Tos any longer. Find out why."
+			"<NAVI>[Leizi]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI> has refused to speak with Kaya Tos Vice President any longer. Let's ask what happened."
 		},
-		Summary = "Talk to Rage"
+		Summary = "Talk to Leizi."
 	},
 	[17001] = {
-		Title = "I'll Go with You",
+		Title = "Companion Offer",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Rage and Vice President Kaya Tos don't believe each other. I should offer to go with <NAVI>[Kaya Tos]<INFO>pub_cat,109,71,0,101,0</INFO></NAVI>."
+			"Leizi and Kaya Tos Vice President do not trust each other's words. Try suggesting to <NAVI>[Kaya Tos]<INFO>pub_cat,109,71,0,101,0</INFO></NAVI> that you accompany them."
 		},
-		Summary = "Talk to Kaya Tos"
+		Summary = "Talk to Kaya Tos."
 	},
 	[17002] = {
-		Title = "Time to Think",
+		Title = "Time of Contemplation",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Kaya Tos needs time to think. I should go back to <NAVI>[Rage]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI> and talk to him about him."
+			"It seems that Kaya Tos needs some time to think. Let's go back to <NAVI>[Leizi]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI> and discuss this matter."
 		},
-		Summary = "Talk to Rage"
+		Summary = "Talk to Leizi.",
+		RewardEXP = 300000,
+		RewardJEXP = 300000
 	},
 	[17003] = {
-		Title = "Going with Him",
+		Title = "Companionship established",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Adventurer, hurry. We've got a long way to go. Let's go to the Einbroch <NAVI>[Airport]<INFO>einbroch,42,208,0,101,0</INFO></NAVI>."
+			"Adventurer! We have a long way to go, so we need to hurry. Let's head quickly to Einbroch <NAVI>[Airport]<INFO>einbroch,42,208,0,101,0</INFO></NAVI>."
 		},
 		Summary = "To the Einbroch Airport"
 	},
 	[17004] = {
-		Title = "Beginning of His Career Map",
+		Title = "Job Road, Journey Begins",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"From now on, we'll follow Patsy from the beginning of his career to the current point of time. I'll see you in <NAVI>[Lighthalzen]<INFO>lighthalzen,259,215,0,101,0</INFO></NAVI>."
+			"We will now begin our journey tracing the career path of Pac from their first job to the present. I’ll see you at <NAVI>[Lighthalzen]<INFO>lighthalzen,259,215,0,101,0</INFO></NAVI>."
 		},
 		Summary = "To Lighthalzen"
 	},
 	[17005] = {
-		Title = "Lighthalzen Slum",
+		Title = "The slums of Lighthalzen",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Our journey begins at the Slum, where <NAVI>[Patsy's House]<INFO>lighthalzen,336,266,0,101,0</INFO></NAVI> is."
+			"This journey begins in the slums where <NAVI>[Pac's House]<INFO>lighthalzen,336,266,0,101,0</INFO></NAVI> is located."
 		},
-		Summary = "To Patsy's House"
+		Summary = "To Pac's house",
+		RewardEXP = 300000,
+		RewardJEXP = 300000
 	},
 	[17006] = {
-		Title = "Investigate in Ernest",
+		Title = "The investigation begins in earnest.",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"How did you like your tour around the Slum? Now, we'll move on to the Rekenber <NAVI>[Headquarters]<INFO>lighthalzen,107,165,0,101,0</INFO></NAVI>. Let's go!"
+			"How was the slum tour? Next, I will escort you to the Rekenber <NAVI>[Headquarters]<INFO>lighthalzen,107,165,0,101,0</INFO></NAVI>. Let's go~"
 		},
 		Summary = "To Rekenber"
 	},
 	[17007] = {
-		Title = "Investigate Rekenber",
+		Title = "Rekenber Investigation",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Where do newcomers go when they come here for the first time? Let's go to the <NAVI>[Lobby]<INFO>lhz_in01,107,137,0,101,0</INFO></NAVI>."
+			"Where do new employees head to first? Let's go to the <NAVI>[Lobby]<INFO>lhz_in01,107,137,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Enter the Headquarters"
+		Summary = "Inside the main office"
 	},
 	[17008] = {
-		Title = "Investigate Rekenber",
+		Title = "Rekenber Investigation",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Everyone, let's move to the <NAVI>[Meeting Room]<INFO>lhz_in01,162,257,0,101,0</INFO></NAVI> on the second floor, where Patsy begun his life at Rekenber."
+			"Let's all move to the 2nd floor <NAVI>[Meeting Room]<INFO>lhz_in01,162,257,0,101,0</INFO></NAVI>, where Pac has started their life at Rekenber."
 		},
-		Summary = "To Floor 2"
+		Summary = "To the 2nd floor"
 	},
 	[17009] = {
-		Title = "Investigate Rekenber",
+		Title = "Rekenber Investigation",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Why did the Lab only take physically healthy people? I'm curious. There must be a reason! Come on, let's go to the <NAVI>[Annex Lab]<INFO>rgsr_in,157,84,0,101,0</INFO></NAVI>."
+			"Why did they only take physically healthy people to the laboratory? I'm so curious, really curious! Let's hurry and go to <NAVI>[Annex Laboratory]<INFO>rgsr_in,157,84,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Annex Lab"
+		Summary = "Annex Laboratory"
 	},
 	[17010] = {
-		Title = "Investigate Rekenber",
+		Title = "Rekenber Investigation",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Patrick Kaufman? Who's that? I'm sorry, but I really don't know. Maybe <NAVI>[someone else]<INFO>rgsr_in,12,46,0,101,0</INFO></NAVI> in the back over there knows."
+			"Patrick Kaufman? Who is that? I'm sorry, I don't really know. Maybe <NAVI>[someone]<INFO>rgsr_in,12,46,0,101,0</INFO></NAVI> over there might know better."
 		},
-		Summary = "To the back"
+		Summary = "Inside"
 	},
 	[17011] = {
-		Title = "Investigate Rekenber",
+		Title = "Rekenber Investigation",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Hm... Patsy was transferred to the Lab... Someone in his department has to know the details. Let's go to the <NAVI>[Office]<INFO>lhz_in01,80,210,0,101,0</INFO></NAVI> for now."
+			"Hmm... The laboratory that Pac was transferred to... Someone in that department should know, so let's head to the <NAVI>[Office]<INFO>lhz_in01,80,210,0,101,0</INFO></NAVI> for now."
 		},
-		Summary = "Back to the Headquarters building"
+		Summary = "Back to the main office building."
 	},
 	[17012] = {
-		Title = "Investigate Rekenber",
+		Title = "Rekenber Investigation",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"If you want to do this discreetly, then you shouldn't go through the Human Resources Department. Instead, you should go to the <NAVI>[Document Archive]<INFO>lhz_in01,32,264,0,101,0</INFO></NAVI> and look for the corresponding documents yourself."
+			"If you want to handle this matter discreetly, it would be better to go directly to <NAVI>[Document Storage]<INFO>lhz_in01,32,264,0,101,0</INFO></NAVI> and look for the document yourself, rather than going through the HR department."
 		},
-		Summary = "To the Document Archive"
+		Summary = "To the Document Archive."
 	},
 	[17013] = {
-		Title = "New Lab Location",
+		Title = "Location of the newly established laboratory",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Patrick was sent to the <NAVI>[new lab]<INFO>ein_fild01,95,146,0,101,0</INFO></NAVI> in... 95-146 Sector 1 in the Einbroch Mountains."
+			"The location of the <NAVI>[New Research Laboratory]<INFO>ein_fild01,95,146,0,101,0</INFO></NAVI> that Mr. Patrick mentioned... It's at 95-146, District 01, Einbroch Mountains."
 		},
-		Summary = "To the outskirts of Einbroch"
+		Summary = "To the outskirts of Einbroch",
+		RewardEXP = 600000,
+		RewardJEXP = 600000,
+		RewardItemList = {
+			{ItemID = 25723, ItemNum = 20}
+		}
 	},
 	[17014] = {
-		Title = "There Was No Lab",
+		Title = "There was no laboratory.",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Adventurer, what else can you think of that we can do here? I just can't come up with anything. I'm hungry, and my legs are killing me. Let's just go back to the <NAVI>[Cat]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>, shall we?"
+			"What more can an adventurer do here? Not me, though. I'm a bit hungry, and my legs hurt a little.",
+			"Let's hurry and go to <NAVI>[Yaongine]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Return to the Cat on a Bullet"
+		Summary = "Returning as a Bullet Cat"
 	},
 	[17015] = {
-		Title = "Vice President's Persuasion",
+		Title = "This is the eloquence of Vice President.",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"They worked at the Lab. Let <NAVI>[me]<INFO>sp_cor,165,79,0,101,0</INFO></NAVI> talk to these people."
+			"You must be the people who worked at the research lab.",
+			"I will try talking to <NAVI>[myself]<INFO>sp_cor,165,79,0,101,0</INFO></NAVI> about this."
 		},
-		Summary = "Kaya Tos's persuasion"
+		Summary = "Persuasion by Kaya Tos"
 	},
 	[17016] = {
-		Title = "I Can't Talk to Them",
+		Title = "We can't communicate...",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"They wouldn't listen to me, no matter what. We'll never reach an agreement. Come talk with <NAVI>[me]<INFO>sp_cor,166,81,0,101,0</INFO></NAVI>. We need a plan."
+			"No matter how I try to talk, they just won't listen. At this rate, we'll never reach a conclusion. <NAVI>[With me]<INFO>sp_cor,166,81,0,101,0</INFO></NAVI>, let's take a moment to come up with a plan together."
 		},
-		Summary = "Discuss with Tes"
+		Summary = "Discuss countermeasures with Tess."
 	},
 	[17017] = {
-		Title = "Prepare for Attack",
+		Title = "Prepare for the attack.",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Let's move the wounded to a <NAVI>[safe place]<INFO>sp_cor,122,141,0,101,0</INFO></NAVI>. Hurry!"
+			"Escort Injured Soldier to <NAVI>[Safe Location]<INFO>sp_cor,122,141,0,101,0</INFO></NAVI>! Hurry!"
 		},
-		Summary = "Move to a safe place"
+		Summary = "Move to a safe place."
 	},
 	[17018] = {
-		Title = "Patients' Conditions",
+		Title = "The condition of the patients",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Aas]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> said she had something urgent to report to Kaya Tos."
+			"<NAVI>[Ahs]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> says there is something urgent to report to Kaya Tos."
 		},
-		Summary = "To Aas"
+		Summary = "To Mr./Ms. Ahs",
+		RewardEXP = 300000,
+		RewardJEXP = 300000
 	},
 	[17019] = {
 		Title = "Urgent Situation",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"We need help searching for the researcher who ran away. Please join the search party on the <NAVI>[left side]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>."
+			"We need more personnel to search for the escaped Researcher! Please join the other Search Party members at <NAVI>[left]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>!"
 		},
 		Summary = "Join the search"
 	},
 	[17020] = {
-		Title = "Relaunch Investigation",
+		Title = "Resume investigation",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Please keep investigating Patrick Kaufman's whereabouts. The <NAVI>[people who used to work]<INFO>sp_cor,133,144,0,101,0</INFO></NAVI> here might be able to tell you something."
+			"Please continue investigating Patrick Kaufman. Perhaps the <NAVI>[people who used to work here]<INFO>sp_cor,133,144,0,101,0</INFO></NAVI> might be able to provide some clues."
 		},
-		Summary = "To workers"
+		Summary = "To the Workers"
 	},
 	[17021] = {
-		Title = "Searching for Patsy",
+		Title = "Find Pac.",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"If you're looking for someone, you should talk to the researchers. Most of them ran away, but a few of their <NAVI>[assistants]<INFO>sp_cor,224,77,0,101,0</INFO></NAVI> are still here. Go to them."
+			"Anyway, if you're looking for someone, you should ask the Researchers. Most of them have run away, so there probably aren't many left...",
+			"<NAVI>[Support]<INFO>sp_cor,224,77,0,101,0</INFO></NAVI> still has a few left, so go check it out."
 		},
-		Summary = "To researchers"
+		Summary = "To Researcher"
 	},
 	[17022] = {
-		Title = "Searching for Kaufman",
+		Title = "Find Pac.",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"If you're looking for someone, talk to the laundry <NAVI>[person]<INFO>sp_cor,151,180,0,101,0</INFO></NAVI>. He's been here for a long time and knows a lot of people."
+			"If you're looking for someone, try going to <NAVI>[person]<INFO>sp_cor,151,180,0,101,0</INFO></NAVI>, who used to handle the laundry. They've been around for a long time and know a lot of people."
 		},
-		Summary = "To the laundry manager"
+		Summary = "To the laundry manager",
+		RewardEXP = 300000,
+		RewardJEXP = 300000
 	},
 	[17023] = {
-		Title = "Searching for Kaufman",
+		Title = "Find Pac.",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"If you're looking for something, you should check the <NAVI>[Incineration Plant]<INFO>sp_cor,70,263,0,101,0</INFO></NAVI>. Any documents that were scattered are usually gathered up and sorted there."
+			"If you're looking for something, try going to <NAVI>[Incinerator]<INFO>sp_cor,70,263,0,101,0</INFO></NAVI>. They're currently gathering and sorting scattered materials there, so you might be able to find something useful."
 		},
-		Summary = "To the Incineration Plant"
+		Summary = "To the incinerator."
 	},
 	[17024] = {
-		Title = "Searching for Kaufman",
+		Title = "Find Pac.",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"There's a separate <NAVI>[dump]<INFO>sp_rudus,227,351,0,101,0</INFO></NAVI> for things that are too contaminated to be burned or can't be burned. The people here have another name for it, though."
+			"They said there’s a separate <NAVI>[Disposal Site]<INFO>sp_rudus,227,351,0,101,0</INFO></NAVI> for things that are heavily contaminated or can’t be burned. They have their own name for it…"
 		},
-		Summary = "To Rudus"
+		Summary = "To Ludeus."
 	},
 	[17025] = {
-		Title = "Searching for Kaufman",
+		Title = "Find Pac.",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Voices can be heard from <NAVI>[somewhere]<INFO>sp_rudus,15,280,0,101,0</INFO></NAVI>. Follow them."
+			"<NAVI>[Somewhere]<INFO>sp_rudus,15,280,0,101,0</INFO></NAVI> You hear a voice. Let's go find it."
 		},
-		Summary = "Follow the voices"
+		Summary = "Follow the sound",
+		RewardEXP = 300000,
+		RewardJEXP = 300000
 	},
 	[17026] = {
-		Title = "Searching for Kaufman",
+		Title = "Find Pac.",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Maybe you should check garbage for his identification bracelet. It might be dropped on the ground somewhere, too."
+			"You might as well look for the Identification Bracelet in the pile of trash. It should be lying somewhere on the ground."
 		},
-		Summary = "Test Subject Identification Bracelet"
+		Summary = "Identification Bracelet for Test Subjects"
 	},
 	[17027] = {
-		Title = "Searching for Kaufman",
+		Title = "Find Pac.",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"I rummaged through the garbage and found a few identification bracelets, but none of them was Kaufrman's. I should look elsewhere."
+			"Carefully searching through the pile of trash, you found a few Identification Bracelets, but none of them belonged to Mr. Kaufmann. Let's look somewhere else."
 		},
-		Summary = "Look elsewhere"
+		Summary = "Let's look somewhere else."
 	},
 	[17028] = {
-		Title = "Searching for Kaufman",
+		Title = "Find Pac.",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"I rummaged through the garbage and found a few identification bracelets, but none of them are helpful. I should look elsewhere."
+			"I rummaged through the pile of trash and found several identification bracelets belonging to other people. Let's look somewhere else."
 		},
-		Summary = "Search Garbage Mounds"
+		Summary = "Rummaging through the pile of trash"
 	},
 	[17029] = {
-		Title = "Searching for Kaufman",
+		Title = "Find Pac.",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"I rummaged through all the garbage mounds, but there was nothing but garbage. I should look elsewhere."
+			"I searched thoroughly, but it was all just trash. Let's look somewhere else."
 		},
-		Summary = "Look elsewhere"
+		Summary = "Take a look somewhere else."
 	},
 	[17030] = {
-		Title = "Searching for Kaufman",
+		Title = "Find Pac.",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"I searched and searched, but there was nothing that looked useful to me. I should look elsewhere."
+			"You search and search again, but it seems there's nothing useful to be found. Let's look somewhere else."
 		},
-		Summary = "Check another Garbage Mound"
+		Summary = "Another pile of trash"
 	},
 	[17031] = {
-		Title = "Searching for Kaufman",
+		Title = "Find Pac.",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"There's nothing here. Can I really find clues to Kaufman's whereabouts? I should look elsewhere."
+			"There was nothing here. I wonder if I can even find any clues about Mr. Kaufmann... Let's check somewhere else."
 		},
-		Summary = "Check another Garbage Mound"
+		Summary = "To another Pile of Trash."
 	},
 	[17032] = {
-		Title = "Searching for Kaufman",
+		Title = "Find Pac.",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"I dug up a bracelet from the mound of garbage. I should take it to <NAVI>[Kaya]<INFO>sp_cor,136,146,0,101,0</INFO></NAVI>."
+			"I dug up a bracelet that was buried in the pile of trash. Let's take this and return to <NAVI>[Kaya]<INFO>sp_cor,136,146,0,101,0</INFO></NAVI>."
 		},
-		Summary = "To Kaya Tos"
+		Summary = "To Kaya Tos",
+		RewardEXP = 600000,
+		RewardJEXP = 600000,
+		RewardItemList = {
+			{ItemID = 25723, ItemNum = 20}
+		}
 	},
 	[17033] = {
-		Title = "Everything Hereafter",
+		Title = "All future matters will be handled",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"From now on, Miss. <NAVI>[Aas]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> here will take care of you. You can also give her that bracelet you've collected."
+			"Please handle all further matters through <NAVI>[Ahs]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> here. You should also give the collected bracelets to Ahs."
 		},
-		Summary = "To Aas"
+		Summary = "To Ahs"
 	},
 	[17034] = {
-		Title = "To Rudus",
+		Title = "To Ludeus.",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"Now, please put 20 of those test subjects called Dolors to rest and collect 10 Test Subject Identification Bracelets. - <NAVI>[Aas]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"
+			"Then, please grant peace to the 20 test subjects known as Dolor, and bring me 10 identification bracelets for test subjects. - <NAVI>[Ahs]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Test Subject Identification Bracelet 10"
+		Summary = "Experimental Subject Identification Bracelet 10",
+		RewardEXP = 300000,
+		RewardJEXP = 300000,
+		RewardItemList = {
+			{ItemID = 25723, ItemNum = 1},
+			{ItemID = 25669, ItemNum = 5}
+		}
 	},
 	[17035] = {
-		Title = "Pending: To Rudus",
+		Title = "Waiting: Ludeus",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"I'll see you again after dawn. You did a great job. - <NAVI>[Aas]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"
+			"I will see you again after dawn. You really worked hard. - <NAVI>[Ahs]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Quest resets at 4:00 a.m.",
-		CoolTimeQuest = 1
+		Summary = "Reset time: 4:00 AM"
+	},
+	[17037] = {
+		Title = "Waiting: Attribute Change",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You can change the attribute granted to the Guardian of Time Robe for free once per day. <NAVI>[Attribute Enchanter]<INFO>prontera,154,279,0,101,0,</INFO></NAVI>"
+		},
+		Summary = "Reset at 4 AM"
 	},
 	[17137] = {
 		Title = "Make snow flower bouquet",

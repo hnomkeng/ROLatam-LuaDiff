@@ -1,37 +1,37 @@
 mapNPCInfoTable = {
 	prontera = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 146,
 			Y = 89,
 			TYPE = 6
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 149,
 			Y = 191,
 			TYPE = 6
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 151,
 			Y = 29,
 			TYPE = 6
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 282,
 			Y = 200,
 			TYPE = 6
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 29,
 			Y = 207,
 			TYPE = 6
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 152,
 			Y = 326,
 			TYPE = 6
@@ -73,7 +73,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "MuniÃ§Ãµes",
+			name = "Munições",
 			X = 175,
 			Y = 220,
 			TYPE = 1
@@ -117,7 +117,7 @@ mapNPCInfoTable = {
 	},
 	prt_fild05 = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 290,
 			Y = 224,
 			TYPE = 6
@@ -131,13 +131,13 @@ mapNPCInfoTable = {
 	},
 	tra_fild = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 94,
 			Y = 171,
 			TYPE = 6
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 114,
 			Y = 80,
 			TYPE = 6
@@ -153,7 +153,7 @@ mapNPCInfoTable = {
 	},
 	izlude = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 128,
 			Y = 148,
 			TYPE = 6
@@ -209,13 +209,13 @@ mapNPCInfoTable = {
 	},
 	geffen = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 120,
 			Y = 62,
 			TYPE = 6
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 203,
 			Y = 123,
 			TYPE = 6
@@ -251,7 +251,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "MuniÃ§Ãµes",
+			name = "Munições",
 			X = 99,
 			Y = 140,
 			TYPE = 1
@@ -271,7 +271,7 @@ mapNPCInfoTable = {
 	},
 	aldebaran = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 143,
 			Y = 119,
 			TYPE = 6
@@ -307,7 +307,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "MuniÃ§Ãµes",
+			name = "Munições",
 			X = 72,
 			Y = 197,
 			TYPE = 1
@@ -315,13 +315,13 @@ mapNPCInfoTable = {
 	},
 	payon = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 181,
 			Y = 104,
 			TYPE = 6
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 175,
 			Y = 226,
 			TYPE = 6
@@ -357,7 +357,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "MuniÃ§Ãµes",
+			name = "Munições",
 			X = 139,
 			Y = 159,
 			TYPE = 1
@@ -377,7 +377,7 @@ mapNPCInfoTable = {
 	},
 	pay_arche = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 55,
 			Y = 123,
 			TYPE = 6
@@ -397,13 +397,13 @@ mapNPCInfoTable = {
 	},
 	morocc = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 160,
 			Y = 258,
 			TYPE = 6
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 156,
 			Y = 97,
 			TYPE = 6
@@ -433,7 +433,7 @@ mapNPCInfoTable = {
 			TYPE = 4
 		},
 		{
-			name = "MuniÃ§Ãµes",
+			name = "Munições",
 			X = 253,
 			Y = 56,
 			TYPE = 1
@@ -471,7 +471,7 @@ mapNPCInfoTable = {
 	},
 	moc_ruins = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 59,
 			Y = 157,
 			TYPE = 6
@@ -515,13 +515,13 @@ mapNPCInfoTable = {
 	},
 	alberta = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 28,
 			Y = 229,
 			TYPE = 6
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 113,
 			Y = 60,
 			TYPE = 6
@@ -551,7 +551,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "MuniÃ§Ãµes",
+			name = "Munições",
 			X = 117,
 			Y = 37,
 			TYPE = 1
@@ -583,19 +583,19 @@ mapNPCInfoTable = {
 	},
 	yuno = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 327,
 			Y = 108,
 			TYPE = 6
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 277,
 			Y = 221,
 			TYPE = 6
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 152,
 			Y = 187,
 			TYPE = 6
@@ -631,7 +631,7 @@ mapNPCInfoTable = {
 			TYPE = 3
 		},
 		{
-			name = "MuniÃ§Ãµes",
+			name = "Munições",
 			X = 205,
 			Y = 103,
 			TYPE = 1
@@ -651,7 +651,7 @@ mapNPCInfoTable = {
 	},
 	comodo = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 195,
 			Y = 150,
 			TYPE = 6
@@ -687,7 +687,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "MuniÃ§Ãµes",
+			name = "Munições",
 			X = 266,
 			Y = 74,
 			TYPE = 1
@@ -695,13 +695,13 @@ mapNPCInfoTable = {
 	},
 	einbroch = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 59,
 			Y = 203,
 			TYPE = 6
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 242,
 			Y = 205,
 			TYPE = 6
@@ -731,7 +731,7 @@ mapNPCInfoTable = {
 			TYPE = 4
 		},
 		{
-			name = "MuniÃ§Ãµes",
+			name = "Munições",
 			X = 215,
 			Y = 212,
 			TYPE = 1
@@ -751,7 +751,7 @@ mapNPCInfoTable = {
 	},
 	einbech = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 181,
 			Y = 132,
 			TYPE = 6
@@ -777,19 +777,19 @@ mapNPCInfoTable = {
 	},
 	lighthalzen = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 191,
 			Y = 320,
 			TYPE = 6
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 164,
 			Y = 100,
 			TYPE = 6
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 94,
 			Y = 248,
 			TYPE = 6
@@ -843,7 +843,7 @@ mapNPCInfoTable = {
 			TYPE = 5
 		},
 		{
-			name = "MuniÃ§Ãµes",
+			name = "Munições",
 			X = 196,
 			Y = 46,
 			TYPE = 1
@@ -851,7 +851,7 @@ mapNPCInfoTable = {
 	},
 	hugel = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 88,
 			Y = 168,
 			TYPE = 6
@@ -875,7 +875,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "MuniÃ§Ãµes",
+			name = "Munições",
 			X = 70,
 			Y = 158,
 			TYPE = 1
@@ -889,7 +889,7 @@ mapNPCInfoTable = {
 	},
 	rachel = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 109,
 			Y = 138,
 			TYPE = 6
@@ -907,7 +907,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "MuniÃ§Ãµes",
+			name = "Munições",
 			X = 42,
 			Y = 87,
 			TYPE = 1
@@ -927,7 +927,7 @@ mapNPCInfoTable = {
 	},
 	veins = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 208,
 			Y = 128,
 			TYPE = 6
@@ -951,7 +951,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "MuniÃ§Ãµes",
+			name = "Munições",
 			X = 149,
 			Y = 180,
 			TYPE = 1
@@ -965,7 +965,7 @@ mapNPCInfoTable = {
 	},
 	brasilis = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 197,
 			Y = 221,
 			TYPE = 6
@@ -983,7 +983,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "MuniÃ§Ãµes",
+			name = "Munições",
 			X = 244,
 			Y = 243,
 			TYPE = 1
@@ -997,7 +997,7 @@ mapNPCInfoTable = {
 	},
 	dewata = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 202,
 			Y = 184,
 			TYPE = 6
@@ -1021,7 +1021,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "MuniÃ§Ãµes",
+			name = "Munições",
 			X = 218,
 			Y = 164,
 			TYPE = 1
@@ -1035,13 +1035,13 @@ mapNPCInfoTable = {
 	},
 	malaya = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 71,
 			Y = 79,
 			TYPE = 6
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 234,
 			Y = 204,
 			TYPE = 6
@@ -1071,7 +1071,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "MuniÃ§Ãµes",
+			name = "Munições",
 			X = 114,
 			Y = 212,
 			TYPE = 1
@@ -1085,7 +1085,7 @@ mapNPCInfoTable = {
 	},
 	louyang = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 210,
 			Y = 104,
 			TYPE = 6
@@ -1103,7 +1103,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "MuniÃ§Ãµes",
+			name = "Munições",
 			X = 145,
 			Y = 172,
 			TYPE = 1
@@ -1111,7 +1111,7 @@ mapNPCInfoTable = {
 	},
 	ayothaya = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 212,
 			Y = 169,
 			TYPE = 6
@@ -1135,7 +1135,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "MuniÃ§Ãµes",
+			name = "Munições",
 			X = 165,
 			Y = 90,
 			TYPE = 1
@@ -1143,7 +1143,7 @@ mapNPCInfoTable = {
 	},
 	moscovia = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 223,
 			Y = 191,
 			TYPE = 6
@@ -1167,7 +1167,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "MuniÃ§Ãµes",
+			name = "Munições",
 			X = 185,
 			Y = 189,
 			TYPE = 1
@@ -1187,7 +1187,7 @@ mapNPCInfoTable = {
 	},
 	amatsu = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 102,
 			Y = 149,
 			TYPE = 6
@@ -1205,7 +1205,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "MuniÃ§Ãµes",
+			name = "Munições",
 			X = 129,
 			Y = 117,
 			TYPE = 1
@@ -1213,7 +1213,7 @@ mapNPCInfoTable = {
 	},
 	gonryun = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 159,
 			Y = 122,
 			TYPE = 6
@@ -1231,7 +1231,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "MuniÃ§Ãµes",
+			name = "Munições",
 			X = 174,
 			Y = 101,
 			TYPE = 1
@@ -1245,7 +1245,7 @@ mapNPCInfoTable = {
 	},
 	umbala = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 87,
 			Y = 160,
 			TYPE = 6
@@ -1269,7 +1269,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "MuniÃ§Ãµes",
+			name = "Munições",
 			X = 126,
 			Y = 154,
 			TYPE = 1
@@ -1277,7 +1277,7 @@ mapNPCInfoTable = {
 	},
 	niflheim = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 202,
 			Y = 180,
 			TYPE = 6
@@ -1303,7 +1303,7 @@ mapNPCInfoTable = {
 	},
 	izlu2dun = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 106,
 			Y = 58,
 			TYPE = 6
@@ -1311,7 +1311,7 @@ mapNPCInfoTable = {
 	},
 	alb2trea = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 59,
 			Y = 69,
 			TYPE = 6
@@ -1325,7 +1325,7 @@ mapNPCInfoTable = {
 	},
 	mjolnir_02 = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 82,
 			Y = 362,
 			TYPE = 6
@@ -1333,7 +1333,7 @@ mapNPCInfoTable = {
 	},
 	gef_fild10 = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 73,
 			Y = 340,
 			TYPE = 6
@@ -1341,7 +1341,7 @@ mapNPCInfoTable = {
 	},
 	dicastes01 = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 136,
 			Y = 106,
 			TYPE = 6
@@ -1355,7 +1355,7 @@ mapNPCInfoTable = {
 	},
 	malangdo = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 184,
 			Y = 138,
 			TYPE = 6
@@ -1387,7 +1387,7 @@ mapNPCInfoTable = {
 	},
 	xmas = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 149,
 			Y = 136,
 			TYPE = 6
@@ -1405,7 +1405,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "MuniÃ§Ãµes",
+			name = "Munições",
 			X = 171,
 			Y = 158,
 			TYPE = 1
@@ -1413,7 +1413,7 @@ mapNPCInfoTable = {
 	},
 	mora = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 48,
 			Y = 127,
 			TYPE = 6
@@ -1439,7 +1439,7 @@ mapNPCInfoTable = {
 	},
 	izlude_a = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 128,
 			Y = 148,
 			TYPE = 6
@@ -1477,7 +1477,7 @@ mapNPCInfoTable = {
 	},
 	izlude_b = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 128,
 			Y = 148,
 			TYPE = 6
@@ -1515,7 +1515,7 @@ mapNPCInfoTable = {
 	},
 	izlude_c = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 128,
 			Y = 148,
 			TYPE = 6
@@ -1553,7 +1553,7 @@ mapNPCInfoTable = {
 	},
 	izlude_d = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 128,
 			Y = 148,
 			TYPE = 6
@@ -1591,7 +1591,7 @@ mapNPCInfoTable = {
 	},
 	lasagna = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 208,
 			Y = 188,
 			TYPE = 6
@@ -1629,7 +1629,7 @@ mapNPCInfoTable = {
 			TYPE = 2
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 136,
 			Y = 134,
 			TYPE = 6
@@ -1649,7 +1649,7 @@ mapNPCInfoTable = {
 			TYPE = 0
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 121,
 			Y = 243,
 			TYPE = 6
@@ -1663,7 +1663,7 @@ mapNPCInfoTable = {
 	},
 	harboro1 = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 291,
 			Y = 207,
 			TYPE = 6
@@ -1695,31 +1695,31 @@ mapNPCInfoTable = {
 	},
 	prt_mk = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 162,
 			Y = 153,
 			TYPE = 6
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 172,
 			Y = 24,
 			TYPE = 6
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 295,
 			Y = 171,
 			TYPE = 6
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 28,
 			Y = 154,
 			TYPE = 6
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 152,
 			Y = 299,
 			TYPE = 6
@@ -1781,31 +1781,31 @@ mapNPCInfoTable = {
 	},
 	prt_mk_a = {
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 162,
 			Y = 153,
 			TYPE = 6
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 172,
 			Y = 24,
 			TYPE = 6
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 295,
 			Y = 171,
 			TYPE = 6
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 28,
 			Y = 154,
 			TYPE = 6
 		},
 		{
-			name = "ArmazÃ©m",
+			name = "Armazém",
 			X = 152,
 			Y = 299,
 			TYPE = 6

@@ -59,7 +59,7 @@ tblLapineUpgradeBox = {
 				},
 				{"Boots_IL", 22190}
 			},
-			NeedSource_String = "Ilusi贸n del Osito"
+			NeedSource_String = "Ilusi髇 del Osito"
 		},
 		S_Teddy_Bear_Box_IL = {
 			ItemID = 100420,
@@ -86,7 +86,7 @@ tblLapineUpgradeBox = {
 				},
 				{"Boots_IL", 22190}
 			},
-			NeedSource_String = "Ilusi贸n del Osito"
+			NeedSource_String = "Ilusi髇 del Osito"
 		},
 		Frozen_Box_IL = {
 			ItemID = 9785,
@@ -113,7 +113,7 @@ tblLapineUpgradeBox = {
 					28922
 				}
 			},
-			NeedSource_String = "Ilusi贸n de Congelado"
+			NeedSource_String = "Ilusi髇 de Congelado"
 		},
 		S_Frozen_Box_IL = {
 			ItemID = 100416,
@@ -140,7 +140,7 @@ tblLapineUpgradeBox = {
 					28922
 				}
 			},
-			NeedSource_String = "Ilusi贸n de Congelado"
+			NeedSource_String = "Ilusi髇 de Congelado"
 		},
 		Moonlight_Box_IL = {
 			ItemID = 100391,
@@ -180,7 +180,7 @@ tblLapineUpgradeBox = {
 					19210
 				}
 			},
-			NeedSource_String = "Ilusi贸n de Luz de Luna"
+			NeedSource_String = "Ilusi髇 de Luz de Luna"
 		},
 		S_Moonlight_Box_IL = {
 			ItemID = 100392,
@@ -220,7 +220,7 @@ tblLapineUpgradeBox = {
 					19210
 				}
 			},
-			NeedSource_String = "Ilusi贸n de Luz de Luna"
+			NeedSource_String = "Ilusi髇 de Luz de Luna"
 		},
 		Vampire_Box_IL = {
 			ItemID = 100414,
@@ -254,7 +254,7 @@ tblLapineUpgradeBox = {
 					20840
 				}
 			},
-			NeedSource_String = "Ilusi贸n de Vampiro"
+			NeedSource_String = "Ilusi髇 de Vampiro"
 		},
 		S_Vampire_Box_IL = {
 			ItemID = 100415,
@@ -288,7 +288,7 @@ tblLapineUpgradeBox = {
 					20840
 				}
 			},
-			NeedSource_String = "Ilusi贸n de Vampiro"
+			NeedSource_String = "Ilusi髇 de Vampiro"
 		},
 		Time_Unseal_Key = {
 			ItemID = 9551,
@@ -8725,7 +8725,7 @@ tblLapineUpgradeBox = {
 					18984
 				}
 			},
-			NeedSource_String = "Chap茅u Memor谩vel"
+			NeedSource_String = "Chap閡 Memor醰el"
 		},
 		Loki_Advice = {
 			ItemID = 102277,
@@ -13424,7 +13424,7 @@ tblLapineUpgradeBox = {
 					420269
 				}
 			},
-			NeedSource_String = "Selo de Bast玫es"
+			NeedSource_String = "Selo de Bast鮡s"
 		},
 		UPG_TH_7_Ticket = {
 			ItemID = 104133,
@@ -13590,7 +13590,7 @@ tblLapineUpgradeBox = {
 			TargetItems = {
 				{"Upg_Whip", 580083}
 			},
-			NeedSource_String = "L谩tigo Mejorado"
+			NeedSource_String = "L醫igo Mejorado"
 		},
 		UPG_VN_7_Ticket = {
 			ItemID = 104709,
@@ -13601,7 +13601,7 @@ tblLapineUpgradeBox = {
 			TargetItems = {
 				{"Upg_Violin", 570083}
 			},
-			NeedSource_String = "Viol铆n Mejorado"
+			NeedSource_String = "Viol韓 Mejorado"
 		},
 		Growth_W_Up_1_G = {
 			ItemID = 104087,
@@ -14213,7 +14213,7 @@ tblLapineUpgradeBox = {
 					22192
 				}
 			},
-			NeedSource_String = "Equipo de la Ilusi贸n de Luanda"
+			NeedSource_String = "Equipo de la Ilusi髇 de Luanda"
 		},
 		S_Luanda_Box_IL = {
 			ItemID = 100422,
@@ -14244,7 +14244,7 @@ tblLapineUpgradeBox = {
 					22192
 				}
 			},
-			NeedSource_String = "Equipo de la Ilusi贸n de Luanda"
+			NeedSource_String = "Equipo de la Ilusi髇 de Luanda"
 		},
 		Old_9Refine_Cube = {
 			ItemID = 105926,
@@ -14307,7 +14307,7 @@ tblLapineUpgradeBox = {
 					18984
 				}
 			},
-			NeedSource_String = "Chap茅u Memor谩vel"
+			NeedSource_String = "Chap閡 Memor醰el"
 		},
 		Labyrinth_Box_IL = {
 			ItemID = 100423,
@@ -14338,7 +14338,7 @@ tblLapineUpgradeBox = {
 					20948
 				}
 			},
-			NeedSource_String = "Equipo de Ilusi贸n del Laberinto"
+			NeedSource_String = "Equipo de Ilusi髇 del Laberinto"
 		},
 		S_Teddy_Labyrinth_IL = {
 			ItemID = 100424,
@@ -14369,7 +14369,7 @@ tblLapineUpgradeBox = {
 					20948
 				}
 			},
-			NeedSource_String = "Equipo de Ilusi贸n del Laberinto"
+			NeedSource_String = "Equipo de Ilusi髇 del Laberinto"
 		},
 		Twins_Box_IL = {
 			ItemID = 100699,
@@ -14420,7 +14420,7 @@ tblLapineUpgradeBox = {
 					450182
 				}
 			},
-			NeedSource_String = "Equipo de la Ilusi贸n de los Gemelos"
+			NeedSource_String = "Equipo de la Ilusi髇 de los Gemelos"
 		},
 		S_Twins_Box_IL = {
 			ItemID = 100700,
@@ -14467,7 +14467,385 @@ tblLapineUpgradeBox = {
 					450182
 				}
 			},
-			NeedSource_String = "Equipo de la Ilusi贸n de los Gemelos"
+			NeedSource_String = "Equipo de la Ilusi髇 de los Gemelos"
+		},
+		EP17_1_SPC05 = {
+			ItemID = 23776,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Cannon_Rapier_OS",
+					13493
+				},
+				{
+					"Beam_Claymore_OS",
+					21047
+				},
+				{
+					"Rutilus_Stick_OS",
+					26151
+				},
+				{
+					"Circuit_Board_OS",
+					28629
+				},
+				{"Blasti_OS", 28136},
+				{
+					"Saphir_Hall_OS",
+					16088
+				},
+				{
+					"Virtual_Bow_OS",
+					18178
+				},
+				{"MH_P89_OS", 18179},
+				{
+					"Meuchler_OS",
+					28038
+				},
+				{
+					"Burning_Knuckle_OS",
+					1862
+				},
+				{"HR_S55_OS", 28253},
+				{"Kuroiro_OS", 28755},
+				{"AC_B44_OS", 18180},
+				{
+					"Boost_Lance_OS",
+					32019
+				},
+				{
+					"Ultio_Spes_OS",
+					16089
+				},
+				{
+					"ElectricFox_OS",
+					26164
+				},
+				{
+					"Repeat_Dagger_OS",
+					510184
+				}
+			},
+			NeedSource_String = "Arma OS"
+		},
+		EP17_1_SPC06 = {
+			ItemID = 23777,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Cannon_Rapier_OS",
+					13493
+				},
+				{
+					"Beam_Claymore_OS",
+					21047
+				},
+				{
+					"Rutilus_Stick_OS",
+					26151
+				},
+				{
+					"Circuit_Board_OS",
+					28629
+				},
+				{"Blasti_OS", 28136},
+				{
+					"Saphir_Hall_OS",
+					16088
+				},
+				{
+					"Virtual_Bow_OS",
+					18178
+				},
+				{"MH_P89_OS", 18179},
+				{
+					"Meuchler_OS",
+					28038
+				},
+				{
+					"Burning_Knuckle_OS",
+					1862
+				},
+				{"HR_S55_OS", 28253},
+				{"Kuroiro_OS", 28755},
+				{"AC_B44_OS", 18180},
+				{
+					"Boost_Lance_OS",
+					32019
+				},
+				{
+					"Ultio_Spes_OS",
+					16089
+				},
+				{
+					"ElectricFox_OS",
+					26164
+				},
+				{
+					"Repeat_Dagger_OS",
+					510184
+				}
+			},
+			NeedSource_String = "Arma OS"
+		},
+		EP17_1_SPC07 = {
+			ItemID = 23778,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Cannon_Rapier_OS",
+					13493
+				},
+				{
+					"Beam_Claymore_OS",
+					21047
+				},
+				{
+					"Rutilus_Stick_OS",
+					26151
+				},
+				{
+					"Circuit_Board_OS",
+					28629
+				},
+				{"Blasti_OS", 28136},
+				{
+					"Saphir_Hall_OS",
+					16088
+				},
+				{
+					"Virtual_Bow_OS",
+					18178
+				},
+				{"MH_P89_OS", 18179},
+				{
+					"Meuchler_OS",
+					28038
+				},
+				{
+					"Burning_Knuckle_OS",
+					1862
+				},
+				{"HR_S55_OS", 28253},
+				{"Kuroiro_OS", 28755},
+				{"AC_B44_OS", 18180},
+				{
+					"Boost_Lance_OS",
+					32019
+				},
+				{
+					"Ultio_Spes_OS",
+					16089
+				},
+				{
+					"ElectricFox_OS",
+					26164
+				},
+				{
+					"Repeat_Dagger_OS",
+					510184
+				}
+			},
+			NeedSource_String = "Arma OS"
+		},
+		EP17_1_SPC08 = {
+			ItemID = 23779,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Cannon_Rapier_OS",
+					13493
+				},
+				{
+					"Beam_Claymore_OS",
+					21047
+				},
+				{
+					"Rutilus_Stick_OS",
+					26151
+				},
+				{
+					"Circuit_Board_OS",
+					28629
+				},
+				{"Blasti_OS", 28136},
+				{
+					"Saphir_Hall_OS",
+					16088
+				},
+				{
+					"Virtual_Bow_OS",
+					18178
+				},
+				{"MH_P89_OS", 18179},
+				{
+					"Meuchler_OS",
+					28038
+				},
+				{
+					"Burning_Knuckle_OS",
+					1862
+				},
+				{"HR_S55_OS", 28253},
+				{"Kuroiro_OS", 28755},
+				{"AC_B44_OS", 18180},
+				{
+					"Boost_Lance_OS",
+					32019
+				},
+				{
+					"Ultio_Spes_OS",
+					16089
+				},
+				{
+					"ElectricFox_OS",
+					26164
+				},
+				{
+					"Repeat_Dagger_OS",
+					510184
+				}
+			},
+			NeedSource_String = "Arma OS"
+		},
+		EP17_1_SPC09 = {
+			ItemID = 23780,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Cannon_Rapier_OS",
+					13493
+				},
+				{
+					"Beam_Claymore_OS",
+					21047
+				},
+				{
+					"Rutilus_Stick_OS",
+					26151
+				},
+				{
+					"Circuit_Board_OS",
+					28629
+				},
+				{"Blasti_OS", 28136},
+				{
+					"Saphir_Hall_OS",
+					16088
+				},
+				{
+					"Virtual_Bow_OS",
+					18178
+				},
+				{"MH_P89_OS", 18179},
+				{
+					"Meuchler_OS",
+					28038
+				},
+				{
+					"Burning_Knuckle_OS",
+					1862
+				},
+				{"HR_S55_OS", 28253},
+				{"Kuroiro_OS", 28755},
+				{"AC_B44_OS", 18180},
+				{
+					"Boost_Lance_OS",
+					32019
+				},
+				{
+					"Ultio_Spes_OS",
+					16089
+				},
+				{
+					"ElectricFox_OS",
+					26164
+				},
+				{
+					"Repeat_Dagger_OS",
+					510184
+				}
+			},
+			NeedSource_String = "Arma OS"
+		},
+		EP17_1_SPC10 = {
+			ItemID = 23781,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Cannon_Rapier_OS",
+					13493
+				},
+				{
+					"Beam_Claymore_OS",
+					21047
+				},
+				{
+					"Rutilus_Stick_OS",
+					26151
+				},
+				{
+					"Circuit_Board_OS",
+					28629
+				},
+				{"Blasti_OS", 28136},
+				{
+					"Saphir_Hall_OS",
+					16088
+				},
+				{
+					"Virtual_Bow_OS",
+					18178
+				},
+				{"MH_P89_OS", 18179},
+				{
+					"Meuchler_OS",
+					28038
+				},
+				{
+					"Burning_Knuckle_OS",
+					1862
+				},
+				{"HR_S55_OS", 28253},
+				{"Kuroiro_OS", 28755},
+				{"AC_B44_OS", 18180},
+				{
+					"Boost_Lance_OS",
+					32019
+				},
+				{
+					"Ultio_Spes_OS",
+					16089
+				},
+				{
+					"ElectricFox_OS",
+					26164
+				},
+				{
+					"Repeat_Dagger_OS",
+					510184
+				}
+			},
+			NeedSource_String = "Arma OS"
 		}
 	},
 	get_lapine_box = function(in_box_id)

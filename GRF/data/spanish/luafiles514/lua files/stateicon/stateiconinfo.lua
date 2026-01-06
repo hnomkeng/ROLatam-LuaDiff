@@ -31,10 +31,10 @@ StateIconList[EFST_IDs.EFST_ENDURE] = {
 		{"Aguante", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Activar el ataque y el movimiento mientras se recibe da√±o"
+			"Activar el ataque y el movimiento mientras se recibe daÒo"
 		},
 		{
-			"Se cancela despu√©s de que el lanzador recibe cierta cantidad de golpes"
+			"Se cancela despuÈs de que el lanzador recibe cierta cantidad de golpes"
 		}
 	}
 }
@@ -43,7 +43,7 @@ StateIconList[EFST_IDs.EFST_TWOHANDQUICKEN] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Aceleraci√≥n de dos manos",
+			"AceleraciÛn de dos manos",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -60,7 +60,7 @@ StateIconList[EFST_IDs.EFST_CONCENTRATION] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Mejorar la concentraci√≥n",
+			"Mejorar la concentraciÛn",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -82,7 +82,7 @@ StateIconList[EFST_IDs.EFST_HIDING] = {
 			"Ocultarse bajo tierra para evitar los ataques enemigos"
 		},
 		{
-			"Se puede detectar la habilidad de detecci√≥n del enemigo"
+			"Se puede detectar la habilidad de detecciÛn del enemigo"
 		}
 	}
 }
@@ -116,18 +116,18 @@ StateIconList[EFST_IDs.EFST_POISONREACT] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Reacci√≥n venenosa",
+			"ReacciÛn venenosa",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Lanzar autom√°ticamente un ataque venenoso al enemigo"
+			"Lanzar autom·ticamente un ataque venenoso al enemigo"
 		},
 		{
 			"Lanzar la habilidad Envenenamiento al enemigo"
 		},
 		{
-			"cuando el lanzador sufre da√±o por un ataque normal"
+			"cuando el lanzador sufre daÒo por un ataque normal"
 		}
 	}
 }
@@ -135,7 +135,7 @@ StateIconList[EFST_IDs.EFST_QUAGMIRE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{"Ci√©naga", COLOR_TITLE_DEBUFF},
+		{"CiÈnaga", COLOR_TITLE_DEBUFF},
 		{"%s", COLOR_TIME},
 		{
 			"Disminuir la velocidad de movimiento"
@@ -149,7 +149,7 @@ StateIconList[EFST_IDs.EFST_ANGELUS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{"√Ångelus", COLOR_TITLE_BUFF},
+		{"¡ngelus", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
 			"Aumentar DEF"
@@ -160,13 +160,13 @@ StateIconList[EFST_IDs.EFST_BLESSING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{"Bendici√≥n", COLOR_TITLE_BUFF},
+		{"BendiciÛn", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
 			"Aumentar DES, INT, FUE"
 		},
 		{
-			"Recuperar el estado Maldici√≥n, Maldici√≥n p√©trea al instante"
+			"Recuperar el estado MaldiciÛn, MaldiciÛn pÈtrea al instante"
 		}
 	}
 }
@@ -175,7 +175,7 @@ StateIconList[EFST_IDs.EFST_CRUCIS] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Se√±al de la cruz",
+			"SeÒal de la cruz",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -228,7 +228,7 @@ StateIconList[EFST_IDs.EFST_SLOWPOISON] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Detener temporalmente la propagaci√≥n del veneno"
+			"Detener temporalmente la propagaciÛn del veneno"
 		}
 	}
 }
@@ -296,10 +296,10 @@ StateIconList[EFST_IDs.EFST_MAGNIFICAT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{"Magn√≠ficat", COLOR_TITLE_BUFF},
+		{"MagnÌficat", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar la velocidad de recuperaci√≥n de PM"
+			"Aumentar la velocidad de recuperaciÛn de PM"
 		}
 	}
 }
@@ -324,7 +324,7 @@ StateIconList[EFST_IDs.EFST_LEXAETERNA] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"El enemigo recibe el da√±o dos veces"
+			"El enemigo recibe el daÒo dos veces"
 		}
 	}
 }
@@ -333,7 +333,7 @@ StateIconList[EFST_IDs.EFST_ADRENALINE] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"R√°faga de adrenalina",
+			"R·faga de adrenalina",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -350,15 +350,15 @@ StateIconList[EFST_IDs.EFST_WEAPONPERFECT] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Perfecci√≥n de arma",
+			"PerfecciÛn de arma",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Infligir un 100¬†% de da√±o a"
+			"Infligir un 100†% de daÒo a"
 		},
 		{
-			"monstruos peque√±os, medianos y grandes"
+			"monstruos pequeÒos, medianos y grandes"
 		}
 	}
 }
@@ -367,7 +367,7 @@ StateIconList[EFST_IDs.EFST_OVERTHRUST] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Propulsi√≥n m√°xima",
+			"PropulsiÛn m·xima",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -399,7 +399,7 @@ StateIconList[EFST_IDs.EFST_MAXIMIZE] = {
 StateIconList[EFST_IDs.EFST_RIDING] = {
 	descript = {
 		{
-			"Montar veh√≠culo",
+			"Montar vehÌculo",
 			COLOR_TITLE_TOGGLE
 		}
 	}
@@ -407,11 +407,11 @@ StateIconList[EFST_IDs.EFST_RIDING] = {
 StateIconList[EFST_IDs.EFST_FALCON] = {
 	descript = {
 		{
-			"Maestr√≠a en halconer√≠a",
+			"MaestrÌa en halconerÌa",
 			COLOR_TITLE_TOGGLE
 		},
 		{
-			"Alquiler de halc√≥n"
+			"Alquiler de halcÛn"
 		}
 	}
 }
@@ -422,7 +422,7 @@ StateIconList[EFST_IDs.EFST_TRICKDEAD] = {
 			COLOR_TITLE_TOGGLE
 		},
 		{
-			"Haci√©ndose el muerto"
+			"HaciÈndose el muerto"
 		}
 	}
 }
@@ -442,14 +442,14 @@ StateIconList[EFST_IDs.EFST_ENERGYCOAT] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Capa energ√©tica",
+			"Capa energÈtica",
 			COLOR_TITLE_BUFF
 		},
 		{
-			"Reducir el da√±o del enemigo"
+			"Reducir el daÒo del enemigo"
 		},
 		{
-			"en funci√≥n de los PM restantes"
+			"en funciÛn de los PM restantes"
 		}
 	}
 }
@@ -471,15 +471,15 @@ StateIconList[EFST_IDs.EFST_ILLUSION] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Ilusi√≥n oscura",
+			"IlusiÛn oscura",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Visi√≥n distorsionada"
+			"VisiÛn distorsionada"
 		},
 		{
-			"Error en el cartel de da√±o"
+			"Error en el cartel de daÒo"
 		},
 		{
 			"Pausa de lanzamiento"
@@ -489,22 +489,22 @@ StateIconList[EFST_IDs.EFST_ILLUSION] = {
 StateIconList[EFST_IDs.EFST_WEIGHTOVER50] = {
 	descript = {
 		{
-			"Peso superior al 50¬†%",
+			"Peso superior al 50†%",
 			COLOR_TITLE_DEBUFF
 		},
 		{
-			"No se puede recuperar PV, PM autom√°ticamente"
+			"No se puede recuperar PV, PM autom·ticamente"
 		}
 	}
 }
 StateIconList[EFST_IDs.EFST_WEIGHTOVER90] = {
 	descript = {
 		{
-			"Peso superior al 90¬†%",
+			"Peso superior al 90†%",
 			COLOR_TITLE_DEBUFF
 		},
 		{
-			"No se puede recuperar PV, PM autom√°ticamente"
+			"No se puede recuperar PV, PM autom·ticamente"
 		},
 		{
 			"No se puede atacar ni usar habilidades"
@@ -516,7 +516,7 @@ StateIconList[EFST_IDs.EFST_ATTHASTE_POTION1] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Poci√≥n de concentraci√≥n",
+			"PociÛn de concentraciÛn",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -638,7 +638,7 @@ StateIconList[EFST_IDs.EFST_PROTECTSHIELD] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Escudo qu√≠mico",
+			"Escudo quÌmico",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -652,7 +652,7 @@ StateIconList[EFST_IDs.EFST_PROTECTARMOR] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Armadura qu√≠mica",
+			"Armadura quÌmica",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -666,12 +666,12 @@ StateIconList[EFST_IDs.EFST_PROTECTHELM] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Yelmo bioqu√≠mico",
+			"Yelmo bioquÌmico",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Proteger el yelmo de la destrucci√≥n"
+			"Proteger el yelmo de la destrucciÛn"
 		}
 	}
 }
@@ -696,10 +696,10 @@ StateIconList[EFST_IDs.EFST_REFLECTSHIELD] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Reflejar al enemigo cierta cantidad de da√±o"
+			"Reflejar al enemigo cierta cantidad de daÒo"
 		},
 		{
-			"que el lanzador recibi√≥ del ataque f√≠sico cuerpo a cuerpo"
+			"que el lanzador recibiÛ del ataque fÌsico cuerpo a cuerpo"
 		}
 	}
 }
@@ -730,7 +730,7 @@ StateIconList[EFST_IDs.EFST_DEFENDER] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Disminuir el da√±o f√≠sico a larga distancia"
+			"Disminuir el daÒo fÌsico a larga distancia"
 		},
 		{
 			"Disminuir la velocidad de movimiento, VELA"
@@ -773,7 +773,7 @@ StateIconList[EFST_IDs.EFST_SPEARQUICKEN] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Aceleraci√≥n de lanza",
+			"AceleraciÛn de lanza",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -784,7 +784,7 @@ StateIconList[EFST_IDs.EFST_SPEARQUICKEN] = {
 			"Aumentar VELA"
 		},
 		{
-			"Aumentar el √≠ndice cr√≠tico"
+			"Aumentar el Ìndice crÌtico"
 		},
 		{
 			"Aumentar EVA"
@@ -804,7 +804,7 @@ StateIconList[EFST_IDs.EFST_WHISTLE] = {
 			"Aumentar EVA del miembro del grupo"
 		},
 		{
-			"Aumentar la evasi√≥n perfecta."
+			"Aumentar la evasiÛn perfecta."
 		}
 	}
 }
@@ -847,12 +847,12 @@ StateIconList[EFST_IDs.EFST_APPLEIDUN] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Manzanas de Ed√©n",
+			"Manzanas de EdÈn",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar los PV m√°ximos del miembro del grupo."
+			"Aumentar los PV m·ximos del miembro del grupo."
 		},
 		{
 			"Aumentar las curaciones recibidas."
@@ -900,10 +900,10 @@ StateIconList[EFST_IDs.EFST_FORTUNEKISS] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar CR√çT del miembro del grupo."
+			"Aumentar CRÕT del miembro del grupo."
 		},
 		{
-			"Aumentar el da√±o cr√≠tico."
+			"Aumentar el daÒo crÌtico."
 		}
 	}
 }
@@ -917,7 +917,7 @@ StateIconList[EFST_IDs.EFST_SERVICEFORYOU] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar los PM m√°ximos del miembro del grupo."
+			"Aumentar los PM m·ximos del miembro del grupo."
 		},
 		{
 			"Reducir el consumo de PM."
@@ -929,7 +929,7 @@ StateIconList[EFST_IDs.EFST_RICHMANKIM] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Percepci√≥n mental",
+			"PercepciÛn mental",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -974,7 +974,7 @@ StateIconList[EFST_IDs.EFST_RINGNIBELUNGEN] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Fraseo arm√≥nico",
+			"Fraseo armÛnico",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -991,7 +991,7 @@ StateIconList[EFST_IDs.EFST_ROKISWEIL] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Punteo cl√°sico",
+			"Punteo cl·sico",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
@@ -999,7 +999,7 @@ StateIconList[EFST_IDs.EFST_ROKISWEIL] = {
 			"No se puede utilizar una habilidad."
 		},
 		{
-			"Probabilidad de confusi√≥n."
+			"Probabilidad de confusiÛn."
 		}
 	}
 }
@@ -1008,7 +1008,7 @@ StateIconList[EFST_IDs.EFST_INTOABYSS] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Cable de alimentaci√≥n",
+			"Cable de alimentaciÛn",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -1025,7 +1025,7 @@ StateIconList[EFST_IDs.EFST_SIEGFRIED] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Ritmo ac√∫stico",
+			"Ritmo ac˙stico",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -1036,7 +1036,7 @@ StateIconList[EFST_IDs.EFST_SIEGFRIED] = {
 			"para los miembros del grupo."
 		},
 		{
-			"Tolerancia a alg√∫n efecto de estado."
+			"Tolerancia a alg˙n efecto de estado."
 		}
 	}
 }
@@ -1065,7 +1065,7 @@ StateIconList[EFST_IDs.EFST_EXTREMITYFIST] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Pu√±o de guillotina",
+			"PuÒo de guillotina",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
@@ -1107,7 +1107,7 @@ StateIconList[EFST_IDs.EFST_PROPERTYWIND] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Cargador de rel√°mpagos",
+			"Cargador de rel·mpagos",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -1150,7 +1150,7 @@ StateIconList[EFST_IDs.EFST_AURABLADE] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumento de da√±o f√≠sico"
+			"Aumento de daÒo fÌsico"
 		}
 	}
 }
@@ -1172,10 +1172,10 @@ StateIconList[EFST_IDs.EFST_LKCONCENTRATION] = {
 		{"", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"ATQ, Aumentar precisi√≥n"
+			"ATQ, Aumentar precisiÛn"
 		},
 		{
-			"Defensa f√≠sica reducida"
+			"Defensa fÌsica reducida"
 		}
 	}
 }
@@ -1186,7 +1186,7 @@ StateIconList[EFST_IDs.EFST_TENSIONRELAX] = {
 		{"Relajarse", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar la velocidad de recuperaci√≥n de PV"
+			"Aumentar la velocidad de recuperaciÛn de PV"
 		}
 	}
 }
@@ -1207,7 +1207,7 @@ StateIconList[EFST_IDs.EFST_GROUNDMAGIC] = {
 	descript = {
 		{"%s", COLOR_TIME},
 		{
-			"Aplicar los efectos m√°gicos del suelo"
+			"Aplicar los efectos m·gicos del suelo"
 		}
 	}
 }
@@ -1216,7 +1216,7 @@ StateIconList[EFST_IDs.EFST_MAGICPOWER] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Amplificaci√≥n m√°gica",
+			"AmplificaciÛn m·gica",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -1238,7 +1238,7 @@ StateIconList[EFST_IDs.EFST_EDP] = {
 			"Tener la oportunidad de envenenar al enemigo mortal"
 		},
 		{
-			"El da√±o adicional no est√° disponible para el monstruo Jefe"
+			"El daÒo adicional no est· disponible para el monstruo Jefe"
 		}
 	}
 }
@@ -1247,7 +1247,7 @@ StateIconList[EFST_IDs.EFST_TRUESIGHT] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Visi√≥n verdadera",
+			"VisiÛn verdadera",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -1255,7 +1255,7 @@ StateIconList[EFST_IDs.EFST_TRUESIGHT] = {
 			"Aumentar todos los estados"
 		},
 		{
-			"Aumentar precisi√≥n, da√±o e √≠ndice cr√≠tico"
+			"Aumentar precisiÛn, daÒo e Ìndice crÌtico"
 		}
 	}
 }
@@ -1317,16 +1317,16 @@ StateIconList[EFST_IDs.EFST_SWORDREJECT] = {
 			COLOR_TITLE_BUFF
 		},
 		{
-			"Reducir el da√±o de Espadas a la mitad"
+			"Reducir el daÒo de Espadas a la mitad"
 		},
 		{
 			"(todo tipo de ataque de monstruos a la mitad)"
 		},
 		{
-			"en un √≠ndice determinado."
+			"en un Ìndice determinado."
 		},
 		{
-			"Desviar la otra mitad del da√±o al enemigo"
+			"Desviar la otra mitad del daÒo al enemigo"
 		}
 	}
 }
@@ -1357,7 +1357,7 @@ StateIconList[EFST_IDs.EFST_MARIONETTE] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Se recibi√≥ una bonificaci√≥n de Estad√≠sticas"
+			"Se recibiÛ una bonificaciÛn de EstadÌsticas"
 		},
 		{
 			"del lanzador"
@@ -1374,7 +1374,7 @@ StateIconList[EFST_IDs.EFST_BLOODING] = {
 			"No se puede recuperar PV, PM"
 		},
 		{
-			"Perder cierta cantidad de PV cada 10¬†seg."
+			"Perder cierta cantidad de PV cada 10†seg."
 		}
 	}
 }
@@ -1391,7 +1391,7 @@ StateIconList[EFST_IDs.EFST_JOINTBEAT] = {
 			"Colocar al enemigo en estado anormal"
 		},
 		{
-			"golpe√°ndole las articulaciones"
+			"golpe·ndole las articulaciones"
 		}
 	}
 }
@@ -1400,7 +1400,7 @@ StateIconList[EFST_IDs.EFST_PROVOKE] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Provocaci√≥n",
+			"ProvocaciÛn",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -1441,7 +1441,7 @@ StateIconList[EFST_IDs.EFST_HEALTHSTATE_CONFUSION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{"Confusi√≥n", COLOR_TITLE_DEBUFF},
+		{"ConfusiÛn", COLOR_TITLE_DEBUFF},
 		{"%s", COLOR_TIME},
 		{
 			"Moverse aleatoriamente"
@@ -1472,7 +1472,7 @@ StateIconList[EFST_IDs.EFST_ENCHANTBLADE] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Agregar ATQM al ATQ f√≠sico cuerpo a cuerpo"
+			"Agregar ATQM al ATQ fÌsico cuerpo a cuerpo"
 		}
 	}
 }
@@ -1489,13 +1489,13 @@ StateIconList[EFST_IDs.EFST_HEAT_BARREL] = {
 			"Aumento de ATQ"
 		},
 		{
-			"Disminuci√≥n de PREC"
+			"DisminuciÛn de PREC"
 		},
 		{
 			"Aumento de VELA"
 		},
 		{
-			"Disminuci√≥n del tiempo de lanzamiento fijo"
+			"DisminuciÛn del tiempo de lanzamiento fijo"
 		}
 	}
 }
@@ -1525,12 +1525,12 @@ StateIconList[EFST_IDs.EFST_ANTI_M_BLAST] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Explosi√≥n antimaterial",
+			"ExplosiÛn antimaterial",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Disminuci√≥n de la resistencia a ninguno de los atributos de ataque"
+			"DisminuciÛn de la resistencia a ninguno de los atributos de ataque"
 		}
 	}
 }
@@ -1554,7 +1554,7 @@ StateIconList[EFST_IDs.EFST_MANU_ATK] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar ATQ f√≠sico"
+			"Aumentar ATQ fÌsico"
 		},
 		{
 			"a los monstruos en los campos de Manuk"
@@ -1571,7 +1571,7 @@ StateIconList[EFST_IDs.EFST_STRIKING] = {
 			"Aumentar ATQ"
 		},
 		{
-			"Aumentar el √≠ndice de PREC de los gu√≠as"
+			"Aumentar el Ìndice de PREC de los guÌas"
 		}
 	}
 }
@@ -1595,7 +1595,7 @@ StateIconList[EFST_IDs.EFST_TAROTCARD] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Efecto elegido al azar de una de las 14¬†cartas del Tarot"
+			"Efecto elegido al azar de una de las 14†cartas del Tarot"
 		}
 	}
 }
@@ -1609,7 +1609,7 @@ StateIconList[EFST_IDs.EFST_HEALTHSTATE_HEAVYPOISON] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"P√©rdida de PV cada segundo "
+			"PÈrdida de PV cada segundo "
 		}
 	}
 }
@@ -1618,7 +1618,7 @@ StateIconList[EFST_IDs.EFST_REFRESH] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Piedra r√∫nica Nosiege: Actualizar",
+			"Piedra r˙nica Nosiege: Actualizar",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -1643,7 +1643,7 @@ StateIconList[EFST_IDs.EFST_MANU_DEF] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Disminuir el da√±o f√≠sico/m√°gico"
+			"Disminuir el daÒo fÌsico/m·gico"
 		},
 		{
 			"de los monstruos en el campo de Manuk"
@@ -1655,18 +1655,18 @@ StateIconList[EFST_IDs.EFST_WARMER] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"M√°s caliente",
+			"M·s caliente",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Cancela todos los estados de Congelaci√≥n"
+			"Cancela todos los estados de CongelaciÛn"
 		},
 		{
 			"No se puede congelar"
 		},
 		{
-			"Recuperar PV cada 3¬†segundos"
+			"Recuperar PV cada 3†segundos"
 		}
 	}
 }
@@ -1676,7 +1676,7 @@ StateIconList[EFST_IDs.EFST_REWARD_PLUSONLYJOBEXP] = {
 	descript = {
 		{"%s", COLOR_TIME},
 		{
-			"Obtener m√°s EXP de clase"
+			"Obtener m·s EXP de clase"
 		}
 	}
 }
@@ -1718,7 +1718,7 @@ StateIconList[EFST_IDs.EFST_SPL_ATK] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar ATQ f√≠sico"
+			"Aumentar ATQ fÌsico"
 		},
 		{
 			"a los monstruos en el campo Splendide"
@@ -1754,7 +1754,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE1] = {
 	posTimeLimitStr = 3,
 	descript = {
 		{
-			"Poder por 30¬†segundos",
+			"Poder por 30†segundos",
 			COLOR_TITLE_BUFF
 		},
 		{
@@ -1776,7 +1776,7 @@ StateIconList[EFST_IDs.EFST_CATNIPPOWDER] = {
 			"Disminuir la velocidad de movimiento"
 		},
 		{
-			"Aumentar PV, recuperaci√≥n de PM"
+			"Aumentar PV, recuperaciÛn de PM"
 		}
 	}
 }
@@ -1785,15 +1785,15 @@ StateIconList[EFST_IDs.EFST_STONEHARDSKIN] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Piedra r√∫nica Hagalas: Piel de piedra",
+			"Piedra r˙nica Hagalas: Piel de piedra",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Crear barrera de defensa despu√©s de consumir cierta cantidad de PV"
+			"Crear barrera de defensa despuÈs de consumir cierta cantidad de PV"
 		},
 		{
-			"Cuando otro jugador ataque f√≠sicamente cuerpo a cuerpo al lanzador"
+			"Cuando otro jugador ataque fÌsicamente cuerpo a cuerpo al lanzador"
 		},
 		{
 			"tener la oportunidad de destruir el arma del enemigo"
@@ -1813,7 +1813,7 @@ StateIconList[EFST_IDs.EFST_SPL_DEF] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Reducir el da√±o f√≠sico y m√°gico"
+			"Reducir el daÒo fÌsico y m·gico"
 		},
 		{
 			"de los monstruos en el Campo de Splendide"
@@ -1827,7 +1827,7 @@ StateIconList[EFST_IDs.EFST_SATURDAY_NIGHT_FEVER] = {
 		{"Locura", COLOR_TITLE_DEBUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Perder PV, PM cada 3¬†seg."
+			"Perder PV, PM cada 3†seg."
 		},
 		{
 			"Disminuir PREC y EVA"
@@ -1851,7 +1851,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE3] = {
 	posTimeLimitStr = 3,
 	descript = {
 		{
-			"Salud por 30¬†segundos",
+			"Salud por 30†segundos",
 			COLOR_TITLE_BUFF
 		},
 		{
@@ -1865,15 +1865,15 @@ StateIconList[EFST_IDs.EFST_SV_ROOTTWIST] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Giro de ra√≠z SV",
+			"Giro de raÌz SV",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Inmovilizaci√≥n"
+			"InmovilizaciÛn"
 		},
 		{
-			"100 de da√±o por veneno por segundo"
+			"100 de daÒo por veneno por segundo"
 		}
 	}
 }
@@ -1893,7 +1893,7 @@ StateIconList[EFST_IDs.EFST_REPRODUCE] = {
 			"Aprender la habilidad dirigida al lanzador"
 		},
 		{
-			"Solo se puede aprender 1¬†habilidad"
+			"Solo se puede aprender 1†habilidad"
 		}
 	}
 }
@@ -1913,7 +1913,7 @@ StateIconList[EFST_IDs.EFST_ONEHANDQUICKEN] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Rapidez de empu√±adura",
+			"Rapidez de empuÒadura",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -1927,7 +1927,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE5] = {
 	posTimeLimitStr = 3,
 	descript = {
 		{
-			"M√°s liviandad por 30¬†segundos",
+			"M·s liviandad por 30†segundos",
 			COLOR_TITLE_BUFF
 		},
 		{
@@ -1952,7 +1952,7 @@ StateIconList[EFST_IDs.EFST_FIGHTINGSPIRIT] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Piedra r√∫nica Asir: Determinaci√≥n",
+			"Piedra r˙nica Asir: DeterminaciÛn",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -1988,7 +1988,7 @@ StateIconList[EFST_IDs.EFST_ANALYZE] = {
 		{"Analizar", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Disminuir DEF f√≠sica y m√°gica"
+			"Disminuir DEF fÌsica y m·gica"
 		}
 	}
 }
@@ -1997,7 +1997,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE7] = {
 	posTimeLimitStr = 3,
 	descript = {
 		{
-			"Defensa por 30¬†segundos",
+			"Defensa por 30†segundos",
 			COLOR_TITLE_BUFF
 		},
 		{
@@ -2022,11 +2022,11 @@ StateIconList[EFST_IDs.EFST_MATK_POPCORN] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Potenciar ataque m√°gico",
+			"Potenciar ataque m·gico",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
-		{"ATQM +10¬†%"}
+		{"ATQM +10†%"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ABUNDANCE] = {
@@ -2034,12 +2034,12 @@ StateIconList[EFST_IDs.EFST_ABUNDANCE] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Piedra r√∫nica Urj: Abundancia",
+			"Piedra r˙nica Urj: Abundancia",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Recuperar cierta cantidad de PM cada 10¬†seg."
+			"Recuperar cierta cantidad de PM cada 10†seg."
 		}
 	}
 }
@@ -2048,7 +2048,7 @@ StateIconList[EFST_IDs.EFST_SPL_MATK] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"L√°grima de Cornus",
+			"L·grima de Cornus",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -2065,7 +2065,7 @@ StateIconList[EFST_IDs.EFST_LERADS_DEW] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Roc√≠o de Lerad",
+			"RocÌo de Lerad",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -2079,7 +2079,7 @@ StateIconList[EFST_IDs.EFST_PROTECTEXP] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"¬°Mam√°, pap√°, los amo!",
+			"°Mam·, pap·, los amo!",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -2107,13 +2107,13 @@ StateIconList[EFST_IDs.EFST_MEIKYOUSISUI] = {
 			"No puede moverse"
 		},
 		{
-			"Oportunidad de no recibir da√±o"
+			"Oportunidad de no recibir daÒo"
 		},
 		{
-			"Al usar la habilidad, se sufrir√° un debuff aleatorio"
+			"Al usar la habilidad, se sufrir· un debuff aleatorio"
 		},
 		{
-			"Al recibir da√±o, se elimina el efecto"
+			"Al recibir daÒo, se elimina el efecto"
 		}
 	}
 }
@@ -2122,11 +2122,11 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE9] = {
 	posTimeLimitStr = 3,
 	descript = {
 		{
-			"Suerte por 30¬†segundos",
+			"Suerte por 30†segundos",
 			COLOR_TITLE_BUFF
 		},
 		{
-			"Aumento de CR√çT"
+			"Aumento de CRÕT"
 		},
 		{"%s", COLOR_TIME}
 	}
@@ -2152,7 +2152,7 @@ StateIconList[EFST_IDs.EFST_LIGHTOFSUN] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumento del da√±o de la Explosi√≥n solar"
+			"Aumento del daÒo de la ExplosiÛn solar"
 		}
 	}
 }
@@ -2161,7 +2161,7 @@ StateIconList[EFST_IDs.EFST_ATTHASTE_CASH] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Poci√≥n de refuerzo de VELA",
+			"PociÛn de refuerzo de VELA",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -2185,7 +2185,7 @@ StateIconList[EFST_IDs.EFST_MELODYOFSINK] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Melod√≠a que se hunde",
+			"MelodÌa que se hunde",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -2224,7 +2224,7 @@ StateIconList[EFST_IDs.EFST_GLASTHEIM_TRANS] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"SP m√°x. -50%."
+			"SP m·x. -50%."
 		}
 	}
 }
@@ -2271,7 +2271,7 @@ StateIconList[EFST_IDs.EFST_BEYOND_OF_WARCRY] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"M√°s all√° del llanto",
+			"M·s all· del llanto",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -2302,7 +2302,7 @@ StateIconList[EFST_IDs.EFST_2011RWC] = {
 		{"", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar todas las estad√≠sticas a 3"
+			"Aumentar todas las estadÌsticas a 3"
 		},
 		{
 			"Aumentar ATQ, ATQM"
@@ -2350,7 +2350,7 @@ StateIconList[EFST_IDs.EFST_DIMENSION] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Explosi√≥n Nova y Descenso del emperador estelar"
+			"ExplosiÛn Nova y Descenso del emperador estelar"
 		},
 		{
 			"crean efectos especiales."
@@ -2362,12 +2362,12 @@ StateIconList[EFST_IDs.EFST_LG_REFLECTDAMAGE] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Reducci√≥n del reflejo de da√±o",
+			"ReducciÛn del reflejo de daÒo",
 			COLOR_TITLE_TOGGLE
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Reducir el da√±o por reflejo recibido"
+			"Reducir el daÒo por reflejo recibido"
 		}
 	}
 }
@@ -2381,7 +2381,7 @@ StateIconList[EFST_IDs.EFST_UNLIMITED_HUMMING_VOICE] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar el da√±o m√°gico con la propiedad."
+			"Aumentar el daÒo m·gico con la propiedad."
 		}
 	}
 }
@@ -2389,7 +2389,7 @@ StateIconList[EFST_IDs.EFST_IZAYOI] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{"Noche¬†16", COLOR_TITLE_BUFF},
+		{"Noche†16", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
 			"Quitar el lanzamiento fijo"
@@ -2412,7 +2412,7 @@ StateIconList[EFST_IDs.EFST_CREATINGSTAR] = {
 			COLOR_TITLE_DEBUFF
 		},
 		{
-			"Disminuci√≥n de VELM"
+			"DisminuciÛn de VELM"
 		}
 	}
 }
@@ -2460,7 +2460,7 @@ StateIconList[EFST_IDs.EFST_FORCEOFVANGUARD] = {
 			"Aumentar PVM, DEF"
 		},
 		{
-			"Acumular √≠ndice de Ira siempre que recibas da√±o"
+			"Acumular Ìndice de Ira siempre que recibas daÒo"
 		},
 		{
 			"Consumir PM continuamente"
@@ -2482,7 +2482,7 @@ StateIconList[EFST_IDs.EFST_AUTOBERSERK] = {
 	descript = {
 		{"Berserk", COLOR_TITLE_BUFF},
 		{
-			"Hace que uno se ponga furioso cuando la cantidad de PV restante es inferior al 25¬†% de los PV completos"
+			"Hace que uno se ponga furioso cuando la cantidad de PV restante es inferior al 25†% de los PV completos"
 		}
 	}
 }
@@ -2525,12 +2525,12 @@ StateIconList[EFST_IDs.EFST_KYOMU] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Sombras f√∫tiles",
+			"Sombras f˙tiles",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Anular el efecto de reflexi√≥n de un ataque f√≠sico o m√°gico "
+			"Anular el efecto de reflexiÛn de un ataque fÌsico o m·gico "
 		},
 		{
 			"Probabilidad de fallar en el uso de la habilidad"
@@ -2542,12 +2542,12 @@ StateIconList[EFST_IDs.EFST_SOULCOLLECT] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Colecci√≥n de almas",
+			"ColecciÛn de almas",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Colecci√≥n peri√≥dica de Energ√≠a del alma"
+			"ColecciÛn periÛdica de EnergÌa del alma"
 		}
 	}
 }
@@ -2575,7 +2575,7 @@ StateIconList[EFST_IDs.EFST_SOULREAPER] = {
 			"Atacar crea la posibilidad de"
 		},
 		{
-			"obtener Energ√≠a del alma."
+			"obtener EnergÌa del alma."
 		}
 	}
 }
@@ -2595,7 +2595,7 @@ StateIconList[EFST_IDs.EFST_KAGEMUSYA] = {
 			"Consume algunos PM por segundo"
 		},
 		{
-			"Aumentar el da√±o de Salpicadura de Kunai, Explosi√≥n de Kunai y P√©talo arremolinado"
+			"Aumentar el daÒo de Salpicadura de Kunai, ExplosiÛn de Kunai y PÈtalo arremolinado"
 		},
 		{
 			"Tajo cruzado"
@@ -2612,7 +2612,7 @@ StateIconList[EFST_IDs.EFST_SOULUNITY] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Recuperaci√≥n de PV cada 3¬†seg."
+			"RecuperaciÛn de PV cada 3†seg."
 		},
 		{
 			"Objetivos Kaute"
@@ -2640,7 +2640,7 @@ StateIconList[EFST_IDs.EFST_SOULSHADOW] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumento de CR√çT"
+			"Aumento de CRÕT"
 		},
 		{
 			"Aumento de VELA"
@@ -2657,7 +2657,7 @@ StateIconList[EFST_IDs.EFST_ZANGETSU] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Efectos concedidos en el nivel b√°sico"
+			"Efectos concedidos en el nivel b·sico"
 		}
 	}
 }
@@ -2666,7 +2666,7 @@ StateIconList[EFST_IDs.EFST_AUTOSHADOWSPELL] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Hechizo de sombra autom√°tico",
+			"Hechizo de sombra autom·tico",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -2677,7 +2677,7 @@ StateIconList[EFST_IDs.EFST_AUTOSHADOWSPELL] = {
 			"Se pueden usar los conocimientos aprendidos mediante"
 		},
 		{
-			"Plagio y Reproducci√≥n"
+			"Plagio y ReproducciÛn"
 		}
 	}
 }
@@ -2697,7 +2697,7 @@ StateIconList[EFST_IDs.EFST_SOULFALCON] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Otorgamiento de Alma de halc√≥n",
+			"Otorgamiento de Alma de halcÛn",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -2714,12 +2714,12 @@ StateIconList[EFST_IDs.EFST_PHI_DEMON] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Antiguo esp√≠ritu de Daebujeok",
+			"Antiguo espÌritu de Daebujeok",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar el da√±o f√≠sico y m√°gico"
+			"Aumentar el daÒo fÌsico y m·gico"
 		},
 		{
 			"a monstruos de tipo Demonio"
@@ -2731,7 +2731,7 @@ StateIconList[EFST_IDs.EFST_SOULGOLEM] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Otorgamiento de Alma de g√≥lem",
+			"Otorgamiento de Alma de gÛlem",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -2757,7 +2757,7 @@ StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_DARKNESS] = {
 StateIconList[EFST_IDs.EFST_SOULDIVISION] = {
 	descript = {
 		{
-			"Divisi√≥n del alma",
+			"DivisiÛn del alma",
 			COLOR_TITLE_DEBUFF
 		},
 		{
@@ -2770,7 +2770,7 @@ StateIconList[EFST_IDs.EFST_GENSOU] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Ilusi√≥n de luz de luna tenue",
+			"IlusiÛn de luz de luna tenue",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -2778,10 +2778,10 @@ StateIconList[EFST_IDs.EFST_GENSOU] = {
 			"PV y PM aumentan y disminuyen aleatoriamente"
 		},
 		{
-			"Al recibir un ataque m√°gico,"
+			"Al recibir un ataque m·gico,"
 		},
 		{
-			"La mitad del da√±o ser√° sobre otro objetivo"
+			"La mitad del daÒo ser· sobre otro objetivo"
 		}
 	}
 }
@@ -2790,15 +2790,15 @@ StateIconList[EFST_IDs.EFST_SHADOWFORM] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Formaci√≥n de sombras",
+			"FormaciÛn de sombras",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Mitigar el da√±o del lanzador"
+			"Mitigar el daÒo del lanzador"
 		},
 		{
-			"seg√∫n el nivel de habilidad del lanzador"
+			"seg˙n el nivel de habilidad del lanzador"
 		}
 	}
 }
@@ -2823,13 +2823,13 @@ StateIconList[EFST_IDs.EFST_AKAITSUKI] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Habilidad espec√≠fica de recuperaci√≥n de PV"
+			"Habilidad especÌfica de recuperaciÛn de PV"
 		},
 		{
-			"En lugar de Recuperaci√≥n, recibir da√±o"
+			"En lugar de RecuperaciÛn, recibir daÒo"
 		},
 		{
-			"Recibir 1/2 da√±o de recuperaci√≥n"
+			"Recibir 1/2 daÒo de recuperaciÛn"
 		}
 	}
 }
@@ -2851,7 +2851,7 @@ StateIconList[EFST_IDs.EFST_LAUDAAGNUS] = {
 		{"LAUDAAGNUS", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar PV m√°x."
+			"Aumentar PV m·x."
 		}
 	}
 }
@@ -2860,7 +2860,7 @@ StateIconList[EFST_IDs.EFST_INFINITY_DRINK] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Poci√≥n Infinita",
+			"PociÛn Infinita",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -2868,10 +2868,10 @@ StateIconList[EFST_IDs.EFST_INFINITY_DRINK] = {
 			"Aumentar HP y SP Maximo"
 		},
 		{
-			"Aumenta Da√±o CRIT , Da√±o de ataque al Alcance,"
+			"Aumenta DaÒo CRIT , DaÒo de ataque al Alcance,"
 		},
 		{
-			"Aumenta todo Ataque M√°gico"
+			"Aumenta todo Ataque M·gico"
 		},
 		{
 			"Conjuro no es Cancelado"
@@ -2888,7 +2888,7 @@ StateIconList[EFST_IDs.EFST_BITESCAR] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aturdimiento durante 2¬†segundos"
+			"Aturdimiento durante 2†segundos"
 		},
 		{
 			"Drenar PVM cada segundo"
@@ -2904,7 +2904,7 @@ StateIconList[EFST_IDs.EFST_WZ_SIGHTBLASTER] = {
 		{"", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Alejar al enemigo que inflige el da√±o"
+			"Alejar al enemigo que inflige el daÒo"
 		},
 		{
 			"igual al ATQM del lanzador"
@@ -2940,7 +2940,7 @@ StateIconList[EFST_IDs.EFST_SHIELDSPELL_DEF] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Activar magia en funci√≥n del √≠ndice de defensa del escudo"
+			"Activar magia en funciÛn del Ìndice de defensa del escudo"
 		}
 	}
 }
@@ -2949,12 +2949,12 @@ StateIconList[EFST_IDs.EFST_TUNAPARTY] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Banquete de at√∫n",
+			"Banquete de at˙n",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Da√±o de defensa"
+			"DaÒo de defensa"
 		}
 	}
 }
@@ -2978,10 +2978,10 @@ StateIconList[EFST_IDs.EFST_2011RWC_SCROLL] = {
 			"Disminuir el tiempo de lanzamiento variable"
 		},
 		{
-			"Cuando sucede un ataque f√≠sico o m√°gico,"
+			"Cuando sucede un ataque fÌsico o m·gico,"
 		},
 		{
-			"Activar la mejora de la concentraci√≥n"
+			"Activar la mejora de la concentraciÛn"
 		},
 		{
 			"en forma aleatoria"
@@ -2998,7 +2998,7 @@ StateIconList[EFST_IDs.EFST_SHRIMP] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"ATQ, ATQM +10¬†%"
+			"ATQ, ATQM +10†%"
 		}
 	}
 }
@@ -3013,7 +3013,7 @@ StateIconList[EFST_IDs.EFST_CLOAKINGEXCEED] = {
 			"No puede ser detectado por monstruos Insecto y Demonio"
 		},
 		{
-			"No se libera hasta que se recibe el da√±o de cierto n√∫mero de golpes"
+			"No se libera hasta que se recibe el daÒo de cierto n˙mero de golpes"
 		},
 		{
 			"Aumentar la velocidad de movimiento"
@@ -3030,7 +3030,7 @@ StateIconList[EFST_IDs.EFST_SHIELDSPELL_MDEF] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Activar cierta magia en funci√≥n de la DEFM del escudo"
+			"Activar cierta magia en funciÛn de la DEFM del escudo"
 		}
 	}
 }
@@ -3090,7 +3090,7 @@ StateIconList[EFST_IDs.EFST_SHIELDSPELL_REF] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Activar cierta magia en funci√≥n del nivel de refinamiento del escudo"
+			"Activar cierta magia en funciÛn del nivel de refinamiento del escudo"
 		}
 	}
 }
@@ -3117,7 +3117,7 @@ StateIconList[EFST_IDs.EFST_BODYPAINT] = {
 			"Liberar estado de camuflaje"
 		},
 		{
-			"Tener la oportunidad de crear la maldici√≥n de Oscuridad"
+			"Tener la oportunidad de crear la maldiciÛn de Oscuridad"
 		},
 		{
 			"Tener la oportunidad de disminuir VELA"
@@ -3134,7 +3134,7 @@ StateIconList[EFST_IDs.EFST_THORNS_TRAP] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Recibir da√±o poco a poco"
+			"Recibir daÒo poco a poco"
 		}
 	}
 }
@@ -3165,7 +3165,7 @@ StateIconList[EFST_IDs.EFST_RG_CCONFINE_M] = {
 		{"", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Inmovilizar al lanzador y a 1¬†enemigo"
+			"Inmovilizar al lanzador y a 1†enemigo"
 		},
 		{
 			"Aumentar EVA"
@@ -3185,10 +3185,10 @@ StateIconList[EFST_IDs.EFST_HELM_VERKANA] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Poder f√≠sico, de largo alcance, de ataque m√°gico -50¬†%"
+			"Poder fÌsico, de largo alcance, de ataque m·gico -50†%"
 		},
 		{
-			"Activa Escudo del Milenio, Nivel¬†1, al recibir un ataque f√≠sico cuerpo a cuerpo"
+			"Activa Escudo del Milenio, Nivel†1, al recibir un ataque fÌsico cuerpo a cuerpo"
 		}
 	}
 }
@@ -3207,18 +3207,18 @@ StateIconList[EFST_IDs.EFST_RENOVATIO] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Purificaci√≥n",
+			"PurificaciÛn",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Recuperar cierta cantidad de PV cada 5¬†seg."
+			"Recuperar cierta cantidad de PV cada 5†seg."
 		},
 		{
-			"Infligir cierto da√±o a monstruos Muertos vivientes"
+			"Infligir cierto daÒo a monstruos Muertos vivientes"
 		},
 		{
-			"seg√∫n el nivel del lanzador"
+			"seg˙n el nivel del lanzador"
 		}
 	}
 }
@@ -3232,7 +3232,7 @@ StateIconList[EFST_IDs.EFST_EXEEDBREAK] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar el da√±o en el siguiente ataque"
+			"Aumentar el daÒo en el siguiente ataque"
 		}
 	}
 }
@@ -3281,10 +3281,10 @@ StateIconList[EFST_IDs.EFST_WEAPONBLOCKING] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Tener la oportunidad de evitar totalmente el da√±o"
+			"Tener la oportunidad de evitar totalmente el daÒo"
 		},
 		{
-			"de ataque f√≠sico cuerpo a cuerpo"
+			"de ataque fÌsico cuerpo a cuerpo"
 		}
 	}
 }
@@ -3309,21 +3309,21 @@ StateIconList[EFST_IDs.EFST_HELM_HAGALAS] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Refleja el 10¬†% del da√±o recibido por ataques f√≠sicos cuerpo a cuerpo"
+			"Refleja el 10†% del daÒo recibido por ataques fÌsicos cuerpo a cuerpo"
 		}
 	}
 }
 StateIconList[EFST_IDs.EFST_DOWNKICK_ON] = {
 	descript = {
 		{
-			"Postura de ca√≠da del tal√≥n",
+			"Postura de caÌda del talÛn",
 			COLOR_TITLE_BUFF
 		},
 		{
 			"Tener la oportunidad de entrar en"
 		},
 		{
-			"Postura de ca√≠da del tal√≥n cuando el lanzador acierta a un objetivo"
+			"Postura de caÌda del talÛn cuando el lanzador acierta a un objetivo"
 		}
 	}
 }
@@ -3332,7 +3332,7 @@ StateIconList[EFST_IDs.EFST_SUN_COMFORT] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Protecci√≥n solar",
+			"ProtecciÛn solar",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -3348,7 +3348,7 @@ StateIconList[EFST_IDs.EFST_RG_CCONFINE_S] = {
 		{"", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Inmovilizar al lanzador y a 1¬†enemigo"
+			"Inmovilizar al lanzador y a 1†enemigo"
 		},
 		{
 			"Aumentar EVA"
@@ -3365,7 +3365,7 @@ StateIconList[EFST_IDs.EFST_HELM_ISIA] = {
 		{"Runa Isa", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Recupera 500¬†PV cada 10¬†segundos"
+			"Recupera 500†PV cada 10†segundos"
 		}
 	}
 }
@@ -3389,7 +3389,7 @@ StateIconList[EFST_IDs.EFST_FLOWER_LEAF] = {
 			"Aumentar EVA"
 		},
 		{
-			"Aumentar Evasi√≥n perfecta"
+			"Aumentar EvasiÛn perfecta"
 		}
 	}
 }
@@ -3400,7 +3400,7 @@ StateIconList[EFST_IDs.EFST_PRESTIGE] = {
 		{"Prestigio", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Aplicar √≠ndice de EVA m√°gica seg√∫n las estad√≠sticas del lanzador"
+			"Aplicar Ìndice de EVA m·gica seg˙n las estadÌsticas del lanzador"
 		},
 		{
 			"Aumentar DEF"
@@ -3414,7 +3414,7 @@ StateIconList[EFST_IDs.EFST_HELM_ASIR] = {
 		{"Runa Asir", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"ATQ +10, VELA +10¬†%"
+			"ATQ +10, VELA +10†%"
 		}
 	}
 }
@@ -3442,10 +3442,10 @@ StateIconList[EFST_IDs.EFST_ANCILLA] = {
 		{"Ancilla", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar la curaci√≥n un 15¬†%."
+			"Aumentar la curaciÛn un 15†%."
 		},
 		{
-			"Aumentar un 30¬†% la recuperaci√≥n de PM"
+			"Aumentar un 30†% la recuperaciÛn de PM"
 		},
 		{
 			"Adoramus pasa a ser propiedad Neutral"
@@ -3459,7 +3459,7 @@ StateIconList[EFST_IDs.EFST_HELM_URJ] = {
 		{"Runa Urj", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Recupera 40¬†PM cada 10¬†segundos"
+			"Recupera 40†PM cada 10†segundos"
 		}
 	}
 }
@@ -3487,7 +3487,7 @@ StateIconList[EFST_IDs.EFST_INVISIBILITY] = {
 			"Capaz de atacar en estado invisible"
 		},
 		{
-			"Cambiar propiedad ATQ por propiedad Fantasma de nivel¬†1 continuamente"
+			"Cambiar propiedad ATQ por propiedad Fantasma de nivel†1 continuamente"
 		},
 		{
 			"Consumir continuamente PM continuamente"
@@ -3522,12 +3522,12 @@ StateIconList[EFST_IDs.EFST_DEADLYINFECT] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Infecci√≥n mortal",
+			"InfecciÛn mortal",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Infectar todo tipo de estado de maldici√≥n"
+			"Infectar todo tipo de estado de maldiciÛn"
 		},
 		{
 			"a los monstruos que atacas"
@@ -3547,7 +3547,7 @@ StateIconList[EFST_IDs.EFST_DORAM_BUF_01] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Recupera 10¬†PVM cada 10¬†seg. durante 3¬†minutos"
+			"Recupera 10†PVM cada 10†seg. durante 3†minutos"
 		}
 	}
 }
@@ -3559,7 +3559,7 @@ StateIconList[EFST_IDs.EFST_DORAM_BUF_02] = {
 		{"Basil", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Recupera 5¬†PMM cada 10¬†seg. durante 3¬†minutos"
+			"Recupera 5†PMM cada 10†seg. durante 3†minutos"
 		}
 	}
 }
@@ -3571,7 +3571,7 @@ StateIconList[EFST_IDs.EFST_GLASTHEIM_STATE] = {
 			"Todas las capacidades"
 		},
 		{
-			"aumentaron dr√°sticamente."
+			"aumentaron dr·sticamente."
 		},
 		{"%s", COLOR_TIME}
 	}
@@ -3583,7 +3583,7 @@ StateIconList[EFST_IDs.EFST_BANDING] = {
 		{"Banda", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar armadura f√≠sica"
+			"Aumentar armadura fÌsica"
 		}
 	}
 }
@@ -3603,10 +3603,10 @@ StateIconList[EFST_IDs.EFST_TURNKICK_ON] = {
 			COLOR_TITLE_BUFF
 		},
 		{
-			"Tener la oportunidad de entrar autom√°ticamente en"
+			"Tener la oportunidad de entrar autom·ticamente en"
 		},
 		{
-			"Postura de patada remolino cuando el lanzador golpea con √©xito a un objetivo"
+			"Postura de patada remolino cuando el lanzador golpea con Èxito a un objetivo"
 		}
 	}
 }
@@ -3616,7 +3616,7 @@ StateIconList[EFST_IDs.EFST_GS_MADNESSCANCEL] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"√öltima l√≠nea",
+			"⁄ltima lÌnea",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -3627,7 +3627,7 @@ StateIconList[EFST_IDs.EFST_GS_MADNESSCANCEL] = {
 			"Aumentar VELA"
 		},
 		{
-			"Inmovilizaci√≥n"
+			"InmovilizaciÛn"
 		}
 	}
 }
@@ -3636,12 +3636,12 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_RECEIVEITEM] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Aumento de la probabilidad de aparici√≥n",
+			"Aumento de la probabilidad de apariciÛn",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumento de la probabilidad de aparici√≥n de objetos."
+			"Aumento de la probabilidad de apariciÛn de objetos."
 		}
 	}
 }
@@ -3651,7 +3651,7 @@ StateIconList[EFST_IDs.EFST_MANDRAGORA] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Rugido de Mandr√°gora",
+			"Rugido de Mandr·gora",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
@@ -3673,7 +3673,7 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSJOBEXP] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumento del √≠ndice de EXP de clase."
+			"Aumento del Ìndice de EXP de clase."
 		}
 	}
 }
@@ -3696,7 +3696,7 @@ StateIconList[EFST_IDs.EFST_INSPIRATION] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Inspiraci√≥n",
+			"InspiraciÛn",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -3719,12 +3719,12 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_DEADPENALTY] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Reducci√≥n de la pena de muerte.",
+			"ReducciÛn de la pena de muerte.",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Reducci√≥n de la pena de muerte."
+			"ReducciÛn de la pena de muerte."
 		}
 	}
 }
@@ -3734,12 +3734,12 @@ StateIconList[EFST_IDs.EFST_GS_GATLINGFEVER] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Gatling Frenes√≠",
+			"Gatling FrenesÌ",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar VELA, Da√±o"
+			"Aumentar VELA, DaÒo"
 		},
 		{
 			"Disminuir EVA, Velocidad de movimiento"
@@ -3751,12 +3751,12 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_ADDSTOREITEMCOUNT] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Expansi√≥n del dep√≥sito.",
+			"ExpansiÛn del depÛsito.",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumento del n√∫mero de dep√≥sitos."
+			"Aumento del n˙mero de depÛsitos."
 		}
 	}
 }
@@ -3766,7 +3766,7 @@ StateIconList[EFST_IDs.EFST_ENERVATION] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Mascarada: Enervaci√≥n",
+			"Mascarada: EnervaciÛn",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
@@ -3774,7 +3774,7 @@ StateIconList[EFST_IDs.EFST_ENERVATION] = {
 			"Disminuir ATQ"
 		},
 		{
-			"Se destruyen todas las Esferas de esp√≠ritus"
+			"Se destruyen todas las Esferas de espÌritus"
 		}
 	}
 }
@@ -3800,7 +3800,7 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSJOBEXP_2ND] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumento del √≠ndice de EXP de clase. (Buff de 1¬†mes)"
+			"Aumento del Ìndice de EXP de clase. (Buff de 1†mes)"
 		}
 	}
 }
@@ -3814,13 +3814,13 @@ StateIconList[EFST_IDs.EFST_LHZ_DUN_N2] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumento del da√±o a algunos monstruos del Lecho de honor."
+			"Aumento del daÒo a algunos monstruos del Lecho de honor."
 		},
 		{
-			"Lista: monstruos del Lecho de honor de clase Ac√≥lito y Comerciante."
+			"Lista: monstruos del Lecho de honor de clase AcÛlito y Comerciante."
 		},
 		{
-			"Recibir menos da√±o de algunos monstruos del Lecho de honor."
+			"Recibir menos daÒo de algunos monstruos del Lecho de honor."
 		},
 		{
 			"Lista: monstruos del Lecho de honor de clase Mago y Arquero."
@@ -3835,12 +3835,12 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_RECEIVEITEM_2ND] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Aumento de la probabilidad de aparici√≥n",
+			"Aumento de la probabilidad de apariciÛn",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar la probabilidad de aparici√≥n de objetos. (Buff de 1¬†mes)"
+			"Aumentar la probabilidad de apariciÛn de objetos. (Buff de 1†mes)"
 		}
 	}
 }
@@ -3849,18 +3849,18 @@ StateIconList[EFST_IDs.EFST_MAGICMUSHROOM] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Hongo m√°gico",
+			"Hongo m·gico",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Emotic√≥n de sonrisa"
+			"EmoticÛn de sonrisa"
 		},
 		{
-			"Lanzar habilidad aleatoria cada 4¬†seg."
+			"Lanzar habilidad aleatoria cada 4†seg."
 		},
 		{
-			"Perder cierta cantidad de PV cada 4¬†seg."
+			"Perder cierta cantidad de PV cada 4†seg."
 		}
 	}
 }
@@ -3869,12 +3869,12 @@ StateIconList[EFST_IDs.EFST_GROOMY] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Mascarada: Sombr√≠o (m√°scara: Depresi√≥n)",
+			"Mascarada: SombrÌo (m·scara: DepresiÛn)",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Velocidad de ataque, disminuci√≥n de la precisi√≥n"
+			"Velocidad de ataque, disminuciÛn de la precisiÛn"
 		},
 		{
 			"Cuando se evita, se libera Familiar"
@@ -3940,7 +3940,7 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSEXP] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumento del √≠ndice de EXP base."
+			"Aumento del Ìndice de EXP base."
 		}
 	}
 }
@@ -3968,16 +3968,16 @@ StateIconList[EFST_IDs.EFST_RAISINGDRAGON] = {
 			COLOR_TITLE_BUFF
 		},
 		{
-			"Aumentar el n√∫mero m√°ximo de Esferas"
+			"Aumentar el n˙mero m·ximo de Esferas"
 		},
 		{
-			"Aumentar PV y PM m√°ximos"
+			"Aumentar PV y PM m·ximos"
 		},
 		{
 			"Aumentar VELA"
 		},
 		{
-			"Mantener explosi√≥n cr√≠tica"
+			"Mantener explosiÛn crÌtica"
 		}
 	}
 }
@@ -3991,7 +3991,7 @@ StateIconList[EFST_IDs.EFST_PERIOD_PLUSEXP_2ND] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar la cantidad de EXP adquirida en un 50¬†%"
+			"Aumentar la cantidad de EXP adquirida en un 50†%"
 		}
 	}
 }
@@ -4000,12 +4000,12 @@ StateIconList[EFST_IDs.EFST_SOUND_OF_DESTRUCTION] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Canci√≥n de la destrucci√≥n",
+			"CanciÛn de la destrucciÛn",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Recibir todo el da√±o dos veces."
+			"Recibir todo el daÒo dos veces."
 		}
 	}
 }
@@ -4015,12 +4015,12 @@ StateIconList[EFST_IDs.EFST_PERIOD_RECEIVEITEM_2ND] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Aumentar el √≠ndice de ca√≠da de objetos",
+			"Aumentar el Ìndice de caÌda de objetos",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar el √≠ndice de ca√≠da de objetos en un 50¬†%"
+			"Aumentar el Ìndice de caÌda de objetos en un 50†%"
 		},
 		{
 			"de los monstruos"
@@ -4032,7 +4032,7 @@ StateIconList[EFST_IDs.EFST_ENSEMBLEFATIGUE] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Fatiga despu√©s del d√∫o",
+			"Fatiga despuÈs del d˙o",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
@@ -4043,7 +4043,7 @@ StateIconList[EFST_IDs.EFST_ENSEMBLEFATIGUE] = {
 			"No se puede utilizar una habilidad."
 		},
 		{
-			"Reducir el movimiento, VELA en un 30¬†%."
+			"Reducir el movimiento, VELA en un 30†%."
 		}
 	}
 }
@@ -4052,15 +4052,15 @@ StateIconList[EFST_IDs.EFST_ADD_ATK_DAMAGE] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Activaci√≥n de la Hierba roja",
+			"ActivaciÛn de la Hierba roja",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar un 15¬†% el da√±o f√≠sico cuerpo a cuerpo"
+			"Aumentar un 15†% el daÒo fÌsico cuerpo a cuerpo"
 		},
 		{
-			"Aumentar el da√±o f√≠sico a distancia en un 15"
+			"Aumentar el daÒo fÌsico a distancia en un 15"
 		}
 	}
 }
@@ -4070,12 +4070,12 @@ StateIconList[EFST_IDs.EFST_IGNORANCE] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Mascarada: Ignorancia (m√°scara: Ignorancia)",
+			"Mascarada: Ignorancia (m·scara: Ignorancia)",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Cuando se evita, p√©rdida de cierta cantidad de PM"
+			"Cuando se evita, pÈrdida de cierta cantidad de PM"
 		},
 		{
 			"Incapaz de usar Habilidad, Magia"
@@ -4087,12 +4087,12 @@ StateIconList[EFST_IDs.EFST_REF_T_POTION] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Poci√≥n Ref T",
+			"PociÛn Ref T",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Reducir el da√±o por reflejo recibido un 100¬†%"
+			"Reducir el daÒo por reflejo recibido un 100†%"
 		}
 	}
 }
@@ -4101,15 +4101,15 @@ StateIconList[EFST_IDs.EFST_HELPANGEL] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Ayudar a √Ångel",
+			"Ayudar a ¡ngel",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Recupera 1000¬†PV por segundo"
+			"Recupera 1000†PV por segundo"
 		},
 		{
-			"Recupera 350¬†PM por segundo"
+			"Recupera 350†PM por segundo"
 		}
 	}
 }
@@ -4138,7 +4138,7 @@ StateIconList[EFST_IDs.EFST_HISS] = {
 		{"Silbido", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Evasi√≥n perfect +50."
+			"EvasiÛn perfect +50."
 		},
 		{
 			"Mayor velocidad de movimiento."
@@ -4150,11 +4150,11 @@ StateIconList[EFST_IDs.EFST_SWEETSFAIR_ATK] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"¬°¬°S√© fuerte!!",
+			"°°SÈ fuerte!!",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
-		{"ATQ +7¬†%"}
+		{"ATQ +7†%"}
 	}
 }
 StateIconList[EFST_IDs.EFST_OBLIVIONCURSE] = {
@@ -4162,7 +4162,7 @@ StateIconList[EFST_IDs.EFST_OBLIVIONCURSE] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"La maldici√≥n del olvido",
+			"La maldiciÛn del olvido",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
@@ -4176,12 +4176,12 @@ StateIconList[EFST_IDs.EFST_LAZINESS] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Mascarada: Pereza (m√°scara: Pereza)",
+			"Mascarada: Pereza (m·scara: Pereza)",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Velocidad de movimiento, evasi√≥n reducida"
+			"Velocidad de movimiento, evasiÛn reducida"
 		},
 		{
 			"Aumentar el tiempo de lanzamiento"
@@ -4196,7 +4196,7 @@ StateIconList[EFST_IDs.EFST_STOMACHACHE] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Dolor de est√≥mago",
+			"Dolor de estÛmago",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -4207,10 +4207,10 @@ StateIconList[EFST_IDs.EFST_STOMACHACHE] = {
 			"Disminuir la velocidad de movimiento"
 		},
 		{
-			"Se obliga a sentarse una vez cada 10¬†seg."
+			"Se obliga a sentarse una vez cada 10†seg."
 		},
 		{
-			"Consumir cierta cantidad de PM durante 10¬†seg."
+			"Consumir cierta cantidad de PM durante 10†seg."
 		}
 	}
 }
@@ -4219,15 +4219,15 @@ StateIconList[EFST_IDs.EFST_VITALITYACTIVATION] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Piedra r√∫nica Isia: Activaci√≥n de la vitalidad",
+			"Piedra r˙nica Isia: ActivaciÛn de la vitalidad",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar recuperaci√≥n de PV"
+			"Aumentar recuperaciÛn de PV"
 		},
 		{
-			"Reducir el da√±o por reflejo f√≠sico cuerpo a cuerpo recibido"
+			"Reducir el daÒo por reflejo fÌsico cuerpo a cuerpo recibido"
 		}
 	}
 }
@@ -4241,10 +4241,10 @@ StateIconList[EFST_IDs.EFST_AROMA_OIL] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Da√±o f√≠sico/m√°gico -10¬†%"
+			"DaÒo fÌsico/m·gico -10†%"
 		},
 		{
-			"de monstruos grandes de la mazmorra del Ba√±o de meditaci√≥n"
+			"de monstruos grandes de la mazmorra del BaÒo de meditaciÛn"
 		}
 	}
 }
@@ -4287,12 +4287,12 @@ StateIconList[EFST_IDs.EFST_FLOWER_LEAF3] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Poder F√≠sico",
+			"Poder FÌsico",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Da√±o F√≠sico +5%."
+			"DaÒo FÌsico +5%."
 		}
 	}
 }
@@ -4301,13 +4301,13 @@ StateIconList[EFST_IDs.EFST_LIGHTNINGWALK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{"Rel√°mpago", COLOR_TITLE_BUFF},
+		{"Rel·mpago", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
 			"Tener la oportunidad de evitar un"
 		},
 		{
-			"ataque f√≠sico, m√°gico a larga distancia"
+			"ataque fÌsico, m·gico a larga distancia"
 		},
 		{
 			"y moverse justo delante del enemigo"
@@ -4338,16 +4338,16 @@ StateIconList[EFST_IDs.EFST_DODGE_ON] = {
 			"Postura preparada para patada voladora"
 		},
 		{
-			"Tener la oportunidad de bloquear ataques f√≠sicos"
+			"Tener la oportunidad de bloquear ataques fÌsicos"
 		},
 		{
-			"o m√°gicos a larga distancia"
+			"o m·gicos a larga distancia"
 		},
 		{
-			"Cuando el lanzador est√° en Impulso"
+			"Cuando el lanzador est· en Impulso"
 		},
 		{
-			"tambi√©n puede bloquear ataques cuerpo a cuerpo"
+			"tambiÈn puede bloquear ataques cuerpo a cuerpo"
 		}
 	}
 }
@@ -4362,7 +4362,7 @@ StateIconList[EFST_IDs.EFST_NJ_BUNSINJYUTSU] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Evitar los ataques f√≠sicos de corto y largo alcance"
+			"Evitar los ataques fÌsicos de corto y largo alcance"
 		},
 		{
 			"ATQM imposible de defender"
@@ -4374,12 +4374,12 @@ StateIconList[EFST_IDs.EFST_HOMUN_TIME] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Invocar hom√∫nculo",
+			"Invocar hom˙nculo",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Hom√∫nculo activado"
+			"Hom˙nculo activado"
 		}
 	}
 }
@@ -4388,7 +4388,7 @@ StateIconList[EFST_IDs.EFST_CRITICALWOUND] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Herida cr√≠tica",
+			"Herida crÌtica",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
@@ -4409,10 +4409,10 @@ StateIconList[EFST_IDs.EFST_STONE_WALL] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar armadura f√≠sica"
+			"Aumentar armadura fÌsica"
 		},
 		{
-			"Aumentar armadura m√°gica"
+			"Aumentar armadura m·gica"
 		}
 	}
 }
@@ -4421,12 +4421,12 @@ StateIconList[EFST_IDs.EFST_MAGIC_POISON] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Veneno m√°gico",
+			"Veneno m·gico",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Reducir la resistencia contra todos los ataques de tipo propiedad en un 50¬†%"
+			"Reducir la resistencia contra todos los ataques de tipo propiedad en un 50†%"
 		}
 	}
 }
@@ -4458,7 +4458,7 @@ StateIconList[EFST_IDs.EFST_BLOOD_SUCKER] = {
 			"Agrega una posibilidad de drenar PV"
 		},
 		{
-			"durante el ataque f√≠sico"
+			"durante el ataque fÌsico"
 		}
 	}
 }
@@ -4501,15 +4501,15 @@ StateIconList[EFST_IDs.EFST_UNLUCKY] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Mascarada: Mala suerte (m√°scara: Mala suerte)",
+			"Mascarada: Mala suerte (m·scara: Mala suerte)",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Disminuci√≥n de probabilidad de da√±o cr√≠tico"
+			"DisminuciÛn de probabilidad de daÒo crÌtico"
 		},
 		{
-			"Disminuci√≥n de probabilidad de evasi√≥n completa"
+			"DisminuciÛn de probabilidad de evasiÛn completa"
 		},
 		{
 			"Al usar la habilidad, se consume una cierta cantidad de zeny"
@@ -4524,12 +4524,12 @@ StateIconList[EFST_IDs.EFST_SPORE_EXPLOSION_DEBUFF] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Explosi√≥n de espora",
+			"ExplosiÛn de espora",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar el da√±o f√≠sico a distancia recibido"
+			"Aumentar el daÒo fÌsico a distancia recibido"
 		}
 	}
 }
@@ -4552,7 +4552,7 @@ StateIconList[EFST_IDs.EFST_GEFFEN_MAGIC1] = {
 	posTimeLimitStr = 3,
 	descript = {
 		{
-			"Agregar da√±o P"
+			"Agregar daÒo P"
 		},
 		{
 			"infligido a los monstruos Humanos"
@@ -4584,7 +4584,7 @@ StateIconList[EFST_IDs.EFST_SHIELDSPELL] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Efecto de Escudo m√°gico"
+			"Efecto de Escudo m·gico"
 		}
 	}
 }
@@ -4598,7 +4598,7 @@ StateIconList[EFST_IDs.EFST_OVERBRANDREADY] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar el da√±o de Marca de blanco"
+			"Aumentar el daÒo de Marca de blanco"
 		}
 	}
 }
@@ -4607,7 +4607,7 @@ StateIconList[EFST_IDs.EFST_GEFFEN_MAGIC2] = {
 	posTimeLimitStr = 3,
 	descript = {
 		{
-			"Agregar da√±o M"
+			"Agregar daÒo M"
 		},
 		{
 			"infligido a los monstruos Humanos"
@@ -4625,10 +4625,10 @@ StateIconList[EFST_IDs.EFST_POISONINGWEAPON] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar el da√±o f√≠sico cuerpo a cuerpo"
+			"Aumentar el daÒo fÌsico cuerpo a cuerpo"
 		},
 		{
-			"Otorga un buff seg√∫n el veneno usado"
+			"Otorga un buff seg˙n el veneno usado"
 		},
 		{
 			"Envenena a un objetivo con el veneno encantado al atacar"
@@ -4640,7 +4640,7 @@ StateIconList[EFST_IDs.EFST_PROMOTE_HEALTH_RESERCH] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Poci√≥n de aumento de PV",
+			"PociÛn de aumento de PV",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -4653,13 +4653,13 @@ StateIconList[EFST_IDs.EFST_NEEDLE_OF_PARALYZE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{"Par√°lisis", COLOR_TITLE_DEBUFF},
+		{"Par·lisis", COLOR_TITLE_DEBUFF},
 		{"%s", COLOR_TIME},
 		{
 			"No puede moverse"
 		},
 		{
-			"Reducir la armadura f√≠sica y m√°gica"
+			"Reducir la armadura fÌsica y m·gica"
 		}
 	}
 }
@@ -4668,7 +4668,7 @@ StateIconList[EFST_IDs.EFST_GEFFEN_MAGIC3] = {
 	posTimeLimitStr = 3,
 	descript = {
 		{
-			"Reducir el da√±o"
+			"Reducir el daÒo"
 		},
 		{
 			"recibido de monstruos Humanos"
@@ -4681,15 +4681,15 @@ StateIconList[EFST_IDs.EFST_BATH_FOAM_C] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Sal de ba√±o¬†C",
+			"Sal de baÒo†C",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Da√±o f√≠sico/m√°gico +15¬†%"
+			"DaÒo fÌsico/m·gico +15†%"
 		},
 		{
-			"sobre los monstruos grandes de la mazmorra del Ba√±o de meditaci√≥n"
+			"sobre los monstruos grandes de la mazmorra del BaÒo de meditaciÛn"
 		}
 	}
 }
@@ -4698,15 +4698,15 @@ StateIconList[EFST_IDs.EFST_BATH_FOAM_B] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Sal de ba√±o¬†B",
+			"Sal de baÒo†B",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Da√±o f√≠sico/m√°gico +10¬†%"
+			"DaÒo fÌsico/m·gico +10†%"
 		},
 		{
-			"sobre los monstruos grandes de la mazmorra del Ba√±o de meditaci√≥n"
+			"sobre los monstruos grandes de la mazmorra del BaÒo de meditaciÛn"
 		}
 	}
 }
@@ -4714,13 +4714,13 @@ StateIconList[EFST_IDs.EFST_PAIN_KILLER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{"Analg√©sico", COLOR_TITLE_BUFF},
+		{"AnalgÈsico", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
 			"Quita el retraso de movimiento al recibir ataques"
 		},
 		{
-			"Reducir el da√±o entrante"
+			"Reducir el daÒo entrante"
 		}
 	}
 }
@@ -4729,7 +4729,7 @@ StateIconList[EFST_IDs.EFST_QUEST_BUFF1] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Acumulando energ√≠a",
+			"Acumulando energÌa",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -4743,7 +4743,7 @@ StateIconList[EFST_IDs.EFST_CURSEDCIRCLE_TARGET] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"C√çRCULO MALDITO",
+			"CÕRCULO MALDITO",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
@@ -4758,7 +4758,7 @@ StateIconList[EFST_IDs.EFST_ENERGY_DRINK_RESERCH] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Poci√≥n de aumento de PM",
+			"PociÛn de aumento de PM",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -4772,7 +4772,7 @@ StateIconList[EFST_IDs.EFST_STRUP] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Aceleraci√≥n",
+			"AceleraciÛn",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -4783,7 +4783,7 @@ StateIconList[EFST_IDs.EFST_STRUP] = {
 			"Cuando no se equipa ninguna arma"
 		},
 		{
-			"aumenta el ATQ seg√∫n el nivel de Aceleraci√≥n"
+			"aumenta el ATQ seg˙n el nivel de AceleraciÛn"
 		}
 	}
 }
@@ -4792,7 +4792,7 @@ StateIconList[EFST_IDs.EFST_QUEST_BUFF2] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Acumulando energ√≠a",
+			"Acumulando energÌa",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -4806,18 +4806,18 @@ StateIconList[EFST_IDs.EFST_GS_ADJUSTMENT] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"P√°nico de pistolero",
+			"P·nico de pistolero",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Disminuir la precisi√≥n"
+			"Disminuir la precisiÛn"
 		},
 		{
 			"Aumentar EVA"
 		},
 		{
-			"Disminuir el da√±o de los ataques f√≠sicos a distancia"
+			"Disminuir el daÒo de los ataques fÌsicos a distancia"
 		}
 	}
 }
@@ -4836,7 +4836,7 @@ StateIconList[EFST_IDs.EFST_VITALIZE_POTION] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Poci√≥n vitalizadora",
+			"PociÛn vitalizadora",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -4844,7 +4844,7 @@ StateIconList[EFST_IDs.EFST_VITALIZE_POTION] = {
 			"Aumentar ATQ, ATQM"
 		},
 		{
-			"Aumentar los efectos de la curaci√≥n y los objetos curativos"
+			"Aumentar los efectos de la curaciÛn y los objetos curativos"
 		}
 	}
 }
@@ -4853,7 +4853,7 @@ StateIconList[EFST_IDs.EFST_QUEST_BUFF3] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Acumulando energ√≠a",
+			"Acumulando energÌa",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -4867,12 +4867,12 @@ StateIconList[EFST_IDs.EFST_WEAKNESS] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Mascarada: Debilidad (m√°scara: Debilidad)",
+			"Mascarada: Debilidad (m·scara: Debilidad)",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Disminuci√≥n de cierta cantidad de PVM"
+			"DisminuciÛn de cierta cantidad de PVM"
 		},
 		{
 			"Cuando se evade, se le quitan el arma y el escudo"
@@ -4887,12 +4887,12 @@ StateIconList[EFST_IDs.EFST_EXTRACT_WHITE_POTION_Z] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Poci√≥n blanca enriquecida",
+			"PociÛn blanca enriquecida",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumenta la velocidad de recuperaci√≥n natural de PV"
+			"Aumenta la velocidad de recuperaciÛn natural de PV"
 		}
 	}
 }
@@ -4906,10 +4906,10 @@ StateIconList[EFST_IDs.EFST_LIGHT_OF_REGENE] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Cuando fallece el due√±o"
+			"Cuando fallece el dueÒo"
 		},
 		{
-			"Cuando Aira muere, el due√±o revive"
+			"Cuando Aira muere, el dueÒo revive"
 		}
 	}
 }
@@ -4918,15 +4918,15 @@ StateIconList[EFST_IDs.EFST_BATH_FOAM_A] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Sal de ba√±o¬†A",
+			"Sal de baÒo†A",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Da√±o f√≠sico/m√°gico +5¬†%"
+			"DaÒo fÌsico/m·gico +5†%"
 		},
 		{
-			"sobre los monstruos grandes de la mazmorra del Ba√±o de meditaci√≥n"
+			"sobre los monstruos grandes de la mazmorra del BaÒo de meditaciÛn"
 		}
 	}
 }
@@ -4937,10 +4937,10 @@ StateIconList[EFST_IDs.EFST_CR_SHRINK] = {
 		{"Encoger", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Al defender con la habilidad Guardia autom√°tica"
+			"Al defender con la habilidad Guardia autom·tica"
 		},
 		{
-			"Aturdir con anomal√≠a de estado seg√∫n probabilidad"
+			"Aturdir con anomalÌa de estado seg˙n probabilidad"
 		}
 	}
 }
@@ -4949,11 +4949,11 @@ StateIconList[EFST_IDs.EFST_EP16_2_BUFF_SC] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Crear poci√≥n SC",
+			"Crear pociÛn SC",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
-		{"CR√çT +30"}
+		{"CRÕT +30"}
 	}
 }
 StateIconList[EFST_IDs.EFST_PROTECT_MDEF] = {
@@ -4961,7 +4961,7 @@ StateIconList[EFST_IDs.EFST_PROTECT_MDEF] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Poci√≥n DEFM",
+			"PociÛn DEFM",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -4980,7 +4980,7 @@ StateIconList[EFST_IDs.EFST_RECOGNIZEDSPELL] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Atacar con el m√°ximo de ATQM"
+			"Atacar con el m·ximo de ATQM"
 		},
 		{
 			"Aumentar el consumo de PM"
@@ -4996,10 +4996,10 @@ StateIconList[EFST_IDs.EFST_CRESCENTELBOW] = {
 			COLOR_TITLE_BUFF
 		},
 		{
-			"Infligir da√±o al enemigo derrib√°ndolo"
+			"Infligir daÒo al enemigo derrib·ndolo"
 		},
 		{
-			"Recibir parte del da√±o que este le inflige al lanzador"
+			"Recibir parte del daÒo que este le inflige al lanzador"
 		}
 	}
 }
@@ -5010,7 +5010,7 @@ StateIconList[EFST_IDs.EFST_VITATA_500] = {
 		{"Vitata500", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Aumenta la velocidad de recuperaci√≥n natural de PM"
+			"Aumenta la velocidad de recuperaciÛn natural de PM"
 		},
 		{
 			"Aumentar PMM"
@@ -5032,24 +5032,24 @@ StateIconList[EFST_IDs.EFST_LUXANIMA] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Piedra r√∫nica Lux Anima: Lux Anima",
+			"Piedra r˙nica Lux Anima: Lux Anima",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Al realizar ataques f√≠sicos cuerpo a cuerpo normales, existe una probabilidad"
+			"Al realizar ataques fÌsicos cuerpo a cuerpo normales, existe una probabilidad"
 		},
 		{
-			"Activar R√°faga de tormentas, nivel 1"
+			"Activar R·faga de tormentas, nivel 1"
 		},
 		{
-			"Aumenta el da√±o f√≠sico contra enemigos de todos los tama√±os"
+			"Aumenta el daÒo fÌsico contra enemigos de todos los tamaÒos"
 		},
 		{
-			"Aumentar el da√±o cr√≠tico"
+			"Aumentar el daÒo crÌtico"
 		},
 		{
-			"Aumentar el da√±o f√≠sico cuerpo a cuerpo y a distancia"
+			"Aumentar el daÒo fÌsico cuerpo a cuerpo y a distancia"
 		}
 	}
 }
@@ -5058,12 +5058,12 @@ StateIconList[EFST_IDs.EFST_GS_ACCURACY] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Aumentar precisi√≥n",
+			"Aumentar precisiÛn",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar precisi√≥n"
+			"Aumentar precisiÛn"
 		},
 		{
 			"Aumentar DES"
@@ -5078,12 +5078,12 @@ StateIconList[EFST_IDs.EFST_GS_MAGICAL_BULLET] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Bala m√°gica",
+			"Bala m·gica",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumento del da√±o m√°gico"
+			"Aumento del daÒo m·gico"
 		}
 	}
 }
@@ -5092,7 +5092,7 @@ StateIconList[EFST_IDs.EFST_ODINS_POWER] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"El poder de Od√≠n",
+			"El poder de OdÌn",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -5131,7 +5131,7 @@ StateIconList[EFST_IDs.EFST_HELLS_PLANT_ARMOR] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Inflige da√±o f√≠sico cuerpo a cuerpo"
+			"Inflige daÒo fÌsico cuerpo a cuerpo"
 		},
 		{
 			"a objetivos cercanos"
@@ -5166,7 +5166,7 @@ StateIconList[EFST_IDs.EFST_GIANTGROWTH] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Piedra r√∫nica Turisus: Crecimiento gigante",
+			"Piedra r˙nica Turisus: Crecimiento gigante",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -5177,21 +5177,21 @@ StateIconList[EFST_IDs.EFST_GIANTGROWTH] = {
 			"Al atacar cuerpo a cuerpo"
 		},
 		{
-			"tener la oportunidad de causar un da√±o gigantesco"
+			"tener la oportunidad de causar un daÒo gigantesco"
 		},
 		{
-			"Aumentar el da√±o f√≠sico cuerpo a cuerpo"
+			"Aumentar el daÒo fÌsico cuerpo a cuerpo"
 		}
 	}
 }
 StateIconList[EFST_IDs.EFST_LOCKON_LASER] = {
 	descript = {
 		{
-			"Selecciona la ubicaci√≥n del bombardeo",
+			"Selecciona la ubicaciÛn del bombardeo",
 			COLOR_TITLE_DEBUFF
 		},
 		{
-			"Selecciona peri√≥dicamente un lugar de bombardeo."
+			"Selecciona periÛdicamente un lugar de bombardeo."
 		}
 	}
 }
@@ -5202,7 +5202,7 @@ StateIconList[EFST_IDs.EFST_LAUDARAMUS] = {
 		{"LAUDARAMUS", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar el da√±o cr√≠tico."
+			"Aumentar el daÒo crÌtico."
 		}
 	}
 }
@@ -5211,15 +5211,15 @@ StateIconList[EFST_IDs.EFST_S_LIFEPOTION] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Poci√≥n de vida peque√±a",
+			"PociÛn de vida pequeÒa",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Recuperar cierta cantidad de PV cada 5¬†seg."
+			"Recuperar cierta cantidad de PV cada 5†seg."
 		},
 		{
-			"No tiene efecto en la condici√≥n Berserk"
+			"No tiene efecto en la condiciÛn Berserk"
 		}
 	}
 }
@@ -5270,7 +5270,7 @@ StateIconList[EFST_IDs.EFST_ADRENALINE2] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"R√°faga de adrenalina avanzada",
+			"R·faga de adrenalina avanzada",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -5284,7 +5284,7 @@ StateIconList[EFST_IDs.EFST_SOULCURSE] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Maldici√≥n de alma",
+			"MaldiciÛn de alma",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -5298,12 +5298,12 @@ StateIconList[EFST_IDs.EFST_ADD_MATK_DAMAGE] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Activaci√≥n de la Hierba azul",
+			"ActivaciÛn de la Hierba azul",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar el da√±o m√°gico de todas las propiedades un 15¬†%"
+			"Aumentar el daÒo m·gico de todas las propiedades un 15†%"
 		}
 	}
 }
@@ -5322,12 +5322,12 @@ StateIconList[EFST_IDs.EFST_L_LIFEPOTION] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Poci√≥n de vida mediana",
+			"PociÛn de vida mediana",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Recuperar cierta cantidad de PV cada 4¬†seg."
+			"Recuperar cierta cantidad de PV cada 4†seg."
 		},
 		{
 			"Sin efecto en estado Berserk"
@@ -5346,7 +5346,7 @@ StateIconList[EFST_IDs.EFST_FRIGG_SONG] = {
 			"Aumento de PVM"
 		},
 		{
-			"recuperar ciertos PV cada 1¬†seg."
+			"recuperar ciertos PV cada 1†seg."
 		},
 		{"%s", COLOR_TIME}
 	}
@@ -5361,7 +5361,7 @@ StateIconList[EFST_IDs.EFST_ADAPTATION] = {
 			"Disminuir el consumo de PM"
 		},
 		{
-			"para habilidad de interpretaci√≥n, baile y d√∫o."
+			"para habilidad de interpretaciÛn, baile y d˙o."
 		}
 	}
 }
@@ -5372,10 +5372,10 @@ StateIconList[EFST_IDs.EFST_ASSUMPTIO_BUFF] = {
 		{"Assumptio", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Aumento de DEF f√≠sica"
+			"Aumento de DEF fÌsica"
 		},
 		{
-			"Aumentar el efecto de la habilidad de recuperaci√≥n"
+			"Aumentar el efecto de la habilidad de recuperaciÛn"
 		}
 	}
 }
@@ -5383,13 +5383,13 @@ StateIconList[EFST_IDs.EFST_BASILICA_BUFF] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{"Bas√≠lica", COLOR_TITLE_BUFF},
+		{"BasÌlica", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar da√±o m√°gico para propiedad Sagrado"
+			"Aumentar daÒo m·gico para propiedad Sagrado"
 		},
 		{
-			"Aumento de da√±o f√≠sico"
+			"Aumento de daÒo fÌsico"
 		},
 		{
 			"al atacar a monstruos Sombra y Muertos vivientes"
@@ -5405,10 +5405,10 @@ StateIconList[EFST_IDs.EFST_OFFERTORIUM] = {
 			COLOR_TITLE_BUFF
 		},
 		{
-			"La cantidad de curaci√≥n que utilices aumentar√° "
+			"La cantidad de curaciÛn que utilices aumentar· "
 		},
 		{
-			"La cantidad de PM consumidos para todas las habilidades aumentar√° "
+			"La cantidad de PM consumidos para todas las habilidades aumentar· "
 		},
 		{"%s", COLOR_TIME}
 	}
@@ -5423,7 +5423,7 @@ StateIconList[EFST_IDs.EFST_ASPD_POPCORN] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Tras retraso de habilidad -10¬†%"
+			"Tras retraso de habilidad -10†%"
 		}
 	}
 }
@@ -5436,7 +5436,7 @@ StateIconList[EFST_IDs.EFST_ATK_POPCORN] = {
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
-		{"ATQ +10¬†%"}
+		{"ATQ +10†%"}
 	}
 }
 StateIconList[EFST_IDs.EFST_CRITICALPERCENT] = {
@@ -5446,7 +5446,7 @@ StateIconList[EFST_IDs.EFST_CRITICALPERCENT] = {
 		{"Abrasivo", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar la probabilidad Cr√≠tica"
+			"Aumentar la probabilidad CrÌtica"
 		}
 	}
 }
@@ -5459,7 +5459,7 @@ StateIconList[EFST_IDs.EFST_TELEKINESIS_INTENSE] = {
 			COLOR_TITLE_BUFF
 		},
 		{
-			"El √≠ndice de ataque m√°gico de Telequinesis aumentar√° "
+			"El Ìndice de ataque m·gico de Telequinesis aumentar· "
 		},
 		{
 			"Disminuir el consumo de PM para la magia Telequinesis"
@@ -5584,12 +5584,12 @@ StateIconList[EFST_IDs.EFST_FLOWER_LEAF4] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Poder M√°gico",
+			"Poder M·gico",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Da√±o M√°gico +5%."
+			"DaÒo M·gico +5%."
 		}
 	}
 }
@@ -5604,7 +5604,7 @@ StateIconList[EFST_IDs.EFST_LIGHTOFSTAR] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumento del da√±o de Estrellas fugaces"
+			"Aumento del daÒo de Estrellas fugaces"
 		}
 	}
 }
@@ -5613,7 +5613,7 @@ StateIconList[EFST_IDs.EFST_FULL_THROTTLE] = {
 	posTimeLimitStr = 4,
 	descript = {
 		{
-			"VELOCIDAD M√ÅXIMA",
+			"VELOCIDAD M¡XIMA",
 			COLOR_TITLE_BUFF
 		},
 		{
@@ -5638,7 +5638,7 @@ StateIconList[EFST_IDs.EFST_SOULFAIRY] = {
 			"Aumento de ATQM"
 		},
 		{
-			"Disminuci√≥n del tiempo de lanzamiento variable"
+			"DisminuciÛn del tiempo de lanzamiento variable"
 		}
 	}
 }
@@ -5658,7 +5658,7 @@ StateIconList[EFST_IDs.EFST_ATKER_ASPD] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"S√∫per medicina",
+			"S˙per medicina",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -5666,7 +5666,7 @@ StateIconList[EFST_IDs.EFST_ATKER_ASPD] = {
 			"Aumento de PVM"
 		},
 		{
-			"Aumento de la recuperaci√≥n de PV"
+			"Aumento de la recuperaciÛn de PV"
 		}
 	}
 }
@@ -5675,12 +5675,12 @@ StateIconList[EFST_IDs.EFST_ACCELERATION] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Aceleraci√≥n",
+			"AceleraciÛn",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar la velocidad de movimiento de Meca M√°gico"
+			"Aumentar la velocidad de movimiento de Meca M·gico"
 		}
 	}
 }
@@ -5689,7 +5689,7 @@ StateIconList[EFST_IDs.EFST_GENTLETOUCH_ENERGYGAIN] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Toque suave - Aumento de energ√≠a",
+			"Toque suave - Aumento de energÌa",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -5697,10 +5697,10 @@ StateIconList[EFST_IDs.EFST_GENTLETOUCH_ENERGYGAIN] = {
 			"Al atacar cuerpo a cuerpo o recibir un ataque"
 		},
 		{
-			"Crear 1¬†Esfera de esp√≠ritus"
+			"Crear 1†Esfera de espÌritus"
 		},
 		{
-			"Aumentar el da√±o de Remate furioso, Combo de aplastamiento en cadena, Pu√±o glaciar"
+			"Aumentar el daÒo de Remate furioso, Combo de aplastamiento en cadena, PuÒo glaciar"
 		}
 	}
 }
@@ -5748,7 +5748,7 @@ StateIconList[EFST_IDs.EFST_LIGHTOFMOON] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumento del da√±o de Patada de luna llena"
+			"Aumento del daÒo de Patada de luna llena"
 		}
 	}
 }
@@ -5779,7 +5779,7 @@ StateIconList[EFST_IDs.EFST_HOVERING] = {
 		{"", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Resistente a trampas y otras magias espec√≠ficas de cada tierra"
+			"Resistente a trampas y otras magias especÌficas de cada tierra"
 		}
 	}
 }
@@ -5796,7 +5796,7 @@ StateIconList[EFST_IDs.EFST_GENTLETOUCH_CHANGE] = {
 			"Aumentar ATQ, VELA"
 		},
 		{
-			"Aumentar el da√±o de R√°faga de explosiones y Flecha pu√±o de acero"
+			"Aumentar el daÒo de R·faga de explosiones y Flecha puÒo de acero"
 		}
 	}
 }
@@ -5805,7 +5805,7 @@ StateIconList[EFST_IDs.EFST_VACUUM_EXTREME] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Vac√≠o extremo",
+			"VacÌo extremo",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
@@ -5813,7 +5813,7 @@ StateIconList[EFST_IDs.EFST_VACUUM_EXTREME] = {
 			"Eliminar cada objetivo dentro de la zona"
 		},
 		{
-			"Inmovilizaci√≥n"
+			"InmovilizaciÛn"
 		}
 	}
 }
@@ -5827,7 +5827,7 @@ StateIconList[EFST_IDs.EFST_UNIVERSESTANCE] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumento de todas las estad√≠sticas"
+			"Aumento de todas las estadÌsticas"
 		},
 		{
 			"Habilidades universales activadas"
@@ -5865,12 +5865,12 @@ StateIconList[EFST_IDs.EFST_EP16_2_BUFF_AC] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Crear poci√≥n AC",
+			"Crear pociÛn AC",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Lanzamiento variable -80¬†%"
+			"Lanzamiento variable -80†%"
 		}
 	}
 }
@@ -5879,7 +5879,7 @@ StateIconList[EFST_IDs.EFST_EP16_2_BUFF_SS] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Crear poci√≥n SS",
+			"Crear pociÛn SS",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -5899,7 +5899,7 @@ StateIconList[EFST_IDs.EFST_ATKER_MOVESPEED] = {
 			"Aumento de PMM"
 		},
 		{
-			"Aumento de la recuperaci√≥n de PM"
+			"Aumento de la recuperaciÛn de PM"
 		}
 	}
 }
@@ -5909,7 +5909,7 @@ StateIconList[EFST_IDs.EFST_BURNT] = {
 	descript = {
 		{"Quemadura", COLOR_TITLE_DEBUFF},
 		{
-			"Reducir el da√±o"
+			"Reducir el daÒo"
 		},
 		{
 			"de monstruos de Fuego"
@@ -5918,7 +5918,7 @@ StateIconList[EFST_IDs.EFST_BURNT] = {
 			"Reducir la tolerancia al Fuego"
 		},
 		{
-			"Da√±o constante por Fuego"
+			"DaÒo constante por Fuego"
 		},
 		{"%s", COLOR_TIME}
 	}
@@ -5936,16 +5936,16 @@ StateIconList[EFST_IDs.EFST_GENTLETOUCH_REVITALIZE] = {
 			"Aumentar PVM"
 		},
 		{
-			"Aumentar DEF f√≠sica"
+			"Aumentar DEF fÌsica"
 		},
 		{
-			"Aumentar la velocidad de recuperaci√≥n autom√°tica de PV"
+			"Aumentar la velocidad de recuperaciÛn autom·tica de PV"
 		},
 		{
 			"Recuperar PV mientras te mueves y atacas"
 		},
 		{
-			"Aumentar el da√±o de Rugido de le√≥n y Puerta de infierno"
+			"Aumentar el daÒo de Rugido de leÛn y Puerta de infierno"
 		}
 	}
 }
@@ -5988,11 +5988,11 @@ StateIconList[EFST_IDs.EFST_SWEETSFAIR_MATK] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"¬°¬°S√© inteligente!!",
+			"°°SÈ inteligente!!",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
-		{"ATQM +7¬†%"}
+		{"ATQM +7†%"}
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_LUK] = {
@@ -6010,7 +6010,7 @@ StateIconList[EFST_IDs.EFST_ATKER_BLOOD] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Poci√≥n de disminuci√≥n del consumo de PM",
+			"PociÛn de disminuciÛn del consumo de PM",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -6025,12 +6025,12 @@ StateIconList[EFST_IDs.EFST_ALL_STAT_DOWN] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Todas las estad√≠sticas reducidas",
+			"Todas las estadÌsticas reducidas",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Todas las estad√≠sticas reducidas."
+			"Todas las estadÌsticas reducidas."
 		}
 	}
 }
@@ -6039,7 +6039,7 @@ StateIconList[EFST_IDs.EFST_COCKTAIL_WARG_BLOOD] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"C√≥ctel de sangre de Warg",
+			"CÛctel de sangre de Warg",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -6080,10 +6080,10 @@ StateIconList[EFST_IDs.EFST_EXPIATIO] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{"Expiaci√≥n", COLOR_TITLE_BUFF},
+		{"ExpiaciÛn", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Oportunidad de ignorar el √≠ndice de defensa del objetivo"
+			"Oportunidad de ignorar el Ìndice de defensa del objetivo"
 		}
 	}
 }
@@ -6097,7 +6097,7 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSEXP_2ND] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumento del √≠ndice de EXP base. (Buff de 1¬†mes)"
+			"Aumento del Ìndice de EXP base. (Buff de 1†mes)"
 		}
 	}
 }
@@ -6106,7 +6106,7 @@ StateIconList[EFST_IDs.EFST_TARGET_BLOOD] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Poci√≥n de resistencia al estado anormal",
+			"PociÛn de resistencia al estado anormal",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -6114,10 +6114,10 @@ StateIconList[EFST_IDs.EFST_TARGET_BLOOD] = {
 			"Aumentar la resistencia contra el estado debajo"
 		},
 		{
-			"Aturdimiento, Congelaci√≥n, Maldici√≥n p√©trea, Sue√±o, Silencio"
+			"Aturdimiento, CongelaciÛn, MaldiciÛn pÈtrea, SueÒo, Silencio"
 		},
 		{
-			"Oscuridad, Maldici√≥n, Veneno, Sangrado, Confusi√≥n"
+			"Oscuridad, MaldiciÛn, Veneno, Sangrado, ConfusiÛn"
 		}
 	}
 }
@@ -6126,12 +6126,12 @@ StateIconList[EFST_IDs.EFST_UNLIMIT] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Sin l√≠mites",
+			"Sin lÌmites",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar el da√±o f√≠sico a distancia"
+			"Aumentar el daÒo fÌsico a distancia"
 		}
 	}
 }
@@ -6188,7 +6188,7 @@ StateIconList[EFST_IDs.EFST_DARKCROW] = {
 			COLOR_TITLE_DEBUFF
 		},
 		{
-			"Ampliar da√±o P a corta distancia"
+			"Ampliar daÒo P a corta distancia"
 		},
 		{"%s", COLOR_TIME}
 	}
@@ -6198,12 +6198,12 @@ StateIconList[EFST_IDs.EFST_PROTECTIONOFSHRIMP] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Bendici√≥n del camar√≥n",
+			"BendiciÛn del camarÛn",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumento de la recuperaci√≥n de PM"
+			"Aumento de la recuperaciÛn de PM"
 		}
 	}
 }
@@ -6238,7 +6238,7 @@ StateIconList[EFST_IDs.EFST_GROOMING] = {
 		{"Aseo", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Evasi√≥n +100."
+			"EvasiÛn +100."
 		}
 	}
 }
@@ -6247,7 +6247,7 @@ StateIconList[EFST_IDs.EFST_SYMPHONY_LOVE] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Sinfon√≠a del amante",
+			"SinfonÌa del amante",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -6261,7 +6261,7 @@ StateIconList[EFST_IDs.EFST_SIROMA_ICE_TEA] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"T√© helado de Siroma",
+			"TÈ helado de Siroma",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -6277,7 +6277,7 @@ StateIconList[EFST_IDs.EFST_SU_STOOP] = {
 		{"", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Reducci√≥n de da√±o"
+			"ReducciÛn de daÒo"
 		}
 	}
 }
@@ -6304,7 +6304,7 @@ StateIconList[EFST_IDs.EFST_EP16_DEF] = {
 			COLOR_TITLE_BUFF
 		},
 		{
-			"10¬†% de reducci√≥n de da√±o en las mazmorras de Sala de rituales e Invasi√≥n de Prontera"
+			"10†% de reducciÛn de daÒo en las mazmorras de Sala de rituales e InvasiÛn de Prontera"
 		},
 		{"%s", COLOR_TIME}
 	}
@@ -6330,10 +6330,10 @@ StateIconList[EFST_IDs.EFST_MAGMA_FLOW] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Al recibir da√±o"
+			"Al recibir daÒo"
 		},
 		{
-			"Posibilidad de erupci√≥n de magma del cuerpo"
+			"Posibilidad de erupciÛn de magma del cuerpo"
 		}
 	}
 }
@@ -6342,12 +6342,12 @@ StateIconList[EFST_IDs.EFST_PROTECT_DEF] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Poci√≥n de defensa f√≠sica",
+			"PociÛn de defensa fÌsica",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar la resistencia contra ATQ f√≠sico"
+			"Aumentar la resistencia contra ATQ fÌsico"
 		}
 	}
 }
@@ -6380,15 +6380,15 @@ StateIconList[EFST_IDs.EFST_GRANITIC_ARMOR] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Armadura gran√≠tica",
+			"Armadura granÌtica",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Reducci√≥n del da√±o para Deeter y el Due√±o"
+			"ReducciÛn del daÒo para Deeter y el DueÒo"
 		},
 		{
-			"PV consumidos al final de la duraci√≥n"
+			"PV consumidos al final de la duraciÛn"
 		}
 	}
 }
@@ -6402,7 +6402,7 @@ StateIconList[EFST_IDs.EFST_E_CHAIN] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Activar acci√≥n en cadena para oportunidad aleatoria"
+			"Activar acciÛn en cadena para oportunidad aleatoria"
 		}
 	}
 }
@@ -6423,7 +6423,7 @@ StateIconList[EFST_IDs.EFST_FOOD_BASICHIT] = {
 	descript = {
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar precisi√≥n"
+			"Aumentar precisiÛn"
 		}
 	}
 }
@@ -6432,7 +6432,7 @@ StateIconList[EFST_IDs.EFST_PYROCLASTIC] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Pirocl√°stico",
+			"Pirocl·stico",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -6454,7 +6454,7 @@ StateIconList[EFST_IDs.EFST_MVPCARD_TAOGUNKA] = {
 			"Aumento de PVM"
 		},
 		{
-			"Disminuci√≥n de DEF/DEFM"
+			"DisminuciÛn de DEF/DEFM"
 		}
 	}
 }
@@ -6493,13 +6493,13 @@ StateIconList[EFST_IDs.EFST_VOLCANIC_ASH] = {
 		{"Ceniza", COLOR_TITLE_DEBUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Se reduce la precisi√≥n"
+			"Se reduce la precisiÛn"
 		},
 		{
 			"Habilidad y magia fallan en oportunidad fija"
 		},
 		{
-			"Aumento del da√±o recibido por la propiedad Fuego"
+			"Aumento del daÒo recibido por la propiedad Fuego"
 		}
 	}
 }
@@ -6507,7 +6507,7 @@ StateIconList[EFST_IDs.EFST_CHILL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{"Fr√≠o", COLOR_TITLE_DEBUFF},
+		{"FrÌo", COLOR_TITLE_DEBUFF},
 		{
 			"No obtener el efecto de quemadura"
 		},
@@ -6533,12 +6533,12 @@ StateIconList[EFST_IDs.EFST_CHEERUP] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"¬°Adelante! Mam√° y pap√°.",
+			"°Adelante! Mam· y pap·.",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Todas las estad√≠sticas aumentan en 3"
+			"Todas las estadÌsticas aumentan en 3"
 		}
 	}
 }
@@ -6547,7 +6547,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE10] = {
 	posTimeLimitStr = 3,
 	descript = {
 		{
-			"Precisi√≥n por 30¬†segundos",
+			"PrecisiÛn por 30†segundos",
 			COLOR_TITLE_BUFF
 		},
 		{
@@ -6578,7 +6578,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE8] = {
 	posTimeLimitStr = 3,
 	descript = {
 		{
-			"M√°s seguridad por 30¬†segundos",
+			"M·s seguridad por 30†segundos",
 			COLOR_TITLE_BUFF
 		},
 		{
@@ -6592,7 +6592,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE6] = {
 	posTimeLimitStr = 3,
 	descript = {
 		{
-			"Rapidez por 30¬†segundos",
+			"Rapidez por 30†segundos",
 			COLOR_TITLE_BUFF
 		},
 		{
@@ -6606,7 +6606,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE4] = {
 	posTimeLimitStr = 3,
 	descript = {
 		{
-			"Magia por 30¬†segundos",
+			"Magia por 30†segundos",
 			COLOR_TITLE_BUFF
 		},
 		{
@@ -6620,7 +6620,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE2] = {
 	posTimeLimitStr = 3,
 	descript = {
 		{
-			"Inteligencia por 30¬†segundos",
+			"Inteligencia por 30†segundos",
 			COLOR_TITLE_BUFF
 		},
 		{
@@ -6643,7 +6643,7 @@ StateIconList[EFST_IDs.EFST_FOOD_CRITICALSUCCESSVALUE] = {
 	descript = {
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar el √≠ndice cr√≠tico"
+			"Aumentar el Ìndice crÌtico"
 		}
 	}
 }
@@ -6652,7 +6652,7 @@ StateIconList[EFST_IDs.EFST_MAGIC_CANDY] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Dulce m√°gico",
+			"Dulce m·gico",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -6660,13 +6660,13 @@ StateIconList[EFST_IDs.EFST_MAGIC_CANDY] = {
 			"Aumentar ATQM"
 		},
 		{
-			"Reducci√≥n del tiempo de lanzamiento fijo"
+			"ReducciÛn del tiempo de lanzamiento fijo"
 		},
 		{
 			"El lanzamiento no puede interrumpirse"
 		},
 		{
-			"Se reduce cierta cantidad de PM cada 10¬†segundos"
+			"Se reduce cierta cantidad de PM cada 10†segundos"
 		}
 	}
 }
@@ -6675,7 +6675,7 @@ StateIconList[EFST_IDs.EFST_MVPCARD_ORCHERO] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Pergamino del H√©roe orco",
+			"Pergamino del HÈroe orco",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -6689,7 +6689,7 @@ StateIconList[EFST_IDs.EFST_LIMIT_POWER_BOOSTER] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Potenciador de poder l√≠mite",
+			"Potenciador de poder lÌmite",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -6715,7 +6715,7 @@ StateIconList[EFST_IDs.EFST_S_MANAPOTION] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Poci√≥n de man√° peque√±a",
+			"PociÛn de man· pequeÒa",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -6806,7 +6806,7 @@ StateIconList[EFST_IDs.EFST_MVPCARD_ORCLORD] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Reflejar parte del ataque f√≠sico cuerpo a cuerpo"
+			"Reflejar parte del ataque fÌsico cuerpo a cuerpo"
 		}
 	}
 }
@@ -6815,15 +6815,15 @@ StateIconList[EFST_IDs.EFST_DEEP_SLEEP] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Sue√±o profundo",
+			"SueÒo profundo",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Infligir 1,5¬†veces el da√±o"
+			"Infligir 1,5†veces el daÒo"
 		},
 		{
-			"Recuperar cierta cantidad de PV/PM cada 2¬†seg."
+			"Recuperar cierta cantidad de PV/PM cada 2†seg."
 		}
 	}
 }
@@ -6834,10 +6834,10 @@ StateIconList[EFST_IDs.EFST_HEALTHSTATE_FEAR] = {
 		{"Miedo", COLOR_TITLE_DEBUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Inmovilizaci√≥n durante 2¬†segundos"
+			"InmovilizaciÛn durante 2†segundos"
 		},
 		{
-			"Reducci√≥n del √≠ndice de golpes y de evasi√≥n"
+			"ReducciÛn del Ìndice de golpes y de evasiÛn"
 		}
 	}
 }
@@ -6862,7 +6862,7 @@ StateIconList[EFST_IDs.EFST_DOUBLECASTING] = {
 			"Posibilidad de repetir cualquier habilidad Rayo"
 		},
 		{
-			"que ya est√° lanzada"
+			"que ya est· lanzada"
 		}
 	}
 }
@@ -6876,10 +6876,10 @@ StateIconList[EFST_IDs.EFST_OVERED_BOOST] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumento de Aira y el due√±o"
+			"Aumento de Aira y el dueÒo"
 		},
 		{
-			"en la velocidad de ataque y evasi√≥n"
+			"en la velocidad de ataque y evasiÛn"
 		}
 	}
 }
@@ -6901,13 +6901,13 @@ StateIconList[EFST_IDs.EFST_HEALTHSTATE_POISON] = {
 		{"Veneno", COLOR_TITLE_DEBUFF},
 		{"%s", COLOR_TIME},
 		{
-			"P√©rdida de visi√≥n"
+			"PÈrdida de visiÛn"
 		},
 		{
-			"Defensa f√≠sica reducida"
+			"Defensa fÌsica reducida"
 		},
 		{
-			"Reducci√≥n de PVM cada 3¬†segundos"
+			"ReducciÛn de PVM cada 3†segundos"
 		}
 	}
 }
@@ -6916,12 +6916,12 @@ StateIconList[EFST_IDs.EFST_SIRCLEOFNATURE] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"C√≠rculo de la naturaleza",
+			"CÌrculo de la naturaleza",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar la recuperaci√≥n natural de PV"
+			"Aumentar la recuperaciÛn natural de PV"
 		}
 	}
 }
@@ -6956,7 +6956,7 @@ StateIconList[EFST_IDs.EFST_BODYSTATE_BURNNING] = {
 		{"Quemadura", COLOR_TITLE_DEBUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Da√±o cada 3¬†segundos"
+			"DaÒo cada 3†segundos"
 		},
 		{
 			"DEFM reducida"
@@ -6971,13 +6971,13 @@ StateIconList[EFST_IDs.EFST_TOXIN] = {
 		{"Toxina", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Interrumpir el lanzamiento y el movimiento de habilidades durante 10¬†seg."
+			"Interrumpir el lanzamiento y el movimiento de habilidades durante 10†seg."
 		},
 		{
 			"Ignorar las opciones de la carta Phen"
 		},
 		{
-			"Perder cierta cantidad de PM cada 10¬†seg."
+			"Perder cierta cantidad de PM cada 10†seg."
 		}
 	}
 }
@@ -7016,15 +7016,15 @@ StateIconList[EFST_IDs.EFST_COLD] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Fr√≠o m√°s lento",
+			"FrÌo m·s lento",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Infligir da√±o a la propiedad Agua"
+			"Infligir daÒo a la propiedad Agua"
 		},
 		{
-			"Conferir estado de congelaci√≥n"
+			"Conferir estado de congelaciÛn"
 		}
 	}
 }
@@ -7038,16 +7038,16 @@ StateIconList[EFST_IDs.EFST_LHZ_DUN_N1] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumento del da√±o a algunos monstruos del Lecho de honor."
+			"Aumento del daÒo a algunos monstruos del Lecho de honor."
 		},
 		{
-			"Lista: monstruos del Lecho de honor de clase Espadach√≠n y Ladr√≥n."
+			"Lista: monstruos del Lecho de honor de clase EspadachÌn y LadrÛn."
 		},
 		{
-			"Recibir menos da√±o de algunos monstruos del Lecho de honor."
+			"Recibir menos daÒo de algunos monstruos del Lecho de honor."
 		},
 		{
-			"Lista: monstruos del Lecho de honor de clase Ac√≥lito y Comerciante."
+			"Lista: monstruos del Lecho de honor de clase AcÛlito y Comerciante."
 		},
 		{
 			"Excluir monstruos MVP."
@@ -7070,7 +7070,7 @@ StateIconList[EFST_IDs.EFST_OVERLAPEXPUP] = {
 			"Aumento de EXP, EXP de clase"
 		},
 		{
-			"Aumento de la ca√≠da de objetos"
+			"Aumento de la caÌda de objetos"
 		}
 	}
 }
@@ -7079,7 +7079,7 @@ StateIconList[EFST_IDs.EFST_BODYSTATE_STONECURSE] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Petrificaci√≥n",
+			"PetrificaciÛn",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
@@ -7118,7 +7118,7 @@ StateIconList[EFST_IDs.EFST_STASIS] = {
 		{"Estasis", COLOR_TITLE_DEBUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Todos los objetivos dentro del alcance no pueden usar la habilidad Magia, Canci√≥n y Coro"
+			"Todos los objetivos dentro del alcance no pueden usar la habilidad Magia, CanciÛn y Coro"
 		}
 	}
 }
@@ -7132,7 +7132,7 @@ StateIconList[EFST_IDs.EFST_SHAPESHIFT] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Cambiar la propiedad Fuselaje de Meca M√°gico"
+			"Cambiar la propiedad Fuselaje de Meca M·gico"
 		}
 	}
 }
@@ -7141,7 +7141,7 @@ StateIconList[EFST_IDs.EFST_GLOOMYDAY] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Timidez sombr√≠a",
+			"Timidez sombrÌa",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -7163,16 +7163,16 @@ StateIconList[EFST_IDs.EFST_LHZ_DUN_N3] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumento del da√±o a algunos monstruos del Lecho de honor."
+			"Aumento del daÒo a algunos monstruos del Lecho de honor."
 		},
 		{
 			"Lista: monstruos del Lecho de honor de clase Mago y Arquero."
 		},
 		{
-			"Recibir menos da√±o de algunos monstruos del Lecho de honor."
+			"Recibir menos daÒo de algunos monstruos del Lecho de honor."
 		},
 		{
-			"Lista: monstruos del Lecho de honor de clase Espadach√≠n y Ladr√≥n."
+			"Lista: monstruos del Lecho de honor de clase EspadachÌn y LadrÛn."
 		},
 		{
 			"Excluir monstruos MVP."
@@ -7184,12 +7184,12 @@ StateIconList[EFST_IDs.EFST_CRUSHSTRIKE] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Piedra r√∫nica Rhydo: Golpe arrasador",
+			"Piedra r˙nica Rhydo: Golpe arrasador",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar el da√±o f√≠sico cuerpo a cuerpo"
+			"Aumentar el daÒo fÌsico cuerpo a cuerpo"
 		}
 	}
 }
@@ -7221,7 +7221,7 @@ StateIconList[EFST_IDs.EFST_BODYSTATE_FREEZING] = {
 			"No puede moverse ni evadir"
 		},
 		{
-			"Defensa f√≠sica y m√°gica reducida"
+			"Defensa fÌsica y m·gica reducida"
 		}
 	}
 }
@@ -7235,13 +7235,13 @@ StateIconList[EFST_IDs.EFST_LHZ_DUN_N4] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumento del da√±o a algunos monstruos del Lecho de honor."
+			"Aumento del daÒo a algunos monstruos del Lecho de honor."
 		},
 		{
 			"Lista: monstruos MVP del Lecho de honor."
 		},
 		{
-			"Recibir menos da√±o de algunos monstruos del Lecho de honor."
+			"Recibir menos daÒo de algunos monstruos del Lecho de honor."
 		},
 		{
 			"Lista: monstruos MVP del Lecho de honor."
@@ -7253,7 +7253,7 @@ StateIconList[EFST_IDs.EFST_MONSTER_TRANSFORM] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Transformaci√≥n en monstruo",
+			"TransformaciÛn en monstruo",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -7267,7 +7267,7 @@ StateIconList[EFST_IDs.EFST_INFRAREDSCAN] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Exploraci√≥n infrarroja",
+			"ExploraciÛn infrarroja",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -7284,12 +7284,12 @@ StateIconList[EFST_IDs.EFST_SONG_OF_MANA] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Canci√≥n de Man√° ",
+			"CanciÛn de Man· ",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar la recuperaci√≥n natural de PM"
+			"Aumentar la recuperaciÛn natural de PM"
 		}
 	}
 }
@@ -7317,7 +7317,7 @@ StateIconList[EFST_IDs.EFST_OVERTHRUSTMAX] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Propulsi√≥n m√°xima",
+			"PropulsiÛn m·xima",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -7333,13 +7333,13 @@ StateIconList[EFST_IDs.EFST_BODYSTATE_SLEEP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{"Sue√±o", COLOR_TITLE_DEBUFF},
+		{"SueÒo", COLOR_TITLE_DEBUFF},
 		{"%s", COLOR_TIME},
 		{
 			"No puede moverse ni evadir"
 		},
 		{
-			"Aumento del √≠ndice de da√±o cr√≠tico"
+			"Aumento del Ìndice de daÒo crÌtico"
 		}
 	}
 }
@@ -7349,7 +7349,7 @@ StateIconList[EFST_IDs.EFST_CASH_RECEIVEITEM] = {
 	descript = {
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar dos veces el √≠ndice de ca√≠da de objetos"
+			"Aumentar dos veces el Ìndice de caÌda de objetos"
 		},
 		{
 			"de los monstruos"
@@ -7371,7 +7371,7 @@ StateIconList[EFST_IDs.EFST_MAGNETICFIELD] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Campo magn√©tico",
+			"Campo magnÈtico",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
@@ -7391,7 +7391,7 @@ StateIconList[EFST_IDs.EFST_KAIZEL] = {
 			"DES no afecta al tiempo de lanzamiento del jugador"
 		},
 		{
-			"Revivir instant√°neamente a un personaje muerto que estar√° en estado Kyrie Eleison durante 2¬†segundos"
+			"Revivir instant·neamente a un personaje muerto que estar· en estado Kyrie Eleison durante 2†segundos"
 		}
 	}
 }
@@ -7399,7 +7399,7 @@ StateIconList[EFST_IDs.EFST_PARALYSE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{"Par√°lisis", COLOR_TITLE_BUFF},
+		{"Par·lisis", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
 			"Disminuir VELA"
@@ -7451,7 +7451,7 @@ StateIconList[EFST_IDs.EFST_BODYSTATE_STONECURSE_ING] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Petrificaci√≥n",
+			"PetrificaciÛn",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME}
@@ -7491,7 +7491,7 @@ StateIconList[EFST_IDs.EFST_NEUTRALBARRIER] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar DEF f√≠sica y m√°gica"
+			"Aumentar DEF fÌsica y m·gica"
 		},
 		{
 			"Cancelar ataque a distancia"
@@ -7514,7 +7514,7 @@ StateIconList[EFST_IDs.EFST_DANCE_WITH_WUG] = {
 			"Disminuir el tiempo de lanzamiento fijo"
 		},
 		{
-			"Aumentar el da√±o del ataque a distancia"
+			"Aumentar el daÒo del ataque a distancia"
 		}
 	}
 }
@@ -7528,7 +7528,7 @@ StateIconList[EFST_IDs.EFST_DEATHHURT] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Disminuir el efecto al recibir habilidades de curaci√≥n"
+			"Disminuir el efecto al recibir habilidades de curaciÛn"
 		}
 	}
 }
@@ -7553,7 +7553,7 @@ StateIconList[EFST_IDs.EFST_PYREXIA] = {
 		{"Pyrexia", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Estado de Oscuridad, Confusi√≥n"
+			"Estado de Oscuridad, ConfusiÛn"
 		}
 	}
 }
@@ -7576,12 +7576,12 @@ StateIconList[EFST_IDs.EFST_G_LIFEPOTION] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Poci√≥n de vida",
+			"PociÛn de vida",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Recuperar cierta cantidad de PV cada 3¬†segundos"
+			"Recuperar cierta cantidad de PV cada 3†segundos"
 		},
 		{
 			"No se activa en estado Berserk"
@@ -7598,7 +7598,7 @@ StateIconList[EFST_IDs.EFST_ANGEL_PROTECT] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumentar PV, velocidad de recuperaci√≥n de PM"
+			"Aumentar PV, velocidad de recuperaciÛn de PM"
 		}
 	}
 }
@@ -7607,12 +7607,12 @@ StateIconList[EFST_IDs.EFST_C_MARKER] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Mercado carmes√≠ ",
+			"Mercado carmesÌ ",
 			COLOR_TITLE_DEBUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Disminuci√≥n de EVA"
+			"DisminuciÛn de EVA"
 		}
 	}
 }
@@ -7643,7 +7643,7 @@ StateIconList[EFST_IDs.EFST_FEARBREEZE] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Tener la oportunidad de atacar una vez m√°s"
+			"Tener la oportunidad de atacar una vez m·s"
 		},
 		{
 			"Al atacar con un arco"
@@ -7678,13 +7678,13 @@ StateIconList[EFST_IDs.EFST_HEALTHSTATE_CURSE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{"Maldici√≥n", COLOR_TITLE_DEBUFF},
+		{"MaldiciÛn", COLOR_TITLE_DEBUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Velocidad de movimiento y ataque f√≠sico reducidos"
+			"Velocidad de movimiento y ataque fÌsico reducidos"
 		},
 		{
-			"SUE se convirti√≥ en 0 "
+			"SUE se convirtiÛ en 0 "
 		}
 	}
 }
@@ -7710,7 +7710,7 @@ StateIconList[EFST_IDs.EFST_MOON_COMFORT] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Protecci√≥n lunar",
+			"ProtecciÛn lunar",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -7744,7 +7744,7 @@ StateIconList[EFST_IDs.EFST_ECHOSONG] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Canci√≥n_del_eco",
+			"CanciÛn_del_eco",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -7758,7 +7758,7 @@ StateIconList[EFST_IDs.EFST_HEALPLUS] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Poci√≥n de regeneraci√≥n",
+			"PociÛn de regeneraciÛn",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
@@ -7766,7 +7766,7 @@ StateIconList[EFST_IDs.EFST_HEALPLUS] = {
 			"Aumentar el efecto de"
 		},
 		{
-			"las habilidades de curaci√≥n y algunos objetos curativos"
+			"las habilidades de curaciÛn y algunos objetos curativos"
 		}
 	}
 }
@@ -7780,7 +7780,7 @@ StateIconList[EFST_IDs.EFST_SPECIALCOOKIE] = {
 		},
 		{"%s", COLOR_TIME},
 		{
-			"m√°s velocidad de ataque"
+			"m·s velocidad de ataque"
 		},
 		{
 			"menos casting variable"
@@ -7793,7 +7793,7 @@ StateIconList[EFST_IDs.EFST_PERIOD_RECEIVEITEM] = {
 	descript = {
 		{"%s", COLOR_TIME},
 		{
-			"Aumenta la tasa de ca√≠da de √≠tems"
+			"Aumenta la tasa de caÌda de Ìtems"
 		},
 		{
 			"Al cazar monstruos"
