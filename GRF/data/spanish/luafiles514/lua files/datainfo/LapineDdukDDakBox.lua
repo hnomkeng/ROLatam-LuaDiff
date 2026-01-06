@@ -17,7 +17,7 @@ tblLapineDdukddakBox = {
 					2589
 				}
 			},
-			NeedSource_String = "Alas de Ángel Caído"
+			NeedSource_String = "Alas de Ãngel CaÃ­do"
 		},
 		Egirnion_Box = {
 			ItemID = 100468,
@@ -74,7 +74,7 @@ tblLapineDdukddakBox = {
 					20842
 				}
 			},
-			NeedSource_String = "Alforje Mágico do Antonio"
+			NeedSource_String = "Alforje MÃ¡gico do Antonio"
 		},
 		Candy_Bag_Scroll_Range = {
 			ItemID = 23290,
@@ -88,7 +88,7 @@ tblLapineDdukddakBox = {
 					20843
 				}
 			},
-			NeedSource_String = "Bolsa Mágica do Antonio"
+			NeedSource_String = "Bolsa MÃ¡gica do Antonio"
 		},
 		Candy_Bag_Scroll_Magic = {
 			ItemID = 23291,
@@ -102,7 +102,7 @@ tblLapineDdukddakBox = {
 					20844
 				}
 			},
-			NeedSource_String = "Sacola Mágica de Antonio"
+			NeedSource_String = "Sacola MÃ¡gica de Antonio"
 		},
 		Gunslinger_Enchant = {
 			ItemID = 23100,
@@ -158,7 +158,7 @@ tblLapineDdukddakBox = {
 					28942
 				}
 			},
-			NeedSource_String = "Escudo Sanguinário"
+			NeedSource_String = "Escudo SanguinÃ¡rio"
 		},
 		Booster_Amplifier = {
 			ItemID = 23308,
@@ -297,7 +297,7 @@ tblLapineDdukddakBox = {
 					32302
 				}
 			},
-			NeedSource_String = "Revólver Ancestral"
+			NeedSource_String = "RevÃ³lver Ancestral"
 		},
 		Master_Soul_Rifle_Cube = {
 			ItemID = 100405,
@@ -325,7 +325,7 @@ tblLapineDdukddakBox = {
 					28257
 				}
 			},
-			NeedSource_String = "Lança-Granadas Ancestral"
+			NeedSource_String = "LanÃ§a-Granadas Ancestral"
 		},
 		The_Black_Gatling_Cube = {
 			ItemID = 100407,
@@ -367,7 +367,7 @@ tblLapineDdukddakBox = {
 					28631
 				}
 			},
-			NeedSource_String = "Enciclopédia Ancestral"
+			NeedSource_String = "EnciclopÃ©dia Ancestral"
 		},
 		SoulWeight_Cube = {
 			ItemID = 100403,
@@ -381,7 +381,7 @@ tblLapineDdukddakBox = {
 					26154
 				}
 			},
-			NeedSource_String = "Pêndulo Ancestral"
+			NeedSource_String = "PÃªndulo Ancestral"
 		},
 		Demon_Hunt_Bible_Cube = {
 			ItemID = 100397,
@@ -424,7 +424,7 @@ tblLapineDdukddakBox = {
 					24222
 				}
 			},
-			NeedSource_String = "Sombrios de Lanças"
+			NeedSource_String = "Sombrios de LanÃ§as"
 		},
 		EXPShadow_Mix = {
 			ItemID = 100661,
@@ -3967,7 +3967,7 @@ tblLapineDdukddakBox = {
 					550080
 				}
 			},
-			NeedSource_String = "Bastão Ancestral"
+			NeedSource_String = "BastÃ£o Ancestral"
 		},
 		Iron_Nail_K_Cube = {
 			ItemID = 100388,
@@ -5113,7 +5113,7 @@ tblLapineDdukddakBox = {
 					32018
 				}
 			},
-			NeedSource_String = "Lança Ancestral"
+			NeedSource_String = "LanÃ§a Ancestral"
 		},
 		Illusion_Module_Mix = {
 			ItemID = 100601,
@@ -5316,7 +5316,7 @@ tblLapineDdukddakBox = {
 					590002
 				}
 			},
-			NeedSource_String = "Maça Ancestral"
+			NeedSource_String = "MaÃ§a Ancestral"
 		},
 		Royal_Bow_K_Cube = {
 			ItemID = 100376,
@@ -5581,7 +5581,7 @@ tblLapineDdukddakBox = {
 					640004
 				}
 			},
-			NeedSource_String = "Báculo Ancestra"
+			NeedSource_String = "BÃ¡culo Ancestra"
 		},
 		Narcis_Bow_Cube = {
 			ItemID = 100329,
@@ -5751,7 +5751,7 @@ tblLapineDdukddakBox = {
 					550007
 				}
 			},
-			NeedSource_String = "Feitiço Ancestral"
+			NeedSource_String = "FeitiÃ§o Ancestral"
 		},
 		Scalet_Dragon_L_Cube = {
 			ItemID = 100377,
@@ -6200,7 +6200,7 @@ tblLapineDdukddakBox = {
 					500004
 				}
 			},
-			NeedSource_String = "Lâmina Ancestral"
+			NeedSource_String = "LÃ¢mina Ancestral"
 		},
 		EXPShadow_Mix2 = {
 			ItemID = 101665,
@@ -6355,7 +6355,7 @@ tblLapineDdukddakBox = {
 					24179
 				}
 			},
-			NeedSource_String = "Luva Anti-Raça"
+			NeedSource_String = "Luva Anti-RaÃ§a"
 		},
 		Piercing_Mix = {
 			ItemID = 100053,
@@ -6414,7 +6414,7 @@ tblLapineDdukddakBox = {
 					24165
 				}
 			},
-			NeedSource_String = "Luva Caça-Raça"
+			NeedSource_String = "Luva CaÃ§a-RaÃ§a"
 		},
 		Remodel_Hero_Boots = {
 			ItemID = 100273,
@@ -6755,7 +6755,7 @@ tblLapineDdukddakBox = {
 					24397
 				}
 			},
-			NeedSource_String = "Equip. Sombrio Mágico"
+			NeedSource_String = "Equip. Sombrio MÃ¡gico"
 		},
 		PhysicalShadow_Mix = {
 			ItemID = 100888,
@@ -6794,7 +6794,7 @@ tblLapineDdukddakBox = {
 					24394
 				}
 			},
-			NeedSource_String = "Equip. Sombrio Físico"
+			NeedSource_String = "Equip. Sombrio FÃ­sico"
 		},
 		ReloadShadow_Mix = {
 			ItemID = 101181,
@@ -6823,7 +6823,7 @@ tblLapineDdukddakBox = {
 					24331
 				}
 			},
-			NeedSource_String = "Sombrios de Pós"
+			NeedSource_String = "Sombrios de PÃ³s"
 		},
 		BearersShadow_Mix = {
 			ItemID = 23249,
@@ -6940,7 +6940,7 @@ tblLapineDdukddakBox = {
 					24726
 				}
 			},
-			NeedSource_String = "Sombrios de Autoconjuração"
+			NeedSource_String = "Sombrios de AutoconjuraÃ§Ã£o"
 		},
 		AbsorbShadow_Mix = {
 			ItemID = 100691,
@@ -6989,7 +6989,7 @@ tblLapineDdukddakBox = {
 					24325
 				}
 			},
-			NeedSource_String = "Sombrio de Conversão"
+			NeedSource_String = "Sombrio de ConversÃ£o"
 		},
 		PerfectSize_Mix = {
 			ItemID = 100010,
@@ -7454,7 +7454,7 @@ tblLapineDdukddakBox = {
 					24025
 				}
 			},
-			NeedSource_String = "Sombra del Campeón Duro"
+			NeedSource_String = "Sombra del CampeÃ³n Duro"
 		}
 	},
 	get_lapine_box = function(in_box_id)

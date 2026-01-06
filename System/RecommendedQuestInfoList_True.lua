@@ -1,9 +1,9 @@
 RecommendedQuestInfoList = {}
 RecommendedQuestInfoList = {
 	[1] = {
-		Title = "Bem vindo ao mundo de Ragnarök!",
+		Title = "Bem vindo ao mundo de RagnarÃ¶k!",
 		IconName = "ico_gq.bmp",
-		Summary = "Introdução ao jogo.",
+		Summary = "IntroduÃ§Ã£o ao jogo.",
 		NpcSpr = "4_F_01",
 		NpcNavi = "iz_ac01",
 		NpcPosX = 102,
@@ -11,14 +11,14 @@ RecommendedQuestInfoList = {
 		BgName = "reco_01.bmp",
 		QuestInfo1 = {
 			"[Bem vindo!]",
-			"Se você está iniciando suas aventuras em Ragnarök Online, não deixe de visitar o Instituto do Aprendiz para conseguir ajuda, informações e itens especiais!"
+			"Se vocÃª estÃ¡ iniciando suas aventuras em RagnarÃ¶k Online, nÃ£o deixe de visitar o Instituto do Aprendiz para conseguir ajuda, informaÃ§Ãµes e itens especiais!"
 		},
 		QuestInfo2 = {
 			"Seja sempre gentil",
 			"com jogadores novos!"
 		},
 		QuestInfo3 = {
-			"^ff0000Esta é uma página permanente de boas vindas.^000000"
+			"^ff0000Esta Ã© uma pÃ¡gina permanente de boas vindas.^000000"
 		}
 	}
 }

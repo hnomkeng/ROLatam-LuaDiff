@@ -10,7 +10,7 @@ SKILL_EFFECT_INFO_LIST = {
 	},
 	[SKID.KO_SETSUDAN] = {
 		beginMotionType = ACTOR_STATE.ST_NINJASKILL2,
-		targetWaveFileName = "effect\\T_Àü±â.wav",
+		targetWaveFileName = "effect\\T_ì „ê¸°.wav",
 		targetEffectNum = 1,
 		targetEffectID = {
 			EFID.EF_KO_SETSUDAN
@@ -19,12 +19,12 @@ SKILL_EFFECT_INFO_LIST = {
 	},
 	[SKID.KO_BAKURETSU] = {
 		beginMotionType = ACTOR_STATE.ST_NINJASKILL2,
-		waveFileName = "effect\\´ÑÀÚ_´øÁö±â.wav",
+		waveFileName = "effect\\ë‹Œì_ë˜ì§€ê¸°.wav",
 		effectNum = 1,
 		effectID = {
 			EFID.EF_THROW_BAKURETSU
 		},
-		targetWaveFileName = "effect\\Æø¿°·æ.wav",
+		targetWaveFileName = "effect\\í­ì—¼ë£¡.wav",
 		targetEffectNum = 1,
 		targetEffectID = {
 			EFID.EF_GROUND_EXPLOSION
@@ -33,7 +33,7 @@ SKILL_EFFECT_INFO_LIST = {
 	},
 	[SKID.KO_HAPPOKUNAI] = {
 		beginMotionType = ACTOR_STATE.ST_NINJASKILL2,
-		waveFileName = "effect\\T_È¸¿À¸®Â÷±â.wav",
+		waveFileName = "effect\\T_íšŒì˜¤ë¦¬ì°¨ê¸°.wav",
 		effectNum = 2,
 		effectID = {
 			EFID.EF_THROW_HAPPOKUNAI,
@@ -42,7 +42,7 @@ SKILL_EFFECT_INFO_LIST = {
 		LaunchZC_USE_SKILL = true
 	},
 	[SKID.KO_MUCHANAGE] = {
-		waveFileName = "effect\\´ÑÀÚ_´øÁö±â.wav",
+		waveFileName = "effect\\ë‹Œì_ë˜ì§€ê¸°.wav",
 		effectNum = 1,
 		targetEffectNum = 1,
 		targetEffectID = {
@@ -55,7 +55,7 @@ SKILL_EFFECT_INFO_LIST = {
 	},
 	[SKID.KO_HUUMARANKA] = {
 		beginMotionType = ACTOR_STATE.ST_NINJASKILL2,
-		waveFileName = "effect\\T_È¸¿À¸®Â÷±â.wav",
+		waveFileName = "effect\\T_íšŒì˜¤ë¦¬ì°¨ê¸°.wav",
 		groundEffectNum = 3,
 		groundEffectID = {
 			EFID.EF_ROTATE_HUUMARANKA,
@@ -104,7 +104,7 @@ SKILL_EFFECT_INFO_LIST = {
 		beginEffectID = EFID.EF_BEGINSPELL
 	},
 	[SKID.KO_KAIHOU] = {
-		waveFileName = "effect\\´ÑÀÚ_´øÁö±â.wav",
+		waveFileName = "effect\\ë‹Œì_ë˜ì§€ê¸°.wav",
 		effectNum = 1,
 		effectID = {
 			EFID.EF_KAIHOU
@@ -126,7 +126,7 @@ SKILL_EFFECT_INFO_LIST = {
 		}
 	},
 	[SKID.KG_KYOMU] = {
-		targetWaveFileName = "effect\\t_¿¡³ÊÁö¹æÃâ.wav",
+		targetWaveFileName = "effect\\t_ì—ë„ˆì§€ë°©ì¶œ.wav",
 		targetEffectNum = 1,
 		targetEffectID = {
 			EFID.EF_KG_KYOMU
@@ -134,7 +134,7 @@ SKILL_EFFECT_INFO_LIST = {
 		onTarget = true
 	},
 	[SKID.KG_KAGEMUSYA] = {
-		targetWaveFileName = "effect\\mon_±İ°­ºÒ±«.wav",
+		targetWaveFileName = "effect\\mon_ê¸ˆê°•ë¶ˆê´´.wav",
 		targetEffectNum = 1,
 		targetEffectID = {
 			EFID.EF_ENERGYCOAT
@@ -144,7 +144,7 @@ SKILL_EFFECT_INFO_LIST = {
 	[SKID.OB_ZANGETSU] = {
 		beginMotionType = ACTOR_STATE.ST_NINJAREADY,
 		beginEffectID = EFID.EF_BEGINSPELL,
-		targetWaveFileName = "effect\\t_µûµíÇÑ¸¶¹ı.wav",
+		targetWaveFileName = "effect\\t_ë”°ë“¯í•œë§ˆë²•.wav",
 		targetEffectNum = 1,
 		targetEffectID = {
 			EFID.EF_ZANGETSU
@@ -154,7 +154,7 @@ SKILL_EFFECT_INFO_LIST = {
 	[SKID.OB_AKAITSUKI] = {
 		beginMotionType = ACTOR_STATE.ST_NINJAREADY,
 		beginEffectID = EFID.EF_BEGINSPELL3,
-		targetWaveFileName = "effect\\t_¿¡³ÊÁö¹æÃâ.wav",
+		targetWaveFileName = "effect\\t_ì—ë„ˆì§€ë°©ì¶œ.wav",
 		targetEffectNum = 1,
 		targetEffectID = {
 			EFID.EF_AKAITSUKI
@@ -287,7 +287,7 @@ SKILL_EFFECT_INFO_LIST = {
 		targetEffectID = {
 			EFID.EF_TRACKING
 		},
-		waveFileName = "effect\\µ¥½ºÆä¶óµµ.wav"
+		waveFileName = "effect\\ë°ìŠ¤í˜ë¼ë„.wav"
 	},
 	[SKID.RL_RICHS_COIN] = {
 		effectNum = 1,
@@ -348,21 +348,21 @@ SKILL_EFFECT_INFO_LIST = {
 		effectID = {
 			EFID.EF_LIGHTSPHERE_SUN
 		},
-		waveFileName = "effect\\t_ÇÇ¸µ.wav"
+		waveFileName = "effect\\t_í”¼ë§.wav"
 	},
 	[SKID.SJ_LIGHTOFMOON] = {
 		effectNum = 1,
 		effectID = {
 			EFID.EF_LIGHTSPHERE_MOON
 		},
-		waveFileName = "effect\\t_ÇÇ¸µ.wav"
+		waveFileName = "effect\\t_í”¼ë§.wav"
 	},
 	[SKID.SJ_LIGHTOFSTAR] = {
 		effectNum = 1,
 		effectID = {
 			EFID.EF_LIGHTSPHERE_STAR
 		},
-		waveFileName = "effect\\t_ÇÇ¸µ.wav"
+		waveFileName = "effect\\t_í”¼ë§.wav"
 	},
 	[SKID.SJ_NOVAEXPLOSING] = {
 		targetEffectNum = 1,
@@ -375,7 +375,7 @@ SKILL_EFFECT_INFO_LIST = {
 		effectID = {
 			EFID.EF_SOLARBURST
 		},
-		waveFileName = "effect\\gµ¥¸ğ´ĞÈ­ÀÌ¾î.wav"
+		waveFileName = "effect\\gë°ëª¨ë‹‰í™”ì´ì–´.wav"
 	},
 	[SKID.SJ_DOCUMENT] = {
 		effectNum = 1,
@@ -424,7 +424,7 @@ SKILL_EFFECT_INFO_LIST = {
 			EFID.EF_SMA_BLACK
 		},
 		onTarget = true,
-		waveFileName = "effect\\t_¿¡³ÊÁö¹æÃâ.wav"
+		waveFileName = "effect\\t_ì—ë„ˆì§€ë°©ì¶œ.wav"
 	},
 	[SKID.SP_SOULEXPLOSION] = {
 		targetEffectNum = 2,
@@ -439,7 +439,7 @@ SKILL_EFFECT_INFO_LIST = {
 		targetEffectID = {
 			EFID.EF_BLINK_BODY
 		},
-		targetWaveFileName = "effect\\t_Ä¡À×.wav"
+		targetWaveFileName = "effect\\t_ì¹˜ì‰.wav"
 	},
 	[SKID.SP_SOULCOLLECT] = {
 		effectNum = 1,

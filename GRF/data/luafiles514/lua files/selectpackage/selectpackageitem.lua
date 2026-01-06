@@ -97,12 +97,12 @@ packageitemboxName = {
 	{
 		104681,
 		2,
-		"[Visual] Cataratas do IguaÁu"
+		"[Visual] Cataratas do Igua√ßu"
 	},
 	{
 		104714,
 		0,
-		"[Visual] M·scara do Banguela"
+		"[Visual] M√°scara do Banguela"
 	},
 	{
 		104714,
@@ -142,147 +142,147 @@ packageitemboxName = {
 	{
 		104820,
 		0,
-		"Sabre Met·lico"
+		"Sabre Met√°lico"
 	},
 	{
 		104820,
 		1,
-		"Pique Met·lico"
+		"Pique Met√°lico"
 	},
 	{
 		104820,
 		2,
-		"Mangual Met·lico"
+		"Mangual Met√°lico"
 	},
 	{
 		104820,
 		3,
-		"Machado Met·lico"
+		"Machado Met√°lico"
 	},
 	{
 		104820,
 		4,
-		"Punhal Met·lico"
+		"Punhal Met√°lico"
 	},
 	{
 		104820,
 		5,
-		"Livro Met·lico"
+		"Livro Met√°lico"
 	},
 	{
 		104820,
 		6,
-		"Cajado Met·lico"
+		"Cajado Met√°lico"
 	},
 	{
 		104820,
 		7,
-		"Katar Met·lico"
+		"Katar Met√°lico"
 	},
 	{
 		104820,
 		8,
-		"Arco Met·lico"
+		"Arco Met√°lico"
 	},
 	{
 		104820,
 		9,
-		"Huuma Met·lico"
+		"Huuma Met√°lico"
 	},
 	{
 		104820,
 		10,
-		"RevÛlver Met·lico"
+		"Rev√≥lver Met√°lico"
 	},
 	{
 		104820,
 		11,
-		"Rabo-de-Gato Met·lico"
+		"Rabo-de-Gato Met√°lico"
 	},
 	{
 		104821,
 		0,
-		"Claymore DÌnamo"
+		"Claymore D√≠namo"
 	},
 	{
 		104821,
 		1,
-		"LanÁa DÌnamo"
+		"Lan√ßa D√≠namo"
 	},
 	{
 		104821,
 		2,
-		"Machado DÌnamo"
+		"Machado D√≠namo"
 	},
 	{
 		104821,
 		3,
-		"Espada DÌnamo"
+		"Espada D√≠namo"
 	},
 	{
 		104821,
 		4,
-		"Katar DÌnamo"
+		"Katar D√≠namo"
 	},
 	{
 		104821,
 		5,
-		"Arco DÌnamo"
+		"Arco D√≠namo"
 	},
 	{
 		104821,
 		6,
-		"Cajado DÌnamo"
+		"Cajado D√≠namo"
 	},
 	{
 		104821,
 		7,
-		"Cetro DÌnamo"
+		"Cetro D√≠namo"
 	},
 	{
 		104821,
 		8,
-		"B·culo DÌnamo"
+		"B√°culo D√≠namo"
 	},
 	{
 		104821,
 		9,
-		"Punho DÌnamo"
+		"Punho D√≠namo"
 	},
 	{
 		104821,
 		10,
-		"Balista DÌnamo"
+		"Balista D√≠namo"
 	},
 	{
 		104821,
 		11,
-		"Violino DÌnamo"
+		"Violino D√≠namo"
 	},
 	{
 		104821,
 		12,
-		"Chicote DÌnamo"
+		"Chicote D√≠namo"
 	},
 	{
 		104821,
 		13,
-		"Huuma DÌnamo"
+		"Huuma D√≠namo"
 	},
 	{
 		104821,
 		14,
-		"Metralhadora DÌnamo"
+		"Metralhadora D√≠namo"
 	},
 	{
 		104821,
 		15,
-		"Rabo-de-Gato DÌnamo"
+		"Rabo-de-Gato D√≠namo"
 	},
 	{
 		104821,
 		16,
-		"Varinha DÌnamo"
+		"Varinha D√≠namo"
 	},
 	{
 		104822,
@@ -292,17 +292,17 @@ packageitemboxName = {
 	{
 		104822,
 		1,
-		"Conjunto de Armadura M·gica"
+		"Conjunto de Armadura M√°gica"
 	},
 	{
 		103903,
 		0,
-		"[Visual] ChapÈu do Drag„o Guerreiro"
+		"[Visual] Chap√©u do Drag√£o Guerreiro"
 	},
 	{
 		103903,
 		1,
-		"[Visual] Manto do Drag„o Guerreiro"
+		"[Visual] Manto do Drag√£o Guerreiro"
 	},
 	{
 		103904,
@@ -327,32 +327,32 @@ packageitemboxName = {
 	{
 		101456,
 		0,
-		"M·scara DÌnamo A"
+		"M√°scara D√≠namo A"
 	},
 	{
 		101456,
 		1,
-		"M·scara DÌnamo B"
+		"M√°scara D√≠namo B"
 	},
 	{
 		101456,
 		2,
-		"M·scara DÌnamo C"
+		"M√°scara D√≠namo C"
 	},
 	{
 		101457,
 		0,
-		"Cachecol DÌnamo A"
+		"Cachecol D√≠namo A"
 	},
 	{
 		101457,
 		1,
-		"Cachecol DÌnamo B"
+		"Cachecol D√≠namo B"
 	},
 	{
 		101457,
 		2,
-		"Cachecol DÌnamo C"
+		"Cachecol D√≠namo C"
 	},
 	{
 		105559,
@@ -387,67 +387,67 @@ packageitemboxName = {
 	{
 		105984,
 		0,
-		"Jetpack FÌsico"
+		"Jetpack F√≠sico"
 	},
 	{
 		105984,
 		1,
-		"Jetpack M·gico"
+		"Jetpack M√°gico"
 	},
 	{
 		105984,
 		2,
-		"Jetpack CrÌtico"
+		"Jetpack Cr√≠tico"
 	},
 	{
 		105985,
 		0,
-		"Exoesqueleto FÌsico"
+		"Exoesqueleto F√≠sico"
 	},
 	{
 		105985,
 		1,
-		"Exoesqueleto M·gico"
+		"Exoesqueleto M√°gico"
 	},
 	{
 		105985,
 		2,
-		"Exoesqueleto CrÌtico"
+		"Exoesqueleto Cr√≠tico"
 	},
 	{
 		101470,
 		0,
-		"PoÁ„o de ReduÁ„o de STR"
+		"Po√ß√£o de Redu√ß√£o de STR"
 	},
 	{
 		101470,
 		1,
-		"PoÁ„o de ReduÁ„o de AGI"
+		"Po√ß√£o de Redu√ß√£o de AGI"
 	},
 	{
 		101470,
 		2,
-		"PoÁ„o de ReduÁ„o de VIT"
+		"Po√ß√£o de Redu√ß√£o de VIT"
 	},
 	{
 		101470,
 		3,
-		"PoÁ„o de ReduÁ„o de INT"
+		"Po√ß√£o de Redu√ß√£o de INT"
 	},
 	{
 		101470,
 		4,
-		"PoÁ„o de ReduÁ„o de DEX"
+		"Po√ß√£o de Redu√ß√£o de DEX"
 	},
 	{
 		101470,
 		5,
-		"PoÁ„o de ReduÁ„o de LUK"
+		"Po√ß√£o de Redu√ß√£o de LUK"
 	},
 	{
 		101470,
 		6,
-		"Uma de cada PoÁ„o de ReduÁ„o"
+		"Uma de cada Po√ß√£o de Redu√ß√£o"
 	},
 	{
 		106167,
@@ -462,7 +462,7 @@ packageitemboxName = {
 	{
 		106167,
 		2,
-		"[Visual] SensaÁ„o de Inverno"
+		"[Visual] Sensa√ß√£o de Inverno"
 	},
 	{
 		106167,
@@ -472,7 +472,7 @@ packageitemboxName = {
 	{
 		106167,
 		4,
-		"[Visual] Iglun·tico"
+		"[Visual] Iglun√°tico"
 	},
 	{
 		106167,
@@ -487,7 +487,7 @@ packageitemboxName = {
 	{
 		106166,
 		1,
-		"Guardi„ do Natal"
+		"Guardi√£ do Natal"
 	},
 	{
 		106166,

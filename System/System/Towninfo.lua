@@ -1,31 +1,31 @@
 mapNPCInfoTable = {
 	prontera = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 146,
 			Y = 89,
 			TYPE = 6
 		},
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 151,
 			Y = 29,
 			TYPE = 6
 		},
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 282,
 			Y = 200,
 			TYPE = 6
 		},
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 29,
 			Y = 207,
 			TYPE = 6
 		},
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 152,
 			Y = 326,
 			TYPE = 6
@@ -99,7 +99,7 @@ mapNPCInfoTable = {
 	},
 	prt_fild05 = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 290,
 			Y = 224,
 			TYPE = 6
@@ -113,7 +113,7 @@ mapNPCInfoTable = {
 	},
 	izlude = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 134,
 			Y = 88,
 			TYPE = 6
@@ -151,13 +151,13 @@ mapNPCInfoTable = {
 	},
 	geffen = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 120,
 			Y = 62,
 			TYPE = 6
 		},
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 203,
 			Y = 123,
 			TYPE = 6
@@ -213,7 +213,7 @@ mapNPCInfoTable = {
 	},
 	aldebaran = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 143,
 			Y = 119,
 			TYPE = 6
@@ -257,13 +257,13 @@ mapNPCInfoTable = {
 	},
 	payon = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 181,
 			Y = 104,
 			TYPE = 6
 		},
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 175,
 			Y = 226,
 			TYPE = 6
@@ -319,7 +319,7 @@ mapNPCInfoTable = {
 	},
 	pay_arche = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 55,
 			Y = 123,
 			TYPE = 6
@@ -339,13 +339,13 @@ mapNPCInfoTable = {
 	},
 	morocc = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 160,
 			Y = 258,
 			TYPE = 6
 		},
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 156,
 			Y = 97,
 			TYPE = 6
@@ -401,7 +401,7 @@ mapNPCInfoTable = {
 	},
 	moc_ruins = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 59,
 			Y = 157,
 			TYPE = 6
@@ -439,13 +439,13 @@ mapNPCInfoTable = {
 	},
 	alberta = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 28,
 			Y = 229,
 			TYPE = 6
 		},
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 113,
 			Y = 60,
 			TYPE = 6
@@ -501,19 +501,19 @@ mapNPCInfoTable = {
 	},
 	yuno = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 327,
 			Y = 108,
 			TYPE = 6
 		},
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 277,
 			Y = 221,
 			TYPE = 6
 		},
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 152,
 			Y = 187,
 			TYPE = 6
@@ -551,7 +551,7 @@ mapNPCInfoTable = {
 	},
 	comodo = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 195,
 			Y = 150,
 			TYPE = 6
@@ -595,13 +595,13 @@ mapNPCInfoTable = {
 	},
 	einbroch = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 59,
 			Y = 203,
 			TYPE = 6
 		},
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 242,
 			Y = 205,
 			TYPE = 6
@@ -651,7 +651,7 @@ mapNPCInfoTable = {
 	},
 	einbech = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 181,
 			Y = 132,
 			TYPE = 6
@@ -677,19 +677,19 @@ mapNPCInfoTable = {
 	},
 	lighthalzen = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 191,
 			Y = 320,
 			TYPE = 6
 		},
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 164,
 			Y = 100,
 			TYPE = 6
 		},
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 94,
 			Y = 248,
 			TYPE = 6
@@ -751,7 +751,7 @@ mapNPCInfoTable = {
 	},
 	hugel = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 88,
 			Y = 168,
 			TYPE = 6
@@ -789,7 +789,7 @@ mapNPCInfoTable = {
 	},
 	rachel = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 109,
 			Y = 138,
 			TYPE = 6
@@ -827,7 +827,7 @@ mapNPCInfoTable = {
 	},
 	veins = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 208,
 			Y = 128,
 			TYPE = 6
@@ -865,7 +865,7 @@ mapNPCInfoTable = {
 	},
 	brasilis = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 197,
 			Y = 221,
 			TYPE = 6
@@ -897,7 +897,7 @@ mapNPCInfoTable = {
 	},
 	dewata = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 202,
 			Y = 184,
 			TYPE = 6
@@ -935,13 +935,13 @@ mapNPCInfoTable = {
 	},
 	malaya = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 71,
 			Y = 79,
 			TYPE = 6
 		},
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 234,
 			Y = 204,
 			TYPE = 6
@@ -985,7 +985,7 @@ mapNPCInfoTable = {
 	},
 	louyang = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 210,
 			Y = 104,
 			TYPE = 6
@@ -1011,7 +1011,7 @@ mapNPCInfoTable = {
 	},
 	ayothaya = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 212,
 			Y = 169,
 			TYPE = 6
@@ -1043,7 +1043,7 @@ mapNPCInfoTable = {
 	},
 	moscovia = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 223,
 			Y = 191,
 			TYPE = 6
@@ -1081,7 +1081,7 @@ mapNPCInfoTable = {
 	},
 	amatsu = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 102,
 			Y = 149,
 			TYPE = 6
@@ -1107,7 +1107,7 @@ mapNPCInfoTable = {
 	},
 	gonryun = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 159,
 			Y = 122,
 			TYPE = 6
@@ -1139,7 +1139,7 @@ mapNPCInfoTable = {
 	},
 	umbala = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 87,
 			Y = 160,
 			TYPE = 6
@@ -1171,7 +1171,7 @@ mapNPCInfoTable = {
 	},
 	niflheim = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 202,
 			Y = 180,
 			TYPE = 6
@@ -1197,7 +1197,7 @@ mapNPCInfoTable = {
 	},
 	izlu2dun = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 106,
 			Y = 58,
 			TYPE = 6
@@ -1205,7 +1205,7 @@ mapNPCInfoTable = {
 	},
 	alb2trea = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 59,
 			Y = 69,
 			TYPE = 6
@@ -1219,7 +1219,7 @@ mapNPCInfoTable = {
 	},
 	mjolnir_02 = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 82,
 			Y = 362,
 			TYPE = 6
@@ -1227,7 +1227,7 @@ mapNPCInfoTable = {
 	},
 	gef_fild10 = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 73,
 			Y = 340,
 			TYPE = 6
@@ -1235,7 +1235,7 @@ mapNPCInfoTable = {
 	},
 	dicastes01 = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 136,
 			Y = 106,
 			TYPE = 6
@@ -1249,7 +1249,7 @@ mapNPCInfoTable = {
 	},
 	malangdo = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 184,
 			Y = 138,
 			TYPE = 6
@@ -1275,7 +1275,7 @@ mapNPCInfoTable = {
 	},
 	xmas = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 148,
 			Y = 134,
 			TYPE = 6
@@ -1301,7 +1301,7 @@ mapNPCInfoTable = {
 	},
 	mora = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 48,
 			Y = 127,
 			TYPE = 6
@@ -1351,7 +1351,7 @@ mapNPCInfoTable = {
 	},
 	izlude_a = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 128,
 			Y = 148,
 			TYPE = 6
@@ -1389,7 +1389,7 @@ mapNPCInfoTable = {
 	},
 	izlude_b = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 128,
 			Y = 148,
 			TYPE = 6
@@ -1427,7 +1427,7 @@ mapNPCInfoTable = {
 	},
 	izlude_c = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 128,
 			Y = 148,
 			TYPE = 6
@@ -1465,7 +1465,7 @@ mapNPCInfoTable = {
 	},
 	izlude_d = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 128,
 			Y = 148,
 			TYPE = 6
@@ -1503,7 +1503,7 @@ mapNPCInfoTable = {
 	},
 	lasagna = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 208,
 			Y = 188,
 			TYPE = 6
@@ -1541,7 +1541,7 @@ mapNPCInfoTable = {
 			TYPE = 2
 		},
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 136,
 			Y = 134,
 			TYPE = 6
@@ -1555,7 +1555,7 @@ mapNPCInfoTable = {
 	},
 	harboro1 = {
 		{
-			name = "Armazém",
+			name = "ArmazÃ©m",
 			X = 291,
 			Y = 207,
 			TYPE = 6

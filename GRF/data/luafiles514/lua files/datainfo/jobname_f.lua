@@ -13,8 +13,8 @@ function GetJobString(jobID)
 	return ""
 end
 function GetPetIllustName(jobID)
-	filePath = "À¯ÀúÀÎÅÍÆäÀÌ½º\\illust\\"
-	fileName = "Æê_Æ÷¸µ.bmp"
+	filePath = "ìœ ì €ì¸í„°í˜ì´ìŠ¤\\illust\\"
+	fileName = "í«_í¬ë§.bmp"
 	if PetIllustNameTable[jobID] ~= nil then
 		fileName = PetIllustNameTable[jobID]
 	end
@@ -41,8 +41,8 @@ function GetPetIllustName_V3(jobID)
 	return filePath .. fileName
 end
 function GetPetAccActName(accID)
-	local filePath = "¸ó½ºÅÍ\\"
-	local fileName = "chocho_¹æµ¶¸é.act"
+	local filePath = "ëª¬ìŠ¤í„°\\"
+	local fileName = "chocho_ë°©ë…ë©´.act"
 	if PetAccActNameTable[accID] ~= nil then
 		fileName = PetAccActNameTable[accID]
 	end

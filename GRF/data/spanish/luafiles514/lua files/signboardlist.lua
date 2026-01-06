@@ -9,7 +9,7 @@ SignBoardList = {
 		CELLY = 278,
 		HEIGHT = 0,
 		ICONID = 1,
-		FILEPATH = "collection\\≤…∞°¡ˆ.bmp",
+		FILEPATH = "collection\\¬≤√â¬∞¬°√Å√∂.bmp",
 		CONTENTS = "Nothing Typed",
 		CHARCOLOR = "#0x009EBDFF"
 	},
@@ -50,7 +50,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
-		CONTENTS = "  Grupo del EdÈn",
+		CONTENTS = "  Grupo del Ed√©n",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[7] = {
@@ -60,7 +60,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
-		CONTENTS = "  Grupo del EdÈn",
+		CONTENTS = "  Grupo del Ed√©n",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[8] = {
@@ -70,7 +70,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
-		CONTENTS = "  Grupo del EdÈn",
+		CONTENTS = "  Grupo del Ed√©n",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[9] = {
@@ -80,7 +80,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
-		CONTENTS = "  Grupo del EdÈn",
+		CONTENTS = "  Grupo del Ed√©n",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[10] = {
@@ -90,7 +90,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
-		CONTENTS = "  Grupo del EdÈn",
+		CONTENTS = "  Grupo del Ed√©n",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[11] = {
@@ -100,7 +100,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
-		CONTENTS = "  Grupo del EdÈn",
+		CONTENTS = "  Grupo del Ed√©n",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[12] = {
@@ -110,7 +110,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
-		CONTENTS = "   Grupo del EdÈn",
+		CONTENTS = "   Grupo del Ed√©n",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[13] = {
@@ -120,7 +120,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
-		CONTENTS = "  Grupo del EdÈn",
+		CONTENTS = "  Grupo del Ed√©n",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[14] = {
@@ -130,7 +130,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
-		CONTENTS = "  Grupo del EdÈn",
+		CONTENTS = "  Grupo del Ed√©n",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[15] = {
@@ -140,7 +140,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
-		CONTENTS = "  Grupo del EdÈn",
+		CONTENTS = "  Grupo del Ed√©n",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[16] = {
@@ -150,7 +150,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
-		CONTENTS = "  Grupo del EdÈn",
+		CONTENTS = "  Grupo del Ed√©n",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[17] = {
@@ -160,7 +160,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
-		CONTENTS = "  Grupo del EdÈn",
+		CONTENTS = "  Grupo del Ed√©n",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[18] = {
@@ -170,7 +170,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
-		CONTENTS = "  Grupo del EdÈn",
+		CONTENTS = "  Grupo del Ed√©n",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[19] = {
@@ -180,7 +180,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
-		CONTENTS = "  Grupo del EdÈn",
+		CONTENTS = "  Grupo del Ed√©n",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[20] = {
@@ -190,7 +190,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
-		CONTENTS = "  Grupo del EdÈn",
+		CONTENTS = "  Grupo del Ed√©n",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[21] = {
@@ -200,7 +200,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
-		CONTENTS = "  Grupo del EdÈn",
+		CONTENTS = "  Grupo del Ed√©n",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[22] = {
@@ -210,7 +210,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
-		CONTENTS = "  Grupo del EdÈn",
+		CONTENTS = "  Grupo del Ed√©n",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[23] = {
@@ -220,7 +220,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
-		CONTENTS = "  Grupo del EdÈn",
+		CONTENTS = "  Grupo del Ed√©n",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[24] = {
@@ -230,7 +230,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
-		CONTENTS = "  Grupo del EdÈn",
+		CONTENTS = "  Grupo del Ed√©n",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[25] = {
@@ -240,7 +240,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
-		CONTENTS = "  Grupo del EdÈn",
+		CONTENTS = "  Grupo del Ed√©n",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[26] = {
@@ -250,7 +250,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
-		CONTENTS = "  Grupo del EdÈn",
+		CONTENTS = "  Grupo del Ed√©n",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[27] = {
@@ -260,7 +260,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
-		CONTENTS = "  Grupo del EdÈn",
+		CONTENTS = "  Grupo del Ed√©n",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[28] = {
@@ -270,7 +270,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
-		CONTENTS = "  Grupo del EdÈn",
+		CONTENTS = "  Grupo del Ed√©n",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[29] = {
@@ -280,7 +280,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
-		CONTENTS = "  Grupo del EdÈn",
+		CONTENTS = "  Grupo del Ed√©n",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[30] = {
@@ -1852,7 +1852,7 @@ SignBoardList = {
 		HEIGHT = 5,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
-		CONTENTS = "  SalÛn",
+		CONTENTS = "  Sal√≥n",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[228] = {
@@ -1882,7 +1882,7 @@ SignBoardList = {
 		HEIGHT = 5,
 		ICONID = 3,
 		FILEPATH = "group\\group_13.bmp",
-		CONTENTS = "  LadrÛnes",
+		CONTENTS = "  Ladr√≥nes",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[231] = {
@@ -1912,7 +1912,7 @@ SignBoardList = {
 		HEIGHT = 5,
 		ICONID = 3,
 		FILEPATH = "group\\group_7.bmp",
-		CONTENTS = "  AcÛlitos",
+		CONTENTS = "  Ac√≥litos",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[234] = {
@@ -4918,7 +4918,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "clan_system\\clan_emblem02.bmp",
-		CONTENTS = "  Clan del B·culo",
+		CONTENTS = "  Clan del B√°culo",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[614] = {
@@ -6552,7 +6552,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "clan_system\\clan_emblem02.bmp",
-		CONTENTS = "  Clan del B·culo",
+		CONTENTS = "  Clan del B√°culo",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[887] = {

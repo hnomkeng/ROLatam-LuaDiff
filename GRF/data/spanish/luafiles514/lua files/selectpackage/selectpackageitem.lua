@@ -97,12 +97,12 @@ packageitemboxName = {
 	{
 		104681,
 		2,
-		"[Disfraz] Cataratas del Iguaz˙"
+		"[Disfraz] Cataratas del Iguaz√∫"
 	},
 	{
 		104714,
 		0,
-		"[Disfraz] M·scara de Chimuelo"
+		"[Disfraz] M√°scara de Chimuelo"
 	},
 	{
 		104714,
@@ -172,7 +172,7 @@ packageitemboxName = {
 	{
 		104820,
 		6,
-		"BastÛn de Metal"
+		"Bast√≥n de Metal"
 	},
 	{
 		104820,
@@ -192,7 +192,7 @@ packageitemboxName = {
 	{
 		104820,
 		10,
-		"RevÛlver de Metal"
+		"Rev√≥lver de Metal"
 	},
 	{
 		104820,
@@ -202,7 +202,7 @@ packageitemboxName = {
 	{
 		104821,
 		0,
-		"Espada Ev. de Caballero R˙nico"
+		"Espada Ev. de Caballero R√∫nico"
 	},
 	{
 		104821,
@@ -212,7 +212,7 @@ packageitemboxName = {
 	{
 		104821,
 		2,
-		"Hacha Evolutiva de Mec·nico"
+		"Hacha Evolutiva de Mec√°nico"
 	},
 	{
 		104821,
@@ -232,17 +232,17 @@ packageitemboxName = {
 	{
 		104821,
 		6,
-		"BastÛn Evolutivo de Brujo"
+		"Bast√≥n Evolutivo de Brujo"
 	},
 	{
 		104821,
 		7,
-		"BastÛn Evolutivo Conjurador"
+		"Bast√≥n Evolutivo Conjurador"
 	},
 	{
 		104821,
 		8,
-		"BastÛn Evolutivo de Arzobispo"
+		"Bast√≥n Evolutivo de Arzobispo"
 	},
 	{
 		104821,
@@ -257,12 +257,12 @@ packageitemboxName = {
 	{
 		104821,
 		11,
-		"ViolÌn Evolutivo del Maestro"
+		"Viol√≠n Evolutivo del Maestro"
 	},
 	{
 		104821,
 		12,
-		"L·tigo Evolutivo NÛmada"
+		"L√°tigo Evolutivo N√≥mada"
 	},
 	{
 		104821,
@@ -282,7 +282,7 @@ packageitemboxName = {
 	{
 		104821,
 		16,
-		"BastÛn Evolutivo Super Novicio"
+		"Bast√≥n Evolutivo Super Novicio"
 	},
 	{
 		104822,
@@ -292,32 +292,32 @@ packageitemboxName = {
 	{
 		104822,
 		1,
-		"Conjunto de Armadura M·gica"
+		"Conjunto de Armadura M√°gica"
 	},
 	{
 		103903,
 		0,
-		"[Disfraz] Sombrero del DragÛn Guerrero"
+		"[Disfraz] Sombrero del Drag√≥n Guerrero"
 	},
 	{
 		103903,
 		1,
-		"[Disfraz] Manto del Guerrero DragÛn"
+		"[Disfraz] Manto del Guerrero Drag√≥n"
 	},
 	{
 		103904,
 		0,
-		"[Disfraz] MuÒeco Shifu"
+		"[Disfraz] Mu√±eco Shifu"
 	},
 	{
 		103904,
 		1,
-		"[Disfraz] MuÒeco de Tigresa"
+		"[Disfraz] Mu√±eco de Tigresa"
 	},
 	{
 		103905,
 		0,
-		"[Disfraz] Pintura con Tinta (DÌa)"
+		"[Disfraz] Pintura con Tinta (D√≠a)"
 	},
 	{
 		103905,
@@ -387,72 +387,72 @@ packageitemboxName = {
 	{
 		105984,
 		0,
-		"Jetpack FÌsico"
+		"Jetpack F√≠sico"
 	},
 	{
 		105984,
 		1,
-		"Jetpack M·gico"
+		"Jetpack M√°gico"
 	},
 	{
 		105984,
 		2,
-		"Jetpack CrÌtico"
+		"Jetpack Cr√≠tico"
 	},
 	{
 		105985,
 		0,
-		"Exoesqueleto FÌsico"
+		"Exoesqueleto F√≠sico"
 	},
 	{
 		105985,
 		1,
-		"Exoesqueleto M·gico"
+		"Exoesqueleto M√°gico"
 	},
 	{
 		105985,
 		2,
-		"Exoesqueleto CrÌtico"
+		"Exoesqueleto Cr√≠tico"
 	},
 	{
 		101470,
 		0,
-		"PociÛn de ReducciÛn de STR"
+		"Poci√≥n de Reducci√≥n de STR"
 	},
 	{
 		101470,
 		1,
-		"PociÛn de ReducciÛn de AGI"
+		"Poci√≥n de Reducci√≥n de AGI"
 	},
 	{
 		101470,
 		2,
-		"PociÛn de ReducciÛn de VIT"
+		"Poci√≥n de Reducci√≥n de VIT"
 	},
 	{
 		101470,
 		3,
-		"PociÛn de ReducciÛn de INT"
+		"Poci√≥n de Reducci√≥n de INT"
 	},
 	{
 		101470,
 		4,
-		"PociÛn de ReducciÛn de DEX"
+		"Poci√≥n de Reducci√≥n de DEX"
 	},
 	{
 		101470,
 		5,
-		"PociÛn de ReducciÛn de LUK"
+		"Poci√≥n de Reducci√≥n de LUK"
 	},
 	{
 		101470,
 		6,
-		"Una de cada PociÛn de ReducciÛn"
+		"Una de cada Poci√≥n de Reducci√≥n"
 	},
 	{
 		106167,
 		0,
-		"[Disfraz] Mochila de Oso NavideÒo"
+		"[Disfraz] Mochila de Oso Navide√±o"
 	},
 	{
 		106167,
@@ -462,7 +462,7 @@ packageitemboxName = {
 	{
 		106167,
 		2,
-		"[Disfraz] SensaciÛn de Invierno"
+		"[Disfraz] Sensaci√≥n de Invierno"
 	},
 	{
 		106167,
@@ -472,7 +472,7 @@ packageitemboxName = {
 	{
 		106167,
 		4,
-		"[Disfraz] Iglun·tico"
+		"[Disfraz] Iglun√°tico"
 	},
 	{
 		106167,
@@ -487,7 +487,7 @@ packageitemboxName = {
 	{
 		106166,
 		1,
-		"¡rbol Guardi·n NavideÒo"
+		"√Årbol Guardi√°n Navide√±o"
 	},
 	{
 		106166,
@@ -502,7 +502,7 @@ packageitemboxName = {
 	{
 		106166,
 		4,
-		"Bota NavideÒa"
+		"Bota Navide√±a"
 	},
 	{
 		0,

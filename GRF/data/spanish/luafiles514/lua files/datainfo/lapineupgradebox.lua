@@ -59,7 +59,7 @@ tblLapineUpgradeBox = {
 				},
 				{"Boots_IL", 22190}
 			},
-			NeedSource_String = "Ilusi髇 del Osito"
+			NeedSource_String = "Ilusi贸n del Osito"
 		},
 		S_Teddy_Bear_Box_IL = {
 			ItemID = 100420,
@@ -86,7 +86,7 @@ tblLapineUpgradeBox = {
 				},
 				{"Boots_IL", 22190}
 			},
-			NeedSource_String = "Ilusi髇 del Osito"
+			NeedSource_String = "Ilusi贸n del Osito"
 		},
 		Frozen_Box_IL = {
 			ItemID = 9785,
@@ -113,7 +113,7 @@ tblLapineUpgradeBox = {
 					28922
 				}
 			},
-			NeedSource_String = "Ilusi髇 de Congelado"
+			NeedSource_String = "Ilusi贸n de Congelado"
 		},
 		S_Frozen_Box_IL = {
 			ItemID = 100416,
@@ -140,7 +140,7 @@ tblLapineUpgradeBox = {
 					28922
 				}
 			},
-			NeedSource_String = "Ilusi髇 de Congelado"
+			NeedSource_String = "Ilusi贸n de Congelado"
 		},
 		Moonlight_Box_IL = {
 			ItemID = 100391,
@@ -180,7 +180,7 @@ tblLapineUpgradeBox = {
 					19210
 				}
 			},
-			NeedSource_String = "Ilusi髇 de Luz de Luna"
+			NeedSource_String = "Ilusi贸n de Luz de Luna"
 		},
 		S_Moonlight_Box_IL = {
 			ItemID = 100392,
@@ -220,7 +220,7 @@ tblLapineUpgradeBox = {
 					19210
 				}
 			},
-			NeedSource_String = "Ilusi髇 de Luz de Luna"
+			NeedSource_String = "Ilusi贸n de Luz de Luna"
 		},
 		Vampire_Box_IL = {
 			ItemID = 100414,
@@ -254,7 +254,7 @@ tblLapineUpgradeBox = {
 					20840
 				}
 			},
-			NeedSource_String = "Ilusi髇 de Vampiro"
+			NeedSource_String = "Ilusi贸n de Vampiro"
 		},
 		S_Vampire_Box_IL = {
 			ItemID = 100415,
@@ -288,7 +288,7 @@ tblLapineUpgradeBox = {
 					20840
 				}
 			},
-			NeedSource_String = "Ilusi髇 de Vampiro"
+			NeedSource_String = "Ilusi贸n de Vampiro"
 		},
 		Time_Unseal_Key = {
 			ItemID = 9551,
@@ -8725,7 +8725,7 @@ tblLapineUpgradeBox = {
 					18984
 				}
 			},
-			NeedSource_String = "Chap閡 Memor醰el"
+			NeedSource_String = "Chap茅u Memor谩vel"
 		},
 		Loki_Advice = {
 			ItemID = 102277,
@@ -13424,7 +13424,7 @@ tblLapineUpgradeBox = {
 					420269
 				}
 			},
-			NeedSource_String = "Selo de Bast鮡s"
+			NeedSource_String = "Selo de Bast玫es"
 		},
 		UPG_TH_7_Ticket = {
 			ItemID = 104133,
@@ -13590,7 +13590,7 @@ tblLapineUpgradeBox = {
 			TargetItems = {
 				{"Upg_Whip", 580083}
 			},
-			NeedSource_String = "L醫igo Mejorado"
+			NeedSource_String = "L谩tigo Mejorado"
 		},
 		UPG_VN_7_Ticket = {
 			ItemID = 104709,
@@ -13601,7 +13601,7 @@ tblLapineUpgradeBox = {
 			TargetItems = {
 				{"Upg_Violin", 570083}
 			},
-			NeedSource_String = "Viol韓 Mejorado"
+			NeedSource_String = "Viol铆n Mejorado"
 		},
 		Growth_W_Up_1_G = {
 			ItemID = 104087,
@@ -14213,7 +14213,7 @@ tblLapineUpgradeBox = {
 					22192
 				}
 			},
-			NeedSource_String = "Equipo de la Ilusi髇 de Luanda"
+			NeedSource_String = "Equipo de la Ilusi贸n de Luanda"
 		},
 		S_Luanda_Box_IL = {
 			ItemID = 100422,
@@ -14244,7 +14244,7 @@ tblLapineUpgradeBox = {
 					22192
 				}
 			},
-			NeedSource_String = "Equipo de la Ilusi髇 de Luanda"
+			NeedSource_String = "Equipo de la Ilusi贸n de Luanda"
 		},
 		Old_9Refine_Cube = {
 			ItemID = 105926,
@@ -14307,7 +14307,7 @@ tblLapineUpgradeBox = {
 					18984
 				}
 			},
-			NeedSource_String = "Chap閡 Memor醰el"
+			NeedSource_String = "Chap茅u Memor谩vel"
 		},
 		Labyrinth_Box_IL = {
 			ItemID = 100423,
@@ -14338,7 +14338,7 @@ tblLapineUpgradeBox = {
 					20948
 				}
 			},
-			NeedSource_String = "Equipo de Ilusi髇 del Laberinto"
+			NeedSource_String = "Equipo de Ilusi贸n del Laberinto"
 		},
 		S_Teddy_Labyrinth_IL = {
 			ItemID = 100424,
@@ -14369,7 +14369,7 @@ tblLapineUpgradeBox = {
 					20948
 				}
 			},
-			NeedSource_String = "Equipo de Ilusi髇 del Laberinto"
+			NeedSource_String = "Equipo de Ilusi贸n del Laberinto"
 		},
 		Twins_Box_IL = {
 			ItemID = 100699,
@@ -14420,7 +14420,7 @@ tblLapineUpgradeBox = {
 					450182
 				}
 			},
-			NeedSource_String = "Equipo de la Ilusi髇 de los Gemelos"
+			NeedSource_String = "Equipo de la Ilusi贸n de los Gemelos"
 		},
 		S_Twins_Box_IL = {
 			ItemID = 100700,
@@ -14467,7 +14467,7 @@ tblLapineUpgradeBox = {
 					450182
 				}
 			},
-			NeedSource_String = "Equipo de la Ilusi髇 de los Gemelos"
+			NeedSource_String = "Equipo de la Ilusi贸n de los Gemelos"
 		},
 		EP17_1_SPC05 = {
 			ItemID = 23776,

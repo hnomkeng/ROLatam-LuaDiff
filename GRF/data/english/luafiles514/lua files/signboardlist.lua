@@ -9,7 +9,7 @@ SignBoardList = {
 		CELLY = 278,
 		HEIGHT = 0,
 		ICONID = 1,
-		FILEPATH = "collection\\ฒษฐกม๖.bmp",
+		FILEPATH = "collection\\ยฒรยฐยกรรถ.bmp",
 		CONTENTS = "Nothing Typed",
 		CHARCOLOR = "#0x009EBDFF"
 	},
